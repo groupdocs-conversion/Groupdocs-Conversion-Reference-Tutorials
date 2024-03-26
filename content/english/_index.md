@@ -18,9 +18,9 @@ GroupDocs.Conversion for .NET provides a robust platform for converting files to
 
 These are links to some useful resources:
  
-- [File Conversion to PDF](./file-conversion-to-pdf/)
-- [File Format Conversion](./file-format-conversion-tutorials/)
-- [Convert Files to PDF](./convert-files-to-pdf/)
-- [Document Conversion](./document-conversion/)
-- [Converting File Types to PDF](./converting-file-types-to-pdf/)
-- [PDF Conversion](./pdf-conversion/)
+- [File Conversion to PDF](./net/file-conversion-to-pdf/)
+- [File Format Conversion](./net/file-format-conversion-tutorials/)
+- [Convert Files to PDF](./net/convert-files-to-pdf/)
+- [Document Conversion](./net/document-conversion/)
+- [Converting File Types to PDF](./net/converting-file-types-to-pdf/)
+- [PDF Conversion](./net/pdf-conversion/)
