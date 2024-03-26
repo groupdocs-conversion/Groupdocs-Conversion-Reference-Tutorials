@@ -20,8 +20,8 @@ Convert BMP images to PDF seamlessly with GroupDocs.Conversion for .NET. This tu
 Effortlessly convert CorelDRAW (CDR) vector graphics files to PDF format using GroupDocs.Conversion for .NET. Streamline your document conversion process and ensure smooth interoperability. [Read more](./convert-cdr-to-pdf/)
 Certainly, continuing from where we left off:
 
-## Convert CFto PDF:
-Discover how to convert CFfiles to PDF in .NET using GroupDocs.Conversion. This tutorial simplifies your document management tasks, offering a straightforward approach to file conversion. Seamlessly integrate conversion capabilities into your applications. [Read more](./convert-cfto-pdf/)
+## Convert CF2 to PDF:
+Discover how to convert CFfiles to PDF in .NET using GroupDocs.Conversion. This tutorial simplifies your document management tasks, offering a straightforward approach to file conversion. Seamlessly integrate conversion capabilities into your applications. [Read more](./convert-cf2-to-pdf/)
 
 ## Convert CGM Vector Graphics to PDF:
 Unlock the potential to convert CGM vector graphics to PDF effortlessly with GroupDocs.Conversion for .NET. Follow our step-by-step tutorial to streamline your document conversion process. Enhance your document management capabilities today. [Read more](./convert-cgm-to-pdf/)
@@ -76,7 +76,7 @@ Learn how to convert AI files to PDF effortlessly using GroupDocs.Conversion for
 Convert BMP images to PDF seamlessly using GroupDocs.Conversion for .NET. Customizable options for optimal output.
 ### [Convert CDR Vector Graphics to PDF](./convert-cdr-to-pdf/)
 Effortlessly convert CorelDRAW (CDR) vector graphics files to PDF format using GroupDocs.Conversion for .NET. Streamline your document conversion process.
-### [Convert CFto PDF](./convert-cfto-pdf/)
+### [Convert CF2 to PDF](./convert-cf2-to-pdf/)
 Learn how to convert CFfiles to PDF in .NET using GroupDocs.Conversion. Simplify your document management tasks effortlessly.
 ### [Convert CGM Vector Graphics to PDF](./convert-cgm-to-pdf/)
 Learn how to convert CGM vector graphics to PDF effortlessly using GroupDocs.Conversion for .NET. Follow our step-by-step tutorial.
