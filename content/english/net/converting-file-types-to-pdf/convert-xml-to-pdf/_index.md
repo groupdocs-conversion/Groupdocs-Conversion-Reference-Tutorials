@@ -36,6 +36,8 @@ string outputFile = Path.Combine(outputFolder, "xml-converted-to.pdf");
 ```csharp
 using (var converter = new GroupDocs.Conversion.Converter(Constants.SAMPLE_XML))
 {
+	// Conversion logic will go here
+}
 ```
 ## Step 3: Configure Conversion Options
 ```csharp

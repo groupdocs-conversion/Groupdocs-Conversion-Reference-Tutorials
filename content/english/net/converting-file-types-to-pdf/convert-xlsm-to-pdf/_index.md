@@ -37,16 +37,19 @@ Ensure to replace `"Your Document Directory"` with the directory path where you 
 ```csharp
 using (var converter = new GroupDocs.Conversion.Converter("Path_to_your_XLSM_file"))
 {
-    // Conversion options
-    var options = new PdfConvertOptions();
-    
-    // Perform conversion
-    converter.Convert(outputFile, options);
+	// Conversion logic will go here
 }
 ```
 Replace `"Path_to_your_XLSM_file"` with the actual path to your XLSM file.
 ## Step 3: Save the Converted PDF File
 After setting up the conversion options, save the converted PDF file to the specified output path.
+```csharp
+// Conversion options
+var options = new PdfConvertOptions();
+
+// Perform conversion
+converter.Convert(outputFile, options);
+```
 ## Step 4: Display Conversion Completion Message
 ```csharp
 Console.WriteLine("\nConversion to PDF completed successfully. \nCheck output in {0}", outputFolder);
