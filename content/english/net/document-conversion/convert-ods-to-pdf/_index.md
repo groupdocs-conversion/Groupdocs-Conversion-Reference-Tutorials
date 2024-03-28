@@ -12,7 +12,7 @@ In the realm of document manipulation and conversion, GroupDocs.Conversion for .
 ## Prerequisites
 Before diving into the conversion process, ensure the following prerequisites are met:
 ### Installation of GroupDocs.Conversion for .NET
-To utilize the functionalities of GroupDocs.Conversion for .NET, you need to install the library. You can download it from the official GroupDocs website.
+To utilize the functionalities of GroupDocs.Conversion for .NET, you need to install the library. You can download it from the GroupDocs website.
 1. Visit the download page [here](https://releases.groupdocs.com/conversion/net/).
 2. Select the appropriate version and download the package.
 3. Follow the installation instructions provided in the documentation [here](https://reference.groupdocs.com/conversion/net/).

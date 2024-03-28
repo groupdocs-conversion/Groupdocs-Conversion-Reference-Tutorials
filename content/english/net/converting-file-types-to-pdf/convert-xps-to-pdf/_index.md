@@ -56,7 +56,7 @@ In this tutorial, we've learned how to convert XPS files to PDF format using Gro
 ### Can GroupDocs.Conversion handle other file formats besides XPS and PDF?
 Yes, GroupDocs.Conversion supports a wide range of file formats for conversion, including Word, Excel, PowerPoint, HTML, and more.
 ### Is GroupDocs.Conversion suitable for both personal and commercial use?
-Yes, GroupDocs.Conversion offers licensing options for both personal and commercial use. You can explore the available licensing options on the official website.
+Yes, GroupDocs.Conversion offers licensing options for both personal and commercial use. You can explore the available licensing options on the website.
 ### Does GroupDocs.Conversion provide support for developers integrating the library into their applications?
 Yes, GroupDocs.Conversion offers comprehensive documentation and support forums where developers can find resources, ask questions, and seek assistance from the community and support team.
 ### Can I try GroupDocs.Conversion before purchasing a license?
