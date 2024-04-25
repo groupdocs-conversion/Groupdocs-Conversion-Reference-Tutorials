@@ -68,7 +68,7 @@ Aprenda cómo convertir fácilmente documentos DOCX Word a PDF usando GroupDocs.
 ## Convierta archivos DWF CAD a PDF:
 Aprenda a convertir archivos DWF CAD a PDF sin esfuerzo con GroupDocs.Conversion para .NET. Siga nuestro tutorial paso a paso para una integración perfecta en sus aplicaciones .NET. Mejore sus flujos de trabajo de gestión de documentos hoy.[Leer más](./convert-dwf-to-pdf/)
 
- Estos tutoriales ofrecen orientación completa sobre cómo convertir varios formatos de archivos a PDF, lo que permite a los desarrolladores y empresas optimizar sus flujos de trabajo de gestión de documentos de forma eficaz. Explore los tutoriales proporcionados por GroupDocs.Conversion para .NET para optimizar sus procesos de conversión de archivos hoy.[Leer más](./groupdocs-conversion-for-net/)
+ Estos tutoriales ofrecen orientación completa sobre cómo convertir varios formatos de archivos a PDF, lo que permite a los desarrolladores y empresas optimizar sus flujos de trabajo de gestión de documentos de forma eficaz. Explore los tutoriales proporcionados por GroupDocs.Conversion para .NET para optimizar sus procesos de conversión de archivos hoy.
 ## Tutoriales de conversión de archivos a PDF
 ### [Convertir archivos AI a PDF](./convert-ai-to-pdf/)
 Aprenda a convertir archivos AI a PDF sin esfuerzo utilizando GroupDocs.Conversion para .NET. Optimice sus flujos de trabajo de gestión de documentos.

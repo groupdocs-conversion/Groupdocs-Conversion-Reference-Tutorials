@@ -68,7 +68,7 @@ Tanulja meg, hogyan konvertálhat könnyedén DOCX Word dokumentumokat PDF form�
 ## A DWF CAD-fájlok konvertálása PDF-be:
 Tanulja meg, hogyan konvertálhat könnyedén DWF CAD fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Kövesse lépésenkénti oktatóanyagunkat a .NET-alkalmazásokba való zökkenőmentes integráció érdekében. Tökéletesítse dokumentumkezelési munkafolyamatait még ma.[Olvass tovább](./convert-dwf-to-pdf/)
 
- Ezek az oktatóanyagok átfogó útmutatást adnak a különféle fájlformátumok PDF formátumba konvertálásához, lehetővé téve a fejlesztők és a vállalkozások számára, hogy hatékonyan racionalizálják dokumentumkezelési munkafolyamataikat. Fedezze fel a GroupDocs.Conversion for .NET által biztosított oktatóanyagokat a fájlkonverziós folyamatok optimalizálásához.[Olvass tovább](./groupdocs-conversion-for-net/)
+ Ezek az oktatóanyagok átfogó útmutatást adnak a különféle fájlformátumok PDF formátumba konvertálásához, lehetővé téve a fejlesztők és a vállalkozások számára, hogy hatékonyan racionalizálják dokumentumkezelési munkafolyamataikat. Fedezze fel a GroupDocs.Conversion for .NET által biztosított oktatóanyagokat a fájlkonverziós folyamatok optimalizálásához.
 ## Fájlkonvertálás PDF-be oktatóanyagok
 ### [Konvertálja az AI-fájlokat PDF-be](./convert-ai-to-pdf/)
 Tanulja meg, hogyan konvertálhat könnyedén AI-fájlokat PDF-be a GroupDocs.Conversion for .NET segítségével. Egyszerűsítse dokumentumkezelési munkafolyamatait.
