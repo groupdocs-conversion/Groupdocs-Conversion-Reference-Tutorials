@@ -6,6 +6,9 @@ description: Convierta archivos JPM a PDF sin esfuerzo utilizando GroupDocs.Conv
 weight: 15
 url: /es/net/document-conversion/convert-jpm-to-pdf/
 ---
+
+# Convertir JPM a PDF
+
 ## Introducción
 En el mundo digital actual, la necesidad de convertir archivos de un formato a otro es cada vez más frecuente. Ya sea por razones de compatibilidad, optimización del almacenamiento o para compartir, tener la capacidad de convertir archivos sin problemas es invaluable. Afortunadamente, con la llegada de bibliotecas potentes como GroupDocs.Conversion para .NET, realizar este tipo de conversiones nunca ha sido tan fácil.
 ## Requisitos previos

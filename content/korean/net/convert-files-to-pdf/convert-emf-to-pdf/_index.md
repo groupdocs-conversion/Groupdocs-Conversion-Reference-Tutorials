@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET을 사용하여 EMF Windows 메타파
 weight: 13
 url: /ko/net/convert-files-to-pdf/convert-emf-to-pdf/
 ---
+
+# EMF Windows 메타파일을 PDF로 변환
+
 ## 소개
 이 자습서에서는 .NET용 GroupDocs.Conversion을 사용하여 EMF(확장 메타파일) Windows 메타파일을 PDF 형식으로 변환하는 과정을 안내합니다.
 ## 전제 조건

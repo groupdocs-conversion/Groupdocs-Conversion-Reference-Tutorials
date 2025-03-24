@@ -6,6 +6,9 @@ description: Converteer HTML-webpagina's moeiteloos naar PDF-indeling met GroupD
 weight: 22
 url: /nl/net/convert-files-to-pdf/convert-html-to-pdf/
 ---
+
+# Converteer HTML-webpagina's naar PDF
+
 ## Invoering
 In het huidige digitale tijdperk is de mogelijkheid om verschillende documentformaten naadloos te converteren cruciaal voor zowel bedrijven als particulieren. Of het nu gaat om het converteren van HTML-webpagina's naar PDF's voor eenvoudig delen of archiveren: de juiste tools kunnen het verschil maken. In deze zelfstudie onderzoeken we hoe u GroupDocs.Conversion voor .NET kunt gebruiken om HTML-webpagina's efficiënt naar PDF-indeling te converteren.
 ## Vereisten

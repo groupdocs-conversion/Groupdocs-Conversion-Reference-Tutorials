@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET を使用して、DOTX Word テンプ
 weight: 27
 url: /ja/net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---
+
+# DOTX Word テンプレートを PDF に変換
+
 ## 導入
 Microsoft Word ドキュメントは、DOTX 形式でのテンプレートの作成など、さまざまな目的で広く使用されています。ただし、共有、印刷、アーカイブを容易にするために、これらの DOTX テンプレートを PDF に変換する必要がある場合があります。このチュートリアルでは、GroupDocs.Conversion for .NET を使用して DOTX Word テンプレートを PDF に変換するプロセスを説明します。
 ## 前提条件

@@ -6,6 +6,9 @@ description: Converteer medische DICOM-beelden moeiteloos naar PDF-formaat met G
 weight: 19
 url: /nl/net/file-conversion-to-pdf/convert-dicom-to-pdf/
 ---
+
+# Converteer DICOM medische beelden naar PDF
+
 ## Invoering
 In het huidige digitale tijdperk is de mogelijkheid om bestandsformaten naadloos te converteren van cruciaal belang. Of het nu gaat om archiveren, delen of gewoon bekijken, de noodzaak om bestanden van het ene formaat naar het andere te converteren is een veel voorkomende taak. Eén van deze conversies die vaak voorkomt op medisch gebied is de conversie van DICOM-afbeeldingen (Digital Imaging and Communications in Medicine) naar PDF-formaat. DICOM-bestanden zijn het standaardformaat dat wordt gebruikt voor medische beeldvorming en waarin informatie wordt opgeslagen zoals MRI-scans, röntgenfoto's en CT-scans.
 ## Vereisten

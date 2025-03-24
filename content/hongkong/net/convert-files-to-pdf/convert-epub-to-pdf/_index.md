@@ -6,6 +6,9 @@ description: 使用 GroupDocs.Conversion for .NET 輕鬆將 EPUB 電子書轉換
 weight: 18
 url: /zh-hant/net/convert-files-to-pdf/convert-epub-to-pdf/
 ---
+
+# 將 EPUB 電子書轉換為 PDF
+
 ## 介紹
 在當今的數位時代，無縫轉換文件格式的能力是管理數位文件的重要方面。無論您處理的是電子書、文件還是圖像，能夠將它們轉換為不同的格式都可以極大地增強它們的可訪問性和可用性。在眾多的文件格式轉換中，由於 PDF 的通用相容性和格式穩定性，將 EPUB 電子書轉換為 PDF 具有非常重要的意義。
 ## 先決條件

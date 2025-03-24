@@ -6,6 +6,9 @@ description: .NET용 GroupDocs.Conversion을 사용하여 CGM 벡터 그래픽�
 weight: 14
 url: /ko/net/file-conversion-to-pdf/convert-cgm-to-pdf/
 ---
+
+# CGM 벡터 그래픽을 PDF로 변환
+
 ## 소개
 이 자습서에서는 .NET용 GroupDocs.Conversion을 사용하여 CGM(컴퓨터 그래픽 메타파일) 벡터 그래픽을 PDF 형식으로 변환하는 과정을 안내합니다. CGM은 벡터 그래픽에 사용되는 파일 형식으로 기술 도면, 일러스트레이션 및 기타 그래픽 응용 프로그램에서 일반적으로 사용됩니다.
 ## 전제 조건

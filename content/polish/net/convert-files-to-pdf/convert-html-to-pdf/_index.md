@@ -6,6 +6,9 @@ description: Bez wysiłku konwertuj strony internetowe HTML do formatu PDF za po
 weight: 22
 url: /pl/net/convert-files-to-pdf/convert-html-to-pdf/
 ---
+
+# Konwertuj strony internetowe HTML na format PDF
+
 ## Wstęp
 dzisiejszej erze cyfrowej możliwość płynnej konwersji różnych formatów dokumentów ma kluczowe znaczenie zarówno dla firm, jak i osób prywatnych. Niezależnie od tego, czy konwertujesz strony internetowe HTML do plików PDF w celu łatwego udostępniania, czy archiwizowania, posiadanie odpowiednich narzędzi może mieć znaczenie. W tym samouczku omówimy, jak używać programu GroupDocs.Conversion dla platformy .NET do wydajnej konwersji stron internetowych HTML do formatu PDF.
 ## Warunki wstępne

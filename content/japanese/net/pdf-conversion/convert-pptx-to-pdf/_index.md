@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET を使用して PowerPoint プレゼ�
 weight: 29
 url: /ja/net/pdf-conversion/convert-pptx-to-pdf/
 ---
+
+# PPTXをPDFに変換
+
 ## 導入
 このチュートリアルでは、.NET 用の GroupDocs.Conversion ライブラリを使用して、PowerPoint プレゼンテーション (PPTX) ファイルを Portable Document Format (PDF) に変換するプロセスを説明します。この変換を行うには、次の手順に従ってください。
 ## 前提条件

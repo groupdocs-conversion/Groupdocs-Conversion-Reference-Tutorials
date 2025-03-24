@@ -6,6 +6,9 @@ description: Naučte se, jak bez námahy převést soubory IFC Building Informat
 weight: 25
 url: /cs/net/convert-files-to-pdf/convert-ifc-to-pdf/
 ---
+
+# Převeďte soubory informačního modelování budov IFC do formátu PDF
+
 ## Úvod
 dnešní digitální době je schopnost plynule převádět soubory z jednoho formátu do druhého prvořadá. Ať už pracujete s dokumenty, obrázky nebo specializovanými soubory, jako jsou soubory IFC Building Information Modeling (BIM), s těmi správnými nástroji může být rozdíl. V tomto tutoriálu se ponoříme do procesu převodu souborů IFC do formátu PDF pomocí GroupDocs.Conversion for .NET. 
 ## Předpoklady

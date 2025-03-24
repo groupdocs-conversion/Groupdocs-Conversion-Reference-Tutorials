@@ -6,6 +6,9 @@ description: Lär dig hur du konverterar VSDM-filer till PDF-format med GroupDoc
 weight: 26
 url: /sv/net/file-format-conversion-convert-vsdm-to-pdf/
 ---
+
+# Konvertera VSDM till PDF
+
 ## Introduktion
 I den här självstudien guidar vi dig genom processen att konvertera VSDM-filer (Visio Macro-Enabled Drawing) till PDF-format med hjälp av GroupDocs.Conversion-biblioteket för .NET. Vi delar upp varje steg i detaljerade instruktioner för att säkerställa en smidig konverteringsprocess.
 ## Förutsättningar

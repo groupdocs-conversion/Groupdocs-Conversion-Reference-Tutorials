@@ -6,6 +6,9 @@ description: Leer hoe u VSTX-bestanden naar PDF-indeling converteert met GroupDo
 weight: 15
 url: /nl/net/converting-file-types-to-pdf/convert-vstx-to-pdf/
 ---
+
+# Converteer VSTX naar PDF
+
 ## Invoering
 In deze zelfstudie begeleiden we u bij het converteren van VSTX-bestanden naar PDF-indeling met behulp van GroupDocs.Conversion voor .NET. Deze krachtige bibliotheek maakt een naadloze conversie tussen verschillende documentformaten mogelijk, waardoor flexibiliteit en efficiëntie in documentbeheer wordt geboden.
 ## Vereisten

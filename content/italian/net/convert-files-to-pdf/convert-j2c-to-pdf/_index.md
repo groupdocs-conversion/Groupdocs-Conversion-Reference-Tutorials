@@ -6,6 +6,9 @@ description: Scopri come convertire facilmente immagini J2C in PDF utilizzando G
 weight: 27
 url: /it/net/convert-files-to-pdf/convert-j2c-to-pdf/
 ---
+
+# Converti immagini compresse J2C JPEG-LS in PDF
+
 ## introduzione
 In questo tutorial esploreremo come utilizzare GroupDocs.Conversion per .NET per convertire immagini J2C (JPEG-LS compresse) in formato PDF. GroupDocs.Conversion è una potente libreria di conversione di documenti che consente agli sviluppatori di convertire senza problemi vari formati di documenti nelle loro applicazioni .NET.
 ## Prerequisiti

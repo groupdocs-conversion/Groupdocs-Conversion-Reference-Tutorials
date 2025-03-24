@@ -6,6 +6,9 @@ description: Aprenda como converter facilmente arquivos IFC Building Information
 weight: 25
 url: /pt/net/convert-files-to-pdf/convert-ifc-to-pdf/
 ---
+
+# Converter arquivos de modelagem de informações de construção IFC em PDF
+
 ## Introdução
 Na era digital de hoje, a capacidade de converter arquivos de um formato para outro perfeitamente é fundamental. Esteja você lidando com documentos, imagens ou arquivos especializados, como arquivos IFC Building Information Modeling (BIM), ter as ferramentas certas pode fazer toda a diferença. Neste tutorial, nos aprofundaremos no processo de conversão de arquivos IFC para o formato PDF usando GroupDocs.Conversion for .NET. 
 ## Pré-requisitos

@@ -6,6 +6,9 @@ description: Leer hoe u DJVU-documenten moeiteloos naar PDF kunt converteren met
 weight: 20
 url: /nl/net/file-conversion-to-pdf/convert-djvu-to-pdf/
 ---
+
+# Converteer DJVU-documenten naar PDF
+
 ## Invoering
 In deze zelfstudie begeleiden we u bij het proces van het converteren van DJVU-documenten naar PDF met behulp van GroupDocs.Conversion voor .NET. Voordat we aan de slag gaan, moet u ervoor zorgen dat de benodigde vereisten zijn geïnstalleerd en ingesteld.
 ## Vereisten

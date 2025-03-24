@@ -6,6 +6,9 @@ description: Dễ dàng chuyển đổi tệp PPSX sang định dạng PDF bằn
 weight: 26
 url: /vi/net/pdf-conversion/convert-ppsx-to-pdf/
 ---
+
+# Chuyển PPSX sang PDF
+
 ## Giới thiệu
 Trong thời đại kỹ thuật số ngày nay, khả năng chuyển đổi tập tin từ định dạng này sang định dạng khác là vô giá. Cho dù bạn là nhà phát triển, chuyên gia kinh doanh hay chỉ đơn giản là một cá nhân đang tìm cách hợp lý hóa quy trình làm việc của mình thì việc có các công cụ phù hợp có thể tạo nên sự khác biệt. GroupDocs.Conversion for .NET là một thư viện mạnh mẽ cung cấp khả năng chuyển đổi liền mạch cho nhiều loại tệp, bao gồm PPSX sang PDF. Trong hướng dẫn này, chúng ta sẽ tìm hiểu quy trình chuyển đổi tệp PPSX sang PDF bằng GroupDocs.Conversion cho .NET.
 ## Điều kiện tiên quyết

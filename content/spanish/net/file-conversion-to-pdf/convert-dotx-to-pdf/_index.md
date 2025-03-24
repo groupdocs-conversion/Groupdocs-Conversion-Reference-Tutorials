@@ -6,6 +6,9 @@ description: Convierta fácilmente plantillas DOTX de Word a PDF utilizando Grou
 weight: 27
 url: /es/net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---
+
+# Convierta plantillas de Word DOTX a PDF
+
 ## Introducción
 Los documentos de Microsoft Word se utilizan ampliamente para diversos fines, incluida la creación de plantillas en formato DOTX. Sin embargo, puede haber casos en los que necesite convertir estas plantillas DOTX a PDF para compartirlas, imprimirlas o archivarlas más fácilmente. En este tutorial, lo guiaremos a través del proceso de conversión de plantillas DOTX de Word a PDF usando GroupDocs.Conversion para .NET.
 ## Requisitos previos

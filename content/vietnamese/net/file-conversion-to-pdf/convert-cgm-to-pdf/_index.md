@@ -6,6 +6,9 @@ description: Tìm hiểu cách chuyển đổi đồ họa vector CGM sang PDF d
 weight: 14
 url: /vi/net/file-conversion-to-pdf/convert-cgm-to-pdf/
 ---
+
+# Chuyển đổi đồ họa vector CGM sang PDF
+
 ## Giới thiệu
 Trong hướng dẫn này, chúng tôi sẽ hướng dẫn bạn quy trình chuyển đổi đồ họa vector CGM (Siêu tệp đồ họa máy tính) sang định dạng PDF bằng GroupDocs.Conversion cho .NET. CGM là định dạng tệp được sử dụng cho đồ họa vector, thường được sử dụng trong các bản vẽ kỹ thuật, hình minh họa và các ứng dụng đồ họa khác.
 ## Điều kiện tiên quyết

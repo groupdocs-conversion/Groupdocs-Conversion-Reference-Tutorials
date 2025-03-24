@@ -6,6 +6,9 @@ description: 使用 GroupDocs.Conversion for .NET 轻松将 PS 文件转换为 P
 weight: 11
 url: /zh/net/file-format-conversion-convert-ps-to-pdf/
 ---
+
+# 将 PS 转换为 PDF
+
 ## 介绍
 在数字世界中，将文件从一种格式转换为另一种格式是一项常见任务，尤其是在处理文档时。无论您是开发应用程序的开发人员还是需要转换文件供个人使用的个人，拥有一个可靠的工具来有效处理此类转换都是至关重要的。 GroupDocs.Conversion for .NET 就是这样一个工具，它为转换各种文件格式提供了无缝解决方案。在本教程中，我们将深入研究如何使用 GroupDocs.Conversion for .NET 将 PS (PostScript) 文件转换为 PDF（便携式文档格式）。
 ## 先决条件

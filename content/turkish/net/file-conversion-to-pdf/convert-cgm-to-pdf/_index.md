@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET'i kullanarak CGM vektör grafiklerini
 weight: 14
 url: /tr/net/file-conversion-to-pdf/convert-cgm-to-pdf/
 ---
+
+# CGM Vektör Grafiklerini PDF'ye Dönüştürün
+
 ## giriiş
 Bu öğreticide, GroupDocs.Conversion for .NET'i kullanarak CGM (Bilgisayar Grafikleri Meta Dosyası) vektör grafiklerini PDF formatına dönüştürme sürecinde size yol göstereceğiz. CGM, genellikle teknik çizimlerde, illüstrasyonlarda ve diğer grafik uygulamalarda kullanılan vektör grafikleri için kullanılan bir dosya formatıdır.
 ## Önkoşullar

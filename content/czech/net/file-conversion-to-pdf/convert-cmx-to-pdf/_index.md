@@ -6,6 +6,9 @@ description: Bez námahy převádějte soubory CMX do formátu PDF pomocí Group
 weight: 15
 url: /cs/net/file-conversion-to-pdf/convert-cmx-to-pdf/
 ---
+
+# Převést CMX do PDF
+
 ## Úvod
 V oblasti vývoje softwaru je schopnost bezproblémově převádět soubory z jednoho formátu do druhého zásadní nutností. Ať už pracujete s textovými dokumenty, obrázky nebo multimediálními soubory, spolehlivý nástroj pro převod vám může ušetřit čas a námahu. V tomto tutoriálu se ponoříme do procesu převodu souborů CorelDRAW (CMX) do formátu PDF (Portable Document Format) pomocí výkonné knihovny GroupDocs.Conversion pro .NET.
 ## Předpoklady

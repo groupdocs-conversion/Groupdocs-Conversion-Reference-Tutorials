@@ -6,6 +6,9 @@ description: Konwertuj metapliki systemu Windows EMF do formatu PDF bez wysiłku
 weight: 13
 url: /pl/net/convert-files-to-pdf/convert-emf-to-pdf/
 ---
+
+# Konwertuj metapliki systemu Windows EMF na format PDF
+
 ## Wstęp
 tym samouczku omówimy proces konwersji metaplików systemu Windows EMF (Enhanced Metafile) do formatu PDF przy użyciu programu GroupDocs.Conversion dla platformy .NET.
 ## Warunki wstępne

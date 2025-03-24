@@ -6,6 +6,9 @@ description: A GroupDocs.Conversion for .NET segítségével könnyedén konvert
 weight: 25
 url: /hu/net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---
+
+# A DOTM Word sablonok (makrók) konvertálása PDF-be
+
 ## Bevezetés
 gyakran makrókat tartalmazó Microsoft Word DOTM-sablonok kompatibilitási problémákat okozhatnak különböző platformokon vagy alkalmazásokban. PDF formátumba konvertálása nemcsak az egyetemes hozzáférhetőséget biztosítja, hanem kiküszöböli a makrókhoz kapcsolódó potenciális biztonsági kockázatokat is. Ebben az oktatóanyagban végigvezetjük a DOTM-fájlok PDF-formátumba konvertálásának lépéseit a GroupDocs.Conversion for .NET használatával.
 ## Előfeltételek

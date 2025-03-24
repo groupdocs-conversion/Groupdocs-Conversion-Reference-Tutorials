@@ -7,6 +7,9 @@ weight: 27
 url: /ko/net/converting-file-types-to-pdf/convert-xlt-to-pdf/
 ---
 
+# XLT를 PDF로 변환
+
+
 ## 소개
 이 튜토리얼에서는 .NET용 GroupDocs.Conversion을 활용하여 XLT(Excel 템플릿) 파일을 PDF 형식으로 쉽게 변환하는 방법을 살펴보겠습니다. .NET용 GroupDocs.Conversion은 개발자가 최소한의 코드로 다양한 문서 형식을 원활하게 변환할 수 있도록 광범위한 파일 변환 옵션을 제공하는 강력한 라이브러리입니다.
 ## 전제 조건

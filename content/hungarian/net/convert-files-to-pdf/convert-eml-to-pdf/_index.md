@@ -6,6 +6,9 @@ description: Ismerje meg, hogyan konvertálhat EML e-mail üzeneteket könnyedé
 weight: 14
 url: /hu/net/convert-files-to-pdf/convert-eml-to-pdf/
 ---
+
+# Az EML e-mail üzenetek konvertálása PDF formátumba
+
 ## Bevezetés
 Ebből az oktatóanyagból megtudhatja, hogyan konvertálhat EML e-mail üzeneteket PDF formátumba a GroupDocs.Conversion for .NET segítségével. Az EML-fájlok PDF-be konvertálása általános követelmény, különösen akkor, ha az e-mail tartalmat univerzálisabb és könnyebben olvasható formátumban kell megosztani. A GroupDocs.Conversion segítségével ezt a feladatot hatékonyan elvégezheti.
 ## Előfeltételek

@@ -6,6 +6,9 @@ description: .NET용 GroupDocs.Conversion을 사용하여 PPS 파일을 PDF 형�
 weight: 25
 url: /ko/net/pdf-conversion/convert-pps-to-pdf/
 ---
+
+# PPS를 PDF로 변환
+
 ## 소개
 오늘날의 디지털 세계에서는 파일을 조작하고 변환하는 능력이 매우 중요합니다. GroupDocs.Conversion for .NET은 개발자가 다양한 문서 형식을 쉽게 원활하게 변환할 수 있는 강력한 도구입니다. 이 자습서에서는 GroupDocs.Conversion for .NET을 사용하여 PPS(PowerPoint 슬라이드 쇼) 파일을 PDF 형식으로 변환하는 방법에 중점을 둡니다. 숙련된 개발자이든 이제 막 시작하는 개발자이든 이 단계별 가이드는 PPS를 PDF로 쉽게 변환하는 과정을 안내합니다.
 ## 전제 조건

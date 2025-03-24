@@ -6,6 +6,9 @@ description: Convert DOTM Word templates containing macros to PDF effortlessly u
 weight: 25
 url: /net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---
+
+# Convert DOTM Word Templates (Macros) to PDF
+
 ## Introduction
 Microsoft Word DOTM templates, often containing macros, can pose compatibility issues across different platforms or applications. Converting them to PDF format not only ensures universal accessibility but also eliminates potential security risks associated with macros. In this tutorial, we'll walk through the steps to convert DOTM files to PDF using GroupDocs.Conversion for .NET.
 ## Prerequisites

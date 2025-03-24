@@ -6,6 +6,9 @@ description: Naučte se, jak bez námahy převádět obrázky J2C do PDF pomocí
 weight: 27
 url: /cs/net/convert-files-to-pdf/convert-j2c-to-pdf/
 ---
+
+# Převeďte komprimované obrázky J2C JPEG-LS do formátu PDF
+
 ## Úvod
 V tomto tutoriálu prozkoumáme, jak používat GroupDocs.Conversion for .NET k převodu obrázků J2C (JPEG-LS Compressed) do formátu PDF. GroupDocs.Conversion je výkonná knihovna pro převod dokumentů, která umožňuje vývojářům bezproblémově převádět různé formáty dokumentů v jejich aplikacích .NET.
 ## Předpoklady

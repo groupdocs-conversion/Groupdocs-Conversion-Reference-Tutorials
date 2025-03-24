@@ -6,6 +6,9 @@ description: Konversikan file PPTM ke format PDF dengan mudah menggunakan GroupD
 weight: 27
 url: /id/net/pdf-conversion/convert-pptm-to-pdf/
 ---
+
+# Konversi PPTM ke PDF
+
 ## Perkenalan
 Dalam bidang pengelolaan dan konversi dokumen, efisiensi adalah yang terpenting. Baik Anda berurusan dengan file PowerPoint atau PDF, memiliki kemampuan untuk mengkonversi antar format dengan lancar dapat menyederhanakan alur kerja dan meningkatkan produktivitas. GroupDocs.Conversion for .NET menonjol sebagai alat yang ampuh di arena ini, menawarkan kepada pengembang solusi komprehensif untuk mengonversi file PPTM (PowerPoint Macro-Enabled Presentation) ke format PDF dengan mudah.
 ## Prasyarat

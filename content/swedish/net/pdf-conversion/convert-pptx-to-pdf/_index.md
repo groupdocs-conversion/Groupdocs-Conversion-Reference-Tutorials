@@ -6,6 +6,9 @@ description: Lär dig hur du konverterar PowerPoint-presentationer (PPTX) till P
 weight: 29
 url: /sv/net/pdf-conversion/convert-pptx-to-pdf/
 ---
+
+# Konvertera PPTX till PDF
+
 ## Introduktion
 den här handledningen går vi igenom processen att konvertera en PowerPoint-presentationsfil (PPTX) till ett Portable Document Format (PDF) med hjälp av GroupDocs.Conversion-biblioteket för .NET. Följ stegen nedan för att uppnå denna konvertering.
 ## Förutsättningar

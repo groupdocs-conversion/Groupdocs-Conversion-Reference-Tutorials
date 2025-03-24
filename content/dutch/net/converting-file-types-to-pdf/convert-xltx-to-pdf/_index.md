@@ -6,6 +6,9 @@ description: Leer hoe u XLTX-bestanden naadloos naar PDF kunt converteren met Gr
 weight: 28
 url: /nl/net/converting-file-types-to-pdf/convert-xltx-to-pdf/
 ---
+
+# Converteer XLTX naar PDF
+
 ## Invoering
 Op het gebied van softwareontwikkeling ontstaat vaak de noodzaak om bestanden van het ene formaat naar het andere te converteren. Of het nu om compatibiliteitsredenen is of gewoon om aan specifieke vereisten te voldoen, het hebben van een betrouwbare tool om dergelijke conversies efficiënt af te handelen is van onschatbare waarde. In deze zelfstudie gaan we dieper in op het gebruik van GroupDocs.Conversion voor .NET om XLTX-bestanden naadloos naar PDF-indeling te converteren. 
 ## Vereisten

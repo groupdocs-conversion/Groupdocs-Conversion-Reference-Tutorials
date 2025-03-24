@@ -6,6 +6,9 @@ description: Dowiedz się, jak bez wysiłku konwertować pliki WMZ do formatu PD
 weight: 20
 url: /pl/net/converting-file-types-to-pdf/convert-wmz-to-pdf/
 ---
+
+# Konwertuj WMZ na PDF
+
 ## Wstęp
  W dziedzinie tworzenia oprogramowania umiejętność płynnej konwersji plików z jednego formatu na inny jest niezbędna. Niezależnie od tego, czy konwertujesz dokumenty w celu zapewnienia zgodności, czy przekształcasz pliki multimedialne do różnych celów, posiadanie solidnych funkcji konwersji może usprawnić przepływ pracy i zwiększyć produktywność. W tym samouczku zagłębimy się w zawiłości używania**GroupDocs.Conversion for .NET** do konwersji plików WMZ (Windows Metafile) na PDF (Portable Document Format), wszechobecny i wszechstronny format dokumentu.
 ## Warunki wstępne

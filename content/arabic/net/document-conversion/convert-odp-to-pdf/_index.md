@@ -6,6 +6,9 @@ description: تعرف على كيفية تحويل ODP إلى PDF باستخدا
 weight: 28
 url: /ar/net/document-conversion/convert-odp-to-pdf/
 ---
+
+# تحويل ODP إلى PDF
+
 ## مقدمة
 يعد GroupDocs.Conversion for .NET واجهة برمجة تطبيقات قوية تسمح للمطورين بتحويل تنسيقات المستندات المختلفة بسلاسة في تطبيقات .NET الخاصة بهم. في هذا البرنامج التعليمي، سنرشدك خلال عملية تحويل ملف ODP (OpenDocument Presentation) إلى تنسيق PDF باستخدام GroupDocs.Conversion for .NET.
 ## المتطلبات الأساسية

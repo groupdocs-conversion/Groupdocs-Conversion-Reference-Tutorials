@@ -6,6 +6,9 @@ description: Bez wysiłku konwertuj pliki PPTM do formatu PDF za pomocą GroupDo
 weight: 27
 url: /pl/net/pdf-conversion/convert-pptm-to-pdf/
 ---
+
+# Konwertuj PPTM na PDF
+
 ## Wstęp
 W dziedzinie zarządzania dokumentami i ich konwersji najważniejsza jest wydajność. Niezależnie od tego, czy masz do czynienia z plikami programu PowerPoint, czy plikami PDF, możliwość płynnej konwersji między formatami może usprawnić przepływ pracy i zwiększyć produktywność. GroupDocs.Conversion dla .NET wyróżnia się na tym polu jako potężne narzędzie, oferując programistom kompleksowe rozwiązanie do łatwej konwersji plików PPTM (Prezentacja PowerPoint Macro-Enabled Prezentacja) do formatu PDF.
 ## Warunki wstępne

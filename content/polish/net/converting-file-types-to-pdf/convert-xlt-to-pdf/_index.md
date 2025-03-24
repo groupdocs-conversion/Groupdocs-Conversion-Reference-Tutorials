@@ -7,6 +7,9 @@ weight: 27
 url: /pl/net/converting-file-types-to-pdf/convert-xlt-to-pdf/
 ---
 
+# Konwertuj XLT na PDF
+
+
 ## Wstęp
 W tym samouczku pokażemy, jak wykorzystać GroupDocs.Conversion dla .NET do bezproblemowej konwersji plików XLT (szablon programu Excel) do formatu PDF. GroupDocs.Conversion dla .NET to potężna biblioteka zapewniająca szeroką gamę opcji konwersji plików, umożliwiając programistom bezproblemową konwersję różnych formatów dokumentów przy minimalnej liczbie kodu.
 ## Warunki wstępne

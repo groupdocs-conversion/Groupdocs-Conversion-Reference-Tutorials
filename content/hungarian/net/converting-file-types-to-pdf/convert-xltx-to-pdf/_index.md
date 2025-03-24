@@ -6,6 +6,9 @@ description: Ismerje meg, hogyan konvertálhat zökkenőmentesen XLTX fájlokat 
 weight: 28
 url: /hu/net/converting-file-types-to-pdf/convert-xltx-to-pdf/
 ---
+
+# Az XLTX konvertálása PDF-be
+
 ## Bevezetés
 szoftverfejlesztés területén gyakran felmerül a fájlok egyik formátumból a másikba konvertálásának szükségessége. Akár kompatibilitási okokból, akár csak bizonyos követelmények teljesítése miatt, az ilyen átalakítások hatékony kezelésére szolgáló megbízható eszköz felbecsülhetetlen értékű. Ebben az oktatóanyagban a GroupDocs.Conversion for .NET használatával foglalkozunk az XLTX-fájlok zökkenőmentes PDF-formátumba konvertálásával. 
 ## Előfeltételek

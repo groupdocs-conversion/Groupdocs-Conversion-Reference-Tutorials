@@ -6,6 +6,9 @@ description: Převeďte šablony DOTM Word obsahující makra do PDF bez námahy
 weight: 25
 url: /cs/net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---
+
+# Převeďte šablony DOTM Word (makra) do PDF
+
 ## Úvod
 Šablony DOTM aplikace Microsoft Word, které často obsahují makra, mohou představovat problémy s kompatibilitou napříč různými platformami nebo aplikacemi. Jejich převod do formátu PDF zajišťuje nejen univerzální dostupnost, ale také eliminuje potenciální bezpečnostní rizika spojená s makry. V tomto tutoriálu si projdeme kroky k převodu souborů DOTM do PDF pomocí GroupDocs.Conversion for .NET.
 ## Předpoklady

@@ -6,6 +6,9 @@ description: Découvrez comment convertir des fichiers OTG en PDF à l'aide de G
 weight: 13
 url: /fr/net/pdf-conversion/convert-otg-to-pdf/
 ---
+
+# Convertir OTG en PDF
+
 ## Introduction
 La conversion de fichiers OTG (OpenDocument Graphics) au format PDF peut être une tâche cruciale, en particulier lorsqu'il s'agit de systèmes de gestion de documents ou de partage de fichiers sur différentes plates-formes. Dans ce didacticiel, nous vous guiderons tout au long du processus de conversion de fichiers OTG en PDF à l'aide de la bibliothèque GroupDocs.Conversion pour .NET. Allons-y !
 ## Conditions préalables

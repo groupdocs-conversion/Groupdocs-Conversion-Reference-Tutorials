@@ -6,6 +6,9 @@ description: Könnyedén konvertálhat JP2 fájlokat PDF formátumba a GroupDocs
 weight: 10
 url: /hu/net/document-conversion/convert-jp2-to-pdf/
 ---
+
+# Konvertálja a JP2-t PDF-be
+
 ## Bevezetés
 GroupDocs.Conversion for .NET egy hatékony könyvtár, amely lehetővé teszi a fejlesztők számára, hogy zökkenőmentesen konvertálják a különböző fájlformátumokat különböző formátumokba anélkül, hogy a minőség romlana vagy a létfontosságú adatok elveszítenének. Ebben az oktatóanyagban a JP2-fájlok PDF-formátumba konvertálásával foglalkozunk a GroupDocs.Conversion for .NET használatával. 
 ## Előfeltételek

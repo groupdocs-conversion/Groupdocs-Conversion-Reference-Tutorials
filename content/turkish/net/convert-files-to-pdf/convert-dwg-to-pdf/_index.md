@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET'i kullanarak DWG CAD dosyalarını so
 weight: 10
 url: /tr/net/convert-files-to-pdf/convert-dwg-to-pdf/
 ---
+
+# DWG CAD Dosyalarını PDF'ye Dönüştürün
+
 ## giriiş
 Bu eğitimde, GroupDocs.Conversion for .NET'i kullanarak DWG CAD dosyalarını PDF'ye nasıl dönüştüreceğimizi öğreneceğiz. GroupDocs.Conversion, çeşitli belge dönüştürme işlevleri sağlayan güçlü bir kitaplıktır.
 ## Önkoşullar

@@ -6,6 +6,9 @@ description: Chuyển đổi tệp EPS sang PDF dễ dàng bằng GroupDocs.Conv
 weight: 17
 url: /vi/net/convert-files-to-pdf/convert-eps-to-pdf/
 ---
+
+# Chuyển đổi tập tin PostScript được đóng gói EPS thành PDF
+
 ## Giới thiệu
 Trong hướng dẫn này, chúng tôi sẽ trình bày cách chuyển đổi tệp EPS (Encapsulated PostScript) sang PDF bằng GroupDocs.Conversion cho .NET.
 ## Điều kiện tiên quyết

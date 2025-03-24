@@ -6,6 +6,9 @@ description: 使用 GroupDocs.Conversion for .NET 轻松将 WebP 文件转换为
 weight: 18
 url: /zh/net/converting-file-types-to-pdf/convert-webp-to-pdf/
 ---
+
+# 将 WebP 转换为 PDF
+
 ## 介绍
 在本教程中，我们将引导您完成使用 GroupDocs.Conversion for .NET 将 WebP 文件转换为 PDF 格式的过程。请按照以下步骤实现无缝转换：
 

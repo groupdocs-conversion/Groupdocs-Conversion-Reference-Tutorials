@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET'i kullanarak PowerPoint sunumlarını
 weight: 29
 url: /tr/net/pdf-conversion/convert-pptx-to-pdf/
 ---
+
+# PPTX'yi PDF'ye dönüştür
+
 ## giriiş
 Bu öğreticide, .NET için GroupDocs.Conversion kitaplığını kullanarak bir PowerPoint sunumu (PPTX) dosyasını Taşınabilir Belge Formatına (PDF) dönüştürme sürecini anlatacağız. Bu dönüşümü gerçekleştirmek için aşağıdaki adımları izleyin.
 ## Önkoşullar

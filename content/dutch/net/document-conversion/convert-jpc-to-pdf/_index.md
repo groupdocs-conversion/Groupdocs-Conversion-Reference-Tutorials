@@ -6,6 +6,9 @@ description: Converteer JPC-bestanden moeiteloos naar PDF-indeling met GroupDocs
 weight: 11
 url: /nl/net/document-conversion/convert-jpc-to-pdf/
 ---
+
+# Converteer JPC naar PDF
+
 ## Invoering
 Op het gebied van documentbeheer en -manipulatie is efficiënte conversie tussen bestandsformaten van het grootste belang. Een voorbeeld van zo'n tool die opvalt is GroupDocs.Conversion voor .NET, die robuuste functionaliteiten biedt om bestanden naadloos tussen verschillende formaten te converteren. In deze zelfstudie gaan we dieper in op het converteren van JPC-bestanden naar PDF met behulp van GroupDocs.Conversion voor .NET.
 ## Vereisten

@@ -6,6 +6,9 @@ description: Pelajari cara mengonversi grafik vektor CGM ke PDF dengan mudah men
 weight: 14
 url: /id/net/file-conversion-to-pdf/convert-cgm-to-pdf/
 ---
+
+# Konversi Grafik Vektor CGM ke PDF
+
 ## Perkenalan
 Dalam tutorial ini, kami akan memandu Anda melalui proses mengonversi grafik vektor CGM (Computer Graphics Metafile) ke format PDF menggunakan GroupDocs.Conversion untuk .NET. CGM adalah format file yang digunakan untuk grafik vektor, biasa digunakan dalam gambar teknik, ilustrasi, dan aplikasi grafis lainnya.
 ## Prasyarat

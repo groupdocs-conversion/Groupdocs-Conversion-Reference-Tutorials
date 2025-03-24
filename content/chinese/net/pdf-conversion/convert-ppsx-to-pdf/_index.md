@@ -6,6 +6,9 @@ description: 使用 GroupDocs.Conversion for .NET 轻松将 PPSX 文件转换为
 weight: 26
 url: /zh/net/pdf-conversion/convert-ppsx-to-pdf/
 ---
+
+# 将 PPSX 转换为 PDF
+
 ## 介绍
 在当今的数字时代，将文件从一种格式转换为另一种格式的能力是非常宝贵的。无论您是开发人员、业务专业人士，还是只是希望简化工作流程的个人，拥有正确的工具都可以发挥重要作用。 GroupDocs.Conversion for .NET 是一个功能强大的库，可为各种文件类型（包括 PPSX 到 PDF）提供无缝转换功能。在本教程中，我们将逐步介绍使用 GroupDocs.Conversion for .NET 将 PPSX 文件转换为 PDF 的过程。
 ## 先决条件

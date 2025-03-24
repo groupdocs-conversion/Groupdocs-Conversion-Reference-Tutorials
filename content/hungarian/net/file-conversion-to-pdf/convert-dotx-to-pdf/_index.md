@@ -6,6 +6,9 @@ description: Könnyedén konvertálhatja a DOTX Word sablonokat PDF formátumba 
 weight: 27
 url: /hu/net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---
+
+# Konvertálja a DOTX Word sablonokat PDF-be
+
 ## Bevezetés
 A Microsoft Word dokumentumokat széles körben használják különféle célokra, beleértve a sablonok létrehozását DOTX formátumban. Előfordulhat azonban, hogy ezeket a DOTX-sablonokat PDF formátumba kell konvertálnia a könnyebb megosztás, nyomtatás vagy archiválás érdekében. Ebben az oktatóanyagban végigvezetjük a DOTX Word-sablonok PDF formátumba konvertálásának folyamatán a GroupDocs.Conversion for .NET használatával.
 ## Előfeltételek

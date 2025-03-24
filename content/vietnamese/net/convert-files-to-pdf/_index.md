@@ -6,6 +6,9 @@ description: Dễ dàng chuyển đổi nhiều định dạng tệp khác nhau 
 weight: 22
 url: /vi/net/convert-files-to-pdf/
 ---
+
+# Chuyển đổi tập tin sang PDF
+
 ## Giới thiệu
 
 GroupDocs.Conversion for .NET cung cấp giải pháp mạnh mẽ để chuyển đổi định dạng tệp liền mạch, đặc biệt là sang PDF. Cho dù bạn đang xử lý các tệp CAD, email, hình ảnh hay trang web, danh sách hướng dẫn toàn diện này sẽ hướng dẫn bạn từng bước quy trình chuyển đổi.

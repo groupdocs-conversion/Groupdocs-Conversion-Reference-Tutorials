@@ -6,6 +6,9 @@ description: Naučte se, jak bez námahy převést soubory XLAM do PDF pomocí G
 weight: 21
 url: /cs/net/converting-file-types-to-pdf/convert-xlam-to-pdf/
 ---
+
+# Převést XLAM do PDF
+
 ## Úvod
 digitální éře stále převládá potřeba převádět dokumenty z jednoho formátu do druhého. Spolehlivý nástroj pro převod souborů je zásadní, ať už z důvodu kompatibility, archivace nebo sdílení. V tomto tutoriálu se ponoříme do používání GroupDocs.Conversion for .NET k snadnému převodu souborů XLAM do formátu PDF.
 ## Předpoklady

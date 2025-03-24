@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET을 사용하여 매크로가 포함�
 weight: 22
 url: /ko/net/file-conversion-to-pdf/convert-docm-to-pdf/
 ---
+
+# DOCM Word 문서(매크로)를 PDF로 변환
+
 ## 소개
 문서 관리 및 조작 영역에서는 파일을 한 형식에서 다른 형식으로 변환하는 것이 필요한 경우가 많습니다. 매크로(DOCM 파일)가 포함된 Word 문서를 처리하든, 더 폭넓은 접근성을 위해 문서를 PDF로 변환해야 하든 적절한 도구를 사용하는 것이 중요합니다. 이 튜토리얼에서는 강력한 .NET용 GroupDocs.Conversion 라이브러리를 사용하여 매크로를 포함한 DOCM Word 문서를 PDF로 효율적으로 변환하는 방법을 살펴보겠습니다.
 ## 전제 조건

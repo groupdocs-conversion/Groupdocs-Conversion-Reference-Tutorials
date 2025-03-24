@@ -6,6 +6,9 @@ description: Konvertera DICOM medicinska bilder enkelt till PDF-format med Group
 weight: 19
 url: /sv/net/file-conversion-to-pdf/convert-dicom-to-pdf/
 ---
+
+# Konvertera medicinska DICOM-bilder till PDF
+
 ## Introduktion
 I dagens digitala tidsålder är möjligheten att sömlöst konvertera filformat av största vikt. Oavsett om det är för arkivering, delning eller helt enkelt visning är behovet av att konvertera filer från ett format till ett annat en vanlig uppgift. En sådan konvertering som ofta uppstår inom det medicinska området är konverteringen av DICOM-bilder (Digital Imaging and Communications in Medicine) till PDF-format. DICOM-filer är standardformatet som används för medicinsk bildbehandling, som lagrar information som MR-skanningar, röntgenbilder och CT-skanningar.
 ## Förutsättningar

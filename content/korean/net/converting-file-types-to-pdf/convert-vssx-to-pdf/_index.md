@@ -6,6 +6,9 @@ description: .NET용 GroupDocs.Conversion을 사용하여 VSSX 파일을 PDF 형
 weight: 12
 url: /ko/net/converting-file-types-to-pdf/convert-vssx-to-pdf/
 ---
+
+# VSSX를 PDF로 변환
+
 ## 소개
 문서 관리 및 조작 영역에서는 파일을 한 형식에서 다른 형식으로 원활하게 변환하는 기능이 가장 중요합니다. 텍스트 문서, 스프레드시트, 프리젠테이션 등 무엇을 처리하든 형식을 유연하게 전환할 수 있으면 생산성이 크게 향상되고 작업 흐름이 간소화됩니다. 이 자습서에서는 .NET용 GroupDocs.Conversion을 사용하여 VSSX 파일을 PDF 형식으로 변환하는 프로세스를 자세히 살펴보겠습니다.
 ## 전제 조건

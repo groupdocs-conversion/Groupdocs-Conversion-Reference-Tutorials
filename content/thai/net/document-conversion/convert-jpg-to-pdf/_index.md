@@ -6,6 +6,9 @@ description: แปลง JPG เป็น PDF ได้อย่างง่า
 weight: 14
 url: /th/net/document-conversion/convert-jpg-to-pdf/
 ---
+
+# แปลง JPG เป็น PDF
+
 ## การแนะนำ
 
 คุณต้องการแปลงไฟล์ JPG เป็น PDF ได้อย่างง่ายดายโดยใช้ GroupDocs.Conversion สำหรับ .NET หรือไม่? บทช่วยสอนนี้จะแนะนำคุณตลอดกระบวนการทีละขั้นตอน GroupDocs.Conversion สำหรับ .NET เป็น API ที่มีประสิทธิภาพซึ่งช่วยให้คุณสามารถแปลงรูปแบบเอกสารต่างๆ รวมถึงรูปภาพเป็น PDF ได้อย่างราบรื่น มาดำน้ำกันเถอะ!

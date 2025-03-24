@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET を使用して、IFC Building Inform
 weight: 25
 url: /ja/net/convert-files-to-pdf/convert-ifc-to-pdf/
 ---
+
+# IFC ビルディング インフォメーション モデリング ファイルを PDF に変換
+
 ## 導入
 今日のデジタル時代では、ファイルをある形式から別の形式にシームレスに変換できる機能が最も重要です。ドキュメント、画像、または IFC Building Information Modeling (BIM) ファイルなどの特殊なファイルを扱う場合でも、適切なツールがあれば大きな違いが生まれます。このチュートリアルでは、GroupDocs.Conversion for .NET を使用して IFC ファイルを PDF 形式に変換するプロセスを詳しく説明します。 
 ## 前提条件

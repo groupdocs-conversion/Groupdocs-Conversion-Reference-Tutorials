@@ -6,6 +6,9 @@ description: .NET용 GroupDocs.Conversion을 사용하여 MPX 파일을 PDF 형�
 weight: 25
 url: /ko/net/document-conversion/convert-mpx-to-pdf/
 ---
+
+# MPX를 PDF로 변환
+
 ## 소개
 소프트웨어 개발 세계에서는 파일을 한 형식에서 다른 형식으로 변환해야 하는 경우가 종종 있습니다. 호환성 때문이든 단순히 특정 요구 사항을 충족하기 위해서든 파일을 원활하게 변환하는 기능을 갖는 것은 매우 중요합니다. .NET용 GroupDocs.Conversion은 .NET 응용 프로그램 내에서 파일 변환을 쉽게 처리할 수 있는 포괄적인 솔루션을 제공합니다. 이 자습서에서는 .NET용 GroupDocs.Conversion을 사용하여 MPX 파일을 PDF 형식으로 변환하는 방법에 중점을 둘 것입니다.
 ## 전제 조건

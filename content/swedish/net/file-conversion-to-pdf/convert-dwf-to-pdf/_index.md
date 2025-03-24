@@ -6,6 +6,9 @@ description: Lär dig hur du enkelt konverterar DWF CAD-filer till PDF med Group
 weight: 28
 url: /sv/net/file-conversion-to-pdf/convert-dwf-to-pdf/
 ---
+
+# Konvertera DWF CAD-filer till PDF
+
 ## Introduktion
 I den här handledningen går vi igenom processen att konvertera DWF CAD-filer till PDF-format med GroupDocs.Conversion for .NET. GroupDocs.Conversion for .NET är ett kraftfullt dokumentkonverteringsbibliotek som låter utvecklare konvertera olika dokumentformat till och från PDF utan ansträngning. Innan vi börjar, se till att du har de nödvändiga förutsättningarna installerade.
 ## Förutsättningar

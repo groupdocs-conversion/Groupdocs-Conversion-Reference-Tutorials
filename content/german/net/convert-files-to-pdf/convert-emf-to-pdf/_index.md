@@ -6,6 +6,9 @@ description: Konvertieren Sie EMF-Windows-Metadateien mühelos in PDF mit GroupD
 weight: 13
 url: /de/net/convert-files-to-pdf/convert-emf-to-pdf/
 ---
+
+# Konvertieren Sie EMF-Windows-Metadateien in PDF
+
 ## Einführung
 In diesem Tutorial führen wir den Prozess der Konvertierung von EMF-Windows-Metadateien (Enhanced Metafile) in das PDF-Format mithilfe von GroupDocs.Conversion für .NET durch.
 ## Voraussetzungen

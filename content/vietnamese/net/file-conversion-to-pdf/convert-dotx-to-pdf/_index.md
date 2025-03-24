@@ -6,6 +6,9 @@ description: Dễ dàng chuyển đổi các mẫu DOTX Word sang PDF bằng Gro
 weight: 27
 url: /vi/net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---
+
+# Chuyển đổi mẫu Word DOTX sang PDF
+
 ## Giới thiệu
 Tài liệu Microsoft Word được sử dụng rộng rãi cho nhiều mục đích khác nhau, bao gồm cả việc tạo mẫu ở định dạng DOTX. Tuy nhiên, có thể có những trường hợp bạn cần chuyển đổi các mẫu DOTX này sang PDF để chia sẻ, in hoặc lưu trữ dễ dàng hơn. Trong hướng dẫn này, chúng tôi sẽ hướng dẫn bạn quy trình chuyển đổi mẫu DOTX Word sang PDF bằng GroupDocs.Conversion for .NET.
 ## Điều kiện tiên quyết

@@ -6,6 +6,9 @@ description: 了解如何使用 GroupDocs.Conversion for .NET 轻松将 IFC 建�
 weight: 25
 url: /zh/net/convert-files-to-pdf/convert-ifc-to-pdf/
 ---
+
+# 将 IFC 建筑信息模型文件转换为 PDF
+
 ## 介绍
 在当今的数字时代，将文件从一种格式无缝转换为另一种格式的能力至关重要。无论您是处理文档、图像还是 IFC 建筑信息模型 (BIM) 文件等专用文件，拥有正确的工具都可以发挥重要作用。在本教程中，我们将深入研究使用 GroupDocs.Conversion for .NET 将 IFC 文件转换为 PDF 格式的过程。 
 ## 先决条件

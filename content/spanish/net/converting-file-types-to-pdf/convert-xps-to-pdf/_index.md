@@ -7,6 +7,9 @@ weight: 30
 url: /es/net/converting-file-types-to-pdf/convert-xps-to-pdf/
 ---
 
+# Convertir XPS a PDF
+
+
 ## Introducción
 En el mundo digital actual, la capacidad de convertir archivos de un formato a otro es esencial para una comunicación y colaboración fluidas. Ya sea que sea un desarrollador, un profesional de negocios o simplemente alguien que trabaja con documentos digitales con regularidad, tener una herramienta confiable para la conversión de archivos puede optimizar enormemente su flujo de trabajo.
 En este tutorial, exploraremos cómo usar GroupDocs.Conversion para .NET para convertir archivos XPS a formato PDF. GroupDocs.Conversion es una poderosa biblioteca .NET que proporciona capacidades integrales de conversión de archivos, lo que facilita la conversión de varios formatos de documentos con solo unas pocas líneas de código.

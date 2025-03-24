@@ -6,6 +6,9 @@ description: Converteer PST-bestanden moeiteloos naar PDF met GroupDocs.Conversi
 weight: 12
 url: /nl/net/file-format-conversion-convert-pst-to-pdf/
 ---
+
+# Converteer PST naar PDF
+
 ## Invoering
 Op het gebied van documentbeheer is de mogelijkheid om bestanden naadloos van het ene formaat naar het andere te converteren van cruciaal belang. Of u nu te maken heeft met e-mails, spreadsheets of presentaties: een betrouwbare tool voor conversie kan de workflows stroomlijnen en de productiviteit verhogen. In deze zelfstudie gaan we dieper in op het converteren van PST-bestanden (Personal Storage Table) naar PDF-indeling met behulp van GroupDocs.Conversion voor .NET.
 ## Vereisten

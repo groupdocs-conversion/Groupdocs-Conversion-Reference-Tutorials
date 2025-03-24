@@ -6,6 +6,9 @@ description: Converti facilmente file XLSX in PDF utilizzando la libreria GroupD
 weight: 25
 url: /it/net/converting-file-types-to-pdf/convert-xlsx-to-pdf/
 ---
+
+# Converti XLSX in PDF
+
 ## introduzione
 Nel mondo digitale di oggi, la capacità di convertire file da un formato all'altro senza problemi è indispensabile. Che tu sia uno sviluppatore che lavora su un progetto o un individuo che gestisce vari documenti, avere uno strumento affidabile per la conversione dei file è fondamentale. In questo tutorial, approfondiremo il processo di conversione dei file XLSX in PDF utilizzando la potente libreria GroupDocs.Conversion per .NET. Questa libreria offre metodi efficienti e semplici per convertire i file mantenendo l'integrità del contenuto.
 ## Prerequisiti

@@ -6,6 +6,9 @@ description: Tìm hiểu cách chuyển đổi TIFF sang PDF dễ dàng bằng G
 weight: 19
 url: /vi/net/file-format-conversion-convert-tiff-to-pdf/
 ---
+
+# Chuyển TIFF sang PDF
+
 ## Giới thiệu
 
 Trong thế giới phát triển phần mềm, việc xử lý chuyển đổi tài liệu là một nhiệm vụ phổ biến. Cho dù bạn đang làm việc trong một dự án liên quan đến việc xử lý các định dạng tệp khác nhau hay giải quyết nhu cầu chuyển đổi tài liệu cho các mục đích khác nhau thì việc có một công cụ đáng tin cậy để chuyển đổi là điều cần thiết. GroupDocs.Conversion for .NET cung cấp giải pháp mạnh mẽ cho các nhà phát triển muốn chuyển đổi tài liệu giữa các định dạng khác nhau một cách liền mạch.

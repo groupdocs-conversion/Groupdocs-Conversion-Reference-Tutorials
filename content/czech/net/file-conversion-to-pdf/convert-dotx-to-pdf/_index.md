@@ -6,6 +6,9 @@ description: Převeďte bez námahy šablony DOTX Word do PDF pomocí GroupDocs.
 weight: 27
 url: /cs/net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---
+
+# Převést DOTX Word šablony do PDF
+
 ## Úvod
 Dokumenty Microsoft Word jsou široce používány pro různé účely, včetně vytváření šablon ve formátu DOTX. Mohou však nastat případy, kdy budete muset tyto šablony DOTX převést do formátu PDF pro snadnější sdílení, tisk nebo archivaci. V tomto tutoriálu vás provedeme procesem převodu šablon DOTX Word do PDF pomocí GroupDocs.Conversion for .NET.
 ## Předpoklady

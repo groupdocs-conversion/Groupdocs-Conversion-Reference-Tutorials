@@ -6,6 +6,9 @@ description: Konvertera DOTM Word-mallar som innehåller makron till PDF utan an
 weight: 25
 url: /sv/net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---
+
+# Konvertera DOTM Word-mallar (makron) till PDF
+
 ## Introduktion
 Microsoft Word DOTM-mallar, som ofta innehåller makron, kan orsaka kompatibilitetsproblem över olika plattformar eller applikationer. Att konvertera dem till PDF-format säkerställer inte bara universell tillgänglighet utan eliminerar också potentiella säkerhetsrisker i samband med makron. I den här handledningen går vi igenom stegen för att konvertera DOTM-filer till PDF med GroupDocs.Conversion for .NET.
 ## Förutsättningar

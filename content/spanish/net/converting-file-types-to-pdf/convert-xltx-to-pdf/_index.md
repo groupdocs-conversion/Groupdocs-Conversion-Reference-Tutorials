@@ -6,6 +6,9 @@ description: Aprenda cómo convertir archivos XLTX a PDF sin problemas usando Gr
 weight: 28
 url: /es/net/converting-file-types-to-pdf/convert-xltx-to-pdf/
 ---
+
+# Convertir XLTX a PDF
+
 ## Introducción
 En el ámbito del desarrollo de software, a menudo surge la necesidad de convertir archivos de un formato a otro. Ya sea por razones de compatibilidad o simplemente para cumplir con requisitos específicos, tener una herramienta confiable para manejar dichas conversiones de manera eficiente es invaluable. En este tutorial, profundizaremos en la utilización de GroupDocs.Conversion para .NET para convertir archivos XLTX a formato PDF sin problemas. 
 ## Requisitos previos

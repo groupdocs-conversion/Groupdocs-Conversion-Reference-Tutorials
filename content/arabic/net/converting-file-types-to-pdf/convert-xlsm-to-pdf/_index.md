@@ -6,6 +6,9 @@ description: تعرف على كيفية تحويل ملفات XLSM إلى تنس
 weight: 23
 url: /ar/net/converting-file-types-to-pdf/convert-xlsm-to-pdf/
 ---
+
+# تحويل XLSM إلى PDF
+
 ## مقدمة
 في هذا البرنامج التعليمي، سوف نتعمق في عملية تحويل ملفات XLSM إلى تنسيق PDF باستخدام مكتبة GroupDocs.Conversion القوية لـ .NET. يعد تحويل الملفات مهمة شائعة في العديد من التطبيقات، ويعمل GroupDocs.Conversion على تبسيط هذه العملية، مما يوفر إمكانات تحويل فعالة وموثوقة.
 ## المتطلبات الأساسية

@@ -6,6 +6,9 @@ description: แปลงไฟล์ XLS เป็นรูปแบบ PDF ไ
 weight: 24
 url: /th/net/converting-file-types-to-pdf/convert-xls-to-pdf/
 ---
+
+# แปลง XLS เป็น PDF
+
 ## การแนะนำ
 GroupDocs.Conversion สำหรับ .NET เป็น API อันทรงพลังที่ช่วยให้นักพัฒนาสามารถแปลงเอกสารระหว่างรูปแบบต่างๆ ภายในแอปพลิเคชัน .NET ของตนได้อย่างง่ายดาย ในบทช่วยสอนนี้ เราจะเน้นที่การแปลงไฟล์ XLS (Microsoft Excel Spreadsheet) เป็น PDF (Portable Document Format) ซึ่งเป็นข้อกำหนดทั่วไปในแอปพลิเคชันทางธุรกิจจำนวนมาก
 ## ข้อกำหนดเบื้องต้น

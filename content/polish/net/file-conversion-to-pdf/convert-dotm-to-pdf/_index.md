@@ -6,6 +6,9 @@ description: Konwertuj szablony DOTM Word zawierające makra do formatu PDF bez 
 weight: 25
 url: /pl/net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---
+
+# Konwertuj szablony Word DOTM (makra) do formatu PDF
+
 ## Wstęp
 Szablony DOTM programu Microsoft Word, często zawierające makra, mogą powodować problemy ze zgodnością na różnych platformach lub aplikacjach. Konwersja ich do formatu PDF nie tylko zapewnia powszechną dostępność, ale także eliminuje potencjalne zagrożenia bezpieczeństwa związane z makrami. W tym samouczku omówimy kroki konwersji plików DOTM na format PDF przy użyciu narzędzia GroupDocs.Conversion dla platformy .NET.
 ## Warunki wstępne

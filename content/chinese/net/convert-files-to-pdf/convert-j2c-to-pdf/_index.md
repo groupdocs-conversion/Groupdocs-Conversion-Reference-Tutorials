@@ -6,6 +6,9 @@ description: 了解如何使用 GroupDocs.Conversion for .NET 轻松地将 J2C �
 weight: 27
 url: /zh/net/convert-files-to-pdf/convert-j2c-to-pdf/
 ---
+
+# 将 J2C JPEG-LS 压缩图像转换为 PDF
+
 ## 介绍
 在本教程中，我们将探讨如何使用 GroupDocs.Conversion for .NET 将 J2C（JPEG-LS 压缩）图像转换为 PDF 格式。 GroupDocs.Conversion 是一个功能强大的文档转换库，允许开发人员在其 .NET 应用程序中无缝转换各种文档格式。
 ## 先决条件

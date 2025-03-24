@@ -6,6 +6,9 @@ description: 了解如何使用 GroupDocs.Conversion for .NET 將 OTS 檔案輕�
 weight: 15
 url: /zh-hant/net/pdf-conversion/convert-ots-to-pdf/
 ---
+
+# 將 OTS 轉換為 PDF
+
 ## 介紹
 在 .NET 應用程式內的文件轉換領域，GroupDocs.Conversion for .NET 是一款多功能且功能強大的工具。無論您是希望將文件從一種格式轉換為另一種格式還是以各種方式操作它們，GroupDocs.Conversion 都能提供全面的解決方案。在本教學中，我們將深入研究使用 GroupDocs.Conversion for .NET 將 OTS（開放式文件電子表格範本）文件轉換為 PDF 格式的過程。透過遵循這些逐步說明，您將能夠將文件轉換功能無縫整合到您的 .NET 應用程式中。
 ## 先決條件

@@ -6,6 +6,9 @@ description: Découvrez comment convertir des fichiers VSDM au format PDF à l'a
 weight: 26
 url: /fr/net/file-format-conversion-convert-vsdm-to-pdf/
 ---
+
+# Convertir VSDM en PDF
+
 ## Introduction
 Dans ce didacticiel, nous vous guiderons tout au long du processus de conversion de fichiers VSDM (Visio Macro-Enabled Drawing) au format PDF à l'aide de la bibliothèque GroupDocs.Conversion pour .NET. Nous décomposerons chaque étape en instructions détaillées pour garantir un processus de conversion fluide.
 ## Conditions préalables

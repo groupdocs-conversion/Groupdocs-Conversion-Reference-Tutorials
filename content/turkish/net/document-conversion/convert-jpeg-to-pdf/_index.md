@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET'i kullanarak JPEG'i sorunsuz bir şek
 weight: 12
 url: /tr/net/document-conversion/convert-jpeg-to-pdf/
 ---
+
+# JPEG'yi PDF'ye dönüştür
+
 ## giriiş
 Yazılım geliştirme dünyasında dosyaları bir formattan diğerine dönüştürmek yaygın bir iştir. Görüntüleri PDF'lere, belgeleri görüntülere veya başka herhangi bir dosya formatı dönüşümüne dönüştürmek olsun, bu görevi verimli bir şekilde gerçekleştirmek için güvenilir bir araca sahip olmak çok önemlidir. Böyle bir araç, geliştiricilere çeşitli dosya formatlarını sorunsuz bir şekilde dönüştürme yeteneği sağlayan güçlü bir kitaplık olan GroupDocs.Conversion for .NET'tir.
 ## Önkoşullar

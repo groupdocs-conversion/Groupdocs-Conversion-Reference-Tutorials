@@ -6,6 +6,9 @@ description: Convert JPG to PDF effortlessly using GroupDocs.Conversion for .NET
 weight: 14
 url: /net/document-conversion/convert-jpg-to-pdf/
 ---
+
+# Convert JPG to PDF
+
 ## Introduction
 
 Are you looking to convert JPG files to PDF effortlessly using GroupDocs.Conversion for .NET? This tutorial will guide you through the process step by step. GroupDocs.Conversion for .NET is a powerful API that allows you to seamlessly convert various document formats, including images, to PDF with ease. Let's dive in!

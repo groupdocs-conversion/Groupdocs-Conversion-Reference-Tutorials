@@ -6,6 +6,9 @@ description: แปลงไฟล์ PLT เป็น PDF ได้อย่า
 weight: 19
 url: /th/net/pdf-conversion/convert-plt-to-pdf/
 ---
+
+# แปลง PLT เป็น PDF
+
 ## การแนะนำ
 ในบทช่วยสอนนี้ เราจะสำรวจวิธีการแปลงไฟล์ PLT (ไฟล์พล็อตเตอร์ภาษากราฟิก Hewlett-Packard) เป็นรูปแบบ PDF โดยใช้ GroupDocs.Conversion สำหรับ .NET GroupDocs.Conversion สำหรับ .NET เป็น API ที่ทรงพลังซึ่งช่วยให้นักพัฒนาสามารถรวมฟังก์ชันการแปลงเอกสารเข้ากับแอปพลิเคชัน .NET ของตนได้อย่างราบรื่น
 ## ข้อกำหนดเบื้องต้น

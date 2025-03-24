@@ -6,6 +6,9 @@ description: A GroupDocs.Conversion for .NET segítségével könnyedén konvert
 weight: 22
 url: /hu/net/file-format-conversion-convert-txt-to-pdf/
 ---
+
+# TXT konvertálása PDF-be
+
 ## Bevezetés
 mai digitális korszakban a dokumentumformátumok programozott kezelésének képessége számos szoftveralkalmazás számára elengedhetetlen. Akár dokumentumkezelő rendszert, akár online szerkesztőt épít, vagy egyszerűen csak fájlokat szeretne egyik formátumból a másikba konvertálni, egy megbízható és hatékony konvertáló eszköz létfontosságú. Az egyik ilyen eszköz, amely kiemelkedik a GroupDocs.Conversion for .NET.
 ## Előfeltételek

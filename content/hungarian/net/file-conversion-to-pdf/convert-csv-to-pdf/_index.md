@@ -6,6 +6,9 @@ description: Ismerje meg, hogyan konvertálhat könnyedén CSV-adatfájlokat PDF
 weight: 16
 url: /hu/net/file-conversion-to-pdf/convert-csv-to-pdf/
 ---
+
+# A CSV-adatfájlok konvertálása PDF-be
+
 ## Bevezetés
 A szoftverfejlesztés területén gyakori feladat a fájlok konvertálása egyik formátumból a másikba. A számos fájlformátum közül a CSV-t (vesszővel elválasztott értékek) széles körben használják táblázatos adatok tárolására. Másrészt a PDF-t (Portable Document Format) részesítik előnyben dokumentumok megosztására univerzális kompatibilitása és rögzített elrendezésű funkciója miatt. Ebben az oktatóanyagban a CSV-adatfájlok PDF-formátumba konvertálásának folyamatát mutatjuk be a GroupDocs.Conversion for .NET használatával.
 ## Előfeltételek

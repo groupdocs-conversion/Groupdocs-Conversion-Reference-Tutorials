@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET segítségével könnyedén konvertá
 weight: 12
 url: /hu/net/pdf-conversion/convert-ost-to-pdf/
 ---
+
+# OST konvertálása PDF-be
+
 ## Bevezetés
 A szoftverfejlesztés világában általános követelmény a fájlok egyik formátumból a másikba konvertálása. Legyen szó kompatibilitási okokból, archiválási célból vagy egyszerűen a tartalom hozzáférhetőbbé tétele érdekében, a fájlkonverzió kulcsfontosságú szerepet játszik a különböző alkalmazásokban. A GroupDocs.Conversion for .NET hatékony megoldást kínál azoknak a fejlesztőknek, akik a fájlkonverziós képességeket zökkenőmentesen szeretnék integrálni .NET-alkalmazásaikba. Ebben az oktatóanyagban megvizsgáljuk, hogyan konvertálhat OST (Outlook Offline Storage Table) fájlokat PDF-formátumba (Portable Document Format) a GroupDocs.Conversion for .NET használatával.
 ## Előfeltételek

@@ -6,6 +6,9 @@ description: Bez wysiłku konwertuj strony internetowe HTM do formatu PDF za pom
 weight: 23
 url: /pl/net/convert-files-to-pdf/convert-htm-to-pdf/
 ---
+
+# Konwertuj strony internetowe HTM do formatu PDF
+
 ## Wstęp
 świecie programowania .NET często istnieje potrzeba płynnej konwersji plików z jednego formatu na inny. Niezależnie od tego, czy przekształcasz strony internetowe HTML w dokumenty PDF, czy odwrotnie, posiadanie niezawodnego narzędzia może zrobić różnicę. Jednym z takich narzędzi jest GroupDocs.Conversion dla .NET, potężna biblioteka, która upraszcza proces konwersji, zachowując jednocześnie integralność i jakość dokumentów.
 ## Warunki wstępne

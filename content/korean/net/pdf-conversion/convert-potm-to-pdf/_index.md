@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET을 사용하여 POTM 파일을 PDF �
 weight: 21
 url: /ko/net/pdf-conversion/convert-potm-to-pdf/
 ---
+
+# POTM을 PDF로 변환
+
 ## 소개
 
 오늘날의 디지털 시대에 파일을 한 형식에서 다른 형식으로 변환하는 기능은 문서 관리의 중요한 측면입니다. 스프레드시트, 프리젠테이션, 텍스트 문서 등 무엇을 처리하든 형식 간에 전환할 수 있는 유연성을 갖는 것은 매우 중요합니다. 이 자습서에서는 .NET용 GroupDocs.Conversion을 사용하여 POTM 파일을 PDF로 변환하는 과정을 자세히 살펴보겠습니다.

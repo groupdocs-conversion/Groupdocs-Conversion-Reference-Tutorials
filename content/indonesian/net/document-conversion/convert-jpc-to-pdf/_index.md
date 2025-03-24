@@ -6,6 +6,9 @@ description: Konversikan file JPC ke format PDF dengan mudah menggunakan GroupDo
 weight: 11
 url: /id/net/document-conversion/convert-jpc-to-pdf/
 ---
+
+# Konversi JPC ke PDF
+
 ## Perkenalan
 Dalam bidang manajemen dan manipulasi dokumen, konversi yang efisien antar format file adalah yang terpenting. Salah satu alat yang menonjol adalah GroupDocs.Conversion for .NET, menawarkan fungsionalitas yang kuat untuk mengkonversi file antara berbagai format dengan lancar. Dalam tutorial ini, kita akan mempelajari cara mengonversi file JPC ke PDF menggunakan GroupDocs.Conversion untuk .NET.
 ## Prasyarat

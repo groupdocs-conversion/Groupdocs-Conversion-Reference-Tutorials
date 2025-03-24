@@ -6,6 +6,9 @@ description: Naučte se, jak bez námahy převádět soubory WMF do PDF pomocí 
 weight: 19
 url: /cs/net/converting-file-types-to-pdf/convert-wmf-to-pdf/
 ---
+
+# Převést WMF do PDF
+
 ## Úvod
 oblasti manipulace a převodu dokumentů GroupDocs.Conversion for .NET vyniká jako výkonná sada nástrojů pro vývojáře. Mezi jeho všestranné funkce patří schopnost převádět soubory WMF (Windows Metafile) do všudypřítomného PDF (Portable Document Format). Tento tutoriál vás provede procesem krok za krokem a zajistí, že tuto funkcionalitu můžete bez problémů integrovat do svých aplikací .NET.
 ## Předpoklady

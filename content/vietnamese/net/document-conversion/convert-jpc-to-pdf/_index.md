@@ -6,6 +6,9 @@ description: Dễ dàng chuyển đổi tệp JPC sang định dạng PDF bằng
 weight: 11
 url: /vi/net/document-conversion/convert-jpc-to-pdf/
 ---
+
+# Chuyển đổi JPC sang PDF
+
 ## Giới thiệu
 Trong lĩnh vực quản lý và thao tác tài liệu, việc chuyển đổi hiệu quả giữa các định dạng tệp là điều tối quan trọng. Một công cụ nổi bật như vậy là GroupDocs.Conversion cho .NET, cung cấp các chức năng mạnh mẽ để chuyển đổi liền mạch các tệp giữa các định dạng khác nhau. Trong hướng dẫn này, chúng ta sẽ đi sâu vào việc chuyển đổi các tệp JPC sang PDF bằng GroupDocs.Conversion cho .NET.
 ## Điều kiện tiên quyết

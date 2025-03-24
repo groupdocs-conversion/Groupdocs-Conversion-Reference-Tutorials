@@ -6,6 +6,9 @@ description: Tanulja meg, hogyan konvertálhat könnyedén DNG-képeket PDF-be a
 weight: 21
 url: /hu/net/file-conversion-to-pdf/convert-dng-to-pdf/
 ---
+
+# A DNG-képek konvertálása PDF-be
+
 ## Bevezetés
 Ebben az oktatóanyagban végigvezetjük a DNG-képek PDF-formátumba konvertálásának folyamatán a GroupDocs.Conversion for .NET használatával. A DNG (Digital Negative) egy digitális fényképezéshez használt fájlformátum. A DNG-képek PDF-be konvertálásával könnyedén megoszthatja vagy tárolhatja őket egy általánosan elfogadott formátumban.
 ## Előfeltételek

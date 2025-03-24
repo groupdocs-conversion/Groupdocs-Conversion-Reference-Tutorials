@@ -6,6 +6,9 @@ description: 使用 GroupDocs.Conversion for .NET 輕鬆將 IGS 3D 模型轉換�
 weight: 26
 url: /zh-hant/net/convert-files-to-pdf/convert-igs-to-pdf/
 ---
+
+# 將 IGS 3D 模型檔案轉換為 PDF
+
 ## 介紹
 在數位時代，將文件從一種格式無縫轉換為另一種格式的能力是必要的。無論您是開發人員還是愛好者，擁有正確的工具來有效地處理此類任務都是至關重要的。 GroupDocs.Conversion for .NET 提供了強大的解決方案，可輕鬆將各種文件格式（包括 IGS 3D 模型文件）轉換為 PDF。
 ## 先決條件

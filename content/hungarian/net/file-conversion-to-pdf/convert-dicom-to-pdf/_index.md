@@ -6,6 +6,9 @@ description: Könnyedén konvertálja a DICOM orvosi képeket PDF formátumba a 
 weight: 19
 url: /hu/net/file-conversion-to-pdf/convert-dicom-to-pdf/
 ---
+
+# A DICOM Medical Images konvertálása PDF-be
+
 ## Bevezetés
 A mai digitális korban a fájlformátumok zökkenőmentes konvertálásának képessége a legfontosabb. Legyen szó archiválásról, megosztásról vagy egyszerűen megtekintésről, a fájlok egyik formátumból a másikba konvertálása gyakori feladat. Az egyik ilyen, az orvostudományban gyakran előforduló átalakítás a DICOM (Digital Imaging and Communications in Medicine) képek PDF formátumba átalakítása. A DICOM-fájlok az orvosi képalkotáshoz használt szabványos formátumok, amelyek olyan információkat tárolnak, mint az MRI-vizsgálatok, röntgen- és CT-vizsgálatok.
 ## Előfeltételek

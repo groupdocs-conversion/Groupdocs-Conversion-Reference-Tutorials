@@ -6,6 +6,9 @@ description: Dễ dàng chuyển đổi tệp SVGZ sang PDF bằng GroupDocs.Con
 weight: 16
 url: /vi/net/file-format-conversion-convert-svgz-to-pdf/
 ---
+
+# Chuyển đổi SVGZ sang PDF
+
 ## Giới thiệu
 Trong lĩnh vực quản lý và thao tác tài liệu, GroupDocs.Conversion dành cho .NET là một bộ công cụ đáng gờm, trao quyền cho các nhà phát triển chuyển đổi liền mạch các tài liệu trên nhiều định dạng khác nhau. Trong số vô số khả năng của nó có khả năng chuyển đổi tệp SVGZ sang PDF, một tác vụ thường gặp trong nhiều ứng dụng khác nhau. Hướng dẫn này nhằm mục đích làm sáng tỏ quy trình chuyển đổi tệp SVGZ sang PDF bằng GroupDocs.Conversion cho .NET, chia nhỏ từng bước thành các thành phần dễ hiểu để triển khai dễ dàng.
 ## Điều kiện tiên quyết

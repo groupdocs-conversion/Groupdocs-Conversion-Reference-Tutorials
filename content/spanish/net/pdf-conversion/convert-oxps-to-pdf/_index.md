@@ -6,6 +6,9 @@ description: Convierta archivos OXPS a PDF sin esfuerzo utilizando GroupDocs.Con
 weight: 17
 url: /es/net/pdf-conversion/convert-oxps-to-pdf/
 ---
+
+# Convertir OXPS a PDF
+
 ## Introducción
 En el mundo del desarrollo .NET, la conversión eficiente de documentos es un requisito crucial para muchas aplicaciones. Ya sea que esté tratando con archivos OXPS y los necesite en formato PDF o viceversa, GroupDocs.Conversion para .NET viene al rescate. Esta poderosa biblioteca simplifica el proceso de conversión, permitiendo a los desarrolladores transformar fácilmente documentos de un formato a otro con un mínimo esfuerzo.
 ## Requisitos previos

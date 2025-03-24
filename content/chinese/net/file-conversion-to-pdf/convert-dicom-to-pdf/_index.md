@@ -6,6 +6,9 @@ description: 使用 GroupDocs.Conversion for .NET 轻松将 DICOM 医学图像�
 weight: 19
 url: /zh/net/file-conversion-to-pdf/convert-dicom-to-pdf/
 ---
+
+# 将 DICOM 医学图像转换为 PDF
+
 ## 介绍
 在当今的数字时代，无缝转换文件格式的能力至关重要。无论是为了存档、共享还是只是查看，将文件从一种格式转换为另一种格式的需求是一项常见任务。医学领域经常出现的一种转换是将 DICOM（医学数字成像和通信）图像转换为 PDF 格式。 DICOM 文件是用于医学成像的标准格式，用于存储 MRI 扫描、X 射线和 CT 扫描等信息。
 ## 先决条件

@@ -6,6 +6,9 @@ description: 使用 GroupDocs.Conversion for .NET 轻松将 GIF 图像转换为 
 weight: 21
 url: /zh/net/convert-files-to-pdf/convert-gif-to-pdf/
 ---
+
+# 将 GIF 图像转换为 PDF
+
 ## 介绍
 在当今的数字世界中，操作和转换各种文件格式的能力至关重要。无论您是开发人员、业务专业人士还是日常用户，拥有合适的文件转换工具都可以简化工作流程并提高工作效率。其中一款脱颖而出的工具是 GroupDocs.Conversion for .NET。这个强大的库提供了一套全面的功能，可以轻松转换各种文件类型。
 ## 先决条件

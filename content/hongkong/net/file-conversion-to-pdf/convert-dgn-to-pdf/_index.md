@@ -6,6 +6,9 @@ description: 使用 GroupDocs.Conversion for .NET 將 DGN CAD 檔案無縫轉換
 weight: 17
 url: /zh-hant/net/file-conversion-to-pdf/convert-dgn-to-pdf/
 ---
+
+# 將 DGN CAD 檔案轉換為 PDF
+
 ## 介紹
 在軟體開發領域，將文件從一種格式無縫轉換為另一種格式的能力至關重要。無論是出於資料遷移、相容性原因還是僅僅為了易用性，擁有強大的轉換工具都可以使世界變得不同。在本教學中，我們將深入研究使用 GroupDocs.Conversion for .NET 將 DGN CAD 檔案轉換為 PDF 的過程。
 ## 先決條件

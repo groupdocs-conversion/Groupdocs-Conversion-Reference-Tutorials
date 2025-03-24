@@ -6,6 +6,9 @@ description: Convertissez sans effort des pages Web HTM en PDF à l'aide de Grou
 weight: 23
 url: /fr/net/convert-files-to-pdf/convert-htm-to-pdf/
 ---
+
+# Convertir des pages Web HTM en PDF
+
 ## Introduction
 Dans le monde du développement .NET, il est souvent nécessaire de convertir des fichiers d'un format à un autre de manière transparente. Qu'il s'agisse de transformer des pages Web HTML en documents PDF ou vice versa, disposer d'un outil fiable peut faire toute la différence. L'un de ces outils est GroupDocs.Conversion pour .NET, une bibliothèque puissante qui simplifie le processus de conversion tout en préservant l'intégrité et la qualité des documents.
 ## Conditions préalables

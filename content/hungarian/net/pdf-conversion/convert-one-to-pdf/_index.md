@@ -6,6 +6,9 @@ description: Tanulja meg, hogyan konvertálhat ONE fájlokat könnyedén PDF for
 weight: 11
 url: /hu/net/pdf-conversion/convert-one-to-pdf/
 ---
+
+# ONE konvertálása PDF-be
+
 ## Bevezetés
 
 Ebben az oktatóanyagban végigvezetjük egy ONE fájl PDF formátumba konvertálásának folyamatán a GroupDocs.Conversion for .NET segítségével. Kövesse az alábbi lépéseket az átalakítás zökkenőmentes megvalósításához.

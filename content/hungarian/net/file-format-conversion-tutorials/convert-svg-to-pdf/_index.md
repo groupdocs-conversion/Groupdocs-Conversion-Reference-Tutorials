@@ -6,6 +6,9 @@ description: Ismerje meg, hogyan konvertálhat könnyedén SVG-t PDF-be a GroupD
 weight: 15
 url: /hu/net/file-format-conversion-convert-svg-to-pdf/
 ---
+
+# SVG konvertálása PDF-be
+
 ## Bevezetés
 A programozás világában gyakori feladat a fájlok konvertálása egyik formátumból a másikba. Függetlenül attól, hogy képekkel, dokumentumokkal vagy egyéb adathordozókkal van dolgunk, a formátumok közötti zökkenőmentes konvertálás kulcsfontosságú. Ebben az oktatóanyagban megvizsgáljuk, hogyan konvertálhat SVG (Scalable Vector Graphics) fájlokat PDF-be (Portable Document Format) a GroupDocs.Conversion for .NET segítségével.
 ## Előfeltételek

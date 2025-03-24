@@ -6,6 +6,9 @@ description: Tìm hiểu cách chuyển đổi tệp POT sang PDF bằng Groupdo
 weight: 22
 url: /vi/net/pdf-conversion/convert-pot-to-pdf/
 ---
+
+# Chuyển POT sang PDF
+
 ## Giới thiệu
 Groupdocs.Conversion for .NET là một thư viện mạnh mẽ hỗ trợ các tác vụ chuyển đổi tài liệu trong các ứng dụng .NET. Với API dễ sử dụng, các nhà phát triển có thể chuyển đổi liền mạch các tài liệu giữa các định dạng khác nhau. Trong hướng dẫn này, chúng tôi sẽ tập trung vào việc chuyển đổi tệp POT sang định dạng PDF bằng Groupdocs.Conversion cho .NET.
 ## Điều kiện tiên quyết

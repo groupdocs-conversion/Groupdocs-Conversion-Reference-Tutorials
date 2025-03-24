@@ -6,6 +6,9 @@ description: Naučte se, jak bez námahy převést EMLX Apple Mail e-mailové zp
 weight: 15
 url: /cs/net/convert-files-to-pdf/convert-emlx-to-pdf/
 ---
+
+# Převeďte e-mailové zprávy EMLX Apple Mail do formátu PDF
+
 ## Úvod
 V tomto tutoriálu se naučíme, jak převést e-mailové zprávy EMLX Apple Mail do formátu PDF pomocí GroupDocs.Conversion for .NET.
 ## Předpoklady

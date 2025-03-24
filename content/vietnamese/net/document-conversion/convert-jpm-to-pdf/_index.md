@@ -6,6 +6,9 @@ description: Dễ dàng chuyển đổi tệp JPM sang PDF bằng GroupDocs.Conv
 weight: 15
 url: /vi/net/document-conversion/convert-jpm-to-pdf/
 ---
+
+# Chuyển đổi JPM sang PDF
+
 ## Giới thiệu
 Trong thế giới kỹ thuật số ngày nay, nhu cầu chuyển đổi file từ định dạng này sang định dạng khác ngày càng trở nên phổ biến. Cho dù đó là vì lý do tương thích, tối ưu hóa lưu trữ hay mục đích chia sẻ thì khả năng chuyển đổi tệp liền mạch là vô giá. May mắn thay, với sự ra đời của các thư viện mạnh mẽ như GroupDocs.Conversion cho .NET, việc thực hiện các chuyển đổi như vậy chưa bao giờ dễ dàng hơn thế.
 ## Điều kiện tiên quyết

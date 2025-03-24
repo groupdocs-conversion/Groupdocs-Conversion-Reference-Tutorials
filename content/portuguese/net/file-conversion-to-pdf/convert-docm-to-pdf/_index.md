@@ -6,6 +6,9 @@ description: Converta facilmente documentos DOCM Word com macros em PDFs usando 
 weight: 22
 url: /pt/net/file-conversion-to-pdf/convert-docm-to-pdf/
 ---
+
+# Converter documentos DOCM Word (macros) em PDF
+
 ## Introdução
 No domínio do gerenciamento e manipulação de documentos, a conversão de arquivos de um formato para outro costuma ser uma necessidade. Quer você esteja lidando com documentos do Word contendo macros (arquivos DOCM) ou precise transformá-los em PDFs para uma acessibilidade mais ampla, é crucial ter as ferramentas certas à sua disposição. Neste tutorial, nos aprofundaremos em como converter com eficiência documentos DOCM Word, incluindo macros, em PDFs usando a poderosa biblioteca GroupDocs.Conversion para .NET.
 ## Pré-requisitos

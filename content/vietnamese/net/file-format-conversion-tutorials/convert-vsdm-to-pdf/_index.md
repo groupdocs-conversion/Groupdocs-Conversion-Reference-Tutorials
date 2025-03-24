@@ -6,6 +6,9 @@ description: Tìm hiểu cách chuyển đổi tệp VSDM sang định dạng PD
 weight: 26
 url: /vi/net/file-format-conversion-convert-vsdm-to-pdf/
 ---
+
+# Chuyển đổi VSDM sang PDF
+
 ## Giới thiệu
 Trong hướng dẫn này, chúng tôi sẽ hướng dẫn bạn quy trình chuyển đổi các tệp VSDM (Bản vẽ hỗ trợ macro Visio) sang định dạng PDF bằng thư viện GroupDocs.Conversion cho .NET. Chúng tôi sẽ chia nhỏ từng bước thành các hướng dẫn chi tiết để đảm bảo quá trình chuyển đổi diễn ra suôn sẻ.
 ## Điều kiện tiên quyết

@@ -6,6 +6,9 @@ description: .NET용 GroupDocs.Conversion을 사용하여 PNG 이미지를 PDF �
 weight: 20
 url: /ko/net/pdf-conversion/convert-png-to-pdf/
 ---
+
+# PNG를 PDF로 변환
+
 ## 소개
 오늘날의 디지털 시대에는 다양한 응용 프로그램에서 파일 형식을 효율적으로 변환하는 것이 중요합니다. 문서 관리, 보관, 공유 등 어떤 용도로든 파일을 한 형식에서 다른 형식으로 원활하게 변환할 수 있다는 것은 매우 중요합니다. 이 자습서에서는 .NET용 GroupDocs.Conversion을 사용하여 PNG 이미지를 PDF 문서로 변환하는 방법을 살펴보겠습니다. GroupDocs.Conversion은 개발자에게 다양한 형식 간에 파일을 쉽게 변환하는 데 필요한 도구를 제공하는 강력한 문서 변환 API입니다.
 ## 전제 조건

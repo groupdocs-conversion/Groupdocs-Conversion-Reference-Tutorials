@@ -6,6 +6,9 @@ description: Tanulja meg, hogyan konvertálhat könnyedén J2C képeket PDF-be a
 weight: 27
 url: /hu/net/convert-files-to-pdf/convert-j2c-to-pdf/
 ---
+
+# Konvertálja a J2C JPEG-LS tömörített képeket PDF-be
+
 ## Bevezetés
 Ebben az oktatóanyagban megvizsgáljuk, hogyan használhatja a GroupDocs.Conversion for .NET programot a J2C (JPEG-LS tömörített) képek PDF formátumba konvertálására. A GroupDocs.Conversion egy hatékony dokumentumkonverziós könyvtár, amely lehetővé teszi a fejlesztők számára, hogy zökkenőmentesen konvertálják a különböző dokumentumformátumokat .NET-alkalmazásaikban.
 ## Előfeltételek

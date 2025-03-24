@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET을 사용하여 DICOM 의료 이미�
 weight: 19
 url: /ko/net/file-conversion-to-pdf/convert-dicom-to-pdf/
 ---
+
+# DICOM 의료 이미지를 PDF로 변환
+
 ## 소개
 오늘날의 디지털 시대에는 파일 형식을 원활하게 변환하는 능력이 무엇보다 중요합니다. 보관, 공유 또는 단순히 보기 등 어떤 용도로든 파일을 한 형식에서 다른 형식으로 변환해야 하는 것은 일반적인 작업입니다. 의료 분야에서 자주 발생하는 변환 중 하나는 DICOM(Digital Imaging and Communications in Medicine) 이미지를 PDF 형식으로 변환하는 것입니다. DICOM 파일은 MRI 스캔, 엑스레이 및 CT 스캔과 같은 정보를 저장하는 의료 영상에 사용되는 표준 형식입니다.
 ## 전제 조건

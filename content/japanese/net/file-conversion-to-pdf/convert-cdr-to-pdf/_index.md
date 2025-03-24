@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET を使用して、CorelDRAW (CDR) ベ
 weight: 12
 url: /ja/net/file-conversion-to-pdf/convert-cdr-to-pdf/
 ---
+
+# CDR ベクター グラフィックスを PDF に変換
+
 ## 導入
 GroupDocs.Conversion for .NET は、開発者がさまざまなドキュメント形式を PDF、Word、HTML などにシームレスに変換できる強力なドキュメント変換ライブラリです。このチュートリアルでは、GroupDocs.Conversion for .NET を使用して CorelDRAW (CDR) ベクター グラフィックス ファイルを PDF 形式に変換することに焦点を当てます。このガイドを終えると、.NET アプリケーションでこの変換を簡単に実行するための知識が身につくでしょう。
 ## 前提条件

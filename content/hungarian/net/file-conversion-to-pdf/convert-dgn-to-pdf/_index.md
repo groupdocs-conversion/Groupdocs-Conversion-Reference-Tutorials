@@ -6,6 +6,9 @@ description: A DGN CAD fájlokat zökkenőmentesen konvertálja PDF formátumba 
 weight: 17
 url: /hu/net/file-conversion-to-pdf/convert-dgn-to-pdf/
 ---
+
+# A DGN CAD-fájlok konvertálása PDF-be
+
 ## Bevezetés
 szoftverfejlesztés területén a fájlok zökkenőmentes konvertálása egyik formátumból a másikba a legfontosabb. Legyen szó adatmigrációról, kompatibilitási okokból vagy egyszerűen a könnyű használhatóságról, a robusztus konverziós eszközök a világot megváltoztathatják. Ebben az oktatóanyagban a DGN CAD-fájlok PDF-formátumba konvertálásának folyamatát mutatjuk be a GroupDocs.Conversion for .NET használatával.
 ## Előfeltételek

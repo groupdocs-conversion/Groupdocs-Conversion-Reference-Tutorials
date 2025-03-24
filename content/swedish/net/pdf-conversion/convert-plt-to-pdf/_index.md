@@ -6,6 +6,9 @@ description: Konvertera PLT-filer till PDF sömlöst med GroupDocs.Conversion fo
 weight: 19
 url: /sv/net/pdf-conversion/convert-plt-to-pdf/
 ---
+
+# Konvertera PLT till PDF
+
 ## Introduktion
 I den här handledningen kommer vi att utforska hur man konverterar PLT-filer (Hewlett-Packard Graphics Language Plotter File) till PDF-format med GroupDocs.Conversion for .NET. GroupDocs.Conversion for .NET är ett kraftfullt API som gör att utvecklare sömlöst kan integrera dokumentkonverteringsfunktioner i sina .NET-applikationer.
 ## Förutsättningar

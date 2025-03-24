@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET を使用して、WMZ ファイルを
 weight: 20
 url: /ja/net/converting-file-types-to-pdf/convert-wmz-to-pdf/
 ---
+
+# WMZをPDFに変換
+
 ## 導入
 ソフトウェア開発の分野では、ファイルをある形式から別の形式にシームレスに変換する機能が不可欠です。互換性を確保するためにドキュメントを変換する場合でも、さまざまな目的でメディア ファイルを変換する場合でも、堅牢な変換機能があればワークフローが合理化され、生産性が向上します。このチュートリアルでは、**GroupDocs.Conversion for .NET** WMZ (Windows メタファイル) ファイルを、ユビキタスで汎用性の高いドキュメント形式である PDF (Portable Document Format) に変換します。
 ## 前提条件

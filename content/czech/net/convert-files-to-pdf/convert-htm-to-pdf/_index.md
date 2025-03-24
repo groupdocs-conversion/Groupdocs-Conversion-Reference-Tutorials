@@ -6,6 +6,9 @@ description: Bez námahy převádějte webové stránky HTM do PDF pomocí Group
 weight: 23
 url: /cs/net/convert-files-to-pdf/convert-htm-to-pdf/
 ---
+
+# Převeďte webové stránky HTM do formátu PDF
+
 ## Úvod
 Ve světě vývoje .NET je často potřeba plynule převádět soubory z jednoho formátu do druhého. Ať už se jedná o transformaci webových stránek HTML na dokumenty PDF nebo naopak, mít spolehlivý nástroj může znamenat velký rozdíl. Jedním z takových nástrojů je GroupDocs.Conversion for .NET, výkonná knihovna, která zjednodušuje proces převodu při zachování integrity a kvality dokumentu.
 ## Předpoklady

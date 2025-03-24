@@ -6,6 +6,9 @@ description: Tìm hiểu cách chuyển đổi tệp XLSM sang định dạng PD
 weight: 23
 url: /vi/net/converting-file-types-to-pdf/convert-xlsm-to-pdf/
 ---
+
+# Chuyển XLSM sang PDF
+
 ## Giới thiệu
 Trong hướng dẫn này, chúng ta sẽ đi sâu vào quá trình chuyển đổi tệp XLSM sang định dạng PDF bằng cách sử dụng thư viện GroupDocs.Conversion for .NET mạnh mẽ. Chuyển đổi tệp là một tác vụ phổ biến trong nhiều ứng dụng và GroupDocs.Conversion đơn giản hóa quy trình này, cung cấp khả năng chuyển đổi hiệu quả và đáng tin cậy.
 ## Điều kiện tiên quyết

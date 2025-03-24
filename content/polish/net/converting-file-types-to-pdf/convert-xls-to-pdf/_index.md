@@ -6,6 +6,9 @@ description: Bez wysiłku konwertuj pliki XLS do formatu PDF za pomocą GroupDoc
 weight: 24
 url: /pl/net/converting-file-types-to-pdf/convert-xls-to-pdf/
 ---
+
+# Konwertuj XLS na PDF
+
 ## Wstęp
 GroupDocs.Conversion dla .NET to potężny interfejs API, który umożliwia programistom bezproblemową konwersję dokumentów pomiędzy różnymi formatami w aplikacjach .NET. W tym samouczku skupimy się na konwersji plików XLS (arkusz kalkulacyjny Microsoft Excel) do formatu PDF (Portable Document Format), co jest powszechnym wymaganiem w wielu aplikacjach biznesowych.
 ## Warunki wstępne

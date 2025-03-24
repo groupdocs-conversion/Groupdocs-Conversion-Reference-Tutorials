@@ -6,6 +6,9 @@ description: Dowiedz się, jak bez wysiłku konwertować grafikę wektorową CGM
 weight: 14
 url: /pl/net/file-conversion-to-pdf/convert-cgm-to-pdf/
 ---
+
+# Konwertuj grafikę wektorową CGM na format PDF
+
 ## Wstęp
 W tym samouczku przeprowadzimy Cię przez proces konwersji grafiki wektorowej CGM (metapliku grafiki komputerowej) do formatu PDF przy użyciu programu GroupDocs.Conversion dla .NET. CGM to format pliku używany do grafiki wektorowej, powszechnie stosowany w rysunkach technicznych, ilustracjach i innych aplikacjach graficznych.
 ## Warunki wstępne

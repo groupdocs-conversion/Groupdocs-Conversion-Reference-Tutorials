@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET'i kullanarak J2C görüntülerini zah
 weight: 27
 url: /tr/net/convert-files-to-pdf/convert-j2c-to-pdf/
 ---
+
+# J2C JPEG-LS Sıkıştırılmış Görüntüleri PDF'ye Dönüştürün
+
 ## giriiş
 Bu eğitimde, J2C (JPEG-LS Sıkıştırılmış) görüntülerini PDF formatına dönüştürmek için GroupDocs.Conversion for .NET'in nasıl kullanılacağını keşfedeceğiz. GroupDocs.Conversion, geliştiricilerin .NET uygulamalarında çeşitli belge formatlarını sorunsuz bir şekilde dönüştürmelerine olanak tanıyan güçlü bir belge dönüştürme kitaplığıdır.
 ## Önkoşullar

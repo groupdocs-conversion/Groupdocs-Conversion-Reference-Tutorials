@@ -6,6 +6,9 @@ description: Scopri come convertire file OTS in formato PDF senza sforzo utilizz
 weight: 15
 url: /it/net/pdf-conversion/convert-ots-to-pdf/
 ---
+
+# Converti OTS in PDF
+
 ## introduzione
 Nell'ambito della conversione di documenti all'interno delle applicazioni .NET, GroupDocs.Conversion per .NET si distingue come uno strumento versatile e potente. Sia che tu stia cercando di convertire documenti da un formato a un altro o di manipolarli in vari modi, GroupDocs.Conversion fornisce una soluzione completa. In questo tutorial, approfondiremo il processo di conversione dei file OTS (OpenDocument Spreadsheet Template) in formato PDF utilizzando GroupDocs.Conversion per .NET. Seguendo queste istruzioni dettagliate, sarai in grado di integrare perfettamente la funzionalità di conversione dei documenti nelle tue applicazioni .NET.
 ## Prerequisiti

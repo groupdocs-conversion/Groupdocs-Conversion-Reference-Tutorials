@@ -7,6 +7,9 @@ weight: 30
 url: /zh/net/converting-file-types-to-pdf/convert-xps-to-pdf/
 ---
 
+# 将 XPS 转换为 PDF
+
+
 ## 介绍
 在当今的数字世界中，将文件从一种格式转换为另一种格式的能力对于无缝通信和协作至关重要。无论您是开发人员、商务专业人士，还是只是经常处理数字文档的人，拥有可靠的文件转换工具都可以极大地简化您的工作流程。
 在本教程中，我们将探讨如何使用 GroupDocs.Conversion for .NET 将 XPS 文件转换为 PDF 格式。 GroupDocs.Conversion是一个功能强大的.NET库，提供全面的文件转换功能，只需几行代码即可轻松转换各种文档格式。

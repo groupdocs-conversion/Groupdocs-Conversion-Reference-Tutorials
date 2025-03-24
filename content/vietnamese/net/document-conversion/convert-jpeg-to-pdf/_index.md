@@ -6,6 +6,9 @@ description: Chuyển đổi JPEG sang PDF một cách liền mạch bằng Grou
 weight: 12
 url: /vi/net/document-conversion/convert-jpeg-to-pdf/
 ---
+
+# Chuyển đổi JPEG sang PDF
+
 ## Giới thiệu
 Trong thế giới phát triển phần mềm, việc chuyển đổi tập tin từ định dạng này sang định dạng khác là một nhiệm vụ phổ biến. Cho dù đó là chuyển đổi hình ảnh sang PDF, tài liệu thành hình ảnh hay bất kỳ chuyển đổi định dạng tệp nào khác, việc có một công cụ đáng tin cậy để thực hiện nhiệm vụ này một cách hiệu quả là rất quan trọng. Một công cụ như vậy là GroupDocs.Conversion for .NET, một thư viện mạnh mẽ cung cấp cho các nhà phát triển khả năng chuyển đổi liền mạch các định dạng tệp khác nhau.
 ## Điều kiện tiên quyết

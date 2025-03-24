@@ -6,6 +6,9 @@ description: Tìm hiểu cách dễ dàng chuyển đổi hình ảnh J2C sang P
 weight: 27
 url: /vi/net/convert-files-to-pdf/convert-j2c-to-pdf/
 ---
+
+# Chuyển đổi hình ảnh nén J2C JPEG-LS sang PDF
+
 ## Giới thiệu
 Trong hướng dẫn này, chúng ta sẽ khám phá cách sử dụng GroupDocs.Conversion cho .NET để chuyển đổi hình ảnh J2C (JPEG-LS Compression) sang định dạng PDF. GroupDocs.Conversion là một thư viện chuyển đổi tài liệu mạnh mẽ cho phép các nhà phát triển chuyển đổi liền mạch các định dạng tài liệu khác nhau trong các ứng dụng .NET của họ.
 ## Điều kiện tiên quyết

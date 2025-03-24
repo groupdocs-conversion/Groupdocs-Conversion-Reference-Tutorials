@@ -6,6 +6,9 @@ description: Leer hoe u XLAM-bestanden moeiteloos naar PDF kunt converteren met 
 weight: 21
 url: /nl/net/converting-file-types-to-pdf/convert-xlam-to-pdf/
 ---
+
+# Converteer XLAM naar PDF
+
 ## Invoering
 In het digitale tijdperk is de noodzaak om documenten van het ene formaat naar het andere te converteren steeds gangbaarder geworden. Of het nu om compatibiliteitsredenen, archiverings- of deeldoeleinden gaat, het hebben van een betrouwbaar hulpmiddel voor bestandsconversie is essentieel. In deze zelfstudie gaan we dieper in op het gebruik van GroupDocs.Conversion voor .NET om XLAM-bestanden moeiteloos naar PDF-indeling te converteren.
 ## Vereisten

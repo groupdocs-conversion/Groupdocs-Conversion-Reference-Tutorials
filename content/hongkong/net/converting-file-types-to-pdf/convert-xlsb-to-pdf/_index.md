@@ -6,6 +6,9 @@ description: 了解如何使用 GroupDocs.Conversion for .NET 將 XLSB 檔案輕
 weight: 22
 url: /zh-hant/net/converting-file-types-to-pdf/convert-xlsb-to-pdf/
 ---
+
+# 將 XLSB 轉換為 PDF
+
 ## 介紹
 在軟體開發領域，將文件從一種格式轉換為另一種格式的需求是一項常見任務。無論是出於資料處理、文件管理還是相容性原因，擁有一個可靠的文件轉換工具都是必不可少的。 GroupDocs.Conversion for .NET 是一個功能強大的程式庫，可促進各種檔案格式之間的無縫轉換。在本教學中，我們將深入研究如何利用 GroupDocs.Conversion for .NET 將 XLSB 檔案轉換為 PDF 格式。
 ## 先決條件

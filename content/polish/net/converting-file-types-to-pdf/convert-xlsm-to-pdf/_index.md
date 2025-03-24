@@ -6,6 +6,9 @@ description: Dowiedz się, jak bez wysiłku konwertować pliki XLSM do formatu P
 weight: 23
 url: /pl/net/converting-file-types-to-pdf/convert-xlsm-to-pdf/
 ---
+
+# Konwertuj XLSM na PDF
+
 ## Wstęp
 W tym samouczku zagłębimy się w proces konwersji plików XLSM do formatu PDF przy użyciu potężnej biblioteki GroupDocs.Conversion dla .NET. Konwertowanie plików jest częstym zadaniem w wielu aplikacjach, a GroupDocs.Conversion upraszcza ten proces, oferując wydajne i niezawodne możliwości konwersji.
 ## Warunki wstępne

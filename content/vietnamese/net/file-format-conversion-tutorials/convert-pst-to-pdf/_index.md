@@ -6,6 +6,9 @@ description: Dễ dàng chuyển đổi tệp PST sang PDF bằng GroupDocs.Conv
 weight: 12
 url: /vi/net/file-format-conversion-convert-pst-to-pdf/
 ---
+
+# Chuyển đổi PST sang PDF
+
 ## Giới thiệu
 Trong lĩnh vực quản lý tài liệu, khả năng chuyển đổi liền mạch các tệp từ định dạng này sang định dạng khác là điều tối quan trọng. Cho dù bạn đang xử lý email, bảng tính hay bản trình bày, việc có một công cụ chuyển đổi đáng tin cậy có thể hợp lý hóa quy trình công việc và nâng cao năng suất. Trong hướng dẫn này, chúng ta sẽ tìm hiểu cách chuyển đổi tệp PST (Bảng lưu trữ cá nhân) sang định dạng PDF bằng GroupDocs.Conversion cho .NET.
 ## Điều kiện tiên quyết

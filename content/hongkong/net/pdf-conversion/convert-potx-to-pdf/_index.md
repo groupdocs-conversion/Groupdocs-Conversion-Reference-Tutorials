@@ -6,6 +6,9 @@ description: 了解如何使用 GroupDocs.Conversion for .NET 將 POTX 檔案轉
 weight: 23
 url: /zh-hant/net/pdf-conversion/convert-potx-to-pdf/
 ---
+
+# 將 POTX 轉換為PDF
+
 ## 介紹
 在文件操作和轉換領域，GroupDocs.Conversion for .NET 已成為一種強大的工具，可為各種文件格式提供無縫轉換功能。在本教學中，我們將深入研究使用 .NET 中的 GroupDocs.Conversion 程式庫將 POTX（PowerPoint 範本）檔案轉換為 PDF 的過程。
 ## 先決條件

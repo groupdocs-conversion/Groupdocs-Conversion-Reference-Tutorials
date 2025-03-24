@@ -6,6 +6,9 @@ description: Scopri come convertire file MPP in PDF in C# utilizzando GroupDocs.
 weight: 23
 url: /it/net/document-conversion/convert-mpp-to-pdf/
 ---
+
+# Converti MPP in PDF
+
 ## introduzione
 Nell'era digitale di oggi, la necessità di convertire file da un formato all'altro sta diventando sempre più comune. Che tu sia uno sviluppatore, un professionista o un singolo utente, avere la possibilità di convertire i file senza problemi può farti risparmiare tempo e migliorare la produttività. In questo tutorial esploreremo come convertire file MPP (Microsoft Project) in PDF utilizzando GroupDocs.Conversion per .NET.
 ## Prerequisiti

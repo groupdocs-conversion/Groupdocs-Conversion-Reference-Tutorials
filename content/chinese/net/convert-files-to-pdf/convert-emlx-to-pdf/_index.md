@@ -6,6 +6,9 @@ description: 了解如何使用 GroupDocs.Conversion for .NET 轻松将 EMLX App
 weight: 15
 url: /zh/net/convert-files-to-pdf/convert-emlx-to-pdf/
 ---
+
+# 将 EMLX Apple Mail 电子邮件消息转换为 PDF
+
 ## 介绍
 在本教程中，我们将学习如何使用 GroupDocs.Conversion for .NET 将 EMLX Apple Mail 电子邮件消息转换为 PDF 格式。
 ## 先决条件

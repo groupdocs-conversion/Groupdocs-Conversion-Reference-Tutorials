@@ -6,6 +6,9 @@ description: Dễ dàng chuyển đổi Tài liệu Word DOCM có macro thành P
 weight: 22
 url: /vi/net/file-conversion-to-pdf/convert-docm-to-pdf/
 ---
+
+# Chuyển đổi tài liệu Word DOCM (Macros) sang PDF
+
 ## Giới thiệu
 Trong lĩnh vực quản lý và thao tác tài liệu, việc chuyển đổi tệp từ định dạng này sang định dạng khác thường là điều cần thiết. Cho dù bạn đang xử lý các tài liệu Word có chứa macro (tệp DOCM) hay cần chuyển đổi chúng thành tệp PDF để có khả năng truy cập rộng hơn thì việc có các công cụ phù hợp theo ý của bạn là rất quan trọng. Trong hướng dẫn này, chúng ta sẽ tìm hiểu cách chuyển đổi hiệu quả Tài liệu Word DOCM, bao gồm macro, thành PDF bằng cách sử dụng thư viện GroupDocs.Conversion mạnh mẽ cho .NET.
 ## Điều kiện tiên quyết

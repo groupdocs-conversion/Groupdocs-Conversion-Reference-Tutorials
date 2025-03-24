@@ -6,6 +6,9 @@ description: يمكنك بسهولة تحويل قوالب DOTX Word إلى PDF 
 weight: 27
 url: /ar/net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---
+
+# تحويل قوالب DOTX Word إلى PDF
+
 ## مقدمة
 تُستخدم مستندات Microsoft Word على نطاق واسع لأغراض متعددة، بما في ذلك إنشاء قوالب بتنسيق DOTX. ومع ذلك، قد تكون هناك حالات تحتاج فيها إلى تحويل قوالب DOTX هذه إلى PDF لتسهيل المشاركة أو الطباعة أو لأغراض الأرشفة. في هذا البرنامج التعليمي، سنرشدك خلال عملية تحويل قوالب DOTX Word إلى PDF باستخدام GroupDocs.Conversion for .NET.
 ## المتطلبات الأساسية

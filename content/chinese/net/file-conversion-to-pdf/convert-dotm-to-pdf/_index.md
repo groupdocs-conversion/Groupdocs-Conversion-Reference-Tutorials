@@ -6,6 +6,9 @@ description: 使用 GroupDocs.Conversion for .NET 将包含宏的 DOTM Word 模�
 weight: 25
 url: /zh/net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---
+
+# 将 DOTM Word 模板（宏）转换为 PDF
+
 ## 介绍
 Microsoft Word DOTM 模板通常包含宏，可能会在不同平台或应用程序之间造成兼容性问题。将它们转换为 PDF 格式不仅可以确保通用可访问性，还可以消除与宏相关的潜在安全风险。在本教程中，我们将逐步介绍使用 GroupDocs.Conversion for .NET 将 DOTM 文件转换为 PDF 的步骤。
 ## 先决条件

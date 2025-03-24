@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET을 사용하여 MBOX 파일을 PDF �
 weight: 18
 url: /ko/net/document-conversion/convert-mbox-to-pdf/
 ---
+
+# MBOX를 PDF로 변환
+
 ## 소개
 오늘날의 디지털 시대에는 다양한 파일 형식을 변환해야 할 필요성이 어디에나 있습니다. 비즈니스 전문가, 학생 또는 단순히 개인 데이터를 관리하는 사람이라면 파일을 한 형식에서 다른 형식으로 변환하는 데 어려움을 겪었을 것입니다. 수많은 변환 작업 중에서 MBOX 파일을 PDF 형식으로 변환하는 것은 일반적인 요구 사항입니다. 이메일 메시지를 저장하는 데 일반적으로 사용되는 MBOX 파일은 보관, 공유 또는 인쇄 목적으로 PDF로 변환해야 할 수 있습니다.
 이 튜토리얼에서는 강력한 .NET용 GroupDocs.Conversion 라이브러리를 사용하여 MBOX 파일을 PDF로 효율적으로 변환하는 방법을 살펴보겠습니다. 초보자도 원활하게 따라할 수 있도록 프로세스를 관리 가능한 단계로 세분화하겠습니다.

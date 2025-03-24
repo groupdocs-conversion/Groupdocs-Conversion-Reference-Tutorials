@@ -6,6 +6,9 @@ description: Naučte se, jak plynule převádět soubory XLTX do PDF pomocí Gro
 weight: 28
 url: /cs/net/converting-file-types-to-pdf/convert-xltx-to-pdf/
 ---
+
+# Převést XLTX do PDF
+
 ## Úvod
 oblasti vývoje softwaru často vyvstává potřeba převádět soubory z jednoho formátu do druhého. Ať už je to z důvodů kompatibility nebo jednoduše pro splnění specifických požadavků, mít spolehlivý nástroj pro efektivní zpracování takových převodů je neocenitelné. V tomto tutoriálu se ponoříme do využití GroupDocs.Conversion for .NET k bezproblémovému převodu souborů XLTX do formátu PDF. 
 ## Předpoklady

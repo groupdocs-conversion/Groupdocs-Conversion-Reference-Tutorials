@@ -6,6 +6,9 @@ description: Konvertieren Sie XLTM-Dateien mühelos in PDF mit GroupDocs.Convers
 weight: 26
 url: /de/net/converting-file-types-to-pdf/convert-xltm-to-pdf/
 ---
+
+# Konvertieren Sie XLTM in PDF
+
 ## Einführung
 GroupDocs.Conversion für .NET ist eine leistungsstarke API, die Entwicklern die nahtlose Konvertierung verschiedener Dokumentformate in PDF und andere unterstützte Formate ermöglicht. In diesem Tutorial konzentrieren wir uns auf die Konvertierung von XLTM-Dateien (Excel-Vorlage) in PDF mithilfe der GroupDocs.Conversion-API. Mit nur wenigen Codezeilen können Sie XLTM-Dateien effizient in PDF konvertieren und so die gemeinsame Nutzung und Anzeige von Dokumenten erleichtern.
 ## Voraussetzungen

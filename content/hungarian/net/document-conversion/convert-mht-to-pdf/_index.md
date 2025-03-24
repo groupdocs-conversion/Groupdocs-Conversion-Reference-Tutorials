@@ -6,6 +6,9 @@ description: A GroupDocs.Conversion for .NET segítségével könnyedén konvert
 weight: 21
 url: /hu/net/document-conversion/convert-mht-to-pdf/
 ---
+
+# MHT konvertálása PDF-be
+
 ## Bevezetés
 A .NET fejlesztés világában gyakori feladat a fájlok egyik formátumból a másikba konvertálása. Akár dokumentumokkal, képekkel vagy más típusú fájlokkal van dolgod, a formátumok közötti zökkenőmentes konvertálás képessége hihetetlenül értékes lehet. Az egyik hatékony eszköz, amely lehetővé teszi ezt a funkciót, a GroupDocs.Conversion for .NET.
 Ebben az oktatóanyagban egy konkrét átalakítási feladatra összpontosítunk: MHT (MIME HTML) fájlok konvertálása PDF-re (Portable Document Format) a GroupDocs.Conversion for .NET használatával. Lépésről lépésre végigjárjuk a folyamatot, és az egyes példákat kezelhető darabokra bontjuk a világos megértés érdekében.

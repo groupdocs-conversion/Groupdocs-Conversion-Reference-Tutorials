@@ -6,6 +6,9 @@ description: Convierta sin esfuerzo imágenes médicas DICOM a formato PDF utili
 weight: 19
 url: /es/net/file-conversion-to-pdf/convert-dicom-to-pdf/
 ---
+
+# Convierta imágenes médicas DICOM a PDF
+
 ## Introducción
 En la era digital actual, la capacidad de convertir formatos de archivos sin problemas es primordial. Ya sea para archivar, compartir o simplemente visualizar, la necesidad de convertir archivos de un formato a otro es una tarea común. Una de esas conversiones que surge a menudo en el campo médico es la conversión de imágenes DICOM (Imágenes digitales y comunicaciones en medicina) al formato PDF. Los archivos DICOM son el formato estándar utilizado para imágenes médicas y almacenan información como exploraciones por resonancia magnética, radiografías y tomografías computarizadas.
 ## Requisitos previos

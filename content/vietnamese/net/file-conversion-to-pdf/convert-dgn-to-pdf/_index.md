@@ -6,6 +6,9 @@ description: Chuyển đổi liền mạch các tệp CAD DGN sang PDF bằng Gr
 weight: 17
 url: /vi/net/file-conversion-to-pdf/convert-dgn-to-pdf/
 ---
+
+# Chuyển đổi tệp CAD DGN sang PDF
+
 ## Giới thiệu
 Trong lĩnh vực phát triển phần mềm, khả năng chuyển đổi liền mạch các tệp từ định dạng này sang định dạng khác là điều tối quan trọng. Cho dù đó là vì lý do di chuyển dữ liệu, lý do tương thích hay đơn giản là để dễ sử dụng, việc sử dụng các công cụ chuyển đổi mạnh mẽ có thể tạo ra sự khác biệt lớn. Trong hướng dẫn này, chúng ta sẽ đi sâu vào quá trình chuyển đổi tệp CAD DGN sang PDF bằng GroupDocs.Conversion cho .NET.
 ## Điều kiện tiên quyết

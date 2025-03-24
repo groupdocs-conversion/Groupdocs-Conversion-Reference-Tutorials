@@ -6,6 +6,9 @@ description: Tìm hiểu cách chuyển đổi tệp AI sang PDF dễ dàng bằ
 weight: 10
 url: /vi/net/file-conversion-to-pdf/convert-ai-to-pdf/
 ---
+
+# Chuyển đổi tập tin AI sang PDF
+
 ## Giới thiệu
 Trong hướng dẫn này, chúng ta sẽ đi sâu vào cách tận dụng sức mạnh của GroupDocs.Conversion dành cho .NET để chuyển đổi tệp AI sang định dạng PDF. Chúng tôi sẽ chia quy trình thành các bước đơn giản, dễ thực hiện để đảm bảo rằng ngay cả những người mới bắt đầu cũng có thể làm theo một cách dễ dàng.
 ## Điều kiện tiên quyết

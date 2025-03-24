@@ -6,6 +6,9 @@ description: Converta facilmente e-books EPUB para o formato PDF usando GroupDoc
 weight: 18
 url: /pt/net/convert-files-to-pdf/convert-epub-to-pdf/
 ---
+
+# Converta e-books EPUB em PDF
+
 ## Introdução
 Na era digital de hoje, a capacidade de converter facilmente formatos de arquivo é um aspecto crucial do gerenciamento de documentos digitais. Esteja você lidando com e-books, documentos ou imagens, ter a capacidade de convertê-los em diferentes formatos pode melhorar muito sua acessibilidade e usabilidade. Entre a infinidade de conversões de formato de arquivo, a conversão de e-books EPUB em PDF tem uma importância significativa devido à compatibilidade universal e estabilidade de formatação do PDF.
 ## Pré-requisitos

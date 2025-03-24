@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET을 사용하여 매크로가 포함�
 weight: 25
 url: /ko/net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---
+
+# DOTM Word 템플릿(매크로)을 PDF로 변환
+
 ## 소개
 종종 매크로가 포함된 Microsoft Word DOTM 템플릿은 다양한 플랫폼이나 애플리케이션에서 호환성 문제를 일으킬 수 있습니다. PDF 형식으로 변환하면 보편적인 접근성이 보장될 뿐만 아니라 매크로와 관련된 잠재적인 보안 위험도 제거됩니다. 이 튜토리얼에서는 .NET용 GroupDocs.Conversion을 사용하여 DOTM 파일을 PDF로 변환하는 단계를 안내합니다.
 ## 전제 조건

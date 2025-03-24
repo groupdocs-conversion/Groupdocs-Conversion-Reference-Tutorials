@@ -6,6 +6,9 @@ description: Learn how to effortlessly convert WMZ files to PDF using GroupDocs.
 weight: 20
 url: /net/converting-file-types-to-pdf/convert-wmz-to-pdf/
 ---
+
+# Convert WMZ to PDF
+
 ## Introduction
 In the realm of software development, the ability to convert files from one format to another seamlessly is indispensable. Whether it's converting documents for compatibility or transforming media files for various purposes, having robust conversion capabilities can streamline workflows and enhance productivity. In this tutorial, we'll delve into the intricacies of utilizing **GroupDocs.Conversion for .NET** to convert WMZ (Windows Metafile) files into PDF (Portable Document Format), a ubiquitous and versatile document format.
 ## Prerequisites

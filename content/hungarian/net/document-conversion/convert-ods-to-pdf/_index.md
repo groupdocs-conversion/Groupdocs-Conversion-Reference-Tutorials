@@ -6,6 +6,9 @@ description: Könnyedén konvertálhat ODS fájlokat PDF formátumba a GroupDocs
 weight: 29
 url: /hu/net/document-conversion/convert-ods-to-pdf/
 ---
+
+# ODS konvertálása PDF-be
+
 ## Bevezetés
 A dokumentumkezelés és -konverzió területén a GroupDocs.Conversion for .NET hatékony eszközként jelenik meg, amely zökkenőmentes átalakítási lehetőségeket biztosít különféle fájlformátumokhoz. Ez a cikk az ODS (OpenDocument Spreadsheet) fájlok PDF (Portable Document Format) formátumba konvertálásának bonyolultságával foglalkozik a GroupDocs.Conversion for .NET használatával. 
 ## Előfeltételek

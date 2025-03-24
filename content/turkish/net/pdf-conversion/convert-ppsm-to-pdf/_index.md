@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET'i kullanarak PPSM dosyalarını zahme
 weight: 24
 url: /tr/net/pdf-conversion/convert-ppsm-to-pdf/
 ---
+
+# PPSM'yi PDF'ye dönüştürün
+
 ## giriiş
 Bilgi alışverişinin ışık hızında gerçekleştiği günümüzün dijital çağında, dosyaları bir formattan diğerine sorunsuz bir şekilde dönüştürme yeteneğine sahip olmak çok önemlidir. İster dönüştürme işlevselliğini .NET uygulamanıza entegre etmek isteyen bir geliştirici olun, ister çeşitli amaçlarla dosyaları dönüştürmeye ihtiyaç duyan bir iş kullanıcısı olun, GroupDocs.Conversion for .NET güçlü bir çözüm sunar.
 ## Önkoşullar

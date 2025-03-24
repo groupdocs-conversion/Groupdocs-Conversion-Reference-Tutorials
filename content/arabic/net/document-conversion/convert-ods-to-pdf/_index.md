@@ -6,6 +6,9 @@ description: يمكنك بسهولة تحويل ملفات ODS إلى PDF باس
 weight: 29
 url: /ar/net/document-conversion/convert-ods-to-pdf/
 ---
+
+# تحويل المواد المستنفدة للأوزون إلى PDF
+
 ## مقدمة
 في مجال معالجة المستندات وتحويلها، يظهر GroupDocs.Conversion for .NET كأداة قوية توفر إمكانات تحويل سلسة لتنسيقات الملفات المختلفة. تتعمق هذه المقالة في تعقيدات تحويل ملفات ODS (جدول بيانات OpenDocument) إلى PDF (تنسيق المستند المحمول) باستخدام GroupDocs.Conversion لـ .NET. 
 ## المتطلبات الأساسية

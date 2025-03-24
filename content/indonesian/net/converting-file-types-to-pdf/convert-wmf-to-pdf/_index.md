@@ -6,6 +6,9 @@ description: Pelajari cara mengonversi file WMF ke PDF dengan mudah menggunakan 
 weight: 19
 url: /id/net/converting-file-types-to-pdf/convert-wmf-to-pdf/
 ---
+
+# Konversi WMF ke PDF
+
 ## Perkenalan
 Dalam bidang manipulasi dan konversi dokumen, GroupDocs.Conversion for .NET menonjol sebagai perangkat yang ampuh bagi pengembang. Di antara fitur serbagunanya adalah kemampuan untuk mengkonversi file WMF (Windows Metafile) menjadi PDF (Portable Document Format) yang ada di mana-mana. Tutorial ini akan memandu Anda melalui proses langkah demi langkah, memastikan bahwa Anda dapat mengintegrasikan fungsi ini dengan lancar ke dalam aplikasi .NET Anda.
 ## Prasyarat

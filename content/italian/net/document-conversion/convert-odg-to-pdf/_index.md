@@ -6,6 +6,9 @@ description: Scopri come convertire file ODG in PDF senza sforzo utilizzando Gro
 weight: 27
 url: /it/net/document-conversion/convert-odg-to-pdf/
 ---
+
+# Converti ODG in PDF
+
 ## introduzione
 Nel mondo della gestione e conversione dei documenti, GroupDocs.Conversion per .NET si distingue come un potente strumento per gli sviluppatori che desiderano semplificare i propri processi. Con la sua API intuitiva e funzionalità robuste, GroupDocs.Conversion offre funzionalità di conversione fluide per una varietà di formati di file, incluso da ODG a PDF. In questo tutorial ti guideremo attraverso il processo di conversione dei file ODG in PDF utilizzando GroupDocs.Conversion per .NET, suddividendo ogni passaggio per garantire chiarezza e comprensione.
 ## Prerequisiti

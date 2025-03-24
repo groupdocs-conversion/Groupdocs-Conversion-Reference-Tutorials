@@ -6,6 +6,9 @@ description: 使用 GroupDocs.Conversion for .NET 轻松将 PPTM 文件转换为
 weight: 27
 url: /zh/net/pdf-conversion/convert-pptm-to-pdf/
 ---
+
+# 将 PPTM 转换为 PDF
+
 ## 介绍
 在文档管理和转换领域，效率至关重要。无论您处理的是 PowerPoint 文件还是 PDF，能够在格式之间进行无缝转换都可以简化工作流程并提高工作效率。 GroupDocs.Conversion for .NET 在这个领域脱颖而出，成为一个强大的工具，为开发人员提供了一个全面的解决方案，可以轻松地将 PPTM（启用宏的 PowerPoint 演示文稿）文件转换为 PDF 格式。
 ## 先决条件

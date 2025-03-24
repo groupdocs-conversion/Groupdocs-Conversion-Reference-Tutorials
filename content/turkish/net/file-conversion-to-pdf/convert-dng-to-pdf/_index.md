@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET'i kullanarak DNG görüntülerini zah
 weight: 21
 url: /tr/net/file-conversion-to-pdf/convert-dng-to-pdf/
 ---
+
+# DNG Görüntülerini PDF'ye Dönüştür
+
 ## giriiş
 Bu öğreticide, GroupDocs.Conversion for .NET'i kullanarak DNG görüntülerini PDF'ye dönüştürme sürecinde size rehberlik edeceğiz. DNG (Dijital Negatif), dijital fotoğrafçılıkta kullanılan bir dosya formatıdır. DNG görüntülerini PDF'ye dönüştürerek bunları kolayca paylaşabilir veya evrensel olarak kabul edilen bir formatta saklayabilirsiniz.
 ## Önkoşullar

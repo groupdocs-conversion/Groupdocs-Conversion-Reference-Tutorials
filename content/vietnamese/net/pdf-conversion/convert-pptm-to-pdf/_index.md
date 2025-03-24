@@ -6,6 +6,9 @@ description: Dễ dàng chuyển đổi tệp PPTM sang định dạng PDF bằn
 weight: 27
 url: /vi/net/pdf-conversion/convert-pptm-to-pdf/
 ---
+
+# Chuyển đổi PPTM sang PDF
+
 ## Giới thiệu
 Trong lĩnh vực quản lý và chuyển đổi tài liệu, hiệu quả là điều tối quan trọng. Cho dù bạn đang xử lý tệp PowerPoint hay tệp PDF, khả năng chuyển đổi liền mạch giữa các định dạng có thể hợp lý hóa quy trình làm việc và nâng cao năng suất. GroupDocs.Conversion for .NET nổi bật như một công cụ mạnh mẽ trong lĩnh vực này, cung cấp cho các nhà phát triển giải pháp toàn diện để chuyển đổi các tệp PPTM (Bản trình bày hỗ trợ macro PowerPoint) sang định dạng PDF một cách dễ dàng.
 ## Điều kiện tiên quyết

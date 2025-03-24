@@ -6,6 +6,9 @@ description: Konvertera enkelt DOTX Word-mallar till PDF med GroupDocs.Conversio
 weight: 27
 url: /sv/net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---
+
+# Konvertera DOTX Word-mallar till PDF
+
 ## Introduktion
 Microsoft Word-dokument används ofta för olika ändamål, inklusive att skapa mallar i DOTX-format. Det kan dock finnas tillfällen där du behöver konvertera dessa DOTX-mallar till PDF för enklare delning, utskrift eller arkiveringsändamål. I den här handledningen guidar vi dig genom processen att konvertera DOTX Word-mallar till PDF med GroupDocs.Conversion for .NET.
 ## Förutsättningar

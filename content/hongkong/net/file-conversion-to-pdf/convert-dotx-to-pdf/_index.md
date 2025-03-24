@@ -6,6 +6,9 @@ description: 使用 GroupDocs.Conversion for .NET 輕鬆將 DOTX Word 範本轉�
 weight: 27
 url: /zh-hant/net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---
+
+# 將 DOTX Word 範本轉換為 PDF
+
 ## 介紹
 Microsoft Word 文件廣泛用於各種目的，包括建立 DOTX 格式的範本。但是，在某些情況下，您可能需要將這些 DOTX 範本轉換為 PDF，以便於共用、列印或存檔。在本教學中，我們將引導您完成使用 GroupDocs.Conversion for .NET 將 DOTX Word 範本轉換為 PDF 的過程。
 ## 先決條件

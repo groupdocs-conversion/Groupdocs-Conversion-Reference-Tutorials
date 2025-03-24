@@ -6,6 +6,9 @@ description: A GroupDocs.Conversion for .NET segítségével könnyedén konvert
 weight: 13
 url: /hu/net/convert-files-to-pdf/convert-emf-to-pdf/
 ---
+
+# Konvertálja az EMF Windows metafájlokat PDF-be
+
 ## Bevezetés
 Ebben az oktatóanyagban végigvezetjük az EMF (Enhanced Metafile) Windows-metafájlok PDF formátumba konvertálásának folyamatát a GroupDocs.Conversion for .NET segítségével.
 ## Előfeltételek

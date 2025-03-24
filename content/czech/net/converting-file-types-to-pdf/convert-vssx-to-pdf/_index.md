@@ -6,6 +6,9 @@ description: Naučte se, jak bez námahy převést soubory VSSX do formátu PDF 
 weight: 12
 url: /cs/net/converting-file-types-to-pdf/convert-vssx-to-pdf/
 ---
+
+# Převést VSSX do PDF
+
 ## Úvod
 V oblasti správy a manipulace s dokumenty je schopnost plynule převádět soubory z jednoho formátu do druhého prvořadá. Ať už pracujete s textovými dokumenty, tabulkami nebo prezentacemi, flexibilita při přepínání mezi formáty může výrazně zvýšit produktivitu a zefektivnit pracovní postupy. V tomto tutoriálu se ponoříme do procesu převodu souborů VSSX do formátu PDF pomocí GroupDocs.Conversion for .NET.
 ## Předpoklady

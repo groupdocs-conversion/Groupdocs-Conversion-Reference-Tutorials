@@ -6,6 +6,9 @@ description: Chuyển đổi tệp MSG sang PDF dễ dàng bằng GroupDocs.Conv
 weight: 26
 url: /vi/net/document-conversion/convert-msg-to-pdf/
 ---
+
+# Chuyển MSG sang PDF
+
 ## Giới thiệu
 Trong thời đại kỹ thuật số ngày nay, việc chuyển đổi tài liệu đóng vai trò quan trọng trong việc quản lý và chia sẻ thông tin một cách hiệu quả. Cho dù bạn là nhà phát triển xây dựng ứng dụng hay tổ chức đang hợp lý hóa quy trình làm việc của mình thì khả năng chuyển đổi tệp từ định dạng này sang định dạng khác là vô giá. Trong hướng dẫn này, chúng ta sẽ đi sâu vào chuyển đổi tệp MSG (Định dạng thư Outlook) sang PDF (Định dạng tài liệu di động) bằng GroupDocs.Conversion cho .NET.
 ## Điều kiện tiên quyết

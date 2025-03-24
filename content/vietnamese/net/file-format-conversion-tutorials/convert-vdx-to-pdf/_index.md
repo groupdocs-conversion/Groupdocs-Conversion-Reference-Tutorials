@@ -6,6 +6,9 @@ description: Dễ dàng chuyển đổi tệp VDX sang định dạng PDF bằng
 weight: 25
 url: /vi/net/file-format-conversion-convert-vdx-to-pdf/
 ---
+
+# Chuyển đổi VDX sang PDF
+
 ## Giới thiệu
 Trong thời đại kỹ thuật số ngày nay, khả năng chuyển đổi liền mạch các tệp từ định dạng này sang định dạng khác là điều cần thiết để có quy trình làm việc và cộng tác hiệu quả. Trong số vô số định dạng tệp, VDX, định dạng dựa trên XML độc quyền được sử dụng trong Microsoft Visio, thường yêu cầu chuyển đổi sang các định dạng tương thích phổ biến hơn như PDF để chia sẻ và xem dễ dàng hơn.
 Trong hướng dẫn này, chúng ta sẽ đi sâu vào quá trình chuyển đổi tệp VDX sang PDF bằng GroupDocs.Conversion cho .NET. GroupDocs.Conversion là API chuyển đổi tài liệu mạnh mẽ cho phép các nhà phát triển tích hợp chức năng chuyển đổi tài liệu vào các ứng dụng .NET của họ một cách dễ dàng.

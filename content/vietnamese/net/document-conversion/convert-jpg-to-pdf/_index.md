@@ -6,6 +6,9 @@ description: Chuyển đổi JPG sang PDF dễ dàng bằng GroupDocs.Conversion
 weight: 14
 url: /vi/net/document-conversion/convert-jpg-to-pdf/
 ---
+
+# Chuyển đổi JPG sang PDF
+
 ## Giới thiệu
 
 Bạn đang muốn chuyển đổi tệp JPG sang PDF dễ dàng bằng GroupDocs.Conversion cho .NET? Hướng dẫn này sẽ hướng dẫn bạn từng bước thực hiện quy trình. GroupDocs.Conversion for .NET là một API mạnh mẽ cho phép bạn chuyển đổi liền mạch các định dạng tài liệu khác nhau, bao gồm cả hình ảnh, sang PDF một cách dễ dàng. Hãy đi sâu vào!

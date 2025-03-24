@@ -6,6 +6,9 @@ description: Tìm hiểu cách chuyển đổi tệp VSTX sang định dạng PD
 weight: 15
 url: /vi/net/converting-file-types-to-pdf/convert-vstx-to-pdf/
 ---
+
+# Chuyển đổi VSTX sang PDF
+
 ## Giới thiệu
 Trong hướng dẫn này, chúng tôi sẽ hướng dẫn bạn quy trình chuyển đổi tệp VSTX sang định dạng PDF bằng GroupDocs.Conversion cho .NET. Thư viện mạnh mẽ này cho phép chuyển đổi liền mạch giữa các định dạng tài liệu khác nhau, mang lại sự linh hoạt và hiệu quả trong việc quản lý tài liệu.
 ## Điều kiện tiên quyết

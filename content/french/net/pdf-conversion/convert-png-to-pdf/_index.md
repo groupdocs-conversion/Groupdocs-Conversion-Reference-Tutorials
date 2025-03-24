@@ -6,6 +6,9 @@ description: Convertissez sans effort des images PNG en documents PDF à l'aide 
 weight: 20
 url: /fr/net/pdf-conversion/convert-png-to-pdf/
 ---
+
+# Convertir PNG en PDF
+
 ## Introduction
 À l’ère numérique d’aujourd’hui, une conversion efficace des formats de fichiers est cruciale pour diverses applications. Qu'il s'agisse de gestion de documents, d'archivage ou de partage, pouvoir convertir de manière transparente des fichiers d'un format à un autre est inestimable. Dans ce didacticiel, nous verrons comment convertir des images PNG en documents PDF à l'aide de GroupDocs.Conversion pour .NET. GroupDocs.Conversion est une puissante API de conversion de documents qui fournit aux développeurs les outils dont ils ont besoin pour convertir sans effort des fichiers entre différents formats.
 ## Conditions préalables

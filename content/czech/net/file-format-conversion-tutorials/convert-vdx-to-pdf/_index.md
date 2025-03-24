@@ -6,6 +6,9 @@ description: Bez námahy převádějte soubory VDX do formátu PDF pomocí Group
 weight: 25
 url: /cs/net/file-format-conversion-convert-vdx-to-pdf/
 ---
+
+# Převést VDX do PDF
+
 ## Úvod
 V dnešní digitální době je schopnost bezproblémově převádět soubory z jednoho formátu do druhého zásadní pro efektivní pracovní tok a spolupráci. Mezi nesčetnými formáty souborů VDX, proprietární formát založený na XML používaný v aplikaci Microsoft Visio, často vyžaduje převod do univerzálněji kompatibilních formátů, jako je PDF pro snadnější sdílení a prohlížení.
 tomto tutoriálu se ponoříme do procesu převodu souborů VDX do PDF pomocí GroupDocs.Conversion for .NET. GroupDocs.Conversion je výkonné API pro převod dokumentů, které umožňuje vývojářům bez námahy integrovat funkci převodu dokumentů do jejich aplikací .NET.

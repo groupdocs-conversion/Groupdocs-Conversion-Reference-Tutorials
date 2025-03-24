@@ -6,6 +6,9 @@ description: Découvrez comment convertir facilement des graphiques vectoriels C
 weight: 14
 url: /fr/net/file-conversion-to-pdf/convert-cgm-to-pdf/
 ---
+
+# Convertir les graphiques vectoriels CGM en PDF
+
 ## Introduction
 Dans ce didacticiel, nous vous guiderons tout au long du processus de conversion de graphiques vectoriels CGM (Computer Graphics Metafile) au format PDF à l'aide de GroupDocs.Conversion pour .NET. CGM est un format de fichier utilisé pour les graphiques vectoriels, couramment utilisé dans les dessins techniques, les illustrations et autres applications graphiques.
 ## Conditions préalables

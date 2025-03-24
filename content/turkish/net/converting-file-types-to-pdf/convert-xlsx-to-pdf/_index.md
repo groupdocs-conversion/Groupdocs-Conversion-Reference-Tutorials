@@ -6,6 +6,9 @@ description: .NET için GroupDocs.Conversion kitaplığını kullanarak XLSX dos
 weight: 25
 url: /tr/net/converting-file-types-to-pdf/convert-xlsx-to-pdf/
 ---
+
+# XLSX'yi PDF'ye dönüştür
+
 ## giriiş
 Günümüzün dijital dünyasında, dosyaları bir formattan diğerine sorunsuz bir şekilde dönüştürme yeteneği vazgeçilmezdir. İster bir proje üzerinde çalışan bir geliştirici olun, ister çeşitli belgelerle ilgilenen bir kişi olun, dosya dönüştürme için güvenilir bir araca sahip olmak çok önemlidir. Bu öğreticide, .NET için güçlü GroupDocs.Conversion kitaplığını kullanarak XLSX dosyalarını PDF'ye dönüştürme sürecini ayrıntılı olarak ele alacağız. Bu kitaplık, içeriğin bütünlüğünü korurken dosyaları dönüştürmek için etkili ve basit yöntemler sunar.
 ## Önkoşullar

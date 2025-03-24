@@ -6,6 +6,9 @@ description: Scopri come convertire file AI in PDF senza sforzo utilizzando Grou
 weight: 10
 url: /it/net/file-conversion-to-pdf/convert-ai-to-pdf/
 ---
+
+# Converti file AI in PDF
+
 ## introduzione
 In questo tutorial, approfondiremo come sfruttare la potenza di GroupDocs.Conversion per .NET per convertire i file AI in formato PDF. Suddivideremo il processo in passaggi semplici e attuabili, assicurandoci che anche i principianti possano seguirlo con facilità.
 ## Prerequisiti

@@ -6,6 +6,9 @@ description: Convertissez sans effort des pages Web HTML au format PDF à l'aide
 weight: 22
 url: /fr/net/convert-files-to-pdf/convert-html-to-pdf/
 ---
+
+# Convertir des pages Web HTML en PDF
+
 ## Introduction
 À l’ère numérique d’aujourd’hui, la capacité de convertir de manière transparente différents formats de documents est cruciale pour les entreprises comme pour les particuliers. Qu'il s'agisse de convertir des pages Web HTML en PDF pour faciliter le partage ou l'archivage, disposer des bons outils peut faire toute la différence. Dans ce didacticiel, nous verrons comment utiliser GroupDocs.Conversion pour .NET pour convertir efficacement des pages Web HTML au format PDF.
 ## Conditions préalables

@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET を使用して、XLS ファイルを
 weight: 24
 url: /ja/net/converting-file-types-to-pdf/convert-xls-to-pdf/
 ---
+
+# XLSをPDFに変換
+
 ## 導入
 GroupDocs.Conversion for .NET は、開発者が .NET アプリケーション内でドキュメントをさまざまな形式間で簡単に変換できるようにする強力な API です。このチュートリアルでは、多くのビジネス アプリケーションで一般的な要件である、XLS (Microsoft Excel スプレッドシート) ファイルを PDF (Portable Document Format) に変換することに焦点を当てます。
 ## 前提条件

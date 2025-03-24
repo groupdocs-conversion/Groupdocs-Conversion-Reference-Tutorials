@@ -6,6 +6,9 @@ description: Könnyedén konvertálhat HTM weboldalakat PDF formátumba a GroupD
 weight: 23
 url: /hu/net/convert-files-to-pdf/convert-htm-to-pdf/
 ---
+
+# Konvertálja a HTM weboldalakat PDF formátumba
+
 ## Bevezetés
 .NET-fejlesztés világában gyakran szükséges a fájlok zökkenőmentes konvertálása egyik formátumból a másikba. Legyen szó HTML-weboldalak PDF-dokumentummá alakításáról, vagy fordítva, egy megbízható eszközzel mindent megváltoztathat. Az egyik ilyen eszköz a GroupDocs.Conversion for .NET, egy hatékony könyvtár, amely leegyszerűsíti az átalakítási folyamatot, miközben megőrzi a dokumentumok integritását és minőségét.
 ## Előfeltételek

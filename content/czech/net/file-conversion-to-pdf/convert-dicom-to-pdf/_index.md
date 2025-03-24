@@ -6,6 +6,9 @@ description: Bez námahy převádějte lékařské snímky DICOM do formátu PDF
 weight: 19
 url: /cs/net/file-conversion-to-pdf/convert-dicom-to-pdf/
 ---
+
+# Převeďte lékařské obrázky DICOM do formátu PDF
+
 ## Úvod
 V dnešní digitální době je schopnost bezproblémově převádět formáty souborů prvořadá. Ať už se jedná o archivaci, sdílení nebo pouhé prohlížení, nutnost převodu souborů z jednoho formátu do druhého je běžným úkolem. Jednou z takových konverzí, která se často objevuje v lékařské oblasti, je převod obrázků DICOM (Digital Imaging and Communications in Medicine) do formátu PDF. Soubory DICOM jsou standardním formátem používaným pro lékařské zobrazování, ukládající informace, jako jsou MRI skeny, rentgenové paprsky a CT skeny.
 ## Předpoklady

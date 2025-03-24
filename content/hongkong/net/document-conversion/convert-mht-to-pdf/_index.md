@@ -6,6 +6,9 @@ description: 使用 GroupDocs.Conversion for .NET 輕鬆將 MHT 檔案轉換為 
 weight: 21
 url: /zh-hant/net/document-conversion/convert-mht-to-pdf/
 ---
+
+# 將 MHT 轉換為PDF
+
 ## 介紹
 在 .NET 開發領域，將檔案從一種格式轉換為另一種格式是一項常見任務。無論您處理的是文件、圖像還是其他類型的文件，能夠在格式之間無縫轉換都非常有價值。實現此功能的一個強大工具是 GroupDocs.Conversion for .NET。
 在本教學中，我們將重點放在一項特定的轉換任務：使用 GroupDocs.Conversion for .NET 將 MHT (MIME HTML) 檔案轉換為 PDF（可移植文件格式）。我們將逐步完成該過程，將每個範例分解為可管理的區塊，以確保清晰的理解。

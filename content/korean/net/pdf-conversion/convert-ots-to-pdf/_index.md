@@ -6,6 +6,9 @@ description: .NET용 GroupDocs.Conversion을 사용하여 OTS 파일을 PDF 형�
 weight: 15
 url: /ko/net/pdf-conversion/convert-ots-to-pdf/
 ---
+
+# OTS를 PDF로 변환
+
 ## 소개
 .NET 응용 프로그램 내의 문서 변환 영역에서 .NET용 GroupDocs.Conversion은 다양하고 강력한 도구로 돋보입니다. 문서를 한 형식에서 다른 형식으로 변환하거나 다양한 방법으로 조작하려는 경우 GroupDocs.Conversion은 포괄적인 솔루션을 제공합니다. 이 자습서에서는 GroupDocs.Conversion for .NET을 사용하여 OTS(OpenDocument 스프레드시트 템플릿) 파일을 PDF 형식으로 변환하는 과정을 자세히 살펴보겠습니다. 이러한 단계별 지침을 따르면 문서 변환 기능을 .NET 애플리케이션에 원활하게 통합할 수 있습니다.
 ## 전제 조건

@@ -6,6 +6,9 @@ description: Tanulja meg, hogyan konvertálhat könnyedén WMF fájlokat PDF for
 weight: 19
 url: /hu/net/converting-file-types-to-pdf/convert-wmf-to-pdf/
 ---
+
+# A WMF konvertálása PDF-be
+
 ## Bevezetés
 dokumentumok manipulálása és konvertálása terén a GroupDocs.Conversion for .NET hatékony eszközkészletként tűnik ki a fejlesztők számára. Sokoldalú szolgáltatásai közé tartozik a WMF (Windows Metafile) fájlok mindenütt jelenlévő PDF-formátumba (Portable Document Format) való konvertálása. Ez az oktatóanyag lépésről lépésre végigvezeti a folyamaton, biztosítva, hogy ezt a funkciót zökkenőmentesen integrálhassa .NET-alkalmazásaiba.
 ## Előfeltételek

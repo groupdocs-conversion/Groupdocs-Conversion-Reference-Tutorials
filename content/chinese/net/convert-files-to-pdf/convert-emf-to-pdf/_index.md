@@ -6,6 +6,9 @@ description: 使用 GroupDocs.Conversion for .NET 轻松将 EMF Windows 图元�
 weight: 13
 url: /zh/net/convert-files-to-pdf/convert-emf-to-pdf/
 ---
+
+# 将 EMF Windows 图元文件转换为 PDF
+
 ## 介绍
 在本教程中，我们将逐步介绍使用 GroupDocs.Conversion for .NET 将 EMF（增强型图元文件）Windows 图元文件转换为 PDF 格式的过程。
 ## 先决条件

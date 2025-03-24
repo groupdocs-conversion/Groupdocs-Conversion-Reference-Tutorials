@@ -6,6 +6,9 @@ description: Convierta archivos POTM a formato PDF sin esfuerzo utilizando Group
 weight: 21
 url: /es/net/pdf-conversion/convert-potm-to-pdf/
 ---
+
+# Convertir POTM a PDF
+
 ## Introducción
 
 En la era digital actual, la capacidad de convertir archivos de un formato a otro es un aspecto crucial de la gestión de documentos. Ya sea que trabaje con hojas de cálculo, presentaciones o documentos de texto, tener la flexibilidad de cambiar entre formatos es invaluable. En este tutorial, profundizaremos en el proceso de conversión de archivos POTM a PDF usando GroupDocs.Conversion para .NET.

@@ -6,6 +6,9 @@ description: Convierta archivos PLT a PDF sin problemas utilizando GroupDocs.Con
 weight: 19
 url: /es/net/pdf-conversion/convert-plt-to-pdf/
 ---
+
+# Convertir PLT a PDF
+
 ## Introducción
 En este tutorial, exploraremos cómo convertir archivos PLT (archivo de trazador de lenguaje de gráficos de Hewlett-Packard) a formato PDF usando GroupDocs.Conversion para .NET. GroupDocs.Conversion para .NET es una potente API que permite a los desarrolladores integrar perfectamente la funcionalidad de conversión de documentos en sus aplicaciones .NET.
 ## Requisitos previos

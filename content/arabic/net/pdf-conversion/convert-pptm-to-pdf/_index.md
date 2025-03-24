@@ -6,6 +6,9 @@ description: قم بتحويل ملفات PPTM بسهولة إلى تنسيق PD
 weight: 27
 url: /ar/net/pdf-conversion/convert-pptm-to-pdf/
 ---
+
+# تحويل PPTM إلى PDF
+
 ## مقدمة
 في مجال إدارة المستندات وتحويلها، تعد الكفاءة أمرًا بالغ الأهمية. سواء كنت تتعامل مع ملفات PowerPoint أو ملفات PDF، فإن القدرة على التحويل بسلاسة بين التنسيقات يمكن أن تسهل سير العمل وتعزز الإنتاجية. تبرز GroupDocs.Conversion for .NET كأداة قوية في هذا المجال، حيث تقدم للمطورين حلاً شاملاً لتحويل ملفات PPTM (PowerPoint Macro-Enabled Presentation) إلى تنسيق PDF دون عناء.
 ## المتطلبات الأساسية

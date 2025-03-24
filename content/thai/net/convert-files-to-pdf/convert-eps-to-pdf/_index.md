@@ -6,6 +6,9 @@ description: แปลงไฟล์ EPS เป็น PDF ได้อย่า
 weight: 17
 url: /th/net/convert-files-to-pdf/convert-eps-to-pdf/
 ---
+
+# แปลงไฟล์ PostScript แบบห่อหุ้ม EPS เป็น PDF
+
 ## การแนะนำ
 ในบทช่วยสอนนี้ เราจะสาธิตวิธีการแปลงไฟล์ EPS (Encapsulated PostScript) เป็น PDF โดยใช้ GroupDocs.Conversion สำหรับ .NET
 ## ข้อกำหนดเบื้องต้น

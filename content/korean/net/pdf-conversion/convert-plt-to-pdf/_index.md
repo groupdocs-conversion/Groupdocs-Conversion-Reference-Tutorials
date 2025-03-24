@@ -6,6 +6,9 @@ description: .NET용 GroupDocs.Conversion을 사용하여 PLT 파일을 PDF로 �
 weight: 19
 url: /ko/net/pdf-conversion/convert-plt-to-pdf/
 ---
+
+# PLT를 PDF로 변환
+
 ## 소개
 이 자습서에서는 GroupDocs.Conversion for .NET을 사용하여 PLT(Hewlett-Packard 그래픽 언어 플로터 파일) 파일을 PDF 형식으로 변환하는 방법을 살펴보겠습니다. .NET용 GroupDocs.Conversion은 개발자가 문서 변환 기능을 .NET 응용 프로그램에 원활하게 통합할 수 있게 해주는 강력한 API입니다.
 ## 전제 조건

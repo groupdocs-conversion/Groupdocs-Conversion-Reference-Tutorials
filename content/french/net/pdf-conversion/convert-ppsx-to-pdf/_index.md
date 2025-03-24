@@ -6,6 +6,9 @@ description: Convertissez sans effort les fichiers PPSX au format PDF à l'aide 
 weight: 26
 url: /fr/net/pdf-conversion/convert-ppsx-to-pdf/
 ---
+
+# Convertir PPSX en PDF
+
 ## Introduction
 À l’ère numérique d’aujourd’hui, la possibilité de convertir des fichiers d’un format à un autre est inestimable. Que vous soyez un développeur, un professionnel ou simplement un particulier cherchant à rationaliser votre flux de travail, disposer des bons outils peut faire toute la différence. GroupDocs.Conversion for .NET est une bibliothèque puissante qui offre des capacités de conversion transparentes pour un large éventail de types de fichiers, notamment PPSX en PDF. Dans ce didacticiel, nous allons parcourir le processus de conversion de fichiers PPSX en PDF à l'aide de GroupDocs.Conversion pour .NET.
 ## Conditions préalables

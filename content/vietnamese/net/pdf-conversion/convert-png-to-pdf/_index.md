@@ -6,6 +6,9 @@ description: Dễ dàng chuyển đổi hình ảnh PNG sang tài liệu PDF b�
 weight: 20
 url: /vi/net/pdf-conversion/convert-png-to-pdf/
 ---
+
+# Chuyển đổi PNG sang PDF
+
 ## Giới thiệu
 Trong thời đại kỹ thuật số ngày nay, việc chuyển đổi hiệu quả các định dạng tệp là rất quan trọng đối với nhiều ứng dụng khác nhau. Cho dù đó là để quản lý, lưu trữ hay chia sẻ tài liệu, khả năng chuyển đổi liền mạch các tệp từ định dạng này sang định dạng khác là vô giá. Trong hướng dẫn này, chúng ta sẽ khám phá cách chuyển đổi hình ảnh PNG sang tài liệu PDF bằng GroupDocs.Conversion cho .NET. GroupDocs.Conversion là API chuyển đổi tài liệu mạnh mẽ cung cấp cho nhà phát triển những công cụ họ cần để chuyển đổi tệp giữa các định dạng khác nhau một cách dễ dàng.
 ## Điều kiện tiên quyết

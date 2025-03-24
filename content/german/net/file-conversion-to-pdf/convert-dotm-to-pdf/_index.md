@@ -6,6 +6,9 @@ description: Konvertieren Sie DOTM-Word-Vorlagen mit Makros mühelos in PDF mit 
 weight: 25
 url: /de/net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---
+
+# Konvertieren Sie DOTM-Word-Vorlagen (Makros) in PDF
+
 ## Einführung
 Microsoft Word DOTM-Vorlagen, die häufig Makros enthalten, können Kompatibilitätsprobleme zwischen verschiedenen Plattformen oder Anwendungen verursachen. Durch die Konvertierung in das PDF-Format wird nicht nur die universelle Zugänglichkeit gewährleistet, sondern auch potenzielle Sicherheitsrisiken im Zusammenhang mit Makros eliminiert. In diesem Tutorial gehen wir die Schritte zum Konvertieren von DOTM-Dateien in PDF mit GroupDocs.Conversion für .NET durch.
 ## Voraussetzungen

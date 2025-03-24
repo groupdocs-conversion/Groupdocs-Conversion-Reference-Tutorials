@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET'i kullanarak XLSB dosyalarını zahme
 weight: 22
 url: /tr/net/converting-file-types-to-pdf/convert-xlsb-to-pdf/
 ---
+
+# XLSB'yi PDF'ye dönüştür
+
 ## giriiş
 Yazılım geliştirme alanında, dosyaları bir formattan diğerine dönüştürme ihtiyacı yaygın bir görevdir. Veri işleme, belge yönetimi veya uyumluluk nedenleriyle olsun, dosya dönüştürme için güvenilir bir araca sahip olmak vazgeçilmezdir. GroupDocs.Conversion for .NET, çeşitli dosya formatları arasında kesintisiz dönüşümü kolaylaştıran güçlü bir kitaplıktır. Bu eğitimde, XLSB dosyalarını PDF formatına dönüştürmek için GroupDocs.Conversion for .NET'in nasıl kullanılacağını inceleyeceğiz.
 ## Önkoşullar

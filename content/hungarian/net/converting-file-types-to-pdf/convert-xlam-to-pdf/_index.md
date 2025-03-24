@@ -6,6 +6,9 @@ description: Tanulja meg, hogyan konvertálhat XLAM fájlokat könnyedén PDF fo
 weight: 21
 url: /hu/net/converting-file-types-to-pdf/convert-xlam-to-pdf/
 ---
+
+# Az XLAM konvertálása PDF-be
+
 ## Bevezetés
 digitális korszakban egyre inkább elterjedt a dokumentumok egyik formátumból a másikba konvertálásának igénye. Legyen szó kompatibilitási, archiválási vagy megosztási okokból, elengedhetetlen egy megbízható eszköz a fájlkonverzióhoz. Ebben az oktatóanyagban a GroupDocs.Conversion for .NET használatával foglalkozunk az XLAM-fájlok egyszerű PDF-formátumba konvertálásával.
 ## Előfeltételek
