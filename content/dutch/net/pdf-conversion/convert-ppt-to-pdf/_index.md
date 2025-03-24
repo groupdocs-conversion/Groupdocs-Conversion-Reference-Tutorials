@@ -3,7 +3,6 @@ title: Converteer PPT naar PDF
 linktitle: Converteer PPT naar PDF
 second_title: GroupDocs.Conversion .NET API
 description: Converteer PPT moeiteloos naar PDF met GroupDocs.Conversion voor .NET. Geniet van naadloze documentconversie met aanpasbare opties.
-type: docs
 weight: 28
 url: /nl/net/pdf-conversion/convert-ppt-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: CMX를 PDF로 변환
 linktitle: CMX를 PDF로 변환
 second_title: GroupDocs.Conversion .NET API
 description: .NET용 GroupDocs.Conversion을 사용하여 CMX 파일을 PDF 형식으로 손쉽게 변환하세요. 파일 변환 기능을 .NET 애플리케이션에 원활하게 통합합니다.
-type: docs
 weight: 15
 url: /ko/net/file-conversion-to-pdf/convert-cmx-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: Konwertuj arkusze kalkulacyjne FODS OpenDocument do formatu PDF
 linktitle: Konwertuj arkusze kalkulacyjne FODS OpenDocument do formatu PDF
 second_title: GroupDocs.Conversion API .NET
 description: Bez wysiłku konwertuj arkusze kalkulacyjne FODS OpenDocument na pliki PDF za pomocą GroupDocs.Conversion dla .NET. Ulepsz swoje aplikacje .NET dzięki płynnej konwersji dokumentów.
-type: docs
 weight: 20
 url: /pl/net/convert-files-to-pdf/convert-fods-to-pdf/
 ---

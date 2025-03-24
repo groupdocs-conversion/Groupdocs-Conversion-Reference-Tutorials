@@ -3,7 +3,6 @@ title: Konvertálja az IFC épületinformációs modellezési fájlokat PDF form
 linktitle: Konvertálja az IFC épületinformációs modellezési fájlokat PDF formátumba
 second_title: GroupDocs.Conversion .NET API
 description: Tanulja meg, hogyan lehet könnyedén konvertálni az IFC épületinformációs modellezési fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével.
-type: docs
 weight: 25
 url: /hu/net/convert-files-to-pdf/convert-ifc-to-pdf/
 ---

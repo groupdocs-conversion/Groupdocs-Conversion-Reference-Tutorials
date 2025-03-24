@@ -3,7 +3,6 @@ title: Konvertieren Sie DOT-Word-Vorlagen in PDF
 linktitle: Konvertieren Sie DOT-Word-Vorlagen in PDF
 second_title: GroupDocs.Conversion .NET-API
 description: Erfahren Sie, wie Sie mit GroupDocs.Conversion mühelos DOT-Dateien (Word-Vorlagen) in PDF in .NET konvertieren und so eine nahtlose Integration in Ihre Anwendungen ermöglichen.
-type: docs
 weight: 26
 url: /de/net/file-conversion-to-pdf/convert-dot-to-pdf/
 ---

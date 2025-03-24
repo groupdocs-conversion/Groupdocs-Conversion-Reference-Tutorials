@@ -3,7 +3,6 @@ title: Fájlok konvertálása PDF-be
 linktitle: Fájlok konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion for .NET segítségével könnyedén konvertálhat különféle fájlformátumokat PDF-be. Zökkenőmentesen integrálja az átalakítási lehetőségeket a hatékony dokumentumkezelés érdekében.
-type: docs
 weight: 22
 url: /hu/net/convert-files-to-pdf/
 ---

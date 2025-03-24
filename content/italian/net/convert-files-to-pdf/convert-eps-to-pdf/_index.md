@@ -3,7 +3,6 @@ title: Converti file PostScript incapsulati EPS in PDF
 linktitle: Converti file PostScript incapsulati EPS in PDF
 second_title: API GroupDocs.Conversion .NET
 description: Converti file EPS in PDF senza sforzo utilizzando GroupDocs.Conversion per .NET. Questo tutorial fornisce una guida passo passo per una conversione senza interruzioni.
-type: docs
 weight: 17
 url: /it/net/convert-files-to-pdf/convert-eps-to-pdf/
 ---

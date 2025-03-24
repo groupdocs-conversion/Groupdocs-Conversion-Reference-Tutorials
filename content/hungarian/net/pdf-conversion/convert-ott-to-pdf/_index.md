@@ -3,7 +3,6 @@ title: Az OTT konvertálása PDF-be
 linktitle: Az OTT konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Tanulja meg, hogyan konvertálhat OTT fájlokat könnyedén PDF formátumba a GroupDocs.Conversion for .NET segítségével. Zökkenőmentesen integrálja a fájlkonverziót .NET-alkalmazásaiba.
-type: docs
 weight: 16
 url: /hu/net/pdf-conversion/convert-ott-to-pdf/
 ---

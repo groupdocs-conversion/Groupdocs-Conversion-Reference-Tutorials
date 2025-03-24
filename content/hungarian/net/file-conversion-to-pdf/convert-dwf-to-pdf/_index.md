@@ -3,7 +3,6 @@ title: A DWF CAD-fájlok konvertálása PDF-be
 linktitle: A DWF CAD-fájlok konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Tanulja meg, hogyan konvertálhat könnyedén DWF CAD fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Kövesse lépésről lépésre a .NET-alkalmazásaiba való integráláshoz.
-type: docs
 weight: 28
 url: /hu/net/file-conversion-to-pdf/convert-dwf-to-pdf/
 ---
@@ -16,7 +15,7 @@ Győződjön meg arról, hogy a Visual Studio telepítve van a rendszeren. Letö
 ### GroupDocs.Conversion for .NET Library
  Töltse le és telepítse a GroupDocs.Conversion for .NET könyvtárat a[weboldal](https://releases.groupdocs.com/conversion/net/). Kövesse a dokumentációban található telepítési utasításokat.
 ### Hozzáférés a GroupDocs.Conversion dokumentációhoz
- A GroupDocs.Conversion for .NET-re vonatkozó hivatkozási és részletes információkért tekintse meg a[dokumentáció](https://reference.groupdocs.com/conversion/net/).
+ A GroupDocs.Conversion for .NET-re vonatkozó hivatkozási és részletes információkért tekintse meg a[dokumentáció](https://tutorials.groupdocs.com/conversion/net/).
 ### Ideiglenes engedély (opcionális)
  Ha nincs állandó jogosítványa, ideiglenes engedélyt szerezhet a következőtől[itt](https://purchase.groupdocs.com/temporary-license/).
 

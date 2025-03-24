@@ -3,7 +3,6 @@ title: Převeďte šablony DOT Word do PDF
 linktitle: Převeďte šablony DOT Word do PDF
 second_title: GroupDocs.Conversion .NET API
 description: Naučte se, jak bez námahy převádět soubory DOT (Word Template) do PDF v .NET pomocí GroupDocs.Conversion pro bezproblémovou integraci do vašich aplikací.
-type: docs
 weight: 26
 url: /cs/net/file-conversion-to-pdf/convert-dot-to-pdf/
 ---

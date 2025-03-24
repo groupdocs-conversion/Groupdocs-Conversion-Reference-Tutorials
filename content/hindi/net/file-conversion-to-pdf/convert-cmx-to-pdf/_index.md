@@ -3,7 +3,6 @@ title: सीएमएक्स को पीडीएफ में बदले
 linktitle: सीएमएक्स को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से CMX फ़ाइलों को PDF प्रारूप में परिवर्तित करें। फ़ाइल रूपांतरण क्षमताओं को अपने .NET अनुप्रयोगों में निर्बाध रूप से एकीकृत करें।
-type: docs
 weight: 15
 url: /hi/net/file-conversion-to-pdf/convert-cmx-to-pdf/
 ---

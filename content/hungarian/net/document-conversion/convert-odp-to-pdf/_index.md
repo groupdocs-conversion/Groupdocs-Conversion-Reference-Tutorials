@@ -3,7 +3,6 @@ title: ODP konvertálása PDF-be
 linktitle: ODP konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Ismerje meg, hogyan konvertálhat ODP-t PDF-be a GroupDocs.Conversion for .NET segítségével. Kövesse lépésenkénti útmutatónkat a zökkenőmentes dokumentumátalakításhoz.
-type: docs
 weight: 28
 url: /hu/net/document-conversion/convert-odp-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: XLTM को पीडीएफ में बदलें
 linktitle: XLTM को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से XLTM फ़ाइलों को PDF में बदलें। अपनी दस्तावेज़ रूपांतरण प्रक्रिया को सुव्यवस्थित करें।
-type: docs
 weight: 26
 url: /hi/net/converting-file-types-to-pdf/convert-xltm-to-pdf/
 ---

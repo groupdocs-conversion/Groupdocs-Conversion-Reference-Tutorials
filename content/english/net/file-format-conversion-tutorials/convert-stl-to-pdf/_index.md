@@ -3,9 +3,8 @@ title: Convert STL to PDF
 linktitle: Convert STL to PDF
 second_title: GroupDocs.Conversion .NET API
 description: Effortlessly convert STL files to PDF format using GroupDocs.Conversion for .NET. Streamline your document management process.
-type: docs
 weight: 14
-url: /net/file-format-conversion-tutorials/convert-stl-to-pdf/
+url: /net/file-format-conversion-convert-stl-to-pdf/
 ---
 ## Introduction
 In today's digital age, the ability to seamlessly convert files from one format to another is a crucial aspect of document management. Whether you're dealing with CAD files, images, or documents, the need to convert them into different formats often arises. In this tutorial, we'll delve into the process of converting STL files to PDF format using GroupDocs.Conversion for .NET. GroupDocs.Conversion offers a powerful set of tools that streamline the conversion process, making it efficient and hassle-free.

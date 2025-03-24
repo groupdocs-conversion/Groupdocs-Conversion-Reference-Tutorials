@@ -3,7 +3,6 @@ title: Konversi VSSX ke PDF
 linktitle: Konversi VSSX ke PDF
 second_title: GroupDocs.Konversi .NET API
 description: Pelajari cara mengonversi file VSSX ke format PDF dengan mudah menggunakan GroupDocs.Conversion untuk .NET. Sederhanakan alur kerja manajemen dokumen Anda.
-type: docs
 weight: 12
 url: /id/net/converting-file-types-to-pdf/convert-vssx-to-pdf/
 ---

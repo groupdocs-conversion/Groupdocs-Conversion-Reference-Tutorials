@@ -3,7 +3,6 @@ title: Převeďte soubory DWF CAD do PDF
 linktitle: Převeďte soubory DWF CAD do PDF
 second_title: GroupDocs.Conversion .NET API
 description: Naučte se, jak bez námahy převádět soubory DWF CAD do PDF pomocí GroupDocs.Conversion for .NET. Následujte náš krok za krokem pro integraci do vašich aplikací .NET.
-type: docs
 weight: 28
 url: /cs/net/file-conversion-to-pdf/convert-dwf-to-pdf/
 ---
@@ -16,7 +15,7 @@ Ujistěte se, že máte v systému nainstalované Visual Studio. Můžete si jej
 ### GroupDocs.Conversion pro knihovnu .NET
  Stáhněte a nainstalujte knihovnu GroupDocs.Conversion for .NET z[webová stránka](https://releases.groupdocs.com/conversion/net/). Postupujte podle pokynů k instalaci uvedených v dokumentaci.
 ### Přístup k dokumentaci GroupDocs.Conversion
- Referenční a podrobné informace o GroupDocs.Conversion for .NET naleznete v[dokumentace](https://reference.groupdocs.com/conversion/net/).
+ Referenční a podrobné informace o GroupDocs.Conversion for .NET naleznete v[dokumentace](https://tutorials.groupdocs.com/conversion/net/).
 ### Dočasná licence (volitelné)
  Pokud nemáte trvalou licenci, můžete získat dočasnou licenci od[tady](https://purchase.groupdocs.com/temporary-license/).
 

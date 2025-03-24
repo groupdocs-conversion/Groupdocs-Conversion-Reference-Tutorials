@@ -3,7 +3,6 @@ title: Konvertera filtyper till PDF
 linktitle: Konvertera filtyper till PDF
 second_title: GroupDocs.Conversion .NET API
 description: Konvertera enkelt olika filtyper till PDF med GroupDocs.Conversion for .NET. Effektivisera din dokumenthanteringsprocess. Läs mer!
-type: docs
 weight: 24
 url: /sv/net/converting-file-types-to-pdf/
 ---

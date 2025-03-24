@@ -3,7 +3,6 @@ title: Konvertálja a DOCX Word dokumentumokat PDF-be
 linktitle: Konvertálja a DOCX Word dokumentumokat PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Tanulja meg, hogyan konvertálhat könnyedén DOCX Word dokumentumokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Növelje dokumentumkezelési képességeit.
-type: docs
 weight: 24
 url: /hu/net/file-conversion-to-pdf/convert-docx-to-pdf/
 ---

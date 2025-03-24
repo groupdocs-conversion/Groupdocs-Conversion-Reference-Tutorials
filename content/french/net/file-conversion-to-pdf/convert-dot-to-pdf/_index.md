@@ -3,7 +3,6 @@ title: Convertir les modèles Word DOT en PDF
 linktitle: Convertir les modèles Word DOT en PDF
 second_title: API GroupDocs.Conversion .NET
 description: Apprenez à convertir sans effort des fichiers DOT (Word Template) en PDF dans .NET à l'aide de GroupDocs.Conversion pour une intégration transparente dans vos applications.
-type: docs
 weight: 26
 url: /fr/net/file-conversion-to-pdf/convert-dot-to-pdf/
 ---

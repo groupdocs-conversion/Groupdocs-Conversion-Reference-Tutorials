@@ -3,7 +3,6 @@ title: Konversi Gambar Terkompresi J2C JPEG-LS ke PDF
 linktitle: Konversi Gambar Terkompresi J2C JPEG-LS ke PDF
 second_title: GroupDocs.Konversi .NET API
 description: Pelajari cara mengonversi gambar J2C ke PDF dengan mudah menggunakan GroupDocs.Conversion untuk .NET, sehingga menyederhanakan proses penanganan dokumen Anda.
-type: docs
 weight: 27
 url: /id/net/convert-files-to-pdf/convert-j2c-to-pdf/
 ---

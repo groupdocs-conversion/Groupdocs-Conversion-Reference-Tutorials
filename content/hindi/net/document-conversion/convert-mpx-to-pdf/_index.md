@@ -3,7 +3,6 @@ title: एमपीएक्स को पीडीएफ में बदले
 linktitle: एमपीएक्स को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके MPX फ़ाइलों को आसानी से PDF प्रारूप में परिवर्तित करना सीखें। हमारे चरण-दर-चरण मार्गदर्शिका का पालन करें.
-type: docs
 weight: 25
 url: /hi/net/document-conversion/convert-mpx-to-pdf/
 ---

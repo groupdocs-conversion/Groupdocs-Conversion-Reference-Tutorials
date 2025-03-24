@@ -3,7 +3,6 @@ title: Konvertálja az IGS 3D-modell fájljait PDF-be
 linktitle: Konvertálja az IGS 3D-modell fájljait PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: A GroupDocs.Conversion for .NET segítségével könnyedén konvertálhat IGS 3D modelleket PDF formátumba. Töltse le most a zökkenőmentes fájlformátum konvertáláshoz.
-type: docs
 weight: 26
 url: /hu/net/convert-files-to-pdf/convert-igs-to-pdf/
 ---

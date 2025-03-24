@@ -3,7 +3,6 @@ title: Konvertálja az EPS tokozott PostScript fájlokat PDF formátumba
 linktitle: Konvertálja az EPS tokozott PostScript fájlokat PDF formátumba
 second_title: GroupDocs.Conversion .NET API
 description: A GroupDocs.Conversion for .NET segítségével könnyedén konvertálhat EPS-fájlokat PDF-be. Ez az oktatóanyag lépésről lépésre nyújt útmutatót a zökkenőmentes átalakításhoz.
-type: docs
 weight: 17
 url: /hu/net/convert-files-to-pdf/convert-eps-to-pdf/
 ---

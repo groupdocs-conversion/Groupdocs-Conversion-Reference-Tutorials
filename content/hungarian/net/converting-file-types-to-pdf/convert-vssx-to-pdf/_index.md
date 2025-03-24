@@ -3,7 +3,6 @@ title: VSSX konvertálása PDF-be
 linktitle: VSSX konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Tanulja meg, hogyan konvertálhat VSSX fájlokat könnyedén PDF formátumba a GroupDocs.Conversion for .NET segítségével. Egyszerűsítse dokumentumkezelési munkafolyamatait.
-type: docs
 weight: 12
 url: /hu/net/converting-file-types-to-pdf/convert-vssx-to-pdf/
 ---

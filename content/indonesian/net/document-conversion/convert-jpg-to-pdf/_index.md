@@ -3,7 +3,6 @@ title: Konversi JPG ke PDF
 linktitle: Konversi JPG ke PDF
 second_title: GroupDocs.Konversi .NET API
 description: Konversi JPG ke PDF dengan mudah menggunakan GroupDocs.Conversion untuk .NET. Ikuti tutorial langkah demi langkah ini untuk konversi dokumen yang lancar.
-type: docs
 weight: 14
 url: /id/net/document-conversion/convert-jpg-to-pdf/
 ---

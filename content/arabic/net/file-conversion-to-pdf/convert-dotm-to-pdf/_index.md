@@ -3,7 +3,6 @@ title: تحويل قوالب Word DOTM (وحدات الماكرو) إلى PDF
 linktitle: تحويل قوالب Word DOTM (وحدات الماكرو) إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: قم بتحويل قوالب DOTM Word التي تحتوي على وحدات ماكرو إلى PDF بسهولة باستخدام GroupDocs.Conversion for .NET. ضمان التوافق والأمان بخطوات بسيطة.
-type: docs
 weight: 25
 url: /ar/net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: Konwertuj szablony Word DOTM (makra) do formatu PDF
 linktitle: Konwertuj szablony Word DOTM (makra) do formatu PDF
 second_title: GroupDocs.Conversion API .NET
 description: Konwertuj szablony DOTM Word zawierające makra do formatu PDF bez wysiłku za pomocą GroupDocs.Conversion dla .NET. Zapewnij kompatybilność i bezpieczeństwo, wykonując proste kroki.
-type: docs
 weight: 25
 url: /pl/net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: PLTをPDFに変換
 linktitle: PLTをPDFに変換
 second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion for .NET を使用して、PLT ファイルを PDF にシームレスに変換します。ドキュメント変換機能を .NET アプリケーションに簡単に統合します。
-type: docs
 weight: 19
 url: /ja/net/pdf-conversion/convert-plt-to-pdf/
 ---

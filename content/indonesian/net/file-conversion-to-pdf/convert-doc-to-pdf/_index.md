@@ -3,7 +3,6 @@ title: Konversikan Dokumen DOC Word ke PDF
 linktitle: Konversikan Dokumen DOC Word ke PDF
 second_title: GroupDocs.Konversi .NET API
 description: Konversikan dokumen DOC Word ke PDF dengan mudah menggunakan GroupDocs.Conversion untuk .NET. Ikuti panduan langkah demi langkah kami untuk konversi dokumen yang lancar.
-type: docs
 weight: 23
 url: /id/net/file-conversion-to-pdf/convert-doc-to-pdf/
 ---

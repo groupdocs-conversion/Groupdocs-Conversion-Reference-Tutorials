@@ -3,7 +3,6 @@ title: JP2 को पीडीएफ में बदलें
 linktitle: JP2 को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से JP2 फ़ाइलों को PDF में बदलें। निर्बाध एकीकरण के लिए हमारी चरण-दर-चरण मार्गदर्शिका का पालन करें।
-type: docs
 weight: 10
 url: /hi/net/document-conversion/convert-jp2-to-pdf/
 ---

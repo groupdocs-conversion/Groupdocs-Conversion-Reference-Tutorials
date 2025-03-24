@@ -3,7 +3,6 @@ title: Převést JPG do PDF
 linktitle: Převést JPG do PDF
 second_title: GroupDocs.Conversion .NET API
 description: Převeďte JPG do PDF bez námahy pomocí GroupDocs.Conversion for .NET. Postupujte podle tohoto podrobného návodu pro bezproblémový převod dokumentů.
-type: docs
 weight: 14
 url: /cs/net/document-conversion/convert-jpg-to-pdf/
 ---

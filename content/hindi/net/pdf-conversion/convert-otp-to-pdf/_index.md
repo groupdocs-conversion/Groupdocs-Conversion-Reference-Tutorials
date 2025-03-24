@@ -3,7 +3,6 @@ title: ओटीपी को पीडीएफ में बदलें
 linktitle: ओटीपी को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके OTP फ़ाइलों को आसानी से PDF में बदलें। इस सहज फ़ाइल रूपांतरण टूल के साथ अपने वर्कफ़्लो को सुव्यवस्थित करें।
-type: docs
 weight: 14
 url: /hi/net/pdf-conversion/convert-otp-to-pdf/
 ---

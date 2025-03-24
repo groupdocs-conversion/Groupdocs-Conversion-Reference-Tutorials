@@ -3,7 +3,6 @@ title: Převést VSX do PDF
 linktitle: Převést VSX do PDF
 second_title: GroupDocs.Conversion .NET API
 description: Naučte se, jak bez námahy převést soubory VSX do formátu PDF pomocí GroupDocs.Conversion for .NET. Postupujte podle našeho podrobného návodu.
-type: docs
 weight: 16
 url: /cs/net/converting-file-types-to-pdf/convert-vsx-to-pdf/
 ---
@@ -12,7 +11,7 @@ Ve světě vývoje softwaru je potřeba převádět soubory z jednoho formátu d
 ## Předpoklady
 Než se ponoříme do návodu, jak převést VSX do PDF pomocí GroupDocs.Conversion for .NET, existuje několik předpokladů, které musíte zajistit, aby byly splněny:
 ### 1. Nainstalujte GroupDocs.Conversion for .NET
- Nejprve musíte mít ve vývojovém prostředí nainstalovanou GroupDocs.Conversion for .NET. Knihovnu si můžete stáhnout z webu[tady](https://releases.groupdocs.com/conversion/net/) a postupujte podle pokynů k instalaci uvedených v dokumentaci[tady](https://reference.groupdocs.com/conversion/net/).
+ Nejprve musíte mít ve vývojovém prostředí nainstalovanou GroupDocs.Conversion for .NET. Knihovnu si můžete stáhnout z webu[tady](https://releases.groupdocs.com/conversion/net/) a postupujte podle pokynů k instalaci uvedených v dokumentaci[tady](https://tutorials.groupdocs.com/conversion/net/).
 ### 2. Získejte licenci (volitelné)
  Zatímco GroupDocs.Conversion for .NET lze používat bez licence ve zkušebním režimu, získání licence se doporučuje pro produkční použití. Můžete si zakoupit licenci[tady](https://purchase.groupdocs.com/buy) nebo požádat o dočasnou licenci[tady](https://purchase.groupdocs.com/temporary-license/)pro testovací účely.
 ### 3. Znalost programování v C#

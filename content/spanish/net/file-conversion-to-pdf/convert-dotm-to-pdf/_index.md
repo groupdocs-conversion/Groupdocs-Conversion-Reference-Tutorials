@@ -3,7 +3,6 @@ title: Convierta plantillas DOTM de Word (macros) a PDF
 linktitle: Convierta plantillas DOTM de Word (macros) a PDF
 second_title: API GroupDocs.Conversión .NET
 description: Convierta plantillas DOTM de Word que contengan macros a PDF sin esfuerzo utilizando GroupDocs.Conversion para .NET. Garantice la compatibilidad y la seguridad con pasos sencillos.
-type: docs
 weight: 25
 url: /es/net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---

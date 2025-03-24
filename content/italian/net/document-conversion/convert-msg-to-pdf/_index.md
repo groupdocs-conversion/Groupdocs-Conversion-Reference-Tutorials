@@ -3,7 +3,6 @@ title: Converti MSG in PDF
 linktitle: Converti MSG in PDF
 second_title: API GroupDocs.Conversion .NET
 description: Converti file MSG in PDF senza sforzo utilizzando GroupDocs.Conversion per .NET. Segui la nostra guida passo passo per una gestione fluida dei documenti.
-type: docs
 weight: 26
 url: /it/net/document-conversion/convert-msg-to-pdf/
 ---

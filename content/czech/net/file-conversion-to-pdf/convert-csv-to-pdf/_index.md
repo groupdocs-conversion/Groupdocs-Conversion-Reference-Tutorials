@@ -3,7 +3,6 @@ title: Převeďte datové soubory CSV do formátu PDF
 linktitle: Převeďte datové soubory CSV do formátu PDF
 second_title: GroupDocs.Conversion .NET API
 description: Naučte se, jak bez námahy převést datové soubory CSV do PDF pomocí GroupDocs.Conversion for .NET. Postupujte podle našeho podrobného průvodce.
-type: docs
 weight: 16
 url: /cs/net/file-conversion-to-pdf/convert-csv-to-pdf/
 ---

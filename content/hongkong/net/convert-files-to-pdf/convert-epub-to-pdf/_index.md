@@ -3,7 +3,6 @@ title: 將 EPUB 電子書轉換為 PDF
 linktitle: 將 EPUB 電子書轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 輕鬆將 EPUB 電子書轉換為 PDF 格式。確保所有平台的兼容性和可訪問性。
-type: docs
 weight: 18
 url: /zh-hant/net/convert-files-to-pdf/convert-epub-to-pdf/
 ---

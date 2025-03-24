@@ -3,7 +3,6 @@ title: Преобразование сообщений электронной п
 linktitle: Преобразование сообщений электронной почты EML в PDF
 second_title: GroupDocs.Conversion .NET API
 description: Узнайте, как легко конвертировать сообщения электронной почты EML в PDF с помощью GroupDocs.Conversion для .NET.
-type: docs
 weight: 14
 url: /ru/net/convert-files-to-pdf/convert-eml-to-pdf/
 ---

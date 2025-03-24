@@ -3,7 +3,6 @@ title: वीएसएसएक्स को पीडीएफ में बद
 linktitle: वीएसएसएक्स को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से VSSX फ़ाइलों को PDF प्रारूप में परिवर्तित करना सीखें। अपने दस्तावेज़ प्रबंधन वर्कफ़्लो को सुव्यवस्थित करें।
-type: docs
 weight: 12
 url: /hi/net/converting-file-types-to-pdf/convert-vssx-to-pdf/
 ---

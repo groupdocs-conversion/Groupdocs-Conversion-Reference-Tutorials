@@ -3,7 +3,6 @@ title: OST को पीडीएफ में बदलें
 linktitle: OST को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके OST फ़ाइलों को आसानी से PDF में बदलें। फ़ाइल रूपांतरण क्षमताओं को अपने .NET अनुप्रयोगों में निर्बाध रूप से एकीकृत करें।
-type: docs
 weight: 12
 url: /hi/net/pdf-conversion/convert-ost-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: تحويل MHTML إلى PDF
 linktitle: تحويل MHTML إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: يمكنك بسهولة تحويل MHTML إلى PDF باستخدام GroupDocs.Conversion for .NET. قم بتبسيط التعامل مع المستندات باستخدام هذه المكتبة القوية.
-type: docs
 weight: 20
 url: /ar/net/document-conversion/convert-mhtml-to-pdf/
 ---

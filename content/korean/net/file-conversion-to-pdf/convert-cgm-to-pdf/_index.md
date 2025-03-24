@@ -3,7 +3,6 @@ title: CGM 벡터 그래픽을 PDF로 변환
 linktitle: CGM 벡터 그래픽을 PDF로 변환
 second_title: GroupDocs.Conversion .NET API
 description: .NET용 GroupDocs.Conversion을 사용하여 CGM 벡터 그래픽을 PDF로 손쉽게 변환하는 방법을 알아보세요. 단계별 튜토리얼을 따라해보세요.
-type: docs
 weight: 14
 url: /ko/net/file-conversion-to-pdf/convert-cgm-to-pdf/
 ---

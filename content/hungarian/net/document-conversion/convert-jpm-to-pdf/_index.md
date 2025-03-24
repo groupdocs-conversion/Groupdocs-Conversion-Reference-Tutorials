@@ -3,7 +3,6 @@ title: Konvertálja a JPM-et PDF-be
 linktitle: Konvertálja a JPM-et PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálhat JPM fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Egyszerűsítse a fájlkonverziós folyamatokat.
-type: docs
 weight: 15
 url: /hu/net/document-conversion/convert-jpm-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: Converteer VSX naar PDF
 linktitle: Converteer VSX naar PDF
 second_title: GroupDocs.Conversion .NET API
 description: Leer hoe u VSX-bestanden moeiteloos naar PDF-indeling kunt converteren met GroupDocs.Conversion voor .NET. Volg onze stap-voor-stap handleiding.
-type: docs
 weight: 16
 url: /nl/net/converting-file-types-to-pdf/convert-vsx-to-pdf/
 ---
@@ -12,7 +11,7 @@ In de wereld van softwareontwikkeling is de noodzaak om bestanden van het ene fo
 ## Vereisten
 Voordat we ingaan op de tutorial over het converteren van VSX naar PDF met GroupDocs.Conversion voor .NET, zijn er een aantal vereisten waaraan u moet voldoen:
 ### 1. Installeer GroupDocs.Conversion voor .NET
- Ten eerste moet GroupDocs.Conversion voor .NET in uw ontwikkelomgeving zijn geïnstalleerd. U kunt de bibliotheek downloaden van de website[hier](https://releases.groupdocs.com/conversion/net/) en volg de installatie-instructies in de documentatie[hier](https://reference.groupdocs.com/conversion/net/).
+ Ten eerste moet GroupDocs.Conversion voor .NET in uw ontwikkelomgeving zijn geïnstalleerd. U kunt de bibliotheek downloaden van de website[hier](https://releases.groupdocs.com/conversion/net/) en volg de installatie-instructies in de documentatie[hier](https://tutorials.groupdocs.com/conversion/net/).
 ### 2. Verkrijg een licentie (optioneel)
  Hoewel GroupDocs.Conversion voor .NET in de evaluatiemodus zonder licentie kan worden gebruikt, wordt het verkrijgen van een licentie aanbevolen voor productiegebruik. U kunt een licentie kopen[hier](https://purchase.groupdocs.com/buy) of vraag een tijdelijke licentie aan[hier](https://purchase.groupdocs.com/temporary-license/)voor testdoeleinden.
 ### 3. Bekendheid met C#-programmering

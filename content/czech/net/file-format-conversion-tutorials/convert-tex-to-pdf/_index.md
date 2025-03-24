@@ -3,9 +3,8 @@ title: Převést TEX do PDF
 linktitle: Převést TEX do PDF
 second_title: GroupDocs.Conversion .NET API
 description: Naučte se převádět soubory TEX do formátu PDF pomocí GroupDocs.Conversion for .NET. Snadné kroky pro bezproblémový převod formátu dokumentu.
-type: docs
 weight: 18
-url: /cs/net/file-format-conversion-tutorials/convert-tex-to-pdf/
+url: /cs/net/file-format-conversion-convert-tex-to-pdf/
 ---
 ## Úvod
 V oblasti správy a manipulace s dokumenty je převod souborů z jednoho formátu do druhého běžnou nutností. Ať už pracujete s textovými dokumenty, tabulkami nebo prezentacemi, možnost bezproblémového přepínání mezi formáty může výrazně zvýšit produktivitu a zefektivnit pracovní postupy.

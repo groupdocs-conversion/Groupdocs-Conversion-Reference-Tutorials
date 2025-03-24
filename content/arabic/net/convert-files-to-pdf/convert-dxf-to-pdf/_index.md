@@ -3,7 +3,6 @@ title: تحويل ملفات تبادل رسم DXF CAD إلى PDF
 linktitle: تحويل ملفات تبادل رسم DXF CAD إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: يمكنك بسهولة تحويل ملفات تبادل رسم DXF CAD إلى PDF باستخدام GroupDocs.Conversion for .NET.
-type: docs
 weight: 12
 url: /ar/net/convert-files-to-pdf/convert-dxf-to-pdf/
 ---

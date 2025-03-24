@@ -3,7 +3,6 @@ title: Chuyển đổi tệp dữ liệu CSV sang PDF
 linktitle: Chuyển đổi tệp dữ liệu CSV sang PDF
 second_title: API GroupDocs.Conversion .NET
 description: Tìm hiểu cách chuyển đổi tệp dữ liệu CSV sang PDF dễ dàng bằng GroupDocs.Conversion cho .NET. Thực hiện theo hướng dẫn từng bước của chúng tôi.
-type: docs
 weight: 16
 url: /vi/net/file-conversion-to-pdf/convert-csv-to-pdf/
 ---

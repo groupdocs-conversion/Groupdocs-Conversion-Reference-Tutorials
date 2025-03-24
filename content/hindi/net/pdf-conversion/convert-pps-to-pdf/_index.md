@@ -3,7 +3,6 @@ title: पीपीएस को पीडीएफ में बदलें
 linktitle: पीपीएस को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से PPS फ़ाइलों को PDF प्रारूप में परिवर्तित करना सीखें। निर्बाध एकीकरण के लिए हमारी चरण-दर-चरण मार्गदर्शिका का पालन करें।
-type: docs
 weight: 25
 url: /hi/net/pdf-conversion/convert-pps-to-pdf/
 ---

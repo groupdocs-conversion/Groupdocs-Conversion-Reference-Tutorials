@@ -3,7 +3,6 @@ title: Convierta archivos de plantilla CAD DWT a PDF
 linktitle: Convierta archivos de plantilla CAD DWT a PDF
 second_title: API GroupDocs.Conversión .NET
 description: Aprenda a convertir archivos de plantilla CAD DWT a formato PDF sin esfuerzo utilizando GroupDocs.Conversion para .NET.
-type: docs
 weight: 11
 url: /es/net/convert-files-to-pdf/convert-dwt-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: वीएसएसएम को पीडीएफ में बदले
 linktitle: वीएसएसएम को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके VSSM फ़ाइलों को PDF में परिवर्तित करना सीखें। चरण-दर-चरण निर्देशों के साथ अनुसरण करने में आसान ट्यूटोरियल।
-type: docs
 weight: 10
 url: /hi/net/converting-file-types-to-pdf/convert-vssm-to-pdf/
 ---

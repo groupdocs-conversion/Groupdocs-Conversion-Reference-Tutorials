@@ -3,7 +3,6 @@ title: Convierta metarchivos mejorados de EMZ a PDF
 linktitle: Convierta metarchivos mejorados de EMZ a PDF
 second_title: API GroupDocs.Conversión .NET
 description: Convierta archivos EMZ a PDF sin esfuerzo con GroupDocs.Conversion para .NET. Simplifique sus tareas de conversión de archivos.
-type: docs
 weight: 16
 url: /es/net/convert-files-to-pdf/convert-emz-to-pdf/
 ---

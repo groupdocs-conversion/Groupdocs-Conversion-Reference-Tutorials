@@ -3,7 +3,6 @@ title: Convert IFC Building Information Modeling Files to PDF
 linktitle: Convert IFC Building Information Modeling Files to PDF
 second_title: GroupDocs.Conversion .NET API
 description: Learn how to effortlessly convert IFC Building Information Modeling files to PDF format using GroupDocs.Conversion for .NET.
-type: docs
 weight: 25
 url: /net/convert-files-to-pdf/convert-ifc-to-pdf/
 ---
@@ -64,6 +63,6 @@ A: Absolutely, GroupDocs.Conversion supports a wide range of output formats, inc
 ### Q: Is GroupDocs.Conversion compatible with .NET Core?
 A: Yes, GroupDocs.Conversion is compatible with both .NET Framework and .NET Core, ensuring versatility and flexibility in your development projects.
 ### Q: Can I customize the conversion options according to my requirements?
-A: Yes, GroupDocs.Conversion provides extensive customization options, allowing you to tailor the conversion process to suit your specific needs and preferences.
+A: Yes, GroupDocs.Conversion provides extensive customization options, allowing you to tailor the conversion process to suit your specific needs and ptutorialss.
 ### Q: Where can I find further assistance or support for GroupDocs.Conversion?
 A: For any queries, technical assistance, or community support regarding GroupDocs.Conversion, you can visit the [support forum](https://forum.groupdocs.com/c/conversion/11).

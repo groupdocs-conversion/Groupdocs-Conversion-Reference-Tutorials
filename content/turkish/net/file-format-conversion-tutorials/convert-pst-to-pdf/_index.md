@@ -3,9 +3,8 @@ title: PST'yi PDF'ye dönüştür
 linktitle: PST'yi PDF'ye dönüştür
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET'i kullanarak PST dosyalarını zahmetsizce PDF'ye dönüştürün. Sorunsuz belge yönetimiyle üretkenliği artırın.
-type: docs
 weight: 12
-url: /tr/net/file-format-conversion-tutorials/convert-pst-to-pdf/
+url: /tr/net/file-format-conversion-convert-pst-to-pdf/
 ---
 ## giriiş
 Belge yönetimi alanında, dosyaları bir formattan diğerine sorunsuz bir şekilde dönüştürme yeteneği çok önemlidir. İster e-postalarla, ister e-tablolarla, ister sunumlarla ilgileniyor olun, dönüştürme için güvenilir bir araca sahip olmak iş akışlarını kolaylaştırabilir ve üretkenliği artırabilir. Bu eğitimde, GroupDocs.Conversion for .NET'i kullanarak PST (Kişisel Depolama Tablosu) dosyalarını PDF formatına nasıl dönüştüreceğinizi açıklayacağız.

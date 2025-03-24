@@ -3,7 +3,6 @@ title: Converteer PPS naar PDF
 linktitle: Converteer PPS naar PDF
 second_title: GroupDocs.Conversion .NET API
 description: Leer hoe u PPS-bestanden moeiteloos naar PDF-indeling kunt converteren met GroupDocs.Conversion voor .NET. Volg onze stapsgewijze handleiding voor een naadloze integratie.
-type: docs
 weight: 25
 url: /nl/net/pdf-conversion/convert-pps-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: Μετατροπή αρχείων μοντελοποίησης πληρο
 linktitle: Μετατροπή αρχείων μοντελοποίησης πληροφοριών κτιρίου IFC σε PDF
 second_title: GroupDocs.Conversion .NET API
 description: Μάθετε πώς να μετατρέπετε εύκολα αρχεία IFC Building Information Modeling σε μορφή PDF χρησιμοποιώντας το GroupDocs.Conversion για .NET.
-type: docs
 weight: 25
 url: /el/net/convert-files-to-pdf/convert-ifc-to-pdf/
 ---

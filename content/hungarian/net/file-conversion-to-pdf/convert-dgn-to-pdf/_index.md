@@ -3,7 +3,6 @@ title: A DGN CAD-fájlok konvertálása PDF-be
 linktitle: A DGN CAD-fájlok konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: A DGN CAD fájlokat zökkenőmentesen konvertálja PDF formátumba a GroupDocs.Conversion for .NET segítségével. Könnyedén integrálhatja a fájlkonverziós képességeket .NET-alkalmazásaiba.
-type: docs
 weight: 17
 url: /hu/net/file-conversion-to-pdf/convert-dgn-to-pdf/
 ---

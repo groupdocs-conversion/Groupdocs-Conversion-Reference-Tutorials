@@ -3,7 +3,6 @@ title: Konwertuj dokumenty DOCM Word (makra) na format PDF
 linktitle: Konwertuj dokumenty DOCM Word (makra) na format PDF
 second_title: GroupDocs.Conversion API .NET
 description: Bez wysiłku konwertuj dokumenty DOCM Word z makrami na pliki PDF za pomocą GroupDocs.Conversion dla .NET. Usprawnij proces zarządzania dokumentami.
-type: docs
 weight: 22
 url: /pl/net/file-conversion-to-pdf/convert-docm-to-pdf/
 ---

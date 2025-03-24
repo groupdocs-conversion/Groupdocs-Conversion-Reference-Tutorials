@@ -3,7 +3,6 @@ title: Bestandsconversie naar PDF
 linktitle: Bestandsconversie naar PDF
 second_title: GroupDocs.Conversion .NET API
 description: Leer hoe u moeiteloos verschillende bestandsindelingen naar PDF kunt converteren met GroupDocs.Conversion voor .NET. Verbeter documentbeheer met aanpasbare opties.
-type: docs
 weight: 20
 url: /nl/net/file-conversion-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: Konwertuj pliki CAD DWF na format PDF
 linktitle: Konwertuj pliki CAD DWF na format PDF
 second_title: GroupDocs.Conversion API .NET
 description: Dowiedz się, jak bez wysiłku konwertować pliki DWF CAD do formatu PDF za pomocą GroupDocs.Conversion dla .NET. Postępuj zgodnie z naszymi instrukcjami krok po kroku dotyczącymi integracji z aplikacjami .NET.
-type: docs
 weight: 28
 url: /pl/net/file-conversion-to-pdf/convert-dwf-to-pdf/
 ---
@@ -16,7 +15,7 @@ Upewnij się, że masz zainstalowany program Visual Studio w swoim systemie. Mo�
 ### GroupDocs.Conversion dla biblioteki .NET
  Pobierz i zainstaluj bibliotekę GroupDocs.Conversion dla .NET z pliku[strona internetowa](https://releases.groupdocs.com/conversion/net/). Postępuj zgodnie z instrukcjami instalacji podanymi w dokumentacji.
 ### Dostęp do dokumentacji GroupDocs.Conversion
- Aby uzyskać szczegółowe informacje na temat GroupDocs.Conversion dla .NET, zobacz[dokumentacja](https://reference.groupdocs.com/conversion/net/).
+ Aby uzyskać szczegółowe informacje na temat GroupDocs.Conversion dla .NET, zobacz[dokumentacja](https://tutorials.groupdocs.com/conversion/net/).
 ### Licencja tymczasowa (opcjonalnie)
  Jeżeli nie posiadasz licencji stałej, możesz uzyskać licencję tymczasową od[Tutaj](https://purchase.groupdocs.com/temporary-license/).
 

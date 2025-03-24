@@ -3,7 +3,6 @@ title: CF2 konvertálása PDF-be
 linktitle: CF2 konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Ismerje meg, hogyan konvertálhat CF2-fájlokat PDF-be .NET-ben a GroupDocs.Conversion segítségével. Egyszerűsítse dokumentumkezelési feladatait könnyedén.
-type: docs
 weight: 13
 url: /hu/net/file-conversion-to-pdf/convert-cf2-to-pdf/
 ---

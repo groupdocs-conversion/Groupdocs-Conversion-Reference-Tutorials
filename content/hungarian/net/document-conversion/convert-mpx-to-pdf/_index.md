@@ -3,7 +3,6 @@ title: MPX konvertálása PDF-be
 linktitle: MPX konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Tanulja meg, hogyan konvertálhat könnyedén MPX fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Kövesse lépésenkénti útmutatónkat.
-type: docs
 weight: 25
 url: /hu/net/document-conversion/convert-mpx-to-pdf/
 ---

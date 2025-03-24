@@ -3,7 +3,6 @@ title: ओटीजी को पीडीएफ में बदलें
 linktitle: ओटीजी को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके OTG फ़ाइलों को PDF में परिवर्तित करना सीखें। आपकी परियोजनाओं के लिए सरल, कुशल और निर्बाध एकीकरण।
-type: docs
 weight: 13
 url: /hi/net/pdf-conversion/convert-otg-to-pdf/
 ---

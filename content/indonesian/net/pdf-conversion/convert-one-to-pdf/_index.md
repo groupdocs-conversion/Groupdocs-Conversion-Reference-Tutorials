@@ -3,7 +3,6 @@ title: Konversi SATU ke PDF
 linktitle: Konversi SATU ke PDF
 second_title: GroupDocs.Konversi .NET API
 description: Pelajari cara mengonversi SATU file ke format PDF dengan mudah menggunakan GroupDocs.Conversion untuk .NET. Ikuti panduan langkah demi langkah kami.
-type: docs
 weight: 11
 url: /id/net/pdf-conversion/convert-one-to-pdf/
 ---

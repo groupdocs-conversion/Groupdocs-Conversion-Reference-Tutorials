@@ -3,7 +3,6 @@ title: A DOC Word dokumentumok konvertálása PDF-be
 linktitle: A DOC Word dokumentumok konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálhat DOC Word dokumentumokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Kövesse lépésenkénti útmutatónkat a zökkenőmentes dokumentumátalakításhoz.
-type: docs
 weight: 23
 url: /hu/net/file-conversion-to-pdf/convert-doc-to-pdf/
 ---

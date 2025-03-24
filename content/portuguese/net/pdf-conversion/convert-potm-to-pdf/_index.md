@@ -3,7 +3,6 @@ title: Converter POTM em PDF
 linktitle: Converter POTM em PDF
 second_title: API GroupDocs.Conversion .NET
 description: Converta facilmente arquivos POTM para o formato PDF usando GroupDocs.Conversion for .NET. Simplifique seu fluxo de trabalho de gerenciamento de documentos.
-type: docs
 weight: 21
 url: /pt/net/pdf-conversion/convert-potm-to-pdf/
 ---

@@ -3,9 +3,8 @@ title: تحويل توقيت المحيط الهادي إلى PDF
 linktitle: تحويل توقيت المحيط الهادي إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: قم بتحويل ملفات PST إلى PDF بسهولة باستخدام GroupDocs.Conversion for .NET. عزز الإنتاجية من خلال الإدارة السلسة للمستندات.
-type: docs
 weight: 12
-url: /ar/net/file-format-conversion-tutorials/convert-pst-to-pdf/
+url: /ar/net/file-format-conversion-convert-pst-to-pdf/
 ---
 ## مقدمة
 في مجال إدارة المستندات، تعد القدرة على تحويل الملفات بسلاسة من تنسيق إلى آخر أمرًا بالغ الأهمية. سواء كنت تتعامل مع رسائل البريد الإلكتروني أو جداول البيانات أو العروض التقديمية، فإن وجود أداة موثوقة للتحويل يمكن أن يؤدي إلى تبسيط سير العمل وتحسين الإنتاجية. في هذا البرنامج التعليمي، سوف نتعمق في كيفية تحويل ملفات PST (جدول التخزين الشخصي) إلى تنسيق PDF باستخدام GroupDocs.Conversion for .NET.

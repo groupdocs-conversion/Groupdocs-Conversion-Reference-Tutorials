@@ -3,7 +3,6 @@ title: PPTをPDFに変換
 linktitle: PPTをPDFに変換
 second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion for .NET を使用して、PPT を PDF に簡単に変換します。カスタマイズ可能なオプションを使用して、シームレスなドキュメント変換をお楽しみください。
-type: docs
 weight: 28
 url: /ja/net/pdf-conversion/convert-ppt-to-pdf/
 ---

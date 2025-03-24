@@ -3,7 +3,6 @@ title: Konversi Halaman Web HTML ke PDF
 linktitle: Konversi Halaman Web HTML ke PDF
 second_title: GroupDocs.Konversi .NET API
 description: Konversi halaman web HTML ke format PDF dengan mudah menggunakan GroupDocs.Conversion untuk .NET. Ikuti panduan langkah demi langkah kami untuk konversi format dokumen yang lancar.
-type: docs
 weight: 22
 url: /id/net/convert-files-to-pdf/convert-html-to-pdf/
 ---

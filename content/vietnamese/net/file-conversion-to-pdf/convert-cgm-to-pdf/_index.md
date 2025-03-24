@@ -3,7 +3,6 @@ title: Chuyển đổi đồ họa vector CGM sang PDF
 linktitle: Chuyển đổi đồ họa vector CGM sang PDF
 second_title: API GroupDocs.Conversion .NET
 description: Tìm hiểu cách chuyển đổi đồ họa vector CGM sang PDF dễ dàng bằng cách sử dụng GroupDocs.Conversion for .NET. Thực hiện theo hướng dẫn từng bước của chúng tôi.
-type: docs
 weight: 14
 url: /vi/net/file-conversion-to-pdf/convert-cgm-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: XLAM को पीडीएफ में बदलें
 linktitle: XLAM को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके XLAM फ़ाइलों को आसानी से PDF में परिवर्तित करना सीखें। निर्बाध दस्तावेज़ रूपांतरण के लिए हमारे चरण-दर-चरण ट्यूटोरियल का पालन करें।
-type: docs
 weight: 21
 url: /hi/net/converting-file-types-to-pdf/convert-xlam-to-pdf/
 ---

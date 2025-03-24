@@ -3,7 +3,6 @@ title: Převést XLS do PDF
 linktitle: Převést XLS do PDF
 second_title: GroupDocs.Conversion .NET API
 description: Bez námahy převádějte soubory XLS do formátu PDF pomocí GroupDocs.Conversion for .NET. Bezproblémová integrace, komplexní dokumentace a dostupná podpora.
-type: docs
 weight: 24
 url: /cs/net/converting-file-types-to-pdf/convert-xls-to-pdf/
 ---

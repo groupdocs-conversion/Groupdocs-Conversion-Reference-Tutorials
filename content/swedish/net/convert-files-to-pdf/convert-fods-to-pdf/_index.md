@@ -3,7 +3,6 @@ title: Konvertera FODS OpenDocument Spreadsheets till PDF
 linktitle: Konvertera FODS OpenDocument Spreadsheets till PDF
 second_title: GroupDocs.Conversion .NET API
 description: Konvertera enkelt FODS OpenDocument-kalkylblad till PDF-filer med GroupDocs.Conversion för .NET. Förbättra dina .NET-applikationer med sömlös dokumentkonvertering.
-type: docs
 weight: 20
 url: /sv/net/convert-files-to-pdf/convert-fods-to-pdf/
 ---

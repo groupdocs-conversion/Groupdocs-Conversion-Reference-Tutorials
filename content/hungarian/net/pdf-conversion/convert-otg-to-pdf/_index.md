@@ -3,7 +3,6 @@ title: OTG konvertálása PDF-be
 linktitle: OTG konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Ismerje meg, hogyan konvertálhat OTG fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Egyszerű, hatékony és zökkenőmentes integráció projektjeihez.
-type: docs
 weight: 13
 url: /hu/net/pdf-conversion/convert-otg-to-pdf/
 ---

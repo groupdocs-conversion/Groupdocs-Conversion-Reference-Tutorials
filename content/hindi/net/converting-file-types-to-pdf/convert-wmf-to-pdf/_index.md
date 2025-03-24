@@ -3,7 +3,6 @@ title: WMF को पीडीएफ में बदलें
 linktitle: WMF को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से WMF फ़ाइलों को PDF में परिवर्तित करना सीखें। हमारे चरण-दर-चरण ट्यूटोरियल का अनुसरण करें।
-type: docs
 weight: 19
 url: /hi/net/converting-file-types-to-pdf/convert-wmf-to-pdf/
 ---

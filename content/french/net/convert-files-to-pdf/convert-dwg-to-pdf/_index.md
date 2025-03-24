@@ -3,7 +3,6 @@ title: Convertir des fichiers CAO DWG en PDF
 linktitle: Convertir des fichiers CAO DWG en PDF
 second_title: API GroupDocs.Conversion .NET
 description: Découvrez comment convertir des fichiers CAO DWG en PDF de manière transparente à l'aide de GroupDocs.Conversion pour .NET. Suivez notre tutoriel étape par étape pour une conversion efficace.
-type: docs
 weight: 10
 url: /fr/net/convert-files-to-pdf/convert-dwg-to-pdf/
 ---

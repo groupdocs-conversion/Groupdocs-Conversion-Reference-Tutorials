@@ -3,7 +3,6 @@ title: แปลงกราฟิกเวกเตอร์ CGM เป็น P
 linktitle: แปลงกราฟิกเวกเตอร์ CGM เป็น PDF
 second_title: GroupDocs.Conversion .NET API
 description: เรียนรู้วิธีแปลงกราฟิกเวกเตอร์ CGM เป็น PDF ได้อย่างง่ายดายโดยใช้ GroupDocs.Conversion สำหรับ .NET ปฏิบัติตามบทช่วยสอนทีละขั้นตอนของเรา
-type: docs
 weight: 14
 url: /th/net/file-conversion-to-pdf/convert-cgm-to-pdf/
 ---

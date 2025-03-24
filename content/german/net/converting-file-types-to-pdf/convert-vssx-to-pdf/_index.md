@@ -3,7 +3,6 @@ title: Konvertieren Sie VSSX in PDF
 linktitle: Konvertieren Sie VSSX in PDF
 second_title: GroupDocs.Conversion .NET-API
 description: Erfahren Sie, wie Sie VSSX-Dateien mit GroupDocs.Conversion für .NET mühelos in das PDF-Format konvertieren. Optimieren Sie Ihre Dokumentenmanagement-Workflows.
-type: docs
 weight: 12
 url: /de/net/converting-file-types-to-pdf/convert-vssx-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: A POTX konvertálása PDF-be
 linktitle: A POTX konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Ismerje meg, hogyan konvertálhat POTX fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Kövesse ezt a lépésről lépésre bemutató oktatóanyagot a zökkenőmentes dokumentumátalakításhoz.
-type: docs
 weight: 23
 url: /hu/net/pdf-conversion/convert-potx-to-pdf/
 ---

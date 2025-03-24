@@ -3,7 +3,6 @@ title: تحويل العروض التقديمية FODP OpenDocument إلى PDF
 linktitle: تحويل العروض التقديمية FODP OpenDocument إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: تعرف على كيفية تحويل عروض FODP OpenDocument التقديمية إلى PDF بسهولة باستخدام GroupDocs.Conversion for .NET. تعزيز إمكانية التشغيل البيني للمستندات.
-type: docs
 weight: 19
 url: /ar/net/convert-files-to-pdf/convert-fodp-to-pdf/
 ---

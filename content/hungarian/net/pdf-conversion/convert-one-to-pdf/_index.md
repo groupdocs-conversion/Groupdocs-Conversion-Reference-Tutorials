@@ -3,7 +3,6 @@ title: ONE konvertálása PDF-be
 linktitle: ONE konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Tanulja meg, hogyan konvertálhat ONE fájlokat könnyedén PDF formátumba a GroupDocs.Conversion for .NET segítségével. Kövesse lépésenkénti útmutatónkat.
-type: docs
 weight: 11
 url: /hu/net/pdf-conversion/convert-one-to-pdf/
 ---

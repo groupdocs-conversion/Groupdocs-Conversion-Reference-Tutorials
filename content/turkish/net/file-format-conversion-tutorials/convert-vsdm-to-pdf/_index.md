@@ -3,9 +3,8 @@ title: VSDM'yi PDF'ye dönüştürün
 linktitle: VSDM'yi PDF'ye dönüştürün
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET'i kullanarak VSDM dosyalarını PDF formatına nasıl dönüştüreceğinizi öğrenin. Sorunsuz dönüşüm için adım adım kılavuzumuzu izleyin.
-type: docs
 weight: 26
-url: /tr/net/file-format-conversion-tutorials/convert-vsdm-to-pdf/
+url: /tr/net/file-format-conversion-convert-vsdm-to-pdf/
 ---
 ## giriiş
 Bu öğreticide, .NET için GroupDocs.Conversion kitaplığını kullanarak VSDM (Visio Makro Etkin Çizim) dosyalarını PDF biçimine dönüştürme sürecinde size yol göstereceğiz. Sorunsuz bir dönüşüm süreci sağlamak için her adımı ayrıntılı talimatlara ayıracağız.
@@ -63,4 +62,4 @@ Evet, GroupDocs.Conversion, Word, Excel, PowerPoint ve daha fazlasını içeren 
 ### GroupDocs.Conversion için geçici bir lisans satın alabilir miyim?
  Evet, adresinden geçici bir lisans satın alabilirsiniz.[Burada](https://purchase.groupdocs.com/temporary-license/).
 ### GroupDocs.Conversion belgelerinin tamamını nerede bulabilirim?
- Tüm dokümantasyonu bulabilirsiniz[Burada](https://reference.groupdocs.com/conversion/net/).
+ Tüm dokümantasyonu bulabilirsiniz[Burada](https://tutorials.groupdocs.com/conversion/net/).

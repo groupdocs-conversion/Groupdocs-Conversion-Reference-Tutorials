@@ -3,7 +3,6 @@ title: Sblocca la competenza GroupDocs.Conversion
 linktitle: Esercitazioni su GroupDocs.Conversion
 additionalTitle: Riferimenti API GroupDocs
 description: Scopri la potenza di GroupDocs.Conversion attraverso i nostri tutorial. Impara a convertire facilmente i documenti tra formati per un'integrazione perfetta del flusso di lavoro.
-type: docs
 weight: 11
 url: /it/
 is_root: true

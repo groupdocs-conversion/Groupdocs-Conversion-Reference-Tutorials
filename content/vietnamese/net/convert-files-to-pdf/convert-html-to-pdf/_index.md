@@ -3,7 +3,6 @@ title: Chuyển đổi trang web HTML sang PDF
 linktitle: Chuyển đổi trang web HTML sang PDF
 second_title: API GroupDocs.Conversion .NET
 description: Dễ dàng chuyển đổi các trang web HTML sang định dạng PDF bằng GroupDocs.Conversion for .NET. Hãy làm theo hướng dẫn từng bước của chúng tôi để chuyển đổi định dạng tài liệu một cách liền mạch.
-type: docs
 weight: 22
 url: /vi/net/convert-files-to-pdf/convert-html-to-pdf/
 ---

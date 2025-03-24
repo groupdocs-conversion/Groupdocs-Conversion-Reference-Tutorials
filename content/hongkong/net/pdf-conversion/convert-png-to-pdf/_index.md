@@ -3,7 +3,6 @@ title: 將 PNG 轉換為 PDF
 linktitle: 將 PNG 轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 輕鬆將 PNG 映像轉換為 PDF 文件。無縫文件格式轉換的簡單步驟。
-type: docs
 weight: 20
 url: /zh-hant/net/pdf-conversion/convert-png-to-pdf/
 ---
@@ -62,7 +61,7 @@ Console.WriteLine("\nConversion to PDF completed successfully. \nCheck output in
 總而言之，GroupDocs.Conversion for .NET 提供了一個簡單且強大的解決方案，將 PNG 影像無縫轉換為 PDF 文件。透過遵循本教學中概述的步驟，您可以輕鬆有效地將 PNG 檔案轉換為 PDF 格式，從而開啟文件管理和共享的無限可能。
 ## 常見問題解答
 ### GroupDocs.Conversion 是否與 PNG 和 PDF 以外的其他文件格式相容？
-是的，GroupDocs.Conversion 支援多種檔案格式的轉換，包括 DOCX、XLSX、PPTX、JPG、TIFF 等。請參閱[文件](https://reference.groupdocs.com/conversion/net/)取得支援格式的完整清單。
+是的，GroupDocs.Conversion 支援多種檔案格式的轉換，包括 DOCX、XLSX、PPTX、JPG、TIFF 等。請參閱[文件](https://tutorials.groupdocs.com/conversion/net/)取得支援格式的完整清單。
 ### 我可以根據我的具體要求自訂轉換設定嗎？
 絕對地！ GroupDocs.Conversion 提供廣泛的自訂選項，可讓您自訂轉換流程以滿足您的特定需求。您可以調整頁面大小、方向、品質等參數。
 ### GroupDocs.Conversion適合大規模文件轉換任務嗎？

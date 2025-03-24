@@ -3,7 +3,6 @@ title: IFC बिल्डिंग सूचना मॉडलिंग फ़
 linktitle: IFC बिल्डिंग सूचना मॉडलिंग फ़ाइलों को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके IFC बिल्डिंग सूचना मॉडलिंग फ़ाइलों को आसानी से पीडीएफ प्रारूप में परिवर्तित करना सीखें।
-type: docs
 weight: 25
 url: /hi/net/convert-files-to-pdf/convert-ifc-to-pdf/
 ---

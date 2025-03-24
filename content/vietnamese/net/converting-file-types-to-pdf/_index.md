@@ -3,7 +3,6 @@ title: Chuyển đổi các loại tệp thành PDF
 linktitle: Chuyển đổi các loại tệp thành PDF
 second_title: API GroupDocs.Conversion .NET
 description: Dễ dàng chuyển đổi nhiều loại tệp khác nhau sang PDF bằng GroupDocs.Conversion cho .NET. Hợp lý hóa quy trình quản lý tài liệu của bạn. Tìm hiểu thêm!
-type: docs
 weight: 24
 url: /vi/net/converting-file-types-to-pdf/
 ---

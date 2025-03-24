@@ -3,7 +3,6 @@ title: Konversi Gambar DIB ke PDF
 linktitle: Konversi Gambar DIB ke PDF
 second_title: GroupDocs.Konversi .NET API
 description: Konversi gambar DIB ke format PDF dengan mudah menggunakan GroupDocs.Conversion untuk .NET. Tingkatkan alur kerja pengembangan Anda dengan kemampuan konversi file yang lancar.
-type: docs
 weight: 18
 url: /id/net/file-conversion-to-pdf/convert-dib-to-pdf/
 ---

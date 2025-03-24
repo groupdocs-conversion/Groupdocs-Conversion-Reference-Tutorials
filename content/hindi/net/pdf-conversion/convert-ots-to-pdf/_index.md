@@ -3,7 +3,6 @@ title: ओटीएस को पीडीएफ में बदलें
 linktitle: ओटीएस को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके OTS फ़ाइलों को आसानी से PDF प्रारूप में परिवर्तित करना सीखें। चरण-दर-चरण ट्यूटोरियल शामिल है।
-type: docs
 weight: 15
 url: /hi/net/pdf-conversion/convert-ots-to-pdf/
 ---

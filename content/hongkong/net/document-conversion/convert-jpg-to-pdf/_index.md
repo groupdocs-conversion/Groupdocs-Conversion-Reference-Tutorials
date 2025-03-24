@@ -3,7 +3,6 @@ title: 將 JPG 轉換為 PDF
 linktitle: 將 JPG 轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 輕鬆將 JPG 轉換為 PDF。請按照此逐步教學進行無縫文件轉換。
-type: docs
 weight: 14
 url: /zh-hant/net/document-conversion/convert-jpg-to-pdf/
 ---

@@ -3,9 +3,8 @@ title: تحويل TXT إلى PDF
 linktitle: تحويل TXT إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: قم بتحويل TXT إلى PDF بسهولة باستخدام GroupDocs.Conversion for .NET. اتبع دليلنا خطوة بخطوة لتحويل تنسيق المستندات بسلاسة.
-type: docs
 weight: 22
-url: /ar/net/file-format-conversion-tutorials/convert-txt-to-pdf/
+url: /ar/net/file-format-conversion-convert-txt-to-pdf/
 ---
 ## مقدمة
 في العصر الرقمي الحالي، تعد القدرة على التعامل مع تنسيقات المستندات برمجيًا أمرًا ضروريًا للعديد من التطبيقات البرمجية. سواء كنت تقوم ببناء نظام لإدارة المستندات، أو محرر عبر الإنترنت، أو تحتاج ببساطة إلى تحويل الملفات من تنسيق إلى آخر، فإن وجود أداة تحويل موثوقة وفعالة أمر بالغ الأهمية. إحدى هذه الأدوات البارزة هي GroupDocs.Conversion for .NET.

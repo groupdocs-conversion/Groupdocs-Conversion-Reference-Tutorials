@@ -3,7 +3,6 @@ title: A DJVU dokumentumok konvertálása PDF-be
 linktitle: A DJVU dokumentumok konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Tanulja meg, hogyan konvertálhat könnyedén DJVU dokumentumokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Egyszerűsítse dokumentumkezelési feladatait.
-type: docs
 weight: 20
 url: /hu/net/file-conversion-to-pdf/convert-djvu-to-pdf/
 ---

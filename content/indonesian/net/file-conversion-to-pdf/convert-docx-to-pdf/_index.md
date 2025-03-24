@@ -3,7 +3,6 @@ title: Konversikan Dokumen DOCX Word ke PDF
 linktitle: Konversikan Dokumen DOCX Word ke PDF
 second_title: GroupDocs.Konversi .NET API
 description: Pelajari cara mudah mengonversi dokumen DOCX Word ke PDF menggunakan GroupDocs.Conversion untuk .NET. Tingkatkan kemampuan manajemen dokumen Anda.
-type: docs
 weight: 24
 url: /id/net/file-conversion-to-pdf/convert-docx-to-pdf/
 ---

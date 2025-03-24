@@ -3,9 +3,8 @@ title: Конвертировать VDX в PDF
 linktitle: Конвертировать VDX в PDF
 second_title: GroupDocs.Conversion .NET API
 description: Легко конвертируйте файлы VDX в формат PDF с помощью GroupDocs.Conversion для .NET. Усовершенствуйте свои приложения .NET с помощью возможностей плавного преобразования документов.
-type: docs
 weight: 25
-url: /ru/net/file-format-conversion-tutorials/convert-vdx-to-pdf/
+url: /ru/net/file-format-conversion-convert-vdx-to-pdf/
 ---
 ## Введение
 В современную цифровую эпоху возможность плавного преобразования файлов из одного формата в другой необходима для эффективного рабочего процесса и совместной работы. Среди множества форматов файлов VDX, собственный формат на основе XML, используемый в Microsoft Visio, часто требует преобразования в более универсальные форматы, такие как PDF, для упрощения обмена и просмотра.

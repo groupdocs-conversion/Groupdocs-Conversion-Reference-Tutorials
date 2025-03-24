@@ -3,9 +3,8 @@ title: PSD को पीडीएफ में बदलें
 linktitle: PSD को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके PSD फ़ाइलों को आसानी से पीडीएफ में परिवर्तित करना सीखें। हमारे चरण-दर-चरण मार्गदर्शिका का पालन करें.
-type: docs
 weight: 10
-url: /hi/net/file-format-conversion-tutorials/convert-psd-to-pdf/
+url: /hi/net/file-format-conversion-convert-psd-to-pdf/
 ---
 ## परिचय
 इस ट्यूटोरियल में, हम आपको .NET के लिए GroupDocs.Conversion लाइब्रेरी का उपयोग करके PSD (फ़ोटोशॉप दस्तावेज़) फ़ाइलों को पीडीएफ प्रारूप में परिवर्तित करने की प्रक्रिया के बारे में मार्गदर्शन करेंगे। इन चरण-दर-चरण निर्देशों का पालन करके, आप आसानी से अपनी PSD फ़ाइलों को पीडीएफ में परिवर्तित करने में सक्षम होंगे।

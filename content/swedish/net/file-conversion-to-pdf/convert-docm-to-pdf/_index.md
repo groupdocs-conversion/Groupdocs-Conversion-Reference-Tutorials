@@ -3,7 +3,6 @@ title: Konvertera DOCM Word-dokument (makron) till PDF
 linktitle: Konvertera DOCM Word-dokument (makron) till PDF
 second_title: GroupDocs.Conversion .NET API
 description: Konvertera enkelt DOCM Word-dokument med makron till PDF-filer med GroupDocs.Conversion for .NET. Effektivisera din dokumenthanteringsprocess.
-type: docs
 weight: 22
 url: /sv/net/file-conversion-to-pdf/convert-docm-to-pdf/
 ---

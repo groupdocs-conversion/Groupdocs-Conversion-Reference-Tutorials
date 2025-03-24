@@ -3,7 +3,6 @@ title: Μετατροπή PPTX σε PDF
 linktitle: Μετατροπή PPTX σε PDF
 second_title: GroupDocs.Conversion .NET API
 description: Μάθετε πώς να μετατρέπετε παρουσιάσεις PowerPoint (PPTX) σε μορφή PDF χρησιμοποιώντας το GroupDocs.Conversion για .NET. Εύκολη και αποτελεσματική διαδικασία μετατροπής.
-type: docs
 weight: 29
 url: /el/net/pdf-conversion/convert-pptx-to-pdf/
 ---

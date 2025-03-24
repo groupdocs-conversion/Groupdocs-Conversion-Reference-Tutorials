@@ -3,7 +3,6 @@ title: Převést MOBI do PDF
 linktitle: Převést MOBI do PDF
 second_title: GroupDocs.Conversion .NET API
 description: Naučte se, jak bez námahy převést soubory MOBI do PDF pomocí GroupDocs.Conversion for .NET. Postupujte podle našeho podrobného průvodce.
-type: docs
 weight: 22
 url: /cs/net/document-conversion/convert-mobi-to-pdf/
 ---

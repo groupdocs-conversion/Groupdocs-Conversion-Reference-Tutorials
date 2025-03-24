@@ -3,7 +3,6 @@ title: Konvertera DOT Word-mallar till PDF
 linktitle: Konvertera DOT Word-mallar till PDF
 second_title: GroupDocs.Conversion .NET API
 description: Lär dig hur du enkelt konverterar DOT-filer (Word Template) till PDF i .NET med GroupDocs.Conversion för sömlös integrering i dina applikationer.
-type: docs
 weight: 26
 url: /sv/net/file-conversion-to-pdf/convert-dot-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: PDF 변환
 linktitle: PDF 변환
 second_title: GroupDocs.Conversion .NET API
 description: .NET용 GroupDocs.Conversion을 사용하여 다양한 파일 형식을 PDF로 손쉽게 변환하는 방법을 알아보세요. 지금 문서 관리 작업 흐름을 단순화하세요!
-type: docs
 weight: 25
 url: /ko/net/pdf-conversion/
 ---

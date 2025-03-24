@@ -3,7 +3,6 @@ title: ओडीपी को पीडीएफ में बदलें
 linktitle: ओडीपी को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके ODP को PDF में परिवर्तित करना सीखें। निर्बाध दस्तावेज़ रूपांतरण के लिए हमारी चरण-दर-चरण मार्गदर्शिका का पालन करें।
-type: docs
 weight: 28
 url: /hi/net/document-conversion/convert-odp-to-pdf/
 ---

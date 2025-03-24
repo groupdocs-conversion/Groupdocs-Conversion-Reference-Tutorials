@@ -3,7 +3,6 @@ title: MOBI'yi PDF'ye dönüştür
 linktitle: MOBI'yi PDF'ye dönüştür
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET'i kullanarak MOBI dosyalarını zahmetsizce PDF'ye nasıl dönüştüreceğinizi öğrenin. Adım adım kılavuzumuzu takip edin.
-type: docs
 weight: 22
 url: /tr/net/document-conversion/convert-mobi-to-pdf/
 ---

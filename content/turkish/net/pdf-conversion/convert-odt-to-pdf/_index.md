@@ -3,7 +3,6 @@ title: ODT'yi PDF'ye dönüştür
 linktitle: ODT'yi PDF'ye dönüştür
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET'i kullanarak ODT dosyalarını zahmetsizce PDF'ye dönüştürün. Belge yönetimi iş akışlarınızı kolaylıkla kolaylaştırın.
-type: docs
 weight: 10
 url: /tr/net/pdf-conversion/convert-odt-to-pdf/
 ---

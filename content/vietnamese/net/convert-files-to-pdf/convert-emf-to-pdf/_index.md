@@ -3,7 +3,6 @@ title: Chuyển đổi siêu tệp Windows EMF sang PDF
 linktitle: Chuyển đổi siêu tệp Windows EMF sang PDF
 second_title: API GroupDocs.Conversion .NET
 description: Chuyển đổi Siêu tệp Windows EMF sang PDF dễ dàng bằng GroupDocs.Conversion cho .NET. Dễ dàng tích hợp và tùy chỉnh các tùy chọn chuyển đổi.
-type: docs
 weight: 13
 url: /vi/net/convert-files-to-pdf/convert-emf-to-pdf/
 ---

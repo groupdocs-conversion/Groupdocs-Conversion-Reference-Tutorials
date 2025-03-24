@@ -3,7 +3,6 @@ title: JPM'yi PDF'ye dönüştür
 linktitle: JPM'yi PDF'ye dönüştür
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET'i kullanarak JPM dosyalarını zahmetsizce PDF'ye dönüştürün. Dosya dönüştürme süreçlerinizi kolaylıkla kolaylaştırın.
-type: docs
 weight: 15
 url: /tr/net/document-conversion/convert-jpm-to-pdf/
 ---

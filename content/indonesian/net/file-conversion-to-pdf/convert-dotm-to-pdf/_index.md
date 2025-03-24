@@ -3,7 +3,6 @@ title: Konversi Templat Word DOTM (Makro) ke PDF
 linktitle: Konversi Templat Word DOTM (Makro) ke PDF
 second_title: GroupDocs.Konversi .NET API
 description: Konversi templat DOTM Word yang berisi makro ke PDF dengan mudah menggunakan GroupDocs.Conversion untuk .NET. Pastikan kompatibilitas dan keamanan dengan langkah sederhana.
-type: docs
 weight: 25
 url: /id/net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---

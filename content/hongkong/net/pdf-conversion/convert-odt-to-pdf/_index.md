@@ -3,7 +3,6 @@ title: 將 ODT 轉換為PDF
 linktitle: 將 ODT 轉換為PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 輕鬆將 ODT 檔案轉換為 PDF。輕鬆簡化您的文件管理工作流程。
-type: docs
 weight: 10
 url: /zh-hant/net/pdf-conversion/convert-odt-to-pdf/
 ---

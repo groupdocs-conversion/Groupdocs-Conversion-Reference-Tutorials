@@ -3,7 +3,6 @@ title: Konversi Templat Word DOTX ke PDF
 linktitle: Konversi Templat Word DOTX ke PDF
 second_title: GroupDocs.Konversi .NET API
 description: Konversi templat DOTX Word ke PDF dengan mudah menggunakan GroupDocs.Conversion untuk .NET. Sederhanakan tugas manajemen dokumen Anda.
-type: docs
 weight: 27
 url: /id/net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---

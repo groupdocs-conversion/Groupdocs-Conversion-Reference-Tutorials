@@ -3,9 +3,8 @@ title: 將 VCF 轉換為 PDF
 linktitle: 將 VCF 轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 輕鬆將 VCF 轉換為 PDF。透過這種直覺的解決方案簡化您的文件管理任務。
-type: docs
 weight: 23
-url: /zh-hant/net/file-format-conversion-tutorials/convert-vcf-to-pdf/
+url: /zh-hant/net/file-format-conversion-convert-vcf-to-pdf/
 ---
 ## 介紹
 在文件管理和操作領域，GroupDocs.Conversion for .NET 是一款脫穎而出的多功能工具，它使開發人員能夠在各種文件格式之間無縫轉換。在其一系列功能中，一項突出的轉換任務是將 VCF（虛擬聯絡人文件）轉換為 PDF（便攜式文件格式）。本教學深入探討了使用 GroupDocs.Conversion for .NET 輕鬆完成此轉換的逐步流程。

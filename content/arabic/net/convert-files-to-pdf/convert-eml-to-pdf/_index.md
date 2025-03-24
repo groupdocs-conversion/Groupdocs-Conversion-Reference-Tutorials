@@ -3,7 +3,6 @@ title: تحويل رسائل البريد الإلكتروني EML إلى PDF
 linktitle: تحويل رسائل البريد الإلكتروني EML إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: تعرف على كيفية تحويل رسائل البريد الإلكتروني EML إلى PDF بسهولة باستخدام GroupDocs.Conversion for .NET.
-type: docs
 weight: 14
 url: /ar/net/convert-files-to-pdf/convert-eml-to-pdf/
 ---

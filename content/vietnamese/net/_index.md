@@ -1,7 +1,6 @@
 ---
 title: Hướng dẫn toàn diện về GroupDocs.Conversion cho .NET
 linktitle: Hướng dẫn GroupDocs.Conversion for .NET
-type: docs
 weight: 10
 url: /vi/net/
 description: Dễ dàng chuyển đổi tệp sang PDF bằng GroupDocs.Conversion for .NET. Hợp lý hóa việc quản lý tài liệu với các tùy chọn có thể tùy chỉnh. #GroupDocs.Chuyển đổi

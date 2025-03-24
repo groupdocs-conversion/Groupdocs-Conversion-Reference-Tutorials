@@ -3,7 +3,6 @@ title: A VSSM konvertálása PDF-be
 linktitle: A VSSM konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Ismerje meg, hogyan konvertálhat VSSM fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Könnyen követhető oktatóanyag lépésről lépésre.
-type: docs
 weight: 10
 url: /hu/net/converting-file-types-to-pdf/convert-vssm-to-pdf/
 ---

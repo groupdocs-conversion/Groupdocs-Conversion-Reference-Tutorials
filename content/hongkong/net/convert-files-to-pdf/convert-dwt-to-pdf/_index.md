@@ -3,7 +3,6 @@ title: 將 DWT CAD 範本檔案轉換為 PDF
 linktitle: 將 DWT CAD 範本檔案轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 了解如何使用 GroupDocs.Conversion for .NET 將 DWT CAD 範本檔案輕鬆轉換為 PDF 格式。
-type: docs
 weight: 11
 url: /zh-hant/net/convert-files-to-pdf/convert-dwt-to-pdf/
 ---

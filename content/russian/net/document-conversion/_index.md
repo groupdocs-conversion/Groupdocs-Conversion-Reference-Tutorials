@@ -3,7 +3,6 @@ title: Преобразование документов
 linktitle: Преобразование документов
 second_title: GroupDocs.Conversion .NET API
 description: Легко конвертируйте различные форматы файлов в PDF с помощью учебных пособий GroupDocs.Conversion для .NET. Улучшите управление документами без каких-либо проблем.
-type: docs
 weight: 23
 url: /ru/net/document-conversion/
 ---

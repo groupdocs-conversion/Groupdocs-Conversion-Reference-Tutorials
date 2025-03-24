@@ -3,7 +3,6 @@ title: تحويل مستندات DOC Word إلى PDF
 linktitle: تحويل مستندات DOC Word إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: قم بتحويل مستندات DOC Word إلى PDF بسهولة باستخدام GroupDocs.Conversion for .NET. اتبع دليلنا خطوة بخطوة لتحويل المستندات بسلاسة.
-type: docs
 weight: 23
 url: /ar/net/file-conversion-to-pdf/convert-doc-to-pdf/
 ---

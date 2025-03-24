@@ -3,7 +3,6 @@ title: MPTをPDFに変換
 linktitle: MPTをPDFに変換
 second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion for .NET を使用して MPT ファイルを PDF に簡単に変換する方法を学びます。統合と効率的なドキュメント管理については、ステップバイステップに従ってください。
-type: docs
 weight: 24
 url: /ja/net/document-conversion/convert-mpt-to-pdf/
 ---

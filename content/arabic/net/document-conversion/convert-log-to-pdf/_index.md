@@ -3,7 +3,6 @@ title: تحويل السجل إلى PDF
 linktitle: تحويل السجل إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: يمكنك بسهولة تحويل ملفات LOG إلى تنسيق PDF في تطبيقات .NET باستخدام GroupDocs.Conversion لـ .NET. اتبع دليلنا خطوة بخطوة لتحويل المستندات.
-type: docs
 weight: 17
 url: /ar/net/document-conversion/convert-log-to-pdf/
 ---

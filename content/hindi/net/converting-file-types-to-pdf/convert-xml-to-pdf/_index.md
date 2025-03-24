@@ -3,7 +3,6 @@ title: एक्सएमएल को पीडीएफ में बदले
 linktitle: एक्सएमएल को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके XML फ़ाइलों को पीडीएफ में सहजता से परिवर्तित करने का तरीका जानें। अपनी दस्तावेज़ प्रबंधन दक्षता बढ़ाएँ।
-type: docs
 weight: 29
 url: /hi/net/converting-file-types-to-pdf/convert-xml-to-pdf/
 ---

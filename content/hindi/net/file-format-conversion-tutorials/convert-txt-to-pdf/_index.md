@@ -3,9 +3,8 @@ title: TXT को पीडीएफ में बदलें
 linktitle: TXT को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion के साथ TXT को आसानी से पीडीएफ में बदलें। निर्बाध दस्तावेज़ प्रारूप रूपांतरण के लिए हमारी चरण-दर-चरण मार्गदर्शिका का पालन करें।
-type: docs
 weight: 22
-url: /hi/net/file-format-conversion-tutorials/convert-txt-to-pdf/
+url: /hi/net/file-format-conversion-convert-txt-to-pdf/
 ---
 ## परिचय
 आज के डिजिटल युग में, कई सॉफ्टवेयर अनुप्रयोगों के लिए दस्तावेज़ प्रारूपों को प्रोग्रामेटिक रूप से हेरफेर करने की क्षमता आवश्यक है। चाहे आप एक दस्तावेज़ प्रबंधन प्रणाली, एक ऑनलाइन संपादक बना रहे हों, या बस फ़ाइलों को एक प्रारूप से दूसरे प्रारूप में परिवर्तित करने की आवश्यकता हो, एक विश्वसनीय और कुशल रूपांतरण उपकरण होना महत्वपूर्ण है। ऐसा ही एक टूल जो सबसे अलग है वह है .NET के लिए GroupDocs.Conversion।

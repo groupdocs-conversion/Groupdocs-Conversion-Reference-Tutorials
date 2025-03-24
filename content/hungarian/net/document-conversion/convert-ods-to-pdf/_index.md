@@ -3,7 +3,6 @@ title: ODS konvertálása PDF-be
 linktitle: ODS konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálhat ODS fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Átfogó oktatóanyag lépésről lépésre.
-type: docs
 weight: 29
 url: /hu/net/document-conversion/convert-ods-to-pdf/
 ---
@@ -15,7 +14,7 @@ Mielőtt belevágna az átalakítási folyamatba, győződjön meg arról, hogy 
 A GroupDocs.Conversion for .NET funkcióinak használatához telepítenie kell a könyvtárat. Letöltheti a GroupDocs webhelyéről.
 1.  Látogassa meg a letöltési oldalt[itt](https://releases.groupdocs.com/conversion/net/).
 2. Válassza ki a megfelelő verziót, és töltse le a csomagot.
-3.  Kövesse a dokumentációban található telepítési utasításokat[itt](https://reference.groupdocs.com/conversion/net/).
+3.  Kövesse a dokumentációban található telepítési utasításokat[itt](https://tutorials.groupdocs.com/conversion/net/).
 ### Hozzáférés az ODS fájlhoz
 Győződjön meg arról, hogy hozzáfér a konvertálni kívánt ODS-fájlhoz. Ha nem, szerezze be a fájlt a forrásból.
 ### Alapszintű C# ismerete

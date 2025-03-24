@@ -3,7 +3,6 @@ title: Converter gráficos vetoriais CGM em PDF
 linktitle: Converter gráficos vetoriais CGM em PDF
 second_title: API GroupDocs.Conversion .NET
 description: Aprenda como converter gráficos vetoriais CGM em PDF sem esforço usando GroupDocs.Conversion for .NET. Siga nosso tutorial passo a passo.
-type: docs
 weight: 14
 url: /pt/net/file-conversion-to-pdf/convert-cgm-to-pdf/
 ---

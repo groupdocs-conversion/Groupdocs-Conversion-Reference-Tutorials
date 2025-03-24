@@ -3,7 +3,6 @@ title: Konversikan File Pemodelan Informasi Gedung IFC ke PDF
 linktitle: Konversikan File Pemodelan Informasi Gedung IFC ke PDF
 second_title: GroupDocs.Konversi .NET API
 description: Pelajari cara mudah mengonversi file Pemodelan Informasi Gedung IFC ke format PDF menggunakan GroupDocs.Conversion untuk .NET.
-type: docs
 weight: 25
 url: /id/net/convert-files-to-pdf/convert-ifc-to-pdf/
 ---

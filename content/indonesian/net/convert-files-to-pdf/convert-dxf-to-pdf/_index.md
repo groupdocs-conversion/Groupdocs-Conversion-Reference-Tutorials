@@ -3,7 +3,6 @@ title: Konversikan File Pertukaran Gambar DXF CAD ke PDF
 linktitle: Konversikan File Pertukaran Gambar DXF CAD ke PDF
 second_title: GroupDocs.Konversi .NET API
 description: Konversikan File Pertukaran Gambar DXF CAD dengan mudah ke PDF dengan GroupDocs.Conversion untuk .NET.
-type: docs
 weight: 12
 url: /id/net/convert-files-to-pdf/convert-dxf-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: Převést VTX do PDF
 linktitle: Převést VTX do PDF
 second_title: GroupDocs.Conversion .NET API
 description: Naučte se převádět soubory VTX do PDF pomocí GroupDocs.Conversion for .NET. Podrobný průvodce s příklady kódu pro bezproblémovou integraci.
-type: docs
 weight: 17
 url: /cs/net/converting-file-types-to-pdf/convert-vtx-to-pdf/
 ---
@@ -61,7 +60,7 @@ Ano, GroupDocs.Conversion for .NET podporuje širokou škálu formátů souborů
 ### Je k dispozici bezplatná zkušební verze pro GroupDocs.Conversion for .NET?
  Ano, můžete využít bezplatnou zkušební verzi GroupDocs.Conversion for .NET z webu[webová stránka](https://releases.groupdocs.com/).
 ### Kde najdu dokumentaci k GroupDocs.Conversion for .NET?
- Komplexní dokumentaci a reference API najdete na[dokumentační stránku](https://reference.groupdocs.com/conversion/net/).
+ Komplexní dokumentaci a tutorials API najdete na[dokumentační stránku](https://tutorials.groupdocs.com/conversion/net/).
 ### Jak mohu získat dočasné licence pro GroupDocs.Conversion for .NET?
  Dočasné licence lze získat od[dočasná licenční stránka](https://purchase.groupdocs.com/temporary-license/).
 ### Kde mohu získat podporu nebo klást otázky týkající se GroupDocs.Conversion for .NET?

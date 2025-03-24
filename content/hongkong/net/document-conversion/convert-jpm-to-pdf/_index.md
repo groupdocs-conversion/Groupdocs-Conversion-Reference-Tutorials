@@ -3,7 +3,6 @@ title: 將 JPM 轉換為PDF
 linktitle: 將 JPM 轉換為PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 輕鬆將 JPM 檔案轉換為 PDF。輕鬆簡化您的文件轉換過程。
-type: docs
 weight: 15
 url: /zh-hant/net/document-conversion/convert-jpm-to-pdf/
 ---

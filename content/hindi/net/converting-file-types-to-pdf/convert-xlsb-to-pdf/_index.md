@@ -3,7 +3,6 @@ title: एक्सएलएसबी को पीडीएफ में बद
 linktitle: एक्सएलएसबी को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके XLSB फ़ाइलों को आसानी से PDF में परिवर्तित करना सीखें। हमारे चरण-दर-चरण मार्गदर्शिका का पालन करें.
-type: docs
 weight: 22
 url: /hi/net/converting-file-types-to-pdf/convert-xlsb-to-pdf/
 ---

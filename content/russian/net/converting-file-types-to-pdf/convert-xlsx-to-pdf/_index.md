@@ -3,7 +3,6 @@ title: Конвертировать XLSX в PDF
 linktitle: Конвертировать XLSX в PDF
 second_title: GroupDocs.Conversion .NET API
 description: Легко конвертируйте файлы XLSX в PDF с помощью библиотеки GroupDocs.Conversion для .NET. Бесшовная интеграция, настраиваемые параметры и безупречные результаты.
-type: docs
 weight: 25
 url: /ru/net/converting-file-types-to-pdf/convert-xlsx-to-pdf/
 ---

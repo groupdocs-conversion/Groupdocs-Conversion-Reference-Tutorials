@@ -3,9 +3,8 @@ title: 將 PSD 轉換為 PDF
 linktitle: 將 PSD 轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 了解如何使用 GroupDocs.Conversion for .NET 將 PSD 檔案輕鬆轉換為 PDF。請遵循我們的逐步指南。
-type: docs
 weight: 10
-url: /zh-hant/net/file-format-conversion-tutorials/convert-psd-to-pdf/
+url: /zh-hant/net/file-format-conversion-convert-psd-to-pdf/
 ---
 ## 介紹
 在本教學中，我們將引導您完成使用 .NET 的 GroupDocs.Conversion 函式庫將 PSD（Photoshop 文件）檔案轉換為 PDF 格式的流程。透過遵循這些逐步說明，您將能夠輕鬆地將 PSD 檔案無縫轉換為 PDF。

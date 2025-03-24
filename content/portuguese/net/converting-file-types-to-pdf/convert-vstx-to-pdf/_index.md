@@ -3,7 +3,6 @@ title: Converter VSTX em PDF
 linktitle: Converter VSTX em PDF
 second_title: API GroupDocs.Conversion .NET
 description: Aprenda como converter arquivos VSTX para o formato PDF usando GroupDocs.Conversion for .NET. Etapas fáceis para gerenciamento de documentos perfeito.
-type: docs
 weight: 15
 url: /pt/net/converting-file-types-to-pdf/convert-vstx-to-pdf/
 ---

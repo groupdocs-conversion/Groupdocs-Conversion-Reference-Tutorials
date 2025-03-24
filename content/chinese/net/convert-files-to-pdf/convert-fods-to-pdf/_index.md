@@ -3,7 +3,6 @@ title: 将 FODS OpenDocument 电子表格转换为 PDF
 linktitle: 将 FODS OpenDocument 电子表格转换为 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 轻松将 FODS OpenDocument 电子表格转换为 PDF。通过无缝文档转换增强您的 .NET 应用程序。
-type: docs
 weight: 20
 url: /zh/net/convert-files-to-pdf/convert-fods-to-pdf/
 ---

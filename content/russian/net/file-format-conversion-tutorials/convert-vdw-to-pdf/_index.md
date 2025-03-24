@@ -3,9 +3,8 @@ title: Конвертировать VDW в PDF
 linktitle: Конвертировать VDW в PDF
 second_title: GroupDocs.Conversion .NET API
 description: Узнайте, как конвертировать VDW в PDF с помощью GroupDocs.Conversion для .NET. Следуйте нашему пошаговому руководству для бесшовной интеграции.
-type: docs
 weight: 24
-url: /ru/net/file-format-conversion-tutorials/convert-vdw-to-pdf/
+url: /ru/net/file-format-conversion-convert-vdw-to-pdf/
 ---
 ## Введение
 GroupDocs.Conversion для .NET — это мощная библиотека преобразования документов, которая позволяет разработчикам легко преобразовывать различные форматы файлов в PDF и другие поддерживаемые форматы. В этом руководстве мы сосредоточимся на преобразовании файлов VDW (веб-рисунков Visio) в формат PDF с помощью GroupDocs.Conversion для .NET.
@@ -59,7 +58,7 @@ Console.WriteLine("\nConversion to PDF completed successfully. \nCheck output in
 ### Доступна ли пробная версия GroupDocs.Conversion для .NET?
 Да, вы можете получить бесплатную пробную версию на сайте[Веб-сайт](https://releases.groupdocs.com/).
 ### Где я могу найти документацию по GroupDocs.Conversion для .NET?
- Подробная документация доступна[здесь](https://reference.groupdocs.com/conversion/net/).
+ Подробная документация доступна[здесь](https://tutorials.groupdocs.com/conversion/net/).
 ### Как получить временную лицензию на GroupDocs.Conversion для .NET?
  Вы можете получить временную лицензию в[страница покупки](https://purchase.groupdocs.com/temporary-license/).
 ### Где я могу получить поддержку GroupDocs.Conversion для .NET?

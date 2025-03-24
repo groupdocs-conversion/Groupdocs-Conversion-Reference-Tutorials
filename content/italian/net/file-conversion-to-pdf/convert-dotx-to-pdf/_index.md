@@ -3,7 +3,6 @@ title: Converti modelli Word DOTX in PDF
 linktitle: Converti modelli Word DOTX in PDF
 second_title: API GroupDocs.Conversion .NET
 description: Converti senza sforzo i modelli DOTX Word in PDF utilizzando GroupDocs.Conversion per .NET. Semplifica le attività di gestione dei documenti.
-type: docs
 weight: 27
 url: /it/net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---

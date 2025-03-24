@@ -3,7 +3,6 @@ title: 將 VSTX 轉換為 PDF
 linktitle: 將 VSTX 轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 了解如何使用 GroupDocs.Conversion for .NET 將 VSTX 檔案轉換為 PDF 格式。無縫文件管理的簡單步驟。
-type: docs
 weight: 15
 url: /zh-hant/net/converting-file-types-to-pdf/convert-vstx-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: Konversikan File CAD DWF ke PDF
 linktitle: Konversikan File CAD DWF ke PDF
 second_title: GroupDocs.Konversi .NET API
 description: Pelajari cara mengonversi file DWF CAD ke PDF dengan mudah menggunakan GroupDocs.Conversion untuk .NET. Ikuti langkah demi langkah kami untuk integrasi ke dalam aplikasi .NET Anda.
-type: docs
 weight: 28
 url: /id/net/file-conversion-to-pdf/convert-dwf-to-pdf/
 ---
@@ -16,7 +15,7 @@ Pastikan Anda telah menginstal Visual Studio di sistem Anda. Anda dapat mengundu
 ### GroupDocs.Conversion untuk Perpustakaan .NET
  Unduh dan instal pustaka GroupDocs.Conversion untuk .NET dari[situs web](https://releases.groupdocs.com/conversion/net/). Ikuti petunjuk instalasi yang disediakan dalam dokumentasi.
 ### Akses ke GroupDocs.Dokumentasi Konversi
- Untuk referensi dan informasi rinci tentang GroupDocs.Conversion untuk .NET, lihat[dokumentasi](https://reference.groupdocs.com/conversion/net/).
+ Untuk referensi dan informasi rinci tentang GroupDocs.Conversion untuk .NET, lihat[dokumentasi](https://tutorials.groupdocs.com/conversion/net/).
 ### Lisensi Sementara (Opsional)
  Jika Anda tidak mempunyai izin tetap, Anda dapat memperoleh izin sementara dari[Di Sini](https://purchase.groupdocs.com/temporary-license/).
 

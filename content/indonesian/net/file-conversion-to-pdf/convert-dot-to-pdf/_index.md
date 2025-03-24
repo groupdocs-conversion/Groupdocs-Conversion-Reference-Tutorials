@@ -3,7 +3,6 @@ title: Konversi Templat Word DOT ke PDF
 linktitle: Konversi Templat Word DOT ke PDF
 second_title: GroupDocs.Konversi .NET API
 description: Pelajari cara mudah mengonversi file DOT (Word Template) ke PDF di .NET menggunakan GroupDocs.Conversion untuk integrasi yang lancar ke dalam aplikasi Anda.
-type: docs
 weight: 26
 url: /id/net/file-conversion-to-pdf/convert-dot-to-pdf/
 ---

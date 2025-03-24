@@ -3,7 +3,6 @@ title: Μετατροπή WMZ σε PDF
 linktitle: Μετατροπή WMZ σε PDF
 second_title: GroupDocs.Conversion .NET API
 description: Μάθετε πώς να μετατρέπετε εύκολα αρχεία WMZ σε PDF χρησιμοποιώντας το GroupDocs.Conversion για .NET. Βελτιώστε τη διαλειτουργικότητα του εγγράφου σας.
-type: docs
 weight: 20
 url: /el/net/converting-file-types-to-pdf/convert-wmz-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: DOT Word 템플릿을 PDF로 변환
 linktitle: DOT Word 템플릿을 PDF로 변환
 second_title: GroupDocs.Conversion .NET API
 description: 응용 프로그램에 원활하게 통합하기 위해 GroupDocs.Conversion을 사용하여 .NET에서 DOT(Word 템플릿) 파일을 PDF로 쉽게 변환하는 방법을 알아보세요.
-type: docs
 weight: 26
 url: /ko/net/file-conversion-to-pdf/convert-dot-to-pdf/
 ---

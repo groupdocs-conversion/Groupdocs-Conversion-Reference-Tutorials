@@ -3,7 +3,6 @@ title: VSX'i PDF'ye dönüştürün
 linktitle: VSX'i PDF'ye dönüştürün
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET'i kullanarak VSX dosyalarını zahmetsizce PDF formatına nasıl dönüştüreceğinizi öğrenin. Adım adım eğitimimizi takip edin.
-type: docs
 weight: 16
 url: /tr/net/converting-file-types-to-pdf/convert-vsx-to-pdf/
 ---
@@ -12,7 +11,7 @@ Yazılım geliştirme dünyasında dosyaları bir formattan diğerine dönüşt�
 ## Önkoşullar
 GroupDocs.Conversion for .NET'i kullanarak VSX'i PDF'ye nasıl dönüştüreceğinize ilişkin eğitime dalmadan önce, mevcut olduğundan emin olmanız gereken birkaç önkoşul vardır:
 ### 1. .NET için GroupDocs.Conversion'ı yükleyin
- Öncelikle geliştirme ortamınızda GroupDocs.Conversion for .NET'in kurulu olması gerekir. Kütüphaneyi web sitesinden indirebilirsiniz[Burada](https://releases.groupdocs.com/conversion/net/) ve belgelerde verilen kurulum talimatlarını izleyin[Burada](https://reference.groupdocs.com/conversion/net/).
+ Öncelikle geliştirme ortamınızda GroupDocs.Conversion for .NET'in kurulu olması gerekir. Kütüphaneyi web sitesinden indirebilirsiniz[Burada](https://releases.groupdocs.com/conversion/net/) ve belgelerde verilen kurulum talimatlarını izleyin[Burada](https://tutorials.groupdocs.com/conversion/net/).
 ### 2. Lisans Alın (İsteğe Bağlı)
  GroupDocs.Conversion for .NET, değerlendirme modunda lisans olmadan kullanılabilirken, üretim kullanımı için lisans alınması önerilir. Lisans satın alabilirsiniz[Burada](https://purchase.groupdocs.com/buy) veya geçici lisans isteyin[Burada](https://purchase.groupdocs.com/temporary-license/)test amaçlı.
 ### 3. C# Programlamaya aşinalık

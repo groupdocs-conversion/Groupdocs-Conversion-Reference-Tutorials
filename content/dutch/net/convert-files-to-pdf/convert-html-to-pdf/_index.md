@@ -3,7 +3,6 @@ title: Converteer HTML-webpagina's naar PDF
 linktitle: Converteer HTML-webpagina's naar PDF
 second_title: GroupDocs.Conversion .NET API
 description: Converteer HTML-webpagina's moeiteloos naar PDF-indeling met GroupDocs.Conversion voor .NET. Volg onze stapsgewijze handleiding voor een naadloze conversie van documentformaten.
-type: docs
 weight: 22
 url: /nl/net/convert-files-to-pdf/convert-html-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: Converti PLT in PDF
 linktitle: Converti PLT in PDF
 second_title: API GroupDocs.Conversion .NET
 description: Converti file PLT in PDF senza problemi utilizzando GroupDocs.Conversion per .NET. Integra facilmente la funzionalità di conversione dei documenti nelle tue applicazioni .NET.
-type: docs
 weight: 19
 url: /it/net/pdf-conversion/convert-plt-to-pdf/
 ---

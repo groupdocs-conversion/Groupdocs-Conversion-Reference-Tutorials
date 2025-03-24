@@ -3,7 +3,6 @@ title: डीएनजी छवियों को पीडीएफ में
 linktitle: डीएनजी छवियों को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से DNG छवियों को PDF में परिवर्तित करना सीखें। निर्बाध रूपांतरण के लिए हमारी चरण-दर-चरण मार्गदर्शिका का पालन करें।
-type: docs
 weight: 21
 url: /hi/net/file-conversion-to-pdf/convert-dng-to-pdf/
 ---

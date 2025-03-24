@@ -3,7 +3,6 @@ title: PCL'yi PDF'ye dönüştür
 linktitle: PCL'yi PDF'ye dönüştür
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET'i kullanarak PCL dosyalarını zahmetsizce PDF'ye nasıl dönüştüreceğinizi öğrenin. Adım adım kılavuzumuzu takip edin.
-type: docs
 weight: 18
 url: /tr/net/pdf-conversion/convert-pcl-to-pdf/
 ---

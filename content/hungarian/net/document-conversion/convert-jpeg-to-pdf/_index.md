@@ -3,7 +3,6 @@ title: JPEG konvertálása PDF-be
 linktitle: JPEG konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion for .NET segítségével zökkenőmentesen konvertálja a JPEG-et PDF-be. Kövesse lépésenkénti útmutatónkat a hatékony fájlformátum-átalakításhoz.
-type: docs
 weight: 12
 url: /hu/net/document-conversion/convert-jpeg-to-pdf/
 ---

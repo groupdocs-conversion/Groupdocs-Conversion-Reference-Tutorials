@@ -3,9 +3,8 @@ title: TIFF को पीडीएफ में बदलें
 linktitle: TIFF को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके TIFF को आसानी से PDF में बदलने का तरीका जानें। सरल, कुशल और निर्बाध दस्तावेज़ रूपांतरण समाधान।
-type: docs
 weight: 19
-url: /hi/net/file-format-conversion-tutorials/convert-tiff-to-pdf/
+url: /hi/net/file-format-conversion-convert-tiff-to-pdf/
 ---
 ## परिचय
 

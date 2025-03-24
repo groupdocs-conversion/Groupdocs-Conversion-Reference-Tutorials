@@ -3,7 +3,6 @@ title: PNG konvertálása PDF-be
 linktitle: PNG konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálhat PNG képeket PDF dokumentumokká a GroupDocs.Conversion for .NET segítségével. Egyszerű lépések a zökkenőmentes fájlformátum-átalakításhoz.
-type: docs
 weight: 20
 url: /hu/net/pdf-conversion/convert-png-to-pdf/
 ---
@@ -62,7 +61,7 @@ Ez az üzenet biztosítja, hogy a felhasználó tudja, hol találja a konvertál
 Összefoglalva, a GroupDocs.Conversion for .NET egy egyszerű, de hatékony megoldást kínál a PNG-képek zökkenőmentes PDF-dokumentummá konvertálására. Az ebben az oktatóanyagban vázolt lépések követésével könnyedén, hatékonyan konvertálhatja PNG-fájljait PDF formátumba, így a dokumentumok kezelésének és megosztásának lehetőségeinek világa nyílik meg.
 ## GYIK
 ### A GroupDocs.Conversion kompatibilis a PNG és PDF mellett más fájlformátumokkal is?
- Igen, a GroupDocs.Conversion a fájlformátumok széles skáláját támogatja a konvertáláshoz, beleértve a DOCX, XLSX, PPTX, JPG, TIFF és egyebeket. Utal[dokumentáció](https://reference.groupdocs.com/conversion/net/) a támogatott formátumok teljes listájához.
+ Igen, a GroupDocs.Conversion a fájlformátumok széles skáláját támogatja a konvertáláshoz, beleértve a DOCX, XLSX, PPTX, JPG, TIFF és egyebeket. Utal[dokumentáció](https://tutorials.groupdocs.com/conversion/net/) a támogatott formátumok teljes listájához.
 ### Testreszabhatom a konverziós beállításokat sajátos igényeim szerint?
 Teljesen! A GroupDocs.Conversion kiterjedt testreszabási lehetőségeket kínál, lehetővé téve a konverziós folyamat testreszabását az Ön igényeinek megfelelően. Beállíthatja az olyan paramétereket, mint az oldal mérete, tájolása, minősége stb.
 ### Alkalmas-e a GroupDocs.Conversion nagyszabású dokumentumkonverziós feladatokra?

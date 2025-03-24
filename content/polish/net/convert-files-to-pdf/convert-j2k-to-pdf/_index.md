@@ -3,7 +3,6 @@ title: Konwertuj obrazy J2K JPEG 2000 na format PDF
 linktitle: Konwertuj obrazy J2K JPEG 2000 na format PDF
 second_title: GroupDocs.Conversion API .NET
 description: Dowiedz się, jak bez wysiłku konwertować obrazy J2K (JPEG 2000) do formatu PDF za pomocą GroupDocs.Conversion dla .NET. W zestawie tutorial krok po kroku.
-type: docs
 weight: 28
 url: /pl/net/convert-files-to-pdf/convert-j2k-to-pdf/
 ---

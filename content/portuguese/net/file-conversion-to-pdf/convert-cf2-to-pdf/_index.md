@@ -3,7 +3,6 @@ title: Converter CF2 em PDF
 linktitle: Converter CF2 em PDF
 second_title: API GroupDocs.Conversion .NET
 description: Aprenda como converter arquivos CF2 em PDF em .NET usando GroupDocs.Conversion. Simplifique suas tarefas de gerenciamento de documentos sem esforço.
-type: docs
 weight: 13
 url: /pt/net/file-conversion-to-pdf/convert-cf2-to-pdf/
 ---

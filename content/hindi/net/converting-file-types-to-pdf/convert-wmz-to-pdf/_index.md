@@ -3,7 +3,6 @@ title: WMZ को पीडीएफ में बदलें
 linktitle: WMZ को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से WMZ फ़ाइलों को PDF में परिवर्तित करना सीखें। अपने दस्तावेज़ की अंतरसंचालनीयता बढ़ाएँ।
-type: docs
 weight: 20
 url: /hi/net/converting-file-types-to-pdf/convert-wmz-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: Chuyển WMF sang PDF
 linktitle: Chuyển WMF sang PDF
 second_title: API GroupDocs.Conversion .NET
 description: Tìm hiểu cách chuyển đổi dễ dàng các tệp WMF sang PDF bằng GroupDocs.Conversion for .NET. Thực hiện theo hướng dẫn từng bước của chúng tôi.
-type: docs
 weight: 19
 url: /vi/net/converting-file-types-to-pdf/convert-wmf-to-pdf/
 ---

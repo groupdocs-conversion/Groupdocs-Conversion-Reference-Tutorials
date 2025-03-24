@@ -3,7 +3,6 @@ title: A DNG-képek konvertálása PDF-be
 linktitle: A DNG-képek konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Tanulja meg, hogyan konvertálhat könnyedén DNG-képeket PDF-be a GroupDocs.Conversion for .NET segítségével. Kövesse lépésenkénti útmutatónkat a zökkenőmentes átalakítás érdekében.
-type: docs
 weight: 21
 url: /hu/net/file-conversion-to-pdf/convert-dng-to-pdf/
 ---

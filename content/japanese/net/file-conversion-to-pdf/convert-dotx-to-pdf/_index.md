@@ -3,7 +3,6 @@ title: DOTX Word テンプレートを PDF に変換
 linktitle: DOTX Word テンプレートを PDF に変換
 second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion for .NET を使用して、DOTX Word テンプレートを PDF に簡単に変換します。ドキュメント管理タスクを簡素化します。
-type: docs
 weight: 27
 url: /ja/net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---

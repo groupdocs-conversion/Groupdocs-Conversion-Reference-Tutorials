@@ -3,7 +3,6 @@ title: Converti eBook EPUB in PDF
 linktitle: Converti eBook EPUB in PDF
 second_title: API GroupDocs.Conversion .NET
 description: Converti facilmente eBook EPUB in formato PDF utilizzando GroupDocs.Conversion per .NET. Garantisci compatibilità e accessibilità su tutte le piattaforme.
-type: docs
 weight: 18
 url: /it/net/convert-files-to-pdf/convert-epub-to-pdf/
 ---

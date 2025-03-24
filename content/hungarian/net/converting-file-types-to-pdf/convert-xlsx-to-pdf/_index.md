@@ -3,7 +3,6 @@ title: Az XLSX konvertálása PDF-be
 linktitle: Az XLSX konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálhat XLSX fájlokat PDF formátumba a GroupDocs.Conversion könyvtár segítségével a .NET-hez. Zökkenőmentes integráció, testreszabható lehetőségek és kifogástalan eredmények.
-type: docs
 weight: 25
 url: /hu/net/converting-file-types-to-pdf/convert-xlsx-to-pdf/
 ---

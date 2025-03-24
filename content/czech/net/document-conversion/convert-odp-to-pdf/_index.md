@@ -3,7 +3,6 @@ title: Převést ODP do PDF
 linktitle: Převést ODP do PDF
 second_title: GroupDocs.Conversion .NET API
 description: Naučte se, jak převést ODP do PDF pomocí GroupDocs.Conversion for .NET. Postupujte podle našeho podrobného průvodce pro bezproblémový převod dokumentů.
-type: docs
 weight: 28
 url: /cs/net/document-conversion/convert-odp-to-pdf/
 ---

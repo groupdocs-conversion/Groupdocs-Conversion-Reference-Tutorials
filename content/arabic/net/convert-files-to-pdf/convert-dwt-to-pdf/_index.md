@@ -3,7 +3,6 @@ title: تحويل ملفات قالب DWT CAD إلى PDF
 linktitle: تحويل ملفات قالب DWT CAD إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: تعرف على كيفية تحويل ملفات قالب DWT CAD إلى تنسيق PDF بسهولة باستخدام GroupDocs.Conversion for .NET.
-type: docs
 weight: 11
 url: /ar/net/convert-files-to-pdf/convert-dwt-to-pdf/
 ---

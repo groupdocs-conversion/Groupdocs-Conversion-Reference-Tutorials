@@ -3,7 +3,6 @@ title: GIF-képek konvertálása PDF-be
 linktitle: GIF-képek konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálhat GIF-képeket PDF-fájlokká a GroupDocs.Conversion for .NET segítségével. Növelje a termelékenységet ezzel a zökkenőmentes megoldással.
-type: docs
 weight: 21
 url: /hu/net/convert-files-to-pdf/convert-gif-to-pdf/
 ---

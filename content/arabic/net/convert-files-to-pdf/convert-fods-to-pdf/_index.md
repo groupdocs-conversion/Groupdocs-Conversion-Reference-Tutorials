@@ -3,7 +3,6 @@ title: تحويل جداول بيانات FODS OpenDocument إلى PDF
 linktitle: تحويل جداول بيانات FODS OpenDocument إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: قم بتحويل جداول بيانات FODS OpenDocument بسهولة إلى ملفات PDF باستخدام GroupDocs.Conversion for .NET. قم بتحسين تطبيقات .NET الخاصة بك من خلال التحويل السلس للمستندات.
-type: docs
 weight: 20
 url: /ar/net/convert-files-to-pdf/convert-fods-to-pdf/
 ---

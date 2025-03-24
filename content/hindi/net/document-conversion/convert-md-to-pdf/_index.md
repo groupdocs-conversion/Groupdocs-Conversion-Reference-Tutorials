@@ -3,7 +3,6 @@ title: एमडी को पीडीएफ में बदलें
 linktitle: एमडी को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके मार्कडाउन फ़ाइलों को आसानी से पीडीएफ में परिवर्तित करें। अपने दस्तावेज़ वर्कफ़्लो को सुव्यवस्थित करें।
-type: docs
 weight: 19
 url: /hi/net/document-conversion/convert-md-to-pdf/
 ---

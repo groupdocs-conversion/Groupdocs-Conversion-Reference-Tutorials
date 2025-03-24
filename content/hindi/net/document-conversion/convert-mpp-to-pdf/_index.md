@@ -3,7 +3,6 @@ title: एमपीपी को पीडीएफ में बदलें
 linktitle: एमपीपी को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके C# में MPP फ़ाइलों को PDF में कनवर्ट करना सीखें। अपने .NET अनुप्रयोगों में एकीकरण के लिए इस चरण-दर-चरण ट्यूटोरियल का पालन करें।
-type: docs
 weight: 23
 url: /hi/net/document-conversion/convert-mpp-to-pdf/
 ---

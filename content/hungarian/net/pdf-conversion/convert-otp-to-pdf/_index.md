@@ -3,7 +3,6 @@ title: Az OTP konvertálása PDF-be
 linktitle: Az OTP konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálhat OTP fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Egyszerűsítse munkafolyamatait ezzel az intuitív fájlkonverziós eszközzel.
-type: docs
 weight: 14
 url: /hu/net/pdf-conversion/convert-otp-to-pdf/
 ---

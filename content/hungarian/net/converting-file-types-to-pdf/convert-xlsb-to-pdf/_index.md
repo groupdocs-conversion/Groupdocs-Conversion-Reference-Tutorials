@@ -3,7 +3,6 @@ title: Konvertálja az XLSB-t PDF-be
 linktitle: Konvertálja az XLSB-t PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Tanulja meg, hogyan konvertálhat XLSB fájlokat könnyedén PDF formátumba a GroupDocs.Conversion for .NET segítségével. Kövesse lépésenkénti útmutatónkat.
-type: docs
 weight: 22
 url: /hu/net/converting-file-types-to-pdf/convert-xlsb-to-pdf/
 ---

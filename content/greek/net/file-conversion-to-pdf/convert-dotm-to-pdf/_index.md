@@ -3,7 +3,6 @@ title: Μετατροπή DOTM Word Templates (Macros) σε PDF
 linktitle: Μετατροπή DOTM Word Templates (Macros) σε PDF
 second_title: GroupDocs.Conversion .NET API
 description: Μετατρέψτε τα πρότυπα DOTM Word που περιέχουν μακροεντολές σε PDF χωρίς κόπο χρησιμοποιώντας το GroupDocs.Conversion για .NET. Εξασφαλίστε συμβατότητα και ασφάλεια με απλά βήματα.
-type: docs
 weight: 25
 url: /el/net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---

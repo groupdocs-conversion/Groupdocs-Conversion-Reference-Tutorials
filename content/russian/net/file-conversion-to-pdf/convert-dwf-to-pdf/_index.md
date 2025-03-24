@@ -3,7 +3,6 @@ title: Преобразование файлов DWF CAD в PDF
 linktitle: Преобразование файлов DWF CAD в PDF
 second_title: GroupDocs.Conversion .NET API
 description: Узнайте, как легко конвертировать файлы САПР DWF в PDF с помощью GroupDocs.Conversion для .NET. Следуйте нашим пошаговым инструкциям по интеграции в ваши приложения .NET.
-type: docs
 weight: 28
 url: /ru/net/file-conversion-to-pdf/convert-dwf-to-pdf/
 ---
@@ -16,7 +15,7 @@ url: /ru/net/file-conversion-to-pdf/convert-dwf-to-pdf/
 ### GroupDocs.Conversion для библиотеки .NET
  Загрузите и установите библиотеку GroupDocs.Conversion для .NET с сайта[Веб-сайт](https://releases.groupdocs.com/conversion/net/). Следуйте инструкциям по установке, приведенным в документации.
 ### Доступ к документации GroupDocs.Conversion
- Справочную и подробную информацию о GroupDocs.Conversion для .NET см.[документация](https://reference.groupdocs.com/conversion/net/).
+ Справочную и подробную информацию о GroupDocs.Conversion для .NET см.[документация](https://tutorials.groupdocs.com/conversion/net/).
 ### Временная лицензия (необязательно)
  Если у вас нет постоянной лицензии, вы можете получить временную лицензию на сайте[здесь](https://purchase.groupdocs.com/temporary-license/).
 

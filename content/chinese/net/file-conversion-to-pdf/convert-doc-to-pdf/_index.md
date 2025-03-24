@@ -3,7 +3,6 @@ title: 将 DOC Word 文档转换为 PDF
 linktitle: 将 DOC Word 文档转换为 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 轻松将 DOC Word 文档转换为 PDF。请按照我们的分步指南进行无缝文档转换。
-type: docs
 weight: 23
 url: /zh/net/file-conversion-to-pdf/convert-doc-to-pdf/
 ---

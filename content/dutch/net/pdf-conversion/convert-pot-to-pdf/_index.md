@@ -3,7 +3,6 @@ title: Converteer POT naar PDF
 linktitle: Converteer POT naar PDF
 second_title: GroupDocs.Conversion .NET API
 description: Leer hoe u POT-bestanden moeiteloos naar PDF kunt converteren met Groupdocs.Conversion voor .NET. Stroomlijn uw documentconversietaken met deze eenvoudig te volgen handleiding.
-type: docs
 weight: 22
 url: /nl/net/pdf-conversion/convert-pot-to-pdf/
 ---
@@ -62,6 +61,6 @@ Ja, de bibliotheek ondersteunt batchconversie van meerdere bestanden tegelijk.
 ### Hoe kan ik een tijdelijke licentie verkrijgen voor Groupdocs.Conversion voor .NET?
  Een tijdelijke licentie kunt u verkrijgen bij[hier](https://purchase.groupdocs.com/temporary-license/).
 ### Waar kan ik documentatie vinden voor Groupdocs.Conversion voor .NET?
- Gedetailleerde documentatie is beschikbaar[hier](https://reference.groupdocs.com/conversion/net/).
+ Gedetailleerde documentatie is beschikbaar[hier](https://tutorials.groupdocs.com/conversion/net/).
 ### Waar kan ik ondersteuning zoeken of vragen stellen met betrekking tot Groupdocs.Conversion voor .NET?
  U kunt het ondersteuningsforum bezoeken[hier](https://forum.groupdocs.com/c/conversion/11) Voor assistentie.

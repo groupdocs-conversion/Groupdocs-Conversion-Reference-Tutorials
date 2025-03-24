@@ -3,7 +3,6 @@ title: PPTM'yi PDF'ye dönüştür
 linktitle: PPTM'yi PDF'ye dönüştür
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET'i kullanarak PPTM dosyalarını zahmetsizce PDF formatına dönüştürün. Belge yönetimi iş akışlarını kolaylıkla kolaylaştırın.
-type: docs
 weight: 27
 url: /tr/net/pdf-conversion/convert-pptm-to-pdf/
 ---

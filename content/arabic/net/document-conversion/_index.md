@@ -3,7 +3,6 @@ title: تحويل الوثيقة
 linktitle: تحويل الوثيقة
 second_title: GroupDocs.Conversion .NET API
 description: قم بتحويل تنسيقات الملفات المختلفة بسهولة إلى PDF باستخدام GroupDocs.Conversion لبرامج .NET التعليمية. تعزيز إدارة المستندات بسلاسة.
-type: docs
 weight: 23
 url: /ar/net/document-conversion/
 ---

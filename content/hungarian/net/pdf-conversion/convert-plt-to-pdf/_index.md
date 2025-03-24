@@ -3,7 +3,6 @@ title: PLT konvertálása PDF-be
 linktitle: PLT konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion for .NET segítségével zökkenőmentesen konvertálja a PLT-fájlokat PDF-be. Könnyedén integrálhatja a dokumentumkonverziós funkciókat .NET-alkalmazásaiba.
-type: docs
 weight: 19
 url: /hu/net/pdf-conversion/convert-plt-to-pdf/
 ---

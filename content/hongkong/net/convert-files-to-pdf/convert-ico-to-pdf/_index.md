@@ -3,7 +3,6 @@ title: 將 ICO 圖示轉換為 PDF
 linktitle: 將 ICO 圖示轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 輕鬆將 ICO 圖示轉換為 PDF。透過本教程中概述的簡單步驟來提高工作效率。
-type: docs
 weight: 24
 url: /zh-hant/net/convert-files-to-pdf/convert-ico-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: Конвертировать XML в PDF
 linktitle: Конвертировать XML в PDF
 second_title: GroupDocs.Conversion .NET API
 description: Узнайте, как легко конвертировать XML-файлы в PDF с помощью GroupDocs.Conversion для .NET. Повысьте эффективность управления документами.
-type: docs
 weight: 29
 url: /ru/net/converting-file-types-to-pdf/convert-xml-to-pdf/
 ---

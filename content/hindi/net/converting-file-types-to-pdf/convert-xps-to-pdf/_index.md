@@ -3,7 +3,6 @@ title: एक्सपीएस को पीडीएफ में बदले
 linktitle: एक्सपीएस को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके XPS फ़ाइलों को PDF में परिवर्तित करना सीखें। निर्बाध दस्तावेज़ प्रारूप रूपांतरण के लिए सरल चरण।
-type: docs
 weight: 30
 url: /hi/net/converting-file-types-to-pdf/convert-xps-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: Conversion de format de fichier
 linktitle: Conversion de format de fichier
 second_title: API GroupDocs.Conversion .NET
 description: Convertissez sans effort divers formats de fichiers en PDF à l'aide de GroupDocs.Conversion pour .NET. Augmentez la productivité avec des guides étape par étape et une intégration transparente.
-type: docs
 weight: 21
 url: /fr/net/file-format-conversion-tutorials/
 ---

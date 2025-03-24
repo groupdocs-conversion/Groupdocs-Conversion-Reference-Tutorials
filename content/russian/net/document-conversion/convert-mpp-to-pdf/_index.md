@@ -3,7 +3,6 @@ title: Конвертировать MPP в PDF
 linktitle: Конвертировать MPP в PDF
 second_title: GroupDocs.Conversion .NET API
 description: Узнайте, как преобразовать файлы MPP в PDF на C# с помощью GroupDocs.Conversion для .NET. Следуйте этому пошаговому руководству для интеграции в ваши приложения .NET.
-type: docs
 weight: 23
 url: /ru/net/document-conversion/convert-mpp-to-pdf/
 ---

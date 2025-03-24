@@ -3,7 +3,6 @@ title: Konversikan Ikon ICO ke PDF
 linktitle: Konversikan Ikon ICO ke PDF
 second_title: GroupDocs.Konversi .NET API
 description: Konversi ikon ICO ke PDF dengan mudah menggunakan GroupDocs.Conversion untuk .NET. Tingkatkan produktivitas dengan langkah-langkah sederhana yang diuraikan dalam tutorial ini.
-type: docs
 weight: 24
 url: /id/net/convert-files-to-pdf/convert-ico-to-pdf/
 ---

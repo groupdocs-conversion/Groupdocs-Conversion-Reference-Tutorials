@@ -3,7 +3,6 @@ title: Chuyển đổi OG sang PDF
 linktitle: Chuyển đổi OG sang PDF
 second_title: API GroupDocs.Conversion .NET
 description: Tìm hiểu cách chuyển đổi tệpOTG sang PDF bằng GroupDocs.Conversion for .NET. Tích hợp đơn giản, hiệu quả và liền mạch cho các dự án của bạn.
-type: docs
 weight: 13
 url: /vi/net/pdf-conversion/convert-otg-to-pdf/
 ---

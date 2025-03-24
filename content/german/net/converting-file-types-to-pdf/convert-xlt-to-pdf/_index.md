@@ -3,7 +3,6 @@ title: Konvertieren Sie XLT in PDF
 linktitle: Konvertieren Sie XLT in PDF
 second_title: GroupDocs.Conversion .NET-API
 description: Erfahren Sie, wie Sie XLT-Dateien mit GroupDocs.Conversion für .NET mühelos in das PDF-Format konvertieren. Vereinfachen Sie Ihre Dokumentkonvertierungsaufgaben mit diesem umfassenden Tutorial.
-type: docs
 weight: 27
 url: /de/net/converting-file-types-to-pdf/convert-xlt-to-pdf/
 ---

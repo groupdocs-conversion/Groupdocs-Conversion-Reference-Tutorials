@@ -3,7 +3,6 @@ title: Converter VSSM em PDF
 linktitle: Converter VSSM em PDF
 second_title: API GroupDocs.Conversion .NET
 description: Aprenda como converter arquivos VSSM em PDF usando GroupDocs.Conversion for .NET. Tutorial fácil de seguir com instruções passo a passo.
-type: docs
 weight: 10
 url: /pt/net/converting-file-types-to-pdf/convert-vssm-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: Конвертировать ЖУРНАЛ в PDF
 linktitle: Конвертировать ЖУРНАЛ в PDF
 second_title: GroupDocs.Conversion .NET API
 description: Легко конвертируйте файлы LOG в формат PDF в приложениях .NET с помощью GroupDocs.Conversion для .NET. Следуйте нашему пошаговому руководству по конвертации документов.
-type: docs
 weight: 17
 url: /ru/net/document-conversion/convert-log-to-pdf/
 ---

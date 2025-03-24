@@ -3,7 +3,6 @@ title: Конвертировать векторную графику CGM в PDF
 linktitle: Конвертировать векторную графику CGM в PDF
 second_title: GroupDocs.Conversion .NET API
 description: Узнайте, как легко конвертировать векторную графику CGM в PDF с помощью GroupDocs.Conversion для .NET. Следуйте нашему пошаговому руководству.
-type: docs
 weight: 14
 url: /ru/net/file-conversion-to-pdf/convert-cgm-to-pdf/
 ---

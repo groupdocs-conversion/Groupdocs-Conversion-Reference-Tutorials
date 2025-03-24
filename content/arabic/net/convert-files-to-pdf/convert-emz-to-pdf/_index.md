@@ -3,7 +3,6 @@ title: تحويل ملفات التعريف المحسنة EMZ إلى PDF
 linktitle: تحويل ملفات التعريف المحسنة EMZ إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: قم بتحويل ملفات EMZ إلى PDF بسهولة باستخدام GroupDocs.Conversion for .NET. تبسيط مهام تحويل الملفات الخاصة بك.
-type: docs
 weight: 16
 url: /ar/net/convert-files-to-pdf/convert-emz-to-pdf/
 ---

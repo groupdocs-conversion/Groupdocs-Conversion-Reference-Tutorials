@@ -3,7 +3,6 @@ title: แปลง XLAM เป็น PDF
 linktitle: แปลง XLAM เป็น PDF
 second_title: GroupDocs.Conversion .NET API
 description: เรียนรู้วิธีแปลงไฟล์ XLAM เป็น PDF ได้อย่างง่ายดายโดยใช้ GroupDocs.Conversion สำหรับ .NET ปฏิบัติตามบทช่วยสอนทีละขั้นตอนของเราเพื่อการแปลงเอกสารที่ราบรื่น
-type: docs
 weight: 21
 url: /th/net/converting-file-types-to-pdf/convert-xlam-to-pdf/
 ---

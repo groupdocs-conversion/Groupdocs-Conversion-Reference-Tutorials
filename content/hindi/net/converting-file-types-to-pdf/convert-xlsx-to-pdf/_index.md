@@ -3,7 +3,6 @@ title: XLSX को पीडीएफ में बदलें
 linktitle: XLSX को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion लाइब्रेरी का उपयोग करके आसानी से XLSX फ़ाइलों को PDF में कनवर्ट करें। निर्बाध एकीकरण, अनुकूलन योग्य विकल्प और त्रुटिहीन परिणाम।
-type: docs
 weight: 25
 url: /hi/net/converting-file-types-to-pdf/convert-xlsx-to-pdf/
 ---

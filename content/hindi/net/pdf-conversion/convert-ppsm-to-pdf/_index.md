@@ -3,7 +3,6 @@ title: पीपीएसएम को पीडीएफ में बदले
 linktitle: पीपीएसएम को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से PPSM फ़ाइलों को PDF में बदलें। रूपांतरण विकल्पों को अनुकूलित करें और अपने दस्तावेज़ों की पूरी क्षमता का उपयोग करें।
-type: docs
 weight: 24
 url: /hi/net/pdf-conversion/convert-ppsm-to-pdf/
 ---

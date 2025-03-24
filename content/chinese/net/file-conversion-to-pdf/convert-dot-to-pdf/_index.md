@@ -3,7 +3,6 @@ title: 将 DOT Word 模板转换为 PDF
 linktitle: 将 DOT Word 模板转换为 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 了解如何使用 GroupDocs.Conversion 轻松将 DOT（Word 模板）文件转换为 .NET 中的 PDF，以便无缝集成到您的应用程序中。
-type: docs
 weight: 26
 url: /zh/net/file-conversion-to-pdf/convert-dot-to-pdf/
 ---

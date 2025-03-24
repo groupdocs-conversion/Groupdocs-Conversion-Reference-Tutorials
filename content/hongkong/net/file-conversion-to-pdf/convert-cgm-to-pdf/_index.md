@@ -3,7 +3,6 @@ title: 將 CGM 向量圖形轉換為 PDF
 linktitle: 將 CGM 向量圖形轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 了解如何使用 GroupDocs.Conversion for .NET 將 CGM 向量圖形輕鬆轉換為 PDF。請按照我們的逐步教學進行操作。
-type: docs
 weight: 14
 url: /zh-hant/net/file-conversion-to-pdf/convert-cgm-to-pdf/
 ---

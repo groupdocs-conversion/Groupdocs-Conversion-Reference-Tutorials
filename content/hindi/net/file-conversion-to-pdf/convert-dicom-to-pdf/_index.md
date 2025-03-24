@@ -3,7 +3,6 @@ title: DICOM मेडिकल इमेज को पीडीएफ में
 linktitle: DICOM मेडिकल इमेज को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके DICOM मेडिकल छवियों को आसानी से पीडीएफ प्रारूप में परिवर्तित करें। लचीला, कुशल और अनुकूलन योग्य रूपांतरण समाधान।
-type: docs
 weight: 19
 url: /hi/net/file-conversion-to-pdf/convert-dicom-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: Převeďte webové stránky HTM do formátu PDF
 linktitle: Převeďte webové stránky HTM do formátu PDF
 second_title: GroupDocs.Conversion .NET API
 description: Bez námahy převádějte webové stránky HTM do PDF pomocí GroupDocs.Conversion for .NET. Postupujte podle našeho podrobného průvodce pro bezproblémovou integraci do vašich aplikací .NET.
-type: docs
 weight: 23
 url: /cs/net/convert-files-to-pdf/convert-htm-to-pdf/
 ---

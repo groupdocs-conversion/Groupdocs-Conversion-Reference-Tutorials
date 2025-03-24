@@ -3,7 +3,6 @@ title: 文件轉換為 PDF
 linktitle: 文件轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 了解如何使用 GroupDocs.Conversion for .NET 輕鬆將各種文件格式轉換為 PDF。透過可自訂的選項增強文件管理。
-type: docs
 weight: 20
 url: /zh-hant/net/file-conversion-to-pdf/
 ---

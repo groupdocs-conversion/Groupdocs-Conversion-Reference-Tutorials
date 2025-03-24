@@ -3,7 +3,6 @@ title: Převod vektorové grafiky CGM do PDF
 linktitle: Převod vektorové grafiky CGM do PDF
 second_title: GroupDocs.Conversion .NET API
 description: Naučte se, jak převést vektorovou grafiku CGM do PDF bez námahy pomocí GroupDocs.Conversion for .NET. Postupujte podle našeho podrobného návodu.
-type: docs
 weight: 14
 url: /cs/net/file-conversion-to-pdf/convert-cgm-to-pdf/
 ---

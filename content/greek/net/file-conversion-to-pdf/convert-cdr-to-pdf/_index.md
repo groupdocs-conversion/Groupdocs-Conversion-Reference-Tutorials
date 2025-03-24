@@ -3,7 +3,6 @@ title: Μετατροπή διανυσματικών γραφικών CDR σε P
 linktitle: Μετατροπή διανυσματικών γραφικών CDR σε PDF
 second_title: GroupDocs.Conversion .NET API
 description: Μετατρέψτε εύκολα διανυσματικά αρχεία γραφικών CorelDRAW (CDR) σε μορφή PDF χρησιμοποιώντας το GroupDocs.Conversion για .NET. Βελτιώστε τη διαδικασία μετατροπής του εγγράφου σας.
-type: docs
 weight: 12
 url: /el/net/file-conversion-to-pdf/convert-cdr-to-pdf/
 ---

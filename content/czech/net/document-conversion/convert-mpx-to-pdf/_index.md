@@ -3,7 +3,6 @@ title: Převést MPX do PDF
 linktitle: Převést MPX do PDF
 second_title: GroupDocs.Conversion .NET API
 description: Naučte se, jak bez námahy převádět soubory MPX do formátu PDF pomocí GroupDocs.Conversion for .NET. Postupujte podle našeho podrobného průvodce.
-type: docs
 weight: 25
 url: /cs/net/document-conversion/convert-mpx-to-pdf/
 ---

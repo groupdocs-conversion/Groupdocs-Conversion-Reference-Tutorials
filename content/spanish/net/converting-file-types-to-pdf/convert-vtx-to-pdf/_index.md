@@ -3,7 +3,6 @@ title: Convertir VTX a PDF
 linktitle: Convertir VTX a PDF
 second_title: API GroupDocs.Conversión .NET
 description: Aprenda cómo convertir archivos VTX a PDF usando GroupDocs.Conversion para .NET. Guía paso a paso con ejemplos de código para una integración perfecta.
-type: docs
 weight: 17
 url: /es/net/converting-file-types-to-pdf/convert-vtx-to-pdf/
 ---
@@ -61,7 +60,7 @@ Sí, GroupDocs.Conversion para .NET admite una amplia gama de formatos de archiv
 ### ¿Existe una prueba gratuita disponible para GroupDocs.Conversion para .NET?
  Sí, puede aprovechar una prueba gratuita de GroupDocs.Conversion para .NET desde[sitio web](https://releases.groupdocs.com/).
 ### ¿Dónde puedo encontrar documentación para GroupDocs.Conversion para .NET?
- Puede encontrar documentación completa y referencias de API en[página de documentación](https://reference.groupdocs.com/conversion/net/).
+ Puede encontrar documentación completa y referencias de API en[página de documentación](https://tutorials.groupdocs.com/conversion/net/).
 ### ¿Cómo puedo obtener licencias temporales de GroupDocs.Conversion para .NET?
  Las licencias temporales se pueden obtener del[página de licencia temporal](https://purchase.groupdocs.com/temporary-license/).
 ### ¿Dónde puedo obtener soporte o hacer preguntas relacionadas con GroupDocs.Conversion para .NET?

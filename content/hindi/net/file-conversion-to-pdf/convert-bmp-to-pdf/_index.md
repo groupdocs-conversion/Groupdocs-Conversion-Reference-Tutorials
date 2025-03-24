@@ -3,7 +3,6 @@ title: बीएमपी छवियों को पीडीएफ में
 linktitle: बीएमपी छवियों को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके BMP छवियों को पीडीएफ में सहजता से परिवर्तित करें। इष्टतम आउटपुट के लिए अनुकूलन योग्य विकल्प।
-type: docs
 weight: 11
 url: /hi/net/file-conversion-to-pdf/convert-bmp-to-pdf/
 ---

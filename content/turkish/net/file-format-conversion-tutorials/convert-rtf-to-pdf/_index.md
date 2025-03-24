@@ -3,9 +3,8 @@ title: RTF'yi PDF'ye dönüştürün
 linktitle: RTF'yi PDF'ye dönüştürün
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET'i kullanarak RTF dosyalarını zahmetsizce PDF'ye dönüştürün. Entegrasyon için adım adım yönergelerimizi izleyin ve dosya dönüştürmenin gücünü açığa çıkarın.
-type: docs
 weight: 13
-url: /tr/net/file-format-conversion-tutorials/convert-rtf-to-pdf/
+url: /tr/net/file-format-conversion-convert-rtf-to-pdf/
 ---
 ## giriiş
 

@@ -3,9 +3,8 @@ title: आरटीएफ को पीडीएफ में बदलें
 linktitle: आरटीएफ को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से RTF फ़ाइलों को PDF में बदलें। एकीकरण के लिए हमारे चरण-दर-चरण का पालन करें और फ़ाइल रूपांतरण की शक्ति को उजागर करें।
-type: docs
 weight: 13
-url: /hi/net/file-format-conversion-tutorials/convert-rtf-to-pdf/
+url: /hi/net/file-format-conversion-convert-rtf-to-pdf/
 ---
 ## परिचय
 

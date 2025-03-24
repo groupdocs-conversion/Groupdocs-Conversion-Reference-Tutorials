@@ -3,7 +3,6 @@ title: एक को पीडीएफ में बदलें
 linktitle: एक को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से एक फ़ाइल को पीडीएफ प्रारूप में परिवर्तित करना सीखें। हमारे चरण-दर-चरण मार्गदर्शिका का पालन करें.
-type: docs
 weight: 11
 url: /hi/net/pdf-conversion/convert-one-to-pdf/
 ---

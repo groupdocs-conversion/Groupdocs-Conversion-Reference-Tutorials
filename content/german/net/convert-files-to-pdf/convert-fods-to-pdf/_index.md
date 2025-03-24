@@ -3,7 +3,6 @@ title: Konvertieren Sie FODS OpenDocument-Tabellen in PDF
 linktitle: Konvertieren Sie FODS OpenDocument-Tabellen in PDF
 second_title: GroupDocs.Conversion .NET-API
 description: Konvertieren Sie FODS OpenDocument-Tabellen mühelos in PDFs mit GroupDocs.Conversion für .NET. Erweitern Sie Ihre .NET-Anwendungen durch nahtlose Dokumentenkonvertierung.
-type: docs
 weight: 20
 url: /de/net/convert-files-to-pdf/convert-fods-to-pdf/
 ---

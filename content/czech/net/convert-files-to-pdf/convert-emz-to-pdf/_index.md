@@ -3,7 +3,6 @@ title: Převeďte EMZ Enhanced Metafiles do PDF
 linktitle: Převeďte EMZ Enhanced Metafiles do PDF
 second_title: GroupDocs.Conversion .NET API
 description: Bez námahy převádějte soubory EMZ do PDF pomocí GroupDocs.Conversion for .NET. Zjednodušte si úlohy převodu souborů.
-type: docs
 weight: 16
 url: /cs/net/convert-files-to-pdf/convert-emz-to-pdf/
 ---

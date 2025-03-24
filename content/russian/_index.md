@@ -3,7 +3,6 @@ title: Разблокируйте опыт GroupDocs.Conversion
 linktitle: Учебные пособия по GroupDocs.Conversion
 additionalTitle: Ссылки на API GroupDocs
 description: Откройте для себя возможности GroupDocs.Conversion с помощью наших руководств. Научитесь легко преобразовывать документы между форматами для плавной интеграции рабочих процессов.
-type: docs
 weight: 11
 url: /ru/
 is_root: true

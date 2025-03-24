@@ -3,7 +3,6 @@ title: Convertir tipos de archivos a PDF
 linktitle: Convertir tipos de archivos a PDF
 second_title: API GroupDocs.Conversión .NET
 description: Convierta sin esfuerzo varios tipos de archivos a PDF con GroupDocs.Conversion para .NET. Agilice su proceso de gestión de documentos. ¡Aprende más!
-type: docs
 weight: 24
 url: /es/net/converting-file-types-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: Konwertuj grafikę wektorową CGM na format PDF
 linktitle: Konwertuj grafikę wektorową CGM na format PDF
 second_title: GroupDocs.Conversion API .NET
 description: Dowiedz się, jak bez wysiłku konwertować grafikę wektorową CGM do formatu PDF za pomocą GroupDocs.Conversion dla .NET. Postępuj zgodnie z naszym samouczkiem krok po kroku.
-type: docs
 weight: 14
 url: /pl/net/file-conversion-to-pdf/convert-cgm-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: Převést XML do PDF
 linktitle: Převést XML do PDF
 second_title: GroupDocs.Conversion .NET API
 description: Naučte se, jak plynule převádět soubory XML do PDF pomocí GroupDocs.Conversion for .NET. Zvyšte efektivitu správy dokumentů.
-type: docs
 weight: 29
 url: /cs/net/converting-file-types-to-pdf/convert-xml-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: Convert DOTM Word Templates (Macros) to PDF
 linktitle: Convert DOTM Word Templates (Macros) to PDF
 second_title: GroupDocs.Conversion .NET API
 description: Convert DOTM Word templates containing macros to PDF effortlessly using GroupDocs.Conversion for .NET. Ensure compatibility and security with simple steps.
-type: docs
 weight: 25
 url: /net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---

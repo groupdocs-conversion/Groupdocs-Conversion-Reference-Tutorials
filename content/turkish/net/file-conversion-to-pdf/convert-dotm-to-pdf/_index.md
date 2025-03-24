@@ -3,7 +3,6 @@ title: DOTM Word Şablonlarını (Makrolar) PDF'ye Dönüştürün
 linktitle: DOTM Word Şablonlarını (Makrolar) PDF'ye Dönüştürün
 second_title: GroupDocs.Conversion .NET API'si
 description: Makro içeren DOTM Word şablonlarını GroupDocs.Conversion for .NET'i kullanarak zahmetsizce PDF'ye dönüştürün. Basit adımlarla uyumluluk ve güvenlik sağlayın.
-type: docs
 weight: 25
 url: /tr/net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---

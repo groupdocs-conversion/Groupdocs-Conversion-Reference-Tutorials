@@ -3,7 +3,6 @@ title: แปลงรูปภาพทางการแพทย์ DICOM เ
 linktitle: แปลงรูปภาพทางการแพทย์ DICOM เป็น PDF
 second_title: GroupDocs.Conversion .NET API
 description: แปลงรูปภาพทางการแพทย์ DICOM เป็นรูปแบบ PDF ได้อย่างง่ายดายโดยใช้ GroupDocs.Conversion สำหรับ .NET โซลูชันการแปลงที่ยืดหยุ่น มีประสิทธิภาพ และปรับแต่งได้
-type: docs
 weight: 19
 url: /th/net/file-conversion-to-pdf/convert-dicom-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: OXPS को पीडीएफ में बदलें
 linktitle: OXPS को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके OXPS फ़ाइलों को आसानी से पीडीएफ में बदलें। निर्बाध एकीकरण, लचीला अनुकूलन, और शीर्ष पायदान का समर्थन।
-type: docs
 weight: 17
 url: /hi/net/pdf-conversion/convert-oxps-to-pdf/
 ---

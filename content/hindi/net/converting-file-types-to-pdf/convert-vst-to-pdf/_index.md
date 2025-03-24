@@ -3,7 +3,6 @@ title: वीएसटी को पीडीएफ में बदलें
 linktitle: वीएसटी को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से VST फ़ाइलों को PDF में परिवर्तित करना सीखें। अपनी दस्तावेज़ प्रबंधन क्षमताओं को बढ़ाएँ।
-type: docs
 weight: 14
 url: /hi/net/converting-file-types-to-pdf/convert-vst-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: DOC वर्ड दस्तावेज़ों को पीडीए
 linktitle: DOC वर्ड दस्तावेज़ों को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके DOC Word दस्तावेज़ों को आसानी से PDF में बदलें। निर्बाध दस्तावेज़ रूपांतरण के लिए हमारी चरण-दर-चरण मार्गदर्शिका का पालन करें।
-type: docs
 weight: 23
 url: /hi/net/file-conversion-to-pdf/convert-doc-to-pdf/
 ---

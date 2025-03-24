@@ -3,7 +3,6 @@ title: Convertir páginas web HTML a PDF
 linktitle: Convertir páginas web HTML a PDF
 second_title: API GroupDocs.Conversión .NET
 description: Convierta fácilmente páginas web HTML a formato PDF utilizando GroupDocs.Conversion para .NET. Siga nuestra guía paso a paso para una conversión perfecta del formato de documentos.
-type: docs
 weight: 22
 url: /es/net/convert-files-to-pdf/convert-html-to-pdf/
 ---

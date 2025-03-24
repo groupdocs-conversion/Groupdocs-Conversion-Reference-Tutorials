@@ -3,7 +3,6 @@ title: पीपीटीएक्स को पीडीएफ में बद
 linktitle: पीपीटीएक्स को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके PowerPoint प्रस्तुतियों (PPTX) को PDF प्रारूप में परिवर्तित करना सीखें। आसान और कुशल रूपांतरण प्रक्रिया.
-type: docs
 weight: 29
 url: /hi/net/pdf-conversion/convert-pptx-to-pdf/
 ---

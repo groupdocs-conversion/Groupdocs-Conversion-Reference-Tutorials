@@ -3,7 +3,6 @@ title: Převeďte soubory šablon DWT CAD do PDF
 linktitle: Převeďte soubory šablon DWT CAD do PDF
 second_title: GroupDocs.Conversion .NET API
 description: Naučte se, jak převést soubory šablon DWT CAD do formátu PDF bez námahy pomocí GroupDocs.Conversion for .NET.
-type: docs
 weight: 11
 url: /cs/net/convert-files-to-pdf/convert-dwt-to-pdf/
 ---

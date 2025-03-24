@@ -3,7 +3,6 @@ title: PPSMをPDFに変換
 linktitle: PPSMをPDFに変換
 second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion for .NET を使用して、PPSM ファイルを PDF に簡単に変換します。変換オプションをカスタマイズして、ドキュメントの可能性を最大限に引き出します。
-type: docs
 weight: 24
 url: /ja/net/pdf-conversion/convert-ppsm-to-pdf/
 ---

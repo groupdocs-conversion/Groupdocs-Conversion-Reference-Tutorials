@@ -3,7 +3,6 @@ title: 将 XLSB 转换为 PDF
 linktitle: 将 XLSB 转换为 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 了解如何使用 GroupDocs.Conversion for .NET 将 XLSB 文件轻松转换为 PDF。请遵循我们的分步指南。
-type: docs
 weight: 22
 url: /zh/net/converting-file-types-to-pdf/convert-xlsb-to-pdf/
 ---

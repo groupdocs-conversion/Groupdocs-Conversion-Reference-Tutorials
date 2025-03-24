@@ -3,7 +3,6 @@ title: A DIB-képek konvertálása PDF-be
 linktitle: A DIB-képek konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálhat DIB képeket PDF formátumba a GroupDocs.Conversion for .NET segítségével. Fokozza fejlesztési munkafolyamatát a zökkenőmentes fájlkonverziós lehetőségekkel.
-type: docs
 weight: 18
 url: /hu/net/file-conversion-to-pdf/convert-dib-to-pdf/
 ---

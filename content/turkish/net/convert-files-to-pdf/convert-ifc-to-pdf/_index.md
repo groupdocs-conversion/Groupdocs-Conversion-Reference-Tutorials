@@ -3,7 +3,6 @@ title: IFC Yapı Bilgi Modelleme Dosyalarını PDF'ye Dönüştürün
 linktitle: IFC Yapı Bilgi Modelleme Dosyalarını PDF'ye Dönüştürün
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET'i kullanarak IFC Yapı Bilgi Modellemesi dosyalarını zahmetsizce PDF formatına nasıl dönüştüreceğinizi öğrenin.
-type: docs
 weight: 25
 url: /tr/net/convert-files-to-pdf/convert-ifc-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: MHTML konvertálása PDF-be
 linktitle: MHTML konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálhat MHTML-t PDF-be a GroupDocs.Conversion for .NET segítségével. Egyszerűsítse a dokumentumkezelést ezzel a robusztus könyvtárral.
-type: docs
 weight: 20
 url: /hu/net/document-conversion/convert-mhtml-to-pdf/
 ---

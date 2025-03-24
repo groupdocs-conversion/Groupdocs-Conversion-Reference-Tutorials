@@ -3,7 +3,6 @@ title: FODS OpenDocument 스프레드시트를 PDF로 변환
 linktitle: FODS OpenDocument 스프레드시트를 PDF로 변환
 second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion for .NET을 사용하여 FODS OpenDocument 스프레드시트를 PDF로 손쉽게 변환하세요. 원활한 문서 변환으로 .NET 애플리케이션을 강화하세요.
-type: docs
 weight: 20
 url: /ko/net/convert-files-to-pdf/convert-fods-to-pdf/
 ---

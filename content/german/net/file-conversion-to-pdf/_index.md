@@ -3,7 +3,6 @@ title: Dateikonvertierung in PDF
 linktitle: Dateikonvertierung in PDF
 second_title: GroupDocs.Conversion .NET-API
 description: Erfahren Sie, wie Sie mit GroupDocs.Conversion für .NET mühelos verschiedene Dateiformate in PDF konvertieren. Verbessern Sie die Dokumentenverwaltung mit anpassbaren Optionen.
-type: docs
 weight: 20
 url: /de/net/file-conversion-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: Konversi OTP ke PDF
 linktitle: Konversi OTP ke PDF
 second_title: GroupDocs.Konversi .NET API
 description: Konversikan file OTP ke PDF dengan mudah menggunakan GroupDocs.Conversion untuk .NET. Sederhanakan alur kerja Anda dengan alat konversi file intuitif ini.
-type: docs
 weight: 14
 url: /id/net/pdf-conversion/convert-otp-to-pdf/
 ---

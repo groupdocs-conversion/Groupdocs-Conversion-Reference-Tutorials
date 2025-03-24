@@ -3,7 +3,6 @@ title: تحويل رسومات المتجهات CDR إلى PDF
 linktitle: تحويل رسومات المتجهات CDR إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: قم بتحويل ملفات الرسومات المتجهة CorelDRAW (CDR) بسهولة إلى تنسيق PDF باستخدام GroupDocs.Conversion for .NET. تبسيط عملية تحويل المستندات الخاصة بك.
-type: docs
 weight: 12
 url: /ar/net/file-conversion-to-pdf/convert-cdr-to-pdf/
 ---

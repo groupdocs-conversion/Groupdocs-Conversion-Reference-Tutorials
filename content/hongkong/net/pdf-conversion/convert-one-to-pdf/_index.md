@@ -3,7 +3,6 @@ title: 將 ONE 轉換為 PDF
 linktitle: 將 ONE 轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 了解如何使用 GroupDocs.Conversion for .NET 將 ONE 檔案輕鬆轉換為 PDF 格式。請遵循我們的逐步指南。
-type: docs
 weight: 11
 url: /zh-hant/net/pdf-conversion/convert-one-to-pdf/
 ---

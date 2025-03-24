@@ -3,7 +3,6 @@ title: Converti ODS in PDF
 linktitle: Converti ODS in PDF
 second_title: API GroupDocs.Conversion .NET
 description: Converti facilmente file ODS in PDF utilizzando GroupDocs.Conversion per .NET. Tutorial completo con istruzioni passo passo.
-type: docs
 weight: 29
 url: /it/net/document-conversion/convert-ods-to-pdf/
 ---
@@ -15,7 +14,7 @@ Prima di immergersi nel processo di conversione, assicurarsi che siano soddisfat
 Per utilizzare le funzionalità di GroupDocs.Conversion per .NET, è necessario installare la libreria. Puoi scaricarlo dal sito web di GroupDocs.
 1.  Visita la pagina di download[Qui](https://releases.groupdocs.com/conversion/net/).
 2. Seleziona la versione appropriata e scarica il pacchetto.
-3.  Seguire le istruzioni di installazione fornite nella documentazione[Qui](https://reference.groupdocs.com/conversion/net/).
+3.  Seguire le istruzioni di installazione fornite nella documentazione[Qui](https://tutorials.groupdocs.com/conversion/net/).
 ### Accesso al file ODS
 Assicurati di avere accesso al file ODS che intendi convertire. In caso contrario, acquisisci il file dalla sua fonte.
 ### Familiarità di base con C#

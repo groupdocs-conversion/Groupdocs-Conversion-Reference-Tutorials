@@ -3,7 +3,6 @@ title: VST konvertálása PDF-be
 linktitle: VST konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Ismerje meg, hogyan konvertálhat könnyedén VST-fájlokat PDF-be a GroupDocs.Conversion for .NET segítségével. Növelje dokumentumkezelési képességeit.
-type: docs
 weight: 14
 url: /hu/net/converting-file-types-to-pdf/convert-vst-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: ODP'yi PDF'ye dönüştür
 linktitle: ODP'yi PDF'ye dönüştür
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET'i kullanarak ODP'yi PDF'ye nasıl dönüştüreceğinizi öğrenin. Sorunsuz belge dönüşümü için adım adım kılavuzumuzu izleyin.
-type: docs
 weight: 28
 url: /tr/net/document-conversion/convert-odp-to-pdf/
 ---

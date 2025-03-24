@@ -3,7 +3,6 @@ title: 將 VTX 轉換為 PDF
 linktitle: 將 VTX 轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 了解如何使用 GroupDocs.Conversion for .NET 將 VTX 檔案轉換為 PDF。具有程式碼範例的逐步指南，可實現無縫整合。
-type: docs
 weight: 17
 url: /zh-hant/net/converting-file-types-to-pdf/convert-vtx-to-pdf/
 ---
@@ -61,7 +60,7 @@ Console.WriteLine("\nConversion to PDF completed successfully.\nCheck output in 
 ### GroupDocs.Conversion for .NET 有沒有免費試用版？
 是的，您可以從以下位置免費試用 GroupDocs.Conversion for .NET[網站](https://releases.groupdocs.com/).
 ### 在哪裡可以找到 GroupDocs.Conversion for .NET 的文件？
-您可以在以下位置找到全面的文件和 API 參考：[文件頁](https://reference.groupdocs.com/conversion/net/).
+您可以在以下位置找到全面的文件和 API 參考：[文件頁](https://tutorials.groupdocs.com/conversion/net/).
 ### 如何取得 GroupDocs.Conversion for .NET 的臨時授權？
 臨時許可證可以從[臨時許可證頁面](https://purchase.groupdocs.com/temporary-license/).
 ### 我可以在哪裡獲得與 GroupDocs.Conversion for .NET 相關的支援或提出問題？

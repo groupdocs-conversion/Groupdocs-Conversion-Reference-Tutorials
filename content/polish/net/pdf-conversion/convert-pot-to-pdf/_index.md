@@ -3,7 +3,6 @@ title: Konwertuj POT na PDF
 linktitle: Konwertuj POT na PDF
 second_title: GroupDocs.Conversion API .NET
 description: Dowiedz się, jak bez wysiłku konwertować pliki POT do formatu PDF za pomocą Groupdocs.Conversion dla .NET. Usprawnij zadania związane z konwersją dokumentów dzięki temu łatwemu w obsłudze.
-type: docs
 weight: 22
 url: /pl/net/pdf-conversion/convert-pot-to-pdf/
 ---
@@ -62,6 +61,6 @@ Tak, biblioteka obsługuje konwersję wsadową wielu plików jednocześnie.
 ### Jak mogę uzyskać tymczasową licencję na Groupdocs.Conversion dla .NET?
  Licencję tymczasową można uzyskać od[Tutaj](https://purchase.groupdocs.com/temporary-license/).
 ### Gdzie mogę znaleźć dokumentację Groupdocs.Conversion dla .NET?
- Dostępna jest szczegółowa dokumentacja[Tutaj](https://reference.groupdocs.com/conversion/net/).
+ Dostępna jest szczegółowa dokumentacja[Tutaj](https://tutorials.groupdocs.com/conversion/net/).
 ### Gdzie mogę szukać pomocy lub zadać pytania związane z Groupdocs.Conversion dla .NET?
  Możesz odwiedzić forum pomocy technicznej[Tutaj](https://forum.groupdocs.com/c/conversion/11) do pomocy.

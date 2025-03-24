@@ -3,9 +3,8 @@ title: Μετατροπή SVG σε PDF
 linktitle: Μετατροπή SVG σε PDF
 second_title: GroupDocs.Conversion .NET API
 description: Μάθετε πώς να μετατρέπετε SVG σε PDF χρησιμοποιώντας το GroupDocs.Conversion για .NET χωρίς κόπο. Βελτιώστε τη διαδικασία διαχείρισης εγγράφων σας.
-type: docs
 weight: 15
-url: /el/net/file-format-conversion-tutorials/convert-svg-to-pdf/
+url: /el/net/file-format-conversion-convert-svg-to-pdf/
 ---
 ## Εισαγωγή
 Στον κόσμο του προγραμματισμού, η μετατροπή αρχείων από μια μορφή σε άλλη είναι μια κοινή εργασία. Είτε έχετε να κάνετε με εικόνες, έγγραφα ή άλλα μέσα, η δυνατότητα απρόσκοπτης μετατροπής μεταξύ μορφών είναι ζωτικής σημασίας. Σε αυτό το σεμινάριο, θα εμβαθύνουμε στον τρόπο μετατροπής αρχείων SVG (Scalable Vector Graphics) σε PDF (Portable Document Format) χρησιμοποιώντας το GroupDocs.Conversion για .NET.

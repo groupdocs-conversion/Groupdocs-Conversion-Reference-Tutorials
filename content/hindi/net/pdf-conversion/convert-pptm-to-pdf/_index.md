@@ -3,7 +3,6 @@ title: पीपीटीएम को पीडीएफ में बदले
 linktitle: पीपीटीएम को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से PPTM फ़ाइलों को PDF प्रारूप में परिवर्तित करें। दस्तावेज़ प्रबंधन वर्कफ़्लो को आसानी से सुव्यवस्थित करें।
-type: docs
 weight: 27
 url: /hi/net/pdf-conversion/convert-pptm-to-pdf/
 ---

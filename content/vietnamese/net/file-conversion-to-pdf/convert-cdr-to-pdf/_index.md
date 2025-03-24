@@ -3,7 +3,6 @@ title: Chuyển đổi đồ họa vector CDR sang PDF
 linktitle: Chuyển đổi đồ họa vector CDR sang PDF
 second_title: API GroupDocs.Conversion .NET
 description: Dễ dàng chuyển đổi các tệp đồ họa vector CorelDRAW (CDR) sang định dạng PDF bằng GroupDocs.Conversion for .NET. Hợp lý hóa quá trình chuyển đổi tài liệu của bạn.
-type: docs
 weight: 12
 url: /vi/net/file-conversion-to-pdf/convert-cdr-to-pdf/
 ---

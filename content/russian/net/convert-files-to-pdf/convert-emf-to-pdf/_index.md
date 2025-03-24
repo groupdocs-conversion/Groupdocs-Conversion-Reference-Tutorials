@@ -3,7 +3,6 @@ title: Конвертировать метафайлы EMF Windows в PDF
 linktitle: Конвертировать метафайлы EMF Windows в PDF
 second_title: GroupDocs.Conversion .NET API
 description: Легко конвертируйте метафайлы Windows EMF в PDF с помощью GroupDocs.Conversion для .NET. Легко интегрируйте и настраивайте параметры преобразования.
-type: docs
 weight: 13
 url: /ru/net/convert-files-to-pdf/convert-emf-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: XLSMをPDFに変換
 linktitle: XLSMをPDFに変換
 second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion for .NET を使用して、XLSM ファイルを PDF 形式に簡単に変換する方法を学びます。ステップバイステップのガイドが含まれています。
-type: docs
 weight: 23
 url: /ja/net/converting-file-types-to-pdf/convert-xlsm-to-pdf/
 ---

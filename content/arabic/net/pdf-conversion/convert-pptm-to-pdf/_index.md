@@ -3,7 +3,6 @@ title: تحويل PPTM إلى PDF
 linktitle: تحويل PPTM إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: قم بتحويل ملفات PPTM بسهولة إلى تنسيق PDF باستخدام GroupDocs.Conversion لـ .NET. تبسيط سير عمل إدارة المستندات بسهولة.
-type: docs
 weight: 27
 url: /ar/net/pdf-conversion/convert-pptm-to-pdf/
 ---

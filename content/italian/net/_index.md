@@ -1,7 +1,6 @@
 ---
 title: Tutorial completi di GroupDocs.Conversion per .NET
 linktitle: GroupDocs.Conversion per esercitazioni .NET
-type: docs
 weight: 10
 url: /it/net/
 description: Converti facilmente file in PDF utilizzando GroupDocs.Conversion per .NET. Semplifica la gestione dei documenti con opzioni personalizzabili. #GroupDocs.Conversione

@@ -3,7 +3,6 @@ title: Převeďte soubory informačního modelování budov IFC do formátu PDF
 linktitle: Převeďte soubory informačního modelování budov IFC do formátu PDF
 second_title: GroupDocs.Conversion .NET API
 description: Naučte se, jak bez námahy převést soubory IFC Building Information Modeling do formátu PDF pomocí GroupDocs.Conversion for .NET.
-type: docs
 weight: 25
 url: /cs/net/convert-files-to-pdf/convert-ifc-to-pdf/
 ---

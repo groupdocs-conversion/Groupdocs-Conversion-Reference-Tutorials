@@ -3,7 +3,6 @@ title: 將 DIB 影像轉換為 PDF
 linktitle: 將 DIB 影像轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 輕鬆將 DIB 影像轉換為 PDF 格式。透過無縫文件轉換功能增強您的開發工作流程。
-type: docs
 weight: 18
 url: /zh-hant/net/file-conversion-to-pdf/convert-dib-to-pdf/
 ---

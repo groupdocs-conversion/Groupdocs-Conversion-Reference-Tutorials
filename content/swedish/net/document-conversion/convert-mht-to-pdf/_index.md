@@ -3,7 +3,6 @@ title: Konvertera MHT till PDF
 linktitle: Konvertera MHT till PDF
 second_title: GroupDocs.Conversion .NET API
 description: Konvertera MHT-filer till PDF utan ansträngning med GroupDocs.Conversion for .NET. Följ vår steg-för-steg-guide för sömlös integrering i dina .NET-applikationer.
-type: docs
 weight: 21
 url: /sv/net/document-conversion/convert-mht-to-pdf/
 ---

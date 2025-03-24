@@ -3,7 +3,6 @@ title: Converter planilhas FODS OpenDocument em PDF
 linktitle: Converter planilhas FODS OpenDocument em PDF
 second_title: API GroupDocs.Conversion .NET
 description: Converta facilmente planilhas FODS OpenDocument em PDFs usando GroupDocs.Conversion for .NET. Aprimore seus aplicativos .NET com conversão perfeita de documentos.
-type: docs
 weight: 20
 url: /pt/net/convert-files-to-pdf/convert-fods-to-pdf/
 ---

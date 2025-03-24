@@ -3,7 +3,6 @@ title: 将 CDR 矢量图形转换为 PDF
 linktitle: 将 CDR 矢量图形转换为 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 轻松将 CorelDRAW (CDR) 矢量图形文件转换为 PDF 格式。简化您的文档转换过程。
-type: docs
 weight: 12
 url: /zh/net/file-conversion-to-pdf/convert-cdr-to-pdf/
 ---

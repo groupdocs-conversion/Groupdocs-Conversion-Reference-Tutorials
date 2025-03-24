@@ -3,7 +3,6 @@ title: Chuyển đổi LOG sang PDF
 linktitle: Chuyển đổi LOG sang PDF
 second_title: API GroupDocs.Conversion .NET
 description: Dễ dàng chuyển đổi tệp LOG sang định dạng PDF trong ứng dụng .NET bằng GroupDocs.Conversion for .NET. Làm theo hướng dẫn từng bước của chúng tôi để chuyển đổi tài liệu.
-type: docs
 weight: 17
 url: /vi/net/document-conversion/convert-log-to-pdf/
 ---

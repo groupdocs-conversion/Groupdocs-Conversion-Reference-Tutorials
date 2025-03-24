@@ -3,7 +3,6 @@ title: LOG konvertálása PDF-be
 linktitle: LOG konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálhat LOG fájlokat PDF formátumba .NET alkalmazásokban a GroupDocs.Conversion for .NET segítségével. Kövesse lépésenkénti útmutatónkat a dokumentumok konvertálásához.
-type: docs
 weight: 17
 url: /hu/net/document-conversion/convert-log-to-pdf/
 ---

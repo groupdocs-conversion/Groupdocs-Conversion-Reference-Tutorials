@@ -3,7 +3,6 @@ title: تحويل مستندات Word DOCM (وحدات الماكرو) إلى PD
 linktitle: تحويل مستندات Word DOCM (وحدات الماكرو) إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: يمكنك بسهولة تحويل مستندات Word DOCM التي تحتوي على وحدات ماكرو إلى ملفات PDF باستخدام GroupDocs.Conversion for .NET. تبسيط عملية إدارة المستندات الخاصة بك.
-type: docs
 weight: 22
 url: /ar/net/file-conversion-to-pdf/convert-docm-to-pdf/
 ---

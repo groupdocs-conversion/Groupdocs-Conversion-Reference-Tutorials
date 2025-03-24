@@ -3,7 +3,6 @@ title: Convertir des documents Word DOC en PDF
 linktitle: Convertir des documents Word DOC en PDF
 second_title: API GroupDocs.Conversion .NET
 description: Convertissez sans effort des documents DOC Word en PDF à l'aide de GroupDocs.Conversion pour .NET. Suivez notre guide étape par étape pour une conversion transparente de documents.
-type: docs
 weight: 23
 url: /fr/net/file-conversion-to-pdf/convert-doc-to-pdf/
 ---

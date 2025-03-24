@@ -3,9 +3,8 @@ title: वीसीएफ को पीडीएफ में बदलें
 linktitle: वीसीएफ को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से VCF को PDF में बदलें। इस सहज समाधान के साथ अपने दस्तावेज़ प्रबंधन कार्यों को सरल बनाएं।
-type: docs
 weight: 23
-url: /hi/net/file-format-conversion-tutorials/convert-vcf-to-pdf/
+url: /hi/net/file-format-conversion-convert-vcf-to-pdf/
 ---
 ## परिचय
 दस्तावेज़ प्रबंधन और हेरफेर के क्षेत्र में, .NET के लिए GroupDocs.Conversion एक बहुमुखी उपकरण के रूप में सामने आता है जो डेवलपर्स को विभिन्न फ़ाइल स्वरूपों के बीच निर्बाध रूप से परिवर्तित करने का अधिकार देता है। इसकी कार्यक्षमताओं की श्रेणी में, एक प्रमुख रूपांतरण कार्य वीसीएफ (वर्चुअल कॉन्टैक्ट फाइल) को पीडीएफ (पोर्टेबल डॉक्यूमेंट फॉर्मेट) में बदलना है। यह ट्यूटोरियल .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से इस रूपांतरण को पूरा करने की चरण-दर-चरण प्रक्रिया का विवरण देता है।

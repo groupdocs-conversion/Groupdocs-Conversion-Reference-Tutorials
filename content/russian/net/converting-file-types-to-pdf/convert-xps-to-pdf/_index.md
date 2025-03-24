@@ -3,7 +3,6 @@ title: Конвертировать XPS в PDF
 linktitle: Конвертировать XPS в PDF
 second_title: GroupDocs.Conversion .NET API
 description: Узнайте, как конвертировать файлы XPS в PDF с помощью GroupDocs.Conversion для .NET. Простые шаги для плавного преобразования формата документа.
-type: docs
 weight: 30
 url: /ru/net/converting-file-types-to-pdf/convert-xps-to-pdf/
 ---

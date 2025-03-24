@@ -3,7 +3,6 @@ title: Converti VSS in PDF
 linktitle: Converti VSS in PDF
 second_title: API GroupDocs.Conversion .NET
 description: Converti file VSS in PDF senza sforzo utilizzando GroupDocs.Conversion per .NET. Conversione batch, opzioni personalizzabili e integrazione perfetta.
-type: docs
 weight: 11
 url: /it/net/converting-file-types-to-pdf/convert-vss-to-pdf/
 ---

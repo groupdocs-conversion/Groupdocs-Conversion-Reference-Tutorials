@@ -3,7 +3,6 @@ title: A PCL konvertálása PDF-be
 linktitle: A PCL konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Tanulja meg, hogyan konvertálhat könnyedén PCL fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Kövesse lépésenkénti útmutatónkat.
-type: docs
 weight: 18
 url: /hu/net/pdf-conversion/convert-pcl-to-pdf/
 ---

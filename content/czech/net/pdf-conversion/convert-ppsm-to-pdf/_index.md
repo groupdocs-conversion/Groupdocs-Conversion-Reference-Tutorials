@@ -3,7 +3,6 @@ title: Převést PPSM do PDF
 linktitle: Převést PPSM do PDF
 second_title: GroupDocs.Conversion .NET API
 description: Bez námahy převádějte soubory PPSM do PDF pomocí GroupDocs.Conversion for .NET. Přizpůsobte možnosti převodu a využijte plný potenciál svých dokumentů.
-type: docs
 weight: 24
 url: /cs/net/pdf-conversion/convert-ppsm-to-pdf/
 ---

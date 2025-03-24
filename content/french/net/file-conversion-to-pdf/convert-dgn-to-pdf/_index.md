@@ -3,7 +3,6 @@ title: Convertir des fichiers CAO DGN en PDF
 linktitle: Convertir des fichiers CAO DGN en PDF
 second_title: API GroupDocs.Conversion .NET
 description: Convertissez des fichiers CAO DGN en PDF en toute transparence avec GroupDocs.Conversion pour .NET. Intégrez sans effort les capacités de conversion de fichiers dans vos applications .NET.
-type: docs
 weight: 17
 url: /fr/net/file-conversion-to-pdf/convert-dgn-to-pdf/
 ---

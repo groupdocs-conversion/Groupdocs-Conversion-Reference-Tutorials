@@ -3,7 +3,6 @@ title: जेपीजी को पीडीएफ में बदलें
 linktitle: जेपीजी को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से JPG को PDF में कनवर्ट करें। निर्बाध दस्तावेज़ रूपांतरण के लिए इस चरण-दर-चरण ट्यूटोरियल का पालन करें।
-type: docs
 weight: 14
 url: /hi/net/document-conversion/convert-jpg-to-pdf/
 ---

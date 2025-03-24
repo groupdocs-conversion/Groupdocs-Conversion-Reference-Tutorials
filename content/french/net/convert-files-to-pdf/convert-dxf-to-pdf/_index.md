@@ -3,7 +3,6 @@ title: Convertir des fichiers d'échange de dessins CAO DXF en PDF
 linktitle: Convertir des fichiers d'échange de dessins CAO DXF en PDF
 second_title: API GroupDocs.Conversion .NET
 description: Convertissez sans effort des fichiers d'échange de dessins CAO DXF en PDF avec GroupDocs.Conversion pour .NET.
-type: docs
 weight: 12
 url: /fr/net/convert-files-to-pdf/convert-dxf-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: ओडीएस को पीडीएफ में बदलें
 linktitle: ओडीएस को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके ODS फ़ाइलों को आसानी से PDF में बदलें। चरण-दर-चरण निर्देशों के साथ व्यापक ट्यूटोरियल।
-type: docs
 weight: 29
 url: /hi/net/document-conversion/convert-ods-to-pdf/
 ---
@@ -15,7 +14,7 @@ url: /hi/net/document-conversion/convert-ods-to-pdf/
 .NET के लिए GroupDocs.Conversion की कार्यक्षमताओं का उपयोग करने के लिए, आपको लाइब्रेरी स्थापित करने की आवश्यकता है। आप इसे GroupDocs वेबसाइट से डाउनलोड कर सकते हैं।
 1.  डाउनलोड पृष्ठ पर जाएँ[यहाँ](https://releases.groupdocs.com/conversion/net/).
 2. उपयुक्त संस्करण का चयन करें और पैकेज डाउनलोड करें।
-3.  दस्तावेज़ में दिए गए इंस्टॉलेशन निर्देशों का पालन करें[यहाँ](https://reference.groupdocs.com/conversion/net/).
+3.  दस्तावेज़ में दिए गए इंस्टॉलेशन निर्देशों का पालन करें[यहाँ](https://tutorials.groupdocs.com/conversion/net/).
 ### ओडीएस फ़ाइल तक पहुंच
 सुनिश्चित करें कि आपके पास उस ओडीएस फ़ाइल तक पहुंच है जिसे आप कनवर्ट करना चाहते हैं। यदि नहीं, तो फ़ाइल को उसके स्रोत से प्राप्त करें।
 ### सी# के साथ बुनियादी परिचय

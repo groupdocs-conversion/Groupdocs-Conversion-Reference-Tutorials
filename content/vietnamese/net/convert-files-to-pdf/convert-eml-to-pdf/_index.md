@@ -3,7 +3,6 @@ title: Chuyển đổi tin nhắn email EML sang PDF
 linktitle: Chuyển đổi tin nhắn email EML sang PDF
 second_title: API GroupDocs.Conversion .NET
 description: Tìm hiểu cách chuyển đổi email EML sang PDF dễ dàng bằng cách sử dụng GroupDocs.Conversion cho .NET.
-type: docs
 weight: 14
 url: /vi/net/convert-files-to-pdf/convert-eml-to-pdf/
 ---

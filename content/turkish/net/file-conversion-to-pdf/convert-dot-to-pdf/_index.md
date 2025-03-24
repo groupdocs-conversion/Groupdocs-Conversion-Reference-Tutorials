@@ -3,7 +3,6 @@ title: DOT Word Şablonlarını PDF'ye Dönüştürün
 linktitle: DOT Word Şablonlarını PDF'ye Dönüştürün
 second_title: GroupDocs.Conversion .NET API'si
 description: Uygulamalarınıza sorunsuz entegrasyon için GroupDocs.Conversion'ı kullanarak DOT (Word Şablonu) dosyalarını .NET'te PDF'ye zahmetsizce nasıl dönüştüreceğinizi öğrenin.
-type: docs
 weight: 26
 url: /tr/net/file-conversion-to-pdf/convert-dot-to-pdf/
 ---

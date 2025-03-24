@@ -3,9 +3,8 @@ title: Konversi TXT ke PDF
 linktitle: Konversi TXT ke PDF
 second_title: GroupDocs.Konversi .NET API
 description: Konversikan TXT ke PDF dengan mudah menggunakan GroupDocs.Conversion untuk .NET. Ikuti panduan langkah demi langkah kami untuk konversi format dokumen yang lancar.
-type: docs
 weight: 22
-url: /id/net/file-format-conversion-tutorials/convert-txt-to-pdf/
+url: /id/net/file-format-conversion-convert-txt-to-pdf/
 ---
 ## Perkenalan
 Di era digital saat ini, kemampuan untuk memanipulasi format dokumen secara terprogram sangat penting bagi banyak aplikasi perangkat lunak. Baik Anda sedang membangun sistem manajemen dokumen, editor online, atau hanya perlu mengonversi file dari satu format ke format lainnya, memiliki alat konversi yang andal dan efisien sangatlah penting. Salah satu alat yang menonjol adalah GroupDocs.Conversion untuk .NET.

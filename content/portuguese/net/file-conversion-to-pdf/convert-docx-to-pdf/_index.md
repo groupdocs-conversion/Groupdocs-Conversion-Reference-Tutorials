@@ -3,7 +3,6 @@ title: Converter documentos DOCX do Word em PDF
 linktitle: Converter documentos DOCX do Word em PDF
 second_title: API GroupDocs.Conversion .NET
 description: Aprenda como converter facilmente documentos DOCX Word em PDF usando GroupDocs.Conversion for .NET. Aprimore seus recursos de gerenciamento de documentos.
-type: docs
 weight: 24
 url: /pt/net/file-conversion-to-pdf/convert-docx-to-pdf/
 ---

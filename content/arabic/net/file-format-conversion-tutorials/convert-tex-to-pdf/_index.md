@@ -3,9 +3,8 @@ title: تحويل TEX إلى PDF
 linktitle: تحويل TEX إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: تعرف على كيفية تحويل ملفات TEX إلى تنسيق PDF باستخدام GroupDocs.Conversion for .NET. خطوات سهلة لتحويل تنسيق المستندات بسلاسة.
-type: docs
 weight: 18
-url: /ar/net/file-format-conversion-tutorials/convert-tex-to-pdf/
+url: /ar/net/file-format-conversion-convert-tex-to-pdf/
 ---
 ## مقدمة
 في مجال إدارة المستندات ومعالجتها، يعد تحويل الملفات من تنسيق إلى آخر ضرورة شائعة. سواء كنت تتعامل مع مستندات نصية أو جداول بيانات أو عروض تقديمية، فإن امتلاك القدرة على التبديل بسلاسة بين التنسيقات يمكن أن يؤدي إلى تحسين الإنتاجية بشكل كبير وتبسيط سير العمل.

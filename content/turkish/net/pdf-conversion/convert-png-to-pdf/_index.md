@@ -3,7 +3,6 @@ title: PNG'yi PDF'ye dönüştür
 linktitle: PNG'yi PDF'ye dönüştür
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET'i kullanarak PNG görüntülerini zahmetsizce PDF belgelerine dönüştürün. Sorunsuz dosya formatı dönüşümü için basit adımlar.
-type: docs
 weight: 20
 url: /tr/net/pdf-conversion/convert-png-to-pdf/
 ---
@@ -62,7 +61,7 @@ Bu mesaj kullanıcının dönüştürülen PDF dosyasını nerede bulacağını 
 Sonuç olarak GroupDocs.Conversion for .NET, PNG görüntülerini sorunsuz bir şekilde PDF belgelerine dönüştürmek için basit ama güçlü bir çözüm sunar. Bu eğitimde özetlenen adımları izleyerek, PNG dosyalarınızı kolaylıkla PDF formatına verimli bir şekilde dönüştürebilir ve belge yönetimi ve paylaşımı için bir dünya olasılıklar dünyasının önünü açabilirsiniz.
 ## SSS'ler
 ### GroupDocs.Conversion PNG ve PDF'nin yanı sıra diğer dosya formatlarıyla da uyumlu mu?
- Evet, GroupDocs.Conversion, dönüştürme için DOCX, XLSX, PPTX, JPG, TIFF ve daha fazlasını içeren çok çeşitli dosya formatlarını destekler. Bakın[dokümantasyon](https://reference.groupdocs.com/conversion/net/) Desteklenen formatların tam listesi için.
+ Evet, GroupDocs.Conversion, dönüştürme için DOCX, XLSX, PPTX, JPG, TIFF ve daha fazlasını içeren çok çeşitli dosya formatlarını destekler. Bakın[dokümantasyon](https://tutorials.groupdocs.com/conversion/net/) Desteklenen formatların tam listesi için.
 ### Dönüştürme ayarlarını özel gereksinimlerime göre özelleştirebilir miyim?
 Kesinlikle! GroupDocs.Conversion, dönüştürme sürecini tam ihtiyaçlarınızı karşılayacak şekilde uyarlamanıza olanak tanıyan kapsamlı özelleştirme seçenekleri sunar. Sayfa boyutu, yönlendirme, kalite ve daha fazlası gibi parametreleri ayarlayabilirsiniz.
 ### GroupDocs.Conversion büyük ölçekli belge dönüştürme görevleri için uygun mu?

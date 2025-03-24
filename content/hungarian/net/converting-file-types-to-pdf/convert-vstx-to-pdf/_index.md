@@ -3,7 +3,6 @@ title: A VSTX konvertálása PDF-be
 linktitle: A VSTX konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Ismerje meg, hogyan konvertálhat VSTX fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Egyszerű lépések a zökkenőmentes dokumentumkezeléshez.
-type: docs
 weight: 15
 url: /hu/net/converting-file-types-to-pdf/convert-vstx-to-pdf/
 ---

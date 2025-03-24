@@ -3,9 +3,8 @@ title: Konversi VSDM ke PDF
 linktitle: Konversi VSDM ke PDF
 second_title: GroupDocs.Konversi .NET API
 description: Pelajari cara mengonversi file VSDM ke format PDF menggunakan GroupDocs.Conversion untuk .NET. Ikuti panduan langkah demi langkah kami untuk konversi yang lancar.
-type: docs
 weight: 26
-url: /id/net/file-format-conversion-tutorials/convert-vsdm-to-pdf/
+url: /id/net/file-format-conversion-convert-vsdm-to-pdf/
 ---
 ## Perkenalan
 Dalam tutorial ini, kami akan memandu Anda melalui proses mengonversi file VSDM (Visio Macro-Enabled Drawing) ke format PDF menggunakan pustaka GroupDocs.Conversion untuk .NET. Kami akan menguraikan setiap langkah menjadi petunjuk terperinci untuk memastikan proses konversi lancar.
@@ -63,4 +62,4 @@ Ya, GroupDocs.Conversion mendukung konversi antara berbagai format file termasuk
 ### Bisakah saya membeli lisensi sementara untuk GroupDocs.Conversion?
  Ya, Anda dapat membeli lisensi sementara dari[Di Sini](https://purchase.groupdocs.com/temporary-license/).
 ### Di mana saya dapat menemukan dokumentasi lengkap untuk GroupDocs.Conversion?
- Dokumentasi lengkap dapat ditemukan[Di Sini](https://reference.groupdocs.com/conversion/net/).
+ Dokumentasi lengkap dapat ditemukan[Di Sini](https://tutorials.groupdocs.com/conversion/net/).

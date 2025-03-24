@@ -3,7 +3,6 @@ title: Konvertálja a HTM weboldalakat PDF formátumba
 linktitle: Konvertálja a HTM weboldalakat PDF formátumba
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálhat HTM weboldalakat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Kövesse lépésenkénti útmutatónkat a .NET-alkalmazásaiba való zökkenőmentes integráció érdekében.
-type: docs
 weight: 23
 url: /hu/net/convert-files-to-pdf/convert-htm-to-pdf/
 ---

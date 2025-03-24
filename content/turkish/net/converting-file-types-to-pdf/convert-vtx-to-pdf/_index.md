@@ -3,7 +3,6 @@ title: VTX'yi PDF'ye dönüştür
 linktitle: VTX'yi PDF'ye dönüştür
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET'i kullanarak VTX dosyalarını PDF'ye nasıl dönüştüreceğinizi öğrenin. Sorunsuz entegrasyon için kod örnekleri içeren adım adım kılavuz.
-type: docs
 weight: 17
 url: /tr/net/converting-file-types-to-pdf/convert-vtx-to-pdf/
 ---
@@ -61,7 +60,7 @@ Evet, GroupDocs.Conversion for .NET, DOCX, XLSX, PPTX, HTML ve daha fazlası dah
 ### GroupDocs.Conversion for .NET'in ücretsiz deneme sürümü var mı?
  Evet, GroupDocs.Conversion for .NET'in ücretsiz denemesinden şu adresten yararlanabilirsiniz:[İnternet sitesi](https://releases.groupdocs.com/).
 ### GroupDocs.Conversion for .NET belgelerini nerede bulabilirim?
- Kapsamlı belgeleri ve API referanslarını şu adreste bulabilirsiniz:[dokümantasyon sayfası](https://reference.groupdocs.com/conversion/net/).
+ Kapsamlı belgeleri ve API referanslarını şu adreste bulabilirsiniz:[dokümantasyon sayfası](https://tutorials.groupdocs.com/conversion/net/).
 ### GroupDocs.Conversion for .NET için geçici lisansları nasıl alabilirim?
  Geçici lisanslar adresinden alınabilir.[geçici lisans sayfası](https://purchase.groupdocs.com/temporary-license/).
 ### GroupDocs.Conversion for .NET ile ilgili nereden destek alabilirim veya soru sorabilirim?

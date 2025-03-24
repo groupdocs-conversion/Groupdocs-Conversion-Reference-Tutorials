@@ -3,7 +3,6 @@ title: एक्सएलएसएम को पीडीएफ में बद
 linktitle: एक्सएलएसएम को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से XLSM फ़ाइलों को PDF प्रारूप में परिवर्तित करना सीखें। चरण-दर-चरण मार्गदर्शिका शामिल है.
-type: docs
 weight: 23
 url: /hi/net/converting-file-types-to-pdf/convert-xlsm-to-pdf/
 ---

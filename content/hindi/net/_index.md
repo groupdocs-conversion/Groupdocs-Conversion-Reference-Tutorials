@@ -1,7 +1,6 @@
 ---
 title: .NET के लिए GroupDocs.Conversion के व्यापक ट्यूटोरियल
 linktitle: .NET ट्यूटोरियल के लिए GroupDocs.रूपांतरण
-type: docs
 weight: 10
 url: /hi/net/
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके फ़ाइलों को आसानी से पीडीएफ में परिवर्तित करें। अनुकूलन योग्य विकल्पों के साथ दस्तावेज़ प्रबंधन को सुव्यवस्थित करें। #GroupDocs.रूपांतरण

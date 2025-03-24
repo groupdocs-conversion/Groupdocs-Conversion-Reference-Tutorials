@@ -1,7 +1,6 @@
 ---
 title: .NET için GroupDocs.Conversion'a ilişkin Kapsamlı Eğitimler
 linktitle: .NET Eğitimleri için GroupDocs.Conversion
-type: docs
 weight: 10
 url: /tr/net/
 description: GroupDocs.Conversion for .NET'i kullanarak dosyaları zahmetsizce PDF'ye dönüştürün. Özelleştirilebilir seçeneklerle belge yönetimini kolaylaştırın. #GrupDocs.Dönüşüm

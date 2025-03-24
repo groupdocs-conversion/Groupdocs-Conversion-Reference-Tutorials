@@ -3,7 +3,6 @@ title: ODT konvertálása PDF-be
 linktitle: ODT konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálhat ODT fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Egyszerűsítse dokumentumkezelési munkafolyamatait.
-type: docs
 weight: 10
 url: /hu/net/pdf-conversion/convert-odt-to-pdf/
 ---

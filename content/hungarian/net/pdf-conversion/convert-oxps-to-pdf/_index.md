@@ -3,7 +3,6 @@ title: OXPS konvertálása PDF-be
 linktitle: OXPS konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálhat OXPS fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Zökkenőmentes integráció, rugalmas testreszabás és csúcsminőségű támogatás.
-type: docs
 weight: 17
 url: /hu/net/pdf-conversion/convert-oxps-to-pdf/
 ---

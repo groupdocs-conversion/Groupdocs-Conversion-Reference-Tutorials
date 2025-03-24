@@ -3,7 +3,6 @@ title: A DOT Word sablonok konvertálása PDF-be
 linktitle: A DOT Word sablonok konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Tanulja meg, hogyan konvertálhat könnyedén DOT (Word Template) fájlokat PDF formátumba .NET-ben a GroupDocs.Conversion segítségével az alkalmazásokba való zökkenőmentes integráció érdekében.
-type: docs
 weight: 26
 url: /hu/net/file-conversion-to-pdf/convert-dot-to-pdf/
 ---

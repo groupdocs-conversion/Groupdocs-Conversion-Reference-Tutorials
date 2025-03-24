@@ -3,7 +3,6 @@ title: Convertir registro a PDF
 linktitle: Convertir registro a PDF
 second_title: API GroupDocs.Conversión .NET
 description: Convierta sin esfuerzo archivos LOG a formato PDF en aplicaciones .NET utilizando GroupDocs.Conversion para .NET. Siga nuestra guía paso a paso para la conversión de documentos.
-type: docs
 weight: 17
 url: /es/net/document-conversion/convert-log-to-pdf/
 ---

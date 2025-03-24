@@ -3,7 +3,6 @@ title: EPUB 電子書籍を PDF に変換
 linktitle: EPUB 電子書籍を PDF に変換
 second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion for .NET を使用して、EPUB 電子書籍を PDF 形式に簡単に変換します。すべてのプラットフォーム間での互換性とアクセシビリティを確保します。
-type: docs
 weight: 18
 url: /ja/net/convert-files-to-pdf/convert-epub-to-pdf/
 ---

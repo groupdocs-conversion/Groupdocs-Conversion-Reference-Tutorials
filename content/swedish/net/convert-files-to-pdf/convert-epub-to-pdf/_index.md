@@ -3,7 +3,6 @@ title: Konvertera EPUB e-böcker till PDF
 linktitle: Konvertera EPUB e-böcker till PDF
 second_title: GroupDocs.Conversion .NET API
 description: Konvertera enkelt EPUB e-böcker till PDF-format med GroupDocs.Conversion för .NET. Säkerställ kompatibilitet och tillgänglighet på alla plattformar.
-type: docs
 weight: 18
 url: /sv/net/convert-files-to-pdf/convert-epub-to-pdf/
 ---

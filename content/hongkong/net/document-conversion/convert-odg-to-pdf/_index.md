@@ -3,7 +3,6 @@ title: 將 ODG 轉換為PDF
 linktitle: 將 ODG 轉換為PDF
 second_title: GroupDocs.Conversion .NET API
 description: 了解如何使用 GroupDocs.Conversion for .NET 將 ODG 檔案輕鬆轉換為 PDF。增強您的文件管理能力。
-type: docs
 weight: 27
 url: /zh-hant/net/document-conversion/convert-odg-to-pdf/
 ---
@@ -71,4 +70,4 @@ Console.WriteLine("\nConversion to PDF completed successfully. \nCheck output in
 ### GroupDocs.Conversion 用戶可以獲得技術支援嗎？
 是的，GroupDocs 提供全面的技術支持，可協助使用者解決實施或使用過程中可能遇到的任何疑問或問題。
 ### GroupDocs.Conversion 是否支援 ODG 和 PDF 以外的其他文件格式？
-是的，GroupDocs.Conversion 支援多種檔案格式的轉換，包括 DOCX、XLSX、PPTX 等。檢查[文件](https://reference.groupdocs.com/conversion/net/)了解支援格式的完整清單。
+是的，GroupDocs.Conversion 支援多種檔案格式的轉換，包括 DOCX、XLSX、PPTX 等。檢查[文件](https://tutorials.groupdocs.com/conversion/net/)了解支援格式的完整清單。

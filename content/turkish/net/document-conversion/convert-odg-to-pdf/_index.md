@@ -3,7 +3,6 @@ title: ODG'yi PDF'ye dönüştür
 linktitle: ODG'yi PDF'ye dönüştür
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET'i kullanarak ODG dosyalarını zahmetsizce PDF'ye nasıl dönüştüreceğinizi öğrenin. Belge yönetimi yeteneklerinizi geliştirin.
-type: docs
 weight: 27
 url: /tr/net/document-conversion/convert-odg-to-pdf/
 ---
@@ -71,4 +70,4 @@ Evet, GroupDocs.Conversion kapsamlı özelleştirme seçenekleri sunarak çıkt�
 ### GroupDocs.Conversion kullanıcıları için teknik destek mevcut mu?
 Evet, GroupDocs, kullanıcılara uygulama veya kullanım sırasında karşılaşabilecekleri soru veya sorunlarda yardımcı olmak amacıyla kapsamlı teknik destek sunmaktadır.
 ### GroupDocs.Conversion, ODG ve PDF dışındaki diğer dosya formatlarını destekliyor mu?
- Evet, GroupDocs.Conversion, dönüştürme için DOCX, XLSX, PPTX ve daha fazlasını içeren çok çeşitli dosya formatlarını destekler. Kontrol edin[dokümantasyon](https://reference.groupdocs.com/conversion/net/) Desteklenen formatların tam listesi için.
+ Evet, GroupDocs.Conversion, dönüştürme için DOCX, XLSX, PPTX ve daha fazlasını içeren çok çeşitli dosya formatlarını destekler. Kontrol edin[dokümantasyon](https://tutorials.groupdocs.com/conversion/net/) Desteklenen formatların tam listesi için.

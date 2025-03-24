@@ -3,7 +3,6 @@ title: 將 EMF Windows 圖元檔轉換為 PDF
 linktitle: 將 EMF Windows 圖元檔轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 輕鬆將 EMF Windows 圖元檔案轉換為 PDF。輕鬆整合和自訂轉換選項。
-type: docs
 weight: 13
 url: /zh-hant/net/convert-files-to-pdf/convert-emf-to-pdf/
 ---

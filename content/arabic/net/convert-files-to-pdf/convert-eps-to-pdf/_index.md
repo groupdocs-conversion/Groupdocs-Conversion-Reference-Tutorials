@@ -3,7 +3,6 @@ title: تحويل ملفات بوستسكريبت مغلفة EPS إلى PDF
 linktitle: تحويل ملفات بوستسكريبت مغلفة EPS إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: قم بتحويل ملفات EPS إلى PDF بسهولة باستخدام GroupDocs.Conversion for .NET. يوفر هذا البرنامج التعليمي دليلاً خطوة بخطوة للتحويل السلس.
-type: docs
 weight: 17
 url: /ar/net/convert-files-to-pdf/convert-eps-to-pdf/
 ---

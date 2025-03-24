@@ -3,7 +3,6 @@ title: Μετατροπή XLTM σε PDF
 linktitle: Μετατροπή XLTM σε PDF
 second_title: GroupDocs.Conversion .NET API
 description: Μετατρέψτε εύκολα αρχεία XLTM σε PDF χρησιμοποιώντας το GroupDocs.Conversion για .NET. Βελτιώστε τη διαδικασία μετατροπής του εγγράφου σας.
-type: docs
 weight: 26
 url: /el/net/converting-file-types-to-pdf/convert-xltm-to-pdf/
 ---

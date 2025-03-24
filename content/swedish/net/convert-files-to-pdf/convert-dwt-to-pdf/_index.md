@@ -3,7 +3,6 @@ title: Konvertera DWT CAD-mallfiler till PDF
 linktitle: Konvertera DWT CAD-mallfiler till PDF
 second_title: GroupDocs.Conversion .NET API
 description: Lär dig hur du enkelt konverterar DWT CAD-mallfiler till PDF-format med GroupDocs.Conversion for .NET.
-type: docs
 weight: 11
 url: /sv/net/convert-files-to-pdf/convert-dwt-to-pdf/
 ---

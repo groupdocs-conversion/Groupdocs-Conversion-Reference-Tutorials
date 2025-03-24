@@ -3,7 +3,6 @@ title: POT konvertálása PDF-be
 linktitle: POT konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Ismerje meg, hogyan konvertálhat POT fájlokat PDF-be a Groupdocs.Conversion for .NET segítségével könnyedén. Egyszerűsítse dokumentumkonverziós feladatait ezzel a könnyen követhető megoldással.
-type: docs
 weight: 22
 url: /hu/net/pdf-conversion/convert-pot-to-pdf/
 ---
@@ -62,6 +61,6 @@ Igen, a könyvtár támogatja több fájl egyidejű kötegelt konvertálását.
 ### Hogyan szerezhetek ideiglenes licencet a Groupdocs.Conversion for .NET számára?
  Ideiglenes engedélyt szerezhet be[itt](https://purchase.groupdocs.com/temporary-license/).
 ### Hol találom a Groupdocs.Conversion for .NET dokumentációját?
- A részletes dokumentáció elérhető[itt](https://reference.groupdocs.com/conversion/net/).
+ A részletes dokumentáció elérhető[itt](https://tutorials.groupdocs.com/conversion/net/).
 ### Hol kérhetek támogatást, vagy hol tehetek fel kérdéseket a Groupdocs.Conversion for .NET-hez kapcsolódóan?
  Látogassa meg a támogatási fórumot[itt](https://forum.groupdocs.com/c/conversion/11) segítségért.

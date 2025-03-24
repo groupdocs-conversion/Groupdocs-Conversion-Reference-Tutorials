@@ -3,7 +3,6 @@ title: Convert JPX to PDF
 linktitle: Convert JPX to PDF
 second_title: GroupDocs.Conversion .NET API
 description: Learn how to convert JPX files to PDF using GroupDocs.Conversion for .NET. Follow our step-by-step tutorial for seamless integration.
-type: docs
 weight: 16
 url: /net/document-conversion/convert-jpx-to-pdf/
 ---

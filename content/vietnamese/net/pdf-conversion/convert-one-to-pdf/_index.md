@@ -3,7 +3,6 @@ title: Chuyển đổi MỘT sang PDF
 linktitle: Chuyển đổi MỘT sang PDF
 second_title: API GroupDocs.Conversion .NET
 description: Tìm hiểu cách chuyển đổi MỘT tệp sang định dạng PDF một cách dễ dàng bằng cách sử dụng GroupDocs.Conversion cho .NET. Thực hiện theo hướng dẫn từng bước của chúng tôi.
-type: docs
 weight: 11
 url: /vi/net/pdf-conversion/convert-one-to-pdf/
 ---

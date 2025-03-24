@@ -3,7 +3,6 @@ title: تحويل الملفات إلى PDF
 linktitle: تحويل الملفات إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: قم بتحويل تنسيقات الملفات المختلفة بسهولة إلى PDF باستخدام GroupDocs.Conversion for .NET. دمج خيارات التحويل بسلاسة لإدارة المستندات بكفاءة.
-type: docs
 weight: 22
 url: /ar/net/convert-files-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: PPT konvertálása PDF-be
 linktitle: PPT konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálja a PPT-t PDF-be a GroupDocs.Conversion for .NET segítségével. Élvezze a zökkenőmentes dokumentumátalakítást testreszabható opciókkal.
-type: docs
 weight: 28
 url: /hu/net/pdf-conversion/convert-ppt-to-pdf/
 ---

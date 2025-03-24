@@ -3,7 +3,6 @@ title: XML を PDF に変換する
 linktitle: XML を PDF に変換する
 second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion for .NET を使用して XML ファイルを PDF にシームレスに変換する方法を学びます。文書管理の効率を高めます。
-type: docs
 weight: 29
 url: /ja/net/converting-file-types-to-pdf/convert-xml-to-pdf/
 ---

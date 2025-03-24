@@ -3,9 +3,8 @@ title: Convertir TIFF en PDF
 linktitle: Convertir TIFF en PDF
 second_title: API GroupDocs.Conversion .NET
 description: Apprenez à convertir facilement TIFF en PDF à l'aide de GroupDocs.Conversion pour .NET. Solution de conversion de documents simple, efficace et transparente.
-type: docs
 weight: 19
-url: /fr/net/file-format-conversion-tutorials/convert-tiff-to-pdf/
+url: /fr/net/file-format-conversion-convert-tiff-to-pdf/
 ---
 ## Introduction
 

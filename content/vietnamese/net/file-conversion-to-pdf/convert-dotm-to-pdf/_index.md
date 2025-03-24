@@ -3,7 +3,6 @@ title: Chuyển đổi mẫu Word DOTM (Macro) sang PDF
 linktitle: Chuyển đổi mẫu Word DOTM (Macro) sang PDF
 second_title: API GroupDocs.Conversion .NET
 description: Chuyển đổi các mẫu DOTM Word chứa macro sang PDF dễ dàng bằng GroupDocs.Conversion for .NET. Đảm bảo tính tương thích và bảo mật với các bước đơn giản.
-type: docs
 weight: 25
 url: /vi/net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---

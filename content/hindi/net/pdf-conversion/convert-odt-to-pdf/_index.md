@@ -3,7 +3,6 @@ title: ODT को पीडीएफ में बदलें
 linktitle: ODT को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके ODT फ़ाइलों को आसानी से PDF में बदलें। अपने दस्तावेज़ प्रबंधन वर्कफ़्लो को आसानी से सुव्यवस्थित करें।
-type: docs
 weight: 10
 url: /hi/net/pdf-conversion/convert-odt-to-pdf/
 ---

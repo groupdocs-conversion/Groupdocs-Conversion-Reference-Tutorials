@@ -3,7 +3,6 @@ title: Convertir ODT a PDF
 linktitle: Convertir ODT a PDF
 second_title: API GroupDocs.Conversión .NET
 description: Convierta archivos ODT a PDF sin esfuerzo utilizando GroupDocs.Conversion para .NET. Optimice sus flujos de trabajo de gestión de documentos con facilidad.
-type: docs
 weight: 10
 url: /es/net/pdf-conversion/convert-odt-to-pdf/
 ---

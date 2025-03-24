@@ -3,7 +3,6 @@ title: Chuyển đổi tập tin trao đổi bản vẽ CAD DXF sang PDF
 linktitle: Chuyển đổi tập tin trao đổi bản vẽ CAD DXF sang PDF
 second_title: API GroupDocs.Conversion .NET
 description: Dễ dàng chuyển đổi các tệp trao đổi bản vẽ CAD DXF sang PDF bằng GroupDocs.Conversion for .NET.
-type: docs
 weight: 12
 url: /vi/net/convert-files-to-pdf/convert-dxf-to-pdf/
 ---

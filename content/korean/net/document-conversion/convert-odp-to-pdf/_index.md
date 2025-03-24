@@ -3,7 +3,6 @@ title: ODP를 PDF로 변환
 linktitle: ODP를 PDF로 변환
 second_title: GroupDocs.Conversion .NET API
 description: .NET용 GroupDocs.Conversion을 사용하여 ODP를 PDF로 변환하는 방법을 알아보세요. 원활한 문서 변환을 위한 단계별 가이드를 따르세요.
-type: docs
 weight: 28
 url: /ko/net/document-conversion/convert-odp-to-pdf/
 ---

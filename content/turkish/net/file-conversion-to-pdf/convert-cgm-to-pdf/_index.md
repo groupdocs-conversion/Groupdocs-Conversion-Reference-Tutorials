@@ -3,7 +3,6 @@ title: CGM Vektör Grafiklerini PDF'ye Dönüştürün
 linktitle: CGM Vektör Grafiklerini PDF'ye Dönüştürün
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET'i kullanarak CGM vektör grafiklerini zahmetsizce PDF'ye nasıl dönüştüreceğinizi öğrenin. Adım adım eğitimimizi takip edin.
-type: docs
 weight: 14
 url: /tr/net/file-conversion-to-pdf/convert-cgm-to-pdf/
 ---

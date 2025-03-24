@@ -3,7 +3,6 @@ title: Конвертируйте изображения, сжатые J2C JPEG-
 linktitle: Конвертируйте изображения, сжатые J2C JPEG-LS, в PDF
 second_title: GroupDocs.Conversion .NET API
 description: Узнайте, как легко конвертировать изображения J2C в PDF с помощью GroupDocs.Conversion для .NET, упрощая процесс обработки документов.
-type: docs
 weight: 27
 url: /ru/net/convert-files-to-pdf/convert-j2c-to-pdf/
 ---

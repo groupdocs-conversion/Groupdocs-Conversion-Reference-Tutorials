@@ -3,7 +3,6 @@ title: 将 EML 电子邮件消息转换为 PDF
 linktitle: 将 EML 电子邮件消息转换为 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 了解如何使用 GroupDocs.Conversion for .NET 将 EML 电子邮件轻松转换为 PDF。
-type: docs
 weight: 14
 url: /zh/net/convert-files-to-pdf/convert-eml-to-pdf/
 ---

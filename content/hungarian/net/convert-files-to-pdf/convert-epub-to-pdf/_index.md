@@ -3,7 +3,6 @@ title: Az EPUB e-könyvek konvertálása PDF-be
 linktitle: Az EPUB e-könyvek konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálja az EPUB e-könyveket PDF formátumba a GroupDocs.Conversion for .NET segítségével. Biztosítsa a kompatibilitást és a hozzáférhetőséget minden platformon.
-type: docs
 weight: 18
 url: /hu/net/convert-files-to-pdf/convert-epub-to-pdf/
 ---

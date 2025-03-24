@@ -3,9 +3,8 @@ title: RTF konvertálása PDF-be
 linktitle: RTF konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálhat RTF fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Kövesse lépésről lépésre az integrációhoz, és szabadítsa fel a fájlkonverzió erejét.
-type: docs
 weight: 13
-url: /hu/net/file-format-conversion-tutorials/convert-rtf-to-pdf/
+url: /hu/net/file-format-conversion-convert-rtf-to-pdf/
 ---
 ## Bevezetés
 

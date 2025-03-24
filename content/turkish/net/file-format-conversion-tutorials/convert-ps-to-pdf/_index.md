@@ -3,9 +3,8 @@ title: PS'yi PDF'ye dönüştür
 linktitle: PS'yi PDF'ye dönüştür
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET'i kullanarak PS dosyalarını zahmetsizce PDF'ye dönüştürün. Dosya dönüştürme işlevini .NET uygulamalarınıza sorunsuz bir şekilde entegre edin.
-type: docs
 weight: 11
-url: /tr/net/file-format-conversion-tutorials/convert-ps-to-pdf/
+url: /tr/net/file-format-conversion-convert-ps-to-pdf/
 ---
 ## giriiş
 Dijital dünyada, dosyaları bir formattan diğerine dönüştürmek, özellikle belgelerle uğraşırken yaygın bir iştir. İster bir uygulama üzerinde çalışan bir geliştirici olun, ister kişisel kullanım için dosyaları dönüştürmeye ihtiyaç duyan bir kişi olun, bu tür dönüşümleri verimli bir şekilde gerçekleştirecek güvenilir bir araca sahip olmak çok önemlidir. GroupDocs.Conversion for .NET, çeşitli dosya formatlarını dönüştürmek için kusursuz bir çözüm sağlayan böyle bir araçtır. Bu eğitimde, GroupDocs.Conversion for .NET'i kullanarak PS (PostScript) dosyalarını PDF'ye (Taşınabilir Belge Formatı) nasıl dönüştüreceğinizi açıklayacağız.

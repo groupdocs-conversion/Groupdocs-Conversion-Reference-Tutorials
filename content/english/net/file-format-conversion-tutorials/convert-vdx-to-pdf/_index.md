@@ -3,9 +3,8 @@ title: Convert VDX to PDF
 linktitle: Convert VDX to PDF
 second_title: GroupDocs.Conversion .NET API
 description: Effortlessly convert VDX files to PDF format using GroupDocs.Conversion for .NET. Enhance your .NET applications with seamless document conversion capabilities.
-type: docs
 weight: 25
-url: /net/file-format-conversion-tutorials/convert-vdx-to-pdf/
+url: /net/file-format-conversion-convert-vdx-to-pdf/
 ---
 ## Introduction
 In today's digital age, the ability to seamlessly convert files from one format to another is essential for efficient workflow and collaboration. Among the myriad of file formats, VDX, a proprietary XML-based format used in Microsoft Visio, often requires conversion to more universally compatible formats like PDF for easier sharing and viewing.
@@ -16,7 +15,7 @@ Before we begin the conversion process, make sure you have the following prerequ
 Ensure you have a working .NET development environment installed on your system. You can download and install the latest version of the .NET SDK from the [website](https://dotnet.microsoft.com/download).
 ### GroupDocs.Conversion Installation
 1. Download the Library: Visit the [GroupDocs.Conversion for .NET download page](https://releases.groupdocs.com/conversion/net/) and acquire the latest version of the library.
-2. Installation: After downloading, unzip the package and add the GroupDocs.Conversion.dll as a reference to your .NET project.
+2. Installation: After downloading, unzip the package and add the GroupDocs.Conversion.dll as a tutorials to your .NET project.
 
 ## Import Namespaces
 In your .NET project, import the necessary namespaces to utilize GroupDocs.Conversion functionalities.

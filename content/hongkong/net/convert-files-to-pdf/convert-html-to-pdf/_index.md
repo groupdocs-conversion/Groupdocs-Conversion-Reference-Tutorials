@@ -3,7 +3,6 @@ title: 將 HTML 網頁轉換為 PDF
 linktitle: 將 HTML 網頁轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 輕鬆將 HTML 網頁轉換為 PDF 格式。請按照我們的逐步指南進行無縫文件格式轉換。
-type: docs
 weight: 22
 url: /zh-hant/net/convert-files-to-pdf/convert-html-to-pdf/
 ---
