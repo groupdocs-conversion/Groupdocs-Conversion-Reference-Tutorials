@@ -3,7 +3,6 @@ title: Преобразование файлов информационного 
 linktitle: Преобразование файлов информационного моделирования зданий IFC в PDF
 second_title: GroupDocs.Conversion .NET API
 description: Узнайте, как легко конвертировать файлы IFC Building Information Modeling в формат PDF с помощью GroupDocs.Conversion для .NET.
-type: docs
 weight: 25
 url: /ru/net/convert-files-to-pdf/convert-ifc-to-pdf/
 ---

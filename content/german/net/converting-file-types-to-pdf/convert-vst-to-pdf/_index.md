@@ -3,7 +3,6 @@ title: Konvertieren Sie VST in PDF
 linktitle: Konvertieren Sie VST in PDF
 second_title: GroupDocs.Conversion .NET-API
 description: Erfahren Sie, wie Sie mit GroupDocs.Conversion für .NET mühelos VST-Dateien in PDF konvertieren. Erweitern Sie Ihre Funktionen zur Dokumentenverwaltung.
-type: docs
 weight: 14
 url: /de/net/converting-file-types-to-pdf/convert-vst-to-pdf/
 ---

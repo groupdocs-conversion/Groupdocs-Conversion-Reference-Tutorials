@@ -3,7 +3,6 @@ title: تحويل المواد المستنفدة للأوزون إلى PDF
 linktitle: تحويل المواد المستنفدة للأوزون إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: يمكنك بسهولة تحويل ملفات ODS إلى PDF باستخدام GroupDocs.Conversion for .NET. برنامج تعليمي شامل مع تعليمات خطوة بخطوة.
-type: docs
 weight: 29
 url: /ar/net/document-conversion/convert-ods-to-pdf/
 ---
@@ -15,7 +14,7 @@ url: /ar/net/document-conversion/convert-ods-to-pdf/
 للاستفادة من وظائف GroupDocs.Conversion لـ .NET، تحتاج إلى تثبيت المكتبة. يمكنك تنزيله من موقع GroupDocs.
 1.  قم بزيارة صفحة التنزيل[هنا](https://releases.groupdocs.com/conversion/net/).
 2. حدد الإصدار المناسب وقم بتنزيل الحزمة.
-3.  اتبع تعليمات التثبيت المتوفرة في الوثائق[هنا](https://reference.groupdocs.com/conversion/net/).
+3.  اتبع تعليمات التثبيت المتوفرة في الوثائق[هنا](https://tutorials.groupdocs.com/conversion/net/).
 ### الوصول إلى ملف المواد المستنفدة للأوزون
 تأكد من أن لديك حق الوصول إلى ملف ODS الذي تنوي تحويله. إذا لم يكن الأمر كذلك، احصل على الملف من مصدره.
 ### الإلمام الأساسي بـ C#

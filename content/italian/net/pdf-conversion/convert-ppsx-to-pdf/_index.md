@@ -3,7 +3,6 @@ title: Converti PPSX in PDF
 linktitle: Converti PPSX in PDF
 second_title: API GroupDocs.Conversion .NET
 description: Converti facilmente file PPSX in formato PDF utilizzando GroupDocs.Conversion per .NET. Semplifica il flusso di lavoro dei documenti con questa potente libreria .NET.
-type: docs
 weight: 26
 url: /it/net/pdf-conversion/convert-ppsx-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: Konvertieren Sie DOC-Word-Dokumente in PDF
 linktitle: Konvertieren Sie DOC-Word-Dokumente in PDF
 second_title: GroupDocs.Conversion .NET-API
 description: Konvertieren Sie DOC-Word-Dokumente mühelos in PDF mit GroupDocs.Conversion für .NET. Befolgen Sie unsere Schritt-für-Schritt-Anleitung für eine nahtlose Dokumentenkonvertierung.
-type: docs
 weight: 23
 url: /de/net/file-conversion-to-pdf/convert-doc-to-pdf/
 ---

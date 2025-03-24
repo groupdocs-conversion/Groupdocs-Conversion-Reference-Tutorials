@@ -3,7 +3,6 @@ title: Konvertera PCL till PDF
 linktitle: Konvertera PCL till PDF
 second_title: GroupDocs.Conversion .NET API
 description: Lär dig hur du enkelt konverterar PCL-filer till PDF med GroupDocs.Conversion for .NET. Följ vår steg-för-steg-guide.
-type: docs
 weight: 18
 url: /sv/net/pdf-conversion/convert-pcl-to-pdf/
 ---

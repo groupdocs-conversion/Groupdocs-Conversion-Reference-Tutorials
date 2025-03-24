@@ -3,7 +3,6 @@ title: Konversi PDF
 linktitle: Konversi PDF
 second_title: GroupDocs.Konversi .NET API
 description: Pelajari cara mengonversi berbagai format file ke PDF dengan mudah menggunakan GroupDocs.Conversion untuk .NET. Sederhanakan alur kerja manajemen dokumen Anda hari ini!
-type: docs
 weight: 25
 url: /id/net/pdf-conversion/
 ---

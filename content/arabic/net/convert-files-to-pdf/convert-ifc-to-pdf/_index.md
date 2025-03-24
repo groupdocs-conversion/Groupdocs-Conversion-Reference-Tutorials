@@ -3,7 +3,6 @@ title: تحويل ملفات نمذجة معلومات البناء التابع
 linktitle: تحويل ملفات نمذجة معلومات البناء التابعة لمؤسسة التمويل الدولية إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: تعرف على كيفية تحويل ملفات IFC Building Information Modeling إلى تنسيق PDF بسهولة باستخدام GroupDocs.Conversion for .NET.
-type: docs
 weight: 25
 url: /ar/net/convert-files-to-pdf/convert-ifc-to-pdf/
 ---

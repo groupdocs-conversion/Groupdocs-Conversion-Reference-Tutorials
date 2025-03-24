@@ -3,7 +3,6 @@ title: Konwertuj pliki szablonów CAD DWT do formatu PDF
 linktitle: Konwertuj pliki szablonów CAD DWT do formatu PDF
 second_title: GroupDocs.Conversion API .NET
 description: Dowiedz się, jak bez wysiłku konwertować pliki szablonów DWT CAD do formatu PDF za pomocą GroupDocs.Conversion dla .NET.
-type: docs
 weight: 11
 url: /pl/net/convert-files-to-pdf/convert-dwt-to-pdf/
 ---

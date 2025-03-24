@@ -3,7 +3,6 @@ title: DXF CAD 도면 교환 파일을 PDF로 변환
 linktitle: DXF CAD 도면 교환 파일을 PDF로 변환
 second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion for .NET을 사용하여 DXF CAD 도면 교환 파일을 PDF로 손쉽게 변환하세요.
-type: docs
 weight: 12
 url: /ko/net/convert-files-to-pdf/convert-dxf-to-pdf/
 ---

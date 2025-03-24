@@ -3,7 +3,6 @@ title: DOTX Word 템플릿을 PDF로 변환
 linktitle: DOTX Word 템플릿을 PDF로 변환
 second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion for .NET을 사용하여 DOTX Word 템플릿을 PDF로 손쉽게 변환하세요. 문서 관리 작업을 단순화하세요.
-type: docs
 weight: 27
 url: /ko/net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---

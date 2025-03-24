@@ -3,7 +3,6 @@ title: Converteer DOCM Word-documenten (macro's) naar PDF
 linktitle: Converteer DOCM Word-documenten (macro's) naar PDF
 second_title: GroupDocs.Conversion .NET API
 description: Converteer DOCM Word-documenten met macro's moeiteloos naar PDF's met GroupDocs.Conversion voor .NET. Stroomlijn uw documentbeheerproces.
-type: docs
 weight: 22
 url: /nl/net/file-conversion-to-pdf/convert-docm-to-pdf/
 ---

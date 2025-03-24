@@ -3,7 +3,6 @@ title: Convertir les modèles Word DOTM (macros) en PDF
 linktitle: Convertir les modèles Word DOTM (macros) en PDF
 second_title: API GroupDocs.Conversion .NET
 description: Convertissez facilement des modèles DOTM Word contenant des macros en PDF à l'aide de GroupDocs.Conversion pour .NET. Garantissez la compatibilité et la sécurité en quelques étapes simples.
-type: docs
 weight: 25
 url: /fr/net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: Konversi eBook EPUB ke PDF
 linktitle: Konversi eBook EPUB ke PDF
 second_title: GroupDocs.Konversi .NET API
 description: Konversi eBook EPUB ke format PDF dengan mudah menggunakan GroupDocs.Conversion untuk .NET. Pastikan kompatibilitas dan aksesibilitas di semua platform.
-type: docs
 weight: 18
 url: /id/net/convert-files-to-pdf/convert-epub-to-pdf/
 ---

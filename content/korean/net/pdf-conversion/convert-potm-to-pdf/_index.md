@@ -3,7 +3,6 @@ title: POTM을 PDF로 변환
 linktitle: POTM을 PDF로 변환
 second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion for .NET을 사용하여 POTM 파일을 PDF 형식으로 쉽게 변환할 수 있습니다. 문서 관리 워크플로우를 간소화하세요.
-type: docs
 weight: 21
 url: /ko/net/pdf-conversion/convert-potm-to-pdf/
 ---

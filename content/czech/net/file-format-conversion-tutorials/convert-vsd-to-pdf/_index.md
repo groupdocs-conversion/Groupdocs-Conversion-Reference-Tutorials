@@ -3,9 +3,8 @@ title: Převést VSD do PDF
 linktitle: Převést VSD do PDF
 second_title: GroupDocs.Conversion .NET API
 description: Převeďte soubory VSD do formátu PDF bez námahy pomocí GroupDocs.Conversion for .NET. Postupujte podle našeho podrobného průvodce pro bezproblémový převod dokumentů.
-type: docs
 weight: 27
-url: /cs/net/file-format-conversion-tutorials/convert-vsd-to-pdf/
+url: /cs/net/file-format-conversion-convert-vsd-to-pdf/
 ---
 ## Úvod
 oblasti vývoje .NET je efektivní konverze dokumentů kritickým úkolem. GroupDocs.Conversion for .NET se ukazuje jako výkonný nástroj pro bezproblémové převodní operace a nabízí vývojářům možnost snadno převádět různé formáty souborů. Mezi těmito převody je běžným požadavkem transformace souborů Visio (VSD) do formátu PDF (Portable Document Format). V tomto tutoriálu se ponoříme do procesu převodu souborů VSD do PDF pomocí GroupDocs.Conversion for .NET krok za krokem.

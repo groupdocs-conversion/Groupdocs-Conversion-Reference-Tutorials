@@ -3,7 +3,6 @@ title: Chuyển đổi hình ảnh y tế DICOM sang PDF
 linktitle: Chuyển đổi hình ảnh y tế DICOM sang PDF
 second_title: API GroupDocs.Conversion .NET
 description: Dễ dàng chuyển đổi hình ảnh y tế DICOM sang định dạng PDF bằng GroupDocs.Conversion for .NET. Giải pháp chuyển đổi linh hoạt, hiệu quả và có thể tùy chỉnh.
-type: docs
 weight: 19
 url: /vi/net/file-conversion-to-pdf/convert-dicom-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: Μετατροπή JPEG σε PDF
 linktitle: Μετατροπή JPEG σε PDF
 second_title: GroupDocs.Conversion .NET API
 description: Μετατρέψτε το JPEG σε PDF απρόσκοπτα χρησιμοποιώντας το GroupDocs.Conversion για .NET. Ακολουθήστε τον βήμα προς βήμα οδηγό μας για αποτελεσματική μετατροπή μορφής αρχείου.
-type: docs
 weight: 12
 url: /el/net/document-conversion/convert-jpeg-to-pdf/
 ---

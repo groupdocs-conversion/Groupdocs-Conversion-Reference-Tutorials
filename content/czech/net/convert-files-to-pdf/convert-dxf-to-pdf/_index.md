@@ -3,7 +3,6 @@ title: Převeďte soubory výměny výkresů DXF CAD do formátu PDF
 linktitle: Převeďte soubory výměny výkresů DXF CAD do formátu PDF
 second_title: GroupDocs.Conversion .NET API
 description: Převeďte bez námahy soubory výměny výkresů DXF CAD do formátu PDF pomocí GroupDocs.Conversion for .NET.
-type: docs
 weight: 12
 url: /cs/net/convert-files-to-pdf/convert-dxf-to-pdf/
 ---

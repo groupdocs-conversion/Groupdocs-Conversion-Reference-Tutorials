@@ -3,7 +3,6 @@ title: DGN CAD 파일을 PDF로 변환
 linktitle: DGN CAD 파일을 PDF로 변환
 second_title: GroupDocs.Conversion .NET API
 description: .NET용 GroupDocs.Conversion을 사용하여 DGN CAD 파일을 PDF로 원활하게 변환하세요. 파일 변환 기능을 .NET 애플리케이션에 손쉽게 통합하세요.
-type: docs
 weight: 17
 url: /ko/net/file-conversion-to-pdf/convert-dgn-to-pdf/
 ---

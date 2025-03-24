@@ -3,7 +3,6 @@ title: Konversikan File Model 3D IGS ke PDF
 linktitle: Konversikan File Model 3D IGS ke PDF
 second_title: GroupDocs.Konversi .NET API
 description: Konversikan model IGS 3D ke PDF dengan mudah menggunakan GroupDocs.Conversion untuk .NET. Unduh sekarang untuk konversi format file yang lancar.
-type: docs
 weight: 26
 url: /id/net/convert-files-to-pdf/convert-igs-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: Konvertera DOTM Word-mallar (makron) till PDF
 linktitle: Konvertera DOTM Word-mallar (makron) till PDF
 second_title: GroupDocs.Conversion .NET API
 description: Konvertera DOTM Word-mallar som innehåller makron till PDF utan ansträngning med GroupDocs.Conversion for .NET. Säkerställ kompatibilitet och säkerhet med enkla steg.
-type: docs
 weight: 25
 url: /sv/net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---

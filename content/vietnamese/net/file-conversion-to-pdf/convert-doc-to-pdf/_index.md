@@ -3,7 +3,6 @@ title: Chuyển đổi tài liệu DOC Word sang PDF
 linktitle: Chuyển đổi tài liệu DOC Word sang PDF
 second_title: API GroupDocs.Conversion .NET
 description: Dễ dàng chuyển đổi tài liệu DOC Word sang PDF bằng GroupDocs.Conversion for .NET. Hãy làm theo hướng dẫn từng bước của chúng tôi để chuyển đổi tài liệu liền mạch.
-type: docs
 weight: 23
 url: /vi/net/file-conversion-to-pdf/convert-doc-to-pdf/
 ---

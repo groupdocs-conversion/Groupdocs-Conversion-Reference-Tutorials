@@ -3,7 +3,6 @@ title: Az EMZ továbbfejlesztett metafájlok konvertálása PDF-be
 linktitle: Az EMZ továbbfejlesztett metafájlok konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálhat EMZ fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Egyszerűsítse a fájlkonverziós feladatokat.
-type: docs
 weight: 16
 url: /hu/net/convert-files-to-pdf/convert-emz-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: BMP 画像を PDF に変換
 linktitle: BMP 画像を PDF に変換
 second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion for .NET を使用して、BMP 画像を PDF にシームレスに変換します。最適な出力を実現するカスタマイズ可能なオプション。
-type: docs
 weight: 11
 url: /ja/net/file-conversion-to-pdf/convert-bmp-to-pdf/
 ---

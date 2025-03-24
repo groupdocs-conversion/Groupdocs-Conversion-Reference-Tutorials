@@ -3,7 +3,6 @@ title: Converti pagine Web HTM in PDF
 linktitle: Converti pagine Web HTM in PDF
 second_title: API GroupDocs.Conversion .NET
 description: Converti facilmente pagine Web HTM in PDF utilizzando GroupDocs.Conversion per .NET. Segui la nostra guida passo passo per un'integrazione perfetta nelle tue applicazioni .NET.
-type: docs
 weight: 23
 url: /it/net/convert-files-to-pdf/convert-htm-to-pdf/
 ---

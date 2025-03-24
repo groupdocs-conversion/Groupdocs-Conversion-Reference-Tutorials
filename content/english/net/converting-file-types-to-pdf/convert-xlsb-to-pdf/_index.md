@@ -3,7 +3,6 @@ title: Convert XLSB to PDF
 linktitle: Convert XLSB to PDF
 second_title: GroupDocs.Conversion .NET API
 description: Learn how to convert XLSB files to PDF effortlessly using GroupDocs.Conversion for .NET. Follow our step-by-step guide.
-type: docs
 weight: 22
 url: /net/converting-file-types-to-pdf/convert-xlsb-to-pdf/
 ---
@@ -68,4 +67,4 @@ You can seek assistance and participate in discussions related to GroupDocs.Conv
 ### Q: Are there any licensing requirements for using GroupDocs.Conversion for .NET in production environments?
 Yes, you need to obtain a valid license from [here](https://purchase.groupdocs.com/buy) for using GroupDocs.Conversion for .NET in production environments.
 ### Q: Can I customize the conversion options according to my specific requirements?
-Absolutely, GroupDocs.Conversion for .NET provides various options to customize the conversion process according to your specific needs and preferences.
+Absolutely, GroupDocs.Conversion for .NET provides various options to customize the conversion process according to your specific needs and ptutorialss.

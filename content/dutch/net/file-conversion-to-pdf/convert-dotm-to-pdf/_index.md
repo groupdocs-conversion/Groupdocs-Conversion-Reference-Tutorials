@@ -3,7 +3,6 @@ title: Converteer DOTM Word-sjablonen (macro's) naar PDF
 linktitle: Converteer DOTM Word-sjablonen (macro's) naar PDF
 second_title: GroupDocs.Conversion .NET API
 description: Converteer DOTM Word-sjablonen met macro's moeiteloos naar PDF met GroupDocs.Conversion voor .NET. Garandeer compatibiliteit en veiligheid met eenvoudige stappen.
-type: docs
 weight: 25
 url: /nl/net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---

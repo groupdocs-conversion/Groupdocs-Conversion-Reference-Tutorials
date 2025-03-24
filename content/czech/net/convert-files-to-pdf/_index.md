@@ -3,7 +3,6 @@ title: Převést soubory do PDF
 linktitle: Převést soubory do PDF
 second_title: GroupDocs.Conversion .NET API
 description: Bez námahy převádějte různé formáty souborů do PDF pomocí GroupDocs.Conversion for .NET. Bezproblémově integrujte možnosti převodu pro efektivní správu dokumentů.
-type: docs
 weight: 22
 url: /cs/net/convert-files-to-pdf/
 ---

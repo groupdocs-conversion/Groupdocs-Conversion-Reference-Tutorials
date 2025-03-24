@@ -3,7 +3,6 @@ title: Konvertálja a CGM vektorgrafikát PDF-be
 linktitle: Konvertálja a CGM vektorgrafikát PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Tanulja meg, hogyan konvertálhat könnyedén CGM vektorgrafikát PDF-be a GroupDocs.Conversion for .NET segítségével. Kövesse lépésről lépésre bemutató oktatóanyagunkat.
-type: docs
 weight: 14
 url: /hu/net/file-conversion-to-pdf/convert-cgm-to-pdf/
 ---

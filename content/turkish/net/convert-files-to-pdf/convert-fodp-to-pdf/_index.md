@@ -3,7 +3,6 @@ title: FODP OpenDocument Sunumlarını PDF'ye Dönüştürün
 linktitle: FODP OpenDocument Sunumlarını PDF'ye Dönüştürün
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET'i kullanarak FODP OpenDocument Sunumlarını zahmetsizce PDF'ye nasıl dönüştüreceğinizi öğrenin. Belgelerin birlikte çalışabilirliğini geliştirin.
-type: docs
 weight: 19
 url: /tr/net/convert-files-to-pdf/convert-fodp-to-pdf/
 ---

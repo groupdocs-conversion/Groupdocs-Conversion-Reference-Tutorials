@@ -3,7 +3,6 @@ title: 將 J2C JPEG-LS 壓縮影像轉換為 PDF
 linktitle: 將 J2C JPEG-LS 壓縮影像轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 了解如何使用 GroupDocs.Conversion for .NET 輕鬆地將 J2C 影像轉換為 PDF，從而簡化文件處理流程。
-type: docs
 weight: 27
 url: /zh-hant/net/convert-files-to-pdf/convert-j2c-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: Převeďte šablony DOTM Word (makra) do PDF
 linktitle: Převeďte šablony DOTM Word (makra) do PDF
 second_title: GroupDocs.Conversion .NET API
 description: Převeďte šablony DOTM Word obsahující makra do PDF bez námahy pomocí GroupDocs.Conversion for .NET. Zajistěte kompatibilitu a bezpečnost pomocí jednoduchých kroků.
-type: docs
 weight: 25
 url: /cs/net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---

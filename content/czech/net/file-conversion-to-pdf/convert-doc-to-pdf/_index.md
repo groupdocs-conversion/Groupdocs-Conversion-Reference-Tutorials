@@ -3,7 +3,6 @@ title: Převeďte dokumenty DOC Word do PDF
 linktitle: Převeďte dokumenty DOC Word do PDF
 second_title: GroupDocs.Conversion .NET API
 description: Převeďte dokumenty DOC Word do PDF bez námahy pomocí GroupDocs.Conversion for .NET. Postupujte podle našeho podrobného průvodce pro bezproblémový převod dokumentů.
-type: docs
 weight: 23
 url: /cs/net/file-conversion-to-pdf/convert-doc-to-pdf/
 ---

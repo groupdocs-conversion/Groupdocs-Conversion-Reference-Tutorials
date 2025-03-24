@@ -3,7 +3,6 @@ title: Конвертировать ONE в PDF
 linktitle: Конвертировать ONE в PDF
 second_title: GroupDocs.Conversion .NET API
 description: Узнайте, как легко конвертировать файлы ONE в формат PDF с помощью GroupDocs.Conversion для .NET. Следуйте нашему пошаговому руководству.
-type: docs
 weight: 11
 url: /ru/net/pdf-conversion/convert-one-to-pdf/
 ---

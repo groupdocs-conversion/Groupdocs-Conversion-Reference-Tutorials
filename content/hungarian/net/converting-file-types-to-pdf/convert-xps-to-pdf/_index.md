@@ -3,7 +3,6 @@ title: Az XPS konvertálása PDF-be
 linktitle: Az XPS konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Ismerje meg, hogyan konvertálhat XPS-fájlokat PDF-be a GroupDocs.Conversion for .NET segítségével. Egyszerű lépések a zökkenőmentes dokumentumformátum-átalakításhoz.
-type: docs
 weight: 30
 url: /hu/net/converting-file-types-to-pdf/convert-xps-to-pdf/
 ---

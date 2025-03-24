@@ -3,9 +3,8 @@ title: Konversi RTF ke PDF
 linktitle: Konversi RTF ke PDF
 second_title: GroupDocs.Konversi .NET API
 description: Konversikan file RTF ke PDF dengan mudah menggunakan GroupDocs.Conversion untuk .NET. Ikuti langkah demi langkah kami untuk integrasi dan manfaatkan kekuatan konversi file.
-type: docs
 weight: 13
-url: /id/net/file-format-conversion-tutorials/convert-rtf-to-pdf/
+url: /id/net/file-format-conversion-convert-rtf-to-pdf/
 ---
 ## Perkenalan
 

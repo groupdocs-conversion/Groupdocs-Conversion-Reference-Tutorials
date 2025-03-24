@@ -3,9 +3,8 @@ title: STLをPDFに変換
 linktitle: STLをPDFに変換
 second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion for .NET を使用して、STL ファイルを PDF 形式に簡単に変換します。文書管理プロセスを合理化します。
-type: docs
 weight: 14
-url: /ja/net/file-format-conversion-tutorials/convert-stl-to-pdf/
+url: /ja/net/file-format-conversion-convert-stl-to-pdf/
 ---
 ## 導入
 今日のデジタル時代では、ファイルをある形式から別の形式にシームレスに変換できる機能は、ドキュメント管理の重要な側面です。 CAD ファイル、画像、ドキュメントのいずれを扱う場合でも、それらを別の形式に変換する必要が生じることがよくあります。このチュートリアルでは、GroupDocs.Conversion for .NET を使用して STL ファイルを PDF 形式に変換するプロセスについて詳しく説明します。 GroupDocs.Conversion は、変換プロセスを合理化し、効率的かつ手間のかからない強力なツール セットを提供します。

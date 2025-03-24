@@ -3,7 +3,6 @@ title: पीपीटी को पीडीएफ में बदलें
 linktitle: पीपीटी को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से PPT को PDF में बदलें। अनुकूलन योग्य विकल्पों के साथ निर्बाध दस्तावेज़ रूपांतरण का आनंद लें।
-type: docs
 weight: 28
 url: /hi/net/pdf-conversion/convert-ppt-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: J2C JPEG-LS 圧縮画像を PDF に変換
 linktitle: J2C JPEG-LS 圧縮画像を PDF に変換
 second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion for .NET を使用して J2C 画像を PDF に簡単に変換し、ドキュメント処理プロセスを合理化する方法を学びます。
-type: docs
 weight: 27
 url: /ja/net/convert-files-to-pdf/convert-j2c-to-pdf/
 ---

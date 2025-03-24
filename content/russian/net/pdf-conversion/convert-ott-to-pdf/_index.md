@@ -3,7 +3,6 @@ title: Конвертировать OTT в PDF
 linktitle: Конвертировать OTT в PDF
 second_title: GroupDocs.Conversion .NET API
 description: Узнайте, как легко конвертировать файлы OTT в формат PDF с помощью GroupDocs.Conversion для .NET. Легко интегрируйте преобразование файлов в свои приложения .NET.
-type: docs
 weight: 16
 url: /ru/net/pdf-conversion/convert-ott-to-pdf/
 ---

@@ -3,9 +3,8 @@ title: Convertir TXT a PDF
 linktitle: Convertir TXT a PDF
 second_title: API GroupDocs.Conversión .NET
 description: Convierta TXT a PDF sin esfuerzo con GroupDocs.Conversion para .NET. Siga nuestra guía paso a paso para una conversión perfecta del formato de documentos.
-type: docs
 weight: 22
-url: /es/net/file-format-conversion-tutorials/convert-txt-to-pdf/
+url: /es/net/file-format-conversion-convert-txt-to-pdf/
 ---
 ## Introducción
 En la era digital actual, la capacidad de manipular formatos de documentos mediante programación es esencial para muchas aplicaciones de software. Ya sea que esté creando un sistema de gestión de documentos, un editor en línea o simplemente necesite convertir archivos de un formato a otro, tener una herramienta de conversión confiable y eficiente es crucial. Una de esas herramientas que se destaca es GroupDocs.Conversion para .NET.

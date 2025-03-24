@@ -3,7 +3,6 @@ title: वीएसएस को पीडीएफ में बदलें
 linktitle: वीएसएस को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से VSS फ़ाइलों को PDF में कनवर्ट करें। बैच रूपांतरण, अनुकूलन योग्य विकल्प और निर्बाध एकीकरण।
-type: docs
 weight: 11
 url: /hi/net/converting-file-types-to-pdf/convert-vss-to-pdf/
 ---

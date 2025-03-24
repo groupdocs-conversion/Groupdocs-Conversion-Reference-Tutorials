@@ -3,7 +3,6 @@ title: Converteer DOTX Word-sjablonen naar PDF
 linktitle: Converteer DOTX Word-sjablonen naar PDF
 second_title: GroupDocs.Conversion .NET API
 description: Converteer DOTX Word-sjablonen moeiteloos naar PDF met GroupDocs.Conversion voor .NET. Vereenvoudig uw documentbeheertaken.
-type: docs
 weight: 27
 url: /nl/net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---

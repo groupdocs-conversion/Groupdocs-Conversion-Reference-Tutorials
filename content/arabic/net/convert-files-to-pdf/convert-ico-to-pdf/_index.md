@@ -3,7 +3,6 @@ title: تحويل أيقونات ICO إلى PDF
 linktitle: تحويل أيقونات ICO إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: يمكنك بسهولة تحويل أيقونات ICO إلى PDF باستخدام GroupDocs.Conversion for .NET. عزز الإنتاجية من خلال الخطوات البسيطة الموضحة في هذا البرنامج التعليمي.
-type: docs
 weight: 24
 url: /ar/net/convert-files-to-pdf/convert-ico-to-pdf/
 ---

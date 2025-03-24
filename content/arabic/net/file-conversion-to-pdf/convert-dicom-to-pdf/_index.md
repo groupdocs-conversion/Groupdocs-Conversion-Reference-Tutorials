@@ -3,7 +3,6 @@ title: تحويل الصور الطبية DICOM إلى PDF
 linktitle: تحويل الصور الطبية DICOM إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: يمكنك بسهولة تحويل صور DICOM الطبية إلى تنسيق PDF باستخدام GroupDocs.Conversion for .NET. حل تحويل مرن وفعال وقابل للتخصيص.
-type: docs
 weight: 19
 url: /ar/net/file-conversion-to-pdf/convert-dicom-to-pdf/
 ---

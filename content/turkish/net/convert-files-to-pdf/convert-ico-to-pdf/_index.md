@@ -3,7 +3,6 @@ title: ICO Simgelerini PDF'ye Dönüştürün
 linktitle: ICO Simgelerini PDF'ye Dönüştürün
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET'i kullanarak ICO simgelerini zahmetsizce PDF'ye dönüştürün. Bu eğitimde özetlenen basit adımlarla üretkenliği artırın.
-type: docs
 weight: 24
 url: /tr/net/convert-files-to-pdf/convert-ico-to-pdf/
 ---

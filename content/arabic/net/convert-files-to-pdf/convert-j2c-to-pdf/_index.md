@@ -3,7 +3,6 @@ title: تحويل الصور المضغوطة J2C JPEG-LS إلى PDF
 linktitle: تحويل الصور المضغوطة J2C JPEG-LS إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: تعرف على كيفية تحويل صور J2C إلى PDF بسهولة باستخدام GroupDocs.Conversion for .NET، مما يؤدي إلى تبسيط عملية معالجة المستندات لديك.
-type: docs
 weight: 27
 url: /ar/net/convert-files-to-pdf/convert-j2c-to-pdf/
 ---

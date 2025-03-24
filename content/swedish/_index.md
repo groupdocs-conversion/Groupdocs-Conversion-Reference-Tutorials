@@ -3,7 +3,6 @@ title: Lås upp GroupDocs.Conversion Expertise
 linktitle: GroupDocs.Conversion Tutorials
 additionalTitle: GroupDocs API-referenser
 description: Upptäck kraften i GroupDocs.Conversion genom våra självstudier. Lär dig att enkelt konvertera dokument mellan format för sömlös arbetsflödesintegration.
-type: docs
 weight: 11
 url: /sv/
 is_root: true

@@ -3,7 +3,6 @@ title: 將 MD 轉換為 PDF
 linktitle: 將 MD 轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 輕鬆將 Markdown 文件轉換為 PDF。簡化您的文件工作流程。
-type: docs
 weight: 19
 url: /zh-hant/net/document-conversion/convert-md-to-pdf/
 ---

@@ -3,9 +3,8 @@ title: تحويل TIF إلى PDF
 linktitle: تحويل TIF إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: يمكنك بسهولة تحويل ملفات TIF إلى تنسيق PDF باستخدام GroupDocs.Conversion for .NET. تبسيط عملية تحويل المستندات الخاصة بك.
-type: docs
 weight: 20
-url: /ar/net/file-format-conversion-tutorials/convert-tif-to-pdf/
+url: /ar/net/file-format-conversion-convert-tif-to-pdf/
 ---
 ## مقدمة
 في عالم تطوير .NET، يعد التحويل الفعال للمستندات مهمة بالغة الأهمية. سواء كنت تتعامل مع ملفات TIF وتحتاج إليها بتنسيق PDF أو العكس، فإن امتلاك الأدوات المناسبة يمكن أن يؤدي إلى تبسيط سير عملك بشكل كبير. إحدى هذه الأدوات البارزة هي GroupDocs.Conversion for .NET. توفر هذه المكتبة القوية للمطورين القدرة على التحويل بسلاسة بين تنسيقات المستندات المختلفة، بما في ذلك TIF إلى PDF وما بعده.

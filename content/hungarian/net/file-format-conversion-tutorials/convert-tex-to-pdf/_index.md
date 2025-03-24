@@ -3,9 +3,8 @@ title: Konvertálja a TEX-et PDF-be
 linktitle: Konvertálja a TEX-et PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Ismerje meg, hogyan konvertálhat TEX fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Egyszerű lépések a zökkenőmentes dokumentumformátum-átalakításhoz.
-type: docs
 weight: 18
-url: /hu/net/file-format-conversion-tutorials/convert-tex-to-pdf/
+url: /hu/net/file-format-conversion-convert-tex-to-pdf/
 ---
 ## Bevezetés
 A dokumentumkezelés és -kezelés területén a fájlok egyik formátumból a másikba konvertálása általános szükséglet. Legyen szó szöveges dokumentumokról, táblázatokról vagy prezentációkról, a formátumok közötti zökkenőmentes váltás lehetősége jelentősen növelheti a termelékenységet és egyszerűsítheti a munkafolyamatokat.

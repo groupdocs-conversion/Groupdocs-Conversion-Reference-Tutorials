@@ -3,7 +3,6 @@ title: แปลงเอกสาร Word DOCM (มาโคร) เป็น P
 linktitle: แปลงเอกสาร Word DOCM (มาโคร) เป็น PDF
 second_title: GroupDocs.Conversion .NET API
 description: แปลงเอกสาร DOCM Word ด้วยมาโครเป็น PDF ได้อย่างง่ายดายโดยใช้ GroupDocs.Conversion สำหรับ .NET ปรับปรุงกระบวนการจัดการเอกสารของคุณ
-type: docs
 weight: 22
 url: /th/net/file-conversion-to-pdf/convert-docm-to-pdf/
 ---

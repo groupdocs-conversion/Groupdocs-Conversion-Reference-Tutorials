@@ -1,7 +1,6 @@
 ---
 title: Kompleksowe samouczki GroupDocs.Conversion dla .NET
 linktitle: GroupDocs.Conversion dla samouczków .NET
-type: docs
 weight: 10
 url: /pl/net/
 description: Bez wysiłku konwertuj pliki do formatu PDF za pomocą GroupDocs.Conversion dla .NET. Usprawnij zarządzanie dokumentami dzięki konfigurowalnym opcjom. #GroupDocs.Konwersja

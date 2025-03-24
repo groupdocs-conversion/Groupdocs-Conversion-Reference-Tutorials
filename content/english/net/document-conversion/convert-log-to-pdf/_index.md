@@ -3,7 +3,6 @@ title: Convert LOG to PDF
 linktitle: Convert LOG to PDF
 second_title: GroupDocs.Conversion .NET API
 description: Effortlessly convert LOG files to PDF format in .NET applications using GroupDocs.Conversion for .NET. Follow our step-by-step guide for document conversion.
-type: docs
 weight: 17
 url: /net/document-conversion/convert-log-to-pdf/
 ---

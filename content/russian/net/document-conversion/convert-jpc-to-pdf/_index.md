@@ -3,7 +3,6 @@ title: Конвертировать JPC в PDF
 linktitle: Конвертировать JPC в PDF
 second_title: GroupDocs.Conversion .NET API
 description: Легко конвертируйте файлы JPC в формат PDF с помощью GroupDocs.Conversion для .NET. Расширьте свои возможности управления документами с помощью этого комплексного решения.
-type: docs
 weight: 11
 url: /ru/net/document-conversion/convert-jpc-to-pdf/
 ---

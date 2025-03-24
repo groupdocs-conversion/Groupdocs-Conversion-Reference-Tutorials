@@ -3,7 +3,6 @@ title: MPT konvertálása PDF-be
 linktitle: MPT konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Tanulja meg, hogyan konvertálhat könnyedén MPT fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Kövesse lépésről lépésre az integráció és a hatékony dokumentumkezelés érdekében.
-type: docs
 weight: 24
 url: /hu/net/document-conversion/convert-mpt-to-pdf/
 ---

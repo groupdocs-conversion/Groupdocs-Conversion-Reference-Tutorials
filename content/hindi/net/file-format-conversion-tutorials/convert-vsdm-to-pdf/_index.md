@@ -3,9 +3,8 @@ title: वीएसडीएम को पीडीएफ में बदले
 linktitle: वीएसडीएम को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके VSDM फ़ाइलों को PDF प्रारूप में परिवर्तित करना सीखें। निर्बाध रूपांतरण के लिए हमारी चरण-दर-चरण मार्गदर्शिका का पालन करें।
-type: docs
 weight: 26
-url: /hi/net/file-format-conversion-tutorials/convert-vsdm-to-pdf/
+url: /hi/net/file-format-conversion-convert-vsdm-to-pdf/
 ---
 ## परिचय
 इस ट्यूटोरियल में, हम आपको .NET के लिए GroupDocs.Conversion लाइब्रेरी का उपयोग करके VSDM (Visio Macro-Enabled Drawing) फ़ाइलों को पीडीएफ प्रारूप में परिवर्तित करने की प्रक्रिया के बारे में मार्गदर्शन करेंगे। सुचारू रूपांतरण प्रक्रिया सुनिश्चित करने के लिए हम प्रत्येक चरण को विस्तृत निर्देशों में विभाजित करेंगे।
@@ -63,4 +62,4 @@ Console.WriteLine("\nConversion to PDF completed successfully. \nCheck output in
 ### क्या मैं GroupDocs.Conversion के लिए एक अस्थायी लाइसेंस खरीद सकता हूँ?
  हां, आप यहां से अस्थायी लाइसेंस खरीद सकते हैं[यहाँ](https://purchase.groupdocs.com/temporary-license/).
 ### मुझे GroupDocs.Conversion के लिए संपूर्ण दस्तावेज़ कहां मिल सकते हैं?
- संपूर्ण दस्तावेज़ पाया जा सकता है[यहाँ](https://reference.groupdocs.com/conversion/net/).
+ संपूर्ण दस्तावेज़ पाया जा सकता है[यहाँ](https://tutorials.groupdocs.com/conversion/net/).

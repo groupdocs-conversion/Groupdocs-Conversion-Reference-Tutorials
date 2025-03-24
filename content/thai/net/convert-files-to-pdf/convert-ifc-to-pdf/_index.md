@@ -3,7 +3,6 @@ title: แปลงไฟล์การสร้างแบบจำลอง�
 linktitle: แปลงไฟล์การสร้างแบบจำลองข้อมูลอาคาร IFC เป็น PDF
 second_title: GroupDocs.Conversion .NET API
 description: เรียนรู้วิธีแปลงไฟล์ IFC Building Information Modeling เป็นรูปแบบ PDF ได้อย่างง่ายดายโดยใช้ GroupDocs.Conversion สำหรับ .NET
-type: docs
 weight: 25
 url: /th/net/convert-files-to-pdf/convert-ifc-to-pdf/
 ---

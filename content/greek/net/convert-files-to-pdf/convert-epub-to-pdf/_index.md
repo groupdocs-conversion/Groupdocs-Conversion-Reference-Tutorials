@@ -3,7 +3,6 @@ title: Μετατροπή ηλεκτρονικών βιβλίων EPUB σε PDF
 linktitle: Μετατροπή ηλεκτρονικών βιβλίων EPUB σε PDF
 second_title: GroupDocs.Conversion .NET API
 description: Μετατρέψτε εύκολα τα ηλεκτρονικά βιβλία EPUB σε μορφή PDF χρησιμοποιώντας το GroupDocs.Conversion για .NET. Εξασφαλίστε συμβατότητα και προσβασιμότητα σε όλες τις πλατφόρμες.
-type: docs
 weight: 18
 url: /el/net/convert-files-to-pdf/convert-epub-to-pdf/
 ---

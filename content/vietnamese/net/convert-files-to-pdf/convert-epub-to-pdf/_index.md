@@ -3,7 +3,6 @@ title: Chuyển đổi sách điện tử EPUB sang PDF
 linktitle: Chuyển đổi sách điện tử EPUB sang PDF
 second_title: API GroupDocs.Conversion .NET
 description: Dễ dàng chuyển đổi sách điện tử EPUB sang định dạng PDF bằng GroupDocs.Conversion for .NET. Đảm bảo khả năng tương thích và khả năng truy cập trên tất cả các nền tảng.
-type: docs
 weight: 18
 url: /vi/net/convert-files-to-pdf/convert-epub-to-pdf/
 ---

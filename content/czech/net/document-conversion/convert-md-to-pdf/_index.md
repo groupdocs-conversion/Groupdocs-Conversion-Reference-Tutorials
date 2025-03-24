@@ -3,7 +3,6 @@ title: Převést MD do PDF
 linktitle: Převést MD do PDF
 second_title: GroupDocs.Conversion .NET API
 description: Bez námahy převádějte soubory Markdown do PDF pomocí GroupDocs.Conversion for .NET. Zjednodušte svůj pracovní postup s dokumenty.
-type: docs
 weight: 19
 url: /cs/net/document-conversion/convert-md-to-pdf/
 ---

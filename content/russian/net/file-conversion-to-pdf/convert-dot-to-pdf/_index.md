@@ -3,7 +3,6 @@ title: Преобразование шаблонов слов DOT в PDF
 linktitle: Преобразование шаблонов слов DOT в PDF
 second_title: GroupDocs.Conversion .NET API
 description: Узнайте, как легко конвертировать файлы DOT (шаблоны Word) в PDF в .NET с помощью GroupDocs.Conversion для плавной интеграции в ваши приложения.
-type: docs
 weight: 26
 url: /ru/net/file-conversion-to-pdf/convert-dot-to-pdf/
 ---

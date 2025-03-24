@@ -3,7 +3,6 @@ title: DOTX Word Şablonlarını PDF'ye Dönüştürün
 linktitle: DOTX Word Şablonlarını PDF'ye Dönüştürün
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET'i kullanarak DOTX Word şablonlarını zahmetsizce PDF'ye dönüştürün. Belge yönetimi görevlerinizi basitleştirin.
-type: docs
 weight: 27
 url: /tr/net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---

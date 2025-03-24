@@ -3,7 +3,6 @@ title: Konvertálja az XLT-t PDF-be
 linktitle: Konvertálja az XLT-t PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Tanulja meg, hogyan konvertálhat könnyedén XLT fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Egyszerűsítse dokumentum-átalakítási feladatait ezzel az átfogó oktatóanyaggal.
-type: docs
 weight: 27
 url: /hu/net/converting-file-types-to-pdf/convert-xlt-to-pdf/
 ---

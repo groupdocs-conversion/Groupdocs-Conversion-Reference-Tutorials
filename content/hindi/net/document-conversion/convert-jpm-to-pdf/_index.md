@@ -3,7 +3,6 @@ title: जेपीएम को पीडीएफ में बदलें
 linktitle: जेपीएम को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से JPM फ़ाइलों को PDF में बदलें। अपनी फ़ाइल रूपांतरण प्रक्रियाओं को आसानी से सुव्यवस्थित करें।
-type: docs
 weight: 15
 url: /hi/net/document-conversion/convert-jpm-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: 文件格式转换
 linktitle: 文件格式转换
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 轻松将各种文件格式转换为 PDF。通过分步指南和无缝集成提高生产力。
-type: docs
 weight: 21
 url: /zh/net/file-format-conversion-tutorials/
 ---

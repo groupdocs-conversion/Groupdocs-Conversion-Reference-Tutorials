@@ -3,7 +3,6 @@ title: Преобразование сообщений электронной п
 linktitle: Преобразование сообщений электронной почты EMLX Apple Mail в PDF
 second_title: GroupDocs.Conversion .NET API
 description: Узнайте, как легко конвертировать сообщения электронной почты EMLX Apple Mail в PDF с помощью GroupDocs.Conversion для .NET. Упростите задачи управления документами.
-type: docs
 weight: 15
 url: /ru/net/convert-files-to-pdf/convert-emlx-to-pdf/
 ---

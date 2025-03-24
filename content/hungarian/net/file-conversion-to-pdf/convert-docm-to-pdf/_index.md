@@ -3,7 +3,6 @@ title: Konvertálja a DOCM Word dokumentumokat (makrókat) PDF-be
 linktitle: Konvertálja a DOCM Word dokumentumokat (makrókat) PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálja a makrókat tartalmazó DOCM Word-dokumentumokat PDF-fájlokká a GroupDocs.Conversion for .NET segítségével. Egyszerűsítse dokumentumkezelési folyamatát.
-type: docs
 weight: 22
 url: /hu/net/file-conversion-to-pdf/convert-docm-to-pdf/
 ---

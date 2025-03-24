@@ -3,7 +3,6 @@ title: FODS OpenDocument Elektronik Tablolarını PDF'ye Dönüştürün
 linktitle: FODS OpenDocument Elektronik Tablolarını PDF'ye Dönüştürün
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET'i kullanarak FODS OpenDocument Elektronik Tablolarını zahmetsizce PDF'lere dönüştürün. Sorunsuz belge dönüştürmeyle .NET uygulamalarınızı geliştirin.
-type: docs
 weight: 20
 url: /tr/net/convert-files-to-pdf/convert-fods-to-pdf/
 ---

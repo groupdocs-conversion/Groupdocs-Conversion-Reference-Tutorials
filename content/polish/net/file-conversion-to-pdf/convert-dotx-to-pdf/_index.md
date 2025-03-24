@@ -3,7 +3,6 @@ title: Konwertuj szablony Word DOTX na format PDF
 linktitle: Konwertuj szablony Word DOTX na format PDF
 second_title: GroupDocs.Conversion API .NET
 description: Bez wysiłku konwertuj szablony DOTX Word do formatu PDF za pomocą GroupDocs.Conversion dla .NET. Uprość swoje zadania związane z zarządzaniem dokumentami.
-type: docs
 weight: 27
 url: /pl/net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---

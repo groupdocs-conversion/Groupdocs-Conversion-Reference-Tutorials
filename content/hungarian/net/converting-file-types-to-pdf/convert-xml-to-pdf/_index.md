@@ -3,7 +3,6 @@ title: Konvertálja az XML-t PDF-be
 linktitle: Konvertálja az XML-t PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Ismerje meg, hogyan konvertálhat zökkenőmentesen XML-fájlokat PDF-be a GroupDocs.Conversion for .NET segítségével. Növelje dokumentumkezelésének hatékonyságát.
-type: docs
 weight: 29
 url: /hu/net/converting-file-types-to-pdf/convert-xml-to-pdf/
 ---

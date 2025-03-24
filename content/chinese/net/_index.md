@@ -1,7 +1,6 @@
 ---
 title: GroupDocs.Conversion for .NET 综合教程
 linktitle: .NET 教程的 GroupDocs.Conversion
-type: docs
 weight: 10
 url: /zh/net/
 description: 使用 GroupDocs.Conversion for .NET 轻松将文件转换为 PDF。通过可定制的选项简化文档管理。 #GroupDocs.Conversion

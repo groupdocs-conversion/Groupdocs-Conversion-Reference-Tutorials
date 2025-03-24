@@ -3,7 +3,6 @@ title: DXF CAD Çizim Değişim Dosyalarını PDF'ye Dönüştürün
 linktitle: DXF CAD Çizim Değişim Dosyalarını PDF'ye Dönüştürün
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET ile DXF CAD Çizim Değişim Dosyalarını zahmetsizce PDF'ye dönüştürün.
-type: docs
 weight: 12
 url: /tr/net/convert-files-to-pdf/convert-dxf-to-pdf/
 ---

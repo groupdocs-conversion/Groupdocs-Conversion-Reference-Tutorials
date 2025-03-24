@@ -3,7 +3,6 @@ title: A WMF konvertálása PDF-be
 linktitle: A WMF konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Tanulja meg, hogyan konvertálhat könnyedén WMF fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Kövesse lépésről lépésre bemutató oktatóanyagunkat.
-type: docs
 weight: 19
 url: /hu/net/converting-file-types-to-pdf/convert-wmf-to-pdf/
 ---

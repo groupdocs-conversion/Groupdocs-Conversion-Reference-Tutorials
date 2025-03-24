@@ -3,7 +3,6 @@ title: MSGをPDFに変換
 linktitle: MSGをPDFに変換
 second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion for .NET を使用して、MSG ファイルを PDF に簡単に変換します。シームレスなドキュメント管理については、ステップバイステップのガイドに従ってください。
-type: docs
 weight: 26
 url: /ja/net/document-conversion/convert-msg-to-pdf/
 ---

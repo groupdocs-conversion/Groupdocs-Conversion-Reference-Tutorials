@@ -1,7 +1,6 @@
 ---
 title: Ολοκληρωμένα σεμινάρια του GroupDocs.Conversion για .NET
 linktitle: GroupDocs.Conversion for .NET Tutorials
-type: docs
 weight: 10
 url: /el/net/
 description: Μετατρέψτε εύκολα αρχεία σε PDF χρησιμοποιώντας το GroupDocs.Conversion για .NET. Βελτιώστε τη διαχείριση εγγράφων με προσαρμόσιμες επιλογές. #GroupDocs.Conversion

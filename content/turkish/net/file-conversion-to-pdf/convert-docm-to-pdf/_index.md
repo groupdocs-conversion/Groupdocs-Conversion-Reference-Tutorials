@@ -3,7 +3,6 @@ title: DOCM Word Belgelerini (Makroları) PDF'ye Dönüştürme
 linktitle: DOCM Word Belgelerini (Makroları) PDF'ye Dönüştürme
 second_title: GroupDocs.Conversion .NET API'si
 description: Makrolu DOCM Word Belgelerini GroupDocs.Conversion for .NET'i kullanarak zahmetsizce PDF'lere dönüştürün. Belge yönetimi sürecinizi kolaylaştırın.
-type: docs
 weight: 22
 url: /tr/net/file-conversion-to-pdf/convert-docm-to-pdf/
 ---

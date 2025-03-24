@@ -3,7 +3,6 @@ title: Konversi Halaman Web HTM ke PDF
 linktitle: Konversi Halaman Web HTM ke PDF
 second_title: GroupDocs.Konversi .NET API
 description: Konversi halaman web HTM ke PDF dengan mudah menggunakan GroupDocs.Conversion untuk .NET. Ikuti panduan langkah demi langkah kami untuk integrasi yang lancar ke dalam aplikasi .NET Anda.
-type: docs
 weight: 23
 url: /id/net/convert-files-to-pdf/convert-htm-to-pdf/
 ---

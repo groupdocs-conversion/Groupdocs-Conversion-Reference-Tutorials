@@ -3,7 +3,6 @@ title: Chuyển đổi XLSX sang PDF
 linktitle: Chuyển đổi XLSX sang PDF
 second_title: API GroupDocs.Conversion .NET
 description: Dễ dàng chuyển đổi tệp XLSX sang PDF bằng thư viện GroupDocs.Conversion cho .NET. Tích hợp liền mạch, tùy chọn tùy chỉnh và kết quả hoàn hảo.
-type: docs
 weight: 25
 url: /vi/net/converting-file-types-to-pdf/convert-xlsx-to-pdf/
 ---

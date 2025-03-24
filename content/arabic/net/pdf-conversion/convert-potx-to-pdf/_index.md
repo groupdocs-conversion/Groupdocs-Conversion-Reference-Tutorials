@@ -3,7 +3,6 @@ title: تحويل POTX إلى PDF
 linktitle: تحويل POTX إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: تعرف على كيفية تحويل ملفات POTX إلى PDF باستخدام GroupDocs.Conversion for .NET. اتبع هذا البرنامج التعليمي خطوة بخطوة لتحويل المستندات بسلاسة.
-type: docs
 weight: 23
 url: /ar/net/pdf-conversion/convert-potx-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: Konverze souboru do PDF
 linktitle: Konverze souboru do PDF
 second_title: GroupDocs.Conversion .NET API
 description: Naučte se, jak bez námahy převádět různé formáty souborů do PDF pomocí GroupDocs.Conversion for .NET. Vylepšete správu dokumentů pomocí přizpůsobitelných možností.
-type: docs
 weight: 20
 url: /cs/net/file-conversion-to-pdf/
 ---

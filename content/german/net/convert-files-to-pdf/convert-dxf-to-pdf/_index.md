@@ -3,7 +3,6 @@ title: Konvertieren Sie DXF-CAD-Zeichnungsaustauschdateien in PDF
 linktitle: Konvertieren Sie DXF-CAD-Zeichnungsaustauschdateien in PDF
 second_title: GroupDocs.Conversion .NET-API
 description: Konvertieren Sie mühelos DXF-CAD-Zeichnungsaustauschdateien in PDF mit GroupDocs.Conversion für .NET.
-type: docs
 weight: 12
 url: /de/net/convert-files-to-pdf/convert-dxf-to-pdf/
 ---

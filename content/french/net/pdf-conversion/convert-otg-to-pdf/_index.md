@@ -3,7 +3,6 @@ title: Convertir OTG en PDF
 linktitle: Convertir OTG en PDF
 second_title: API GroupDocs.Conversion .NET
 description: Découvrez comment convertir des fichiers OTG en PDF à l'aide de GroupDocs.Conversion pour .NET. Intégration simple, efficace et transparente pour vos projets.
-type: docs
 weight: 13
 url: /fr/net/pdf-conversion/convert-otg-to-pdf/
 ---

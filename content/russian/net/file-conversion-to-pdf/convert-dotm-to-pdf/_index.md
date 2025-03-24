@@ -3,7 +3,6 @@ title: Преобразование шаблонов слов DOTM (макрос
 linktitle: Преобразование шаблонов слов DOTM (макросов) в PDF
 second_title: GroupDocs.Conversion .NET API
 description: Легко конвертируйте шаблоны DOTM Word, содержащие макросы, в PDF с помощью GroupDocs.Conversion для .NET. Обеспечьте совместимость и безопасность с помощью простых шагов.
-type: docs
 weight: 25
 url: /ru/net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: Конвертировать XLSB в PDF
 linktitle: Конвертировать XLSB в PDF
 second_title: GroupDocs.Conversion .NET API
 description: Узнайте, как легко конвертировать файлы XLSB в PDF с помощью GroupDocs.Conversion для .NET. Следуйте нашему пошаговому руководству.
-type: docs
 weight: 22
 url: /ru/net/converting-file-types-to-pdf/convert-xlsb-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: Konvertera DNG-bilder till PDF
 linktitle: Konvertera DNG-bilder till PDF
 second_title: GroupDocs.Conversion .NET API
 description: Lär dig hur du enkelt konverterar DNG-bilder till PDF med GroupDocs.Conversion for .NET. Följ vår steg-för-steg-guide för sömlös konvertering.
-type: docs
 weight: 21
 url: /sv/net/file-conversion-to-pdf/convert-dng-to-pdf/
 ---

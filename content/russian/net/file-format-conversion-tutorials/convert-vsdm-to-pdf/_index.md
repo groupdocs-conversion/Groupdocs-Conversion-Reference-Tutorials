@@ -3,9 +3,8 @@ title: Конвертировать VSDM в PDF
 linktitle: Конвертировать VSDM в PDF
 second_title: GroupDocs.Conversion .NET API
 description: Узнайте, как преобразовать файлы VSDM в формат PDF с помощью GroupDocs.Conversion для .NET. Следуйте нашему пошаговому руководству для плавного преобразования.
-type: docs
 weight: 26
-url: /ru/net/file-format-conversion-tutorials/convert-vsdm-to-pdf/
+url: /ru/net/file-format-conversion-convert-vsdm-to-pdf/
 ---
 ## Введение
 В этом руководстве мы покажем вам процесс преобразования файлов VSDM (рисунков Visio с поддержкой макросов) в формат PDF с помощью библиотеки GroupDocs.Conversion для .NET. Мы разобьем каждый шаг на подробные инструкции, чтобы обеспечить плавный процесс преобразования.
@@ -63,4 +62,4 @@ Console.WriteLine("\nConversion to PDF completed successfully. \nCheck output in
 ### Могу ли я приобрести временную лицензию для GroupDocs.Conversion?
  Да, вы можете приобрести временную лицензию у[здесь](https://purchase.groupdocs.com/temporary-license/).
 ### Где я могу найти полную документацию по GroupDocs.Conversion?
- Полную документацию можно найти[здесь](https://reference.groupdocs.com/conversion/net/).
+ Полную документацию можно найти[здесь](https://tutorials.groupdocs.com/conversion/net/).

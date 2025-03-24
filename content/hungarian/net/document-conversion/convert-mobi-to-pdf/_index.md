@@ -3,7 +3,6 @@ title: A MOBI konvertálása PDF-be
 linktitle: A MOBI konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Tanulja meg, hogyan konvertálhat könnyedén MOBI-fájlokat PDF-be a GroupDocs.Conversion for .NET segítségével. Kövesse lépésenkénti útmutatónkat.
-type: docs
 weight: 22
 url: /hu/net/document-conversion/convert-mobi-to-pdf/
 ---

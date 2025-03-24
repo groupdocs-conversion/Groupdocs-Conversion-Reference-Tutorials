@@ -3,7 +3,6 @@ title: 將 VSSX 轉換為PDF
 linktitle: 將 VSSX 轉換為PDF
 second_title: GroupDocs.Conversion .NET API
 description: 了解如何使用 GroupDocs.Conversion for .NET 將 VSSX 檔案輕鬆轉換為 PDF 格式。簡化您的文件管理工作流程。
-type: docs
 weight: 12
 url: /zh-hant/net/converting-file-types-to-pdf/convert-vssx-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: 將 DOCM Word 文件（巨集）轉換為 PDF
 linktitle: 將 DOCM Word 文件（巨集）轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 輕鬆將帶有巨集的 DOCM Word 文件轉換為 PDF。簡化您的文件管理流程。
-type: docs
 weight: 22
 url: /zh-hant/net/file-conversion-to-pdf/convert-docm-to-pdf/
 ---

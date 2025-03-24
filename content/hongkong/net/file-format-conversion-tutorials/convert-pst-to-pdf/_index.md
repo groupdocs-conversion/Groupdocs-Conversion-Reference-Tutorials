@@ -3,9 +3,8 @@ title: 將 PST 轉換為 PDF
 linktitle: 將 PST 轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 輕鬆將 PST 檔案轉換為 PDF。透過無縫文件管理提高工作效率。
-type: docs
 weight: 12
-url: /zh-hant/net/file-format-conversion-tutorials/convert-pst-to-pdf/
+url: /zh-hant/net/file-format-conversion-convert-pst-to-pdf/
 ---
 ## 介紹
 在文件管理領域，將文件從一種格式無縫轉換為另一種格式的能力至關重要。無論您是處理電子郵件、電子表格還是簡報，擁有可靠的轉換工具都可以簡化工作流程並提高工作效率。在本教學中，我們將深入研究如何使用 GroupDocs.Conversion for .NET 將 PST（個人儲存表）檔案轉換為 PDF 格式。

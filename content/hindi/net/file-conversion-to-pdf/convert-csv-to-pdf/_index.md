@@ -3,7 +3,6 @@ title: सीएसवी डेटा फ़ाइलों को पीडी
 linktitle: सीएसवी डेटा फ़ाइलों को पीडीएफ में कनवर्ट करें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से CSV डेटा फ़ाइलों को PDF में परिवर्तित करना सीखें। हमारे चरण-दर-चरण मार्गदर्शिका का पालन करें.
-type: docs
 weight: 16
 url: /hi/net/file-conversion-to-pdf/convert-csv-to-pdf/
 ---

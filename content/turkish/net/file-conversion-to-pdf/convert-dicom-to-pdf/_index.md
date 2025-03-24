@@ -3,7 +3,6 @@ title: DICOM Tıbbi Görüntülerini PDF'ye Dönüştürün
 linktitle: DICOM Tıbbi Görüntülerini PDF'ye Dönüştürün
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET'i kullanarak DICOM medikal görüntülerini zahmetsizce PDF formatına dönüştürün. Esnek, verimli ve özelleştirilebilir dönüştürme çözümü.
-type: docs
 weight: 19
 url: /tr/net/file-conversion-to-pdf/convert-dicom-to-pdf/
 ---

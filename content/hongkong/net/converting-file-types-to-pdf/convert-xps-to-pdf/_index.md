@@ -3,7 +3,6 @@ title: 將 XPS 轉換為 PDF
 linktitle: 將 XPS 轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 了解如何使用 GroupDocs.Conversion for .NET 將 XPS 檔案轉換為 PDF。無縫文檔格式轉換的簡單步驟。
-type: docs
 weight: 30
 url: /zh-hant/net/converting-file-types-to-pdf/convert-xps-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: A PPSM konvertálása PDF-be
 linktitle: A PPSM konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálhat PPSM fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Szabja testre a konverziós beállításokat, és engedje szabadjára a dokumentumokban rejlő lehetőségeket.
-type: docs
 weight: 24
 url: /hu/net/pdf-conversion/convert-ppsm-to-pdf/
 ---

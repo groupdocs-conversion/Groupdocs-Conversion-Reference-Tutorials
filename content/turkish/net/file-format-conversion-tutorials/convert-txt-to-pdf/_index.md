@@ -3,9 +3,8 @@ title: TXT'yi PDF'ye dönüştür
 linktitle: TXT'yi PDF'ye dönüştür
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET ile TXT'yi zahmetsizce PDF'ye dönüştürün. Sorunsuz belge formatı dönüşümü için adım adım kılavuzumuzu izleyin.
-type: docs
 weight: 22
-url: /tr/net/file-format-conversion-tutorials/convert-txt-to-pdf/
+url: /tr/net/file-format-conversion-convert-txt-to-pdf/
 ---
 ## giriiş
 Günümüzün dijital çağında, belge formatlarını programlı olarak değiştirme yeteneği birçok yazılım uygulaması için çok önemlidir. İster bir belge yönetim sistemi, ister çevrimiçi bir düzenleyici oluşturuyor olun, ister yalnızca dosyaları bir formattan diğerine dönüştürmeye ihtiyacınız olsun, güvenilir ve etkili bir dönüştürme aracına sahip olmak çok önemlidir. Öne çıkan araçlardan biri GroupDocs.Conversion for .NET'tir.

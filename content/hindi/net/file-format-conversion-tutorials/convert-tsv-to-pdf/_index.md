@@ -3,9 +3,8 @@ title: टीएसवी को पीडीएफ में बदलें
 linktitle: टीएसवी को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से TSV फ़ाइलों को PDF में परिवर्तित करना सीखें। निर्बाध एकीकरण के लिए हमारे चरण-दर-चरण ट्यूटोरियल का पालन करें।
-type: docs
 weight: 21
-url: /hi/net/file-format-conversion-tutorials/convert-tsv-to-pdf/
+url: /hi/net/file-format-conversion-convert-tsv-to-pdf/
 ---
 ## परिचय
 .NET के लिए GroupDocs.Conversion एक शक्तिशाली दस्तावेज़ रूपांतरण लाइब्रेरी है जो डेवलपर्स को विभिन्न फ़ाइल स्वरूपों को आसानी से पीडीएफ और इसके विपरीत में परिवर्तित करने में सक्षम बनाता है। इस ट्यूटोरियल में, हम .NET के लिए GroupDocs.Conversion का उपयोग करके TSV (टैब-सेपरेटेड वैल्यूज़) फ़ाइल को पीडीएफ में परिवर्तित करने की प्रक्रिया के बारे में जानेंगे।

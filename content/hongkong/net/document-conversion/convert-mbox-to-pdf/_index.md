@@ -3,7 +3,6 @@ title: 將 MBOX 轉換為 PDF
 linktitle: 將 MBOX 轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 輕鬆將 MBOX 檔案轉換為 PDF 格式。請按照我們的逐步指南進行無縫轉換。
-type: docs
 weight: 18
 url: /zh-hant/net/document-conversion/convert-mbox-to-pdf/
 ---

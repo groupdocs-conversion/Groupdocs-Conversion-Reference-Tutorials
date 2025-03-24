@@ -3,7 +3,6 @@ title: MBOX konvertálása PDF-be
 linktitle: MBOX konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálhat MBOX fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Kövesse lépésenkénti útmutatónkat a zökkenőmentes átalakítás érdekében.
-type: docs
 weight: 18
 url: /hu/net/document-conversion/convert-mbox-to-pdf/
 ---

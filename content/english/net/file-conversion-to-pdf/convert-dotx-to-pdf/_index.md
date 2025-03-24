@@ -3,7 +3,6 @@ title: Convert DOTX Word Templates to PDF
 linktitle: Convert DOTX Word Templates to PDF
 second_title: GroupDocs.Conversion .NET API
 description: Effortlessly convert DOTX Word templates to PDF using GroupDocs.Conversion for .NET. Simplify your document management tasks.
-type: docs
 weight: 27
 url: /net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---
@@ -53,6 +52,6 @@ Yes, GroupDocs.Conversion is compatible with multiple versions of .NET, providin
 ### Does GroupDocs.Conversion support other output formats besides PDF?
 Yes, GroupDocs.Conversion supports a wide range of output formats, including DOCX, XLSX, PPTX, JPG, PNG, and more, catering to diverse conversion needs.
 ### Can I customize the conversion options according to my requirements?
-Yes, GroupDocs.Conversion offers extensive customization options, allowing you to fine-tune the conversion process based on your specific preferences and requirements.
+Yes, GroupDocs.Conversion offers extensive customization options, allowing you to fine-tune the conversion process based on your specific ptutorialss and requirements.
 ### Is there a trial version available for GroupDocs.Conversion?
 Yes, you can avail of a free trial of GroupDocs.Conversion from the [website](https://releases.groupdocs.com/), enabling you to explore its features before making a purchase decision.

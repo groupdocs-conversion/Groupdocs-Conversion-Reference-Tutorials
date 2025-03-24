@@ -3,7 +3,6 @@ title: Convert FODS OpenDocument Spreadsheets to PDF
 linktitle: Convert FODS OpenDocument Spreadsheets to PDF
 second_title: GroupDocs.Conversion .NET API
 description: Effortlessly convert FODS OpenDocument Spreadsheets to PDFs using GroupDocs.Conversion for .NET. Enhance your .NET applications with seamless document conversion.
-type: docs
 weight: 20
 url: /net/convert-files-to-pdf/convert-fods-to-pdf/
 ---
@@ -63,6 +62,6 @@ Absolutely, GroupDocs.Conversion for .NET supports a wide range of document form
 ### Is there a trial version available for GroupDocs.Conversion for .NET?
 Yes, you can explore the capabilities of GroupDocs.Conversion for .NET by accessing the free trial version available at [this link](https://releases.groupdocs.com/).
 ### Can I customize the conversion settings to meet specific requirements?
-Certainly, GroupDocs.Conversion for .NET provides extensive options for customization, allowing you to tailor the conversion process according to your preferences and requirements.
+Certainly, GroupDocs.Conversion for .NET provides extensive options for customization, allowing you to tailor the conversion process according to your ptutorialss and requirements.
 ### Where can I seek assistance or get my queries resolved regarding GroupDocs.Conversion for .NET?
 For any support or assistance related to GroupDocs.Conversion for .NET, you can visit the dedicated forum at [this link](https://forum.groupdocs.com/c/conversion/11).

@@ -3,7 +3,6 @@ title: Chuyển đổi hình ảnh J2K JPEG 2000 sang PDF
 linktitle: Chuyển đổi hình ảnh J2K JPEG 2000 sang PDF
 second_title: API GroupDocs.Conversion .NET
 description: Tìm hiểu cách chuyển đổi hình ảnh J2K (JPEG 2000) sang PDF dễ dàng bằng cách sử dụng GroupDocs.Conversion for .NET. Hướng dẫn từng bước bao gồm.
-type: docs
 weight: 28
 url: /vi/net/convert-files-to-pdf/convert-j2k-to-pdf/
 ---

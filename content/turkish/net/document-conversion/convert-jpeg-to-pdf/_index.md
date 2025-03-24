@@ -3,7 +3,6 @@ title: JPEG'yi PDF'ye dönüştür
 linktitle: JPEG'yi PDF'ye dönüştür
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET'i kullanarak JPEG'i sorunsuz bir şekilde PDF'ye dönüştürün. Verimli dosya formatı dönüşümü için adım adım kılavuzumuzu izleyin.
-type: docs
 weight: 12
 url: /tr/net/document-conversion/convert-jpeg-to-pdf/
 ---

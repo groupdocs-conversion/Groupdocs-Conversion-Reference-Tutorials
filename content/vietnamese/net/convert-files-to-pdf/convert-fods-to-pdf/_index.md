@@ -3,7 +3,6 @@ title: Chuyển đổi bảng tính tài liệu mở FODS sang PDF
 linktitle: Chuyển đổi bảng tính tài liệu mở FODS sang PDF
 second_title: API GroupDocs.Conversion .NET
 description: Dễ dàng chuyển đổi Bảng tính Tài liệu Mở FODS sang tệp PDF bằng GroupDocs.Conversion for .NET. Nâng cao ứng dụng .NET của bạn bằng tính năng chuyển đổi tài liệu liền mạch.
-type: docs
 weight: 20
 url: /vi/net/convert-files-to-pdf/convert-fods-to-pdf/
 ---

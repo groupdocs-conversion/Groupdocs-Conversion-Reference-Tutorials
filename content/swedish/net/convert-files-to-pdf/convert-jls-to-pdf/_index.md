@@ -3,7 +3,6 @@ title: Konvertera JPEG-LS (.JLS)-filer till PDF
 linktitle: Konvertera JPEG-LS (.JLS)-filer till PDF
 second_title: GroupDocs.Conversion .NET API
 description: Lär dig hur du enkelt konverterar JPEG-LS (.JLS)-filer till PDF-format med GroupDocs.Conversion för .NET. Förbättra dina filkonverteringsmöjligheter.
-type: docs
 weight: 29
 url: /sv/net/convert-files-to-pdf/convert-jls-to-pdf/
 ---

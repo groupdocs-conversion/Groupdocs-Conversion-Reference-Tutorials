@@ -3,7 +3,6 @@ title: Konversi Gambar Medis DICOM ke PDF
 linktitle: Konversi Gambar Medis DICOM ke PDF
 second_title: GroupDocs.Konversi .NET API
 description: Konversi gambar medis DICOM dengan mudah ke format PDF menggunakan GroupDocs.Conversion untuk .NET. Solusi konversi yang fleksibel, efisien, dan dapat disesuaikan.
-type: docs
 weight: 19
 url: /id/net/file-conversion-to-pdf/convert-dicom-to-pdf/
 ---

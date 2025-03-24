@@ -3,7 +3,6 @@ title: DOTM Word テンプレート (マクロ) を PDF に変換
 linktitle: DOTM Word テンプレート (マクロ) を PDF に変換
 second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion for .NET を使用して、マクロを含む DOTM Word テンプレートを PDF に簡単に変換します。簡単な手順で互換性とセキュリティを確保します。
-type: docs
 weight: 25
 url: /ja/net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---

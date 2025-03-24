@@ -3,9 +3,8 @@ title: TSV'yi PDF'ye dönüştür
 linktitle: TSV'yi PDF'ye dönüştür
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET'i kullanarak TSV dosyalarını zahmetsizce PDF'ye nasıl dönüştüreceğinizi öğrenin. Sorunsuz entegrasyon için adım adım eğitimimizi izleyin.
-type: docs
 weight: 21
-url: /tr/net/file-format-conversion-tutorials/convert-tsv-to-pdf/
+url: /tr/net/file-format-conversion-convert-tsv-to-pdf/
 ---
 ## giriiş
 GroupDocs.Conversion for .NET, geliştiricilerin çeşitli dosya formatlarını zahmetsizce PDF'ye (veya tam tersi) dönüştürmesine olanak tanıyan güçlü bir belge dönüştürme kitaplığıdır. Bu öğreticide, GroupDocs.Conversion for .NET'i kullanarak bir TSV (Sekmeyle Ayrılmış Değerler) dosyasını PDF'ye dönüştürme sürecini anlatacağız.

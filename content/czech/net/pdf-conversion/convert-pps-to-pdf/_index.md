@@ -3,7 +3,6 @@ title: Převést PPS do PDF
 linktitle: Převést PPS do PDF
 second_title: GroupDocs.Conversion .NET API
 description: Naučte se, jak bez námahy převést soubory PPS do formátu PDF pomocí GroupDocs.Conversion for .NET. Postupujte podle našeho podrobného průvodce pro bezproblémovou integraci.
-type: docs
 weight: 25
 url: /cs/net/pdf-conversion/convert-pps-to-pdf/
 ---

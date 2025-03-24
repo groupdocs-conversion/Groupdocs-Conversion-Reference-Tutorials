@@ -3,7 +3,6 @@ title: Преобразование файлов шаблонов DWT CAD в PDF
 linktitle: Преобразование файлов шаблонов DWT CAD в PDF
 second_title: GroupDocs.Conversion .NET API
 description: Узнайте, как легко конвертировать файлы шаблонов DWT CAD в формат PDF с помощью GroupDocs.Conversion для .NET.
-type: docs
 weight: 11
 url: /ru/net/convert-files-to-pdf/convert-dwt-to-pdf/
 ---

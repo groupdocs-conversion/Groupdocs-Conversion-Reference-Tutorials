@@ -3,7 +3,6 @@ title: A WMZ konvertálása PDF-be
 linktitle: A WMZ konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Tanulja meg, hogyan konvertálhat könnyedén WMZ fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Fokozza a dokumentumok interoperabilitását.
-type: docs
 weight: 20
 url: /hu/net/converting-file-types-to-pdf/convert-wmz-to-pdf/
 ---

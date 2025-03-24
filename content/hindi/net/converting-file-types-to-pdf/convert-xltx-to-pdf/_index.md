@@ -3,7 +3,6 @@ title: XLTX को पीडीएफ में बदलें
 linktitle: XLTX को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके XLTX फ़ाइलों को निर्बाध रूप से पीडीएफ में परिवर्तित करना सीखें। अपने .NET अनुप्रयोगों की बहुमुखी प्रतिभा बढ़ाएँ।
-type: docs
 weight: 28
 url: /hi/net/converting-file-types-to-pdf/convert-xltx-to-pdf/
 ---

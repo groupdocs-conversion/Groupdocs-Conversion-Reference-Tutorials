@@ -3,7 +3,6 @@ title: Convert VSTM to PDF
 linktitle: Convert VSTM to PDF
 second_title: GroupDocs.Conversion .NET API
 description: Effortlessly convert VSTM files to PDF format using GroupDocs.Conversion for .NET. Streamline your document management process with ease.
-type: docs
 weight: 13
 url: /net/converting-file-types-to-pdf/convert-vstm-to-pdf/
 ---
@@ -14,12 +13,12 @@ Before diving into the conversion process using GroupDocs.Conversion for .NET, e
 1. Knowledge of C# Programming: Familiarity with C# programming language is essential as GroupDocs.Conversion for .NET is primarily used within the .NET framework.
 2. GroupDocs.Conversion Installation: Make sure you have installed GroupDocs.Conversion for .NET in your development environment. You can download the necessary files from the [download link](https://releases.groupdocs.com/conversion/net/).
 3. Access to Source Files: Ensure you have access to the source files that you intend to convert. Whether it's a VSTM file or any other supported format, having the source file readily available is crucial.
-4. Integrated Development Environment (IDE): Choose an IDE of your preference such as Visual Studio to write and execute the conversion code seamlessly.
+4. Integrated Development Environment (IDE): Choose an IDE of your ptutorials such as Visual Studio to write and execute the conversion code seamlessly.
 
 ## Import Namespaces
 In order to utilize the functionalities provided by GroupDocs.Conversion for .NET, you need to import the required namespaces into your C# project. Follow these steps to import namespaces:
 
-Add the necessary namespace references at the beginning of your C# file where you'll be implementing the conversion logic. For converting VSTM to PDF, include the following namespaces:
+Add the necessary namespace tutorialss at the beginning of your C# file where you'll be implementing the conversion logic. For converting VSTM to PDF, include the following namespaces:
 ```csharp
 using System;
 using System.IO;

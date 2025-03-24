@@ -3,7 +3,6 @@ title: A CSV-adatfájlok konvertálása PDF-be
 linktitle: A CSV-adatfájlok konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Ismerje meg, hogyan konvertálhat könnyedén CSV-adatfájlokat PDF-be a GroupDocs.Conversion for .NET segítségével. Kövesse lépésenkénti útmutatónkat.
-type: docs
 weight: 16
 url: /hu/net/file-conversion-to-pdf/convert-csv-to-pdf/
 ---

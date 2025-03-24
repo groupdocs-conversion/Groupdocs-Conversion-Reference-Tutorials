@@ -3,7 +3,6 @@ title: डीजीएन सीएडी फाइलों को पीडी
 linktitle: डीजीएन सीएडी फाइलों को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion के साथ DGN CAD फ़ाइलों को पीडीएफ में सहजता से परिवर्तित करें। फ़ाइल रूपांतरण क्षमताओं को अपने .NET अनुप्रयोगों में सहजता से एकीकृत करें।
-type: docs
 weight: 17
 url: /hi/net/file-conversion-to-pdf/convert-dgn-to-pdf/
 ---

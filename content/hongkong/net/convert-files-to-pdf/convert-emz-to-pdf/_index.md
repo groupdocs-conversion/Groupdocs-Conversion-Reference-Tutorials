@@ -3,7 +3,6 @@ title: 將 EMZ 增強型圖元檔轉換為 PDF
 linktitle: 將 EMZ 增強型圖元檔轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 輕鬆將 EMZ 檔案轉換為 PDF。簡化您的文件轉換任務。
-type: docs
 weight: 16
 url: /zh-hant/net/convert-files-to-pdf/convert-emz-to-pdf/
 ---

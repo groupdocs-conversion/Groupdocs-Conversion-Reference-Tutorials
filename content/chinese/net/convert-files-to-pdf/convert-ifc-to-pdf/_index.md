@@ -3,7 +3,6 @@ title: 将 IFC 建筑信息模型文件转换为 PDF
 linktitle: 将 IFC 建筑信息模型文件转换为 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 了解如何使用 GroupDocs.Conversion for .NET 轻松将 IFC 建筑信息模型文件转换为 PDF 格式。
-type: docs
 weight: 25
 url: /zh/net/convert-files-to-pdf/convert-ifc-to-pdf/
 ---

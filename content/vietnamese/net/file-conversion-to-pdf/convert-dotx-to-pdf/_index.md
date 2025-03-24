@@ -3,7 +3,6 @@ title: Chuyển đổi mẫu Word DOTX sang PDF
 linktitle: Chuyển đổi mẫu Word DOTX sang PDF
 second_title: API GroupDocs.Conversion .NET
 description: Dễ dàng chuyển đổi các mẫu DOTX Word sang PDF bằng GroupDocs.Conversion for .NET. Đơn giản hóa nhiệm vụ quản lý tài liệu của bạn.
-type: docs
 weight: 27
 url: /vi/net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---

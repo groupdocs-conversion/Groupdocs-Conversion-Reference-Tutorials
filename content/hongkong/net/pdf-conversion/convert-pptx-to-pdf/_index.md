@@ -3,7 +3,6 @@ title: 將 PPTX 轉換為 PDF
 linktitle: 將 PPTX 轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 了解如何使用 GroupDocs.Conversion for .NET 將 PowerPoint 簡報 (PPTX) 轉換為 PDF 格式。簡單又有效率的轉換過程。
-type: docs
 weight: 29
 url: /zh-hant/net/pdf-conversion/convert-pptx-to-pdf/
 ---

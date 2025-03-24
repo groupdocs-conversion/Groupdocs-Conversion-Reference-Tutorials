@@ -3,7 +3,6 @@ title: Convert JPM to PDF
 linktitle: Convert JPM to PDF
 second_title: GroupDocs.Conversion .NET API
 description: Effortlessly convert JPM files to PDF using GroupDocs.Conversion for .NET. Streamline your file conversion processes with ease.
-type: docs
 weight: 15
 url: /net/document-conversion/convert-jpm-to-pdf/
 ---

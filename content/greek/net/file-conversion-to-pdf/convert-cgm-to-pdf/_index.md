@@ -3,7 +3,6 @@ title: Μετατροπή διανυσματικών γραφικών CGM σε P
 linktitle: Μετατροπή διανυσματικών γραφικών CGM σε PDF
 second_title: GroupDocs.Conversion .NET API
 description: Μάθετε πώς να μετατρέπετε διανυσματικά γραφικά CGM σε PDF χωρίς κόπο χρησιμοποιώντας το GroupDocs.Conversion για .NET. Ακολουθήστε το βήμα προς βήμα σεμινάριο μας.
-type: docs
 weight: 14
 url: /el/net/file-conversion-to-pdf/convert-cgm-to-pdf/
 ---

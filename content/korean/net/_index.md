@@ -1,7 +1,6 @@
 ---
 title: .NET용 GroupDocs.Conversion의 종합 자습서
 linktitle: .NET 자습서용 GroupDocs.Conversion
-type: docs
 weight: 10
 url: /ko/net/
 description: .NET용 GroupDocs.Conversion을 사용하여 파일을 PDF로 손쉽게 변환하세요. 사용자 정의 가능한 옵션으로 문서 관리를 간소화하세요. #GroupDocs.Conversion

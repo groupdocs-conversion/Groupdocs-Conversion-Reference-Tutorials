@@ -3,7 +3,6 @@ title: Конвертировать ODG в PDF
 linktitle: Конвертировать ODG в PDF
 second_title: GroupDocs.Conversion .NET API
 description: Узнайте, как легко конвертировать файлы ODG в PDF с помощью GroupDocs.Conversion для .NET. Расширьте свои возможности управления документами.
-type: docs
 weight: 27
 url: /ru/net/document-conversion/convert-odg-to-pdf/
 ---
@@ -71,4 +70,4 @@ Console.WriteLine("\nConversion to PDF completed successfully. \nCheck output in
 ### Доступна ли техническая поддержка для пользователей GroupDocs.Conversion?
 Да, GroupDocs предлагает комплексную техническую поддержку, чтобы помочь пользователям с любыми вопросами или проблемами, с которыми они могут столкнуться во время внедрения или использования.
 ### Поддерживает ли GroupDocs.Conversion другие форматы файлов, кроме ODG и PDF?
- Да, GroupDocs.Conversion поддерживает преобразование широкого спектра форматов файлов, включая DOCX, XLSX, PPTX и другие. Проверить[документация](https://reference.groupdocs.com/conversion/net/) полный список поддерживаемых форматов.
+ Да, GroupDocs.Conversion поддерживает преобразование широкого спектра форматов файлов, включая DOCX, XLSX, PPTX и другие. Проверить[документация](https://tutorials.groupdocs.com/conversion/net/) полный список поддерживаемых форматов.

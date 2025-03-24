@@ -3,7 +3,6 @@ title: Convert DXF CAD Drawing Exchange Files to PDF
 linktitle: Convert DXF CAD Drawing Exchange Files to PDF
 second_title: GroupDocs.Conversion .NET API
 description: Effortlessly convert DXF CAD Drawing Exchange Files to PDF with GroupDocs.Conversion for .NET.
-type: docs
 weight: 12
 url: /net/convert-files-to-pdf/convert-dxf-to-pdf/
 ---

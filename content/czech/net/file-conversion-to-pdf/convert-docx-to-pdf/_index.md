@@ -3,7 +3,6 @@ title: Převeďte dokumenty DOCX Word do PDF
 linktitle: Převeďte dokumenty DOCX Word do PDF
 second_title: GroupDocs.Conversion .NET API
 description: Naučte se, jak bez námahy převádět dokumenty DOCX Word do PDF pomocí GroupDocs.Conversion for .NET. Vylepšete své možnosti správy dokumentů.
-type: docs
 weight: 24
 url: /cs/net/file-conversion-to-pdf/convert-docx-to-pdf/
 ---

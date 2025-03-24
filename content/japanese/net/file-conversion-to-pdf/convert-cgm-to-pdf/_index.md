@@ -3,7 +3,6 @@ title: CGM ベクター グラフィックスを PDF に変換
 linktitle: CGM ベクター グラフィックスを PDF に変換
 second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion for .NET を使用して、CGM ベクター グラフィックを PDF に簡単に変換する方法を学びます。ステップバイステップのチュートリアルに従ってください。
-type: docs
 weight: 14
 url: /ja/net/file-conversion-to-pdf/convert-cgm-to-pdf/
 ---

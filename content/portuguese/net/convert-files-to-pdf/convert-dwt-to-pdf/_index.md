@@ -3,7 +3,6 @@ title: Converter arquivos de modelo CAD DWT em PDF
 linktitle: Converter arquivos de modelo CAD DWT em PDF
 second_title: API GroupDocs.Conversion .NET
 description: Aprenda como converter arquivos de modelo DWT CAD para formato PDF sem esforço usando GroupDocs.Conversion for .NET.
-type: docs
 weight: 11
 url: /pt/net/convert-files-to-pdf/convert-dwt-to-pdf/
 ---

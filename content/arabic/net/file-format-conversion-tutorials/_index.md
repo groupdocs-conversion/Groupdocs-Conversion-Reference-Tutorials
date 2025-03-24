@@ -3,7 +3,6 @@ title: تحويل تنسيق الملف
 linktitle: تحويل تنسيق الملف
 second_title: GroupDocs.Conversion .NET API
 description: يمكنك بسهولة تحويل تنسيقات الملفات المختلفة إلى PDF باستخدام GroupDocs.Conversion for .NET. عزز الإنتاجية من خلال الأدلة خطوة بخطوة والتكامل السلس.
-type: docs
 weight: 21
 url: /ar/net/file-format-conversion-tutorials/
 ---

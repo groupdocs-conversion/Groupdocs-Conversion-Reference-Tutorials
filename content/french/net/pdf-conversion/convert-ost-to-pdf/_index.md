@@ -3,7 +3,6 @@ title: Convertir OST en PDF
 linktitle: Convertir OST en PDF
 second_title: API GroupDocs.Conversion .NET
 description: Convertissez facilement des fichiers OST en PDF à l'aide de GroupDocs.Conversion pour .NET. Intégrez de manière transparente les capacités de conversion de fichiers dans vos applications .NET.
-type: docs
 weight: 12
 url: /fr/net/pdf-conversion/convert-ost-to-pdf/
 ---

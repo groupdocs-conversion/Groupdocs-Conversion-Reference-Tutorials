@@ -3,7 +3,6 @@ title: BMP-képek konvertálása PDF-be
 linktitle: BMP-képek konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: A GroupDocs.Conversion for .NET segítségével zökkenőmentesen konvertálja a BMP-képeket PDF-be. Testreszabható opciók az optimális teljesítmény érdekében.
-type: docs
 weight: 11
 url: /hu/net/file-conversion-to-pdf/convert-bmp-to-pdf/
 ---

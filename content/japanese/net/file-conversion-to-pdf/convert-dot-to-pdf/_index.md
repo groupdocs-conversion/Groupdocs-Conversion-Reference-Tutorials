@@ -3,7 +3,6 @@ title: DOT Word テンプレートを PDF に変換
 linktitle: DOT Word テンプレートを PDF に変換
 second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion を使用して .NET で DOT (Word テンプレート) ファイルを PDF に簡単に変換し、アプリケーションにシームレスに統合する方法を学びます。
-type: docs
 weight: 26
 url: /ja/net/file-conversion-to-pdf/convert-dot-to-pdf/
 ---

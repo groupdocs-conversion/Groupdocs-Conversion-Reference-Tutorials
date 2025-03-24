@@ -3,7 +3,6 @@ title: Az XLTM konvertálása PDF-be
 linktitle: Az XLTM konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálhat XLTM fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Egyszerűsítse a dokumentumátalakítási folyamatot.
-type: docs
 weight: 26
 url: /hu/net/converting-file-types-to-pdf/convert-xltm-to-pdf/
 ---

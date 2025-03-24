@@ -3,7 +3,6 @@ title: تحويل صفحات الويب HTML إلى PDF
 linktitle: تحويل صفحات الويب HTML إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: يمكنك بسهولة تحويل صفحات ويب HTML إلى تنسيق PDF باستخدام GroupDocs.Conversion for .NET. اتبع دليلنا خطوة بخطوة لتحويل تنسيق المستندات بسلاسة.
-type: docs
 weight: 22
 url: /ar/net/convert-files-to-pdf/convert-html-to-pdf/
 ---

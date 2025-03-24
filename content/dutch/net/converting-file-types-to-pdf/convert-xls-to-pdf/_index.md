@@ -3,7 +3,6 @@ title: Converteer XLS naar PDF
 linktitle: Converteer XLS naar PDF
 second_title: GroupDocs.Conversion .NET API
 description: Converteer XLS-bestanden moeiteloos naar PDF-formaat met GroupDocs.Conversion voor .NET. Naadloze integratie, uitgebreide documentatie en ondersteuning beschikbaar.
-type: docs
 weight: 24
 url: /nl/net/converting-file-types-to-pdf/convert-xls-to-pdf/
 ---

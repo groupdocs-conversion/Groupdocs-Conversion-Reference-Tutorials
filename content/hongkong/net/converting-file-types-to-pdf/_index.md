@@ -3,7 +3,6 @@ title: 將文件類型轉換為 PDF
 linktitle: 將文件類型轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 輕鬆將各種文件類型轉換為 PDF。簡化您的文件管理流程。了解更多！
-type: docs
 weight: 24
 url: /zh-hant/net/converting-file-types-to-pdf/
 ---

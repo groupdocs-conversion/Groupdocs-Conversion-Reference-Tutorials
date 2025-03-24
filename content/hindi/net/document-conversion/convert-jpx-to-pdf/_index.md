@@ -3,7 +3,6 @@ title: जेपीएक्स को पीडीएफ में बदले
 linktitle: जेपीएक्स को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके JPX फ़ाइलों को PDF में परिवर्तित करना सीखें। निर्बाध एकीकरण के लिए हमारे चरण-दर-चरण ट्यूटोरियल का पालन करें।
-type: docs
 weight: 16
 url: /hi/net/document-conversion/convert-jpx-to-pdf/
 ---

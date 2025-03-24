@@ -3,7 +3,6 @@ title: A PPTM konvertálása PDF-be
 linktitle: A PPTM konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálhat PPTM fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Egyszerűsítse a dokumentumkezelési munkafolyamatokat.
-type: docs
 weight: 27
 url: /hu/net/pdf-conversion/convert-pptm-to-pdf/
 ---

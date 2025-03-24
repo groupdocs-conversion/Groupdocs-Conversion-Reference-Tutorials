@@ -3,7 +3,6 @@ title: Konvertieren Sie MPT in PDF
 linktitle: Konvertieren Sie MPT in PDF
 second_title: GroupDocs.Conversion .NET-API
 description: Erfahren Sie, wie Sie MPT-Dateien mit GroupDocs.Conversion für .NET mühelos in PDF konvertieren. Befolgen Sie unsere Schritt-für-Schritt-Anleitung zur Integration und effizienten Dokumentenverwaltung.
-type: docs
 weight: 24
 url: /de/net/document-conversion/convert-mpt-to-pdf/
 ---

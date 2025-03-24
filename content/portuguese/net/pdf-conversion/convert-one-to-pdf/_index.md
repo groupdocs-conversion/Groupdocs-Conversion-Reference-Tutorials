@@ -3,7 +3,6 @@ title: Converter UM para PDF
 linktitle: Converter UM para PDF
 second_title: API GroupDocs.Conversion .NET
 description: Aprenda como converter arquivos ONE para o formato PDF sem esforço usando GroupDocs.Conversion for .NET. Siga nosso guia passo a passo.
-type: docs
 weight: 11
 url: /pt/net/pdf-conversion/convert-one-to-pdf/
 ---

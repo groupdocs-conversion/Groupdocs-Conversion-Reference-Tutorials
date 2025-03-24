@@ -3,7 +3,6 @@ title: Konwertuj szablony DOT Word na format PDF
 linktitle: Konwertuj szablony DOT Word na format PDF
 second_title: GroupDocs.Conversion API .NET
 description: Dowiedz się, jak bez wysiłku konwertować pliki DOT (Word Template) do formatu PDF w .NET przy użyciu narzędzia GroupDocs.Conversion w celu bezproblemowej integracji z aplikacjami.
-type: docs
 weight: 26
 url: /pl/net/file-conversion-to-pdf/convert-dot-to-pdf/
 ---

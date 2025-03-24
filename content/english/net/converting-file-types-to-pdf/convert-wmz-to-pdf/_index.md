@@ -3,7 +3,6 @@ title: Convert WMZ to PDF
 linktitle: Convert WMZ to PDF
 second_title: GroupDocs.Conversion .NET API
 description: Learn how to effortlessly convert WMZ files to PDF using GroupDocs.Conversion for .NET. Enhance your document interoperability.
-type: docs
 weight: 20
 url: /net/converting-file-types-to-pdf/convert-wmz-to-pdf/
 ---
@@ -32,7 +31,7 @@ using GroupDocs.Conversion.Options.Convert;
 string outputFolder = "Your Document Directory";
 string outputFile = Path.Combine(outputFolder, "wmz-converted-to.pdf");
 ```
-Ensure to specify the directory path where you want the converted PDF file to be saved. Adjust the `outputFolder` variable according to your preference.
+Ensure to specify the directory path where you want the converted PDF file to be saved. Adjust the `outputFolder` variable according to your ptutorials.
 ## Step 2: Load the Source WMZ File
 ```csharp
 using (var converter = new GroupDocs.Conversion.Converter("Path_to_your_WMZ_file"))

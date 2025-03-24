@@ -3,7 +3,6 @@ title: Преобразование электронных таблиц FODS Ope
 linktitle: Преобразование электронных таблиц FODS OpenDocument в PDF
 second_title: GroupDocs.Conversion .NET API
 description: Легко конвертируйте электронные таблицы FODS OpenDocument в PDF-файлы с помощью GroupDocs.Conversion для .NET. Усовершенствуйте свои .NET-приложения с помощью плавного преобразования документов.
-type: docs
 weight: 20
 url: /ru/net/convert-files-to-pdf/convert-fods-to-pdf/
 ---

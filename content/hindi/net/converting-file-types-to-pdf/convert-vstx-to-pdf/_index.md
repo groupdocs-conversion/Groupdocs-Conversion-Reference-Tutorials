@@ -3,7 +3,6 @@ title: VSTX को पीडीएफ में बदलें
 linktitle: VSTX को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके VSTX फ़ाइलों को पीडीएफ प्रारूप में परिवर्तित करना सीखें। निर्बाध दस्तावेज़ प्रबंधन के लिए आसान चरण।
-type: docs
 weight: 15
 url: /hi/net/converting-file-types-to-pdf/convert-vstx-to-pdf/
 ---

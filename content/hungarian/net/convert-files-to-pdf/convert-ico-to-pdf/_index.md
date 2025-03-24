@@ -3,7 +3,6 @@ title: Konvertálja az ICO ikonokat PDF-be
 linktitle: Konvertálja az ICO ikonokat PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálja az ICO-ikonokat PDF-be a GroupDocs.Conversion for .NET segítségével. Növelje a termelékenységet az ebben az oktatóanyagban felvázolt egyszerű lépésekkel.
-type: docs
 weight: 24
 url: /hu/net/convert-files-to-pdf/convert-ico-to-pdf/
 ---

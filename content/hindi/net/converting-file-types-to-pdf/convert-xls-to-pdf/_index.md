@@ -3,7 +3,6 @@ title: एक्सएलएस को पीडीएफ में बदले
 linktitle: एक्सएलएस को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से XLS फ़ाइलों को PDF प्रारूप में परिवर्तित करें। निर्बाध एकीकरण, व्यापक दस्तावेज़ीकरण और समर्थन उपलब्ध है।
-type: docs
 weight: 24
 url: /hi/net/converting-file-types-to-pdf/convert-xls-to-pdf/
 ---

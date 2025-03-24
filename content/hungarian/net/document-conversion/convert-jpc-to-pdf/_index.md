@@ -3,7 +3,6 @@ title: Konvertálja a JPC-t PDF-be
 linktitle: Konvertálja a JPC-t PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálhat JPC fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Fokozza dokumentumkezelési képességeit ezzel a zökkenőmentes megoldással.
-type: docs
 weight: 11
 url: /hu/net/document-conversion/convert-jpc-to-pdf/
 ---

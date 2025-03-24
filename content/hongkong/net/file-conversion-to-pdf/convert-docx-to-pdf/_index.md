@@ -3,7 +3,6 @@ title: 將 DOCX Word 文件轉換為 PDF
 linktitle: 將 DOCX Word 文件轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 了解如何使用 GroupDocs.Conversion for .NET 輕鬆將 DOCX Word 文件轉換為 PDF。增強您的文件管理能力。
-type: docs
 weight: 24
 url: /zh-hant/net/file-conversion-to-pdf/convert-docx-to-pdf/
 ---

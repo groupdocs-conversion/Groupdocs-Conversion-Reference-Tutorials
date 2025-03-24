@@ -3,7 +3,6 @@ title: MOBI को पीडीएफ में बदलें
 linktitle: MOBI को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके MOBI फ़ाइलों को आसानी से PDF में परिवर्तित करना सीखें। हमारे चरण-दर-चरण मार्गदर्शिका का पालन करें.
-type: docs
 weight: 22
 url: /hi/net/document-conversion/convert-mobi-to-pdf/
 ---

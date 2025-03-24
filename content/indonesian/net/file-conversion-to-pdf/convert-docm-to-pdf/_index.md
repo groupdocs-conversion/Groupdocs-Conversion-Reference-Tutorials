@@ -3,7 +3,6 @@ title: Konversi Dokumen DOCM Word (Makro) ke PDF
 linktitle: Konversi Dokumen DOCM Word (Makro) ke PDF
 second_title: GroupDocs.Konversi .NET API
 description: Konversikan Dokumen Word DOCM dengan makro menjadi PDF dengan mudah menggunakan GroupDocs.Conversion untuk .NET. Sederhanakan proses manajemen dokumen Anda.
-type: docs
 weight: 22
 url: /id/net/file-conversion-to-pdf/convert-docm-to-pdf/
 ---

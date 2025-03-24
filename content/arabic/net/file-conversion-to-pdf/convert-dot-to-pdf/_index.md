@@ -3,7 +3,6 @@ title: تحويل قوالب DOT Word إلى PDF
 linktitle: تحويل قوالب DOT Word إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: تعرف على كيفية تحويل ملفات DOT (قالب Word) إلى PDF في .NET بسهولة باستخدام GroupDocs.Conversion للتكامل السلس في تطبيقاتك.
-type: docs
 weight: 26
 url: /ar/net/file-conversion-to-pdf/convert-dot-to-pdf/
 ---

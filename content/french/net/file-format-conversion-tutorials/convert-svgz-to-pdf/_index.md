@@ -3,9 +3,8 @@ title: Convertir SVGZ en PDF
 linktitle: Convertir SVGZ en PDF
 second_title: API GroupDocs.Conversion .NET
 description: Convertissez sans effort des fichiers SVGZ en PDF à l'aide de GroupDocs.Conversion pour .NET. Explorez un didacticiel étape par étape et profitez de fonctionnalités transparentes de gestion de documents.
-type: docs
 weight: 16
-url: /fr/net/file-format-conversion-tutorials/convert-svgz-to-pdf/
+url: /fr/net/file-format-conversion-convert-svgz-to-pdf/
 ---
 ## Introduction
 Dans le domaine de la gestion et de la manipulation de documents, GroupDocs.Conversion pour .NET constitue un formidable ensemble d'outils, permettant aux développeurs de convertir de manière transparente des documents dans différents formats. Parmi ses innombrables capacités se trouve la conversion de fichiers SVGZ en PDF, une tâche souvent rencontrée dans diverses applications. Ce didacticiel vise à élucider le processus de conversion de fichiers SVGZ en PDF à l'aide de GroupDocs.Conversion pour .NET, en décomposant chaque étape en composants compréhensibles pour une mise en œuvre sans effort.

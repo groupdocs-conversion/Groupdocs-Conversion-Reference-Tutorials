@@ -3,7 +3,6 @@ title: Convert CGM Vector Graphics to PDF
 linktitle: Convert CGM Vector Graphics to PDF
 second_title: GroupDocs.Conversion .NET API
 description: Learn how to convert CGM vector graphics to PDF effortlessly using GroupDocs.Conversion for .NET. Follow our step-by-step tutorial.
-type: docs
 weight: 14
 url: /net/file-conversion-to-pdf/convert-cgm-to-pdf/
 ---
@@ -56,6 +55,6 @@ Yes, GroupDocs.Conversion for .NET is compatible with the latest versions of .NE
 ### Does GroupDocs.Conversion for .NET support conversion to other formats apart from PDF?
 Absolutely, GroupDocs.Conversion for .NET supports a wide range of conversion options, allowing you to convert CGM files to various formats such as DOCX, XLSX, PPTX, JPG, and more.
 ### Can I customize the conversion options according to my specific requirements?
-Yes, GroupDocs.Conversion for .NET provides extensive customization options, enabling you to tailor the conversion process according to your unique preferences and needs.
+Yes, GroupDocs.Conversion for .NET provides extensive customization options, enabling you to tailor the conversion process according to your unique ptutorialss and needs.
 ### Where can I seek assistance or support for any issues or queries related to GroupDocs.Conversion for .NET?
 You can visit the [GroupDocs.Conversion forum](https://forum.groupdocs.com/c/conversion/11) to seek assistance from the community or contact the support team for personalized support.

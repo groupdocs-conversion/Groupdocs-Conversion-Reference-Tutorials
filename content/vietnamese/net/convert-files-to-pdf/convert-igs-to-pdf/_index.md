@@ -3,7 +3,6 @@ title: Chuyển đổi tệp mô hình 3D IGS sang PDF
 linktitle: Chuyển đổi tệp mô hình 3D IGS sang PDF
 second_title: API GroupDocs.Conversion .NET
 description: Chuyển đổi mô hình IGS 3D sang PDF dễ dàng với GroupDocs.Conversion for .NET. Tải xuống ngay để chuyển đổi định dạng tệp liền mạch.
-type: docs
 weight: 26
 url: /vi/net/convert-files-to-pdf/convert-igs-to-pdf/
 ---

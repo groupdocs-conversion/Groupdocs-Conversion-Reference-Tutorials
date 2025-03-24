@@ -3,7 +3,6 @@ title: 將 DNG 圖像轉換為 PDF
 linktitle: 將 DNG 圖像轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 了解如何使用 GroupDocs.Conversion for .NET 將 DNG 映像輕鬆轉換為 PDF。請按照我們的逐步指南進行無縫轉換。
-type: docs
 weight: 21
 url: /zh-hant/net/file-conversion-to-pdf/convert-dng-to-pdf/
 ---

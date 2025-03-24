@@ -3,7 +3,6 @@ title: Converteer BMP-afbeeldingen naar PDF
 linktitle: Converteer BMP-afbeeldingen naar PDF
 second_title: GroupDocs.Conversion .NET API
 description: Converteer BMP-afbeeldingen naadloos naar PDF met GroupDocs.Conversion voor .NET. Aanpasbare opties voor optimale output.
-type: docs
 weight: 11
 url: /nl/net/file-conversion-to-pdf/convert-bmp-to-pdf/
 ---

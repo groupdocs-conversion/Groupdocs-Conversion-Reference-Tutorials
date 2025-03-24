@@ -3,9 +3,8 @@ title: Konvertálja a TIFF-et PDF-be
 linktitle: Konvertálja a TIFF-et PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Tanulja meg, hogyan konvertálhat könnyedén TIFF-et PDF-be a GroupDocs.Conversion for .NET segítségével. Egyszerű, hatékony és zökkenőmentes dokumentumkonverziós megoldás.
-type: docs
 weight: 19
-url: /hu/net/file-format-conversion-tutorials/convert-tiff-to-pdf/
+url: /hu/net/file-format-conversion-convert-tiff-to-pdf/
 ---
 ## Bevezetés
 

@@ -3,7 +3,6 @@ title: Convert ICO Icons to PDF
 linktitle: Convert ICO Icons to PDF
 second_title: GroupDocs.Conversion .NET API
 description: Effortlessly convert ICO icons to PDF using GroupDocs.Conversion for .NET. Boost productivity with simple steps outlined in this tutorial.
-type: docs
 weight: 24
 url: /net/convert-files-to-pdf/convert-ico-to-pdf/
 ---

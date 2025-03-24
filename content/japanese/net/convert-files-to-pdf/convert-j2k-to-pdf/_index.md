@@ -3,7 +3,6 @@ title: J2K JPEG 2000 画像を PDF に変換
 linktitle: J2K JPEG 2000 画像を PDF に変換
 second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion for .NET を使用して、J2K (JPEG 2000) 画像を PDF に簡単に変換する方法を学びます。ステップバイステップのチュートリアルが含まれています。
-type: docs
 weight: 28
 url: /ja/net/convert-files-to-pdf/convert-j2k-to-pdf/
 ---

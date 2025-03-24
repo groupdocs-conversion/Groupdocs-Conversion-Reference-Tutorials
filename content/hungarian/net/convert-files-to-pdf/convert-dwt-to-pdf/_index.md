@@ -3,7 +3,6 @@ title: A DWT CAD-sablonfájlok konvertálása PDF-be
 linktitle: A DWT CAD-sablonfájlok konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Tanulja meg, hogyan konvertálhat DWT CAD-sablonfájlokat könnyedén PDF formátumba a GroupDocs.Conversion for .NET segítségével.
-type: docs
 weight: 11
 url: /hu/net/convert-files-to-pdf/convert-dwt-to-pdf/
 ---

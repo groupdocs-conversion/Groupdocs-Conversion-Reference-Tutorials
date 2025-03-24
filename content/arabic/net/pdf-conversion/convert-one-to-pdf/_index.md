@@ -3,7 +3,6 @@ title: تحويل واحد إلى PDF
 linktitle: تحويل واحد إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: تعرف على كيفية تحويل ملفات ONE إلى تنسيق PDF بسهولة باستخدام GroupDocs.Conversion for .NET. اتبع دليلنا خطوة بخطوة.
-type: docs
 weight: 11
 url: /ar/net/pdf-conversion/convert-one-to-pdf/
 ---

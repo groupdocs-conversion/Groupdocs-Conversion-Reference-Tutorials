@@ -3,7 +3,6 @@ title: Konversikan Metafile EMZ yang Ditingkatkan ke PDF
 linktitle: Konversikan Metafile EMZ yang Ditingkatkan ke PDF
 second_title: GroupDocs.Konversi .NET API
 description: Konversikan file EMZ ke PDF dengan mudah menggunakan GroupDocs.Conversion untuk .NET. Sederhanakan tugas konversi file Anda.
-type: docs
 weight: 16
 url: /id/net/convert-files-to-pdf/convert-emz-to-pdf/
 ---

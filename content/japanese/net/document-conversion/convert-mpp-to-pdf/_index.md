@@ -3,7 +3,6 @@ title: MPPをPDFに変換
 linktitle: MPPをPDFに変換
 second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion for .NET を使用して C# で MPP ファイルを PDF に変換する方法を学習します。 .NET アプリケーションに統合するには、この段階的なチュートリアルに従ってください。
-type: docs
 weight: 23
 url: /ja/net/document-conversion/convert-mpp-to-pdf/
 ---

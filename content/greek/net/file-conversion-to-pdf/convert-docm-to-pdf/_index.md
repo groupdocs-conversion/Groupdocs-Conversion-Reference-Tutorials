@@ -3,7 +3,6 @@ title: Μετατροπή εγγράφων DOCM Word (Μακροεντολές) 
 linktitle: Μετατροπή εγγράφων DOCM Word (Μακροεντολές) σε PDF
 second_title: GroupDocs.Conversion .NET API
 description: Μετατρέψτε εύκολα έγγραφα DOCM Word με μακροεντολές σε PDF χρησιμοποιώντας το GroupDocs.Conversion για .NET. Βελτιώστε τη διαδικασία διαχείρισης εγγράφων σας.
-type: docs
 weight: 22
 url: /el/net/file-conversion-to-pdf/convert-docm-to-pdf/
 ---

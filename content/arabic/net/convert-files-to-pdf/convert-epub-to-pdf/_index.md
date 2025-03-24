@@ -3,7 +3,6 @@ title: تحويل الكتب الإلكترونية EPUB إلى PDF
 linktitle: تحويل الكتب الإلكترونية EPUB إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: قم بتحويل كتب EPUB الإلكترونية إلى تنسيق PDF بسهولة باستخدام GroupDocs.Conversion for .NET. ضمان التوافق وإمكانية الوصول عبر جميع الأنظمة الأساسية.
-type: docs
 weight: 18
 url: /ar/net/convert-files-to-pdf/convert-epub-to-pdf/
 ---

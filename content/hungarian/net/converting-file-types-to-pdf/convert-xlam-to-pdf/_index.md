@@ -3,7 +3,6 @@ title: Az XLAM konvertálása PDF-be
 linktitle: Az XLAM konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Tanulja meg, hogyan konvertálhat XLAM fájlokat könnyedén PDF formátumba a GroupDocs.Conversion for .NET segítségével. Kövesse lépésről lépésre bemutató oktatóanyagunkat a zökkenőmentes dokumentumátalakításhoz.
-type: docs
 weight: 21
 url: /hu/net/converting-file-types-to-pdf/convert-xlam-to-pdf/
 ---

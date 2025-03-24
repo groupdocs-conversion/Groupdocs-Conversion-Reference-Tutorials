@@ -3,7 +3,6 @@ title: 將 DICOM 醫學影像轉換為 PDF
 linktitle: 將 DICOM 醫學影像轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 輕鬆將 DICOM 醫學影像轉換為 PDF 格式。靈活、高效、可自訂的轉換解決方案。
-type: docs
 weight: 19
 url: /zh-hant/net/file-conversion-to-pdf/convert-dicom-to-pdf/
 ---

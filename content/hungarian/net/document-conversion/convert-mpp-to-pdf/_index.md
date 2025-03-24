@@ -3,7 +3,6 @@ title: MPP konvertálása PDF-be
 linktitle: MPP konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Ismerje meg, hogyan konvertálhat MPP fájlokat PDF-be C# nyelven a GroupDocs.Conversion for .NET segítségével. Kövesse ezt a lépésenkénti oktatóanyagot a .NET-alkalmazásokba való integráláshoz.
-type: docs
 weight: 23
 url: /hu/net/document-conversion/convert-mpp-to-pdf/
 ---

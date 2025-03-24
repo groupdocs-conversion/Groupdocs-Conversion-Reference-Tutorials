@@ -3,7 +3,6 @@ title: 將 XLS 轉換為 PDF
 linktitle: 將 XLS 轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 輕鬆將 XLS 檔案轉換為 PDF 格式。無縫整合、全面的文件和可用的支援。
-type: docs
 weight: 24
 url: /zh-hant/net/converting-file-types-to-pdf/convert-xls-to-pdf/
 ---

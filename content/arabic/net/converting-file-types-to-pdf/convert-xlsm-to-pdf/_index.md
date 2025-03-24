@@ -3,7 +3,6 @@ title: تحويل XLSM إلى PDF
 linktitle: تحويل XLSM إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: تعرف على كيفية تحويل ملفات XLSM إلى تنسيق PDF بسهولة باستخدام GroupDocs.Conversion for .NET. يتضمن دليل خطوة بخطوة.
-type: docs
 weight: 23
 url: /ar/net/converting-file-types-to-pdf/convert-xlsm-to-pdf/
 ---

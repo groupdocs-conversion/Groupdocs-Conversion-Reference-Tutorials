@@ -3,7 +3,6 @@ title: Converteer JPG naar PDF
 linktitle: Converteer JPG naar PDF
 second_title: GroupDocs.Conversion .NET API
 description: Converteer JPG moeiteloos naar PDF met GroupDocs.Conversion voor .NET. Volg deze stapsgewijze zelfstudie voor een naadloze documentconversie.
-type: docs
 weight: 14
 url: /nl/net/document-conversion/convert-jpg-to-pdf/
 ---

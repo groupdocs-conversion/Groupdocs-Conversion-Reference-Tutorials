@@ -3,7 +3,6 @@ title: एमएचटीएमएल को पीडीएफ में बद
 linktitle: एमएचटीएमएल को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से MHTML को PDF में बदलें। इस मजबूत लाइब्रेरी के साथ दस्तावेज़ प्रबंधन को सरल बनाएं।
-type: docs
 weight: 20
 url: /hi/net/document-conversion/convert-mhtml-to-pdf/
 ---

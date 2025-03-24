@@ -3,7 +3,6 @@ title: Μετατρέψτε τα πρότυπα Word DOTX σε PDF
 linktitle: Μετατρέψτε τα πρότυπα Word DOTX σε PDF
 second_title: GroupDocs.Conversion .NET API
 description: Μετατρέψτε εύκολα τα πρότυπα DOTX Word σε PDF χρησιμοποιώντας το GroupDocs.Conversion για .NET. Απλοποιήστε τις εργασίες διαχείρισης εγγράφων σας.
-type: docs
 weight: 27
 url: /el/net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---

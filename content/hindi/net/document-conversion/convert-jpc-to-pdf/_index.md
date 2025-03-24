@@ -3,7 +3,6 @@ title: जेपीसी को पीडीएफ में बदलें
 linktitle: जेपीसी को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से JPC फ़ाइलों को PDF प्रारूप में परिवर्तित करें। इस निर्बाध समाधान के साथ अपनी दस्तावेज़ प्रबंधन क्षमताओं को बढ़ाएं।
-type: docs
 weight: 11
 url: /hi/net/document-conversion/convert-jpc-to-pdf/
 ---

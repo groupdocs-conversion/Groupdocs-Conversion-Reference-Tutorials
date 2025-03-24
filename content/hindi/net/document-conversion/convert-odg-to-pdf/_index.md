@@ -3,7 +3,6 @@ title: ओडीजी को पीडीएफ में बदलें
 linktitle: ओडीजी को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से ODG फ़ाइलों को PDF में परिवर्तित करना सीखें। अपनी दस्तावेज़ प्रबंधन क्षमताओं को बढ़ाएँ।
-type: docs
 weight: 27
 url: /hi/net/document-conversion/convert-odg-to-pdf/
 ---
@@ -71,4 +70,4 @@ Console.WriteLine("\nConversion to PDF completed successfully. \nCheck output in
 ### क्या GroupDocs.Conversion उपयोगकर्ताओं के लिए तकनीकी सहायता उपलब्ध है?
 हां, ग्रुपडॉक्स उपयोगकर्ताओं को कार्यान्वयन या उपयोग के दौरान आने वाले किसी भी प्रश्न या समस्या में सहायता करने के लिए व्यापक तकनीकी सहायता प्रदान करता है।
 ### क्या GroupDocs.Conversion ODG और PDF के अलावा अन्य फ़ाइल स्वरूपों का समर्थन करता है?
- हाँ, GroupDocs.Conversion रूपांतरण के लिए फ़ाइल स्वरूपों की एक विस्तृत श्रृंखला का समर्थन करता है, जिसमें DOCX, XLSX, PPTX और बहुत कुछ शामिल हैं। जाँचें[प्रलेखन](https://reference.groupdocs.com/conversion/net/) समर्थित प्रारूपों की पूरी सूची के लिए।
+ हाँ, GroupDocs.Conversion रूपांतरण के लिए फ़ाइल स्वरूपों की एक विस्तृत श्रृंखला का समर्थन करता है, जिसमें DOCX, XLSX, PPTX और बहुत कुछ शामिल हैं। जाँचें[प्रलेखन](https://tutorials.groupdocs.com/conversion/net/) समर्थित प्रारूपों की पूरी सूची के लिए।

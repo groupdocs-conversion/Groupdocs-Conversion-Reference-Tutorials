@@ -3,7 +3,6 @@ title: PPS konvertálása PDF-be
 linktitle: PPS konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Tanulja meg, hogyan konvertálhat könnyedén PPS fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Kövesse lépésenkénti útmutatónkat a zökkenőmentes integráció érdekében.
-type: docs
 weight: 25
 url: /hu/net/pdf-conversion/convert-pps-to-pdf/
 ---

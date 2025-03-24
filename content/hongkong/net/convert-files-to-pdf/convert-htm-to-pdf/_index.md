@@ -3,7 +3,6 @@ title: 將 HTM 網頁轉換為 PDF
 linktitle: 將 HTM 網頁轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 輕鬆將 HTM 網頁轉換為 PDF。按照我們的逐步指南無縫整合到您的 .NET 應用程式中。
-type: docs
 weight: 23
 url: /zh-hant/net/convert-files-to-pdf/convert-htm-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: تحويل MBOX إلى PDF
 linktitle: تحويل MBOX إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: قم بتحويل ملفات MBOX بسهولة إلى تنسيق PDF باستخدام GroupDocs.Conversion لـ .NET. اتبع دليلنا خطوة بخطوة للتحويل السلس.
-type: docs
 weight: 18
 url: /ar/net/document-conversion/convert-mbox-to-pdf/
 ---

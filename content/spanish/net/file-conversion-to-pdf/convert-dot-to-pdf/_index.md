@@ -3,7 +3,6 @@ title: Convertir plantillas de Word DOT a PDF
 linktitle: Convertir plantillas de Word DOT a PDF
 second_title: API GroupDocs.Conversión .NET
 description: Aprenda cómo convertir sin esfuerzo archivos DOT (plantilla de Word) a PDF en .NET usando GroupDocs.Conversion para una integración perfecta en sus aplicaciones.
-type: docs
 weight: 26
 url: /es/net/file-conversion-to-pdf/convert-dot-to-pdf/
 ---

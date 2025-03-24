@@ -3,7 +3,6 @@ title: Konvertera HTML-webbsidor till PDF
 linktitle: Konvertera HTML-webbsidor till PDF
 second_title: GroupDocs.Conversion .NET API
 description: Konvertera HTML-webbsidor enkelt till PDF-format med GroupDocs.Conversion för .NET. Följ vår steg-för-steg-guide för sömlös konvertering av dokumentformat.
-type: docs
 weight: 22
 url: /sv/net/convert-files-to-pdf/convert-html-to-pdf/
 ---

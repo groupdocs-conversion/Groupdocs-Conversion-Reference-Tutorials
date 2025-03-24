@@ -3,7 +3,6 @@ title: Konvertieren Sie DWT-CAD-Vorlagendateien in PDF
 linktitle: Konvertieren Sie DWT-CAD-Vorlagendateien in PDF
 second_title: GroupDocs.Conversion .NET-API
 description: Erfahren Sie, wie Sie DWT-CAD-Vorlagendateien mit GroupDocs.Conversion für .NET mühelos in das PDF-Format konvertieren.
-type: docs
 weight: 11
 url: /de/net/convert-files-to-pdf/convert-dwt-to-pdf/
 ---

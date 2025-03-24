@@ -3,7 +3,6 @@ title: डीओटी वर्ड टेम्पलेट्स को पी
 linktitle: डीओटी वर्ड टेम्पलेट्स को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: अपने अनुप्रयोगों में निर्बाध एकीकरण के लिए GroupDocs.Conversion का उपयोग करके .NET में DOT (वर्ड टेम्प्लेट) फ़ाइलों को आसानी से पीडीएफ में परिवर्तित करना सीखें।
-type: docs
 weight: 26
 url: /hi/net/file-conversion-to-pdf/convert-dot-to-pdf/
 ---

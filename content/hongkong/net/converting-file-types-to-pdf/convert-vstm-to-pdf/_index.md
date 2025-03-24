@@ -3,7 +3,6 @@ title: 將 VSTM 轉換為 PDF
 linktitle: 將 VSTM 轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 輕鬆將 VSTM 檔案轉換為 PDF 格式。輕鬆簡化您的文件管理流程。
-type: docs
 weight: 13
 url: /zh-hant/net/converting-file-types-to-pdf/convert-vstm-to-pdf/
 ---

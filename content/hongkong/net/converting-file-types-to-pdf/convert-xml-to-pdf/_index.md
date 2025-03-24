@@ -3,7 +3,6 @@ title: 將 XML 轉換為 PDF
 linktitle: 將 XML 轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 了解如何使用 GroupDocs.Conversion for .NET 將 XML 檔案無縫轉換為 PDF。提高您的文件管理效率。
-type: docs
 weight: 29
 url: /zh-hant/net/converting-file-types-to-pdf/convert-xml-to-pdf/
 ---

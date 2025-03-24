@@ -3,7 +3,6 @@ title: ODG konvertálása PDF-be
 linktitle: ODG konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Tanulja meg, hogyan konvertálhat ODG fájlokat könnyedén PDF formátumba a GroupDocs.Conversion for .NET segítségével. Növelje dokumentumkezelési képességeit.
-type: docs
 weight: 27
 url: /hu/net/document-conversion/convert-odg-to-pdf/
 ---
@@ -71,4 +70,4 @@ Igen, a GroupDocs.Conversion kiterjedt testreszabási lehetőségeket kínál, a
 ### Elérhető technikai támogatás a GroupDocs.Conversion felhasználói számára?
 Igen, a GroupDocs átfogó technikai támogatást kínál, hogy segítse a felhasználókat a megvalósítás vagy használat során felmerülő kérdésekben vagy problémákban.
 ### A GroupDocs.Conversion az ODG-n és a PDF-en kívül más fájlformátumokat is támogat?
- Igen, a GroupDocs.Conversion a fájlformátumok széles skáláját támogatja a konvertáláshoz, beleértve a DOCX, XLSX, PPTX stb. Ellenőrizd a[dokumentáció](https://reference.groupdocs.com/conversion/net/) a támogatott formátumok teljes listájához.
+ Igen, a GroupDocs.Conversion a fájlformátumok széles skáláját támogatja a konvertáláshoz, beleértve a DOCX, XLSX, PPTX stb. Ellenőrizd a[dokumentáció](https://tutorials.groupdocs.com/conversion/net/) a támogatott formátumok teljes listájához.

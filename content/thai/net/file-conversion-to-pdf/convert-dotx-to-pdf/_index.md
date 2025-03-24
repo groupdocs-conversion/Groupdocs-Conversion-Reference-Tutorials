@@ -3,7 +3,6 @@ title: แปลงเทมเพลต DOTX Word เป็น PDF
 linktitle: แปลงเทมเพลต DOTX Word เป็น PDF
 second_title: GroupDocs.Conversion .NET API
 description: แปลงเทมเพลต DOTX Word เป็น PDF ได้อย่างง่ายดายโดยใช้ GroupDocs.Conversion สำหรับ .NET ลดความซับซ้อนของงานการจัดการเอกสารของคุณ
-type: docs
 weight: 27
 url: /th/net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---

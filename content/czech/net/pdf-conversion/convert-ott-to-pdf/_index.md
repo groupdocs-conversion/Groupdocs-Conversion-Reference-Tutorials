@@ -3,7 +3,6 @@ title: Převést OTT do PDF
 linktitle: Převést OTT do PDF
 second_title: GroupDocs.Conversion .NET API
 description: Naučte se, jak bez námahy převést soubory OTT do formátu PDF pomocí GroupDocs.Conversion for .NET. Bezproblémově integrujte převod souborů do svých aplikací .NET.
-type: docs
 weight: 16
 url: /cs/net/pdf-conversion/convert-ott-to-pdf/
 ---

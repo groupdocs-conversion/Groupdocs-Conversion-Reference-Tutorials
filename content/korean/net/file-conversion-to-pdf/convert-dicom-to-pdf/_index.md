@@ -3,7 +3,6 @@ title: DICOM 의료 이미지를 PDF로 변환
 linktitle: DICOM 의료 이미지를 PDF로 변환
 second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion for .NET을 사용하여 DICOM 의료 이미지를 PDF 형식으로 손쉽게 변환하세요. 유연하고 효율적이며 사용자 정의 가능한 변환 솔루션입니다.
-type: docs
 weight: 19
 url: /ko/net/file-conversion-to-pdf/convert-dicom-to-pdf/
 ---

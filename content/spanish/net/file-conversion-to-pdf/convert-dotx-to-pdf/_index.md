@@ -3,7 +3,6 @@ title: Convierta plantillas de Word DOTX a PDF
 linktitle: Convierta plantillas de Word DOTX a PDF
 second_title: API GroupDocs.Conversión .NET
 description: Convierta fácilmente plantillas DOTX de Word a PDF utilizando GroupDocs.Conversion para .NET. Simplifique sus tareas de gestión de documentos.
-type: docs
 weight: 27
 url: /es/net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---

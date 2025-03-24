@@ -3,7 +3,6 @@ title: 將 EPS 封裝的 PostScript 檔案轉換為 PDF
 linktitle: 將 EPS 封裝的 PostScript 檔案轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 輕鬆將 EPS 檔案轉換為 PDF。本教程提供了無縫轉換的逐步指南。
-type: docs
 weight: 17
 url: /zh-hant/net/convert-files-to-pdf/convert-eps-to-pdf/
 ---

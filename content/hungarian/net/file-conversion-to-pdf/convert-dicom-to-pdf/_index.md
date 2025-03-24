@@ -3,7 +3,6 @@ title: A DICOM Medical Images konvertálása PDF-be
 linktitle: A DICOM Medical Images konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálja a DICOM orvosi képeket PDF formátumba a GroupDocs.Conversion for .NET segítségével. Rugalmas, hatékony és testreszabható konverziós megoldás.
-type: docs
 weight: 19
 url: /hu/net/file-conversion-to-pdf/convert-dicom-to-pdf/
 ---

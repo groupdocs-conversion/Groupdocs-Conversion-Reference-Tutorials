@@ -3,7 +3,6 @@ title: A DXF CAD rajzcsere-fájlok konvertálása PDF-be
 linktitle: A DXF CAD rajzcsere-fájlok konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálja a DXF CAD Drawing Exchange fájlokat PDF-be a GroupDocs.Conversion for .NET segítségével.
-type: docs
 weight: 12
 url: /hu/net/convert-files-to-pdf/convert-dxf-to-pdf/
 ---

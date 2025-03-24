@@ -3,7 +3,6 @@ title: 将 CGM 矢量图形转换为 PDF
 linktitle: 将 CGM 矢量图形转换为 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 了解如何使用 GroupDocs.Conversion for .NET 将 CGM 矢量图形轻松转换为 PDF。请按照我们的分步教程进行操作。
-type: docs
 weight: 14
 url: /zh/net/file-conversion-to-pdf/convert-cgm-to-pdf/
 ---

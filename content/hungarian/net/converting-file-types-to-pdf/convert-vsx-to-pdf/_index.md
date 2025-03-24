@@ -3,7 +3,6 @@ title: VSX konvertálása PDF-be
 linktitle: VSX konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Tanulja meg, hogyan konvertálhat könnyedén VSX fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Kövesse lépésről lépésre bemutató oktatóanyagunkat.
-type: docs
 weight: 16
 url: /hu/net/converting-file-types-to-pdf/convert-vsx-to-pdf/
 ---
@@ -12,7 +11,7 @@ szoftverfejlesztés világában általános követelmény a fájlok egyik formá
 ## Előfeltételek
 Mielőtt belevágnánk a VSX PDF-formátumba konvertálásával kapcsolatos oktatóanyagba a GroupDocs.Conversion for .NET használatával, meg kell bizonyosodnia néhány előfeltételről:
 ### 1. Telepítse a GroupDocs.Conversion for .NET programot
- Először is telepítenie kell a GroupDocs.Conversion for .NET programot a fejlesztői környezetében. A könyvtár letölthető a honlapról[itt](https://releases.groupdocs.com/conversion/net/) és kövesse a dokumentációban található telepítési utasításokat[itt](https://reference.groupdocs.com/conversion/net/).
+ Először is telepítenie kell a GroupDocs.Conversion for .NET programot a fejlesztői környezetében. A könyvtár letölthető a honlapról[itt](https://releases.groupdocs.com/conversion/net/) és kövesse a dokumentációban található telepítési utasításokat[itt](https://tutorials.groupdocs.com/conversion/net/).
 ### 2. Szerezzen engedélyt (opcionális)
  Míg a GroupDocs.Conversion for .NET kiértékelési módban licenc nélkül is használható, éles használatra javasolt a licenc beszerzése. Vásárolhat licencet[itt](https://purchase.groupdocs.com/buy) vagy kérjen ideiglenes engedélyt[itt](https://purchase.groupdocs.com/temporary-license/)tesztelési célokra.
 ### 3. C# programozás ismerete

@@ -3,7 +3,6 @@ title: 將 ODP 轉換為PDF
 linktitle: 將 ODP 轉換為PDF
 second_title: GroupDocs.Conversion .NET API
 description: 了解如何使用 GroupDocs.Conversion for .NET 將 ODP 轉換為 PDF。請按照我們的逐步指南進行無縫文件轉換。
-type: docs
 weight: 28
 url: /zh-hant/net/document-conversion/convert-odp-to-pdf/
 ---

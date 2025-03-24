@@ -3,7 +3,6 @@ title: تحويل قوالب DOTX Word إلى PDF
 linktitle: تحويل قوالب DOTX Word إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: يمكنك بسهولة تحويل قوالب DOTX Word إلى PDF باستخدام GroupDocs.Conversion لـ .NET. تبسيط مهام إدارة المستندات الخاصة بك.
-type: docs
 weight: 27
 url: /ar/net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: 将 DOCM Word 文档（宏）转换为 PDF
 linktitle: 将 DOCM Word 文档（宏）转换为 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 轻松将带有宏的 DOCM Word 文档转换为 PDF。简化您的文档管理流程。
-type: docs
 weight: 22
 url: /zh/net/file-conversion-to-pdf/convert-docm-to-pdf/
 ---

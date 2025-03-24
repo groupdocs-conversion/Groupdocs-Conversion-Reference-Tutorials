@@ -3,7 +3,6 @@ title: POTX'yi PDF'ye dönüştür
 linktitle: POTX'yi PDF'ye dönüştür
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET'i kullanarak POTX dosyalarını PDF'ye nasıl dönüştüreceğinizi öğrenin. Sorunsuz belge dönüşümü için bu adım adım öğreticiyi izleyin.
-type: docs
 weight: 23
 url: /tr/net/pdf-conversion/convert-potx-to-pdf/
 ---

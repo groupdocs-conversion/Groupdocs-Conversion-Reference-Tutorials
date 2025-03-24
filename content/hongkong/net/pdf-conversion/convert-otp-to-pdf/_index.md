@@ -3,7 +3,6 @@ title: 將 OTP 轉換為 PDF
 linktitle: 將 OTP 轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 輕鬆將 OTP 檔案轉換為 PDF。使用這款直覺的文件轉換工具簡化您的工作流程。
-type: docs
 weight: 14
 url: /zh-hant/net/pdf-conversion/convert-otp-to-pdf/
 ---

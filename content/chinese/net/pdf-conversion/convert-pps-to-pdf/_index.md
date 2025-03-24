@@ -3,7 +3,6 @@ title: 将 PPS 转换为 PDF
 linktitle: 将 PPS 转换为 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 了解如何使用 GroupDocs.Conversion for .NET 轻松将 PPS 文件转换为 PDF 格式。请按照我们的分步指南进行无缝集成。
-type: docs
 weight: 25
 url: /zh/net/pdf-conversion/convert-pps-to-pdf/
 ---

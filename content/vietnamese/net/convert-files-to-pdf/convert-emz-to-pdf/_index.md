@@ -3,7 +3,6 @@ title: Chuyển đổi siêu tệp nâng cao EMZ sang PDF
 linktitle: Chuyển đổi siêu tệp nâng cao EMZ sang PDF
 second_title: API GroupDocs.Conversion .NET
 description: Dễ dàng chuyển đổi tệp EMZ sang PDF bằng GroupDocs.Conversion for .NET. Đơn giản hóa các tác vụ chuyển đổi tập tin của bạn.
-type: docs
 weight: 16
 url: /vi/net/convert-files-to-pdf/convert-emz-to-pdf/
 ---

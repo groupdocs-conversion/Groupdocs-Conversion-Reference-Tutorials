@@ -3,7 +3,6 @@ title: Converter PPT em PDF
 linktitle: Converter PPT em PDF
 second_title: API GroupDocs.Conversion .NET
 description: Converta facilmente PPT em PDF usando GroupDocs.Conversion for .NET. Aproveite a conversão perfeita de documentos com opções personalizáveis.
-type: docs
 weight: 28
 url: /pt/net/pdf-conversion/convert-ppt-to-pdf/
 ---

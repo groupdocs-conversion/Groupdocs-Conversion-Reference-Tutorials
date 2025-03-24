@@ -3,7 +3,6 @@ title: Dosyaları PDF'ye Dönüştür
 linktitle: Dosyaları PDF'ye Dönüştür
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET ile çeşitli dosya formatlarını zahmetsizce PDF'ye dönüştürün. Verimli belge yönetimi için dönüştürme seçeneklerini sorunsuz bir şekilde entegre edin.
-type: docs
 weight: 22
 url: /tr/net/convert-files-to-pdf/
 ---

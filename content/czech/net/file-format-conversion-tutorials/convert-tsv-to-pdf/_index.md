@@ -3,9 +3,8 @@ title: Převést TSV do PDF
 linktitle: Převést TSV do PDF
 second_title: GroupDocs.Conversion .NET API
 description: Naučte se, jak bez námahy převést soubory TSV do PDF pomocí GroupDocs.Conversion for .NET. Postupujte podle našeho podrobného návodu pro bezproblémovou integraci.
-type: docs
 weight: 21
-url: /cs/net/file-format-conversion-tutorials/convert-tsv-to-pdf/
+url: /cs/net/file-format-conversion-convert-tsv-to-pdf/
 ---
 ## Úvod
 GroupDocs.Conversion for .NET je výkonná knihovna pro převod dokumentů, která umožňuje vývojářům bez námahy převádět různé formáty souborů do PDF a naopak. V tomto tutoriálu si projdeme procesem převodu souboru TSV (hodnoty oddělené tabulátory) do PDF pomocí GroupDocs.Conversion for .NET.

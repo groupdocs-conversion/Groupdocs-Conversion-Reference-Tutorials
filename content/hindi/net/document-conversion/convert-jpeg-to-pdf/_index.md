@@ -3,7 +3,6 @@ title: जेपीईजी को पीडीएफ में बदलें
 linktitle: जेपीईजी को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके JPEG को पीडीएफ में सहजता से परिवर्तित करें। कुशल फ़ाइल स्वरूप परिवर्तन के लिए हमारी चरण-दर-चरण मार्गदर्शिका का पालन करें।
-type: docs
 weight: 12
 url: /hi/net/document-conversion/convert-jpeg-to-pdf/
 ---

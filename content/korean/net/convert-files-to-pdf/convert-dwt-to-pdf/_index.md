@@ -3,7 +3,6 @@ title: DWT CAD 템플릿 파일을 PDF로 변환
 linktitle: DWT CAD 템플릿 파일을 PDF로 변환
 second_title: GroupDocs.Conversion .NET API
 description: .NET용 GroupDocs.Conversion을 사용하여 DWT CAD 템플릿 파일을 PDF 형식으로 손쉽게 변환하는 방법을 알아보세요.
-type: docs
 weight: 11
 url: /ko/net/convert-files-to-pdf/convert-dwt-to-pdf/
 ---

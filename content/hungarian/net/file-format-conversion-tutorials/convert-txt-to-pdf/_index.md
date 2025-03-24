@@ -3,9 +3,8 @@ title: TXT konvertálása PDF-be
 linktitle: TXT konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: A GroupDocs.Conversion for .NET segítségével könnyedén konvertálhat TXT-t PDF-be. Kövesse lépésenkénti útmutatónkat a dokumentumformátumok zökkenőmentes konvertálásához.
-type: docs
 weight: 22
-url: /hu/net/file-format-conversion-tutorials/convert-txt-to-pdf/
+url: /hu/net/file-format-conversion-convert-txt-to-pdf/
 ---
 ## Bevezetés
 mai digitális korszakban a dokumentumformátumok programozott kezelésének képessége számos szoftveralkalmazás számára elengedhetetlen. Akár dokumentumkezelő rendszert, akár online szerkesztőt épít, vagy egyszerűen csak fájlokat szeretne egyik formátumból a másikba konvertálni, egy megbízható és hatékony konvertáló eszköz létfontosságú. Az egyik ilyen eszköz, amely kiemelkedik a GroupDocs.Conversion for .NET.

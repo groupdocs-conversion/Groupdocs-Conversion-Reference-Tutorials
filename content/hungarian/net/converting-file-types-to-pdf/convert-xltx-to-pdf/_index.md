@@ -3,7 +3,6 @@ title: Az XLTX konvertálása PDF-be
 linktitle: Az XLTX konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Ismerje meg, hogyan konvertálhat zökkenőmentesen XLTX fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Növelje .NET-alkalmazásainak sokoldalúságát.
-type: docs
 weight: 28
 url: /hu/net/converting-file-types-to-pdf/convert-xltx-to-pdf/
 ---

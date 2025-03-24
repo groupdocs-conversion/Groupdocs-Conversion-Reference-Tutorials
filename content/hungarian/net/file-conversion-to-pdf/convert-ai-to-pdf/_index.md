@@ -3,7 +3,6 @@ title: Konvertálja az AI-fájlokat PDF-be
 linktitle: Konvertálja az AI-fájlokat PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Tanulja meg, hogyan konvertálhat könnyedén AI-fájlokat PDF-be a GroupDocs.Conversion for .NET segítségével. Egyszerűsítse dokumentumkezelési munkafolyamatait.
-type: docs
 weight: 10
 url: /hu/net/file-conversion-to-pdf/convert-ai-to-pdf/
 ---

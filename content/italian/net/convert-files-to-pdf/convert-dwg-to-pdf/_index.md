@@ -3,7 +3,6 @@ title: Converti file CAD DWG in PDF
 linktitle: Converti file CAD DWG in PDF
 second_title: API GroupDocs.Conversion .NET
 description: Scopri come convertire file CAD DWG in PDF senza problemi utilizzando GroupDocs.Conversion per .NET. Segui il nostro tutorial passo passo per una conversione efficiente.
-type: docs
 weight: 10
 url: /it/net/convert-files-to-pdf/convert-dwg-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: แปลงกราฟิกเวกเตอร์ CDR เป็น P
 linktitle: แปลงกราฟิกเวกเตอร์ CDR เป็น PDF
 second_title: GroupDocs.Conversion .NET API
 description: แปลงไฟล์กราฟิกเวกเตอร์ CorelDRAW (CDR) เป็นรูปแบบ PDF ได้อย่างง่ายดายโดยใช้ GroupDocs.Conversion สำหรับ .NET ปรับปรุงกระบวนการแปลงเอกสารของคุณ
-type: docs
 weight: 12
 url: /th/net/file-conversion-to-pdf/convert-cdr-to-pdf/
 ---

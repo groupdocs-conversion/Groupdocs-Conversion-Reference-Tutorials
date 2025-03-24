@@ -3,7 +3,6 @@ title: Конвертировать OTS в PDF
 linktitle: Конвертировать OTS в PDF
 second_title: GroupDocs.Conversion .NET API
 description: Узнайте, как легко конвертировать файлы OTS в формат PDF с помощью GroupDocs.Conversion для .NET. Пошаговое руководство включено.
-type: docs
 weight: 15
 url: /ru/net/pdf-conversion/convert-ots-to-pdf/
 ---

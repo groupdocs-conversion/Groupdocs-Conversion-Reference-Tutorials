@@ -3,7 +3,6 @@ title: تحويل POT إلى PDF
 linktitle: تحويل POT إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: تعرف على كيفية تحويل ملفات POT إلى PDF باستخدام Groupdocs.Conversion for .NET دون عناء. قم بتبسيط مهام تحويل المستندات الخاصة بك من خلال هذا سهل المتابعة.
-type: docs
 weight: 22
 url: /ar/net/pdf-conversion/convert-pot-to-pdf/
 ---
@@ -62,6 +61,6 @@ Console.WriteLine("\nConversion to PDF completed successfully. \nCheck output in
 ### كيف يمكنني الحصول على ترخيص مؤقت لـ Groupdocs.Conversion لـ .NET؟
  يمكنك الحصول على ترخيص مؤقت من[هنا](https://purchase.groupdocs.com/temporary-license/).
 ### أين يمكنني العثور على وثائق Groupdocs.Conversion لـ .NET؟
- الوثائق التفصيلية متاحة[هنا](https://reference.groupdocs.com/conversion/net/).
+ الوثائق التفصيلية متاحة[هنا](https://tutorials.groupdocs.com/conversion/net/).
 ### أين يمكنني طلب الدعم أو طرح الأسئلة المتعلقة بـ Groupdocs.Conversion for .NET؟
  يمكنك زيارة منتدى الدعم[هنا](https://forum.groupdocs.com/c/conversion/11) للمساعدة.

@@ -3,7 +3,6 @@ title: WebP を PDF に変換
 linktitle: WebP を PDF に変換
 second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion for .NET を使用して、WebP ファイルを PDF 形式に簡単に変換します。ドキュメント変換タスクを簡素化します。
-type: docs
 weight: 18
 url: /ja/net/converting-file-types-to-pdf/convert-webp-to-pdf/
 ---

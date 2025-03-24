@@ -3,7 +3,6 @@ title: Convierta hojas de cálculo FODS OpenDocument a PDF
 linktitle: Convierta hojas de cálculo FODS OpenDocument a PDF
 second_title: API GroupDocs.Conversión .NET
 description: Convierta sin esfuerzo hojas de cálculo FODS OpenDocument a archivos PDF utilizando GroupDocs.Conversion para .NET. Mejore sus aplicaciones .NET con una conversión de documentos perfecta.
-type: docs
 weight: 20
 url: /es/net/convert-files-to-pdf/convert-fods-to-pdf/
 ---

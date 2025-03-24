@@ -3,9 +3,8 @@ title: تحويل VSDX إلى PDF
 linktitle: تحويل VSDX إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: تعرف على كيفية تحويل ملفات VSDX إلى تنسيق PDF بسهولة باستخدام GroupDocs.Conversion for .NET. تعزيز إنتاجيتك.
-type: docs
 weight: 28
-url: /ar/net/file-format-conversion-tutorials/convert-vsdx-to-pdf/
+url: /ar/net/file-format-conversion-convert-vsdx-to-pdf/
 ---
 ## مقدمة
 في العصر الرقمي الحالي، أصبحت الحاجة إلى معالجة المستندات وتحويلها بكفاءة أمرًا بالغ الأهمية. سواء كنت مطورًا، أو صاحب عمل، أو مستخدمًا فرديًا، فإن امتلاك القدرة على تحويل الملفات بسلاسة من تنسيق إلى آخر يمكن أن يوفر الوقت ويبسط العمليات. يقدم GroupDocs.Conversion for .NET حلاً قويًا لهذا التحدي، مما يسمح للمطورين بتحويل ملفات VSDX إلى تنسيق PDF بسهولة. في هذا البرنامج التعليمي، سوف نستكشف كيفية استخدام GroupDocs.Conversion for .NET لتحويل ملفات VSDX إلى PDF بسهولة.

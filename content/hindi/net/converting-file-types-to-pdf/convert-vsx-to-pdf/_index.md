@@ -3,7 +3,6 @@ title: वीएसएक्स को पीडीएफ में बदले
 linktitle: वीएसएक्स को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से VSX फ़ाइलों को PDF प्रारूप में परिवर्तित करना सीखें। हमारे चरण-दर-चरण ट्यूटोरियल का अनुसरण करें।
-type: docs
 weight: 16
 url: /hi/net/converting-file-types-to-pdf/convert-vsx-to-pdf/
 ---
@@ -12,7 +11,7 @@ url: /hi/net/converting-file-types-to-pdf/convert-vsx-to-pdf/
 ## आवश्यक शर्तें
 इससे पहले कि हम .NET के लिए GroupDocs.Conversion का उपयोग करके VSX को PDF में परिवर्तित करने के ट्यूटोरियल में उतरें, कुछ आवश्यक शर्तें हैं जिन्हें आपको सुनिश्चित करना होगा:
 ### 1. .NET के लिए GroupDocs.Conversion स्थापित करें
- सबसे पहले, आपको अपने विकास परिवेश में .NET के लिए GroupDocs.Conversion स्थापित करना होगा। आप वेबसाइट से लाइब्रेरी डाउनलोड कर सकते हैं[यहाँ](https://releases.groupdocs.com/conversion/net/) और दस्तावेज़ में दिए गए इंस्टॉलेशन निर्देशों का पालन करें[यहाँ](https://reference.groupdocs.com/conversion/net/).
+ सबसे पहले, आपको अपने विकास परिवेश में .NET के लिए GroupDocs.Conversion स्थापित करना होगा। आप वेबसाइट से लाइब्रेरी डाउनलोड कर सकते हैं[यहाँ](https://releases.groupdocs.com/conversion/net/) और दस्तावेज़ में दिए गए इंस्टॉलेशन निर्देशों का पालन करें[यहाँ](https://tutorials.groupdocs.com/conversion/net/).
 ### 2. लाइसेंस प्राप्त करें (वैकल्पिक)
  जबकि .NET के लिए GroupDocs.Conversion का उपयोग मूल्यांकन मोड में लाइसेंस के बिना किया जा सकता है, उत्पादन उपयोग के लिए लाइसेंस प्राप्त करने की अनुशंसा की जाती है। आप लाइसेंस खरीद सकते हैं[यहाँ](https://purchase.groupdocs.com/buy) या अस्थायी लाइसेंस का अनुरोध करें[यहाँ](https://purchase.groupdocs.com/temporary-license/)परीक्षण प्रयोजनों के लिए.
 ### 3. सी# प्रोग्रामिंग से परिचित होना

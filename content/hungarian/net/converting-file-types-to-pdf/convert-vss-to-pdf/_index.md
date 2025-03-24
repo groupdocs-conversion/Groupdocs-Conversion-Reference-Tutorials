@@ -3,7 +3,6 @@ title: VSS konvertálása PDF-be
 linktitle: VSS konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: A GroupDocs.Conversion for .NET segítségével könnyedén konvertálhat VSS-fájlokat PDF-be. Kötegelt átalakítás, testreszabható lehetőségek és zökkenőmentes integráció.
-type: docs
 weight: 11
 url: /hu/net/converting-file-types-to-pdf/convert-vss-to-pdf/
 ---

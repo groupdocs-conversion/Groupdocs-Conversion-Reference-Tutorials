@@ -3,7 +3,6 @@ title: 將 DOTM Word 範本（巨集）轉換為 PDF
 linktitle: 將 DOTM Word 範本（巨集）轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 將包含巨集的 DOTM Word 範本輕鬆轉換為 PDF。透過簡單的步驟確保相容性和安全性。
-type: docs
 weight: 25
 url: /zh-hant/net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---

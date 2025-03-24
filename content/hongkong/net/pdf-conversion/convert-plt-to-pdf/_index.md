@@ -3,7 +3,6 @@ title: 將 PLT 轉換為 PDF
 linktitle: 將 PLT 轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 將 PLT 檔案無縫轉換為 PDF。輕鬆地將文件轉換功能整合到您的 .NET 應用程式中。
-type: docs
 weight: 19
 url: /zh-hant/net/pdf-conversion/convert-plt-to-pdf/
 ---

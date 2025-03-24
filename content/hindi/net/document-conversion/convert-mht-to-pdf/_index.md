@@ -3,7 +3,6 @@ title: एमएचटी को पीडीएफ में बदलें
 linktitle: एमएचटी को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके MHT फ़ाइलों को आसानी से पीडीएफ में बदलें। अपने .NET अनुप्रयोगों में निर्बाध एकीकरण के लिए हमारी चरण-दर-चरण मार्गदर्शिका का पालन करें।
-type: docs
 weight: 21
 url: /hi/net/document-conversion/convert-mht-to-pdf/
 ---

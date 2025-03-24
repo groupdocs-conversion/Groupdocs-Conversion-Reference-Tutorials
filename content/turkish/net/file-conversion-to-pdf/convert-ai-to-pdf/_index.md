@@ -3,7 +3,6 @@ title: AI Dosyalarını PDF'ye Dönüştürün
 linktitle: AI Dosyalarını PDF'ye Dönüştürün
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET'i kullanarak AI dosyalarını zahmetsizce PDF'ye nasıl dönüştüreceğinizi öğrenin. Belge yönetimi iş akışlarınızı kolaylaştırın.
-type: docs
 weight: 10
 url: /tr/net/file-conversion-to-pdf/convert-ai-to-pdf/
 ---

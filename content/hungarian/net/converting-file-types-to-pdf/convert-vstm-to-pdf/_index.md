@@ -3,7 +3,6 @@ title: A VSTM konvertálása PDF-be
 linktitle: A VSTM konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálhat VSTM fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Egyszerűsítse dokumentumkezelési folyamatát.
-type: docs
 weight: 13
 url: /hu/net/converting-file-types-to-pdf/convert-vstm-to-pdf/
 ---

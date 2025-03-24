@@ -3,7 +3,6 @@ title: Chuyển đổi tài liệu
 linktitle: Chuyển đổi tài liệu
 second_title: API GroupDocs.Conversion .NET
 description: Dễ dàng chuyển đổi các định dạng tệp khác nhau sang PDF với hướng dẫn GroupDocs.Conversion for .NET. Tăng cường quản lý tài liệu một cách liền mạch.
-type: docs
 weight: 23
 url: /vi/net/document-conversion/
 ---

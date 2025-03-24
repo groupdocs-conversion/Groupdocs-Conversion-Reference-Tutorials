@@ -3,7 +3,6 @@ title: XLS'yi PDF'ye dönüştür
 linktitle: XLS'yi PDF'ye dönüştür
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET'i kullanarak XLS dosyalarını zahmetsizce PDF formatına dönüştürün. Sorunsuz entegrasyon, kapsamlı belgeler ve destek mevcuttur.
-type: docs
 weight: 24
 url: /tr/net/converting-file-types-to-pdf/convert-xls-to-pdf/
 ---

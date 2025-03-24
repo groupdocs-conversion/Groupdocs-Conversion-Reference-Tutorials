@@ -3,7 +3,6 @@ title: XLT'yi PDF'ye dönüştür
 linktitle: XLT'yi PDF'ye dönüştür
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET'i kullanarak XLT dosyalarını zahmetsizce PDF formatına nasıl dönüştüreceğinizi öğrenin. Bu kapsamlı eğitimle belge dönüştürme görevlerinizi basitleştirin.
-type: docs
 weight: 27
 url: /tr/net/converting-file-types-to-pdf/convert-xlt-to-pdf/
 ---

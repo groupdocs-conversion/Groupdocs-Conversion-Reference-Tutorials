@@ -3,7 +3,6 @@ title: FODS OpenDocument スプレッドシートを PDF に変換
 linktitle: FODS OpenDocument スプレッドシートを PDF に変換
 second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion for .NET を使用して、FODS OpenDocument スプレッドシートを PDF に簡単に変換します。シームレスなドキュメント変換により .NET アプリケーションを強化します。
-type: docs
 weight: 20
 url: /ja/net/convert-files-to-pdf/convert-fods-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: Chuyển đổi tài liệu Word DOCX sang PDF
 linktitle: Chuyển đổi tài liệu Word DOCX sang PDF
 second_title: API GroupDocs.Conversion .NET
 description: Tìm hiểu cách dễ dàng chuyển đổi tài liệu DOCX Word sang PDF bằng GroupDocs.Conversion for .NET. Nâng cao khả năng quản lý tài liệu của bạn.
-type: docs
 weight: 24
 url: /vi/net/file-conversion-to-pdf/convert-docx-to-pdf/
 ---

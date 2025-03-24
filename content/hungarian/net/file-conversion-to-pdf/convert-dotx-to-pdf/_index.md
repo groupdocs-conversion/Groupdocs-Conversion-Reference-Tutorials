@@ -3,7 +3,6 @@ title: Konvertálja a DOTX Word sablonokat PDF-be
 linktitle: Konvertálja a DOTX Word sablonokat PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálhatja a DOTX Word sablonokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Egyszerűsítse dokumentumkezelési feladatait.
-type: docs
 weight: 27
 url: /hu/net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---

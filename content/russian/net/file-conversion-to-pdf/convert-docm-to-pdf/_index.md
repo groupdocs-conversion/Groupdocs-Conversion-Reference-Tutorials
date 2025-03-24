@@ -3,7 +3,6 @@ title: Преобразование документов Word DOCM (макрос
 linktitle: Преобразование документов Word DOCM (макросов) в PDF
 second_title: GroupDocs.Conversion .NET API
 description: Легко конвертируйте документы Word DOCM с макросами в PDF-файлы с помощью GroupDocs.Conversion для .NET. Оптимизируйте процесс управления документами.
-type: docs
 weight: 22
 url: /ru/net/file-conversion-to-pdf/convert-docm-to-pdf/
 ---

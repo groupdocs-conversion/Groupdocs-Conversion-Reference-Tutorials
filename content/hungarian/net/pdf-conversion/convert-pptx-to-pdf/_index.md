@@ -3,7 +3,6 @@ title: A PPTX konvertálása PDF-be
 linktitle: A PPTX konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Ismerje meg, hogyan konvertálhat PowerPoint prezentációkat (PPTX) PDF formátumba a GroupDocs.Conversion for .NET segítségével. Könnyű és hatékony átalakítási folyamat.
-type: docs
 weight: 29
 url: /hu/net/pdf-conversion/convert-pptx-to-pdf/
 ---

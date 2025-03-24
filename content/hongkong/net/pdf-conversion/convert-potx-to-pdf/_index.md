@@ -3,7 +3,6 @@ title: 將 POTX 轉換為PDF
 linktitle: 將 POTX 轉換為PDF
 second_title: GroupDocs.Conversion .NET API
 description: 了解如何使用 GroupDocs.Conversion for .NET 將 POTX 檔案轉換為 PDF。請按照此逐步教學進行無縫文件轉換。
-type: docs
 weight: 23
 url: /zh-hant/net/pdf-conversion/convert-potx-to-pdf/
 ---

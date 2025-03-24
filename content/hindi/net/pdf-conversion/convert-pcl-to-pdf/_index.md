@@ -3,7 +3,6 @@ title: पीसीएल को पीडीएफ में बदलें
 linktitle: पीसीएल को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से PCL फ़ाइलों को PDF में परिवर्तित करना सीखें। हमारे चरण-दर-चरण मार्गदर्शिका का पालन करें.
-type: docs
 weight: 18
 url: /hi/net/pdf-conversion/convert-pcl-to-pdf/
 ---

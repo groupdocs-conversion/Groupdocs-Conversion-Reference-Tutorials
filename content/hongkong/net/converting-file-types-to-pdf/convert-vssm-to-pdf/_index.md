@@ -3,7 +3,6 @@ title: 將 VSSM 轉換為PDF
 linktitle: 將 VSSM 轉換為PDF
 second_title: GroupDocs.Conversion .NET API
 description: 了解如何使用 GroupDocs.Conversion for .NET 將 VSSM 檔案轉換為 PDF。易於遵循的教程，帶有逐步說明。
-type: docs
 weight: 10
 url: /zh-hant/net/converting-file-types-to-pdf/convert-vssm-to-pdf/
 ---

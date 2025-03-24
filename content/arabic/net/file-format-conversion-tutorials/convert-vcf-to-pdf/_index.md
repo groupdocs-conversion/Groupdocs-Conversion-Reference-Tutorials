@@ -3,9 +3,8 @@ title: تحويل VCF إلى PDF
 linktitle: تحويل VCF إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: قم بتحويل VCF إلى PDF بسهولة باستخدام GroupDocs.Conversion لـ .NET. قم بتبسيط مهام إدارة المستندات الخاصة بك باستخدام هذا الحل البديهي.
-type: docs
 weight: 23
-url: /ar/net/file-format-conversion-tutorials/convert-vcf-to-pdf/
+url: /ar/net/file-format-conversion-convert-vcf-to-pdf/
 ---
 ## مقدمة
 في مجال إدارة المستندات ومعالجتها، يبرز GroupDocs.Conversion for .NET كأداة متعددة الاستخدامات تمكن المطورين من التحويل بسلاسة بين تنسيقات الملفات المختلفة. من بين مجموعة وظائفه، إحدى مهام التحويل البارزة هي تحويل VCF (ملف الاتصال الظاهري) إلى PDF (تنسيق المستندات المحمولة). يتعمق هذا البرنامج التعليمي في العملية خطوة بخطوة لإنجاز هذا التحويل بسهولة باستخدام GroupDocs.Conversion for .NET.

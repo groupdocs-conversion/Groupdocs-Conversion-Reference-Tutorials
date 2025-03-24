@@ -3,7 +3,6 @@ title: Μετατρέψτε τα πρότυπα Word DOT σε PDF
 linktitle: Μετατρέψτε τα πρότυπα Word DOT σε PDF
 second_title: GroupDocs.Conversion .NET API
 description: Μάθετε πώς να μετατρέπετε εύκολα αρχεία DOT (Word Template) σε PDF στο .NET χρησιμοποιώντας το GroupDocs.Conversion για απρόσκοπτη ενσωμάτωση στις εφαρμογές σας.
-type: docs
 weight: 26
 url: /el/net/file-conversion-to-pdf/convert-dot-to-pdf/
 ---

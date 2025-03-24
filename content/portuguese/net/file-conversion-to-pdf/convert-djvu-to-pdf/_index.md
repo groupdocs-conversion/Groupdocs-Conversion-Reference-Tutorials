@@ -3,7 +3,6 @@ title: Converter documentos DJVU em PDF
 linktitle: Converter documentos DJVU em PDF
 second_title: API GroupDocs.Conversion .NET
 description: Aprenda como converter documentos DJVU em PDF sem esforço usando GroupDocs.Conversion for .NET. Simplifique suas tarefas de gerenciamento de documentos.
-type: docs
 weight: 20
 url: /pt/net/file-conversion-to-pdf/convert-djvu-to-pdf/
 ---

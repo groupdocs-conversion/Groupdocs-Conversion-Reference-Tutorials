@@ -3,7 +3,6 @@ title: Unlock GroupDocs.Conversion Expertise
 linktitle: GroupDocs.Conversion Tutorials
 additionalTitle: GroupDocs API References
 description: Discover the power of GroupDocs.Conversion through our tutorials. Learn to effortlessly convert documents between formats for seamless workflow integration.
-type: docs
 weight: 11
 url: /
 is_root: true

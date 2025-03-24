@@ -3,7 +3,6 @@ title: GroupDocs.Conversion の専門知識のロックを解除する
 linktitle: GroupDocs.Conversion チュートリアル
 additionalTitle: GroupDocs API リファレンス
 description: チュートリアルを通じて GroupDocs.Conversion の威力を発見してください。ワークフローをシームレスに統合するために、形式間でドキュメントを簡単に変換する方法を学びます。
-type: docs
 weight: 11
 url: /ja/
 is_root: true

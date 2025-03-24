@@ -3,7 +3,6 @@ title: Převeďte lékařské obrázky DICOM do formátu PDF
 linktitle: Převeďte lékařské obrázky DICOM do formátu PDF
 second_title: GroupDocs.Conversion .NET API
 description: Bez námahy převádějte lékařské snímky DICOM do formátu PDF pomocí GroupDocs.Conversion for .NET. Flexibilní, efektivní a přizpůsobitelné řešení konverze.
-type: docs
 weight: 19
 url: /cs/net/file-conversion-to-pdf/convert-dicom-to-pdf/
 ---

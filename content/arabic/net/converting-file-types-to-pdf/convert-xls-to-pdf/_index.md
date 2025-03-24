@@ -3,7 +3,6 @@ title: تحويل XLS إلى PDF
 linktitle: تحويل XLS إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: يمكنك بسهولة تحويل ملفات XLS إلى تنسيق PDF باستخدام GroupDocs.Conversion for .NET. التكامل السلس والوثائق الشاملة والدعم المتاح.
-type: docs
 weight: 24
 url: /ar/net/converting-file-types-to-pdf/convert-xls-to-pdf/
 ---

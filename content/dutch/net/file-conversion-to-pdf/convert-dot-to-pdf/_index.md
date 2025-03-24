@@ -3,7 +3,6 @@ title: Converteer DOT Word-sjablonen naar PDF
 linktitle: Converteer DOT Word-sjablonen naar PDF
 second_title: GroupDocs.Conversion .NET API
 description: Leer hoe u DOT-bestanden (Word-sjabloon) moeiteloos naar PDF in .NET kunt converteren met GroupDocs.Conversion voor naadloze integratie in uw toepassingen.
-type: docs
 weight: 26
 url: /nl/net/file-conversion-to-pdf/convert-dot-to-pdf/
 ---

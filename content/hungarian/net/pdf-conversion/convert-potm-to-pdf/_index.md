@@ -3,7 +3,6 @@ title: A POTM konvertálása PDF-be
 linktitle: A POTM konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálhat POTM fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Egyszerűsítse dokumentumkezelési munkafolyamatát.
-type: docs
 weight: 21
 url: /hu/net/pdf-conversion/convert-potm-to-pdf/
 ---

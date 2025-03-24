@@ -3,7 +3,6 @@ title: A WebP konvertálása PDF-be
 linktitle: A WebP konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálhat WebP fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Egyszerűsítse dokumentum-átalakítási feladatait.
-type: docs
 weight: 18
 url: /hu/net/converting-file-types-to-pdf/convert-webp-to-pdf/
 ---

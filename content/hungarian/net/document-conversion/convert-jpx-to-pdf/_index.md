@@ -3,7 +3,6 @@ title: JPX konvertálása PDF-be
 linktitle: JPX konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Ismerje meg, hogyan konvertálhat JPX fájlokat PDF-be a GroupDocs.Conversion for .NET segítségével. Kövesse lépésről lépésre bemutató oktatóanyagunkat a zökkenőmentes integráció érdekében.
-type: docs
 weight: 16
 url: /hu/net/document-conversion/convert-jpx-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: Chuyển đổi tệp mô hình hóa thông tin tòa nhà IFC sang PDF
 linktitle: Chuyển đổi tệp mô hình hóa thông tin tòa nhà IFC sang PDF
 second_title: API GroupDocs.Conversion .NET
 description: Tìm hiểu cách chuyển đổi dễ dàng các tệp Mô hình thông tin tòa nhà IFC sang định dạng PDF bằng GroupDocs.Conversion cho .NET.
-type: docs
 weight: 25
 url: /vi/net/convert-files-to-pdf/convert-ifc-to-pdf/
 ---

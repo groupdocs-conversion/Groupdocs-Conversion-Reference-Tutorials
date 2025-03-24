@@ -3,7 +3,6 @@ title: Konwertuj PNG na PDF
 linktitle: Konwertuj PNG na PDF
 second_title: GroupDocs.Conversion API .NET
 description: Bez wysiłku konwertuj obrazy PNG na dokumenty PDF za pomocą GroupDocs.Conversion dla .NET. Proste kroki do bezproblemowej konwersji formatu pliku.
-type: docs
 weight: 20
 url: /pl/net/pdf-conversion/convert-png-to-pdf/
 ---
@@ -62,7 +61,7 @@ Dzięki temu komunikatowi użytkownik wie, gdzie znaleźć przekonwertowany plik
 Podsumowując, GroupDocs.Conversion dla .NET zapewnia proste, ale wydajne rozwiązanie do płynnej konwersji obrazów PNG na dokumenty PDF. Wykonując kroki opisane w tym samouczku, możesz z łatwością konwertować pliki PNG do formatu PDF, otwierając świat możliwości zarządzania dokumentami i udostępniania.
 ## Często zadawane pytania
 ### Czy GroupDocs.Conversion jest kompatybilny z innymi formatami plików oprócz PNG i PDF?
- Tak, GroupDocs.Conversion obsługuje szeroką gamę formatów plików do konwersji, w tym DOCX, XLSX, PPTX, JPG, TIFF i inne. Patrz[dokumentacja](https://reference.groupdocs.com/conversion/net/) aby uzyskać pełną listę obsługiwanych formatów.
+ Tak, GroupDocs.Conversion obsługuje szeroką gamę formatów plików do konwersji, w tym DOCX, XLSX, PPTX, JPG, TIFF i inne. Patrz[dokumentacja](https://tutorials.groupdocs.com/conversion/net/) aby uzyskać pełną listę obsługiwanych formatów.
 ### Czy mogę dostosować ustawienia konwersji zgodnie z moimi konkretnymi wymaganiami?
 Absolutnie! GroupDocs.Conversion oferuje szerokie możliwości dostosowywania, dzięki czemu możesz dostosować proces konwersji do swoich potrzeb. Możesz dostosować parametry, takie jak rozmiar strony, orientacja, jakość i inne.
 ### Czy GroupDocs.Conversion nadaje się do zadań związanych z konwersją dokumentów na dużą skalę?

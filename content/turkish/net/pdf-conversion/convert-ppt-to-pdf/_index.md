@@ -3,7 +3,6 @@ title: PPT'yi PDF'ye dönüştür
 linktitle: PPT'yi PDF'ye dönüştür
 second_title: GroupDocs.Conversion .NET API'si
 description: GroupDocs.Conversion for .NET'i kullanarak PPT'yi zahmetsizce PDF'ye dönüştürün. Özelleştirilebilir seçeneklerle kusursuz belge dönüştürmenin keyfini çıkarın.
-type: docs
 weight: 28
 url: /tr/net/pdf-conversion/convert-ppt-to-pdf/
 ---

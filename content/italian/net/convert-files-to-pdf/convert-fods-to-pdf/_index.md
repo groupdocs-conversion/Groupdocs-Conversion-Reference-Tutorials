@@ -3,7 +3,6 @@ title: Converti fogli di calcolo OpenDocument FODS in PDF
 linktitle: Converti fogli di calcolo OpenDocument FODS in PDF
 second_title: API GroupDocs.Conversion .NET
 description: Converti facilmente i fogli di calcolo OpenDocument FODS in PDF utilizzando GroupDocs.Conversion per .NET. Migliora le tue applicazioni .NET con la conversione continua dei documenti.
-type: docs
 weight: 20
 url: /it/net/convert-files-to-pdf/convert-fods-to-pdf/
 ---

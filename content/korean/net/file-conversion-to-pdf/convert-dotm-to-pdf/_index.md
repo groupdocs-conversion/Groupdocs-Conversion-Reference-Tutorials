@@ -3,7 +3,6 @@ title: DOTM Word 템플릿(매크로)을 PDF로 변환
 linktitle: DOTM Word 템플릿(매크로)을 PDF로 변환
 second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion for .NET을 사용하여 매크로가 포함된 DOTM Word 템플릿을 PDF로 쉽게 변환할 수 있습니다. 간단한 단계를 통해 호환성과 보안을 보장하세요.
-type: docs
 weight: 25
 url: /ko/net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---

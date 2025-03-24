@@ -3,7 +3,6 @@ title: Konwertuj pliki modelowania informacji o budynku IFC do formatu PDF
 linktitle: Konwertuj pliki modelowania informacji o budynku IFC do formatu PDF
 second_title: GroupDocs.Conversion API .NET
 description: Dowiedz się, jak bez wysiłku konwertować pliki modelowania informacji o budynku IFC do formatu PDF za pomocą GroupDocs.Conversion dla .NET.
-type: docs
 weight: 25
 url: /pl/net/convert-files-to-pdf/convert-ifc-to-pdf/
 ---

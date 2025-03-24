@@ -3,7 +3,6 @@ title: A DOTM Word sablonok (makrók) konvertálása PDF-be
 linktitle: A DOTM Word sablonok (makrók) konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: A GroupDocs.Conversion for .NET segítségével könnyedén konvertálhat makrókat tartalmazó DOTM Word-sablonokat PDF-be. Biztosítsa a kompatibilitást és a biztonságot egyszerű lépésekkel.
-type: docs
 weight: 25
 url: /hu/net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---

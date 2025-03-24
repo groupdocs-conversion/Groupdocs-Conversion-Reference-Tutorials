@@ -3,7 +3,6 @@ title: Преобразование файлов обмена чертежами
 linktitle: Преобразование файлов обмена чертежами DXF CAD в PDF
 second_title: GroupDocs.Conversion .NET API
 description: Легко конвертируйте файлы обмена чертежами DXF CAD в PDF с помощью GroupDocs.Conversion для .NET.
-type: docs
 weight: 12
 url: /ru/net/convert-files-to-pdf/convert-dxf-to-pdf/
 ---

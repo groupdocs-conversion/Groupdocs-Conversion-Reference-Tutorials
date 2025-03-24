@@ -3,7 +3,6 @@ title: Konvertálja a CDR vektorgrafikát PDF-be
 linktitle: Konvertálja a CDR vektorgrafikát PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálhat CorelDRAW (CDR) vektorgrafikus fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Egyszerűsítse a dokumentumátalakítási folyamatot.
-type: docs
 weight: 12
 url: /hu/net/file-conversion-to-pdf/convert-cdr-to-pdf/
 ---

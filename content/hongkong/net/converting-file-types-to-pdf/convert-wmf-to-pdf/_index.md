@@ -3,7 +3,6 @@ title: 將 WMF 轉換為 PDF
 linktitle: 將 WMF 轉換為 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 了解如何使用 GroupDocs.Conversion for .NET 輕鬆將 WMF 檔案轉換為 PDF。請按照我們的逐步教學進行操作。
-type: docs
 weight: 19
 url: /zh-hant/net/converting-file-types-to-pdf/convert-wmf-to-pdf/
 ---

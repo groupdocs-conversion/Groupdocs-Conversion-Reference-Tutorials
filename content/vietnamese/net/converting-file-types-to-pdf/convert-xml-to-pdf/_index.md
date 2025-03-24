@@ -3,7 +3,6 @@ title: Chuyển đổi XML sang PDF
 linktitle: Chuyển đổi XML sang PDF
 second_title: API GroupDocs.Conversion .NET
 description: Tìm hiểu cách chuyển đổi liền mạch các tệp XML sang PDF bằng GroupDocs.Conversion cho .NET. Nâng cao hiệu quả quản lý tài liệu của bạn.
-type: docs
 weight: 29
 url: /vi/net/converting-file-types-to-pdf/convert-xml-to-pdf/
 ---

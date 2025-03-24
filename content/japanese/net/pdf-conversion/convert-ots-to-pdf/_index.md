@@ -3,7 +3,6 @@ title: OTSをPDFに変換
 linktitle: OTSをPDFに変換
 second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion for .NET を使用して、OTS ファイルを PDF 形式に簡単に変換する方法を学びます。ステップバイステップのチュートリアルが含まれています。
-type: docs
 weight: 15
 url: /ja/net/pdf-conversion/convert-ots-to-pdf/
 ---

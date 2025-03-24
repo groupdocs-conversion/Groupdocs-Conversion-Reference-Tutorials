@@ -3,7 +3,6 @@ title: Konvertálja a JPEG-LS (.JLS) fájlokat PDF-be
 linktitle: Konvertálja a JPEG-LS (.JLS) fájlokat PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Tanulja meg, hogyan konvertálhat könnyedén JPEG-LS (.JLS) fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Növelje fájlkonverziós képességeit.
-type: docs
 weight: 29
 url: /hu/net/convert-files-to-pdf/convert-jls-to-pdf/
 ---

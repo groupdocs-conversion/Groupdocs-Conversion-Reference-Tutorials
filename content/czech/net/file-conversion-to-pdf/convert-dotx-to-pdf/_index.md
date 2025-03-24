@@ -3,7 +3,6 @@ title: Převést DOTX Word šablony do PDF
 linktitle: Převést DOTX Word šablony do PDF
 second_title: GroupDocs.Conversion .NET API
 description: Převeďte bez námahy šablony DOTX Word do PDF pomocí GroupDocs.Conversion for .NET. Zjednodušte si úkoly správy dokumentů.
-type: docs
 weight: 27
 url: /cs/net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---

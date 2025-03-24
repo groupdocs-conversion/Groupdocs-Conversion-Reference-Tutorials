@@ -3,7 +3,6 @@ title: Konvertálja a FODS OpenDocument táblázatokat PDF-be
 linktitle: Konvertálja a FODS OpenDocument táblázatokat PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálja a FODS OpenDocument táblázatokat PDF-fájlokká a GroupDocs.Conversion for .NET segítségével. Bővítse .NET-alkalmazásait a zökkenőmentes dokumentumkonverzióval.
-type: docs
 weight: 20
 url: /hu/net/convert-files-to-pdf/convert-fods-to-pdf/
 ---

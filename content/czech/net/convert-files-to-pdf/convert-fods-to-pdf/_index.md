@@ -3,7 +3,6 @@ title: Převeďte FODS OpenDocument Spreadsheets do PDF
 linktitle: Převeďte FODS OpenDocument Spreadsheets do PDF
 second_title: GroupDocs.Conversion .NET API
 description: Snadno převádějte FODS OpenDocument Spreadsheets do PDF pomocí GroupDocs.Conversion for .NET. Vylepšete své aplikace .NET bezproblémovým převodem dokumentů.
-type: docs
 weight: 20
 url: /cs/net/convert-files-to-pdf/convert-fods-to-pdf/
 ---

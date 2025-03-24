@@ -3,7 +3,6 @@ title: Převod obrázků J2K JPEG 2000 do PDF
 linktitle: Převod obrázků J2K JPEG 2000 do PDF
 second_title: GroupDocs.Conversion .NET API
 description: Naučte se, jak převést obrázky J2K (JPEG 2000) do PDF bez námahy pomocí GroupDocs.Conversion for .NET. Včetně návodu krok za krokem.
-type: docs
 weight: 28
 url: /cs/net/convert-files-to-pdf/convert-j2k-to-pdf/
 ---

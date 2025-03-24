@@ -3,7 +3,6 @@ title: Convert DIB Images to PDF
 linktitle: Convert DIB Images to PDF
 second_title: GroupDocs.Conversion .NET API
 description: Effortlessly convert DIB images to PDF format using GroupDocs.Conversion for .NET. Enhance your development workflow with seamless file conversion capabilities.
-type: docs
 weight: 18
 url: /net/file-conversion-to-pdf/convert-dib-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: MD konvertálása PDF-be
 linktitle: MD konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Könnyedén konvertálhat Markdown fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Egyszerűsítse a dokumentumok munkafolyamatát.
-type: docs
 weight: 19
 url: /hu/net/document-conversion/convert-md-to-pdf/
 ---

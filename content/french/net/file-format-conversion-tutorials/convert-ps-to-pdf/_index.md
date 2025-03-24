@@ -3,9 +3,8 @@ title: Convertir PS en PDF
 linktitle: Convertir PS en PDF
 second_title: API GroupDocs.Conversion .NET
 description: Convertissez sans effort des fichiers PS en PDF à l'aide de GroupDocs.Conversion pour .NET. Intégrez de manière transparente la fonctionnalité de conversion de fichiers dans vos applications .NET.
-type: docs
 weight: 11
-url: /fr/net/file-format-conversion-tutorials/convert-ps-to-pdf/
+url: /fr/net/file-format-conversion-convert-ps-to-pdf/
 ---
 ## Introduction
 Dans le monde numérique, la conversion de fichiers d'un format à un autre est une tâche courante, notamment lorsqu'il s'agit de documents. Que vous soyez un développeur travaillant sur une application ou un particulier ayant besoin de convertir des fichiers pour un usage personnel, il est essentiel de disposer d'un outil fiable pour gérer efficacement ces conversions. GroupDocs.Conversion pour .NET est l'un de ces outils qui fournit une solution transparente pour convertir divers formats de fichiers. Dans ce didacticiel, nous verrons comment convertir des fichiers PS (PostScript) en PDF (Portable Document Format) à l'aide de GroupDocs.Conversion pour .NET.

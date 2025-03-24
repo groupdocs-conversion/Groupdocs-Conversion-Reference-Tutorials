@@ -3,7 +3,6 @@ title: EPUB ई-बुक्स को पीडीएफ में बदले
 linktitle: EPUB ई-बुक्स को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके EPUB ई-पुस्तकों को आसानी से पीडीएफ प्रारूप में परिवर्तित करें। सभी प्लेटफार्मों पर अनुकूलता और पहुंच सुनिश्चित करें।
-type: docs
 weight: 18
 url: /hi/net/convert-files-to-pdf/convert-epub-to-pdf/
 ---

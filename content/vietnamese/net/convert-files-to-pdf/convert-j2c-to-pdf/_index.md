@@ -3,7 +3,6 @@ title: Chuyển đổi hình ảnh nén J2C JPEG-LS sang PDF
 linktitle: Chuyển đổi hình ảnh nén J2C JPEG-LS sang PDF
 second_title: API GroupDocs.Conversion .NET
 description: Tìm hiểu cách dễ dàng chuyển đổi hình ảnh J2C sang PDF bằng GroupDocs.Conversion for .NET, đơn giản hóa quy trình xử lý tài liệu của bạn.
-type: docs
 weight: 27
 url: /vi/net/convert-files-to-pdf/convert-j2c-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: Chuyển đổi biểu tượng ICO sang PDF
 linktitle: Chuyển đổi biểu tượng ICO sang PDF
 second_title: API GroupDocs.Conversion .NET
 description: Dễ dàng chuyển đổi biểu tượng ICO sang PDF bằng GroupDocs.Conversion for .NET. Tăng năng suất bằng các bước đơn giản được nêu trong hướng dẫn này.
-type: docs
 weight: 24
 url: /vi/net/convert-files-to-pdf/convert-ico-to-pdf/
 ---

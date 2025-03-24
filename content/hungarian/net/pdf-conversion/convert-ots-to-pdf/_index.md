@@ -3,7 +3,6 @@ title: OTS konvertálása PDF-be
 linktitle: OTS konvertálása PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Tanulja meg, hogyan konvertálhat OTS fájlokat könnyedén PDF formátumba a GroupDocs.Conversion for .NET segítségével. Lépésről lépésre bemutató oktatóanyag.
-type: docs
 weight: 15
 url: /hu/net/pdf-conversion/convert-ots-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: 将 GIF 图像转换为 PDF
 linktitle: 将 GIF 图像转换为 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 轻松将 GIF 图像转换为 PDF 文件。通过这种无缝解决方案提高生产力。
-type: docs
 weight: 21
 url: /zh/net/convert-files-to-pdf/convert-gif-to-pdf/
 ---

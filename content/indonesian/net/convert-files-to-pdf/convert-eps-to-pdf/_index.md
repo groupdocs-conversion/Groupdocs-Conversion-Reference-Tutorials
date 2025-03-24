@@ -3,7 +3,6 @@ title: Konversikan File PostScript Terenkapsulasi EPS ke PDF
 linktitle: Konversikan File PostScript Terenkapsulasi EPS ke PDF
 second_title: GroupDocs.Konversi .NET API
 description: Konversikan file EPS ke PDF dengan mudah menggunakan GroupDocs.Conversion untuk .NET. Tutorial ini memberikan panduan langkah demi langkah untuk konversi yang lancar.
-type: docs
 weight: 17
 url: /id/net/convert-files-to-pdf/convert-eps-to-pdf/
 ---

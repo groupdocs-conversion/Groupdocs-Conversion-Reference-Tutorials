@@ -3,7 +3,6 @@ title: पीपीएसएक्स को पीडीएफ में बद
 linktitle: पीपीएसएक्स को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से PPSX फ़ाइलों को PDF प्रारूप में परिवर्तित करें। इस शक्तिशाली .NET लाइब्रेरी के साथ अपने दस्तावेज़ वर्कफ़्लो को सुव्यवस्थित करें।
-type: docs
 weight: 26
 url: /hi/net/pdf-conversion/convert-ppsx-to-pdf/
 ---

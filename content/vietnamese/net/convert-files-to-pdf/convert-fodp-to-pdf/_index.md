@@ -3,7 +3,6 @@ title: Chuyển đổi bản trình bày tài liệu mở FODP sang PDF
 linktitle: Chuyển đổi bản trình bày tài liệu mở FODP sang PDF
 second_title: API GroupDocs.Conversion .NET
 description: Tìm hiểu cách chuyển đổi Bản trình bày OpenDocument FODP sang PDF dễ dàng bằng cách sử dụng GroupDocs.Conversion cho .NET. Tăng cường khả năng tương tác tài liệu.
-type: docs
 weight: 19
 url: /vi/net/convert-files-to-pdf/convert-fodp-to-pdf/
 ---

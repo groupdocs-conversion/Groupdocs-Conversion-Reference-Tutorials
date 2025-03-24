@@ -3,7 +3,6 @@ title: Konversi Dokumen
 linktitle: Konversi Dokumen
 second_title: GroupDocs.Konversi .NET API
 description: Konversikan berbagai format file ke PDF dengan mudah dengan tutorial GroupDocs.Conversion untuk .NET. Tingkatkan manajemen dokumen dengan lancar.
-type: docs
 weight: 23
 url: /id/net/document-conversion/
 ---

@@ -3,7 +3,6 @@ title: Конвертировать файлы данных CSV в PDF
 linktitle: Конвертировать файлы данных CSV в PDF
 second_title: GroupDocs.Conversion .NET API
 description: Узнайте, как легко конвертировать файлы данных CSV в PDF с помощью GroupDocs.Conversion для .NET. Следуйте нашему пошаговому руководству.
-type: docs
 weight: 16
 url: /ru/net/file-conversion-to-pdf/convert-csv-to-pdf/
 ---

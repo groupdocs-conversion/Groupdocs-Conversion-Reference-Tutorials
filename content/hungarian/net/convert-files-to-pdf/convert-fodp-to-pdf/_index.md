@@ -3,7 +3,6 @@ title: Konvertálja a FODP OpenDocument-bemutatókat PDF-be
 linktitle: Konvertálja a FODP OpenDocument-bemutatókat PDF-be
 second_title: GroupDocs.Conversion .NET API
 description: Ismerje meg, hogyan konvertálhat FODP OpenDocument-bemutatókat könnyedén PDF-be a GroupDocs.Conversion for .NET segítségével. Növelje a dokumentumok interoperabilitását.
-type: docs
 weight: 19
 url: /hu/net/convert-files-to-pdf/convert-fodp-to-pdf/
 ---

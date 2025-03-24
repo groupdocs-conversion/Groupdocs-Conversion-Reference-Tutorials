@@ -3,7 +3,6 @@ title: تحويل رسومات المتجهات CGM إلى PDF
 linktitle: تحويل رسومات المتجهات CGM إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: تعرف على كيفية تحويل رسومات CGM المتجهة إلى PDF بسهولة باستخدام GroupDocs.Conversion for .NET. اتبع البرنامج التعليمي خطوة بخطوة.
-type: docs
 weight: 14
 url: /ar/net/file-conversion-to-pdf/convert-cgm-to-pdf/
 ---

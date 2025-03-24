@@ -3,7 +3,6 @@ title: Mengonversi Jenis File ke PDF
 linktitle: Mengonversi Jenis File ke PDF
 second_title: GroupDocs.Konversi .NET API
 description: Konversikan berbagai jenis file ke PDF dengan mudah menggunakan GroupDocs.Conversion untuk .NET. Sederhanakan proses manajemen dokumen Anda. Belajarlah lagi!
-type: docs
 weight: 24
 url: /id/net/converting-file-types-to-pdf/
 ---

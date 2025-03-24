@@ -3,7 +3,6 @@ title: Konvertieren Sie PPSM in PDF
 linktitle: Konvertieren Sie PPSM in PDF
 second_title: GroupDocs.Conversion .NET-API
 description: Konvertieren Sie PPSM-Dateien mühelos in PDF mit GroupDocs.Conversion für .NET. Passen Sie die Konvertierungsoptionen individuell an und nutzen Sie das volle Potenzial Ihrer Dokumente.
-type: docs
 weight: 24
 url: /de/net/pdf-conversion/convert-ppsm-to-pdf/
 ---

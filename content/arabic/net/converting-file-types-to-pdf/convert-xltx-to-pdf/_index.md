@@ -3,7 +3,6 @@ title: تحويل XLTX إلى PDF
 linktitle: تحويل XLTX إلى PDF
 second_title: GroupDocs.Conversion .NET API
 description: تعرف على كيفية تحويل ملفات XLTX إلى PDF بسلاسة باستخدام GroupDocs.Conversion for .NET. تعزيز تعدد استخدامات تطبيقات .NET الخاصة بك.
-type: docs
 weight: 28
 url: /ar/net/converting-file-types-to-pdf/convert-xltx-to-pdf/
 ---

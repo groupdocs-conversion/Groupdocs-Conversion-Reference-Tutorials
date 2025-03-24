@@ -3,7 +3,6 @@ title: Convertir XML a PDF
 linktitle: Convertir XML a PDF
 second_title: API GroupDocs.Conversión .NET
 description: Aprenda a convertir archivos XML a PDF sin problemas utilizando GroupDocs.Conversion para .NET. Mejore la eficiencia de su gestión de documentos.
-type: docs
 weight: 29
 url: /es/net/converting-file-types-to-pdf/convert-xml-to-pdf/
 ---

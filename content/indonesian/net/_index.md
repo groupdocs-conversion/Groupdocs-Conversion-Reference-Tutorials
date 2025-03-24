@@ -1,7 +1,6 @@
 ---
 title: Tutorial Komprehensif GroupDocs.Conversion untuk .NET
 linktitle: GroupDocs.Conversion untuk Tutorial .NET
-type: docs
 weight: 10
 url: /id/net/
 description: Konversi file ke PDF dengan mudah menggunakan GroupDocs.Conversion untuk .NET. Sederhanakan manajemen dokumen dengan opsi yang dapat disesuaikan. #GroupDocs.Konversi

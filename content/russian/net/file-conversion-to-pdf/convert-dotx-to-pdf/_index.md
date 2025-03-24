@@ -3,7 +3,6 @@ title: Преобразование шаблонов слов DOTX в PDF
 linktitle: Преобразование шаблонов слов DOTX в PDF
 second_title: GroupDocs.Conversion .NET API
 description: Легко конвертируйте шаблоны DOTX Word в PDF с помощью GroupDocs.Conversion для .NET. Упростите задачи управления документами.
-type: docs
 weight: 27
 url: /ru/net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---

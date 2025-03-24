@@ -3,7 +3,6 @@ title: DWF CAD 파일을 PDF로 변환
 linktitle: DWF CAD 파일을 PDF로 변환
 second_title: GroupDocs.Conversion .NET API
 description: .NET용 GroupDocs.Conversion을 사용하여 DWF CAD 파일을 PDF로 손쉽게 변환하는 방법을 알아보세요. .NET 애플리케이션에 통합하려면 단계별 지침을 따르십시오.
-type: docs
 weight: 28
 url: /ko/net/file-conversion-to-pdf/convert-dwf-to-pdf/
 ---
@@ -16,7 +15,7 @@ DWF 파일을 PDF로 변환하기 전에 다음 사항이 있는지 확인하십
 ### .NET 라이브러리용 GroupDocs.Conversion
  다음에서 .NET용 GroupDocs.Conversion 라이브러리를 다운로드하고 설치합니다.[웹사이트](https://releases.groupdocs.com/conversion/net/). 설명서에 제공된 설치 지침을 따르십시오.
 ### GroupDocs.Conversion 문서에 대한 액세스
- .NET용 GroupDocs.Conversion에 대한 참조 및 자세한 내용은 다음을 참조하세요.[선적 서류 비치](https://reference.groupdocs.com/conversion/net/).
+ .NET용 GroupDocs.Conversion에 대한 참조 및 자세한 내용은 다음을 참조하세요.[선적 서류 비치](https://tutorials.groupdocs.com/conversion/net/).
 ### 임시 라이센스(선택 사항)
  영구면허증이 없을 경우 임시면허증을 발급받을 수 있습니다.[여기](https://purchase.groupdocs.com/temporary-license/).
 

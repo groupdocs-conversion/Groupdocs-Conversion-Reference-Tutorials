@@ -3,9 +3,8 @@ title: Konvertera PST till PDF
 linktitle: Konvertera PST till PDF
 second_title: GroupDocs.Conversion .NET API
 description: Konvertera enkelt PST-filer till PDF med GroupDocs.Conversion för .NET. Öka produktiviteten med sömlös dokumenthantering.
-type: docs
 weight: 12
-url: /sv/net/file-format-conversion-tutorials/convert-pst-to-pdf/
+url: /sv/net/file-format-conversion-convert-pst-to-pdf/
 ---
 ## Introduktion
 När det gäller dokumenthantering är möjligheten att sömlöst konvertera filer från ett format till ett annat avgörande. Oavsett om du har att göra med e-postmeddelanden, kalkylblad eller presentationer kan ett tillförlitligt verktyg för konvertering effektivisera arbetsflöden och förbättra produktiviteten. I den här handledningen kommer vi att fördjupa oss i hur man konverterar PST-filer (Personal Storage Table) till PDF-format med GroupDocs.Conversion for .NET.

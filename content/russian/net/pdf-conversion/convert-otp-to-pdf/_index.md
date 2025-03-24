@@ -3,7 +3,6 @@ title: Конвертировать OTP в PDF
 linktitle: Конвертировать OTP в PDF
 second_title: GroupDocs.Conversion .NET API
 description: Легко конвертируйте файлы OTP в PDF с помощью GroupDocs.Conversion для .NET. Оптимизируйте свой рабочий процесс с помощью этого интуитивно понятного инструмента преобразования файлов.
-type: docs
 weight: 14
 url: /ru/net/pdf-conversion/convert-otp-to-pdf/
 ---

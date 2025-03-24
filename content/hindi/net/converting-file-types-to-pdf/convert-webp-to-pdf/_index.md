@@ -3,7 +3,6 @@ title: वेबपी को पीडीएफ में बदलें
 linktitle: वेबपी को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से WebP फ़ाइलों को PDF प्रारूप में परिवर्तित करें। अपने दस्तावेज़ रूपांतरण कार्यों को सरल बनाएं।
-type: docs
 weight: 18
 url: /hi/net/converting-file-types-to-pdf/convert-webp-to-pdf/
 ---

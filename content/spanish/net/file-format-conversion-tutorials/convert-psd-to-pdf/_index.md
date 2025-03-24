@@ -3,9 +3,8 @@ title: Convertir PSD a PDF
 linktitle: Convertir PSD a PDF
 second_title: API GroupDocs.Conversión .NET
 description: Aprenda cómo convertir archivos PSD a PDF sin esfuerzo usando GroupDocs.Conversion para .NET. Sigue nuestra guía paso a paso.
-type: docs
 weight: 10
-url: /es/net/file-format-conversion-tutorials/convert-psd-to-pdf/
+url: /es/net/file-format-conversion-convert-psd-to-pdf/
 ---
 ## Introducción
 En este tutorial, lo guiaremos a través del proceso de conversión de archivos PSD (Documentos de Photoshop) a formato PDF utilizando la biblioteca GroupDocs.Conversion para .NET. Si sigue estas instrucciones paso a paso, podrá convertir fácilmente sus archivos PSD a PDF.

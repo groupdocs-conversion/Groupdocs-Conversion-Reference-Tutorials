@@ -3,9 +3,8 @@ title: 将 SXC 转换为PDF
 linktitle: 将 SXC 转换为PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 轻松将 SXC 文件转换为 PDF。自定义转换选项以无缝集成到您的 .NET 应用程序中。
-type: docs
 weight: 17
-url: /zh/net/file-format-conversion-tutorials/convert-sxc-to-pdf/
+url: /zh/net/file-format-conversion-convert-sxc-to-pdf/
 ---
 ## 介绍
 在软件开发领域，高效的文件转换通常是一个关键要求。开发人员寻求可靠的工具，可以将文件从一种格式无缝转换为另一种格式，而不影响质量或完整性。在 .NET 生态系统中，GroupDocs.Conversion 作为一个强大的解决方案出现，为开发人员提供了轻松转换各种文档格式的强大功能。

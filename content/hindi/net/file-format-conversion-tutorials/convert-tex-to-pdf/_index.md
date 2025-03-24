@@ -3,9 +3,8 @@ title: TEX को पीडीएफ में बदलें
 linktitle: TEX को पीडीएफ में बदलें
 second_title: GroupDocs.Conversion .NET API
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके TEX फ़ाइलों को PDF प्रारूप में परिवर्तित करना सीखें। निर्बाध दस्तावेज़ प्रारूप रूपांतरण के लिए आसान चरण।
-type: docs
 weight: 18
-url: /hi/net/file-format-conversion-tutorials/convert-tex-to-pdf/
+url: /hi/net/file-format-conversion-convert-tex-to-pdf/
 ---
 ## परिचय
 दस्तावेज़ प्रबंधन और हेरफेर के क्षेत्र में, फ़ाइलों को एक प्रारूप से दूसरे प्रारूप में परिवर्तित करना एक सामान्य आवश्यकता है। चाहे आप टेक्स्ट दस्तावेज़, स्प्रेडशीट, या प्रस्तुतियों के साथ काम कर रहे हों, प्रारूपों के बीच निर्बाध रूप से स्विच करने की क्षमता उत्पादकता में काफी वृद्धि कर सकती है और वर्कफ़्लो को सुव्यवस्थित कर सकती है।

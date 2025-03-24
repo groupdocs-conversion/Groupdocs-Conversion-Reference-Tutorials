@@ -3,7 +3,6 @@ title: Konvertera DWF CAD-filer till PDF
 linktitle: Konvertera DWF CAD-filer till PDF
 second_title: GroupDocs.Conversion .NET API
 description: Lär dig hur du enkelt konverterar DWF CAD-filer till PDF med GroupDocs.Conversion for .NET. Följ våra steg-för-steg för integration i dina .NET-applikationer.
-type: docs
 weight: 28
 url: /sv/net/file-conversion-to-pdf/convert-dwf-to-pdf/
 ---
@@ -16,7 +15,7 @@ Se till att du har Visual Studio installerat på ditt system. Du kan ladda ner d
 ### GroupDocs.Conversion för .NET Library
  Ladda ner och installera GroupDocs.Conversion for .NET-biblioteket från[hemsida](https://releases.groupdocs.com/conversion/net/). Följ installationsinstruktionerna i dokumentationen.
 ### Tillgång till GroupDocs.Conversion Documentation
- För referens och detaljerad information om GroupDocs.Conversion for .NET, se[dokumentation](https://reference.groupdocs.com/conversion/net/).
+ För referens och detaljerad information om GroupDocs.Conversion for .NET, se[dokumentation](https://tutorials.groupdocs.com/conversion/net/).
 ### Tillfällig licens (valfritt)
  Om du inte har en permanent licens kan du få en tillfällig licens från[här](https://purchase.groupdocs.com/temporary-license/).
 

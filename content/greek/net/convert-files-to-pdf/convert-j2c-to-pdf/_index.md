@@ -3,7 +3,6 @@ title: Μετατρέψτε συμπιεσμένες εικόνες J2C JPEG-LS 
 linktitle: Μετατρέψτε συμπιεσμένες εικόνες J2C JPEG-LS σε PDF
 second_title: GroupDocs.Conversion .NET API
 description: Μάθετε πώς να μετατρέπετε εύκολα εικόνες J2C σε PDF χρησιμοποιώντας το GroupDocs.Conversion για .NET, απλοποιώντας τη διαδικασία χειρισμού των εγγράφων σας.
-type: docs
 weight: 27
 url: /el/net/convert-files-to-pdf/convert-j2c-to-pdf/
 ---

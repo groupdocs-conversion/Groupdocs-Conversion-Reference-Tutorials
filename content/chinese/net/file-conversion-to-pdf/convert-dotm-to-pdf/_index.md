@@ -3,7 +3,6 @@ title: 将 DOTM Word 模板（宏）转换为 PDF
 linktitle: 将 DOTM Word 模板（宏）转换为 PDF
 second_title: GroupDocs.Conversion .NET API
 description: 使用 GroupDocs.Conversion for .NET 将包含宏的 DOTM Word 模板轻松转换为 PDF。通过简单的步骤确保兼容性和安全性。
-type: docs
 weight: 25
 url: /zh/net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---

@@ -3,7 +3,6 @@ title: Μετατρέψτε τις ιατρικές εικόνες DICOM σε PD
 linktitle: Μετατρέψτε τις ιατρικές εικόνες DICOM σε PDF
 second_title: GroupDocs.Conversion .NET API
 description: Μετατρέψτε εύκολα τις ιατρικές εικόνες DICOM σε μορφή PDF χρησιμοποιώντας το GroupDocs.Conversion για .NET. Ευέλικτη, αποτελεσματική και προσαρμόσιμη λύση μετατροπής.
-type: docs
 weight: 19
 url: /el/net/file-conversion-to-pdf/convert-dicom-to-pdf/
 ---

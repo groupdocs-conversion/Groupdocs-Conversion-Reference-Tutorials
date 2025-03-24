@@ -3,7 +3,6 @@ title: Converteer FODP OpenDocument-presentaties naar PDF
 linktitle: Converteer FODP OpenDocument-presentaties naar PDF
 second_title: GroupDocs.Conversion .NET API
 description: Leer hoe u FODP OpenDocument-presentaties moeiteloos naar PDF kunt converteren met GroupDocs.Conversion voor .NET. Verbeter de interoperabiliteit van documenten.
-type: docs
 weight: 19
 url: /nl/net/convert-files-to-pdf/convert-fodp-to-pdf/
 ---
