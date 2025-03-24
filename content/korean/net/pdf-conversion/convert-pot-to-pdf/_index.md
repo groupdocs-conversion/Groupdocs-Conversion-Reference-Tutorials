@@ -6,6 +6,9 @@ description: Groupdocs.Conversion for .NET을 사용하여 POT 파일을 PDF로 
 weight: 22
 url: /ko/net/pdf-conversion/convert-pot-to-pdf/
 ---
+
+# POT를 PDF로 변환
+
 ## 소개
 Groupdocs.Conversion for .NET은 .NET 응용 프로그램에서 문서 변환 작업을 용이하게 하는 강력한 라이브러리입니다. 사용하기 쉬운 API를 통해 개발자는 다양한 형식 간에 문서를 원활하게 변환할 수 있습니다. 이 자습서에서는 Groupdocs.Conversion for .NET을 사용하여 POT 파일을 PDF 형식으로 변환하는 방법에 중점을 둡니다.
 ## 전제 조건

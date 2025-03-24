@@ -6,6 +6,9 @@ description: Pelajari cara mengonversi file ODG ke PDF dengan mudah menggunakan 
 weight: 27
 url: /id/net/document-conversion/convert-odg-to-pdf/
 ---
+
+# Konversi ODG ke PDF
+
 ## Perkenalan
 Dalam dunia manajemen dan konversi dokumen, GroupDocs.Conversion for .NET menonjol sebagai alat yang ampuh bagi pengembang yang ingin menyederhanakan proses mereka. Dengan API intuitif dan fitur tangguh, GroupDocs.Conversion menawarkan kemampuan konversi yang lancar untuk berbagai format file, termasuk ODG ke PDF. Dalam tutorial ini, kami akan memandu Anda melalui proses mengonversi file ODG ke PDF menggunakan GroupDocs.Conversion untuk .NET, menguraikan setiap langkah untuk memastikan kejelasan dan pemahaman.
 ## Prasyarat

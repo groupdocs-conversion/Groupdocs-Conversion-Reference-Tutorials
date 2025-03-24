@@ -6,6 +6,9 @@ description: Bez wysiłku konwertuj pliki PST do formatu PDF za pomocą GroupDoc
 weight: 12
 url: /pl/net/file-format-conversion-convert-pst-to-pdf/
 ---
+
+# Konwertuj plik PST na format PDF
+
 ## Wstęp
 W dziedzinie zarządzania dokumentami najważniejsza jest możliwość płynnej konwersji plików z jednego formatu na inny. Niezależnie od tego, czy masz do czynienia z e-mailami, arkuszami kalkulacyjnymi czy prezentacjami, posiadanie niezawodnego narzędzia do konwersji może usprawnić przepływ pracy i zwiększyć produktywność. W tym samouczku omówimy, jak konwertować pliki PST (Personal Storage Table) do formatu PDF za pomocą programu GroupDocs.Conversion dla .NET.
 ## Warunki wstępne

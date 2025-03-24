@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET'i kullanarak EMLX Apple Mail E-posta 
 weight: 15
 url: /tr/net/convert-files-to-pdf/convert-emlx-to-pdf/
 ---
+
+# EMLX Apple Mail E-posta Mesajlarını PDF'ye Dönüştürün
+
 ## giriiş
 Bu eğitimde, GroupDocs.Conversion for .NET'i kullanarak EMLX Apple Mail E-posta Mesajlarını PDF formatına nasıl dönüştüreceğimizi öğreneceğiz.
 ## Önkoşullar

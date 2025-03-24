@@ -6,6 +6,9 @@ description: 了解如何使用 GroupDocs.Conversion for .NET 将 DNG 图像轻�
 weight: 21
 url: /zh/net/file-conversion-to-pdf/convert-dng-to-pdf/
 ---
+
+# 将 DNG 图像转换为 PDF
+
 ## 介绍
 在本教程中，我们将指导您完成使用 GroupDocs.Conversion for .NET 将 DNG 图像转换为 PDF 的过程。 DNG（数字负片）是一种用于数码摄影的文件格式。通过将 DNG 图像转换为 PDF，您可以轻松地以更普遍接受的格式共享或存储它们。
 ## 先决条件

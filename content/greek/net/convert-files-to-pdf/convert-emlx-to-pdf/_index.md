@@ -6,6 +6,9 @@ description: Μάθετε πώς να μετατρέπετε εύκολα τα �
 weight: 15
 url: /el/net/convert-files-to-pdf/convert-emlx-to-pdf/
 ---
+
+# Μετατρέψτε τα μηνύματα ηλεκτρονικού ταχυδρομείου EMLX Apple Mail σε PDF
+
 ## Εισαγωγή
 Σε αυτό το σεμινάριο, θα μάθουμε πώς να μετατρέπουμε τα μηνύματα ηλεκτρονικού ταχυδρομείου EMLX Apple Mail σε μορφή PDF χρησιμοποιώντας το GroupDocs.Conversion για .NET.
 ## Προαπαιτούμενα

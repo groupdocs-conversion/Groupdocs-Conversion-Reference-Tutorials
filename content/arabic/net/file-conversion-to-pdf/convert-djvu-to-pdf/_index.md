@@ -6,6 +6,9 @@ description: تعرف على كيفية تحويل مستندات DJVU إلى PD
 weight: 20
 url: /ar/net/file-conversion-to-pdf/convert-djvu-to-pdf/
 ---
+
+# تحويل مستندات DJVU إلى PDF
+
 ## مقدمة
 في هذا البرنامج التعليمي، سنرشدك خلال عملية تحويل مستندات DJVU إلى PDF باستخدام GroupDocs.Conversion for .NET. قبل أن نبدأ، تأكد من تثبيت المتطلبات الأساسية الضرورية وإعدادها.
 ## المتطلبات الأساسية

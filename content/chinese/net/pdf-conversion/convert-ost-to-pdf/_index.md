@@ -6,6 +6,9 @@ description: 使用 GroupDocs.Conversion for .NET 轻松将 OST 文件转换为 
 weight: 12
 url: /zh/net/pdf-conversion/convert-ost-to-pdf/
 ---
+
+# 将 OST 转换为 PDF
+
 ## 介绍
 在软件开发领域，将文件从一种格式转换为另一种格式的需求是一种常见的需求。无论是出于兼容性原因、存档目的还是仅仅为了使内容更易于访问，文件转换在各种应用程序中都起着至关重要的作用。 GroupDocs.Conversion for .NET 为寻求将文件转换功能无缝集成到其 .NET 应用程序中的开发人员提供了强大的解决方案。在本教程中，我们将深入研究如何使用 GroupDocs.Conversion for .NET 将 OST（Outlook 脱机存储表）文件转换为 PDF（便携式文档格式）。
 ## 先决条件

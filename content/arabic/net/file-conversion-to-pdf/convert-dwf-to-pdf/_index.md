@@ -6,6 +6,9 @@ description: تعرف على كيفية تحويل ملفات DWF CAD إلى PDF
 weight: 28
 url: /ar/net/file-conversion-to-pdf/convert-dwf-to-pdf/
 ---
+
+# تحويل ملفات DWF CAD إلى PDF
+
 ## مقدمة
 في هذا البرنامج التعليمي، سنتعرف على عملية تحويل ملفات DWF CAD إلى تنسيق PDF باستخدام GroupDocs.Conversion for .NET. تعد GroupDocs.Conversion for .NET مكتبة قوية لتحويل المستندات تتيح للمطورين تحويل تنسيقات المستندات المختلفة من وإلى PDF بسهولة. قبل أن نبدأ، تأكد من تثبيت المتطلبات الأساسية اللازمة.
 ## المتطلبات الأساسية

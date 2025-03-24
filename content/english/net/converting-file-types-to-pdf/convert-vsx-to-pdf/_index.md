@@ -6,6 +6,9 @@ description: Learn how to convert VSX files to PDF format effortlessly using Gro
 weight: 16
 url: /net/converting-file-types-to-pdf/convert-vsx-to-pdf/
 ---
+
+# Convert VSX to PDF
+
 ## Introduction
 In the world of software development, the need to convert files from one format to another is a common requirement. Whether it's converting documents, images, or presentations, having a reliable tool to handle these conversions efficiently is essential. GroupDocs.Conversion for .NET is one such tool that provides developers with a robust solution for converting various file formats seamlessly.
 ## Prerequisites

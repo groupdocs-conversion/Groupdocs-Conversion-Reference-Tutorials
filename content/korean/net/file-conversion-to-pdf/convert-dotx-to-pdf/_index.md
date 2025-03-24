@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET을 사용하여 DOTX Word 템플릿�
 weight: 27
 url: /ko/net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---
+
+# DOTX Word 템플릿을 PDF로 변환
+
 ## 소개
 Microsoft Word 문서는 DOTX 형식의 템플릿 생성을 포함하여 다양한 목적으로 널리 사용됩니다. 그러나 보다 쉬운 공유, 인쇄 또는 보관 목적을 위해 이러한 DOTX 템플릿을 PDF로 변환해야 하는 경우가 있을 수 있습니다. 이 튜토리얼에서는 GroupDocs.Conversion for .NET을 사용하여 DOTX Word 템플릿을 PDF로 변환하는 과정을 안내합니다.
 ## 전제 조건

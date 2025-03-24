@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET'i kullanarak PCL dosyalarını zahmet
 weight: 18
 url: /tr/net/pdf-conversion/convert-pcl-to-pdf/
 ---
+
+# PCL'yi PDF'ye dönüştür
+
 ## giriiş
 Bu eğitimde, PCL (Yazıcı Komut Dili) dosyalarını GroupDocs.Conversion for .NET kullanarak PDF'ye dönüştürme sürecinde size rehberlik edeceğiz. Bu dönüşümü sorunsuz bir şekilde gerçekleştirmek için aşağıdaki adımları izleyin.
 ## Önkoşullar

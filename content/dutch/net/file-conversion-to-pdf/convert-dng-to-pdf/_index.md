@@ -6,6 +6,9 @@ description: Leer hoe u DNG-afbeeldingen moeiteloos naar PDF kunt converteren me
 weight: 21
 url: /nl/net/file-conversion-to-pdf/convert-dng-to-pdf/
 ---
+
+# Converteer DNG-afbeeldingen naar PDF
+
 ## Invoering
 In deze zelfstudie begeleiden we u bij het proces van het converteren van DNG-afbeeldingen naar PDF met behulp van GroupDocs.Conversion voor .NET. DNG (Digital Negative) is een bestandsformaat dat wordt gebruikt voor digitale fotografie. Door DNG-afbeeldingen naar PDF te converteren, kunt u ze eenvoudig delen of opslaan in een meer universeel geaccepteerd formaat.
 ## Vereisten

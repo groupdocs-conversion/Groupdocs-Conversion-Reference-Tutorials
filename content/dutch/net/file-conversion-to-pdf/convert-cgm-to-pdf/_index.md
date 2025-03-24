@@ -6,6 +6,9 @@ description: Leer hoe u CGM-vectorafbeeldingen moeiteloos naar PDF kunt converte
 weight: 14
 url: /nl/net/file-conversion-to-pdf/convert-cgm-to-pdf/
 ---
+
+# Converteer CGM-vectorafbeeldingen naar PDF
+
 ## Invoering
 In deze zelfstudie leiden we u door het proces van het converteren van CGM-vectorafbeeldingen (Computer Graphics Metafile) naar PDF-indeling met behulp van GroupDocs.Conversion voor .NET. CGM is een bestandsindeling die wordt gebruikt voor vectorafbeeldingen en die vaak wordt gebruikt in technische tekeningen, illustraties en andere grafische toepassingen.
 ## Vereisten

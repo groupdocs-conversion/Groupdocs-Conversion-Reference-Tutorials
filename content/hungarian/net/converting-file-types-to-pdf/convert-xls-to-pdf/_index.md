@@ -6,6 +6,9 @@ description: Könnyedén konvertálhat XLS fájlokat PDF formátumba a GroupDocs
 weight: 24
 url: /hu/net/converting-file-types-to-pdf/convert-xls-to-pdf/
 ---
+
+# Konvertálja az XLS-t PDF-be
+
 ## Bevezetés
 GroupDocs.Conversion for .NET egy hatékony API, amellyel a fejlesztők könnyedén konvertálhatnak dokumentumokat különböző formátumok között .NET-alkalmazásaikon belül. Ebben az oktatóanyagban az XLS (Microsoft Excel táblázatkezelő) fájlok PDF-formátumba (Portable Document Format) való konvertálására összpontosítunk, amely sok üzleti alkalmazásban általános követelmény.
 ## Előfeltételek

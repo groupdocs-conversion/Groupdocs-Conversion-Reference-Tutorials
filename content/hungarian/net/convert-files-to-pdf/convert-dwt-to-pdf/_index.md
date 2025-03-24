@@ -6,6 +6,9 @@ description: Tanulja meg, hogyan konvertálhat DWT CAD-sablonfájlokat könnyed�
 weight: 11
 url: /hu/net/convert-files-to-pdf/convert-dwt-to-pdf/
 ---
+
+# A DWT CAD-sablonfájlok konvertálása PDF-be
+
 ## Bevezetés
 Ebben az oktatóanyagban megtudjuk, hogyan kell használni a GroupDocs.Conversion for .NET alkalmazást a DWT CAD-sablonfájlok PDF formátumba konvertálásához. A GroupDocs.Conversion for .NET egy hatékony dokumentumkonverziós könyvtár, amely lehetővé teszi a különféle fájlformátumok zökkenőmentes konvertálását.
 ## Előfeltételek

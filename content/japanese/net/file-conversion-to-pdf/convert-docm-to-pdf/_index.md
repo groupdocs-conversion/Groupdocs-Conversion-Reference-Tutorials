@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET を使用して、マクロを含む 
 weight: 22
 url: /ja/net/file-conversion-to-pdf/convert-docm-to-pdf/
 ---
+
+# DOCM Word ドキュメント (マクロ) を PDF に変換
+
 ## 導入
 ドキュメントの管理と操作の分野では、ファイルをある形式から別の形式に変換することが必要になることがよくあります。マクロを含む Word 文書 (DOCM ファイル) を扱う場合でも、より広範なアクセシビリティのために文書を PDF に変換する必要がある場合でも、適切なツールを自由に使えることが重要です。このチュートリアルでは、.NET 用の強力な GroupDocs.Conversion ライブラリを使用して、マクロを含む DOCM Word ドキュメントを PDF に効率的に変換する方法について詳しく説明します。
 ## 前提条件

@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET'i kullanarak PPS dosyalarını zahmet
 weight: 25
 url: /tr/net/pdf-conversion/convert-pps-to-pdf/
 ---
+
+# PPS'yi PDF'ye dönüştür
+
 ## giriiş
 Günümüzün dijital dünyasında dosyaları işleme ve dönüştürme yeteneği çok önemlidir. GroupDocs.Conversion for .NET, geliştiricilerin çeşitli belge formatlarını kolaylıkla ve sorunsuz bir şekilde dönüştürmesine olanak tanıyan güçlü bir araçtır. Bu eğitimde, GroupDocs.Conversion for .NET'i kullanarak PPS (PowerPoint Slayt Gösterisi) dosyalarını PDF formatına dönüştürmeye odaklanacağız. İster deneyimli bir geliştirici olun ister yeni başlıyor olun, bu adım adım kılavuz PPS'yi PDF'ye zahmetsizce dönüştürme sürecinde size yol gösterecektir.
 ## Önkoşullar

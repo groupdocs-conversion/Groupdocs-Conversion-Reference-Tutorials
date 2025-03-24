@@ -6,6 +6,9 @@ description: Chuyển đổi hình ảnh BMP sang PDF một cách liền mạch 
 weight: 11
 url: /vi/net/file-conversion-to-pdf/convert-bmp-to-pdf/
 ---
+
+# Chuyển đổi hình ảnh BMP sang PDF
+
 ## Giới thiệu
 GroupDocs.Conversion for .NET cung cấp giải pháp mạnh mẽ để chuyển đổi hình ảnh BMP sang định dạng PDF một cách liền mạch. Hướng dẫn này sẽ hướng dẫn bạn từng bước thực hiện quy trình.
 ### Điều kiện tiên quyết

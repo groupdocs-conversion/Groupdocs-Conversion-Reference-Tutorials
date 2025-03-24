@@ -6,6 +6,9 @@ description: Converteer DOTX Word-sjablonen moeiteloos naar PDF met GroupDocs.Co
 weight: 27
 url: /nl/net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---
+
+# Converteer DOTX Word-sjablonen naar PDF
+
 ## Invoering
 Microsoft Word-documenten worden veel gebruikt voor verschillende doeleinden, waaronder het maken van sjablonen in DOTX-formaat. Er kunnen echter gevallen zijn waarin u deze DOTX-sjablonen naar PDF moet converteren voor eenvoudiger delen, afdrukken of archiveren. In deze zelfstudie begeleiden we u bij het converteren van DOTX Word-sjablonen naar PDF met behulp van GroupDocs.Conversion voor .NET.
 ## Vereisten

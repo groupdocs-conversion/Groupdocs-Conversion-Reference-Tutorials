@@ -6,6 +6,9 @@ description: Tanulja meg, hogyan konvertálhat könnyedén AI-fájlokat PDF-be a
 weight: 10
 url: /hu/net/file-conversion-to-pdf/convert-ai-to-pdf/
 ---
+
+# Konvertálja az AI-fájlokat PDF-be
+
 ## Bevezetés
 Ebben az oktatóanyagban megvizsgáljuk, hogyan lehet kihasználni a GroupDocs.Conversion for .NET erejét az AI-fájlok PDF-formátumba konvertálásához. A folyamatot egyszerű, végrehajtható lépésekre bontjuk, így még a kezdők is könnyedén követhetik.
 ## Előfeltételek

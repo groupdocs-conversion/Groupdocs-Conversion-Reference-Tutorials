@@ -6,6 +6,9 @@ description: Dễ dàng chuyển đổi tệp POTM sang định dạng PDF bằn
 weight: 21
 url: /vi/net/pdf-conversion/convert-potm-to-pdf/
 ---
+
+# Chuyển đổi POTM sang PDF
+
 ## Giới thiệu
 
 Trong thời đại kỹ thuật số ngày nay, khả năng chuyển đổi tệp từ định dạng này sang định dạng khác là một khía cạnh quan trọng của việc quản lý tài liệu. Cho dù bạn đang xử lý bảng tính, bản trình bày hay tài liệu văn bản, khả năng chuyển đổi linh hoạt giữa các định dạng là vô giá. Trong hướng dẫn này, chúng ta sẽ đi sâu vào quá trình chuyển đổi tệp POTM sang PDF bằng GroupDocs.Conversion cho .NET.

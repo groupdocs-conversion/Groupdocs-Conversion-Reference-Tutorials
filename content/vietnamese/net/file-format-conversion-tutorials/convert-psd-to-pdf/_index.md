@@ -6,6 +6,9 @@ description: Tìm hiểu cách chuyển đổi tệp PSD sang PDF dễ dàng b�
 weight: 10
 url: /vi/net/file-format-conversion-convert-psd-to-pdf/
 ---
+
+# Chuyển đổi PSD sang PDF
+
 ## Giới thiệu
 Trong hướng dẫn này, chúng tôi sẽ hướng dẫn bạn quy trình chuyển đổi tệp PSD (Tài liệu Photoshop) sang định dạng PDF bằng thư viện GroupDocs.Conversion cho .NET. Bằng cách làm theo các hướng dẫn từng bước này, bạn sẽ có thể chuyển đổi liền mạch các tệp PSD của mình sang PDF một cách dễ dàng.
 ## Điều kiện tiên quyết

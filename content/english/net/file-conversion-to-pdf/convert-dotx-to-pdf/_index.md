@@ -6,6 +6,9 @@ description: Effortlessly convert DOTX Word templates to PDF using GroupDocs.Con
 weight: 27
 url: /net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---
+
+# Convert DOTX Word Templates to PDF
+
 ## Introduction
 Microsoft Word documents are widely used for various purposes, including creating templates in DOTX format. However, there might be instances where you need to convert these DOTX templates to PDF for easier sharing, printing, or archival purposes. In this tutorial, we'll guide you through the process of converting DOTX Word templates to PDF using GroupDocs.Conversion for .NET.
 ## Prerequisites

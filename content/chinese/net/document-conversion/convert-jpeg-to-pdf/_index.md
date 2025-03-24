@@ -6,6 +6,9 @@ description: 使用 GroupDocs.Conversion for .NET 将 JPEG 无缝转换为 PDF�
 weight: 12
 url: /zh/net/document-conversion/convert-jpeg-to-pdf/
 ---
+
+# 将 JPEG 转换为 PDF
+
 ## 介绍
 在软件开发领域，将文件从一种格式转换为另一种格式是一项常见任务。无论是将图像转换为 PDF、将文档转换为图像，还是任何其他文件格式转换，拥有一个可靠的工具来高效完成此任务至关重要。其中一个工具是 GroupDocs.Conversion for .NET，这是一个功能强大的库，为开发人员提供了无缝转换各种文件格式的功能。
 ## 先决条件

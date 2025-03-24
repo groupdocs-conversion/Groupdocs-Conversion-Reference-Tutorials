@@ -6,6 +6,9 @@ description: Pelajari cara mengonversi file CF2 ke PDF di .NET menggunakan Group
 weight: 13
 url: /id/net/file-conversion-to-pdf/convert-cf2-to-pdf/
 ---
+
+# Konversi CF2 ke PDF
+
 ## Perkenalan
 Dalam bidang pengembangan .NET, manipulasi dan konversi dokumen yang efisien memainkan peran penting dalam meningkatkan produktivitas. Salah satu alat serbaguna untuk pengembang .NET adalah GroupDocs.Conversion, perpustakaan canggih yang menyederhanakan proses konversi di berbagai format file. Dalam tutorial ini, kita akan mempelajari proses mengonversi file CF2 ke format PDF menggunakan GroupDocs.Conversion untuk .NET.
 ## Prasyarat

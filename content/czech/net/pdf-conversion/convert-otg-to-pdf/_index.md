@@ -6,6 +6,9 @@ description: Naučte se převádět soubory OTG do PDF pomocí GroupDocs.Convers
 weight: 13
 url: /cs/net/pdf-conversion/convert-otg-to-pdf/
 ---
+
+# Převést OTG do PDF
+
 ## Úvod
 Převod souborů OTG (OpenDocument Graphics) do formátu PDF může být zásadním úkolem, zejména při práci se systémy správy dokumentů nebo sdílení souborů na různých platformách. V tomto tutoriálu vás provedeme procesem převodu souborů OTG do PDF pomocí knihovny GroupDocs.Conversion pro .NET. Pojďme se ponořit!
 ## Předpoklady

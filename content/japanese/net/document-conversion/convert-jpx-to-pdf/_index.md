@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET を使用して JPX ファイルを P
 weight: 16
 url: /ja/net/document-conversion/convert-jpx-to-pdf/
 ---
+
+# JPXをPDFに変換
+
 ## 導入
 ドキュメントの操作と変換の分野では、GroupDocs は開発者が変換機能を .NET アプリケーションにシームレスに統合するための強力なツールセットを提供します。そのようなタスクの 1 つは、.NET 用の GroupDocs.Conversion ライブラリを使用して JPX ファイルを PDF 形式に変換することです。このチュートリアルでは、明確さと理解を確実にするために各ステップに分けてプロセスをガイドします。
 ## 前提条件

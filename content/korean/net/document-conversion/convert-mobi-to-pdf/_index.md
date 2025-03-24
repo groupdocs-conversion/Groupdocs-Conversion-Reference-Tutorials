@@ -6,6 +6,9 @@ description: .NET용 GroupDocs.Conversion을 사용하여 MOBI 파일을 PDF로 
 weight: 22
 url: /ko/net/document-conversion/convert-mobi-to-pdf/
 ---
+
+# MOBI를 PDF로 변환
+
 ## 소개
 문서 관리 및 변환 분야에서 .NET용 GroupDocs.Conversion은 다양한 파일 형식을 원활하게 변환하려는 개발자를 위한 강력한 도구로 돋보입니다. 개발자가 자주 직면하는 일반적인 변환 작업 중 하나는 MOBI 파일을 PDF 형식으로 변환하는 것입니다. 이 튜토리얼에서는 .NET용 GroupDocs.Conversion을 사용하여 MOBI 파일을 PDF로 변환하는 과정을 안내하고 명확성과 이해를 돕기 위해 각 단계를 세분화합니다.
 ## 전제 조건

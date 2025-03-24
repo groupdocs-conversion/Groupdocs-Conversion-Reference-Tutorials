@@ -6,6 +6,9 @@ description: Tìm hiểu cách chuyển đổi bản trình bày PowerPoint (PPT
 weight: 29
 url: /vi/net/pdf-conversion/convert-pptx-to-pdf/
 ---
+
+# Chuyển đổi PPTX sang PDF
+
 ## Giới thiệu
 Trong hướng dẫn này, chúng ta sẽ tìm hiểu quy trình chuyển đổi tệp bản trình bày PowerPoint (PPTX) sang Định dạng Tài liệu Di động (PDF) bằng cách sử dụng thư viện GroupDocs.Conversion cho .NET. Thực hiện theo các bước dưới đây để đạt được chuyển đổi này.
 ## Điều kiện tiên quyết

@@ -6,6 +6,9 @@ description: Ismerje meg, hogyan konvertálhat POTX fájlokat PDF formátumba a 
 weight: 23
 url: /hu/net/pdf-conversion/convert-potx-to-pdf/
 ---
+
+# A POTX konvertálása PDF-be
+
 ## Bevezetés
 dokumentumkezelés és -konverzió területén a GroupDocs.Conversion for .NET hatékony eszközként jelenik meg, amely zökkenőmentes konvertálási lehetőségeket kínál számos fájlformátumhoz. Ebben az oktatóanyagban a POTX (PowerPoint Template) fájlok PDF formátumba konvertálásának folyamatát mutatjuk be a .NET GroupDocs.Conversion könyvtárával.
 ## Előfeltételek

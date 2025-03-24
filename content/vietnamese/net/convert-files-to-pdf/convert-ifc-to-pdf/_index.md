@@ -6,6 +6,9 @@ description: Tìm hiểu cách chuyển đổi dễ dàng các tệp Mô hình t
 weight: 25
 url: /vi/net/convert-files-to-pdf/convert-ifc-to-pdf/
 ---
+
+# Chuyển đổi tệp mô hình hóa thông tin tòa nhà IFC sang PDF
+
 ## Giới thiệu
 Trong thời đại kỹ thuật số ngày nay, khả năng chuyển đổi tập tin từ định dạng này sang định dạng khác một cách liền mạch là điều tối quan trọng. Cho dù bạn đang xử lý tài liệu, hình ảnh hay các tệp chuyên dụng như tệp Mô hình thông tin tòa nhà (BIM) của IFC, việc có các công cụ phù hợp có thể tạo ra sự khác biệt. Trong hướng dẫn này, chúng ta sẽ đi sâu vào quy trình chuyển đổi tệp IFC sang định dạng PDF bằng GroupDocs.Conversion cho .NET. 
 ## Điều kiện tiên quyết

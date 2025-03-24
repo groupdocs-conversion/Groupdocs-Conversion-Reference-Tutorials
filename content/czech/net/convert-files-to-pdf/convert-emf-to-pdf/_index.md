@@ -6,6 +6,9 @@ description: Převeďte EMF Windows Metafiles do PDF bez námahy pomocí GroupDo
 weight: 13
 url: /cs/net/convert-files-to-pdf/convert-emf-to-pdf/
 ---
+
+# Převést EMF Windows Metafiles do PDF
+
 ## Úvod
 tomto tutoriálu projdeme procesem převodu EMF (Enhanced Metafile) Windows Metafile do formátu PDF pomocí GroupDocs.Conversion for .NET.
 ## Předpoklady

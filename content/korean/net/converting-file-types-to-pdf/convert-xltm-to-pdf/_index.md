@@ -6,6 +6,9 @@ description: .NET용 GroupDocs.Conversion을 사용하여 XLTM 파일을 PDF로 
 weight: 26
 url: /ko/net/converting-file-types-to-pdf/convert-xltm-to-pdf/
 ---
+
+# XLTM을 PDF로 변환
+
 ## 소개
 .NET용 GroupDocs.Conversion은 개발자가 다양한 문서 형식을 PDF 및 기타 지원되는 형식으로 원활하게 변환할 수 있게 해주는 강력한 API입니다. 이 튜토리얼에서는 GroupDocs.Conversion API를 사용하여 XLTM(Excel 템플릿) 파일을 PDF로 변환하는 방법에 중점을 둘 것입니다. 단 몇 줄의 코드만으로 XLTM 파일을 PDF로 효율적으로 변환하여 문서를 쉽게 공유하고 볼 수 있습니다.
 ## 전제 조건

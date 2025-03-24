@@ -6,6 +6,9 @@ description: 使用 GroupDocs.Conversion for .NET 輕鬆將 POTM 檔案轉換為
 weight: 21
 url: /zh-hant/net/pdf-conversion/convert-potm-to-pdf/
 ---
+
+# 將 POTM 轉換為PDF
+
 ## 介紹
 
 在當今的數位時代，將文件從一種格式轉換為另一種格式的能力是文件管理的一個重要方面。無論您正在處理電子表格、簡報還是文字文檔，在格式之間進行切換的靈活性都是非常寶貴的。在本教學中，我們將深入研究使用 GroupDocs.Conversion for .NET 將 POTM 檔案轉換為 PDF 的過程。

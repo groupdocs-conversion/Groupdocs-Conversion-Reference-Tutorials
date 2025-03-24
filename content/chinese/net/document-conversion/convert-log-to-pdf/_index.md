@@ -6,6 +6,9 @@ description: 使用 GroupDocs.Conversion for .NET 在 .NET 应用程序中轻松
 weight: 17
 url: /zh/net/document-conversion/convert-log-to-pdf/
 ---
+
+# 将 LOG 转换为 PDF
+
 ## 介绍
 在当今的数字世界中，对高效文档转换工具的需求已变得至关重要。无论是出于归档目的、跨不同平台共享文档，还是只是确保兼容性，将文件从一种格式转换为另一种格式都是一项常见任务。当涉及到在 .NET 应用程序中将 LOG 文件转换为 PDF 格式时，GroupDocs.Conversion for .NET 成为一个强大的解决方案。
 ## 先决条件

@@ -6,6 +6,9 @@ description: Tìm hiểu cách chuyển đổi liền mạch các tệp XLTX san
 weight: 28
 url: /vi/net/converting-file-types-to-pdf/convert-xltx-to-pdf/
 ---
+
+# Chuyển đổi XLTX sang PDF
+
 ## Giới thiệu
 Trong lĩnh vực phát triển phần mềm, nhu cầu chuyển đổi tệp từ định dạng này sang định dạng khác thường phát sinh. Cho dù đó là vì lý do tương thích hay chỉ đơn giản là để đáp ứng các yêu cầu cụ thể thì việc có một công cụ đáng tin cậy để xử lý những chuyển đổi đó một cách hiệu quả là điều vô giá. Trong hướng dẫn này, chúng ta sẽ đi sâu vào việc sử dụng GroupDocs.Conversion for .NET để chuyển đổi các tệp XLTX sang định dạng PDF một cách liền mạch. 
 ## Điều kiện tiên quyết

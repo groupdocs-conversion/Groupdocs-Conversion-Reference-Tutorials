@@ -6,6 +6,9 @@ description: Convierta sin esfuerzo archivos de gráficos vectoriales de CorelDR
 weight: 12
 url: /es/net/file-conversion-to-pdf/convert-cdr-to-pdf/
 ---
+
+# Convertir gráficos vectoriales CDR a PDF
+
 ## Introducción
 GroupDocs.Conversion para .NET es una potente biblioteca de conversión de documentos que permite a los desarrolladores convertir sin problemas varios formatos de documentos a PDF, Word, HTML y muchos más. En este tutorial, nos centraremos en convertir archivos de gráficos vectoriales de CorelDRAW (CDR) a formato PDF utilizando GroupDocs.Conversion para .NET. Al final de esta guía, estará equipado con el conocimiento para realizar esta conversión sin esfuerzo en sus aplicaciones .NET.
 ## Requisitos previos

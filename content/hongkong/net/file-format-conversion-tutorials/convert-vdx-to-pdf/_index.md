@@ -6,6 +6,9 @@ description: 使用 GroupDocs.Conversion for .NET 輕鬆將 VDX 檔案轉換為 
 weight: 25
 url: /zh-hant/net/file-format-conversion-convert-vdx-to-pdf/
 ---
+
+# 將VDX轉換為PDF
+
 ## 介紹
 在當今的數位時代，將文件從一種格式無縫轉換為另一種格式的能力對於高效的工作流程和協作至關重要。在眾多文件格式中，VDX（Microsoft Visio 中使用的一種基於 XML 的專有格式）通常需要轉換為更通用的相容格式（例如 PDF），以便於共用和檢視。
 在本教學中，我們將深入研究使用 GroupDocs.Conversion for .NET 將 VDX 檔案轉換為 PDF 的過程。 GroupDocs.Conversion 是一個功能強大的文件轉換 API，可讓開發人員輕鬆地將文件轉換功能整合到他們的 .NET 應用程式中。

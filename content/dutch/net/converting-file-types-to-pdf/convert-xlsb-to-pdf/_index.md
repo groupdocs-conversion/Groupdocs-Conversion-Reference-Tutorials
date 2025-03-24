@@ -6,6 +6,9 @@ description: Leer hoe u XLSB-bestanden moeiteloos naar PDF kunt converteren met 
 weight: 22
 url: /nl/net/converting-file-types-to-pdf/convert-xlsb-to-pdf/
 ---
+
+# Converteer XLSB naar PDF
+
 ## Invoering
 Op het gebied van softwareontwikkeling is de noodzaak om bestanden van het ene formaat naar het andere te converteren een veel voorkomende taak. Of het nu om gegevensverwerking, documentbeheer of compatibiliteitsredenen gaat, het hebben van een betrouwbaar hulpmiddel voor bestandsconversie is onmisbaar. GroupDocs.Conversion voor .NET is een krachtige bibliotheek die naadloze conversie tussen verschillende bestandsformaten mogelijk maakt. In deze zelfstudie gaan we dieper in op het gebruik van GroupDocs.Conversion voor .NET om XLSB-bestanden naar PDF-indeling te converteren.
 ## Vereisten

@@ -6,6 +6,9 @@ description: Leer hoe u PPS-bestanden moeiteloos naar PDF-indeling kunt converte
 weight: 25
 url: /nl/net/pdf-conversion/convert-pps-to-pdf/
 ---
+
+# Converteer PPS naar PDF
+
 ## Invoering
 In de digitale wereld van vandaag is de mogelijkheid om bestanden te manipuleren en te converteren cruciaal. GroupDocs.Conversion voor .NET is een krachtige tool waarmee ontwikkelaars eenvoudig verschillende documentformaten naadloos kunnen converteren. In deze zelfstudie concentreren we ons op het converteren van PPS-bestanden (PowerPoint Slide Show) naar PDF-indeling met behulp van GroupDocs.Conversion voor .NET. Of u nu een doorgewinterde ontwikkelaar bent of net begint, deze stapsgewijze handleiding leidt u moeiteloos door het proces van het converteren van PPS naar PDF.
 ## Vereisten

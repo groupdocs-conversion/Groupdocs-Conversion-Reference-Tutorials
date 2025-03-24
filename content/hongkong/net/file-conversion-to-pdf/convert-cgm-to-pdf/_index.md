@@ -6,6 +6,9 @@ description: 了解如何使用 GroupDocs.Conversion for .NET 將 CGM 向量圖�
 weight: 14
 url: /zh-hant/net/file-conversion-to-pdf/convert-cgm-to-pdf/
 ---
+
+# 將 CGM 向量圖形轉換為 PDF
+
 ## 介紹
 在本教學中，我們將引導您完成使用 GroupDocs.Conversion for .NET 將 CGM（電腦圖元檔案）向量圖形轉換為 PDF 格式的過程。 CGM 是一種用於向量圖形的文件格式，常用於技術繪圖、插圖和其他圖形應用程式。
 ## 先決條件

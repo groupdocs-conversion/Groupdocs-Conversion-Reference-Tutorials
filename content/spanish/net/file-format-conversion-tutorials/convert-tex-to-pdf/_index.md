@@ -6,6 +6,9 @@ description: Aprenda a convertir archivos TEX a formato PDF usando GroupDocs.Con
 weight: 18
 url: /es/net/file-format-conversion-convert-tex-to-pdf/
 ---
+
+# Convertir TEX a PDF
+
 ## Introducción
 En el ámbito de la gestión y manipulación de documentos, convertir archivos de un formato a otro es una necesidad común. Ya sea que trabaje con documentos de texto, hojas de cálculo o presentaciones, tener la capacidad de cambiar sin problemas entre formatos puede mejorar significativamente la productividad y optimizar los flujos de trabajo.
 Una herramienta poderosa para manejar este tipo de conversiones en el entorno .NET es GroupDocs.Conversion. Esta sólida biblioteca brinda a los desarrolladores la capacidad de convertir varios formatos de documentos sin esfuerzo. En este tutorial, nos centraremos en una tarea de conversión específica: convertir archivos TEX a formato PDF.

@@ -6,6 +6,9 @@ description: Dễ dàng chuyển đổi các trang web HTM sang PDF bằng Group
 weight: 23
 url: /vi/net/convert-files-to-pdf/convert-htm-to-pdf/
 ---
+
+# Chuyển đổi trang web HTM sang PDF
+
 ## Giới thiệu
 Trong thế giới phát triển .NET, thường có nhu cầu chuyển đổi tệp từ định dạng này sang định dạng khác một cách liền mạch. Cho dù đó là chuyển đổi các trang web HTML thành tài liệu PDF hay ngược lại, việc có một công cụ đáng tin cậy có thể tạo ra sự khác biệt. Một công cụ như vậy là GroupDocs.Conversion for .NET, một thư viện mạnh mẽ giúp đơn giản hóa quá trình chuyển đổi trong khi vẫn duy trì tính toàn vẹn và chất lượng của tài liệu.
 ## Điều kiện tiên quyết

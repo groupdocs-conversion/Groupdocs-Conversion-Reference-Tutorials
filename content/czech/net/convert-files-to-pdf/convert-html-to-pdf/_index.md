@@ -6,6 +6,9 @@ description: Převeďte webové stránky HTML bez námahy do formátu PDF pomoc�
 weight: 22
 url: /cs/net/convert-files-to-pdf/convert-html-to-pdf/
 ---
+
+# Převod HTML webových stránek do PDF
+
 ## Úvod
 dnešní digitální době je schopnost bezproblémově převádět různé formáty dokumentů zásadní pro firmy i jednotlivce. Ať už se jedná o převod webových stránek HTML na soubory PDF pro snadné sdílení nebo archivaci, mít ty správné nástroje mohou znamenat velký rozdíl. V tomto tutoriálu prozkoumáme, jak používat GroupDocs.Conversion for .NET k efektivnímu převodu webových stránek HTML do formátu PDF.
 ## Předpoklady

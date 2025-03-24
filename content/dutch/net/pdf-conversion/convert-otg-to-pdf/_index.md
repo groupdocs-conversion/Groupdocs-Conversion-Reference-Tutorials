@@ -6,6 +6,9 @@ description: Leer hoe u OTG-bestanden naar PDF converteert met GroupDocs.Convers
 weight: 13
 url: /nl/net/pdf-conversion/convert-otg-to-pdf/
 ---
+
+# Converteer OTG naar PDF
+
 ## Invoering
 Het converteren van OTG-bestanden (OpenDocument Graphics) naar PDF-formaat kan een cruciale taak zijn, vooral als het gaat om documentbeheersystemen of het delen van bestanden op verschillende platforms. In deze zelfstudie begeleiden we u bij het proces van het converteren van OTG-bestanden naar PDF met behulp van de GroupDocs.Conversion-bibliotheek voor .NET. Laten we erin duiken!
 ## Vereisten

@@ -6,6 +6,9 @@ description: 使用 GroupDocs.Conversion for .NET 輕鬆將 CorelDRAW (CDR) 向�
 weight: 12
 url: /zh-hant/net/file-conversion-to-pdf/convert-cdr-to-pdf/
 ---
+
+# 將 CDR 向量圖形轉換為 PDF
+
 ## 介紹
 GroupDocs.Conversion for .NET 是一個功能強大的文件轉換庫，可讓開發人員將各種文件格式無縫轉換為 PDF、Word、HTML 等。在本教程中，我們將重點介紹使用 GroupDocs.Conversion for .NET 將 CorelDRAW (CDR) 向量圖形檔案轉換為 PDF 格式。讀完本指南後，您將掌握在 .NET 應用程式中輕鬆執行此轉換的知識。
 ## 先決條件

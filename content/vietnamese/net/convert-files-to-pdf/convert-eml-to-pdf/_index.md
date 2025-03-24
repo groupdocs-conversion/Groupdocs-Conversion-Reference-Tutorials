@@ -6,6 +6,9 @@ description: Tìm hiểu cách chuyển đổi email EML sang PDF dễ dàng b�
 weight: 14
 url: /vi/net/convert-files-to-pdf/convert-eml-to-pdf/
 ---
+
+# Chuyển đổi tin nhắn email EML sang PDF
+
 ## Giới thiệu
 Trong hướng dẫn này, bạn sẽ tìm hiểu cách chuyển đổi thư email EML sang định dạng PDF bằng GroupDocs.Conversion cho .NET. Chuyển đổi tệp EML sang PDF là một yêu cầu phổ biến, đặc biệt khi bạn cần chia sẻ nội dung email ở định dạng phổ biến hơn và dễ đọc hơn. Với GroupDocs.Conversion, bạn có thể hoàn thành nhiệm vụ này một cách hiệu quả.
 ## Điều kiện tiên quyết

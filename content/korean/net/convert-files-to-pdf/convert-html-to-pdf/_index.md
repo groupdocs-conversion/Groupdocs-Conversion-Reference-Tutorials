@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET을 사용하여 HTML 웹 페이지를
 weight: 22
 url: /ko/net/convert-files-to-pdf/convert-html-to-pdf/
 ---
+
+# HTML 웹 페이지를 PDF로 변환
+
 ## 소개
 오늘날의 디지털 시대에 다양한 문서 형식을 원활하게 변환하는 능력은 기업과 개인 모두에게 중요합니다. 쉽게 공유하거나 보관할 수 있도록 HTML 웹 페이지를 PDF로 변환하는 등 올바른 도구를 사용하면 큰 변화를 가져올 수 있습니다. 이 자습서에서는 .NET용 GroupDocs.Conversion을 사용하여 HTML 웹 페이지를 PDF 형식으로 효율적으로 변환하는 방법을 살펴보겠습니다.
 ## 전제 조건

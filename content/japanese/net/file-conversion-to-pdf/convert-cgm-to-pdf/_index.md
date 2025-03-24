@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET を使用して、CGM ベクター �
 weight: 14
 url: /ja/net/file-conversion-to-pdf/convert-cgm-to-pdf/
 ---
+
+# CGM ベクター グラフィックスを PDF に変換
+
 ## 導入
 このチュートリアルでは、GroupDocs.Conversion for .NET を使用して CGM (コンピューター グラフィックス メタファイル) ベクター グラフィックスを PDF 形式に変換するプロセスを説明します。 CGM はベクター グラフィックスに使用されるファイル形式で、技術的な図面、イラスト、その他のグラフィック アプリケーションで一般的に使用されます。
 ## 前提条件

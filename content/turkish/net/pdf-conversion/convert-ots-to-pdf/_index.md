@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET'i kullanarak OTS dosyalarını zahmet
 weight: 15
 url: /tr/net/pdf-conversion/convert-ots-to-pdf/
 ---
+
+# OTS'yi PDF'ye dönüştür
+
 ## giriiş
 .NET uygulamaları içinde belge dönüştürme alanında, GroupDocs.Conversion for .NET çok yönlü ve güçlü bir araç olarak öne çıkıyor. Belgeleri bir formattan diğerine dönüştürmek veya çeşitli şekillerde değiştirmek istiyorsanız, GroupDocs.Conversion kapsamlı bir çözüm sunar. Bu öğreticide, GroupDocs.Conversion for .NET'i kullanarak OTS (OpenDocument Elektronik Tablo Şablonu) dosyalarını PDF formatına dönüştürme işlemini ayrıntılı olarak ele alacağız. Bu adım adım talimatları izleyerek belge dönüştürme işlevini .NET uygulamalarınıza sorunsuz bir şekilde entegre edebileceksiniz.
 ## Önkoşullar

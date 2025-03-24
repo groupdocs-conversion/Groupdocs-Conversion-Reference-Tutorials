@@ -6,6 +6,9 @@ description: Découvrez comment convertir des fichiers XML en PDF de manière tr
 weight: 29
 url: /fr/net/converting-file-types-to-pdf/convert-xml-to-pdf/
 ---
+
+# Convertir XML en PDF
+
 ## Introduction
 À l’ère numérique d’aujourd’hui, la capacité de convertir de manière transparente des fichiers d’un format à un autre est primordiale. Que vous soyez un développeur, un professionnel ou simplement une personne ayant des besoins divers en matière de formats de fichiers, avoir accès à des outils de conversion fiables peut rationaliser votre flux de travail et améliorer votre productivité.
 GroupDocs.Conversion pour .NET est une bibliothèque puissante qui offre aux développeurs la possibilité de convertir un large éventail de formats de documents par programme. De la conversion XML en PDF à la transformation de documents Microsoft Word en HTML, cet outil polyvalent offre une gamme de fonctionnalités pour répondre à diverses exigences de conversion.

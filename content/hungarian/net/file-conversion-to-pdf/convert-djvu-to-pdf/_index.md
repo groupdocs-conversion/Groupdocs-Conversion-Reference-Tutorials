@@ -6,6 +6,9 @@ description: Tanulja meg, hogyan konvertálhat könnyedén DJVU dokumentumokat P
 weight: 20
 url: /hu/net/file-conversion-to-pdf/convert-djvu-to-pdf/
 ---
+
+# A DJVU dokumentumok konvertálása PDF-be
+
 ## Bevezetés
 Ebben az oktatóanyagban végigvezetjük a DJVU dokumentumok PDF formátumba konvertálásának folyamatán a GroupDocs.Conversion for .NET segítségével. Mielőtt elkezdené, győződjön meg arról, hogy a szükséges előfeltételek telepítve vannak és be vannak állítva.
 ## Előfeltételek

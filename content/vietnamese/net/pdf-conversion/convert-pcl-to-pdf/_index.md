@@ -6,6 +6,9 @@ description: Tìm hiểu cách chuyển đổi tệp PCL sang PDF dễ dàng b�
 weight: 18
 url: /vi/net/pdf-conversion/convert-pcl-to-pdf/
 ---
+
+# Chuyển PCL sang PDF
+
 ## Giới thiệu
 Trong hướng dẫn này, chúng tôi sẽ hướng dẫn bạn quy trình chuyển đổi tệp PCL (Ngôn ngữ lệnh máy in) sang PDF bằng GroupDocs.Conversion cho .NET. Hãy thực hiện theo các bước bên dưới để đạt được chuyển đổi này một cách liền mạch.
 ## Điều kiện tiên quyết

@@ -6,6 +6,9 @@ description: .NET용 GroupDocs.Conversion을 사용하여 MHTML을 PDF로 손쉽
 weight: 20
 url: /ko/net/document-conversion/convert-mhtml-to-pdf/
 ---
+
+# MHTML을 PDF로 변환
+
 ## 소개
 .NET 개발 영역에서는 서로 다른 형식 간에 파일을 변환해야 하는 것이 일반적인 과제입니다. MHTML을 PDF로 변환하거나 다른 형식 교환으로 변환하는 경우 문서 변환을 효율적으로 처리하는 것이 중요합니다. 이것이 바로 .NET용 GroupDocs.Conversion이 작동하는 곳으로, 개발자가 번거로움을 최소화하면서 문서를 원활하게 변환할 수 있는 강력한 솔루션을 제공합니다.
 ## 전제 조건

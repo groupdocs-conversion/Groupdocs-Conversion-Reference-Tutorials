@@ -6,6 +6,9 @@ description: قم بتحويل ملفات EPS إلى PDF بسهولة باستخ
 weight: 17
 url: /ar/net/convert-files-to-pdf/convert-eps-to-pdf/
 ---
+
+# تحويل ملفات بوستسكريبت مغلفة EPS إلى PDF
+
 ## مقدمة
 سنوضح في هذا البرنامج التعليمي كيفية تحويل ملفات EPS (Encapsulated PostScript) إلى PDF باستخدام GroupDocs.Conversion for .NET.
 ## المتطلبات الأساسية

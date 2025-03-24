@@ -6,6 +6,9 @@ description: Convierta sin esfuerzo archivos WebP a formato PDF utilizando Group
 weight: 18
 url: /es/net/converting-file-types-to-pdf/convert-webp-to-pdf/
 ---
+
+# Convertir WebP a PDF
+
 ## Introducción
 En este tutorial, lo guiaremos a través del proceso de conversión de archivos WebP a formato PDF usando GroupDocs.Conversion para .NET. Siga estos pasos para lograr una conversión perfecta:
 

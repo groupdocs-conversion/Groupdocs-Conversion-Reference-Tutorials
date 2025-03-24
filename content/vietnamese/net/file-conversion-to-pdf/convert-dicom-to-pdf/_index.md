@@ -6,6 +6,9 @@ description: Dễ dàng chuyển đổi hình ảnh y tế DICOM sang định d�
 weight: 19
 url: /vi/net/file-conversion-to-pdf/convert-dicom-to-pdf/
 ---
+
+# Chuyển đổi hình ảnh y tế DICOM sang PDF
+
 ## Giới thiệu
 Trong thời đại kỹ thuật số ngày nay, khả năng chuyển đổi liền mạch các định dạng tệp là điều tối quan trọng. Cho dù đó là để lưu trữ, chia sẻ hay chỉ đơn giản là xem thì nhu cầu chuyển đổi tệp từ định dạng này sang định dạng khác là một nhiệm vụ phổ biến. Một chuyển đổi như vậy thường xảy ra trong lĩnh vực y tế là chuyển đổi hình ảnh DICOM (Hình ảnh kỹ thuật số và truyền thông trong y học) sang định dạng PDF. Các tệp DICOM là định dạng tiêu chuẩn được sử dụng để chụp ảnh y tế, lưu trữ thông tin như quét MRI, chụp X-quang và chụp CT.
 ## Điều kiện tiên quyết

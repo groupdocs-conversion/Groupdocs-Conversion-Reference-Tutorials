@@ -6,6 +6,9 @@ description: Konversi gambar medis DICOM dengan mudah ke format PDF menggunakan 
 weight: 19
 url: /id/net/file-conversion-to-pdf/convert-dicom-to-pdf/
 ---
+
+# Konversi Gambar Medis DICOM ke PDF
+
 ## Perkenalan
 Di era digital saat ini, kemampuan mengonversi format file dengan lancar adalah hal yang terpenting. Baik untuk pengarsipan, berbagi, atau sekadar melihat, kebutuhan untuk mengonversi file dari satu format ke format lainnya adalah tugas yang umum. Salah satu konversi yang sering muncul di bidang medis adalah konversi gambar DICOM (Digital Imaging and Communications in Medicine) ke format PDF. File DICOM adalah format standar yang digunakan untuk pencitraan medis, menyimpan informasi seperti pemindaian MRI, sinar-X, dan CT scan.
 ## Prasyarat

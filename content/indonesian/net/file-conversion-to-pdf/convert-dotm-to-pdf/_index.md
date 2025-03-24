@@ -6,6 +6,9 @@ description: Konversi templat DOTM Word yang berisi makro ke PDF dengan mudah me
 weight: 25
 url: /id/net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---
+
+# Konversi Templat Word DOTM (Makro) ke PDF
+
 ## Perkenalan
 Templat Microsoft Word DOTM, yang sering kali berisi makro, dapat menimbulkan masalah kompatibilitas di berbagai platform atau aplikasi. Mengonversinya ke format PDF tidak hanya memastikan aksesibilitas universal tetapi juga menghilangkan potensi risiko keamanan yang terkait dengan makro. Dalam tutorial ini, kita akan memandu langkah-langkah untuk mengonversi file DOTM ke PDF menggunakan GroupDocs.Conversion untuk .NET.
 ## Prasyarat

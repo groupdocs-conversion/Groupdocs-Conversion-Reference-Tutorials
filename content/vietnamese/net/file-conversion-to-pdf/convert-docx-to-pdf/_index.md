@@ -6,6 +6,9 @@ description: Tìm hiểu cách dễ dàng chuyển đổi tài liệu DOCX Word 
 weight: 24
 url: /vi/net/file-conversion-to-pdf/convert-docx-to-pdf/
 ---
+
+# Chuyển đổi tài liệu Word DOCX sang PDF
+
 ## Giới thiệu
 Trong lĩnh vực quản lý tài liệu, việc chuyển đổi tệp từ định dạng này sang định dạng khác thường là điều cần thiết. Cho dù đó là vì lý do tương thích, mục đích lưu trữ hay chỉ đơn giản là sở thích, khả năng chuyển đổi liền mạch giữa các định dạng là rất quan trọng. Trong hướng dẫn này, chúng ta sẽ tìm hiểu cách chuyển đổi tài liệu DOCX Word sang PDF một cách dễ dàng bằng cách sử dụng thư viện GroupDocs.Conversion cho .NET. Bằng cách làm theo các hướng dẫn từng bước này, bạn sẽ được trang bị để xử lý các chuyển đổi đó một cách dễ dàng.
 ## Điều kiện tiên quyết

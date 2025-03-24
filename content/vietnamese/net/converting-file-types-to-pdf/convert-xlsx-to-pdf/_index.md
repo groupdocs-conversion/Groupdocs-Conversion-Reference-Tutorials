@@ -6,6 +6,9 @@ description: Dễ dàng chuyển đổi tệp XLSX sang PDF bằng thư viện G
 weight: 25
 url: /vi/net/converting-file-types-to-pdf/convert-xlsx-to-pdf/
 ---
+
+# Chuyển đổi XLSX sang PDF
+
 ## Giới thiệu
 Trong thế giới kỹ thuật số ngày nay, khả năng chuyển đổi file từ định dạng này sang định dạng khác một cách liền mạch là điều không thể thiếu. Cho dù bạn là nhà phát triển đang làm việc trong một dự án hay một cá nhân xử lý nhiều tài liệu khác nhau thì việc có một công cụ đáng tin cậy để chuyển đổi tệp là rất quan trọng. Trong hướng dẫn này, chúng ta sẽ đi sâu vào quy trình chuyển đổi tệp XLSX sang PDF bằng thư viện GroupDocs.Conversion mạnh mẽ dành cho .NET. Thư viện này cung cấp các phương pháp hiệu quả và đơn giản để chuyển đổi tệp trong khi vẫn duy trì tính toàn vẹn của nội dung.
 ## Điều kiện tiên quyết

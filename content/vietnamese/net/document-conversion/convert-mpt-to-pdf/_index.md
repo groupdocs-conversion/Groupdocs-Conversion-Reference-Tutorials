@@ -6,6 +6,9 @@ description: Tìm hiểu cách chuyển đổi tệp MPT sang PDF dễ dàng b�
 weight: 24
 url: /vi/net/document-conversion/convert-mpt-to-pdf/
 ---
+
+# Chuyển MPT sang PDF
+
 ## Giới thiệu
 Trong lĩnh vực quản lý và thao tác tài liệu, việc chuyển đổi tệp từ định dạng này sang định dạng khác là một nhiệm vụ phổ biến. Cho dù đó là chuyển đổi tệp MPT sang PDF để chia sẻ hoặc lưu trữ dễ dàng hơn thì việc có một công cụ đáng tin cậy để hoàn thành nhiệm vụ này là điều cần thiết. Trong hướng dẫn này, chúng ta sẽ đi sâu vào việc sử dụng GroupDocs.Conversion cho .NET để chuyển đổi liền mạch các tệp MPT sang định dạng PDF. GroupDocs.Conversion cung cấp một bộ tính năng và chức năng mạnh mẽ, khiến nó trở thành giải pháp phù hợp cho các nhà phát triển cần khả năng chuyển đổi tài liệu trong ứng dụng .NET của họ.
 ## Điều kiện tiên quyết

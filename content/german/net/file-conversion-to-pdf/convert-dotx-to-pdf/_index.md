@@ -6,6 +6,9 @@ description: Konvertieren Sie DOTX-Word-Vorlagen mühelos in PDF mit GroupDocs.C
 weight: 27
 url: /de/net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---
+
+# Konvertieren Sie DOTX-Word-Vorlagen in PDF
+
 ## Einführung
 Microsoft Word-Dokumente werden häufig für verschiedene Zwecke verwendet, einschließlich der Erstellung von Vorlagen im DOTX-Format. Es kann jedoch vorkommen, dass Sie diese DOTX-Vorlagen in PDF konvertieren müssen, um sie leichter teilen, drucken oder archivieren zu können. In diesem Tutorial führen wir Sie durch den Prozess der Konvertierung von DOTX-Word-Vorlagen in PDF mit GroupDocs.Conversion für .NET.
 ## Voraussetzungen

@@ -6,6 +6,9 @@ description: 了解如何使用 GroupDocs.Conversion for .NET 轻松将 PPS 文�
 weight: 25
 url: /zh/net/pdf-conversion/convert-pps-to-pdf/
 ---
+
+# 将 PPS 转换为 PDF
+
 ## 介绍
 在当今的数字世界中，操作和转换文件的能力至关重要。 GroupDocs.Conversion for .NET 是一个功能强大的工具，允许开发人员轻松无缝地转换各种文档格式。在本教程中，我们将重点介绍使用 GroupDocs.Conversion for .NET 将 PPS（PowerPoint 幻灯片）文件转换为 PDF 格式。无论您是经验丰富的开发人员还是新手，本分步指南都将引导您轻松完成将 PPS 转换为 PDF 的过程。
 ## 先决条件

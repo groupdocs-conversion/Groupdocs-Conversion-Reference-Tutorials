@@ -6,6 +6,9 @@ description: Chuyển đổi các mẫu DOTM Word chứa macro sang PDF dễ dà
 weight: 25
 url: /vi/net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---
+
+# Chuyển đổi mẫu Word DOTM (Macro) sang PDF
+
 ## Giới thiệu
 Các mẫu DOTM của Microsoft Word, thường chứa macro, có thể gây ra sự cố tương thích trên các nền tảng hoặc ứng dụng khác nhau. Chuyển đổi chúng sang định dạng PDF không chỉ đảm bảo khả năng truy cập phổ quát mà còn loại bỏ các rủi ro bảo mật tiềm ẩn liên quan đến macro. Trong hướng dẫn này, chúng tôi sẽ hướng dẫn các bước để chuyển đổi tệp DOTM sang PDF bằng GroupDocs.Conversion cho .NET.
 ## Điều kiện tiên quyết

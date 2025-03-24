@@ -6,6 +6,9 @@ description: Leer hoe u XLSM-bestanden moeiteloos naar PDF-indeling kunt convert
 weight: 23
 url: /nl/net/converting-file-types-to-pdf/convert-xlsm-to-pdf/
 ---
+
+# Converteer XLSM naar PDF
+
 ## Invoering
 In deze zelfstudie verdiepen we ons in het proces van het converteren van XLSM-bestanden naar PDF-indeling met behulp van de krachtige GroupDocs.Conversion voor .NET-bibliotheek. Het converteren van bestanden is een veel voorkomende taak in veel toepassingen, en GroupDocs.Conversion vereenvoudigt dit proces en biedt efficiënte en betrouwbare conversiemogelijkheden.
 ## Vereisten

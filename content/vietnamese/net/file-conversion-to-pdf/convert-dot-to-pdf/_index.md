@@ -6,6 +6,9 @@ description: Tìm hiểu cách chuyển đổi dễ dàng các tệp DOT (Mẫu 
 weight: 26
 url: /vi/net/file-conversion-to-pdf/convert-dot-to-pdf/
 ---
+
+# Chuyển đổi mẫu DOT Word sang PDF
+
 ## Giới thiệu
 Trong thế giới phát triển .NET, thường có nhu cầu chuyển đổi nhiều định dạng tệp khác nhau cho các mục đích khác nhau. Một yêu cầu phổ biến là chuyển đổi tệp DOT (Mẫu Word) sang định dạng PDF. May mắn thay, với sự trợ giúp của GroupDocs.Conversion dành cho .NET, tác vụ này trở nên đơn giản và hiệu quả. Hướng dẫn này sẽ hướng dẫn bạn qua quy trình từng bước, đảm bảo bạn có thể tích hợp liền mạch chuyển đổi DOT sang PDF vào các ứng dụng .NET của mình.
 ## Điều kiện tiên quyết

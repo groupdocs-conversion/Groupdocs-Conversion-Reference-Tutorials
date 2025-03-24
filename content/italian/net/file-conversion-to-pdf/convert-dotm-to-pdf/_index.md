@@ -6,6 +6,9 @@ description: Converti modelli DOTM Word contenenti macro in PDF senza sforzo uti
 weight: 25
 url: /it/net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---
+
+# Converti modelli Word DOTM (macro) in PDF
+
 ## introduzione
 modelli Microsoft Word DOTM, che spesso contengono macro, possono porre problemi di compatibilità tra piattaforme o applicazioni diverse. La loro conversione in formato PDF non solo garantisce l'accessibilità universale ma elimina anche i potenziali rischi per la sicurezza associati alle macro. In questo tutorial, esamineremo i passaggi per convertire i file DOTM in PDF utilizzando GroupDocs.Conversion per .NET.
 ## Prerequisiti

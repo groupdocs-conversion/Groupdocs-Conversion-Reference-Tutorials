@@ -6,6 +6,9 @@ description: Tìm hiểu cách chuyển đổi tệp MOBI sang PDF dễ dàng b�
 weight: 22
 url: /vi/net/document-conversion/convert-mobi-to-pdf/
 ---
+
+# Chuyển MOBI sang PDF
+
 ## Giới thiệu
 Trong thế giới quản lý và chuyển đổi tài liệu, GroupDocs.Conversion dành cho .NET nổi bật như một công cụ mạnh mẽ dành cho các nhà phát triển muốn chuyển đổi liền mạch các định dạng tệp khác nhau. Một tác vụ chuyển đổi phổ biến mà các nhà phát triển thường gặp phải là chuyển đổi tệp MOBI sang định dạng PDF. Hướng dẫn này sẽ hướng dẫn bạn qua quy trình chuyển đổi tệp MOBI sang PDF bằng GroupDocs.Conversion cho .NET, chia nhỏ từng bước để rõ ràng và dễ hiểu.
 ## Điều kiện tiên quyết

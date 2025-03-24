@@ -6,6 +6,9 @@ description: 了解如何使用 GroupDocs.Conversion for .NET 輕鬆將 WMF 檔�
 weight: 19
 url: /zh-hant/net/converting-file-types-to-pdf/convert-wmf-to-pdf/
 ---
+
+# 將 WMF 轉換為 PDF
+
 ## 介紹
 在文件操作和轉換領域，GroupDocs.Conversion for .NET 作為開發人員的強大工具集脫穎而出。其多功能功能之一是能夠將 WMF（Windows 圖元檔案）檔案轉換為普遍存在的 PDF（便攜式文件格式）。本教學將逐步引導您完成流程，確保您可以將此功能無縫整合到您的 .NET 應用程式中。
 ## 先決條件

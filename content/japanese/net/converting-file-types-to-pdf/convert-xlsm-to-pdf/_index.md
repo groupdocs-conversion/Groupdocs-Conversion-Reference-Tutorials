@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET を使用して、XLSM ファイル�
 weight: 23
 url: /ja/net/converting-file-types-to-pdf/convert-xlsm-to-pdf/
 ---
+
+# XLSMをPDFに変換
+
 ## 導入
 このチュートリアルでは、強力な GroupDocs.Conversion for .NET ライブラリを使用して、XLSM ファイルを PDF 形式に変換するプロセスを詳しく説明します。ファイルの変換は多くのアプリケーションで一般的なタスクですが、GroupDocs.Conversion はこのプロセスを簡素化し、効率的で信頼性の高い変換機能を提供します。
 ## 前提条件

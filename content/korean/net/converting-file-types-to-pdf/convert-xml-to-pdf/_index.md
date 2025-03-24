@@ -6,6 +6,9 @@ description: .NET용 GroupDocs.Conversion을 사용하여 XML 파일을 PDF로 �
 weight: 29
 url: /ko/net/converting-file-types-to-pdf/convert-xml-to-pdf/
 ---
+
+# XML을 PDF로 변환
+
 ## 소개
 오늘날의 디지털 시대에는 파일을 한 형식에서 다른 형식으로 원활하게 변환하는 능력이 무엇보다 중요합니다. 개발자, 비즈니스 전문가 또는 다양한 파일 형식이 필요한 개인이든 신뢰할 수 있는 변환 도구에 액세스하면 작업 흐름을 간소화하고 생산성을 향상시킬 수 있습니다.
 .NET용 GroupDocs.Conversion은 개발자에게 광범위한 문서 형식을 프로그래밍 방식으로 변환할 수 있는 기능을 제공하는 강력한 라이브러리입니다. XML을 PDF로 변환하는 것부터 Microsoft Word 문서를 HTML로 변환하는 것까지 이 다목적 도구는 다양한 변환 요구 사항을 충족하는 다양한 기능을 제공합니다.

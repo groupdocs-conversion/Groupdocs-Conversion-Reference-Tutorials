@@ -6,6 +6,9 @@ description: 使用 GroupDocs.Conversion for .NET 轻松将 DIB 图像转换为 
 weight: 18
 url: /zh/net/file-conversion-to-pdf/convert-dib-to-pdf/
 ---
+
+# 将 DIB 图像转换为 PDF
+
 ## 介绍
 在软件开发领域，转换不同文件格式的能力至关重要。无论您正在处理图像、文档还是其他媒体类型，拥有在格式之间无缝转换的能力都可以简化工作流程并提高工作效率。 GroupDocs.Conversion for .NET 是一种促进此类转换的强大工具。
 ## 先决条件

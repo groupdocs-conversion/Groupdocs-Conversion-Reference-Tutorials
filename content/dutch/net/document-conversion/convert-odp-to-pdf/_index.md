@@ -6,6 +6,9 @@ description: Leer hoe u ODP naar PDF converteert met GroupDocs.Conversion voor .
 weight: 28
 url: /nl/net/document-conversion/convert-odp-to-pdf/
 ---
+
+# Converteer ODP naar PDF
+
 ## Invoering
 GroupDocs.Conversion voor .NET is een krachtige API waarmee ontwikkelaars verschillende documentformaten naadloos kunnen converteren in hun .NET-applicaties. In deze zelfstudie begeleiden we u bij het converteren van een ODP-bestand (OpenDocument Presentation) naar PDF-indeling met behulp van GroupDocs.Conversion voor .NET.
 ## Vereisten

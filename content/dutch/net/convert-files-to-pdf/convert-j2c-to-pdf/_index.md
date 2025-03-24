@@ -6,6 +6,9 @@ description: Leer hoe u moeiteloos J2C-afbeeldingen naar PDF kunt converteren me
 weight: 27
 url: /nl/net/convert-files-to-pdf/convert-j2c-to-pdf/
 ---
+
+# Converteer J2C JPEG-LS gecomprimeerde afbeeldingen naar PDF
+
 ## Invoering
 In deze zelfstudie onderzoeken we hoe u GroupDocs.Conversion voor .NET kunt gebruiken om J2C-afbeeldingen (JPEG-LS gecomprimeerd) naar PDF-indeling te converteren. GroupDocs.Conversion is een krachtige bibliotheek voor documentconversie waarmee ontwikkelaars verschillende documentformaten naadloos kunnen converteren in hun .NET-toepassingen.
 ## Vereisten

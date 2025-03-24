@@ -6,6 +6,9 @@ description: Converta facilmente vários formatos de arquivo para PDF com GroupD
 weight: 22
 url: /pt/net/convert-files-to-pdf/
 ---
+
+# Converter arquivos em PDF
+
 ## Introdução
 
 GroupDocs.Conversion for .NET oferece uma solução robusta para conversão perfeita de formatos de arquivo, especialmente para PDF. Esteja você lidando com arquivos CAD, mensagens de e-mail, imagens ou páginas da web, esta lista abrangente de tutoriais o orienta passo a passo em cada processo de conversão.

@@ -6,6 +6,9 @@ description: Convierta imágenes BMP a PDF sin problemas utilizando GroupDocs.Co
 weight: 11
 url: /es/net/file-conversion-to-pdf/convert-bmp-to-pdf/
 ---
+
+# Convertir imágenes BMP a PDF
+
 ## Introducción
 GroupDocs.Conversion para .NET proporciona una potente solución para convertir imágenes BMP a formato PDF sin problemas. Este tutorial lo guiará a través del proceso paso a paso.
 ### Requisitos previos

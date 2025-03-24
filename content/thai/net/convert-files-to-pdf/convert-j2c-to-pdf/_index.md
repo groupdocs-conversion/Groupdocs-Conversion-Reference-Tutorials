@@ -6,6 +6,9 @@ description: เรียนรู้วิธีแปลงอิมเมจ 
 weight: 27
 url: /th/net/convert-files-to-pdf/convert-j2c-to-pdf/
 ---
+
+# แปลงรูปภาพที่บีบอัด J2C JPEG-LS เป็น PDF
+
 ## การแนะนำ
 ในบทช่วยสอนนี้ เราจะสำรวจวิธีใช้ GroupDocs.Conversion สำหรับ .NET เพื่อแปลงรูปภาพ J2C (JPEG-LS Compressed) เป็นรูปแบบ PDF GroupDocs.Conversion เป็นไลบรารีการแปลงเอกสารที่มีประสิทธิภาพซึ่งช่วยให้นักพัฒนาสามารถแปลงรูปแบบเอกสารต่างๆ ในแอปพลิเคชัน .NET ของตนได้อย่างราบรื่น
 ## ข้อกำหนดเบื้องต้น

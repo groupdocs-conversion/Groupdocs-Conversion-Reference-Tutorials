@@ -6,6 +6,9 @@ description: 了解如何使用 GroupDocs.Conversion for .NET 将 CGM 矢量图�
 weight: 14
 url: /zh/net/file-conversion-to-pdf/convert-cgm-to-pdf/
 ---
+
+# 将 CGM 矢量图形转换为 PDF
+
 ## 介绍
 在本教程中，我们将引导您完成使用 GroupDocs.Conversion for .NET 将 CGM（计算机图形图元文件）矢量图形转换为 PDF 格式的过程。 CGM 是一种用于矢量图形的文件格式，常用于技术绘图、插图和其他图形应用程序。
 ## 先决条件

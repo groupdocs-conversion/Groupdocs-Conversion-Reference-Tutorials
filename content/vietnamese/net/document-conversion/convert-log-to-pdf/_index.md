@@ -6,6 +6,9 @@ description: Dễ dàng chuyển đổi tệp LOG sang định dạng PDF trong 
 weight: 17
 url: /vi/net/document-conversion/convert-log-to-pdf/
 ---
+
+# Chuyển đổi LOG sang PDF
+
 ## Giới thiệu
 Trong thế giới kỹ thuật số ngày nay, nhu cầu về các công cụ chuyển đổi tài liệu hiệu quả đã trở nên quan trọng. Dù vì mục đích lưu trữ, chia sẻ tài liệu trên nhiều nền tảng khác nhau hay đơn giản là đảm bảo tính tương thích thì việc chuyển đổi file từ định dạng này sang định dạng khác là một nhiệm vụ phổ biến. Khi nói đến việc chuyển đổi tệp LOG sang định dạng PDF trong các ứng dụng .NET, GroupDocs.Conversion cho .NET nổi lên như một giải pháp mạnh mẽ.
 ## Điều kiện tiên quyết

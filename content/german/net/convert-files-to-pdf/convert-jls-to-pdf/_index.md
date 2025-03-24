@@ -6,6 +6,9 @@ description: Erfahren Sie, wie Sie mit GroupDocs.Conversion für .NET mühelos J
 weight: 29
 url: /de/net/convert-files-to-pdf/convert-jls-to-pdf/
 ---
+
+# Konvertieren Sie JPEG-LS-Dateien (.JLS) in PDF
+
 ## Einführung
 Im Bereich der Softwareentwicklung ist die Fähigkeit, Dateien nahtlos von einem Format in ein anderes zu konvertieren, oft entscheidend. Ob zur Datenmigration, zu Kompatibilitätszwecken oder einfach zur Optimierung von Arbeitsabläufen: Robuste Konvertierungsfunktionen können die Produktivität erheblich steigern. In diesem Tutorial befassen wir uns mit dem Prozess der Konvertierung von JPEG-LS-Dateien (.JLS) in das PDF-Format mithilfe von GroupDocs.Conversion für .NET.
 ## Voraussetzungen

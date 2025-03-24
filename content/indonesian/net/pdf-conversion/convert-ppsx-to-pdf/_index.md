@@ -6,6 +6,9 @@ description: Konversikan file PPSX ke format PDF dengan mudah menggunakan GroupD
 weight: 26
 url: /id/net/pdf-conversion/convert-ppsx-to-pdf/
 ---
+
+# Konversi PPSX ke PDF
+
 ## Perkenalan
 Di era digital saat ini, kemampuan untuk mengkonversi file dari satu format ke format lainnya sangatlah berharga. Baik Anda seorang pengembang, profesional bisnis, atau sekadar individu yang ingin menyederhanakan alur kerja Anda, memiliki alat yang tepat dapat membuat perbedaan besar. GroupDocs.Conversion for .NET adalah perpustakaan canggih yang menyediakan kemampuan konversi tanpa batas untuk berbagai jenis file, termasuk PPSX ke PDF. Dalam tutorial ini, kita akan memandu proses mengonversi file PPSX ke PDF menggunakan GroupDocs.Conversion untuk .NET.
 ## Prasyarat

@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET'i kullanarak DICOM medikal görüntü
 weight: 19
 url: /tr/net/file-conversion-to-pdf/convert-dicom-to-pdf/
 ---
+
+# DICOM Tıbbi Görüntülerini PDF'ye Dönüştürün
+
 ## giriiş
 Günümüzün dijital çağında, dosya formatlarını sorunsuz bir şekilde dönüştürme yeteneği çok önemlidir. İster arşivleme, paylaşma veya yalnızca görüntüleme amaçlı olsun, dosyaları bir formattan diğerine dönüştürme ihtiyacı yaygın bir iştir. Tıp alanında sıklıkla ortaya çıkan bu tür dönüşümlerden biri, DICOM (Tıpta Dijital Görüntüleme ve İletişim) görüntülerinin PDF formatına dönüştürülmesidir. DICOM dosyaları, tıbbi görüntüleme için kullanılan ve MRI taramaları, X ışınları ve CT taramaları gibi bilgileri depolayan standart formattır.
 ## Önkoşullar

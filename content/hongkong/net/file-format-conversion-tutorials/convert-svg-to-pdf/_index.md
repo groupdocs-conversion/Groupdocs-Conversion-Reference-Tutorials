@@ -6,6 +6,9 @@ description: 了解如何使用 GroupDocs.Conversion for .NET 輕鬆將 SVG 轉�
 weight: 15
 url: /zh-hant/net/file-format-conversion-convert-svg-to-pdf/
 ---
+
+# 將 SVG 轉換為 PDF
+
 ## 介紹
 在程式設計領域，將檔案從一種格式轉換為另一種格式是一項常見任務。無論您要處理圖像、文件還是其他媒體，能夠在格式之間無縫轉換都至關重要。在本教學中，我們將深入研究如何使用 GroupDocs.Conversion for .NET 將 SVG（可縮放向量圖）檔案轉換為 PDF（可攜式文件格式）。
 ## 先決條件

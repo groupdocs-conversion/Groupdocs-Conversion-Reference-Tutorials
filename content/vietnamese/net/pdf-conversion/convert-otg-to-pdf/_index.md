@@ -6,6 +6,9 @@ description: Tìm hiểu cách chuyển đổi tệpOTG sang PDF bằng GroupDoc
 weight: 13
 url: /vi/net/pdf-conversion/convert-otg-to-pdf/
 ---
+
+# Chuyển đổi OG sang PDF
+
 ## Giới thiệu
 Việc chuyển đổi các tệpOTG (Đồ họa OpenDocument) sang định dạng PDF có thể là một nhiệm vụ quan trọng, đặc biệt là khi xử lý các hệ thống quản lý tài liệu hoặc chia sẻ tệp trên các nền tảng khác nhau. Trong hướng dẫn này, chúng tôi sẽ hướng dẫn bạn quy trình chuyển đổi tệpOTG sang PDF bằng thư viện GroupDocs.Conversion cho .NET. Hãy đi sâu vào!
 ## Điều kiện tiên quyết

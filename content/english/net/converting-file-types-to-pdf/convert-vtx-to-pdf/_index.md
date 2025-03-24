@@ -6,6 +6,9 @@ description: Learn how to convert VTX files to PDF using GroupDocs.Conversion fo
 weight: 17
 url: /net/converting-file-types-to-pdf/convert-vtx-to-pdf/
 ---
+
+# Convert VTX to PDF
+
 ## Introduction
 GroupDocs.Conversion for .NET is a powerful library that facilitates seamless conversion of various document formats within your .NET applications. Among the plethora of supported conversions, one common task is converting VTX files to PDF format. In this tutorial, we will delve into the step-by-step process of converting VTX files to PDF using GroupDocs.Conversion for .NET.
 ## Prerequisites

@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET을 사용하여 EPUB eBook을 PDF 형
 weight: 18
 url: /ko/net/convert-files-to-pdf/convert-epub-to-pdf/
 ---
+
+# EPUB eBook을 PDF로 변환
+
 ## 소개
 오늘날의 디지털 시대에 파일 형식을 원활하게 변환하는 능력은 디지털 문서 관리에 있어서 중요한 측면입니다. eBook, 문서, 이미지 등 무엇을 처리하든 이를 다양한 형식으로 변환하는 기능이 있으면 접근성과 유용성이 크게 향상될 수 있습니다. 수많은 파일 형식 변환 중에서 EPUB eBook을 PDF로 변환하는 것은 PDF의 범용 호환성과 형식 안정성으로 인해 매우 중요합니다.
 ## 전제 조건

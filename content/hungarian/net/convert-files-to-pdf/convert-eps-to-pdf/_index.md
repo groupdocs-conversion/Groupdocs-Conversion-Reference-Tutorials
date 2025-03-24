@@ -6,6 +6,9 @@ description: A GroupDocs.Conversion for .NET segítségével könnyedén konvert
 weight: 17
 url: /hu/net/convert-files-to-pdf/convert-eps-to-pdf/
 ---
+
+# Konvertálja az EPS tokozott PostScript fájlokat PDF formátumba
+
 ## Bevezetés
 Ebben az oktatóanyagban bemutatjuk, hogyan konvertálhat EPS (Encapsulated PostScript) fájlokat PDF-be a GroupDocs.Conversion for .NET segítségével.
 ## Előfeltételek

@@ -6,6 +6,9 @@ description: .NET용 GroupDocs.Conversion 라이브러리를 사용하여 XLSX �
 weight: 25
 url: /ko/net/converting-file-types-to-pdf/convert-xlsx-to-pdf/
 ---
+
+# XLSX를 PDF로 변환
+
 ## 소개
 오늘날의 디지털 세계에서는 파일을 한 형식에서 다른 형식으로 원활하게 변환하는 기능이 필수적입니다. 프로젝트를 진행하는 개발자이든 다양한 문서를 처리하는 개인이든 상관없이 파일 변환을 위한 안정적인 도구를 갖는 것이 중요합니다. 이 자습서에서는 강력한 .NET용 GroupDocs.Conversion 라이브러리를 사용하여 XLSX 파일을 PDF로 변환하는 프로세스를 자세히 살펴보겠습니다. 이 라이브러리는 콘텐츠의 무결성을 유지하면서 파일을 변환하는 효율적이고 간단한 방법을 제공합니다.
 ## 전제 조건

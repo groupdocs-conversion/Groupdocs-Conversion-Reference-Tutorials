@@ -6,6 +6,9 @@ description: Dễ dàng chuyển đổi VCF sang PDF bằng GroupDocs.Conversion
 weight: 23
 url: /vi/net/file-format-conversion-convert-vcf-to-pdf/
 ---
+
+# Chuyển VCF sang PDF
+
 ## Giới thiệu
 Trong lĩnh vực quản lý và thao tác tài liệu, GroupDocs.Conversion for .NET nổi bật như một công cụ linh hoạt cho phép các nhà phát triển chuyển đổi liền mạch giữa các định dạng tệp khác nhau. Trong số các chức năng của nó, một tác vụ chuyển đổi nổi bật là chuyển VCF (Tệp liên hệ ảo) thành PDF (Định dạng tài liệu di động). Hướng dẫn này đi sâu vào quy trình từng bước để thực hiện chuyển đổi này một cách dễ dàng bằng cách sử dụng GroupDocs.Conversion cho .NET.
 ## Điều kiện tiên quyết

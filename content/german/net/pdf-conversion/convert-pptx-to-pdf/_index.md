@@ -6,6 +6,9 @@ description: Erfahren Sie, wie Sie PowerPoint-Präsentationen (PPTX) mit GroupDo
 weight: 29
 url: /de/net/pdf-conversion/convert-pptx-to-pdf/
 ---
+
+# Konvertieren Sie PPTX in PDF
+
 ## Einführung
 In diesem Tutorial führen wir den Prozess der Konvertierung einer PowerPoint-Präsentationsdatei (PPTX) in ein Portable Document Format (PDF) mithilfe der GroupDocs.Conversion-Bibliothek für .NET durch. Führen Sie die folgenden Schritte aus, um diese Konvertierung durchzuführen.
 ## Voraussetzungen

@@ -6,6 +6,9 @@ description: Découvrez comment convertir sans effort des documents DOCX Word en
 weight: 24
 url: /fr/net/file-conversion-to-pdf/convert-docx-to-pdf/
 ---
+
+# Convertir des documents Word DOCX en PDF
+
 ## Introduction
 Dans le domaine de la gestion documentaire, la conversion de fichiers d'un format à un autre est souvent une nécessité. Que ce soit pour des raisons de compatibilité, d'archivage ou simplement de préférence, il est crucial de pouvoir convertir de manière transparente entre les formats. Dans ce didacticiel, nous verrons comment convertir facilement des documents DOCX Word en PDF à l'aide de la bibliothèque GroupDocs.Conversion pour .NET. En suivant ces instructions étape par étape, vous serez équipé pour gérer facilement de telles conversions.
 ## Conditions préalables

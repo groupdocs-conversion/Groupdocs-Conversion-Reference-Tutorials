@@ -6,6 +6,9 @@ description: Könnyedén konvertálja a makrókat tartalmazó DOCM Word-dokument
 weight: 22
 url: /hu/net/file-conversion-to-pdf/convert-docm-to-pdf/
 ---
+
+# Konvertálja a DOCM Word dokumentumokat (makrókat) PDF-be
+
 ## Bevezetés
 dokumentumkezelés és -kezelés területén gyakran szükséges a fájlok egyik formátumból a másikba konvertálása. Akár makrókat tartalmazó Word-dokumentumokkal (DOCM-fájlokkal) van dolgunk, akár PDF-fájlokká kell átalakítania azokat a szélesebb körű hozzáférhetőség érdekében, a megfelelő eszközök rendelkezésre állása kulcsfontosságú. Ebben az oktatóanyagban megvizsgáljuk, hogyan lehet hatékonyan konvertálni a DOCM Word-dokumentumokat, beleértve a makrókat is, PDF-fájlokká a hatékony GroupDocs.Conversion .NET könyvtár segítségével.
 ## Előfeltételek

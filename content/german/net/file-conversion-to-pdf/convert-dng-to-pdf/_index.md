@@ -6,6 +6,9 @@ description: Erfahren Sie, wie Sie DNG-Bilder mit GroupDocs.Conversion für .NET
 weight: 21
 url: /de/net/file-conversion-to-pdf/convert-dng-to-pdf/
 ---
+
+# Konvertieren Sie DNG-Bilder in PDF
+
 ## Einführung
 In diesem Tutorial führen wir Sie durch den Prozess der Konvertierung von DNG-Bildern in PDF mit GroupDocs.Conversion für .NET. DNG (Digital Negative) ist ein Dateiformat für die digitale Fotografie. Durch die Konvertierung von DNG-Bildern in PDF können Sie diese ganz einfach teilen oder in einem allgemein akzeptierten Format speichern.
 ## Voraussetzungen

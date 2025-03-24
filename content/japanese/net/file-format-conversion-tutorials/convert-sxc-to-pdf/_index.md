@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET を使用して、SXC ファイルを
 weight: 17
 url: /ja/net/file-format-conversion-convert-sxc-to-pdf/
 ---
+
+# SXCをPDFに変換
+
 ## 導入
 ソフトウェア開発の分野では、多くの場合、効率的なファイル変換が重要な要件となります。開発者は、品質や整合性を損なうことなく、ファイルをある形式から別の形式にシームレスに変換できる信頼性の高いツールを求めています。 .NET エコシステムでは、GroupDocs.Conversion が強力なソリューションとして登場し、さまざまなドキュメント形式を簡単に変換できる堅牢な機能を開発者に提供します。
 ## 前提条件

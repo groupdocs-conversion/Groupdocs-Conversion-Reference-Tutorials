@@ -6,6 +6,9 @@ description: Dễ dàng chuyển đổi biểu tượng ICO sang PDF bằng Grou
 weight: 24
 url: /vi/net/convert-files-to-pdf/convert-ico-to-pdf/
 ---
+
+# Chuyển đổi biểu tượng ICO sang PDF
+
 ## Giới thiệu
 Trong thời đại kỹ thuật số ngày nay, khả năng chuyển đổi liền mạch các tệp từ định dạng này sang định dạng khác là rất quan trọng. Cho dù bạn là nhà phát triển đang làm việc trong một dự án hay một cá nhân đang tìm cách hợp lý hóa quy trình làm việc của mình thì việc có quyền truy cập vào các công cụ chuyển đổi đáng tin cậy có thể tạo ra sự khác biệt. Một công cụ như vậy đã trở nên phổ biến trong giới phát triển .NET là GroupDocs.Conversion for .NET.
 ## Điều kiện tiên quyết

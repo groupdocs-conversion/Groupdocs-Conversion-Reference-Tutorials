@@ -6,6 +6,9 @@ description: Tìm hiểu cách chuyển đổi tệp XLAM sang PDF dễ dàng b�
 weight: 21
 url: /vi/net/converting-file-types-to-pdf/convert-xlam-to-pdf/
 ---
+
+# Chuyển XLAM sang PDF
+
 ## Giới thiệu
 Trong thời đại kỹ thuật số, nhu cầu chuyển đổi tài liệu từ định dạng này sang định dạng khác ngày càng trở nên phổ biến. Cho dù đó là vì lý do tương thích, mục đích lưu trữ hoặc chia sẻ thì việc có một công cụ đáng tin cậy để chuyển đổi tệp là điều cần thiết. Trong hướng dẫn này, chúng ta sẽ đi sâu vào cách sử dụng GroupDocs.Conversion for .NET để chuyển đổi các tệp XLAM sang định dạng PDF một cách dễ dàng.
 ## Điều kiện tiên quyết

@@ -6,6 +6,9 @@ description: Converteer WebP-bestanden moeiteloos naar PDF-indeling met GroupDoc
 weight: 18
 url: /nl/net/converting-file-types-to-pdf/convert-webp-to-pdf/
 ---
+
+# Converteer WebP naar PDF
+
 ## Invoering
 In deze zelfstudie leiden we u door het proces van het converteren van WebP-bestanden naar PDF-indeling met behulp van GroupDocs.Conversion voor .NET. Volg deze stappen om een naadloze conversie te realiseren:
 

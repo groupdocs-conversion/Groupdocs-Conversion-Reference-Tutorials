@@ -6,6 +6,9 @@ description: Leer hoe u PowerPoint-presentaties (PPTX) naar PDF-indeling convert
 weight: 29
 url: /nl/net/pdf-conversion/convert-pptx-to-pdf/
 ---
+
+# Converteer PPTX naar PDF
+
 ## Invoering
 In deze zelfstudie doorlopen we het proces van het converteren van een PowerPoint-presentatiebestand (PPTX) naar een Portable Document Format (PDF) met behulp van de GroupDocs.Conversion-bibliotheek voor .NET. Volg de onderstaande stappen om deze conversie te realiseren.
 ## Vereisten

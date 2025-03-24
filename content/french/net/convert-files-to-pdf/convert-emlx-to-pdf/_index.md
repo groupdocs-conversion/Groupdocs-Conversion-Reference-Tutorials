@@ -6,6 +6,9 @@ description: Découvrez comment convertir sans effort les messages électronique
 weight: 15
 url: /fr/net/convert-files-to-pdf/convert-emlx-to-pdf/
 ---
+
+# Convertir les messages électroniques EMLX Apple Mail en PDF
+
 ## Introduction
 Dans ce didacticiel, nous apprendrons comment convertir les messages électroniques EMLX Apple Mail au format PDF à l'aide de GroupDocs.Conversion pour .NET.
 ## Conditions préalables

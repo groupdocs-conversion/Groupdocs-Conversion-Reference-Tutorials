@@ -6,6 +6,9 @@ description: Converteer DOCM Word-documenten met macro's moeiteloos naar PDF's m
 weight: 22
 url: /nl/net/file-conversion-to-pdf/convert-docm-to-pdf/
 ---
+
+# Converteer DOCM Word-documenten (macro's) naar PDF
+
 ## Invoering
 Op het gebied van documentbeheer en -manipulatie is het converteren van bestanden van het ene formaat naar het andere vaak een noodzaak. Of u nu te maken heeft met Word-documenten die macro's bevatten (DOCM-bestanden) of deze moet omzetten in PDF's voor een bredere toegankelijkheid, het is van cruciaal belang dat u over de juiste hulpmiddelen beschikt. In deze zelfstudie gaan we dieper in op hoe u DOCM Word-documenten, inclusief macro's, efficiënt kunt converteren naar PDF's met behulp van de krachtige GroupDocs.Conversion-bibliotheek voor .NET.
 ## Vereisten

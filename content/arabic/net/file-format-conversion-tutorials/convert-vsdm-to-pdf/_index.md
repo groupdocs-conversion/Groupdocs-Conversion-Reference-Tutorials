@@ -6,6 +6,9 @@ description: تعرف على كيفية تحويل ملفات VSDM إلى تنس
 weight: 26
 url: /ar/net/file-format-conversion-convert-vsdm-to-pdf/
 ---
+
+# تحويل VSDM إلى PDF
+
 ## مقدمة
 في هذا البرنامج التعليمي، سنرشدك خلال عملية تحويل ملفات VSDM (Visio Macro-Enabled Graphic) إلى تنسيق PDF باستخدام مكتبة GroupDocs.Conversion لـ .NET. سنقوم بتقسيم كل خطوة إلى تعليمات مفصلة لضمان عملية تحويل سلسة.
 ## المتطلبات الأساسية

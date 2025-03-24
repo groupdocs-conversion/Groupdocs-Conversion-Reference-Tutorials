@@ -6,6 +6,9 @@ description: Leer hoe u OTS-bestanden moeiteloos naar PDF-indeling kunt converte
 weight: 15
 url: /nl/net/pdf-conversion/convert-ots-to-pdf/
 ---
+
+# Converteer OTS naar PDF
+
 ## Invoering
 Op het gebied van documentconversie binnen .NET-toepassingen onderscheidt GroupDocs.Conversion voor .NET zich als een veelzijdig en krachtig hulpmiddel. Of u nu documenten van het ene formaat naar het andere wilt converteren of ze op verschillende manieren wilt manipuleren, GroupDocs.Conversion biedt een uitgebreide oplossing. In deze zelfstudie verdiepen we ons in het proces van het converteren van OTS-bestanden (OpenDocument Spreadsheet Template) naar PDF-indeling met behulp van GroupDocs.Conversion voor .NET. Door deze stapsgewijze instructies te volgen, kunt u de functionaliteit voor documentconversie naadloos integreren in uw .NET-toepassingen.
 ## Vereisten

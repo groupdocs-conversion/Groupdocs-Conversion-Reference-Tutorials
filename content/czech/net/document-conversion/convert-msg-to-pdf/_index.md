@@ -6,6 +6,9 @@ description: Převeďte soubory MSG do PDF bez námahy pomocí GroupDocs.Convers
 weight: 26
 url: /cs/net/document-conversion/convert-msg-to-pdf/
 ---
+
+# Převést MSG do PDF
+
 ## Úvod
 dnešní digitální době hraje konverze dokumentů zásadní roli při efektivní správě a sdílení informací. Ať už jste vývojář vytvářející aplikace nebo organizace, která zjednodušuje váš pracovní postup, schopnost převádět soubory z jednoho formátu do druhého je neocenitelná. V tomto tutoriálu se ponoříme do převodu souborů MSG (Formát zpráv Outlooku) do PDF (Portable Document Format) pomocí GroupDocs.Conversion for .NET.
 ## Předpoklady

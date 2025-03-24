@@ -6,6 +6,9 @@ description: Tanulja meg, hogyan konvertálhat zökkenőmentesen DWG CAD fájlok
 weight: 10
 url: /hu/net/convert-files-to-pdf/convert-dwg-to-pdf/
 ---
+
+# Konvertálja a DWG CAD fájlokat PDF-be
+
 ## Bevezetés
 Ebből az oktatóanyagból megtudjuk, hogyan konvertálhat DWG CAD fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. A GroupDocs.Conversion egy hatékony könyvtár, amely különféle dokumentumkonverziós funkciókat kínál.
 ## Előfeltételek

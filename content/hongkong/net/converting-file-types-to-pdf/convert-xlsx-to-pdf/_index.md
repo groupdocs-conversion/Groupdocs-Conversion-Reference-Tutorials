@@ -6,6 +6,9 @@ description: 使用 .NET 的 GroupDocs.Conversion 程式庫輕鬆將 XLSX 檔案
 weight: 25
 url: /zh-hant/net/converting-file-types-to-pdf/convert-xlsx-to-pdf/
 ---
+
+# 將 XLSX 轉換為 PDF
+
 ## 介紹
 在當今的數位世界中，將文件從一種格式無縫轉換為另一種格式的能力是必不可少的。無論您是從事專案的開發人員還是處理各種文件的個人，擁有可靠的文件轉換工具都至關重要。在本教學中，我們將深入研究使用強大的 .NET GroupDocs.Conversion 程式庫將 XLSX 檔案轉換為 PDF 的過程。該庫提供了有效且簡單的方法來轉換文件，同時保持內容的完整性。
 ## 先決條件

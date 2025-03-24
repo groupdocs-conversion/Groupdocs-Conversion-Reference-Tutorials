@@ -6,6 +6,9 @@ description: A GroupDocs.Conversion for .NET segítségével könnyedén konvert
 weight: 26
 url: /hu/net/document-conversion/convert-msg-to-pdf/
 ---
+
+# MSG konvertálása PDF-be
+
 ## Bevezetés
 mai digitális korban a dokumentumok konvertálása döntő szerepet játszik az információk hatékony kezelésében és megosztásában. Legyen szó alkalmazásokat fejlesztő fejlesztőről vagy munkafolyamatát egyszerűsítő szervezetről, a fájlok egyik formátumból a másikba konvertálása felbecsülhetetlen értékű. Ebben az oktatóanyagban az MSG (Outlook Message Format) fájlok PDF (Portable Document Format) formátumú konvertálásával foglalkozunk a GroupDocs.Conversion for .NET használatával.
 ## Előfeltételek

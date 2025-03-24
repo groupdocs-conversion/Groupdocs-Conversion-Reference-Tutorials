@@ -6,6 +6,9 @@ description: Bez námahy převádějte soubory PPTM do formátu PDF pomocí Grou
 weight: 27
 url: /cs/net/pdf-conversion/convert-pptm-to-pdf/
 ---
+
+# Převést PPTM do PDF
+
 ## Úvod
 V oblasti správy a konverze dokumentů je prvořadá efektivita. Ať už pracujete se soubory PowerPoint nebo PDF, možnost bezproblémového převodu mezi formáty může zefektivnit pracovní postupy a zvýšit produktivitu. GroupDocs.Conversion for .NET vyniká jako výkonný nástroj v této aréně a nabízí vývojářům komplexní řešení pro převod souborů PPTM (PowerPoint Macro-Enabled Presentation) do formátu PDF bez námahy.
 ## Předpoklady

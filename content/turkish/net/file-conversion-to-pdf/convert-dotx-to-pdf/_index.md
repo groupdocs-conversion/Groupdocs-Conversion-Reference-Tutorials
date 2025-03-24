@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET'i kullanarak DOTX Word şablonların�
 weight: 27
 url: /tr/net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---
+
+# DOTX Word Şablonlarını PDF'ye Dönüştürün
+
 ## giriiş
 Microsoft Word belgeleri, DOTX formatında şablonlar oluşturmak da dahil olmak üzere çeşitli amaçlarla yaygın olarak kullanılmaktadır. Ancak daha kolay paylaşım, yazdırma veya arşivleme amacıyla bu DOTX şablonlarını PDF'ye dönüştürmeniz gereken durumlar olabilir. Bu eğitimde, GroupDocs.Conversion for .NET'i kullanarak DOTX Word şablonlarını PDF'ye dönüştürme sürecinde size rehberlik edeceğiz.
 ## Önkoşullar

@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET'i kullanarak ONE dosyalarını zahmet
 weight: 11
 url: /tr/net/pdf-conversion/convert-one-to-pdf/
 ---
+
+# ONE'ı PDF'ye dönüştür
+
 ## giriiş
 
 Bu öğreticide, GroupDocs.Conversion for .NET'i kullanarak bir ONE dosyasını PDF formatına dönüştürme sürecinde size rehberlik edeceğiz. Bu dönüşümü sorunsuz bir şekilde gerçekleştirmek için aşağıdaki adımları izleyin.

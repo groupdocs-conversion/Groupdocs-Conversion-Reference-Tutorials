@@ -6,6 +6,9 @@ description: เรียนรู้วิธีแปลงไฟล์ DWG CA
 weight: 10
 url: /th/net/convert-files-to-pdf/convert-dwg-to-pdf/
 ---
+
+# แปลงไฟล์ DWG CAD เป็น PDF
+
 ## การแนะนำ
 ในบทช่วยสอนนี้ เราจะได้เรียนรู้วิธีแปลงไฟล์ DWG CAD เป็น PDF โดยใช้ GroupDocs.Conversion สำหรับ .NET GroupDocs.Conversion เป็นไลบรารีที่มีประสิทธิภาพซึ่งมีฟังก์ชันการแปลงเอกสารที่หลากหลาย
 ## ข้อกำหนดเบื้องต้น

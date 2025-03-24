@@ -6,6 +6,9 @@ description: Könnyedén konvertálhat HTML weboldalakat PDF formátumba a Group
 weight: 22
 url: /hu/net/convert-files-to-pdf/convert-html-to-pdf/
 ---
+
+# HTML weblapok konvertálása PDF formátumba
+
 ## Bevezetés
 Napjaink digitális korában a különböző dokumentumformátumok zökkenőmentes konvertálásának képessége alapvető fontosságú a vállalkozások és a magánszemélyek számára. Legyen szó HTML-weboldalak PDF formátumú konvertálásáról az egyszerű megosztás vagy archiválás érdekében, a megfelelő eszközök birtokában mindent megváltoztathat. Ebben az oktatóanyagban megvizsgáljuk, hogyan lehet a GroupDocs.Conversion for .NET segítségével hatékonyan konvertálni HTML-weboldalakat PDF formátumba.
 ## Előfeltételek

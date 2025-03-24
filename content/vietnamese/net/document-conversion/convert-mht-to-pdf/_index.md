@@ -6,6 +6,9 @@ description: Chuyển đổi tệp MHT sang PDF dễ dàng bằng GroupDocs.Conv
 weight: 21
 url: /vi/net/document-conversion/convert-mht-to-pdf/
 ---
+
+# Chuyển MHT sang PDF
+
 ## Giới thiệu
 Trong thế giới phát triển .NET, việc chuyển đổi tệp từ định dạng này sang định dạng khác là một nhiệm vụ phổ biến. Cho dù bạn đang xử lý tài liệu, hình ảnh hay các loại tệp khác, khả năng chuyển đổi liền mạch giữa các định dạng có thể vô cùng quý giá. Một công cụ mạnh mẽ hỗ trợ chức năng này là GroupDocs.Conversion for .NET.
 Trong hướng dẫn này, chúng ta sẽ tập trung vào một tác vụ chuyển đổi cụ thể: chuyển đổi tệp MHT (MIME HTML) sang PDF (Định dạng Tài liệu Di động) bằng GroupDocs.Conversion cho .NET. Chúng ta sẽ thực hiện quy trình này từng bước một, chia nhỏ từng ví dụ thành các phần có thể quản lý được để đảm bảo bạn hiểu rõ ràng.

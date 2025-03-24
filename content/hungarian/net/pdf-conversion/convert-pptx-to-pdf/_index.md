@@ -6,6 +6,9 @@ description: Ismerje meg, hogyan konvertálhat PowerPoint prezentációkat (PPTX
 weight: 29
 url: /hu/net/pdf-conversion/convert-pptx-to-pdf/
 ---
+
+# A PPTX konvertálása PDF-be
+
 ## Bevezetés
 Ebben az oktatóanyagban végigvezetjük a PowerPoint-prezentáció (PPTX) fájl Portable Document Format (PDF) formátumú konvertálásának folyamatát a GroupDocs.Conversion .NET könyvtár használatával. Kövesse az alábbi lépéseket az átalakítás eléréséhez.
 ## Előfeltételek

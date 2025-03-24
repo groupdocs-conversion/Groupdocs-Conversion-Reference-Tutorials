@@ -6,6 +6,9 @@ description: Naučte se, jak převést obrázky J2K (JPEG 2000) do PDF bez náma
 weight: 28
 url: /cs/net/convert-files-to-pdf/convert-j2k-to-pdf/
 ---
+
+# Převod obrázků J2K JPEG 2000 do PDF
+
 ## Úvod
 V oblasti vývoje softwaru je efektivní zpracování převodů dokumentů zásadní pro různé aplikace. Jedním z takových mocných nástrojů pro vývojáře .NET je GroupDocs.Conversion, všestranná knihovna, která usnadňuje bezproblémovou konverzi různých formátů souborů. V tomto tutoriálu se ponoříme do procesu použití GroupDocs.Conversion for .NET k převodu obrázků J2K (JPEG 2000) do formátu PDF. Díky podrobným krokům a úryvkům kódu celý proces bez námahy pochopíte.
 ## Předpoklady

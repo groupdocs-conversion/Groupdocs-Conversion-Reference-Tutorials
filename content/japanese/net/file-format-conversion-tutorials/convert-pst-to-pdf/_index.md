@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET を使用して、PST ファイルを
 weight: 12
 url: /ja/net/file-format-conversion-convert-pst-to-pdf/
 ---
+
+# PSTをPDFに変換
+
 ## 導入
 ドキュメント管理の分野では、ファイルをある形式から別の形式にシームレスに変換できる機能が最も重要です。電子メール、スプレッドシート、プレゼンテーションのいずれを扱う場合でも、信頼できる変換ツールがあれば、ワークフローが合理化され、生産性が向上します。このチュートリアルでは、GroupDocs.Conversion for .NET を使用して PST (Personal Storage Table) ファイルを PDF 形式に変換する方法を詳しく説明します。
 ## 前提条件

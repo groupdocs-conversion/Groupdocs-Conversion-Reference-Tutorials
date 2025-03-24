@@ -6,6 +6,9 @@ description: Tanulja meg, hogyan konvertálhat könnyedén PSD-fájlokat PDF-be 
 weight: 10
 url: /hu/net/file-format-conversion-convert-psd-to-pdf/
 ---
+
+# PSD konvertálása PDF-be
+
 ## Bevezetés
 Ebben az oktatóanyagban végigvezetjük a PSD (Photoshop Document) fájlok PDF formátumba konvertálásának folyamatán a GroupDocs.Conversion .NET könyvtár használatával. A lépésenkénti utasítások követésével könnyedén konvertálhatja PSD fájljait PDF formátumba.
 ## Előfeltételek

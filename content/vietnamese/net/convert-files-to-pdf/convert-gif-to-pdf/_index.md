@@ -6,6 +6,9 @@ description: Dễ dàng chuyển đổi hình ảnh GIF thành tệp PDF bằng 
 weight: 21
 url: /vi/net/convert-files-to-pdf/convert-gif-to-pdf/
 ---
+
+# Chuyển đổi hình ảnh GIF sang PDF
+
 ## Giới thiệu
 Trong thế giới kỹ thuật số ngày nay, khả năng thao tác và chuyển đổi các định dạng tệp khác nhau là rất quan trọng. Cho dù bạn là nhà phát triển, chuyên gia kinh doanh hay người dùng hàng ngày, việc có các công cụ phù hợp để chuyển đổi tệp có thể hợp lý hóa quy trình công việc và nâng cao năng suất. Một công cụ nổi bật như vậy là GroupDocs.Conversion cho .NET. Thư viện mạnh mẽ này cung cấp một bộ tính năng toàn diện để chuyển đổi nhiều loại tệp một cách dễ dàng.
 ## Điều kiện tiên quyết

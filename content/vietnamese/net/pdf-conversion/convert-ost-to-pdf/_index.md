@@ -6,6 +6,9 @@ description: Chuyển đổi tệp OST sang PDF dễ dàng bằng GroupDocs.Conv
 weight: 12
 url: /vi/net/pdf-conversion/convert-ost-to-pdf/
 ---
+
+# Chuyển đổi OST sang PDF
+
 ## Giới thiệu
 Trong thế giới phát triển phần mềm, nhu cầu chuyển đổi file từ định dạng này sang định dạng khác là yêu cầu chung. Cho dù vì lý do tương thích, mục đích lưu trữ hay đơn giản là làm cho nội dung dễ truy cập hơn, việc chuyển đổi tệp đóng một vai trò quan trọng trong các ứng dụng khác nhau. GroupDocs.Conversion for .NET cung cấp giải pháp mạnh mẽ cho các nhà phát triển đang tìm cách tích hợp khả năng chuyển đổi tệp vào các ứng dụng .NET của họ một cách liền mạch. Trong hướng dẫn này, chúng tôi sẽ đi sâu vào cách chuyển đổi tệp OST (Bảng lưu trữ ngoại tuyến Outlook) sang PDF (Định dạng tài liệu di động) bằng GroupDocs.Conversion cho .NET.
 ## Điều kiện tiên quyết

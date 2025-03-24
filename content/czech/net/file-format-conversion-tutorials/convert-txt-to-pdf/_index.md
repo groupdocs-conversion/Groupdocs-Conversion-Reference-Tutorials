@@ -6,6 +6,9 @@ description: Převeďte TXT do PDF bez námahy pomocí GroupDocs.Conversion for 
 weight: 22
 url: /cs/net/file-format-conversion-convert-txt-to-pdf/
 ---
+
+# Převést TXT do PDF
+
 ## Úvod
 dnešní digitální éře je schopnost programově manipulovat s formáty dokumentů zásadní pro mnoho softwarových aplikací. Ať už budujete systém správy dokumentů, online editor nebo prostě potřebujete převádět soubory z jednoho formátu do druhého, mít spolehlivý a účinný nástroj pro převod je zásadní. Jedním z takových nástrojů, který vyniká, je GroupDocs.Conversion for .NET.
 ## Předpoklady

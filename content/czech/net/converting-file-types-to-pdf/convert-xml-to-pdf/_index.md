@@ -6,6 +6,9 @@ description: Naučte se, jak plynule převádět soubory XML do PDF pomocí Grou
 weight: 29
 url: /cs/net/converting-file-types-to-pdf/convert-xml-to-pdf/
 ---
+
+# Převést XML do PDF
+
 ## Úvod
 V dnešní digitální době je schopnost plynule převádět soubory z jednoho formátu do druhého prvořadá. Ať už jste vývojář, obchodní profesionál nebo prostě jednotlivec s různými potřebami formátu souborů, přístup ke spolehlivým konverzním nástrojům může zefektivnit váš pracovní postup a zvýšit produktivitu.
 GroupDocs.Conversion for .NET je výkonná knihovna, která poskytuje vývojářům možnost programově převádět širokou škálu formátů dokumentů. Od převodu XML do PDF po transformaci dokumentů Microsoft Word do HTML, tento všestranný nástroj nabízí řadu funkcí pro splnění různých požadavků na převod.

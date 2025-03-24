@@ -6,6 +6,9 @@ description: Converteer MSG-bestanden moeiteloos naar PDF met GroupDocs.Conversi
 weight: 26
 url: /nl/net/document-conversion/convert-msg-to-pdf/
 ---
+
+# Converteer MSG naar PDF
+
 ## Invoering
 In het huidige digitale tijdperk speelt documentconversie een cruciale rol bij het efficiënt beheren en delen van informatie. Of u nu een ontwikkelaar bent die applicaties bouwt of een organisatie bent die uw workflow stroomlijnt, de mogelijkheid om bestanden van het ene formaat naar het andere te converteren is van onschatbare waarde. In deze zelfstudie gaan we dieper in op het converteren van MSG-bestanden (Outlook Message Format) naar PDF (Portable Document Format) met behulp van GroupDocs.Conversion voor .NET.
 ## Vereisten

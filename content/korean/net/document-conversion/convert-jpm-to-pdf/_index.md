@@ -6,6 +6,9 @@ description: .NET용 GroupDocs.Conversion을 사용하여 JPM 파일을 PDF로 �
 weight: 15
 url: /ko/net/document-conversion/convert-jpm-to-pdf/
 ---
+
+# JPM을 PDF로 변환
+
 ## 소개
 오늘날의 디지털 세계에서는 파일을 한 형식에서 다른 형식으로 변환해야 하는 필요성이 점점 더 일반화되고 있습니다. 호환성 이유, 저장소 최적화, 공유 목적 등 파일을 원활하게 변환하는 기능을 갖는 것은 매우 중요합니다. 다행히 GroupDocs.Conversion for .NET과 같은 강력한 라이브러리의 출현으로 이러한 변환을 수행하는 것이 그 어느 때보다 쉬워졌습니다.
 ## 전제 조건

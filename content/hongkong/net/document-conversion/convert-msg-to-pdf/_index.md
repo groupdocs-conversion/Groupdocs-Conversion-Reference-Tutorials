@@ -6,6 +6,9 @@ description: 使用 GroupDocs.Conversion for .NET 輕鬆將 MSG 檔案轉換為 
 weight: 26
 url: /zh-hant/net/document-conversion/convert-msg-to-pdf/
 ---
+
+# 將 MSG 轉換為 PDF
+
 ## 介紹
 在當今的數位時代，文件轉換在有效管理和共享資訊方面發揮著至關重要的作用。無論您是建立應用程式的開發人員還是簡化工作流程的組織，擁有將文件從一種格式轉換為另一種格式的能力都是非常寶貴的。在本教學中，我們將深入研究使用 GroupDocs.Conversion for .NET 將 MSG（Outlook 訊息格式）檔案轉換為 PDF（便攜式文件格式）。
 ## 先決條件

@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET'i kullanarak WMF dosyalarını zahmet
 weight: 19
 url: /tr/net/converting-file-types-to-pdf/convert-wmf-to-pdf/
 ---
+
+# WMF'yi PDF'ye dönüştür
+
 ## giriiş
 Belge işleme ve dönüştürme alanında GroupDocs.Conversion for .NET, geliştiriciler için güçlü bir araç seti olarak öne çıkıyor. Çok yönlü özellikleri arasında WMF (Windows Meta Dosyası) dosyalarını her yerde bulunan PDF'ye (Taşınabilir Belge Formatı) dönüştürme yeteneği de vardır. Bu eğitim, süreç boyunca size adım adım rehberlik edecek ve bu işlevselliği .NET uygulamalarınıza sorunsuz bir şekilde entegre edebilmenizi sağlayacaktır.
 ## Önkoşullar

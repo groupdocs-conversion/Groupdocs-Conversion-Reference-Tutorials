@@ -6,6 +6,9 @@ description: Scopri come convertire file POTX in PDF utilizzando GroupDocs.Conve
 weight: 23
 url: /it/net/pdf-conversion/convert-potx-to-pdf/
 ---
+
+# Converti POTX in PDF
+
 ## introduzione
 Nel campo della manipolazione e conversione dei documenti, GroupDocs.Conversion per .NET emerge come uno strumento potente, offrendo funzionalità di conversione senza soluzione di continuità per una varietà di formati di file. In questo tutorial, approfondiremo il processo di conversione dei file POTX (modello PowerPoint) in PDF utilizzando la libreria GroupDocs.Conversion in .NET.
 ## Prerequisiti

@@ -6,6 +6,9 @@ description: Aprenda como converter arquivos XLAM em PDF sem esforço usando Gro
 weight: 21
 url: /pt/net/converting-file-types-to-pdf/convert-xlam-to-pdf/
 ---
+
+# Converter XLAM em PDF
+
 ## Introdução
 Na era digital, a necessidade de converter documentos de um formato para outro tornou-se cada vez mais predominante. Seja por motivos de compatibilidade, arquivamento ou compartilhamento, é essencial ter uma ferramenta confiável para conversão de arquivos. Neste tutorial, nos aprofundaremos no uso do GroupDocs.Conversion for .NET para converter arquivos XLAM para o formato PDF sem esforço.
 ## Pré-requisitos

@@ -6,6 +6,9 @@ description: Könnyedén konvertálhat PST-fájlokat PDF-be a GroupDocs.Conversi
 weight: 12
 url: /hu/net/file-format-conversion-convert-pst-to-pdf/
 ---
+
+# PST konvertálása PDF-be
+
 ## Bevezetés
 A dokumentumkezelés területén a fájlok zökkenőmentes konvertálása egyik formátumból a másikba a legfontosabb. Legyen szó e-mailekről, táblázatokról vagy prezentációkról, egy megbízható konverziós eszköz leegyszerűsítheti a munkafolyamatokat és növelheti a termelékenységet. Ebben az oktatóanyagban megvizsgáljuk, hogyan lehet PST (Personal Storage Table) fájlokat PDF formátumba konvertálni a GroupDocs.Conversion for .NET segítségével.
 ## Előfeltételek

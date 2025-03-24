@@ -6,6 +6,9 @@ description: Tìm hiểu cách chuyển đổi tệp JPEG-LS (.JLS) sang định
 weight: 29
 url: /vi/net/convert-files-to-pdf/convert-jls-to-pdf/
 ---
+
+# Chuyển đổi tệp JPEG-LS (.JLS) sang PDF
+
 ## Giới thiệu
 Trong lĩnh vực phát triển phần mềm, khả năng chuyển đổi liền mạch các tệp từ định dạng này sang định dạng khác thường rất quan trọng. Cho dù đó là vì mục đích di chuyển dữ liệu, mục đích tương thích hay chỉ đơn giản là hợp lý hóa quy trình công việc, việc có khả năng chuyển đổi mạnh mẽ có thể nâng cao năng suất một cách đáng kể. Trong hướng dẫn này, chúng ta sẽ đi sâu vào quy trình chuyển đổi tệp JPEG-LS (.JLS) sang định dạng PDF bằng GroupDocs.Conversion cho .NET.
 ## Điều kiện tiên quyết

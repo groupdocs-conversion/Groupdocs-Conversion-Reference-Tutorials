@@ -6,6 +6,9 @@ description: Bez námahy převádějte dokumenty DOCM Word s makry do PDF pomoc�
 weight: 22
 url: /cs/net/file-conversion-to-pdf/convert-docm-to-pdf/
 ---
+
+# Převeďte dokumenty DOCM Word (makra) do PDF
+
 ## Úvod
 oblasti správy a manipulace s dokumenty je převod souborů z jednoho formátu do druhého často nutností. Ať už pracujete s dokumenty Wordu obsahujícími makra (soubory DOCM) nebo je potřebujete transformovat do PDF pro širší přístupnost, mít k dispozici ty správné nástroje je zásadní. V tomto tutoriálu se ponoříme do toho, jak efektivně převádět dokumenty DOCM Word, včetně maker, do PDF pomocí výkonné knihovny GroupDocs.Conversion pro .NET.
 ## Předpoklady

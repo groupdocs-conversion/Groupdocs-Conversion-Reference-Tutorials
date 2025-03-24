@@ -6,6 +6,9 @@ description: Легко конвертируйте метафайлы Windows EM
 weight: 13
 url: /ru/net/convert-files-to-pdf/convert-emf-to-pdf/
 ---
+
+# Конвертировать метафайлы EMF Windows в PDF
+
 ## Введение
 В этом руководстве мы рассмотрим процесс преобразования метафайлов Windows EMF (расширенный метафайл) в формат PDF с помощью GroupDocs.Conversion для .NET.
 ## Предварительные условия

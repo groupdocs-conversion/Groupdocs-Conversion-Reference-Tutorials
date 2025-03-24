@@ -6,6 +6,9 @@ description: .NET용 GroupDocs.Conversion을 사용하여 CMX 파일을 PDF 형�
 weight: 15
 url: /ko/net/file-conversion-to-pdf/convert-cmx-to-pdf/
 ---
+
+# CMX를 PDF로 변환
+
 ## 소개
 소프트웨어 개발 영역에서는 파일을 한 형식에서 다른 형식으로 원활하게 변환하는 기능이 매우 중요합니다. 텍스트 문서, 이미지, 멀티미디어 파일 등 무엇을 처리하든 신뢰할 수 있는 변환 도구를 사용하면 시간과 노력을 절약할 수 있습니다. 이 튜토리얼에서는 강력한 .NET용 GroupDocs.Conversion 라이브러리를 사용하여 CorelDRAW 파일(CMX)을 PDF(Portable Document Format)로 변환하는 프로세스를 자세히 살펴보겠습니다.
 ## 전제 조건

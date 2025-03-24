@@ -6,6 +6,9 @@ description: Bez wysiłku konwertuj szablony DOTX Word do formatu PDF za pomocą
 weight: 27
 url: /pl/net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---
+
+# Konwertuj szablony Word DOTX na format PDF
+
 ## Wstęp
 Dokumenty Microsoft Word są szeroko wykorzystywane do różnych celów, w tym do tworzenia szablonów w formacie DOTX. Jednakże mogą zaistnieć przypadki, w których konieczne będzie przekonwertowanie szablonów DOTX na format PDF w celu łatwiejszego udostępniania, drukowania lub archiwizacji. W tym samouczku przeprowadzimy Cię przez proces konwertowania szablonów DOTX Word do formatu PDF przy użyciu GroupDocs.Conversion dla .NET.
 ## Warunki wstępne

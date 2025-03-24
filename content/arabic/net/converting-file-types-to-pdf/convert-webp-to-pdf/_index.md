@@ -6,6 +6,9 @@ description: قم بتحويل ملفات WebP بسهولة إلى تنسيق PD
 weight: 18
 url: /ar/net/converting-file-types-to-pdf/convert-webp-to-pdf/
 ---
+
+# تحويل WebP إلى PDF
+
 ## مقدمة
 في هذا البرنامج التعليمي، سنرشدك خلال عملية تحويل ملفات WebP إلى تنسيق PDF باستخدام GroupDocs.Conversion for .NET. اتبع هذه الخطوات لتحقيق تحويل سلس:
 

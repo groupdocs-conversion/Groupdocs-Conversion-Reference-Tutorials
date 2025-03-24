@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET'i kullanarak EMF Windows Meta Dosyala
 weight: 13
 url: /tr/net/convert-files-to-pdf/convert-emf-to-pdf/
 ---
+
+# EMF Windows Meta Dosyalarını PDF'ye Dönüştürün
+
 ## giriiş
 Bu öğreticide, GroupDocs.Conversion for .NET'i kullanarak EMF (Gelişmiş Meta Dosyası) Windows Meta Dosyalarını PDF formatına dönüştürme sürecini anlatacağız.
 ## Önkoşullar

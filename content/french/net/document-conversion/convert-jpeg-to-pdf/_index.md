@@ -6,6 +6,9 @@ description: Convertissez JPEG en PDF en toute transparence à l'aide de GroupDo
 weight: 12
 url: /fr/net/document-conversion/convert-jpeg-to-pdf/
 ---
+
+# Convertir JPEG en PDF
+
 ## Introduction
 Dans le monde du développement logiciel, la conversion de fichiers d'un format à un autre est une tâche courante. Qu'il s'agisse de convertir des images en PDF, des documents en images ou toute autre transformation de format de fichier, il est crucial de disposer d'un outil fiable pour accomplir cette tâche efficacement. L'un de ces outils est GroupDocs.Conversion pour .NET, une bibliothèque puissante qui offre aux développeurs la possibilité de convertir différents formats de fichiers de manière transparente.
 ## Conditions préalables

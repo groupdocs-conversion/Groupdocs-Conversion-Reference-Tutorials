@@ -6,6 +6,9 @@ description: Převádějte DGN CAD soubory do PDF bez problémů pomocí GroupDo
 weight: 17
 url: /cs/net/file-conversion-to-pdf/convert-dgn-to-pdf/
 ---
+
+# Převeďte soubory DGN CAD do PDF
+
 ## Úvod
 oblasti vývoje softwaru je schopnost plynule převádět soubory z jednoho formátu do druhého prvořadá. Ať už z důvodu migrace dat, kompatibility nebo jednoduše kvůli snadnému použití, mít k dispozici robustní konverzní nástroje může znamenat velký rozdíl. V tomto tutoriálu se ponoříme do procesu převodu souborů DGN CAD do PDF pomocí GroupDocs.Conversion for .NET.
 ## Předpoklady

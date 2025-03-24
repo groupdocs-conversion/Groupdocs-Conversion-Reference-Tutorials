@@ -6,6 +6,9 @@ description: Konvertera enkelt DOCM Word-dokument med makron till PDF-filer med 
 weight: 22
 url: /sv/net/file-conversion-to-pdf/convert-docm-to-pdf/
 ---
+
+# Konvertera DOCM Word-dokument (makron) till PDF
+
 ## Introduktion
 När det gäller dokumenthantering och manipulation är det ofta en nödvändighet att konvertera filer från ett format till ett annat. Oavsett om du har att göra med Word-dokument som innehåller makron (DOCM-filer) eller behöver omvandla dem till PDF-filer för bredare tillgänglighet, är det avgörande att ha rätt verktyg till ditt förfogande. I den här handledningen kommer vi att fördjupa oss i hur du effektivt konverterar DOCM Word-dokument, inklusive makron, till PDF-filer med hjälp av det kraftfulla GroupDocs.Conversion-biblioteket för .NET.
 ## Förutsättningar

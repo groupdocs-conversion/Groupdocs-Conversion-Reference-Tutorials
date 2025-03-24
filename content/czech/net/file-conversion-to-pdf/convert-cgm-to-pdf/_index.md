@@ -6,6 +6,9 @@ description: Naučte se, jak převést vektorovou grafiku CGM do PDF bez námahy
 weight: 14
 url: /cs/net/file-conversion-to-pdf/convert-cgm-to-pdf/
 ---
+
+# Převod vektorové grafiky CGM do PDF
+
 ## Úvod
 V tomto tutoriálu vás provedeme procesem převodu vektorové grafiky CGM (Computer Graphics Metafile) do formátu PDF pomocí GroupDocs.Conversion for .NET. CGM je souborový formát používaný pro vektorovou grafiku, běžně používaný v technických výkresech, ilustracích a dalších grafických aplikacích.
 ## Předpoklady

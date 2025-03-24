@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET を使用して、マクロを含む 
 weight: 25
 url: /ja/net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---
+
+# DOTM Word テンプレート (マクロ) を PDF に変換
+
 ## 導入
 Microsoft Word DOTM テンプレートにはマクロが含まれることが多く、さまざまなプラットフォームまたはアプリケーション間で互換性の問題が発生する可能性があります。 PDF 形式に変換すると、ユニバーサルなアクセシビリティが保証されるだけでなく、マクロに関連する潜在的なセキュリティ リスクも排除されます。このチュートリアルでは、GroupDocs.Conversion for .NET を使用して DOTM ファイルを PDF に変換する手順を説明します。
 ## 前提条件

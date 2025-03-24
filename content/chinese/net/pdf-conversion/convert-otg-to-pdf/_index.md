@@ -6,6 +6,9 @@ description: 了解如何使用 GroupDocs.Conversion for .NET 将 OTG 文件转�
 weight: 13
 url: /zh/net/pdf-conversion/convert-otg-to-pdf/
 ---
+
+# 将 OTG 转换为 PDF
+
 ## 介绍
 将 OTG（OpenDocument Graphics）文件转换为 PDF 格式可能是一项至关重要的任务，尤其是在处理文档管理系统或跨不同平台共享文件时。在本教程中，我们将指导您完成使用 .NET 的 GroupDocs.Conversion 库将 OTG 文件转换为 PDF 的过程。让我们深入了解吧！
 ## 先决条件

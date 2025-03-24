@@ -6,6 +6,9 @@ description: .NET용 GroupDocs.Conversion을 사용하여 DOCX Word 문서를 PD
 weight: 24
 url: /ko/net/file-conversion-to-pdf/convert-docx-to-pdf/
 ---
+
+# DOCX Word 문서를 PDF로 변환
+
 ## 소개
 문서 관리 영역에서는 파일을 한 형식에서 다른 형식으로 변환하는 것이 필요한 경우가 많습니다. 호환성 이유, 보관 목적 또는 단순한 선호도 등 어떤 이유로든 형식 간에 원활하게 변환할 수 있는 것이 중요합니다. 이 튜토리얼에서는 .NET용 GroupDocs.Conversion 라이브러리를 사용하여 DOCX Word 문서를 PDF로 손쉽게 변환하는 방법을 살펴보겠습니다. 이러한 단계별 지침을 따르면 그러한 전환을 쉽게 처리할 수 있는 준비를 갖추게 됩니다.
 ## 전제 조건

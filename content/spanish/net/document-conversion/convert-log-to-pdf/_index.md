@@ -6,6 +6,9 @@ description: Convierta sin esfuerzo archivos LOG a formato PDF en aplicaciones .
 weight: 17
 url: /es/net/document-conversion/convert-log-to-pdf/
 ---
+
+# Convertir registro a PDF
+
 ## Introducción
 En el mundo digital actual, la necesidad de herramientas eficientes de conversión de documentos se ha vuelto primordial. Ya sea para archivar, compartir documentos en diferentes plataformas o simplemente garantizar la compatibilidad, convertir archivos de un formato a otro es una tarea común. Cuando se trata de convertir archivos LOG a formato PDF en aplicaciones .NET, GroupDocs.Conversion para .NET surge como una solución poderosa.
 ## Requisitos previos

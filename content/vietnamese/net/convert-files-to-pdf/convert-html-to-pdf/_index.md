@@ -6,6 +6,9 @@ description: Dễ dàng chuyển đổi các trang web HTML sang định dạng 
 weight: 22
 url: /vi/net/convert-files-to-pdf/convert-html-to-pdf/
 ---
+
+# Chuyển đổi trang web HTML sang PDF
+
 ## Giới thiệu
 Trong thời đại kỹ thuật số ngày nay, khả năng chuyển đổi liền mạch các định dạng tài liệu khác nhau là rất quan trọng đối với các doanh nghiệp cũng như cá nhân. Cho dù đó là chuyển đổi các trang web HTML sang PDF để dễ dàng chia sẻ hoặc lưu trữ, việc có các công cụ phù hợp có thể tạo nên sự khác biệt. Trong hướng dẫn này, chúng ta sẽ khám phá cách sử dụng GroupDocs.Conversion cho .NET để chuyển đổi các trang web HTML sang định dạng PDF một cách hiệu quả.
 ## Điều kiện tiên quyết

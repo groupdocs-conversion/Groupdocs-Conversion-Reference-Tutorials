@@ -6,6 +6,9 @@ description: Converti facilmente file ODS in PDF utilizzando GroupDocs.Conversio
 weight: 29
 url: /it/net/document-conversion/convert-ods-to-pdf/
 ---
+
+# Converti ODS in PDF
+
 ## introduzione
 Nel campo della manipolazione e conversione dei documenti, GroupDocs.Conversion per .NET emerge come uno strumento potente, fornendo funzionalità di conversione senza soluzione di continuità per vari formati di file. Questo articolo approfondisce le complessità della conversione di file ODS (OpenDocument Spreadsheet) in PDF (Portable Document Format) utilizzando GroupDocs.Conversion per .NET. 
 ## Prerequisiti

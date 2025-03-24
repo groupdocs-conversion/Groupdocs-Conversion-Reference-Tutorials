@@ -6,6 +6,9 @@ description: .NET용 GroupDocs.Conversion을 사용하여 J2K(JPEG 2000) 이미�
 weight: 28
 url: /ko/net/convert-files-to-pdf/convert-j2k-to-pdf/
 ---
+
+# J2K JPEG 2000 이미지를 PDF로 변환
+
 ## 소개
 소프트웨어 개발 영역에서 문서 변환을 효율적으로 처리하는 것은 다양한 애플리케이션에 매우 중요합니다. .NET 개발자를 위한 강력한 도구 중 하나는 다양한 파일 형식의 원활한 변환을 용이하게 하는 다목적 라이브러리인 GroupDocs.Conversion입니다. 이 자습서에서는 .NET용 GroupDocs.Conversion을 사용하여 J2K(JPEG 2000) 이미지를 PDF 형식으로 변환하는 프로세스를 자세히 살펴보겠습니다. 자세한 단계와 코드 조각을 통해 프로세스를 쉽게 파악할 수 있습니다.
 ## 전제 조건

@@ -6,6 +6,9 @@ description: تعرف على كيفية تحويل VDW إلى PDF باستخدا
 weight: 24
 url: /ar/net/file-format-conversion-convert-vdw-to-pdf/
 ---
+
+# تحويل VDW إلى PDF
+
 ## مقدمة
 تعد GroupDocs.Conversion for .NET مكتبة قوية لتحويل المستندات تمكن المطورين من تحويل تنسيقات الملفات المختلفة بسهولة إلى PDF والتنسيقات المدعومة الأخرى. في هذا البرنامج التعليمي، سنركز على تحويل ملفات VDW (Visio Web Draw) إلى تنسيق PDF باستخدام GroupDocs.Conversion for .NET.
 ## المتطلبات الأساسية

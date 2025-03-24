@@ -6,6 +6,9 @@ description: Tanulja meg, hogyan konvertálhat XLSM fájlokat könnyedén PDF fo
 weight: 23
 url: /hu/net/converting-file-types-to-pdf/convert-xlsm-to-pdf/
 ---
+
+# Konvertálja az XLSM-et PDF-be
+
 ## Bevezetés
 Ebben az oktatóanyagban az XLSM-fájlok PDF formátumba konvertálásának folyamatát mutatjuk be a hatékony GroupDocs.Conversion for .NET könyvtár használatával. A fájlok konvertálása sok alkalmazásban gyakori feladat, és a GroupDocs.Conversion leegyszerűsíti ezt a folyamatot, hatékony és megbízható átalakítási lehetőségeket kínálva.
 ## Előfeltételek

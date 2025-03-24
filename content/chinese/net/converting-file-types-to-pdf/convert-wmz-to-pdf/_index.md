@@ -6,6 +6,9 @@ description: 了解如何使用 GroupDocs.Conversion for .NET 轻松将 WMZ 文�
 weight: 20
 url: /zh/net/converting-file-types-to-pdf/convert-wmz-to-pdf/
 ---
+
+# 将 WMZ 文件转换为PDF文件
+
 ## 介绍
 在软件开发领域，将文件从一种格式无缝转换为另一种格式的能力是必不可少的。无论是为了兼容性而转换文档，还是为了各种目的而转换媒体文件，拥有强大的转换功能都可以简化工作流程并提高工作效率。在本教程中，我们将深入研究使用的复杂性**GroupDocs.Conversion for .NET**将 WMZ（Windows 图元文件）文件转换为 PDF（便携式文档格式），这是一种普遍存在的多功能文档格式。
 ## 先决条件

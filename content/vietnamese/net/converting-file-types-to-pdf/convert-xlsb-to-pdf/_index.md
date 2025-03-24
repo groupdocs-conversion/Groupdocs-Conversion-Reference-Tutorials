@@ -6,6 +6,9 @@ description: Tìm hiểu cách chuyển đổi tệp XLSB sang PDF dễ dàng b�
 weight: 22
 url: /vi/net/converting-file-types-to-pdf/convert-xlsb-to-pdf/
 ---
+
+# Chuyển XLSB sang PDF
+
 ## Giới thiệu
 Trong lĩnh vực phát triển phần mềm, nhu cầu chuyển đổi tập tin từ định dạng này sang định dạng khác là một nhiệm vụ phổ biến. Cho dù đó là vì lý do xử lý dữ liệu, quản lý tài liệu hay vì lý do tương thích thì việc có một công cụ đáng tin cậy để chuyển đổi tệp là điều không thể thiếu. GroupDocs.Conversion for .NET là một thư viện mạnh mẽ hỗ trợ chuyển đổi liền mạch giữa các định dạng tệp khác nhau. Trong hướng dẫn này, chúng ta sẽ đi sâu vào cách sử dụng GroupDocs.Conversion cho .NET để chuyển đổi tệp XLSB sang định dạng PDF.
 ## Điều kiện tiên quyết

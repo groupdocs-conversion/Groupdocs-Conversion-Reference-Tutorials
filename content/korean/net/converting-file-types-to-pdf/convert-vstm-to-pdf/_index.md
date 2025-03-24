@@ -6,6 +6,9 @@ description: .NET용 GroupDocs.Conversion을 사용하여 VSTM 파일을 PDF 형
 weight: 13
 url: /ko/net/converting-file-types-to-pdf/convert-vstm-to-pdf/
 ---
+
+# VSTM을 PDF로 변환
+
 ## 소개
 오늘날 디지털 시대에는 효율적인 문서 관리 및 변환 도구의 필요성이 무엇보다 중요합니다. 문서 변환 기능을 응용 프로그램에 통합하려는 개발자이거나 파일을 한 형식에서 다른 형식으로 변환하는 원활한 솔루션을 원하는 최종 사용자라면 GroupDocs.Conversion for .NET은 안정적이고 강력한 도구로 떠오릅니다.
 ## 전제 조건

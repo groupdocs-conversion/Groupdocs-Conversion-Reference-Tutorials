@@ -6,6 +6,9 @@ description: Ismerje meg, hogyan konvertálhat VSTX fájlokat PDF formátumba a 
 weight: 15
 url: /hu/net/converting-file-types-to-pdf/convert-vstx-to-pdf/
 ---
+
+# A VSTX konvertálása PDF-be
+
 ## Bevezetés
 Ebben az oktatóanyagban végigvezetjük a VSTX-fájlok PDF-formátumba konvertálásának folyamatán a GroupDocs.Conversion for .NET használatával. Ez a nagy teljesítményű könyvtár zökkenőmentes átalakítást tesz lehetővé a különböző dokumentumformátumok között, rugalmasságot és hatékonyságot biztosítva a dokumentumkezelésben.
 ## Előfeltételek

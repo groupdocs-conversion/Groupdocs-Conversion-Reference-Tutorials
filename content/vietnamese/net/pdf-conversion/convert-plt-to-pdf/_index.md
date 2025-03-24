@@ -6,6 +6,9 @@ description: Chuyển đổi liền mạch các tệp PLT sang PDF bằng GroupD
 weight: 19
 url: /vi/net/pdf-conversion/convert-plt-to-pdf/
 ---
+
+# Chuyển đổi PLT sang PDF
+
 ## Giới thiệu
 Trong hướng dẫn này, chúng ta sẽ khám phá cách chuyển đổi các tệp PLT (Tệp Plotter ngôn ngữ đồ họa Hewlett-Packard) sang định dạng PDF bằng GroupDocs.Conversion cho .NET. GroupDocs.Conversion for .NET là một API mạnh mẽ cho phép các nhà phát triển tích hợp liền mạch chức năng chuyển đổi tài liệu vào các ứng dụng .NET của họ.
 ## Điều kiện tiên quyết

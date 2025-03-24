@@ -6,6 +6,9 @@ description: Convierta fácilmente íconos ICO a PDF usando GroupDocs.Conversion
 weight: 24
 url: /es/net/convert-files-to-pdf/convert-ico-to-pdf/
 ---
+
+# Convertir iconos ICO a PDF
+
 ## Introducción
 En la era digital actual, la capacidad de convertir archivos sin problemas de un formato a otro es crucial. Ya sea que sea un desarrollador que trabaja en un proyecto o una persona que busca optimizar su flujo de trabajo, tener acceso a herramientas de conversión confiables puede marcar la diferencia. Una de esas herramientas que ha ganado popularidad entre los desarrolladores de .NET es GroupDocs.Conversion para .NET.
 ## Requisitos previos

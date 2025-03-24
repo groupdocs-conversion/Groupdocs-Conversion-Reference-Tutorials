@@ -6,6 +6,9 @@ description: Leer hoe u WMZ-bestanden moeiteloos naar PDF kunt converteren met G
 weight: 20
 url: /nl/net/converting-file-types-to-pdf/convert-wmz-to-pdf/
 ---
+
+# Converteer WMZ naar PDF
+
 ## Invoering
  Op het gebied van softwareontwikkeling is de mogelijkheid om bestanden naadloos van het ene formaat naar het andere te converteren onmisbaar. Of het nu gaat om het converteren van documenten voor compatibiliteit of het transformeren van mediabestanden voor verschillende doeleinden, robuuste conversiemogelijkheden kunnen workflows stroomlijnen en de productiviteit verhogen. In deze tutorial gaan we dieper in op de fijne kneepjes van het gebruik**GroupDocs.Conversion for .NET** om WMZ-bestanden (Windows Metafile) te converteren naar PDF (Portable Document Format), een alomtegenwoordig en veelzijdig documentformaat.
 ## Vereisten

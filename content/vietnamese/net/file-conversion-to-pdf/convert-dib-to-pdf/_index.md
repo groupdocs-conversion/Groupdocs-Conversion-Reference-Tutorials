@@ -6,6 +6,9 @@ description: Dễ dàng chuyển đổi hình ảnh DIB sang định dạng PDF 
 weight: 18
 url: /vi/net/file-conversion-to-pdf/convert-dib-to-pdf/
 ---
+
+# Chuyển đổi hình ảnh DIB sang PDF
+
 ## Giới thiệu
 Trong thế giới phát triển phần mềm, khả năng chuyển đổi các định dạng tệp khác nhau là rất quan trọng. Cho dù bạn đang làm việc với hình ảnh, tài liệu hay các loại phương tiện khác, khả năng chuyển đổi liền mạch giữa các định dạng có thể hợp lý hóa quy trình công việc và nâng cao năng suất. Một công cụ mạnh mẽ tạo điều kiện thuận lợi cho những chuyển đổi như vậy là GroupDocs.Conversion dành cho .NET.
 ## Điều kiện tiên quyết

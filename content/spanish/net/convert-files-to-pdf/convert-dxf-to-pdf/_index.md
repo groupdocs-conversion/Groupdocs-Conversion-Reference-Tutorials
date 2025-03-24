@@ -6,6 +6,9 @@ description: Convierta sin esfuerzo archivos de intercambio de dibujos CAD DXF a
 weight: 12
 url: /es/net/convert-files-to-pdf/convert-dxf-to-pdf/
 ---
+
+# Convierta archivos de intercambio de dibujos CAD DXF a PDF
+
 ## Introducción
 En el mundo del desarrollo de software, la capacidad de convertir archivos de un formato a otro sin problemas es indispensable. Ya sea que trabaje con documentos, imágenes o dibujos CAD, tener una herramienta de conversión confiable puede ahorrarle tiempo y esfuerzo. En este tutorial, profundizaremos en el proceso de conversión de DXF (archivos de intercambio de dibujos CAD) a PDF utilizando la biblioteca GroupDocs.Conversion para .NET.
 ## Requisitos previos

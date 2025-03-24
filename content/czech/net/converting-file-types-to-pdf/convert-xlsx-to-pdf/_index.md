@@ -6,6 +6,9 @@ description: Bez námahy převádějte soubory XLSX do PDF pomocí knihovny Grou
 weight: 25
 url: /cs/net/converting-file-types-to-pdf/convert-xlsx-to-pdf/
 ---
+
+# Převést XLSX do PDF
+
 ## Úvod
 V dnešním digitálním světě je schopnost plynule převádět soubory z jednoho formátu do druhého nepostradatelná. Ať už jste vývojář pracující na projektu nebo jednotlivec, který zpracovává různé dokumenty, mít spolehlivý nástroj pro konverzi souborů je zásadní. V tomto tutoriálu se ponoříme do procesu převodu souborů XLSX do PDF pomocí výkonné knihovny GroupDocs.Conversion pro .NET. Tato knihovna nabízí efektivní a přímočaré metody pro převod souborů při zachování integrity obsahu.
 ## Předpoklady

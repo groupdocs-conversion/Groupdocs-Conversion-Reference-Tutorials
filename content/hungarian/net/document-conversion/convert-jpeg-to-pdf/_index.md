@@ -6,6 +6,9 @@ description: GroupDocs.Conversion for .NET segítségével zökkenőmentesen kon
 weight: 12
 url: /hu/net/document-conversion/convert-jpeg-to-pdf/
 ---
+
+# JPEG konvertálása PDF-be
+
 ## Bevezetés
 A szoftverfejlesztés világában gyakori feladat a fájlok konvertálása egyik formátumból a másikba. Legyen szó képek PDF-fájlokká, dokumentumok képpé konvertálásáról vagy bármilyen más fájlformátum-átalakításról, döntő fontosságú egy megbízható eszköz a feladat hatékony elvégzéséhez. Az egyik ilyen eszköz a GroupDocs.Conversion for .NET, egy hatékony könyvtár, amely a fejlesztők számára biztosítja a különféle fájlformátumok zökkenőmentes konvertálását.
 ## Előfeltételek

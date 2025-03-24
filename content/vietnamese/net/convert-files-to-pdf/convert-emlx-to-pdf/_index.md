@@ -6,6 +6,9 @@ description: Tìm hiểu cách dễ dàng chuyển đổi Tin nhắn Email EMLX 
 weight: 15
 url: /vi/net/convert-files-to-pdf/convert-emlx-to-pdf/
 ---
+
+# Chuyển đổi tin nhắn email EMLX Apple Mail sang PDF
+
 ## Giới thiệu
 Trong hướng dẫn này, chúng ta sẽ tìm hiểu cách chuyển đổi Tin nhắn Email EMLX Apple Mail sang định dạng PDF bằng GroupDocs.Conversion cho .NET.
 ## Điều kiện tiên quyết

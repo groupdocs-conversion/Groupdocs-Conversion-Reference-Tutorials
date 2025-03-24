@@ -6,6 +6,9 @@ description: .NET용 GroupDocs.Conversion을 사용하여 MSG 파일을 PDF로 �
 weight: 26
 url: /ko/net/document-conversion/convert-msg-to-pdf/
 ---
+
+# MSG를 PDF로 변환
+
 ## 소개
 오늘날의 디지털 시대에 문서 변환은 정보를 효율적으로 관리하고 공유하는 데 중요한 역할을 합니다. 애플리케이션을 구축하는 개발자이든 작업 흐름을 간소화하는 조직이든 파일을 한 형식에서 다른 형식으로 변환하는 기능을 갖는 것은 매우 중요합니다. 이 자습서에서는 .NET용 GroupDocs.Conversion을 사용하여 MSG(Outlook 메시지 형식) 파일을 PDF(Portable Document Format)로 변환하는 방법을 살펴보겠습니다.
 ## 전제 조건

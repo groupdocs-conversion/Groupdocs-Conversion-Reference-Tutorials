@@ -6,6 +6,9 @@ description: Tìm hiểu cách chuyển đổi tệp dữ liệu CSV sang PDF d�
 weight: 16
 url: /vi/net/file-conversion-to-pdf/convert-csv-to-pdf/
 ---
+
+# Chuyển đổi tệp dữ liệu CSV sang PDF
+
 ## Giới thiệu
 Trong lĩnh vực phát triển phần mềm, việc chuyển đổi tệp từ định dạng này sang định dạng khác là một nhiệm vụ phổ biến. Trong số nhiều định dạng tệp, CSV (Giá trị được phân tách bằng dấu phẩy) được sử dụng rộng rãi để lưu trữ dữ liệu dạng bảng. Mặt khác, PDF (Định dạng tài liệu di động) được ưa thích để chia sẻ tài liệu do tính tương thích phổ biến và tính năng bố cục cố định. Trong hướng dẫn này, chúng ta sẽ đi sâu vào quá trình chuyển đổi tệp dữ liệu CSV sang PDF bằng GroupDocs.Conversion cho .NET.
 ## Điều kiện tiên quyết

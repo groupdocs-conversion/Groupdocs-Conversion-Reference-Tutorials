@@ -6,6 +6,9 @@ description: 了解如何使用 GroupDocs.Conversion for .NET 將 XLTX 檔案無
 weight: 28
 url: /zh-hant/net/converting-file-types-to-pdf/convert-xltx-to-pdf/
 ---
+
+# 將 XLTX 轉換為 PDF
+
 ## 介紹
 在軟體開發領域，經常需要將文件從一種格式轉換為另一種格式。無論是出於相容性原因還是僅僅為了滿足特定要求，擁有一個可靠的工具來有效地處理此類轉換都是非常寶貴的。在本教學中，我們將深入研究如何利用 GroupDocs.Conversion for .NET 將 XLTX 檔案無縫轉換為 PDF 格式。 
 ## 先決條件

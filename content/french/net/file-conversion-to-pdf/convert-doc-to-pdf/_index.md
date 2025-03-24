@@ -6,6 +6,9 @@ description: Convertissez sans effort des documents DOC Word en PDF à l'aide de
 weight: 23
 url: /fr/net/file-conversion-to-pdf/convert-doc-to-pdf/
 ---
+
+# Convertir des documents Word DOC en PDF
+
 ## Introduction
 À l’ère numérique d’aujourd’hui, la capacité de convertir de manière transparente des documents d’un format à un autre est essentielle aussi bien pour les entreprises que pour les particuliers. Que vous traitiez de documents Word, de PDF ou d'autres types de fichiers, disposer des bons outils peut faire toute la différence. L'un de ces outils est GroupDocs.Conversion pour .NET, une bibliothèque puissante qui offre aux développeurs la possibilité de convertir facilement des documents.
 ## Conditions préalables

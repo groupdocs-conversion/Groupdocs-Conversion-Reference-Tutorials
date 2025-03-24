@@ -6,6 +6,9 @@ description: Découvrez comment convertir facilement des e-mails EML en PDF à l
 weight: 14
 url: /fr/net/convert-files-to-pdf/convert-eml-to-pdf/
 ---
+
+# Convertir les messages électroniques EML en PDF
+
 ## Introduction
 Dans ce didacticiel, vous apprendrez à convertir des messages électroniques EML au format PDF à l'aide de GroupDocs.Conversion pour .NET. La conversion de fichiers EML en PDF est une exigence courante, en particulier lorsque vous devez partager du contenu de courrier électronique dans un format plus universel et plus facilement lisible. Avec GroupDocs.Conversion, vous pouvez accomplir cette tâche efficacement.
 ## Conditions préalables

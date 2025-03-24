@@ -6,6 +6,9 @@ description: Bez wysiłku konwertuj dokumenty DOCM Word z makrami na pliki PDF z
 weight: 22
 url: /pl/net/file-conversion-to-pdf/convert-docm-to-pdf/
 ---
+
+# Konwertuj dokumenty DOCM Word (makra) na format PDF
+
 ## Wstęp
 dziedzinie zarządzania i manipulacji dokumentami konwersja plików z jednego formatu na inny jest często koniecznością. Niezależnie od tego, czy masz do czynienia z dokumentami programu Word zawierającymi makra (pliki DOCM), czy też chcesz przekształcić je w pliki PDF w celu zapewnienia większej dostępności, posiadanie odpowiednich narzędzi jest kluczowe. W tym samouczku omówimy, jak efektywnie konwertować dokumenty DOCM Word, w tym makra, do plików PDF przy użyciu potężnej biblioteki GroupDocs.Conversion dla .NET.
 ## Warunki wstępne

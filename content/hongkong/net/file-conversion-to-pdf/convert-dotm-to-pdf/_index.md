@@ -6,6 +6,9 @@ description: 使用 GroupDocs.Conversion for .NET 將包含巨集的 DOTM Word �
 weight: 25
 url: /zh-hant/net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---
+
+# 將 DOTM Word 範本（巨集）轉換為 PDF
+
 ## 介紹
 Microsoft Word DOTM 範本通常包含巨集，可能會在不同平台或應用程式之間造成相容性問題。將它們轉換為 PDF 格式不僅可以確保通用可訪問性，還可以消除與巨集相關的潛在安全風險。在本教學中，我們將逐步介紹使用 GroupDocs.Conversion for .NET 將 DOTM 檔案轉換為 PDF 的步驟。
 ## 先決條件

@@ -6,6 +6,9 @@ description: Dễ dàng chuyển đổi các tệp trao đổi bản vẽ CAD DX
 weight: 12
 url: /vi/net/convert-files-to-pdf/convert-dxf-to-pdf/
 ---
+
+# Chuyển đổi tập tin trao đổi bản vẽ CAD DXF sang PDF
+
 ## Giới thiệu
 Trong thế giới phát triển phần mềm, khả năng chuyển đổi liền mạch các tập tin từ định dạng này sang định dạng khác là không thể thiếu. Cho dù bạn đang xử lý tài liệu, hình ảnh hay bản vẽ CAD, việc có một công cụ chuyển đổi đáng tin cậy có thể giúp bạn tiết kiệm thời gian và công sức. Trong hướng dẫn này, chúng ta sẽ đi sâu vào quá trình chuyển đổi DXF (Tệp trao đổi bản vẽ CAD) sang PDF bằng thư viện GroupDocs.Conversion cho .NET.
 ## Điều kiện tiên quyết

@@ -6,6 +6,9 @@ description: Convierta plantillas DOTM de Word que contengan macros a PDF sin es
 weight: 25
 url: /es/net/file-conversion-to-pdf/convert-dotm-to-pdf/
 ---
+
+# Convierta plantillas DOTM de Word (macros) a PDF
+
 ## Introducción
 Las plantillas DOTM de Microsoft Word, que a menudo contienen macros, pueden plantear problemas de compatibilidad entre diferentes plataformas o aplicaciones. Convertirlos a formato PDF no sólo garantiza la accesibilidad universal sino que también elimina los posibles riesgos de seguridad asociados con las macros. En este tutorial, seguiremos los pasos para convertir archivos DOTM a PDF usando GroupDocs.Conversion para .NET.
 ## Requisitos previos

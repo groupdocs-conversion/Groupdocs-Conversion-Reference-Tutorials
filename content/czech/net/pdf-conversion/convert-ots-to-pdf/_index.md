@@ -6,6 +6,9 @@ description: Naučte se, jak bez námahy převést soubory OTS do formátu PDF p
 weight: 15
 url: /cs/net/pdf-conversion/convert-ots-to-pdf/
 ---
+
+# Převést OTS do PDF
+
 ## Úvod
 V oblasti převodu dokumentů v rámci aplikací .NET vyniká GroupDocs.Conversion for .NET jako všestranný a výkonný nástroj. Ať už chcete převést dokumenty z jednoho formátu do druhého nebo s nimi různými způsoby manipulovat, GroupDocs.Conversion poskytuje komplexní řešení. V tomto tutoriálu se ponoříme do procesu převodu souborů OTS (OpenDocument Spreadsheet Template) do formátu PDF pomocí GroupDocs.Conversion for .NET. Dodržováním těchto podrobných pokynů budete schopni bezproblémově integrovat funkci převodu dokumentů do vašich aplikací .NET.
 ## Předpoklady

@@ -6,6 +6,9 @@ description: Converta facilmente modelos DOTX Word em PDF usando GroupDocs.Conve
 weight: 27
 url: /pt/net/file-conversion-to-pdf/convert-dotx-to-pdf/
 ---
+
+# Converter modelos DOTX Word em PDF
+
 ## Introdução
 Os documentos do Microsoft Word são amplamente utilizados para diversos fins, incluindo a criação de modelos no formato DOTX. No entanto, pode haver casos em que você precise converter esses modelos DOTX em PDF para facilitar o compartilhamento, impressão ou arquivamento. Neste tutorial, orientaremos você no processo de conversão de modelos DOTX Word em PDF usando GroupDocs.Conversion for .NET.
 ## Pré-requisitos

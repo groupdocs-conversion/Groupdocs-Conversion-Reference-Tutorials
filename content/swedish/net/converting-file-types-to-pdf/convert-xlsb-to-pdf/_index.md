@@ -6,6 +6,9 @@ description: Lär dig hur du enkelt konverterar XLSB-filer till PDF med GroupDoc
 weight: 22
 url: /sv/net/converting-file-types-to-pdf/convert-xlsb-to-pdf/
 ---
+
+# Konvertera XLSB till PDF
+
 ## Introduktion
 När det gäller mjukvaruutveckling är behovet av att konvertera filer från ett format till ett annat en vanlig uppgift. Oavsett om det är för databehandling, dokumenthantering eller kompatibilitetsskäl är det oumbärligt att ha ett tillförlitligt verktyg för filkonvertering. GroupDocs.Conversion for .NET är ett kraftfullt bibliotek som underlättar sömlös konvertering mellan olika filformat. I den här handledningen kommer vi att fördjupa oss i hur man använder GroupDocs.Conversion för .NET för att konvertera XLSB-filer till PDF-format.
 ## Förutsättningar

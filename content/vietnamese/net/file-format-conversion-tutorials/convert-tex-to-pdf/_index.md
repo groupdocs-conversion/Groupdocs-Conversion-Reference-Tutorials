@@ -6,6 +6,9 @@ description: Tìm hiểu cách chuyển đổi tệp TEX sang định dạng PDF
 weight: 18
 url: /vi/net/file-format-conversion-convert-tex-to-pdf/
 ---
+
+# Chuyển đổi TEX sang PDF
+
 ## Giới thiệu
 Trong lĩnh vực quản lý và thao tác tài liệu, việc chuyển đổi tệp từ định dạng này sang định dạng khác là một điều cần thiết. Cho dù bạn đang xử lý tài liệu văn bản, bảng tính hay bản trình bày, khả năng chuyển đổi liền mạch giữa các định dạng có thể nâng cao đáng kể năng suất và hợp lý hóa quy trình công việc.
 Một công cụ mạnh mẽ để xử lý những chuyển đổi như vậy trong môi trường .NET là GroupDocs.Conversion. Thư viện mạnh mẽ này cung cấp cho các nhà phát triển khả năng chuyển đổi các định dạng tài liệu khác nhau một cách dễ dàng. Trong hướng dẫn này, chúng tôi sẽ tập trung vào một tác vụ chuyển đổi cụ thể: chuyển đổi tệp TEX sang định dạng PDF.

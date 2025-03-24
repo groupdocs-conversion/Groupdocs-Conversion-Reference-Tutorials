@@ -6,6 +6,9 @@ description: Convierta archivos XLSX a PDF sin esfuerzo utilizando la biblioteca
 weight: 25
 url: /es/net/converting-file-types-to-pdf/convert-xlsx-to-pdf/
 ---
+
+# Convertir XLSX a PDF
+
 ## Introducción
 En el mundo digital actual, la capacidad de convertir archivos de un formato a otro sin problemas es indispensable. Ya sea que sea un desarrollador que trabaja en un proyecto o un individuo que maneja varios documentos, tener una herramienta confiable para la conversión de archivos es crucial. En este tutorial, profundizaremos en el proceso de conversión de archivos XLSX a PDF utilizando la potente biblioteca GroupDocs.Conversion para .NET. Esta biblioteca ofrece métodos eficientes y sencillos para convertir archivos manteniendo la integridad del contenido.
 ## Requisitos previos

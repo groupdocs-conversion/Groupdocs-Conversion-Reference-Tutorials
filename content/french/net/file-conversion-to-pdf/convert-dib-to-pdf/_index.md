@@ -6,6 +6,9 @@ description: Convertissez sans effort les images DIB au format PDF à l'aide de 
 weight: 18
 url: /fr/net/file-conversion-to-pdf/convert-dib-to-pdf/
 ---
+
+# Convertir des images DIB en PDF
+
 ## Introduction
 Dans le monde du développement de logiciels, la capacité de convertir différents formats de fichiers est cruciale. Que vous travailliez avec des images, des documents ou d'autres types de médias, la possibilité de convertir de manière transparente entre les formats peut rationaliser les flux de travail et améliorer la productivité. Un outil puissant qui facilite de telles conversions est GroupDocs.Conversion pour .NET.
 ## Conditions préalables

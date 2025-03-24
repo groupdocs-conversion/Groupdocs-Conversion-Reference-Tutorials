@@ -6,6 +6,9 @@ description: Легко конвертируйте файлы EPS в PDF с по
 weight: 17
 url: /ru/net/convert-files-to-pdf/convert-eps-to-pdf/
 ---
+
+# Преобразование файлов PostScript, инкапсулированных в формате EPS, в PDF
+
 ## Введение
 В этом руководстве мы покажем, как конвертировать файлы EPS (инкапсулированный PostScript) в PDF с помощью GroupDocs.Conversion для .NET.
 ## Предварительные условия

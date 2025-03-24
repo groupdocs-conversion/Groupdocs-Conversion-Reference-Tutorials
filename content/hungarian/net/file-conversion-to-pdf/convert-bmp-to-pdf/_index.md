@@ -6,6 +6,9 @@ description: A GroupDocs.Conversion for .NET segítségével zökkenőmentesen k
 weight: 11
 url: /hu/net/file-conversion-to-pdf/convert-bmp-to-pdf/
 ---
+
+# BMP-képek konvertálása PDF-be
+
 ## Bevezetés
 A GroupDocs.Conversion for .NET hatékony megoldást kínál a BMP-képek zökkenőmentes konvertálására PDF formátumba. Ez az oktatóanyag lépésről lépésre végigvezeti a folyamaton.
 ### Előfeltételek

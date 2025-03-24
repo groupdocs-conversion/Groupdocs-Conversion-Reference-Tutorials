@@ -6,6 +6,9 @@ description: 응용 프로그램에 원활하게 통합하기 위해 GroupDocs.C
 weight: 26
 url: /ko/net/file-conversion-to-pdf/convert-dot-to-pdf/
 ---
+
+# DOT Word 템플릿을 PDF로 변환
+
 ## 소개
 .NET 개발 세계에서는 다양한 목적을 위해 다양한 파일 형식을 변환해야 하는 경우가 많습니다. 일반적인 요구 사항 중 하나는 DOT(Word 템플릿) 파일을 PDF 형식으로 변환하는 것입니다. 다행히도 .NET용 GroupDocs.Conversion의 도움으로 이 작업이 간단하고 효율적이 되었습니다. 이 튜토리얼에서는 프로세스를 단계별로 안내하여 DOT에서 PDF로의 변환을 .NET 애플리케이션에 원활하게 통합할 수 있도록 합니다.
 ## 전제 조건

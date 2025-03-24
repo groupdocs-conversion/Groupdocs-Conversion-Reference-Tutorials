@@ -6,6 +6,9 @@ description: Erfahren Sie, wie Sie mit GroupDocs.Conversion für .NET mühelos C
 weight: 14
 url: /de/net/file-conversion-to-pdf/convert-cgm-to-pdf/
 ---
+
+# Konvertieren Sie CGM-Vektorgrafiken in PDF
+
 ## Einführung
 In diesem Tutorial führen wir Sie durch den Prozess der Konvertierung von CGM-Vektorgrafiken (Computer Graphics Metafile) in das PDF-Format mit GroupDocs.Conversion für .NET. CGM ist ein Dateiformat für Vektorgrafiken, das häufig in technischen Zeichnungen, Illustrationen und anderen grafischen Anwendungen verwendet wird.
 ## Voraussetzungen
