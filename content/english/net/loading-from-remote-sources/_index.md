@@ -11,9 +11,6 @@ Master remote document loading with our detailed GroupDocs.Conversion tutorials 
 
 ## Available Tutorials
 
-### [Convert CF2 to PDF Using GroupDocs.Conversion for .NET&#58; A Comprehensive Guide](./convert-cf2-to-pdf-groupdocs-conversion-net/)
-Learn how to convert CF2 CAD files to PDF using GroupDocs.Conversion for .NET. Follow this step-by-step guide to ensure seamless document sharing and accessibility.
-
 ### [Convert DWF to TEX in .NET Using GroupDocs.Conversion Library](./convert-dwf-to-tex-groupdocs-dotnet/)
 Learn how to efficiently convert DWF files to TeX format using GroupDocs.Conversion for .NET. This tutorial covers setup, conversion steps, and troubleshooting tips.
 
