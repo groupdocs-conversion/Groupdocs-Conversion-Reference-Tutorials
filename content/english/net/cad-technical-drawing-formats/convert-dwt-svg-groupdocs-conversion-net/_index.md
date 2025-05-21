@@ -25,7 +25,7 @@ In this tutorial, you will learn:
 
 Let's start by preparing for our coding journey!
 
-## Prerequisites (H2)
+## Prerequisites
 
 Before beginning, ensure you have:
 
@@ -116,7 +116,7 @@ GroupDocs.Conversion's capabilities extend beyond simple format changes. Here ar
 2. **Technical Documentation**: Streamline sharing of technical drawings by converting them to web-friendly SVG formats.
 3. **Automated Workflows**: Integrate with document management systems to automate batch conversions.
 
-## Performance Considerations (H2)
+## Performance Considerations
 
 When dealing with large files or multiple conversions, consider the following:
 - Optimize resource usage by ensuring your application has sufficient memory allocation.
@@ -133,7 +133,7 @@ This tutorial guided you through converting DWT files to SVG using GroupDocs.Con
 
 **Call-to-Action**: Implement this solution in your project and see how it streamlines your file handling processes!
 
-## FAQ Section (H2)
+## FAQ Section
 
 1. **Can I convert multiple DWT files at once?**
    - Yes, loop through a directory of DWT files to apply the conversion process to each.

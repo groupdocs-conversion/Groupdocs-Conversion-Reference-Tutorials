@@ -294,9 +294,6 @@ Learn how to convert text files to PDF using GroupDocs.Conversion for .NET with 
 ### [Convert VSDM to PDF in .NET Using GroupDocs.Conversion&#58; A Step-by-Step Guide](./convert-vsmd-to-pdf-groupdocs-conversion-dotnet/)
 Learn how to convert Visio Macro-Enabled Drawings (VSDM) to PDF using GroupDocs.Conversion for .NET with this comprehensive guide.
 
-### [Convert VSDX to PDF Using GroupDocs.Conversion for .NET&#58; A Step-by-Step Guide](./convert-vsdx-pdf-groupdocs-conversion-dotnet/)
-Learn how to automate the conversion of VSDX files to PDF using GroupDocs.Conversion for .NET with this comprehensive tutorial. Streamline your document workflow efficiently.
-
 ### [Convert VSS to PDF with GroupDocs.Conversion for .NET&#58; A Step-by-Step Guide](./convert-vss-pdf-groupdocs-conversion-net/)
 Learn how to convert Visio Stencil (VSS) files to PDF using GroupDocs.Conversion for .NET. Follow this comprehensive guide for easy and efficient file conversion.
 
@@ -320,9 +317,6 @@ Learn how to convert WMF files to PDF effortlessly with GroupDocs.Conversion for
 
 ### [Convert WMZ to PDF using GroupDocs.Conversion .NET&#58; A Complete Guide](./convert-wmz-to-pdf-groupdocs-conversion-net/)
 Learn how to convert WMZ files into PDFs seamlessly with GroupDocs.Conversion for .NET. Discover step-by-step instructions and best practices.
-
-### [Convert XLAM to PDF in .NET Using GroupDocs.Conversion](./convert-xlam-to-pdf-groupdocs-net/)
-Learn how to convert Microsoft Excel Macro-Enabled Add-In (XLAM) files to PDF using GroupDocs.Conversion for .NET. A step-by-step guide for seamless document conversion.
 
 ### [Convert XML to PDF Using GroupDocs.Conversion for .NET&#58; A Comprehensive Guide](./convert-xml-pdf-groupdocs-dotnet-guide/)
 Learn how to convert XML files into PDFs using GroupDocs.Conversion for .NET with this step-by-step guide. Perfect for developers seeking efficient file conversion solutions.
@@ -357,9 +351,6 @@ Learn how to seamlessly convert text files into professional PDFs using GroupDoc
 ### [Effortless WMF to PDF Conversion Using GroupDocs for .NET Developers](./wmf-to-pdf-conversion-groupdocs-net/)
 Learn how to convert Windows Metafile (WMF) files to PDF effortlessly using the powerful GroupDocs.Conversion library in .NET. Follow this step-by-step guide for seamless file conversion.
 
-### [HTML to PDF Conversion in .NET Using GroupDocs.Conversion&#58; A Comprehensive Guide](./html-to-pdf-conversion-groupdocs-dotnet/)
-Learn how to convert HTML files into PDFs seamlessly with GroupDocs.Conversion for .NET. This guide offers a step-by-step approach, configuration tips, and troubleshooting advice.
-
 ### [How to Convert CGM Files to PDF Using GroupDocs.Conversion .NET for Seamless Document Sharing](./convert-cgm-pdf-groupdocs-conversion-net/)
 Learn how to convert CGM files to PDF using GroupDocs.Conversion for .NET, enhancing productivity in design and engineering fields. Follow this step-by-step guide for easy implementation.
 
@@ -371,9 +362,6 @@ Learn how to convert JPEG 2000 files (.jp2) to PDF using GroupDocs.Conversion fo
 
 ### [How to Convert JPEG 2000 (.j2c) to PDF Using GroupDocs.Conversion for .NET](./convert-jpeg-2000-j2c-pdf-groupdocs-dotnet/)
 Learn how to effortlessly convert JPEG 2000 files to PDF with GroupDocs.Conversion for .NET. Follow this comprehensive guide for seamless integration.
-
-### [How to Convert JPG to PDF Using GroupDocs.Conversion for .NET (Step-by-Step Guide)](./jpg-to-pdf-conversion-groupdocs-dotnet/)
-Learn how to convert JPG images to PDFs using GroupDocs.Conversion for .NET with this comprehensive guide. Streamline your document workflows efficiently.
 
 ### [How to Convert MHT to PDF in .NET Using GroupDocs.Conversion](./convert-mht-pdf-groupdocs-dotnet/)
 Learn how to easily convert MHT files to PDF using the GroupDocs.Conversion library in your .NET applications. Follow this step-by-step guide for seamless integration.
@@ -395,9 +383,6 @@ Learn how to effortlessly convert PLT files to PDF using GroupDocs.Conversion fo
 
 ### [How to Convert POTM Files to PDF with GroupDocs.Conversion for .NET&#58; A Step-by-Step Guide](./convert-potm-to-pdf-groupdocs-dotnet/)
 Learn how to convert PowerPoint Template (POTM) files to PDF using GroupDocs.Conversion for .NET. Streamline your document workflow and enhance compatibility.
-
-### [How to Convert POTX to PDF Using GroupDocs.Conversion for .NET&#58; A Comprehensive Guide](./convert-potx-to-pdf-groupdocs-conversion-net/)
-Learn how to effortlessly convert POTX files to PDF using GroupDocs.Conversion for .NET. This step-by-step guide covers setup, configuration, and best practices.
 
 ### [How to Convert PS to PDF Using GroupDocs.Conversion in .NET&#58; A Step-by-Step Guide](./ps-to-pdf-conversion-groupdocs-dotnet/)
 Learn how to efficiently convert PostScript (PS) files to PDF using the GroupDocs.Conversion library for .NET. This guide provides step-by-step instructions and practical tips.

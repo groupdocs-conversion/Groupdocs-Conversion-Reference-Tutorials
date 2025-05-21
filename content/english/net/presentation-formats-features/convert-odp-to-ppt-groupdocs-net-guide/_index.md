@@ -26,7 +26,7 @@ Converting OpenDocument Presentation (ODP) files into PowerPoint (.ppt) format i
 
 Let's dive into what you need before getting started.
 
-## Prerequisites (H2)
+## Prerequisites
 Before beginning, ensure you have:
 
 ### Required Libraries, Versions, and Dependencies:
@@ -40,7 +40,7 @@ Before beginning, ensure you have:
 - Basic understanding of C# programming
 - Familiarity with NuGet package management
 
-## Setting Up GroupDocs.Conversion for .NET (H2)
+## Setting Up GroupDocs.Conversion for .NET
 To start converting ODP files to PPT, integrate GroupDocs.Conversion into your project. Follow these installation steps:
 
 **NuGet Package Manager Console**
@@ -79,7 +79,7 @@ class Program
 ## Implementation Guide
 Explore how to implement this feature with logical steps:
 
-### Convert ODP to PPT (H2)
+### Convert ODP to PPT
 This section demonstrates converting an ODP file into a PowerPoint presentation using GroupDocs.Conversion for .NET.
 
 #### Step 1: Load the Source ODP File (H3)

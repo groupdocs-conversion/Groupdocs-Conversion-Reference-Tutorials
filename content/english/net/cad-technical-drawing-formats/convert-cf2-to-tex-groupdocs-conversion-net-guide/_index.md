@@ -25,7 +25,7 @@ Are you looking to efficiently convert CAD files like CF2 into TEX format? This 
 
 Let's dive into the prerequisites before getting started.
 
-## Prerequisites (H2)
+## Prerequisites
 
 Before you begin, ensure that you have:
 
@@ -33,7 +33,7 @@ Before you begin, ensure that you have:
 - **Environment Setup:** Visual Studio installed on your machine
 - **Knowledge Base:** Basic understanding of C# programming and file handling
 
-## Setting Up GroupDocs.Conversion for .NET (H2)
+## Setting Up GroupDocs.Conversion for .NET
 
 First, install the GroupDocs.Conversion library in your project.
 
@@ -61,7 +61,7 @@ Here's how to initialize and set up GroupDocs.Conversion for .NET:
 using GroupDocs.Conversion;
 ```
 
-## Implementation Guide (H2)
+## Implementation Guide
 
 Now that everything is in place, let’s walk through the conversion process.
 

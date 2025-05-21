@@ -26,7 +26,7 @@ In the digital world, converting Design Web Format (DWF) files into more accessi
 
 Let's begin by ensuring you have the necessary prerequisites.
 
-## Prerequisites (H2)
+## Prerequisites
 
 Before starting, make sure you have:
 
@@ -43,7 +43,7 @@ Ensure your system runs on a compatible OS with the .NET Framework installed.
 
 A basic understanding of C# programming and familiarity with file handling in .NET is beneficial.
 
-## Setting Up GroupDocs.Conversion for .NET (H2)
+## Setting Up GroupDocs.Conversion for .NET
 
 Begin by installing the GroupDocs.Conversion library:
 
@@ -89,7 +89,7 @@ class Program
 
 The conversion process involves loading a DWF file and converting it to CSV.
 
-### Load DWF File (H2)
+### Load DWF File
 
 #### Overview
 
@@ -108,7 +108,7 @@ Ensure `sourceFilePath` points to a valid DWF file.
 var converter = new Converter(sourceFilePath);
 ```
 
-### Convert DWF to CSV (H2)
+### Convert DWF to CSV
 
 #### Overview
 
@@ -147,7 +147,7 @@ Console.WriteLine("Conversion completed successfully.");
 - Ensure `sourceFilePath` points to an actual file.
 - Verify that `outputFolder` exists or create it programmatically.
 
-## Practical Applications (H2)
+## Practical Applications
 
 Here are some real-world use cases:
 
@@ -155,7 +155,7 @@ Here are some real-world use cases:
 2. **Cross-Platform Compatibility:** Convert complex files to simpler formats usable across platforms.
 3. **Data Migration Projects:** Facilitate migration of project data between systems.
 
-## Performance Considerations (H2)
+## Performance Considerations
 
 Optimize performance with GroupDocs.Conversion:
 
@@ -184,7 +184,7 @@ You've learned how to convert DWF files to CSV using GroupDocs.Conversion for .N
 
 **Call-to-Action:** Try implementing this solution in your projects today!
 
-## FAQ Section (H2)
+## FAQ Section
 
 1. **What is a DWF file?**
    - A Design Web Format (DWF) file is used by architects and engineers to share design data.

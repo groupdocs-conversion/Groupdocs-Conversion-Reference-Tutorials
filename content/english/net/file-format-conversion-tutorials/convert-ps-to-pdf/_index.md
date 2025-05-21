@@ -4,7 +4,7 @@ linktitle: Convert PS to PDF
 second_title: GroupDocs.Conversion .NET API
 description: Effortlessly convert PS files to PDF using GroupDocs.Conversion for .NET. Seamlessly integrate file conversion functionality into your .NET applications.
 weight: 11
-url: /net/file-format-conversion-convert-ps-to-pdf/
+url: /net/file-format-conversion-tutorials/convert-ps-to-pdf/
 ---
 
 # Convert PS to PDF

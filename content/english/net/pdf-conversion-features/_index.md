@@ -17,9 +17,6 @@ Learn how to convert Adobe Illustrator (.ai) files to PDFs seamlessly with Group
 ### [Comprehensive Guide to Converting PDF to PPTX Using GroupDocs.Conversion for .NET](./convert-pdf-to-pptx-groupdocs-dotnet-tutorial/)
 Learn how to convert PDF files to PowerPoint presentations using GroupDocs.Conversion for .NET with this step-by-step tutorial.
 
-### [Comprehensive Guide&#58; Convert Documents to PDF using GroupDocs.Conversion for .NET](./pdf-conversion-groupdocs-dotnet-tutorial/)
-Learn how to implement efficient document-to-PDF conversion in your .NET applications with GroupDocs.Conversion. Enhance compatibility and streamline workflows.
-
 ### [Convert CSV to PDF in .NET&#58; Advanced Options with GroupDocs.Conversion](./convert-csv-to-pdf-groupdocs-advanced-options/)
 Learn how to convert CSV files to PDFs using GroupDocs.Conversion for .NET, featuring advanced options like date and numeric data conversion.
 
@@ -85,9 +82,6 @@ Learn how to convert Word documents to PDFs seamlessly with GroupDocs.Conversion
 
 ### [Hide Comments in PDF&#58; Convert PPT to PDF with GroupDocs.Conversion for .NET](./convert-presentation-pdf-hide-comments-net/)
 Learn how to convert presentations to PDF while hiding comments using GroupDocs.Conversion for .NET. Ensure confidentiality with advanced conversion options.
-
-### [How to Convert JPEG 2000 (.jpm) Files to PDF Using GroupDocs.Conversion in .NET](./convert-jpeg-2000-to-pdf-groupdocs-dotnet/)
-Learn how to convert JPEG 2000 files (.jpm) to PDF using GroupDocs.Conversion for .NET. Follow this guide for an easy and efficient conversion process.
 
 ### [How to Convert JPEG to PDF Using GroupDocs.Conversion for .NET&#58; A Step-by-Step Guide](./convert-jpeg-to-pdf-groupdocs-conversion-net/)
 Learn how to seamlessly convert JPEG images to PDF using GroupDocs.Conversion for .NET with this comprehensive, step-by-step tutorial.

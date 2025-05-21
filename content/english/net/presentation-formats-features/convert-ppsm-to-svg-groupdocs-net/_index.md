@@ -21,7 +21,7 @@ Converting presentation formats, especially from less common types like PPSM to 
 - Convert PPSM files into SVG format seamlessly
 - Optimize your conversion workflow for performance
 
-## Prerequisites (H2)
+## Prerequisites
 Before getting started, ensure you have the following prerequisites:
 1. **Libraries and Dependencies**: Obtain GroupDocs.Conversion .NET library version 25.3.0.
 2. **Environment Setup**:
@@ -29,7 +29,7 @@ Before getting started, ensure you have the following prerequisites:
    - An IDE like Visual Studio for coding and testing.
 3. **Knowledge Prerequisites**: Familiarity with C# programming is helpful but not mandatory. Basic understanding of file conversions is beneficial.
 
-## Setting Up GroupDocs.Conversion for .NET (H2)
+## Setting Up GroupDocs.Conversion for .NET
 To use GroupDocs.Conversion, install it in your project as follows:
 
 **NuGet Package Manager Console**
@@ -69,7 +69,7 @@ class Program
 ## Implementation Guide
 This section breaks down the conversion process into clear steps.
 
-### Convert PPSM to SVG (H2)
+### Convert PPSM to SVG
 #### Overview
 Transform a PPSM file into an SVG format, which is ideal for web use due to its scalability and browser compatibility.
 

@@ -26,7 +26,7 @@ Sharing a PowerPoint template online can be challenging if it's not in an access
 
 Let's get started by ensuring you have everything needed.
 
-## Prerequisites (H2)
+## Prerequisites
 Before beginning, ensure your development environment is ready. You'll need:
 
 ### Required Libraries and Versions
@@ -39,7 +39,7 @@ Make sure your system has .NET Framework or .NET Core installed to work with Gro
 ### Knowledge Prerequisites
 Familiarity with C#, file I/O operations, and basic command-line operations will be beneficial.
 
-## Setting Up GroupDocs.Conversion for .NET (H2)
+## Setting Up GroupDocs.Conversion for .NET
 GroupDocs.Conversion is a powerful library that simplifies document conversion. Here’s how you can add it to your project:
 
 **NuGet Package Manager Console**
@@ -64,10 +64,10 @@ Once installed, you can start by initializing the `Converter` class in your C# a
 using GroupDocs.Conversion;
 ```
 
-## Implementation Guide (H2)
+## Implementation Guide
 Now, let’s dive into implementing the conversion process.
 
-### Convert POT File to HTML (H2)
+### Convert POT File to HTML
 This feature allows you to convert a PowerPoint Template file (.pot) into an easily accessible HTML format. Here’s how:
 
 #### Step 1: Define Paths and Ensure Output Directory Exists

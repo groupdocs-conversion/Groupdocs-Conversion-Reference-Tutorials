@@ -17,9 +17,6 @@ Learn how to automate converting JPEG images to PowerPoint presentations using G
 ### [Automate ODT to PPT Conversion Using GroupDocs.Conversion for .NET | Step-by-Step Guide](./automate-odt-ppt-conversion-groupdocs-net/)
 Learn how to efficiently automate the conversion of Open Document Text (ODT) files into PowerPoint presentations using GroupDocs.Conversion for .NET. Follow this step-by-step guide.
 
-### [Automate PPSX to XLS Conversion Using GroupDocs.Conversion for .NET](./automate-ppsx-to-xls-conversion-groupdocs/)
-Learn how to automate PowerPoint (PPSX) to Excel (XLS) conversion using GroupDocs.Conversion for .NET with this step-by-step tutorial.
-
 ### [Comprehensive Guide to Converting PowerPoint to Excel using GroupDocs.Conversion .NET](./powerpoint-to-excel-conversion-groupdocs-net/)
 Learn how to automate PowerPoint to Excel conversion with GroupDocs.Conversion for .NET. Streamline your data analysis and reporting tasks effortlessly.
 
@@ -140,9 +137,6 @@ Learn how to seamlessly convert POTX files to DOC format in .NET applications us
 ### [Convert PPSX to DOC with GroupDocs.Conversion for .NET&#58; A Step-by-Step Guide](./convert-ppsx-to-doc-groupdocs-conversion/)
 Learn how to convert PowerPoint presentations (PPSX) into Word documents (DOC) using GroupDocs.Conversion for .NET. Follow this comprehensive guide for seamless conversion.
 
-### [Convert PPSX to LaTeX Using GroupDocs.Conversion for .NET - A Step-by-Step Guide](./convert-ppsx-to-latex-groupdocs-conversion-net/)
-Learn how to convert PowerPoint Open XML Slide Show (.ppsx) files into LaTeX documents with GroupDocs.Conversion for .NET. Follow this comprehensive guide for seamless document transformation.
-
 ### [Convert PPSX to XLSX Using GroupDocs.Conversion .NET&#58; A Comprehensive Guide](./convert-ppsx-to-xlsx-groupdocs-dotnet/)
 Learn how to convert PowerPoint Open XML Slide Shows (.ppsx) to Excel Open XML Spreadsheets (.xlsx) using GroupDocs.Conversion for .NET with step-by-step instructions.
 
@@ -154,12 +148,6 @@ Learn how to efficiently convert PowerPoint presentations to PNG images with Gro
 
 ### [Convert PPTM to PPT Using GroupDocs.Conversion for .NET&#58; A Comprehensive Guide](./convert-pptm-to-ppt-groupdocs-dotnet/)
 Master converting PPTM files to PPT using GroupDocs.Conversion for .NET. Follow this step-by-step guide to ensure compatibility and optimize your presentations.
-
-### [Convert PPTX to DOC in C# Using GroupDocs.Conversion for .NET&#58; A Comprehensive Guide](./convert-pptx-to-doc-groupdocs-dotnet-csharp-guide/)
-Learn how to seamlessly convert PowerPoint presentations into Word documents using GroupDocs.Conversion for .NET with this detailed C# guide.
-
-### [Convert PS Files to PowerPoint Using GroupDocs.Conversion for .NET&#58; A Comprehensive Guide](./convert-ps-to-powerpoint-groupdocs-conversion-net/)
-Learn how to seamlessly convert PostScript (PS) files to PowerPoint presentations with GroupDocs.Conversion for .NET. This guide provides step-by-step instructions and best practices.
 
 ### [Convert PowerPoint POT to Excel XLS Using GroupDocs.Conversion .NET](./convert-pot-to-xls-groupdocs-net/)
 Learn how to seamlessly convert PowerPoint templates (.POT) into Excel spreadsheets (.XLS) using the powerful GroupDocs.Conversion API in .NET.

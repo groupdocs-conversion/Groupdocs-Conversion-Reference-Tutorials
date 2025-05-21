@@ -81,7 +81,7 @@ class Program
 
 Now that you have set up your environment, let’s break down how to convert CGM files to XLS using GroupDocs.Conversion.
 
-### Load and Prepare Your CGM File (H2)
+### Load and Prepare Your CGM File
 
 To begin the conversion process, load your CGM file into a `Converter` object. This is crucial as it prepares the document for transformation.
 
@@ -94,7 +94,7 @@ using (Converter converter = new Converter("YOUR_DOCUMENT_DIRECTORY/sample.cgm")
 ```
 **Explanation:** The `Converter` class accepts the file path of your CGM file, initializing a conversion session. Make sure to replace `"YOUR_DOCUMENT_DIRECTORY/sample.cgm"` with the actual path to your CGM file.
 
-### Configure Conversion Options (H2)
+### Configure Conversion Options
 
 Next, define how you want the document converted by setting up the appropriate options.
 
@@ -104,7 +104,7 @@ var options = new SpreadsheetConvertOptions();
 ```
 **Explanation:** `SpreadsheetConvertOptions` is specifically designed for converting documents into spreadsheet formats like XLS. It allows you to specify additional parameters such as page range or layout adjustments, ensuring the converted file meets your needs.
 
-### Perform the Conversion (H2)
+### Perform the Conversion
 
 With everything set up, it’s time to execute the conversion and save the output.
 

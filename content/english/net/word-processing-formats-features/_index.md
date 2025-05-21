@@ -164,9 +164,6 @@ Learn how to convert OXPS files to DOCX format seamlessly with GroupDocs.Convers
 ### [Efficient PDF to DOC Conversion Using GroupDocs.Conversion for .NET](./pdf-to-doc-conversion-groupdocs-net/)
 Learn how to automate PDF to Word conversion seamlessly with GroupDocs.Conversion for .NET. Enhance your document workflow today.
 
-### [Efficient PDF to Word Conversion in .NET Using GroupDocs.Conversion](./pdf-to-word-conversion-groupdocs-dotnet/)
-Learn how to convert PDF files to editable DOCX documents efficiently using GroupDocs.Conversion for .NET. Streamline your document processing workflow with our step-by-step guide.
-
 ### [Efficient PPTX to DOCX Conversion Using GroupDocs.Conversion for .NET](./pptx-to-docx-conversion-groupdocs-net/)
 Learn how to seamlessly convert PowerPoint presentations to Word documents using GroupDocs.Conversion for .NET. Boost your document workflow efficiency today!
 

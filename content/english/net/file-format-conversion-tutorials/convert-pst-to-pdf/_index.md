@@ -4,7 +4,7 @@ linktitle: Convert PST to PDF
 second_title: GroupDocs.Conversion .NET API
 description: Effortlessly convert PST files to PDF using GroupDocs.Conversion for .NET. Boost productivity with seamless document management.
 weight: 12
-url: /net/file-format-conversion-convert-pst-to-pdf/
+url: /net/file-format-conversion-tutorials/convert-pst-to-pdf/
 ---
 
 # Convert PST to PDF
