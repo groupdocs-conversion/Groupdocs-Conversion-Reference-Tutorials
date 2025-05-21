@@ -4,7 +4,7 @@ linktitle: Convert RTF to PDF
 second_title: GroupDocs.Conversion .NET API
 description: Effortlessly convert RTF files to PDF using GroupDocs.Conversion for .NET. Follow our step-by-step for integration and unleash the power of file conversion.
 weight: 13
-url: /net/file-format-conversion-convert-rtf-to-pdf/
+url: /net/file-format-conversion-tutorials/convert-rtf-to-pdf/
 ---
 
 # Convert RTF to PDF

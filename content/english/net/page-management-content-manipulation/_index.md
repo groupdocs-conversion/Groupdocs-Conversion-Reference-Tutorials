@@ -14,9 +14,6 @@ Explore advanced content control capabilities with our comprehensive GroupDocs.C
 ### [Hide Tracked Changes in Word to PDF Conversion with GroupDocs.Conversion for .NET](./hide-tracked-changes-word-pdf-groupdocs-conversion-net/)
 Learn how to seamlessly hide tracked changes during Word to PDF conversion using GroupDocs.Conversion for .NET, ensuring clean and professional-looking documents.
 
-### [How to Add Watermarks to PDFs with GroupDocs.Conversion for .NET&#58; A Complete Guide](./pdf-watermarking-groupdocs-conversion-net/)
-Learn how to add watermarks to your PDF documents during conversion using GroupDocs.Conversion for .NET. Protect and brand your files easily.
-
 ### [How to Hide PDF Annotations Before Converting to Word Using GroupDocs.Conversion for .NET](./hide-pdf-annotations-groupdocs-conversion/)
 Learn how to use GroupDocs.Conversion for .NET to hide annotations in a PDF before converting it to Word, ensuring a clean and professional document output.
 

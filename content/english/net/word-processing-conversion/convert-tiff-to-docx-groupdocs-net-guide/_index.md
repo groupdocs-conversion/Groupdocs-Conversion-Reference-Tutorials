@@ -71,7 +71,7 @@ var converter = new Converter("path/to/your/sample.tif");
 
 Now, let’s break down the implementation into clear steps.
 
-### Load and Convert TIFF to DOCX (H2)
+### Load and Convert TIFF to DOCX
 
 #### Overview:
 This feature allows you to load a TIFF file and convert it into DOCX format using GroupDocs.Conversion for .NET. It's perfect for converting high-quality images embedded in documents for further text editing or collaboration.

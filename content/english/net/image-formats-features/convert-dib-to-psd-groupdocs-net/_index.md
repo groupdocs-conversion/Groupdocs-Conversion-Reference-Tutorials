@@ -25,7 +25,7 @@ Are you looking to convert Device Independent Bitmap (DIB) files into Adobe Phot
 
 Before diving in, let's ensure you have everything ready. We’ll cover prerequisites next so you can hit the ground running.
 
-## Prerequisites (H2)
+## Prerequisites
 
 To follow this tutorial effectively, make sure you meet these requirements:
 
@@ -40,7 +40,7 @@ To follow this tutorial effectively, make sure you meet these requirements:
 - Basic understanding of C# programming.
 - Familiarity with file handling in .NET applications.
 
-## Setting Up GroupDocs.Conversion for .NET (H2)
+## Setting Up GroupDocs.Conversion for .NET
 
 Let's start by installing the necessary package. You can do this via either the NuGet Package Manager Console or using the .NET CLI:
 
@@ -86,7 +86,7 @@ This snippet sets up a basic structure for loading and preparing your image file
 
 ## Implementation Guide
 
-### Convert DIB Files to PSD Format (H2)
+### Convert DIB Files to PSD Format
 
 #### Overview
 Converting a DIB to PSD allows you to leverage Adobe’s powerful editing capabilities. Let's break down the process step-by-step:
@@ -142,7 +142,7 @@ converter.Convert(getPageStream, options);
 - **Missing Dependencies**: Double-check that GroupDocs.Conversion is properly installed and referenced.
 - **Conversion Errors**: Verify the source DIB file's integrity and ensure it's compatible with PSD conversion.
 
-## Practical Applications (H2)
+## Practical Applications
 
 Here are some real-world scenarios where converting DIB to PSD is beneficial:
 
@@ -153,7 +153,7 @@ Here are some real-world scenarios where converting DIB to PSD is beneficial:
 ### Integration Possibilities
 - Integrate this conversion process within .NET-based web applications or desktop software to automate image processing workflows.
 
-## Performance Considerations (H2)
+## Performance Considerations
 
 To optimize performance when converting images:
 
@@ -171,7 +171,7 @@ You've learned how to set up your environment, implement the conversion process 
 
 Ready to try this out? Dive deeper by visiting the [GroupDocs Documentation](https://docs.groupdocs.com/conversion/net/) and start transforming your images today!
 
-## FAQ Section (H2)
+## FAQ Section
 
 **1. What is GroupDocs.Conversion for .NET used for?**
 - It's a versatile library that supports converting various file formats, including image files like DIB to PSD.

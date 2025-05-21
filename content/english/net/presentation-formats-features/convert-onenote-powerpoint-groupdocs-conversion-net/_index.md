@@ -72,7 +72,7 @@ This basic setup ensures you're ready to perform document conversions.
 
 Now, let's walk through converting a OneNote file into a PowerPoint presentation step-by-step.
 
-### Converting OneNote to PowerPoint (H2)
+### Converting OneNote to PowerPoint
 **Overview**: This feature allows seamless conversion of Microsoft OneNote files into PowerPoint presentations using GroupDocs.Conversion.
 
 #### Step 1: Set Up File Paths

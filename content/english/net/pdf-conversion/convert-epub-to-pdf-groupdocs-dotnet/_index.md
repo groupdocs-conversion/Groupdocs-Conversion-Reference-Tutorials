@@ -132,18 +132,23 @@ Next steps? Explore more advanced features of GroupDocs.Conversion or delve into
 ## FAQ Section
 
 **Q: Can I convert multiple EPUB files at once?**
+
 A: Yes, you can loop through a directory and convert each file individually using the same process.
 
 **Q: What if my EPUB file is password-protected?**
+
 A: GroupDocs.Conversion supports encrypted documents. Ensure to handle authentication within your conversion logic.
 
 **Q: How do I handle large files efficiently?**
+
 A: Consider optimizing memory management and processing large files in chunks if necessary.
 
 **Q: Are there limitations on the number of conversions with a free trial license?**
+
 A: Free trials typically have usage limits; refer to GroupDocs documentation for specifics.
 
 **Q: Can I customize PDF appearance after conversion?**
+
 A: Yes, PdfConvertOptions provides various settings like margins, orientation, and more to tailor your output.
 
 ## Resources

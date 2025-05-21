@@ -4,7 +4,7 @@ linktitle: Convert VSDX to PDF
 second_title: GroupDocs.Conversion .NET API
 description: Learn how to convert VSDX files to PDF format effortlessly using GroupDocs.Conversion for .NET. Boost your productivity.
 weight: 28
-url: /net/file-format-conversion-convert-vsdx-to-pdf/
+url: /net/file-format-conversion-tutorials/convert-vsdx-to-pdf/
 ---
 
 # Convert VSDX to PDF

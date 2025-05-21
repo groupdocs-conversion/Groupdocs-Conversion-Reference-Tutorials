@@ -4,7 +4,7 @@ linktitle: Convert VDW to PDF
 second_title: GroupDocs.Conversion .NET API
 description: Learn how to convert VDW to PDF using GroupDocs.Conversion for .NET. Follow our step-by-step tutorial for seamless integration.
 weight: 24
-url: /net/file-format-conversion-convert-vdw-to-pdf/
+url: /net/file-format-conversion-tutorials/convert-vdw-to-pdf/
 ---
 
 # Convert VDW to PDF
