@@ -1,25 +1,25 @@
 ---
-title: تحويل XLTX إلى PDF
-linktitle: تحويل XLTX إلى PDF
-second_title: GroupDocs.Conversion .NET API
-description: تعرف على كيفية تحويل ملفات XLTX إلى PDF بسلاسة باستخدام GroupDocs.Conversion for .NET. تعزيز تعدد استخدامات تطبيقات .NET الخاصة بك.
-weight: 28
-url: /ar/net/converting-file-types-to-pdf/convert-xltx-to-pdf/
+"description": "تعرّف على كيفية تحويل ملفات XLTX إلى PDF بسلاسة باستخدام GroupDocs.Conversion لـ .NET. عزّز مرونة تطبيقات .NET لديك."
+"linktitle": "تحويل XLTX إلى PDF"
+"second_title": "GroupDocs.Conversion .NET API"
+"title": "تحويل XLTX إلى PDF"
+"url": "/ar/net/converting-file-types-to-pdf/convert-xltx-to-pdf/"
+"weight": 28
 ---
 
 # تحويل XLTX إلى PDF
 
 ## مقدمة
-في مجال تطوير البرمجيات، غالبًا ما تنشأ الحاجة إلى تحويل الملفات من تنسيق إلى آخر. سواء كان ذلك لأسباب التوافق أو ببساطة لتلبية متطلبات محددة، فإن وجود أداة موثوقة للتعامل مع مثل هذه التحويلات بكفاءة أمر لا يقدر بثمن. في هذا البرنامج التعليمي، سوف نتعمق في استخدام GroupDocs.Conversion for .NET لتحويل ملفات XLTX إلى تنسيق PDF بسلاسة. 
+في مجال تطوير البرمجيات، غالبًا ما تبرز الحاجة إلى تحويل الملفات من صيغة إلى أخرى. سواءً لأسباب تتعلق بالتوافق أو لتلبية متطلبات محددة، فإن وجود أداة موثوقة لإجراء هذه التحويلات بكفاءة أمر بالغ الأهمية. في هذا البرنامج التعليمي، سنتعمق في استخدام GroupDocs.Conversion for .NET لتحويل ملفات XLTX إلى صيغة PDF بسلاسة. 
 ## المتطلبات الأساسية
-قبل أن نبدأ رحلة التحويل هذه، تأكد من توفر المتطلبات الأساسية التالية:
+قبل أن نبدأ رحلة التحول هذه، تأكد من توفر المتطلبات الأساسية التالية لديك:
 ### GroupDocs.Conversion لـ .NET
- تأكد من تثبيت GroupDocs.Conversion for .NET وإعداده في بيئة التطوير لديك. يمكنك تحميل المكتبة من[موقع إلكتروني](https://releases.groupdocs.com/conversion/net/).
-### نموذج لملف XLTX
-قم بإعداد نموذج لملف XLTX الذي تنوي تحويله إلى تنسيق PDF.
+تأكد من تثبيت GroupDocs.Conversion لـ .NET وإعداده في بيئة التطوير لديك. يمكنك تنزيل المكتبة من [موقع إلكتروني](https://releases.groupdocs.com/conversion/net/).
+### ملف XLTX نموذجي
+قم بإعداد ملف XLTX نموذجي الذي تنوي تحويله إلى تنسيق PDF.
 
 ## استيراد مساحات الأسماء
-قبل الغوص في عملية التحويل، دعونا نستورد مساحات الأسماء الضرورية لمشروعنا:
+قبل الخوض في عملية التحويل، دعنا نستورد المساحات الأساسية اللازمة لمشروعنا:
 
 ```csharp
 using System;
@@ -27,47 +27,47 @@ using System.IO;
 using GroupDocs.Conversion.Options.Convert;
 ```
 
-الآن، دعنا نقسم عملية تحويل ملف XLTX إلى تنسيق PDF باستخدام GroupDocs.Conversion for .NET إلى خطوات تفصيلية:
+الآن، دعنا نقوم بتقسيم عملية تحويل ملف XLTX إلى تنسيق PDF باستخدام GroupDocs.Conversion لـ .NET إلى خطوات مفصلة:
 ## الخطوة 1: تحديد مجلد الإخراج واسم الملف
 ```csharp
 string outputFolder = "Your Document Directory";
 string outputFile = Path.Combine(outputFolder, "xltx-converted-to.pdf");
 ```
-حدد مجلد الإخراج حيث سيتم حفظ ملف PDF المحول وحدد اسم ملف PDF الناتج.
-## الخطوة 2: قم بتحميل ملف XLTX المصدر
+حدد مجلد الإخراج الذي سيتم حفظ ملف PDF المحول فيه وقم بتحديد اسم ملف PDF الإخراج.
+## الخطوة 2: تحميل ملف XLTX المصدر
 ```csharp
 using (var converter = new GroupDocs.Conversion.Converter(Constants.SAMPLE_XLTX))
 {
     // سيتم إدراج رمز التحويل هنا
 }
 ```
- إنشاء مثيل جديد لـ`Converter` فئة عن طريق توفير المسار إلى ملف XLTX المصدر.
+إنشاء مثيل جديد من `Converter` الفئة من خلال توفير المسار إلى ملف XLTX المصدر.
 ## الخطوة 3: تكوين خيارات التحويل
 ```csharp
 var options = new PdfConvertOptions();
 ```
- إنشاء مثيل لـ`PdfConvertOptions` فئة لتكوين خيارات التحويل. هذه الخطوة اختيارية وتسمح لك بتخصيص عملية التحويل وفقًا لمتطلباتك.
-## الخطوة 4: إجراء التحويل
+إنشاء مثيل لـ `PdfConvertOptions` استخدم فئة لتكوين خيارات التحويل. هذه الخطوة اختيارية، وتتيح لك تخصيص عملية التحويل وفقًا لاحتياجاتك.
+## الخطوة 4: تنفيذ التحويل
 ```csharp
 converter.Convert(outputFile, options);
 ```
- ابدأ عملية التحويل عن طريق الاتصال بـ`Convert` طريقة`Converter` فئة، وتمرير مسار ملف الإخراج وخيارات التحويل كمعلمات.
+ابدأ عملية التحويل عن طريق استدعاء `Convert` طريقة `Converter` الفئة، تمرير مسار ملف الإخراج وخيارات التحويل كمعلمات.
 ## الخطوة 5: عرض رسالة إتمام التحويل
 ```csharp
 Console.WriteLine("\nConversion to pdf completed successfully. \nCheck output in {0}", outputFolder);
 ```
-قم بعرض رسالة تشير إلى اكتمال عملية التحويل بنجاح بالإضافة إلى موقع ملف PDF الناتج.
+عرض رسالة تشير إلى اكتمال عملية التحويل بنجاح بالإضافة إلى موقع ملف PDF الناتج.
 
 ## خاتمة
-في الختام، يوفر GroupDocs.Conversion for .NET حلاً قويًا لتحويل ملفات XLTX إلى تنسيق PDF دون عناء. باتباع الخطوات الموضحة في هذا البرنامج التعليمي، يمكنك دمج وظيفة تحويل الملفات بسلاسة في تطبيقات .NET الخاصة بك، مما يعزز تنوعها وسهولة استخدامها.
+في الختام، يوفر GroupDocs.Conversion لـ .NET حلاً فعالاً لتحويل ملفات XLTX إلى صيغة PDF بسهولة. باتباع الخطوات الموضحة في هذا البرنامج التعليمي، يمكنك دمج وظيفة تحويل الملفات بسلاسة في تطبيقات .NET، مما يعزز تنوعها وسهولة استخدامها.
 ## الأسئلة الشائعة
-### هل يتوافق GroupDocs.Conversion for .NET مع كافة إصدارات .NET؟
-يتوافق GroupDocs.Conversion for .NET مع .NET Framework 4.5 والإصدارات الأحدث.
+### هل GroupDocs.Conversion for .NET متوافق مع كافة إصدارات .NET؟
+يعد GroupDocs.Conversion لـ .NET متوافقًا مع .NET Framework 4.5 والإصدارات الأحدث.
 ### هل يمكنني تحويل ملفات XLTX متعددة في وقت واحد باستخدام GroupDocs.Conversion لـ .NET؟
-نعم، يدعم GroupDocs.Conversion for .NET تحويل الدُفعات، مما يسمح لك بتحويل ملفات XLTX متعددة بشكل متزامن.
-### هل يدعم GroupDocs.Conversion for .NET تنسيقات الملفات الأخرى بخلاف XLTX وPDF؟
-نعم، يدعم GroupDocs.Conversion for .NET نطاقًا واسعًا من تنسيقات الملفات للتحويل، بما في ذلك DOCX وXLSX وPPTX والمزيد.
+نعم، يدعم GroupDocs.Conversion لـ .NET التحويل الدفعي، مما يسمح لك بتحويل ملفات XLTX متعددة في وقت واحد.
+### هل يدعم GroupDocs.Conversion لـ .NET تنسيقات ملفات أخرى غير XLTX وPDF؟
+نعم، يدعم GroupDocs.Conversion لـ .NET مجموعة واسعة من تنسيقات الملفات للتحويل، بما في ذلك DOCX وXLSX وPPTX والمزيد.
 ### هل هناك نسخة تجريبية مجانية متاحة لـ GroupDocs.Conversion لـ .NET؟
- نعم، يمكنك الاستفادة من النسخة التجريبية المجانية من GroupDocs.Conversion لـ .NET من[موقع إلكتروني](https://releases.groupdocs.com/).
-### أين يمكنني طلب المساعدة أو الدعم بخصوص GroupDocs.Conversion for .NET؟
- يمكنك زيارة[منتدى GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion/11) لأية استفسارات أو دعم يتعلق بالمكتبة.
+نعم، يمكنك الاستفادة من النسخة التجريبية المجانية من GroupDocs.Conversion لـ .NET من [موقع إلكتروني](https://releases.groupdocs.com/).
+### أين يمكنني الحصول على المساعدة أو الدعم لـ GroupDocs.Conversion لـ .NET؟
+يمكنك زيارة [منتدى GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion/11) لأي استفسارات أو دعم يتعلق بالمكتبة.

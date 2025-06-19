@@ -1,34 +1,34 @@
 ---
-title: Převést PSD do PDF
-linktitle: Převést PSD do PDF
-second_title: GroupDocs.Conversion .NET API
-description: Naučte se, jak bez námahy převést soubory PSD do PDF pomocí GroupDocs.Conversion for .NET. Postupujte podle našeho podrobného průvodce.
-weight: 10
-url: /cs/net/file-format-conversion-convert-psd-to-pdf/
+"description": "Naučte se, jak snadno převést soubory PSD do PDF pomocí GroupDocs.Conversion pro .NET. Postupujte podle našeho podrobného návodu."
+"linktitle": "Převod PSD do PDF"
+"second_title": "GroupDocs.Conversion .NET API"
+"title": "Převod PSD do PDF"
+"url": "/cs/net/file-format-conversion-tutorials/convert-psd-to-pdf/"
+"weight": 10
 ---
 
-# Převést PSD do PDF
+# Převod PSD do PDF
 
-## Úvod
-V tomto tutoriálu vás provedeme procesem převodu souborů PSD (Photoshop Document) do formátu PDF pomocí knihovny GroupDocs.Conversion pro .NET. Budete-li se řídit těmito podrobnými pokyny, budete moci snadno převádět soubory PSD na soubory PDF.
+## Zavedení
+V tomto tutoriálu vás provedeme procesem převodu souborů PSD (dokumenty Photoshopu) do formátu PDF pomocí knihovny GroupDocs.Conversion pro .NET. Dodržováním těchto podrobných pokynů budete schopni bez problémů převést soubory PSD do formátu PDF.
 ## Předpoklady
 Než začneme, ujistěte se, že máte nastaveny následující předpoklady:
-1.  Instalace knihovny GroupDocs.Conversion: Ujistěte se, že jste nainstalovali knihovnu GroupDocs.Conversion pro .NET. Můžete si jej stáhnout z[webová stránka](https://releases.groupdocs.com/conversion/net/).
-2. Přístup k souborům PSD: Získejte přístup k souborům PSD, které chcete převést do PDF.
+1. Instalace knihovny GroupDocs.Conversion: Ujistěte se, že máte nainstalovanou knihovnu GroupDocs.Conversion pro .NET. Můžete si ji stáhnout z [webové stránky](https://releases.groupdocs.com/conversion/net/).
+2. Přístup k souborům PSD: Mějte přístup k souborům PSD, které chcete převést do formátu PDF.
 
-## Import jmenných prostorů
-Než se ponoříte do procesu převodu, importujte potřebné jmenné prostory:
+## Importovat jmenné prostory
+Než se ponoříme do procesu konverze, importujte potřebné jmenné prostory:
 ```csharp
 using System;
 using System.IO;
 using GroupDocs.Conversion.Options.Convert;
 ```
-## Krok 1: Definujte výstupní složku a soubor
+## Krok 1: Definování výstupní složky a souboru
 ```csharp
 string outputFolder = "Your Document Directory";
 string outputFile = Path.Combine(outputFolder, "psd-converted-to.pdf");
 ```
- V tomto kroku určete výstupní složku, kam chcete uložit převedený soubor PDF. Ujistěte se, že jste vyměnili`"Your Document Directory"` se skutečnou cestou k adresáři.
+tomto kroku určete výstupní složku, kam chcete uložit převedený soubor PDF. Ujistěte se, že jste nahradili `"Your Document Directory"` se skutečnou cestou k adresáři.
 ## Krok 2: Načtěte zdrojový soubor PSD
 ```csharp
 using (var converter = new GroupDocs.Conversion.Converter("Path_to_your_PSD_file.psd"))
@@ -38,28 +38,28 @@ using (var converter = new GroupDocs.Conversion.Converter("Path_to_your_PSD_file
     converter.Convert(outputFile, options);
 }
 ```
- Zde inicializujete`Converter` objekt s cestou k vašemu souboru PSD. Nahradit`"Path_to_your_PSD_file.psd"` se skutečnou cestou k vašemu souboru PSD. Poté vytvořte instanci`PdfConvertOptions` specifikovat nastavení převodu. Nakonec zavolejte na`Convert` způsob převodu souboru PSD do formátu PDF a jeho uložení do určeného výstupního souboru.
-## Krok 3: Zkontrolujte dokončení konverze
+Zde inicializujete `Converter` objekt cestou k vašemu souboru PSD. Nahraďte `"Path_to_your_PSD_file.psd"` se skutečnou cestou k vašemu souboru PSD. Poté vytvořte instanci `PdfConvertOptions` pro určení nastavení převodu. Nakonec zavolejte `Convert` metoda pro převod souboru PSD do PDF a jeho uložení do zadaného výstupního souboru.
+## Krok 3: Kontrola dokončení konverze
 ```csharp
 Console.WriteLine("\nConversion to PDF completed successfully. \nCheck output in {0}", outputFolder);
 ```
-Tento krok jednoduše vytiskne zprávu do konzole potvrzující úspěšné dokončení procesu převodu a označí umístění, kam je převedený soubor PDF uložen.
+Tento krok jednoduše vypíše do konzole zprávu potvrzující úspěšné dokončení procesu převodu a označující umístění, kam je převedený soubor PDF uložen.
 
 ## Závěr
-tomto tutoriálu jsme si ukázali, jak převést soubory PSD do formátu PDF pomocí knihovny GroupDocs.Conversion for .NET. Podle uvedených kroků můžete bez námahy převést soubory PSD na soubory PDF, což umožní snadnější sdílení a prohlížení vašich dokumentů.
-## FAQ
+tomto tutoriálu jsme si ukázali, jak převést soubory PSD do formátu PDF pomocí knihovny GroupDocs.Conversion pro .NET. Dodržením uvedených kroků můžete snadno převést soubory PSD do formátu PDF, což usnadní sdílení a prohlížení vašich dokumentů.
+## Často kladené otázky
 
-### Mohu pomocí GroupDocs.Conversion převést více souborů PSD najednou?
-Ano, pomocí GroupDocs.Conversion můžete dávkově převést více souborů PSD do PDF nebo jiných formátů.
+### Mohu převést více souborů PSD najednou pomocí GroupDocs.Conversion?
+Ano, můžete dávkově převést více souborů PSD do PDF nebo jiných formátů pomocí GroupDocs.Conversion.
 
-### Podporuje GroupDocs.Conversion jiné výstupní formáty kromě PDF?
+### Podporuje GroupDocs.Conversion i jiné výstupní formáty kromě PDF?
 Ano, GroupDocs.Conversion podporuje širokou škálu výstupních formátů včetně DOCX, XLSX, PPTX, JPEG, PNG a dalších.
 
 ### Je GroupDocs.Conversion kompatibilní s různými verzemi .NET?
-Ano, GroupDocs.Conversion je kompatibilní s různými verzemi .NET včetně .NET Core a .NET Framework.
+Ano, GroupDocs.Conversion je kompatibilní s různými verzemi .NET, včetně .NET Core a .NET Framework.
 
-### Mohu přizpůsobit možnosti převodu pro větší kontrolu nad výstupem?
-Ano, GroupDocs.Conversion poskytuje rozsáhlé možnosti přizpůsobení, jako je určení velikosti stránky, orientace, kvality a další.
+### Mohu si přizpůsobit možnosti převodu pro větší kontrolu nad výstupem?
+Ano, GroupDocs.Conversion nabízí rozsáhlé možnosti přizpůsobení, jako je určení velikosti stránky, orientace, kvality a dalších.
 
-### Je k dispozici zkušební verze pro testování před zakoupením?
-Ano, můžete získat bezplatnou zkušební verzi GroupDocs.Conversion z[webová stránka](https://releases.groupdocs.com/conversion/net/) k otestování jeho funkcí před nákupem.
+### Je k dispozici zkušební verze pro vyzkoušení před zakoupením?
+Ano, můžete získat bezplatnou zkušební verzi GroupDocs.Conversion z [webové stránky](https://releases.groupdocs.com/conversion/net/) vyzkoušet jeho funkce před nákupem.

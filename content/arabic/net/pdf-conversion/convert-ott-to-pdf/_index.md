@@ -1,29 +1,29 @@
 ---
-title: تحويل OTT إلى PDF
-linktitle: تحويل OTT إلى PDF
-second_title: GroupDocs.Conversion .NET API
-description: تعرف على كيفية تحويل ملفات OTT إلى تنسيق PDF بسهولة باستخدام GroupDocs.Conversion for .NET. دمج تحويل الملفات بسلاسة في تطبيقات .NET الخاصة بك.
-weight: 16
-url: /ar/net/pdf-conversion/convert-ott-to-pdf/
+"description": "تعرّف على كيفية تحويل ملفات OTT إلى صيغة PDF بسهولة باستخدام GroupDocs.Conversion لـ .NET. تكامل تحويل الملفات بسلاسة مع تطبيقات .NET."
+"linktitle": "تحويل OTT إلى PDF"
+"second_title": "GroupDocs.Conversion .NET API"
+"title": "تحويل OTT إلى PDF"
+"url": "/ar/net/pdf-conversion/convert-ott-to-pdf/"
+"weight": 16
 ---
 
 # تحويل OTT إلى PDF
 
 ## مقدمة
 
-في العالم الرقمي اليوم، تعد القدرة على تحويل الملفات بسلاسة من تنسيق إلى آخر أمرًا بالغ الأهمية. سواء كنت تتعامل مع المستندات أو جداول البيانات أو العروض التقديمية، فإن امتلاك الأدوات المناسبة يمكن أن يحدث فرقًا كبيرًا. تعد GroupDocs.Conversion for .NET إحدى هذه الأدوات التي تمكن المطورين من تحويل تنسيقات الملفات المختلفة بسهولة باستخدام طرق بسيطة وفعالة. في هذا البرنامج التعليمي، سوف نستكشف كيفية تحويل ملفات OTT إلى تنسيق PDF باستخدام GroupDocs.Conversion for .NET.
+في عالمنا الرقمي اليوم، تُعدّ القدرة على تحويل الملفات بسلاسة من صيغة إلى أخرى أمرًا بالغ الأهمية. سواء كنت تتعامل مع مستندات أو جداول بيانات أو عروض تقديمية، فإن امتلاك الأدوات المناسبة يُحدث فرقًا كبيرًا. GroupDocs.Conversion for .NET هي إحدى هذه الأدوات التي تُمكّن المطورين من تحويل مختلف صيغ الملفات بسهولة باستخدام طرق بسيطة وفعالة. في هذا البرنامج التعليمي، سنستكشف كيفية تحويل ملفات OTT إلى صيغة PDF باستخدام GroupDocs.Conversion for .NET.
 
 ## المتطلبات الأساسية
 
 قبل أن نتعمق في عملية التحويل، تأكد من توفر المتطلبات الأساسية التالية:
 
-### قم بتثبيت GroupDocs.Conversion لـ .NET
+### تثبيت GroupDocs.Conversion لـ .NET
 
- تأكد من تثبيت GroupDocs.Conversion for .NET في بيئة التطوير الخاصة بك. إذا لم تكن قد قمت بتثبيته بالفعل، فيمكنك تنزيل المكتبة من[صفحة التحميل](https://releases.groupdocs.com/conversion/net/) واتبع تعليمات التثبيت المقدمة.
+تأكد من تثبيت GroupDocs.Conversion لـ .NET في بيئة التطوير لديك. إذا لم تكن قد ثبّتها بعد، يمكنك تنزيل المكتبة من [صفحة التحميل](https://releases.groupdocs.com/conversion/net/) واتبع تعليمات التثبيت المقدمة.
 
 ## استيراد مساحات الأسماء
 
-قبل البدء في البرمجة، تأكد من تضمين مساحات الأسماء المطلوبة في مشروعك. يتيح لك هذا الوصول إلى الفئات والأساليب التي يوفرها GroupDocs.Conversion لـ .NET بسلاسة.
+قبل البدء بالبرمجة، تأكد من تضمين مساحات الأسماء المطلوبة في مشروعك. هذا يسمح لك بالوصول بسلاسة إلى الفئات والأساليب التي يوفرها GroupDocs.Conversion لـ .NET.
 
 ```csharp
 using System;
@@ -41,9 +41,9 @@ string outputFolder = "Your Document Directory";
 string outputFile = Path.Combine(outputFolder, "ott-converted-to.pdf");
 ```
 
- في هذه الخطوة، نحدد مجلد الإخراج حيث سيتم حفظ ملف PDF المحول. تأكد من الاستبدال`"Your Document Directory"`باستخدام مسار الدليل المطلوب حيث تريد حفظ الملف المحول.
+في هذه الخطوة، نحدد مجلد الإخراج الذي سيتم حفظ ملف PDF المُحوّل فيه. تأكد من استبدال `"Your Document Directory"` مع مسار الدليل المطلوب حيث تريد حفظ الملف المحول.
 
-## الخطوة 2: قم بتحميل ملف OTT المصدر
+## الخطوة 2: تحميل ملف OTT المصدر
 
 ```csharp
 using (var converter = new GroupDocs.Conversion.Converter(Constants.SAMPLE_OTT))
@@ -52,15 +52,15 @@ using (var converter = new GroupDocs.Conversion.Converter(Constants.SAMPLE_OTT))
 }
 ```
 
- هنا نقوم بإنشاء نسخة جديدة من`Converter` فئة مقدمة من GroupDocs.Conversion، وتمرير مسار ملف OTT المصدر كمعلمة (`Constants.SAMPLE_OTT` يمثل المسار إلى ملف OTT).
+هنا، نقوم بإنشاء مثيل جديد لـ `Converter` الفئة التي يوفرها GroupDocs.Conversion، وتمرير مسار ملف OTT المصدر كمعلمة (`Constants.SAMPLE_OTT` يمثل المسار إلى ملف OTT).
 
-## الخطوة 3: ضبط خيارات التحويل
+## الخطوة 3: تعيين خيارات التحويل
 
 ```csharp
 var options = new PdfConvertOptions();
 ```
 
- في هذه الخطوة، نقوم بإنشاء مثيل`PdfConvertOptions` class لتحديد أي خيارات تحويل إضافية. وهذا يسمح بتخصيص عملية التحويل وفقًا لمتطلبات محددة.
+في هذه الخطوة، نقوم بإنشاء مثيل لـ `PdfConvertOptions` لتحديد خيارات تحويل إضافية. يسمح هذا بتخصيص عملية التحويل وفقًا لمتطلبات محددة.
 
 ## الخطوة 4: تحويل OTT إلى PDF
 
@@ -68,7 +68,7 @@ var options = new PdfConvertOptions();
 converter.Convert(outputFile, options);
 ```
 
- وأخيراً نسمي`Convert` الطريقة على مثيل المحول، وتمرير مسار ملف الإخراج وخيارات التحويل كمعلمات. يؤدي هذا إلى بدء عملية التحويل من تنسيق OTT إلى تنسيق PDF.
+وأخيرا، نسميها `Convert` على نسخة المُحوِّل، مع تمرير مسار ملف الإخراج وخيارات التحويل كمعلمات. هذا يُفعِّل عملية التحويل من صيغة OTT إلى صيغة PDF.
 
 ## الخطوة 5: عرض حالة التحويل
 
@@ -76,30 +76,30 @@ converter.Convert(outputFile, options);
 Console.WriteLine("\nConversion to pdf completed successfully. \nCheck output in {0}", outputFolder);
 ```
 
-بعد اكتمال التحويل، نعرض رسالة نجاح مع الدليل الذي تم حفظ ملف PDF المحول فيه.
+بعد اكتمال التحويل، نعرض رسالة نجاح بالإضافة إلى الدليل الذي تم حفظ ملف PDF المحول فيه.
 
 ## خاتمة
 
-في الختام، يوفر GroupDocs.Conversion for .NET حلاً بسيطًا ولكنه قوي لتحويل ملفات OTT إلى تنسيق PDF دون عناء. باتباع الدليل التفصيلي الموضح في هذا البرنامج التعليمي، يمكنك دمج وظيفة تحويل الملفات بسلاسة في تطبيقات .NET الخاصة بك بسهولة.
+في الختام، يوفر GroupDocs.Conversion لـ .NET حلاً بسيطًا وفعالًا لتحويل ملفات OTT إلى صيغة PDF بسهولة. باتباع الدليل المفصل الموضح في هذا البرنامج التعليمي، يمكنك دمج وظيفة تحويل الملفات بسلاسة في تطبيقات .NET الخاصة بك بسهولة.
 
 ## الأسئلة الشائعة
 
 ### س: هل GroupDocs.Conversion for .NET متوافق مع كافة أطر عمل .NET؟
 
-ج: نعم، GroupDocs.Conversion for .NET متوافق مع أطر عمل .NET المتنوعة، بما في ذلك .NET Core و.NET Framework.
+ج: نعم، GroupDocs.Conversion لـ .NET متوافق مع مختلف أطر عمل .NET، بما في ذلك .NET Core و.NET Framework.
 
-### س: هل يمكنني تحويل ملفات بخلاف OTT إلى PDF باستخدام GroupDocs.Conversion؟
+### س: هل يمكنني تحويل ملفات أخرى غير OTT إلى PDF باستخدام GroupDocs.Conversion؟
 
-ج: بالتأكيد! يدعم GroupDocs.Conversion نطاقًا واسعًا من تنسيقات الملفات للتحويل، بما في ذلك DOCX وXLSX وPPTX وغيرها الكثير.
+ج: بالتأكيد! يدعم GroupDocs.Conversion مجموعة واسعة من صيغ الملفات للتحويل، بما في ذلك DOCX وXLSX وPPTX وغيرها الكثير.
 
-### س: هل يتطلب GroupDocs.Conversion for .NET الاتصال بالإنترنت لتحويل الملف؟
+### س: هل يتطلب GroupDocs.Conversion لـ .NET اتصالاً بالإنترنت لتحويل الملفات؟
 
-ج: لا، يقوم GroupDocs.Conversion for .NET بإجراء تحويلات الملفات محليًا دون الحاجة إلى الاتصال بالإنترنت، مما يضمن خصوصية البيانات وأمانها.
+ج: لا، يقوم GroupDocs.Conversion for .NET بإجراء تحويلات الملفات محليًا دون الحاجة إلى اتصال بالإنترنت، مما يضمن خصوصية البيانات وأمانها.
 
 ### س: هل هناك نسخة تجريبية مجانية متاحة لـ GroupDocs.Conversion لـ .NET؟
 
-ج: نعم، يمكنك استكشاف ميزات GroupDocs.Conversion for .NET عن طريق الوصول إلى الإصدار التجريبي المجاني المتاح[هنا](https://releases.groupdocs.com/).
+ج: نعم، يمكنك استكشاف ميزات GroupDocs.Conversion لـ .NET من خلال الوصول إلى الإصدار التجريبي المجاني المتاح [هنا](https://releases.groupdocs.com/).
 
-### س: أين يمكنني طلب المساعدة أو الدعم المتعلق بـ GroupDocs.Conversion for .NET؟
+### س: أين يمكنني طلب المساعدة أو الدعم المتعلق بـ GroupDocs.Conversion لـ .NET؟
 
- ج: للحصول على أي مساعدة أو استفسارات، يمكنك زيارة منتدى GroupDocs.Conversion[هنا](https://forum.groupdocs.com/c/conversion/11) أو الاتصال بالدعم مباشرة.
+ج: للحصول على أي مساعدة أو استفسارات، يمكنك زيارة منتدى GroupDocs.Conversion [هنا](https://forum.groupdocs.com/c/conversion/11) أو اتصل بالدعم مباشرة.
