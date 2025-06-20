@@ -1,20 +1,20 @@
 ---
-title: PPTX'yi PDF'ye dönüştür
-linktitle: PPTX'yi PDF'ye dönüştür
-second_title: GroupDocs.Conversion .NET API'si
-description: GroupDocs.Conversion for .NET'i kullanarak PowerPoint sunumlarını (PPTX) PDF formatına nasıl dönüştüreceğinizi öğrenin. Kolay ve verimli dönüştürme işlemi.
-weight: 29
-url: /tr/net/pdf-conversion/convert-pptx-to-pdf/
+"description": "GroupDocs.Conversion for .NET kullanarak PowerPoint sunumlarını (PPTX) PDF formatına nasıl dönüştüreceğinizi öğrenin. Kolay ve etkili dönüştürme süreci."
+"linktitle": "PPTX'i PDF'ye dönüştür"
+"second_title": "GroupDocs.Conversion .NET API"
+"title": "PPTX'i PDF'ye dönüştür"
+"url": "/tr/net/pdf-conversion/convert-pptx-to-pdf/"
+"weight": 29
 ---
 
-# PPTX'yi PDF'ye dönüştür
+# PPTX'i PDF'ye dönüştür
 
 ## giriiş
-Bu öğreticide, .NET için GroupDocs.Conversion kitaplığını kullanarak bir PowerPoint sunumu (PPTX) dosyasını Taşınabilir Belge Formatına (PDF) dönüştürme sürecini anlatacağız. Bu dönüşümü gerçekleştirmek için aşağıdaki adımları izleyin.
-## Önkoşullar
-Başlamadan önce aşağıdaki önkoşullara sahip olduğunuzdan emin olun:
-1.  GroupDocs.Conversion for .NET Kitaplığı: GroupDocs.Conversion for .NET kitaplığını yüklediğinizden emin olun. Şuradan indirebilirsiniz[Burada](https://releases.groupdocs.com/conversion/net/).
-2. Geliştirme Ortamı: Visual Studio veya başka herhangi bir .NET IDE gibi gerekli araçları içeren bir geliştirme ortamı kurun.
+Bu eğitimde, .NET için GroupDocs.Conversion kitaplığını kullanarak bir PowerPoint sunumu (PPTX) dosyasını Taşınabilir Belge Biçimi'ne (PDF) dönüştürme sürecini ele alacağız. Bu dönüşümü gerçekleştirmek için aşağıdaki adımları izleyin.
+## Ön koşullar
+Başlamadan önce aşağıdaki ön koşullara sahip olduğunuzdan emin olun:
+1. GroupDocs.Conversion for .NET Kütüphanesi: GroupDocs.Conversion for .NET kütüphanesini yüklediğinizden emin olun. Bunu şuradan indirebilirsiniz: [Burada](https://releases.groupdocs.com/conversion/net/).
+2. Geliştirme Ortamı: Visual Studio veya herhangi bir .NET IDE gibi gerekli araçları içeren bir geliştirme ortamı kurun.
 
 ## Ad Alanlarını İçe Aktar
 GroupDocs.Conversion işlevlerine erişmek için projenize gerekli ad alanlarını ekleyin.
@@ -24,45 +24,45 @@ using System.IO;
 using GroupDocs.Conversion.Options.Convert;
 ```
 ## Adım 1: Çıktı Klasörünü ve Dosya Adını Ayarlayın
-İlk olarak, dönüştürülen PDF dosyasının kaydedileceği çıktı klasörünü tanımlayın ve çıktı PDF dosyasının adını belirtin.
+Öncelikle dönüştürülen PDF dosyasının kaydedileceği çıktı klasörünü tanımlayın ve çıktı PDF dosyasının adını belirtin.
 ```csharp
 string outputFolder = "Your Document Directory";
 string outputFile = Path.Combine(outputFolder, "pptx-converted-to.pdf");
 ```
 ## Adım 2: Kaynak PPTX Dosyasını Yükleyin
-GroupDocs.Conversion kitaplığını kullanarak kaynak PowerPoint sunumu (PPTX) dosyasını yükleyin.
+Kaynak PowerPoint sunumu (PPTX) dosyasını GroupDocs.Conversion kitaplığını kullanarak yükleyin.
 ```csharp
 using (var converter = new GroupDocs.Conversion.Converter(Constants.SAMPLE_PPTX))
 {
     // Dönüşüm mantığı buraya yerleştirilecek
 }
 ```
-## 3. Adım: Dönüşüm Seçeneklerini Belirleyin
-Dönüştürme seçeneklerini tanımlayın. Bu durumda, PDF formatına dönüştürüyoruz, dolayısıyla bir örneğini oluşturun.`PdfConvertOptions`.
+## Adım 3: Dönüştürme Seçeneklerini Belirleyin
+Dönüştürme seçeneklerini tanımlayın. Bu durumda, PDF formatına dönüştürüyoruz, bu nedenle bir örnek oluşturun `PdfConvertOptions`.
 ```csharp
 var options = new PdfConvertOptions();
 ```
-## Adım 4: Dönüşümü Gerçekleştirin
- Dönüştürme işlemini kullanarak yürütün.`Convert` yöntemini kullanın ve çıktı dosyası yolunu dönüştürme seçenekleriyle birlikte iletin.
+## Adım 4: Dönüştürmeyi Gerçekleştirin
+Dönüştürme işlemini kullanarak gerçekleştirin `Convert` yöntemini kullanın ve dönüşüm seçenekleriyle birlikte çıktı dosyası yolunu geçin.
 ```csharp
 converter.Convert(outputFile, options);
 ```
 ## Adım 5: Çıktıyı Kontrol Edin
-Dönüştürme başarıyla tamamlandıktan sonra, tamamlandığını ve çıktı dosyasının konumunu belirten bir mesaj görüntüleyin.
+Dönüştürme başarıyla tamamlandıktan sonra, tamamlanmayı ve çıktı dosyasının konumunu belirten bir mesaj görüntülenir.
 ```csharp
 Console.WriteLine("\nConversion to PDF completed successfully. \nCheck output in {0}", outputFolder);
 ```
 
 ## Çözüm
-Bu eğitimde, .NET için GroupDocs.Conversion kitaplığını kullanarak bir PowerPoint sunumu (PPTX) dosyasını Taşınabilir Belge Formatına (PDF) nasıl dönüştüreceğimizi öğrendik. Yukarıda özetlenen adımları takip ederek .NET uygulamalarınızda bu dönüşümü kolaylıkla gerçekleştirebilirsiniz.
-## SSS'ler
-### S: GroupDocs.Conversion tüm .NET sürümleriyle uyumlu mudur?
-C: Evet, GroupDocs.Conversion, .NET Core ve .NET Standard dahil olmak üzere .NET Framework 2.0 ve üstünü destekler.
+Bu eğitimde, .NET için GroupDocs.Conversion kütüphanesini kullanarak bir PowerPoint sunumu (PPTX) dosyasını Taşınabilir Belge Biçimine (PDF) nasıl dönüştüreceğinizi öğrendik. Yukarıda özetlenen adımları izleyerek, bu dönüşümü .NET uygulamalarınızda kolayca gerçekleştirebilirsiniz.
+## SSS
+### S: GroupDocs.Conversion .NET'in tüm sürümleriyle uyumlu mu?
+C: Evet, GroupDocs.Conversion .NET Core ve .NET Standard dahil olmak üzere .NET Framework 2.0 ve üzeri sürümleri destekler.
 ### S: Dosyaları PDF dışındaki formatlara dönüştürebilir miyim?
-C: Evet, GroupDocs.Conversion, dönüştürme için aralarında Word, Excel, HTML ve daha fazlasının da bulunduğu çok çeşitli belge formatlarını destekler.
-### S: GroupDocs.Conversion herhangi bir ücretsiz deneme sunuyor mu?
- C: Evet, GroupDocs.Conversion'ın ücretsiz deneme sürümüne şu adresten erişebilirsiniz:[Burada](https://releases.groupdocs.com/).
+C: Evet, GroupDocs.Conversion Word, Excel, HTML ve daha fazlası dahil olmak üzere dönüştürme için çok çeşitli belge biçimlerini destekler.
+### S: GroupDocs.Conversion ücretsiz deneme sunuyor mu?
+A: Evet, GroupDocs.Conversion'ın ücretsiz deneme sürümüne şu adresten erişebilirsiniz: [Burada](https://releases.groupdocs.com/).
 ### S: GroupDocs.Conversion için nasıl destek alabilirim?
- C: GroupDocs topluluk forumundan destek alabilirsiniz[Burada](https://forum.groupdocs.com/c/conversion/11).
+A: GroupDocs topluluk forumundan destek alabilirsiniz [Burada](https://forum.groupdocs.com/c/conversion/11).
 ### S: GroupDocs.Conversion için geçici bir lisans mevcut mu?
- C: Evet, GroupDocs.Conversion için geçici bir lisansı şuradan alabilirsiniz:[Burada](https://purchase.groupdocs.com/temporary-license/).
+A: Evet, GroupDocs.Conversion için geçici bir lisansı şu adresten edinebilirsiniz: [Burada](https://purchase.groupdocs.com/temporary-license/).
