@@ -1,40 +1,40 @@
 ---
-title: Converti XLSM in PDF
-linktitle: Converti XLSM in PDF
-second_title: API GroupDocs.Conversion .NET
-description: Scopri come convertire file XLSM in formato PDF senza sforzo utilizzando GroupDocs.Conversion per .NET. Guida passo passo inclusa.
-weight: 23
-url: /it/net/converting-file-types-to-pdf/convert-xlsm-to-pdf/
+"description": "Scopri come convertire facilmente i file XLSM in formato PDF utilizzando GroupDocs.Conversion per .NET. Guida passo passo inclusa."
+"linktitle": "Convertire XLSM in PDF"
+"second_title": "API .NET di GroupDocs.Conversion"
+"title": "Convertire XLSM in PDF"
+"url": "/it/net/converting-file-types-to-pdf/convert-xlsm-to-pdf/"
+"weight": 23
 ---
 
-# Converti XLSM in PDF
+# Convertire XLSM in PDF
 
-## introduzione
-In questo tutorial, approfondiremo il processo di conversione dei file XLSM in formato PDF utilizzando la potente libreria GroupDocs.Conversion per .NET. La conversione di file è un'attività comune in molte applicazioni e GroupDocs.Conversion semplifica questo processo, offrendo funzionalità di conversione efficienti e affidabili.
+## Introduzione
+In questo tutorial, approfondiremo il processo di conversione di file XLSM in formato PDF utilizzando la potente libreria GroupDocs.Conversion per .NET. La conversione dei file è un'operazione comune in molte applicazioni e GroupDocs.Conversion semplifica questo processo, offrendo funzionalità di conversione efficienti e affidabili.
 ## Prerequisiti
-Prima di iniziare, assicurati di disporre dei seguenti prerequisiti:
+Prima di iniziare, assicurati di avere i seguenti prerequisiti:
 ### 1. Installa GroupDocs.Conversion per .NET
-È possibile scaricare la libreria GroupDocs.Conversion per .NET dal sito Web.[Scarica qui](https://releases.groupdocs.com/conversion/net/)
-### 2. Ottieni una licenza o utilizza una licenza temporanea
- Per utilizzare GroupDocs.Conversion per .NET, è necessaria una licenza valida. Se non ne hai una, puoi ottenere una licenza temporanea a scopo di test.[Ottieni una licenza temporanea](https://purchase.groupdocs.com/temporary-license/)
+È possibile scaricare la libreria GroupDocs.Conversion per .NET dal sito web. [Scarica qui](https://releases.groupdocs.com/conversion/net/)
+### 2. Ottenere una licenza o utilizzare una licenza temporanea
+Per utilizzare GroupDocs.Conversion per .NET, è necessaria una licenza valida. Se non ne possiedi una, puoi ottenere una licenza temporanea a scopo di test. [Ottieni una licenza temporanea](https://purchase.groupdocs.com/temporary-license/)
 ### 3. Configura il tuo ambiente di sviluppo
-Assicurati di avere un ambiente di sviluppo configurato per la programmazione .NET. Puoi utilizzare Visual Studio o qualsiasi altro IDE preferito.
+Assicurati di avere un ambiente di sviluppo configurato per la programmazione .NET. Puoi usare Visual Studio o qualsiasi altro IDE preferito.
 
 ## Importa spazi dei nomi
-Innanzitutto, importiamo gli spazi dei nomi necessari nel nostro progetto:
+Per prima cosa, importiamo gli spazi dei nomi necessari nel nostro progetto:
 ```csharp
 using System;
 using System.IO;
 using GroupDocs.Conversion.Options.Convert;
 ```
 
-Ora suddividiamo il processo di conversione in più passaggi:
+Ora scomponiamo il processo di conversione in più passaggi:
 ## Passaggio 1: definire la cartella di output e il percorso del file
 ```csharp
 string outputFolder = "Your Document Directory";
 string outputFile = Path.Combine(outputFolder, "xlsm-converted-to.pdf");
 ```
- Assicurarsi di sostituire`"Your Document Directory"` con il percorso della directory in cui desideri salvare il file PDF convertito.
+Assicurarsi di sostituire `"Your Document Directory"` con il percorso della directory in cui si desidera salvare il file PDF convertito.
 ## Passaggio 2: caricare il file XLSM di origine
 ```csharp
 using (var converter = new GroupDocs.Conversion.Converter("Path_to_your_XLSM_file"))
@@ -42,7 +42,7 @@ using (var converter = new GroupDocs.Conversion.Converter("Path_to_your_XLSM_fil
 	// La logica di conversione andrà qui
 }
 ```
- Sostituire`"Path_to_your_XLSM_file"` con il percorso effettivo del file XLSM.
+Sostituire `"Path_to_your_XLSM_file"` con il percorso effettivo del file XLSM.
 ## Passaggio 3: salva il file PDF convertito
 Dopo aver impostato le opzioni di conversione, salva il file PDF convertito nel percorso di output specificato.
 ```csharp
@@ -56,18 +56,18 @@ converter.Convert(outputFile, options);
 ```csharp
 Console.WriteLine("\nConversion to PDF completed successfully. \nCheck output in {0}", outputFolder);
 ```
-Questo passaggio avvisa l'utente del corretto completamento del processo di conversione e fornisce la posizione in cui è possibile trovare il file PDF convertito.
+Questo passaggio notifica all'utente il completamento con successo del processo di conversione e fornisce il percorso in cui è possibile trovare il file PDF convertito.
 
 ## Conclusione
-La conversione di file XLSM in formato PDF è un processo semplice con GroupDocs.Conversion per .NET. Seguendo i passaggi descritti in questo tutorial, puoi integrare perfettamente la funzionalità di conversione dei file nelle tue applicazioni .NET.
+Convertire i file XLSM in formato PDF è un processo semplice con GroupDocs.Conversion per .NET. Seguendo i passaggi descritti in questo tutorial, è possibile integrare perfettamente la funzionalità di conversione dei file nelle applicazioni .NET.
 ## Domande frequenti
 ### GroupDocs.Conversion per .NET è compatibile con tutte le versioni di .NET?
 Sì, GroupDocs.Conversion per .NET è compatibile con .NET Framework 4.6.1 e versioni successive.
 ### Posso convertire più file XLSM contemporaneamente?
-Sì, puoi convertire in batch più file XLSM in PDF o altri formati supportati.
-### GroupDocs.Conversion per .NET supporta file XLSM crittografati?
-Sì, GroupDocs.Conversion per .NET supporta la conversione di file XLSM crittografati, a condizione che tu disponga delle credenziali necessarie.
-### È disponibile una versione di prova a scopo di test?
-Sì, puoi ottenere una versione di prova gratuita di GroupDocs.Conversion per .NET per valutarne le funzionalità prima di effettuare un acquisto.
+Sì, è possibile convertire in batch più file XLSM in PDF o altri formati supportati.
+### GroupDocs.Conversion per .NET supporta i file XLSM crittografati?
+Sì, GroupDocs.Conversion per .NET supporta la conversione di file XLSM crittografati, a condizione che si disponga delle credenziali necessarie.
+### Esiste una versione di prova disponibile per scopi di test?
+Sì, puoi ottenere una versione di prova gratuita di GroupDocs.Conversion per .NET per valutarne le funzionalità prima di acquistarlo.
 ### Come posso ottenere supporto tecnico per GroupDocs.Conversion per .NET?
- È possibile visitare il forum GroupDocs.Conversion per supporto tecnico e assistenza.[Visita il forum di supporto](https://forum.groupdocs.com/c/conversion/11)
+Per supporto e assistenza tecnica, puoi visitare il forum GroupDocs.Conversion. [Visita il forum di supporto](https://forum.groupdocs.com/c/conversion/11)

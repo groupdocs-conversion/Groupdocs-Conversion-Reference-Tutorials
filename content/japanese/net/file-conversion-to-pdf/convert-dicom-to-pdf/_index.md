@@ -1,67 +1,67 @@
 ---
-title: DICOM 医用画像を PDF に変換
-linktitle: DICOM 医用画像を PDF に変換
-second_title: GroupDocs.Conversion .NET API
-description: GroupDocs.Conversion for .NET を使用して、DICOM 医療画像を PDF 形式に簡単に変換します。柔軟かつ効率的でカスタマイズ可能な変換ソリューション。
-weight: 19
-url: /ja/net/file-conversion-to-pdf/convert-dicom-to-pdf/
+"description": "GroupDocs.Conversion for .NET を使用すると、DICOM 医療画像を簡単に PDF 形式に変換できます。柔軟で効率的、かつカスタマイズ可能な変換ソリューションです。"
+"linktitle": "DICOM医療画像をPDFに変換する"
+"second_title": "GroupDocs.Conversion .NET API"
+"title": "DICOM医療画像をPDFに変換する"
+"url": "/ja/net/file-conversion-to-pdf/convert-dicom-to-pdf/"
+"weight": 19
 ---
 
-# DICOM 医用画像を PDF に変換
+# DICOM医療画像をPDFに変換する
 
 ## 導入
-今日のデジタル時代では、ファイル形式をシームレスに変換できる機能が最も重要です。アーカイブ、共有、または単に表示するためのいずれの場合でも、ファイルをある形式から別の形式に変換する必要があるのは一般的な作業です。医療分野でよく行われるこのような変換の 1 つは、DICOM (Digital Imaging and Communications in Medicine) 画像の PDF 形式への変換です。 DICOM ファイルは、MRI スキャン、X 線、CT スキャンなどの情報を保存する医療画像処理に使用される標準形式です。
+今日のデジタル時代において、ファイル形式をシームレスに変換できることは極めて重要です。アーカイブ、共有、あるいは単に閲覧するなど、ファイルの形式を変換する必要はよくあることです。医療分野では、DICOM（Digital Imaging and Communications in Medicine）画像をPDF形式に変換することがよく発生します。DICOMファイルは、MRIスキャン、X線、CTスキャンなどの情報を保存する医療画像診断の標準形式です。
 ## 前提条件
-GroupDocs.Conversion for .NET を使用して DICOM 画像を PDF に変換するプロセスに入る前に、スムーズなエクスペリエンスを確保するための前提条件がいくつかあります。
+GroupDocs.Conversion for .NET を使用して DICOM 画像を PDF に変換するプロセスに進む前に、スムーズな操作を実現するための前提条件がいくつかあります。
 ### 1. GroupDocs.Conversion for .NET をインストールする
-まず、開発環境に GroupDocs.Conversion for .NET ライブラリがインストールされていることを確認します。ライブラリはからダウンロードできます。[ダウンロードリンク](https://releases.groupdocs.com/conversion/net/) GroupDocs によって提供されます。
-### 2. DICOM画像ファイルを取得する
-変換する DICOM 画像ファイルにアクセスする必要があります。これらのファイルには通常、医用画像データが含まれており、医用画像デバイスまたはデータベースから取得できます。
-### 3. .NET 開発環境のセットアップ
-マシン上に動作する .NET 開発環境がセットアップされていることを確認してください。これには、Visual Studio などの互換性のある IDE (統合開発環境) がインストールされていることも含まれます。
+まず、開発環境にGroupDocs.Conversion for .NETライブラリがインストールされていることを確認してください。ライブラリは以下からダウンロードできます。 [ダウンロードリンク](https://releases.groupdocs.com/conversion/net/) GroupDocs 提供。
+### 2. DICOM画像ファイルを入手する
+変換したいDICOM画像ファイルにアクセスする必要があります。これらのファイルは通常、医用画像データを含んでおり、医用画像機器やデータベースから取得できます。
+### 3. .NET開発環境をセットアップする
+お使いのマシンに.NET開発環境がセットアップされていることを確認してください。これには、Visual Studioなどの互換性のあるIDE（統合開発環境）のインストールも含まれます。
 
 ## 名前空間のインポート
-変換プロセスのコーディングを開始する前に、GroupDocs.Conversion for .NET ライブラリから必要なクラスとメソッドにアクセスするために必要な名前空間をインポートしましょう。
+変換プロセスのコーディングを始める前に、GroupDocs.Conversion for .NET ライブラリから必要なクラスとメソッドにアクセスするために必要な名前空間をインポートしましょう。
 ```csharp
 using System;
 using System.IO;
 using GroupDocs.Conversion.Options.Convert;
 ```
-## ステップ 1: 出力フォルダーとファイル名を定義する
+## ステップ1: 出力フォルダとファイル名を定義する
 ```csharp
 string outputFolder = "Your Document Directory";
 string outputFile = Path.Combine(outputFolder, "dicom-converted-to.pdf");
 ```
-このステップでは、変換された PDF ファイルを保存するディレクトリを指定し、出力 PDF ファイルの名前を定義します。
-## ステップ 2: ソース DICOM ファイルをロードする
+この手順では、変換した PDF ファイルを保存するディレクトリを指定し、出力 PDF ファイルの名前を定義します。
+## ステップ2: ソースDICOMファイルを読み込む
 ```csharp
 using (Converter converter = new Converter(Constants.SAMPLE_DICOM))
 {
-    //変換コードはここに入力されます
+    // 変換コードはここに記入します
 }
 ```
-ここでは、の新しいインスタンスを初期化します。`Converter` GroupDocs.Conversion for .NET によって提供されるクラス。ソース DICOM ファイルのパスをパラメータとして渡します。
-## ステップ 3: 変換オプションを設定する
+ここで、新しいインスタンスを初期化します。 `Converter` GroupDocs.Conversion for .NET によって提供されるクラス。ソース DICOM ファイルのパスをパラメーターとして渡します。
+## ステップ3: 変換オプションを設定する
 ```csharp
 PdfConvertOptions options = new PdfConvertOptions();
 ```
-このステップでは、`PdfConvertOptions`クラスを使用して、PDF 変換プロセスの追加オプションを指定します。これにより、特定の要件に応じたカスタマイズが可能になります。
-## ステップ 4: 変換を実行して PDF ファイルを保存する
+このステップでは、 `PdfConvertOptions` PDF変換プロセスの追加オプションを指定するためのクラスです。これにより、特定の要件に応じたカスタマイズが可能になります。
+## ステップ4：変換を実行してPDFファイルを保存する
 ```csharp
 converter.Convert(outputFile, options);
 ```
-最後に、`Convert`の方法`Converter`クラスを指定し、出力ファイルのパスと変換オプションをパラメータとして渡します。これにより、変換プロセスが実行され、結果の PDF ファイルが指定された場所に保存されます。
+最後に、 `Convert` の方法 `Converter` クラスに出力ファイルのパスと変換オプションをパラメータとして渡します。これにより変換プロセスが実行され、結果のPDFファイルが指定された場所に保存されます。
 
 ## 結論
-結論として、GroupDocs.Conversion for .NET を使用して DICOM 画像を PDF 形式に変換するのは、わずか数行のコードで完了できる簡単なプロセスです。このチュートリアルで概説されている手順に従うことで、医療文書から共有やアーカイブに至るまで、さまざまな目的で DICOM ファイルを PDF に効率的に変換できます。
+結論として、GroupDocs.Conversion for .NET を使用してDICOM画像をPDF形式に変換するのは、わずか数行のコードで実行できる簡単なプロセスです。このチュートリアルで概説されている手順に従うことで、医療文書から共有、アーカイブまで、様々な用途でDICOMファイルを効率的にPDFに変換できます。
 ## よくある質問
 ### GroupDocs.Conversion for .NET はすべての DICOM 画像形式と互換性がありますか?
-GroupDocs.Conversion for .NET は、幅広い DICOM 画像形式をサポートし、最も一般的に使用される医療画像ファイルとの互換性を保証します。
+GroupDocs.Conversion for .NET は、幅広い DICOM 画像形式をサポートし、最も一般的に使用される医療用画像ファイルとの互換性を確保します。
 ### 特定の要件に応じて変換プロセスをカスタマイズできますか?
-はい。GroupDocs.Conversion for .NET には、特定のニーズに合わせて変換プロセスをカスタマイズできるさまざまなオプションと設定が用意されています。
+はい、GroupDocs.Conversion for .NET には、特定のニーズに合わせて変換プロセスをカスタマイズできるさまざまなオプションと設定が用意されています。
 ### GroupDocs.Conversion for .NET を使用するには一時ライセンスが必要ですか?
-一時ライセンスはテスト目的で使用できますが、GroupDocs.Conversion for .NET を運用環境で使用するには完全ライセンスが必要です。
+一時ライセンスはテスト目的で使用できますが、GroupDocs.Conversion for .NET を本番環境で使用するには完全なライセンスが必要です。
 ### 変換できる DICOM ファイルのサイズや数に制限はありますか?
-GroupDocs.Conversion for .NET は、サイズや数量の制限を最小限に抑えながら、大きな DICOM ファイルとバッチ変換を効率的に処理できます。
-### GroupDocs.Conversion for .NET に関する追加のサポートや支援はどこで入手できますか?
-さらに詳しいサポートが必要な場合は、GroupDocs.Conversion for .NET フォーラムにアクセスしてください。[ここ](https://forum.groupdocs.com/c/conversion/11)またはサポートチームにお問い合わせください。
+GroupDocs.Conversion for .NET は、サイズや数量の制限を最小限に抑えながら、大規模な DICOM ファイルとバッチ変換を効率的に処理できます。
+### GroupDocs.Conversion for .NET に関する追加のサポートや支援はどこで受けられますか?
+さらにサポートが必要な場合は、GroupDocs.Conversion for .NET フォーラムをご覧ください。 [ここ](https://forum.groupdocs.com/c/conversion/11) またはサポート チームに問い合わせてください。
