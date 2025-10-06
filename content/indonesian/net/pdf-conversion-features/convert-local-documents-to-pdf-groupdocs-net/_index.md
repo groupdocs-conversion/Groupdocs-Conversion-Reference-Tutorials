@@ -4,8 +4,8 @@
 "title": "Konversi Dokumen Lokal ke PDF dengan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/pdf-conversion-features/convert-local-documents-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi Dokumen Lokal ke PDF dengan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

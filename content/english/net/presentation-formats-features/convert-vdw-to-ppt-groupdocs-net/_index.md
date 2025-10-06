@@ -8,10 +8,8 @@ keywords:
 - convert Visio Web Drawings to PowerPoint
 - GroupDocs.Conversion for .NET
 - VDW to PPT conversion
-
+type: docs
 ---
-
-
 # Efficient Conversion of Visio Web Drawings (VDW) to PowerPoint Presentations Using GroupDocs for .NET Developers
 
 ## Introduction

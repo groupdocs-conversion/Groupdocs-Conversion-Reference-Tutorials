@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie Excel-Vorlagendateien (XLTX) mit GroupDocs.Conversion für .NET in PDF"
 "url": "/de/net/pdf-conversion/convert-xltx-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie Excel-Vorlagendateien (XLTX) mit GroupDocs.Conversion für .NET in PDF
 
 ## Einführung

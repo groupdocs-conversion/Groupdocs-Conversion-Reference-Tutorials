@@ -4,8 +4,8 @@
 "title": ".NET PDF konvertálás rejtett diákkal a GroupDocs.Conversion segítségével"
 "url": "/hu/net/pdf-conversion-features/net-pdf-conversion-groupdocs-hidden-slides/"
 "weight": 1
+type: docs
 ---
-
 # .NET PDF konvertálás rejtett diákkal a GroupDocs.Conversion segítségével
 
 ## Bevezetés

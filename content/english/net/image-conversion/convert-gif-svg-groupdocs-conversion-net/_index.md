@@ -8,10 +8,8 @@ keywords:
 - GIF to SVG conversion
 - GroupDocs.Conversion for .NET
 - image file conversion
-
+type: docs
 ---
-
-
 # How to Convert GIF to SVG with GroupDocs.Conversion for .NET
 
 ## Introduction

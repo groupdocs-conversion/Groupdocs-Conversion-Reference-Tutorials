@@ -4,8 +4,8 @@
 "title": "Převod Excelu do PDF pomocí GroupDocs.Conversion pro Javu – Komplexní tutoriál"
 "url": "/cs/java/pdf-conversion/excel-to-pdf-groupdocs-java-tutorial/"
 "weight": 1
+type: docs
 ---
-
 # Převod Excelu do PDF pomocí GroupDocs.Conversion pro Javu: Komplexní tutoriál
 
 ## Zavedení

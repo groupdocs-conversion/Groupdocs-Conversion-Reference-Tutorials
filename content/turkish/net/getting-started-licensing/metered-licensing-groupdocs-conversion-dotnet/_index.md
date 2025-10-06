@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET ile Ölçülü Lisanslamayı Uygulayın Kapsamlı Bir Kılavuz"
 "url": "/tr/net/getting-started-licensing/metered-licensing-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET ile Ölçülü Lisanslamanın Uygulanması
 
 ## giriiş

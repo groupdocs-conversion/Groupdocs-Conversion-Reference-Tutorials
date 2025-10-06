@@ -5,8 +5,8 @@
 "title": "Konvertera CSV-datafiler till PDF"
 "url": "/sv/net/file-conversion-to-pdf/convert-csv-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # Konvertera CSV-datafiler till PDF
 
 ## Introduktion

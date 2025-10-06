@@ -4,8 +4,8 @@
 "title": "แปลงไฟล์ DNG เป็น JPG ได้อย่างง่ายดายด้วย GroupDocs.Conversion สำหรับ .NET คำแนะนำทีละขั้นตอน"
 "url": "/th/net/image-formats-features/convert-dng-to-jpg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # แปลงไฟล์ DNG เป็น JPG ได้อย่างง่ายดายด้วย GroupDocs.Conversion สำหรับ .NET: คำแนะนำทีละขั้นตอน
 
 ## การแนะนำ

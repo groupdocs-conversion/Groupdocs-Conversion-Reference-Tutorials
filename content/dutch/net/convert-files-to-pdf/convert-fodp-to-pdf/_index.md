@@ -5,8 +5,8 @@
 "title": "Converteer FODP OpenDocument-presentaties naar PDF"
 "url": "/nl/net/convert-files-to-pdf/convert-fodp-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # Converteer FODP OpenDocument-presentaties naar PDF
 
 ## Invoering

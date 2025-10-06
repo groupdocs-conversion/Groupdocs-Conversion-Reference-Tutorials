@@ -4,8 +4,8 @@
 "title": "Конвертируйте PDF в изображение с помощью GroupDocs.Conversion .NET&#58; Подробное руководство"
 "url": "/ru/net/image-conversion/convert-pdf-to-image-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Конвертация PDF в изображение с помощью GroupDocs.Conversion .NET: подробное руководство
 
 ## Введение

@@ -4,8 +4,8 @@
 "title": "Effektiv konvertering från OXPS till DOCX med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/word-processing-formats-features/convert-oxps-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Effektivt konvertera OXPS till DOCX med GroupDocs.Conversion för .NET: En steg-för-steg-guide
 
 ## Introduktion

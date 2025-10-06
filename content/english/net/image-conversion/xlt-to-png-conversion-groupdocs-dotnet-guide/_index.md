@@ -8,10 +8,8 @@ keywords:
 - XLT to PNG conversion
 - GroupDocs.Conversion .NET
 - document conversion with C#
-
+type: docs
 ---
-
-
 # Comprehensive Guide to Converting XLT to PNG using GroupDocs.Conversion for .NET
 
 ## Introduction

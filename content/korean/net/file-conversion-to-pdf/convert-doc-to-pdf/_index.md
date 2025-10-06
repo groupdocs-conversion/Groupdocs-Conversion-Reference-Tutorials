@@ -5,8 +5,8 @@
 "title": "DOC Word 문서를 PDF로 변환"
 "url": "/ko/net/file-conversion-to-pdf/convert-doc-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # DOC Word 문서를 PDF로 변환
 
 ## 소개

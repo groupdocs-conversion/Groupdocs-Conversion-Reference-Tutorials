@@ -5,8 +5,8 @@
 "title": "JPG konvertálása PDF-be"
 "url": "/hu/net/document-conversion/convert-jpg-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # JPG konvertálása PDF-be
 
 ## Bevezetés

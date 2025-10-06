@@ -4,8 +4,8 @@
 "title": "如何為 OST 檔案設定 GroupDocs.Conversion .NET - 完整指南"
 "url": "/zh-hant/net/storage-files-pst-processing/configuring-groupdocs-conversion-dotnet-ost-files/"
 "weight": 1
+type: docs
 ---
-
 # 綜合教學：設定 GroupDocs.Conversion .NET 以處理 OST 文件
 
 ## 介紹

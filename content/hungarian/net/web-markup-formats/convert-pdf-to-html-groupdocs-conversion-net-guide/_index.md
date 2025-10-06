@@ -4,8 +4,8 @@
 "title": "PDF konvertálása HTML-be a GroupDocs.Conversion .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/web-markup-formats/convert-pdf-to-html-groupdocs-conversion-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # PDF konvertálása HTML-be a GroupDocs.Conversion .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

@@ -5,8 +5,8 @@
 "title": "VSSをPDFに変換する"
 "url": "/ja/net/converting-file-types-to-pdf/convert-vss-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # VSSをPDFに変換する
 
 ## 導入

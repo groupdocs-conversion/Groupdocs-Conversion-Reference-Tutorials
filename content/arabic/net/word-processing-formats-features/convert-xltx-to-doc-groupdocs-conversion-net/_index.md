@@ -4,8 +4,8 @@
 "title": "تحويل قالب Excel (.xltx) إلى مستند Word (DOC) باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/word-processing-formats-features/convert-xltx-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل قالب Excel (.xltx) إلى مستند Word (DOC) باستخدام GroupDocs.Conversion لـ .NET
 ## مقدمة
 مرحبًا بكم في هذا الدليل الشامل لتحويل ملف قالب Excel (.xltx) إلى مستند Word (DOC) باستخدام مكتبة GroupDocs.Conversion for .NET القوية. يُعد هذا الحل أساسيًا في سير عمل إدارة المستندات، حيث يتيح دمجًا سلسًا للقوالب الغنية بالبيانات مع المستندات النصية.

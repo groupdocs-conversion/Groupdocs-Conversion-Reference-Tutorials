@@ -4,8 +4,8 @@
 "title": "Cara Mengatur Lisensi GroupDocs.Conversion di Java Menggunakan InputStream"
 "url": "/id/java/getting-started/groupdocs-conversion-license-java-input-stream/"
 "weight": 1
+type: docs
 ---
-
 # Cara Menerapkan Pengaturan Lisensi GroupDocs.Conversion melalui InputStream di Java
 ## Perkenalan
 Apakah Anda ingin menyempurnakan aplikasi Java Anda dengan fitur-fitur canggih GroupDocs.Conversion? Menyiapkan lisensi dengan benar merupakan langkah penting, dan melakukannya dengan menggunakan aliran input dapat memperlancar proses ini. Panduan ini akan memandu Anda tentang cara mengatur lisensi GroupDocs menggunakan aliran input di Java, memastikan bahwa proses konversi Anda berjalan lancar tanpa masalah lisensi apa pun.

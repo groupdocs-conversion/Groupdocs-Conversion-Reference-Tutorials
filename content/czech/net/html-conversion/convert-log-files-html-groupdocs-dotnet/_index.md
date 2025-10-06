@@ -4,8 +4,8 @@
 "title": "Komplexní průvodce&#58; Převod souborů LOG do HTML pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/html-conversion/convert-log-files-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Komplexní průvodce: Převod souborů LOG do HTML pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

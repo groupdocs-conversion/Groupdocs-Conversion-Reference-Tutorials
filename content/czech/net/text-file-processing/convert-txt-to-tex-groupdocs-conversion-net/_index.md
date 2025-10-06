@@ -4,8 +4,8 @@
 "title": "Převod souborů TXT do TEX pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/text-file-processing/convert-txt-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů TXT do TEX pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

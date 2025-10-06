@@ -4,8 +4,8 @@
 "title": "Converteer HTML eenvoudig naar PNG met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/image-conversion/convert-html-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer HTML naar PNG met GroupDocs.Conversion voor .NET
 
 ## Invoering

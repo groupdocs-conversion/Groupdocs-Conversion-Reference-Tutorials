@@ -4,8 +4,8 @@
 "title": "XLSM fájl TXT formátumba konvertálása a GroupDocs.Conversion for .NET használatával | Lépésről lépésre útmutató"
 "url": "/hu/net/text-markup-conversion/convert-xlsm-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # XLSM fájl TXT formátumba konvertálása a GroupDocs.Conversion for .NET használatával | Lépésről lépésre útmutató
 
 mai gyors tempójú üzleti környezetben a hatékony adatátalakítás és a kompatibilitás kulcsfontosságú. A fájlok egyik formátumból a másikba konvertálása egyszerűsítheti a munkafolyamatokat és növelheti a termelékenységet. Ez az oktatóanyag végigvezeti Önt azon, hogyan konvertálhat egy XLSM fájlt TXT formátumba a hatékony GroupDocs.Conversion for .NET könyvtár segítségével.

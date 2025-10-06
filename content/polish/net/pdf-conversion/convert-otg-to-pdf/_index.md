@@ -5,8 +5,8 @@
 "title": "Konwertuj OTG do PDF"
 "url": "/pl/net/pdf-conversion/convert-otg-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # Konwertuj OTG do PDF
 
 ## Wstęp

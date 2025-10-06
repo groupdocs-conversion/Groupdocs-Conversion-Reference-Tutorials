@@ -8,10 +8,8 @@ keywords:
 - JPEG to TXT Conversion
 - GroupDocs.Conversion for .NET
 - .NET Image Processing
-
+type: docs
 ---
-
-
 # Efficient JPEG to TXT Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

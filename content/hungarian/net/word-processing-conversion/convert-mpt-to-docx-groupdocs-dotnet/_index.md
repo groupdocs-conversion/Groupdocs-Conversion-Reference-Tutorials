@@ -4,8 +4,8 @@
 "title": "MPT fájlok DOCX formátumba konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/word-processing-conversion/convert-mpt-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # MPT fájlok DOCX formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

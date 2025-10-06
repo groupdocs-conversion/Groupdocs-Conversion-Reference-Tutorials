@@ -5,8 +5,8 @@
 "title": "XLSM'yi PDF'ye dönüştür"
 "url": "/tr/net/converting-file-types-to-pdf/convert-xlsm-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # XLSM'yi PDF'ye dönüştür
 
 ## giriiş

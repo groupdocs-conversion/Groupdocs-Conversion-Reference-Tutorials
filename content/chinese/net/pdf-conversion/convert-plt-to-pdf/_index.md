@@ -5,8 +5,8 @@
 "title": "将 PLT 转换为 PDF"
 "url": "/zh/net/pdf-conversion/convert-plt-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # 将 PLT 转换为 PDF
 
 ## 介绍

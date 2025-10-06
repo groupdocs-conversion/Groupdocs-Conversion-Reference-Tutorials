@@ -8,10 +8,8 @@ keywords:
 - OST to PDF conversion
 - GroupDocs.Conversion .NET
 - convert OST files
-
+type: docs
 ---
-
-
 # How to Convert OST Files to PDF Using GroupDocs.Conversion for .NET
 
 ## Introduction

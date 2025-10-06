@@ -5,8 +5,8 @@
 "title": "OTG naar PDF converteren"
 "url": "/nl/net/pdf-conversion/convert-otg-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # OTG naar PDF converteren
 
 ## Invoering

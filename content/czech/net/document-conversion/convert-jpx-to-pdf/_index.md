@@ -5,8 +5,8 @@
 "title": "Převod JPX do PDF"
 "url": "/cs/net/document-conversion/convert-jpx-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # Převod JPX do PDF
 
 ## Zavedení

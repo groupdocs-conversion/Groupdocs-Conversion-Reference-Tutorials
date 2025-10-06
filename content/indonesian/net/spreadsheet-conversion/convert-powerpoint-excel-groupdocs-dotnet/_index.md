@@ -4,8 +4,8 @@
 "title": "Konversi PowerPoint ke Excel Menggunakan GroupDocs.Conversion .NET&#58; Panduan Lengkap"
 "url": "/id/net/spreadsheet-conversion/convert-powerpoint-excel-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konversi Slide PowerPoint ke Lembar Excel Menggunakan GroupDocs.Conversion .NET
 
 ## Perkenalan

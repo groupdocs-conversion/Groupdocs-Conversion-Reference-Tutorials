@@ -4,8 +4,8 @@
 "title": "VSSM fájlok konvertálása LaTeX formátumra a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/text-markup-conversion/convert-vssm-to-latex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # VSSM fájlok konvertálása LaTeX formátumra a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

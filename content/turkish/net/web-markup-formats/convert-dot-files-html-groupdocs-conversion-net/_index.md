@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak DOT'u HTML'ye Verimli Şekilde Dönüştürün"
 "url": "/tr/net/web-markup-formats/convert-dot-files-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak DOT'u HTML'ye Verimli Şekilde Dönüştürün
 
 ## giriiş

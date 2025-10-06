@@ -3,8 +3,8 @@
 "title": "Tutoriales sobre formatos y características de presentación para GroupDocs.Conversion .NET"
 "url": "/es/net/presentation-formats-features/"
 "weight": 12
+type: docs
 ---
-
 # Tutoriales sobre formatos y características de presentación para GroupDocs.Conversion .NET
 
 Nuestros tutoriales enfocados en presentaciones le muestran cómo trabajar con documentos basados en diapositivas usando GroupDocs.Conversion en .NET. Estas guías prácticas explican cómo convertir entre formatos de PowerPoint, ocultar comentarios durante la conversión, incluir o excluir diapositivas ocultas, especificar opciones de sustitución de fuentes, conservar animaciones y transiciones, mantener notas del orador, gestionar contenido multimedia incrustado y garantizar la coherencia del diseño en diferentes formatos de presentación. Cada tutorial incluye ejemplos detallados de código C# para escenarios de conversión de presentaciones, lo que le ayudará a crear aplicaciones que produzcan conversiones de alta calidad con elementos visuales y funciones interactivas conservadas.

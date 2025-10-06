@@ -4,8 +4,8 @@
 "title": "Convertir HTML a texto con GroupDocs.Conversion para .NET&#58; una guía completa"
 "url": "/es/net/web-markup-formats/convert-html-to-text-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir HTML a texto con GroupDocs.Conversion para .NET
 
 ## Introducción

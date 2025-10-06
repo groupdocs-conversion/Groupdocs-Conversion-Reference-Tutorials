@@ -4,8 +4,8 @@
 "title": "Konversi Excel ke PDF di Java dengan Substitusi Font Menggunakan GroupDocs.Conversion"
 "url": "/id/java/pdf-conversion/excel-to-pdf-conversion-font-substitution-java/"
 "weight": 1
+type: docs
 ---
-
 # Konversi Excel ke PDF di Java dengan Substitusi Font Menggunakan GroupDocs.Conversion
 
 ## Perkenalan

@@ -5,8 +5,8 @@
 "title": "Chuyển đổi MHTML sang PDF"
 "url": "/vi/net/document-conversion/convert-mhtml-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Chuyển đổi MHTML sang PDF
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "GroupDocs for .NET Kullanarak GIF'leri Metin Dosyalarına Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/image-formats-features/convert-gifs-to-text-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs for .NET Kullanarak GIF'leri Metin Dosyalarına Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

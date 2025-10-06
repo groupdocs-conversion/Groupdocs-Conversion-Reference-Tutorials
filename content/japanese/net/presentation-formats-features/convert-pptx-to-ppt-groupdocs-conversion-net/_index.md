@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET で PPTX を PPT にシームレスに変換"
 "url": "/ja/net/presentation-formats-features/convert-pptx-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET で PPTX を PPT にシームレスに変換
 ## 導入
 PowerPointプレゼンテーションを最新のPPTX形式から従来のPPT形式にシームレスに変換したいとお考えですか？古いシステムとの互換性を保つためでも、特定のクライアントのニーズを満たすためでも、プレゼンテーション形式の変換は容易ではありません。GroupDocs.Conversion for .NETを使えば、このプロセスは簡単かつ効率的になります。このチュートリアルでは、GroupDocs.Conversionを使ってPPTXファイルをPPT形式に簡単に変換する方法をご紹介します。

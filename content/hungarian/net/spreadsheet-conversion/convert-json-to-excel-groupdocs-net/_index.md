@@ -4,8 +4,8 @@
 "title": "JSON konvertálása Excelbe .NET-ben a GroupDocs.Conversion használatával – Átfogó útmutató"
 "url": "/hu/net/spreadsheet-conversion/convert-json-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # JSON konvertálása Excelbe .NET-ben a GroupDocs.Conversion használatával: Átfogó útmutató
 
 ## Bevezetés

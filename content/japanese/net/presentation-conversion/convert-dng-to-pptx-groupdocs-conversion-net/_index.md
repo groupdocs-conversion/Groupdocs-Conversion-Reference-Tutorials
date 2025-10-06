@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET で DNG を PPTX に簡単に変換"
 "url": "/ja/net/presentation-conversion/convert-dng-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET で DNG を PPTX に変換する
 
 今日のデジタル環境において、ファイル変換を迅速かつ効率的に管理できることは不可欠です。3Dデザインを展示する建築家でも、RAW画像をプレゼンテーションに変換するマーケティング担当者でも、デジタルネガ（DNG）ファイルをPowerPointプレゼンテーション（.pptx）形式に変換する方法を学ぶことは非常に有益です。

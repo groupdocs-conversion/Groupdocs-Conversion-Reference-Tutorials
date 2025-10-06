@@ -4,8 +4,8 @@
 "title": "SXC fájlok egyszerű konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével | Végső útmutató"
 "url": "/hu/net/pdf-conversion-features/convert-sxc-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # SXC fájlok egyszerű konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

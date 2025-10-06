@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके XLTX to JPG को परिवर्तित करें - व्यापक गाइड"
 "url": "/hi/net/image-conversion/convert-xltx-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके XLTM को JPG में परिवर्तित करें
 
 ## परिचय

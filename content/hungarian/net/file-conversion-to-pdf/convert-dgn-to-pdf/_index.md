@@ -5,8 +5,8 @@
 "title": "DGN CAD fájlok konvertálása PDF-be"
 "url": "/hu/net/file-conversion-to-pdf/convert-dgn-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # DGN CAD fájlok konvertálása PDF-be
 
 ## Bevezetés

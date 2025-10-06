@@ -5,8 +5,8 @@
 "title": "JPMをPDFに変換する"
 "url": "/ja/net/document-conversion/convert-jpm-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # JPMをPDFに変換する
 
 ## 導入

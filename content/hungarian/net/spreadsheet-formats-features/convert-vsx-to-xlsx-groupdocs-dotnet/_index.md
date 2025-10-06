@@ -4,8 +4,8 @@
 "title": "Hogyan konvertáljunk VSX-et XLSX-be a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/spreadsheet-formats-features/convert-vsx-to-xlsx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertáljunk VSX-et XLSX-be a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Chuyển đổi TXT sang PDF với GroupDocs&#58; Kiểm soát khoảng trắng theo sau bằng .NET"
 "url": "/vi/net/pdf-conversion/convert-txt-to-pdf-groupdocs-trailing-spaces-control/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi TXT sang PDF với GroupDocs: Kiểm soát khoảng trắng theo sau bằng .NET
 
 ## Giới thiệu

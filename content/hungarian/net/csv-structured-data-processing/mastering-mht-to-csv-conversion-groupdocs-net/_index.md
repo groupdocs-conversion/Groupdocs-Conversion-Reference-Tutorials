@@ -4,8 +4,8 @@
 "title": "Útmutató MHT fájlok CSV formátumba konvertálásához a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/csv-structured-data-processing/mastering-mht-to-csv-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Útmutató MHT fájlok CSV formátumba konvertálásához a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

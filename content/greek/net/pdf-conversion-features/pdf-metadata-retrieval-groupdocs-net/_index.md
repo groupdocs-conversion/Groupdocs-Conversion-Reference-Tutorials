@@ -4,8 +4,8 @@
 "title": "Πώς να ανακτήσετε μεταδεδομένα PDF με το GroupDocs.Conversion για .NET"
 "url": "/el/net/pdf-conversion-features/pdf-metadata-retrieval-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να ανακτήσετε μεταδεδομένα PDF με το GroupDocs.Conversion για .NET
 
 Έχετε κουραστεί να εξάγετε πληροφορίες από έγγραφα PDF με μη αυτόματο τρόπο; Αυτοματοποιήστε την εργασία με το GroupDocs.Conversion για .NET και ανακτήστε σημαντικές λεπτομέρειες όπως την ιδιότητα του δημιουργού, τις ημερομηνίες δημιουργίας, τον αριθμό σελίδων, τις διαστάσεις και άλλα.

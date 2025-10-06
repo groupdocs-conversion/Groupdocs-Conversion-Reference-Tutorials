@@ -3,8 +3,8 @@
 "title": "Hướng dẫn về Định dạng và Tính năng Trình bày cho GroupDocs.Conversion .NET"
 "url": "/vi/net/presentation-formats-features/"
 "weight": 12
+type: docs
 ---
-
 # Hướng dẫn về Định dạng và Tính năng Trình bày cho GroupDocs.Conversion .NET
 
 Các hướng dẫn tập trung vào bài thuyết trình của chúng tôi sẽ chỉ cho bạn cách làm việc với các tài liệu dạng slide bằng GroupDocs.Conversion trong .NET. Các hướng dẫn thực tế này hướng dẫn cách chuyển đổi giữa các định dạng PowerPoint, ẩn chú thích trong quá trình chuyển đổi, bao gồm hoặc loại trừ các slide ẩn, chỉ định các tùy chọn thay thế phông chữ, bảo toàn hoạt ảnh và chuyển tiếp, duy trì ghi chú của người nói, xử lý phương tiện nhúng và đảm bảo tính nhất quán của bố cục trên các định dạng bài thuyết trình khác nhau. Mỗi hướng dẫn đều bao gồm các ví dụ mã C# chi tiết cho các tình huống chuyển đổi bài thuyết trình, giúp bạn xây dựng các ứng dụng tạo ra các chuyển đổi chất lượng cao với các thành phần trực quan được bảo toàn và các tính năng tương tác.

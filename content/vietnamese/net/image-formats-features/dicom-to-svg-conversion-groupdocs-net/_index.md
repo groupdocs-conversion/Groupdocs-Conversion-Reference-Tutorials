@@ -4,8 +4,8 @@
 "title": "Chuyển đổi DICOM sang SVG bằng GroupDocs.Conversion .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/image-formats-features/dicom-to-svg-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi DICOM sang SVG bằng GroupDocs.Conversion .NET: Hướng dẫn từng bước
 
 Bạn đang muốn chuyển đổi hình ảnh y tế từ định dạng DICOM (.dcm) sang đồ họa vector có thể mở rộng (SVG)? Hướng dẫn toàn diện này sẽ hướng dẫn bạn giải pháp liền mạch bằng thư viện GroupDocs.Conversion .NET. Làm chủ quy trình chuyển đổi này và hợp lý hóa quy trình làm việc của bạn một cách hiệu quả.

@@ -4,8 +4,8 @@
 "title": "تحويل ملفات قالب Excel (XLTX) إلى PDF باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/pdf-conversion/convert-xltx-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ملفات قالب Excel (XLTX) إلى PDF باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

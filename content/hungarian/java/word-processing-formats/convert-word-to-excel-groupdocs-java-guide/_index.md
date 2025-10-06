@@ -4,8 +4,8 @@
 "title": "Word konvertálása Excelbe – egyszerű útmutató a GroupDocs.Conversion Java API használatával"
 "url": "/hu/java/word-processing-formats/convert-word-to-excel-groupdocs-java-guide/"
 "weight": 1
+type: docs
 ---
-
 # Word konvertálása Excelbe a GroupDocs segítségével. Conversion Java: Átfogó útmutató
 
 ## Bevezetés

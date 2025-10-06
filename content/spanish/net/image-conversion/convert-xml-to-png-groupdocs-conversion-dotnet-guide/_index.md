@@ -4,8 +4,8 @@
 "title": "Convertir XML a PNG con GroupDocs.Conversion en .NET&#58; una guía completa"
 "url": "/es/net/image-conversion/convert-xml-to-png-groupdocs-conversion-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # Convertir XML a PNG con GroupDocs.Conversion en .NET: una guía completa
 
 ## Introducción

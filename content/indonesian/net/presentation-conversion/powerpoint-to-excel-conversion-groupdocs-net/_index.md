@@ -4,8 +4,8 @@
 "title": "Panduan Lengkap untuk Mengonversi PowerPoint ke Excel menggunakan GroupDocs.Conversion .NET"
 "url": "/id/net/presentation-conversion/powerpoint-to-excel-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Panduan Lengkap untuk Mengonversi PowerPoint ke Excel menggunakan GroupDocs.Conversion .NET
 
 ## Perkenalan

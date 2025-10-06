@@ -4,8 +4,8 @@
 "title": "Comment convertir des fichiers PLT en SVG à l'aide de GroupDocs.Conversion pour .NET ? Guide étape par étape"
 "url": "/fr/net/image-formats-features/convert-plt-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir des fichiers PLT en SVG avec GroupDocs.Conversion pour .NET : guide étape par étape
 
 ## Introduction

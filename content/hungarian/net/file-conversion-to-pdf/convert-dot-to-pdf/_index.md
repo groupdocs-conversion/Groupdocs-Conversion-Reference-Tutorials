@@ -5,8 +5,8 @@
 "title": "DOT Word sablonok konvertálása PDF-be"
 "url": "/hu/net/file-conversion-to-pdf/convert-dot-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # DOT Word sablonok konvertálása PDF-be
 
 ## Bevezetés

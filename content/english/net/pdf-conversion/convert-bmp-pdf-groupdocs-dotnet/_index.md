@@ -8,10 +8,8 @@ keywords:
 - convert BMP to PDF
 - GroupDocs.Conversion for .NET
 - PDF Conversion
-
+type: docs
 ---
-
-
 # Comprehensive Guide: Convert BMP to PDF using GroupDocs.Conversion for .NET
 
 ## Introduction

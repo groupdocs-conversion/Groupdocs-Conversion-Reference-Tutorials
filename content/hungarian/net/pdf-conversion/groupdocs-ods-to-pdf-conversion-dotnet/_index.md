@@ -4,8 +4,8 @@
 "title": "ODS fájlok PDF formátumba konvertálása a GroupDocs.Conversion for .NET használatával | Lépésről lépésre útmutató"
 "url": "/hu/net/pdf-conversion/groupdocs-ods-to-pdf-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # ODS fájlok PDF-be konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

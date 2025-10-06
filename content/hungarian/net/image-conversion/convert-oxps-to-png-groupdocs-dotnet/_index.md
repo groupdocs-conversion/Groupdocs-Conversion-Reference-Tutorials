@@ -4,8 +4,8 @@
 "title": "OXPS fájlok hatékony konvertálása PNG-vé a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/convert-oxps-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # OXPS fájlok hatékony konvertálása PNG-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

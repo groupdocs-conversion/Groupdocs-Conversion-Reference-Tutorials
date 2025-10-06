@@ -4,8 +4,8 @@
 "title": "PPSX konvertálása PSD-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-conversion/ppsx-to-psd-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PPSX konvertálása PSD-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

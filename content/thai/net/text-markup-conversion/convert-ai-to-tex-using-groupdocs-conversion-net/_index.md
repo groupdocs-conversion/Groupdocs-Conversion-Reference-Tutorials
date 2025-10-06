@@ -4,8 +4,8 @@
 "title": "แปลงไฟล์ Adobe Illustrator (.ai) เป็น LaTeX (TEX) อย่างมีประสิทธิภาพด้วย GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/text-markup-conversion/convert-ai-to-tex-using-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการแปลงไฟล์ Adobe Illustrator (.ai) เป็น LaTeX (TEX) โดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

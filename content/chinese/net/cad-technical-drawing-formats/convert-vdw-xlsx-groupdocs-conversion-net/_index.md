@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将 VDW 转换为 XLSX — 分步指南"
 "url": "/zh/net/cad-technical-drawing-formats/convert-vdw-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将 VDW 转换为 XLSX：分步指南
 教程类别：CAD 和技术绘图格式
 当前 SEO URL：convert-vdw-xlsx-groupdocs-conversion-net

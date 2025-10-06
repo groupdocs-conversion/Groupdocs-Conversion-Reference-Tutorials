@@ -4,8 +4,8 @@
 "title": "使用 .NET 中的 GroupDocs.Conversion 將 PLT 轉換為 JPG —— 綜合指南"
 "url": "/zh-hant/net/image-conversion/convert-plt-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 在 .NET 中使用 GroupDocs.Conversion 將 PLT 轉換為 JPG：綜合指南
 
 ## 介紹

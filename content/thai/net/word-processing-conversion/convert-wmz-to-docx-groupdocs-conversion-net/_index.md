@@ -4,8 +4,8 @@
 "title": "แปลง WMZ เป็น DOCX ด้วย GroupDocs.Conversion สำหรับ .NET - บทช่วยสอนการแปลงไฟล์ที่ราบรื่น"
 "url": "/th/net/word-processing-conversion/convert-wmz-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลง WMZ เป็น DOCX โดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

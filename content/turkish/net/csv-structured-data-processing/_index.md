@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET için CSV ve Yapılandırılmış Veri İşleme Eğitimleri"
 "url": "/tr/net/csv-structured-data-processing/"
 "weight": 15
+type: docs
 ---
-
 # GroupDocs.Conversion .NET için CSV ve Yapılandırılmış Veri İşleme Eğitimleri
 
 CSV ve yapılandırılmış veri eğitimlerimiz, .NET uygulamalarında tablo ve veri odaklı biçimleri ele almak için ayrıntılı rehberlik sağlar. Bu pratik kılavuzlar, CSV dosyalarını JSON ve XML biçimlerine dönüştürmeyi, CSV'yi çeşitli belge türlerine dönüştürmeyi, sınırlayıcıları ve kodlama seçeneklerini belirlemeyi, tarih ve saat ve sayısal verileri uygun şekilde dönüştürmeyi, başlıkları ve alan adlarını yönetmeyi, dönüştürme sırasında veri türlerini korumayı ve toplu veri dönüştürme işlemlerini uygulamayı gösterir. Her eğitim, ham veri biçimleri ile insan tarafından okunabilir belgeler arasında etkili bir şekilde köprü kurabilen uygulamalar oluşturmanıza yardımcı olan veri biçimi dönüştürme senaryoları için eksiksiz C# kod örnekleri içerir.

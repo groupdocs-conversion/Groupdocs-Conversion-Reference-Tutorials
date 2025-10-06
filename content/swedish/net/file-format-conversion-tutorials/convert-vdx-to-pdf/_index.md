@@ -5,8 +5,8 @@
 "title": "Konvertera VDX till PDF"
 "url": "/sv/net/file-format-conversion-tutorials/convert-vdx-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Konvertera VDX till PDF
 
 ## Introduktion

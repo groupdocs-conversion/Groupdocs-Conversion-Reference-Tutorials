@@ -4,8 +4,8 @@
 "title": "Beheers de conversie van tekst naar presentatie met GroupDocs in .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/presentation-conversion/groupdocs-net-text-ppt-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Beheers tekst-naar-presentatieconversie met GroupDocs in .NET
 
 ## Invoering

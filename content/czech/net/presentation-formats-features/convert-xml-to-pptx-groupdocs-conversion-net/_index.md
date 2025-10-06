@@ -4,8 +4,8 @@
 "title": "Převod XML do PPTX pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/presentation-formats-features/convert-xml-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod XML do PPTX pomocí GroupDocs.Conversion pro .NET: Komplexní průvodce
 
 ## Zavedení

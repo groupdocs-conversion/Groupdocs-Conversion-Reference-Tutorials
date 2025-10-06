@@ -5,8 +5,8 @@
 "title": "JPCをPDFに変換する"
 "url": "/ja/net/document-conversion/convert-jpc-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # JPCをPDFに変換する
 
 ## 導入

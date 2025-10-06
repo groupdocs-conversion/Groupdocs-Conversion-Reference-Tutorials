@@ -4,8 +4,8 @@
 "title": "Hoe u aangepaste caching in Java implementeert met behulp van Redis en GroupDocs.Conversion"
 "url": "/nl/java/cache-management/custom-cache-redis-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Hoe u aangepaste caching in Java implementeert met behulp van Redis en GroupDocs.Conversion
 
 ## Invoering

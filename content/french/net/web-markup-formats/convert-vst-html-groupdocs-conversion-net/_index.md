@@ -4,8 +4,8 @@
 "title": "Convertir des fichiers VST en HTML à l'aide de GroupDocs.Conversion .NET - Guide étape par étape"
 "url": "/fr/net/web-markup-formats/convert-vst-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des fichiers VST en HTML avec GroupDocs.Conversion .NET : guide étape par étape
 
 ## Introduction

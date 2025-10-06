@@ -8,10 +8,8 @@ keywords:
 - convert MHTML to DOCX
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # How to Convert MHTML to DOCX Using GroupDocs.Conversion for .NET
 
 ## Introduction

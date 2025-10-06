@@ -8,10 +8,8 @@ keywords:
 - HTM file conversion
 - GroupDocs.Conversion for .NET
 - automated document management
-
+type: docs
 ---
-
-
 # Efficiently Load and Convert HTM Files Using GroupDocs.Conversion for .NET
 
 ## Introduction

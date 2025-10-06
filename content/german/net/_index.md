@@ -5,8 +5,8 @@
 "title": "Umfassende Tutorials zu GroupDocs.Conversion für .NET"
 "url": "/de/net/"
 "weight": 10
+type: docs
 ---
-
 # Umfassende Tutorials zu GroupDocs.Conversion für .NET
 
 

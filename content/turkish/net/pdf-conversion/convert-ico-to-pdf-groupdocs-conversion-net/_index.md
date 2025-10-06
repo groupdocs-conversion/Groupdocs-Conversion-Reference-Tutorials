@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak ICO'yu Kolayca PDF'ye Dönüştürün | Adım Adım Kılavuz"
 "url": "/tr/net/pdf-conversion/convert-ico-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak ICO'yu PDF'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

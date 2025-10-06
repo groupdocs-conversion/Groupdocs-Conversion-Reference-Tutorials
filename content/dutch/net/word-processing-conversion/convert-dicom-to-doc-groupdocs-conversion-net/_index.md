@@ -4,8 +4,8 @@
 "title": "Stapsgewijze handleiding&#58; DICOM naar DOC converteren met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/word-processing-conversion/convert-dicom-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Stapsgewijze handleiding: DICOM naar DOC converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

@@ -4,8 +4,8 @@
 "title": "POTM naar HTML converteren met GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/html-conversion/convert-potm-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # POTM naar HTML converteren met GroupDocs.Conversion voor .NET: een uitgebreide handleiding
 ## Invoering
 Het delen van een PowerPoint-sjabloon zonder toegang tot Microsoft PowerPoint of het insluiten van presentaties op websites kan een uitdaging zijn. Met **GroupDocs.Conversion voor .NET**Het converteren van Microsoft PowerPoint-sjablonen (.potm) naar HTML verloopt naadloos en efficiënt. Deze uitgebreide handleiding begeleidt u moeiteloos door het gebruik van deze robuuste bibliotheek.

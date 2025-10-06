@@ -4,8 +4,8 @@
 "title": "Javaでテキストドキュメント処理をマスターする - GroupDocs.Conversionを使用してシームレスなエンコードとPDF変換を実現"
 "url": "/ja/java/word-processing-formats/master-text-document-handling-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion を使用した Java でのテキストドキュメント処理の習得
 
 ## 導入

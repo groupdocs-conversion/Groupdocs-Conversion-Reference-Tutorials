@@ -4,8 +4,8 @@
 "title": "OTG konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/html-conversion/convert-otg-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # OTG konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

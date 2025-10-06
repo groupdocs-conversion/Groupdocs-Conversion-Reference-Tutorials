@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs 跟踪 Java 文档转换进度的完整指南"
 "url": "/zh/java/conversion-events-logging/java-groupdocs-conversion-progress-listener/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs 跟踪 Java 中的文档转换进度：完整指南
 
 ## 介绍

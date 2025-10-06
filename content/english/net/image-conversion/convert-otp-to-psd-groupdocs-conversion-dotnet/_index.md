@@ -8,10 +8,8 @@ keywords:
 - convert OTP to PSD
 - GroupDocs.Conversion for .NET
 - .NET file conversion
-
+type: docs
 ---
-
-
 # How to Convert OTP Files to PSD Using GroupDocs.Conversion for .NET
 
 ## Introduction

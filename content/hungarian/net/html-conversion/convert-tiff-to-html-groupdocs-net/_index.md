@@ -4,8 +4,8 @@
 "title": "TIFF fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/html-conversion/convert-tiff-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # TIFF fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

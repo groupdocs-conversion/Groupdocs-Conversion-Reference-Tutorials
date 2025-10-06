@@ -5,8 +5,8 @@
 "title": "DOTM वर्ड टेम्पलेट्स (मैक्रोज़) को PDF में बदलें"
 "url": "/hi/net/file-conversion-to-pdf/convert-dotm-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # DOTM वर्ड टेम्पलेट्स (मैक्रोज़) को PDF में बदलें
 
 ## परिचय

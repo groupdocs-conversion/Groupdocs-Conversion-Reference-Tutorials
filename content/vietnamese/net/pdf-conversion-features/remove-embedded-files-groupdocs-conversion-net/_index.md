@@ -4,8 +4,8 @@
 "title": "Cách xóa các tệp nhúng khỏi PDF bằng GroupDocs.Conversion .NET để quản lý tài liệu được tối ưu hóa"
 "url": "/vi/net/pdf-conversion-features/remove-embedded-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách xóa các tệp nhúng khỏi PDF bằng GroupDocs.Conversion .NET để quản lý tài liệu được tối ưu hóa
 
 ## Giới thiệu

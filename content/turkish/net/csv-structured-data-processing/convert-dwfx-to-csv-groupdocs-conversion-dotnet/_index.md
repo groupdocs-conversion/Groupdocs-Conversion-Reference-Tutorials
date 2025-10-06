@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanılarak Verimli DWFX'ten CSV'ye Dönüştürme"
 "url": "/tr/net/csv-structured-data-processing/convert-dwfx-to-csv-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanılarak Verimli DWFX'ten CSV'ye Dönüştürme
 
 ## giriiş

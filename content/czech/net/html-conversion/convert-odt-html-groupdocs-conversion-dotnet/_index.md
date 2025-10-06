@@ -4,8 +4,8 @@
 "title": "Jak převést ODT do HTML pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/html-conversion/convert-odt-html-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést ODT do HTML pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

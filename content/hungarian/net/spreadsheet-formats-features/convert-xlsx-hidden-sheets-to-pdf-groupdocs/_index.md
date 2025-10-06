@@ -4,8 +4,8 @@
 "title": "Rejtett munkalapokat tartalmazó XLSX fájlok PDF-be konvertálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/spreadsheet-formats-features/convert-xlsx-hidden-sheets-to-pdf-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Rejtett munkalapokat tartalmazó XLSX fájlok PDF-be konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

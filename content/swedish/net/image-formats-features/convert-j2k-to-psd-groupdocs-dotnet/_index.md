@@ -4,8 +4,8 @@
 "title": "Konvertera J2K till PSD enkelt med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/image-formats-features/convert-j2k-to-psd-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera J2K-filer till PSD med GroupDocs.Conversion för .NET
 
 ## Introduktion

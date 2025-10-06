@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie OTP in DOCX mit GroupDocs für .NET – Eine Schritt-für-Schritt-Anleitung"
 "url": "/de/net/word-processing-formats-features/convert-otp-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie OTP mit GroupDocs für .NET in DOCX: Eine Schritt-für-Schritt-Anleitung
 
 ## Einführung

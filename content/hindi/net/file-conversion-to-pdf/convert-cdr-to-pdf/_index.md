@@ -5,8 +5,8 @@
 "title": "सीडीआर वेक्टर ग्राफिक्स को पीडीएफ में बदलें"
 "url": "/hi/net/file-conversion-to-pdf/convert-cdr-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # सीडीआर वेक्टर ग्राफिक्स को पीडीएफ में बदलें
 
 ## परिचय

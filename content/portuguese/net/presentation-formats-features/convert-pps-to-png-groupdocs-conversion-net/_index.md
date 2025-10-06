@@ -4,8 +4,8 @@
 "title": "Como converter PPS para PNG usando GroupDocs.Conversion para .NET - Um guia passo a passo"
 "url": "/pt/net/presentation-formats-features/convert-pps-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter PPS para PNG usando GroupDocs.Conversion para .NET: um tutorial abrangente
 
 ## Introdução

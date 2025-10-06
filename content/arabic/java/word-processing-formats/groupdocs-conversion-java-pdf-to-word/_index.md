@@ -4,8 +4,8 @@
 "title": "تحويل ملفات PDF إلى Word بكفاءة باستخدام واجهة برمجة تطبيقات GroupDocs.Conversion Java"
 "url": "/ar/java/word-processing-formats/groupdocs-conversion-java-pdf-to-word/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ملفات PDF إلى Word بكفاءة باستخدام واجهة برمجة تطبيقات GroupDocs.Conversion Java
 
 ## مقدمة

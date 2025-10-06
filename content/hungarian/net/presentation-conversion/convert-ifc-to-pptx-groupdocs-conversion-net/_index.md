@@ -4,8 +4,8 @@
 "title": "IFC fájlok PPTX formátumba konvertálása a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/presentation-conversion/convert-ifc-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # IFC fájlok PPTX formátumba konvertálása a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

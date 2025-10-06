@@ -4,8 +4,8 @@
 "title": "Konversi PDF ke Word Menggunakan GroupDocs.Conversion untuk .NET | Panduan Lengkap"
 "url": "/id/net/word-processing-formats-features/master-pdf-to-word-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Menguasai Konversi PDF ke Word dengan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

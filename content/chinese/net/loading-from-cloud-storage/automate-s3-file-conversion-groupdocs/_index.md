@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 自动执行 S3 文件转换 — 分步指南"
 "url": "/zh/net/loading-from-cloud-storage/automate-s3-file-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 自动执行 S3 文件转换：分步指南
 
 ## 介绍

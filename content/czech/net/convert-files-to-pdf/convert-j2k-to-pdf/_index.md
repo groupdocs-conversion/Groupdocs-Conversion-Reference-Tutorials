@@ -5,8 +5,8 @@
 "title": "Převod obrázků J2K JPEG 2000 do PDF"
 "url": "/cs/net/convert-files-to-pdf/convert-j2k-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # Převod obrázků J2K JPEG 2000 do PDF
 
 ## Zavedení

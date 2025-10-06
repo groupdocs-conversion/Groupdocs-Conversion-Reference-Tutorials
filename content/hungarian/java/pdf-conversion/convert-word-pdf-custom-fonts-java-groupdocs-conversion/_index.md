@@ -4,8 +4,8 @@
 "title": "Word konvertálása PDF-be egyéni betűtípusokkal Java-ban – Teljes útmutató a GroupDocs.Conversion használatával"
 "url": "/hu/java/pdf-conversion/convert-word-pdf-custom-fonts-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Word dokumentumok konvertálása PDF-be egyéni betűtípusokkal Java-ban: Teljes útmutató a GroupDocs.Conversion használatával
 
 ## Bevezetés

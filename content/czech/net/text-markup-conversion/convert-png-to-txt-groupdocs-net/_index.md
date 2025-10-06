@@ -4,8 +4,8 @@
 "title": "Převod PNG do TXT pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/text-markup-conversion/convert-png-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod PNG do TXT pomocí GroupDocs.Conversion pro .NET: Komplexní průvodce
 
 ## Zavedení

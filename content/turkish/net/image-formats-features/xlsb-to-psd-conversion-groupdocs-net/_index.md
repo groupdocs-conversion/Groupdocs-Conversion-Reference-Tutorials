@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion API'sini Kullanarak .NET'te Verimli XLSB'den PSD'ye Dönüştürme"
 "url": "/tr/net/image-formats-features/xlsb-to-psd-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion API'sini Kullanarak .NET'te Verimli XLSB'den PSD'ye Dönüştürme
 
 ## giriiş

@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion for VSSX
 - VSSX file conversion in .NET
 - Document management with GroupDocs
-
+type: docs
 ---
-
-
 # Efficient GroupDocs.Conversion for VSSX Files in .NET: A Complete Guide
 
 ## Introduction

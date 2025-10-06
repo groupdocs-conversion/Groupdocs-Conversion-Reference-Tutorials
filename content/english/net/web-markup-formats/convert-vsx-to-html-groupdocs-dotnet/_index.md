@@ -8,10 +8,8 @@ keywords:
 - convert VSX to HTML
 - GroupDocs.Conversion for .NET
 - VSX to HTML conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert VSX to HTML Using GroupDocs.Conversion in .NET
 
 ## Introduction

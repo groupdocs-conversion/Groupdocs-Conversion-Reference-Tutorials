@@ -4,8 +4,8 @@
 "title": "Fődokumentumok konvertálása .NET-ben a GroupDocs.Conversion használatával – Átfogó útmutató"
 "url": "/hu/net/conversion-options-settings/mastering-document-conversions-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Fődokumentumok konvertálása .NET-ben a GroupDocs.Conversion használatával
 ## Bevezetés
 Nehezen tud dokumentumokat konvertálni a .NET alkalmazásaiban? Nem Ön az egyetlen. Sok fejlesztő szembesül azzal a kihívással, hogy hogyan lehet hatékonyan meghatározni, hogy egy dokumentum mely formátumokba konvertálható. **GroupDocs.Conversion .NET-hez** zökkenőmentes integrációt és robusztus funkcionalitást kínál, így nélkülözhetetlen eszköz az alkalmazások képességeinek bővítéséhez.

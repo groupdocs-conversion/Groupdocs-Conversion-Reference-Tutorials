@@ -4,8 +4,8 @@
 "title": "GroupDocs for .NET을 사용하여 JLS를 Excel로 효율적으로 변환"
 "url": "/ko/net/spreadsheet-conversion/convert-jls-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 JPEG 무손실 이미지 파일(JLS)을 Excel 시트로 변환
 
 ## 소개

@@ -8,10 +8,8 @@ keywords:
 - convert POTM to DOCX
 - GroupDocs.Conversion for .NET
 - Microsoft PowerPoint Template conversion
-
+type: docs
 ---
-
-
 # Convert POTM to DOCX with GroupDocs for .NET
 
 ## Introduction

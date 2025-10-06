@@ -8,10 +8,8 @@ keywords:
 - convert JPEG 2000 to Word
 - GroupDocs.Conversion .NET
 - JPEG 2000 conversion
-
+type: docs
 ---
-
-
 # How to Convert JPEG 2000 Files (JPF) to Word Documents (.doc) Using GroupDocs.Conversion in .NET
 
 ## Introduction

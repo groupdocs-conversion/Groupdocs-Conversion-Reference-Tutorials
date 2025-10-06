@@ -4,8 +4,8 @@
 "title": "JPEG 2000'i Word'e Dönüştürme&#58; GroupDocs.Conversion for .NET Kullanarak Adım Adım Kılavuz"
 "url": "/tr/net/word-processing-conversion/convert-jpeg-2000-word-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # JPEG 2000'i Word'e Dönüştürme: .NET için GroupDocs.Conversion'ı Kullanarak Adım Adım Kılavuz
 
 ## giriiş

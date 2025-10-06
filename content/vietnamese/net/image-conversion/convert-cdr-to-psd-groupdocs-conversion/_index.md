@@ -4,8 +4,8 @@
 "title": "Chuyển đổi CDR sang PSD&#58; Chuyển đổi hình ảnh liền mạch bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/image-conversion/convert-cdr-to-psd-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi CDR sang PSD: Chuyển đổi hình ảnh liền mạch bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

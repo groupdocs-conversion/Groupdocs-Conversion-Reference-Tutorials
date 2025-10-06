@@ -4,8 +4,8 @@
 "title": "Chuyển đổi RTF sang TEX hiệu quả bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/word-processing-formats-features/convert-rtf-to-tex-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi RTF sang TEX hiệu quả bằng GroupDocs.Conversion cho .NET
 
 Trong thế giới kỹ thuật số ngày nay, việc chuyển đổi tài liệu sang định dạng mong muốn là rất quan trọng để cộng tác và xuất bản liền mạch. Cho dù bạn là nhà phát triển hay người cần chuyển đổi tệp RTF sang TEX cho mục đích học thuật, hướng dẫn này sẽ hướng dẫn bạn cách sử dụng GroupDocs.Conversion cho .NET.

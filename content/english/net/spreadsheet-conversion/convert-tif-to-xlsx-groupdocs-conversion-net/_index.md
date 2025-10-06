@@ -8,10 +8,8 @@ keywords:
 - convert TIFF to XLSX
 - GroupDocs.Conversion for .NET
 - TIFF to Excel conversion
-
+type: docs
 ---
-
-
 # How to Convert TIFF to XLSX Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -5,8 +5,8 @@
 "title": "EPUB ई-पुस्तकों को PDF में बदलें"
 "url": "/hi/net/convert-files-to-pdf/convert-epub-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # EPUB ई-पुस्तकों को PDF में बदलें
 
 ## परिचय

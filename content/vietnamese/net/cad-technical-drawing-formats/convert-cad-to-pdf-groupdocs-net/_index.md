@@ -4,8 +4,8 @@
 "title": "Chuyển đổi CAD sang PDF hiệu quả bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/cad-technical-drawing-formats/convert-cad-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi CAD sang PDF với GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

@@ -8,10 +8,8 @@ keywords:
 - convert password-protected Word docs to HTML
 - GroupDocs.Conversion for .NET setup
 - password protection handling with GroupDocs
-
+type: docs
 ---
-
-
 # How to Convert Password-Protected Word Documents to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

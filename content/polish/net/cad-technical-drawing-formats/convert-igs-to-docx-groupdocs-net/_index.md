@@ -4,8 +4,8 @@
 "title": "Konwersja plików IGES (IGS) do DOCX przy użyciu GroupDocs dla .NET&#58; Przewodnik krok po kroku"
 "url": "/pl/net/cad-technical-drawing-formats/convert-igs-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja plików IGES (IGS) do DOCX przy użyciu GroupDocs dla .NET: przewodnik krok po kroku
 
 ## Wstęp

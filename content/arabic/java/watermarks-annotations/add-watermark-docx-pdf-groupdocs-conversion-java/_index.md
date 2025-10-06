@@ -4,8 +4,8 @@
 "title": "كيفية إضافة علامة مائية إلى DOCX وتحويلها إلى PDF باستخدام GroupDocs.Conversion لـ Java"
 "url": "/ar/java/watermarks-annotations/add-watermark-docx-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # كيفية إضافة علامة مائية إلى مستندك باستخدام GroupDocs.Conversion لـ Java
 
 في عالمنا الرقمي اليوم، تُعد حماية مستنداتك من الاستخدام غير المصرح به أمرًا بالغ الأهمية. سواء كنت تشارك معلومات حساسة أو ترغب ببساطة في وضع علامة تجارية على مستنداتك، فإن إضافة علامة مائية قد تكون حلاً فعالاً. في هذا البرنامج التعليمي، سنرشدك خلال عملية الاستخدام. **GroupDocs.Conversion لـ Java** لإضافة علامة مائية عند تحويل ملف DOCX إلى PDF.

@@ -4,8 +4,8 @@
 "title": "Convertir un fichier TIFF en TXT à l'aide de GroupDocs.Conversion pour .NET - Guide étape par étape"
 "url": "/fr/net/text-markup-conversion/convert-tiff-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir un fichier TIFF en TXT avec GroupDocs.Conversion pour .NET : guide complet
 
 ## Introduction

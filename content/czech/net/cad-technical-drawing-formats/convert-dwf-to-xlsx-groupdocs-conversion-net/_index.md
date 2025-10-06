@@ -4,8 +4,8 @@
 "title": "Převod souborů DWF do XLSX pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/cad-technical-drawing-formats/convert-dwf-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů DWF do XLSX pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

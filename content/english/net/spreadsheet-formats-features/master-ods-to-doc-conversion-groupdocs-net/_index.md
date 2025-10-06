@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Comprehensive Guide: Convert ODS to DOC with GroupDocs.Conversion for .NET
 
 Are you looking to seamlessly convert your OpenDocument Spreadsheet (ODS) files into Microsoft Word documents? With **GroupDocs.Conversion for .NET**, this task becomes straightforward. This comprehensive guide will take you through the process step-by-step.

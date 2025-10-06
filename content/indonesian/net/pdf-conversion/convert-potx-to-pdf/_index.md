@@ -5,8 +5,8 @@
 "title": "Konversi POTX ke PDF"
 "url": "/id/net/pdf-conversion/convert-potx-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # Konversi POTX ke PDF
 
 ## Perkenalan

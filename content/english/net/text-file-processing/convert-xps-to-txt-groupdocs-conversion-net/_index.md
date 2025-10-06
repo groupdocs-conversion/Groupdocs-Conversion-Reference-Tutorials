@@ -8,10 +8,8 @@ keywords:
 - Convert XPS to TXT
 - GroupDocs.Conversion for .NET
 - XPS file conversion in .NET
-
+type: docs
 ---
-
-
 # Comprehensive Guide: Convert XPS to TXT Using GroupDocs.Conversion for .NET
 
 ## Introduction

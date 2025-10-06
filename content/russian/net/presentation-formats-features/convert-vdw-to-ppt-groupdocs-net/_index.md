@@ -4,8 +4,8 @@
 "title": "Эффективное преобразование веб-чертежей Visio в PowerPoint с помощью GroupDocs для разработчиков .NET"
 "url": "/ru/net/presentation-formats-features/convert-vdw-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Эффективное преобразование веб-чертежей Visio (VDW) в презентации PowerPoint с использованием GroupDocs для разработчиков .NET
 
 ## Введение

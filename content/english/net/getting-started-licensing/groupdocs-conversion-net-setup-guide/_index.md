@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion for .NET setup
 - file conversion in .NET
 - .NET file management
-
+type: docs
 ---
-
-
 # Comprehensive Guide to GroupDocs.Conversion for .NET: Setup and Implementation
 
 ## Introduction

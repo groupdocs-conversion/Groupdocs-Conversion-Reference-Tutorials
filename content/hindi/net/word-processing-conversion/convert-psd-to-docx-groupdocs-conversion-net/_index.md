@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion के साथ आसानी से PSD को DOCX में कनवर्ट करें एक संपूर्ण गाइड"
 "url": "/hi/net/word-processing-conversion/convert-psd-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion के साथ PSD को DOCX में परिवर्तित करें
 
 ## परिचय

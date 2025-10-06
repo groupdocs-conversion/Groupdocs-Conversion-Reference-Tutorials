@@ -4,8 +4,8 @@
 "title": "PPT'yi GroupDocs.Conversion for .NET Kullanarak JPG'ye Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/image-conversion/convert-ppt-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PPT'yi GroupDocs.Conversion for .NET Kullanarak JPG'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

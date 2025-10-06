@@ -4,8 +4,8 @@
 "title": "DWG konvertálása DOCX-be a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/cad-technical-drawing-formats/convert-dwg-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DWG konvertálása DOCX-be a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

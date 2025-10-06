@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi File MSG ke TXT Menggunakan GroupDocs.Conversion di .NET&#58; Panduan Lengkap"
 "url": "/id/net/email-formats-features/convert-msg-to-txt-groupdocs-net-tutorial/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi File MSG ke TXT Menggunakan GroupDocs.Conversion dalam .NET: Panduan Lengkap
 
 ## Perkenalan

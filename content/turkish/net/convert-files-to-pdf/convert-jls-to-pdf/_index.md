@@ -5,8 +5,8 @@
 "title": "JPEG-LS (.JLS) Dosyalarını PDF'ye Dönüştür"
 "url": "/tr/net/convert-files-to-pdf/convert-jls-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # JPEG-LS (.JLS) Dosyalarını PDF'ye Dönüştür
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して、ページ番号付きのマークアップを Word に変換する"
 "url": "/ja/net/word-processing-formats-features/groupdocs-conversion-markup-to-word-page-numbering/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して、ページ番号付きのマークアップを Word に変換する
 ## 導入
 正確なページ番号を維持しながら、マークアップ文書をプロフェッショナルなWord形式に変換したいとお考えですか？このチュートリアルでは、 **GroupDocs.Conversion for .NET** ドキュメントをシームレスに変換します。この強力なライブラリは変換を簡素化し、ページ番号などの重要な要素が出力ドキュメントにそのまま残るようにします。

@@ -5,8 +5,8 @@
 "title": "XPS को PDF में बदलें"
 "url": "/hi/net/converting-file-types-to-pdf/convert-xps-to-pdf/"
 "weight": 30
+type: docs
 ---
-
 # XPS को PDF में बदलें
 
 

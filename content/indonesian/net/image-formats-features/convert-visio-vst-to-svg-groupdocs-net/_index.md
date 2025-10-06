@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi Template Gambar Visio (.vst) ke SVG Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/image-formats-features/convert-visio-vst-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi Template Gambar Visio (.vst) ke SVG Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

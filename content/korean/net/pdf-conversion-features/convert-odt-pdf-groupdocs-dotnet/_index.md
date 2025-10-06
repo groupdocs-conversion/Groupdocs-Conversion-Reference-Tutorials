@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용한 효율적인 ODT-PDF 변환 가이드"
 "url": "/ko/net/pdf-conversion-features/convert-odt-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 효율적인 ODT-PDF 변환: .NET용 GroupDocs.Conversion 사용 가이드
 
 ## 소개

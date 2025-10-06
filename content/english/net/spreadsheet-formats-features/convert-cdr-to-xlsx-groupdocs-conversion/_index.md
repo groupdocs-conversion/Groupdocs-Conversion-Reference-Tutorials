@@ -8,10 +8,8 @@ keywords:
 - convert CDR to XLSX
 - GroupDocs.Conversion for .NET
 - file conversion guide
-
+type: docs
 ---
-
-
 # How to Convert CDR Files to XLSX Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

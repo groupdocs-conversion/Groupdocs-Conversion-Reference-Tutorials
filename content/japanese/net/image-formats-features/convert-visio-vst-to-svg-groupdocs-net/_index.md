@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して Visio 図面テンプレート (.vst) を SVG に変換する方法"
 "url": "/ja/net/image-formats-features/convert-visio-vst-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して Visio 図面テンプレート (.vst) を SVG に変換する方法
 
 ## 導入

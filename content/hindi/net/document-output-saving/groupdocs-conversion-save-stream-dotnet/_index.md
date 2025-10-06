@@ -4,8 +4,8 @@
 "title": ".NET में GroupDocs.Conversion का उपयोग करके स्ट्रीम में फ़ाइलों को कैसे सहेजें | एक चरण-दर-चरण मार्गदर्शिका"
 "url": "/hi/net/document-output-saving/groupdocs-conversion-save-stream-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion को कैसे लागू करें .NET: एक परिवर्तित फ़ाइल को स्ट्रीम में सहेजें
 
 ## परिचय

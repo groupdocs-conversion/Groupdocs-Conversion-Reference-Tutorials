@@ -5,8 +5,8 @@
 "title": "Konversi MSG ke PDF"
 "url": "/id/net/document-conversion/convert-msg-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # Konversi MSG ke PDF
 
 ## Perkenalan

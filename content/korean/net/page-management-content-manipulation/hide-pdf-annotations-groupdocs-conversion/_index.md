@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 Word로 변환하기 전에 PDF 주석을 숨기는 방법"
 "url": "/ko/net/page-management-content-manipulation/hide-pdf-annotations-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 Word로 변환하기 전에 PDF 주석을 숨기는 방법
 
 ## 소개

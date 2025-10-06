@@ -5,8 +5,8 @@
 "title": "XLSM konvertálása PDF-be"
 "url": "/hu/net/converting-file-types-to-pdf/convert-xlsm-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # XLSM konvertálása PDF-be
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して XLTX を TXT に変換する手順"
 "url": "/ja/net/spreadsheet-formats-features/convert-xltx-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して XLTX を TXT に変換する手順
 
 ## 導入

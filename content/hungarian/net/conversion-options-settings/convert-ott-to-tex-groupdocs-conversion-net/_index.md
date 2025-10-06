@@ -4,8 +4,8 @@
 "title": "OTT fájlok TEX formátumba konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/conversion-options-settings/convert-ott-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertáljunk OTT-t TEX-be a GroupDocs.Conversion for .NET használatával?
 
 Üdvözöljük átfogó útmutatónkban, amely bemutatja, hogyan konvertálhat Open Document Template (OTT) fájlokat LaTeX forrásdokumentumokká (TEX) a hatékony GroupDocs.Conversion for .NET könyvtár segítségével. Ha OTT-ről TEX-re konvertálja a dokumentumait, ez a megfelelő forrás.

@@ -8,10 +8,8 @@ keywords:
 - .NET conversion
 - GroupDocs.Conversion
 - convert DOTX files
-
+type: docs
 ---
-
-
 # How to Implement and Optimize .NET Conversion: Load & Convert DOTX Files Using GroupDocs.Conversion
 
 ## Introduction

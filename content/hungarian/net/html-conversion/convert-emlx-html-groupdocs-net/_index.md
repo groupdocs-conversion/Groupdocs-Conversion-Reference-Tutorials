@@ -4,8 +4,8 @@
 "title": "Apple Mail üzenetek (.emlx) HTML-lé konvertálása a .NET-hez készült GroupDocs.Conversion segítségével"
 "url": "/hu/net/html-conversion/convert-emlx-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Apple Mail üzenetek (.emlx) HTML-lé konvertálása a .NET-hez készült GroupDocs.Conversion segítségével
 
 ## Bevezetés

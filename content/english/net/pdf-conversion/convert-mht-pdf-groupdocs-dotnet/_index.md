@@ -8,10 +8,8 @@ keywords:
 - convert MHT to PDF .NET
 - GroupDocs.Conversion library
 - MHT document conversion
-
+type: docs
 ---
-
-
 # How to Convert MHT Files to PDF in .NET Using GroupDocs.Conversion
 
 ## Introduction

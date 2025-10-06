@@ -5,8 +5,8 @@
 "title": "แปลง EMZ Enhanced Metafiles เป็น PDF"
 "url": "/th/net/convert-files-to-pdf/convert-emz-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # แปลง EMZ Enhanced Metafiles เป็น PDF
 
 ## การแนะนำ

@@ -8,10 +8,8 @@ keywords:
 - convert OTG to HTML
 - GroupDocs.Conversion for .NET
 - document conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert OTG to HTML Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

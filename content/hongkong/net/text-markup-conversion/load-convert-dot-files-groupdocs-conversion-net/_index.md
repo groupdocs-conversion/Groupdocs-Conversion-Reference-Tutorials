@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 轉換 Graphviz DOT 檔案－逐步指南"
 "url": "/zh-hant/net/text-markup-conversion/load-convert-dot-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 載入和轉換 Graphviz DOT 文件
 
 ## 介紹

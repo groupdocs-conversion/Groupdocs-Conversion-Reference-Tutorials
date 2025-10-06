@@ -4,8 +4,8 @@
 "title": "Chuyển đổi IFC sang HTML bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/html-conversion/convert-ifc-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp IFC sang HTML bằng GroupDocs.NET
 
 ## Cách chuyển đổi tệp IFC sang HTML bằng GroupDocs.Conversion cho .NET

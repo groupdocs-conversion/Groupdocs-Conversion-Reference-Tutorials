@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 加载和转换 EPS 文件"
 "url": "/zh/net/loading-from-local-sources/load-eps-groupdocs-conversion-dotnet-tutorial/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 加载和转换 EPS 文件：分步指南
 
 ## 介绍

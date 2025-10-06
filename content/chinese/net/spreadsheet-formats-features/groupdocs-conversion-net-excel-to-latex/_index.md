@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 自动将 Excel 转换为 LaTeX 综合指南"
 "url": "/zh/net/spreadsheet-formats-features/groupdocs-conversion-net-excel-to-latex/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs 将 Excel 宏自动转换为 LaTeX
 
 ## 介绍

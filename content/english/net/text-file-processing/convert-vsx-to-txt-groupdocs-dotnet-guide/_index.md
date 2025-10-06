@@ -8,10 +8,8 @@ keywords:
 - VSX to TXT Conversion
 - GroupDocs.Conversion for .NET
 - File Conversion Guide
-
+type: docs
 ---
-
-
 # How to Convert VSX Files to TXT Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

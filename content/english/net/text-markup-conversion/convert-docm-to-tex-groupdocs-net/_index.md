@@ -8,10 +8,8 @@ keywords:
 - convert DOCM to TEX
 - GroupDocs.Conversion for .NET
 - Word Macro-Enabled Document to LaTeX
-
+type: docs
 ---
-
-
 # Convert DOCM to TEX Using GroupDocs for .NET: A Complete Guide
 
 ## Introduction

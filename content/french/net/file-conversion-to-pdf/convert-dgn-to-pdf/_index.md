@@ -5,8 +5,8 @@
 "title": "Convertir des fichiers DGN CAO en PDF"
 "url": "/fr/net/file-conversion-to-pdf/convert-dgn-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # Convertir des fichiers DGN CAO en PDF
 
 ## Introduction

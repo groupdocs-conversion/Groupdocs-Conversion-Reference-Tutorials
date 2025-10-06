@@ -4,8 +4,8 @@
 "title": "Chuyển đổi JLS sang PSD trong .NET bằng GroupDocs.Conversion&#58; Hướng dẫn từng bước"
 "url": "/vi/net/image-conversion/convert-jls-psd-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi JLS sang PSD trong .NET bằng GroupDocs.Conversion: Hướng dẫn từng bước
 
 ## Giới thiệu

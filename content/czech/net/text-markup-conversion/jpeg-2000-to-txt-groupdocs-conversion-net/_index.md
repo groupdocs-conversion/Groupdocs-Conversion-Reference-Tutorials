@@ -4,8 +4,8 @@
 "title": "Efektivní konverze JPEG 2000 do TXT pomocí GroupDocs.Conversion .NET"
 "url": "/cs/net/text-markup-conversion/jpeg-2000-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Zvládnutí konverze souborů: Konverze JPEG 2000 (.j2c) do textových souborů pomocí GroupDocs.Conversion .NET
 
 ## Zavedení

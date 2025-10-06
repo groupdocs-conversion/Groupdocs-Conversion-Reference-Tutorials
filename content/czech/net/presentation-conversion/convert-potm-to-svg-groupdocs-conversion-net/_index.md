@@ -4,8 +4,8 @@
 "title": "Převod POTM do SVG pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/presentation-conversion/convert-potm-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů POTM do formátu SVG pomocí GroupDocs.Conversion pro .NET
 ## Zavedení
 Chcete převést soubory šablon Microsoft PowerPointu (.potm) do formátu SVG? Postupujte podle tohoto komplexního průvodce a získejte výkonnou knihovnu GroupDocs.Conversion pro .NET. Snadno a efektivně vylepšete svůj pracovní postup správy dokumentů tím, že se naučíte, jak převádět soubory POTM do formátu SVG.

@@ -5,8 +5,8 @@
 "title": "Converter arquivos CAD DGN para PDF"
 "url": "/pt/net/file-conversion-to-pdf/convert-dgn-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # Converter arquivos CAD DGN para PDF
 
 ## Introdução

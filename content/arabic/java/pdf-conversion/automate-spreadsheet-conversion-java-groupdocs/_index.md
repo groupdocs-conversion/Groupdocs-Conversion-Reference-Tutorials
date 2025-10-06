@@ -4,8 +4,8 @@
 "title": "أتمتة تحويل جدول البيانات إلى PDF في Java باستخدام GroupDocs.Conversion"
 "url": "/ar/java/pdf-conversion/automate-spreadsheet-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # أتمتة تحويل جدول البيانات إلى PDF في Java باستخدام GroupDocs.Conversion
 
 ## مقدمة

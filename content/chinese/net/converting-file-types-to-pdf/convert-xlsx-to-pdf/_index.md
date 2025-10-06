@@ -5,8 +5,8 @@
 "title": "将 XLSX 转换为 PDF"
 "url": "/zh/net/converting-file-types-to-pdf/convert-xlsx-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # 将 XLSX 转换为 PDF
 
 ## 介绍

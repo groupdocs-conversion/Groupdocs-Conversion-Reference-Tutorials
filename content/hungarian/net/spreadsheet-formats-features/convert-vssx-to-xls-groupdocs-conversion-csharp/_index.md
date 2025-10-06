@@ -4,8 +4,8 @@
 "title": "VSSX konvertálása XLS-sé C#-ban a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/spreadsheet-formats-features/convert-vssx-to-xls-groupdocs-conversion-csharp/"
 "weight": 1
+type: docs
 ---
-
 # VSSX konvertálása XLS-sé C#-ban a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

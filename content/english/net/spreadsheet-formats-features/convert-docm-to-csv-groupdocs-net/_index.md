@@ -8,10 +8,8 @@ keywords:
 - convert DOCM to CSV
 - GroupDocs.Conversion for .NET
 - Microsoft Word Document Macro-enabled
-
+type: docs
 ---
-
-
 # How to Convert DOCM to CSV Using GroupDocs.Conversion for .NET
 
 ## Introduction

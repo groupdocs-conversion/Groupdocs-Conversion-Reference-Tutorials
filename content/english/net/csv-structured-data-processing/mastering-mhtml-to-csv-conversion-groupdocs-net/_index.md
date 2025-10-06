@@ -8,10 +8,8 @@ keywords:
 - MHTML to CSV conversion
 - GroupDocs.Conversion for .NET
 - file format conversion
-
+type: docs
 ---
-
-
 # Efficient MHTML to CSV Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -3,8 +3,8 @@
 "title": "Tutorial Keamanan Dokumen dan Perlindungan Konversi untuk GroupDocs.Conversion Java"
 "url": "/id/java/security-protection/"
 "weight": 19
+type: docs
 ---
-
 # Tutorial Keamanan Dokumen dan Perlindungan Konversi untuk GroupDocs.Conversion Java
 
 Tutorial kami yang berfokus pada keamanan menyediakan panduan komprehensif untuk bekerja dengan dokumen yang dilindungi menggunakan GroupDocs.Conversion di Java. Panduan praktis ini menunjukkan cara mengonversi file yang dilindungi kata sandi, menerapkan keamanan pada dokumen keluaran, menangani tanda tangan digital, menerapkan tanda air selama konversi, dan bekerja dengan konten terenkripsi. Setiap tutorial menyertakan contoh kode Java terperinci untuk skenario pemrosesan dokumen yang aman, membantu Anda membangun aplikasi yang menjaga kerahasiaan dan integritas dokumen di seluruh alur kerja konversi.

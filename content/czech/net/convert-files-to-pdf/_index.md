@@ -5,8 +5,8 @@
 "title": "Převod souborů do PDF"
 "url": "/cs/net/convert-files-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Převod souborů do PDF
 
 ## Zavedení

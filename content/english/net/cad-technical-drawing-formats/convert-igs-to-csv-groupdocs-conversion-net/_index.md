@@ -8,10 +8,8 @@ keywords:
 - Convert IGES to CSV
 - GroupDocs.Conversion .NET
 - IGS file conversion
-
+type: docs
 ---
-
-
 # Convert IGES to CSV with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

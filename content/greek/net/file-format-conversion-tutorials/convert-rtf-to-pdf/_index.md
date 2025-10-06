@@ -5,8 +5,8 @@
 "title": "Μετατροπή RTF σε PDF"
 "url": "/el/net/file-format-conversion-tutorials/convert-rtf-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # Μετατροπή RTF σε PDF
 
 ## Εισαγωγή

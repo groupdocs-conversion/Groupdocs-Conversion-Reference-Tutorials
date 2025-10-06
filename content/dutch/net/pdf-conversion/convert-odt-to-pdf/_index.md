@@ -5,8 +5,8 @@
 "title": "ODT naar PDF converteren"
 "url": "/nl/net/pdf-conversion/convert-odt-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # ODT naar PDF converteren
 
 ## Invoering

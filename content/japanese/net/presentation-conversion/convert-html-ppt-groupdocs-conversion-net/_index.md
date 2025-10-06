@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して HTML を PowerPoint に変換する - ステップバイステップ ガイド"
 "url": "/ja/net/presentation-conversion/convert-html-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して HTML を PowerPoint に変換する
 
 ## 導入

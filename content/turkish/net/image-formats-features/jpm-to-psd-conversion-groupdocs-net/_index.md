@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion'ı Kullanarak Verimli JPM'den PSD'ye Dönüştürme"
 "url": "/tr/net/image-formats-features/jpm-to-psd-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak Verimli JPM'den PSD'ye Dönüştürme
 ## giriiş
 Dosya dönüştürme süreçlerinizi optimize etmek mi istiyorsunuz? Bu kapsamlı kılavuz, güçlü GroupDocs.Conversion for .NET API'sini kullanarak JPM dosyalarını PSD formatına dönüştürme konusunda size yol gösterecektir. İster verimli çözümler arayan bir geliştirici olun, ister belge iş akışlarını kolaylaştırmayı hedefleyen bir işletme olun, bu araç modern ihtiyaçlara göre uyarlanmış sağlam özellikler sunar.

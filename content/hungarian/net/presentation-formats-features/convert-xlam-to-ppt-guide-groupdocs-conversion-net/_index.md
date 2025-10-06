@@ -4,8 +4,8 @@
 "title": "XLAM PPT-vé konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/presentation-formats-features/convert-xlam-to-ppt-guide-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # XLAM konvertálása PPT-vé a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

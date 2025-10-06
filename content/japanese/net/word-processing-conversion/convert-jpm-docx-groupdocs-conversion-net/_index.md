@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NETを使用してJPMをDOCXに簡単に変換し、シームレスなファイル変換を実現"
 "url": "/ja/net/word-processing-conversion/convert-jpm-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # JPMからDOCXへの変換が簡単：GroupDocs.Conversion .NETを使用したシームレスなファイル変換
 
 ## 導入

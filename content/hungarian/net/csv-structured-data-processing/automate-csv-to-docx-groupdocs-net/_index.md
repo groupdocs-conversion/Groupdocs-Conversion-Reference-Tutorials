@@ -4,8 +4,8 @@
 "title": "CSV DOCX-be konvertálás automatizálása a GroupDocs for .NET segítségével | Zökkenőmentes adatfeldolgozási útmutató"
 "url": "/hu/net/csv-structured-data-processing/automate-csv-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # CSV-DOCX konvertálás automatizálása a GroupDocs for .NET segítségével
 
 ## Bevezetés

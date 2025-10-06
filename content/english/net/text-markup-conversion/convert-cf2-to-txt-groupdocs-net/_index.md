@@ -8,10 +8,8 @@ keywords:
 - CF2 to TXT conversion
 - GroupDocs.Conversion .NET
 - convert CAD files
-
+type: docs
 ---
-
-
 # How to Convert CF2 Files to TXT Using GroupDocs.Conversion .NET: A Step-by-Step Guide
 
 ## Introduction

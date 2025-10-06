@@ -5,8 +5,8 @@
 "title": "RTFをPDFに変換する"
 "url": "/ja/net/file-format-conversion-tutorials/convert-rtf-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # RTFをPDFに変換する
 
 ## 導入

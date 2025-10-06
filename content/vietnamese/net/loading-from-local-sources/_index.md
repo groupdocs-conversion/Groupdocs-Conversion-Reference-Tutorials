@@ -3,8 +3,8 @@
 "title": "Tải tài liệu từ nguồn cục bộ Hướng dẫn cho GroupDocs.Conversion .NET"
 "url": "/vi/net/loading-from-local-sources/"
 "weight": 2
+type: docs
 ---
-
 # Tải tài liệu từ nguồn cục bộ Hướng dẫn cho GroupDocs.Conversion .NET
 
 Hướng dẫn tải tài liệu cục bộ của chúng tôi cung cấp hướng dẫn toàn diện để làm việc với các tài liệu được lưu trữ trên hệ thống cục bộ của bạn trong các ứng dụng .NET. Thực hiện theo các hướng dẫn từng bước này để tìm hiểu cách tải tài liệu từ các đường dẫn hệ thống tệp và luồng bộ nhớ. Các hướng dẫn này bao gồm nhiều tình huống khác nhau bao gồm đường dẫn tương đối và tuyệt đối, các cân nhắc về quản lý luồng và các kỹ thuật tối ưu hóa bộ nhớ. Mỗi hướng dẫn bao gồm các ví dụ mã C# hoàn chỉnh cho các tình huống tải tài liệu cục bộ, giúp bạn xây dựng các ứng dụng có thể truy cập hiệu quả vào nội dung từ hệ thống tệp hoặc bộ nhớ của bạn.

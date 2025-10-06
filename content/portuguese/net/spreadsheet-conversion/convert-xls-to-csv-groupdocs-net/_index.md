@@ -4,8 +4,8 @@
 "title": "Como converter XLS para CSV usando o GroupDocs.Conversion para .NET - Um guia passo a passo"
 "url": "/pt/net/spreadsheet-conversion/convert-xls-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter XLS para CSV usando GroupDocs.Conversion para .NET
 
 ## Introdução

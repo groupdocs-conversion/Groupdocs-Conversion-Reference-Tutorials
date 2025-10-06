@@ -8,10 +8,8 @@ keywords:
 - convert PPTX to CSV
 - GroupDocs.Conversion for .NET
 - PowerPoint to CSV conversion
-
+type: docs
 ---
-
-
 # Convert PPTX to CSV Efficiently with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

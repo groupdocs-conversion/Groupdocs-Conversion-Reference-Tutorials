@@ -4,8 +4,8 @@
 "title": "Efficiënte VDX naar SVG-conversie met GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/image-formats-features/convert-vdx-to-svg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # VDX-bestanden naar SVG converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

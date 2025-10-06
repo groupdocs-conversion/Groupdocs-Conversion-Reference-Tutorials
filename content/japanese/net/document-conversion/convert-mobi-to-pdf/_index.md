@@ -5,8 +5,8 @@
 "title": "MOBIをPDFに変換する"
 "url": "/ja/net/document-conversion/convert-mobi-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # MOBIをPDFに変換する
 
 ## 導入

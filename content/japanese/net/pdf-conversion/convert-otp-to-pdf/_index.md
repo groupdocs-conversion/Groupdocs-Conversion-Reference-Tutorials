@@ -5,8 +5,8 @@
 "title": "OTPをPDFに変換する"
 "url": "/ja/net/pdf-conversion/convert-otp-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # OTPをPDFに変換する
 
 ## 導入

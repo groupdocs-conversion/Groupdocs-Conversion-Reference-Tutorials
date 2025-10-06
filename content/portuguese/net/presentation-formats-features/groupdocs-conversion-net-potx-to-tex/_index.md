@@ -4,8 +4,8 @@
 "title": "Converta POTX para TeX usando GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/presentation-formats-features/groupdocs-conversion-net-potx-to-tex/"
 "weight": 1
+type: docs
 ---
-
 # Converter POTX para TeX usando GroupDocs.Conversion para .NET: um guia completo
 
 ## Introdução

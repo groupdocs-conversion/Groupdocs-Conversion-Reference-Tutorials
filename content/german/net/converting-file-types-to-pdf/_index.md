@@ -5,8 +5,8 @@
 "title": "Konvertieren von Dateitypen in PDF"
 "url": "/de/net/converting-file-types-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Konvertieren von Dateitypen in PDF
 
 ## Einführung

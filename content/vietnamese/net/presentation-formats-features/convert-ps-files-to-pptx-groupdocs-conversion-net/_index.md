@@ -4,8 +4,8 @@
 "title": "Chuyển đổi PostScript sang PowerPoint&#58; GroupDocs.Hướng dẫn chuyển đổi .NET"
 "url": "/vi/net/presentation-formats-features/convert-ps-files-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp PostScript (PS) sang PowerPoint (PPTX) bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

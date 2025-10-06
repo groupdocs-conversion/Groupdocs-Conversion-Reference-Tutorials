@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 FTP 문서를 PDF로 변환하는 방법"
 "url": "/ko/net/loading-from-remote-sources/convert-ftp-documents-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 FTP 문서를 PDF로 변환하는 방법
 
 오늘날의 디지털 환경에서는 문서를 효율적으로 관리하고 변환하는 것이 필수적입니다. 이 튜토리얼에서는 FTP 서버에서 문서를 다운로드하고 PDF와 같은 보편적으로 허용되는 형식으로 변환하는 방법을 안내합니다. **.NET용 GroupDocs.Conversion**.

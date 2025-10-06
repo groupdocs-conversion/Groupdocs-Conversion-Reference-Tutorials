@@ -5,8 +5,8 @@
 "title": "تحويل رسومات CGM المتجهة إلى PDF"
 "url": "/ar/net/file-conversion-to-pdf/convert-cgm-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # تحويل رسومات CGM المتجهة إلى PDF
 
 ## مقدمة

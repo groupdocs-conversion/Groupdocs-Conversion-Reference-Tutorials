@@ -5,8 +5,8 @@
 "title": "将PCL转换为PDF"
 "url": "/zh/net/pdf-conversion/convert-pcl-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # 将PCL转换为PDF
 
 ## 介绍

@@ -4,8 +4,8 @@
 "title": "Převod souborů STL do formátu JPG pomocí nástroje GroupDocs.Conversion pro .NET – podrobný návod"
 "url": "/cs/net/image-conversion/convert-stl-files-to-jpg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů STL do formátu JPG pomocí nástroje GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

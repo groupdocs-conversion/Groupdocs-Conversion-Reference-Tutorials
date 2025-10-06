@@ -8,10 +8,8 @@ keywords:
 - OTT to PSD conversion
 - GroupDocs.Conversion for .NET
 - document conversion in .NET
-
+type: docs
 ---
-
-
 # Convert OTT to PSD Using GroupDocs.Conversion in .NET: A Complete Guide
 
 ## Introduction

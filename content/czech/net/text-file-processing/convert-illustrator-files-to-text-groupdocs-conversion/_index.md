@@ -4,8 +4,8 @@
 "title": "Převod souborů Adobe Illustratoru na text pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/text-file-processing/convert-illustrator-files-to-text-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů Adobe Illustratoru na text pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

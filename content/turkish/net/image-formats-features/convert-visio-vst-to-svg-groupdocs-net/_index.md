@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanılarak Visio Çizim Şablonları (.vst) SVG'ye Nasıl Dönüştürülür"
 "url": "/tr/net/image-formats-features/convert-visio-vst-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanılarak Visio Çizim Şablonları (.vst) SVG'ye Nasıl Dönüştürülür
 
 ## giriiş

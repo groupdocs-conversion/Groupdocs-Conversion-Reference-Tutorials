@@ -8,10 +8,8 @@ keywords:
 - convert DWG to TXT
 - GroupDocs.Conversion .NET
 - DWG file conversion
-
+type: docs
 ---
-
-
 # How to Convert DWG Files to TXT Using GroupDocs.Conversion in .NET: A Step-by-Step Guide
 
 ## Introduction

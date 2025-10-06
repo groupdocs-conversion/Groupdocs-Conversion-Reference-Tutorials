@@ -8,10 +8,8 @@ keywords:
 - convert DICOM to XLS
 - GroupDocs.Conversion .NET
 - Excel spreadsheet conversion
-
+type: docs
 ---
-
-
 # How to Convert DICOM Files to Excel Spreadsheets Using GroupDocs.Conversion .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "GroupDocs for .NET을 사용하여 암호로 보호된 Word 문서를 Excel로 변환"
 "url": "/ko/net/working-with-secure-documents/convert-password-word-docs-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs for .NET을 사용하여 암호로 보호된 Word 문서를 Excel로 변환
 
 ## 소개

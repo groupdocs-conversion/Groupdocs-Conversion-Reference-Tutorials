@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak XLTX'i CSV'ye Verimli Şekilde Dönüştürün"
 "url": "/tr/net/spreadsheet-formats-features/convert-xltx-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak XLTX'i CSV'ye Verimli Şekilde Dönüştürün
 
 ## giriiş

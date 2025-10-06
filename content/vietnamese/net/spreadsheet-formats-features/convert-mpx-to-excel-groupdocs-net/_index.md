@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tệp MPX sang Excel bằng GroupDocs.Conversion cho .NET - Chuyển đổi tệp quản lý dự án dễ dàng"
 "url": "/vi/net/spreadsheet-formats-features/convert-mpx-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp MPX sang Excel bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

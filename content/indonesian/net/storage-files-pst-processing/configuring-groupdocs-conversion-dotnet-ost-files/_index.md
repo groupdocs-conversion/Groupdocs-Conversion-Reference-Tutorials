@@ -4,8 +4,8 @@
 "title": "Cara Mengonfigurasi GroupDocs.Conversion .NET untuk File OST - Panduan Lengkap"
 "url": "/id/net/storage-files-pst-processing/configuring-groupdocs-conversion-dotnet-ost-files/"
 "weight": 1
+type: docs
 ---
-
 # Tutorial Lengkap: Mengonfigurasi GroupDocs.Conversion .NET untuk Penanganan File OST
 
 ## Perkenalan

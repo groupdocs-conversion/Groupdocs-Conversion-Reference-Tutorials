@@ -4,8 +4,8 @@
 "title": "Μετατροπή TSV σε DOCX χρησιμοποιώντας το GroupDocs.Conversion για .NET™ Ένας πλήρης οδηγός"
 "url": "/el/net/word-processing-formats-features/convert-tsv-to-docx-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή TSV σε DOCX χρησιμοποιώντας το GroupDocs.Conversion για .NET: Ένας πλήρης οδηγός
 
 ## Εισαγωγή

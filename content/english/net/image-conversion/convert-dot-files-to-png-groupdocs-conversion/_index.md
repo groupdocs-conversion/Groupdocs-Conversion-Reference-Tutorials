@@ -8,10 +8,8 @@ keywords:
 - convert DOT files to PNG
 - GroupDocs.Conversion .NET
 - image conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert DOT Files to PNG Using GroupDocs.Conversion for .NET
 
 ## Introduction

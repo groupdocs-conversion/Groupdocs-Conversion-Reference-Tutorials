@@ -4,8 +4,8 @@
 "title": "VSTM DOCX formátumba konvertálása .NET-ben a GroupDocs.Conversion segítségével"
 "url": "/hu/net/word-processing-conversion/convert-vstm-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # VSTM fájlok konvertálása DOCX formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

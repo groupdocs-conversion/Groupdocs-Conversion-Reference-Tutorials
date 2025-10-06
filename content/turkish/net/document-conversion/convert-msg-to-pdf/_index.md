@@ -5,8 +5,8 @@
 "title": "MSG'yi PDF'ye dönüştür"
 "url": "/tr/net/document-conversion/convert-msg-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # MSG'yi PDF'ye dönüştür
 
 ## giriiş

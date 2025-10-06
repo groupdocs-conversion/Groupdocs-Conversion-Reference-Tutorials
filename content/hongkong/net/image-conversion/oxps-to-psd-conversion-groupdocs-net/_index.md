@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 將 OXPS 轉換為 PSD — 影像轉換綜合指南"
 "url": "/zh-hant/net/image-conversion/oxps-to-psd-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 將 OXPS 轉換為 PSD：影像轉換綜合指南
 
 ## 介紹

@@ -8,10 +8,8 @@ keywords:
 - Custom Caching Java
 - GroupDocs.Conversion Java
 - Redis Cache Implementation
-
+type: docs
 ---
-
-
 # How to Implement Custom Caching in Java Using Redis & GroupDocs.Conversion
 
 ## Introduction

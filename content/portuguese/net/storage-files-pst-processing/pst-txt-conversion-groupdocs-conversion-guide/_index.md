@@ -4,8 +4,8 @@
 "title": "Conversão eficiente de PST para TXT usando GroupDocs.Conversion para .NET"
 "url": "/pt/net/storage-files-pst-processing/pst-txt-conversion-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Conversão eficiente de PST para TXT usando GroupDocs.Conversion para .NET
 
 ## Introdução

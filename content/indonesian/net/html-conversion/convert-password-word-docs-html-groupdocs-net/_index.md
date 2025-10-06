@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi Dokumen Word yang Dilindungi Kata Sandi ke HTML Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/html-conversion/convert-password-word-docs-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi Dokumen Word yang Dilindungi Kata Sandi ke HTML Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

@@ -4,8 +4,8 @@
 "title": "Effiziente HTML-zu-PSD-Konvertierung mit GroupDocs.Conversion für .NET"
 "url": "/de/net/image-conversion/html-to-psd-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Effiziente HTML-zu-PSD-Konvertierung mit GroupDocs.Conversion für .NET
 
 ## Einführung

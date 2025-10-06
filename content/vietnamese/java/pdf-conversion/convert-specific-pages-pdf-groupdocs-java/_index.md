@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi các trang cụ thể của tài liệu sang PDF bằng GroupDocs.Conversion cho Java"
 "url": "/vi/java/pdf-conversion/convert-specific-pages-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi các trang cụ thể của tài liệu sang PDF bằng GroupDocs.Conversion cho Java
 
 Trong thời đại kỹ thuật số ngày nay, việc chuyển đổi tài liệu hiệu quả và hiệu suất là rất quan trọng đối với cả doanh nghiệp và cá nhân. Cho dù bạn đang chia sẻ các phần cụ thể của báo cáo hay biên soạn các trang được chọn thành một tệp PDF duy nhất, việc có đúng công cụ có thể tạo nên sự khác biệt. Hướng dẫn này sẽ hướng dẫn bạn cách sử dụng **GroupDocs.Conversion cho Java** để chuyển đổi các trang cụ thể của một tài liệu sang định dạng PDF. Hãy cùng tìm hiểu nhé!

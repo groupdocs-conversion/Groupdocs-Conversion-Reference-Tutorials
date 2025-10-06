@@ -4,8 +4,8 @@
 "title": "Konwertuj dokumenty do strumieni PDF za pomocą GroupDocs.Conversion dla .NET&#58; Kompleksowy przewodnik"
 "url": "/pl/net/pdf-conversion/convert-documents-pdf-streams-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj dokumenty do strumieni PDF za pomocą GroupDocs.Conversion dla .NET: kompleksowy przewodnik
 
 ## Wstęp

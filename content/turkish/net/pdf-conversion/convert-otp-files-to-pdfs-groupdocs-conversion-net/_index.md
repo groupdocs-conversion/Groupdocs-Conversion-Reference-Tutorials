@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak OTP Dosyalarını PDF'lere Dönüştürün - Sorunsuz Dönüştürme Kılavuzu"
 "url": "/tr/net/pdf-conversion/convert-otp-files-to-pdfs-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET ile OTP Dosyalarını PDF'lere Dönüştürün
 
 ## giriiş

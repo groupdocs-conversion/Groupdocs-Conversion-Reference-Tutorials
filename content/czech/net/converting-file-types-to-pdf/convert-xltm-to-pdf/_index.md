@@ -5,8 +5,8 @@
 "title": "Převod XLTM do PDF"
 "url": "/cs/net/converting-file-types-to-pdf/convert-xltm-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # Převod XLTM do PDF
 
 ## Zavedení

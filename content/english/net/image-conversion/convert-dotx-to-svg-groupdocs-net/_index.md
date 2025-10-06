@@ -8,10 +8,8 @@ keywords:
 - Convert DOTX to SVG
 - GroupDocs.Conversion for .NET
 - File conversion tutorial
-
+type: docs
 ---
-
-
 # How to Convert DOTX Files to SVG Using GroupDocs.Conversion for .NET
 
 ## Introduction

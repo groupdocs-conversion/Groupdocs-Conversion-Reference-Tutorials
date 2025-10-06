@@ -4,8 +4,8 @@
 "title": "PowerPoint konvertálása Photoshop Master GroupDocs.Conversion-ba .NET PPT PSD konvertáláshoz"
 "url": "/hu/net/image-formats-features/groupdocs-conversion-net-ppt-psd/"
 "weight": 1
+type: docs
 ---
-
 # PowerPoint konvertálása Photoshopba: GroupDocs.Conversion .NET PPT PSD-vé konvertálásához
 
 ## Bevezetés

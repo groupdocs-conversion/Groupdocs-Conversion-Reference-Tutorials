@@ -5,8 +5,8 @@
 "title": "Převod JPC do PDF"
 "url": "/cs/net/document-conversion/convert-jpc-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Převod JPC do PDF
 
 ## Zavedení

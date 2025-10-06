@@ -4,8 +4,8 @@
 "title": ".NET में GroupDocs.Conversion का उपयोग करके VCF को PDF में कुशलतापूर्वक परिवर्तित करें"
 "url": "/hi/net/word-processing-formats-features/convert-vcf-word-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET में GroupDocs.Conversion का उपयोग करके VCF फ़ाइलों को Word दस्तावेज़ों में कुशल रूपांतरण
 
 ## परिचय

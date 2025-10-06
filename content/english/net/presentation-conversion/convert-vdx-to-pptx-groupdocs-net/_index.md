@@ -8,10 +8,8 @@ keywords:
 - convert VDX to PPTX
 - GroupDocs.Conversion for .NET
 - Visio to PowerPoint conversion
-
+type: docs
 ---
-
-
 # Convert VDX to PPTX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

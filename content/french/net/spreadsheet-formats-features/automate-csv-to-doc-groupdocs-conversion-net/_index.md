@@ -4,8 +4,8 @@
 "title": "Automatisez la conversion CSV en DOC avec GroupDocs.Conversion pour .NET"
 "url": "/fr/net/spreadsheet-formats-features/automate-csv-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Automatisez la conversion CSV en DOC avec GroupDocs.Conversion pour .NET
 
 ## Introduction

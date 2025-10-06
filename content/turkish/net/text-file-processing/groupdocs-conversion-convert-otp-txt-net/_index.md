@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak OTP'yi TXT Dosyalarına Verimli Şekilde Dönüştürün"
 "url": "/tr/net/text-file-processing/groupdocs-conversion-convert-otp-txt-net/"
 "weight": 1
+type: docs
 ---
-
 # Dosya Dönüşümünde Ustalaşma: GroupDocs.Conversion for .NET ile OTP'yi TXT'ye Dönüştürme
 
 ## giriiş

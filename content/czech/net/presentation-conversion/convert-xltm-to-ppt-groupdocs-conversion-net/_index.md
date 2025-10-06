@@ -4,8 +4,8 @@
 "title": "Jak převést XLTm do PPT pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/presentation-conversion/convert-xltm-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést XLTm do PPT pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

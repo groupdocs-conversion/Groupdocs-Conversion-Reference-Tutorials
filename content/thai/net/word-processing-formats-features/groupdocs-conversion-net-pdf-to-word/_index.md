@@ -4,8 +4,8 @@
 "title": "แปลงหน้า PDF เป็น Word โดยใช้ GroupDocs.Conversion .NET คำแนะนำทีละขั้นตอน"
 "url": "/th/net/word-processing-formats-features/groupdocs-conversion-net-pdf-to-word/"
 "weight": 1
+type: docs
 ---
-
 # แปลงหน้า PDF เป็น Word โดยใช้ GroupDocs.Conversion .NET: คำแนะนำทีละขั้นตอน
 
 ## การแนะนำ

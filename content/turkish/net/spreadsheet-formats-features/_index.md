@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET için E-Tablo Biçimleri ve Özellikleri Eğitimleri"
 "url": "/tr/net/spreadsheet-formats-features/"
 "weight": 11
+type: docs
 ---
-
 # GroupDocs.Conversion .NET için E-Tablo Biçimleri ve Özellikleri Eğitimleri
 
 GroupDocs.Conversion .NET eğitimlerimizle elektronik tablo belgelerini nasıl işleyeceğinizi öğrenin. Bu ayrıntılı kılavuzlar, Excel biçimleri, CSV ve diğer elektronik tablo türleri arasında dönüştürme yapmayı, kılavuz çizgilerini ve açıklamaları göstermeyi veya gizlemeyi, boş satırları ve sütunları atlamayı, dönüştürme için aralıkları ve sayfa dizinlerini belirtmeyi, gizli sayfaları yönetmeyi, formülleri ve işlevleri korumayı, hücre biçimlendirmesini sürdürmeyi ve dönüştürme sırasında hesaplama zincirlerini kontrol etmeyi gösterir. Her eğitim, karmaşık hesaplamaları ve görsel öğeleri korurken doğru elektronik tablo dönüştürmeyi nasıl uygulayacağınızı gösteren çalışan C# kod örnekleri içerir.

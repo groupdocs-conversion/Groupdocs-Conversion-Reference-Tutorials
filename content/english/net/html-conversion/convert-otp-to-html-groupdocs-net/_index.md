@@ -8,10 +8,8 @@ keywords:
 - convert OTP files to HTML
 - GroupDocs.Conversion for .NET
 - HTML Conversion guide
-
+type: docs
 ---
-
-
 # Convert OTP Files to HTML Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

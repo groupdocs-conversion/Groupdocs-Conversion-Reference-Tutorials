@@ -4,8 +4,8 @@
 "title": "Hur man konverterar STL-filer till TXT med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/text-markup-conversion/convert-stl-to-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar STL-filer till TXT med GroupDocs.Conversion för .NET: En steg-för-steg-guide
 
 ## Introduktion

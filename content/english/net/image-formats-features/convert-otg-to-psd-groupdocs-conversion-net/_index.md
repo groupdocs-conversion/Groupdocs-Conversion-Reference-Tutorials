@@ -8,10 +8,8 @@ keywords:
 - OTG to PSD conversion
 - GroupDocs.Conversion for .NET
 - file format conversion
-
+type: docs
 ---
-
-
 # How to Convert OTG Files to PSD Using GroupDocs.Conversion .NET: A Comprehensive Guide
 
 ## Introduction

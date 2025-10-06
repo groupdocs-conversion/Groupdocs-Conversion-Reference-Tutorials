@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して PDF を TXT に変換する包括的なガイド"
 "url": "/ja/net/text-file-processing/convert-pdf-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET で PDF を TXT に変換する
 
 ## 導入

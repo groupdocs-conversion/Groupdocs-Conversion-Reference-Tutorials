@@ -4,8 +4,8 @@
 "title": "Xử lý tài liệu văn bản chính trong Java&#58; Sử dụng GroupDocs.Conversion để mã hóa liền mạch và chuyển đổi PDF"
 "url": "/vi/java/word-processing-formats/master-text-document-handling-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Làm chủ việc xử lý tài liệu văn bản trong Java với GroupDocs.Conversion
 
 ## Giới thiệu

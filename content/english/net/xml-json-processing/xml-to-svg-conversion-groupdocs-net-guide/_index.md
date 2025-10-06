@@ -8,10 +8,8 @@ keywords:
 - XML to SVG Conversion
 - GroupDocs.Conversion for .NET
 - Data Visualization with SVG
-
+type: docs
 ---
-
-
 # Efficient XML to SVG Conversion using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

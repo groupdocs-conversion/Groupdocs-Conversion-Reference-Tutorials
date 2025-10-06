@@ -4,8 +4,8 @@
 "title": "XML konvertálása PNG-vé a GroupDocs.Conversion használatával .NET-ben – Teljes körű útmutató"
 "url": "/hu/net/image-conversion/convert-xml-to-png-groupdocs-conversion-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # XML konvertálása PNG-vé a GroupDocs.Conversion használatával .NET-ben: Átfogó útmutató
 
 ## Bevezetés

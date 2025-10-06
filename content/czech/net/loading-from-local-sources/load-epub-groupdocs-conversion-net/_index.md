@@ -4,8 +4,8 @@
 "title": "Jak načíst soubory EPUB pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/loading-from-local-sources/load-epub-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak načíst soubor EPUB pomocí GroupDocs.Conversion pro .NET: Komplexní průvodce
 
 ## Zavedení

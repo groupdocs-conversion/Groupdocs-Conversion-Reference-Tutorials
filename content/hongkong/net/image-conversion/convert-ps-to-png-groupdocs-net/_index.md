@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 PS 轉換為 PNG 完整指南"
 "url": "/zh-hant/net/image-conversion/convert-ps-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 PS 轉換為 PNG：綜合指南
 
 ## 介紹

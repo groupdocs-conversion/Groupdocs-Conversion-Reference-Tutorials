@@ -8,10 +8,8 @@ keywords:
 - Convert VSDX to XLS
 - GroupDocs.Conversion for .NET
 - C# Tutorial
-
+type: docs
 ---
-
-
 # Convert VSDX to XLS Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

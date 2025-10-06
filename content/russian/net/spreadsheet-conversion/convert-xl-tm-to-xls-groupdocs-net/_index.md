@@ -4,8 +4,8 @@
 "title": "Как конвертировать XLTM в XLS с помощью GroupDocs.Conversion для .NET | Руководство по конвертации электронных таблиц"
 "url": "/ru/net/spreadsheet-conversion/convert-xl-tm-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте XLTM в XLS с помощью GroupDocs.Conversion для .NET
 
 ## Введение

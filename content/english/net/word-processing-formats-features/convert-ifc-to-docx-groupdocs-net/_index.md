@@ -8,10 +8,8 @@ keywords:
 - convert IFC to DOCX
 - GroupDocs Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Convert IFC to DOCX Using GroupDocs.Conversion for .NET
 
 ## Introduction

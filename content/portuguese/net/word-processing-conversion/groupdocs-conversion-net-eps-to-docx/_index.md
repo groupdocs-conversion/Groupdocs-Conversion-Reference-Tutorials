@@ -4,8 +4,8 @@
 "title": "Domine a conversão de EPS para DOCX com o GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/word-processing-conversion/groupdocs-conversion-net-eps-to-docx/"
 "weight": 1
+type: docs
 ---
-
 # Dominando a conversão de EPS para DOCX com GroupDocs.Conversion para .NET
 
 ## Introdução

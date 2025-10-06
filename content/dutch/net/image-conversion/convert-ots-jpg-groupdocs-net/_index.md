@@ -4,8 +4,8 @@
 "title": "Hoe u OTS-bestanden naar JPG converteert met GroupDocs.Conversion voor .NET - Handleiding voor het converteren van afbeeldingen"
 "url": "/nl/net/image-conversion/convert-ots-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # OTS-bestanden naar JPG converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

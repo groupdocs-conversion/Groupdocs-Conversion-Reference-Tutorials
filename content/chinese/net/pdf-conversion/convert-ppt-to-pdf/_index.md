@@ -5,8 +5,8 @@
 "title": "将PPT转换为PDF"
 "url": "/zh/net/pdf-conversion/convert-ppt-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # 将PPT转换为PDF
 
 ## 介绍

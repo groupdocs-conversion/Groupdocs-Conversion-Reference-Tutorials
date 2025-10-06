@@ -4,8 +4,8 @@
 "title": "Převod BMP do Excelu pomocí GroupDocs.Conversion .NET pro převod tabulek"
 "url": "/cs/net/spreadsheet-conversion/convert-bmp-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory BMP do Excelu pomocí GroupDocs.Conversion .NET
 
 ## Zavedení

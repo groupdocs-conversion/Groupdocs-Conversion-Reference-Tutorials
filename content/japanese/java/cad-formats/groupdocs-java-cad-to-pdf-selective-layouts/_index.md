@@ -4,8 +4,8 @@
 "title": "GroupDocsの選択レイアウト変換ガイドを使用して、JavaでCADレイアウトをPDFに変換する"
 "url": "/ja/java/cad-formats/groupdocs-java-cad-to-pdf-selective-layouts/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for JavaでCADレイアウトをPDFに変換する
 ## JavaでCADからPDFへの選択的変換をマスターする
 ### 導入

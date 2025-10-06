@@ -4,8 +4,8 @@
 "title": "Java용 GroupDocs.Conversion을 사용하여 Word-PDF 변환 시 추적된 변경 사항 숨기기 자동화"
 "url": "/ko/java/conversion-options/automate-hide-tracked-changes-word-pdf-conversion-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Java용 GroupDocs.Conversion을 사용하여 Word-PDF 변환 시 추적된 변경 사항 숨기기 자동화
 
 ## 소개

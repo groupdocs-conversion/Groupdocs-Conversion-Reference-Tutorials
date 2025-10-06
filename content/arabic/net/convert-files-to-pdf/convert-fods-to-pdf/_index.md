@@ -5,8 +5,8 @@
 "title": "تحويل جداول بيانات FODS OpenDocument إلى PDF"
 "url": "/ar/net/convert-files-to-pdf/convert-fods-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # تحويل جداول بيانات FODS OpenDocument إلى PDF
 
 ## مقدمة

@@ -4,8 +4,8 @@
 "title": "วิธีการแปลงไฟล์ DGN เป็น PNG โดยใช้ GroupDocs.Conversion สำหรับ .NET&#58; คู่มือฉบับสมบูรณ์"
 "url": "/th/net/cad-technical-drawing-formats/convert-dgn-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการแปลงไฟล์ DGN เป็น PNG โดยใช้ GroupDocs การแปลงสำหรับ .NET: คู่มือฉบับสมบูรณ์
 
 ## การแนะนำ

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion kullanarak .NET'te Verimli PPT'den PDF'ye Dönüştürme"
 "url": "/tr/net/pdf-conversion/groupdocs-conversion-net-ppt-pdf/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Kullanarak .NET'te Verimli PPT'den PDF'ye Dönüştürme
 
 PowerPoint sunumlarını (.ppt) Taşınabilir Belge Biçimine (PDF) dönüştürmek günümüzün dijital ortamında olmazsa olmazdır. İster güvenli paylaşım ister arşivleme için olsun, bu işlevsellik paha biçilemezdir. Bu eğitimde, size şu konuda rehberlik edeceğiz: **GroupDocs.Conversion .NET için** PPT dosyalarınızı verimli bir şekilde PDF'lere dönüştürmek için.

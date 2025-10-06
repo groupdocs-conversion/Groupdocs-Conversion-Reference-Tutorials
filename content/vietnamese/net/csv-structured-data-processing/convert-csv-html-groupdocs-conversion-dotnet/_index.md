@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi CSV sang HTML bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/csv-structured-data-processing/convert-csv-html-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi CSV sang HTML bằng GroupDocs.Conversion cho .NET: Hướng dẫn từng bước
 
 ## Giới thiệu

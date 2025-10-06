@@ -4,8 +4,8 @@
 "title": "CF2 HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/web-markup-formats/cf2-html-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # CF2 konvertálása HTML-lé a GroupDocs.Conversion for .NET segítségével: Átfogó útmutató
 
 ## Bevezetés

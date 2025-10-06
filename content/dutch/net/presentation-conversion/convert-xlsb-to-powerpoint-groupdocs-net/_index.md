@@ -4,8 +4,8 @@
 "title": "Converteer XLSB naar PowerPoint met GroupDocs.Conversion.NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/presentation-conversion/convert-xlsb-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # XLSB naar PowerPoint converteren met GroupDocs.Conversion .NET
 
 ## Invoering

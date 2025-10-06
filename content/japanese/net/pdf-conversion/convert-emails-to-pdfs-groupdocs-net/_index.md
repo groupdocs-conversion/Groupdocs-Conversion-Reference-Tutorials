@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET でメールをシームレスに PDF に変換する | 総合ガイド"
 "url": "/ja/net/pdf-conversion/convert-emails-to-pdfs-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET でメールをシームレスに PDF に変換
 
 ## 導入

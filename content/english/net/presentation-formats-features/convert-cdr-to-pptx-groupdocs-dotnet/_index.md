@@ -8,10 +8,8 @@ keywords:
 - convert CDR to PPTX GroupDocs
 - GroupDocs.Conversion for .NET setup
 - CDR file conversion with GroupDocs
-
+type: docs
 ---
-
-
 # How to Convert CDR Files to PPTX Using GroupDocs.Conversion for .NET
 
 ## Introduction

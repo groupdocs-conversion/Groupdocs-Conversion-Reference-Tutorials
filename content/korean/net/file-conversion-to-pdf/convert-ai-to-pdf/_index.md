@@ -5,8 +5,8 @@
 "title": "AI 파일을 PDF로 변환"
 "url": "/ko/net/file-conversion-to-pdf/convert-ai-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # AI 파일을 PDF로 변환
 
 ## 소개

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 Word를 PDF로 변환하고 주석 숨기기"
 "url": "/ko/net/pdf-conversion-features/convert-word-to-pdf-hide-comments-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 Word 문서를 PDF로 변환하고 주석을 숨기세요
 
 ## 소개

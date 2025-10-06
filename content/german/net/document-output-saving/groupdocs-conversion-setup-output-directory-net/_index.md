@@ -4,8 +4,8 @@
 "title": "So richten Sie einen Ausgabeverzeichnispfad mit GroupDocs.Conversion für .NET ein"
 "url": "/de/net/document-output-saving/groupdocs-conversion-setup-output-directory-net/"
 "weight": 1
+type: docs
 ---
-
 # So richten Sie einen Ausgabeverzeichnispfad mit GroupDocs.Conversion für .NET ein
 
 ## Einführung

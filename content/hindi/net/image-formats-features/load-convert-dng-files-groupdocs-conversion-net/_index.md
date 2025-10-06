@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET का उपयोग करके DNG फ़ाइलों को कुशलतापूर्वक लोड करें और कनवर्ट करें"
 "url": "/hi/net/image-formats-features/load-convert-dng-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET का उपयोग करके DNG फ़ाइलों को कुशलतापूर्वक लोड करें और कनवर्ट करें
 
 ## परिचय

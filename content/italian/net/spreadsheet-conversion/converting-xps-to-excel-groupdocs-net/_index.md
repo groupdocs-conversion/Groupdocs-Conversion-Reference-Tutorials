@@ -4,8 +4,8 @@
 "title": "Conversione efficiente da XPS a Excel utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/spreadsheet-conversion/converting-xps-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Conversione efficiente da XPS a Excel utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

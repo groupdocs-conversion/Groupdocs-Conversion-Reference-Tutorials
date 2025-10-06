@@ -4,8 +4,8 @@
 "title": "XLSM konvertálása PNG-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-xlsm-to-png-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # XLSM konvertálása PNG-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

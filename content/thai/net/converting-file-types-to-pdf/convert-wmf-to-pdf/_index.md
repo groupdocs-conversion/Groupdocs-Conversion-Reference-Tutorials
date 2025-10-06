@@ -5,8 +5,8 @@
 "title": "แปลง WMF เป็น PDF"
 "url": "/th/net/converting-file-types-to-pdf/convert-wmf-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # แปลง WMF เป็น PDF
 
 ## การแนะนำ

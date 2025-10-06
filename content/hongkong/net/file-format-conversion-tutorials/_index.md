@@ -5,8 +5,8 @@
 "title": "文件格式轉換"
 "url": "/zh-hant/net/file-format-conversion-tutorials/"
 "weight": 21
+type: docs
 ---
-
 # 文件格式轉換
 
 ## 介紹

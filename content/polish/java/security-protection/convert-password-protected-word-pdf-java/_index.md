@@ -4,8 +4,8 @@
 "title": "Konwertuj chroniony hasłem plik Word do pliku PDF w Javie za pomocą GroupDocs.Conversion"
 "url": "/pl/java/security-protection/convert-password-protected-word-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj chroniony hasłem plik Word do pliku PDF w Javie za pomocą GroupDocs.Conversion
 
 Konwertuj chronione dokumenty Word do formatu PDF bez wysiłku dzięki temu kompleksowemu przewodnikowi na temat korzystania z biblioteki GroupDocs.Conversion w Javie. Dowiedz się, jak określić konkretne strony, ustawić niestandardowe wymiary, dostosować rozdzielczość i zoptymalizować wydajność w celu bezproblemowej konwersji dokumentów.

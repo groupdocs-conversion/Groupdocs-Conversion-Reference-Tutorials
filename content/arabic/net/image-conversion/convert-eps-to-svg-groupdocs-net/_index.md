@@ -4,8 +4,8 @@
 "title": "كيفية تحويل EPS إلى SVG في .NET باستخدام GroupDocs.Conversion"
 "url": "/ar/net/image-conversion/convert-eps-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل EPS إلى SVG باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

@@ -4,8 +4,8 @@
 "title": "Chuyển đổi PowerPoint hiệu quả&#58; Sử dụng GroupDocs.Conversion cho .NET để chuyển đổi PPT sang PPTX"
 "url": "/vi/net/presentation-formats-features/convert-ppt-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi PowerPoint hiệu quả: Sử dụng GroupDocs.Conversion cho .NET để chuyển đổi PPT sang PPTX
 
 ## Giới thiệu

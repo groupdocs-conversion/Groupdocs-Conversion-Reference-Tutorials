@@ -4,8 +4,8 @@
 "title": "Chuyển đổi các trang PDF sang Word bằng GroupDocs.Conversion .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/word-processing-formats-features/groupdocs-conversion-net-pdf-to-word/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi các trang PDF sang Word bằng GroupDocs.Conversion .NET: Hướng dẫn từng bước
 
 ## Giới thiệu

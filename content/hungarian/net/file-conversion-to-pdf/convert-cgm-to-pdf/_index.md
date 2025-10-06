@@ -5,8 +5,8 @@
 "title": "CGM vektorgrafikák konvertálása PDF-be"
 "url": "/hu/net/file-conversion-to-pdf/convert-cgm-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # CGM vektorgrafikák konvertálása PDF-be
 
 ## Bevezetés

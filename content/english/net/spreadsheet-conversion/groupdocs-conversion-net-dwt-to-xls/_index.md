@@ -8,10 +8,8 @@ keywords:
 - convert DWT to XLS
 - GroupDocs.Conversion for .NET
 - DWT file conversion
-
+type: docs
 ---
-
-
 # Convert DWT to XLS Efficiently: A Comprehensive Guide Using GroupDocs.Conversion for .NET
 
 ## Introduction

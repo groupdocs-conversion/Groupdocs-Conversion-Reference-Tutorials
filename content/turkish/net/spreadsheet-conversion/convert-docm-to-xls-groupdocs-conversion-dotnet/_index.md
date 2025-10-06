@@ -4,8 +4,8 @@
 "title": ".NET'te GroupDocs.Conversion Kullanarak DOCM'yi XLS'ye Nasıl Dönüştürebilirsiniz? Adım Adım Kılavuz"
 "url": "/tr/net/spreadsheet-conversion/convert-docm-to-xls-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET'te GroupDocs.Conversion Kullanarak DOCM'yi XLS'ye Nasıl Dönüştürebilirsiniz: Adım Adım Kılavuz
 ## giriiş
 Microsoft Word Makro Etkinleştirilmiş Belgeyi (.docm) Excel formatına dönüştürmeniz mi gerekiyor? Bu eğitim, verimli belge dönüşümü için .NET'te GroupDocs.Conversion kitaplığını kullanmanızda size rehberlik eder.

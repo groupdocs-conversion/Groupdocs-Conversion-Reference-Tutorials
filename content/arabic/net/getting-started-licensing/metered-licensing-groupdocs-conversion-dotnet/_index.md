@@ -4,8 +4,8 @@
 "title": "تنفيذ الترخيص المقنن باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/getting-started-licensing/metered-licensing-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # تنفيذ الترخيص المقنن باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

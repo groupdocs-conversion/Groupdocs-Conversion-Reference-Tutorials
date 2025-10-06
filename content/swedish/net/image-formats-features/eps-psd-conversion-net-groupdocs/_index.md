@@ -4,8 +4,8 @@
 "title": "Hur man konverterar EPS till PSD i .NET med GroupDocs.Conversion"
 "url": "/sv/net/image-formats-features/eps-psd-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar EPS till PSD i .NET med GroupDocs.Conversion
 
 ## Introduktion

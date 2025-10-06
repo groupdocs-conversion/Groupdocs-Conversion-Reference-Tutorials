@@ -5,8 +5,8 @@
 "title": "แปลงเอกสาร Word DOCM (Macros) เป็น PDF"
 "url": "/th/net/file-conversion-to-pdf/convert-docm-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # แปลงเอกสาร Word DOCM (Macros) เป็น PDF
 
 ## การแนะนำ

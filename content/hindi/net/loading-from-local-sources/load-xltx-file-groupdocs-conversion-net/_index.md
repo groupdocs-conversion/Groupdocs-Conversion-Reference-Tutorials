@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके XLTX फ़ाइल कैसे लोड करें एक व्यापक गाइड"
 "url": "/hi/net/loading-from-local-sources/load-xltx-file-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके XLTX फ़ाइल कैसे लोड करें: एक व्यापक मार्गदर्शिका
 
 ## परिचय

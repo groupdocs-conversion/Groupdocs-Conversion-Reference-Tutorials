@@ -8,10 +8,8 @@ keywords:
 - convert JPEG to PowerPoint
 - GroupDocs.Conversion for .NET
 - JPEG to PPT conversion
-
+type: docs
 ---
-
-
 # How to Convert JPEG to PowerPoint Using GroupDocs.Conversion for .NET
 
 ## Introduction

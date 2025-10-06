@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion .NET
 - PCL to HTML conversion
 - document transformation
-
+type: docs
 ---
-
-
 # Comprehensive Guide: Converting PCL Files to HTML with GroupDocs.Conversion for .NET
 
 ## Introduction

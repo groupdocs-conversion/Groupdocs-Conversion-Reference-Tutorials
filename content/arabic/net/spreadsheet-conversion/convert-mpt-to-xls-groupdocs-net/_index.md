@@ -4,8 +4,8 @@
 "title": "تحويل MPT إلى XLS باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/spreadsheet-conversion/convert-mpt-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ملفات MPT إلى XLS باستخدام GroupDocs.Conversion لـ .NET
 
 مرحبًا بكم في هذا الدليل الشامل لتحويل ملفات قوالب مايكروسوفت بروجكت (.mpt) إلى صيغة ملفات إكسل الثنائية (.xls) باستخدام مكتبة GroupDocs.Conversion for .NET القوية. تُعد هذه العملية بالغة الأهمية لمن يحتاجون إلى معالجة بيانات المشاريع ضمن بيئة إكسل متعددة الاستخدامات.

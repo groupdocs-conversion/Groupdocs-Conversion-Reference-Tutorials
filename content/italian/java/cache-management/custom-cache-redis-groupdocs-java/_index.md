@@ -4,8 +4,8 @@
 "title": "Come implementare la memorizzazione nella cache personalizzata in Java utilizzando Redis e GroupDocs.Conversion"
 "url": "/it/java/cache-management/custom-cache-redis-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Come implementare la memorizzazione nella cache personalizzata in Java utilizzando Redis e GroupDocs.Conversion
 
 ## Introduzione

@@ -4,8 +4,8 @@
 "title": "Преобразование DXF в SVG с использованием GroupDocs в .NET&#58; Пошаговое руководство для файлов САПР"
 "url": "/ru/net/cad-technical-drawing-formats/dxf-to-svg-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Преобразование DXF в SVG с использованием GroupDocs в .NET: пошаговое руководство
 
 ## Введение

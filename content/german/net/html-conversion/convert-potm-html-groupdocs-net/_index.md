@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie POTM in HTML mit GroupDocs.Conversion für .NET – Ein umfassender Leitfaden"
 "url": "/de/net/html-conversion/convert-potm-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie POTM in HTML mit GroupDocs.Conversion für .NET: Ein umfassender Leitfaden
 ## Einführung
 Das Teilen einer PowerPoint-Vorlage ohne Zugriff auf Microsoft PowerPoint oder das Einbetten von Präsentationen auf Websites kann eine Herausforderung sein. Mit **GroupDocs.Conversion für .NET**Die Konvertierung von Microsoft PowerPoint-Vorlagen (.potm) in HTML erfolgt nahtlos und effizient. Diese umfassende Anleitung führt Sie mühelos durch die Nutzung dieser robusten Bibliothek.

@@ -8,10 +8,8 @@ keywords:
 - MHTML to LaTeX conversion
 - GroupDocs.Conversion for .NET
 - document format conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert MHTML to LaTeX (TEX) with GroupDocs.Conversion for .NET
 
 ## Introduction

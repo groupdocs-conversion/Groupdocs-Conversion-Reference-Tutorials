@@ -8,10 +8,8 @@ keywords:
 - PCL to PNG conversion
 - GroupDocs.Conversion .NET
 - document conversion in .NET
-
+type: docs
 ---
-
-
 # Step-by-Step Guide: Convert PCL to PNG Using GroupDocs.Conversion for .NET
 
 ## Introduction

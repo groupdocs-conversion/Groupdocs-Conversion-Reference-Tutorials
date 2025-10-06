@@ -4,8 +4,8 @@
 "title": "SVGZ konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/web-markup-formats/convert-svgz-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # SVGZ konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

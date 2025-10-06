@@ -4,8 +4,8 @@
 "title": "Μετατροπή Excel σε PDF σε Java με αντικατάσταση γραμματοσειράς χρησιμοποιώντας το GroupDocs.Conversion"
 "url": "/el/java/pdf-conversion/excel-to-pdf-conversion-font-substitution-java/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή Excel σε PDF σε Java με αντικατάσταση γραμματοσειράς χρησιμοποιώντας το GroupDocs.Conversion
 
 ## Εισαγωγή

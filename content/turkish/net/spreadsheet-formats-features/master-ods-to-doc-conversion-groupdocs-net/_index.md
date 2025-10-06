@@ -4,8 +4,8 @@
 "title": "Kapsamlı Kılavuz&#58; ODS'yi GroupDocs.Conversion for .NET ile DOC'a Dönüştürme"
 "url": "/tr/net/spreadsheet-formats-features/master-ods-to-doc-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Kapsamlı Kılavuz: .NET için GroupDocs.Conversion ile ODS'yi DOC'ye dönüştürün
 
 OpenDocument E-Tablo (ODS) dosyalarınızı sorunsuz bir şekilde Microsoft Word belgelerine dönüştürmek mi istiyorsunuz? **GroupDocs.Conversion .NET için**, bu görev basit hale gelir. Bu kapsamlı rehber sizi adım adım süreçte yönlendirecektir.

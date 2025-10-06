@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET kullanarak PPTM'yi HTML'ye verimli bir şekilde dönüştürün"
 "url": "/tr/net/html-conversion/convert-pptm-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak PPTM'yi HTML'ye Verimli Şekilde Dönüştürün
 
 ## giriiş

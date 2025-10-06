@@ -4,8 +4,8 @@
 "title": "Převod TXT do CSV pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/csv-structured-data-processing/convert-txt-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod TXT do CSV pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

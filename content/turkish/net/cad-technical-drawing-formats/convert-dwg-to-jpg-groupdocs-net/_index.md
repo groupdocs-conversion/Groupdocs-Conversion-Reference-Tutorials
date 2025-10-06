@@ -4,8 +4,8 @@
 "title": "GroupDocs for .NET Kullanarak DWG'yi JPG'ye Dönüştürme&#58; Bir Geliştiricinin Kılavuzu"
 "url": "/tr/net/cad-technical-drawing-formats/convert-dwg-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs'u Kullanarak DWG Dosyalarını JPG'ye Dönüştürme: Kapsamlı Bir Geliştirici Kılavuzu
 
 ## giriiş

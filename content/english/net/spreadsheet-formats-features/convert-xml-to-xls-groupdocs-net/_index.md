@@ -8,10 +8,8 @@ keywords:
 - convert XML to XLS
 - GroupDocs.Conversion for .NET
 - XML to Excel conversion
-
+type: docs
 ---
-
-
 # How to Convert XML to XLS Using GroupDocs.Conversion in .NET: A Step-by-Step Guide
 
 ## Introduction

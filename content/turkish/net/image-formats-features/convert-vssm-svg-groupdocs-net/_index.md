@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion'ı Kullanarak VSSM'yi SVG'ye Verimli Şekilde Dönüştürün"
 "url": "/tr/net/image-formats-features/convert-vssm-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak VSSM'yi SVG'ye Verimli Şekilde Dönüştürün
 
 ## giriiş

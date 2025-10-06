@@ -8,10 +8,8 @@ keywords:
 - Convert Excel to PDF with GroupDocs
 - GroupDocs.Conversion for Java tutorial
 - Excel to PDF conversion in Java
-
+type: docs
 ---
-
-
 # Convert Excel to PDF using GroupDocs.Conversion for Java: A Comprehensive Tutorial
 
 ## Introduction

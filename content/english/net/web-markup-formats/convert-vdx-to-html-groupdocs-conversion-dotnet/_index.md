@@ -8,10 +8,8 @@ keywords:
 - convert VDX to HTML
 - GroupDocs.Conversion for .NET
 - cross-platform compatibility
-
+type: docs
 ---
-
-
 # How to Convert VDX Files to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

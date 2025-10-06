@@ -4,8 +4,8 @@
 "title": "EPUB-bestanden laden met GroupDocs.Conversion voor .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/loading-from-local-sources/load-epub-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Een EPUB-bestand laden met GroupDocs.Conversion voor .NET: een uitgebreide handleiding
 
 ## Invoering

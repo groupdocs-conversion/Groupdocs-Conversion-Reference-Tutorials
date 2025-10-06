@@ -4,8 +4,8 @@
 "title": "Převod souborů PST do XLS pomocí nástroje GroupDocs.Conversion pro .NET – podrobný návod"
 "url": "/cs/net/spreadsheet-formats-features/convert-pst-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů PST do XLS pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

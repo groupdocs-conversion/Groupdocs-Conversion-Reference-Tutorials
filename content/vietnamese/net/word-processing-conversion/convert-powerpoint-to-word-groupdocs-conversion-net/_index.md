@@ -4,8 +4,8 @@
 "title": "Chuyển đổi PowerPoint sang Word hiệu quả với GroupDocs.Conversion cho .NET"
 "url": "/vi/net/word-processing-conversion/convert-powerpoint-to-word-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi PowerPoint sang Word hiệu quả với GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

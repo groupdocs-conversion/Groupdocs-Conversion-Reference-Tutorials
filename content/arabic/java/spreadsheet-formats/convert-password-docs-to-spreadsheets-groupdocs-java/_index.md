@@ -4,8 +4,8 @@
 "title": "كيفية تحويل مستندات Word المحمية بكلمة مرور إلى جداول بيانات Excel باستخدام GroupDocs.Conversion لـ Java"
 "url": "/ar/java/spreadsheet-formats/convert-password-docs-to-spreadsheets-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل المستندات المحمية بكلمة مرور باستخدام GroupDocs.Conversion لـ Java
 
 ## مقدمة

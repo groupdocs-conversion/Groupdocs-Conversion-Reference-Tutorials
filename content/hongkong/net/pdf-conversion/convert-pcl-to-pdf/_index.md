@@ -5,8 +5,8 @@
 "title": "將PCL轉換為PDF"
 "url": "/zh-hant/net/pdf-conversion/convert-pcl-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # 將PCL轉換為PDF
 
 ## 介紹

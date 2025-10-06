@@ -5,8 +5,8 @@
 "title": "VSS konvertálása PDF-be"
 "url": "/hu/net/converting-file-types-to-pdf/convert-vss-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # VSS konvertálása PDF-be
 
 ## Bevezetés

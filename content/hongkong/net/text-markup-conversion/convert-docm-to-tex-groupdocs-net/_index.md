@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs for .NET 將 DOCM 轉換為 TEX 完整指南"
 "url": "/zh-hant/net/text-markup-conversion/convert-docm-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs for .NET 將 DOCM 轉換為 TEX：完整指南
 
 ## 介紹

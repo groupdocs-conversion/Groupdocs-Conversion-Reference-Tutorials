@@ -5,8 +5,8 @@
 "title": "JP2'yi PDF'ye dönüştür"
 "url": "/tr/net/document-conversion/convert-jp2-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # JP2'yi PDF'ye dönüştür
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "Cómo convertir PSD a PowerPoint con GroupDocs.Conversion para .NET&#58; una guía completa"
 "url": "/es/net/presentation-formats-features/convert-psd-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir PSD a PowerPoint con GroupDocs.Conversion para .NET: una guía completa
 
 ## Introducción

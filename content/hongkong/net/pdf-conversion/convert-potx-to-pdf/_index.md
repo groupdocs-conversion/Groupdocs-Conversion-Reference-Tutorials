@@ -5,8 +5,8 @@
 "title": "將 POTX 轉換為 PDF"
 "url": "/zh-hant/net/pdf-conversion/convert-potx-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # 將 POTX 轉換為 PDF
 
 ## 介紹

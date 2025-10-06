@@ -5,8 +5,8 @@
 "title": "Átfogó oktatóanyagok a GroupDocs.Conversion for .NET-ről"
 "url": "/hu/net/"
 "weight": 10
+type: docs
 ---
-
 # Átfogó oktatóanyagok a GroupDocs.Conversion for .NET-ről
 
 

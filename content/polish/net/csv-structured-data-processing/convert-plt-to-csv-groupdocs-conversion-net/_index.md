@@ -4,8 +4,8 @@
 "title": "Konwertuj PLT do CSV efektywnie dzięki GroupDocs.Conversion dla .NET"
 "url": "/pl/net/csv-structured-data-processing/convert-plt-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj PLT do CSV efektywnie dzięki GroupDocs.Conversion dla .NET
 
 ## Wstęp

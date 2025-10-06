@@ -4,8 +4,8 @@
 "title": "Convertissez efficacement des fichiers CAO en PDF à l'aide de GroupDocs.Conversion pour .NET &#58; un guide complet"
 "url": "/fr/net/cad-technical-drawing-formats/convert-cad-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertissez des fichiers CAO en PDF avec GroupDocs.Conversion pour .NET
 
 ## Introduction

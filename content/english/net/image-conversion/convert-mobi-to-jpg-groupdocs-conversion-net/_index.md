@@ -8,10 +8,8 @@ keywords:
 - convert MOBI to JPG
 - GroupDocs.Conversion .NET
 - MOBI file conversion
-
+type: docs
 ---
-
-
 # Convert MOBI Files to JPG Using GroupDocs.Conversion for .NET
 
 ## Introduction

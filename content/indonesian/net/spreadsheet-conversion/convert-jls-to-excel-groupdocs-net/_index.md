@@ -4,8 +4,8 @@
 "title": "Konversi JLS ke Excel secara Efisien Menggunakan GroupDocs untuk .NET"
 "url": "/id/net/spreadsheet-conversion/convert-jls-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi File Gambar JPEG Lossless (JLS) ke Lembar Excel Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

@@ -4,8 +4,8 @@
 "title": "OneNote fájlok Word formátumba konvertálása a GroupDocs.Conversion for .NET segítségével (2023-as útmutató)"
 "url": "/hu/net/word-processing-conversion/convert-onenote-to-word-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # OneNote fájlok Word formátumba konvertálása a GroupDocs.Conversion for .NET segítségével (2023-as útmutató)
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Menguasai Konversi Teks ke Presentasi dengan GroupDocs di .NET&#58; Panduan Lengkap"
 "url": "/id/net/presentation-conversion/groupdocs-net-text-ppt-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Menguasai Konversi Teks ke Presentasi dengan GroupDocs di .NET
 
 ## Perkenalan

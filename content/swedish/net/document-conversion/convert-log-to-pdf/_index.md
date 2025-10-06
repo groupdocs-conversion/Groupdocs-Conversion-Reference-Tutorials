@@ -5,8 +5,8 @@
 "title": "Konvertera LOG till PDF"
 "url": "/sv/net/document-conversion/convert-log-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # Konvertera LOG till PDF
 
 ## Introduktion

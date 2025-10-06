@@ -8,10 +8,8 @@ keywords:
 - convert VDW to TEX
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # How to Convert VDW Files to TEX Format Using GroupDocs.Conversion for .NET
 
 ## Introduction

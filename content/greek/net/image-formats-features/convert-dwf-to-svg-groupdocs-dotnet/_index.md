@@ -4,8 +4,8 @@
 "title": "Μετατροπή DWF σε SVG χρησιμοποιώντας το GroupDocs.Conversion .NET™ Ένας πλήρης οδηγός"
 "url": "/el/net/image-formats-features/convert-dwf-to-svg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή αρχείων DWF σε μορφή SVG χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

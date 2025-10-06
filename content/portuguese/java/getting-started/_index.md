@@ -3,8 +3,8 @@
 "title": "Tutoriais de introdução ao GroupDocs.Conversion para desenvolvedores Java"
 "url": "/pt/java/getting-started/"
 "weight": 1
+type: docs
 ---
-
 # Tutoriais de introdução ao GroupDocs.Conversion para desenvolvedores Java
 
 Comece sua jornada com estes tutoriais essenciais do GroupDocs.Conversion, que o guiam pela instalação, configuração de licenciamento e execução das suas primeiras conversões de documentos em Java. Nossos guias para iniciantes demonstram como configurar seu ambiente de desenvolvimento, inicializar a biblioteca GroupDocs.Conversion e executar operações de conversão fundamentais. Siga estes tutoriais para dominar rapidamente o básico e se preparar para tarefas mais avançadas de conversão de documentos em seus aplicativos Java.

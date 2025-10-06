@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak DNG'yi DOC'a Dönüştürme Adım Adım Kılavuzu"
 "url": "/tr/net/word-processing-conversion/convert-dng-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanarak DNG'yi DOC'a Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

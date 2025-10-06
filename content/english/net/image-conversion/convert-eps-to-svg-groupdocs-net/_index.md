@@ -8,10 +8,8 @@ keywords:
 - EPS to SVG conversion
 - GroupDocs.Conversion for .NET
 - vector graphics conversion
-
+type: docs
 ---
-
-
 # How to Convert EPS to SVG Using GroupDocs.Conversion for .NET
 
 ## Introduction

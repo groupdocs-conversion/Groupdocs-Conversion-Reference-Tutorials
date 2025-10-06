@@ -8,10 +8,8 @@ keywords:
 - convert markdown to PSD
 - GroupDocs.Conversion for .NET
 - file conversion using C#
-
+type: docs
 ---
-
-
 # How to Convert Markdown Files to PSD Using GroupDocs.Conversion for .NET
 
 ## Introduction

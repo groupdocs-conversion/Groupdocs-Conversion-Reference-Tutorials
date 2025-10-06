@@ -4,8 +4,8 @@
 "title": "Convertire MPX in JPG in .NET utilizzando GroupDocs.Conversion&#58; una guida passo passo"
 "url": "/it/net/image-conversion/convert-mpx-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire i file MPX in JPG utilizzando GroupDocs.Conversion in .NET
 
 ## Introduzione

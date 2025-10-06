@@ -4,8 +4,8 @@
 "title": "Kapsamlı Kılavuz&#58; .NET için GroupDocs.Conversion Kullanarak CSV'yi PDF'ye Dönüştürme"
 "url": "/tr/net/pdf-conversion/csv-to-pdf-groupdocs-net-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Kapsamlı Kılavuz: .NET için GroupDocs.Conversion'ı Kullanarak CSV'yi PDF'ye Dönüştürme
 
 ## giriiş

@@ -8,10 +8,8 @@ keywords:
 - ODP to TEX conversion
 - GroupDocs.Conversion for .NET
 - convert ODP to LaTeX
-
+type: docs
 ---
-
-
 # Convert ODP to TEX Using GroupDocs.Conversion for .NET: A Complete Guide
 
 ## Introduction

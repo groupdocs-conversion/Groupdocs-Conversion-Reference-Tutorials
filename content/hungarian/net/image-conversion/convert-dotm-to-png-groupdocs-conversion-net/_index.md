@@ -4,8 +4,8 @@
 "title": "Word-sablonok (.dotm) konvertálása PNG formátumba a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/convert-dotm-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Word-sablonok PNG-képekké konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

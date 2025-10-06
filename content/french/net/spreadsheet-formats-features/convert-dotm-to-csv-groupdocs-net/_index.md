@@ -4,8 +4,8 @@
 "title": "Comment convertir un fichier DOTM en CSV à l'aide de GroupDocs.Conversion pour .NET ? Guide étape par étape"
 "url": "/fr/net/spreadsheet-formats-features/convert-dotm-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir un fichier DOTM en CSV avec GroupDocs.Conversion pour .NET : guide étape par étape
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Uitgebreide handleiding&#58; MPX naar PSD converteren met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/image-conversion/convert-mpx-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Uitgebreide handleiding: MPX naar PSD converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

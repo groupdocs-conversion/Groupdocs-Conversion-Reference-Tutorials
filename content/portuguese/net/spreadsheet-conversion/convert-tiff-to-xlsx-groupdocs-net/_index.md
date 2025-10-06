@@ -4,8 +4,8 @@
 "title": "Conversão eficiente de TIFF para XLSX usando GroupDocs.Conversion para .NET"
 "url": "/pt/net/spreadsheet-conversion/convert-tiff-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Conversão eficiente de TIFF para XLSX usando GroupDocs.Conversion para .NET
 
 ## Introdução

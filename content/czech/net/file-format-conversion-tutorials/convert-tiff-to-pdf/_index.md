@@ -5,8 +5,8 @@
 "title": "Převod TIFF do PDF"
 "url": "/cs/net/file-format-conversion-tutorials/convert-tiff-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # Převod TIFF do PDF
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "JPEG 2000 fájl szöveggé konvertálása a .NET-hez készült GroupDocs.Conversion segítségével"
 "url": "/hu/net/text-file-processing/convert-jpeg-2000-to-text-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # JPEG 2000 fájlok szöveggé konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "ग्रुपडॉक्स के साथ .NET ईमेल रूपांतरण में महारत हासिल करें' डेवलपर्स के लिए एक वैश्वीकरण गाइड"
 "url": "/hi/net/email-formats-features/master-net-email-conversion-groupdocs-globalization-guide/"
 "weight": 1
+type: docs
 ---
-
 # ग्रुपडॉक्स के साथ .NET ईमेल रूपांतरण में महारत हासिल करना: एक व्यापक वैश्वीकरण गाइड
 
 ## परिचय

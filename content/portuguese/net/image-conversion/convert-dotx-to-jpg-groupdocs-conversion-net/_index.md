@@ -4,8 +4,8 @@
 "title": "Como converter arquivos DOTX para JPG usando o GroupDocs.Conversion para .NET (guia passo a passo)"
 "url": "/pt/net/image-conversion/convert-dotx-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter arquivos DOTX para JPG usando o GroupDocs.Conversion para .NET (guia passo a passo)
 
 ## Introdução

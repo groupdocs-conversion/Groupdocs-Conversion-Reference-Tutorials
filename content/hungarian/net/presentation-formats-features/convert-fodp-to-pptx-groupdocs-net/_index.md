@@ -4,8 +4,8 @@
 "title": "Hogyan konvertáljunk FODP-t PPTX-be a GroupDocs.Conversion for .NET használatával? Lépésről lépésre útmutató"
 "url": "/hu/net/presentation-formats-features/convert-fodp-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertáljunk FODP-t PPTX-be a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

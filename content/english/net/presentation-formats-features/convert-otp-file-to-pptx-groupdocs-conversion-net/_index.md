@@ -8,10 +8,8 @@ keywords:
 - convert OTP file to PPTX
 - GroupDocs.Conversion for .NET
 - document conversion process
-
+type: docs
 ---
-
-
 # How to Convert OTP Files to PPTX Using GroupDocs.Conversion for .NET
 
 ## Introduction

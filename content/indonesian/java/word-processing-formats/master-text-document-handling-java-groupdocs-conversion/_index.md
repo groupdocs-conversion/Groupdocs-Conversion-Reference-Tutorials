@@ -4,8 +4,8 @@
 "title": "Menguasai Penanganan Dokumen Teks di Java; Menggunakan GroupDocs.Conversion untuk Pengodean dan Konversi PDF yang Lancar"
 "url": "/id/java/word-processing-formats/master-text-document-handling-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Menguasai Penanganan Dokumen Teks di Java dengan GroupDocs.Conversion
 
 ## Perkenalan

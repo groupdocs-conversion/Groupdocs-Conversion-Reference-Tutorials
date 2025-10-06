@@ -4,8 +4,8 @@
 "title": "Come convertire VSTX in PDF utilizzando GroupDocs.Conversion per .NET&#58; una guida passo passo"
 "url": "/it/net/pdf-conversion/convert-vstx-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire i file VSTX in PDF utilizzando GroupDocs.Conversion per .NET: una guida passo passo
 
 ## Introduzione

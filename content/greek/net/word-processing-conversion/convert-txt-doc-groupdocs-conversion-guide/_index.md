@@ -4,8 +4,8 @@
 "title": "Ο απόλυτος οδηγός για τη μετατροπή TXT σε DOC χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/word-processing-conversion/convert-txt-doc-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Ο απόλυτος οδηγός: Μετατροπή TXT σε DOC χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

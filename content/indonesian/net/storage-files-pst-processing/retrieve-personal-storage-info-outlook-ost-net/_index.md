@@ -4,8 +4,8 @@
 "title": "Cara Mengambil Info Penyimpanan Pribadi dari File OST Outlook Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/storage-files-pst-processing/retrieve-personal-storage-info-outlook-ost-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengambil Informasi Penyimpanan Pribadi dari File OST Outlook Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

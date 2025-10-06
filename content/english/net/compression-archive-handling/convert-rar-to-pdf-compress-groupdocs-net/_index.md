@@ -8,10 +8,8 @@ keywords:
 - convert RAR to PDF
 - compress files with GroupDocs
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # How to Convert RAR Files to PDF and Compress Them into ZIP Using GroupDocs.Conversion for .NET
 
 ## Introduction

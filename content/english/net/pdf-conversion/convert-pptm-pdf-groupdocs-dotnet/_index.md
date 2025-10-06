@@ -8,10 +8,8 @@ keywords:
 - Convert PPTM to PDF
 - GroupDocs.Conversion.NET
 - PowerPoint to PDF conversion
-
+type: docs
 ---
-
-
 # Convert PPTM Files to PDF Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 ## Introduction
 Converting Microsoft PowerPoint presentations to PDF can be a tedious task, especially when dealing with numerous files. By leveraging the automation capabilities of software development, we can simplify this process using GroupDocs.Conversion for .NET. This tutorial will guide you through converting PPTM files to PDF using C#.

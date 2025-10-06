@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して WMF ファイルを HTML に変換する方法"
 "url": "/ja/net/html-conversion/convert-wmf-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して WMF ファイルを HTML に変換する方法
 
 ## 導入

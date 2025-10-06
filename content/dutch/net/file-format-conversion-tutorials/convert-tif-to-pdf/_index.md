@@ -5,8 +5,8 @@
 "title": "Converteer TIF naar PDF"
 "url": "/nl/net/file-format-conversion-tutorials/convert-tif-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Converteer TIF naar PDF
 
 ## Invoering

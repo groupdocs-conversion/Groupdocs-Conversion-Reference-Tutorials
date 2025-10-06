@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 이용한 ODS에서 PPTX로의 변환 마스터하기"
 "url": "/ko/net/presentation-conversion/convert-ods-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 ODS에서 PPTX로 변환하는 방법 마스터하기
 
 ## 소개

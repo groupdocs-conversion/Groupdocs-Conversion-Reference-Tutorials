@@ -4,8 +4,8 @@
 "title": "Jak przekonwertować JPEG Lossless (JLS) na JPEG (JPG) za pomocą GroupDocs.Conversion dla .NET"
 "url": "/pl/net/image-conversion/convert-jpeg-lossless-to-jpeg-using-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak konwertować pliki JPEG Lossless (JLS) do JPEG (JPG) za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

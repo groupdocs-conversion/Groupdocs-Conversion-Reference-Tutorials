@@ -5,8 +5,8 @@
 "title": "Převod dokumentů Word ve formátu DOCX do formátu PDF"
 "url": "/cs/net/file-conversion-to-pdf/convert-docx-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Převod dokumentů Word ve formátu DOCX do formátu PDF
 
 ## Zavedení

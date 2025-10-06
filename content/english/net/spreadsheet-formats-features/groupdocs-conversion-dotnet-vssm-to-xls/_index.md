@@ -8,10 +8,8 @@ keywords:
 - VSSM to XLS conversion
 - GroupDocs.Conversion for .NET
 - file format conversion
-
+type: docs
 ---
-
-
 # Convert VSSM Files to XLS Using GroupDocs.Conversion for .NET
 
 ## Introduction

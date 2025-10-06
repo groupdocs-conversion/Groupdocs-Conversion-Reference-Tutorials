@@ -4,8 +4,8 @@
 "title": "Převod Markdownu do PDF pomocí GroupDocs.Conversion pro .NET – kompletní průvodce"
 "url": "/cs/net/pdf-conversion/markdown-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod Markdownu do PDF pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

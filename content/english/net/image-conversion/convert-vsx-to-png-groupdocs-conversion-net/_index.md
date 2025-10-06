@@ -8,10 +8,8 @@ keywords:
 - convert VSX to PNG
 - GroupDocs.Conversion for .NET
 - image conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert VSX to PNG in .NET with GroupDocs.Conversion
 
 ## Introduction

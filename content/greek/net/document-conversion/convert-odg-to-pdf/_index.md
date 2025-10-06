@@ -5,8 +5,8 @@
 "title": "Μετατροπή ODG σε PDF"
 "url": "/el/net/document-conversion/convert-odg-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # Μετατροπή ODG σε PDF
 
 ## Εισαγωγή

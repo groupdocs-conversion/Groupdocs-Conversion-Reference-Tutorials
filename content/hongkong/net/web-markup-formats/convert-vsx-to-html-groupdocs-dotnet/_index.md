@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中有效地將 VSX 轉換為 HTML"
 "url": "/zh-hant/net/web-markup-formats/convert-vsx-to-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 .NET 中的 GroupDocs.Conversion 有效地將 VSX 轉換為 HTML
 
 ## 介紹

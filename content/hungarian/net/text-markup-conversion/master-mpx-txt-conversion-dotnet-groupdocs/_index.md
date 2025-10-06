@@ -4,8 +4,8 @@
 "title": "MPX-ből TXT-be konvertálás mesteri szintű elsajátítása .NET-ben a GroupDocs segítségével"
 "url": "/hu/net/text-markup-conversion/master-mpx-txt-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # MPX-TXT konvertálás elsajátítása .NET-ben a GroupDocs.Conversion segítségével
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "PNG konvertálása PSD-vé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-png-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PNG konvertálása PSD-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

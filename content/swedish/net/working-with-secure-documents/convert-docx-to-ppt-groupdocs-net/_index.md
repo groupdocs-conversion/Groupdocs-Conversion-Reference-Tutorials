@@ -4,8 +4,8 @@
 "title": "Konvertera lösenordsskyddad DOCX till PPT med GroupDocs.Conversion för .NET"
 "url": "/sv/net/working-with-secure-documents/convert-docx-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera lösenordsskyddad DOCX till PPT med GroupDocs.Conversion för .NET
 
 ## Introduktion

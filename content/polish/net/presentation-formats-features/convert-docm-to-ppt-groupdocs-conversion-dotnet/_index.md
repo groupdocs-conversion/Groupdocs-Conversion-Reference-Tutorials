@@ -4,8 +4,8 @@
 "title": "Konwersja DOCM do PPT przy użyciu GroupDocs.Conversion dla .NET&#58; Podręcznik programisty"
 "url": "/pl/net/presentation-formats-features/convert-docm-to-ppt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja DOCM do PPT przy użyciu GroupDocs.Conversion dla .NET: Podręcznik programisty
 
 ## Wstęp

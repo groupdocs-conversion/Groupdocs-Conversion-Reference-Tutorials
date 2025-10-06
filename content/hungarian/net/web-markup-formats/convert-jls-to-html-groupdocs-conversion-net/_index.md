@@ -4,8 +4,8 @@
 "title": "JLS konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/web-markup-formats/convert-jls-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # JLS konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

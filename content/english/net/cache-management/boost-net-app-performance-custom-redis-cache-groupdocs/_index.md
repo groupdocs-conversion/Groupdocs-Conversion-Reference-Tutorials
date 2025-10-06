@@ -8,10 +8,8 @@ keywords:
 - custom Redis cache .NET
 - GroupDocs.Conversion .NET performance
 - efficient document conversion caching
-
+type: docs
 ---
-
-
 # Boost Your .NET Application Performance with Custom Redis Caching Using GroupDocs.Conversion
 
 ## Introduction

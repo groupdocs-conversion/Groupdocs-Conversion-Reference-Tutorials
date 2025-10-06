@@ -4,8 +4,8 @@
 "title": "ODS-bestanden converteren naar TEX-indeling met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/spreadsheet-formats-features/convert-ods-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Uitgebreide handleiding: ODS-bestanden converteren naar TEX-indeling met GroupDocs.Conversion voor .NET
 
 ## Invoering

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak CF2'yi DOCX'e Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/cad-technical-drawing-formats/convert-cf2-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak CF2'yi DOCX'e Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

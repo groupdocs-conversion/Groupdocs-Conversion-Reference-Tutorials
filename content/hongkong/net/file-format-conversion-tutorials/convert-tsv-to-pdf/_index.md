@@ -5,8 +5,8 @@
 "title": "將 TSV 轉換為 PDF"
 "url": "/zh-hant/net/file-format-conversion-tutorials/convert-tsv-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # 將 TSV 轉換為 PDF
 
 ## 介紹

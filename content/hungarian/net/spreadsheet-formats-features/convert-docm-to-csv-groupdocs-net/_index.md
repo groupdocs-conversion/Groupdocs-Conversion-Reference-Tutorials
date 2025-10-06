@@ -4,8 +4,8 @@
 "title": "DOCM fájlok CSV formátumba konvertálása a GroupDocs.Conversion for .NET segítségével – lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-docm-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertáljunk DOCM-et CSV-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

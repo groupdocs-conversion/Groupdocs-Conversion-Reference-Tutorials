@@ -4,8 +4,8 @@
 "title": "Converteer Outlook-e-mails efficiënt naar Excel met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/email-formats-features/convert-outlook-emails-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer moeiteloos Microsoft Outlook-e-mails naar Excel-spreadsheets met GroupDocs.Conversion voor .NET
 
 ## Invoering

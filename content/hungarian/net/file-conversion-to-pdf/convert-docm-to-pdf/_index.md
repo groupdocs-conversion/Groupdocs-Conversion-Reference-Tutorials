@@ -5,8 +5,8 @@
 "title": "DOCM Word dokumentumok (makrók) konvertálása PDF-be"
 "url": "/hu/net/file-conversion-to-pdf/convert-docm-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # DOCM Word dokumentumok (makrók) konvertálása PDF-be
 
 ## Bevezetés

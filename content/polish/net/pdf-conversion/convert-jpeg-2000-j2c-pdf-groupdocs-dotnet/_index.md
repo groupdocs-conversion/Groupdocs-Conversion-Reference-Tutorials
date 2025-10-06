@@ -4,8 +4,8 @@
 "title": "Jak przekonwertować JPEG 2000 (.j2c) do PDF za pomocą GroupDocs.Conversion dla .NET"
 "url": "/pl/net/pdf-conversion/convert-jpeg-2000-j2c-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak przekonwertować plik obrazu JPEG 2000 (.j2c) do formatu PDF przy użyciu GroupDocs.Conversion dla platformy .NET
 
 ## Wstęp

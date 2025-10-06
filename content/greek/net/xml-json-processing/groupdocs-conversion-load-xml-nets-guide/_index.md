@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική φόρτωση και μετατροπή αρχείων XML χρησιμοποιώντας το GroupDocs.Conversion για .NET™ - Οδηγός βήμα προς βήμα"
 "url": "/el/net/xml-json-processing/groupdocs-conversion-load-xml-nets-guide/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική φόρτωση και μετατροπή αρχείων XML χρησιμοποιώντας το GroupDocs.Conversion για .NET: Οδηγός βήμα προς βήμα
 
 ## Εισαγωγή

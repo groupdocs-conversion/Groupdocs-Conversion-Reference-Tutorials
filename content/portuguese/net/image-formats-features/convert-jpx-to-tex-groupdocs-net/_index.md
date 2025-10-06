@@ -4,8 +4,8 @@
 "title": "Converta JPX para TEX com eficiência usando o GroupDocs.Conversion para .NET | Guia passo a passo"
 "url": "/pt/net/image-formats-features/convert-jpx-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converta JPX para TEX com eficiência usando GroupDocs.Conversion para .NET
 
 ## Introdução

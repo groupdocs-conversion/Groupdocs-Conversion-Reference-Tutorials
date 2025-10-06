@@ -8,10 +8,8 @@ keywords:
 - convert Visio to Photoshop
 - GroupDocs.Conversion for .NET
 - file conversion guide
-
+type: docs
 ---
-
-
 # How to Convert Visio Files to Photoshop Using GroupDocs.Conversion for .NET
 
 ## Introduction

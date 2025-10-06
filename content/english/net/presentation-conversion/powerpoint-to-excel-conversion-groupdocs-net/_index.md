@@ -8,10 +8,8 @@ keywords:
 - PowerPoint to Excel conversion
 - GroupDocs.Conversion for .NET
 - automate data analysis
-
+type: docs
 ---
-
-
 # Comprehensive Guide to Converting PowerPoint to Excel using GroupDocs.Conversion .NET
 
 ## Introduction

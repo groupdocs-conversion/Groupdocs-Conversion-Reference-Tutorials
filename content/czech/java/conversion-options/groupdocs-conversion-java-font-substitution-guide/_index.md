@@ -4,8 +4,8 @@
 "title": "Nahrazení písem v Javě&#58; Zvládnutí GroupDocs.Conversion pro konzistentní výstup PDF"
 "url": "/cs/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/"
 "weight": 1
+type: docs
 ---
-
 # Zvládnutí substituce písem pomocí GroupDocs.Conversion pro Javu
 
 ## Zavedení

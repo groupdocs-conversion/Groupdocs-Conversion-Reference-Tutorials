@@ -4,8 +4,8 @@
 "title": "Μετατροπή σελίδων PDF σε Word χρησιμοποιώντας το GroupDocs.Conversion .NET™ - Οδηγός βήμα προς βήμα"
 "url": "/el/net/word-processing-formats-features/groupdocs-conversion-net-pdf-to-word/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή σελίδων PDF σε Word χρησιμοποιώντας το GroupDocs.Conversion .NET: Οδηγός βήμα προς βήμα
 
 ## Εισαγωγή

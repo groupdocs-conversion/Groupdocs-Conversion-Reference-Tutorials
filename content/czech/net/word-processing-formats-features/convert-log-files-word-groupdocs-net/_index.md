@@ -4,8 +4,8 @@
 "title": "Efektivní převod souborů LOG do dokumentů Wordu pomocí GroupDocs.Conversion v .NET"
 "url": "/cs/net/word-processing-formats-features/convert-log-files-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod souborů LOG do dokumentů Wordu pomocí GroupDocs.Conversion v .NET
 
 ## Zavedení

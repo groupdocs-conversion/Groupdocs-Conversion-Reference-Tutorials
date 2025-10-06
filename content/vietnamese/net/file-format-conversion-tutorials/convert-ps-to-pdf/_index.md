@@ -5,8 +5,8 @@
 "title": "Chuyển đổi PS sang PDF"
 "url": "/vi/net/file-format-conversion-tutorials/convert-ps-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Chuyển đổi PS sang PDF
 
 ## Giới thiệu

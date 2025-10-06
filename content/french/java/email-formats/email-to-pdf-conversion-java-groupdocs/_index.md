@@ -4,8 +4,8 @@
 "title": "Comment convertir un e-mail en PDF avec décalage horaire en Java à l'aide de GroupDocs.Conversion"
 "url": "/fr/java/email-formats/email-to-pdf-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir un e-mail en PDF avec décalage horaire en Java à l'aide de GroupDocs.Conversion
 
 ## Introduction

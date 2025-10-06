@@ -4,8 +4,8 @@
 "title": "แปลง JPEG เป็น DOC ด้วย GroupDocs.Conversion สำหรับ .NET&#58; คู่มือฉบับสมบูรณ์"
 "url": "/th/net/word-processing-conversion/convert-jpeg-to-doc-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # แปลง JPEG เป็น DOC ด้วย GroupDocs.Conversion สำหรับ .NET: คู่มือฉบับสมบูรณ์
 
 ## การแนะนำ

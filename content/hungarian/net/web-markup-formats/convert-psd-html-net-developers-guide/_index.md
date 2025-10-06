@@ -4,8 +4,8 @@
 "title": "PSD konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával – Fejlesztői útmutató"
 "url": "/hu/net/web-markup-formats/convert-psd-html-net-developers-guide/"
 "weight": 1
+type: docs
 ---
-
 # PSD konvertálása HTML-lé a GroupDocs.Conversion használatával .NET-ben: Fejlesztői útmutató
 
 ## Bevezetés

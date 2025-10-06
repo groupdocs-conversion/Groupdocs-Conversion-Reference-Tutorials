@@ -4,8 +4,8 @@
 "title": "Hướng dẫn Java&#58; Chuyển đổi tài liệu Word sang PowerPoint bằng GroupDocs.Conversion cho Java"
 "url": "/vi/java/presentation-formats/java-groupdocs-conversion-word-to-ppt/"
 "weight": 1
+type: docs
 ---
-
 # Hướng dẫn Java: Chuyển đổi tài liệu Word sang PowerPoint bằng GroupDocs.Conversion cho Java
 
 ## Giới thiệu

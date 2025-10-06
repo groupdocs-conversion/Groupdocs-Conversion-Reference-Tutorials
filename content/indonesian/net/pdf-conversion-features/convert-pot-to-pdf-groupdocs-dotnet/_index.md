@@ -4,8 +4,8 @@
 "title": "Konversi Template PowerPoint (.pot) ke PDF menggunakan GroupDocs.Conversion for .NET"
 "url": "/id/net/pdf-conversion-features/convert-pot-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi File Template PowerPoint (.pot) ke PDF Menggunakan GroupDocs.Conversion for .NET
 
 ## Perkenalan

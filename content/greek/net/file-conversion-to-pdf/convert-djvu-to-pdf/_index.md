@@ -5,8 +5,8 @@
 "title": "Μετατροπή εγγράφων DJVU σε PDF"
 "url": "/el/net/file-conversion-to-pdf/convert-djvu-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Μετατροπή εγγράφων DJVU σε PDF
 
 ## Εισαγωγή

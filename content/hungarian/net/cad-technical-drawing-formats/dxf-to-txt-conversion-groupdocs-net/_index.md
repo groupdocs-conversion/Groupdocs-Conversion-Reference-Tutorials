@@ -4,8 +4,8 @@
 "title": "DXF-ből TXT-be konvertálás GroupDocs használatával .NET-ben – Fejlesztői útmutató"
 "url": "/hu/net/cad-technical-drawing-formats/dxf-to-txt-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DXF-ből TXT-be konvertálás GroupDocs használatával .NET-ben: Fejlesztői útmutató
 
 ## Bevezetés

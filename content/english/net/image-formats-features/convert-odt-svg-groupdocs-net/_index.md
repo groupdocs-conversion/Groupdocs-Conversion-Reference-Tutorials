@@ -8,10 +8,8 @@ keywords:
 - ODT to SVG conversion
 - GroupDocs.Conversion for .NET
 - document format conversion
-
+type: docs
 ---
-
-
 # How to Convert ODT Files to SVG Using GroupDocs.Conversion for .NET
 
 ## Introduction

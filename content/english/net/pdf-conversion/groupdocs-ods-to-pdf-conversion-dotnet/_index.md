@@ -8,10 +8,8 @@ keywords:
 - convert ODS to PDF with GroupDocs
 - GroupDocs.Conversion for .NET
 - ODS file conversion
-
+type: docs
 ---
-
-
 # How to Convert ODS Files to PDF Using GroupDocs.Conversion for .NET
 
 ## Introduction

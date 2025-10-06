@@ -4,8 +4,8 @@
 "title": "Μετατροπή TIFF σε PPTX χρησιμοποιώντας το GroupDocs.Conversion για .NET® - Ένας οδηγός βήμα προς βήμα"
 "url": "/el/net/presentation-conversion/convert-tiff-to-pptx-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή TIFF σε PPTX χρησιμοποιώντας το GroupDocs.Conversion για .NET: Οδηγός βήμα προς βήμα
 
 ## Εισαγωγή

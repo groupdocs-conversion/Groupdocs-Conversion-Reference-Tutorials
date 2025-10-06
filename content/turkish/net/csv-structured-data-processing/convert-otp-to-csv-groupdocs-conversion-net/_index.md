@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak OTP Dosyalarını CSV'ye Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/csv-structured-data-processing/convert-otp-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak OTP Dosyalarını CSV'ye Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

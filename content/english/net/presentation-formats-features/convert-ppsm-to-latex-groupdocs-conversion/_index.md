@@ -8,10 +8,8 @@ keywords:
 - convert PPSM to LaTeX
 - GroupDocs.Conversion .NET
 - presentation conversion
-
+type: docs
 ---
-
-
 # Convert PPSM to LaTeX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

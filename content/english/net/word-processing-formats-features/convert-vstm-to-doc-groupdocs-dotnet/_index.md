@@ -8,10 +8,8 @@ keywords:
 - convert VSTM to DOC
 - GroupDocs.Conversion for .NET setup
 - VSTM file conversion
-
+type: docs
 ---
-
-
 # How to Convert VSTM Files to DOC Using GroupDocs.Conversion for .NET
 
 ## Introduction

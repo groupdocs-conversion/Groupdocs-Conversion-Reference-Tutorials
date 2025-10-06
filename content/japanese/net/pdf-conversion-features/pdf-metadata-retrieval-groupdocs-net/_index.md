@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET で PDF メタデータを取得する方法"
 "url": "/ja/net/pdf-conversion-features/pdf-metadata-retrieval-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET で PDF メタデータを取得する方法
 
 PDF ドキュメントから情報を手動で抽出するのにうんざりしていませんか? GroupDocs.Conversion for .NET を使用してタスクを自動化し、作成者、作成日、ページ数、寸法などの重要な詳細を取得します。

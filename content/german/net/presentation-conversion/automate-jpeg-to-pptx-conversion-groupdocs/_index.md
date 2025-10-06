@@ -4,8 +4,8 @@
 "title": "Automatisieren Sie die Konvertierung von JPEG in PPTX in .NET mit GroupDocs.Conversion – Ein umfassender Leitfaden"
 "url": "/de/net/presentation-conversion/automate-jpeg-to-pptx-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Automatisieren Sie die JPEG-zu-PPTX-Konvertierung in .NET mit GroupDocs.Conversion
 
 Möchten Sie die Konvertierung von JPEG-Bildern in PowerPoint-Präsentationen optimieren? Die Automatisierung dieser Aufgabe kann für Unternehmen, die ihre Arbeitsabläufe verbessern möchten, entscheidend sein. Ob es um die Erstellung visuell ansprechender Präsentationen oder die Vereinfachung des Datenaustauschs geht – die Konvertierung von JPEGs in PPTX ist eine häufige Anforderung, die eine zuverlässige Lösung erfordert. **GroupDocs.Conversion für .NET**– eine leistungsstarke Bibliothek, die Ihr Leben vereinfachen soll.

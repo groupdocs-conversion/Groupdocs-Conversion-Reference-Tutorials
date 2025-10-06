@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 的转换选项和设置教程"
 "url": "/zh/net/conversion-options-settings/"
 "weight": 8
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 的转换选项和设置教程
 
 通过我们为 .NET 开发人员提供的详细 GroupDocs.Conversion 教程，掌握转换配置。这些分步指南涵盖了如何检索特定目标格式的默认转换选项、配置源文档的加载选项、设置常用转换参数、管理资源超时设置、控制转换期间的内存使用情况以及指定基于文本的格式的编码选项。每个教程都提供了实用的 C# 代码示例，用于正确配置转换过程，帮助您构建可进行微调的应用程序，以便在各种文档格式中实现最佳性能和输出质量。

@@ -4,8 +4,8 @@
 "title": "Hur man konverterar DWFX-filer till HTML med GroupDocs.Conversion för .NET"
 "url": "/sv/net/html-conversion/convert-dwfx-to-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar DWFX-filer till HTML med GroupDocs.Conversion för .NET
 
 ## Introduktion

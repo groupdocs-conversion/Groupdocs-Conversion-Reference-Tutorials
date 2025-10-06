@@ -4,8 +4,8 @@
 "title": "Come convertire i disegni Web di Visio (VDW) in CSV utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/csv-structured-data-processing/convert-visio-web-drawings-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire i disegni Web di Visio (VDW) in CSV utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

@@ -8,10 +8,8 @@ keywords:
 - convert DWFX to PNG
 - GroupDocs.Conversion for .NET
 - file conversion with GroupDocs
-
+type: docs
 ---
-
-
 # How to Convert DWFX Files to PNG Using GroupDocs.Conversion for .NET
 
 ## Introduction

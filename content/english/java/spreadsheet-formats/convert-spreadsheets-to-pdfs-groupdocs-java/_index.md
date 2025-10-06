@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion for Java
 - convert spreadsheets to PDFs
 - Java spreadsheet conversion
-
+type: docs
 ---
-
-
 # Convert Spreadsheets to PDFs with GroupDocs.Conversion for Java: A Comprehensive Guide
 
 ## Introduction

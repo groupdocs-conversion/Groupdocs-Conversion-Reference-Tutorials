@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Java licenc beállítása – lépésről lépésre útmutató"
 "url": "/hu/java/getting-started/groupdocs-conversion-java-license-setup-file-path/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Java licenc beállítása: Átfogó útmutató
 
 Üdvözöljük a GroupDocs.Conversion Java könyvtár beállítását és használatát bemutató lépésenkénti útmutatónkban. Ez az oktatóanyag kifejezetten arra összpontosít, hogyan valósítható meg a licencbeállítás fájlelérési utak segítségével, lehetővé téve, hogy kiaknázza ennek a robusztus dokumentumkonvertáló eszköznek a teljes potenciálját.

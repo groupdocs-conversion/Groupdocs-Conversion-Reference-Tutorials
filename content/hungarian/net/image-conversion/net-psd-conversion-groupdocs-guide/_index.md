@@ -4,8 +4,8 @@
 "title": "Net PSD konvertálás a GroupDocs segítségével – Végső útmutató .NET fejlesztőknek"
 "url": "/hu/net/image-conversion/net-psd-conversion-groupdocs-guide/"
 "weight": 1
+type: docs
 ---
-
 # Net PSD konvertálás GroupDocs segítségével: Teljes körű útmutató .NET fejlesztőknek
 
 ## Bevezetés

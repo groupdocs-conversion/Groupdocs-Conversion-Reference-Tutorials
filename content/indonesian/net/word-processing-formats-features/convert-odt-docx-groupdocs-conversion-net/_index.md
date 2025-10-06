@@ -4,8 +4,8 @@
 "title": "Konversi ODT ke DOCX Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Langkah demi Langkah"
 "url": "/id/net/word-processing-formats-features/convert-odt-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi ODT ke DOCX Menggunakan GroupDocs.Conversion untuk .NET: Panduan Langkah demi Langkah
 
 ## Perkenalan

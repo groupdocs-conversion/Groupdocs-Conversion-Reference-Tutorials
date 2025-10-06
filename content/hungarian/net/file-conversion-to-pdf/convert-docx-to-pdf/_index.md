@@ -5,8 +5,8 @@
 "title": "DOCX Word dokumentumok konvertálása PDF-be"
 "url": "/hu/net/file-conversion-to-pdf/convert-docx-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # DOCX Word dokumentumok konvertálása PDF-be
 
 ## Bevezetés

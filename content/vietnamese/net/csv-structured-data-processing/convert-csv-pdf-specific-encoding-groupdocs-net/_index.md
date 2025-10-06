@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi tệp CSV sang PDF với mã hóa cụ thể bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/csv-structured-data-processing/convert-csv-pdf-specific-encoding-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp CSV sang PDF với mã hóa cụ thể bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

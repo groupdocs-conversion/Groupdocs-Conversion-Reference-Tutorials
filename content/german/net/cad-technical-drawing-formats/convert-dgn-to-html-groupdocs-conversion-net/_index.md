@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie DGN effizient in HTML mit GroupDocs.Conversion für .NET | CAD- und technische Zeichnungsformate"
 "url": "/de/net/cad-technical-drawing-formats/convert-dgn-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Effiziente Konvertierung von DGN-Dateien in HTML mit GroupDocs.Conversion für .NET
 
 ## Einführung

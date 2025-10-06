@@ -5,8 +5,8 @@
 "title": "Dosya Türlerini PDF'ye Dönüştürme"
 "url": "/tr/net/converting-file-types-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Dosya Türlerini PDF'ye Dönüştürme
 
 ## giriiş

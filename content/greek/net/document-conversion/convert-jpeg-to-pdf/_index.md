@@ -5,8 +5,8 @@
 "title": "Μετατροπή JPEG σε PDF"
 "url": "/el/net/document-conversion/convert-jpeg-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # Μετατροπή JPEG σε PDF
 
 ## Εισαγωγή

@@ -4,8 +4,8 @@
 "title": "कुशल PowerPoint रूपांतरण&#58; .NET के लिए GroupDocs.Conversion का उपयोग करके PPT को PPTX में परिवर्तित करें"
 "url": "/hi/net/presentation-formats-features/convert-ppt-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # कुशल PowerPoint रूपांतरण: PPT को PPTX में परिवर्तित करने के लिए .NET के लिए GroupDocs.Conversion का उपयोग करना
 
 ## परिचय

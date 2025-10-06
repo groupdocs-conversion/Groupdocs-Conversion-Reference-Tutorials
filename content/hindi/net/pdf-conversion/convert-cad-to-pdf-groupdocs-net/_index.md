@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके कुशल CAD से PDF रूपांतरण"
 "url": "/hi/net/pdf-conversion/convert-cad-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके कुशल CAD से PDF रूपांतरण
 
 ## परिचय

@@ -3,8 +3,8 @@
 "title": "Tutorial Format dan Fitur Pengolah Kata untuk GroupDocs.Conversion .NET"
 "url": "/id/net/word-processing-formats-features/"
 "weight": 10
+type: docs
 ---
-
 # Tutorial Format dan Fitur Pengolah Kata untuk GroupDocs.Conversion .NET
 
 Temukan cara bekerja secara efektif dengan dokumen Word menggunakan tutorial GroupDocs.Conversion .NET kami yang komprehensif. Panduan langkah demi langkah ini mengajarkan Anda cara mengonversi antara berbagai format pemrosesan Word, menyembunyikan komentar dan perubahan yang dilacak selama konversi, menentukan opsi substitusi font, mempertahankan gaya dan format, mempertahankan struktur dokumen, menangani objek yang disematkan, dan mengendalikan perilaku header/footer. Setiap tutorial menyediakan contoh kode C# praktis untuk tugas konversi dokumen Word, membantu Anda membangun aplikasi yang lebih efisien yang dapat memproses dokumen teks dengan ketepatan tinggi dan kontrol khusus format.

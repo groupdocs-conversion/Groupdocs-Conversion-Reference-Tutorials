@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi tệp .dot sang .docx bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/word-processing-formats-features/convert-dot-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp .dot sang .docx bằng GroupDocs.Conversion cho .NET: Hướng dẫn từng bước
 
 ## Giới thiệu

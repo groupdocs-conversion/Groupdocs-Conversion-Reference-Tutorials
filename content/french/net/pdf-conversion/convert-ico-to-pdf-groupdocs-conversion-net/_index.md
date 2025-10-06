@@ -4,8 +4,8 @@
 "title": "Convertissez facilement un fichier ICO en PDF avec GroupDocs.Conversion pour .NET | Guide étape par étape"
 "url": "/fr/net/pdf-conversion/convert-ico-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir un fichier ICO en PDF avec GroupDocs.Conversion pour .NET : guide étape par étape
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用して .NET で DOC を PDF に効率的に変換する"
 "url": "/ja/net/pdf-conversion-features/convert-doc-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion を使用して .NET で DOC を PDF に効率的に変換する
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET을 사용하여 JPM을 DOCX로 쉽게 변환하세요. 원활한 파일 변환"
 "url": "/ko/net/word-processing-conversion/convert-jpm-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # JPM을 DOCX로 쉽게 변환: GroupDocs.Conversion .NET을 사용하여 원활한 파일 변환
 
 ## 소개

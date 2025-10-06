@@ -4,8 +4,8 @@
 "title": "Эффективное преобразование DOC в PNG с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/image-conversion/convert-doc-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Эффективное преобразование DOC в PNG с помощью GroupDocs.Conversion для .NET
 
 ## Введение

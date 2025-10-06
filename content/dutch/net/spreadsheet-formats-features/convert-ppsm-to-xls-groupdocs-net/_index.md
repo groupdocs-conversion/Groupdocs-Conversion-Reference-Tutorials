@@ -4,8 +4,8 @@
 "title": "Hoe u PPSM naar XLS in .NET kunt converteren met behulp van de GroupDocs.Conversion-bibliotheek"
 "url": "/nl/net/spreadsheet-formats-features/convert-ppsm-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PPSM-bestanden converteren naar XLS-formaat met GroupDocs.Conversion voor .NET
 
 ## Invoering

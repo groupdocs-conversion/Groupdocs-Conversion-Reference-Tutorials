@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して PLT ファイルを TXT に変換する手順ガイド"
 "url": "/ja/net/text-file-processing/convert-plt-files-to-txt-using-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して PLT ファイルを TXT に変換する: ステップバイステップ ガイド
 
 ## 導入

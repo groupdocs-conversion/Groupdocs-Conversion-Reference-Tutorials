@@ -4,8 +4,8 @@
 "title": "Substitution de polices en Java &#58; maîtriser GroupDocs.Conversion pour une sortie PDF cohérente"
 "url": "/fr/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/"
 "weight": 1
+type: docs
 ---
-
 # Maîtriser la substitution de polices avec GroupDocs.Conversion pour Java
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Java를 사용한 고급 텍스트-PDF 변환, 서식 유지"
 "url": "/ko/java/pdf-conversion/groupdocs-conversion-java-text-to-pdf-advanced-formatting/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Java를 사용한 고급 텍스트-PDF 변환: 서식 유지
 
 ## 소개

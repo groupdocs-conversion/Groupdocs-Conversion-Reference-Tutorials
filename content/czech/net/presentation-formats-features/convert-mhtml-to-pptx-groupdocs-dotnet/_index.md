@@ -4,8 +4,8 @@
 "title": "Převod MHTML do PPTX pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/presentation-formats-features/convert-mhtml-to-pptx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod MHTML do PPTX pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

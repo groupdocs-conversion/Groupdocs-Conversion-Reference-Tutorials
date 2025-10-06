@@ -5,8 +5,8 @@
 "title": "Převod obrázků BMP do PDF"
 "url": "/cs/net/file-conversion-to-pdf/convert-bmp-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Převod obrázků BMP do PDF
 
 ## Zavedení

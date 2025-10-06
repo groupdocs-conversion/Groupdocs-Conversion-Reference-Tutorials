@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET'i Kullanarak Zahmetsiz CSV Dönüştürme&#58; Tam Bir Kılavuz"
 "url": "/tr/net/spreadsheet-formats-features/convert-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak Zahmetsiz CSV Dönüştürme
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "Làm chủ chuyển đổi DOCX sang PPT với GroupDocs.Conversion cho .NET"
 "url": "/vi/net/presentation-conversion/groupdocs-conversion-dotnet-docx-to-ppt/"
 "weight": 1
+type: docs
 ---
-
 # Làm chủ chuyển đổi DOCX sang PPT với GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

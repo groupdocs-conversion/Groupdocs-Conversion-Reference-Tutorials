@@ -5,8 +5,8 @@
 "title": "XLSX को PDF में बदलें"
 "url": "/hi/net/converting-file-types-to-pdf/convert-xlsx-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # XLSX को PDF में बदलें
 
 ## परिचय

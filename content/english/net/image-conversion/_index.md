@@ -3,8 +3,8 @@ title: "Image Conversion Tutorials for GroupDocs.Conversion .NET"
 description: "Step-by-step tutorials for converting documents to JPG, PNG, TIFF and other image formats using GroupDocs.Conversion for .NET."
 weight: 28
 url: "/net/image-conversion/"
+type: docs
 ---
-
 # Image Conversion Tutorials for GroupDocs.Conversion .NET
 
 Our image conversion tutorials provide comprehensive guidance for transforming documents into various image formats in .NET applications. These step-by-step guides demonstrate how to convert documents to JPG, PNG, TIFF, SVG, and other image formats from sources like Word, PDF, PowerPoint, CAD drawings, and more. Learn to control resolution, color depth, compression, transparency, and other image-specific settings to achieve the optimal balance between quality and file size. Each tutorial includes detailed C# code examples for creating high-quality image representations of your documents, perfect for previewing, archiving, or further image processing.

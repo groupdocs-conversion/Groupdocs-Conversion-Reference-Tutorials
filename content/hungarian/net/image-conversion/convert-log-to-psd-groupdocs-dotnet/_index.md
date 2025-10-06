@@ -4,8 +4,8 @@
 "title": "LOG konvertálása PSD-vé a GroupDocs.Conversion .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-log-to-psd-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # LOG konvertálása PSD-vé a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

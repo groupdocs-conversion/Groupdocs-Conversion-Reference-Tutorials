@@ -4,8 +4,8 @@
 "title": "Výukový program Javy&#58; Převod dokumentů Word do PowerPointu pomocí GroupDocs.Conversion pro Javu"
 "url": "/cs/java/presentation-formats/java-groupdocs-conversion-word-to-ppt/"
 "weight": 1
+type: docs
 ---
-
 # Výukový program pro Javu: Převod dokumentů Word do PowerPointu pomocí GroupDocs.Conversion pro Javu
 
 ## Zavedení

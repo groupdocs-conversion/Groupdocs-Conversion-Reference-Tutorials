@@ -4,8 +4,8 @@
 "title": "Конвертируйте файлы DWF в XLSX с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/cad-technical-drawing-formats/convert-dwf-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте файлы DWF в XLSX с помощью GroupDocs.Conversion для .NET
 
 ## Введение

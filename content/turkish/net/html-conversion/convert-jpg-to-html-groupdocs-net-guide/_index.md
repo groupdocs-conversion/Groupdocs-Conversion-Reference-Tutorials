@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak JPG'yi HTML'ye Nasıl Dönüştürebilirsiniz? Kapsamlı Bir Kılavuz"
 "url": "/tr/net/html-conversion/convert-jpg-to-html-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak JPG'nin HTML'ye Dönüştürülmesi
 
 ## giriiş

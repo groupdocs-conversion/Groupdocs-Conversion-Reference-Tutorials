@@ -4,8 +4,8 @@
 "title": "Stapsgewijze handleiding voor het converteren van DOC naar PSD met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/image-conversion/convert-doc-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DOC naar PSD converteren: een stapsgewijze handleiding met GroupDocs.Conversion voor .NET
 
 ## Invoering

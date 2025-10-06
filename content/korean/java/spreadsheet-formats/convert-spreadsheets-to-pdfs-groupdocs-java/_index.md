@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for Java를 사용하여 스프레드시트를 PDF로 변환하는 포괄적인 가이드"
 "url": "/ko/java/spreadsheet-formats/convert-spreadsheets-to-pdfs-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for Java를 사용하여 스프레드시트를 PDF로 변환: 포괄적인 가이드
 
 ## 소개

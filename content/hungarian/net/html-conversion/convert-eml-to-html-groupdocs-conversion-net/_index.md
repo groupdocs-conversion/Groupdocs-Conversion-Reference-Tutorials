@@ -4,8 +4,8 @@
 "title": "EML fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/html-conversion/convert-eml-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # EML fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

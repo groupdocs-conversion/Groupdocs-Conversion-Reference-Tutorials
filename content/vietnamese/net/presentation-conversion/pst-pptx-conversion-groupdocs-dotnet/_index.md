@@ -4,8 +4,8 @@
 "title": "Chuyển đổi PST sang PPTX bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/presentation-conversion/pst-pptx-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Làm chủ chuyển đổi PST sang PPTX bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

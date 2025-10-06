@@ -4,8 +4,8 @@
 "title": "Bezproblémový převod souborů JPC do DOC v .NET pomocí GroupDocs.Conversion"
 "url": "/cs/net/word-processing-conversion/jpc-to-doc-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Bezproblémový převod souborů JPC do DOC v .NET pomocí GroupDocs.Conversion
 
 ## Zavedení

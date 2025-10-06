@@ -4,8 +4,8 @@
 "title": "Конвертируйте электронные письма в PDF с помощью GroupDocs.Conversion для .NET&#58; Пошаговое руководство"
 "url": "/ru/net/pdf-conversion/groupdocs-conversion-email-to-pdf-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертация писем в PDF с помощью GroupDocs.Conversion для .NET: пошаговое руководство
 
 ## Введение

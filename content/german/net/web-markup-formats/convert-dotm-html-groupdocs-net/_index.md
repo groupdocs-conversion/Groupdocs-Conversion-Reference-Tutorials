@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie DOTM in HTML mit GroupDocs.Conversion für .NET – Ein umfassender Leitfaden"
 "url": "/de/net/web-markup-formats/convert-dotm-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie DOTM-Dateien mit GroupDocs.Conversion für .NET in HTML
 
 ## Einführung

@@ -5,8 +5,8 @@
 "title": "Chuyển đổi OST sang PDF"
 "url": "/vi/net/pdf-conversion/convert-ost-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # Chuyển đổi OST sang PDF
 
 ## Giới thiệu

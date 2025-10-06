@@ -5,8 +5,8 @@
 "title": "Μετατροπή TXT σε PDF"
 "url": "/el/net/file-format-conversion-tutorials/convert-txt-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Μετατροπή TXT σε PDF
 
 ## Εισαγωγή

@@ -4,8 +4,8 @@
 "title": "有效率地將 TEX 轉換為 PNG&#58; GroupDocs.Conversion for .NET 指南"
 "url": "/zh-hant/net/image-conversion/convert-tex-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 TEX 轉換為 PNG
 
 ## 介紹

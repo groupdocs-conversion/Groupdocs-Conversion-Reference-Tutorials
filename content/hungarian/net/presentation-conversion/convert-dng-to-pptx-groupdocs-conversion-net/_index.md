@@ -4,8 +4,8 @@
 "title": "DNG fájlok egyszerű PPTX formátumba konvertálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/presentation-conversion/convert-dng-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DNG-fájlok PPTX-fájlokká konvertálása a GroupDocs.Conversion for .NET segítségével
 
 A mai digitális világban elengedhetetlen a fájlkonverziók gyors és hatékony kezelése. Akár építészként 3D-s terveket mutatsz be, akár marketingesként nyers képeket alakítasz át prezentációkká, hihetetlenül hasznos lehet megtanulni, hogyan konvertálhatod a digitális negatív (DNG) fájlokat PowerPoint-bemutató (.pptx) formátumba.

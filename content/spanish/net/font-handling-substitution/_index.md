@@ -3,8 +3,8 @@
 "title": "Tutoriales de manejo y sustitución de fuentes para GroupDocs.Conversion .NET"
 "url": "/es/net/font-handling-substitution/"
 "weight": 22
+type: docs
 ---
-
 # Tutoriales de manejo y sustitución de fuentes para GroupDocs.Conversion .NET
 
 Explore las capacidades de administración de fuentes con nuestros completos tutoriales de GroupDocs.Conversion para .NET. Estas guías paso a paso muestran cómo especificar opciones de sustitución de fuentes en diversos tipos de documentos, como Word, Excel, PowerPoint y formatos de notas; gestionar fuentes faltantes; implementar políticas de incrustación de fuentes; administrar los requisitos de licencia de fuentes; controlar el comportamiento de reserva de fuentes; conservar los estilos y el formato de las fuentes; y garantizar la consistencia del texto en diferentes plataformas. Cada tutorial incluye ejemplos prácticos de código C# para operaciones relacionadas con fuentes, lo que le ayudará a crear aplicaciones que mantengan la fidelidad del documento incluso con problemas de disponibilidad de fuentes.

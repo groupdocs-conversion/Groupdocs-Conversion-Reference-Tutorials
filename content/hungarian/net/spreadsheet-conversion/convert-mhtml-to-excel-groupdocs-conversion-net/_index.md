@@ -4,8 +4,8 @@
 "title": "MHTML konvertálása Excelbe a GroupDocs.Conversion .NET használatával - Átfogó útmutató a táblázatkezelők konvertálásához"
 "url": "/hu/net/spreadsheet-conversion/convert-mhtml-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MHTML konvertálása Excelbe a GroupDocs.Conversion .NET használatával: Átfogó útmutató
 
 ## Bevezetés

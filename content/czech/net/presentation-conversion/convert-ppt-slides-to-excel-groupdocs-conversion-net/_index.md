@@ -4,8 +4,8 @@
 "title": "Převod slajdů PPT do Excelu – Mastering GroupDocs.Conversion pro .NET"
 "url": "/cs/net/presentation-conversion/convert-ppt-slides-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod slajdů PPT do Excelu pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

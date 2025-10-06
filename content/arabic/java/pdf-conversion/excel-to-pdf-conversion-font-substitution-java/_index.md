@@ -4,8 +4,8 @@
 "title": "تحويل Excel إلى PDF في Java مع استبدال الخط باستخدام GroupDocs.Conversion"
 "url": "/ar/java/pdf-conversion/excel-to-pdf-conversion-font-substitution-java/"
 "weight": 1
+type: docs
 ---
-
 # تحويل Excel إلى PDF في Java مع استبدال الخط باستخدام GroupDocs.Conversion
 
 ## مقدمة

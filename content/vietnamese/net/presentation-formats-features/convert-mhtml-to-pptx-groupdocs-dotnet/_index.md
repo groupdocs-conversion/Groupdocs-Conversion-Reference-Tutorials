@@ -4,8 +4,8 @@
 "title": "Chuyển đổi MHTML sang PPTX bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/presentation-formats-features/convert-mhtml-to-pptx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi MHTML sang PPTX bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

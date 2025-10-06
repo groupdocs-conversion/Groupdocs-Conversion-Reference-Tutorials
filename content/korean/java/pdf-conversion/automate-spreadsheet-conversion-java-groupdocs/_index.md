@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion을 사용하여 Java에서 스프레드시트를 PDF로 자동 변환"
 "url": "/ko/java/pdf-conversion/automate-spreadsheet-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용하여 Java에서 스프레드시트를 PDF로 자동 변환
 
 ## 소개

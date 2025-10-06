@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi tệp XLSM sang PDF bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/spreadsheet-formats-features/convert-xlsm-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp XLSM sang PDF bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs 將 .NET EML 檔案轉換為 JPG 的完整指南"
 "url": "/zh-hant/net/image-conversion/convert-dotnet-eml-to-jpg-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs 將 .NET EML 檔案轉換為 JPG：完整指南
 
 ## 介紹

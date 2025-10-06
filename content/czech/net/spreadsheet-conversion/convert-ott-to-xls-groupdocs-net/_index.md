@@ -4,8 +4,8 @@
 "title": "Převod OTT do XLS pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/spreadsheet-conversion/convert-ott-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod OTT do XLS pomocí GroupDocs.Conversion pro .NET: Komplexní průvodce
 
 ## Zavedení

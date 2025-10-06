@@ -4,8 +4,8 @@
 "title": "Omfattande guide till installation och implementering av GroupDocs.Conversion för .NET"
 "url": "/sv/net/getting-started-licensing/groupdocs-conversion-net-setup-guide/"
 "weight": 1
+type: docs
 ---
-
 # Omfattande guide till GroupDocs.Conversion för .NET: Installation och implementering
 
 ## Introduktion

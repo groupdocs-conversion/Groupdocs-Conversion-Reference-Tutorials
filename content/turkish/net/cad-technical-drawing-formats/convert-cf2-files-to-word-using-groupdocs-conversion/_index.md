@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak CF2 Dosyalarını Word'e Nasıl Dönüştürebilirsiniz? Adım Adım Kılavuz"
 "url": "/tr/net/cad-technical-drawing-formats/convert-cf2-files-to-word-using-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak CF2 Dosyaları Word'e Nasıl Dönüştürülür: Adım Adım Kılavuz
 
 ## giriiş

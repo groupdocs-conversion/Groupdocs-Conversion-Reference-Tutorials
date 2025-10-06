@@ -4,8 +4,8 @@
 "title": "CGM hatékony konvertálása PSD-vé a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/convert-cgm-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató: A GroupDocs.Conversion for .NET használata CGM PSD-vé konvertálásához
 
 ## Bevezetés

@@ -8,10 +8,8 @@ keywords:
 - convert Visio stencil to CSV
 - GroupDocs.Conversion for .NET tutorial
 - VSS to CSV conversion
-
+type: docs
 ---
-
-
 # Convert Visio Stencil (.vss) to CSV Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - convert TXT to PDF Java
 - GroupDocs.Conversion trailing spaces control
 - Java text file conversion
-
+type: docs
 ---
-
-
 # How to Convert TXT to PDF with Trailing Space Control Using Java and GroupDocs.Conversion
 
 In today's digital world, handling text documents efficiently is crucial for businesses and individuals alike. Converting text files (TXT) into versatile PDF formats while maintaining formatting integrity can be challenging, especially when dealing with trailing spaces that often disrupt the layout. This tutorial guides you through using GroupDocs.Conversion for Java to convert text files to PDFs effectively, controlling trailing spaces.

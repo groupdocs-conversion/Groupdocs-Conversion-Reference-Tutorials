@@ -4,8 +4,8 @@
 "title": "Shift_JIS एन्कोडिंग के साथ GroupDocs का उपयोग करके Java में CSV को PDF में परिवर्तित करें"
 "url": "/hi/java/pdf-conversion/convert-csv-to-pdf-groupdocs-java-shift-jis/"
 "weight": 1
+type: docs
 ---
-
 # Shift_JIS एन्कोडिंग के साथ GroupDocs का उपयोग करके Java में CSV को PDF में परिवर्तित करें
 
 ## परिचय

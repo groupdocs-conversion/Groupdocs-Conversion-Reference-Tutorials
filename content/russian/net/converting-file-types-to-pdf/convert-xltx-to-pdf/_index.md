@@ -5,8 +5,8 @@
 "title": "Конвертировать XLTX в PDF"
 "url": "/ru/net/converting-file-types-to-pdf/convert-xltx-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # Конвертировать XLTX в PDF
 
 ## Введение

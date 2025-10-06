@@ -4,8 +4,8 @@
 "title": "Azure Blob Storage-fájlok konvertálása PDF-be .NET és GroupDocs.Conversion használatával"
 "url": "/hu/net/loading-from-cloud-storage/convert-azure-blob-storage-files-to-pdf-net/"
 "weight": 1
+type: docs
 ---
-
 # Azure Blob Storage-fájlok letöltése és PDF-formátumba konvertálása .NET és GroupDocs.Conversion használatával
 
 ## Bevezetés

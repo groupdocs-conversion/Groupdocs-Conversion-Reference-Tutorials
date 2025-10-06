@@ -5,8 +5,8 @@
 "title": "Konvertera STL till PDF"
 "url": "/sv/net/file-format-conversion-tutorials/convert-stl-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # Konvertera STL till PDF
 
 ## Introduktion

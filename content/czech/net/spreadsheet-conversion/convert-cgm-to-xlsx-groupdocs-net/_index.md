@@ -4,8 +4,8 @@
 "title": "Jak převést soubory CGM do XLSX pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/spreadsheet-conversion/convert-cgm-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory CGM do XLSX pomocí GroupDocs.Conversion pro .NET: Komplexní průvodce
 
 ## Zavedení

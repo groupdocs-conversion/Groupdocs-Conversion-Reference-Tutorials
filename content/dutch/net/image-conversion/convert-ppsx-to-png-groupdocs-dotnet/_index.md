@@ -4,8 +4,8 @@
 "title": "Converteer PPSX naar PNG met GroupDocs.Conversion voor .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/image-conversion/convert-ppsx-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converteer PPSX-bestanden naar PNG met GroupDocs.Conversion voor .NET: een stapsgewijze handleiding
 
 ## Invoering

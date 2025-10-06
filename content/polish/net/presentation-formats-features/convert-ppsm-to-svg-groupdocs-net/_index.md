@@ -4,8 +4,8 @@
 "title": "Konwersja PPSM do SVG przy użyciu GroupDocs.Conversion .NET&#58; Przewodnik krok po kroku"
 "url": "/pl/net/presentation-formats-features/convert-ppsm-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja PPSM do SVG przy użyciu GroupDocs.Conversion .NET: Przewodnik krok po kroku
 
 ## Wstęp

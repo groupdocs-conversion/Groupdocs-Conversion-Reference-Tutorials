@@ -3,8 +3,8 @@
 "title": "Táblázatkezelő formátumok és funkciók – oktatóanyagok a GroupDocs.Conversion .NET-hez"
 "url": "/hu/net/spreadsheet-formats-features/"
 "weight": 11
+type: docs
 ---
-
 # Táblázatkezelő formátumok és funkciók – oktatóanyagok a GroupDocs.Conversion .NET-hez
 
 Tanulja meg, hogyan kezelheti a táblázatkezelő dokumentumokat a GroupDocs.Conversion .NET oktatóanyagaink segítségével. Ezek a részletes útmutatók bemutatják, hogyan konvertálhat Excel formátumok, CSV és más táblázattípusok között, hogyan jelenítheti meg vagy rejtheti el a rácsvonalakat és a megjegyzéseket, hogyan hagyhatja ki az üres sorokat és oszlopokat, hogyan adhat meg tartományokat és munkalapindexeket az átalakításhoz, hogyan kezelheti a rejtett munkalapokat, hogyan őrizheti meg a képleteket és függvényeket, hogyan tarthatja karban a cellaformázást, és hogyan szabályozhatja a számítási láncokat az átalakítás során. Minden oktatóanyag működő C# kódpéldákat tartalmaz, amelyek bemutatják, hogyan valósíthat meg pontos táblázatkezelő-konvertálást az összetett számítások és vizuális elemek megőrzése mellett.

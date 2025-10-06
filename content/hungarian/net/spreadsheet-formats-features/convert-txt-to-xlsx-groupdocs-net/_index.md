@@ -4,8 +4,8 @@
 "title": "TXT fájlok XLSX formátumba konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-txt-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # TXT fájlok konvertálása XLSX formátumba a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

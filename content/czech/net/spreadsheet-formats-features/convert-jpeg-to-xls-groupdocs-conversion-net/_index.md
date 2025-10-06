@@ -4,8 +4,8 @@
 "title": "Efektivní převod JPEG do XLS pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/spreadsheet-formats-features/convert-jpeg-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod JPEG do XLS pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

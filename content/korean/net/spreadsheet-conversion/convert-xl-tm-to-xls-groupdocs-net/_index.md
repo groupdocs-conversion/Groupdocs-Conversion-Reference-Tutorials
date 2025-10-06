@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 XLTM을 XLS로 변환하는 방법 | 스프레드시트 변환 가이드"
 "url": "/ko/net/spreadsheet-conversion/convert-xl-tm-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 XLTM을 XLS로 변환
 
 ## 소개

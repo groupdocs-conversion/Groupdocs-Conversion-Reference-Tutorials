@@ -5,8 +5,8 @@
 "title": "Chuyển đổi tệp dữ liệu CSV sang PDF"
 "url": "/vi/net/file-conversion-to-pdf/convert-csv-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # Chuyển đổi tệp dữ liệu CSV sang PDF
 
 ## Giới thiệu

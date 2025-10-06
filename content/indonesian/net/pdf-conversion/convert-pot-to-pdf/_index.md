@@ -5,8 +5,8 @@
 "title": "Konversi POT ke PDF"
 "url": "/id/net/pdf-conversion/convert-pot-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Konversi POT ke PDF
 
 ## Perkenalan

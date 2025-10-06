@@ -4,8 +4,8 @@
 "title": "InputStream을 사용하여 Java에서 GroupDocs.Conversion 라이선스를 설정하는 방법"
 "url": "/ko/java/getting-started/groupdocs-conversion-license-java-input-stream/"
 "weight": 1
+type: docs
 ---
-
 # Java에서 InputStream을 통해 GroupDocs.Conversion 라이선스 설정을 구현하는 방법
 ## 소개
 GroupDocs.Conversion의 강력한 기능으로 Java 애플리케이션을 개선하고 싶으신가요? 라이선스를 올바르게 설정하는 것은 매우 중요한 단계이며, 입력 스트림을 사용하여 라이선스를 설정하면 이 과정을 간소화할 수 있습니다. 이 가이드에서는 Java에서 입력 스트림을 사용하여 GroupDocs 라이선스를 설정하는 방법을 안내하여 라이선스 문제 없이 변환 프로세스를 원활하게 진행할 수 있도록 합니다.

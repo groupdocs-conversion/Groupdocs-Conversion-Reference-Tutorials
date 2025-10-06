@@ -4,8 +4,8 @@
 "title": "Convertissez efficacement des fichiers PLT en Excel avec GroupDocs.Conversion pour .NET"
 "url": "/fr/net/spreadsheet-formats-features/convert-plt-files-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir efficacement des fichiers PLT en Excel avec GroupDocs.Conversion pour .NET
 
 ## Introduction

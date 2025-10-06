@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET을 사용하여 XML을 HTML로 변환하기 - 완벽한 가이드"
 "url": "/ko/net/html-conversion/convert-xml-html-groupdocs-conversion-net-tutorial/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET을 사용하여 XML을 HTML로 변환: 완전한 가이드
 
 ## 소개

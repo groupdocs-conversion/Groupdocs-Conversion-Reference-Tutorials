@@ -4,8 +4,8 @@
 "title": "Hogyan konvertáljunk DOTM-et PPT-vé a GroupDocs.Conversion for .NET használatával? Átfogó útmutató"
 "url": "/hu/net/presentation-formats-features/convert-dotm-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertáljunk DOTM-et PPT-vé a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

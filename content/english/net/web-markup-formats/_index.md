@@ -3,8 +3,8 @@ title: "Web and Markup Formats Tutorials for GroupDocs.Conversion .NET"
 description: "Step-by-step tutorials for converting to and from HTML, MHTML, and other web formats using GroupDocs.Conversion for .NET."
 weight: 19
 url: "/net/web-markup-formats/"
+type: docs
 ---
-
 # Web and Markup Formats Tutorials for GroupDocs.Conversion .NET
 
 Our web format conversion tutorials provide comprehensive guidance for working with markup languages in .NET applications. These step-by-step guides demonstrate how to convert documents to and from HTML formats, add page numbering to web documents, handle CSS styling, manage embedded resources, implement responsive layouts, control image embedding behavior, preserve hyperlinks, and maintain document structure. Each tutorial includes complete C# code examples for web format conversion scenarios, helping you build applications that can effectively bridge the gap between document formats and web content.

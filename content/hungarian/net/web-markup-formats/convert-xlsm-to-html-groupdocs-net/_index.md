@@ -4,8 +4,8 @@
 "title": "XLSM fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/web-markup-formats/convert-xlsm-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # XLSM fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 ## Bevezetés
 mai adatvezérelt világban elengedhetetlen az Excel-fájlok könnyebben hozzáférhető formátumokba konvertálása. Az XLSM-fájlok HTML-re konvertálása javíthatja a webhelyek interaktivitását és egyszerűsítheti a jelentéskészítési folyamatokat. A GroupDocs.Conversion for .NET segítségével ez a folyamat zökkenőmentes és hatékony lesz. Ez az oktatóanyag végigvezeti Önt a GroupDocs.Conversion könyvtár használatán, amellyel XLSM-fájljait HTML formátumba konvertálhatja.

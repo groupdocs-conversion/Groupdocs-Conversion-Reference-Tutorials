@@ -5,8 +5,8 @@
 "title": "Konversi Gambar BMP ke PDF"
 "url": "/id/net/file-conversion-to-pdf/convert-bmp-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Konversi Gambar BMP ke PDF
 
 ## Perkenalan

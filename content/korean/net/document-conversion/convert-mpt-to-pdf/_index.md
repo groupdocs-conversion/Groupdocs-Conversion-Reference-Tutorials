@@ -5,8 +5,8 @@
 "title": "MPT를 PDF로 변환"
 "url": "/ko/net/document-conversion/convert-mpt-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # MPT를 PDF로 변환
 
 ## 소개

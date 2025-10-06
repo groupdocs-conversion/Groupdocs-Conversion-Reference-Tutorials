@@ -5,8 +5,8 @@
 "title": "Converteer MBOX naar PDF"
 "url": "/nl/net/document-conversion/convert-mbox-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # Converteer MBOX naar PDF
 
 ## Invoering

@@ -4,8 +4,8 @@
 "title": "Konwersja POTX do CSV przy użyciu GroupDocs.Conversion dla .NET&#58; Kompleksowy przewodnik"
 "url": "/pl/net/spreadsheet-formats-features/convert-potx-to-csv-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj pliki POTX do CSV za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

@@ -4,8 +4,8 @@
 "title": "GroupDocs'u Kullanarak Java'da Belge Dönüştürme İlerlemesinin İzlenmesi - Eksiksiz Bir Kılavuz"
 "url": "/tr/java/conversion-events-logging/java-groupdocs-conversion-progress-listener/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs ile Java'da Belge Dönüştürme İlerlemesini İzleyin: Eksiksiz Bir Kılavuz
 
 ## giriiş

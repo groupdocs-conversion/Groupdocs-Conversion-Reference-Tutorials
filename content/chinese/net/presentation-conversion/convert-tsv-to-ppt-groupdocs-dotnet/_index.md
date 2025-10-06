@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 将 TSV 转换为 PowerPoint 的简易指南"
 "url": "/zh/net/presentation-conversion/convert-tsv-to-ppt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.NET 将 TSV 转换为 PowerPoint
 ## 如何使用 GroupDocs.Conversion .NET 将 TSV 文件加载并转换为 PPT
 

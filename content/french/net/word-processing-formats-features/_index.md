@@ -3,8 +3,8 @@
 "title": "Tutoriels sur les formats et fonctionnalités de traitement de texte pour GroupDocs.Conversion .NET"
 "url": "/fr/net/word-processing-formats-features/"
 "weight": 10
+type: docs
 ---
-
 # Tutoriels sur les formats et fonctionnalités de traitement de texte pour GroupDocs.Conversion .NET
 
 Découvrez comment travailler efficacement avec des documents Word grâce à nos tutoriels complets GroupDocs.Conversion .NET. Ces guides pas à pas vous expliquent comment convertir entre différents formats de traitement Word, masquer les commentaires et le suivi des modifications pendant la conversion, spécifier les options de substitution de police, préserver les styles et la mise en forme, maintenir la structure du document, gérer les objets incorporés et contrôler le comportement des en-têtes et pieds de page. Chaque tutoriel fournit des exemples pratiques de code C# pour les tâches de conversion de documents Word, vous aidant à créer des applications plus performantes capables de traiter des documents texte avec une haute fidélité et un contrôle spécifique au format.

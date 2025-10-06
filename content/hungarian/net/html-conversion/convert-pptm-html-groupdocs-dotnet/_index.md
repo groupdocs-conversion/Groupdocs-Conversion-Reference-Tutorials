@@ -4,8 +4,8 @@
 "title": "PPTM hatékony HTML-lé konvertálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/html-conversion/convert-pptm-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # PPTM hatékony HTML-lé konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

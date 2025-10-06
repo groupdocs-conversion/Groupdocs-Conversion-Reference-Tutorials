@@ -4,8 +4,8 @@
 "title": "Převod XML do PDF pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/pdf-conversion/convert-xml-pdf-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # Převod XML do PDF pomocí GroupDocs.Conversion pro .NET: Kompletní průvodce
 
 ## Zavedení

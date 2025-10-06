@@ -4,8 +4,8 @@
 "title": "CGM fájlok SVG formátumba konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-formats-features/groupdocs-conversion-cgm-svg-implementation-guide/"
 "weight": 1
+type: docs
 ---
-
 # CGM fájlok SVG formátumba konvertálása a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

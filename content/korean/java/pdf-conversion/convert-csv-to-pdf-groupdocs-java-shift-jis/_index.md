@@ -4,8 +4,8 @@
 "title": "Shift_JIS 인코딩을 사용하여 Java에서 GroupDocs를 사용하여 CSV를 PDF로 변환"
 "url": "/ko/java/pdf-conversion/convert-csv-to-pdf-groupdocs-java-shift-jis/"
 "weight": 1
+type: docs
 ---
-
 # Shift_JIS 인코딩을 사용하여 Java에서 GroupDocs를 사용하여 CSV를 PDF로 변환
 
 ## 소개

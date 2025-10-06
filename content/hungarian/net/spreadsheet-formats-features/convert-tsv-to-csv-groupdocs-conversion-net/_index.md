@@ -4,8 +4,8 @@
 "title": "TSV konvertálása CSV-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-tsv-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # TSV konvertálása CSV-vé a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

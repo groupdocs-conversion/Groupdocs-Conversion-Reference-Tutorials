@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion for Java
 - retrieve all possible conversions
 - Java document conversion
-
+type: docs
 ---
-
-
 # Comprehensive Guide to Retrieving All Possible Conversions Using GroupDocs.Conversion for Java
 
 ## Introduction

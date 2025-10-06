@@ -4,8 +4,8 @@
 "title": "Converter XLSM para SVG usando GroupDocs.Conversion para .NET - Um guia passo a passo"
 "url": "/pt/net/spreadsheet-conversion/convert-xlsm-to-svg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converter XLSM para SVG usando GroupDocs.Conversion para .NET: um guia passo a passo
 
 ## Introdução

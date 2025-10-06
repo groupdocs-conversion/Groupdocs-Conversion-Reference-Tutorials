@@ -8,10 +8,8 @@ keywords:
 - convert PPTX to PPT
 - GroupDocs.Conversion .NET
 - PPT conversion
-
+type: docs
 ---
-
-
 # Convert PPTX to PPT Seamlessly with GroupDocs.Conversion for .NET
 ## Introduction
 Are you looking to seamlessly convert your PowerPoint presentations from the modern PPTX format back to the classic PPT? Whether it's for compatibility with older systems or simply meeting specific client needs, converting presentation formats can be a challenge. With GroupDocs.Conversion for .NET, this process becomes straightforward and efficient. In this tutorial, we'll guide you through using GroupDocs.Conversion to convert PPTX files to PPT format effortlessly.

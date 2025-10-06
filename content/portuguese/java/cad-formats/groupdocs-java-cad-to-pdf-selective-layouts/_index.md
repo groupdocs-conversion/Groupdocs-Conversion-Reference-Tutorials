@@ -4,8 +4,8 @@
 "title": "Converta layouts CAD para PDF em Java usando o Guia de conversão de layout seletivo do GroupDocs"
 "url": "/pt/java/cad-formats/groupdocs-java-cad-to-pdf-selective-layouts/"
 "weight": 1
+type: docs
 ---
-
 # Converta layouts CAD para PDF com GroupDocs.Conversion para Java
 ## Dominando a conversão seletiva de CAD para PDF em Java
 ### Introdução

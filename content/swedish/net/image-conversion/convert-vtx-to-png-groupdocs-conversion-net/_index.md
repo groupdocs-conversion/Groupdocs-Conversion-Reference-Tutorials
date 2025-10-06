@@ -4,8 +4,8 @@
 "title": "Konvertera VTX till PNG med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/image-conversion/convert-vtx-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera VTX till PNG med GroupDocs.Conversion för .NET
 
 ## Introduktion

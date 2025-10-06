@@ -4,8 +4,8 @@
 "title": "إعداد ترخيص Java لـ GroupDocs.Conversion - دليل خطوة بخطوة"
 "url": "/ar/java/getting-started/groupdocs-conversion-java-license-setup-file-path/"
 "weight": 1
+type: docs
 ---
-
 # إعداد ترخيص Java لـ GroupDocs.Conversion: دليل شامل
 
 مرحبًا بكم في دليلنا المفصل لإعداد مكتبة GroupDocs.Conversion واستخدامها في جافا. يركز هذا الدليل تحديدًا على كيفية إعداد التراخيص عبر مسارات الملفات، مما يتيح لكم الاستفادة القصوى من هذه الأداة الفعّالة لتحويل المستندات.

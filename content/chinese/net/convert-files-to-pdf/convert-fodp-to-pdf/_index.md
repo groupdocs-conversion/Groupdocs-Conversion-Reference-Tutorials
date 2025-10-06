@@ -5,8 +5,8 @@
 "title": "将 FODP OpenDocument 演示文稿转换为 PDF"
 "url": "/zh/net/convert-files-to-pdf/convert-fodp-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # 将 FODP OpenDocument 演示文稿转换为 PDF
 
 ## 介绍

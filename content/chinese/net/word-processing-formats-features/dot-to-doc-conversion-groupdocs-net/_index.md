@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将 DOT 转换为 DOC 综合指南"
 "url": "/zh/net/word-processing-formats-features/dot-to-doc-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将 DOT 转换为 DOC：综合指南
 ## 介绍
 如果没有合适的工具，将复杂的图表文件从 DOT 格式转换为可编辑的 Word 文档可能会很困难。 **GroupDocs.转换** .NET 无缝简化了不同格式之间的文档转换。

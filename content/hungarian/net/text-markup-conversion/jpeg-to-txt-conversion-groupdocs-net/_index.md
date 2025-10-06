@@ -4,8 +4,8 @@
 "title": "Hatékony JPEG-TXT konvertálás a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/text-markup-conversion/jpeg-to-txt-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony JPEG-TXT konvertálás a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

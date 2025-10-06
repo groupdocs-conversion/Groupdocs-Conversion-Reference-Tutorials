@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Java API'sini Kullanarak Verimli PDF'den Word'e Dönüştürme"
 "url": "/tr/java/word-processing-formats/groupdocs-conversion-java-pdf-to-word/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Java API'sini Kullanarak Verimli PDF'den Word'e Dönüştürme
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "Cómo convertir archivos DOTX en aplicaciones .NET&#58; una guía con GroupDocs.Conversion"
 "url": "/es/net/word-processing-formats-features/convert-dotx-files-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Cómo implementar y optimizar la conversión de .NET: cargar y convertir archivos DOTX mediante GroupDocs.Conversion
 
 ## Introducción

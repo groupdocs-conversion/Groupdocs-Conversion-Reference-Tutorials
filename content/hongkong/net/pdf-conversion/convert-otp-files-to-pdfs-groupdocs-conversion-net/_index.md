@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 OTP 檔案轉換為 PDF - 無縫轉換指南"
 "url": "/zh-hant/net/pdf-conversion/convert-otp-files-to-pdfs-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 OTP 檔案轉換為 PDF
 
 ## 介紹

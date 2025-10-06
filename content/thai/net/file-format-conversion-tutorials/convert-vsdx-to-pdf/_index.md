@@ -5,8 +5,8 @@
 "title": "แปลง VSDX เป็น PDF"
 "url": "/th/net/file-format-conversion-tutorials/convert-vsdx-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # แปลง VSDX เป็น PDF
 
 ## การแนะนำ

@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi bài thuyết trình PowerPoint sang HTML bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/web-markup-formats/convert-powerpoint-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi bài thuyết trình PowerPoint sang HTML bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

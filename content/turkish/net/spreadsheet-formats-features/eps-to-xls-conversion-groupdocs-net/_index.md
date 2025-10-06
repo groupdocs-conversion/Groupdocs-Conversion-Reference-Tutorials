@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak Verimli EPS'den XLS'ye Dönüşüm"
 "url": "/tr/net/spreadsheet-formats-features/eps-to-xls-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak Verimli EPS'den XLS'ye Dönüşüm
 
 ## giriiş

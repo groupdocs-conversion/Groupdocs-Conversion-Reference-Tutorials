@@ -4,8 +4,8 @@
 "title": "Podrobný návod k převodu MBOX do XLS pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/spreadsheet-conversion/convert-mbox-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod MBOX do XLS: Podrobný návod s použitím GroupDocs.Conversion pro .NET
 ## Zavedení
 Spravujete velkou sbírku e-mailů uložených v souboru MBOX a chcete data systematicky analyzovat nebo prezentovat? Převod těchto e-mailů do tabulkového formátu, jako je XLS, vám může úkol výrazně zjednodušit. Tento tutoriál vás provede převodem souborů MBOX do XLS pomocí GroupDocs.Conversion pro .NET, což je výkonná knihovna, která zjednodušuje úlohy převodu dokumentů.

@@ -4,8 +4,8 @@
 "title": "Konvertera lokala dokument till PDF med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/pdf-conversion-features/convert-local-documents-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar lokala dokument till PDF med GroupDocs.Conversion för .NET
 
 ## Introduktion

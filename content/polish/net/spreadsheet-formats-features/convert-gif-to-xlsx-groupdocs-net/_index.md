@@ -4,8 +4,8 @@
 "title": "Jak konwertować pliki GIF do plików XLSX za pomocą GroupDocs.Conversion dla .NET"
 "url": "/pl/net/spreadsheet-formats-features/convert-gif-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak konwertować pliki GIF do plików XLSX za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

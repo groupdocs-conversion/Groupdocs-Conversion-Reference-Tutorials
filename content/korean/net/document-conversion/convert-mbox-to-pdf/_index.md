@@ -5,8 +5,8 @@
 "title": "MBOX를 PDF로 변환"
 "url": "/ko/net/document-conversion/convert-mbox-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # MBOX를 PDF로 변환
 
 ## 소개

@@ -8,10 +8,8 @@ keywords:
 - convert VCF to Excel
 - GroupDocs.Conversion .NET
 - VCF file conversion
-
+type: docs
 ---
-
-
 # How to Convert VCF Files to Excel Using GroupDocs.Conversion .NET | Step-by-Step Guide
 
 ## Introduction

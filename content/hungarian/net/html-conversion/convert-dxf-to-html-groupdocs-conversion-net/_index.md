@@ -4,8 +4,8 @@
 "title": "DXF fájlok hatékony HTML-lé konvertálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/html-conversion/convert-dxf-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DXF fájlok hatékony HTML-lé konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

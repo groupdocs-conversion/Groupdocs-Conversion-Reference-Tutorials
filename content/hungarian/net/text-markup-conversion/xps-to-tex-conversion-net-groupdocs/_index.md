@@ -4,8 +4,8 @@
 "title": "XPS konvertálása TEX-be .NET használatával GroupDocs.Conversion&#58; lépésről lépésre útmutató"
 "url": "/hu/net/text-markup-conversion/xps-to-tex-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # XPS konvertálása TEX-be .NET használatával GroupDocs.Conversion: Lépésről lépésre útmutató
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Jak převést CMX do PSD pomocí .NET a GroupDocs.Conversion – Komplexní průvodce"
 "url": "/cs/net/image-formats-features/net-cmx-to-psd-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést CMX do PSD pomocí .NET a GroupDocs.Conversion: Komplexní průvodce
 
 ## Zavedení

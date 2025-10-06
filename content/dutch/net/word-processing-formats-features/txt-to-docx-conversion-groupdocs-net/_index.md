@@ -4,8 +4,8 @@
 "title": "Efficiënte TXT naar DOCX-conversie met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/word-processing-formats-features/txt-to-docx-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efficiënte TXT naar DOCX-conversie met GroupDocs.Conversion voor .NET
 
 ## Invoering

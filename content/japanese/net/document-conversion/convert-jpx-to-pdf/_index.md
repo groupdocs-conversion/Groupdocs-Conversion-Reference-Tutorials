@@ -5,8 +5,8 @@
 "title": "JPXをPDFに変換する"
 "url": "/ja/net/document-conversion/convert-jpx-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # JPXをPDFに変換する
 
 ## 導入

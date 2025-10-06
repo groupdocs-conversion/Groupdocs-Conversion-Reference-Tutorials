@@ -8,10 +8,8 @@ keywords:
 - convert Outlook emails to Excel
 - GroupDocs.Conversion for .NET
 - automate MSG to XLS conversion
-
+type: docs
 ---
-
-
 # Effortlessly Convert Microsoft Outlook Emails to Excel Spreadsheets Using GroupDocs.Conversion for .NET
 
 ## Introduction

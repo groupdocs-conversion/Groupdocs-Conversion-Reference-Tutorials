@@ -4,8 +4,8 @@
 "title": "Word-documenten naar PDF's converteren in .NET met GroupDocs.Conversion"
 "url": "/nl/net/pdf-conversion-features/convert-word-doc-to-pdf-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Word-documenten naar PDF's converteren in .NET met GroupDocs.Conversion
 
 ## Invoering

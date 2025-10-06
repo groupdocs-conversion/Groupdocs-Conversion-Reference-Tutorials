@@ -4,8 +4,8 @@
 "title": "دروس جافا - تحويل مستندات Word إلى PowerPoint باستخدام GroupDocs.Conversion لجافا"
 "url": "/ar/java/presentation-formats/java-groupdocs-conversion-word-to-ppt/"
 "weight": 1
+type: docs
 ---
-
 # دروس جافا: تحويل مستندات Word إلى PowerPoint باستخدام GroupDocs.Conversion لجافا
 
 ## مقدمة

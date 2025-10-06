@@ -8,10 +8,8 @@ keywords:
 - .NET document conversion
 - GroupDocs.Conversion for .NET
 - font substitution in PDF
-
+type: docs
 ---
-
-
 # Mastering Document Conversion in .NET with GroupDocs.Conversion
 
 ## Introduction

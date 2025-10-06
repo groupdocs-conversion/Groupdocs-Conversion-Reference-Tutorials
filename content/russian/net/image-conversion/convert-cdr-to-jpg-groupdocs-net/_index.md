@@ -4,8 +4,8 @@
 "title": "Конвертируйте CDR в JPG с помощью GroupDocs.Conversion для .NET. Пошаговое руководство"
 "url": "/ru/net/image-conversion/convert-cdr-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертация CDR в JPG с помощью GroupDocs.Conversion для .NET: пошаговое руководство
 
 ## Введение

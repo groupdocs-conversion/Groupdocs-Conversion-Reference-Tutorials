@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 高效地将 Outlook 电子邮件转换为 Excel"
 "url": "/zh/net/email-formats-features/convert-outlook-emails-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 轻松将 Microsoft Outlook 电子邮件转换为 Excel 电子表格
 
 ## 介绍

@@ -8,10 +8,8 @@ keywords:
 - convert EMZ to XLS
 - GroupDocs.Conversion for .NET
 - .emz to .xls conversion
-
+type: docs
 ---
-
-
 # Convert EMZ to XLS with GroupDocs.Conversion for .NET
 
 ## Introduction

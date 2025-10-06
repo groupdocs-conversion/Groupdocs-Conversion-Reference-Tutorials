@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion 在 .NET 中將 Word 文件轉換為 PDF"
 "url": "/zh-hant/net/pdf-conversion-features/convert-word-doc-to-pdf-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion 在 .NET 中將 Word 文件轉換為 PDF
 
 ## 介紹

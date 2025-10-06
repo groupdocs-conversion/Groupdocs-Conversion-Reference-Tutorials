@@ -4,8 +4,8 @@
 "title": "MOBI fájlok TXT formátumba konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/text-markup-conversion/convert-mobi-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MOBI fájlok TXT formátumba konvertálása a GroupDocs.Conversion for .NET segítségével: lépésről lépésre útmutató
 
 ## Bevezetés

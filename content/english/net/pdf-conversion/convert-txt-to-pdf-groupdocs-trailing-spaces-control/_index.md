@@ -8,10 +8,8 @@ keywords:
 - TXT to PDF Conversion
 - Trailing Spaces Control
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # Convert TXT to PDF with GroupDocs: Control Trailing Spaces Using .NET
 
 ## Introduction

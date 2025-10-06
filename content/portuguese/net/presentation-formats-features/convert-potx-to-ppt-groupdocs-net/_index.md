@@ -4,8 +4,8 @@
 "title": "Converta POTX em PPT com eficiência usando GroupDocs.Conversion para .NET"
 "url": "/pt/net/presentation-formats-features/convert-potx-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converta POTX em PPT com eficiência usando GroupDocs.Conversion para .NET
 
 ## Introdução

@@ -4,8 +4,8 @@
 "title": "كيفية تحويل ملفات VDW إلى تنسيق TEX باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/conversion-utilities-information/convert-vdw-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل ملفات VDW إلى تنسيق TEX باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

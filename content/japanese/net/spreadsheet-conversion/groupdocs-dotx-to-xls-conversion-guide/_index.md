@@ -4,8 +4,8 @@
 "title": "究極ガイド&#58; GroupDocs.Conversion for .NET を使用して C# で DOTX を XLS に変換する"
 "url": "/ja/net/spreadsheet-conversion/groupdocs-dotx-to-xls-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # 究極ガイド: GroupDocs.Conversion for .NET を使用して C# で DOTX を XLS に変換する
 
 ## 導入

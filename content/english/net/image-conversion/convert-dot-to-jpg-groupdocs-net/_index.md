@@ -8,10 +8,8 @@ keywords:
 - convert dot files to jpg
 - GroupDocs.Conversion for .NET
 - file conversion in .NET
-
+type: docs
 ---
-
-
 # Convert DOT Files to JPG in .NET Using GroupDocs.Conversion: A Step-by-Step Guide
 ## Introduction
 Are you struggling with document conversions in your .NET applications? If converting Microsoft Word Document Templates (.dot) into images is a frequent task, this tutorial is for you. We'll use **GroupDocs.Conversion for .NET**, a powerful library that streamlines file conversion tasks.

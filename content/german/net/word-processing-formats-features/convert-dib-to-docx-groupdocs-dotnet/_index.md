@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie DIB-Dateien mit GroupDocs.Conversion für .NET in DOCX (C#-Tutorial)"
 "url": "/de/net/word-processing-formats-features/convert-dib-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie DIB-Dateien mit GroupDocs.Conversion für .NET in DOCX (C#-Tutorial)
 
 ## Einführung

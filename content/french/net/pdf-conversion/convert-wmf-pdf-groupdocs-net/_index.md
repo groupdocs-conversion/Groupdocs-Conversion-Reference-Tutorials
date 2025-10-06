@@ -4,8 +4,8 @@
 "title": "Convertissez facilement des fichiers WMF en PDF avec GroupDocs.Conversion pour .NET"
 "url": "/fr/net/pdf-conversion/convert-wmf-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertissez facilement des fichiers WMF en PDF grâce à GroupDocs.Conversion pour .NET
 
 ## Introduction

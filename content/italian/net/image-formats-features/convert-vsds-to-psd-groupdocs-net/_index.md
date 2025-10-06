@@ -4,8 +4,8 @@
 "title": "Automatizza la conversione da VSD a PSD utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/image-formats-features/convert-vsds-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Automatizza la conversione da VSD a PSD utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

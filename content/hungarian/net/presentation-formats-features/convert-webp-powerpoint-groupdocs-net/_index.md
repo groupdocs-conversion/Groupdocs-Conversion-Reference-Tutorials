@@ -4,8 +4,8 @@
 "title": "WebP képek konvertálása PowerPoint formátumba a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/presentation-formats-features/convert-webp-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # WebP képek konvertálása PowerPoint formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "OTT fájlok zökkenőmentes konvertálása PPT-vé a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/presentation-formats-features/convert-ott-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OTT zökkenőmentes konvertálása PPT-vé: GroupDocs.Conversion használata .NET-hez
 
 ## Bevezetés

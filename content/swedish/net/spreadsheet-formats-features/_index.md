@@ -3,8 +3,8 @@
 "title": "Handledningar för kalkylbladsformat och funktioner för GroupDocs.Conversion .NET"
 "url": "/sv/net/spreadsheet-formats-features/"
 "weight": 11
+type: docs
 ---
-
 # Handledningar för kalkylbladsformat och funktioner för GroupDocs.Conversion .NET
 
 Lär dig hur du hanterar kalkylbladsdokument med våra GroupDocs.Conversion .NET-handledningar. Dessa detaljerade guider visar hur du konverterar mellan Excel-format, CSV och andra kalkylbladstyper, visar eller döljer rutnät och kommentarer, hoppar över tomma rader och kolumner, anger intervall och arkindex för konvertering, hanterar dolda ark, bevarar formler och funktioner, underhåller cellformatering och styr beräkningskedjor under konvertering. Varje handledning innehåller fungerande C#-kodexempel som visar hur du implementerar korrekt kalkylbladskonvertering samtidigt som komplexa beräkningar och visuella element bevaras.

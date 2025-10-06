@@ -4,8 +4,8 @@
 "title": "Converteer PCL naar LaTeX (TEX) met GroupDocs.Conversion in .NET"
 "url": "/nl/net/conversion-options-settings/convert-pcl-to-latex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer PCL naar LaTeX (TEX) met GroupDocs.Conversion in .NET
 
 ## Invoering

@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie XLTX in PPTX mit GroupDocs.Conversion .NET – Schritt-für-Schritt-Anleitung"
 "url": "/de/net/presentation-conversion/convert-xltx-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie XLTX in PPTX mit GroupDocs.Conversion .NET
 ## Einführung
 Möchten Sie Ihre Excel Open XML-Vorlagendateien (.xltx) nahtlos in PowerPoint-Präsentationen (.pptx) umwandeln? Dieses Schritt-für-Schritt-Tutorial führt Sie mit GroupDocs.Conversion für .NET durch den Prozess. Egal, ob Sie Entwickler von Dokumentenmanagementlösungen sind oder die Konvertierung einfach automatisieren möchten – die Beherrschung dieser Funktionalität ist von unschätzbarem Wert.

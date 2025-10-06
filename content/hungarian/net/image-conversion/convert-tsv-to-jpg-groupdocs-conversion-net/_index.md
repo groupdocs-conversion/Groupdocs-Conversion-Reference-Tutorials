@@ -4,8 +4,8 @@
 "title": "Hogyan konvertáljunk TSV-t JPG-vé a GroupDocs.Conversion .NET használatával - Képkonverziós útmutató"
 "url": "/hu/net/image-conversion/convert-tsv-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhat TSV-t JPG-vé a GroupDocs.Conversion .NET használatával?
 
 A mai digitális korban az adatok különféle formátumokban érkeznek. A tabulátorral elválasztott értékeket tartalmazó (TSV) fájlok JPEG formátumba konvertálása különösen hasznos lehet prezentációkhoz vagy jelentésekhez. Ez az oktatóanyag bemutatja, hogyan használhatja a GroupDocs.Conversion for .NET programot TSV-fájljainak kiváló minőségű JPG képekké alakításához.

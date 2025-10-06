@@ -4,8 +4,8 @@
 "title": "Convertire POTX in PSD utilizzando GroupDocs.Conversion per .NET | Guida passo passo"
 "url": "/it/net/image-conversion/convert-potx-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire POTX in PSD utilizzando GroupDocs.Conversion per .NET: una guida passo passo
 
 ## Introduzione

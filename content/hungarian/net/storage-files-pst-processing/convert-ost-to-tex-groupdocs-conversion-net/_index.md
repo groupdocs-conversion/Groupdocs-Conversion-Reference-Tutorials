@@ -4,8 +4,8 @@
 "title": "Hogyan konvertáljunk OST-t TEX-be a GroupDocs.Conversion for .NET használatával? Lépésről lépésre útmutató"
 "url": "/hu/net/storage-files-pst-processing/convert-ost-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató: OST fájlok konvertálása TEX fájlokká a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

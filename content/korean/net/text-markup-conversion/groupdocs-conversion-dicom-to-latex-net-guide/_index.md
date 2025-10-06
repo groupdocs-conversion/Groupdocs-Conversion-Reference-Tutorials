@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET&#58; DICOM을 LaTeX로 효율적으로 변환"
 "url": "/ko/net/text-markup-conversion/groupdocs-conversion-dicom-to-latex-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 마스터하기: DICOM을 LaTeX로 변환
 
 ## 소개

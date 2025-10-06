@@ -4,8 +4,8 @@
 "title": "DOT konvertálása CSV-vé a GroupDocs.Conversion .NET használatával – Átfogó útmutató"
 "url": "/hu/net/spreadsheet-formats-features/groupdocs-conversion-dot-to-csv-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # DOT konvertálása CSV-vé a GroupDocs.Conversion .NET használatával: Átfogó útmutató
 
 ## Bevezetés

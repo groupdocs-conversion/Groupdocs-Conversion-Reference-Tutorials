@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用してフォント置換を行い Word を PDF に変換する"
 "url": "/ja/net/font-handling-substitution/convert-word-to-pdf-font-substitution-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用してフォント置換を行い、Word 文書を PDF に変換する
 ## 導入
 Word文書をPDFに変換すると、フォントの一貫性が失われ、フォーマットの問題が発生することがよくあります。このガイドでは、GroupDocs.Conversion for .NETを使用してフォントの一貫性を簡単に確保する方法を説明します。フォント置換の読み込みオプションを設定し、Word文書を視覚的な忠実性を維持しながらシームレスにPDF形式に変換する方法を学びます。

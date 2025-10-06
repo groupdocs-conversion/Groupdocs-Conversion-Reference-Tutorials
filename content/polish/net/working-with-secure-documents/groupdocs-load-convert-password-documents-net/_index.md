@@ -4,8 +4,8 @@
 "title": "Ładowanie i konwertowanie dokumentów chronionych hasłem przy użyciu GroupDocs.Conversion dla .NET"
 "url": "/pl/net/working-with-secure-documents/groupdocs-load-convert-password-documents-net/"
 "weight": 1
+type: docs
 ---
-
 # Ładowanie i konwertowanie dokumentów chronionych hasłem przy użyciu GroupDocs.Conversion dla .NET
 
 ## Wstęp

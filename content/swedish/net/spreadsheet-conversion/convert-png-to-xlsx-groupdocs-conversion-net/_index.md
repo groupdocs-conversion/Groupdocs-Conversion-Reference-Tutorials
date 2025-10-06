@@ -4,8 +4,8 @@
 "title": "Konvertera PNG till XLSX i .NET med GroupDocs.Conversion – en steg-för-steg-guide"
 "url": "/sv/net/spreadsheet-conversion/convert-png-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera PNG till XLSX i .NET med GroupDocs.Conversion: En steg-för-steg-guide
 
 ## Introduktion

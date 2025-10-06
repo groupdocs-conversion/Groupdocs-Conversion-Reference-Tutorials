@@ -4,8 +4,8 @@
 "title": "Převod HTML do SVG pomocí GroupDocs.Conversion pro .NET – kompletní průvodce"
 "url": "/cs/net/image-formats-features/convert-html-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod HTML do SVG pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

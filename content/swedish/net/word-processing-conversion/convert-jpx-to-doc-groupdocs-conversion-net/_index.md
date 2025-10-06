@@ -4,8 +4,8 @@
 "title": "Konvertera JPX till DOC med GroupDocs.Conversion för .NET – en komplett guide"
 "url": "/sv/net/word-processing-conversion/convert-jpx-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera JPX till DOC med GroupDocs.Conversion för .NET: En komplett guide
 
 ## Introduktion

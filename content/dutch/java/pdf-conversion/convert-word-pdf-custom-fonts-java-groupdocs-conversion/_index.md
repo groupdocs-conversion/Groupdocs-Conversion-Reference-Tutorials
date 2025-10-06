@@ -4,8 +4,8 @@
 "title": "Word naar PDF converteren met aangepaste lettertypen in Java&#58; een complete handleiding met GroupDocs.Conversion"
 "url": "/nl/java/pdf-conversion/convert-word-pdf-custom-fonts-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Word-documenten converteren naar PDF met aangepaste lettertypen in Java: een complete handleiding met GroupDocs.Conversion
 
 ## Invoering

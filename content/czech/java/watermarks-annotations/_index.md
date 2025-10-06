@@ -3,8 +3,8 @@
 "title": "Výukové programy pro vodoznaky a anotace v nástroji GroupDocs.Conversion v Javě"
 "url": "/cs/java/watermarks-annotations/"
 "weight": 20
+type: docs
 ---
-
 # Výukové programy pro vodoznaky a anotace v nástroji GroupDocs.Conversion v Javě
 
 Prozkoumejte možnosti anotací a vodoznaků s našimi komplexními tutoriály GroupDocs.Conversion pro Javu. Tyto podrobné návody ukazují, jak přidávat textové a obrazové vodoznaky během převodu, zachovat stávající anotace, ovládat viditelnost anotací, implementovat dynamické vodoznaky na základě metadat a spravovat redigované značky v citlivých dokumentech. Každý tutoriál obsahuje praktické příklady kódu Java pro scénáře vodoznaků a anotací, které vám pomohou vytvářet aplikace, které si během transformace formátu zachovají důležité vizuální prvky a redakční značky.

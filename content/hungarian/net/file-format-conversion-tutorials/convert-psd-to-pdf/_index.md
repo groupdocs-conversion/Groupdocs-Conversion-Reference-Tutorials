@@ -5,8 +5,8 @@
 "title": "PSD konvertálása PDF-be"
 "url": "/hu/net/file-format-conversion-tutorials/convert-psd-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # PSD konvertálása PDF-be
 
 ## Bevezetés

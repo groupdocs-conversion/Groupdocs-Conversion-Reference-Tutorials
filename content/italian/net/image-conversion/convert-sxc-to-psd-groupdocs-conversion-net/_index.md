@@ -4,8 +4,8 @@
 "title": "Converti StarOffice Calc (SXC) in Photoshop (PSD) utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/image-conversion/convert-sxc-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converti i fogli di calcolo di StarOffice Calc (SXC) in documenti Adobe Photoshop (PSD) con GroupDocs.Conversion per .NET
 
 ## Introduzione

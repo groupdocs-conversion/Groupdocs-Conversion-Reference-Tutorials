@@ -4,8 +4,8 @@
 "title": "دليل Master GroupDocs.Conversion Java الشامل لتحويل المستندات في تطبيقات Java"
 "url": "/ar/java/document-operations/groupdocs-conversion-java-master-document-conversion/"
 "weight": 1
+type: docs
 ---
-
 # إتقان GroupDocs.Conversion في جافا: إطلاق العنان لإمكانات تحويل المستندات
 
 ## مقدمة

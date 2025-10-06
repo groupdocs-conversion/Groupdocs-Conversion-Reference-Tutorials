@@ -4,8 +4,8 @@
 "title": "Convertir XLT a CSV usando GroupDocs.Conversion en .NET&#58; una guía paso a paso"
 "url": "/es/net/spreadsheet-formats-features/convert-xlt-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir archivos XLT a CSV con GroupDocs.Conversion en .NET: guía paso a paso
 
 ## Introducción

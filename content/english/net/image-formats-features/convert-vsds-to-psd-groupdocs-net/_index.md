@@ -8,10 +8,8 @@ keywords:
 - VSD to PSD conversion
 - GroupDocs.Conversion for .NET
 - automate document conversion
-
+type: docs
 ---
-
-
 # Automate VSD to PSD Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

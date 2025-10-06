@@ -4,8 +4,8 @@
 "title": "แปลง PPSM เป็น JPG โดยใช้ GroupDocs.Conversion ใน .NET พร้อมคำแนะนำทีละขั้นตอน"
 "url": "/th/net/image-conversion/convert-ppsm-to-jpg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # แปลงไฟล์ PPSM เป็น JPG โดยใช้ GroupDocs.Conversion ใน .NET
 
 ## การแนะนำ

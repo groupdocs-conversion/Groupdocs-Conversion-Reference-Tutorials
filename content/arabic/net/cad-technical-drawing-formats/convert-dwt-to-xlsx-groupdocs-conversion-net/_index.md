@@ -4,8 +4,8 @@
 "title": "كيفية تحويل DWT إلى XLSX باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/cad-technical-drawing-formats/convert-dwt-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل DWT إلى XLSX باستخدام GroupDocs.Conversion لـ .NET: دليل شامل
 
 ## مقدمة

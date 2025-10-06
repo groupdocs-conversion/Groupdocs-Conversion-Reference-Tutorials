@@ -5,8 +5,8 @@
 "title": "PCLをPDFに変換する"
 "url": "/ja/net/pdf-conversion/convert-pcl-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # PCLをPDFに変換する
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "Převod MPT do XLS pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/spreadsheet-conversion/convert-mpt-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů MPT do XLS pomocí GroupDocs.Conversion pro .NET
 
 Vítejte v tomto komplexním průvodci převodem souborů šablon Microsoft Project (.mpt) do binárního formátu Excelu (.xls) pomocí výkonné knihovny GroupDocs.Conversion pro .NET. Tento proces je klíčový pro ty, kteří potřebují manipulovat s daty projektu v rámci všestranného prostředí Excelu.

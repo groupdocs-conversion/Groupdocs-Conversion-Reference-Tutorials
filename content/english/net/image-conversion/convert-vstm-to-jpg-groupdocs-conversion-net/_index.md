@@ -8,10 +8,8 @@ keywords:
 - convert VSTM to JPG
 - GroupDocs.Conversion .NET
 - document conversion tutorial
-
+type: docs
 ---
-
-
 # Convert VSTM Files to JPG with GroupDocs.Conversion .NET
 
 ## Introduction

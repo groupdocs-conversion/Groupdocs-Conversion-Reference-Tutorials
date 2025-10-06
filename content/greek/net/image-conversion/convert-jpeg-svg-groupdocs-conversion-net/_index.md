@@ -4,8 +4,8 @@
 "title": "Πώς να μετατρέψετε JPEG σε SVG χρησιμοποιώντας το GroupDocs.Conversion για .NET™ - Οδηγός βήμα προς βήμα"
 "url": "/el/net/image-conversion/convert-jpeg-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε JPEG σε SVG χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

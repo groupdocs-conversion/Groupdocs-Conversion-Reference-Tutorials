@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion का उपयोग करके IGS को SVG में कनवर्ट करें .NET'#58; CAD पेशेवरों के लिए एक चरण-दर-चरण मार्गदर्शिका"
 "url": "/hi/net/cad-technical-drawing-formats/convert-igs-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET का उपयोग करके IGS फ़ाइलों को SVG में परिवर्तित करें
 
 ## परिचय

@@ -8,10 +8,8 @@ keywords:
 - convert STL files
 - GroupDocs.Conversion for .NET
 - STL to JPG conversion
-
+type: docs
 ---
-
-
 # Convert STL Files to JPG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

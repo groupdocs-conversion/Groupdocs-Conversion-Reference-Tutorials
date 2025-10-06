@@ -4,8 +4,8 @@
 "title": "Jak převést soubory XLS do PDF pomocí GroupDocs.Conversion pro .NET – podrobný návod"
 "url": "/cs/net/pdf-conversion/convert-xls-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory XLS do PDF pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

@@ -8,10 +8,8 @@ keywords:
 - Convert PNG to XLSX
 - GroupDocs.Conversion .NET tutorial
 - .NET image conversion
-
+type: docs
 ---
-
-
 # Convert PNG to XLSX in .NET with GroupDocs.Conversion: A Step-by-Step Guide
 
 ## Introduction

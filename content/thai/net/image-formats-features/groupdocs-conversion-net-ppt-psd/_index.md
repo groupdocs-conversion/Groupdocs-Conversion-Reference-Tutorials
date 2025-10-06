@@ -4,8 +4,8 @@
 "title": "แปลง PowerPoint เป็น Photoshop&#58; Master GroupDocs.Conversion สำหรับการแปลง .NET PPT เป็น PSD"
 "url": "/th/net/image-formats-features/groupdocs-conversion-net-ppt-psd/"
 "weight": 1
+type: docs
 ---
-
 # แปลง PowerPoint เป็น Photoshop: Master GroupDocs.Conversion สำหรับการแปลง .NET PPT เป็น PSD
 
 ## การแนะนำ

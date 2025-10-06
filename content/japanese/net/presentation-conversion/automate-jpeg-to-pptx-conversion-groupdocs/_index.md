@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用して .NET で JPEG から PPTX への変換を自動化する包括的なガイド"
 "url": "/ja/net/presentation-conversion/automate-jpeg-to-pptx-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion を使用して .NET で JPEG から PPTX への変換を自動化する
 
 JPEG画像をPowerPointプレゼンテーションに変換するプロセスを効率化したいとお考えですか？このタスクの自動化は、ワークフローの強化を目指す企業にとって非常に重要です。視覚的に魅力的なプレゼンテーションの作成やデータ共有の簡素化など、JPEG画像をPPTXに変換することは、信頼性の高いソリューションを必要とする一般的な要件です。 **GroupDocs.Conversion for .NET**—生活を簡素化するために設計された強力なライブラリです。

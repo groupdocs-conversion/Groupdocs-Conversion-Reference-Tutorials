@@ -5,8 +5,8 @@
 "title": "將 POTM 轉換為 PDF"
 "url": "/zh-hant/net/pdf-conversion/convert-potm-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # 將 POTM 轉換為 PDF
 
 ## 介紹

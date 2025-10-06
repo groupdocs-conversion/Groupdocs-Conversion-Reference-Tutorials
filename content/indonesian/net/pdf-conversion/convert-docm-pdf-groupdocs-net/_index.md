@@ -4,8 +4,8 @@
 "title": "Panduan Lengkap untuk Mengonversi DOCM ke PDF Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/pdf-conversion/convert-docm-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Panduan Lengkap untuk Mengonversi DOCM ke PDF Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

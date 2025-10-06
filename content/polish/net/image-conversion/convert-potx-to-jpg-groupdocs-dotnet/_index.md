@@ -4,8 +4,8 @@
 "title": "Konwersja POTX do JPG w .NET przy użyciu biblioteki GroupDocs.Conversion"
 "url": "/pl/net/image-conversion/convert-potx-to-jpg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj pliki POTX do JPG za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

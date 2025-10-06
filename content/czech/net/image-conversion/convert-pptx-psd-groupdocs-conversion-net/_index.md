@@ -4,8 +4,8 @@
 "title": "Jak převést PPTX do PSD pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/image-conversion/convert-pptx-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést PPTX do PSD pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

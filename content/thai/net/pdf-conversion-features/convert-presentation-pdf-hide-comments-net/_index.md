@@ -4,8 +4,8 @@
 "title": "ซ่อนความคิดเห็นใน PDF&#58; แปลง PPT เป็น PDF ด้วย GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/pdf-conversion-features/convert-presentation-pdf-hide-comments-net/"
 "weight": 1
+type: docs
 ---
-
 # ซ่อนความคิดเห็นใน PDF: แปลง PPT เป็น PDF ด้วย GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

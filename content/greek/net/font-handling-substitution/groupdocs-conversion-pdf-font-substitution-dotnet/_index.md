@@ -4,8 +4,8 @@
 "title": "Αντικατάσταση γραμματοσειρών PDF Master σε .NET με το GroupDocs.Conversion&#58; Ένας ολοκληρωμένος οδηγός"
 "url": "/el/net/font-handling-substitution/groupdocs-conversion-pdf-font-substitution-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Αντικατάσταση γραμματοσειράς Master PDF σε .NET με το GroupDocs.Conversion
 
 Η διασφάλιση της συνεπούς τυπογραφίας κατά τη μετατροπή εγγράφων είναι ζωτικής σημασίας. Αυτός ο ολοκληρωμένος οδηγός δείχνει τη χρήση του GroupDocs.Conversion για .NET για την αποτελεσματική διαχείριση των αντικαταστάσεων γραμματοσειρών κατά τη μετατροπή εγγράφων σε PDF.

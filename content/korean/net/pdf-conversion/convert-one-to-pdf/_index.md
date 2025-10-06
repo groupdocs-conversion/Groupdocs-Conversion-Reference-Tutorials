@@ -5,8 +5,8 @@
 "title": "ONE을 PDF로 변환"
 "url": "/ko/net/pdf-conversion/convert-one-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # ONE을 PDF로 변환
 
 ## 소개

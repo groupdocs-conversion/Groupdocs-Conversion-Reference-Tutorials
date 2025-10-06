@@ -4,8 +4,8 @@
 "title": "Konvertera EMZ till PDF med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/pdf-conversion/convert-emz-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera EMZ till PDF med GroupDocs.Conversion för .NET: En steg-för-steg-guide
 
 ## Introduktion

@@ -4,8 +4,8 @@
 "title": "C#でPNGをPDFに変換する方法 - GroupDocs.Conversion for .NETを使った包括的なガイド"
 "url": "/ja/net/pdf-conversion/convert-png-to-pdf-csharp-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # C#でPNGをPDFに変換する：GroupDocs.Conversion for .NETの完全ガイド
 
 ## 導入

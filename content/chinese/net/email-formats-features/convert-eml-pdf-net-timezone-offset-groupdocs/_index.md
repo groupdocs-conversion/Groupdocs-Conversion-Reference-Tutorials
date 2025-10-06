@@ -4,8 +4,8 @@
 "title": "使用时区偏移在 .NET 中将 EML 转换为 PDF — 使用 GroupDocs.Conversion 的综合指南"
 "url": "/zh/net/email-formats-features/convert-eml-pdf-net-timezone-offset-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用时区偏移在 .NET 中将 EML 转换为 PDF：使用 GroupDocs.Conversion 的综合指南
 ## 介绍
 需要一种可靠的方法将电子邮件文档 (EML) 转换为 PDF，同时保留准确的时区信息？无论是用于归档、共享还是合规性，本教程都将指导您使用强大的 GroupDocs.Conversion for .NET 库。您将学习如何轻松实现时区偏移等高级功能。

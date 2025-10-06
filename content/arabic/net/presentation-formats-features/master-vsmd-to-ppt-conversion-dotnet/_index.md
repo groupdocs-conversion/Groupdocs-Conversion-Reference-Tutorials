@@ -4,8 +4,8 @@
 "title": "إتقان تحويل VSDM إلى PPT في .NET باستخدام GroupDocs.Conversion"
 "url": "/ar/net/presentation-formats-features/master-vsmd-to-ppt-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # إتقان تحويل VSDM إلى PPT في .NET باستخدام GroupDocs.Conversion
 
 في عالمنا الرقمي اليوم، يُعدّ تحويل الملفات بسلاسة أمرًا بالغ الأهمية للشركات والمطورين على حد سواء. يُمكن لتحويل مخططات Visio المُفعّلة بالماكرو (VSDM) إلى عروض PowerPoint التقديمية تبسيط سير العمل بشكل كبير وتعزيز التعاون. يُرشدك هذا البرنامج التعليمي لإتقان هذه المهمة باستخدام GroupDocs.Conversion لـ .NET.

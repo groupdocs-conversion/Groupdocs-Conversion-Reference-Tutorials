@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion - Tutorial introduttivi e sulle licenze per sviluppatori .NET"
 "url": "/it/net/getting-started-licensing/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion - Tutorial introduttivi e sulle licenze per sviluppatori .NET
 
 Inizia il tuo percorso con questi tutorial essenziali su GroupDocs.Conversion che ti guideranno attraverso l'installazione, la configurazione delle licenze e l'esecuzione delle tue prime conversioni di documenti in .NET. Le nostre guide per principianti mostrano come configurare l'ambiente di sviluppo, inizializzare la libreria GroupDocs.Conversion, configurare le licenze da file o stream, impostare le licenze a consumo e implementare operazioni di conversione di base utilizzando API standard e Fluent. Segui questi tutorial per padroneggiare rapidamente le basi e prepararti per attività di conversione di documenti più avanzate nelle tue applicazioni .NET.

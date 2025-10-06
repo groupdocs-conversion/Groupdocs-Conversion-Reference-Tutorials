@@ -4,8 +4,8 @@
 "title": "Μετατροπή DOCX που προστατεύεται με κωδικό πρόσβασης σε PPT χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/working-with-secure-documents/convert-docx-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή DOCX που προστατεύεται με κωδικό πρόσβασης σε PPT χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

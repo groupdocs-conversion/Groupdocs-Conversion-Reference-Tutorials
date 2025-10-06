@@ -4,8 +4,8 @@
 "title": "MBOX konvertálása PSD-vé a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/image-conversion/convert-mbox-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MBOX konvertálása PSD-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

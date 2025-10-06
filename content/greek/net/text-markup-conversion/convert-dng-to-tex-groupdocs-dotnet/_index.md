@@ -4,8 +4,8 @@
 "title": "Μετατροπή DNG σε TEX με το GroupDocs.Conversion .NET™ Οδηγός για προγραμματιστές"
 "url": "/el/net/text-markup-conversion/convert-dng-to-tex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή DNG σε TEX χρησιμοποιώντας το GroupDocs.Conversion .NET: Οδηγός για προγραμματιστές
 
 ## Εισαγωγή

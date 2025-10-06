@@ -5,8 +5,8 @@
 "title": "Konversi Pesan Email EMLX Apple Mail ke PDF"
 "url": "/id/net/convert-files-to-pdf/convert-emlx-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # Konversi Pesan Email EMLX Apple Mail ke PDF
 
 ## Perkenalan

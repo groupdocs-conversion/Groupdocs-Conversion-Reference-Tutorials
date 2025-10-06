@@ -4,8 +4,8 @@
 "title": "كيفية استخراج بيانات PDF الوصفية باستخدام GroupDocs.Conversion في Java"
 "url": "/ar/java/pdf-conversion/extract-pdf-metadata-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # كيفية استخراج بيانات PDF الوصفية باستخدام GroupDocs.Conversion في Java
 
 ## مقدمة

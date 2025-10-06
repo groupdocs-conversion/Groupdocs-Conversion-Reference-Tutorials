@@ -4,8 +4,8 @@
 "title": "XLT konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/html-conversion/convert-xlt-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # XLT fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

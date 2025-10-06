@@ -8,10 +8,8 @@ keywords:
 - JLS to PSD conversion
 - GroupDocs.Conversion for .NET
 - file format conversion
-
+type: docs
 ---
-
-
 # Convert JLS to PSD in .NET Using GroupDocs.Conversion: A Step-by-Step Guide
 
 ## Introduction

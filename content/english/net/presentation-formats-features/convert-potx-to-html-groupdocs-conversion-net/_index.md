@@ -8,10 +8,8 @@ keywords:
 - Convert POTX to HTML
 - GroupDocs.Conversion for .NET
 - C# PowerPoint conversion
-
+type: docs
 ---
-
-
 # How to Convert POTX Files to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

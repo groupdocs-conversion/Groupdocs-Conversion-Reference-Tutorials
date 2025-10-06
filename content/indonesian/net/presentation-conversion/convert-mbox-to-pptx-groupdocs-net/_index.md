@@ -4,8 +4,8 @@
 "title": "Konversi MBOX ke PPTX Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Langkah demi Langkah"
 "url": "/id/net/presentation-conversion/convert-mbox-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi File MBOX ke Presentasi PowerPoint dengan GroupDocs.Conversion untuk .NET
 
 Dalam lanskap digital saat ini, pengelolaan data email secara efisien sangat penting bagi banyak profesional dan organisasi. File MBOX sering digunakan untuk mengarsipkan email, tetapi mengonversi data ini ke dalam format yang menarik secara visual seperti PowerPoint dapat meningkatkan komunikasi dan presentasi secara signifikan. Tutorial ini akan memandu Anda melalui proses mengonversi file MBOX ke PPTX menggunakan GroupDocs.Conversion for .NET.

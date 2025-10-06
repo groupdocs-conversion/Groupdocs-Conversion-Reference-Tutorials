@@ -4,8 +4,8 @@
 "title": "แปลง XPS เป็น PDF และรูปแบบอื่น ๆ โดยใช้ GroupDocs.Conversion .NET"
 "url": "/th/net/conversion-utilities-information/groupdocs-conversion-net-xps-file-conversion/"
 "weight": 1
+type: docs
 ---
-
 # แปลง XPS เป็น PDF และรูปแบบอื่น ๆ โดยใช้ GroupDocs.Conversion .NET
 
 ## การแนะนำ

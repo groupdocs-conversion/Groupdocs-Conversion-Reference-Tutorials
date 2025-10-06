@@ -5,8 +5,8 @@
 "title": "Μετατροπή MPT σε PDF"
 "url": "/el/net/document-conversion/convert-mpt-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Μετατροπή MPT σε PDF
 
 ## Εισαγωγή

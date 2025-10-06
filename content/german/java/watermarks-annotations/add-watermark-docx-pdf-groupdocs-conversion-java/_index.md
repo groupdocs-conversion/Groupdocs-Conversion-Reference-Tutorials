@@ -4,8 +4,8 @@
 "title": "So fügen Sie DOCX ein Wasserzeichen hinzu und konvertieren es mit GroupDocs.Conversion für Java in PDF"
 "url": "/de/java/watermarks-annotations/add-watermark-docx-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # So fügen Sie Ihrem Dokument mit GroupDocs.Conversion für Java ein Wasserzeichen hinzu
 
 In der heutigen digitalen Welt ist der Schutz Ihrer Dokumente vor unbefugter Nutzung unerlässlich. Ob Sie vertrauliche Informationen weitergeben oder Ihre Dokumente einfach mit einem Branding versehen möchten, ein Wasserzeichen kann eine effektive Lösung sein. In diesem Tutorial führen wir Sie durch die Verwendung von **GroupDocs.Conversion für Java** um beim Konvertieren einer DOCX-Datei in PDF ein Wasserzeichen hinzuzufügen.

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET ile GIF'i SVG'ye Nasıl Dönüştürebilirsiniz? Kapsamlı Bir Kılavuz"
 "url": "/tr/net/image-conversion/convert-gif-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion ile GIF'i SVG'ye Nasıl Dönüştürebilirsiniz
 
 ## giriiş

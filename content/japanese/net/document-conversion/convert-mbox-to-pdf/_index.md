@@ -5,8 +5,8 @@
 "title": "MBOXをPDFに変換する"
 "url": "/ja/net/document-conversion/convert-mbox-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # MBOXをPDFに変換する
 
 ## 導入

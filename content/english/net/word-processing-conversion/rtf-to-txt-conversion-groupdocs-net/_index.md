@@ -8,10 +8,8 @@ keywords:
 - RTF to TXT conversion
 - GroupDocs.Conversion for .NET
 - document processing with .NET
-
+type: docs
 ---
-
-
 # Convert RTF to TXT with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

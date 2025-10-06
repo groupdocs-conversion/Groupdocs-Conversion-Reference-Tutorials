@@ -4,8 +4,8 @@
 "title": ".NET' अंतिम गाइड के लिए GroupDocs.Conversion का उपयोग करके TEX को PSD में परिवर्तित करें"
 "url": "/hi/net/image-conversion/convert-tex-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके TEX को PSD में परिवर्तित करें: एक व्यापक मार्गदर्शिका
 
 ## परिचय

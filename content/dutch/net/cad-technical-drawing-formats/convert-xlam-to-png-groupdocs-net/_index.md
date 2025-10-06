@@ -4,8 +4,8 @@
 "title": "Converteer XLAM efficiënt naar PNG met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/cad-technical-drawing-formats/convert-xlam-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # XLAM-bestanden naar PNG converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 將 JPEG 無損 (JLS) 映像轉換為 Word 文件 (.doc)"
 "url": "/zh-hant/net/word-processing-formats-features/convert-jls-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將 JLS 轉換為 DOC
 
 ## 介紹

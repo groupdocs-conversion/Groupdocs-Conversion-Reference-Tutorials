@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 암호로 보호된 Word 문서를 PDF로 변환"
 "url": "/ko/net/working-with-secure-documents/convert-password-protected-docs-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 암호로 보호된 Word 문서를 PDF로 로드하고 변환하는 방법
 
 ## 소개

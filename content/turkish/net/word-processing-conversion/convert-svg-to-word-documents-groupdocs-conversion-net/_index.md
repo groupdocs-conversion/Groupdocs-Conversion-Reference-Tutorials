@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak Verimli SVG'den Word Belgesine Dönüştürme"
 "url": "/tr/net/word-processing-conversion/convert-svg-to-word-documents-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak Verimli SVG'den Word Belgesine Dönüştürme
 
 ## giriiş

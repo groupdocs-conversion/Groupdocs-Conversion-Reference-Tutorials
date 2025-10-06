@@ -5,8 +5,8 @@
 "title": "Konversi Gambar Terkompresi J2C JPEG-LS ke PDF"
 "url": "/id/net/convert-files-to-pdf/convert-j2c-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # Konversi Gambar Terkompresi J2C JPEG-LS ke PDF
 
 ## Perkenalan

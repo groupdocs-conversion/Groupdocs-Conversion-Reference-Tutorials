@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 掌握 VSDX 到 TXT 的转换"
 "url": "/zh/net/cad-technical-drawing-formats/convert-vsdx-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 掌握 VSDX 到 TXT 的转换
 
 ## 介绍

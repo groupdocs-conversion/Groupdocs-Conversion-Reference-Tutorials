@@ -5,8 +5,8 @@
 "title": "Μετατροπή διανυσματικών γραφικών CDR σε PDF"
 "url": "/el/net/file-conversion-to-pdf/convert-cdr-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # Μετατροπή διανυσματικών γραφικών CDR σε PDF
 
 ## Εισαγωγή

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Library를 활용한 .NET 이메일 첨부 파일 변환 마스터하기&#58; 종합 가이드"
 "url": "/ko/net/email-formats-features/net-email-attachment-conversion-groupdocs-guide/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion 라이브러리를 사용한 .NET 이메일 첨부 파일 변환 마스터하기
 
 ## 소개

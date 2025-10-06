@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して LaTeX を HTML に変換する手順ガイド"
 "url": "/ja/net/html-conversion/convert-tex-to-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET で LaTeX を HTML に変換する: 総合ガイド
 
 ## 導入

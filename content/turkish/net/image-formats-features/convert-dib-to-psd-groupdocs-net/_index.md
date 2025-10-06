@@ -4,8 +4,8 @@
 "title": "DIB Dosyalarını GroupDocs.Conversion for .NET Kullanarak PSD'ye Nasıl Dönüştürebilirsiniz? Adım Adım Kılavuz"
 "url": "/tr/net/image-formats-features/convert-dib-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DIB Dosyalarını GroupDocs.Conversion for .NET Kullanarak PSD'ye Nasıl Dönüştürebilirsiniz: Adım Adım Kılavuz
 
 ## giriiş

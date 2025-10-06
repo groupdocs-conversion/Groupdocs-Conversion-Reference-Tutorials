@@ -4,8 +4,8 @@
 "title": "Преобразование Markdown в PowerPoint с помощью GroupDocs для .NET&#58; Пошаговое руководство"
 "url": "/ru/net/presentation-conversion/convert-markdown-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте Markdown в PowerPoint с помощью GroupDocs для .NET
 
 ## Введение

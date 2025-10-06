@@ -4,8 +4,8 @@
 "title": "Konvertera TXT till SVG med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/image-conversion/convert-txt-to-svg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar textfiler till SVG med GroupDocs.Conversion för .NET: En omfattande guide
 
 ## Introduktion

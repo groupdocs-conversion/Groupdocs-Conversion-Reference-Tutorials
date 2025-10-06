@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET を使用してスプレッドシートを効率的に VSSM から XLSX に変換する"
 "url": "/ja/net/spreadsheet-conversion/convert-vssm-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET で VSSM を XLSX に変換する
 
 ## 導入

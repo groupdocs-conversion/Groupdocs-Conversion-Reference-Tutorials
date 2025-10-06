@@ -4,8 +4,8 @@
 "title": "CGM-bestanden converteren naar PowerPoint (PPT) met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/presentation-formats-features/convert-cgm-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # CGM-bestanden converteren naar PowerPoint-presentaties met GroupDocs.Conversion voor .NET
 
 ## Invoering

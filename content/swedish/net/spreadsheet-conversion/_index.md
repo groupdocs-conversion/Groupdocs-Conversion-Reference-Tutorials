@@ -3,8 +3,8 @@
 "title": "Handledningar för kalkylbladskonvertering för GroupDocs.Conversion .NET"
 "url": "/sv/net/spreadsheet-conversion/"
 "weight": 30
+type: docs
 ---
-
 # Handledningar för kalkylbladskonvertering för GroupDocs.Conversion .NET
 
 Lär dig hur du omvandlar dokument till redigerbara kalkylbladsformat med våra GroupDocs.Conversion .NET-handledningar. Dessa detaljerade guider visar hur du konverterar från PDF, Word, HTML, bilder och andra format till XLS, XLSX, CSV, ODS med mera. Upptäck tekniker för att bevara beräkningar och formler, underhålla cellformatering, hantera dokument med flera ark, hantera sidhuvuden och sidfot samt kontrollera datatypskonverteringar. Varje handledning innehåller exempel på fungerande C#-kod som visar hur du skapar kalkylbladsdokument som korrekt representerar källinnehållet samtidigt som de möjliggör dataanalys och manipulation.

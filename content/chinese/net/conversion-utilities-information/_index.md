@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 的转换实用程序功能和信息教程"
 "url": "/zh/net/conversion-utilities-information/"
 "weight": 25
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 的转换实用程序功能和信息教程
 
 通过我们面向 .NET 开发人员的全面 GroupDocs.Conversion 教程，探索实用的实用功能。这些分步指南演示了如何检索源文档信息、确定库支持的所有可能的转换、发现特定格式的转换功能、获取所需目标格式的转换选项、检索源文档的默认加载选项、检查文档属性以及评估转换的可行性。每个教程都包含实用的 C# 代码示例，可帮助您高效地使用这些实用功能，从而帮助您构建更智能的应用程序，以便对文档处理选项和功能做出明智的决策。

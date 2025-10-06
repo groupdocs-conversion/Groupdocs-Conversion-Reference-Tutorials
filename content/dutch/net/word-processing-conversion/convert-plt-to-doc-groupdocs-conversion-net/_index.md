@@ -4,8 +4,8 @@
 "title": "Stapsgewijze handleiding voor het converteren van PLT naar DOC met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/word-processing-conversion/convert-plt-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PLT naar DOC converteren: stapsgewijze handleiding met GroupDocs.Conversion voor .NET
 
 ## Invoering

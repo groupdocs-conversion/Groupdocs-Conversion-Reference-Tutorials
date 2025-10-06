@@ -5,8 +5,8 @@
 "title": "Convertir archivos de datos CSV a PDF"
 "url": "/es/net/file-conversion-to-pdf/convert-csv-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # Convertir archivos de datos CSV a PDF
 
 ## Introducción

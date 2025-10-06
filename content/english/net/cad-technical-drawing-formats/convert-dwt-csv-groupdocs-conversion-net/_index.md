@@ -8,10 +8,8 @@ keywords:
 - convert DWT to CSV
 - GroupDocs.Conversion for .NET
 - automate document conversion
-
+type: docs
 ---
-
-
 # How to Convert DWT Files to CSV Using GroupDocs.Conversion for .NET
 
 ## Introduction

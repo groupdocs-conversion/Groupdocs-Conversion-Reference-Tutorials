@@ -4,8 +4,8 @@
 "title": "Jak implementovat vlastní ukládání do mezipaměti v Javě pomocí Redis a GroupDocs.Conversion"
 "url": "/cs/java/cache-management/custom-cache-redis-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Jak implementovat vlastní ukládání do mezipaměti v Javě pomocí Redis a GroupDocs.Conversion
 
 ## Zavedení

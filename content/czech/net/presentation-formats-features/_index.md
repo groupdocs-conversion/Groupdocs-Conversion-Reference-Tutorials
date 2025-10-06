@@ -3,8 +3,8 @@
 "title": "Výukové programy k formátům a funkcím prezentací pro GroupDocs.Conversion .NET"
 "url": "/cs/net/presentation-formats-features/"
 "weight": 12
+type: docs
 ---
-
 # Výukové programy k formátům a funkcím prezentací pro GroupDocs.Conversion .NET
 
 Naše tutoriály zaměřené na prezentace vám ukážou, jak pracovat s dokumenty založenými na snímcích pomocí nástroje GroupDocs.Conversion v .NET. Tyto praktické průvodce vás provedou převodem mezi formáty PowerPointu, skrytím komentářů během převodu, zahrnutím nebo vyloučením skrytých snímků, určením možností nahrazování písem, zachováním animací a přechodů, údržbou poznámek řečníka, zpracováním vložených médií a zajištěním konzistence rozvržení v různých formátech prezentací. Každý tutoriál obsahuje podrobné příklady kódu C# pro scénáře převodu prezentací, které vám pomohou vytvářet aplikace, které produkují vysoce kvalitní převody se zachovanými vizuálními prvky a interaktivními funkcemi.

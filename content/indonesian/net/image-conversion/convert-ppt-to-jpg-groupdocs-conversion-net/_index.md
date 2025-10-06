@@ -4,8 +4,8 @@
 "title": "Konversi PPT ke JPG Menggunakan GroupDocs.Conversion for .NET&#58; Panduan Langkah demi Langkah"
 "url": "/id/net/image-conversion/convert-ppt-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi PPT ke JPG Menggunakan GroupDocs.Conversion untuk .NET: Panduan Langkah demi Langkah
 
 ## Perkenalan

@@ -5,8 +5,8 @@
 "title": "JPC'yi PDF'ye dönüştür"
 "url": "/tr/net/document-conversion/convert-jpc-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # JPC'yi PDF'ye dönüştür
 
 ## giriiş

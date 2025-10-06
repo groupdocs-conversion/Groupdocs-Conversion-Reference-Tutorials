@@ -4,8 +4,8 @@
 "title": "PowerPoint konvertálása LaTeX-re a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/text-markup-conversion/convert-powerpoint-to-latex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # PowerPoint-bemutatók konvertálása LaTeX-re a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

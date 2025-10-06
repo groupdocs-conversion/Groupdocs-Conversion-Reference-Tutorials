@@ -5,8 +5,8 @@
 "title": "DJVU दस्तावेज़ों को PDF में बदलें"
 "url": "/hi/net/file-conversion-to-pdf/convert-djvu-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # DJVU दस्तावेज़ों को PDF में बदलें
 
 ## परिचय

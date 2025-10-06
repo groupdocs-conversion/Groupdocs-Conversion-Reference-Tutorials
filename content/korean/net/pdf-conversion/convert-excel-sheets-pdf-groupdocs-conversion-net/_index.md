@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 특정 Excel 시트를 PDF로 변환 | 간단한 단계별 가이드"
 "url": "/ko/net/pdf-conversion/convert-excel-sheets-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 특정 Excel 시트를 PDF로 변환
 
 ## 소개

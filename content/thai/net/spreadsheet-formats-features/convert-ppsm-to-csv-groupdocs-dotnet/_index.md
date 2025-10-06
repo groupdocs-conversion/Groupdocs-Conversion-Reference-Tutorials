@@ -4,8 +4,8 @@
 "title": "วิธีการแปลงไฟล์ PowerPoint Slide Show (.PPSM) เป็น CSV โดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/spreadsheet-formats-features/convert-ppsm-to-csv-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการแปลงไฟล์ PowerPoint Slide Show (.PPSM) เป็น CSV โดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

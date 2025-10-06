@@ -5,8 +5,8 @@
 "title": "แปลง RTF เป็น PDF"
 "url": "/th/net/file-format-conversion-tutorials/convert-rtf-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # แปลง RTF เป็น PDF
 
 ## การแนะนำ

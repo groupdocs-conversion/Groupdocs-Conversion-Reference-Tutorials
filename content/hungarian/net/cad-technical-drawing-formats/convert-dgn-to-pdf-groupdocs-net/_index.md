@@ -4,8 +4,8 @@
 "title": "Hatékony DGN-ből PDF-be konvertálás a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/cad-technical-drawing-formats/convert-dgn-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony DGN-ből PDF-be konvertálás a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

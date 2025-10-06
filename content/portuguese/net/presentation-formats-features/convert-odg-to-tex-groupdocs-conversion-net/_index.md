@@ -4,8 +4,8 @@
 "title": "Converter ODG para TEX usando GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/presentation-formats-features/convert-odg-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converter ODG para TEX usando GroupDocs.Conversion para .NET: um guia completo
 
 ## Introdução

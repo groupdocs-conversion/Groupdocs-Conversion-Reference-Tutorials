@@ -4,8 +4,8 @@
 "title": "PSD'yi GroupDocs ile Kolayca DOCX'e Dönüştürün. .NET İçin Dönüştürme&#58; Eksiksiz Bir Kılavuz"
 "url": "/tr/net/word-processing-conversion/convert-psd-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PSD'yi GroupDocs.Conversion for .NET ile DOCX'e dönüştürün
 
 ## giriiş

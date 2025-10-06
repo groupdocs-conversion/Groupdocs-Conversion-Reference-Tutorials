@@ -5,8 +5,8 @@
 "title": "OST를 PDF로 변환"
 "url": "/ko/net/pdf-conversion/convert-ost-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # OST를 PDF로 변환
 
 ## 소개

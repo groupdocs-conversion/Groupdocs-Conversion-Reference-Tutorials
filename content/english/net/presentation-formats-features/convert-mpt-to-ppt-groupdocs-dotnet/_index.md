@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert MPT Files to PPT Using GroupDocs.Conversion for .NET
 
 ## Introduction

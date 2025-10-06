@@ -5,8 +5,8 @@
 "title": "PPTM konvertálása PDF-be"
 "url": "/hu/net/pdf-conversion/convert-pptm-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # PPTM konvertálása PDF-be
 
 ## Bevezetés

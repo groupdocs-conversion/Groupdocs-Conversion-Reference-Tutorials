@@ -5,8 +5,8 @@
 "title": "Преобразование PDF-файлов"
 "url": "/ru/net/pdf-conversion/"
 "weight": 25
+type: docs
 ---
-
 # Преобразование PDF-файлов
 
 ## Введение

@@ -3,8 +3,8 @@
 "title": "Hướng dẫn về tính năng và chuyển đổi PDF cho GroupDocs.Conversion .NET"
 "url": "/vi/net/pdf-conversion-features/"
 "weight": 9
+type: docs
 ---
-
 # Hướng dẫn về tính năng và chuyển đổi PDF cho GroupDocs.Conversion .NET
 
 Các hướng dẫn tập trung vào PDF của chúng tôi cung cấp hướng dẫn toàn diện để làm việc với các tài liệu PDF trong các ứng dụng .NET. Các hướng dẫn thực tế này trình bày cách chuyển đổi nhiều định dạng khác nhau sang PDF, chuyển đổi PDF sang các định dạng khác, làm phẳng các trường biểu mẫu, ẩn chú thích, xóa các tệp nhúng, tối ưu hóa cài đặt nén PDF, kiểm soát sự tuân thủ PDF/A, quản lý quyền tài liệu và bảo toàn các siêu liên kết trong quá trình chuyển đổi. Mỗi hướng dẫn bao gồm các ví dụ mã C# hoàn chỉnh cho các tình huống chuyển đổi PDF, giúp bạn xây dựng các ứng dụng tận dụng toàn bộ khả năng của định dạng PDF trong khi vẫn duy trì độ trung thực của tài liệu.

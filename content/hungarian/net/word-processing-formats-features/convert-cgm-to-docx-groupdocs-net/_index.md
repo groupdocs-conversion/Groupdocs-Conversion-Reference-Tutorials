@@ -4,8 +4,8 @@
 "title": "CGM DOCX formátumba konvertálása GroupDocs használatával C##-ben&#58; Átfogó útmutató"
 "url": "/hu/net/word-processing-formats-features/convert-cgm-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # CGM DOCX formátumba konvertálása GroupDocs használatával C#-ban: A teljes útmutató
 
 ## Bevezetés

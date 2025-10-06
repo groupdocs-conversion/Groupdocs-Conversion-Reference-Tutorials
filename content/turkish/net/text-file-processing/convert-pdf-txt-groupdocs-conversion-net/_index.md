@@ -4,8 +4,8 @@
 "title": "PDF'yi GroupDocs.Conversion for .NET Kullanarak TXT'ye Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/text-file-processing/convert-pdf-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PDF'yi GroupDocs.Conversion for .NET ile TXT'ye dönüştürün
 
 ## giriiş

@@ -8,10 +8,8 @@ keywords:
 - .DOTM to TXT conversion
 - GroupDocs.Conversion .NET library
 - convert Word templates
-
+type: docs
 ---
-
-
 # How to Convert .DOTM Files to TXT Using GroupDocs.Conversion for .NET
 
 ## Introduction

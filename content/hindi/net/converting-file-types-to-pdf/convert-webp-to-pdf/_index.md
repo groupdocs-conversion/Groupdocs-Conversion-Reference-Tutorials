@@ -5,8 +5,8 @@
 "title": "WebP को PDF में बदलें"
 "url": "/hi/net/converting-file-types-to-pdf/convert-webp-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # WebP को PDF में बदलें
 
 ## परिचय

@@ -4,8 +4,8 @@
 "title": "DOCX-TEX konvertálás automatizálása a GroupDocs.Conversion for .NET használatával - Egyszerű útmutató"
 "url": "/hu/net/word-processing-formats-features/automate-docx-to-tex-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DOCX-TEX konverzió automatizálása a GroupDocs for .NET segítségével
 
 ## Bevezetés

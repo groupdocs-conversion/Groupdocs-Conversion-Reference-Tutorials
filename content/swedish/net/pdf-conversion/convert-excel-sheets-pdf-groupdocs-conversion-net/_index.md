@@ -4,8 +4,8 @@
 "title": "Konvertera specifika Excel-ark till PDF med GroupDocs.Conversion för .NET | Enkel steg-för-steg-guide"
 "url": "/sv/net/pdf-conversion/convert-excel-sheets-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera specifika Excel-ark till PDF med GroupDocs.Conversion för .NET
 
 ## Introduktion

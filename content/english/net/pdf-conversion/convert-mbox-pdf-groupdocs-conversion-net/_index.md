@@ -8,10 +8,8 @@ keywords:
 - MBOX to PDF conversion
 - GroupDocs.Conversion .NET
 - PDF Conversion
-
+type: docs
 ---
-
-
 # How to Convert MBOX Files to PDF Using GroupDocs.Conversion for .NET
 
 ## Introduction

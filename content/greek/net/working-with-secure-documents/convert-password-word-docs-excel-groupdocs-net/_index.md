@@ -4,8 +4,8 @@
 "title": "Μετατροπή εγγράφων Word που προστατεύονται με κωδικό πρόσβασης σε Excel χρησιμοποιώντας το GroupDocs για .NET"
 "url": "/el/net/working-with-secure-documents/convert-password-word-docs-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατρέψτε έγγραφα Word που προστατεύονται με κωδικό πρόσβασης σε Excel με το GroupDocs για .NET
 
 ## Εισαγωγή

@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Effortlessly convert various file formats to PDF with GroupDocs.Conversion for .NET tutorials. Enhance document management seamlessly.
 weight: 23
 url: /net/document-conversion/
+type: docs
 ---
-
 # Document Conversion
 
 ## Introduction

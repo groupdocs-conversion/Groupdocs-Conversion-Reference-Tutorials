@@ -4,8 +4,8 @@
 "title": "Cách thiết lập và áp dụng giấy phép cho GroupDocs.Conversion .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/getting-started-licensing/groupdocs-conversion-net-license-setup/"
 "weight": 1
+type: docs
 ---
-
 # Hướng dẫn toàn diện: Thiết lập giấy phép cho GroupDocs.Conversion .NET
 
 ## Giới thiệu

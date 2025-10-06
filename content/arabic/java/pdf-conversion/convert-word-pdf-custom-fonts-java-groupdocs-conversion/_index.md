@@ -4,8 +4,8 @@
 "title": "تحويل Word إلى PDF باستخدام الخطوط المخصصة في Java - دليل كامل باستخدام GroupDocs.Conversion"
 "url": "/ar/java/pdf-conversion/convert-word-pdf-custom-fonts-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # تحويل مستندات Word إلى PDF باستخدام الخطوط المخصصة في Java: دليل كامل باستخدام GroupDocs.Conversion
 
 ## مقدمة

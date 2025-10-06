@@ -4,8 +4,8 @@
 "title": "DWF-bestanden converteren naar PowerPoint-presentaties met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/presentation-formats-features/convert-dwf-to-ppt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # DWF-bestanden converteren naar PowerPoint-presentaties met GroupDocs.Conversion voor .NET
 
 ## Invoering

@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Aan de slag-tutorials voor Java-ontwikkelaars"
 "url": "/nl/java/getting-started/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Aan de slag-tutorials voor Java-ontwikkelaars
 
 Begin uw reis met deze essentiële GroupDocs.Conversion-tutorials die u begeleiden bij de installatie, licentieconfiguratie en het uitvoeren van uw eerste documentconversies in Java. Onze beginnersvriendelijke handleidingen laten zien hoe u uw ontwikkelomgeving instelt, de GroupDocs.Conversion-bibliotheek initialiseert en fundamentele conversiebewerkingen uitvoert. Volg deze tutorials om snel de basis onder de knie te krijgen en u voor te bereiden op geavanceerdere documentconversietaken in uw Java-applicaties.

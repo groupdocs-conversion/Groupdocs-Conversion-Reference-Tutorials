@@ -4,8 +4,8 @@
 "title": "Konwersja IGS do XLSX przy użyciu GroupDocs.Conversion dla .NET&#58; Kompleksowy przewodnik"
 "url": "/pl/net/cad-technical-drawing-formats/convert-igs-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja IGS do XLSX za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

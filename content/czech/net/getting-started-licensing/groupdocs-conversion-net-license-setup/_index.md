@@ -4,8 +4,8 @@
 "title": "Jak nastavit a použít licenci pro GroupDocs.Conversion .NET – Podrobný návod"
 "url": "/cs/net/getting-started-licensing/groupdocs-conversion-net-license-setup/"
 "weight": 1
+type: docs
 ---
-
 # Komplexní tutoriál: Nastavení licence pro GroupDocs.Conversion .NET
 
 ## Zavedení

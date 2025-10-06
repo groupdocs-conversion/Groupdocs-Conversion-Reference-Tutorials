@@ -3,8 +3,8 @@
 "title": "Výukové programy pro převod prezentací v GroupDocs.Conversion .NET"
 "url": "/cs/net/presentation-conversion/"
 "weight": 31
+type: docs
 ---
-
 # Výukové programy pro převod prezentací v GroupDocs.Conversion .NET
 
 Naše tutoriály pro převod prezentací vám ukážou, jak transformovat dokumenty do formátů založených na snímcích pomocí nástroje GroupDocs.Conversion v .NET. Tyto praktické průvodce pokrývají převod z PDF, Wordu, Excelu, obrázků a dalších formátů do formátů PPT, PPTX, ODP a dalších. Naučte se zachovat vizuální prvky, udržovat animace, kde je to možné, pracovat s přechody mezi snímky, generovat poznámky řečníka, spravovat vložená média a ovládat rozvržení snímků během převodu. Každý tutoriál obsahuje podrobné příklady kódu C# pro vytváření prezentačních dokumentů, které efektivně reprezentují zdrojový obsah ve formátu určeném pro prezentaci publiku.

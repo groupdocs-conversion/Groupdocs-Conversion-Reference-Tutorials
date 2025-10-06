@@ -4,8 +4,8 @@
 "title": "Hatékony JPEG 2000 (.j2k) HTML-re konvertálás a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/html-conversion/jpeg-2000-to-html-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony JPEG 2000 (.j2k) HTML-re konvertálás a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

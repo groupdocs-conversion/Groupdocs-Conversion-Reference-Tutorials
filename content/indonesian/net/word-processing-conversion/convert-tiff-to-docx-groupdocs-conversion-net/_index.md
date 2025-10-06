@@ -4,8 +4,8 @@
 "title": "Konversi TIFF ke DOCX Menggunakan GroupDocs.Conversion .NET&#58; Panduan Lengkap"
 "url": "/id/net/word-processing-conversion/convert-tiff-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi TIFF ke DOCX Menggunakan GroupDocs.Conversion .NET: Panduan Lengkap
 
 ## Perkenalan

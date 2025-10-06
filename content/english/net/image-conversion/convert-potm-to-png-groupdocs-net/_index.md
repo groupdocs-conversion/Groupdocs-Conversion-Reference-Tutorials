@@ -9,10 +9,8 @@ keywords:
 - GroupDocs.Conversion for .NET
 - image conversion
 - POTM file conversion
-
+type: docs
 ---
-
-
 # How to Convert POTM Files to PNG Using GroupDocs.Conversion for .NET
 
 ## Introduction

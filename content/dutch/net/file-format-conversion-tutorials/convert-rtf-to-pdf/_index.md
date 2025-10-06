@@ -5,8 +5,8 @@
 "title": "RTF naar PDF converteren"
 "url": "/nl/net/file-format-conversion-tutorials/convert-rtf-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # RTF naar PDF converteren
 
 ## Invoering

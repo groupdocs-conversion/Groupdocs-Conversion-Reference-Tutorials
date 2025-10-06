@@ -4,8 +4,8 @@
 "title": "XLSX fájlok JPG formátumba konvertálása a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-xlsx-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # XLSX fájlok konvertálása JPG formátumba a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

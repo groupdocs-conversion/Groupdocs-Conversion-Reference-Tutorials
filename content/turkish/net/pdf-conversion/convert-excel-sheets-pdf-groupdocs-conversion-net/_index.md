@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET kullanarak belirli Excel sayfalarını PDF'ye dönüştürün | Kolay Adım Adım Kılavuz"
 "url": "/tr/net/pdf-conversion/convert-excel-sheets-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak Belirli Excel Sayfalarını PDF'ye Dönüştürme
 
 ## giriiş

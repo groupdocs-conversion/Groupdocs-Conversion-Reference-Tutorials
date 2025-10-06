@@ -4,8 +4,8 @@
 "title": "ICO fájlok PPTX formátumba konvertálása a GroupDocs.Conversion for .NET segítségével – lépésről lépésre útmutató"
 "url": "/hu/net/presentation-formats-features/convert-ico-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # ICO fájlok PPTX formátumba konvertálása a GroupDocs.Conversion for .NET segítségével: lépésről lépésre útmutató
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Zvládněte převod textu do prezentace pomocí GroupDocs v .NET – Komplexní průvodce"
 "url": "/cs/net/presentation-conversion/groupdocs-net-text-ppt-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Zvládněte převod textu do prezentace pomocí GroupDocs v .NET
 
 ## Zavedení

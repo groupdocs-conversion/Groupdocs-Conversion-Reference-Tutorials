@@ -8,10 +8,8 @@ keywords:
 - convert PST to TEX
 - GroupDocs.Conversion .NET
 - file conversion in .NET
-
+type: docs
 ---
-
-
 # How to Convert Outlook PST to TEX Using GroupDocs.Conversion .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Convertir XLSM a JPG&#58; guía paso a paso con GroupDocs.Conversion .NET"
 "url": "/es/net/image-conversion/convert-xlsm-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convierte XLSM a JPG con GroupDocs.Conversion .NET
 ## Introducción
 ¿Desea convertir fácilmente sus macros de Excel (XLSM) en instantáneas visuales en forma de imágenes? Convertir archivos XLSM a JPG puede ser crucial para compartir datos con usuarios que no utilizan Excel o para integrar hojas de cálculo en presentaciones y documentos. Este tutorial le guiará en el uso de GroupDocs.Conversion .NET, una potente biblioteca que simplifica este proceso de conversión.

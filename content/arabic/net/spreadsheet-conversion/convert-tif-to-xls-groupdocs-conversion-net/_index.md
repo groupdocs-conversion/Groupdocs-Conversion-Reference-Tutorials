@@ -4,8 +4,8 @@
 "title": "كيفية تحويل TIF إلى XLS باستخدام GroupDocs.Conversion .NET - دليل خطوة بخطوة"
 "url": "/ar/net/spreadsheet-conversion/convert-tif-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل TIF إلى XLS باستخدام GroupDocs.Conversion .NET: دليل خطوة بخطوة
 
 ## مقدمة

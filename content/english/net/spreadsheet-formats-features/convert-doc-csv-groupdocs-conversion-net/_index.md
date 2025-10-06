@@ -8,10 +8,8 @@ keywords:
 - convert DOC to CSV
 - GroupDocs.Conversion .NET
 - DOC to CSV conversion
-
+type: docs
 ---
-
-
 # Convert DOC to CSV Using GroupDocs.Conversion .NET: A Step-by-Step Guide
 
 ## Introduction

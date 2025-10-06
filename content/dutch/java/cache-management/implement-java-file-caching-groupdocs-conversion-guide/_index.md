@@ -4,8 +4,8 @@
 "title": "Java-bestandscache met GroupDocs.Conversion&#58; een uitgebreide handleiding voor efficiënte documentconversie"
 "url": "/nl/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Hoe u Java-bestandscache kunt implementeren met GroupDocs.Conversion voor efficiënte documentconversie
 
 ## Invoering

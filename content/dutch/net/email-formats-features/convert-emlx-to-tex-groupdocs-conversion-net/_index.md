@@ -4,8 +4,8 @@
 "title": "Converteer EMLX naar TEX met GroupDocs.Conversion voor .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/email-formats-features/convert-emlx-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer EMLX-bestanden naar TEX-indeling met GroupDocs.Conversion voor .NET
 
 ## Invoering

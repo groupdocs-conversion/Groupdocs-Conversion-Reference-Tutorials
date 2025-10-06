@@ -8,10 +8,8 @@ keywords:
 - Convert Word to PDF Java
 - Custom Fonts in PDF
 - Java Document Conversion
-
+type: docs
 ---
-
-
 # Convert Word Documents to PDF with Custom Fonts in Java: A Complete Guide Using GroupDocs.Conversion
 
 ## Introduction

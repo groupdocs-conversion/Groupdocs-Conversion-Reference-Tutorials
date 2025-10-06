@@ -8,10 +8,8 @@ keywords:
 - JPX to XLS conversion
 - GroupDocs.Conversion for .NET
 - .NET document conversion
-
+type: docs
 ---
-
-
 # How to Convert JPX to XLS in .NET using GroupDocs.Conversion: Step-by-Step Guide
 
 ## Introduction

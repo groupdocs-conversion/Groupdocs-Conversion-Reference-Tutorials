@@ -4,8 +4,8 @@
 "title": "Jak převést soubory Excelu se skrytými listy do PDF pomocí Javy a GroupDocs.Conversion"
 "url": "/cs/java/pdf-conversion/convert-excel-hidden-sheets-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory Excelu se skrytými listy do PDF pomocí Javy a GroupDocs.Conversion
 
 ## Zavedení

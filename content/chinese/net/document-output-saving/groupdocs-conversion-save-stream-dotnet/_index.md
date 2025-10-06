@@ -4,8 +4,8 @@
 "title": "如何在 .NET 中使用 GroupDocs.Conversion 将文件保存到流 | 分步指南"
 "url": "/zh/net/document-output-saving/groupdocs-conversion-save-stream-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 如何实现 GroupDocs.Conversion .NET：将转换后的文件保存到流
 
 ## 介绍

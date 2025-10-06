@@ -3,8 +3,8 @@
 "title": "Tutoriales de opciones de conversión de documentos para GroupDocs.Conversion Java"
 "url": "/es/java/conversion-options/"
 "weight": 3
+type: docs
 ---
-
 # Tutoriales de opciones de conversión de documentos para GroupDocs.Conversion Java
 
 Domine la configuración de conversión de documentos con nuestros detallados tutoriales de Java de GroupDocs.Conversion. Estas guías paso a paso le muestran cómo ajustar los parámetros de conversión, configurar rangos de páginas, configurar la calidad de imagen, controlar las fuentes, administrar metadatos y personalizar otros aspectos de la conversión mediante programación. Cada tutorial incluye ejemplos de código Java funcionales, notas de implementación y prácticas recomendadas para ayudarle a crear aplicaciones que produzcan documentos de salida perfectamente personalizados.

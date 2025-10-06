@@ -4,8 +4,8 @@
 "title": "Konwersja pliku głównego — ładowanie i konwertowanie plików JPF za pomocą GroupDocs dla .NET"
 "url": "/pl/net/image-formats-features/load-convert-jpf-files-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja pliku głównego: ładowanie i konwertowanie plików JPF za pomocą GroupDocs dla .NET
 
 ## Wstęp

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用して Java でスプレッドシートから PDF への変換を自動化する"
 "url": "/ja/java/pdf-conversion/automate-spreadsheet-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion を使用して Java でスプレッドシートから PDF への変換を自動化する
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Kütüphanesini Kullanarak Java&#58;da Verimli PDF Dönüştürme"
 "url": "/tr/java/pdf-conversion/convert-local-documents-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion ile Java'da Verimli PDF Dönüştürme
 
 ## giriiş

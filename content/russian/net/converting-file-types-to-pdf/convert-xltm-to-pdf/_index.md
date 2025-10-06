@@ -5,8 +5,8 @@
 "title": "Конвертировать XLTM в PDF"
 "url": "/ru/net/converting-file-types-to-pdf/convert-xltm-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # Конвертировать XLTM в PDF
 
 ## Введение

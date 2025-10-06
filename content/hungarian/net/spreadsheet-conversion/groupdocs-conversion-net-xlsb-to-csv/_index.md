@@ -4,8 +4,8 @@
 "title": "XLSB fájlok hatékony konvertálása CSV fájlokká a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/spreadsheet-conversion/groupdocs-conversion-net-xlsb-to-csv/"
 "weight": 1
+type: docs
 ---
-
 # XLSB fájlok hatékony konvertálása CSV fájlokká a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

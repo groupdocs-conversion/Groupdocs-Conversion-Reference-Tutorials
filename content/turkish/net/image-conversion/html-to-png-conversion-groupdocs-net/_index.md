@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion&#58;ı Kullanarak .NET'te HTML'yi PNG'ye Dönüştürme Adım Adım Kılavuzu"
 "url": "/tr/net/image-conversion/html-to-png-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET ile HTML'yi PNG'ye Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

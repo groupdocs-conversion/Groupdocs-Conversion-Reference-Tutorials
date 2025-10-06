@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके POTM को HTML में परिवर्तित करें एक व्यापक गाइड"
 "url": "/hi/net/html-conversion/convert-potm-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके POTM को HTML में परिवर्तित करें: एक व्यापक मार्गदर्शिका
 ## परिचय
 माइक्रोसॉफ्ट पावरपॉइंट तक पहुंच के बिना पावरपॉइंट टेम्पलेट साझा करना या वेबसाइटों पर प्रस्तुतियाँ एम्बेड करना चुनौतीपूर्ण हो सकता है। **.NET के लिए GroupDocs.Conversion**Microsoft PowerPoint Template (.potm) फ़ाइलों को HTML में बदलना बहुत ही आसान और कुशल है। यह व्यापक गाइड आपको इस मज़बूत लाइब्रेरी का आसानी से इस्तेमाल करने में मदद करेगी।

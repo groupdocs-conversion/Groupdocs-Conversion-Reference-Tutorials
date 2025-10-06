@@ -4,8 +4,8 @@
 "title": "Converter documentos de fluxos em Java usando GroupDocs.Conversion"
 "url": "/pt/java/document-operations/convert-documents-streams-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Converter documentos de fluxos em Java usando GroupDocs.Conversion
 
 ## Introdução

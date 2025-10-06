@@ -4,8 +4,8 @@
 "title": "วิธีการแปลงไฟล์ CSV เป็น PDF ด้วยการเข้ารหัสเฉพาะโดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/csv-structured-data-processing/convert-csv-pdf-specific-encoding-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการแปลงไฟล์ CSV เป็น PDF ด้วยการเข้ารหัสเฉพาะโดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

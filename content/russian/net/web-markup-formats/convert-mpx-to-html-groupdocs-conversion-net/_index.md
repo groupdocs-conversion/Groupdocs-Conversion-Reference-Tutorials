@@ -4,8 +4,8 @@
 "title": "Эффективное преобразование MPX в HTML с помощью GroupDocs.Conversion .NET"
 "url": "/ru/net/web-markup-formats/convert-mpx-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Эффективное преобразование MPX в HTML с помощью GroupDocs.Conversion .NET
 
 ## Введение

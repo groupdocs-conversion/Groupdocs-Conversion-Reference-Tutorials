@@ -10,10 +10,8 @@ keywords:
 - convert CMX file
 - document workflow integration
 - HTML format conversion
-
+type: docs
 ---
-
-
 # Comprehensive Guide: Convert CMX to HTML Using GroupDocs.Conversion .NET
 
 ## Introduction

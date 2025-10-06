@@ -8,10 +8,8 @@ keywords:
 - convert STL to Excel
 - GroupDocs.Conversion for .NET
 - STL file conversion
-
+type: docs
 ---
-
-
 # Convert STL to Excel with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

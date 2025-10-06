@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή BMP σε PNG σε .NET χρησιμοποιώντας τη βιβλιοθήκη GroupDocs.Conversion"
 "url": "/el/net/image-conversion/net-bmp-to-png-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική μετατροπή BMP σε PNG σε .NET με το GroupDocs
 
 ## Εισαγωγή

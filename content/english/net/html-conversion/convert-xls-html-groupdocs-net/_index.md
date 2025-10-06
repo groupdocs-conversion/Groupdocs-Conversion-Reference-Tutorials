@@ -8,10 +8,8 @@ keywords:
 - convert XLS to HTML
 - GroupDocs.Conversion for .NET
 - XLS file conversion
-
+type: docs
 ---
-
-
 # How to Convert XLS Files to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

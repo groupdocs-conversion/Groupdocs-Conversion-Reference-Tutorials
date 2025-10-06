@@ -5,8 +5,8 @@
 "title": "Converter documentos DOCX do Word em PDF"
 "url": "/pt/net/file-conversion-to-pdf/convert-docx-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Converter documentos DOCX do Word em PDF
 
 ## Introdução

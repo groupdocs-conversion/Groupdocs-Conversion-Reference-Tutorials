@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して LOG ファイルを TEX に変換する手順"
 "url": "/ja/net/text-markup-conversion/convert-log-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して LOG ファイルを読み込み、変換する方法
 
 ## 導入

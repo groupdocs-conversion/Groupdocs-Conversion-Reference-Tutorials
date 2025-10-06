@@ -4,8 +4,8 @@
 "title": "JPEG fájlok PNG formátumba konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-jpeg-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # JPEG konvertálása PNG-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

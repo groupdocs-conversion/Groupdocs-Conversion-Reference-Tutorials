@@ -4,8 +4,8 @@
 "title": "Мастерство преобразования документов .NET&#58; используйте GroupDocs для бесшовных преобразований PDF-файлов"
 "url": "/ru/net/conversion-options-settings/master-net-document-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Освоение преобразования документов в .NET с помощью GroupDocs.Conversion
 
 ## Введение

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用した簡単な CSV 変換 - 完全ガイド"
 "url": "/ja/net/spreadsheet-formats-features/convert-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用した簡単な CSV 変換
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "Cómo convertir archivos MBOX a DOC con GroupDocs.Conversion para .NET (Guía 2023)"
 "url": "/es/net/word-processing-formats-features/convert-mbox-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir archivos MBOX a DOC con GroupDocs.Conversion para .NET (Guía 2023)
 
 ## Introducción

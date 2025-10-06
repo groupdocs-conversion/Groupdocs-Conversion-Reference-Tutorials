@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Java를 위한 워터마크 및 주석 튜토리얼"
 "url": "/ko/java/watermarks-annotations/"
 "weight": 20
+type: docs
 ---
-
 # GroupDocs.Conversion Java를 위한 워터마크 및 주석 튜토리얼
 
 Java용 GroupDocs.Conversion 튜토리얼을 통해 주석 및 워터마킹 기능을 살펴보세요. 이 단계별 가이드는 변환 과정에서 텍스트 및 이미지 워터마크를 추가하고, 기존 주석을 유지하고, 주석 표시 여부를 제어하고, 메타데이터를 기반으로 동적 워터마킹을 구현하고, 민감한 문서의 편집 표시를 관리하는 방법을 보여줍니다. 각 튜토리얼에는 워터마킹 및 주석 시나리오에 대한 실용적인 Java 코드 예제가 포함되어 있어, 형식 변환 과정에서 중요한 시각적 요소와 편집 표시를 유지하는 애플리케이션을 구축하는 데 도움이 됩니다.

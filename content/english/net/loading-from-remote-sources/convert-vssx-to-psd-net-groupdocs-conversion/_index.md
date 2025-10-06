@@ -8,10 +8,8 @@ keywords:
 - convert VSSX to PSD
 - GroupDocs.Conversion .NET
 - VSSX to PSD conversion
-
+type: docs
 ---
-
-
 # Convert VSSX to PSD in .NET Using GroupDocs.Conversion: A Step-by-Step Guide
 
 ## Introduction

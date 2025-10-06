@@ -8,10 +8,8 @@ keywords:
 - convert log files to png
 - groupdocs conversion for .net
 - log file image conversion
-
+type: docs
 ---
-
-
 # Convert LOG Files to PNG Using GroupDocs.Conversion for .NET
 
 ## Introduction

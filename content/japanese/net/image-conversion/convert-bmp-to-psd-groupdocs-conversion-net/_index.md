@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して BMP 画像を PSD 形式に変換する方法"
 "url": "/ja/net/image-conversion/convert-bmp-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 画像変換をマスターする: GroupDocs.Conversion for .NET を使用して BMP 画像を PSD に変換する
 
 ## 導入

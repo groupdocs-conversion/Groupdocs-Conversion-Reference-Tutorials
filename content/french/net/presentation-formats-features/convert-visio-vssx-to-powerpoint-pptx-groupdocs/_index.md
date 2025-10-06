@@ -4,8 +4,8 @@
 "title": "Comment convertir des fichiers de gabarit Visio (VSSX) en présentations PowerPoint avec GroupDocs.Conversion pour .NET"
 "url": "/fr/net/presentation-formats-features/convert-visio-vssx-to-powerpoint-pptx-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir des fichiers de gabarit Visio (VSSX) en présentations PowerPoint avec GroupDocs.Conversion pour .NET
 
 ## Introduction

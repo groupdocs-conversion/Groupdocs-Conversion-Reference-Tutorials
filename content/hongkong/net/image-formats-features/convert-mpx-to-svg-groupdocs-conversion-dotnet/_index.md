@@ -4,8 +4,8 @@
 "title": "使用 .NET 中的 GroupDocs.Conversion 將 MPX 轉換為 SVG 綜合指南"
 "url": "/zh-hant/net/image-formats-features/convert-mpx-to-svg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 .NET 中的 GroupDocs.Conversion 將 MPX 檔案轉換為 SVG
 
 ## 介紹

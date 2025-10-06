@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将 JLS 转换为 PPT 的分步指南"
 "url": "/zh/net/presentation-formats-features/convert-jls-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 将 JLS 转换为 PPT：使用 GroupDocs.Conversion for .NET 的分步指南
 
 ## 介绍

@@ -4,8 +4,8 @@
 "title": "Optimaliseer .NET-documentconversie met caching met GroupDocs.Conversion"
 "url": "/nl/net/cache-management/optimize-net-document-conversion-caching-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Optimaliseer .NET-documentconversie met caching met GroupDocs.Conversion
 
 ## Invoering

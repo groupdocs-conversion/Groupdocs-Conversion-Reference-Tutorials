@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中將 DOTM 轉換為 PSD — 綜合指南"
 "url": "/zh-hant/net/image-conversion/convert-dotm-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 .NET 中將 DOTM 轉換為 PSD：綜合指南
 
 ## 介紹

@@ -4,8 +4,8 @@
 "title": "تحويل قوالب PowerPoint إلى HTML باستخدام GroupDocs.Conversion لـ .NET - دليل خطوة بخطوة"
 "url": "/ar/net/html-conversion/convert-pot-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل قوالب PowerPoint إلى HTML باستخدام GroupDocs.Conversion لـ .NET: دليل خطوة بخطوة
 
 ## مقدمة

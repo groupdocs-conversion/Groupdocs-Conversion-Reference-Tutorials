@@ -8,10 +8,8 @@ keywords:
 - convert CDR to JPG
 - GroupDocs.Conversion for .NET
 - image conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert CDR to JPG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

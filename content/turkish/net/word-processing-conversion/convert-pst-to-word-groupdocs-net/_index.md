@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak PST'yi Word Belgelerine Verimli Şekilde Dönüştürün"
 "url": "/tr/net/word-processing-conversion/convert-pst-to-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET ile PST Dosyalarının Word Belgelerine Verimli Dönüştürülmesi
 
 ## giriiş

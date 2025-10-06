@@ -4,8 +4,8 @@
 "title": "Конвертируйте MBOX в PDF с помощью GroupDocs.Conversion для .NET — подробное руководство"
 "url": "/ru/net/pdf-conversion/convert-mbox-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Как конвертировать файлы MBOX в PDF с помощью GroupDocs.Conversion для .NET
 
 ## Введение

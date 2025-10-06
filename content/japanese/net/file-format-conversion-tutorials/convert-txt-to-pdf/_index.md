@@ -5,8 +5,8 @@
 "title": "TXTをPDFに変換する"
 "url": "/ja/net/file-format-conversion-tutorials/convert-txt-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # TXTをPDFに変換する
 
 ## 導入

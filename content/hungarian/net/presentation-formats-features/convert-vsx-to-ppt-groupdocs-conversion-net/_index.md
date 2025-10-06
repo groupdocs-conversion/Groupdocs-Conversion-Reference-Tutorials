@@ -4,8 +4,8 @@
 "title": "Hogyan konvertáljunk VSX-et PPT-vé a GroupDocs.Conversion for .NET használatával? Átfogó útmutató"
 "url": "/hu/net/presentation-formats-features/convert-vsx-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VSX fájlok konvertálása PowerPoint prezentációkká a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Zvládnutí správy konstant v GroupDocs.Conversion v Javě pro projekty konverze souborů"
 "url": "/cs/java/conversion-options/mastering-constants-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Zvládnutí správy konstant pomocí GroupDocs.Conversion v Javě
 
 ## Zavedení

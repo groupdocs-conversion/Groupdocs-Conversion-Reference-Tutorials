@@ -5,8 +5,8 @@
 "title": "DXF CAD 도면 교환 파일을 PDF로 변환"
 "url": "/ko/net/convert-files-to-pdf/convert-dxf-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # DXF CAD 도면 교환 파일을 PDF로 변환
 
 ## 소개

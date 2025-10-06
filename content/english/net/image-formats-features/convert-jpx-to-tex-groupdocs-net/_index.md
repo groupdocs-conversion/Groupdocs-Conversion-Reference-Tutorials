@@ -8,10 +8,8 @@ keywords:
 - JPX to TEX conversion
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert JPX to TEX Using GroupDocs.Conversion for .NET
 
 ## Introduction

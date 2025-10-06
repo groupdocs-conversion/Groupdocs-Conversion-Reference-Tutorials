@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET kullanarak HTML'yi Word DOC'a dönüştürün - Kapsamlı Kılavuz"
 "url": "/tr/net/word-processing-conversion/convert-html-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak HTML'yi Word DOC'a Dönüştürme
 
 ## giriiş

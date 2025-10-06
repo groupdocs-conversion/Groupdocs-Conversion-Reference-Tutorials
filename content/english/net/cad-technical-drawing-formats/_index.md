@@ -3,8 +3,8 @@ title: "CAD and Technical Drawing Formats Tutorials for GroupDocs.Conversion .NE
 description: "Complete tutorials for converting CAD drawings (DWG, DXF, DGN) to other formats using GroupDocs.Conversion for .NET."
 weight: 18
 url: "/net/cad-technical-drawing-formats/"
+type: docs
 ---
-
 # CAD and Technical Drawing Formats Tutorials for GroupDocs.Conversion .NET
 
 Learn to process technical drawings with our comprehensive GroupDocs.Conversion tutorials for .NET developers. These practical guides demonstrate how to convert AutoCAD and other CAD files to viewable formats, specify layouts for conversion, set custom width and height dimensions for output, preserve layers and measurements, handle large drawings efficiently, manage viewports and scaling, and transform 3D models to 2D representations. Each tutorial includes detailed C# code examples for CAD conversion scenarios, helping you build applications that can accurately process technical drawings while preserving important engineering details.

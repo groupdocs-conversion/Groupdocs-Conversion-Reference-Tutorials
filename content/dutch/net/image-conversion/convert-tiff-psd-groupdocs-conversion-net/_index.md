@@ -4,8 +4,8 @@
 "title": "Hoe u TIFF naar PSD converteert met GroupDocs.Conversion voor .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/image-conversion/convert-tiff-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # TIFF naar PSD converteren met GroupDocs.Conversion voor .NET: een stapsgewijze handleiding
 
 ## Invoering

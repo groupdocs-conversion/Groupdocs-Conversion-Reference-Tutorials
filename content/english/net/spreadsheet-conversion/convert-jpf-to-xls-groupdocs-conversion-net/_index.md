@@ -8,10 +8,8 @@ keywords:
 - convert JPF to XLS
 - GroupDocs.Conversion for .NET
 - spreadsheet conversion tutorial
-
+type: docs
 ---
-
-
 # How to Convert JPF to XLS Using GroupDocs.Conversion for .NET
 
 ## Introduction

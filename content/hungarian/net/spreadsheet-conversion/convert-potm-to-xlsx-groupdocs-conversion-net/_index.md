@@ -4,8 +4,8 @@
 "title": "Hogyan konvertáljunk POTM-et XLSX-be a GroupDocs.Conversion használatával .NET-ben (2023-as útmutató)"
 "url": "/hu/net/spreadsheet-conversion/convert-potm-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertáljunk POTM-et XLSX-be a GroupDocs.Conversion használatával .NET-ben (2023-as útmutató)
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Java에서 내장 파일 제거 기능을 사용하여 PDF를 Word로 변환&#58; GroupDocs.Conversion을 사용한 단계별 가이드"
 "url": "/ko/java/pdf-conversion/convert-pdf-to-word-java-embedded-file-removal/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용한 Java에서 PDF를 Word로 변환(임베디드 파일 제거 포함): 단계별 가이드
 
 ## 소개

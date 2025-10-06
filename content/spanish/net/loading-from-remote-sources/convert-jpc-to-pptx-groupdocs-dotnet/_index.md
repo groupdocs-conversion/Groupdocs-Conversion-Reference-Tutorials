@@ -4,8 +4,8 @@
 "title": "Convierta JPC a PPTX con GroupDocs.Conversion para .NET&#58; una guía paso a paso"
 "url": "/es/net/loading-from-remote-sources/convert-jpc-to-pptx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Tutorial completo: Convertir JPC a PPTX con GroupDocs.Conversion para .NET
 
 ## Introducción

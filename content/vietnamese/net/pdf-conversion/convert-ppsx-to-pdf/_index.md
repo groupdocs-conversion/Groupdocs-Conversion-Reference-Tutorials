@@ -5,8 +5,8 @@
 "title": "Chuyển đổi PPSX sang PDF"
 "url": "/vi/net/pdf-conversion/convert-ppsx-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # Chuyển đổi PPSX sang PDF
 
 ## Giới thiệu

@@ -8,10 +8,8 @@ keywords:
 - convert PPS to DOCX
 - GroupDocs.Conversion for .NET
 - PPS to Word conversion
-
+type: docs
 ---
-
-
 # Convert PPS to DOCX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

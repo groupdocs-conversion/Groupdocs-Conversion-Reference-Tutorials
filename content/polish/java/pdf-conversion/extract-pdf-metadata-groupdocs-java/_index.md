@@ -4,8 +4,8 @@
 "title": "Jak wyodrębnić metadane PDF za pomocą GroupDocs.Conversion w Javie"
 "url": "/pl/java/pdf-conversion/extract-pdf-metadata-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Jak wyodrębnić metadane PDF za pomocą GroupDocs.Conversion w Javie
 
 ## Wstęp

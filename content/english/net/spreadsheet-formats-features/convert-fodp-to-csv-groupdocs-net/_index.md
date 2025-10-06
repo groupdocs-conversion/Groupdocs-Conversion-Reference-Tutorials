@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # How to Convert FODP Files to CSV Using GroupDocs.Conversion for .NET
 ## Introduction
 Streamline your data management by converting complex FODP files into accessible CSV formats. This step-by-step tutorial will guide you through using the powerful GroupDocs.Conversion library for .NET, making file conversion seamless and efficient.

@@ -5,8 +5,8 @@
 "title": "將 JPM 轉換為 PDF"
 "url": "/zh-hant/net/document-conversion/convert-jpm-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # 將 JPM 轉換為 PDF
 
 ## 介紹

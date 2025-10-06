@@ -5,8 +5,8 @@
 "title": "Convertir gráficos vectoriales CGM a PDF"
 "url": "/es/net/file-conversion-to-pdf/convert-cgm-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # Convertir gráficos vectoriales CGM a PDF
 
 ## Introducción

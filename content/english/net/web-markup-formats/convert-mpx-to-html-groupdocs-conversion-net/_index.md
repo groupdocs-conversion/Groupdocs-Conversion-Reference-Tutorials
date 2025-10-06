@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Efficiently Convert MPX to HTML Using GroupDocs.Conversion .NET
 
 ## Introduction

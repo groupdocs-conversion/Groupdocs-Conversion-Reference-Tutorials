@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 的 Web 和標記格式教學"
 "url": "/zh-hant/net/web-markup-formats/"
 "weight": 19
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 的 Web 和標記格式教學
 
 我們的 Web 格式轉換教學提供了在 .NET 應用程式中使用標記語言的全面指導。這些逐步指南示範如何將文件轉換為 HTML 格式或從 HTML 格式轉換為 HTML 格式、如何為 Web 文件添加頁碼、如何處理 CSS 樣式、如何管理嵌入資源、如何實現響應式佈局、如何控制圖像嵌入行為、如何保留超連結以及如何維護文件結構。每個教學課程都包含完整的 C# 程式碼範例，用於 Web 格式轉換場景，協助您建立能夠有效彌合文件格式和 Web 內容之間差距的應用程式。

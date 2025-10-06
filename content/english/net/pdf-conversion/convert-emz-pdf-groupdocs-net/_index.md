@@ -8,10 +8,8 @@ keywords:
 - convert EMZ to PDF
 - GroupDocs.Conversion for .NET setup
 - EMZ file conversion
-
+type: docs
 ---
-
-
 # Convert EMZ to PDF using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Υλοποίηση της καταγραφής στο GroupDocs.Conversion για .NET® - Ένας οδηγός βήμα προς βήμα"
 "url": "/el/net/conversion-events-logging/implement-logging-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να εφαρμόσετε την καταγραφή συμβάντων GroupDocs.Conversion στο .NET: Ένας ολοκληρωμένος οδηγός
 
 ## Εισαγωγή

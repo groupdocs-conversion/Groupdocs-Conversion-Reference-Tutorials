@@ -4,8 +4,8 @@
 "title": "كيفية تحويل DOC إلى XLSX باستخدام GroupDocs.Conversion لـ .NET - دليل خطوة بخطوة"
 "url": "/ar/net/spreadsheet-formats-features/convert-doc-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل DOC إلى XLSX باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

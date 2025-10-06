@@ -4,8 +4,8 @@
 "title": "VSS fájlok PPT prezentációkká konvertálása a GroupDocs.Conversion .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/presentation-formats-features/convert-vss-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VSS fájlok PPT prezentációkká konvertálása a GroupDocs.Conversion .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Μετατροπή IFC σε PDF χρησιμοποιώντας το GroupDocs.Conversion για .NET – Ένας πλήρης οδηγός"
 "url": "/el/net/cad-technical-drawing-formats/convert-ifc-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατρέψτε αρχεία IFC σε PDF με το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

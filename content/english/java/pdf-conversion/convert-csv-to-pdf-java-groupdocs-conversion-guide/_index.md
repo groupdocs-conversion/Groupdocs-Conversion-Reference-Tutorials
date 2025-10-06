@@ -8,10 +8,8 @@ keywords:
 - convert CSV to PDF Java
 - GroupDocs.Conversion for Java
 - Java CSV to PDF conversion
-
+type: docs
 ---
-
-
 # Convert CSV to PDF in Java: A Step-by-Step Guide Using GroupDocs.Conversion for Java
 
 ## Introduction

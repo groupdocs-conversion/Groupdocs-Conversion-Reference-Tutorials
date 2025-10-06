@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中有效地將 PowerPoint 轉換為文本"
 "url": "/zh-hant/net/text-markup-conversion/powerpoint-to-text-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 .NET 中有效地將 PowerPoint 轉換為文本
 ## 使用 GroupDocs.Conversion for .NET 掌握 PowerPoint 到文字的轉換：綜合指南
 ### 介紹

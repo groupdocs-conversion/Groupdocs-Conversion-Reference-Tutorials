@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET のセットアップと実装に関する包括的なガイド"
 "url": "/ja/net/getting-started-licensing/groupdocs-conversion-net-setup-guide/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET の包括的なガイド: セットアップと実装
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "Konversi JP2 ke DOC Menggunakan GroupDocs.Conversion .NET&#58; Panduan Lengkap"
 "url": "/id/net/word-processing-conversion/convert-jp2-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi File JP2 ke DOC Menggunakan GroupDocs.Conversion .NET
 
 ## Perkenalan

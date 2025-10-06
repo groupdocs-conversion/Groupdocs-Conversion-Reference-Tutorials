@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion .NET
 - DWF to JPG conversion
 - File Conversion in .NET
-
+type: docs
 ---
-
-
 # Convert DWF to JPG Using GroupDocs.Conversion for .NET
 
 ## Introduction

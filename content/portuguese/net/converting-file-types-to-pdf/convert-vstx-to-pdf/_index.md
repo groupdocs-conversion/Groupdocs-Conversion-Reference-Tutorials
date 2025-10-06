@@ -5,8 +5,8 @@
 "title": "Converter VSTX para PDF"
 "url": "/pt/net/converting-file-types-to-pdf/convert-vstx-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # Converter VSTX para PDF
 
 ## Introdução

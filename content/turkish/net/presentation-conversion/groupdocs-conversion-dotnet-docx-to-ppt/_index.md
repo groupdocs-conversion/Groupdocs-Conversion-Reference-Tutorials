@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion ile DOCX'i PPT'ye Dönüştürmede Ustalaşın"
 "url": "/tr/net/presentation-conversion/groupdocs-conversion-dotnet-docx-to-ppt/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion ile DOCX'i PPT'ye Dönüştürmede Uzmanlaşma
 
 ## giriiş

@@ -5,8 +5,8 @@
 "title": "XLTをPDFに変換する"
 "url": "/ja/net/converting-file-types-to-pdf/convert-xlt-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # XLTをPDFに変換する
 
 

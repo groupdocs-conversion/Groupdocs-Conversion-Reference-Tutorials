@@ -3,8 +3,8 @@ title: "Word Processing Conversion Tutorials for GroupDocs.Conversion .NET"
 description: "Learn to convert various document formats to DOC, DOCX, RTF and other word processing formats using GroupDocs.Conversion for .NET."
 weight: 29
 url: "/net/word-processing-conversion/"
+type: docs
 ---
-
 # Word Processing Conversion Tutorials for GroupDocs.Conversion .NET
 
 Discover how to transform documents into editable word processing formats with our comprehensive GroupDocs.Conversion tutorials for .NET. These detailed guides cover converting from PDF, Excel, PowerPoint, images, HTML, and other formats to DOC, DOCX, RTF, ODT, and more. Learn about preserving document structure, handling embedded objects, maintaining styles and formatting, and managing text flow and pagination during conversion. Each tutorial provides practical C# code examples for creating word processing documents that maintain the source content's fidelity while enabling editing and modification.

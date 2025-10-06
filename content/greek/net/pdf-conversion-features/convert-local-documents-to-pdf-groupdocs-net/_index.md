@@ -4,8 +4,8 @@
 "title": "Μετατροπή τοπικών εγγράφων σε PDF με το GroupDocs.Conversion for .NET™ Ένας πλήρης οδηγός"
 "url": "/el/net/pdf-conversion-features/convert-local-documents-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε τοπικά έγγραφα σε PDF με το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

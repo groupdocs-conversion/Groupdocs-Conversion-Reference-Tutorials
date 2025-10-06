@@ -8,10 +8,8 @@ keywords:
 - DJVU to PPTX conversion
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Convert DJVU to PPTX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

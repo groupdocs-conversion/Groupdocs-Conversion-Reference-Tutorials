@@ -4,8 +4,8 @@
 "title": "XLSX fájlok PSD fájlokká konvertálása .NET-ben&#58; lépésről lépésre útmutató a GroupDocs.Conversion használatával"
 "url": "/hu/net/image-conversion/xlsx-to-psd-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # XLSX konvertálása PSD-vé .NET-ben: Lépésről lépésre útmutató a GroupDocs.Conversion használatával
 
 ## Bevezetés

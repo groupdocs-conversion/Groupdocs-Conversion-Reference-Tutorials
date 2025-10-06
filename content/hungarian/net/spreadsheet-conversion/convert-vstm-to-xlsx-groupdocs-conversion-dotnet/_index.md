@@ -4,8 +4,8 @@
 "title": "VSTM konvertálása XLSX-re a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-conversion/convert-vstm-to-xlsx-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # VSTM konvertálása XLSX-re a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

@@ -8,9 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
 # How to Convert VTX Files to DOC Using GroupDocs.Conversion for .NET: A Complete Guide
 
 ## Introduction

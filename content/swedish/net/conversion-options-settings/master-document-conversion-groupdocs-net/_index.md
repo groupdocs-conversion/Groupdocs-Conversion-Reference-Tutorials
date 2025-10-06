@@ -4,8 +4,8 @@
 "title": "Konvertering av huvuddokument med GroupDocs i .NET – en omfattande guide"
 "url": "/sv/net/conversion-options-settings/master-document-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Bemästra dokumentkonvertering med GroupDocs.Conversion .NET: En steg-för-steg-guide
 
 ## Introduktion

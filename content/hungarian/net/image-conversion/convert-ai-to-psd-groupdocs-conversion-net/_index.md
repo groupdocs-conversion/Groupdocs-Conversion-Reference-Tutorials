@@ -4,8 +4,8 @@
 "title": "Hogyan konvertálhatunk AI-fájlokat PSD-vé a GroupDocs.Conversion for .NET használatával?"
 "url": "/hu/net/image-conversion/convert-ai-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhatunk AI-fájlokat PSD-vé a GroupDocs.Conversion for .NET használatával?
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Hogyan konvertáljunk EPS-t SVG-vé .NET-ben a GroupDocs.Conversion használatával"
 "url": "/hu/net/image-conversion/convert-eps-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # EPS-fájl SVG-vé konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

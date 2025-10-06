@@ -4,8 +4,8 @@
 "title": ".NET में GroupDocs.Conversion का उपयोग करके IGS को PNG में परिवर्तित करें एक चरण-दर-चरण मार्गदर्शिका"
 "url": "/hi/net/cad-technical-drawing-formats/convert-igs-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET में GroupDocs.Conversion का उपयोग करके IGS को PNG में परिवर्तित करें: एक चरण-दर-चरण मार्गदर्शिका
 
 ## परिचय

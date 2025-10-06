@@ -4,8 +4,8 @@
 "title": "كيفية تحويل ملفات DOT إلى TXT باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/text-markup-conversion/convert-dot-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل ملفات DOT إلى TXT باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

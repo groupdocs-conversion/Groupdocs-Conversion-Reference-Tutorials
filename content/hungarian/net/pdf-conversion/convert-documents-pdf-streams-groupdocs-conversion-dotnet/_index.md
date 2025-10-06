@@ -4,8 +4,8 @@
 "title": "Dokumentumok konvertálása PDF-folyamokká a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/pdf-conversion/convert-documents-pdf-streams-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Dokumentumok konvertálása PDF-folyamokká a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Converta PPS para PDF facilmente com GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/pdf-conversion/convert-ppsx-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converter arquivos PPS em PDF usando GroupDocs.Conversion para .NET
 
 ## Introdução

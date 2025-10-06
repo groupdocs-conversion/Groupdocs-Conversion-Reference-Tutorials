@@ -4,8 +4,8 @@
 "title": "Převod CMX do DOCX pomocí GroupDocs.Conversion v .NET – Podrobný návod"
 "url": "/cs/net/word-processing-formats-features/convert-cmx-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod CMX do DOCX pomocí GroupDocs.Conversion v .NET: Podrobný návod
 
 ## Zavedení

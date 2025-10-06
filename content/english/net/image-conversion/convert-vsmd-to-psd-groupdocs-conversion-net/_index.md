@@ -8,10 +8,8 @@ keywords:
 - convert VSDM to PSD
 - GroupDocs.Conversion for .NET
 - file conversion in .NET
-
+type: docs
 ---
-
-
 # Convert VSDM to PSD in .NET: A Step-by-Step Guide Using GroupDocs.Conversion
 
 ## Introduction

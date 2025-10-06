@@ -4,8 +4,8 @@
 "title": "تحميل وتحويل ملفات XML بكفاءة باستخدام GroupDocs.Conversion لـ .NET - دليل خطوة بخطوة"
 "url": "/ar/net/xml-json-processing/groupdocs-conversion-load-xml-nets-guide/"
 "weight": 1
+type: docs
 ---
-
 # تحميل وتحويل ملفات XML بكفاءة باستخدام GroupDocs.Conversion لـ .NET: دليل خطوة بخطوة
 
 ## مقدمة

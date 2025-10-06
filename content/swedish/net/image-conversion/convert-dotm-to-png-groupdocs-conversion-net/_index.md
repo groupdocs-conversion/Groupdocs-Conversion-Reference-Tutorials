@@ -4,8 +4,8 @@
 "title": "Konvertera Word-mallar (.dotm) till PNG med GroupDocs.Conversion för .NET"
 "url": "/sv/net/image-conversion/convert-dotm-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera Word-mallar till PNG-bilder med GroupDocs.Conversion för .NET
 
 ## Introduktion

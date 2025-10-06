@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用した PST から PPTX への変換 包括的なガイド"
 "url": "/ja/net/presentation-conversion/pst-pptx-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用した PST から PPTX への変換の習得
 
 ## 導入

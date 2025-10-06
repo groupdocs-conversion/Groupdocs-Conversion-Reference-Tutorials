@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert WEBP Images to PDF with GroupDocs.Conversion for .NET
 
 ## Introduction

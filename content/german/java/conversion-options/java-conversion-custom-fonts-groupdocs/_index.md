@@ -4,8 +4,8 @@
 "title": "Java-Dokumentkonvertierung mit benutzerdefinierten Schriftarten mithilfe von GroupDocs.Conversion"
 "url": "/de/java/conversion-options/java-conversion-custom-fonts-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Java-Dokumentkonvertierung mit benutzerdefinierten Schriftarten mithilfe von GroupDocs.Conversion
 
 In der heutigen digitalen Welt ist die Konvertierung von Dokumenten unter Beibehaltung ihres ursprünglichen Designs und Layouts entscheidend. Ob Sie eine Präsentation für einen Kunden vorbereiten oder wichtige Dateien archivieren – die Sicherstellung plattformübergreifender Schriftkonsistenz kann eine Herausforderung sein. Dieses Tutorial führt Sie durch die Verwendung von GroupDocs.Conversion für Java, um Präsentationen mit benutzerdefinierten Schriftartenersetzungen in PDFs zu konvertieren und dabei die visuelle Integrität während des gesamten Prozesses zu gewährleisten.

@@ -4,8 +4,8 @@
 "title": "XLS Dosyalarını GroupDocs.Conversion for .NET ile PDF'ye Nasıl Dönüştürebilirsiniz? Adım Adım Kılavuz"
 "url": "/tr/net/pdf-conversion/convert-xls-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # XLS Dosyalarını GroupDocs.Conversion for .NET ile PDF'ye Nasıl Dönüştürebilirsiniz: Adım Adım Kılavuz
 
 ## giriiş

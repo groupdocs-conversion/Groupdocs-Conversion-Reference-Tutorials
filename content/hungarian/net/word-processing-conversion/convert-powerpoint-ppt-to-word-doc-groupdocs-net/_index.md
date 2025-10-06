@@ -4,8 +4,8 @@
 "title": "PowerPoint PPT konvertálása Word DOC-ba a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/word-processing-conversion/convert-powerpoint-ppt-to-word-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PowerPoint-bemutatók konvertálása Word-dokumentumokká a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

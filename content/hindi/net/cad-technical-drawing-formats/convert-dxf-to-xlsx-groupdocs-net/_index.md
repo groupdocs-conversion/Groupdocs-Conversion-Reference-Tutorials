@@ -4,8 +4,8 @@
 "title": ".NET - CAD और तकनीकी ड्राइंग प्रारूपों के लिए GroupDocs.Conversion का उपयोग करके कुशल DXF से XLSX रूपांतरण"
 "url": "/hi/net/cad-technical-drawing-formats/convert-dxf-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके कुशल DXF से XLSX रूपांतरण
 
 ## परिचय

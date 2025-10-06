@@ -5,8 +5,8 @@
 "title": "Převod MHT do PDF"
 "url": "/cs/net/document-conversion/convert-mht-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # Převod MHT do PDF
 
 ## Zavedení

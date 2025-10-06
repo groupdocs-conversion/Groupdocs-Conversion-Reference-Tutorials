@@ -4,8 +4,8 @@
 "title": "Konvertera XML till PSD med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/image-formats-features/convert-xml-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera XML till PSD med GroupDocs.Conversion för .NET: En steg-för-steg-guide
 
 ## Introduktion

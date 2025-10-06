@@ -4,8 +4,8 @@
 "title": "Comment convertir un fichier JPEG en document Word avec GroupDocs.Conversion pour .NET"
 "url": "/fr/net/word-processing-conversion/convert-jpeg-to-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir des images JPEG en documents Word avec GroupDocs.Conversion pour .NET
 
 ## Introduction

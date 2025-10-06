@@ -5,8 +5,8 @@
 "title": "แปลงภาพ DIB เป็น PDF"
 "url": "/th/net/file-conversion-to-pdf/convert-dib-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # แปลงภาพ DIB เป็น PDF
 
 ## การแนะนำ

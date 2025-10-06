@@ -8,10 +8,8 @@ keywords:
 - convert WMF to PPTX
 - GroupDocs.Conversion .NET API
 - file conversion using GroupDocs
-
+type: docs
 ---
-
-
 # Convert WMF to PPTX Efficiently Using GroupDocs.Conversion .NET
 
 ## Introduction

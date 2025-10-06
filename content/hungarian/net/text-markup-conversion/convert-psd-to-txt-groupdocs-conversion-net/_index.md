@@ -4,8 +4,8 @@
 "title": "PSD konvertálása TXT-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/text-markup-conversion/convert-psd-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PSD konvertálása TXT-vé a GroupDocs.Conversion for .NET segítségével: lépésről lépésre útmutató
 
 ## Bevezetés

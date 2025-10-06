@@ -4,8 +4,8 @@
 "title": "Convertir CMX a PNG con GroupDocs.Conversion para .NET&#58; una guía completa"
 "url": "/es/net/image-formats-features/convert-cmx-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir CMX a PNG con GroupDocs.Conversion para .NET
 
 ## Introducción

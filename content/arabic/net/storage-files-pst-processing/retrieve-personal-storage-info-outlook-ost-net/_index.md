@@ -4,8 +4,8 @@
 "title": "كيفية استرداد معلومات التخزين الشخصية من ملفات OST في Outlook باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/storage-files-pst-processing/retrieve-personal-storage-info-outlook-ost-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية استرداد معلومات التخزين الشخصية من ملفات OST في Outlook باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

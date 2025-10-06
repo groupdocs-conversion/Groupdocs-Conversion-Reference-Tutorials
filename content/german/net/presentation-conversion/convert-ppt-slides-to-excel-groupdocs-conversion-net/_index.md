@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie PPT-Folien in Excel – Mastering GroupDocs.Conversion für .NET"
 "url": "/de/net/presentation-conversion/convert-ppt-slides-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie PPT-Folien mit GroupDocs.Conversion für .NET in Excel
 
 ## Einführung

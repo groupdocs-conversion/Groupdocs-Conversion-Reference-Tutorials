@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 마크다운을 SVG로 효율적으로 변환"
 "url": "/ko/net/image-conversion/markdown-to-svg-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 마크다운을 SVG로 효율적으로 변환
 
 ## 소개

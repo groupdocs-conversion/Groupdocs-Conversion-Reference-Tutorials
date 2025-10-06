@@ -4,8 +4,8 @@
 "title": "Konversi File Template Excel (XLTX) ke PDF Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/pdf-conversion/convert-xltx-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi File Template Excel (XLTX) ke PDF Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

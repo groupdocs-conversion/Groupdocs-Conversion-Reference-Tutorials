@@ -8,10 +8,8 @@ keywords:
 - convert J2K to PSD
 - GroupDocs.Conversion for .NET
 - JPEG 2000 conversion
-
+type: docs
 ---
-
-
 # Convert J2K Files to PSD Using GroupDocs.Conversion for .NET
 
 ## Introduction

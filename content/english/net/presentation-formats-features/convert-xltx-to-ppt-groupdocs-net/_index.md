@@ -8,10 +8,8 @@ keywords:
 - convert xltx to ppt
 - GroupDocs.Conversion for .NET
 - document conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert XLTX to PPT Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

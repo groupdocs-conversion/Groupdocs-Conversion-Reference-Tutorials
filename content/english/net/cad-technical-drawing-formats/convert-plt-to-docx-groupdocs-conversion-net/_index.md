@@ -8,10 +8,8 @@ keywords:
 - convert PLT to DOCX
 - GroupDocs.Conversion for .NET
 - CAD file conversion
-
+type: docs
 ---
-
-
 # How to Convert PLT Files to DOCX Using GroupDocs.Conversion for .NET
 
 ## Introduction

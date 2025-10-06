@@ -4,8 +4,8 @@
 "title": "Konversi PowerPoint ke Master GroupDocs.Conversion Photoshop untuk .NET Konversi PPT ke PSD"
 "url": "/id/net/image-formats-features/groupdocs-conversion-net-ppt-psd/"
 "weight": 1
+type: docs
 ---
-
 # Konversi PowerPoint ke Photoshop: Master GroupDocs.Conversion untuk Konversi .NET PPT ke PSD
 
 ## Perkenalan

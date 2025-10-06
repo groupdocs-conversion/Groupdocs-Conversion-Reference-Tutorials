@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Java 電子表格格式轉換教學"
 "url": "/zh-hant/java/spreadsheet-formats/"
 "weight": 6
+type: docs
 ---
-
 # GroupDocs.Conversion Java 電子表格格式轉換教學
 
 使用我們的 GroupDocs.Conversion Java 教學學習如何處理電子表格轉換。這些詳細的指南示範如何在 Excel 格式、CSV 和其他電子表格類型之間進行轉換，如何保留公式和函數，如何維護儲存格格式，如何處理多表工作簿，以及如何確保轉換過程中的資料完整性。每個教程都包含可運行的 Java 程式碼範例，展示如何在保留複雜計算和視覺元素的同時實現準確的電子表格轉換。

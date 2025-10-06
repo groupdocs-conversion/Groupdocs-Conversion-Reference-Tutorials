@@ -4,8 +4,8 @@
 "title": "Převod MHTML do Excelu pomocí GroupDocs.Conversion .NET - Komplexní průvodce převodem tabulek"
 "url": "/cs/net/spreadsheet-conversion/convert-mhtml-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod MHTML do Excelu pomocí GroupDocs.Conversion .NET: Komplexní průvodce
 
 ## Zavedení

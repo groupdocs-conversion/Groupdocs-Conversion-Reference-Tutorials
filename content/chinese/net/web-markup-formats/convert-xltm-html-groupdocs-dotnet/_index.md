@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将 XLTM 转换为 HTML 综合指南"
 "url": "/zh/net/web-markup-formats/convert-xltm-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将 XLTM 转换为 HTML：综合指南
 
 ## 介绍

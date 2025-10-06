@@ -4,8 +4,8 @@
 "title": "Como converter EMLX para PNG usando GroupDocs.Conversion para .NET"
 "url": "/pt/net/image-conversion/convert-emlx-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter EMLX para PNG usando GroupDocs.Conversion para .NET
 
 ## Introdução

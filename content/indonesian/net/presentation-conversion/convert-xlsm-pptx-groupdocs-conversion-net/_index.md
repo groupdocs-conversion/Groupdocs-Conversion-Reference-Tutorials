@@ -4,8 +4,8 @@
 "title": "Konversi XLSM ke PPTX secara Efisien Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/presentation-conversion/convert-xlsm-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi XLSM ke PPTX Secara Efisien Menggunakan GroupDocs.Conversion untuk .NET: Panduan Lengkap
 
 ## Perkenalan

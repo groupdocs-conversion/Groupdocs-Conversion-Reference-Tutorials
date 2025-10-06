@@ -5,8 +5,8 @@
 "title": "将 OTP 转换为 PDF"
 "url": "/zh/net/pdf-conversion/convert-otp-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # 将 OTP 转换为 PDF
 
 ## 介绍

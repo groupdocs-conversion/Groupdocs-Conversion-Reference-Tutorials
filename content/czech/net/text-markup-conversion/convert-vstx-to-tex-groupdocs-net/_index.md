@@ -4,8 +4,8 @@
 "title": "Efektivní převod VSTX do TEXu pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/text-markup-conversion/convert-vstx-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod VSTX do TEXu pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

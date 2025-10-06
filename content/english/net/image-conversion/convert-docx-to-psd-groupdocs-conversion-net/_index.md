@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Efficient DOCX to PSD Conversion with GroupDocs.Conversion .NET
 
 ## Introduction

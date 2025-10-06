@@ -4,8 +4,8 @@
 "title": "CAD fájlok konvertálása TIFF fájlokká egyéni méretekkel a GroupDocs.Conversion Java használatával&#58; Átfogó útmutató"
 "url": "/hu/java/cad-formats/cad-conversion-tiff-custom-dimensions-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # CAD fájlok konvertálása TIFF fájlokká egyéni méretekkel a GroupDocs.Conversion Java használatával: Átfogó útmutató
 
 ## Bevezetés

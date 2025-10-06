@@ -5,8 +5,8 @@
 "title": "แปลง PPS เป็น PDF"
 "url": "/th/net/pdf-conversion/convert-pps-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # แปลง PPS เป็น PDF
 
 ## การแนะนำ

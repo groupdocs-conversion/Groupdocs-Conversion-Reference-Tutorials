@@ -5,8 +5,8 @@
 "title": "Převod ODP do PDF"
 "url": "/cs/net/document-conversion/convert-odp-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # Převod ODP do PDF
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "แปลง OTT เป็น PSD โดยใช้ GroupDocs.Conversion ใน .NET&#58; คู่มือฉบับสมบูรณ์"
 "url": "/th/net/image-conversion/convert-ott-to-psd-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # แปลง OTT เป็น PSD โดยใช้ GroupDocs.Conversion ใน .NET: คู่มือฉบับสมบูรณ์
 
 ## การแนะนำ

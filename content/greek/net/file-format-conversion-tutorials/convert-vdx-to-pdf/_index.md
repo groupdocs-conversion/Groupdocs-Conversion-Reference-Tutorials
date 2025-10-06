@@ -5,8 +5,8 @@
 "title": "Μετατροπή VDX σε PDF"
 "url": "/el/net/file-format-conversion-tutorials/convert-vdx-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Μετατροπή VDX σε PDF
 
 ## Εισαγωγή

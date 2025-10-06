@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 實現高效率的 RTF 到 XLSX 轉換"
 "url": "/zh-hant/net/spreadsheet-conversion/rtf-to-xlsx-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 實現高效率的 RTF 到 XLSX 轉換
 
 ## 介紹

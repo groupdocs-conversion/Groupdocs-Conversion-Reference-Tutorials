@@ -4,8 +4,8 @@
 "title": "Master GroupDocs.Conversion Java&#58; Komplexní průvodce konverzí dokumentů v aplikacích Java"
 "url": "/cs/java/document-operations/groupdocs-conversion-java-master-document-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Zvládnutí GroupDocs.Conversion v Javě: Odemkněte možnosti konverze dokumentů
 
 ## Zavedení

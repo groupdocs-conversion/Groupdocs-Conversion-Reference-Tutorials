@@ -8,10 +8,8 @@ keywords:
 - DWFX to LaTeX conversion
 - GroupDocs.Conversion for .NET
 - CAD file conversion
-
+type: docs
 ---
-
-
 # Convert DWFX to LaTeX with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

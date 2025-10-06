@@ -3,8 +3,8 @@
 "title": "Hướng dẫn xuất và lưu tài liệu cho GroupDocs.Conversion .NET"
 "url": "/vi/net/document-output-saving/"
 "weight": 6
+type: docs
 ---
-
 # Hướng dẫn xuất và lưu tài liệu cho GroupDocs.Conversion .NET
 
 Hướng dẫn lưu tài liệu của chúng tôi cung cấp hướng dẫn chi tiết để quản lý đầu ra chuyển đổi trong các ứng dụng .NET. Các hướng dẫn từng bước này trình bày cách lưu tài liệu đã chuyển đổi vào luồng, chỉ định các mẫu đặt tên tệp tùy chỉnh, triển khai các chính sách ghi đè tệp đầu ra, tạo đầu ra nhiều phần cho các tài liệu lớn và quản lý các tệp tạm thời trong quá trình chuyển đổi. Mỗi hướng dẫn bao gồm các ví dụ mã C# đang hoạt động cho nhiều tình huống đầu ra khác nhau, giúp bạn xây dựng các ứng dụng có thể xử lý linh hoạt kết quả của các hoạt động chuyển đổi tài liệu trong khi tối ưu hóa việc sử dụng tài nguyên và tổ chức tệp.

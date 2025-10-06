@@ -6,8 +6,8 @@
 "title": "Master Document Conversion - Hướng dẫn & Hướng dẫn GroupDocs.Conversion"
 "url": "/vi/"
 "weight": 11
+type: docs
 ---
-
 # Chuyển đổi bất kỳ định dạng tài liệu nào với GroupDocs.Conversion
 
 Chào mừng bạn đến với nguồn tài nguyên hoàn chỉnh của bạn để thành thạo chuyển đổi tài liệu! Các hướng dẫn toàn diện của chúng tôi trang bị cho các nhà phát triển mọi thứ cần thiết để triển khai các khả năng chuyển đổi tài liệu mạnh mẽ trong các ứng dụng .NET và Java. Cho dù bạn đang chuyển đổi các tệp PDF quan trọng đối với doanh nghiệp, thao tác các tài liệu Office hay xử lý các định dạng chuyên biệt, GroupDocs.Conversion cung cấp các công cụ để hợp lý hóa quy trình làm việc của bạn.

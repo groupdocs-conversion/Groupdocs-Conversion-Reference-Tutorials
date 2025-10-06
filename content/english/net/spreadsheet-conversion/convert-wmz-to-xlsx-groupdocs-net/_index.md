@@ -8,10 +8,8 @@ keywords:
 - WMZ to XLSX conversion
 - GroupDocs.Conversion for .NET
 - file conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Efficient WMZ to XLSX Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

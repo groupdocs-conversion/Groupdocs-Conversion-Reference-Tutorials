@@ -4,8 +4,8 @@
 "title": "Cách thêm hình mờ vào DOCX và chuyển đổi sang PDF bằng GroupDocs.Conversion cho Java"
 "url": "/vi/java/watermarks-annotations/add-watermark-docx-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Cách thêm hình mờ vào tài liệu của bạn bằng GroupDocs.Conversion cho Java
 
 Trong thế giới kỹ thuật số ngày nay, việc bảo vệ tài liệu của bạn khỏi việc sử dụng trái phép là rất quan trọng. Cho dù bạn đang chia sẻ thông tin nhạy cảm hay chỉ muốn gắn nhãn hiệu cho tài liệu của mình, việc thêm hình mờ có thể là một giải pháp hiệu quả. Trong hướng dẫn này, chúng tôi sẽ hướng dẫn bạn quy trình sử dụng **GroupDocs.Conversion cho Java** để thêm hình mờ khi chuyển đổi tệp DOCX sang PDF.

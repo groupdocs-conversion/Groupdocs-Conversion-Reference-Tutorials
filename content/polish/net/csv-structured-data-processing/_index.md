@@ -3,8 +3,8 @@
 "title": "Samouczki dotyczące przetwarzania danych strukturalnych i plików CSV dla GroupDocs.Conversion .NET"
 "url": "/pl/net/csv-structured-data-processing/"
 "weight": 15
+type: docs
 ---
-
 # Samouczki dotyczące przetwarzania danych strukturalnych i plików CSV dla GroupDocs.Conversion .NET
 
 Nasze samouczki dotyczące plików CSV i danych strukturalnych zapewniają szczegółowe wskazówki dotyczące obsługi formatów tabelarycznych i zorientowanych na dane w aplikacjach .NET. Te praktyczne przewodniki pokazują, jak konwertować pliki CSV do formatów JSON i XML, przekształcać pliki CSV do różnych typów dokumentów, określać ograniczniki i opcje kodowania, odpowiednio konwertować dane datetime i numeryczne, zarządzać nagłówkami i nazwami pól, zachowywać typy danych podczas konwersji i wdrażać operacje zbiorczej transformacji danych. Każdy samouczek zawiera kompletne przykłady kodu C# dla scenariuszy konwersji formatu danych, pomagając w tworzeniu aplikacji, które mogą skutecznie łączyć formaty danych surowych i dokumenty czytelne dla człowieka.

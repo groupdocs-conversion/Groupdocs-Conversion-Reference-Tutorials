@@ -4,8 +4,8 @@
 "title": "ICO PNG-vé konvertálása .NET-ben a GroupDocs használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-ico-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # ICO PNG-vé konvertálása .NET-ben a GroupDocs használatával: lépésről lépésre útmutató
 
 ## Bevezetés

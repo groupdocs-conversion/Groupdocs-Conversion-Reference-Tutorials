@@ -4,8 +4,8 @@
 "title": "使用 .NET 和 GroupDocs.Conversion 將 Azure Blob 儲存檔案轉換為 PDF"
 "url": "/zh-hant/net/loading-from-cloud-storage/convert-azure-blob-storage-files-to-pdf-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 .NET 和 GroupDocs.Conversion 下載 Azure Blob 儲存檔案並將其轉換為 PDF
 
 ## 介紹

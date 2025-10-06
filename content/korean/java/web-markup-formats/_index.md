@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Java를 위한 웹 및 마크업 형식 변환 튜토리얼"
 "url": "/ko/java/web-markup-formats/"
 "weight": 13
+type: docs
 ---
-
 # GroupDocs.Conversion Java를 위한 웹 및 마크업 형식 변환 튜토리얼
 
 웹 형식 변환 튜토리얼은 Java에서 GroupDocs.Conversion을 사용하여 마크업 언어와 문서 형식을 변환하는 방법을 보여줍니다. 이 실용적인 가이드는 HTML로 문서를 변환하고, CSS 스타일을 유지하고, 내장된 리소스를 처리하고, XML 구조를 유지하고, 적절한 인코딩 및 렌더링을 보장하는 방법을 단계별로 안내합니다. 각 튜토리얼에는 일반적인 웹 형식 변환 시나리오에 대한 자세한 Java 코드 예제가 포함되어 있어 웹 콘텐츠와 문서 형식 간의 차이를 효과적으로 메울 수 있는 애플리케이션을 구축하는 데 도움이 됩니다.

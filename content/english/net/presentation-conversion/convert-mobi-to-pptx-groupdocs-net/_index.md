@@ -8,10 +8,8 @@ keywords:
 - convert MOBI to PPTX
 - GroupDocs Conversion for .NET
 - file conversion
-
+type: docs
 ---
-
-
 # Convert MOBI to PPTX: A Step-by-Step Guide Using GroupDocs.Conversion for .NET
 
 ## Introduction

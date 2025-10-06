@@ -5,8 +5,8 @@
 "title": "EML E-posta Mesajlarını PDF'ye Dönüştür"
 "url": "/tr/net/convert-files-to-pdf/convert-eml-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # EML E-posta Mesajlarını PDF'ye Dönüştür
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "Nihai Kılavuz&#58; .NET için GroupDocs.Conversion'ı Kullanarak DOTX'i XLS'e Dönüştürme C#"
 "url": "/tr/net/spreadsheet-conversion/groupdocs-dotx-to-xls-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Nihai Kılavuz: .NET için GroupDocs.Conversion'ı Kullanarak DOTX'i XLS'e Dönüştürme C#
 
 ## giriiş

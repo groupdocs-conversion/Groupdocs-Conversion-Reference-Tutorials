@@ -4,8 +4,8 @@
 "title": "ODP fájlok CSV-vé konvertálása a GroupDocs.Conversion .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-odp-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # ODP-fájlok CSV-fájlokká konvertálása a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

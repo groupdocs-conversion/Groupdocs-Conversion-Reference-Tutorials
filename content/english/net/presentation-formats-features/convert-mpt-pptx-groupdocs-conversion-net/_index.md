@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # How to Convert MPT Files to PPTX Using GroupDocs.Conversion for .NET
 
 ## Introduction

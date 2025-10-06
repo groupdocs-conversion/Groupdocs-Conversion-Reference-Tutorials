@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion'ı Kullanarak DOTX'i PDF'ye Verimli Şekilde Dönüştürün"
 "url": "/tr/net/pdf-conversion/groupdocs-conversion-dotx-to-pdf-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak DOTX'i PDF'ye Verimli Şekilde Dönüştürün
 
 ## giriiş

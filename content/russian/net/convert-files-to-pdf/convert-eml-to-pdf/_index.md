@@ -5,8 +5,8 @@
 "title": "Конвертировать сообщения электронной почты EML в PDF"
 "url": "/ru/net/convert-files-to-pdf/convert-eml-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # Конвертировать сообщения электронной почты EML в PDF
 
 ## Введение

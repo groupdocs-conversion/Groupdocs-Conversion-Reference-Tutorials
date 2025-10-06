@@ -8,10 +8,8 @@ keywords:
 - convert EML to PNG
 - GroupDocs.Conversion for .NET
 - EML file conversion
-
+type: docs
 ---
-
-
 # Convert EML Files to PNG Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Convertire J2C in JPG utilizzando GroupDocs.Conversion per .NET&#58; una guida passo passo"
 "url": "/it/net/image-conversion/convert-j2c-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire J2C in JPG utilizzando GroupDocs.Conversion per .NET: una guida passo passo
 
 ## Introduzione

@@ -4,8 +4,8 @@
 "title": "POTM'yi GroupDocs.Conversion for .NET Kullanarak PSD Formatına Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/image-conversion/convert-potm-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # POTM'yi GroupDocs.Conversion for .NET Kullanarak PSD Formatına Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

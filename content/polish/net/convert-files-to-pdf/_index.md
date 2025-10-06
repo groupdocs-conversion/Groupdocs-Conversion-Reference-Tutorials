@@ -5,8 +5,8 @@
 "title": "Konwertuj pliki do formatu PDF"
 "url": "/pl/net/convert-files-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Konwertuj pliki do formatu PDF
 
 ## Wstęp

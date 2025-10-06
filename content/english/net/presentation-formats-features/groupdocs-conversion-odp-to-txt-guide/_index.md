@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion ODP to TXT
 - .NET file conversion
 - convert ODP files
-
+type: docs
 ---
-
-
 # How to Convert ODP Files to TXT Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

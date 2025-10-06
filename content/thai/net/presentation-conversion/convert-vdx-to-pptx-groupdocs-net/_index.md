@@ -4,8 +4,8 @@
 "title": "แปลง VDX เป็น PPTX โดยใช้ GroupDocs.Conversion สำหรับ .NET&#58; คำแนะนำทีละขั้นตอน"
 "url": "/th/net/presentation-conversion/convert-vdx-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลง VDX เป็น PPTX โดยใช้ GroupDocs.Conversion สำหรับ .NET: คำแนะนำทีละขั้นตอน
 
 ## การแนะนำ

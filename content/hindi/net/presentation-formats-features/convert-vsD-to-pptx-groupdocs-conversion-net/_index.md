@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके VSD फ़ाइलों को PPTX कैसे परिवर्तित करें"
 "url": "/hi/net/presentation-formats-features/convert-vsD-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके VSD फ़ाइलों को PPTX कैसे परिवर्तित करें
 
 ## परिचय

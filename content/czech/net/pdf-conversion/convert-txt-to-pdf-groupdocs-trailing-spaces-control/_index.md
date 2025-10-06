@@ -4,8 +4,8 @@
 "title": "Převod TXT do PDF pomocí GroupDocs a ovládání koncových mezer pomocí .NET"
 "url": "/cs/net/pdf-conversion/convert-txt-to-pdf-groupdocs-trailing-spaces-control/"
 "weight": 1
+type: docs
 ---
-
 # Převod TXT do PDF pomocí GroupDocs: Ovládání koncových mezer pomocí .NET
 
 ## Zavedení

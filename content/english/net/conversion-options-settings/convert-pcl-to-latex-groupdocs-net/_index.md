@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert PCL to LaTeX (TEX) Using GroupDocs.Conversion in .NET
 
 ## Introduction

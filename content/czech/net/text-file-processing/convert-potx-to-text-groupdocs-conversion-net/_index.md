@@ -4,8 +4,8 @@
 "title": "Jak převést šablonu PowerPointu (.potx) na text pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/text-file-processing/convert-potx-to-text-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak načíst a převést soubor šablony Microsoft PowerPoint Open XML (.potx) na text pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

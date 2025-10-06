@@ -4,8 +4,8 @@
 "title": "Konvertera VSS till XLSX med hjälp av GroupDocs.Conversion för .NET steg-för-steg-guide"
 "url": "/sv/net/spreadsheet-formats-features/convert-vss-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera VSS till XLSX med GroupDocs.Conversion för .NET: En steg-för-steg-guide
 
 ## Introduktion

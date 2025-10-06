@@ -8,10 +8,8 @@ keywords:
 - convert POTX to XLSX
 - GroupDocs.Conversion for .NET
 - document conversion tutorial
-
+type: docs
 ---
-
-
 # How to Convert POTX to XLSX Using GroupDocs.Conversion for .NET
 
 ## Introduction

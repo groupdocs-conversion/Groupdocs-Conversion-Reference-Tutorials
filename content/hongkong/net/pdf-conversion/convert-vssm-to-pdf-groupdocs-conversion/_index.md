@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 VSSM 檔案轉換為 PDF — 逐步指南"
 "url": "/zh-hant/net/pdf-conversion/convert-vssm-to-pdf-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 VSSM 檔案轉換為 PDF：逐步指南
 
 ## 介紹

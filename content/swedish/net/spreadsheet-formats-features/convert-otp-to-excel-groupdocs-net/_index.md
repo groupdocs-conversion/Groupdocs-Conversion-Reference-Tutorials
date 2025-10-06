@@ -4,8 +4,8 @@
 "title": "Konvertera ursprungsgraf OTP till Excel med GroupDocs.Conversion för .NET"
 "url": "/sv/net/spreadsheet-formats-features/convert-otp-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera ursprungsgraf OTP till Excel med GroupDocs.Conversion för .NET
 
 ## Introduktion

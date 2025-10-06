@@ -5,8 +5,8 @@
 "title": "Konversi File Pemodelan Informasi Bangunan IFC ke PDF"
 "url": "/id/net/convert-files-to-pdf/convert-ifc-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Konversi File Pemodelan Informasi Bangunan IFC ke PDF
 
 ## Perkenalan

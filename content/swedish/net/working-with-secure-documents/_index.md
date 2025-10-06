@@ -3,8 +3,8 @@
 "title": "Handledningar för att arbeta med säkra dokument för GroupDocs.Conversion .NET"
 "url": "/sv/net/working-with-secure-documents/"
 "weight": 5
+type: docs
 ---
-
 # Handledningar för att arbeta med säkra dokument för GroupDocs.Conversion .NET
 
 Upptäck hur du hanterar säkra dokument med våra GroupDocs.Conversion-handledningar för .NET-utvecklare. Dessa steg-för-steg-guider lär dig hur du laddar lösenordsskyddade filer med både standard- och flytande API-metoder, hanterar krypteringsnycklar, anger dokumentspecifika säkerhetsalternativ, hanterar autentiseringsfel på ett smidigt sätt och bevarar säkerhetsinställningar under konvertering när det är lämpligt. Varje handledning ger praktiska C#-kodexempel för att arbeta med skyddade dokument, vilket hjälper dig att bygga applikationer som kan bearbeta säkert innehåll samtidigt som sekretess och åtkomstkontroller respekteras.

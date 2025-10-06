@@ -8,10 +8,8 @@ keywords:
 - Java file caching with GroupDocs.Conversion
 - efficient document conversion in Java
 - cache management for file conversions
-
+type: docs
 ---
-
-
 # How to Implement Java File Caching with GroupDocs.Conversion for Efficient Document Conversion
 
 ## Introduction

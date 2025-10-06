@@ -4,8 +4,8 @@
 "title": "Converteer PowerPoint-sjablonen (.pot) naar SVG met GroupDocs.Conversion voor .NET&#58; een complete handleiding"
 "url": "/nl/net/presentation-formats-features/convert-powerpoint-pot-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer PowerPoint-sjablonen (.pot) naar SVG met GroupDocs.Conversion voor .NET
 ## Invoering
 Zoekt u een efficiënte manier om PowerPoint-sjablonen om te zetten naar schaalbare vectorafbeeldingen? Of u nu een ontwikkelaar bent die de documentverwerking wil verbeteren of POT-bestanden wilt converteren voor webcompatibiliteit, deze tutorial begeleidt u door het proces met behulp van GroupDocs.Conversion voor .NET. Door deze stappen te volgen, kunt u uw workflow stroomlijnen en hoogwaardige SVG-uitvoer produceren met PowerPoint-sjablonen.

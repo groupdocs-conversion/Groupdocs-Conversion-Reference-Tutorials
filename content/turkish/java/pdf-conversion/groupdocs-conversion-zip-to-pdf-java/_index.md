@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Kullanarak Java'da ZIP'i PDF'ye Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/java/pdf-conversion/groupdocs-conversion-zip-to-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Java'da GroupDocs.Conversion Kullanarak ZIP Dosyalarını PDF'ye Dönüştürme
 
 ## giriiş

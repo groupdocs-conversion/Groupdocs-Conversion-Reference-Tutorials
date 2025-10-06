@@ -4,8 +4,8 @@
 "title": "Kompleksowy przewodnik po konwersji plików PDF do formatu PPTX przy użyciu GroupDocs.Conversion dla platformy .NET"
 "url": "/pl/net/pdf-conversion-features/convert-pdf-to-pptx-groupdocs-dotnet-tutorial/"
 "weight": 1
+type: docs
 ---
-
 # Kompleksowy przewodnik po konwersji plików PDF do formatu PPTX przy użyciu GroupDocs.Conversion dla platformy .NET
 
 ## Wstęp

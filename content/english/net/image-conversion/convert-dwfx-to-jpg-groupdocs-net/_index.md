@@ -8,10 +8,8 @@ keywords:
 - convert DWFX to JPG .NET
 - GroupDocs.Conversion for .NET
 - image conversion in .NET
-
+type: docs
 ---
-
-
 # Convert DWFX Files to JPG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

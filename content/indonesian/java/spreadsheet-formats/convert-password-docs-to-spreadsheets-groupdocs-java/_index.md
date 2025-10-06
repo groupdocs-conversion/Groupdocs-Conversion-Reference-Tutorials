@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi Dokumen Word yang Dilindungi Kata Sandi ke Lembar Kerja Excel Menggunakan GroupDocs.Conversion untuk Java"
 "url": "/id/java/spreadsheet-formats/convert-password-docs-to-spreadsheets-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi Dokumen yang Dilindungi Kata Sandi Menggunakan GroupDocs.Conversion untuk Java
 
 ## Perkenalan

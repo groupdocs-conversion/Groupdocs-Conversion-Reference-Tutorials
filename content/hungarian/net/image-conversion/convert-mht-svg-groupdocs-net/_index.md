@@ -4,8 +4,8 @@
 "title": "MHT fájlok SVG-vé konvertálása a GroupDocs.Conversion for .NET használatával - Képkonverziós útmutató"
 "url": "/hu/net/image-conversion/convert-mht-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # MHT fájlok SVG formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 ## Képkonverziós oktatóanyag
 

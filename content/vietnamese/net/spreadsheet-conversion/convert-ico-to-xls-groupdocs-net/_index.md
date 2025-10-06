@@ -4,8 +4,8 @@
 "title": "Chuyển đổi ICO sang XLS bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/spreadsheet-conversion/convert-ico-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp ICO sang XLS bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

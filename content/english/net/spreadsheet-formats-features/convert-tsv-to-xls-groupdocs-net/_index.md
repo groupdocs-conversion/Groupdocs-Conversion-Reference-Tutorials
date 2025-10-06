@@ -8,10 +8,8 @@ keywords:
 - convert TSV to XLS
 - GroupDocs.Conversion for .NET
 - data conversion
-
+type: docs
 ---
-
-
 # Convert TSV to XLS Using GroupDocs.Conversion for .NET
 
 ## Introduction

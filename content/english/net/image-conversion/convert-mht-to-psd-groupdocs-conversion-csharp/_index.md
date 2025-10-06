@@ -8,10 +8,8 @@ keywords:
 - convert MHT to PSD
 - GroupDocs.Conversion C#
 - image conversion C#
-
+type: docs
 ---
-
-
 # Convert MHT to PSD Using GroupDocs.Conversion in C#: A Comprehensive Image Conversion Guide
 
 ## Introduction

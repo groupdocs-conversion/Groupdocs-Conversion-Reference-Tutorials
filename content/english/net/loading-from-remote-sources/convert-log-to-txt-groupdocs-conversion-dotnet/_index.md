@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert LOG to TXT Files Effortlessly with GroupDocs.Conversion for .NET
 
 ## Introduction

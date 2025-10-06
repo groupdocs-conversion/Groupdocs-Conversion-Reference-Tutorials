@@ -4,8 +4,8 @@
 "title": "Comment convertir un fichier PPSM en DOC avec GroupDocs.Conversion pour .NET – Guide étape par étape"
 "url": "/fr/net/presentation-formats-features/convert-ppsm-to-doc-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir un fichier PPSM en DOC avec GroupDocs.Conversion pour .NET
 
 ## Introduction

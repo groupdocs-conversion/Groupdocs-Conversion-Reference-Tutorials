@@ -8,10 +8,8 @@ keywords:
 - convert PPSX to TXT
 - GroupDocs.Conversion for .NET
 - PPTX to Text Conversion
-
+type: docs
 ---
-
-
 # How to Convert PPSX to TXT Using GroupDocs.Conversion for .NET
 
 ## Introduction

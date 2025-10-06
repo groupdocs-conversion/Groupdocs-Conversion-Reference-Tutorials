@@ -4,8 +4,8 @@
 "title": "วิธีแปลงไฟล์ PLT เป็น PDF โดยใช้ GroupDocs.Conversion สำหรับ .NET พร้อมคำแนะนำทีละขั้นตอน"
 "url": "/th/net/pdf-conversion/convert-plt-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # วิธีแปลงไฟล์ PLT เป็น PDF โดยใช้ GroupDocs.Conversion สำหรับ .NET: คำแนะนำทีละขั้นตอน
 
 ## การแนะนำ

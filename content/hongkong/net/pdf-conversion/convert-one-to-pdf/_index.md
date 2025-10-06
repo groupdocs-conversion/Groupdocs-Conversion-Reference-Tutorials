@@ -5,8 +5,8 @@
 "title": "將 ONE 轉換為 PDF"
 "url": "/zh-hant/net/pdf-conversion/convert-one-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # 將 ONE 轉換為 PDF
 
 ## 介紹

@@ -4,8 +4,8 @@
 "title": "تحويل DGN إلى JPG باستخدام GroupDocs.Conversion لـ .NET - دليل خطوة بخطوة"
 "url": "/ar/net/image-conversion/convert-dgn-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل DGN إلى JPG باستخدام GroupDocs.Conversion لـ .NET: دليل خطوة بخطوة
 
 ## مقدمة

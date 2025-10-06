@@ -4,8 +4,8 @@
 "title": "แปลง XML เป็น HTML โดยใช้ GroupDocs.Conversion .NET&#58; คู่มือฉบับสมบูรณ์"
 "url": "/th/net/html-conversion/convert-xml-html-groupdocs-conversion-net-tutorial/"
 "weight": 1
+type: docs
 ---
-
 # แปลง XML เป็น HTML ด้วย GroupDocs.Conversion .NET: คู่มือฉบับสมบูรณ์
 
 ## การแนะนำ

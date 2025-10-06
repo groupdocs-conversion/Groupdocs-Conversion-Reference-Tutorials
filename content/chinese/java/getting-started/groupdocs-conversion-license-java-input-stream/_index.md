@@ -4,8 +4,8 @@
 "title": "如何使用 InputStream 在 Java 中设置 GroupDocs.Conversion 许可证"
 "url": "/zh/java/getting-started/groupdocs-conversion-license-java-input-stream/"
 "weight": 1
+type: docs
 ---
-
 # 如何通过 Java 中的 InputStream 实现 GroupDocs.Conversion 许可证设置
 ## 介绍
 您是否希望使用 GroupDocs.Conversion 的强大功能来增强您的 Java 应用程序？正确设置许可证是至关重要的一步，而使用输入流可以简化此过程。本指南将指导您如何使用 Java 中的输入流设置 GroupDocs 许可证，确保您的转换过程顺利进行，不会出现任何许可问题。

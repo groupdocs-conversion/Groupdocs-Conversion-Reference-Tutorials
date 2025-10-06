@@ -4,8 +4,8 @@
 "title": "Converta XLS para SVG com eficiência usando GroupDocs.Conversion para .NET"
 "url": "/pt/net/image-conversion/convert-xls-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter XLS para SVG com eficiência com o GroupDocs.Conversion para .NET
 
 ## Introdução

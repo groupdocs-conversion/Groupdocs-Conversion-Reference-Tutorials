@@ -4,8 +4,8 @@
 "title": "Chuyển đổi JPG sang TXT bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/text-markup-conversion/convert-jpg-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi JPG sang TXT bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

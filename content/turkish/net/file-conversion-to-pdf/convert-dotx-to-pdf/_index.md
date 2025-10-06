@@ -5,8 +5,8 @@
 "title": "DOTX Word Şablonlarını PDF'ye Dönüştür"
 "url": "/tr/net/file-conversion-to-pdf/convert-dotx-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # DOTX Word Şablonlarını PDF'ye Dönüştür
 
 ## giriiş

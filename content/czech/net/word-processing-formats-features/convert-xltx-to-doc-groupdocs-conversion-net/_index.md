@@ -4,8 +4,8 @@
 "title": "Převod šablony aplikace Excel (.xltx) do dokumentu aplikace Word (DOC) pomocí nástroje GroupDocs.Conversion pro .NET"
 "url": "/cs/net/word-processing-formats-features/convert-xltx-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod šablony aplikace Excel (.xltx) do dokumentu aplikace Word (DOC) pomocí nástroje GroupDocs.Conversion pro .NET
 ## Zavedení
 Vítejte v tomto komplexním průvodci převodem souboru šablony aplikace Excel (.xltx) do formátu dokumentu aplikace Word (DOC) pomocí výkonné knihovny GroupDocs.Conversion pro .NET. Toto řešení je nezbytné pro pracovní postupy správy dokumentů a umožňuje bezproblémovou integraci šablon bohatých na data s textovými dokumenty.

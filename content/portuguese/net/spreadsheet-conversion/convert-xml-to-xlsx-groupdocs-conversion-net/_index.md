@@ -4,8 +4,8 @@
 "title": "Como converter XML para XLSX com GroupDocs.Conversion para .NET - Um guia passo a passo"
 "url": "/pt/net/spreadsheet-conversion/convert-xml-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter XML para XLSX com GroupDocs.Conversion para .NET: um guia passo a passo
 
 ## Introdução

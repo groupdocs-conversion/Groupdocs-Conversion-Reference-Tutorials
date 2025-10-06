@@ -4,8 +4,8 @@
 "title": "VTX konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével | Átfogó útmutató"
 "url": "/hu/net/pdf-conversion/convert-vtx-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VTX konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

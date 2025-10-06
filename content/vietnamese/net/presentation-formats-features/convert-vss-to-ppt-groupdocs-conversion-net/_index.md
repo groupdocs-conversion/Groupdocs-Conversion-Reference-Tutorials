@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi tệp VSS sang bản trình bày PPT bằng GroupDocs.Conversion .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/presentation-formats-features/convert-vss-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp VSS sang bản trình bày PPT bằng GroupDocs.Conversion .NET: Hướng dẫn từng bước
 
 ## Giới thiệu

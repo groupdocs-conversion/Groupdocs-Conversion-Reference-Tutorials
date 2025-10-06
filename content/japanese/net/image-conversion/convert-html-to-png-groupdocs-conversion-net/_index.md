@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して HTML を PNG に簡単に変換する"
 "url": "/ja/net/image-conversion/convert-html-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して HTML を PNG に変換する
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion का उपयोग करके Java में स्प्रेडशीट से PDF रूपांतरण को स्वचालित करें"
 "url": "/hi/java/pdf-conversion/automate-spreadsheet-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion का उपयोग करके Java में स्प्रेडशीट से PDF रूपांतरण को स्वचालित करें
 
 ## परिचय

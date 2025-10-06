@@ -4,8 +4,8 @@
 "title": "Thiết lập chuyển đổi tài liệu chính trong .NET bằng GroupDocs.Conversion"
 "url": "/vi/net/conversion-options-settings/master-groupdocs-conversion-net-setup/"
 "weight": 1
+type: docs
 ---
-
 # Thiết lập thư mục chính để chuyển đổi tài liệu bằng GroupDocs.Conversion .NET
 
 ## Giới thiệu

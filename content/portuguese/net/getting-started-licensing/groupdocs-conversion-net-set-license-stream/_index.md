@@ -4,8 +4,8 @@
 "title": "Definir licença do fluxo no GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/getting-started-licensing/groupdocs-conversion-net-set-license-stream/"
 "weight": 1
+type: docs
 ---
-
 # Definir licença do fluxo no GroupDocs.Conversion para .NET: um guia abrangente
 
 ## Introdução

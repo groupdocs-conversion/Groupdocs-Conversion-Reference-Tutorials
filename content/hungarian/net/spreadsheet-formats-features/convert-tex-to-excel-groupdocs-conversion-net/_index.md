@@ -4,8 +4,8 @@
 "title": "LaTeX (TEX) fájlok konvertálása Excel-táblázatokká a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/spreadsheet-formats-features/convert-tex-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # LaTeX (TEX) fájlok konvertálása Excel-táblázatokká a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

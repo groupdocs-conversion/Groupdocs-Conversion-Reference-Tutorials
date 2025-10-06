@@ -4,8 +4,8 @@
 "title": "Dynamiczne ścieżki wyjściowe w .NET z GroupDocs.Conversion&#58; Kompleksowy przewodnik"
 "url": "/pl/net/document-output-saving/dynamic-output-paths-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Dynamiczne ścieżki wyjściowe w .NET z GroupDocs.Conversion: kompleksowy przewodnik
 
 ## Wstęp

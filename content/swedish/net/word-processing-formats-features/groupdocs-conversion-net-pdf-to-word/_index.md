@@ -4,8 +4,8 @@
 "title": "Konvertera PDF-sidor till Word med GroupDocs.Conversion .NET – en steg-för-steg-guide"
 "url": "/sv/net/word-processing-formats-features/groupdocs-conversion-net-pdf-to-word/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera PDF-sidor till Word med GroupDocs.Conversion .NET: En steg-för-steg-guide
 
 ## Introduktion

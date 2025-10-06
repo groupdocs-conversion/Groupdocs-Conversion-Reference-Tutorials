@@ -5,8 +5,8 @@
 "title": "Převod XLSM do PDF"
 "url": "/cs/net/converting-file-types-to-pdf/convert-xlsm-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # Převod XLSM do PDF
 
 ## Zavedení

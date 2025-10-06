@@ -4,8 +4,8 @@
 "title": "Handleiding voor het converteren van JPG naar TEX met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/image-conversion/master-jpg-to-tex-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Handleiding voor het converteren van JPG naar TEX met GroupDocs.Conversion voor .NET
 
 ## Invoering

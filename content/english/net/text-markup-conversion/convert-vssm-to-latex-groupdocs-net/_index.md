@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # How to Convert VSSM Files to LaTeX Using GroupDocs.Conversion for .NET
 
 ## Introduction

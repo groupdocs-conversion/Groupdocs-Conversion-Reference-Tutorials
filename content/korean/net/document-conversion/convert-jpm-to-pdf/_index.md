@@ -5,8 +5,8 @@
 "title": "JPM을 PDF로 변환"
 "url": "/ko/net/document-conversion/convert-jpm-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # JPM을 PDF로 변환
 
 ## 소개

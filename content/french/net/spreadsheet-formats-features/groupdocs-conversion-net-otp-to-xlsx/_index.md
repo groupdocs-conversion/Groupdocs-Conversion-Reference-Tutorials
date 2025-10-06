@@ -4,8 +4,8 @@
 "title": "Master GroupDocs.Conversion .NET &#58; Convertissez facilement des fichiers OTP au format Excel XLSX"
 "url": "/fr/net/spreadsheet-formats-features/groupdocs-conversion-net-otp-to-xlsx/"
 "weight": 1
+type: docs
 ---
-
 # Master GroupDocs.Conversion .NET : Convertissez facilement des fichiers OTP au format Excel XLSX
 
 ## Introduction

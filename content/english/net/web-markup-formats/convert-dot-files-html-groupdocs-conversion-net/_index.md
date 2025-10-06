@@ -8,10 +8,8 @@ keywords:
 - Convert DOT to HTML
 - GroupDocs.Conversion for .NET
 - automated document conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert DOT to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

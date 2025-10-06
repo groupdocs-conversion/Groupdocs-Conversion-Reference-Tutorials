@@ -5,8 +5,8 @@
 "title": "MPP naar PDF converteren"
 "url": "/nl/net/document-conversion/convert-mpp-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # MPP naar PDF converteren
 
 ## Invoering

@@ -4,8 +4,8 @@
 "title": "Come convertire i file MOBI in PDF utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/pdf-conversion/convert-mobi-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire i file MOBI in PDF utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

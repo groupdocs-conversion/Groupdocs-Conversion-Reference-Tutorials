@@ -4,8 +4,8 @@
 "title": "إتقان GroupDocs.Conversion .NET لتحويل البريد الإلكتروني والملفات - دليل شامل"
 "url": "/ar/net/email-formats-features/mastering-groupdocs-conversion-net-email-file-convert/"
 "weight": 1
+type: docs
 ---
-
 # إتقان GroupDocs.Conversion .NET لتحويل البريد الإلكتروني والملفات: دليل شامل
 
 ## مقدمة

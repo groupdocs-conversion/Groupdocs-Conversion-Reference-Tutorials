@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 有效地將 VSSM 轉換為 PPT——綜合指南"
 "url": "/zh-hant/net/presentation-formats-features/convert-vssm-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion .NET 將 VSSM 文件轉換為 PowerPoint 簡報
 ## 介紹
 在當今快節奏的數位世界中，高效地在不同格式之間轉換文件至關重要。還在為將 Microsoft Visio 啟用巨集的文件 (.vssm) 轉換為 PowerPoint 簡報 (.ppt) 而苦惱嗎？本教學將指導您使用 GroupDocs.Conversion .NET 程式庫實現高效的解決方案。

@@ -4,8 +4,8 @@
 "title": "Convertire i modelli di PowerPoint in PNG utilizzando GroupDocs.Conversion per .NET&#58; una guida passo passo"
 "url": "/it/net/presentation-formats-features/convert-powerpoint-templates-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertire i modelli di PowerPoint in PNG utilizzando GroupDocs.Conversion per .NET: una guida passo passo
 
 ## Introduzione

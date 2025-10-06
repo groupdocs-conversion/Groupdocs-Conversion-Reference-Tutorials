@@ -4,8 +4,8 @@
 "title": "Java'da Özel Yazı Tipleriyle Word'ü PDF'ye Dönüştürme - GroupDocs.Conversion'ı Kullanarak Tam Bir Kılavuz"
 "url": "/tr/java/pdf-conversion/convert-word-pdf-custom-fonts-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Java'da Özel Yazı Tipleriyle Word Belgelerini PDF'ye Dönüştürme: GroupDocs.Conversion'ı Kullanarak Tam Kılavuz
 
 ## giriiş

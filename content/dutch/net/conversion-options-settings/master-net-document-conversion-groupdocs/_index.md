@@ -4,8 +4,8 @@
 "title": ".NET Document Conversion Mastery&#58; gebruik GroupDocs voor naadloze PDF-transformaties"
 "url": "/nl/net/conversion-options-settings/master-net-document-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Documentconversie in .NET onder de knie krijgen met GroupDocs.Conversion
 
 ## Invoering

@@ -5,8 +5,8 @@
 "title": "DOCM Word 문서(매크로)를 PDF로 변환"
 "url": "/ko/net/file-conversion-to-pdf/convert-docm-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # DOCM Word 문서(매크로)를 PDF로 변환
 
 ## 소개

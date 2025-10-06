@@ -4,8 +4,8 @@
 "title": "Converter XLSB para PowerPoint usando GroupDocs.Conversion .NET - Um guia passo a passo"
 "url": "/pt/net/presentation-conversion/convert-xlsb-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter XLSB para PowerPoint usando GroupDocs.Conversion .NET
 
 ## Introdução

@@ -4,8 +4,8 @@
 "title": "เรียนรู้การแปลงไฟล์แนบอีเมล .NET ด้วยไลบรารี GroupDocs.Conversion และคู่มือฉบับสมบูรณ์"
 "url": "/th/net/email-formats-features/net-email-attachment-conversion-groupdocs-guide/"
 "weight": 1
+type: docs
 ---
-
 # เรียนรู้การแปลงไฟล์แนบอีเมล .NET ด้วยไลบรารี GroupDocs.Conversion
 
 ## การแนะนำ

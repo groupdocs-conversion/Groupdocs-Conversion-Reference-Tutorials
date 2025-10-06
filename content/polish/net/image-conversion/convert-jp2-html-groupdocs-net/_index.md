@@ -4,8 +4,8 @@
 "title": "Konwersja JP2 do HTML przy użyciu GroupDocs.Conversion dla .NET&#58; Kompleksowy przewodnik"
 "url": "/pl/net/image-conversion/convert-jp2-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja JP2 do HTML przy użyciu GroupDocs.Conversion dla .NET: kompleksowy przewodnik
 
 ## Wstęp

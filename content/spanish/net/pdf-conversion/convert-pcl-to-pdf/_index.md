@@ -5,8 +5,8 @@
 "title": "Convertir PCL a PDF"
 "url": "/es/net/pdf-conversion/convert-pcl-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # Convertir PCL a PDF
 
 ## Introducción

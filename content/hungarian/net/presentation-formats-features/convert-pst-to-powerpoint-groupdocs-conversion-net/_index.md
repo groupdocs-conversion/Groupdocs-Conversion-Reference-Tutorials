@@ -4,8 +4,8 @@
 "title": "PST fájlok konvertálása PowerPoint formátumba a GroupDocs.Conversion .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/presentation-formats-features/convert-pst-to-powerpoint-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PST fájlok konvertálása PowerPoint formátumba a GroupDocs.Conversion .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

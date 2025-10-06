@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 电子表格格式和功能教程"
 "url": "/zh/net/spreadsheet-formats-features/"
 "weight": 11
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 电子表格格式和功能教程
 
 使用我们的 GroupDocs.Conversion .NET 教程学习如何处理电子表格文档。这些详细的指南演示了如何在 Excel 格式、CSV 和其他电子表格类型之间进行转换、显示或隐藏网格线和注释、跳过空行和空列、指定转换范围和工作表索引、管理隐藏工作表、保留公式和函数、维护单元格格式以及在转换过程中控制计算链。每个教程都包含可运行的 C# 代码示例，展示如何在保留复杂计算和视觉元素的同时实现精确的电子表格转换。

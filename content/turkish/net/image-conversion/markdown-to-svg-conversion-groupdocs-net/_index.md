@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak Markdown'dan SVG'ye Verimli Dönüşüm"
 "url": "/tr/net/image-conversion/markdown-to-svg-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak Markdown'dan SVG'ye Verimli Dönüşüm
 
 ## giriiş

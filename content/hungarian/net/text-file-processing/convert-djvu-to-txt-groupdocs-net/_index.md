@@ -4,8 +4,8 @@
 "title": "DJVU konvertálása TXT-vé a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/text-file-processing/convert-djvu-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DJVU fájlok konvertálása TXT formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

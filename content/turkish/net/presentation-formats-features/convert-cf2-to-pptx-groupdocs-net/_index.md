@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak CF2 Dosyaları PPTX'e Nasıl Dönüştürülür Adım Adım Kılavuz"
 "url": "/tr/net/presentation-formats-features/convert-cf2-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak CF2 Dosyaları PPTX'e Nasıl Dönüştürülür: Adım Adım Kılavuz
 
 ## giriiş

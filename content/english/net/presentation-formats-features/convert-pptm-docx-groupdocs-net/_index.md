@@ -8,10 +8,8 @@ keywords:
 - convert PowerPoint to Word using GroupDocs.Conversion
 - PPTM to DOCX conversion .NET
 - GroupDocs.Conversion for .NET tutorial
-
+type: docs
 ---
-
-
 # Efficiently Convert PowerPoint (PPTM) to Word (DOCX) using GroupDocs.Conversion for .NET
 
 ## Introduction

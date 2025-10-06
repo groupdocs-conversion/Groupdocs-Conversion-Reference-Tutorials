@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie ODP in PDF in .NET mit GroupDocs.Conversion – Ein umfassender Leitfaden"
 "url": "/de/net/pdf-conversion/convert-odp-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie ODP-Dateien mit GroupDocs.Conversion für .NET in PDF
 
 ## Einführung

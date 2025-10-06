@@ -4,8 +4,8 @@
 "title": "Jak převést soubory POT do formátu PSD pomocí GroupDocs.Conversion .NET | Průvodce převodem obrázků"
 "url": "/cs/net/image-conversion/groupdocs-conversion-net-pot-psd/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory POT do PSD pomocí GroupDocs.Conversion .NET
 
 ## Zavedení

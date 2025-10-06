@@ -5,8 +5,8 @@
 "title": "Convertir VSS en PDF"
 "url": "/fr/net/converting-file-types-to-pdf/convert-vss-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Convertir VSS en PDF
 
 ## Introduction

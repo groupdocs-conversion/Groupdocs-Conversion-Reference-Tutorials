@@ -4,8 +4,8 @@
 "title": "Konversi CAD ke PDF yang Efisien menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/pdf-conversion/convert-cad-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi CAD ke PDF yang Efisien Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

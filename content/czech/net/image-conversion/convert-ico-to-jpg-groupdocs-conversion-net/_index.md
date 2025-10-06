@@ -4,8 +4,8 @@
 "title": "Jak převést soubory ICO do formátu JPG pomocí GroupDocs.Conversion .NET"
 "url": "/cs/net/image-conversion/convert-ico-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory ICO do formátu JPG pomocí GroupDocs.Conversion .NET
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanarak PDF'yi PPTX'e Dönüştürmeye Yönelik Kapsamlı Kılavuz"
 "url": "/tr/net/pdf-conversion-features/convert-pdf-to-pptx-groupdocs-dotnet-tutorial/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanarak PDF'yi PPTX'e Dönüştürmeye Yönelik Kapsamlı Kılavuz
 
 ## giriiş

@@ -8,10 +8,8 @@ keywords:
 - convert XPS to CSV
 - GroupDocs.Conversion for .NET
 - XPS file conversion
-
+type: docs
 ---
-
-
 # How to Convert XPS to CSV Using GroupDocs.Conversion for .NET
 
 ## Introduction

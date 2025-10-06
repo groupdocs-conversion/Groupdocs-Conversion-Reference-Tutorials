@@ -4,8 +4,8 @@
 "title": "Efektivní převod ODT do TEXu pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/word-processing-formats-features/convert-odt-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod ODT do TEXu pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

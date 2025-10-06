@@ -4,8 +4,8 @@
 "title": ".NET | CAD और तकनीकी ड्राइंग प्रारूपों के लिए GroupDocs.Conversion के साथ DWT to PPTX को परिवर्तित करें"
 "url": "/hi/net/cad-technical-drawing-formats/convert-dwt-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके DWT फ़ाइलों को PPTX में परिवर्तित करें
 
 ## परिचय

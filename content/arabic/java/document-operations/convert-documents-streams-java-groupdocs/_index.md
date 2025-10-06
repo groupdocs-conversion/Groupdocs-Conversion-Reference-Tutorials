@@ -4,8 +4,8 @@
 "title": "تحويل المستندات من التدفقات في Java باستخدام GroupDocs.Conversion"
 "url": "/ar/java/document-operations/convert-documents-streams-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # تحويل المستندات من التدفقات في Java باستخدام GroupDocs.Conversion
 
 ## مقدمة

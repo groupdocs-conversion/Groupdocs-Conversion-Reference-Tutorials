@@ -4,8 +4,8 @@
 "title": "Conversione da ODS a PPTX con GroupDocs.Conversion per .NET"
 "url": "/it/net/presentation-conversion/convert-ods-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Padroneggiare la conversione da ODS a PPTX con GroupDocs.Conversion per .NET
 
 ## Introduzione

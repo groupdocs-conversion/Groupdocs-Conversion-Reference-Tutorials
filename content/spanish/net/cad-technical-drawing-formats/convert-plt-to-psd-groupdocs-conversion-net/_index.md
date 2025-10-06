@@ -4,8 +4,8 @@
 "title": "Convierta PLT a PSD de manera eficiente con GroupDocs.Conversion para .NET"
 "url": "/es/net/cad-technical-drawing-formats/convert-plt-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Conversión eficiente de archivos PLT a PSD con GroupDocs.Conversion para .NET
 
 ## Introducción

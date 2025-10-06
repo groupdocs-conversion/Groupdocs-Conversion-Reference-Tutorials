@@ -4,8 +4,8 @@
 "title": "Uitgebreide handleiding&#58; VSSM naar TXT converteren met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/text-file-processing/convert-vssm-txt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Uitgebreide handleiding: VSSM naar TXT converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

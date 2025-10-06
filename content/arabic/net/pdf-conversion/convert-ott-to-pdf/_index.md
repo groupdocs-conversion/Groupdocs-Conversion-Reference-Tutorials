@@ -5,8 +5,8 @@
 "title": "تحويل OTT إلى PDF"
 "url": "/ar/net/pdf-conversion/convert-ott-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # تحويل OTT إلى PDF
 
 ## مقدمة

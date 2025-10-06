@@ -4,8 +4,8 @@
 "title": "Převod souborů šablon Excelu (XLTX) do PDF pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/pdf-conversion/convert-xltx-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů šablon Excelu (XLTX) do PDF pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

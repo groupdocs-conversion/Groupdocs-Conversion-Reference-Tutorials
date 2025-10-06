@@ -4,8 +4,8 @@
 "title": "โหลดและแปลงเอกสารที่ป้องกันด้วยรหัสผ่านโดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/working-with-secure-documents/groupdocs-load-convert-password-documents-net/"
 "weight": 1
+type: docs
 ---
-
 # โหลดและแปลงเอกสารที่ป้องกันด้วยรหัสผ่านโดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

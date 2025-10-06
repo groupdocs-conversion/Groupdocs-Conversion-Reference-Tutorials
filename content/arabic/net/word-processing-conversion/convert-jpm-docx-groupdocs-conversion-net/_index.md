@@ -4,8 +4,8 @@
 "title": "تحويل JPM إلى DOCX بسهولة باستخدام GroupDocs.Conversion .NET لتحويل الملفات بسلاسة"
 "url": "/ar/net/word-processing-conversion/convert-jpm-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل JPM إلى DOCX بسهولة: استخدام GroupDocs.Conversion .NET لتحويل الملفات بسلاسة
 
 ## مقدمة

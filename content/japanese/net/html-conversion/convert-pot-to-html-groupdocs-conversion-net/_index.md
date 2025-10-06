@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して PowerPoint テンプレートを HTML に変換する手順"
 "url": "/ja/net/html-conversion/convert-pot-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して PowerPoint テンプレートを HTML に変換する: ステップバイステップ ガイド
 
 ## 導入

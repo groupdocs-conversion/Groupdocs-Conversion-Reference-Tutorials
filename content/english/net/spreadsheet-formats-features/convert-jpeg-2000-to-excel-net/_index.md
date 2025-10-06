@@ -8,10 +8,8 @@ keywords:
 - convert JPEG 2000 to Excel
 - GroupDocs.Conversion for .NET
 - JPEG 2000 to XLSX conversion
-
+type: docs
 ---
-
-
 # Convert JPEG 2000 to Excel Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -3,8 +3,8 @@
 "title": "Tutorial Kompresi dan Penanganan Arsip untuk GroupDocs.Conversion .NET"
 "url": "/id/net/compression-archive-handling/"
 "weight": 20
+type: docs
 ---
-
 # Tutorial Kompresi dan Penanganan Arsip untuk GroupDocs.Conversion .NET
 
 Temukan cara memproses format arsip dengan tutorial GroupDocs.Conversion kami untuk pengembang .NET. Panduan terperinci ini mengajarkan Anda cara mengonversi dari format terkompresi seperti RAR ke jenis dokumen lain, mengekstrak konten dari arsip, mengompres hasil konversi, menentukan file yang akan diekstrak dari arsip, menangani arsip yang dilindungi kata sandi, mengelola arsip multivolume, dan menerapkan ekstraksi file selektif. Setiap tutorial menyediakan contoh kode C# praktis untuk bekerja dengan file terkompresi, membantu Anda membangun aplikasi yang dapat mengakses dan mengubah konten yang disimpan dalam berbagai format arsip secara efektif.

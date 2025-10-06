@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Learn how to convert XLTX files to PDF seamlessly using GroupDocs.Conversion for .NET. Enhance your .NET applications' versatility.
 weight: 28
 url: /net/converting-file-types-to-pdf/convert-xltx-to-pdf/
+type: docs
 ---
-
 # Convert XLTX to PDF
 
 ## Introduction

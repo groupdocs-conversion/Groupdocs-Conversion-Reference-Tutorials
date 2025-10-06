@@ -4,8 +4,8 @@
 "title": "Effiziente MBOX-zu-DOCX-Konvertierung mit GroupDocs.Conversion für .NET"
 "url": "/de/net/email-formats-features/convert-mbox-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Effiziente MBOX-zu-DOCX-Konvertierung mit GroupDocs.Conversion für .NET
 
 ## Einführung

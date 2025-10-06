@@ -4,8 +4,8 @@
 "title": "Hatékony PowerPoint konvertálás – PPT PPTX-be konvertálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/presentation-formats-features/convert-ppt-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony PowerPoint konvertálás: PPT PPTX-be konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

@@ -5,8 +5,8 @@
 "title": "JPEG-LS (.JLS) ファイルを PDF に変換する"
 "url": "/ja/net/convert-files-to-pdf/convert-jls-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # JPEG-LS (.JLS) ファイルを PDF に変換する
 
 ## 導入

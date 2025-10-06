@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanılarak Verimli DOCX'ten PNG'ye Dönüştürme"
 "url": "/tr/net/image-conversion/convert-docx-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanılarak Verimli DOCX'ten PNG'ye Dönüştürme
 
 ## giriiş

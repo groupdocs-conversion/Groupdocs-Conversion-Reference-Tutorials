@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 開發人員入門與授權教學課程"
 "url": "/zh-hant/net/getting-started-licensing/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 開發人員入門與授權教學課程
 
 從這些 GroupDocs.Conversion 的必備教學開始您的學習之旅，這些教學將引導您完成安裝、授權配置以及在 .NET 中執行首次文件轉換。我們針對初學者的指南示範如何設定開發環境、初始化 GroupDocs.Conversion 函式庫、從文件或流配置許可證、設定計量許可，以及如何使用標準 API 和 Fluent API 實現基本的轉換操作。學習這些教程，您可以快速掌握基礎知識，並為在 .NET 應用程式中執行更高級的文件轉換任務做好準備。

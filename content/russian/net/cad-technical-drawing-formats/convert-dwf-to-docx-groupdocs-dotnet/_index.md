@@ -4,8 +4,8 @@
 "title": "Конвертируйте DWF в DOCX легко с помощью GroupDocs.Conversion для .NET | Пошаговое руководство"
 "url": "/ru/net/cad-technical-drawing-formats/convert-dwf-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте DWF в DOCX с помощью GroupDocs.Conversion для .NET
 
 ## Введение

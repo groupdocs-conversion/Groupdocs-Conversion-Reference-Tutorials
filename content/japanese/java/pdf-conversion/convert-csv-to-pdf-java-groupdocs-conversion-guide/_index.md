@@ -4,8 +4,8 @@
 "title": "JavaでCSVをPDFに変換する - GroupDocs.Conversion for Javaを使用したステップバイステップガイド"
 "url": "/ja/java/pdf-conversion/convert-csv-to-pdf-java-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # JavaでCSVをPDFに変換する：GroupDocs.Conversion for Javaを使ったステップバイステップガイド
 
 ## 導入

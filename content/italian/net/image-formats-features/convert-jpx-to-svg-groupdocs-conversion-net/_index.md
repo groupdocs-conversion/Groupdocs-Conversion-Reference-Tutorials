@@ -4,8 +4,8 @@
 "title": "Come convertire JPX in SVG utilizzando GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/image-formats-features/convert-jpx-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire JPX in SVG utilizzando GroupDocs.Conversion per .NET: una guida completa
 
 ## Introduzione

@@ -5,8 +5,8 @@
 "title": "PPS konvertálása PDF-be"
 "url": "/hu/net/pdf-conversion/convert-pps-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # PPS konvertálása PDF-be
 
 ## Bevezetés

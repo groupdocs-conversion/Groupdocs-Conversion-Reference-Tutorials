@@ -4,8 +4,8 @@
 "title": "DICOM HTML-lé konvertálása .NET-ben a GroupDocs.Conversion használatával – Átfogó útmutató"
 "url": "/hu/net/web-markup-formats/convert-dicom-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DICOM HTML-lé konvertálása .NET-ben a GroupDocs.Conversion használatával
 
 ## Bevezetés

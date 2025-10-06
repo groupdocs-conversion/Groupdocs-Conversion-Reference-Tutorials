@@ -4,8 +4,8 @@
 "title": "Converti Visio VSTM in LaTeX utilizzando GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/text-markup-conversion/convert-visio-vstm-to-latex-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Convertire il modello di disegno Visio con macro abilitate (.vstm) in un documento sorgente LaTeX (.tex) utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

@@ -4,8 +4,8 @@
 "title": "FTP dokumentumok hatékony konvertálása PDF-be a GroupDocs.Conversion for Java használatával – Fejlesztői útmutató"
 "url": "/hu/java/pdf-conversion/convert-ftp-documents-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # FTP dokumentumok hatékony konvertálása PDF-be a GroupDocs.Conversion for Java segítségével
 
 ## Bevezetés

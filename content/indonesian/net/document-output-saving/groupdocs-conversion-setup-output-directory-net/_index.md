@@ -4,8 +4,8 @@
 "title": "Cara Menyiapkan Jalur Direktori Output dengan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/document-output-saving/groupdocs-conversion-setup-output-directory-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Menyiapkan Jalur Direktori Output Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

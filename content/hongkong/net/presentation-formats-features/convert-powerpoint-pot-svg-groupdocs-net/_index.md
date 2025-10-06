@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 PowerPoint 範本 (.pot) 轉換為 SVG 完整指南"
 "url": "/zh-hant/net/presentation-formats-features/convert-powerpoint-pot-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 PowerPoint 範本（.pot）轉換為 SVG
 ## 介紹
 您是否正在尋找一種將 PowerPoint 範本轉換為可縮放向量圖形的有效方法？無論您是希望增強文件處理的開發人員，還是需要轉換 POT 文件以實現 Web 相容性，本教學都會引導您使用 GroupDocs.Conversion for .NET 完成整個轉換過程。請依照以下步驟操作，您可以簡化工作流程，並從 PowerPoint 範本產生高品質的 SVG 輸出。

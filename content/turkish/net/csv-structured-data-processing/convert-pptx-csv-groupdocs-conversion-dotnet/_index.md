@@ -4,8 +4,8 @@
 "title": "PPTX'i GroupDocs.Conversion for .NET ile Verimli Şekilde CSV'ye Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/csv-structured-data-processing/convert-pptx-csv-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # PPTX'i GroupDocs.Conversion for .NET ile Verimli Şekilde CSV'ye Dönüştürün: Adım Adım Kılavuz
 
 ## giriiş

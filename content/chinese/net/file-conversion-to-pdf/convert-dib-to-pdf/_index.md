@@ -5,8 +5,8 @@
 "title": "将 DIB 图像转换为 PDF"
 "url": "/zh/net/file-conversion-to-pdf/convert-dib-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # 将 DIB 图像转换为 PDF
 
 ## 介绍

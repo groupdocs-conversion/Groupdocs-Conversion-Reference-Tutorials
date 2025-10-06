@@ -4,8 +4,8 @@
 "title": "Podrobný návod&#58; Převod JPC do SVG pomocí GroupDocs.Conversion .NET pro bezproblémovou konverzi obrázků"
 "url": "/cs/net/image-conversion/convert-jpc-svg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Podrobný návod: Převod JPC do SVG pomocí GroupDocs.Conversion .NET pro bezproblémovou konverzi obrázků
 
 ## Zavedení

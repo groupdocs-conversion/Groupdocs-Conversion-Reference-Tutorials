@@ -4,8 +4,8 @@
 "title": ".NET'te GroupDocs.Conversion Kullanılarak Kusursuz Görüntü Dönüşümü için RTF'yi JPG'ye Nasıl Dönüştürebilirsiniz"
 "url": "/tr/net/image-conversion/convert-rtf-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET Nasıl Uygulanır: RTF'yi JPG'ye Dönüştürme
 
 ## giriiş

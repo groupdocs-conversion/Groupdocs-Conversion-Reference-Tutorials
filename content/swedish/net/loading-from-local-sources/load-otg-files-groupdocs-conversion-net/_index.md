@@ -4,8 +4,8 @@
 "title": "Ladda och konvertera OTG-filer med GroupDocs.Conversion för .NET – en utvecklarguide"
 "url": "/sv/net/loading-from-local-sources/load-otg-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Ladda och konvertera OTG-filer med GroupDocs.Conversion för .NET: En utvecklarguide
 
 ## Introduktion

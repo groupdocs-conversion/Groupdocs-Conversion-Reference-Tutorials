@@ -4,8 +4,8 @@
 "title": "Hogyan konvertálhatunk Visio Stencil fájlokat (VSSX) PowerPoint bemutatókká a GroupDocs.Conversion for .NET használatával?"
 "url": "/hu/net/presentation-formats-features/convert-visio-vssx-to-powerpoint-pptx-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhatunk Visio Stencil fájlokat (VSSX) PowerPoint bemutatókká a GroupDocs.Conversion for .NET használatával?
 
 ## Bevezetés

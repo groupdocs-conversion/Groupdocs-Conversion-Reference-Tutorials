@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie ODT in TXT in .NET mit GroupDocs.Conversion – Eine Schritt-für-Schritt-Anleitung"
 "url": "/de/net/word-processing-formats-features/convert-odt-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie ODT in TXT in .NET mit GroupDocs.Conversion: Eine Schritt-für-Schritt-Anleitung
 ## Einführung
 Möchten Sie Ihre Dokumentenverarbeitung optimieren, indem Sie Open Document Text (.odt)-Dateien in einfachen Text (.txt) konvertieren? Diese Schritt-für-Schritt-Anleitung hilft Ihnen bei der Nutzung der leistungsstarken Bibliothek GroupDocs.Conversion in einer .NET-Umgebung. Diese Funktion ist entscheidend für die effiziente Extraktion und Bearbeitung von Textinhalten aus ODT-Dokumenten.

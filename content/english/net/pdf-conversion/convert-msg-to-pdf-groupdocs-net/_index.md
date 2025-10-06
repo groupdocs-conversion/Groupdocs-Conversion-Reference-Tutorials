@@ -8,10 +8,8 @@ keywords:
 - convert msg to pdf
 - GroupDocs.Conversion .NET
 - automated file conversion
-
+type: docs
 ---
-
-
 # Convert MSG to PDF Using GroupDocs in .NET: A Comprehensive Guide
 
 ## Introduction

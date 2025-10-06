@@ -4,8 +4,8 @@
 "title": "DJVU konvertálása DOC-ba a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/word-processing-conversion/convert-djvu-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DJVU konvertálása DOC-ba a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

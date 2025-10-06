@@ -8,10 +8,8 @@ keywords:
 - convert XLTX to DOC
 - GroupDocs.Conversion for .NET
 - Word document conversion
-
+type: docs
 ---
-
-
 # Convert Excel Template (.xltx) to Word Document (DOC) Using GroupDocs.Conversion for .NET
 ## Introduction
 Welcome to this comprehensive guide on converting an Excel Template (.xltx) file into a Word Document (DOC) format using the powerful GroupDocs.Conversion for .NET library. This solution is essential in document management workflows, allowing seamless integration of data-rich templates with text-based documents.

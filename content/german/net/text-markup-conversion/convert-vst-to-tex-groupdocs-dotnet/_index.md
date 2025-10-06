@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie VST-Dateien mit GroupDocs.Conversion für .NET in TEX – Eine vollständige Anleitung"
 "url": "/de/net/text-markup-conversion/convert-vst-to-tex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie VST-Dateien mit GroupDocs.Conversion für .NET in TEX
 
 ## Einführung

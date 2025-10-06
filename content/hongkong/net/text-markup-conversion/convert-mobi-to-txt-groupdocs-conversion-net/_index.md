@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 將 MOBI 檔案轉換為 TXT 檔案－逐步指南"
 "url": "/zh-hant/net/text-markup-conversion/convert-mobi-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將 MOBI 檔案轉換為 TXT：逐步指南
 
 ## 介紹

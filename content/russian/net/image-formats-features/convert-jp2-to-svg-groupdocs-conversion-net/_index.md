@@ -4,8 +4,8 @@
 "title": "Конвертируйте JP2 в SVG с помощью GroupDocs.Conversion для .NET. Подробное руководство"
 "url": "/ru/net/image-formats-features/convert-jp2-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертация JP2 в SVG с помощью GroupDocs.Conversion для .NET: подробное руководство
 
 ## Введение

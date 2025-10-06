@@ -8,10 +8,8 @@ keywords:
 - convert EMZ to DOCX
 - GroupDocs.Conversion for .NET
 - file conversion tutorial
-
+type: docs
 ---
-
-
 # Convert EMZ Files to DOCX with GroupDocs.Conversion for .NET
 
 ## Introduction

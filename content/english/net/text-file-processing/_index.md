@@ -3,8 +3,8 @@ title: "Text File Processing Tutorials for GroupDocs.Conversion .NET"
 description: "Step-by-step tutorials for converting to and from text files and managing text-specific features with GroupDocs.Conversion for .NET."
 weight: 17
 url: "/net/text-file-processing/"
+type: docs
 ---
-
 # Text File Processing Tutorials for GroupDocs.Conversion .NET
 
 Our text file conversion tutorials show you how to work with plain text content using GroupDocs.Conversion in .NET. These detailed guides walk through controlling leading and trailing spaces behavior during text conversion, specifying encoding options for text files, preserving formatting when possible, handling line breaks and special characters, implementing text wrapping policies, setting up pagination for converted text, and managing bidirectional text requirements. Each tutorial includes working C# code examples for text file conversion scenarios, helping you build applications that can effectively process plain text while maintaining readability and structure in the output.

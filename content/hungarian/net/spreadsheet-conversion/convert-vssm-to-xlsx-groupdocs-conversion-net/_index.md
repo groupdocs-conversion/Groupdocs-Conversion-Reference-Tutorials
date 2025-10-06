@@ -4,8 +4,8 @@
 "title": "VSSM hatékony konvertálása XLSX-be a GroupDocs.Conversion .NET használatával táblázatkezelő konverzióhoz"
 "url": "/hu/net/spreadsheet-conversion/convert-vssm-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VSSM konvertálása XLSX-re a GroupDocs.Conversion .NET segítségével
 
 ## Bevezetés

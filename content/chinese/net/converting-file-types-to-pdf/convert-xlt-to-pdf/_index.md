@@ -5,8 +5,8 @@
 "title": "将 XLT 转换为 PDF"
 "url": "/zh/net/converting-file-types-to-pdf/convert-xlt-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # 将 XLT 转换为 PDF
 
 

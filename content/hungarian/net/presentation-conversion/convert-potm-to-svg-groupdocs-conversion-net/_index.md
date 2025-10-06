@@ -4,8 +4,8 @@
 "title": "POTM konvertálása SVG-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/presentation-conversion/convert-potm-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # POTM fájlok konvertálása SVG-vé a GroupDocs.Conversion for .NET használatával
 ## Bevezetés
 Szeretnéd Microsoft PowerPoint sablonfájljaidat (.potm) méretezhető vektorgrafikává (SVG) alakítani? Kövesd ezt az átfogó útmutatót a hatékony GroupDocs.Conversion for .NET könyvtár segítségével. Könnyedén és hatékonyan fejlesztheted dokumentumkezelési munkafolyamatodat azzal, hogy megtanulod, hogyan konvertálhatod a POTM fájlokat SVG formátumba.

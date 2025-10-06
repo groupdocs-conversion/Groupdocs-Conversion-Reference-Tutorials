@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して RTF を XLS に変換する方法 - 完全ガイド"
 "url": "/ja/net/spreadsheet-formats-features/convert-rtf-to-xls-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して RTF を XLS に変換する方法: 完全ガイド
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 Word 範本（.dotm）轉換為 PNG"
 "url": "/zh-hant/net/image-conversion/convert-dotm-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 Word 範本轉換為 PNG 圖片
 
 ## 介紹

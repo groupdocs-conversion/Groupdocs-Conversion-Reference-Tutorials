@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie ODS-Dateien in das TEX-Format mit GroupDocs.Conversion für .NET"
 "url": "/de/net/spreadsheet-formats-features/convert-ods-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Umfassender Leitfaden: Konvertieren von ODS-Dateien in das TEX-Format mit GroupDocs.Conversion für .NET
 
 ## Einführung

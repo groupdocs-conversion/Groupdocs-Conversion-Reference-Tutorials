@@ -5,8 +5,8 @@
 "title": "Μετατροπή διανυσματικών γραφικών CGM σε PDF"
 "url": "/el/net/file-conversion-to-pdf/convert-cgm-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # Μετατροπή διανυσματικών γραφικών CGM σε PDF
 
 ## Εισαγωγή

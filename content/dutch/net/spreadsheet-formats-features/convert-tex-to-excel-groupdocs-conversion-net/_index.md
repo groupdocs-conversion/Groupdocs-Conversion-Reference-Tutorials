@@ -4,8 +4,8 @@
 "title": "Converteer LaTeX (TEX)-bestanden naar Excel-spreadsheets met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/spreadsheet-formats-features/convert-tex-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer LaTeX (TEX)-bestanden naar Excel-spreadsheets met GroupDocs.Conversion voor .NET
 
 ## Invoering

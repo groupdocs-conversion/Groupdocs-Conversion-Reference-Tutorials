@@ -8,10 +8,8 @@ keywords:
 - convert DGN to PNG
 - GroupDocs.Conversion for .NET
 - C# file conversion
-
+type: docs
 ---
-
-
 # How to Convert DGN Files to PNG Using GroupDocs.Conversion for .NET: A Complete Guide
 
 ## Introduction

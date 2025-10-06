@@ -4,8 +4,8 @@
 "title": "Hướng dẫn toàn diện&#58; Chuyển đổi tệp LOG sang HTML bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/html-conversion/convert-log-files-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Hướng dẫn toàn diện: Chuyển đổi tệp LOG sang HTML bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

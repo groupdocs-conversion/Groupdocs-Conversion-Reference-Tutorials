@@ -4,8 +4,8 @@
 "title": "Converter VSS para PNG usando GroupDocs.Conversion para .NET - Um guia passo a passo"
 "url": "/pt/net/image-conversion/convert-vss-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converter VSS para PNG usando GroupDocs.Conversion para .NET: um guia passo a passo
 
 ## Introdução

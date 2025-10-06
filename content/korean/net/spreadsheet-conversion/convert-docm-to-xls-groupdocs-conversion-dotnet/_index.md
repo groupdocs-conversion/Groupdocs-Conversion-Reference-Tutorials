@@ -4,8 +4,8 @@
 "title": ".NET에서 GroupDocs.Conversion을 사용하여 DOCM을 XLS로 변환하는 방법&#58; 단계별 가이드"
 "url": "/ko/net/spreadsheet-conversion/convert-docm-to-xls-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET에서 GroupDocs.Conversion을 사용하여 DOCM을 XLS로 변환하는 방법: 단계별 가이드
 ## 소개
 Microsoft Word 매크로 사용 문서(.docm)를 Excel 형식으로 변환해야 하나요? 이 튜토리얼에서는 .NET에서 GroupDocs.Conversion 라이브러리를 사용하여 효율적으로 문서를 변환하는 방법을 안내합니다.

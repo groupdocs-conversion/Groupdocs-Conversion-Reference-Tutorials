@@ -4,8 +4,8 @@
 "title": "Jak konwertować pliki IFC do formatu PPTX za pomocą GroupDocs.Conversion dla .NET&#58; Kompleksowy przewodnik"
 "url": "/pl/net/presentation-conversion/convert-ifc-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak konwertować pliki IFC do formatu PPTX za pomocą GroupDocs.Conversion dla .NET: kompleksowy przewodnik
 
 ## Wstęp

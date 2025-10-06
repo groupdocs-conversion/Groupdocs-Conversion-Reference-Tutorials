@@ -5,8 +5,8 @@
 "title": "แปลง SXC เป็น PDF"
 "url": "/th/net/file-format-conversion-tutorials/convert-sxc-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # แปลง SXC เป็น PDF
 
 ## การแนะนำ

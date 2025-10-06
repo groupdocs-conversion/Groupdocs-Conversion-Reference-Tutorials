@@ -5,8 +5,8 @@
 "title": "將 DWG CAD 檔案轉換為 PDF"
 "url": "/zh-hant/net/convert-files-to-pdf/convert-dwg-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # 將 DWG CAD 檔案轉換為 PDF
 
 ## 介紹

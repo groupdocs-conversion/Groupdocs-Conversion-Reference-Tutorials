@@ -4,8 +4,8 @@
 "title": "EML konvertálása PNG-vé a GroupDocs.Conversion for .NET használatával - Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-eml-to-png-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # EML fájlok konvertálása PNG-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

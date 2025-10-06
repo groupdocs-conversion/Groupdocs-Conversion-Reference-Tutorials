@@ -4,8 +4,8 @@
 "title": "Průvodce převodem souborů MHT do CSV pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/csv-structured-data-processing/mastering-mht-to-csv-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Průvodce převodem souborů MHT do CSV pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

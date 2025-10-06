@@ -4,8 +4,8 @@
 "title": "Converteer MHTML naar DOC met GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/word-processing-conversion/convert-mhtml-to-doc-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converteer MHTML naar DOC met GroupDocs.Conversion voor .NET: een uitgebreide handleiding
 
 ## Invoering

@@ -4,8 +4,8 @@
 "title": "Comment convertir des fichiers OTP en PSD avec GroupDocs.Conversion pour .NET"
 "url": "/fr/net/image-conversion/convert-otp-to-psd-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir des fichiers OTP en PSD avec GroupDocs.Conversion pour .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中将 DWG 转换为 DOC，实现无缝文档转换"
 "url": "/zh/net/cad-technical-drawing-formats/convert-dwg-to-doc-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 .NET 中将 DWG 转换为 DOC
 
 ## 介绍

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion을 사용한 .NET에서의 효율적인 문서 경로 관리 - 원활한 변환을 위한 상수 정의"
 "url": "/ko/net/conversion-options-settings/groupdocs-net-define-document-paths/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용한 .NET에서의 효율적인 문서 경로 관리
 
 ## 소개

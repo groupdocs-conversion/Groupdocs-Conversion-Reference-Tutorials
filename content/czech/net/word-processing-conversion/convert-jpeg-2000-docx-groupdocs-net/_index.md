@@ -4,8 +4,8 @@
 "title": "Snadný převod JPEG 2000 do DOCX pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/word-processing-conversion/convert-jpeg-2000-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod JPEG 2000 do Microsoft Word DOCX pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

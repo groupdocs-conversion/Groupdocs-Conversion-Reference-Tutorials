@@ -8,10 +8,8 @@ keywords:
 - convert POTM to PDF
 - GroupDocs.Conversion for .NET
 - PDF conversion with GroupDocs
-
+type: docs
 ---
-
-
 # How to Convert POTM Files to PDF with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

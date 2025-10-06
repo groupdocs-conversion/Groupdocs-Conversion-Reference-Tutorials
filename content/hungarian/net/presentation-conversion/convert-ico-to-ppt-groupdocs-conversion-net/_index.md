@@ -4,8 +4,8 @@
 "title": "ICO fájlok PowerPoint formátumba konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/presentation-conversion/convert-ico-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # ICO fájlok konvertálása PowerPoint prezentációkká a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

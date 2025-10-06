@@ -8,10 +8,8 @@ keywords:
 - convert PPTX to TXT
 - GroupDocs.Conversion .NET
 - automate text extraction PowerPoint
-
+type: docs
 ---
-
-
 # Efficiently Convert PPTX to TXT Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Converteer Excel-sjabloon (.xltx) naar Word-document (DOC) met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/word-processing-formats-features/convert-xltx-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer Excel-sjabloon (.xltx) naar Word-document (DOC) met GroupDocs.Conversion voor .NET
 ## Invoering
 Welkom bij deze uitgebreide handleiding voor het converteren van een Excel-sjabloon (.xltx) naar een Word-document (DOC) met behulp van de krachtige GroupDocs.Conversion voor .NET-bibliotheek. Deze oplossing is essentieel in documentbeheerworkflows en zorgt voor een naadloze integratie van datarijke sjablonen met tekstdocumenten.

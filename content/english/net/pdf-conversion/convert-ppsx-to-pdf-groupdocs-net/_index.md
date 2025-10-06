@@ -8,10 +8,8 @@ keywords:
 - PPSX to PDF conversion
 - GroupDocs.Conversion .NET
 - document conversion in .NET
-
+type: docs
 ---
-
-
 # Convert PPSX to PDF Using GroupDocs.Conversion in .NET
 
 ## Introduction

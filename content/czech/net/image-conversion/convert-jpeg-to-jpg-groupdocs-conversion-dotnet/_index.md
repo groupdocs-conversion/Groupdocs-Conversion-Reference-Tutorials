@@ -4,8 +4,8 @@
 "title": "Jak převést JPEG do JPG pomocí GroupDocs.Conversion pro .NET (podrobný návod)"
 "url": "/cs/net/image-conversion/convert-jpeg-to-jpg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést JPEG do JPG pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

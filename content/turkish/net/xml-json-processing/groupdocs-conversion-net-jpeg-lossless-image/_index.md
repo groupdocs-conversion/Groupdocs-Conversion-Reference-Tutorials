@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak JLS Dosyalarını PDF'ye ve Daha Fazlasına Dönüştürün"
 "url": "/tr/net/xml-json-processing/groupdocs-conversion-net-jpeg-lossless-image/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak JLS Dosyalarını PDF'ye ve Daha Fazlasına Dönüştürün
 
 ## giriiş

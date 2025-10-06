@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 將 BMP 轉換為 PPTX 的綜合指南"
 "url": "/zh-hant/net/presentation-formats-features/convert-bmp-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 將 BMP 轉換為 PPTX：逐步指南
 
 ## 介紹

@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 將 FODP 檔案轉換為 CSV——逐步指南"
 "url": "/zh-hant/net/spreadsheet-formats-features/convert-fodp-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將 FODP 檔案轉換為 CSV
 ## 介紹
 將複雜的 FODP 檔案轉換為易於存取的 CSV 格式，簡化資料管理。本逐步教學將引導您使用強大的 GroupDocs.Conversion .NET 函式庫，以實現無縫且有效率的檔案轉換。

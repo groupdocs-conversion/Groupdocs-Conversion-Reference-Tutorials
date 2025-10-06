@@ -4,8 +4,8 @@
 "title": "CGM fájlok XLSX formátumra konvertálása a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/spreadsheet-conversion/convert-cgm-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # CGM fájlok XLSX formátumra konvertálása a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

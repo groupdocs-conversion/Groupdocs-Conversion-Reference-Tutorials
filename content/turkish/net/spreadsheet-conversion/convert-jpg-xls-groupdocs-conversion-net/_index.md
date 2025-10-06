@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET kullanarak JPG'yi XLS'ye dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/spreadsheet-conversion/convert-jpg-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak JPG'nin XLS'ye Dönüştürülmesi: Kapsamlı Bir Kılavuz
 
 ## giriiş

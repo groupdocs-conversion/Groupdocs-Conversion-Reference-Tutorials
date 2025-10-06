@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET ile VSTX'i PSD'ye Kolayca Dönüştürün Kapsamlı Bir Kılavuz"
 "url": "/tr/net/image-formats-features/convert-vstx-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs ile VSTX'i PSD'ye Kolayca Dönüştürün. .NET için Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

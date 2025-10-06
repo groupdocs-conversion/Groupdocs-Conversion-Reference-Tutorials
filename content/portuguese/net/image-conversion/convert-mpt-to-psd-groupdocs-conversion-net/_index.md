@@ -4,8 +4,8 @@
 "title": "Converter MPT para PSD no .NET usando GroupDocs.Conversion - Um guia passo a passo"
 "url": "/pt/net/image-conversion/convert-mpt-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converter MPT para PSD no .NET usando GroupDocs.Conversion: um guia passo a passo
 
 ## Introdução

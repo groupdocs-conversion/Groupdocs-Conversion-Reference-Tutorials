@@ -4,8 +4,8 @@
 "title": "Chuyển đổi Word sang PDF với Phông chữ tùy chỉnh trong Java&#58; Hướng dẫn đầy đủ sử dụng GroupDocs.Conversion"
 "url": "/vi/java/pdf-conversion/convert-word-pdf-custom-fonts-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tài liệu Word sang PDF với phông chữ tùy chỉnh trong Java: Hướng dẫn đầy đủ sử dụng GroupDocs.Conversion
 
 ## Giới thiệu

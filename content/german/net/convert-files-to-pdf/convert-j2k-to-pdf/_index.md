@@ -5,8 +5,8 @@
 "title": "Konvertieren Sie J2K JPEG 2000-Bilder in PDF"
 "url": "/de/net/convert-files-to-pdf/convert-j2k-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # Konvertieren Sie J2K JPEG 2000-Bilder in PDF
 
 ## Einführung

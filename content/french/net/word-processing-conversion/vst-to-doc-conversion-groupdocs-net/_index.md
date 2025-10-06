@@ -4,8 +4,8 @@
 "title": "Convertir des fichiers VST au format DOC à l'aide de GroupDocs.Conversion pour .NET &#58; un guide étape par étape"
 "url": "/fr/net/word-processing-conversion/vst-to-doc-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des fichiers VST au format DOC avec GroupDocs.Conversion pour .NET : guide étape par étape
 
 Bienvenue dans notre guide complet sur la conversion de fichiers de gabarit Visio (VST) en documents Microsoft Word (DOC) avec GroupDocs.Conversion pour .NET. Ce tutoriel fournit des instructions étape par étape pour faciliter le partage et la modification de fichiers VST par les professionnels dans un format plus accessible.

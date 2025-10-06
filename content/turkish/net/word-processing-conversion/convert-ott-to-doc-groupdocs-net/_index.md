@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET&#58;i Kullanarak OTT'yi DOC'a Dönüştürme Kelime İşleme Dönüştürme İçin Adım Adım Kılavuz"
 "url": "/tr/net/word-processing-conversion/convert-ott-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET Kullanarak OTT'yi DOC'ye Dönüştürme: Kelime İşleme Dönüştürme İçin Adım Adım Kılavuz
 
 ## giriiş

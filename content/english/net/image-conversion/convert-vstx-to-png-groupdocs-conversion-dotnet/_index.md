@@ -8,10 +8,8 @@ keywords:
 - convert VSTX to PNG
 - GroupDocs.Conversion .NET
 - VSTX file conversion
-
+type: docs
 ---
-
-
 # Convert VSTX Files to PNG with GroupDocs.Conversion .NET: A Step-by-Step Guide
 
 ## Introduction

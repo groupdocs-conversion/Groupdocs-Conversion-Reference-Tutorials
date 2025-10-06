@@ -5,8 +5,8 @@
 "title": "Μετατροπή MBOX σε PDF"
 "url": "/el/net/document-conversion/convert-mbox-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # Μετατροπή MBOX σε PDF
 
 ## Εισαγωγή

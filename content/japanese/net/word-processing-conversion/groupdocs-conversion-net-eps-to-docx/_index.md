@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NETでEPSからDOCXへの変換をマスターする包括的なガイド"
 "url": "/ja/net/word-processing-conversion/groupdocs-conversion-net-eps-to-docx/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET で EPS から DOCX への変換をマスターする
 
 ## 導入

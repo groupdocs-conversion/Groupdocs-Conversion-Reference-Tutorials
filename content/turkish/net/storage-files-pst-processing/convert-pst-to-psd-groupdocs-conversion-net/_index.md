@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET&#58;i Kullanarak PST'yi PSD'ye Verimli Şekilde Dönüştürün Geliştiricinin Kılavuzu"
 "url": "/tr/net/storage-files-pst-processing/convert-pst-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET ile PST'yi PSD'ye Verimli Şekilde Dönüştürün
 
 ## giriiş

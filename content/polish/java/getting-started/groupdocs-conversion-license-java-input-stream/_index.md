@@ -4,8 +4,8 @@
 "title": "Jak ustawić licencję GroupDocs.Conversion w Javie za pomocą InputStream"
 "url": "/pl/java/getting-started/groupdocs-conversion-license-java-input-stream/"
 "weight": 1
+type: docs
 ---
-
 # Jak wdrożyć konfigurację licencji GroupDocs.Conversion za pomocą InputStream w Javie
 ## Wstęp
 Czy chcesz ulepszyć swoją aplikację Java o potężne funkcje GroupDocs.Conversion? Prawidłowe skonfigurowanie licencji jest kluczowym krokiem, a zrobienie tego przy użyciu strumienia wejściowego może usprawnić ten proces. Ten przewodnik przeprowadzi Cię przez proces ustawiania licencji GroupDocs przy użyciu strumienia wejściowego w Javie, zapewniając, że procesy konwersji będą przebiegać płynnie, bez żadnych problemów z licencjonowaniem.

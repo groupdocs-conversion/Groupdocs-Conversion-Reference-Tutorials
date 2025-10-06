@@ -4,8 +4,8 @@
 "title": ".NET EML fájlok konvertálása JPG-vé a GroupDocs használatával – Teljes körű útmutató"
 "url": "/hu/net/image-conversion/convert-dotnet-eml-to-jpg-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # .NET EML fájlok konvertálása JPG-vé GroupDocs használatával: Teljes útmutató
 
 ## Bevezetés

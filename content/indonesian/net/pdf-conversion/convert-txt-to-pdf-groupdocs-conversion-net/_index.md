@@ -4,8 +4,8 @@
 "title": "Konversi TXT ke PDF yang Mudah&#58; Master GroupDocs.Conversion untuk .NET dalam Hitungan Menit"
 "url": "/id/net/pdf-conversion/convert-txt-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi TXT ke PDF dengan Mudah: Kuasai GroupDocs.Conversion untuk .NET dalam Hitungan Menit
 
 ## Perkenalan

@@ -4,8 +4,8 @@
 "title": "كيفية تحويل PPSM إلى XLS في .NET باستخدام مكتبة GroupDocs.Conversion"
 "url": "/ar/net/spreadsheet-formats-features/convert-ppsm-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل ملفات PPSM إلى تنسيق XLS باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

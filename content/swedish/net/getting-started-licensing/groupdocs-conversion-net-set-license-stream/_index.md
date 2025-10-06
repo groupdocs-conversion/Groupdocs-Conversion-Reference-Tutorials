@@ -4,8 +4,8 @@
 "title": "Ställ in licens från Stream i GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/getting-started-licensing/groupdocs-conversion-net-set-license-stream/"
 "weight": 1
+type: docs
 ---
-
 # Ställ in licens från Stream i GroupDocs.Conversion för .NET: En omfattande guide
 
 ## Introduktion

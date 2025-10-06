@@ -5,8 +5,8 @@
 "title": "PSDをPDFに変換する"
 "url": "/ja/net/file-format-conversion-tutorials/convert-psd-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # PSDをPDFに変換する
 
 ## 導入

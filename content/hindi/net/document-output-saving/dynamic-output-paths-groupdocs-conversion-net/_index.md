@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion&#58; के साथ .NET में गतिशील आउटपुट पथ एक व्यापक गाइड"
 "url": "/hi/net/document-output-saving/dynamic-output-paths-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion के साथ .NET में गतिशील आउटपुट पथ: एक व्यापक गाइड
 
 ## परिचय

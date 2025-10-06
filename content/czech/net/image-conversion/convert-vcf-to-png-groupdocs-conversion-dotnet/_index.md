@@ -4,8 +4,8 @@
 "title": "Jak převést soubory VCF do obrázků PNG pomocí GroupDocs.Conversion pro .NET (podrobný návod)"
 "url": "/cs/net/image-conversion/convert-vcf-to-png-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory VCF do obrázků PNG pomocí GroupDocs.Conversion pro .NET (podrobný návod)
 
 ## Zavedení

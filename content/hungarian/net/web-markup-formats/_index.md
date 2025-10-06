@@ -3,8 +3,8 @@
 "title": "Webes és jelölőnyelvi formátumok oktatóanyagai a GroupDocs.Conversion .NET-hez"
 "url": "/hu/net/web-markup-formats/"
 "weight": 19
+type: docs
 ---
-
 # Webes és jelölőnyelvi formátumok oktatóanyagai a GroupDocs.Conversion .NET-hez
 
 Webes formátumkonverziós oktatóanyagaink átfogó útmutatást nyújtanak a jelölőnyelvek használatához .NET alkalmazásokban. Ezek a lépésről lépésre bemutatják, hogyan konvertálhatók dokumentumok HTML formátumba és HTML formátumból, hogyan adhatunk hozzá oldalszámozást a webes dokumentumokhoz, hogyan kezelhetjük a CSS-stílusokat, hogyan kezelhetjük a beágyazott erőforrásokat, hogyan valósíthatunk meg reszponzív elrendezéseket, hogyan szabályozhatjuk a képbeágyazási viselkedést, hogyan őrizhetjük meg a hiperhivatkozásokat és hogyan tarthatjuk karban a dokumentum szerkezetét. Minden oktatóanyag teljes C# kódpéldákat tartalmaz webes formátumkonverziós forgatókönyvekhez, segítve olyan alkalmazások létrehozását, amelyek hatékonyan hidalják át a dokumentumformátumok és a webes tartalom közötti szakadékot.

@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके CF2 फ़ाइलों को कैसे लोड और कनवर्ट करें एक चरण-दर-चरण मार्गदर्शिका"
 "url": "/hi/net/cad-technical-drawing-formats/load-cf2-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके CF2 फ़ाइलों को कैसे लोड और परिवर्तित करें
 
 ## परिचय

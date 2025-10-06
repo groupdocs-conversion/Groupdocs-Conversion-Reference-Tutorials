@@ -4,8 +4,8 @@
 "title": "Μετατροπή XLSX σε TeX χρησιμοποιώντας το GroupDocs.Conversion για .NET® Ένας πλήρης οδηγός"
 "url": "/el/net/spreadsheet-formats-features/convert-xlsx-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή XLSX σε TeX χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

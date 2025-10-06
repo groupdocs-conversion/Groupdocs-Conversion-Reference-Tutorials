@@ -4,8 +4,8 @@
 "title": "DOTM konvertálása XLS-be a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-dotm-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DOTM konvertálása XLS-be a GroupDocs.Conversion for .NET használatával: Teljes körű útmutató
 
 ## Bevezetés

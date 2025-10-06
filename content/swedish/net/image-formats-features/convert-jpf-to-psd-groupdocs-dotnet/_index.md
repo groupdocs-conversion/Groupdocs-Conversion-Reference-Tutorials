@@ -4,8 +4,8 @@
 "title": "Steg-för-steg-guide för att konvertera JPF till PSD med GroupDocs.Conversion i .NET"
 "url": "/sv/net/image-formats-features/convert-jpf-to-psd-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Steg-för-steg-guide: Konvertera JPF till PSD med GroupDocs.Conversion i .NET
 
 **Konvertera effektivt bilder från JPF till PSD med GroupDocs.Conversion för .NET**

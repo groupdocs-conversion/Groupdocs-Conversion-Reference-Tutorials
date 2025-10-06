@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके PowerPoint टेम्पलेट्स को टेक्स्ट में कुशलतापूर्वक परिवर्तित करें"
 "url": "/hi/net/text-markup-conversion/convert-powerpoint-to-text-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके PowerPoint टेम्पलेट्स को टेक्स्ट में कैसे परिवर्तित करें
 
 ## परिचय

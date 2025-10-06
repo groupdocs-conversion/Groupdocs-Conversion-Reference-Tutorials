@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion ile .NET'te PDF Font Değiştirmede Ustalaşın&#58; Kapsamlı Bir Kılavuz"
 "url": "/tr/net/font-handling-substitution/groupdocs-conversion-pdf-font-substitution-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion ile .NET'te PDF Font Değiştirmeyi Ustalaştırın
 
 Belge dönüştürme sırasında tutarlı tipografinin sağlanması hayati önem taşır. Bu kapsamlı kılavuz, belgeleri PDF'ye dönüştürürken font değiştirmelerini etkili bir şekilde yönetmek için GroupDocs.Conversion for .NET'in nasıl kullanılacağını gösterir.

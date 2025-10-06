@@ -4,8 +4,8 @@
 "title": "Převod PCL do LaTeXu (TEX) pomocí GroupDocs.Conversion v .NET"
 "url": "/cs/net/conversion-options-settings/convert-pcl-to-latex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod PCL do LaTeXu (TEX) pomocí GroupDocs.Conversion v .NET
 
 ## Zavedení

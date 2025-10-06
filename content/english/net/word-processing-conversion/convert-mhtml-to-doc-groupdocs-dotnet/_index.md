@@ -8,10 +8,8 @@ keywords:
 - convert MHTML to DOC
 - GroupDocs.Conversion for .NET
 - MHTML conversion
-
+type: docs
 ---
-
-
 # Convert MHTML to DOC Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

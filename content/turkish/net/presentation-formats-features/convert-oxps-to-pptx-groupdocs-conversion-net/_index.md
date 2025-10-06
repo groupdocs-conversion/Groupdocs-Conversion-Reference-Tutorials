@@ -4,8 +4,8 @@
 "title": "OXPS'i GroupDocs.Conversion for .NET Kullanarak PPTX'e Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/presentation-formats-features/convert-oxps-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OXPS'i .NET için GroupDocs.Conversion Kullanarak PPTX'e Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

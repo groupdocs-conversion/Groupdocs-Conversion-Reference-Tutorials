@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Efficient DGN to PDF Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

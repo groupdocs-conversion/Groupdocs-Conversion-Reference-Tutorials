@@ -4,8 +4,8 @@
 "title": "Come convertire i file CSV in PDF con una codifica specifica utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/csv-structured-data-processing/convert-csv-pdf-specific-encoding-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire i file CSV in PDF con una codifica specifica utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

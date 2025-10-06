@@ -5,8 +5,8 @@
 "title": "ドキュメント変換"
 "url": "/ja/net/document-conversion/"
 "weight": 23
+type: docs
 ---
-
 # ドキュメント変換
 
 ## 導入

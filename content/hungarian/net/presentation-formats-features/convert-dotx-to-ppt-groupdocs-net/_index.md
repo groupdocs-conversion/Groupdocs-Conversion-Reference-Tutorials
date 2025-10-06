@@ -4,8 +4,8 @@
 "title": "DOTX konvertálása PPT-vé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/presentation-formats-features/convert-dotx-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertáljunk DOTX-et PPT-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

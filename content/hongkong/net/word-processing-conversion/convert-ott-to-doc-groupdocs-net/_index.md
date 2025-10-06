@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 將 OTT 轉換為 DOC&#58; 文字處理轉換逐步指南"
 "url": "/zh-hant/net/word-processing-conversion/convert-ott-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 將 OTT 轉換為 DOC：文字處理轉換的分步指南
 
 ## 介紹

@@ -5,8 +5,8 @@
 "title": "WMZ को PDF में बदलें"
 "url": "/hi/net/converting-file-types-to-pdf/convert-wmz-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # WMZ को PDF में बदलें
 
 ## परिचय

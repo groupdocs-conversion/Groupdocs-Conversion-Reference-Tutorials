@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs 掌握 .NET 电子邮件转换——面向开发人员的全球化指南"
 "url": "/zh/net/email-formats-features/master-net-email-conversion-groupdocs-globalization-guide/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs 掌握 .NET 电子邮件转换：全面的全球化指南
 
 ## 介绍

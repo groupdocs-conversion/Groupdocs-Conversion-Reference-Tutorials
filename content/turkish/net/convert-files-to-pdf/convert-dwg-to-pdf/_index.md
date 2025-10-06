@@ -5,8 +5,8 @@
 "title": "DWG CAD Dosyalarını PDF'ye Dönüştür"
 "url": "/tr/net/convert-files-to-pdf/convert-dwg-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # DWG CAD Dosyalarını PDF'ye Dönüştür
 
 ## giriiş

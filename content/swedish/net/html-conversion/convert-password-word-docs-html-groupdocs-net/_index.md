@@ -4,8 +4,8 @@
 "title": "Hur man konverterar lösenordsskyddade Word-dokument till HTML med GroupDocs.Conversion för .NET"
 "url": "/sv/net/html-conversion/convert-password-word-docs-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar lösenordsskyddade Word-dokument till HTML med GroupDocs.Conversion för .NET
 
 ## Introduktion

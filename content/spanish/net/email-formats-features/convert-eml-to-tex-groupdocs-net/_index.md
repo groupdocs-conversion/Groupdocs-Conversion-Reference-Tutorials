@@ -4,8 +4,8 @@
 "title": "Convertir EML a TEX con GroupDocs.Conversion para .NET&#58; Guía para desarrolladores"
 "url": "/es/net/email-formats-features/convert-eml-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir EML a TEX con GroupDocs.Conversion para .NET: Guía para desarrolladores
 
 ## Introducción

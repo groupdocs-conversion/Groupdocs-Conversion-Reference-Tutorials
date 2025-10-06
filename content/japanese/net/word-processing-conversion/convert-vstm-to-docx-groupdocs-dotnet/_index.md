@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用して .NET で VSTM を DOCX に変換する"
 "url": "/ja/net/word-processing-conversion/convert-vstm-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して VSTM ファイルを DOCX に変換する
 
 ## 導入

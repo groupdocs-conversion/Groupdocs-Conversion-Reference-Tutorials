@@ -4,8 +4,8 @@
 "title": "Como ocultar anotações em PDF antes de converter para Word usando o GroupDocs.Conversion para .NET"
 "url": "/pt/net/page-management-content-manipulation/hide-pdf-annotations-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Como ocultar anotações em PDF antes de converter para Word com GroupDocs.Conversion para .NET
 
 ## Introdução

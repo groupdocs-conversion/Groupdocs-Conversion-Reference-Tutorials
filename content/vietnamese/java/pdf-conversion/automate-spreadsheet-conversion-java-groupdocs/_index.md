@@ -4,8 +4,8 @@
 "title": "Tự động chuyển đổi bảng tính sang PDF trong Java bằng GroupDocs.Conversion"
 "url": "/vi/java/pdf-conversion/automate-spreadsheet-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Tự động chuyển đổi bảng tính sang PDF trong Java bằng GroupDocs.Conversion
 
 ## Giới thiệu

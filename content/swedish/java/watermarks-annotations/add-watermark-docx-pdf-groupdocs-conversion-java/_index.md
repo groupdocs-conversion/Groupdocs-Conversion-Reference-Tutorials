@@ -4,8 +4,8 @@
 "title": "Hur man lägger till vattenstämpel i DOCX och konverterar till PDF med GroupDocs.Conversion för Java"
 "url": "/sv/java/watermarks-annotations/add-watermark-docx-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Så här lägger du till ett vattenstämpel i ditt dokument med GroupDocs.Conversion för Java
 
 I dagens digitala värld är det avgörande att skydda dina dokument från obehörig användning. Oavsett om du delar känslig information eller helt enkelt vill varumärkesskydda dina dokument kan det vara en effektiv lösning att lägga till en vattenstämpel. I den här handledningen guidar vi dig genom processen att använda **GroupDocs.Conversion för Java** för att lägga till en vattenstämpel när du konverterar en DOCX-fil till PDF.

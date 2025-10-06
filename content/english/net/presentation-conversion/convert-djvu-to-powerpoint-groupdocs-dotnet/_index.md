@@ -8,10 +8,8 @@ keywords:
 - convert DJVU to PowerPoint
 - GroupDocs.Conversion .NET
 - document conversion in .NET
-
+type: docs
 ---
-
-
 # Convert DJVU to PowerPoint Using GroupDocs.Conversion in .NET: Step-by-Step Guide
 
 ## Introduction

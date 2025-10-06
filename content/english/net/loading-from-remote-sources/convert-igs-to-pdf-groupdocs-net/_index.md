@@ -8,10 +8,8 @@ keywords:
 - convert IGES to PDF
 - GroupDocs.Conversion for .NET
 - CAD file conversion
-
+type: docs
 ---
-
-
 # How to Convert IGES Files to PDF Using GroupDocs.Conversion for .NET
 
 ## Introduction

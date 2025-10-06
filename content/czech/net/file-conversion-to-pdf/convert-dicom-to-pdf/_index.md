@@ -5,8 +5,8 @@
 "title": "Převod lékařských snímků DICOM do PDF"
 "url": "/cs/net/file-conversion-to-pdf/convert-dicom-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # Převod lékařských snímků DICOM do PDF
 
 ## Zavedení

@@ -5,8 +5,8 @@
 "title": "SVGZ konvertálása PDF-be"
 "url": "/hu/net/file-format-conversion-tutorials/convert-svgz-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # SVGZ konvertálása PDF-be
 
 ## Bevezetés

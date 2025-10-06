@@ -8,10 +8,8 @@ keywords:
 - convert .NET XLSB to XLS
 - GroupDocs.Conversion for .NET
 - .NET document conversion
-
+type: docs
 ---
-
-
 # Convert .NET XLSB to XLS Using GroupDocs.Conversion: A Comprehensive Guide
 
 ## Introduction

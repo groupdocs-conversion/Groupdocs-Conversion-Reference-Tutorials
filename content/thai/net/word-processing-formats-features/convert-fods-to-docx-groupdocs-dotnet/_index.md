@@ -4,8 +4,8 @@
 "title": "แปลง FODS เป็น DOCX ด้วย GroupDocs การแปลงสำหรับ .NET&#58; คู่มือฉบับสมบูรณ์"
 "url": "/th/net/word-processing-formats-features/convert-fods-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # แปลง FODS เป็น DOCX ด้วย GroupDocs การแปลงสำหรับ .NET: คู่มือที่ครอบคลุม
 
 ## การแนะนำ

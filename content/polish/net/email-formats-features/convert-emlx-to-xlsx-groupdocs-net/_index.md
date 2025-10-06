@@ -4,8 +4,8 @@
 "title": "Konwersja EMLX do XLSX przy użyciu GroupDocs.Conversion dla .NET&#58; Kompletny przewodnik"
 "url": "/pl/net/email-formats-features/convert-emlx-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja EMLX do XLSX przy użyciu GroupDocs.Conversion dla .NET: Kompletny przewodnik
 
 ## Wstęp

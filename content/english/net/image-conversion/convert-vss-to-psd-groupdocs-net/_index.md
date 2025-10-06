@@ -8,10 +8,8 @@ keywords:
 - convert VSS to PSD
 - GroupDocs.Conversion for .NET
 - image conversion in .NET
-
+type: docs
 ---
-
-
 # Convert VSS to PSD Using GroupDocs.Conversion in .NET: A Comprehensive Guide
 
 ## Introduction

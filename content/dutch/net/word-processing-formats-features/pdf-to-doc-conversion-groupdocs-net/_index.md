@@ -4,8 +4,8 @@
 "title": "Efficiënte PDF naar DOC-conversie met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/word-processing-formats-features/pdf-to-doc-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efficiënte PDF naar DOC-conversie met GroupDocs.Conversion voor .NET
 
 ## Invoering

@@ -8,10 +8,8 @@ keywords:
 - convert ODS to XLS
 - GroupDocs.Conversion for .NET
 - ODS to Excel conversion
-
+type: docs
 ---
-
-
 # Convert ODS to XLS Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

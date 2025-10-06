@@ -4,8 +4,8 @@
 "title": ".NET में GroupDocs.Conversion का उपयोग करके PPT को PNG में परिवर्तित करें एक व्यापक गाइड"
 "url": "/hi/net/presentation-conversion/convert-ppt-to-png-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # .NET में GroupDocs.Conversion का उपयोग करके PPT को PNG में परिवर्तित करें: एक डेवलपर की मार्गदर्शिका
 
 ## परिचय

@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके कुशल VCF से TEX रूपांतरण"
 "url": "/hi/net/conversion-utilities-information/vcf-to-tex-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके कुशल VCF से TEX रूपांतरण
 
 ## परिचय

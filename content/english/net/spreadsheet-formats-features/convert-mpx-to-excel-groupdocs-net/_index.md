@@ -8,10 +8,8 @@ keywords:
 - convert MPX files to Excel
 - GroupDocs Conversion for .NET
 - Primavera P6 project management
-
+type: docs
 ---
-
-
 # Convert MPX Files to Excel Using GroupDocs.Conversion for .NET
 
 ## Introduction

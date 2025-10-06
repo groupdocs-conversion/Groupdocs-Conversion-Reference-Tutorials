@@ -5,8 +5,8 @@
 "title": "EMLX Apple MailメールメッセージをPDFに変換する"
 "url": "/ja/net/convert-files-to-pdf/convert-emlx-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # EMLX Apple MailメールメッセージをPDFに変換する
 
 ## 導入

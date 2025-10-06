@@ -4,8 +4,8 @@
 "title": "Automatize a conversão de planilhas para PDF em Java usando GroupDocs.Conversion"
 "url": "/pt/java/pdf-conversion/automate-spreadsheet-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Automatize a conversão de planilhas para PDF em Java usando GroupDocs.Conversion
 
 ## Introdução

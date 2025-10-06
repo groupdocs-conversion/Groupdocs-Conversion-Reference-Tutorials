@@ -4,8 +4,8 @@
 "title": "掌握.NET文档转换——使用GroupDocs.Conversion将Excel转换为Word"
 "url": "/zh/net/word-processing-conversion/master-net-conversion-excel-word-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 掌握 .NET 文档转换：使用 GroupDocs.Conversion 将 Excel 转换为 Word
 
 ## 介绍

@@ -5,8 +5,8 @@
 "title": "VSTM을 PDF로 변환"
 "url": "/ko/net/converting-file-types-to-pdf/convert-vstm-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # VSTM을 PDF로 변환
 
 ## 소개

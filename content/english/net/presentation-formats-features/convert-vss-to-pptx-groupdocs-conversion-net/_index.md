@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert VSS Files to PPTX Format Using GroupDocs.Conversion for .NET
 
 ## Introduction

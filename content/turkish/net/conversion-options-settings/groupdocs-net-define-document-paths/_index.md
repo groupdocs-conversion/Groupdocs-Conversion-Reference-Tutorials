@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion ile .NET'te Etkin Belge Yolu Yönetimi&#58; Sorunsuz Dönüşümler için Sabitleri Tanımlama"
 "url": "/tr/net/conversion-options-settings/groupdocs-net-define-document-paths/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion ile .NET'te Verimli Belge Yolu Yönetimi
 
 ## giriiş

@@ -8,10 +8,8 @@ keywords:
 - convert IFC to XLS
 - GroupDocs.Conversion for .NET
 - IFC to Excel conversion
-
+type: docs
 ---
-
-
 # Convert IFC Files to XLS Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

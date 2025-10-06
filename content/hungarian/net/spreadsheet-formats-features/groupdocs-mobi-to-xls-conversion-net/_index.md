@@ -4,8 +4,8 @@
 "title": "MOBI konvertálása XLS-sé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-formats-features/groupdocs-mobi-to-xls-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MOBI konvertálása XLS-sé a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Beheers de verwerking van tekstdocumenten in Java met GroupDocs.Conversion voor naadloze codering en PDF-conversie"
 "url": "/nl/java/word-processing-formats/master-text-document-handling-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Het beheersen van tekstdocumentverwerking in Java met GroupDocs.Conversion
 
 ## Invoering

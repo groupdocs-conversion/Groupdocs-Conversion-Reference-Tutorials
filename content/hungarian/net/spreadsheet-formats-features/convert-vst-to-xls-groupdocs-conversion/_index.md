@@ -4,8 +4,8 @@
 "title": "VST konvertálása XLS-be a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-vst-to-xls-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # VST konvertálása XLS-be a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

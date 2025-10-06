@@ -4,8 +4,8 @@
 "title": "PDF'yi Java'da Gömülü Dosya Kaldırma ile Word'e Dönüştürme&#58; GroupDocs.Conversion Kullanarak Adım Adım Kılavuz"
 "url": "/tr/java/pdf-conversion/convert-pdf-to-word-java-embedded-file-removal/"
 "weight": 1
+type: docs
 ---
-
 # PDF'yi Java'da Gömülü Dosya Kaldırma ile Word'e Dönüştürme: GroupDocs.Conversion Kullanarak Adım Adım Kılavuz
 
 ## giriiş

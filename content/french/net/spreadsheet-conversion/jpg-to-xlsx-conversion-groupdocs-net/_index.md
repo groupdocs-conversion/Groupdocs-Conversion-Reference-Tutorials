@@ -4,8 +4,8 @@
 "title": "Conversion efficace de fichiers JPG en XLSX avec GroupDocs.Conversion pour .NET"
 "url": "/fr/net/spreadsheet-conversion/jpg-to-xlsx-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Conversion efficace de fichiers JPG en XLSX avec GroupDocs.Conversion pour .NET
 
 ## Introduction

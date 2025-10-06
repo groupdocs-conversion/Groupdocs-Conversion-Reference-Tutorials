@@ -4,8 +4,8 @@
 "title": "Java Eğitimi&#58; GroupDocs.Conversion for Java'yı Kullanarak Word Belgelerini PowerPoint'e Dönüştürme"
 "url": "/tr/java/presentation-formats/java-groupdocs-conversion-word-to-ppt/"
 "weight": 1
+type: docs
 ---
-
 # Java Eğitimi: GroupDocs.Conversion for Java'yı Kullanarak Word Belgelerini PowerPoint'e Dönüştürme
 
 ## giriiş

@@ -3,8 +3,8 @@
 "title": "Tutoriels de traitement de fichiers texte pour GroupDocs.Conversion .NET"
 "url": "/fr/net/text-file-processing/"
 "weight": 17
+type: docs
 ---
-
 # Tutoriels de traitement de fichiers texte pour GroupDocs.Conversion .NET
 
 Nos tutoriels de conversion de fichiers texte vous expliquent comment utiliser du texte brut avec GroupDocs.Conversion dans .NET. Ces guides détaillés expliquent comment contrôler les espaces de début et de fin lors de la conversion de texte, spécifier les options d'encodage pour les fichiers texte, préserver la mise en forme lorsque cela est possible, gérer les sauts de ligne et les caractères spéciaux, implémenter des politiques de retour à la ligne, configurer la pagination du texte converti et gérer les exigences de texte bidirectionnel. Chaque tutoriel inclut des exemples de code C# fonctionnels pour des scénarios de conversion de fichiers texte, vous aidant à créer des applications capables de traiter efficacement du texte brut tout en préservant la lisibilité et la structure du résultat.

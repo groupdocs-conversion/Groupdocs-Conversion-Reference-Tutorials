@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 DOT를 DOC로 변환하는 포괄적인 가이드"
 "url": "/ko/net/word-processing-formats-features/dot-to-doc-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 DOT를 DOC로 변환: 포괄적인 가이드
 ## 소개
 적절한 도구가 없다면 복잡한 다이어그램 파일을 DOT 형식의 편집 가능한 Word 문서로 변환하는 것은 어려울 수 있습니다. **GroupDocs.Conversion** .NET용은 다양한 형식의 문서를 원활하게 변환하는 것을 간소화합니다.

@@ -5,8 +5,8 @@
 "title": "Chuyển đổi đồ họa vector CGM sang PDF"
 "url": "/vi/net/file-conversion-to-pdf/convert-cgm-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # Chuyển đổi đồ họa vector CGM sang PDF
 
 ## Giới thiệu

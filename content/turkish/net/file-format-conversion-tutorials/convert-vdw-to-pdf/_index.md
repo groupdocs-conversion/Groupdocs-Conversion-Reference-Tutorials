@@ -5,8 +5,8 @@
 "title": "VDW'yi PDF'ye dönüştür"
 "url": "/tr/net/file-format-conversion-tutorials/convert-vdw-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # VDW'yi PDF'ye dönüştür
 
 ## giriiş

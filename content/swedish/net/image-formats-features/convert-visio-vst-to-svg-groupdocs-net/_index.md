@@ -4,8 +4,8 @@
 "title": "Hur man konverterar Visio-ritningsmallar (.vst) till SVG med GroupDocs.Conversion för .NET"
 "url": "/sv/net/image-formats-features/convert-visio-vst-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar Visio-ritningsmallar (.vst) till SVG med GroupDocs.Conversion för .NET
 
 ## Introduktion

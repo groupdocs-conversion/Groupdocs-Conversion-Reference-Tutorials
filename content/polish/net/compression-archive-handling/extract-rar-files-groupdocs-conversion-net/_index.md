@@ -4,8 +4,8 @@
 "title": "Efektywne wyodrębnianie plików RAR przy użyciu GroupDocs.Conversion w .NET&#58; Podręcznik programisty"
 "url": "/pl/net/compression-archive-handling/extract-rar-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektywne wyodrębnianie plików RAR za pomocą GroupDocs.Conversion w .NET: Podręcznik programisty
 
 ## Wstęp

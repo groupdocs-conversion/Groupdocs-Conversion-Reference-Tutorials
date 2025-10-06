@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 有效率地將 PST 轉換為 Word 文檔"
 "url": "/zh-hant/net/word-processing-conversion/convert-pst-to-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 PST 文件高效轉換為 Word 文件
 
 ## 介紹

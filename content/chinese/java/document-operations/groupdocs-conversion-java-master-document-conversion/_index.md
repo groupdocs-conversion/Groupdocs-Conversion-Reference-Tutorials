@@ -4,8 +4,8 @@
 "title": "掌握 GroupDocs.Conversion Java &#58; Java 应用程序中文档转换的综合指南"
 "url": "/zh/java/document-operations/groupdocs-conversion-java-master-document-conversion/"
 "weight": 1
+type: docs
 ---
-
 # 掌握 GroupDocs.Conversion Java：解锁文档转换功能
 
 ## 介绍

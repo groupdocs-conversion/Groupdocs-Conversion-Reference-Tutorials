@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 和高级选项指南在 Java 中将电子邮件转换为 PDF"
 "url": "/zh/java/pdf-conversion/convert-emails-to-pdfs-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 Java 中将电子邮件转换为 PDF：高级选项指南
 
 ## 介绍

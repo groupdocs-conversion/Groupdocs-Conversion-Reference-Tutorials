@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 將 CMX 轉換為 XLSX 的逐步指南"
 "url": "/zh-hant/net/spreadsheet-formats-features/cmx-to-xlsx-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 將 CMX 檔案轉換為 XLSX：逐步指南
 
 ## 介紹

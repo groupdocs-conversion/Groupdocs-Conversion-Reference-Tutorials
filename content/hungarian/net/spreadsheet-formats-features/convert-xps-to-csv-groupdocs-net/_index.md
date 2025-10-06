@@ -4,8 +4,8 @@
 "title": "XPS-fájl CSV-fájllá konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/spreadsheet-formats-features/convert-xps-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # XPS-fájl CSV-fájllá konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中实现高效的文档路径管理——定义常量以实现无缝转换"
 "url": "/zh/net/conversion-options-settings/groupdocs-net-define-document-paths/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 .NET 中实现高效的文档路径管理
 
 ## 介绍

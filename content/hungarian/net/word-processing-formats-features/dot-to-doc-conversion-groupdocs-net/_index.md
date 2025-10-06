@@ -4,8 +4,8 @@
 "title": "DOT konvertálása DOC-ba a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/word-processing-formats-features/dot-to-doc-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DOT konvertálása DOC-vá a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 ## Bevezetés
 A DOT formátumú összetett diagramfájlok szerkeszthető Word-dokumentumokká konvertálása kihívást jelenthet a megfelelő eszközök nélkül. **GroupDocs.Conversion** A .NET-hez készült verzió zökkenőmentesen leegyszerűsíti a dokumentumok átalakítását a különböző formátumok között.

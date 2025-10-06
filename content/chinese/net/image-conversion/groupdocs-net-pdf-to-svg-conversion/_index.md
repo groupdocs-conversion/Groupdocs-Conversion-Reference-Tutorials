@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 掌握 PDF 到 SVG 的转换"
 "url": "/zh/net/image-conversion/groupdocs-net-pdf-to-svg-conversion/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 掌握 PDF 到 SVG 的转换
 
 ## 图像转换教程

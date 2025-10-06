@@ -4,8 +4,8 @@
 "title": "使用 .NET 和 GroupDocs.Conversion 自動將 LaTeX 轉換為 PowerPoint"
 "url": "/zh-hant/net/presentation-formats-features/tex-to-powerpoint-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用 .NET 和 GroupDocs.Conversion 自動將 LaTeX 轉換為 PowerPoint
 ## 介紹
 厭倦了手動將 LaTeX 文件轉換為 PowerPoint 投影片？本教學將向您展示如何使用 GroupDocs.Conversion for .NET 自動化此流程，從而節省您的時間和精力。按照本逐步指南，您將學習如何將 LaTeX 檔案無縫轉換為 PPT 格式。

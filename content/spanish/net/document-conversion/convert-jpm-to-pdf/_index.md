@@ -5,8 +5,8 @@
 "title": "Convertir JPM a PDF"
 "url": "/es/net/document-conversion/convert-jpm-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # Convertir JPM a PDF
 
 ## Introducción

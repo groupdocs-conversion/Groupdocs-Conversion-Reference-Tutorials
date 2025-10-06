@@ -8,10 +8,8 @@ keywords:
 - convert HTML to SVG
 - GroupDocs.Conversion for .NET
 - C# file conversion
-
+type: docs
 ---
-
-
 # Convert HTML to SVG Using GroupDocs.Conversion for .NET
 
 ## Introduction

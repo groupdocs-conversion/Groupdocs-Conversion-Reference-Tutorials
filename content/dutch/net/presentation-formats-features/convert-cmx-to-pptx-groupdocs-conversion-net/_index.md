@@ -4,8 +4,8 @@
 "title": "Converteer CMX efficiënt naar PPTX met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/presentation-formats-features/convert-cmx-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer CMX efficiënt naar PPTX met GroupDocs.Conversion voor .NET
 
 ## Invoering

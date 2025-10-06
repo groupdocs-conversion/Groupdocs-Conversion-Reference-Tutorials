@@ -8,10 +8,8 @@ keywords:
 - XLTX to TXT conversion
 - GroupDocs.Conversion for .NET
 - file conversion tutorial
-
+type: docs
 ---
-
-
 # Convert XLTX to TXT Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

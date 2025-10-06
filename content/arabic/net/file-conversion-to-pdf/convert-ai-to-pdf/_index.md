@@ -5,8 +5,8 @@
 "title": "تحويل ملفات الذكاء الاصطناعي إلى PDF"
 "url": "/ar/net/file-conversion-to-pdf/convert-ai-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # تحويل ملفات الذكاء الاصطناعي إلى PDF
 
 ## مقدمة

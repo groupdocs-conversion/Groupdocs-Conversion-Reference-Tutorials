@@ -3,8 +3,8 @@
 "title": "Tutorial Pemrosesan File Penyimpanan dan PST untuk GroupDocs.Conversion .NET"
 "url": "/id/net/storage-files-pst-processing/"
 "weight": 21
+type: docs
 ---
-
 # Tutorial Pemrosesan File Penyimpanan dan PST untuk GroupDocs.Conversion .NET
 
 Tutorial pemrosesan berkas penyimpanan kami menyediakan panduan terperinci untuk menangani kontainer email dalam aplikasi .NET. Panduan praktis ini menunjukkan cara mengekstrak dan mengonversi konten dari berkas penyimpanan pribadi seperti PST dan OST, mengambil struktur folder, mengonversi konten penyimpanan ke berbagai format, menangani hierarki konten bertingkat, menyimpan metadata pesan, memproses beberapa pesan secara batch, dan mengimplementasikan operasi ekstraksi selektif. Setiap tutorial menyertakan contoh kode C# lengkap untuk skenario konversi berkas penyimpanan, membantu Anda membangun aplikasi yang dapat mengakses dan mengubah data yang disimpan dalam format kontainer email secara efektif.

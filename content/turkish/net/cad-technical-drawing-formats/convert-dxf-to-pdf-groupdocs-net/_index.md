@@ -4,8 +4,8 @@
 "title": ".NET'te GroupDocs.Conversion Kullanarak DXF'yi PDF'ye Dönüştürme&#58; Tam Bir Kılavuz"
 "url": "/tr/net/cad-technical-drawing-formats/convert-dxf-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET'te GroupDocs.Conversion'ı Kullanarak DXF'yi PDF'ye Dönüştürme
 
 ## giriiş

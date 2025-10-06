@@ -4,8 +4,8 @@
 "title": "Manejo de documentos de texto en Java&#58; uso de GroupDocs.Conversion para una codificación y conversión de PDF sin interrupciones"
 "url": "/es/java/word-processing-formats/master-text-document-handling-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Dominando el manejo de documentos de texto en Java con GroupDocs.Conversion
 
 ## Introducción

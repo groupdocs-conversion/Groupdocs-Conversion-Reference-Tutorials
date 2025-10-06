@@ -4,8 +4,8 @@
 "title": "ODT hatékony konvertálása TEX-be a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/word-processing-formats-features/convert-odt-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # ODT hatékony konvertálása TEX-be a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

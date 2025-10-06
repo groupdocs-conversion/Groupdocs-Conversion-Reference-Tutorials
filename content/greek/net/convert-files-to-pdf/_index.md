@@ -5,8 +5,8 @@
 "title": "Μετατροπή αρχείων σε PDF"
 "url": "/el/net/convert-files-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Μετατροπή αρχείων σε PDF
 
 ## Εισαγωγή

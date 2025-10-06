@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert FODP to PSD Easily: A Comprehensive Guide Using GroupDocs.Conversion for .NET
 
 ## Introduction

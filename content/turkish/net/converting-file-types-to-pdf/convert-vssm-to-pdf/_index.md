@@ -5,8 +5,8 @@
 "title": "VSSM'yi PDF'ye dönüştür"
 "url": "/tr/net/converting-file-types-to-pdf/convert-vssm-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # VSSM'yi PDF'ye dönüştür
 
 ## giriiş

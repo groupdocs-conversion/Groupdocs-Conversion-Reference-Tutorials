@@ -5,8 +5,8 @@
 "title": "Converteer XLTM naar PDF"
 "url": "/nl/net/converting-file-types-to-pdf/convert-xltm-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # Converteer XLTM naar PDF
 
 ## Invoering

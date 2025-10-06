@@ -8,10 +8,8 @@ keywords:
 - Convert DIB to TXT with GroupDocs.Conversion for .NET
 - GroupDocs.Conversion .NET setup
 - DIB file conversion
-
+type: docs
 ---
-
-
 # Convert DIB to TXT with GroupDocs.Conversion for .NET
 
 ## Introduction

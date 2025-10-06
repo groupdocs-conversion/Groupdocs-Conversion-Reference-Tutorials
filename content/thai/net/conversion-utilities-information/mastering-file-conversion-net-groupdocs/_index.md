@@ -4,8 +4,8 @@
 "title": "เรียนรู้การแปลงไฟล์ใน .NET โดยใช้ GroupDocs.Conversion คำแนะนำสำหรับนักพัฒนา"
 "url": "/th/net/conversion-utilities-information/mastering-file-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # เรียนรู้การแปลงไฟล์ใน .NET ด้วย GroupDocs.Conversion: คู่มือสำหรับนักพัฒนาขั้นสูงสุดของคุณ
 
 ## การแนะนำ

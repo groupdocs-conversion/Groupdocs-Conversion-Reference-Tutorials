@@ -4,8 +4,8 @@
 "title": "JPM fájlok egyszerű DOCX formátumba konvertálása a GroupDocs.Conversion .NET segítségével a zökkenőmentes fájlkonvertáláshoz"
 "url": "/hu/net/word-processing-conversion/convert-jpm-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # JPM egyszerű DOCX formátumba konvertálása: A GroupDocs.Conversion .NET használata zökkenőmentes fájlkonvertáláshoz
 
 ## Bevezetés

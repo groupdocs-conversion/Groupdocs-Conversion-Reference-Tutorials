@@ -4,8 +4,8 @@
 "title": "TIFF fájlok PDF-be konvertálása a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/pdf-conversion/convert-tiff-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # TIFF konvertálása PDF-be a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

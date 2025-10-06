@@ -4,8 +4,8 @@
 "title": "Конвертируйте защищенный паролем DOCX в PPT с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/working-with-secure-documents/convert-docx-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте защищенный паролем DOCX в PPT с помощью GroupDocs.Conversion для .NET
 
 ## Введение

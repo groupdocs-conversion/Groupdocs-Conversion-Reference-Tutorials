@@ -4,8 +4,8 @@
 "title": "Hur man konverterar Visio-stencilfiler (VSSX) till PowerPoint-presentationer med GroupDocs.Conversion för .NET"
 "url": "/sv/net/presentation-formats-features/convert-visio-vssx-to-powerpoint-pptx-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar Visio-stencilfiler (VSSX) till PowerPoint-presentationer med GroupDocs.Conversion för .NET
 
 ## Introduktion

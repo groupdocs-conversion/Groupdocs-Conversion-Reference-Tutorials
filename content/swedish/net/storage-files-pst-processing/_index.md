@@ -3,8 +3,8 @@
 "title": "Handledningar för lagringsfiler och PST-behandling för GroupDocs.Conversion .NET"
 "url": "/sv/net/storage-files-pst-processing/"
 "weight": 21
+type: docs
 ---
-
 # Handledningar för lagringsfiler och PST-behandling för GroupDocs.Conversion .NET
 
 Våra handledningar för filhantering av lagringsfiler ger detaljerad vägledning för hantering av e-postbehållare i .NET-applikationer. Dessa praktiska guider visar hur man extraherar och konverterar innehåll från personliga lagringsfiler som PST och OST, hämtar mappstrukturer, konverterar lagringsinnehåll till olika format, hanterar kapslade innehållshierarkier, bevarar meddelandemetadata, batchbearbetar flera meddelanden och implementerar selektiva extraheringsåtgärder. Varje handledning innehåller kompletta C#-kodexempel för konverteringsscenarier för lagringsfiler, vilket hjälper dig att bygga applikationer som effektivt kan komma åt och transformera data som lagras i e-postcontainerformat.

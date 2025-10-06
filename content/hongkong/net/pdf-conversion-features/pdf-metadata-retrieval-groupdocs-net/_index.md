@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 擷取 PDF 元數據"
 "url": "/zh-hant/net/pdf-conversion-features/pdf-metadata-retrieval-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 擷取 PDF 元數據
 
 厭倦了手動從 PDF 文件中提取資訊？使用 GroupDocs.Conversion for .NET 自動執行任務，並檢索重要詳細信息，例如作者、建立日期、頁數、尺寸等。

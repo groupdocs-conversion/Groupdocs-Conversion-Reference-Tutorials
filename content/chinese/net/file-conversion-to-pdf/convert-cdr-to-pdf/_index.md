@@ -5,8 +5,8 @@
 "title": "将 CDR 矢量图形转换为 PDF"
 "url": "/zh/net/file-conversion-to-pdf/convert-cdr-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # 将 CDR 矢量图形转换为 PDF
 
 ## 介绍

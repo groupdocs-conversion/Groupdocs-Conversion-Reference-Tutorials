@@ -8,10 +8,8 @@ keywords:
 - Convert FODP to SVG
 - GroupDocs.Conversion for .NET
 - FODP file conversion
-
+type: docs
 ---
-
-
 # How to Convert FODP Files to SVG Using GroupDocs.Conversion for .NET
 
 ## Introduction

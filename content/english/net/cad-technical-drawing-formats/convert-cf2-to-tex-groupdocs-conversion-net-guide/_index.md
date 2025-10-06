@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert CF2 to TEX Using GroupDocs.Conversion .NET: A Step-by-Step Guide
 
 ## Introduction

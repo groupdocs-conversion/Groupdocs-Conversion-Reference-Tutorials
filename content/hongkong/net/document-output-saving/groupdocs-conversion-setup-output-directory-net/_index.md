@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 設定輸出目錄路徑"
 "url": "/zh-hant/net/document-output-saving/groupdocs-conversion-setup-output-directory-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 設定輸出目錄路徑
 
 ## 介紹

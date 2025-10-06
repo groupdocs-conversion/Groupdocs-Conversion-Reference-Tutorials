@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for Java 將文件的特定頁面轉換為 PDF"
 "url": "/zh-hant/java/pdf-conversion/convert-specific-pages-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for Java 將文件的特定頁面轉換為 PDF
 
 在當今的數位時代，有效率地轉換文件對於企業和個人都至關重要。無論您是要分享報告的特定部分，還是將選定的頁面編譯成單一 PDF 文件，擁有合適的工具都能帶來顯著的效果。本指南將指導您如何使用 **GroupDocs.Conversion for Java** 將文件的特定頁面轉換為 PDF 格式。讓我們開始吧！

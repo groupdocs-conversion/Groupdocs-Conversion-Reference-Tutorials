@@ -4,8 +4,8 @@
 "title": "GIF konvertálása PSD-vé a GroupDocs.Conversion for .NET segítségével – Teljes körű útmutató"
 "url": "/hu/net/image-formats-features/convert-gif-to-psd-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GIF konvertálása PSD-vé a GroupDocs.Conversion for .NET segítségével: Teljes körű útmutató
 
 ## Bevezetés

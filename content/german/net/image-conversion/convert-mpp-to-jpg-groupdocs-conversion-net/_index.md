@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie MPP in JPG – Eine umfassende Anleitung mit GroupDocs.Conversion für .NET"
 "url": "/de/net/image-conversion/convert-mpp-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MPP in JPG konvertieren: Eine Schritt-für-Schritt-Anleitung mit GroupDocs.Conversion für .NET
 
 ## Einführung

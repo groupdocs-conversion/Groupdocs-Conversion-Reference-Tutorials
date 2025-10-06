@@ -5,8 +5,8 @@
 "title": "EMLX Apple Mail E-posta Mesajlarını PDF'ye Dönüştür"
 "url": "/tr/net/convert-files-to-pdf/convert-emlx-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # EMLX Apple Mail E-posta Mesajlarını PDF'ye Dönüştür
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "Converta IGES para PDF usando GroupDocs.Conversion para .NET - Um guia passo a passo"
 "url": "/pt/net/loading-from-remote-sources/convert-igs-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter arquivos IGES para PDF usando GroupDocs.Conversion para .NET
 
 ## Introdução

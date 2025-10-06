@@ -5,8 +5,8 @@
 "title": "Chuyển đổi LOG sang PDF"
 "url": "/vi/net/document-conversion/convert-log-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # Chuyển đổi LOG sang PDF
 
 ## Giới thiệu

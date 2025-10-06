@@ -4,8 +4,8 @@
 "title": "Como converter XPS para SVG usando o GroupDocs.Conversion para .NET | Guia passo a passo"
 "url": "/pt/net/image-conversion/convert-xps-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter XPS para SVG usando o GroupDocs.Conversion para .NET: um guia completo
 
 ## Introdução

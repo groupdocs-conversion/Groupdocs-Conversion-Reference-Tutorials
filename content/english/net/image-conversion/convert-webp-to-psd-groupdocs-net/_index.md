@@ -8,10 +8,8 @@ keywords:
 - convert WEBP to PSD
 - GroupDocs.Conversion .NET
 - image conversion .NET
-
+type: docs
 ---
-
-
 # Convert WEBP to PSD with GroupDocs.Conversion for .NET
 
 ## Introduction

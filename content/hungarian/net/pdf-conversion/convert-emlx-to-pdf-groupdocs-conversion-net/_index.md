@@ -4,8 +4,8 @@
 "title": "EMLX konvertálása PDF-be a GroupDocs.Conversion .NET segítségével – lépésről lépésre útmutató"
 "url": "/hu/net/pdf-conversion/convert-emlx-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # EMLX fájlok konvertálása PDF-be a GroupDocs.Conversion .NET segítségével: lépésről lépésre útmutató
 
 ## Bevezetés

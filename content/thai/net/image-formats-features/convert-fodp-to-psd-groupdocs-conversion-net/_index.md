@@ -4,8 +4,8 @@
 "title": "แปลง FODP เป็น PSD อย่างง่ายดายด้วยคู่มือที่ครอบคลุมโดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/image-formats-features/convert-fodp-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลง FODP เป็น PSD อย่างง่ายดาย: คู่มือฉบับสมบูรณ์โดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

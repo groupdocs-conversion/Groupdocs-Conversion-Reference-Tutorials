@@ -4,8 +4,8 @@
 "title": "Bemästra .NET e-postkonvertering med GroupDocs - En globaliseringsguide för utvecklare"
 "url": "/sv/net/email-formats-features/master-net-email-conversion-groupdocs-globalization-guide/"
 "weight": 1
+type: docs
 ---
-
 # Bemästra .NET e-postkonvertering med GroupDocs: En omfattande globaliseringsguide
 
 ## Introduktion

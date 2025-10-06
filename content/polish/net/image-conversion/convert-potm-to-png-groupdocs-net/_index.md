@@ -4,8 +4,8 @@
 "title": "Jak konwertować pliki POTM do PNG za pomocą GroupDocs.Conversion dla .NET&#58; Przewodnik krok po kroku"
 "url": "/pl/net/image-conversion/convert-potm-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak konwertować pliki POTM do PNG za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

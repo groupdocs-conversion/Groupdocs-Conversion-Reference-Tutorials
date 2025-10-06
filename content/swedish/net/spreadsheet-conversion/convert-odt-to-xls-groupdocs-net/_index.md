@@ -4,8 +4,8 @@
 "title": "Konvertera ODT till XLS med GroupDocs.Conversion för .NET - Ultimat guide"
 "url": "/sv/net/spreadsheet-conversion/convert-odt-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera ODT till XLS med GroupDocs.Conversion för .NET - Ultimat guide
 
 ## Introduktion

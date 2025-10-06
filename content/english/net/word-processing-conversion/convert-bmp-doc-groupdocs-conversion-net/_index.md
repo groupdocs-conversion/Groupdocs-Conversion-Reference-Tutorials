@@ -8,10 +8,8 @@ keywords:
 - convert BMP to DOC
 - GroupDocs.Conversion for .NET
 - automate image conversion
-
+type: docs
 ---
-
-
 # How to Convert BMP Files to DOC Format Using GroupDocs.Conversion for .NET
 
 ## Introduction

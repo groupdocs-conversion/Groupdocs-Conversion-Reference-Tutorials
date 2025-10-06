@@ -8,10 +8,8 @@ keywords:
 - DWF to DOC conversion
 - GroupDocs.Conversion for .NET
 - C# document conversion
-
+type: docs
 ---
-
-
 # Convert DWF to DOC Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

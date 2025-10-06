@@ -4,8 +4,8 @@
 "title": "Come convertire i file VCF in immagini PNG utilizzando GroupDocs.Conversion per .NET (guida passo passo)"
 "url": "/it/net/image-conversion/convert-vcf-to-png-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire i file VCF in immagini PNG utilizzando GroupDocs.Conversion per .NET (guida passo passo)
 
 ## Introduzione

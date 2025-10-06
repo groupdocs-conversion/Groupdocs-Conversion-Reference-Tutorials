@@ -8,10 +8,8 @@ keywords:
 - convert PPTM to DOC
 - GroupDocs.Conversion .NET
 - document conversion in .NET
-
+type: docs
 ---
-
-
 # Convert PPTM to DOC in .NET Using GroupDocs.Conversion
 
 ## Introduction

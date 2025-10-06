@@ -4,8 +4,8 @@
 "title": "Μετατροπή Master EPS σε DOCX με το GroupDocs.Conversion για .NET™ Ένας πλήρης οδηγός"
 "url": "/el/net/word-processing-conversion/groupdocs-conversion-net-eps-to-docx/"
 "weight": 1
+type: docs
 ---
-
 # Mastering EPS σε DOCX Conversion με το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

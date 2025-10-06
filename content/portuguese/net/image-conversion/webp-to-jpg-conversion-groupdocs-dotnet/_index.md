@@ -4,8 +4,8 @@
 "title": "Conversão de WebP para JPG usando GroupDocs.Conversion em .NET - Um guia completo"
 "url": "/pt/net/image-conversion/webp-to-jpg-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Dominando a conversão de imagens: converter WebP para JPG usando GroupDocs.Conversion no .NET
 
 ## Introdução

@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή CGM σε XLS με το GroupDocs.Conversion για .NET"
 "url": "/el/net/spreadsheet-conversion/convert-cgm-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική μετατροπή CGM σε XLS με το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

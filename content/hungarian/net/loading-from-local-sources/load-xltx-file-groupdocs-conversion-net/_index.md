@@ -4,8 +4,8 @@
 "title": "XLTX fájl betöltése a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/loading-from-local-sources/load-xltx-file-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # XLTX fájl betöltése a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

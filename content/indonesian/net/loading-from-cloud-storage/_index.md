@@ -3,8 +3,8 @@
 "title": "Memuat Dokumen dari Tutorial Penyimpanan Cloud untuk GroupDocs.Conversion .NET"
 "url": "/id/net/loading-from-cloud-storage/"
 "weight": 4
+type: docs
 ---
-
 # Memuat Dokumen dari Tutorial Penyimpanan Cloud untuk GroupDocs.Conversion .NET
 
 Tutorial penyimpanan cloud kami menunjukkan kepada Anda cara mengintegrasikan GroupDocs.Conversion dengan platform penyimpanan cloud populer dalam aplikasi .NET. Panduan terperinci ini memandu Anda untuk menghubungkan ke bucket Amazon S3, mengakses kontainer Azure Blob Storage, mengonfigurasi kredensial yang sesuai, menangani pengaturan khusus wilayah, mengelola penggabungan koneksi, dan menerapkan logika coba lagi untuk operasi cloud. Setiap tutorial mencakup contoh kode C# praktis untuk skenario pengambilan dokumen cloud, yang membantu Anda membangun aplikasi tangguh yang memanfaatkan repositori dokumen berbasis cloud dalam alur kerja konversi Anda.

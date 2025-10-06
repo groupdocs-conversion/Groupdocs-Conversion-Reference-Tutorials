@@ -4,8 +4,8 @@
 "title": "Chuyển đổi hiệu quả các tài liệu Word được bảo vệ bằng mật khẩu sang PPT bằng Java và GroupDocs.Conversion"
 "url": "/vi/java/presentation-formats/convert-password-protected-word-to-ppt-java/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi hiệu quả các tài liệu Word được bảo vệ bằng mật khẩu sang PPT bằng Java và GroupDocs.Conversion
 
 ## Giới thiệu

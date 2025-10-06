@@ -4,8 +4,8 @@
 "title": "Konverteringar av huvudfilformat i .NET med GroupDocs.Conversion"
 "url": "/sv/net/conversion-utilities-information/groupdocs-conversion-net-file-format-mastery/"
 "weight": 1
+type: docs
 ---
-
 # Bemästra filformatkonverteringar i .NET med GroupDocs.Conversion
 
 Välkommen till vår omfattande guide om hur du använder GroupDocs.Conversion-biblioteket för .NET för att hantera filformatkonverteringar effektivt. Den här handledningen hjälper dig att förstå hur du hämtar alla möjliga konverteringsformat som är tillgängliga via dess API, vilket möjliggör effektiva dokumenthanteringsprocesser och mångsidig integration i dina applikationer.

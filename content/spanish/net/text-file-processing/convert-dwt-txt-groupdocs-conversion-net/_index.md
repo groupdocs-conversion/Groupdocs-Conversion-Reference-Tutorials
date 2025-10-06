@@ -4,8 +4,8 @@
 "title": "Convierta DWT a TXT con GroupDocs.Conversion .NET para un procesamiento eficiente de archivos de texto"
 "url": "/es/net/text-file-processing/convert-dwt-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convierta DWT a TXT con GroupDocs.Conversion .NET para un procesamiento eficiente de archivos de texto
 
 ## Introducción

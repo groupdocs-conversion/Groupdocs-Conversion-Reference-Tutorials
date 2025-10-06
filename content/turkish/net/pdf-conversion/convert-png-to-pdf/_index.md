@@ -5,8 +5,8 @@
 "title": "PNG'yi PDF'ye dönüştür"
 "url": "/tr/net/pdf-conversion/convert-png-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # PNG'yi PDF'ye dönüştür
 
 ## giriiş

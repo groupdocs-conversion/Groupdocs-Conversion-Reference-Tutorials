@@ -4,8 +4,8 @@
 "title": "แปลง MOBI เป็น XLS โดยใช้ GroupDocs.Conversion สำหรับ .NET&#58; คำแนะนำทีละขั้นตอน"
 "url": "/th/net/spreadsheet-formats-features/groupdocs-mobi-to-xls-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลง MOBI เป็น XLS โดยใช้ GroupDocs.Conversion สำหรับ .NET: คำแนะนำทีละขั้นตอน
 
 ## การแนะนำ

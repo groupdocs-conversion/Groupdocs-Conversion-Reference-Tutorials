@@ -4,8 +4,8 @@
 "title": "Chuyển đổi VSTX sang TXT trong .NET bằng GroupDocs.Conversion&#58; Hướng dẫn từng bước"
 "url": "/vi/net/text-file-processing/convert-vstx-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi VSTX sang TXT trong .NET bằng GroupDocs.Conversion: Hướng dẫn từng bước
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "Converti in modo efficiente PCL in PowerPoint utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/presentation-formats-features/convert-pcl-to-powerpoint-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Converti in modo efficiente PCL in PowerPoint utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

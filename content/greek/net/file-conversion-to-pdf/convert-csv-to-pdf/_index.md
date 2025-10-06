@@ -5,8 +5,8 @@
 "title": "Μετατροπή αρχείων δεδομένων CSV σε PDF"
 "url": "/el/net/file-conversion-to-pdf/convert-csv-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # Μετατροπή αρχείων δεδομένων CSV σε PDF
 
 ## Εισαγωγή

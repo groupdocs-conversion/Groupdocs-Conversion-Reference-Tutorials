@@ -4,8 +4,8 @@
 "title": "Megjegyzések elrejtése PDF-ben – PPT konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/pdf-conversion-features/convert-presentation-pdf-hide-comments-net/"
 "weight": 1
+type: docs
 ---
-
 # Megjegyzések elrejtése PDF-ben: PPT konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

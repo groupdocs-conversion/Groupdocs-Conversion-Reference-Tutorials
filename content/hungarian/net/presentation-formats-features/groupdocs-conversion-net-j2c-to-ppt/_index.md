@@ -4,8 +4,8 @@
 "title": "Hatékonyan konvertáljon J2C-t PowerPointtá a GroupDocs.Conversion .NET használatával"
 "url": "/hu/net/presentation-formats-features/groupdocs-conversion-net-j2c-to-ppt/"
 "weight": 1
+type: docs
 ---
-
 # Hatékonyan konvertáljon J2C-t PowerPointtá a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

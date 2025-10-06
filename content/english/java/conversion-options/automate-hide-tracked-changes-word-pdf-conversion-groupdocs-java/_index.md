@@ -8,10 +8,8 @@ keywords:
 - automate hiding tracked changes
 - Word-to-PDF conversion
 - GroupDocs.Conversion for Java
-
+type: docs
 ---
-
-
 # Automate Hide Tracked Changes in Word-to-PDF Conversion Using GroupDocs.Conversion for Java
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Comment convertir des fichiers DWG en HTML avec GroupDocs.Conversion pour .NET | Formats de CAO et de dessin technique"
 "url": "/fr/net/cad-technical-drawing-formats/convert-dwg-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir des fichiers DWG en HTML avec GroupDocs.Conversion pour .NET
 
 ## Introduction

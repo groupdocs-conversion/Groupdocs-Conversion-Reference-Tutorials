@@ -4,8 +4,8 @@
 "title": "Hogyan konvertálhat MHTML-t DOCX-be a GroupDocs.Conversion for .NET használatával?"
 "url": "/hu/net/word-processing-formats-features/convert-mhtml-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhat MHTML-t DOCX-be a GroupDocs.Conversion for .NET használatával?
 
 ## Bevezetés

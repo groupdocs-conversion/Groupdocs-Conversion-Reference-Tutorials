@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して EMF を TXT に変換する手順"
 "url": "/ja/net/text-markup-conversion/convert-emf-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して EMF を TXT に変換する: ステップバイステップ ガイド
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "Converteer MPP eenvoudig naar DOC - GroupDocs.Conversion voor .NET-zelfstudie"
 "url": "/nl/net/word-processing-conversion/convert-mpp-doc-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converteer MPP naar DOC met GroupDocs.Conversion voor .NET
 
 ## Invoering

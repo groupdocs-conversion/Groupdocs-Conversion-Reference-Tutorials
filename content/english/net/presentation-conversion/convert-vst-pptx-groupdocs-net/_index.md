@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert VST to PPTX Using GroupDocs for .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "DWG-bestanden naar Excel converteren met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/cad-technical-drawing-formats/convert-dwg-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DWG-bestanden naar Excel converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

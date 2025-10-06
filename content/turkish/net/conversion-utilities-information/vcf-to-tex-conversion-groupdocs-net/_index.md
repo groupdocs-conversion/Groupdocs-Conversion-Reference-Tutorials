@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanarak Verimli VCF'den TEX'e Dönüşüm"
 "url": "/tr/net/conversion-utilities-information/vcf-to-tex-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanarak Verimli VCF'den TEX'e Dönüşüm
 
 ## giriiş

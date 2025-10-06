@@ -8,10 +8,8 @@ keywords:
 - convert ODP to PNG
 - GroupDocs.Conversion for .NET
 - image conversion using C#
-
+type: docs
 ---
-
-
 # Convert ODP to PNG with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

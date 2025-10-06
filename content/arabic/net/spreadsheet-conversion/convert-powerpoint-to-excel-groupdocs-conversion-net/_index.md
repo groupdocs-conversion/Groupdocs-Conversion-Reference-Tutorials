@@ -4,8 +4,8 @@
 "title": "تحويل PowerPoint إلى Excel بكفاءة باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/spreadsheet-conversion/convert-powerpoint-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل فعال: تحويل PowerPoint إلى Excel باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

@@ -4,8 +4,8 @@
 "title": "PPTM'yi GroupDocs.Conversion for .NET kullanarak JPG'ye dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/image-conversion/convert-pptm-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PPTM'yi GroupDocs.Conversion for .NET Kullanarak JPG'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

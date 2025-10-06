@@ -5,8 +5,8 @@
 "title": "將XLSB轉換為PDF"
 "url": "/zh-hant/net/converting-file-types-to-pdf/convert-xlsb-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # 將XLSB轉換為PDF
 
 ## 介紹

@@ -4,8 +4,8 @@
 "title": "Adobe Illustrator fájlok szöveggé konvertálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/text-file-processing/convert-illustrator-files-to-text-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Adobe Illustrator fájlok szöveggé konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

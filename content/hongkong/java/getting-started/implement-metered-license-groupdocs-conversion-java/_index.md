@@ -4,8 +4,8 @@
 "title": "使用 Java 實作 GroupDocs.Conversion 計量授權的綜合指南"
 "url": "/zh-hant/java/getting-started/implement-metered-license-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # 使用 Java 實作 GroupDocs.Conversion 的計量許可證
 
 ## 介紹

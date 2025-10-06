@@ -4,8 +4,8 @@
 "title": "Adım Adım Kılavuz&#58; Sorunsuz Görüntü Dönüşümü için GroupDocs.Conversion .NET Kullanarak JPC'yi SVG'ye Dönüştürme"
 "url": "/tr/net/image-conversion/convert-jpc-svg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Adım Adım Kılavuz: Sorunsuz Görüntü Dönüşümü için GroupDocs.Conversion .NET Kullanarak JPC'yi SVG'ye Dönüştürme
 
 ## giriiş

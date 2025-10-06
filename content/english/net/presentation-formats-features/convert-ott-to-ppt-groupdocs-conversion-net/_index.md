@@ -8,10 +8,8 @@ keywords:
 - convert OTT to PPT
 - GroupDocs.Conversion for .NET
 - document conversion in .NET
-
+type: docs
 ---
-
-
 # Convert OTT to PPT Seamlessly: Using GroupDocs.Conversion for .NET
 
 ## Introduction

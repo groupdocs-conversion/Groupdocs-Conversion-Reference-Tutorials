@@ -8,10 +8,8 @@ keywords:
 - convert JP2 to PDF
 - GroupDocs.Conversion for .NET tutorial
 - JP2 file conversion
-
+type: docs
 ---
-
-
 # How to Convert JP2 Files to PDF Using GroupDocs.Conversion for .NET
 
 ## Introduction

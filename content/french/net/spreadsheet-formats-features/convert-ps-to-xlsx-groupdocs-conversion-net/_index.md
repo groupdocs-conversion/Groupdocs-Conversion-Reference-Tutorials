@@ -4,8 +4,8 @@
 "title": "Convertissez facilement des fichiers PS en XLSX avec GroupDocs.Conversion pour .NET"
 "url": "/fr/net/spreadsheet-formats-features/convert-ps-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des fichiers PS en XLSX avec GroupDocs.Conversion pour .NET
 
 ## Introduction

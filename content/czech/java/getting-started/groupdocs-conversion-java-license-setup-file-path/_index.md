@@ -4,8 +4,8 @@
 "title": "Nastavení licence Java pro GroupDocs.Conversion – podrobný návod"
 "url": "/cs/java/getting-started/groupdocs-conversion-java-license-setup-file-path/"
 "weight": 1
+type: docs
 ---
-
 # Nastavení licence GroupDocs.Conversion v jazyce Java: Komplexní tutoriál
 
 Vítejte v našem podrobném návodu na nastavení a používání knihovny GroupDocs.Conversion pro Javu. Tento tutoriál se zaměřuje konkrétně na implementaci nastavení licence prostřednictvím cest k souborům, což vám umožní plně využít potenciál tohoto robustního nástroje pro konverzi dokumentů.

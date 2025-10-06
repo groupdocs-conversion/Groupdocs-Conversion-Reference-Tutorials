@@ -5,8 +5,8 @@
 "title": "将 XLS 转换为 PDF"
 "url": "/zh/net/converting-file-types-to-pdf/convert-xls-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # 将 XLS 转换为 PDF
 
 ## 介绍

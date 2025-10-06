@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak DXF Dosyaları Excel'e Nasıl Dönüştürülür"
 "url": "/tr/net/cad-technical-drawing-formats/converting-dxf-files-to-excel-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak DXF Dosyaları Excel'e Nasıl Dönüştürülür
 
 ## giriiş

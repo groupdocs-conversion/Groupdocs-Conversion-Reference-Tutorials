@@ -4,8 +4,8 @@
 "title": "ความเชี่ยวชาญในการแปลงเอกสาร .NET ใช้ GroupDocs เพื่อการแปลง PDF ได้อย่างราบรื่น"
 "url": "/th/net/conversion-options-settings/master-net-document-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # เรียนรู้การแปลงเอกสารใน .NET ด้วย GroupDocs.Conversion
 
 ## การแนะนำ

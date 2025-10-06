@@ -4,8 +4,8 @@
 "title": "Jak odstranit vložené soubory z PDF pomocí GroupDocs.Conversion .NET pro optimalizovanou správu dokumentů"
 "url": "/cs/net/pdf-conversion-features/remove-embedded-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak odstranit vložené soubory z PDF pomocí GroupDocs.Conversion .NET pro optimalizovanou správu dokumentů
 
 ## Zavedení

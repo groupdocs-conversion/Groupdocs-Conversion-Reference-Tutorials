@@ -4,8 +4,8 @@
 "title": "Hatékony DWG-ből XLSX-be konvertálás a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/cad-technical-drawing-formats/convert-dwg-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DWG fájlok XLSX formátumra konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

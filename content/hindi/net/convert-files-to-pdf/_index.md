@@ -5,8 +5,8 @@
 "title": "फ़ाइलों को PDF में बदलें"
 "url": "/hi/net/convert-files-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # फ़ाइलों को PDF में बदलें
 
 ## परिचय

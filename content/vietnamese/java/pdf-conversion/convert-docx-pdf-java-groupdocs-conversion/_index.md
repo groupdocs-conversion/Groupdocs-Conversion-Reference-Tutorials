@@ -4,8 +4,8 @@
 "title": "Chuyển đổi DOCX sang PDF trong Java bằng GroupDocs.Conversion&#58; Hướng dẫn từng bước"
 "url": "/vi/java/pdf-conversion/convert-docx-pdf-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi DOCX sang PDF trong Java với GroupDocs.Conversion
 
 ## Giới thiệu

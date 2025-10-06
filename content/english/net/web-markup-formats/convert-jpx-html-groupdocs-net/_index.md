@@ -8,10 +8,8 @@ keywords:
 - convert JPX to HTML
 - GroupDocs.Conversion for .NET
 - .NET image file conversion
-
+type: docs
 ---
-
-
 # How to Convert JPX to HTML Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

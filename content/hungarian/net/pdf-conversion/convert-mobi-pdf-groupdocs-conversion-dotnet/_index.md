@@ -4,8 +4,8 @@
 "title": "MOBI fájlok PDF-be konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/pdf-conversion/convert-mobi-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # MOBI fájlok PDF-be konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

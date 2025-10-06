@@ -5,8 +5,8 @@
 "title": "PDF转换"
 "url": "/zh/net/pdf-conversion/"
 "weight": 25
+type: docs
 ---
-
 # PDF转换
 
 ## 介绍

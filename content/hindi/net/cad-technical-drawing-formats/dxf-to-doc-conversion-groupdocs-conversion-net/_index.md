@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके DXF से DOC रूपांतरण एक व्यापक गाइड"
 "url": "/hi/net/cad-technical-drawing-formats/dxf-to-doc-conversion-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # व्यापक ट्यूटोरियल: .NET के लिए GroupDocs.Conversion का उपयोग करके DXF से DOC रूपांतरण
 
 ## परिचय

@@ -4,8 +4,8 @@
 "title": "Come convertire un modello di PowerPoint (.potx) in testo utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/text-file-processing/convert-potx-to-text-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Come caricare e convertire un file modello XML aperto di Microsoft PowerPoint (.potx) in testo utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

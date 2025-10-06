@@ -4,8 +4,8 @@
 "title": "Chuyển đổi PowerPoint sang Văn bản hiệu quả trong .NET bằng GroupDocs.Conversion"
 "url": "/vi/net/text-markup-conversion/powerpoint-to-text-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi PowerPoint sang Văn bản hiệu quả trong .NET bằng GroupDocs.Conversion
 ## Làm chủ chuyển đổi PowerPoint sang văn bản với GroupDocs.Conversion cho .NET: Hướng dẫn toàn diện
 ### Giới thiệu

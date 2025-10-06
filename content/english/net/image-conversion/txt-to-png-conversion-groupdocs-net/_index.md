@@ -8,10 +8,8 @@ keywords:
 - TXT to PNG conversion
 - GroupDocs.Conversion for .NET
 - text file image conversion
-
+type: docs
 ---
-
-
 # Efficient TXT to PNG Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

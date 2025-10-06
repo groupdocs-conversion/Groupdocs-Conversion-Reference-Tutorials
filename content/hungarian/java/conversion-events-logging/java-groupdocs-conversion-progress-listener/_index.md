@@ -4,8 +4,8 @@
 "title": "Dokumentumkonverziós folyamat nyomon követése Java nyelven a GroupDocs használatával – Teljes körű útmutató"
 "url": "/hu/java/conversion-events-logging/java-groupdocs-conversion-progress-listener/"
 "weight": 1
+type: docs
 ---
-
 # Dokumentumkonverziós folyamat nyomon követése Java nyelven a GroupDocs segítségével: Teljes körű útmutató
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Automatiser la conversion de feuilles de calcul en PDF en Java avec GroupDocs.Conversion"
 "url": "/fr/java/pdf-conversion/automate-spreadsheet-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Automatiser la conversion de feuilles de calcul en PDF en Java avec GroupDocs.Conversion
 
 ## Introduction

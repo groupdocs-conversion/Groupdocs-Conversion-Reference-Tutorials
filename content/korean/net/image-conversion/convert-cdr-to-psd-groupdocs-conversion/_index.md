@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 CDR을 PSD로 변환하고 원활한 이미지 변환"
 "url": "/ko/net/image-conversion/convert-cdr-to-psd-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # CDR을 PSD로 변환: .NET용 GroupDocs.Conversion을 사용한 원활한 이미지 변환
 
 ## 소개

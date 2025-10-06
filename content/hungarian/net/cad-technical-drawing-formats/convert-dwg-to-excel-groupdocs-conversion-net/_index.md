@@ -4,8 +4,8 @@
 "title": "DWG fájlok konvertálása Excelbe a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/cad-technical-drawing-formats/convert-dwg-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DWG fájlok konvertálása Excelbe a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

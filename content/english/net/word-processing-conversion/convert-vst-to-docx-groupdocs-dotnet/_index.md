@@ -8,10 +8,8 @@ keywords:
 - Convert VST to DOCX
 - GroupDocs.Conversion .NET
 - file format conversion
-
+type: docs
 ---
-
-
 # Convert VST to DOCX in .NET Using GroupDocs.Conversion: A Step-by-Step Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Konfiguracja konwersji dokumentu głównego w .NET przy użyciu GroupDocs.Conversion"
 "url": "/pl/net/conversion-options-settings/master-groupdocs-conversion-net-setup/"
 "weight": 1
+type: docs
 ---
-
 # Konfiguracja katalogu głównego do konwersji dokumentów przy użyciu GroupDocs.Conversion .NET
 
 ## Wstęp

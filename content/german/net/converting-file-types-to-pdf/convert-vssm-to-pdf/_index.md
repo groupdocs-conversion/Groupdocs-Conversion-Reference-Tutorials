@@ -5,8 +5,8 @@
 "title": "Konvertieren Sie VSSM in PDF"
 "url": "/de/net/converting-file-types-to-pdf/convert-vssm-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # Konvertieren Sie VSSM in PDF
 
 ## Einführung

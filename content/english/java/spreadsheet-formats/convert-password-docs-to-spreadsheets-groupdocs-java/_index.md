@@ -8,10 +8,8 @@ keywords:
 - convert password-protected Word documents to Excel
 - GroupDocs.Conversion for Java setup
 - advanced document conversion settings
-
+type: docs
 ---
-
-
 # How to Convert Password-Protected Documents Using GroupDocs.Conversion for Java
 
 ## Introduction

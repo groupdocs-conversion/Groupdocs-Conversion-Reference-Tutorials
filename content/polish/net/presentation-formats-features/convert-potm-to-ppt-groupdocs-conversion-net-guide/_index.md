@@ -4,8 +4,8 @@
 "title": "Jak przekonwertować POTM na PPT za pomocą GroupDocs.Conversion dla .NET&#58; Przewodnik krok po kroku"
 "url": "/pl/net/presentation-formats-features/convert-potm-to-ppt-groupdocs-conversion-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Jak przekonwertować POTM na PPT za pomocą GroupDocs.Conversion dla .NET: przewodnik krok po kroku
 
 ## Wstęp

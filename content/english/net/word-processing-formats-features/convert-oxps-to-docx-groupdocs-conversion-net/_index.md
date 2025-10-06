@@ -8,10 +8,8 @@ keywords:
 - convert OXPS to DOCX
 - GroupDocs.Conversion for .NET
 - document conversion in .NET
-
+type: docs
 ---
-
-
 # Efficiently Convert OXPS to DOCX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

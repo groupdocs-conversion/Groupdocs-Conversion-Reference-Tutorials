@@ -4,8 +4,8 @@
 "title": "Thiết lập Giấy phép từ Luồng trong GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/getting-started-licensing/groupdocs-conversion-net-set-license-stream/"
 "weight": 1
+type: docs
 ---
-
 # Thiết lập Giấy phép từ Luồng trong GroupDocs.Conversion cho .NET: Hướng dẫn Toàn diện
 
 ## Giới thiệu

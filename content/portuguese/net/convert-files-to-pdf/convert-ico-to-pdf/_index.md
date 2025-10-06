@@ -5,8 +5,8 @@
 "title": "Converter ícones ICO para PDF"
 "url": "/pt/net/convert-files-to-pdf/convert-ico-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Converter ícones ICO para PDF
 
 ## Introdução

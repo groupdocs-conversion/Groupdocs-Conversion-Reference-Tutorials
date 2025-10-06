@@ -4,8 +4,8 @@
 "title": "PPSX konvertálása PPTX-re a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/presentation-formats-features/convert-ppsx-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PPSX konvertálása PPTX-re a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

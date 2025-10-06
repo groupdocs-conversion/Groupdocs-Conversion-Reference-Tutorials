@@ -4,8 +4,8 @@
 "title": "Convertir un fichier CSV en JSON à l'aide de GroupDocs.Conversion pour .NET &#58; un guide étape par étape"
 "url": "/fr/net/csv-structured-data-processing/convert-csv-json-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir un fichier CSV en JSON avec GroupDocs.Conversion pour .NET : guide étape par étape
 
 ## Introduction

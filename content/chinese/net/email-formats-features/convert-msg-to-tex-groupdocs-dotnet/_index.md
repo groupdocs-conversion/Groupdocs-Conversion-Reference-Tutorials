@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将 MSG 转换为 TEX 综合指南"
 "url": "/zh/net/email-formats-features/convert-msg-to-tex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将 MSG 转换为 TEX：综合指南
 ## 介绍
 您是否厌倦了手动将消息文件从一种格式转换为另一种格式？在软件开发领域，效率和自动化至关重要。如果您正在处理 MSG 文件，并需要将其转换为 TEX 格式以实现更好的兼容性或集成，那么本教程将是您的理想之选。我们将指导您使用 GroupDocs.Conversion for .NET，这是一个功能强大的库，可以简化文件转换任务。

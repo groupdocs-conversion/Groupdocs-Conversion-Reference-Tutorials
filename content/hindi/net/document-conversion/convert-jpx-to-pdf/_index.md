@@ -5,8 +5,8 @@
 "title": "JPX को PDF में बदलें"
 "url": "/hi/net/document-conversion/convert-jpx-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # JPX को PDF में बदलें
 
 ## परिचय

@@ -4,8 +4,8 @@
 "title": "Chuyển đổi PDF sang Word thành thạo bằng GroupDocs.Conversion cho .NET | Hướng dẫn toàn diện"
 "url": "/vi/net/word-processing-formats-features/master-pdf-to-word-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Làm chủ việc chuyển đổi PDF sang Word với GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "EMF fájlok egyszerű konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/pdf-conversion/convert-emf-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # EMF fájlok konvertálása PDF-be a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

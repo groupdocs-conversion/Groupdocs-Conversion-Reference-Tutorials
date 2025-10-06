@@ -5,8 +5,8 @@
 "title": "PPTX를 PDF로 변환"
 "url": "/ko/net/pdf-conversion/convert-pptx-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # PPTX를 PDF로 변환
 
 ## 소개

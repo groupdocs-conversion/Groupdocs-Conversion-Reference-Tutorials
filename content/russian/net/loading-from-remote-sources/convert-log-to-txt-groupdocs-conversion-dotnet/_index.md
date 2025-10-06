@@ -4,8 +4,8 @@
 "title": "Конвертируйте файлы LOG в TXT без усилий с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/loading-from-remote-sources/convert-log-to-txt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте файлы LOG в TXT без усилий с помощью GroupDocs.Conversion для .NET
 
 ## Введение

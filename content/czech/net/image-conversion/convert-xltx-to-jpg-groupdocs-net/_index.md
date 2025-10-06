@@ -4,8 +4,8 @@
 "title": "Převod XLTX do JPG pomocí GroupDocs.Conversion pro .NET - Komplexní průvodce"
 "url": "/cs/net/image-conversion/convert-xltx-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod XLTX do JPG pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

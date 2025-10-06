@@ -4,8 +4,8 @@
 "title": "如何在 .NET 应用程序中转换 DOTX 文件——使用 GroupDocs.Conversion 的指南"
 "url": "/zh/net/word-processing-formats-features/convert-dotx-files-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # 如何实现和优化 .NET 转换：使用 GroupDocs.Conversion 加载和转换 DOTX 文件
 
 ## 介绍

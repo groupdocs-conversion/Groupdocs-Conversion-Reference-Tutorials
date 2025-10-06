@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET&#58; Kurulumu ve Uygulaması için Kapsamlı Kılavuz"
 "url": "/tr/net/getting-started-licensing/groupdocs-conversion-net-setup-guide/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET için Kapsamlı Kılavuz: Kurulum ve Uygulama
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "Moeiteloze CSV-conversie met GroupDocs.Conversion voor .NET&#58; een complete handleiding"
 "url": "/nl/net/spreadsheet-formats-features/convert-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Moeiteloze CSV-conversie met GroupDocs.Conversion voor .NET
 
 ## Invoering

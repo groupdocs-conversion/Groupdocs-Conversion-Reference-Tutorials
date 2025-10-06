@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 將 OXPS 轉換為 XLS——電子表格格式和功能綜合指南"
 "url": "/zh-hant/net/spreadsheet-formats-features/convert-oxps-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 將 OXPS 轉換為 XLS：綜合指南
 
 ## 介紹

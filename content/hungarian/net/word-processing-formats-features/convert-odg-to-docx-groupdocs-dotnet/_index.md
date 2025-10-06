@@ -4,8 +4,8 @@
 "title": "Hatékony ODG-DOCX konvertálás a GroupDocs.Conversion .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/word-processing-formats-features/convert-odg-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony ODG-DOCX konvertálás a GroupDocs.Conversion .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

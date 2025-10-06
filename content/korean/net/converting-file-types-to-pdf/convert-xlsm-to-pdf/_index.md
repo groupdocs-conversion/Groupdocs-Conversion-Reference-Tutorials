@@ -5,8 +5,8 @@
 "title": "XLSM을 PDF로 변환"
 "url": "/ko/net/converting-file-types-to-pdf/convert-xlsm-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # XLSM을 PDF로 변환
 
 ## 소개

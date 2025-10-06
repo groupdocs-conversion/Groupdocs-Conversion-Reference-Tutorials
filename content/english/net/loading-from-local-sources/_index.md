@@ -3,8 +3,8 @@ title: "Loading Documents from Local Sources Tutorials for GroupDocs.Conversion 
 description: "Learn how to load documents from local disk and streams using GroupDocs.Conversion for .NET through these detailed tutorials."
 weight: 2
 url: "/net/loading-from-local-sources/"
+type: docs
 ---
-
 # Loading Documents from Local Sources Tutorials for GroupDocs.Conversion .NET
 
 Our local document loading tutorials provide comprehensive guidance for working with documents stored on your local system in .NET applications. Follow these step-by-step guides to learn how to load documents from file system paths and memory streams. These tutorials cover various scenarios including relative and absolute paths, stream management considerations, and memory optimization techniques. Each guide includes complete C# code examples for local document loading scenarios, helping you build applications that can efficiently access content from your file system or memory.

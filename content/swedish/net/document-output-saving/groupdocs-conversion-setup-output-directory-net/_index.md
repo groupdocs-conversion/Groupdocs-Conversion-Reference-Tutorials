@@ -4,8 +4,8 @@
 "title": "Så här konfigurerar du en sökväg till en utdatakatalog med GroupDocs.Conversion för .NET"
 "url": "/sv/net/document-output-saving/groupdocs-conversion-setup-output-directory-net/"
 "weight": 1
+type: docs
 ---
-
 # Så här konfigurerar du en sökväg till en utdatakatalog med GroupDocs.Conversion för .NET
 
 ## Introduktion

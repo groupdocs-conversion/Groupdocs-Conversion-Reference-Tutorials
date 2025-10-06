@@ -5,8 +5,8 @@
 "title": "Chuyển đổi tài liệu DJVU sang PDF"
 "url": "/vi/net/file-conversion-to-pdf/convert-djvu-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Chuyển đổi tài liệu DJVU sang PDF
 
 ## Giới thiệu

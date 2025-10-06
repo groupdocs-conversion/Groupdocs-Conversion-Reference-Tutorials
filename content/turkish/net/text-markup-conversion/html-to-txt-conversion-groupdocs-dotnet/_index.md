@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanarak HTML'yi TXT'ye Dönüştürme&#58; Tam Bir Kılavuz"
 "url": "/tr/net/text-markup-conversion/html-to-txt-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak HTML'yi TXT'ye Dönüştürme
 
 ## giriiş

@@ -5,8 +5,8 @@
 "title": "FODP OpenDocumentプレゼンテーションをPDFに変換する"
 "url": "/ja/net/convert-files-to-pdf/convert-fodp-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # FODP OpenDocumentプレゼンテーションをPDFに変換する
 
 ## 導入

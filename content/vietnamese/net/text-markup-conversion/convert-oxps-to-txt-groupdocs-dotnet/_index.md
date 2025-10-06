@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi tệp OXPS sang TXT bằng GroupDocs.Conversion cho .NET | Hướng dẫn chuyển đổi văn bản và đánh dấu"
 "url": "/vi/net/text-markup-conversion/convert-oxps-to-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp OXPS sang TXT bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

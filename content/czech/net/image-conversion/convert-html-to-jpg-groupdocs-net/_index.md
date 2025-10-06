@@ -4,8 +4,8 @@
 "title": "Převod HTML do JPG pomocí GroupDocs.Conversion pro .NET – kompletní průvodce"
 "url": "/cs/net/image-conversion/convert-html-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod HTML do JPG pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

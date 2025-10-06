@@ -5,8 +5,8 @@
 "title": "CDRベクターグラフィックをPDFに変換する"
 "url": "/ja/net/file-conversion-to-pdf/convert-cdr-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # CDRベクターグラフィックをPDFに変換する
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "تحويل EMZ إلى JPG في .NET - دليل خطوة بخطوة باستخدام GroupDocs.Conversion"
 "url": "/ar/net/image-conversion/convert-emz-jpg-net-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # دليل شامل: تحويل EMZ إلى JPG باستخدام GroupDocs.Conversion في .NET
 
 ## مقدمة

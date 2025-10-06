@@ -5,8 +5,8 @@
 "title": "Converteer OTP naar PDF"
 "url": "/nl/net/pdf-conversion/convert-otp-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # Converteer OTP naar PDF
 
 ## Invoering

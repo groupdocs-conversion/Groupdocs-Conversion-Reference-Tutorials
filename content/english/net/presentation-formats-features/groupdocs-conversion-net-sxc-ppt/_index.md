@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Transform Your Data Presentation: Efficiently Convert SXC Files to PPT with GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - convert DOTM to DOCX
 - GroupDocs.Conversion for .NET
 - automate Word template conversion
-
+type: docs
 ---
-
-
 # Mastering DOTM to DOCX Conversion with GroupDocs for .NET
 
 ## Introduction

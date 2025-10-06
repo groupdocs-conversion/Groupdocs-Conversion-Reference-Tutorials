@@ -4,8 +4,8 @@
 "title": "AI'yi GroupDocs ile PNG'ye Dönüştürme. .NET İçin Dönüşüm&#58; Adım Adım Kılavuz"
 "url": "/tr/net/image-formats-features/convert-ai-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # AI'yi GroupDocs ile PNG'ye Dönüştürme. .NET için Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

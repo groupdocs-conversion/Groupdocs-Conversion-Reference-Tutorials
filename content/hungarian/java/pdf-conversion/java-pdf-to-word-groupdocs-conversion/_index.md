@@ -4,8 +4,8 @@
 "title": "PDF konvertálása Wordbe Java-ban a GroupDocs használatával – Átfogó útmutató"
 "url": "/hu/java/pdf-conversion/java-pdf-to-word-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # PDF konvertálása Wordbe Java-ban a GroupDocs használatával: Átfogó útmutató
 
 ## Bevezetés

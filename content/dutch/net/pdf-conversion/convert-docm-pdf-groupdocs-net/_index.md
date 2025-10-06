@@ -4,8 +4,8 @@
 "title": "Uitgebreide handleiding voor het converteren van DOCM naar PDF met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/pdf-conversion/convert-docm-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Uitgebreide handleiding voor het converteren van DOCM naar PDF met GroupDocs.Conversion voor .NET
 
 ## Invoering

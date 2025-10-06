@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して EMZ ファイルを読み込む方法 包括的なガイド"
 "url": "/ja/net/loading-from-local-sources/load-emz-files-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して EMZ ファイルを読み込む方法: 包括的なガイド
 
 ## 導入

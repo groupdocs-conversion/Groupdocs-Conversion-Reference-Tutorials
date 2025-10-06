@@ -3,8 +3,8 @@
 "title": "Tutorial Pemrosesan CSV dan Data Terstruktur untuk GroupDocs.Conversion .NET"
 "url": "/id/net/csv-structured-data-processing/"
 "weight": 15
+type: docs
 ---
-
 # Tutorial Pemrosesan CSV dan Data Terstruktur untuk GroupDocs.Conversion .NET
 
 Tutorial CSV dan data terstruktur kami menyediakan panduan terperinci untuk menangani format tabular dan yang berfokus pada data dalam aplikasi .NET. Panduan praktis ini menunjukkan cara mengonversi file CSV ke format JSON dan XML, mengubah CSV ke berbagai jenis dokumen, menentukan pembatas dan opsi penyandian, mengonversi data datetime dan numerik dengan tepat, mengelola tajuk dan nama bidang, mempertahankan jenis data selama konversi, dan mengimplementasikan operasi transformasi data massal. Setiap tutorial menyertakan contoh kode C# lengkap untuk skenario konversi format data, membantu Anda membangun aplikasi yang dapat secara efektif menjembatani antara format data mentah dan dokumen yang dapat dibaca manusia.

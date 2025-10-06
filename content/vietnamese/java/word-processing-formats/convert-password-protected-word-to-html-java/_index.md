@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi tài liệu Word được bảo vệ bằng mật khẩu sang HTML bằng Java (Hướng dẫn từng bước)"
 "url": "/vi/java/word-processing-formats/convert-password-protected-word-to-html-java/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tài liệu Word được bảo vệ bằng mật khẩu sang HTML bằng Java
 
 ## Giới thiệu

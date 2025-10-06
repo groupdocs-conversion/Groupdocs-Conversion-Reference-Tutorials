@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET을 사용한 효율적인 DOC-JPG 변환 - 단계별 가이드"
 "url": "/ko/net/image-conversion/convert-doc-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET을 사용한 효율적인 DOC-JPG 변환: 단계별 가이드
 
 ## 소개

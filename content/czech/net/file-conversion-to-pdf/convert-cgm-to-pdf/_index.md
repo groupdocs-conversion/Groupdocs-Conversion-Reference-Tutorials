@@ -5,8 +5,8 @@
 "title": "Převod vektorové grafiky CGM do PDF"
 "url": "/cs/net/file-conversion-to-pdf/convert-cgm-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # Převod vektorové grafiky CGM do PDF
 
 ## Zavedení

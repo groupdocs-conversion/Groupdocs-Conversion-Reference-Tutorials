@@ -5,8 +5,8 @@
 "title": "पीपीएस को पीडीएफ में बदलें"
 "url": "/hi/net/pdf-conversion/convert-pps-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # पीपीएस को पीडीएफ में बदलें
 
 ## परिचय

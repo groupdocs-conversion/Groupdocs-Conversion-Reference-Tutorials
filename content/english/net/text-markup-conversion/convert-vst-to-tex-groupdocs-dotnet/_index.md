@@ -8,10 +8,8 @@ keywords:
 - convert VST files to TEX
 - GroupDocs.Conversion for .NET
 - VST file conversion
-
+type: docs
 ---
-
-
 # Convert VST Files to TEX Using GroupDocs.Conversion for .NET
 
 ## Introduction

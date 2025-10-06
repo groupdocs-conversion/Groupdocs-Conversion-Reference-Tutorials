@@ -4,8 +4,8 @@
 "title": "Converteer LOG-bestanden efficiënt naar Word-documenten met GroupDocs.Conversion in .NET"
 "url": "/nl/net/word-processing-formats-features/convert-log-files-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer LOG-bestanden efficiënt naar Word-documenten met GroupDocs.Conversion in .NET
 
 ## Invoering

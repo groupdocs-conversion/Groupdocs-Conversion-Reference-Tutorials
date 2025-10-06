@@ -4,8 +4,8 @@
 "title": "Mengoptimalkan Konversi Dokumen .NET dengan Caching Menggunakan GroupDocs.Conversion"
 "url": "/id/net/cache-management/optimize-net-document-conversion-caching-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Mengoptimalkan Konversi Dokumen .NET dengan Caching Menggunakan GroupDocs.Conversion
 
 ## Perkenalan

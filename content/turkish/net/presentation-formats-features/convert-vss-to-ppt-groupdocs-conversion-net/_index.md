@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET&#58;i Kullanarak VSS Dosyalarını PPT Sunumlarına Nasıl Dönüştürebilirsiniz Adım Adım Kılavuz"
 "url": "/tr/net/presentation-formats-features/convert-vss-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET Kullanılarak VSS Dosyaları PPT Sunumlarına Nasıl Dönüştürülür: Adım Adım Kılavuz
 
 ## giriiş

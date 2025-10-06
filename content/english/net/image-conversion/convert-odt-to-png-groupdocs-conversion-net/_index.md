@@ -8,10 +8,8 @@ keywords:
 - ODT to PNG conversion
 - GroupDocs.Conversion for .NET
 - document format compatibility
-
+type: docs
 ---
-
-
 # How to Convert ODT Files to PNG Using GroupDocs.Conversion for .NET
 
 ## Introduction

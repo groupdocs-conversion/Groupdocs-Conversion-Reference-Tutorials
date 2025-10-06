@@ -4,8 +4,8 @@
 "title": "DIB konvertálása TXT-vé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-formats-features/convert-dib-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DIB konvertálása TXT-vé a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

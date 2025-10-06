@@ -4,8 +4,8 @@
 "title": "Convertire DOCM in TXT utilizzando GroupDocs.Conversion per .NET | Elaborazione semplificata dei file di testo"
 "url": "/it/net/text-file-processing/convert-docm-to-txt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire un documento con macro abilitate di Microsoft Word (DOCM) in testo normale (.txt) utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

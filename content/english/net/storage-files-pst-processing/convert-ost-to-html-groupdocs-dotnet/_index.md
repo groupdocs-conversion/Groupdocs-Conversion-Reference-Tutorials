@@ -8,10 +8,8 @@ keywords:
 - convert OST to HTML
 - GroupDocs.Conversion for .NET
 - Outlook email data conversion
-
+type: docs
 ---
-
-
 # How to Convert OST Files to HTML with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

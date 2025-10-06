@@ -4,8 +4,8 @@
 "title": "PCL fájlok konvertálása Excel XLSX formátumba a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/spreadsheet-formats-features/convert-pcl-files-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PCL fájlok konvertálása Excel XLSX formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

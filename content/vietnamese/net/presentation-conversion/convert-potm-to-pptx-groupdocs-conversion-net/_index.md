@@ -4,8 +4,8 @@
 "title": "Chuyển đổi POTM sang PPTX với GroupDocs.Conversion cho .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/presentation-conversion/convert-potm-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi POTM sang PPTX với GroupDocs.Conversion cho .NET: Hướng dẫn từng bước
 
 ## Giới thiệu

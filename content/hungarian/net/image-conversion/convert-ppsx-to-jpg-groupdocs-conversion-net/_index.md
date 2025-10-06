@@ -4,8 +4,8 @@
 "title": "PPSX fájlok hatékony konvertálása JPG-vé a GroupDocs.Conversion .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-ppsx-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PPSX fájlok hatékony konvertálása JPG-vé a GroupDocs.Conversion .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

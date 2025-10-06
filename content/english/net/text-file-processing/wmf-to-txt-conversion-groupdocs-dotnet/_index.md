@@ -8,10 +8,8 @@ keywords:
 - WMF to TXT Conversion
 - GroupDocs.Conversion for .NET
 - Windows Metafile Conversion
-
+type: docs
 ---
-
-
 # Convert WMF to TXT with GroupDocs.Conversion for .NET: A Complete Guide
 
 ## Introduction

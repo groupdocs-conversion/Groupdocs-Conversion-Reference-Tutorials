@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Efficiently Convert PPTM to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

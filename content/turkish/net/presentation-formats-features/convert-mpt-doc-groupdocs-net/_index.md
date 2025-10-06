@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET&#58;i Kullanarak MPT'yi DOC'a Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/presentation-formats-features/convert-mpt-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # MPT Dosyalarını GroupDocs.Conversion .NET ile DOC'a Dönüştürün
 
 ## giriiş

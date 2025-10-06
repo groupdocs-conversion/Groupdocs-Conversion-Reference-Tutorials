@@ -3,8 +3,8 @@
 "title": "Tải tài liệu từ hướng dẫn lưu trữ đám mây cho GroupDocs.Conversion .NET"
 "url": "/vi/net/loading-from-cloud-storage/"
 "weight": 4
+type: docs
 ---
-
 # Tải tài liệu từ hướng dẫn lưu trữ đám mây cho GroupDocs.Conversion .NET
 
 Hướng dẫn lưu trữ đám mây của chúng tôi sẽ chỉ cho bạn cách tích hợp GroupDocs.Conversion với các nền tảng lưu trữ đám mây phổ biến trong các ứng dụng .NET. Các hướng dẫn chi tiết này hướng dẫn cách kết nối với các thùng Amazon S3, truy cập các thùng chứa Azure Blob Storage, cấu hình thông tin xác thực phù hợp, xử lý các thiết lập cụ thể theo vùng, quản lý nhóm kết nối và triển khai logic thử lại cho các hoạt động đám mây. Mỗi hướng dẫn đều bao gồm các ví dụ mã C# thực tế cho các tình huống truy xuất tài liệu đám mây, giúp bạn xây dựng các ứng dụng mạnh mẽ tận dụng các kho lưu trữ tài liệu dựa trên đám mây trong quy trình chuyển đổi của mình.

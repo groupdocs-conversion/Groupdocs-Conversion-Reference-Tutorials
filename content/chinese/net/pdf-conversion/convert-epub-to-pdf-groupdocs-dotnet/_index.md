@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将 EPUB 转换为 PDF 的综合指南"
 "url": "/zh/net/pdf-conversion/convert-epub-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将 EPUB 转换为 PDF 的综合指南
 
 ## 介绍

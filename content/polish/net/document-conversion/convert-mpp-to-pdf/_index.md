@@ -5,8 +5,8 @@
 "title": "Konwertuj MPP do PDF"
 "url": "/pl/net/document-conversion/convert-mpp-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # Konwertuj MPP do PDF
 
 ## Wstęp

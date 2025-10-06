@@ -8,10 +8,8 @@ keywords:
 - convert PDF to PPT
 - GroupDocs.Conversion .NET
 - PDF file conversion
-
+type: docs
 ---
-
-
 # Guide to Converting PDF to PPT Using GroupDocs.Conversion in .NET
 
 ## Introduction

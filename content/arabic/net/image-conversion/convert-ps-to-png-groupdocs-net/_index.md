@@ -4,8 +4,8 @@
 "title": "تحويل ملفات PS إلى PNG باستخدام GroupDocs.Conversion لـ .NET - دليل كامل"
 "url": "/ar/net/image-conversion/convert-ps-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل PS إلى PNG باستخدام GroupDocs.Conversion لـ .NET: دليل شامل
 
 ## مقدمة

@@ -4,8 +4,8 @@
 "title": "Chuyển đổi DNG sang PPTX dễ dàng với GroupDocs.Conversion cho .NET"
 "url": "/vi/net/presentation-conversion/convert-dng-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi DNG sang PPTX với GroupDocs.Conversion cho .NET
 
 Trong bối cảnh kỹ thuật số ngày nay, khả năng quản lý chuyển đổi tệp nhanh chóng và hiệu quả là điều cần thiết. Cho dù bạn là một kiến trúc sư trình bày các thiết kế 3D hay một nhà tiếp thị chuyển đổi hình ảnh thô thành bản trình bày, việc học cách chuyển đổi tệp Digital Negative (DNG) sang định dạng PowerPoint Presentation (.pptx) có thể mang lại lợi ích vô cùng lớn.

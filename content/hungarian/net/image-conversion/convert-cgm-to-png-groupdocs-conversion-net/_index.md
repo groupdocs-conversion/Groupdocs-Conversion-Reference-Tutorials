@@ -4,8 +4,8 @@
 "title": "CGM hatékony PNG-vé konvertálása a GroupDocs.Conversion .NET használatával képkonverzióhoz"
 "url": "/hu/net/image-conversion/convert-cgm-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhatunk CGM fájlokat hatékonyan PNG formátumba a GroupDocs.Conversion .NET használatával?
 
 ## Bevezetés

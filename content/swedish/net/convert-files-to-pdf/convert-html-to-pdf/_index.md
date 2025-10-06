@@ -5,8 +5,8 @@
 "title": "Konvertera HTML-webbsidor till PDF"
 "url": "/sv/net/convert-files-to-pdf/convert-html-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Konvertera HTML-webbsidor till PDF
 
 ## Introduktion

@@ -3,8 +3,8 @@
 "title": "Handledningar för konvertering av presentationsformat för GroupDocs.Conversion Java"
 "url": "/sv/java/presentation-formats/"
 "weight": 7
+type: docs
 ---
-
 # Handledningar för konvertering av presentationsformat för GroupDocs.Conversion Java
 
 Våra handledningar för presentationskonvertering visar hur du transformerar presentationsfiler med GroupDocs.Conversion i Java. Dessa praktiska guider går igenom konvertering av PowerPoint-format, underhåll av animationer och övergångar, bevarande av talaranteckningar, hantering av inbäddad media och säkerställande av layoutkonsekvens under konvertering. Varje handledning innehåller detaljerade Java-kodexempel för vanliga presentationskonverteringsscenarier, vilket hjälper dig att bygga applikationer som producerar högkvalitativa konverteringar med bevarade visuella element och interaktiva funktioner.

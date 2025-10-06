@@ -4,8 +4,8 @@
 "title": "Convertire OTS in XLSX utilizzando GroupDocs.Conversion per .NET | Guida completa"
 "url": "/it/net/spreadsheet-formats-features/convert-ots-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire i file OTS in XLSX utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

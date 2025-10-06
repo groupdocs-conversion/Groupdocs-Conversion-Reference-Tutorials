@@ -4,8 +4,8 @@
 "title": "Μετατροπή TXT σε PDF με το GroupDocs' Ελέγξτε τα κενά στο τέλος χρησιμοποιώντας το .NET"
 "url": "/el/net/pdf-conversion/convert-txt-to-pdf-groupdocs-trailing-spaces-control/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή TXT σε PDF με το GroupDocs: Έλεγχος κενών στο τέλος χρησιμοποιώντας .NET
 
 ## Εισαγωγή

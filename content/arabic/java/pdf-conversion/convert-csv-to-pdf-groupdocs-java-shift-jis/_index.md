@@ -4,8 +4,8 @@
 "title": "تحويل CSV إلى PDF في Java باستخدام GroupDocs مع ترميز Shift_JIS"
 "url": "/ar/java/pdf-conversion/convert-csv-to-pdf-groupdocs-java-shift-jis/"
 "weight": 1
+type: docs
 ---
-
 # تحويل CSV إلى PDF في Java باستخدام GroupDocs مع ترميز Shift_JIS
 
 ## مقدمة

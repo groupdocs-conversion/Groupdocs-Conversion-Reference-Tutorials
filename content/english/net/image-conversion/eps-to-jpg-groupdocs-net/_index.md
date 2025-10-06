@@ -8,10 +8,8 @@ keywords:
 - EPS to JPG conversion
 - GroupDocs.Conversion for .NET
 - convert EPS files
-
+type: docs
 ---
-
-
 # How to Convert EPS to JPG Using GroupDocs.Conversion for .NET
 
 ## Introduction

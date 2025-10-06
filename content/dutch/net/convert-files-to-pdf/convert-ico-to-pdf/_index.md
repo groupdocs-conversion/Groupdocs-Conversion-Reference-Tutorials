@@ -5,8 +5,8 @@
 "title": "Converteer ICO-pictogrammen naar PDF"
 "url": "/nl/net/convert-files-to-pdf/convert-ico-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Converteer ICO-pictogrammen naar PDF
 
 ## Invoering

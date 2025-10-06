@@ -4,8 +4,8 @@
 "title": "Jak převést GIF do SVG pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/image-conversion/convert-gif-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést GIF do SVG pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

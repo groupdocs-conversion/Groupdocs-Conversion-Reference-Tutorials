@@ -4,8 +4,8 @@
 "title": "WMZ konvertálása PPTX-re a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/presentation-formats-features/convert-wmz-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # WMZ konvertálása PPTX-re a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

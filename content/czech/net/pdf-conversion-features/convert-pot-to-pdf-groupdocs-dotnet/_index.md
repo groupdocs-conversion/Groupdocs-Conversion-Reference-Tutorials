@@ -4,8 +4,8 @@
 "title": "Převod šablony PowerPointu (.pot) do PDF pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/pdf-conversion-features/convert-pot-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubor šablony PowerPointu (.pot) do PDF pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

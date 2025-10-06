@@ -5,8 +5,8 @@
 "title": "Convertir XLSM a PDF"
 "url": "/es/net/converting-file-types-to-pdf/convert-xlsm-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # Convertir XLSM a PDF
 
 ## Introducción

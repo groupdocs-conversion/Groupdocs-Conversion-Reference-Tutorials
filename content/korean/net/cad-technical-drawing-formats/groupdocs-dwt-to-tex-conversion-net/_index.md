@@ -4,8 +4,8 @@
 "title": ".NET용 GroupDocs를 사용한 효율적인 DWT-TEX 변환 - 가이드 및 모범 사례"
 "url": "/ko/net/cad-technical-drawing-formats/groupdocs-dwt-to-tex-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 효율적인 문서 변환: .NET용 GroupDocs.Conversion을 사용하여 DWT를 TEX로 변환
 ## 소개
 .dwt 파일을 다재다능한 TEX 형식으로 효율적으로 변환하고 싶으신가요? 많은 개발자들이 문서 변환, 특히 Drawing Web Format(.dwt)과 같은 특수 형식을 변환하는 데 어려움을 겪습니다. 이 종합 가이드에서는 복잡한 변환을 간소화하는 강력한 라이브러리인 GroupDocs.Conversion for .NET을 사용하여 DWT 파일을 TEX 파일로 원활하게 변환하는 방법을 설명합니다.

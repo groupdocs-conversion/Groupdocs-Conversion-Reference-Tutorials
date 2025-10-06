@@ -8,10 +8,8 @@ keywords:
 - convert XLSM to PowerPoint
 - GroupDocs.Conversion .NET
 - XLSM file conversion
-
+type: docs
 ---
-
-
 # Convert XLSM Files to PowerPoint Presentations Using GroupDocs.Conversion for .NET
 
 ## Introduction

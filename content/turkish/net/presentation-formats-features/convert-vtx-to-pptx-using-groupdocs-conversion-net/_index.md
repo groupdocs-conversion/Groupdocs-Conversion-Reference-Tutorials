@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion'ı Kullanarak VTX'i PPTX'e Verimli Şekilde Dönüştürün"
 "url": "/tr/net/presentation-formats-features/convert-vtx-to-pptx-using-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak VTX'i PPTX'e Verimli Şekilde Dönüştürün
 
 ## giriiş

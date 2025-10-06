@@ -4,8 +4,8 @@
 "title": "Эффективное управление путями документов в .NET с помощью GroupDocs.Conversion&#58; Определение констант для бесшовных преобразований"
 "url": "/ru/net/conversion-options-settings/groupdocs-net-define-document-paths/"
 "weight": 1
+type: docs
 ---
-
 # Эффективное управление путями документов в .NET с помощью GroupDocs.Conversion
 
 ## Введение

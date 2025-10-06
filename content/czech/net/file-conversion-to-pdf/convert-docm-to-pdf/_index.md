@@ -5,8 +5,8 @@
 "title": "Převod dokumentů Word (makra) ve formátu DOCM do formátu PDF"
 "url": "/cs/net/file-conversion-to-pdf/convert-docm-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Převod dokumentů Word (makra) ve formátu DOCM do formátu PDF
 
 ## Zavedení

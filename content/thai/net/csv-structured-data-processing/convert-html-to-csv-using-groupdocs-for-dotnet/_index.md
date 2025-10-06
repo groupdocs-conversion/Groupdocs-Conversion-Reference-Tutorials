@@ -4,8 +4,8 @@
 "title": "แปลง HTML เป็น CSV อย่างมีประสิทธิภาพโดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/csv-structured-data-processing/convert-html-to-csv-using-groupdocs-for-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # แปลง HTML เป็น CSV อย่างมีประสิทธิภาพโดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

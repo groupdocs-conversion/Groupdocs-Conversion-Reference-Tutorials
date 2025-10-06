@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET Kullanarak Verimli FODP'den JPG'ye Dönüştürme"
 "url": "/tr/net/image-conversion/convert-fodp-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET Kullanarak Verimli FODP'den JPG'ye Dönüştürme
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "XLSM hatékony konvertálása CSV-vé a GroupDocs.Conversion for .NET használatával C#-ban"
 "url": "/hu/net/spreadsheet-formats-features/convert-xlsm-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # XLSM hatékony konvertálása CSV-vé a GroupDocs.Conversion for .NET használatával C#-ban
 
 ## Bevezetés

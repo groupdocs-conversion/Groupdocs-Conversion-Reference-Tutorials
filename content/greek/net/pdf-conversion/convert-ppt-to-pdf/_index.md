@@ -5,8 +5,8 @@
 "title": "Μετατροπή PPT σε PDF"
 "url": "/el/net/pdf-conversion/convert-ppt-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # Μετατροπή PPT σε PDF
 
 ## Εισαγωγή

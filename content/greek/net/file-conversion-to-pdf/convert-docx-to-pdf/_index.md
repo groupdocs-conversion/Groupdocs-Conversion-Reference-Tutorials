@@ -5,8 +5,8 @@
 "title": "Μετατροπή εγγράφων Word DOCX σε PDF"
 "url": "/el/net/file-conversion-to-pdf/convert-docx-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Μετατροπή εγγράφων Word DOCX σε PDF
 
 ## Εισαγωγή

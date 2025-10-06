@@ -8,10 +8,8 @@ keywords:
 - PDF to TXT conversion
 - GroupDocs.Conversion .NET
 - .NET document processing
-
+type: docs
 ---
-
-
 # Convert PDF to TXT with GroupDocs.Conversion for .NET
 
 ## Introduction

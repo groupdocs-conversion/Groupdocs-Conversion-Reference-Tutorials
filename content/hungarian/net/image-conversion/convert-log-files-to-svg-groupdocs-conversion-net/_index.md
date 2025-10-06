@@ -4,8 +4,8 @@
 "title": "LOG fájlok SVG formátumba konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-log-files-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # LOG fájlok SVG formátumba konvertálása a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

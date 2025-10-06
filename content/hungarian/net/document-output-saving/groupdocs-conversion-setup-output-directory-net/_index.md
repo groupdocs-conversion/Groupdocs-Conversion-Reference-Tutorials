@@ -4,8 +4,8 @@
 "title": "Kimeneti könyvtár elérési útjának beállítása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/document-output-saving/groupdocs-conversion-setup-output-directory-net/"
 "weight": 1
+type: docs
 ---
-
 # Kimeneti könyvtár elérési útjának beállítása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

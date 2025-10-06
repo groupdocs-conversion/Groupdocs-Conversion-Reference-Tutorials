@@ -8,10 +8,8 @@ keywords:
 - Convert XLSM to LaTeX
 - GroupDocs.Conversion for .NET
 - XLSM to LaTeX conversion
-
+type: docs
 ---
-
-
 # Convert XLSM to LaTeX Easily with GroupDocs.Conversion for .NET
 
 ## Introduction

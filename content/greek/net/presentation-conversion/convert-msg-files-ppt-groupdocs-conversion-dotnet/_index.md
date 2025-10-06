@@ -4,8 +4,8 @@
 "title": "Πώς να μετατρέψετε αρχεία MSG του Outlook σε παρουσιάσεις PowerPoint χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/presentation-conversion/convert-msg-files-ppt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε αρχεία MSG του Outlook σε παρουσιάσεις PowerPoint χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

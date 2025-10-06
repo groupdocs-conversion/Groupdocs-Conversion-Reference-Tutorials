@@ -4,8 +4,8 @@
 "title": "綜合指南&#58;使用 GroupDocs.Conversion for .NET 將 PNG 轉換為 PPTX"
 "url": "/zh-hant/net/presentation-conversion/convert-png-to-pptx-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # 綜合指南：使用 GroupDocs.Conversion for .NET 將 PNG 轉換為 PPTX
 
 ## 介紹

@@ -4,8 +4,8 @@
 "title": "Πώς να μετατρέψετε πρότυπα DOCX σε Excel χρησιμοποιώντας το GroupDocs.Conversion για .NET™; Ένας πλήρης οδηγός"
 "url": "/el/net/spreadsheet-formats-features/convert-docx-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε πρότυπα DOCX σε Excel χρησιμοποιώντας το GroupDocs.Conversion για .NET: Ένας πλήρης οδηγός
 
 ## Εισαγωγή

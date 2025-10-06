@@ -4,8 +4,8 @@
 "title": "JPX fájlok JPG-vé konvertálása a GroupDocs.Conversion .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-jpx-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # JPX fájlok JPG-vé konvertálása a GroupDocs.Conversion .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

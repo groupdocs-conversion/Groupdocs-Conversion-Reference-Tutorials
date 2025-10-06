@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Kullanarak .NET'te Dosya Dönüştürmede Ustalaşma&#58; Bir Geliştiricinin Kılavuzu"
 "url": "/tr/net/conversion-utilities-information/mastering-file-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion ile .NET'te Dosya Dönüştürmede Ustalaşma: Nihai Geliştirici Kılavuzunuz
 
 ## giriiş

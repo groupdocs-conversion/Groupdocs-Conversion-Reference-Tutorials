@@ -4,8 +4,8 @@
 "title": "GroupDocs for .NET を使用してパスワード保護された Word 文書を Excel に変換する"
 "url": "/ja/net/working-with-secure-documents/convert-password-word-docs-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs for .NET でパスワード保護された Word 文書を Excel に変換する
 
 ## 導入

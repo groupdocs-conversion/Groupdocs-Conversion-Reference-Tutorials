@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用して Java でストリームからドキュメントを変換する"
 "url": "/ja/java/document-operations/convert-documents-streams-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion を使用して Java でストリームからドキュメントを変換する
 
 ## 導入

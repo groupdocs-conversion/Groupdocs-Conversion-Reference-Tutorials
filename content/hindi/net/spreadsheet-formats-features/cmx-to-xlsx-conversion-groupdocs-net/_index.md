@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion का उपयोग करके CMX से XLSX रूपांतरण .NET'#58; एक चरण-दर-चरण मार्गदर्शिका"
 "url": "/hi/net/spreadsheet-formats-features/cmx-to-xlsx-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion का उपयोग करके CMX फ़ाइलों को XLSX में कनवर्ट करें .NET: एक चरण-दर-चरण मार्गदर्शिका
 
 ## परिचय

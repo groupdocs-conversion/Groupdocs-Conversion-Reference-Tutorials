@@ -4,8 +4,8 @@
 "title": "วิธีการดึงข้อมูลที่เก็บข้อมูลส่วนบุคคลจากไฟล์ OST ของ Outlook โดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/storage-files-pst-processing/retrieve-personal-storage-info-outlook-ost-net/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการดึงข้อมูลการจัดเก็บข้อมูลส่วนบุคคลจากไฟล์ OST ของ Outlook โดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

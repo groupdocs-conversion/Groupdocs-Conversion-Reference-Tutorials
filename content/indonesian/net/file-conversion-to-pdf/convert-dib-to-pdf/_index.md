@@ -5,8 +5,8 @@
 "title": "Konversi Gambar DIB ke PDF"
 "url": "/id/net/file-conversion-to-pdf/convert-dib-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # Konversi Gambar DIB ke PDF
 
 ## Perkenalan

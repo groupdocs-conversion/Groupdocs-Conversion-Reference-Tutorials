@@ -4,8 +4,8 @@
 "title": "كيفية تحويل VSD إلى DOC في .NET باستخدام واجهة برمجة تطبيقات GroupDocs - دليل شامل"
 "url": "/ar/net/word-processing-formats-features/convert-vsdtodoc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل VSD إلى DOC في .NET باستخدام واجهة برمجة تطبيقات GroupDocs: دليل شامل
 
 ## مقدمة

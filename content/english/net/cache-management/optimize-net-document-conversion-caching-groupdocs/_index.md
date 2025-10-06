@@ -8,10 +8,8 @@ keywords:
 - .NET document conversion
 - caching with GroupDocs.Conversion
 - optimize .NET applications
-
+type: docs
 ---
-
-
 # Optimize .NET Document Conversion with Caching Using GroupDocs.Conversion
 
 ## Introduction

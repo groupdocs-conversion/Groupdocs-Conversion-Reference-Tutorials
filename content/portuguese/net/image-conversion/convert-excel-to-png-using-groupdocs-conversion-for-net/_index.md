@@ -4,8 +4,8 @@
 "title": "Conversão eficiente de Excel para PNG usando GroupDocs.Conversion para .NET"
 "url": "/pt/net/image-conversion/convert-excel-to-png-using-groupdocs-conversion-for-net/"
 "weight": 1
+type: docs
 ---
-
 # Converta arquivos do Excel em imagens com eficiência com o GroupDocs.Conversion para .NET
 
 ## Introdução

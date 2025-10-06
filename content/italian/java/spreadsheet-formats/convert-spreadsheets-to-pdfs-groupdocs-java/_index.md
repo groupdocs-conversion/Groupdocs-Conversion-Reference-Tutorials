@@ -4,8 +4,8 @@
 "title": "Converti fogli di calcolo in PDF con GroupDocs.Conversion per Java&#58; una guida completa"
 "url": "/it/java/spreadsheet-formats/convert-spreadsheets-to-pdfs-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Convertire fogli di calcolo in PDF con GroupDocs.Conversion per Java: una guida completa
 
 ## Introduzione

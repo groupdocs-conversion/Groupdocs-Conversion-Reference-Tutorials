@@ -3,8 +3,8 @@
 "title": "Handledningar för CAD- och tekniska ritningsformat för GroupDocs.Conversion .NET"
 "url": "/sv/net/cad-technical-drawing-formats/"
 "weight": 18
+type: docs
 ---
-
 # Handledningar för CAD- och tekniska ritningsformat för GroupDocs.Conversion .NET
 
 Lär dig bearbeta tekniska ritningar med våra omfattande GroupDocs.Conversion-handledningar för .NET-utvecklare. Dessa praktiska guider visar hur du konverterar AutoCAD och andra CAD-filer till visningsbara format, anger layouter för konvertering, ställer in anpassade bredd- och höjddimensioner för utdata, bevarar lager och mått, hanterar stora ritningar effektivt, hanterar visningsportar och skalning samt omvandlar 3D-modeller till 2D-representationer. Varje handledning innehåller detaljerade C#-kodexempel för CAD-konverteringsscenarier, vilket hjälper dig att bygga applikationer som korrekt kan bearbeta tekniska ritningar samtidigt som viktiga tekniska detaljer bevaras.

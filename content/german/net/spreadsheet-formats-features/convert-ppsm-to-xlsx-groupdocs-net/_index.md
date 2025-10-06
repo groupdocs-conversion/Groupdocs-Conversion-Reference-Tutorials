@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie PowerPoint PPSM mit GroupDocs.Conversion für .NET in Excel XLSX"
 "url": "/de/net/spreadsheet-formats-features/convert-ppsm-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie PowerPoint PPSM mit GroupDocs.Conversion für .NET in Excel XLSX
 
 ## Einführung

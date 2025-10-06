@@ -8,10 +8,8 @@ keywords:
 - convert ICO to TEX
 - GroupDocs.Conversion for .NET
 - .NET file conversion
-
+type: docs
 ---
-
-
 # How to Convert ICO Files to TEX Using GroupDocs.Conversion for .NET
 
 ## Introduction

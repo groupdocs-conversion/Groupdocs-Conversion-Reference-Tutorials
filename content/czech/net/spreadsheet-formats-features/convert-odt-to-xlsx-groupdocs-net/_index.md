@@ -4,8 +4,8 @@
 "title": "Jak převést ODT do XLSX pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/spreadsheet-formats-features/convert-odt-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést ODT do XLSX pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

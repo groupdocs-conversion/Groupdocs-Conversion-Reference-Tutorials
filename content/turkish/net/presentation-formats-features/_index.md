@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET için Sunum Biçimleri ve Özellikleri Eğitimleri"
 "url": "/tr/net/presentation-formats-features/"
 "weight": 12
+type: docs
 ---
-
 # GroupDocs.Conversion .NET için Sunum Biçimleri ve Özellikleri Eğitimleri
 
 Sunum odaklı eğitimlerimiz, .NET'te GroupDocs.Conversion kullanarak slayt tabanlı belgelerle nasıl çalışacağınızı gösterir. Bu pratik kılavuzlar, PowerPoint biçimleri arasında dönüştürme, dönüştürme sırasında yorumları gizleme, gizli slaytları dahil etme veya hariç tutma, yazı tipi değiştirme seçeneklerini belirleme, animasyonları ve geçişleri koruma, konuşmacı notlarını koruma, gömülü medyayı yönetme ve farklı sunum biçimleri arasında düzen tutarlılığını sağlama konularını ele alır. Her eğitim, korunan görsel öğeler ve etkileşimli özelliklerle yüksek kaliteli dönüştürmeler üreten uygulamalar oluşturmanıza yardımcı olan sunum dönüştürme senaryoları için ayrıntılı C# kod örnekleri içerir.

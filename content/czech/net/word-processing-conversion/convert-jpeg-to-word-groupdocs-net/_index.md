@@ -4,8 +4,8 @@
 "title": "Jak převést JPEG do dokumentu Wordu pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/word-processing-conversion/convert-jpeg-to-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést obrázky JPEG do dokumentů Wordu pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

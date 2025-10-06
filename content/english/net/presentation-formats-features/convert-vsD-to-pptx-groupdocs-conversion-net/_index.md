@@ -8,10 +8,8 @@ keywords:
 - convert VSD to PPTX
 - GroupDocs.Conversion for .NET
 - file conversion in .NET
-
+type: docs
 ---
-
-
 # How to Convert VSD Files to PPTX Using GroupDocs.Conversion for .NET
 
 ## Introduction

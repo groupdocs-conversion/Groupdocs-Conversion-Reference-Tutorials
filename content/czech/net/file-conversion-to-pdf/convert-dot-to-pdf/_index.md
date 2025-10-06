@@ -5,8 +5,8 @@
 "title": "Převod šablon DOT Word do PDF"
 "url": "/cs/net/file-conversion-to-pdf/convert-dot-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # Převod šablon DOT Word do PDF
 
 ## Zavedení

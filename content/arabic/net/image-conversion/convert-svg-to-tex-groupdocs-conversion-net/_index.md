@@ -4,8 +4,8 @@
 "title": "كيفية تحويل ملفات SVG إلى تنسيق TEX باستخدام GroupDocs.Conversion .NET لتحويل الملفات بسلاسة"
 "url": "/ar/net/image-conversion/convert-svg-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل ملفات SVG إلى تنسيق TEX باستخدام GroupDocs.Conversion .NET
 
 ## مقدمة

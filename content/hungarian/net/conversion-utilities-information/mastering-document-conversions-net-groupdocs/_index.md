@@ -4,8 +4,8 @@
 "title": "Hatékony dokumentumkonvertálás .NET-ben a GroupDocs.Conversion használatával – Átfogó útmutató"
 "url": "/hu/net/conversion-utilities-information/mastering-document-conversions-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony dokumentumkonvertálás .NET-ben a GroupDocs.Conversion használatával: Átfogó útmutató
 
 ## Bevezetés

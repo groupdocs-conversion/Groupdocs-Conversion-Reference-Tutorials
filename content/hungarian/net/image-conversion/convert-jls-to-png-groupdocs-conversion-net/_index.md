@@ -4,8 +4,8 @@
 "title": "JLS konvertálása PNG-vé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-jls-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # JLS konvertálása PNG-vé a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

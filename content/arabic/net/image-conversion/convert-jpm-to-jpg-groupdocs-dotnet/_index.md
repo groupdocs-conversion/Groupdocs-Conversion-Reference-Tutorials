@@ -4,8 +4,8 @@
 "title": "كيفية تحويل ملفات JPM إلى JPG باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/image-conversion/convert-jpm-to-jpg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل ملفات JPM إلى JPG باستخدام GroupDocs.Conversion لـ .NET: دليل شامل
 
 ## مقدمة

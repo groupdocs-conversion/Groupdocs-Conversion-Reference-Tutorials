@@ -4,8 +4,8 @@
 "title": "So implementieren Sie benutzerdefiniertes Caching in Java mit Redis und GroupDocs.Conversion"
 "url": "/de/java/cache-management/custom-cache-redis-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # So implementieren Sie benutzerdefiniertes Caching in Java mit Redis und GroupDocs.Conversion
 
 ## Einführung

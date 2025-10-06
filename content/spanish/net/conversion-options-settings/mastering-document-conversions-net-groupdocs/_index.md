@@ -4,8 +4,8 @@
 "title": "Conversiones de documentos maestros en .NET mediante GroupDocs.Conversion&#58; una guía completa"
 "url": "/es/net/conversion-options-settings/mastering-document-conversions-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Conversiones de documentos maestros en .NET mediante GroupDocs.Conversion
 ## Introducción
 ¿Tiene problemas con la conversión de documentos en sus aplicaciones .NET? No está solo. Muchos desarrolladores se enfrentan al reto de determinar eficazmente a qué formatos se puede convertir un documento. **GroupDocs.Conversion para .NET** Ofrece una integración perfecta y una funcionalidad sólida, lo que lo convierte en una herramienta esencial para mejorar las capacidades de la aplicación.

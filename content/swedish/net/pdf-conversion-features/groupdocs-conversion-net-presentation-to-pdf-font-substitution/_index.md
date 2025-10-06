@@ -4,8 +4,8 @@
 "title": "Konvertera PowerPoint till PDF med teckensnittsersättning i .NET med GroupDocs.Conversion"
 "url": "/sv/net/pdf-conversion-features/groupdocs-conversion-net-presentation-to-pdf-font-substitution/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera PowerPoint till PDF med teckensnittsersättning i .NET med GroupDocs.Conversion
 
 ## Introduktion

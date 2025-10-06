@@ -4,8 +4,8 @@
 "title": "Chuyển đổi các trang tính Excel cụ thể sang PDF bằng GroupDocs.Conversion cho .NET | Hướng dẫn từng bước dễ dàng"
 "url": "/vi/net/pdf-conversion/convert-excel-sheets-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi các trang tính Excel cụ thể sang PDF bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

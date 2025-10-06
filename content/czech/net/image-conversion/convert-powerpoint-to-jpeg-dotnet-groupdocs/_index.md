@@ -4,8 +4,8 @@
 "title": "Efektivní převod šablon PowerPointu do formátu JPEG v .NET pomocí GroupDocs.Conversion"
 "url": "/cs/net/image-conversion/convert-powerpoint-to-jpeg-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod šablon PowerPointu do formátu JPEG v .NET pomocí GroupDocs.Conversion
 
 ## Zavedení

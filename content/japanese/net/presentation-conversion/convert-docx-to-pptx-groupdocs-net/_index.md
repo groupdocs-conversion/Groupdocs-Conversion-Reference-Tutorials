@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して DOCX を PPTX に効率的に変換する"
 "url": "/ja/net/presentation-conversion/convert-docx-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して DOCX を PPTX に効率的に変換する
 
 ## 導入

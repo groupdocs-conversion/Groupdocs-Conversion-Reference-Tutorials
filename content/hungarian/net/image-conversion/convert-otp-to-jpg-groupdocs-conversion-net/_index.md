@@ -4,8 +4,8 @@
 "title": "OTP konvertálása JPG-vé a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-otp-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OTP fájlok konvertálása JPG formátumba a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

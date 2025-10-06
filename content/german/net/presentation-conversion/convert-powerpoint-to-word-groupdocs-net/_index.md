@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie PowerPoint in Word mit GroupDocs.Conversion für .NET – Eine Schritt-für-Schritt-Anleitung"
 "url": "/de/net/presentation-conversion/convert-powerpoint-to-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie PowerPoint in Word mit GroupDocs.Conversion für .NET: Eine Schritt-für-Schritt-Anleitung
 
 ## Einführung

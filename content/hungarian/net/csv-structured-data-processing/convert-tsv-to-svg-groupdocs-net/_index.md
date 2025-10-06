@@ -4,8 +4,8 @@
 "title": "TSV hatékony konvertálása SVG-vé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/csv-structured-data-processing/convert-tsv-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # TSV hatékony konvertálása SVG-vé a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "EML fájlok zökkenőmentes konvertálása PSD fájlokká a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/image-formats-features/convert-eml-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # EML fájlok konvertálása PSD formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

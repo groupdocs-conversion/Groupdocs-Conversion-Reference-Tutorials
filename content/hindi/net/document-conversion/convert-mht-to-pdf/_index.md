@@ -5,8 +5,8 @@
 "title": "MHT को PDF में बदलें"
 "url": "/hi/net/document-conversion/convert-mht-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # MHT को PDF में बदलें
 
 ## परिचय

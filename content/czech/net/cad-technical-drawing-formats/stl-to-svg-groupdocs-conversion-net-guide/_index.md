@@ -4,8 +4,8 @@
 "title": "Jak převést STL do SVG pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/cad-technical-drawing-formats/stl-to-svg-groupdocs-conversion-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Převod STL do SVG pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

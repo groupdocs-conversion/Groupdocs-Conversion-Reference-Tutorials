@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET を使用した効率的な TIFF から TEX への変換"
 "url": "/ja/net/text-markup-conversion/tiff-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET を使用した効率的な TIFF から TEX への変換
 
 ## 導入

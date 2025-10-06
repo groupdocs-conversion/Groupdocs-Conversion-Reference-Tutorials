@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi PNG ke DOCX Menggunakan GroupDocs.Conversion .NET - Panduan Langkah demi Langkah"
 "url": "/id/net/word-processing-conversion/convert-png-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi PNG ke DOCX Menggunakan GroupDocs.Conversion .NET
 
 Di era digital saat ini, mengonversi file dari satu format ke format lain merupakan tugas yang umum. Baik Anda sedang mempersiapkan dokumen untuk presentasi atau mengarsipkan gambar dalam format teks, mengonversi file PNG ke DOCX dengan mudah dapat menghemat waktu dan tenaga. Panduan ini akan menunjukkan kepada Anda cara menggunakan pustaka GroupDocs.Conversion .NET yang canggih secara efisien.

@@ -5,8 +5,8 @@
 "title": "ODG를 PDF로 변환"
 "url": "/ko/net/document-conversion/convert-odg-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # ODG를 PDF로 변환
 
 ## 소개

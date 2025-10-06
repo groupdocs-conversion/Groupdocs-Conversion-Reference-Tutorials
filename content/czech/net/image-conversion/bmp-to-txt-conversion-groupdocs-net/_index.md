@@ -4,8 +4,8 @@
 "title": "Převod BMP do TXT pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/image-conversion/bmp-to-txt-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod BMP do TXT pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

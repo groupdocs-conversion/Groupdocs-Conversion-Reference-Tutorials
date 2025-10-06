@@ -4,8 +4,8 @@
 "title": "Jak převést soubory EML do HTML pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/html-conversion/convert-eml-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory EML do HTML pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

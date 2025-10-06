@@ -4,8 +4,8 @@
 "title": "Chuyển đổi hiệu quả các tệp LOG sang tài liệu Word bằng GroupDocs.Conversion trong .NET"
 "url": "/vi/net/word-processing-formats-features/convert-log-files-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi hiệu quả các tệp LOG sang tài liệu Word bằng GroupDocs.Conversion trong .NET
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "छवि रूपांतरण के लिए GroupDocs.Conversion .NET का उपयोग करके CGM को PNG में कुशलतापूर्वक परिवर्तित करें"
 "url": "/hi/net/image-conversion/convert-cgm-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET का उपयोग करके CGM फ़ाइलों को PNG में कुशलतापूर्वक कैसे परिवर्तित करें
 
 ## परिचय

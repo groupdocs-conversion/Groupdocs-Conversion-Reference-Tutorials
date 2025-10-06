@@ -8,10 +8,8 @@ keywords:
 - convert emails to PDF with GroupDocs
 - GroupDocs Conversion for .NET tutorial
 - email to PDF conversion guide
-
+type: docs
 ---
-
-
 # Convert Emails to PDFs Seamlessly with GroupDocs.Conversion for .NET
 
 ## Introduction

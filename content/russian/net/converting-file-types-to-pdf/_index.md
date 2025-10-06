@@ -5,8 +5,8 @@
 "title": "Преобразование типов файлов в PDF"
 "url": "/ru/net/converting-file-types-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Преобразование типов файлов в PDF
 
 ## Введение

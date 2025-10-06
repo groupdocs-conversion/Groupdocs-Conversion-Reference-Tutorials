@@ -4,8 +4,8 @@
 "title": "VSTX fájlok egyszerű PSD formátumba konvertálása a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/image-formats-features/convert-vstx-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # VSTX fájlok egyszerű PSD formátumba konvertálása a GroupDocs.Conversion for .NET segítségével: Átfogó útmutató
 
 ## Bevezetés

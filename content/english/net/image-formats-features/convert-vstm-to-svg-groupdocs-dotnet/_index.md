@@ -8,10 +8,8 @@ keywords:
 - convert VSTM to SVG
 - GroupDocs.Conversion .NET
 - Visio Macro-Enabled Drawing Templates
-
+type: docs
 ---
-
-
 # How to Convert VSTM Files to SVG with GroupDocs.Conversion for .NET
 
 ## Introduction

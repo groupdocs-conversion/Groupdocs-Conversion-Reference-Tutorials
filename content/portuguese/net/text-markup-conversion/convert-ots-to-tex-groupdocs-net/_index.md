@@ -4,8 +4,8 @@
 "title": "Conversão eficiente de OTS para TEX com GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/text-markup-conversion/convert-ots-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Conversão eficiente de OTS para TEX com GroupDocs.Conversion para .NET
 
 ## Introdução

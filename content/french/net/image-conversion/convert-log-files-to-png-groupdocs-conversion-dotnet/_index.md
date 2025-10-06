@@ -4,8 +4,8 @@
 "title": "Convertir des fichiers journaux en PNG à l'aide de GroupDocs.Conversion pour .NET - Un guide complet"
 "url": "/fr/net/image-conversion/convert-log-files-to-png-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des fichiers journaux en PNG avec GroupDocs.Conversion pour .NET
 
 ## Introduction

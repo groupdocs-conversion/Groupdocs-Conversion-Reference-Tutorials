@@ -4,8 +4,8 @@
 "title": "마스터 파일 변환&#58; GroupDocs.Conversion .NET을 사용하여 POTX를 DOCX로 변환"
 "url": "/ko/net/word-processing-formats-features/convert-potx-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 파일 변환 마스터하기: GroupDocs.Conversion .NET을 사용하여 POTX를 DOCX로 변환
 
 오늘날처럼 빠르게 변화하는 디지털 세상에서 파일을 한 형식에서 다른 형식으로 원활하게 변환하는 것은 매우 중요한 기술입니다. 프레젠테이션 자료를 준비하거나 여러 플랫폼에서 문서를 공유할 때 호환성을 보장하면 시간과 노력을 절약할 수 있습니다. 이 튜토리얼에서는 강력한 GroupDocs.Conversion .NET 라이브러리를 사용하여 POTX(PowerPoint Template) 파일을 DOCX 형식으로 변환하는 방법을 안내합니다. 파일 변환 작업을 쉽고 효율적으로 처리하는 방법을 배우게 될 것입니다.

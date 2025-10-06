@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して WEBP ファイルを変換する包括的なガイド"
 "url": "/ja/net/image-conversion/convert-webp-files-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して WEBP ファイルを変換する: 包括的なガイド
 ## 導入
 .NETアプリケーション内でWEBPなどの画像ファイルを他の形式にシームレスに変換したいとお考えですか？画像形式の多様性により多くの開発者が課題に直面しています。このチュートリアルでは、GroupDocs.Conversion for .NETを活用して、ソースのWEBPファイルを効率的に読み込み、簡単に変換する方法を説明します。

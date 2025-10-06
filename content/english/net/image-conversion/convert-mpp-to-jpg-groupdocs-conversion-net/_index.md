@@ -8,10 +8,8 @@ keywords:
 - MPP to JPG conversion
 - Microsoft Project files to JPEG
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # Convert MPP to JPG: A Step-by-Step Guide with GroupDocs.Conversion for .NET
 
 ## Introduction

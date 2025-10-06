@@ -4,8 +4,8 @@
 "title": "Převod HTML do Word DOC pomocí GroupDocs.Conversion pro .NET - Komplexní průvodce"
 "url": "/cs/net/word-processing-conversion/convert-html-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod HTML do Word DOC pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

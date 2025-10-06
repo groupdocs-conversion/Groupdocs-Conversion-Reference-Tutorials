@@ -4,8 +4,8 @@
 "title": "JPC fájlok PNG formátumba konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-formats-features/convert-jpc-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # JPC fájlok PNG formátumba konvertálása a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

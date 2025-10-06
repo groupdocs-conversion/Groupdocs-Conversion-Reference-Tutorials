@@ -4,8 +4,8 @@
 "title": "Konversi MOBI ke SVG Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/image-conversion/convert-mobi-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi MOBI ke SVG Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

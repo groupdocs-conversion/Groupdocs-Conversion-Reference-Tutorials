@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή MHTML σε LaTeX (TEX) με το GroupDocs.Conversion για .NET"
 "url": "/el/net/web-markup-formats/convert-mhtml-to-latex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική μετατροπή MHTML σε LaTeX (TEX) με το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

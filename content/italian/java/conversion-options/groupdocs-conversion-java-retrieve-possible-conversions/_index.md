@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion per Java&#58; come recuperare tutte le conversioni possibili"
 "url": "/it/java/conversion-options/groupdocs-conversion-java-retrieve-possible-conversions/"
 "weight": 1
+type: docs
 ---
-
 # Guida completa per recuperare tutte le conversioni possibili utilizzando GroupDocs.Conversion per Java
 
 ## Introduzione

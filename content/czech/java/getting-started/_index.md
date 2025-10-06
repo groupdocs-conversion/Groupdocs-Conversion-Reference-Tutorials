@@ -3,8 +3,8 @@
 "title": "Výukové programy pro začátečníky s GroupDocs.Conversion pro vývojáře v Javě"
 "url": "/cs/java/getting-started/"
 "weight": 1
+type: docs
 ---
-
 # Výukové programy pro začátečníky s GroupDocs.Conversion pro vývojáře v Javě
 
 Začněte svou cestu s těmito základními tutoriály o GroupDocs.Conversion, které vás provedou instalací, konfigurací licencování a provedením prvních konverzí dokumentů v Javě. Naše průvodce pro začátečníky ukazují, jak nastavit vývojové prostředí, inicializovat knihovnu GroupDocs.Conversion a provádět základní konverzní operace. Postupujte podle těchto tutoriálů, abyste si rychle osvojili základy a připravili se na pokročilejší úlohy konverze dokumentů ve vašich aplikacích Java.

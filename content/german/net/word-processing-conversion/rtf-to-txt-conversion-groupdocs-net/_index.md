@@ -4,8 +4,8 @@
 "title": "RTF-zu-TXT-Konvertierung mit GroupDocs.Conversion für .NET – Eine Schritt-für-Schritt-Anleitung"
 "url": "/de/net/word-processing-conversion/rtf-to-txt-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie RTF in TXT mit GroupDocs.Conversion für .NET: Eine Schritt-für-Schritt-Anleitung
 
 ## Einführung

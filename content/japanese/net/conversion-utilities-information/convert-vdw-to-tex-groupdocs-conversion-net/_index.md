@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して VDW ファイルを TEX 形式に変換する方法"
 "url": "/ja/net/conversion-utilities-information/convert-vdw-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して VDW ファイルを TEX 形式に変換する方法
 
 ## 導入

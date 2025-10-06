@@ -4,8 +4,8 @@
 "title": "Μετατροπή Word σε PDF με προσαρμοσμένες γραμματοσειρές σε Java&#58; Ένας πλήρης οδηγός χρήσης του GroupDocs.Conversion"
 "url": "/el/java/pdf-conversion/convert-word-pdf-custom-fonts-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή εγγράφων Word σε PDF με προσαρμοσμένες γραμματοσειρές σε Java: Ένας πλήρης οδηγός χρήσης του GroupDocs.Conversion
 
 ## Εισαγωγή

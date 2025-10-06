@@ -4,8 +4,8 @@
 "title": "VSTM konvertálása PNG-vé .NET-ben a GroupDocs.Conversion segítségével – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-vstm-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # VSTM konvertálása PNG-vé .NET-ben a GroupDocs.Conversion használatával: Lépésről lépésre útmutató
 
 ## Bevezetés

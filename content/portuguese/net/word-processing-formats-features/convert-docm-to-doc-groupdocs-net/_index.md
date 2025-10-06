@@ -4,8 +4,8 @@
 "title": "Converter DOCM em DOC usando GroupDocs no .NET - Um guia passo a passo"
 "url": "/pt/net/word-processing-formats-features/convert-docm-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converter DOCM em DOC usando GroupDocs no .NET: um guia passo a passo
 
 ## Introdução

@@ -4,8 +4,8 @@
 "title": "TSV DOCX formátumba konvertálása a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/word-processing-formats-features/convert-tsv-to-docx-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # TSV konvertálása DOCX-be a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

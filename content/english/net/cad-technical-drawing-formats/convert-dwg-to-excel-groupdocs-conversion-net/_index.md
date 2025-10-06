@@ -8,10 +8,8 @@ keywords:
 - convert DWG to Excel
 - GroupDocs.Conversion for .NET
 - DWG file conversion
-
+type: docs
 ---
-
-
 # How to Convert DWG Files to Excel Using GroupDocs.Conversion for .NET
 
 ## Introduction

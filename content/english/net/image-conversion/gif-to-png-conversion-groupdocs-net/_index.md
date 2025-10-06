@@ -8,10 +8,8 @@ keywords:
 - GIF to PNG conversion
 - GroupDocs.Conversion for .NET
 - convert GIF files
-
+type: docs
 ---
-
-
 # Convert GIF to PNG Easily Using GroupDocs for .NET: A Comprehensive Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Převod souborů VST do formátu DOC pomocí nástroje GroupDocs.Conversion pro .NET – podrobný návod"
 "url": "/cs/net/word-processing-conversion/vst-to-doc-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů VST do formátu DOC pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 Vítejte v našem komplexním průvodci převodem souborů šablon Visio Stencil (VST) do dokumentů Microsoft Word (DOC) pomocí nástroje GroupDocs.Conversion pro .NET. Tento tutoriál poskytuje podrobné pokyny, které profesionálům usnadňují sdílení a úpravu souborů VST v přístupnějším formátu.

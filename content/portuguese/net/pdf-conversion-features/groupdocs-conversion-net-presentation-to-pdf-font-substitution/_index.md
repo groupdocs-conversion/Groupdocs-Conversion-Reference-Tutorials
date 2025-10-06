@@ -4,8 +4,8 @@
 "title": "Converter PowerPoint para PDF com substituição de fonte no .NET usando GroupDocs.Conversion"
 "url": "/pt/net/pdf-conversion-features/groupdocs-conversion-net-presentation-to-pdf-font-substitution/"
 "weight": 1
+type: docs
 ---
-
 # Converter PowerPoint para PDF com substituição de fonte no .NET usando GroupDocs.Conversion
 
 ## Introdução

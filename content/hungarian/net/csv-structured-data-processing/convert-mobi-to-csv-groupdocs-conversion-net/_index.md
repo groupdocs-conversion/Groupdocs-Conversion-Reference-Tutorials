@@ -4,8 +4,8 @@
 "title": "MOBI konvertálása CSV-vé a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/csv-structured-data-processing/convert-mobi-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MOBI fájlok konvertálása CSV formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

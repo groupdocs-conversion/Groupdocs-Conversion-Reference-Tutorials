@@ -3,8 +3,8 @@ title: "Web and Markup Formats Conversion Tutorials for GroupDocs.Conversion Jav
 description: "Step-by-step tutorials for converting to and from HTML, XML, MHT, and other web formats using GroupDocs.Conversion for Java."
 weight: 13
 url: "/java/web-markup-formats/"
+type: docs
 ---
-
 # Web and Markup Formats Conversion Tutorials for GroupDocs.Conversion Java
 
 Our web format conversion tutorials show you how to transform between markup languages and document formats using GroupDocs.Conversion in Java. These practical guides walk through converting documents to and from HTML, preserving CSS styling, handling embedded resources, maintaining XML structures, and ensuring proper encoding and rendering. Each tutorial includes detailed Java code examples for common web format conversion scenarios, helping you build applications that can effectively bridge the gap between web content and document formats.

@@ -5,8 +5,8 @@
 "title": "Převod CF2 do PDF"
 "url": "/cs/net/file-conversion-to-pdf/convert-cf2-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # Převod CF2 do PDF
 
 ## Zavedení

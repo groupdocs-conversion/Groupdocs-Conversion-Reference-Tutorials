@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中掌握文件轉換設置"
 "url": "/zh-hant/net/conversion-options-settings/master-groupdocs-conversion-net-setup/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 進行文件轉換的主目錄設置
 
 ## 介紹

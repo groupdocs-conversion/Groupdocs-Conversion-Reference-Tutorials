@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NETでEPUBをDOCに変換する方法 完全ガイド"
 "url": "/ja/net/word-processing-conversion/convert-epub-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET で EPUB を DOC に変換する: 包括的なガイド
 
 ## 導入

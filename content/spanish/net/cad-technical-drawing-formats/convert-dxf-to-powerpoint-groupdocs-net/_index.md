@@ -4,8 +4,8 @@
 "title": "Convierta archivos DXF a PowerPoint de forma eficiente con GroupDocs.Conversion para .NET"
 "url": "/es/net/cad-technical-drawing-formats/convert-dxf-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convierta archivos DXF a PowerPoint de forma eficiente con GroupDocs.Conversion para .NET
 
 ## Introducción

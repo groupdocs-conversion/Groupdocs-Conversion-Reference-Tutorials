@@ -3,8 +3,8 @@
 "title": "Vízjelek és jegyzetek oktatóanyagai a GroupDocs.Conversion Java-hoz"
 "url": "/hu/java/watermarks-annotations/"
 "weight": 20
+type: docs
 ---
-
 # Vízjelek és jegyzetek oktatóanyagai a GroupDocs.Conversion Java-hoz
 
 Fedezze fel a jegyzetelési és vízjelezési lehetőségeket átfogó GroupDocs.Conversion Java oktatóanyagaink segítségével. Ezek a lépésről lépésre bemutatják, hogyan adhat hozzá szöveges és képi vízjeleket a konvertálás során, hogyan őrizheti meg a meglévő jegyzeteket, hogyan szabályozhatja a jegyzetek láthatóságát, hogyan valósíthat meg dinamikus vízjelezést metaadatok alapján, és hogyan kezelheti a kitakarási jeleket bizalmas dokumentumokban. Minden oktatóanyag gyakorlati Java kódpéldákat tartalmaz vízjelezési és jegyzetelési forgatókönyvekhez, segítve olyan alkalmazások létrehozását, amelyek a formátumátalakítás során is megőrzik a fontos vizuális elemeket és a szerkesztői jeleket.

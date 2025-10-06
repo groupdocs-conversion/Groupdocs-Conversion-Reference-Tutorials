@@ -8,10 +8,8 @@ keywords:
 - convert VSSX to DOC
 - GroupDocs.Conversion for .NET
 - Visio XML Drawing conversion
-
+type: docs
 ---
-
-
 # Convert VSSX Files to DOC Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

@@ -3,8 +3,8 @@
 "title": "CAD-formaten conversie tutorials voor GroupDocs.Conversion Java"
 "url": "/nl/java/cad-formats/"
 "weight": 10
+type: docs
 ---
-
 # CAD-formaten conversie tutorials voor GroupDocs.Conversion Java
 
 Leer CAD-tekeningen verwerken met onze uitgebreide GroupDocs.Conversion-tutorials voor Java-ontwikkelaars. Deze praktische handleidingen laten zien hoe u AutoCAD-bestanden kunt converteren naar een leesbaar formaat, lagen en afmetingen kunt behouden, grote tekeningen kunt verwerken, viewports en lay-outs kunt beheren en 3D-modellen kunt transformeren naar 2D-representaties. Elke tutorial bevat gedetailleerde Java-codevoorbeelden voor CAD-conversiescenario's, waarmee u applicaties kunt bouwen die technische tekeningen nauwkeurig kunnen verwerken met behoud van belangrijke technische details.

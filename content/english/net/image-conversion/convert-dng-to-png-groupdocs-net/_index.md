@@ -8,10 +8,8 @@ keywords:
 - convert DNG to PNG GroupDocs .NET
 - DNG file conversion using GroupDocs
 - image format conversion in .NET
-
+type: docs
 ---
-
-
 # How to Convert DNG to PNG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

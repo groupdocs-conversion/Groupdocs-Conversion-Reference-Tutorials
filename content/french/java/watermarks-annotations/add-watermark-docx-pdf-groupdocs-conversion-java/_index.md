@@ -4,8 +4,8 @@
 "title": "Comment ajouter un filigrane à un document DOCX et le convertir en PDF avec GroupDocs.Conversion pour Java"
 "url": "/fr/java/watermarks-annotations/add-watermark-docx-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Comment ajouter un filigrane à votre document avec GroupDocs.Conversion pour Java
 
 Dans le monde numérique d'aujourd'hui, protéger vos documents contre toute utilisation non autorisée est crucial. Que vous partagiez des informations sensibles ou souhaitiez simplement personnaliser vos documents, l'ajout d'un filigrane peut être une solution efficace. Dans ce tutoriel, nous vous guiderons dans son utilisation. **GroupDocs.Conversion pour Java** pour ajouter un filigrane lors de la conversion d'un fichier DOCX en PDF.

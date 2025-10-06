@@ -8,10 +8,8 @@ keywords:
 - DJVU to Excel conversion
 - GroupDocs.Conversion for .NET
 - Convert DJVU files
-
+type: docs
 ---
-
-
 # Convert DJVU to Excel using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

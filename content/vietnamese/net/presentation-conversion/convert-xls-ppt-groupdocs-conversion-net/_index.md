@@ -4,8 +4,8 @@
 "title": "Chuyển đổi XLS sang PPT hiệu quả bằng GroupDocs.Conversion .NET | Hướng dẫn từng bước"
 "url": "/vi/net/presentation-conversion/convert-xls-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi XLS sang PPT hiệu quả bằng GroupDocs.Conversion .NET: Hướng dẫn từng bước
 
 ## Giới thiệu

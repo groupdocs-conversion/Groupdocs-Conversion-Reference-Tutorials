@@ -4,8 +4,8 @@
 "title": "Hoe u TXT naar PDF kunt converteren met spaties aan het einde van een document met behulp van Java en GroupDocs.Conversion"
 "url": "/nl/java/conversion-options/convert-txt-pdf-trailing-spaces-java/"
 "weight": 1
+type: docs
 ---
-
 # Hoe u TXT naar PDF kunt converteren met spaties aan het einde van een document met behulp van Java en GroupDocs.Conversion
 
 In de huidige digitale wereld is het efficiënt verwerken van tekstdocumenten cruciaal voor zowel bedrijven als particulieren. Het converteren van tekstbestanden (TXT) naar veelzijdige PDF-formaten met behoud van de opmaakintegriteit kan een uitdaging zijn, vooral wanneer er spaties aan het einde van de pagina staan die de lay-out vaak verstoren. Deze tutorial begeleidt je bij het gebruik van GroupDocs.Conversion voor Java om tekstbestanden effectief naar PDF te converteren, waarbij spaties aan het einde van de pagina worden beperkt.

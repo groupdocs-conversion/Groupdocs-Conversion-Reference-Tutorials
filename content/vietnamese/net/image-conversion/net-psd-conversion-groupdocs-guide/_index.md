@@ -4,8 +4,8 @@
 "title": "Chuyển đổi Net PSD với GroupDocs&#58; Hướng dẫn tối ưu dành cho nhà phát triển .NET"
 "url": "/vi/net/image-conversion/net-psd-conversion-groupdocs-guide/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi Net PSD với GroupDocs: Hướng dẫn đầy đủ cho các nhà phát triển .NET
 
 ## Giới thiệu

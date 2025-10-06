@@ -8,10 +8,8 @@ keywords:
 - MBOX to DOCX conversion
 - GroupDocs.Conversion for .NET
 - email archive management
-
+type: docs
 ---
-
-
 # Efficient MBOX to DOCX Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

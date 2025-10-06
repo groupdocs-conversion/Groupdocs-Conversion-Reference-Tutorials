@@ -4,8 +4,8 @@
 "title": "Converta PPTX em TEX com eficiência usando GroupDocs.Conversion para .NET em C#"
 "url": "/pt/net/text-markup-conversion/convert-pptx-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converta PPTX em TEX com eficiência usando GroupDocs.Conversion para .NET em C#
 
 ## Introdução

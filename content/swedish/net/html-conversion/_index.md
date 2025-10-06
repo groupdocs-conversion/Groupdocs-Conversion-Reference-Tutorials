@@ -3,8 +3,8 @@
 "title": "HTML-konverteringshandledningar för GroupDocs.Conversion .NET"
 "url": "/sv/net/html-conversion/"
 "weight": 26
+type: docs
 ---
-
 # HTML-konverteringshandledningar för GroupDocs.Conversion .NET
 
 Våra handledningar för HTML-konvertering visar hur man omvandlar dokument till webbanpassat HTML-format. Dessa detaljerade guider täcker konvertering av olika källformat, inklusive Word, PDF, Excel, PowerPoint, bilder, CAD-ritningar, e-postmeddelanden med mera, till HTML. Lär dig mer om HTML-specifika konverteringsalternativ, hantering av inbäddade resurser, bevarande av dokumentformat, hantering av responsiva layouter och kontroll av HTML-strukturen för utdata. Varje handledning innehåller kompletta C#-kodexempel för att skapa högkvalitativa HTML-representationer av dina dokument som bibehåller originalets utseende och innehållsåtergivning.

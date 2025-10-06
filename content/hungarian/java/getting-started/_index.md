@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion – Első lépések – Oktatóanyagok Java fejlesztőknek"
 "url": "/hu/java/getting-started/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion – Első lépések – Oktatóanyagok Java fejlesztőknek
 
 Kezdje el utazását ezekkel a nélkülözhetetlen GroupDocs.Conversion oktatóanyagokkal, amelyek végigvezetik a telepítésen, a licencelés konfigurálásán és az első Java-dokumentumok konvertálásának elvégzésén. Kezdőknek szóló útmutatóink bemutatják, hogyan állíthatja be fejlesztői környezetét, hogyan inicializálhatja a GroupDocs.Conversion könyvtárat, és hogyan hajthatja végre az alapvető konverziós műveleteket. Kövesse ezeket az oktatóanyagokat az alapok gyors elsajátításához, és felkészüljön a haladóbb dokumentumkonverziós feladatokra Java-alkalmazásaiban.

@@ -4,8 +4,8 @@
 "title": "Como converter XLAM para CSV usando o GroupDocs.Conversion para .NET - um guia passo a passo"
 "url": "/pt/net/spreadsheet-formats-features/convert-xlam-to-csv-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Como converter XLAM para CSV usando o GroupDocs.Conversion para .NET: um guia passo a passo
 
 ## Introdução

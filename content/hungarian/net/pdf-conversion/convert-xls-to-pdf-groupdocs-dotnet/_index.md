@@ -4,8 +4,8 @@
 "title": "XLS fájlok PDF formátumba konvertálása a GroupDocs.Conversion for .NET segítségével – lépésről lépésre útmutató"
 "url": "/hu/net/pdf-conversion/convert-xls-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # XLS fájlok PDF formátumba konvertálása a GroupDocs.Conversion for .NET segítségével: lépésről lépésre útmutató
 
 ## Bevezetés

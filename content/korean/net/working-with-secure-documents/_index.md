@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET을 위한 보안 문서 작업 튜토리얼"
 "url": "/ko/net/working-with-secure-documents/"
 "weight": 5
+type: docs
 ---
-
 # GroupDocs.Conversion .NET을 위한 보안 문서 작업 튜토리얼
 
 .NET 개발자를 위한 GroupDocs.Conversion 튜토리얼을 통해 보안 문서를 처리하는 방법을 알아보세요. 이 단계별 가이드는 표준 및 Fluent API 방식을 모두 사용하여 암호로 보호된 파일을 로드하고, 암호화 키를 관리하고, 문서별 보안 옵션을 지정하고, 인증 실패를 원활하게 처리하고, 필요한 경우 변환 중에 보안 설정을 유지하는 방법을 알려줍니다. 각 튜토리얼은 보호된 문서 작업을 위한 실용적인 C# 코드 예제를 제공하여 기밀성 및 액세스 제어를 준수하면서 보안 콘텐츠를 처리할 수 있는 애플리케이션을 구축하는 데 도움을 줍니다.

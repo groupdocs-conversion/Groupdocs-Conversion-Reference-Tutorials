@@ -8,10 +8,8 @@ keywords:
 - JPG to XLSX conversion
 - GroupDocs.Conversion for .NET
 - image to spreadsheet conversion
-
+type: docs
 ---
-
-
 # Efficient JPG to XLSX Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

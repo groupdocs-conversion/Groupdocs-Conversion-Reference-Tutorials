@@ -5,8 +5,8 @@
 "title": "Konvertera EMLX Apple Mail-e-postmeddelanden till PDF"
 "url": "/sv/net/convert-files-to-pdf/convert-emlx-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # Konvertera EMLX Apple Mail-e-postmeddelanden till PDF
 
 ## Introduktion

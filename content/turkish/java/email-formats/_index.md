@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Java için E-posta Biçimleri Dönüştürme Eğitimleri"
 "url": "/tr/java/email-formats/"
 "weight": 8
+type: docs
 ---
-
 # GroupDocs.Conversion Java için E-posta Biçimleri Dönüştürme Eğitimleri
 
 Java geliştiricileri için detaylı GroupDocs.Conversion eğitimlerimizle e-posta dosyası dönüşümünde ustalaşın. Bu adım adım kılavuzlar, e-posta mesajlarını belge biçimlerine dönüştürmeyi, e-posta eklerini çıkarmayı, e-posta meta verilerini korumayı, e-posta başlıklarını ve gövdelerini yönetmeyi ve toplu e-posta dönüştürme işlemlerini uygulamayı gösterir. Her eğitim, e-posta arşivleri ve mesajlarıyla çalışmak için pratik Java kodu örnekleri sunarak e-posta iletişimlerini etkili bir şekilde işleyip çeşitli belge biçimlerine dönüştürebilen uygulamalar oluşturmanıza yardımcı olur.

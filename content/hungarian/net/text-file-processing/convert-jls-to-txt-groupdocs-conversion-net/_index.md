@@ -4,8 +4,8 @@
 "title": "JLS fájlok egyszerű konvertálása TXT fájlokká a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/text-file-processing/convert-jls-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # JLS konvertálása TXT-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

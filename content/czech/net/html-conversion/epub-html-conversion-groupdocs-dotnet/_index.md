@@ -4,8 +4,8 @@
 "title": "Převod EPUB do HTML pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/html-conversion/epub-html-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod EPUB do HTML pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

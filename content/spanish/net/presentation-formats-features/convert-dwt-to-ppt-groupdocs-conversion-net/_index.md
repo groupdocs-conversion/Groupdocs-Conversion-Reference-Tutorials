@@ -4,8 +4,8 @@
 "title": "Convertir DWT a PowerPoint PPT usando GroupDocs.Conversion para .NET&#58; una guía completa"
 "url": "/es/net/presentation-formats-features/convert-dwt-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir DWT a PowerPoint PPT con GroupDocs.Conversion para .NET: una guía completa
 
 ## Introducción

@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 將 PowerPoint 簡報轉換為 HTML"
 "url": "/zh-hant/net/web-markup-formats/convert-powerpoint-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將 PowerPoint 簡報轉換為 HTML
 
 ## 介紹

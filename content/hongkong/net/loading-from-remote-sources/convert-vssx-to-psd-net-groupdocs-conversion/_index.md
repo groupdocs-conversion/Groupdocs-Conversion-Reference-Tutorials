@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中將 VSSX 轉換為 PSD — 逐步指南"
 "url": "/zh-hant/net/loading-from-remote-sources/convert-vssx-to-psd-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 .NET 中將 VSSX 轉換為 PSD：逐步指南
 
 ## 介紹

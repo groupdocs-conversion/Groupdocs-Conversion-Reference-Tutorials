@@ -4,8 +4,8 @@
 "title": "Převod MHTML do JPG pomocí GroupDocs.Conversion pro .NET – podrobný návod"
 "url": "/cs/net/image-conversion/convert-mhtml-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod MHTML do JPG pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

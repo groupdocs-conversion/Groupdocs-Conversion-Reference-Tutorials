@@ -4,8 +4,8 @@
 "title": "Converteer DOTM naar DOC met GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/word-processing-formats-features/convert-dotm-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DOTM naar DOC converteren met GroupDocs.Conversion voor .NET
 
 Heb je moeite met het converteren van Microsoft Word-sjablonen met macro-ondersteuning (.dotm) naar standaard Word-documenten (.doc)? Deze uitgebreide handleiding over het gebruik van de **GroupDocs.Conversion voor .NET** De bibliotheek helpt je dit proces moeiteloos te stroomlijnen. Aan het einde van deze tutorial ben je bedreven in het eenvoudig converteren van bestandsformaten.

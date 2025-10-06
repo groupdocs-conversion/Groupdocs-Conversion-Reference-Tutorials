@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET の HTML 変換チュートリアル"
 "url": "/ja/net/html-conversion/"
 "weight": 26
+type: docs
 ---
-
 # GroupDocs.Conversion .NET の HTML 変換チュートリアル
 
 HTML変換チュートリアルでは、ドキュメントをWeb対応のHTML形式に変換する方法をご紹介します。Word、PDF、Excel、PowerPoint、画像、CAD図面、メールメッセージなど、様々なソース形式をHTMLに変換する方法を詳細に解説しています。HTML固有の変換オプション、埋め込みリソースの管理、ドキュメントのスタイル設定の保持、レスポンシブレイアウトの扱い方、出力HTML構造の制御方法についても解説します。各チュートリアルには、オリジナルの外観とコンテンツの忠実性を維持しながら、高品質なHTMLドキュメントを作成するためのC#コードサンプルが網羅されています。

@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 将 JP2 文件转换为 PDF | 分步指南"
 "url": "/zh/net/pdf-conversion/convert-jp2-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 将 JP2 文件转换为 PDF
 
 ## 介绍

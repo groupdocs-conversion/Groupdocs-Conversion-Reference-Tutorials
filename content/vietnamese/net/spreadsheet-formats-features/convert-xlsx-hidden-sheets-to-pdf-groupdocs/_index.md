@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi tệp XLSX có trang tính ẩn sang PDF bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/spreadsheet-formats-features/convert-xlsx-hidden-sheets-to-pdf-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp XLSX có trang tính ẩn sang PDF bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

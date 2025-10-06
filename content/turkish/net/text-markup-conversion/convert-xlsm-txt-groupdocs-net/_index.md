@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak XLSM'nin TXT'ye Nasıl Dönüştürüleceği | Adım Adım Kılavuz"
 "url": "/tr/net/text-markup-conversion/convert-xlsm-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak XLSM'nin TXT'ye Nasıl Dönüştürüleceği | Adım Adım Kılavuz
 
 Günümüzün hızlı tempolu iş ortamında, verimli veri dönüşümü ve uyumluluk hayati önem taşır. Dosyaları bir formattan diğerine dönüştürmek iş akışlarını kolaylaştırabilir ve üretkenliği artırabilir. Bu eğitim, güçlü GroupDocs.Conversion for .NET kitaplığını kullanarak bir XLSM dosyasını TXT formatına dönüştürme konusunda size rehberlik edecektir.

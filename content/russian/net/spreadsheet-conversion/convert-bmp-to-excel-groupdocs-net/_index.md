@@ -4,8 +4,8 @@
 "title": "Конвертируйте BMP в Excel с помощью GroupDocs.Conversion .NET для преобразования электронных таблиц"
 "url": "/ru/net/spreadsheet-conversion/convert-bmp-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Как конвертировать файлы BMP в Excel с помощью GroupDocs.Conversion .NET
 
 ## Введение

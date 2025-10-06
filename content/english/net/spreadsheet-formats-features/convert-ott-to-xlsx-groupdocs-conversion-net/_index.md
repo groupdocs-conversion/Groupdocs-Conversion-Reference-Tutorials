@@ -8,10 +8,8 @@ keywords:
 - convert OTT to XLSX
 - GroupDocs.Conversion for .NET
 - data transformation
-
+type: docs
 ---
-
-
 # Convert OTT to XLSX using GroupDocs.Conversion .NET: A Step-by-Step Guide
 
 ## Introduction

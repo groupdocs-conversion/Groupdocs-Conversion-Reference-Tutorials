@@ -4,8 +4,8 @@
 "title": "Hatékony PDF-konvertálás Java nyelven a GroupDocs.Conversion könyvtár használatával"
 "url": "/hu/java/pdf-conversion/convert-local-documents-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony PDF-konvertálás Java nyelven a GroupDocs.Conversion segítségével
 
 ## Bevezetés

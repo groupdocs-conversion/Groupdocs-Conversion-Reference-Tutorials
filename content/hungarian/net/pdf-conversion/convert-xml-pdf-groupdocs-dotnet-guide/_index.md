@@ -4,8 +4,8 @@
 "title": "XML konvertálása PDF-be a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/pdf-conversion/convert-xml-pdf-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # XML konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével: Teljes útmutató
 
 ## Bevezetés

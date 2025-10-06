@@ -8,10 +8,8 @@ keywords:
 - ODG to PNG conversion
 - GroupDocs.Conversion for .NET
 - .NET document conversion
-
+type: docs
 ---
-
-
 # Mastering ODG to PNG Conversion with GroupDocs.Conversion for .NET
 
 ## Introduction

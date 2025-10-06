@@ -4,8 +4,8 @@
 "title": "Μετατροπή XLSB σε SVG χρησιμοποιώντας το GroupDocs.Conversion για .NET™ Ένας πλήρης οδηγός"
 "url": "/el/net/image-conversion/groupdocs-conversion-net-xlsb-to-svg-guide/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή XLSB σε SVG χρησιμοποιώντας το GroupDocs.Conversion για .NET: Ένας πλήρης οδηγός
 
 ## Εισαγωγή

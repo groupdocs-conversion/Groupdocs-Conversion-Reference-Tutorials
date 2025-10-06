@@ -4,8 +4,8 @@
 "title": ".NET डेवलपर्स के लिए GroupDocs की अंतिम गाइड के साथ नेट PSD रूपांतरण"
 "url": "/hi/net/image-conversion/net-psd-conversion-groupdocs-guide/"
 "weight": 1
+type: docs
 ---
-
 # ग्रुपडॉक्स के साथ नेट PSD रूपांतरण: .NET डेवलपर्स के लिए एक संपूर्ण गाइड
 
 ## परिचय

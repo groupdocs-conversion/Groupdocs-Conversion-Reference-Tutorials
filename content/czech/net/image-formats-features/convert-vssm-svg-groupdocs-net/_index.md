@@ -4,8 +4,8 @@
 "title": "Efektivní převod VSSM do SVG pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/image-formats-features/convert-vssm-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod VSSM do SVG pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

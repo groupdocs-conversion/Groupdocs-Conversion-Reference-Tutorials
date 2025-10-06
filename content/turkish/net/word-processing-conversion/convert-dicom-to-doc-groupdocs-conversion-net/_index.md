@@ -4,8 +4,8 @@
 "title": "Adım Adım Kılavuz&#58; DICOM'u .NET için GroupDocs.Conversion Kullanarak DOC'a Dönüştürme"
 "url": "/tr/net/word-processing-conversion/convert-dicom-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Adım Adım Kılavuz: DICOM'u .NET için GroupDocs.Conversion Kullanarak DOC'a Dönüştürme
 
 ## giriiş

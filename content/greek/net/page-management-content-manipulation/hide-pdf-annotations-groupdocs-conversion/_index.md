@@ -4,8 +4,8 @@
 "title": "Πώς να αποκρύψετε σχολιασμούς PDF πριν από τη μετατροπή σε Word χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/page-management-content-manipulation/hide-pdf-annotations-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να αποκρύψετε σχολιασμούς PDF πριν από τη μετατροπή σε Word με το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

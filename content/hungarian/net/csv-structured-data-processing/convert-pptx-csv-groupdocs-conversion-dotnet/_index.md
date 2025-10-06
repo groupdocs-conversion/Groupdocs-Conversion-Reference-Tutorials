@@ -4,8 +4,8 @@
 "title": "PPTX fájlok hatékony konvertálása CSV-vé a GroupDocs.Conversion for .NET segítségével – lépésről lépésre útmutató"
 "url": "/hu/net/csv-structured-data-processing/convert-pptx-csv-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # PPTX fájlok hatékony konvertálása CSV-vé a GroupDocs.Conversion for .NET segítségével: lépésről lépésre útmutató
 
 ## Bevezetés

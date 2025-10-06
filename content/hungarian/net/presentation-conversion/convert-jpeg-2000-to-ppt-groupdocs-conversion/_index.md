@@ -4,8 +4,8 @@
 "title": "JPEG 2000 konvertálása PPT-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/presentation-conversion/convert-jpeg-2000-to-ppt-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # JPEG 2000 képek konvertálása PowerPoint prezentációkká a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

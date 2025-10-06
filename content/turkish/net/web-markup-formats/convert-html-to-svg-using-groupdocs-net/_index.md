@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanarak HTML'yi SVG'ye Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/web-markup-formats/convert-html-to-svg-using-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanarak HTML Dosyalarını SVG Formatına Dönüştürme
 
 ## giriiş

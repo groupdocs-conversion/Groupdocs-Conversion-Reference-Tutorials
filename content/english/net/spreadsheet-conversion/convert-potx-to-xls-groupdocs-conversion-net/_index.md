@@ -8,10 +8,8 @@ keywords:
 - convert POTX to XLS
 - GroupDocs.Conversion for .NET
 - automate document conversion
-
+type: docs
 ---
-
-
 # Convert POTX to XLS Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

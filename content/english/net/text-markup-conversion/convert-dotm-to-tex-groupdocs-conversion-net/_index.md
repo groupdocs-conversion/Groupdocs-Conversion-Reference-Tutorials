@@ -8,10 +8,8 @@ keywords:
 - convert DOTM to TEX with GroupDocs.Conversion for .NET
 - GroupDocs.Conversion for .NET setup
 - document conversion using GroupDocs.Conversion
-
+type: docs
 ---
-
-
 # How to Convert DOTM to TEX Using GroupDocs.Conversion for .NET
 
 ## Introduction

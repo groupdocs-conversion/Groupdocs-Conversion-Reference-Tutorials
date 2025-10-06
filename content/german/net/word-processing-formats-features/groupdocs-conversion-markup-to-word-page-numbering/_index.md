@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie Markup mit Seitennummerierung in Word mithilfe von GroupDocs.Conversion für .NET"
 "url": "/de/net/word-processing-formats-features/groupdocs-conversion-markup-to-word-page-numbering/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie Markup mit Seitennummerierung in Word mithilfe von GroupDocs.Conversion für .NET
 ## Einführung
 Möchten Sie Markup-Dokumente in professionelle Word-Formate konvertieren und dabei die korrekten Seitenzahlen beibehalten? Dieses Tutorial führt Sie durch die Verwendung **GroupDocs.Conversion für .NET** zur nahtlosen Transformation Ihrer Dokumente. Diese leistungsstarke Bibliothek vereinfacht Konvertierungen und stellt sicher, dass wichtige Elemente wie die Seitennummerierung im Ausgabedokument erhalten bleiben.

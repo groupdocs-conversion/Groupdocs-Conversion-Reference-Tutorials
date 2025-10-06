@@ -8,10 +8,8 @@ keywords:
 - Convert VST to CSV
 - GroupDocs.Conversion for .NET
 - File Conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert VST to CSV with GroupDocs.Conversion for .NET
 
 ## Introduction

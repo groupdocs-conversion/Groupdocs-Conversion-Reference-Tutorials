@@ -4,8 +4,8 @@
 "title": "تحويل Word إلى PDF مع استبدال الخط باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/font-handling-substitution/convert-word-to-pdf-font-substitution-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # تحويل مستندات Word إلى PDF مع استبدال الخط باستخدام GroupDocs.Conversion لـ .NET
 ## مقدمة
 غالبًا ما يؤدي تحويل مستندات Word إلى PDF إلى عدم تناسق الخطوط، مما يؤدي إلى مشاكل في التنسيق. يُبسط هذا الدليل ضمان تناسق الخطوط باستخدام GroupDocs.Conversion لـ .NET. تعرّف على كيفية إعداد خيارات التحميل لاستبدال الخطوط وتحويل مستندات Word بسلاسة إلى تنسيق PDF مع الحفاظ على جودة الصورة.

@@ -4,8 +4,8 @@
 "title": "تحويل XLTX إلى HTML باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/html-conversion/convert-xltx-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # تحويل XLTX إلى HTML باستخدام GroupDocs.Conversion لـ .NET: دليل شامل
 
 ## مقدمة

@@ -8,10 +8,8 @@ keywords:
 - TIF to Word conversion .NET
 - GroupDocs.Conversion for .NET tutorial
 - TIF file conversion in C#
-
+type: docs
 ---
-
-
 # Efficient TIF to Word Conversion in .NET Using GroupDocs.Conversion
 
 ## Introduction

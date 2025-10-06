@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 文字檔案處理教學課程"
 "url": "/zh-hant/net/text-file-processing/"
 "weight": 17
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 文字檔案處理教學課程
 
 我們的文字檔案轉換教學向您展示如何在 .NET 中使用 GroupDocs.Conversion 處理純文字內容。這些詳細的指南將指導您如何在文字轉換期間控制前導和尾隨空格的行為、指定文字檔案的編碼選項、盡可能保留格式、處理換行符和特殊字元、實施文字換行策略、設定轉換後文字的分頁以及管理雙向文字要求。每個教程都包含適用於文字檔案轉換場景的 C# 程式碼範例，可協助您建立能夠有效處理純文字的應用程序，同時保持輸出的可讀性和結構性。

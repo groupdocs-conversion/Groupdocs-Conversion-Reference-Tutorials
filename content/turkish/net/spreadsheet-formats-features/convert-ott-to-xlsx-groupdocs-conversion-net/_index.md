@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET&#58;i Kullanarak OTT'yi XLSX'e Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/spreadsheet-formats-features/convert-ott-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET kullanarak OTT'yi XLSX'e dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "जावा ट्यूटोरियल&#58; जावा के लिए GroupDocs.Conversion का उपयोग करके Word दस्तावेज़ों को PowerPoint में बदलें"
 "url": "/hi/java/presentation-formats/java-groupdocs-conversion-word-to-ppt/"
 "weight": 1
+type: docs
 ---
-
 # जावा ट्यूटोरियल: जावा के लिए GroupDocs.Conversion का उपयोग करके Word दस्तावेज़ों को PowerPoint में बदलें
 
 ## परिचय

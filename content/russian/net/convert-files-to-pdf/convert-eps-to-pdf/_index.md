@@ -5,8 +5,8 @@
 "title": "Преобразование инкапсулированных файлов PostScript EPS в PDF"
 "url": "/ru/net/convert-files-to-pdf/convert-eps-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # Преобразование инкапсулированных файлов PostScript EPS в PDF
 
 ## Введение

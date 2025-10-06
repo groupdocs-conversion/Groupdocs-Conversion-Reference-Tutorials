@@ -8,10 +8,8 @@ keywords:
 - convert password-protected Word documents to PPT
 - GroupDocs.Conversion for Java
 - Java document conversion
-
+type: docs
 ---
-
-
 # How to Efficiently Convert Password-Protected Word Documents to PPT Using Java and GroupDocs.Conversion
 
 ## Introduction

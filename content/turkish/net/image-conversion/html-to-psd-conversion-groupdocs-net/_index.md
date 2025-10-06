@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanarak Verimli HTML'den PSD'ye Dönüştürme"
 "url": "/tr/net/image-conversion/html-to-psd-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanarak Verimli HTML'den PSD'ye Dönüştürme
 
 ## giriiş

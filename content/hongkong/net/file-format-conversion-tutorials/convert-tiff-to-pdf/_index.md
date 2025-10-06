@@ -5,8 +5,8 @@
 "title": "將 TIFF 轉換為 PDF"
 "url": "/zh-hant/net/file-format-conversion-tutorials/convert-tiff-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # 將 TIFF 轉換為 PDF
 
 ## 介紹

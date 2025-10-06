@@ -8,10 +8,8 @@ keywords:
 - document-to-spreadsheet conversion
 - GroupDocs.Conversion for .NET
 - data analysis and reporting
-
+type: docs
 ---
-
-
 # Efficient Document-to-Spreadsheet Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

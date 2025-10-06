@@ -4,8 +4,8 @@
 "title": "Conversion efficace de fichiers WMZ en XLSX avec GroupDocs.Conversion pour .NET"
 "url": "/fr/net/spreadsheet-conversion/convert-wmz-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Conversion efficace de fichiers WMZ en XLSX avec GroupDocs.Conversion pour .NET
 
 ## Introduction

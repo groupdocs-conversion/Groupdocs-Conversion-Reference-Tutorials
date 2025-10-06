@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi tài liệu Word được bảo vệ bằng mật khẩu sang HTML bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/html-conversion/convert-password-word-docs-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tài liệu Word được bảo vệ bằng mật khẩu sang HTML bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

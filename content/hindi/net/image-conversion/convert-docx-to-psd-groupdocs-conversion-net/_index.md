@@ -4,8 +4,8 @@
 "title": "कुशल DOCX से PSD रूपांतरण&#58; छवि परिवर्तन के लिए GroupDocs.Conversion .NET का उपयोग करना"
 "url": "/hi/net/image-conversion/convert-docx-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion के साथ कुशल DOCX से PSD रूपांतरण .NET
 
 ## परिचय

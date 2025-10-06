@@ -4,8 +4,8 @@
 "title": "Konwertuj szablony programu PowerPoint do formatu HTML za pomocą GroupDocs.Conversion dla platformy .NET&#58; Przewodnik krok po kroku"
 "url": "/pl/net/html-conversion/convert-pot-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj szablony programu PowerPoint do formatu HTML za pomocą narzędzia GroupDocs.Conversion dla platformy .NET: przewodnik krok po kroku
 
 ## Wstęp

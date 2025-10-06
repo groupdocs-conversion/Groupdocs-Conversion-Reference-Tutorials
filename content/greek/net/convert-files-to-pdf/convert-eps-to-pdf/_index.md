@@ -5,8 +5,8 @@
 "title": "Μετατροπή αρχείων PostScript με ενθυλάκωση EPS σε PDF"
 "url": "/el/net/convert-files-to-pdf/convert-eps-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # Μετατροπή αρχείων PostScript με ενθυλάκωση EPS σε PDF
 
 ## Εισαγωγή

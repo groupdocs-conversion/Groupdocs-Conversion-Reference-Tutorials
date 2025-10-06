@@ -4,8 +4,8 @@
 "title": "Konversi Dokumen Master di .NET Menggunakan GroupDocs.Conversion&#58; Panduan Lengkap"
 "url": "/id/net/conversion-options-settings/mastering-document-conversions-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Konversi Dokumen Master di .NET Menggunakan GroupDocs.Conversion
 ## Perkenalan
 Kesulitan mengonversi dokumen dalam aplikasi .NET Anda? Anda tidak sendirian. Banyak pengembang menghadapi tantangan dalam menentukan format yang dapat dikonversikan ke dalam dokumen. **GroupDocs.Konversi untuk .NET** menawarkan integrasi yang mulus dan fungsionalitas yang kuat, menjadikannya alat penting untuk meningkatkan kemampuan aplikasi.

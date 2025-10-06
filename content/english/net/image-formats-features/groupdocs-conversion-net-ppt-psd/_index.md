@@ -8,10 +8,8 @@ keywords:
 - convert PowerPoint to Photoshop
 - PPT to PSD conversion using GroupDocs.Conversion
 - GroupDocs.Conversion for .NET setup
-
+type: docs
 ---
-
-
 # Convert PowerPoint to Photoshop: Master GroupDocs.Conversion for .NET PPT to PSD Conversion
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Menguasai Konversi .NET DOCX ke PDF Menggunakan GroupDocs.Conversion&#58; Panduan Lengkap"
 "url": "/id/net/pdf-conversion-features/converting-docx-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Menguasai Konversi .NET DOCX ke PDF Menggunakan GroupDocs.Conversion
 
 ## Perkenalan

@@ -4,8 +4,8 @@
 "title": "Efektivní převod TIFF do TEXu pomocí GroupDocs.Conversion .NET"
 "url": "/cs/net/text-markup-conversion/tiff-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod TIFF do TEXu pomocí GroupDocs.Conversion .NET
 
 ## Zavedení

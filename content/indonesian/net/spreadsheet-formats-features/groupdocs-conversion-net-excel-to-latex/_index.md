@@ -4,8 +4,8 @@
 "title": "Otomatiskan Konversi Excel ke LaTeX menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/spreadsheet-formats-features/groupdocs-conversion-net-excel-to-latex/"
 "weight": 1
+type: docs
 ---
-
 # Otomatiskan Makro Excel ke LaTeX dengan GroupDocs
 
 ## Perkenalan

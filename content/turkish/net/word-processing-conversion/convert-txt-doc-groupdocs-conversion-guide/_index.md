@@ -4,8 +4,8 @@
 "title": "Nihai Kılavuz&#58; .NET için GroupDocs.Conversion'ı Kullanarak TXT'yi DOC'a Dönüştürme"
 "url": "/tr/net/word-processing-conversion/convert-txt-doc-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Nihai Kılavuz: .NET için GroupDocs.Conversion'ı Kullanarak TXT'yi DOC'a Dönüştürme
 
 ## giriiş

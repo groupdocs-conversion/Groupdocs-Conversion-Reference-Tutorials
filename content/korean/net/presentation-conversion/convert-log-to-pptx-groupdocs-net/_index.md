@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 로그 파일을 PowerPoint로 효율적으로 변환"
 "url": "/ko/net/presentation-conversion/convert-log-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 로그 파일을 PowerPoint로 효율적으로 변환
 
 ## 소개

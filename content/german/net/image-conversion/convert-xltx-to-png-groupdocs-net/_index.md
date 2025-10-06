@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie XLTX in PNG in .NET mit GroupDocs.Conversion – Eine vollständige Anleitung"
 "url": "/de/net/image-conversion/convert-xltx-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie XLTX in PNG in .NET mit GroupDocs.Conversion: Eine vollständige Anleitung
 
 ## Einführung

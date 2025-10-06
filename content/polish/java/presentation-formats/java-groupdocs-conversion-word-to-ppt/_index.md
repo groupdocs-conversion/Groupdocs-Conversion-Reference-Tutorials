@@ -4,8 +4,8 @@
 "title": "Samouczek Java&#58; Konwertuj dokumenty Word do programu PowerPoint za pomocą GroupDocs.Conversion dla języka Java"
 "url": "/pl/java/presentation-formats/java-groupdocs-conversion-word-to-ppt/"
 "weight": 1
+type: docs
 ---
-
 # Samouczek Java: Konwersja dokumentów Word do PowerPoint za pomocą GroupDocs.Conversion dla Java
 
 ## Wstęp

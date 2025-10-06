@@ -8,10 +8,8 @@ keywords:
 - convert VDW to XLS .NET
 - GroupDocs.Conversion .NET
 - Visio Web Drawing conversion
-
+type: docs
 ---
-
-
 # How to Convert VDW Files to XLS Using GroupDocs.Conversion .NET
 
 ## Introduction

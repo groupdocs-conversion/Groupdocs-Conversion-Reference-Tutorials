@@ -4,8 +4,8 @@
 "title": "Převod VSTX do HTML pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/html-conversion/convert-vstx-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod VSTX do HTML pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

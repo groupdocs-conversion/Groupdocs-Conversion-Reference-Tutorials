@@ -4,8 +4,8 @@
 "title": "CDR konvertálása PDF-be a GroupDocs.Conversion .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/pdf-conversion/convert-cdr-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # CDR fájlok PDF formátumba konvertálása a GroupDocs.Conversion .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

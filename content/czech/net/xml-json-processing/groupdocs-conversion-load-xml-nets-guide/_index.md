@@ -4,8 +4,8 @@
 "title": "Efektivní načítání a konverze souborů XML pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/xml-json-processing/groupdocs-conversion-load-xml-nets-guide/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní načítání a převod XML souborů pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

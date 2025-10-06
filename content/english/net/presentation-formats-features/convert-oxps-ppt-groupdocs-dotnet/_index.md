@@ -8,10 +8,8 @@ keywords:
 - convert OXPS to PPT
 - GroupDocs.Conversion for .NET
 - document conversion in .NET
-
+type: docs
 ---
-
-
 # How to Convert OXPS to PPT Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

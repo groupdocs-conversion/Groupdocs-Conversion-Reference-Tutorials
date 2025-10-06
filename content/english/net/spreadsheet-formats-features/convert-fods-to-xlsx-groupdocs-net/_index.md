@@ -8,10 +8,8 @@ keywords:
 - convert FODS to XLSX
 - GroupDocs.Conversion for .NET
 - file format conversion
-
+type: docs
 ---
-
-
 # How to Convert FODS to XLSX Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 DWFX에서 DOCX로 변환하는 방법을 마스터하세요."
 "url": "/ko/net/word-processing-formats-features/convert-dwfx-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 DWFX에서 DOCX로 변환하는 방법 마스터하기
 ## 소개
 Design Web Format XPS(DWFX) 파일을 Microsoft Word Open XML 문서(DOCX)로 변환하는 데 어려움을 겪고 계신가요? 혼자가 아닙니다! 이 튜토리얼에서는 강력한 GroupDocs.Conversion for .NET 라이브러리를 사용하여 DWFX 파일을 DOCX 형식으로 변환하는 방법을 안내합니다. 이를 통해 문서 관리 워크플로를 간편하게 간소화할 수 있습니다.

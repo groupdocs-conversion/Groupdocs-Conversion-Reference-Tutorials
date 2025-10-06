@@ -4,8 +4,8 @@
 "title": "Adım Adım Kılavuz&#58; .NET için GroupDocs.Conversion'ı Kullanarak PCL'yi PNG'ye Dönüştürme"
 "url": "/tr/net/image-conversion/convert-pcl-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Adım Adım Kılavuz: .NET için GroupDocs.Conversion'ı Kullanarak PCL'yi PNG'ye Dönüştürme
 
 ## giriiş

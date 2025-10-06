@@ -4,8 +4,8 @@
 "title": "XLT fájlok TXT formátumba konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/text-markup-conversion/convert-xlt-to-txt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # XLT fájlok TXT formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

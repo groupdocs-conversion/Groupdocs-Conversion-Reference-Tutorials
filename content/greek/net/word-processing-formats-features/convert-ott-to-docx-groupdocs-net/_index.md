@@ -4,8 +4,8 @@
 "title": "Μετατροπή OTT σε DOCX χρησιμοποιώντας το GroupDocs.Conversion για .NET™ Οδηγός για προγραμματιστές"
 "url": "/el/net/word-processing-formats-features/convert-ott-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή OTT σε DOCX χρησιμοποιώντας το GroupDocs.Conversion για .NET: Οδηγός για προγραμματιστές
 
 ## Εισαγωγή

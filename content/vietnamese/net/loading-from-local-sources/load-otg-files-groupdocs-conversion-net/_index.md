@@ -4,8 +4,8 @@
 "title": "Tải và chuyển đổi tệp OTG bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn dành cho nhà phát triển"
 "url": "/vi/net/loading-from-local-sources/load-otg-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Tải và chuyển đổi tệp OTG bằng GroupDocs.Conversion cho .NET: Hướng dẫn dành cho nhà phát triển
 
 ## Giới thiệu

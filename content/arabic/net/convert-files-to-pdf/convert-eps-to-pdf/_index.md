@@ -5,8 +5,8 @@
 "title": "تحويل ملفات EPS المغلفة PostScript إلى PDF"
 "url": "/ar/net/convert-files-to-pdf/convert-eps-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # تحويل ملفات EPS المغلفة PostScript إلى PDF
 
 ## مقدمة

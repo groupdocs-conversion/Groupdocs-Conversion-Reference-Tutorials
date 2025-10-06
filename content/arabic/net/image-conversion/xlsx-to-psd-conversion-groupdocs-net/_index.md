@@ -4,8 +4,8 @@
 "title": "تحويل XLSX إلى PSD في .NET - دليل خطوة بخطوة باستخدام GroupDocs.Conversion"
 "url": "/ar/net/image-conversion/xlsx-to-psd-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل XLSX إلى PSD في .NET: دليل خطوة بخطوة باستخدام GroupDocs.Conversion
 
 ## مقدمة

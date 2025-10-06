@@ -4,8 +4,8 @@
 "title": "Hogyan konvertálhatunk Excel XLT fájlokat hatékonyan a GroupDocs.Conversion for .NET használatával?"
 "url": "/hu/net/spreadsheet-formats-features/efficiently-convert-excel-xlt-files-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhatunk Excel XLT fájlokat hatékonyan a GroupDocs.Conversion for .NET használatával?
 
 ## Bevezetés

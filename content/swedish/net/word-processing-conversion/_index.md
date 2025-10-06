@@ -3,8 +3,8 @@
 "title": "Handledningar för ordbehandlingskonvertering för GroupDocs.Conversion .NET"
 "url": "/sv/net/word-processing-conversion/"
 "weight": 29
+type: docs
 ---
-
 # Handledningar för ordbehandlingskonvertering för GroupDocs.Conversion .NET
 
 Upptäck hur du omvandlar dokument till redigerbara ordbehandlingsformat med våra omfattande GroupDocs.Conversion-handledningar för .NET. Dessa detaljerade guider täcker konvertering från PDF, Excel, PowerPoint, bilder, HTML och andra format till DOC, DOCX, RTF, ODT med mera. Lär dig om att bevara dokumentstruktur, hantera inbäddade objekt, underhålla stilar och formatering samt hantera textflöde och paginering under konvertering. Varje handledning ger praktiska C#-kodexempel för att skapa ordbehandlingsdokument som bibehåller källinnehållets naturtrogenhet samtidigt som de möjliggör redigering och modifiering.

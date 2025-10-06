@@ -5,8 +5,8 @@
 "title": "CMXをPDFに変換する"
 "url": "/ja/net/file-conversion-to-pdf/convert-cmx-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # CMXをPDFに変換する
 
 ## 導入

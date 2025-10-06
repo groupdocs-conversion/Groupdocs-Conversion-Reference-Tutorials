@@ -4,8 +4,8 @@
 "title": "Konversi XLAM ke PPTX Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Langkah demi Langkah"
 "url": "/id/net/presentation-conversion/convert-xlam-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi XLAM ke PPTX Menggunakan GroupDocs.Conversion untuk .NET: Panduan Langkah demi Langkah
 
 ## Perkenalan

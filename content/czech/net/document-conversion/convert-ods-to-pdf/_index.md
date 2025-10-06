@@ -5,8 +5,8 @@
 "title": "Převod ODS do PDF"
 "url": "/cs/net/document-conversion/convert-ods-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # Převod ODS do PDF
 
 ## Zavedení

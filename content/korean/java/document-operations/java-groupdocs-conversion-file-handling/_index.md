@@ -4,8 +4,8 @@
 "title": "Java로 파일 변환 마스터하기&#58; GroupDocs.Conversion 사용에 대한 포괄적인 가이드"
 "url": "/ko/java/document-operations/java-groupdocs-conversion-file-handling/"
 "weight": 1
+type: docs
 ---
-
 # Java에서 파일 변환 마스터하기: GroupDocs.Conversion 사용에 대한 포괄적인 가이드
 
 ## 소개

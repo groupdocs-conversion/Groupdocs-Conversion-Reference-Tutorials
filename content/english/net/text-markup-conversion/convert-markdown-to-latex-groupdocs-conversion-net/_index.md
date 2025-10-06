@@ -8,10 +8,8 @@ keywords:
 - Markdown to LaTeX conversion
 - GroupDocs.Conversion .NET API
 - document conversion tutorial
-
+type: docs
 ---
-
-
 # Efficient Markdown to LaTeX Conversion Using GroupDocs.Conversion .NET API
 ## Introduction
 In today's digital age, efficiently converting documents is essential for professionals and students alike. Whether preparing academic papers or technical documentation, converting files between formats like Markdown and LaTeX is a common task. This tutorial guides you through using the GroupDocs.Conversion .NET API to seamlessly transform Markdown (.md) files into LaTeX (.tex) format.

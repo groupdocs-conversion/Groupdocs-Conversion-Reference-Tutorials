@@ -4,8 +4,8 @@
 "title": "Конвертируйте MOBI в DOCX с помощью GroupDocs.Conversion для .NET. Пошаговое руководство"
 "url": "/ru/net/word-processing-conversion/groupdocs-conversion-net-mobi-doc/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте MOBI в DOCX с помощью GroupDocs.Conversion для .NET
 
 ## Введение

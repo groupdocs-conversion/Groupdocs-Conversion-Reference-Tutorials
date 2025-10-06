@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie MHT in XLSX mit GroupDocs.Conversion in .NET – Eine Schritt-für-Schritt-Anleitung"
 "url": "/de/net/spreadsheet-conversion/mht-to-xlsx-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie MHT in XLSX mit GroupDocs.Conversion in .NET
 
 ## Einführung

@@ -4,8 +4,8 @@
 "title": "DIB'yi GroupDocs.Conversion ile .NET&#58;e Dönüştürme Tam Bir Kılavuz"
 "url": "/tr/net/text-markup-conversion/convert-dib-to-latex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DIB'yi GroupDocs.Conversion for .NET ile LaTeX'e Dönüştürme: Eksiksiz Bir Kılavuz
 
 ## giriiş

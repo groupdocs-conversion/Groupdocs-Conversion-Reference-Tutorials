@@ -8,10 +8,8 @@ keywords:
 - convert IGS to PNG .NET
 - GroupDocs.Conversion .NET setup
 - IGS file conversion options
-
+type: docs
 ---
-
-
 # Convert IGS to PNG Using GroupDocs.Conversion in .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Convertire DJVU in SVG utilizzando GroupDocs.Conversion in .NET&#58; una guida completa"
 "url": "/it/net/image-conversion/convert-djvu-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire DJVU in SVG utilizzando GroupDocs.Conversion in .NET: una guida completa
 
 ## Introduzione

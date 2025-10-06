@@ -5,8 +5,8 @@
 "title": "OTGをPDFに変換する"
 "url": "/ja/net/pdf-conversion/convert-otg-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # OTGをPDFに変換する
 
 ## 導入

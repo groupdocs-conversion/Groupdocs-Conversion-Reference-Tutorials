@@ -5,8 +5,8 @@
 "title": "Převod webových stránek HTM do PDF"
 "url": "/cs/net/convert-files-to-pdf/convert-htm-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # Převod webových stránek HTM do PDF
 
 ## Zavedení

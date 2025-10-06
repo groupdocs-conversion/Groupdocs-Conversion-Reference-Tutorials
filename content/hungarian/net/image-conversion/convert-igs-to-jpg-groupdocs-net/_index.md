@@ -4,8 +4,8 @@
 "title": "IGS JPG-vé konvertálása a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-igs-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # IGS fájlok konvertálása JPG formátumba a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

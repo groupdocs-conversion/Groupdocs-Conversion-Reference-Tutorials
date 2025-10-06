@@ -4,8 +4,8 @@
 "title": "Jak převést soubory PCL do formátu DOC pomocí nástroje GroupDocs.Conversion pro .NET – podrobný návod"
 "url": "/cs/net/word-processing-formats-features/convert-pcl-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory PCL do formátu DOC pomocí nástroje GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

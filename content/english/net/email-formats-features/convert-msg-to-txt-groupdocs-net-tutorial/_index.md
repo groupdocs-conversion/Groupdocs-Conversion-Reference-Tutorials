@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # How to Convert MSG Files to TXT Using GroupDocs.Conversion in .NET: A Comprehensive Guide
 
 ## Introduction

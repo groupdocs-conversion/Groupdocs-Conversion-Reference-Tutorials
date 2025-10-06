@@ -4,8 +4,8 @@
 "title": "Cách cấu hình GroupDocs.Conversion .NET cho các tệp OST - Hướng dẫn đầy đủ"
 "url": "/vi/net/storage-files-pst-processing/configuring-groupdocs-conversion-dotnet-ost-files/"
 "weight": 1
+type: docs
 ---
-
 # Hướng dẫn toàn diện: Cấu hình GroupDocs.Conversion .NET để xử lý tệp OST
 
 ## Giới thiệu

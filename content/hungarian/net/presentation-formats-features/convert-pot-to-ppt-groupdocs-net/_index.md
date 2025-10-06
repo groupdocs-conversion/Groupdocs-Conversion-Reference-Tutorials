@@ -4,8 +4,8 @@
 "title": "POT konvertálása PPT-vé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/presentation-formats-features/convert-pot-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # POT konvertálása PPT-vé a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Как извлечь информацию о личном хранилище из файлов Outlook OST с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/storage-files-pst-processing/retrieve-personal-storage-info-outlook-ost-net/"
 "weight": 1
+type: docs
 ---
-
 # Как извлечь информацию о личном хранилище из файлов Outlook OST с помощью GroupDocs.Conversion для .NET
 
 ## Введение

@@ -4,8 +4,8 @@
 "title": "PLT fájlok hatékony konvertálása CSV-vé a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/csv-structured-data-processing/convert-plt-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PLT fájlok hatékony konvertálása CSV-vé a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

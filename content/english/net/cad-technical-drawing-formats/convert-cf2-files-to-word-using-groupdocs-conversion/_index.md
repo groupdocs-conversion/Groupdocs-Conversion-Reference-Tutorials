@@ -8,10 +8,8 @@ keywords:
 - CF2 to Word conversion
 - GroupDocs.Conversion .NET
 - CAD file conversion
-
+type: docs
 ---
-
-
 # How to Convert CF2 Files to Word Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

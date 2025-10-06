@@ -4,8 +4,8 @@
 "title": "Конвертируйте HTML в PNG в .NET с помощью GroupDocs.Conversion&#58; Пошаговое руководство"
 "url": "/ru/net/image-conversion/html-to-png-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте HTML в PNG с помощью GroupDocs.Conversion для .NET: подробное руководство
 
 ## Введение

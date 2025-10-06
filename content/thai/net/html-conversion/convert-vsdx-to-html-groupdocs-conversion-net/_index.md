@@ -4,8 +4,8 @@
 "title": "แปลง VSDX เป็น HTML ด้วย GroupDocs.Conversion สำหรับ .NET&#58; คำแนะนำทีละขั้นตอน"
 "url": "/th/net/html-conversion/convert-vsdx-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลงไฟล์ VSDX เป็น HTML โดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

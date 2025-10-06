@@ -5,8 +5,8 @@
 "title": "將XLTM轉換為PDF"
 "url": "/zh-hant/net/converting-file-types-to-pdf/convert-xltm-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # 將XLTM轉換為PDF
 
 ## 介紹

@@ -8,10 +8,8 @@ keywords:
 - convert JPEG 2000 to HTML
 - GroupDocs.Conversion .NET
 - JPEG 2000 Image Files (JPF)
-
+type: docs
 ---
-
-
 # How to Convert JPEG 2000 (JPF) to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

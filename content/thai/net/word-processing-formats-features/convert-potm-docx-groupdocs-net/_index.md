@@ -4,8 +4,8 @@
 "title": "แปลง POTM เป็น DOCX ได้อย่างง่ายดายด้วย GroupDocs.Conversion สำหรับ .NET | คำแนะนำทีละขั้นตอน"
 "url": "/th/net/word-processing-formats-features/convert-potm-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลง POTM เป็น DOCX ด้วย GroupDocs สำหรับ .NET
 
 ## การแนะนำ

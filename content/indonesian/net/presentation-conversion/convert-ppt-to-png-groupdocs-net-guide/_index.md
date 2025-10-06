@@ -4,8 +4,8 @@
 "title": "Konversi PPT ke PNG menggunakan GroupDocs.Conversion dalam .NET&#58; Panduan Lengkap"
 "url": "/id/net/presentation-conversion/convert-ppt-to-png-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Konversi PPT ke PNG Menggunakan GroupDocs.Conversion dalam .NET: Panduan Pengembang
 
 ## Perkenalan

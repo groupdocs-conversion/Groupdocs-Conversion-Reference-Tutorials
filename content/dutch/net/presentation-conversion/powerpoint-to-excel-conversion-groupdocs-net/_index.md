@@ -4,8 +4,8 @@
 "title": "Uitgebreide handleiding voor het converteren van PowerPoint naar Excel met behulp van GroupDocs.Conversion .NET"
 "url": "/nl/net/presentation-conversion/powerpoint-to-excel-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Uitgebreide handleiding voor het converteren van PowerPoint naar Excel met behulp van GroupDocs.Conversion .NET
 
 ## Invoering

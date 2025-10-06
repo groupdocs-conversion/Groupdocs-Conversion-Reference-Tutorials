@@ -5,8 +5,8 @@
 "title": "Converti VSTM in PDF"
 "url": "/it/net/converting-file-types-to-pdf/convert-vstm-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # Converti VSTM in PDF
 
 ## Introduzione

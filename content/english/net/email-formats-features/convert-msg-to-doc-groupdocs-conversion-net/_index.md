@@ -8,10 +8,8 @@ keywords:
 - convert MSG to DOC
 - GroupDocs.Conversion for .NET
 - email conversion
-
+type: docs
 ---
-
-
 # Convert MSG to DOC Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

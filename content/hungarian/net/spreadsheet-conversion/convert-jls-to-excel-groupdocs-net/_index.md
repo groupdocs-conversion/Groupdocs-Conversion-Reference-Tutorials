@@ -4,8 +4,8 @@
 "title": "JLS hatékony konvertálása Excelbe a GroupDocs for .NET használatával"
 "url": "/hu/net/spreadsheet-conversion/convert-jls-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # JPEG veszteségmentes képfájlok (JLS) konvertálása Excel-táblázatokká a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

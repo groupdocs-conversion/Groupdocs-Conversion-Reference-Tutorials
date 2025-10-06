@@ -4,8 +4,8 @@
 "title": "Efektivní převod XLSM na XLS pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/spreadsheet-formats-features/convert-xlsm-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod XLSM na XLS pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie LOG-Dateien in XLSX mit GroupDocs.Conversion für .NET – Eine Schritt-für-Schritt-Anleitung"
 "url": "/de/net/spreadsheet-conversion/convert-log-file-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie LOG-Dateien mit GroupDocs.Conversion für .NET in XLSX: Eine Schritt-für-Schritt-Anleitung
 
 ## Einführung

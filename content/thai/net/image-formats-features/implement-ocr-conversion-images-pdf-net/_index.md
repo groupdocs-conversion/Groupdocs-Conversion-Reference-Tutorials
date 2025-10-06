@@ -4,8 +4,8 @@
 "title": "นำ OCR มาใช้และแปลงรูปภาพเป็น PDF โดยใช้ Aspose และ GroupDocs สำหรับ .NET"
 "url": "/th/net/image-formats-features/implement-ocr-conversion-images-pdf-net/"
 "weight": 1
+type: docs
 ---
-
 # นำ OCR มาใช้และแปลงรูปภาพเป็น PDF โดยใช้ Aspose และ GroupDocs สำหรับ .NET
 
 ## การแนะนำ

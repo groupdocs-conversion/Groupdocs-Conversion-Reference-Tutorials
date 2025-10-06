@@ -4,8 +4,8 @@
 "title": "Opanowanie konwersji plików w .NET przy użyciu GroupDocs.Conversion&#58; Podręcznik programisty"
 "url": "/pl/net/conversion-utilities-information/mastering-file-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Opanowanie konwersji plików w .NET z GroupDocs.Conversion: Twój kompletny przewodnik dla programistów
 
 ## Wstęp

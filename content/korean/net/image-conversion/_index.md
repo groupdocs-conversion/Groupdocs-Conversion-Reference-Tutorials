@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET을 위한 이미지 변환 튜토리얼"
 "url": "/ko/net/image-conversion/"
 "weight": 28
+type: docs
 ---
-
 # GroupDocs.Conversion .NET을 위한 이미지 변환 튜토리얼
 
 이미지 변환 튜토리얼은 .NET 애플리케이션에서 문서를 다양한 이미지 형식으로 변환하는 방법에 대한 포괄적인 지침을 제공합니다. 이 단계별 가이드는 Word, PDF, PowerPoint, CAD 도면 등의 소스에서 문서를 JPG, PNG, TIFF, SVG 및 기타 이미지 형식으로 변환하는 방법을 보여줍니다. 해상도, 색 농도, 압축, 투명도 및 기타 이미지별 설정을 제어하여 품질과 파일 크기 간의 최적의 균형을 맞추는 방법을 배웁니다. 각 튜토리얼에는 문서의 고품질 이미지 표현을 만드는 자세한 C# 코드 예제가 포함되어 있어 미리보기, 보관 또는 추가 이미지 처리에 적합합니다.

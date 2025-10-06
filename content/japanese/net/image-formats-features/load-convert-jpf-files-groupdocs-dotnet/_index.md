@@ -4,8 +4,8 @@
 "title": "マスターファイル変換&#58; GroupDocs for .NET を使用して JPF ファイルを読み込み、変換する"
 "url": "/ja/net/image-formats-features/load-convert-jpf-files-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # マスターファイル変換: GroupDocs for .NET を使用して JPF ファイルを読み込み、変換する
 
 ## 導入

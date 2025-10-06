@@ -4,8 +4,8 @@
 "title": "Master DOCX-zu-PPT-Konvertierung mit GroupDocs.Conversion für .NET"
 "url": "/de/net/presentation-conversion/groupdocs-conversion-dotnet-docx-to-ppt/"
 "weight": 1
+type: docs
 ---
-
 # Beherrschung der DOCX-zu-PPT-Konvertierung mit GroupDocs.Conversion für .NET
 
 ## Einführung

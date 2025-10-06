@@ -4,8 +4,8 @@
 "title": "파일 변환 프로젝트를 위한 GroupDocs.Conversion Java의 상수 관리 마스터하기"
 "url": "/ko/java/conversion-options/mastering-constants-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Java를 사용한 상수 관리 마스터하기
 
 ## 소개

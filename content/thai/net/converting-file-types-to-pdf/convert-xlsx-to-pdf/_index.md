@@ -5,8 +5,8 @@
 "title": "แปลง XLSX เป็น PDF"
 "url": "/th/net/converting-file-types-to-pdf/convert-xlsx-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # แปลง XLSX เป็น PDF
 
 ## การแนะนำ

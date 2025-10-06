@@ -5,8 +5,8 @@
 "title": "XLTX konvertálása PDF-be"
 "url": "/hu/net/converting-file-types-to-pdf/convert-xltx-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # XLTX konvertálása PDF-be
 
 ## Bevezetés

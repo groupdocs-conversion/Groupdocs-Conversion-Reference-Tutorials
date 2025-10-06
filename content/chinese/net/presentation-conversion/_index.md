@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 的演示转换教程"
 "url": "/zh/net/presentation-conversion/"
 "weight": 31
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 的演示转换教程
 
 我们的演示文稿转换教程将向您展示如何使用 .NET 中的 GroupDocs.Conversion 将文档转换为幻灯片格式。这些实用指南涵盖了如何将 PDF、Word、Excel、图像和其他格式转换为 PPT、PPTX、ODP 等格式。您将学习如何在转换过程中保留视觉元素、尽可能保留动画效果、处理幻灯片切换、生成演讲者备注、管理嵌入媒体以及控制幻灯片布局。每个教程都包含详细的 C# 代码示例，用于创建演示文稿文档，以适合向观众呈现的格式有效地呈现源内容。

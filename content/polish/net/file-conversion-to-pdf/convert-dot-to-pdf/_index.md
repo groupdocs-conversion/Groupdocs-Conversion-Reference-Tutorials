@@ -5,8 +5,8 @@
 "title": "Konwertuj szablony DOT Word do PDF"
 "url": "/pl/net/file-conversion-to-pdf/convert-dot-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # Konwertuj szablony DOT Word do PDF
 
 ## Wstęp

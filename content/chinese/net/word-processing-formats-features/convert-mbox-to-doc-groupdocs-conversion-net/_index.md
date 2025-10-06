@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 将 MBOX 文件转换为 DOC（2023 指南）"
 "url": "/zh/net/word-processing-formats-features/convert-mbox-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 将 MBOX 文件转换为 DOC（2023 指南）
 
 ## 介绍

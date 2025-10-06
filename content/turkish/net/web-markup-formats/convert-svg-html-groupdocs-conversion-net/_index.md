@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET'i Kullanarak SVG'yi HTML'ye Verimli Şekilde Dönüştürün"
 "url": "/tr/net/web-markup-formats/convert-svg-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET'i Kullanarak SVG'yi HTML'ye Verimli Şekilde Dönüştürün
 
 ## giriiş

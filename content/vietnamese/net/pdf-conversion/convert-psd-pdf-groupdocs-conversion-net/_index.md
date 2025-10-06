@@ -4,8 +4,8 @@
 "title": "Chuyển đổi PSD sang PDF bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/pdf-conversion/convert-psd-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp PSD sang PDF bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

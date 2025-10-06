@@ -4,8 +4,8 @@
 "title": "Word dokumentumok PDF formátumba konvertálása .NET-ben a GroupDocs.Conversion használatával"
 "url": "/hu/net/pdf-conversion-features/convert-word-doc-to-pdf-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Word dokumentumok PDF formátumba konvertálása .NET-ben a GroupDocs.Conversion használatával
 
 ## Bevezetés

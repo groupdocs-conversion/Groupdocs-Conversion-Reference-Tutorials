@@ -4,8 +4,8 @@
 "title": "MSG konvertálása PDF-be GroupDocs használatával .NET-ben – Átfogó útmutató"
 "url": "/hu/net/pdf-conversion/convert-msg-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # MSG konvertálása PDF-be GroupDocs használatával .NET-ben: Átfogó útmutató
 
 ## Bevezetés

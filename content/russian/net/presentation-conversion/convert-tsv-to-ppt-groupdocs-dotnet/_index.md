@@ -4,8 +4,8 @@
 "title": "Преобразование TSV в PowerPoint&#58; Простое руководство с использованием GroupDocs.Conversion .NET"
 "url": "/ru/net/presentation-conversion/convert-tsv-to-ppt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте TSV в PowerPoint с помощью GroupDocs.NET
 ## Как загрузить и преобразовать файл TSV в PPT с помощью GroupDocs.Conversion .NET
 

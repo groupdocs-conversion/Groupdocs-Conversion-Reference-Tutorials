@@ -4,8 +4,8 @@
 "title": "ตั้งค่าใบอนุญาตจาก Stream ใน GroupDocs.Conversion สำหรับ .NET คำแนะนำที่ครอบคลุม"
 "url": "/th/net/getting-started-licensing/groupdocs-conversion-net-set-license-stream/"
 "weight": 1
+type: docs
 ---
-
 # ตั้งค่าใบอนุญาตจาก Stream ใน GroupDocs.Conversion สำหรับ .NET: คู่มือฉบับสมบูรณ์
 
 ## การแนะนำ

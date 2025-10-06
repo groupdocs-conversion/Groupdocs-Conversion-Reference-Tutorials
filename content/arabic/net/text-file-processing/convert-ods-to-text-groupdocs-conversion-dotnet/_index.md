@@ -4,8 +4,8 @@
 "title": "تحويل ملفات ODS إلى TXT باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/text-file-processing/convert-ods-to-text-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل ملفات ODS إلى نص باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

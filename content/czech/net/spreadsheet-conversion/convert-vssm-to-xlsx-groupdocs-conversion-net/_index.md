@@ -4,8 +4,8 @@
 "title": "Efektivní převod VSSM do XLSX pomocí GroupDocs.Conversion .NET pro převod tabulek"
 "url": "/cs/net/spreadsheet-conversion/convert-vssm-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod VSSM do XLSX pomocí GroupDocs.Conversion .NET
 
 ## Zavedení

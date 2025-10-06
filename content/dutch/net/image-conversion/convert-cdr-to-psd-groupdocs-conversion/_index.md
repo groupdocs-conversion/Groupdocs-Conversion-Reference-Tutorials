@@ -4,8 +4,8 @@
 "title": "Converteer CDR naar PSD&#58; naadloze beeldconversie met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/image-conversion/convert-cdr-to-psd-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Converteer CDR naar PSD: naadloze beeldconversie met GroupDocs.Conversion voor .NET
 
 ## Invoering

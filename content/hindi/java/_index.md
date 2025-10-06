@@ -4,8 +4,8 @@
 "title": "Java के लिए GroupDocs.Conversion का व्यापक ट्यूटोरियल"
 "url": "/hi/java/"
 "weight": 10
+type: docs
 ---
-
 # Java के लिए GroupDocs.Conversion का व्यापक ट्यूटोरियल
 
 ## परिचय

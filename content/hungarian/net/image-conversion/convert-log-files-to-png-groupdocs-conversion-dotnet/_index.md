@@ -4,8 +4,8 @@
 "title": "LOG fájlok konvertálása PNG formátumba a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-log-files-to-png-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # LOG fájlok konvertálása PNG formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

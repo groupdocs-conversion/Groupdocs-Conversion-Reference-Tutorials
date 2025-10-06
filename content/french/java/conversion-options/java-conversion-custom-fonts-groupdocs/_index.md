@@ -4,8 +4,8 @@
 "title": "Conversion de documents Java avec polices personnalisées à l'aide de GroupDocs.Conversion"
 "url": "/fr/java/conversion-options/java-conversion-custom-fonts-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Conversion de documents Java avec polices personnalisées à l'aide de GroupDocs.Conversion
 
 Dans le monde numérique actuel, il est crucial de convertir des documents tout en conservant leur conception et leur mise en page d'origine. Que vous prépariez une présentation pour un client ou archiviez des fichiers importants, garantir la cohérence des polices sur toutes les plateformes peut s'avérer complexe. Ce tutoriel vous guidera dans l'utilisation de GroupDocs.Conversion pour Java pour convertir des présentations en PDF avec des substitutions de polices personnalisées, garantissant ainsi l'intégrité visuelle tout au long du processus.

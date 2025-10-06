@@ -4,8 +4,8 @@
 "title": "Converti DJVU in PPTX utilizzando GroupDocs.Conversion per .NET&#58; una guida passo passo"
 "url": "/it/net/presentation-conversion/djvu-to-pptx-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire DJVU in PPTX utilizzando GroupDocs.Conversion per .NET: una guida passo passo
 
 ## Introduzione

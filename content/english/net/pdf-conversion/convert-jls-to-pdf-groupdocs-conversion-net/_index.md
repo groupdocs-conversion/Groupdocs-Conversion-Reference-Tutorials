@@ -8,10 +8,8 @@ keywords:
 - convert JLS to PDF
 - GroupDocs.Conversion .NET
 - JLS file conversion
-
+type: docs
 ---
-
-
 # How to Convert JLS Files to PDF with GroupDocs.Conversion for .NET
 
 ## Introduction

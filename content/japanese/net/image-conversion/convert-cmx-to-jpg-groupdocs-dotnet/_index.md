@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して CMX ファイルを JPG に変換する方法"
 "url": "/ja/net/image-conversion/convert-cmx-to-jpg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 包括的なチュートリアル: GroupDocs.Conversion for .NET を使用して CMX ファイルを JPG に変換する
 
 ## 導入

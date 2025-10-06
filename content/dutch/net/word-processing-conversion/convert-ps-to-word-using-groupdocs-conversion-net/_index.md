@@ -4,8 +4,8 @@
 "title": "PS-bestanden naar Word converteren met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/word-processing-conversion/convert-ps-to-word-using-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PS-bestanden naar Word converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

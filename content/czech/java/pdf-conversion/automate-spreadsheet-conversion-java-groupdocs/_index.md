@@ -4,8 +4,8 @@
 "title": "Automatizace převodu tabulek do PDF v Javě pomocí GroupDocs.Conversion"
 "url": "/cs/java/pdf-conversion/automate-spreadsheet-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Automatizace převodu tabulek do PDF v Javě pomocí GroupDocs.Conversion
 
 ## Zavedení

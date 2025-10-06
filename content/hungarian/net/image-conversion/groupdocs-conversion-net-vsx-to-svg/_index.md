@@ -4,8 +4,8 @@
 "title": "VSX fájlok SVG-vé konvertálása a GroupDocs.Conversion .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/image-conversion/groupdocs-conversion-net-vsx-to-svg/"
 "weight": 1
+type: docs
 ---
-
 # VSX fájlok SVG-vé konvertálása a GroupDocs.Conversion .NET segítségével: Átfogó útmutató
 
 ## Bevezetés

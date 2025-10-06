@@ -4,8 +4,8 @@
 "title": "Converti PDF in PSD in .NET utilizzando GroupDocs.Conversion"
 "url": "/it/net/image-conversion/convert-pdf-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converti PDF in PSD con GroupDocs.Conversion per .NET
 
 ## Come convertire i documenti PDF in PSD utilizzando GroupDocs.Conversion per .NET

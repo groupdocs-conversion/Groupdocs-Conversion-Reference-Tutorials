@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 將 MHTML 轉換為 Excel - 電子表格轉換綜合指南"
 "url": "/zh-hant/net/spreadsheet-conversion/convert-mhtml-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 將 MHTML 轉換為 Excel：綜合指南
 
 ## 介紹

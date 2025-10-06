@@ -4,8 +4,8 @@
 "title": "Converteer HTML naar Word DOC met GroupDocs.Conversion voor .NET - Uitgebreide handleiding"
 "url": "/nl/net/word-processing-conversion/convert-html-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer HTML naar Word DOC met GroupDocs.Conversion voor .NET
 
 ## Invoering

@@ -4,8 +4,8 @@
 "title": "แปลงกราฟต้นทาง OTP เป็น Excel โดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/spreadsheet-formats-features/convert-otp-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลง Origin Graph OTP เป็น Excel ด้วย GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

@@ -4,8 +4,8 @@
 "title": "Hur man konverterar VDW-filer till DOCX med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/cad-technical-drawing-formats/convert-vdw-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Omfattande handledning: Konvertera VDW till DOCX med GroupDocs.Conversion för .NET
 
 ## Introduktion

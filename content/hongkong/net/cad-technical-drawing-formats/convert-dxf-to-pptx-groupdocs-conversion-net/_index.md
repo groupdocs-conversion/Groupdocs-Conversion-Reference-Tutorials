@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 DXF 轉換為 PPTX 的綜合指南"
 "url": "/zh-hant/net/cad-technical-drawing-formats/convert-dxf-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 DXF 檔案轉換為 PPTX
 ## 介紹
 將設計文件轉換為簡報格式是一項常見任務，尤其是在處理 DWG 或 DXF 檔案等 CAD 圖紙時。本指南全面示範如何使用 GroupDocs.Conversion for .NET 將 DXF 檔案無縫轉換為 PowerPoint (PPTX) 簡報。

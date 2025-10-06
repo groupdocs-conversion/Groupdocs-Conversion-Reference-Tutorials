@@ -5,8 +5,8 @@
 "title": "Konvertera EML-e-postmeddelanden till PDF"
 "url": "/sv/net/convert-files-to-pdf/convert-eml-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # Konvertera EML-e-postmeddelanden till PDF
 
 ## Introduktion

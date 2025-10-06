@@ -4,8 +4,8 @@
 "title": "Ẩn bình luận trong PDF&#58; Chuyển đổi PPT sang PDF với GroupDocs.Conversion cho .NET"
 "url": "/vi/net/pdf-conversion-features/convert-presentation-pdf-hide-comments-net/"
 "weight": 1
+type: docs
 ---
-
 # Ẩn bình luận trong PDF: Chuyển đổi PPT sang PDF với GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

@@ -8,10 +8,8 @@ keywords:
 - convert spreadsheets to PDF
 - GroupDocs.Conversion for .NET
 - Excel to PDF conversion
-
+type: docs
 ---
-
-
 # Convert Spreadsheets to PDFs Seamlessly Using GroupDocs.Conversion in .NET
 
 ## Introduction

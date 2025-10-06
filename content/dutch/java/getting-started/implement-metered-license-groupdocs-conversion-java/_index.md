@@ -4,8 +4,8 @@
 "title": "Implementatie van een gemeterde licentie voor GroupDocs.Conversion in Java&#58; een uitgebreide handleiding"
 "url": "/nl/java/getting-started/implement-metered-license-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Implementatie van een gemeterde licentie voor GroupDocs.Conversion in Java
 
 ## Invoering

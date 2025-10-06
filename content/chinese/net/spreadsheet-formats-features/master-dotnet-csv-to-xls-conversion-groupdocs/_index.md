@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs 将 .NET CSV 转换为 XLS 的综合指南"
 "url": "/zh/net/spreadsheet-formats-features/master-dotnet-csv-to-xls-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs 将 .NET CSV 转换为 XLS：综合指南
 
 在当今数据驱动的世界中，在各种格式之间转换文件是一项常见的需求。无论您是处理财务报告还是分析大型数据集，将 CSV（逗号分隔值）文件转换为与 Excel 兼容的 XLS 格式对于高效的数据管理和分析都至关重要。本教程将指导您使用 GroupDocs.Conversion for .NET 将 CSV 文件无缝转换为 XLS 文档。

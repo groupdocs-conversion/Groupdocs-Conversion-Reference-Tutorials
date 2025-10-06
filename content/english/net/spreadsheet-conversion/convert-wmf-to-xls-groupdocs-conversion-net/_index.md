@@ -8,10 +8,8 @@ keywords:
 - convert WMF to XLS
 - GroupDocs.Conversion for .NET
 - file conversion
-
+type: docs
 ---
-
-
 # Convert WMF to XLS Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

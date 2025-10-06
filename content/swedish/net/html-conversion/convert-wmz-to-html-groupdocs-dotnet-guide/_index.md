@@ -4,8 +4,8 @@
 "title": "Hur man konverterar WMZ till HTML med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/html-conversion/convert-wmz-to-html-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar WMZ till HTML med GroupDocs.Conversion för .NET: En omfattande guide
 
 ## Introduktion

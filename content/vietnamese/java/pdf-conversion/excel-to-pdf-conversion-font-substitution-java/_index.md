@@ -4,8 +4,8 @@
 "title": "Chuyển đổi Excel sang PDF trong Java bằng cách sử dụng Font Substitution sử dụng GroupDocs.Conversion"
 "url": "/vi/java/pdf-conversion/excel-to-pdf-conversion-font-substitution-java/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi Excel sang PDF trong Java bằng cách sử dụng Font Substitution sử dụng GroupDocs.Conversion
 
 ## Giới thiệu

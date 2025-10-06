@@ -4,8 +4,8 @@
 "title": "Átfogó útmutató a VSSX PDF-fájlok konvertálásához a GroupDocs.Conversion for .NET használatával C#-ban"
 "url": "/hu/net/pdf-conversion/convert-vssx-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató: VSSX konvertálása PDF-be a GroupDocs.Conversion for .NET használatával C#-ban
 
 ## Bevezetés

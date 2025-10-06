@@ -5,8 +5,8 @@
 "title": "Konversi XML ke PDF"
 "url": "/id/net/converting-file-types-to-pdf/convert-xml-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # Konversi XML ke PDF
 
 ## Perkenalan

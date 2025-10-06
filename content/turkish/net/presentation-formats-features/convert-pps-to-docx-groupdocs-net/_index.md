@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak PPS'yi DOCX'e Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/presentation-formats-features/convert-pps-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak PPS'yi DOCX'e Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

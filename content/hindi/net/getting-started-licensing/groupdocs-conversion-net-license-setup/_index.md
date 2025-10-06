@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET के लिए लाइसेंस कैसे सेट करें और लागू करें एक चरण-दर-चरण मार्गदर्शिका"
 "url": "/hi/net/getting-started-licensing/groupdocs-conversion-net-license-setup/"
 "weight": 1
+type: docs
 ---
-
 # व्यापक ट्यूटोरियल: GroupDocs.Conversion .NET के लिए लाइसेंस स्थापित करना
 
 ## परिचय

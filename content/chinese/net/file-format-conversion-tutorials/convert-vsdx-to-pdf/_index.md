@@ -5,8 +5,8 @@
 "title": "将 VSDX 转换为 PDF"
 "url": "/zh/net/file-format-conversion-tutorials/convert-vsdx-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # 将 VSDX 转换为 PDF
 
 ## 介绍

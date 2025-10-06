@@ -4,8 +4,8 @@
 "title": "Tutorial Lengkap GroupDocs.Conversion untuk Java"
 "url": "/id/java/"
 "weight": 10
+type: docs
 ---
-
 # Tutorial Lengkap GroupDocs.Conversion untuk Java
 
 ## Perkenalan

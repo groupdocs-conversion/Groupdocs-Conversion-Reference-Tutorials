@@ -4,8 +4,8 @@
 "title": ".NET में ग्रुपडॉक्स के साथ टेक्स्ट-टू-प्रेजेंटेशन रूपांतरण में महारत हासिल करें एक व्यापक गाइड"
 "url": "/hi/net/presentation-conversion/groupdocs-net-text-ppt-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # .NET में ग्रुपडॉक्स के साथ मास्टर टेक्स्ट-टू-प्रेजेंटेशन रूपांतरण
 
 ## परिचय

@@ -5,8 +5,8 @@
 "title": "DOCX Word文書をPDFに変換する"
 "url": "/ja/net/file-conversion-to-pdf/convert-docx-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # DOCX Word文書をPDFに変換する
 
 ## 導入

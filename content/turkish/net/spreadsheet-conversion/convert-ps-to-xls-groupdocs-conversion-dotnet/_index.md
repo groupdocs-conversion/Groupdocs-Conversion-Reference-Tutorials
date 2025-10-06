@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak PostScript'i (PS) Excel'e (XLS) Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/spreadsheet-conversion/convert-ps-to-xls-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak PostScript'i (PS) Excel'e (XLS) Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

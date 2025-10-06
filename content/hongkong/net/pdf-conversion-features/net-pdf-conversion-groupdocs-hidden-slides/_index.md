@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 掌握隱藏投影片的 .NET PDF 轉換"
 "url": "/zh-hant/net/pdf-conversion-features/net-pdf-conversion-groupdocs-hidden-slides/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 掌握隱藏投影片的 .NET PDF 轉換
 
 ## 介紹

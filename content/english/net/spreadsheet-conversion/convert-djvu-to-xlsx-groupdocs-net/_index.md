@@ -8,10 +8,8 @@ keywords:
 - convert DJVU to XLSX
 - GroupDocs.Conversion for .NET
 - file conversion with C#
-
+type: docs
 ---
-
-
 # Convert DJVU to XLSX Using GroupDocs.Conversion for .NET: A Developer's Guide
 
 ## Introduction

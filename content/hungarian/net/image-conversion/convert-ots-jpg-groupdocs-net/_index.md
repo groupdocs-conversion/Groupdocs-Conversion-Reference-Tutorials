@@ -4,8 +4,8 @@
 "title": "OTS fájlok JPG formátumba konvertálása a GroupDocs.Conversion for .NET segítségével - Képkonverziós útmutató"
 "url": "/hu/net/image-conversion/convert-ots-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # OTS fájlok JPG formátumba konvertálása a .NET-hez készült GroupDocs.Conversion segítségével
 
 ## Bevezetés

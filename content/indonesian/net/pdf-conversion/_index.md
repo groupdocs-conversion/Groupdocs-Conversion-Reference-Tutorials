@@ -5,8 +5,8 @@
 "title": "Konversi PDF"
 "url": "/id/net/pdf-conversion/"
 "weight": 25
+type: docs
 ---
-
 # Konversi PDF
 
 ## Perkenalan

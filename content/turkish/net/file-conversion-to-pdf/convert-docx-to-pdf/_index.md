@@ -5,8 +5,8 @@
 "title": "DOCX Word Belgelerini PDF'ye Dönüştür"
 "url": "/tr/net/file-conversion-to-pdf/convert-docx-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # DOCX Word Belgelerini PDF'ye Dönüştür
 
 ## giriiş

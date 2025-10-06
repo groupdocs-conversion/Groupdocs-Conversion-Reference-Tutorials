@@ -4,8 +4,8 @@
 "title": "Konwertuj VSX do TEX w prosty sposób dzięki GroupDocs.Conversion .NET — Twój przewodnik po bezproblemowej konwersji dokumentów"
 "url": "/pl/net/text-markup-conversion/vsx-to-tex-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj VSX do TEX z łatwością, używając GroupDocs.Conversion .NET
 
 ## Wstęp

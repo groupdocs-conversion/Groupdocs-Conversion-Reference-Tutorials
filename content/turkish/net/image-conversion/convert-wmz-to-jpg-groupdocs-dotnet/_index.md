@@ -4,8 +4,8 @@
 "title": "WMZ'yi GroupDocs.Conversion for .NET ile Kolayca JPG'ye Dönüştürün | Görüntü Dönüştürme Kılavuzu"
 "url": "/tr/net/image-conversion/convert-wmz-to-jpg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET Kullanarak WMZ Dosyalarını JPG'ye Dönüştürün
 
 ## giriiş

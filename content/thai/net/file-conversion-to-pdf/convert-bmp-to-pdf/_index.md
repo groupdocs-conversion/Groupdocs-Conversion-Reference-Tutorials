@@ -5,8 +5,8 @@
 "title": "แปลงภาพ BMP เป็น PDF"
 "url": "/th/net/file-conversion-to-pdf/convert-bmp-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # แปลงภาพ BMP เป็น PDF
 
 ## การแนะนำ

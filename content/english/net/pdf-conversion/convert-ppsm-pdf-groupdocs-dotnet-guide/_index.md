@@ -8,10 +8,8 @@ keywords:
 - convert ppsm to pdf
 - groupdocs conversion net
 - ppsm to pdf converter
-
+type: docs
 ---
-
-
 # Convert PPSM to PDF in .NET Using GroupDocs.Conversion: A Step-by-Step Guide
 
 ## Introduction

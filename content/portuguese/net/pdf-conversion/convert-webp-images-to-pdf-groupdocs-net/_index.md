@@ -4,8 +4,8 @@
 "title": "Converter imagens WEBP em PDF usando GroupDocs.Conversion para .NET"
 "url": "/pt/net/pdf-conversion/convert-webp-images-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converta imagens WEBP em PDF com GroupDocs.Conversion para .NET
 
 ## Introdução

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak OTP'yi SVG'ye Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/image-conversion/convert-otp-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion ile OTP'yi SVG'ye dönüştürün
 
 ## giriiş

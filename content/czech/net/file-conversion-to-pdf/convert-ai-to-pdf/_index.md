@@ -5,8 +5,8 @@
 "title": "Převod souborů AI do PDF"
 "url": "/cs/net/file-conversion-to-pdf/convert-ai-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # Převod souborů AI do PDF
 
 ## Zavedení

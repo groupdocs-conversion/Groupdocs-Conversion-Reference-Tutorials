@@ -4,8 +4,8 @@
 "title": "Converteer Outlook-e-mails naar Photoshop-documenten met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/image-formats-features/convert-outlook-emails-to-photoshop-documents/"
 "weight": 1
+type: docs
 ---
-
 # Converteer Microsoft Outlook-e-mails naar Adobe Photoshop-documenten met GroupDocs.Conversion voor .NET
 
 ## Invoering

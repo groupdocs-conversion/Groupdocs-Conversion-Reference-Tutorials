@@ -4,8 +4,8 @@
 "title": "Typsnittsersättning i Java Mastering GroupDocs.Conversion för konsekvent PDF-utdata"
 "url": "/sv/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/"
 "weight": 1
+type: docs
 ---
-
 # Bemästra teckensnittsersättning med GroupDocs.Conversion för Java
 
 ## Introduktion

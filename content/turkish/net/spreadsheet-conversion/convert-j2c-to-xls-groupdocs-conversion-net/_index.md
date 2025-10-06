@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak J2C'yi XLS'ye Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/spreadsheet-conversion/convert-j2c-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanarak J2C'yi XLS'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

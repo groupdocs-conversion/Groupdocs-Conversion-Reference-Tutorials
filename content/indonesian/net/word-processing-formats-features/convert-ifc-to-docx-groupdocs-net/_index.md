@@ -4,8 +4,8 @@
 "title": "Konversi IFC ke DOCX Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/word-processing-formats-features/convert-ifc-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi IFC ke DOCX Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

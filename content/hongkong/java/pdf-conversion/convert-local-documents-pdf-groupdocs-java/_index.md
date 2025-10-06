@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 程式庫在 Java 中實現高效的 PDF 轉換"
 "url": "/zh-hant/java/pdf-conversion/convert-local-documents-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 Java 中實現高效的 PDF 轉換
 
 ## 介紹

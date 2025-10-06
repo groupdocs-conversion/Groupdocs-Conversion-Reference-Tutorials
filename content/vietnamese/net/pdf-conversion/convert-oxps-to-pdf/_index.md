@@ -5,8 +5,8 @@
 "title": "Chuyển đổi OXPS sang PDF"
 "url": "/vi/net/pdf-conversion/convert-oxps-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # Chuyển đổi OXPS sang PDF
 
 ## Giới thiệu

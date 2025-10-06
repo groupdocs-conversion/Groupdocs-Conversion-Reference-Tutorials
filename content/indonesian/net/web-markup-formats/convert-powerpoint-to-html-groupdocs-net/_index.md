@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi Presentasi PowerPoint ke HTML Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/web-markup-formats/convert-powerpoint-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi Presentasi PowerPoint ke HTML Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

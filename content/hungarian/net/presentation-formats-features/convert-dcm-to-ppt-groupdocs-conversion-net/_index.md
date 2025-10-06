@@ -4,8 +4,8 @@
 "title": "DCM PPT-vé konvertálása a GroupDocs.Conversion .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/presentation-formats-features/convert-dcm-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhatunk DCM-et PPT-vé a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

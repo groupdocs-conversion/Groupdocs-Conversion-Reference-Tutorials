@@ -4,8 +4,8 @@
 "title": "كيفية تحويل ملفات Excel ذات جداول البيانات المخفية إلى ملفات PDF باستخدام Java وGroupDocs.Conversion"
 "url": "/ar/java/pdf-conversion/convert-excel-hidden-sheets-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل ملفات Excel ذات جداول البيانات المخفية إلى ملفات PDF باستخدام Java وGroupDocs.Conversion
 
 ## مقدمة

@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tài liệu .NET thành Excel sang Word bằng GroupDocs.Conversion"
 "url": "/vi/net/word-processing-conversion/master-net-conversion-excel-word-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tài liệu .NET thành thạo: Excel sang Word bằng GroupDocs.Conversion
 
 ## Giới thiệu

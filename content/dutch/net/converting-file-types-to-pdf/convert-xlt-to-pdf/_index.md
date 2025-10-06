@@ -5,8 +5,8 @@
 "title": "XLT naar PDF converteren"
 "url": "/nl/net/converting-file-types-to-pdf/convert-xlt-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # XLT naar PDF converteren
 
 

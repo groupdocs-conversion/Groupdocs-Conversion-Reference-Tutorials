@@ -5,8 +5,8 @@
 "title": "OXPSをPDFに変換する"
 "url": "/ja/net/pdf-conversion/convert-oxps-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # OXPSをPDFに変換する
 
 ## 導入

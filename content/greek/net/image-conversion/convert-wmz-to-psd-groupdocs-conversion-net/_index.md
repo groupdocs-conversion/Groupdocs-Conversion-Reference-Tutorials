@@ -4,8 +4,8 @@
 "title": "Πώς να μετατρέψετε αρχεία WMZ σε PSD χρησιμοποιώντας το GroupDocs.Conversion για .NET™ - Ένας οδηγός βήμα προς βήμα"
 "url": "/el/net/image-conversion/convert-wmz-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε αρχεία WMZ σε PSD χρησιμοποιώντας το GroupDocs.Conversion για .NET: Οδηγός βήμα προς βήμα
 
 ## Εισαγωγή

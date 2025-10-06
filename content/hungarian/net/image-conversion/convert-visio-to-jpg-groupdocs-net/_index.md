@@ -4,8 +4,8 @@
 "title": "Visio fájlok konvertálása JPG formátumba a GroupDocs.Conversion for .NET segítségével – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-visio-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Visio fájlok konvertálása JPG formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

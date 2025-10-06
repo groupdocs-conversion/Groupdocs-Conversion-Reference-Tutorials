@@ -4,8 +4,8 @@
 "title": "تحويل مستندات Word المحمية بكلمة مرور إلى Excel باستخدام GroupDocs لـ .NET"
 "url": "/ar/net/working-with-secure-documents/convert-password-word-docs-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل مستندات Word المحمية بكلمة مرور إلى Excel باستخدام GroupDocs لـ .NET
 
 ## مقدمة

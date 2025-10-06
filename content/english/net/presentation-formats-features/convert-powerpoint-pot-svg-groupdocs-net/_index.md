@@ -8,10 +8,8 @@ keywords:
 - convert PowerPoint templates to SVG
 - GroupDocs.Conversion for .NET
 - POT to SVG conversion
-
+type: docs
 ---
-
-
 # Convert PowerPoint Templates (.pot) to SVG with GroupDocs.Conversion for .NET
 ## Introduction
 Are you looking for an efficient way to transform PowerPoint templates into scalable vector graphics? Whether you're a developer aiming to enhance document processing or need to convert POT files for web compatibility, this tutorial will guide you through the process using GroupDocs.Conversion for .NET. By following these steps, you can streamline your workflow and produce high-quality SVG outputs from PowerPoint templates.

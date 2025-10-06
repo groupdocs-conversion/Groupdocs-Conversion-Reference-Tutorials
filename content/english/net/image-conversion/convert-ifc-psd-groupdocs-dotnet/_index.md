@@ -8,10 +8,8 @@ keywords:
 - Convert IFC to PSD
 - GroupDocs.Conversion for .NET
 - Image Conversion in .NET
-
+type: docs
 ---
-
-
 # Convert IFC Files to PSD with GroupDocs.Conversion for .NET
 
 ## Introduction

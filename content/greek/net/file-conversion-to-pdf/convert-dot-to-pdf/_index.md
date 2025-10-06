@@ -5,8 +5,8 @@
 "title": "Μετατροπή προτύπων DOT Word σε PDF"
 "url": "/el/net/file-conversion-to-pdf/convert-dot-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # Μετατροπή προτύπων DOT Word σε PDF
 
 ## Εισαγωγή

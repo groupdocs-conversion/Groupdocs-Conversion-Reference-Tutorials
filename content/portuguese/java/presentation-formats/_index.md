@@ -3,8 +3,8 @@
 "title": "Tutoriais de conversão de formatos de apresentação para GroupDocs.Conversion Java"
 "url": "/pt/java/presentation-formats/"
 "weight": 7
+type: docs
 ---
-
 # Tutoriais de conversão de formatos de apresentação para GroupDocs.Conversion Java
 
 Nossos tutoriais de conversão de apresentações mostram como transformar arquivos de apresentação usando o GroupDocs.Conversion em Java. Estes guias práticos abordam a conversão de formatos do PowerPoint, a manutenção de animações e transições, a preservação de notas do orador, o manuseio de mídia incorporada e a garantia da consistência do layout durante a conversão. Cada tutorial inclui exemplos detalhados de código Java para cenários comuns de conversão de apresentações, ajudando você a criar aplicativos que produzem conversões de alta qualidade com elementos visuais preservados e recursos interativos.

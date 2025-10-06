@@ -4,8 +4,8 @@
 "title": "SVGZ konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/pdf-conversion/svgz-to-pdf-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # SVGZ konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével: Átfogó útmutató
 
 ## Bevezetés

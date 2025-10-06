@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将文档转换为 PDF 流——综合指南"
 "url": "/zh/net/pdf-conversion/convert-documents-pdf-streams-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将文档转换为 PDF 流：综合指南
 
 ## 介绍

@@ -5,8 +5,8 @@
 "title": "Chuyển đổi TXT sang PDF"
 "url": "/vi/net/file-format-conversion-tutorials/convert-txt-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Chuyển đổi TXT sang PDF
 
 ## Giới thiệu

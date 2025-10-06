@@ -4,8 +4,8 @@
 "title": "Cómo convertir PNG a DOCX con GroupDocs.Conversion .NET&#58; guía paso a paso"
 "url": "/es/net/word-processing-conversion/convert-png-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir PNG a DOCX con GroupDocs.Conversion .NET
 
 En la era digital actual, convertir archivos de un formato a otro es una tarea común. Ya sea que prepare documentos para presentaciones o archive imágenes en formatos de texto, convertir archivos PNG a DOCX sin problemas puede ahorrarle tiempo y esfuerzo. Esta guía le mostrará cómo usar la potente biblioteca GroupDocs.Conversion de .NET de forma eficiente.

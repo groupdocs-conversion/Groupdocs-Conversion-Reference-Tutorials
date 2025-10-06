@@ -8,10 +8,8 @@ keywords:
 - convert XLSX to TeX
 - GroupDocs.Conversion for .NET
 - Excel to LaTeX conversion
-
+type: docs
 ---
-
-
 # Convert XLSX to TeX Using GroupDocs.Conversion for .NET
 
 ## Introduction

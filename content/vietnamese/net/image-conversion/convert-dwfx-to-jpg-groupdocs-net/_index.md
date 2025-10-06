@@ -4,8 +4,8 @@
 "title": "Chuyển đổi DWFX sang JPG trong .NET bằng GroupDocs.Conversion&#58; Hướng dẫn từng bước"
 "url": "/vi/net/image-conversion/convert-dwfx-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp DWFX sang JPG bằng GroupDocs.Conversion cho .NET: Hướng dẫn từng bước
 
 ## Giới thiệu

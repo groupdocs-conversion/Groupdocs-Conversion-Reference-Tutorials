@@ -4,8 +4,8 @@
 "title": "Chuyển đổi DOCX sang PDF trong .NET bằng GroupDocs.Conversion&#58; Hướng dẫn đầy đủ"
 "url": "/vi/net/pdf-conversion-features/convert-docx-to-pdf-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi DOCX sang PDF trong .NET bằng GroupDocs.Conversion: Hướng dẫn đầy đủ
 
 ## Giới thiệu

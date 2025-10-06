@@ -5,8 +5,8 @@
 "title": "Převod obrázků GIF do PDF"
 "url": "/cs/net/convert-files-to-pdf/convert-gif-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # Převod obrázků GIF do PDF
 
 ## Zavedení

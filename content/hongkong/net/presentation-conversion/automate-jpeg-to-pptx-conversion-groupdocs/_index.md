@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中自動將 JPEG 轉換為 PPTX —— 綜合指南"
 "url": "/zh-hant/net/presentation-conversion/automate-jpeg-to-pptx-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 .NET 中自動將 JPEG 轉換為 PPTX
 
 您是否希望簡化將 JPEG 影像轉換為 PowerPoint 簡報的流程？對於希望提升工作流程的企業來說，自動化此任務至關重要。無論是創建視覺上引人入勝的演示文稿，還是簡化數據共享，將 JPEG 轉換為 PPTX 都是一項常見的需求，需要可靠的解決方案。輸入 **GroupDocs.Conversion for .NET**—一個旨在簡化您的生活的強大的圖書館。

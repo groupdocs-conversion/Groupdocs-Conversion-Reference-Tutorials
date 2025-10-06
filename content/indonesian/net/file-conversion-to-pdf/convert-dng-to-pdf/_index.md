@@ -5,8 +5,8 @@
 "title": "Konversi Gambar DNG ke PDF"
 "url": "/id/net/file-conversion-to-pdf/convert-dng-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # Konversi Gambar DNG ke PDF
 
 ## Perkenalan

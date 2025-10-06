@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie PDF in HTML mit GroupDocs.Conversion .NET – Eine Schritt-für-Schritt-Anleitung"
 "url": "/de/net/web-markup-formats/convert-pdf-to-html-groupdocs-conversion-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie PDF in HTML mit GroupDocs.Conversion .NET: Eine Schritt-für-Schritt-Anleitung
 
 ## Einführung

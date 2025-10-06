@@ -4,8 +4,8 @@
 "title": "تحويل PostScript (PS) إلى Excel (XLS) باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/spreadsheet-conversion/convert-ps-to-xls-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # تحويل PostScript (PS) إلى Excel (XLS) باستخدام GroupDocs.Conversion لـ .NET: دليل شامل
 
 ## مقدمة

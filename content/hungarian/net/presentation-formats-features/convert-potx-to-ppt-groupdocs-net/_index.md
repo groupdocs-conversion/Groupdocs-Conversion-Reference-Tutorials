@@ -4,8 +4,8 @@
 "title": "POTX hatékony konvertálása PPT-vé a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/presentation-formats-features/convert-potx-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # POTX hatékony konvertálása PPT-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

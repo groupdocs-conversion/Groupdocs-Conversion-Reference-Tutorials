@@ -5,8 +5,8 @@
 "title": "Converti i modelli Word DOTM (macro) in PDF"
 "url": "/it/net/file-conversion-to-pdf/convert-dotm-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Converti i modelli Word DOTM (macro) in PDF
 
 ## Introduzione

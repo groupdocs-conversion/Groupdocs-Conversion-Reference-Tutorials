@@ -8,10 +8,8 @@ keywords:
 - convert log files to xls
 - GroupDocs.Conversion .NET
 - log file conversion
-
+type: docs
 ---
-
-
 # Convert LOG Files to XLS Using GroupDocs.Conversion for .NET
 
 ## Introduction

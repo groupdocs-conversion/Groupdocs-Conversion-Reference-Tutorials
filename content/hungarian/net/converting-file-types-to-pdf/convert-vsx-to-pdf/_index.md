@@ -5,8 +5,8 @@
 "title": "VSX konvertálása PDF-be"
 "url": "/hu/net/converting-file-types-to-pdf/convert-vsx-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # VSX konvertálása PDF-be
 
 ## Bevezetés

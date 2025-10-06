@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用した .NET での効率的な PowerPoint からテキストへの変換"
 "url": "/ja/net/text-markup-conversion/powerpoint-to-text-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion を使用した .NET での効率的な PowerPoint からテキストへの変換
 ## GroupDocs.Conversion for .NET による PowerPoint からテキストへの変換をマスターする: 総合ガイド
 ### 導入

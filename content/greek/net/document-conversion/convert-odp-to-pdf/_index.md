@@ -5,8 +5,8 @@
 "title": "Μετατροπή ODP σε PDF"
 "url": "/el/net/document-conversion/convert-odp-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # Μετατροπή ODP σε PDF
 
 ## Εισαγωγή

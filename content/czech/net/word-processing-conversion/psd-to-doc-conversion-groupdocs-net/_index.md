@@ -4,8 +4,8 @@
 "title": "Jak převést PSD do DOC pomocí GroupDocs.Conversion pro .NET – podrobný návod"
 "url": "/cs/net/word-processing-conversion/psd-to-doc-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést PSD do DOC pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

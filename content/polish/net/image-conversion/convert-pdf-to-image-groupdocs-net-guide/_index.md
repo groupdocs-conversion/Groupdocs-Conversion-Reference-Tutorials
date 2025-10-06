@@ -4,8 +4,8 @@
 "title": "Konwersja PDF do obrazu za pomocą GroupDocs.Conversion .NET&#58; Kompleksowy przewodnik"
 "url": "/pl/net/image-conversion/convert-pdf-to-image-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja PDF do obrazu za pomocą GroupDocs.Conversion .NET: kompleksowy przewodnik
 
 ## Wstęp

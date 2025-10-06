@@ -4,8 +4,8 @@
 "title": "تحويل XLT إلى XLS باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/spreadsheet-formats-features/convert-xlt-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل XLT إلى XLS باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

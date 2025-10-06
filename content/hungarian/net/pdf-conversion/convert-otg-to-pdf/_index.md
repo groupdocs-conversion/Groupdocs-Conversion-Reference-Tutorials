@@ -5,8 +5,8 @@
 "title": "OTG konvertálása PDF-be"
 "url": "/hu/net/pdf-conversion/convert-otg-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # OTG konvertálása PDF-be
 
 ## Bevezetés

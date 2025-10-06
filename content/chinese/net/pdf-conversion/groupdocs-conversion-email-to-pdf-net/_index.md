@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将电子邮件转换为 PDF — 分步指南"
 "url": "/zh/net/pdf-conversion/groupdocs-conversion-email-to-pdf-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将电子邮件转换为 PDF：分步指南
 
 ## 介绍

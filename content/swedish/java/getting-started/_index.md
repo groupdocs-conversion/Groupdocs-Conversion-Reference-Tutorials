@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Komma igång-handledningar för Java-utvecklare"
 "url": "/sv/java/getting-started/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Komma igång-handledningar för Java-utvecklare
 
 Börja din resa med dessa viktiga GroupDocs.Conversion-handledningar som guidar dig genom installation, licenskonfiguration och hur du utför dina första dokumentkonverteringar i Java. Våra nybörjarvänliga guider visar hur du konfigurerar din utvecklingsmiljö, initierar GroupDocs.Conversion-biblioteket och utför grundläggande konverteringsåtgärder. Följ dessa handledningar för att snabbt behärska grunderna och förbereda dig för mer avancerade dokumentkonverteringsuppgifter i dina Java-applikationer.

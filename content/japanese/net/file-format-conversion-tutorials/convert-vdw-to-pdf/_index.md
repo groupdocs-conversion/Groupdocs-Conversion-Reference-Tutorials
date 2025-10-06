@@ -5,8 +5,8 @@
 "title": "VDWをPDFに変換する"
 "url": "/ja/net/file-format-conversion-tutorials/convert-vdw-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # VDWをPDFに変換する
 
 ## 導入

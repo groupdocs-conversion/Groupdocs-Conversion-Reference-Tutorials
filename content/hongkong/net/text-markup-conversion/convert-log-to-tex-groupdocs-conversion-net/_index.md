@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 LOG 檔案轉換為 TEX 格式 — 逐步指南"
 "url": "/zh-hant/net/text-markup-conversion/convert-log-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 載入和轉換日誌文件
 
 ## 介紹

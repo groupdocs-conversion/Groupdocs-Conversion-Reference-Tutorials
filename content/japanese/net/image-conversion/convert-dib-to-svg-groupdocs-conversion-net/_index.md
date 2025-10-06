@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して DIB を SVG に効率的に変換する"
 "url": "/ja/net/image-conversion/convert-dib-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して DIB を SVG に効率的に変換する
 
 ## 導入

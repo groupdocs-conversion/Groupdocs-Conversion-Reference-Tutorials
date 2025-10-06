@@ -4,8 +4,8 @@
 "title": "Μετατροπή ODP σε JPG χρησιμοποιώντας το GroupDocs.Conversion for .NET™ Ένας πλήρης οδηγός"
 "url": "/el/net/image-conversion/convert-odp-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή αρχείων ODP σε JPG χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

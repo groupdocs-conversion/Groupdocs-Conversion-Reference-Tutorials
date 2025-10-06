@@ -4,8 +4,8 @@
 "title": "Převod DOTX do DOCX pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/word-processing-formats-features/convert-dotx-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod DOTX do DOCX pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

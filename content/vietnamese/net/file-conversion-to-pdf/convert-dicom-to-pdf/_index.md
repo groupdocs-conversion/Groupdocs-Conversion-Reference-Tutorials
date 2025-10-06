@@ -5,8 +5,8 @@
 "title": "Chuyển đổi hình ảnh y tế DICOM sang PDF"
 "url": "/vi/net/file-conversion-to-pdf/convert-dicom-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # Chuyển đổi hình ảnh y tế DICOM sang PDF
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi mẫu bản vẽ Visio (.vst) sang SVG bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/image-formats-features/convert-visio-vst-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi mẫu bản vẽ Visio (.vst) sang SVG bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

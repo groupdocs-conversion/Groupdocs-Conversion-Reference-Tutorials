@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak IFC Dosyalarını PNG'ye Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/cad-technical-drawing-formats/convert-ifc-files-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak IFC Dosyaları PNG'ye Nasıl Dönüştürülür
 
 ## giriiş

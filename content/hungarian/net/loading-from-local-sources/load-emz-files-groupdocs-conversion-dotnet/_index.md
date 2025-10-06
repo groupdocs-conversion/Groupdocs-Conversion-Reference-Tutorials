@@ -4,8 +4,8 @@
 "title": "EMZ fájlok betöltése a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/loading-from-local-sources/load-emz-files-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # EMZ fájlok betöltése a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

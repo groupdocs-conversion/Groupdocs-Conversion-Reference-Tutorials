@@ -4,8 +4,8 @@
 "title": "DWT を XLS に効率的に変換する - GroupDocs.Conversion for .NET を使用した包括的なガイド"
 "url": "/ja/net/spreadsheet-conversion/groupdocs-conversion-net-dwt-to-xls/"
 "weight": 1
+type: docs
 ---
-
 # DWT を XLS に効率的に変換する: GroupDocs.Conversion for .NET を使用した包括的なガイド
 
 ## 導入

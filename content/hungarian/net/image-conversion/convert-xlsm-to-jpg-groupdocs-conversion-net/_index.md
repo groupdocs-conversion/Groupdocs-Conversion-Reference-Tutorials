@@ -4,8 +4,8 @@
 "title": "XLSM JPG-vé konvertálása – lépésről lépésre útmutató a GroupDocs.Conversion .NET használatával"
 "url": "/hu/net/image-conversion/convert-xlsm-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # XLSM JPG-vé konvertálása a GroupDocs.Conversion .NET segítségével
 ## Bevezetés
 Szeretnéd zökkenőmentesen konvertálni Excel makróidat (XLSM) vizuális pillanatképekké képek formájában? Az XLSM fájlok JPG formátumba konvertálása kulcsfontosságú lehet az adatok nem Excel felhasználókkal való megosztásához, vagy a táblázatok prezentációkba és dokumentumokba integrálásához. Ez az oktatóanyag végigvezet a GroupDocs.Conversion .NET használatán, amely egy robusztus könyvtár, amely leegyszerűsíti ezt a konvertálási folyamatot.

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して PPTM を PPT に変換する包括的なガイド"
 "url": "/ja/net/presentation-conversion/convert-pptm-to-ppt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して PPTM を PPT に変換する: 包括的なガイド
 
 ビジネスの世界では、PowerPointプレゼンテーションは欠かせないツールです。しかし、誰もが最新のMicrosoft Officeを利用できるわけではないため、PPTM（マクロ付きのPowerPointファイル）からPPT（旧形式のPowerPointファイル）への変換が必要になります。このガイドでは、GroupDocs.Conversion for .NETを使用してPPTMファイルをPPT形式にシームレスに変換する方法を解説します。

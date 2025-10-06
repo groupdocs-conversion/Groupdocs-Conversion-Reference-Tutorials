@@ -5,8 +5,8 @@
 "title": "TSV'yi PDF'ye dönüştür"
 "url": "/tr/net/file-format-conversion-tutorials/convert-tsv-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # TSV'yi PDF'ye dönüştür
 
 ## giriiş

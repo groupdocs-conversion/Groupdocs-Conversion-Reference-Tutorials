@@ -4,8 +4,8 @@
 "title": "Jak przekonwertować pokaz slajdów programu PowerPoint (.PPSM) do pliku CSV przy użyciu GroupDocs.Conversion dla platformy .NET"
 "url": "/pl/net/spreadsheet-formats-features/convert-ppsm-to-csv-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak przekonwertować pokaz slajdów programu PowerPoint (.PPSM) do pliku CSV przy użyciu GroupDocs.Conversion dla platformy .NET
 
 ## Wstęp

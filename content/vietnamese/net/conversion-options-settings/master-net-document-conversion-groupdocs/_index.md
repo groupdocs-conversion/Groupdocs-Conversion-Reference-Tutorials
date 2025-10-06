@@ -4,8 +4,8 @@
 "title": ".NET Document Conversion Mastery&#58; Sử dụng GroupDocs để chuyển đổi PDF liền mạch"
 "url": "/vi/net/conversion-options-settings/master-net-document-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Làm chủ việc chuyển đổi tài liệu trong .NET với GroupDocs.Conversion
 
 ## Giới thiệu

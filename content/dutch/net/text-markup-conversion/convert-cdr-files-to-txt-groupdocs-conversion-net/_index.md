@@ -4,8 +4,8 @@
 "title": "Hoe u CDR-bestanden naar TXT converteert met GroupDocs.Conversion voor .NET&#58; een complete handleiding"
 "url": "/nl/net/text-markup-conversion/convert-cdr-files-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # CDR-bestanden naar TXT converteren met GroupDocs.Conversion voor .NET: een complete handleiding
 
 ## Invoering

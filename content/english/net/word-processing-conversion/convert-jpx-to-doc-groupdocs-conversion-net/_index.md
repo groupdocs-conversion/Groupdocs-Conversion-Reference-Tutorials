@@ -8,10 +8,8 @@ keywords:
 - convert JPX to DOC
 - GroupDocs.Conversion .NET
 - JPEG 2000 conversion
-
+type: docs
 ---
-
-
 # Convert JPX to DOC with GroupDocs.Conversion for .NET: A Complete Guide
 
 ## Introduction

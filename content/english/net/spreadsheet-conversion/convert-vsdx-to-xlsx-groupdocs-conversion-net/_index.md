@@ -8,10 +8,8 @@ keywords:
 - Convert VSD to XLSX
 - GroupDocs.Conversion for .NET
 - File conversion with GroupDocs
-
+type: docs
 ---
-
-
 # How to Convert VSD Files to XLSX Using GroupDocs.Conversion for .NET - A Comprehensive Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Hoe u FODS naar XLSX converteert met GroupDocs.Conversion voor .NET - Stapsgewijze handleiding"
 "url": "/nl/net/spreadsheet-formats-features/convert-fods-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # FODS naar XLSX converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

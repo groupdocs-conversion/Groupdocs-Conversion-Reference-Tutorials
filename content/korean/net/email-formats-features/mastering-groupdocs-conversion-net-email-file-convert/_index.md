@@ -4,8 +4,8 @@
 "title": "이메일 및 파일 변환을 위한 GroupDocs.Conversion .NET 마스터하기&#58; 종합 가이드"
 "url": "/ko/net/email-formats-features/mastering-groupdocs-conversion-net-email-file-convert/"
 "weight": 1
+type: docs
 ---
-
 # 이메일 및 파일 변환을 위한 GroupDocs.Conversion .NET 마스터하기: 종합 가이드
 
 ## 소개

@@ -8,10 +8,8 @@ keywords:
 - convert JLS to HTML
 - GroupDocs.Conversion for .NET
 - file conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert JLS to HTML using GroupDocs.Conversion for .NET
 
 ## Introduction

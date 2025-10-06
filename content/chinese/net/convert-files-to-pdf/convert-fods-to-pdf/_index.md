@@ -5,8 +5,8 @@
 "title": "将 FODS OpenDocument 电子表格转换为 PDF"
 "url": "/zh/net/convert-files-to-pdf/convert-fods-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # 将 FODS OpenDocument 电子表格转换为 PDF
 
 ## 介绍

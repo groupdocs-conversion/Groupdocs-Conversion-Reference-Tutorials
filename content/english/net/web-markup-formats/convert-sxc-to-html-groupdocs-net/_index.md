@@ -8,10 +8,8 @@ keywords:
 - Convert SXC to HTML
 - GroupDocs.Conversion for .NET
 - .NET file conversion
-
+type: docs
 ---
-
-
 # Convert SXC Files to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

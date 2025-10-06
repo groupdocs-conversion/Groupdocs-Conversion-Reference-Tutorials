@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 的 HTML 轉換教學"
 "url": "/zh-hant/net/html-conversion/"
 "weight": 26
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 的 HTML 轉換教學
 
 我們的 HTML 轉換教學示範如何將文件轉換為適用於 Web 的 HTML 格式。這些詳細的指南涵蓋如何將各種來源格式（包括 Word、PDF、Excel、PowerPoint、圖像、CAD 圖紙、電子郵件等）轉換為 HTML。您將了解特定於 HTML 的轉換選項、如何管理嵌入資源、如何保留文件樣式、如何處理響應式佈局以及如何控制輸出 HTML 結構。每個教學課程都包含完整的 C# 程式碼範例，用於建立高品質的 HTML 文件表示形式，同時保持原始文件的外觀和內容保真度。

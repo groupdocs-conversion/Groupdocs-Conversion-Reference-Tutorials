@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie TXT in XLS mithilfe der Schritt-für-Schritt-Anleitung von GroupDocs.Conversion für .NET."
 "url": "/de/net/spreadsheet-conversion/groupdocs-conversion-net-txt-to-xls/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie TXT in XLS mit GroupDocs.Conversion für .NET: Schritt-für-Schritt-Anleitung
 
 ## Einführung

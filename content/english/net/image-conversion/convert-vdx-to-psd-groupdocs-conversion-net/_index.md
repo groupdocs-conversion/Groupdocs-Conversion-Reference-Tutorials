@@ -8,10 +8,8 @@ keywords:
 - Convert VDX to PSD
 - GroupDocs.Conversion for .NET
 - file conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert VDX to PSD with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "วิธีการแปลงเอกสาร Word ที่ได้รับการป้องกันด้วยรหัสผ่านเป็นสเปรดชีต Excel โดยใช้ GroupDocs.Conversion สำหรับ Java"
 "url": "/th/java/spreadsheet-formats/convert-password-docs-to-spreadsheets-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการแปลงเอกสารที่ป้องกันด้วยรหัสผ่านโดยใช้ GroupDocs.Conversion สำหรับ Java
 
 ## การแนะนำ

@@ -8,10 +8,8 @@ keywords:
 - WebP to JPG Conversion
 - GroupDocs.Conversion .NET
 - Image Conversion .NET
-
+type: docs
 ---
-
-
 # Mastering Image Conversion: Convert WebP to JPG Using GroupDocs.Conversion in .NET
 
 ## Introduction

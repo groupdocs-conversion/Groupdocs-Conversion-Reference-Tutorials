@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak DGN'yi JPG'ye Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/image-conversion/convert-dgn-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanarak DGN'yi JPG'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

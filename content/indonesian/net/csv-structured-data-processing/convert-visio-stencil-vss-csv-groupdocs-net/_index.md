@@ -4,8 +4,8 @@
 "title": "Mengonversi Visio Stencil (.vss) ke CSV Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Langkah demi Langkah"
 "url": "/id/net/csv-structured-data-processing/convert-visio-stencil-vss-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Mengonversi Visio Stencil (.vss) ke CSV Menggunakan GroupDocs.Conversion untuk .NET: Panduan Langkah demi Langkah
 
 ## Perkenalan

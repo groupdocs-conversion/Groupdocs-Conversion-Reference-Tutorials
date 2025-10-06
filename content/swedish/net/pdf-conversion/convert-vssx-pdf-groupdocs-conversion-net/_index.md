@@ -4,8 +4,8 @@
 "title": "Omfattande guide till att konvertera VSSX till PDF med GroupDocs.Conversion för .NET i C#"
 "url": "/sv/net/pdf-conversion/convert-vssx-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Omfattande guide: Konvertera VSSX till PDF med GroupDocs.Conversion för .NET i C#
 
 ## Introduktion

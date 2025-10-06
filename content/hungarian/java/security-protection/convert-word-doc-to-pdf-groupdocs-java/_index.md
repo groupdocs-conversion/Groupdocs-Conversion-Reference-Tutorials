@@ -4,8 +4,8 @@
 "title": "Jelszóval védett Word-dokumentumok konvertálása PDF-fájlokká a GroupDocs.Conversion for Java segítségével"
 "url": "/hu/java/security-protection/convert-word-doc-to-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Jelszóval védett Word-dokumentumok konvertálása PDF-be a GroupDocs segítségével Java-ban
 A mai digitális korban a biztonságos dokumentumkezelés elengedhetetlen, különösen a jelszóval védett fájlokban tárolt érzékeny információk kezelésekor. Ez az útmutató bemutatja, hogyan konvertálhatja ezeket a dokumentumokat univerzálisan hozzáférhető PDF formátumba, miközben megőrizheti biztonsági funkcióikat a következők használatával: **GroupDocs.Conversion Java-hoz**.
 

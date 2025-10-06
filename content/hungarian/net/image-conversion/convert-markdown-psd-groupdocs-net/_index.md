@@ -4,8 +4,8 @@
 "title": "Markdown fájlok PSD formátumba konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/convert-markdown-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Markdown fájlok PSD formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

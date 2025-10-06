@@ -4,8 +4,8 @@
 "title": "Etkili DOCX'ten PSD'ye Dönüştürme&#58; Görüntü Dönüşümü için GroupDocs.Conversion .NET Kullanımı"
 "url": "/tr/net/image-conversion/convert-docx-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET ile Verimli DOCX'ten PSD'ye Dönüştürme
 
 ## giriiş

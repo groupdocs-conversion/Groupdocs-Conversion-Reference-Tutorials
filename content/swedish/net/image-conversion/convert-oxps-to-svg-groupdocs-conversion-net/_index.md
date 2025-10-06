@@ -4,8 +4,8 @@
 "title": "Konvertera OXPS till SVG effektivt med GroupDocs.Conversion för .NET | En steg-för-steg-guide"
 "url": "/sv/net/image-conversion/convert-oxps-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera OXPS till SVG effektivt med GroupDocs.Conversion för .NET: En steg-för-steg-guide
 
 ## Introduktion

@@ -9,10 +9,8 @@ keywords:
 - GroupDocs.Conversion for .NET
 - document conversion in C#
 - XLS to PDF guide
-
+type: docs
 ---
-
-
 # How to Convert XLS Files to PDF with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

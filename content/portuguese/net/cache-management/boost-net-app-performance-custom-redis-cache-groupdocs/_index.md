@@ -4,8 +4,8 @@
 "title": "Aumente o desempenho de aplicativos .NET&#58; implementando o cache Redis personalizado com GroupDocs.Conversion"
 "url": "/pt/net/cache-management/boost-net-app-performance-custom-redis-cache-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Aumente o desempenho do seu aplicativo .NET com cache Redis personalizado usando GroupDocs.Conversion
 
 ## Introdução

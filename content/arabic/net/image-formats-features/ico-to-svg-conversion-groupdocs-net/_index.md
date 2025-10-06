@@ -4,8 +4,8 @@
 "title": "تحويل ICO إلى SVG بكفاءة باستخدام GroupDocs.Conversion لـ .NET - دليل المطور"
 "url": "/ar/net/image-formats-features/ico-to-svg-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ICO إلى SVG بكفاءة باستخدام GroupDocs.Conversion لـ .NET: دليل المطور
 
 ## مقدمة

@@ -4,8 +4,8 @@
 "title": "Как конвертировать файлы DWF в TXT с помощью GroupDocs.Conversion для .NET (пошаговое руководство)"
 "url": "/ru/net/cad-technical-drawing-formats/convert-dwf-to-txt-using-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Как конвертировать файлы DWF в TXT с помощью GroupDocs.Conversion для .NET
 
 ## Введение

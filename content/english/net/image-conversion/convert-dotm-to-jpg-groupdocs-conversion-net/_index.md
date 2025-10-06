@@ -8,10 +8,8 @@ keywords:
 - convert DOTM to JPG
 - GroupDocs.Conversion for .NET
 - document conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert DOTM to JPG Using GroupDocs.Conversion for .NET
 
 ## Introduction

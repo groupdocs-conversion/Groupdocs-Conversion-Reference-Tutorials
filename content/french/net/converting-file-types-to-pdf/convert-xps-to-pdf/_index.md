@@ -5,8 +5,8 @@
 "title": "Convertir XPS en PDF"
 "url": "/fr/net/converting-file-types-to-pdf/convert-xps-to-pdf/"
 "weight": 30
+type: docs
 ---
-
 # Convertir XPS en PDF
 
 

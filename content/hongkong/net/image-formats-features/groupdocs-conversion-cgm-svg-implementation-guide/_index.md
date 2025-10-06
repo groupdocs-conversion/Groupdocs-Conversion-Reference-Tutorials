@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 將 CGM 檔案轉換為 SVG——逐步指南"
 "url": "/zh-hant/net/image-formats-features/groupdocs-conversion-cgm-svg-implementation-guide/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將 CGM 檔案轉換為 SVG：逐步指南
 
 ## 介紹

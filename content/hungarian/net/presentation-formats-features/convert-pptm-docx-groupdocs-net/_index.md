@@ -4,8 +4,8 @@
 "title": "PowerPoint (PPTM) fájlok hatékony konvertálása Word (DOCX) fájlokká a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/presentation-formats-features/convert-pptm-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PowerPoint (PPTM) fájlok hatékony konvertálása Word (DOCX) fájlokká a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tệp PPTX thành thạo với GroupDocs.Conversion cho các giải pháp .NET dễ dàng và hiệu quả"
 "url": "/vi/net/presentation-formats-features/master-file-conversion-groupdocs-pptx/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp PPTX thành thạo với GroupDocs.Conversion cho .NET: Giải pháp dễ dàng và hiệu quả
 
 ## Giới thiệu

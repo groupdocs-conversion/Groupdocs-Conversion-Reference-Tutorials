@@ -4,8 +4,8 @@
 "title": "GroupDocs による .NET でのテキストからプレゼンテーションへの変換をマスターする包括的なガイド"
 "url": "/ja/net/presentation-conversion/groupdocs-net-text-ppt-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # .NET の GroupDocs を使用してテキストからプレゼンテーションへの変換をマスターする
 
 ## 導入

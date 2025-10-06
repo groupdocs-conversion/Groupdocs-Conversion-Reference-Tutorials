@@ -8,10 +8,8 @@ keywords:
 - DIB to JPG conversion
 - GroupDocs.Conversion for .NET
 - Image format conversion
-
+type: docs
 ---
-
-
 # Convert DIB to JPG with GroupDocs.Conversion for .NET
 
 ## Introduction

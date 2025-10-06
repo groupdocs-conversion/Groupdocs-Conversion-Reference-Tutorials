@@ -4,8 +4,8 @@
 "title": "Como converter documentos do Word em PDFs no .NET usando GroupDocs.Conversion"
 "url": "/pt/net/pdf-conversion-features/convert-word-doc-to-pdf-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Como converter documentos do Word em PDFs no .NET usando GroupDocs.Conversion
 
 ## Introdução

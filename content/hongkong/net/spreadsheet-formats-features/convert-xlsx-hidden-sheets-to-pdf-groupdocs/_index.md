@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 將帶有隱藏工作表的 XLSX 檔案轉換為 PDF"
 "url": "/zh-hant/net/spreadsheet-formats-features/convert-xlsx-hidden-sheets-to-pdf-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將帶有隱藏工作表的 XLSX 檔案轉換為 PDF
 
 ## 介紹

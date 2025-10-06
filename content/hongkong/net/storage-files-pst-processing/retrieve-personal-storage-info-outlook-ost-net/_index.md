@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 從 Outlook OST 檔案中擷取個人儲存資訊"
 "url": "/zh-hant/net/storage-files-pst-processing/retrieve-personal-storage-info-outlook-ost-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 從 Outlook OST 檔案中擷取個人儲存資訊
 
 ## 介紹

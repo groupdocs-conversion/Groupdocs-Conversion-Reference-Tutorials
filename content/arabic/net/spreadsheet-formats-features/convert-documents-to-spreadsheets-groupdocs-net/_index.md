@@ -4,8 +4,8 @@
 "title": "تحويل فعّال من مستند إلى جدول بيانات باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/spreadsheet-formats-features/convert-documents-to-spreadsheets-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل فعّال من مستند إلى جدول بيانات باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

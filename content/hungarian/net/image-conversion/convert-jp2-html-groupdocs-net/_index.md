@@ -4,8 +4,8 @@
 "title": "JP2 konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-jp2-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # JP2 konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

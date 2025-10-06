@@ -5,8 +5,8 @@
 "title": "Konwertuj arkusze kalkulacyjne FODS OpenDocument do formatu PDF"
 "url": "/pl/net/convert-files-to-pdf/convert-fods-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Konwertuj arkusze kalkulacyjne FODS OpenDocument do formatu PDF
 
 ## Wstęp

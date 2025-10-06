@@ -4,8 +4,8 @@
 "title": "Converter Word em PDF com substituição de fonte usando GroupDocs.Conversion para .NET"
 "url": "/pt/net/font-handling-substitution/convert-word-to-pdf-font-substitution-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Converta documentos do Word em PDF com substituição de fonte usando GroupDocs.Conversion para .NET
 ## Introdução
 conversão de documentos do Word em PDFs frequentemente resulta em fontes inconsistentes, resultando em problemas de formatação. Este guia simplifica a garantia da consistência das fontes usando o GroupDocs.Conversion para .NET. Aprenda a configurar opções de carregamento para substituição de fontes e converter seus documentos do Word para o formato PDF sem problemas, mantendo a fidelidade visual.

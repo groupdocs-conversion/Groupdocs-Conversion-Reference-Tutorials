@@ -4,8 +4,8 @@
 "title": "Jak konwertować obrazy JPEG Lossless (JLS) do dokumentów Word (.doc) przy użyciu GroupDocs.Conversion dla .NET"
 "url": "/pl/net/word-processing-formats-features/convert-jls-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak przekonwertować JLS na DOC za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

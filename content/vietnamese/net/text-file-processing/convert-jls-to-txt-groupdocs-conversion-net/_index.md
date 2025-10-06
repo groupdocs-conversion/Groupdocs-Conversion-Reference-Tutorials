@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tệp JLS sang TXT dễ dàng bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/text-file-processing/convert-jls-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi JLS sang TXT bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

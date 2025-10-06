@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie Tabellenkalkulationen nahtlos in PDFs mit GroupDocs.Conversion in .NET"
 "url": "/de/net/pdf-conversion/convert-spreadsheets-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie Tabellenkalkulationen nahtlos in PDFs mit GroupDocs.Conversion in .NET
 
 ## Einführung

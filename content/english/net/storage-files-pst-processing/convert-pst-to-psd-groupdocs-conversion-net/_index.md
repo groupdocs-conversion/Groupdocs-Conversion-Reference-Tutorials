@@ -8,10 +8,8 @@ keywords:
 - convert PST to PSD
 - GroupDocs.Conversion .NET
 - PST file conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert PST to PSD with GroupDocs.Conversion .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Converteer Word naar Excel&#58; eenvoudige handleiding met GroupDocs.Conversion Java API"
 "url": "/nl/java/word-processing-formats/convert-word-to-excel-groupdocs-java-guide/"
 "weight": 1
+type: docs
 ---
-
 # Word naar Excel converteren met GroupDocs.Conversion Java: een uitgebreide handleiding
 
 ## Invoering

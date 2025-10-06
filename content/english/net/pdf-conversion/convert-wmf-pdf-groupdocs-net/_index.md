@@ -8,10 +8,8 @@ keywords:
 - convert WMF to PDF
 - GroupDocs.Conversion for .NET
 - .NET file conversion
-
+type: docs
 ---
-
-
 # Convert WMF Files to PDF with Ease Using GroupDocs.Conversion for .NET
 
 ## Introduction

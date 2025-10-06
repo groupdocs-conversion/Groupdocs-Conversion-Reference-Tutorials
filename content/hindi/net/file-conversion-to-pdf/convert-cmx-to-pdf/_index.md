@@ -5,8 +5,8 @@
 "title": "CMX को PDF में बदलें"
 "url": "/hi/net/file-conversion-to-pdf/convert-cmx-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # CMX को PDF में बदलें
 
 ## परिचय

@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion for Java를 사용한 문서 변환 작업 튜토리얼"
 "url": "/ko/java/document-operations/"
 "weight": 2
+type: docs
 ---
-
 # GroupDocs.Conversion for Java를 사용한 문서 변환 작업 튜토리얼
 
 문서 작업 튜토리얼은 Java에서 다양한 형식 간의 문서 변환에 대한 포괄적인 지침을 제공합니다. 이 단계별 가이드를 따라 PDF, DOCX, XLSX, PPTX, HTML 등 널리 사용되는 형식으로 문서를 변환하는 방법을 알아보세요. 이 실용적인 튜토리얼에는 다양한 변환 시나리오에 대한 완전한 코드 예제가 포함되어 있어 Java 애플리케이션에서 강력한 문서 변환 기능을 구축하는 데 도움이 됩니다.

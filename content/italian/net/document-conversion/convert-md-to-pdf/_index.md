@@ -5,8 +5,8 @@
 "title": "Converti MD in PDF"
 "url": "/it/net/document-conversion/convert-md-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # Converti MD in PDF
 
 ## Introduzione

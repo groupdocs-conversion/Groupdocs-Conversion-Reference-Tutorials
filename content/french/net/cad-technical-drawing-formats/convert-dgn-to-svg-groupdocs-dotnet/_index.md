@@ -4,8 +4,8 @@
 "title": "Convertir DGN en SVG à l'aide de GroupDocs.Conversion pour .NET - Un guide complet"
 "url": "/fr/net/cad-technical-drawing-formats/convert-dgn-to-svg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertir DGN en SVG avec GroupDocs.Conversion pour .NET
 
 ## Introduction

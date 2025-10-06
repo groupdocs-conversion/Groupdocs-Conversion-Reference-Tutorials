@@ -4,8 +4,8 @@
 "title": "Convertir facilement des fichiers DOCX en JPG &#58; un guide complet sur GroupDocs.Conversion pour .NET"
 "url": "/fr/net/image-conversion/convert-docx-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir facilement des fichiers DOCX en JPG : guide complet avec GroupDocs.Conversion pour .NET
 
 ## Introduction

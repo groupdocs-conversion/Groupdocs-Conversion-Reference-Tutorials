@@ -8,10 +8,8 @@ keywords:
 - XLT to TEX conversion
 - GroupDocs.Conversion for .NET
 - file format conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert XLT to TEX Using GroupDocs.Conversion for .NET
 
 ## Introduction

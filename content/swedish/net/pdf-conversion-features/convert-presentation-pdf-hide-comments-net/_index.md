@@ -4,8 +4,8 @@
 "title": "Dölj kommentarer i PDF-filen &#53; Konvertera PPT till PDF med GroupDocs.Conversion för .NET"
 "url": "/sv/net/pdf-conversion-features/convert-presentation-pdf-hide-comments-net/"
 "weight": 1
+type: docs
 ---
-
 # Dölj kommentarer i PDF: Konvertera PPT till PDF med GroupDocs.Conversion för .NET
 
 ## Introduktion

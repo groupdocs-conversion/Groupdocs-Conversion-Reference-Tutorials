@@ -4,8 +4,8 @@
 "title": "Jelszóval védett Word-dokumentumok konvertálása Excelbe a GroupDocs for .NET használatával"
 "url": "/hu/net/working-with-secure-documents/convert-password-word-docs-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jelszóval védett Word-dokumentumok konvertálása Excelbe a GroupDocs for .NET segítségével
 
 ## Bevezetés

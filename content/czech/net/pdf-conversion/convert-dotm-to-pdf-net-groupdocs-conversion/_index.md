@@ -4,8 +4,8 @@
 "title": "Převod DOTM do PDF v .NET pomocí GroupDocs.Conversion – Komplexní průvodce"
 "url": "/cs/net/pdf-conversion/convert-dotm-to-pdf-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Převod DOTM do PDF v .NET pomocí GroupDocs.Conversion: Komplexní průvodce
 
 ## Zavedení

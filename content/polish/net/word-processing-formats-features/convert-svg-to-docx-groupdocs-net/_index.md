@@ -4,8 +4,8 @@
 "title": "Konwersja SVG do DOCX przy użyciu GroupDocs.Conversion dla .NET&#58; Kompletny przewodnik"
 "url": "/pl/net/word-processing-formats-features/convert-svg-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja SVG do DOCX przy użyciu GroupDocs.Conversion dla .NET: Kompletny przewodnik
 
 ## Wstęp

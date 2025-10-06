@@ -4,8 +4,8 @@
 "title": "PST fájlok zökkenőmentes konvertálása PDF formátumba a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/storage-files-pst-processing/convert-pst-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Zökkenőmentesen konvertálhatja PST-fájljait PDF-be a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

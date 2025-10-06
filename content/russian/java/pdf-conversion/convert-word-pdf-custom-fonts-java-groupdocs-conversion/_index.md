@@ -4,8 +4,8 @@
 "title": "Преобразование Word в PDF с пользовательскими шрифтами в Java&#58; Полное руководство с использованием GroupDocs.Conversion"
 "url": "/ru/java/pdf-conversion/convert-word-pdf-custom-fonts-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Конвертация документов Word в PDF с пользовательскими шрифтами в Java: полное руководство с использованием GroupDocs.Conversion
 
 ## Введение

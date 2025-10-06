@@ -4,8 +4,8 @@
 "title": "Konversi IGS ke Excel dengan Mudah Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/spreadsheet-formats-features/convert-igs-files-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi File IGS ke Excel Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

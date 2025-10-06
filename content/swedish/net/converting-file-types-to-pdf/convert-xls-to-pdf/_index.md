@@ -5,8 +5,8 @@
 "title": "Konvertera XLS till PDF"
 "url": "/sv/net/converting-file-types-to-pdf/convert-xls-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Konvertera XLS till PDF
 
 ## Introduktion

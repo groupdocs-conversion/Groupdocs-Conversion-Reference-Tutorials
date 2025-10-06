@@ -4,8 +4,8 @@
 "title": "MBOX konvertálása PDF-be a GroupDocs.Conversion for .NET használatával - Átfogó útmutató"
 "url": "/hu/net/pdf-conversion/convert-mbox-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MBOX fájlok PDF-be konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

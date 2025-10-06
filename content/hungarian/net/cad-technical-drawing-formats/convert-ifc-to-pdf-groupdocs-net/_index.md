@@ -4,8 +4,8 @@
 "title": "IFC konvertálása PDF-be a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/cad-technical-drawing-formats/convert-ifc-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # IFC fájlok konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

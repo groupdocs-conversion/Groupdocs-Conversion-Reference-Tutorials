@@ -4,8 +4,8 @@
 "title": "掌握檔案轉換&#58;使用 GroupDocs.Conversion .NET 將 POTX 轉換為 DOCX"
 "url": "/zh-hant/net/word-processing-formats-features/convert-potx-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 掌握檔案轉換：使用 GroupDocs.Conversion .NET 將 POTX 轉換為 DOCX
 
 在當今快節奏的數位世界中，無縫地將文件從一種格式轉換為另一種格式是一項至關重要的技能。無論您是在準備簡報還是跨平台共享文檔，確保相容性都能節省時間並避免麻煩。本教學將引導您使用強大的 GroupDocs.Conversion .NET 程式庫將 POTX（PowerPoint 範本）檔案轉換為 DOCX 格式。您將學習如何輕鬆有效率地處理文件轉換任務。

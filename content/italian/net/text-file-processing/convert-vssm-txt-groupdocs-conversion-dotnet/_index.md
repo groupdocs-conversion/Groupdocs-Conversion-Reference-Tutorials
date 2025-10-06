@@ -4,8 +4,8 @@
 "title": "Guida completa&#58; Convertire VSSM in TXT utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/text-file-processing/convert-vssm-txt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Guida completa: convertire VSSM in TXT utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

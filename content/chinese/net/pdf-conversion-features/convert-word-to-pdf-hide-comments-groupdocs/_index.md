@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将 Word 转换为 PDF 并隐藏注释"
 "url": "/zh/net/pdf-conversion-features/convert-word-to-pdf-hide-comments-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将 Word 文档转换为 PDF 并隐藏注释
 
 ## 介绍

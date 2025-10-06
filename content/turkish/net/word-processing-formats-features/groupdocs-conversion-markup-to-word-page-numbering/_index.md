@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak Sayfa Numaralandırmalı İşaretlemeyi Word'e Dönüştürme"
 "url": "/tr/net/word-processing-formats-features/groupdocs-conversion-markup-to-word-page-numbering/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak Sayfa Numaralandırmalı İşaretlemeyi Word'e Dönüştürme
 ## giriiş
 İşaretleme belgelerini doğru sayfa numaralarını koruyarak profesyonel Word biçimlerine dönüştürmeyi mi düşünüyorsunuz? Bu eğitim, kullanımınızda size rehberlik edecektir. **GroupDocs.Conversion .NET için** Belgelerinizi sorunsuz bir şekilde dönüştürmek için. Bu güçlü kütüphane, dönüştürmeleri basitleştirir ve sayfa numaralandırması gibi temel öğelerin çıktı belgesinde bozulmadan kalmasını sağlar.

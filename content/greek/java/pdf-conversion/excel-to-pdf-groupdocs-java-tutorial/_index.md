@@ -4,8 +4,8 @@
 "title": "Μετατροπή Excel σε PDF χρησιμοποιώντας το GroupDocs.Conversion for Java&#58; Ένα ολοκληρωμένο σεμινάριο"
 "url": "/el/java/pdf-conversion/excel-to-pdf-groupdocs-java-tutorial/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή Excel σε PDF χρησιμοποιώντας το GroupDocs.Conversion για Java: Ένα ολοκληρωμένο σεμινάριο
 
 ## Εισαγωγή

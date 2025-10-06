@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi File VSDX ke LaTeX (TEX) Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/cad-technical-drawing-formats/convert-vsdx-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi File VSDX ke LaTeX (TEX) Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

@@ -4,8 +4,8 @@
 "title": "Konvertera huvudfilsfiler till VST till PPT med GroupDocs.Conversion .NET-biblioteket"
 "url": "/sv/net/presentation-conversion/convert-vst-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertering av huvudfil: Konvertera VST till PPT med GroupDocs.Conversion .NET-biblioteket
 
 ## Introduktion

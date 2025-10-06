@@ -5,8 +5,8 @@
 "title": "SXC를 PDF로 변환"
 "url": "/ko/net/file-format-conversion-tutorials/convert-sxc-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # SXC를 PDF로 변환
 
 ## 소개

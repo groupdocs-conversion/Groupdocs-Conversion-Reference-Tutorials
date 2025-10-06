@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 实现高效的 XML 到 TXT 转换——分步指南"
 "url": "/zh/net/text-markup-conversion/xml-to-txt-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 实现高效的 XML 到 TXT 转换
 
 在当今快节奏的数字环境中，高效转换文档格式的能力至关重要。无论您需要 XML 文件的简单文本表示，还是正在使用旧系统，将 XML 转换为 TXT 都可以简化许多任务。本指南将帮助您使用 **GroupDocs.Conversion for .NET** 将 XML 文件无缝转换为 TXT 格式。

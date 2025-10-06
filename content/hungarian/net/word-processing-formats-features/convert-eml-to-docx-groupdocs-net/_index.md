@@ -4,8 +4,8 @@
 "title": "EML DOCX formátumba konvertálása .NET-ben a GroupDocs.Conversion használatával – Átfogó útmutató"
 "url": "/hu/net/word-processing-formats-features/convert-eml-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # EML DOCX formátumba konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

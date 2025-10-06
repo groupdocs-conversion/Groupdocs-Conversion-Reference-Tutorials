@@ -4,8 +4,8 @@
 "title": "Chuyển đổi XLT sang HTML bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/html-conversion/convert-xlt-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp XLT sang HTML bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

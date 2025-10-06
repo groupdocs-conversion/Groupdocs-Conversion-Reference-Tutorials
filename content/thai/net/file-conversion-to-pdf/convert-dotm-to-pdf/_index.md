@@ -5,8 +5,8 @@
 "title": "แปลงเทมเพลต DOTM Word (มาโคร) เป็น PDF"
 "url": "/th/net/file-conversion-to-pdf/convert-dotm-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # แปลงเทมเพลต DOTM Word (มาโคร) เป็น PDF
 
 ## การแนะนำ

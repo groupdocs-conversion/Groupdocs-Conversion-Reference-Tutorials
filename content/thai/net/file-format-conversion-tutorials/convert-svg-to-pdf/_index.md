@@ -5,8 +5,8 @@
 "title": "แปลง SVG เป็น PDF"
 "url": "/th/net/file-format-conversion-tutorials/convert-svg-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # แปลง SVG เป็น PDF
 
 ## การแนะนำ

@@ -4,8 +4,8 @@
 "title": "XLTM HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/web-markup-formats/convert-xltm-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # XLTM HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

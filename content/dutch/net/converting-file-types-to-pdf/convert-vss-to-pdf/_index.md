@@ -5,8 +5,8 @@
 "title": "VSS naar PDF converteren"
 "url": "/nl/net/converting-file-types-to-pdf/convert-vss-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # VSS naar PDF converteren
 
 ## Invoering

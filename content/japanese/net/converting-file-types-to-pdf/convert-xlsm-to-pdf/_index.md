@@ -5,8 +5,8 @@
 "title": "XLSMをPDFに変換する"
 "url": "/ja/net/converting-file-types-to-pdf/convert-xlsm-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # XLSMをPDFに変換する
 
 ## 導入

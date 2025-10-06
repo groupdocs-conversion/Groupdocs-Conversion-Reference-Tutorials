@@ -8,10 +8,8 @@ keywords:
 - VSX to PPT conversion
 - GroupDocs.Conversion for .NET
 - convert VSX files to PowerPoint
-
+type: docs
 ---
-
-
 # Convert VSX Files to PowerPoint Presentations Using GroupDocs.Conversion for .NET
 
 ## Introduction

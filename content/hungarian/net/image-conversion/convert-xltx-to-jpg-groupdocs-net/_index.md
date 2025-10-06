@@ -4,8 +4,8 @@
 "title": "XLTX konvertálása JPG-vé a GroupDocs.Conversion for .NET használatával - Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-xltx-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # XLTX konvertálása JPG-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

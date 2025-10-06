@@ -8,10 +8,8 @@ keywords:
 - Convert ICO to XLSX
 - GroupDocs.Conversion for .NET
 - .NET file conversion
-
+type: docs
 ---
-
-
 # Convert ICO to XLSX with GroupDocs.Conversion for .NET
 
 ## Introduction

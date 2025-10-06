@@ -8,10 +8,8 @@ keywords:
 - convert HTML to Excel
 - HTML to XLS conversion
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # How to Convert HTML to Excel (XLS) with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

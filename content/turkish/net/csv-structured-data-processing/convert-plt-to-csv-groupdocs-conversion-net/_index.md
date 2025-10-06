@@ -4,8 +4,8 @@
 "title": "PLT'yi .NET için GroupDocs.Conversion ile CSV'ye Verimli Şekilde Dönüştürün"
 "url": "/tr/net/csv-structured-data-processing/convert-plt-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PLT'yi .NET için GroupDocs.Conversion ile CSV'ye Verimli Şekilde Dönüştürün
 
 ## giriiş

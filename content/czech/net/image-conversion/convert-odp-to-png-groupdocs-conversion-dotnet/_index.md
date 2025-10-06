@@ -4,8 +4,8 @@
 "title": "Převod ODP do PNG pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/image-conversion/convert-odp-to-png-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod ODP do PNG pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

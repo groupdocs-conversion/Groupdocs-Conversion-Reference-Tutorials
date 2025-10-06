@@ -5,8 +5,8 @@
 "title": "تحويل الكتب الإلكترونية EPUB إلى PDF"
 "url": "/ar/net/convert-files-to-pdf/convert-epub-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # تحويل الكتب الإلكترونية EPUB إلى PDF
 
 ## مقدمة

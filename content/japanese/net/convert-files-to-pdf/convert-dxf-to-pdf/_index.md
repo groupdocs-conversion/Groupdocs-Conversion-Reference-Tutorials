@@ -5,8 +5,8 @@
 "title": "DXF CAD図面交換ファイルをPDFに変換"
 "url": "/ja/net/convert-files-to-pdf/convert-dxf-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # DXF CAD図面交換ファイルをPDFに変換
 
 ## 導入

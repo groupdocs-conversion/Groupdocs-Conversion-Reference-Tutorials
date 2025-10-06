@@ -4,8 +4,8 @@
 "title": "Chuyển đổi XML sang SVG hiệu quả bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/xml-json-processing/xml-to-svg-conversion-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi XML sang SVG hiệu quả bằng GroupDocs.Conversion cho .NET: Hướng dẫn từng bước
 
 ## Giới thiệu

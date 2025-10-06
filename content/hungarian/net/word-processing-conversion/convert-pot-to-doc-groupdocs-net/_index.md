@@ -4,8 +4,8 @@
 "title": "POT hatékony konvertálása DOC-ba a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/word-processing-conversion/convert-pot-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # POT hatékony konvertálása DOC-ba a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

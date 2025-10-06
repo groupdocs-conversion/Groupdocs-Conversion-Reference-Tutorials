@@ -4,8 +4,8 @@
 "title": "Konversi FODP ke PSD dengan Mudah&#58; Panduan Lengkap Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/image-formats-features/convert-fodp-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi FODP ke PSD dengan Mudah: Panduan Lengkap Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

@@ -5,8 +5,8 @@
 "title": "Конвертировать шаблоны DOTM Word (макросы) в PDF"
 "url": "/ru/net/file-conversion-to-pdf/convert-dotm-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Конвертировать шаблоны DOTM Word (макросы) в PDF
 
 ## Введение

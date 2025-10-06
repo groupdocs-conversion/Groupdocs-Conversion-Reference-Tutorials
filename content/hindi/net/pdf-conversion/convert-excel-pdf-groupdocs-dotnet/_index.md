@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके Excel को PDF में परिवर्तित करें एक व्यापक गाइड"
 "url": "/hi/net/pdf-conversion/convert-excel-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके Excel स्प्रेडशीट को PDF में कनवर्ट करें
 
 ## परिचय

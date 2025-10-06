@@ -4,8 +4,8 @@
 "title": "Hogyan konvertáljunk DICOM-ot PNG-vé .NET-ben a GroupDocs.Conversion használatával"
 "url": "/hu/net/image-conversion/dicom-to-png-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertáljunk DICOM-ot PNG-vé .NET-ben a GroupDocs.Conversion használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for Java 將受密碼保護的 Word 文件轉換為 PDF"
 "url": "/zh-hant/java/security-protection/convert-word-doc-to-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # 使用 Java 中的 GroupDocs 將受密碼保護的 Word 文件轉換為 PDF
 在當今的數位時代，安全的文件處理至關重要，尤其是在處理儲存在受密碼保護的文件中敏感資訊時。本指南將向您展示如何將此類文件轉換為通用的 PDF 格式，同時保留其安全特性。 **GroupDocs.Conversion for Java**。
 

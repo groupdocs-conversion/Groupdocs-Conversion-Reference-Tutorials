@@ -4,8 +4,8 @@
 "title": "Convertir MSG a XLSX con GroupDocs.Conversion para .NET&#58; guía paso a paso"
 "url": "/es/net/spreadsheet-formats-features/convert-msg-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convierta archivos MSG a XLSX con GroupDocs.Conversion para .NET
 
 ## Introducción

@@ -4,8 +4,8 @@
 "title": "Převod heslem chráněného Wordu do PDF v Javě pomocí GroupDocs.Conversion"
 "url": "/cs/java/security-protection/convert-password-protected-word-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Převod heslem chráněného Wordu do PDF v Javě pomocí GroupDocs.Conversion
 
 Převeďte své chráněné dokumenty Word do formátu PDF bez námahy s tímto komplexním průvodcem používáním knihovny GroupDocs.Conversion v Javě. Zjistěte, jak specifikovat konkrétní stránky, nastavit vlastní rozměry, upravit rozlišení a optimalizovat výkon pro bezproblémový převod dokumentů.

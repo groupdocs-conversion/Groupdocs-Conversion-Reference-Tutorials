@@ -4,8 +4,8 @@
 "title": "Converteer OXPS naar CSV met GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/spreadsheet-formats-features/convert-oxps-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OXPS-bestanden converteren naar CSV met GroupDocs.Conversion voor .NET
 
 ## Invoering

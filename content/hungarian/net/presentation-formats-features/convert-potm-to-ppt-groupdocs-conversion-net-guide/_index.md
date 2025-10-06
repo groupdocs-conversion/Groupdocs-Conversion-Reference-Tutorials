@@ -4,8 +4,8 @@
 "title": "Hogyan konvertáljunk POTM-et PPT-vé a GroupDocs.Conversion for .NET használatával? Lépésről lépésre útmutató"
 "url": "/hu/net/presentation-formats-features/convert-potm-to-ppt-groupdocs-conversion-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertáljunk POTM-et PPT-vé a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

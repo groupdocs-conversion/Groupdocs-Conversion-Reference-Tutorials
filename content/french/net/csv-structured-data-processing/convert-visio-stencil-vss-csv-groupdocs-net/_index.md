@@ -4,8 +4,8 @@
 "title": "Convertir un gabarit Visio (.vss) en CSV à l'aide de GroupDocs.Conversion pour .NET - Guide étape par étape"
 "url": "/fr/net/csv-structured-data-processing/convert-visio-stencil-vss-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir un gabarit Visio (.vss) en CSV à l'aide de GroupDocs.Conversion pour .NET : guide étape par étape
 
 ## Introduction

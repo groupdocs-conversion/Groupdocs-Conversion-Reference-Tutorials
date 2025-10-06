@@ -4,8 +4,8 @@
 "title": "Μετατροπή DOCM σε TEX χρησιμοποιώντας GroupDocs για .NET™ Ένας πλήρης οδηγός"
 "url": "/el/net/text-markup-conversion/convert-docm-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή DOCM σε TEX χρησιμοποιώντας GroupDocs για .NET: Ένας πλήρης οδηγός
 
 ## Εισαγωγή

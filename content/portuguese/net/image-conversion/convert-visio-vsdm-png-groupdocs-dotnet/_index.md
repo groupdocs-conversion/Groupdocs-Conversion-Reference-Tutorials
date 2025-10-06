@@ -4,8 +4,8 @@
 "title": "Converta VSDM para PNG com GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/image-conversion/convert-visio-vsdm-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converta VSDM para PNG com GroupDocs.Conversion para .NET: um guia completo
 
 ## Introdução

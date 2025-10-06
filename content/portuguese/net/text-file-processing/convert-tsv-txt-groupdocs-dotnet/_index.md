@@ -4,8 +4,8 @@
 "title": "Converter TSV para TXT no .NET usando GroupDocs.Conversion"
 "url": "/pt/net/text-file-processing/convert-tsv-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converter TSV para TXT no .NET usando GroupDocs.Conversion
 
 ## Introdução

@@ -4,8 +4,8 @@
 "title": "Hatékony EPS-TEX konvertálás a GroupDocs.Conversion .NET használatával"
 "url": "/hu/net/image-conversion/eps-to-tex-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # EPS-TEX konvertálás elsajátítása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

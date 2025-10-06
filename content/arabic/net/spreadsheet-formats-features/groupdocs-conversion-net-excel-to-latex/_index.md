@@ -4,8 +4,8 @@
 "title": "أتمتة تحويل Excel إلى LaTeX باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/spreadsheet-formats-features/groupdocs-conversion-net-excel-to-latex/"
 "weight": 1
+type: docs
 ---
-
 # أتمتة وحدات الماكرو في Excel إلى LaTeX باستخدام GroupDocs
 
 ## مقدمة

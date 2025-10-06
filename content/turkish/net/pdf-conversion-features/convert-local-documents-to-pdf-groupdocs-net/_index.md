@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET ile Yerel Belgeleri PDF'ye Dönüştürün Kapsamlı Bir Kılavuz"
 "url": "/tr/net/pdf-conversion-features/convert-local-documents-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET ile Yerel Belgeleri PDF'ye Nasıl Dönüştürebilirsiniz
 
 ## giriiş

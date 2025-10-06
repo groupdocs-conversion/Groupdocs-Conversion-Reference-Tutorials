@@ -8,10 +8,8 @@ keywords:
 - DXF to XLSX conversion
 - GroupDocs.Conversion .NET
 - CAD file conversion
-
+type: docs
 ---
-
-
 # Efficient DXF to XLSX Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

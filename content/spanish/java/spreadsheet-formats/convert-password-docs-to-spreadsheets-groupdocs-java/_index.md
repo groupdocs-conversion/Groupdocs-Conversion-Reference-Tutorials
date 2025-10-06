@@ -4,8 +4,8 @@
 "title": "Cómo convertir documentos de Word protegidos con contraseña a hojas de cálculo de Excel con GroupDocs.Conversion para Java"
 "url": "/es/java/spreadsheet-formats/convert-password-docs-to-spreadsheets-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir documentos protegidos con contraseña usando GroupDocs.Conversion para Java
 
 ## Introducción

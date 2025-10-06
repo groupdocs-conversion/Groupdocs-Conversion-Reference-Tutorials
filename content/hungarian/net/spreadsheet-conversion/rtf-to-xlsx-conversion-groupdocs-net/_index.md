@@ -4,8 +4,8 @@
 "title": "Hatékony RTF-ből XLSX-be konvertálás a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/spreadsheet-conversion/rtf-to-xlsx-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony RTF-ből XLSX-be konvertálás a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

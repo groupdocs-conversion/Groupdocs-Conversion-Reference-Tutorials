@@ -4,8 +4,8 @@
 "title": "แปลง EPS เป็น PPTX โดยใช้ GroupDocs.Conversion สำหรับ .NET คำแนะนำทีละขั้นตอน"
 "url": "/th/net/presentation-conversion/convert-eps-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลง EPS เป็น PPTX ด้วย GroupDocs การแปลงสำหรับ .NET: บทช่วยสอนที่ครอบคลุม
 
 ## การแนะนำ

@@ -4,8 +4,8 @@
 "title": "การแปลง CSV เป็น LaTeX อย่างง่ายดายโดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/spreadsheet-formats-features/csv-to-latex-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # การแปลง CSV เป็น LaTeX อย่างง่ายดายโดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

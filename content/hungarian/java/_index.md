@@ -4,8 +4,8 @@
 "title": "Átfogó oktatóanyagok a GroupDocs.Conversion for Java használatáról"
 "url": "/hu/java/"
 "weight": 10
+type: docs
 ---
-
 # Átfogó oktatóanyagok a GroupDocs.Conversion for Java használatáról
 
 ## Bevezetés

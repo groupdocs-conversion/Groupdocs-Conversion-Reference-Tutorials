@@ -4,8 +4,8 @@
 "title": "Πώς να μετατρέψετε το Markdown σε κείμενο χρησιμοποιώντας το GroupDocs.Conversion για .NET™ - Ένας οδηγός βήμα προς βήμα"
 "url": "/el/net/text-file-processing/convert-markdown-to-text-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε το Markdown σε κείμενο χρησιμοποιώντας το GroupDocs.Conversion για .NET: Οδηγός βήμα προς βήμα
 
 ## Εισαγωγή

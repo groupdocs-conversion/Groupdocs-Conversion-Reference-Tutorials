@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Learn how to convert VTX files to PDF using GroupDocs.Conversion for .NET. Step-by-step guide with code examples for seamless integration.
 weight: 17
 url: /net/converting-file-types-to-pdf/convert-vtx-to-pdf/
+type: docs
 ---
-
 # Convert VTX to PDF
 
 ## Introduction

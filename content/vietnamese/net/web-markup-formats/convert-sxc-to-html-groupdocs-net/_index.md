@@ -4,8 +4,8 @@
 "title": "Chuyển đổi SXC sang HTML & Tích hợp liền mạch với GroupDocs.Conversion cho .NET"
 "url": "/vi/net/web-markup-formats/convert-sxc-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp SXC sang HTML bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

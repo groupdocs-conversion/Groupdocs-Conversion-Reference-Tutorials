@@ -4,8 +4,8 @@
 "title": "แปลง JPEG 2000 เป็น PowerPoint อย่างมีประสิทธิภาพด้วย GroupDocs.Conversion ใน .NET"
 "url": "/th/net/presentation-formats-features/convert-jpeg-2000-powerpoint-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลง JPEG 2000 เป็น PowerPoint อย่างมีประสิทธิภาพด้วย GroupDocs.Conversion ใน .NET
 
 ## การแนะนำ

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak PLT Dosyaları DOCX'e Nasıl Dönüştürülür (Adım Adım Kılavuz)"
 "url": "/tr/net/cad-technical-drawing-formats/convert-plt-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanılarak PLT Dosyaları DOCX'e Nasıl Dönüştürülür
 
 ## giriiş

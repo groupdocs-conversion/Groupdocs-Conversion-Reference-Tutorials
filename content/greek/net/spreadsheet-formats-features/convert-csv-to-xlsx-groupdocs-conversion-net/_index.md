@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή CSV σε XLSX με το GroupDocs.Conversion .NET™ Ένας πλήρης οδηγός"
 "url": "/el/net/spreadsheet-formats-features/convert-csv-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική μετατροπή CSV σε XLSX με το GroupDocs.Conversion .NET: Ένας πλήρης οδηγός
 
 ## Εισαγωγή

@@ -4,8 +4,8 @@
 "title": "Sembunyikan Perubahan Terlacak dalam Konversi Word ke PDF dengan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/page-management-content-manipulation/hide-tracked-changes-word-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Menguasai Konversi Word ke PDF Tingkat Lanjut dengan Pelacakan Perubahan Tersembunyi Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

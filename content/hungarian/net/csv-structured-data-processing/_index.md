@@ -3,8 +3,8 @@
 "title": "CSV és strukturált adatfeldolgozási oktatóanyagok a GroupDocs.Conversion .NET-hez"
 "url": "/hu/net/csv-structured-data-processing/"
 "weight": 15
+type: docs
 ---
-
 # CSV és strukturált adatfeldolgozási oktatóanyagok a GroupDocs.Conversion .NET-hez
 
 CSV és strukturált adatokkal foglalkozó oktatóanyagaink részletes útmutatást nyújtanak a táblázatos és adatközpontú formátumok kezeléséhez .NET alkalmazásokban. Ezek a gyakorlati útmutatók bemutatják, hogyan konvertálhatók a CSV-fájlok JSON és XML formátumba, hogyan alakíthatók át a CSV-fájlok különböző dokumentumtípusokká, hogyan adhatók meg elválasztójelek és kódolási beállítások, hogyan konvertálhatók megfelelően a dátum/idő és numerikus adatok, hogyan kezelhetők a fejlécek és mezőnevek, hogyan őrizhetők meg az adattípusok az átalakítás során, és hogyan valósíthatók meg a tömeges adatátalakítási műveletek. Minden oktatóanyag teljes C# kódpéldákat tartalmaz az adatformátum-átalakítási forgatókönyvekhez, segítve olyan alkalmazások létrehozását, amelyek hatékonyan hidalják át a nyers adatformátumokat és az ember által olvasható dokumentumokat.

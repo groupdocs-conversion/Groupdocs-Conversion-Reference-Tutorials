@@ -8,10 +8,8 @@ keywords:
 - convert XPS to PSD .NET
 - GroupDocs.Conversion for .NET
 - XPS file conversion
-
+type: docs
 ---
-
-
 # How to Convert XPS Files to PSD Using GroupDocs.Conversion for .NET
 
 ## Introduction

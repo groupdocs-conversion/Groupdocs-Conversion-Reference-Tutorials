@@ -4,8 +4,8 @@
 "title": "Como converter TXT para PDF com controle de espaço à direita usando Java e GroupDocs.Conversion"
 "url": "/pt/java/conversion-options/convert-txt-pdf-trailing-spaces-java/"
 "weight": 1
+type: docs
 ---
-
 # Como converter TXT para PDF com controle de espaço à direita usando Java e GroupDocs.Conversion
 
 No mundo digital de hoje, lidar com documentos de texto com eficiência é crucial para empresas e indivíduos. Converter arquivos de texto (TXT) em formatos PDF versáteis, mantendo a integridade da formatação, pode ser desafiador, especialmente ao lidar com espaços finais que frequentemente atrapalham o layout. Este tutorial orienta você a usar o GroupDocs.Conversion para Java para converter arquivos de texto em PDFs de forma eficaz, controlando os espaços finais.

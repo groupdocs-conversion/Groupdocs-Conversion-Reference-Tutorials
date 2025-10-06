@@ -4,8 +4,8 @@
 "title": "JPEG dokumentum konvertálása Word dokumentummá a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/word-processing-conversion/convert-jpeg-to-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # JPEG képek konvertálása Word dokumentumokká a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

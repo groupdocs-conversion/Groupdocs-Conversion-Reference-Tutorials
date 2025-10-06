@@ -4,8 +4,8 @@
 "title": "Μετατροπή MSG σε PNG με τον οδηγό βήμα προς βήμα του GroupDocs.Conversion for .NET"
 "url": "/el/net/image-conversion/convert-msg-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή MSG σε PNG με το GroupDocs.Conversion για .NET: Οδηγός βήμα προς βήμα
 
 ## Εισαγωγή

@@ -5,8 +5,8 @@
 "title": "將 JPX 轉換為 PDF"
 "url": "/zh-hant/net/document-conversion/convert-jpx-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # 將 JPX 轉換為 PDF
 
 ## 介紹

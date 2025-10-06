@@ -4,8 +4,8 @@
 "title": "Μετατροπή κύριου αρχείου PPTX με το GroupDocs.Conversion για .NET® εύκολες και αποτελεσματικές λύσεις"
 "url": "/el/net/presentation-formats-features/master-file-conversion-groupdocs-pptx/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή κύριου αρχείου PPTX με το GroupDocs.Conversion για .NET: Εύκολες και αποτελεσματικές λύσεις
 
 ## Εισαγωγή

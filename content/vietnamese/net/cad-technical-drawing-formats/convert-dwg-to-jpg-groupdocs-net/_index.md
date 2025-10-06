@@ -4,8 +4,8 @@
 "title": "Chuyển đổi DWG sang JPG bằng GroupDocs cho .NET&#58; Hướng dẫn dành cho nhà phát triển"
 "url": "/vi/net/cad-technical-drawing-formats/convert-dwg-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp DWG sang JPG bằng GroupDocs cho .NET: Hướng dẫn toàn diện dành cho nhà phát triển
 
 ## Giới thiệu

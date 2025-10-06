@@ -4,8 +4,8 @@
 "title": "在 GroupDocs.Conversion for .NET 中实现日志记录——分步指南"
 "url": "/zh/net/conversion-events-logging/implement-logging-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何在 .NET 中实现 GroupDocs.Conversion 事件的日志记录：综合指南
 
 ## 介绍

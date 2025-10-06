@@ -4,8 +4,8 @@
 "title": "Převod PowerPointu do PDF s nahrazením písma v .NET pomocí GroupDocs.Conversion"
 "url": "/cs/net/pdf-conversion-features/groupdocs-conversion-net-presentation-to-pdf-font-substitution/"
 "weight": 1
+type: docs
 ---
-
 # Převod PowerPointu do PDF s nahrazením písma v .NET pomocí GroupDocs.Conversion
 
 ## Zavedení

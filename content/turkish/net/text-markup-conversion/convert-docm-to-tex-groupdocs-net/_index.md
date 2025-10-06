@@ -4,8 +4,8 @@
 "title": "DOCM'yi .NET için GroupDocs Kullanarak TEX'e Dönüştürme&#58; Tam Bir Kılavuz"
 "url": "/tr/net/text-markup-conversion/convert-docm-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs'u Kullanarak DOCM'yi TEX'e Dönüştürme: Eksiksiz Bir Kılavuz
 
 ## giriiş

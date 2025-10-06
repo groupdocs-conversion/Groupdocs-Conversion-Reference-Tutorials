@@ -4,8 +4,8 @@
 "title": "Caricamento e conversione efficienti di file XML tramite GroupDocs.Conversion per .NET&#58; una guida passo passo"
 "url": "/it/net/xml-json-processing/groupdocs-conversion-load-xml-nets-guide/"
 "weight": 1
+type: docs
 ---
-
 # Caricare e convertire in modo efficiente i file XML utilizzando GroupDocs.Conversion per .NET: una guida passo passo
 
 ## Introduzione

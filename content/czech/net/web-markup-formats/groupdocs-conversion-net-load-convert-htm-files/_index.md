@@ -4,8 +4,8 @@
 "title": "Efektivní načítání a převod souborů HTM pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/web-markup-formats/groupdocs-conversion-net-load-convert-htm-files/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní načítání a převod souborů HTM pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

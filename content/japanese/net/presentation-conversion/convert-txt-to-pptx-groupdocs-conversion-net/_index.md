@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET で TXT を PPTX に簡単に変換"
 "url": "/ja/net/presentation-conversion/convert-txt-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET で TXT ファイルを PPTX に簡単に変換
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "ODS-ből PPTX-be konvertálás mesterszinten a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/presentation-conversion/convert-ods-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # ODS-ről PPTX-re konvertálás elsajátítása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

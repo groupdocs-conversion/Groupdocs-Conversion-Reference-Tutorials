@@ -4,8 +4,8 @@
 "title": "Convertir des GIF en JPG sans effort – Guide GroupDocs.Conversion pour .NET"
 "url": "/fr/net/image-conversion/gif-to-jpg-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertissez facilement des GIF en JPG : Guide GroupDocs.Conversion pour .NET
 
 ## Introduction

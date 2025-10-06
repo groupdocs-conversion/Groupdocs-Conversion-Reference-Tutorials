@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET için HTML Dönüştürme Eğitimleri"
 "url": "/tr/net/html-conversion/"
 "weight": 26
+type: docs
 ---
-
 # GroupDocs.Conversion .NET için HTML Dönüştürme Eğitimleri
 
 HTML dönüştürme eğitimlerimiz, belgelerin web'e hazır HTML biçimine nasıl dönüştürüleceğini gösterir. Bu ayrıntılı kılavuzlar, Word, PDF, Excel, PowerPoint, resimler, CAD çizimleri, e-posta mesajları ve daha fazlası dahil olmak üzere çeşitli kaynak biçimlerini HTML'e dönüştürmeyi kapsar. HTML'ye özgü dönüştürme seçenekleri, gömülü kaynakları yönetme, belge stilini koruma, duyarlı düzenleri yönetme ve çıktı HTML yapısını kontrol etme hakkında bilgi edinin. Her eğitim, orijinalin görünümünü ve içerik doğruluğunu koruyan belgelerinizin yüksek kaliteli HTML temsillerini oluşturmak için eksiksiz C# kod örnekleri içerir.

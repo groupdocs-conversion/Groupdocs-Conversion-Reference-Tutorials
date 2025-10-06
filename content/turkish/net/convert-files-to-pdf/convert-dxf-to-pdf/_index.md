@@ -5,8 +5,8 @@
 "title": "DXF CAD Çizim Değişim Dosyalarını PDF'ye Dönüştür"
 "url": "/tr/net/convert-files-to-pdf/convert-dxf-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # DXF CAD Çizim Değişim Dosyalarını PDF'ye Dönüştür
 
 ## giriiş

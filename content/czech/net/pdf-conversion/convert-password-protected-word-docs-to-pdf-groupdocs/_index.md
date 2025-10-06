@@ -4,8 +4,8 @@
 "title": "Jak převést dokumenty Wordu chráněné heslem do PDF pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/pdf-conversion/convert-password-protected-word-docs-to-pdf-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést dokumenty Wordu chráněné heslem do PDF pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

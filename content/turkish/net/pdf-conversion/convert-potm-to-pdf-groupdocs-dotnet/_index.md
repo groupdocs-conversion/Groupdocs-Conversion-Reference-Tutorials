@@ -4,8 +4,8 @@
 "title": "POTM Dosyalarını GroupDocs.Conversion for .NET ile PDF'ye Nasıl Dönüştürebilirsiniz? Adım Adım Kılavuz"
 "url": "/tr/net/pdf-conversion/convert-potm-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # POTM Dosyalarını GroupDocs.Conversion for .NET ile PDF'ye Nasıl Dönüştürebilirsiniz: Adım Adım Kılavuz
 
 ## giriiş

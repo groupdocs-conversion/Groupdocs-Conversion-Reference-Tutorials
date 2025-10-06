@@ -4,8 +4,8 @@
 "title": "Konversi Template PowerPoint ke JPEG dalam .NET secara Efisien menggunakan GroupDocs.Conversion"
 "url": "/id/net/image-conversion/convert-powerpoint-to-jpeg-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Konversi Template PowerPoint ke JPEG secara Efisien dalam .NET Menggunakan GroupDocs.Conversion
 
 ## Perkenalan

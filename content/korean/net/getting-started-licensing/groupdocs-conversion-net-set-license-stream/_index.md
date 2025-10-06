@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET의 Stream에서 라이선스 설정하기&#58; 종합 가이드"
 "url": "/ko/net/getting-started-licensing/groupdocs-conversion-net-set-license-stream/"
 "weight": 1
+type: docs
 ---
-
 # .NET용 GroupDocs.Conversion에서 Stream의 라이선스 설정: 포괄적인 가이드
 
 ## 소개

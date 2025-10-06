@@ -8,10 +8,8 @@ keywords:
 - convert FTP to PDF
 - FTP document conversion .NET
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # How to Convert FTP Documents to PDF Using GroupDocs.Conversion for .NET
 
 In today's digital landscape, efficiently managing and converting documents is essential. This tutorial guides you through downloading a document from an FTP server and transforming it into a universally accepted format like PDF using **GroupDocs.Conversion for .NET**.

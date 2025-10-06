@@ -4,8 +4,8 @@
 "title": "Spåra dokumentkonverteringsförloppet i Java med GroupDocs – en komplett guide"
 "url": "/sv/java/conversion-events-logging/java-groupdocs-conversion-progress-listener/"
 "weight": 1
+type: docs
 ---
-
 # Spåra dokumentkonverteringsförlopp i Java med GroupDocs: En komplett guide
 
 ## Introduktion

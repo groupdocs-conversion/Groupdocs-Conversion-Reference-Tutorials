@@ -4,8 +4,8 @@
 "title": "Carica e converti in modo efficiente i file RTF utilizzando GroupDocs.Conversion in .NET"
 "url": "/it/net/word-processing-formats-features/load-convert-rtf-files-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Carica e converti in modo efficiente i file RTF utilizzando GroupDocs.Conversion in .NET
 
 ## Introduzione

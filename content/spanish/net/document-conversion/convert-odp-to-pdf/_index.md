@@ -5,8 +5,8 @@
 "title": "Convertir ODP a PDF"
 "url": "/es/net/document-conversion/convert-odp-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # Convertir ODP a PDF
 
 ## Introducción

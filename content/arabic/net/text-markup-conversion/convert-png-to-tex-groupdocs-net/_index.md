@@ -4,8 +4,8 @@
 "title": "تحويل PNG إلى TEX باستخدام GroupDocs.Conversion لـ .NET - دليل خطوة بخطوة"
 "url": "/ar/net/text-markup-conversion/convert-png-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل PNG إلى TEX باستخدام GroupDocs.Conversion لـ .NET: دليل خطوة بخطوة
 
 ## مقدمة

@@ -4,8 +4,8 @@
 "title": "Konversi PST ke Dokumen Word Secara Efisien Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/word-processing-conversion/convert-pst-to-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi Efisien File PST ke Dokumen Word dengan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

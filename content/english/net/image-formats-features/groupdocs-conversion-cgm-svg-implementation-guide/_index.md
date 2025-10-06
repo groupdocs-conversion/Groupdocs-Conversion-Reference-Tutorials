@@ -8,10 +8,8 @@ keywords:
 - CGM to SVG conversion
 - GroupDocs.Conversion for .NET
 - file format transformation
-
+type: docs
 ---
-
-
 # How to Convert CGM Files to SVG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

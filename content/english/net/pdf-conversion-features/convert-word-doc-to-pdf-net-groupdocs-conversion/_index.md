@@ -8,10 +8,8 @@ keywords:
 - convert Word documents to PDF
 - GroupDocs.Conversion for .NET
 - .NET document conversion
-
+type: docs
 ---
-
-
 # How to Convert Word Documents to PDFs in .NET using GroupDocs.Conversion
 
 ## Introduction

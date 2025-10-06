@@ -4,8 +4,8 @@
 "title": "Konwersja plików DOT do JPG w .NET przy użyciu GroupDocs.Conversion&#58; Przewodnik krok po kroku"
 "url": "/pl/net/image-conversion/convert-dot-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja plików DOT do JPG w .NET przy użyciu GroupDocs.Conversion: przewodnik krok po kroku
 ## Wstęp
 Czy masz problemy z konwersją dokumentów w aplikacjach .NET? Jeśli konwersja szablonów dokumentów Microsoft Word (.dot) na obrazy jest częstym zadaniem, ten samouczek jest dla Ciebie. Użyjemy **GroupDocs.Conversion dla .NET**, potężna biblioteka usprawniająca zadania konwersji plików.

@@ -4,8 +4,8 @@
 "title": "เส้นทางเอาต์พุตแบบไดนามิกใน .NET พร้อม GroupDocs.Conversion คำแนะนำที่ครอบคลุม"
 "url": "/th/net/document-output-saving/dynamic-output-paths-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # เส้นทางเอาต์พุตแบบไดนามิกใน .NET พร้อม GroupDocs.Conversion: คู่มือฉบับสมบูรณ์
 
 ## การแนะนำ

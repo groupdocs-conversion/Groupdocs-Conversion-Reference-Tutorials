@@ -4,8 +4,8 @@
 "title": "XML konvertálása XLS-be a GroupDocs.Conversion használatával .NET-ben – Lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-xml-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # XML konvertálása XLS-be a GroupDocs.Conversion használatával .NET-ben: lépésről lépésre útmutató
 
 ## Bevezetés

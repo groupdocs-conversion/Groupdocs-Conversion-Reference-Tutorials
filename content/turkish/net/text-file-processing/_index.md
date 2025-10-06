@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET için Metin Dosyası İşleme Eğitimleri"
 "url": "/tr/net/text-file-processing/"
 "weight": 17
+type: docs
 ---
-
 # GroupDocs.Conversion .NET için Metin Dosyası İşleme Eğitimleri
 
 Metin dosyası dönüştürme eğitimlerimiz, .NET'te GroupDocs.Conversion kullanarak düz metin içeriğiyle nasıl çalışacağınızı gösterir. Bu ayrıntılı kılavuzlar, metin dönüştürme sırasında önde ve arkada boşluk davranışını kontrol etme, metin dosyaları için kodlama seçeneklerini belirtme, mümkün olduğunda biçimlendirmeyi koruma, satır sonlarını ve özel karakterleri işleme, metin sarma politikalarını uygulama, dönüştürülen metin için sayfalandırma ayarlama ve çift yönlü metin gereksinimlerini yönetme konularını ele alır. Her eğitim, düz metni etkili bir şekilde işleyebilen ve çıktıda okunabilirliği ve yapıyı koruyabilen uygulamalar oluşturmanıza yardımcı olan metin dosyası dönüştürme senaryoları için çalışan C# kod örnekleri içerir.

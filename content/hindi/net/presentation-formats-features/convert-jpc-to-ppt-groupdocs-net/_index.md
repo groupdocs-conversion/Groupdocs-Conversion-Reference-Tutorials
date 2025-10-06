@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके JPC को PPT में कुशलतापूर्वक परिवर्तित करें | प्रस्तुति रूपांतरण गाइड"
 "url": "/hi/net/presentation-formats-features/convert-jpc-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके JPC को PPT में कैसे परिवर्तित करें
 
 ## परिचय

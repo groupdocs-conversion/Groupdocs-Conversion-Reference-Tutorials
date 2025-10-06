@@ -5,8 +5,8 @@
 "title": "EMLX एप्पल मेल ईमेल संदेशों को PDF में बदलें"
 "url": "/hi/net/convert-files-to-pdf/convert-emlx-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # EMLX एप्पल मेल ईमेल संदेशों को PDF में बदलें
 
 ## परिचय

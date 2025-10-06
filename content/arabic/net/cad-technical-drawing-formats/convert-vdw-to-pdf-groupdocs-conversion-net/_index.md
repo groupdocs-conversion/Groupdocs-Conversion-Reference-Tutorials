@@ -4,8 +4,8 @@
 "title": "تحويل VDW إلى PDF باستخدام GroupDocs.Conversion for .NET - دليل خطوة بخطوة"
 "url": "/ar/net/cad-technical-drawing-formats/convert-vdw-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ملفات VDW إلى PDF باستخدام GroupDocs.Conversion لـ .NET
 ## مقدمة
 هل تواجه صعوبة في تحويل ملفات رسومات الويب Visio (.vdw) إلى تنسيق أسهل مثل PDF؟ يرشدك هذا البرنامج التعليمي إلى كيفية استخدام الأداة القوية **GroupDocs.Conversion لـ .NET** سواءً كان هدفك تبسيط سير عمل المستندات أو ضمان التوافق بين مختلف المنصات، فهذا الحل مثالي.

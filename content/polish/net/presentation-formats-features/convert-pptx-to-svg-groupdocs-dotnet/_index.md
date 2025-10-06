@@ -4,8 +4,8 @@
 "title": "Konwertuj PPTX do SVG za pomocą GroupDocs.Conversion .NET&#58; Kompleksowy przewodnik"
 "url": "/pl/net/presentation-formats-features/convert-pptx-to-svg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj PPTX do SVG za pomocą GroupDocs.Conversion .NET
 
 ## Wstęp

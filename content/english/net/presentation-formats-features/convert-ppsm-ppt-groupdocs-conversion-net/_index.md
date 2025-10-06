@@ -8,10 +8,8 @@ keywords:
 - "convert PPSM to PPT"
 - "GroupDocs.Conversion for .NET setup"
 - "PPT file format conversion"
-
+type: docs
 ---
-
-
 # How to Convert PPSM to PPT Using GroupDocs.Conversion for .NET
 
 ## Introduction

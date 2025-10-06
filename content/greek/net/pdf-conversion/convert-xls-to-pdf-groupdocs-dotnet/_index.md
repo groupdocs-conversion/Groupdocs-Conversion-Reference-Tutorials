@@ -4,8 +4,8 @@
 "title": "Πώς να μετατρέψετε αρχεία XLS σε PDF με το GroupDocs.Conversion for .NET™ - Ένας οδηγός βήμα προς βήμα"
 "url": "/el/net/pdf-conversion/convert-xls-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε αρχεία XLS σε PDF με το GroupDocs.Conversion για .NET: Οδηγός βήμα προς βήμα
 
 ## Εισαγωγή

@@ -4,8 +4,8 @@
 "title": "GroupDocs for .NET ile XLSX'i PDF'ye Kolayca Dönüştürün | Adım Adım Kılavuz"
 "url": "/tr/net/pdf-conversion-features/convert-xlsx-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs for .NET ile XLSX'i PDF'ye Kolayca Dönüştürün | Adım Adım Kılavuz
 
 Günümüzün dijital ortamında, verimli veri dönüşümü hayati önem taşır. Excel dosyalarını (XLSX) PDF gibi evrensel olarak erişilebilir bir biçime dönüştürmek iş akışlarını kolaylaştırabilir ve platformlar arası uyumluluğu garanti edebilir. Bu kılavuz, kullanımınızda size yol gösterecektir **GroupDocs.Conversion .NET için** XLSX dosyalarını PDF'ye etkili bir şekilde dönüştürmek için.

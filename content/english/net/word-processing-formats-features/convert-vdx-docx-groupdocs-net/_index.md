@@ -8,10 +8,8 @@ keywords:
 - convert VDX to DOCX
 - GroupDocs.Conversion for .NET
 - Visio diagram conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert VDX to DOCX with GroupDocs.Conversion for .NET: A Developer's Guide
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - TIFF to TEX conversion
 - GroupDocs.Conversion for .NET
 - .NET document processing
-
+type: docs
 ---
-
-
 # Efficient TIFF to TEX Conversion Using GroupDocs.Conversion .NET
 
 ## Introduction

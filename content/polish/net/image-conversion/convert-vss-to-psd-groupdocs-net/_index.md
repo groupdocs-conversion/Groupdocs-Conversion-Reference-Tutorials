@@ -4,8 +4,8 @@
 "title": "Konwersja VSS do PSD przy użyciu GroupDocs.Conversion w .NET&#58; Kompleksowy przewodnik"
 "url": "/pl/net/image-conversion/convert-vss-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja VSS do PSD przy użyciu GroupDocs.Conversion w .NET: kompleksowy przewodnik
 
 ## Wstęp

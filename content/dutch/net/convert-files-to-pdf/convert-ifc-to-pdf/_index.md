@@ -5,8 +5,8 @@
 "title": "Converteer IFC Building Information Modeling-bestanden naar PDF"
 "url": "/nl/net/convert-files-to-pdf/convert-ifc-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Converteer IFC Building Information Modeling-bestanden naar PDF
 
 ## Invoering

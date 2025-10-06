@@ -4,8 +4,8 @@
 "title": "التعامل مع مستندات النصوص الرئيسية في Java - باستخدام GroupDocs.Conversion للترميز السلس وتحويل PDF"
 "url": "/ar/java/word-processing-formats/master-text-document-handling-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # إتقان التعامل مع المستندات النصية في Java باستخدام GroupDocs.Conversion
 
 ## مقدمة

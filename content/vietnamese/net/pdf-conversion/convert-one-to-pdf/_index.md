@@ -5,8 +5,8 @@
 "title": "Chuyển đổi ONE sang PDF"
 "url": "/vi/net/pdf-conversion/convert-one-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Chuyển đổi ONE sang PDF
 
 ## Giới thiệu

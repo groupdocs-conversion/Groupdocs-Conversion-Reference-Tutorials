@@ -4,8 +4,8 @@
 "title": "SXC konvertálása XLS-sé .NET-ben a GroupDocs.Conversion használatával"
 "url": "/hu/net/spreadsheet-conversion/convert-sxc-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # SXC konvertálása XLS-sé .NET-ben a GroupDocs.Conversion használatával
 
 ## Bevezetés

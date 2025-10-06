@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion'ı Kullanarak WMF'den JPEG'e Verimli Dönüşüm"
 "url": "/tr/net/image-conversion/convert-wmf-to-jpeg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak WMF'den JPEG'e Verimli Dönüşüm
 
 ## giriiş

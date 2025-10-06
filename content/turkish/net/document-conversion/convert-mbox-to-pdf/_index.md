@@ -5,8 +5,8 @@
 "title": "MBOX'u PDF'ye dönüştür"
 "url": "/tr/net/document-conversion/convert-mbox-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # MBOX'u PDF'ye dönüştür
 
 ## giriiş

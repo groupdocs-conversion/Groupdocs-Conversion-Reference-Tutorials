@@ -4,8 +4,8 @@
 "title": "Převod WEBP do XLS pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/spreadsheet-conversion/convert-webp-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů WEBP do XLS pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

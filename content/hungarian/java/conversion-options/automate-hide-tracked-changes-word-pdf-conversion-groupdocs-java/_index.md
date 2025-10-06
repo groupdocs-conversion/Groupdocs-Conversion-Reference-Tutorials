@@ -4,8 +4,8 @@
 "title": "A Word-ből PDF-be konvertálás során a követett változások elrejtésének automatizálása a GroupDocs.Conversion for Java használatával"
 "url": "/hu/java/conversion-options/automate-hide-tracked-changes-word-pdf-conversion-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Word-ből PDF-be konvertálás során a követett változások elrejtésének automatizálása a GroupDocs.Conversion for Java használatával
 
 ## Bevezetés

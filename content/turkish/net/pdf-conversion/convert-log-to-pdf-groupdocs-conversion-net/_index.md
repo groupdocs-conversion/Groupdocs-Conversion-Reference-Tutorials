@@ -4,8 +4,8 @@
 "title": "LOG'u GroupDocs.Conversion for .NET Kullanarak PDF'ye Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/pdf-conversion/convert-log-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # LOG'u .NET için GroupDocs.Conversion Kullanarak PDF'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

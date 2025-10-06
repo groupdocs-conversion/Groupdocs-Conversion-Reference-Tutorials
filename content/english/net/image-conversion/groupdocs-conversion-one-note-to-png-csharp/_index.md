@@ -8,10 +8,8 @@ keywords:
 - OneNote to PNG conversion
 - GroupDocs.Conversion for .NET
 - C# document conversion
-
+type: docs
 ---
-
-
 # Convert OneNote to PNG in C#: Using GroupDocs.Conversion for .NET
 
 ## Introduction

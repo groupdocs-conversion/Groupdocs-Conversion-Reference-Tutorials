@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET を使用して PDF ページを Word に変換する手順"
 "url": "/ja/net/word-processing-formats-features/groupdocs-conversion-net-pdf-to-word/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET を使用して PDF ページを Word に変換する: ステップバイステップガイド
 
 ## 導入

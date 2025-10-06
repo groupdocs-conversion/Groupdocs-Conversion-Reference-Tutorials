@@ -8,10 +8,8 @@ keywords:
 - XLSB to PowerPoint conversion
 - GroupDocs.Conversion for .NET
 - data presentation
-
+type: docs
 ---
-
-
 # How to Convert XLSB to PowerPoint Using GroupDocs.Conversion .NET
 
 ## Introduction

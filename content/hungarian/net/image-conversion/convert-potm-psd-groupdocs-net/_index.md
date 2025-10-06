@@ -4,8 +4,8 @@
 "title": "POTM konvertálása PSD formátumba a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-potm-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # POTM konvertálása PSD formátumba a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

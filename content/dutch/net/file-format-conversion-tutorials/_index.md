@@ -5,8 +5,8 @@
 "title": "Bestandsformaatconversie"
 "url": "/nl/net/file-format-conversion-tutorials/"
 "weight": 21
+type: docs
 ---
-
 # Bestandsformaatconversie
 
 ## Invoering

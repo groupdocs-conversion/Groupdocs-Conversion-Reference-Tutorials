@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 將 TIFF 轉換為 DOCX 完整指南"
 "url": "/zh-hant/net/word-processing-conversion/convert-tiff-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 將 TIFF 轉換為 DOCX：完整指南
 
 ## 介紹

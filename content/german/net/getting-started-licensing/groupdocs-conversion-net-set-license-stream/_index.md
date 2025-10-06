@@ -4,8 +4,8 @@
 "title": "Lizenz aus Stream in GroupDocs.Conversion für .NET festlegen – Ein umfassender Leitfaden"
 "url": "/de/net/getting-started-licensing/groupdocs-conversion-net-set-license-stream/"
 "weight": 1
+type: docs
 ---
-
 # Lizenz aus Stream in GroupDocs.Conversion für .NET festlegen: Ein umfassender Leitfaden
 
 ## Einführung

@@ -4,8 +4,8 @@
 "title": "Hur man konverterar CGM-filer till LaTeX med GroupDocs.Conversion för .NET - En omfattande guide"
 "url": "/sv/net/cad-technical-drawing-formats/convert-cgm-to-latex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar CGM-filer till LaTeX med GroupDocs.Conversion för .NET
 
 ## Introduktion

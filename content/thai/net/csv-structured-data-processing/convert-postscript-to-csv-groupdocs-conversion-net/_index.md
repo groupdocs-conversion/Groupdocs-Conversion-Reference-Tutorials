@@ -4,8 +4,8 @@
 "title": "แปลง PostScript เป็น CSV โดยใช้ GroupDocs.Conversion สำหรับ .NET&#58; คู่มือฉบับสมบูรณ์"
 "url": "/th/net/csv-structured-data-processing/convert-postscript-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลง PostScript เป็น CSV โดยใช้ GroupDocs.Conversion สำหรับ .NET: คู่มือฉบับสมบูรณ์
 
 ## การแนะนำ

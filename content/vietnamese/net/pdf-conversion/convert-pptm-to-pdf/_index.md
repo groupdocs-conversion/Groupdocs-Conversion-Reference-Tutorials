@@ -5,8 +5,8 @@
 "title": "Chuyển đổi PPTM sang PDF"
 "url": "/vi/net/pdf-conversion/convert-pptm-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # Chuyển đổi PPTM sang PDF
 
 ## Giới thiệu

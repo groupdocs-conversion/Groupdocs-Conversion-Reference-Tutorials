@@ -4,8 +4,8 @@
 "title": "Adott oldaltartomány konvertálása PDF-be a GroupDocs.Conversion Java API használatával"
 "url": "/hu/java/pdf-conversion/groupdocs-conversion-java-page-range-pdf/"
 "weight": 1
+type: docs
 ---
-
 # Adott oldaltartomány konvertálása PDF-be a GroupDocs.Conversion Java API használatával
 
 mai digitális korban a dokumentumok hatékony kezelése kulcsfontosságú mind a vállalkozások, mind a magánszemélyek számára. A jelentés egyes részeinek hordozható formátumba, például PDF-be konvertálása időt és erőforrásokat takaríthat meg. Ez az oktatóanyag végigvezeti Önt a használatán. **GroupDocs.Conversion Java** hogy bármely dokumentum meghatározott oldaltartományát PDF-fájllá konvertáld. A végére minden szükséges készséggel rendelkezel majd ahhoz, hogy ezt a hatékony funkciót megvalósítsd a projektjeidben.

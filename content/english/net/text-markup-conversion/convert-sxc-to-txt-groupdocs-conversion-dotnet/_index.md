@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # How to Convert SXC Files to TXT Using GroupDocs.Conversion for .NET
 
 ## Introduction

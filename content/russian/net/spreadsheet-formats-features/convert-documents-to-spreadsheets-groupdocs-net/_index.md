@@ -4,8 +4,8 @@
 "title": "Эффективное преобразование документов в электронные таблицы с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/spreadsheet-formats-features/convert-documents-to-spreadsheets-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Эффективное преобразование документов в электронные таблицы с помощью GroupDocs.Conversion для .NET
 
 ## Введение

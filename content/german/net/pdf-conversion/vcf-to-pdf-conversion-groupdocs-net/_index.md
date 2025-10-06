@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie VCF in PDF mit GroupDocs.Conversion für .NET – Eine Schritt-für-Schritt-Anleitung"
 "url": "/de/net/pdf-conversion/vcf-to-pdf-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie VCF mit GroupDocs.Conversion für .NET in PDF: Eine Schritt-für-Schritt-Anleitung
 
 ## Einführung

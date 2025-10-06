@@ -4,8 +4,8 @@
 "title": "Jak načíst informace o osobním úložišti ze souborů OST aplikace Outlook pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/storage-files-pst-processing/retrieve-personal-storage-info-outlook-ost-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak načíst informace o osobním úložišti ze souborů OST aplikace Outlook pomocí nástroje GroupDocs.Conversion pro .NET
 
 ## Zavedení

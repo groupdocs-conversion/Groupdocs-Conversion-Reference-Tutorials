@@ -5,8 +5,8 @@
 "title": "CF2 को PDF में बदलें"
 "url": "/hi/net/file-conversion-to-pdf/convert-cf2-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # CF2 को PDF में बदलें
 
 ## परिचय

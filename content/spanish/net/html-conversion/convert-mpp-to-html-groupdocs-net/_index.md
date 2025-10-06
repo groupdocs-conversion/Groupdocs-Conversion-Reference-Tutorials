@@ -4,8 +4,8 @@
 "title": "Convierta MPP a HTML de manera eficiente en .NET usando GroupDocs.Conversion"
 "url": "/es/net/html-conversion/convert-mpp-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convierta MPP a HTML sin esfuerzo en .NET usando GroupDocs.Conversion
 
 ## Introducción

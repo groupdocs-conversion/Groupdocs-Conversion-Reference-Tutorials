@@ -4,8 +4,8 @@
 "title": "निर्बाध छवि रूपांतरण के लिए GroupDocs.Conversion का उपयोग करके .NET में BMP को SVG में परिवर्तित करें"
 "url": "/hi/net/image-conversion/convert-bmp-svg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # निर्बाध छवि रूपांतरण के लिए GroupDocs.Conversion का उपयोग करके .NET में BMP को SVG में परिवर्तित करें
 
 ## परिचय

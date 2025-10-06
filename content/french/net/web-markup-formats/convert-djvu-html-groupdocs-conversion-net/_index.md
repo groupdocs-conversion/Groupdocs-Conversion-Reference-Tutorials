@@ -4,8 +4,8 @@
 "title": "Convertir DJVU en HTML à l'aide du guide étape par étape de GroupDocs.Conversion pour .NET"
 "url": "/fr/net/web-markup-formats/convert-djvu-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertissez des fichiers DJVU en HTML avec GroupDocs.Conversion pour .NET
 
 ## Introduction

@@ -5,8 +5,8 @@
 "title": "Converter POTM para PDF"
 "url": "/pt/net/pdf-conversion/convert-potm-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # Converter POTM para PDF
 
 ## Introdução

@@ -8,10 +8,8 @@ keywords:
 - CDR to PSD conversion
 - GroupDocs.Conversion library
 - image format conversion
-
+type: docs
 ---
-
-
 # Convert CDR to PSD: Seamless Image Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

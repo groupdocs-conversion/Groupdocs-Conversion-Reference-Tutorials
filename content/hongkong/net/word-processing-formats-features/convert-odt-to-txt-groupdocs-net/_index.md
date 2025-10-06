@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中將 ODT 轉換為 TXT — 逐步指南"
 "url": "/zh-hant/net/word-processing-formats-features/convert-odt-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 .NET 中將 ODT 轉換為 TXT：逐步指南
 ## 介紹
 您是否希望透過將開放式文件文字 (.odt) 檔案轉換為純文字 (.txt) 來簡化文件處理？如果是，本逐步指南將協助您在 .NET 環境中使用強大的 GroupDocs.Conversion 程式庫。此功能對於高效地從 ODT 文件中提取和處理文字內容至關重要。

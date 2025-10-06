@@ -4,8 +4,8 @@
 "title": "VSSM hatékony konvertálása PPT-vé a GroupDocs.Conversion .NET használatával – Átfogó útmutató"
 "url": "/hu/net/presentation-formats-features/convert-vssm-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhat VSSM fájlokat PowerPoint prezentációkká a GroupDocs.Conversion .NET használatával
 ## Bevezetés
 A mai gyors tempójú digitális világban elengedhetetlen a fájlok hatékony konvertálása a különböző formátumok között. Nehezen tud Microsoft Visio makróbarát fájlokat (.vssm) PowerPoint-bemutatókká (.ppt) konvertálni? Ez az oktatóanyag egy hatékony megoldást mutat be a GroupDocs.Conversion .NET könyvtár használatával.

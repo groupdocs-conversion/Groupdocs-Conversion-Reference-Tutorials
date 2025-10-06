@@ -8,10 +8,8 @@ keywords:
 - PSD to PNG conversion
 - GroupDocs.Conversion for .NET
 - .NET image conversion
-
+type: docs
 ---
-
-
 # How to Convert PSD Files to PNG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

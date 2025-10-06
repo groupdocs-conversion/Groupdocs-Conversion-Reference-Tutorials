@@ -4,8 +4,8 @@
 "title": "Ẩn bình luận trong PPTX sang PDF bằng GroupDocs.Conversion cho Java"
 "url": "/vi/java/watermarks-annotations/hide-comments-pptx-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Ẩn bình luận trong PPTX sang PDF với GroupDocs.Conversion cho Java
 
 ## Giới thiệu

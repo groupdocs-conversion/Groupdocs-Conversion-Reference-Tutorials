@@ -4,8 +4,8 @@
 "title": "Converti in modo efficiente i modelli di PowerPoint in testo utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/text-markup-conversion/convert-powerpoint-to-text-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire i modelli di PowerPoint in testo utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

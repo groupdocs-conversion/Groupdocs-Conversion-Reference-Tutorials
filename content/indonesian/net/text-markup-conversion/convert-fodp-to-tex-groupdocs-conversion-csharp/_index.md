@@ -4,8 +4,8 @@
 "title": "Konversi FODP ke TeX di C# Menggunakan GroupDocs.Conversion untuk Konversi Teks & Markup .NET"
 "url": "/id/net/text-markup-conversion/convert-fodp-to-tex-groupdocs-conversion-csharp/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi FODP ke Format TeX Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

@@ -8,10 +8,8 @@ keywords:
 - convert RAR to PDF
 - GroupDocs.Conversion for .NET
 - PDF conversion from archives
-
+type: docs
 ---
-
-
 # Efficient Conversion: Transforming RAR Files to PDF Using GroupDocs.Conversion for .NET
 
 ## Introduction

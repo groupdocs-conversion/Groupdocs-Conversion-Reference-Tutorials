@@ -8,10 +8,8 @@ keywords:
 - convert PowerPoint to Word
 - PowerPoint to DOC conversion
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # Convert PowerPoint Presentations to Word Documents Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Jak převést e-mail do PDF s časovým posunem v Javě pomocí GroupDocs.Conversion"
 "url": "/cs/java/email-formats/email-to-pdf-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést e-mail do PDF s časovým posunem v Javě pomocí GroupDocs.Conversion
 
 ## Zavedení

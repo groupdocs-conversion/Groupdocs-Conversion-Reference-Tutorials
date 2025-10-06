@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET で LOG ファイルを TXT ファイルに簡単に変換"
 "url": "/ja/net/loading-from-remote-sources/convert-log-to-txt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET で LOG ファイルを TXT ファイルに簡単に変換
 
 ## 導入

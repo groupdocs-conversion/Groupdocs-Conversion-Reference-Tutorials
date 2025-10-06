@@ -4,8 +4,8 @@
 "title": "SXC konvertálása CSV-vé a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-sxc-to-csv-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # SXC konvertálása CSV-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

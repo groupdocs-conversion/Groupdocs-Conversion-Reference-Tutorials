@@ -4,8 +4,8 @@
 "title": "Преобразование HTML в документ Word с помощью GroupDocs.Conversion в .NET&#58; Пошаговое руководство"
 "url": "/ru/net/word-processing-conversion/convert-html-to-word-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Преобразование HTML в документ Word с помощью GroupDocs.Conversion в .NET: пошаговое руководство
 
 ## Введение

@@ -4,8 +4,8 @@
 "title": "Chuyển đổi Markup sang Word với Đánh số trang bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/word-processing-formats-features/groupdocs-conversion-markup-to-word-page-numbering/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi Markup sang Word với Đánh số trang bằng GroupDocs.Conversion cho .NET
 ## Giới thiệu
 Bạn có muốn chuyển đổi tài liệu đánh dấu thành định dạng Word chuyên nghiệp trong khi vẫn duy trì số trang chính xác không? Hướng dẫn này sẽ hướng dẫn bạn cách sử dụng **GroupDocs.Conversion cho .NET** để chuyển đổi tài liệu của bạn một cách liền mạch. Thư viện mạnh mẽ này đơn giản hóa việc chuyển đổi và đảm bảo các thành phần thiết yếu như đánh số trang được giữ nguyên trong tài liệu đầu ra.

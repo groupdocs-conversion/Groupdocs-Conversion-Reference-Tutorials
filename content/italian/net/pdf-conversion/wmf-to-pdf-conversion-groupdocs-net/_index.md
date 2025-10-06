@@ -4,8 +4,8 @@
 "title": "Conversione da WMF a PDF senza sforzo tramite GroupDocs per sviluppatori .NET"
 "url": "/it/net/pdf-conversion/wmf-to-pdf-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Conversione da WMF a PDF senza sforzo tramite GroupDocs per sviluppatori .NET
 
 ## Introduzione

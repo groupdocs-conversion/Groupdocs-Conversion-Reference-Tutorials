@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 將 DICOM 轉換為 SVG 的逐步指南"
 "url": "/zh-hant/net/image-formats-features/dicom-to-svg-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 將 DICOM 轉換為 SVG：逐步指南
 
 您是否正在考慮將醫學影像從 DICOM (.dcm) 格式轉換為可縮放向量圖形 (SVG)？本教學將指導您使用 GroupDocs.Conversion .NET 程式庫實現無縫轉換。掌握此轉換流程，有效簡化您的工作流程。

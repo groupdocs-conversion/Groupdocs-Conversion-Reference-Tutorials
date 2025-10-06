@@ -4,8 +4,8 @@
 "title": "كيفية تحويل قوالب DOCX إلى Excel باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/spreadsheet-formats-features/convert-docx-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل قوالب DOCX إلى Excel باستخدام GroupDocs.Conversion لـ .NET: دليل شامل
 
 ## مقدمة

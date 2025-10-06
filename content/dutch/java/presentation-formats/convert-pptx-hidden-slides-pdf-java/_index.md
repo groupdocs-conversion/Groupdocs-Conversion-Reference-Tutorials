@@ -4,8 +4,8 @@
 "title": "Converteer PPTX met verborgen dia's efficiënt naar PDF in Java met GroupDocs.Conversion"
 "url": "/nl/java/presentation-formats/convert-pptx-hidden-slides-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Converteer moeiteloos PPTX met verborgen dia's naar PDF in Java met GroupDocs.Conversion
 
 In het digitale tijdperk is het converteren van presentatiedocumenten naar universeel toegankelijke formaten zoals PDF een veelvoorkomende vereiste voor ontwikkelaars. Deze tutorial begeleidt je door een efficiënte oplossing met behulp van **GroupDocs.Conversion voor Java** om PowerPoint-presentaties, inclusief verborgen dia's, naar PDF-formaat te converteren.

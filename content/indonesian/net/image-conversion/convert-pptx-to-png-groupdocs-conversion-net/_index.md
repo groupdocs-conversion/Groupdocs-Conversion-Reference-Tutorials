@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi File PPTX ke PNG Menggunakan GroupDocs.Conversion dalam .NET&#58; Panduan Lengkap"
 "url": "/id/net/image-conversion/convert-pptx-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi File PPTX ke PNG Menggunakan GroupDocs.Conversion dalam .NET: Panduan Lengkap
 
 ## Perkenalan

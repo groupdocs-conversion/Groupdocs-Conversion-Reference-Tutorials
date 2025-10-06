@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 将 VTX 文件转换为 CSV——分步指南"
 "url": "/zh/net/csv-structured-data-processing/convert-vtx-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 将 VTX 文件转换为 CSV：分步指南
 
 ## 介绍

@@ -8,10 +8,8 @@ keywords:
 - DOC to TEX conversion
 - GroupDocs.Conversion for .NET
 - Word to LaTeX conversion
-
+type: docs
 ---
-
-
 # How to Convert DOC to TEX Using GroupDocs.Conversion for .NET
 
 ## Introduction

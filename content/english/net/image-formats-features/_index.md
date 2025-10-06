@@ -3,8 +3,8 @@ title: "Image Formats and Features Tutorials for GroupDocs.Conversion .NET"
 description: "Comprehensive tutorials for converting to and from various image formats and leveraging OCR capabilities with GroupDocs.Conversion for .NET."
 weight: 13
 url: "/net/image-formats-features/"
+type: docs
 ---
-
 # Image Formats and Features Tutorials for GroupDocs.Conversion .NET
 
 Explore image processing capabilities with our detailed GroupDocs.Conversion tutorials for .NET developers. These step-by-step guides demonstrate how to convert documents to various image formats, implement OCR to extract text from images, control image resolution and quality, manage color depth and transparency, specify rendering options for vector formats, preserve metadata during image conversion, and batch process multiple images. Each tutorial includes practical C# code examples for image conversion scenarios, helping you build applications that can effectively transform documents into visual representations or extract content from image-based formats.

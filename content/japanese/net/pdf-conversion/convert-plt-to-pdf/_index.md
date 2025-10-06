@@ -5,8 +5,8 @@
 "title": "PLTをPDFに変換する"
 "url": "/ja/net/pdf-conversion/convert-plt-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # PLTをPDFに変換する
 
 ## 導入

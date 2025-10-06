@@ -8,10 +8,8 @@ keywords:
 - CSV conversion using GroupDocs.Conversion for .NET
 - GroupDocs.Conversion library for .NET
 - automate CSV transformations
-
+type: docs
 ---
-
-
 # Effortless CSV Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

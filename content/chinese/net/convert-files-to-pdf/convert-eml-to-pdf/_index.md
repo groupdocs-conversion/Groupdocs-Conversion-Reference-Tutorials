@@ -5,8 +5,8 @@
 "title": "将 EML 电子邮件消息转换为 PDF"
 "url": "/zh/net/convert-files-to-pdf/convert-eml-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # 将 EML 电子邮件消息转换为 PDF
 
 ## 介绍

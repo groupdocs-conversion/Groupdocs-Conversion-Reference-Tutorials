@@ -8,10 +8,8 @@ keywords:
 - PDF to Word conversion
 - GroupDocs.Conversion Java API
 - flatten PDF fields
-
+type: docs
 ---
-
-
 # Efficient PDF to Word Conversion Using GroupDocs.Conversion Java API
 
 ## Introduction

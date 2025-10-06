@@ -4,8 +4,8 @@
 "title": "Implementace Redis Cache v Javě s GroupDocs.Conversion pro vylepšený výkon"
 "url": "/cs/java/cache-management/redis-cache-java-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Implementace Redis Cache v Javě pomocí GroupDocs.Conversion: Komplexní průvodce
 Redis je výkonné úložiště datových struktur s otevřeným zdrojovým kódem v paměti, které slouží jako databáze, mezipaměť a zprostředkovatel zpráv. Integrace Redisu s vašimi Java aplikacemi může výrazně zvýšit výkon ukládáním často používaných dat do paměti. Tento tutoriál vás provede implementací mezipaměti Redisu pomocí knihovny GroupDocs.Conversion pro Javu a využitím pokročilých funkcí knihoven Aspose k zefektivnění úloh konverze dokumentů.
 

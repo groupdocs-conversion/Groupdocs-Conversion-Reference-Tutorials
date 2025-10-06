@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET Geliştiricileri için Başlarken ve Lisanslama Eğitimleri"
 "url": "/tr/net/getting-started-licensing/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET Geliştiricileri için Başlarken ve Lisanslama Eğitimleri
 
 Yolculuğunuza, kurulum, lisans yapılandırması ve .NET'te ilk belge dönüşümlerinizi gerçekleştirme konusunda size yol gösteren bu temel GroupDocs.Conversion eğitimleriyle başlayın. Başlangıç seviyesindekilere uygun kılavuzlarımız, geliştirme ortamınızı nasıl kuracağınızı, GroupDocs.Conversion kitaplığını nasıl başlatacağınızı, dosyadan veya akıştan lisansı nasıl yapılandıracağınızı, ölçülü lisanslamayı nasıl ayarlayacağınızı ve hem standart hem de akıcı API'leri kullanarak temel dönüşüm işlemlerini nasıl uygulayacağınızı gösterir. Temel bilgileri hızla öğrenmek ve .NET uygulamalarınızda daha gelişmiş belge dönüşüm görevlerine hazırlanmak için bu eğitimleri izleyin.

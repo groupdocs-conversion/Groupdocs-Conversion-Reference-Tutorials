@@ -4,8 +4,8 @@
 "title": "CDR'yi PSD'ye Dönüştürün; .NET için GroupDocs.Conversion'ı Kullanarak Sorunsuz Görüntü Dönüştürme"
 "url": "/tr/net/image-conversion/convert-cdr-to-psd-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # CDR'yi PSD'ye Dönüştürme: .NET için GroupDocs.Conversion Kullanarak Sorunsuz Görüntü Dönüştürme
 
 ## giriiş

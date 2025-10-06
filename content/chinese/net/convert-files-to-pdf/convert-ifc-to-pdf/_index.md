@@ -5,8 +5,8 @@
 "title": "将 IFC 建筑信息模型文件转换为 PDF"
 "url": "/zh/net/convert-files-to-pdf/convert-ifc-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # 将 IFC 建筑信息模型文件转换为 PDF
 
 ## 介绍

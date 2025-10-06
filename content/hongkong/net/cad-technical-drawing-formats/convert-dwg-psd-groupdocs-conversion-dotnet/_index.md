@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 實現高效的 DWG 到 PSD 轉換"
 "url": "/zh-hant/net/cad-technical-drawing-formats/convert-dwg-psd-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 實現高效的 DWG 到 PSD 轉換
 
 ## 介紹

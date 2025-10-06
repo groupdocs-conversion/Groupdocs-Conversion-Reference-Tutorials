@@ -4,8 +4,8 @@
 "title": "Làm chủ việc chuyển đổi tệp trong C# bằng cách sử dụng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/document-output-saving/mastering-file-conversion-csharp-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Làm chủ chuyển đổi tệp trong C#: Triển khai GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

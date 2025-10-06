@@ -8,10 +8,8 @@ keywords:
 - convert EPS to PPT
 - GroupDocs.Conversion .NET tutorial
 - EPS file conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert EPS to PPT Using GroupDocs.Conversion .NET
 
 ## Introduction

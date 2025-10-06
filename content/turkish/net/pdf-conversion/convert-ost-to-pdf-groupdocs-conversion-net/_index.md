@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak OST'yi PDF'ye Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/pdf-conversion/convert-ost-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OST Dosyalarını .NET için GroupDocs.Conversion Kullanarak PDF'ye Nasıl Dönüştürebilirsiniz
 
 ## giriiş

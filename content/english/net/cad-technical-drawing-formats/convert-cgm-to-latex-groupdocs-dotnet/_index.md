@@ -8,10 +8,8 @@ keywords:
 - convert CGM to LaTeX
 - GroupDocs.Conversion for .NET
 - CGM file conversion
-
+type: docs
 ---
-
-
 # How to Convert CGM Files to LaTeX Using GroupDocs.Conversion for .NET
 
 ## Introduction

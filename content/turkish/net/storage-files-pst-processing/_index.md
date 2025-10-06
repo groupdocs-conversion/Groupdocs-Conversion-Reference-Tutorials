@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET için Depolama Dosyaları ve PST İşleme Eğitimleri"
 "url": "/tr/net/storage-files-pst-processing/"
 "weight": 21
+type: docs
 ---
-
 # GroupDocs.Conversion .NET için Depolama Dosyaları ve PST İşleme Eğitimleri
 
 Depolama dosyası işleme eğitimlerimiz, .NET uygulamalarında e-posta kapsayıcılarını işlemek için ayrıntılı rehberlik sağlar. Bu pratik kılavuzlar, PST ve OST gibi kişisel depolama dosyalarından içerik çıkarma ve dönüştürme, klasör yapılarını alma, depolama içeriğini farklı biçimlere dönüştürme, iç içe geçmiş içerik hiyerarşilerini yönetme, mesaj meta verilerini koruma, birden fazla mesajı toplu işleme ve seçici çıkarma işlemlerini uygulama konusunda bilgi verir. Her eğitim, depolama dosyası dönüştürme senaryoları için eksiksiz C# kod örnekleri içerir ve e-posta kapsayıcısı biçimlerinde depolanan verilere etkili bir şekilde erişebilen ve bunları dönüştürebilen uygulamalar oluşturmanıza yardımcı olur.

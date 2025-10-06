@@ -4,8 +4,8 @@
 "title": "Konversi JPEG ke TXT yang Efisien Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/text-markup-conversion/jpeg-to-txt-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi JPEG ke TXT yang Efisien Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

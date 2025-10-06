@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert VCF Files to CSV Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - Automate S3 Document Download
 - Java AWS SDK
 - GroupDocs.Conversion for Java
-
+type: docs
 ---
-
-
 # Automate S3 Document Download & Convert in Java
 
 ## How to Download and Convert Documents from Amazon S3 Using GroupDocs.Conversion in Java

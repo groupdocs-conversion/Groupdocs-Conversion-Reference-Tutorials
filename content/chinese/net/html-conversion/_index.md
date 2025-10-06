@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 的 HTML 转换教程"
 "url": "/zh/net/html-conversion/"
 "weight": 26
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 的 HTML 转换教程
 
 我们的 HTML 转换教程演示了如何将文档转换为适用于 Web 的 HTML 格式。这些详细的指南涵盖了如何将各种源格式（包括 Word、PDF、Excel、PowerPoint、图像、CAD 图纸、电子邮件等）转换为 HTML。您将了解特定于 HTML 的转换选项、如何管理嵌入资源、如何保留文档样式、如何处理响应式布局以及如何控制输出 HTML 结构。每个教程都包含完整的 C# 代码示例，用于创建高质量的 HTML 文档表示形式，同时保持原始文档的外观和内容保真度。

@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi tệp XPS sang HTML bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn đầy đủ"
 "url": "/vi/net/web-markup-formats/convert-xps-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp XPS sang HTML bằng GroupDocs.Conversion cho .NET: Hướng dẫn đầy đủ
 
 ## Giới thiệu

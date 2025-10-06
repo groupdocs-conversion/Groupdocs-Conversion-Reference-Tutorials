@@ -4,8 +4,8 @@
 "title": "AI-fájlok konvertálása XLSX formátumra a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-ai-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # AI-fájlok konvertálása XLSX-re a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Převod OTT do DOCX pomocí GroupDocs.Conversion pro .NET – Průvodce pro vývojáře"
 "url": "/cs/net/word-processing-formats-features/convert-ott-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod OTT do DOCX pomocí GroupDocs.Conversion pro .NET: Průvodce pro vývojáře
 
 ## Zavedení

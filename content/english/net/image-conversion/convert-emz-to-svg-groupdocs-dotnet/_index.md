@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert EMZ to SVG Easily with GroupDocs.Conversion for .NET
 
 ## Introduction

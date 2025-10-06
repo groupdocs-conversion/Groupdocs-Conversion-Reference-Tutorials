@@ -4,8 +4,8 @@
 "title": "Konvertera MHT till HTML i .NET med GroupDocs.Conversion"
 "url": "/sv/net/web-markup-formats/convert-mht-html-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera MHT till HTML i .NET med GroupDocs.Conversion
 
 ## Introduktion

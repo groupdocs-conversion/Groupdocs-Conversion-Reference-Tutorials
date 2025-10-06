@@ -3,8 +3,8 @@
 "title": "Hướng dẫn xử lý XML và JSON cho GroupDocs.Conversion .NET"
 "url": "/vi/net/xml-json-processing/"
 "weight": 16
+type: docs
 ---
-
 # Hướng dẫn xử lý XML và JSON cho GroupDocs.Conversion .NET
 
 Khám phá khả năng chuyển đổi định dạng dữ liệu với hướng dẫn GroupDocs.Conversion dành cho các nhà phát triển .NET. Các hướng dẫn từng bước này trình bày cách sử dụng XML và JSON làm nguồn dữ liệu để tạo bảng tính và các loại tài liệu khác, bảo toàn cấu trúc dữ liệu phân cấp trong quá trình chuyển đổi, duy trì mối quan hệ đối tượng phức tạp, xử lý mảng và bộ sưu tập, quản lý không gian tên và lược đồ, triển khai các hoạt động chuyển đổi và ánh xạ dữ liệu. Mỗi hướng dẫn đều bao gồm các ví dụ mã C# thực tế để làm việc với các định dạng dữ liệu có cấu trúc, giúp bạn xây dựng các ứng dụng có thể chuyển đổi dữ liệu có thể đọc được bằng máy thành các định dạng tài liệu thân thiện với con người.

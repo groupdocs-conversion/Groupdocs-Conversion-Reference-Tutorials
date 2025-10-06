@@ -8,10 +8,8 @@ keywords:
 - IGS to XLSX conversion
 - GroupDocs.Conversion for .NET
 - .NET file conversion
-
+type: docs
 ---
-
-
 # Convert IGS to XLSX with GroupDocs.Conversion for .NET
 
 ## Introduction

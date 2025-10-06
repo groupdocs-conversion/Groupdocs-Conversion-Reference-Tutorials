@@ -4,8 +4,8 @@
 "title": "轻松将 TXT 转换为 PDF - 几分钟内掌握 GroupDocs.Conversion for .NET"
 "url": "/zh/net/pdf-conversion/convert-txt-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 轻松将 TXT 转换为 PDF：几分钟内掌握 GroupDocs.Conversion for .NET
 
 ## 介绍

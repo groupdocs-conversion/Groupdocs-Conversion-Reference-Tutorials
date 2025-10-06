@@ -4,8 +4,8 @@
 "title": "LaTeX fájlok PPTX formátumba konvertálása a GroupDocs.Conversion segítségével .NET-ben"
 "url": "/hu/net/presentation-formats-features/convert-latex-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # LaTeX fájlok PPTX formátumba konvertálása a GroupDocs.Conversion segítségével .NET-ben
 
 ## Bevezetés

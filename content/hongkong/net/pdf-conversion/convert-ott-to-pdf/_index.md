@@ -5,8 +5,8 @@
 "title": "將 OTT 轉換為 PDF"
 "url": "/zh-hant/net/pdf-conversion/convert-ott-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # 將 OTT 轉換為 PDF
 
 ## 介紹

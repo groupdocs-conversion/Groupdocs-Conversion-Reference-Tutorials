@@ -4,8 +4,8 @@
 "title": "Converteer ICO naar DOCX met GroupDocs.Conversion voor .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/word-processing-conversion/convert-ico-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer ICO naar DOCX met GroupDocs.Conversion voor .NET: een stapsgewijze handleiding
 
 ## Invoering

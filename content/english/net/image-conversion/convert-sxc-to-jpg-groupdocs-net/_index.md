@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert SXC Files to JPG Using GroupDocs.Conversion for .NET
 
 ## Introduction

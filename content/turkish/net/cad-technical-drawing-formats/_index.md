@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET için CAD ve Teknik Çizim Formatları Eğitimleri"
 "url": "/tr/net/cad-technical-drawing-formats/"
 "weight": 18
+type: docs
 ---
-
 # GroupDocs.Conversion .NET için CAD ve Teknik Çizim Formatları Eğitimleri
 
 .NET geliştiricileri için kapsamlı GroupDocs.Conversion eğitimlerimizle teknik çizimleri işlemeyi öğrenin. Bu pratik kılavuzlar, AutoCAD ve diğer CAD dosyalarını görüntülenebilir biçimlere dönüştürmeyi, dönüştürme için düzenleri belirlemeyi, çıktı için özel genişlik ve yükseklik boyutları ayarlamayı, katmanları ve ölçümleri korumayı, büyük çizimleri verimli bir şekilde yönetmeyi, görünüm alanlarını ve ölçeklemeyi yönetmeyi ve 3B modelleri 2B gösterimlere dönüştürmeyi gösterir. Her eğitim, teknik çizimleri doğru bir şekilde işleyebilen ve önemli mühendislik ayrıntılarını koruyan uygulamalar oluşturmanıza yardımcı olan CAD dönüştürme senaryoları için ayrıntılı C# kod örnekleri içerir.

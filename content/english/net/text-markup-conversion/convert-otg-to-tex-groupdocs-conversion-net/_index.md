@@ -8,10 +8,8 @@ keywords:
 - convert OTG to TEX
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # How to Convert OTG Files to TEX Using GroupDocs.Conversion for .NET
 
 ## Introduction

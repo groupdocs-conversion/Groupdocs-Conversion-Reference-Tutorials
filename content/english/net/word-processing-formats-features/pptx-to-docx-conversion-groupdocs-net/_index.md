@@ -8,10 +8,8 @@ keywords:
 - PPTX to DOCX conversion
 - GroupDocs.Conversion for .NET
 - PowerPoint to Word
-
+type: docs
 ---
-
-
 # Efficient PPTX to DOCX Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

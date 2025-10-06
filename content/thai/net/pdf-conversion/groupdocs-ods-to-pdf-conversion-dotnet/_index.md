@@ -4,8 +4,8 @@
 "title": "วิธีแปลงไฟล์ ODS เป็น PDF โดยใช้ GroupDocs.Conversion สำหรับ .NET | คำแนะนำทีละขั้นตอน"
 "url": "/th/net/pdf-conversion/groupdocs-ods-to-pdf-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # วิธีแปลงไฟล์ ODS เป็น PDF โดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

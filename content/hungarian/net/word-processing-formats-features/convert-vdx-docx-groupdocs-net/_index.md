@@ -4,8 +4,8 @@
 "title": "VDX fájlok hatékony konvertálása DOCX fájlokká a GroupDocs.Conversion for .NET segítségével – fejlesztői útmutató"
 "url": "/hu/net/word-processing-formats-features/convert-vdx-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # VDX fájlok hatékony konvertálása DOCX formátumba a GroupDocs.Conversion for .NET segítségével: Fejlesztői útmutató
 
 ## Bevezetés

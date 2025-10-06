@@ -4,8 +4,8 @@
 "title": "Převod XML do Excelu v Javě – Komplexní průvodce pomocí GroupDocs.Conversion"
 "url": "/cs/java/web-markup-formats/convert-xml-to-excel-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Převod XML do Excelu v Javě pomocí GroupDocs.Conversion
 
 ## Zavedení

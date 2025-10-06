@@ -4,8 +4,8 @@
 "title": "使用 Java 实现 GroupDocs.Conversion 计量许可证的综合指南"
 "url": "/zh/java/getting-started/implement-metered-license-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # 使用 Java 实现 GroupDocs.Conversion 的计量许可证
 
 ## 介绍

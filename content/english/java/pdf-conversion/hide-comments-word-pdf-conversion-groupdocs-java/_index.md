@@ -8,10 +8,8 @@ keywords:
 - Word-to-PDF conversion
 - GroupDocs.Conversion for Java
 - hide comments in PDF
-
+type: docs
 ---
-
-
 # Hide Comments in Word-to-PDF Conversion Using GroupDocs.Conversion for Java
 
 In today's fast-paced digital world, converting Word documents to PDFs is a routine task for many professionals. However, when these documents contain sensitive comments or tracked changes, you might prefer clean PDFs without any annotations. This tutorial will guide you through using GroupDocs.Conversion for Java to hide comments seamlessly during conversion.

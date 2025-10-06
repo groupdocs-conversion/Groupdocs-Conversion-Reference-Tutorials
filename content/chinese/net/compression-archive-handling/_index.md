@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 的压缩和存档处理教程"
 "url": "/zh/net/compression-archive-handling/"
 "weight": 20
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 的压缩和存档处理教程
 
 通过我们面向 .NET 开发人员的 GroupDocs.Conversion 教程，了解如何处理存档格式。这些详细的指南将教您如何将 RAR 等压缩格式转换为其他文档类型、从存档中提取内容、压缩转换结果、指定要从存档中提取的文件、处理受密码保护的存档、管理多卷存档以及实现选择性文件提取。每个教程都提供了用于处理压缩文件的实用 C# 代码示例，帮助您构建能够有效访问和转换以各种存档格式存储的内容的应用程序。

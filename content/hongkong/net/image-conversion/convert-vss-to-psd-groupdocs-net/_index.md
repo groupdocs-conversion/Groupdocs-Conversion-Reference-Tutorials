@@ -4,8 +4,8 @@
 "title": "使用 .NET 中的 GroupDocs.Conversion 將 VSS 轉換為 PSD 的綜合指南"
 "url": "/zh-hant/net/image-conversion/convert-vss-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 .NET 中的 GroupDocs.Conversion 將 VSS 轉換為 PSD：綜合指南
 
 ## 介紹

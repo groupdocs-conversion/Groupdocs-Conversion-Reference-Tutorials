@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie DOC effizient in PDF in .NET mit GroupDocs.Conversion"
 "url": "/de/net/pdf-conversion-features/convert-doc-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie DOC effizient in PDF in .NET mit GroupDocs.Conversion
 
 ## Einführung

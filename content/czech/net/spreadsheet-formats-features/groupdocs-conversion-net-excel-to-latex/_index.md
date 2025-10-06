@@ -4,8 +4,8 @@
 "title": "Automatizujte převod z Excelu do LaTeXu pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/spreadsheet-formats-features/groupdocs-conversion-net-excel-to-latex/"
 "weight": 1
+type: docs
 ---
-
 # Automatizujte převod maker z Excelu do LaTeXu pomocí GroupDocs
 
 ## Zavedení

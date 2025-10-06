@@ -8,10 +8,8 @@ keywords:
 - VSX to DOCX conversion
 - GroupDocs.Conversion .NET
 - file format conversion in .NET
-
+type: docs
 ---
-
-
 # How to Convert VSX Files to DOCX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

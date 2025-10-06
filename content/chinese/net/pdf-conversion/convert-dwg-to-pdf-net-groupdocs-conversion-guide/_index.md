@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 掌握 .NET DWG 到 PDF 的转换——综合指南"
 "url": "/zh/net/pdf-conversion/convert-dwg-to-pdf-net-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 掌握 .NET DWG 到 PDF 的转换
 
 ## 介绍

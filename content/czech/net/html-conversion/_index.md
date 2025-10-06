@@ -3,8 +3,8 @@
 "title": "Výukové programy pro konverzi HTML pro GroupDocs.Conversion .NET"
 "url": "/cs/net/html-conversion/"
 "weight": 26
+type: docs
 ---
-
 # Výukové programy pro konverzi HTML pro GroupDocs.Conversion .NET
 
 Naše návody na převod HTML ukazují, jak transformovat dokumenty do webového formátu HTML. Tyto podrobné návody pokrývají převod různých zdrojových formátů, včetně Wordu, PDF, Excelu, PowerPointu, obrázků, výkresů CAD, e-mailových zpráv a dalších, do HTML. Seznamte se s možnostmi převodu specifickými pro HTML, správou vložených zdrojů, zachováním stylů dokumentů, zpracováním responzivních rozvržení a řízením výstupní struktury HTML. Každý návod obsahuje kompletní příklady kódu C# pro vytváření vysoce kvalitních HTML reprezentací vašich dokumentů, které zachovávají vzhled a věrnost obsahu originálu.

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して DXF を PowerPoint に効率的に変換する"
 "url": "/ja/net/cad-technical-drawing-formats/convert-dxf-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して DXF を PowerPoint に効率的に変換する
 
 ## 導入

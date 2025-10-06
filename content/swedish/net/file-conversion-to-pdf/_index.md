@@ -5,8 +5,8 @@
 "title": "Filkonvertering till PDF"
 "url": "/sv/net/file-conversion-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Filkonvertering till PDF
 
 ## Introduktion:

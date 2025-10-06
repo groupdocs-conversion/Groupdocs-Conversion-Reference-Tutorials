@@ -4,8 +4,8 @@
 "title": "Come convertire DWG in TEX utilizzando GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/cad-technical-drawing-formats/convert-dwg-to-tex-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire DWG in TEX utilizzando GroupDocs.Conversion per .NET: una guida completa
 
 ## Introduzione

@@ -5,8 +5,8 @@
 "title": "Konversi MOBI ke PDF"
 "url": "/id/net/document-conversion/convert-mobi-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Konversi MOBI ke PDF
 
 ## Perkenalan

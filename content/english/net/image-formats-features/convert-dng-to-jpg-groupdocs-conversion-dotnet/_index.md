@@ -8,10 +8,8 @@ keywords:
 - DNG to JPG conversion
 - GroupDocs.Conversion for .NET
 - image file conversion
-
+type: docs
 ---
-
-
 # Convert DNG to JPG Easily with GroupDocs.Conversion for .NET: Step-by-Step Guide
 
 ## Introduction

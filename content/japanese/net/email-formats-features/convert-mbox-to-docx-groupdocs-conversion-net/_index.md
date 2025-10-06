@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用した効率的な MBOX から DOCX への変換"
 "url": "/ja/net/email-formats-features/convert-mbox-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用した効率的な MBOX から DOCX への変換
 
 ## 導入

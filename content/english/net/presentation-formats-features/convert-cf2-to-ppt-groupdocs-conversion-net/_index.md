@@ -8,10 +8,8 @@ keywords:
 - Convert CF2 to PPT
 - GroupDocs.Conversion for .NET
 - CF2 to PowerPoint conversion
-
+type: docs
 ---
-
-
 # Convert CF2 Files to PowerPoint Presentations Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - convert Adobe Illustrator to Word
 - GroupDocs.Conversion .NET library
 - AI file conversion
-
+type: docs
 ---
-
-
 # Convert Adobe Illustrator Files to Word Documents Using GroupDocs.Conversion .NET
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - BMP to SVG conversion
 - GroupDocs.Conversion .NET
 - .NET image conversion
-
+type: docs
 ---
-
-
 # Convert BMP to SVG in .NET Using GroupDocs.Conversion for Seamless Image Transformations
 
 ## Introduction

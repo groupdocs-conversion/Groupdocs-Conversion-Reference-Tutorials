@@ -8,10 +8,8 @@ keywords:
 - convert XLTM to PDF
 - GroupDocs.Conversion for .NET
 - XLTM to PDF conversion
-
+type: docs
 ---
-
-
 # Convert XLTM to PDF Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

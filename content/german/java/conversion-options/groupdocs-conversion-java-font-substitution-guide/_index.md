@@ -4,8 +4,8 @@
 "title": "Schriftartenersetzung in Java&#58; GroupDocs.Conversion für konsistente PDF-Ausgabe meistern"
 "url": "/de/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/"
 "weight": 1
+type: docs
 ---
-
 # Schriftartenersetzung mit GroupDocs.Conversion für Java meistern
 
 ## Einführung

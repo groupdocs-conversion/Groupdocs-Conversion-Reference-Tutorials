@@ -8,10 +8,8 @@ keywords:
 - Convert VCF to HTML
 - GroupDocs.Conversion .NET
 - HTML conversion
-
+type: docs
 ---
-
-
 # How to Convert VCF Files to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

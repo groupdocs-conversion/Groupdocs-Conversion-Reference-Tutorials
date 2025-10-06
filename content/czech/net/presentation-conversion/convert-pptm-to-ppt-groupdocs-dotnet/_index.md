@@ -4,8 +4,8 @@
 "title": "Převod PPTM na PPT pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/presentation-conversion/convert-pptm-to-ppt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod PPTM na PPT pomocí GroupDocs.Conversion pro .NET: Komplexní průvodce
 
 V obchodním světě jsou prezentace v PowerPointu nezbytnými nástroji. Ne každý má však přístup k nejnovějším verzím Microsoft Office, což vyžaduje převod z formátu PPTM (soubory PowerPointu s makry) do formátu PPT (starší formát PowerPointu). Tato příručka vás provede používáním nástroje GroupDocs.Conversion for .NET k bezproblémovému převodu souborů PPTM do formátu PPT.

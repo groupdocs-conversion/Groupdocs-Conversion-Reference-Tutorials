@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion ile .NET'te Dinamik Çıktı Yolları&#58; Kapsamlı Bir Kılavuz"
 "url": "/tr/net/document-output-saving/dynamic-output-paths-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion ile .NET'te Dinamik Çıktı Yolları: Kapsamlı Bir Kılavuz
 
 ## giriiş

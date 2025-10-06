@@ -5,8 +5,8 @@
 "title": "Converter páginas da Web HTM em PDF"
 "url": "/pt/net/convert-files-to-pdf/convert-htm-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # Converter páginas da Web HTM em PDF
 
 ## Introdução

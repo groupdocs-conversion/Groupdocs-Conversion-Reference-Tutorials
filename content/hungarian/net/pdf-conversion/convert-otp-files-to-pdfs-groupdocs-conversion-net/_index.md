@@ -4,8 +4,8 @@
 "title": "OTP fájlok konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével - Zökkenőmentes konvertálási útmutató"
 "url": "/hu/net/pdf-conversion/convert-otp-files-to-pdfs-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OTP fájlok konvertálása PDF formátumba a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

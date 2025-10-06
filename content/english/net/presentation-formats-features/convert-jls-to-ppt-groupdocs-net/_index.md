@@ -8,10 +8,8 @@ keywords:
 - convert JLS to PPT
 - JPEG Lossless Image File conversion
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # Convert JLS to PPT: Step-by-Step Guide Using GroupDocs.Conversion for .NET
 
 ## Introduction

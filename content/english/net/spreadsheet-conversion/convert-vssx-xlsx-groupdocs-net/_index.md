@@ -8,10 +8,8 @@ keywords:
 - convert VSSX to XLSX
 - GroupDocs.Conversion for .NET
 - VSSX to Excel conversion
-
+type: docs
 ---
-
-
 # Convert VSSX to XLSX Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

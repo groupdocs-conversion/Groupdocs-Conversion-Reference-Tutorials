@@ -4,8 +4,8 @@
 "title": "DOCX konvertálása XLSX-be a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-conversion/convert-docx-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DOCX konvertálása XLSX-re a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Convertir VSTX a Excel con GroupDocs.Conversion .NET&#58; Guía paso a paso"
 "url": "/es/net/spreadsheet-formats-features/convert-vstx-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir VSTX a Excel con GroupDocs.Conversion .NET: guía paso a paso
 
 ## Introducción

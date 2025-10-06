@@ -4,8 +4,8 @@
 "title": "DOTM konvertálása PDF-be .NET-ben a GroupDocs.Conversion használatával – Átfogó útmutató"
 "url": "/hu/net/pdf-conversion/convert-dotm-to-pdf-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # DOTM konvertálása PDF-be .NET-ben a GroupDocs.Conversion használatával: Átfogó útmutató
 
 ## Bevezetés

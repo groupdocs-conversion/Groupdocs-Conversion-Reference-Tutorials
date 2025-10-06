@@ -4,8 +4,8 @@
 "title": "تحويل PPTM إلى PNG بكفاءة باستخدام GroupDocs.Conversion لـ .NET - دليل كامل"
 "url": "/ar/net/presentation-formats-features/groupdocs-conversion-net-pptm-to-png/"
 "weight": 1
+type: docs
 ---
-
 # تحويل PPTM إلى PNG بكفاءة باستخدام GroupDocs.Conversion لـ .NET
 
 أهلاً بكم في دليل شامل حول كيفية الاستفادة من إمكانيات GroupDocs.Conversion لـ .NET لتحميل ملفات Microsoft PowerPoint Presentation (.pptm) بسهولة وتحويلها إلى صور PNG عالية الجودة. سواء كنت تدير عروضاً تقديمية أو تُنشئ محتوى مرئياً، سيزودك هذا البرنامج التعليمي بالمهارات اللازمة.

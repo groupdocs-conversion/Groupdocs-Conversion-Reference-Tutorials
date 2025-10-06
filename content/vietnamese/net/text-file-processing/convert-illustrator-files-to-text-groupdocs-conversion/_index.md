@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tệp Adobe Illustrator thành văn bản bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/text-file-processing/convert-illustrator-files-to-text-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp Adobe Illustrator thành văn bản bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用して Java でメールをタイムゾーンオフセット付きで PDF に変換する方法"
 "url": "/ja/java/email-formats/email-to-pdf-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion を使用して Java でメールをタイムゾーンオフセット付きで PDF に変換する方法
 
 ## 導入

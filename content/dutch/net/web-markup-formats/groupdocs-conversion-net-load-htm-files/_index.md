@@ -4,8 +4,8 @@
 "title": "Laden en converteren van HTM-bestanden met GroupDocs.Conversion.NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/web-markup-formats/groupdocs-conversion-net-load-htm-files/"
 "weight": 1
+type: docs
 ---
-
 # Een HTM-bestand laden en converteren met GroupDocs.Conversion .NET
 
 ## Invoering

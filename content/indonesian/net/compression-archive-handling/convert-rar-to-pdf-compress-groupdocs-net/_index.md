@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi File RAR ke PDF dan Mengompresnya menjadi ZIP menggunakan GroupDocs.Conversion for .NET"
 "url": "/id/net/compression-archive-handling/convert-rar-to-pdf-compress-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi File RAR ke PDF dan Mengompresnya ke ZIP Menggunakan GroupDocs.Conversion for .NET
 
 ## Perkenalan

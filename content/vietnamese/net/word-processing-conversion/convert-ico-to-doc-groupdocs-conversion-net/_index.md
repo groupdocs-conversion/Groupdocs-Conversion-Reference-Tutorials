@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi ICO sang DOC bằng GroupDocs.Conversion cho .NET | Hướng dẫn toàn diện"
 "url": "/vi/net/word-processing-conversion/convert-ico-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi ICO sang DOC bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

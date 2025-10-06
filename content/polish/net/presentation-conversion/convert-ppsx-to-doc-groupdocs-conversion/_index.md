@@ -4,8 +4,8 @@
 "title": "Konwersja PPSX do DOC za pomocą GroupDocs.Conversion dla .NET&#58; Przewodnik krok po kroku"
 "url": "/pl/net/presentation-conversion/convert-ppsx-to-doc-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja PPSX do DOC za pomocą GroupDocs.Conversion dla .NET: Przewodnik krok po kroku
 
 ## Wstęp

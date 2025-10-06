@@ -8,10 +8,8 @@ keywords:
 - convert XPS to Excel
 - GroupDocs.Conversion for .NET
 - XLSX conversion
-
+type: docs
 ---
-
-
 # Convert XPS Files to Excel (XLSX) Using GroupDocs.Conversion for .NET
 
 ## Introduction

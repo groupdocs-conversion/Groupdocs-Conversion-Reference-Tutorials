@@ -4,8 +4,8 @@
 "title": "Converteer IFC-bestanden naar PowerPoint met GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/presentation-conversion/convert-ifc-files-to-pptx-using-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer IFC-bestanden naar PowerPoint met GroupDocs.Conversion voor .NET: een uitgebreide handleiding
 
 ## Invoering

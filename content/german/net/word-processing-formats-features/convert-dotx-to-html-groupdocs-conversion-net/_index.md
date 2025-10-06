@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie DOTX in HTML mit GroupDocs.Conversion für .NET – Eine Schritt-für-Schritt-Anleitung"
 "url": "/de/net/word-processing-formats-features/convert-dotx-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie DOTX in HTML mit GroupDocs.Conversion für .NET
 
 ## Einführung

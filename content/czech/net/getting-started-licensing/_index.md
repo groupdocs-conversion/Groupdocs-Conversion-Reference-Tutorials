@@ -3,8 +3,8 @@
 "title": "Výukové programy pro začátečníky a licencování GroupDocs.Conversion pro vývojáře .NET"
 "url": "/cs/net/getting-started-licensing/"
 "weight": 1
+type: docs
 ---
-
 # Výukové programy pro začátečníky a licencování GroupDocs.Conversion pro vývojáře .NET
 
 Začněte svou cestu s těmito základními tutoriály o GroupDocs.Conversion, které vás provedou instalací, konfigurací licencování a provedením prvních konverzí dokumentů v .NET. Naše průvodce pro začátečníky ukazují, jak nastavit vývojové prostředí, inicializovat knihovnu GroupDocs.Conversion, konfigurovat licenci ze souboru nebo streamu, nastavit měřené licencování a implementovat základní konverzní operace pomocí standardních i Fluent API. Postupujte podle těchto tutoriálů, abyste si rychle osvojili základy a připravili se na pokročilejší úlohy konverze dokumentů ve vašich aplikacích .NET.

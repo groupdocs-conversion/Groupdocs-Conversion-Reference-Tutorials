@@ -4,8 +4,8 @@
 "title": "Konversi DOCM ke PPT Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Pengembang"
 "url": "/id/net/presentation-formats-features/convert-docm-to-ppt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konversi DOCM ke PPT Menggunakan GroupDocs.Conversion untuk .NET: Panduan Pengembang
 
 ## Perkenalan

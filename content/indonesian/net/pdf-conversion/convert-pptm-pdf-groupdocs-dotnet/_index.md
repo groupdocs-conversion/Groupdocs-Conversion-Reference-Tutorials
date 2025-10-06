@@ -4,8 +4,8 @@
 "title": "Konversi PPTM ke PDF menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/pdf-conversion/convert-pptm-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konversi File PPTM ke PDF Menggunakan GroupDocs.Conversion untuk .NET: Panduan Lengkap
 ## Perkenalan
 Mengonversi presentasi Microsoft PowerPoint ke PDF bisa menjadi tugas yang membosankan, terutama saat menangani banyak file. Dengan memanfaatkan kemampuan otomatisasi pengembangan perangkat lunak, kita dapat menyederhanakan proses ini menggunakan GroupDocs.Conversion for .NET. Tutorial ini akan memandu Anda mengonversi file PPTM ke PDF menggunakan C#.

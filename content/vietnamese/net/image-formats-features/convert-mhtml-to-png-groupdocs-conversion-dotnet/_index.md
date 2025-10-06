@@ -4,8 +4,8 @@
 "title": "Chuyển đổi MHTML sang PNG bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/image-formats-features/convert-mhtml-to-png-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi MHTML sang PNG bằng GroupDocs.Conversion cho .NET: Hướng dẫn toàn diện
 
 Trong môi trường kỹ thuật số phát triển nhanh như hiện nay, việc chuyển đổi tài liệu liền mạch là điều cần thiết. Cho dù bạn là nhà phát triển muốn hợp lý hóa quá trình xử lý tài liệu hay tổ chức muốn nâng cao khả năng truy cập dữ liệu, việc chuyển đổi tệp MHTML sang định dạng PNG có thể cải thiện đáng kể hiệu quả. Hướng dẫn này hướng dẫn bạn cách sử dụng GroupDocs.Conversion cho .NET để đạt được mục tiêu này một cách hiệu quả.

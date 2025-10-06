@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して SXC を TEX に変換する包括的なガイド"
 "url": "/ja/net/text-markup-conversion/convert-sxc-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して SXC を TEX に変換する: 包括的なガイド
 
 今日のデータ駆動型の世界では、異なるフォーマット間でのドキュメントの変換は必須です。レガシーソフトウェアを扱う場合でも、特定のフォーマット要件を扱う場合でも、シームレスなファイル変換は時間を節約し、面倒な作業を防ぎます。このチュートリアルでは、 **GroupDocs.Conversion for .NET** StarOffice Calcスプレッドシート（.sxc）ファイルをLaTeXソースドキュメント（.tex）に変換します。この強力なツールは、ドキュメント変換を簡単かつ正確に効率化します。

@@ -4,8 +4,8 @@
 "title": "Jak převést soubory OXPS do formátu TXT pomocí GroupDocs.Conversion pro .NET | Průvodce převodem textu a značek"
 "url": "/cs/net/text-markup-conversion/convert-oxps-to-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory OXPS do formátu TXT pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

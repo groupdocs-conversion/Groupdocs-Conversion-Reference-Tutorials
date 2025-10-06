@@ -4,8 +4,8 @@
 "title": ".NET&#58;te GroupDocs.Conversion Kullanarak RAR Dosyalarını Verimli Şekilde Çıkarın&#58; Bir Geliştiricinin Kılavuzu"
 "url": "/tr/net/compression-archive-handling/extract-rar-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET'te GroupDocs.Conversion ile RAR Dosyalarını Verimli Şekilde Çıkarın: Bir Geliştiricinin Kılavuzu
 
 ## giriiş

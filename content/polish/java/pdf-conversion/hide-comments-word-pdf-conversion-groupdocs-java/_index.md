@@ -4,8 +4,8 @@
 "title": "Ukryj komentarze w konwersji Word-PDF za pomocą GroupDocs.Conversion dla Java"
 "url": "/pl/java/pdf-conversion/hide-comments-word-pdf-conversion-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Ukryj komentarze w konwersji Word-PDF za pomocą GroupDocs.Conversion dla Java
 
 dzisiejszym szybkim cyfrowym świecie konwersja dokumentów Word do PDF-ów jest rutynowym zadaniem dla wielu profesjonalistów. Jednak gdy dokumenty te zawierają poufne komentarze lub śledzone zmiany, możesz preferować czyste pliki PDF bez żadnych adnotacji. Ten samouczek przeprowadzi Cię przez proces używania GroupDocs.Conversion dla Java, aby bezproblemowo ukrywać komentarze podczas konwersji.

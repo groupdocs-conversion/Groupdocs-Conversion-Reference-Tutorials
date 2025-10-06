@@ -4,8 +4,8 @@
 "title": "XLSX konvertálása HTML-lé a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/html-conversion/convert-xlsx-to-html-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # XLSX konvertálása HTML-lé a GroupDocs.Conversion for .NET segítségével: Átfogó útmutató
 
 ## Bevezetés

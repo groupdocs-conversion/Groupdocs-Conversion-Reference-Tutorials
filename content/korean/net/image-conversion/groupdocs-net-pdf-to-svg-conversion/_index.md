@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 PDF를 SVG로 변환"
 "url": "/ko/net/image-conversion/groupdocs-net-pdf-to-svg-conversion/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 PDF를 SVG로 변환
 
 ## 이미지 변환 튜토리얼

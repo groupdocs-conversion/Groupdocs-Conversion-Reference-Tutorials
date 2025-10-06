@@ -4,8 +4,8 @@
 "title": "POTX konvertálása SVG-vé a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/presentation-formats-features/convert-potx-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # POTX konvertálása SVG-vé a GroupDocs.Conversion for .NET használatával: Teljes körű útmutató
 
 ## Bevezetés

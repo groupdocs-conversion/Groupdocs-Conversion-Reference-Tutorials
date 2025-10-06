@@ -8,10 +8,8 @@ keywords:
 - convert EMZ to HTML
 - GroupDocs.Conversion for .NET
 - EMZ file conversion
-
+type: docs
 ---
-
-
 # How to Convert EMZ Files to HTML Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

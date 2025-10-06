@@ -5,8 +5,8 @@
 "title": "แปลง TSV เป็น PDF"
 "url": "/th/net/file-format-conversion-tutorials/convert-tsv-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # แปลง TSV เป็น PDF
 
 ## การแนะนำ

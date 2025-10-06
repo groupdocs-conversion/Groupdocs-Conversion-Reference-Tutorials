@@ -4,8 +4,8 @@
 "title": "PCL konvertálása CSV-vé a GroupDocs.Conversion .NET használatával | Lépésről lépésre útmutató a hatékony adatfeldolgozáshoz"
 "url": "/hu/net/csv-structured-data-processing/convert-pcl-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PCL fájlok konvertálása CSV formátumba a GroupDocs.Conversion .NET segítségével
 
 ## Bevezetés

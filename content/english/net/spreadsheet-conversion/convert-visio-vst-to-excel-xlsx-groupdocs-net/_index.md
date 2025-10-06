@@ -8,10 +8,8 @@ keywords:
 - Convert Visio VST to Excel XLSX
 - GroupDocs.Conversion for .NET
 - File Conversion Guide
-
+type: docs
 ---
-
-
 # How to Convert Visio VST Files to Excel XLSX Using GroupDocs.Conversion in .NET
 
 ## Introduction

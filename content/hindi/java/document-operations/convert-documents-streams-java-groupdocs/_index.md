@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion का उपयोग करके Java में स्ट्रीम से दस्तावेज़ों को परिवर्तित करें"
 "url": "/hi/java/document-operations/convert-documents-streams-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion का उपयोग करके Java में स्ट्रीम से दस्तावेज़ों को परिवर्तित करें
 
 ## परिचय

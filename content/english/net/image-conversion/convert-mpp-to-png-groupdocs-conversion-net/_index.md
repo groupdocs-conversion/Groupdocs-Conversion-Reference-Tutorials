@@ -8,10 +8,8 @@ keywords:
 - convert MPP to PNG
 - GroupDocs.Conversion for .NET
 - MPP file conversion
-
+type: docs
 ---
-
-
 # Convert MPP Files to PNG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

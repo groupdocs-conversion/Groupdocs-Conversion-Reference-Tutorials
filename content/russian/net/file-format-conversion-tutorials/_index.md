@@ -5,8 +5,8 @@
 "title": "Преобразование формата файла"
 "url": "/ru/net/file-format-conversion-tutorials/"
 "weight": 21
+type: docs
 ---
-
 # Преобразование формата файла
 
 ## Введение

@@ -8,10 +8,8 @@ keywords:
 - convert MSG files to PowerPoint
 - GroupDocs.Conversion for .NET
 - Outlook MSG to PPT conversion
-
+type: docs
 ---
-
-
 # How to Convert Outlook MSG Files to PowerPoint Presentations Using GroupDocs.Conversion for .NET
 
 ## Introduction

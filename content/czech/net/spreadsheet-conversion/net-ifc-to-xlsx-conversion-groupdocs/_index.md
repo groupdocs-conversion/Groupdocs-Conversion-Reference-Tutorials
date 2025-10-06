@@ -4,8 +4,8 @@
 "title": "Zvládněte převod .NET IFC do XLSX pomocí GroupDocs.Conversion – Komplexní průvodce"
 "url": "/cs/net/spreadsheet-conversion/net-ifc-to-xlsx-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Zvládněte převod .NET IFC do XLSX pomocí GroupDocs.Conversion: Komplexní průvodce
 
 ## Zavedení

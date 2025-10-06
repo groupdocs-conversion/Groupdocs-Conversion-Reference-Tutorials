@@ -4,8 +4,8 @@
 "title": "Konversi DWF ke CSV dengan GroupDocs.Conversion untuk .NET&#58; Panduan Langkah demi Langkah"
 "url": "/id/net/cad-technical-drawing-formats/convert-dwf-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi File DWF ke CSV Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

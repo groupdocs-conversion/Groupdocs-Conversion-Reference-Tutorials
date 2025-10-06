@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 TIFF를 PDF로 변환하는 방법&#58; 단계별 가이드"
 "url": "/ko/net/pdf-conversion/convert-tiff-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 TIFF를 PDF로 변환하는 방법: 단계별 가이드
 
 디지털 시대에 파일 형식 호환성을 유지하는 것은 효과적인 문서 관리에 필수적입니다. IT 전문가, 개발자 또는 정기적으로 문서를 다루는 사람 등 어떤 직종이든 파일을 한 형식에서 다른 형식으로 변환하면 시간을 절약하고 생산성을 높일 수 있습니다. 이 가이드에서는 파일 변환을 간소화하도록 설계된 강력한 라이브러리인 GroupDocs.Conversion for .NET을 사용하여 TIFF 파일을 PDF로 변환하는 방법을 안내합니다.

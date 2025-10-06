@@ -4,8 +4,8 @@
 "title": "Efektivní převod PSD do JPG pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/image-conversion/psd-to-jpg-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod PSD do JPG pomocí GroupDocs.Conversion pro .NET
 
 dnešní digitální krajině je konverze obrazových formátů nezbytná. Ať už sdílíte grafické návrhy v různých typech souborů nebo optimalizujete webové aplikace s obrázky, konverze souborů Photoshopu PSD do univerzálně kompatibilních obrázků JPG je klíčová. Tento tutoriál vás provede používáním GroupDocs.Conversion for .NET k efektivnímu převodu souborů PSD do vysoce kvalitních obrázků JPG.

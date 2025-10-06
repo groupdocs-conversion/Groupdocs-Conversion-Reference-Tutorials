@@ -4,8 +4,8 @@
 "title": "كيفية تحويل ملفات PLT إلى DOCX باستخدام GroupDocs.Conversion لـ .NET (دليل خطوة بخطوة)"
 "url": "/ar/net/cad-technical-drawing-formats/convert-plt-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل ملفات PLT إلى DOCX باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

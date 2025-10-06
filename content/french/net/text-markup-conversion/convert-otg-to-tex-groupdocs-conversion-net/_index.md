@@ -4,8 +4,8 @@
 "title": "Comment convertir des fichiers OTG en TEX à l'aide de GroupDocs.Conversion pour .NET ? Un guide complet"
 "url": "/fr/net/text-markup-conversion/convert-otg-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir des fichiers OTG en TEX avec GroupDocs.Conversion pour .NET
 
 ## Introduction

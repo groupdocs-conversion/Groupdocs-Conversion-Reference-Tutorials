@@ -5,8 +5,8 @@
 "title": "Конвертировать VSS в PDF"
 "url": "/ru/net/converting-file-types-to-pdf/convert-vss-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Конвертировать VSS в PDF
 
 ## Введение

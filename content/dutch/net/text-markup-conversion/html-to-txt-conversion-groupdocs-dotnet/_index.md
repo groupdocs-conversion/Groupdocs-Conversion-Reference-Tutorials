@@ -4,8 +4,8 @@
 "title": "Converteer HTML naar TXT met GroupDocs.Conversion voor .NET&#58; een complete handleiding"
 "url": "/nl/net/text-markup-conversion/html-to-txt-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converteer HTML naar TXT met GroupDocs.Conversion voor .NET
 
 ## Invoering

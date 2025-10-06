@@ -4,8 +4,8 @@
 "title": "EML fájlok konvertálása PowerPoint PPT-vé a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/presentation-conversion/convert-eml-ppt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # EML fájlok konvertálása PowerPoint PPT-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

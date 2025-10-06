@@ -4,8 +4,8 @@
 "title": "PPTX fájlkonvertálás mestere a GroupDocs.Conversion segítségével a .NET®-hez készült egyszerű és hatékony megoldásokhoz"
 "url": "/hu/net/presentation-formats-features/master-file-conversion-groupdocs-pptx/"
 "weight": 1
+type: docs
 ---
-
 # PPTX fájlkonvertálás mesteri szintje a GroupDocs.Conversion for .NET segítségével: Könnyed és hatékony megoldások
 
 ## Bevezetés

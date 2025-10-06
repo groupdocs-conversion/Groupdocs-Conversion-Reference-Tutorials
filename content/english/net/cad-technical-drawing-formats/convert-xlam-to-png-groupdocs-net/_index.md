@@ -8,10 +8,8 @@ keywords:
 - XLAM to PNG conversion
 - GroupDocs.Conversion for .NET
 - convert XLAM files
-
+type: docs
 ---
-
-
 # How to Convert XLAM Files to PNG Using GroupDocs.Conversion for .NET
 
 ## Introduction

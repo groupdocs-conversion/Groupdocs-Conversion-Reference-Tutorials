@@ -5,8 +5,8 @@
 "title": "Конвертировать изображения DIB в PDF"
 "url": "/ru/net/file-conversion-to-pdf/convert-dib-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # Конвертировать изображения DIB в PDF
 
 ## Введение

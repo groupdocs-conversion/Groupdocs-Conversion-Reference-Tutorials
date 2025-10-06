@@ -8,10 +8,8 @@ keywords:
 - convert PPSX to PNG
 - GroupDocs.Conversion for .NET
 - file conversion in .NET
-
+type: docs
 ---
-
-
 # Convert PPSX Files to PNG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

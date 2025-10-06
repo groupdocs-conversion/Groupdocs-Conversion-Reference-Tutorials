@@ -8,10 +8,8 @@ keywords:
 - .NET VSDX to XLSX conversion
 - Visio diagram to Excel spreadsheet
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # Efficient .NET VSDX to XLSX Conversion Using GroupDocs.Conversion
 
 ## Introduction

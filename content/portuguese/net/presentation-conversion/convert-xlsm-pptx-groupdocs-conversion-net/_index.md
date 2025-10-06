@@ -4,8 +4,8 @@
 "title": "Converta XLSM para PPTX com eficiência usando o GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/presentation-conversion/convert-xlsm-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter XLSM para PPTX com eficiência usando o GroupDocs.Conversion para .NET: um guia completo
 
 ## Introdução

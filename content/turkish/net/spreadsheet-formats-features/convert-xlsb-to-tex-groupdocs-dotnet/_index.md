@@ -4,8 +4,8 @@
 "title": "XLSB'yi TEX'e Dönüştürme&#58; .NET için GroupDocs.Conversion'ı Kullanarak Adım Adım Kılavuz"
 "url": "/tr/net/spreadsheet-formats-features/convert-xlsb-to-tex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # XLSB'yi GroupDocs.Conversion for .NET ile TEX'e dönüştürün
 
 ## giriiş

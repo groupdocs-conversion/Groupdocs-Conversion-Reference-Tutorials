@@ -8,10 +8,8 @@ keywords:
 - convert Apple Mail to SVG
 - GroupDocs.Conversion for .NET
 - EMLX to SVG conversion
-
+type: docs
 ---
-
-
 # Convert Apple Mail Messages to SVG with GroupDocs.Conversion for .NET
 
 ## Introduction

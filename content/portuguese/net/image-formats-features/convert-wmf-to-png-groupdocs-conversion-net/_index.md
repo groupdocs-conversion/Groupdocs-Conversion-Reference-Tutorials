@@ -4,8 +4,8 @@
 "title": "Guia passo a passo para converter WMF para PNG no .NET usando GroupDocs.Conversion"
 "url": "/pt/net/image-formats-features/convert-wmf-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converter WMF para PNG usando GroupDocs.Conversion para .NET
 
 ## Introdução

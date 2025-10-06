@@ -5,8 +5,8 @@
 "title": "Convertire PPT in PDF"
 "url": "/it/net/pdf-conversion/convert-ppt-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # Convertire PPT in PDF
 
 ## Introduzione

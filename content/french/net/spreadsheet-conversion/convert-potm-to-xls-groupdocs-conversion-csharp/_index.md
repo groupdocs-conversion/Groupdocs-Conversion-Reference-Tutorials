@@ -4,8 +4,8 @@
 "title": "Convertir POTM en XLS en C# à l'aide de GroupDocs.Conversion pour .NET &#58; un guide étape par étape"
 "url": "/fr/net/spreadsheet-conversion/convert-potm-to-xls-groupdocs-conversion-csharp/"
 "weight": 1
+type: docs
 ---
-
 # Convertir POTM en XLS avec GroupDocs.Conversion pour .NET
 
 ## Introduction

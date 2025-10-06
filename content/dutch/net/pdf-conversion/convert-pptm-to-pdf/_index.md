@@ -5,8 +5,8 @@
 "title": "PPTM naar PDF converteren"
 "url": "/nl/net/pdf-conversion/convert-pptm-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # PPTM naar PDF converteren
 
 ## Invoering

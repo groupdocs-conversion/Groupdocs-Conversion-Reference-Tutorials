@@ -4,8 +4,8 @@
 "title": "IGS fájlok PPTX formátumba konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/presentation-formats-features/convert-igs-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # IGS fájlok PPTX formátumba konvertálása a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

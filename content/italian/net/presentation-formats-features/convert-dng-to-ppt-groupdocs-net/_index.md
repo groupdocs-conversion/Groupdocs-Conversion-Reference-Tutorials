@@ -4,8 +4,8 @@
 "title": "Convertire DNG in PowerPoint utilizzando GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/presentation-formats-features/convert-dng-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire i file DNG in PowerPoint utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

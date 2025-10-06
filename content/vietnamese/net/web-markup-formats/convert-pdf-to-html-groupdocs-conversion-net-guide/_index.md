@@ -4,8 +4,8 @@
 "title": "Chuyển đổi PDF sang HTML bằng GroupDocs.Conversion .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/web-markup-formats/convert-pdf-to-html-groupdocs-conversion-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi PDF sang HTML bằng GroupDocs.Conversion .NET: Hướng dẫn từng bước
 
 ## Giới thiệu

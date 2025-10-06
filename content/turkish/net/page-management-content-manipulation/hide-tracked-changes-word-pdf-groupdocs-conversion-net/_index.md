@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion ile Word'den PDF'e Dönüştürmede İzlenen Değişiklikleri Gizle"
 "url": "/tr/net/page-management-content-manipulation/hide-tracked-changes-word-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak Gizli İzlenen Değişikliklerle Gelişmiş Word'den PDF'e Dönüştürmede Ustalaşma
 
 ## giriiş

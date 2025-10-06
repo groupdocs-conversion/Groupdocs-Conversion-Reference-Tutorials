@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion을 사용하여 .NET에서 VSDM을 PDF로 변환하는 단계별 가이드"
 "url": "/ko/net/pdf-conversion/convert-vsmd-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 VSDM 파일을 PDF로 변환
 
 ## 소개

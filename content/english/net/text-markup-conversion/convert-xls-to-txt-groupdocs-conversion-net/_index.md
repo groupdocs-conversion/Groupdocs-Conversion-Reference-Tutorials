@@ -8,10 +8,8 @@ keywords:
 - convert XLS to TXT
 - GroupDocs.Conversion for .NET
 - Excel to Text conversion
-
+type: docs
 ---
-
-
 # Convert Excel (XLS) Files to Text (TXT) Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

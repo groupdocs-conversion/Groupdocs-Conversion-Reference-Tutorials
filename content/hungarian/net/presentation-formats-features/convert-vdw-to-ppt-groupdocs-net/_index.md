@@ -4,8 +4,8 @@
 "title": "Visio webes rajzok hatékony konvertálása PowerPoint formátumba a GroupDocs for .NET Developers segítségével"
 "url": "/hu/net/presentation-formats-features/convert-vdw-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Visio webes rajzok (VDW) hatékony konvertálása PowerPoint-bemutatókká a GroupDocs for .NET Developers használatával
 
 ## Bevezetés

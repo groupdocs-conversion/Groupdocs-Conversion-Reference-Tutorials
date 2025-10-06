@@ -5,8 +5,8 @@
 "title": "Převod šablon DOTX Word do PDF"
 "url": "/cs/net/file-conversion-to-pdf/convert-dotx-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # Převod šablon DOTX Word do PDF
 
 ## Zavedení

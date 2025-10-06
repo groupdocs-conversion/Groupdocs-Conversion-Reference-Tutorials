@@ -4,8 +4,8 @@
 "title": "Как преобразовать файлы журналов в CSV с помощью GroupDocs.Conversion для .NET? Пошаговое руководство"
 "url": "/ru/net/csv-structured-data-processing/convert-log-file-to-csv-using-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Как преобразовать файлы журналов в CSV с помощью GroupDocs.Conversion для .NET: пошаговое руководство
 
 ## Введение

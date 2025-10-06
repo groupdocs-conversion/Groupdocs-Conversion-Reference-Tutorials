@@ -4,8 +4,8 @@
 "title": "Hoe u DNG naar PNG converteert met GroupDocs.Conversion voor .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/image-conversion/convert-dng-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DNG naar PNG converteren met GroupDocs.Conversion voor .NET: een stapsgewijze handleiding
 
 ## Invoering

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して DIB を PDF に効率的に変換する"
 "url": "/ja/net/pdf-conversion/groupdocs-conversion-net-dib-to-pdf/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET で DIB を PDF に効率的に変換
 
 ## 導入

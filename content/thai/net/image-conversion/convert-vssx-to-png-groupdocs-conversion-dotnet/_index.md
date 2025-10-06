@@ -4,8 +4,8 @@
 "title": "วิธีการแปลงไฟล์ VSSX เป็นรูปภาพ PNG โดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/image-conversion/convert-vssx-to-png-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการแปลงไฟล์ VSSX เป็นรูปภาพ PNG โดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

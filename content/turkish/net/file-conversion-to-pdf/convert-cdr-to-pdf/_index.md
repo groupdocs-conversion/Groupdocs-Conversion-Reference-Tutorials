@@ -5,8 +5,8 @@
 "title": "CDR Vektör Grafiklerini PDF'ye Dönüştür"
 "url": "/tr/net/file-conversion-to-pdf/convert-cdr-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # CDR Vektör Grafiklerini PDF'ye Dönüştür
 
 ## giriiş

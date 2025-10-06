@@ -4,8 +4,8 @@
 "title": "Zvládněte převod OST do XLSX pomocí GroupDocs.Conversion pro .NET v C#"
 "url": "/cs/net/spreadsheet-conversion/convert-ost-to-xlsx-groupdocs-csharp/"
 "weight": 1
+type: docs
 ---
-
 # Zvládnutí konverze OST do XLSX pomocí GroupDocs.Conversion pro .NET v C#
 
 ## Zavedení

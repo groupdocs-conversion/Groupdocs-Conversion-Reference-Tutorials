@@ -4,8 +4,8 @@
 "title": "Converter DIB para TXT usando GroupDocs.Conversion para .NET - Guia passo a passo"
 "url": "/pt/net/image-formats-features/convert-dib-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converter DIB para TXT com GroupDocs.Conversion para .NET
 
 ## Introdução

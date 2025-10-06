@@ -4,8 +4,8 @@
 "title": "Bemästra text-till-presentationskonvertering med GroupDocs i .NET – en omfattande guide"
 "url": "/sv/net/presentation-conversion/groupdocs-net-text-ppt-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Bemästra konvertering av text till presentation med GroupDocs i .NET
 
 ## Introduktion

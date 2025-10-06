@@ -4,8 +4,8 @@
 "title": "Padroneggiare la gestione delle costanti in GroupDocs.Conversion Java per progetti di conversione di file"
 "url": "/it/java/conversion-options/mastering-constants-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Padroneggiare la gestione delle costanti con GroupDocs.Conversion Java
 
 ## Introduzione

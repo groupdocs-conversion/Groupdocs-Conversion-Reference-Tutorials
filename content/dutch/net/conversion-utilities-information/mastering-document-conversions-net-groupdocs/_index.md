@@ -4,8 +4,8 @@
 "title": "Efficiënte documentconversies in .NET met behulp van GroupDocs.Conversion&#58; een uitgebreide handleiding"
 "url": "/nl/net/conversion-utilities-information/mastering-document-conversions-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Efficiënte documentconversies in .NET met GroupDocs.Conversion: een uitgebreide handleiding
 
 ## Invoering

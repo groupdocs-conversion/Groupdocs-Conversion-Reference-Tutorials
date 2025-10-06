@@ -4,8 +4,8 @@
 "title": "使用 Java 将 PDF 转换为 Word（带嵌入式文件删除）——使用 GroupDocs.Conversion 的分步指南"
 "url": "/zh/java/pdf-conversion/convert-pdf-to-word-java-embedded-file-removal/"
 "weight": 1
+type: docs
 ---
-
 # 使用 Java 将 PDF 转换为 Word 并移除嵌入文件：使用 GroupDocs.Conversion 的分步指南
 
 ## 介绍

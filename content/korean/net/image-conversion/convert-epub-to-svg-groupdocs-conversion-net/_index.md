@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 EPUB를 SVG로 변환하는 포괄적인 가이드"
 "url": "/ko/net/image-conversion/convert-epub-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 EPUB를 SVG로 변환: 종합 가이드
 
 ## 소개

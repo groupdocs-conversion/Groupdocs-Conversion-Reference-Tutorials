@@ -4,8 +4,8 @@
 "title": "Konversi PowerPoint yang Efisien&#58; Menggunakan GroupDocs.Conversion for .NET untuk Mengonversi PPT ke PPTX"
 "url": "/id/net/presentation-formats-features/convert-ppt-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi PowerPoint yang Efisien: Menggunakan GroupDocs.Conversion for .NET untuk Mengonversi PPT ke PPTX
 
 ## Perkenalan

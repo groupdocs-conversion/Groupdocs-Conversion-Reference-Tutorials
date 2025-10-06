@@ -4,8 +4,8 @@
 "title": "Comment convertir des fichiers VSX en TXT à l'aide de GroupDocs.Conversion pour .NET ? Guide étape par étape"
 "url": "/fr/net/text-file-processing/convert-vsx-to-txt-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir des fichiers VSX en TXT avec GroupDocs.Conversion pour .NET : guide étape par étape
 
 ## Introduction

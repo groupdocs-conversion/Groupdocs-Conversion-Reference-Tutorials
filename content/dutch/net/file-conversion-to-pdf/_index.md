@@ -5,8 +5,8 @@
 "title": "Bestandsconversie naar PDF"
 "url": "/nl/net/file-conversion-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Bestandsconversie naar PDF
 
 ## Invoering:

@@ -4,8 +4,8 @@
 "title": "วิธีการแปลงเทมเพลต PowerPoint (.potx) เป็นข้อความโดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/text-file-processing/convert-potx-to-text-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการโหลดและแปลงไฟล์เทมเพลต Microsoft PowerPoint Open XML (.potx) เป็นข้อความโดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi File MHT ke PPT dengan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/presentation-formats-features/convert-mht-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi File MHT ke PPT dengan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

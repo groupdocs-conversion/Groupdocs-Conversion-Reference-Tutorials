@@ -8,10 +8,8 @@ keywords:
 - convert CMX to TEX
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Convert CMX to TEX Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

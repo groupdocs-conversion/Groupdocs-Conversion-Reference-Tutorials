@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 EMLX를 TEX로 변환하는 단계별 가이드"
 "url": "/ko/net/email-formats-features/convert-emlx-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 EMLX 파일을 TEX 형식으로 변환
 
 ## 소개

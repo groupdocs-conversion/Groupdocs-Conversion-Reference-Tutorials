@@ -4,8 +4,8 @@
 "title": "แปลง EMF เป็น PDF ได้อย่างง่ายดายด้วย GroupDocs การแปลงสำหรับ .NET คำแนะนำที่ครอบคลุม"
 "url": "/th/net/pdf-conversion/convert-emf-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # แปลงไฟล์ EMF เป็น PDF โดยใช้ GroupDocs.Conversion สำหรับ .NET: คำแนะนำทีละขั้นตอน
 
 ## การแนะนำ

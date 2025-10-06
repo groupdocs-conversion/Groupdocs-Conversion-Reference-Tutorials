@@ -3,8 +3,8 @@
 "title": "Hướng dẫn chuyển đổi HTML cho GroupDocs.Conversion .NET"
 "url": "/vi/net/html-conversion/"
 "weight": 26
+type: docs
 ---
-
 # Hướng dẫn chuyển đổi HTML cho GroupDocs.Conversion .NET
 
 Hướng dẫn chuyển đổi HTML của chúng tôi trình bày cách chuyển đổi tài liệu sang định dạng HTML sẵn sàng cho web. Các hướng dẫn chi tiết này bao gồm chuyển đổi nhiều định dạng nguồn khác nhau bao gồm Word, PDF, Excel, PowerPoint, hình ảnh, bản vẽ CAD, tin nhắn email và nhiều định dạng khác sang HTML. Tìm hiểu về các tùy chọn chuyển đổi dành riêng cho HTML, quản lý tài nguyên nhúng, bảo toàn kiểu dáng tài liệu, xử lý bố cục phản hồi và kiểm soát cấu trúc HTML đầu ra. Mỗi hướng dẫn bao gồm các ví dụ mã C# hoàn chỉnh để tạo các biểu diễn HTML chất lượng cao cho tài liệu của bạn, duy trì giao diện và độ trung thực của nội dung gốc.

@@ -5,8 +5,8 @@
 "title": "PLT naar PDF converteren"
 "url": "/nl/net/pdf-conversion/convert-plt-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # PLT naar PDF converteren
 
 ## Invoering

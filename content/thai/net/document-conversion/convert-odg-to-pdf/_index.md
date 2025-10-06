@@ -5,8 +5,8 @@
 "title": "แปลง ODG เป็น PDF"
 "url": "/th/net/document-conversion/convert-odg-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # แปลง ODG เป็น PDF
 
 ## การแนะนำ

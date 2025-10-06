@@ -4,8 +4,8 @@
 "title": "Podrobný návod k převodu JPEG 2000 do Wordu pomocí nástroje GroupDocs.Conversion pro .NET"
 "url": "/cs/net/word-processing-conversion/convert-jpeg-2000-word-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod JPEG 2000 do Wordu: Podrobný návod s použitím GroupDocs.Conversion pro .NET
 
 ## Zavedení

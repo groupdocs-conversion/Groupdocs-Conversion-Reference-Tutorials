@@ -5,8 +5,8 @@
 "title": "Konvertera DWT CAD-mallfiler till PDF"
 "url": "/sv/net/convert-files-to-pdf/convert-dwt-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Konvertera DWT CAD-mallfiler till PDF
 
 ## Introduktion

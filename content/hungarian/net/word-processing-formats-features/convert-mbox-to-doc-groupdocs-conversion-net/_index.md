@@ -4,8 +4,8 @@
 "title": "MBOX fájlok DOC formátumba konvertálása a GroupDocs.Conversion for .NET használatával (2023-as útmutató)"
 "url": "/hu/net/word-processing-formats-features/convert-mbox-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MBOX fájlok DOC formátumba konvertálása a GroupDocs.Conversion for .NET használatával (2023-as útmutató)
 
 ## Bevezetés

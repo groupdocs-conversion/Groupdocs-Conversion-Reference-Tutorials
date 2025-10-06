@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tài liệu chính trong .NET với GroupDocs.Conversion API"
 "url": "/vi/net/conversion-utilities-information/master-document-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Làm chủ việc chuyển đổi tài liệu trong .NET với GroupDocs.Conversion API
 
 Chào mừng bạn đến với hướng dẫn toàn diện này được thiết kế để giúp bạn tích hợp liền mạch các tính năng chuyển đổi tài liệu vào các ứng dụng .NET của mình bằng GroupDocs.Conversion API. Cho dù quản lý khối lượng lớn tài liệu hay cần giải pháp linh hoạt để chuyển đổi định dạng tệp, hướng dẫn này sẽ trang bị cho bạn mọi thứ cần thiết để bắt đầu.

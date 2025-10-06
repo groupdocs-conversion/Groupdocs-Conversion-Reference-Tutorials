@@ -4,8 +4,8 @@
 "title": "Hatékony DGN-DOCX konvertálás GroupDocs használatával .NET-ben CAD projektekhez"
 "url": "/hu/net/cad-technical-drawing-formats/convert-dgn-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony DGN-DOCX konvertálás GroupDocs segítségével .NET-ben
 
 ## Bevezetés

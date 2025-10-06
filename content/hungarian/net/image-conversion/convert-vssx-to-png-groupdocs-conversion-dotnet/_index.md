@@ -4,8 +4,8 @@
 "title": "VSSX fájlok PNG képekké konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/convert-vssx-to-png-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # VSSX fájlok PNG képekké konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -5,8 +5,8 @@
 "title": "Converteer DXF CAD-tekeninguitwisselingsbestanden naar PDF"
 "url": "/nl/net/convert-files-to-pdf/convert-dxf-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # Converteer DXF CAD-tekeninguitwisselingsbestanden naar PDF
 
 ## Invoering

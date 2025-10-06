@@ -4,8 +4,8 @@
 "title": "تحويل صفحات PDF إلى Word باستخدام GroupDocs.Conversion .NET - دليل خطوة بخطوة"
 "url": "/ar/net/word-processing-formats-features/groupdocs-conversion-net-pdf-to-word/"
 "weight": 1
+type: docs
 ---
-
 # تحويل صفحات PDF إلى Word باستخدام GroupDocs.Conversion .NET: دليل خطوة بخطوة
 
 ## مقدمة

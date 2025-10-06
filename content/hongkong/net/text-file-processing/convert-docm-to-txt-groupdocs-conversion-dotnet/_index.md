@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 DOCM 轉換為 TXT | 簡化文字檔處理"
 "url": "/zh-hant/net/text-file-processing/convert-docm-to-txt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將 Microsoft Word 啟用巨集的文件 (DOCM) 轉換為純文字 (.txt)
 
 ## 介紹

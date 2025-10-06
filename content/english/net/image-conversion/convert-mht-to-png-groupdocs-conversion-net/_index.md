@@ -8,10 +8,8 @@ keywords:
 - convert MHT to PNG
 - GroupDocs.Conversion for .NET
 - MHT file conversion
-
+type: docs
 ---
-
-
 # Convert MHT to PNG Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

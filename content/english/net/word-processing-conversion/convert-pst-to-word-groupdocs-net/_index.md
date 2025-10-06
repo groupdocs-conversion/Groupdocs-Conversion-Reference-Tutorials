@@ -8,10 +8,8 @@ keywords:
 - convert PST to Word
 - GroupDocs.Conversion for .NET
 - PST file conversion
-
+type: docs
 ---
-
-
 # Efficient Conversion of PST Files to Word Documents with GroupDocs.Conversion for .NET
 
 ## Introduction

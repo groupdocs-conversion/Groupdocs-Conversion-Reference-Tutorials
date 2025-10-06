@@ -4,8 +4,8 @@
 "title": "PNG konvertálása SVG-vé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-png-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PNG konvertálása SVG-vé a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

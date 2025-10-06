@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie DNG in PDF mit GroupDocs.Conversion .NET – Eine Schritt-für-Schritt-Anleitung für Entwickler"
 "url": "/de/net/pdf-conversion/convert-dng-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie DNG-Dateien mit GroupDocs.Conversion .NET in PDF: Ein umfassender Leitfaden
 
 ## Einführung

@@ -5,8 +5,8 @@
 "title": "将 PST 转换为 PDF"
 "url": "/zh/net/file-format-conversion-tutorials/convert-pst-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # 将 PST 转换为 PDF
 
 ## 介绍

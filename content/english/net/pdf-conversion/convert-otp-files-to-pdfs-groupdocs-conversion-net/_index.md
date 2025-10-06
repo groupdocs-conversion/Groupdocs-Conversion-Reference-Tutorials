@@ -8,10 +8,8 @@ keywords:
 - convert OTP files to PDFs
 - GroupDocs.Conversion for .NET setup
 - OTP file conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert OTP Files to PDFs with GroupDocs.Conversion for .NET
 
 ## Introduction

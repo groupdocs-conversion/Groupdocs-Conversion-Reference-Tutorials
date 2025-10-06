@@ -5,8 +5,8 @@
 "title": "Konvertera TIF till PDF"
 "url": "/sv/net/file-format-conversion-tutorials/convert-tif-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Konvertera TIF till PDF
 
 ## Introduktion

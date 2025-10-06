@@ -4,8 +4,8 @@
 "title": "Convertire VSTX in PNG utilizzando GroupDocs.Conversion .NET&#58; una guida passo passo"
 "url": "/it/net/image-conversion/convert-vstx-to-png-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertire file VSTX in PNG con GroupDocs.Conversion .NET: una guida passo passo
 
 ## Introduzione

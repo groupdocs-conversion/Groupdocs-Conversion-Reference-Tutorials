@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Java 的转换缓存管理教程"
 "url": "/zh/java/cache-management/"
 "weight": 17
+type: docs
 ---
-
 # GroupDocs.Conversion Java 的转换缓存管理教程
 
 我们的缓存管理教程演示了如何使用 GroupDocs.Conversion 的 Java 缓存功能来提升转换性能。这些分步指南涵盖了配置不同的缓存类型、实现自定义缓存提供程序、管理缓存生命周期、优化存储需求以及利用缓存进行重复转换。每个教程都包含实用的 Java 代码示例，用于高效实现缓存，帮助您构建在保持高质量输出的同时，最大程度地减少转换时间和资源占用的应用程序。

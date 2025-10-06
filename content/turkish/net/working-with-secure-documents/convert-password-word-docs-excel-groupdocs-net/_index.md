@@ -4,8 +4,8 @@
 "title": "Parola Korumalı Word Belgelerini .NET için GroupDocs Kullanarak Excel'e Dönüştürme"
 "url": "/tr/net/working-with-secure-documents/convert-password-word-docs-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Parola Korumalı Word Belgelerini GroupDocs for .NET ile Excel'e Dönüştürün
 
 ## giriiş

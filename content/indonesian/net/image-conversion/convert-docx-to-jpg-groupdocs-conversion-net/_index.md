@@ -4,8 +4,8 @@
 "title": "Konversi DOCX ke JPG dengan Mudah&#58; Panduan Lengkap Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/image-conversion/convert-docx-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi DOCX ke JPG dengan Mudah: Panduan Lengkap Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

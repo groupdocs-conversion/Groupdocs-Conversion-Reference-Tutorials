@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して DOCX から TEX への変換を自動化する - 簡単ガイド"
 "url": "/ja/net/word-processing-formats-features/automate-docx-to-tex-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs for .NET で DOCX から TEX への変換を自動化
 
 ## 導入

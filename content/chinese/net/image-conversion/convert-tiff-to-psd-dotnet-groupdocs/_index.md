@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs 在 .NET 中将 TIFF 转换为 PSD 的综合指南"
 "url": "/zh/net/image-conversion/convert-tiff-to-psd-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs 在 .NET 中将 TIFF 转换为 PSD：综合指南
 
 ## 介绍

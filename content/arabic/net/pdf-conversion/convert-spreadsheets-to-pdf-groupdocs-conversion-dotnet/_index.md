@@ -4,8 +4,8 @@
 "title": "تحويل جداول البيانات إلى ملفات PDF باستخدام GroupDocs.Conversion لـ .NET - دليل خطوة بخطوة"
 "url": "/ar/net/pdf-conversion/convert-spreadsheets-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # تحويل جداول البيانات إلى ملفات PDF باستخدام GroupDocs.Conversion لـ .NET: دليل خطوة بخطوة
 
 ## مقدمة

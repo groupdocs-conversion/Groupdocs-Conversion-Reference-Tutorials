@@ -4,8 +4,8 @@
 "title": "Convierta ODT a PPTX sin esfuerzo con GroupDocs.Conversion .NET para desarrolladores de C#"
 "url": "/es/net/presentation-formats-features/convert-odt-to-pptx-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Guía completa: Convertir ODT a PPTX con GroupDocs.Conversion .NET
 
 ## Introducción

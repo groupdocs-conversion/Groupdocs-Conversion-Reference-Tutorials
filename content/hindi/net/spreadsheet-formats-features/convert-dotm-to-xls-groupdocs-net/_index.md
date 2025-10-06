@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके DOTM को XLS में परिवर्तित करें एक संपूर्ण गाइड"
 "url": "/hi/net/spreadsheet-formats-features/convert-dotm-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके DOTM को XLS में परिवर्तित करें: एक संपूर्ण गाइड
 
 ## परिचय

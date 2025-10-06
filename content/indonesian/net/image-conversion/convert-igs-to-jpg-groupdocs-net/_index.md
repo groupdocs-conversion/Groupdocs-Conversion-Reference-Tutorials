@@ -4,8 +4,8 @@
 "title": "Konversi IGS ke JPG Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/image-conversion/convert-igs-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi File IGS ke JPG dengan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

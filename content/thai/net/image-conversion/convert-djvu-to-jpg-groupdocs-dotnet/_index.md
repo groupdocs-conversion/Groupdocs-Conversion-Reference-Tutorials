@@ -4,8 +4,8 @@
 "title": "วิธีการแปลง DJVU เป็น JPG ใน .NET โดยใช้ GroupDocs.Conversion พร้อมคำแนะนำทีละขั้นตอน"
 "url": "/th/net/image-conversion/convert-djvu-to-jpg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการแปลง DJVU เป็น JPG ใน .NET โดยใช้ GroupDocs.Conversion: คำแนะนำทีละขั้นตอน
 
 ## การแนะนำ

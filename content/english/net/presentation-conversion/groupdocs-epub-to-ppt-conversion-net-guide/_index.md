@@ -8,10 +8,8 @@ keywords:
 - EPUB to PPT conversion
 - GroupDocs.Conversion .NET
 - digital book presentations
-
+type: docs
 ---
-
-
 # Comprehensive Guide: EPUB to PPT Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "TXT konvertálása CSV-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/csv-structured-data-processing/convert-txt-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # TXT konvertálása CSV-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

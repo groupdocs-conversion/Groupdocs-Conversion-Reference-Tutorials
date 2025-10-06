@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak CSV Dosyaları Belirli Kodlamayla PDF'lere Nasıl Dönüştürülür"
 "url": "/tr/net/csv-structured-data-processing/convert-csv-pdf-specific-encoding-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak CSV Dosyaları Belirli Kodlamayla PDF'lere Nasıl Dönüştürülür
 
 ## giriiş

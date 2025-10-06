@@ -4,8 +4,8 @@
 "title": "Convertire JPEG 2000 in PPTX utilizzando GroupDocs.Conversion per .NET&#58; una guida passo passo"
 "url": "/it/net/presentation-conversion/convert-jpeg-2000-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire JPEG 2000 in PPTX utilizzando GroupDocs.Conversion per .NET: una guida passo passo
 
 ## Introduzione

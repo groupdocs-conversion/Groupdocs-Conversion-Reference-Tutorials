@@ -5,8 +5,8 @@
 "title": "ODS konvertálása PDF-be"
 "url": "/hu/net/document-conversion/convert-ods-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # ODS konvertálása PDF-be
 
 ## Bevezetés

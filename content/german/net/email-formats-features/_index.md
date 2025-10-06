@@ -3,8 +3,8 @@
 "title": "Tutorials zu E-Mail-Formaten und -Funktionen für GroupDocs.Conversion .NET"
 "url": "/de/net/email-formats-features/"
 "weight": 14
+type: docs
 ---
-
 # Tutorials zu E-Mail-Formaten und -Funktionen für GroupDocs.Conversion .NET
 
 Meistern Sie die E-Mail-Dokumentenverarbeitung mit unseren umfassenden GroupDocs.Conversion-Tutorials für .NET-Entwickler. Diese praktischen Anleitungen zeigen Ihnen, wie Sie E-Mail-Nachrichten in verschiedene Dokumentformate konvertieren, E-Mail-Anhänge extrahieren und in verschiedene Formate konvertieren, die Feldsichtbarkeit während der Konvertierung ändern, E-Mail-Felder lokalisieren, Zeitzonen-Offsets verarbeiten, Globalisierungseinstellungen implementieren, E-Mail-Metadaten beibehalten und Nachrichten mit eingebettetem Inhalt verarbeiten. Jedes Tutorial enthält detaillierte C#-Codebeispiele für E-Mail-Konvertierungsszenarien und unterstützt Sie beim Erstellen von Anwendungen, die E-Mail-Kommunikation effektiv in barrierefreiere Dokumentformate umwandeln.

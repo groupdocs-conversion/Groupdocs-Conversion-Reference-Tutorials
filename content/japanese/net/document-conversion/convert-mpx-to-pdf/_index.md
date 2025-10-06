@@ -5,8 +5,8 @@
 "title": "MPXをPDFに変換する"
 "url": "/ja/net/document-conversion/convert-mpx-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # MPXをPDFに変換する
 
 ## 導入

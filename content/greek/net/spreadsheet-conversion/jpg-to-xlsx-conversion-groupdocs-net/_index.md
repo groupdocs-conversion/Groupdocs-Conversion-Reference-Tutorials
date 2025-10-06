@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή JPG σε XLSX χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/spreadsheet-conversion/jpg-to-xlsx-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική μετατροπή JPG σε XLSX χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

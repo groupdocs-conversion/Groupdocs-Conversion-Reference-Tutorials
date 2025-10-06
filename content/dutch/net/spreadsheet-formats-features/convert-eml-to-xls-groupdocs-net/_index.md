@@ -4,8 +4,8 @@
 "title": "Converteer EML naar XLS in .NET met behulp van GroupDocs.Conversion&#58; een stapsgewijze handleiding"
 "url": "/nl/net/spreadsheet-formats-features/convert-eml-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer EML-bestanden naar XLS in .NET met GroupDocs.Conversion: een stapsgewijze handleiding
 
 ## Invoering

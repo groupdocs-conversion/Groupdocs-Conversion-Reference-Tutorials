@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 載入和轉換 OTG 檔案－開發人員指南"
 "url": "/zh-hant/net/loading-from-local-sources/load-otg-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 載入和轉換 OTG 檔案：開發人員指南
 
 ## 介紹

@@ -5,8 +5,8 @@
 "title": "J2C JPEG-LS Sıkıştırılmış Görüntüleri PDF'ye Dönüştür"
 "url": "/tr/net/convert-files-to-pdf/convert-j2c-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # J2C JPEG-LS Sıkıştırılmış Görüntüleri PDF'ye Dönüştür
 
 ## giriiş

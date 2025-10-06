@@ -4,8 +4,8 @@
 "title": "OXPS'i .NET için GroupDocs.Conversion Kullanarak SVG'ye Verimli Şekilde Dönüştürün | Adım Adım Kılavuz"
 "url": "/tr/net/image-conversion/convert-oxps-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OXPS'i GroupDocs.Conversion for .NET Kullanarak SVG'ye Verimli Şekilde Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

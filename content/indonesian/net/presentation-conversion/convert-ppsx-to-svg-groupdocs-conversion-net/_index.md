@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi PPSX ke SVG Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Langkah demi Langkah"
 "url": "/id/net/presentation-conversion/convert-ppsx-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi PPSX ke SVG Menggunakan GroupDocs.Conversion .NET: Panduan Langkah demi Langkah
 
 ## Perkenalan

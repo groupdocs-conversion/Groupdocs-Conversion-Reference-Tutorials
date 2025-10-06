@@ -4,8 +4,8 @@
 "title": "Μετατροπή XPS σε PowerPoint χρησιμοποιώντας το GroupDocs.Conversion for .NET™ Ένας πλήρης οδηγός"
 "url": "/el/net/presentation-conversion/convert-xps-to-powerpoint-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή XPS σε PowerPoint χρησιμοποιώντας το GroupDocs.Conversion για .NET: Ένας πλήρης οδηγός
 
 ## Εισαγωγή

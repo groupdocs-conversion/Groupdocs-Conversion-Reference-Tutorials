@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 掌握 .NET IFC 到 XLSX 的轉換－綜合指南"
 "url": "/zh-hant/net/spreadsheet-conversion/net-ifc-to-xlsx-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 掌握 .NET IFC 到 XLSX 的轉換：綜合指南
 
 ## 介紹

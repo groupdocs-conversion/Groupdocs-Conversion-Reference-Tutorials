@@ -4,8 +4,8 @@
 "title": "Převod Wordu do PDF a skrytí komentářů pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/pdf-conversion-features/convert-word-to-pdf-hide-comments-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Převod dokumentů Word do PDF a skrytí komentářů pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

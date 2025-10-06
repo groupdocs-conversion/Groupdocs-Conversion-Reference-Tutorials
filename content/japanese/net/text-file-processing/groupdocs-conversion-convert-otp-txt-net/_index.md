@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して OTP を TXT ファイルに効率的に変換する"
 "url": "/ja/net/text-file-processing/groupdocs-conversion-convert-otp-txt-net/"
 "weight": 1
+type: docs
 ---
-
 # ファイル変換をマスターする: GroupDocs.Conversion for .NET で OTP を TXT に変換する
 
 ## 導入

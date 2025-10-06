@@ -4,8 +4,8 @@
 "title": "Hướng dẫn toàn diện về cách chuyển đổi DOCM sang PDF bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/pdf-conversion/convert-docm-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hướng dẫn toàn diện về cách chuyển đổi DOCM sang PDF bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "Comment récupérer les métadonnées d'un PDF avec GroupDocs.Conversion pour .NET"
 "url": "/fr/net/pdf-conversion-features/pdf-metadata-retrieval-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment récupérer les métadonnées d'un PDF avec GroupDocs.Conversion pour .NET
 
 Fatigué d'extraire manuellement des informations de vos documents PDF ? Automatisez cette tâche avec GroupDocs.Conversion pour .NET et récupérez des informations essentielles telles que la paternité, les dates de création, le nombre de pages, les dimensions, etc.

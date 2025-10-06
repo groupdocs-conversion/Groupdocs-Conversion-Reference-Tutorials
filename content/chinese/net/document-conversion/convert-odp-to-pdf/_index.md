@@ -5,8 +5,8 @@
 "title": "将ODP转换为PDF"
 "url": "/zh/net/document-conversion/convert-odp-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # 将ODP转换为PDF
 
 ## 介绍

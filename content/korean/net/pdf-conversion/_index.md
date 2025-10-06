@@ -5,8 +5,8 @@
 "title": "PDF 변환"
 "url": "/ko/net/pdf-conversion/"
 "weight": 25
+type: docs
 ---
-
 # PDF 변환
 
 ## 소개

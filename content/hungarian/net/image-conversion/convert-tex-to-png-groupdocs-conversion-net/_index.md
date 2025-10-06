@@ -4,8 +4,8 @@
 "title": "TEX hatékony PNG-vé konvertálása – GroupDocs.Conversion for .NET útmutató"
 "url": "/hu/net/image-conversion/convert-tex-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # TEX fájlok PNG-vé konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

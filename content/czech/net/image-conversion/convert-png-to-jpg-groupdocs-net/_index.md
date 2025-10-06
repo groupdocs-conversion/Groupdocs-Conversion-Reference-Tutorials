@@ -4,8 +4,8 @@
 "title": "Převod PNG na JPG pomocí GroupDocs.Conversion .NET – Komplexní průvodce pro vývojáře"
 "url": "/cs/net/image-conversion/convert-png-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod PNG do JPG pomocí GroupDocs.Conversion .NET: Podrobný návod
 
 ## Zavedení

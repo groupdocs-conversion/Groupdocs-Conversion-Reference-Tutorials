@@ -5,8 +5,8 @@
 "title": "TIFF को PDF में बदलें"
 "url": "/hi/net/file-format-conversion-tutorials/convert-tiff-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # TIFF को PDF में बदलें
 
 ## परिचय

@@ -3,8 +3,8 @@
 "title": "Samouczki dotyczące konwersji i funkcji PDF dla GroupDocs.Conversion .NET"
 "url": "/pl/net/pdf-conversion-features/"
 "weight": 9
+type: docs
 ---
-
 # Samouczki dotyczące konwersji i funkcji PDF dla GroupDocs.Conversion .NET
 
 Nasze samouczki skoncentrowane na PDF-ach zapewniają kompleksowe wskazówki dotyczące pracy z dokumentami PDF w aplikacjach .NET. Te praktyczne przewodniki pokazują, jak konwertować różne formaty do PDF-ów, konwertować pliki PDF do innych formatów, spłaszczać pola formularzy, ukrywać adnotacje, usuwać osadzone pliki, optymalizować ustawienia kompresji PDF-ów, kontrolować zgodność z PDF/A, zarządzać uprawnieniami dokumentów i zachowywać hiperłącza podczas konwersji. Każdy samouczek zawiera kompletne przykłady kodu C# dla scenariuszy konwersji PDF-ów, pomagając w tworzeniu aplikacji, które wykorzystują pełny zestaw możliwości formatu PDF, zachowując jednocześnie wierność dokumentu.

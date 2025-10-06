@@ -4,8 +4,8 @@
 "title": "Chuyển đổi PDF sang JPG trong Java bằng GroupDocs.Conversion&#58; Hướng dẫn từng bước"
 "url": "/vi/java/document-operations/convert-pdf-to-jpg-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi PDF sang JPG trong Java bằng GroupDocs.Conversion: Hướng dẫn từng bước
 
 ## Giới thiệu

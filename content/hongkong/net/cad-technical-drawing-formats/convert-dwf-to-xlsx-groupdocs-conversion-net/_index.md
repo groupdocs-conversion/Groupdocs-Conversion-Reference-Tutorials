@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 DWF 轉換為 XLSX 文件"
 "url": "/zh-hant/net/cad-technical-drawing-formats/convert-dwf-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 DWF 檔案轉換為 XLSX
 
 ## 介紹

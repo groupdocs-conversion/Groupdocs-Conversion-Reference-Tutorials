@@ -4,8 +4,8 @@
 "title": "Hoe u WMZ-bestanden naar PSD converteert met GroupDocs.Conversion voor .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/image-conversion/convert-wmz-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # WMZ-bestanden naar PSD converteren met GroupDocs.Conversion voor .NET: een stapsgewijze handleiding
 
 ## Invoering

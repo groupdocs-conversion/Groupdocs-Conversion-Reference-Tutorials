@@ -5,8 +5,8 @@
 "title": "تحويل صفحات الويب HTML إلى PDF"
 "url": "/ar/net/convert-files-to-pdf/convert-html-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # تحويل صفحات الويب HTML إلى PDF
 
 ## مقدمة

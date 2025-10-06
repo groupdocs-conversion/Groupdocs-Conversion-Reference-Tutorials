@@ -4,8 +4,8 @@
 "title": "Эффективное преобразование файлов журналов в документы Word с помощью GroupDocs.Conversion в .NET"
 "url": "/ru/net/word-processing-formats-features/convert-log-files-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Эффективное преобразование файлов журналов в документы Word с помощью GroupDocs.Conversion в .NET
 
 ## Введение

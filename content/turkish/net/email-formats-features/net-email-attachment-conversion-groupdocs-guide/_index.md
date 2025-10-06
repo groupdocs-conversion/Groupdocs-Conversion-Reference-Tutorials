@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Library ile .NET E-posta Eki Dönüşümünde Ustalaşın - Kapsamlı Bir Kılavuz"
 "url": "/tr/net/email-formats-features/net-email-attachment-conversion-groupdocs-guide/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Kütüphanesi ile .NET E-posta Eki Dönüşümünde Ustalaşın
 
 ## giriiş

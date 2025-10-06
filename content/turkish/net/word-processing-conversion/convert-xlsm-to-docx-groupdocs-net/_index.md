@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak XLSM'yi DOCX'e Dönüştürme Adım Adım Kılavuzu"
 "url": "/tr/net/word-processing-conversion/convert-xlsm-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak XLSM'yi DOCX'e Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

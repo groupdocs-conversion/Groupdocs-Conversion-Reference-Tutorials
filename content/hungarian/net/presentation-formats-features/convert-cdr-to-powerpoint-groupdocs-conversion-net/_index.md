@@ -4,8 +4,8 @@
 "title": "CDR fájlok PowerPoint formátumba konvertálása a GroupDocs.Conversion for .NET használatával (végső útmutató)"
 "url": "/hu/net/presentation-formats-features/convert-cdr-to-powerpoint-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # CDR fájlok konvertálása PowerPoint formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

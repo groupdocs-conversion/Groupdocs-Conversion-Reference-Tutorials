@@ -4,8 +4,8 @@
 "title": "Эффективное преобразование файлов журналов в PowerPoint с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/presentation-conversion/convert-log-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Эффективное преобразование файлов журналов в PowerPoint с помощью GroupDocs.Conversion для .NET
 
 ## Введение

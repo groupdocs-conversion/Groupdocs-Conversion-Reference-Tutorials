@@ -5,8 +5,8 @@
 "title": "แปลงไอคอน ICO เป็น PDF"
 "url": "/th/net/convert-files-to-pdf/convert-ico-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # แปลงไอคอน ICO เป็น PDF
 
 ## การแนะนำ

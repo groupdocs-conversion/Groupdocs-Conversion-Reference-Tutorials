@@ -4,8 +4,8 @@
 "title": "C#&#58;te GroupDocs.Conversion Kullanarak RTF'yi SVG'ye Dönüştürme Tam Kılavuz"
 "url": "/tr/net/image-conversion/convert-rtf-to-svg-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs ile RTF'yi SVG'ye Dönüştürme. C#'ta Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

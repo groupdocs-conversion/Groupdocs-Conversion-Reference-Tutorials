@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak CGM'yi DOC'a Verimli Şekilde Dönüştürün"
 "url": "/tr/net/cad-technical-drawing-formats/convert-cgm-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak CGM'yi DOC'a Verimli Şekilde Dönüştürün
 
 ## giriiş

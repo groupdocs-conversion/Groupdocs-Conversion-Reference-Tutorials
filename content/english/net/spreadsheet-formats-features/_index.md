@@ -3,8 +3,8 @@ title: "Spreadsheet Formats and Features Tutorials for GroupDocs.Conversion .NET
 description: "Complete tutorials for converting to and from Spreadsheet formats (XLS, XLSX, CSV) and managing spreadsheet-specific features with GroupDocs.Conversion for .NET."
 weight: 11
 url: "/net/spreadsheet-formats-features/"
+type: docs
 ---
-
 # Spreadsheet Formats and Features Tutorials for GroupDocs.Conversion .NET
 
 Learn how to handle spreadsheet documents with our GroupDocs.Conversion .NET tutorials. These detailed guides demonstrate how to convert between Excel formats, CSV, and other spreadsheet types, show or hide grid lines and comments, skip empty rows and columns, specify ranges and sheet indexes for conversion, manage hidden sheets, preserve formulas and functions, maintain cell formatting, and control calculation chains during conversion. Each tutorial includes working C# code examples that show how to implement accurate spreadsheet conversion while preserving complex calculations and visual elements.

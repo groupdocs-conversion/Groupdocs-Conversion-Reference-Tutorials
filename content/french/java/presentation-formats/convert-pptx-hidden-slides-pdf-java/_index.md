@@ -4,8 +4,8 @@
 "title": "Convertissez efficacement des fichiers PPTX avec diapositives masquées en PDF en Java à l'aide de GroupDocs.Conversion"
 "url": "/fr/java/presentation-formats/convert-pptx-hidden-slides-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Convertissez facilement des fichiers PPTX avec diapositives masquées en PDF en Java avec GroupDocs.Conversion
 
 À l'ère du numérique, convertir des présentations en formats universellement accessibles comme le PDF est une nécessité courante pour les développeurs. Ce tutoriel vous guide à travers une solution efficace utilisant **GroupDocs.Conversion pour Java** pour convertir des présentations PowerPoint, y compris des diapositives masquées, au format PDF.

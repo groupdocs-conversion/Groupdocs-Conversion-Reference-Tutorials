@@ -5,8 +5,8 @@
 "title": "Μετατροπή μετααρχείων EMF των Windows σε PDF"
 "url": "/el/net/convert-files-to-pdf/convert-emf-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # Μετατροπή μετααρχείων EMF των Windows σε PDF
 
 ## Εισαγωγή

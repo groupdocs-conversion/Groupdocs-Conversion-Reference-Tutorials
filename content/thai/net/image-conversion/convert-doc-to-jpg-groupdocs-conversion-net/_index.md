@@ -4,8 +4,8 @@
 "title": "การแปลงไฟล์ DOC เป็น JPG อย่างมีประสิทธิภาพโดยใช้ GroupDocs.Conversion .NET พร้อมคำแนะนำทีละขั้นตอน"
 "url": "/th/net/image-conversion/convert-doc-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # การแปลงไฟล์ DOC เป็น JPG อย่างมีประสิทธิภาพโดยใช้ GroupDocs.Conversion .NET: คำแนะนำทีละขั้นตอน
 
 ## การแนะนำ

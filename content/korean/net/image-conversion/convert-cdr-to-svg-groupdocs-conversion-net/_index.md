@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion을 사용하여 .NET에서 CDR을 SVG로 변환하는 단계별 가이드"
 "url": "/ko/net/image-conversion/convert-cdr-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET에서 GroupDocs.Conversion을 사용하여 CDR 파일을 SVG로 변환
 ## 소개
 CorelDRAW(CDR) 파일을 SVG(Scalable Vector Graphics)로 변환하는 것은 개발자와 디자이너 모두가 겪는 공통적인 과제입니다. 이 튜토리얼에서는 강력한 GroupDocs.Conversion for .NET 라이브러리를 활용하여 이 과정을 간소화하고, 파일 변환 기능을 .NET 애플리케이션에 손쉽게 통합할 수 있도록 지원합니다.

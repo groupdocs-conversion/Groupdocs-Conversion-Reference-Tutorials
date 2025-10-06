@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 TXT 轉換為 CSV 的綜合指南"
 "url": "/zh-hant/net/csv-structured-data-processing/convert-txt-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 TXT 轉換為 CSV
 
 ## 介紹

@@ -4,8 +4,8 @@
 "title": "TEX konvertálása TXT-vé a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/text-file-processing/convert-tex-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # TEX fájlok konvertálása TXT formátumba a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

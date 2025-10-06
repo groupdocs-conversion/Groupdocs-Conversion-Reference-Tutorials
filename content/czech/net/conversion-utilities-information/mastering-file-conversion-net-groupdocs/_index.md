@@ -4,8 +4,8 @@
 "title": "Zvládnutí konverze souborů v .NET pomocí GroupDocs.Conversion – Průvodce pro vývojáře"
 "url": "/cs/net/conversion-utilities-information/mastering-file-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Zvládnutí konverze souborů v .NET s GroupDocs.Conversion: Váš dokonalý průvodce pro vývojáře
 
 ## Zavedení

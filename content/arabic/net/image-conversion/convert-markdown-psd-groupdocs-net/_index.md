@@ -4,8 +4,8 @@
 "title": "كيفية تحويل ملفات Markdown إلى PSD باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/image-conversion/convert-markdown-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل ملفات Markdown إلى PSD باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

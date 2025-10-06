@@ -4,8 +4,8 @@
 "title": "VCF hatékony konvertálása Wordbe a .NET GroupDocs.Conversion segítségével"
 "url": "/hu/net/word-processing-formats-features/convert-vcf-word-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # VCF fájlok hatékony konvertálása Word dokumentumokká a .NET GroupDocs.Conversion használatával
 
 ## Bevezetés

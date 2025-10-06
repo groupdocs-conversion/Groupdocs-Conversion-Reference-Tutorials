@@ -9,10 +9,8 @@ keywords:
 - GroupDocs.Conversion for .NET
 - macro-enabled template conversion
 - .NET file conversion
-
+type: docs
 ---
-
-
 # Convert DOTM to XLS Using GroupDocs.Conversion for .NET: A Complete Guide
 
 ## Introduction

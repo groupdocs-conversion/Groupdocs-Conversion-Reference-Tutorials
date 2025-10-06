@@ -8,10 +8,8 @@ keywords:
 - convert OneNote to HTML
 - GroupDocs.Conversion for .NET tutorial
 - OneNote to HTML conversion
-
+type: docs
 ---
-
-
 # Convert OneNote to HTML with GroupDocs.Conversion for .NET
 
 ## Introduction

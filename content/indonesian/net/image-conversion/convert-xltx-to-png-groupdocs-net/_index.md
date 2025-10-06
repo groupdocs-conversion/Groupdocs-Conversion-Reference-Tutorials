@@ -4,8 +4,8 @@
 "title": "Konversi XLTX ke PNG dalam .NET Menggunakan GroupDocs.Conversion&#58; Panduan Lengkap"
 "url": "/id/net/image-conversion/convert-xltx-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi XLTX ke PNG dalam .NET Menggunakan GroupDocs.Conversion: Panduan Lengkap
 
 ## Perkenalan

@@ -5,8 +5,8 @@
 "title": "تحويل ملفات نمذجة معلومات البناء IFC إلى PDF"
 "url": "/ar/net/convert-files-to-pdf/convert-ifc-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # تحويل ملفات نمذجة معلومات البناء IFC إلى PDF
 
 ## مقدمة

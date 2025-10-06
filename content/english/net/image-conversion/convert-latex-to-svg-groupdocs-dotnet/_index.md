@@ -8,10 +8,8 @@ keywords:
 - LaTeX to SVG conversion
 - GroupDocs.Conversion for .NET
 - convert LaTeX files
-
+type: docs
 ---
-
-
 # Convert LaTeX to SVG with GroupDocs.Conversion for .NET
 
 ## Introduction

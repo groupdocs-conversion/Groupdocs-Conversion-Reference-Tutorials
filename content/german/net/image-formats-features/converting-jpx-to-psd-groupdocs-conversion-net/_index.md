@@ -4,8 +4,8 @@
 "title": "Mühelose JPX-zu-PSD-Konvertierung mit GroupDocs.Conversion für .NET"
 "url": "/de/net/image-formats-features/converting-jpx-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Mühelose JPX-zu-PSD-Konvertierung mit GroupDocs.Conversion für .NET
 
 ## Einführung

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 PDF 메타데이터를 검색하는 방법"
 "url": "/ko/net/pdf-conversion-features/pdf-metadata-retrieval-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 PDF 메타데이터를 검색하는 방법
 
 PDF 문서에서 정보를 수동으로 추출하는 데 지치셨나요? GroupDocs.Conversion for .NET을 사용하여 작업을 자동화하고 작성자, 작성일, 페이지 수, 크기 등의 중요한 정보를 검색해 보세요.

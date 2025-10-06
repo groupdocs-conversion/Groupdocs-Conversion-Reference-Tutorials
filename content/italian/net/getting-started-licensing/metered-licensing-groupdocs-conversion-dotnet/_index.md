@@ -4,8 +4,8 @@
 "title": "Implementare le licenze a consumo con GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/getting-started-licensing/metered-licensing-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Implementazione delle licenze a consumo con GroupDocs.Conversion per .NET
 
 ## Introduzione

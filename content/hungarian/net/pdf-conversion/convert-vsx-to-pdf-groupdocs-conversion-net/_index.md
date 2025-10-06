@@ -4,8 +4,8 @@
 "title": "VSX fájlok PDF formátumba konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/pdf-conversion/convert-vsx-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VSX fájlok PDF formátumba konvertálása a GroupDocs.Conversion for .NET segítségével: lépésről lépésre útmutató
 
 ## Bevezetés

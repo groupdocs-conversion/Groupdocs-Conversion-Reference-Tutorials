@@ -5,8 +5,8 @@
 "title": "将 ODT 转换为 PDF"
 "url": "/zh/net/pdf-conversion/convert-odt-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # 将 ODT 转换为 PDF
 
 ## 介绍

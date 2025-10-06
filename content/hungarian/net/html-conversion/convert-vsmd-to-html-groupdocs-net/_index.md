@@ -4,8 +4,8 @@
 "title": "VSDM konvertálása HTML-lé a GroupDocs.Conversion használatával .NET-ben – Átfogó útmutató"
 "url": "/hu/net/html-conversion/convert-vsmd-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # VSDM konvertálása HTML-lé a GroupDocs.Conversion használatával .NET-ben: Átfogó útmutató
 
 ## Bevezetés

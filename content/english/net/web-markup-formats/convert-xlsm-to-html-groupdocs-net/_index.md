@@ -10,10 +10,8 @@ keywords:
 - Excel file conversion
 - HTML output from Excel
 - Convert XLSM files
-
+type: docs
 ---
-
-
 # How to Convert XLSM Files to HTML Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 ## Introduction
 In today's data-driven world, transforming Excel files into more accessible formats is essential. Converting an XLSM file to HTML can enhance website interactivity and streamline reporting processes. With GroupDocs.Conversion for .NET, this process becomes seamless and efficient. This tutorial will guide you through using the GroupDocs.Conversion library to convert your XLSM files into HTML format.

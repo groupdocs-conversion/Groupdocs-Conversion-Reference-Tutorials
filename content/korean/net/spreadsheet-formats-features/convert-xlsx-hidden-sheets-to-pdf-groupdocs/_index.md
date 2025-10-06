@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 숨겨진 시트가 있는 XLSX 파일을 PDF로 변환하는 방법"
 "url": "/ko/net/spreadsheet-formats-features/convert-xlsx-hidden-sheets-to-pdf-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 숨겨진 시트가 있는 XLSX 파일을 PDF로 변환하는 방법
 
 ## 소개

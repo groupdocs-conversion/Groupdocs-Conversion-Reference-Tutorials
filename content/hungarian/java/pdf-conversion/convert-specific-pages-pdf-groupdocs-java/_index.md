@@ -4,8 +4,8 @@
 "title": "Hogyan konvertálhatunk egy dokumentum adott oldalait PDF-be a GroupDocs.Conversion for Java használatával?"
 "url": "/hu/java/pdf-conversion/convert-specific-pages-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhatunk egy dokumentum adott oldalait PDF-be a GroupDocs.Conversion for Java használatával?
 
 mai digitális korban a dokumentumok hatékony és eredményes konvertálása kulcsfontosságú mind a vállalkozások, mind a magánszemélyek számára. Akár egy jelentés bizonyos részeit osztja meg, akár kiválasztott oldalakat állít össze egyetlen PDF-fájlba, a megfelelő eszközök megléte mindent megváltoztathat. Ez az útmutató végigvezeti Önt a használatán. **GroupDocs.Conversion Java-hoz** egy dokumentum adott oldalainak PDF formátumba konvertálásához. Vágjunk bele!

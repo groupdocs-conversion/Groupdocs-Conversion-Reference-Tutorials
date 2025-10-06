@@ -4,8 +4,8 @@
 "title": "تحويل SXC إلى HTML - التكامل السلس مع GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/web-markup-formats/convert-sxc-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ملفات SXC إلى HTML باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

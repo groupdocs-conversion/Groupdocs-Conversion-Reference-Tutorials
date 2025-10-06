@@ -4,8 +4,8 @@
 "title": "PDF PNG-vé konvertálása GroupDocs.Conversion használatával Java-ban – Átfogó útmutató"
 "url": "/hu/java/document-operations/convert-pdf-to-png-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # PDF PNG-vé konvertálása GroupDocs.Conversion használatával Java-ban: Átfogó útmutató
 
 ## Bevezetés

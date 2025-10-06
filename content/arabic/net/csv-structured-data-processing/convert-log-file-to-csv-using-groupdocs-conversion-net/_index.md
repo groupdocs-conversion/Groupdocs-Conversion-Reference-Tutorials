@@ -4,8 +4,8 @@
 "title": "كيفية تحويل ملفات السجل إلى CSV باستخدام GroupDocs.Conversion لـ .NET - دليل خطوة بخطوة"
 "url": "/ar/net/csv-structured-data-processing/convert-log-file-to-csv-using-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل ملفات السجل إلى CSV باستخدام GroupDocs.Conversion لـ .NET: دليل خطوة بخطوة
 
 ## مقدمة

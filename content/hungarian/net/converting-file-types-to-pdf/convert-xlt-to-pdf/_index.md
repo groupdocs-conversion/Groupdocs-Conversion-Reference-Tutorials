@@ -5,8 +5,8 @@
 "title": "XLT konvertálása PDF-be"
 "url": "/hu/net/converting-file-types-to-pdf/convert-xlt-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # XLT konvertálása PDF-be
 
 

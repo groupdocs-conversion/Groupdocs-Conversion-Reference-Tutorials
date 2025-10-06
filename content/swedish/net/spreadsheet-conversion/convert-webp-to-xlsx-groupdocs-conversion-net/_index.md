@@ -4,8 +4,8 @@
 "title": "Konvertera WEBP till XLSX med GroupDocs.Conversion .NET för kalkylbladskonvertering"
 "url": "/sv/net/spreadsheet-conversion/convert-webp-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera WEBP till XLSX med GroupDocs.Conversion .NET
 
 ## Introduktion

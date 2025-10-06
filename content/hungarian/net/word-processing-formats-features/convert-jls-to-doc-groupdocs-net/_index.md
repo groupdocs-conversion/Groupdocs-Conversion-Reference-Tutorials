@@ -4,8 +4,8 @@
 "title": "JPEG veszteségmentes (JLS) képek konvertálása Word dokumentumokká (.doc) a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/word-processing-formats-features/convert-jls-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhat JLS-t DOC-ba a GroupDocs.Conversion for .NET segítségével?
 
 ## Bevezetés

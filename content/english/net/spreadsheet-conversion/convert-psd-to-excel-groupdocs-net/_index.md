@@ -8,10 +8,8 @@ keywords:
 - convert PSD to Excel
 - GroupDocs.Conversion for .NET
 - PSD to XLSX conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert PSD to Excel Sheets with GroupDocs.Conversion for .NET
 
 ## Introduction

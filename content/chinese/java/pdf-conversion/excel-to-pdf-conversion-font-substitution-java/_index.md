@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 Java 中将 Excel 转换为 PDF 并进行字体替换"
 "url": "/zh/java/pdf-conversion/excel-to-pdf-conversion-font-substitution-java/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 Java 中将 Excel 转换为 PDF 并进行字体替换
 
 ## 介绍

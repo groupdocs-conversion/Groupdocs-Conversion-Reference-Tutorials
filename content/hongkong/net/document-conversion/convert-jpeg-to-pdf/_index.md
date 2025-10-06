@@ -5,8 +5,8 @@
 "title": "將 JPEG 轉換為 PDF"
 "url": "/zh-hant/net/document-conversion/convert-jpeg-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # 將 JPEG 轉換為 PDF
 
 ## 介紹

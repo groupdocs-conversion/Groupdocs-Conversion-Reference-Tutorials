@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak VSTM Dosyalarını XLS'ye Nasıl Dönüştürebilirsiniz? Adım Adım Kılavuz"
 "url": "/tr/net/spreadsheet-conversion/convert-vstm-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanılarak VSTM Dosyaları XLS'ye Nasıl Dönüştürülür: Adım Adım Kılavuz
 
 ## giriiş

@@ -8,10 +8,8 @@ keywords:
 - Convert XLT to TXT
 - GroupDocs.Conversion for .NET
 - Text & Markup Conversion
-
+type: docs
 ---
-
-
 # How to Convert XLT Files to TXT Using GroupDocs.Conversion for .NET
 
 ## Introduction

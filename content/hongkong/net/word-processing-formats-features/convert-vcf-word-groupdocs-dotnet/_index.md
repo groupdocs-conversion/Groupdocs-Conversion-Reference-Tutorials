@@ -4,8 +4,8 @@
 "title": "使用 .NET 中的 GroupDocs.Conversion 有效地將 VCF 轉換為 Word"
 "url": "/zh-hant/net/word-processing-formats-features/convert-vcf-word-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 .NET 中的 GroupDocs.Conversion 將 VCF 文件高效轉換為 Word 文檔
 
 ## 介紹

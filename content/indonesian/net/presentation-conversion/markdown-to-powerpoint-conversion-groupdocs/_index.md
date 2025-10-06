@@ -4,8 +4,8 @@
 "title": "Konversi Master Markdown ke PowerPoint Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/presentation-conversion/markdown-to-powerpoint-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Konversi Master Markdown ke PowerPoint Menggunakan GroupDocs.Conversion untuk .NET
 
 Apakah Anda ingin menyederhanakan konversi catatan Markdown menjadi presentasi PowerPoint profesional? Panduan lengkap ini akan menunjukkan kepada Anda cara mengubah file Markdown (.md) menjadi Presentasi PowerPoint Open XML (.pptx) dengan mudah menggunakan pustaka GroupDocs.Conversion yang canggih. Dengan menguasai proses ini, Anda akan menghemat waktu dan meningkatkan produktivitas Anda.

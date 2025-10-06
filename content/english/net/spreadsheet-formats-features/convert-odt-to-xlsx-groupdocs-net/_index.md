@@ -8,10 +8,8 @@ keywords:
 - ODT to XLSX conversion
 - GroupDocs.Conversion for .NET
 - document conversion in .NET
-
+type: docs
 ---
-
-
 # How to Convert ODT to XLSX Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Παρακολούθηση της προόδου μετατροπής εγγράφων σε Java χρησιμοποιώντας το GroupDocs® Ένας πλήρης οδηγός"
 "url": "/el/java/conversion-events-logging/java-groupdocs-conversion-progress-listener/"
 "weight": 1
+type: docs
 ---
-
 # Παρακολούθηση της προόδου μετατροπής εγγράφων σε Java με το GroupDocs: Ένας πλήρης οδηγός
 
 ## Εισαγωγή

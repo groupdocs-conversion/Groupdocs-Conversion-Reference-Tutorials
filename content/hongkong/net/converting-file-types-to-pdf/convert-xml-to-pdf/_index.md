@@ -5,8 +5,8 @@
 "title": "XML 轉 PDF"
 "url": "/zh-hant/net/converting-file-types-to-pdf/convert-xml-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # XML 轉 PDF
 
 ## 介紹

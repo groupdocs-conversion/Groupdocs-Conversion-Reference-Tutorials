@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して Excel XLT ファイルを効率的に変換する方法"
 "url": "/ja/net/spreadsheet-formats-features/efficiently-convert-excel-xlt-files-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して Excel XLT ファイルを効率的に変換する方法
 
 ## 導入

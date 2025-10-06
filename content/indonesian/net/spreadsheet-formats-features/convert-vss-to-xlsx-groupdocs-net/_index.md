@@ -4,8 +4,8 @@
 "title": "Konversi VSS ke XLSX Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Langkah demi Langkah"
 "url": "/id/net/spreadsheet-formats-features/convert-vss-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi VSS ke XLSX Menggunakan GroupDocs.Conversion untuk .NET: Panduan Langkah demi Langkah
 
 ## Perkenalan

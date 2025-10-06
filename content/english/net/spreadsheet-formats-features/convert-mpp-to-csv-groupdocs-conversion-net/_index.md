@@ -8,10 +8,8 @@ keywords:
 - convert MPP to CSV
 - GroupDocs.Conversion for .NET
 - C# file conversion
-
+type: docs
 ---
-
-
 # Convert MPP Files to CSV Using GroupDocs.Conversion in C# - Easy Guide for .NET Developers
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "VST fájlok PSD formátumba konvertálása a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-formats-features/convert-vst-to-psd-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # VST fájlok konvertálása PSD-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

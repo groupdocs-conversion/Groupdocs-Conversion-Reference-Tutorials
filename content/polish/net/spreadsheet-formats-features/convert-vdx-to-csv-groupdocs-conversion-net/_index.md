@@ -4,8 +4,8 @@
 "title": "Konwersja VDX do CSV przy użyciu GroupDocs.Conversion dla .NET&#58; Kompleksowy przewodnik"
 "url": "/pl/net/spreadsheet-formats-features/convert-vdx-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja VDX do CSV przy użyciu GroupDocs.Conversion dla .NET
 ## Wstęp
 Czy masz problemy z konwersją dokumentów Visio z formatu VDX do CSV? Ten kompleksowy samouczek przeprowadzi Cię przez proces przy użyciu GroupDocs.Conversion dla .NET, potężnej biblioteki zaprojektowanej do łatwego obsługiwania różnych konwersji plików. W tym artykule przeprowadzimy Cię przez proces konfigurowania środowiska, implementacji konwersji i eksploracji praktycznych zastosowań Twoich nowych umiejętności.

@@ -4,8 +4,8 @@
 "title": "Chuyển đổi DOC sang PSD&#58; Hướng dẫn từng bước sử dụng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/image-conversion/convert-doc-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi DOC sang PSD: Hướng dẫn từng bước với GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 的页面管理和内容操作教程"
 "url": "/zh/net/page-management-content-manipulation/"
 "weight": 7
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 的页面管理和内容操作教程
 
 通过我们全面的 GroupDocs.Conversion .NET 教程，探索高级内容控制功能。这些实用指南演示了如何转换特定页面或页面范围、处理连续的页面序列、为输出文档添加文本或图像水印、实现页码编号、操作内容定位以及在转换过程中应用各种视觉增强功能。每个教程都包含针对内容操作场景的详细 C# 代码示例，帮助您构建能够智能处理文档内容（而非简单地转换整个文件）的应用程序。

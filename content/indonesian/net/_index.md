@@ -5,8 +5,8 @@
 "title": "Tutorial Lengkap GroupDocs.Conversion untuk .NET"
 "url": "/id/net/"
 "weight": 10
+type: docs
 ---
-
 # Tutorial Lengkap GroupDocs.Conversion untuk .NET
 
 

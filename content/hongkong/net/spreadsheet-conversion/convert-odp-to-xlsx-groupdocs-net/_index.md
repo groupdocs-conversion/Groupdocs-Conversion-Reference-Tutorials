@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 在 C# 中將 ODP 轉換為 XLSX 的逐步指南"
 "url": "/zh-hant/net/spreadsheet-conversion/convert-odp-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 C# 將 ODP 轉換為 XLSX：使用 GroupDocs.Conversion for .NET 的逐步指南
 
 ## 介紹

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용한 효율적인 JPEG-TXT 변환"
 "url": "/ko/net/text-markup-conversion/jpeg-to-txt-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용한 효율적인 JPEG-TXT 변환
 
 ## 소개

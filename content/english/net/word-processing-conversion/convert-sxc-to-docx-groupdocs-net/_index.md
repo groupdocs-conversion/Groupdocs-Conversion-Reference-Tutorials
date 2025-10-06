@@ -8,10 +8,8 @@ keywords:
 - convert SXC to DOCX
 - document conversion in .NET
 - GroupDocs.Conversion
-
+type: docs
 ---
-
-
 # Mastering Document Conversion in .NET: Convert SXC to DOCX Using GroupDocs.Conversion
 
 ## Introduction

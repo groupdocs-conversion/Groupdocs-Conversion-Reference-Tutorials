@@ -8,10 +8,8 @@ keywords:
 - convert OTG to PDF
 - GroupDocs.Conversion for .NET
 - PDF conversion
-
+type: docs
 ---
-
-
 # Convert OTG to PDF Easily with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

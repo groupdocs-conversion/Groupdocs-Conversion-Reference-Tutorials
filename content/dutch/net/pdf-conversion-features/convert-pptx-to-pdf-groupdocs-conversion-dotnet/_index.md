@@ -4,8 +4,8 @@
 "title": "PPTX naar PDF-conversie onder de knie krijgen met GroupDocs.Conversion voor .NET&#58; een handleiding voor ontwikkelaars"
 "url": "/nl/net/pdf-conversion-features/convert-pptx-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # PPTX naar PDF-conversie beheersen met GroupDocs.Conversion voor .NET: een handleiding voor ontwikkelaars
 
 ## Invoering

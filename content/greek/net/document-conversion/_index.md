@@ -5,8 +5,8 @@
 "title": "Μετατροπή εγγράφων"
 "url": "/el/net/document-conversion/"
 "weight": 23
+type: docs
 ---
-
 # Μετατροπή εγγράφων
 
 ## Εισαγωγή

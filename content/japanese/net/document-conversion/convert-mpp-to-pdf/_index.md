@@ -5,8 +5,8 @@
 "title": "MPPをPDFに変換する"
 "url": "/ja/net/document-conversion/convert-mpp-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # MPPをPDFに変換する
 
 ## 導入

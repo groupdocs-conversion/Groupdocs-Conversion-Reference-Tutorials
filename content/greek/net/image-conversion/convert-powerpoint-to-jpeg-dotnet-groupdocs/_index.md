@@ -4,8 +4,8 @@
 "title": "Μετατρέψτε αποτελεσματικά πρότυπα PowerPoint σε JPEG σε .NET χρησιμοποιώντας το GroupDocs.Conversion"
 "url": "/el/net/image-conversion/convert-powerpoint-to-jpeg-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική μετατροπή προτύπων PowerPoint σε JPEG σε .NET χρησιμοποιώντας το GroupDocs.Conversion
 
 ## Εισαγωγή

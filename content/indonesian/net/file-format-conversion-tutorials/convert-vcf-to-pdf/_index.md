@@ -5,8 +5,8 @@
 "title": "Konversi VCF ke PDF"
 "url": "/id/net/file-format-conversion-tutorials/convert-vcf-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # Konversi VCF ke PDF
 
 ## Perkenalan

@@ -4,8 +4,8 @@
 "title": "DOC'u PSD'ye Dönüştürme Adım Adım Kılavuzu GroupDocs.Conversion for .NET'i Kullanma"
 "url": "/tr/net/image-conversion/convert-doc-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DOC'u PSD'ye Dönüştürme: .NET için GroupDocs.Conversion ile Adım Adım Kılavuz
 
 ## giriiş

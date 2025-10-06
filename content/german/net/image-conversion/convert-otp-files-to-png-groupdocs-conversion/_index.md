@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie OTP-Dateien mit GroupDocs.Conversion für .NET in PNG – Eine Schritt-für-Schritt-Anleitung"
 "url": "/de/net/image-conversion/convert-otp-files-to-png-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Umfassender Leitfaden: Konvertieren von OTP-Dateien in PNG mit GroupDocs.Conversion für .NET
 
 ## Einführung

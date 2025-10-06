@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Hướng dẫn bắt đầu và cấp phép cho các nhà phát triển .NET"
 "url": "/vi/net/getting-started-licensing/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Hướng dẫn bắt đầu và cấp phép cho các nhà phát triển .NET
 
 Bắt đầu hành trình của bạn với các hướng dẫn thiết yếu của GroupDocs.Conversion hướng dẫn bạn cài đặt, cấu hình cấp phép và thực hiện chuyển đổi tài liệu đầu tiên của bạn trong .NET. Các hướng dẫn thân thiện với người mới bắt đầu của chúng tôi trình bày cách thiết lập môi trường phát triển của bạn, khởi tạo thư viện GroupDocs.Conversion, cấu hình cấp phép từ tệp hoặc luồng, thiết lập cấp phép theo đồng hồ đo và triển khai các hoạt động chuyển đổi cơ bản bằng cả API chuẩn và API thông thạo. Làm theo các hướng dẫn này để nhanh chóng nắm vững những điều cơ bản và chuẩn bị cho các tác vụ chuyển đổi tài liệu nâng cao hơn trong các ứng dụng .NET của bạn.

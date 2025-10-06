@@ -4,8 +4,8 @@
 "title": "Konversi JPX ke PowerPoint Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Langkah demi Langkah"
 "url": "/id/net/presentation-conversion/convert-jpx-to-powerpoint-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi JPX ke PowerPoint Menggunakan GroupDocs.Conversion untuk .NET: Panduan Langkah demi Langkah
 
 Di era digital saat ini, mengonversi berkas gambar ke dalam format presentasi sangat penting untuk menyiapkan konten visual untuk rapat atau konferensi. Panduan ini akan memandu Anda melalui proses penggunaan GroupDocs.Conversion for .NET untuk mengonversi Berkas Gambar JPEG 2000 (.jpx) ke dalam presentasi PowerPoint (PPT) dengan mudah.

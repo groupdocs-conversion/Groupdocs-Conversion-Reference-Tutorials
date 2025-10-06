@@ -8,10 +8,8 @@ keywords:
 - OTS to DOCX conversion
 - GroupDocs.Conversion .NET
 - document processing conversion
-
+type: docs
 ---
-
-
 # Convert OTS to DOCX with GroupDocs.Conversion for .NET
 
 ## Introduction

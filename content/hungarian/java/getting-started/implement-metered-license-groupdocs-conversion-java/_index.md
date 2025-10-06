@@ -4,8 +4,8 @@
 "title": "Mért licenc implementálása a GroupDocs.Conversionhoz Java-ban&#58; Átfogó útmutató"
 "url": "/hu/java/getting-started/implement-metered-license-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Mért licenc implementálása a GroupDocs.Conversionhoz Java-ban
 
 ## Bevezetés

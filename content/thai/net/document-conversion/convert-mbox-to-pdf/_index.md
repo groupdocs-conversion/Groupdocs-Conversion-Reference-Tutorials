@@ -5,8 +5,8 @@
 "title": "แปลง MBOX เป็น PDF"
 "url": "/th/net/document-conversion/convert-mbox-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # แปลง MBOX เป็น PDF
 
 ## การแนะนำ

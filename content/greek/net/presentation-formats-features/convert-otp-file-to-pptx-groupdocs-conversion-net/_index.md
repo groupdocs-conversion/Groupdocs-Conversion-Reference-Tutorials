@@ -4,8 +4,8 @@
 "title": "Πώς να μετατρέψετε αρχεία OTP σε PPTX χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/presentation-formats-features/convert-otp-file-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε αρχεία OTP σε PPTX χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

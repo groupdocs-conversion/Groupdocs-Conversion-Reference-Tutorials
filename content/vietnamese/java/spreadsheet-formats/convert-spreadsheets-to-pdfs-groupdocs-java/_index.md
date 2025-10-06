@@ -4,8 +4,8 @@
 "title": "Chuyển đổi bảng tính sang PDF với GroupDocs.Chuyển đổi cho Java&#58; Hướng dẫn toàn diện"
 "url": "/vi/java/spreadsheet-formats/convert-spreadsheets-to-pdfs-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi bảng tính sang PDF với GroupDocs.Conversion cho Java: Hướng dẫn toàn diện
 
 ## Giới thiệu

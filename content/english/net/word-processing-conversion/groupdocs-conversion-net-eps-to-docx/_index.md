@@ -8,10 +8,8 @@ keywords:
 - EPS conversion
 - GroupDocs.Conversion .NET
 - document format management
-
+type: docs
 ---
-
-
 # Mastering EPS to DOCX Conversion with GroupDocs.Conversion for .NET
 
 ## Introduction

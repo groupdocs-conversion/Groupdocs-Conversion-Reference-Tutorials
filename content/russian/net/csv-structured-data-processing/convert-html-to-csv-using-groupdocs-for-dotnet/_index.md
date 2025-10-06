@@ -4,8 +4,8 @@
 "title": "Эффективное преобразование HTML в CSV с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/csv-structured-data-processing/convert-html-to-csv-using-groupdocs-for-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Эффективное преобразование HTML в CSV с помощью GroupDocs.Conversion для .NET
 
 ## Введение

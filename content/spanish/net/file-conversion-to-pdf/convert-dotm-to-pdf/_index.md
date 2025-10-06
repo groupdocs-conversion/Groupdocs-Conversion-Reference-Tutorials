@@ -5,8 +5,8 @@
 "title": "Convertir plantillas de Word DOTM (macros) a PDF"
 "url": "/es/net/file-conversion-to-pdf/convert-dotm-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Convertir plantillas de Word DOTM (macros) a PDF
 
 ## Introducción

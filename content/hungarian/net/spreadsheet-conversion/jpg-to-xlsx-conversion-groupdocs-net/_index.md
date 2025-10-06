@@ -4,8 +4,8 @@
 "title": "Hatékony JPG-ből XLSX-be konvertálás a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/spreadsheet-conversion/jpg-to-xlsx-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony JPG-ből XLSX-be konvertálás a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

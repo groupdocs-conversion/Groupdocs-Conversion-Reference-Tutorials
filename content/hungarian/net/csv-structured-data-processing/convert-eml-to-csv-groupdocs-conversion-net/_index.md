@@ -4,8 +4,8 @@
 "title": "EML hatékony konvertálása CSV-vé a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/csv-structured-data-processing/convert-eml-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # EML hatékony konvertálása CSV-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

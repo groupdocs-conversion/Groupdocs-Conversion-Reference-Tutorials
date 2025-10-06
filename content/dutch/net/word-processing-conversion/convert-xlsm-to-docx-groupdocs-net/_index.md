@@ -4,8 +4,8 @@
 "title": "Converteer XLSM naar DOCX met GroupDocs.Conversion voor .NET&#58; stapsgewijze handleiding"
 "url": "/nl/net/word-processing-conversion/convert-xlsm-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer XLSM naar DOCX met GroupDocs.Conversion voor .NET: stapsgewijze handleiding
 
 ## Invoering

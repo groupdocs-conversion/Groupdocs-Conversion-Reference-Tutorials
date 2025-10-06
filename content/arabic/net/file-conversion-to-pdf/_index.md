@@ -5,8 +5,8 @@
 "title": "تحويل الملف إلى PDF"
 "url": "/ar/net/file-conversion-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # تحويل الملف إلى PDF
 
 ## مقدمة:

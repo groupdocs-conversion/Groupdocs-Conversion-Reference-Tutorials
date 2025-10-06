@@ -8,10 +8,8 @@ keywords:
 - Convert VSS to XLSX
 - GroupDocs.Conversion for .NET
 - Visio Stencil Conversion
-
+type: docs
 ---
-
-
 # Convert VSS to XLSX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

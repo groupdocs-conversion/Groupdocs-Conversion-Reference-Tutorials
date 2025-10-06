@@ -8,10 +8,8 @@ keywords:
 - TIF to XLS conversion
 - GroupDocs.Conversion .NET
 - convert TIF to spreadsheet
-
+type: docs
 ---
-
-
 # How to Convert TIF to XLS Using GroupDocs.Conversion .NET: A Step-by-Step Guide
 
 ## Introduction

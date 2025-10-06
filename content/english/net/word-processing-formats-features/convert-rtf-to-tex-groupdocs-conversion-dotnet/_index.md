@@ -8,10 +8,8 @@ keywords:
 - convert RTF to TEX
 - GroupDocs.Conversion for .NET
 - RTF to TEX conversion
-
+type: docs
 ---
-
-
 # Convert RTF to TEX Efficiently Using GroupDocs.Conversion for .NET
 
 In today's digital world, transforming documents into the desired format is crucial for seamless collaboration and publishing. Whether you're a developer or someone needing RTF files converted to TEX for academic purposes, this tutorial will guide you through using GroupDocs.Conversion for .NET.

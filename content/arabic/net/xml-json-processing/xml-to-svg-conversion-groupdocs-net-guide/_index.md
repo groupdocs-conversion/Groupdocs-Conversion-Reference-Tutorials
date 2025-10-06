@@ -4,8 +4,8 @@
 "title": "تحويل XML إلى SVG بكفاءة باستخدام GroupDocs.Conversion لـ .NET - دليل خطوة بخطوة"
 "url": "/ar/net/xml-json-processing/xml-to-svg-conversion-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # تحويل XML إلى SVG بكفاءة باستخدام GroupDocs.Conversion لـ .NET: دليل خطوة بخطوة
 
 ## مقدمة

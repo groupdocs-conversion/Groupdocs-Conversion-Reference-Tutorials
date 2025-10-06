@@ -5,8 +5,8 @@
 "title": "Chuyển đổi tài liệu DOC Word sang PDF"
 "url": "/vi/net/file-conversion-to-pdf/convert-doc-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # Chuyển đổi tài liệu DOC Word sang PDF
 
 ## Giới thiệu

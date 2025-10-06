@@ -4,8 +4,8 @@
 "title": "Könnyed TXT-ből PDF-be konvertálás – Master GroupDocs.Conversion for .NET percek alatt"
 "url": "/hu/net/pdf-conversion/convert-txt-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Könnyed TXT-ből PDF-be konvertálás: Sajátítsa el a GroupDocs.Conversion for .NET használatát percek alatt
 
 ## Bevezetés

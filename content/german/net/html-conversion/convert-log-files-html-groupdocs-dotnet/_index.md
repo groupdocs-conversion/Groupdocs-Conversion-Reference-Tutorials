@@ -4,8 +4,8 @@
 "title": "Umfassender Leitfaden&#58; Konvertieren Sie LOG-Dateien in HTML mit GroupDocs.Conversion für .NET"
 "url": "/de/net/html-conversion/convert-log-files-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Umfassende Anleitung: Konvertieren Sie LOG-Dateien mit GroupDocs.Conversion für .NET in HTML
 
 ## Einführung

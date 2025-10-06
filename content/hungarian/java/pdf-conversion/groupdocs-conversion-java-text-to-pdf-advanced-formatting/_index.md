@@ -4,8 +4,8 @@
 "title": "Speciális szöveg PDF-be konvertálás a GroupDocs.Conversion segítségével Java formátum megőrzése"
 "url": "/hu/java/pdf-conversion/groupdocs-conversion-java-text-to-pdf-advanced-formatting/"
 "weight": 1
+type: docs
 ---
-
 # Speciális szöveg PDF-be konvertálás a GroupDocs.Conversion segítségével Java: Formázás megőrzése
 
 ## Bevezetés

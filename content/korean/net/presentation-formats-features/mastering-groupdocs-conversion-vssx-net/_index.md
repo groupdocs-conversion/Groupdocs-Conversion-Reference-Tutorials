@@ -4,8 +4,8 @@
 "title": ".NET에서 VSSX 파일을 효율적으로 변환하는 GroupDocs.Conversion&#58; 완벽한 가이드"
 "url": "/ko/net/presentation-formats-features/mastering-groupdocs-conversion-vssx-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET에서 VSSX 파일을 효율적으로 변환하는 GroupDocs.Conversion: 완벽한 가이드
 
 ## 소개

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して PCL を SVG に変換する包括的なガイド"
 "url": "/ja/net/image-formats-features/convert-pcl-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して PCL を SVG に変換する: 包括的なガイド
 
 ## 導入

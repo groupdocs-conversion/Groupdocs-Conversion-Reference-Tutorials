@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Comprehensive Guide: Convert ODT to PPTX Using GroupDocs.Conversion .NET
 
 ## Introduction

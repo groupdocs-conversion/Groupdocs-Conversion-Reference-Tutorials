@@ -4,8 +4,8 @@
 "title": "Hur man konverterar FODP-filer till SVG med GroupDocs.Conversion för .NET"
 "url": "/sv/net/image-conversion/convert-fodp-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar FODP-filer till SVG med GroupDocs.Conversion för .NET
 
 ## Introduktion

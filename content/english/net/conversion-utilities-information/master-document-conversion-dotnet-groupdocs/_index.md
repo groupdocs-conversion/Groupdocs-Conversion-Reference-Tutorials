@@ -8,10 +8,8 @@ keywords:
 - document conversion in .NET
 - GroupDocs.Conversion API setup
 - file format conversions
-
+type: docs
 ---
-
-
 # Mastering Document Conversion in .NET with GroupDocs.Conversion API
 
 Welcome to this comprehensive guide designed to help you seamlessly integrate document conversion features into your .NET applications using the GroupDocs.Conversion API. Whether managing a large volume of documents or needing a flexible solution for converting file formats, this tutorial equips you with everything needed to get started.

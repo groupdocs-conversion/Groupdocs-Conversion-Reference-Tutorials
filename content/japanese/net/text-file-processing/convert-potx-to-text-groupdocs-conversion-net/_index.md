@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して PowerPoint テンプレート (.potx) をテキストに変換する方法"
 "url": "/ja/net/text-file-processing/convert-potx-to-text-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して Microsoft PowerPoint Open XML テンプレート (.potx) ファイルを読み込み、テキストに変換する方法
 
 ## 導入

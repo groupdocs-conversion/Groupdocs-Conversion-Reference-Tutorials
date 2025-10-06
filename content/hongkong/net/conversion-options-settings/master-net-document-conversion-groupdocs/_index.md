@@ -4,8 +4,8 @@
 "title": ".NET 文件轉換精通 &#58; 利用 GroupDocs 實現無縫 PDF 轉換"
 "url": "/zh-hant/net/conversion-options-settings/master-net-document-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 掌握 .NET 中的文件轉換
 
 ## 介紹

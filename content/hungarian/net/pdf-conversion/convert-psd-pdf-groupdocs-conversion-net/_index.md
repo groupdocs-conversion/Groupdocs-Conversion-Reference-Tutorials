@@ -4,8 +4,8 @@
 "title": "PSD konvertálása PDF-be a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/pdf-conversion/convert-psd-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PSD fájlok konvertálása PDF-be a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

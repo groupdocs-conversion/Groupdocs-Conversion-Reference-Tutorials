@@ -8,10 +8,8 @@ keywords:
 - convert FODS to PDF
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Convert FODS to PDF Using GroupDocs.Conversion for .NET
 
 ## Introduction

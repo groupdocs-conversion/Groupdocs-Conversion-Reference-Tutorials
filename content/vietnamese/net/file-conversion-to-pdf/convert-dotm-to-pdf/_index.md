@@ -5,8 +5,8 @@
 "title": "Chuyển đổi mẫu DOTM Word (Macro) sang PDF"
 "url": "/vi/net/file-conversion-to-pdf/convert-dotm-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Chuyển đổi mẫu DOTM Word (Macro) sang PDF
 
 ## Giới thiệu

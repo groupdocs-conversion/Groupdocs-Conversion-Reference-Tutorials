@@ -4,8 +4,8 @@
 "title": "CSV konvertálása JPG-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-csv-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # CSV konvertálása JPG-vé a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

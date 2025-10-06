@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して LOG ファイルを SVG に変換する方法 - ステップバイステップガイド"
 "url": "/ja/net/image-conversion/convert-log-files-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して LOG ファイルを SVG に変換する方法: ステップバイステップガイド
 
 ## 導入

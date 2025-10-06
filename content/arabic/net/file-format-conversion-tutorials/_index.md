@@ -5,8 +5,8 @@
 "title": "تحويل تنسيق الملف"
 "url": "/ar/net/file-format-conversion-tutorials/"
 "weight": 21
+type: docs
 ---
-
 # تحويل تنسيق الملف
 
 ## مقدمة

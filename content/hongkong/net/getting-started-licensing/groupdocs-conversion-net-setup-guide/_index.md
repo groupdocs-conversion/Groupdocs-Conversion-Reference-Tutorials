@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET&#58; 設定與實作綜合指南"
 "url": "/zh-hant/net/getting-started-licensing/groupdocs-conversion-net-setup-guide/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET 綜合指南：設定與實施
 
 ## 介紹

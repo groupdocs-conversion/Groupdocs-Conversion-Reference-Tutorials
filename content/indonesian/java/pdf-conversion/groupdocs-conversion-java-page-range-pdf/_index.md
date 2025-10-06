@@ -4,8 +4,8 @@
 "title": "Konversi Rentang Halaman Tertentu ke PDF Menggunakan API Java GroupDocs.Conversion"
 "url": "/id/java/pdf-conversion/groupdocs-conversion-java-page-range-pdf/"
 "weight": 1
+type: docs
 ---
-
 # Konversi Rentang Halaman Tertentu ke PDF Menggunakan API Java GroupDocs.Conversion
 
 Di era digital saat ini, mengelola dokumen secara efisien sangat penting bagi bisnis dan individu. Mengonversi bagian tertentu dari laporan ke dalam format portabel seperti PDF dapat menghemat waktu dan sumber daya. Tutorial ini akan memandu Anda dalam menggunakan **GroupDocs.Konversi Java** untuk mengonversi sejumlah halaman tertentu dari dokumen apa pun ke dalam berkas PDF. Pada akhirnya, Anda akan memiliki semua keterampilan yang dibutuhkan untuk menerapkan fitur hebat ini dalam proyek Anda.

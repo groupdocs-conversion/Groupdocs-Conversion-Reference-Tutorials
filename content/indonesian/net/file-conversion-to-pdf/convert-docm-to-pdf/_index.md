@@ -5,8 +5,8 @@
 "title": "Konversi Dokumen Word DOCM (Makro) ke PDF"
 "url": "/id/net/file-conversion-to-pdf/convert-docm-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Konversi Dokumen Word DOCM (Makro) ke PDF
 
 ## Perkenalan

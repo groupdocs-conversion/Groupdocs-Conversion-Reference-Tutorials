@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 將 JPEG 轉換為 JPG（逐步指南）"
 "url": "/zh-hant/net/image-conversion/convert-jpeg-to-jpg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將 JPEG 轉換為 JPG
 
 ## 介紹

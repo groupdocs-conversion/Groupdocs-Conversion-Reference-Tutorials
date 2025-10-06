@@ -8,10 +8,8 @@ keywords:
 - convert LOG to PSD
 - GroupDocs.Conversion .NET
 - image conversion .NET
-
+type: docs
 ---
-
-
 # Convert LOG to PSD Using GroupDocs.Conversion .NET
 
 ## Introduction

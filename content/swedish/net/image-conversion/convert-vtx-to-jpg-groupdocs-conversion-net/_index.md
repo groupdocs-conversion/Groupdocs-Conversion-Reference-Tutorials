@@ -4,8 +4,8 @@
 "title": "Konvertera VTX till JPG med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/image-conversion/convert-vtx-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera VTX-filer till JPG med GroupDocs.Conversion för .NET
 
 ## Introduktion

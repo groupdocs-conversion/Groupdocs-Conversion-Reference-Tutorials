@@ -5,8 +5,8 @@
 "title": "WMZ를 PDF로 변환"
 "url": "/ko/net/converting-file-types-to-pdf/convert-wmz-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # WMZ를 PDF로 변환
 
 ## 소개

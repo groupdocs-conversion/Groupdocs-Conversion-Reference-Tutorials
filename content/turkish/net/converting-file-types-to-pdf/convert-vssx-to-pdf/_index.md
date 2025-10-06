@@ -5,8 +5,8 @@
 "title": "VSSX'i PDF'ye dönüştür"
 "url": "/tr/net/converting-file-types-to-pdf/convert-vssx-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # VSSX'i PDF'ye dönüştür
 
 ## giriiş

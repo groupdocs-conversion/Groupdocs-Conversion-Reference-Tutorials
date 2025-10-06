@@ -8,10 +8,8 @@ keywords:
 - convert OneNote to DOCX
 - GroupDocs.Conversion for .NET
 - OneNote to Word conversion
-
+type: docs
 ---
-
-
 # How to Convert OneNote to DOCX Using GroupDocs.Conversion for .NET
 
 ## Introduction

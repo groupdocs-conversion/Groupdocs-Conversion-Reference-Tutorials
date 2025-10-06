@@ -4,8 +4,8 @@
 "title": "Мастер-преобразование MPP в PSD с использованием GroupDocs.Conversion для .NET"
 "url": "/ru/net/image-formats-features/conversion-mpp-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Мастер-преобразование MPP в PSD с использованием GroupDocs.Conversion для .NET
 
 ## Введение

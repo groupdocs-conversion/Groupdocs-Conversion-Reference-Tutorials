@@ -4,8 +4,8 @@
 "title": "Πώς να μετατρέψετε αρχεία AI σε PowerPoint χρησιμοποιώντας το GroupDocs.Conversion για .NET | Οδηγός βήμα προς βήμα"
 "url": "/el/net/presentation-formats-features/convert-ai-files-to-powerpoint-using-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε αρχεία AI σε PowerPoint χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

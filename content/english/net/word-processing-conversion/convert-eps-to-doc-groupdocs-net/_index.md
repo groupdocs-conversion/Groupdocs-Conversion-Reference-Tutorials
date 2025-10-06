@@ -8,10 +8,8 @@ keywords:
 - convert EPS to DOC
 - GroupDocs Conversion .NET
 - EPS to Word conversion
-
+type: docs
 ---
-
-
 # Convert EPS to DOC Using GroupDocs.Conversion in .NET: A Step-by-Step Guide
 
 ## Introduction

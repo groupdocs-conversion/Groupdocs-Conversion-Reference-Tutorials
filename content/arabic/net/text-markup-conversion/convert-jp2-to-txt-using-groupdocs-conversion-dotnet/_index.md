@@ -4,8 +4,8 @@
 "title": "تحويل JP2 إلى TXT في C# باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/text-markup-conversion/convert-jp2-to-txt-using-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # تحويل JP2 إلى TXT باستخدام GroupDocs.Conversion في C#: دليل شامل
 
 ## مقدمة

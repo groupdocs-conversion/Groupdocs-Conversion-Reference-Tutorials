@@ -4,8 +4,8 @@
 "title": "Chuyển đổi OTS sang PPTX dễ dàng với GroupDocs.Conversion .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/presentation-conversion/convert-ots-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi OTS sang PPTX dễ dàng với GroupDocs.Conversion .NET: Hướng dẫn toàn diện
 
 ## Giới thiệu

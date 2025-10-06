@@ -4,8 +4,8 @@
 "title": "Kuasai Konversi MPX ke TXT dalam .NET dengan GroupDocs"
 "url": "/id/net/text-markup-conversion/master-mpx-txt-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Menguasai Konversi MPX ke TXT di .NET dengan GroupDocs.Conversion
 
 ## Perkenalan

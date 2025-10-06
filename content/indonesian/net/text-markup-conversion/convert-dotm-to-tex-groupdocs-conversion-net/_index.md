@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi DOTM ke TEX Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/text-markup-conversion/convert-dotm-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi DOTM ke TEX Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

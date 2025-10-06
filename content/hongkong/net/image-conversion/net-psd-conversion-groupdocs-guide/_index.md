@@ -4,8 +4,8 @@
 "title": "GroupDocs 的 .NET PSD 轉換終極指南"
 "url": "/zh-hant/net/image-conversion/net-psd-conversion-groupdocs-guide/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs 進行 Net PSD 轉換：.NET 開發人員完整指南
 
 ## 介紹

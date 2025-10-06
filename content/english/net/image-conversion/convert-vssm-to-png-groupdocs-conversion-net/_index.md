@@ -8,10 +8,8 @@ keywords:
 - convert VSSM to PNG
 - GroupDocs.Conversion for .NET
 - visual studio solution merge conversion
-
+type: docs
 ---
-
-
 # How to Convert VSSM Files to PNG Using GroupDocs.Conversion for .NET
 
 ## Introduction

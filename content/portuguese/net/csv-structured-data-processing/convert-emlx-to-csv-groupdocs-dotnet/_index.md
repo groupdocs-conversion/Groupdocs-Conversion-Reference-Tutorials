@@ -4,8 +4,8 @@
 "title": "Converta EMLX para CSV com eficiência usando GroupDocs.Conversion no .NET"
 "url": "/pt/net/csv-structured-data-processing/convert-emlx-to-csv-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converta EMLX para CSV com eficiência usando GroupDocs.Conversion no .NET
 
 ## Introdução

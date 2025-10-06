@@ -4,8 +4,8 @@
 "title": "Hatékony WMF-JPEG konvertálás a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/convert-wmf-to-jpeg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony WMF-JPEG konvertálás a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

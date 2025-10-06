@@ -4,8 +4,8 @@
 "title": "Převod XLT do DOC pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/word-processing-conversion/convert-xlt-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod XLT do DOC pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

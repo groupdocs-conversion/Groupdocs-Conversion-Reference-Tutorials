@@ -4,8 +4,8 @@
 "title": "MPT'yi GroupDocs.Conversion for .NET Kullanarak HTML'ye Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/web-markup-formats/convert-mpt-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MPT'yi .NET için GroupDocs.Conversion Kullanarak HTML'ye Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

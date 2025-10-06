@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中將文字轉換為 PDF - 綜合指南"
 "url": "/zh-hant/net/pdf-conversion/convert-text-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將文字轉換為 PDF
 
 ## 介紹

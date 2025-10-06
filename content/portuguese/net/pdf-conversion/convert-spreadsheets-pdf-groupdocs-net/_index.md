@@ -4,8 +4,8 @@
 "title": "Converta planilhas em PDFs facilmente usando GroupDocs.Conversion no .NET"
 "url": "/pt/net/pdf-conversion/convert-spreadsheets-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converta planilhas em PDFs facilmente usando GroupDocs.Conversion no .NET
 
 ## Introdução

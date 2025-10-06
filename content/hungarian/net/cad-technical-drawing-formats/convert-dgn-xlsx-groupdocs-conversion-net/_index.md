@@ -4,8 +4,8 @@
 "title": "DGN konvertálása XLSX-sé C#-ban a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/cad-technical-drawing-formats/convert-dgn-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DGN konvertálása XLSX-sé C#-ban a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

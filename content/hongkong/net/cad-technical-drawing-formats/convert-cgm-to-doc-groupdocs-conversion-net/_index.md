@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 有效地將 CGM 轉換為 DOC"
 "url": "/zh-hant/net/cad-technical-drawing-formats/convert-cgm-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 有效地將 CGM 轉換為 DOC
 
 ## 介紹

@@ -4,8 +4,8 @@
 "title": "Átfogó útmutató a LOG fájlok HTML-lé konvertálásához a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/html-conversion/convert-log-files-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató: LOG fájlok konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

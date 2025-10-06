@@ -5,8 +5,8 @@
 "title": "Převod PSD do PDF"
 "url": "/cs/net/file-format-conversion-tutorials/convert-psd-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # Převod PSD do PDF
 
 ## Zavedení

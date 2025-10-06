@@ -4,8 +4,8 @@
 "title": "EPUB DOC-ba konvertálása a GroupDocs.Conversion .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/word-processing-conversion/convert-epub-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # EPUB DOC-ba konvertálása a GroupDocs.Conversion .NET segítségével: Átfogó útmutató
 
 ## Bevezetés

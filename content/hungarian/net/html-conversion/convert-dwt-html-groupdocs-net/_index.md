@@ -4,8 +4,8 @@
 "title": "DWT konvertálása HTML-be a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/html-conversion/convert-dwt-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DWT fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

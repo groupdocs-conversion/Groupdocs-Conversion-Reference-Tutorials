@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 OXPS 高效轉換為 SVG | 逐步指南"
 "url": "/zh-hant/net/image-conversion/convert-oxps-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 OXPS 高效轉換為 SVG：逐步指南
 
 ## 介紹

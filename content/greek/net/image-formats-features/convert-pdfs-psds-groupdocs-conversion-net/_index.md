@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή PDF σε PSD χρησιμοποιώντας τη βιβλιοθήκη GroupDocs.Conversion .NET"
 "url": "/el/net/image-formats-features/convert-pdfs-psds-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική μετατροπή PDF σε PSD με το GroupDocs.Conversion .NET
 
 ## Εισαγωγή

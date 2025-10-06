@@ -4,8 +4,8 @@
 "title": "PLT konvertálása PNG-vé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-plt-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PLT fájlok konvertálása PNG-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

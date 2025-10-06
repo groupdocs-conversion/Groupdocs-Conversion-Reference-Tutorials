@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して Word 文書を PowerPoint PPTX に変換する"
 "url": "/ja/net/presentation-formats-features/convert-word-docs-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して Word 文書を PowerPoint PPTX に変換する
 
 ## 導入

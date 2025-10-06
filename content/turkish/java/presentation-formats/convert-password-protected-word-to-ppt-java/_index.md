@@ -4,8 +4,8 @@
 "title": "Java ve GroupDocs kullanarak Parola Korumalı Word Belgelerini PPT'ye Verimli Şekilde Dönüştürün.Conversion"
 "url": "/tr/java/presentation-formats/convert-password-protected-word-to-ppt-java/"
 "weight": 1
+type: docs
 ---
-
 # Java ve GroupDocs Kullanarak Parola Korumalı Word Belgelerini PPT'ye Verimli Şekilde Nasıl Dönüştürebilirsiniz?
 
 ## giriiş

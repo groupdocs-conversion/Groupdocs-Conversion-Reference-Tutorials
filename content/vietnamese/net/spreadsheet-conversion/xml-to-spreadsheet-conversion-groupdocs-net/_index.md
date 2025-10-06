@@ -4,8 +4,8 @@
 "title": "Chuyển đổi XML sang bảng tính hiệu quả trong .NET bằng GroupDocs.Conversion"
 "url": "/vi/net/spreadsheet-conversion/xml-to-spreadsheet-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi XML sang bảng tính hiệu quả trong .NET bằng GroupDocs.Conversion
 
 ## Giới thiệu

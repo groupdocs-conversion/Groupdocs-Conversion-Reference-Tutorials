@@ -4,8 +4,8 @@
 "title": "Μετατροπή ODP σε XLSX σε C# - Οδηγός βήμα προς βήμα με το GroupDocs.Conversion για .NET"
 "url": "/el/net/spreadsheet-conversion/convert-odp-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή ODP σε XLSX σε C#: Οδηγός βήμα προς βήμα με το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

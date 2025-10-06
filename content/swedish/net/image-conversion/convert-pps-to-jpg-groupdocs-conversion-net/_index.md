@@ -4,8 +4,8 @@
 "title": "Hur man konverterar PPS till JPG med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/image-conversion/convert-pps-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar PPS till JPG med GroupDocs.Conversion för .NET: En steg-för-steg-guide
 
 ## Introduktion

@@ -4,8 +4,8 @@
 "title": "Bemästra PDF till Word-konvertering med GroupDocs.Conversion för .NET | Omfattande guide"
 "url": "/sv/net/word-processing-formats-features/master-pdf-to-word-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Bemästra PDF till Word-konvertering med GroupDocs.Conversion för .NET
 
 ## Introduktion

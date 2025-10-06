@@ -8,10 +8,8 @@ keywords:
 - PS to PSD conversion
 - GroupDocs.Conversion .NET
 - PostScript file conversion
-
+type: docs
 ---
-
-
 # Efficient PS to PSD Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

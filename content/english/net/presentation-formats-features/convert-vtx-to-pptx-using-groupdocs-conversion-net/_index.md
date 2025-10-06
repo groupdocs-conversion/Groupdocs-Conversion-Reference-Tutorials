@@ -8,10 +8,8 @@ keywords:
 - Convert VTX to PPTX
 - GroupDocs.Conversion for .NET
 - .NET document conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert VTX to PPTX Using GroupDocs.Conversion for .NET
 
 ## Introduction

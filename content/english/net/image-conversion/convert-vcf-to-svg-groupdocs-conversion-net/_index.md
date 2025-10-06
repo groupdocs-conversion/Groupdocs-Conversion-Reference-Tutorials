@@ -8,10 +8,8 @@ keywords:
 - convert VCF to SVG
 - GroupDocs.Conversion .NET
 - file conversion tutorial
-
+type: docs
 ---
-
-
 # Convert VCF Files to SVG Using GroupDocs.Conversion for .NET
 
 ## Introduction

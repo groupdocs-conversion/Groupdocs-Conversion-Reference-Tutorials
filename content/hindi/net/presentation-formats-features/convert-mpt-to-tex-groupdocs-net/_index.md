@@ -4,8 +4,8 @@
 "title": ".NET के निर्बाध फ़ाइल रूपांतरण गाइड के लिए GroupDocs.Conversion के साथ MPT to TEX को परिवर्तित करें"
 "url": "/hi/net/presentation-formats-features/convert-mpt-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion के साथ MPT to TEX को परिवर्तित करें: निर्बाध फ़ाइल रूपांतरण मार्गदर्शिका
 
 ## परिचय

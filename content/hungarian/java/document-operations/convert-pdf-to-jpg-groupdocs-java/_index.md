@@ -4,8 +4,8 @@
 "title": "PDF konvertálása JPG-vé Java-ban a GroupDocs.Conversion használatával – lépésről lépésre útmutató"
 "url": "/hu/java/document-operations/convert-pdf-to-jpg-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # PDF konvertálása JPG-vé Java-ban a GroupDocs.Conversion használatával: lépésről lépésre útmutató
 
 ## Bevezetés

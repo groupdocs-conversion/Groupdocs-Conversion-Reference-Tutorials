@@ -4,8 +4,8 @@
 "title": "Converter JLS para PSD no .NET usando GroupDocs.Conversion - Um guia passo a passo"
 "url": "/pt/net/image-conversion/convert-jls-psd-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converter JLS para PSD no .NET usando GroupDocs.Conversion: um guia passo a passo
 
 ## Introdução

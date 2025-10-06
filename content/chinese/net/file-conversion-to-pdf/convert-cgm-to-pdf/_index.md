@@ -5,8 +5,8 @@
 "title": "将 CGM 矢量图形转换为 PDF"
 "url": "/zh/net/file-conversion-to-pdf/convert-cgm-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # 将 CGM 矢量图形转换为 PDF
 
 ## 介绍

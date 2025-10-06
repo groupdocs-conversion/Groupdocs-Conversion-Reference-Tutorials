@@ -4,8 +4,8 @@
 "title": "Konvertera VSX till PNG i .NET med GroupDocs.Conversion – en steg-för-steg-guide"
 "url": "/sv/net/image-conversion/convert-vsx-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera VSX till PNG i .NET med GroupDocs.Conversion
 
 ## Introduktion

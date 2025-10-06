@@ -4,8 +4,8 @@
 "title": "Efektywna konwersja Visio VSTM do CSV przy użyciu GroupDocs.Conversion dla .NET"
 "url": "/pl/net/csv-structured-data-processing/convert-visio-vstm-to-csv-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Jak przekonwertować Visio VSTM do CSV za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

@@ -4,8 +4,8 @@
 "title": "Освоение преобразования файлов в .NET с использованием GroupDocs.Conversion&#58; Руководство разработчика"
 "url": "/ru/net/conversion-utilities-information/mastering-file-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Освоение преобразования файлов в .NET с помощью GroupDocs.Conversion: ваше полное руководство для разработчиков
 
 ## Введение

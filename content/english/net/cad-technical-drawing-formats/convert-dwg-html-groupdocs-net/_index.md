@@ -8,10 +8,8 @@ keywords:
 - DWG to HTML conversion
 - GroupDocs.Conversion for .NET
 - CAD file accessibility
-
+type: docs
 ---
-
-
 # How to Convert DWG Files to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

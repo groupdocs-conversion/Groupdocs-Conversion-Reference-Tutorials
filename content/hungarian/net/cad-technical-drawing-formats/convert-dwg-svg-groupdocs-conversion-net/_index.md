@@ -4,8 +4,8 @@
 "title": "DWG konvertálása SVG-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/cad-technical-drawing-formats/convert-dwg-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DWG konvertálása SVG-vé a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

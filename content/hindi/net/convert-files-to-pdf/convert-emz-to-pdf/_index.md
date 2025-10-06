@@ -5,8 +5,8 @@
 "title": "EMZ एन्हांस्ड मेटाफाइल्स को PDF में बदलें"
 "url": "/hi/net/convert-files-to-pdf/convert-emz-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # EMZ एन्हांस्ड मेटाफाइल्स को PDF में बदलें
 
 ## परिचय

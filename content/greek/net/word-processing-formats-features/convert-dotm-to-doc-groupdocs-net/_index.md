@@ -4,8 +4,8 @@
 "title": "Μετατροπή DOTM σε DOC χρησιμοποιώντας το GroupDocs.Conversion για .NET™ Ένας πλήρης οδηγός"
 "url": "/el/net/word-processing-formats-features/convert-dotm-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε DOTM σε DOC χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 Δυσκολεύεστε να μετατρέψετε πρότυπα με δυνατότητα μακροεντολών του Microsoft Word (.dotm) σε τυπικά έγγραφα του Word (.doc); Αυτός ο ολοκληρωμένος οδηγός για τη χρήση του **GroupDocs.Conversion για .NET** Η βιβλιοθήκη θα σας βοηθήσει να απλοποιήσετε αυτήν τη διαδικασία χωρίς κόπο. Μέχρι το τέλος αυτού του σεμιναρίου, θα είστε σε θέση να μετατρέπετε εύκολα μορφές αρχείων.

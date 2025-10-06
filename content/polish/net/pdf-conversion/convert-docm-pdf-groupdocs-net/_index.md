@@ -4,8 +4,8 @@
 "title": "Kompleksowy przewodnik po konwersji DOCM do PDF przy użyciu GroupDocs.Conversion dla .NET"
 "url": "/pl/net/pdf-conversion/convert-docm-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Kompleksowy przewodnik po konwersji DOCM do PDF przy użyciu GroupDocs.Conversion dla .NET
 
 ## Wstęp

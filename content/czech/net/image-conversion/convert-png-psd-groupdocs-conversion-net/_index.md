@@ -4,8 +4,8 @@
 "title": "Převod PNG do PSD pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/image-conversion/convert-png-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést PNG do PSD pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

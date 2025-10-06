@@ -4,8 +4,8 @@
 "title": "XLS'yi GroupDocs.Conversion for .NET Kullanarak HTML'ye Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/html-conversion/convert-xls-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanılarak XLS Dosyaları HTML'ye Nasıl Dönüştürülür
 
 ## giriiş

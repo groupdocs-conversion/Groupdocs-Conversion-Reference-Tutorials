@@ -4,8 +4,8 @@
 "title": "تحويل XLS إلى PPTX بكفاءة باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/presentation-conversion/convert-xls-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل ملفات XLS إلى PPTX باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

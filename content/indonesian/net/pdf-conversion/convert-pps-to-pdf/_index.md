@@ -5,8 +5,8 @@
 "title": "Konversi PPS ke PDF"
 "url": "/id/net/pdf-conversion/convert-pps-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Konversi PPS ke PDF
 
 ## Perkenalan

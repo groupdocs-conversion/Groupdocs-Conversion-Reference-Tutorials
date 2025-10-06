@@ -4,8 +4,8 @@
 "title": "วิธีการแปลง PostScript (PS) เป็นข้อความธรรมดาโดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/text-markup-conversion/convert-ps-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการแปลง PostScript (PS) เป็นข้อความธรรมดาโดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

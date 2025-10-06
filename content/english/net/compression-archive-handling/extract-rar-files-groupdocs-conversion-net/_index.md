@@ -8,10 +8,8 @@ keywords:
 - extract RAR files
 - GroupDocs.Conversion .NET
 - RAR archive extraction
-
+type: docs
 ---
-
-
 # Efficiently Extract RAR Files with GroupDocs.Conversion in .NET: A Developer's Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Convertire MOBI in XLS utilizzando GroupDocs.Conversion per .NET&#58; una guida passo passo"
 "url": "/it/net/spreadsheet-formats-features/groupdocs-mobi-to-xls-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire MOBI in XLS utilizzando GroupDocs.Conversion per .NET: una guida passo passo
 
 ## Introduzione

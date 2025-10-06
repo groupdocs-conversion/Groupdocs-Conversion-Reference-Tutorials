@@ -4,8 +4,8 @@
 "title": "EPS konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/web-markup-formats/convert-eps-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # EPS konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

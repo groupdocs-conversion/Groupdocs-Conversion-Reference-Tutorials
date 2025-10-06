@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 LaTeX (TEX) 檔案轉換為 Excel 電子表格"
 "url": "/zh-hant/net/spreadsheet-formats-features/convert-tex-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 LaTeX (TEX) 檔案轉換為 Excel 電子表格
 
 ## 介紹

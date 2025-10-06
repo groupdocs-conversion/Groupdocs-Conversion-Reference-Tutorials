@@ -8,10 +8,8 @@ keywords:
 - Convert DOCX to PDF
 - GroupDocs Conversion for .NET
 - document conversion library
-
+type: docs
 ---
-
-
 # Convert DOCX to PDF in .NET Using GroupDocs.Conversion: A Complete Guide
 
 ## Introduction

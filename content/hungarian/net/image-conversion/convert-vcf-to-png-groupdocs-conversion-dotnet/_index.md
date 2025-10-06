@@ -4,8 +4,8 @@
 "title": "VCF fájlok PNG képekké konvertálása a GroupDocs.Conversion for .NET használatával (lépésről lépésre útmutató)"
 "url": "/hu/net/image-conversion/convert-vcf-to-png-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # VCF fájlok PNG képekké konvertálása a GroupDocs.Conversion for .NET használatával (lépésről lépésre útmutató)
 
 ## Bevezetés

@@ -8,10 +8,8 @@ keywords:
 - VSS to PDF conversion
 - GroupDocs.Conversion for .NET
 - Visio Stencil to PDF
-
+type: docs
 ---
-
-
 # Convert VSS to PDF with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

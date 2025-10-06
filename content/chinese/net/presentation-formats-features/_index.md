@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 的演示格式和功能教程"
 "url": "/zh/net/presentation-formats-features/"
 "weight": 12
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 的演示格式和功能教程
 
 我们以演示文稿为中心的教程将向您展示如何使用 .NET 中的 GroupDocs.Conversion 处理基于幻灯片的文档。这些实用指南将逐步讲解如何在 PowerPoint 格式之间进行转换、在转换过程中隐藏注释、包含或排除隐藏幻灯片、指定字体替换选项、保留动画和过渡效果、维护演讲者备注、处理嵌入媒体，以及如何确保不同演示文稿格式之间的布局一致性。每个教程都包含演示文稿转换场景的详细 C# 代码示例，帮助您构建能够生成高质量转换结果、保留视觉元素和交互功能的应用程序。

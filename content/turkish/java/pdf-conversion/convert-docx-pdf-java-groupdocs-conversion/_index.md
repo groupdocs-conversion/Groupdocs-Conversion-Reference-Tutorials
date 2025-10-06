@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion&#58;ı Kullanarak Java'da DOCX'i PDF'ye Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/java/pdf-conversion/convert-docx-pdf-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion ile Java'da DOCX'i PDF'ye dönüştürün
 
 ## giriiş

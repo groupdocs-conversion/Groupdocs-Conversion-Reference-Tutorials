@@ -5,8 +5,8 @@
 "title": "Chuyển đổi TIF sang PDF"
 "url": "/vi/net/file-format-conversion-tutorials/convert-tif-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Chuyển đổi TIF sang PDF
 
 ## Giới thiệu

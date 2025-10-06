@@ -5,8 +5,8 @@
 "title": "Μετατροπή εικόνων BMP σε PDF"
 "url": "/el/net/file-conversion-to-pdf/convert-bmp-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Μετατροπή εικόνων BMP σε PDF
 
 ## Εισαγωγή

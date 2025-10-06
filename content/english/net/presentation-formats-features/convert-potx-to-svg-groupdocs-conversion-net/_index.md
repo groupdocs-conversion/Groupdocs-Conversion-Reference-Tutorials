@@ -8,10 +8,8 @@ keywords:
 - convert POTX to SVG
 - GroupDocs.Conversion for .NET
 - POTX to SVG conversion
-
+type: docs
 ---
-
-
 # Convert POTX to SVG Using GroupDocs.Conversion for .NET: A Complete Guide
 
 ## Introduction

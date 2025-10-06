@@ -4,8 +4,8 @@
 "title": "Konvertera LOG-filer till TEX med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/text-markup-conversion/convert-log-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hur man laddar och konverterar loggfiler med GroupDocs.Conversion för .NET
 
 ## Introduktion

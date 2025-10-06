@@ -4,8 +4,8 @@
 "title": "Jak převést dokumenty Wordu chráněné heslem do HTML pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/html-conversion/convert-password-word-docs-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést dokumenty Wordu chráněné heslem do HTML pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

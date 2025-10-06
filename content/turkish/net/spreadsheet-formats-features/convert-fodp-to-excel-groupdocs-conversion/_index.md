@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion'ı Kullanarak FODP'yi Excel'e Verimli Şekilde Dönüştürün"
 "url": "/tr/net/spreadsheet-formats-features/convert-fodp-to-excel-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanarak FODP Dosyalarını Excel'e Verimli Şekilde Nasıl Dönüştürebilirsiniz
 
 ## giriiş

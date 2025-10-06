@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET을 사용하여 MHTML을 Excel로 변환 - 스프레드시트 변환을 위한 포괄적인 가이드"
 "url": "/ko/net/spreadsheet-conversion/convert-mhtml-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET을 사용하여 MHTML을 Excel로 변환: 포괄적인 가이드
 
 ## 소개

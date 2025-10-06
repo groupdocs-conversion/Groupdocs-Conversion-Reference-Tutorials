@@ -4,8 +4,8 @@
 "title": "Convierta JPG a DOCX con GroupDocs.Conversion para .NET&#58; una guía completa"
 "url": "/es/net/word-processing-conversion/convert-jpg-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir JPG a DOCX con GroupDocs.Conversion para .NET: una guía completa
 ## Introducción
 ¿Buscas una forma eficiente de transformar tus imágenes en documentos editables? Con la creciente necesidad de compartir información digital, convertir archivos JPG a formato DOCX es esencial. Esta guía completa te guiará en el uso de GroupDocs.Conversion para .NET, una potente herramienta diseñada para una conversión de archivos fluida.

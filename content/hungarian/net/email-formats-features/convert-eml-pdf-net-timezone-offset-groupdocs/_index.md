@@ -4,8 +4,8 @@
 "title": "EML konvertálása PDF-be .NET-ben időzóna-eltolás segítségével – Átfogó útmutató a GroupDocs.Conversion használatához"
 "url": "/hu/net/email-formats-features/convert-eml-pdf-net-timezone-offset-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # EML konvertálása PDF-be .NET-ben időzóna-eltolás használatával: Átfogó útmutató a GroupDocs.Conversion használatával
 ## Bevezetés
 Megbízható módszert keresel az e-mail dokumentumok (EML) PDF formátumba konvertálására, miközben megőrized a pontos időzóna-információkat? Akár archiválásról, megosztásról vagy megfelelőségről van szó, ez az oktatóanyag végigvezet a hatékony GroupDocs.Conversion for .NET könyvtár használatán. Megtanulod, hogyan valósíthatsz meg egyszerűen olyan speciális funkciókat, mint az időzóna-eltolások.

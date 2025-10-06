@@ -4,8 +4,8 @@
 "title": "Efektivní převod PNG do HTML pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/html-conversion/convert-png-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod PNG do HTML pomocí GroupDocs.Conversion pro .NET
 ## Zavedení
 dnešní digitální krajině je převod obrázků, jako jsou PNG, do webových formátů, jako je HTML, nezbytný pro optimalizaci uživatelského prostředí a výkonu webových stránek. Ať už jste vývojář automatizující zpracování obrázků, nebo firma, která zefektivňuje tvorbu obsahu, transformace souborů PNG do HTML může výrazně zlepšit váš pracovní postup. Tento tutoriál vás provede používáním GroupDocs.Conversion pro .NET, abyste toho dosáhli bez problémů.

@@ -4,8 +4,8 @@
 "title": "DWT fájlok betöltése és konvertálása a GroupDocs.Conversion for .NET használatával | CAD és műszaki rajz"
 "url": "/hu/net/cad-technical-drawing-formats/load-dwt-files-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # DWT fájlok betöltése és konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

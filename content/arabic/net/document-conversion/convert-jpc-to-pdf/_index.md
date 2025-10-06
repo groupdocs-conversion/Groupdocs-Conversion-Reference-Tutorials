@@ -5,8 +5,8 @@
 "title": "تحويل JPC إلى PDF"
 "url": "/ar/net/document-conversion/convert-jpc-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # تحويل JPC إلى PDF
 
 ## مقدمة

@@ -4,8 +4,8 @@
 "title": "C#'ta GroupDocs.Conversion Kullanarak MHT'yi PSD'ye Nasıl Dönüştürebilirsiniz - Görüntü Dönüştürme Kılavuzu"
 "url": "/tr/net/image-conversion/convert-mht-to-psd-groupdocs-conversion-csharp/"
 "weight": 1
+type: docs
 ---
-
 # C#'ta GroupDocs.Conversion Kullanarak MHT'yi PSD'ye Dönüştürme: Kapsamlı Bir Görüntü Dönüştürme Kılavuzu
 
 ## giriiş

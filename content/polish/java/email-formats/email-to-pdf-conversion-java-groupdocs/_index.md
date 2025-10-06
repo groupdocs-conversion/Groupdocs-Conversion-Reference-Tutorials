@@ -4,8 +4,8 @@
 "title": "Jak przekonwertować e-mail do pliku PDF z przesunięciem strefy czasowej w Javie za pomocą GroupDocs.Conversion"
 "url": "/pl/java/email-formats/email-to-pdf-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Jak przekonwertować e-mail do pliku PDF z przesunięciem strefy czasowej w Javie za pomocą GroupDocs.Conversion
 
 ## Wstęp

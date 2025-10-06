@@ -5,8 +5,8 @@
 "title": "Converter PLT para PDF"
 "url": "/pt/net/pdf-conversion/convert-plt-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # Converter PLT para PDF
 
 ## Introdução

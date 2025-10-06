@@ -4,8 +4,8 @@
 "title": "Konvertera Excel-mall (.xltx) till Word-dokument (DOC) med GroupDocs.Conversion för .NET"
 "url": "/sv/net/word-processing-formats-features/convert-xltx-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera Excel-mall (.xltx) till Word-dokument (DOC) med GroupDocs.Conversion för .NET
 ## Introduktion
 Välkommen till den här omfattande guiden om hur du konverterar en Excel-mallfil (.xltx) till ett Word-dokumentformat (DOC) med hjälp av det kraftfulla GroupDocs.Conversion för .NET-biblioteket. Den här lösningen är viktig i dokumenthanteringsarbetsflöden och möjliggör sömlös integration av datarika mallar med textbaserade dokument.

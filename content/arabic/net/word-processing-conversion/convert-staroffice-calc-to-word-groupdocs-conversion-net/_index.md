@@ -4,8 +4,8 @@
 "title": "تحويل StarOffice Calc إلى Word باستخدام GroupDocs.Conversion .NET - دليل خطوة بخطوة"
 "url": "/ar/net/word-processing-conversion/convert-staroffice-calc-to-word-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل StarOffice Calc إلى Word باستخدام GroupDocs.Conversion .NET
 
 ## مقدمة

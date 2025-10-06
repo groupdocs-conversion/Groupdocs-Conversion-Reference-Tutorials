@@ -8,10 +8,8 @@ keywords:
 - convert PowerPoint to JPG
 - GroupDocs.Conversion for .NET
 - PPTX to JPG conversion
-
+type: docs
 ---
-
-
 # Convert PowerPoint Presentations to High-Quality Images with GroupDocs.Conversion .NET
 
 ## Introduction

@@ -5,8 +5,8 @@
 "title": "HTM वेब पेजों को PDF में बदलें"
 "url": "/hi/net/convert-files-to-pdf/convert-htm-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # HTM वेब पेजों को PDF में बदलें
 
 ## परिचय

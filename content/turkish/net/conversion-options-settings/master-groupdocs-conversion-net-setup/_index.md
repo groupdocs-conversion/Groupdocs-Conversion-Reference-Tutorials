@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Kullanılarak .NET'te Ana Belge Dönüştürme Kurulumu"
 "url": "/tr/net/conversion-options-settings/master-groupdocs-conversion-net-setup/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET kullanarak Belge Dönüştürme için Ana Dizin Kurulumu
 
 ## giriiş

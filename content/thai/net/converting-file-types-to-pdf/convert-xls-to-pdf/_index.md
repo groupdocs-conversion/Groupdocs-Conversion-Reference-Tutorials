@@ -5,8 +5,8 @@
 "title": "แปลง XLS เป็น PDF"
 "url": "/th/net/converting-file-types-to-pdf/convert-xls-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # แปลง XLS เป็น PDF
 
 ## การแนะนำ

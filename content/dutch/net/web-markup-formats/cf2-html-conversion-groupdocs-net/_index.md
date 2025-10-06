@@ -4,8 +4,8 @@
 "title": "CF2 naar HTML-conversie met behulp van GroupDocs.Conversion voor .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/web-markup-formats/cf2-html-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer CF2 naar HTML met GroupDocs.Conversion voor .NET: een uitgebreide handleiding
 
 ## Invoering

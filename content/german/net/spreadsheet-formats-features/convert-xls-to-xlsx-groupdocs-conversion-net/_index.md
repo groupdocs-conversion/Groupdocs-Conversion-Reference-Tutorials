@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie XLS in XLSX mit GroupDocs.Conversion für .NET"
 "url": "/de/net/spreadsheet-formats-features/convert-xls-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie XLS in XLSX mit GroupDocs.Conversion für .NET
 
 ## Einführung

@@ -4,8 +4,8 @@
 "title": "DXF JPG-vé konvertálása .NET-ben – Átfogó útmutató a GroupDocs.Conversion használatához"
 "url": "/hu/net/cad-technical-drawing-formats/dxf-to-jpg-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DXF JPG-vé konvertálás elsajátítása .NET-ben a GroupDocs.Conversion használatával
 
 ## Bevezetés

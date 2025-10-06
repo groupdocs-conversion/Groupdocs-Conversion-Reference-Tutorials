@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके कुशल TEX से PDF रूपांतरण"
 "url": "/hi/net/pdf-conversion/convert-tex-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके कुशल TEX से PDF रूपांतरण
 
 ## परिचय

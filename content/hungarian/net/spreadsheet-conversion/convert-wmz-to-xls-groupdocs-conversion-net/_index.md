@@ -4,8 +4,8 @@
 "title": "WMZ konvertálása XLS-sé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-conversion/convert-wmz-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # WMZ fájlok konvertálása XLS formátumba a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

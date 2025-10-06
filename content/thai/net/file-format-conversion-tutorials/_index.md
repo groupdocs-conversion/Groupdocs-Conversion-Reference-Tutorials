@@ -5,8 +5,8 @@
 "title": "การแปลงรูปแบบไฟล์"
 "url": "/th/net/file-format-conversion-tutorials/"
 "weight": 21
+type: docs
 ---
-
 # การแปลงรูปแบบไฟล์
 
 ## การแนะนำ

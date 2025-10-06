@@ -5,8 +5,8 @@
 "title": "CSV डेटा फ़ाइलों को PDF में बदलें"
 "url": "/hi/net/file-conversion-to-pdf/convert-csv-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # CSV डेटा फ़ाइलों को PDF में बदलें
 
 ## परिचय

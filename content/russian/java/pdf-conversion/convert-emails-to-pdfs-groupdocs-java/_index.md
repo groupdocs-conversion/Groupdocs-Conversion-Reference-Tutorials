@@ -4,8 +4,8 @@
 "title": "Преобразование электронных писем в PDF-файлы в Java с помощью GroupDocs.Conversion&#58; Руководство по расширенным параметрам"
 "url": "/ru/java/pdf-conversion/convert-emails-to-pdfs-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Преобразование электронных писем в PDF-файлы в Java с помощью GroupDocs.Conversion: руководство по расширенным параметрам
 
 ## Введение

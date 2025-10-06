@@ -4,8 +4,8 @@
 "title": "Como converter arquivos PPTX para PNG usando GroupDocs.Conversion no .NET - Um guia completo"
 "url": "/pt/net/image-conversion/convert-pptx-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter arquivos PPTX para PNG usando GroupDocs.Conversion no .NET: um guia completo
 
 ## Introdução

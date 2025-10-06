@@ -8,10 +8,8 @@ keywords:
 - convert DICOM to HTML
 - GroupDocs.Conversion for .NET
 - DICOM file conversion
-
+type: docs
 ---
-
-
 # Convert DICOM to HTML in .NET Using GroupDocs.Conversion
 
 ## Introduction

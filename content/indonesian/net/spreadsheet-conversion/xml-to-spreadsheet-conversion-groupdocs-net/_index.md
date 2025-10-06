@@ -4,8 +4,8 @@
 "title": "Konversi XML ke Spreadsheet secara Efisien di .NET Menggunakan GroupDocs.Conversion"
 "url": "/id/net/spreadsheet-conversion/xml-to-spreadsheet-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi XML ke Spreadsheet secara Efisien di .NET Menggunakan GroupDocs.Conversion
 
 ## Perkenalan

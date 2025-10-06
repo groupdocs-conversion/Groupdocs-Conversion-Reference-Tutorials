@@ -5,8 +5,8 @@
 "title": "Μετατροπή PS σε PDF"
 "url": "/el/net/file-format-conversion-tutorials/convert-ps-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Μετατροπή PS σε PDF
 
 ## Εισαγωγή

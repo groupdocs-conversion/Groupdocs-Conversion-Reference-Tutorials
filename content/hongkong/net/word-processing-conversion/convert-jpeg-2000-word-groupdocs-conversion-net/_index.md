@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 JPEG 2000 轉換為 Word 的逐步指南"
 "url": "/zh-hant/net/word-processing-conversion/convert-jpeg-2000-word-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 將 JPEG 2000 轉換為 Word：使用 GroupDocs.Conversion for .NET 的逐步指南
 
 ## 介紹

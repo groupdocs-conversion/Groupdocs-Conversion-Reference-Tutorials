@@ -4,8 +4,8 @@
 "title": "Cara Memuat dan Mengonversi File EPS Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/loading-from-local-sources/load-eps-groupdocs-conversion-dotnet-tutorial/"
 "weight": 1
+type: docs
 ---
-
 # Cara Memuat dan Mengonversi File EPS dengan GroupDocs.Conversion untuk .NET: Panduan Langkah demi Langkah
 
 ## Perkenalan

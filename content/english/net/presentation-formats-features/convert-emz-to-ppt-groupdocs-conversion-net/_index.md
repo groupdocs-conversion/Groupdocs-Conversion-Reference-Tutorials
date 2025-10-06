@@ -8,10 +8,8 @@ keywords:
 - Convert EMZ to PPT
 - GroupDocs.Conversion for .NET
 - EMZ file conversion
-
+type: docs
 ---
-
-
 # Convert EMZ Files to PPT with GroupDocs.Conversion for .NET
 
 ## Introduction

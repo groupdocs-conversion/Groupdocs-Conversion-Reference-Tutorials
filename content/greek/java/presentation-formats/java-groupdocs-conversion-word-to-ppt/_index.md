@@ -4,8 +4,8 @@
 "title": "Εκμάθηση Java - Μετατροπή εγγράφων Word σε PowerPoint χρησιμοποιώντας το GroupDocs.Conversion για Java"
 "url": "/el/java/presentation-formats/java-groupdocs-conversion-word-to-ppt/"
 "weight": 1
+type: docs
 ---
-
 # Εκμάθηση Java: Μετατροπή εγγράφων Word σε PowerPoint χρησιμοποιώντας το GroupDocs.Conversion για Java
 
 ## Εισαγωγή

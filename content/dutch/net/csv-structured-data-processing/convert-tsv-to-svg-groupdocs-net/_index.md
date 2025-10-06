@@ -4,8 +4,8 @@
 "title": "Converteer TSV efficiënt naar SVG met GroupDocs.Conversion voor .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/csv-structured-data-processing/convert-tsv-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer TSV efficiënt naar SVG met GroupDocs.Conversion voor .NET: een stapsgewijze handleiding
 
 ## Invoering

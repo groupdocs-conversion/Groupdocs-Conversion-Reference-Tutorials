@@ -5,8 +5,8 @@
 "title": "WMF को PDF में बदलें"
 "url": "/hi/net/converting-file-types-to-pdf/convert-wmf-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # WMF को PDF में बदलें
 
 ## परिचय

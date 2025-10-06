@@ -4,8 +4,8 @@
 "title": "Převod HTML do TXT pomocí GroupDocs.Conversion pro .NET – kompletní průvodce"
 "url": "/cs/net/text-markup-conversion/html-to-txt-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod HTML do TXT pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "Efektywna konwersja ODG do DOCX przy użyciu GroupDocs.Conversion .NET&#58; Przewodnik krok po kroku"
 "url": "/pl/net/word-processing-formats-features/convert-odg-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Efektywna konwersja ODG do DOCX przy użyciu GroupDocs.Conversion .NET: przewodnik krok po kroku
 
 ## Wstęp

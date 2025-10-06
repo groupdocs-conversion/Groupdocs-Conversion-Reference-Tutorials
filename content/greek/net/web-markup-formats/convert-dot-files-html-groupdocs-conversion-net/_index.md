@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή DOT σε HTML χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/web-markup-formats/convert-dot-files-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική μετατροπή DOT σε HTML χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

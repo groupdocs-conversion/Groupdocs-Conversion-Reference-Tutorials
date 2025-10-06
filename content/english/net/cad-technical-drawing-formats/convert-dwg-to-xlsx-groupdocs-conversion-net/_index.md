@@ -8,10 +8,8 @@ keywords:
 - DWG to XLSX conversion
 - GroupDocs.Conversion for .NET
 - CAD file conversion
-
+type: docs
 ---
-
-
 # How to Convert DWG Files to XLSX Using GroupDocs.Conversion for .NET
 
 ## Introduction

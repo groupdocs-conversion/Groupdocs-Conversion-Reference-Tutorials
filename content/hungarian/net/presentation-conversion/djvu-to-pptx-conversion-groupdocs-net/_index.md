@@ -4,8 +4,8 @@
 "title": "DJVU konvertálása PPTX-re a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/presentation-conversion/djvu-to-pptx-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DJVU konvertálása PPTX-re a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

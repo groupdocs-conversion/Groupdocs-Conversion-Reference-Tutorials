@@ -8,10 +8,8 @@ keywords:
 - convert POTX to TeX
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Convert POTX to TeX using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

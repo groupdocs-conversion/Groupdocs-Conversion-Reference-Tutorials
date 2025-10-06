@@ -4,8 +4,8 @@
 "title": "การแปลง PDF เป็น PSD อย่างมีประสิทธิภาพด้วยไลบรารี GroupDocs.Conversion .NET"
 "url": "/th/net/image-formats-features/convert-pdfs-psds-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # การแปลง PDF เป็น PSD อย่างมีประสิทธิภาพด้วย GroupDocs.Conversion .NET
 
 ## การแนะนำ

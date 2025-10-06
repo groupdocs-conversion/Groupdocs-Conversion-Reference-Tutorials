@@ -4,8 +4,8 @@
 "title": "คู่มือฉบับสมบูรณ์เกี่ยวกับการแปลง ODS เป็น PNG โดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/image-conversion/convert-ods-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # คู่มือครอบคลุม: แปลง ODS เป็น PNG โดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

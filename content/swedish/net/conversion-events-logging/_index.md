@@ -3,8 +3,8 @@
 "title": "Handledningar för konverteringshändelser och loggning för GroupDocs.Conversion .NET"
 "url": "/sv/net/conversion-events-logging/"
 "weight": 24
+type: docs
 ---
-
 # Handledningar för konverteringshändelser och loggning för GroupDocs.Conversion .NET
 
 Bemästra övervaknings- och loggningsfunktioner med våra GroupDocs.Conversion-händelsehandledningar för .NET. Dessa detaljerade guider visar hur du konfigurerar händelselyssnare, spårar konverteringsstatus och förlopp, implementerar detaljerad loggning, hanterar konverteringsmeddelanden, skapar anpassade händelsehanterare, integrerar med populära loggningsramverk, utvecklar indikatorer för konverteringsförlopp och bygger revisionsspår för dokumentbehandling. Varje handledning innehåller praktiska C#-kodexempel för övervaknings- och rapporteringsfunktioner, vilket hjälper dig att bygga pålitliga konverteringssystem med omfattande feedbackmekanismer och felsökningsfunktioner.

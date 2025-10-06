@@ -4,8 +4,8 @@
 "title": "Hogyan konvertáljunk PPSM-et PNG-vé a GroupDocs.Conversion for .NET használatával? Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-ppsm-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertáljunk PPSM-et PNG-vé a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 實作 EPS 到 XLS 的高效轉換"
 "url": "/zh-hant/net/spreadsheet-formats-features/eps-to-xls-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 實作 EPS 到 XLS 的高效轉換
 
 ## 介紹

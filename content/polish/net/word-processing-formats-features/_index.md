@@ -3,8 +3,8 @@
 "title": "Samouczki dotyczące formatów i funkcji przetwarzania tekstu dla GroupDocs.Conversion .NET"
 "url": "/pl/net/word-processing-formats-features/"
 "weight": 10
+type: docs
 ---
-
 # Samouczki dotyczące formatów i funkcji przetwarzania tekstu dla GroupDocs.Conversion .NET
 
 Dowiedz się, jak efektywnie pracować z dokumentami Word, korzystając z naszych kompleksowych samouczków GroupDocs.Conversion .NET. Te przewodniki krok po kroku nauczą Cię, jak konwertować między różnymi formatami przetwarzania Word, ukrywać komentarze i śledzone zmiany podczas konwersji, określać opcje zamiany czcionek, zachowywać style i formatowanie, utrzymywać strukturę dokumentu, obsługiwać osadzone obiekty i kontrolować zachowanie nagłówka/stopki. Każdy samouczek zawiera praktyczne przykłady kodu C# dla zadań konwersji dokumentów Word, pomagając Ci tworzyć wydajniejsze aplikacje, które mogą przetwarzać dokumenty tekstowe z wysoką wiernością i kontrolą specyficzną dla formatu.

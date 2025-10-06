@@ -5,8 +5,8 @@
 "title": "แปลงไฟล์ข้อมูล CSV เป็น PDF"
 "url": "/th/net/file-conversion-to-pdf/convert-csv-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # แปลงไฟล์ข้อมูล CSV เป็น PDF
 
 ## การแนะนำ

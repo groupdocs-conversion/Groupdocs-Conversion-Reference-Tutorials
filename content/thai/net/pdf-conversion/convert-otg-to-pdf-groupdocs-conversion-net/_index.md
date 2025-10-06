@@ -4,8 +4,8 @@
 "title": "แปลง OTG เป็น PDF ได้อย่างง่ายดายด้วย GroupDocs การแปลงสำหรับ .NET พร้อมคำแนะนำทีละขั้นตอน"
 "url": "/th/net/pdf-conversion/convert-otg-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลง OTG เป็น PDF ได้อย่างง่ายดายด้วย GroupDocs การแปลงสำหรับ .NET: คำแนะนำทีละขั้นตอน
 
 ## การแนะนำ

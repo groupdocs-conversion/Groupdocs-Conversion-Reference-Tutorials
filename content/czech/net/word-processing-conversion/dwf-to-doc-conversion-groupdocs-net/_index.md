@@ -4,8 +4,8 @@
 "title": "Převod DWF do DOC pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/word-processing-conversion/dwf-to-doc-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod DWF do DOC pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

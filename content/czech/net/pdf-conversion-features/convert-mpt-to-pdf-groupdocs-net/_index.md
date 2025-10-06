@@ -4,8 +4,8 @@
 "title": "Převod šablon Microsoft Project (.MPT) do PDF pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/pdf-conversion-features/convert-mpt-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod šablon Microsoft Project (.MPT) do PDF pomocí GroupDocs.Conversion pro .NET
 ## Zavedení
 Máte potíže se sdílením nebo archivací šablon Microsoft Projectu? Řešením může být jejich převod do univerzálně dostupného formátu, jako je PDF. V tomto komplexním průvodci prozkoumáme, jak snadno převést soubory MPT do PDF pomocí robustní knihovny GroupDocs.Conversion pro .NET. Tento tutoriál vám pomůže zefektivnit sdílení dokumentů a zajistit kompatibilitu napříč různými platformami.

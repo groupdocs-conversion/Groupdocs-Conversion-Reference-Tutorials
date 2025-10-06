@@ -4,8 +4,8 @@
 "title": "Convierta VSTX a PPT sin problemas con GroupDocs.Conversion para .NET"
 "url": "/es/net/presentation-formats-features/convert-vstx-to-ppt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convierta VSTX a PPT sin problemas con GroupDocs.Conversion para .NET
 
 ## Introducción

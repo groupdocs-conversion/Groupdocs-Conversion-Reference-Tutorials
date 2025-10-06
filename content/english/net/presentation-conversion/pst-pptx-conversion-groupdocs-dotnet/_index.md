@@ -8,10 +8,8 @@ keywords:
 - PST to PPTX conversion
 - GroupDocs.Conversion for .NET
 - Outlook PST file conversion
-
+type: docs
 ---
-
-
 # Mastering PST to PPTX Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

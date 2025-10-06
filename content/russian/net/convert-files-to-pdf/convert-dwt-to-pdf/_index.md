@@ -5,8 +5,8 @@
 "title": "Конвертировать файлы шаблонов DWT CAD в PDF"
 "url": "/ru/net/convert-files-to-pdf/convert-dwt-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Конвертировать файлы шаблонов DWT CAD в PDF
 
 ## Введение

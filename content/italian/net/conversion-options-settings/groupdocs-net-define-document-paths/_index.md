@@ -4,8 +4,8 @@
 "title": "Gestione efficiente del percorso dei documenti in .NET con GroupDocs.Conversion&#58; definizione di costanti per conversioni senza interruzioni"
 "url": "/it/net/conversion-options-settings/groupdocs-net-define-document-paths/"
 "weight": 1
+type: docs
 ---
-
 # Gestione efficiente del percorso dei documenti in .NET con GroupDocs.Conversion
 
 ## Introduzione

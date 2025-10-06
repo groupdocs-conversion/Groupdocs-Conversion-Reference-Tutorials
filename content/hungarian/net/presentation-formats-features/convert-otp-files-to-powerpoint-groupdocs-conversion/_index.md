@@ -4,8 +4,8 @@
 "title": "OTP fájlok hatékony konvertálása PowerPoint formátumba a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/presentation-formats-features/convert-otp-files-to-powerpoint-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # OTP fájlok egyszerű PowerPoint formátumba konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

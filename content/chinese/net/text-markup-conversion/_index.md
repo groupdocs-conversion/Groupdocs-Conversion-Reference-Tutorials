@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 的文本和标记转换教程"
 "url": "/zh/net/text-markup-conversion/"
 "weight": 32
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 的文本和标记转换教程
 
 通过我们为 .NET 开发人员提供的详细 GroupDocs.Conversion 教程，探索基于文本的格式转换。这些分步指南演示了如何将富文档格式转换为纯文本、XML、Markdown、TeX 和其他基于文本的格式。了解编码选项、文本提取技术、特殊字符处理、文档结构保存、标记格式的层次关系维护以及文本格式策略的实施。每个教程都包含实用的 C# 代码示例，用于创建文档的文本表示形式，以简单、可移植且易于解析的格式捕获基本内容。

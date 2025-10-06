@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion for Java 文档转换操作教程"
 "url": "/zh/java/document-operations/"
 "weight": 2
+type: docs
 ---
-
 # GroupDocs.Conversion for Java 文档转换操作教程
 
 我们的文档操作教程提供了全面的指导，帮助您在 Java 中转换不同格式的文档。按照这些分步指南，学习如何在 PDF、DOCX、XLSX、PPTX、HTML 等常见格式之间互相转换。这些实用教程包含各种转换场景的完整代码示例，可帮助您在 Java 应用程序中构建强大的文档转换功能。

@@ -4,8 +4,8 @@
 "title": "Convertire XLTM in PSD utilizzando GroupDocs.Conversion per .NET&#58; una guida passo passo"
 "url": "/it/net/image-conversion/convert-xl-tm-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire XLTM in PSD utilizzando GroupDocs.Conversion per .NET: una guida passo passo
 
 ## Introduzione

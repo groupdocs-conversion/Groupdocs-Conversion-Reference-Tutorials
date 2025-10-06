@@ -8,10 +8,8 @@ keywords:
 - convert WEBP to XLS
 - GroupDocs.Conversion for .NET
 - file conversion tutorial
-
+type: docs
 ---
-
-
 # Convert WEBP Files to XLS with GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Πώς να μετατρέψετε έγγραφα Word που προστατεύονται με κωδικό πρόσβασης σε HTML χρησιμοποιώντας Java (Οδηγός βήμα προς βήμα)"
 "url": "/el/java/word-processing-formats/convert-password-protected-word-to-html-java/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε έγγραφα Word που προστατεύονται με κωδικό πρόσβασης σε HTML χρησιμοποιώντας Java
 
 ## Εισαγωγή

@@ -5,8 +5,8 @@
 "title": "Chuyển đổi PNG sang PDF"
 "url": "/vi/net/pdf-conversion/convert-png-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Chuyển đổi PNG sang PDF
 
 ## Giới thiệu

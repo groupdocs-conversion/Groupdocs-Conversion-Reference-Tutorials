@@ -4,8 +4,8 @@
 "title": "Как преобразовать Outlook PST в TEX с помощью GroupDocs.Conversion .NET"
 "url": "/ru/net/storage-files-pst-processing/convert-pst-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Как преобразовать Outlook PST в TEX с помощью GroupDocs.Conversion .NET
 
 ## Введение

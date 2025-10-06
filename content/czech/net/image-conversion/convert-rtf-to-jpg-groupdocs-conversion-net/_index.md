@@ -4,8 +4,8 @@
 "title": "Jak převést RTF do JPG pomocí GroupDocs.Conversion v .NET pro bezproblémovou konverzi obrázků"
 "url": "/cs/net/image-conversion/convert-rtf-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak implementovat GroupDocs.Conversion .NET: Převod RTF do JPG
 
 ## Zavedení

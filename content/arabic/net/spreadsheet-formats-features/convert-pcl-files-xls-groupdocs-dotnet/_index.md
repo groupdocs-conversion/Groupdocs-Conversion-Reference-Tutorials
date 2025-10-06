@@ -4,8 +4,8 @@
 "title": "تحويل PCL إلى XLS باستخدام GroupDocs.Conversion لـ .NET - دليل كامل"
 "url": "/ar/net/spreadsheet-formats-features/convert-pcl-files-xls-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # تحويل PCL إلى XLS باستخدام GroupDocs.Conversion لـ .NET: دليل كامل
 
 ## مقدمة

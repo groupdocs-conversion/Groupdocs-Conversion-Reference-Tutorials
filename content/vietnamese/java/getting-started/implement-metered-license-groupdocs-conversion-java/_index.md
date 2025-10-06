@@ -4,8 +4,8 @@
 "title": "Triển khai Giấy phép đo lường cho GroupDocs.Conversion trong Java&#58; Hướng dẫn toàn diện"
 "url": "/vi/java/getting-started/implement-metered-license-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Triển khai Giấy phép đo lường cho GroupDocs.Conversion trong Java
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs 控制尾随空格，将 TXT 转换为 PDF"
 "url": "/zh/net/pdf-conversion/convert-txt-to-pdf-groupdocs-trailing-spaces-control/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs 将 TXT 转换为 PDF：使用 .NET 控制尾随空格
 
 ## 介绍

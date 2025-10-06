@@ -4,8 +4,8 @@
 "title": "Konvertera DOCX till XLSX med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/spreadsheet-conversion/convert-docx-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera DOCX till XLSX med GroupDocs.Conversion för .NET: En steg-för-steg-guide
 
 ## Introduktion

@@ -4,8 +4,8 @@
 "title": "تحويل ODP إلى SVG باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/presentation-formats-features/convert-odp-to-svg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ODP إلى SVG باستخدام GroupDocs.Conversion لـ .NET: دليل شامل
 
 ## مقدمة

@@ -4,8 +4,8 @@
 "title": "Converti in modo efficiente i file DOT in PPTX utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/presentation-formats-features/convert-dot-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire in modo efficiente i file DOT in PPTX utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

@@ -5,8 +5,8 @@
 "title": "تحويل قوالب DOTM Word (ماكرو) إلى PDF"
 "url": "/ar/net/file-conversion-to-pdf/convert-dotm-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # تحويل قوالب DOTM Word (ماكرو) إلى PDF
 
 ## مقدمة

@@ -4,8 +4,8 @@
 "title": "Komplexní průvodce&#58; Převod BMP do HTML pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/html-conversion/convert-bmp-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Komplexní průvodce: Převod BMP do HTML pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

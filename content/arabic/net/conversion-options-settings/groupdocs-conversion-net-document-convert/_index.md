@@ -4,8 +4,8 @@
 "title": "تحويل المستندات الرئيسية في .NET باستخدام GroupDocs.Conversion - دليل شامل"
 "url": "/ar/net/conversion-options-settings/groupdocs-conversion-net-document-convert/"
 "weight": 1
+type: docs
 ---
-
 # إتقان تحويل المستندات في .NET باستخدام GroupDocs.Conversion
 
 ## مقدمة

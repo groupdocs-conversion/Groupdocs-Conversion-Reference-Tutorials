@@ -8,10 +8,8 @@ keywords:
 - WEBP to XLSX conversion
 - GroupDocs.Conversion .NET
 - convert WEBP image to spreadsheet
-
+type: docs
 ---
-
-
 # Convert WEBP to XLSX Using GroupDocs.Conversion .NET
 
 ## Introduction

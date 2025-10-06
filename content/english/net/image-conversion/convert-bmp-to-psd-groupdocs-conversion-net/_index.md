@@ -8,10 +8,8 @@ keywords:
 - convert BMP to PSD .NET
 - GroupDocs.Conversion for .NET
 - image conversion guide
-
+type: docs
 ---
-
-
 # Mastering Image Conversion: Convert BMP Images to PSD Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Konversi Email Outlook ke Excel secara Efisien Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/email-formats-features/convert-outlook-emails-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi Email Microsoft Outlook ke Spreadsheet Excel dengan Mudah Menggunakan GroupDocs.Conversion for .NET
 
 ## Perkenalan

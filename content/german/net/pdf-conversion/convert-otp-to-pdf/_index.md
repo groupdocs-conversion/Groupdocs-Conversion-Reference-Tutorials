@@ -5,8 +5,8 @@
 "title": "Konvertieren Sie OTP in PDF"
 "url": "/de/net/pdf-conversion/convert-otp-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # Konvertieren Sie OTP in PDF
 
 ## Einführung

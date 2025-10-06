@@ -8,10 +8,8 @@ keywords:
 - ODG to XLSX conversion
 - GroupDocs.Conversion for .NET
 - OpenDocument Drawing Files
-
+type: docs
 ---
-
-
 # Convert ODG to XLSX Easily with GroupDocs.Conversion for .NET
 
 ## Introduction

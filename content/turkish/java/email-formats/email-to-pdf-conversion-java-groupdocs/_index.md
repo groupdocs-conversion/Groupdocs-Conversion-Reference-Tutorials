@@ -4,8 +4,8 @@
 "title": "Java'da GroupDocs.Conversion Kullanarak E-postayı Zaman Dilimi Ofseti ile PDF'ye Nasıl Dönüştürebilirsiniz"
 "url": "/tr/java/email-formats/email-to-pdf-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Java'da GroupDocs.Conversion Kullanarak E-postayı Zaman Dilimi Ofseti ile PDF'ye Nasıl Dönüştürebilirsiniz
 
 ## giriiş

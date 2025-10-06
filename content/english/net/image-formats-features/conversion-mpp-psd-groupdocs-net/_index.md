@@ -8,10 +8,8 @@ keywords:
 - MPP to PSD conversion
 - GroupDocs.Conversion for .NET
 - automate file conversions
-
+type: docs
 ---
-
-
 # Master MPP to PSD Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके पासवर्ड-संरक्षित Word Docs को PDF में कैसे परिवर्तित करें"
 "url": "/hi/net/pdf-conversion/convert-password-protected-word-docs-to-pdf-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके पासवर्ड-संरक्षित Word दस्तावेज़ों को PDF में कैसे परिवर्तित करें
 
 ## परिचय

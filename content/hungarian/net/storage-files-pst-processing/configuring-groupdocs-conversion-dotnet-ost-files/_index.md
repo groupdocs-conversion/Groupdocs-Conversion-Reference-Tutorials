@@ -4,8 +4,8 @@
 "title": "A GroupDocs.Conversion .NET konfigurálása OST fájlokhoz – Teljes útmutató"
 "url": "/hu/net/storage-files-pst-processing/configuring-groupdocs-conversion-dotnet-ost-files/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó oktatóanyag: A GroupDocs.Conversion .NET konfigurálása OST fájlok kezeléséhez
 
 ## Bevezetés

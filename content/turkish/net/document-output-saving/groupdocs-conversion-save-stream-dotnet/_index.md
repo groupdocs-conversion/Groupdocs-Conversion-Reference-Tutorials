@@ -4,8 +4,8 @@
 "title": ".NET'te GroupDocs.Conversion Kullanarak Dosyaları Akışa Nasıl Kaydedilir | Adım Adım Kılavuz"
 "url": "/tr/net/document-output-saving/groupdocs-conversion-save-stream-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET Nasıl Uygulanır: Dönüştürülen Bir Dosyayı Bir Akışa Kaydetme
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "Μετατροπή JPEG 2000 σε PowerPoint χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/presentation-formats-features/convert-jpeg-2000-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή εικόνων JPEG 2000 σε παρουσιάσεις PowerPoint χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

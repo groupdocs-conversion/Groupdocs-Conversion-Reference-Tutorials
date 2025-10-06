@@ -8,10 +8,8 @@ keywords:
 - JPX to PSD conversion
 - GroupDocs.Conversion for .NET
 - .NET file format conversion
-
+type: docs
 ---
-
-
 # Effortless JPX to PSD Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

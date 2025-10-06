@@ -4,8 +4,8 @@
 "title": "Конвертируйте шаблон Excel (.xltx) в документ Word (DOC) с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/word-processing-formats-features/convert-xltx-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте шаблон Excel (.xltx) в документ Word (DOC) с помощью GroupDocs.Conversion для .NET
 ## Введение
 Добро пожаловать в это полное руководство по конвертации файла шаблона Excel (.xltx) в формат документа Word (DOC) с использованием мощной библиотеки GroupDocs.Conversion для .NET. Это решение необходимо в рабочих процессах управления документами, позволяя бесшовную интеграцию шаблонов с большим количеством данных с текстовыми документами.

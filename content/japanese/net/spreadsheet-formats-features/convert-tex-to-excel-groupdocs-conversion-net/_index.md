@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して LaTeX (TEX) ファイルを Excel スプレッドシートに変換する"
 "url": "/ja/net/spreadsheet-formats-features/convert-tex-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して LaTeX (TEX) ファイルを Excel スプレッドシートに変換する
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for Java&#58; kullanarak FTP Belgelerini PDF'ye Verimli Şekilde Dönüştürün Geliştiricinin Kılavuzu"
 "url": "/tr/java/pdf-conversion/convert-ftp-documents-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for Java'yı Kullanarak FTP Belgelerini Verimli Şekilde PDF'ye Dönüştürün
 
 ## giriiş

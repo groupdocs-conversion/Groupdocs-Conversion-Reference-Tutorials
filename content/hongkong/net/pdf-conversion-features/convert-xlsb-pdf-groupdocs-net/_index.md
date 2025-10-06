@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 XLSB 轉換為 PDF 的完整指南"
 "url": "/zh-hant/net/pdf-conversion-features/convert-xlsb-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將 XLSB 轉換為 PDF
 
 ## 介紹

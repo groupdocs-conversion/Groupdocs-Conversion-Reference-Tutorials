@@ -4,8 +4,8 @@
 "title": "Cara Menyiapkan dan Menerapkan Lisensi untuk GroupDocs.Conversion .NET&#58; Panduan Langkah demi Langkah"
 "url": "/id/net/getting-started-licensing/groupdocs-conversion-net-license-setup/"
 "weight": 1
+type: docs
 ---
-
 # Tutorial Lengkap: Menyiapkan Lisensi untuk GroupDocs.Conversion .NET
 
 ## Perkenalan

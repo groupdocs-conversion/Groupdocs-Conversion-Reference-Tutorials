@@ -8,10 +8,8 @@ keywords:
 - convert WEBP to DOC
 - document conversion with GroupDocs
 - WEBP image format conversion
-
+type: docs
 ---
-
-
 # Convert WEBP to DOC Efficiently Using GroupDocs.Conversion for .NET
 
 ## Introduction

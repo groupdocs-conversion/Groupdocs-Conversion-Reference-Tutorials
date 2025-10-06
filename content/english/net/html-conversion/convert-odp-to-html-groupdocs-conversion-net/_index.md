@@ -8,10 +8,8 @@ keywords:
 - convert ODP to HTML
 - GroupDocs.Conversion for .NET
 - .NET document conversion
-
+type: docs
 ---
-
-
 # Convert ODP to HTML Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - EPS to HTML conversion
 - GroupDocs.Conversion for .NET
 - document format transformation
-
+type: docs
 ---
-
-
 # Convert EPS to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

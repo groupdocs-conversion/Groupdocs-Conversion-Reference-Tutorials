@@ -4,8 +4,8 @@
 "title": "Beherrschung der Konstantenverwaltung in GroupDocs.Conversion Java für Dateikonvertierungsprojekte"
 "url": "/de/java/conversion-options/mastering-constants-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Konstantenverwaltung mit GroupDocs.Conversion Java meistern
 
 ## Einführung

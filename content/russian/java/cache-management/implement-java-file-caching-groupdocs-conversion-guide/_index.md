@@ -4,8 +4,8 @@
 "title": "Кэширование файлов Java с помощью GroupDocs.Conversion&#58; Полное руководство по эффективному преобразованию документов"
 "url": "/ru/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Как реализовать кэширование файлов Java с помощью GroupDocs.Conversion для эффективного преобразования документов
 
 ## Введение

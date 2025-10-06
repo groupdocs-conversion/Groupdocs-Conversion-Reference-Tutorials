@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用して .NET で XLTX から XLSX への変換を自動化する"
 "url": "/ja/net/spreadsheet-formats-features/convert-xltx-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET による XLTX から XLSX への変換の自動化
 
 ## 導入

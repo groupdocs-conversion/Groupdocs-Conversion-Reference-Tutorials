@@ -4,8 +4,8 @@
 "title": "Pengaturan Konversi Dokumen Utama di .NET Menggunakan GroupDocs.Conversion"
 "url": "/id/net/conversion-options-settings/master-groupdocs-conversion-net-setup/"
 "weight": 1
+type: docs
 ---
-
 # Pengaturan Direktori Utama untuk Konversi Dokumen menggunakan GroupDocs.Conversion .NET
 
 ## Perkenalan

@@ -5,8 +5,8 @@
 "title": "Converteer J2C JPEG-LS gecomprimeerde afbeeldingen naar PDF"
 "url": "/nl/net/convert-files-to-pdf/convert-j2c-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # Converteer J2C JPEG-LS gecomprimeerde afbeeldingen naar PDF
 
 ## Invoering

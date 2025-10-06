@@ -4,8 +4,8 @@
 "title": "Μετατροπή κύριου PDF σε DOCX σε .NET χρησιμοποιώντας το GroupDocs.Conversion"
 "url": "/el/net/word-processing-conversion/pdf-to-docx-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή κύριου PDF σε DOCX με το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

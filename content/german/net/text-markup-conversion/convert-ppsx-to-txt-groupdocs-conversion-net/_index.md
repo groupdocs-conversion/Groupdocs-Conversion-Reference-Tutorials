@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie PPSX in TXT mit GroupDocs.Conversion für .NET – Ein umfassender Leitfaden"
 "url": "/de/net/text-markup-conversion/convert-ppsx-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie PPSX in TXT mit GroupDocs.Conversion für .NET
 
 ## Einführung

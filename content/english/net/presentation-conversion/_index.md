@@ -3,8 +3,8 @@ title: "Presentation Conversion Tutorials for GroupDocs.Conversion .NET"
 description: "Step-by-step tutorials for converting various document formats to PPT, PPTX and other presentation formats using GroupDocs.Conversion for .NET."
 weight: 31
 url: "/net/presentation-conversion/"
+type: docs
 ---
-
 # Presentation Conversion Tutorials for GroupDocs.Conversion .NET
 
 Our presentation conversion tutorials show you how to transform documents into slide-based formats using GroupDocs.Conversion in .NET. These practical guides cover converting from PDF, Word, Excel, images, and other formats to PPT, PPTX, ODP, and more. Learn about preserving visual elements, maintaining animations where possible, handling slide transitions, generating speaker notes, managing embedded media, and controlling slide layouts during conversion. Each tutorial includes detailed C# code examples for creating presentation documents that effectively represent the source content in a format designed for presenting to audiences.

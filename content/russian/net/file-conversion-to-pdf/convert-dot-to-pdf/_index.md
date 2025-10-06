@@ -5,8 +5,8 @@
 "title": "Конвертировать шаблоны DOT Word в PDF"
 "url": "/ru/net/file-conversion-to-pdf/convert-dot-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # Конвертировать шаблоны DOT Word в PDF
 
 ## Введение

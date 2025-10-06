@@ -8,10 +8,8 @@ keywords:
 - Convert DXF to PNG C#
 - DXF to PNG using GroupDocs
 - GroupDocs.Conversion .NET
-
+type: docs
 ---
-
-
 # Convert DXF to PNG in C# Using GroupDocs.Conversion: A Complete Guide
 
 ## Introduction

@@ -5,8 +5,8 @@
 "title": "BMP képek konvertálása PDF-be"
 "url": "/hu/net/file-conversion-to-pdf/convert-bmp-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # BMP képek konvertálása PDF-be
 
 ## Bevezetés

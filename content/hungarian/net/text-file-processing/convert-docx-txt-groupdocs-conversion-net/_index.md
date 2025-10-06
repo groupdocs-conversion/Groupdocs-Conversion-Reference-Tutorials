@@ -4,8 +4,8 @@
 "title": "DOCX fájlok TXT fájlokká konvertálása .NET-ben a GroupDocs.Conversion segítségével – Teljes körű útmutató"
 "url": "/hu/net/text-file-processing/convert-docx-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DOCX fájlok TXT fájlokká konvertálása .NET-ben a GroupDocs.Conversion segítségével: Átfogó útmutató
 
 ## Bevezetés

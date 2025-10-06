@@ -4,8 +4,8 @@
 "title": "MPT konvertálása JPG-vé .NET-ben a GroupDocs.Conversion Library segítségével"
 "url": "/hu/net/image-conversion/convert-mpt-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # MPT konvertálása JPG-vé a GroupDocs segítségével .NET-ben
 
 ## Bevezetés

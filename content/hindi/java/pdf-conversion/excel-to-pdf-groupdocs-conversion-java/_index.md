@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Java का उपयोग करके कुशल Excel से PDF रूपांतरण"
 "url": "/hi/java/pdf-conversion/excel-to-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Java के साथ कुशल Excel से PDF रूपांतरण
 
 ## परिचय

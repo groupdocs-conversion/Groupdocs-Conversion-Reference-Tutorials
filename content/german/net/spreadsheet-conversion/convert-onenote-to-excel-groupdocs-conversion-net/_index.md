@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie OneNote effizient in Excel mit GroupDocs.Conversion für .NET"
 "url": "/de/net/spreadsheet-conversion/convert-onenote-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie OneNote in Excel mit GroupDocs.Conversion für .NET
 
 ## Einführung

@@ -4,8 +4,8 @@
 "title": "Substitusi Font di Java; Mastering GroupDocs.Conversion untuk Output PDF yang Konsisten"
 "url": "/id/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/"
 "weight": 1
+type: docs
 ---
-
 # Menguasai Substitusi Font dengan GroupDocs.Conversion untuk Java
 
 ## Perkenalan

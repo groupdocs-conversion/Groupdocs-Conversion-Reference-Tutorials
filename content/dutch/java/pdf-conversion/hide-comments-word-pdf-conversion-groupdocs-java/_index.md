@@ -4,8 +4,8 @@
 "title": "Verberg opmerkingen bij de conversie van Word naar PDF met GroupDocs.Conversion voor Java"
 "url": "/nl/java/pdf-conversion/hide-comments-word-pdf-conversion-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Verberg opmerkingen bij de conversie van Word naar PDF met GroupDocs.Conversion voor Java
 
 In de snelle digitale wereld van vandaag is het converteren van Word-documenten naar pdf's een routineklus voor veel professionals. Wanneer deze documenten echter gevoelige opmerkingen of bijgehouden wijzigingen bevatten, geeft u wellicht de voorkeur aan schone pdf's zonder annotaties. Deze tutorial begeleidt u bij het gebruik van GroupDocs.Conversion voor Java om opmerkingen naadloos te verbergen tijdens de conversie.

@@ -5,8 +5,8 @@
 "title": "VSTM को PDF में बदलें"
 "url": "/hi/net/converting-file-types-to-pdf/convert-vstm-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # VSTM को PDF में बदलें
 
 ## परिचय

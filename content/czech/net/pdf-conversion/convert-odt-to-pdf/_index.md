@@ -5,8 +5,8 @@
 "title": "Převod ODT do PDF"
 "url": "/cs/net/pdf-conversion/convert-odt-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # Převod ODT do PDF
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "Konversi DOCX ke TXT dalam .NET dengan GroupDocs.Conversion&#58; Panduan Lengkap"
 "url": "/id/net/text-file-processing/convert-docx-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi DOCX ke TXT dalam .NET dengan GroupDocs.Conversion: Tutorial Lengkap
 
 ## Perkenalan

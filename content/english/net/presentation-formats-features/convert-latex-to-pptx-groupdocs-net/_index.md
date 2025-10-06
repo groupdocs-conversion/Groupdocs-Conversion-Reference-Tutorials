@@ -8,10 +8,8 @@ keywords:
 - convert LaTeX to PPTX
 - GroupDocs.Conversion for .NET
 - LaTeX to PowerPoint conversion
-
+type: docs
 ---
-
-
 # How to Convert LaTeX Files to PPTX Using GroupDocs.Conversion in .NET
 
 ## Introduction

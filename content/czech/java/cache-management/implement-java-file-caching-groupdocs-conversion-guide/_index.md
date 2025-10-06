@@ -4,8 +4,8 @@
 "title": "Ukládání souborů do mezipaměti Java pomocí GroupDocs.Conversion – Komplexní průvodce efektivní konverzí dokumentů"
 "url": "/cs/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Jak implementovat ukládání souborů do mezipaměti Java pomocí GroupDocs.Conversion pro efektivní konverzi dokumentů
 
 ## Zavedení

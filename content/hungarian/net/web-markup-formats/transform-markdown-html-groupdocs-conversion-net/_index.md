@@ -4,8 +4,8 @@
 "title": "Markdown HTML-lé konvertálása a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/web-markup-formats/transform-markdown-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Markdown HTML-lé konvertálása a GroupDocs.Conversion for .NET segítségével: Átfogó útmutató
 
 ## Bevezetés

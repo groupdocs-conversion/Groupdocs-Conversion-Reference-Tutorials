@@ -4,8 +4,8 @@
 "title": "Converteer documenten naar PDF-streams met GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/pdf-conversion/convert-documents-pdf-streams-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Documenten converteren naar PDF-streams met GroupDocs.Conversion voor .NET: een uitgebreide handleiding
 
 ## Invoering

@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion'ı Kullanarak AI'dan PDF'ye Dönüştürme Kılavuzu"
 "url": "/tr/net/pdf-conversion-features/ai-to-pdf-conversion-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak AI'dan PDF'ye Dönüştürme Kılavuzu
 
 ## giriiş

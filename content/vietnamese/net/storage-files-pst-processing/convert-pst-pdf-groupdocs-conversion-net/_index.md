@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tệp PST sang PDF một cách liền mạch bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/storage-files-pst-processing/convert-pst-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp PST của bạn sang PDF một cách liền mạch với GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

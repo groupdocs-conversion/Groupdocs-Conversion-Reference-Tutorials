@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 文本文件处理教程"
 "url": "/zh/net/text-file-processing/"
 "weight": 17
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 文本文件处理教程
 
 我们的文本文件转换教程向您展示了如何在 .NET 中使用 GroupDocs.Conversion 处理纯文本内容。这些详细的指南将指导您如何在文本转换期间控制前导和尾随空格的行为、指定文本文件的编码选项、尽可能保留格式、处理换行符和特殊字符、实施文本换行策略、设置转换后文本的分页以及管理双向文本要求。每个教程都包含适用于文本文件转换场景的 C# 代码示例，帮助您构建能够有效处理纯文本的应用程序，同时保持输出的可读性和结构性。

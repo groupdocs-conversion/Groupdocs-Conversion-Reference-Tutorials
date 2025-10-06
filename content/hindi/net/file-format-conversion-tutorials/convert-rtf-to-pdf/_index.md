@@ -5,8 +5,8 @@
 "title": "आरटीएफ को पीडीएफ में बदलें"
 "url": "/hi/net/file-format-conversion-tutorials/convert-rtf-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # आरटीएफ को पीडीएफ में बदलें
 
 ## परिचय

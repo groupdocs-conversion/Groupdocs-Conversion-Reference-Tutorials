@@ -4,8 +4,8 @@
 "title": "Освоение GroupDocs.Conversion .NET для преобразования электронной почты и файлов. Подробное руководство"
 "url": "/ru/net/email-formats-features/mastering-groupdocs-conversion-net-email-file-convert/"
 "weight": 1
+type: docs
 ---
-
 # Освоение GroupDocs.Conversion .NET для конвертации электронной почты и файлов: подробное руководство
 
 ## Введение

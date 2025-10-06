@@ -4,8 +4,8 @@
 "title": "FODS konvertálása TEX-be .NET-ben a GroupDocs.Conversion használatával – Átfogó útmutató"
 "url": "/hu/net/text-markup-conversion/convert-fods-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # FODS konvertálása TEX-re .NET-ben a GroupDocs.Conversion használatával
 
 ## Bevezetés

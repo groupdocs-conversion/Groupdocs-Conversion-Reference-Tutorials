@@ -4,8 +4,8 @@
 "title": "تحويل قالب PowerPoint (.pot) إلى PDF باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/pdf-conversion-features/convert-pot-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل ملف قالب PowerPoint (.pot) إلى PDF باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

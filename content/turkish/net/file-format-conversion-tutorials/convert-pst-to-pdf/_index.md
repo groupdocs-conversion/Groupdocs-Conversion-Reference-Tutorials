@@ -5,8 +5,8 @@
 "title": "PST'yi PDF'ye dönüştür"
 "url": "/tr/net/file-format-conversion-tutorials/convert-pst-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # PST'yi PDF'ye dönüştür
 
 ## giriiş

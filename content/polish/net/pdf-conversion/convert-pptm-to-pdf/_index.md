@@ -5,8 +5,8 @@
 "title": "Konwertuj PPTM do PDF"
 "url": "/pl/net/pdf-conversion/convert-pptm-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # Konwertuj PPTM do PDF
 
 ## Wstęp

@@ -8,10 +8,8 @@ keywords:
 - convert PPTM to PPTX
 - GroupDocs.Conversion for .NET
 - PowerPoint conversion
-
+type: docs
 ---
-
-
 # How to Convert PPTM to PPTX Using GroupDocs.Conversion for .NET
 
 ## Introduction

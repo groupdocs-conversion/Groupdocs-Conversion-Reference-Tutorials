@@ -4,8 +4,8 @@
 "title": "Hatékony TXT-DOCX konvertálás a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/word-processing-formats-features/txt-to-docx-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony TXT-DOCX konvertálás a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

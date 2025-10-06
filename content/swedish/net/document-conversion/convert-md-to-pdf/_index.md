@@ -5,8 +5,8 @@
 "title": "Konvertera MD till PDF"
 "url": "/sv/net/document-conversion/convert-md-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # Konvertera MD till PDF
 
 ## Introduktion

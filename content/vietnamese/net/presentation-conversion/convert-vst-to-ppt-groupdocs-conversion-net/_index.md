@@ -4,8 +4,8 @@
 "title": "Master File Conversion&#58; Chuyển đổi VST sang PPT bằng Thư viện .NET GroupDocs.Conversion"
 "url": "/vi/net/presentation-conversion/convert-vst-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp chính: Chuyển đổi VST sang PPT bằng thư viện GroupDocs.Conversion .NET
 
 ## Giới thiệu

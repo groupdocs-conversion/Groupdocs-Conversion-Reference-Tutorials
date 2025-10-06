@@ -5,8 +5,8 @@
 "title": "Konvertieren Sie DOT-Word-Vorlagen in PDF"
 "url": "/de/net/file-conversion-to-pdf/convert-dot-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # Konvertieren Sie DOT-Word-Vorlagen in PDF
 
 ## Einführung

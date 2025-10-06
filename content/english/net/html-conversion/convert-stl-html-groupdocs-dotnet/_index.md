@@ -8,10 +8,8 @@ keywords:
 - convert STL to HTML
 - GroupDocs.Conversion for .NET
 - STL file conversion
-
+type: docs
 ---
-
-
 # How to Convert STL Files to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

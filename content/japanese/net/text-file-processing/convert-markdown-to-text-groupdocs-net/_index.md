@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して Markdown をテキストに変換する方法 - ステップバイステップガイド"
 "url": "/ja/net/text-file-processing/convert-markdown-to-text-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して Markdown をテキストに変換する方法: ステップバイステップガイド
 
 ## 導入

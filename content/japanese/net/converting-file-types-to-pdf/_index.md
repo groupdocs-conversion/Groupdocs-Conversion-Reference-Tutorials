@@ -5,8 +5,8 @@
 "title": "ファイル形式をPDFに変換する"
 "url": "/ja/net/converting-file-types-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # ファイル形式をPDFに変換する
 
 ## 導入

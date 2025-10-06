@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Convert IGS 3D models to PDF effortlessly with GroupDocs.Conversion for .NET. Download now for seamless file format conversion.
 weight: 26
 url: /net/convert-files-to-pdf/convert-igs-to-pdf/
+type: docs
 ---
-
 # Convert IGS 3D Model Files to PDF
 
 ## Introduction

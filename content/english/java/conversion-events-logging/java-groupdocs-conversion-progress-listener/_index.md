@@ -8,10 +8,8 @@ keywords:
 - track document conversion progress Java
 - GroupDocs.Conversion for Java
 - conversion state and progress listener
-
+type: docs
 ---
-
-
 # Track Document Conversion Progress in Java with GroupDocs: A Complete Guide
 
 ## Introduction

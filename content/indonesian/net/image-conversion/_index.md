@@ -3,8 +3,8 @@
 "title": "Tutorial Konversi Gambar untuk GroupDocs.Conversion .NET"
 "url": "/id/net/image-conversion/"
 "weight": 28
+type: docs
 ---
-
 # Tutorial Konversi Gambar untuk GroupDocs.Conversion .NET
 
 Tutorial konversi gambar kami menyediakan panduan komprehensif untuk mengubah dokumen ke berbagai format gambar dalam aplikasi .NET. Panduan langkah demi langkah ini menunjukkan cara mengonversi dokumen ke JPG, PNG, TIFF, SVG, dan format gambar lain dari sumber seperti Word, PDF, PowerPoint, gambar CAD, dan banyak lagi. Pelajari cara mengontrol resolusi, kedalaman warna, kompresi, transparansi, dan pengaturan khusus gambar lainnya untuk mencapai keseimbangan optimal antara kualitas dan ukuran file. Setiap tutorial menyertakan contoh kode C# terperinci untuk membuat representasi gambar berkualitas tinggi dari dokumen Anda, sempurna untuk pratinjau, pengarsipan, atau pemrosesan gambar lebih lanjut.

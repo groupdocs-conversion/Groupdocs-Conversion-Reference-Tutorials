@@ -4,8 +4,8 @@
 "title": "WEBP fájlok konvertálása a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-webp-files-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # WEBP fájlok konvertálása a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 ## Bevezetés
 Szeretnéd zökkenőmentesen konvertálni a képfájlokat, például a WEBP-t más formátumokba a .NET alkalmazásaidban? Sok fejlesztő szembesül kihívásokkal a képformátumok sokfélesége miatt. Ez az oktatóanyag bemutatja, hogyan használhatod a GroupDocs.Conversion for .NET-et a forrás WEBP-fájlok hatékony betöltéséhez és egyszerű konvertálásához.

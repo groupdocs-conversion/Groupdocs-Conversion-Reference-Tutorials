@@ -4,8 +4,8 @@
 "title": "Konvertera EMZ till XLS enkelt med GroupDocs.Conversion för .NET"
 "url": "/sv/net/spreadsheet-conversion/convert-emz-to-xls-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera EMZ till XLS med GroupDocs.Conversion för .NET
 
 ## Introduktion

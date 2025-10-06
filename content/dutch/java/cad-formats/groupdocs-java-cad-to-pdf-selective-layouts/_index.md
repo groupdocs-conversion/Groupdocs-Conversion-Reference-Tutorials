@@ -4,8 +4,8 @@
 "title": "Converteer CAD-layouts naar PDF in Java met behulp van de selectieve lay-outconversiehandleiding van GroupDocs"
 "url": "/nl/java/cad-formats/groupdocs-java-cad-to-pdf-selective-layouts/"
 "weight": 1
+type: docs
 ---
-
 # Converteer CAD-layouts naar PDF met GroupDocs.Conversion voor Java
 ## Selectieve CAD naar PDF-conversie in Java onder de knie krijgen
 ### Invoering

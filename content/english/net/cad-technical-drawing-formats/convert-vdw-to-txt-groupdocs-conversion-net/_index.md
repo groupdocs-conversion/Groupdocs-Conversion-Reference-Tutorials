@@ -8,10 +8,8 @@ keywords:
 - Convert VDW to TXT
 - GroupDocs.Conversion for .NET
 - Visio Web Drawing conversion
-
+type: docs
 ---
-
-
 # How to Convert VDW to TXT Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -5,8 +5,8 @@
 "title": "SXCをPDFに変換する"
 "url": "/ja/net/file-format-conversion-tutorials/convert-sxc-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # SXCをPDFに変換する
 
 ## 導入

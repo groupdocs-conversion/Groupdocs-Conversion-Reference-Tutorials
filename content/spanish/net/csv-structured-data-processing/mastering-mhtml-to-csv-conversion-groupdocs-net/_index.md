@@ -4,8 +4,8 @@
 "title": "Conversión eficiente de MHTML a CSV con GroupDocs.Conversion para .NET"
 "url": "/es/net/csv-structured-data-processing/mastering-mhtml-to-csv-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Conversión eficiente de MHTML a CSV con GroupDocs.Conversion para .NET
 
 ## Introducción

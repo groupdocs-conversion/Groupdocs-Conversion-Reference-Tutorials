@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie eine Excel-Vorlage (.xltx) in ein Word-Dokument (DOC) mit GroupDocs.Conversion für .NET"
 "url": "/de/net/word-processing-formats-features/convert-xltx-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie eine Excel-Vorlage (.xltx) in ein Word-Dokument (DOC) mit GroupDocs.Conversion für .NET
 ## Einführung
 Willkommen zu dieser umfassenden Anleitung zur Konvertierung einer Excel-Vorlage (.xltx) in ein Word-Dokument (DOC) mithilfe der leistungsstarken Bibliothek GroupDocs.Conversion für .NET. Diese Lösung ist unverzichtbar für Dokumentenmanagement-Workflows und ermöglicht die nahtlose Integration datenreicher Vorlagen in textbasierte Dokumente.

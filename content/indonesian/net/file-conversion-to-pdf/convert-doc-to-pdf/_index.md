@@ -5,8 +5,8 @@
 "title": "Konversi Dokumen DOC Word ke PDF"
 "url": "/id/net/file-conversion-to-pdf/convert-doc-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # Konversi Dokumen DOC Word ke PDF
 
 ## Perkenalan

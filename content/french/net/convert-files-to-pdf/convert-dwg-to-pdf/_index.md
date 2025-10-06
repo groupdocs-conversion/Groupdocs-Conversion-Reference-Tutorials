@@ -5,8 +5,8 @@
 "title": "Convertir des fichiers DWG CAO en PDF"
 "url": "/fr/net/convert-files-to-pdf/convert-dwg-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # Convertir des fichiers DWG CAO en PDF
 
 ## Introduction

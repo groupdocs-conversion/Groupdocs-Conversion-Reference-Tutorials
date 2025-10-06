@@ -4,8 +4,8 @@
 "title": "STL fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/html-conversion/convert-stl-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # STL fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

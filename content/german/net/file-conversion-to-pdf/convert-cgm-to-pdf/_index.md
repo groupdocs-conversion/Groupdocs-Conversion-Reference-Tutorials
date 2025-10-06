@@ -5,8 +5,8 @@
 "title": "Konvertieren Sie CGM-Vektorgrafiken in PDF"
 "url": "/de/net/file-conversion-to-pdf/convert-cgm-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # Konvertieren Sie CGM-Vektorgrafiken in PDF
 
 ## Einführung

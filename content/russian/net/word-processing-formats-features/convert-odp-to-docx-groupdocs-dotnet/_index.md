@@ -4,8 +4,8 @@
 "title": "Эффективное преобразование ODP в DOCX с помощью GroupDocs.Conversion для .NET. Подробное руководство"
 "url": "/ru/net/word-processing-formats-features/convert-odp-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Конвертация файлов ODP в DOCX с помощью GroupDocs.Conversion для .NET: пошаговое руководство
 
 ## Введение

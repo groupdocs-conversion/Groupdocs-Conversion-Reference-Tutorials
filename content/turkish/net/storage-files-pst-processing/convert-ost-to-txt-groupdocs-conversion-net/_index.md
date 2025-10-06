@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanarak Verimli OST'den TXT'ye Dönüştürme"
 "url": "/tr/net/storage-files-pst-processing/convert-ost-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OST Dosyalarını GroupDocs.Conversion for .NET Kullanarak TXT'ye Nasıl Dönüştürebilirsiniz
 
 ## giriiş

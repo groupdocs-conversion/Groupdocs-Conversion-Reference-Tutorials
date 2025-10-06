@@ -8,10 +8,8 @@ keywords:
 - convert JP2 to PPT
 - GroupDocs.Conversion for .NET
 - JPEG 2000 to PowerPoint
-
+type: docs
 ---
-
-
 # Convert JP2 to PPT Using GroupDocs.Conversion for .NET: Step-by-Step Guide
 
 ## Introduction

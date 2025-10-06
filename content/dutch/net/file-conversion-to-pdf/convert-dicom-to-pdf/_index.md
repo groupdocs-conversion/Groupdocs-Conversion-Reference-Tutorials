@@ -5,8 +5,8 @@
 "title": "DICOM medische afbeeldingen converteren naar PDF"
 "url": "/nl/net/file-conversion-to-pdf/convert-dicom-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # DICOM medische afbeeldingen converteren naar PDF
 
 ## Invoering

@@ -5,8 +5,8 @@
 "title": "แปลงภาพ DNG เป็น PDF"
 "url": "/th/net/file-conversion-to-pdf/convert-dng-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # แปลงภาพ DNG เป็น PDF
 
 ## การแนะนำ

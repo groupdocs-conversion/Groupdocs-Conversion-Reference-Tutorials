@@ -4,8 +4,8 @@
 "title": "Jak převést konkrétní stránky dokumentu do PDF pomocí GroupDocs.Conversion pro Javu"
 "url": "/cs/java/pdf-conversion/convert-specific-pages-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést konkrétní stránky dokumentu do PDF pomocí GroupDocs.Conversion pro Javu
 
 dnešní digitální době je efektivní a účinná konverze dokumentů klíčová jak pro firmy, tak pro jednotlivce. Ať už sdílíte konkrétní části zprávy nebo sestavujete vybrané stránky do jednoho souboru PDF, správné nástroje mohou znamenat velký rozdíl. Tato příručka vás provede používáním... **GroupDocs.Conversion pro Javu** převést konkrétní stránky dokumentu do formátu PDF. Pojďme se na to pustit!

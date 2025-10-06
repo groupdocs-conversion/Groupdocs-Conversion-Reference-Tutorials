@@ -5,8 +5,8 @@
 "title": "Chuyển đổi tài liệu DOCM Word (Macro) sang PDF"
 "url": "/vi/net/file-conversion-to-pdf/convert-docm-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Chuyển đổi tài liệu DOCM Word (Macro) sang PDF
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "Jak převést soubory VSTM do HTML pomocí GroupDocs.Conversion pro .NET – Průvodce pro vývojáře"
 "url": "/cs/net/html-conversion/convert-vstm-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory VSTM do HTML pomocí GroupDocs.Conversion pro .NET: Průvodce pro vývojáře
 
 ## Zavedení

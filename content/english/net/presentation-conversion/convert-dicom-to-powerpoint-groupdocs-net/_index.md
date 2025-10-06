@@ -8,10 +8,8 @@ keywords:
 - convert DICOM to PowerPoint
 - GroupDocs.Conversion for .NET
 - DICOM to PPTX conversion
-
+type: docs
 ---
-
-
 # Convert DICOM to PowerPoint Using GroupDocs.Conversion for .NET
 
 ## Introduction

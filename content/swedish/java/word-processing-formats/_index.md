@@ -3,8 +3,8 @@
 "title": "Handledningar för konvertering av ordbehandlingsformat med GroupDocs.Conversion Java"
 "url": "/sv/java/word-processing-formats/"
 "weight": 5
+type: docs
 ---
-
 # Handledningar för konvertering av ordbehandlingsformat med GroupDocs.Conversion Java
 
 Upptäck hur du effektivt hanterar konverteringar av Word-dokument med hjälp av våra omfattande GroupDocs.Conversion Java-handledningar. Dessa steg-för-steg-guider lär dig hur du konverterar mellan olika ordbehandlingsformat, bevarar formatering och stilar, hanterar inbäddade objekt och bibehåller dokumentstrukturen under konvertering. Varje handledning ger praktiska Java-kodexempel för vanliga konverteringsuppgifter för Word-dokument, vilket hjälper dig att bygga mer effektiva applikationer som kan bearbeta textdokument med hög återgivning.

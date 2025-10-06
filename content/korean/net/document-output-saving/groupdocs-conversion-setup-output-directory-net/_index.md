@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 출력 디렉터리 경로를 설정하는 방법"
 "url": "/ko/net/document-output-saving/groupdocs-conversion-setup-output-directory-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 출력 디렉터리 경로를 설정하는 방법
 
 ## 소개

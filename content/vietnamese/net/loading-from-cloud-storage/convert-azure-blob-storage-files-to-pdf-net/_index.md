@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tệp lưu trữ Azure Blob sang PDF bằng .NET và GroupDocs.Conversion"
 "url": "/vi/net/loading-from-cloud-storage/convert-azure-blob-storage-files-to-pdf-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách tải xuống và chuyển đổi tệp lưu trữ Azure Blob sang PDF bằng .NET và GroupDocs.Conversion
 
 ## Giới thiệu

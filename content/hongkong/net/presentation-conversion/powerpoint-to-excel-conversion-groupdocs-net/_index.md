@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 將 PowerPoint 轉換為 Excel 的綜合指南"
 "url": "/zh-hant/net/presentation-conversion/powerpoint-to-excel-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 將 PowerPoint 轉換為 Excel 的綜合指南
 
 ## 介紹

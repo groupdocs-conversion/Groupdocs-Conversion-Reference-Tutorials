@@ -4,8 +4,8 @@
 "title": "PCL HTML-lé konvertálása a GroupDocs.Conversion .NET használatával"
 "url": "/hu/net/web-markup-formats/pcl-to-html-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató: PCL fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

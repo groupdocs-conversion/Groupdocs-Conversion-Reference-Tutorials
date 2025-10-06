@@ -8,10 +8,8 @@ keywords:
 - Convert Shift_JIS to PDF
 - GroupDocs.Conversion .NET tutorial
 - PDF conversion from text files
-
+type: docs
 ---
-
-
 # Convert Shift_JIS Text Files to PDF Using GroupDocs.Conversion .NET
 
 ## Introduction

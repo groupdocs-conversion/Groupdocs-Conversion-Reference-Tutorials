@@ -4,8 +4,8 @@
 "title": "Jak konwertować JPEG 2000 (JPF) do HTML przy użyciu GroupDocs.Conversion dla .NET"
 "url": "/pl/net/html-conversion/convert-jpeg-2000-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak konwertować JPEG 2000 (JPF) do HTML za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

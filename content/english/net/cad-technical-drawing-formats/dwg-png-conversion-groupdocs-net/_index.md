@@ -8,10 +8,8 @@ keywords:
 - DWG to PNG conversion
 - GroupDocs.Conversion for .NET
 - .NET file conversion
-
+type: docs
 ---
-
-
 # How to Convert DWG Files to PNG Using GroupDocs.Conversion for .NET
 
 ## Introduction

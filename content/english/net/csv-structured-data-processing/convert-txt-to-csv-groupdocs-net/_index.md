@@ -8,10 +8,8 @@ keywords:
 - convert TXT to CSV GroupDocs.Conversion for .NET
 - TXT to CSV conversion tutorial
 - GroupDocs.Conversion file transformation
-
+type: docs
 ---
-
-
 # Convert TXT to CSV Using GroupDocs.Conversion for .NET
 
 ## Introduction

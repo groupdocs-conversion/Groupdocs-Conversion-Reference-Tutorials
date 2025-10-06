@@ -4,8 +4,8 @@
 "title": "Como converter arquivos CGM para PPTX usando GroupDocs.Conversion para .NET"
 "url": "/pt/net/presentation-formats-features/convert-cgm-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Guia completo: converter arquivos CGM para PPTX com GroupDocs.Conversion para .NET
 
 ## Introdução

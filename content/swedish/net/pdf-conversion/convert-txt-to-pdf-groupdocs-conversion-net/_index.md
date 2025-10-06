@@ -4,8 +4,8 @@
 "title": "Enkel TXT till PDF-konvertering – Master GroupDocs.Conversion för .NET på några minuter"
 "url": "/sv/net/pdf-conversion/convert-txt-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Enkel TXT till PDF-konvertering: Master GroupDocs.Conversion för .NET på några minuter
 
 ## Introduktion

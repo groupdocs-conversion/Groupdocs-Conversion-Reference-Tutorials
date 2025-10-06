@@ -4,8 +4,8 @@
 "title": "Πλήρη σεμινάρια για το GroupDocs.Conversion για Java"
 "url": "/el/java/"
 "weight": 10
+type: docs
 ---
-
 # Πλήρη σεμινάρια για το GroupDocs.Conversion για Java
 
 ## Εισαγωγή

@@ -4,8 +4,8 @@
 "title": "تحويل TXT إلى HTML باستخدام GroupDocs.Conversion لـ .NET - دليل خطوة بخطوة"
 "url": "/ar/net/web-markup-formats/convert-txt-to-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ملفات TXT إلى HTML باستخدام GroupDocs.Conversion لـ .NET: دليل خطوة بخطوة
 
 في عالمنا الرقمي اليوم، يُعدّ تحويل المستندات بكفاءة أمرًا بالغ الأهمية. سواء كنت تُحضّر محتوى لعرض تقديمي على الويب أو تُرقمن السجلات، فإن تحويل ملفات النصوص العادية (TXT) إلى صيغ HTML جذابة بصريًا يُحسّن بشكل كبير من سهولة الوصول والجماليات. سيُرشدك هذا البرنامج التعليمي إلى كيفية استخدام مكتبة GroupDocs.Conversion .NET القوية لتحويل ملفات TXT إلى HTML بسلاسة.

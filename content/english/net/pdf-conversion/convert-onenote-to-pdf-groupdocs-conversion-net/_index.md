@@ -8,10 +8,8 @@ keywords:
 - convert OneNote to PDF
 - GroupDocs.Conversion .NET
 - OneNote file conversion
-
+type: docs
 ---
-
-
 # Convert OneNote Files to PDF with GroupDocs.Conversion for .NET
 
 ## Introduction

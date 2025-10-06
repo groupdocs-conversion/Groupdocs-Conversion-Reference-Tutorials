@@ -4,8 +4,8 @@
 "title": "Hogyan konvertáljunk SVGZ-t SVG-vé a GroupDocs.Conversion for .NET használatával? Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-svgz-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # SVGZ konvertálása SVG-vé a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

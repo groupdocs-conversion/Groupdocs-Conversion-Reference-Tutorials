@@ -4,8 +4,8 @@
 "title": "IFC DOCX formátumba konvertálása a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/word-processing-formats-features/convert-ifc-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # IFC DOCX formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

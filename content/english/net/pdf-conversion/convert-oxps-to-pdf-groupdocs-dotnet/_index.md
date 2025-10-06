@@ -8,10 +8,8 @@ keywords:
 - convert OXPS to PDF
 - GroupDocs.Conversion for .NET
 - PDF conversion guide
-
+type: docs
 ---
-
-
 # How to Convert OXPS Files to PDF Using GroupDocs.Conversion for .NET
 
 ## Introduction

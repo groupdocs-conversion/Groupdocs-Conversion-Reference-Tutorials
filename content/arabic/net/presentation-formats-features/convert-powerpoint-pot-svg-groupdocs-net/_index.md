@@ -4,8 +4,8 @@
 "title": "تحويل قوالب PowerPoint (.pot) إلى SVG باستخدام GroupDocs.Conversion لـ .NET - دليل كامل"
 "url": "/ar/net/presentation-formats-features/convert-powerpoint-pot-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل قوالب PowerPoint (.pot) إلى SVG باستخدام GroupDocs.Conversion لـ .NET
 ## مقدمة
 هل تبحث عن طريقة فعّالة لتحويل قوالب PowerPoint إلى رسومات متجهية قابلة للتطوير؟ سواء كنت مطورًا يهدف إلى تحسين معالجة المستندات أو تحتاج إلى تحويل ملفات POT لتوافقها مع الويب، سيرشدك هذا البرنامج التعليمي خلال العملية باستخدام GroupDocs.Conversion لـ .NET. باتباع هذه الخطوات، يمكنك تبسيط سير عملك وإنتاج مخرجات SVG عالية الجودة من قوالب PowerPoint.

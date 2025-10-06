@@ -5,8 +5,8 @@
 "title": "DICOM医療画像をPDFに変換する"
 "url": "/ja/net/file-conversion-to-pdf/convert-dicom-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # DICOM医療画像をPDFに変換する
 
 ## 導入

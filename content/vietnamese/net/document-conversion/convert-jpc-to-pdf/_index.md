@@ -5,8 +5,8 @@
 "title": "Chuyển đổi JPC sang PDF"
 "url": "/vi/net/document-conversion/convert-jpc-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Chuyển đổi JPC sang PDF
 
 ## Giới thiệu

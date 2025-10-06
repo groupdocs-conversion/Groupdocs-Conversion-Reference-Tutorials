@@ -5,8 +5,8 @@
 "title": "Converteer XLAM naar PDF"
 "url": "/nl/net/converting-file-types-to-pdf/convert-xlam-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # Converteer XLAM naar PDF
 
 ## Invoering

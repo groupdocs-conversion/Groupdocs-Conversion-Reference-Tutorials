@@ -8,10 +8,8 @@ keywords:
 - convert OTP files
 - GroupDocs.Conversion for .NET
 - PowerPoint conversion
-
+type: docs
 ---
-
-
 # Effortlessly Convert OTP Files to PowerPoint Using GroupDocs.Conversion for .NET
 
 ## Introduction

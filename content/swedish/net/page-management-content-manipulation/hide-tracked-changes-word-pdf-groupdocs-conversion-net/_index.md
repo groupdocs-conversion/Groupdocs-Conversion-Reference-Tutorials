@@ -4,8 +4,8 @@
 "title": "Dölj spårade ändringar i Word till PDF-konvertering med GroupDocs.Conversion för .NET"
 "url": "/sv/net/page-management-content-manipulation/hide-tracked-changes-word-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Bemästra avancerad Word till PDF-konvertering med dolda spårade ändringar med GroupDocs.Conversion för .NET
 
 ## Introduktion

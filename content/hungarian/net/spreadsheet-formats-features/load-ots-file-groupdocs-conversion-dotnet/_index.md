@@ -4,8 +4,8 @@
 "title": "OTS fájlok betöltése és konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/spreadsheet-formats-features/load-ots-file-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # OTS fájlok betöltése és konvertálása a GroupDocs.Conversion for .NET használatával
 
 A mai digitális környezetben a különféle dokumentumformátumok kezelése elengedhetetlen a vállalkozások és a fejlesztők számára. Akár számlákat, akár szerződéseket kezel, azok univerzálisan elfogadott formátumokba konvertálása időt és erőforrásokat takaríthat meg. Ez az oktatóanyag végigvezeti Önt egy OpenDocument Spreadsheet Text (OTS) fájl betöltésén és konvertálásán a .NET-hez készült hatékony GroupDocs.Conversion könyvtár segítségével.

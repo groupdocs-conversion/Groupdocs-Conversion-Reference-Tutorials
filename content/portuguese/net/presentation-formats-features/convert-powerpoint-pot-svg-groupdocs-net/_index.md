@@ -4,8 +4,8 @@
 "title": "Converta modelos do PowerPoint (.pot) para SVG com o GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/presentation-formats-features/convert-powerpoint-pot-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converta modelos do PowerPoint (.pot) para SVG com GroupDocs.Conversion para .NET
 ## Introdução
 Você está procurando uma maneira eficiente de transformar modelos do PowerPoint em gráficos vetoriais escaláveis? Seja você um desenvolvedor que busca aprimorar o processamento de documentos ou precisa converter arquivos POT para compatibilidade com a web, este tutorial o guiará pelo processo usando o GroupDocs.Conversion para .NET. Seguindo esses passos, você pode otimizar seu fluxo de trabalho e produzir saídas SVG de alta qualidade a partir de modelos do PowerPoint.

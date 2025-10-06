@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 암호로 보호된 Word 문서를 HTML로 변환하는 방법"
 "url": "/ko/net/html-conversion/convert-password-word-docs-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 암호로 보호된 Word 문서를 HTML로 변환하는 방법
 
 ## 소개

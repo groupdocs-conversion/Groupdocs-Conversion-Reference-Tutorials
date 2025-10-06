@@ -4,8 +4,8 @@
 "title": "Visio fájlok konvertálása TeX formátumba a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/cad-technical-drawing-formats/convert-visio-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Visio-fájlok konvertálása TeX formátumba a GroupDocs.Conversion for .NET segítségével: Átfogó útmutató
 
 ## Bevezetés

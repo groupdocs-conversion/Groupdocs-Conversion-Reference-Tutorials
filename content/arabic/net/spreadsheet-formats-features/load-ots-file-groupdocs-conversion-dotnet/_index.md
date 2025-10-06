@@ -4,8 +4,8 @@
 "title": "كيفية تحميل ملفات OTS وتحويلها باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/spreadsheet-formats-features/load-ots-file-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحميل ملفات OTS وتحويلها باستخدام GroupDocs.Conversion لـ .NET
 
 في ظلّ العالم الرقميّ الحالي، تُعدّ إدارة صيغ المستندات المختلفة أمرًا بالغ الأهمية للشركات والمطوّرين. سواءً كنتَ تُدير فواتير أو عقودًا، فإنّ تحويلها إلى صيغٍ مُعتمدة عالميًا يُوفّر الوقت والموارد. سيُرشدك هذا البرنامج التعليمي خلال تحميل وتحويل ملف نص جدول بيانات OpenDocument (OTS) باستخدام مكتبة GroupDocs.Conversion الفعّالة لـ .NET.

@@ -4,8 +4,8 @@
 "title": "VST DOCX formátumba konvertálása .NET-ben a GroupDocs.Conversion használatával – lépésről lépésre útmutató"
 "url": "/hu/net/word-processing-conversion/convert-vst-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # VST DOCX formátumba konvertálása .NET-ben a GroupDocs.Conversion használatával: lépésről lépésre útmutató
 
 ## Bevezetés

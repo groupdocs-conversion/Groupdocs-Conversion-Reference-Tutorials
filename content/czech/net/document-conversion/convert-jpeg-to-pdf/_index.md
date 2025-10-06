@@ -5,8 +5,8 @@
 "title": "Převod JPEGu do PDF"
 "url": "/cs/net/document-conversion/convert-jpeg-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # Převod JPEGu do PDF
 
 ## Zavedení

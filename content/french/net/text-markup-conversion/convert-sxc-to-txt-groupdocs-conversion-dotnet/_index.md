@@ -4,8 +4,8 @@
 "title": "Convertir SXC en TXT à l'aide de GroupDocs.Conversion pour .NET - Un guide complet"
 "url": "/fr/net/text-markup-conversion/convert-sxc-to-txt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir des fichiers SXC en TXT avec GroupDocs.Conversion pour .NET
 
 ## Introduction

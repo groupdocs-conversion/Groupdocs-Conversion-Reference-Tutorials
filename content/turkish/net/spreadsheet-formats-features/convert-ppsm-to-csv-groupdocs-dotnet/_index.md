@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak PowerPoint Slayt Gösterisi (.PPSM) CSV'ye Nasıl Dönüştürülür"
 "url": "/tr/net/spreadsheet-formats-features/convert-ppsm-to-csv-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak PowerPoint Slayt Gösterisi (.PPSM) CSV'ye Nasıl Dönüştürülür
 
 ## giriiş

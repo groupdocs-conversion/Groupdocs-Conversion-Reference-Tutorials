@@ -4,8 +4,8 @@
 "title": "Převod SXC do HTML – bezproblémová integrace s GroupDocs.Conversion pro .NET"
 "url": "/cs/net/web-markup-formats/convert-sxc-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů SXC do HTML pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "JPEG 2000 (.j2c) fájlok PDF-be konvertálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/pdf-conversion/convert-jpeg-2000-j2c-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # JPEG 2000 képfájl (.j2c) PDF formátumba konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Beheers .NET PDF-conversie met verborgen dia's met GroupDocs.Conversion"
 "url": "/nl/net/pdf-conversion-features/net-pdf-conversion-groupdocs-hidden-slides/"
 "weight": 1
+type: docs
 ---
-
 # Beheers .NET PDF-conversie met verborgen dia's met GroupDocs.Conversion
 
 ## Invoering

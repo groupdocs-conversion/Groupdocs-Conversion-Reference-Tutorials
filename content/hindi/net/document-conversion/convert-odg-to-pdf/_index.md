@@ -5,8 +5,8 @@
 "title": "ODG को PDF में बदलें"
 "url": "/hi/net/document-conversion/convert-odg-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # ODG को PDF में बदलें
 
 ## परिचय

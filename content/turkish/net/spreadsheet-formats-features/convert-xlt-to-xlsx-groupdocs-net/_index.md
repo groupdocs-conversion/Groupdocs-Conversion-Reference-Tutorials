@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanarak XLT'yi XLSX'e Dönüştürme - Adım Adım Kılavuz"
 "url": "/tr/net/spreadsheet-formats-features/convert-xlt-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak XLT'yi XLSX'e Dönüştürme
 
 ## giriiş

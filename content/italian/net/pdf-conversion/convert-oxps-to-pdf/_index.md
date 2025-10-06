@@ -5,8 +5,8 @@
 "title": "Convertire OXPS in PDF"
 "url": "/it/net/pdf-conversion/convert-oxps-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # Convertire OXPS in PDF
 
 ## Introduzione

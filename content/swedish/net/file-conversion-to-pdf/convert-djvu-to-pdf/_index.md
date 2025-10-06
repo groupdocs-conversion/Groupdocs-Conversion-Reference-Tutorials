@@ -5,8 +5,8 @@
 "title": "Konvertera DJVU-dokument till PDF"
 "url": "/sv/net/file-conversion-to-pdf/convert-djvu-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Konvertera DJVU-dokument till PDF
 
 ## Introduktion

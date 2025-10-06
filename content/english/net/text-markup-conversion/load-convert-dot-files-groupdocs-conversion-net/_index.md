@@ -8,10 +8,8 @@ keywords:
 - convert DOT files
 - Graphviz file conversion
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # How to Load and Convert Graphviz DOT Files Using GroupDocs.Conversion for .NET
 
 ## Introduction

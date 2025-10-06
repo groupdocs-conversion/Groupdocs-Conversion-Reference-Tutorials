@@ -4,8 +4,8 @@
 "title": "Hatékony SXC-ből PPT konvertálás a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/presentation-formats-features/groupdocs-conversion-net-sxc-ppt/"
 "weight": 1
+type: docs
 ---
-
 # Alakítsa át adatprezentációját: Hatékonyan konvertálja az SXC fájlokat PPT-vé a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

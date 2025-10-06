@@ -4,8 +4,8 @@
 "title": "Υλοποίηση αδειοδότησης με μετρητή με το GroupDocs.Conversion για .NET™ Ένας ολοκληρωμένος οδηγός"
 "url": "/el/net/getting-started-licensing/metered-licensing-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Υλοποίηση αδειοδότησης με ογκομετρική χρήση με το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

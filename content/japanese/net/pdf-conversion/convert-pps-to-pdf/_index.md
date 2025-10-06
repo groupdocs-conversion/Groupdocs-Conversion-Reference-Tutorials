@@ -5,8 +5,8 @@
 "title": "PPSをPDFに変換する"
 "url": "/ja/net/pdf-conversion/convert-pps-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # PPSをPDFに変換する
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "使用 .NET 中的 GroupDocs.Conversion 將 DOT 轉換為 TEX — 逐步指南"
 "url": "/zh-hant/net/text-file-processing/convert-dot-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 在 .NET 中使用 GroupDocs.Conversion 將 DOT 轉換為 TEX：逐步指南
 
 ## 介紹

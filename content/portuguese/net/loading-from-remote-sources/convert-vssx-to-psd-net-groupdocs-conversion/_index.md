@@ -4,8 +4,8 @@
 "title": "Converter VSSX para PSD no .NET usando GroupDocs.Conversion - Um guia passo a passo"
 "url": "/pt/net/loading-from-remote-sources/convert-vssx-to-psd-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Converter VSSX para PSD no .NET usando GroupDocs.Conversion: um guia passo a passo
 
 ## Introdução

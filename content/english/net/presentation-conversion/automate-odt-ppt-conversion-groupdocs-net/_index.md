@@ -8,10 +8,8 @@ keywords:
 - ODT to PPT Conversion
 - GroupDocs.Conversion for .NET
 - automate document conversion
-
+type: docs
 ---
-
-
 # Automate ODT to PPT Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

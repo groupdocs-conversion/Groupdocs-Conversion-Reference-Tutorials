@@ -4,8 +4,8 @@
 "title": "Hogyan konvertálhat EMLX-et PNG-vé a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/convert-emlx-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhat EMLX-et PNG-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

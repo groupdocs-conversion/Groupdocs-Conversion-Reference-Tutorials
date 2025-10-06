@@ -4,8 +4,8 @@
 "title": "Comment convertir des fichiers VSTM en DOC avec GroupDocs.Conversion pour .NET"
 "url": "/fr/net/word-processing-formats-features/convert-vstm-to-doc-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir des fichiers VSTM en DOC avec GroupDocs.Conversion pour .NET
 
 ## Introduction

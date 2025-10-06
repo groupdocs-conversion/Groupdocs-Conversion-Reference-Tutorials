@@ -5,8 +5,8 @@
 "title": "XLSX를 PDF로 변환"
 "url": "/ko/net/converting-file-types-to-pdf/convert-xlsx-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # XLSX를 PDF로 변환
 
 ## 소개

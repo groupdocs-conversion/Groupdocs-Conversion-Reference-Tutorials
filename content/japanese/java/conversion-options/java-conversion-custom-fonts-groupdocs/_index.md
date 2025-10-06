@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用したカスタム フォントによる Java ドキュメント変換"
 "url": "/ja/java/conversion-options/java-conversion-custom-fonts-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion を使用したカスタム フォントによる Java ドキュメント変換
 
 今日のデジタル世界では、ドキュメントを元のデザインとレイアウトを維持しながら変換することが不可欠です。クライアント向けのプレゼンテーションを準備する場合でも、重要なファイルをアーカイブする場合でも、プラットフォーム間でフォントの一貫性を確保するのは困難な場合があります。このチュートリアルでは、GroupDocs.Conversion for Javaを使用して、カスタムフォントの置換を行いながらプレゼンテーションをPDFに変換し、プロセス全体を通して視覚的な整合性を維持する方法について説明します。

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用した効率的な Excel から PNG への変換"
 "url": "/ja/net/image-conversion/convert-excel-to-png-using-groupdocs-conversion-for-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET で Excel ファイルを効率的に画像に変換する
 
 ## 導入

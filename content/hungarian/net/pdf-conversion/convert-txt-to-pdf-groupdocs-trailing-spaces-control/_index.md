@@ -4,8 +4,8 @@
 "title": "TXT konvertálása PDF-be a GroupDocs segítségével; Szóközök vezérlése a .NET használatával"
 "url": "/hu/net/pdf-conversion/convert-txt-to-pdf-groupdocs-trailing-spaces-control/"
 "weight": 1
+type: docs
 ---
-
 # TXT konvertálása PDF-be GroupDocs segítségével: Szóközök kezelése .NET használatával
 
 ## Bevezetés

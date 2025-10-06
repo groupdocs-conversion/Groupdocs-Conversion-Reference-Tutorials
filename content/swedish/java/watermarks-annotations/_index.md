@@ -3,8 +3,8 @@
 "title": "Handledningar för vattenstämplar och annoteringar i GroupDocs.Conversion Java"
 "url": "/sv/java/watermarks-annotations/"
 "weight": 20
+type: docs
 ---
-
 # Handledningar för vattenstämplar och annoteringar i GroupDocs.Conversion Java
 
 Utforska funktioner för anteckningar och vattenmärkning med våra omfattande GroupDocs.Conversion-handledningar för Java. Dessa steg-för-steg-guider visar hur du lägger till text- och bildvattenmärken under konvertering, bevarar befintliga anteckningar, styr anteckningarnas synlighet, implementerar dynamisk vattenmärkning baserad på metadata och hanterar borttagningsmarkeringar i känsliga dokument. Varje handledning innehåller praktiska Java-kodexempel för vattenmärknings- och anteckningsscenarier, vilket hjälper dig att bygga applikationer som bevarar viktiga visuella element och redaktionella markeringar under formatomvandling.

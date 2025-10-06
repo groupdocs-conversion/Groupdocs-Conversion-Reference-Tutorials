@@ -4,8 +4,8 @@
 "title": "Converter ODT para DOCX usando GroupDocs.Conversion para .NET - Um guia passo a passo"
 "url": "/pt/net/word-processing-formats-features/convert-odt-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converter ODT para DOCX usando GroupDocs.Conversion para .NET: um guia passo a passo
 
 ## Introdução

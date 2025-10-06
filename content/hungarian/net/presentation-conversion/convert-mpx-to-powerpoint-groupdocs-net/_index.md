@@ -4,8 +4,8 @@
 "title": "MPX fájlok konvertálása PowerPoint formátumba a GroupDocs for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/presentation-conversion/convert-mpx-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # MPX fájlok konvertálása PowerPoint formátumba a GroupDocs for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

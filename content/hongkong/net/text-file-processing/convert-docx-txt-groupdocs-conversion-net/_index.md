@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中將 DOCX 轉換為 TXT 的完整指南"
 "url": "/zh-hant/net/text-file-processing/convert-docx-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 .NET 中將 DOCX 轉換為 TXT：綜合教學
 
 ## 介紹

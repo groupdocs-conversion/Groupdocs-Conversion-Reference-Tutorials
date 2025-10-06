@@ -8,10 +8,8 @@ keywords:
 - DOCM conversion
 - .NET document processing
 - GroupDocs.Conversion library
-
+type: docs
 ---
-
-
 # Mastering DOCM Conversion in .NET with GroupDocs.Conversion
 
 ## Introduction

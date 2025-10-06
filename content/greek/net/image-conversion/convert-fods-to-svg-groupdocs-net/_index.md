@@ -4,8 +4,8 @@
 "title": "Μετατροπή FODS σε SVG σε C# χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/image-conversion/convert-fods-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή FODS σε SVG σε C# χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

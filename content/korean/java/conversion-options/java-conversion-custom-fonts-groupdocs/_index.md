@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion을 사용하여 사용자 정의 글꼴을 사용한 Java 문서 변환"
 "url": "/ko/java/conversion-options/java-conversion-custom-fonts-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용하여 사용자 정의 글꼴을 사용한 Java 문서 변환
 
 오늘날의 디지털 세상에서는 원래 디자인과 레이아웃을 유지하면서 문서를 변환하는 것이 매우 중요합니다. 고객을 위한 프레젠테이션을 준비하거나 중요한 파일을 보관할 때 플랫폼 전반에 걸쳐 글꼴의 일관성을 유지하는 것은 어려울 수 있습니다. 이 튜토리얼에서는 GroupDocs.Conversion for Java를 사용하여 프레젠테이션을 사용자 지정 글꼴을 대체하여 PDF로 변환하는 방법을 안내합니다. 이 과정에서 시각적 무결성을 보장할 수 있습니다.

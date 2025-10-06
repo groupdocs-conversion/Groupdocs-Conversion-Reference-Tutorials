@@ -4,8 +4,8 @@
 "title": "Конвертируйте определенные таблицы Excel в PDF с помощью GroupDocs.Conversion для .NET | Простое пошаговое руководство"
 "url": "/ru/net/pdf-conversion/convert-excel-sheets-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте определенные листы Excel в PDF с помощью GroupDocs.Conversion для .NET
 
 ## Введение

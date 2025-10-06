@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tệp AI sang PowerPoint bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/presentation-conversion/convert-ai-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp AI sang PowerPoint bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

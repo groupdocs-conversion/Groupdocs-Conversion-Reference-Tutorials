@@ -4,8 +4,8 @@
 "title": "स्प्रेडशीट रूपांतरण के लिए GroupDocs.Conversion .NET का उपयोग करके BMP को Excel में परिवर्तित करें"
 "url": "/hi/net/spreadsheet-conversion/convert-bmp-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET का उपयोग करके BMP फ़ाइलों को Excel में कैसे परिवर्तित करें
 
 ## परिचय

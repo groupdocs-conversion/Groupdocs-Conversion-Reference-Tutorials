@@ -4,8 +4,8 @@
 "title": "การแปลงเอกสาร .NET ขั้นเทพ — Excel เป็น Word โดยใช้ GroupDocs.Conversion"
 "url": "/th/net/word-processing-conversion/master-net-conversion-excel-word-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # การแปลงเอกสาร .NET ขั้นเทพ: Excel เป็น Word โดยใช้ GroupDocs.Conversion
 
 ## การแนะนำ

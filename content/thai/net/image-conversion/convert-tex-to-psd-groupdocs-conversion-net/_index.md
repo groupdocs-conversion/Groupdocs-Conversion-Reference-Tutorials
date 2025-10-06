@@ -4,8 +4,8 @@
 "title": "แปลง TEX เป็น PSD โดยใช้ GroupDocs.Conversion สำหรับ .NET คู่มือฉบับสมบูรณ์"
 "url": "/th/net/image-conversion/convert-tex-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลง TEX เป็น PSD โดยใช้ GroupDocs.Conversion สำหรับ .NET: คู่มือฉบับสมบูรณ์
 
 ## การแนะนำ

@@ -5,8 +5,8 @@
 "title": "FODP OpenDocument 프레젠테이션을 PDF로 변환"
 "url": "/ko/net/convert-files-to-pdf/convert-fodp-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # FODP OpenDocument 프레젠테이션을 PDF로 변환
 
 ## 소개

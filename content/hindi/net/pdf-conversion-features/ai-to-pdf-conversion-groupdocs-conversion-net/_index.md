@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके AI से PDF रूपांतरण मार्गदर्शिका"
 "url": "/hi/net/pdf-conversion-features/ai-to-pdf-conversion-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके AI से PDF रूपांतरण मार्गदर्शिका
 
 ## परिचय

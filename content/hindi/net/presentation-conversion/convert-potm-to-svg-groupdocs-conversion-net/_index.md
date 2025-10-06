@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके POTM को SVG में परिवर्तित करें एक व्यापक गाइड"
 "url": "/hi/net/presentation-conversion/convert-potm-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके POTM फ़ाइलों को SVG में परिवर्तित करें
 ## परिचय
 क्या आप अपनी Microsoft PowerPoint Template (.potm) फ़ाइलों को स्केलेबल वेक्टर ग्राफ़िक्स (SVG) में बदलना चाहते हैं? .NET लाइब्रेरी के लिए शक्तिशाली GroupDocs.Conversion का उपयोग करके इस व्यापक गाइड का पालन करें। आसानी और दक्षता के साथ, POTM फ़ाइलों को SVG प्रारूप में बदलने का तरीका सीखकर अपने दस्तावेज़ प्रबंधन वर्कफ़्लो को बढ़ाएँ।

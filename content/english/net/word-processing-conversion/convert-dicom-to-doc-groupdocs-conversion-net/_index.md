@@ -8,10 +8,8 @@ keywords:
 - convert DICOM to DOC
 - DICOM file conversion
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # Step-by-Step Guide: Convert DICOM to DOC Using GroupDocs.Conversion for .NET
 
 ## Introduction

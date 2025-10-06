@@ -4,8 +4,8 @@
 "title": "Redis와 GroupDocs.Conversion을 사용하여 Java에서 사용자 정의 캐싱을 구현하는 방법"
 "url": "/ko/java/cache-management/custom-cache-redis-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Redis와 GroupDocs.Conversion을 사용하여 Java에서 사용자 정의 캐싱을 구현하는 방법
 
 ## 소개

@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Convert VSS files to PDF effortlessly using GroupDocs.Conversion for .NET. Batch conversion, customizable options, and seamless integration.
 weight: 11
 url: /net/converting-file-types-to-pdf/convert-vss-to-pdf/
+type: docs
 ---
-
 # Convert VSS to PDF
 
 ## Introduction

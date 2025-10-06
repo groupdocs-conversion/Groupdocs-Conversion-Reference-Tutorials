@@ -8,10 +8,8 @@ keywords:
 - VCF to PDF Conversion
 - GroupDocs.Conversion for .NET
 - Document Conversion with GroupDocs
-
+type: docs
 ---
-
-
 # How to Convert VCF to PDF Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

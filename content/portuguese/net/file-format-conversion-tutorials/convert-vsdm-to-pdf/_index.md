@@ -5,8 +5,8 @@
 "title": "Converter VSDM para PDF"
 "url": "/pt/net/file-format-conversion-tutorials/convert-vsdm-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # Converter VSDM para PDF
 
 ## Introdução

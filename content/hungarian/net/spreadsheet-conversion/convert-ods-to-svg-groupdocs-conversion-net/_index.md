@@ -4,8 +4,8 @@
 "title": "ODS fájlok SVG formátumba konvertálása a GroupDocs.Conversion for .NET használatával | Átfogó útmutató"
 "url": "/hu/net/spreadsheet-conversion/convert-ods-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # ODS fájlok konvertálása SVG formátumba a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

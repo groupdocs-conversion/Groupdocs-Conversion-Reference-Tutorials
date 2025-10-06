@@ -4,8 +4,8 @@
 "title": "Convierta DWFX a TXT con GroupDocs.Conversion para .NET&#58; una guía completa"
 "url": "/es/net/cad-technical-drawing-formats/convert-dwfx-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convierta archivos DWFX a TXT con GroupDocs.Conversion para .NET
 
 ## Introducción

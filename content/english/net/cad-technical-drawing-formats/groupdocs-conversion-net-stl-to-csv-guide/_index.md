@@ -8,10 +8,8 @@ keywords:
 - convert STL to CSV
 - GroupDocs.Conversion .NET
 - STL file conversion
-
+type: docs
 ---
-
-
 # How to Convert STL Files to CSV Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

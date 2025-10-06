@@ -8,10 +8,8 @@ keywords:
 - convert OXPS to XLSX
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Convert OXPS to XLSX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 Are you looking to convert your OXPS files into the versatile XLSX format? This step-by-step tutorial guides you through using GroupDocs.Conversion for .NET, a powerful library designed for seamless document conversion. By the end of this guide, you'll efficiently transform OXPS documents into Excel spreadsheets.

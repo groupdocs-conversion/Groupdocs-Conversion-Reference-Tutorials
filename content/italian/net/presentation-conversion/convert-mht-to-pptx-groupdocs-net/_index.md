@@ -4,8 +4,8 @@
 "title": "Convertire MHT in PPTX utilizzando GroupDocs.Conversion per .NET - Guida semplice"
 "url": "/it/net/presentation-conversion/convert-mht-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire i file MHT in PPTX utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

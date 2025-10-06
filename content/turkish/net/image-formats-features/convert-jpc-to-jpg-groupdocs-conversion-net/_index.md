@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak JPC'yi JPG'ye Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/image-formats-features/convert-jpc-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak JPC'yi JPG'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

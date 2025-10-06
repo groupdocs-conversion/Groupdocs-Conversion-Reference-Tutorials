@@ -4,8 +4,8 @@
 "title": "كيفية تحويل ملفات CF2 إلى TXT باستخدام GroupDocs.Conversion .NET - دليل خطوة بخطوة"
 "url": "/ar/net/text-markup-conversion/convert-cf2-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل ملفات CF2 إلى TXT باستخدام GroupDocs.Conversion .NET: دليل خطوة بخطوة
 
 ## مقدمة

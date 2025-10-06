@@ -4,8 +4,8 @@
 "title": "綜合指南&#58;使用 GroupDocs.Conversion for .NET 將 CSV 轉換為 PDF"
 "url": "/zh-hant/net/pdf-conversion/csv-to-pdf-groupdocs-net-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # 綜合指南：使用 GroupDocs.Conversion for .NET 將 CSV 轉換為 PDF
 
 ## 介紹

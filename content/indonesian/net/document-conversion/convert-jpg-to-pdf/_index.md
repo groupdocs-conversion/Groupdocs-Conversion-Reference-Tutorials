@@ -5,8 +5,8 @@
 "title": "Konversi JPG ke PDF"
 "url": "/id/net/document-conversion/convert-jpg-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # Konversi JPG ke PDF
 
 ## Perkenalan

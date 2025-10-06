@@ -4,8 +4,8 @@
 "title": "Převod DWF do TEXu v .NET pomocí knihovny GroupDocs.Conversion"
 "url": "/cs/net/loading-from-remote-sources/convert-dwf-to-tex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod DWF do TEXu pomocí GroupDocs.Conversion v .NET
 
 ## Zavedení

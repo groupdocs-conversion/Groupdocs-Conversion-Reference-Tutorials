@@ -4,8 +4,8 @@
 "title": "Convertir WMF en DOC à l'aide de GroupDocs pour .NET - Un guide complet"
 "url": "/fr/net/word-processing-conversion/convert-wmf-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir un fichier WMF en DOC avec GroupDocs pour .NET : guide complet
 
 ## Introduction

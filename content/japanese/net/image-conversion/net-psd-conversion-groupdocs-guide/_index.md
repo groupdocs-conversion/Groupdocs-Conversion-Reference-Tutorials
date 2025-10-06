@@ -4,8 +4,8 @@
 "title": "GroupDocsによる.NET PSD変換 - .NET開発者向け究極ガイド"
 "url": "/ja/net/image-conversion/net-psd-conversion-groupdocs-guide/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs による .NET PSD 変換: .NET 開発者向け完全ガイド
 
 ## 導入

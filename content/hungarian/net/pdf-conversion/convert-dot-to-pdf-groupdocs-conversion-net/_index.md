@@ -4,8 +4,8 @@
 "title": "DOT egyszerű PDF-be konvertálása – lépésről lépésre útmutató a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/pdf-conversion/convert-dot-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DOT egyszerű konvertálása PDF-be: Lépésről lépésre útmutató a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

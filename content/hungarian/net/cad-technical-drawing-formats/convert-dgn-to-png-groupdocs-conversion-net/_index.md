@@ -4,8 +4,8 @@
 "title": "DGN fájlok PNG-vé konvertálása a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/cad-technical-drawing-formats/convert-dgn-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DGN fájlok PNG-vé konvertálása a GroupDocs.Conversion for .NET használatával: Teljes körű útmutató
 
 ## Bevezetés

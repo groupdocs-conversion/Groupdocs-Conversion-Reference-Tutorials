@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 有效率地將 HTML 轉換為 LaTeX"
 "url": "/zh-hant/net/web-markup-formats/convert-html-latex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 有效率地將 HTML 轉換為 LaTeX
 ## 介紹
 您是否希望簡化將 HTML 文件轉換為 LaTeX 格式的過程？使用 GroupDocs.Conversion for .NET，可以簡單且有效率地實現此流程的自動化。本教學將引導您使用強大的庫將 HTM 檔案無縫轉換為 LaTeX 格式。整合此解決方案，您可以節省時間並減少手動轉換帶來的錯誤。

@@ -4,8 +4,8 @@
 "title": "Hướng dẫn chuyển đổi ODT sang PDF hiệu quả bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/pdf-conversion-features/convert-odt-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi ODT sang PDF hiệu quả: Hướng dẫn sử dụng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

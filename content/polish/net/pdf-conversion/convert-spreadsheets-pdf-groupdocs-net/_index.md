@@ -4,8 +4,8 @@
 "title": "Konwertuj arkusze kalkulacyjne do plików PDF bezproblemowo, korzystając z GroupDocs.Conversion w .NET"
 "url": "/pl/net/pdf-conversion/convert-spreadsheets-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj arkusze kalkulacyjne do plików PDF bezproblemowo, korzystając z GroupDocs.Conversion w .NET
 
 ## Wstęp

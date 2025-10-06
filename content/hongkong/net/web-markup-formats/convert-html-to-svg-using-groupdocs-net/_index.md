@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 HTML 轉換為 SVG 的綜合指南"
 "url": "/zh-hant/net/web-markup-formats/convert-html-to-svg-using-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 HTML 檔案轉換為 SVG 格式
 
 ## 介紹

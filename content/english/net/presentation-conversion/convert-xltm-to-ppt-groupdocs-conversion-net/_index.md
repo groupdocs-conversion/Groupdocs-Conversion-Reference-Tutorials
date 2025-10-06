@@ -8,10 +8,8 @@ keywords:
 - convert XLTm to PPT
 - automate Excel to PowerPoint conversion
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # How to Convert XLTm to PPT Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Convierta DGN a TEX de forma eficiente con GroupDocs.Conversion para .NET en proyectos CAD"
 "url": "/es/net/cad-technical-drawing-formats/convert-dgn-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir archivos DGN a formato TEX de forma eficiente con GroupDocs.Conversion para .NET
 
 ## Introducción

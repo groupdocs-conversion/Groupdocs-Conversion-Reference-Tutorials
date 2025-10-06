@@ -4,8 +4,8 @@
 "title": "DOCX konvertálása DOC-ba a GroupDocs.Conversion használatával .NET-ben – Átfogó útmutató"
 "url": "/hu/net/word-processing-formats-features/convert-docx-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DOCX fájlok konvertálása DOC-ba a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

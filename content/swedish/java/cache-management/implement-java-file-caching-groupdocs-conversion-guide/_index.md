@@ -4,8 +4,8 @@
 "title": "Java-filcachning med GroupDocs.Conversion – en omfattande guide för effektiv dokumentkonvertering"
 "url": "/sv/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Hur man implementerar Java-filcachning med GroupDocs.Conversion för effektiv dokumentkonvertering
 
 ## Introduktion

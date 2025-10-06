@@ -4,8 +4,8 @@
 "title": "IFC fájlok JPG formátumba konvertálása a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/image-conversion/convert-ifc-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # IFC fájlok JPG formátumba konvertálása a .NET-hez készült GroupDocs.Conversion segítségével
 
 ## Bevezetés

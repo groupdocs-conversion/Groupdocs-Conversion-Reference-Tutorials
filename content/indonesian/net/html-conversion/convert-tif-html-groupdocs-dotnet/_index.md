@@ -4,8 +4,8 @@
 "title": "Konversi TIFF ke HTML dalam .NET Menggunakan GroupDocs.Conversion"
 "url": "/id/net/html-conversion/convert-tif-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konversi TIFF ke HTML dalam .NET Menggunakan GroupDocs.Conversion
 
 ## Perkenalan

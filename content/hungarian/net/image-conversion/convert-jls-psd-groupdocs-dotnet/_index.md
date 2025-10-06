@@ -4,8 +4,8 @@
 "title": "JLS konvertálása PSD-vé .NET-ben a GroupDocs.Conversion használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-jls-psd-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # JLS konvertálása PSD-vé .NET-ben a GroupDocs.Conversion használatával: lépésről lépésre útmutató
 
 ## Bevezetés

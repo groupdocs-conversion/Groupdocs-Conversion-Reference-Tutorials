@@ -8,10 +8,8 @@ keywords:
 - convert FODP to Excel
 - GroupDocs.Conversion for .NET
 - file conversion
-
+type: docs
 ---
-
-
 # How to Efficiently Convert FODP Files to Excel Using GroupDocs.Conversion for .NET
 
 ## Introduction

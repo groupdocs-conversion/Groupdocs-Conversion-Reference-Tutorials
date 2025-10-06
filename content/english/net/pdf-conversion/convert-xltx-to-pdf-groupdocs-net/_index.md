@@ -8,10 +8,8 @@ keywords:
 - convert XLTX to PDF
 - GroupDocs.Conversion for .NET
 - document conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert Excel Template Files (XLTX) to PDF Using GroupDocs.Conversion for .NET
 
 ## Introduction

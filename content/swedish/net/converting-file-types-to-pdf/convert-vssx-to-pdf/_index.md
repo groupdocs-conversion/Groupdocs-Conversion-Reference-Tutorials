@@ -5,8 +5,8 @@
 "title": "Konvertera VSSX till PDF"
 "url": "/sv/net/converting-file-types-to-pdf/convert-vssx-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # Konvertera VSSX till PDF
 
 ## Introduktion

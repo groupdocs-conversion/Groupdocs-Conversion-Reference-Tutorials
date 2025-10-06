@@ -4,8 +4,8 @@
 "title": "Jak převést soubory DWG do Excelu pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/cad-technical-drawing-formats/convert-dwg-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory DWG do Excelu pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

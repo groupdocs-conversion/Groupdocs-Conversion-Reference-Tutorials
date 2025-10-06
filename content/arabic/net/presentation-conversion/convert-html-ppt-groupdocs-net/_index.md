@@ -4,8 +4,8 @@
 "title": "كيفية تحويل HTML إلى PowerPoint باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/presentation-conversion/convert-html-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل HTML إلى PowerPoint باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

@@ -4,8 +4,8 @@
 "title": "GroupDocs for .NET Developers を使用して Visio Web 図面を PowerPoint に効率的に変換する"
 "url": "/ja/net/presentation-formats-features/convert-vdw-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs for .NET Developers を使用した Visio Web 図面 (VDW) から PowerPoint プレゼンテーションへの効率的な変換
 
 ## 導入

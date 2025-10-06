@@ -4,8 +4,8 @@
 "title": "Come convertire i file MHT in SVG utilizzando GroupDocs.Conversion per .NET - Tutorial sulla conversione delle immagini"
 "url": "/it/net/image-conversion/convert-mht-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire i file MHT in SVG utilizzando GroupDocs.Conversion per .NET
 ## Tutorial sulla conversione delle immagini
 

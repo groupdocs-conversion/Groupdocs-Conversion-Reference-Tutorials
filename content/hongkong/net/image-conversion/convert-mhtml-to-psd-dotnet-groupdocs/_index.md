@@ -4,8 +4,8 @@
 "title": "使用 .NET 和 GroupDocs 將 MHTML 轉換為 PSD 的綜合指南"
 "url": "/zh-hant/net/image-conversion/convert-mhtml-to-psd-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 透過 .NET 將 MHTML 轉換為 PSD
 
 ## 介紹

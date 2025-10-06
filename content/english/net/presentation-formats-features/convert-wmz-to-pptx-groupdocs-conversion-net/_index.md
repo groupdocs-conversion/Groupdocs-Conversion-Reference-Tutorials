@@ -8,10 +8,8 @@ keywords:
 - WMZ to PPTX conversion
 - GroupDocs.Conversion for .NET
 - document format transformation
-
+type: docs
 ---
-
-
 # Convert WMZ to PPTX Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

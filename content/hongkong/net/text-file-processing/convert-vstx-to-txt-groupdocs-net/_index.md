@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中將 VSTX 轉換為 TXT — 逐步指南"
 "url": "/zh-hant/net/text-file-processing/convert-vstx-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 .NET 中將 VSTX 轉換為 TXT：逐步指南
 
 ## 介紹

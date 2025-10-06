@@ -5,8 +5,8 @@
 "title": "Μετατροπή PPS σε PDF"
 "url": "/el/net/pdf-conversion/convert-pps-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Μετατροπή PPS σε PDF
 
 ## Εισαγωγή

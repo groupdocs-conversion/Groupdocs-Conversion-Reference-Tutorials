@@ -4,8 +4,8 @@
 "title": "Conversión de MPP a PSD con GroupDocs.Conversion para .NET"
 "url": "/es/net/image-formats-features/conversion-mpp-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Conversión de MPP a PSD con GroupDocs.Conversion para .NET
 
 ## Introducción

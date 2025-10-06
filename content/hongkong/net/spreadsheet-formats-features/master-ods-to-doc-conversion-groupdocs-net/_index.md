@@ -4,8 +4,8 @@
 "title": "綜合指南&#58;使用 GroupDocs.Conversion for .NET 將 ODS 轉換為 DOC"
 "url": "/zh-hant/net/spreadsheet-formats-features/master-ods-to-doc-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 綜合指南：使用 GroupDocs.Conversion for .NET 將 ODS 轉換為 DOC
 
 您是否希望將 OpenDocument 電子表格 (ODS) 檔案無縫轉換為 Microsoft Word 文件？ **GroupDocs.Conversion for .NET**，這項任務就變得簡單了。這份全面的指南將逐步引導您完成整個過程。

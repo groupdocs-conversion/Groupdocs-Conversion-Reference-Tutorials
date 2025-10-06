@@ -4,8 +4,8 @@
 "title": "Konvertera PPT-bilder till Excel&#56; Mastering GroupDocs.Conversion för .NET"
 "url": "/sv/net/presentation-conversion/convert-ppt-slides-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera PPT-bilder till Excel med GroupDocs.Conversion för .NET
 
 ## Introduktion

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for Java を使用して、Word から PDF への変換時に変更履歴を非表示にする機能を自動化する"
 "url": "/ja/java/conversion-options/automate-hide-tracked-changes-word-pdf-conversion-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for Java を使用して、Word から PDF への変換時に変更履歴を非表示にする処理を自動化する
 
 ## 導入

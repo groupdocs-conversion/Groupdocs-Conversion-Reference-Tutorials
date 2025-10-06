@@ -5,8 +5,8 @@
 "title": "CF2 konvertálása PDF-be"
 "url": "/hu/net/file-conversion-to-pdf/convert-cf2-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # CF2 konvertálása PDF-be
 
 ## Bevezetés

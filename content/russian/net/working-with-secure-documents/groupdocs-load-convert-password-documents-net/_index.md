@@ -4,8 +4,8 @@
 "title": "Загрузка и преобразование защищенных паролем документов с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/working-with-secure-documents/groupdocs-load-convert-password-documents-net/"
 "weight": 1
+type: docs
 ---
-
 # Загрузка и преобразование защищенных паролем документов с помощью GroupDocs.Conversion для .NET
 
 ## Введение

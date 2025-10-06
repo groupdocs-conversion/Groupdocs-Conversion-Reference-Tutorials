@@ -4,8 +4,8 @@
 "title": "PDF konvertálása ODT-vé a GroupDocs.Conversion for Java használatával – Átfogó útmutató"
 "url": "/hu/java/document-operations/convert-pdf-pages-to-odt-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # PDF oldalak konvertálása ODT-vé a GroupDocs.Conversion segítségével Java-ban
 
 ## Bevezetés

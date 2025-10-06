@@ -4,8 +4,8 @@
 "title": "تحويل ODT إلى TEX بكفاءة باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/word-processing-formats-features/convert-odt-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ODT إلى TEX بكفاءة باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

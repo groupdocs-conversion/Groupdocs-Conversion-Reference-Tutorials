@@ -8,10 +8,8 @@ keywords:
 - ODP to PDF conversion
 - GroupDocs.Conversion for .NET
 - .NET document conversion
-
+type: docs
 ---
-
-
 # Convert ODP Files to PDF Using GroupDocs.Conversion for .NET
 
 ## Introduction

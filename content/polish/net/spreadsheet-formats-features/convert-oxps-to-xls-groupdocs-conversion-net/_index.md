@@ -4,8 +4,8 @@
 "title": "Konwertuj OXPS do XLS za pomocą GroupDocs.Conversion .NET&#58; Kompleksowy przewodnik po formatach i funkcjach arkuszy kalkulacyjnych"
 "url": "/pl/net/spreadsheet-formats-features/convert-oxps-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja OXPS do XLS za pomocą GroupDocs.Conversion .NET: kompleksowy przewodnik
 
 ## Wstęp

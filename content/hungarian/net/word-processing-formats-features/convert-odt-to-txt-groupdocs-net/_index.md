@@ -4,8 +4,8 @@
 "title": "ODT konvertálása TXT-vé .NET-ben a GroupDocs.Conversion használatával – lépésről lépésre útmutató"
 "url": "/hu/net/word-processing-formats-features/convert-odt-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # ODT konvertálása TXT-vé .NET-ben a GroupDocs.Conversion használatával: lépésről lépésre útmutató
 ## Bevezetés
 Szeretné egyszerűsíteni a dokumentumfeldolgozást az Open Document Text (.odt) fájlok egyszerű szöveggé (.txt) konvertálásával? Ha igen, ez a lépésről lépésre szóló útmutató segít a hatékony GroupDocs.Conversion könyvtár használatában .NET környezetben. Ez a funkció elengedhetetlen a szöveges tartalom hatékony kinyeréséhez és kezeléséhez ODT dokumentumokból.

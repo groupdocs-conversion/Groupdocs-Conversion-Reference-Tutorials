@@ -5,8 +5,8 @@
 "title": "DXF CAD ड्राइंग एक्सचेंज फ़ाइलों को PDF में बदलें"
 "url": "/hi/net/convert-files-to-pdf/convert-dxf-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # DXF CAD ड्राइंग एक्सचेंज फ़ाइलों को PDF में बदलें
 
 ## परिचय

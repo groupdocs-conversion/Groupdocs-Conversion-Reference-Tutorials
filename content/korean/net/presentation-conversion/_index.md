@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET을 위한 프레젠테이션 변환 튜토리얼"
 "url": "/ko/net/presentation-conversion/"
 "weight": 31
+type: docs
 ---
-
 # GroupDocs.Conversion .NET을 위한 프레젠테이션 변환 튜토리얼
 
 프레젠테이션 변환 튜토리얼에서는 .NET에서 GroupDocs.Conversion을 사용하여 문서를 슬라이드 기반 형식으로 변환하는 방법을 보여줍니다. 이 실용적인 가이드에서는 PDF, Word, Excel, 이미지 및 기타 형식을 PPT, PPTX, ODP 등으로 변환하는 방법을 다룹니다. 시각적 요소 보존, 가능한 경우 애니메이션 유지, 슬라이드 전환 처리, 발표자 노트 생성, 포함된 미디어 관리, 변환 중 슬라이드 레이아웃 제어 방법을 알아봅니다. 각 튜토리얼에는 청중에게 발표하기 적합한 형식으로 원본 콘텐츠를 효과적으로 표현하는 프레젠테이션 문서를 만드는 자세한 C# 코드 예제가 포함되어 있습니다.

@@ -5,8 +5,8 @@
 "title": "将 VDX 转换为 PDF"
 "url": "/zh/net/file-format-conversion-tutorials/convert-vdx-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # 将 VDX 转换为 PDF
 
 ## 介绍

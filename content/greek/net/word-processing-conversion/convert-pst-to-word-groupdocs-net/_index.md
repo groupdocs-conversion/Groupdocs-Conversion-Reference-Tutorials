@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή εγγράφων PST σε Word χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/word-processing-conversion/convert-pst-to-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική μετατροπή αρχείων PST σε έγγραφα Word με το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

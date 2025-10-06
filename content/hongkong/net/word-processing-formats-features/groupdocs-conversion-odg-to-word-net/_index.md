@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 實現高效的 ODG 到 Word 轉換"
 "url": "/zh-hant/net/word-processing-formats-features/groupdocs-conversion-odg-to-word-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 實現高效的 ODG 到 Word 轉換
 
 在當今的數位時代，無縫轉換文件對於旨在簡化工作流程的企業至關重要。無論您是需要以通用格式呈現專案計劃，還是高效歸檔圖紙，將開放文件繪圖 (ODG) 文件轉換為 Microsoft Word 文件都能帶來翻天覆地的變化。本指南將指導您如何使用 GroupDocs.Conversion for .NET 來實現這一目標。

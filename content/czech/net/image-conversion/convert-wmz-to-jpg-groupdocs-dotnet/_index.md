@@ -4,8 +4,8 @@
 "title": "Snadný převod WMZ do JPG pomocí GroupDocs.Conversion pro .NET | Průvodce konverzí obrázků"
 "url": "/cs/net/image-conversion/convert-wmz-to-jpg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů WMZ do formátu JPG pomocí GroupDocs.Conversion .NET
 
 ## Zavedení

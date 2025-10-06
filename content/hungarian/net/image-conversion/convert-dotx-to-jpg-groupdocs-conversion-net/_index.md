@@ -4,8 +4,8 @@
 "title": "DOTX fájlok JPG formátumba konvertálása a GroupDocs.Conversion for .NET segítségével (lépésről lépésre útmutató)"
 "url": "/hu/net/image-conversion/convert-dotx-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DOTX fájlok JPG formátumba konvertálása a GroupDocs.Conversion for .NET segítségével (lépésről lépésre útmutató)
 
 ## Bevezetés

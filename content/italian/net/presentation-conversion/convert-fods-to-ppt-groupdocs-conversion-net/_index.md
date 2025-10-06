@@ -4,8 +4,8 @@
 "title": "Come convertire i file FODS in PowerPoint utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/presentation-conversion/convert-fods-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire un file FODS in PowerPoint utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

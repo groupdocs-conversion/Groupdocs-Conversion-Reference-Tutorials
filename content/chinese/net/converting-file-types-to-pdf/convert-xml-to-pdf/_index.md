@@ -5,8 +5,8 @@
 "title": "XML 转 PDF"
 "url": "/zh/net/converting-file-types-to-pdf/convert-xml-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # XML 转 PDF
 
 ## 介绍

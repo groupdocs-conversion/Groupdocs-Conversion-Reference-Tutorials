@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Java&#58; का उपयोग करके कस्टम आयामों के साथ CAD को TIFF में कनवर्ट करें एक व्यापक गाइड"
 "url": "/hi/java/cad-formats/cad-conversion-tiff-custom-dimensions-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion का उपयोग करके कस्टम आयामों के साथ CAD को TIFF में कनवर्ट करें Java: एक व्यापक गाइड
 
 ## परिचय

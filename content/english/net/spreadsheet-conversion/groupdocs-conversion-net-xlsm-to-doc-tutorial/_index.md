@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion .NET
 - XLSM to DOC conversion
 - GroupDocs.Conversion setup
-
+type: docs
 ---
-
-
 # How to Convert XLSM Files to DOC with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 實現 EPS 到 TEX 的高效轉換"
 "url": "/zh-hant/net/image-conversion/eps-to-tex-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 掌握 EPS 到 TEX 的轉換
 
 ## 介紹

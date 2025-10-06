@@ -4,8 +4,8 @@
 "title": "Chuyển đổi VSSM sang PPT hiệu quả bằng GroupDocs.Conversion .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/presentation-formats-features/convert-vssm-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp VSSM sang bản trình bày PowerPoint bằng GroupDocs.Conversion .NET
 ## Giới thiệu
 Trong thế giới kỹ thuật số phát triển nhanh như hiện nay, việc chuyển đổi hiệu quả các tệp giữa các định dạng khác nhau là điều cần thiết. Bạn đang gặp khó khăn khi chuyển đổi các tệp Microsoft Visio Macro-Enabled (.vssm) thành PowerPoint Presentations (.ppt)? Hướng dẫn này sẽ hướng dẫn bạn giải pháp hiệu quả bằng cách sử dụng thư viện GroupDocs.Conversion .NET.

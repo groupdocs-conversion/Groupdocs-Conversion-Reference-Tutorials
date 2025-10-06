@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert DOT to CSV using GroupDocs.Conversion .NET: A Comprehensive Guide
 
 ## Introduction

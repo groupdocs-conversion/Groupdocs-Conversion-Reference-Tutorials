@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi PostScript (PS) ke Teks Biasa Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/text-markup-conversion/convert-ps-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi PostScript (PS) ke Teks Biasa Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

@@ -4,8 +4,8 @@
 "title": "Automatize a conversão de TSV para PPTX usando o GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/presentation-formats-features/automate-tsv-to-pptx-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Automatize a conversão de TSV para PPTX usando o GroupDocs.Conversion para .NET: um guia completo
 
 ## Introdução

@@ -4,8 +4,8 @@
 "title": "تحويل ملفات IGS إلى TXT باستخدام GroupDocs.Conversion لـ .NET - دليل خطوة بخطوة"
 "url": "/ar/net/cad-technical-drawing-formats/convert-igs-to-txt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ملفات IGS إلى TXT باستخدام GroupDocs.Conversion لـ .NET: دليل خطوة بخطوة
 
 ## مقدمة

@@ -4,8 +4,8 @@
 "title": "ODP konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/html-conversion/convert-odp-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # ODP HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

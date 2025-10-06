@@ -4,8 +4,8 @@
 "title": "Converteer EMZ eenvoudig naar SVG met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/image-conversion/convert-emz-to-svg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converteer EMZ eenvoudig naar SVG met GroupDocs.Conversion voor .NET
 
 ## Invoering

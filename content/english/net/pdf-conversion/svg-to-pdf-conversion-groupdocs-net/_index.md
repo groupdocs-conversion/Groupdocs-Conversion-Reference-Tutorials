@@ -8,10 +8,8 @@ keywords:
 - .NET SVG to PDF conversion
 - GroupDocs.Conversion for .NET
 - SVG files to PDF
-
+type: docs
 ---
-
-
 # Convert SVG to PDF in .NET Using GroupDocs.Conversion: A Comprehensive Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi XLTM sang XLS bằng GroupDocs.Conversion cho .NET | Hướng dẫn chuyển đổi bảng tính"
 "url": "/vi/net/spreadsheet-conversion/convert-xl-tm-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi XLTM sang XLS bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

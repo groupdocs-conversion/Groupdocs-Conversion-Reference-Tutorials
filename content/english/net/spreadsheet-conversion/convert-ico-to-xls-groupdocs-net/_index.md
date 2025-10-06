@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert ICO Files to XLS Using GroupDocs.Conversion for .NET
 
 ## Introduction

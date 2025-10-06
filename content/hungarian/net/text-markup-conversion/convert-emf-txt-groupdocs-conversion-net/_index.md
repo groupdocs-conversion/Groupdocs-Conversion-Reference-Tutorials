@@ -4,8 +4,8 @@
 "title": "EMF konvertálása TXT-vé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/text-markup-conversion/convert-emf-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # EMF konvertálása TXT-vé a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

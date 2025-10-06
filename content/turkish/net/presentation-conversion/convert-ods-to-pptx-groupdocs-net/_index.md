@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET ile ODS'den PPTX'e Dönüşümü Ustalaştırın"
 "url": "/tr/net/presentation-conversion/convert-ods-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET ile ODS'den PPTX'e Dönüşümde Ustalaşma
 
 ## giriiş

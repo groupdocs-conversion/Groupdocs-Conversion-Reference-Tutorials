@@ -4,8 +4,8 @@
 "title": "MHT fájlok konvertálása Word dokumentumokká a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/word-processing-conversion/convert-mht-to-word-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # MHT fájlok konvertálása Word dokumentumokká a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

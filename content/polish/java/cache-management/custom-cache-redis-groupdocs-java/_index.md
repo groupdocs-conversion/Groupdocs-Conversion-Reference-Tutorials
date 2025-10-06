@@ -4,8 +4,8 @@
 "title": "Jak wdrożyć niestandardowe buforowanie w Javie przy użyciu Redis i GroupDocs.Conversion"
 "url": "/pl/java/cache-management/custom-cache-redis-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Jak wdrożyć niestandardowe buforowanie w Javie przy użyciu Redis i GroupDocs.Conversion
 
 ## Wstęp

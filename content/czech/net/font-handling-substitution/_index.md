@@ -3,8 +3,8 @@
 "title": "Výukové programy pro práci s fonty a jejich nahrazování v GroupDocs.Conversion .NET"
 "url": "/cs/net/font-handling-substitution/"
 "weight": 22
+type: docs
 ---
-
 # Výukové programy pro práci s fonty a jejich nahrazování v GroupDocs.Conversion .NET
 
 Prozkoumejte možnosti správy písem v našich komplexních tutoriálech GroupDocs.Conversion pro .NET. Tyto podrobné návody ukazují, jak zadat možnosti nahrazování písem v různých typech dokumentů, včetně formátů Word, Excel, PowerPoint a pro psaní poznámek, jak zpracovat chybějící písma, implementovat zásady vkládání písem, spravovat požadavky na licencování písem, řídit chování záložních písem, zachovat styly a formátování písem a zajistit konzistentní vzhled textu napříč různými platformami. Každý tutoriál obsahuje praktické příklady kódu C# pro operace související s písmy, které vám pomohou vytvářet aplikace, které zachovávají věrnost dokumentu i při řešení problémů s dostupností písem.

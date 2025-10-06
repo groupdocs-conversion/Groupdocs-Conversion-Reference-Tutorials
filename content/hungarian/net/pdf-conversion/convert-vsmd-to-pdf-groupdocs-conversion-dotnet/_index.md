@@ -4,8 +4,8 @@
 "title": "VSDM konvertálása PDF-be .NET-ben a GroupDocs.Conversion használatával – lépésről lépésre útmutató"
 "url": "/hu/net/pdf-conversion/convert-vsmd-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # VSDM fájlok konvertálása PDF-be a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

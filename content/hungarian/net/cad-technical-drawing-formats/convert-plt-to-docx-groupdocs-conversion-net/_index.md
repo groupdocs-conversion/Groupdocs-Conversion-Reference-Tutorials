@@ -4,8 +4,8 @@
 "title": "PLT fájlok DOCX formátumba konvertálása a GroupDocs.Conversion for .NET segítségével (lépésről lépésre útmutató)"
 "url": "/hu/net/cad-technical-drawing-formats/convert-plt-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PLT fájlok DOCX formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

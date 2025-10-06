@@ -4,8 +4,8 @@
 "title": "OTG fájlok egyszerű PPT-vé konvertálása – GroupDocs.Conversion for .NET oktatóanyag"
 "url": "/hu/net/presentation-formats-features/convert-otg-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OTG konvertálása PPT-vé a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Comment convertir des fichiers PCL en DOC à l'aide de GroupDocs.Conversion pour .NET ? Guide étape par étape"
 "url": "/fr/net/word-processing-formats-features/convert-pcl-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir des fichiers PCL en DOC avec GroupDocs.Conversion pour .NET : guide étape par étape
 
 ## Introduction

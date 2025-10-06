@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion के साथ .NET में कुशल दस्तावेज़ पथ प्रबंधन&#58; निर्बाध रूपांतरणों के लिए स्थिरांक परिभाषित करना"
 "url": "/hi/net/conversion-options-settings/groupdocs-net-define-document-paths/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion के साथ .NET में कुशल दस्तावेज़ पथ प्रबंधन
 
 ## परिचय

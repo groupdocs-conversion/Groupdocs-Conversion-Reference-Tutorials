@@ -4,8 +4,8 @@
 "title": "使用 .NET 中的 GroupDocs.Conversion 将 FODP 转换为 TXT — 分步指南"
 "url": "/zh/net/text-markup-conversion/convert-fodp-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 .NET 中的 GroupDocs.Conversion 将 FODP 文件转换为 TXT
 
 ## 介绍

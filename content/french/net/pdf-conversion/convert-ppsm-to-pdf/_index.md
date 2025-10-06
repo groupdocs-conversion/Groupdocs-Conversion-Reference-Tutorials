@@ -5,8 +5,8 @@
 "title": "Convertir PPSM en PDF"
 "url": "/fr/net/pdf-conversion/convert-ppsm-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Convertir PPSM en PDF
 
 ## Introduction

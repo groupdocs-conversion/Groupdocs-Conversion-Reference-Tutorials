@@ -4,8 +4,8 @@
 "title": "تحويلات تنسيقات الملفات الرئيسية في .NET باستخدام GroupDocs.Conversion"
 "url": "/ar/net/conversion-utilities-information/groupdocs-conversion-net-file-format-mastery/"
 "weight": 1
+type: docs
 ---
-
 # إتقان تحويلات تنسيقات الملفات في .NET باستخدام GroupDocs.Conversion
 
 مرحبًا بكم في دليلنا الشامل حول الاستفادة من مكتبة GroupDocs.Conversion لـ .NET لإدارة تحويلات تنسيقات الملفات بكفاءة. سيساعدك هذا البرنامج التعليمي على فهم كيفية استرجاع جميع تنسيقات التحويل المتاحة عبر واجهة برمجة التطبيقات (API)، مما يُسهّل عمليات إدارة المستندات ويضمن تكاملاً متعدد الاستخدامات مع تطبيقاتك.

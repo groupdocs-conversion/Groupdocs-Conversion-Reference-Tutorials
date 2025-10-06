@@ -4,8 +4,8 @@
 "title": "VSX naar PPT converteren met GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/presentation-formats-features/convert-vsx-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer VSX-bestanden naar PowerPoint-presentaties met GroupDocs.Conversion voor .NET
 
 ## Invoering

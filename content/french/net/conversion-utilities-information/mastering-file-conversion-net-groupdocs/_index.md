@@ -4,8 +4,8 @@
 "title": "Maîtriser la conversion de fichiers dans .NET à l'aide de GroupDocs.Conversion - Guide du développeur"
 "url": "/fr/net/conversion-utilities-information/mastering-file-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Maîtriser la conversion de fichiers dans .NET avec GroupDocs.Conversion : votre guide ultime pour les développeurs
 
 ## Introduction

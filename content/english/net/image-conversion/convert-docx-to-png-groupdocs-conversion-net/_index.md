@@ -8,10 +8,8 @@ keywords:
 - DOCX to PNG Conversion
 - GroupDocs.Conversion for .NET
 - Automated Image Conversion
-
+type: docs
 ---
-
-
 # Efficient DOCX to PNG Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

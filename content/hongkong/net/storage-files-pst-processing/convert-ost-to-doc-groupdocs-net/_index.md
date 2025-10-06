@@ -4,8 +4,8 @@
 "title": "使用 .NET 中的 GroupDocs.Conversion 將 OST 轉換為 DOC — 逐步指南"
 "url": "/zh-hant/net/storage-files-pst-processing/convert-ost-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 .NET 中的 GroupDocs.Conversion 將 OST 轉換為 DOC
 ## 介紹
 您是否希望有效率地將 Outlook OST 檔案轉換為 Word 文件？使用 **GroupDocs.Conversion for .NET**將 OST 檔案轉換為 DOC 格式非常簡單。本教學將引導您完成整個過程，確保您能夠有效地管理資料。

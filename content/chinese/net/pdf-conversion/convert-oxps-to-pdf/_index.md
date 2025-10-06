@@ -5,8 +5,8 @@
 "title": "将 OXPS 转换为 PDF"
 "url": "/zh/net/pdf-conversion/convert-oxps-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # 将 OXPS 转换为 PDF
 
 ## 介绍

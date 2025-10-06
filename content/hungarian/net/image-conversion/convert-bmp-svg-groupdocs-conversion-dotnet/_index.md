@@ -4,8 +4,8 @@
 "title": "BMP fájlok SVG formátumba konvertálása .NET-ben a GroupDocs.Conversion használatával a zökkenőmentes képátalakításokhoz"
 "url": "/hu/net/image-conversion/convert-bmp-svg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # BMP fájlok SVG formátumba konvertálása .NET-ben a GroupDocs.Conversion használatával a zökkenőmentes képátalakításokhoz
 
 ## Bevezetés

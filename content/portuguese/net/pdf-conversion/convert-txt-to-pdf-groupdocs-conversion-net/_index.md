@@ -4,8 +4,8 @@
 "title": "Conversão de TXT para PDF sem esforço - Domine o GroupDocs.Conversion para .NET em minutos"
 "url": "/pt/net/pdf-conversion/convert-txt-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Conversão de TXT para PDF sem esforço: Domine o GroupDocs.Conversion para .NET em minutos
 
 ## Introdução

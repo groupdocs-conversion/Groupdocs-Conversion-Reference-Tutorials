@@ -4,8 +4,8 @@
 "title": "Convierta MPX a DOCX fácilmente&#58; Guía de GroupDocs.Conversion para .NET"
 "url": "/es/net/word-processing-conversion/convert-mpx-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir MPX a DOCX usando GroupDocs.Conversion para .NET
 
 ## Introducción

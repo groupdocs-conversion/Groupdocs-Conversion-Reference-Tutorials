@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion'da .NET&#58; için Akıştan Lisans Ayarlama Kapsamlı Bir Kılavuz"
 "url": "/tr/net/getting-started-licensing/groupdocs-conversion-net-set-license-stream/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET'te Stream'den Lisans Ayarlama: Kapsamlı Bir Kılavuz
 
 ## giriiş

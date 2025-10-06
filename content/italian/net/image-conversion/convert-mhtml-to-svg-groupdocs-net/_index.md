@@ -4,8 +4,8 @@
 "title": "Convertire MHTML in SVG utilizzando GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/image-conversion/convert-mhtml-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire MHTML in SVG utilizzando GroupDocs.Conversion per .NET: una guida completa
 
 ## Introduzione

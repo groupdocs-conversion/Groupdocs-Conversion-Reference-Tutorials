@@ -5,8 +5,8 @@
 "title": "Conversion de documents"
 "url": "/fr/net/document-conversion/"
 "weight": 23
+type: docs
 ---
-
 # Conversion de documents
 
 ## Introduction

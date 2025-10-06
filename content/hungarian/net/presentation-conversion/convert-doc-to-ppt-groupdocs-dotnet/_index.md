@@ -4,8 +4,8 @@
 "title": "DOC fájlok hatékony konvertálása PPT-vé .NET-ben a GroupDocs.Conversion használatával – Átfogó útmutató"
 "url": "/hu/net/presentation-conversion/convert-doc-to-ppt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # DOC fájlok hatékony konvertálása PPT-vé .NET-ben a GroupDocs.Conversion használatával
 
 ## Bevezetés

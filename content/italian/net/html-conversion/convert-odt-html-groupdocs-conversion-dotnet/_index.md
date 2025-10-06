@@ -4,8 +4,8 @@
 "title": "Come convertire ODT in HTML utilizzando GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/html-conversion/convert-odt-html-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire ODT in HTML utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

@@ -4,8 +4,8 @@
 "title": "แปลง FODS เป็น PDF โดยใช้ GroupDocs.Conversion สำหรับ .NET&#58; คำแนะนำทีละขั้นตอน"
 "url": "/th/net/pdf-conversion/convert-fods-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลง FODS เป็น PDF โดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert XML to LaTeX (.tex) Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 In the realm of document processing, converting files from one format to another is a common requirement. Whether it's for academic purposes or business documentation, transforming an XML file into a LaTeX (TEX) format can streamline workflows and enhance document presentation. This comprehensive guide will walk you through using GroupDocs.Conversion for .NET to achieve this seamlessly.

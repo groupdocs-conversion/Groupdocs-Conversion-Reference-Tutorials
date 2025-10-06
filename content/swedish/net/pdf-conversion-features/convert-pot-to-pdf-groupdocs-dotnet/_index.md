@@ -4,8 +4,8 @@
 "title": "Konvertera PowerPoint-mall (.pot) till PDF med GroupDocs.Conversion för .NET"
 "url": "/sv/net/pdf-conversion-features/convert-pot-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar en PowerPoint-mallfil (.pot) till PDF med GroupDocs.Conversion för .NET
 
 ## Introduktion

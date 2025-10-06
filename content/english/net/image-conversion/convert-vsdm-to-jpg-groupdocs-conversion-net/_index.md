@@ -8,10 +8,8 @@ keywords:
 - convert VSDM to JPG
 - GroupDocs Conversion .NET
 - VSDM file conversion
-
+type: docs
 ---
-
-
 # How to Convert VSDM Files to JPG Using GroupDocs.Conversion for .NET
 
 ## Introduction

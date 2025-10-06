@@ -4,8 +4,8 @@
 "title": "แปลง PowerPoint เป็น PDF ด้วยการแทนที่แบบอักษรใน .NET โดยใช้ GroupDocs.Conversion"
 "url": "/th/net/pdf-conversion-features/groupdocs-conversion-net-presentation-to-pdf-font-substitution/"
 "weight": 1
+type: docs
 ---
-
 # แปลง PowerPoint เป็น PDF ด้วยการแทนที่แบบอักษรใน .NET โดยใช้ GroupDocs.Conversion
 
 ## การแนะนำ

@@ -4,8 +4,8 @@
 "title": "Konversi VDW ke DOC Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Langkah demi Langkah"
 "url": "/id/net/cad-technical-drawing-formats/convert-vdw-doc-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konversi VDW ke DOC Menggunakan GroupDocs.Conversion untuk .NET: Panduan Langkah demi Langkah
 
 ## Perkenalan

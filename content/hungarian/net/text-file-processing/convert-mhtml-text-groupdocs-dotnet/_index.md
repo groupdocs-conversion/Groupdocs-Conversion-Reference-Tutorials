@@ -4,8 +4,8 @@
 "title": "Hogyan konvertáljunk MHTML-t szöveggé C#-ban a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/text-file-processing/convert-mhtml-text-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertáljunk MHTML-t szöveggé C#-ban a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

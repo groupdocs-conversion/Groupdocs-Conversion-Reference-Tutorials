@@ -4,8 +4,8 @@
 "title": "แปลงสเปรดชีตเป็น PDF ด้วย GroupDocs การแปลงสำหรับ Java - คู่มือฉบับสมบูรณ์"
 "url": "/th/java/spreadsheet-formats/convert-spreadsheets-to-pdfs-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # แปลงสเปรดชีตเป็น PDF ด้วย GroupDocs การแปลงสำหรับ Java: คู่มือที่ครอบคลุม
 
 ## การแนะนำ

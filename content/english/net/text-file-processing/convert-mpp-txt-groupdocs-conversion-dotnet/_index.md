@@ -8,10 +8,8 @@ keywords:
 - MPP to TXT conversion
 - GroupDocs.Conversion for .NET
 - .NET file processing
-
+type: docs
 ---
-
-
 # Mastering Microsoft Project File Conversion: Using GroupDocs.Conversion for .NET
 
 ## Introduction

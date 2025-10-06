@@ -5,8 +5,8 @@
 "title": "XMLをPDFに変換する"
 "url": "/ja/net/converting-file-types-to-pdf/convert-xml-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # XMLをPDFに変換する
 
 ## 導入

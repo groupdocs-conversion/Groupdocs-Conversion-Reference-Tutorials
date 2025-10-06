@@ -4,8 +4,8 @@
 "title": "Převod EML do PDF v .NET s časovým posunem – Komplexní průvodce pomocí GroupDocs.Conversion"
 "url": "/cs/net/email-formats-features/convert-eml-pdf-net-timezone-offset-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Převod EML do PDF v .NET s časovým posunem: Komplexní průvodce používáním GroupDocs.Conversion
 ## Zavedení
 Potřebujete spolehlivý způsob, jak převést e-mailové dokumenty (EML) do PDF a zároveň zachovat přesné informace o časovém pásmu? Ať už se jedná o archivaci, sdílení nebo dodržování předpisů, tento tutoriál vás provede používáním výkonné knihovny GroupDocs.Conversion pro .NET. Naučíte se, jak snadno implementovat pokročilé funkce, jako jsou časové posuny.

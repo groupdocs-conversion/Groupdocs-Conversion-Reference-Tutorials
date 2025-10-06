@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके MOBI को PPT में परिवर्तित करें एक व्यापक गाइड"
 "url": "/hi/net/presentation-conversion/convert-mobi-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके MOBI को PPT में परिवर्तित करें: एक व्यापक मार्गदर्शिका
 ## .NET के लिए MOBI फ़ाइलों को PPT में कनवर्ट करने के लिए GroupDocs.Conversion का उपयोग कैसे करें
 

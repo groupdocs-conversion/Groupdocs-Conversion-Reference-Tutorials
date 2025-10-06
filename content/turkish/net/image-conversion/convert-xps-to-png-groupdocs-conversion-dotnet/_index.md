@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak XPS'i PNG'ye Dönüştürme - Kolay Görüntü Dönüştürme Kılavuzu"
 "url": "/tr/net/image-conversion/convert-xps-to-png-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak XPS'i PNG'ye Dönüştürme
 
 ## giriiş

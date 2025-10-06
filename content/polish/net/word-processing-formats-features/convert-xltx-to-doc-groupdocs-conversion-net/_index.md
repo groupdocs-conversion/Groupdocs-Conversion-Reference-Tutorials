@@ -4,8 +4,8 @@
 "title": "Konwersja szablonu programu Excel (.xltx) do dokumentu programu Word (DOC) przy użyciu narzędzia GroupDocs.Conversion dla platformy .NET"
 "url": "/pl/net/word-processing-formats-features/convert-xltx-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja szablonu programu Excel (.xltx) do dokumentu programu Word (DOC) przy użyciu narzędzia GroupDocs.Conversion dla platformy .NET
 ## Wstęp
 Witamy w tym kompleksowym przewodniku dotyczącym konwersji pliku szablonu programu Excel (.xltx) do formatu dokumentu programu Word (DOC) przy użyciu potężnej biblioteki GroupDocs.Conversion for .NET. To rozwiązanie jest niezbędne w przepływach pracy zarządzania dokumentami, umożliwiając bezproblemową integrację szablonów bogatych w dane z dokumentami tekstowymi.

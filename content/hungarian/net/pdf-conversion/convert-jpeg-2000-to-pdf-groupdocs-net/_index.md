@@ -4,8 +4,8 @@
 "title": "Lépésről lépésre útmutató&#58; JPEG 2000 (.j2k) fájlok konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/pdf-conversion/convert-jpeg-2000-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Lépésről lépésre útmutató: JPEG 2000 (.j2k) fájlok konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

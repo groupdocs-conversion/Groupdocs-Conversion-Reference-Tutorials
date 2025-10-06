@@ -4,8 +4,8 @@
 "title": "Convertire file Adobe Illustrator in Word utilizzando GroupDocs.Conversion .NET&#58; una guida passo passo"
 "url": "/it/net/word-processing-formats-features/convert-ai-to-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire i file di Adobe Illustrator in documenti Word utilizzando GroupDocs.Conversion .NET
 
 ## Introduzione

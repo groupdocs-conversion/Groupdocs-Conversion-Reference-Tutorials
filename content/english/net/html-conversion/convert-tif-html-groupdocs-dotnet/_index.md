@@ -8,10 +8,8 @@ keywords:
 - convert TIFF to HTML
 - GroupDocs.Conversion for .NET
 - .NET image conversion
-
+type: docs
 ---
-
-
 # Convert TIFF to HTML in .NET Using GroupDocs.Conversion
 
 ## Introduction

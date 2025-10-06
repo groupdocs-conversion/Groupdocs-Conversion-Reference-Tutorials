@@ -4,8 +4,8 @@
 "title": "แปลง MPT เป็น CSV โดยใช้ GroupDocs.Conversion สำหรับ .NET พร้อมคำแนะนำทีละขั้นตอน"
 "url": "/th/net/csv-structured-data-processing/convert-mpt-to-csv-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการแปลงไฟล์ MPT เป็น CSV โดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

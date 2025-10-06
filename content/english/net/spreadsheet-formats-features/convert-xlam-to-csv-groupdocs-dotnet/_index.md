@@ -8,10 +8,8 @@ keywords:
 - convert XLAM to CSV
 - GroupDocs.Conversion for .NET
 - Excel Macro-Enabled Add-In conversion
-
+type: docs
 ---
-
-
 # How to Convert XLAM to CSV Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

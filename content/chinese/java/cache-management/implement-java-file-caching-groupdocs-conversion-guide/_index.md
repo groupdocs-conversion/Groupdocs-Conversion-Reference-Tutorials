@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 进行 Java 文件缓存——高效文档转换的综合指南"
 "url": "/zh/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion 实现 Java 文件缓存以实现高效的文档转换
 
 ## 介绍

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak Adobe Illustrator Dosyalarını Metne Dönüştürün"
 "url": "/tr/net/text-file-processing/convert-illustrator-files-to-text-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak Adobe Illustrator Dosyalarını Metne Dönüştürün
 
 ## giriiş

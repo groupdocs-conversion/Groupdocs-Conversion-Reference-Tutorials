@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 DCM 檔案轉換為 XLSX 的逐步指南"
 "url": "/zh-hant/net/spreadsheet-formats-features/convert-dcm-to-xlsx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 DCM 檔案轉換為 XLSX 的逐步指南
 
 ## 介紹

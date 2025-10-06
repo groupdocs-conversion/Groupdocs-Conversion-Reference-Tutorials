@@ -4,8 +4,8 @@
 "title": "تحويل ODP إلى PPTX بسهولة باستخدام GroupDocs.Conversion لـ .NET - دليل خطوة بخطوة"
 "url": "/ar/net/presentation-formats-features/convert-odp-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ODP إلى PPTX بسهولة باستخدام GroupDocs.Conversion لـ .NET: دليل خطوة بخطوة
 
 ## مقدمة

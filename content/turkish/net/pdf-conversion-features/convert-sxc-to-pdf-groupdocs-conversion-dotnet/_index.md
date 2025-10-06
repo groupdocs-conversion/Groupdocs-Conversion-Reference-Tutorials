@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak SXC'yi Kolayca PDF'ye Dönüştürün | Nihai Kılavuz"
 "url": "/tr/net/pdf-conversion-features/convert-sxc-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET ile SXC Dosyalarını Kolayca PDF'ye Dönüştürün
 
 ## giriiş

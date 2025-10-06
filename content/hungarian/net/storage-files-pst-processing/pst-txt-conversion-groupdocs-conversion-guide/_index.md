@@ -4,8 +4,8 @@
 "title": "Hatékony PST-TXT konvertálás a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/storage-files-pst-processing/pst-txt-conversion-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony PST-TXT konvertálás a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

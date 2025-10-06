@@ -4,8 +4,8 @@
 "title": "Převod SVGZ do HTML pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/web-markup-formats/convert-svgz-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod SVGZ do HTML pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

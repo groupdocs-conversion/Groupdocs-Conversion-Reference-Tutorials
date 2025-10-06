@@ -4,8 +4,8 @@
 "title": "Konversi DJVU ke DOCX dengan Mudah dengan GroupDocs untuk .NET&#58; Panduan Langkah demi Langkah"
 "url": "/id/net/word-processing-conversion/convert-djvu-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi DJVU ke DOCX dengan Mudah Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

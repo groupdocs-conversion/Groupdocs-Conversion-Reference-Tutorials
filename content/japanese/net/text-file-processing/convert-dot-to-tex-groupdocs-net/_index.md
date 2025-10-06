@@ -4,8 +4,8 @@
 "title": ".NETでGroupDocs.Conversionを使用してDOTをTEXに変換する手順"
 "url": "/ja/net/text-file-processing/convert-dot-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET で GroupDocs.Conversion を使用して DOT を TEX に変換する: ステップバイステップ ガイド
 
 ## 導入

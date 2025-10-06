@@ -5,8 +5,8 @@
 "title": "將 OTG 轉換為 PDF"
 "url": "/zh-hant/net/pdf-conversion/convert-otg-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # 將 OTG 轉換為 PDF
 
 ## 介紹

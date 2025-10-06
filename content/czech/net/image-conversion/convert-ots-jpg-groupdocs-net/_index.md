@@ -4,8 +4,8 @@
 "title": "Jak převést soubory OTS do formátu JPG pomocí GroupDocs.Conversion pro .NET - Průvodce převodem obrázků"
 "url": "/cs/net/image-conversion/convert-ots-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory OTS do formátu JPG pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

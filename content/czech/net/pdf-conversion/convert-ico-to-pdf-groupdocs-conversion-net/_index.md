@@ -4,8 +4,8 @@
 "title": "Snadný převod ICO do PDF pomocí GroupDocs.Conversion pro .NET | Podrobný návod"
 "url": "/cs/net/pdf-conversion/convert-ico-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod ICO do PDF pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

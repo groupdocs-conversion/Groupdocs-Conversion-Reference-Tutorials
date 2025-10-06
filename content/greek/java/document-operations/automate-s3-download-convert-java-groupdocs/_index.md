@@ -4,8 +4,8 @@
 "title": "Αυτοματοποιήστε τη λήψη και τη μετατροπή εγγράφων S3 σε Java χρησιμοποιώντας το GroupDocs.Conversion"
 "url": "/el/java/document-operations/automate-s3-download-convert-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Αυτοματοποίηση λήψης και μετατροπής εγγράφων S3 σε Java
 
 ## Πώς να κατεβάσετε και να μετατρέψετε έγγραφα από το Amazon S3 χρησιμοποιώντας το GroupDocs.Conversion σε Java

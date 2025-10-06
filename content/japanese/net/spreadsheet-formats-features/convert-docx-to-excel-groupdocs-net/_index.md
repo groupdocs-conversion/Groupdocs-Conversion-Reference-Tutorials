@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して DOCX テンプレートを Excel に変換する方法 - 包括的なガイド"
 "url": "/ja/net/spreadsheet-formats-features/convert-docx-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して DOCX テンプレートを Excel に変換する方法: 包括的なガイド
 
 ## 導入

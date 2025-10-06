@@ -8,10 +8,8 @@ keywords:
 - CF2 to PNG conversion
 - GroupDocs.Conversion .NET library
 - programmatic file conversion
-
+type: docs
 ---
-
-
 # Convert CF2 to PNG with GroupDocs.Conversion .NET: Step-by-Step Guide
 
 ## Introduction

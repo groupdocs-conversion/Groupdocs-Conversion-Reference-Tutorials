@@ -8,10 +8,8 @@ keywords:
 - convert J2K to TEX
 - JPEG 2000 to LaTeX conversion
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # Convert JPEG 2000 (.j2k) Files to LaTeX (.tex) Using GroupDocs.Conversion for .NET
 
 ## Introduction

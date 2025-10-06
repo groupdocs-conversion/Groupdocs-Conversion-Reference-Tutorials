@@ -4,8 +4,8 @@
 "title": "EPUB konvertálása TEX-re a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/text-markup-conversion/convert-epub-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # EPUB konvertálása TEX-re a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

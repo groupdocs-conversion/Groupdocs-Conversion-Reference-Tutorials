@@ -5,8 +5,8 @@
 "title": "VTX konvertálása PDF-be"
 "url": "/hu/net/converting-file-types-to-pdf/convert-vtx-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # VTX konvertálása PDF-be
 
 ## Bevezetés

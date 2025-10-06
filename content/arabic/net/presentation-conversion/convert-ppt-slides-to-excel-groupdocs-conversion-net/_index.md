@@ -4,8 +4,8 @@
 "title": "تحويل شرائح PPT إلى Excel - إتقان GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/presentation-conversion/convert-ppt-slides-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل شرائح PPT إلى Excel باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

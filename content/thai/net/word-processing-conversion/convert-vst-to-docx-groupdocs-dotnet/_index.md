@@ -4,8 +4,8 @@
 "title": "แปลง VST เป็น DOCX ใน .NET โดยใช้ GroupDocs.Conversion คำแนะนำทีละขั้นตอน"
 "url": "/th/net/word-processing-conversion/convert-vst-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # แปลง VST เป็น DOCX ใน .NET โดยใช้ GroupDocs.Conversion: คำแนะนำทีละขั้นตอน
 
 ## การแนะนำ

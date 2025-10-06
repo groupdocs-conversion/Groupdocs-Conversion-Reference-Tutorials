@@ -8,10 +8,8 @@ keywords:
 - PS to PDF conversion
 - GroupDocs.Conversion for .NET
 - PostScript file conversion
-
+type: docs
 ---
-
-
 # How to Convert PS to PDF Using GroupDocs.Conversion in .NET: A Step-by-Step Guide
 
 ## Introduction

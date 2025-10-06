@@ -4,8 +4,8 @@
 "title": "Converteer DOCM naar TXT met GroupDocs.Conversion voor .NET | Vereenvoudigde verwerking van tekstbestanden"
 "url": "/nl/net/text-file-processing/convert-docm-to-txt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Een Microsoft Word-document met macro's (DOCM) converteren naar platte tekst (.txt) met GroupDocs.Conversion voor .NET
 
 ## Invoering

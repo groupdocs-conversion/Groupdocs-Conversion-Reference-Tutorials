@@ -4,8 +4,8 @@
 "title": "Convertir des feuilles de calcul en PDF à l'aide du guide étape par étape de GroupDocs.Conversion pour .NET"
 "url": "/fr/net/pdf-conversion/convert-spreadsheets-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des feuilles de calcul en PDF avec GroupDocs.Conversion pour .NET : guide étape par étape
 
 ## Introduction

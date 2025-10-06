@@ -3,8 +3,8 @@
 "title": "Tutorial Pemrosesan Berkas Teks untuk GroupDocs.Conversion .NET"
 "url": "/id/net/text-file-processing/"
 "weight": 17
+type: docs
 ---
-
 # Tutorial Pemrosesan Berkas Teks untuk GroupDocs.Conversion .NET
 
 Tutorial konversi berkas teks kami menunjukkan kepada Anda cara bekerja dengan konten teks biasa menggunakan GroupDocs.Conversion di .NET. Panduan terperinci ini membahas cara mengendalikan perilaku spasi di awal dan akhir selama konversi teks, menentukan opsi penyandian untuk berkas teks, mempertahankan format jika memungkinkan, menangani jeda baris dan karakter khusus, menerapkan kebijakan pembungkusan teks, menyiapkan pagination untuk teks yang dikonversi, dan mengelola persyaratan teks dua arah. Setiap tutorial mencakup contoh kode C# yang berfungsi untuk skenario konversi berkas teks, membantu Anda membangun aplikasi yang dapat memproses teks biasa secara efektif sambil mempertahankan keterbacaan dan struktur dalam output.

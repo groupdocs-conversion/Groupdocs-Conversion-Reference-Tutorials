@@ -4,8 +4,8 @@
 "title": "Внедрение измеренного лицензирования с помощью GroupDocs.Conversion для .NET&#58; Подробное руководство"
 "url": "/ru/net/getting-started-licensing/metered-licensing-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Реализация измеренного лицензирования с помощью GroupDocs.Conversion для .NET
 
 ## Введение

@@ -5,8 +5,8 @@
 "title": "将 DOTX Word 模板转换为 PDF"
 "url": "/zh/net/file-conversion-to-pdf/convert-dotx-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # 将 DOTX Word 模板转换为 PDF
 
 ## 介绍

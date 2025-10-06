@@ -8,10 +8,8 @@ keywords:
 - OTS to XLS Conversion
 - GroupDocs.Conversion for .NET
 - Spreadsheet Conversion
-
+type: docs
 ---
-
-
 # Convert OTS Files to XLS Format with GroupDocs.Conversion for .NET
 
 ## Introduction

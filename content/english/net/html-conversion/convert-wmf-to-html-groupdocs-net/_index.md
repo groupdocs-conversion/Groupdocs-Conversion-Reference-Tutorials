@@ -8,10 +8,8 @@ keywords:
 - convert WMF to HTML
 - GroupDocs.Conversion for .NET
 - document conversion in .NET
-
+type: docs
 ---
-
-
 # How to Convert WMF Files to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

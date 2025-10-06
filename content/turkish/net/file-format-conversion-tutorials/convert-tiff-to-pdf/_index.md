@@ -5,8 +5,8 @@
 "title": "TIFF'i PDF'e dönüştür"
 "url": "/tr/net/file-format-conversion-tutorials/convert-tiff-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # TIFF'i PDF'e dönüştür
 
 ## giriiş

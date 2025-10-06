@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi email sang PDF với chênh lệch múi giờ trong Java bằng GroupDocs.Conversion"
 "url": "/vi/java/email-formats/email-to-pdf-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi email sang PDF với chênh lệch múi giờ trong Java bằng GroupDocs.Conversion
 
 ## Giới thiệu

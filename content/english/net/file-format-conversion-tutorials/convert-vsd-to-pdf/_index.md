@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Effortlessly convert VSD files to PDF format using GroupDocs.Conversion for .NET. Follow our step-by-step guide for seamless document conversion.
 weight: 27
 url: /net/file-format-conversion-tutorials/convert-vsd-to-pdf/
+type: docs
 ---
-
 # Convert VSD to PDF
 
 ## Introduction

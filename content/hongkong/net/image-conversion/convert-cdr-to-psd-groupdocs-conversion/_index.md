@@ -4,8 +4,8 @@
 "title": "將 CDR 轉換為 PSD — 使用 GroupDocs.Conversion for .NET 實現無縫影像轉換"
 "url": "/zh-hant/net/image-conversion/convert-cdr-to-psd-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # 將 CDR 轉換為 PSD：使用 GroupDocs.Conversion for .NET 實現無縫影像轉換
 
 ## 介紹

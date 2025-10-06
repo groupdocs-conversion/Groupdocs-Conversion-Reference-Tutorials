@@ -4,8 +4,8 @@
 "title": "Chuyển đổi POTX sang PPTX hiệu quả bằng GroupDocs.Conversion cho .NET - Hướng dẫn từng bước"
 "url": "/vi/net/presentation-formats-features/convert-potx-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi hiệu quả POTX sang PPTX bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "如何在使用 GroupDocs.Conversion for .NET 转换为 Word 之前隐藏 PDF 注释"
 "url": "/zh/net/page-management-content-manipulation/hide-pdf-annotations-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 转换为 Word 之前隐藏 PDF 注释
 
 ## 介绍

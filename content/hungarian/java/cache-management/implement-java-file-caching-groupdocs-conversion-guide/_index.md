@@ -4,8 +4,8 @@
 "title": "Java fájlok gyorsítótárazása a GroupDocs.Conversion segítségével – Átfogó útmutató a hatékony dokumentumkonverzióhoz"
 "url": "/hu/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan valósítsunk meg Java fájlok gyorsítótárazását a GroupDocs.Conversion segítségével a hatékony dokumentumkonverzió érdekében?
 
 ## Bevezetés

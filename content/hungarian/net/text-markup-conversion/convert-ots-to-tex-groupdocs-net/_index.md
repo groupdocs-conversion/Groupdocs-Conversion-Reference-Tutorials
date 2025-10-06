@@ -4,8 +4,8 @@
 "title": "Hatékony OTS-TEX konvertálás a GroupDocs.Conversion for .NET segítségével - Teljes körű útmutató"
 "url": "/hu/net/text-markup-conversion/convert-ots-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony OTS-TEX konvertálás a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

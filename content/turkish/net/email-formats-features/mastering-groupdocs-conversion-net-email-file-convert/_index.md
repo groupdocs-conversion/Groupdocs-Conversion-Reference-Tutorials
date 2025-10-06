@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET'i E-posta ve Dosya Dönüşümleri İçin Ustalaştırma - Kapsamlı Bir Kılavuz"
 "url": "/tr/net/email-formats-features/mastering-groupdocs-conversion-net-email-file-convert/"
 "weight": 1
+type: docs
 ---
-
 # E-posta ve Dosya Dönüşümleri için GroupDocs.Conversion .NET'te Ustalaşma: Kapsamlı Bir Kılavuz
 
 ## giriiş

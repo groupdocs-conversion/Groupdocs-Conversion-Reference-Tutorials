@@ -5,8 +5,8 @@
 "title": "PDF konvertálás"
 "url": "/hu/net/pdf-conversion/"
 "weight": 25
+type: docs
 ---
-
 # PDF konvertálás
 
 ## Bevezetés

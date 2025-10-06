@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 库掌握 .NET 电子邮件附件转换——综合指南"
 "url": "/zh/net/email-formats-features/net-email-attachment-conversion-groupdocs-guide/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 库掌握 .NET 电子邮件附件转换
 
 ## 介绍

@@ -4,8 +4,8 @@
 "title": "OXPS konvertálása PPTX-re a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/presentation-formats-features/convert-oxps-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OXPS konvertálása PPTX-re a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

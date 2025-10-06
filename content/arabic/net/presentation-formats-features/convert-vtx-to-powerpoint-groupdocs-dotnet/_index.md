@@ -4,8 +4,8 @@
 "title": "تحويل VTX إلى PowerPoint بكفاءة باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/presentation-formats-features/convert-vtx-to-powerpoint-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # تحويل VTX إلى PowerPoint بكفاءة باستخدام GroupDocs.Conversion لـ .NET
 
 في عالمنا الرقمي سريع الخطى، يُمكن أن يُحدث تحويل تنسيقات المستندات بكفاءة نقلة نوعية. إذا كنت تعمل باستخدام قوالب رسم Microsoft Visio (.vtx) وتحتاج إلى عرض المعلومات بتنسيق أكثر ديناميكية مثل PowerPoint (.ppt)، فهذا البرنامج التعليمي مثالي لك. سنرشدك خلال استخدام GroupDocs.Conversion لـ .NET لتحويل ملفات VTX بسلاسة إلى عروض تقديمية PPT.

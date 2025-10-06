@@ -5,8 +5,8 @@
 "title": "將 MBOX 轉換為 PDF"
 "url": "/zh-hant/net/document-conversion/convert-mbox-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # 將 MBOX 轉換為 PDF
 
 ## 介紹

@@ -4,8 +4,8 @@
 "title": "Automatisera konvertering från CSV till DOC med GroupDocs.Conversion för .NET"
 "url": "/sv/net/spreadsheet-formats-features/automate-csv-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Automatisera konvertering från CSV till DOC med GroupDocs.Conversion för .NET
 
 ## Introduktion

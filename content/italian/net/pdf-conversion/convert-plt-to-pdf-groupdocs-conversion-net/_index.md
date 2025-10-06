@@ -4,8 +4,8 @@
 "title": "Come convertire i file PLT in PDF utilizzando GroupDocs.Conversion per .NET&#58; una guida passo passo"
 "url": "/it/net/pdf-conversion/convert-plt-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire i file PLT in PDF utilizzando GroupDocs.Conversion per .NET: una guida passo passo
 
 ## Introduzione

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak STL Dosyaları HTML'ye Nasıl Dönüştürülür&#58; Adım Adım Kılavuz"
 "url": "/tr/net/html-conversion/convert-stl-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak STL Dosyaları HTML'ye Nasıl Dönüştürülür
 
 ## giriiş

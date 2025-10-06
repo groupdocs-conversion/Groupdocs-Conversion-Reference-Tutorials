@@ -4,8 +4,8 @@
 "title": "تحويل DGN إلى CSV في .NET باستخدام GroupDocs.Conversion - دليل شامل"
 "url": "/ar/net/cad-technical-drawing-formats/dgn-to-csv-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # تحويل DGN إلى CSV في .NET باستخدام GroupDocs.Conversion: دليل شامل
 
 ## مقدمة

@@ -4,8 +4,8 @@
 "title": "Jak zapisywać pliki do strumieniowania za pomocą GroupDocs.Conversion w .NET | Przewodnik krok po kroku"
 "url": "/pl/net/document-output-saving/groupdocs-conversion-save-stream-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak wdrożyć GroupDocs.Conversion .NET: Zapisywanie przekonwertowanego pliku do strumienia
 
 ## Wstęp

@@ -4,8 +4,8 @@
 "title": "Hogyan konvertáljunk PPTM-et PPTX-be a GroupDocs.Conversion for .NET használatával? Átfogó útmutató"
 "url": "/hu/net/presentation-formats-features/convert-pptm-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan lehet PPTM-et PPTX-be konvertálni a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

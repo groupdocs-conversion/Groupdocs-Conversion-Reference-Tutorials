@@ -4,8 +4,8 @@
 "title": "Jak převést soubory CF2 do XLS pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/spreadsheet-conversion/convert-cf2-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory CF2 do XLS pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

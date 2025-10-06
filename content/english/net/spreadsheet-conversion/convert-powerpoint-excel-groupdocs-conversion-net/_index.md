@@ -8,10 +8,8 @@ keywords:
 - convert PowerPoint to Excel
 - GroupDocs.Conversion for .NET
 - PPTX to XLSX conversion
-
+type: docs
 ---
-
-
 # Convert PowerPoint to Excel: Step-by-Step Guide Using GroupDocs.Conversion for .NET
 
 ## Introduction

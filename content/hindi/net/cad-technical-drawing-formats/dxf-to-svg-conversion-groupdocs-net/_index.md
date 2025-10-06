@@ -4,8 +4,8 @@
 "title": ".NET में GroupDocs का उपयोग करके DXF से SVG रूपांतरण CAD फ़ाइलों के लिए एक चरण-दर-चरण मार्गदर्शिका"
 "url": "/hi/net/cad-technical-drawing-formats/dxf-to-svg-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET में GroupDocs का उपयोग करके DXF से SVG रूपांतरण: एक चरण-दर-चरण मार्गदर्शिका
 
 ## परिचय

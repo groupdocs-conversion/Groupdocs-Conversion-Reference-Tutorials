@@ -4,8 +4,8 @@
 "title": "WMZ konvertálása PDF-be a GroupDocs.Conversion .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/pdf-conversion/convert-wmz-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # WMZ fájlok konvertálása PDF-be a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

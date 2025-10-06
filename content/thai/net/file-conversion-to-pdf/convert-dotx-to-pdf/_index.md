@@ -5,8 +5,8 @@
 "title": "แปลงเทมเพลต DOTX Word เป็น PDF"
 "url": "/th/net/file-conversion-to-pdf/convert-dotx-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # แปลงเทมเพลต DOTX Word เป็น PDF
 
 ## การแนะนำ

@@ -4,8 +4,8 @@
 "title": "Converteer VSX efficiënt naar HTML in .NET met GroupDocs.Conversion"
 "url": "/nl/net/web-markup-formats/convert-vsx-to-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converteer VSX efficiënt naar HTML met GroupDocs.Conversion in .NET
 
 ## Invoering

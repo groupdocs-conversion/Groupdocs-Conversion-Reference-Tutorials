@@ -10,10 +10,8 @@ keywords:
 - .NET file conversion
 - convert MPX files
 - TXT format conversion
-
+type: docs
 ---
-
-
 # Mastering MPX to TXT Conversion in .NET with GroupDocs.Conversion
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "GroupDocs'un Seçmeli Düzen Dönüştürme Kılavuzunu Kullanarak Java'da CAD Düzenlerini PDF'ye Dönüştürme"
 "url": "/tr/java/cad-formats/groupdocs-java-cad-to-pdf-selective-layouts/"
 "weight": 1
+type: docs
 ---
-
 # CAD Düzenlerini GroupDocs.Conversion for Java ile PDF'ye Dönüştürün
 ## Java'da Seçmeli CAD'den PDF'ye Dönüştürmede Ustalaşma
 ### giriiş

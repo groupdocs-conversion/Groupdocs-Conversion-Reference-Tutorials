@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanarak XLSB'yi JPG'ye Dönüştürme | Adım Adım Kılavuz"
 "url": "/tr/net/image-conversion/convert-xlsb-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak XLSB'yi JPG'ye Dönüştürme: Adım Adım Kılavuz
 
 Excel ikili biçim dosyalarını (XLSB) JPG gibi görsel biçimlere dönüştürmek, erişilebilirliği ve anlaşılırlığı iyileştirmek için önemlidir. İster geliştirici ister iş profesyoneli olun, bu kılavuz size .NET için GroupDocs.Conversion kullanarak bir XLSB dosyasını bir dizi JPG resmine dönüştürme konusunda yol gösterecektir.

@@ -5,8 +5,8 @@
 "title": "PPTM을 PDF로 변환"
 "url": "/ko/net/pdf-conversion/convert-pptm-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # PPTM을 PDF로 변환
 
 ## 소개

@@ -4,8 +4,8 @@
 "title": "Guia completo para converter TIFF para DOCX usando GroupDocs.Conversion para .NET"
 "url": "/pt/net/word-processing-conversion/convert-tiff-to-docx-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Guia completo para converter TIFF para DOCX usando GroupDocs.Conversion para .NET
 
 ## Introdução

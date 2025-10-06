@@ -3,8 +3,8 @@ title: "Email Formats Conversion Tutorials for GroupDocs.Conversion Java"
 description: "Learn to convert to and from Email formats (MSG, EML, EMLX) with these GroupDocs.Conversion Java tutorials."
 weight: 8
 url: "/java/email-formats/"
+type: docs
 ---
-
 # Email Formats Conversion Tutorials for GroupDocs.Conversion Java
 
 Master email file conversion with our detailed GroupDocs.Conversion tutorials for Java developers. These step-by-step guides demonstrate how to convert email messages to document formats, extract email attachments, preserve email metadata, handle email headers and bodies, and implement batch email conversion operations. Each tutorial provides practical Java code examples for working with email archives and messages, helping you build applications that can effectively process and transform email communications into various document formats.

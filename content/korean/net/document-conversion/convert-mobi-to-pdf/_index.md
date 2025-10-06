@@ -5,8 +5,8 @@
 "title": "MOBI를 PDF로 변환"
 "url": "/ko/net/document-conversion/convert-mobi-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # MOBI를 PDF로 변환
 
 ## 소개

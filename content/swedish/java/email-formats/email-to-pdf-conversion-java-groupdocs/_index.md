@@ -4,8 +4,8 @@
 "title": "Hur man konverterar e-post till PDF med tidszonsförskjutning i Java med GroupDocs.Conversion"
 "url": "/sv/java/email-formats/email-to-pdf-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar e-post till PDF med tidszonsförskjutning i Java med GroupDocs.Conversion
 
 ## Introduktion

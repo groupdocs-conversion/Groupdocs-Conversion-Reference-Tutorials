@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Kullanarak Java'da Elektronik Tabloyu PDF'ye Dönüştürmeyi Otomatikleştirin"
 "url": "/tr/java/pdf-conversion/automate-spreadsheet-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Kullanarak Java'da Elektronik Tabloyu PDF'ye Dönüştürmeyi Otomatikleştirin
 
 ## giriiş

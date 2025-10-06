@@ -3,8 +3,8 @@ title: "Page Management and Content Manipulation Tutorials for GroupDocs.Convers
 description: "Step-by-step tutorials for page selection, watermarking, and content modification during conversion with GroupDocs.Conversion for .NET."
 weight: 7
 url: "/net/page-management-content-manipulation/"
+type: docs
 ---
-
 # Page Management and Content Manipulation Tutorials for GroupDocs.Conversion .NET
 
 Explore advanced content control capabilities with our comprehensive GroupDocs.Conversion tutorials for .NET. These practical guides demonstrate how to convert specific pages or page ranges, process consecutive page sequences, add text or image watermarks to output documents, implement page numbering, manipulate content positioning, and apply various visual enhancements during conversion. Each tutorial includes detailed C# code examples for content manipulation scenarios, helping you build applications that can intelligently process document content rather than simply converting entire files.

@@ -4,8 +4,8 @@
 "title": "Konversi File Master&#58; Konversi VST ke PPT Menggunakan Pustaka GroupDocs.Conversion .NET"
 "url": "/id/net/presentation-conversion/convert-vst-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi File Master: Konversi VST ke PPT Menggunakan Pustaka GroupDocs.Conversion .NET
 
 ## Perkenalan

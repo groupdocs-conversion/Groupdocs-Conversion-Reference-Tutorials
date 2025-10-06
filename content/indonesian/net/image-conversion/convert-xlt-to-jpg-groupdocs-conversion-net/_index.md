@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi File XLT ke JPG dengan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/image-conversion/convert-xlt-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi File XLT ke JPG Menggunakan GroupDocs.Conversion untuk .NET
 
 Dalam ruang kerja digital saat ini, konversi format file yang efisien sangat penting untuk mengelola dan berbagi data lintas platform. Tutorial ini memandu Anda menggunakan GroupDocs.Conversion for .NET untuk mengonversi file Excel Template (XLT) menjadi gambar JPG, meningkatkan aksesibilitas dan efisiensi distribusi.

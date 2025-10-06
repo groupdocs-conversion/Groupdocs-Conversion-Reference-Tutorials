@@ -4,8 +4,8 @@
 "title": "تحويل VSTX إلى PSD بسهولة باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/image-formats-features/convert-vstx-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل VSTX إلى PSD بسهولة باستخدام GroupDocs.Conversion لـ .NET: دليل شامل
 
 ## مقدمة

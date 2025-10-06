@@ -4,8 +4,8 @@
 "title": "Lépésről lépésre útmutató&#58; JPC konvertálása SVG-vé a GroupDocs.Conversion .NET használatával a zökkenőmentes képkonverzióhoz"
 "url": "/hu/net/image-conversion/convert-jpc-svg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Lépésről lépésre útmutató: JPC konvertálása SVG-vé a GroupDocs.Conversion .NET használatával a zökkenőmentes képkonverzióhoz
 
 ## Bevezetés

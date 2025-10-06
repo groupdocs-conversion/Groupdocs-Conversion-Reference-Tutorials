@@ -4,8 +4,8 @@
 "title": ".NET 開發人員使用 GroupDocs.Conversion 實現高效的 SVGZ 到 PSD 轉換"
 "url": "/zh-hant/net/image-formats-features/master-svgz-to-psd-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET 開發人員使用 GroupDocs.Conversion 實現高效的 SVGZ 到 PSD 轉換
 
 ## 介紹

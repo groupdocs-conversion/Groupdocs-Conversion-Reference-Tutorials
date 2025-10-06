@@ -3,8 +3,8 @@
 "title": "Tutorial di conversione dei formati di fogli di calcolo per GroupDocs.Conversion Java"
 "url": "/it/java/spreadsheet-formats/"
 "weight": 6
+type: docs
 ---
-
 # Tutorial di conversione dei formati di fogli di calcolo per GroupDocs.Conversion Java
 
 Scopri come gestire le conversioni dei fogli di calcolo con i nostri tutorial Java di GroupDocs.Conversion. Queste guide dettagliate illustrano come convertire tra formati Excel, CSV e altri tipi di fogli di calcolo, mantenere formule e funzioni, mantenere la formattazione delle celle, gestire cartelle di lavoro multi-foglio e garantire l'integrità dei dati durante la conversione. Ogni tutorial include esempi di codice Java funzionante che mostrano come implementare una conversione accurata dei fogli di calcolo, preservando calcoli complessi ed elementi visivi.

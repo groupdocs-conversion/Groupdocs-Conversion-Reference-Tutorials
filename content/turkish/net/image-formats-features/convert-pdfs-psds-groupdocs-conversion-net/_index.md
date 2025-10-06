@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET Kütüphanesini Kullanarak Verimli PDF'den PSD'ye Dönüştürme"
 "url": "/tr/net/image-formats-features/convert-pdfs-psds-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET ile Verimli PDF'den PSD'ye Dönüştürme
 
 ## giriiş

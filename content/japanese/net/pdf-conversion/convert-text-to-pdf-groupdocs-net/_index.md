@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用して .NET でテキストを PDF に変換する - 包括的なガイド"
 "url": "/ja/net/pdf-conversion/convert-text-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用してテキストを PDF に変換する方法
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET&#58;i Kullanarak TSV'yi PSD'ye Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/image-formats-features/convert-tsv-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET ile TSV'yi PSD'ye dönüştürün
 ## giriiş
 .NET uygulamalarınızda dosya dönüşümlerini kolaylaştırmak mı istiyorsunuz? İster belge yönetim sistemleri üzerinde çalışan bir geliştirici olun, ister kusursuz veri dönüşümlerine ihtiyaç duyan biri olun, dosyaları bir formattan diğerine dönüştürmek zahmetli olabilir. Bu kapsamlı kılavuz, TSV (Sekmeyle Ayrılmış Değerler) dosyalarını PSD (Photoshop Belgesi) formatlarına verimli bir şekilde yüklemek ve dönüştürmek için GroupDocs.Conversion for .NET'i nasıl kullanacağınızı gösterecektir.

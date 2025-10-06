@@ -8,10 +8,8 @@ keywords:
 - convert TSV to SVG
 - GroupDocs.Conversion for .NET
 - file format conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert TSV to SVG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

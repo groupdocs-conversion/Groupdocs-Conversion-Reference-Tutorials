@@ -4,8 +4,8 @@
 "title": "JavaでPDFをWordに変換し、埋め込みファイルを削除 - GroupDocs.Conversionを使ったステップバイステップガイド"
 "url": "/ja/java/pdf-conversion/convert-pdf-to-word-java-embedded-file-removal/"
 "weight": 1
+type: docs
 ---
-
 # JavaでPDFをWordに変換し、埋め込みファイルを削除：GroupDocs.Conversionを使ったステップバイステップガイド
 
 ## 導入

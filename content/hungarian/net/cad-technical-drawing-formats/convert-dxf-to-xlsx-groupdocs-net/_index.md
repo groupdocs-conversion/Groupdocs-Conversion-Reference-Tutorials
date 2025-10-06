@@ -4,8 +4,8 @@
 "title": "Hatékony DXF-XLSX konvertálás a GroupDocs.Conversion for .NET használatával - CAD és műszaki rajzformátumok"
 "url": "/hu/net/cad-technical-drawing-formats/convert-dxf-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony DXF-ből XLSX-be konvertálás a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

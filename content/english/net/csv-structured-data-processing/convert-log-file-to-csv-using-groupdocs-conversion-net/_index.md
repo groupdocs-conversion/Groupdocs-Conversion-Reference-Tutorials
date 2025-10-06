@@ -8,10 +8,8 @@ keywords:
 - convert log file to csv
 - GroupDocs.Conversion .NET
 - log file conversion
-
+type: docs
 ---
-
-
 # How to Convert LOG Files to CSV Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

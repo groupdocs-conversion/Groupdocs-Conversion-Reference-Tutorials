@@ -5,8 +5,8 @@
 "title": "แปลง MPX เป็น PDF"
 "url": "/th/net/document-conversion/convert-mpx-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # แปลง MPX เป็น PDF
 
 ## การแนะนำ

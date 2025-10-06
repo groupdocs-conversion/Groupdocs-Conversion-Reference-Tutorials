@@ -4,8 +4,8 @@
 "title": "Konvertera WEBP till TXT med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/text-markup-conversion/convert-webp-to-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera WEBP till TXT med GroupDocs.Conversion för .NET
 
 ## Introduktion

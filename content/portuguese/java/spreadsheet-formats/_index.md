@@ -3,8 +3,8 @@
 "title": "Tutoriais de conversão de formatos de planilha para GroupDocs.Conversion Java"
 "url": "/pt/java/spreadsheet-formats/"
 "weight": 6
+type: docs
 ---
-
 # Tutoriais de conversão de formatos de planilha para GroupDocs.Conversion Java
 
 Aprenda a lidar com conversões de planilhas com nossos tutoriais Java do GroupDocs.Conversion. Estes guias detalhados demonstram como converter entre formatos Excel, CSV e outros tipos de planilhas, preservar fórmulas e funções, manter a formatação de células, lidar com pastas de trabalho com várias planilhas e garantir a integridade dos dados durante a conversão. Cada tutorial inclui exemplos práticos de código Java que mostram como implementar conversões precisas em planilhas, preservando cálculos complexos e elementos visuais.

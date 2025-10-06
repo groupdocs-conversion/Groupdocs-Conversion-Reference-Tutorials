@@ -5,8 +5,8 @@
 "title": "Převod rozšířených metasouborů EMZ do PDF"
 "url": "/cs/net/convert-files-to-pdf/convert-emz-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # Převod rozšířených metasouborů EMZ do PDF
 
 ## Zavedení

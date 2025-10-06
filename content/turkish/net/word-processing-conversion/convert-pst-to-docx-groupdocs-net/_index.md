@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET kullanarak Outlook PST'yi DOCX'e dönüştürme – Adım Adım Kılavuz"
 "url": "/tr/net/word-processing-conversion/convert-pst-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak Outlook PST'yi DOCX'e Dönüştürme
 
 ## giriiş

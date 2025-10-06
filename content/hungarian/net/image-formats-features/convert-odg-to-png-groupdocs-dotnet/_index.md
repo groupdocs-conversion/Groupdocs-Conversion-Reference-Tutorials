@@ -4,8 +4,8 @@
 "title": "ODG-PNG konvertálás elsajátítása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/image-formats-features/convert-odg-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # ODG-PNG konvertálás elsajátítása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

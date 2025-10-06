@@ -4,8 +4,8 @@
 "title": "WMF PSD formátumba konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/convert-wmf-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # WMF PSD formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 **Hatékony képkonverzió .NET-ben: WMF fájlok átalakítása PSD formátumba**

@@ -4,8 +4,8 @@
 "title": "Ana Dosya Dönüşümü&#58; .NET için GroupDocs Kullanarak JPF Dosyalarını Yükleme ve Dönüştürme"
 "url": "/tr/net/image-formats-features/load-convert-jpf-files-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Ana Dosya Dönüştürme: GroupDocs for .NET Kullanarak JPF Dosyalarını Yükleme ve Dönüştürme
 
 ## giriiş

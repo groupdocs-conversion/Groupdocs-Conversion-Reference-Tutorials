@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # How to Convert MHTML to XLSX Using GroupDocs.Conversion .NET: A Complete Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Convierta DOTM a PSD en .NET usando GroupDocs.Conversion&#58; una guía completa"
 "url": "/es/net/image-conversion/convert-dotm-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir DOTM a PSD en .NET con GroupDocs.Conversion: una guía completa
 
 ## Introducción

@@ -4,8 +4,8 @@
 "title": "ODP PDF-be konvertálása .NET-ben a GroupDocs.Conversion használatával – Átfogó útmutató"
 "url": "/hu/net/pdf-conversion/convert-odp-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # ODP fájlok konvertálása PDF-be a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

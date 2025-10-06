@@ -4,8 +4,8 @@
 "title": "Jak převést JPEG do PDF pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/pdf-conversion-features/convert-jpeg-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést JPEG do PDF pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "Πώς να μετατρέψετε DOCM σε XLS χρησιμοποιώντας το GroupDocs.Conversion σε .NET™ - Οδηγός βήμα προς βήμα"
 "url": "/el/net/spreadsheet-conversion/convert-docm-to-xls-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε DOCM σε XLS χρησιμοποιώντας το GroupDocs.Conversion σε .NET: Οδηγός βήμα προς βήμα
 ## Εισαγωγή
 Χρειάζεται να μετατρέψετε ένα έγγραφο του Microsoft Word με δυνατότητα μακροεντολών (.docm) σε μορφή Excel; Αυτό το σεμινάριο σας καθοδηγεί στη χρήση της βιβλιοθήκης GroupDocs.Conversion στο .NET για αποτελεσματική μετατροπή εγγράφων.

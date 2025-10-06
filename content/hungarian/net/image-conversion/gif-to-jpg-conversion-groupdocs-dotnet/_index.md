@@ -4,8 +4,8 @@
 "title": "GIF-ek JPG-vé konvertálása könnyedén – GroupDocs.Conversion for .NET útmutató"
 "url": "/hu/net/image-conversion/gif-to-jpg-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GIF-ek JPG-vé konvertálása könnyedén: GroupDocs.Conversion for .NET útmutató
 
 ## Bevezetés

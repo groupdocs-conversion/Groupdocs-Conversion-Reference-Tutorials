@@ -4,8 +4,8 @@
 "title": "Chuyển đổi PNG sang TXT bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/text-markup-conversion/convert-png-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi PNG sang TXT bằng GroupDocs.Conversion cho .NET: Hướng dẫn toàn diện
 
 ## Giới thiệu

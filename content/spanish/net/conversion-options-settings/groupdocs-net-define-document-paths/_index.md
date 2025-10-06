@@ -4,8 +4,8 @@
 "title": "Gestión eficiente de rutas de documentos en .NET con GroupDocs.Conversion&#58; definición de constantes para conversiones fluidas"
 "url": "/es/net/conversion-options-settings/groupdocs-net-define-document-paths/"
 "weight": 1
+type: docs
 ---
-
 # Gestión eficiente de rutas de documentos en .NET con GroupDocs.Conversion
 
 ## Introducción

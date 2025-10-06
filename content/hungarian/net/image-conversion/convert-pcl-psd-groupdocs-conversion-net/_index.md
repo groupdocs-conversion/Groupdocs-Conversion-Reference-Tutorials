@@ -4,8 +4,8 @@
 "title": "PCL konvertálása PSD-vé a GroupDocs.Conversion .NET használatával – Átfogó útmutató fejlesztőknek"
 "url": "/hu/net/image-conversion/convert-pcl-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PCL konvertálása PSD-vé a GroupDocs.Conversion .NET használatával: Átfogó útmutató fejlesztőknek
 
 ## Bevezetés

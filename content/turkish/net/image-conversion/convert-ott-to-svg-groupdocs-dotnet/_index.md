@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Kullanarak .NET'te OTT'yi SVG'ye Dönüştürme&#58; Kapsamlı Bir Kılavuz"
 "url": "/tr/net/image-conversion/convert-ott-to-svg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak OTT Dosyaları SVG'ye Nasıl Dönüştürülür
 
 ## giriiş

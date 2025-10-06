@@ -4,8 +4,8 @@
 "title": "Konversi PDF ke PSD yang Efisien Menggunakan Pustaka GroupDocs.Conversion .NET"
 "url": "/id/net/image-formats-features/convert-pdfs-psds-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi PDF ke PSD yang Efisien dengan GroupDocs.Conversion .NET
 
 ## Perkenalan

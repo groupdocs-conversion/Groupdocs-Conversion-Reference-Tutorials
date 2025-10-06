@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中高效地将 XML 转换为电子表格"
 "url": "/zh/net/spreadsheet-conversion/xml-to-spreadsheet-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 .NET 中高效地将 XML 转换为电子表格
 
 ## 介绍

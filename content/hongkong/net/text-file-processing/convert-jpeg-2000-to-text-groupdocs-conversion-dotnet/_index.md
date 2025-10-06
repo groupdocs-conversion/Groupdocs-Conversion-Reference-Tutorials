@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 將 JPEG 2000 轉換為文字"
 "url": "/zh-hant/net/text-file-processing/convert-jpeg-2000-to-text-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 JPEG 2000 檔案轉換為文字
 
 ## 介紹

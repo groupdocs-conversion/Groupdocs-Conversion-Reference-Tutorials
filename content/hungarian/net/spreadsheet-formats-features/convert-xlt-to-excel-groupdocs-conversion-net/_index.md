@@ -4,8 +4,8 @@
 "title": "XLT konvertálása XLS-be a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-xlt-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # XLT konvertálása XLS-sé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

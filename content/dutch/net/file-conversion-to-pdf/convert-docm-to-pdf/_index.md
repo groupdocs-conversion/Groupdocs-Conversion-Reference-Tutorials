@@ -5,8 +5,8 @@
 "title": "Converteer DOCM Word-documenten (macro's) naar PDF"
 "url": "/nl/net/file-conversion-to-pdf/convert-docm-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Converteer DOCM Word-documenten (macro's) naar PDF
 
 ## Invoering

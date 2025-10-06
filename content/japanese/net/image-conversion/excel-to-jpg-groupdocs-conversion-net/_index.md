@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用した .NET での Excel から JPG への変換手順"
 "url": "/ja/net/image-conversion/excel-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET で Excel を JPG に変換する: GroupDocs.Conversion を使用したステップバイステップ ガイド
 
 ## 導入

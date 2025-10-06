@@ -4,8 +4,8 @@
 "title": "POTX'i GroupDocs.Conversion for .NET Kullanarak PNG'ye Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/image-conversion/convert-potx-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # POTX'i GroupDocs.Conversion for .NET Kullanarak PNG'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

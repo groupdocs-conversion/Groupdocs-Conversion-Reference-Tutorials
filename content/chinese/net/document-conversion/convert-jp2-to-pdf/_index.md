@@ -5,8 +5,8 @@
 "title": "将JP2转换为PDF"
 "url": "/zh/net/document-conversion/convert-jp2-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # 将JP2转换为PDF
 
 ## 介绍

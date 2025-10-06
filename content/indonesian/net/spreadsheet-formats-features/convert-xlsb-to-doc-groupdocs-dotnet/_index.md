@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi XLSB ke DOC Menggunakan GroupDocs.Conversion .NET&#58; Panduan Lengkap"
 "url": "/id/net/spreadsheet-formats-features/convert-xlsb-to-doc-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi XLSB ke DOC Menggunakan GroupDocs.Conversion .NET: Panduan Lengkap
 
 ## Perkenalan

@@ -5,8 +5,8 @@
 "title": "แปลง XML เป็น PDF"
 "url": "/th/net/converting-file-types-to-pdf/convert-xml-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # แปลง XML เป็น PDF
 
 ## การแนะนำ

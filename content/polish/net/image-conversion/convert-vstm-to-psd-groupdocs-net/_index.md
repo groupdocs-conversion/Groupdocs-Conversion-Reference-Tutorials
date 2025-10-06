@@ -4,8 +4,8 @@
 "title": "Konwertuj szablony Visio (.vstm) do Photoshop (.psd) za pomocą GroupDocs.Conversion dla .NET&#58; Przewodnik krok po kroku"
 "url": "/pl/net/image-conversion/convert-vstm-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj szablony Visio (.vstm) do Photoshop (.psd) za pomocą GroupDocs.Conversion dla .NET: przewodnik krok po kroku
 ## Wstęp
 Konwersja Visio Macro-Enabled Drawing Templates (VSTM) do wszechstronnego formatu, takiego jak Adobe Photoshop Document (PSD), może być trudna. Ten przewodnik upraszcza ten proces, korzystając z GroupDocs.Conversion dla .NET, umożliwiając bezproblemową i wydajną konwersję plików. Dzięki temu potężnemu narzędziu przekształcanie VSTM do PSD staje się proste, co usprawnia przepływ pracy nad dokumentami.

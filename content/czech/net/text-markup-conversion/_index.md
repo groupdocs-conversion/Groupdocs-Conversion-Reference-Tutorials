@@ -3,8 +3,8 @@
 "title": "Výukové programy pro převod textu a značek pro GroupDocs.Conversion .NET"
 "url": "/cs/net/text-markup-conversion/"
 "weight": 32
+type: docs
 ---
-
 # Výukové programy pro převod textu a značek pro GroupDocs.Conversion .NET
 
 Prozkoumejte převod textových formátů s našimi podrobnými tutoriály GroupDocs.Conversion pro vývojáře .NET. Tyto podrobné návody ukazují, jak převádět dokumenty z formátů RTF do prostého textu, XML, Markdown, TeX a dalších textových formátů. Seznamte se s možnostmi kódování, technikami extrakce textu, zpracováním speciálních znaků, zachováním struktury dokumentu, udržováním hierarchických vztahů ve formátech značek a implementací zásad formátování textu. Každý tutoriál obsahuje praktické příklady kódu C# pro vytváření textových reprezentací vašich dokumentů, které zachycují základní obsah v jednoduchých, přenositelných a snadno analyzovatelných formátech.

@@ -4,8 +4,8 @@
 "title": "ODG konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével – lépésről lépésre útmutató"
 "url": "/hu/net/pdf-conversion/convert-odg-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # ODG konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével: lépésről lépésre útmutató
 
 ## Bevezetés

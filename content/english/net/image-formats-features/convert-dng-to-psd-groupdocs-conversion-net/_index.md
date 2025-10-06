@@ -8,10 +8,8 @@ keywords:
 - DNG to PSD conversion
 - GroupDocs.Conversion for .NET
 - image format conversion
-
+type: docs
 ---
-
-
 # Convert DNG to PSD with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

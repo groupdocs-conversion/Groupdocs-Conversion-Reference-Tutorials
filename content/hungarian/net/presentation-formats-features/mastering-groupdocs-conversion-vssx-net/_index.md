@@ -4,8 +4,8 @@
 "title": "Hatékony GroupDocs.Conversion VSSX fájlokhoz .NET-ben – Teljes körű útmutató"
 "url": "/hu/net/presentation-formats-features/mastering-groupdocs-conversion-vssx-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony GroupDocs.Conversion VSSX fájlokhoz .NET-ben: Teljes körű útmutató
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion 라이브러리를 사용한 Java에서의 효율적인 PDF 변환"
 "url": "/ko/java/pdf-conversion/convert-local-documents-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용한 Java에서의 효율적인 PDF 변환
 
 ## 소개

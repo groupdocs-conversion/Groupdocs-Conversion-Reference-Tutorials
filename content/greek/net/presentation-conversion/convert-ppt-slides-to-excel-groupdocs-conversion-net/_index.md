@@ -4,8 +4,8 @@
 "title": "Μετατροπή διαφανειών PPT σε Excel &#58; Mastering GroupDocs.Conversion για .NET"
 "url": "/el/net/presentation-conversion/convert-ppt-slides-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατρέψτε διαφάνειες PPT σε Excel με το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

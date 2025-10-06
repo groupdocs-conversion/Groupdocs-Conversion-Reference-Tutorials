@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή SXC σε PPT χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/presentation-formats-features/groupdocs-conversion-net-sxc-ppt/"
 "weight": 1
+type: docs
 ---
-
 # Μετασχηματίστε την παρουσίαση δεδομένων σας: Μετατρέψτε αποτελεσματικά αρχεία SXC σε PPT με το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

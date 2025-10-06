@@ -8,10 +8,8 @@ keywords:
 - convert PS to XLSX
 - GroupDocs.Conversion for .NET
 - PS file conversion
-
+type: docs
 ---
-
-
 # Convert PS Files to XLSX Using GroupDocs.Conversion for .NET
 
 ## Introduction

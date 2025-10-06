@@ -8,10 +8,8 @@ keywords:
 - convert JPEG 2000 to PowerPoint
 - GroupDocs.Conversion .NET setup
 - JPEG 2000 file conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert JPEG 2000 (.jp2) to PowerPoint Using GroupDocs.Conversion .NET
 
 ## Introduction

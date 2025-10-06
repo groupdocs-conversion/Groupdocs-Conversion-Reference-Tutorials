@@ -4,8 +4,8 @@
 "title": "Thiết lập Giấy phép Java GroupDocs.Conversion&#58; Hướng dẫn từng bước"
 "url": "/vi/java/getting-started/groupdocs-conversion-java-license-setup-file-path/"
 "weight": 1
+type: docs
 ---
-
 # Thiết lập giấy phép Java GroupDocs.Conversion: Hướng dẫn toàn diện
 
 Chào mừng bạn đến với hướng dẫn từng bước của chúng tôi về cách thiết lập và sử dụng thư viện GroupDocs.Conversion cho Java. Hướng dẫn này tập trung cụ thể vào cách triển khai thiết lập giấy phép thông qua đường dẫn tệp, cho phép bạn mở khóa toàn bộ tiềm năng của công cụ chuyển đổi tài liệu mạnh mẽ này.

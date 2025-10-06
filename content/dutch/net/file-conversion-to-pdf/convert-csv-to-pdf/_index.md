@@ -5,8 +5,8 @@
 "title": "CSV-gegevensbestanden naar PDF converteren"
 "url": "/nl/net/file-conversion-to-pdf/convert-csv-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # CSV-gegevensbestanden naar PDF converteren
 
 ## Invoering

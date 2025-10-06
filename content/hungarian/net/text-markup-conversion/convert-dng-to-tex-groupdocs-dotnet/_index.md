@@ -4,8 +4,8 @@
 "title": "DNG konvertálása TEX-be a GroupDocs.Conversion .NET segítségével – fejlesztői útmutató"
 "url": "/hu/net/text-markup-conversion/convert-dng-to-tex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # DNG konvertálása TEX-be a GroupDocs.Conversion .NET használatával: Fejlesztői útmutató
 
 ## Bevezetés

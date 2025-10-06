@@ -4,8 +4,8 @@
 "title": "Efektivní převod DOC do PPT v .NET pomocí GroupDocs.Conversion – Komplexní průvodce"
 "url": "/cs/net/presentation-conversion/convert-doc-to-ppt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod DOC do PPT v .NET pomocí GroupDocs.Conversion
 
 ## Zavedení

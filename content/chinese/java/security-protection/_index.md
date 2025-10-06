@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Java 的文档安全和转换保护教程"
 "url": "/zh/java/security-protection/"
 "weight": 19
+type: docs
 ---
-
 # GroupDocs.Conversion Java 的文档安全和转换保护教程
 
 我们以安全为重点的教程提供了使用 Java 中的 GroupDocs.Conversion 处理受保护文档的全面指导。这些实用指南演示了如何转换受密码保护的文件、如何对输出文档应用安全性、如何处理数字签名、如何在转换过程中添加水印以及如何处理加密内容。每个教程都包含针对安全文档处理场景的详细 Java 代码示例，帮助您构建在整个转换工作流程中维护文档机密性和完整性的应用程序。

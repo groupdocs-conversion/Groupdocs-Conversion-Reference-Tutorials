@@ -8,10 +8,8 @@ keywords:
 - Convert ZIP to PDF in Java
 - GroupDocs.Conversion for Java
 - Java document conversion
-
+type: docs
 ---
-
-
 # Convert ZIP Files to PDF Using GroupDocs.Conversion in Java
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "आसानी से JPM को DOCX में परिवर्तित करें&#58; निर्बाध फ़ाइल रूपांतरण के लिए GroupDocs.Conversion .NET का उपयोग करें"
 "url": "/hi/net/word-processing-conversion/convert-jpm-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # JPM को DOCX में आसानी से रूपांतरित करें: निर्बाध फ़ाइल रूपांतरण के लिए GroupDocs.Conversion .NET का उपयोग करना
 
 ## परिचय

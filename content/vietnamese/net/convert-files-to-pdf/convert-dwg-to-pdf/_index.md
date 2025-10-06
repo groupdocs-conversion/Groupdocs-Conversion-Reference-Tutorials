@@ -5,8 +5,8 @@
 "title": "Chuyển đổi tệp DWG CAD sang PDF"
 "url": "/vi/net/convert-files-to-pdf/convert-dwg-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # Chuyển đổi tệp DWG CAD sang PDF
 
 ## Giới thiệu

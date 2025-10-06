@@ -8,10 +8,8 @@ keywords:
 - hide comments in PPTX to PDF
 - GroupDocs.Conversion for Java
 - convert PPTX to PDF without comments
-
+type: docs
 ---
-
-
 # Hide Comments in PPTX to PDF with GroupDocs.Conversion for Java
 
 ## Introduction

@@ -5,8 +5,8 @@
 "title": "Μετατροπή ιστοσελίδων HTML σε PDF"
 "url": "/el/net/convert-files-to-pdf/convert-html-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Μετατροπή ιστοσελίδων HTML σε PDF
 
 ## Εισαγωγή

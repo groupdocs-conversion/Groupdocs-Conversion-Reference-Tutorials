@@ -4,8 +4,8 @@
 "title": "วิธีตั้งค่าเส้นทางไดเรกทอรีเอาท์พุตด้วย GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/document-output-saving/groupdocs-conversion-setup-output-directory-net/"
 "weight": 1
+type: docs
 ---
-
 # วิธีตั้งค่าเส้นทางไดเรกทอรีเอาท์พุตโดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

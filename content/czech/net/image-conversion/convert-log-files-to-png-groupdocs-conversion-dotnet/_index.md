@@ -4,8 +4,8 @@
 "title": "Převod souborů LOG do formátu PNG pomocí nástroje GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/image-conversion/convert-log-files-to-png-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů LOG do formátu PNG pomocí nástroje GroupDocs.Conversion pro .NET
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "Konversi ICO ke XLSX Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/spreadsheet-formats-features/convert-ico-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi ICO ke XLSX dengan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

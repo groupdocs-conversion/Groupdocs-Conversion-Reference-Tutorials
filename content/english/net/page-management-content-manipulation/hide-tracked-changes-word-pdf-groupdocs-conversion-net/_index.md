@@ -8,10 +8,8 @@ keywords:
 - Word to PDF conversion
 - hide tracked changes
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # Mastering Advanced Word to PDF Conversion with Hidden Tracked Changes Using GroupDocs.Conversion for .NET
 
 ## Introduction

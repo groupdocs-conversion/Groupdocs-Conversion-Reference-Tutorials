@@ -5,8 +5,8 @@
 "title": "將 DOTM Word 範本（巨集）轉換為 PDF"
 "url": "/zh-hant/net/file-conversion-to-pdf/convert-dotm-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # 將 DOTM Word 範本（巨集）轉換為 PDF
 
 ## 介紹

@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi tệp DWFX sang HTML bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/html-conversion/convert-dwfx-to-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp DWFX sang HTML bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

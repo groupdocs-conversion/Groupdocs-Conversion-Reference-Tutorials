@@ -3,8 +3,8 @@
 "title": "Tutorial sui formati e le funzionalità delle immagini per GroupDocs.Conversion .NET"
 "url": "/it/net/image-formats-features/"
 "weight": 13
+type: docs
 ---
-
 # Tutorial sui formati e le funzionalità delle immagini per GroupDocs.Conversion .NET
 
 Esplora le funzionalità di elaborazione delle immagini con i nostri tutorial dettagliati su GroupDocs.Conversion per sviluppatori .NET. Queste guide passo passo illustrano come convertire documenti in vari formati immagine, implementare l'OCR per estrarre testo dalle immagini, controllare la risoluzione e la qualità delle immagini, gestire la profondità del colore e la trasparenza, specificare le opzioni di rendering per i formati vettoriali, preservare i metadati durante la conversione delle immagini ed elaborare in batch più immagini. Ogni tutorial include esempi pratici di codice C# per scenari di conversione delle immagini, aiutandoti a creare applicazioni in grado di trasformare efficacemente i documenti in rappresentazioni visive o di estrarre contenuti da formati basati su immagini.

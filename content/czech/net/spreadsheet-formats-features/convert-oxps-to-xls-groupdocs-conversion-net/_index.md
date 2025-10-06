@@ -4,8 +4,8 @@
 "title": "Převod OXPS do XLS pomocí GroupDocs.Conversion .NET – Komplexní průvodce formáty a funkcemi tabulek"
 "url": "/cs/net/spreadsheet-formats-features/convert-oxps-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod OXPS do XLS pomocí GroupDocs.Conversion .NET: Komplexní průvodce
 
 ## Zavedení

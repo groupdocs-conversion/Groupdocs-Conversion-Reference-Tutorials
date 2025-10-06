@@ -5,8 +5,8 @@
 "title": "تحويل مستندات DOC Word إلى PDF"
 "url": "/ar/net/file-conversion-to-pdf/convert-doc-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # تحويل مستندات DOC Word إلى PDF
 
 ## مقدمة

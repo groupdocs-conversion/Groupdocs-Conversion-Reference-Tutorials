@@ -4,8 +4,8 @@
 "title": "Automatizálja az FODP-ből XLSX-be konvertálást a GroupDocs.Conversion for .NET segítségével – Teljes körű útmutató"
 "url": "/hu/net/spreadsheet-conversion/automate-fodp-to-xlsx-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # FODP-ből XLSX-be konvertálás automatizálása a GroupDocs for .NET segítségével: Teljes körű útmutató
 
 ## Bevezetés

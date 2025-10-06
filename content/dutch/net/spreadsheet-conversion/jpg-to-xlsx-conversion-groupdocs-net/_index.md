@@ -4,8 +4,8 @@
 "title": "Efficiënte JPG naar XLSX-conversie met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/spreadsheet-conversion/jpg-to-xlsx-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efficiënte JPG naar XLSX-conversie met GroupDocs.Conversion voor .NET
 
 ## Invoering

@@ -5,8 +5,8 @@
 "title": "PSD'yi PDF'ye dönüştür"
 "url": "/tr/net/file-format-conversion-tutorials/convert-psd-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # PSD'yi PDF'ye dönüştür
 
 ## giriiş

@@ -3,8 +3,8 @@
 "title": "Tutorial Peristiwa Konversi dan Pencatatan untuk GroupDocs.Conversion .NET"
 "url": "/id/net/conversion-events-logging/"
 "weight": 24
+type: docs
 ---
-
 # Tutorial Peristiwa Konversi dan Pencatatan untuk GroupDocs.Conversion .NET
 
 Kuasai kemampuan pemantauan dan pencatatan dengan tutorial acara GroupDocs.Conversion kami untuk .NET. Panduan terperinci ini menunjukkan cara menyiapkan pendengar acara, melacak status dan kemajuan konversi, menerapkan pencatatan terperinci, menangani pemberitahuan konversi, membuat pengendali acara khusus, mengintegrasikan dengan kerangka kerja pencatatan populer, mengembangkan indikator kemajuan konversi, dan membangun jejak audit untuk pemrosesan dokumen. Setiap tutorial mencakup contoh kode C# praktis untuk fitur pemantauan dan pelaporan, membantu Anda membangun sistem konversi yang andal dengan mekanisme umpan balik yang komprehensif dan kemampuan pemecahan masalah.

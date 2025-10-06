@@ -5,8 +5,8 @@
 "title": "แปลง PPSX เป็น PDF"
 "url": "/th/net/pdf-conversion/convert-ppsx-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # แปลง PPSX เป็น PDF
 
 ## การแนะนำ

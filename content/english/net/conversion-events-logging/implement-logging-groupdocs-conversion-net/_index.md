@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # How to Implement Logging of GroupDocs.Conversion Events in .NET: A Comprehensive Guide
 
 ## Introduction

@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Learn how to effortlessly convert IFC Building Information Modeling files to PDF format using GroupDocs.Conversion for .NET.
 weight: 25
 url: /net/convert-files-to-pdf/convert-ifc-to-pdf/
+type: docs
 ---
-
 # Convert IFC Building Information Modeling Files to PDF
 
 ## Introduction

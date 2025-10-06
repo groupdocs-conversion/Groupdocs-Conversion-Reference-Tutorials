@@ -8,10 +8,8 @@ keywords:
 - JLS to PNG conversion
 - GroupDocs.Conversion for .NET
 - document management systems
-
+type: docs
 ---
-
-
 # Convert JLS to PNG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

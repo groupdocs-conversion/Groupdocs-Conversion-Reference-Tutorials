@@ -8,10 +8,8 @@ keywords:
 - convert CMX to DOCX
 - GroupDocs.Conversion for .NET
 - file conversion in .NET
-
+type: docs
 ---
-
-
 # Convert CMX to DOCX Using GroupDocs.Conversion in .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -5,8 +5,8 @@
 "title": "J2C JPEG-LS संपीड़ित छवियों को PDF में बदलें"
 "url": "/hi/net/convert-files-to-pdf/convert-j2c-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # J2C JPEG-LS संपीड़ित छवियों को PDF में बदलें
 
 ## परिचय

@@ -8,10 +8,8 @@ keywords:
 - convert ICO to PPTX
 - GroupDocs.Conversion .NET
 - file conversion in .NET
-
+type: docs
 ---
-
-
 # How to Convert ICO Files to PPTX with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - convert jpg to pptx
 - GroupDocs.Conversion for .NET
 - image to PowerPoint conversion
-
+type: docs
 ---
-
-
 # How to Convert JPG to PPTX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

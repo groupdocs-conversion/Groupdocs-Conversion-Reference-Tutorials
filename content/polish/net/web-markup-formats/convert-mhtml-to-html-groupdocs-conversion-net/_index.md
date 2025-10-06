@@ -4,8 +4,8 @@
 "title": "Konwersja MHTML do HTML przy użyciu GroupDocs.Conversion dla .NET&#58; Kompleksowy przewodnik"
 "url": "/pl/net/web-markup-formats/convert-mhtml-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja MHTML do HTML przy użyciu GroupDocs.Conversion dla .NET
 ## Wstęp
 W dzisiejszej erze cyfrowej wydajna konwersja treści internetowych jest kluczowa dla deweloperów i firm. Konwersja plików MHTML do powszechnie dostępnych formatów HTML jest niezbędna do archiwizowania wiadomości e-mail lub zachowywania stron internetowych. Ten kompleksowy przewodnik przeprowadzi Cię przez proces korzystania z GroupDocs.Conversion dla .NET, aby bez wysiłku wykonać to zadanie.

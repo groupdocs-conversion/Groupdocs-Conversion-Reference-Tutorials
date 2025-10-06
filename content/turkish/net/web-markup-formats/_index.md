@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET için Web ve İşaretleme Biçimleri Eğitimleri"
 "url": "/tr/net/web-markup-formats/"
 "weight": 19
+type: docs
 ---
-
 # GroupDocs.Conversion .NET için Web ve İşaretleme Biçimleri Eğitimleri
 
 Web formatı dönüştürme eğitimlerimiz, .NET uygulamalarında işaretleme dilleriyle çalışmak için kapsamlı rehberlik sağlar. Bu adım adım kılavuzlar, belgeleri HTML formatlarına ve HTML formatlarından dönüştürmeyi, web belgelerine sayfa numaralandırması eklemeyi, CSS stilini yönetmeyi, gömülü kaynakları yönetmeyi, duyarlı düzenleri uygulamayı, resim yerleştirme davranışını kontrol etmeyi, köprü metinlerini korumayı ve belge yapısını korumayı gösterir. Her eğitim, belge formatları ile web içeriği arasındaki boşluğu etkili bir şekilde kapatabilen uygulamalar oluşturmanıza yardımcı olan web formatı dönüştürme senaryoları için eksiksiz C# kod örnekleri içerir.

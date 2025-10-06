@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion का उपयोग करके छिपे हुए स्लाइड के साथ मास्टर .NET PDF रूपांतरण"
 "url": "/hi/net/pdf-conversion-features/net-pdf-conversion-groupdocs-hidden-slides/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion का उपयोग करके छिपे हुए स्लाइड के साथ मास्टर .NET PDF रूपांतरण
 
 ## परिचय

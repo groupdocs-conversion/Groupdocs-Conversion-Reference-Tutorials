@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET で MPT を TEX に変換するシームレス ファイル変換ガイド"
 "url": "/ja/net/presentation-formats-features/convert-mpt-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET で MPT を TEX に変換する: シームレスなファイル変換ガイド
 
 ## 導入

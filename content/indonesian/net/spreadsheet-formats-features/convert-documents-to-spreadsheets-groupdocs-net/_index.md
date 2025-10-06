@@ -4,8 +4,8 @@
 "title": "Konversi Dokumen ke Spreadsheet yang Efisien Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/spreadsheet-formats-features/convert-documents-to-spreadsheets-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi Dokumen ke Spreadsheet yang Efisien Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

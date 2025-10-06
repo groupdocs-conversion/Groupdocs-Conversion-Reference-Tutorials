@@ -4,8 +4,8 @@
 "title": "Konversi DOTX ke HTML Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Langkah demi Langkah"
 "url": "/id/net/word-processing-formats-features/convert-dotx-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi DOTX ke HTML Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

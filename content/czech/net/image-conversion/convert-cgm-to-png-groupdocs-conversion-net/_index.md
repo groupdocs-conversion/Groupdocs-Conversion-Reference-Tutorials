@@ -4,8 +4,8 @@
 "title": "Efektivní převod CGM do PNG pomocí GroupDocs.Conversion .NET pro převod obrázků"
 "url": "/cs/net/image-conversion/convert-cgm-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak efektivně převést soubory CGM do PNG pomocí GroupDocs.Conversion .NET
 
 ## Zavedení

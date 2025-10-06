@@ -4,8 +4,8 @@
 "title": "Efficiënte conversie van document naar spreadsheet met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/spreadsheet-formats-features/convert-documents-to-spreadsheets-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efficiënte conversie van document naar spreadsheet met GroupDocs.Conversion voor .NET
 
 ## Invoering

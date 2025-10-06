@@ -4,8 +4,8 @@
 "title": "Konwersja plików Visio do LaTeX za pomocą GroupDocs.Conversion for .NET&#58; Przewodnik krok po kroku"
 "url": "/pl/net/text-markup-conversion/convert-visio-to-latex-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja plików Visio do LaTeX za pomocą GroupDocs.Conversion dla .NET: przewodnik krok po kroku
 
 ## Wstęp

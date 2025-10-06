@@ -4,8 +4,8 @@
 "title": "EPUB konvertálása CSV-vé a GroupDocs.Conversion for .NET használatával – Fejlesztői útmutató"
 "url": "/hu/net/csv-structured-data-processing/convert-epub-to-csv-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # EPUB konvertálása CSV-vé a GroupDocs.Conversion for .NET használatával: Fejlesztői útmutató
 
 ## Bevezetés

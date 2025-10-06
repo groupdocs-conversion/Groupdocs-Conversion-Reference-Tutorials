@@ -4,8 +4,8 @@
 "title": "Конвертируйте DXF в PNG в C# с помощью GroupDocs.Conversion&#58; Полное руководство"
 "url": "/ru/net/cad-technical-drawing-formats/convert-dxf-to-png-groupdocs-csharp/"
 "weight": 1
+type: docs
 ---
-
 # Конвертация DXF в PNG в C# с помощью GroupDocs.Conversion: полное руководство
 
 ## Введение

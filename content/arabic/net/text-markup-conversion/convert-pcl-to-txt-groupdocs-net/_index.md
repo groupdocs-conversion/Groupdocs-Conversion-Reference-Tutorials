@@ -4,8 +4,8 @@
 "title": "تحويل ملفات PCL إلى ملفات TXT في .NET باستخدام GroupDocs.Conversion - دليل شامل"
 "url": "/ar/net/text-markup-conversion/convert-pcl-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ملفات PCL إلى TXT باستخدام GroupDocs.Conversion لـ .NET
 ## مقدمة
 هل ترغب في تحويل ملفات لغة أوامر الطابعة (PCL) إلى صيغ نص عادي؟ سواءً كنت تتعامل مع مستندات قديمة أو تُحضّر بيانات للتحليل، يُعدّ تحويل ملفات PCL أمرًا بالغ الأهمية. سيرشدك هذا الدليل إلى كيفية استخدام GroupDocs.Conversion لـ .NET لتحويل ملفات PCL بسلاسة إلى صيغة TXT.

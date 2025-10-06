@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 实现高效的 XML 文件加载和转换——分步指南"
 "url": "/zh/net/xml-json-processing/groupdocs-conversion-load-xml-nets-guide/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 高效加载和转换 XML 文件：分步指南
 
 ## 介绍

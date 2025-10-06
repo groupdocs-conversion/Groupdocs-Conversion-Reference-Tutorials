@@ -4,8 +4,8 @@
 "title": "Effektiv konvertera DOTM till XLSX med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/spreadsheet-conversion/convert-dotm-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera DOTM-filer till XLSX med GroupDocs.Conversion för .NET
 
 ## Introduktion

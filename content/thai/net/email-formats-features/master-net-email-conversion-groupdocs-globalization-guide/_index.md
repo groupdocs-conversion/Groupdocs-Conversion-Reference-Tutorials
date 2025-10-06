@@ -4,8 +4,8 @@
 "title": "เรียนรู้การแปลงอีเมล .NET ด้วย GroupDocs คู่มือการแปลงเป็นสากลสำหรับนักพัฒนา"
 "url": "/th/net/email-formats-features/master-net-email-conversion-groupdocs-globalization-guide/"
 "weight": 1
+type: docs
 ---
-
 # เรียนรู้การแปลงอีเมล .NET ด้วย GroupDocs: คู่มือการโลกาภิวัตน์ที่ครอบคลุม
 
 ## การแนะนำ

@@ -4,8 +4,8 @@
 "title": "Betűtípus-helyettesítés Java-ban&#58; GroupDocs.Conversion elsajátítása az egységes PDF-kimenet érdekében"
 "url": "/hu/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/"
 "weight": 1
+type: docs
 ---
-
 # Betűtípus-helyettesítés elsajátítása a GroupDocs.Conversion for Java segítségével
 
 ## Bevezetés

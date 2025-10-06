@@ -4,8 +4,8 @@
 "title": "Chuyển đổi XLAM sang DOCX hiệu quả bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/word-processing-formats-features/groupdocs-conversion-xlam-to-docx-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi XLAM sang DOCX hiệu quả bằng GroupDocs.Conversion cho .NET
 
 Trong thời đại kỹ thuật số ngày nay, việc xử lý hiệu quả các định dạng tệp đa dạng là rất quan trọng. Nếu bạn cần chuyển đổi tệp XLAM (Excel Add-In) thành tài liệu DOCX, hướng dẫn này sẽ hướng dẫn bạn sử dụng thư viện GroupDocs.Conversion mạnh mẽ cho .NET. Việc chuyển đổi tệp XLAM sang DOCX có thể đơn giản hóa các tác vụ xử lý dữ liệu và chuẩn bị tài liệu để trình bày.

@@ -4,8 +4,8 @@
 "title": "تحويل EPUB إلى JPG في C# باستخدام GroupDocs.Conversion .NET - دليل خطوة بخطوة"
 "url": "/ar/net/image-conversion/epub-to-jpg-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل EPUB إلى JPG في C# باستخدام GroupDocs.Conversion .NET: دليل خطوة بخطوة
 
 ## مقدمة

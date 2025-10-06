@@ -4,8 +4,8 @@
 "title": "Java dokumentumkonvertálás egyéni betűtípusokkal a GroupDocs.Conversion használatával"
 "url": "/hu/java/conversion-options/java-conversion-custom-fonts-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Java dokumentumkonvertálás egyéni betűtípusokkal a GroupDocs.Conversion használatával
 
 mai digitális világban kulcsfontosságú a dokumentumok konvertálása az eredeti design és elrendezés megőrzése mellett. Akár egy ügyfélnek készít prezentációt, akár fontos fájlokat archivál, a betűtípusok platformközi egységességének biztosítása kihívást jelenthet. Ez az oktatóanyag végigvezeti Önt a GroupDocs.Conversion for Java használatán, amellyel prezentációkat konvertálhat PDF formátumba egyéni betűtípus-helyettesítésekkel, biztosítva a vizuális integritást a folyamat során.

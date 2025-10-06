@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Java 的水印和注释教程"
 "url": "/zh/java/watermarks-annotations/"
 "weight": 20
+type: docs
 ---
-
 # GroupDocs.Conversion Java 的水印和注释教程
 
 通过我们全面的 GroupDocs.Conversion Java 版教程，探索注释和水印功能。这些分步指南演示了如何在转换过程中添加文本和图像水印、保留现有注释、控制注释可见性、基于元数据实现动态水印以及管理敏感文档中的密文标记。每个教程都包含用于水印和注释场景的实用 Java 代码示例，帮助您构建在格式转换过程中保留重要视觉元素和编辑标记的应用程序。

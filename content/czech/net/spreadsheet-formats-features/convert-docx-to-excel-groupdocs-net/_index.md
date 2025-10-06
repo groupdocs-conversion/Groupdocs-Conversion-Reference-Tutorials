@@ -4,8 +4,8 @@
 "title": "Jak převést šablony DOCX do Excelu pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/spreadsheet-formats-features/convert-docx-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést šablony DOCX do Excelu pomocí GroupDocs.Conversion pro .NET: Komplexní průvodce
 
 ## Zavedení

@@ -8,10 +8,8 @@ keywords:
 - convert VST to XLS
 - GroupDocs.Conversion for .NET
 - data analysis and management
-
+type: docs
 ---
-
-
 # How to Convert VST to XLS Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

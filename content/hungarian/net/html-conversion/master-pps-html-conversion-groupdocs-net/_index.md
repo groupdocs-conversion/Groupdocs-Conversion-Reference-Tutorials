@@ -4,8 +4,8 @@
 "title": "PPS HTML-re konvertálás elsajátítása a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/html-conversion/master-pps-html-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PPS HTML-be konvertálás elsajátítása a GroupDocs segítségével
 ## Bevezetés
 Szeretnéd PowerPoint prezentációidat könnyebben hozzáférhetővé és interaktívabbá tenni? A mai digitális környezetben elengedhetetlen, hogy webbarát formátumba, például HTML-be konvertáld őket, növelve a felhasználói elköteleződést és biztosítva a platformfüggetlen kompatibilitást.

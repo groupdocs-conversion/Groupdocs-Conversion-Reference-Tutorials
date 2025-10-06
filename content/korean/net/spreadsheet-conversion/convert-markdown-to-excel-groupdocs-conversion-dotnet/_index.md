@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 Markdown을 Excel로 변환하는 단계별 가이드"
 "url": "/ko/net/spreadsheet-conversion/convert-markdown-to-excel-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 Markdown을 Excel로 변환
 ## 소개
 마크다운 파일을 Excel처럼 누구나 쉽게 사용할 수 있는 형식으로 변환하는 데 어려움을 겪고 계신가요? 여러분만 그런 것이 아닙니다. 많은 사용자가 마크다운 파일을 변환하는 데 어려움을 겪고 있습니다. `.md` 문서를 `.xlsx`특히 스프레드시트에서 조작이 필요한 데이터 기반 콘텐츠를 다룰 때 유용합니다. 이 포괄적인 튜토리얼은 강력한 GroupDocs.Conversion for .NET 라이브러리를 사용하여 마크다운을 Excel로 변환하는 방법을 안내합니다. 이 라이브러리는 이러한 작업에 특화된 강력한 솔루션입니다.

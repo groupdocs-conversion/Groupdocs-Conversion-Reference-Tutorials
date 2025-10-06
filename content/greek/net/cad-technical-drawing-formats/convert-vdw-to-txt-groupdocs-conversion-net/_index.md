@@ -4,8 +4,8 @@
 "title": "Πώς να μετατρέψετε VDW σε TXT χρησιμοποιώντας το GroupDocs.Conversion για .NET™ - Ένας οδηγός βήμα προς βήμα"
 "url": "/el/net/cad-technical-drawing-formats/convert-vdw-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε VDW σε TXT χρησιμοποιώντας το GroupDocs.Conversion για .NET: Οδηγός βήμα προς βήμα
 
 ## Εισαγωγή

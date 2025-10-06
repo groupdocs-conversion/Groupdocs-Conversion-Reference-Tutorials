@@ -8,10 +8,8 @@ keywords:
 - convert XLTM to PSD
 - GroupDocs.Conversion .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Convert XLTM to PSD Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "PowerPoint konvertálása CSV-vé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-powerpoint-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PowerPoint konvertálása CSV-vé a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

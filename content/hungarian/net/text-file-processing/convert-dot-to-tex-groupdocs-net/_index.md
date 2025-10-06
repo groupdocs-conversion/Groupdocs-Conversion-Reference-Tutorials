@@ -4,8 +4,8 @@
 "title": "DOT konvertálása TEX-be a GroupDocs.Conversion használatával .NET-ben – Lépésről lépésre útmutató"
 "url": "/hu/net/text-file-processing/convert-dot-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DOT konvertálása TEX-be a GroupDocs.Conversion használatával .NET-ben: lépésről lépésre útmutató
 
 ## Bevezetés

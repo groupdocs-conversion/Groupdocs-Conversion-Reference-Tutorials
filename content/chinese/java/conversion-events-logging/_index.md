@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Java 的转换事件和日志记录教程"
 "url": "/zh/java/conversion-events-logging/"
 "weight": 15
+type: docs
 ---
-
 # GroupDocs.Conversion Java 的转换事件和日志记录教程
 
 使用我们的 GroupDocs.Conversion Java 事件教程，掌握监控和日志记录功能。这些详细的指南演示了如何设置事件监听器、跟踪转换进度、实现详细日志记录、处理转换通知以及以编程方式创建自定义事件处理程序。每个教程都包含可运行的 Java 代码示例，展示如何使用强大的监控和报告功能增强您的应用程序，帮助您构建具有全面审计跟踪和用户反馈的可靠转换系统。

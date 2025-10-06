@@ -4,8 +4,8 @@
 "title": "Konversi VSDM ke PSD dalam .NET&#58; Panduan Langkah demi Langkah Menggunakan GroupDocs.Conversion"
 "url": "/id/net/image-conversion/convert-vsmd-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi VSDM ke PSD dalam .NET: Panduan Langkah demi Langkah Menggunakan GroupDocs.Conversion
 
 ## Perkenalan

@@ -4,8 +4,8 @@
 "title": "คู่มือฉบับสมบูรณ์สำหรับการแปลงเอกสารในแอปพลิเคชัน Java ของ Master GroupDocs.Conversion Java"
 "url": "/th/java/document-operations/groupdocs-conversion-java-master-document-conversion/"
 "weight": 1
+type: docs
 ---
-
 # การเรียนรู้ GroupDocs.Conversion Java: ปลดล็อกความสามารถในการแปลงเอกสาร
 
 ## การแนะนำ

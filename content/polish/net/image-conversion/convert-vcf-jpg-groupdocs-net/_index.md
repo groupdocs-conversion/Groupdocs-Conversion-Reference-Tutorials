@@ -4,8 +4,8 @@
 "title": "Konwersja VCF do JPG w .NET za pomocą GroupDocs.Conversion&#58; Przewodnik krok po kroku"
 "url": "/pl/net/image-conversion/convert-vcf-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja VCF do JPG przy użyciu GroupDocs.Conversion dla .NET
 
 ## Wstęp

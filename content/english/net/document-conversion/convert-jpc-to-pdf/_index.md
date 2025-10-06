@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Effortlessly convert JPC files to PDF format using GroupDocs.Conversion for .NET. Enhance your document management capabilities with this seamless solution.
 weight: 11
 url: /net/document-conversion/convert-jpc-to-pdf/
+type: docs
 ---
-
 # Convert JPC to PDF
 
 ## Introduction

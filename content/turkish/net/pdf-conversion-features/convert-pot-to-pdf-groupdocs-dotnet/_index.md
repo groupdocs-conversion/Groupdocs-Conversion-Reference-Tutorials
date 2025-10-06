@@ -4,8 +4,8 @@
 "title": "PowerPoint Şablonunu (.pot) GroupDocs.Conversion for .NET kullanarak PDF'ye dönüştürün"
 "url": "/tr/net/pdf-conversion-features/convert-pot-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak Bir PowerPoint Şablonu (.pot) Dosyası PDF'ye Nasıl Dönüştürülür
 
 ## giriiş

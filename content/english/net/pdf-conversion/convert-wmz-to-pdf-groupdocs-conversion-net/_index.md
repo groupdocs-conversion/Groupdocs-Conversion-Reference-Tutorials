@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion .NET
 - WMZ to PDF conversion
 - File conversion with .NET
-
+type: docs
 ---
-
-
 # Convert WMZ Files to PDF Using GroupDocs.Conversion .NET
 
 ## Introduction

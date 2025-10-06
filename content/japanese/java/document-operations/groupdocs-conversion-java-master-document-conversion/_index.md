@@ -4,8 +4,8 @@
 "title": "Master GroupDocs.Conversion Java™ Javaアプリケーションにおけるドキュメント変換の包括的ガイド"
 "url": "/ja/java/document-operations/groupdocs-conversion-java-master-document-conversion/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Java をマスターする: ドキュメント変換機能のロックを解除する
 
 ## 導入

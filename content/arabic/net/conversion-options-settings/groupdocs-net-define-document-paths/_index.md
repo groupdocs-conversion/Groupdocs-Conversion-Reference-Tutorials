@@ -4,8 +4,8 @@
 "title": "إدارة مسارات المستندات بكفاءة في .NET باستخدام GroupDocs.Conversion - تحديد الثوابت للتحويلات السلسة"
 "url": "/ar/net/conversion-options-settings/groupdocs-net-define-document-paths/"
 "weight": 1
+type: docs
 ---
-
 # إدارة مسارات المستندات بكفاءة في .NET باستخدام GroupDocs.Conversion
 
 ## مقدمة

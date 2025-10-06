@@ -5,8 +5,8 @@
 "title": "PS को PDF में बदलें"
 "url": "/hi/net/file-format-conversion-tutorials/convert-ps-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # PS को PDF में बदलें
 
 ## परिचय

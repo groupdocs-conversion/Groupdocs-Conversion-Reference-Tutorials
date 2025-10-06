@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tệp PST sang PowerPoint bằng GroupDocs.Conversion .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/presentation-formats-features/convert-pst-to-powerpoint-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp PST sang PowerPoint bằng GroupDocs.Conversion .NET: Hướng dẫn từng bước
 
 ## Giới thiệu

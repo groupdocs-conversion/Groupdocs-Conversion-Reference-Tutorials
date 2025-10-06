@@ -4,8 +4,8 @@
 "title": "Jak převést MBOX do HTML pomocí GroupDocs.Conversion pro .NET | Podrobný návod"
 "url": "/cs/net/web-markup-formats/mbox-to-html-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést MBOX do HTML pomocí GroupDocs.Conversion pro .NET | Podrobný návod
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "PSD'yi GroupDocs.Conversion for .NET Kullanarak PDF'ye Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/pdf-conversion/convert-psd-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PSD Dosyalarını GroupDocs.Conversion for .NET Kullanarak PDF'ye Dönüştürün
 
 ## giriiş

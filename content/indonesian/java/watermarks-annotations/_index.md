@@ -3,8 +3,8 @@
 "title": "Tutorial Tanda Air dan Anotasi untuk GroupDocs.Conversion Java"
 "url": "/id/java/watermarks-annotations/"
 "weight": 20
+type: docs
 ---
-
 # Tutorial Tanda Air dan Anotasi untuk GroupDocs.Conversion Java
 
 Jelajahi kemampuan anotasi dan tanda air dengan tutorial GroupDocs.Conversion kami yang komprehensif untuk Java. Panduan langkah demi langkah ini menunjukkan cara menambahkan tanda air teks dan gambar selama konversi, mempertahankan anotasi yang ada, mengontrol visibilitas anotasi, menerapkan tanda air dinamis berdasarkan metadata, dan mengelola tanda redaksi dalam dokumen sensitif. Setiap tutorial mencakup contoh kode Java praktis untuk skenario tanda air dan anotasi, membantu Anda membangun aplikasi yang mempertahankan elemen visual dan tanda editorial penting selama transformasi format.

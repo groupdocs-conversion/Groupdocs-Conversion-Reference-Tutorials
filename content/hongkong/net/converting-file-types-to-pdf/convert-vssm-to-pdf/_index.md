@@ -5,8 +5,8 @@
 "title": "將 VSSM 轉換為 PDF"
 "url": "/zh-hant/net/converting-file-types-to-pdf/convert-vssm-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # 將 VSSM 轉換為 PDF
 
 ## 介紹

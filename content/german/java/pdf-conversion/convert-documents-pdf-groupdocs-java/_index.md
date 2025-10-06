@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie Dokumente in PDF mit GroupDocs.Conversion für Java – Schritt-für-Schritt-Anleitung"
 "url": "/de/java/pdf-conversion/convert-documents-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie Dokumente in PDF mit GroupDocs.Conversion für Java
 ## So konvertieren Sie Dokumente mit GroupDocs.Conversion in PDF: Eine Schritt-für-Schritt-Anleitung
 ### Einführung

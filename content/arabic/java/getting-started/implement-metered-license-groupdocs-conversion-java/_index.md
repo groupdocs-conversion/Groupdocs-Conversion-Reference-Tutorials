@@ -4,8 +4,8 @@
 "title": "تنفيذ ترخيص مُقاس لـ GroupDocs.Conversion في Java - دليل شامل"
 "url": "/ar/java/getting-started/implement-metered-license-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # تنفيذ ترخيص مقنن لـ GroupDocs.Conversion في Java
 
 ## مقدمة

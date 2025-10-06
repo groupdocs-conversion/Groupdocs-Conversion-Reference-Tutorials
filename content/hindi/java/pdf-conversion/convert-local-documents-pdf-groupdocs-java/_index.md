@@ -4,8 +4,8 @@
 "title": "Java में कुशल PDF रूपांतरण&#58; GroupDocs.Conversion लाइब्रेरी का उपयोग करना"
 "url": "/hi/java/pdf-conversion/convert-local-documents-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion के साथ Java में कुशल PDF रूपांतरण
 
 ## परिचय

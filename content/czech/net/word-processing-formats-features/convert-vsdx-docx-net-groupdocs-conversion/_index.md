@@ -4,8 +4,8 @@
 "title": "Převod VSDX do DOCX v .NET pomocí knihovny GroupDocs.Conversion"
 "url": "/cs/net/word-processing-formats-features/convert-vsdx-docx-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Zvládnutí konverzí souborů v .NET: Převod souborů VSDX do DOCX pomocí GroupDocs.Conversion
 
 ## Zavedení

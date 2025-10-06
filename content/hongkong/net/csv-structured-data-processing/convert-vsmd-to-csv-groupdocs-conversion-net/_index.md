@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 函式庫在 .NET 中將 VSDM 轉換為 CSV"
 "url": "/zh-hant/net/csv-structured-data-processing/convert-vsmd-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 函式庫在 .NET 中將 VSDM 轉換為 CSV
 
 ## 介紹

@@ -4,8 +4,8 @@
 "title": "Преобразование основных документов в .NET с использованием GroupDocs.Conversion&#58; Полное руководство"
 "url": "/ru/net/conversion-options-settings/groupdocs-conversion-net-document-convert/"
 "weight": 1
+type: docs
 ---
-
 # Освоение преобразования документов в .NET с помощью GroupDocs.Conversion
 
 ## Введение

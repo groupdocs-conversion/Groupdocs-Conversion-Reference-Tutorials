@@ -5,8 +5,8 @@
 "title": "DOTX वर्ड टेम्पलेट्स को PDF में बदलें"
 "url": "/hi/net/file-conversion-to-pdf/convert-dotx-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # DOTX वर्ड टेम्पलेट्स को PDF में बदलें
 
 ## परिचय

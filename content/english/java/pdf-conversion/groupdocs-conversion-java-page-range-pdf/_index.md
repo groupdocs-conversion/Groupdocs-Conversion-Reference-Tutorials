@@ -8,10 +8,8 @@ keywords:
 - convert page range to PDF
 - selective page conversion Java
 - GroupDocs.Conversion Java API
-
+type: docs
 ---
-
-
 # Convert Specific Page Range to PDF Using GroupDocs.Conversion Java API
 
 In today's digital age, managing documents efficiently is crucial for both businesses and individuals. Converting specific sections of a report into a portable format like PDF can save time and resources. This tutorial will guide you through using **GroupDocs.Conversion Java** to convert a specified range of pages from any document into a PDF file. By the end, you'll have all the skills needed to implement this powerful feature in your projects.

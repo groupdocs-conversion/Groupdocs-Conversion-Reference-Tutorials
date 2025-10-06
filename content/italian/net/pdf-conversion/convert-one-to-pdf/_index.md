@@ -5,8 +5,8 @@
 "title": "Converti UNO in PDF"
 "url": "/it/net/pdf-conversion/convert-one-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Converti UNO in PDF
 
 ## Introduzione

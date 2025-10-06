@@ -4,8 +4,8 @@
 "title": "Převod XLSB do JPG pomocí GroupDocs.Conversion pro .NET | Podrobný návod"
 "url": "/cs/net/image-conversion/convert-xlsb-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod XLSB do JPG pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 Transformace binárních souborů Excelu (XLSB) do vizuálních formátů, jako je JPG, je nezbytná pro zlepšení přístupnosti a porozumění. Ať už jste vývojář nebo obchodní profesionál, tato příručka vás provede převodem souboru XLSB do série obrázků JPG pomocí nástroje GroupDocs.Conversion pro .NET.

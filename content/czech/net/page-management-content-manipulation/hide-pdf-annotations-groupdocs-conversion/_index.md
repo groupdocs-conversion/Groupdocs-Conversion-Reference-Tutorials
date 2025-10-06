@@ -4,8 +4,8 @@
 "title": "Jak skrýt anotace PDF před převodem do Wordu pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/page-management-content-manipulation/hide-pdf-annotations-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Jak skrýt anotace PDF před převodem do Wordu pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

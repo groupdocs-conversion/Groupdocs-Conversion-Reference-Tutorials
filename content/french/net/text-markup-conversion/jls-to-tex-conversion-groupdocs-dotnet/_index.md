@@ -4,8 +4,8 @@
 "title": "Conversion JLS en TeX à l'aide de GroupDocs.Conversion pour .NET - Un guide complet"
 "url": "/fr/net/text-markup-conversion/jls-to-tex-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Conversion de fichiers JLS au format TEX à l'aide de GroupDocs.Conversion pour .NET
 
 ## Introduction

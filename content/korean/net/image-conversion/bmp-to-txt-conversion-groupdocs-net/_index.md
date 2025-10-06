@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용한 BMP-TXT 변환 단계별 가이드"
 "url": "/ko/net/image-conversion/bmp-to-txt-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 BMP를 TXT로 변환: 단계별 가이드
 
 ## 소개

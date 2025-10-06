@@ -4,8 +4,8 @@
 "title": "逐步指南&#58;使用 .NET 中的 GroupDocs.Conversion 將 JPF 轉換為 PSD"
 "url": "/zh-hant/net/image-formats-features/convert-jpf-to-psd-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 逐步指南：使用 .NET 中的 GroupDocs.Conversion 將 JPF 轉換為 PSD
 
 **使用 GroupDocs.Conversion for .NET 有效率地將映像從 JPF 轉換為 PSD**

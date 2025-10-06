@@ -4,8 +4,8 @@
 "title": "PS fájlok Word formátumba konvertálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/word-processing-conversion/convert-ps-to-word-using-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PS fájlok Word formátumba konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

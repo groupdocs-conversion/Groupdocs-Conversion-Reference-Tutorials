@@ -8,10 +8,8 @@ keywords:
 - convert DOCM to HTML
 - GroupDocs.Conversion for .NET
 - Microsoft Word Macro-Enabled Document conversion
-
+type: docs
 ---
-
-
 # Convert DOCM to HTML Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "ODT-ből PPT-vé konvertálás automatizálása a GroupDocs.Conversion for .NET használatával | Lépésről lépésre útmutató"
 "url": "/hu/net/presentation-conversion/automate-odt-ppt-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # ODT-ből PPT-vé konvertálás automatizálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

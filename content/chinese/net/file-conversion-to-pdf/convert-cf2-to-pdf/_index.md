@@ -5,8 +5,8 @@
 "title": "将CF2转换为PDF"
 "url": "/zh/net/file-conversion-to-pdf/convert-cf2-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # 将CF2转换为PDF
 
 ## 介绍

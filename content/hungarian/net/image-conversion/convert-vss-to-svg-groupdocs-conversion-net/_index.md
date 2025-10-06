@@ -4,8 +4,8 @@
 "title": "VSS hatékony konvertálása SVG-vé a GroupDocs.Conversion for .NET segítségével – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-vss-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VSS hatékony konvertálása SVG-vé a GroupDocs.Conversion for .NET segítségével: lépésről lépésre útmutató
 
 ## Bevezetés

@@ -8,10 +8,8 @@ keywords:
 - JPEG to PSD Conversion
 - GroupDocs.Conversion for .NET
 - Image Conversion with C#
-
+type: docs
 ---
-
-
 # How to Convert JPEG to PSD with GroupDocs.Conversion for .NET
 
 ## Introduction

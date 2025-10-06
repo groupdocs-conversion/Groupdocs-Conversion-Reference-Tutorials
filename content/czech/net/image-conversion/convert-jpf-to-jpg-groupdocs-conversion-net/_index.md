@@ -4,8 +4,8 @@
 "title": "Převod JPF do JPG pomocí GroupDocs.Conversion pro .NET | Výukový program pro převod obrázků"
 "url": "/cs/net/image-conversion/convert-jpf-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod JPF do JPG pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

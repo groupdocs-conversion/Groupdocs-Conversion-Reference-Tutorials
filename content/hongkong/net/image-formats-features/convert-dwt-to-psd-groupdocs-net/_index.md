@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 函式庫在 .NET 中將 DWT 轉換為 PSD — 逐步指南"
 "url": "/zh-hant/net/image-formats-features/convert-dwt-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 函式庫在 .NET 中將 DWT 轉換為 PSD：逐步指南
 
 ## 介紹

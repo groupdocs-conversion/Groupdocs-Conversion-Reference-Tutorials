@@ -8,10 +8,8 @@ keywords:
 - convert CDR to PowerPoint
 - GroupDocs.Conversion for .NET tutorial
 - CDR file conversion
-
+type: docs
 ---
-
-
 # How to Convert CDR Files to PowerPoint Using GroupDocs.Conversion for .NET
 
 ## Introduction

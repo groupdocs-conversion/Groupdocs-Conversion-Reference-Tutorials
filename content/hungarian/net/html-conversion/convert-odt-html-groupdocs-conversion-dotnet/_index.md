@@ -4,8 +4,8 @@
 "title": "Hogyan konvertáljunk ODT-t HTML-lé a GroupDocs.Conversion for .NET használatával? Átfogó útmutató"
 "url": "/hu/net/html-conversion/convert-odt-html-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertáljunk ODT-t HTML-lé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

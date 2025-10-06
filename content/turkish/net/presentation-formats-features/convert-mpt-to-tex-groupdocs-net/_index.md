@@ -4,8 +4,8 @@
 "title": "MPT'yi GroupDocs.Conversion for .NET ile TEX'e dönüştürün; Sorunsuz Dosya Dönüştürme Kılavuzu"
 "url": "/tr/net/presentation-formats-features/convert-mpt-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # MPT'yi GroupDocs.Conversion for .NET ile TEX'e Dönüştürme: Sorunsuz Dosya Dönüştürme Kılavuzu
 
 ## giriiş

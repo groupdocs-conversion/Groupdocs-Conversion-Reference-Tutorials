@@ -8,10 +8,8 @@ keywords:
 - convert MHT to PPTX
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Convert MHT Files to PPTX Using GroupDocs.Conversion for .NET
 
 ## Introduction

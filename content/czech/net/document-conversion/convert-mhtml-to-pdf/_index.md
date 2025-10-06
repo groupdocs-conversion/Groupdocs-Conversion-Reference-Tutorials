@@ -5,8 +5,8 @@
 "title": "Převod MHTML do PDF"
 "url": "/cs/net/document-conversion/convert-mhtml-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Převod MHTML do PDF
 
 ## Zavedení

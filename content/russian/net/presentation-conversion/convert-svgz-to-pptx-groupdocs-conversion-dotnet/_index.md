@@ -4,8 +4,8 @@
 "title": "Конвертируйте SVGZ в PPTX с помощью GroupDocs.Conversion для .NET&#58; Пошаговое руководство"
 "url": "/ru/net/presentation-conversion/convert-svgz-to-pptx-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте SVGZ в PPTX с помощью GroupDocs.Conversion для .NET: пошаговое руководство
 
 ## Введение

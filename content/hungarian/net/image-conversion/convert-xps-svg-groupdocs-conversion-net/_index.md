@@ -4,8 +4,8 @@
 "title": "XPS fájl SVG formátumba konvertálása a GroupDocs.Conversion for .NET használatával | Lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-xps-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # XPS konvertálása SVG-vé a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

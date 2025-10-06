@@ -4,8 +4,8 @@
 "title": "Uitgebreide handleiding&#58; converteer CMX naar HTML met GroupDocs.Conversion .NET voor naadloze integratie van de documentworkflow"
 "url": "/nl/net/html-conversion/groupdocs-conversion-net-cmx-to-html-guide/"
 "weight": 1
+type: docs
 ---
-
 # Uitgebreide handleiding: CMX naar HTML converteren met GroupDocs.Conversion .NET
 
 ## Invoering

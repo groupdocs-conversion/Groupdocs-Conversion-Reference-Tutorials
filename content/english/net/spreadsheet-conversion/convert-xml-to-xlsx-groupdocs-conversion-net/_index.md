@@ -8,10 +8,8 @@ keywords:
 - XML to XLSX conversion
 - GroupDocs.Conversion for .NET
 - spreadsheet conversion
-
+type: docs
 ---
-
-
 # How to Convert XML to XLSX with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

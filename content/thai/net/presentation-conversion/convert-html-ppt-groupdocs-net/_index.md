@@ -4,8 +4,8 @@
 "title": "วิธีการแปลง HTML เป็น PowerPoint โดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/presentation-conversion/convert-html-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการแปลง HTML เป็น PowerPoint โดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

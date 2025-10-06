@@ -4,8 +4,8 @@
 "title": "Hur man konverterar XPS till CSV med GroupDocs.Conversion för .NET"
 "url": "/sv/net/spreadsheet-formats-features/convert-xps-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar XPS till CSV med GroupDocs.Conversion för .NET
 
 ## Introduktion

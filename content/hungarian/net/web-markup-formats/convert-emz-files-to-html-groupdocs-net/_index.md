@@ -4,8 +4,8 @@
 "title": "EMZ fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/web-markup-formats/convert-emz-files-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # EMZ fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

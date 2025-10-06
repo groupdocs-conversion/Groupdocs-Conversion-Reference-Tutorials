@@ -4,8 +4,8 @@
 "title": "MPT konvertálása HTML-be a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/web-markup-formats/convert-mpt-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MPT konvertálása HTML-be a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

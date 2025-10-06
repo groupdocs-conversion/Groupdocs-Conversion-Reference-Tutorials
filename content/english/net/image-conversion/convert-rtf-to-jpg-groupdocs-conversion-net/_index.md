@@ -8,10 +8,8 @@ keywords:
 - convert RTF to JPG .NET
 - GroupDocs.Conversion for .NET setup
 - RTF to image conversion
-
+type: docs
 ---
-
-
 # How to Implement GroupDocs.Conversion .NET: Converting RTF to JPG
 
 ## Introduction

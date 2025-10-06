@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 将 RTF 转换为 PowerPoint - 演示文稿转换简易指南"
 "url": "/zh/net/presentation-conversion/convert-rtf-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 将 RTF 转换为 PowerPoint
 
 ## 介绍

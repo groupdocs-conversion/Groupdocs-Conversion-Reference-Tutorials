@@ -4,8 +4,8 @@
 "title": "Chuyển đổi VST sang TXT bằng GroupDocs.Conversion cho .NET - Hướng dẫn chuyển đổi văn bản và đánh dấu"
 "url": "/vi/net/text-markup-conversion/convert-vst-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp VST sang TXT bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

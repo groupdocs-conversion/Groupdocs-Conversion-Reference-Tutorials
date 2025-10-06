@@ -8,10 +8,8 @@ keywords:
 - EMF to TEX conversion
 - GroupDocs.Conversion for .NET
 - LaTeX document conversion
-
+type: docs
 ---
-
-
 # Convert EMF to TEX with GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

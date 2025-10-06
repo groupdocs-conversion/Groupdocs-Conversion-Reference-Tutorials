@@ -4,8 +4,8 @@
 "title": "Hogyan konvertáljunk PowerPoint PPSM-et Excel XLSX-be a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/spreadsheet-formats-features/convert-ppsm-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertáljunk PowerPoint PPSM-et Excel XLSX-be a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

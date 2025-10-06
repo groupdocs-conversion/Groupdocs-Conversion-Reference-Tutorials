@@ -5,8 +5,8 @@
 "title": "Konversi File CAD DWG ke PDF"
 "url": "/id/net/convert-files-to-pdf/convert-dwg-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # Konversi File CAD DWG ke PDF
 
 ## Perkenalan

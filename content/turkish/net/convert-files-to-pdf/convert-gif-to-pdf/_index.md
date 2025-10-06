@@ -5,8 +5,8 @@
 "title": "GIF Görüntülerini PDF'ye Dönüştür"
 "url": "/tr/net/convert-files-to-pdf/convert-gif-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # GIF Görüntülerini PDF'ye Dönüştür
 
 ## giriiş

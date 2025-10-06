@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion का उपयोग करके .NET में TIF से PDF रूपांतरण"
 "url": "/hi/net/word-processing-conversion/convert-tif-to-word-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion का उपयोग करके .NET में TIF से PDF रूपांतरण
 
 ## परिचय

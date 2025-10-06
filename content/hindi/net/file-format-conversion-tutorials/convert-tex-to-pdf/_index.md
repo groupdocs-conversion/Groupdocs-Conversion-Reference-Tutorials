@@ -5,8 +5,8 @@
 "title": "TEX को PDF में बदलें"
 "url": "/hi/net/file-format-conversion-tutorials/convert-tex-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # TEX को PDF में बदलें
 
 ## परिचय

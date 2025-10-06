@@ -4,8 +4,8 @@
 "title": "Guide complet &#58; Conversion de fichiers journaux en HTML à l'aide de GroupDocs.Conversion pour .NET"
 "url": "/fr/net/html-conversion/convert-log-files-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Guide complet : Convertir des fichiers journaux en HTML à l'aide de GroupDocs.Conversion pour .NET
 
 ## Introduction

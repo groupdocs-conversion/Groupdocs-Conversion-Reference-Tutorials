@@ -4,8 +4,8 @@
 "title": "CDR konvertálása PSD-vé – zökkenőmentes képátalakítás a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/image-conversion/convert-cdr-to-psd-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # CDR konvertálása PSD-vé: Zökkenőmentes képkonverzió a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

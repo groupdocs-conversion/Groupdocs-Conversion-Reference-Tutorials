@@ -4,8 +4,8 @@
 "title": "Converteer HTML naar PPTX met GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/presentation-formats-features/convert-html-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # HTML naar PPTX converteren met GroupDocs.Conversion voor .NET
 ## Invoering
 Heb je ooit een prachtig ontworpen HTML-pagina moeten omzetten in een strakke PowerPoint-presentatie? Of je nu een rapport voorbereidt of een boeiende diavoorstelling maakt, het direct omzetten van je webgebaseerde content naar een `.pptx` bestand kan een game-changer zijn. Met de **GroupDocs.Conversion voor .NET** bibliotheek verloopt dit proces naadloos en efficiënt.

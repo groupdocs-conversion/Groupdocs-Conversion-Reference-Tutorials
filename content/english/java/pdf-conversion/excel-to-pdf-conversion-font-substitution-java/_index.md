@@ -8,10 +8,8 @@ keywords:
 - Excel to PDF conversion
 - Java font substitution
 - GroupDocs.Conversion setup
-
+type: docs
 ---
-
-
 # Convert Excel to PDF in Java with Font Substitution Using GroupDocs.Conversion
 
 ## Introduction

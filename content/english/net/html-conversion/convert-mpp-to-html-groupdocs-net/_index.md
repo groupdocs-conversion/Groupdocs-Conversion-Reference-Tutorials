@@ -8,10 +8,8 @@ keywords:
 - convert MPP to HTML
 - GroupDocs.Conversion for .NET
 - .NET project conversion
-
+type: docs
 ---
-
-
 # Effortlessly Convert MPP to HTML in .NET Using GroupDocs.Conversion
 
 ## Introduction

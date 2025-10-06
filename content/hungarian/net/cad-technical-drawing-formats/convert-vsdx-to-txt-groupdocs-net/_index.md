@@ -4,8 +4,8 @@
 "title": "VSDX-TXT konvertálás mesterszintű lebonyolítása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/cad-technical-drawing-formats/convert-vsdx-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # VSDX-TXT konvertálás mesterszintű lebonyolítása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

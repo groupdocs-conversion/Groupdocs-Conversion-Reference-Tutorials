@@ -3,8 +3,8 @@ title: "CAD Formats Conversion Tutorials for GroupDocs.Conversion Java"
 description: "Step-by-step tutorials for converting CAD drawings (DWG, DXF, DGN, etc.) to other formats using GroupDocs.Conversion for Java."
 weight: 10
 url: "/java/cad-formats/"
+type: docs
 ---
-
 # CAD Formats Conversion Tutorials for GroupDocs.Conversion Java
 
 Learn to process CAD drawings with our comprehensive GroupDocs.Conversion tutorials for Java developers. These practical guides demonstrate how to convert AutoCAD files to viewable formats, preserve layers and measurements, handle large drawings, manage viewports and layouts, and transform 3D models to 2D representations. Each tutorial includes detailed Java code examples for CAD conversion scenarios, helping you build applications that can accurately process technical drawings while preserving important engineering details.

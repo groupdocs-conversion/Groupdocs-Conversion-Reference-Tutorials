@@ -8,10 +8,8 @@ keywords:
 - convert PST to CSV
 - GroupDocs.Conversion for .NET
 - PST file conversion
-
+type: docs
 ---
-
-
 # Convert PST to CSV with GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

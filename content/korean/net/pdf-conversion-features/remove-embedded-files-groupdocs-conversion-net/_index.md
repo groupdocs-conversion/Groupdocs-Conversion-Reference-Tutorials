@@ -4,8 +4,8 @@
 "title": "최적화된 문서 관리를 위해 GroupDocs.Conversion .NET을 사용하여 PDF에서 내장 파일을 제거하는 방법"
 "url": "/ko/net/pdf-conversion-features/remove-embedded-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 최적화된 문서 관리를 위해 GroupDocs.Conversion .NET을 사용하여 PDF에서 내장 파일을 제거하는 방법
 
 ## 소개

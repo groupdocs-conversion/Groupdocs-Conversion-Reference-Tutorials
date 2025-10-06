@@ -8,10 +8,8 @@ keywords:
 - convert XLT to DOCX .NET
 - GroupDocs.Conversion for .NET
 - automate document conversion
-
+type: docs
 ---
-
-
 # Convert XLT Files to DOCX Using GroupDocs.Conversion for .NET
 
 ## Introduction

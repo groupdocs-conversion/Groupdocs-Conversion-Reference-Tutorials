@@ -5,8 +5,8 @@
 "title": "LOGをPDFに変換する"
 "url": "/ja/net/document-conversion/convert-log-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # LOGをPDFに変換する
 
 ## 導入

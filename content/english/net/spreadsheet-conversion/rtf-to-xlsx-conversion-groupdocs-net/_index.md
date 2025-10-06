@@ -8,10 +8,8 @@ keywords:
 - RTF to XLSX conversion
 - GroupDocs.Conversion for .NET
 - Document Conversion in C#
-
+type: docs
 ---
-
-
 # Efficient RTF to XLSX Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

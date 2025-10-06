@@ -4,8 +4,8 @@
 "title": "Jak konwertować pliki OXPS do TXT za pomocą GroupDocs.Conversion dla .NET | Przewodnik po konwersji tekstu i znaczników"
 "url": "/pl/net/text-markup-conversion/convert-oxps-to-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak konwertować pliki OXPS do TXT za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

@@ -5,8 +5,8 @@
 "title": "将 MOBI 转换为 PDF"
 "url": "/zh/net/document-conversion/convert-mobi-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # 将 MOBI 转换为 PDF
 
 ## 介绍

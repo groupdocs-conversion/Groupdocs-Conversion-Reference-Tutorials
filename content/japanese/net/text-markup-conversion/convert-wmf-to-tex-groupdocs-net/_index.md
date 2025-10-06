@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して WMF を TEX に変換する手順"
 "url": "/ja/net/text-markup-conversion/convert-wmf-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して WMF ファイルを TEX に変換する
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 將 PST 檔案轉換為 PowerPoint — 逐步指南"
 "url": "/zh-hant/net/presentation-formats-features/convert-pst-to-powerpoint-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 將 PST 檔案轉換為 PowerPoint：逐步指南
 
 ## 介紹

@@ -8,10 +8,8 @@ keywords:
 - OTS to PPTX conversion
 - GroupDocs.Conversion .NET library
 - document format integration
-
+type: docs
 ---
-
-
 # Convert OTS to PPTX Easily with GroupDocs.Conversion .NET: A Comprehensive Guide
 
 ## Introduction

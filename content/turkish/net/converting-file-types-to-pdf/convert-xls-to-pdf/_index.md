@@ -5,8 +5,8 @@
 "title": "XLS'yi PDF'ye dönüştür"
 "url": "/tr/net/converting-file-types-to-pdf/convert-xls-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # XLS'yi PDF'ye dönüştür
 
 ## giriiş

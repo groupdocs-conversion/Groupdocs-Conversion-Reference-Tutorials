@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके कुशल PNG से PPT रूपांतरण"
 "url": "/hi/net/presentation-conversion/convert-png-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके कुशल PNG से PPT रूपांतरण
 
 ## परिचय

@@ -4,8 +4,8 @@
 "title": "Convertir JLS en HTML à l'aide de GroupDocs.Conversion pour .NET &#58; un guide étape par étape"
 "url": "/fr/net/web-markup-formats/convert-jls-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir JLS en HTML avec GroupDocs.Conversion pour .NET
 
 ## Introduction

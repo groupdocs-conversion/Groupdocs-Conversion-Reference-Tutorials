@@ -5,8 +5,8 @@
 "title": "PNG naar PDF converteren"
 "url": "/nl/net/pdf-conversion/convert-png-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # PNG naar PDF converteren
 
 ## Invoering

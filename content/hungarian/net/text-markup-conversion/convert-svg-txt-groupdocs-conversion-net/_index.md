@@ -4,8 +4,8 @@
 "title": "SVG hatékony konvertálása TXT-vé a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/text-markup-conversion/convert-svg-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # SVG hatékony konvertálása TXT-vé a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "VCF-bestanden naar HTML converteren met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/html-conversion/convert-vcf-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # VCF-bestanden naar HTML converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

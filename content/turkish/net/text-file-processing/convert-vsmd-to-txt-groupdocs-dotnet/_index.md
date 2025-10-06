@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET Kullanarak VSDM'yi TXT'ye Dönüştürme - Kapsamlı Kılavuz"
 "url": "/tr/net/text-file-processing/convert-vsmd-to-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET Kullanarak VSDM'yi TXT'ye Dönüştürme
 
 ## giriiş

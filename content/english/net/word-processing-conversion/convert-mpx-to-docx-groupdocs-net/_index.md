@@ -8,10 +8,8 @@ keywords:
 - convert MPX to DOCX
 - GroupDocs.Conversion for .NET
 - file format conversion
-
+type: docs
 ---
-
-
 # Convert MPX to DOCX Using GroupDocs.Conversion for .NET
 
 ## Introduction

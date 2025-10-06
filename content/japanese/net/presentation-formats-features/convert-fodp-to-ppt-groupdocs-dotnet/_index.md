@@ -4,8 +4,8 @@
 "title": "GroupDocs for .NETでFODPをPPTに変換する手順"
 "url": "/ja/net/presentation-formats-features/convert-fodp-to-ppt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs for .NET を使用して FODP ファイルを PPT に変換する
 
 ## 導入

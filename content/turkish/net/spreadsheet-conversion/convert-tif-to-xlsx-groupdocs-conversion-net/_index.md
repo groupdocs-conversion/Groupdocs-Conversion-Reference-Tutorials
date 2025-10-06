@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanılarak TIFF'in XLSX'e Dönüştürülmesi"
 "url": "/tr/net/spreadsheet-conversion/convert-tif-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanılarak TIFF'in XLSX'e Dönüştürülmesi
 
 ## giriiş

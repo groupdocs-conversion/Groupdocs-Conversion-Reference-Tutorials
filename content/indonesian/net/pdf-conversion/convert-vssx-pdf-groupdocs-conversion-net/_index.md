@@ -4,8 +4,8 @@
 "title": "Panduan Lengkap&#58; Konversi VSSX ke PDF Menggunakan GroupDocs.Conversion untuk .NET di C#"
 "url": "/id/net/pdf-conversion/convert-vssx-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Panduan Lengkap: Mengonversi VSSX ke PDF Menggunakan GroupDocs.Conversion untuk .NET di C#
 
 ## Perkenalan

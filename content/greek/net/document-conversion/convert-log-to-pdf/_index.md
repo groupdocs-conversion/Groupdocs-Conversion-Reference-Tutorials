@@ -5,8 +5,8 @@
 "title": "Μετατροπή αρχείου καταγραφής σε PDF"
 "url": "/el/net/document-conversion/convert-log-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # Μετατροπή αρχείου καταγραφής σε PDF
 
 ## Εισαγωγή

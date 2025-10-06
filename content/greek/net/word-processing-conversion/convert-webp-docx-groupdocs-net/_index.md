@@ -4,8 +4,8 @@
 "title": "Μετατροπή WebP σε DOCX χρησιμοποιώντας GroupDocs σε .NET® - Οδηγός βήμα προς βήμα"
 "url": "/el/net/word-processing-conversion/convert-webp-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή εικόνων WebP σε αρχεία DOCX χρησιμοποιώντας το GroupDocs.Conversion σε .NET
 
 ## Εισαγωγή

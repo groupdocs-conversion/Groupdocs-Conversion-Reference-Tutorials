@@ -4,8 +4,8 @@
 "title": "Hatékony WMZ-XLSX konvertálás a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/spreadsheet-conversion/convert-wmz-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony WMZ-XLSX konvertálás a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

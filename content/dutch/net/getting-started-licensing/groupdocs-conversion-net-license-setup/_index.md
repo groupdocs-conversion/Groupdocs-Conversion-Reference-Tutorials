@@ -4,8 +4,8 @@
 "title": "Een licentie instellen en toepassen voor GroupDocs.Conversion .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/getting-started-licensing/groupdocs-conversion-net-license-setup/"
 "weight": 1
+type: docs
 ---
-
 # Uitgebreide tutorial: Een licentie instellen voor GroupDocs.Conversion .NET
 
 ## Invoering

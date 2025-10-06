@@ -4,8 +4,8 @@
 "title": "كيفية تحويل ملفات XLSX ذات جداول البيانات المخفية إلى PDF باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/spreadsheet-formats-features/convert-xlsx-hidden-sheets-to-pdf-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل ملفات XLSX ذات جداول البيانات المخفية إلى PDF باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

@@ -8,10 +8,8 @@ keywords:
 - Convert MBOX to HTML
 - GroupDocs.Conversion for .NET
 - MBOX file conversion
-
+type: docs
 ---
-
-
 # How to Convert MBOX to HTML Using GroupDocs.Conversion for .NET | Step-by-Step Guide
 
 ## Introduction

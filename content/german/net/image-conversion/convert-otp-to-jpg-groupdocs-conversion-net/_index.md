@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie OTP in JPG mit GroupDocs.Conversion für .NET – Ein umfassender Leitfaden"
 "url": "/de/net/image-conversion/convert-otp-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie OTP-Dateien mit GroupDocs.Conversion für .NET in JPG
 
 ## Einführung

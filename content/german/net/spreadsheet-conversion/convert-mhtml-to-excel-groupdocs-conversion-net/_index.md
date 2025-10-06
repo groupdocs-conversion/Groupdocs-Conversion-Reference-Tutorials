@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie MHTML in Excel mit GroupDocs.Conversion .NET – Ein umfassender Leitfaden zur Tabellenkalkulationskonvertierung"
 "url": "/de/net/spreadsheet-conversion/convert-mhtml-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie MHTML mit GroupDocs.Conversion .NET in Excel: Ein umfassender Leitfaden
 
 ## Einführung

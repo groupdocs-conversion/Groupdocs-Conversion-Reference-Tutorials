@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tài liệu sang PDF bằng GroupDocs.Conversion for Java&#58; Hướng dẫn từng bước"
 "url": "/vi/java/pdf-conversion/convert-documents-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tài liệu sang PDF với GroupDocs.Conversion cho Java
 ## Cách chuyển đổi tài liệu sang PDF bằng GroupDocs.Conversion: Hướng dẫn từng bước
 ### Giới thiệu

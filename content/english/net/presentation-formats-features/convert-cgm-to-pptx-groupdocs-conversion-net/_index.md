@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Comprehensive Guide: Convert CGM Files to PPTX with GroupDocs.Conversion for .NET
 
 ## Introduction

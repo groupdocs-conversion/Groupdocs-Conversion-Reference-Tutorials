@@ -5,8 +5,8 @@
 "title": "WMZ'yi PDF'ye dönüştür"
 "url": "/tr/net/converting-file-types-to-pdf/convert-wmz-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # WMZ'yi PDF'ye dönüştür
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "Převod DOTM do DOC pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/word-processing-formats-features/convert-dotm-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést DOTM do DOC pomocí GroupDocs.Conversion pro .NET
 
 Máte potíže s převodem šablon aplikace Microsoft Word s podporou maker (.dotm) do standardních dokumentů aplikace Word (.doc)? Tento komplexní průvodce používáním **GroupDocs.Conversion pro .NET** Knihovna vám pomůže tento proces bez námahy zefektivnit. Po absolvování tohoto tutoriálu budete zvládat snadnou konverzi formátů souborů.

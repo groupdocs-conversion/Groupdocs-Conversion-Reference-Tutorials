@@ -4,8 +4,8 @@
 "title": "Stapsgewijze handleiding voor het converteren van OneNote naar PowerPoint met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/presentation-formats-features/convert-onenote-to-powerpoint-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converteer OneNote naar PowerPoint met GroupDocs.Conversion voor .NET
 
 ## Invoering

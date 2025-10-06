@@ -4,8 +4,8 @@
 "title": "Converta EPUB para HTML usando GroupDocs.Conversion para .NET - Um guia passo a passo"
 "url": "/pt/net/html-conversion/epub-html-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converter EPUB para HTML usando GroupDocs.Conversion para .NET: um guia passo a passo
 
 ## Introdução

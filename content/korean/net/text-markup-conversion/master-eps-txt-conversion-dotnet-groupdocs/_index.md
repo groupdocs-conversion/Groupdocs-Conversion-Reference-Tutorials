@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion을 사용하여 .NET에서 EPS를 TXT로 효율적으로 변환"
 "url": "/ko/net/text-markup-conversion/master-eps-txt-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용하여 .NET에서 EPS를 TXT로 효율적으로 변환
 
 ## 소개

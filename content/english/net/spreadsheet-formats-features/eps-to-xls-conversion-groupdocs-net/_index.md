@@ -8,10 +8,8 @@ keywords:
 - EPS to XLS conversion
 - GroupDocs.Conversion for .NET
 - .NET file conversion
-
+type: docs
 ---
-
-
 # Efficient EPS to XLS Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

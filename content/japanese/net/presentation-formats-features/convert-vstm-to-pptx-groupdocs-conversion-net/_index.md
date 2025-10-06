@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET で VSTM を PPTX に簡単に変換する"
 "url": "/ja/net/presentation-formats-features/convert-vstm-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して VSTM を PPTX に変換する
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": ".NET और GroupDocs का उपयोग करके MHTML को PSD में परिवर्तित करें एक व्यापक गाइड"
 "url": "/hi/net/image-conversion/convert-mhtml-to-psd-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion का उपयोग करके .NET के साथ MHTML को PSD में परिवर्तित करना
 
 ## परिचय

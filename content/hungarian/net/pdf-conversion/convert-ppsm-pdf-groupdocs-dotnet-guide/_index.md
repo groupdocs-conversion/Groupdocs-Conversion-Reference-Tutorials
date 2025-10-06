@@ -4,8 +4,8 @@
 "title": "PPSM konvertálása PDF-be .NET-ben a GroupDocs.Conversion használatával – lépésről lépésre útmutató"
 "url": "/hu/net/pdf-conversion/convert-ppsm-pdf-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # PPSM konvertálása PDF-be .NET-ben a GroupDocs.Conversion használatával: lépésről lépésre útmutató
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Tải và chuyển đổi tệp HTM hiệu quả bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/web-markup-formats/groupdocs-conversion-net-load-convert-htm-files/"
 "weight": 1
+type: docs
 ---
-
 # Tải và chuyển đổi tệp HTM hiệu quả bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

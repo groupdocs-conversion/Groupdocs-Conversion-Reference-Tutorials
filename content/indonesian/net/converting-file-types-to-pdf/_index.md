@@ -5,8 +5,8 @@
 "title": "Mengonversi Jenis File ke PDF"
 "url": "/id/net/converting-file-types-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Mengonversi Jenis File ke PDF
 
 ## Perkenalan

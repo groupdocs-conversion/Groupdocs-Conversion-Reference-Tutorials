@@ -8,10 +8,8 @@ keywords:
 - Convert IGES to TeX
 - GroupDocs.Conversion for .NET
 - IGS to TEX conversion
-
+type: docs
 ---
-
-
 # How to Convert IGS Files to TEX Format Using GroupDocs.Conversion for .NET
 
 ## Introduction

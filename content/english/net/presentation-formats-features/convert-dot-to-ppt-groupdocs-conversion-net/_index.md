@@ -8,10 +8,8 @@ keywords:
 - Convert DOT to PPT .NET
 - GroupDocs.Conversion document transformation
 - .NET document conversion
-
+type: docs
 ---
-
-
 # Convert DOT Files to PPT with GroupDocs.Conversion in .NET
 
 ## Introduction

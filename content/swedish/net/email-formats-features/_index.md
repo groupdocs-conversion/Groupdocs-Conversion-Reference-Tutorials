@@ -3,8 +3,8 @@
 "title": "Handledningar om e-postformat och funktioner för GroupDocs.Conversion .NET"
 "url": "/sv/net/email-formats-features/"
 "weight": 14
+type: docs
 ---
-
 # Handledningar om e-postformat och funktioner för GroupDocs.Conversion .NET
 
 Bemästra e-postdokumenthantering med våra omfattande GroupDocs.Conversion-handledningar för .NET-utvecklare. Dessa praktiska guider visar hur du konverterar e-postmeddelanden till olika dokumentformat, extraherar och konverterar e-postbilagor till olika format, ändrar fälts synlighet under konvertering, tillämpar lokalisering på e-postfält, hanterar tidszonsförskjutningar, implementerar globaliseringsinställningar, bevarar e-postmetadata och bearbetar meddelanden med inbäddat innehåll. Varje handledning ger detaljerade C#-kodexempel för e-postkonverteringsscenarier, vilket hjälper dig att bygga applikationer som effektivt kan omvandla e-postkommunikation till mer tillgängliga dokumentformat.

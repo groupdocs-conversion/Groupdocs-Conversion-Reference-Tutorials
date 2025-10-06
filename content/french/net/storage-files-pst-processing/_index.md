@@ -3,8 +3,8 @@
 "title": "Tutoriels sur le stockage des fichiers et le traitement PST pour GroupDocs.Conversion .NET"
 "url": "/fr/net/storage-files-pst-processing/"
 "weight": 21
+type: docs
 ---
-
 # Tutoriels sur le stockage des fichiers et le traitement PST pour GroupDocs.Conversion .NET
 
 Nos tutoriels sur le traitement des fichiers de stockage fournissent des instructions détaillées pour la gestion des conteneurs de messagerie dans les applications .NET. Ces guides pratiques expliquent comment extraire et convertir le contenu de fichiers de stockage personnels tels que PST et OST, récupérer les structures de dossiers, convertir le contenu de stockage vers différents formats, gérer les hiérarchies de contenu imbriquées, préserver les métadonnées des messages, traiter plusieurs messages par lots et implémenter des opérations d'extraction sélective. Chaque tutoriel inclut des exemples complets de code C# pour des scénarios de conversion de fichiers de stockage, vous aidant à créer des applications capables d'accéder et de transformer efficacement les données stockées dans des formats de conteneur de messagerie.

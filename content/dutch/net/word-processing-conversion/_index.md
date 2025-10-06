@@ -3,8 +3,8 @@
 "title": "Zelfstudies voor het converteren van tekstverwerkingsbestanden voor GroupDocs.Conversion .NET"
 "url": "/nl/net/word-processing-conversion/"
 "weight": 29
+type: docs
 ---
-
 # Zelfstudies voor het converteren van tekstverwerkingsbestanden voor GroupDocs.Conversion .NET
 
 Ontdek hoe u documenten kunt omzetten naar bewerkbare tekstverwerkingsformaten met onze uitgebreide GroupDocs.Conversion-tutorials voor .NET. Deze gedetailleerde handleidingen behandelen het converteren van PDF, Excel, PowerPoint, afbeeldingen, HTML en andere formaten naar DOC, DOCX, RTF, ODT en meer. Leer hoe u de documentstructuur kunt behouden, ingesloten objecten kunt verwerken, stijlen en opmaak kunt behouden en tekststroom en paginering kunt beheren tijdens de conversie. Elke tutorial biedt praktische C#-codevoorbeelden voor het maken van tekstverwerkingsdocumenten die de broninhoud behouden en tegelijkertijd bewerking en aanpassing mogelijk maken.

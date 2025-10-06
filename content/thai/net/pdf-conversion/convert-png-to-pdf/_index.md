@@ -5,8 +5,8 @@
 "title": "แปลง PNG เป็น PDF"
 "url": "/th/net/pdf-conversion/convert-png-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # แปลง PNG เป็น PDF
 
 ## การแนะนำ

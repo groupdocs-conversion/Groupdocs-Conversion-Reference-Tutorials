@@ -4,8 +4,8 @@
 "title": "Converteer WEBP naar SVG met GroupDocs.Conversion voor .NET | Handleiding voor het converteren van afbeeldingen"
 "url": "/nl/net/image-conversion/convert-webp-svg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # WebP-afbeeldingen naar SVG converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

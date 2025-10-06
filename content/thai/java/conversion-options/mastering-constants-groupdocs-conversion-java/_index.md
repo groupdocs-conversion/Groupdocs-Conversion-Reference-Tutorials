@@ -4,8 +4,8 @@
 "title": "เรียนรู้การจัดการค่าคงที่ใน GroupDocs.Conversion Java สำหรับโครงการแปลงไฟล์"
 "url": "/th/java/conversion-options/mastering-constants-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # เรียนรู้การจัดการค่าคงที่ด้วย GroupDocs.Conversion Java
 
 ## การแนะนำ

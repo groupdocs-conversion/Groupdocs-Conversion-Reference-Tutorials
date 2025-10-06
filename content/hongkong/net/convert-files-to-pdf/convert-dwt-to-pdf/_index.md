@@ -5,8 +5,8 @@
 "title": "將 DWT CAD 範本檔案轉換為 PDF"
 "url": "/zh-hant/net/convert-files-to-pdf/convert-dwt-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # 將 DWT CAD 範本檔案轉換為 PDF
 
 ## 介紹

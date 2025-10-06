@@ -4,8 +4,8 @@
 "title": "Konwertuj TIFF do PNG efektywnie, używając GroupDocs.Conversion dla .NET | Przewodnik po konwersji obrazów"
 "url": "/pl/net/image-conversion/convert-tiff-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak przekonwertować TIFF na PNG za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

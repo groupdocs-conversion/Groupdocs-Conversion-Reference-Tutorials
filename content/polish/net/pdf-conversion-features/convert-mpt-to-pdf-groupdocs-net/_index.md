@@ -4,8 +4,8 @@
 "title": "Konwertuj szablony Microsoft Project (.MPT) do formatu PDF za pomocą GroupDocs.Conversion dla .NET — kompleksowy przewodnik"
 "url": "/pl/net/pdf-conversion-features/convert-mpt-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj szablony Microsoft Project (.MPT) do formatu PDF za pomocą GroupDocs.Conversion dla .NET
 ## Wstęp
 Masz problemy z udostępnianiem lub archiwizowaniem szablonów Microsoft Project? Rozwiązaniem może być ich konwersja do powszechnie dostępnego formatu, takiego jak PDF. W tym kompleksowym przewodniku przyjrzymy się, jak bez wysiłku konwertować pliki MPT do plików PDF przy użyciu solidnej biblioteki GroupDocs.Conversion dla .NET. Ten samouczek pomoże Ci usprawnić udostępnianie dokumentów i zapewnić zgodność na różnych platformach.

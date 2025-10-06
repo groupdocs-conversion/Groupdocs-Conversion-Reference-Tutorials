@@ -4,8 +4,8 @@
 "title": "Converteer PowerPoint-sjabloon (.pot) naar PDF met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/pdf-conversion-features/convert-pot-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Een PowerPoint-sjabloonbestand (.pot) converteren naar PDF met GroupDocs.Conversion voor .NET
 
 ## Invoering

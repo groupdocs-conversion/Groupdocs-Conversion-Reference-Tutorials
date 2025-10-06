@@ -4,8 +4,8 @@
 "title": "Konverze EMZ do PSD v .NET pomocí GroupDocs.Conversion – kompletní průvodce"
 "url": "/cs/net/image-formats-features/emz-to-psd-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Zvládnutí konverze EMZ do PSD pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

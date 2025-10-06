@@ -4,8 +4,8 @@
 "title": "Efektywna konwersja programu PowerPoint (PPTM) do programu Word (DOCX) przy użyciu narzędzia GroupDocs.Conversion dla platformy .NET"
 "url": "/pl/net/presentation-formats-features/convert-pptm-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektywna konwersja programu PowerPoint (PPTM) do programu Word (DOCX) przy użyciu narzędzia GroupDocs.Conversion dla platformy .NET
 
 ## Wstęp

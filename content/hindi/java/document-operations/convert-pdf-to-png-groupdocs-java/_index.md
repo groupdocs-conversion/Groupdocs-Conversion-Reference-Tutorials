@@ -4,8 +4,8 @@
 "title": "Java में GroupDocs.Conversion का उपयोग करके PDF को PNG में कैसे परिवर्तित करें एक व्यापक गाइड"
 "url": "/hi/java/document-operations/convert-pdf-to-png-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Java में GroupDocs.Conversion का उपयोग करके PDF को PNG में कैसे परिवर्तित करें: एक व्यापक गाइड
 
 ## परिचय

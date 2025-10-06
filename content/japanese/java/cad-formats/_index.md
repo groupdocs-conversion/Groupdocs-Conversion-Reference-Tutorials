@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Java の CAD 形式変換チュートリアル"
 "url": "/ja/java/cad-formats/"
 "weight": 10
+type: docs
 ---
-
 # GroupDocs.Conversion Java の CAD 形式変換チュートリアル
 
 GroupDocs.Conversionの包括的なJava開発者向けチュートリアルで、CAD図面の処理方法を習得しましょう。これらの実践的なガイドでは、AutoCADファイルを表示可能な形式に変換する方法、レイヤーと測定値を保持する方法、大規模な図面を処理する方法、ビューポートとレイアウトを管理する方法、3Dモデルを2D表現に変換する方法などを解説します。各チュートリアルには、CAD変換シナリオに対応した詳細なJavaコードサンプルが含まれており、重要なエンジニアリングの詳細を維持しながら技術図面を正確に処理できるアプリケーションの構築に役立ちます。

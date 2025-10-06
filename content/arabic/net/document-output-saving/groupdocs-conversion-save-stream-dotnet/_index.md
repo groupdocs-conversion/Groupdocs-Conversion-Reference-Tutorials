@@ -4,8 +4,8 @@
 "title": "كيفية حفظ الملفات للبث المباشر باستخدام GroupDocs.Conversion في .NET | دليل خطوة بخطوة"
 "url": "/ar/net/document-output-saving/groupdocs-conversion-save-stream-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تنفيذ GroupDocs.Conversion .NET: حفظ ملف مُحوّل إلى مجرى
 
 ## مقدمة

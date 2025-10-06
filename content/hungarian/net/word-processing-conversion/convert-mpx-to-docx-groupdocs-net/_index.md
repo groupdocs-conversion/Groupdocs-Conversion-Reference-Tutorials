@@ -4,8 +4,8 @@
 "title": "MPX egyszerű DOCX formátumba konvertálása – GroupDocs.Conversion for .NET útmutató"
 "url": "/hu/net/word-processing-conversion/convert-mpx-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # MPX konvertálása DOCX-be a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

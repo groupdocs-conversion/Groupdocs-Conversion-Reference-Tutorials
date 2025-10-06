@@ -5,8 +5,8 @@
 "title": "แปลง JPC เป็น PDF"
 "url": "/th/net/document-conversion/convert-jpc-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # แปลง JPC เป็น PDF
 
 ## การแนะนำ

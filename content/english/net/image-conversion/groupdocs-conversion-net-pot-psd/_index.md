@@ -8,10 +8,8 @@ keywords:
 - convert POT to PSD
 - GroupDocs.Conversion .NET
 - image conversion guide
-
+type: docs
 ---
-
-
 # How to Convert POT Files to PSD Using GroupDocs.Conversion .NET
 
 ## Introduction

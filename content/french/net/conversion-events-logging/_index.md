@@ -3,8 +3,8 @@
 "title": "Tutoriels sur les événements de conversion et la journalisation pour GroupDocs.Conversion .NET"
 "url": "/fr/net/conversion-events-logging/"
 "weight": 24
+type: docs
 ---
-
 # Tutoriels sur les événements de conversion et la journalisation pour GroupDocs.Conversion .NET
 
 Maîtrisez les fonctionnalités de surveillance et de journalisation grâce à nos tutoriels sur les événements GroupDocs.Conversion pour .NET. Ces guides détaillés expliquent comment configurer des écouteurs d'événements, suivre l'état et la progression des conversions, implémenter une journalisation détaillée, gérer les notifications de conversion, créer des gestionnaires d'événements personnalisés, intégrer les frameworks de journalisation les plus courants, développer des indicateurs de progression de conversion et créer des pistes d'audit pour le traitement des documents. Chaque tutoriel inclut des exemples pratiques de code C# pour les fonctionnalités de surveillance et de reporting, vous aidant à créer des systèmes de conversion fiables avec des mécanismes de retour d'information complets et des fonctionnalités de dépannage.

@@ -5,8 +5,8 @@
 "title": "Převod tabulek FODS OpenDocument do PDF"
 "url": "/cs/net/convert-files-to-pdf/convert-fods-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Převod tabulek FODS OpenDocument do PDF
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "Konvertera Excel till PDF med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/pdf-conversion/convert-excel-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera ett Excel-kalkylblad till PDF med GroupDocs.Conversion för .NET
 
 ## Introduktion

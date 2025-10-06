@@ -8,10 +8,8 @@ keywords:
 - convert PS to SVG
 - GroupDocs.Conversion for .NET
 - PS file conversion
-
+type: docs
 ---
-
-
 # Convert PS to SVG Easily with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

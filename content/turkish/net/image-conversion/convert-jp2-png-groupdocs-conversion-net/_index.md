@@ -4,8 +4,8 @@
 "title": "JPEG 2000'i (JP2) GroupDocs.Conversion for .NET Kullanarak PNG'ye Dönüştürme - Adım Adım Kılavuz"
 "url": "/tr/net/image-conversion/convert-jp2-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # JPEG 2000'i (JP2) GroupDocs.Conversion for .NET Kullanarak PNG'ye Dönüştürme - Adım Adım Kılavuz
 
 ## giriiş

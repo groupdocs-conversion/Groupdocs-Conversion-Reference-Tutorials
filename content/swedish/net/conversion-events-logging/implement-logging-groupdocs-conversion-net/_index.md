@@ -4,8 +4,8 @@
 "title": "Implementera loggning i GroupDocs.Conversion för .NET - en steg-för-steg-guide"
 "url": "/sv/net/conversion-events-logging/implement-logging-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hur man implementerar loggning av GroupDocs.Conversion-händelser i .NET: En omfattande guide
 
 ## Introduktion

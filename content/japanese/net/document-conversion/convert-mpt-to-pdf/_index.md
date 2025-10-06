@@ -5,8 +5,8 @@
 "title": "MPTをPDFに変換する"
 "url": "/ja/net/document-conversion/convert-mpt-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # MPTをPDFに変換する
 
 ## 導入

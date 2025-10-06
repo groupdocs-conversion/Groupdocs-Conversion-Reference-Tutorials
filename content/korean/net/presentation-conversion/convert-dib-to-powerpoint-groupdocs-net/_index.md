@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 C#에서 DIB를 PowerPoint로 변환하기 - 포괄적인 가이드"
 "url": "/ko/net/presentation-conversion/convert-dib-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 C#에서 DIB를 PowerPoint로 변환
 
 ## 소개

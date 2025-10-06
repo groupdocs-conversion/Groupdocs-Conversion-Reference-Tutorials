@@ -4,8 +4,8 @@
 "title": "Opanuj konwersję PDF do Worda za pomocą GroupDocs.Conversion dla .NET | Kompleksowy przewodnik"
 "url": "/pl/net/word-processing-formats-features/master-pdf-to-word-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Opanowanie konwersji PDF do Word za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

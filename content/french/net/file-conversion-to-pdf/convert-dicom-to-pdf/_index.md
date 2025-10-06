@@ -5,8 +5,8 @@
 "title": "Convertir des images médicales DICOM en PDF"
 "url": "/fr/net/file-conversion-to-pdf/convert-dicom-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # Convertir des images médicales DICOM en PDF
 
 ## Introduction

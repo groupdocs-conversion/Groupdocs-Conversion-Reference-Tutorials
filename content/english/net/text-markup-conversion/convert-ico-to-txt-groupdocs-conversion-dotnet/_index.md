@@ -8,10 +8,8 @@ keywords:
 - convert ICO to TXT
 - GroupDocs.Conversion for .NET
 - file conversion .NET
-
+type: docs
 ---
-
-
 # Convert ICO Files to TXT Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

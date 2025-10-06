@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके HTML को SVG में परिवर्तित करें एक संपूर्ण गाइड"
 "url": "/hi/net/image-formats-features/convert-html-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके HTML को SVG में परिवर्तित करें
 
 ## परिचय

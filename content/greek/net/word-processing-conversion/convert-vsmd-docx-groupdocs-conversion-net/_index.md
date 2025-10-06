@@ -4,8 +4,8 @@
 "title": "Μετατροπή VSDM σε DOCX με το GroupDocs.Conversion for .NET™ - Ένας οδηγός βήμα προς βήμα"
 "url": "/el/net/word-processing-conversion/convert-vsmd-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή VSDM σε DOCX με το GroupDocs.Conversion για .NET: Οδηγός βήμα προς βήμα
 
 ## Εισαγωγή

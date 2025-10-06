@@ -4,8 +4,8 @@
 "title": ".NET'te GroupDocs.Conversion'ı Kullanarak LOG Dosyalarını Word Belgelerine Verimli Şekilde Dönüştürün"
 "url": "/tr/net/word-processing-formats-features/convert-log-files-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET'te GroupDocs.Conversion'ı Kullanarak LOG Dosyalarını Word Belgelerine Verimli Şekilde Dönüştürün
 
 ## giriiş

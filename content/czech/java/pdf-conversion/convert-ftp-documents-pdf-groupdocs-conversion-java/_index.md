@@ -4,8 +4,8 @@
 "title": "Efektivní převod FTP dokumentů do PDF pomocí GroupDocs.Conversion pro Javu – Průvodce vývojáře"
 "url": "/cs/java/pdf-conversion/convert-ftp-documents-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod FTP dokumentů do PDF pomocí GroupDocs.Conversion pro Javu
 
 ## Zavedení

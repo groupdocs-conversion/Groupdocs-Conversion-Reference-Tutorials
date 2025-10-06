@@ -4,8 +4,8 @@
 "title": "Efektywna konwersja MOBI do DOCX z GroupDocs.Conversion dla .NET&#58; Przewodnik krok po kroku"
 "url": "/pl/net/word-processing-formats-features/convert-mobi-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektywna konwersja MOBI do DOCX z GroupDocs.Conversion dla .NET: przewodnik krok po kroku
 
 ## Wstęp

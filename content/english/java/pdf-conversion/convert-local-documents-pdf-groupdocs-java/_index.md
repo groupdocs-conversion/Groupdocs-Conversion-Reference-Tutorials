@@ -8,10 +8,8 @@ keywords:
 - PDF conversion Java
 - GroupDocs.Conversion library
 - Java document handling
-
+type: docs
 ---
-
-
 # Efficient PDF Conversion in Java with GroupDocs.Conversion
 
 ## Introduction

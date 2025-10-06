@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して Excel テンプレート (.xltx) を Word 文書 (DOC) に変換する"
 "url": "/ja/net/word-processing-formats-features/convert-xltx-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して Excel テンプレート (.xltx) を Word 文書 (DOC) に変換する
 ## 導入
 強力なGroupDocs.Conversion for .NETライブラリを使用して、Excelテンプレート（.xltx）ファイルをWord文書（DOC）形式に変換する方法を解説する包括的なガイドへようこそ。このソリューションは、ドキュメント管理ワークフローに不可欠であり、データリッチなテンプレートとテキストベースのドキュメントをシームレスに統合できます。

@@ -4,8 +4,8 @@
 "title": "Конвертируйте PPT в JPG с помощью GroupDocs.Conversion для .NET&#58; пошаговое руководство"
 "url": "/ru/net/image-conversion/convert-ppt-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте PPT в JPG с помощью GroupDocs.Conversion для .NET: пошаговое руководство
 
 ## Введение

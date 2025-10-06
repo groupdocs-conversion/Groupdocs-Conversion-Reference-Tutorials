@@ -8,10 +8,8 @@ keywords:
 - convert VSTX to TXT .NET
 - GroupDocs.Conversion for .NET
 - VSTX file conversion
-
+type: docs
 ---
-
-
 # Convert VSTX to TXT in .NET Using GroupDocs.Conversion: A Step-by-Step Guide
 
 ## Introduction

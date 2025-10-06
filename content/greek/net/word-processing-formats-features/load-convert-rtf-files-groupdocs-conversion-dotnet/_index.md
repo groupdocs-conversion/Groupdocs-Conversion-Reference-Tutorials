@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική φόρτωση και μετατροπή αρχείων RTF χρησιμοποιώντας το GroupDocs.Conversion σε .NET"
 "url": "/el/net/word-processing-formats-features/load-convert-rtf-files-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική φόρτωση και μετατροπή αρχείων RTF χρησιμοποιώντας το GroupDocs.Conversion σε .NET
 
 ## Εισαγωγή

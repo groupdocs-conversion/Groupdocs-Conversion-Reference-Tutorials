@@ -4,8 +4,8 @@
 "title": "MPP hatékony konvertálása HTML-be .NET-ben a GroupDocs.Conversion használatával"
 "url": "/hu/net/html-conversion/convert-mpp-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # MPP egyszerű HTML-lé konvertálása .NET-ben a GroupDocs.Conversion segítségével
 
 ## Bevezetés

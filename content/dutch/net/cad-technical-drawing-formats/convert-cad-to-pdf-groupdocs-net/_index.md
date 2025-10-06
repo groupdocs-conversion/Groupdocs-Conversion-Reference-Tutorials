@@ -4,8 +4,8 @@
 "title": "Converteer CAD efficiënt naar PDF met GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/cad-technical-drawing-formats/convert-cad-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer CAD naar PDF met GroupDocs.Conversion voor .NET
 
 ## Invoering

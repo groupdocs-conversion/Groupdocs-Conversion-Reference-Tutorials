@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie LOG-Dateien in .NET mit GroupDocs.Conversion in JPG"
 "url": "/de/net/image-conversion/groupdocs-conversion-log-to-jpg-net/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie LOG-Dateien in .NET mit GroupDocs.Conversion in JPG
 
 ## Einführung

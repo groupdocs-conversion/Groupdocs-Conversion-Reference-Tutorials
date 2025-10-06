@@ -4,8 +4,8 @@
 "title": "Konvertieren von XLAM in HTML mit GroupDocs.Conversion für .NET – Ein Entwicklerhandbuch"
 "url": "/de/net/web-markup-formats/convert-xlam-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie XLAM-Dateien mit GroupDocs für .NET in HTML
 
 ## So konvertieren Sie XLAM-Dateien mit GroupDocs.Conversion für .NET in HTML: Ein Entwicklerhandbuch

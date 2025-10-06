@@ -5,8 +5,8 @@
 "title": "OST'yi PDF'ye dönüştür"
 "url": "/tr/net/pdf-conversion/convert-ost-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # OST'yi PDF'ye dönüştür
 
 ## giriiş

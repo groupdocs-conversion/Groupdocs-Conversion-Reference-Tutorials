@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi File OTS ke PDF Menggunakan Pustaka GroupDocs.Conversion .NET"
 "url": "/id/net/pdf-conversion-features/convert-ots-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi File OTS ke PDF Menggunakan GroupDocs.Conversion .NET
 
 ## Perkenalan

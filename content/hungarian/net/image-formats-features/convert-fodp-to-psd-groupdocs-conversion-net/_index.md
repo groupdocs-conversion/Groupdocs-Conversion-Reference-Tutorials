@@ -4,8 +4,8 @@
 "title": "FODP egyszerű PSD-vé konvertálása – Átfogó útmutató a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-formats-features/convert-fodp-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # FODP egyszerű PSD-vé konvertálása: Átfogó útmutató a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

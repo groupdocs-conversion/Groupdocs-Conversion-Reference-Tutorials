@@ -4,8 +4,8 @@
 "title": "VSTX konvertálása PPTX-re a GroupDocs.Conversion for .NET segítségével | Lépésről lépésre útmutató"
 "url": "/hu/net/presentation-formats-features/convert-vstx-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VSTX konvertálása PPTX-re a GroupDocs.Conversion for .NET segítségével: lépésről lépésre útmutató
 
 ## Bevezetés

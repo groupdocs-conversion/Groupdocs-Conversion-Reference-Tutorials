@@ -5,8 +5,8 @@
 "title": "ODP konvertálása PDF-be"
 "url": "/hu/net/document-conversion/convert-odp-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # ODP konvertálása PDF-be
 
 ## Bevezetés

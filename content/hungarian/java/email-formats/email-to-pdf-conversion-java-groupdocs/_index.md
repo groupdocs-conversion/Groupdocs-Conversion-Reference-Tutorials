@@ -4,8 +4,8 @@
 "title": "Hogyan konvertáljunk e-mailt PDF-be időzóna-eltolásos tartalommal Java-ban a GroupDocs.Conversion használatával"
 "url": "/hu/java/email-formats/email-to-pdf-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertáljunk e-mailt PDF-be időzóna-eltolásos tartalommal Java-ban a GroupDocs.Conversion használatával
 
 ## Bevezetés

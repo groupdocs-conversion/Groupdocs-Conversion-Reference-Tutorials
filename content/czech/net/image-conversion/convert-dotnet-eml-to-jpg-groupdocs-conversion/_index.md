@@ -4,8 +4,8 @@
 "title": "Kompletní průvodce převodem souborů .NET EML do formátu JPG pomocí GroupDocs"
 "url": "/cs/net/image-conversion/convert-dotnet-eml-to-jpg-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů .NET EML do formátu JPG pomocí GroupDocs: Kompletní průvodce
 
 ## Zavedení

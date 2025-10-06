@@ -8,10 +8,8 @@ keywords:
 - convert txt to xlsx
 - GroupDocs.Conversion .NET
 - TXT to XLSX conversion
-
+type: docs
 ---
-
-
 # Convert TXT Files to XLSX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

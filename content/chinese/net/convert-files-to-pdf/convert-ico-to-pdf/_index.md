@@ -5,8 +5,8 @@
 "title": "将ICO图标转换为PDF"
 "url": "/zh/net/convert-files-to-pdf/convert-ico-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # 将ICO图标转换为PDF
 
 ## 介绍

@@ -4,8 +4,8 @@
 "title": "Jak przekonwertować JPEG do PDF za pomocą GroupDocs.Conversion dla .NET&#58; Przewodnik krok po kroku"
 "url": "/pl/net/pdf-conversion-features/convert-jpeg-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak konwertować JPEG do PDF za pomocą GroupDocs.Conversion dla .NET: przewodnik krok po kroku
 
 ## Wstęp

@@ -4,8 +4,8 @@
 "title": "DWFX konvertálása PSD-vé a GroupDocs.Conversion for .NET használatával (2023-as útmutató)"
 "url": "/hu/net/cad-technical-drawing-formats/convert-dwfx-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DWFX konvertálása PSD-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

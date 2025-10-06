@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 ODG를 PNG로 변환하는 방법 마스터하기"
 "url": "/ko/net/image-formats-features/convert-odg-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 ODG를 PNG로 변환하는 방법 마스터하기
 
 ## 소개

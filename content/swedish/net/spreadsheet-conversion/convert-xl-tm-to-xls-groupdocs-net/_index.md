@@ -4,8 +4,8 @@
 "title": "Hur man konverterar XLTM till XLS med GroupDocs.Conversion för .NET | Guide till konvertering av kalkylblad"
 "url": "/sv/net/spreadsheet-conversion/convert-xl-tm-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera XLTM till XLS med GroupDocs.Conversion för .NET
 
 ## Introduktion

@@ -4,8 +4,8 @@
 "title": "Conversione efficiente da DGN a PPTX utilizzando GroupDocs.Conversion in .NET"
 "url": "/it/net/cad-technical-drawing-formats/convert-dgn-files-to-pptx-with-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Conversione efficiente da DGN a PPTX con GroupDocs.Conversion in .NET
 
 ## Introduzione

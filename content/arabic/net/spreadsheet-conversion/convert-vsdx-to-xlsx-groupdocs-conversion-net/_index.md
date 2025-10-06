@@ -4,8 +4,8 @@
 "title": "كيفية تحويل ملفات VSD إلى XLSX باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/spreadsheet-conversion/convert-vsdx-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل ملفات VSD إلى XLSX باستخدام GroupDocs.Conversion لـ .NET - دليل شامل
 
 ## مقدمة

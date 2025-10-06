@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して Word を PDF に変換し、コメントを非表示にする"
 "url": "/ja/net/pdf-conversion-features/convert-word-to-pdf-hide-comments-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET で Word 文書を PDF に変換し、コメントを非表示にする
 
 ## 導入

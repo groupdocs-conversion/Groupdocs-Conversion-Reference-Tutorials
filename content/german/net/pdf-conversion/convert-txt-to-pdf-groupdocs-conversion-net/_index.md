@@ -4,8 +4,8 @@
 "title": "Mühelose TXT-zu-PDF-Konvertierung – Master GroupDocs.Conversion für .NET in Minuten"
 "url": "/de/net/pdf-conversion/convert-txt-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Mühelose TXT-zu-PDF-Konvertierung: Master GroupDocs.Conversion für .NET in Minuten
 
 ## Einführung

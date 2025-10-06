@@ -5,8 +5,8 @@
 "title": "CGMベクターグラフィックをPDFに変換する"
 "url": "/ja/net/file-conversion-to-pdf/convert-cgm-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # CGMベクターグラフィックをPDFに変換する
 
 ## 導入

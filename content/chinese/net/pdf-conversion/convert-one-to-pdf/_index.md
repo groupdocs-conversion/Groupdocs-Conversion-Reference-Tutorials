@@ -5,8 +5,8 @@
 "title": "将 ONE 转换为 PDF"
 "url": "/zh/net/pdf-conversion/convert-one-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # 将 ONE 转换为 PDF
 
 ## 介绍

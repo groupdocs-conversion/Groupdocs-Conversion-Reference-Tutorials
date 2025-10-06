@@ -4,8 +4,8 @@
 "title": ".NET에서 GroupDocs를 활용한 마스터 문서 변환&#58; 종합 가이드"
 "url": "/ko/net/conversion-options-settings/master-document-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET을 사용한 문서 변환 마스터하기: 단계별 가이드
 
 ## 소개

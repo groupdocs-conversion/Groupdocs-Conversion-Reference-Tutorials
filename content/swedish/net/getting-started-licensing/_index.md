@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Komma igång och licensieringshandledningar för .NET-utvecklare"
 "url": "/sv/net/getting-started-licensing/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Komma igång och licensieringshandledningar för .NET-utvecklare
 
 Börja din resa med dessa viktiga GroupDocs.Conversion-handledningar som guidar dig genom installation, licenskonfiguration och hur du utför dina första dokumentkonverteringar i .NET. Våra nybörjarvänliga guider visar hur du konfigurerar din utvecklingsmiljö, initierar GroupDocs.Conversion-biblioteket, konfigurerar licens från fil eller ström, konfigurerar mätad licensiering och implementerar grundläggande konverteringsåtgärder med både standard- och fluent-API:er. Följ dessa handledningar för att snabbt behärska grunderna och förbereda dig för mer avancerade dokumentkonverteringsuppgifter i dina .NET-applikationer.

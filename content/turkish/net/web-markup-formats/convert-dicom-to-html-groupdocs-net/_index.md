@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Kullanarak DICOM'u .NET'te HTML'ye Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/web-markup-formats/convert-dicom-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion'ı Kullanarak .NET'te DICOM'u HTML'ye Dönüştürme
 
 ## giriiş

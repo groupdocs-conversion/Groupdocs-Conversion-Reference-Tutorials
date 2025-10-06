@@ -4,8 +4,8 @@
 "title": "DOCX Şablonlarını GroupDocs.Conversion for .NET Kullanarak Excel'e Nasıl Dönüştürebilirsiniz? Kapsamlı Bir Kılavuz"
 "url": "/tr/net/spreadsheet-formats-features/convert-docx-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DOCX Şablonlarını .NET için GroupDocs.Conversion Kullanarak Excel'e Nasıl Dönüştürebilirsiniz: Kapsamlı Bir Kılavuz
 
 ## giriiş

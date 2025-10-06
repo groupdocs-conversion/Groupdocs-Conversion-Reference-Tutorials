@@ -4,8 +4,8 @@
 "title": "Эффективное преобразование XML в электронную таблицу в .NET с использованием GroupDocs.Conversion"
 "url": "/ru/net/spreadsheet-conversion/xml-to-spreadsheet-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Эффективное преобразование XML в электронную таблицу в .NET с использованием GroupDocs.Conversion
 
 ## Введение

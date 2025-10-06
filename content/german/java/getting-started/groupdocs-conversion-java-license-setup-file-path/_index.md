@@ -4,8 +4,8 @@
 "title": "Einrichten der GroupDocs.Conversion Java-Lizenz – Schritt-für-Schritt-Anleitung"
 "url": "/de/java/getting-started/groupdocs-conversion-java-license-setup-file-path/"
 "weight": 1
+type: docs
 ---
-
 # Einrichten der GroupDocs.Conversion Java-Lizenz: Ein umfassendes Tutorial
 
 Willkommen zu unserer Schritt-für-Schritt-Anleitung zur Einrichtung und Verwendung der GroupDocs.Conversion-Bibliothek für Java. Dieses Tutorial konzentriert sich speziell auf die Implementierung der Lizenzeinrichtung über Dateipfade, damit Sie das volle Potenzial dieses robusten Dokumentkonvertierungstools ausschöpfen können.

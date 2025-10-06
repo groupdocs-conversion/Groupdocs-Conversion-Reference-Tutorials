@@ -4,8 +4,8 @@
 "title": "Chuyển đổi DNG sang TXT bằng GroupDocs.Conversion trong .NET | Hướng dẫn chuyển đổi văn bản và đánh dấu"
 "url": "/vi/net/text-markup-conversion/convert-dng-txt-using-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi DNG sang TXT bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

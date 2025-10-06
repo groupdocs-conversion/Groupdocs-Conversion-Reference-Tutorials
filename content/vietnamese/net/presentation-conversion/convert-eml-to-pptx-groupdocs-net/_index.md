@@ -4,8 +4,8 @@
 "title": "Chuyển đổi EML sang PPTX hiệu quả bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/presentation-conversion/convert-eml-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi EML sang PPTX hiệu quả bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

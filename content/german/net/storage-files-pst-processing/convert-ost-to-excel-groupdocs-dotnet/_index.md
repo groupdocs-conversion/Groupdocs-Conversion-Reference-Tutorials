@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie OST-Dateien mit GroupDocs.Conversion für .NET in Excel"
 "url": "/de/net/storage-files-pst-processing/convert-ost-to-excel-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie OST-Dateien mit GroupDocs.Conversion für .NET in Excel
 
 ## Einführung

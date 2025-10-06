@@ -4,8 +4,8 @@
 "title": "Chuyển đổi DOCX được bảo vệ bằng mật khẩu sang PPT bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/working-with-secure-documents/convert-docx-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi DOCX được bảo vệ bằng mật khẩu sang PPT bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

@@ -5,8 +5,8 @@
 "title": "Converteer PPS naar PDF"
 "url": "/nl/net/pdf-conversion/convert-pps-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Converteer PPS naar PDF
 
 ## Invoering

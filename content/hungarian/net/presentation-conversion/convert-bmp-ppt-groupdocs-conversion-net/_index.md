@@ -4,8 +4,8 @@
 "title": "BMP konvertálása PowerPoint PPT-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/presentation-conversion/convert-bmp-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # BMP konvertálása PowerPoint PPT-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

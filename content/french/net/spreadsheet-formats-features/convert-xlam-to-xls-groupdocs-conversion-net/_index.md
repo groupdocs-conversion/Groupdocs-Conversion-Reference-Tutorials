@@ -4,8 +4,8 @@
 "title": "Convertir XLAM en XLS à l'aide de GroupDocs.Conversion pour .NET - Un guide complet"
 "url": "/fr/net/spreadsheet-formats-features/convert-xlam-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des fichiers XLAM en XLS avec GroupDocs.Conversion pour .NET
 
 ## Introduction

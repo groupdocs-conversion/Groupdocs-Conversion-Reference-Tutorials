@@ -4,8 +4,8 @@
 "title": "Convertire JPM in TEX utilizzando GroupDocs.Conversion .NET - Una guida completa"
 "url": "/it/net/text-markup-conversion/convert-jpm-to-tex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertire JPM in TEX utilizzando GroupDocs.Conversion .NET: una guida completa
 
 ## Introduzione

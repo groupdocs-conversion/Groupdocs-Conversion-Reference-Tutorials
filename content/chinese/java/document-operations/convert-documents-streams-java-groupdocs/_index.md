@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 从 Java 中的流转换文档"
 "url": "/zh/java/document-operations/convert-documents-streams-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 从 Java 中的流转换文档
 
 ## 介绍

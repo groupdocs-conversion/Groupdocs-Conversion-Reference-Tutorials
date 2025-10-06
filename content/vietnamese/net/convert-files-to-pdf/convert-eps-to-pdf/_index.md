@@ -5,8 +5,8 @@
 "title": "Chuyển đổi các tệp EPS Encapsulated PostScript sang PDF"
 "url": "/vi/net/convert-files-to-pdf/convert-eps-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # Chuyển đổi các tệp EPS Encapsulated PostScript sang PDF
 
 ## Giới thiệu

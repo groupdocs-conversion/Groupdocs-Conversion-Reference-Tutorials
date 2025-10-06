@@ -4,8 +4,8 @@
 "title": "Převod XLSM do PowerPointu pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/presentation-conversion/convert-xlsm-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů XLSM do prezentací PowerPointu pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

@@ -8,10 +8,8 @@ keywords:
 - convert XLSB to CSV
 - GroupDocs.Conversion for .NET tutorial
 - automate file conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert XLSB to CSV using GroupDocs.Conversion for .NET
 
 ## Introduction

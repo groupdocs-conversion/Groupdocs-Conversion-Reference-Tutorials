@@ -8,10 +8,8 @@ keywords:
 - OST to PPTX conversion
 - GroupDocs.Conversion for .NET
 - data conversion
-
+type: docs
 ---
-
-
 # Comprehensive Guide: Convert OST to PPTX Using GroupDocs.Conversion for .NET
 
 In today's fast-paced professional environment, converting data efficiently across different formats is crucial. Whether you're preparing reports or archiving emails, transforming Outlook OST files into PowerPoint presentations (PPTX) can significantly streamline your workflow. This comprehensive guide walks you through using GroupDocs.Conversion for .NET to achieve seamless conversion.

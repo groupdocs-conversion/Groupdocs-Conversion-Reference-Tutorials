@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion을 사용하여 .NET에서 글꼴 대체를 통해 PowerPoint를 PDF로 변환"
 "url": "/ko/net/pdf-conversion-features/groupdocs-conversion-net-presentation-to-pdf-font-substitution/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용하여 .NET에서 글꼴 대체를 통해 PowerPoint를 PDF로 변환
 
 ## 소개

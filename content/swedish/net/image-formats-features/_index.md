@@ -3,8 +3,8 @@
 "title": "Handledningar för bildformat och funktioner för GroupDocs.Conversion .NET"
 "url": "/sv/net/image-formats-features/"
 "weight": 13
+type: docs
 ---
-
 # Handledningar för bildformat och funktioner för GroupDocs.Conversion .NET
 
 Utforska bildbehandlingsmöjligheter med våra detaljerade GroupDocs.Conversion-handledningar för .NET-utvecklare. Dessa steg-för-steg-guider visar hur man konverterar dokument till olika bildformat, implementerar OCR för att extrahera text från bilder, styr bildupplösning och kvalitet, hanterar färgdjup och transparens, anger renderingsalternativ för vektorformat, bevarar metadata under bildkonvertering och batchbearbetar flera bilder. Varje handledning innehåller praktiska C#-kodexempel för bildkonverteringsscenarier, vilket hjälper dig att bygga applikationer som effektivt kan omvandla dokument till visuella representationer eller extrahera innehåll från bildbaserade format.

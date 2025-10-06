@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi DOC sang XLSX bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/spreadsheet-formats-features/convert-doc-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi DOC sang XLSX bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

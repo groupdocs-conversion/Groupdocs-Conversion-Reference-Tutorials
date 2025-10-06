@@ -8,10 +8,8 @@ keywords:
 - convert JPEG to JPG
 - GroupDocs.Conversion for .NET
 - image conversion tutorial
-
+type: docs
 ---
-
-
 # How to Convert JPEG to JPG Using GroupDocs.Conversion for .NET
 
 ## Introduction

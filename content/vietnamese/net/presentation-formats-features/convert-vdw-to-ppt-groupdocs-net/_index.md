@@ -4,8 +4,8 @@
 "title": "Chuyển đổi hiệu quả bản vẽ Visio Web sang PowerPoint bằng GroupDocs dành cho nhà phát triển .NET"
 "url": "/vi/net/presentation-formats-features/convert-vdw-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi hiệu quả các bản vẽ Visio Web (VDW) sang bản trình bày PowerPoint bằng GroupDocs dành cho nhà phát triển .NET
 
 ## Giới thiệu

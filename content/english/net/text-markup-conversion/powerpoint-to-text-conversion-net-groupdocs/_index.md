@@ -8,10 +8,8 @@ keywords:
 - PowerPoint to Text Conversion
 - .NET PowerPoint conversion
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # Efficient PowerPoint to Text Conversion in .NET Using GroupDocs.Conversion
 ## Mastering PowerPoint to Text Conversion with GroupDocs.Conversion for .NET: A Comprehensive Guide
 ### Introduction

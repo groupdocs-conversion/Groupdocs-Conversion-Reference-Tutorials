@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion का उपयोग करके कुशल DOC से JPG रूपांतरण .NET'#58; एक चरण-दर-चरण मार्गदर्शिका"
 "url": "/hi/net/image-conversion/convert-doc-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion का उपयोग करके कुशल DOC से JPG रूपांतरण .NET: एक चरण-दर-चरण मार्गदर्शिका
 
 ## परिचय

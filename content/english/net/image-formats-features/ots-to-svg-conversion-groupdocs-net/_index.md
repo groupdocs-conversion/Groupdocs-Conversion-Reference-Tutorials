@@ -8,10 +8,8 @@ keywords:
 - OTS to SVG conversion
 - GroupDocs.Conversion for .NET
 - document transformation
-
+type: docs
 ---
-
-
 # Convert OTS to SVG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

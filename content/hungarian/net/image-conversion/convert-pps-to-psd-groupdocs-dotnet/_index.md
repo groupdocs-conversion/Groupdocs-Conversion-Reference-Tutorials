@@ -4,8 +4,8 @@
 "title": "PPS konvertálása PSD-vé .NET-ben a GroupDocs.Conversion segítségével – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-pps-to-psd-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # PPS konvertálása PSD-vé a GroupDocs.Conversion for .NET segítségével: Átfogó útmutató
 
 ## Bevezetés

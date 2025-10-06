@@ -5,8 +5,8 @@
 "title": "Konversi eBook EPUB ke PDF"
 "url": "/id/net/convert-files-to-pdf/convert-epub-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # Konversi eBook EPUB ke PDF
 
 ## Perkenalan

@@ -5,8 +5,8 @@
 "title": "IFC बिल्डिंग सूचना मॉडलिंग फ़ाइलों को PDF में बदलें"
 "url": "/hi/net/convert-files-to-pdf/convert-ifc-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # IFC बिल्डिंग सूचना मॉडलिंग फ़ाइलों को PDF में बदलें
 
 ## परिचय

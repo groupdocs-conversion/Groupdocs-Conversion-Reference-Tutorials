@@ -8,10 +8,8 @@ keywords:
 - IGS to SVG conversion
 - GroupDocs.Conversion .NET
 - CAD file format conversion
-
+type: docs
 ---
-
-
 # Convert IGS Files to SVG Using GroupDocs.Conversion .NET
 
 ## Introduction

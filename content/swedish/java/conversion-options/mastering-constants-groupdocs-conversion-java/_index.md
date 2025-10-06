@@ -4,8 +4,8 @@
 "title": "Bemästra konstanthantering i GroupDocs.Conversion Java för filkonverteringsprojekt"
 "url": "/sv/java/conversion-options/mastering-constants-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Bemästra konstanthantering med GroupDocs.Conversion Java
 
 ## Introduktion

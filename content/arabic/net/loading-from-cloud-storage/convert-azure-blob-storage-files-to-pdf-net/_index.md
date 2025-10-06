@@ -4,8 +4,8 @@
 "title": "تحويل ملفات Azure Blob Storage إلى PDF باستخدام .NET وGroupDocs.Conversion"
 "url": "/ar/net/loading-from-cloud-storage/convert-azure-blob-storage-files-to-pdf-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تنزيل ملفات Azure Blob Storage وتحويلها إلى PDF باستخدام .NET وGroupDocs.Conversion
 
 ## مقدمة

@@ -4,8 +4,8 @@
 "title": "Konversi TXT ke CSV Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/csv-structured-data-processing/convert-txt-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi TXT ke CSV Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

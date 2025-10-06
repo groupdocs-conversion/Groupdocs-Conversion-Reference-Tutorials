@@ -4,8 +4,8 @@
 "title": "VSDM konvertálása PPTX-re a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/presentation-formats-features/convert-vsmd-to-pptx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # VSDM konvertálása PPTX-re a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

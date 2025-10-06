@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके DWF को HTML में परिवर्तित करें एक चरण-दर-चरण मार्गदर्शिका"
 "url": "/hi/net/cad-technical-drawing-formats/convert-dwf-html-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके DWF फ़ाइलों को HTML में परिवर्तित करें
 ## परिचय
 डिज़ाइन वेब फ़ॉर्मेट (DWF) फ़ाइलों को वेब पर सुलभ बनाने के लिए संघर्ष कर रहे हैं? कई पेशेवरों को जटिल DWF फ़ाइलों को साझा करने या प्रकाशन के लिए HTML जैसे सार्वभौमिक रूप से सुलभ प्रारूपों में परिवर्तित करने की आवश्यकता है। .NET के लिए GroupDocs.Conversion सहज फ़ाइल रूपांतरण क्षमताएँ प्रदान करता है, जिसमें DWF फ़ाइलों को HTML में बदलना शामिल है।

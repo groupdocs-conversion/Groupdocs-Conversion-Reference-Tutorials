@@ -8,10 +8,8 @@ keywords:
 - convert PCL to XLS
 - GroupDocs.Conversion .NET
 - PCL to Excel conversion
-
+type: docs
 ---
-
-
 # Convert PCL to XLS Using GroupDocs.Conversion for .NET: A Complete Guide
 
 ## Introduction

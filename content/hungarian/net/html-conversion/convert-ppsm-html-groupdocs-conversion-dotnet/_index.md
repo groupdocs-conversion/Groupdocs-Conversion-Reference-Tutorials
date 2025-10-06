@@ -4,8 +4,8 @@
 "title": "PPSM konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/html-conversion/convert-ppsm-html-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # PPSM konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

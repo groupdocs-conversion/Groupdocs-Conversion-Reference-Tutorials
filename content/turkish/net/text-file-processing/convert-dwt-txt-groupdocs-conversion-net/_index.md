@@ -4,8 +4,8 @@
 "title": "Verimli Metin Dosyası İşleme için GroupDocs.Conversion .NET Kullanarak DWT'yi TXT'ye Dönüştürme"
 "url": "/tr/net/text-file-processing/convert-dwt-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Verimli Metin Dosyası İşleme için GroupDocs.Conversion .NET Kullanarak DWT'yi TXT'ye Dönüştürme
 
 ## giriiş

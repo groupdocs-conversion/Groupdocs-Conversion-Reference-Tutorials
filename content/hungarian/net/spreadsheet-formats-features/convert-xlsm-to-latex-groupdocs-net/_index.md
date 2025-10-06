@@ -4,8 +4,8 @@
 "title": "XLSM egyszerű LaTeX-fájlokká konvertálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/spreadsheet-formats-features/convert-xlsm-to-latex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # XLSM egyszerű LaTeX-fájlokká konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

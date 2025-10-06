@@ -4,8 +4,8 @@
 "title": "Convertir WMZ en PPTX à l'aide de GroupDocs.Conversion pour .NET - Un guide complet"
 "url": "/fr/net/presentation-formats-features/convert-wmz-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir WMZ en PPTX avec GroupDocs.Conversion pour .NET : guide complet
 
 ## Introduction

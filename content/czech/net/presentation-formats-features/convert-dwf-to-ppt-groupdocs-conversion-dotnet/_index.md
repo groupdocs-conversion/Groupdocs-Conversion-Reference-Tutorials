@@ -4,8 +4,8 @@
 "title": "Jak převést soubory DWF do prezentací v PowerPointu pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/presentation-formats-features/convert-dwf-to-ppt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory DWF do prezentací v PowerPointu pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

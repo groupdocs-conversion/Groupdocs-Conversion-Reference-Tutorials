@@ -8,10 +8,8 @@ keywords:
 - PNG to PPT conversion
 - GroupDocs.Conversion for .NET
 - PowerPoint presentation from PNG
-
+type: docs
 ---
-
-
 # Efficient PNG to PPT Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - convert JPEG 2000 to Excel
 - GroupDocs.Conversion for .NET
 - JPM to XLS conversion
-
+type: docs
 ---
-
-
 # Convert JPEG 2000 to Excel with GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - convert PowerPoint templates to text
 - GroupDocs.Conversion for .NET
 - POT to TXT conversion
-
+type: docs
 ---
-
-
 # How to Convert PowerPoint Templates to Text Using GroupDocs.Conversion for .NET
 
 ## Introduction

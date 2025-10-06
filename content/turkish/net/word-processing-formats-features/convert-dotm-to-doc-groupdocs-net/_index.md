@@ -4,8 +4,8 @@
 "title": "DOTM'yi GroupDocs.Conversion for .NET Kullanarak DOC'a Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/word-processing-formats-features/convert-dotm-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanılarak DOTM'nin DOC'a Nasıl Dönüştürüleceği
 
 Microsoft Word Makro Etkin Şablonlarını (.dotm) standart Word Belgelerine (.doc) dönüştürmekte zorluk mu çekiyorsunuz? Bu kapsamlı kılavuz, **GroupDocs.Conversion .NET için** kütüphane bu süreci zahmetsizce kolaylaştırmaya yardımcı olacaktır. Bu eğitimin sonunda, dosya formatlarını kolaylıkla dönüştürmede ustalaşacaksınız.

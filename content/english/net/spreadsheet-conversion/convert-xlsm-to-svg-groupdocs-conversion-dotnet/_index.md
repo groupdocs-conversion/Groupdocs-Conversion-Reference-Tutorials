@@ -8,10 +8,8 @@ keywords:
 - convert XLSM to SVG .NET
 - GroupDocs.Conversion for .NET
 - automate spreadsheet conversion
-
+type: docs
 ---
-
-
 # Convert XLSM to SVG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

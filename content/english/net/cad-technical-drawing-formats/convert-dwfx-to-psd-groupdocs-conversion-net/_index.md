@@ -8,10 +8,8 @@ keywords:
 - convert DWFX to PSD
 - GroupDocs.Conversion for .NET
 - file format conversion
-
+type: docs
 ---
-
-
 # How to Convert DWFX to PSD Using GroupDocs.Conversion for .NET
 
 ## Introduction

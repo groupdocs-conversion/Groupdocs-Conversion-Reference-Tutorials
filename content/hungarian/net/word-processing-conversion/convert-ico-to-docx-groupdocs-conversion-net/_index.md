@@ -4,8 +4,8 @@
 "title": "ICO konvertálása DOCX-be a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/word-processing-conversion/convert-ico-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # ICO DOCX formátumba konvertálása a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

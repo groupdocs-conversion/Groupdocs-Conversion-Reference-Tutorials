@@ -4,8 +4,8 @@
 "title": "PPTM fájlok XLSX formátumra konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/presentation-conversion/convert-pptm-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PPTM fájlok XLSX formátumra konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

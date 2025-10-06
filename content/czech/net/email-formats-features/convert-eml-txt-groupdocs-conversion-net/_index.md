@@ -4,8 +4,8 @@
 "title": "Jak převést soubory EML do formátu TXT pomocí nástroje GroupDocs.Conversion pro .NET (podrobný návod)"
 "url": "/cs/net/email-formats-features/convert-eml-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory EML do formátu TXT pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके C# में फ़ाइल रूपांतरण में महारत हासिल करना"
 "url": "/hi/net/document-output-saving/mastering-file-conversion-csharp-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # C# में फ़ाइल रूपांतरण में महारत हासिल करना: .NET के लिए GroupDocs.Conversion लागू करना
 
 ## परिचय

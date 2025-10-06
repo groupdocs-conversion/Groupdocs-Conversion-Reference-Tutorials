@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 高效加载和转换 HTM 文件"
 "url": "/zh/net/web-markup-formats/groupdocs-conversion-net-load-convert-htm-files/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 高效加载和转换 HTM 文件
 
 ## 介绍

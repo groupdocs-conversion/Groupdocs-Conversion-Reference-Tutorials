@@ -4,8 +4,8 @@
 "title": "Как конвертировать JPX в PNG с помощью GroupDocs.Conversion .NET&#58; Пошаговое руководство"
 "url": "/ru/net/image-conversion/convert-jpx-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Как конвертировать JPX в PNG с помощью GroupDocs.Conversion .NET: пошаговое руководство
 
 ## Введение

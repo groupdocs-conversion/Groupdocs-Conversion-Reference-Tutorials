@@ -5,8 +5,8 @@
 "title": "Chuyển đổi PSD sang PDF"
 "url": "/vi/net/file-format-conversion-tutorials/convert-psd-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # Chuyển đổi PSD sang PDF
 
 ## Giới thiệu

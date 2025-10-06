@@ -3,8 +3,8 @@
 "title": "Tutorial Format CAD dan Gambar Teknis untuk GroupDocs.Conversion .NET"
 "url": "/id/net/cad-technical-drawing-formats/"
 "weight": 18
+type: docs
 ---
-
 # Tutorial Format CAD dan Gambar Teknis untuk GroupDocs.Conversion .NET
 
 Pelajari cara memproses gambar teknis dengan tutorial GroupDocs.Conversion kami yang komprehensif untuk pengembang .NET. Panduan praktis ini menunjukkan cara mengonversi AutoCAD dan file CAD lainnya ke format yang dapat dilihat, menentukan tata letak untuk konversi, mengatur dimensi lebar dan tinggi khusus untuk keluaran, mempertahankan lapisan dan pengukuran, menangani gambar besar secara efisien, mengelola viewport dan penskalaan, serta mengubah model 3D menjadi representasi 2D. Setiap tutorial menyertakan contoh kode C# terperinci untuk skenario konversi CAD, membantu Anda membangun aplikasi yang dapat memproses gambar teknis secara akurat sambil mempertahankan detail teknik yang penting.

@@ -4,8 +4,8 @@
 "title": "CMX konvertálása TXT-vé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/text-file-processing/convert-cmx-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # CMX konvertálása TXT-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

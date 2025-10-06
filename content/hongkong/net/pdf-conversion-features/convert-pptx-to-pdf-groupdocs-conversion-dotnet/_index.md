@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 掌握 PPTX 到 PDF 的轉換－開發人員指南"
 "url": "/zh-hant/net/pdf-conversion-features/convert-pptx-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 掌握 PPTX 到 PDF 的轉換：開發人員指南
 
 ## 介紹

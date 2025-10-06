@@ -5,8 +5,8 @@
 "title": "Konvertieren Sie IGS 3D-Modelldateien in PDF"
 "url": "/de/net/convert-files-to-pdf/convert-igs-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # Konvertieren Sie IGS 3D-Modelldateien in PDF
 
 ## Einführung

@@ -4,8 +4,8 @@
 "title": "PDF konvertálása PSD-vé a GroupDocs.Conversion for Java használatával – Átfogó útmutató"
 "url": "/hu/java/pdf-conversion/groupdocs-conversion-pdf-to-psd-java/"
 "weight": 1
+type: docs
 ---
-
 # PDF konvertálása PSD-vé a GroupDocs.Conversion for Java használatával
 
 ## Bevezetés

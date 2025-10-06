@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET ile ICO Dosyalarını PPTX'e Nasıl Dönüştürebilirsiniz? Adım Adım Kılavuz"
 "url": "/tr/net/presentation-formats-features/convert-ico-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET ile ICO Dosyalarını PPTX'e Nasıl Dönüştürebilirsiniz: Adım Adım Kılavuz
 
 ## giriiş

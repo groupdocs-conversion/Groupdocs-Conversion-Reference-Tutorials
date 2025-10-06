@@ -4,8 +4,8 @@
 "title": "Jak převést DOCM do XLS pomocí GroupDocs.Conversion v .NET – Podrobný návod"
 "url": "/cs/net/spreadsheet-conversion/convert-docm-to-xls-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést DOCM do XLS pomocí GroupDocs.Conversion v .NET: Podrobný návod
 ## Zavedení
 Potřebujete převést dokument aplikace Microsoft Word s podporou maker (.docm) do formátu Excel? Tento tutoriál vás provede používáním knihovny GroupDocs.Conversion v .NET pro efektivní převod dokumentů.

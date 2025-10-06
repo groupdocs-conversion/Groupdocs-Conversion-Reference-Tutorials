@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion'ı Kullanarak VSDX'i DOC'a Verimli Şekilde Dönüştürün"
 "url": "/tr/net/word-processing-conversion/convert-vsdx-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanılarak VSDX'in DOC'a Nasıl Dönüştürüleceği
 
 ## giriiş

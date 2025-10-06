@@ -4,8 +4,8 @@
 "title": "Převod XLTM do PDF pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/loading-from-remote-sources/convert-xl-tm-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod XLTM do PDF pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

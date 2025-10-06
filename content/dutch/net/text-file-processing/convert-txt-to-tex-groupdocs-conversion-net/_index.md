@@ -4,8 +4,8 @@
 "title": "Converteer TXT naar TEX-bestanden met GroupDocs.Conversion voor .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/text-file-processing/convert-txt-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer TXT naar TEX-bestanden met GroupDocs.Conversion voor .NET: een stapsgewijze handleiding
 
 ## Invoering

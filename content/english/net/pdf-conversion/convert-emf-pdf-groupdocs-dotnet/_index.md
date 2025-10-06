@@ -8,10 +8,8 @@ keywords:
 - convert EMF to PDF
 - GroupDocs.Conversion for .NET
 - .NET document conversion
-
+type: docs
 ---
-
-
 # Convert EMF Files to PDF Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

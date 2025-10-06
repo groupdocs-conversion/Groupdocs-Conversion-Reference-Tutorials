@@ -4,8 +4,8 @@
 "title": "Полное руководство&#58; конвертация OneNote в SVG с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/image-conversion/convert-onenote-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Полное руководство: конвертация OneNote в SVG с помощью GroupDocs.Conversion для .NET
 
 ## Введение

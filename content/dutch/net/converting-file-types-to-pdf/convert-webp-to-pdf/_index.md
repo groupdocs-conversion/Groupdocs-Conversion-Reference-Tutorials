@@ -5,8 +5,8 @@
 "title": "WebP naar PDF converteren"
 "url": "/nl/net/converting-file-types-to-pdf/convert-webp-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # WebP naar PDF converteren
 
 ## Invoering

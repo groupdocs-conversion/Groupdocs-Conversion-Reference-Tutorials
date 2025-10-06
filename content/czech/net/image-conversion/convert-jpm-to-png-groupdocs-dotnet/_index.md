@@ -4,8 +4,8 @@
 "title": "Převod JPEG 2000 (JPM) do PNG pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/image-conversion/convert-jpm-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod JPEG 2000 (JPM) do PNG pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "Hur man konverterar PowerPoint-bildspel (.PPSM) till CSV med GroupDocs.Conversion för .NET"
 "url": "/sv/net/spreadsheet-formats-features/convert-ppsm-to-csv-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar PowerPoint-bildspel (.PPSM) till CSV med GroupDocs.Conversion för .NET
 
 ## Introduktion

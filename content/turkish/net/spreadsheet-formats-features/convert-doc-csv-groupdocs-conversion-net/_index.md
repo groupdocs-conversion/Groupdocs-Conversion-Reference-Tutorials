@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET&#58;i Kullanarak DOC'u CSV'ye Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/spreadsheet-formats-features/convert-doc-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET Kullanarak DOC'u CSV'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

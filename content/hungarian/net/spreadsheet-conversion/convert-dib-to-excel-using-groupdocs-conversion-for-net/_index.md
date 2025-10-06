@@ -4,8 +4,8 @@
 "title": "DIB konvertálása Excelbe a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/spreadsheet-conversion/convert-dib-to-excel-using-groupdocs-conversion-for-net/"
 "weight": 1
+type: docs
 ---
-
 # DIB konvertálása Excelbe a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

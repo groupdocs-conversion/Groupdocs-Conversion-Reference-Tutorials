@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 PowerPoint 範本轉換為 PNG — 逐步指南"
 "url": "/zh-hant/net/presentation-formats-features/convert-powerpoint-templates-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 PowerPoint 範本轉換為 PNG：逐步指南
 
 ## 介紹

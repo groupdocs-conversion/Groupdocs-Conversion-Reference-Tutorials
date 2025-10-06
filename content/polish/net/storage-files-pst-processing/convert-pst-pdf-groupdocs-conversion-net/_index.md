@@ -4,8 +4,8 @@
 "title": "Konwertuj pliki PST do PDF bezproblemowo, korzystając z GroupDocs.Conversion dla .NET"
 "url": "/pl/net/storage-files-pst-processing/convert-pst-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Bezproblemowa konwersja plików PST do PDF dzięki GroupDocs.Conversion dla .NET
 
 ## Wstęp

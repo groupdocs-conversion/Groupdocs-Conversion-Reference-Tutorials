@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi tài liệu Word được bảo vệ bằng mật khẩu sang bảng tính Excel bằng GroupDocs.Conversion cho Java"
 "url": "/vi/java/spreadsheet-formats/convert-password-docs-to-spreadsheets-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tài liệu được bảo vệ bằng mật khẩu bằng GroupDocs.Conversion cho Java
 
 ## Giới thiệu

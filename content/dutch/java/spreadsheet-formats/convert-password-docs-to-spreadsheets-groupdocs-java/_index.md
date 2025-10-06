@@ -4,8 +4,8 @@
 "title": "Hoe u wachtwoordbeveiligde Word-documenten naar Excel-spreadsheets kunt converteren met GroupDocs.Conversion voor Java"
 "url": "/nl/java/spreadsheet-formats/convert-password-docs-to-spreadsheets-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Hoe u wachtwoordbeveiligde documenten kunt converteren met GroupDocs.Conversion voor Java
 
 ## Invoering

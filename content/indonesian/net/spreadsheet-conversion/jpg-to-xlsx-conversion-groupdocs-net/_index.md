@@ -4,8 +4,8 @@
 "title": "Konversi JPG ke XLSX yang Efisien Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/spreadsheet-conversion/jpg-to-xlsx-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi JPG ke XLSX yang Efisien Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

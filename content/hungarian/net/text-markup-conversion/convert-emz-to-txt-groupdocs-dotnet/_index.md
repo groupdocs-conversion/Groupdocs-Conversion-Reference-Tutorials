@@ -4,8 +4,8 @@
 "title": "EMZ konvertálása TXT-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/text-markup-conversion/convert-emz-to-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # EMZ fájlok konvertálása TXT formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

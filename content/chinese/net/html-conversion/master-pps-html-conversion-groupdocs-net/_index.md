@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 掌握 PPS 到 HTML 的转换——综合指南"
 "url": "/zh/net/html-conversion/master-pps-html-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs 掌握 PPS 到 HTML 的转换
 ## 介绍
 您是否希望让您的 PowerPoint 演示文稿更易于访问且更具互动性？在当今的数字时代，将其转换为 HTML 等网页友好格式至关重要，这可以增强用户参与度并确保跨平台兼容性。

@@ -4,8 +4,8 @@
 "title": "Convertire MPP in SVG in modo efficiente utilizzando GroupDocs.Conversion .NET"
 "url": "/it/net/image-conversion/convert-mpp-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire MPP in SVG in modo efficiente utilizzando GroupDocs.Conversion .NET
 
 Nell'attuale contesto digitale in rapida evoluzione, una conversione efficiente dei file è fondamentale. Che si gestiscano progetti IT o si sviluppino sistemi complessi, convertire i file di Microsoft Project (MPP) in grafica vettoriale scalabile (SVG) ne migliora l'accessibilità e la rappresentazione visiva. Questo tutorial utilizza GroupDocs.Conversion per .NET per semplificare questo processo.

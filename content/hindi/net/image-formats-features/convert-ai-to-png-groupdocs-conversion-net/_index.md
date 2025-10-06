@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion के साथ AI को PNG में कनवर्ट करें एक चरण-दर-चरण मार्गदर्शिका"
 "url": "/hi/net/image-formats-features/convert-ai-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion के साथ AI को PNG में कनवर्ट करें: एक चरण-दर-चरण मार्गदर्शिका
 
 ## परिचय

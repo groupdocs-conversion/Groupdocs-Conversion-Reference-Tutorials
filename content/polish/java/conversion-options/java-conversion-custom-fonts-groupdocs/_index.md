@@ -4,8 +4,8 @@
 "title": "Konwersja dokumentów Java z niestandardowymi czcionkami przy użyciu GroupDocs.Conversion"
 "url": "/pl/java/conversion-options/java-conversion-custom-fonts-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja dokumentów Java z niestandardowymi czcionkami przy użyciu GroupDocs.Conversion
 
 dzisiejszym cyfrowym świecie konwersja dokumentów przy zachowaniu ich oryginalnego projektu i układu jest kluczowa. Niezależnie od tego, czy przygotowujesz prezentację dla klienta, czy archiwizujesz ważne pliki, zapewnienie spójności czcionek na różnych platformach może być trudne. Ten samouczek przeprowadzi Cię przez proces używania GroupDocs.Conversion for Java do konwersji prezentacji do plików PDF z niestandardowymi zamianami czcionek, zapewniając integralność wizualną w całym procesie.

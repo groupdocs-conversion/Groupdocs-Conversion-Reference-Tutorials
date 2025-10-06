@@ -4,8 +4,8 @@
 "title": "Effiziente DWG-zu-XLSX-Konvertierung mit GroupDocs.Conversion für .NET"
 "url": "/de/net/cad-technical-drawing-formats/convert-dwg-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie DWG-Dateien mit GroupDocs.Conversion für .NET in XLSX
 
 ## Einführung

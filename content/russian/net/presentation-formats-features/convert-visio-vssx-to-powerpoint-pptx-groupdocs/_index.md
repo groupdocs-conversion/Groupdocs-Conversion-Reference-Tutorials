@@ -4,8 +4,8 @@
 "title": "Как преобразовать файлы трафаретов Visio (VSSX) в презентации PowerPoint с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/presentation-formats-features/convert-visio-vssx-to-powerpoint-pptx-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Как преобразовать файлы трафаретов Visio (VSSX) в презентации PowerPoint с помощью GroupDocs.Conversion для .NET
 
 ## Введение

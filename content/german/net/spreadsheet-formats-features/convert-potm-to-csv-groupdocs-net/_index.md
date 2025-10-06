@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie POTM-Vorlagen mit GroupDocs.Conversion für .NET in CSV – Ein umfassender Leitfaden"
 "url": "/de/net/spreadsheet-formats-features/convert-potm-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie Microsoft PowerPoint-Vorlagen (POTM) mit GroupDocs.Conversion für .NET in CSV
 
 ## Einführung

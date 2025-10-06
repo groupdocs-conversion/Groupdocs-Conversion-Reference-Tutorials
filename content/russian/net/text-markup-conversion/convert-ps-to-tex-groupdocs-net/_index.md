@@ -4,8 +4,8 @@
 "title": "Конвертируйте PS в TEX с помощью GroupDocs.Conversion для .NET&#58; Пошаговое руководство"
 "url": "/ru/net/text-markup-conversion/convert-ps-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертация PS в TEX с помощью GroupDocs.Conversion для .NET: пошаговое руководство
 
 ## Введение

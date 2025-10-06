@@ -5,8 +5,8 @@
 "title": "Chuyển đổi trang web HTM sang PDF"
 "url": "/vi/net/convert-files-to-pdf/convert-htm-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # Chuyển đổi trang web HTM sang PDF
 
 ## Giới thiệu

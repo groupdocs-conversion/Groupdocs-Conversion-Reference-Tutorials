@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 암호로 보호된 DOCX를 PPT로 변환"
 "url": "/ko/net/working-with-secure-documents/convert-docx-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 암호로 보호된 DOCX를 PPT로 변환
 
 ## 소개

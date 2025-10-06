@@ -4,8 +4,8 @@
 "title": "Динамические пути вывода в .NET с GroupDocs.Conversion&#58; Подробное руководство"
 "url": "/ru/net/document-output-saving/dynamic-output-paths-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Динамические пути вывода в .NET с GroupDocs.Conversion: подробное руководство
 
 ## Введение

@@ -3,8 +3,8 @@
 "title": "Hướng dẫn xử lý dữ liệu có cấu trúc và CSV cho GroupDocs.Conversion .NET"
 "url": "/vi/net/csv-structured-data-processing/"
 "weight": 15
+type: docs
 ---
-
 # Hướng dẫn xử lý dữ liệu có cấu trúc và CSV cho GroupDocs.Conversion .NET
 
 Hướng dẫn về dữ liệu có cấu trúc và CSV của chúng tôi cung cấp hướng dẫn chi tiết để xử lý các định dạng bảng và tập trung vào dữ liệu trong các ứng dụng .NET. Các hướng dẫn thực tế này trình bày cách chuyển đổi tệp CSV sang định dạng JSON và XML, chuyển đổi CSV sang nhiều loại tài liệu khác nhau, chỉ định các dấu phân cách và tùy chọn mã hóa, chuyển đổi dữ liệu ngày giờ và số một cách phù hợp, quản lý tiêu đề và tên trường, bảo toàn các loại dữ liệu trong quá trình chuyển đổi và triển khai các hoạt động chuyển đổi dữ liệu hàng loạt. Mỗi hướng dẫn bao gồm các ví dụ mã C# hoàn chỉnh cho các tình huống chuyển đổi định dạng dữ liệu, giúp bạn xây dựng các ứng dụng có thể kết nối hiệu quả giữa các định dạng dữ liệu thô và các tài liệu có thể đọc được bằng con người.

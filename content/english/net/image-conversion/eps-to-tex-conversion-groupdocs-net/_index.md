@@ -8,10 +8,8 @@ keywords:
 - EPS to TEX conversion
 - GroupDocs.Conversion .NET
 - document format conversion
-
+type: docs
 ---
-
-
 # Mastering EPS to TEX Conversion with GroupDocs.Conversion for .NET
 
 ## Introduction

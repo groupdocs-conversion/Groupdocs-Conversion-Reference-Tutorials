@@ -4,8 +4,8 @@
 "title": "MPP egyszerű DOCX formátumba konvertálása a .NET GroupDocs.Conversion segítségével"
 "url": "/hu/net/word-processing-formats-features/groupdocs-conversion-net-mpp-to-docx/"
 "weight": 1
+type: docs
 ---
-
 # MPP egyszerű DOCX formátumba konvertálása a .NET GroupDocs.Conversion segítségével
 
 ## Bevezetés

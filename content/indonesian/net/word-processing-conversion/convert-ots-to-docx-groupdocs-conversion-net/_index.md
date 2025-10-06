@@ -4,8 +4,8 @@
 "title": "Panduan Konversi OTS ke DOCX dengan Mudah GroupDocs.Conversion untuk .NET"
 "url": "/id/net/word-processing-conversion/convert-ots-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi OTS ke DOCX dengan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

@@ -3,8 +3,8 @@
 "title": "Documenten laden vanuit externe bronnen - Tutorials voor GroupDocs.Conversion .NET"
 "url": "/nl/net/loading-from-remote-sources/"
 "weight": 3
+type: docs
 ---
-
 # Documenten laden vanuit externe bronnen - Tutorials voor GroupDocs.Conversion .NET
 
 Leer het laden van documenten op afstand met onze gedetailleerde GroupDocs.Conversion-tutorials voor .NET-ontwikkelaars. Deze praktische handleidingen laten zien hoe u documenten kunt ophalen en verwerken van web-URL's en FTP-servers, hoe u authenticatievereisten kunt beheren, time-outs en verbindingsproblemen kunt beheren, de voortgang van het downloaden kunt bewaken en met verschillende protocollen kunt werken. Elke tutorial bevat werkende C#-codevoorbeelden die laten zien hoe u externe documentbronnen kunt integreren in uw conversieworkflow, zodat u applicaties kunt bouwen die toegang hebben tot content, ongeacht de locatie.

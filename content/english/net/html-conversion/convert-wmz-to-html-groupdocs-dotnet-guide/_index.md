@@ -8,10 +8,8 @@ keywords:
 - Convert WMZ to HTML
 - GroupDocs.Conversion for .NET
 - WMZ file conversion
-
+type: docs
 ---
-
-
 # How to Convert WMZ to HTML Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

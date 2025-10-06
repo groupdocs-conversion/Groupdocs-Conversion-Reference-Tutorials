@@ -4,8 +4,8 @@
 "title": "JPC konvertálása JPG-vé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-formats-features/convert-jpc-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # JPC konvertálása JPG-vé a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

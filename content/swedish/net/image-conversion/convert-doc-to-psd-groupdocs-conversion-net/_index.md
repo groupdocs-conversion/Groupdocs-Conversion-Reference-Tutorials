@@ -4,8 +4,8 @@
 "title": "Steg-för-steg-guide för att konvertera DOC till PSD med GroupDocs.Conversion för .NET"
 "url": "/sv/net/image-conversion/convert-doc-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera DOC till PSD: En steg-för-steg-guide med GroupDocs.Conversion för .NET
 
 ## Introduktion

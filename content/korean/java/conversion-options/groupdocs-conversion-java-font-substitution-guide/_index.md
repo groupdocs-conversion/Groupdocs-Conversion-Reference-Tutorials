@@ -4,8 +4,8 @@
 "title": "Java에서의 글꼴 대체&#58; 일관된 PDF 출력을 위한 GroupDocs.Conversion 마스터링"
 "url": "/ko/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for Java를 사용한 글꼴 대체 마스터링
 
 ## 소개

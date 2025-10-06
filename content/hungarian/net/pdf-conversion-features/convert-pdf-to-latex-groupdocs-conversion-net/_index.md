@@ -4,8 +4,8 @@
 "title": "PDF konvertálása LaTeX-be a GroupDocs.Conversion for .NET segítségével – lépésről lépésre útmutató"
 "url": "/hu/net/pdf-conversion-features/convert-pdf-to-latex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PDF konvertálása LaTeX-be a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

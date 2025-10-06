@@ -4,8 +4,8 @@
 "title": ".NET e-mail konverzió elsajátítása a GroupDocs segítségével – Globalizációs útmutató fejlesztőknek"
 "url": "/hu/net/email-formats-features/master-net-email-conversion-groupdocs-globalization-guide/"
 "weight": 1
+type: docs
 ---
-
 # .NET e-mail konverzió elsajátítása a GroupDocs segítségével: Átfogó globalizációs útmutató
 
 ## Bevezetés

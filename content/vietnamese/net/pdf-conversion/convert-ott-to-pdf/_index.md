@@ -5,8 +5,8 @@
 "title": "Chuyển đổi OTT sang PDF"
 "url": "/vi/net/pdf-conversion/convert-ott-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # Chuyển đổi OTT sang PDF
 
 ## Giới thiệu

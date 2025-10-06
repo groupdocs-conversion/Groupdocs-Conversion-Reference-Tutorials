@@ -4,8 +4,8 @@
 "title": "Jak konwertować pliki POT do PSD za pomocą GroupDocs.Conversion .NET | Przewodnik po konwersji obrazów"
 "url": "/pl/net/image-conversion/groupdocs-conversion-net-pot-psd/"
 "weight": 1
+type: docs
 ---
-
 # Jak konwertować pliki POT do PSD za pomocą GroupDocs.Conversion .NET
 
 ## Wstęp

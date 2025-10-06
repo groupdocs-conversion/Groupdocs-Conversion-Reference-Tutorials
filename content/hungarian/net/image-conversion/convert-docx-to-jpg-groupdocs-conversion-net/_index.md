@@ -4,8 +4,8 @@
 "title": "DOCX fájlok egyszerű konvertálása JPG-vé – Teljes körű útmutató a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/convert-docx-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DOCX fájlok egyszerű konvertálása JPG-vé: Teljes útmutató a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

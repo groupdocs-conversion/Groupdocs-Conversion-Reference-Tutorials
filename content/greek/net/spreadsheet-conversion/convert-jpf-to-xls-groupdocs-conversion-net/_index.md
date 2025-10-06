@@ -4,8 +4,8 @@
 "title": "Πώς να μετατρέψετε JPF σε XLS χρησιμοποιώντας το GroupDocs.Conversion για .NET | Οδηγός μετατροπής υπολογιστικών φύλλων"
 "url": "/el/net/spreadsheet-conversion/convert-jpf-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε JPF σε XLS χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 PST를 XLS 파일로 변환하는 단계별 가이드"
 "url": "/ko/net/spreadsheet-formats-features/convert-pst-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 PST를 XLS 파일로 변환: 단계별 가이드
 
 ## 소개

@@ -4,8 +4,8 @@
 "title": "Triển khai Redis Cache trong Java với GroupDocs.Conversion để nâng cao hiệu suất"
 "url": "/vi/java/cache-management/redis-cache-java-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Triển khai Redis Cache trong Java với GroupDocs.Conversion: Hướng dẫn toàn diện
 Redis là một kho lưu trữ cấu trúc dữ liệu trong bộ nhớ mã nguồn mở mạnh mẽ, đóng vai trò là cơ sở dữ liệu, bộ nhớ đệm và môi giới tin nhắn. Việc tích hợp Redis với các ứng dụng Java của bạn có thể cải thiện đáng kể hiệu suất bằng cách lưu trữ dữ liệu thường xuyên truy cập trong bộ nhớ. Hướng dẫn này sẽ hướng dẫn bạn triển khai bộ nhớ đệm Redis bằng thư viện GroupDocs.Conversion cho Java, tận dụng các tính năng nâng cao của thư viện Aspose để hợp lý hóa các tác vụ chuyển đổi tài liệu.
 

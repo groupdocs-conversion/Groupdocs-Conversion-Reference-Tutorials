@@ -4,8 +4,8 @@
 "title": "Como converter arquivos CF2 para PPTX usando GroupDocs.Conversion para .NET - Um guia passo a passo"
 "url": "/pt/net/presentation-formats-features/convert-cf2-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter arquivos CF2 para PPTX usando o GroupDocs.Conversion para .NET: um guia passo a passo
 
 ## Introdução

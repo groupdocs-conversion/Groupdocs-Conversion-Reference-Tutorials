@@ -4,8 +4,8 @@
 "title": "PLT を DOC に変換する - GroupDocs.Conversion for .NET を使用したステップバイステップガイド"
 "url": "/ja/net/word-processing-conversion/convert-plt-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PLT を DOC に変換する: GroupDocs.Conversion for .NET を使用したステップバイステップ ガイド
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak Verimli XML Dosya Yükleme ve Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/xml-json-processing/groupdocs-conversion-load-xml-nets-guide/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak XML Dosyalarını Verimli Şekilde Yükleyin ve Dönüştürün: Adım Adım Kılavuz
 
 ## giriiş

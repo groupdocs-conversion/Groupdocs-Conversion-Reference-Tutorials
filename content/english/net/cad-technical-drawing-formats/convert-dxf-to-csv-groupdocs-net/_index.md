@@ -8,10 +8,8 @@ keywords:
 - DXF to CSV conversion
 - GroupDocs.Conversion for .NET
 - CAD file format conversion
-
+type: docs
 ---
-
-
 # How to Convert DXF Files to CSV Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

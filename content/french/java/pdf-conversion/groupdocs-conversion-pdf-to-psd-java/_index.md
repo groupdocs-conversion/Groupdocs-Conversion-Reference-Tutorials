@@ -4,8 +4,8 @@
 "title": "Convertir un PDF en PSD à l'aide de GroupDocs.Conversion pour Java - Un guide complet"
 "url": "/fr/java/pdf-conversion/groupdocs-conversion-pdf-to-psd-java/"
 "weight": 1
+type: docs
 ---
-
 # Convertir un PDF en PSD avec GroupDocs.Conversion pour Java
 
 ## Introduction

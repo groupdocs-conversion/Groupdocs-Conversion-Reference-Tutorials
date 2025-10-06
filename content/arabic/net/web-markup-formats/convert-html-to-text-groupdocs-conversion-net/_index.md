@@ -4,8 +4,8 @@
 "title": "تحويل HTML إلى نص باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/web-markup-formats/convert-html-to-text-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل HTML إلى نص باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

@@ -4,8 +4,8 @@
 "title": "Converter MOBI para PPTX - Um guia passo a passo usando o GroupDocs.Conversion para .NET"
 "url": "/pt/net/presentation-conversion/convert-mobi-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converter MOBI para PPTX: um guia passo a passo usando o GroupDocs.Conversion para .NET
 
 ## Introdução

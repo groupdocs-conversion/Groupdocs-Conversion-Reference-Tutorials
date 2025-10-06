@@ -4,8 +4,8 @@
 "title": "Converter EPUB para CSV usando GroupDocs.Conversion para .NET - Um guia para desenvolvedores"
 "url": "/pt/net/csv-structured-data-processing/convert-epub-to-csv-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converter EPUB para CSV usando GroupDocs.Conversion para .NET: um guia para desenvolvedores
 
 ## Introdução

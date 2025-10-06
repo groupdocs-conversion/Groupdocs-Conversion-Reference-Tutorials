@@ -5,8 +5,8 @@
 "title": "將 POT 轉換為 PDF"
 "url": "/zh-hant/net/pdf-conversion/convert-pot-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # 將 POT 轉換為 PDF
 
 ## 介紹

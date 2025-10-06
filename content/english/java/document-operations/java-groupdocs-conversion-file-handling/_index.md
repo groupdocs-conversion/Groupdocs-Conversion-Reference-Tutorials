@@ -8,10 +8,8 @@ keywords:
 - file conversion java
 - groupdocs conversion setup
 - java document conversion
-
+type: docs
 ---
-
-
 # Mastering File Conversion in Java: A Comprehensive Guide to Using GroupDocs.Conversion
 
 ## Introduction

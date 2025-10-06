@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak PS Dosyaları Word'e Nasıl Dönüştürülür"
 "url": "/tr/net/word-processing-conversion/convert-ps-to-word-using-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak PS Dosyaları Word'e Nasıl Dönüştürülür
 
 ## giriiş

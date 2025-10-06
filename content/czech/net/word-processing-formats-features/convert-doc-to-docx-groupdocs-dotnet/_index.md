@@ -4,8 +4,8 @@
 "title": "Jak převést DOC do DOCX pomocí GroupDocs.Conversion pro .NET (podrobný návod)"
 "url": "/cs/net/word-processing-formats-features/convert-doc-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Podrobný návod: Převod DOC do DOCX pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

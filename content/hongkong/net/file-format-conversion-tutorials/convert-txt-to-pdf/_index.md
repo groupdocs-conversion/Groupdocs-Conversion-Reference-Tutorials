@@ -5,8 +5,8 @@
 "title": "將TXT轉換為PDF"
 "url": "/zh-hant/net/file-format-conversion-tutorials/convert-txt-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # 將TXT轉換為PDF
 
 ## 介紹

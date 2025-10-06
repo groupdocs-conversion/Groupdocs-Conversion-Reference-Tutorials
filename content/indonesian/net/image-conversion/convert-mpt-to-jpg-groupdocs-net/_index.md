@@ -4,8 +4,8 @@
 "title": "Konversi MPT ke JPG dalam .NET menggunakan GroupDocs.Conversion Library"
 "url": "/id/net/image-conversion/convert-mpt-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi MPT ke JPG dengan GroupDocs di .NET
 
 ## Perkenalan

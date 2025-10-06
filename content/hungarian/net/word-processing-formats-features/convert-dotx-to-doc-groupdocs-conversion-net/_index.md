@@ -4,8 +4,8 @@
 "title": "Hatékonyan konvertáljon DOTX-ot DOC-ba a GroupDocs.Conversion for .NET segítségével – lépésről lépésre útmutató"
 "url": "/hu/net/word-processing-formats-features/convert-dotx-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DOTX hatékony konvertálása DOC-ba a GroupDocs.Conversion for .NET segítségével: lépésről lépésre útmutató
 
 ## Bevezetés

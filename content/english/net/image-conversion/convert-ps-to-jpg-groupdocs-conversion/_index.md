@@ -8,10 +8,8 @@ keywords:
 - convert PS to JPG
 - PostScript file conversion
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # How to Convert PS Files to JPG Using GroupDocs.Conversion for .NET: A Complete Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET ile VSS'yi SVG'ye Verimli Şekilde Dönüştürün&#58; Adım Adım Kılavuz"
 "url": "/tr/net/image-conversion/convert-vss-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion ile VSS'yi SVG'ye Verimli Şekilde Dönüştürün: Adım Adım Kılavuz
 
 ## giriiş

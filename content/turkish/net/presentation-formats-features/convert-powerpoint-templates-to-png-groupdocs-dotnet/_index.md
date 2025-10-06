@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak PowerPoint Şablonlarını PNG'ye Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/presentation-formats-features/convert-powerpoint-templates-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak PowerPoint Şablonlarını PNG'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

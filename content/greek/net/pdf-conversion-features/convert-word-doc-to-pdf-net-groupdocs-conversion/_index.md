@@ -4,8 +4,8 @@
 "title": "Πώς να μετατρέψετε έγγραφα Word σε PDF σε .NET χρησιμοποιώντας το GroupDocs.Conversion"
 "url": "/el/net/pdf-conversion-features/convert-word-doc-to-pdf-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε έγγραφα Word σε PDF σε .NET χρησιμοποιώντας το GroupDocs.Conversion
 
 ## Εισαγωγή

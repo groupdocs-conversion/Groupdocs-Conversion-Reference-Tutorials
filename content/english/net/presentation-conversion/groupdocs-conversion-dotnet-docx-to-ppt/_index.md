@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion for .NET
 - DOCX to PPT conversion
 - .NET document conversion
-
+type: docs
 ---
-
-
 # Mastering DOCX to PPT Conversion with GroupDocs.Conversion for .NET
 
 ## Introduction

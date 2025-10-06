@@ -5,8 +5,8 @@
 "title": "Konwertuj strony internetowe HTM do formatu PDF"
 "url": "/pl/net/convert-files-to-pdf/convert-htm-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # Konwertuj strony internetowe HTM do formatu PDF
 
 ## Wstęp

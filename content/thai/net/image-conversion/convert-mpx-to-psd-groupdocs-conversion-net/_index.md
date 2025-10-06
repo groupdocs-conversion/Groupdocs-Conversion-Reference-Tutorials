@@ -4,8 +4,8 @@
 "title": "คู่มือฉบับสมบูรณ์เกี่ยวกับการแปลง MPX เป็น PSD โดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/image-conversion/convert-mpx-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # คู่มือครอบคลุม: แปลง MPX เป็น PSD โดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

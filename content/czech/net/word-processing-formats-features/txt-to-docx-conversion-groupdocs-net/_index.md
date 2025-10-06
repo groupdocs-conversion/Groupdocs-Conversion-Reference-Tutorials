@@ -4,8 +4,8 @@
 "title": "Efektivní převod TXT do DOCX pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/word-processing-formats-features/txt-to-docx-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod TXT do DOCX pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

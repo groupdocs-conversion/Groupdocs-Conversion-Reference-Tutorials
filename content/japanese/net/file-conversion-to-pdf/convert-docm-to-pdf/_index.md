@@ -5,8 +5,8 @@
 "title": "DOCM Word文書（マクロ）をPDFに変換する"
 "url": "/ja/net/file-conversion-to-pdf/convert-docm-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # DOCM Word文書（マクロ）をPDFに変換する
 
 ## 導入

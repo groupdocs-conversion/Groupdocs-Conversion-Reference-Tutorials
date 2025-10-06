@@ -4,8 +4,8 @@
 "title": "OTS fájlok PNG képekké konvertálása a GroupDocs.Conversion .NET könyvtár használatával"
 "url": "/hu/net/image-conversion/convert-ots-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OTS fájlok PNG képekké konvertálása a GroupDocs.Conversion .NET könyvtár használatával
 
 ## Bevezetés

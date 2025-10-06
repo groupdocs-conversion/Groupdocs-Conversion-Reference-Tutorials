@@ -4,8 +4,8 @@
 "title": "EMF konvertálása TEX-be a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-emf-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # EMF konvertálása TEX-be a GroupDocs.Conversion for .NET segítségével: Átfogó útmutató
 
 ## Bevezetés

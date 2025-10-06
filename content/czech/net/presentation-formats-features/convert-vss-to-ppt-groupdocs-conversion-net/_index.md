@@ -4,8 +4,8 @@
 "title": "Jak převést soubory VSS do prezentací PPT pomocí GroupDocs.Conversion .NET – Podrobný návod"
 "url": "/cs/net/presentation-formats-features/convert-vss-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory VSS do prezentací PPT pomocí GroupDocs.Conversion .NET: Podrobný návod
 
 ## Zavedení

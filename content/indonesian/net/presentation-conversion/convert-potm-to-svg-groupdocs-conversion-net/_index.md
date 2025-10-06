@@ -4,8 +4,8 @@
 "title": "Konversi POTM ke SVG Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/presentation-conversion/convert-potm-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi File POTM ke SVG Menggunakan GroupDocs.Conversion untuk .NET
 ## Perkenalan
 Apakah Anda ingin mengubah file Template Microsoft PowerPoint (.potm) menjadi grafik vektor yang dapat diskalakan (SVG)? Ikuti panduan lengkap ini menggunakan pustaka GroupDocs.Conversion for .NET yang canggih. Dengan mudah dan efisien, tingkatkan alur kerja manajemen dokumen Anda dengan mempelajari cara mengonversi file POTM ke format SVG.

@@ -4,8 +4,8 @@
 "title": "Converteer Graphviz DOT-bestanden met GroupDocs.Conversion voor .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/text-markup-conversion/load-convert-dot-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Graphviz DOT-bestanden laden en converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

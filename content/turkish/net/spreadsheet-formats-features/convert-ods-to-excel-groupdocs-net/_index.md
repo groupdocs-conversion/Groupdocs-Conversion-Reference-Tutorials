@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak ODS'yi XLS'ye Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/spreadsheet-formats-features/convert-ods-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak ODS'yi XLS'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

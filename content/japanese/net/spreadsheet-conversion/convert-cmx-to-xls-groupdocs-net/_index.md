@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して CMX を XLS に変換する手順"
 "url": "/ja/net/spreadsheet-conversion/convert-cmx-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して CMX ファイルを XLS に変換する
 
 ## 導入

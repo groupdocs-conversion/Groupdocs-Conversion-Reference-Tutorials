@@ -4,8 +4,8 @@
 "title": "Jak převést VCF do PDF pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/pdf-conversion/vcf-to-pdf-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést VCF do PDF pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

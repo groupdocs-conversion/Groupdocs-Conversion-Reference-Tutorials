@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 HTML 轉換為 PPTX 的綜合指南"
 "url": "/zh-hant/net/presentation-formats-features/convert-html-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將 HTML 轉換為 PPTX
 ## 介紹
 您是否曾需要將設計精美的 HTML 頁面轉換成流暢的 PowerPoint 簡報？無論是準備報告還是製作引人入勝的幻燈片，都可以將您的網頁內容直接轉換為 `.pptx` 文件可能會改變遊戲規則。有了 **GroupDocs.Conversion for .NET** 圖書館，這個過程變得無縫且有效率。

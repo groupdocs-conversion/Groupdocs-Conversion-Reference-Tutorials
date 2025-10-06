@@ -8,10 +8,8 @@ keywords:
 - convert VSTX to Excel with GroupDocs.Conversion
 - GroupDocs.Conversion .NET library
 - convert Visio files to Excel
-
+type: docs
 ---
-
-
 # Convert VSTX to Excel Using GroupDocs.Conversion .NET: Step-by-Step Guide
 
 ## Introduction

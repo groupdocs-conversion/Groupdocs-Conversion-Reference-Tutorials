@@ -4,8 +4,8 @@
 "title": "RAR fájlok PDF-be konvertálása és ZIP formátumba tömörítése a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/compression-archive-handling/convert-rar-to-pdf-compress-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # RAR fájlok konvertálása PDF-be és ZIP tömörítése a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

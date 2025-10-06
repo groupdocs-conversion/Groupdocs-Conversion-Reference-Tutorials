@@ -5,8 +5,8 @@
 "title": "OXPS'i PDF'ye dönüştür"
 "url": "/tr/net/pdf-conversion/convert-oxps-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # OXPS'i PDF'ye dönüştür
 
 ## giriiş

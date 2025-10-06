@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion .NET 將 PNG 轉換為 DOCX - 逐步指南"
 "url": "/zh-hant/net/word-processing-conversion/convert-png-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion .NET 將 PNG 轉換為 DOCX
 
 在當今的數位時代，將文件從一種格式轉換為另一種格式是一項常見的任務。無論您是準備簡報還是將圖像存檔為文字格式，將 PNG 檔案無縫轉換為 DOCX 都能節省時間和精力。本指南將向您展示如何有效地使用強大的 GroupDocs.Conversion .NET 函式庫。

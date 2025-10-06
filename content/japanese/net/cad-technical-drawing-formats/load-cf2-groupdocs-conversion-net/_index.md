@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して CF2 ファイルを読み込み、変換する方法 - ステップバイステップガイド"
 "url": "/ja/net/cad-technical-drawing-formats/load-cf2-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して CF2 ファイルを読み込み、変換する方法
 
 ## 導入

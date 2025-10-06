@@ -5,8 +5,8 @@
 "title": "OXPS konvertálása PDF-be"
 "url": "/hu/net/pdf-conversion/convert-oxps-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # OXPS konvertálása PDF-be
 
 ## Bevezetés

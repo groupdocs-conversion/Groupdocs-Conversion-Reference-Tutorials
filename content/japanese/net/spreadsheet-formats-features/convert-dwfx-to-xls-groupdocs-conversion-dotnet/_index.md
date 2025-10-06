@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET で DWFX を XLS に簡単に変換"
 "url": "/ja/net/spreadsheet-formats-features/convert-dwfx-to-xls-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET で DWFX を XLS に簡単に変換
 
 ## 導入

@@ -5,8 +5,8 @@
 "title": "将 MSG 转换为 PDF"
 "url": "/zh/net/document-conversion/convert-msg-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # 将 MSG 转换为 PDF
 
 ## 介绍

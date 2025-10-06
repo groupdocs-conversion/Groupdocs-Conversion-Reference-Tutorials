@@ -4,8 +4,8 @@
 "title": "TSV konvertálása TXT-vé .NET-ben a GroupDocs.Conversion használatával"
 "url": "/hu/net/text-file-processing/convert-tsv-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # TSV konvertálása TXT-vé .NET-ben a GroupDocs.Conversion használatával
 
 ## Bevezetés

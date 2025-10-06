@@ -5,8 +5,8 @@
 "title": "DWT CAD sablonfájlok konvertálása PDF-be"
 "url": "/hu/net/convert-files-to-pdf/convert-dwt-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # DWT CAD sablonfájlok konvertálása PDF-be
 
 ## Bevezetés

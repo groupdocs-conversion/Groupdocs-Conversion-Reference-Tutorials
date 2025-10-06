@@ -8,10 +8,8 @@ keywords:
 - convert PPS to CSV
 - GroupDocs.Conversion for .NET
 - PowerPoint Slide Show to CSV conversion
-
+type: docs
 ---
-
-
 # Convert PowerPoint Slide Shows (.pps) to CSV Files Using GroupDocs.Conversion for .NET
 
 ## Introduction

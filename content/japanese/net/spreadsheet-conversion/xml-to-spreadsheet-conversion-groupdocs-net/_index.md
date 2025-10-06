@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用した .NET での効率的な XML からスプレッドシートへの変換"
 "url": "/ja/net/spreadsheet-conversion/xml-to-spreadsheet-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion を使用した .NET での効率的な XML からスプレッドシートへの変換
 
 ## 導入

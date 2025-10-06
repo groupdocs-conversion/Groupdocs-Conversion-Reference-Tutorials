@@ -4,8 +4,8 @@
 "title": "Μετατροπή SVGZ σε XLSX χρησιμοποιώντας το GroupDocs.Conversion .NET™ - Οδηγός βήμα προς βήμα"
 "url": "/el/net/spreadsheet-formats-features/convert-svgz-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή SVGZ σε XLSX χρησιμοποιώντας το GroupDocs.Conversion .NET: Οδηγός βήμα προς βήμα
 
 ## Εισαγωγή

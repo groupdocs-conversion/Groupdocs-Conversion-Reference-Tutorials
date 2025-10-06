@@ -5,8 +5,8 @@
 "title": "ODP를 PDF로 변환"
 "url": "/ko/net/document-conversion/convert-odp-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # ODP를 PDF로 변환
 
 ## 소개

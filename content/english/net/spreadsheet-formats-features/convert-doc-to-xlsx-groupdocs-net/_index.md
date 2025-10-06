@@ -8,10 +8,8 @@ keywords:
 - convert DOC to XLSX
 - GroupDocs.Conversion for .NET
 - document conversion using C#
-
+type: docs
 ---
-
-
 # How to Convert DOC to XLSX Using GroupDocs.Conversion for .NET
 
 ## Introduction

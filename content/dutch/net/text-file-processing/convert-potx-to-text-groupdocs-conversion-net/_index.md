@@ -4,8 +4,8 @@
 "title": "PowerPoint-sjabloon (.potx) converteren naar tekst met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/text-file-processing/convert-potx-to-text-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Een Microsoft PowerPoint Open XML-sjabloonbestand (.potx) laden en converteren naar tekst met behulp van GroupDocs.Conversion voor .NET
 
 ## Invoering

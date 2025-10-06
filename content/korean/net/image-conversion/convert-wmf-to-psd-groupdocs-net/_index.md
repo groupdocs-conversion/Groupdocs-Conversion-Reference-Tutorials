@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 WMF를 PSD로 변환하는 방법"
 "url": "/ko/net/image-conversion/convert-wmf-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 WMF를 PSD로 변환하는 방법
 
 **.NET에서 효율적인 이미지 변환: WMF 파일을 PSD 형식으로 변환**

@@ -4,8 +4,8 @@
 "title": "Chuyển đổi DGN sang PDF hiệu quả bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/cad-technical-drawing-formats/convert-dgn-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi DGN sang PDF hiệu quả bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

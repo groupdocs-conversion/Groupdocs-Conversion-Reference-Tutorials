@@ -8,10 +8,8 @@ keywords:
 - EMF to Word Conversion
 - GroupDocs.Conversion for .NET
 - Convert EMF files to DOC
-
+type: docs
 ---
-
-
 # How to Convert EMF to Word Using GroupDocs.Conversion for .NET - A Step-by-Step Guide
 
 ## Introduction

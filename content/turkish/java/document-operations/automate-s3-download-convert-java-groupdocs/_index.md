@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion kullanarak Java'da S3 Belge İndirme ve Dönüştürmeyi Otomatikleştirin"
 "url": "/tr/java/document-operations/automate-s3-download-convert-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Java'da S3 Belge İndirme ve Dönüştürmeyi Otomatikleştirin
 
 ## Java'da GroupDocs.Conversion Kullanarak Amazon S3'ten Belgeler Nasıl İndirilir ve Dönüştürülür

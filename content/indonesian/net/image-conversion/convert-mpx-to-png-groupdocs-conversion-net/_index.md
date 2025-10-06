@@ -4,8 +4,8 @@
 "title": "Konversi MPX ke PNG Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/image-conversion/convert-mpx-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi File MPX ke PNG dengan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

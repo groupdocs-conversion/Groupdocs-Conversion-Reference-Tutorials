@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion 在 Java 中將電子郵件轉換為具有時區偏移的 PDF"
 "url": "/zh-hant/java/email-formats/email-to-pdf-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion 在 Java 中將電子郵件轉換為具有時區偏移的 PDF
 
 ## 介紹

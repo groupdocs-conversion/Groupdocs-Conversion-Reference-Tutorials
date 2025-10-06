@@ -4,8 +4,8 @@
 "title": "Konversi OXPS ke PNG secara efisien menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/image-conversion/convert-oxps-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konversi OXPS ke PNG secara efisien menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

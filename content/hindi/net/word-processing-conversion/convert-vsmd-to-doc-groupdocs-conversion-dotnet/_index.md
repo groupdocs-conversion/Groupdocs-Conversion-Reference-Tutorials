@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके VSDM को DOC में कैसे परिवर्तित करें एक व्यापक गाइड"
 "url": "/hi/net/word-processing-conversion/convert-vsmd-to-doc-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके VSDM को DOC में कैसे परिवर्तित करें: एक व्यापक मार्गदर्शिका
 
 ## परिचय

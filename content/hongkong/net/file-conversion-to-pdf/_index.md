@@ -5,8 +5,8 @@
 "title": "文件轉換為 PDF"
 "url": "/zh-hant/net/file-conversion-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # 文件轉換為 PDF
 
 ## 介紹：

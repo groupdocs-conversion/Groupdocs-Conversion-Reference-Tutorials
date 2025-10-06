@@ -4,8 +4,8 @@
 "title": "WebP DOCX formátumba konvertálása GroupDocs használatával .NET-ben – lépésről lépésre útmutató"
 "url": "/hu/net/word-processing-conversion/convert-webp-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # WebP képek konvertálása DOCX fájlokká a GroupDocs.Conversion használatával .NET-ben
 
 ## Bevezetés

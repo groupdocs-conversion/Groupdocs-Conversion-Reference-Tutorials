@@ -4,8 +4,8 @@
 "title": "تحويل ODS إلى DOCX بسلاسة مع GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/word-processing-formats-features/convert-ods-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ODS إلى DOCX باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

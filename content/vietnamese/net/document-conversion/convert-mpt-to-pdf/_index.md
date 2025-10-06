@@ -5,8 +5,8 @@
 "title": "Chuyển đổi MPT sang PDF"
 "url": "/vi/net/document-conversion/convert-mpt-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Chuyển đổi MPT sang PDF
 
 ## Giới thiệu

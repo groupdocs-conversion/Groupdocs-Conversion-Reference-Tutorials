@@ -4,8 +4,8 @@
 "title": "Geavanceerde tekst-naar-PDF-conversie met GroupDocs.Conversion Java&#58; behoud van opmaak"
 "url": "/nl/java/pdf-conversion/groupdocs-conversion-java-text-to-pdf-advanced-formatting/"
 "weight": 1
+type: docs
 ---
-
 # Geavanceerde tekst-naar-PDF-conversie met GroupDocs.Conversion Java: opmaak behouden
 
 ## Invoering

@@ -8,10 +8,8 @@ keywords:
 - automate DOCX to TEX conversion
 - GroupDocs.Conversion for .NET
 - DOCX to LaTeX conversion
-
+type: docs
 ---
-
-
 # Automate DOCX to TEX Conversion with GroupDocs for .NET
 
 ## Introduction

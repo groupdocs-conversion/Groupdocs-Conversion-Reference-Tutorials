@@ -4,8 +4,8 @@
 "title": "JPM fájlok JPG formátumba konvertálása a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-jpm-to-jpg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # JPM fájlok JPG formátumba konvertálása a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

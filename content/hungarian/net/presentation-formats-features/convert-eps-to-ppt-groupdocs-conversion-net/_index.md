@@ -4,8 +4,8 @@
 "title": "EPS fájlok hatékony konvertálása PPT-vé a GroupDocs.Conversion .NET használatával"
 "url": "/hu/net/presentation-formats-features/convert-eps-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # EPS fájlok hatékony konvertálása PPT-vé a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

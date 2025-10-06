@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 将 XLSX 转换为 XLS - 综合指南"
 "url": "/zh/net/spreadsheet-formats-features/convert-xlsx-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 将 XLSX 转换为 XLS
 
 ## 介绍

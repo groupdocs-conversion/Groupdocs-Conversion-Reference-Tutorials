@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak XLSM Dosyalarını HTML'ye Nasıl Dönüştürebilirsiniz? Adım Adım Kılavuz"
 "url": "/tr/net/web-markup-formats/convert-xlsm-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # XLSM Dosyalarını GroupDocs.Conversion for .NET Kullanarak HTML'ye Nasıl Dönüştürebilirsiniz: Adım Adım Kılavuz
 ## giriiş
 Günümüzün veri odaklı dünyasında, Excel dosyalarını daha erişilebilir biçimlere dönüştürmek esastır. Bir XLSM dosyasını HTML'ye dönüştürmek web sitesi etkileşimini artırabilir ve raporlama süreçlerini kolaylaştırabilir. .NET için GroupDocs.Conversion ile bu süreç sorunsuz ve verimli hale gelir. Bu eğitim, XLSM dosyalarınızı HTML biçimine dönüştürmek için GroupDocs.Conversion kitaplığını kullanmanızda size rehberlik edecektir.

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 HTML을 텍스트로 변환하기&#58; 포괄적인 가이드"
 "url": "/ko/net/web-markup-formats/convert-html-to-text-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 HTML을 텍스트로 변환
 
 ## 소개

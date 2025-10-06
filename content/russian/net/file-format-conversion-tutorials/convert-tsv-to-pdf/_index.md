@@ -5,8 +5,8 @@
 "title": "Конвертировать TSV в PDF"
 "url": "/ru/net/file-format-conversion-tutorials/convert-tsv-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # Конвертировать TSV в PDF
 
 ## Введение

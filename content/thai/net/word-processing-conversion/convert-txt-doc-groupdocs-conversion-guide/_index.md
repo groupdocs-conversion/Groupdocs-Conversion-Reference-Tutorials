@@ -4,8 +4,8 @@
 "title": "คู่มือฉบับสมบูรณ์ในการแปลง TXT เป็น DOC โดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/word-processing-conversion/convert-txt-doc-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # คู่มือฉบับสมบูรณ์: แปลง TXT เป็น DOC โดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

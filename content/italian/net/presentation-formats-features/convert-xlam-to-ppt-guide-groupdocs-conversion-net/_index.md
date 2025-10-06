@@ -4,8 +4,8 @@
 "title": "Come convertire XLAM in PPT utilizzando GroupDocs.Conversion per .NET&#58; una guida passo passo"
 "url": "/it/net/presentation-formats-features/convert-xlam-to-ppt-guide-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire XLAM in PPT utilizzando GroupDocs.Conversion per .NET: una guida passo passo
 
 ## Introduzione

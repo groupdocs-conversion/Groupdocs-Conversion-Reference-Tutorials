@@ -5,8 +5,8 @@
 "title": "Převod RTF do PDF"
 "url": "/cs/net/file-format-conversion-tutorials/convert-rtf-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # Převod RTF do PDF
 
 ## Zavedení

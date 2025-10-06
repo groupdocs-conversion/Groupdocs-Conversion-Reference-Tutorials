@@ -4,8 +4,8 @@
 "title": "ODP fájlok hatékony konvertálása XLS fájlokká a GroupDocs.Conversion .NET használatával"
 "url": "/hu/net/presentation-formats-features/convert-odp-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # ODP fájlok egyszerű konvertálása Excelbe (XLS) a GroupDocs.Conversion .NET segítségével
 
 ## Bevezetés

@@ -8,10 +8,8 @@ keywords:
 - convert FODP to PNG
 - GroupDocs.Conversion for .NET
 - image conversion
-
+type: docs
 ---
-
-
 # Convert FODP Files to PNG Using GroupDocs.Conversion for .NET
 
 ## Introduction

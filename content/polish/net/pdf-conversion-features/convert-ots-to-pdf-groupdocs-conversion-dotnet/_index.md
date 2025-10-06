@@ -4,8 +4,8 @@
 "title": "Jak konwertować pliki OTS do PDF za pomocą biblioteki GroupDocs.Conversion .NET"
 "url": "/pl/net/pdf-conversion-features/convert-ots-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak konwertować pliki OTS do PDF za pomocą GroupDocs.Conversion .NET
 
 ## Wstęp

@@ -5,8 +5,8 @@
 "title": "HTM Web Sayfalarını PDF'ye Dönüştür"
 "url": "/tr/net/convert-files-to-pdf/convert-htm-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # HTM Web Sayfalarını PDF'ye Dönüştür
 
 ## giriiş

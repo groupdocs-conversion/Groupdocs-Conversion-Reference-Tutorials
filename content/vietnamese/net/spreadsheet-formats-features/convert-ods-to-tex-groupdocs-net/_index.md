@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi tệp ODS sang định dạng TEX bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/spreadsheet-formats-features/convert-ods-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hướng dẫn toàn diện: Chuyển đổi tệp ODS sang định dạng TEX bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

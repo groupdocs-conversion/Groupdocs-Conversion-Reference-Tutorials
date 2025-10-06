@@ -3,8 +3,8 @@ title: "Conversion Events and Logging Tutorials for GroupDocs.Conversion .NET"
 description: "Complete tutorials for implementing event handlers, conversion progress tracking, and logging with GroupDocs.Conversion for .NET."
 weight: 24
 url: "/net/conversion-events-logging/"
+type: docs
 ---
-
 # Conversion Events and Logging Tutorials for GroupDocs.Conversion .NET
 
 Master monitoring and logging capabilities with our GroupDocs.Conversion event tutorials for .NET. These detailed guides demonstrate how to set up event listeners, track conversion state and progress, implement detailed logging, handle conversion notifications, create custom event handlers, integrate with popular logging frameworks, develop conversion progress indicators, and build audit trails for document processing. Each tutorial includes practical C# code examples for monitoring and reporting features, helping you build reliable conversion systems with comprehensive feedback mechanisms and troubleshooting capabilities.

@@ -4,8 +4,8 @@
 "title": "Convertir DWFX en LaTeX avec GroupDocs.Conversion pour .NET &#58; un guide étape par étape"
 "url": "/fr/net/cad-technical-drawing-formats/convert-dwfx-to-latex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir DWFX en LaTeX avec GroupDocs.Conversion pour .NET : guide étape par étape
 
 ## Introduction

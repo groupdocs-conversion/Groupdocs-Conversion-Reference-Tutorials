@@ -5,8 +5,8 @@
 "title": "แปลง PPT เป็น PDF"
 "url": "/th/net/pdf-conversion/convert-ppt-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # แปลง PPT เป็น PDF
 
 ## การแนะนำ

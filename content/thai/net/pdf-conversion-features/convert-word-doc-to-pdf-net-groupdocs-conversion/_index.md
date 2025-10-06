@@ -4,8 +4,8 @@
 "title": "วิธีการแปลงเอกสาร Word เป็น PDF ใน .NET โดยใช้ GroupDocs.Conversion"
 "url": "/th/net/pdf-conversion-features/convert-word-doc-to-pdf-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการแปลงเอกสาร Word เป็น PDF ใน .NET โดยใช้ GroupDocs.Conversion
 
 ## การแนะนำ

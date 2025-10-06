@@ -4,8 +4,8 @@
 "title": "Πώς να ανακτήσετε πληροφορίες προσωπικού χώρου αποθήκευσης από αρχεία OST του Outlook χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/storage-files-pst-processing/retrieve-personal-storage-info-outlook-ost-net/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να ανακτήσετε πληροφορίες προσωπικού χώρου αποθήκευσης από αρχεία OST του Outlook χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

@@ -5,8 +5,8 @@
 "title": "將 VST 轉換為 PDF"
 "url": "/zh-hant/net/converting-file-types-to-pdf/convert-vst-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # 將 VST 轉換為 PDF
 
 ## 介紹

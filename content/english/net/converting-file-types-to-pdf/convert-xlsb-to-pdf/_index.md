@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Learn how to convert XLSB files to PDF effortlessly using GroupDocs.Conversion for .NET. Follow our step-by-step guide.
 weight: 22
 url: /net/converting-file-types-to-pdf/convert-xlsb-to-pdf/
+type: docs
 ---
-
 # Convert XLSB to PDF
 
 ## Introduction

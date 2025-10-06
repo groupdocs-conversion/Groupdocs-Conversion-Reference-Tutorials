@@ -4,8 +4,8 @@
 "title": "Panduan Langkah demi Langkah untuk Mengonversi File DCM ke XLSX Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/spreadsheet-formats-features/convert-dcm-to-xlsx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Panduan Langkah demi Langkah untuk Mengonversi File DCM ke XLSX Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

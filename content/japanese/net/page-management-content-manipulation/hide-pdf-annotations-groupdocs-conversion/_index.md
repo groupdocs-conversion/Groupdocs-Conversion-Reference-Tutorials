@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して PDF の注釈を Word に変換する前に非表示にする方法"
 "url": "/ja/net/page-management-content-manipulation/hide-pdf-annotations-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して PDF の注釈を Word に変換する前に非表示にする方法
 
 ## 導入

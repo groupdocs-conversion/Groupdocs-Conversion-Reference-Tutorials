@@ -8,10 +8,8 @@ keywords:
 - JLS to TeX Conversion
 - GroupDocs.Conversion for .NET
 - Document Conversion with C#
-
+type: docs
 ---
-
-
 # Transforming JLS Files into TEX Format Using GroupDocs.Conversion for .NET
 
 ## Introduction

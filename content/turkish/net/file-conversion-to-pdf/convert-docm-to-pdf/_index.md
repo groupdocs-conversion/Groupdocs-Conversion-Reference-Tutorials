@@ -5,8 +5,8 @@
 "title": "DOCM Word Belgelerini (Makrolar) PDF'ye Dönüştür"
 "url": "/tr/net/file-conversion-to-pdf/convert-docm-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # DOCM Word Belgelerini (Makrolar) PDF'ye Dönüştür
 
 ## giriiş

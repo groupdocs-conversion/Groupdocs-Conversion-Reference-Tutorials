@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Learn how to convert POT files to PDF using Groupdocs.Conversion for .NET effortlessly. Streamline your document conversion tasks with this easy-to-follow.
 weight: 22
 url: /net/pdf-conversion/convert-pot-to-pdf/
+type: docs
 ---
-
 # Convert POT to PDF
 
 ## Introduction

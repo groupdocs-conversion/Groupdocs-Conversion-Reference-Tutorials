@@ -4,8 +4,8 @@
 "title": "Jak převést soubory DOTX v aplikacích .NET – Průvodce pomocí GroupDocs.Conversion"
 "url": "/cs/net/word-processing-formats-features/convert-dotx-files-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Jak implementovat a optimalizovat konverzi .NET: Načítání a převod souborů DOTX pomocí GroupDocs.Conversion
 
 ## Zavedení

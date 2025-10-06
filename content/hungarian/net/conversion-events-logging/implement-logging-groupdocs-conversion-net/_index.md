@@ -4,8 +4,8 @@
 "title": "Naplózás megvalósítása a GroupDocs.Conversion for .NET-ben – Lépésről lépésre útmutató"
 "url": "/hu/net/conversion-events-logging/implement-logging-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion események naplózásának megvalósítása .NET-ben: Átfogó útmutató
 
 ## Bevezetés

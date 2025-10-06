@@ -3,8 +3,8 @@
 "title": "Tutorial sulla gestione e sostituzione dei font per GroupDocs.Conversion .NET"
 "url": "/it/net/font-handling-substitution/"
 "weight": 22
+type: docs
 ---
-
 # Tutorial sulla gestione e sostituzione dei font per GroupDocs.Conversion .NET
 
 Esplora le funzionalità di gestione dei font con i nostri tutorial completi di GroupDocs.Conversion per .NET. Queste guide dettagliate illustrano come specificare le opzioni di sostituzione dei font in vari tipi di documento, inclusi Word, Excel, PowerPoint e formati per appunti, gestire i font mancanti, implementare policy di incorporamento dei font, gestire i requisiti di licenza dei font, controllare il comportamento di fallback dei font, preservare stili e formattazione dei font e garantire un aspetto del testo coerente su diverse piattaforme. Ogni tutorial include esempi pratici di codice C# per operazioni relative ai font, aiutandoti a creare applicazioni che mantengano la fedeltà dei documenti anche in caso di problemi di disponibilità dei font.

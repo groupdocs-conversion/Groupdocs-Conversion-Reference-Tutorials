@@ -5,8 +5,8 @@
 "title": "Konvertieren Sie DOTX-Word-Vorlagen in PDF"
 "url": "/de/net/file-conversion-to-pdf/convert-dotx-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # Konvertieren Sie DOTX-Word-Vorlagen in PDF
 
 ## Einführung

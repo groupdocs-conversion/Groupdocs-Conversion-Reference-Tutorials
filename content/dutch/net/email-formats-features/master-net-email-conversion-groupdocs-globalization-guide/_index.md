@@ -4,8 +4,8 @@
 "title": "Beheers .NET-e-mailconversie met GroupDocs&#58; een globaliseringsgids voor ontwikkelaars"
 "url": "/nl/net/email-formats-features/master-net-email-conversion-groupdocs-globalization-guide/"
 "weight": 1
+type: docs
 ---
-
 # .NET-e-mailconversie onder de knie krijgen met GroupDocs: een uitgebreide globaliseringsgids
 
 ## Invoering

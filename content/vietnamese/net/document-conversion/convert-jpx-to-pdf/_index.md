@@ -5,8 +5,8 @@
 "title": "Chuyển đổi JPX sang PDF"
 "url": "/vi/net/document-conversion/convert-jpx-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # Chuyển đổi JPX sang PDF
 
 ## Giới thiệu

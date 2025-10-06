@@ -5,8 +5,8 @@
 "title": "将 CMX 转换为 PDF"
 "url": "/zh/net/file-conversion-to-pdf/convert-cmx-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # 将 CMX 转换为 PDF
 
 ## 介绍

@@ -4,8 +4,8 @@
 "title": "Como converter arquivos DXF para CSV usando o GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/cad-technical-drawing-formats/convert-dxf-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter arquivos DXF para CSV usando o GroupDocs.Conversion para .NET: um guia completo
 
 ## Introdução

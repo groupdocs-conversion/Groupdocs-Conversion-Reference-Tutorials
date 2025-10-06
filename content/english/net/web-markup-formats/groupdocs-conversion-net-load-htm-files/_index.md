@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # How to Load and Convert an HTM File Using GroupDocs.Conversion .NET
 
 ## Introduction

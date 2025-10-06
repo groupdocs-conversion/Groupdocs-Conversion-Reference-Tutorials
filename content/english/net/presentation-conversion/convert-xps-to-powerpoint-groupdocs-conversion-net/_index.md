@@ -8,10 +8,8 @@ keywords:
 - convert XPS to PowerPoint
 - GroupDocs.Conversion for .NET
 - XPS to PPT conversion
-
+type: docs
 ---
-
-
 # Convert XPS to PowerPoint Using GroupDocs.Conversion for .NET: A Complete Guide
 
 ## Introduction

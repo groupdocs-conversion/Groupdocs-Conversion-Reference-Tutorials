@@ -8,10 +8,8 @@ keywords:
 - PowerPoint to LaTeX conversion
 - GroupDocs.Conversion for .NET
 - POTM to TEX transformation
-
+type: docs
 ---
-
-
 # Comprehensive Guide: Convert PowerPoint to LaTeX Using GroupDocs.Conversion for .NET
 
 ## Introduction

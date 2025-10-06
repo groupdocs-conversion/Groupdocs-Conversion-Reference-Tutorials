@@ -4,8 +4,8 @@
 "title": "PPS fájlok egyszerű konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/pdf-conversion/convert-ppsx-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PPS fájlok konvertálása PDF-be a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET を使用して DNG ファイルを効率的に読み込み、SVG に変換する"
 "url": "/ja/net/image-formats-features/load-convert-dng-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET を使用して DNG ファイルを効率的に読み込み、SVG に変換する
 
 ## 導入

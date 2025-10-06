@@ -5,8 +5,8 @@
 "title": "DWT CAD テンプレートファイルを PDF に変換する"
 "url": "/ja/net/convert-files-to-pdf/convert-dwt-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # DWT CAD テンプレートファイルを PDF に変換する
 
 ## 導入

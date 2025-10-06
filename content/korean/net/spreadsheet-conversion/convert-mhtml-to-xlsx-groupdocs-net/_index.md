@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET을 사용하여 MHTML을 XLSX로 변환하는 방법&#58; 완벽한 가이드"
 "url": "/ko/net/spreadsheet-conversion/convert-mhtml-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET을 사용하여 MHTML을 XLSX로 변환하는 방법: 완전한 가이드
 
 ## 소개

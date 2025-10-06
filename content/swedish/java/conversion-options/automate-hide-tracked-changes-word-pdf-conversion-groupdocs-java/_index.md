@@ -4,8 +4,8 @@
 "title": "Automatisera döljning av spårade ändringar i Word-till-PDF-konvertering med GroupDocs.Conversion för Java"
 "url": "/sv/java/conversion-options/automate-hide-tracked-changes-word-pdf-conversion-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Automatisera dölj spårade ändringar vid konvertering från Word till PDF med GroupDocs.Conversion för Java
 
 ## Introduktion

@@ -4,8 +4,8 @@
 "title": "Implementera en mätlicens för GroupDocs.Conversion i Java – en omfattande guide"
 "url": "/sv/java/getting-started/implement-metered-license-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Implementera en mätad licens för GroupDocs.Conversion i Java
 
 ## Introduktion

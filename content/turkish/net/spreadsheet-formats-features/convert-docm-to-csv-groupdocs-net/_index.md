@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET kullanarak DOCM'yi CSV'ye Nasıl Dönüştürebilirsiniz? Adım Adım Kılavuz"
 "url": "/tr/net/spreadsheet-formats-features/convert-docm-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanılarak DOCM CSV'ye Nasıl Dönüştürülür
 
 ## giriiş

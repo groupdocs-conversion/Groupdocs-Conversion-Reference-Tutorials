@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用して .NET で TIFF を HTML に変換する"
 "url": "/ja/net/html-conversion/convert-tif-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion を使用して .NET で TIFF を HTML に変換する
 
 ## 導入

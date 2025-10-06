@@ -8,10 +8,8 @@ keywords:
 - convert FODS to PPT
 - GroupDocs.Conversion for .NET
 - document conversion workflow
-
+type: docs
 ---
-
-
 # How to Convert a FODS File to PowerPoint Using GroupDocs.Conversion for .NET
 
 ## Introduction

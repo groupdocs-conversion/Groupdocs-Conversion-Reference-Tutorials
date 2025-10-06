@@ -4,8 +4,8 @@
 "title": "Converta e-mails em PDFs facilmente com o GroupDocs.Conversion para .NET | Guia completo"
 "url": "/pt/net/pdf-conversion/convert-emails-to-pdfs-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converta e-mails em PDFs facilmente com o GroupDocs.Conversion para .NET
 
 ## Introdução

@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 PPTM 轉換為 XLS — 逐步指南"
 "url": "/zh-hant/net/spreadsheet-conversion/convert-pptm-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 PPTM 轉換為 XLS
 ## 介紹
 將 PowerPoint 簡報（PPTM 檔案）轉換為 Excel 電子表格（XLS 格式）對於資料分析或內容再利用至關重要。使用 GroupDocs.Conversion for .NET 簡化了這個過程，即使您不是編碼專家也能輕鬆上手。

@@ -4,8 +4,8 @@
 "title": "Zvládnutí konverze dokumentů .NET – Využijte GroupDocs pro bezproblémové transformace PDF"
 "url": "/cs/net/conversion-options-settings/master-net-document-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Zvládnutí konverze dokumentů v .NET pomocí GroupDocs.Conversion
 
 ## Zavedení

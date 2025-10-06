@@ -3,8 +3,8 @@
 "title": "Tutorial Output dan Penyimpanan Dokumen untuk GroupDocs.Conversion .NET"
 "url": "/id/net/document-output-saving/"
 "weight": 6
+type: docs
 ---
-
 # Tutorial Output dan Penyimpanan Dokumen untuk GroupDocs.Conversion .NET
 
 Tutorial penyimpanan dokumen kami menyediakan panduan terperinci untuk mengelola hasil konversi dalam aplikasi .NET. Panduan langkah demi langkah ini menunjukkan cara menyimpan dokumen yang dikonversi ke aliran, menentukan pola penamaan file kustom, menerapkan kebijakan penimpaan file output, membuat output multi-bagian untuk dokumen besar, dan mengelola file sementara selama proses konversi. Setiap tutorial menyertakan contoh kode C# yang berfungsi untuk berbagai skenario output, membantu Anda membangun aplikasi yang dapat menangani hasil operasi konversi dokumen secara fleksibel sambil mengoptimalkan penggunaan sumber daya dan pengaturan file.

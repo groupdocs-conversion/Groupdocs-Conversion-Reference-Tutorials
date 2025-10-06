@@ -8,10 +8,8 @@ keywords:
 - convert CMX to PDF
 - GroupDocs.Conversion for .NET
 - PDF conversion
-
+type: docs
 ---
-
-
 # How to Convert CMX Files to PDF Using GroupDocs.Conversion for .NET
 
 ## Introduction

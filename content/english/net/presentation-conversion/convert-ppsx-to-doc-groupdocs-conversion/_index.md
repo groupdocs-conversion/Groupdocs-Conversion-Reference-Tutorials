@@ -8,10 +8,8 @@ keywords:
 - convert PPSX to DOC
 - GroupDocs.Conversion for .NET
 - PowerPoint presentations to Word documents
-
+type: docs
 ---
-
-
 # Convert PPSX to DOC with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

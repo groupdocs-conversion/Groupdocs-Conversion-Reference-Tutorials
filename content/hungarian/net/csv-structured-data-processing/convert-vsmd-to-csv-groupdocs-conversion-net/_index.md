@@ -4,8 +4,8 @@
 "title": "VSDM konvertálása CSV-vé .NET-ben a GroupDocs.Conversion Library használatával"
 "url": "/hu/net/csv-structured-data-processing/convert-vsmd-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VSDM konvertálása CSV-vé .NET-ben a GroupDocs.Conversion Library használatával
 
 ## Bevezetés

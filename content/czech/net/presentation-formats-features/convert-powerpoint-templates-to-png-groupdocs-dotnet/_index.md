@@ -4,8 +4,8 @@
 "title": "Převod šablon PowerPointu do PNG pomocí nástroje GroupDocs.Conversion pro .NET – podrobný návod"
 "url": "/cs/net/presentation-formats-features/convert-powerpoint-templates-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod šablon PowerPointu do formátu PNG pomocí nástroje GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

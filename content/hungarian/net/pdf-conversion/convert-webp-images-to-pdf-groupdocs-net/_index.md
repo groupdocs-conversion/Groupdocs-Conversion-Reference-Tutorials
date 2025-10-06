@@ -4,8 +4,8 @@
 "title": "WEBP képek konvertálása PDF-be a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/pdf-conversion/convert-webp-images-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # WEBP képek konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

@@ -5,8 +5,8 @@
 "title": "Chuyển đổi ODG sang PDF"
 "url": "/vi/net/document-conversion/convert-odg-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # Chuyển đổi ODG sang PDF
 
 ## Giới thiệu

@@ -5,8 +5,8 @@
 "title": "Konversi Template Word DOT ke PDF"
 "url": "/id/net/file-conversion-to-pdf/convert-dot-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # Konversi Template Word DOT ke PDF
 
 ## Perkenalan

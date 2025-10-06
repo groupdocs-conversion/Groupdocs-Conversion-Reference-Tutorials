@@ -4,8 +4,8 @@
 "title": "JPEG 2000 naar Word converteren&#58; stapsgewijze handleiding met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/word-processing-conversion/convert-jpeg-2000-word-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # JPEG 2000 naar Word converteren: stapsgewijze handleiding met GroupDocs.Conversion voor .NET
 
 ## Invoering

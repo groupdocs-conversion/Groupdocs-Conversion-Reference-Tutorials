@@ -4,8 +4,8 @@
 "title": "MPT fájlok PPT-vé konvertálása a GroupDocs.Conversion for .NET segítségével (lépésről lépésre útmutató)"
 "url": "/hu/net/presentation-formats-features/convert-mpt-to-ppt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # MPT fájlok konvertálása PPT-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

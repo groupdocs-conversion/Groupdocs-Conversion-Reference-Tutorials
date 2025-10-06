@@ -4,8 +4,8 @@
 "title": "VCF-DOCX konverzió automatizálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/word-processing-conversion/automate-vcf-to-docx-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # VCF-ből DOCX-be konvertálás automatizálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

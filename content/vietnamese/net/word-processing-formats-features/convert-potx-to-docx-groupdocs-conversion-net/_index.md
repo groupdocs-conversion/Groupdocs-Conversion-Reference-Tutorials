@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tệp chính&#58; Chuyển đổi POTX sang DOCX bằng GroupDocs.Conversion .NET"
 "url": "/vi/net/word-processing-formats-features/convert-potx-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Làm chủ chuyển đổi tệp: Chuyển đổi POTX sang DOCX bằng GroupDocs.Conversion .NET
 
 Trong thế giới kỹ thuật số phát triển nhanh như hiện nay, việc chuyển đổi tệp từ định dạng này sang định dạng khác một cách liền mạch là một kỹ năng quan trọng. Cho dù bạn đang chuẩn bị tài liệu thuyết trình hay chia sẻ tài liệu trên nhiều nền tảng khác nhau, việc đảm bảo khả năng tương thích có thể tiết kiệm thời gian và công sức. Hướng dẫn này sẽ hướng dẫn bạn sử dụng thư viện GroupDocs.Conversion .NET mạnh mẽ để chuyển đổi tệp POTX (PowerPoint Template) sang định dạng DOCX. Bạn sẽ học cách xử lý hiệu quả các tác vụ chuyển đổi tệp một cách dễ dàng.

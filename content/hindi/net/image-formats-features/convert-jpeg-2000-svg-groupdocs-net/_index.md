@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion का उपयोग करके .NET में JPEG 2000 को SVG में रूपांतरित करें"
 "url": "/hi/net/image-formats-features/convert-jpeg-2000-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion के साथ .NET में JPEG 2000 to SVG को रूपांतरित करें
 
 ## परिचय

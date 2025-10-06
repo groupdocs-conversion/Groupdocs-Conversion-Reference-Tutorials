@@ -4,8 +4,8 @@
 "title": "Převod Markdownu do Wordu pomocí GroupDocs v .NET | Komplexní průvodce"
 "url": "/cs/net/word-processing-formats-features/convert-markdown-to-word-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod Markdownu do Wordu pomocí GroupDocs v .NET
 
 ## Zavedení

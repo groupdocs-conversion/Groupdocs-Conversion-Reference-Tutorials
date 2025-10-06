@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET で DWFX を PowerPoint PPTX に変換する手順"
 "url": "/ja/net/presentation-conversion/convert-dwfx-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して DWFX ファイルを PowerPoint に変換する方法
 
 ## 導入

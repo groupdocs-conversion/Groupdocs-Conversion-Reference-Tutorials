@@ -5,8 +5,8 @@
 "title": "OTG를 PDF로 변환"
 "url": "/ko/net/pdf-conversion/convert-otg-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # OTG를 PDF로 변환
 
 ## 소개

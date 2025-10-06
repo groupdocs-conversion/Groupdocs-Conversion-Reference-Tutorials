@@ -4,8 +4,8 @@
 "title": "Βελτιστοποίηση μετατροπής εγγράφων .NET με προσωρινή αποθήκευση χρησιμοποιώντας το GroupDocs.Conversion"
 "url": "/el/net/cache-management/optimize-net-document-conversion-caching-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Βελτιστοποίηση μετατροπής εγγράφων .NET με προσωρινή αποθήκευση χρησιμοποιώντας το GroupDocs.Conversion
 
 ## Εισαγωγή

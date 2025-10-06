@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Effortlessly convert JP2 files to PDF using GroupDocs.Conversion for .NET. Follow our step-by-step guide for seamless integration.
 weight: 10
 url: /net/document-conversion/convert-jp2-to-pdf/
+type: docs
 ---
-
 # Convert JP2 to PDF
 
 ## Introduction

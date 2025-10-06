@@ -4,8 +4,8 @@
 "title": "Converteer moeiteloos GIF's naar JPG's - GroupDocs.Conversion voor .NET-handleiding"
 "url": "/nl/net/image-conversion/gif-to-jpg-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converteer moeiteloos GIF's naar JPG's: GroupDocs.Conversion voor .NET-handleiding
 
 ## Invoering

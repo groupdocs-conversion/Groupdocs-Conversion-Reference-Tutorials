@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie MPT in DOC mit GroupDocs.Conversion .NET – Ein umfassender Leitfaden"
 "url": "/de/net/presentation-formats-features/convert-mpt-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie MPT-Dateien mit GroupDocs.Conversion .NET in DOC
 
 ## Einführung

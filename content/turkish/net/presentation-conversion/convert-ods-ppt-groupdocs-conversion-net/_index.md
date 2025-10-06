@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET&#58;i Kullanarak ODS'yi PPT'ye Dönüştürme Adım Adım Kılavuzu"
 "url": "/tr/net/presentation-conversion/convert-ods-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET Kullanarak ODS'yi PPT'ye Dönüştürme: Adım Adım Kılavuz
 ## giriiş
 Verileri görsel olarak sunmanız veya toplantılar için elektronik tablolarınızı hazırlamanız gerektiğinde, Açık Belge Elektronik Tablosu (ODS) dosyasını bir PowerPoint Sunumu (PPT) biçimine dönüştürmek önemlidir. Bu kılavuz, bu dönüşümü sorunsuz bir şekilde gerçekleştirmek için GroupDocs.Conversion .NET'i kullanma konusunda size yol gösterecektir.

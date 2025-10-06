@@ -8,10 +8,8 @@ keywords:
 - SVGZ to PSD conversion
 - .NET image conversion
 - GroupDocs.Conversion library
-
+type: docs
 ---
-
-
 # Efficient SVGZ to PSD Conversion Using GroupDocs.Conversion for .NET Developers
 
 ## Introduction

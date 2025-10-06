@@ -8,10 +8,8 @@ keywords:
 - convert OTP to TEX
 - GroupDocs.Conversion for .NET
 - document conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert OTP to TEX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

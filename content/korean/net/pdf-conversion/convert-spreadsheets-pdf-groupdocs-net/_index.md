@@ -4,8 +4,8 @@
 "title": ".NET에서 GroupDocs.Conversion을 사용하여 스프레드시트를 PDF로 원활하게 변환"
 "url": "/ko/net/pdf-conversion/convert-spreadsheets-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET에서 GroupDocs.Conversion을 사용하여 스프레드시트를 PDF로 원활하게 변환
 
 ## 소개

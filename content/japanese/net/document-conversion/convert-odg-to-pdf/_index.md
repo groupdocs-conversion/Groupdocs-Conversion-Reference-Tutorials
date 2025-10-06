@@ -5,8 +5,8 @@
 "title": "ODGをPDFに変換する"
 "url": "/ja/net/document-conversion/convert-odg-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # ODGをPDFに変換する
 
 ## 導入

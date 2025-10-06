@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Kütüphanesini Kullanarak .NET'te Verimli BMP'den PNG'ye Dönüştürme"
 "url": "/tr/net/image-conversion/net-bmp-to-png-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs ile .NET'te Verimli BMP'den PNG'ye Dönüştürme
 
 ## giriiş

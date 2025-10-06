@@ -4,8 +4,8 @@
 "title": "VDW fájlok egyszerű SVG fájlokká konvertálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/cad-technical-drawing-formats/convert-vdw-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # VDW fájlok konvertálása SVG-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

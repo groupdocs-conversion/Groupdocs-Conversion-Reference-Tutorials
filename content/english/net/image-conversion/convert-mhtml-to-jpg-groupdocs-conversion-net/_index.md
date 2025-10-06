@@ -8,10 +8,8 @@ keywords:
 - convert MHTML to JPG
 - GroupDocs.Conversion for .NET setup
 - MHTML conversion tutorial
-
+type: docs
 ---
-
-
 # Convert MHTML to JPG using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

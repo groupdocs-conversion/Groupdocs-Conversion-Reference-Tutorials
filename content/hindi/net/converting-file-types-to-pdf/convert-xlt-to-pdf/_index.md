@@ -5,8 +5,8 @@
 "title": "XLT को PDF में बदलें"
 "url": "/hi/net/converting-file-types-to-pdf/convert-xlt-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # XLT को PDF में बदलें
 
 

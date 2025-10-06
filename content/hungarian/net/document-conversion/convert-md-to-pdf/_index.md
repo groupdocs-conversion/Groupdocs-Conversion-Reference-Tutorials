@@ -5,8 +5,8 @@
 "title": "MD konvertálása PDF-be"
 "url": "/hu/net/document-conversion/convert-md-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # MD konvertálása PDF-be
 
 ## Bevezetés

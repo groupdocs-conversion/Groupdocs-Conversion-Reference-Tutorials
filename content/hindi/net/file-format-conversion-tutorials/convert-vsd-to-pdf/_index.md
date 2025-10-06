@@ -5,8 +5,8 @@
 "title": "VSD को PDF में बदलें"
 "url": "/hi/net/file-format-conversion-tutorials/convert-vsd-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # VSD को PDF में बदलें
 
 ## परिचय

@@ -5,8 +5,8 @@
 "title": "ONE konvertálása PDF-be"
 "url": "/hu/net/pdf-conversion/convert-one-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # ONE konvertálása PDF-be
 
 ## Bevezetés

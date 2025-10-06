@@ -4,8 +4,8 @@
 "title": "MOBI'yi GroupDocs.Conversion for .NET ile DOCX'e Verimli Şekilde Dönüştürün&#58; Adım Adım Kılavuz"
 "url": "/tr/net/word-processing-formats-features/convert-mobi-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MOBI'yi GroupDocs.Conversion for .NET ile DOCX'e Verimli Şekilde Dönüştürün: Adım Adım Kılavuz
 
 ## giriiş

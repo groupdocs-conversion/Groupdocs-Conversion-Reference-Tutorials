@@ -4,8 +4,8 @@
 "title": "Hoe u e-mail naar PDF met tijdzone-offset in Java kunt converteren met behulp van GroupDocs.Conversion"
 "url": "/nl/java/email-formats/email-to-pdf-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Hoe u e-mail naar PDF met tijdzone-offset in Java kunt converteren met behulp van GroupDocs.Conversion
 
 ## Invoering

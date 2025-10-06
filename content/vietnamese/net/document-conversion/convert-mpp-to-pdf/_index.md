@@ -5,8 +5,8 @@
 "title": "Chuyển đổi MPP sang PDF"
 "url": "/vi/net/document-conversion/convert-mpp-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # Chuyển đổi MPP sang PDF
 
 ## Giới thiệu

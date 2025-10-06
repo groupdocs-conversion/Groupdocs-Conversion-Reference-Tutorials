@@ -4,8 +4,8 @@
 "title": "Μετατροπή προτύπων PowerPoint σε HTML χρησιμοποιώντας το GroupDocs.Conversion for .NET® - Ένας οδηγός βήμα προς βήμα"
 "url": "/el/net/html-conversion/convert-pot-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή προτύπων PowerPoint σε HTML χρησιμοποιώντας το GroupDocs.Conversion για .NET: Οδηγός βήμα προς βήμα
 
 ## Εισαγωγή

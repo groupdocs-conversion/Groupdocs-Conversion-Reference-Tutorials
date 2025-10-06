@@ -4,8 +4,8 @@
 "title": "Convertissez efficacement des fichiers journaux en PowerPoint à l'aide de GroupDocs.Conversion pour .NET"
 "url": "/fr/net/presentation-conversion/convert-log-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertissez efficacement des fichiers journaux en PowerPoint à l'aide de GroupDocs.Conversion pour .NET
 
 ## Introduction

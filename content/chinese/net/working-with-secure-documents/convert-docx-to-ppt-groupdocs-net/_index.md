@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将受密码保护的 DOCX 转换为 PPT"
 "url": "/zh/net/working-with-secure-documents/convert-docx-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将受密码保护的 DOCX 转换为 PPT
 
 ## 介绍

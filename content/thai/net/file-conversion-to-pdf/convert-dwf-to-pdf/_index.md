@@ -5,8 +5,8 @@
 "title": "แปลงไฟล์ DWF CAD เป็น PDF"
 "url": "/th/net/file-conversion-to-pdf/convert-dwf-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # แปลงไฟล์ DWF CAD เป็น PDF
 
 ## การแนะนำ

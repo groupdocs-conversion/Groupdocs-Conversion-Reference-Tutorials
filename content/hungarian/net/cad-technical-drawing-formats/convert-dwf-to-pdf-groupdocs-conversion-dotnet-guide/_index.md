@@ -4,8 +4,8 @@
 "title": "DWF fájlok PDF formátumba konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/cad-technical-drawing-formats/convert-dwf-to-pdf-groupdocs-conversion-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # DWF fájlok PDF formátumba konvertálása a GroupDocs.Conversion for .NET segítségével: lépésről lépésre útmutató
 
 ## Bevezetés

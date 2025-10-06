@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tệp Adobe Illustrator sang Word bằng GroupDocs.Conversion .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/word-processing-formats-features/convert-ai-to-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp Adobe Illustrator sang tài liệu Word bằng GroupDocs.Conversion .NET
 
 ## Giới thiệu

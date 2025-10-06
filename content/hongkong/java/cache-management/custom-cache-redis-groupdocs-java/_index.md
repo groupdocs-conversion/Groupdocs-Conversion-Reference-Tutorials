@@ -4,8 +4,8 @@
 "title": "如何使用 Redis 和 GroupDocs.Conversion 在 Java 中實作自訂緩存"
 "url": "/zh-hant/java/cache-management/custom-cache-redis-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 Redis 和 GroupDocs.Conversion 在 Java 中實作自訂緩存
 
 ## 介紹

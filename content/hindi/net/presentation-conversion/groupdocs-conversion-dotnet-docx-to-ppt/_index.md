@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion के साथ मास्टर DOCX to PPT रूपांतरण"
 "url": "/hi/net/presentation-conversion/groupdocs-conversion-dotnet-docx-to-ppt/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion के साथ DOCX to PPT रूपांतरण में महारत हासिल करना
 
 ## परिचय

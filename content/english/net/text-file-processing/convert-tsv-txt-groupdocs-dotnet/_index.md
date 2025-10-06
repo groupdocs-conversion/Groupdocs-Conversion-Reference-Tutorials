@@ -8,10 +8,8 @@ keywords:
 - convert TSV to TXT .NET
 - GroupDocs.Conversion for .NET
 - TSV to TXT conversion
-
+type: docs
 ---
-
-
 # Convert TSV to TXT in .NET Using GroupDocs.Conversion
 
 ## Introduction

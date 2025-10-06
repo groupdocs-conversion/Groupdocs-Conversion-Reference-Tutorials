@@ -4,8 +4,8 @@
 "title": "OXPS konvertálása XLS-be a GroupDocs.Conversion .NET segítségével – Átfogó útmutató a táblázatkezelő formátumokhoz és funkciókhoz"
 "url": "/hu/net/spreadsheet-formats-features/convert-oxps-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OXPS fájlok XLS fájlokká konvertálása a GroupDocs.Conversion .NET segítségével: Átfogó útmutató
 
 ## Bevezetés

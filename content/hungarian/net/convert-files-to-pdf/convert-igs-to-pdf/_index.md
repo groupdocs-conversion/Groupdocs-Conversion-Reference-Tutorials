@@ -5,8 +5,8 @@
 "title": "IGS 3D modellfájlok konvertálása PDF-be"
 "url": "/hu/net/convert-files-to-pdf/convert-igs-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # IGS 3D modellfájlok konvertálása PDF-be
 
 ## Bevezetés

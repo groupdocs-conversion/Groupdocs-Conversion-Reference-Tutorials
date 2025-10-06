@@ -4,8 +4,8 @@
 "title": "Come convertire XPS in DOCX utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/word-processing-formats-features/convert-xps-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire XPS in DOCX con GroupDocs.Conversion per .NET
 
 ## Introduzione

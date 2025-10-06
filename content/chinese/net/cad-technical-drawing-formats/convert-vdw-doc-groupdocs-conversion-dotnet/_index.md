@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将 VDW 转换为 DOC™ 分步指南"
 "url": "/zh/net/cad-technical-drawing-formats/convert-vdw-doc-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将 VDW 转换为 DOC：分步指南
 
 ## 介绍

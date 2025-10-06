@@ -4,8 +4,8 @@
 "title": "Chuyển đổi XLAM sang DOC với GroupDocs.Conversion cho .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/word-processing-conversion/convert-xlam-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi XLAM sang DOC với GroupDocs.Conversion cho .NET: Hướng dẫn từng bước
 
 ## Giới thiệu

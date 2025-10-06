@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 的图像格式和功能教程"
 "url": "/zh/net/image-formats-features/"
 "weight": 13
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 的图像格式和功能教程
 
 通过我们为 .NET 开发人员提供的详细 GroupDocs.Conversion 教程探索图像处理功能。这些分步指南演示了如何将文档转换为各种图像格式、如何实现 OCR 从图像中提取文本、如何控制图像分辨率和质量、如何管理色深和透明度、如何指定矢量格式的渲染选项、如何在图像转换期间保留元数据以及如何批量处理多张图像。每个教程都包含适用于图像转换场景的实用 C# 代码示例，帮助您构建能够有效地将文档转换为可视化表示或从基于图像的格式中提取内容的应用程序。

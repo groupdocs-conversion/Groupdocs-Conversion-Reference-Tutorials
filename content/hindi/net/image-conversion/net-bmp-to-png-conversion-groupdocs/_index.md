@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion लाइब्रेरी का उपयोग करके .NET में कुशल BMP से PNG रूपांतरण"
 "url": "/hi/net/image-conversion/net-bmp-to-png-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs के साथ .NET में कुशल BMP से PNG रूपांतरण
 
 ## परिचय

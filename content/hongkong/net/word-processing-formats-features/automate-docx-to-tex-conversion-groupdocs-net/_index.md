@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 自動將 DOCX 轉換為 TEX - 簡易指南"
 "url": "/zh-hant/net/word-processing-formats-features/automate-docx-to-tex-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs for .NET 自動將 DOCX 轉換為 TEX
 
 ## 介紹

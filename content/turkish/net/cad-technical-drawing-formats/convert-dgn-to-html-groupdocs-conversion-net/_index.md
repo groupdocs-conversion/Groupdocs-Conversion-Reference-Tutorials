@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak DGN'yi HTML'ye Verimli Şekilde Dönüştürün | CAD ve Teknik Çizim Formatları"
 "url": "/tr/net/cad-technical-drawing-formats/convert-dgn-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET ile DGN Dosyalarının HTML'ye Verimli Dönüştürülmesi
 
 ## giriiş

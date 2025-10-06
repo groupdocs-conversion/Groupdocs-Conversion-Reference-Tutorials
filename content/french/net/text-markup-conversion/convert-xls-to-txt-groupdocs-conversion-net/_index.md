@@ -4,8 +4,8 @@
 "title": "Convertir Excel (XLS) en texte (TXT) à l'aide de GroupDocs.Conversion pour .NET - Guide étape par étape"
 "url": "/fr/net/text-markup-conversion/convert-xls-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des fichiers Excel (XLS) en texte (TXT) avec GroupDocs.Conversion pour .NET : guide étape par étape
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "JPG-TEX konvertálási útmutató a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/master-jpg-to-tex-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # JPG-TEX konvertálási útmutató a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

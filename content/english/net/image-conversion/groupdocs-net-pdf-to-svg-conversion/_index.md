@@ -8,10 +8,8 @@ keywords:
 - PDF to SVG conversion
 - GroupDocs.Conversion .NET
 - efficient document conversion
-
+type: docs
 ---
-
-
 # Master PDF to SVG Conversion with GroupDocs.Conversion for .NET
 
 ## Image Conversion Tutorial

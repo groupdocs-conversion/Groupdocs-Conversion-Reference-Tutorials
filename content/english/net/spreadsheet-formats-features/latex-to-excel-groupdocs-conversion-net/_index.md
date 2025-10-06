@@ -8,10 +8,8 @@ keywords:
 - LaTeX to Excel conversion
 - GroupDocs.Conversion .NET setup
 - C# LaTeX conversion
-
+type: docs
 ---
-
-
 # Mastering LaTeX to Excel Conversion with GroupDocs.Conversion .NET
 
 In today’s data-driven world, converting complex LaTeX documents into widely-used formats like Excel is invaluable for researchers and developers. Whether managing large datasets or streamlining document conversions, this guide will help you seamlessly transform `.tex` files into `.xlsx` using GroupDocs.Conversion .NET.

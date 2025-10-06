@@ -5,8 +5,8 @@
 "title": "Konvertera PPSX till PDF"
 "url": "/sv/net/pdf-conversion/convert-ppsx-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # Konvertera PPSX till PDF
 
 ## Introduktion

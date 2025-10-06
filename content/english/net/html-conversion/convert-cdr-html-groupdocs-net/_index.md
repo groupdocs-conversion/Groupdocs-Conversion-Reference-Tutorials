@@ -8,10 +8,8 @@ keywords:
 - Convert CDR to HTML
 - GroupDocs.Conversion for .NET
 - CorelDRAW conversion
-
+type: docs
 ---
-
-
 # How to Convert CDR Files to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

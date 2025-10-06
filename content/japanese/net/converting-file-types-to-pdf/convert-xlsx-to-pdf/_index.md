@@ -5,8 +5,8 @@
 "title": "XLSXをPDFに変換する"
 "url": "/ja/net/converting-file-types-to-pdf/convert-xlsx-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # XLSXをPDFに変換する
 
 ## 導入

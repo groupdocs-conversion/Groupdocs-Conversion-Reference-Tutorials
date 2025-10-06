@@ -5,8 +5,8 @@
 "title": "Конвертировать файлы информационного моделирования зданий IFC в PDF"
 "url": "/ru/net/convert-files-to-pdf/convert-ifc-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Конвертировать файлы информационного моделирования зданий IFC в PDF
 
 ## Введение

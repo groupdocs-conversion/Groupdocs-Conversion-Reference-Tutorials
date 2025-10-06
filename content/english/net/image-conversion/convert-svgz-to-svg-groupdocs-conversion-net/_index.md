@@ -8,10 +8,8 @@ keywords:
 - convert SVGZ to SVG
 - GroupDocs.Conversion for .NET
 - vector graphics conversion
-
+type: docs
 ---
-
-
 # How to Convert SVGZ to SVG Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

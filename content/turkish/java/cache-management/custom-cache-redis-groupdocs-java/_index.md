@@ -4,8 +4,8 @@
 "title": "Redis ve GroupDocs.Conversion Kullanarak Java'da Özel Önbelleğe Alma Nasıl Uygulanır"
 "url": "/tr/java/cache-management/custom-cache-redis-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Redis ve GroupDocs.Conversion Kullanarak Java'da Özel Önbelleğe Alma Nasıl Uygulanır
 
 ## giriiş

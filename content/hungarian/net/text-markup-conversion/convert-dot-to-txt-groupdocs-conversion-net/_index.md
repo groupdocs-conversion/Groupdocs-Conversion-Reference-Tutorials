@@ -4,8 +4,8 @@
 "title": "DOT fájlok TXT formátumba konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/text-markup-conversion/convert-dot-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DOT fájlok TXT formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

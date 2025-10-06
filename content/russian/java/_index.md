@@ -4,8 +4,8 @@
 "title": "Подробные руководства по GroupDocs.Conversion для Java"
 "url": "/ru/java/"
 "weight": 10
+type: docs
 ---
-
 # Подробные руководства по GroupDocs.Conversion для Java
 
 ## Введение

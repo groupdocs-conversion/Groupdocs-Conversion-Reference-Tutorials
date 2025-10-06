@@ -5,8 +5,8 @@
 "title": "Konversi XLTM ke PDF"
 "url": "/id/net/converting-file-types-to-pdf/convert-xltm-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # Konversi XLTM ke PDF
 
 ## Perkenalan

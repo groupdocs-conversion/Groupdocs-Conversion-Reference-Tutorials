@@ -4,8 +4,8 @@
 "title": "Kapsamlı Kılavuz&#58; .NET için GroupDocs.Conversion'ı Kullanarak Markdown'ı PNG'ye Dönüştürme"
 "url": "/tr/net/image-conversion/convert-markdown-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Kapsamlı Kılavuz: .NET için GroupDocs.Conversion'ı Kullanarak Markdown'ı PNG'ye Dönüştürme
 
 ## giriiş

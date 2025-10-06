@@ -4,8 +4,8 @@
 "title": "Hoe u XLS-bestanden naar PDF converteert met GroupDocs.Conversion voor .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/pdf-conversion/convert-xls-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # XLS-bestanden naar PDF converteren met GroupDocs.Conversion voor .NET: een stapsgewijze handleiding
 
 ## Invoering

@@ -4,8 +4,8 @@
 "title": "Tải & Chuyển đổi Tài liệu được Bảo vệ bằng Mật khẩu Sử dụng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/working-with-secure-documents/groupdocs-load-convert-password-documents-net/"
 "weight": 1
+type: docs
 ---
-
 # Tải & Chuyển đổi Tài liệu được Bảo vệ bằng Mật khẩu Sử dụng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

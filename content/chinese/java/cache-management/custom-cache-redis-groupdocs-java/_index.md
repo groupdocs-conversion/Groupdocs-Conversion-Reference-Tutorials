@@ -4,8 +4,8 @@
 "title": "如何使用 Redis 和 GroupDocs.Conversion 在 Java 中实现自定义缓存"
 "url": "/zh/java/cache-management/custom-cache-redis-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 Redis 和 GroupDocs.Conversion 在 Java 中实现自定义缓存
 
 ## 介绍

@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 實作 PNG 到 HTML 的高效轉換"
 "url": "/zh-hant/net/html-conversion/convert-png-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 實作 PNG 到 HTML 的高效轉換
 ## 介紹
 在當今的數位環境中，將 PNG 等圖像轉換為 HTML 等 Web 友善格式對於優化使用者體驗和網站效能至關重要。無論您是自動化影像處理的開發人員，還是簡化內容創建的企業，將 PNG 檔案轉換為 HTML 都可以顯著增強您的工作流程。本教學將指導您使用 GroupDocs.Conversion for .NET 無縫實現此操作。

@@ -5,8 +5,8 @@
 "title": "FODS OpenDocument 스프레드시트를 PDF로 변환"
 "url": "/ko/net/convert-files-to-pdf/convert-fods-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # FODS OpenDocument 스프레드시트를 PDF로 변환
 
 ## 소개

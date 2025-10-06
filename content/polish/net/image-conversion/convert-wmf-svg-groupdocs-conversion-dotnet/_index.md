@@ -4,8 +4,8 @@
 "title": "Jak konwertować pliki WMF do SVG za pomocą GroupDocs.Conversion .NET&#58; Kompleksowy przewodnik"
 "url": "/pl/net/image-conversion/convert-wmf-svg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak konwertować pliki WMF do SVG za pomocą GroupDocs.Conversion .NET: kompleksowy przewodnik
 
 dzisiejszym cyfrowym świecie wydajna konwersja plików jest niezbędna. Niezależnie od tego, czy jesteś programistą obsługującym zasoby graficzne, czy zarządzającym dokumentami w różnych formatach, płynna konwersja plików może zaoszczędzić czas i zasoby. Ten samouczek przeprowadzi Cię przez proces używania GroupDocs.Conversion dla .NET do konwersji plików Windows Metafile (WMF) na Scalable Vector Graphics (SVG). Oto, czego się nauczysz:

@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中將 VSX 轉換為 CSV&#58; 逐步指南"
 "url": "/zh-hant/net/csv-structured-data-processing/convert-vsx-to-csv-using-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將 VSX 檔案轉換為 CSV
 
 ## 介紹

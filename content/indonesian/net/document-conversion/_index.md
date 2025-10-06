@@ -5,8 +5,8 @@
 "title": "Konversi Dokumen"
 "url": "/id/net/document-conversion/"
 "weight": 23
+type: docs
 ---
-
 # Konversi Dokumen
 
 ## Perkenalan

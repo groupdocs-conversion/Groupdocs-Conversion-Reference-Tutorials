@@ -8,10 +8,8 @@ keywords:
 - Convert XML to PDF
 - GroupDocs.Conversion for .NET
 - XML to PDF conversion in C#
-
+type: docs
 ---
-
-
 # Convert XML to PDF with GroupDocs.Conversion for .NET: Complete Guide
 
 ## Introduction

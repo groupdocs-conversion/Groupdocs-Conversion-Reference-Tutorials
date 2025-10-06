@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή PDF σε Word χρησιμοποιώντας το GroupDocs.Conversion Java API"
 "url": "/el/java/word-processing-formats/groupdocs-conversion-java-pdf-to-word/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική μετατροπή PDF σε Word χρησιμοποιώντας το GroupDocs.Conversion Java API
 
 ## Εισαγωγή

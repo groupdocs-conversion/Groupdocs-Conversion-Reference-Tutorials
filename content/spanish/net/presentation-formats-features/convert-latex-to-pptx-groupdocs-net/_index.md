@@ -4,8 +4,8 @@
 "title": "Cómo convertir archivos LaTeX a PPTX usando GroupDocs.Conversion en .NET"
 "url": "/es/net/presentation-formats-features/convert-latex-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir archivos LaTeX a PPTX usando GroupDocs.Conversion en .NET
 
 ## Introducción

@@ -4,8 +4,8 @@
 "title": "Converteer HTML naar tekst met GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/web-markup-formats/convert-html-to-text-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer HTML naar tekst met GroupDocs.Conversion voor .NET
 
 ## Invoering

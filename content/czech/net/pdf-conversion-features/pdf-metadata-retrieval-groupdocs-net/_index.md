@@ -4,8 +4,8 @@
 "title": "Jak načíst metadata PDF pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/pdf-conversion-features/pdf-metadata-retrieval-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak načíst metadata PDF pomocí GroupDocs.Conversion pro .NET
 
 Už vás nebaví ručně extrahovat informace z PDF dokumentů? Automatizujte tento úkol pomocí GroupDocs.Conversion pro .NET a získejte důležité údaje, jako je autorství, datum vytvoření, počet stránek, rozměry a další.

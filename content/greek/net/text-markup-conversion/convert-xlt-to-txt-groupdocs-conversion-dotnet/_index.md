@@ -4,8 +4,8 @@
 "title": "Πώς να μετατρέψετε αρχεία XLT σε TXT χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/text-markup-conversion/convert-xlt-to-txt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε αρχεία XLT σε TXT χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

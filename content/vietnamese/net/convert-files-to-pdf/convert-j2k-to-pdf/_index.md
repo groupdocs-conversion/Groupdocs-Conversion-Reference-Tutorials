@@ -5,8 +5,8 @@
 "title": "Chuyển đổi hình ảnh J2K JPEG 2000 sang PDF"
 "url": "/vi/net/convert-files-to-pdf/convert-j2k-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # Chuyển đổi hình ảnh J2K JPEG 2000 sang PDF
 
 ## Giới thiệu

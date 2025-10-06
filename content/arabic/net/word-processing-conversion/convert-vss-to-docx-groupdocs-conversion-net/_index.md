@@ -4,8 +4,8 @@
 "title": "تحويل VSS إلى DOCX باستخدام GroupDocs.Conversion لـ .NET - دليل خطوة بخطوة"
 "url": "/ar/net/word-processing-conversion/convert-vss-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل VSS إلى DOCX باستخدام GroupDocs.Conversion لـ .NET: دليل خطوة بخطوة
 
 مرحبًا بكم في دليلنا الشامل حول تحويل ملفات Visio Stencil (VSS) إلى مستندات Microsoft Word Open XML (DOCX) باستخدام **GroupDocs.Conversion لـ .NET**صُمم هذا البرنامج التعليمي لمساعدتك في التغلب على تحديات تحويل صيغ الملفات، وخاصةً من VSS إلى DOCX. اتبع كل خطوة لتطبيق هذا الحل بسلاسة.

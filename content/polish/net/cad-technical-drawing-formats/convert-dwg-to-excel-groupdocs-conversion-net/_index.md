@@ -4,8 +4,8 @@
 "title": "Jak konwertować pliki DWG do programu Excel za pomocą GroupDocs.Conversion dla platformy .NET"
 "url": "/pl/net/cad-technical-drawing-formats/convert-dwg-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak konwertować pliki DWG do programu Excel za pomocą GroupDocs.Conversion dla platformy .NET
 
 ## Wstęp

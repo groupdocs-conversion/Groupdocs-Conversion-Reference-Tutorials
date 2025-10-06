@@ -3,8 +3,8 @@
 "title": "Tutorial Format Web dan Markup untuk GroupDocs.Conversion .NET"
 "url": "/id/net/web-markup-formats/"
 "weight": 19
+type: docs
 ---
-
 # Tutorial Format Web dan Markup untuk GroupDocs.Conversion .NET
 
 Tutorial konversi format web kami menyediakan panduan komprehensif untuk bekerja dengan bahasa markup dalam aplikasi .NET. Panduan langkah demi langkah ini menunjukkan cara mengonversi dokumen ke dan dari format HTML, menambahkan penomoran halaman ke dokumen web, menangani gaya CSS, mengelola sumber daya yang disematkan, menerapkan tata letak responsif, mengendalikan perilaku penyematan gambar, mempertahankan hyperlink, dan mempertahankan struktur dokumen. Setiap tutorial menyertakan contoh kode C# lengkap untuk skenario konversi format web, membantu Anda membangun aplikasi yang dapat menjembatani kesenjangan antara format dokumen dan konten web secara efektif.

@@ -4,8 +4,8 @@
 "title": "الدليل الشامل - تحويل TXT إلى DOC باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/word-processing-conversion/convert-txt-doc-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # الدليل الشامل: تحويل TXT إلى DOC باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

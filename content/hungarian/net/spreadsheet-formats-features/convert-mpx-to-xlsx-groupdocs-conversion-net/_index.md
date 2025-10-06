@@ -4,8 +4,8 @@
 "title": "MPX fájlok XLSX formátumra konvertálása a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-mpx-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MPX fájlok konvertálása XLSX formátumra a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

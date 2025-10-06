@@ -4,8 +4,8 @@
 "title": "Convierte archivos STL a Excel con GroupDocs.Conversion para .NET | Guía paso a paso"
 "url": "/es/net/spreadsheet-formats-features/convert-stl-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convierta STL a Excel con GroupDocs.Conversion para .NET: una guía paso a paso
 
 ## Introducción

@@ -4,8 +4,8 @@
 "title": "HTML konvertálása CSV-vé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/web-markup-formats/convert-html-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # HTML konvertálása CSV-vé a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

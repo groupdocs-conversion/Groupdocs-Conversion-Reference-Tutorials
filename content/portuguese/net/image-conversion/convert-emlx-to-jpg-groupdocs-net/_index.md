@@ -4,8 +4,8 @@
 "title": "Converter EMLX para JPG usando GroupDocs.Conversion para .NET - Um guia passo a passo"
 "url": "/pt/net/image-conversion/convert-emlx-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converter EMLX para JPG usando GroupDocs.Conversion para .NET: um guia passo a passo
 
 ## Introdução

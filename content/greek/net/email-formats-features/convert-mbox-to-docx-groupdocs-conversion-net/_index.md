@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή MBOX σε DOCX χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/email-formats-features/convert-mbox-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική μετατροπή MBOX σε DOCX χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

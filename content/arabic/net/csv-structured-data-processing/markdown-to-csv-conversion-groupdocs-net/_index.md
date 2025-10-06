@@ -4,8 +4,8 @@
 "title": "تحويل فعال من Markdown إلى CSV باستخدام GroupDocs لمطوري .NET"
 "url": "/ar/net/csv-structured-data-processing/markdown-to-csv-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل فعال من Markdown إلى CSV باستخدام GroupDocs لمطوري .NET
 ## مقدمة
 هل ترغب في تبسيط معالجة بياناتك بتحويل ملفات Markdown إلى صيغة CSV؟ `.md` الملفات إلى `.csv` يمكن أن يُحسّن بشكل كبير قدرتك على تنظيم وتحليل المحتوى النصي. سيرشدك هذا الدليل خلال استخدام **GroupDocs.Conversion لـ .NET** لتحقيق هذا التحول بسهولة.

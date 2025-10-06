@@ -4,8 +4,8 @@
 "title": "Convertissez efficacement vos fichiers WEBP en DOC grâce à GroupDocs.Conversion pour .NET"
 "url": "/fr/net/word-processing-conversion/convert-webp-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertissez efficacement vos fichiers WEBP en DOC grâce à GroupDocs.Conversion pour .NET
 
 ## Introduction

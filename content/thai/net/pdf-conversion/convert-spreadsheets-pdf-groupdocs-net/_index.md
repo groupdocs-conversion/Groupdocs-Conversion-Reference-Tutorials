@@ -4,8 +4,8 @@
 "title": "แปลงสเปรดชีตเป็น PDF ได้อย่างราบรื่นโดยใช้ GroupDocs.Conversion ใน .NET"
 "url": "/th/net/pdf-conversion/convert-spreadsheets-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลงสเปรดชีตเป็น PDF ได้อย่างราบรื่นโดยใช้ GroupDocs.Conversion ใน .NET
 
 ## การแนะนำ

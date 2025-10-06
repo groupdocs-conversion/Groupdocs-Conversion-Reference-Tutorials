@@ -4,8 +4,8 @@
 "title": "Converta arquivos JLS em PDF com eficiência usando o GroupDocs.Conversion para .NET"
 "url": "/pt/net/pdf-conversion/convert-jls-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter arquivos JLS para PDF com GroupDocs.Conversion para .NET
 
 ## Introdução

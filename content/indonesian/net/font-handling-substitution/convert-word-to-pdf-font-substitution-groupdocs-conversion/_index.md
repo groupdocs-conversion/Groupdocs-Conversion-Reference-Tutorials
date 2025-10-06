@@ -4,8 +4,8 @@
 "title": "Konversi Word ke PDF dengan Substitusi Font Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/font-handling-substitution/convert-word-to-pdf-font-substitution-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Konversi Dokumen Word ke PDF dengan Substitusi Font Menggunakan GroupDocs.Conversion untuk .NET
 ## Perkenalan
 Mengonversi dokumen Word ke PDF sering kali menghasilkan font yang tidak konsisten, sehingga mengakibatkan masalah pemformatan. Panduan ini menyederhanakan upaya memastikan konsistensi font menggunakan GroupDocs.Conversion untuk .NET. Pelajari cara mengatur opsi pemuatan untuk penggantian font dan mengonversi dokumen Word Anda ke format PDF dengan lancar sambil mempertahankan ketepatan visual.

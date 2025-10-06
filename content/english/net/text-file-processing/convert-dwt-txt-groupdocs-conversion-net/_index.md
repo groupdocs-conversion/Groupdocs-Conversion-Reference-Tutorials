@@ -8,10 +8,8 @@ keywords:
 - convert DWT to TXT
 - GroupDocs.Conversion .NET
 - text file processing
-
+type: docs
 ---
-
-
 # Convert DWT to TXT Using GroupDocs.Conversion .NET for Efficient Text File Processing
 
 ## Introduction

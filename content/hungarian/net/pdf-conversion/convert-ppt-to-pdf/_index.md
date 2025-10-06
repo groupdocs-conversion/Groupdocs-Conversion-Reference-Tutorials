@@ -5,8 +5,8 @@
 "title": "PPT konvertálása PDF-be"
 "url": "/hu/net/pdf-conversion/convert-ppt-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # PPT konvertálása PDF-be
 
 ## Bevezetés

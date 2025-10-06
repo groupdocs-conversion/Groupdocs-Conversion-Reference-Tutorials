@@ -5,8 +5,8 @@
 "title": "將 VSTM 轉換為 PDF"
 "url": "/zh-hant/net/converting-file-types-to-pdf/convert-vstm-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # 將 VSTM 轉換為 PDF
 
 ## 介紹

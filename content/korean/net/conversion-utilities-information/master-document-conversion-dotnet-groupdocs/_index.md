@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion API를 사용한 .NET에서의 마스터 문서 변환"
 "url": "/ko/net/conversion-utilities-information/master-document-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion API를 사용하여 .NET에서 문서 변환 마스터하기
 
 GroupDocs.Conversion API를 사용하여 .NET 애플리케이션에 문서 변환 기능을 원활하게 통합하는 데 도움이 되는 포괄적인 가이드에 오신 것을 환영합니다. 대량의 문서를 관리하거나 파일 형식을 변환하는 유연한 솔루션이 필요한 경우, 이 튜토리얼은 시작하는 데 필요한 모든 것을 제공합니다.

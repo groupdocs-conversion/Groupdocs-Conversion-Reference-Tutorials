@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion .NET
 - email conversions .NET
 - file format transformations .NET
-
+type: docs
 ---
-
-
 # Mastering GroupDocs.Conversion .NET for Email and File Conversions: A Comprehensive Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie PPSX in XLSX mit GroupDocs.Conversion .NET – Ein umfassender Leitfaden"
 "url": "/de/net/presentation-conversion/convert-ppsx-to-xlsx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie PPSX in XLSX mit GroupDocs.Conversion .NET: Ein umfassender Leitfaden
 
 ## Einführung

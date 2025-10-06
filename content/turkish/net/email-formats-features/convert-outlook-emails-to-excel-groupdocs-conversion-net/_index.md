@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak Outlook E-postalarını Excel'e Verimli Şekilde Dönüştürün"
 "url": "/tr/net/email-formats-features/convert-outlook-emails-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak Microsoft Outlook E-postalarını Excel Elektronik Tablolarına Zahmetsizce Dönüştürün
 
 ## giriiş

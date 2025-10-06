@@ -8,10 +8,8 @@ keywords:
 - convert TXT to PSD
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Convert TXT to PSD Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - Convert JPC to PNG
 - GroupDocs.Conversion for .NET
 - JPC file conversion
-
+type: docs
 ---
-
-
 # How to Convert JPC Files to PNG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Converter ODP para TEX usando GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/presentation-conversion/convert-odp-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converter ODP para TEX usando GroupDocs.Conversion para .NET: um guia completo
 
 ## Introdução

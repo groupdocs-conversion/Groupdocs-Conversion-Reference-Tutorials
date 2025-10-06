@@ -3,8 +3,8 @@
 "title": "Handleidingen over e-mailindelingen en functies voor GroupDocs.Conversion .NET"
 "url": "/nl/net/email-formats-features/"
 "weight": 14
+type: docs
 ---
-
 # Handleidingen over e-mailindelingen en functies voor GroupDocs.Conversion .NET
 
 Beheers de verwerking van e-maildocumenten met onze uitgebreide GroupDocs.Conversion-tutorials voor .NET-ontwikkelaars. Deze praktische handleidingen laten zien hoe u e-mailberichten naar verschillende documentformaten kunt converteren, e-mailbijlagen kunt extraheren en converteren naar verschillende formaten, de zichtbaarheid van velden kunt aanpassen tijdens de conversie, lokalisatie kunt toepassen op e-mailvelden, tijdzoneverschillen kunt verwerken, globalisatie-instellingen kunt implementeren, e-mailmetadata kunt behouden en berichten met ingesloten content kunt verwerken. Elke tutorial biedt gedetailleerde C#-codevoorbeelden voor e-mailconversiescenario's, waarmee u applicaties kunt bouwen die e-mailberichten effectief kunnen omzetten naar toegankelijkere documentformaten.

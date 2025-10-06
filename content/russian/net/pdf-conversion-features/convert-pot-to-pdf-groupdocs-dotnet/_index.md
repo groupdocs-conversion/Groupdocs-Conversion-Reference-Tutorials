@@ -4,8 +4,8 @@
 "title": "Конвертируйте шаблон PowerPoint (.pot) в PDF с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/pdf-conversion-features/convert-pot-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Как преобразовать файл шаблона PowerPoint (.pot) в PDF с помощью GroupDocs.Conversion для .NET
 
 ## Введение

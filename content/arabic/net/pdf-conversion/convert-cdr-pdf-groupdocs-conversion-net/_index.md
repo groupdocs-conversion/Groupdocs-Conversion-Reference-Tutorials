@@ -4,8 +4,8 @@
 "title": "تحويل ملفات CDR إلى PDF باستخدام GroupDocs.Conversion .NET - دليل خطوة بخطوة"
 "url": "/ar/net/pdf-conversion/convert-cdr-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل ملفات CDR إلى PDF باستخدام GroupDocs.Conversion .NET: دليل خطوة بخطوة
 
 ## مقدمة

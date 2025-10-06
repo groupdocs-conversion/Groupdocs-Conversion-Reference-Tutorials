@@ -4,8 +4,8 @@
 "title": "PPSM konvertálása PSD-vé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-ppsm-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan lehet PPSM-et PSD-vé konvertálni a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

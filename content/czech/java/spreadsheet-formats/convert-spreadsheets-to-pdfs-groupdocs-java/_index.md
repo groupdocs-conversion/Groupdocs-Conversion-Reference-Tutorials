@@ -4,8 +4,8 @@
 "title": "Převod tabulek do PDF pomocí komplexního průvodce GroupDocs.Conversion pro Javu"
 "url": "/cs/java/spreadsheet-formats/convert-spreadsheets-to-pdfs-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Převod tabulek do PDF pomocí GroupDocs.Conversion pro Javu: Komplexní průvodce
 
 ## Zavedení

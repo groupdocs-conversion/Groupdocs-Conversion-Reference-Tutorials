@@ -4,8 +4,8 @@
 "title": "JPM hatékony konvertálása PPTX-be a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/presentation-formats-features/convert-jpm-to-pptx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # JPM fájlok PPTX formátumba konvertálása a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

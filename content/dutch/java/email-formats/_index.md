@@ -3,8 +3,8 @@
 "title": "Tutorials voor het converteren van e-mailformaten voor GroupDocs.Conversion Java"
 "url": "/nl/java/email-formats/"
 "weight": 8
+type: docs
 ---
-
 # Tutorials voor het converteren van e-mailformaten voor GroupDocs.Conversion Java
 
 Beheers de conversie van e-mailbestanden met onze gedetailleerde GroupDocs.Conversion-tutorials voor Java-ontwikkelaars. Deze stapsgewijze handleidingen laten zien hoe u e-mailberichten naar documentformaten kunt converteren, e-mailbijlagen kunt extraheren, e-mailmetadata kunt behouden, e-mailheaders en -body's kunt verwerken en batch-e-mailconversie kunt implementeren. Elke tutorial biedt praktische Java-codevoorbeelden voor het werken met e-mailarchieven en -berichten, waarmee u applicaties kunt bouwen die e-mailberichten effectief kunnen verwerken en transformeren naar verschillende documentformaten.

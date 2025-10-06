@@ -5,8 +5,8 @@
 "title": "MBOX konvertálása PDF-be"
 "url": "/hu/net/document-conversion/convert-mbox-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # MBOX konvertálása PDF-be
 
 ## Bevezetés

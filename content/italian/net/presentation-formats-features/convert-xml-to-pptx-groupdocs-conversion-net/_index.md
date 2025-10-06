@@ -4,8 +4,8 @@
 "title": "Convertire XML in PPTX utilizzando GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/presentation-formats-features/convert-xml-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire XML in PPTX utilizzando GroupDocs.Conversion per .NET: una guida completa
 
 ## Introduzione

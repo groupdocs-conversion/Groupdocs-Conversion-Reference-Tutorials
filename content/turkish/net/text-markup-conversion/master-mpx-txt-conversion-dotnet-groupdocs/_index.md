@@ -4,8 +4,8 @@
 "title": "GroupDocs ile .NET'te MPX'ten TXT'ye Dönüşümde Ustalaşın"
 "url": "/tr/net/text-markup-conversion/master-mpx-txt-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion ile .NET'te MPX'ten TXT'ye Dönüşümde Ustalaşma
 
 ## giriiş

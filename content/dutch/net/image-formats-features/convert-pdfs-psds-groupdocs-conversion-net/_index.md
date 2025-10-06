@@ -4,8 +4,8 @@
 "title": "Efficiënte PDF naar PSD-conversie met behulp van de GroupDocs.Conversion .NET-bibliotheek"
 "url": "/nl/net/image-formats-features/convert-pdfs-psds-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Efficiënte PDF naar PSD-conversie met GroupDocs.Conversion .NET
 
 ## Invoering

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して PST ファイルを PDF にシームレスに変換します"
 "url": "/ja/net/storage-files-pst-processing/convert-pst-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET で PST ファイルをシームレスに PDF に変換
 
 ## 導入

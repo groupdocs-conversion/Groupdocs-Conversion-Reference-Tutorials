@@ -4,8 +4,8 @@
 "title": "Převod šablon POTM do CSV pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/spreadsheet-formats-features/convert-potm-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod šablon Microsoft PowerPoint (POTM) do CSV pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "Efektivní převod Excelu do PDF pomocí GroupDocs.Conversion v Javě"
 "url": "/cs/java/pdf-conversion/excel-to-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod Excelu do PDF pomocí GroupDocs.Conversion v Javě
 
 ## Zavedení

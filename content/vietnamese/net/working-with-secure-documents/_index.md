@@ -3,8 +3,8 @@
 "title": "Làm việc với Secure Documents Hướng dẫn cho GroupDocs.Conversion .NET"
 "url": "/vi/net/working-with-secure-documents/"
 "weight": 5
+type: docs
 ---
-
 # Làm việc với Secure Documents Hướng dẫn cho GroupDocs.Conversion .NET
 
 Khám phá cách xử lý các tài liệu an toàn với hướng dẫn GroupDocs.Conversion của chúng tôi dành cho các nhà phát triển .NET. Các hướng dẫn từng bước này hướng dẫn bạn cách tải các tệp được bảo vệ bằng mật khẩu bằng cả phương pháp API chuẩn và thông thạo, quản lý khóa mã hóa, chỉ định các tùy chọn bảo mật dành riêng cho tài liệu, xử lý lỗi xác thực một cách nhẹ nhàng và bảo toàn các thiết lập bảo mật trong quá trình chuyển đổi khi cần thiết. Mỗi hướng dẫn đều cung cấp các ví dụ mã C# thực tế để làm việc với các tài liệu được bảo vệ, giúp bạn xây dựng các ứng dụng có thể xử lý nội dung an toàn trong khi vẫn tôn trọng tính bảo mật và kiểm soát quyền truy cập.

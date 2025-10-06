@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET&#58;i Kullanarak PNG'yi JPG'ye Dönüştürme Geliştiriciler İçin Kapsamlı Bir Kılavuz"
 "url": "/tr/net/image-conversion/convert-png-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PNG'yi GroupDocs.Conversion .NET ile JPG'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

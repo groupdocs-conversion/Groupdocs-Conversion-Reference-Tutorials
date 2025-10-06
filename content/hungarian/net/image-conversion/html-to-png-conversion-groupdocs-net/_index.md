@@ -4,8 +4,8 @@
 "title": "HTML PNG-vé konvertálása .NET-ben a GroupDocs.Conversion használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/html-to-png-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # HTML konvertálása PNG-vé a GroupDocs.Conversion for .NET segítségével: Átfogó útmutató
 
 ## Bevezetés

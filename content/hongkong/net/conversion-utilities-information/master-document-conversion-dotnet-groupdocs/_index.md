@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion API 掌握 .NET 中的文件轉換"
 "url": "/zh-hant/net/conversion-utilities-information/master-document-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion API 掌握 .NET 中的文件轉換
 
 歡迎閱讀本指南，它旨在幫助您使用 GroupDocs.Conversion API 將文件轉換功能無縫整合到您的 .NET 應用程式中。無論您是管理大量文檔，還是需要靈活的文件格式轉換解決方案，本教學都能為您提供入門所需的一切。

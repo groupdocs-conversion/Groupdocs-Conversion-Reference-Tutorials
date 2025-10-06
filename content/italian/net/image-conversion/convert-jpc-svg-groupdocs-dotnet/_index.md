@@ -4,8 +4,8 @@
 "title": "Guida passo passo&#58; Converti JPC in SVG utilizzando GroupDocs.Conversion .NET per una conversione di immagini senza interruzioni"
 "url": "/it/net/image-conversion/convert-jpc-svg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Guida passo passo: convertire JPC in SVG utilizzando GroupDocs.Conversion .NET per una conversione di immagini senza interruzioni
 
 ## Introduzione

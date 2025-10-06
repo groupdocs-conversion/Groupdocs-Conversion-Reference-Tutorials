@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi JPEG 2000 sang văn bản bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/text-file-processing/convert-jpeg-2000-to-text-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp JPEG 2000 thành văn bản bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

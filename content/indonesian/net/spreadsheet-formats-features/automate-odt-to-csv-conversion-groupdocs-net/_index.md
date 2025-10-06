@@ -4,8 +4,8 @@
 "title": "Mengotomatiskan Konversi ODT ke CSV Menggunakan GroupDocs untuk .NET&#58; Panduan Langkah demi Langkah"
 "url": "/id/net/spreadsheet-formats-features/automate-odt-to-csv-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Otomatiskan Konversi ODT ke CSV Menggunakan GroupDocs untuk .NET
 
 ## Perkenalan

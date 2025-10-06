@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for Java'yı Kullanarak Belgeleri PDF'ye Dönüştürme Adım Adım Kılavuzu"
 "url": "/tr/java/pdf-conversion/convert-documents-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Belgeleri GroupDocs.Conversion for Java ile PDF'ye Dönüştürün
 ## GroupDocs.Conversion Kullanılarak Belgeler PDF'ye Nasıl Dönüştürülür: Adım Adım Kılavuz
 ### giriiş

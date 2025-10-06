@@ -8,10 +8,8 @@ keywords:
 - convert Adobe Illustrator to LaTeX
 - GroupDocs.Conversion for .NET
 - AI files to TEX format
-
+type: docs
 ---
-
-
 # How to Convert Adobe Illustrator Files (.ai) to LaTeX (TEX) Using GroupDocs.Conversion for .NET
 
 ## Introduction

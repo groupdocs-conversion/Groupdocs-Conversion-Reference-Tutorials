@@ -5,8 +5,8 @@
 "title": "Converteer DOC Word-documenten naar PDF"
 "url": "/nl/net/file-conversion-to-pdf/convert-doc-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # Converteer DOC Word-documenten naar PDF
 
 ## Invoering

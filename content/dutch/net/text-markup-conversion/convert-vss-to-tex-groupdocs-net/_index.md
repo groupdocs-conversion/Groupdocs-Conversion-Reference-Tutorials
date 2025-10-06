@@ -4,8 +4,8 @@
 "title": "VSS naar TEX converteren met GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/text-markup-conversion/convert-vss-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # VSS naar TEX converteren met GroupDocs.Conversion voor .NET: een uitgebreide handleiding
 
 ## Invoering

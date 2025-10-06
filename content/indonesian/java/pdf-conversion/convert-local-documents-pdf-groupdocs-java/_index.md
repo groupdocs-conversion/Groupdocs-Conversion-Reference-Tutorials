@@ -4,8 +4,8 @@
 "title": "Konversi PDF Efisien di Java Menggunakan Pustaka GroupDocs.Conversion"
 "url": "/id/java/pdf-conversion/convert-local-documents-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Konversi PDF Efisien di Java dengan GroupDocs.Conversion
 
 ## Perkenalan

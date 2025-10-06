@@ -4,8 +4,8 @@
 "title": "تحويل فعال من TEX إلى PDF باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/pdf-conversion/convert-tex-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # تحويل فعال من TEX إلى PDF باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

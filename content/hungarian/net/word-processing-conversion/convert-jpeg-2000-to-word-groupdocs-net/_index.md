@@ -4,8 +4,8 @@
 "title": "JPEG 2000 konvertálása Word-be .NET-ben a GroupDocs használatával – lépésről lépésre útmutató"
 "url": "/hu/net/word-processing-conversion/convert-jpeg-2000-to-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # JPEG 2000 fájlok (JPF) konvertálása Word dokumentumokká (.doc) a GroupDocs.Conversion használatával .NET-ben
 
 ## Bevezetés

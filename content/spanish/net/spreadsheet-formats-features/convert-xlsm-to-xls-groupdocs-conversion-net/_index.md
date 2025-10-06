@@ -4,8 +4,8 @@
 "title": "Convierta XLSM a XLS de forma eficiente con GroupDocs.Conversion para .NET"
 "url": "/es/net/spreadsheet-formats-features/convert-xlsm-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convierta XLSM a XLS de forma eficiente con GroupDocs.Conversion para .NET
 
 ## Introducción

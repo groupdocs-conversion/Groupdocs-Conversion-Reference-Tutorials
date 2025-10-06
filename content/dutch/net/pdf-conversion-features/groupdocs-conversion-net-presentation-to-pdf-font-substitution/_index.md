@@ -4,8 +4,8 @@
 "title": "Converteer PowerPoint naar PDF met lettertypevervanging in .NET met GroupDocs.Conversion"
 "url": "/nl/net/pdf-conversion-features/groupdocs-conversion-net-presentation-to-pdf-font-substitution/"
 "weight": 1
+type: docs
 ---
-
 # Converteer PowerPoint naar PDF met lettertypevervanging in .NET met GroupDocs.Conversion
 
 ## Invoering

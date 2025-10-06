@@ -5,8 +5,8 @@
 "title": "Převod XLSB do PDF"
 "url": "/cs/net/converting-file-types-to-pdf/convert-xlsb-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Převod XLSB do PDF
 
 ## Zavedení

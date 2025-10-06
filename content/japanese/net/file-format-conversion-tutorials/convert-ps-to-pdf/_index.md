@@ -5,8 +5,8 @@
 "title": "PSをPDFに変換する"
 "url": "/ja/net/file-format-conversion-tutorials/convert-ps-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # PSをPDFに変換する
 
 ## 導入

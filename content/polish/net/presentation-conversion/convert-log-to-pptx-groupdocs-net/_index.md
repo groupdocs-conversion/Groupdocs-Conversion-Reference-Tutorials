@@ -4,8 +4,8 @@
 "title": "Efektywne konwertowanie plików dziennika do programu PowerPoint przy użyciu GroupDocs.Conversion dla .NET"
 "url": "/pl/net/presentation-conversion/convert-log-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektywne konwertowanie plików dziennika do programu PowerPoint przy użyciu GroupDocs.Conversion dla .NET
 
 ## Wstęp

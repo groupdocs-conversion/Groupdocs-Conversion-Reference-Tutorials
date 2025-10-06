@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion के साथ स्थानीय दस्तावेज़ों को PDF में परिवर्तित करें एक व्यापक गाइड"
 "url": "/hi/net/pdf-conversion-features/convert-local-documents-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion के साथ स्थानीय दस्तावेज़ों को PDF में कैसे परिवर्तित करें
 
 ## परिचय

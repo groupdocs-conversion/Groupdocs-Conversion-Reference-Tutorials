@@ -8,10 +8,8 @@ keywords:
 - convert XLS to PPTX
 - GroupDocs.Conversion for .NET tutorial
 - Excel to PowerPoint conversion
-
+type: docs
 ---
-
-
 # How to Convert XLS Files to PPTX Using GroupDocs.Conversion for .NET
 
 ## Introduction

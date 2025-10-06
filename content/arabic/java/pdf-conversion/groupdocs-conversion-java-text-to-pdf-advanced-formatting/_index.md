@@ -4,8 +4,8 @@
 "title": "تحويل متقدم من نص إلى PDF باستخدام GroupDocs.Conversion Java والحفاظ على التنسيق"
 "url": "/ar/java/pdf-conversion/groupdocs-conversion-java-text-to-pdf-advanced-formatting/"
 "weight": 1
+type: docs
 ---
-
 # تحويل متقدم من نص إلى PDF باستخدام GroupDocs.Conversion Java: الحفاظ على التنسيق
 
 ## مقدمة

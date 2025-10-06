@@ -5,8 +5,8 @@
 "title": "WebP를 PDF로 변환"
 "url": "/ko/net/converting-file-types-to-pdf/convert-webp-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # WebP를 PDF로 변환
 
 ## 소개

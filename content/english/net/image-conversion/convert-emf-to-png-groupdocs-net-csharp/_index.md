@@ -8,10 +8,8 @@ keywords:
 - Convert EMF to PNG
 - GroupDocs.Conversion for .NET
 - C# file conversion
-
+type: docs
 ---
-
-
 # Convert EMF Files to PNG Using GroupDocs.Conversion for .NET
 
 ## Introduction

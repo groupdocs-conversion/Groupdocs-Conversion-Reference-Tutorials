@@ -4,8 +4,8 @@
 "title": "Konwersja pliku głównego i konwersja VST do PPT przy użyciu biblioteki GroupDocs.Conversion .NET"
 "url": "/pl/net/presentation-conversion/convert-vst-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja pliku głównego: Konwersja VST do PPT przy użyciu biblioteki GroupDocs.Conversion .NET
 
 ## Wstęp

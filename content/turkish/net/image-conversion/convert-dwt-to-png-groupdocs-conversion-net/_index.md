@@ -4,8 +4,8 @@
 "title": "DWT'yi GroupDocs ile PNG'ye Kolayca Dönüştürün. .NET İçin Dönüştürme&#58; Tam Bir Kılavuz"
 "url": "/tr/net/image-conversion/convert-dwt-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs ile DWT'yi PNG'ye Kolayca Dönüştürün. .NET için Dönüştürme: Eksiksiz Bir Kılavuz
 
 ## giriiş

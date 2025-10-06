@@ -4,8 +4,8 @@
 "title": "DOTM konvertálása DOC-ba a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/word-processing-formats-features/convert-dotm-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertáljunk DOTM-et DOC-ba a GroupDocs.Conversion for .NET használatával?
 
 Nehezen tud makróbarát Microsoft Word sablonokat (.dotm) szabványos Word dokumentumokká (.doc) konvertálni? Ez az átfogó útmutató a makróbarát sablonok használatáról... **GroupDocs.Conversion .NET-hez** A könyvtár segítségével könnyedén leegyszerűsítheti ezt a folyamatot. A bemutató végére könnyedén elsajátíthatja a fájlformátumok konvertálását.

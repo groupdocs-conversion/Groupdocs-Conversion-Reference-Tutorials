@@ -4,8 +4,8 @@
 "title": "PDF에서 주석 숨기기&#58; GroupDocs.Conversion for .NET을 사용하여 PPT를 PDF로 변환"
 "url": "/ko/net/pdf-conversion-features/convert-presentation-pdf-hide-comments-net/"
 "weight": 1
+type: docs
 ---
-
 # PDF에서 주석 숨기기: GroupDocs.Conversion for .NET을 사용하여 PPT를 PDF로 변환
 
 ## 소개

@@ -4,8 +4,8 @@
 "title": "Effektiv konvertera RTF till DOCX med GroupDocs.Conversion för .NET | Steg-för-steg-guide"
 "url": "/sv/net/word-processing-formats-features/convert-rtf-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera RTF till DOCX effektivt med GroupDocs.Conversion för .NET
 
 ## Introduktion

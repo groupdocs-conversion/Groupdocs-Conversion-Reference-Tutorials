@@ -3,8 +3,8 @@
 "title": "Tutoriais de conversão de formatos de processamento de texto com GroupDocs.Conversion Java"
 "url": "/pt/java/word-processing-formats/"
 "weight": 5
+type: docs
 ---
-
 # Tutoriais de conversão de formatos de processamento de texto com GroupDocs.Conversion Java
 
 Descubra como lidar eficazmente com conversões de documentos do Word usando nossos tutoriais Java abrangentes do GroupDocs.Conversion. Estes guias passo a passo ensinam como converter entre vários formatos de processamento de texto, preservar formatação e estilos, manipular objetos incorporados e manter a estrutura do documento durante a conversão. Cada tutorial fornece exemplos práticos de código Java para tarefas comuns de conversão de documentos do Word, ajudando você a criar aplicativos mais eficientes que processam documentos de texto com alta fidelidade.

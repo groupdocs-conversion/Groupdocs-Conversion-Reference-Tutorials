@@ -4,8 +4,8 @@
 "title": "Jak převést XPS do CSV pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/spreadsheet-formats-features/convert-xps-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést XPS do CSV pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

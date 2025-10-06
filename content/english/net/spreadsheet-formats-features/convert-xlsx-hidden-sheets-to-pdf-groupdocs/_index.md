@@ -8,10 +8,8 @@ keywords:
 - convert XLSX to PDF
 - GroupDocs.Conversion for .NET
 - Excel spreadsheet to PDF
-
+type: docs
 ---
-
-
 # How to Convert XLSX Files with Hidden Sheets to PDF Using GroupDocs.Conversion for .NET
 
 ## Introduction

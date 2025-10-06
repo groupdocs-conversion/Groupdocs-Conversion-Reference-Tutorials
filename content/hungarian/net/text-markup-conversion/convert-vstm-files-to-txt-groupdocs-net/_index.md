@@ -4,8 +4,8 @@
 "title": "VSTM fájlok konvertálása TXT formátumba a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/text-markup-conversion/convert-vstm-files-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # VSTM fájlok konvertálása TXT formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

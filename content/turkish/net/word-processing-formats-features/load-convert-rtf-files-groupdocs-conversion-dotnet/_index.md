@@ -4,8 +4,8 @@
 "title": ".NET'te GroupDocs.Conversion'ı Kullanarak RTF Dosyalarını Verimli Şekilde Yükleyin ve Dönüştürün"
 "url": "/tr/net/word-processing-formats-features/load-convert-rtf-files-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET'te GroupDocs.Conversion'ı Kullanarak RTF Dosyalarını Verimli Şekilde Yükleyin ve Dönüştürün
 
 ## giriiş

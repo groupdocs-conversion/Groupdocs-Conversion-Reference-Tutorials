@@ -8,10 +8,8 @@ keywords:
 - Convert OTS to HTML
 - GroupDocs.Conversion for .NET
 - .NET document conversion
-
+type: docs
 ---
-
-
 # Convert OTS Files to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

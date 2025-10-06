@@ -4,8 +4,8 @@
 "title": "Převod souborů DOT do formátu JPG v .NET pomocí GroupDocs.Conversion – Podrobný návod"
 "url": "/cs/net/image-conversion/convert-dot-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů DOT do JPG v .NET pomocí GroupDocs.Conversion: Podrobný návod
 ## Zavedení
 Máte potíže s převody dokumentů ve vašich .NET aplikacích? Pokud je převod šablon dokumentů Microsoft Word (.dot) na obrázky častým úkolem, je tento tutoriál určen právě vám. Použijeme... **GroupDocs.Conversion pro .NET**, výkonná knihovna, která zefektivňuje úlohy převodu souborů.

@@ -3,8 +3,8 @@
 "title": "Tutorial sui formati e le funzionalità dei fogli di calcolo per GroupDocs.Conversion .NET"
 "url": "/it/net/spreadsheet-formats-features/"
 "weight": 11
+type: docs
 ---
-
 # Tutorial sui formati e le funzionalità dei fogli di calcolo per GroupDocs.Conversion .NET
 
 Scopri come gestire i fogli di calcolo con i nostri tutorial GroupDocs.Conversion .NET. Queste guide dettagliate illustrano come convertire tra formati Excel, CSV e altri tipi di fogli di calcolo, visualizzare o nascondere linee della griglia e commenti, ignorare righe e colonne vuote, specificare intervalli e indici dei fogli per la conversione, gestire fogli nascosti, mantenere formule e funzioni, mantenere la formattazione delle celle e controllare le catene di calcolo durante la conversione. Ogni tutorial include esempi di codice C# funzionante che mostrano come implementare una conversione accurata dei fogli di calcolo, preservando calcoli complessi ed elementi visivi.

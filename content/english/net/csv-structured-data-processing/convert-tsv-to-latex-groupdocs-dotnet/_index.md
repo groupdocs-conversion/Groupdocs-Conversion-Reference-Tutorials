@@ -8,10 +8,8 @@ keywords:
 - TSV to LaTeX conversion
 - GroupDocs.Conversion for .NET
 - file format conversion
-
+type: docs
 ---
-
-
 # How to Convert TSV Files to LaTeX Using GroupDocs.Conversion for .NET
 
 ## Introduction

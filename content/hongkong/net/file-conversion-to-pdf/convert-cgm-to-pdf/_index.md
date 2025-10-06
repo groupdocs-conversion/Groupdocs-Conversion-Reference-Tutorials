@@ -5,8 +5,8 @@
 "title": "將 CGM 向量圖形轉換為 PDF"
 "url": "/zh-hant/net/file-conversion-to-pdf/convert-cgm-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # 將 CGM 向量圖形轉換為 PDF
 
 ## 介紹

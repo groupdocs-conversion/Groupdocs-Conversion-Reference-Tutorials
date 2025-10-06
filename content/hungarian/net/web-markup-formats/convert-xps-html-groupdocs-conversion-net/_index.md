@@ -4,8 +4,8 @@
 "title": "XPS fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/web-markup-formats/convert-xps-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # XPS fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával: Teljes körű útmutató
 
 ## Bevezetés

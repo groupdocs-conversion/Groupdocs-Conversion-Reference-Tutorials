@@ -4,8 +4,8 @@
 "title": "Convertire SVGZ in LaTeX utilizzando GroupDocs.Conversion per .NET - Una guida completa"
 "url": "/it/net/text-markup-conversion/convert-svgz-to-latex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire i file SVGZ in formato LaTeX utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

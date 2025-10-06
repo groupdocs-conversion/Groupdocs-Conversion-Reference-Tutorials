@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion'ı Kullanarak Excel Şablonunu (.xltx) Word Belgesine (DOC) Dönüştürme"
 "url": "/tr/net/word-processing-formats-features/convert-xltx-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak Excel Şablonunu (.xltx) Word Belgesine (DOC) Dönüştürme
 ## giriiş
 Güçlü GroupDocs.Conversion for .NET kütüphanesini kullanarak bir Excel Şablonu (.xltx) dosyasını Word Belgesi (DOC) formatına dönüştürmeye yönelik bu kapsamlı kılavuza hoş geldiniz. Bu çözüm, veri açısından zengin şablonların metin tabanlı belgelerle sorunsuz bir şekilde bütünleştirilmesine olanak tanıyarak belge yönetimi iş akışlarında olmazsa olmazdır.

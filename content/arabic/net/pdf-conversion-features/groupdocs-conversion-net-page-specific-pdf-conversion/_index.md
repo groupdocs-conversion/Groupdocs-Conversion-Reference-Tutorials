@@ -4,8 +4,8 @@
 "title": "تحويل صفحات محددة إلى PDF باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/pdf-conversion-features/groupdocs-conversion-net-page-specific-pdf-conversion/"
 "weight": 1
+type: docs
 ---
-
 # تحويل صفحات محددة إلى PDF باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

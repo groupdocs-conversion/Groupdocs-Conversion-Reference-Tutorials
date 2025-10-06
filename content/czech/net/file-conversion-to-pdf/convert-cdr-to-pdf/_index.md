@@ -5,8 +5,8 @@
 "title": "Převod vektorové grafiky CDR do PDF"
 "url": "/cs/net/file-conversion-to-pdf/convert-cdr-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # Převod vektorové grafiky CDR do PDF
 
 ## Zavedení

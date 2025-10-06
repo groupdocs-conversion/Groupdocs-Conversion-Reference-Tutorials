@@ -4,8 +4,8 @@
 "title": "Panduan Langkah demi Langkah&#58; Memuat dan Mengonversi File STL Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/cad-technical-drawing-formats/step-by-step-guide-load-stl-files-net/"
 "weight": 1
+type: docs
 ---
-
 # Panduan Langkah demi Langkah: Memuat & Mengonversi File STL dengan .NET
 
 ## Perkenalan

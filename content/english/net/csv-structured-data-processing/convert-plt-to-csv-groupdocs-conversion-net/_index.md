@@ -8,10 +8,8 @@ keywords:
 - convert PLT to CSV
 - GroupDocs.Conversion .NET
 - file conversion tutorial
-
+type: docs
 ---
-
-
 # Convert PLT to CSV Efficiently with GroupDocs.Conversion for .NET
 
 ## Introduction

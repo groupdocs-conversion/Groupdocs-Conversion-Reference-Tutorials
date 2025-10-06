@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET&#58; चरण-दर-चरण मार्गदर्शिका का उपयोग करके ODS को PPT में परिवर्तित करें"
 "url": "/hi/net/presentation-conversion/convert-ods-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion का उपयोग करके ODS को PPT में कनवर्ट करें .NET: चरण-दर-चरण मार्गदर्शिका
 ## परिचय
 ओपन डॉक्यूमेंट स्प्रेडशीट (ODS) फ़ाइल को पावरपॉइंट प्रेजेंटेशन (PPT) फ़ॉर्मेट में बदलना तब ज़रूरी होता है जब आपको डेटा को विज़ुअली प्रस्तुत करना हो या मीटिंग के लिए अपनी स्प्रेडशीट तैयार करनी हो। यह गाइड आपको इस रूपांतरण को सुचारू रूप से करने के लिए GroupDocs.Conversion .NET का उपयोग करके मार्गदर्शन करेगी।

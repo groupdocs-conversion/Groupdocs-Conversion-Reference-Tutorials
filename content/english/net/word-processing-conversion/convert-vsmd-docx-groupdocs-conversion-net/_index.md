@@ -8,10 +8,8 @@ keywords:
 - VSDM to DOCX conversion
 - GroupDocs.Conversion for .NET
 - Visio file conversion
-
+type: docs
 ---
-
-
 # Convert VSDM to DOCX with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

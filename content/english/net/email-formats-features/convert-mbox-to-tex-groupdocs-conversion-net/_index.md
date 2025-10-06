@@ -8,10 +8,8 @@ keywords:
 - convert mbox to tex
 - groupdocs conversion for net
 - mbox email format
-
+type: docs
 ---
-
-
 # How to Convert MBOX to TEX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

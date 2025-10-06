@@ -5,8 +5,8 @@
 "title": "ODTをPDFに変換する"
 "url": "/ja/net/pdf-conversion/convert-odt-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # ODTをPDFに変換する
 
 ## 導入

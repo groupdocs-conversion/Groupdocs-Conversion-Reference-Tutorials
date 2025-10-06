@@ -8,10 +8,8 @@ keywords:
 - convert documents from streams in Java
 - GroupDocs.Conversion for Java
 - Java document conversion
-
+type: docs
 ---
-
-
 # Convert Documents from Streams in Java Using GroupDocs.Conversion
 
 ## Introduction

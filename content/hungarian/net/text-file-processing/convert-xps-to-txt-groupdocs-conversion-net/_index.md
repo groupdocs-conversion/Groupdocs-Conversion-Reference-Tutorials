@@ -4,8 +4,8 @@
 "title": "Átfogó útmutató az XPS TXT-vé konvertálásához a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/text-file-processing/convert-xps-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató: XPS konvertálása TXT-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET&#58;i Kullanarak VSTX'i DOC'a Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/word-processing-conversion/convert-vstx-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET Kullanarak VSTX Dosyalarını DOC Formatına Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

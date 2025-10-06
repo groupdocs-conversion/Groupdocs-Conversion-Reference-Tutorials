@@ -3,8 +3,8 @@
 "title": "Tutoriales sobre formatos y funciones de procesamiento de textos para GroupDocs.Conversion .NET"
 "url": "/es/net/word-processing-formats-features/"
 "weight": 10
+type: docs
 ---
-
 # Tutoriales sobre formatos y funciones de procesamiento de textos para GroupDocs.Conversion .NET
 
 Descubra cómo trabajar eficazmente con documentos de Word con nuestros completos tutoriales de GroupDocs.Conversion .NET. Estas guías paso a paso le enseñan a convertir entre diversos formatos de procesamiento de Word, ocultar comentarios y control de cambios durante la conversión, especificar opciones de sustitución de fuentes, conservar estilos y formato, mantener la estructura del documento, gestionar objetos incrustados y controlar el comportamiento del encabezado/pie de página. Cada tutorial proporciona ejemplos prácticos de código C# para la conversión de documentos de Word, lo que le ayuda a crear aplicaciones más eficientes que procesan documentos de texto con alta fidelidad y control de formato.

@@ -4,8 +4,8 @@
 "title": "Conversion efficace d'EPS en TXT dans .NET avec GroupDocs.Conversion"
 "url": "/fr/net/text-markup-conversion/master-eps-txt-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Conversion efficace d'EPS en TXT dans .NET avec GroupDocs.Conversion
 
 ## Introduction

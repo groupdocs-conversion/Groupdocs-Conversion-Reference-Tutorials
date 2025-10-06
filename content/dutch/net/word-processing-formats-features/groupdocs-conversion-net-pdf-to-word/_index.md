@@ -4,8 +4,8 @@
 "title": "PDF-pagina's naar Word converteren met GroupDocs.Conversion.NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/word-processing-formats-features/groupdocs-conversion-net-pdf-to-word/"
 "weight": 1
+type: docs
 ---
-
 # PDF-pagina's naar Word converteren met GroupDocs.Conversion .NET: een stapsgewijze handleiding
 
 ## Invoering

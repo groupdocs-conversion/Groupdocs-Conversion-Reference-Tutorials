@@ -4,8 +4,8 @@
 "title": "综合指南&#58;使用 GroupDocs.Conversion for .NET 将日志文件转换为 HTML"
 "url": "/zh/net/html-conversion/convert-log-files-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 综合指南：使用 GroupDocs.Conversion for .NET 将日志文件转换为 HTML
 
 ## 介绍

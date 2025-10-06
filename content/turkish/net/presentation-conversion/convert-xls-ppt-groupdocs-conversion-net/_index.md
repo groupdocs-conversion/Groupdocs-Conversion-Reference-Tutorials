@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET kullanarak XLS'yi PPT'ye verimli bir şekilde dönüştürün | Adım Adım Kılavuz"
 "url": "/tr/net/presentation-conversion/convert-xls-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET Kullanarak XLS'yi PPT'ye Verimli Şekilde Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

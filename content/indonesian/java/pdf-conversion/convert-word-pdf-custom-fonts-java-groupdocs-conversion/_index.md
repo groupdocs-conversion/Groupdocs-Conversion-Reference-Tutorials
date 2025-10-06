@@ -4,8 +4,8 @@
 "title": "Konversi Word ke PDF dengan Font Kustom di Java; Panduan Lengkap Menggunakan GroupDocs.Conversion"
 "url": "/id/java/pdf-conversion/convert-word-pdf-custom-fonts-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Konversi Dokumen Word ke PDF dengan Font Kustom di Java: Panduan Lengkap Menggunakan GroupDocs.Conversion
 
 ## Perkenalan

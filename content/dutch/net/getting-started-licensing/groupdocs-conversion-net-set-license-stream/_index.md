@@ -4,8 +4,8 @@
 "title": "Licentie instellen vanuit stream in GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/getting-started-licensing/groupdocs-conversion-net-set-license-stream/"
 "weight": 1
+type: docs
 ---
-
 # Licentie instellen vanuit stream in GroupDocs.Conversion voor .NET: een uitgebreide handleiding
 
 ## Invoering

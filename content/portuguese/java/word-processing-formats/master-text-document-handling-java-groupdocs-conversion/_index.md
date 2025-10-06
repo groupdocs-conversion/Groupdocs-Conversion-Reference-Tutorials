@@ -4,8 +4,8 @@
 "title": "Domine o manuseio de documentos de texto em Java usando GroupDocs.Conversion para codificação perfeita e conversão de PDF"
 "url": "/pt/java/word-processing-formats/master-text-document-handling-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Dominando o manuseio de documentos de texto em Java com GroupDocs.Conversion
 
 ## Introdução

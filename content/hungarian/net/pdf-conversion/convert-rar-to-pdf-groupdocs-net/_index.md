@@ -4,8 +4,8 @@
 "title": "RAR fájlok hatékony konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével – lépésről lépésre útmutató"
 "url": "/hu/net/pdf-conversion/convert-rar-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony konvertálás: RAR fájlok PDF-be konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

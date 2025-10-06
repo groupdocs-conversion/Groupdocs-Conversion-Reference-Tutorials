@@ -5,8 +5,8 @@
 "title": "Convertire i file EPS Encapsulated PostScript in PDF"
 "url": "/it/net/convert-files-to-pdf/convert-eps-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # Convertire i file EPS Encapsulated PostScript in PDF
 
 ## Introduzione

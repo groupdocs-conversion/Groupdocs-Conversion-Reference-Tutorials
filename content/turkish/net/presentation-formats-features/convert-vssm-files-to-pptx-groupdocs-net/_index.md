@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak VSSM'yi Zahmetsizce PPTX'e Dönüştürün | Eğitim"
 "url": "/tr/net/presentation-formats-features/convert-vssm-files-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak VSSM Dosyalarını Zahmetsizce PPTX'e Dönüştürün
 
 ## giriiş

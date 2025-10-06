@@ -4,8 +4,8 @@
 "title": "WMF fájlok hatékony PPTX formátumba konvertálása a GroupDocs.Conversion .NET API használatával"
 "url": "/hu/net/presentation-formats-features/convert-wmf-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # WMF hatékony PPTX formátumba konvertálása a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

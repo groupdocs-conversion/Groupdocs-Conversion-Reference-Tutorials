@@ -4,8 +4,8 @@
 "title": "MOBIをPPTXに変換する - GroupDocs.Conversion for .NETを使用したステップバイステップガイド"
 "url": "/ja/net/presentation-conversion/convert-mobi-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # MOBI を PPTX に変換する: GroupDocs.Conversion for .NET を使用したステップバイステップガイド
 
 ## 導入

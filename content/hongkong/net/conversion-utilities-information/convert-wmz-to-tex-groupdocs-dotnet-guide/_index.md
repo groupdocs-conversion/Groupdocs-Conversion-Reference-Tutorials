@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 WMZ 轉換為 TEX —— 逐步指南"
 "url": "/zh-hant/net/conversion-utilities-information/convert-wmz-to-tex-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 WMZ 轉換為 TEX：逐步指南
 
 ## 介紹

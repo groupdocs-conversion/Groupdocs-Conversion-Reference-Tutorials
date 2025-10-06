@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion for .NET
 - markdown to DOCX conversion
 - .NET document conversion
-
+type: docs
 ---
-
-
 # Convert Markdown to DOCX Using GroupDocs.Conversion for .NET
 
 ## Introduction

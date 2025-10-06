@@ -8,10 +8,8 @@ keywords:
 - convert JLS to DOCX
 - GroupDocs.Conversion for .NET
 - JLS file conversion
-
+type: docs
 ---
-
-
 # How to Convert JLS to DOCX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

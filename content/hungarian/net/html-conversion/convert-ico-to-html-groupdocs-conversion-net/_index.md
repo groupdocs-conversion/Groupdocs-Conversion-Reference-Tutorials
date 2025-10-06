@@ -4,8 +4,8 @@
 "title": "ICO HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/html-conversion/convert-ico-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # ICO fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

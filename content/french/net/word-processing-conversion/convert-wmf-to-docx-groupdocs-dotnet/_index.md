@@ -4,8 +4,8 @@
 "title": "Comment convertir un fichier WMF en DOCX avec GroupDocs.Conversion pour .NET – Guide complet"
 "url": "/fr/net/word-processing-conversion/convert-wmf-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir un fichier WMF en DOCX avec GroupDocs.Conversion pour .NET
 
 ## Introduction

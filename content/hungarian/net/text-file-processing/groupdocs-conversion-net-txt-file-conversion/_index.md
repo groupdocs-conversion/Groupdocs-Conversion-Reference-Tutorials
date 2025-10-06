@@ -4,8 +4,8 @@
 "title": "TXT fájlok konvertálása a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/text-file-processing/groupdocs-conversion-net-txt-file-conversion/"
 "weight": 1
+type: docs
 ---
-
 # TXT fájlok konvertálása a GroupDocs.Conversion for .NET segítségével: Átfogó útmutató
 
 ## Bevezetés

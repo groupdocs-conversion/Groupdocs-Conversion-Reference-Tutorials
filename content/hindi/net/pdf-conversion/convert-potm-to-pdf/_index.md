@@ -5,8 +5,8 @@
 "title": "POTM को PDF में बदलें"
 "url": "/hi/net/pdf-conversion/convert-potm-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # POTM को PDF में बदलें
 
 ## परिचय

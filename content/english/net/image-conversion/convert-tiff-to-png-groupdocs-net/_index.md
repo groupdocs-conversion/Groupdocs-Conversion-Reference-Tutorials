@@ -8,10 +8,8 @@ keywords:
 - TIFF to PNG Conversion
 - GroupDocs.Conversion for .NET
 - Image Format Conversion
-
+type: docs
 ---
-
-
 # How to Convert TIFF to PNG Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -5,8 +5,8 @@
 "title": "Converter páginas da Web HTML em PDF"
 "url": "/pt/net/convert-files-to-pdf/convert-html-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Converter páginas da Web HTML em PDF
 
 ## Introdução

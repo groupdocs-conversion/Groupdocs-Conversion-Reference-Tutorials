@@ -4,8 +4,8 @@
 "title": "Conversione efficiente da XML a TXT con GroupDocs.Conversion per .NET&#58; una guida passo passo"
 "url": "/it/net/text-markup-conversion/xml-to-txt-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Conversione efficiente da XML a TXT utilizzando GroupDocs.Conversion per .NET
 
 Nell'attuale contesto digitale in rapida evoluzione, la capacità di convertire in modo efficiente i formati dei documenti è fondamentale. Che abbiate bisogno di una semplice rappresentazione testuale dei vostri file XML o che stiate lavorando con sistemi legacy, convertire XML in TXT può semplificare numerose attività. Questa guida vi aiuterà a... **GroupDocs.Conversion per .NET** per trasformare senza soluzione di continuità un file XML nel formato TXT.

@@ -4,8 +4,8 @@
 "title": "Como converter arquivos IFC para JPG usando o GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/image-conversion/convert-ifc-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter arquivos IFC para JPG usando GroupDocs.Conversion para .NET
 
 ## Introdução

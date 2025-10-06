@@ -5,8 +5,8 @@
 "title": "Μετατροπή εικονιδίων ICO σε PDF"
 "url": "/el/net/convert-files-to-pdf/convert-ico-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Μετατροπή εικονιδίων ICO σε PDF
 
 ## Εισαγωγή

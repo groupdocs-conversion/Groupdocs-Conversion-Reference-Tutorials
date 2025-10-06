@@ -4,8 +4,8 @@
 "title": "Полное руководство по загрузке PSD-файлов в .NET с использованием GroupDocs.Conversion"
 "url": "/ru/net/loading-from-local-sources/guide-loading-psd-files-dotnet-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Полное руководство по загрузке PSD-файлов в .NET с использованием GroupDocs.Conversion
 
 ## Введение

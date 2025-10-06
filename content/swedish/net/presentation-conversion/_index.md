@@ -3,8 +3,8 @@
 "title": "Handledningar för presentationskonvertering för GroupDocs.Conversion .NET"
 "url": "/sv/net/presentation-conversion/"
 "weight": 31
+type: docs
 ---
-
 # Handledningar för presentationskonvertering för GroupDocs.Conversion .NET
 
 Våra handledningar för presentationskonvertering visar hur du omvandlar dokument till bildbaserade format med GroupDocs.Conversion i .NET. Dessa praktiska guider täcker konvertering från PDF, Word, Excel, bilder och andra format till PPT, PPTX, ODP med mera. Lär dig om att bevara visuella element, underhålla animationer där det är möjligt, hantera bildövergångar, generera talaranteckningar, hantera inbäddade medier och kontrollera bildlayouter under konvertering. Varje handledning innehåller detaljerade C#-kodexempel för att skapa presentationsdokument som effektivt representerar källinnehållet i ett format som är utformat för att presenteras för publik.

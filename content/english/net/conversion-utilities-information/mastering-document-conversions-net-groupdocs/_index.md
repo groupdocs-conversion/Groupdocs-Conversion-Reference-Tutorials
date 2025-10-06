@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion for .NET
 - document conversion .NET
 - convert documents .NET
-
+type: docs
 ---
-
-
 # Efficient Document Conversions in .NET Using GroupDocs.Conversion: A Comprehensive Guide
 
 ## Introduction

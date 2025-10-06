@@ -8,10 +8,8 @@ keywords:
 - ICO to PowerPoint conversion
 - GroupDocs.Conversion .NET
 - convert ICO files to PPT
-
+type: docs
 ---
-
-
 # How to Convert ICO Files to PowerPoint Presentations Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Automatizza la conversione da STL a LaTeX utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/text-markup-conversion/convert-stl-to-latex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Automatizza la conversione da STL a LaTeX utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

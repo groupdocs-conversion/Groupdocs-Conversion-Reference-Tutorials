@@ -4,8 +4,8 @@
 "title": "MPP konvertálása JPG-vé – Átfogó útmutató a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/convert-mpp-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MPP konvertálása JPG-vé: Lépésről lépésre útmutató a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

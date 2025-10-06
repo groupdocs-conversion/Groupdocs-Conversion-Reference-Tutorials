@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET を使用して MHT を TEX に変換する - 包括的なガイド"
 "url": "/ja/net/text-markup-conversion/convert-mht-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET を使用して MHT を TEX に変換する
 
 ## 導入

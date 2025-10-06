@@ -3,8 +3,8 @@
 "title": "Dokumentumok betöltése felhőalapú tárhelyről – oktatóanyagok a GroupDocs.Conversion .NET-hez"
 "url": "/hu/net/loading-from-cloud-storage/"
 "weight": 4
+type: docs
 ---
-
 # Dokumentumok betöltése felhőalapú tárhelyről – oktatóanyagok a GroupDocs.Conversion .NET-hez
 
 Felhőtárolási oktatóanyagaink bemutatják, hogyan integrálhatja a GroupDocs.Conversion alkalmazást a népszerű felhőtárolási platformokkal .NET alkalmazásokban. Ezek a részletes útmutatók végigvezetik az Amazon S3 tárolókhoz való csatlakozáson, az Azure Blob Storage-tárolók elérésén, a megfelelő hitelesítő adatok konfigurálásán, a régióspecifikus beállítások kezelésén, a kapcsolatkészletezés kezelésén és az újrapróbálkozási logika megvalósításán a felhőműveletekhez. Minden oktatóanyag gyakorlati C# kódpéldákat tartalmaz felhőalapú dokumentumok lekéréséhez, segítve a robusztus alkalmazások létrehozását, amelyek felhőalapú dokumentumtárakat használnak a konverziós munkafolyamatokban.

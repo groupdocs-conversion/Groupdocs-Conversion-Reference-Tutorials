@@ -4,8 +4,8 @@
 "title": "Převod Visia do Excelu pomocí GroupDocs.Conversion .NET – Podrobný návod"
 "url": "/cs/net/spreadsheet-conversion/convert-visio-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod Visia do Excelu pomocí GroupDocs.Conversion .NET: Podrobný návod
 
 ## Zavedení

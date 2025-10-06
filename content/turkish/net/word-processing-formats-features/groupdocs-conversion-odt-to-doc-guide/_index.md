@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET&#58;i Kullanarak ODT'yi DOC'a Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/word-processing-formats-features/groupdocs-conversion-odt-to-doc-guide/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET Kullanarak ODT'yi DOC'a Dönüştürme: Adım Adım Kılavuz
 
 Günümüzün hızlı dünyasında, belge biçimlerini verimli bir şekilde dönüştürme yeteneği hayati önem taşır. İster belgeleri işleyen bir yazılım üzerinde çalışan bir geliştirici olun, ister kusursuz veri entegrasyonu hedefleyen bir kuruluş olun, Açık Belge Metni (ODT) dosyalarını Microsoft Word Belgelerine (DOC) dönüştürmek doğru araçlar ve bilgiyle kolaylaştırılabilir.

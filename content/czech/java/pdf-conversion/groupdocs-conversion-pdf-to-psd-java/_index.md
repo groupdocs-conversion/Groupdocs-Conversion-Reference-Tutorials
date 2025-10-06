@@ -4,8 +4,8 @@
 "title": "Převod PDF do PSD pomocí GroupDocs.Conversion pro Javu – Komplexní průvodce"
 "url": "/cs/java/pdf-conversion/groupdocs-conversion-pdf-to-psd-java/"
 "weight": 1
+type: docs
 ---
-
 # Převod PDF do PSD pomocí GroupDocs.Conversion pro Javu
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "Comment charger un fichier XLTX à l'aide de GroupDocs.Conversion pour .NET - Un guide complet"
 "url": "/fr/net/loading-from-local-sources/load-xltx-file-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment charger un fichier XLTX avec GroupDocs.Conversion pour .NET : guide complet
 
 ## Introduction

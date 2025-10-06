@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion for Java
 - font substitution in Java
 - document conversion to PDF
-
+type: docs
 ---
-
-
 # Mastering Font Substitution with GroupDocs.Conversion for Java
 
 ## Introduction

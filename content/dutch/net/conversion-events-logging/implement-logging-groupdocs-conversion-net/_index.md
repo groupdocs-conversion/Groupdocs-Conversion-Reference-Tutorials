@@ -4,8 +4,8 @@
 "title": "Implementatie van logging in GroupDocs.Conversion voor .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/conversion-events-logging/implement-logging-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Het implementeren van logging van GroupDocs.Conversion-gebeurtenissen in .NET: een uitgebreide handleiding
 
 ## Invoering

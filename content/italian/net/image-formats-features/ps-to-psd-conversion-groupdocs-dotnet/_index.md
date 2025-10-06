@@ -4,8 +4,8 @@
 "title": "Conversione efficiente da PS a PSD utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/image-formats-features/ps-to-psd-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Conversione efficiente da PS a PSD utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

@@ -5,8 +5,8 @@
 "title": "Konvertera POT till PDF"
 "url": "/sv/net/pdf-conversion/convert-pot-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Konvertera POT till PDF
 
 ## Introduktion

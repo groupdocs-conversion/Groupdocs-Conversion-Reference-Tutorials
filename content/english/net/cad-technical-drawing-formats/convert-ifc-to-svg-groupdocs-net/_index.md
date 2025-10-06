@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # How to Convert IFC Files to SVG Using GroupDocs.Conversion for .NET - Step-by-Step Guide
 
 ## Introduction

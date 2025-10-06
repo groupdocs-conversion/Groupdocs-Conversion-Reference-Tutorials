@@ -4,8 +4,8 @@
 "title": "Comment charger et convertir des fichiers VSDX avec GroupDocs.Conversion .NET"
 "url": "/fr/net/presentation-formats-features/load-vsdx-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment charger et convertir des fichiers VSDX avec GroupDocs.Conversion .NET
 
 ## Introduction

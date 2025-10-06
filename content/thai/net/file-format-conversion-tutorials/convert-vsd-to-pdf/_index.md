@@ -5,8 +5,8 @@
 "title": "แปลง VSD เป็น PDF"
 "url": "/th/net/file-format-conversion-tutorials/convert-vsd-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # แปลง VSD เป็น PDF
 
 ## การแนะนำ

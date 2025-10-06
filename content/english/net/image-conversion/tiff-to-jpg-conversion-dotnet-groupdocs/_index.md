@@ -8,10 +8,8 @@ keywords:
 - TIFF to JPG conversion
 - .NET image conversion
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # Effortless TIFF to JPG Conversion with GroupDocs.Conversion for .NET
 
 ## Introduction

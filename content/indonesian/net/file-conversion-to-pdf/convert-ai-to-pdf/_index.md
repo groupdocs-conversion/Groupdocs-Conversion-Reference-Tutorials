@@ -5,8 +5,8 @@
 "title": "Konversi File AI ke PDF"
 "url": "/id/net/file-conversion-to-pdf/convert-ai-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # Konversi File AI ke PDF
 
 ## Perkenalan

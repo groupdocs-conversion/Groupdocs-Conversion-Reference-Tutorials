@@ -4,8 +4,8 @@
 "title": "RTF fájlok hatékony betöltése és konvertálása a GroupDocs.Conversion segítségével .NET-ben"
 "url": "/hu/net/word-processing-formats-features/load-convert-rtf-files-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # RTF fájlok hatékony betöltése és konvertálása a GroupDocs.Conversion segítségével .NET-ben
 
 ## Bevezetés

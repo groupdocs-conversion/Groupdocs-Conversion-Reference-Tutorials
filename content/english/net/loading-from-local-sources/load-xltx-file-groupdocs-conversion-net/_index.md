@@ -8,10 +8,8 @@ keywords:
 - load XLTX file
 - GroupDocs.Conversion .NET
 - file conversion tutorial
-
+type: docs
 ---
-
-
 # How to Load an XLTX File Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

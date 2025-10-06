@@ -8,10 +8,8 @@ keywords:
 - convert XLAM to PPT
 - GroupDocs.Conversion for .NET
 - Excel Add-In to PowerPoint
-
+type: docs
 ---
-
-
 # Convert XLAM to PPT Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

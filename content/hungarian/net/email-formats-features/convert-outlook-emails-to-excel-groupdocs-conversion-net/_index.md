@@ -4,8 +4,8 @@
 "title": "Outlook e-mailek hatékony konvertálása Excelbe a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/email-formats-features/convert-outlook-emails-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Könnyedén konvertálhat Microsoft Outlook e-maileket Excel-táblázatokká a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

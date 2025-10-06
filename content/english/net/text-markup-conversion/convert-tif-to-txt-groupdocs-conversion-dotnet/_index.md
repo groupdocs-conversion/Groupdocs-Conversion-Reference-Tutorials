@@ -8,10 +8,8 @@ keywords:
 - convert TIF to TXT
 - GroupDocs.Conversion for .NET
 - TIF file conversion
-
+type: docs
 ---
-
-
 # Step-by-Step Guide: Convert TIF to TXT Using GroupDocs.Conversion for .NET
 
 ## Introduction

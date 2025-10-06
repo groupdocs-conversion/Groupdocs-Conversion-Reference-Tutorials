@@ -8,10 +8,8 @@ keywords:
 - convert OST to PSD GroupDocs.Conversion for .NET
 - GroupDocs.Conversion library usage
 - OST file conversion in .NET
-
+type: docs
 ---
-
-
 # How to Convert OST Files to PSD Format Using GroupDocs.Conversion for .NET
 
 ## Introduction

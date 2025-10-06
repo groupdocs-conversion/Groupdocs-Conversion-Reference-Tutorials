@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert DGN to JPG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

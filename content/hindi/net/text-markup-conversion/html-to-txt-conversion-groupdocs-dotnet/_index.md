@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके HTML को TXT में परिवर्तित करें एक संपूर्ण गाइड"
 "url": "/hi/net/text-markup-conversion/html-to-txt-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके HTML को TXT में परिवर्तित करें
 
 ## परिचय

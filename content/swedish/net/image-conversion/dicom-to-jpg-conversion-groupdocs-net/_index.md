@@ -4,8 +4,8 @@
 "title": "Hur man konverterar DICOM till JPG i .NET med GroupDocs.Conversion"
 "url": "/sv/net/image-conversion/dicom-to-jpg-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar DICOM till JPG i .NET med GroupDocs.Conversion
 
 ## Introduktion

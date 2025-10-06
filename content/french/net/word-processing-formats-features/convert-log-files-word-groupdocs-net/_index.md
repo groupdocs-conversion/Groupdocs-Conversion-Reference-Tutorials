@@ -4,8 +4,8 @@
 "title": "Convertissez efficacement des fichiers journaux en documents Word à l'aide de GroupDocs.Conversion dans .NET"
 "url": "/fr/net/word-processing-formats-features/convert-log-files-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertissez efficacement des fichiers journaux en documents Word à l'aide de GroupDocs.Conversion dans .NET
 
 ## Introduction

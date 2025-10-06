@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 글꼴 대체를 통해 Word를 PDF로 변환"
 "url": "/ko/net/font-handling-substitution/convert-word-to-pdf-font-substitution-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 글꼴 대체를 통해 Word 문서를 PDF로 변환
 ## 소개
 Word 문서를 PDF로 변환하면 글꼴이 일관되지 않아 서식 문제가 발생하는 경우가 많습니다. 이 가이드에서는 GroupDocs.Conversion for .NET을 사용하여 글꼴 일관성을 유지하는 방법을 설명합니다. 글꼴 대체를 위한 로드 옵션을 설정하고 시각적 품질을 유지하면서 Word 문서를 PDF 형식으로 원활하게 변환하는 방법을 알아보세요.

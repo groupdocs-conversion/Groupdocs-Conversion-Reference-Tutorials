@@ -4,8 +4,8 @@
 "title": "Implementera OCR och konvertera bilder till PDF med Aspose och GroupDocs för .NET"
 "url": "/sv/net/image-formats-features/implement-ocr-conversion-images-pdf-net/"
 "weight": 1
+type: docs
 ---
-
 # Implementera OCR och konvertera bilder till PDF med Aspose och GroupDocs för .NET
 
 ## Introduktion

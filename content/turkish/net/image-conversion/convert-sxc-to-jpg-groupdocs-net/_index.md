@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak SXC'yi JPG'ye Dönüştürme&#58; Tam Bir Kılavuz"
 "url": "/tr/net/image-conversion/convert-sxc-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # SXC Dosyalarını GroupDocs.Conversion for .NET Kullanarak JPG'ye Dönüştürme
 
 ## giriiş

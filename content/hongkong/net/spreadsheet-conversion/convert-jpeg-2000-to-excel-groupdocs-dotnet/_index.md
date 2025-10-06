@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion 在 .NET 中將 JPEG 2000 轉換為 Excel"
 "url": "/zh-hant/net/spreadsheet-conversion/convert-jpeg-2000-to-excel-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將 JPEG 2000（J2K）檔案轉換為 Excel（.XLS）
 
 ## 介紹

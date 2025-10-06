@@ -5,8 +5,8 @@
 "title": "Konvertieren Sie MSG in PDF"
 "url": "/de/net/document-conversion/convert-msg-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # Konvertieren Sie MSG in PDF
 
 ## Einführung

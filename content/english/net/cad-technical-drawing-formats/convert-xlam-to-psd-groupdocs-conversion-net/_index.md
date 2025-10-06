@@ -8,10 +8,8 @@ keywords:
 - convert XLAM to PSD
 - GroupDocs.Conversion for .NET
 - document conversion in .NET
-
+type: docs
 ---
-
-
 # How to Convert XLAM Files to PSD Using GroupDocs.Conversion for .NET
 
 ## Introduction

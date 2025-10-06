@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak RAR'ı PDF'ye Verimli Şekilde Dönüştürün&#58; Adım Adım Kılavuz"
 "url": "/tr/net/pdf-conversion/convert-rar-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Verimli Dönüştürme: GroupDocs.Conversion for .NET Kullanarak RAR Dosyalarını PDF'ye Dönüştürme
 
 ## giriiş

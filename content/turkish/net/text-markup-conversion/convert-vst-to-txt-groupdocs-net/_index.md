@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanarak VST'yi TXT'ye Dönüştürme - Metin ve İşaretleme Dönüştürme Kılavuzu"
 "url": "/tr/net/text-markup-conversion/convert-vst-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion ile VST Dosyalarını TXT'ye Dönüştürün
 
 ## giriiş

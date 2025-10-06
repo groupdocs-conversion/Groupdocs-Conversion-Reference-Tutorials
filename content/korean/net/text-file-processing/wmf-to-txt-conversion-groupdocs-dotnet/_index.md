@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 WMF를 TXT로 변환하는 완벽한 가이드"
 "url": "/ko/net/text-file-processing/wmf-to-txt-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 WMF를 TXT로 변환: 완전한 가이드
 
 ## 소개

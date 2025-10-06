@@ -4,8 +4,8 @@
 "title": "PowerPoint konvertálása Excelbe&#58; lépésről lépésre útmutató a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/spreadsheet-conversion/convert-powerpoint-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PowerPoint konvertálása Excelbe: Lépésről lépésre útmutató a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

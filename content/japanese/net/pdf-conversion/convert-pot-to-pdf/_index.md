@@ -5,8 +5,8 @@
 "title": "POTをPDFに変換する"
 "url": "/ja/net/pdf-conversion/convert-pot-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # POTをPDFに変換する
 
 ## 導入

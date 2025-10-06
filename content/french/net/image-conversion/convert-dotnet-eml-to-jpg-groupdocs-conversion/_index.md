@@ -4,8 +4,8 @@
 "title": "Convertir des fichiers .NET EML en JPG à l'aide du guide complet de GroupDocs"
 "url": "/fr/net/image-conversion/convert-dotnet-eml-to-jpg-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des fichiers .NET EML en JPG avec GroupDocs : guide complet
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - convert XLS to DOCX
 - GroupDocs.Conversion for .NET
 - automated file conversion
-
+type: docs
 ---
-
-
 # Convert XLS to DOCX Using GroupDocs.Conversion for .NET: Step-by-Step Guide
 
 ## Introduction

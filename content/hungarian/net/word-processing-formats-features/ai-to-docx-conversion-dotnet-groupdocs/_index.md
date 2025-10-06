@@ -4,8 +4,8 @@
 "title": "Hatékony mesterséges intelligencia általi DOCX konvertálás .NET-ben a GroupDocs.Conversion használatával"
 "url": "/hu/net/word-processing-formats-features/ai-to-docx-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony mesterséges intelligencia általi DOCX konvertálás .NET-ben a GroupDocs.Conversion használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "OST fájlok konvertálása PSD formátumba a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/storage-files-pst-processing/convert-ost-psd-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # OST fájlok konvertálása PSD formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

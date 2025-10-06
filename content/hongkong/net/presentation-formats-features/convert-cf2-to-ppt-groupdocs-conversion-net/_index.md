@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 CF2 轉換為 PPT 完整指南"
 "url": "/zh-hant/net/presentation-formats-features/convert-cf2-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 CF2 文件轉換為 PowerPoint 簡報
 
 ## 介紹

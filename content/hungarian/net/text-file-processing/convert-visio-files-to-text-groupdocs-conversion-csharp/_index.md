@@ -4,8 +4,8 @@
 "title": "Visio VSD szöveggé konvertálása C#-ban a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/text-file-processing/convert-visio-files-to-text-groupdocs-conversion-csharp/"
 "weight": 1
+type: docs
 ---
-
 # Visio VSD fájlok szöveggé konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

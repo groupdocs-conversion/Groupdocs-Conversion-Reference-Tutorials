@@ -4,8 +4,8 @@
 "title": "Efektivní převod PDF do JPG pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/image-conversion/convert-pdfs-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod PDF do JPG pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

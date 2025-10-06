@@ -5,8 +5,8 @@
 "title": "DNG képek konvertálása PDF-be"
 "url": "/hu/net/file-conversion-to-pdf/convert-dng-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # DNG képek konvertálása PDF-be
 
 ## Bevezetés

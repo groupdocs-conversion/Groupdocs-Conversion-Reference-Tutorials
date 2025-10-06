@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion के साथ आउटपुट निर्देशिका पथ कैसे सेट करें"
 "url": "/hi/net/document-output-saving/groupdocs-conversion-setup-output-directory-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके आउटपुट निर्देशिका पथ कैसे सेट करें
 
 ## परिचय

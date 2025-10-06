@@ -8,10 +8,8 @@ keywords:
 - convert WMZ to DOC
 - GroupDocs.Conversion for .NET
 - file format conversion
-
+type: docs
 ---
-
-
 # Convert WMZ to DOC using GroupDocs.Conversion for .NET
 
 ## Introduction

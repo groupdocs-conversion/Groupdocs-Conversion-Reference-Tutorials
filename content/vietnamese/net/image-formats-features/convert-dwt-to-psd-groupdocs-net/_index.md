@@ -4,8 +4,8 @@
 "title": "Chuyển đổi DWT sang PSD trong .NET bằng cách sử dụng GroupDocs.Conversion Library&#58; Hướng dẫn từng bước"
 "url": "/vi/net/image-formats-features/convert-dwt-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi DWT sang PSD trong .NET bằng GroupDocs.Conversion Library: Hướng dẫn từng bước
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "Triển khai OCR & Chuyển đổi hình ảnh sang PDF bằng Aspose và GroupDocs cho .NET"
 "url": "/vi/net/image-formats-features/implement-ocr-conversion-images-pdf-net/"
 "weight": 1
+type: docs
 ---
-
 # Triển khai OCR & Chuyển đổi hình ảnh sang PDF bằng Aspose và GroupDocs cho .NET
 
 ## Giới thiệu

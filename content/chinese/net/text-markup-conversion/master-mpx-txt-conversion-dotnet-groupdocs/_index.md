@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs 掌握 .NET 中 MPX 到 TXT 的转换"
 "url": "/zh/net/text-markup-conversion/master-mpx-txt-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 掌握 .NET 中的 MPX 到 TXT 转换
 
 ## 介绍

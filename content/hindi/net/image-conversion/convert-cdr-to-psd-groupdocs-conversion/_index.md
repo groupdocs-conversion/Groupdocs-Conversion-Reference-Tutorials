@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके CDR को PSD&#58; निर्बाध छवि रूपांतरण में परिवर्तित करें"
 "url": "/hi/net/image-conversion/convert-cdr-to-psd-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # CDR को PSD में रूपांतरित करें: .NET के लिए GroupDocs.Conversion का उपयोग करके निर्बाध छवि रूपांतरण
 
 ## परिचय

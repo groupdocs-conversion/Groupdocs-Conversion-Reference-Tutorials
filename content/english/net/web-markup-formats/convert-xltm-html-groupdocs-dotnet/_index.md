@@ -8,10 +8,8 @@ keywords:
 - convert XLTM to HTML
 - GroupDocs.Conversion for .NET
 - file conversion guide
-
+type: docs
 ---
-
-
 # Convert XLTM to HTML Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

@@ -8,9 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
 # Efficient Document Path Management in .NET with GroupDocs.Conversion
 
 ## Introduction

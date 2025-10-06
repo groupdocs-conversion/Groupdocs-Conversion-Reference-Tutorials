@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET kullanarak PowerPoint'i Excel'e Dönüştürmeye Yönelik Kapsamlı Kılavuz"
 "url": "/tr/net/presentation-conversion/powerpoint-to-excel-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET kullanarak PowerPoint'i Excel'e Dönüştürmeye Yönelik Kapsamlı Kılavuz
 
 ## giriiş

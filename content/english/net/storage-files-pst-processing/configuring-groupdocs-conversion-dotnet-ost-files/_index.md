@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion .NET OST Files
 - Configuring GroupDocs.Conversion for OST Handling
 - Convert OST files with GroupDocs
-
+type: docs
 ---
-
-
 # Comprehensive Tutorial: Configuring GroupDocs.Conversion .NET for OST File Handling
 
 ## Introduction

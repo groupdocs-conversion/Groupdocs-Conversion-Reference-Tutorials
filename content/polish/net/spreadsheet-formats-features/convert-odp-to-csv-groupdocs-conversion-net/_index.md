@@ -4,8 +4,8 @@
 "title": "Jak przekonwertować ODP na CSV za pomocą GroupDocs.Conversion .NET&#58; Przewodnik krok po kroku"
 "url": "/pl/net/spreadsheet-formats-features/convert-odp-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak przekonwertować ODP na CSV za pomocą GroupDocs.Conversion .NET
 
 ## Wstęp

@@ -4,8 +4,8 @@
 "title": "Hogyan lehet PPSM-et XLS-sé konvertálni .NET-ben a GroupDocs.Conversion Library használatával"
 "url": "/hu/net/spreadsheet-formats-features/convert-ppsm-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhat PPSM fájlokat XLS formátumba a GroupDocs.Conversion for .NET használatával?
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "PNG DOCX formátumba konvertálása a GroupDocs.Conversion .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/word-processing-conversion/convert-png-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhatunk PNG-t DOCX-be a GroupDocs.Conversion .NET használatával
 
 A mai digitális korban a fájlok egyik formátumból a másikba konvertálása gyakori feladat. Akár dokumentumokat készít elő prezentációra, akár képeket archivál szöveges formátumban, a PNG fájlok zökkenőmentes DOCX formátumba konvertálása időt és energiát takaríthat meg. Ez az útmutató bemutatja, hogyan használhatja hatékonyan a nagy teljesítményű GroupDocs.Conversion .NET könyvtárat.

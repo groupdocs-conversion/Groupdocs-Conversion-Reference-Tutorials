@@ -5,8 +5,8 @@
 "title": ".NET için GroupDocs.Conversion'ın Kapsamlı Eğitimleri"
 "url": "/tr/net/"
 "weight": 10
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ın Kapsamlı Eğitimleri
 
 

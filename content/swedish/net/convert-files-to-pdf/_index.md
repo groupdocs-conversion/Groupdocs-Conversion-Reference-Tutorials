@@ -5,8 +5,8 @@
 "title": "Konvertera filer till PDF"
 "url": "/sv/net/convert-files-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Konvertera filer till PDF
 
 ## Introduktion

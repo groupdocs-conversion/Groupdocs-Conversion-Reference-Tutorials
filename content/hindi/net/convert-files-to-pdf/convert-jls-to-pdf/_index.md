@@ -5,8 +5,8 @@
 "title": "JPEG-LS (.JLS) फ़ाइलों को PDF में बदलें"
 "url": "/hi/net/convert-files-to-pdf/convert-jls-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # JPEG-LS (.JLS) फ़ाइलों को PDF में बदलें
 
 ## परिचय

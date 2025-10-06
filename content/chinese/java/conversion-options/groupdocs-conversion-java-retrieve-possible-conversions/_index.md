@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for Java&#58; 如何检索所有可能的转换"
 "url": "/zh/java/conversion-options/groupdocs-conversion-java-retrieve-possible-conversions/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for Java 检索所有可能转换的综合指南
 
 ## 介绍

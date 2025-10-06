@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके LaTeX को CSV में कुशलतापूर्वक परिवर्तित करें एक व्यापक गाइड"
 "url": "/hi/net/csv-structured-data-processing/convert-latex-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके LaTeX फ़ाइलों को CSV में कैसे परिवर्तित करें: एक व्यापक मार्गदर्शिका
 
 ## परिचय

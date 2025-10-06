@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak PCL Dosyalarını DOC'a Nasıl Dönüştürebilirsiniz? Adım Adım Kılavuz"
 "url": "/tr/net/word-processing-formats-features/convert-pcl-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak PCL Dosyaları DOC'a Nasıl Dönüştürülür: Adım Adım Kılavuz
 
 ## giriiş

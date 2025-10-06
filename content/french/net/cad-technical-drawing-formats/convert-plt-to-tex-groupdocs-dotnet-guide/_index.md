@@ -4,8 +4,8 @@
 "title": "Convertir PLT en TEX avec GroupDocs.Conversion pour .NET - Guide étape par étape"
 "url": "/fr/net/cad-technical-drawing-formats/convert-plt-to-tex-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # Convertir PLT en TEX avec GroupDocs.Conversion pour .NET : Guide complet
 
 ## Introduction

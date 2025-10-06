@@ -4,8 +4,8 @@
 "title": "Конвертируйте ICO в XLSX с помощью GroupDocs.Conversion для .NET. Подробное руководство"
 "url": "/ru/net/spreadsheet-formats-features/convert-ico-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте ICO в XLSX с помощью GroupDocs.Conversion для .NET
 
 ## Введение

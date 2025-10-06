@@ -6,8 +6,8 @@
 "title": "主文檔轉換 - GroupDocs.Conversion 教學與指南"
 "url": "/zh-hant/"
 "weight": 11
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 轉換任何文件格式
 
 歡迎來到您精通文件轉換的完整資源庫！我們全面的教程將為開發人員提供在 .NET 和 Java 應用程式中實現強大文件轉換功能所需的一切。無論您是轉換業務關鍵型 PDF、操作 Office 文檔，還是處理特殊格式，GroupDocs.Conversion 都能提供簡化工作流程的工具。

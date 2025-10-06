@@ -4,8 +4,8 @@
 "title": "Chuyển đổi PNG sang DOC bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/word-processing-conversion/convert-png-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi PNG sang DOC bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

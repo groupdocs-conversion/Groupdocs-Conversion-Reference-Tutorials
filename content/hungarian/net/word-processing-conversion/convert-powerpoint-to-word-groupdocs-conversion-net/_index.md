@@ -4,8 +4,8 @@
 "title": "PowerPoint hatékony konvertálása Worddé a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/word-processing-conversion/convert-powerpoint-to-word-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PowerPoint hatékony konvertálása Worddé a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

@@ -5,8 +5,8 @@
 "title": "将 DOTM Word 模板（宏）转换为 PDF"
 "url": "/zh/net/file-conversion-to-pdf/convert-dotm-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # 将 DOTM Word 模板（宏）转换为 PDF
 
 ## 介绍

@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή VCF σε Word χρησιμοποιώντας το GroupDocs.Conversion σε .NET"
 "url": "/el/net/word-processing-formats-features/convert-vcf-word-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική μετατροπή αρχείων VCF σε έγγραφα Word χρησιμοποιώντας το GroupDocs.Conversion σε .NET
 
 ## Εισαγωγή

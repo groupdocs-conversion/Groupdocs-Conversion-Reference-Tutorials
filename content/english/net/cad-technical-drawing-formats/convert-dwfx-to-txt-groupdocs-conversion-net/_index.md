@@ -8,10 +8,8 @@ keywords:
 - convert DWFX to TXT
 - GroupDocs.Conversion for .NET
 - automate document conversion
-
+type: docs
 ---
-
-
 # Convert DWFX Files to TXT Using GroupDocs.Conversion for .NET
 
 ## Introduction

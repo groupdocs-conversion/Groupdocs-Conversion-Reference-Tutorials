@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie Word mit benutzerdefinierten Schriftarten in Java in PDF – Eine vollständige Anleitung mit GroupDocs.Conversion"
 "url": "/de/java/pdf-conversion/convert-word-pdf-custom-fonts-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie Word-Dokumente mit benutzerdefinierten Schriftarten in Java in PDF: Eine vollständige Anleitung mit GroupDocs.Conversion
 
 ## Einführung

@@ -4,8 +4,8 @@
 "title": "XLS fájlok hatékony SVG formátumba konvertálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/image-conversion/convert-xls-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # XLS fájlok hatékony SVG-vé konvertálása a .NET-hez készült GroupDocs.Conversion segítségével
 
 ## Bevezetés

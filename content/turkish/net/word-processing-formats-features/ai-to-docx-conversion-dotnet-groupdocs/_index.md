@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Kullanarak .NET'te Verimli AI'dan DOCX'e Dönüştürme"
 "url": "/tr/net/word-processing-formats-features/ai-to-docx-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Kullanarak .NET'te Verimli AI'dan DOCX'e Dönüştürme
 
 ## giriiş

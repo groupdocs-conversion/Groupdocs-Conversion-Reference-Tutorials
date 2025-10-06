@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanarak TXT'yi SVG'ye Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/image-conversion/convert-txt-to-svg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak Metin Dosyaları SVG'ye Nasıl Dönüştürülür: Kapsamlı Bir Kılavuz
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 将 XLT 文件转换为 JPG"
 "url": "/zh/net/image-conversion/convert-xlt-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 将 XLT 文件转换为 JPG
 
 在当今的数字化工作空间中，高效的文件格式转换对于跨平台管理和共享数据至关重要。本教程将指导您使用 GroupDocs.Conversion for .NET 将 Excel 模板 (XLT) 文件转换为 JPG 图像，从而提高可访问性和分发效率。

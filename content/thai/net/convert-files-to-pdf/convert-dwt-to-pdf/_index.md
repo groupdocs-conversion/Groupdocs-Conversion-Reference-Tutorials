@@ -5,8 +5,8 @@
 "title": "แปลงไฟล์เทมเพลต CAD DWT เป็น PDF"
 "url": "/th/net/convert-files-to-pdf/convert-dwt-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # แปลงไฟล์เทมเพลต CAD DWT เป็น PDF
 
 ## การแนะนำ

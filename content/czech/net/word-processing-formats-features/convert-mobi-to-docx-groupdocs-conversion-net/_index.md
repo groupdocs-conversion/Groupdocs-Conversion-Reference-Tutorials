@@ -4,8 +4,8 @@
 "title": "Efektivní převod MOBI do DOCX s GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/word-processing-formats-features/convert-mobi-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod MOBI do DOCX pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

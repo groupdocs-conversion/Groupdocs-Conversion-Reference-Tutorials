@@ -4,8 +4,8 @@
 "title": "DWG-bestanden naar HTML converteren met GroupDocs.Conversion voor .NET | CAD- en technische tekenformaten"
 "url": "/nl/net/cad-technical-drawing-formats/convert-dwg-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DWG-bestanden naar HTML converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak CSV'yi JPG'ye Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/image-conversion/convert-csv-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak CSV'yi JPG'ye Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

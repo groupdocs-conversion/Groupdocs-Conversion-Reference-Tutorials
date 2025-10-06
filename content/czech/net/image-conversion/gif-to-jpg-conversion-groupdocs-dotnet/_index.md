@@ -4,8 +4,8 @@
 "title": "Převod GIFů do JPG bez námahy – průvodce GroupDocs.Conversion pro .NET"
 "url": "/cs/net/image-conversion/gif-to-jpg-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Bezproblémový převod GIFů do JPG: Průvodce GroupDocs.Conversion pro .NET
 
 ## Zavedení

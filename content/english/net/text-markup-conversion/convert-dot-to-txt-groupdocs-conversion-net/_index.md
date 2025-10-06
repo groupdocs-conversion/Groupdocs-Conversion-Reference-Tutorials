@@ -8,10 +8,8 @@ keywords:
 - convert DOT to TXT
 - GroupDocs.Conversion for .NET
 - document conversion in .NET
-
+type: docs
 ---
-
-
 # How to Convert DOT Files to TXT Using GroupDocs.Conversion for .NET
 
 ## Introduction

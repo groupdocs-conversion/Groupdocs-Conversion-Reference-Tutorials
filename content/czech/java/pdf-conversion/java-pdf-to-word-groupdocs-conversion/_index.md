@@ -4,8 +4,8 @@
 "title": "Převod PDF do Wordu v Javě pomocí GroupDocs – Komplexní průvodce"
 "url": "/cs/java/pdf-conversion/java-pdf-to-word-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Převod PDF do Wordu v Javě pomocí GroupDocs: Komplexní průvodce
 
 ## Zavedení

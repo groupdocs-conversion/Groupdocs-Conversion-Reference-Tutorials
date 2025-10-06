@@ -5,8 +5,8 @@
 "title": "XLSB को PDF में बदलें"
 "url": "/hi/net/converting-file-types-to-pdf/convert-xlsb-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # XLSB को PDF में बदलें
 
 ## परिचय

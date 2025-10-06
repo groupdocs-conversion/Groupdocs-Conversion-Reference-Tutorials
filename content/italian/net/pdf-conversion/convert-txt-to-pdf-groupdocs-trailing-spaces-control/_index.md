@@ -4,8 +4,8 @@
 "title": "Converti TXT in PDF con GroupDocs - Controlla gli spazi finali utilizzando .NET"
 "url": "/it/net/pdf-conversion/convert-txt-to-pdf-groupdocs-trailing-spaces-control/"
 "weight": 1
+type: docs
 ---
-
 # Converti TXT in PDF con GroupDocs: controlla gli spazi finali usando .NET
 
 ## Introduzione

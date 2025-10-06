@@ -5,8 +5,8 @@
 "title": "แปลง XLSM เป็น PDF"
 "url": "/th/net/converting-file-types-to-pdf/convert-xlsm-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # แปลง XLSM เป็น PDF
 
 ## การแนะนำ

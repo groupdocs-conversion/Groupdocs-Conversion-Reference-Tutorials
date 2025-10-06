@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET でのログ記録の実装 - ステップバイステップガイド"
 "url": "/ja/net/conversion-events-logging/implement-logging-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET で GroupDocs.Conversion イベントのログ記録を実装する方法: 包括的なガイド
 
 ## 導入

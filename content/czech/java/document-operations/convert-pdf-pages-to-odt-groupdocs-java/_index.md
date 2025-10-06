@@ -4,8 +4,8 @@
 "title": "Převod PDF do ODT pomocí GroupDocs.Conversion pro Javu – Komplexní průvodce"
 "url": "/cs/java/document-operations/convert-pdf-pages-to-odt-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Převod PDF stránek do ODT pomocí GroupDocs.Conversion v Javě
 
 ## Zavedení

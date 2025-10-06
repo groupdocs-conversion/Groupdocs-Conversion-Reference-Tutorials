@@ -4,8 +4,8 @@
 "title": "CDR-bestanden converteren naar PowerPoint met GroupDocs.Conversion voor .NET (ultieme handleiding)"
 "url": "/nl/net/presentation-formats-features/convert-cdr-to-powerpoint-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # CDR-bestanden converteren naar PowerPoint met GroupDocs.Conversion voor .NET
 
 ## Invoering

@@ -4,8 +4,8 @@
 "title": "EPS fájlok XLSX formátumba konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-eps-to-xlsx-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # EPS fájlok XLSX formátumba konvertálása a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

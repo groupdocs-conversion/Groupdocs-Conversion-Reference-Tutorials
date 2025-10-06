@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak PowerPoint Şablonlarını Verimli Şekilde Metne Dönüştürün"
 "url": "/tr/net/text-markup-conversion/convert-powerpoint-to-text-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak PowerPoint Şablonları Metne Nasıl Dönüştürülür
 
 ## giriiş

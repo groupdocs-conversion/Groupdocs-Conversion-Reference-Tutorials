@@ -5,8 +5,8 @@
 "title": "Converter modelos DOT do Word em PDF"
 "url": "/pt/net/file-conversion-to-pdf/convert-dot-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # Converter modelos DOT do Word em PDF
 
 ## Introdução

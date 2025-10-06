@@ -4,8 +4,8 @@
 "title": "การแปลงไฟล์หลักและแปลง VST เป็น PPT โดยใช้ไลบรารี GroupDocs.Conversion .NET"
 "url": "/th/net/presentation-conversion/convert-vst-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # การแปลงไฟล์หลัก: แปลง VST เป็น PPT โดยใช้ไลบรารี GroupDocs.Conversion .NET
 
 ## การแนะนำ

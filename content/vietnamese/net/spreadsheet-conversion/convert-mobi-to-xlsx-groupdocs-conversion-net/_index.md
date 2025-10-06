@@ -4,8 +4,8 @@
 "title": "Chuyển đổi MOBI sang XLSX bằng GroupDocs.Conversion cho .NET - Hướng dẫn toàn diện"
 "url": "/vi/net/spreadsheet-conversion/convert-mobi-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp MOBI sang XLSX bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

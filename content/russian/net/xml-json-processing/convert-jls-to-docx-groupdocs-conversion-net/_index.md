@@ -4,8 +4,8 @@
 "title": "Как преобразовать JLS в DOCX с помощью GroupDocs.Conversion для .NET? Пошаговое руководство"
 "url": "/ru/net/xml-json-processing/convert-jls-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Как конвертировать JLS в DOCX с помощью GroupDocs.Conversion для .NET: пошаговое руководство
 
 ## Введение

@@ -4,8 +4,8 @@
 "title": "Hur man konverterar JPG till PNG i .NET med hjälp av GroupDocs.Conversion steg-för-steg-guide"
 "url": "/sv/net/image-conversion/convert-jpg-to-png-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar JPG till PNG i .NET med GroupDocs.Conversion: Steg-för-steg-guide
 
 I dagens digitala värld är konvertering av bildformat avgörande för utvecklare och alla som vill optimera medieresurser. Den här handledningen guidar dig genom att använda GroupDocs.Conversion för .NET för att effektivt konvertera JPG-filer till PNG-format.

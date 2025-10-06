@@ -4,8 +4,8 @@
 "title": "Panduan Lengkap Konversi EPUB ke PPT Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/presentation-conversion/groupdocs-epub-to-ppt-conversion-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Panduan Lengkap: Konversi EPUB ke PPT Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

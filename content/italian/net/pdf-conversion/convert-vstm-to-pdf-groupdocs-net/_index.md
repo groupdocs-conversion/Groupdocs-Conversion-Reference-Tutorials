@@ -4,8 +4,8 @@
 "title": "Convertire VSTM in PDF utilizzando GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/pdf-conversion/convert-vstm-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converti VSTM in PDF utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

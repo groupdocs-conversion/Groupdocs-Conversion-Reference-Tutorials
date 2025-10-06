@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak PSD'yi PowerPoint'e Nasıl Dönüştürebilirsiniz? Eksiksiz Bir Kılavuz"
 "url": "/tr/net/presentation-formats-features/convert-psd-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak PSD'nin PowerPoint'e Nasıl Dönüştürüleceği: Eksiksiz Bir Kılavuz
 
 ## giriiş

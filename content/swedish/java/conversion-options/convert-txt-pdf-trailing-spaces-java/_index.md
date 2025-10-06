@@ -4,8 +4,8 @@
 "title": "Hur man konverterar TXT till PDF med hjälp av avslutande mellanslagskontroll med hjälp av Java och GroupDocs.Conversion"
 "url": "/sv/java/conversion-options/convert-txt-pdf-trailing-spaces-java/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar TXT till PDF med hjälp av avslutande mellanslagskontroll med hjälp av Java och GroupDocs.Conversion
 
 I dagens digitala värld är det avgörande för både företag och privatpersoner att hantera textdokument effektivt. Att konvertera textfiler (TXT) till mångsidiga PDF-format samtidigt som formateringen bibehålls kan vara utmanande, särskilt när man har att göra med mellanslag som ofta stör layouten. Den här handledningen guidar dig genom att använda GroupDocs.Conversion för Java för att effektivt konvertera textfiler till PDF-filer och kontrollera mellanslag.

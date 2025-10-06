@@ -5,8 +5,8 @@
 "title": "EMZ拡張メタファイルをPDFに変換する"
 "url": "/ja/net/convert-files-to-pdf/convert-emz-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # EMZ拡張メタファイルをPDFに変換する
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "Как конвертировать файлы VSDM в JPG с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/image-conversion/convert-vsdm-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Как конвертировать файлы VSDM в JPG с помощью GroupDocs.Conversion для .NET
 
 ## Введение

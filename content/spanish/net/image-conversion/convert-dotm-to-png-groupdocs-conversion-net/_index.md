@@ -4,8 +4,8 @@
 "title": "Convertir plantillas de Word (.dotm) a PNG con GroupDocs.Conversion para .NET"
 "url": "/es/net/image-conversion/convert-dotm-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convierta plantillas de Word a imágenes PNG con GroupDocs.Conversion para .NET
 
 ## Introducción

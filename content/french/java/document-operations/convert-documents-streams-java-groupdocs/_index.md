@@ -4,8 +4,8 @@
 "title": "Convertir des documents à partir de flux en Java à l'aide de GroupDocs.Conversion"
 "url": "/fr/java/document-operations/convert-documents-streams-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des documents à partir de flux en Java à l'aide de GroupDocs.Conversion
 
 ## Introduction

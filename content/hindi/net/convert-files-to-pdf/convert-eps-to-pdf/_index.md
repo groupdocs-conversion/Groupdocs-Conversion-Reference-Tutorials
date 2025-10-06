@@ -5,8 +5,8 @@
 "title": "EPS एनकैप्सुलेटेड पोस्टस्क्रिप्ट फ़ाइलों को PDF में बदलें"
 "url": "/hi/net/convert-files-to-pdf/convert-eps-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # EPS एनकैप्सुलेटेड पोस्टस्क्रिप्ट फ़ाइलों को PDF में बदलें
 
 ## परिचय

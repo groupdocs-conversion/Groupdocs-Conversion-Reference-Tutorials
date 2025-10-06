@@ -4,8 +4,8 @@
 "title": "IGS egyszerű konvertálása Excelbe a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/spreadsheet-formats-features/convert-igs-files-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # IGS fájlok konvertálása Excelbe a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

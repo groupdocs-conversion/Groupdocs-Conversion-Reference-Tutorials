@@ -5,8 +5,8 @@
 "title": "VSS'yi PDF'ye dönüştür"
 "url": "/tr/net/converting-file-types-to-pdf/convert-vss-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # VSS'yi PDF'ye dönüştür
 
 ## giriiş

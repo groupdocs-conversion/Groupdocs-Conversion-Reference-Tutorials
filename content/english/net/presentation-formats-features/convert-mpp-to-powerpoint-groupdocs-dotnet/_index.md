@@ -8,10 +8,8 @@ keywords:
 - MPP to PowerPoint
 - convert MPP files to PPT
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # How to Efficiently Convert MPP to PowerPoint with GroupDocs.Conversion for .NET
 
 ## Introduction

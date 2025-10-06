@@ -8,10 +8,8 @@ keywords:
 - convert MSG to PNG
 - GroupDocs.Conversion for .NET
 - file conversion guide
-
+type: docs
 ---
-
-
 # Convert MSG to PNG with GroupDocs.Conversion for .NET: Step-by-Step Guide
 
 ## Introduction

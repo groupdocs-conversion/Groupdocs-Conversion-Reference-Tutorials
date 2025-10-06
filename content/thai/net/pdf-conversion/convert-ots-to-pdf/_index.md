@@ -5,8 +5,8 @@
 "title": "แปลง OTS เป็น PDF"
 "url": "/th/net/pdf-conversion/convert-ots-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # แปลง OTS เป็น PDF
 
 ## การแนะนำ

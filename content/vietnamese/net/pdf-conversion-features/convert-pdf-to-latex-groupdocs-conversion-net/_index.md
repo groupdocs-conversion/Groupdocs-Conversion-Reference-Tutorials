@@ -4,8 +4,8 @@
 "title": "Chuyển đổi PDF sang LaTeX với GroupDocs.Conversion cho .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/pdf-conversion-features/convert-pdf-to-latex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi PDF sang LaTeX với GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

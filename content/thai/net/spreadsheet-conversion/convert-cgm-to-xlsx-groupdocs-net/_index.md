@@ -4,8 +4,8 @@
 "title": "วิธีแปลงไฟล์ CGM เป็น XLSX โดยใช้ GroupDocs การแปลงสำหรับ .NET คำแนะนำที่ครอบคลุม"
 "url": "/th/net/spreadsheet-conversion/convert-cgm-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # วิธีแปลงไฟล์ CGM เป็น XLSX โดยใช้ GroupDocs การแปลงสำหรับ .NET: คู่มือฉบับสมบูรณ์
 
 ## การแนะนำ

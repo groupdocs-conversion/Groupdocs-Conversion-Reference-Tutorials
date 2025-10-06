@@ -8,10 +8,8 @@ keywords:
 - convert OTS to XLSX
 - GroupDocs.Conversion for .NET
 - OTS to XLSX conversion
-
+type: docs
 ---
-
-
 # How to Convert OTS Files to XLSX Using GroupDocs.Conversion for .NET
 
 ## Introduction

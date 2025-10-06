@@ -4,8 +4,8 @@
 "title": "ODT-fájlok CSV-fájlokká konvertálásának automatizálása a GroupDocs for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-formats-features/automate-odt-to-csv-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # ODT-ből CSV-vé konvertálás automatizálása a GroupDocs for .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Hur man konverterar XLSX till CSV med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/spreadsheet-formats-features/convert-xlsx-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar XLSX-filer till CSV med GroupDocs.Conversion för .NET
 
 ## Introduktion

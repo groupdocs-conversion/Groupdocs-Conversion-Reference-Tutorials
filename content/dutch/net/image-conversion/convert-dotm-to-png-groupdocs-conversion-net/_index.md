@@ -4,8 +4,8 @@
 "title": "Converteer Word-sjablonen (.dotm) naar PNG met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/image-conversion/convert-dotm-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer Word-sjablonen naar PNG-afbeeldingen met GroupDocs.Conversion voor .NET
 
 ## Invoering

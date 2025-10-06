@@ -8,10 +8,8 @@ keywords:
 - convert DCM to XLSX
 - GroupDocs.Conversion for .NET
 - DICOM to Excel conversion
-
+type: docs
 ---
-
-
 # Step-by-Step Guide to Convert DCM Files to XLSX Using GroupDocs.Conversion for .NET
 
 ## Introduction

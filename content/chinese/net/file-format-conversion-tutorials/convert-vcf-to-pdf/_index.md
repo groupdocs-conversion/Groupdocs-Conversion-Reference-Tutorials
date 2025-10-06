@@ -5,8 +5,8 @@
 "title": "将 VCF 转换为 PDF"
 "url": "/zh/net/file-format-conversion-tutorials/convert-vcf-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # 将 VCF 转换为 PDF
 
 ## 介绍

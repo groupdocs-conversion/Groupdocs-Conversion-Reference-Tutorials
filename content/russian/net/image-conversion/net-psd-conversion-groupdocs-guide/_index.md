@@ -4,8 +4,8 @@
 "title": "Преобразование Net PSD с помощью GroupDocs&#58; Полное руководство для разработчиков .NET"
 "url": "/ru/net/image-conversion/net-psd-conversion-groupdocs-guide/"
 "weight": 1
+type: docs
 ---
-
 # Преобразование Net PSD с помощью GroupDocs: полное руководство для разработчиков .NET
 
 ## Введение

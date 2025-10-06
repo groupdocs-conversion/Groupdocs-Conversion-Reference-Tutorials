@@ -4,8 +4,8 @@
 "title": "แปลง EMZ เป็น XLS ได้อย่างง่ายดายโดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/spreadsheet-conversion/convert-emz-to-xls-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # แปลง EMZ เป็น XLS ด้วย GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

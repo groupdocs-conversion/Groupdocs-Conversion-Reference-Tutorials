@@ -4,8 +4,8 @@
 "title": "แปลงเทมเพลต Excel (.xltx) เป็นเอกสาร Word (DOC) โดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/word-processing-formats-features/convert-xltx-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลงเทมเพลต Excel (.xltx) เป็นเอกสาร Word (DOC) โดยใช้ GroupDocs.Conversion สำหรับ .NET
 ## การแนะนำ
 ยินดีต้อนรับสู่คู่มือที่ครอบคลุมนี้เกี่ยวกับการแปลงไฟล์เทมเพลต Excel (.xltx) เป็นรูปแบบเอกสาร Word (DOC) โดยใช้ไลบรารี GroupDocs.Conversion สำหรับ .NET ที่มีประสิทธิภาพ โซลูชันนี้มีความจำเป็นในเวิร์กโฟลว์การจัดการเอกสาร ช่วยให้ผสานรวมเทมเพลตที่มีข้อมูลมากมายกับเอกสารแบบข้อความได้อย่างราบรื่น

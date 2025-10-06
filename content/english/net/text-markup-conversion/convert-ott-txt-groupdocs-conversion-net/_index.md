@@ -8,10 +8,8 @@ keywords:
 - convert OTT to TXT
 - GroupDocs.Conversion for .NET
 - C# file conversion
-
+type: docs
 ---
-
-
 # Convert OTT to TXT with GroupDocs.Conversion in C#
 
 ## How to Convert OTT Files to TXT Using GroupDocs.Conversion for .NET

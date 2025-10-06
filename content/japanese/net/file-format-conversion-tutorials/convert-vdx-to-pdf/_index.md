@@ -5,8 +5,8 @@
 "title": "VDXをPDFに変換する"
 "url": "/ja/net/file-format-conversion-tutorials/convert-vdx-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # VDXをPDFに変換する
 
 ## 導入

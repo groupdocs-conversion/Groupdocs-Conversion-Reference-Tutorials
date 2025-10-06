@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tệp CDR sang DOC bằng GroupDocs trong .NET - Đơn giản hóa quy trình làm việc của bạn"
 "url": "/vi/net/word-processing-conversion/convert-cdr-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp CDR sang DOC bằng GroupDocs trong .NET
 
 ## Giới thiệu

@@ -5,8 +5,8 @@
 "title": "Converteer MHT naar PDF"
 "url": "/nl/net/document-conversion/convert-mht-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # Converteer MHT naar PDF
 
 ## Invoering

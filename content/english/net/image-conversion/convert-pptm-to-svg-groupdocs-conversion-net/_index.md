@@ -8,10 +8,8 @@ keywords:
 - convert PPTM to SVG
 - GroupDocs.Conversion for .NET
 - SVG conversion tutorial
-
+type: docs
 ---
-
-
 # Convert PPTM to SVG Effortlessly with GroupDocs.Conversion for .NET
 
 ## Introduction

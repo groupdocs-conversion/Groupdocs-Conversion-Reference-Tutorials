@@ -5,8 +5,8 @@
 "title": "Konwertuj SVGZ do PDF"
 "url": "/pl/net/file-format-conversion-tutorials/convert-svgz-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # Konwertuj SVGZ do PDF
 
 ## Wstęp

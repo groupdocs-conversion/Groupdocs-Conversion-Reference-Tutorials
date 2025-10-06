@@ -4,8 +4,8 @@
 "title": "Hoe u een watermerk aan een DOCX-bestand toevoegt en naar een PDF-bestand converteert met GroupDocs.Conversion voor Java"
 "url": "/nl/java/watermarks-annotations/add-watermark-docx-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Een watermerk toevoegen aan uw document met GroupDocs.Conversion voor Java
 
 In de digitale wereld van vandaag is het cruciaal om uw documenten te beschermen tegen ongeautoriseerd gebruik. Of u nu gevoelige informatie deelt of uw documenten gewoon wilt voorzien van uw merk, het toevoegen van een watermerk kan een effectieve oplossing zijn. In deze tutorial begeleiden we u door het gebruik van **GroupDocs.Conversion voor Java** om een watermerk toe te voegen bij het converteren van een DOCX-bestand naar PDF.

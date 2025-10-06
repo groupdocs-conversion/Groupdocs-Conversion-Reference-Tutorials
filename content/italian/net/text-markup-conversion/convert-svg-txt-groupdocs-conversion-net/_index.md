@@ -4,8 +4,8 @@
 "title": "Converti in modo efficiente SVG in TXT utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/text-markup-conversion/convert-svg-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converti in modo efficiente SVG in TXT utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

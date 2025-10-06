@@ -5,8 +5,8 @@
 "title": "OTT'yi PDF'ye dönüştür"
 "url": "/tr/net/pdf-conversion/convert-ott-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # OTT'yi PDF'ye dönüştür
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie passwortgeschützte Word-Dokumente mit GroupDocs.Conversion für .NET in PDFs"
 "url": "/de/net/pdf-conversion/convert-password-protected-word-docs-to-pdf-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie passwortgeschützte Word-Dokumente mit GroupDocs.Conversion für .NET in PDFs
 
 ## Einführung

@@ -5,8 +5,8 @@
 "title": "Konvertera HTM-webbsidor till PDF"
 "url": "/sv/net/convert-files-to-pdf/convert-htm-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # Konvertera HTM-webbsidor till PDF
 
 ## Introduktion

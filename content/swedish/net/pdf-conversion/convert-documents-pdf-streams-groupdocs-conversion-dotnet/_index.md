@@ -4,8 +4,8 @@
 "title": "Konvertera dokument till PDF-strömmar med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/pdf-conversion/convert-documents-pdf-streams-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera dokument till PDF-strömmar med GroupDocs.Conversion för .NET: En omfattande guide
 
 ## Introduktion

@@ -4,8 +4,8 @@
 "title": "Как преобразовать файлы журналов в презентации PowerPoint с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/presentation-formats-features/convert-log-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Как преобразовать файлы журналов в презентации PowerPoint с помощью GroupDocs.Conversion для .NET
 
 ## Введение

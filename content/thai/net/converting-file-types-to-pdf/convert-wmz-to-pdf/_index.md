@@ -5,8 +5,8 @@
 "title": "แปลง WMZ เป็น PDF"
 "url": "/th/net/converting-file-types-to-pdf/convert-wmz-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # แปลง WMZ เป็น PDF
 
 ## การแนะนำ

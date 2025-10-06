@@ -8,10 +8,8 @@ keywords:
 - convert DOCM to PPTX
 - GroupDocs.Conversion for .NET
 - document conversion workflow
-
+type: docs
 ---
-
-
 # How to Convert DOCM to PPTX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

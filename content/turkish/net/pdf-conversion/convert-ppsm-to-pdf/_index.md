@@ -5,8 +5,8 @@
 "title": "PPSM'yi PDF'ye dönüştür"
 "url": "/tr/net/pdf-conversion/convert-ppsm-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # PPSM'yi PDF'ye dönüştür
 
 ## giriiş

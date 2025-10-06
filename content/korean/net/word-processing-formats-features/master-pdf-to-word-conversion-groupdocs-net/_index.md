@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용한 PDF-Word 변환 마스터 | 종합 가이드"
 "url": "/ko/net/word-processing-formats-features/master-pdf-to-word-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 PDF를 Word로 변환하는 방법 마스터하기
 
 ## 소개

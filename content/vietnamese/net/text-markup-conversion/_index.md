@@ -3,8 +3,8 @@
 "title": "Hướng dẫn chuyển đổi văn bản và đánh dấu cho GroupDocs.Conversion .NET"
 "url": "/vi/net/text-markup-conversion/"
 "weight": 32
+type: docs
 ---
-
 # Hướng dẫn chuyển đổi văn bản và đánh dấu cho GroupDocs.Conversion .NET
 
 Khám phá chuyển đổi định dạng dựa trên văn bản với hướng dẫn chi tiết của chúng tôi về GroupDocs.Conversion dành cho các nhà phát triển .NET. Các hướng dẫn từng bước này trình bày cách chuyển đổi từ định dạng tài liệu phong phú sang văn bản thuần túy, XML, Markdown, TeX và các định dạng dựa trên văn bản khác. Tìm hiểu về các tùy chọn mã hóa, kỹ thuật trích xuất văn bản, xử lý các ký tự đặc biệt, bảo toàn cấu trúc tài liệu, duy trì các mối quan hệ phân cấp trong các định dạng đánh dấu và triển khai các chính sách định dạng văn bản. Mỗi hướng dẫn đều bao gồm các ví dụ mã C# thực tế để tạo các biểu diễn văn bản của tài liệu của bạn, nắm bắt nội dung cần thiết ở các định dạng đơn giản, di động và dễ phân tích cú pháp.

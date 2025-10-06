@@ -4,8 +4,8 @@
 "title": ".NET에서 시간대 오프셋을 사용하여 EML을 PDF로 변환하기&#58; GroupDocs.Conversion을 사용한 포괄적인 가이드"
 "url": "/ko/net/email-formats-features/convert-eml-pdf-net-timezone-offset-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # .NET에서 시간대 오프셋을 사용하여 EML을 PDF로 변환: GroupDocs.Conversion을 사용한 포괄적인 가이드
 ## 소개
 정확한 시간대 정보를 유지하면서 이메일 문서(EML)를 PDF로 변환하는 안정적인 방법이 필요하신가요? 보관, 공유 또는 규정 준수를 위해 이 튜토리얼은 강력한 GroupDocs.Conversion for .NET 라이브러리를 사용하는 방법을 안내합니다. 시간대 오프셋과 같은 고급 기능을 쉽게 구현하는 방법도 배우게 됩니다.

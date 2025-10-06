@@ -4,8 +4,8 @@
 "title": "Chuyển đổi SXC sang XLS trong .NET bằng GroupDocs.Conversion"
 "url": "/vi/net/spreadsheet-conversion/convert-sxc-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi SXC sang XLS trong .NET bằng GroupDocs.Conversion
 
 ## Giới thiệu

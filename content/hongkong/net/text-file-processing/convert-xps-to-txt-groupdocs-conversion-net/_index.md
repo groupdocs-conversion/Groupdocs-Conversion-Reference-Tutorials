@@ -4,8 +4,8 @@
 "title": "綜合指南&#58;使用 GroupDocs.Conversion for .NET 將 XPS 轉換為 TXT"
 "url": "/zh-hant/net/text-file-processing/convert-xps-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 綜合指南：使用 GroupDocs.Conversion for .NET 將 XPS 轉換為 TXT
 
 ## 介紹

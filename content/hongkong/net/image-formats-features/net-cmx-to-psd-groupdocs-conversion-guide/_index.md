@@ -4,8 +4,8 @@
 "title": "如何使用 .NET 和 GroupDocs.Conversion 將 CMX 轉換為 PSD——綜合指南"
 "url": "/zh-hant/net/image-formats-features/net-cmx-to-psd-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 .NET 和 GroupDocs.Conversion 將 CMX 轉換為 PSD：綜合指南
 
 ## 介紹

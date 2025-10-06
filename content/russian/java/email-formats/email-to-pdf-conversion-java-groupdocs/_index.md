@@ -4,8 +4,8 @@
 "title": "Как преобразовать электронную почту в PDF со смещением часового пояса в Java с помощью GroupDocs.Conversion"
 "url": "/ru/java/email-formats/email-to-pdf-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Как преобразовать электронную почту в PDF со смещением часового пояса в Java с помощью GroupDocs.Conversion
 
 ## Введение

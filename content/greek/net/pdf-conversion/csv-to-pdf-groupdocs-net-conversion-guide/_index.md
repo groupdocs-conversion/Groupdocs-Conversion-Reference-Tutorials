@@ -4,8 +4,8 @@
 "title": "Πλήρης οδηγός για τη μετατροπή CSV σε PDF χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/pdf-conversion/csv-to-pdf-groupdocs-net-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Πλήρης οδηγός: Μετατροπή CSV σε PDF χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

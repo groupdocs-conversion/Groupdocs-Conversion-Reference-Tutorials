@@ -4,8 +4,8 @@
 "title": "Převod e-mailů z Outlooku do dokumentů Photoshopu pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/image-formats-features/convert-outlook-emails-to-photoshop-documents/"
 "weight": 1
+type: docs
 ---
-
 # Převod e-mailů z Microsoft Outlooku do dokumentů Adobe Photoshopu pomocí nástroje GroupDocs.Conversion pro .NET
 
 ## Zavedení

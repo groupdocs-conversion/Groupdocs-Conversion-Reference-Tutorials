@@ -4,8 +4,8 @@
 "title": "Hogyan valósítsunk meg egyéni gyorsítótárat Java-ban a Redis és a GroupDocs.Conversion használatával?"
 "url": "/hu/java/cache-management/custom-cache-redis-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan valósítsunk meg egyéni gyorsítótárat Java-ban a Redis és a GroupDocs.Conversion használatával?
 
 ## Bevezetés

@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Learn how to convert ODG files to PDF effortlessly using GroupDocs.Conversion for .NET. Enhance your document management capabilities.
 weight: 27
 url: /net/document-conversion/convert-odg-to-pdf/
+type: docs
 ---
-
 # Convert ODG to PDF
 
 ## Introduction

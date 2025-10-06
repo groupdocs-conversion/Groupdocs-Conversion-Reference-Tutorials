@@ -4,8 +4,8 @@
 "title": "تحويل ملفات السجل إلى TEX باستخدام GroupDocs.Conversion لـ .NET - دليل خطوة بخطوة"
 "url": "/ar/net/text-markup-conversion/convert-log-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحميل ملفات السجل وتحويلها باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

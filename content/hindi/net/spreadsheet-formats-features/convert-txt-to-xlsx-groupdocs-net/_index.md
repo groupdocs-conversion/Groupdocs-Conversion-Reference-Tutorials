@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके TXT फ़ाइलों को XLSX में कैसे परिवर्तित करें एक चरण-दर-चरण मार्गदर्शिका"
 "url": "/hi/net/spreadsheet-formats-features/convert-txt-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके TXT फ़ाइलों को XLSX में कनवर्ट करें: एक चरण-दर-चरण मार्गदर्शिका
 
 ## परिचय

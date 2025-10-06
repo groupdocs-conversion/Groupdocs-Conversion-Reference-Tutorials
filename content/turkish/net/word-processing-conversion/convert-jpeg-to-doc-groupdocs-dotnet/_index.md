@@ -4,8 +4,8 @@
 "title": "GroupDocs ile JPEG'i DOC'a Dönüştürme. .NET İçin Dönüşüm Kapsamlı Bir Kılavuz"
 "url": "/tr/net/word-processing-conversion/convert-jpeg-to-doc-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs ile JPEG'i DOC'a Dönüştürme. .NET için Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

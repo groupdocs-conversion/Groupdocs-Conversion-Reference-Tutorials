@@ -4,8 +4,8 @@
 "title": "JPM konvertálása TXT-vé C#-ban a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/text-markup-conversion/convert-jpm-to-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # JPM konvertálása TXT-vé C#-ban a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

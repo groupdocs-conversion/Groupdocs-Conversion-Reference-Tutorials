@@ -4,8 +4,8 @@
 "title": "VSSX konvertálása PSD-vé .NET-ben a GroupDocs.Conversion használatával – lépésről lépésre útmutató"
 "url": "/hu/net/loading-from-remote-sources/convert-vssx-to-psd-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # VSSX konvertálása PSD-vé .NET-ben a GroupDocs.Conversion használatával: lépésről lépésre útmutató
 
 ## Bevezetés

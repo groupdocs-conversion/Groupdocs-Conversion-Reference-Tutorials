@@ -4,8 +4,8 @@
 "title": "Táblázatok zökkenőmentes konvertálása PDF-fájlokká a .NET GroupDocs.Conversion segítségével"
 "url": "/hu/net/pdf-conversion/convert-spreadsheets-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Táblázatok zökkenőmentes konvertálása PDF-fájlokká a .NET GroupDocs.Conversion segítségével
 
 ## Bevezetés

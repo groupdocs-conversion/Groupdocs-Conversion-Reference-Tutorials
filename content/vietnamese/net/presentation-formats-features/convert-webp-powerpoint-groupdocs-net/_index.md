@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi hình ảnh WebP sang PowerPoint bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/presentation-formats-features/convert-webp-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi hình ảnh WebP sang PowerPoint bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "Come caricare file EMF utilizzando GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/image-formats-features/load-emf-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Come caricare file EMF utilizzando GroupDocs.Conversion per .NET: una guida completa
 
 ## Introduzione

@@ -5,8 +5,8 @@
 "title": "POT konvertálása PDF-be"
 "url": "/hu/net/pdf-conversion/convert-pot-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # POT konvertálása PDF-be
 
 ## Bevezetés

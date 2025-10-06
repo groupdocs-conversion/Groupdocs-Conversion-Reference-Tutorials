@@ -8,10 +8,8 @@ keywords:
 - convert log files to svg
 - groupdocs conversion for net
 - svg data visualization
-
+type: docs
 ---
-
-
 # How to Convert LOG Files to SVG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

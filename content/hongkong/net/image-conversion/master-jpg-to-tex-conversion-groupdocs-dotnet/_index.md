@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 的 JPG 到 TEX 轉換指南"
 "url": "/zh-hant/net/image-conversion/master-jpg-to-tex-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 的 JPG 到 TEX 轉換指南
 
 ## 介紹

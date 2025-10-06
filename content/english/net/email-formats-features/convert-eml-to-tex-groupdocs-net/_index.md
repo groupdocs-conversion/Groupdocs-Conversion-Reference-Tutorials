@@ -8,10 +8,8 @@ keywords:
 - Convert EML to TEX
 - GroupDocs.Conversion .NET
 - .NET email file conversion
-
+type: docs
 ---
-
-
 # Convert EML to TEX Using GroupDocs.Conversion for .NET: A Developer's Guide
 
 ## Introduction

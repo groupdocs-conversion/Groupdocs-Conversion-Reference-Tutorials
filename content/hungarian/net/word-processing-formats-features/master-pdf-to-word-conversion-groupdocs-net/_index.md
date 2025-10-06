@@ -4,8 +4,8 @@
 "title": "PDF-ből Wordbe konvertálás mesteri lépései a GroupDocs.Conversion for .NET használatával | Átfogó útmutató"
 "url": "/hu/net/word-processing-formats-features/master-pdf-to-word-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PDF-ből Wordbe konvertálás elsajátítása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

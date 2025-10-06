@@ -4,8 +4,8 @@
 "title": "Konwersja CDR do PSD&#58; Bezproblemowa konwersja obrazów przy użyciu GroupDocs.Conversion dla .NET"
 "url": "/pl/net/image-conversion/convert-cdr-to-psd-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja CDR do PSD: bezproblemowa konwersja obrazów przy użyciu GroupDocs.Conversion dla .NET
 
 ## Wstęp

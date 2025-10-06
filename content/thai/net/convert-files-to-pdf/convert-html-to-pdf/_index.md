@@ -5,8 +5,8 @@
 "title": "แปลงหน้าเว็บ HTML เป็น PDF"
 "url": "/th/net/convert-files-to-pdf/convert-html-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # แปลงหน้าเว็บ HTML เป็น PDF
 
 ## การแนะนำ

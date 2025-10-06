@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用した JLS から PPT への変換手順"
 "url": "/ja/net/presentation-formats-features/convert-jls-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # JLS を PPT に変換する: GroupDocs.Conversion for .NET を使用したステップバイステップ ガイド
 
 ## 導入

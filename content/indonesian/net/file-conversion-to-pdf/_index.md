@@ -5,8 +5,8 @@
 "title": "Konversi File ke PDF"
 "url": "/id/net/file-conversion-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Konversi File ke PDF
 
 ## Perkenalan:

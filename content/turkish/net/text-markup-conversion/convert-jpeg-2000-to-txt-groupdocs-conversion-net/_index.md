@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion'ı Kullanarak JPEG 2000'i (J2K) TXT'ye Verimli Şekilde Dönüştürün"
 "url": "/tr/net/text-markup-conversion/convert-jpeg-2000-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak JPEG 2000'i (J2K) TXT'ye Verimli Şekilde Dönüştürün
 
 ## giriiş

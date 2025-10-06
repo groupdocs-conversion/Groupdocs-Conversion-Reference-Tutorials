@@ -4,8 +4,8 @@
 "title": "Převod DWG do SVG pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/cad-technical-drawing-formats/convert-dwg-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod DWG do SVG pomocí GroupDocs.Conversion pro .NET: Komplexní průvodce
 
 ## Zavedení

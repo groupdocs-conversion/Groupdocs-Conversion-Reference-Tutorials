@@ -4,8 +4,8 @@
 "title": "Snadný převod IGS do Excelu pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/spreadsheet-formats-features/convert-igs-files-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů IGS do Excelu pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

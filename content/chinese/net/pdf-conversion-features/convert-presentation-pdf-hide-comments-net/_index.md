@@ -4,8 +4,8 @@
 "title": "隐藏 PDF 中的注释 &#58; 使用 GroupDocs.Conversion for .NET 将 PPT 转换为 PDF"
 "url": "/zh/net/pdf-conversion-features/convert-presentation-pdf-hide-comments-net/"
 "weight": 1
+type: docs
 ---
-
 # 隐藏 PDF 中的注释：使用 GroupDocs.Conversion for .NET 将 PPT 转换为 PDF
 
 ## 介绍

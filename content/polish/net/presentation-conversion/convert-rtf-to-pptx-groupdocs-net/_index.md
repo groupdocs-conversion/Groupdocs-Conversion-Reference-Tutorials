@@ -4,8 +4,8 @@
 "title": "Jak przekonwertować RTF na PPTX za pomocą GroupDocs.Conversion dla .NET&#58; Przewodnik krok po kroku"
 "url": "/pl/net/presentation-conversion/convert-rtf-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak przekonwertować RTF na PPTX za pomocą GroupDocs.Conversion dla .NET: przewodnik krok po kroku
 
 ## Wstęp

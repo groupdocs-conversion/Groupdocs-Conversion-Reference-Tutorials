@@ -8,10 +8,8 @@ keywords:
 - DICOM to JPG conversion
 - GroupDocs.Conversion for .NET
 - .NET image conversion
-
+type: docs
 ---
-
-
 # How to Convert DICOM to JPG in .NET Using GroupDocs.Conversion
 
 ## Introduction

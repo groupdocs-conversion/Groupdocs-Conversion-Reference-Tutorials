@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET ile DNG'yi Kolayca PPTX'e Dönüştürün"
 "url": "/tr/net/presentation-conversion/convert-dng-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion ile DNG'yi PPTX'e dönüştürün
 
 Günümüzün dijital ortamında, dosya dönüşümlerini hızlı ve etkili bir şekilde yönetebilmek esastır. İster 3D tasarımları sergileyen bir mimar olun, ister ham görüntüleri sunumlara dönüştüren bir pazarlamacı olun, Dijital Negatif (DNG) dosyalarını PowerPoint Sunumu (.pptx) formatına nasıl dönüştüreceğinizi öğrenmek inanılmaz derecede faydalı olabilir.

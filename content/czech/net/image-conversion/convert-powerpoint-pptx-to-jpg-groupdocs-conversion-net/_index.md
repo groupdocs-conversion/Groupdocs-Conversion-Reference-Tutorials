@@ -4,8 +4,8 @@
 "title": "Převod PowerPoint PPTX do JPG pomocí GroupDocs.Conversion .NET – Podrobný návod"
 "url": "/cs/net/image-conversion/convert-powerpoint-pptx-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod prezentací v PowerPointu na vysoce kvalitní obrázky pomocí GroupDocs.Conversion .NET
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "Java를 사용하여 암호로 보호된 Word 문서를 HTML로 변환하는 방법(단계별 가이드)"
 "url": "/ko/java/word-processing-formats/convert-password-protected-word-to-html-java/"
 "weight": 1
+type: docs
 ---
-
 # Java를 사용하여 암호로 보호된 Word 문서를 HTML로 변환하는 방법
 
 ## 소개

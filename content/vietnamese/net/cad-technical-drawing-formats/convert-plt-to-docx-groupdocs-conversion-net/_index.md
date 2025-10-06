@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi tệp PLT sang DOCX bằng GroupDocs.Conversion cho .NET (Hướng dẫn từng bước)"
 "url": "/vi/net/cad-technical-drawing-formats/convert-plt-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp PLT sang DOCX bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

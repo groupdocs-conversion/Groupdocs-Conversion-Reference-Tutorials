@@ -4,8 +4,8 @@
 "title": "VSTX konvertálása Excelbe a GroupDocs.Conversion .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-vstx-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VSTX konvertálása Excelbe a GroupDocs.Conversion .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

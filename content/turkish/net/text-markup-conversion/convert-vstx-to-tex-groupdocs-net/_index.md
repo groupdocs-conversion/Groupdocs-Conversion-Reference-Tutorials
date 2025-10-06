@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion'ı Kullanarak VSTX'i TEX'e Verimli Şekilde Dönüştürün"
 "url": "/tr/net/text-markup-conversion/convert-vstx-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak VSTX'i TEX'e Verimli Şekilde Dönüştürün
 
 ## giriiş

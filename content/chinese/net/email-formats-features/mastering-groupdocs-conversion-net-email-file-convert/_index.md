@@ -4,8 +4,8 @@
 "title": "掌握 GroupDocs.Conversion .NET 电子邮件和文件转换的综合指南"
 "url": "/zh/net/email-formats-features/mastering-groupdocs-conversion-net-email-file-convert/"
 "weight": 1
+type: docs
 ---
-
 # 掌握 GroupDocs.Conversion .NET 用于电子邮件和文件转换：综合指南
 
 ## 介绍

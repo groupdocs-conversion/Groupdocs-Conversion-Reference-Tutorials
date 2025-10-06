@@ -4,8 +4,8 @@
 "title": "Konvertera markup till Word med sidnumrering med GroupDocs.Conversion för .NET"
 "url": "/sv/net/word-processing-formats-features/groupdocs-conversion-markup-to-word-page-numbering/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera markup till Word med sidnumrering med GroupDocs.Conversion för .NET
 ## Introduktion
 Vill du konvertera markup-dokument till professionella Word-format samtidigt som du bibehåller korrekta sidnummer? Den här handledningen guidar dig genom hur du använder **GroupDocs.Conversion för .NET** för att sömlöst omvandla dina dokument. Detta kraftfulla bibliotek förenklar konverteringar och säkerställer att viktiga element som sidnumrering är intakta i slutdokumentet.

@@ -4,8 +4,8 @@
 "title": "การแปลง PDF เป็น Word อย่างมีประสิทธิภาพด้วย GroupDocs.Conversion Java API"
 "url": "/th/java/word-processing-formats/groupdocs-conversion-java-pdf-to-word/"
 "weight": 1
+type: docs
 ---
-
 # การแปลง PDF เป็น Word อย่างมีประสิทธิภาพด้วย GroupDocs.Conversion Java API
 
 ## การแนะนำ

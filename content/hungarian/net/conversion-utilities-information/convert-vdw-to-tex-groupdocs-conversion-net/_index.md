@@ -4,8 +4,8 @@
 "title": "VDW fájlok konvertálása TEX formátumba a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/conversion-utilities-information/convert-vdw-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VDW fájlok konvertálása TEX formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -8,10 +8,8 @@ keywords:
 - convert potx to text
 - groupdocs conversion .net
 - powerpoint template to text
-
+type: docs
 ---
-
-
 # How to Load and Convert a Microsoft PowerPoint Open XML Template (.potx) File to Text Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Mühelose Konvertierung von CSV in LaTeX mit GroupDocs.Conversion für .NET"
 "url": "/de/net/spreadsheet-formats-features/csv-to-latex-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Mühelose Konvertierung von CSV in LaTeX mit GroupDocs.Conversion für .NET
 
 ## Einführung

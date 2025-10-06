@@ -4,8 +4,8 @@
 "title": "Convertir des fichiers CAO en TIFF avec des dimensions personnalisées à l'aide de GroupDocs.Conversion Java - Un guide complet"
 "url": "/fr/java/cad-formats/cad-conversion-tiff-custom-dimensions-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Conversion de fichiers CAO en TIFF avec dimensions personnalisées à l'aide de GroupDocs.Conversion Java : guide complet
 
 ## Introduction

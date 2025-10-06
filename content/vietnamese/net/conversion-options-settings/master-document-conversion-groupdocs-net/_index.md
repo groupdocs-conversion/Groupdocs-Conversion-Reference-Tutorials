@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tài liệu chính với GroupDocs trong .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/conversion-options-settings/master-document-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Làm chủ việc chuyển đổi tài liệu với GroupDocs.Conversion .NET: Hướng dẫn từng bước
 
 ## Giới thiệu

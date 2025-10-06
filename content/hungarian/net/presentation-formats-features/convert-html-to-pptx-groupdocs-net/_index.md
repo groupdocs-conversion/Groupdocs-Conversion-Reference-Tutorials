@@ -4,8 +4,8 @@
 "title": "HTML konvertálása PPTX-be a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/presentation-formats-features/convert-html-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # HTML PPTX formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 ## Bevezetés
 Előfordult már, hogy egy gyönyörűen megtervezett HTML-oldalt letisztult PowerPoint-bemutatóvá kellett alakítania? Akár egy jelentést készít, akár egy lebilincselő diavetítést hoz létre, a webes tartalmak közvetlen PowerPoint-bemutatóvá alakítása... `.pptx` fájl megváltoztathatja a játékszabályokat. A **GroupDocs.Conversion .NET-hez** könyvtár, ez a folyamat zökkenőmentessé és hatékonnyá válik.

@@ -4,8 +4,8 @@
 "title": "แปลง Excel เป็น JPG ใน .NET คำแนะนำทีละขั้นตอนโดยใช้ GroupDocs.Conversion"
 "url": "/th/net/image-conversion/excel-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลง Excel เป็น JPG ใน .NET: คำแนะนำทีละขั้นตอนโดยใช้ GroupDocs.Conversion
 
 ## การแนะนำ

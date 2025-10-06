@@ -4,8 +4,8 @@
 "title": "Konversi Email ke PDF dengan Mudah dengan GroupDocs.Conversion untuk .NET | Panduan Lengkap"
 "url": "/id/net/pdf-conversion/convert-emails-to-pdfs-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi Email ke PDF dengan Mudah dengan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

@@ -4,8 +4,8 @@
 "title": "PDF-jegyzetek elrejtése Word-be konvertálás előtt a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/page-management-content-manipulation/hide-pdf-annotations-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # PDF-jegyzetek elrejtése Word-be konvertálás előtt a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

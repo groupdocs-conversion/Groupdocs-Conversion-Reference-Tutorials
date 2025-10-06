@@ -4,8 +4,8 @@
 "title": "PS fájlok TEX formátumba konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/text-markup-conversion/convert-ps-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PS fájlok TEX formátumba konvertálása a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

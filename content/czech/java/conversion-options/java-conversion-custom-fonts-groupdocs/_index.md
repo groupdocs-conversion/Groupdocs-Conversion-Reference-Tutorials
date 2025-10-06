@@ -4,8 +4,8 @@
 "title": "Konverze dokumentů v Javě s vlastními fonty pomocí GroupDocs.Conversion"
 "url": "/cs/java/conversion-options/java-conversion-custom-fonts-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Konverze dokumentů v Javě s vlastními fonty pomocí GroupDocs.Conversion
 
 dnešním digitálním světě je konverze dokumentů při zachování jejich původního designu a rozvržení klíčová. Ať už připravujete prezentaci pro klienta nebo archivujete důležité soubory, zajištění konzistence písem napříč platformami může být náročné. Tento tutoriál vás provede používáním nástroje GroupDocs.Conversion pro Javu k převodu prezentací do PDF s vlastními náhradami písem, což zajistí vizuální integritu v celém procesu.

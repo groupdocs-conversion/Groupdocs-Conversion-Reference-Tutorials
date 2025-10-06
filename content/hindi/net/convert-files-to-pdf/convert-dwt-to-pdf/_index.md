@@ -5,8 +5,8 @@
 "title": "DWT CAD टेम्पलेट फ़ाइलों को PDF में बदलें"
 "url": "/hi/net/convert-files-to-pdf/convert-dwt-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # DWT CAD टेम्पलेट फ़ाइलों को PDF में बदलें
 
 ## परिचय

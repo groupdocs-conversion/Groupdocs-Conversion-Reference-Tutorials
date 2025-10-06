@@ -8,10 +8,8 @@ keywords:
 - convert CMX to PPTX
 - GroupDocs.Conversion .NET
 - file conversion guide
-
+type: docs
 ---
-
-
 # Efficiently Convert CMX to PPTX Using GroupDocs.Conversion for .NET
 
 ## Introduction

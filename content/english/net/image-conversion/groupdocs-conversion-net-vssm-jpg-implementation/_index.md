@@ -8,10 +8,8 @@ keywords:
 - VSSM to JPG conversion
 - GroupDocs.Conversion .NET library
 - convert VSSM files
-
+type: docs
 ---
-
-
 # How to Convert VSSM Files to JPG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

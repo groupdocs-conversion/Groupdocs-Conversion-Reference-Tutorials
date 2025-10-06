@@ -5,8 +5,8 @@
 "title": "Конвертировать файлы в PDF"
 "url": "/ru/net/convert-files-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Конвертировать файлы в PDF
 
 ## Введение

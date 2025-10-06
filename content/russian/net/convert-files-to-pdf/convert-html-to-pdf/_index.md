@@ -5,8 +5,8 @@
 "title": "Конвертировать HTML-страницы в PDF"
 "url": "/ru/net/convert-files-to-pdf/convert-html-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Конвертировать HTML-страницы в PDF
 
 ## Введение

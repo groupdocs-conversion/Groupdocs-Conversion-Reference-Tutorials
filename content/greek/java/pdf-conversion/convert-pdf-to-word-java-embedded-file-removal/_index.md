@@ -4,8 +4,8 @@
 "title": "Μετατροπή PDF σε Word σε Java με ενσωματωμένη αφαίρεση αρχείων&#58; Οδηγός βήμα προς βήμα χρησιμοποιώντας το GroupDocs.Conversion"
 "url": "/el/java/pdf-conversion/convert-pdf-to-word-java-embedded-file-removal/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή PDF σε Word σε Java με ενσωματωμένη αφαίρεση αρχείων: Οδηγός βήμα προς βήμα χρησιμοποιώντας το GroupDocs.Conversion
 
 ## Εισαγωγή

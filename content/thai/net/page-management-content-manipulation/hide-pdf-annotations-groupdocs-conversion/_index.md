@@ -4,8 +4,8 @@
 "title": "วิธีซ่อนคำอธิบายประกอบ PDF ก่อนแปลงเป็น Word โดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/page-management-content-manipulation/hide-pdf-annotations-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # วิธีซ่อนคำอธิบายประกอบ PDF ก่อนแปลงเป็น Word โดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

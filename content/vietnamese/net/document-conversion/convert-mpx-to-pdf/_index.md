@@ -5,8 +5,8 @@
 "title": "Chuyển đổi MPX sang PDF"
 "url": "/vi/net/document-conversion/convert-mpx-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Chuyển đổi MPX sang PDF
 
 ## Giới thiệu

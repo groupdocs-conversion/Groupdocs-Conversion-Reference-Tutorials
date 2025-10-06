@@ -5,8 +5,8 @@
 "title": "MHTML을 PDF로 변환"
 "url": "/ko/net/document-conversion/convert-mhtml-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # MHTML을 PDF로 변환
 
 ## 소개

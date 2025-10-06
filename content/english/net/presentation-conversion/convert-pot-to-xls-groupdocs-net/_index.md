@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert PowerPoint POT to Excel XLS with GroupDocs.Conversion .NET
 
 ## Introduction

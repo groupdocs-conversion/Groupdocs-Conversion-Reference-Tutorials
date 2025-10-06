@@ -4,8 +4,8 @@
 "title": "การเรียนรู้ GroupDocs.Conversion .NET สำหรับการแปลงอีเมลและไฟล์ - คู่มือฉบับสมบูรณ์"
 "url": "/th/net/email-formats-features/mastering-groupdocs-conversion-net-email-file-convert/"
 "weight": 1
+type: docs
 ---
-
 # การเรียนรู้ GroupDocs.Conversion .NET สำหรับการแปลงอีเมลและไฟล์: คู่มือฉบับสมบูรณ์
 
 ## การแนะนำ

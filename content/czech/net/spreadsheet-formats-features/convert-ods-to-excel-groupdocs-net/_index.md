@@ -4,8 +4,8 @@
 "title": "Převod ODS do XLS pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/spreadsheet-formats-features/convert-ods-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod ODS do XLS pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

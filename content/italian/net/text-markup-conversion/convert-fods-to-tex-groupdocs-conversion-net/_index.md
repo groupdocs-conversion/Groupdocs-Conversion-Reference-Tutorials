@@ -4,8 +4,8 @@
 "title": "Convertire FODS in TEX in .NET utilizzando GroupDocs.Conversion&#58; una guida completa"
 "url": "/it/net/text-markup-conversion/convert-fods-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire FODS in TEX in .NET utilizzando GroupDocs.Conversion
 
 ## Introduzione

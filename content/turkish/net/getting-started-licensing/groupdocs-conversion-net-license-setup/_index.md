@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET için Lisans Nasıl Kurulur ve Uygulanır&#58; Adım Adım Kılavuz"
 "url": "/tr/net/getting-started-licensing/groupdocs-conversion-net-license-setup/"
 "weight": 1
+type: docs
 ---
-
 # Kapsamlı Eğitim: GroupDocs.Conversion .NET için Lisans Kurulumu
 
 ## giriiş

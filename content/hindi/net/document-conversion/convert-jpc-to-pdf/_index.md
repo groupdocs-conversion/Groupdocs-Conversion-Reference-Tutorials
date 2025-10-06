@@ -5,8 +5,8 @@
 "title": "जेपीसी को पीडीएफ में बदलें"
 "url": "/hi/net/document-conversion/convert-jpc-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # जेपीसी को पीडीएफ में बदलें
 
 ## परिचय

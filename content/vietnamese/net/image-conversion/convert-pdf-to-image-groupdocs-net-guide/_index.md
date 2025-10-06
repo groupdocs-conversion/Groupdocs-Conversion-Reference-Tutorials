@@ -4,8 +4,8 @@
 "title": "Chuyển đổi PDF sang hình ảnh bằng GroupDocs.Conversion .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/image-conversion/convert-pdf-to-image-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi PDF sang hình ảnh bằng GroupDocs.Conversion .NET: Hướng dẫn toàn diện
 
 ## Giới thiệu

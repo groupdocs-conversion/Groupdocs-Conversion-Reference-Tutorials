@@ -5,8 +5,8 @@
 "title": "تحويل مستندات DJVU إلى PDF"
 "url": "/ar/net/file-conversion-to-pdf/convert-djvu-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # تحويل مستندات DJVU إلى PDF
 
 ## مقدمة

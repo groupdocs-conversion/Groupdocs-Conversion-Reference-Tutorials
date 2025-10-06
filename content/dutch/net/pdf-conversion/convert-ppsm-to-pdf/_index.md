@@ -5,8 +5,8 @@
 "title": "PPSM naar PDF converteren"
 "url": "/nl/net/pdf-conversion/convert-ppsm-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # PPSM naar PDF converteren
 
 ## Invoering

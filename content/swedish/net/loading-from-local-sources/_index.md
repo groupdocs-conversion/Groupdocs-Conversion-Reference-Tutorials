@@ -3,8 +3,8 @@
 "title": "Läser in dokument från lokala källor Handledningar för GroupDocs.Conversion .NET"
 "url": "/sv/net/loading-from-local-sources/"
 "weight": 2
+type: docs
 ---
-
 # Läser in dokument från lokala källor Handledningar för GroupDocs.Conversion .NET
 
 Våra handledningar för lokal dokumentinläsning ger omfattande vägledning för att arbeta med dokument som lagras på ditt lokala system i .NET-applikationer. Följ dessa steg-för-steg-guider för att lära dig hur du laddar dokument från filsystemsökvägar och minnesströmmar. Dessa handledningar täcker olika scenarier, inklusive relativa och absoluta sökvägar, strömhanteringsöverväganden och minnesoptimeringstekniker. Varje guide innehåller kompletta C#-kodexempel för lokala dokumentinläsningsscenarier, vilket hjälper dig att bygga applikationer som effektivt kan komma åt innehåll från ditt filsystem eller minne.

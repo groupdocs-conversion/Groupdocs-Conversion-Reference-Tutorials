@@ -8,10 +8,8 @@ keywords:
 - convert specific pages to PDF
 - GroupDocs.Conversion for .NET
 - page-specific PDF conversion
-
+type: docs
 ---
-
-
 # Convert Specific Pages to PDF Using GroupDocs.Conversion for .NET
 
 ## Introduction

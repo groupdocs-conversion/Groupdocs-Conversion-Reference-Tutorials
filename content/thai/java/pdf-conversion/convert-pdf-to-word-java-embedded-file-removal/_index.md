@@ -4,8 +4,8 @@
 "title": "แปลง PDF เป็น Word ใน Java พร้อมลบไฟล์ที่ฝังไว้ คำแนะนำทีละขั้นตอนโดยใช้ GroupDocs.Conversion"
 "url": "/th/java/pdf-conversion/convert-pdf-to-word-java-embedded-file-removal/"
 "weight": 1
+type: docs
 ---
-
 # แปลง PDF เป็น Word ใน Java พร้อมลบไฟล์ที่ฝังไว้: คำแนะนำทีละขั้นตอนโดยใช้ GroupDocs.Conversion
 
 ## การแนะนำ

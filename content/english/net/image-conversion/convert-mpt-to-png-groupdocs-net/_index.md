@@ -8,10 +8,8 @@ keywords:
 - convert MPT to PNG
 - GroupDocs.Conversion for .NET
 - image conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert MPT to PNG with GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して VTX を PowerPoint に効率的に変換する"
 "url": "/ja/net/presentation-formats-features/convert-vtx-to-powerpoint-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して VTX を PowerPoint に効率的に変換する
 
 今日の急速に変化するデジタル世界では、ドキュメント形式を効率的に変換することが大きな変革をもたらす可能性があります。Microsoft Visio 図面テンプレート (.vtx) を扱っていて、PowerPoint (.ppt) のようなより動的な形式で情報を提示する必要がある場合、このチュートリアルは最適です。GroupDocs.Conversion for .NET を使用して、VTX ファイルをシームレスに PPT プレゼンテーションに変換する方法をご案内します。

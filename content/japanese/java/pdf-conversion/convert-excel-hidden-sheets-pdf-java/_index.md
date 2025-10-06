@@ -4,8 +4,8 @@
 "title": "JavaとGroupDocs.Conversionを使用して、非表示のシートを含むExcelファイルをPDFに変換する方法"
 "url": "/ja/java/pdf-conversion/convert-excel-hidden-sheets-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # JavaとGroupDocs.Conversionを使用して、非表示のシートを含むExcelファイルをPDFに変換する方法
 
 ## 導入

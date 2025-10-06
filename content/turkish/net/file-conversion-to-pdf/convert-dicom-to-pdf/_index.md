@@ -5,8 +5,8 @@
 "title": "DICOM Tıbbi Görüntülerini PDF'ye Dönüştür"
 "url": "/tr/net/file-conversion-to-pdf/convert-dicom-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # DICOM Tıbbi Görüntülerini PDF'ye Dönüştür
 
 ## giriiş

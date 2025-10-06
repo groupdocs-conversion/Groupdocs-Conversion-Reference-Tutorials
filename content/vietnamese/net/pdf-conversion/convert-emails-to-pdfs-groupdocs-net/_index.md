@@ -4,8 +4,8 @@
 "title": "Chuyển đổi email sang PDF một cách liền mạch với GroupDocs.Conversion cho .NET | Hướng dẫn toàn diện"
 "url": "/vi/net/pdf-conversion/convert-emails-to-pdfs-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi Email sang PDF một cách liền mạch với GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

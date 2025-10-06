@@ -4,8 +4,8 @@
 "title": "Cara Menghapus File Tertanam dari PDF Menggunakan GroupDocs.Conversion .NET untuk Manajemen Dokumen yang Dioptimalkan"
 "url": "/id/net/pdf-conversion-features/remove-embedded-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Menghapus File Tertanam dari PDF Menggunakan GroupDocs.Conversion .NET untuk Manajemen Dokumen yang Dioptimalkan
 
 ## Perkenalan

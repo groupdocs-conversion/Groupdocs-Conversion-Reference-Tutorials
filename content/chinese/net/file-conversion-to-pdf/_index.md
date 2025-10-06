@@ -5,8 +5,8 @@
 "title": "文件转换为 PDF"
 "url": "/zh/net/file-conversion-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # 文件转换为 PDF
 
 ## 介绍：

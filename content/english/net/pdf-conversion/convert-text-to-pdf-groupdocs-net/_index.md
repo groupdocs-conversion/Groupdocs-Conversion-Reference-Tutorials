@@ -8,10 +8,8 @@ keywords:
 - convert text to PDF
 - GroupDocs.Conversion for .NET
 - PDF conversion in C#
-
+type: docs
 ---
-
-
 # How to Convert Text to PDF Using GroupDocs.Conversion for .NET
 
 ## Introduction

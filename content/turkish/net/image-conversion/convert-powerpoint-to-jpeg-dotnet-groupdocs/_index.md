@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion kullanarak PowerPoint Şablonlarını .NET'te JPEG'e Verimli Şekilde Dönüştürün"
 "url": "/tr/net/image-conversion/convert-powerpoint-to-jpeg-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Kullanılarak .NET'te PowerPoint Şablonlarının JPEG'e Verimli Dönüştürülmesi
 
 ## giriiş

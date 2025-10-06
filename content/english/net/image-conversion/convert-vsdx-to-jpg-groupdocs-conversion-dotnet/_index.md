@@ -8,10 +8,8 @@ keywords:
 - VSDX to JPG conversion
 - GroupDocs.Conversion for .NET
 - image conversion
-
+type: docs
 ---
-
-
 # Convert VSDX to JPG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ### Introduction

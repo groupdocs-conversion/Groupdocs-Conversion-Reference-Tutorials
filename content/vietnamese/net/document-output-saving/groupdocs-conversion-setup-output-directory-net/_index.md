@@ -4,8 +4,8 @@
 "title": "Cách thiết lập đường dẫn thư mục đầu ra với GroupDocs.Conversion cho .NET"
 "url": "/vi/net/document-output-saving/groupdocs-conversion-setup-output-directory-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách thiết lập đường dẫn thư mục đầu ra bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

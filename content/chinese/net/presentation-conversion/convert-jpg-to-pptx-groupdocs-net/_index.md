@@ -4,8 +4,8 @@
 "title": "如何在 .NET 中使用 GroupDocs.Conversion 将 JPG 转换为 PPTX — 分步指南"
 "url": "/zh/net/presentation-conversion/convert-jpg-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 将 JPG 转换为 PPTX：分步指南
 
 ## 介绍

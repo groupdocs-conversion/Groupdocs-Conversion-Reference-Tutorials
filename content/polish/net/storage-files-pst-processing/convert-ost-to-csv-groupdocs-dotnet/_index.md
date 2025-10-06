@@ -4,8 +4,8 @@
 "title": "Efektywna konwersja OST do CSV przy użyciu GroupDocs.Conversion dla .NET"
 "url": "/pl/net/storage-files-pst-processing/convert-ost-to-csv-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Efektywna konwersja OST do CSV przy użyciu GroupDocs.Conversion dla .NET
 
 ## Wstęp

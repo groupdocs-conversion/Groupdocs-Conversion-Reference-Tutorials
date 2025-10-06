@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用した .NET IFC から XLSX への変換をマスターする包括的なガイド"
 "url": "/ja/net/spreadsheet-conversion/net-ifc-to-xlsx-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion を使用した .NET IFC から XLSX への変換をマスターする: 包括的なガイド
 
 ## 導入

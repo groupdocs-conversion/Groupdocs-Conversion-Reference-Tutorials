@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή DWFX σε XLSX με το GroupDocs.Conversion για .NET™ Οδηγός για προγραμματιστές"
 "url": "/el/net/spreadsheet-formats-features/convert-dwfx-to-xlsx-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική μετατροπή DWFX σε XLSX με το GroupDocs.Conversion για .NET: Οδηγός για προγραμματιστές
 
 ## Εισαγωγή

@@ -5,8 +5,8 @@
 "title": "將 XLT 轉換為 PDF"
 "url": "/zh-hant/net/converting-file-types-to-pdf/convert-xlt-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # 將 XLT 轉換為 PDF
 
 

@@ -5,8 +5,8 @@
 "title": "PST naar PDF converteren"
 "url": "/nl/net/file-format-conversion-tutorials/convert-pst-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # PST naar PDF converteren
 
 ## Invoering

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak CF2'yi PPT'ye Dönüştürme&#58; Tam Bir Kılavuz"
 "url": "/tr/net/presentation-formats-features/convert-cf2-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak CF2 Dosyalarını PowerPoint Sunumlarına Dönüştürün
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "PPTX konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/presentation-formats-features/convert-pptx-html-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # PPTX konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

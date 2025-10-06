@@ -4,8 +4,8 @@
 "title": "كيفية إخفاء تعليقات PDF قبل التحويل إلى Word باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/page-management-content-manipulation/hide-pdf-annotations-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # كيفية إخفاء تعليقات PDF قبل التحويل إلى Word باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

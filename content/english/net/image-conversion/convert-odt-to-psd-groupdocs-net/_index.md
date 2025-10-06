@@ -8,10 +8,8 @@ keywords:
 - ODT to PSD conversion
 - GroupDocs.Conversion .NET
 - document conversion in .NET
-
+type: docs
 ---
-
-
 # Convert ODT to PSD Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

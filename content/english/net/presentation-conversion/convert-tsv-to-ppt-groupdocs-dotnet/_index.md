@@ -8,10 +8,8 @@ keywords:
 - convert TSV to PowerPoint
 - GroupDocs.Conversion .NET
 - TSV file conversion
-
+type: docs
 ---
-
-
 # Convert TSV to PowerPoint with GroupDocs.NET
 ## How to Load and Convert a TSV File to PPT Using GroupDocs.Conversion .NET
 

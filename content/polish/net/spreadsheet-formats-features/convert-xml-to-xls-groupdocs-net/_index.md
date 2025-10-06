@@ -4,8 +4,8 @@
 "title": "Jak konwertować XML do XLS za pomocą GroupDocs.Conversion w .NET&#58; Przewodnik krok po kroku"
 "url": "/pl/net/spreadsheet-formats-features/convert-xml-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak konwertować XML do XLS za pomocą GroupDocs.Conversion w .NET: przewodnik krok po kroku
 
 ## Wstęp

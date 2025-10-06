@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert ODP Files to Excel (XLS) with Ease Using GroupDocs.Conversion .NET
 
 ## Introduction

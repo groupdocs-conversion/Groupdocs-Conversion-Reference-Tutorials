@@ -5,8 +5,8 @@
 "title": "Converter metarquivos EMF do Windows para PDF"
 "url": "/pt/net/convert-files-to-pdf/convert-emf-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # Converter metarquivos EMF do Windows para PDF
 
 ## Introdução

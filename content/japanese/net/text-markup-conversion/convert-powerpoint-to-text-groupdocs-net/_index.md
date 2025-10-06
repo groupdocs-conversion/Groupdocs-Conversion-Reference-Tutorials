@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して PowerPoint テンプレートを効率的にテキストに変換する"
 "url": "/ja/net/text-markup-conversion/convert-powerpoint-to-text-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して PowerPoint テンプレートをテキストに変換する方法
 
 ## 導入

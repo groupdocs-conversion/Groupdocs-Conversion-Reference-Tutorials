@@ -4,8 +4,8 @@
 "title": "Jak ładować i konwertować pliki EPS za pomocą GroupDocs.Conversion dla .NET"
 "url": "/pl/net/loading-from-local-sources/load-eps-groupdocs-conversion-dotnet-tutorial/"
 "weight": 1
+type: docs
 ---
-
 # Jak ładować i konwertować pliki EPS za pomocą GroupDocs.Conversion dla .NET: przewodnik krok po kroku
 
 ## Wstęp

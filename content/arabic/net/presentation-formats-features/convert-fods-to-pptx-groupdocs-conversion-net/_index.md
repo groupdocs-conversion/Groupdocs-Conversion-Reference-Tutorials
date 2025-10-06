@@ -4,8 +4,8 @@
 "title": "تحويل FODS إلى PPTX باستخدام GroupDocs.Conversion .NET - تبسيط سير عمل المستندات"
 "url": "/ar/net/presentation-formats-features/convert-fods-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل FODS إلى PPTX باستخدام GroupDocs.Conversion .NET: دليل شامل
 
 ## مقدمة

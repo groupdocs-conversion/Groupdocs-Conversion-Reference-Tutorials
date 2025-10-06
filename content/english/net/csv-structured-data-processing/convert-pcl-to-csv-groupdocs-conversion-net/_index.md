@@ -8,10 +8,8 @@ keywords:
 - PCL to CSV conversion
 - GroupDocs.Conversion .NET setup
 - data transformation with GroupDocs
-
+type: docs
 ---
-
-
 # Convert PCL Files to CSV with GroupDocs.Conversion .NET
 
 ## Introduction

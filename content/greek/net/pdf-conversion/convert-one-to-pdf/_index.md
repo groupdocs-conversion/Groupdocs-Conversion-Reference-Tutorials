@@ -5,8 +5,8 @@
 "title": "Μετατροπή ONE σε PDF"
 "url": "/el/net/pdf-conversion/convert-one-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Μετατροπή ONE σε PDF
 
 ## Εισαγωγή

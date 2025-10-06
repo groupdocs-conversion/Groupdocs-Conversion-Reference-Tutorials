@@ -4,8 +4,8 @@
 "title": "Как конвертировать файлы DWG в CSV с помощью GroupDocs.Conversion в .NET"
 "url": "/ru/net/cad-technical-drawing-formats/convert-dwg-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Как конвертировать файлы DWG в CSV с помощью GroupDocs.Conversion в .NET
 
 ## Введение

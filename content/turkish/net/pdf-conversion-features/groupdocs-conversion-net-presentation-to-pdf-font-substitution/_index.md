@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion kullanarak .NET'te Yazı Tipi Değiştirme ile PowerPoint'i PDF'ye dönüştürün"
 "url": "/tr/net/pdf-conversion-features/groupdocs-conversion-net-presentation-to-pdf-font-substitution/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion kullanarak .NET'te Yazı Tipi Değiştirme ile PowerPoint'i PDF'ye dönüştürün
 
 ## giriiş

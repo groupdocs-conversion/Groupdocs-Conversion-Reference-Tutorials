@@ -4,8 +4,8 @@
 "title": "Kuasai Konversi Email .NET dengan GroupDocs&#58; Panduan Globalisasi untuk Pengembang"
 "url": "/id/net/email-formats-features/master-net-email-conversion-groupdocs-globalization-guide/"
 "weight": 1
+type: docs
 ---
-
 # Menguasai Konversi Email .NET dengan GroupDocs: Panduan Globalisasi yang Komprehensif
 
 ## Perkenalan

@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie KI in HTML mit GroupDocs.Conversion für .NET – Ein umfassender Leitfaden"
 "url": "/de/net/html-conversion/convert-ai-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie AI-Dateien mit GroupDocs.Conversion für .NET in HTML
 
 ## Einführung

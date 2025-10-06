@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion の従量制ライセンスを Java で実装する包括的なガイド"
 "url": "/ja/java/getting-started/implement-metered-license-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion の従量制ライセンスを Java で実装する
 
 ## 導入

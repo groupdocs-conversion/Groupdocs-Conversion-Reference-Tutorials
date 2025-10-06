@@ -8,10 +8,8 @@ keywords:
 - VSDM to PPTX conversion
 - GroupDocs.Conversion for .NET
 - Visio macro-enabled diagrams
-
+type: docs
 ---
-
-
 # Convert VSDM to PPTX Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

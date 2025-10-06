@@ -8,10 +8,8 @@ keywords:
 - convert CAD to PDF
 - selective layout conversion
 - GroupDocs.Conversion for Java
-
+type: docs
 ---
-
-
 # Convert CAD Layouts to PDF with GroupDocs.Conversion for Java
 ## Mastering Selective CAD to PDF Conversion in Java
 ### Introduction

@@ -8,10 +8,8 @@ keywords:
 - convert OST to TEX
 - GroupDocs.Conversion .NET tutorial
 - OST file conversion
-
+type: docs
 ---
-
-
 # Comprehensive Guide: Convert OST to TEX Using GroupDocs.Conversion for .NET
 
 ## Introduction

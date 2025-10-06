@@ -9,10 +9,8 @@ keywords:
 - convert OTS to Excel
 - GroupDocs.Conversion .NET
 - document conversion in .NET
-
+type: docs
 ---
-
-
 # How to Load and Convert OTS Files Using GroupDocs.Conversion for .NET
 
 In today's digital landscape, managing various document formats is essential for businesses and developers. Whether handling invoices or contracts, converting them into universally accepted formats can save time and resources. This tutorial will guide you through loading and converting an OpenDocument Spreadsheet Text (OTS) file using the powerful GroupDocs.Conversion library for .NET.

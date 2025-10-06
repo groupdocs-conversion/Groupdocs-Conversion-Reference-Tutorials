@@ -8,10 +8,8 @@ keywords:
 - convert DWG to DOCX
 - GroupDocs.Conversion for .NET
 - DWG file conversion
-
+type: docs
 ---
-
-
 # Convert DWG to DOCX Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

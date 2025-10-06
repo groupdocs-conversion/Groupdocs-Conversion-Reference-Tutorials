@@ -5,8 +5,8 @@
 "title": "Převod souborů DXF CAD výkresů do formátu PDF"
 "url": "/cs/net/convert-files-to-pdf/convert-dxf-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # Převod souborů DXF CAD výkresů do formátu PDF
 
 ## Zavedení

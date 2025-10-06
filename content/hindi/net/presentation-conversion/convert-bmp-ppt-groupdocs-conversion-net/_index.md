@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके BMP को PowerPoint PPT में परिवर्तित करें एक व्यापक गाइड"
 "url": "/hi/net/presentation-conversion/convert-bmp-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके BMP को PowerPoint PPT में परिवर्तित करें
 
 ## परिचय

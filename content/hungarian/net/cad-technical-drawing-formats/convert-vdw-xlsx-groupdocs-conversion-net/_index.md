@@ -4,8 +4,8 @@
 "title": "VDW konvertálása XLSX-re a GroupDocs.Conversion for .NET segítségével – lépésről lépésre útmutató"
 "url": "/hu/net/cad-technical-drawing-formats/convert-vdw-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VDW konvertálása XLSX-re a GroupDocs.Conversion for .NET segítségével: lépésről lépésre útmutató
 OKTATÓANYAG KATEGÓRIA: CAD és műszaki rajzformátumok
 JELENLEGI SEO URL: convert-vdw-xlsx-groupdocs-conversion-net

@@ -4,8 +4,8 @@
 "title": "Chuyển đổi EPS sang HTML bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn đầy đủ"
 "url": "/vi/net/web-markup-formats/convert-eps-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi EPS sang HTML bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

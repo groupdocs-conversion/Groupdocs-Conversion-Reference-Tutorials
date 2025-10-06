@@ -4,8 +4,8 @@
 "title": "如何在 Java 中使用 GroupDocs.Conversion 提取 PDF 元数据"
 "url": "/zh/java/pdf-conversion/extract-pdf-metadata-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # 如何在 Java 中使用 GroupDocs.Conversion 提取 PDF 元数据
 
 ## 介绍

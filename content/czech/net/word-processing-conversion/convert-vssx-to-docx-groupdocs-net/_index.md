@@ -4,8 +4,8 @@
 "title": "Převod VSSX do DOCX pomocí GroupDocs pro .NET – podrobný návod"
 "url": "/cs/net/word-processing-conversion/convert-vssx-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory VSSX do DOCX pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "JP2 fájlok PDF-be konvertálása a GroupDocs.Conversion for .NET használatával | Lépésről lépésre útmutató"
 "url": "/hu/net/pdf-conversion/convert-jp2-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # JP2 fájlok PDF-be konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

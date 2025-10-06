@@ -5,8 +5,8 @@
 "title": "VCFをPDFに変換する"
 "url": "/ja/net/file-format-conversion-tutorials/convert-vcf-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # VCFをPDFに変換する
 
 ## 導入

@@ -8,10 +8,8 @@ keywords:
 - convert MHTML to Excel
 - GroupDocs.Conversion for .NET
 - spreadsheet conversion
-
+type: docs
 ---
-
-
 # Convert MHTML to Excel Using GroupDocs.Conversion .NET: A Comprehensive Guide
 
 ## Introduction

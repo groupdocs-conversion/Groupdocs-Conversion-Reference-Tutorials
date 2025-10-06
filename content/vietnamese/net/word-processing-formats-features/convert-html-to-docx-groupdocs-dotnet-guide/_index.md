@@ -4,8 +4,8 @@
 "title": "Chuyển đổi HTML sang DOCX bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/word-processing-formats-features/convert-html-to-docx-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi HTML sang DOCX bằng GroupDocs.Conversion cho .NET: Hướng dẫn từng bước
 
 ## Giới thiệu

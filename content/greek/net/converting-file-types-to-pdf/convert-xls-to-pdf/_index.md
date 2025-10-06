@@ -5,8 +5,8 @@
 "title": "Μετατροπή XLS σε PDF"
 "url": "/el/net/converting-file-types-to-pdf/convert-xls-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Μετατροπή XLS σε PDF
 
 ## Εισαγωγή

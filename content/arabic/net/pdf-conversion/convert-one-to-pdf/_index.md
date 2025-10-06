@@ -5,8 +5,8 @@
 "title": "تحويل ملف واحد إلى PDF"
 "url": "/ar/net/pdf-conversion/convert-one-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # تحويل ملف واحد إلى PDF
 
 ## مقدمة

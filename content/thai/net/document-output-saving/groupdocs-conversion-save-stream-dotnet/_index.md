@@ -4,8 +4,8 @@
 "title": "วิธีบันทึกไฟล์ไปยังสตรีมโดยใช้ GroupDocs.Conversion ใน .NET | คำแนะนำทีละขั้นตอน"
 "url": "/th/net/document-output-saving/groupdocs-conversion-save-stream-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการใช้ GroupDocs.Conversion .NET: บันทึกไฟล์ที่แปลงแล้วลงในสตรีม
 
 ## การแนะนำ

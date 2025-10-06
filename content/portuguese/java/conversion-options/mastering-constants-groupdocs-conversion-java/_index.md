@@ -4,8 +4,8 @@
 "title": "Dominando o gerenciamento de constantes no GroupDocs.Conversion Java para projetos de conversão de arquivos"
 "url": "/pt/java/conversion-options/mastering-constants-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Dominando o gerenciamento de constantes com GroupDocs.Conversion Java
 
 ## Introdução

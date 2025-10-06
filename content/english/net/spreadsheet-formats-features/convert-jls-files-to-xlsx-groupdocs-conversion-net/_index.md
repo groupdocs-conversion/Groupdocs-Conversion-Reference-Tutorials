@@ -8,10 +8,8 @@ keywords:
 - Convert JLS to XLSX
 - GroupDocs.Conversion for .NET
 - file format conversion
-
+type: docs
 ---
-
-
 # How to Convert JLS Files to XLSX with GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - convert DWF to PSD
 - GroupDocs.Conversion for .NET
 - DWF to PSD conversion
-
+type: docs
 ---
-
-
 # Convert DWF to PSD with GroupDocs.Conversion for .NET
 
 ## Introduction

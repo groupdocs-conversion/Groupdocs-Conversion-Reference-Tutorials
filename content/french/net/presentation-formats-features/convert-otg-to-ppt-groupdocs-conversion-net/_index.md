@@ -4,8 +4,8 @@
 "title": "Convertir facilement des fichiers OTG en PowerPoint - Tutoriel GroupDocs.Conversion pour .NET"
 "url": "/fr/net/presentation-formats-features/convert-otg-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir OTG en PPT avec GroupDocs.Conversion pour .NET
 
 ## Introduction

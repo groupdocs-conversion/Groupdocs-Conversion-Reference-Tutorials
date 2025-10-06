@@ -4,8 +4,8 @@
 "title": "掌握 Java 中的檔案轉換－GroupDocs.Conversion 使用綜合指南"
 "url": "/zh-hant/java/document-operations/java-groupdocs-conversion-file-handling/"
 "weight": 1
+type: docs
 ---
-
 # 掌握 Java 中的檔案轉換：使用 GroupDocs.Conversion 的綜合指南
 
 ## 介紹

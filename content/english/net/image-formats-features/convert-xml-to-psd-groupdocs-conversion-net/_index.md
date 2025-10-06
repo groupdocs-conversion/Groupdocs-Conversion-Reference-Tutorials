@@ -8,10 +8,8 @@ keywords:
 - XML to PSD Conversion
 - GroupDocs.Conversion for .NET
 - .NET document conversion
-
+type: docs
 ---
-
-
 # Convert XML to PSD Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi DOCX sang SVG bằng GroupDocs.Conversion cho .NET - Hướng dẫn chuyển đổi hình ảnh"
 "url": "/vi/net/image-conversion/convert-docx-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp DOCX sang SVG bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

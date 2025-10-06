@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して Visio Web 図面 (VDW) を CSV に変換する方法"
 "url": "/ja/net/csv-structured-data-processing/convert-visio-web-drawings-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して Visio Web 図面 (VDW) を CSV に変換する方法
 
 ## 導入

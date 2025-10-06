@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tài liệu từ luồng trong Java bằng GroupDocs.Conversion"
 "url": "/vi/java/document-operations/convert-documents-streams-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tài liệu từ luồng trong Java bằng GroupDocs.Conversion
 
 ## Giới thiệu

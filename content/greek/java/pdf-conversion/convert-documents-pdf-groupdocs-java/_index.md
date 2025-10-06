@@ -4,8 +4,8 @@
 "title": "Μετατροπή εγγράφων σε PDF χρησιμοποιώντας το GroupDocs.Conversion for Java - Οδηγός βήμα προς βήμα"
 "url": "/el/java/pdf-conversion/convert-documents-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή εγγράφων σε PDF με το GroupDocs.Conversion για Java
 ## Πώς να μετατρέψετε έγγραφα σε PDF χρησιμοποιώντας το GroupDocs.Conversion: Ένας οδηγός βήμα προς βήμα
 ### Εισαγωγή

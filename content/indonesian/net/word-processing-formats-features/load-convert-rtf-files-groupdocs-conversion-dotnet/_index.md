@@ -4,8 +4,8 @@
 "title": "Memuat dan Mengonversi File RTF Secara Efisien Menggunakan GroupDocs.Conversion dalam .NET"
 "url": "/id/net/word-processing-formats-features/load-convert-rtf-files-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Memuat dan Mengonversi File RTF Secara Efisien Menggunakan GroupDocs.Conversion dalam .NET
 
 ## Perkenalan

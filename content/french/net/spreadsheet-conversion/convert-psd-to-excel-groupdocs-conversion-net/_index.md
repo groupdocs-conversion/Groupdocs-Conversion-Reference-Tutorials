@@ -4,8 +4,8 @@
 "title": "Convertir un fichier PSD en Excel à l'aide de GroupDocs.Conversion pour .NET - Un guide complet"
 "url": "/fr/net/spreadsheet-conversion/convert-psd-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des fichiers PSD en feuilles Excel avec GroupDocs.Conversion pour .NET
 
 ## Introduction

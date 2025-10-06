@@ -4,8 +4,8 @@
 "title": "แปลง PPTX เป็น PDF อย่างมีประสิทธิภาพด้วยสไลด์ที่ซ่อนอยู่ใน Java โดยใช้ GroupDocs.Conversion"
 "url": "/th/java/presentation-formats/convert-pptx-hidden-slides-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # แปลง PPTX ที่มีสไลด์ที่ซ่อนอยู่เป็น PDF ใน Java ได้อย่างง่ายดายโดยใช้ GroupDocs.Conversion
 
 ในยุคดิจิทัล การแปลงเอกสารนำเสนอเป็นรูปแบบที่เข้าถึงได้ทั่วไป เช่น PDF ถือเป็นข้อกำหนดทั่วไปสำหรับนักพัฒนา บทช่วยสอนนี้จะแนะนำคุณเกี่ยวกับโซลูชันที่มีประสิทธิภาพโดยใช้ **GroupDocs.การแปลงสำหรับ Java** เพื่อแปลงการนำเสนอ PowerPoint รวมถึงสไลด์ที่ซ่อนไว้เป็นรูปแบบ PDF

@@ -4,8 +4,8 @@
 "title": "Converteer OTG naar JPG met GroupDocs.Conversion.NET&#58; eenvoudige handleiding voor het converteren van afbeeldingen"
 "url": "/nl/net/image-conversion/convert-otg-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer OTG-bestanden naar JPG met GroupDocs.Conversion .NET
 
 ## Invoering

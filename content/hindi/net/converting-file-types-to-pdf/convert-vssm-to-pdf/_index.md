@@ -5,8 +5,8 @@
 "title": "VSSM को PDF में बदलें"
 "url": "/hi/net/converting-file-types-to-pdf/convert-vssm-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # VSSM को PDF में बदलें
 
 ## परिचय

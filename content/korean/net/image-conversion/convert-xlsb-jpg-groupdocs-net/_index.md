@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 XLSB를 JPG로 변환 | 단계별 가이드"
 "url": "/ko/net/image-conversion/convert-xlsb-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 XLSB를 JPG로 변환: 단계별 가이드
 
 Excel 바이너리 형식 파일(XLSB)을 JPG와 같은 시각적 형식으로 변환하는 것은 접근성과 이해도를 높이는 데 필수적입니다. 개발자든 비즈니스 전문가든 이 가이드는 GroupDocs.Conversion for .NET을 사용하여 XLSB 파일을 일련의 JPG 이미지로 변환하는 방법을 안내합니다.

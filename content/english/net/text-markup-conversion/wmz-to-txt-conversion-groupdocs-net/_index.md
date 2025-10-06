@@ -8,10 +8,8 @@ keywords:
 - WMZ to TXT conversion
 - GroupDocs.Conversion .NET
 - File format conversion in .NET
-
+type: docs
 ---
-
-
 # Efficient WMZ to TXT Conversion Using GroupDocs.Conversion for .NET: A Developer’s Guide
 
 ## Introduction

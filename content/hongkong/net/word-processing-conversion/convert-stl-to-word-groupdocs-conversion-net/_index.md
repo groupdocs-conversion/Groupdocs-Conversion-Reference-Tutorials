@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 STL 轉換為 Word — 逐步指南"
 "url": "/zh-hant/net/word-processing-conversion/convert-stl-to-word-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 STL 轉換為 Word：逐步指南
 ## 介紹
 在 3D 建模領域，立體光刻 (STL) 檔案至關重要。然而，有時您可能需要將這些文件轉換為更通用的格式，例如 Microsoft Word (DOC)。這種轉換對於報告目的或簡化協作尤其有用。 GroupDocs.Conversion for .NET 提供輕鬆且有效率的無縫轉換。

@@ -8,10 +8,8 @@ keywords:
 - convert VSDX to LaTeX
 - GroupDocs.Conversion for .NET
 - file conversion with GroupDocs
-
+type: docs
 ---
-
-
 # How to Convert VSDX Files to LaTeX (TEX) Using GroupDocs.Conversion for .NET
 
 ## Introduction

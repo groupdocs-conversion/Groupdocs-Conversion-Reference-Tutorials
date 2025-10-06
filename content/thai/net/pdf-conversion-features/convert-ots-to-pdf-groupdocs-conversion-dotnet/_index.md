@@ -4,8 +4,8 @@
 "title": "วิธีการแปลงไฟล์ OTS เป็น PDF โดยใช้ไลบรารี GroupDocs.Conversion .NET"
 "url": "/th/net/pdf-conversion-features/convert-ots-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการแปลงไฟล์ OTS เป็น PDF โดยใช้ GroupDocs.Conversion .NET
 
 ## การแนะนำ

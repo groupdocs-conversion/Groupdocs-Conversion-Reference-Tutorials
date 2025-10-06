@@ -4,8 +4,8 @@
 "title": "Полное руководство&#58; конвертация TXT в DOC с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/word-processing-conversion/convert-txt-doc-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Полное руководство: конвертация TXT в DOC с помощью GroupDocs.Conversion для .NET
 
 ## Введение

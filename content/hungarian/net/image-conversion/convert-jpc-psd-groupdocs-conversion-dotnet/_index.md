@@ -4,8 +4,8 @@
 "title": "JPC fájlok egyszerű PSD formátumba konvertálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/image-conversion/convert-jpc-psd-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # JPC konvertálása PSD-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

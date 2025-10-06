@@ -4,8 +4,8 @@
 "title": "掌握如何使用 GroupDocs.Conversion for .NET 将 Apple 邮件消息 (.emlx) 转换为 HTML"
 "url": "/zh/net/html-conversion/convert-emlx-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 掌握如何使用 GroupDocs.Conversion for .NET 将 Apple 邮件消息 (.emlx) 转换为 HTML
 
 ## 介绍

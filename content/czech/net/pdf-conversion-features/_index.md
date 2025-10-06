@@ -3,8 +3,8 @@
 "title": "Výukové programy pro převod PDF a funkce GroupDocs.Conversion .NET"
 "url": "/cs/net/pdf-conversion-features/"
 "weight": 9
+type: docs
 ---
-
 # Výukové programy pro převod PDF a funkce GroupDocs.Conversion .NET
 
 Naše tutoriály zaměřené na PDF poskytují komplexní návod pro práci s dokumenty PDF v aplikacích .NET. Tyto praktické průvodce ukazují, jak převádět různé formáty do PDF, převádět PDF do jiných formátů, srovnávat pole formulářů, skrývat anotace, odstraňovat vložené soubory, optimalizovat nastavení komprese PDF, řídit shodu s PDF/A, spravovat oprávnění dokumentů a zachovat hypertextové odkazy během převodu. Každý tutoriál obsahuje kompletní příklady kódu C# pro scénáře převodu PDF, které vám pomohou vytvářet aplikace, které využívají všechny funkce formátu PDF a zároveň zachovávají věrnost dokumentu.

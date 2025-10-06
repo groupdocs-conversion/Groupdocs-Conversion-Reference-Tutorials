@@ -5,8 +5,8 @@
 "title": "Převod typů souborů do PDF"
 "url": "/cs/net/converting-file-types-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Převod typů souborů do PDF
 
 ## Zavedení

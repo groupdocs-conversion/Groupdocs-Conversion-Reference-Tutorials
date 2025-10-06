@@ -4,8 +4,8 @@
 "title": "PowerPoint PPTX fájlok JPG formátumba konvertálása a GroupDocs.Conversion .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-powerpoint-pptx-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PowerPoint prezentációk konvertálása kiváló minőségű képekké a GroupDocs.Conversion .NET segítségével
 
 ## Bevezetés

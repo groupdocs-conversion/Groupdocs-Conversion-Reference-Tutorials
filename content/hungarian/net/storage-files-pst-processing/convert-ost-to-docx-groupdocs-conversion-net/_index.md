@@ -4,8 +4,8 @@
 "title": "OST fájlok DOCX formátumba konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/storage-files-pst-processing/convert-ost-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OST fájlok konvertálása DOCX formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

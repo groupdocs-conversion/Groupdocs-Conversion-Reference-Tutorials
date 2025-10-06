@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion .NET 将 WMF 文件转换为 SVG 综合指南"
 "url": "/zh/net/image-conversion/convert-wmf-svg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion .NET 将 WMF 文件转换为 SVG：综合指南
 
 在当今的数字世界中，高效的文件转换至关重要。无论您是处理图形资产的开发人员，还是管理各种格式的文档，无缝转换文件都能节省时间和资源。本教程将指导您使用 GroupDocs.Conversion for .NET 将 Windows 图元文件 (WMF) 转换为可缩放矢量图形 (SVG)。您将学习以下内容：

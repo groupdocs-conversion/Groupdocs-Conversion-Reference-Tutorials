@@ -4,8 +4,8 @@
 "title": "Как конвертировать файлы CMX в PDF с помощью GroupDocs.Conversion для .NET | Подробное руководство"
 "url": "/ru/net/pdf-conversion/convert-cmx-files-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Как конвертировать файлы CMX в PDF с помощью GroupDocs.Conversion для .NET
 
 ## Введение

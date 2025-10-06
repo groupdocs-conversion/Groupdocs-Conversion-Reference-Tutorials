@@ -4,8 +4,8 @@
 "title": "Konversi GIF ke TEX Menggunakan GroupDocs untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/image-conversion/gif-to-tex-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi GIF ke TEX Menggunakan GroupDocs untuk .NET: Panduan Lengkap
 
 ## Perkenalan

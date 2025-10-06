@@ -4,8 +4,8 @@
 "title": "Automatize a ocultação de alterações rastreadas na conversão de Word para PDF usando GroupDocs.Conversion para Java"
 "url": "/pt/java/conversion-options/automate-hide-tracked-changes-word-pdf-conversion-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Automatize a ocultação de alterações rastreadas na conversão de Word para PDF usando GroupDocs.Conversion para Java
 
 ## Introdução

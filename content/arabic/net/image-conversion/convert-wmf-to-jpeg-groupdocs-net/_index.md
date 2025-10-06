@@ -4,8 +4,8 @@
 "title": "تحويل WMF إلى JPEG بكفاءة باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/image-conversion/convert-wmf-to-jpeg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل WMF إلى JPEG بكفاءة باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

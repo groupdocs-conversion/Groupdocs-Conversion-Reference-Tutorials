@@ -4,8 +4,8 @@
 "title": "كيفية تحويل ملفات CGM إلى PDF باستخدام GroupDocs.Conversion .NET لمشاركة المستندات بسلاسة"
 "url": "/ar/net/pdf-conversion/convert-cgm-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل ملفات CGM إلى PDF باستخدام GroupDocs.Conversion .NET
 ## مقدمة
 هل تواجه صعوبة في تحويل ملفات رسومات الحاسوب (CGM) إلى صيغة المستندات المحمولة (PDF)؟ يُعد هذا تحديًا شائعًا في مجالات التصميم والهندسة والعمارة، حيث يُحسّن التحويل السلس للملفات الإنتاجية ومشاركة البيانات. سيرشدك هذا البرنامج التعليمي خلال عملية تحويل ملفات CGM إلى PDF باستخدام مكتبة GroupDocs.Conversion القوية في .NET.

@@ -8,10 +8,8 @@ keywords:
 - convert MOBI to PPT
 - GroupDocs.Conversion for .NET
 - MOBI to PowerPoint conversion
-
+type: docs
 ---
-
-
 # Convert MOBI to PPT Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 ## How to Use GroupDocs.Conversion for .NET to Convert MOBI Files to PPT
 

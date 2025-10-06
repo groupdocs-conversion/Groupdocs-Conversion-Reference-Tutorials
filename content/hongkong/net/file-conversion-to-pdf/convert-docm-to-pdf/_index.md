@@ -5,8 +5,8 @@
 "title": "將 DOCM Word 文件（巨集）轉換為 PDF"
 "url": "/zh-hant/net/file-conversion-to-pdf/convert-docm-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # 將 DOCM Word 文件（巨集）轉換為 PDF
 
 ## 介紹

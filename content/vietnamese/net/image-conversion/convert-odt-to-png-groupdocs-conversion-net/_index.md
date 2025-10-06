@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi tệp ODT sang PNG bằng GroupDocs.Conversion cho .NET (Hướng dẫn chuyển đổi hình ảnh)"
 "url": "/vi/net/image-conversion/convert-odt-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp ODT sang PNG bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

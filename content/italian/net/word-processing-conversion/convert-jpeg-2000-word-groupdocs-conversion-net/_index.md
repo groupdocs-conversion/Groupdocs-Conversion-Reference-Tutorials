@@ -4,8 +4,8 @@
 "title": "Convertire JPEG 2000 in Word&#58; guida passo passo utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/word-processing-conversion/convert-jpeg-2000-word-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire JPEG 2000 in Word: guida passo passo con GroupDocs.Conversion per .NET
 
 ## Introduzione

@@ -4,8 +4,8 @@
 "title": "Освоение преобразования файлов в C# с использованием GroupDocs.Conversion для .NET"
 "url": "/ru/net/document-output-saving/mastering-file-conversion-csharp-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Освоение преобразования файлов в C#: реализация GroupDocs.Conversion для .NET
 
 ## Введение

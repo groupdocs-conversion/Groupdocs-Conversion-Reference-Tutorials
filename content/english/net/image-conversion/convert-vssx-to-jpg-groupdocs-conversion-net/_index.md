@@ -8,10 +8,8 @@ keywords:
 - convert VSSX to JPG
 - GroupDocs.Conversion .NET
 - Visio Stencil files
-
+type: docs
 ---
-
-
 # Convert VSSX to JPG with GroupDocs.Conversion for .NET
 
 ## Introduction

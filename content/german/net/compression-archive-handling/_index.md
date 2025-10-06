@@ -3,8 +3,8 @@
 "title": "Tutorials zur Komprimierung und Archivverwaltung für GroupDocs.Conversion .NET"
 "url": "/de/net/compression-archive-handling/"
 "weight": 20
+type: docs
 ---
-
 # Tutorials zur Komprimierung und Archivverwaltung für GroupDocs.Conversion .NET
 
 Entdecken Sie die Verarbeitung von Archivformaten mit unseren GroupDocs.Conversion-Tutorials für .NET-Entwickler. Diese ausführlichen Anleitungen zeigen Ihnen, wie Sie komprimierte Formate wie RAR in andere Dokumenttypen konvertieren, Inhalte aus Archiven extrahieren, Konvertierungsergebnisse komprimieren, Dateien zum Extrahieren aus Archiven auswählen, passwortgeschützte Archive verwalten, mehrteilige Archive verwalten und selektive Dateiextraktion implementieren. Jedes Tutorial enthält praktische C#-Codebeispiele für die Arbeit mit komprimierten Dateien und unterstützt Sie beim Erstellen von Anwendungen, die effektiv auf Inhalte in verschiedenen Archivformaten zugreifen und diese transformieren können.

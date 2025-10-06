@@ -8,10 +8,8 @@ keywords:
 - convert docm to txt
 - groupdocs conversion for .net
 - text file processing
-
+type: docs
 ---
-
-
 # How to Convert a Microsoft Word Macro-Enabled Document (DOCM) to Plain Text (.txt) Using GroupDocs.Conversion for .NET
 
 ## Introduction

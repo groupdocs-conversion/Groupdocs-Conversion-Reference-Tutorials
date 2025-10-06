@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie DOT in PPT in .NET&#58; Master GroupDocs.Conversion für eine nahtlose Dokumenttransformation"
 "url": "/de/net/presentation-formats-features/convert-dot-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie DOT-Dateien mit GroupDocs.Conversion in .NET in PPT
 
 ## Einführung

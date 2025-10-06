@@ -4,8 +4,8 @@
 "title": "Konvertera GIF till XLS med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/spreadsheet-conversion/convert-gif-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera GIF till XLS med GroupDocs.Conversion för .NET
 
 ## Introduktion

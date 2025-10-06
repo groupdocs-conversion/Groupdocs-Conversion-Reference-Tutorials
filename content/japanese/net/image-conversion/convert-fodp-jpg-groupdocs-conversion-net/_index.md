@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET を使用した効率的な FODP から JPG への変換"
 "url": "/ja/net/image-conversion/convert-fodp-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET を使用した効率的な FODP から JPG への変換
 
 ## 導入

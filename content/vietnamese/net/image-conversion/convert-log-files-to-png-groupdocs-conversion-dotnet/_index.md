@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tệp LOG sang PNG bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/image-conversion/convert-log-files-to-png-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp LOG sang PNG bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

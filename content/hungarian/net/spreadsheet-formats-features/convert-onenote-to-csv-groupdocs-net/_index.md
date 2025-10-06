@@ -4,8 +4,8 @@
 "title": "OneNote CSV-vé konvertálása C#-ban a GroupDocs.Conversion for .NET használatával | Oktatóanyag"
 "url": "/hu/net/spreadsheet-formats-features/convert-onenote-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # OneNote CSV-vé konvertálása C#-ban a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

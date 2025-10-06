@@ -5,8 +5,8 @@
 "title": "PPTM को PDF में बदलें"
 "url": "/hi/net/pdf-conversion/convert-pptm-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # PPTM को PDF में बदलें
 
 ## परिचय

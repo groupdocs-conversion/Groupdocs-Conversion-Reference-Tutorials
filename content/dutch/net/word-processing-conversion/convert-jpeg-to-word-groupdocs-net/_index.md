@@ -4,8 +4,8 @@
 "title": "JPEG naar Word-document converteren met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/word-processing-conversion/convert-jpeg-to-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # JPEG-afbeeldingen converteren naar Word-documenten met GroupDocs.Conversion voor .NET
 
 ## Invoering

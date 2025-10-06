@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie MOBI-Dateien mit GroupDocs.Conversion für .NET in TXT – Eine Schritt-für-Schritt-Anleitung"
 "url": "/de/net/text-markup-conversion/convert-mobi-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie MOBI-Dateien mit GroupDocs.Conversion für .NET in TXT: Eine Schritt-für-Schritt-Anleitung
 
 ## Einführung

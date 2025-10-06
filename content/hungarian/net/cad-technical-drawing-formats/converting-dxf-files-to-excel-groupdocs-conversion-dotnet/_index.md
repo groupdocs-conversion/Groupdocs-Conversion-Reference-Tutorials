@@ -4,8 +4,8 @@
 "title": "DXF fájlok konvertálása Excelbe a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/cad-technical-drawing-formats/converting-dxf-files-to-excel-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # DXF fájlok konvertálása Excelbe a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

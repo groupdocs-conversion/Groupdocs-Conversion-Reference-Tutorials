@@ -8,10 +8,8 @@ keywords:
 - Convert Visio VSTM to LaTeX
 - GroupDocs.Conversion for .NET
 - VSTM to TEX conversion
-
+type: docs
 ---
-
-
 # Convert Visio Macro-Enabled Drawing Template (.vstm) to LaTeX Source Document (.tex) Using GroupDocs.Conversion for .NET
 
 ## Introduction

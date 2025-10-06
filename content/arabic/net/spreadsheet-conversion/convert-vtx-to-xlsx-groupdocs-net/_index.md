@@ -4,8 +4,8 @@
 "title": "تحويل VTX إلى XLSX بكفاءة باستخدام GroupDocs لـ .NET | البرنامج التعليمي"
 "url": "/ar/net/spreadsheet-conversion/convert-vtx-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل VTX إلى XLSX بكفاءة باستخدام GroupDocs لـ .NET
 
 ## مقدمة

@@ -4,8 +4,8 @@
 "title": "แปลง PLT เป็น DOC คำแนะนำทีละขั้นตอนโดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/word-processing-conversion/convert-plt-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลง PLT เป็น DOC: คำแนะนำทีละขั้นตอนโดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

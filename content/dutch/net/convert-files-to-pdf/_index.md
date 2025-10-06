@@ -5,8 +5,8 @@
 "title": "Bestanden naar PDF converteren"
 "url": "/nl/net/convert-files-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Bestanden naar PDF converteren
 
 ## Invoering

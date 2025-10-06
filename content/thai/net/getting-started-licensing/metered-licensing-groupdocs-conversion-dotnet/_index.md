@@ -4,8 +4,8 @@
 "title": "ใช้งานการออกใบอนุญาตแบบมิเตอร์ด้วย GroupDocs.Conversion สำหรับ .NET&#58; คู่มือฉบับสมบูรณ์"
 "url": "/th/net/getting-started-licensing/metered-licensing-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # การนำระบบออกใบอนุญาตแบบมิเตอร์มาใช้กับ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

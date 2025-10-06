@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Master PDF Font Substitution in .NET with GroupDocs.Conversion
 
 Ensuring consistent typography during document conversion is vital. This comprehensive guide demonstrates using GroupDocs.Conversion for .NET to manage font substitutions effectively when converting documents to PDF.

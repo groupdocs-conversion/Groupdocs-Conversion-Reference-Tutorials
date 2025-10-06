@@ -4,8 +4,8 @@
 "title": "EMF konvertálása XLSX-re a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/spreadsheet-conversion/convert-emf-to-xlsx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # EMF konvertálása XLSX-re a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

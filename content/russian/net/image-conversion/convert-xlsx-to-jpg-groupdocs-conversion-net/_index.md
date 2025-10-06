@@ -4,8 +4,8 @@
 "title": "Конвертируйте XLSX в JPG с помощью GroupDocs.Conversion для .NET. Подробное руководство"
 "url": "/ru/net/image-conversion/convert-xlsx-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте файлы XLSX в JPG с помощью GroupDocs.Conversion для .NET
 
 ## Введение

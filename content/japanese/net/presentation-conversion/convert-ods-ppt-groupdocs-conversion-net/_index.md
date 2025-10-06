@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET を使用して ODS を PPT に変換する手順"
 "url": "/ja/net/presentation-conversion/convert-ods-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET を使用して ODS を PPT に変換する: ステップバイステップガイド
 ## 導入
 データを視覚的に提示したり、会議用にスプレッドシートを準備したりする必要がある場合、オープンドキュメントスプレッドシート（ODS）ファイルをPowerPointプレゼンテーション（PPT）形式に変換することは不可欠です。このガイドでは、GroupDocs.Conversion .NETを使用してこの変換をスムーズに行う方法について説明します。

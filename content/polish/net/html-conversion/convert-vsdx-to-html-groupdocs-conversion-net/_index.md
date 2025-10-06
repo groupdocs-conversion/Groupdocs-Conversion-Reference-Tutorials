@@ -4,8 +4,8 @@
 "title": "Konwersja VSDX do HTML za pomocą GroupDocs.Conversion dla .NET&#58; Przewodnik krok po kroku"
 "url": "/pl/net/html-conversion/convert-vsdx-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj pliki VSDX do HTML za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

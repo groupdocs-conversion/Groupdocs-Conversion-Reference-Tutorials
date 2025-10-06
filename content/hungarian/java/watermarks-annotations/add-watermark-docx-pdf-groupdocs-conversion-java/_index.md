@@ -4,8 +4,8 @@
 "title": "Vízjel hozzáadása DOCX-hez és PDF-be konvertálása a GroupDocs.Conversion for Java segítségével"
 "url": "/hu/java/watermarks-annotations/add-watermark-docx-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Vízjel hozzáadása a dokumentumhoz a GroupDocs.Conversion for Java használatával
 
 A mai digitális világban kulcsfontosságú a dokumentumok védelme a jogosulatlan felhasználással szemben. Akár bizalmas információkat oszt meg, akár egyszerűen csak márkát szeretne a dokumentumaira kenni, a vízjel hozzáadása hatékony megoldás lehet. Ebben az oktatóanyagban végigvezetjük a használat folyamatán. **GroupDocs.Conversion Java-hoz** vízjel hozzáadása DOCX fájl PDF-be konvertálásakor.

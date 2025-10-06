@@ -4,8 +4,8 @@
 "title": "HTML naar XLSX converteren met GroupDocs.Conversion.NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/spreadsheet-formats-features/convert-html-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # HTML naar XLSX converteren met GroupDocs.Conversion .NET: een uitgebreide handleiding
 
 ## Invoering

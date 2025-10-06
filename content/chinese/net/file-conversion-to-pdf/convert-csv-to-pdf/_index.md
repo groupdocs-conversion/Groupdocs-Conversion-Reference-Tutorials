@@ -5,8 +5,8 @@
 "title": "将 CSV 数据文件转换为 PDF"
 "url": "/zh/net/file-conversion-to-pdf/convert-csv-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # 将 CSV 数据文件转换为 PDF
 
 ## 介绍

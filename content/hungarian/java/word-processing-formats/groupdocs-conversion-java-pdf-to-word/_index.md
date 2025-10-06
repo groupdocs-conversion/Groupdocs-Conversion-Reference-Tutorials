@@ -4,8 +4,8 @@
 "title": "Hatékony PDF-Word konvertálás a GroupDocs.Conversion Java API használatával"
 "url": "/hu/java/word-processing-formats/groupdocs-conversion-java-pdf-to-word/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony PDF-Word konvertálás a GroupDocs.Conversion Java API használatával
 
 ## Bevezetés

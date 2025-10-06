@@ -8,10 +8,8 @@ keywords:
 - convert JLS to DOC
 - GroupDocs.Conversion for .NET
 - Jpeg Lossless Image File conversion
-
+type: docs
 ---
-
-
 # How to Convert JLS to DOC with GroupDocs.Conversion for .NET
 
 ## Introduction

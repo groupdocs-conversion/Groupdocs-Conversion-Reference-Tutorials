@@ -4,8 +4,8 @@
 "title": "วิธีการแปลงไฟล์ XLSX ที่มี Hidden Sheets เป็น PDF โดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/spreadsheet-formats-features/convert-xlsx-hidden-sheets-to-pdf-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการแปลงไฟล์ XLSX ที่มี Hidden Sheets เป็น PDF โดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

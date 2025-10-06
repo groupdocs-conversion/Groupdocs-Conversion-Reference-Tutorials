@@ -4,8 +4,8 @@
 "title": "Uitgebreide handleiding&#58; ODS naar DOC converteren met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/spreadsheet-formats-features/master-ods-to-doc-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Uitgebreide handleiding: ODS naar DOC converteren met GroupDocs.Conversion voor .NET
 
 Wilt u uw OpenDocument Spreadsheet (ODS)-bestanden naadloos converteren naar Microsoft Word-documenten? Met **GroupDocs.Conversion voor .NET**, wordt deze taak een fluitje van een cent. Deze uitgebreide gids leidt u stap voor stap door het proces.

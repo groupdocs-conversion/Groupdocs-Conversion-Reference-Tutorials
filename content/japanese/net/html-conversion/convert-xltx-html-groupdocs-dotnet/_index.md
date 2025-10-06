@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して XLTX を HTML に変換する包括的なガイド"
 "url": "/ja/net/html-conversion/convert-xltx-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して XLTX を HTML に変換する: 包括的なガイド
 
 ## 導入

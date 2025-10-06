@@ -4,8 +4,8 @@
 "title": "DWFX fájlok PNG formátumba konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-formats-features/convert-dwfx-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DWFX fájlok PNG formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

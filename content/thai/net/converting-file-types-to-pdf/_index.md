@@ -5,8 +5,8 @@
 "title": "การแปลงประเภทไฟล์เป็น PDF"
 "url": "/th/net/converting-file-types-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # การแปลงประเภทไฟล์เป็น PDF
 
 ## การแนะนำ

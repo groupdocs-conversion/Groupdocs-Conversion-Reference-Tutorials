@@ -8,10 +8,8 @@ keywords:
 - Convert PowerPoint to CSV
 - GroupDocs.Conversion for .NET
 - PPT to CSV conversion
-
+type: docs
 ---
-
-
 # Convert PowerPoint to CSV Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -5,8 +5,8 @@
 "title": "Converter JPX para PDF"
 "url": "/pt/net/document-conversion/convert-jpx-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # Converter JPX para PDF
 
 ## Introdução

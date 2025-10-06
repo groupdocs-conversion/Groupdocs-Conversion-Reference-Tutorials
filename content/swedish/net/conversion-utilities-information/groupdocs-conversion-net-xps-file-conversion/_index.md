@@ -4,8 +4,8 @@
 "title": "Konvertera XPS till PDF och andra format med GroupDocs.Conversion .NET"
 "url": "/sv/net/conversion-utilities-information/groupdocs-conversion-net-xps-file-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera XPS till PDF och andra format med GroupDocs.Conversion .NET
 
 ## Introduktion

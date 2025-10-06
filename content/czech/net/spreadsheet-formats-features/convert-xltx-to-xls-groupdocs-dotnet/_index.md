@@ -4,8 +4,8 @@
 "title": "Převod XLTX na XLS pomocí GroupDocs pro .NET – Komplexní průvodce"
 "url": "/cs/net/spreadsheet-formats-features/convert-xltx-to-xls-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod XLTX na XLS pomocí GroupDocs pro .NET: Komplexní průvodce
 
 ## Zavedení

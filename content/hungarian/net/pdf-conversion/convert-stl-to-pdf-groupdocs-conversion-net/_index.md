@@ -4,8 +4,8 @@
 "title": "STL fájlok PDF-be konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/pdf-conversion/convert-stl-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # STL fájlok PDF-be konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -5,8 +5,8 @@
 "title": "Konversi File Model 3D IGS ke PDF"
 "url": "/id/net/convert-files-to-pdf/convert-igs-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # Konversi File Model 3D IGS ke PDF
 
 ## Perkenalan

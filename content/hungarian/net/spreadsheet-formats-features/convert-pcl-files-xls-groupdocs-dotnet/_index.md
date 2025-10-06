@@ -4,8 +4,8 @@
 "title": "PCL konvertálása XLS-be a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-pcl-files-xls-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # PCL konvertálása XLS-be a GroupDocs.Conversion for .NET használatával: Teljes körű útmutató
 
 ## Bevezetés

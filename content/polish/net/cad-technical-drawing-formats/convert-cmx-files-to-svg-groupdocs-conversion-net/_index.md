@@ -4,8 +4,8 @@
 "title": "Konwertuj CMX do SVG w prosty sposób, używając GroupDocs.Conversion dla .NET"
 "url": "/pl/net/cad-technical-drawing-formats/convert-cmx-files-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj CMX do SVG w prosty sposób, używając GroupDocs.Conversion dla .NET
 
 ## Wstęp

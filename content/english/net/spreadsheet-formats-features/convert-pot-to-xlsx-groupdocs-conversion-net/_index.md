@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # How to Convert a POT File to an XLSX File Using GroupDocs.Conversion for .NET
 
 ## Introduction

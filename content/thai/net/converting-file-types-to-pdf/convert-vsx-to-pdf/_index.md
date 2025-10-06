@@ -5,8 +5,8 @@
 "title": "แปลง VSX เป็น PDF"
 "url": "/th/net/converting-file-types-to-pdf/convert-vsx-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # แปลง VSX เป็น PDF
 
 ## การแนะนำ

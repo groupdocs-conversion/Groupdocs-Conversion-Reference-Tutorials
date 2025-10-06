@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用した JPEG 2000 から Word への変換手順"
 "url": "/ja/net/word-processing-conversion/convert-jpeg-2000-word-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # JPEG 2000 を Word に変換する: GroupDocs.Conversion for .NET を使用したステップバイステップガイド
 
 ## 導入

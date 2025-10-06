@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将 XLTX 转换为 PPT — 分步指南"
 "url": "/zh/net/presentation-formats-features/convert-xltx-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将 XLTX 转换为 PPT：分步指南
 
 ## 介绍

@@ -8,10 +8,8 @@ keywords:
 - convert ICO to PDF with GroupDocs
 - GroupDocs.Conversion for .NET
 - PDF conversion guide
-
+type: docs
 ---
-
-
 # Convert ICO to PDF Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

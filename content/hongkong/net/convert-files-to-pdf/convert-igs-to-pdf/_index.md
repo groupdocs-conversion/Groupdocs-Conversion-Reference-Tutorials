@@ -5,8 +5,8 @@
 "title": "將IGS 3D模型檔案轉換為PDF"
 "url": "/zh-hant/net/convert-files-to-pdf/convert-igs-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # 將IGS 3D模型檔案轉換為PDF
 
 ## 介紹

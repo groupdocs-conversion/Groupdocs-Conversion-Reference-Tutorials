@@ -4,8 +4,8 @@
 "title": "Uitgebreide handleiding&#58; BMP naar PDF converteren met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/pdf-conversion/convert-bmp-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Uitgebreide handleiding: BMP naar PDF converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

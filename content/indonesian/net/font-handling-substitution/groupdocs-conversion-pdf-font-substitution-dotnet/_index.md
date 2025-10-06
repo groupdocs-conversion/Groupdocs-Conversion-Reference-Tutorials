@@ -4,8 +4,8 @@
 "title": "Kuasai Penggantian Font PDF di .NET dengan GroupDocs.Conversion&#58; Panduan Lengkap"
 "url": "/id/net/font-handling-substitution/groupdocs-conversion-pdf-font-substitution-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Kuasai Penggantian Font PDF di .NET dengan GroupDocs.Conversion
 
 Memastikan tipografi yang konsisten selama konversi dokumen sangatlah penting. Panduan lengkap ini menunjukkan penggunaan GroupDocs.Conversion for .NET untuk mengelola penggantian font secara efektif saat mengonversi dokumen ke PDF.

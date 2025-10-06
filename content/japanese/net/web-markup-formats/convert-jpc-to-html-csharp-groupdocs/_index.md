@@ -4,8 +4,8 @@
 "title": "C# と GroupDocs.Conversion for .NET を使用して JPC ファイルを HTML に変換する"
 "url": "/ja/net/web-markup-formats/convert-jpc-to-html-csharp-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して JPC ファイルを HTML に変換する方法
 
 ## 導入

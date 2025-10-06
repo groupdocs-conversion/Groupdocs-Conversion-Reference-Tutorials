@@ -4,8 +4,8 @@
 "title": "MHTML konvertálása HTML-be a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/web-markup-formats/convert-mhtml-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MHTML konvertálása HTML-be a GroupDocs.Conversion for .NET használatával
 ## Bevezetés
 A mai digitális korban a webes tartalmak hatékony konvertálása kulcsfontosságú a fejlesztők és a vállalkozások számára. Az MHTML fájlok univerzálisan hozzáférhető HTML formátumba konvertálása elengedhetetlen az e-mailek archiválásához vagy a weboldalak megőrzéséhez. Ez az átfogó útmutató végigvezeti Önt a GroupDocs.Conversion for .NET használatán, hogy könnyedén elvégezhesse ezt a feladatot.

@@ -4,8 +4,8 @@
 "title": "Converter VSD para PNG usando GroupDocs.Conversion para .NET - Um guia passo a passo"
 "url": "/pt/net/image-conversion/convert-vsdx-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converter VSD para PNG usando GroupDocs.Conversion para .NET: um guia passo a passo
 
 ## Introdução

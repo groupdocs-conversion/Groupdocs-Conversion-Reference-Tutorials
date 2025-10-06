@@ -5,8 +5,8 @@
 "title": "PS를 PDF로 변환"
 "url": "/ko/net/file-format-conversion-tutorials/convert-ps-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # PS를 PDF로 변환
 
 ## 소개

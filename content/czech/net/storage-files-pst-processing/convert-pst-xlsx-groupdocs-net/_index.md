@@ -4,8 +4,8 @@
 "title": "Převod souborů PST z Outlooku do formátu Excel XLSX pomocí nástroje GroupDocs.Conversion pro .NET"
 "url": "/cs/net/storage-files-pst-processing/convert-pst-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů PST z Outlooku do formátu Excel XLSX pomocí nástroje GroupDocs.Conversion pro .NET
 
 ## Zavedení

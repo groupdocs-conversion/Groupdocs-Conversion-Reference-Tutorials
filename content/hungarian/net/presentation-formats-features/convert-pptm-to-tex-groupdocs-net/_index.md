@@ -4,8 +4,8 @@
 "title": "Hogyan konvertálhatunk PPTM-et TEX-be a GroupDocs.Conversion for .NET használatával?"
 "url": "/hu/net/presentation-formats-features/convert-pptm-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhatunk PPTM-et TEX-be a GroupDocs.Conversion for .NET használatával?
 
 ## Bevezetés

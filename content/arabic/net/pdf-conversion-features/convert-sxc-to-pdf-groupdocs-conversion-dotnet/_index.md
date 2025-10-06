@@ -4,8 +4,8 @@
 "title": "حوّل ملفات SXC إلى PDF بسهولة باستخدام GroupDocs.Conversion لـ .NET | الدليل الشامل"
 "url": "/ar/net/pdf-conversion-features/convert-sxc-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ملفات SXC إلى PDF بسهولة باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

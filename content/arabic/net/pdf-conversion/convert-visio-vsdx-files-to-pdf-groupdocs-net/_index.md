@@ -4,8 +4,8 @@
 "title": "تحويل ملفات Visio VSD إلى PDF باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/pdf-conversion/convert-visio-vsdx-files-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ملفات Visio (VSD) إلى PDF باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

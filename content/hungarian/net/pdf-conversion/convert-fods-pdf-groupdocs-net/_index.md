@@ -4,8 +4,8 @@
 "title": "FODS konvertálása PDF-be a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/pdf-conversion/convert-fods-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # FODS konvertálása PDF-be a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

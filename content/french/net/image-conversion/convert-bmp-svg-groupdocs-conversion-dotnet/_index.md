@@ -4,8 +4,8 @@
 "title": "Convertir des fichiers BMP en SVG dans .NET avec GroupDocs.Conversion pour des transformations d'images fluides"
 "url": "/fr/net/image-conversion/convert-bmp-svg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des fichiers BMP en SVG dans .NET avec GroupDocs.Conversion pour des transformations d'images fluides
 
 ## Introduction

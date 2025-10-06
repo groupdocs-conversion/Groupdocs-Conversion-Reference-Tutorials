@@ -5,8 +5,8 @@
 "title": "ONEをPDFに変換"
 "url": "/ja/net/pdf-conversion/convert-one-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # ONEをPDFに変換
 
 ## 導入

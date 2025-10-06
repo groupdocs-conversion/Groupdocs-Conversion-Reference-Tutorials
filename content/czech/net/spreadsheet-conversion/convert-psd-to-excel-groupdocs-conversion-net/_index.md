@@ -4,8 +4,8 @@
 "title": "Převod PSD do Excelu pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/spreadsheet-conversion/convert-psd-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů PSD do excelových tabulek pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

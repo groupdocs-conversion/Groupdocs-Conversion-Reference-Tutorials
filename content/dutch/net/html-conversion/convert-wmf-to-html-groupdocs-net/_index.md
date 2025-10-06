@@ -4,8 +4,8 @@
 "title": "WMF-bestanden naar HTML converteren met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/html-conversion/convert-wmf-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # WMF-bestanden naar HTML converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

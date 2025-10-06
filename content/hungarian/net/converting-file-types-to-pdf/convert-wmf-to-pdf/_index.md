@@ -5,8 +5,8 @@
 "title": "WMF konvertálása PDF-be"
 "url": "/hu/net/converting-file-types-to-pdf/convert-wmf-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # WMF konvertálása PDF-be
 
 ## Bevezetés

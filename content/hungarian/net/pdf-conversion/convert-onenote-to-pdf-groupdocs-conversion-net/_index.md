@@ -4,8 +4,8 @@
 "title": "OneNote fájlok konvertálása PDF-be a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/pdf-conversion/convert-onenote-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OneNote fájlok PDF-be konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

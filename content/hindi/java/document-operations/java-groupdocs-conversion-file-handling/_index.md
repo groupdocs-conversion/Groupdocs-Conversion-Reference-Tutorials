@@ -4,8 +4,8 @@
 "title": "Java में मास्टर फ़ाइल रूपांतरण&#58; GroupDocs.Conversion का उपयोग करने के लिए एक व्यापक गाइड"
 "url": "/hi/java/document-operations/java-groupdocs-conversion-file-handling/"
 "weight": 1
+type: docs
 ---
-
 # जावा में फ़ाइल रूपांतरण में महारत हासिल करना: GroupDocs.Conversion का उपयोग करने के लिए एक व्यापक गाइड
 
 ## परिचय

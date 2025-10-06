@@ -4,8 +4,8 @@
 "title": "Chuyển đổi FODP sang HTML bằng GroupDocs.Conversion cho .NET - Hướng dẫn đầy đủ"
 "url": "/vi/net/html-conversion/convert-fodp-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi FODP sang HTML bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

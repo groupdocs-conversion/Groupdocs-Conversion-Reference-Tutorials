@@ -5,8 +5,8 @@
 "title": "將 VSD 轉換為 PDF"
 "url": "/zh-hant/net/file-format-conversion-tutorials/convert-vsd-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # 將 VSD 轉換為 PDF
 
 ## 介紹

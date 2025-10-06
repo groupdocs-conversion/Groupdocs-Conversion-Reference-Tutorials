@@ -5,8 +5,8 @@
 "title": "Chuyển đổi VST sang PDF"
 "url": "/vi/net/converting-file-types-to-pdf/convert-vst-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # Chuyển đổi VST sang PDF
 
 ## Giới thiệu

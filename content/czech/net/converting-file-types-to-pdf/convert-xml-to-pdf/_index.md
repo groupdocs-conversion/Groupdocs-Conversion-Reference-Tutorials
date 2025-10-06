@@ -5,8 +5,8 @@
 "title": "Převod XML do PDF"
 "url": "/cs/net/converting-file-types-to-pdf/convert-xml-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # Převod XML do PDF
 
 ## Zavedení

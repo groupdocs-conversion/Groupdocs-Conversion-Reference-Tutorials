@@ -5,8 +5,8 @@
 "title": "แปลงไฟล์การสร้างแบบจำลองข้อมูลอาคาร IFC เป็น PDF"
 "url": "/th/net/convert-files-to-pdf/convert-ifc-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # แปลงไฟล์การสร้างแบบจำลองข้อมูลอาคาร IFC เป็น PDF
 
 ## การแนะนำ

@@ -4,8 +4,8 @@
 "title": "DICOM'u GroupDocs.Conversion for .NET ile PDF'ye Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/pdf-conversion/convert-dicom-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # DICOM'u .NET için GroupDocs.Conversion Kullanarak PDF'ye Dönüştürme
 ## giriiş
 Tıbbi görüntüleme alanında, Dijital Görüntüleme ve Tıpta İletişim (DICOM) dosyaları esastır. Bu görüntüleri meta verilerini koruyarak paylaşmak genellikle PDF gibi daha erişilebilir bir biçime dönüştürmeyi gerektirir. **GroupDocs.Conversion .NET için** bu süreci etkili bir şekilde basitleştirir. Bu eğitimde, DICOM dosyalarını GroupDocs.Conversion kitaplığını kullanarak PDF'lere nasıl dönüştüreceğinizi göstereceğiz.

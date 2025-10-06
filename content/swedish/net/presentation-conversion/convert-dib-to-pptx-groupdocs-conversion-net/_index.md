@@ -4,8 +4,8 @@
 "title": "Konvertera DIB till PowerPoint med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/presentation-conversion/convert-dib-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera DIB-filer till PowerPoint-presentationer med GroupDocs.Conversion för .NET
 
 ## Introduktion

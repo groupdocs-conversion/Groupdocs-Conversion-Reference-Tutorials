@@ -8,10 +8,8 @@ keywords:
 - PDF to Word conversion
 - GroupDocs.Conversion .NET
 - document management with GroupDocs
-
+type: docs
 ---
-
-
 # Mastering PDF to Word Conversion with GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Převod PSD do HTML pomocí GroupDocs.Conversion pro .NET – Průvodce vývojáře"
 "url": "/cs/net/web-markup-formats/convert-psd-html-net-developers-guide/"
 "weight": 1
+type: docs
 ---
-
 # Převod PSD do HTML pomocí GroupDocs.Conversion v .NET: Průvodce pro vývojáře
 
 ## Zavedení

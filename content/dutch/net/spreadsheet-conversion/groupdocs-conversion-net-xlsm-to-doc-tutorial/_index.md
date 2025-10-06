@@ -4,8 +4,8 @@
 "title": "Hoe XLSM-bestanden naar DOC converteren met GroupDocs.Conversion voor .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/spreadsheet-conversion/groupdocs-conversion-net-xlsm-to-doc-tutorial/"
 "weight": 1
+type: docs
 ---
-
 # XLSM-bestanden naar DOC converteren met GroupDocs.Conversion voor .NET: een stapsgewijze handleiding
 
 ## Invoering

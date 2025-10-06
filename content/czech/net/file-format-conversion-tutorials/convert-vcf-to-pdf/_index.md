@@ -5,8 +5,8 @@
 "title": "Převod VCF do PDF"
 "url": "/cs/net/file-format-conversion-tutorials/convert-vcf-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # Převod VCF do PDF
 
 ## Zavedení

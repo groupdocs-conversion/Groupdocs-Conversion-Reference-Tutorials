@@ -4,8 +4,8 @@
 "title": "如何在 .NET 中使用 GroupDocs.Conversion 將 POTM 轉換為 XLSX（2023 指南）"
 "url": "/zh-hant/net/spreadsheet-conversion/convert-potm-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何在 .NET 中使用 GroupDocs.Conversion 將 POTM 轉換為 XLSX（2023 指南）
 
 ## 介紹

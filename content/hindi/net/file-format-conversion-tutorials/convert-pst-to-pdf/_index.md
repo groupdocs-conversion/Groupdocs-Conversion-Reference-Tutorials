@@ -5,8 +5,8 @@
 "title": "पीएसटी को पीडीएफ में बदलें"
 "url": "/hi/net/file-format-conversion-tutorials/convert-pst-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # पीएसटी को पीडीएफ में बदलें
 
 ## परिचय

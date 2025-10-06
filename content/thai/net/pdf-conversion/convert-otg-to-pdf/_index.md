@@ -5,8 +5,8 @@
 "title": "แปลง OTG เป็น PDF"
 "url": "/th/net/pdf-conversion/convert-otg-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # แปลง OTG เป็น PDF
 
 ## การแนะนำ

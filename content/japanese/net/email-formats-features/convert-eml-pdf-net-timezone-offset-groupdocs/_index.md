@@ -4,8 +4,8 @@
 "title": "タイムゾーンオフセットを使用して.NETでEMLをPDFに変換する方法：GroupDocs.Conversionを使用した包括的なガイド"
 "url": "/ja/net/email-formats-features/convert-eml-pdf-net-timezone-offset-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # タイムゾーンオフセット付きで.NETでEMLをPDFに変換する：GroupDocs.Conversionを使用した包括的なガイド
 ## 導入
 正確なタイムゾーン情報を維持しながら、メール文書（EML）をPDFに変換する確実な方法をお探しですか？アーカイブ、共有、コンプライアンスなど、あらゆる用途に対応するこのチュートリアルでは、GroupDocs.Conversion for .NETライブラリの使い方を解説します。タイムゾーンオフセットなどの高度な機能を簡単に実装する方法も習得できます。

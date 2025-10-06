@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi Halaman Tertentu dari Dokumen ke PDF Menggunakan GroupDocs.Conversion untuk Java"
 "url": "/id/java/pdf-conversion/convert-specific-pages-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi Halaman Tertentu dari Dokumen ke PDF Menggunakan GroupDocs.Conversion untuk Java
 
 Di era digital saat ini, mengonversi dokumen secara efisien dan efektif sangat penting bagi bisnis dan individu. Baik Anda membagikan bagian tertentu dari laporan atau menyusun halaman tertentu menjadi satu file PDF, memiliki alat yang tepat dapat membuat semua perbedaan. Panduan ini akan memandu Anda menggunakan **GroupDocs.Conversion untuk Java** untuk mengonversi halaman tertentu dari suatu dokumen ke dalam format PDF. Mari kita bahas!

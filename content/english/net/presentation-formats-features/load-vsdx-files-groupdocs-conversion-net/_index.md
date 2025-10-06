@@ -8,10 +8,8 @@ keywords:
 - VSDX conversion .NET
 - load VSDX files .NET
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # How to Load and Convert VSDX Files Using GroupDocs.Conversion .NET
 
 ## Introduction

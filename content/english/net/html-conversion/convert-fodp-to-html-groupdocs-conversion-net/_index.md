@@ -8,10 +8,8 @@ keywords:
 - FODP to HTML conversion
 - GroupDocs.Conversion .NET
 - OpenDocument Flat XML Presentation conversion
-
+type: docs
 ---
-
-
 # Convert FODP to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Jelszóval védett Word-dokumentumok HTML-lé konvertálása Java használatával (lépésről lépésre útmutató)"
 "url": "/hu/java/word-processing-formats/convert-password-protected-word-to-html-java/"
 "weight": 1
+type: docs
 ---
-
 # Jelszóval védett Word-dokumentumok HTML-be konvertálása Java használatával
 
 ## Bevezetés

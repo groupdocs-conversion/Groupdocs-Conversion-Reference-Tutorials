@@ -4,8 +4,8 @@
 "title": "BMP képek konvertálása PSD formátumba a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/convert-bmp-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Képkonverzió elsajátítása: BMP képek konvertálása PSD formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

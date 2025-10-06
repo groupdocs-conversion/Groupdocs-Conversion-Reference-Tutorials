@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 ODS 無縫轉換為 DOCX"
 "url": "/zh-hant/net/word-processing-formats-features/convert-ods-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 ODS 轉換為 DOCX
 
 ## 介紹

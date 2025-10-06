@@ -4,8 +4,8 @@
 "title": "Конвертируйте VSS в DOCX с помощью GroupDocs.Conversion для .NET&#58; пошаговое руководство"
 "url": "/ru/net/word-processing-conversion/convert-vss-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертация VSS в DOCX с помощью GroupDocs.Conversion для .NET: пошаговое руководство
 
 Добро пожаловать в наше подробное руководство по преобразованию файлов трафаретов Visio (VSS) в документы Microsoft Word Open XML (DOCX) с использованием **GroupDocs.Конвертация для .NET**. Это руководство призвано помочь вам преодолеть трудности с преобразованием форматов файлов, в частности из VSS в DOCX. Следуйте каждому шагу, чтобы без проблем реализовать это решение.

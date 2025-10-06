@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion을 사용하여 Java에서 텍스트 문서 처리 마스터하기&#58; 원활한 인코딩 및 PDF 변환"
 "url": "/ko/java/word-processing-formats/master-text-document-handling-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용하여 Java에서 텍스트 문서 처리 마스터하기
 
 ## 소개

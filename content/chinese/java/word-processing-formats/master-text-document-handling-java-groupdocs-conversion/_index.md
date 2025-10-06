@@ -4,8 +4,8 @@
 "title": "掌握 Java 中的文本文档处理——使用 GroupDocs.Conversion 实现无缝编码和 PDF 转换"
 "url": "/zh/java/word-processing-formats/master-text-document-handling-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 掌握 Java 中的文本文档处理
 
 ## 介绍

@@ -8,10 +8,8 @@ keywords:
 - convert EML to PPTX
 - GroupDocs.Conversion for .NET
 - file conversion .NET
-
+type: docs
 ---
-
-
 # Efficiently Convert EML to PPTX Using GroupDocs.Conversion for .NET
 
 ## Introduction

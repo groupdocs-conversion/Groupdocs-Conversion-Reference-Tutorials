@@ -4,8 +4,8 @@
 "title": "XLTM konvertálása PSD-vé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-xl-tm-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # XLTM konvertálása PSD-vé a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

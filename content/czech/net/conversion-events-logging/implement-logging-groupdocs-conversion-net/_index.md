@@ -4,8 +4,8 @@
 "title": "Implementace protokolování v GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/conversion-events-logging/implement-logging-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak implementovat protokolování událostí GroupDocs.Conversion v .NET: Komplexní průvodce
 
 ## Zavedení

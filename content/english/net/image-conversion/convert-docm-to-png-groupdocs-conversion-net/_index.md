@@ -8,10 +8,8 @@ keywords:
 - DOCX to PNG conversion
 - using GroupDocs.Conversion for .NET
 - C# DOCM to PNG
-
+type: docs
 ---
-
-
 # Convert DOCM to PNG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

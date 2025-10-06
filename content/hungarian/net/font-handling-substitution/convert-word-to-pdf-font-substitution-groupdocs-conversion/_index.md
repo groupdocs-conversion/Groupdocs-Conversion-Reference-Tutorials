@@ -4,8 +4,8 @@
 "title": "Word konvertálása PDF-be betűtípus-helyettesítéssel a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/font-handling-substitution/convert-word-to-pdf-font-substitution-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Word dokumentumok konvertálása PDF-be betűtípus-helyettesítéssel a GroupDocs.Conversion for .NET használatával
 ## Bevezetés
 Word-dokumentumok PDF-be konvertálása gyakran inkonzisztens betűtípusokhoz vezet, ami formázási problémákat okoz. Ez az útmutató leegyszerűsíti a betűtípusok egységességének biztosítását a GroupDocs.Conversion for .NET használatával. Ismerje meg, hogyan állíthat be betöltési beállításokat a betűtípus-helyettesítéshez, és hogyan konvertálhatja zökkenőmentesen Word-dokumentumait PDF formátumba a vizuális hűség megőrzése mellett.

@@ -5,8 +5,8 @@
 "title": "GIF画像をPDFに変換する"
 "url": "/ja/net/convert-files-to-pdf/convert-gif-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # GIF画像をPDFに変換する
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "Chuyển đổi TXT sang PPTX dễ dàng với GroupDocs.Conversion .NET"
 "url": "/vi/net/presentation-conversion/convert-txt-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp TXT sang PPTX dễ dàng với GroupDocs.Conversion .NET
 
 ## Giới thiệu

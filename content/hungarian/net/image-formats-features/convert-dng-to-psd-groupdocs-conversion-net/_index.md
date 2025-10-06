@@ -4,8 +4,8 @@
 "title": "DNG konvertálása PSD-vé a GroupDocs.Conversion for .NET segítségével – lépésről lépésre útmutató"
 "url": "/hu/net/image-formats-features/convert-dng-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DNG konvertálása PSD-vé a GroupDocs.Conversion for .NET segítségével: lépésről lépésre útmutató
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "แปลง Visio VSD เป็นข้อความใน C# โดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/text-file-processing/convert-visio-files-to-text-groupdocs-conversion-csharp/"
 "weight": 1
+type: docs
 ---
-
 # แปลงไฟล์ Visio VSD เป็นข้อความด้วย GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

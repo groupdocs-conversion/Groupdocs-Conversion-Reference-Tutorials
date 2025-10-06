@@ -4,8 +4,8 @@
 "title": "FODS DOCX formátumba konvertálása a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/word-processing-formats-features/convert-fods-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # FODS konvertálása DOCX formátumba a GroupDocs.Conversion for .NET segítségével: Átfogó útmutató
 
 ## Bevezetés

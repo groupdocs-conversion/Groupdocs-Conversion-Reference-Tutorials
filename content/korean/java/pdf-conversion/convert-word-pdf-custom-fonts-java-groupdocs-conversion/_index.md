@@ -4,8 +4,8 @@
 "title": "Java에서 사용자 정의 글꼴을 사용하여 Word를 PDF로 변환&#58; GroupDocs.Conversion을 사용한 완벽한 가이드"
 "url": "/ko/java/pdf-conversion/convert-word-pdf-custom-fonts-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Java에서 사용자 정의 글꼴을 사용하여 Word 문서를 PDF로 변환: GroupDocs.Conversion을 사용한 완벽한 가이드
 
 ## 소개

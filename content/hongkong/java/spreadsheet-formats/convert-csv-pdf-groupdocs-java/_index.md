@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 Java 中將 CSV 轉換為 PDF™ 逐步指南"
 "url": "/zh-hant/java/spreadsheet-formats/convert-csv-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 Java 中將 CSV 轉換為 PDF：綜合教程
 
 ## 介紹

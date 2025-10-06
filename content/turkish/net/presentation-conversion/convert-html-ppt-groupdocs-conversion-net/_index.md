@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanarak HTML'yi PowerPoint'e Dönüştürme - Adım Adım Kılavuz"
 "url": "/tr/net/presentation-conversion/convert-html-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion ile HTML'yi PowerPoint'e dönüştürün
 
 ## giriiş

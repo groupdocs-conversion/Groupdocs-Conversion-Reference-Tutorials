@@ -5,8 +5,8 @@
 "title": "Chuyển đổi ODS sang PDF"
 "url": "/vi/net/document-conversion/convert-ods-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # Chuyển đổi ODS sang PDF
 
 ## Giới thiệu

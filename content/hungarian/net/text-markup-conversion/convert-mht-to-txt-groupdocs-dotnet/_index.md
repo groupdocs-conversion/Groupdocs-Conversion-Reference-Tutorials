@@ -4,8 +4,8 @@
 "title": "MHT konvertálása TXT-vé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/text-markup-conversion/convert-mht-to-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # MHT konvertálása TXT-vé a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Guía completa para convertir PDF a PPTX con GroupDocs.Conversion para .NET"
 "url": "/es/net/pdf-conversion-features/convert-pdf-to-pptx-groupdocs-dotnet-tutorial/"
 "weight": 1
+type: docs
 ---
-
 # Guía completa para convertir PDF a PPTX con GroupDocs.Conversion para .NET
 
 ## Introducción

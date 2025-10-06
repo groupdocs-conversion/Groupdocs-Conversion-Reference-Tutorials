@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して PowerPoint テンプレート (.pot) を LaTeX に変換する"
 "url": "/ja/net/presentation-formats-features/convert-pot-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して PowerPoint テンプレート (.pot) を LaTeX に変換する
 ## 導入
 今日のデジタル時代において、ドキュメント形式をシームレスに変換することは、生産性を維持し、情報へのアクセス性を確保するために不可欠です。様々なファイル変換機能をアプリケーションに統合したい開発者の方でも、個人利用のために変換が必要な方でも、適切なツールを見つけるのは容易ではありません。そこで、ファイル形式の変換を簡素化する強力なライブラリ、GroupDocs.Conversion for .NET の登場です。

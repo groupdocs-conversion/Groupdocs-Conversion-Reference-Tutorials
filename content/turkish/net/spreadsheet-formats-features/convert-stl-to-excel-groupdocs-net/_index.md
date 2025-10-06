@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET ile STL'yi Excel'e Dönüştürme | Adım Adım Kılavuz"
 "url": "/tr/net/spreadsheet-formats-features/convert-stl-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET ile STL'yi Excel'e Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

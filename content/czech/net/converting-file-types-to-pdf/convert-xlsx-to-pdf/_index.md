@@ -5,8 +5,8 @@
 "title": "Převod XLSX do PDF"
 "url": "/cs/net/converting-file-types-to-pdf/convert-xlsx-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Převod XLSX do PDF
 
 ## Zavedení

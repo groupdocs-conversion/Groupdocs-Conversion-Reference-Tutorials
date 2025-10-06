@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for Java を使用して Word から PDF への変換時にコメントを非表示にする"
 "url": "/ja/java/pdf-conversion/hide-comments-word-pdf-conversion-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for Java を使用して Word から PDF への変換時にコメントを非表示にする
 
 今日の急速に進化するデジタル世界では、Word文書をPDFに変換することは多くのプロフェッショナルにとって日常的な作業となっています。しかし、これらの文書に機密性の高いコメントや変更履歴が含まれている場合、注釈のないクリーンなPDFが望ましい場合があります。このチュートリアルでは、GroupDocs.Conversion for Javaを使用して、変換中にコメントをシームレスに非表示にする方法について説明します。

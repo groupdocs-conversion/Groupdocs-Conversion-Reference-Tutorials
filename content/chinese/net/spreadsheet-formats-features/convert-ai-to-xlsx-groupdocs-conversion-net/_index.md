@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将 AI 文件转换为 XLSX 综合指南"
 "url": "/zh/net/spreadsheet-formats-features/convert-ai-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将 AI 文件转换为 XLSX：综合指南
 
 ## 介绍

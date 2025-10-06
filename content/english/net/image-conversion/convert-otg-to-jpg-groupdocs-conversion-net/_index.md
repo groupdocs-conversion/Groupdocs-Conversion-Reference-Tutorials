@@ -8,10 +8,8 @@ keywords:
 - convert OTG to JPG
 - GroupDocs.Conversion .NET
 - image conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert OTG Files to JPG Using GroupDocs.Conversion .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi tệp MHT sang tài liệu Word bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/word-processing-conversion/convert-mht-to-word-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp MHT sang tài liệu Word bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

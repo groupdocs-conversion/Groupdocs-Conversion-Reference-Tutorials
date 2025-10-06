@@ -4,8 +4,8 @@
 "title": "Chuyển đổi IGES sang PDF bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/loading-from-remote-sources/convert-igs-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp IGES sang PDF bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

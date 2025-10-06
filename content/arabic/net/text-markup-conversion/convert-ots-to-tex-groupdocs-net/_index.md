@@ -4,8 +4,8 @@
 "title": "تحويل فعال من OTS إلى TEX باستخدام GroupDocs.Conversion لـ .NET - دليل كامل"
 "url": "/ar/net/text-markup-conversion/convert-ots-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل فعال من OTS إلى TEX باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

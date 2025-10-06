@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して PST を Word 文書に効率的に変換する"
 "url": "/ja/net/word-processing-conversion/convert-pst-to-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用した PST ファイルの Word 文書への効率的な変換
 
 ## 導入

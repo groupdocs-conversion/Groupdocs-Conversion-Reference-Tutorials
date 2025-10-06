@@ -4,8 +4,8 @@
 "title": "Автоматизируйте преобразование электронных таблиц в PDF в Java с помощью GroupDocs.Conversion"
 "url": "/ru/java/pdf-conversion/automate-spreadsheet-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Автоматизируйте преобразование электронных таблиц в PDF в Java с помощью GroupDocs.Conversion
 
 ## Введение

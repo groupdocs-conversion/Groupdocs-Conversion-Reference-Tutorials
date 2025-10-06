@@ -4,8 +4,8 @@
 "title": "Jak převést FODS do JPG pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/image-conversion/convert-fods-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést FODS do JPG pomocí GroupDocs.Conversion pro .NET: Komplexní průvodce
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "Konversi VCF ke PPT Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/presentation-conversion/convert-vcf-ppt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konversi File VCF ke PowerPoint dengan GroupDocs.Conversion untuk .NET
 ## Perkenalan
 Menyajikan informasi kontak yang disimpan dalam file VCF dapat menjadi tantangan selama rapat. Mengonversi file-file ini ke dalam format PowerPoint (PPT) meningkatkan visualisasi dan berbagi data. Panduan lengkap ini akan memandu Anda mengonversi file VCF ke PPT menggunakan GroupDocs.Conversion for .NET, yang memungkinkan kemampuan presentasi yang efisien.

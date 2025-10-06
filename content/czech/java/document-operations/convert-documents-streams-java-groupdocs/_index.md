@@ -4,8 +4,8 @@
 "title": "Převod dokumentů ze streamů v Javě pomocí GroupDocs.Conversion"
 "url": "/cs/java/document-operations/convert-documents-streams-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Převod dokumentů ze streamů v Javě pomocí GroupDocs.Conversion
 
 ## Zavedení

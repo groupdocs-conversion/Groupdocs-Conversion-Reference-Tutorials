@@ -4,8 +4,8 @@
 "title": "TIFF fájlok PowerPoint formátumba konvertálása a GroupDocs.Conversion for .NET segítségével – lépésről lépésre útmutató"
 "url": "/hu/net/presentation-conversion/convert-tif-ppt-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # TIFF fájlok PowerPoint formátumba konvertálása a GroupDocs.Conversion for .NET segítségével: Átfogó útmutató
 
 ## Bevezetés

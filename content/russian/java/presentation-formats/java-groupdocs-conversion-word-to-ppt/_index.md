@@ -4,8 +4,8 @@
 "title": "Учебник по Java&#58; преобразование документов Word в PowerPoint с помощью GroupDocs.Conversion для Java"
 "url": "/ru/java/presentation-formats/java-groupdocs-conversion-word-to-ppt/"
 "weight": 1
+type: docs
 ---
-
 # Учебник по Java: преобразование документов Word в PowerPoint с помощью GroupDocs.Conversion для Java
 
 ## Введение

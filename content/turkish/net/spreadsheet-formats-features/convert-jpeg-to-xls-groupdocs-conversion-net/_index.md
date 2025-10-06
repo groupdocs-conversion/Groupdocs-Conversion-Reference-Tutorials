@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak JPEG'i XLS'e Verimli Şekilde Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/spreadsheet-formats-features/convert-jpeg-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak JPEG'i XLS'e Verimli Şekilde Dönüştürün: Adım Adım Kılavuz
 
 ## giriiş

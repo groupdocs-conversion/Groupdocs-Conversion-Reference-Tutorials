@@ -4,8 +4,8 @@
 "title": "Πώς να μετατρέψετε αρχεία LOG σε CSV χρησιμοποιώντας το GroupDocs.Conversion για .NET® - Ένας οδηγός βήμα προς βήμα"
 "url": "/el/net/csv-structured-data-processing/convert-log-file-to-csv-using-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε αρχεία LOG σε CSV χρησιμοποιώντας το GroupDocs.Conversion για .NET: Οδηγός βήμα προς βήμα
 
 ## Εισαγωγή

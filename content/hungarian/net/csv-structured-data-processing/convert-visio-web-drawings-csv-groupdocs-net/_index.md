@@ -4,8 +4,8 @@
 "title": "Visio Web Drawings (VDW) fájlok konvertálása CSV formátumba a .NET-hez készült GroupDocs.Conversion segítségével"
 "url": "/hu/net/csv-structured-data-processing/convert-visio-web-drawings-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Visio Web Drawings (VDW) fájlok konvertálása CSV formátumba a .NET-hez készült GroupDocs.Conversion segítségével
 
 ## Bevezetés

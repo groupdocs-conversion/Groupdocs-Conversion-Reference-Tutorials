@@ -4,8 +4,8 @@
 "title": "JPEG 2000 (JPM) fájlok konvertálása PNG formátumba a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/image-conversion/convert-jpm-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # JPEG 2000 (JPM) fájlok konvertálása PNG formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie MBOX-Dateien mit GroupDocs.Conversion für .NET in TXT | Leitfaden zur Konvertierung von E-Mail-Formaten"
 "url": "/de/net/email-formats-features/convert-mbox-to-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie MBOX-Dateien mit GroupDocs.Conversion für .NET in TXT
 
 ## Einführung

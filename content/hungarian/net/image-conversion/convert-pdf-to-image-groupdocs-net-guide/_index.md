@@ -4,8 +4,8 @@
 "title": "PDF konvertálása képpé a GroupDocs.Conversion .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-pdf-to-image-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # PDF konvertálása képpé a GroupDocs.Conversion .NET használatával: Átfogó útmutató
 
 ## Bevezetés

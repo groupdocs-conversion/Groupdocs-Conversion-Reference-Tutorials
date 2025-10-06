@@ -8,10 +8,8 @@ keywords:
 - convert JPEG to DOC
 - GroupDocs.Conversion for .NET
 - image-to-document conversion
-
+type: docs
 ---
-
-
 # Convert JPEG to DOC with GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

@@ -5,8 +5,8 @@
 "title": "Fájlformátum-konverzió"
 "url": "/hu/net/file-format-conversion-tutorials/"
 "weight": 21
+type: docs
 ---
-
 # Fájlformátum-konverzió
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "SVGZ fájlok PowerPoint formátumba konvertálása a GroupDocs.Conversion for .NET segítségével | Lépésről lépésre útmutató"
 "url": "/hu/net/presentation-formats-features/convert-svgz-to-ppt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # SVGZ fájlok konvertálása PowerPoint formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

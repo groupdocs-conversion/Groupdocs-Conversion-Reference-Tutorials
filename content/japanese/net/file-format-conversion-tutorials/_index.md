@@ -5,8 +5,8 @@
 "title": "ファイル形式の変換"
 "url": "/ja/net/file-format-conversion-tutorials/"
 "weight": 21
+type: docs
 ---
-
 # ファイル形式の変換
 
 ## 導入

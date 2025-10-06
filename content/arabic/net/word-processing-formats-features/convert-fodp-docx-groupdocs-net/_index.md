@@ -4,8 +4,8 @@
 "title": "تحويل FODP إلى DOCX باستخدام GroupDocs.Conversion لـ .NET - دليل خطوة بخطوة"
 "url": "/ar/net/word-processing-formats-features/convert-fodp-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل FODP إلى DOCX باستخدام GroupDocs.Conversion لـ .NET: دليل خطوة بخطوة
 
 مرحبًا بكم في دليلنا الشامل لتحويل ملفات العروض التقديمية بتنسيق XML المسطح (FODP) إلى مستندات Microsoft Word Open XML (DOCX) باستخدام مكتبة GroupDocs.Conversion القوية. إذا كنت تتعامل مع ملفات العروض التقديمية وتحتاجها بتنسيق يسهل الوصول إليه عالميًا مثل DOCX، فهذا الدليل هو ما تحتاجه تمامًا.

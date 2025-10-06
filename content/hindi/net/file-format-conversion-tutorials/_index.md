@@ -5,8 +5,8 @@
 "title": "फ़ाइल प्रारूप रूपांतरण"
 "url": "/hi/net/file-format-conversion-tutorials/"
 "weight": 21
+type: docs
 ---
-
 # फ़ाइल प्रारूप रूपांतरण
 
 ## परिचय

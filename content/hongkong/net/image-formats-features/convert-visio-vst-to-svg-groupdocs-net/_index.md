@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 將 Visio 繪圖範本 (.vst) 轉換為 SVG"
 "url": "/zh-hant/net/image-formats-features/convert-visio-vst-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將 Visio 繪圖範本 (.vst) 轉換為 SVG
 
 ## 介紹

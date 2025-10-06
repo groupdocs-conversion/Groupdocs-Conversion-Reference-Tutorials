@@ -4,8 +4,8 @@
 "title": "WEBP'yi, E-Tablo Dönüştürme için GroupDocs.Conversion .NET Kullanarak XLSX'e Dönüştürme"
 "url": "/tr/net/spreadsheet-conversion/convert-webp-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # WEBP'yi GroupDocs.Conversion .NET Kullanarak XLSX'e Dönüştürme
 
 ## giriiş

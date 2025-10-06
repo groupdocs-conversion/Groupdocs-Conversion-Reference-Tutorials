@@ -4,8 +4,8 @@
 "title": "Az Excelből LaTeX-be konvertálás automatizálása a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/spreadsheet-formats-features/groupdocs-conversion-net-excel-to-latex/"
 "weight": 1
+type: docs
 ---
-
 # Excel-makrók automatizálása LaTeX-be a GroupDocs segítségével
 
 ## Bevezetés

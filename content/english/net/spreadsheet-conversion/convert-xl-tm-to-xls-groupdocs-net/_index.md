@@ -8,10 +8,8 @@ keywords:
 - convert XLTM to XLS
 - GroupDocs.Conversion for .NET
 - XLTM file conversion
-
+type: docs
 ---
-
-
 # Convert XLTM to XLS Using GroupDocs.Conversion for .NET
 
 ## Introduction

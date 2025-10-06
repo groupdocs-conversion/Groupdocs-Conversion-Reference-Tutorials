@@ -4,8 +4,8 @@
 "title": "Jak převést JPF do XLS pomocí GroupDocs.Conversion pro .NET | Výukový program pro převod tabulek"
 "url": "/cs/net/spreadsheet-conversion/convert-jpf-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést JPF do XLS pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

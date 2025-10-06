@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 電子表格轉換教程"
 "url": "/zh-hant/net/spreadsheet-conversion/"
 "weight": 30
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 電子表格轉換教程
 
 透過我們的 GroupDocs.Conversion .NET 教程，學習如何將文件轉換為可編輯的電子表格格式。這些詳細的指南示範如何將 PDF、Word、HTML、影像和其他格式轉換為 XLS、XLSX、CSV、ODS 等格式。探索如何保留計算和公式、維護單元格格式、處理多表文檔、管理頁眉和頁腳以及控制資料類型轉換的技巧。每個教學課程都包含可運行的 C# 程式碼範例，展示如何建立能夠準確呈現來源內容並支援資料分析和操作的電子表格文件。

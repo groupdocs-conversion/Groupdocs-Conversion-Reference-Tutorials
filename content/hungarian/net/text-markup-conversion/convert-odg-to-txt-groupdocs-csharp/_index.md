@@ -4,8 +4,8 @@
 "title": "ODG konvertálása TXT-vé C#-ban a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/text-markup-conversion/convert-odg-to-txt-groupdocs-csharp/"
 "weight": 1
+type: docs
 ---
-
 # ODG konvertálása TXT-vé C#-ban a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion — samouczki wprowadzające i licencjonowania dla programistów .NET"
 "url": "/pl/net/getting-started-licensing/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion — samouczki wprowadzające i licencjonowania dla programistów .NET
 
 Rozpocznij swoją podróż od tych niezbędnych samouczków GroupDocs.Conversion, które przeprowadzą Cię przez instalację, konfigurację licencjonowania i wykonywanie pierwszych konwersji dokumentów w .NET. Nasze przyjazne dla początkujących przewodniki pokazują, jak skonfigurować środowisko programistyczne, zainicjować bibliotekę GroupDocs.Conversion, skonfigurować licencję z pliku lub strumienia, skonfigurować licencjonowanie mierzone i wdrożyć podstawowe operacje konwersji przy użyciu standardowych i płynnych interfejsów API. Skorzystaj z tych samouczków, aby szybko opanować podstawy i przygotować się do bardziej zaawansowanych zadań konwersji dokumentów w aplikacjach .NET.

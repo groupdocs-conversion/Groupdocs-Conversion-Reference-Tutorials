@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 有效率地將 PPSM 轉換為 PPTX — 逐步指南"
 "url": "/zh-hant/net/presentation-formats-features/convert-ppsm-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 PPSM 高效轉換為 PPTX：逐步指南
 
 ## 介紹

@@ -4,8 +4,8 @@
 "title": "แปลง EML เป็น PDF ใน .NET พร้อม Timezone Offset คำแนะนำที่ครอบคลุมโดยใช้ GroupDocs.Conversion"
 "url": "/th/net/email-formats-features/convert-eml-pdf-net-timezone-offset-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # แปลง EML เป็น PDF ใน .NET พร้อม Timezone Offset: คู่มือฉบับสมบูรณ์โดยใช้ GroupDocs.Conversion
 ## การแนะนำ
 ต้องการวิธีที่เชื่อถือได้ในการแปลงเอกสารอีเมล (EML) เป็น PDF พร้อมรักษาข้อมูลโซนเวลาที่ถูกต้องหรือไม่ ไม่ว่าจะเพื่อการเก็บถาวร การแบ่งปัน หรือการปฏิบัติตามข้อกำหนด บทช่วยสอนนี้จะแนะนำคุณตลอดการใช้ไลบรารี GroupDocs.Conversion สำหรับ .NET ที่ทรงพลัง คุณจะได้เรียนรู้วิธีการใช้คุณสมบัติขั้นสูง เช่น การชดเชยโซนเวลาได้อย่างง่ายดาย

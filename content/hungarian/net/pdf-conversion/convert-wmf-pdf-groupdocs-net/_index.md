@@ -4,8 +4,8 @@
 "title": "WMF egyszerű PDF-fájlba konvertálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/pdf-conversion/convert-wmf-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # WMF fájlok egyszerű konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

@@ -3,8 +3,8 @@
 "title": "Samouczki dotyczące zarządzania stronami i manipulacji treścią dla GroupDocs.Conversion .NET"
 "url": "/pl/net/page-management-content-manipulation/"
 "weight": 7
+type: docs
 ---
-
 # Samouczki dotyczące zarządzania stronami i manipulacji treścią dla GroupDocs.Conversion .NET
 
 Poznaj zaawansowane możliwości kontroli treści dzięki naszym kompleksowym samouczkom GroupDocs.Conversion dla .NET. Te praktyczne przewodniki pokazują, jak konwertować określone strony lub zakresy stron, przetwarzać kolejne sekwencje stron, dodawać znaki wodne tekstowe lub graficzne do dokumentów wyjściowych, wdrażać numerację stron, manipulować pozycjonowaniem treści i stosować różne ulepszenia wizualne podczas konwersji. Każdy samouczek zawiera szczegółowe przykłady kodu C# dla scenariuszy manipulacji treścią, pomagając w tworzeniu aplikacji, które mogą inteligentnie przetwarzać treść dokumentu, a nie tylko konwertować całe pliki.

@@ -5,8 +5,8 @@
 "title": "Konvertera XLSX till PDF"
 "url": "/sv/net/converting-file-types-to-pdf/convert-xlsx-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Konvertera XLSX till PDF
 
 ## Introduktion

@@ -4,8 +4,8 @@
 "title": "Jak efektivně převést soubory Excel XLT pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/spreadsheet-formats-features/efficiently-convert-excel-xlt-files-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak efektivně převést soubory Excel XLT pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

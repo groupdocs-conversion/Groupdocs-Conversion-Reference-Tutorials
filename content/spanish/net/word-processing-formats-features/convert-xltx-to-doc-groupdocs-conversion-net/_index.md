@@ -4,8 +4,8 @@
 "title": "Convertir una plantilla de Excel (.xltx) a un documento de Word (DOC) con GroupDocs.Conversion para .NET"
 "url": "/es/net/word-processing-formats-features/convert-xltx-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir una plantilla de Excel (.xltx) a un documento de Word (DOC) con GroupDocs.Conversion para .NET
 ## Introducción
 Bienvenido a esta guía completa sobre cómo convertir un archivo de plantilla de Excel (.xltx) a un documento de Word (DOC) con la potente biblioteca GroupDocs.Conversion para .NET. Esta solución es esencial en los flujos de trabajo de gestión documental, ya que permite una integración fluida de plantillas ricas en datos con documentos de texto.

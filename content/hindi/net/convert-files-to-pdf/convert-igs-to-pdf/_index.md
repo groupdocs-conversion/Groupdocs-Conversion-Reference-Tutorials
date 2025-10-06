@@ -5,8 +5,8 @@
 "title": "IGS 3D मॉडल फ़ाइलों को PDF में बदलें"
 "url": "/hi/net/convert-files-to-pdf/convert-igs-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # IGS 3D मॉडल फ़ाइलों को PDF में बदलें
 
 ## परिचय

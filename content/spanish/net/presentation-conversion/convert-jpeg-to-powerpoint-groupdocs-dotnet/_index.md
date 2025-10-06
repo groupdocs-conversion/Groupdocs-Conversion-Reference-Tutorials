@@ -4,8 +4,8 @@
 "title": "Convierta JPEG a PowerPoint con GroupDocs.Conversion para .NET&#58; guía paso a paso"
 "url": "/es/net/presentation-conversion/convert-jpeg-to-powerpoint-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir JPEG a PowerPoint con GroupDocs.Conversion para .NET
 
 ## Introducción

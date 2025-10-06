@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak SVGZ'yi HTML'ye Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/web-markup-formats/convert-svgz-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak SVGZ'yi HTML'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

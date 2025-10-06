@@ -4,8 +4,8 @@
 "title": "Μετατροπή STL σε PowerPoint σε .NET χρησιμοποιώντας το GroupDocs.Conversion®&#58; Ένας οδηγός βήμα προς βήμα"
 "url": "/el/net/presentation-formats-features/convert-stl-to-powerpoint-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή STL σε PowerPoint με το GroupDocs.Conversion .NET
 
 ## Εισαγωγή

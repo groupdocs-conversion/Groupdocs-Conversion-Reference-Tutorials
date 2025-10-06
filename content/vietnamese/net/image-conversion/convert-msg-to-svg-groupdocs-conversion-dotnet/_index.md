@@ -4,8 +4,8 @@
 "title": "Chuyển đổi MSG sang SVG với GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/image-conversion/convert-msg-to-svg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi MSG sang SVG với GroupDocs.Conversion cho .NET: Hướng dẫn toàn diện
 
 ## Giới thiệu

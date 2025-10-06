@@ -8,10 +8,8 @@ keywords:
 - Visio VSTM to PowerPoint conversion
 - GroupDocs.Conversion for .NET tutorial
 - convert Visio templates to presentations
-
+type: docs
 ---
-
-
 # How to Convert Visio VSTM to PowerPoint Using GroupDocs.Conversion for .NET
 
 ## Introduction

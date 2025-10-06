@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用して、非表示スライドを含む .NET PDF 変換をマスターする"
 "url": "/ja/net/pdf-conversion-features/net-pdf-conversion-groupdocs-hidden-slides/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion を使用して、非表示スライドを含む .NET PDF 変換をマスターする
 
 ## 導入

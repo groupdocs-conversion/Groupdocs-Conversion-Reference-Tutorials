@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 XLT 轉換為 HTML™ 逐步指南"
 "url": "/zh-hant/net/html-conversion/convert-xlt-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將 XLT 檔案轉換為 HTML
 
 ## 介紹

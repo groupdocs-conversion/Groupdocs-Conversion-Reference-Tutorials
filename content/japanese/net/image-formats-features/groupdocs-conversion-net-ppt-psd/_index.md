@@ -4,8 +4,8 @@
 "title": "PowerPoint を Photoshop に変換するには、GroupDocs.Conversion の .NET PPT から PSD への変換が必須です。"
 "url": "/ja/net/image-formats-features/groupdocs-conversion-net-ppt-psd/"
 "weight": 1
+type: docs
 ---
-
 # PowerPoint を Photoshop に変換: .NET PPT から PSD への変換には GroupDocs.Conversion をマスターしましょう
 
 ## 導入

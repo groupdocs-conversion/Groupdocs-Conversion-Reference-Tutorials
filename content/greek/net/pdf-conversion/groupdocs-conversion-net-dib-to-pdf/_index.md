@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή DIB σε PDF χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/pdf-conversion/groupdocs-conversion-net-dib-to-pdf/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική μετατροπή DIB σε PDF με το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

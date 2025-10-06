@@ -4,8 +4,8 @@
 "title": "使用 .NET 中的 GroupDocs 將 MSG 轉換為 PDF 的綜合指南"
 "url": "/zh-hant/net/pdf-conversion/convert-msg-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 .NET 中的 GroupDocs 將 MSG 轉換為 PDF：綜合指南
 
 ## 介紹

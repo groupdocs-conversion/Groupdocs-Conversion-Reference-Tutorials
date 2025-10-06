@@ -8,10 +8,8 @@ keywords:
 - convert J2C to PowerPoint
 - GroupDocs.Conversion .NET tutorial
 - JPEG 2000 to PowerPoint conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert J2C to PowerPoint Using GroupDocs.Conversion .NET
 
 ## Introduction

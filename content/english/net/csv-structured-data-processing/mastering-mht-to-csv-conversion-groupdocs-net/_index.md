@@ -8,10 +8,8 @@ keywords:
 - MHT to CSV conversion
 - GroupDocs.Conversion for .NET
 - file path management in .NET
-
+type: docs
 ---
-
-
 # Guide to Converting MHT Files to CSV Using GroupDocs.Conversion for .NET
 
 ## Introduction

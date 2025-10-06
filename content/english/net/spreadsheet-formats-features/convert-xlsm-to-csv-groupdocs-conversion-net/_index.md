@@ -8,10 +8,8 @@ keywords:
 - XLSM to CSV conversion
 - GroupDocs.Conversion for .NET
 - C# file handling
-
+type: docs
 ---
-
-
 # Efficiently Convert XLSM to CSV Using GroupDocs.Conversion for .NET in C#
 
 ## Introduction

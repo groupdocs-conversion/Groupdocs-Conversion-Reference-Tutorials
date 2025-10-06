@@ -4,8 +4,8 @@
 "title": "Microsoft Project sablonok (.MPT) PDF formátumba konvertálása a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/pdf-conversion-features/convert-mpt-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Microsoft Project sablonok (.MPT) konvertálása PDF formátumba a GroupDocs.Conversion for .NET használatával
 ## Bevezetés
 Nehezen tudja megosztani vagy archiválni Microsoft Project-sablonjait? Megoldást jelenthet, ha univerzálisan hozzáférhető formátumba, például PDF-be konvertálja őket. Ebben az átfogó útmutatóban bemutatjuk, hogyan konvertálhatja könnyedén MPT-fájljait PDF-fájlokká a robusztus GroupDocs.Conversion .NET-hez készült könyvtár segítségével. Ez az oktatóanyag segít egyszerűsíteni a dokumentummegosztást és biztosítani a kompatibilitást a különböző platformok között.

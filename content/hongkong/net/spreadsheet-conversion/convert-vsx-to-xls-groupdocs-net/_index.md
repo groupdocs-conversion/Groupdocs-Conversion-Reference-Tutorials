@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中有效地將 VSX 轉換為 XLS"
 "url": "/zh-hant/net/spreadsheet-conversion/convert-vsx-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 .NET 中有效地將 VSX 轉換為 XLS
 
 ## 介紹

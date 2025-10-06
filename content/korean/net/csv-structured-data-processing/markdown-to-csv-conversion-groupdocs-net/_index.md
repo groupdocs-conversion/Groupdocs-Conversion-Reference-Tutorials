@@ -4,8 +4,8 @@
 "title": ".NET 개발자를 위한 GroupDocs를 사용한 효율적인 마크다운에서 CSV로의 변환"
 "url": "/ko/net/csv-structured-data-processing/markdown-to-csv-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET 개발자를 위한 GroupDocs를 사용한 효율적인 마크다운에서 CSV로의 변환
 ## 소개
 마크다운 파일을 CSV 형식으로 변환하여 데이터 처리를 간소화하고 싶으신가요? 변환 `.md` 파일을 `.csv` 텍스트 기반 콘텐츠를 구성하고 분석하는 능력을 크게 향상시킬 수 있습니다. 이 가이드에서는 다음 방법을 안내합니다. **.NET용 GroupDocs.Conversion** 이러한 변화를 손쉽게 달성할 수 있습니다.

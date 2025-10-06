@@ -4,8 +4,8 @@
 "title": "PostScript (PS) fájlok egyszerű szöveggé konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/text-markup-conversion/convert-ps-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PostScript (PS) fájlok egyszerű szöveggé konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

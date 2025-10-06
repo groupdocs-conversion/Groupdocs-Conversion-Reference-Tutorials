@@ -5,8 +5,8 @@
 "title": "Převod TEXu do PDF"
 "url": "/cs/net/file-format-conversion-tutorials/convert-tex-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # Převod TEXu do PDF
 
 ## Zavedení

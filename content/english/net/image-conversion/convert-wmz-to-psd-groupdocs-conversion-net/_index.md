@@ -8,10 +8,8 @@ keywords:
 - WMZ to PSD conversion
 - GroupDocs.Conversion .NET
 - file format conversion
-
+type: docs
 ---
-
-
 # How to Convert WMZ Files to PSD Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

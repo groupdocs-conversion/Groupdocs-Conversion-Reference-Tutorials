@@ -4,8 +4,8 @@
 "title": "تحويل فعال من TXT إلى PNG باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/image-conversion/txt-to-png-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل فعال من TXT إلى PNG باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

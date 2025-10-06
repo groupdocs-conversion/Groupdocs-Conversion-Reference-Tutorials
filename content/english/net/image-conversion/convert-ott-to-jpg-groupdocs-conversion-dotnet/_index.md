@@ -8,10 +8,8 @@ keywords:
 - convert OTT to JPG
 - GroupDocs.Conversion for .NET
 - file conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert OTT Files to JPG Using GroupDocs.Conversion for .NET
 
 ## Introduction

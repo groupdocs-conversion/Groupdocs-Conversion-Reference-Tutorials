@@ -4,8 +4,8 @@
 "title": "Uitgebreide handleiding&#58; BMP naar HTML converteren met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/html-conversion/convert-bmp-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Uitgebreide handleiding: BMP naar HTML converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

@@ -8,10 +8,8 @@ keywords:
 - WMF to PSD conversion
 - GroupDocs.Conversion for .NET
 - image processing in .NET
-
+type: docs
 ---
-
-
 # How to Convert WMF to PSD Using GroupDocs.Conversion for .NET
 
 **Efficient Image Conversion in .NET: Transform WMF Files into PSD Format**

@@ -4,8 +4,8 @@
 "title": "Jak převést bezztrátový JPEG (JLS) do JPEG (JPG) pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/image-conversion/convert-jpeg-lossless-to-jpeg-using-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést bezztrátové soubory JPEG (JLS) do formátu JPEG (JPG) pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

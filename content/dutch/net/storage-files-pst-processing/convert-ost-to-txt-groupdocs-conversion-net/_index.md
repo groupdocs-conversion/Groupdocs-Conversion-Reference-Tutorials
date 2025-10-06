@@ -4,8 +4,8 @@
 "title": "Efficiënte OST naar TXT-conversie met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/storage-files-pst-processing/convert-ost-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OST-bestanden naar TXT converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

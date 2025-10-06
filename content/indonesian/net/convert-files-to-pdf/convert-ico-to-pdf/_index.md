@@ -5,8 +5,8 @@
 "title": "Konversi Ikon ICO ke PDF"
 "url": "/id/net/convert-files-to-pdf/convert-ico-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Konversi Ikon ICO ke PDF
 
 ## Perkenalan

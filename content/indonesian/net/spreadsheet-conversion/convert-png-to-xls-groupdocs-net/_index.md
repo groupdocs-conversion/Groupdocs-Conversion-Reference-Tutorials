@@ -4,8 +4,8 @@
 "title": "Panduan Lengkap&#58; Mengonversi PNG ke Excel (XLS) Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/spreadsheet-conversion/convert-png-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Panduan Lengkap: Mengonversi PNG ke Excel (XLS) Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

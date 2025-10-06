@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi tệp DWG sang HTML bằng GroupDocs.Conversion cho .NET | Định dạng bản vẽ kỹ thuật và CAD"
 "url": "/vi/net/cad-technical-drawing-formats/convert-dwg-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp DWG sang HTML bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

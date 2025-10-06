@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 POTM을 HTML로 변환하기&#58; 종합 가이드"
 "url": "/ko/net/html-conversion/convert-potm-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 POTM을 HTML로 변환: 포괄적인 가이드
 ## 소개
 Microsoft PowerPoint에 접속하지 않고 PowerPoint 템플릿을 공유하거나 웹사이트에 프레젠테이션을 삽입하는 것은 어려울 수 있습니다. **.NET용 GroupDocs.Conversion**Microsoft PowerPoint 템플릿(.potm) 파일을 HTML로 변환하는 과정은 원활하고 효율적입니다. 이 포괄적인 가이드는 이 강력한 라이브러리를 손쉽게 사용하는 방법을 안내합니다.

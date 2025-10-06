@@ -4,8 +4,8 @@
 "title": "تحويل JPX إلى PDF بسهولة - دليل شامل باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/pdf-conversion/groupdocs-conversion-net-jpx-to-pdf/"
 "weight": 1
+type: docs
 ---
-
 # تحويل JPX إلى PDF بسهولة: دليل شامل باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

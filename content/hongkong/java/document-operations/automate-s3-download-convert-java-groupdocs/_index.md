@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 Java 中自動下載和轉換 S3 文檔"
 "url": "/zh-hant/java/document-operations/automate-s3-download-convert-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用 Java 自動下載和轉換 S3 文檔
 
 ## 如何使用 Java 中的 GroupDocs.Conversion 從 Amazon S3 下載和轉換文檔

@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将本地文档转换为 PDF 的综合指南"
 "url": "/zh/net/pdf-conversion-features/convert-local-documents-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 将本地文档转换为 PDF
 
 ## 介绍

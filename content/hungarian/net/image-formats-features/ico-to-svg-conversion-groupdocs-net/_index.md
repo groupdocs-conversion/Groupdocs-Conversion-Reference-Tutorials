@@ -4,8 +4,8 @@
 "title": "Hatékony ICO-SVG konvertálás a GroupDocs.Conversion for .NET használatával – fejlesztői útmutató"
 "url": "/hu/net/image-formats-features/ico-to-svg-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony ICO-SVG konvertálás a GroupDocs.Conversion for .NET használatával: Fejlesztői útmutató
 
 ## Bevezetés

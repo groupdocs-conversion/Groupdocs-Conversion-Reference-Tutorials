@@ -4,8 +4,8 @@
 "title": "Převod PowerPointu do Wordu pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/presentation-conversion/convert-powerpoint-to-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod PowerPointu do Wordu pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

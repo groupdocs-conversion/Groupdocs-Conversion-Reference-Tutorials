@@ -4,8 +4,8 @@
 "title": "Đường dẫn đầu ra động trong .NET với GroupDocs.Conversion&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/document-output-saving/dynamic-output-paths-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Đường dẫn đầu ra động trong .NET với GroupDocs.Conversion: Hướng dẫn toàn diện
 
 ## Giới thiệu

@@ -8,10 +8,8 @@ keywords:
 - JPG to XLS conversion
 - GroupDocs.Conversion for .NET
 - .NET spreadsheet conversion
-
+type: docs
 ---
-
-
 # How to Convert JPG to XLS Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 將 OTT 轉換為 TEX - 逐步指南"
 "url": "/zh-hant/net/conversion-options-settings/convert-ott-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將 OTT 轉換為 TEX
 
 歡迎閱讀我們關於如何使用強大的 GroupDocs.Conversion for .NET 程式庫將開放式文件範本 (OTT) 檔案轉換為 LaTeX 原始檔 (TEX) 的全面指南。如果您正在應對從 OTT 到 TEX 的文件轉換難題，那麼這份資源就是您的理想選擇。

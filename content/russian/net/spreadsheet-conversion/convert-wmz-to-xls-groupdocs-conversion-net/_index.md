@@ -4,8 +4,8 @@
 "title": "Конвертируйте WMZ в XLS с помощью GroupDocs.Conversion для .NET&#58; Пошаговое руководство"
 "url": "/ru/net/spreadsheet-conversion/convert-wmz-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте файлы WMZ в формат XLS с помощью GroupDocs.Conversion для .NET
 
 ## Введение

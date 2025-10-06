@@ -4,8 +4,8 @@
 "title": "ग्रुपडॉक्स के साथ .NET में MPX से TXT रूपांतरण मास्टर करें"
 "url": "/hi/net/text-markup-conversion/master-mpx-txt-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion के साथ .NET में MPX to TXT रूपांतरण में महारत हासिल करना
 
 ## परिचय

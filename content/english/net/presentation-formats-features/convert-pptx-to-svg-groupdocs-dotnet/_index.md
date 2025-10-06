@@ -8,10 +8,8 @@ keywords:
 - convert PPTX to SVG
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Convert PPTX to SVG with GroupDocs.Conversion .NET
 
 ## Introduction

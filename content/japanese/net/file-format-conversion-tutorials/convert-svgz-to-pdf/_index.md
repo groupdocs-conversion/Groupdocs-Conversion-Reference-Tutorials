@@ -5,8 +5,8 @@
 "title": "SVGZをPDFに変換する"
 "url": "/ja/net/file-format-conversion-tutorials/convert-svgz-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # SVGZをPDFに変換する
 
 ## 導入

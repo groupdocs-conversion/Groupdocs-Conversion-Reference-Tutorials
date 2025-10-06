@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して XLS を HTML に変換する手順"
 "url": "/ja/net/html-conversion/convert-xls-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して XLS ファイルを HTML に変換する方法
 
 ## 導入

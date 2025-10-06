@@ -5,8 +5,8 @@
 "title": "將PPSX轉換為PDF"
 "url": "/zh-hant/net/pdf-conversion/convert-ppsx-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # 將PPSX轉換為PDF
 
 ## 介紹

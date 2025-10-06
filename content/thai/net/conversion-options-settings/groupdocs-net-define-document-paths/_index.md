@@ -4,8 +4,8 @@
 "title": "การจัดการเส้นทางเอกสารอย่างมีประสิทธิภาพใน .NET ด้วย GroupDocs.Conversion และการกำหนดค่าคงที่เพื่อการแปลงที่ราบรื่น"
 "url": "/th/net/conversion-options-settings/groupdocs-net-define-document-paths/"
 "weight": 1
+type: docs
 ---
-
 # การจัดการเส้นทางเอกสารที่มีประสิทธิภาพใน .NET ด้วย GroupDocs.Conversion
 
 ## การแนะนำ

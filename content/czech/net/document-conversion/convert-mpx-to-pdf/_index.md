@@ -5,8 +5,8 @@
 "title": "Převod MPX do PDF"
 "url": "/cs/net/document-conversion/convert-mpx-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Převod MPX do PDF
 
 ## Zavedení

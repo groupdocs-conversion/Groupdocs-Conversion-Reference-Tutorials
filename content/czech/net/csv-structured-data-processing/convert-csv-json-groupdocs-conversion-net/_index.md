@@ -4,8 +4,8 @@
 "title": "Převod CSV do JSON pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/csv-structured-data-processing/convert-csv-json-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod CSV do JSON pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

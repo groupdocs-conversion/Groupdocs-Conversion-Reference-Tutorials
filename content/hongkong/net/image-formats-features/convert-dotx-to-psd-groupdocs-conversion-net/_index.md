@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 DOTX 轉換為 PSD 綜合指南"
 "url": "/zh-hant/net/image-formats-features/convert-dotx-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 DOTX 轉換為 PSD：綜合指南
 
 ## 介紹

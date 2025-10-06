@@ -5,8 +5,8 @@
 "title": "Konversi PPT ke PDF"
 "url": "/id/net/pdf-conversion/convert-ppt-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # Konversi PPT ke PDF
 
 ## Perkenalan

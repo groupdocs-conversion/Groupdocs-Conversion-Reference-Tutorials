@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanarak Verimli WMZ'den TXT'ye Dönüştürme | Geliştirici Kılavuzu"
 "url": "/tr/net/text-markup-conversion/wmz-to-txt-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanarak Verimli WMZ'den TXT'ye Dönüştürme: Bir Geliştiricinin Kılavuzu
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "Μετατροπή email Master .NET με το GroupDocs™&#58; Ένας οδηγός παγκοσμιοποίησης για προγραμματιστές"
 "url": "/el/net/email-formats-features/master-net-email-conversion-groupdocs-globalization-guide/"
 "weight": 1
+type: docs
 ---
-
 # Κατακτώντας τη μετατροπή email .NET με το GroupDocs: Ένας ολοκληρωμένος οδηγός παγκοσμιοποίησης
 
 ## Εισαγωγή

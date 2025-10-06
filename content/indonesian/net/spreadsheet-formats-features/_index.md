@@ -3,8 +3,8 @@
 "title": "Tutorial Format dan Fitur Spreadsheet untuk GroupDocs.Conversion .NET"
 "url": "/id/net/spreadsheet-formats-features/"
 "weight": 11
+type: docs
 ---
-
 # Tutorial Format dan Fitur Spreadsheet untuk GroupDocs.Conversion .NET
 
 Pelajari cara menangani dokumen spreadsheet dengan tutorial GroupDocs.Conversion .NET kami. Panduan terperinci ini menunjukkan cara mengonversi antara format Excel, CSV, dan jenis spreadsheet lainnya, memperlihatkan atau menyembunyikan garis kisi dan komentar, melewati baris dan kolom kosong, menentukan rentang dan indeks lembar untuk konversi, mengelola lembar tersembunyi, mempertahankan rumus dan fungsi, mempertahankan format sel, dan mengendalikan rantai kalkulasi selama konversi. Setiap tutorial menyertakan contoh kode C# yang berfungsi yang menunjukkan cara menerapkan konversi spreadsheet yang akurat sambil mempertahankan kalkulasi kompleks dan elemen visual.

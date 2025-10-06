@@ -5,8 +5,8 @@
 "title": "MPP को PDF में बदलें"
 "url": "/hi/net/document-conversion/convert-mpp-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # MPP को PDF में बदलें
 
 ## परिचय

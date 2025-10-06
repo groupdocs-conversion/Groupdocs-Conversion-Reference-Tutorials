@@ -5,8 +5,8 @@
 "title": "TEX naar PDF converteren"
 "url": "/nl/net/file-format-conversion-tutorials/convert-tex-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # TEX naar PDF converteren
 
 ## Invoering

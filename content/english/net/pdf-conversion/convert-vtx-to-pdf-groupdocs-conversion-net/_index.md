@@ -8,10 +8,8 @@ keywords:
 - VTX to PDF conversion
 - GroupDocs.Conversion for .NET
 - .NET document conversion
-
+type: docs
 ---
-
-
 # Convert VTX to PDF with GroupDocs.Conversion for .NET
 
 ## Introduction

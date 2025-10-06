@@ -8,10 +8,8 @@ keywords:
 - EMLX to PPTX conversion
 - GroupDocs.Conversion for .NET
 - presentation conversion
-
+type: docs
 ---
-
-
 # Convert EMLX Files to PPTX Using GroupDocs.Conversion for .NET
 
 ## Introduction

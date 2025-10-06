@@ -4,8 +4,8 @@
 "title": ".NET e-mail mellékletek konvertálásának elsajátítása a GroupDocs.Conversion Library segítségével – Átfogó útmutató"
 "url": "/hu/net/email-formats-features/net-email-attachment-conversion-groupdocs-guide/"
 "weight": 1
+type: docs
 ---
-
 # .NET e-mail mellékletek konvertálásának mesteri lépései a GroupDocs.Conversion könyvtárral
 
 ## Bevezetés

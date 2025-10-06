@@ -4,8 +4,8 @@
 "title": "แปลง ICO เป็น PSD โดยใช้ GroupDocs.Conversion สำหรับ .NET พร้อมคำแนะนำทีละขั้นตอน"
 "url": "/th/net/image-conversion/convert-ico-psd-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # แปลง ICO เป็น PSD โดยใช้ GroupDocs.Conversion สำหรับ .NET: คำแนะนำทีละขั้นตอน
 
 ## การแนะนำ

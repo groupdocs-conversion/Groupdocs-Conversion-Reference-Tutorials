@@ -5,8 +5,8 @@
 "title": "Convertir XLT en PDF"
 "url": "/fr/net/converting-file-types-to-pdf/convert-xlt-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # Convertir XLT en PDF
 
 

@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi mẫu PowerPoint (.potx) sang văn bản bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/text-file-processing/convert-potx-to-text-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách tải và chuyển đổi tệp mẫu Microsoft PowerPoint Open XML (.potx) thành văn bản bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

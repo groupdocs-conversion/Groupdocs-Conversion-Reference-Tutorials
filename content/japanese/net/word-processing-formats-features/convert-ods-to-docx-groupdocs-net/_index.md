@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET で ODS を DOCX にシームレスに変換"
 "url": "/ja/net/word-processing-formats-features/convert-ods-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して ODS を DOCX に変換する
 
 ## 導入

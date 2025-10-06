@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi DOCX sang CSV bằng GroupDocs.Conversion cho .NET - Hướng dẫn từng bước"
 "url": "/vi/net/spreadsheet-formats-features/convert-docx-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi DOCX sang CSV bằng GroupDocs.Conversion cho .NET: Hướng dẫn từng bước
 
 ## Giới thiệu

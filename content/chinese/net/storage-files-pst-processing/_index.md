@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 的存储文件和 PST 处理教程"
 "url": "/zh/net/storage-files-pst-processing/"
 "weight": 21
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 的存储文件和 PST 处理教程
 
 我们的存储文件处理教程提供了在 .NET 应用程序中处理电子邮件容器的详细指南。这些实用指南演示了如何从 PST 和 OST 等个人存储文件中提取和转换内容、检索文件夹结构、将存储内容转换为不同格式、处理嵌套内容层次结构、保存消息元数据、批量处理多条消息以及实现选择性提取操作。每个教程都包含完整的 C# 代码示例，用于存储文件转换场景，帮助您构建能够有效访问和转换以电子邮件容器格式存储的数据的应用程序。

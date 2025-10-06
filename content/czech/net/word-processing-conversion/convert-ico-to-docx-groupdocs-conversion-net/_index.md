@@ -4,8 +4,8 @@
 "title": "Převod ICO do DOCX pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/word-processing-conversion/convert-ico-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod ICO do DOCX pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

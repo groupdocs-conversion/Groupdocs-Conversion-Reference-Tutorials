@@ -8,10 +8,8 @@ keywords:
 - convert JPEG 2000 to JPG .NET
 - GroupDocs image conversion
 - .NET image processing
-
+type: docs
 ---
-
-
 # Convert JPEG 2000 to JPG in .NET Using GroupDocs.Conversion: A Comprehensive Guide
 
 ## Introduction

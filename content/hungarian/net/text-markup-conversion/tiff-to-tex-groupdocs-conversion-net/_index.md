@@ -4,8 +4,8 @@
 "title": "Hatékony TIFF-TEX konvertálás a GroupDocs.Conversion .NET használatával"
 "url": "/hu/net/text-markup-conversion/tiff-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony TIFF-TEX konvertálás a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

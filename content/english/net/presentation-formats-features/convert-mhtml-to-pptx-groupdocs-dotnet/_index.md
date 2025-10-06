@@ -8,10 +8,8 @@ keywords:
 - convert MHTML to PPTX
 - GroupDocs.Conversion for .NET
 - document conversion in .NET
-
+type: docs
 ---
-
-
 # Convert MHTML to PPTX Using GroupDocs.Conversion for .NET
 
 ## Introduction

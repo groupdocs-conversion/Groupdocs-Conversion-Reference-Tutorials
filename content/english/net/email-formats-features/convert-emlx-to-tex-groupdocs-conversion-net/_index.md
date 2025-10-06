@@ -8,10 +8,8 @@ keywords:
 - EMLX to TEX conversion
 - GroupDocs.Conversion for .NET
 - document management systems
-
+type: docs
 ---
-
-
 # Convert EMLX Files to TEX Format Using GroupDocs.Conversion for .NET
 
 ## Introduction

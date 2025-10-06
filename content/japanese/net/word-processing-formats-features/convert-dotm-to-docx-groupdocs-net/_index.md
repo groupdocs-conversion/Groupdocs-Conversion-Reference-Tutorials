@@ -4,8 +4,8 @@
 "title": "GroupDocs for .NET で DOTM から DOCX への変換をマスターする"
 "url": "/ja/net/word-processing-formats-features/convert-dotm-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs for .NET で DOTM から DOCX への変換をマスターする
 
 ## 導入

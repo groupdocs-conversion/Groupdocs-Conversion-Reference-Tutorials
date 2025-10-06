@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie VSDM in CSV in .NET mithilfe der GroupDocs.Conversion-Bibliothek"
 "url": "/de/net/csv-structured-data-processing/convert-vsmd-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie VSDM in CSV in .NET mithilfe der GroupDocs.Conversion-Bibliothek
 
 ## Einführung

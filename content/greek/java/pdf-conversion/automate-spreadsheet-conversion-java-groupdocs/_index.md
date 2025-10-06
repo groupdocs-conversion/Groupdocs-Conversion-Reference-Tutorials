@@ -4,8 +4,8 @@
 "title": "Αυτοματοποίηση μετατροπής υπολογιστικού φύλλου σε PDF σε Java χρησιμοποιώντας το GroupDocs.Conversion"
 "url": "/el/java/pdf-conversion/automate-spreadsheet-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Αυτοματοποίηση μετατροπής υπολογιστικού φύλλου σε PDF σε Java χρησιμοποιώντας το GroupDocs.Conversion
 
 ## Εισαγωγή

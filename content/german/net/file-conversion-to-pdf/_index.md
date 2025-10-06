@@ -5,8 +5,8 @@
 "title": "Dateikonvertierung in PDF"
 "url": "/de/net/file-conversion-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Dateikonvertierung in PDF
 
 ## Einführung:

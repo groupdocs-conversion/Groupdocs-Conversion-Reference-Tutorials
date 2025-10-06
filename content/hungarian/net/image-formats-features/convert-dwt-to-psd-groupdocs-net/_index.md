@@ -4,8 +4,8 @@
 "title": "DWT konvertálása PSD-vé .NET-ben a GroupDocs.Conversion Library használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-formats-features/convert-dwt-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DWT konvertálása PSD-vé .NET-ben a GroupDocs.Conversion Library használatával: lépésről lépésre útmutató
 
 ## Bevezetés

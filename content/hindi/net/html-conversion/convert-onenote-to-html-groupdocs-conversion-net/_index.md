@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion के साथ OneNote को HTML में कनवर्ट करें एक संपूर्ण गाइड"
 "url": "/hi/net/html-conversion/convert-onenote-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion के साथ OneNote को HTML में कनवर्ट करें
 
 ## परिचय

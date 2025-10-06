@@ -5,8 +5,8 @@
 "title": "Konwertuj prezentacje FODP OpenDocument do formatu PDF"
 "url": "/pl/net/convert-files-to-pdf/convert-fodp-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # Konwertuj prezentacje FODP OpenDocument do formatu PDF
 
 ## Wstęp

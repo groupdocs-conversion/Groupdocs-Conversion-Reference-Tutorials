@@ -5,8 +5,8 @@
 "title": "DOTX Word 템플릿을 PDF로 변환"
 "url": "/ko/net/file-conversion-to-pdf/convert-dotx-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # DOTX Word 템플릿을 PDF로 변환
 
 ## 소개

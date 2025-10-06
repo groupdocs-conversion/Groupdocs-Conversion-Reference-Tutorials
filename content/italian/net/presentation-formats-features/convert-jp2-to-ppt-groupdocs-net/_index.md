@@ -4,8 +4,8 @@
 "title": "Convertire JP2 in PPT utilizzando GroupDocs.Conversion per .NET - Guida passo passo"
 "url": "/it/net/presentation-formats-features/convert-jp2-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire JP2 in PPT utilizzando GroupDocs.Conversion per .NET: guida passo passo
 
 ## Introduzione

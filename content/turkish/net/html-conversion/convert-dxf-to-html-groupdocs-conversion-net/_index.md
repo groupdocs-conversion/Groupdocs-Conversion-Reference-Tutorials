@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET ile DXF'yi HTML'ye Verimli Şekilde Dönüştürün"
 "url": "/tr/net/html-conversion/convert-dxf-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET ile DXF'yi HTML'ye Verimli Şekilde Dönüştürün
 
 ## giriiş

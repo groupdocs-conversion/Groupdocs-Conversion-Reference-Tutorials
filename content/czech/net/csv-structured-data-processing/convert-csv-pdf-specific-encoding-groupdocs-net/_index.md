@@ -4,8 +4,8 @@
 "title": "Jak převést soubory CSV do PDF se specifickým kódováním pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/csv-structured-data-processing/convert-csv-pdf-specific-encoding-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory CSV do PDF se specifickým kódováním pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

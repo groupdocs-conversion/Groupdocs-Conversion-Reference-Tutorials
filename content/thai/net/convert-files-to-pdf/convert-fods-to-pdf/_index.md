@@ -5,8 +5,8 @@
 "title": "แปลง FODS OpenDocument Spreadsheets เป็น PDF"
 "url": "/th/net/convert-files-to-pdf/convert-fods-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # แปลง FODS OpenDocument Spreadsheets เป็น PDF
 
 ## การแนะนำ

@@ -5,8 +5,8 @@
 "title": "将 DXF CAD 绘图交换文件转换为 PDF"
 "url": "/zh/net/convert-files-to-pdf/convert-dxf-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # 将 DXF CAD 绘图交换文件转换为 PDF
 
 ## 介绍

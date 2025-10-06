@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi File OTS ke JPG Menggunakan GroupDocs.Conversion untuk .NET - Panduan Konversi Gambar"
 "url": "/id/net/image-conversion/convert-ots-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi File OTS ke JPG Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

@@ -8,10 +8,8 @@ keywords:
 - DIB to PowerPoint conversion
 - GroupDocs.Conversion for .NET
 - Convert bitmap graphics
-
+type: docs
 ---
-
-
 # Convert DIB to PowerPoint in C# Using GroupDocs.Conversion for .NET
 
 ## Introduction

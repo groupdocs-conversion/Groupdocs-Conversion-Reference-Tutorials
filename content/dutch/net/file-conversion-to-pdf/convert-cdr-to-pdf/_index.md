@@ -5,8 +5,8 @@
 "title": "Converteer CDR-vectorafbeeldingen naar PDF"
 "url": "/nl/net/file-conversion-to-pdf/convert-cdr-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # Converteer CDR-vectorafbeeldingen naar PDF
 
 ## Invoering

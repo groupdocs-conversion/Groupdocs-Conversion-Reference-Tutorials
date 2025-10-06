@@ -8,10 +8,8 @@ keywords:
 - convert FODS to CSV
 - GroupDocs.Conversion for .NET
 - OpenDocument Flat XML Spreadsheet
-
+type: docs
 ---
-
-
 # Convert FODS to CSV Using GroupDocs for .NET: Step-by-Step Guide
 
 ## Introduction

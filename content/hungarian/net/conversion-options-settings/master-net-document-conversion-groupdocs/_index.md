@@ -4,8 +4,8 @@
 "title": ".NET dokumentumkonverziós mesterfokon – Használja a GroupDocs-ot zökkenőmentes PDF-átalakításokhoz"
 "url": "/hu/net/conversion-options-settings/master-net-document-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Dokumentumkonverzió elsajátítása .NET-ben a GroupDocs.Conversion segítségével
 
 ## Bevezetés

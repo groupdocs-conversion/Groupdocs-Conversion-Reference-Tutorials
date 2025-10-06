@@ -8,10 +8,8 @@ keywords:
 - convert Outlook emails to Photoshop documents
 - GroupDocs.Conversion for .NET
 - MSG to PSD conversion
-
+type: docs
 ---
-
-
 # Convert Microsoft Outlook Emails to Adobe Photoshop Documents with GroupDocs.Conversion for .NET
 
 ## Introduction

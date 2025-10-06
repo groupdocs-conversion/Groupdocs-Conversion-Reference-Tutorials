@@ -4,8 +4,8 @@
 "title": "Convierta VSS a DOCX con GroupDocs.Conversion para .NET&#58; guía paso a paso"
 "url": "/es/net/word-processing-conversion/convert-vss-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir VSS a DOCX con GroupDocs.Conversion para .NET: guía paso a paso
 
 Bienvenido a nuestra guía completa sobre cómo convertir archivos de plantilla de Visio (VSS) en documentos XML abiertos de Microsoft Word (DOCX) mediante **GroupDocs.Conversion para .NET**Este tutorial está diseñado para ayudarte a superar los desafíos de la conversión de formatos de archivo, especialmente de VSS a DOCX. Sigue cada paso para implementar esta solución sin problemas.

@@ -4,8 +4,8 @@
 "title": "Převod TIFF do HTML v .NET pomocí GroupDocs.Conversion"
 "url": "/cs/net/html-conversion/convert-tif-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod TIFF do HTML v .NET pomocí GroupDocs.Conversion
 
 ## Zavedení

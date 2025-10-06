@@ -4,8 +4,8 @@
 "title": "แปลงไฟล์ DOCX ที่ป้องกันด้วยรหัสผ่านเป็น PPT โดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/working-with-secure-documents/convert-docx-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลงไฟล์ DOCX ที่ป้องกันด้วยรหัสผ่านเป็น PPT โดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

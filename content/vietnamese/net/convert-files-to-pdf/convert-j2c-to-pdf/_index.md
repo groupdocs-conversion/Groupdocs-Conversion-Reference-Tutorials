@@ -5,8 +5,8 @@
 "title": "Chuyển đổi hình ảnh nén J2C JPEG-LS sang PDF"
 "url": "/vi/net/convert-files-to-pdf/convert-j2c-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # Chuyển đổi hình ảnh nén J2C JPEG-LS sang PDF
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "E-mailek zökkenőmentes konvertálása PDF-fájlokká a GroupDocs.Conversion for .NET segítségével | Átfogó útmutató"
 "url": "/hu/net/pdf-conversion/convert-emails-to-pdfs-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # E-mailek zökkenőmentes konvertálása PDF-fájlokká a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

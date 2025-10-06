@@ -4,8 +4,8 @@
 "title": "Convierta EMLX a TXT con GroupDocs.Conversion para .NET&#58; una guía completa"
 "url": "/es/net/text-markup-conversion/convert-emlx-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir EMLX a TXT con GroupDocs.Conversion para .NET: una guía completa
 
 En la era digital actual, la gestión eficiente de archivos de correo electrónico es crucial tanto para profesionales de TI como para empresarios. Convertir archivos de mensajes de Apple Mail (.emlx) a texto sin formato (.txt) puede ahorrar tiempo y mejorar la organización. Este tutorial le guía en el uso de GroupDocs.Conversion para .NET para lograr esta conversión sin esfuerzo.

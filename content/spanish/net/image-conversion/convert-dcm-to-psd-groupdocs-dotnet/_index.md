@@ -4,8 +4,8 @@
 "title": "Convierta DCM a PSD con GroupDocs.Conversion para .NET&#58; una guía completa"
 "url": "/es/net/image-conversion/convert-dcm-to-psd-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convierta DCM a PSD con GroupDocs.Conversion para .NET
 
 ## Introducción

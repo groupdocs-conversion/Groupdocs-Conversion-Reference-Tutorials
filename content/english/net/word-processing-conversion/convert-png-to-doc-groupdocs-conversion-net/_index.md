@@ -8,10 +8,8 @@ keywords:
 - convert PNG to DOC
 - GroupDocs.Conversion for .NET
 - image-to-document conversion
-
+type: docs
 ---
-
-
 # How to Convert PNG to DOC Using GroupDocs.Conversion for .NET
 
 ## Introduction

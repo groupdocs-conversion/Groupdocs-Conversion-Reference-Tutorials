@@ -4,8 +4,8 @@
 "title": "Java에서 GroupDocs.Conversion을 사용하여 PDF 메타데이터를 추출하는 방법"
 "url": "/ko/java/pdf-conversion/extract-pdf-metadata-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Java에서 GroupDocs.Conversion을 사용하여 PDF 메타데이터를 추출하는 방법
 
 ## 소개

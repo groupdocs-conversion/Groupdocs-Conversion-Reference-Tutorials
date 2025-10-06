@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie FODS in XLS mit GroupDocs.Conversion für .NET – Eine vollständige Anleitung"
 "url": "/de/net/spreadsheet-conversion/convert-fods-to-xls-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie FODS in XLS mit GroupDocs.Conversion für .NET: Eine vollständige Anleitung
 
 ## Einführung

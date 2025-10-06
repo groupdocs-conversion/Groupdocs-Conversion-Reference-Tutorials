@@ -4,8 +4,8 @@
 "title": "Konvertera specifika sidor till PDF med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/pdf-conversion-features/groupdocs-conversion-dotnet-convert-pages-to-pdf/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera specifika sidor till PDF med GroupDocs.Conversion för .NET: En omfattande guide
 
 ## Introduktion

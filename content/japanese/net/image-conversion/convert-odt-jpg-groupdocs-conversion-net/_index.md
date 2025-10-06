@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して ODT ファイルを JPG に変換する方法 - ステップバイステップガイド"
 "url": "/ja/net/image-conversion/convert-odt-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して ODT ファイルを JPG に変換する方法: ステップバイステップガイド
 
 ## 導入

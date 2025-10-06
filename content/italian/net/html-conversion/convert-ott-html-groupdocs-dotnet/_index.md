@@ -4,8 +4,8 @@
 "title": "Converti OTT in HTML in .NET utilizzando GroupDocs.Conversion per una trasformazione dei documenti senza interruzioni"
 "url": "/it/net/html-conversion/convert-ott-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire i file OTT in formato HTML utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

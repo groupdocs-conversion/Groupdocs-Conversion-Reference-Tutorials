@@ -4,8 +4,8 @@
 "title": "Konvertera PowerPoint-mallar effektivt till text med GroupDocs.Conversion för .NET"
 "url": "/sv/net/text-markup-conversion/convert-powerpoint-to-text-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar PowerPoint-mallar till text med GroupDocs.Conversion för .NET
 
 ## Introduktion

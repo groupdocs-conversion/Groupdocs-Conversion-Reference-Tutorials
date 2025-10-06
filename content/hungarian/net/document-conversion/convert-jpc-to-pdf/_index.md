@@ -5,8 +5,8 @@
 "title": "JPC konvertálása PDF-be"
 "url": "/hu/net/document-conversion/convert-jpc-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # JPC konvertálása PDF-be
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "DXF konvertálása PNG-vé C#-ban a GroupDocs.Conversion használatával – Teljes körű útmutató"
 "url": "/hu/net/cad-technical-drawing-formats/convert-dxf-to-png-groupdocs-csharp/"
 "weight": 1
+type: docs
 ---
-
 # DXF konvertálása PNG-vé C#-ban a GroupDocs.Conversion használatával: Teljes körű útmutató
 
 ## Bevezetés

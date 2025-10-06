@@ -4,8 +4,8 @@
 "title": "Jak převést soubory ODT do formátu JPG pomocí nástroje GroupDocs.Conversion pro .NET – podrobný návod"
 "url": "/cs/net/image-conversion/convert-odt-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory ODT do formátu JPG pomocí nástroje GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

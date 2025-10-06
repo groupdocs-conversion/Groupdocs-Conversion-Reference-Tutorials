@@ -5,8 +5,8 @@
 "title": "Konvertieren Sie ICO-Symbole in PDF"
 "url": "/de/net/convert-files-to-pdf/convert-ico-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Konvertieren Sie ICO-Symbole in PDF
 
 ## Einführung

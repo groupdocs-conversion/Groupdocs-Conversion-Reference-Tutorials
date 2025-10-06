@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET で MHTML を PowerPoint に変換する手順"
 "url": "/ja/net/presentation-formats-features/convert-mhtml-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET で GroupDocs を使用して MHTML を PowerPoint に変換する
 
 ## 導入

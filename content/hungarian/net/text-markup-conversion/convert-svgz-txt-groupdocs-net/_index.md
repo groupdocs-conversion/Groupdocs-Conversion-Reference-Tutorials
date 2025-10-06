@@ -4,8 +4,8 @@
 "title": "SVGZ fájlok TXT formátumba konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/text-markup-conversion/convert-svgz-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # SVGZ fájlok TXT formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

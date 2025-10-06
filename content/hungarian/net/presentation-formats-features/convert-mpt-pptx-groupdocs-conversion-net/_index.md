@@ -4,8 +4,8 @@
 "title": "MPT konvertálása PPTX-be a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/presentation-formats-features/convert-mpt-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MPT fájlok PPTX formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

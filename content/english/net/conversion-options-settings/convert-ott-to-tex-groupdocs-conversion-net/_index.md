@@ -8,10 +8,8 @@ keywords:
 - convert OTT to TEX
 - GroupDocs.Conversion for .NET
 - .NET document conversion
-
+type: docs
 ---
-
-
 # How to Convert OTT to TEX Using GroupDocs.Conversion for .NET
 
 Welcome to our comprehensive guide on converting Open Document Template (OTT) files into LaTeX Source Documents (TEX) with the powerful GroupDocs.Conversion for .NET library. If you're tackling document conversion challenges from OTT to TEX, this is your go-to resource.

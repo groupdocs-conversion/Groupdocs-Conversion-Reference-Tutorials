@@ -5,8 +5,8 @@
 "title": "แปลง VSSM เป็น PDF"
 "url": "/th/net/converting-file-types-to-pdf/convert-vssm-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # แปลง VSSM เป็น PDF
 
 ## การแนะนำ

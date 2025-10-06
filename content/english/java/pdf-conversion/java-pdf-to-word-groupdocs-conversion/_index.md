@@ -8,10 +8,8 @@ keywords:
 - convert PDF to Word in Java
 - GroupDocs.Conversion setup
 - PDF conversion with annotations hidden
-
+type: docs
 ---
-
-
 # Convert PDF to Word in Java Using GroupDocs: A Comprehensive Guide
 
 ## Introduction

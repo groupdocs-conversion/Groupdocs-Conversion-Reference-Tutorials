@@ -4,8 +4,8 @@
 "title": "Word konvertálása PDF-be és megjegyzések elrejtése a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/pdf-conversion-features/convert-word-to-pdf-hide-comments-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Word dokumentumok konvertálása PDF-be és megjegyzések elrejtése a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

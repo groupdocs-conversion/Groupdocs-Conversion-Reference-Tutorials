@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion का उपयोग करके .NET में कुशल JPG से PPT रूपांतरण"
 "url": "/hi/net/presentation-conversion/jpg-to-ppt-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion का उपयोग करके .NET में कुशल JPG से PPT रूपांतरण
 
 ## परिचय

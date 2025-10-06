@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용한 JPG-TEX 변환 가이드"
 "url": "/ko/net/image-conversion/master-jpg-to-tex-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용한 JPG-TEX 변환 가이드
 
 ## 소개

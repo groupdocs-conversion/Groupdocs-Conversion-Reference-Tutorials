@@ -5,8 +5,8 @@
 "title": "IFCビルディングインフォメーションモデリングファイルをPDFに変換する"
 "url": "/ja/net/convert-files-to-pdf/convert-ifc-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # IFCビルディングインフォメーションモデリングファイルをPDFに変換する
 
 ## 導入

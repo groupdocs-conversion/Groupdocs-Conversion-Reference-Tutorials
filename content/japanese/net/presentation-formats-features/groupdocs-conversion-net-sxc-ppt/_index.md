@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用した効率的な SXC から PPT への変換"
 "url": "/ja/net/presentation-formats-features/groupdocs-conversion-net-sxc-ppt/"
 "weight": 1
+type: docs
 ---
-
 # データプレゼンテーションを変革: GroupDocs.Conversion for .NET を使用して SXC ファイルを PPT に効率的に変換
 
 ## 導入

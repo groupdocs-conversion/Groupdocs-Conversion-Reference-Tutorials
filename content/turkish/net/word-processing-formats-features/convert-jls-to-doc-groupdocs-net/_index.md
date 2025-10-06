@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanılarak JPEG Kayıpsız (JLS) Görüntüler Word Belgelerine (.doc) Nasıl Dönüştürülür"
 "url": "/tr/net/word-processing-formats-features/convert-jls-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion ile JLS'yi DOC'a Nasıl Dönüştürebilirsiniz
 
 ## giriiş

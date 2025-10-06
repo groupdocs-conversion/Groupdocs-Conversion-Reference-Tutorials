@@ -5,8 +5,8 @@
 "title": "Konvertieren Sie DOTM-Word-Vorlagen (Makros) in PDF"
 "url": "/de/net/file-conversion-to-pdf/convert-dotm-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Konvertieren Sie DOTM-Word-Vorlagen (Makros) in PDF
 
 ## Einführung

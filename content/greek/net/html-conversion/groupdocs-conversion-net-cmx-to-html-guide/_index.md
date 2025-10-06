@@ -4,8 +4,8 @@
 "title": "Πλήρης οδηγός για τη μετατροπή CMX σε HTML χρησιμοποιώντας το GroupDocs.Conversion .NET για απρόσκοπτη ενσωμάτωση ροής εργασίας εγγράφων"
 "url": "/el/net/html-conversion/groupdocs-conversion-net-cmx-to-html-guide/"
 "weight": 1
+type: docs
 ---
-
 # Πλήρης οδηγός: Μετατροπή CMX σε HTML χρησιμοποιώντας το GroupDocs.Conversion .NET
 
 ## Εισαγωγή

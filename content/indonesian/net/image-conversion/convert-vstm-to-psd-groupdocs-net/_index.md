@@ -4,8 +4,8 @@
 "title": "Mengonversi Template Visio (.vstm) ke Photoshop (.psd) Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Langkah demi Langkah"
 "url": "/id/net/image-conversion/convert-vstm-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Mengonversi Template Visio (.vstm) ke Photoshop (.psd) Menggunakan GroupDocs.Conversion untuk .NET: Panduan Langkah demi Langkah
 ## Perkenalan
 Mengonversi Visio Macro-Enabled Drawing Templates (VSTM) ke dalam format serbaguna seperti Adobe Photoshop Document (PSD) bisa jadi sulit. Panduan ini menyederhanakan proses ini menggunakan GroupDocs.Conversion for .NET, yang memungkinkan konversi file yang lancar dan efisien. Dengan alat canggih ini, mengubah VSTM menjadi PSD menjadi mudah, sehingga meningkatkan alur kerja dokumen Anda.

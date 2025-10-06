@@ -5,8 +5,8 @@
 "title": "แปลงหน้าเว็บ HTM เป็น PDF"
 "url": "/th/net/convert-files-to-pdf/convert-htm-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # แปลงหน้าเว็บ HTM เป็น PDF
 
 ## การแนะนำ

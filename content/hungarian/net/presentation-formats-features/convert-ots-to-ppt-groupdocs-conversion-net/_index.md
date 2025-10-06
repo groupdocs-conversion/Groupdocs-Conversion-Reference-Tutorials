@@ -4,8 +4,8 @@
 "title": "OTS fájlok egyszerű konvertálása PPT-vé a GroupDocs.Conversion .NET segítségével"
 "url": "/hu/net/presentation-formats-features/convert-ots-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OTS fájlok egyszerű konvertálása PPT-vé a GroupDocs.Conversion .NET segítségével
 
 ## Bevezetés

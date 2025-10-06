@@ -4,8 +4,8 @@
 "title": "MOBI'yi GroupDocs.Conversion for .NET kullanarak PSD'ye dönüştürün | Görüntü Dönüştürme Kılavuzu"
 "url": "/tr/net/image-conversion/convert-mobi-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Kapsamlı Kılavuz: MOBI'yi GroupDocs.Conversion for .NET kullanarak PSD'ye dönüştürün
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "WEBP konvertálása PSD-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-webp-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # WEBP konvertálása PSD-vé a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

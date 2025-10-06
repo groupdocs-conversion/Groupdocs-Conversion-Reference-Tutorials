@@ -5,8 +5,8 @@
 "title": "Μετατροπή ιστοσελίδων HTM σε PDF"
 "url": "/el/net/convert-files-to-pdf/convert-htm-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # Μετατροπή ιστοσελίδων HTM σε PDF
 
 ## Εισαγωγή

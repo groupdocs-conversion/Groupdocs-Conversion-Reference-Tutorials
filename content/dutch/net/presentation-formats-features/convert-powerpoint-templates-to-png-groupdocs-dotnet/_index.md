@@ -4,8 +4,8 @@
 "title": "Converteer PowerPoint-sjablonen naar PNG met GroupDocs.Conversion voor .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/presentation-formats-features/convert-powerpoint-templates-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # PowerPoint-sjablonen converteren naar PNG met GroupDocs.Conversion voor .NET: een stapsgewijze handleiding
 
 ## Invoering

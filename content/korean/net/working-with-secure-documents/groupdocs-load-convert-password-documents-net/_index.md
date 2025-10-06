@@ -4,8 +4,8 @@
 "title": ".NET용 GroupDocs.Conversion을 사용하여 암호로 보호된 문서 로드 및 변환"
 "url": "/ko/net/working-with-secure-documents/groupdocs-load-convert-password-documents-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET용 GroupDocs.Conversion을 사용하여 암호로 보호된 문서 로드 및 변환
 
 ## 소개

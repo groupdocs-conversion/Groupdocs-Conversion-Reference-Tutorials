@@ -4,8 +4,8 @@
 "title": "เรียนรู้การแปลงข้อความเป็นงานนำเสนออย่างเชี่ยวชาญด้วย GroupDocs ใน .NET คำแนะนำที่ครอบคลุม"
 "url": "/th/net/presentation-conversion/groupdocs-net-text-ppt-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # เรียนรู้การแปลงข้อความเป็นงานนำเสนอด้วย GroupDocs ใน .NET
 
 ## การแนะนำ

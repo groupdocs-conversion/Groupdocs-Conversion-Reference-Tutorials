@@ -4,8 +4,8 @@
 "title": "Cómo convertir archivos OST a HTML con GroupDocs.Conversion para .NET&#58; guía paso a paso"
 "url": "/es/net/storage-files-pst-processing/convert-ost-to-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir archivos OST a HTML con GroupDocs.Conversion para .NET: guía paso a paso
 
 ## Introducción

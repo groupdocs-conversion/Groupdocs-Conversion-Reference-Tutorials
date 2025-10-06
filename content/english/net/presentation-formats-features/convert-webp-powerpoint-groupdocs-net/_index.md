@@ -8,10 +8,8 @@ keywords:
 - convert WebP to PowerPoint
 - GroupDocs.Conversion for .NET
 - WebP image conversion
-
+type: docs
 ---
-
-
 # How to Convert WebP Images to PowerPoint Using GroupDocs.Conversion for .NET
 
 ## Introduction

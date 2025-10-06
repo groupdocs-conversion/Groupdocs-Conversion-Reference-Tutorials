@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs का उपयोग करके पासवर्ड-संरक्षित Word दस्तावेज़ों को Excel में परिवर्तित करें"
 "url": "/hi/net/working-with-secure-documents/convert-password-word-docs-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए ग्रुपडॉक्स के साथ पासवर्ड-संरक्षित वर्ड दस्तावेज़ों को Excel में कनवर्ट करें
 
 ## परिचय

@@ -4,8 +4,8 @@
 "title": "Convierta DOTX a PDF de forma eficiente con GroupDocs.Conversion para .NET"
 "url": "/es/net/pdf-conversion/groupdocs-conversion-dotx-to-pdf-net/"
 "weight": 1
+type: docs
 ---
-
 # Convierta DOTX a PDF de forma eficiente con GroupDocs.Conversion para .NET
 
 ## Introducción

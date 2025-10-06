@@ -8,10 +8,8 @@ keywords:
 - RTF to SVG conversion
 - GroupDocs.Conversion for .NET
 - document conversion in C#
-
+type: docs
 ---
-
-
 # Convert RTF to SVG with GroupDocs.Conversion in C#: A Comprehensive Guide
 
 ## Introduction

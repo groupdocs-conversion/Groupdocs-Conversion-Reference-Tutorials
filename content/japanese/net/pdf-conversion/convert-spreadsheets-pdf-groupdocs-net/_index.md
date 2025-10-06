@@ -4,8 +4,8 @@
 "title": ".NET で GroupDocs.Conversion を使用してスプレッドシートをシームレスに PDF に変換する"
 "url": "/ja/net/pdf-conversion/convert-spreadsheets-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET で GroupDocs.Conversion を使用してスプレッドシートをシームレスに PDF に変換する
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "使用 .NET 中的 GroupDocs.Conversion 有效地將 EMLX 轉換為 CSV"
 "url": "/zh-hant/net/csv-structured-data-processing/convert-emlx-to-csv-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 .NET 中的 GroupDocs.Conversion 有效地將 EMLX 轉換為 CSV
 
 ## 介紹

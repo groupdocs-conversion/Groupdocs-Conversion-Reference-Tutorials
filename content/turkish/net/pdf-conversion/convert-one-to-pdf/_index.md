@@ -5,8 +5,8 @@
 "title": "BİR'i PDF'ye dönüştür"
 "url": "/tr/net/pdf-conversion/convert-one-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # BİR'i PDF'ye dönüştür
 
 ## giriiş

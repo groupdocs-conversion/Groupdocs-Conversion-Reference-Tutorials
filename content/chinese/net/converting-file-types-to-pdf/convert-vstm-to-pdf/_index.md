@@ -5,8 +5,8 @@
 "title": "将 VSTM 转换为 PDF"
 "url": "/zh/net/converting-file-types-to-pdf/convert-vstm-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # 将 VSTM 转换为 PDF
 
 ## 介绍

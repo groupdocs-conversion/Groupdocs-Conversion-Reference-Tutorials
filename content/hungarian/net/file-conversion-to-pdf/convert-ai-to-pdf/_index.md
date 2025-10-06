@@ -5,8 +5,8 @@
 "title": "AI-fájlok konvertálása PDF-be"
 "url": "/hu/net/file-conversion-to-pdf/convert-ai-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # AI-fájlok konvertálása PDF-be
 
 ## Bevezetés

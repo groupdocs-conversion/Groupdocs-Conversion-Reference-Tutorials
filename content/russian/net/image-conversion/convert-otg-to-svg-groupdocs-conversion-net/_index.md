@@ -4,8 +4,8 @@
 "title": "Конвертируйте OTG в SVG с помощью GroupDocs.Conversion для .NET. Подробное руководство"
 "url": "/ru/net/image-conversion/convert-otg-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Как конвертировать файлы OTG в SVG с помощью GroupDocs.Conversion для .NET
 
 ## Введение

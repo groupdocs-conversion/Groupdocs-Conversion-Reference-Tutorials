@@ -5,8 +5,8 @@
 "title": "PPSX'i PDF'ye dönüştür"
 "url": "/tr/net/pdf-conversion/convert-ppsx-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # PPSX'i PDF'ye dönüştür
 
 ## giriiş

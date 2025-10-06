@@ -4,8 +4,8 @@
 "title": "Konwertuj arkusze kalkulacyjne do plików PDF za pomocą GroupDocs.Conversion for Java&#58; Kompleksowy przewodnik"
 "url": "/pl/java/spreadsheet-formats/convert-spreadsheets-to-pdfs-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj arkusze kalkulacyjne do plików PDF za pomocą GroupDocs.Conversion for Java: kompleksowy przewodnik
 
 ## Wstęp

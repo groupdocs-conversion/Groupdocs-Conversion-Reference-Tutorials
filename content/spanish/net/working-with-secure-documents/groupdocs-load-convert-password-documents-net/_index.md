@@ -4,8 +4,8 @@
 "title": "Cargar y convertir documentos protegidos con contraseña mediante GroupDocs.Conversion para .NET"
 "url": "/es/net/working-with-secure-documents/groupdocs-load-convert-password-documents-net/"
 "weight": 1
+type: docs
 ---
-
 # Cargar y convertir documentos protegidos con contraseña mediante GroupDocs.Conversion para .NET
 
 ## Introducción

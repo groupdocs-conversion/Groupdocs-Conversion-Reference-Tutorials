@@ -4,8 +4,8 @@
 "title": "Скрыть комментарии в PDF&#58; Преобразуйте PPT в PDF с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/pdf-conversion-features/convert-presentation-pdf-hide-comments-net/"
 "weight": 1
+type: docs
 ---
-
 # Скрыть комментарии в PDF: конвертируйте PPT в PDF с помощью GroupDocs.Conversion для .NET
 
 ## Введение

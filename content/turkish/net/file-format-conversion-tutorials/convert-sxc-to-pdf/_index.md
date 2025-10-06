@@ -5,8 +5,8 @@
 "title": "SXC'yi PDF'ye dönüştür"
 "url": "/tr/net/file-format-conversion-tutorials/convert-sxc-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # SXC'yi PDF'ye dönüştür
 
 ## giriiş

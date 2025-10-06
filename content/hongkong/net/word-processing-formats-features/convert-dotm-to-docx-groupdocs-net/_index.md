@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs for .NET 掌握 DOTM 到 DOCX 的轉換"
 "url": "/zh-hant/net/word-processing-formats-features/convert-dotm-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs for .NET 掌握 DOTM 到 DOCX 的轉換
 
 ## 介紹

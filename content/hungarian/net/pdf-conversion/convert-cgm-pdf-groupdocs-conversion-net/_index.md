@@ -4,8 +4,8 @@
 "title": "CGM fájlok PDF-be konvertálása a GroupDocs.Conversion .NET használatával a zökkenőmentes dokumentummegosztás érdekében"
 "url": "/hu/net/pdf-conversion/convert-cgm-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # CGM fájlok PDF-be konvertálása a GroupDocs.Conversion .NET használatával
 ## Bevezetés
 Nehezen tud számítógépes grafikus metafájlokat (CGM) PDF formátumba konvertálni? Ez gyakori kihívás a tervezési, mérnöki és építészeti területeken, ahol a zökkenőmentes fájlkonverzió fokozza a termelékenységet és az adatmegosztást. Ez az oktatóanyag végigvezeti Önt a CGM fájlok PDF formátumba konvertálásának folyamatán a .NET hatékony GroupDocs.Conversion könyvtárának használatával.

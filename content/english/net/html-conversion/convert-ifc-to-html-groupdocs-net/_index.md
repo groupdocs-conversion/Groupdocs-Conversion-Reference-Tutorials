@@ -8,10 +8,8 @@ keywords:
 - Convert IFC to HTML
 - GroupDocs.Conversion for .NET
 - IFC file conversion
-
+type: docs
 ---
-
-
 # Convert IFC Files to HTML with GroupDocs.NET
 
 ## How to Convert IFC Files to HTML Using GroupDocs.Conversion for .NET

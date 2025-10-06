@@ -8,10 +8,8 @@ keywords:
 - convert PLT to JPG
 - GroupDocs.Conversion for .NET
 - image conversion in .NET
-
+type: docs
 ---
-
-
 # Convert PLT to JPG Using GroupDocs.Conversion in .NET: A Comprehensive Guide
 
 ## Introduction

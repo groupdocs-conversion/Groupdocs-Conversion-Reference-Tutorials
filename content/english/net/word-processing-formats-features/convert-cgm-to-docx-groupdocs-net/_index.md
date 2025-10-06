@@ -8,10 +8,8 @@ keywords:
 - convert CGM to DOCX
 - GroupDocs.Conversion for .NET
 - C# file conversion
-
+type: docs
 ---
-
-
 # Convert CGM to DOCX Using GroupDocs in C#: Your Ultimate Guide
 
 ## Introduction

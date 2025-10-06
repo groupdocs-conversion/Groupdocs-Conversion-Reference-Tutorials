@@ -5,8 +5,8 @@
 "title": "Μετατροπή JP2 σε PDF"
 "url": "/el/net/document-conversion/convert-jp2-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # Μετατροπή JP2 σε PDF
 
 ## Εισαγωγή

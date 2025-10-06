@@ -4,8 +4,8 @@
 "title": ".NET IFC-XLSX konverzió elsajátítása a GroupDocs.Conversion használatával – Átfogó útmutató"
 "url": "/hu/net/spreadsheet-conversion/net-ifc-to-xlsx-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # .NET IFC-ből XLSX-be konvertálás elsajátítása a GroupDocs.Conversion segítségével: Átfogó útmutató
 
 ## Bevezetés

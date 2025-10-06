@@ -4,8 +4,8 @@
 "title": "Конвертируйте POTX в XLS с помощью GroupDocs.Conversion для .NET. Подробное руководство"
 "url": "/ru/net/spreadsheet-conversion/convert-potx-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертация POTX в XLS с помощью GroupDocs.Conversion для .NET: подробное руководство
 
 ## Введение

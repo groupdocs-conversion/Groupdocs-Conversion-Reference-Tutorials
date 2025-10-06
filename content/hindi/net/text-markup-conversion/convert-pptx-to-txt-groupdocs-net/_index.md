@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके PPTX to TXT को कुशलतापूर्वक परिवर्तित करें"
 "url": "/hi/net/text-markup-conversion/convert-pptx-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके PPTX to TXT को कुशलतापूर्वक परिवर्तित करें
 
 ## परिचय

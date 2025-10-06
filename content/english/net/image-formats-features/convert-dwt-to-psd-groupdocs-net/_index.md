@@ -8,10 +8,8 @@ keywords:
 - convert DWT to PSD in .NET
 - GroupDocs.Conversion library
 - document conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert DWT to PSD in .NET Using GroupDocs.Conversion Library: A Step-by-Step Guide
 
 ## Introduction

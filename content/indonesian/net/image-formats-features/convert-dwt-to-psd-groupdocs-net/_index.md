@@ -4,8 +4,8 @@
 "title": "Konversi DWT ke PSD di .NET Menggunakan Pustaka GroupDocs.Conversion&#58; Panduan Langkah demi Langkah"
 "url": "/id/net/image-formats-features/convert-dwt-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi DWT ke PSD di .NET Menggunakan Pustaka GroupDocs.Conversion: Panduan Langkah demi Langkah
 
 ## Perkenalan

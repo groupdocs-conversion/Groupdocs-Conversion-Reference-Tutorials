@@ -8,10 +8,8 @@ keywords:
 - VSTX to HTML conversion
 - GroupDocs.Conversion for .NET
 - document conversion using C#
-
+type: docs
 ---
-
-
 # Convert VSTX to HTML Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

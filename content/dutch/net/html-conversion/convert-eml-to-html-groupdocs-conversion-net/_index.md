@@ -4,8 +4,8 @@
 "title": "Hoe u EML-bestanden naar HTML converteert met GroupDocs.Conversion voor .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/html-conversion/convert-eml-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # EML-bestanden naar HTML converteren met GroupDocs.Conversion voor .NET: een stapsgewijze handleiding
 
 ## Invoering

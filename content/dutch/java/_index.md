@@ -4,8 +4,8 @@
 "title": "Uitgebreide tutorials van GroupDocs.Conversion voor Java"
 "url": "/nl/java/"
 "weight": 10
+type: docs
 ---
-
 # Uitgebreide tutorials van GroupDocs.Conversion voor Java
 
 ## Invoering

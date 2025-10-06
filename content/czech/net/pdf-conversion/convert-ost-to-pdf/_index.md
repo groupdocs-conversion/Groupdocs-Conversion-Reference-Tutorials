@@ -5,8 +5,8 @@
 "title": "Převod OST do PDF"
 "url": "/cs/net/pdf-conversion/convert-ost-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # Převod OST do PDF
 
 ## Zavedení

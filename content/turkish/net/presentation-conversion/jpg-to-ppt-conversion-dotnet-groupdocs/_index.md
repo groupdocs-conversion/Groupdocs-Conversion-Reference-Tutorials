@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Kullanarak .NET'te Etkili JPG'den PPT'ye Dönüştürme"
 "url": "/tr/net/presentation-conversion/jpg-to-ppt-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Kullanarak .NET'te Etkili JPG'den PPT'ye Dönüştürme
 
 ## giriiş

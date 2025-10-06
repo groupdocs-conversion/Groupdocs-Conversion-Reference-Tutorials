@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi File DOTX di Aplikasi .NET&#58; Panduan Menggunakan GroupDocs.Conversion"
 "url": "/id/net/word-processing-formats-features/convert-dotx-files-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Cara Menerapkan dan Mengoptimalkan Konversi .NET: Memuat & Mengonversi File DOTX Menggunakan GroupDocs.Conversion
 
 ## Perkenalan

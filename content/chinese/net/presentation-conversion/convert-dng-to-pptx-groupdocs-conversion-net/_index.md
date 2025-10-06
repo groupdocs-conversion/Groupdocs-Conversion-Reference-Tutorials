@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 轻松将 DNG 转换为 PPTX"
 "url": "/zh/net/presentation-conversion/convert-dng-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将 DNG 转换为 PPTX
 
 在当今的数字时代，能够快速有效地管理文件转换至关重要。无论您是展示 3D 设计的建筑师，还是将原始图像转换为演示文稿的营销人员，学习如何将数字负片 (DNG) 文件转换为 PowerPoint 演示文稿 (.pptx) 格式都将大有裨益。

@@ -5,8 +5,8 @@
 "title": "Conversão de formato de arquivo"
 "url": "/pt/net/file-format-conversion-tutorials/"
 "weight": 21
+type: docs
 ---
-
 # Conversão de formato de arquivo
 
 ## Introdução

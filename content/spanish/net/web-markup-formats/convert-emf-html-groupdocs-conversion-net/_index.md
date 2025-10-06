@@ -4,8 +4,8 @@
 "title": "Convertir EMF a HTML con GroupDocs.Conversion para .NET&#58; guía paso a paso"
 "url": "/es/net/web-markup-formats/convert-emf-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convierta archivos EMF a HTML con GroupDocs.Conversion para .NET
 **Conversión de documentos maestros: transforme EMF a HTML con GroupDocs.Conversion para .NET**
 ## Introducción

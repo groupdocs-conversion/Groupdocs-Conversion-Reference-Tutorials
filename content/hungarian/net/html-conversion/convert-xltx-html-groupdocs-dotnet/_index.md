@@ -4,8 +4,8 @@
 "title": "XLTX konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/html-conversion/convert-xltx-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # XLTX konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

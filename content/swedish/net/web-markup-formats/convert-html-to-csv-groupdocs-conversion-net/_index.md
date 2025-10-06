@@ -4,8 +4,8 @@
 "title": "Konvertera HTML till CSV med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/web-markup-formats/convert-html-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera HTML till CSV med GroupDocs.Conversion för .NET: En steg-för-steg-guide
 
 ## Introduktion

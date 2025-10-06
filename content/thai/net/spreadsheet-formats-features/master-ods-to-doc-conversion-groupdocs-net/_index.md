@@ -4,8 +4,8 @@
 "title": "คู่มือฉบับสมบูรณ์ - แปลง ODS เป็น DOC ด้วย GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/spreadsheet-formats-features/master-ods-to-doc-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # คู่มือฉบับสมบูรณ์: แปลง ODS เป็น DOC ด้วย GroupDocs.Conversion สำหรับ .NET
 
 คุณกำลังมองหาวิธีแปลงไฟล์ OpenDocument Spreadsheet (ODS) ของคุณเป็นเอกสาร Microsoft Word ได้อย่างราบรื่นหรือไม่ ด้วย **GroupDocs.การแปลงสำหรับ .NET**งานนี้จะง่ายขึ้น คำแนะนำที่ครอบคลุมนี้จะพาคุณผ่านกระบวนการทีละขั้นตอน

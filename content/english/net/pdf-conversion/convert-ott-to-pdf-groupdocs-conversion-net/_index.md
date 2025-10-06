@@ -8,10 +8,8 @@ keywords:
 - convert OTT to PDF
 - GroupDocs.Conversion for .NET
 - document conversion C#
-
+type: docs
 ---
-
-
 # Convert OTT Files to PDF with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

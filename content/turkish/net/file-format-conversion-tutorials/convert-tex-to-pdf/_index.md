@@ -5,8 +5,8 @@
 "title": "TEX'i PDF'ye dönüştür"
 "url": "/tr/net/file-format-conversion-tutorials/convert-tex-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # TEX'i PDF'ye dönüştür
 
 ## giriiş

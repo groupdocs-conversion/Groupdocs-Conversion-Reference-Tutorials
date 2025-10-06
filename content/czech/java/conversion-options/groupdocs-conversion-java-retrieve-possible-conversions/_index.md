@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion pro Javu - Jak načíst všechny možné konverze"
 "url": "/cs/java/conversion-options/groupdocs-conversion-java-retrieve-possible-conversions/"
 "weight": 1
+type: docs
 ---
-
 # Komplexní průvodce načtením všech možných konverzí pomocí GroupDocs.Conversion pro Javu
 
 ## Zavedení

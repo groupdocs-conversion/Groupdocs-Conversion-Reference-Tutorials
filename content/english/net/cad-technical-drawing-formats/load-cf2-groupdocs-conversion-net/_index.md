@@ -8,10 +8,8 @@ keywords:
 - load CF2 files
 - GroupDocs.Conversion for .NET
 - convert CAD formats
-
+type: docs
 ---
-
-
 # How to Load and Convert CF2 Files Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak Excel'i (XLS) Metne (TXT) Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/text-markup-conversion/convert-xls-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak Excel (XLS) Dosyalarını Metne (TXT) Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

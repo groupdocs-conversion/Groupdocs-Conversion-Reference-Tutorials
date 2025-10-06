@@ -4,8 +4,8 @@
 "title": "Jelszóval védett Word-dokumentumok konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/working-with-secure-documents/convert-password-protected-docs-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jelszóval védett Word-dokumentumok betöltése és PDF-be konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

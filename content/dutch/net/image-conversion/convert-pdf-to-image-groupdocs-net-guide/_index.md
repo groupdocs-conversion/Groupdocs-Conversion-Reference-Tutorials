@@ -4,8 +4,8 @@
 "title": "PDF naar afbeelding converteren met GroupDocs.Conversion.NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/image-conversion/convert-pdf-to-image-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # PDF naar afbeelding converteren met GroupDocs.Conversion .NET: een uitgebreide handleiding
 
 ## Invoering

@@ -4,8 +4,8 @@
 "title": "Konvertera EMZ till PPT i .NET med GroupDocs.Conversion – en omfattande guide"
 "url": "/sv/net/presentation-formats-features/convert-emz-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera EMZ-filer till PPT med GroupDocs.Conversion för .NET
 
 ## Introduktion

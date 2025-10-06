@@ -4,8 +4,8 @@
 "title": "Konvertera MHT till XLS effektivt med GroupDocs.Conversion för .NET"
 "url": "/sv/net/spreadsheet-conversion/convert-mht-to-xls-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Omfattande guide: Konvertera MHT-filer till XLS med GroupDocs.Conversion för .NET
 
 ## Introduktion

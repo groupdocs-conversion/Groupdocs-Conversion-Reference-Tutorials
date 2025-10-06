@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for Java를 사용하여 DOCX에 워터마크를 추가하고 PDF로 변환하는 방법"
 "url": "/ko/java/watermarks-annotations/add-watermark-docx-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for Java를 사용하여 문서에 워터마크를 추가하는 방법
 
 오늘날의 디지털 세상에서는 무단 사용으로부터 문서를 보호하는 것이 매우 중요합니다. 민감한 정보를 공유하거나 문서에 브랜드를 추가하려는 경우 워터마크를 추가하는 것이 효과적인 해결책이 될 수 있습니다. 이 튜토리얼에서는 워터마크 사용 방법을 안내해 드리겠습니다. **Java용 GroupDocs.Conversion** DOCX 파일을 PDF로 변환할 때 워터마크를 추가하는 방법.

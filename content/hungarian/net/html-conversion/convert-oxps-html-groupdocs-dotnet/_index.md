@@ -4,8 +4,8 @@
 "title": "OXPS konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/html-conversion/convert-oxps-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # OXPS konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató
 
 A mai digitális környezetben az olyan fájlformátumok, mint az OXPS (Open XML Paper Specification), univerzálisan hozzáférhető formátumokká, például HTML-lé konvertálása javítja a használhatóságot és az akadálymentességet. Ez az oktatóanyag végigvezeti Önt a GroupDocs.Conversion for .NET használatán, amellyel zökkenőmentesen konvertálhatja az OXPS fájlokat HTML formátumba.

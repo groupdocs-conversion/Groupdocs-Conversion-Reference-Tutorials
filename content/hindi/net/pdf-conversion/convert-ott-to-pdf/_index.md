@@ -5,8 +5,8 @@
 "title": "OTT को PDF में बदलें"
 "url": "/hi/net/pdf-conversion/convert-ott-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # OTT को PDF में बदलें
 
 ## परिचय

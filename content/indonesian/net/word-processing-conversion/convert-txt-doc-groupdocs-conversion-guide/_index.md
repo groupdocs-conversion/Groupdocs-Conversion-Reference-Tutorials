@@ -4,8 +4,8 @@
 "title": "Panduan Lengkap&#58; Konversi TXT ke DOC Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/word-processing-conversion/convert-txt-doc-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Panduan Lengkap: Mengonversi TXT ke DOC Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

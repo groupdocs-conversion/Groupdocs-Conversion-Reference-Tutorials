@@ -4,8 +4,8 @@
 "title": "Konversi RTF ke TEX secara Efisien Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/word-processing-formats-features/convert-rtf-to-tex-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konversi RTF ke TEX secara Efisien Menggunakan GroupDocs.Conversion untuk .NET
 
 Di dunia digital saat ini, mengubah dokumen ke dalam format yang diinginkan sangat penting untuk kolaborasi dan penerbitan yang lancar. Apakah Anda seorang pengembang atau seseorang yang membutuhkan file RTF yang dikonversi ke TEX untuk keperluan akademis, tutorial ini akan memandu Anda menggunakan GroupDocs.Conversion untuk .NET.

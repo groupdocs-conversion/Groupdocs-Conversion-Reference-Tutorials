@@ -8,10 +8,8 @@ keywords:
 - PPTX to PDF Conversion
 - GroupDocs.Conversion for .NET
 - Document Conversion in C#
-
+type: docs
 ---
-
-
 # Master PPTX to PDF Conversion Using GroupDocs.Conversion for .NET: A Developer's Guide
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - OTS to PNG conversion
 - GroupDocs.Conversion .NET library
 - OpenDocument Spreadsheet Templates
-
+type: docs
 ---
-
-
 # How to Convert OTS Files to PNG Images Using GroupDocs.Conversion .NET Library
 
 ## Introduction

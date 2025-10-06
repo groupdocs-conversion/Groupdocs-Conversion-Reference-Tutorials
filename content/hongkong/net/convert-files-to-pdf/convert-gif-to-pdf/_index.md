@@ -5,8 +5,8 @@
 "title": "將 GIF 影像轉換為 PDF"
 "url": "/zh-hant/net/convert-files-to-pdf/convert-gif-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # 將 GIF 影像轉換為 PDF
 
 ## 介紹

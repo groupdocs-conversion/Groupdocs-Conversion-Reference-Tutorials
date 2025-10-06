@@ -4,8 +4,8 @@
 "title": "Chuyển đổi các trang cụ thể sang PDF bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/pdf-conversion-features/groupdocs-conversion-net-page-specific-pdf-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi các trang cụ thể sang PDF bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

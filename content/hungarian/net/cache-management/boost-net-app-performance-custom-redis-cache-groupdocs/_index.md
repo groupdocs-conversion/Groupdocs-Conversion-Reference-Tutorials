@@ -4,8 +4,8 @@
 "title": ".NET alkalmazások teljesítményének növelése – Egyéni Redis gyorsítótár megvalósítása a GroupDocs.Conversion segítségével"
 "url": "/hu/net/cache-management/boost-net-app-performance-custom-redis-cache-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Növelje .NET alkalmazásai teljesítményét egyéni Redis gyorsítótárazással a GroupDocs.Conversion segítségével
 
 ## Bevezetés

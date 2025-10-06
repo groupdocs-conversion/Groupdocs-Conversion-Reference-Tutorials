@@ -4,8 +4,8 @@
 "title": "Jak převést soubory OTS do obrázků PNG pomocí knihovny GroupDocs.Conversion .NET"
 "url": "/cs/net/image-conversion/convert-ots-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory OTS do obrázků PNG pomocí knihovny GroupDocs.Conversion .NET
 
 ## Zavedení

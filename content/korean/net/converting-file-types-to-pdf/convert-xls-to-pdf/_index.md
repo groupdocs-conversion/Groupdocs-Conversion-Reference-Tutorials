@@ -5,8 +5,8 @@
 "title": "XLS를 PDF로 변환"
 "url": "/ko/net/converting-file-types-to-pdf/convert-xls-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # XLS를 PDF로 변환
 
 ## 소개

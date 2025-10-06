@@ -4,8 +4,8 @@
 "title": "Как удалить встроенные файлы из PDF-файлов с помощью GroupDocs.Conversion .NET для оптимизированного управления документами"
 "url": "/ru/net/pdf-conversion-features/remove-embedded-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Как удалить встроенные файлы из PDF-файлов с помощью GroupDocs.Conversion .NET для оптимизированного управления документами
 
 ## Введение

@@ -4,8 +4,8 @@
 "title": "Convertir CSV en SVG dans .NET avec GroupDocs.Conversion - Un guide complet"
 "url": "/fr/net/spreadsheet-formats-features/convert-csv-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir CSV en SVG dans .NET avec GroupDocs.Conversion
 
 Dans un monde où les données sont omniprésentes, la conversion des données entre différents formats est essentielle pour une visualisation et une analyse efficaces. Que vous travailliez sur des feuilles de calcul ou que vous prépariez des fichiers pour des applications de conception graphique, la conversion d'un fichier CSV au format SVG peut améliorer considérablement l'accessibilité et la convivialité. Ce guide complet vous explique comment utiliser GroupDocs.Conversion pour .NET pour convertir facilement des fichiers CSV en SVG.

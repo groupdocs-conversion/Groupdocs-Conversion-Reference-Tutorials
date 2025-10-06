@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie EML-Dateien mit GroupDocs.Conversion für .NET in HTML – Eine Schritt-für-Schritt-Anleitung"
 "url": "/de/net/html-conversion/convert-eml-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie EML-Dateien mit GroupDocs.Conversion für .NET in HTML: Eine Schritt-für-Schritt-Anleitung
 
 ## Einführung

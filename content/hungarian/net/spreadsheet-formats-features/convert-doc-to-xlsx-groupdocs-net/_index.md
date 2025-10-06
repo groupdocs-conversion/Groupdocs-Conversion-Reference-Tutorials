@@ -4,8 +4,8 @@
 "title": "DOC fájlok XLSX formátumba konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-doc-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertáljunk DOC-ot XLSX-be a GroupDocs.Conversion for .NET használatával?
 
 ## Bevezetés

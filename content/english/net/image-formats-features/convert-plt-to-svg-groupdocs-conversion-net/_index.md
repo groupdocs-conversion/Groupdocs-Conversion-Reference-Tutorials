@@ -8,10 +8,8 @@ keywords:
 - convert PLT to SVG
 - GroupDocs.Conversion .NET
 - file conversion for architects
-
+type: docs
 ---
-
-
 # How to Convert PLT Files to SVG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

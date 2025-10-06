@@ -5,8 +5,8 @@
 "title": "HTML 웹 페이지를 PDF로 변환"
 "url": "/ko/net/convert-files-to-pdf/convert-html-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # HTML 웹 페이지를 PDF로 변환
 
 ## 소개

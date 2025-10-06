@@ -4,8 +4,8 @@
 "title": "Konvertera EPS till DOC med GroupDocs.Conversion i .NET | Steg-för-steg-guide"
 "url": "/sv/net/word-processing-conversion/convert-eps-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera EPS till DOC med GroupDocs.Conversion i .NET: En steg-för-steg-guide
 
 ## Introduktion

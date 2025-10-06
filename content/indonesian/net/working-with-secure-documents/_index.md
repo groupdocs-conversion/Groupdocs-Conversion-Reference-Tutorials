@@ -3,8 +3,8 @@
 "title": "Tutorial Bekerja dengan Dokumen Aman untuk GroupDocs.Conversion .NET"
 "url": "/id/net/working-with-secure-documents/"
 "weight": 5
+type: docs
 ---
-
 # Tutorial Bekerja dengan Dokumen Aman untuk GroupDocs.Conversion .NET
 
 Temukan cara menangani dokumen aman dengan tutorial GroupDocs.Conversion kami untuk pengembang .NET. Panduan langkah demi langkah ini mengajarkan Anda cara memuat file yang dilindungi kata sandi menggunakan pendekatan API standar dan lancar, mengelola kunci enkripsi, menentukan opsi keamanan khusus dokumen, menangani kegagalan autentikasi dengan baik, dan mempertahankan pengaturan keamanan selama konversi jika diperlukan. Setiap tutorial menyediakan contoh kode C# praktis untuk bekerja dengan dokumen yang dilindungi, membantu Anda membangun aplikasi yang dapat memproses konten aman sambil menghormati kerahasiaan dan kontrol akses.

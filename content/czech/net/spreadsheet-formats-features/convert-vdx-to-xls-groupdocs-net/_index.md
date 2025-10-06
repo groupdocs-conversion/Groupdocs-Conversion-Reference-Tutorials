@@ -4,8 +4,8 @@
 "title": "Převod VDX do XLS pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/spreadsheet-formats-features/convert-vdx-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod VDX do XLS pomocí GroupDocs.Conversion pro .NET: Komplexní průvodce
 
 V rychle se rozvíjejícím světě vývoje softwaru je konverze souborů mezi různými formáty častou nutností. Ať už analyzujete data nebo zajišťujete kompatibilitu napříč platformami, efektivní konverze souborů může ušetřit čas i zdroje. Tato příručka vás provede konverzí souborů Visio Drawing XML (VDX) do formátu Excel Spreadsheet (XLS) pomocí nástroje GroupDocs.Conversion pro .NET.

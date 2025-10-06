@@ -4,8 +4,8 @@
 "title": "ICO konvertálása TXT-vé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/text-markup-conversion/convert-ico-to-txt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # ICO fájlok konvertálása TXT formátumba a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

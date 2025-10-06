@@ -5,8 +5,8 @@
 "title": "Converteer DWT CAD-sjabloonbestanden naar PDF"
 "url": "/nl/net/convert-files-to-pdf/convert-dwt-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Converteer DWT CAD-sjabloonbestanden naar PDF
 
 ## Invoering

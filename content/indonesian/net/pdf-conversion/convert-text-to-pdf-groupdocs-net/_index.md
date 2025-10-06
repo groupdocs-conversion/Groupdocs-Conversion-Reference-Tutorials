@@ -4,8 +4,8 @@
 "title": "Konversi Teks ke PDF dalam .NET Menggunakan GroupDocs.Conversion - Panduan Lengkap"
 "url": "/id/net/pdf-conversion/convert-text-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi Teks ke PDF Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

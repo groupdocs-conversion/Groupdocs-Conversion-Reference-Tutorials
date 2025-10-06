@@ -4,8 +4,8 @@
 "title": "تحويل DOTM إلى DOC باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/word-processing-formats-features/convert-dotm-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل DOTM إلى DOC باستخدام GroupDocs.Conversion لـ .NET
 
 هل تواجه صعوبة في تحويل قوالب مايكروسوفت وورد الممكّنة بالماكرو (.dotm) إلى مستندات وورد قياسية (.doc)؟ هذا الدليل الشامل حول استخدام **GroupDocs.Conversion لـ .NET** ستساعدك المكتبة على تبسيط هذه العملية بسهولة. بنهاية هذا البرنامج التعليمي، ستتقن تحويل صيغ الملفات بسهولة.

@@ -8,10 +8,8 @@ keywords:
 - convert XLSX to JPG
 - GroupDocs.Conversion .NET
 - Excel file conversion
-
+type: docs
 ---
-
-
 # Convert XLSX Files to JPG with GroupDocs.Conversion for .NET
 
 ## Introduction

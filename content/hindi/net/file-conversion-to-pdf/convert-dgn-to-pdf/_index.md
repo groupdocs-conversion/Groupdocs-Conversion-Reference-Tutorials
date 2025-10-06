@@ -5,8 +5,8 @@
 "title": "DGN CAD फ़ाइलों को PDF में बदलें"
 "url": "/hi/net/file-conversion-to-pdf/convert-dgn-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # DGN CAD फ़ाइलों को PDF में बदलें
 
 ## परिचय

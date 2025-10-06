@@ -4,8 +4,8 @@
 "title": "تحويل مستندات Word المحمية بكلمة مرور إلى PPT بكفاءة باستخدام Java وGroupDocs.Conversion"
 "url": "/ar/java/presentation-formats/convert-password-protected-word-to-ppt-java/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل مستندات Word المحمية بكلمة مرور إلى PPT بكفاءة باستخدام Java وGroupDocs.Conversion
 
 ## مقدمة

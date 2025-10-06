@@ -4,8 +4,8 @@
 "title": "Cách lấy thông tin lưu trữ cá nhân từ tệp OST của Outlook bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/storage-files-pst-processing/retrieve-personal-storage-info-outlook-ost-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách lấy thông tin lưu trữ cá nhân từ tệp OST của Outlook bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

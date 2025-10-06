@@ -4,8 +4,8 @@
 "title": "Μετατροπή αρχείων OTP σε CSV χρησιμοποιώντας το GroupDocs.Conversion για .NET™ Ένας πλήρης οδηγός"
 "url": "/el/net/csv-structured-data-processing/convert-otp-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή αρχείων OTP σε CSV χρησιμοποιώντας το GroupDocs.Conversion για .NET: Ένας πλήρης οδηγός
 
 ## Εισαγωγή

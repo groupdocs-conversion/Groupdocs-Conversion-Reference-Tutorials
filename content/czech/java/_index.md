@@ -4,8 +4,8 @@
 "title": "Komplexní tutoriály k GroupDocs.Conversion pro Javu"
 "url": "/cs/java/"
 "weight": 10
+type: docs
 ---
-
 # Komplexní tutoriály k GroupDocs.Conversion pro Javu
 
 ## Zavedení

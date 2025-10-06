@@ -4,8 +4,8 @@
 "title": "Java-zelfstudie&#58; Word-documenten converteren naar PowerPoint met GroupDocs.Conversion voor Java"
 "url": "/nl/java/presentation-formats/java-groupdocs-conversion-word-to-ppt/"
 "weight": 1
+type: docs
 ---
-
 # Java-zelfstudie: Word-documenten converteren naar PowerPoint met GroupDocs.Conversion voor Java
 
 ## Invoering

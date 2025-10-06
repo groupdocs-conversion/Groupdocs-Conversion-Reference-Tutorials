@@ -4,8 +4,8 @@
 "title": "Convertir un fichier JPF en PDF à l'aide de GroupDocs.Conversion pour .NET &#58; un guide complet"
 "url": "/fr/net/pdf-conversion-features/convert-jpf-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertir un fichier JPF en PDF avec GroupDocs.Conversion pour .NET : guide complet
 
 ## Introduction

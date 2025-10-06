@@ -3,8 +3,8 @@
 "title": "Samouczki dotyczące konwersji tekstu i znaczników dla GroupDocs.Conversion .NET"
 "url": "/pl/net/text-markup-conversion/"
 "weight": 32
+type: docs
 ---
-
 # Samouczki dotyczące konwersji tekstu i znaczników dla GroupDocs.Conversion .NET
 
 Poznaj konwersję formatu opartą na tekście dzięki naszym szczegółowym samouczkom GroupDocs.Conversion dla programistów .NET. Te przewodniki krok po kroku pokazują, jak konwertować z formatów dokumentów o wysokiej zawartości na zwykły tekst, XML, Markdown, TeX i inne formaty oparte na tekście. Dowiedz się więcej o opcjach kodowania, technikach ekstrakcji tekstu, obsłudze znaków specjalnych, zachowaniu struktury dokumentu, utrzymywaniu relacji hierarchicznych w formatach znaczników i wdrażaniu zasad formatowania tekstu. Każdy samouczek zawiera praktyczne przykłady kodu C# do tworzenia reprezentacji tekstowych dokumentów, które przechwytują istotną treść w prostych, przenośnych i łatwych do analizy formatach.

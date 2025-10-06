@@ -4,8 +4,8 @@
 "title": "GroupDocs ile .NET E-posta Dönüşümünde Ustalaşın - Geliştiriciler İçin Küreselleşme Kılavuzu"
 "url": "/tr/net/email-formats-features/master-net-email-conversion-groupdocs-globalization-guide/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs ile .NET E-posta Dönüşümünde Ustalaşma: Kapsamlı Bir Küreselleşme Kılavuzu
 
 ## giriiş

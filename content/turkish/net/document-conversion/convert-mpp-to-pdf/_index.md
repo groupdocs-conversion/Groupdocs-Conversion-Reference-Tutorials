@@ -5,8 +5,8 @@
 "title": "MPP'yi PDF'ye dönüştür"
 "url": "/tr/net/document-conversion/convert-mpp-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # MPP'yi PDF'ye dönüştür
 
 ## giriiş

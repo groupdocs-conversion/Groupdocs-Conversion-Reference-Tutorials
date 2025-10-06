@@ -5,8 +5,8 @@
 "title": "Konvertera MOBI till PDF"
 "url": "/sv/net/document-conversion/convert-mobi-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Konvertera MOBI till PDF
 
 ## Introduktion

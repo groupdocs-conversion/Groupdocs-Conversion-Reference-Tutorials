@@ -4,8 +4,8 @@
 "title": "OTSをDOCXに簡単に変換する - GroupDocs.Conversion for .NETガイド"
 "url": "/ja/net/word-processing-conversion/convert-ots-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET で OTS を DOCX に変換する
 
 ## 導入

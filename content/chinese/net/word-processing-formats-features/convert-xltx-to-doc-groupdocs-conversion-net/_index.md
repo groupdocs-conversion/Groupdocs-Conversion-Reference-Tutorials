@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将 Excel 模板 (.xltx) 转换为 Word 文档 (DOC)"
 "url": "/zh/net/word-processing-formats-features/convert-xltx-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将 Excel 模板 (.xltx) 转换为 Word 文档 (DOC)
 ## 介绍
 欢迎阅读这份全面的指南，了解如何使用强大的 GroupDocs.Conversion for .NET 库将 Excel 模板 (.xltx) 文件转换为 Word 文档 (DOC) 格式。此解决方案在文档管理工作流程中至关重要，能够将数据丰富的模板与基于文本的文档无缝集成。

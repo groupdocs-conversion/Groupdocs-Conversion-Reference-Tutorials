@@ -5,8 +5,8 @@
 "title": "Convertendo tipos de arquivo para PDF"
 "url": "/pt/net/converting-file-types-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Convertendo tipos de arquivo para PDF
 
 ## Introdução

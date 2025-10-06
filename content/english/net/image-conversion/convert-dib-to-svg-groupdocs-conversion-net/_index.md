@@ -8,10 +8,8 @@ keywords:
 - convert DIB to SVG
 - GroupDocs.Conversion for .NET
 - image conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Efficiently Convert DIB to SVG Using GroupDocs.Conversion for .NET
 
 ## Introduction

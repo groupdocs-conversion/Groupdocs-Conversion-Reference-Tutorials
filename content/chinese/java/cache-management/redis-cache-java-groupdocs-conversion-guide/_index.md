@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 Java 中实现 Redis 缓存以增强性能"
 "url": "/zh/java/cache-management/redis-cache-java-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 Java 中实现 Redis 缓存：综合指南
 Redis 是一个功能强大的开源内存数据结构存储，可用作数据库、缓存和消息代理。将 Redis 与 Java 应用程序集成，可以将频繁访问的数据存储在内存中，从而显著提升性能。本教程将指导您使用 Java 的 GroupDocs.Conversion 库实现 Redis 缓存，并利用 Aspose 库的高级功能来简化文档转换任务。
 

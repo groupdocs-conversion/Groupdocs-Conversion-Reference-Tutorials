@@ -4,8 +4,8 @@
 "title": "PDF-annotaties verbergen vóór conversie naar Word met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/page-management-content-manipulation/hide-pdf-annotations-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # PDF-annotaties verbergen vóór conversie naar Word met GroupDocs.Conversion voor .NET
 
 ## Invoering

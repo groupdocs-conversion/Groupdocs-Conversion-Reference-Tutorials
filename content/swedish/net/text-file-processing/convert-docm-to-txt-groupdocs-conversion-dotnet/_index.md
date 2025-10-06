@@ -4,8 +4,8 @@
 "title": "Konvertera DOCM till TXT med GroupDocs.Conversion för .NET | Förenklad textfilbehandling"
 "url": "/sv/net/text-file-processing/convert-docm-to-txt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar ett Microsoft Word-makroaktiverat dokument (DOCM) till vanlig text (.txt) med GroupDocs.Conversion för .NET
 
 ## Introduktion

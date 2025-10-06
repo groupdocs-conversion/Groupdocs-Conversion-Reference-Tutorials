@@ -5,8 +5,8 @@
 "title": "STL को PDF में बदलें"
 "url": "/hi/net/file-format-conversion-tutorials/convert-stl-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # STL को PDF में बदलें
 
 ## परिचय

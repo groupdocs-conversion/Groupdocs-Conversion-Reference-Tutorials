@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie CSV-Dateien mit spezifischer Kodierung in PDFs mithilfe von GroupDocs.Conversion für .NET"
 "url": "/de/net/csv-structured-data-processing/convert-csv-pdf-specific-encoding-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie CSV-Dateien mit spezifischer Kodierung in PDFs mithilfe von GroupDocs.Conversion für .NET
 
 ## Einführung

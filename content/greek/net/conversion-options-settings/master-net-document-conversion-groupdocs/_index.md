@@ -4,8 +4,8 @@
 "title": "Εξειδίκευση στη μετατροπή εγγράφων .NET - Χρησιμοποιήστε το GroupDocs για απρόσκοπτους μετασχηματισμούς PDF"
 "url": "/el/net/conversion-options-settings/master-net-document-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Mastering Μετατροπή Εγγράφων σε .NET με το GroupDocs.Conversion
 
 ## Εισαγωγή

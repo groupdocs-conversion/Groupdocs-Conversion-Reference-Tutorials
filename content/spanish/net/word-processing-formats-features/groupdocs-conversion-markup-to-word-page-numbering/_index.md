@@ -4,8 +4,8 @@
 "title": "Convertir marcado a Word con numeración de páginas mediante GroupDocs.Conversion para .NET"
 "url": "/es/net/word-processing-formats-features/groupdocs-conversion-markup-to-word-page-numbering/"
 "weight": 1
+type: docs
 ---
-
 # Convertir marcado a Word con numeración de páginas mediante GroupDocs.Conversion para .NET
 ## Introducción
 ¿Quieres convertir documentos marcados a formatos profesionales de Word y mantener la numeración de páginas precisa? Este tutorial te guiará en el uso. **GroupDocs.Conversion para .NET** Para transformar sus documentos sin problemas. Esta potente biblioteca simplifica las conversiones y garantiza que elementos esenciales como la numeración de páginas permanezcan intactos en el documento de salida.

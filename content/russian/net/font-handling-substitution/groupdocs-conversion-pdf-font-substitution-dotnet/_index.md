@@ -4,8 +4,8 @@
 "title": "Мастер замены шрифтов PDF в .NET с GroupDocs.Conversion&#58; Подробное руководство"
 "url": "/ru/net/font-handling-substitution/groupdocs-conversion-pdf-font-substitution-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Мастер замены шрифтов PDF в .NET с GroupDocs.Conversion
 
 Обеспечение единообразной типографии во время преобразования документов имеет жизненно важное значение. Это всеобъемлющее руководство демонстрирует использование GroupDocs.Conversion для .NET для эффективного управления заменами шрифтов при преобразовании документов в PDF.

@@ -4,8 +4,8 @@
 "title": "Hatékony JPG-PPT konvertálás .NET-ben a GroupDocs.Conversion használatával"
 "url": "/hu/net/presentation-conversion/jpg-to-ppt-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony JPG-PPT konvertálás .NET-ben a GroupDocs.Conversion használatával
 
 ## Bevezetés

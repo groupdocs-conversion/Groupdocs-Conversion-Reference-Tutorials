@@ -4,8 +4,8 @@
 "title": "Конвертируйте DWFX в SVG с помощью GroupDocs.Conversion для .NET&#58; Пошаговое руководство"
 "url": "/ru/net/cad-technical-drawing-formats/convert-dwfx-to-svg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Конвертация DWFX в SVG с помощью GroupDocs.Conversion для .NET: пошаговое руководство
 
 ## Введение

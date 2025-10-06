@@ -4,8 +4,8 @@
 "title": "Chuyển đổi XLSX sang SVG&#58; Hướng dẫn từng bước sử dụng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/image-conversion/convert-xlsx-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi XLSX sang SVG với GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

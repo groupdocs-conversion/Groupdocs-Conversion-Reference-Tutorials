@@ -4,8 +4,8 @@
 "title": "Konverze hlavních souborů – načtení a převod souborů JPF pomocí GroupDocs pro .NET"
 "url": "/cs/net/image-formats-features/load-convert-jpf-files-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konverze hlavních souborů: Načtení a konverze souborů JPF pomocí GroupDocs pro .NET
 
 ## Zavedení

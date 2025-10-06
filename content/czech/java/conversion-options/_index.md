@@ -3,8 +3,8 @@
 "title": "Výukové programy k možnostem převodu dokumentů pro GroupDocs.Conversion v Javě"
 "url": "/cs/java/conversion-options/"
 "weight": 3
+type: docs
 ---
-
 # Výukové programy k možnostem převodu dokumentů pro GroupDocs.Conversion v Javě
 
 Zvládněte nastavení převodu dokumentů s našimi podrobnými tutoriály o GroupDocs.Conversion v Javě. Tyto podrobné návody ukazují, jak jemně doladit parametry převodu, nastavit rozsahy stránek, konfigurovat kvalitu obrázků, ovládat písma, spravovat metadata a programově přizpůsobit různé další aspekty převodu. Každý tutoriál obsahuje funkční příklady kódu Java, poznámky k implementaci a osvědčené postupy, které vám pomohou vytvářet aplikace, jež produkují dokonale přizpůsobené výstupní dokumenty.

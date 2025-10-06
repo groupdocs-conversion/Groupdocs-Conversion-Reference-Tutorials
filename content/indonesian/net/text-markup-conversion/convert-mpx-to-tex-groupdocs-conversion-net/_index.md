@@ -4,8 +4,8 @@
 "title": "Konversi MPX ke TeX dengan GroupDocs.Conversion untuk .NET&#58; Panduan Pengembang"
 "url": "/id/net/text-markup-conversion/convert-mpx-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi MPX ke TEX Menggunakan GroupDocs.Conversion untuk .NET: Panduan Pengembang
 
 ## Perkenalan

@@ -3,8 +3,8 @@
 "title": "Tutorials zur Speicherdatei- und PST-Verarbeitung für GroupDocs.Conversion .NET"
 "url": "/de/net/storage-files-pst-processing/"
 "weight": 21
+type: docs
 ---
-
 # Tutorials zur Speicherdatei- und PST-Verarbeitung für GroupDocs.Conversion .NET
 
 Unsere Tutorials zur Speicherdateiverarbeitung bieten detaillierte Anleitungen zum Umgang mit E-Mail-Containern in .NET-Anwendungen. Diese praktischen Anleitungen zeigen, wie Sie Inhalte aus persönlichen Speicherdateien wie PST und OST extrahieren und konvertieren, Ordnerstrukturen abrufen, Speicherinhalte in verschiedene Formate konvertieren, verschachtelte Inhaltshierarchien verarbeiten, Nachrichtenmetadaten beibehalten, mehrere Nachrichten stapelweise verarbeiten und selektive Extraktionsvorgänge implementieren. Jedes Tutorial enthält vollständige C#-Codebeispiele für Speicherdateikonvertierungsszenarien und unterstützt Sie beim Erstellen von Anwendungen, die effektiv auf in E-Mail-Containerformaten gespeicherte Daten zugreifen und diese transformieren können.

@@ -8,10 +8,8 @@ keywords:
 - Convert PowerPoint to SVG
 - GroupDocs.Conversion for .NET
 - PowerPoint to SVG conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert PowerPoint to SVG Using GroupDocs.Conversion for .NET
 
 ## Introduction

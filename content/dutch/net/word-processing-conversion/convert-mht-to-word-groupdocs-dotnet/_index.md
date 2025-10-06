@@ -4,8 +4,8 @@
 "title": "MHT-bestanden converteren naar Word-documenten met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/word-processing-conversion/convert-mht-to-word-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # MHT-bestanden converteren naar Word-documenten met GroupDocs.Conversion voor .NET
 
 ## Invoering

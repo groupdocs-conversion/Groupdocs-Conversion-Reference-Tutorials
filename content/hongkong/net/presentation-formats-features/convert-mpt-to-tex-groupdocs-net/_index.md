@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 MPT 轉換為 TEX&#58; 無縫檔案轉換指南"
 "url": "/zh-hant/net/presentation-formats-features/convert-mpt-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 MPT 轉換為 TEX：無縫檔案轉換指南
 
 ## 介紹

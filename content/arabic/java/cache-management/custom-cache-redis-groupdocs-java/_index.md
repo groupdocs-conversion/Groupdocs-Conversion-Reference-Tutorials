@@ -4,8 +4,8 @@
 "title": "كيفية تنفيذ التخزين المؤقت المخصص في Java باستخدام Redis وGroupDocs.Conversion"
 "url": "/ar/java/cache-management/custom-cache-redis-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تنفيذ التخزين المؤقت المخصص في Java باستخدام Redis وGroupDocs.Conversion
 
 ## مقدمة

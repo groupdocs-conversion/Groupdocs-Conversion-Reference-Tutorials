@@ -5,8 +5,8 @@
 "title": "Converteer EMZ Enhanced Metafiles naar PDF"
 "url": "/nl/net/convert-files-to-pdf/convert-emz-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # Converteer EMZ Enhanced Metafiles naar PDF
 
 ## Invoering

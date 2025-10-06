@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion'da Sabit Yönetiminde Ustalaşma Dosya Dönüştürme Projeleri için Java"
 "url": "/tr/java/conversion-options/mastering-constants-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Java ile Sabit Yönetiminde Ustalaşma
 
 ## giriiş

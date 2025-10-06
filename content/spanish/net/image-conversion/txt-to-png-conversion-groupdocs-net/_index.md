@@ -4,8 +4,8 @@
 "title": "Conversión eficiente de TXT a PNG con GroupDocs.Conversion para .NET"
 "url": "/es/net/image-conversion/txt-to-png-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Conversión eficiente de TXT a PNG con GroupDocs.Conversion para .NET
 
 ## Introducción

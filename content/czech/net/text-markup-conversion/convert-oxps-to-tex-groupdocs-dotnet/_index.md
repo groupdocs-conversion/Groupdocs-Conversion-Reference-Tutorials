@@ -4,8 +4,8 @@
 "title": "Převod OXPS do TEXu v .NET pomocí GroupDocs.Conversion API"
 "url": "/cs/net/text-markup-conversion/convert-oxps-to-tex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod OXPS do TEXu pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

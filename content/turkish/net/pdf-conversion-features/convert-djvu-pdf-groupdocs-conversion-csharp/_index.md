@@ -4,8 +4,8 @@
 "title": "DJVU'yu GroupDocs.Conversion Kullanarak C#'ta PDF'ye Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/pdf-conversion-features/convert-djvu-pdf-groupdocs-conversion-csharp/"
 "weight": 1
+type: docs
 ---
-
 # DJVU'yu GroupDocs ile PDF'ye Dönüştürme. C#'da Dönüştürme: Kapsamlı Bir Eğitim
 
 ## giriiş

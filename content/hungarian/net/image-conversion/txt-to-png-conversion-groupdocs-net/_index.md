@@ -4,8 +4,8 @@
 "title": "Hatékony TXT-PNG konvertálás a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/txt-to-png-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony TXT-PNG konvertálás a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

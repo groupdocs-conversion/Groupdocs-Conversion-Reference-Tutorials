@@ -4,8 +4,8 @@
 "title": "Μετατροπή PDF σε Word με χρήση του GroupDocs.Conversion για .NET | Πλήρης οδηγός"
 "url": "/el/net/word-processing-formats-features/master-pdf-to-word-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Κατανόηση της μετατροπής PDF σε Word με το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

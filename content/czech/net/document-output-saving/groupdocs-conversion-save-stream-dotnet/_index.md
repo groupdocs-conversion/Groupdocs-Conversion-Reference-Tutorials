@@ -4,8 +4,8 @@
 "title": "Jak ukládat soubory do streamu pomocí GroupDocs.Conversion v .NET | Podrobný návod"
 "url": "/cs/net/document-output-saving/groupdocs-conversion-save-stream-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak implementovat GroupDocs.Conversion .NET: Uložení převedeného souboru do streamu
 
 ## Zavedení

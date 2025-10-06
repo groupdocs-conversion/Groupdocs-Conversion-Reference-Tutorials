@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for Java 将文档转换为 PDF 的分步指南"
 "url": "/zh/java/pdf-conversion/convert-documents-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for Java 将文档转换为 PDF
 ## 如何使用 GroupDocs.Conversion 将文档转换为 PDF：分步指南
 ### 介绍

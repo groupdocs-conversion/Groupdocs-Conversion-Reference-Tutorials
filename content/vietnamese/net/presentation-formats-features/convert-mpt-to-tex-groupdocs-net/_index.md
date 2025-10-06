@@ -4,8 +4,8 @@
 "title": "Chuyển đổi MPT sang TEX với GroupDocs.Conversion cho .NET&#58; Hướng dẫn chuyển đổi tệp liền mạch"
 "url": "/vi/net/presentation-formats-features/convert-mpt-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi MPT sang TEX với GroupDocs.Conversion cho .NET: Hướng dẫn chuyển đổi tệp liền mạch
 
 ## Giới thiệu

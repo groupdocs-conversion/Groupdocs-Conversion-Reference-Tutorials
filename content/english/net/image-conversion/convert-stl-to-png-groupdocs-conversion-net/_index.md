@@ -8,10 +8,8 @@ keywords:
 - convert STL to PNG
 - GroupDocs.Conversion for .NET
 - C# image conversion
-
+type: docs
 ---
-
-
 # How to Convert STL Files to PNG Using GroupDocs.Conversion for .NET
 
 ## Introduction

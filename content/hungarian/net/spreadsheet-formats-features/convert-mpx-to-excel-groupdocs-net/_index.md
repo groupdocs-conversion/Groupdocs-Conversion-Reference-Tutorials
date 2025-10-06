@@ -4,8 +4,8 @@
 "title": "MPX fájlok konvertálása Excelbe a GroupDocs.Conversion for .NET használatával - Egyszerű projektmenedzsment fájlkonvertálás"
 "url": "/hu/net/spreadsheet-formats-features/convert-mpx-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # MPX fájlok konvertálása Excelbe a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

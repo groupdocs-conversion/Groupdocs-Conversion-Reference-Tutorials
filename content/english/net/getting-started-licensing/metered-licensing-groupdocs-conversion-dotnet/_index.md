@@ -8,10 +8,8 @@ keywords:
 - metered licensing GroupDocs.Conversion for .NET
 - implementing metered license .NET
 - document conversion scenarios with GroupDocs
-
+type: docs
 ---
-
-
 # Implementing Metered Licensing with GroupDocs.Conversion for .NET
 
 ## Introduction

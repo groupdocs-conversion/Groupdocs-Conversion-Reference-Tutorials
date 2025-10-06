@@ -4,8 +4,8 @@
 "title": "Umfassender Leitfaden&#58; Konvertieren Sie EMF in SVG mit GroupDocs.Conversion für .NET"
 "url": "/de/net/image-formats-features/convert-emf-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Umfassende Anleitung: Konvertieren Sie EMF in SVG mit GroupDocs.Conversion für .NET
 
 ## Einführung

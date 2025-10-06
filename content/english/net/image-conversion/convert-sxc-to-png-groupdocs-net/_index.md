@@ -8,10 +8,8 @@ keywords:
 - convert SXC to PNG
 - GroupDocs.Conversion .NET
 - image conversion .NET
-
+type: docs
 ---
-
-
 # Convert SXC Files to PNG with GroupDocs in .NET
 
 ## Introduction

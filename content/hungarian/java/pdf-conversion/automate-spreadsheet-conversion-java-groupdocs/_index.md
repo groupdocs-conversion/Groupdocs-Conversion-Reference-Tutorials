@@ -4,8 +4,8 @@
 "title": "Táblázatkezelő PDF-be konvertálásának automatizálása Java-ban a GroupDocs.Conversion használatával"
 "url": "/hu/java/pdf-conversion/automate-spreadsheet-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Táblázatkezelő PDF-be konvertálásának automatizálása Java-ban a GroupDocs.Conversion használatával
 
 ## Bevezetés

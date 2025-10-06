@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Effortlessly convert CMX files to PDF format using GroupDocs.Conversion for .NET. Seamlessly integrate file conversion capabilities into your .NET applications.
 weight: 15
 url: /net/file-conversion-to-pdf/convert-cmx-to-pdf/
+type: docs
 ---
-
 # Convert CMX to PDF
 
 ## Introduction

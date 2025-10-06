@@ -4,8 +4,8 @@
 "title": "如何在 .NET 中使用 GroupDocs.Conversion 將檔案儲存到串流 | 逐步指南"
 "url": "/zh-hant/net/document-output-saving/groupdocs-conversion-save-stream-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 如何實作 GroupDocs.Conversion .NET：將轉換後的檔案儲存到流
 
 ## 介紹

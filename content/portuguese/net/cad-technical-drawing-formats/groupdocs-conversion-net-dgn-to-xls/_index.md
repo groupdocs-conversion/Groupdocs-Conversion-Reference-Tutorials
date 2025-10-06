@@ -4,8 +4,8 @@
 "title": "Converta DGN para XLS com eficiência usando o GroupDocs.Conversion para .NET - Um guia passo a passo"
 "url": "/pt/net/cad-technical-drawing-formats/groupdocs-conversion-net-dgn-to-xls/"
 "weight": 1
+type: docs
 ---
-
 # Converta DGN para XLS com eficiência usando o GroupDocs.Conversion para .NET: um guia passo a passo
 
 ## Introdução

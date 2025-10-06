@@ -4,8 +4,8 @@
 "title": "تحويل WMF إلى TXT باستخدام GroupDocs.Conversion لـ .NET - دليل كامل"
 "url": "/ar/net/text-file-processing/wmf-to-txt-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # تحويل WMF إلى TXT باستخدام GroupDocs.Conversion لـ .NET: دليل كامل
 
 ## مقدمة

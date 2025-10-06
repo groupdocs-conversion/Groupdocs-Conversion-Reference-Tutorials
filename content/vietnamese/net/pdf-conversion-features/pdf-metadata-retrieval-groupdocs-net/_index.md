@@ -4,8 +4,8 @@
 "title": "Cách lấy siêu dữ liệu PDF bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/pdf-conversion-features/pdf-metadata-retrieval-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách lấy siêu dữ liệu PDF bằng GroupDocs.Conversion cho .NET
 
 Bạn có thấy mệt mỏi khi phải trích xuất thông tin thủ công từ các tài liệu PDF không? Hãy tự động hóa tác vụ này với GroupDocs.Conversion cho .NET và lấy các thông tin chi tiết quan trọng như tác giả, ngày tạo, số trang, kích thước, v.v.

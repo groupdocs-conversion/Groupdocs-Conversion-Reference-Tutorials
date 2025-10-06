@@ -8,10 +8,8 @@ keywords:
 - convert VDW to PowerPoint
 - GroupDocs.Conversion for .NET
 - VDW file conversion
-
+type: docs
 ---
-
-
 # Convert VDW Files to PowerPoint Using GroupDocs.Conversion for .NET
 
 ## Introduction

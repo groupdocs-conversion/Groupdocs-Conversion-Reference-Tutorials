@@ -4,8 +4,8 @@
 "title": "PSD konvertálása Excelbe a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/spreadsheet-conversion/convert-psd-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PSD fájlok konvertálása Excel-táblázatokká a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

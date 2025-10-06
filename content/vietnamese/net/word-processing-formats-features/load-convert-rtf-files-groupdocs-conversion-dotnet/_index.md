@@ -4,8 +4,8 @@
 "title": "Tải và chuyển đổi tệp RTF hiệu quả bằng GroupDocs.Conversion trong .NET"
 "url": "/vi/net/word-processing-formats-features/load-convert-rtf-files-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Tải và chuyển đổi tệp RTF hiệu quả bằng GroupDocs.Conversion trong .NET
 
 ## Giới thiệu

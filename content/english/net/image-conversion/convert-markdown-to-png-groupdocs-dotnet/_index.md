@@ -8,10 +8,8 @@ keywords:
 - convert Markdown to PNG
 - GroupDocs.Conversion for .NET
 - Markdown file conversion
-
+type: docs
 ---
-
-
 # Comprehensive Guide: Convert Markdown to PNG Using GroupDocs.Conversion for .NET
 
 ## Introduction

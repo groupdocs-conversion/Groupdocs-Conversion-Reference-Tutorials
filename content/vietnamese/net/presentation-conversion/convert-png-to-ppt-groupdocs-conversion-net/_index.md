@@ -4,8 +4,8 @@
 "title": "Chuyển đổi PNG sang PPT hiệu quả bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/presentation-conversion/convert-png-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi PNG sang PPT hiệu quả bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "Comment convertir un fichier JPX en JPG à l'aide de GroupDocs.Conversion .NET – Guide étape par étape"
 "url": "/fr/net/image-conversion/convert-jpx-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir des fichiers JPX en JPG avec GroupDocs.Conversion .NET : guide étape par étape
 
 ## Introduction

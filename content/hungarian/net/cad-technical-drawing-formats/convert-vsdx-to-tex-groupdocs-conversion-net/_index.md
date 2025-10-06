@@ -4,8 +4,8 @@
 "title": "VSDX fájlok konvertálása LaTeX (TEX) formátumba a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/cad-technical-drawing-formats/convert-vsdx-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VSDX fájlok konvertálása LaTeX (TEX) formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

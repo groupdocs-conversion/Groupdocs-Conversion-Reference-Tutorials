@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Mastering EMZ to PSD Conversion with GroupDocs.Conversion for .NET
 
 ## Introduction

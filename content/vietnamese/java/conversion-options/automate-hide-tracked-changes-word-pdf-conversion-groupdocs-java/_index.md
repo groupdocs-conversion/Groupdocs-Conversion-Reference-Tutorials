@@ -4,8 +4,8 @@
 "title": "Tự động ẩn các thay đổi được theo dõi trong quá trình chuyển đổi Word sang PDF bằng GroupDocs.Conversion cho Java"
 "url": "/vi/java/conversion-options/automate-hide-tracked-changes-word-pdf-conversion-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Tự động ẩn các thay đổi được theo dõi trong quá trình chuyển đổi Word sang PDF bằng GroupDocs.Conversion cho Java
 
 ## Giới thiệu

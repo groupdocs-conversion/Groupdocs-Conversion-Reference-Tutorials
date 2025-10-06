@@ -4,8 +4,8 @@
 "title": "WMF konvertálása TEX-be a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/text-markup-conversion/convert-wmf-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # WMF fájlok konvertálása TEX formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

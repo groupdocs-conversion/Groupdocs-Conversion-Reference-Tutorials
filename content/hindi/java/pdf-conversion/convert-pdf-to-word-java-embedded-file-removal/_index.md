@@ -4,8 +4,8 @@
 "title": "जावा में एम्बेडेड फ़ाइल हटाने के साथ पीडीएफ को वर्ड में कनवर्ट करें&#58; GroupDocs.Conversion का उपयोग करके एक चरण-दर-चरण गाइड"
 "url": "/hi/java/pdf-conversion/convert-pdf-to-word-java-embedded-file-removal/"
 "weight": 1
+type: docs
 ---
-
 # एम्बेडेड फ़ाइल निष्कासन के साथ Java में PDF को Word में कनवर्ट करें: GroupDocs.Conversion का उपयोग करके एक चरण-दर-चरण मार्गदर्शिका
 
 ## परिचय

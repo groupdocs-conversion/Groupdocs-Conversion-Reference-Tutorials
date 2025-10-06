@@ -4,8 +4,8 @@
 "title": "DOCM SVG-vé konvertálásának elsajátítása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/convert-docm-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DOCM SVG-vé konvertálásának elsajátítása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

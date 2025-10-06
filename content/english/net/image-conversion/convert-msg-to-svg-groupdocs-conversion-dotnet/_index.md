@@ -8,10 +8,8 @@ keywords:
 - convert MSG to SVG
 - image conversion with GroupDocs
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # Convert MSG to SVG with GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

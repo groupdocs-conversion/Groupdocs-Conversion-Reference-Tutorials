@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用してログファイルを CSV に変換する方法 - ステップバイステップガイド"
 "url": "/ja/net/csv-structured-data-processing/convert-log-file-to-csv-using-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して LOG ファイルを CSV に変換する方法: ステップバイステップガイド
 
 ## 導入

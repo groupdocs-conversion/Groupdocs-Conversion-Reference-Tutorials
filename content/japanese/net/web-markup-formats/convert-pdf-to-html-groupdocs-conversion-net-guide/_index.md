@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET を使用して PDF を HTML に変換する手順"
 "url": "/ja/net/web-markup-formats/convert-pdf-to-html-groupdocs-conversion-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET を使用して PDF を HTML に変換する: ステップバイステップガイド
 
 ## 導入

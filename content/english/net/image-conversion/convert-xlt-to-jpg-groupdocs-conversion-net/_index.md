@@ -8,10 +8,8 @@ keywords:
 - convert XLT to JPG
 - GroupDocs.Conversion .NET
 - file format conversion
-
+type: docs
 ---
-
-
 # How to Convert XLT Files to JPG Using GroupDocs.Conversion for .NET
 
 In today's digital workspace, efficient file format conversion is crucial for managing and sharing data across platforms. This tutorial guides you through using GroupDocs.Conversion for .NET to convert Excel Template (XLT) files into JPG images, enhancing accessibility and distribution efficiency.

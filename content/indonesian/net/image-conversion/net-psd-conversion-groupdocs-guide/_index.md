@@ -4,8 +4,8 @@
 "title": "Konversi Net PSD dengan Panduan Lengkap GroupDocs untuk Pengembang .NET"
 "url": "/id/net/image-conversion/net-psd-conversion-groupdocs-guide/"
 "weight": 1
+type: docs
 ---
-
 # Konversi Net PSD dengan GroupDocs: Panduan Lengkap untuk Pengembang .NET
 
 ## Perkenalan

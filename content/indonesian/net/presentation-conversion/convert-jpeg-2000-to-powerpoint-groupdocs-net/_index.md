@@ -4,8 +4,8 @@
 "title": "Konversi JPEG 2000 (.jp2) ke PowerPoint secara efisien menggunakan GroupDocs.Conversion .NET"
 "url": "/id/net/presentation-conversion/convert-jpeg-2000-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi JPEG 2000 (.jp2) ke PowerPoint secara efisien menggunakan GroupDocs.Conversion .NET
 
 ## Perkenalan

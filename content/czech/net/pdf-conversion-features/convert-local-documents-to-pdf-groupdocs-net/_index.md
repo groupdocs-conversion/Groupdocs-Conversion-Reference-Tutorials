@@ -4,8 +4,8 @@
 "title": "Převod lokálních dokumentů do PDF pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/pdf-conversion-features/convert-local-documents-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést lokální dokumenty do PDF pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

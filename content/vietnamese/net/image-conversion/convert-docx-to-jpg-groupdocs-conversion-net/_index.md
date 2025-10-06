@@ -4,8 +4,8 @@
 "title": "Chuyển đổi DOCX sang JPG dễ dàng - Hướng dẫn đầy đủ sử dụng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/image-conversion/convert-docx-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi DOCX sang JPG dễ dàng: Hướng dẫn đầy đủ sử dụng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

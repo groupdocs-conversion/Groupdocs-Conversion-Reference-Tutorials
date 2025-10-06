@@ -5,8 +5,8 @@
 "title": "ODT를 PDF로 변환"
 "url": "/ko/net/pdf-conversion/convert-odt-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # ODT를 PDF로 변환
 
 ## 소개

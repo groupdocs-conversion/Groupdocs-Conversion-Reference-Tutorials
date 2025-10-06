@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して OTS ファイルを読み込み、変換する方法"
 "url": "/ja/net/spreadsheet-formats-features/load-ots-file-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して OTS ファイルを読み込み、変換する方法
 
 今日のデジタル環境において、企業や開発者にとって、様々なドキュメント形式の管理は不可欠です。請求書や契約書など、様々な文書を扱う際に、それらを広く受け入れられている形式に変換することで、時間とリソースを節約できます。このチュートリアルでは、.NET向けの強力なGroupDocs.Conversionライブラリを使用して、OpenDocument Spreadsheet Text（OTS）ファイルを読み込み、変換する方法を説明します。

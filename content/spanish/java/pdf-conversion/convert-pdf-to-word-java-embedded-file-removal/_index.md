@@ -4,8 +4,8 @@
 "title": "Convertir PDF a Word en Java con eliminación de archivos incrustados&#58; guía paso a paso con GroupDocs.Conversion"
 "url": "/es/java/pdf-conversion/convert-pdf-to-word-java-embedded-file-removal/"
 "weight": 1
+type: docs
 ---
-
 # Convertir PDF a Word en Java con eliminación de archivos incrustados: guía paso a paso con GroupDocs.Conversion
 
 ## Introducción

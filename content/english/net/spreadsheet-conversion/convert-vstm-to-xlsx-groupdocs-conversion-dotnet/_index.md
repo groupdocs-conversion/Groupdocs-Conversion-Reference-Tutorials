@@ -8,10 +8,8 @@ keywords:
 - convert VSTM to XLSX
 - GroupDocs.Conversion for .NET
 - Visio Macro-Enabled Drawing Templates conversion
-
+type: docs
 ---
-
-
 # Convert VSTM to XLSX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

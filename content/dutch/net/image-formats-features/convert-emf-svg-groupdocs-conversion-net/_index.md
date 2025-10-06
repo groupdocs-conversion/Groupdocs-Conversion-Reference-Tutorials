@@ -4,8 +4,8 @@
 "title": "Uitgebreide handleiding&#58; EMF naar SVG converteren met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/image-formats-features/convert-emf-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Uitgebreide handleiding: EMF naar SVG converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

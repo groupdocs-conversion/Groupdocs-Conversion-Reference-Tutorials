@@ -4,8 +4,8 @@
 "title": "Konvertera ODG till PDF med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/pdf-conversion/convert-odg-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera ODG till PDF med GroupDocs.Conversion för .NET: En steg-för-steg-guide
 
 ## Introduktion

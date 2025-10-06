@@ -4,8 +4,8 @@
 "title": "MSG konvertálása SVG-vé a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-msg-to-svg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # MSG konvertálása SVG-vé a GroupDocs.Conversion for .NET segítségével: Átfogó útmutató
 
 ## Bevezetés

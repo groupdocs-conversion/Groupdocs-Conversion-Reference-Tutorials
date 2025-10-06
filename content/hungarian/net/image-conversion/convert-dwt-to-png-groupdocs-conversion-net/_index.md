@@ -4,8 +4,8 @@
 "title": "DWT egyszerű PNG-vé konvertálása a GroupDocs.Conversion for .NET segítségével – Teljes körű útmutató"
 "url": "/hu/net/image-conversion/convert-dwt-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DWT egyszerű PNG-vé konvertálása a GroupDocs.Conversion for .NET segítségével: Teljes körű útmutató
 
 ## Bevezetés

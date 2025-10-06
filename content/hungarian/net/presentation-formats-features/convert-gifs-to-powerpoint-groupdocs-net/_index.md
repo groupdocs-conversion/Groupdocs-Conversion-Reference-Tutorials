@@ -4,8 +4,8 @@
 "title": "GIF-ek konvertálása PowerPoint-bemutatókká a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/presentation-formats-features/convert-gifs-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GIF-ek konvertálása PowerPoint-bemutatókká a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

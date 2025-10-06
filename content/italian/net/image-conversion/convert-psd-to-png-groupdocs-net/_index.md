@@ -4,8 +4,8 @@
 "title": "Come convertire i file PSD in PNG utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/image-conversion/convert-psd-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire i file PSD in PNG utilizzando GroupDocs.Conversion per .NET: una guida passo passo
 
 ## Introduzione

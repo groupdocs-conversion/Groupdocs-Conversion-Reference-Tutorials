@@ -4,8 +4,8 @@
 "title": "Cách tải và chuyển đổi tệp VSDX bằng GroupDocs.Conversion .NET"
 "url": "/vi/net/presentation-formats-features/load-vsdx-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách tải và chuyển đổi tệp VSDX bằng GroupDocs.Conversion .NET
 
 ## Giới thiệu

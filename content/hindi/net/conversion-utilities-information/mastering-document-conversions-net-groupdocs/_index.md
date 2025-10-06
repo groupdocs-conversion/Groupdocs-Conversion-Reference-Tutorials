@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion&#58; का उपयोग करके .NET में कुशल दस्तावेज़ रूपांतरण एक व्यापक गाइड"
 "url": "/hi/net/conversion-utilities-information/mastering-document-conversions-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion का उपयोग करके .NET में कुशल दस्तावेज़ रूपांतरण: एक व्यापक मार्गदर्शिका
 
 ## परिचय

@@ -4,8 +4,8 @@
 "title": "Конвертируйте файлы MOBI в TEX с помощью GroupDocs.Conversion для .NET&#58; Полное руководство"
 "url": "/ru/net/text-markup-conversion/convert-mobi-to-tex-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Конвертация файлов MOBI в TEX с помощью GroupDocs.Conversion для .NET: полное руководство
 
 ## Введение

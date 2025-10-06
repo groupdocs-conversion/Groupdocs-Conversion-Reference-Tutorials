@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将 DOCM 转换为 JPG 的终极指南"
 "url": "/zh/net/image-conversion/convert-docm-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 将 DOCM 转换为 JPG：使用 GroupDocs.Conversion for .NET 的终极指南
 
 ## 介绍

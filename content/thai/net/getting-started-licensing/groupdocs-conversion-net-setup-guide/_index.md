@@ -4,8 +4,8 @@
 "title": "คู่มือครอบคลุมสำหรับการติดตั้งและใช้งาน GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/getting-started-licensing/groupdocs-conversion-net-setup-guide/"
 "weight": 1
+type: docs
 ---
-
 # คู่มือครอบคลุมสำหรับ GroupDocs.Conversion สำหรับ .NET: การตั้งค่าและการใช้งาน
 
 ## การแนะนำ

@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanılarak Verimli Belgeden Elektronik Tabloya Dönüştürme"
 "url": "/tr/net/spreadsheet-formats-features/convert-documents-to-spreadsheets-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanılarak Verimli Belgeden Elektronik Tabloya Dönüştürme
 
 ## giriiş

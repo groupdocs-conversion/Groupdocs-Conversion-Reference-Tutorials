@@ -4,8 +4,8 @@
 "title": "Konwertuj pliki PCL do TXT w .NET przy użyciu GroupDocs.Conversion&#58; Kompleksowy przewodnik"
 "url": "/pl/net/text-markup-conversion/convert-pcl-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj pliki PCL do TXT za pomocą GroupDocs.Conversion dla .NET
 ## Wstęp
 Czy chcesz przekonwertować pliki Printer Command Language (PCL) na formaty zwykłego tekstu? Niezależnie od tego, czy obsługujesz starsze dokumenty, czy przygotowujesz dane do analizy, konwersja plików PCL może mieć kluczowe znaczenie. Ten przewodnik przeprowadzi Cię przez proces używania GroupDocs.Conversion dla .NET, aby płynnie przekształcić pliki PCL na format TXT.

@@ -4,8 +4,8 @@
 "title": "Hatékony Markdown-SVG konvertálás a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/markdown-to-svg-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony Markdown-SVG konvertálás a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

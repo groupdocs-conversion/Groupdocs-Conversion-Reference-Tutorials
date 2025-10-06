@@ -4,8 +4,8 @@
 "title": "MPP-ből PSD-vé konvertálás mesterszinten a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-formats-features/conversion-mpp-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # MPP-ből PSD-vé konvertálás mesterszinten a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

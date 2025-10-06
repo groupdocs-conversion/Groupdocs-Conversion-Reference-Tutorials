@@ -4,8 +4,8 @@
 "title": "ZIP fájlok PDF-be konvertálása Java-ban a GroupDocs.Conversion használatával – Átfogó útmutató"
 "url": "/hu/java/pdf-conversion/groupdocs-conversion-zip-to-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # ZIP fájlok konvertálása PDF-be a GroupDocs.Conversion használatával Java-ban
 
 ## Bevezetés

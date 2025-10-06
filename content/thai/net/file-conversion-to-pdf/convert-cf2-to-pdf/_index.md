@@ -5,8 +5,8 @@
 "title": "แปลง CF2 เป็น PDF"
 "url": "/th/net/file-conversion-to-pdf/convert-cf2-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # แปลง CF2 เป็น PDF
 
 ## การแนะนำ

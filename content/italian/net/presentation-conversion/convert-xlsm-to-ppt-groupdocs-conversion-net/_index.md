@@ -4,8 +4,8 @@
 "title": "Convertire XLSM in PowerPoint utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/presentation-conversion/convert-xlsm-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire file XLSM in presentazioni PowerPoint utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

@@ -4,8 +4,8 @@
 "title": "POTM sablonok konvertálása CSV formátumba a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-potm-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Microsoft PowerPoint sablonok (POTM) konvertálása CSV formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

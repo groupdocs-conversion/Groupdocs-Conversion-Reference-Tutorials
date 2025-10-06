@@ -5,8 +5,8 @@
 "title": "Конвертировать XLS в PDF"
 "url": "/ru/net/converting-file-types-to-pdf/convert-xls-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Конвертировать XLS в PDF
 
 ## Введение

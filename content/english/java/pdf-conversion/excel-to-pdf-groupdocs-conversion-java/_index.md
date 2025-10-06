@@ -8,10 +8,8 @@ keywords:
 - Excel to PDF conversion Java
 - GroupDocs.Conversion setup
 - skip empty rows and columns Excel
-
+type: docs
 ---
-
-
 # Efficient Excel to PDF Conversion with GroupDocs.Conversion Java
 
 ## Introduction

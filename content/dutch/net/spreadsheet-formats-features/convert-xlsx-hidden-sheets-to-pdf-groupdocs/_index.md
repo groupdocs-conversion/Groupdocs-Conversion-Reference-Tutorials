@@ -4,8 +4,8 @@
 "title": "XLSX-bestanden met verborgen bladen naar PDF converteren met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/spreadsheet-formats-features/convert-xlsx-hidden-sheets-to-pdf-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # XLSX-bestanden met verborgen bladen naar PDF converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

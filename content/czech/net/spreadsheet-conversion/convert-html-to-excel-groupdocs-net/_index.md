@@ -4,8 +4,8 @@
 "title": "Převod HTML do Excelu pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/spreadsheet-conversion/convert-html-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod HTML do Excelu pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

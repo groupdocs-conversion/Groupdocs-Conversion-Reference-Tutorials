@@ -4,8 +4,8 @@
 "title": "تحويل VSSM إلى DOC باستخدام GroupDocs.Conversion .NET - دليل خطوة بخطوة"
 "url": "/ar/net/word-processing-formats-features/convert-vssm-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل VSSM إلى DOC باستخدام GroupDocs.Conversion .NET: دليل خطوة بخطوة
 
 ## مقدمة

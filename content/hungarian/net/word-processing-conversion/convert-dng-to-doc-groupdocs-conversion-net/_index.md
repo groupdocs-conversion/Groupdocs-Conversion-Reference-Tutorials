@@ -4,8 +4,8 @@
 "title": "DNG konvertálása DOC-vá a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/word-processing-conversion/convert-dng-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DNG konvertálása DOC-vá a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

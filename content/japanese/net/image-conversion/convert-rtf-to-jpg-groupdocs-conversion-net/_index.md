@@ -4,8 +4,8 @@
 "title": ".NET で GroupDocs.Conversion を使用して RTF を JPG に変換し、シームレスな画像変換を実現する方法"
 "url": "/ja/net/image-conversion/convert-rtf-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET の実装方法: RTF から JPG への変換
 
 ## 導入

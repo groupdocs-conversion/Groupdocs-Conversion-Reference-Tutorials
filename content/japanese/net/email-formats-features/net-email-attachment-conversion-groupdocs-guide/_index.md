@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Library で .NET メール添付ファイル変換をマスターする - 総合ガイド"
 "url": "/ja/net/email-formats-features/net-email-attachment-conversion-groupdocs-guide/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion ライブラリを使用して .NET メール添付ファイルの変換をマスターする
 
 ## 導入

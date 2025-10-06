@@ -4,8 +4,8 @@
 "title": ".NET'te GroupDocs.Conversion'ı Kullanarak JPEG 2000'i PowerPoint'e Verimli Şekilde Dönüştürün"
 "url": "/tr/net/presentation-formats-features/convert-jpeg-2000-powerpoint-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET'te GroupDocs.Conversion'ı Kullanarak JPEG 2000'i PowerPoint'e Verimli Şekilde Dönüştürün
 
 ## giriiş

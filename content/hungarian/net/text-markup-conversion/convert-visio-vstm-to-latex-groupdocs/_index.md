@@ -4,8 +4,8 @@
 "title": "Visio VSTM konvertálása LaTeX-re a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/text-markup-conversion/convert-visio-vstm-to-latex-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Makróbarát Visio rajzsablon (.vstm) konvertálása LaTeX forrásdokumentummá (.tex) a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -5,8 +5,8 @@
 "title": "Konvertera FODS OpenDocument-kalkylblad till PDF"
 "url": "/sv/net/convert-files-to-pdf/convert-fods-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Konvertera FODS OpenDocument-kalkylblad till PDF
 
 ## Introduktion

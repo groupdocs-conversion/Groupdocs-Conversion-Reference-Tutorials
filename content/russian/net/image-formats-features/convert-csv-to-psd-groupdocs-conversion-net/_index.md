@@ -4,8 +4,8 @@
 "title": "Конвертируйте CSV в PSD с помощью GroupDocs.Conversion для .NET&#58; Пошаговое руководство"
 "url": "/ru/net/image-formats-features/convert-csv-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте CSV в PSD с помощью GroupDocs.Conversion для .NET: пошаговое руководство
 
 ## Введение

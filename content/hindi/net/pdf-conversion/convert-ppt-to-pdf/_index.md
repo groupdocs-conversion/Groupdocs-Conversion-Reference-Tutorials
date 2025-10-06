@@ -5,8 +5,8 @@
 "title": "पीपीटी को पीडीएफ में बदलें"
 "url": "/hi/net/pdf-conversion/convert-ppt-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # पीपीटी को पीडीएफ में बदलें
 
 ## परिचय

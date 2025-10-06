@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 TXT 파일 변환하기&#58; 종합 가이드"
 "url": "/ko/net/text-file-processing/groupdocs-conversion-net-txt-file-conversion/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 TXT 파일 변환: 포괄적인 가이드
 
 ## 소개

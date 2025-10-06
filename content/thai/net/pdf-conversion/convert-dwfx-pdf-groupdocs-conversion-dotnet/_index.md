@@ -4,8 +4,8 @@
 "title": "แปลง DWFX เป็น PDF ด้วย GroupDocs การแปลงสำหรับ .NET คำแนะนำทีละขั้นตอน"
 "url": "/th/net/pdf-conversion/convert-dwfx-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # แปลง DWFX เป็น PDF ด้วย GroupDocs การแปลงสำหรับ .NET: คำแนะนำทีละขั้นตอน
 
 ## การแนะนำ

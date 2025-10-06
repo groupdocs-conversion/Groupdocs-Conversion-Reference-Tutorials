@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用して .NET でフォント置換を行い PowerPoint を PDF に変換する"
 "url": "/ja/net/pdf-conversion-features/groupdocs-conversion-net-presentation-to-pdf-font-substitution/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion を使用して .NET でフォント置換を行い PowerPoint を PDF に変換する
 
 ## 導入

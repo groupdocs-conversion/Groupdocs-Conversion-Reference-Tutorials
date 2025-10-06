@@ -5,8 +5,8 @@
 "title": "Dosyayı PDF'ye Dönüştürme"
 "url": "/tr/net/file-conversion-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Dosyayı PDF'ye Dönüştürme
 
 ## Giriiş:

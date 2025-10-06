@@ -8,10 +8,8 @@ keywords:
 - Convert XLS to SVG .NET
 - GroupDocs.Conversion
 - data visualization with SVG
-
+type: docs
 ---
-
-
 # How to Efficiently Convert XLS to SVG with GroupDocs.Conversion for .NET
 
 ## Introduction

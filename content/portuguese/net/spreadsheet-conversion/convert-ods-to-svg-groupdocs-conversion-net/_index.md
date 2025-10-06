@@ -4,8 +4,8 @@
 "title": "Como converter arquivos ODS para SVG usando o GroupDocs.Conversion para .NET | Guia completo"
 "url": "/pt/net/spreadsheet-conversion/convert-ods-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converta arquivos ODS para SVG com GroupDocs.Conversion para .NET
 
 ## Introdução

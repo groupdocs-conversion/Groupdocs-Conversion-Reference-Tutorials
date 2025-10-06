@@ -4,8 +4,8 @@
 "title": "XLS fájlok hatékony konvertálása PPT-vé a GroupDocs.Conversion .NET használatával | Lépésről lépésre útmutató"
 "url": "/hu/net/presentation-conversion/convert-xls-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # XLS fájlok hatékony konvertálása PPT-vé a GroupDocs.Conversion .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Chuyển đổi PPS sang HTML bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/html-conversion/master-pps-html-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Làm chủ chuyển đổi PPS sang HTML với GroupDocs
 ## Giới thiệu
 Bạn có muốn làm cho bài thuyết trình PowerPoint của mình dễ tiếp cận và tương tác hơn không? Việc chuyển đổi chúng sang các định dạng thân thiện với web như HTML là điều cần thiết trong bối cảnh kỹ thuật số ngày nay, tăng cường sự tương tác của người dùng và đảm bảo khả năng tương thích đa nền tảng.

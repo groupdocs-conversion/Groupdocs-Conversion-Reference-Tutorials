@@ -4,8 +4,8 @@
 "title": "Podmiana czcionek w Java&#58; Mastering GroupDocs.Conversion dla spójnego wyjścia PDF"
 "url": "/pl/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/"
 "weight": 1
+type: docs
 ---
-
 # Opanowanie podmiany czcionek za pomocą GroupDocs.Conversion dla Java
 
 ## Wstęp

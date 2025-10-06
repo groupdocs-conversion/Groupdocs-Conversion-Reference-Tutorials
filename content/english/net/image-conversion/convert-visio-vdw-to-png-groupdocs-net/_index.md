@@ -8,10 +8,8 @@ keywords:
 - convert Visio VDW to PNG
 - GroupDocs.Conversion for .NET
 - Visio Web Drawing conversion
-
+type: docs
 ---
-
-
 # How to Convert Visio VDW Files to PNG Using GroupDocs.Conversion for .NET
 
 ## Introduction

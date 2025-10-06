@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for Java で可能なすべての変換を取得する方法"
 "url": "/ja/java/conversion-options/groupdocs-conversion-java-retrieve-possible-conversions/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for Java を使用してすべての可能な変換を取得するための包括的なガイド
 
 ## 導入

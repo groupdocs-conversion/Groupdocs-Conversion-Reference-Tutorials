@@ -4,8 +4,8 @@
 "title": "Jak převést VSD do DOC v .NET pomocí GroupDocs API – Komplexní průvodce"
 "url": "/cs/net/word-processing-formats-features/convert-vsdtodoc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést VSD do DOC v .NET pomocí GroupDocs API: Komplexní průvodce
 
 ## Zavedení

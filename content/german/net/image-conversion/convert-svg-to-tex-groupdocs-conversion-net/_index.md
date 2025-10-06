@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie SVG-Dateien in das TEX-Format mit GroupDocs.Conversion .NET für eine nahtlose Dateikonvertierung"
 "url": "/de/net/image-conversion/convert-svg-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie SVG-Dateien mit GroupDocs.Conversion .NET in das TEX-Format
 
 ## Einführung

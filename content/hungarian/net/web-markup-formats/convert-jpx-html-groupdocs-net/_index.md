@@ -4,8 +4,8 @@
 "title": "JPX konvertálása HTML-lé a GroupDocs.Conversion for .NET segítségével – lépésről lépésre útmutató"
 "url": "/hu/net/web-markup-formats/convert-jpx-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # JPX HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "تعزيز أداء تطبيقات .NET - تنفيذ ذاكرة التخزين المؤقت Redis المخصصة باستخدام GroupDocs.Conversion"
 "url": "/ar/net/cache-management/boost-net-app-performance-custom-redis-cache-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # عزز أداء تطبيق .NET الخاص بك باستخدام التخزين المؤقت المخصص لـ Redis باستخدام GroupDocs.Conversion
 
 ## مقدمة

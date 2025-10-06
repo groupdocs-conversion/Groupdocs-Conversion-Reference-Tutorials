@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for Java を使用して DOCX に透かしを追加し、PDF に変換する方法"
 "url": "/ja/java/watermarks-annotations/add-watermark-docx-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for Java を使用してドキュメントに透かしを追加する方法
 
 今日のデジタル世界では、文書を不正使用から保護することは非常に重要です。機密情報を共有する場合でも、文書にブランドイメージを持たせたい場合でも、透かしを追加することは効果的な解決策となります。このチュートリアルでは、透かしを使用する手順を説明します。 **GroupDocs.Conversion for Java** DOCX ファイルを PDF に変換するときに透かしを追加します。

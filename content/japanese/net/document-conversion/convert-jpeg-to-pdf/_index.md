@@ -5,8 +5,8 @@
 "title": "JPEGをPDFに変換する"
 "url": "/ja/net/document-conversion/convert-jpeg-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # JPEGをPDFに変換する
 
 ## 導入

@@ -5,8 +5,8 @@
 "title": "บทช่วยสอนแบบครอบคลุมของ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/"
 "weight": 10
+type: docs
 ---
-
 # บทช่วยสอนแบบครอบคลุมของ GroupDocs.Conversion สำหรับ .NET
 
 

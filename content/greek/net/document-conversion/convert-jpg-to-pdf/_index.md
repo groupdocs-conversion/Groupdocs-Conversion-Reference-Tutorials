@@ -5,8 +5,8 @@
 "title": "Μετατροπή JPG σε PDF"
 "url": "/el/net/document-conversion/convert-jpg-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # Μετατροπή JPG σε PDF
 
 ## Εισαγωγή

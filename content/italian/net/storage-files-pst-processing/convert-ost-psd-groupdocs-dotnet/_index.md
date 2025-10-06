@@ -4,8 +4,8 @@
 "title": "Come convertire i file OST in formato PSD utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/storage-files-pst-processing/convert-ost-psd-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire i file OST in formato PSD utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

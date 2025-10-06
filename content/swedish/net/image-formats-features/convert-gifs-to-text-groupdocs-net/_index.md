@@ -4,8 +4,8 @@
 "title": "Konvertera GIF-filer till textfiler med GroupDocs för .NET – en omfattande guide"
 "url": "/sv/net/image-formats-features/convert-gifs-to-text-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera GIF-filer till textfiler med GroupDocs för .NET: En omfattande guide
 
 ## Introduktion

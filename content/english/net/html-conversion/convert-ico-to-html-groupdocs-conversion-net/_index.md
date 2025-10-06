@@ -8,10 +8,8 @@ keywords:
 - convert ICO to HTML with GroupDocs.Conversion for .NET
 - GroupDocs.Conversion for .NET tutorial
 - ICO file conversion in web development
-
+type: docs
 ---
-
-
 # Convert ICO Files to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

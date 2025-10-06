@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用した .NET でのファイル変換のマスター開発者ガイド"
 "url": "/ja/net/conversion-utilities-information/mastering-file-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion による .NET でのファイル変換のマスター: 究極の開発者ガイド
 
 ## 導入

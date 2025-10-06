@@ -4,8 +4,8 @@
 "title": "Stapsgewijze handleiding voor het converteren van Excel naar JPG in .NET met GroupDocs.Conversion"
 "url": "/nl/net/image-conversion/excel-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Excel naar JPG converteren in .NET: stapsgewijze handleiding met GroupDocs.Conversion
 
 ## Invoering

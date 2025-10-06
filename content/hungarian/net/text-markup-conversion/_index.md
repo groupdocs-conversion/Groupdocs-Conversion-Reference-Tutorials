@@ -3,8 +3,8 @@
 "title": "Szöveg- és jelöléskonverziós oktatóanyagok a GroupDocs.Conversion .NET-hez"
 "url": "/hu/net/text-markup-conversion/"
 "weight": 32
+type: docs
 ---
-
 # Szöveg- és jelöléskonverziós oktatóanyagok a GroupDocs.Conversion .NET-hez
 
 Fedezze fel a szövegalapú formátumkonverziót részletes GroupDocs.Conversion oktatóanyagaink segítségével .NET fejlesztőknek. Ezek a lépésről lépésre bemutatják, hogyan konvertálhat gazdag dokumentumformátumokból egyszerű szöveges, XML, Markdown, TeX és más szövegalapú formátumokba. Ismerje meg a kódolási lehetőségeket, a szövegkinyerési technikákat, a speciális karakterek kezelését, a dokumentumszerkezet megőrzését, a hierarchikus kapcsolatok fenntartását a jelölőnyelvi formátumokban, valamint a szövegformázási szabályok megvalósítását. Minden oktatóanyag gyakorlati C# kódpéldákat tartalmaz a dokumentumok szöveges reprezentációinak létrehozásához, amelyek a lényeges tartalmat egyszerű, hordozható és könnyen elemzhető formátumokban rögzítik.

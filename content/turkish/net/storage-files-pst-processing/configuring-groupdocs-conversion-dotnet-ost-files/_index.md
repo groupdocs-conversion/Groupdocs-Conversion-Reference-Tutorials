@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET'i OST Dosyaları İçin Nasıl Yapılandırırsınız - Eksiksiz Bir Kılavuz"
 "url": "/tr/net/storage-files-pst-processing/configuring-groupdocs-conversion-dotnet-ost-files/"
 "weight": 1
+type: docs
 ---
-
 # Kapsamlı Eğitim: GroupDocs.Conversion .NET'i OST Dosya İşleme için Yapılandırma
 
 ## giriiş

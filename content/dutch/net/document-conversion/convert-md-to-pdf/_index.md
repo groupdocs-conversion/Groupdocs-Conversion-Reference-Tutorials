@@ -5,8 +5,8 @@
 "title": "Converteer MD naar PDF"
 "url": "/nl/net/document-conversion/convert-md-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # Converteer MD naar PDF
 
 ## Invoering

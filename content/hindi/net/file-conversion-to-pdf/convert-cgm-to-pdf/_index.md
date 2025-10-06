@@ -5,8 +5,8 @@
 "title": "CGM वेक्टर ग्राफिक्स को PDF में बदलें"
 "url": "/hi/net/file-conversion-to-pdf/convert-cgm-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # CGM वेक्टर ग्राफिक्स को PDF में बदलें
 
 ## परिचय

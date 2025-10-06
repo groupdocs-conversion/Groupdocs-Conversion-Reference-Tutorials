@@ -8,10 +8,8 @@ keywords:
 - convert GIF to XLS
 - GroupDocs.Conversion for .NET
 - file conversion in .NET
-
+type: docs
 ---
-
-
 # Convert GIF to XLS Using GroupDocs.Conversion for .NET
 
 ## Introduction

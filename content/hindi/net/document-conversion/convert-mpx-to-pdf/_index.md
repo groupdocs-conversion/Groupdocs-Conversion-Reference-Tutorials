@@ -5,8 +5,8 @@
 "title": "MPX को PDF में बदलें"
 "url": "/hi/net/document-conversion/convert-mpx-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # MPX को PDF में बदलें
 
 ## परिचय

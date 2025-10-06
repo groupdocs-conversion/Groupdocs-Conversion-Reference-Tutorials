@@ -4,8 +4,8 @@
 "title": "Převod HTML do PowerPointu pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/presentation-formats-features/convert-html-to-powerpoint-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod HTML do PowerPointu pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

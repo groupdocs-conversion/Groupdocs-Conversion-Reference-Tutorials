@@ -4,8 +4,8 @@
 "title": "Java için GroupDocs.Conversion'ı Kullanarak Word'den PDF'e Dönüştürmede Yorumları Gizle"
 "url": "/tr/java/pdf-conversion/hide-comments-word-pdf-conversion-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Java için GroupDocs.Conversion'ı Kullanarak Word'den PDF'e Dönüştürmede Yorumları Gizle
 
 Günümüzün hızlı dijital dünyasında, Word belgelerini PDF'lere dönüştürmek birçok profesyonel için rutin bir görevdir. Ancak, bu belgeler hassas yorumlar veya izlenen değişiklikler içeriyorsa, herhangi bir açıklama içermeyen temiz PDF'leri tercih edebilirsiniz. Bu eğitim, dönüştürme sırasında yorumları sorunsuz bir şekilde gizlemek için GroupDocs.Conversion for Java'yı kullanma konusunda size rehberlik edecektir.

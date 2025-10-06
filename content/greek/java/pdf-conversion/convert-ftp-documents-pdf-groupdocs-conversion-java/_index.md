@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή εγγράφων FTP σε PDF χρησιμοποιώντας το GroupDocs.Conversion for Java - Οδηγός για προγραμματιστές"
 "url": "/el/java/pdf-conversion/convert-ftp-documents-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική μετατροπή εγγράφων FTP σε PDF χρησιμοποιώντας το GroupDocs.Conversion για Java
 
 ## Εισαγωγή

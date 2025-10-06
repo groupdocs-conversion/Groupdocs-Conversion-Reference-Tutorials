@@ -4,8 +4,8 @@
 "title": "RAR fájlok hatékony kibontása a GroupDocs.Conversion segítségével .NET-ben – Fejlesztői útmutató"
 "url": "/hu/net/compression-archive-handling/extract-rar-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # RAR fájlok hatékony kibontása a GroupDocs.Conversion segítségével .NET-ben: Fejlesztői útmutató
 
 ## Bevezetés

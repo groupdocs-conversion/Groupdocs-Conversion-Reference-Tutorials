@@ -4,8 +4,8 @@
 "title": "Konversi XLT ke DOC menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/word-processing-conversion/convert-xlt-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi XLT ke DOC Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

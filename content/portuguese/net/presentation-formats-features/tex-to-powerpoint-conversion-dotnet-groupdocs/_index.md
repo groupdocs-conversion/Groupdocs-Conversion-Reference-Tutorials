@@ -4,8 +4,8 @@
 "title": "Automatize a conversão de LaTeX para PowerPoint usando .NET e GroupDocs.Conversion"
 "url": "/pt/net/presentation-formats-features/tex-to-powerpoint-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Automatize a conversão de LaTeX para PowerPoint usando .NET e GroupDocs.Conversion
 ## Introdução
 Cansado de converter manualmente seus documentos LaTeX para slides do PowerPoint? Este tutorial mostrará como automatizar o processo usando o GroupDocs.Conversion para .NET, economizando tempo e esforço. Seguindo este guia passo a passo, você aprenderá a transformar arquivos TEX para o formato PPT sem complicações.

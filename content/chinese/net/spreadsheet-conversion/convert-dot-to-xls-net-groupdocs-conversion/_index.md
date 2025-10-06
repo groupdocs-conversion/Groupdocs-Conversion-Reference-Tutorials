@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中将 DOT 转换为 XLS — 分步指南"
 "url": "/zh/net/spreadsheet-conversion/convert-dot-to-xls-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 .NET 中将 DOT 转换为 XLS：分步指南
 ## 介绍
 您是否正在考虑使用 C# 将 Graphviz DOT 文件转换为与 Excel 兼容的 XLS 格式？本指南将指导您使用 GroupDocs.Conversion for .NET 完成转换。借助这个强大的库，您可以轻松将复杂的 DOT 图表转换为用户友好的电子表格。

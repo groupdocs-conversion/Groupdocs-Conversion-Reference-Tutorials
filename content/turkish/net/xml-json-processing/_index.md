@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET için XML ve JSON İşleme Eğitimleri"
 "url": "/tr/net/xml-json-processing/"
 "weight": 16
+type: docs
 ---
-
 # GroupDocs.Conversion .NET için XML ve JSON İşleme Eğitimleri
 
 .NET geliştiricileri için GroupDocs.Conversion eğitimlerimizle veri formatı dönüştürme yeteneklerini keşfedin. Bu adım adım kılavuzlar, elektronik tablolar ve diğer belge türleri oluşturmak için veri kaynakları olarak XML ve JSON'u nasıl kullanacağınızı, dönüştürme sırasında hiyerarşik veri yapılarını nasıl koruyacağınızı, karmaşık nesne ilişkilerini nasıl sürdüreceğinizi, dizileri ve koleksiyonları nasıl yöneteceğinizi, ad alanlarını ve şemaları nasıl yöneteceğinizi ve veri dönüştürme ve eşleme işlemlerini nasıl uygulayacağınızı gösterir. Her eğitim, yapılandırılmış veri formatlarıyla çalışmak için pratik C# kod örnekleri içerir ve makine tarafından okunabilir verileri insan dostu belge formatlarına dönüştürebilen uygulamalar oluşturmanıza yardımcı olur.

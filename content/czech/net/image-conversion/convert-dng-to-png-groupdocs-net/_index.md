@@ -4,8 +4,8 @@
 "title": "Jak převést DNG do PNG pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/image-conversion/convert-dng-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést DNG do PNG pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

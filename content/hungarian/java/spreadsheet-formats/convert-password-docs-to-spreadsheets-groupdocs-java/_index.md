@@ -4,8 +4,8 @@
 "title": "Jelszóval védett Word-dokumentumok konvertálása Excel-táblázatokká a GroupDocs.Conversion for Java használatával"
 "url": "/hu/java/spreadsheet-formats/convert-password-docs-to-spreadsheets-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Jelszóval védett dokumentumok konvertálása a GroupDocs.Conversion for Java használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "LaTeX DOCX formátumba konvertálása a GroupDocs.Conversion .NET használatával – Átfogó útmutató"
 "url": "/hu/net/word-processing-formats-features/convert-latex-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # LaTeX DOCX formátumba konvertálása a GroupDocs.Conversion .NET használatával: Átfogó útmutató
 
 ## Bevezetés

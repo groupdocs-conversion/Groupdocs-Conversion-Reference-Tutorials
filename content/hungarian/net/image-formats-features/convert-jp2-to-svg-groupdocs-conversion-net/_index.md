@@ -4,8 +4,8 @@
 "title": "JP2 konvertálása SVG-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-formats-features/convert-jp2-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # JP2 konvertálása SVG-vé a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

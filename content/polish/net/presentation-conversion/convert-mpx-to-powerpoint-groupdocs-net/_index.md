@@ -4,8 +4,8 @@
 "title": "Konwertuj pliki MPX do programu PowerPoint za pomocą GroupDocs dla .NET&#58; Przewodnik krok po kroku"
 "url": "/pl/net/presentation-conversion/convert-mpx-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj pliki MPX do programu PowerPoint za pomocą GroupDocs dla .NET: przewodnik krok po kroku
 
 ## Wstęp

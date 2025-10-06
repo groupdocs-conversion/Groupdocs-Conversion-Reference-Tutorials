@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie GIF in DOC mit GroupDocs.Conversion für .NET – Tutorial zur Textverarbeitungskonvertierung"
 "url": "/de/net/word-processing-conversion/convert-gif-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie ein GIF in DOC mit GroupDocs.Conversion für .NET
 
 ## Einführung

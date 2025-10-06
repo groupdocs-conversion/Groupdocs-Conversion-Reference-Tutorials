@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 有效率地將 CSV 轉換為 XLSX —— 完整指南"
 "url": "/zh-hant/net/spreadsheet-formats-features/convert-csv-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 有效地將 CSV 轉換為 XLSX：完整指南
 
 ## 介紹

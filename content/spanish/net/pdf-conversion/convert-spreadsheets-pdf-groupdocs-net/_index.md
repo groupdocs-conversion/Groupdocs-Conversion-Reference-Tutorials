@@ -4,8 +4,8 @@
 "title": "Convierta hojas de cálculo a PDF sin problemas con GroupDocs.Conversion en .NET"
 "url": "/es/net/pdf-conversion/convert-spreadsheets-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convierta hojas de cálculo a PDF sin problemas con GroupDocs.Conversion en .NET
 
 ## Introducción

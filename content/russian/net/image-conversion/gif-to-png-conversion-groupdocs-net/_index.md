@@ -4,8 +4,8 @@
 "title": "Конвертируйте GIF в PNG легко с помощью GroupDocs для .NET&#58; Подробное руководство"
 "url": "/ru/net/image-conversion/gif-to-png-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте GIF в PNG легко с помощью GroupDocs для .NET: подробное руководство
 
 ## Введение

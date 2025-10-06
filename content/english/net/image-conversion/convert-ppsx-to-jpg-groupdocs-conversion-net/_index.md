@@ -8,10 +8,8 @@ keywords:
 - convert PPSX to JPG
 - GroupDocs.Conversion for .NET
 - PowerPoint to JPEG conversion
-
+type: docs
 ---
-
-
 # Convert PPSX to JPG Efficiently Using GroupDocs.Conversion .NET: A Step-by-Step Guide
 
 ## Introduction

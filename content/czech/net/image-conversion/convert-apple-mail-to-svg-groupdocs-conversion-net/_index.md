@@ -4,8 +4,8 @@
 "title": "Převod zpráv Apple Mail do SVG pomocí komplexního průvodce GroupDocs.Conversion pro .NET"
 "url": "/cs/net/image-conversion/convert-apple-mail-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod zpráv Apple Mail do SVG pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

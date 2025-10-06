@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion के साथ DXF to HTML को कुशलतापूर्वक परिवर्तित करें"
 "url": "/hi/net/html-conversion/convert-dxf-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion के साथ DXF to HTML को कुशलतापूर्वक परिवर्तित करें
 
 ## परिचय

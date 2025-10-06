@@ -4,8 +4,8 @@
 "title": "使用 .NET 中的 GroupDocs.Conversion 將 DNG 轉換為 TXT | 文字和標記轉換指南"
 "url": "/zh-hant/net/text-markup-conversion/convert-dng-txt-using-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 DNG 轉換為 TXT
 
 ## 介紹

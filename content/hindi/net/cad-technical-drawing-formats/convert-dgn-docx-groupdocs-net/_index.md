@@ -4,8 +4,8 @@
 "title": "CAD परियोजनाओं के लिए .NET में GroupDocs का उपयोग करके कुशल DGN से DOCX रूपांतरण"
 "url": "/hi/net/cad-technical-drawing-formats/convert-dgn-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET में GroupDocs के साथ कुशल DGN से DOCX रूपांतरण
 
 ## परिचय

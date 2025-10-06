@@ -4,8 +4,8 @@
 "title": "แปลงไฟล์ LaTeX (TEX) เป็นสเปรดชีต Excel โดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/spreadsheet-formats-features/convert-tex-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลงไฟล์ LaTeX (TEX) เป็นสเปรดชีต Excel โดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

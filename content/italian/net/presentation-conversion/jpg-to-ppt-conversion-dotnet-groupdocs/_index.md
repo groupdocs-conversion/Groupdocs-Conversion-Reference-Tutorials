@@ -4,8 +4,8 @@
 "title": "Conversione efficiente da JPG a PPT in .NET utilizzando GroupDocs.Conversion"
 "url": "/it/net/presentation-conversion/jpg-to-ppt-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Conversione efficiente da JPG a PPT in .NET utilizzando GroupDocs.Conversion
 
 ## Introduzione

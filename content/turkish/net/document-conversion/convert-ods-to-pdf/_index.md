@@ -5,8 +5,8 @@
 "title": "ODS'yi PDF'ye dönüştür"
 "url": "/tr/net/document-conversion/convert-ods-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # ODS'yi PDF'ye dönüştür
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "Hur man konverterar IFC-filer till SVG med GroupDocs.Conversion för .NET - Steg-för-steg-guide"
 "url": "/sv/net/cad-technical-drawing-formats/convert-ifc-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar IFC-filer till SVG med GroupDocs.Conversion för .NET - Steg-för-steg-guide
 
 ## Introduktion

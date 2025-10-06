@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion による .NET での DOCM 変換の完全ガイド"
 "url": "/ja/net/word-processing-formats-features/groupdocs-conversion-dotnet-docm/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion を使用した .NET での DOCM 変換の習得
 
 ## 導入

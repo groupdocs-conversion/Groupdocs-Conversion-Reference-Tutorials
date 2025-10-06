@@ -5,8 +5,8 @@
 "title": "Konverze souborů do PDF"
 "url": "/cs/net/file-conversion-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Konverze souborů do PDF
 
 ## Zavedení:

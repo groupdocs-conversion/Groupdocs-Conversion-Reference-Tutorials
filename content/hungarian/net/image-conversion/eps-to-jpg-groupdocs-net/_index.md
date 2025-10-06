@@ -4,8 +4,8 @@
 "title": "EPS JPG-vé konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/eps-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # EPS JPG-vé konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

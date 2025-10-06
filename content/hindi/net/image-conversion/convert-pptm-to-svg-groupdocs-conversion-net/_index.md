@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion के साथ PPTM को SVG में आसानी से रूपांतरित करें - छवि रूपांतरण ट्यूटोरियल"
 "url": "/hi/net/image-conversion/convert-pptm-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion के साथ PPTM को SVG में आसानी से परिवर्तित करें
 
 ## परिचय

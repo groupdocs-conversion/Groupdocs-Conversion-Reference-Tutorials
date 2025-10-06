@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion'ı Kullanarak OST'yi CSV'ye Verimli Şekilde Dönüştürün"
 "url": "/tr/net/storage-files-pst-processing/convert-ost-to-csv-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak OST'yi CSV'ye Verimli Şekilde Dönüştürün
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "JPEG fájlok hatékony konvertálása XLS fájlokká a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-jpeg-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # JPEG fájlok hatékony konvertálása XLS fájlokká a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

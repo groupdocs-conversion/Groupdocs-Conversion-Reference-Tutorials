@@ -4,8 +4,8 @@
 "title": "Kuasai Konversi PDF .NET dengan Slide Tersembunyi Menggunakan GroupDocs.Conversion"
 "url": "/id/net/pdf-conversion-features/net-pdf-conversion-groupdocs-hidden-slides/"
 "weight": 1
+type: docs
 ---
-
 # Kuasai Konversi PDF .NET dengan Slide Tersembunyi Menggunakan GroupDocs.Conversion
 
 ## Perkenalan

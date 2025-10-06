@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET을 위한 스프레드시트 변환 튜토리얼"
 "url": "/ko/net/spreadsheet-conversion/"
 "weight": 30
+type: docs
 ---
-
 # GroupDocs.Conversion .NET을 위한 스프레드시트 변환 튜토리얼
 
 GroupDocs.Conversion .NET 튜토리얼을 통해 문서를 편집 가능한 스프레드시트 형식으로 변환하는 방법을 알아보세요. 이 상세한 가이드는 PDF, Word, HTML, 이미지 및 기타 형식을 XLS, XLSX, CSV, ODS 등으로 변환하는 방법을 보여줍니다. 계산 및 수식 보존, 셀 서식 유지, 다중 시트 문서 처리, 머리글 및 바닥글 관리, 데이터 형식 변환 제어 등의 기술을 익힐 수 있습니다. 각 튜토리얼에는 데이터 분석 및 조작을 지원하면서 원본 콘텐츠를 정확하게 표현하는 스프레드시트 문서를 만드는 방법을 보여주는 C# 코드 예제가 포함되어 있습니다.

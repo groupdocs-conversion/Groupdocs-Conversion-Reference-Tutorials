@@ -4,8 +4,8 @@
 "title": "Konwersja LaTeX do SVG przy użyciu GroupDocs.Conversion dla .NET&#58; Kompletny przewodnik"
 "url": "/pl/net/image-conversion/convert-latex-to-svg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj LaTeX do SVG za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

@@ -4,8 +4,8 @@
 "title": "แปลงเทมเพลต POTM เป็น CSV โดยใช้ GroupDocs.Conversion สำหรับ .NET - คู่มือฉบับสมบูรณ์"
 "url": "/th/net/spreadsheet-formats-features/convert-potm-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลงเทมเพลต Microsoft PowerPoint (POTM) เป็น CSV โดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

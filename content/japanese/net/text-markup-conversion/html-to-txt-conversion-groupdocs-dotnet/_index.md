@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して HTML を TXT に変換する完全ガイド"
 "url": "/ja/net/text-markup-conversion/html-to-txt-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して HTML を TXT に変換する
 
 ## 導入

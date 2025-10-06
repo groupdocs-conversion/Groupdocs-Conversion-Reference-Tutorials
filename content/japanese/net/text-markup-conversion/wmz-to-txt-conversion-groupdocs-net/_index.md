@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用した効率的な WMZ から TXT への変換 | 開発者ガイド"
 "url": "/ja/net/text-markup-conversion/wmz-to-txt-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用した効率的な WMZ から TXT への変換: 開発者ガイド
 
 ## 導入

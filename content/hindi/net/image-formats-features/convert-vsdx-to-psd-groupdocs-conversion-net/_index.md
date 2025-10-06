@@ -4,8 +4,8 @@
 "title": "निर्बाध एकीकरण के लिए GroupDocs.Conversion .NET एपीआई का उपयोग करके VSDX को PSD में परिवर्तित करें"
 "url": "/hi/net/image-formats-features/convert-vsdx-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET एपीआई का उपयोग करके VSDX को PSD में परिवर्तित करें
 
 ## परिचय

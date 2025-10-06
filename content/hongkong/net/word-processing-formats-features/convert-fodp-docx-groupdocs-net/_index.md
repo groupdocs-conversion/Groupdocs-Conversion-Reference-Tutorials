@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 FODP 轉換為 DOCX — 逐步指南"
 "url": "/zh-hant/net/word-processing-formats-features/convert-fodp-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 FODP 轉換為 DOCX：逐步指南
 
 歡迎閱讀我們關於如何使用強大的 GroupDocs.Conversion 程式庫將平面 XML 簡報 (FODP) 檔案轉換為 Microsoft Word 開放 XML 文件 (DOCX) 的全面指南。如果您正在處理簡報文件，並且需要將其轉換為 DOCX 等更通用的格式，那麼本教學正是您所需要的。

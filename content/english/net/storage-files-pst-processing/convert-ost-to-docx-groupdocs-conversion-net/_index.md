@@ -8,10 +8,8 @@ keywords:
 - convert OST to DOCX
 - GroupDocs.Conversion for .NET
 - email data conversion
-
+type: docs
 ---
-
-
 # Convert OST Files to DOCX Using GroupDocs.Conversion for .NET
 
 ## Introduction

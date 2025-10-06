@@ -4,8 +4,8 @@
 "title": "Adobe Illustrator fájlok konvertálása Word formátumba a GroupDocs.Conversion .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/word-processing-formats-features/convert-ai-to-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Adobe Illustrator fájlok konvertálása Word dokumentumokká a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": ".NET-ben a GroupDocs.Conversion használatával készült mesterdokumentum-konverzió – Átfogó útmutató"
 "url": "/hu/net/conversion-options-settings/groupdocs-conversion-net-document-convert/"
 "weight": 1
+type: docs
 ---
-
 # Dokumentumkonverzió elsajátítása .NET-ben a GroupDocs.Conversion segítségével
 
 ## Bevezetés

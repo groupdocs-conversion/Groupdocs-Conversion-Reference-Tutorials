@@ -4,8 +4,8 @@
 "title": "Konwersja PPTM do TXT przy użyciu GroupDocs.Conversion dla .NET&#58; Przewodnik krok po kroku"
 "url": "/pl/net/text-markup-conversion/convert-pptm-to-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja PPTM do TXT przy użyciu GroupDocs.Conversion dla .NET: przewodnik krok po kroku
 
 ## Wstęp

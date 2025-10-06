@@ -4,8 +4,8 @@
 "title": ".NET PPT से PSD रूपांतरण के लिए PowerPoint को Photoshop&#58; मास्टर GroupDocs.Conversion में कनवर्ट करें"
 "url": "/hi/net/image-formats-features/groupdocs-conversion-net-ppt-psd/"
 "weight": 1
+type: docs
 ---
-
 # PowerPoint को फ़ोटोशॉप में कनवर्ट करें: .NET PPT से PSD रूपांतरण के लिए मास्टर GroupDocs.Conversion
 
 ## परिचय

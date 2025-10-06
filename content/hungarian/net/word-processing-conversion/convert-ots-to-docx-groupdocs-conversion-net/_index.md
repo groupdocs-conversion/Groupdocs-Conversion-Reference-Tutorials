@@ -4,8 +4,8 @@
 "title": "OTS egyszerű DOCX formátumba konvertálása – GroupDocs.Conversion for .NET útmutató"
 "url": "/hu/net/word-processing-conversion/convert-ots-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OTS fájlok DOCX formátumba konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

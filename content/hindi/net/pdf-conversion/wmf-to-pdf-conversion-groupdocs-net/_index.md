@@ -4,8 +4,8 @@
 "title": ".NET डेवलपर्स के लिए GroupDocs का उपयोग करके सरल WMF से PDF रूपांतरण"
 "url": "/hi/net/pdf-conversion/wmf-to-pdf-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET डेवलपर्स के लिए GroupDocs का उपयोग करके सरल WMF से PDF रूपांतरण
 
 ## परिचय

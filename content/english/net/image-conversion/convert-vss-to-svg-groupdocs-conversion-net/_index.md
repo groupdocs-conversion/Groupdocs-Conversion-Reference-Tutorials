@@ -8,10 +8,8 @@ keywords:
 - VSS to SVG conversion
 - GroupDocs.Conversion for .NET
 - Visio file conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert VSS to SVG with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

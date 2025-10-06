@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak JPC'yi PDF'ye Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/pdf-conversion/convert-jpc-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak JPC'yi PDF'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

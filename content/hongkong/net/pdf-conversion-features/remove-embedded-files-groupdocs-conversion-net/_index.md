@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion .NET 從 PDF 中刪除嵌入文件以優化文件管理"
 "url": "/zh-hant/net/pdf-conversion-features/remove-embedded-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion .NET 從 PDF 中刪除嵌入文件以優化文件管理
 
 ## 介紹

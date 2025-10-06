@@ -4,8 +4,8 @@
 "title": "Convertir RTF a SVG usando GroupDocs.Conversion en C# - Guía completa"
 "url": "/es/net/image-conversion/convert-rtf-to-svg-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Convertir RTF a SVG con GroupDocs.Conversion en C#: una guía completa
 
 ## Introducción

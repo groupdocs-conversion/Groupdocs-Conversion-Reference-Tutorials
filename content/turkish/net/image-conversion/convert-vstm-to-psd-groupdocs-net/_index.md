@@ -4,8 +4,8 @@
 "title": "Visio Şablonlarını (.vstm) GroupDocs.Conversion for .NET Kullanarak Photoshop'a (.psd) Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/image-conversion/convert-vstm-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanarak Visio Şablonlarını (.vstm) Photoshop'a (.psd) Dönüştürme: Adım Adım Kılavuz
 ## giriiş
 Visio Makro Etkinleştirilmiş Çizim Şablonlarını (VSTM) Adobe Photoshop Belgesi (PSD) gibi çok yönlü bir biçime dönüştürmek zor olabilir. Bu kılavuz, .NET için GroupDocs.Conversion'ı kullanarak bu süreci basitleştirir ve sorunsuz ve etkili dosya dönüşümlerini mümkün kılar. Bu güçlü araçla, VSTM'leri PSD'lere dönüştürmek basit hale gelir ve belge iş akışınızı geliştirir.

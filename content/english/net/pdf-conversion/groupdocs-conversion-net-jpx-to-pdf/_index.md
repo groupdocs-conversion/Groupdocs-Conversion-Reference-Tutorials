@@ -8,9 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
 # Convert JPX to PDF Easily: A Comprehensive Guide Using GroupDocs.Conversion for .NET
 
 ## Introduction

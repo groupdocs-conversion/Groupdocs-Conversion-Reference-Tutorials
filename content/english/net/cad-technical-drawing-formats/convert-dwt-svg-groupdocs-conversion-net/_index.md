@@ -8,10 +8,8 @@ keywords:
 - convert DWT to SVG
 - GroupDocs.Conversion for .NET
 - CAD file conversion
-
+type: docs
 ---
-
-
 # How to Convert DWT Files to SVG Using GroupDocs.Conversion for .NET
 
 ## Introduction

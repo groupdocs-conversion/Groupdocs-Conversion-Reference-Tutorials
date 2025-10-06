@@ -5,8 +5,8 @@
 "title": "Konversi OTG ke PDF"
 "url": "/id/net/pdf-conversion/convert-otg-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # Konversi OTG ke PDF
 
 ## Perkenalan

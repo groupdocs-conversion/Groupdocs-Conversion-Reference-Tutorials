@@ -4,8 +4,8 @@
 "title": "EPS konvertálása PSD-vé .NET-ben a GroupDocs.Conversion használatával"
 "url": "/hu/net/image-formats-features/eps-psd-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # EPS konvertálása PSD-vé .NET-ben a GroupDocs.Conversion használatával
 
 ## Bevezetés

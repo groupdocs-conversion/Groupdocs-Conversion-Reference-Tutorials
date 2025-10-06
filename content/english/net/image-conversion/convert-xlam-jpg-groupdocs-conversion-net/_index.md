@@ -8,10 +8,8 @@ keywords:
 - convert XLAM to JPG
 - GroupDocs.Conversion for .NET
 - file conversion in .NET
-
+type: docs
 ---
-
-
 # Convert XLAM to JPG Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Java API का उपयोग करके PDF से Word रूपांतरण को कुशल बनाएं"
 "url": "/hi/java/word-processing-formats/groupdocs-conversion-java-pdf-to-word/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Java API का उपयोग करके PDF से Word रूपांतरण को कुशल बनाएं
 
 ## परिचय

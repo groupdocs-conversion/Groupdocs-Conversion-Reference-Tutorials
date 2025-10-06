@@ -5,8 +5,8 @@
 "title": "แปลง OTP เป็น PDF"
 "url": "/th/net/pdf-conversion/convert-otp-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # แปลง OTP เป็น PDF
 
 ## การแนะนำ

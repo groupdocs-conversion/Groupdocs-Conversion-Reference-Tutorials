@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 將 ODT 轉換為 DOC — 逐步指南"
 "url": "/zh-hant/net/word-processing-formats-features/groupdocs-conversion-odt-to-doc-guide/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 將 ODT 轉換為 DOC：逐步指南
 
 在當今快節奏的世界中，高效轉換文件格式的能力至關重要。無論您是開發文件處理軟體的開發人員，還是致力於實現無縫資料整合的組織，只要掌握合適的工具和知識，就能輕鬆將開放文件文字 (ODT) 檔案轉換為 Microsoft Word 文件 (DOC)。

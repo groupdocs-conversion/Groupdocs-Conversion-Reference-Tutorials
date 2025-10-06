@@ -4,8 +4,8 @@
 "title": "تحويل PowerPoint إلى نص بكفاءة في .NET باستخدام GroupDocs.Conversion"
 "url": "/ar/net/text-markup-conversion/powerpoint-to-text-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # تحويل PowerPoint إلى نص بكفاءة في .NET باستخدام GroupDocs.Conversion
 ## إتقان تحويل PowerPoint إلى نص باستخدام GroupDocs.Conversion لـ .NET: دليل شامل
 ### مقدمة

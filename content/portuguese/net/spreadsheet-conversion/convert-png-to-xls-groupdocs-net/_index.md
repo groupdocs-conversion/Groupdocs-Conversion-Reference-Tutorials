@@ -4,8 +4,8 @@
 "title": "Guia completo&#58; converter PNG para Excel (XLS) usando GroupDocs.Conversion para .NET"
 "url": "/pt/net/spreadsheet-conversion/convert-png-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Guia completo: converter PNG para Excel (XLS) usando GroupDocs.Conversion para .NET
 
 ## Introdução

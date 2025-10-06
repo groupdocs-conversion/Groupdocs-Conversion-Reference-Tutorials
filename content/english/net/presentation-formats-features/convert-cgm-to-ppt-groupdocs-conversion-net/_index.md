@@ -8,10 +8,8 @@ keywords:
 - convert CGM to PPT
 - GroupDocs.Conversion for .NET
 - CGM file conversion
-
+type: docs
 ---
-
-
 # How to Convert CGM Files to PowerPoint Presentations Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "تحويل ملفات PowerPoint PPT إلى ملفات Word DOC باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/word-processing-conversion/convert-powerpoint-ppt-to-word-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل عروض PowerPoint إلى مستندات Word باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

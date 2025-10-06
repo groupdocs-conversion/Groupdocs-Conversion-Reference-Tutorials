@@ -8,10 +8,8 @@ keywords:
 - convert DJVU to HTML
 - GroupDocs.Conversion for .NET
 - DJVU file conversion
-
+type: docs
 ---
-
-
 # Convert DJVU Files to HTML with GroupDocs.Conversion for .NET
 
 ## Introduction

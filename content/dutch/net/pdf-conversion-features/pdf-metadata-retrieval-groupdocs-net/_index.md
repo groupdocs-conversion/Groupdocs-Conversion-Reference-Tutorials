@@ -4,8 +4,8 @@
 "title": "PDF-metagegevens ophalen met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/pdf-conversion-features/pdf-metadata-retrieval-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PDF-metagegevens ophalen met GroupDocs.Conversion voor .NET
 
 Bent u het beu om handmatig informatie uit PDF-documenten te halen? Automatiseer de taak met GroupDocs.Conversion voor .NET en haal belangrijke details op, zoals auteurschap, aanmaakdatum, pagina-aantal, afmetingen en meer.

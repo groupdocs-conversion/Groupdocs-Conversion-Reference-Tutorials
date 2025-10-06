@@ -5,8 +5,8 @@
 "title": "Converter UM para PDF"
 "url": "/pt/net/pdf-conversion/convert-one-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Converter UM para PDF
 
 ## Introdução

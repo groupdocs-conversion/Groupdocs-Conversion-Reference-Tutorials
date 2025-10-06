@@ -4,8 +4,8 @@
 "title": "Chuyển đổi ODT sang DOC bằng GroupDocs.Conversion .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/word-processing-formats-features/groupdocs-conversion-odt-to-doc-guide/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi ODT sang DOC bằng GroupDocs.Conversion .NET: Hướng dẫn từng bước
 
 Trong thế giới phát triển nhanh như hiện nay, khả năng chuyển đổi định dạng tài liệu hiệu quả là rất quan trọng. Cho dù bạn là nhà phát triển làm việc trên phần mềm xử lý tài liệu hay tổ chức hướng đến tích hợp dữ liệu liền mạch, việc chuyển đổi tệp Open Document Text (ODT) thành Microsoft Word Documents (DOC) có thể được sắp xếp hợp lý với các công cụ và kiến thức phù hợp.

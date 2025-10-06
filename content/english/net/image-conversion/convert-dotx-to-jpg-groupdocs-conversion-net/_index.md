@@ -8,10 +8,8 @@ keywords:
 - convert DOTX to JPG
 - GroupDocs Conversion .NET
 - document conversion
-
+type: docs
 ---
-
-
 # How to Convert DOTX Files to JPG Using GroupDocs.Conversion for .NET (Step-by-Step Guide)
 
 ## Introduction

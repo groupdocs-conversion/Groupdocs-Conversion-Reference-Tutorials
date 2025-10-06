@@ -4,8 +4,8 @@
 "title": "Java File Caching dengan GroupDocs.Conversion&#58; Panduan Lengkap untuk Konversi Dokumen yang Efisien"
 "url": "/id/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Cara Menerapkan Java File Caching dengan GroupDocs.Conversion untuk Konversi Dokumen yang Efisien
 
 ## Perkenalan

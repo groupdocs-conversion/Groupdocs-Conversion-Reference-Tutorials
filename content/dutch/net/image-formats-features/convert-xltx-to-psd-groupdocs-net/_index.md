@@ -4,8 +4,8 @@
 "title": "Converteer XLTX naar PSD in .NET met GroupDocs.Conversion&#58; een uitgebreide handleiding"
 "url": "/nl/net/image-formats-features/convert-xltx-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # XLTX-bestanden naar PSD converteren met GroupDocs.Conversion in .NET
 
 **Transformeer Excel-sjablonen moeiteloos naar hoogwaardige PSD-afbeeldingen met GroupDocs.Conversion voor .NET**

@@ -5,8 +5,8 @@
 "title": "Konvertera PPSM till PDF"
 "url": "/sv/net/pdf-conversion/convert-ppsm-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Konvertera PPSM till PDF
 
 ## Introduktion

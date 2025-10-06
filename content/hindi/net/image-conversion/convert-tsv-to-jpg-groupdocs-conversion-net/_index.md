@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion का उपयोग करके TSV to JPG को कैसे परिवर्तित करें .NET - छवि रूपांतरण गाइड"
 "url": "/hi/net/image-conversion/convert-tsv-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET का उपयोग करके TSV को JPG में कैसे परिवर्तित करें
 
 आज के डिजिटल युग में, डेटा विभिन्न स्वरूपों में आता है। टैब-सेपरेटेड वैल्यूज़ (TSV) फ़ाइलों को JPEG में कनवर्ट करना प्रेजेंटेशन या रिपोर्टिंग के लिए विशेष रूप से उपयोगी हो सकता है। यह ट्यूटोरियल आपको .NET के लिए GroupDocs.Conversion का उपयोग करके अपनी TSV फ़ाइलों को उच्च-गुणवत्ता वाली JPG छवियों में बदलने के लिए मार्गदर्शन करता है।

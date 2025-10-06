@@ -8,10 +8,8 @@ keywords:
 - convert BMP to Excel
 - GroupDocs.Conversion for .NET
 - BMP image conversion
-
+type: docs
 ---
-
-
 # How to Convert BMP Files to Excel Using GroupDocs.Conversion .NET
 
 ## Introduction

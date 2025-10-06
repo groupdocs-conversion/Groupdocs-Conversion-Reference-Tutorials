@@ -8,10 +8,8 @@ keywords:
 - convert PPSM to DOCX
 - GroupDocs.Conversion for .NET
 - file conversion tutorial
-
+type: docs
 ---
-
-
 # How to Convert PPSM to DOCX Using GroupDocs.Conversion for .NET
 
 ## Introduction

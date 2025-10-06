@@ -8,10 +8,8 @@ keywords:
 - convert ODS to PPTX
 - GroupDocs.Conversion for .NET
 - automate document conversion
-
+type: docs
 ---
-
-
 # Mastering ODS to PPTX Conversion with GroupDocs.Conversion for .NET
 
 ## Introduction

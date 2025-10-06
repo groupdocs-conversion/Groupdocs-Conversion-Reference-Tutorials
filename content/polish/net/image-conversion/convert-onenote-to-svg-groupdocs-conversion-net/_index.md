@@ -4,8 +4,8 @@
 "title": "Przewodnik kompleksowy&#58; Konwersja programu OneNote do formatu SVG przy użyciu GroupDocs.Conversion dla platformy .NET"
 "url": "/pl/net/image-conversion/convert-onenote-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Kompleksowy przewodnik: Konwersja programu OneNote do formatu SVG przy użyciu GroupDocs.Conversion dla platformy .NET
 
 ## Wstęp

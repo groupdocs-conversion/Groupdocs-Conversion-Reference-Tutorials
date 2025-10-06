@@ -4,8 +4,8 @@
 "title": "Master GroupDocs.Conversion for .NET&#58; Konwertuj CSV do PowerPoint w C#"
 "url": "/pl/net/presentation-formats-features/convert-csv-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Master GroupDocs.Conversion dla .NET: Konwersja CSV do PowerPoint w C#
 
 ## Wstęp

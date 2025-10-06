@@ -4,8 +4,8 @@
 "title": "मिनटों में .NET के लिए सरल TXT से PDF रूपांतरण&#58; मास्टर GroupDocs.Conversion"
 "url": "/hi/net/pdf-conversion/convert-txt-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # सरल TXT से PDF रूपांतरण: मिनटों में .NET के लिए मास्टर GroupDocs.Conversion
 
 ## परिचय

@@ -4,8 +4,8 @@
 "title": "Rejtett diákkal ellátott PPTX fájlok hatékony konvertálása PDF-be Java-ban a GroupDocs.Conversion használatával"
 "url": "/hu/java/presentation-formats/convert-pptx-hidden-slides-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Rejtett diákkal ellátott PPTX fájlok egyszerű konvertálása PDF-be Java-ban a GroupDocs.Conversion segítségével
 
 A digitális korban a prezentációs dokumentumok univerzálisan hozzáférhető formátumokba, például PDF-be konvertálása gyakori követelmény a fejlesztők számára. Ez az oktatóanyag egy hatékony megoldást mutat be a következők használatával: **GroupDocs.Conversion Java-hoz** PowerPoint prezentációk, beleértve a rejtett diákat is, PDF formátumba konvertálásához.

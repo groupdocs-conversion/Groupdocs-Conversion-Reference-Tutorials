@@ -4,8 +4,8 @@
 "title": "Hatékony PNG-ből PPT-vé konvertálás a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/presentation-conversion/convert-png-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony PNG-ből PPT-vé konvertálás a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

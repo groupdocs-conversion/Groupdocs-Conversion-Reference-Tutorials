@@ -5,8 +5,8 @@
 "title": "Chuyển đổi MSG sang PDF"
 "url": "/vi/net/document-conversion/convert-msg-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # Chuyển đổi MSG sang PDF
 
 ## Giới thiệu

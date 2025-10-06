@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion .NET
 - EML to SVG conversion
 - email file conversion
-
+type: docs
 ---
-
-
 # Convert EML to SVG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

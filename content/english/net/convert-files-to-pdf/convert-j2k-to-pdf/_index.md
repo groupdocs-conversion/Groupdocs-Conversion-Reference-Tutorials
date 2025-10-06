@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Learn how to convert J2K (JPEG 2000) images to PDF effortlessly using GroupDocs.Conversion for .NET. Step-by-step tutorial included.
 weight: 28
 url: /net/convert-files-to-pdf/convert-j2k-to-pdf/
+type: docs
 ---
-
 # Convert J2K JPEG 2000 Images to PDF
 
 ## Introduction

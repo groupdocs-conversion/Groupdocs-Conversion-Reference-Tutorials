@@ -8,10 +8,8 @@ keywords:
 - convert JPX to PNG
 - GroupDocs.Conversion .NET
 - JPX file conversion
-
+type: docs
 ---
-
-
 # How to Convert JPX to PNG Using GroupDocs.Conversion .NET: A Step-by-Step Guide
 
 ## Introduction

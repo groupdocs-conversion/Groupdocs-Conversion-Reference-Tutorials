@@ -4,8 +4,8 @@
 "title": "DOCM konvertálása PPT-vé a GroupDocs.Conversion for .NET használatával – Fejlesztői útmutató"
 "url": "/hu/net/presentation-formats-features/convert-docm-to-ppt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # DOCM konvertálása PPT-vé a GroupDocs.Conversion for .NET használatával: Fejlesztői útmutató
 
 ## Bevezetés

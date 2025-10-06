@@ -4,8 +4,8 @@
 "title": "Convertir MPT en HTML à l'aide de GroupDocs.Conversion pour .NET - Un guide complet"
 "url": "/fr/net/web-markup-formats/convert-mpt-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir du MPT en HTML avec GroupDocs.Conversion pour .NET : guide complet
 
 ## Introduction

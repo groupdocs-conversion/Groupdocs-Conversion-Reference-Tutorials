@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion&#58; का उपयोग करके .NET में DOTM को PDF में परिवर्तित करें एक व्यापक मार्गदर्शिका"
 "url": "/hi/net/pdf-conversion/convert-dotm-to-pdf-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion का उपयोग करके .NET में DOTM को PDF में परिवर्तित करें: एक व्यापक मार्गदर्शिका
 
 ## परिचय

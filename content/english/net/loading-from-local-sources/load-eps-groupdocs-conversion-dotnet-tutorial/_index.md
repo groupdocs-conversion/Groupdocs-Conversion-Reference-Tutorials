@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion for .NET
 - load EPS file .NET
 - convert EPS files .NET
-
+type: docs
 ---
-
-
 # How to Load and Convert EPS Files with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

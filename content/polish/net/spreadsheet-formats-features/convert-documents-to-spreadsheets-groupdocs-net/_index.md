@@ -4,8 +4,8 @@
 "title": "Efektywna konwersja dokumentu do arkusza kalkulacyjnego przy użyciu GroupDocs.Conversion dla .NET"
 "url": "/pl/net/spreadsheet-formats-features/convert-documents-to-spreadsheets-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektywna konwersja dokumentu do arkusza kalkulacyjnego przy użyciu GroupDocs.Conversion dla .NET
 
 ## Wstęp

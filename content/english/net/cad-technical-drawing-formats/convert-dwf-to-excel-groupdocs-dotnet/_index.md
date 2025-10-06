@@ -8,10 +8,8 @@ keywords:
 - convert DWF to Excel .NET
 - GroupDocs.Conversion for .NET
 - DWF file conversion
-
+type: docs
 ---
-
-
 # Convert DWF to Excel in .NET using GroupDocs.Conversion: A Step-by-Step Guide
 
 ## Introduction

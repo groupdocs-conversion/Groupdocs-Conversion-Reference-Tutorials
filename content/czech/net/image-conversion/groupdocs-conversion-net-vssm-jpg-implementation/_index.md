@@ -4,8 +4,8 @@
 "title": "Jak převést soubory VSSM do formátu JPG pomocí nástroje GroupDocs.Conversion pro .NET – podrobný návod"
 "url": "/cs/net/image-conversion/groupdocs-conversion-net-vssm-jpg-implementation/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory VSSM do formátu JPG pomocí nástroje GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

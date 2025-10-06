@@ -4,8 +4,8 @@
 "title": "Hatékony PDF-ből PSD-be konvertálás a GroupDocs.Conversion .NET könyvtár használatával"
 "url": "/hu/net/image-formats-features/convert-pdfs-psds-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony PDF-ből PSD-be konvertálás a GroupDocs.Conversion .NET segítségével
 
 ## Bevezetés

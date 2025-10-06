@@ -4,8 +4,8 @@
 "title": "Come impostare un percorso di directory di output con GroupDocs.Conversion per .NET"
 "url": "/it/net/document-output-saving/groupdocs-conversion-setup-output-directory-net/"
 "weight": 1
+type: docs
 ---
-
 # Come impostare un percorso di directory di output utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

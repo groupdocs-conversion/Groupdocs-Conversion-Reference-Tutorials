@@ -4,8 +4,8 @@
 "title": "Převod XPS do PNG pomocí GroupDocs.Conversion pro .NET - Průvodce snadným převodem obrázků"
 "url": "/cs/net/image-conversion/convert-xps-to-png-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod XPS do PNG pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak XLSX'i PPT'ye Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/presentation-conversion/convert-xlsx-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanarak XLSX'i PPT'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

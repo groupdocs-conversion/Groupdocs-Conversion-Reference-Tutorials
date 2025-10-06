@@ -4,8 +4,8 @@
 "title": "Chuyển đổi PCL sang CSV bằng GroupDocs.Conversion .NET | Hướng dẫn từng bước để xử lý dữ liệu hiệu quả"
 "url": "/vi/net/csv-structured-data-processing/convert-pcl-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp PCL sang CSV bằng GroupDocs.Conversion .NET
 
 ## Giới thiệu

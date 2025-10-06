@@ -9,10 +9,8 @@ keywords:
 - GroupDocs.Conversion .NET
 - PST file conversion
 - PowerPoint presentation from emails
-
+type: docs
 ---
-
-
 # Convert PST Files to PowerPoint using GroupDocs.Conversion .NET: A Step-by-Step Guide
 
 ## Introduction

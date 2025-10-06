@@ -4,8 +4,8 @@
 "title": "CF2 fájlok betöltése és konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/cad-technical-drawing-formats/load-cf2-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # CF2 fájlok betöltése és konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

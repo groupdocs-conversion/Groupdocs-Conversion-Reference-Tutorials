@@ -4,8 +4,8 @@
 "title": "Hướng dẫn toàn diện&#58; Chuyển đổi MPX sang PSD bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/image-conversion/convert-mpx-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hướng dẫn toàn diện: Chuyển đổi MPX sang PSD bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

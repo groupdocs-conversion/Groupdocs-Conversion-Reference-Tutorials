@@ -4,8 +4,8 @@
 "title": "Μετατροπή διατάξεων CAD σε PDF σε Java χρησιμοποιώντας τον οδηγό μετατροπής επιλεκτικής διάταξης του GroupDocs"
 "url": "/el/java/cad-formats/groupdocs-java-cad-to-pdf-selective-layouts/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή διατάξεων CAD σε PDF με το GroupDocs.Conversion για Java
 ## Εξοικείωση με την επιλεκτική μετατροπή CAD σε PDF σε Java
 ### Εισαγωγή

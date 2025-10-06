@@ -3,8 +3,8 @@
 "title": "Tutoriels de conversion de texte et de balisage pour GroupDocs.Conversion .NET"
 "url": "/fr/net/text-markup-conversion/"
 "weight": 32
+type: docs
 ---
-
 # Tutoriels de conversion de texte et de balisage pour GroupDocs.Conversion .NET
 
 Découvrez la conversion de formats textuels grâce à nos tutoriels GroupDocs.Conversion détaillés pour les développeurs .NET. Ces guides pas à pas expliquent comment convertir des documents de formats riches en texte brut, XML, Markdown, TeX et autres formats textuels. Découvrez les options d'encodage, les techniques d'extraction de texte, la gestion des caractères spéciaux, la préservation de la structure des documents, la gestion des relations hiérarchiques dans les formats de balisage et la mise en œuvre de politiques de formatage de texte. Chaque tutoriel inclut des exemples pratiques de code C# pour créer des représentations textuelles de vos documents, capturant l'essentiel du contenu dans des formats simples, portables et faciles à analyser.

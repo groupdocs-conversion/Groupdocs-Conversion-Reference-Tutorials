@@ -5,8 +5,8 @@
 "title": "将 EMF Windows 图元文件转换为 PDF"
 "url": "/zh/net/convert-files-to-pdf/convert-emf-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # 将 EMF Windows 图元文件转换为 PDF
 
 ## 介绍

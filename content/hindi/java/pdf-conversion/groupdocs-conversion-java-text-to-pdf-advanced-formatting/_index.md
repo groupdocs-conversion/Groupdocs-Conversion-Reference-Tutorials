@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion के साथ उन्नत टेक्स्ट-टू-पीडीएफ रूपांतरण Java&#58; स्वरूपण को संरक्षित करें"
 "url": "/hi/java/pdf-conversion/groupdocs-conversion-java-text-to-pdf-advanced-formatting/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion के साथ उन्नत टेक्स्ट-टू-पीडीएफ रूपांतरण Java: स्वरूपण को संरक्षित करें
 
 ## परिचय

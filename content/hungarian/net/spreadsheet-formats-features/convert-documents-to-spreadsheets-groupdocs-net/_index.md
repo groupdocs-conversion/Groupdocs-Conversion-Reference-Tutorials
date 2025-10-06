@@ -4,8 +4,8 @@
 "title": "Hatékony dokumentum-táblázat konvertálás a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/spreadsheet-formats-features/convert-documents-to-spreadsheets-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony dokumentum-táblázat konvertálás a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

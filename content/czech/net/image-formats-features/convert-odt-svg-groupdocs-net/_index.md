@@ -4,8 +4,8 @@
 "title": "Jak převést soubory ODT do SVG pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/image-formats-features/convert-odt-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory ODT do SVG pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

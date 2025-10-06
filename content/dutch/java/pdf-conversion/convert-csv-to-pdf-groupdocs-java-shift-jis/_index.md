@@ -4,8 +4,8 @@
 "title": "CSV naar PDF converteren in Java met GroupDocs met Shift_JIS-codering"
 "url": "/nl/java/pdf-conversion/convert-csv-to-pdf-groupdocs-java-shift-jis/"
 "weight": 1
+type: docs
 ---
-
 # CSV naar PDF converteren in Java met GroupDocs met Shift_JIS-codering
 
 ## Invoering

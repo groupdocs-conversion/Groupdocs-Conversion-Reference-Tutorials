@@ -5,8 +5,8 @@
 "title": "CGM Vektör Grafiklerini PDF'ye Dönüştür"
 "url": "/tr/net/file-conversion-to-pdf/convert-cgm-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # CGM Vektör Grafiklerini PDF'ye Dönüştür
 
 ## giriiş

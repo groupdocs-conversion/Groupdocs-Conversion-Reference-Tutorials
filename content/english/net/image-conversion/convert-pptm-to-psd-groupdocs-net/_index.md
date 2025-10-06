@@ -8,10 +8,8 @@ keywords:
 - convert PPTM to PSD
 - GroupDocs.Conversion for .NET
 - file conversion in .NET
-
+type: docs
 ---
-
-
 # Convert PPTM to PSD Using GroupDocs.Conversion for .NET
 
 ## Introduction

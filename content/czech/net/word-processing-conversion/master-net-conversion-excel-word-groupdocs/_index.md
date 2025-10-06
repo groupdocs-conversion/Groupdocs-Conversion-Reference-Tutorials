@@ -4,8 +4,8 @@
 "title": "Zvládněte převod dokumentů .NET z Excelu do Wordu pomocí GroupDocs.Conversion"
 "url": "/cs/net/word-processing-conversion/master-net-conversion-excel-word-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Konverze dokumentů Master .NET: Excel do Wordu pomocí GroupDocs.Conversion
 
 ## Zavedení

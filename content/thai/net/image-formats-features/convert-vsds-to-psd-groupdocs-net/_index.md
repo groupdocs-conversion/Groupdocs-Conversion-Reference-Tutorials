@@ -4,8 +4,8 @@
 "title": "ทำให้การแปลง VSD เป็น PSD เป็นแบบอัตโนมัติโดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/image-formats-features/convert-vsds-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # ทำให้การแปลง VSD เป็น PSD เป็นแบบอัตโนมัติโดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

@@ -4,8 +4,8 @@
 "title": "Hatékony XML-ből táblázatkezelőbe konvertálás .NET-ben a GroupDocs.Conversion használatával"
 "url": "/hu/net/spreadsheet-conversion/xml-to-spreadsheet-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony XML-ből táblázatkezelőbe konvertálás .NET-ben a GroupDocs.Conversion használatával
 
 ## Bevezetés

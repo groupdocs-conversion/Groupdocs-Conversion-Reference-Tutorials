@@ -8,10 +8,8 @@ keywords:
 - convert EMF to TXT
 - GroupDocs.Conversion for .NET
 - file conversion guide
-
+type: docs
 ---
-
-
 # Convert EMF to TXT Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

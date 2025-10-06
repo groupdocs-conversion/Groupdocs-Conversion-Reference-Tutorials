@@ -4,8 +4,8 @@
 "title": "Konvertera DJVU till Excel med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/spreadsheet-conversion/djvu-to-xls-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera DJVU till Excel med GroupDocs.Conversion för .NET: En steg-för-steg-guide
 
 ## Introduktion

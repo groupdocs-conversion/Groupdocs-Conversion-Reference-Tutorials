@@ -5,8 +5,8 @@
 "title": "SVG'yi PDF'ye dönüştür"
 "url": "/tr/net/file-format-conversion-tutorials/convert-svg-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # SVG'yi PDF'ye dönüştür
 
 ## giriiş

@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert ICO to PNG in .NET Using GroupDocs: A Step-by-Step Guide
 
 ## Introduction

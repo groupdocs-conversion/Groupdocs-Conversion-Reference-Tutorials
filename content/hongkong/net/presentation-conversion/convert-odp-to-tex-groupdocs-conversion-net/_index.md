@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 ODP 轉換為 TEX 完整指南"
 "url": "/zh-hant/net/presentation-conversion/convert-odp-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 ODP 轉換為 TEX：完整指南
 
 ## 介紹

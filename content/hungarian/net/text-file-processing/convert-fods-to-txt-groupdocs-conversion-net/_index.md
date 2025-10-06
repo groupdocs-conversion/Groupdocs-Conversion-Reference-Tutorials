@@ -4,8 +4,8 @@
 "title": "FODS fájlok konvertálása TXT fájlokká a GroupDocs.Conversion .NET használatával | Szövegfájl-feldolgozási útmutató"
 "url": "/hu/net/text-file-processing/convert-fods-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # FODS fájlok konvertálása TXT formátumba a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

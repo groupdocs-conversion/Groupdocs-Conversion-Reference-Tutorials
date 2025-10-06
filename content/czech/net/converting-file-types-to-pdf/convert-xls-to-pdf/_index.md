@@ -5,8 +5,8 @@
 "title": "Převod XLS do PDF"
 "url": "/cs/net/converting-file-types-to-pdf/convert-xls-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Převod XLS do PDF
 
 ## Zavedení

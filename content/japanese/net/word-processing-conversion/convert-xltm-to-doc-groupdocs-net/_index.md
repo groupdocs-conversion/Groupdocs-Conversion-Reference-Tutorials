@@ -4,8 +4,8 @@
 "title": ".NETでGroupDocs.Conversionを使用してXLTMをDOCファイルに変換する方法 - ステップバイステップガイド"
 "url": "/ja/net/word-processing-conversion/convert-xltm-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NETでGroupDocs.Conversionを使用してXLTMファイルをDOCに変換する方法：ステップバイステップガイド
 
 ## 導入

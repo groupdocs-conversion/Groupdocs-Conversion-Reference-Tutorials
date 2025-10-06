@@ -8,10 +8,8 @@ keywords:
 - convert POT to PPT
 - GroupDocs.Conversion for .NET
 - PowerPoint Template conversion
-
+type: docs
 ---
-
-
 # Convert POT to PPT Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

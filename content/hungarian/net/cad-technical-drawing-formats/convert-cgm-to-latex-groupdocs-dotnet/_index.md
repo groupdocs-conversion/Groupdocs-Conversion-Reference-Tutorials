@@ -4,8 +4,8 @@
 "title": "CGM fájlok LaTeX formátumra konvertálása a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/cad-technical-drawing-formats/convert-cgm-to-latex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # CGM fájlok konvertálása LaTeX formátumra a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "VSTX fájlok zökkenőmentes konvertálása PPT-vé a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/presentation-formats-features/convert-vstx-to-ppt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # VSTX fájlok zökkenőmentes konvertálása PPT-vé a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

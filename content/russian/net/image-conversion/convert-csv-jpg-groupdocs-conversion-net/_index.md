@@ -4,8 +4,8 @@
 "title": "Конвертируйте CSV в JPG с помощью GroupDocs.Conversion для .NET. Подробное руководство"
 "url": "/ru/net/image-conversion/convert-csv-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертация CSV в JPG с помощью GroupDocs.Conversion для .NET: подробное руководство
 
 ## Введение

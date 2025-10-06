@@ -4,8 +4,8 @@
 "title": "Jak převést soubory LOG do prezentací v PowerPointu pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/presentation-formats-features/convert-log-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory LOG do prezentací v PowerPointu pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

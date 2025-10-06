@@ -4,8 +4,8 @@
 "title": "Padroneggia la conversione da PDF a SVG con GroupDocs.Conversion per .NET"
 "url": "/it/net/image-conversion/groupdocs-net-pdf-to-svg-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Padroneggia la conversione da PDF a SVG con GroupDocs.Conversion per .NET
 
 ## Tutorial sulla conversione delle immagini

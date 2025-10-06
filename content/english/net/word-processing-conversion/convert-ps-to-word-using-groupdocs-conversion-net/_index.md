@@ -8,10 +8,8 @@ keywords:
 - convert PS to Word
 - GroupDocs.Conversion for .NET
 - PostScript to DOCX
-
+type: docs
 ---
-
-
 # How to Convert PS Files to Word Using GroupDocs.Conversion for .NET
 
 ## Introduction

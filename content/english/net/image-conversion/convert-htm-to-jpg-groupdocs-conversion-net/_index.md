@@ -8,10 +8,8 @@ keywords:
 - Convert HTML to JPEG
 - GroupDocs.Conversion for .NET
 - image conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert HTML to JPEG Using GroupDocs.Conversion for .NET: A Developer’s Guide
 
 ## Introduction

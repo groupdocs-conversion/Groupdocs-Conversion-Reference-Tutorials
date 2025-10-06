@@ -4,8 +4,8 @@
 "title": "Hogyan konvertálhatunk MSG fájlokat TXT formátumba a GroupDocs.Conversion segítségével .NET-ben? Átfogó útmutató"
 "url": "/hu/net/email-formats-features/convert-msg-to-txt-groupdocs-net-tutorial/"
 "weight": 1
+type: docs
 ---
-
 # MSG fájlok TXT formátumba konvertálása a GroupDocs.Conversion segítségével .NET-ben: Átfogó útmutató
 
 ## Bevezetés

@@ -8,10 +8,8 @@ keywords:
 - Convert TIFF to PPTX
 - GroupDocs.Conversion for .NET
 - TIFF to PowerPoint conversion
-
+type: docs
 ---
-
-
 # Convert TIFF to PPTX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

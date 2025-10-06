@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用した効率的な ODT から PDF への変換ガイド"
 "url": "/ja/net/pdf-conversion-features/convert-odt-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # ODT から PDF への効率的な変換: GroupDocs.Conversion for .NET を使用したガイド
 
 ## 導入

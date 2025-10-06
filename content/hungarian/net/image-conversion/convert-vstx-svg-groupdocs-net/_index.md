@@ -4,8 +4,8 @@
 "title": "VSTX fájlok SVG formátumba konvertálása a GroupDocs.Conversion segítségével .NET-ben"
 "url": "/hu/net/image-conversion/convert-vstx-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # VSTX fájlok SVG formátumba konvertálása a GroupDocs.Conversion segítségével .NET-ben
 
 ## Bevezetés

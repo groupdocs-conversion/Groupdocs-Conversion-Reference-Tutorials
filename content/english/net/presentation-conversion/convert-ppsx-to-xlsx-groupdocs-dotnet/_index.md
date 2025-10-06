@@ -8,10 +8,8 @@ keywords:
 - convert ppsx to xlsx
 - groupdocs conversion net
 - ppsx to xlsx conversion
-
+type: docs
 ---
-
-
 # Convert PPSX to XLSX Using GroupDocs.Conversion .NET: A Comprehensive Guide
 
 ## Introduction

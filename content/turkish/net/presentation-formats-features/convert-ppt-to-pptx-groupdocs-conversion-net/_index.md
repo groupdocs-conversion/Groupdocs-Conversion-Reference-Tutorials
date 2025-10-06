@@ -4,8 +4,8 @@
 "title": "Verimli PowerPoint Dönüşümü&#58; PPT'yi PPTX'e Dönüştürmek için .NET için GroupDocs.Conversion Kullanımı"
 "url": "/tr/net/presentation-formats-features/convert-ppt-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Verimli PowerPoint Dönüşümü: PPT'yi PPTX'e Dönüştürmek için .NET için GroupDocs.Conversion'ı Kullanma
 
 ## giriiş

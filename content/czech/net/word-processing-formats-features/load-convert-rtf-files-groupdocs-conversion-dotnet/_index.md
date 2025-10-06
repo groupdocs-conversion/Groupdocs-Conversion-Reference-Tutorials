@@ -4,8 +4,8 @@
 "title": "Efektivní načítání a převod souborů RTF pomocí GroupDocs.Conversion v .NET"
 "url": "/cs/net/word-processing-formats-features/load-convert-rtf-files-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní načítání a převod souborů RTF pomocí GroupDocs.Conversion v .NET
 
 ## Zavedení

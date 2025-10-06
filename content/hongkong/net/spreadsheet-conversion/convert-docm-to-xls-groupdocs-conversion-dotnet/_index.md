@@ -4,8 +4,8 @@
 "title": "如何在 .NET 中使用 GroupDocs.Conversion 將 DOCM 轉換為 XLS——逐步指南"
 "url": "/zh-hant/net/spreadsheet-conversion/convert-docm-to-xls-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 如何在 .NET 中使用 GroupDocs.Conversion 將 DOCM 轉換為 XLS：逐步指南
 ## 介紹
 需要將 Microsoft Word 啟用巨集的文件 (.docm) 轉換為 Excel 格式嗎？本教學將引導您使用 .NET 中的 GroupDocs.Conversion 函式庫進行高效率的文件轉換。

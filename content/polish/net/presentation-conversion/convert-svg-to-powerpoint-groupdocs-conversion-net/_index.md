@@ -4,8 +4,8 @@
 "title": "Konwertuj SVG do PowerPoint w .NET za pomocą GroupDocs.Conversion&#58; Przewodnik krok po kroku"
 "url": "/pl/net/presentation-conversion/convert-svg-to-powerpoint-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja SVG do PowerPoint w .NET przy użyciu GroupDocs.Conversion
 ## Wstęp
 Konwersja grafiki SVG do formatów odpowiednich do prezentacji, takich jak PowerPoint, jest powszechną potrzebą wśród projektantów graficznych i programistów oprogramowania. Niezależnie od tego, czy chodzi o spotkania biznesowe, czy cele akademickie, konwersja plików SVG do PPT może znacznie usprawnić Twój przepływ pracy. Ten przewodnik pomoże Ci używać biblioteki GroupDocs.Conversion w .NET do wydajnej konwersji plików SVG do prezentacji PowerPoint.

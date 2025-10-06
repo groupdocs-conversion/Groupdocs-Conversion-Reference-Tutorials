@@ -8,10 +8,8 @@ keywords:
 - Convert RTF to DOC
 - GroupDocs.Conversion for .NET
 - .NET document conversion
-
+type: docs
 ---
-
-
 # Convert RTF to DOC Using GroupDocs.Conversion for .NET
 
 ## Introduction

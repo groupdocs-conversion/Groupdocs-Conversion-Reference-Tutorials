@@ -4,8 +4,8 @@
 "title": "Cómo convertir archivos PLT a PowerPoint con GroupDocs.Conversion para .NET (guía paso a paso)"
 "url": "/es/net/presentation-formats-features/convert-plt-to-powerpoint-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir archivos PLT a PowerPoint con GroupDocs.Conversion para .NET
 
 ## Introducción

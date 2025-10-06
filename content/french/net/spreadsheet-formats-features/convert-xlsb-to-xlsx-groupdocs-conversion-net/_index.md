@@ -4,8 +4,8 @@
 "title": "Convertissez facilement des fichiers XLSB en XLSX avec GroupDocs.Conversion pour .NET | Guide étape par étape"
 "url": "/fr/net/spreadsheet-formats-features/convert-xlsb-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertissez facilement XLSB en XLSX avec GroupDocs.Conversion pour .NET
 
 ## Introduction

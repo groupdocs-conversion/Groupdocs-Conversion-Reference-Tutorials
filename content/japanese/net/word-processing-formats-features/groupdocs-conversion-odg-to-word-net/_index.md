@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用した効率的な ODG から Word への変換"
 "url": "/ja/net/word-processing-formats-features/groupdocs-conversion-odg-to-word-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用した効率的な ODG から Word への変換
 
 今日のデジタル時代において、ワークフローの効率化を目指す企業にとって、ドキュメントをシームレスに変換することは不可欠です。プロジェクト計画書をユニバーサルアクセス可能な形式で提示したり、図面を効率的にアーカイブしたりする必要がある場合でも、OpenDocument Drawing（ODG）ファイルをMicrosoft Word文書に変換することで、大きな変革をもたらすことができます。この包括的なガイドでは、GroupDocs.Conversion for .NETを使用して、まさにそれを実現する方法を解説します。

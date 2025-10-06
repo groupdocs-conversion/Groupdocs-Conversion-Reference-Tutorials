@@ -8,10 +8,8 @@ keywords:
 - XLT to SVG conversion
 - GroupDocs.Conversion for .NET
 - .NET image conversion
-
+type: docs
 ---
-
-
 # Convert XLT to SVG Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

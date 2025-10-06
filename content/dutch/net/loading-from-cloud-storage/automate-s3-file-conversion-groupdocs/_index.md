@@ -4,8 +4,8 @@
 "title": "Automatiseer S3-bestandsconversie met GroupDocs.Conversion voor .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/loading-from-cloud-storage/automate-s3-file-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Automatiseer S3-bestandsconversie met GroupDocs.Conversion voor .NET: een stapsgewijze handleiding
 
 ## Invoering

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for Java を使用してドキュメントの特定のページを PDF に変換する方法"
 "url": "/ja/java/pdf-conversion/convert-specific-pages-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for Java を使用してドキュメントの特定のページを PDF に変換する方法
 
 今日のデジタル時代において、文書を効率的かつ効果的に変換することは、企業にとっても個人にとっても不可欠です。レポートの特定のセクションを共有する場合でも、選択したページを1つのPDFファイルにまとめる場合でも、適切なツールを使用することで大きな違いが生まれます。このガイドでは、ツールの使い方を詳しく説明します。 **GroupDocs.Conversion for Java** 文書の特定のページをPDF形式に変換します。早速始めましょう！

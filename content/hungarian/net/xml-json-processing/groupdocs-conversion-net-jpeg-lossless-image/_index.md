@@ -4,8 +4,8 @@
 "title": "JLS-fájlok konvertálása PDF-be és egyebek a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/xml-json-processing/groupdocs-conversion-net-jpeg-lossless-image/"
 "weight": 1
+type: docs
 ---
-
 # JLS-fájlok konvertálása PDF-be és egyebek a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

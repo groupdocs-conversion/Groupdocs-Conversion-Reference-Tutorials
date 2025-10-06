@@ -4,8 +4,8 @@
 "title": "Cách tải và chuyển đổi tệp EPS bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/loading-from-local-sources/load-eps-groupdocs-conversion-dotnet-tutorial/"
 "weight": 1
+type: docs
 ---
-
 # Cách tải và chuyển đổi tệp EPS bằng GroupDocs.Conversion cho .NET: Hướng dẫn từng bước
 
 ## Giới thiệu

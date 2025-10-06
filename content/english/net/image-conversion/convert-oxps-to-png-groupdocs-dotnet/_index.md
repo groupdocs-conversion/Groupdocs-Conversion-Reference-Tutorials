@@ -8,10 +8,8 @@ keywords:
 - convert OXPS to PNG
 - GroupDocs.Conversion for .NET
 - image conversion in .NET
-
+type: docs
 ---
-
-
 # Efficiently Convert OXPS to PNG Using GroupDocs.Conversion for .NET
 
 ## Introduction

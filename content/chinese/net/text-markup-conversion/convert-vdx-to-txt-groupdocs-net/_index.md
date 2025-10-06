@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将 VDX 文件转换为 TXT 综合指南"
 "url": "/zh/net/text-markup-conversion/convert-vdx-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 将 VDX 文件转换为 TXT
 
 ## 介绍

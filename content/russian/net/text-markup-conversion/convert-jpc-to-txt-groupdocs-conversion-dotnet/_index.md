@@ -4,8 +4,8 @@
 "title": "Конвертируйте JPC в TXT с помощью GroupDocs.Conversion для .NET. Подробное руководство"
 "url": "/ru/net/text-markup-conversion/convert-jpc-to-txt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Как конвертировать файлы JPC в TXT с помощью GroupDocs.Conversion для .NET
 
 ## Введение

@@ -4,8 +4,8 @@
 "title": "MPP'yi GroupDocs.Conversion for .NET Kullanarak PPTX'e Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/presentation-formats-features/convert-mpp-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # MPP'yi .NET için GroupDocs.Conversion Kullanarak PPTX'e Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

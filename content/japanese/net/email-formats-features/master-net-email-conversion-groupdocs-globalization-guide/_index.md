@@ -4,8 +4,8 @@
 "title": "GroupDocs による .NET メール変換のマスター - 開発者向けグローバリゼーション ガイド"
 "url": "/ja/net/email-formats-features/master-net-email-conversion-groupdocs-globalization-guide/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs による .NET メール変換のマスター: 包括的なグローバリゼーション ガイド
 
 ## 導入

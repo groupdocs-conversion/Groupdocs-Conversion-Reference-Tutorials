@@ -4,8 +4,8 @@
 "title": "Konverze Net PSD s GroupDocs – Ultimátní průvodce pro .NET vývojáře"
 "url": "/cs/net/image-conversion/net-psd-conversion-groupdocs-guide/"
 "weight": 1
+type: docs
 ---
-
 # Konverze Net PSD pomocí GroupDocs: Kompletní průvodce pro .NET vývojáře
 
 ## Zavedení

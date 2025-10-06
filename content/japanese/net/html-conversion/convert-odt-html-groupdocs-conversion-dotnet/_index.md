@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して ODT を HTML に変換する方法 - 包括的なガイド"
 "url": "/ja/net/html-conversion/convert-odt-html-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して ODT を HTML に変換する方法
 
 ## 導入

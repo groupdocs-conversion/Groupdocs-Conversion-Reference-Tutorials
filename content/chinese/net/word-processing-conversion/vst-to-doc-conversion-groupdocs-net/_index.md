@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将 VST 文件转换为 DOC 格式 — 分步指南"
 "url": "/zh/net/word-processing-conversion/vst-to-doc-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将 VST 文件转换为 DOC 格式：分步指南
 
 欢迎阅读我们关于如何使用 GroupDocs.Conversion for .NET 将 Visio 模板 (VST) 文件转换为 Microsoft Word (DOC) 文档的全面指南。本教程提供分步说明，帮助专业人士以更易于访问的格式轻松共享和编辑 VST 文件。

@@ -4,8 +4,8 @@
 "title": "HTML konvertálása PowerPoint formátumba a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/presentation-conversion/convert-html-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # HTML konvertálása PowerPoint formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

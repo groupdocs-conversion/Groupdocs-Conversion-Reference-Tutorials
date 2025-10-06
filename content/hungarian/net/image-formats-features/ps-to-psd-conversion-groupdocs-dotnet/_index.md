@@ -4,8 +4,8 @@
 "title": "Hatékony PS-PSD konvertálás a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-formats-features/ps-to-psd-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony PS-PSD konvertálás a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

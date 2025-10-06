@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion for .NET
 - convert markup to Word
 - Word formatting with page numbers
-
+type: docs
 ---
-
-
 # Convert Markup to Word with Page Numbering Using GroupDocs.Conversion for .NET
 ## Introduction
 Are you looking to convert markup documents into professional Word formats while maintaining accurate page numbers? This tutorial will guide you through using **GroupDocs.Conversion for .NET** to seamlessly transform your documents. This powerful library simplifies conversions and ensures that essential elements like page numbering are intact in the output document.

@@ -4,8 +4,8 @@
 "title": "แปลง ODS เป็น PPT โดยใช้ GroupDocs.Conversion .NET คำแนะนำทีละขั้นตอน"
 "url": "/th/net/presentation-conversion/convert-ods-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลง ODS เป็น PPT โดยใช้ GroupDocs.Conversion .NET: คำแนะนำทีละขั้นตอน
 ## การแนะนำ
 การแปลงไฟล์ Open Document Spreadsheet (ODS) เป็นรูปแบบ PowerPoint Presentation (PPT) ถือเป็นสิ่งสำคัญเมื่อคุณต้องนำเสนอข้อมูลในรูปแบบภาพหรือเตรียมสเปรดชีตสำหรับการประชุม คู่มือนี้จะแนะนำคุณเกี่ยวกับการใช้ GroupDocs.Conversion .NET เพื่อดำเนินการแปลงไฟล์นี้อย่างราบรื่น

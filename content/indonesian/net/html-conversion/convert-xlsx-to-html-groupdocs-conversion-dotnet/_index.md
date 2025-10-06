@@ -4,8 +4,8 @@
 "title": "Konversi XLSX ke HTML dengan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/html-conversion/convert-xlsx-to-html-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konversi XLSX ke HTML dengan GroupDocs.Conversion untuk .NET: Panduan Lengkap
 
 ## Perkenalan

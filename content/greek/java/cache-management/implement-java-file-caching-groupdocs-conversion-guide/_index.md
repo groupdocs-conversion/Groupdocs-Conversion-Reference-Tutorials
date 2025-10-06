@@ -4,8 +4,8 @@
 "title": "Αποθήκευση αρχείων Java στην προσωρινή μνήμη με το GroupDocs.Conversion&#58; Ένας ολοκληρωμένος οδηγός για αποτελεσματική μετατροπή εγγράφων"
 "url": "/el/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να εφαρμόσετε την προσωρινή αποθήκευση αρχείων Java με το GroupDocs.Conversion για αποτελεσματική μετατροπή εγγράφων
 
 ## Εισαγωγή

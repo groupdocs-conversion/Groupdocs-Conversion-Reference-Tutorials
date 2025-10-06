@@ -4,8 +4,8 @@
 "title": "RTF-ből TXT-be konvertálás a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/word-processing-conversion/rtf-to-txt-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # RTF konvertálása TXT-vé a GroupDocs.Conversion for .NET segítségével: lépésről lépésre útmutató
 
 ## Bevezetés

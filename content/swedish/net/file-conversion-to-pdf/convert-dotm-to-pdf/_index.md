@@ -5,8 +5,8 @@
 "title": "Konvertera DOTM Word-mallar (makron) till PDF"
 "url": "/sv/net/file-conversion-to-pdf/convert-dotm-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Konvertera DOTM Word-mallar (makron) till PDF
 
 ## Introduktion

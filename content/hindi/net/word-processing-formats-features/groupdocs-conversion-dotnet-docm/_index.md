@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion&#58; के साथ .NET में मास्टर DOCM रूपांतरण एक व्यापक गाइड"
 "url": "/hi/net/word-processing-formats-features/groupdocs-conversion-dotnet-docm/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion के साथ .NET में DOCM रूपांतरण में महारत हासिल करें
 
 ## परिचय

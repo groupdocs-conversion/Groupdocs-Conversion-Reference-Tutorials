@@ -4,8 +4,8 @@
 "title": "Chuyển đổi DGN sang DOCX hiệu quả bằng GroupDocs trong .NET cho các dự án CAD"
 "url": "/vi/net/cad-technical-drawing-formats/convert-dgn-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi DGN sang DOCX hiệu quả với GroupDocs trong .NET
 
 ## Giới thiệu

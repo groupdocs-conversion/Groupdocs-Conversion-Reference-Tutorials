@@ -4,8 +4,8 @@
 "title": "Konwertuj VSSX do JPG w prosty sposób, używając GroupDocs.Conversion dla .NET"
 "url": "/pl/net/image-conversion/convert-vssx-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj VSSX do JPG za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

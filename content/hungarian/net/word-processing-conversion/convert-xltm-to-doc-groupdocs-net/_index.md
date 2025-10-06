@@ -4,8 +4,8 @@
 "title": "XLTM fájlok DOC fájlokká konvertálása a GroupDocs.Conversion segítségével .NET-ben – Lépésről lépésre útmutató"
 "url": "/hu/net/word-processing-conversion/convert-xltm-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # XLTM fájlok DOC formátumba konvertálása a GroupDocs.Conversion segítségével .NET-ben: lépésről lépésre útmutató
 
 ## Bevezetés

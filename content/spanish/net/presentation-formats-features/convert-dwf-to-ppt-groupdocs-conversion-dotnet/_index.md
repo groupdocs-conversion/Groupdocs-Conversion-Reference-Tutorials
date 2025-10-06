@@ -4,8 +4,8 @@
 "title": "Cómo convertir archivos DWF a presentaciones de PowerPoint usando GroupDocs.Conversion para .NET"
 "url": "/es/net/presentation-formats-features/convert-dwf-to-ppt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir archivos DWF a presentaciones de PowerPoint usando GroupDocs.Conversion para .NET
 
 ## Introducción

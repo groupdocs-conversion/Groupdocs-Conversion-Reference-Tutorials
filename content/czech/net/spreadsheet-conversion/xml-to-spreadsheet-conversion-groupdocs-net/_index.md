@@ -4,8 +4,8 @@
 "title": "Efektivní převod XML do tabulky v .NET pomocí GroupDocs.Conversion"
 "url": "/cs/net/spreadsheet-conversion/xml-to-spreadsheet-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod XML do tabulky v .NET pomocí GroupDocs.Conversion
 
 ## Zavedení

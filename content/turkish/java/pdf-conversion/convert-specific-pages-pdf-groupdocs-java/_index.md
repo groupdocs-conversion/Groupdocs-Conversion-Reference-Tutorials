@@ -4,8 +4,8 @@
 "title": "Java için GroupDocs.Conversion Kullanılarak Bir Belgenin Belirli Sayfaları PDF'ye Nasıl Dönüştürülür"
 "url": "/tr/java/pdf-conversion/convert-specific-pages-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Java için GroupDocs.Conversion Kullanılarak Bir Belgenin Belirli Sayfaları PDF'ye Nasıl Dönüştürülür
 
 Günümüzün dijital çağında, belgeleri etkili ve verimli bir şekilde dönüştürmek hem işletmeler hem de bireyler için hayati önem taşır. Bir raporun belirli bölümlerini paylaşıyor veya seçili sayfaları tek bir PDF dosyasına derliyor olun, doğru araçlara sahip olmak büyük fark yaratabilir. Bu kılavuz, **GroupDocs.Conversion for Java** bir belgenin belirli sayfalarını PDF formatına dönüştürmek için. Hadi başlayalım!

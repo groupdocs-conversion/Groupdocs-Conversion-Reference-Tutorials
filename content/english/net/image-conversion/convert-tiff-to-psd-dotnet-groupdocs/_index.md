@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert TIFF to PSD in .NET Using GroupDocs: A Comprehensive Guide
 
 ## Introduction

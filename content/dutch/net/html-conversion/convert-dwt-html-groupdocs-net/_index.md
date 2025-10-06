@@ -4,8 +4,8 @@
 "title": "Hoe DWT naar HTML converteren met GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/html-conversion/convert-dwt-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DWT-bestanden converteren naar HTML met GroupDocs.Conversion voor .NET: een uitgebreide handleiding
 
 ## Invoering

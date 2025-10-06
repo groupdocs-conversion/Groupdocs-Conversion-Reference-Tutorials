@@ -4,8 +4,8 @@
 "title": "IFC fájlok SVG formátumba konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/cad-technical-drawing-formats/convert-ifc-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # IFC fájlok SVG formátumba konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató
 
 ## Bevezetés

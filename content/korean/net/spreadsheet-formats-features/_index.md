@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET을 위한 스프레드시트 형식 및 기능 튜토리얼"
 "url": "/ko/net/spreadsheet-formats-features/"
 "weight": 11
+type: docs
 ---
-
 # GroupDocs.Conversion .NET을 위한 스프레드시트 형식 및 기능 튜토리얼
 
 GroupDocs.Conversion .NET 튜토리얼을 통해 스프레드시트 문서를 처리하는 방법을 알아보세요. 이 상세한 가이드는 Excel 형식, CSV 및 기타 스프레드시트 형식 간의 변환, 눈금선과 주석 표시 또는 숨기기, 빈 행과 열 건너뛰기, 변환할 범위 및 시트 인덱스 지정, 숨겨진 시트 관리, 수식 및 함수 유지, 셀 서식 유지, 변환 중 계산 체인 제어 방법을 보여줍니다. 각 튜토리얼에는 복잡한 계산과 시각적 요소를 유지하면서 정확한 스프레드시트 변환을 구현하는 방법을 보여주는 C# 코드 예제가 포함되어 있습니다.

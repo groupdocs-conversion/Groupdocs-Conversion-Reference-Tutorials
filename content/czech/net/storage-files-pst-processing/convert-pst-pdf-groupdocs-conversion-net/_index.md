@@ -4,8 +4,8 @@
 "title": "Bezproblémový převod souborů PST do PDF pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/storage-files-pst-processing/convert-pst-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převeďte své soubory PST do PDF bez problémů s GroupDocs.Conversion pro .NET
 
 ## Zavedení

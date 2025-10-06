@@ -4,8 +4,8 @@
 "title": "Làm chủ chuyển đổi DOCM trong .NET với GroupDocs.Conversion&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/word-processing-formats-features/groupdocs-conversion-dotnet-docm/"
 "weight": 1
+type: docs
 ---
-
 # Làm chủ chuyển đổi DOCM trong .NET với GroupDocs.Conversion
 
 ## Giới thiệu

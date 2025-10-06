@@ -8,10 +8,8 @@ keywords:
 - convert XLTm to DOCX
 - GroupDocs.Conversion for .NET
 - file format conversion
-
+type: docs
 ---
-
-
 # How to Convert XLTm Files to DOCX Using GroupDocs.Conversion for .NET
 
 ## Introduction

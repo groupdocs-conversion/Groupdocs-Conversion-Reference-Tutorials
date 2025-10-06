@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi tệp DOTX sang JPG bằng GroupDocs.Conversion cho .NET (Hướng dẫn từng bước)"
 "url": "/vi/net/image-conversion/convert-dotx-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp DOTX sang JPG bằng GroupDocs.Conversion cho .NET (Hướng dẫn từng bước)
 
 ## Giới thiệu

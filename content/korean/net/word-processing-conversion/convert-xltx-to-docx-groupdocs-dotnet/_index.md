@@ -4,8 +4,8 @@
 "title": "GroupDocs for .NET을 사용하여 XLTX를 DOCX로 변환하기&#58; 포괄적인 가이드"
 "url": "/ko/net/word-processing-conversion/convert-xltx-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs for .NET을 사용하여 XLTX를 DOCX로 변환: 포괄적인 가이드
 ## 소개
 GroupDocs.Conversion for .NET 라이브러리를 사용하면 Excel Open XML 템플릿(XLTX) 파일을 Microsoft Word 문서(DOCX)로 원활하게 변환할 수 있습니다. 이 강력한 도구는 문서 변환 과정을 간소화하여 다양한 형식 간의 효율적인 변환을 가능하게 합니다.

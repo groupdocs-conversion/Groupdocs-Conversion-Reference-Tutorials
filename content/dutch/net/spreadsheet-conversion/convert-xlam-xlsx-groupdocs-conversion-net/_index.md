@@ -4,8 +4,8 @@
 "title": "XLAM naar XLSX converteren met GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/spreadsheet-conversion/convert-xlam-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # XLAM naar XLSX converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

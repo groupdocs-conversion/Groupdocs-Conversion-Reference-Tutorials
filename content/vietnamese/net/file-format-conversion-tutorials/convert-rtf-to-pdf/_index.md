@@ -5,8 +5,8 @@
 "title": "Chuyển đổi RTF sang PDF"
 "url": "/vi/net/file-format-conversion-tutorials/convert-rtf-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # Chuyển đổi RTF sang PDF
 
 ## Giới thiệu

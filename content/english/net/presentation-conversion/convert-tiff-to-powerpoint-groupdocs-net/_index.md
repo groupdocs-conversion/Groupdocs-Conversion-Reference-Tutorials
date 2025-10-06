@@ -8,10 +8,8 @@ keywords:
 - Convert TIFF to PowerPoint
 - GroupDocs.Conversion .NET
 - TIFF to PPT conversion
-
+type: docs
 ---
-
-
 # Convert TIFF to PowerPoint Using GroupDocs.Conversion .NET: A Step-by-Step Guide
 
 ## Introduction

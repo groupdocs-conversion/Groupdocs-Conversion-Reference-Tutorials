@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Efficiently Load and Convert RTF Files Using GroupDocs.Conversion in .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "แปลงหน้าเฉพาะเป็น PDF โดยใช้ GroupDocs.Conversion สำหรับ .NET&#58; คู่มือฉบับสมบูรณ์"
 "url": "/th/net/pdf-conversion-features/groupdocs-conversion-dotnet-convert-pages-to-pdf/"
 "weight": 1
+type: docs
 ---
-
 # แปลงหน้าเฉพาะเป็น PDF โดยใช้ GroupDocs.Conversion สำหรับ .NET: คู่มือฉบับสมบูรณ์
 
 ## การแนะนำ

@@ -4,8 +4,8 @@
 "title": "Конвертируйте Excel в PDF с помощью GroupDocs.Conversion для Java&#58; Подробное руководство"
 "url": "/ru/java/pdf-conversion/excel-to-pdf-groupdocs-java-tutorial/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте Excel в PDF с помощью GroupDocs.Conversion для Java: подробное руководство
 
 ## Введение

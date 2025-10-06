@@ -5,8 +5,8 @@
 "title": "Převod VSS do PDF"
 "url": "/cs/net/converting-file-types-to-pdf/convert-vss-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Převod VSS do PDF
 
 ## Zavedení

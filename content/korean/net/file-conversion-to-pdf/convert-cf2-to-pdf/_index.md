@@ -5,8 +5,8 @@
 "title": "CF2를 PDF로 변환"
 "url": "/ko/net/file-conversion-to-pdf/convert-cf2-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # CF2를 PDF로 변환
 
 ## 소개

@@ -5,8 +5,8 @@
 "title": "Конвертировать PPS в PDF"
 "url": "/ru/net/pdf-conversion/convert-pps-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Конвертировать PPS в PDF
 
 ## Введение

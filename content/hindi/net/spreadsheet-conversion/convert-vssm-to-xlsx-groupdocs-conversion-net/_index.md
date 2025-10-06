@@ -4,8 +4,8 @@
 "title": "स्प्रेडशीट रूपांतरण के लिए GroupDocs.Conversion .NET का उपयोग करके VSSM को XLSX में कुशलतापूर्वक परिवर्तित करें"
 "url": "/hi/net/spreadsheet-conversion/convert-vssm-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion के साथ VSSM को XLSX में परिवर्तित करें
 
 ## परिचय

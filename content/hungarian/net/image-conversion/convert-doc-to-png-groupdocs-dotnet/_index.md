@@ -4,8 +4,8 @@
 "title": "Hatékony DOC-PNG konvertálás a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/convert-doc-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony DOC-PNG konvertálás a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

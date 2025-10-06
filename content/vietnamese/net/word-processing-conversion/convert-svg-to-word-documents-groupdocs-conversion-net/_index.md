@@ -4,8 +4,8 @@
 "title": "Chuyển đổi SVG sang tài liệu Word hiệu quả bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/word-processing-conversion/convert-svg-to-word-documents-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi SVG sang tài liệu Word hiệu quả bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

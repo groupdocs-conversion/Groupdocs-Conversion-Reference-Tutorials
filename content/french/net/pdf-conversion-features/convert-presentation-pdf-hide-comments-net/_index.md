@@ -4,8 +4,8 @@
 "title": "Masquer les commentaires dans un PDF ; Convertir un PPT en PDF avec GroupDocs.Conversion pour .NET"
 "url": "/fr/net/pdf-conversion-features/convert-presentation-pdf-hide-comments-net/"
 "weight": 1
+type: docs
 ---
-
 # Masquer les commentaires au format PDF : Convertir un PPT en PDF avec GroupDocs.Conversion pour .NET
 
 ## Introduction

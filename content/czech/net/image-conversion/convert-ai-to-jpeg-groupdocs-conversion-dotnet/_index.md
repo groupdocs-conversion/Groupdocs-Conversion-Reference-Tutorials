@@ -4,8 +4,8 @@
 "title": "Jak převést soubory AI do formátu JPEG pomocí GroupDocs.Conversion pro .NET - Průvodce převodem obrázků"
 "url": "/cs/net/image-conversion/convert-ai-to-jpeg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory AI do formátu JPEG pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके छिपी हुई शीट वाली XLSX फ़ाइलों को PDF में कैसे परिवर्तित करें"
 "url": "/hi/net/spreadsheet-formats-features/convert-xlsx-hidden-sheets-to-pdf-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके छिपी हुई शीट वाली XLSX फ़ाइलों को PDF में कैसे परिवर्तित करें
 
 ## परिचय

@@ -4,8 +4,8 @@
 "title": "PS'yi GroupDocs.Conversion for .NET Kullanarak PNG'ye Dönüştürme&#58; Tam Bir Kılavuz"
 "url": "/tr/net/image-conversion/convert-ps-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PS'yi GroupDocs.Conversion for .NET Kullanarak PNG'ye Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

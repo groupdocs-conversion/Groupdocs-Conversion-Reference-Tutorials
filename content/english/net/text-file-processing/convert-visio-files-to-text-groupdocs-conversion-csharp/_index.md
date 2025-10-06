@@ -8,10 +8,8 @@ keywords:
 - convert Visio VSD to text
 - GroupDocs.Conversion C#
 - Visio VSD to TXT conversion
-
+type: docs
 ---
-
-
 # Convert Visio VSD Files to Text with GroupDocs.Conversion for .NET
 
 ## Introduction

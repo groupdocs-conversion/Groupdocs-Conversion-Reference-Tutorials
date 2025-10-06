@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 OTT 無縫轉換為 PPT"
 "url": "/zh-hant/net/presentation-formats-features/convert-ott-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 無縫轉換 OTT 為 PPT：使用 GroupDocs.Conversion for .NET
 
 ## 介紹

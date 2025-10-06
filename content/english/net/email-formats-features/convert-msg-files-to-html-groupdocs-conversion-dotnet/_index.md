@@ -8,10 +8,8 @@ keywords:
 - Convert MSG to HTML
 - GroupDocs.Conversion for .NET
 - Microsoft Outlook MSG conversion
-
+type: docs
 ---
-
-
 # Convert MSG Files to HTML with GroupDocs.Conversion for .NET
 
 ## Introduction

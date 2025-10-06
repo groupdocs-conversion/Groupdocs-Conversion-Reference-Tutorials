@@ -4,8 +4,8 @@
 "title": "Jak konwertować pliki VSS do prezentacji PPT za pomocą GroupDocs.Conversion .NET&#58; Przewodnik krok po kroku"
 "url": "/pl/net/presentation-formats-features/convert-vss-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak konwertować pliki VSS do prezentacji PPT za pomocą GroupDocs.Conversion .NET: przewodnik krok po kroku
 
 ## Wstęp

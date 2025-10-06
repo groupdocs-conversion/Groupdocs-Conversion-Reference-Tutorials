@@ -4,8 +4,8 @@
 "title": "تحويل Markdown إلى Word باستخدام GroupDocs في .NET | دليل شامل"
 "url": "/ar/net/word-processing-formats-features/convert-markdown-to-word-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # تحويل Markdown إلى Word باستخدام GroupDocs في .NET
 
 ## مقدمة

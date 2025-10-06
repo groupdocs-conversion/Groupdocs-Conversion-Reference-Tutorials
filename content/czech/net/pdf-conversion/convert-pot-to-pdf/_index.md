@@ -5,8 +5,8 @@
 "title": "Převod POT do PDF"
 "url": "/cs/net/pdf-conversion/convert-pot-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Převod POT do PDF
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "إتقان استبدال الخطوط في ملفات PDF باستخدام GroupDocs.Conversion - دليل شامل"
 "url": "/ar/net/font-handling-substitution/groupdocs-conversion-pdf-font-substitution-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # إتقان استبدال الخطوط في ملفات PDF في .NET باستخدام GroupDocs.Conversion
 
 من الضروري ضمان تناسق الطباعة أثناء تحويل المستندات. يوضح هذا الدليل الشامل استخدام GroupDocs.Conversion لـ .NET لإدارة استبدال الخطوط بفعالية عند تحويل المستندات إلى PDF.

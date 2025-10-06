@@ -8,10 +8,8 @@ keywords:
 - PST to DOCX conversion
 - GroupDocs.Conversion .NET
 - Outlook data conversion
-
+type: docs
 ---
-
-
 # Convert Outlook PST to DOCX Using GroupDocs.Conversion for .NET
 
 ## Introduction

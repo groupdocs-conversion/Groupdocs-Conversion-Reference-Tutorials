@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用して C# で XLSB を PNG に変換する手順"
 "url": "/ja/net/image-conversion/convert-xlsb-png-groupdocs-conversion-csharp/"
 "weight": 1
+type: docs
 ---
-
 # C# で GroupDocs.Conversion を使用して XLSB ファイルを PNG に変換する: ステップバイステップ ガイド
 
 ## 導入

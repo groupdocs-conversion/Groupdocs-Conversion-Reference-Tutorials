@@ -4,8 +4,8 @@
 "title": "GroupDocs for .NET で CSV から DOCX への変換を自動化 | シームレスデータ処理ガイド"
 "url": "/ja/net/csv-structured-data-processing/automate-csv-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs for .NET で CSV から DOCX への変換を自動化
 
 ## 導入

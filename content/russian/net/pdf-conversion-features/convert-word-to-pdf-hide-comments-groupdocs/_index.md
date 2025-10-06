@@ -4,8 +4,8 @@
 "title": "Конвертируйте Word в PDF и скройте комментарии с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/pdf-conversion-features/convert-word-to-pdf-hide-comments-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте документы Word в PDF и скрывайте комментарии с помощью GroupDocs.Conversion для .NET
 
 ## Введение

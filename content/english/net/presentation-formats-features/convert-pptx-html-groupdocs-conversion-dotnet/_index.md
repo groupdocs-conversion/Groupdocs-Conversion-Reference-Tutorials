@@ -8,10 +8,8 @@ keywords:
 - convert PPTX to HTML
 - GroupDocs.Conversion for .NET
 - PowerPoint to HTML conversion
-
+type: docs
 ---
-
-
 # Convert PPTX to HTML Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

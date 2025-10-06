@@ -4,8 +4,8 @@
 "title": "Μετατρέψτε αρχεία JPC σε DOC απρόσκοπτα σε .NET χρησιμοποιώντας το GroupDocs.Conversion"
 "url": "/el/net/word-processing-conversion/jpc-to-doc-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατρέψτε αρχεία JPC σε DOC απρόσκοπτα σε .NET χρησιμοποιώντας το GroupDocs.Conversion
 
 ## Εισαγωγή

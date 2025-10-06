@@ -4,8 +4,8 @@
 "title": "Maîtriser la gestion des documents texte en Java &#58; utilisation de GroupDocs.Conversion pour un codage et une conversion PDF transparents"
 "url": "/fr/java/word-processing-formats/master-text-document-handling-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Maîtriser la gestion des documents texte en Java avec GroupDocs.Conversion
 
 ## Introduction

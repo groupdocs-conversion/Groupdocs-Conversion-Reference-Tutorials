@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将 VSD 转换为 JPG — 分步指南"
 "url": "/zh/net/image-conversion/convert-vsd-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将 VSD 文件转换为 JPG
 
 **轻松将 Visio 绘图转换为图像**

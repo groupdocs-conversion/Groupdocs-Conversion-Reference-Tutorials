@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie WEBP in XLSX mit GroupDocs.Conversion .NET für die Tabellenkalkulationskonvertierung"
 "url": "/de/net/spreadsheet-conversion/convert-webp-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie WEBP in XLSX mit GroupDocs.Conversion .NET
 
 ## Einführung

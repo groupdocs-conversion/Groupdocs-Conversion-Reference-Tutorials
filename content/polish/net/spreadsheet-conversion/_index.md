@@ -3,8 +3,8 @@
 "title": "Samouczki dotyczące konwersji arkuszy kalkulacyjnych dla GroupDocs.Conversion .NET"
 "url": "/pl/net/spreadsheet-conversion/"
 "weight": 30
+type: docs
 ---
-
 # Samouczki dotyczące konwersji arkuszy kalkulacyjnych dla GroupDocs.Conversion .NET
 
 Dowiedz się, jak przekształcać dokumenty w edytowalne formaty arkuszy kalkulacyjnych dzięki naszym samouczkom GroupDocs.Conversion .NET. Te szczegółowe przewodniki pokazują, jak konwertować z formatów PDF, Word, HTML, obrazów i innych do formatów XLS, XLSX, CSV, ODS i innych. Odkryj techniki zachowywania obliczeń i formuł, utrzymywania formatowania komórek, obsługi dokumentów wieloarkuszowych, zarządzania nagłówkami i stopkami oraz kontrolowania konwersji typów danych. Każdy samouczek zawiera działające przykłady kodu C#, które pokazują, jak tworzyć dokumenty arkuszy kalkulacyjnych, które dokładnie reprezentują zawartość źródłową, umożliwiając jednocześnie analizę i manipulację danymi.

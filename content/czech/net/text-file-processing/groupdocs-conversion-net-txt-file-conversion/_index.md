@@ -4,8 +4,8 @@
 "title": "Převod souborů TXT pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/text-file-processing/groupdocs-conversion-net-txt-file-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů TXT pomocí GroupDocs.Conversion pro .NET: Komplexní průvodce
 
 ## Zavedení

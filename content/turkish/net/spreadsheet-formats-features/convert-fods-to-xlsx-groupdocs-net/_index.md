@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanılarak FODS'un XLSX'e Nasıl Dönüştürüleceği - Adım Adım Kılavuz"
 "url": "/tr/net/spreadsheet-formats-features/convert-fods-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanılarak FODS'un XLSX'e Nasıl Dönüştürüleceği
 
 ## giriiş

@@ -8,10 +8,8 @@ keywords:
 - convert PPSX to HTML
 - GroupDocs.Conversion for .NET
 - PPSX file conversion
-
+type: docs
 ---
-
-
 # How to Convert PPSX Files to HTML using GroupDocs.Conversion for .NET
 
 ## Introduction

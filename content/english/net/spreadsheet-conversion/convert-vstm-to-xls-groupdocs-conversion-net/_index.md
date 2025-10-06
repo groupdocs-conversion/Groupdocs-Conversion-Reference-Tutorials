@@ -8,10 +8,8 @@ keywords:
 - convert VSTM to XLS
 - GroupDocs.Conversion for .NET
 - document conversion using C#
-
+type: docs
 ---
-
-
 # How to Convert VSTM Files to XLS Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

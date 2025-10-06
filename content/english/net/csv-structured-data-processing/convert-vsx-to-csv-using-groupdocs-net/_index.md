@@ -8,10 +8,8 @@ keywords:
 - convert VSX to CSV
 - GroupDocs.Conversion for .NET
 - data conversion in .NET
-
+type: docs
 ---
-
-
 # How to Convert VSX Files to CSV Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Como converter JPEG para PSD usando o GroupDocs.Conversion para .NET - Um guia passo a passo"
 "url": "/pt/net/image-conversion/jpeg-to-psd-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter JPEG para PSD com GroupDocs.Conversion para .NET
 
 ## Introdução

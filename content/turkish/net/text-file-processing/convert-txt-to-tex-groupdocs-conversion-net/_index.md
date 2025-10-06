@@ -4,8 +4,8 @@
 "title": "TXT'yi GroupDocs.Conversion for .NET Kullanarak TEX Dosyalarına Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/text-file-processing/convert-txt-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanarak TXT'yi TEX Dosyalarına Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

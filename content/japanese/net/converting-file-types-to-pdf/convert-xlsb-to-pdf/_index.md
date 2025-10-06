@@ -5,8 +5,8 @@
 "title": "XLSBをPDFに変換する"
 "url": "/ja/net/converting-file-types-to-pdf/convert-xlsb-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # XLSBをPDFに変換する
 
 ## 導入

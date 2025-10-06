@@ -4,8 +4,8 @@
 "title": "Konvertera CMX till TEX med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/text-markup-conversion/convert-cmx-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera CMX till TEX med GroupDocs.Conversion för .NET: En omfattande guide
 
 ## Introduktion

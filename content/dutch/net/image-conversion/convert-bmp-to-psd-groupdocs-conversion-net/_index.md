@@ -4,8 +4,8 @@
 "title": "BMP-afbeeldingen converteren naar PSD-formaat met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/image-conversion/convert-bmp-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Het omzetten van afbeeldingen onder de knie krijgen: BMP-afbeeldingen naar PSD converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

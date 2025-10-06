@@ -4,8 +4,8 @@
 "title": "Hướng dẫn toàn diện&#58; Chuyển đổi EPUB sang PPT bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/presentation-conversion/groupdocs-epub-to-ppt-conversion-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Hướng dẫn toàn diện: Chuyển đổi EPUB sang PPT bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

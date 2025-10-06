@@ -4,8 +4,8 @@
 "title": "Hatékony JPEG 2000-ből TXT-be konvertálás a GroupDocs.Conversion .NET használatával"
 "url": "/hu/net/text-markup-conversion/jpeg-2000-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Fájlkonvertálás elsajátítása: JPEG 2000 (.j2c) fájlok konvertálása szövegfájlokká a GroupDocs.Conversion .NET segítségével
 
 ## Bevezetés

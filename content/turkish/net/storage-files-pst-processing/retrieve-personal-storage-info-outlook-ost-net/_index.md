@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak Outlook OST Dosyalarından Kişisel Depolama Bilgileri Nasıl Alınır"
 "url": "/tr/net/storage-files-pst-processing/retrieve-personal-storage-info-outlook-ost-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak Outlook OST Dosyalarından Kişisel Depolama Bilgileri Nasıl Alınır
 
 ## giriiş

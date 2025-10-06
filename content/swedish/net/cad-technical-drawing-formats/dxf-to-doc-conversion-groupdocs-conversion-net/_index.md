@@ -4,8 +4,8 @@
 "title": "Konvertering av DXF till DOC med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/cad-technical-drawing-formats/dxf-to-doc-conversion-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Omfattande handledning: Konvertering från DXF till DOC med GroupDocs.Conversion för .NET
 
 ## Introduktion

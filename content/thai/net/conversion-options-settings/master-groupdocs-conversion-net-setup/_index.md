@@ -4,8 +4,8 @@
 "title": "การตั้งค่าการแปลงเอกสารหลักใน .NET โดยใช้ GroupDocs.Conversion"
 "url": "/th/net/conversion-options-settings/master-groupdocs-conversion-net-setup/"
 "weight": 1
+type: docs
 ---
-
 # การตั้งค่าไดเรกทอรีหลักสำหรับการแปลงเอกสารโดยใช้ GroupDocs.Conversion .NET
 
 ## การแนะนำ

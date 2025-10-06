@@ -4,8 +4,8 @@
 "title": "ODS fájlok hatékony konvertálása PSD fájlokká a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/image-conversion/convert-ods-psd-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # ODS konvertálása PSD-vé a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

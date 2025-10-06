@@ -5,8 +5,8 @@
 "title": "แปลง MHT เป็น PDF"
 "url": "/th/net/document-conversion/convert-mht-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # แปลง MHT เป็น PDF
 
 ## การแนะนำ

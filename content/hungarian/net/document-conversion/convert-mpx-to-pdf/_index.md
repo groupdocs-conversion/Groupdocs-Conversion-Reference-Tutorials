@@ -5,8 +5,8 @@
 "title": "MPX konvertálása PDF-be"
 "url": "/hu/net/document-conversion/convert-mpx-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # MPX konvertálása PDF-be
 
 ## Bevezetés

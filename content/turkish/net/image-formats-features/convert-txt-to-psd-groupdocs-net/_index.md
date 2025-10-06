@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak TXT'yi PSD'ye Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/image-formats-features/convert-txt-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanarak TXT'yi PSD'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

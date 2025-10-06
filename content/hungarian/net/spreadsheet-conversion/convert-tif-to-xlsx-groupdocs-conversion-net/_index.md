@@ -4,8 +4,8 @@
 "title": "TIFF fájlok XLSX fájlokká konvertálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/spreadsheet-conversion/convert-tif-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # TIFF fájlok XLSX fájlokká konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

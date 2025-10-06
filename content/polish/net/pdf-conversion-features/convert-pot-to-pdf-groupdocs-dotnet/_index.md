@@ -4,8 +4,8 @@
 "title": "Konwertuj szablon programu PowerPoint (.pot) do formatu PDF przy użyciu GroupDocs.Conversion dla platformy .NET"
 "url": "/pl/net/pdf-conversion-features/convert-pot-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak przekonwertować plik szablonu programu PowerPoint (.pot) do formatu PDF za pomocą GroupDocs.Conversion dla platformy .NET
 
 ## Wstęp

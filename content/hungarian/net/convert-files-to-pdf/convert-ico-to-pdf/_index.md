@@ -5,8 +5,8 @@
 "title": "ICO ikonok konvertálása PDF-be"
 "url": "/hu/net/convert-files-to-pdf/convert-ico-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # ICO ikonok konvertálása PDF-be
 
 ## Bevezetés

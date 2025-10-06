@@ -4,8 +4,8 @@
 "title": "Implémenter la journalisation dans GroupDocs.Conversion pour .NET &#58; un guide étape par étape"
 "url": "/fr/net/conversion-events-logging/implement-logging-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment implémenter la journalisation des événements GroupDocs.Conversion dans .NET : guide complet
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Konwersja VCF do SVG przy użyciu GroupDocs.Conversion dla .NET — przewodnik krok po kroku"
 "url": "/pl/net/image-conversion/convert-vcf-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj pliki VCF do SVG za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

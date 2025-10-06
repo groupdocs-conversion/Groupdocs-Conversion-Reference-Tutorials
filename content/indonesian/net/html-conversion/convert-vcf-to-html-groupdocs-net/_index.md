@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi File VCF ke HTML Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/html-conversion/convert-vcf-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi File VCF ke HTML Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

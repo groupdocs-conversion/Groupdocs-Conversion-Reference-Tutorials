@@ -4,8 +4,8 @@
 "title": "Convertire MOBI in JPG utilizzando GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/image-conversion/convert-mobi-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire i file MOBI in JPG utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

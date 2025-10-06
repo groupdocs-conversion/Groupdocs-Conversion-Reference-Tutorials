@@ -3,8 +3,8 @@
 "title": "HTML-conversiehandleidingen voor GroupDocs.Conversion .NET"
 "url": "/nl/net/html-conversion/"
 "weight": 26
+type: docs
 ---
-
 # HTML-conversiehandleidingen voor GroupDocs.Conversion .NET
 
 Onze tutorials over HTML-conversie laten zien hoe u documenten kunt omzetten naar een webklaar HTML-formaat. Deze gedetailleerde handleidingen behandelen het converteren van diverse bronformaten, waaronder Word, PDF, Excel, PowerPoint, afbeeldingen, CAD-tekeningen, e-mailberichten en meer, naar HTML. Leer meer over HTML-specifieke conversieopties, het beheren van ingesloten bronnen, het behouden van de documentstijl, het werken met responsieve lay-outs en het beheren van de HTML-uitvoerstructuur. Elke tutorial bevat complete C#-codevoorbeelden voor het maken van hoogwaardige HTML-representaties van uw documenten, waarbij de weergave en inhoudsgetrouwheid van het origineel behouden blijven.

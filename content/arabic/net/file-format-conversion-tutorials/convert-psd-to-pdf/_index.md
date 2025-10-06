@@ -5,8 +5,8 @@
 "title": "تحويل PSD إلى PDF"
 "url": "/ar/net/file-format-conversion-tutorials/convert-psd-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # تحويل PSD إلى PDF
 
 ## مقدمة

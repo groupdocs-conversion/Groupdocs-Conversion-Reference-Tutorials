@@ -4,8 +4,8 @@
 "title": "Реализация ведения журнала в GroupDocs.Conversion для .NET&#58; Пошаговое руководство"
 "url": "/ru/net/conversion-events-logging/implement-logging-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Как реализовать ведение журнала событий GroupDocs.Conversion в .NET: подробное руководство
 
 ## Введение

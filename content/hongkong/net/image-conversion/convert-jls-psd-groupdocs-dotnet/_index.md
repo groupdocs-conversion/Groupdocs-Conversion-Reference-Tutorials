@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中將 JLS 轉換為 PSD — 逐步指南"
 "url": "/zh-hant/net/image-conversion/convert-jls-psd-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 .NET 中將 JLS 轉換為 PSD：逐步指南
 
 ## 介紹

@@ -4,8 +4,8 @@
 "title": "DWF konvertálása Excelbe .NET-ben a GroupDocs.Conversion segítségével – lépésről lépésre útmutató"
 "url": "/hu/net/cad-technical-drawing-formats/convert-dwf-to-excel-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # DWF konvertálása Excelbe .NET-ben a GroupDocs.Conversion használatával: Lépésről lépésre útmutató
 
 ## Bevezetés

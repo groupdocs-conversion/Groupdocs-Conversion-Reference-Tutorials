@@ -5,8 +5,8 @@
 "title": "PPT'yi PDF'ye dönüştür"
 "url": "/tr/net/pdf-conversion/convert-ppt-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # PPT'yi PDF'ye dönüştür
 
 ## giriiş

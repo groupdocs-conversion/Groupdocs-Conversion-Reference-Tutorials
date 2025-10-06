@@ -4,8 +4,8 @@
 "title": "تحويل SVG إلى Excel باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/spreadsheet-formats-features/convert-svg-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل SVG إلى Excel باستخدام GroupDocs.Conversion لـ .NET
 ## مقدمة
 في عصرنا الرقمي، يُعدّ تحويل صيغ البيانات بكفاءة أمرًا بالغ الأهمية. قد يكون تحويل ملفات الرسومات المتجهة القابلة للتطوير (SVG) إلى جداول بيانات Excel (XLS) أمرًا صعبًا بدون الأدوات المناسبة. يُبسّط GroupDocs.Conversion لـ .NET هذه العملية، ويجعلها سلسة وفعالة.

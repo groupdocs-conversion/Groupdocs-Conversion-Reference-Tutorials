@@ -4,8 +4,8 @@
 "title": "DOC konvertálása TEX-be a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/word-processing-conversion/convert-doc-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertáljunk DOC-ot TEX-be a GroupDocs.Conversion for .NET használatával?
 
 ## Bevezetés

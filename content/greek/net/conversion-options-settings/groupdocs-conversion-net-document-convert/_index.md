@@ -4,8 +4,8 @@
 "title": "Μετατροπή κύριου εγγράφου σε .NET χρησιμοποιώντας το GroupDocs.Conversion&#58; Ένας πλήρης οδηγός"
 "url": "/el/net/conversion-options-settings/groupdocs-conversion-net-document-convert/"
 "weight": 1
+type: docs
 ---
-
 # Mastering Μετατροπή Εγγράφων σε .NET με το GroupDocs.Conversion
 
 ## Εισαγωγή

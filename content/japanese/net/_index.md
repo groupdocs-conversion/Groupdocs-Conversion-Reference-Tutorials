@@ -5,8 +5,8 @@
 "title": "GroupDocs.Conversion for .NET の包括的なチュートリアル"
 "url": "/ja/net/"
 "weight": 10
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET の包括的なチュートリアル
 
 

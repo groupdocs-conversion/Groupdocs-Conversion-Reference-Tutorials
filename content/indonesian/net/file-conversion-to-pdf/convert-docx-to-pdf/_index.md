@@ -5,8 +5,8 @@
 "title": "Konversi Dokumen Word DOCX ke PDF"
 "url": "/id/net/file-conversion-to-pdf/convert-docx-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Konversi Dokumen Word DOCX ke PDF
 
 ## Perkenalan

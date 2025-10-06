@@ -4,8 +4,8 @@
 "title": "MHTML konvertálása PPTX-re a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/presentation-formats-features/convert-mhtml-to-pptx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # MHTML konvertálása PPTX-re a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

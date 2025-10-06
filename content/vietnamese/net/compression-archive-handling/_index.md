@@ -3,8 +3,8 @@
 "title": "Hướng dẫn xử lý nén và lưu trữ cho GroupDocs.Conversion .NET"
 "url": "/vi/net/compression-archive-handling/"
 "weight": 20
+type: docs
 ---
-
 # Hướng dẫn xử lý nén và lưu trữ cho GroupDocs.Conversion .NET
 
 Khám phá cách xử lý các định dạng lưu trữ với hướng dẫn GroupDocs.Conversion dành cho các nhà phát triển .NET. Các hướng dẫn chi tiết này hướng dẫn bạn cách chuyển đổi từ các định dạng nén như RAR sang các loại tài liệu khác, trích xuất nội dung từ các kho lưu trữ, nén kết quả chuyển đổi, chỉ định các tệp để trích xuất từ kho lưu trữ, xử lý các kho lưu trữ được bảo vệ bằng mật khẩu, quản lý các kho lưu trữ nhiều tập và triển khai trích xuất tệp có chọn lọc. Mỗi hướng dẫn cung cấp các ví dụ mã C# thực tế để làm việc với các tệp nén, giúp bạn xây dựng các ứng dụng có thể truy cập và chuyển đổi hiệu quả nội dung được lưu trữ ở nhiều định dạng kho lưu trữ khác nhau.

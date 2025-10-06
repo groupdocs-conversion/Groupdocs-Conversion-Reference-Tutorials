@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak VST'yi XLS'ye Nasıl Dönüştürebilirsiniz? Adım Adım Kılavuz"
 "url": "/tr/net/spreadsheet-formats-features/convert-vst-to-xls-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanılarak VST'nin XLS'ye Nasıl Dönüştürüleceği: Adım Adım Kılavuz
 
 ## giriiş

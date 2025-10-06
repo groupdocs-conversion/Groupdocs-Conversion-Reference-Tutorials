@@ -4,8 +4,8 @@
 "title": "Jak načíst soubory EMF pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/image-formats-features/load-emf-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak načíst soubory EMF pomocí GroupDocs.Conversion pro .NET: Komplexní průvodce
 
 ## Zavedení

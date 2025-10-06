@@ -4,8 +4,8 @@
 "title": "Konvertera EPUB till XLS med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/spreadsheet-conversion/convert-epub-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera EPUB till XLS med GroupDocs.Conversion för .NET: En steg-för-steg-guide
 
 ## Introduktion

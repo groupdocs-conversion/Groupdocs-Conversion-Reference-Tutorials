@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 Word 轉換為 PDF 並進行字體替換"
 "url": "/zh-hant/net/font-handling-substitution/convert-word-to-pdf-font-substitution-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 Word 文件轉換為帶有字體替換的 PDF
 ## 介紹
 將 Word 文件轉換為 PDF 時，字體經常不一致，從而導致格式問題。本指南將簡化使用 GroupDocs.Conversion for .NET 確保字體一致性的流程。了解如何設定字體替換的載入選項，以及如何在保持視覺保真度的同時，將 Word 文件無縫轉換為 PDF 格式。

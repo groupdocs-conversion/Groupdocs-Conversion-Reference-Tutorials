@@ -4,8 +4,8 @@
 "title": "Converteer XLSB naar JPG met GroupDocs.Conversion voor .NET | Stapsgewijze handleiding"
 "url": "/nl/net/image-conversion/convert-xlsb-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer XLSB naar JPG met GroupDocs.Conversion voor .NET: een stapsgewijze handleiding
 
 Het omzetten van Excel-bestanden in binaire indeling (XLSB) naar visuele formaten zoals JPG is essentieel voor een betere toegankelijkheid en begrijpelijkheid. Of u nu een ontwikkelaar of een professional bent, deze handleiding begeleidt u bij het converteren van een XLSB-bestand naar een reeks JPG-afbeeldingen met behulp van GroupDocs.Conversion voor .NET.

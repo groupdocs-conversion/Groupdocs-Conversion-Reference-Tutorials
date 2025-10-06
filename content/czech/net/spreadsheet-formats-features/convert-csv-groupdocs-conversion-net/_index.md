@@ -4,8 +4,8 @@
 "title": "Snadná konverze CSV pomocí GroupDocs.Conversion pro .NET – kompletní průvodce"
 "url": "/cs/net/spreadsheet-formats-features/convert-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Snadná konverze CSV pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

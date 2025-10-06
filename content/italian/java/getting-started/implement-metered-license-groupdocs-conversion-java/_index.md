@@ -4,8 +4,8 @@
 "title": "Implementazione di una licenza a consumo per GroupDocs.Conversion in Java&#58; una guida completa"
 "url": "/it/java/getting-started/implement-metered-license-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Implementazione di una licenza a consumo per GroupDocs.Conversion in Java
 
 ## Introduzione

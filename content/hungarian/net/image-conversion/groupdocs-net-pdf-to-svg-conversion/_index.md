@@ -4,8 +4,8 @@
 "title": "PDF-ből SVG-be konvertálás mesterfokon a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/image-conversion/groupdocs-net-pdf-to-svg-conversion/"
 "weight": 1
+type: docs
 ---
-
 # PDF-ből SVG-be konvertálás mesterfokon a GroupDocs.Conversion for .NET segítségével
 
 ## Képkonverziós oktatóanyag

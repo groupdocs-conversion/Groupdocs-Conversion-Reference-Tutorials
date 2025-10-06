@@ -4,8 +4,8 @@
 "title": "提升 .NET 应用程序性能 &#58; 使用 GroupDocs.Conversion 实现自定义 Redis 缓存"
 "url": "/zh/net/cache-management/boost-net-app-performance-custom-redis-cache-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 通过自定义 Redis 缓存提升 .NET 应用程序性能
 
 ## 介绍

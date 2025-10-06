@@ -5,8 +5,8 @@
 "title": "EMZ 향상된 메타파일을 PDF로 변환"
 "url": "/ko/net/convert-files-to-pdf/convert-emz-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # EMZ 향상된 메타파일을 PDF로 변환
 
 ## 소개

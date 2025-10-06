@@ -8,10 +8,8 @@ keywords:
 - convert XML to JPG .NET
 - GroupDocs.Conversion for .NET
 - XML to JPG conversion C#
-
+type: docs
 ---
-
-
 # Convert XML to JPG in .NET Using GroupDocs.Conversion: A Step-by-Step Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "แปลง MOBI เป็น PSD โดยใช้ GroupDocs.Conversion สำหรับ .NET | คู่มือการแปลงรูปภาพ"
 "url": "/th/net/image-conversion/convert-mobi-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # คู่มือครอบคลุม: แปลง MOBI เป็น PSD โดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 將 LaTeX 轉換為 DOCX 綜合指南"
 "url": "/zh-hant/net/word-processing-formats-features/convert-latex-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 將 LaTeX 轉換為 DOCX：綜合指南
 
 ## 介紹

@@ -4,8 +4,8 @@
 "title": ".NET 개발자를 위한 GroupDocs를 사용한 간편한 WMF-PDF 변환"
 "url": "/ko/net/pdf-conversion/wmf-to-pdf-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET 개발자를 위한 GroupDocs를 사용한 간편한 WMF-PDF 변환
 
 ## 소개

@@ -4,8 +4,8 @@
 "title": "Convierta eficazmente documentos de Word protegidos con contraseña a PPT usando Java y GroupDocs.Conversion"
 "url": "/es/java/presentation-formats/convert-password-protected-word-to-ppt-java/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir eficazmente documentos de Word protegidos con contraseña a PPT usando Java y GroupDocs.Conversion
 
 ## Introducción

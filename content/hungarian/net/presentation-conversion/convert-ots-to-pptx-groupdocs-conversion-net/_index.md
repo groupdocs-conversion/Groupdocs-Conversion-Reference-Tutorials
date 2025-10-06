@@ -4,8 +4,8 @@
 "title": "OTS fájlok egyszerű PPTX formátumba konvertálása a GroupDocs.Conversion .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/presentation-conversion/convert-ots-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OTS fájlok egyszerű PPTX formátumba konvertálása a GroupDocs.Conversion .NET segítségével: Átfogó útmutató
 
 ## Bevezetés

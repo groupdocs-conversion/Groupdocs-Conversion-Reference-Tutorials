@@ -4,8 +4,8 @@
 "title": "Jak převést soubory VSTM do XLS pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/spreadsheet-conversion/convert-vstm-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory VSTM do XLS pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

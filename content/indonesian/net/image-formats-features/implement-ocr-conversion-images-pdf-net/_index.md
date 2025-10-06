@@ -4,8 +4,8 @@
 "title": "Terapkan OCR & Ubah Gambar ke PDF menggunakan Aspose dan GroupDocs untuk .NET"
 "url": "/id/net/image-formats-features/implement-ocr-conversion-images-pdf-net/"
 "weight": 1
+type: docs
 ---
-
 # Terapkan OCR & Ubah Gambar ke PDF Menggunakan Aspose dan GroupDocs untuk .NET
 
 ## Perkenalan

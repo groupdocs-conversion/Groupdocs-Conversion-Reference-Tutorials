@@ -8,10 +8,8 @@ keywords:
 - convert MOBI to TEX
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Convert MOBI to TEX Files Using GroupDocs.Conversion for .NET: A Complete Guide
 
 ## Introduction

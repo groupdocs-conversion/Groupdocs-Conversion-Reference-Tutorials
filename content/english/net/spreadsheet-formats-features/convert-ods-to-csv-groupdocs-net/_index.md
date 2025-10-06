@@ -8,10 +8,8 @@ keywords:
 - ODS to CSV conversion
 - GroupDocs.Conversion for .NET
 - .NET file conversion
-
+type: docs
 ---
-
-
 # Convert ODS to CSV Seamlessly with GroupDocs.Conversion for .NET
 
 ## Introduction

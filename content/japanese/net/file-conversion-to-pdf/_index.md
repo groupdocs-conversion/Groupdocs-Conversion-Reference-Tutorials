@@ -5,8 +5,8 @@
 "title": "PDFへのファイル変換"
 "url": "/ja/net/file-conversion-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # PDFへのファイル変換
 
 ## 導入：

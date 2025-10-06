@@ -4,8 +4,8 @@
 "title": "MOBI konvertálása JPG-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-mobi-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MOBI fájlok konvertálása JPG formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

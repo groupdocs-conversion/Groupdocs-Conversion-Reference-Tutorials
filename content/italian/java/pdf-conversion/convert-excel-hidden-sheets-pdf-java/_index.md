@@ -4,8 +4,8 @@
 "title": "Come convertire file Excel con fogli nascosti in PDF utilizzando Java e GroupDocs.Conversion"
 "url": "/it/java/pdf-conversion/convert-excel-hidden-sheets-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire file Excel con fogli nascosti in PDF utilizzando Java e GroupDocs.Conversion
 
 ## Introduzione

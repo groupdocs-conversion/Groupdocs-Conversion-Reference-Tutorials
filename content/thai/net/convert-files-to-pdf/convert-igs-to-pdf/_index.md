@@ -5,8 +5,8 @@
 "title": "แปลงไฟล์โมเดล 3 มิติ IGS เป็น PDF"
 "url": "/th/net/convert-files-to-pdf/convert-igs-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # แปลงไฟล์โมเดล 3 มิติ IGS เป็น PDF
 
 ## การแนะนำ

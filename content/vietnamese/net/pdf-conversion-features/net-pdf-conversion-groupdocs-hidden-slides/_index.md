@@ -4,8 +4,8 @@
 "title": "Làm chủ chuyển đổi PDF .NET với Slide ẩn bằng GroupDocs.Conversion"
 "url": "/vi/net/pdf-conversion-features/net-pdf-conversion-groupdocs-hidden-slides/"
 "weight": 1
+type: docs
 ---
-
 # Làm chủ chuyển đổi PDF .NET với Slide ẩn bằng GroupDocs.Conversion
 
 ## Giới thiệu

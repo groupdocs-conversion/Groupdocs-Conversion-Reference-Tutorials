@@ -5,8 +5,8 @@
 "title": "แปลง ONE เป็น PDF"
 "url": "/th/net/pdf-conversion/convert-one-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # แปลง ONE เป็น PDF
 
 ## การแนะนำ

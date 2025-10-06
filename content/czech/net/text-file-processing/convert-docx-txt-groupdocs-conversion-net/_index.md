@@ -4,8 +4,8 @@
 "title": "Převod DOCX do TXT v .NET pomocí GroupDocs.Conversion – kompletní průvodce"
 "url": "/cs/net/text-file-processing/convert-docx-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod DOCX do TXT v .NET pomocí GroupDocs.Conversion: Komplexní tutoriál
 
 ## Zavedení

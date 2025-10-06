@@ -4,8 +4,8 @@
 "title": "كيفية إعداد مسار دليل الإخراج باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/document-output-saving/groupdocs-conversion-setup-output-directory-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية إعداد مسار دليل الإخراج باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

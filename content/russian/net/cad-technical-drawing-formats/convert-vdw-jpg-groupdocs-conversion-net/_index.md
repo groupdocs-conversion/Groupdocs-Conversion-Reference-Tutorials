@@ -4,8 +4,8 @@
 "title": "Конвертируйте VDW в JPG с помощью GroupDocs.Conversion для .NET&#58; Пошаговое руководство"
 "url": "/ru/net/cad-technical-drawing-formats/convert-vdw-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте VDW в JPG с помощью GroupDocs.Conversion для .NET
 
 ## Введение

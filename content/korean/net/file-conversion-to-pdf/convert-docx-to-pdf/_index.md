@@ -5,8 +5,8 @@
 "title": "DOCX Word 문서를 PDF로 변환"
 "url": "/ko/net/file-conversion-to-pdf/convert-docx-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # DOCX Word 문서를 PDF로 변환
 
 ## 소개

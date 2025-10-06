@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak Verimli PNG'den PPT'ye Dönüştürme"
 "url": "/tr/net/presentation-conversion/convert-png-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak Verimli PNG'den PPT'ye Dönüştürme
 
 ## giriiş

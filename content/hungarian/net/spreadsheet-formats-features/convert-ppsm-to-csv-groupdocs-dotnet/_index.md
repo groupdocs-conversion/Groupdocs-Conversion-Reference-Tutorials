@@ -4,8 +4,8 @@
 "title": "PowerPoint diavetítés (.PPSM) CSV formátumba konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/spreadsheet-formats-features/convert-ppsm-to-csv-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # PowerPoint diavetítés (.PPSM) CSV formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

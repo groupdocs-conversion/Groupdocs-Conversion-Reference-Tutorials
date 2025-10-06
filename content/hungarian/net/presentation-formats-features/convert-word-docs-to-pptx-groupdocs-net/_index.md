@@ -4,8 +4,8 @@
 "title": "Word dokumentumok konvertálása PowerPoint PPTX formátumba a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/presentation-formats-features/convert-word-docs-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Word dokumentumok konvertálása PowerPoint PPTX formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

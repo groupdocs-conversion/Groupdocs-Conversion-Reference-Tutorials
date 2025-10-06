@@ -5,8 +5,8 @@
 "title": "WMF naar PDF converteren"
 "url": "/nl/net/converting-file-types-to-pdf/convert-wmf-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # WMF naar PDF converteren
 
 ## Invoering

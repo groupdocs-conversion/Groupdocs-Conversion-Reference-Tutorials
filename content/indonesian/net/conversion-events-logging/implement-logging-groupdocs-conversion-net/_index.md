@@ -4,8 +4,8 @@
 "title": "Menerapkan Logging di GroupDocs.Conversion untuk .NET&#58; Panduan Langkah demi Langkah"
 "url": "/id/net/conversion-events-logging/implement-logging-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Menerapkan Pencatatan Peristiwa GroupDocs.Conversion di .NET: Panduan Lengkap
 
 ## Perkenalan

@@ -5,8 +5,8 @@
 "title": "تحويل ملفات قوالب DWT CAD إلى PDF"
 "url": "/ar/net/convert-files-to-pdf/convert-dwt-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # تحويل ملفات قوالب DWT CAD إلى PDF
 
 ## مقدمة

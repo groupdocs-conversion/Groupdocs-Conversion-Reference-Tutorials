@@ -8,10 +8,8 @@ keywords:
 - Excel to LaTeX conversion
 - GroupDocs.Conversion for .NET
 - XLAM to TEX automation
-
+type: docs
 ---
-
-
 # Automate Excel Macros to LaTeX with GroupDocs
 
 ## Introduction

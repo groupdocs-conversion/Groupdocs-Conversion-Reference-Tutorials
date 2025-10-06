@@ -4,8 +4,8 @@
 "title": "Conversione efficiente da OXPS a DOCX con GroupDocs.Conversion per .NET&#58; una guida passo passo"
 "url": "/it/net/word-processing-formats-features/convert-oxps-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire in modo efficiente OXPS in DOCX utilizzando GroupDocs.Conversion per .NET: una guida passo passo
 
 ## Introduzione

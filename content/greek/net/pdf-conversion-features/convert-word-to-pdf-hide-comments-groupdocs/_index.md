@@ -4,8 +4,8 @@
 "title": "Μετατροπή Word σε PDF και απόκρυψη σχολίων χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/pdf-conversion-features/convert-word-to-pdf-hide-comments-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή εγγράφων Word σε PDF και απόκρυψη σχολίων με το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

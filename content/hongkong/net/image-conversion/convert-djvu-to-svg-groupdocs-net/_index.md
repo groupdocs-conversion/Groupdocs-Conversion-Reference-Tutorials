@@ -4,8 +4,8 @@
 "title": "使用 .NET 中的 GroupDocs.Conversion 將 DJVU 轉換為 SVG —— 綜合指南"
 "url": "/zh-hant/net/image-conversion/convert-djvu-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 .NET 中的 GroupDocs.Conversion 將 DJVU 轉換為 SVG：綜合指南
 
 ## 介紹

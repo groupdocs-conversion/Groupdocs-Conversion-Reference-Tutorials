@@ -4,8 +4,8 @@
 "title": "Convertire OTT in PSD utilizzando GroupDocs.Conversion in .NET&#58; una guida completa"
 "url": "/it/net/image-conversion/convert-ott-to-psd-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertire OTT in PSD utilizzando GroupDocs.Conversion in .NET: una guida completa
 
 ## Introduzione

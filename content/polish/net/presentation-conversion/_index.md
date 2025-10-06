@@ -3,8 +3,8 @@
 "title": "Samouczki dotyczące konwersji prezentacji dla GroupDocs.Conversion .NET"
 "url": "/pl/net/presentation-conversion/"
 "weight": 31
+type: docs
 ---
-
 # Samouczki dotyczące konwersji prezentacji dla GroupDocs.Conversion .NET
 
 Nasze samouczki konwersji prezentacji pokazują, jak przekształcać dokumenty do formatów opartych na slajdach za pomocą GroupDocs.Conversion w .NET. Te praktyczne przewodniki obejmują konwersję z formatów PDF, Word, Excel, obrazów i innych do formatów PPT, PPTX, ODP i innych. Dowiedz się, jak zachować elementy wizualne, utrzymać animacje, gdy jest to możliwe, obsługiwać przejścia slajdów, generować notatki mówcy, zarządzać osadzonymi mediami i kontrolować układy slajdów podczas konwersji. Każdy samouczek zawiera szczegółowe przykłady kodu C# do tworzenia dokumentów prezentacji, które skutecznie reprezentują treść źródłową w formacie przeznaczonym do prezentacji odbiorcom.

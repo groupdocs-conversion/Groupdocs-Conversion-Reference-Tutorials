@@ -4,8 +4,8 @@
 "title": "J2C konvertálása JPG-vé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-j2c-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # J2C konvertálása JPG-vé a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

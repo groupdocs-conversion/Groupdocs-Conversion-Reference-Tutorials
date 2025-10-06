@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 Markdown을 PowerPoint로 변환하는 마스터 방법"
 "url": "/ko/net/presentation-conversion/markdown-to-powerpoint-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 Markdown을 PowerPoint로 변환하는 마스터 방법
 
 마크다운 노트를 전문적인 파워포인트 프레젠테이션으로 간편하게 변환하고 싶으신가요? 이 종합 가이드에서는 강력한 GroupDocs.Conversion 라이브러리를 사용하여 마크다운(.md) 파일을 파워포인트 Open XML 프레젠테이션(.pptx)으로 손쉽게 변환하는 방법을 알려드립니다. 이 과정을 숙달하면 시간을 절약하고 생산성을 향상시킬 수 있습니다.

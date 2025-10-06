@@ -4,8 +4,8 @@
 "title": "Hatékonyan konvertáljon MBOX-ot XLSX-be a .NET-ben található GroupDocs.Conversion segítségével a továbbfejlesztett e-mail adatelemzéshez"
 "url": "/hu/net/spreadsheet-formats-features/convert-mbox-to-xlsx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # MBOX konvertálása XLSX-re a GroupDocs.Conversion használatával .NET-ben
 ## Bevezetés
 Az MBOX fájlokban tárolt e-mail adatok kezelése kihívást jelenthet, különösen akkor, ha egyszerűsített módra van szüksége ezeknek az e-maileknek az Excel-barát formátumba, például XLSX-be konvertálásához a jobb elemzés és jelentéskészítés érdekében. Ez az oktatóanyag bemutatja, hogyan használhatja a GroupDocs.Conversion for .NET programot az MBOX fájlok hatékony XLSX dokumentumokká alakításához, leegyszerűsítve az e-mail adatok kezelését.

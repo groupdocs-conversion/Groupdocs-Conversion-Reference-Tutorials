@@ -8,10 +8,8 @@ keywords:
 - convert POTM to XLS
 - GroupDocs.Conversion C#
 - document conversion .NET
-
+type: docs
 ---
-
-
 # Convert POTM to XLS with GroupDocs.Conversion for .NET
 
 ## Introduction

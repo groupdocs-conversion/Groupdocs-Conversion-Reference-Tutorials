@@ -4,8 +4,8 @@
 "title": "Konvertera MHTML till PDF med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/pdf-conversion-features/convert-mhtml-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera MHTML till PDF med GroupDocs.Conversion för .NET: En omfattande guide
 
 ## Introduktion

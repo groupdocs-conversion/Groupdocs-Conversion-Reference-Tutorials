@@ -8,10 +8,8 @@ keywords:
 - StarOffice Calc conversion
 - GroupDocs.Conversion .NET
 - SXC to DOC conversion
-
+type: docs
 ---
-
-
 # Convert StarOffice Calc to Word Using GroupDocs.Conversion .NET
 
 ## Introduction

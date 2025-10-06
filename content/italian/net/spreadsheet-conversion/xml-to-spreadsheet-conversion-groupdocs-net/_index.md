@@ -4,8 +4,8 @@
 "title": "Conversione efficiente da XML a foglio di calcolo in .NET utilizzando GroupDocs.Conversion"
 "url": "/it/net/spreadsheet-conversion/xml-to-spreadsheet-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Conversione efficiente da XML a foglio di calcolo in .NET utilizzando GroupDocs.Conversion
 
 ## Introduzione

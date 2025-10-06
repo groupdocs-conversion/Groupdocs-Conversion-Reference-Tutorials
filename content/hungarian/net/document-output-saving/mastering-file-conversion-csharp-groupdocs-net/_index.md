@@ -4,8 +4,8 @@
 "title": "Fájlkonvertálás elsajátítása C#-ban a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/document-output-saving/mastering-file-conversion-csharp-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Fájlkonvertálás elsajátítása C#-ban: A GroupDocs.Conversion megvalósítása .NET-hez
 
 ## Bevezetés

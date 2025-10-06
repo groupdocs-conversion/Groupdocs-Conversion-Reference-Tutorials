@@ -4,8 +4,8 @@
 "title": "Convierta PPS a PPTX con GroupDocs.Conversion para .NET&#58; una guía completa"
 "url": "/es/net/presentation-formats-features/convert-pps-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convierta PPS a PPTX con GroupDocs.Conversion para .NET: una guía completa
 
 ## Introducción

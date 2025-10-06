@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 VCF 轉換為 PPT 綜合指南"
 "url": "/zh-hant/net/presentation-conversion/convert-vcf-ppt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 VCF 檔案轉換為 PowerPoint
 ## 介紹
 在會議期間，演示儲存在 VCF 文件中的聯絡人資訊可能頗具挑戰性。將這些文件轉換為 PowerPoint (PPT) 格式可以增強視覺化效果和資料共用。本指南將指導您使用 GroupDocs.Conversion for .NET 將 VCF 檔案轉換為 PPT，從而實現高效的簡報功能。

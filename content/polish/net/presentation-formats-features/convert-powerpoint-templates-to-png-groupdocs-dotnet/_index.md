@@ -4,8 +4,8 @@
 "title": "Konwertuj szablony programu PowerPoint do formatu PNG za pomocą GroupDocs.Conversion dla platformy .NET&#58; Przewodnik krok po kroku"
 "url": "/pl/net/presentation-formats-features/convert-powerpoint-templates-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj szablony programu PowerPoint do formatu PNG za pomocą narzędzia GroupDocs.Conversion dla platformy .NET: przewodnik krok po kroku
 
 ## Wstęp

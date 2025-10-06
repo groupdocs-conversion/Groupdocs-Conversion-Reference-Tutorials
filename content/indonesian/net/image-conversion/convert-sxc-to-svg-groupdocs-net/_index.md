@@ -4,8 +4,8 @@
 "title": "Konversi SXC ke SVG menggunakan GroupDocs.Conversion untuk .NET di C#"
 "url": "/id/net/image-conversion/convert-sxc-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi SXC ke SVG Menggunakan GroupDocs.Conversion untuk .NET di C#
 
 ## Perkenalan

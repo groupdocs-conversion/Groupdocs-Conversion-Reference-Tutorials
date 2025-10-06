@@ -4,8 +4,8 @@
 "title": "Converteer Word naar PDF en verberg opmerkingen met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/pdf-conversion-features/convert-word-to-pdf-hide-comments-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Converteer Word-documenten naar PDF en verberg opmerkingen met GroupDocs.Conversion voor .NET
 
 ## Invoering

@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion for .NET
 - convert TXT files
 - document conversion process
-
+type: docs
 ---
-
-
 # Convert TXT Files with GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

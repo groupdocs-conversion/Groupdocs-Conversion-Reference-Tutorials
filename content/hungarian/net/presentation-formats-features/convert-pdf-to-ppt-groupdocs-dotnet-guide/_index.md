@@ -4,8 +4,8 @@
 "title": "Útmutató PDF PPT-vé konvertálásához a GroupDocs.Conversion használatával .NET-ben"
 "url": "/hu/net/presentation-formats-features/convert-pdf-to-ppt-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # Útmutató PDF PPT-vé konvertálásához a GroupDocs.Conversion használatával .NET-ben
 
 ## Bevezetés

@@ -5,8 +5,8 @@
 "title": "Converteer HTM-webpagina's naar PDF"
 "url": "/nl/net/convert-files-to-pdf/convert-htm-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # Converteer HTM-webpagina's naar PDF
 
 ## Invoering

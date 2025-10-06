@@ -4,8 +4,8 @@
 "title": "Hur man konverterar DOCM till PPTX med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/presentation-formats-features/convert-docm-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar DOCM till PPTX med GroupDocs.Conversion för .NET: En steg-för-steg-guide
 
 ## Introduktion

@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 MBOX 轉換為 PPTX 的分步指南"
 "url": "/zh-hant/net/presentation-conversion/convert-mbox-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 MBOX 檔案轉換為 PowerPoint 簡報
 
 在當今的數位環境中，高效管理電子郵件資料對許多專業人士和組織至關重要。 MBOX 檔案通常用於歸檔電子郵件，但將這些資料轉換為 PowerPoint 等視覺效果更佳的格式可以顯著提升溝通和簡報效果。本教學將指導您使用 GroupDocs.Conversion for .NET 將 MBOX 檔案轉換為 PPTX 檔案。

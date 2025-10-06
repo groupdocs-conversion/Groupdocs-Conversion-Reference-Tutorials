@@ -4,8 +4,8 @@
 "title": "Opanuj konwersję PPS do HTML za pomocą GroupDocs.Conversion dla .NET&#58; Kompleksowy przewodnik"
 "url": "/pl/net/html-conversion/master-pps-html-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Opanowanie konwersji PPS do HTML za pomocą GroupDocs
 ## Wstęp
 Czy chcesz, aby Twoje prezentacje PowerPoint były bardziej dostępne i interaktywne? Konwersja ich do formatów przyjaznych dla sieci, takich jak HTML, jest niezbędna w dzisiejszym cyfrowym krajobrazie, zwiększając zaangażowanie użytkowników i zapewniając zgodność międzyplatformową.

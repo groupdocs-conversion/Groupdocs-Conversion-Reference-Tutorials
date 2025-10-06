@@ -8,10 +8,8 @@ keywords:
 - convert PPS to PSD
 - GroupDocs.Conversion for .NET
 - .NET image conversion
-
+type: docs
 ---
-
-
 # Convert PPS to PSD with GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

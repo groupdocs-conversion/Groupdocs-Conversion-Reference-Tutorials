@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 的转换缓存管理教程"
 "url": "/zh/net/cache-management/"
 "weight": 23
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 的转换缓存管理教程
 
 我们的缓存管理教程演示了如何在 .NET 中使用 GroupDocs.Conversion 的缓存功能来提升转换性能。这些详细的指南涵盖了如何实现自定义缓存提供程序、如何在处理多个文档时有效地使用缓存、如何配置不同的缓存类型、如何管理缓存生命周期、如何优化存储需求、如何实施清理策略以及如何利用缓存进行重复转换。每个教程都包含高效的缓存实现的 C# 代码示例，帮助您构建能够最大限度地减少转换时间和资源占用，同时保持高质量输出的应用程序。

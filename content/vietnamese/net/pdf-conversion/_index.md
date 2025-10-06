@@ -5,8 +5,8 @@
 "title": "Chuyển đổi PDF"
 "url": "/vi/net/pdf-conversion/"
 "weight": 25
+type: docs
 ---
-
 # Chuyển đổi PDF
 
 ## Giới thiệu

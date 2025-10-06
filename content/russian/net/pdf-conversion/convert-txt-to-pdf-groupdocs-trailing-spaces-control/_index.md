@@ -4,8 +4,8 @@
 "title": "Конвертируйте TXT в PDF с помощью GroupDocs&#58; Управление конечными пробелами с помощью .NET"
 "url": "/ru/net/pdf-conversion/convert-txt-to-pdf-groupdocs-trailing-spaces-control/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте TXT в PDF с помощью GroupDocs: управление конечными пробелами с помощью .NET
 
 ## Введение

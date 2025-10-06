@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak IFC Dosyalarını DOC'a Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/cad-technical-drawing-formats/convert-ifc-files-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanarak IFC Dosyalarını DOC'a Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

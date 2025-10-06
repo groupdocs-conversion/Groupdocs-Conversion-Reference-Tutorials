@@ -8,10 +8,8 @@ keywords:
 - convert WMZ to PNG
 - GroupDocs.Conversion for .NET setup
 - document conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert WMZ to PNG Using GroupDocs.Conversion for .NET: A Complete Guide
 
 ## Introduction

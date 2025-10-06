@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 將 IFC 檔案轉換為 PPTX 綜合指南"
 "url": "/zh-hant/net/presentation-conversion/convert-ifc-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將 IFC 檔案轉換為 PPTX：綜合指南
 
 ## 介紹

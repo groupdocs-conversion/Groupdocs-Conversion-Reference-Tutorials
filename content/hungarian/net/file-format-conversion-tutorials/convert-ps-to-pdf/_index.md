@@ -5,8 +5,8 @@
 "title": "PS konvertálása PDF-be"
 "url": "/hu/net/file-format-conversion-tutorials/convert-ps-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # PS konvertálása PDF-be
 
 ## Bevezetés

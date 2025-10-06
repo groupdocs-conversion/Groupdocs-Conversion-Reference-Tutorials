@@ -8,10 +8,8 @@ keywords:
 - convert XLSX to SVG
 - GroupDocs.Conversion for .NET
 - SVG conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert XLSX to SVG with GroupDocs.Conversion for .NET
 
 ## Introduction

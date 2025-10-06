@@ -4,8 +4,8 @@
 "title": "Как реализовать пользовательское кэширование в Java с использованием Redis и GroupDocs.Conversion"
 "url": "/ru/java/cache-management/custom-cache-redis-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Как реализовать пользовательское кэширование в Java с использованием Redis и GroupDocs.Conversion
 
 ## Введение

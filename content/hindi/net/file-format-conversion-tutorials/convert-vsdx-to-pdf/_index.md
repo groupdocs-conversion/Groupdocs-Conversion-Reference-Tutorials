@@ -5,8 +5,8 @@
 "title": "VSDX को PDF में बदलें"
 "url": "/hi/net/file-format-conversion-tutorials/convert-vsdx-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # VSDX को PDF में बदलें
 
 ## परिचय

@@ -8,10 +8,8 @@ keywords:
 - convert DWG to TEX
 - GroupDocs.Conversion for .NET
 - DWG to LaTeX conversion
-
+type: docs
 ---
-
-
 # How to Convert DWG to TEX Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

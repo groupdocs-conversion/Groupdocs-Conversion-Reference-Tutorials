@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 的 CAD 和技术绘图格式教程"
 "url": "/zh/net/cad-technical-drawing-formats/"
 "weight": 18
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 的 CAD 和技术绘图格式教程
 
 通过我们面向 .NET 开发人员的全面 GroupDocs.Conversion 教程学习如何处理技术图纸。这些实用指南演示了如何将 AutoCAD 和其他 CAD 文件转换为可查看的格式、指定转换布局、设置输出的自定义宽度和高度尺寸、保留图层和测量值、高效处理大型图纸、管理视口和缩放比例，以及将 3D 模型转换为 2D 表示。每个教程都包含针对 CAD 转换场景的详细 C# 代码示例，帮助您构建能够准确处理技术图纸并保留重要工程细节的应用程序。

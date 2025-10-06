@@ -4,8 +4,8 @@
 "title": "如何使用 InputStream 在 Java 中設定 GroupDocs.Conversion 許可證"
 "url": "/zh-hant/java/getting-started/groupdocs-conversion-license-java-input-stream/"
 "weight": 1
+type: docs
 ---
-
 # 如何透過 Java 中的 InputStream 實現 GroupDocs.Conversion 許可證設置
 ## 介紹
 您是否希望使用 GroupDocs.Conversion 的強大功能來增強您的 Java 應用程式？正確設定許可證是至關重要的一步，而使用輸入流可以簡化此過程。本指南將指導您如何使用 Java 中的輸入流設定 GroupDocs 許可證，確保您的轉換過程順利進行，不會有任何許可問題。

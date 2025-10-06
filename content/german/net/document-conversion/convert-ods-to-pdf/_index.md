@@ -5,8 +5,8 @@
 "title": "Konvertieren Sie ODS in PDF"
 "url": "/de/net/document-conversion/convert-ods-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # Konvertieren Sie ODS in PDF
 
 ## Einführung

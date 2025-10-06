@@ -4,8 +4,8 @@
 "title": "Dynamické výstupní cesty v .NET s GroupDocs.Conversion – Komplexní průvodce"
 "url": "/cs/net/document-output-saving/dynamic-output-paths-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Dynamické výstupní cesty v .NET s GroupDocs.Conversion: Komplexní průvodce
 
 ## Zavedení

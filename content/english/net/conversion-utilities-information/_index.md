@@ -3,8 +3,8 @@ title: "Conversion Utility Features and Information Tutorials for GroupDocs.Conv
 description: "Learn to use helpful utility features for document inspection and conversion capability analysis with GroupDocs.Conversion for .NET."
 weight: 25
 url: "/net/conversion-utilities-information/"
+type: docs
 ---
-
 # Conversion Utility Features and Information Tutorials for GroupDocs.Conversion .NET
 
 Explore useful utility features with our comprehensive GroupDocs.Conversion tutorials for .NET developers. These step-by-step guides demonstrate how to retrieve source document information, determine all possible conversions supported by the library, discover format-specific conversion capabilities, get conversion options for desired target formats, retrieve default load options for source documents, inspect document properties, and evaluate conversion feasibility. Each tutorial includes practical C# code examples for efficiently using these utility features, helping you build more intelligent applications that can make informed decisions about document processing options and capabilities.

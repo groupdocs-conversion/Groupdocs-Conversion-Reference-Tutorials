@@ -4,8 +4,8 @@
 "title": "การนำใบอนุญาตแบบมิเตอร์ไปใช้กับ GroupDocs การแปลงเป็น Java - คู่มือฉบับสมบูรณ์"
 "url": "/th/java/getting-started/implement-metered-license-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # การนำใบอนุญาตแบบมิเตอร์ไปใช้กับ GroupDocs.Conversion ใน Java
 
 ## การแนะนำ

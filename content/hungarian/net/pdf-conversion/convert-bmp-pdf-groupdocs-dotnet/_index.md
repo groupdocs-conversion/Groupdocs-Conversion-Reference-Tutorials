@@ -4,8 +4,8 @@
 "title": "Átfogó útmutató a BMP PDF-be konvertálásához a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/pdf-conversion/convert-bmp-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató: BMP konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

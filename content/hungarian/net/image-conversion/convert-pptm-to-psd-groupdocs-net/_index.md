@@ -4,8 +4,8 @@
 "title": "Hogyan konvertáljunk PPTM-et PSD-vé a GroupDocs.Conversion for .NET használatával? Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-pptm-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PPTM konvertálása PSD-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

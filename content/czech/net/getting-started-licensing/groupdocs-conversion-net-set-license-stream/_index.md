@@ -4,8 +4,8 @@
 "title": "Nastavení licence ze streamu v GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/getting-started-licensing/groupdocs-conversion-net-set-license-stream/"
 "weight": 1
+type: docs
 ---
-
 # Nastavení licence ze streamu v GroupDocs.Conversion pro .NET: Komplexní průvodce
 
 ## Zavedení

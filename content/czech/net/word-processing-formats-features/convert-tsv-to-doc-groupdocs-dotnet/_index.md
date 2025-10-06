@@ -4,8 +4,8 @@
 "title": "Převod TSV do DOC pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/word-processing-formats-features/convert-tsv-to-doc-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod TSV do DOC pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

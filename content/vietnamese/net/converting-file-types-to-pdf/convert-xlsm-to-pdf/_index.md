@@ -5,8 +5,8 @@
 "title": "Chuyển đổi XLSM sang PDF"
 "url": "/vi/net/converting-file-types-to-pdf/convert-xlsm-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # Chuyển đổi XLSM sang PDF
 
 ## Giới thiệu

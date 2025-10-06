@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके PostScript (PS) को सादा पाठ में कैसे परिवर्तित करें"
 "url": "/hi/net/text-markup-conversion/convert-ps-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके PostScript (PS) को सादा पाठ में कैसे परिवर्तित करें
 
 ## परिचय

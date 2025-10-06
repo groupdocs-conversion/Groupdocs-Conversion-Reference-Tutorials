@@ -4,8 +4,8 @@
 "title": "Comment masquer les annotations PDF avant la conversion au format Word avec GroupDocs.Conversion pour .NET"
 "url": "/fr/net/page-management-content-manipulation/hide-pdf-annotations-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Comment masquer les annotations PDF avant la conversion au format Word avec GroupDocs.Conversion pour .NET
 
 ## Introduction

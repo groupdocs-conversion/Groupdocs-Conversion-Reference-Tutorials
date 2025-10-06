@@ -4,8 +4,8 @@
 "title": "Convertir EMZ a TXT con GroupDocs.Conversion para .NET&#58; una guía completa"
 "url": "/es/net/text-markup-conversion/convert-emz-to-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convierta archivos EMZ a TXT con GroupDocs.Conversion para .NET
 
 ## Introducción

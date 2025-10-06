@@ -5,8 +5,8 @@
 "title": "MHT를 PDF로 변환"
 "url": "/ko/net/document-conversion/convert-mht-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # MHT를 PDF로 변환
 
 ## 소개

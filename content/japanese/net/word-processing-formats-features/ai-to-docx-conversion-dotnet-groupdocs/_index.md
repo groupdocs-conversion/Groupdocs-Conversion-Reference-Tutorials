@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用した .NET での効率的な AI から DOCX への変換"
 "url": "/ja/net/word-processing-formats-features/ai-to-docx-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion を使用した .NET での効率的な AI から DOCX への変換
 
 ## 導入

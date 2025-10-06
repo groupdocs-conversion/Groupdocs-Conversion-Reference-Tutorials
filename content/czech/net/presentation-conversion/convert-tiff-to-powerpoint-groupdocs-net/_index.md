@@ -4,8 +4,8 @@
 "title": "Převod TIFF do PowerPointu pomocí GroupDocs.Conversion .NET – Podrobný návod"
 "url": "/cs/net/presentation-conversion/convert-tiff-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod TIFF do PowerPointu pomocí GroupDocs.Conversion .NET: Podrobný návod
 
 ## Zavedení

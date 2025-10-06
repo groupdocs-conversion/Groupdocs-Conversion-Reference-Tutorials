@@ -4,8 +4,8 @@
 "title": "Efektivní převod PowerPointu do SVG pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/image-formats-features/convert-ppt-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod PowerPointu do SVG pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

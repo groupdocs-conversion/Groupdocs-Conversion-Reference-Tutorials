@@ -4,8 +4,8 @@
 "title": "Automatizace převodu ODT do PPT pomocí GroupDocs.Conversion pro .NET | Podrobný návod"
 "url": "/cs/net/presentation-conversion/automate-odt-ppt-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Automatizace převodu ODT do PPT pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

@@ -3,8 +3,8 @@
 "title": "Tutorials zur Tabellenkonvertierung für GroupDocs.Conversion .NET"
 "url": "/de/net/spreadsheet-conversion/"
 "weight": 30
+type: docs
 ---
-
 # Tutorials zur Tabellenkonvertierung für GroupDocs.Conversion .NET
 
 Erfahren Sie mit unseren GroupDocs.Conversion .NET-Tutorials, wie Sie Dokumente in bearbeitbare Tabellenformate konvertieren. Diese ausführlichen Anleitungen zeigen Ihnen, wie Sie PDF, Word, HTML, Bilder und andere Formate in XLS, XLSX, CSV, ODS und mehr konvertieren. Entdecken Sie Techniken zum Erhalt von Berechnungen und Formeln, zur Aufrechterhaltung der Zellenformatierung, zur Handhabung mehrblättriger Dokumente, zur Verwaltung von Kopf- und Fußzeilen und zur Steuerung von Datentypkonvertierungen. Jedes Tutorial enthält funktionierende C#-Codebeispiele, die zeigen, wie Sie Tabellenkalkulationsdokumente erstellen, die den Quellinhalt präzise darstellen und gleichzeitig die Datenanalyse und -bearbeitung ermöglichen.

@@ -8,10 +8,8 @@ keywords:
 - convert OXPS to PPTX
 - GroupDocs.Conversion for .NET
 - .NET file conversion
-
+type: docs
 ---
-
-
 # Convert OXPS to PPTX Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

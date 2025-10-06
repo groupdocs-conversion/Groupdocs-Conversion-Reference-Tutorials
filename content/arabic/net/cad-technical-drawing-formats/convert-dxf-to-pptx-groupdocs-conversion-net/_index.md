@@ -4,8 +4,8 @@
 "title": "تحويل DXF إلى PPTX باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/cad-technical-drawing-formats/convert-dxf-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ملفات DXF إلى PPTX باستخدام GroupDocs.Conversion لـ .NET
 ## مقدمة
 يُعد تحويل ملفات التصميم إلى صيغ عروض تقديمية مهمة شائعة، خاصةً عند التعامل مع رسومات CAD مثل ملفات DWG أو DXF. يوضح هذا الدليل الشامل كيفية استخدام GroupDocs.Conversion for .NET لتحويل ملفات DXF إلى عروض تقديمية بتنسيق PowerPoint (PPTX) بسلاسة.

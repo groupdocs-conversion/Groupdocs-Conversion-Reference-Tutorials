@@ -4,8 +4,8 @@
 "title": "Chuyển đổi PPTX sang PPT một cách liền mạch với GroupDocs.Conversion cho .NET"
 "url": "/vi/net/presentation-formats-features/convert-pptx-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi PPTX sang PPT một cách liền mạch với GroupDocs.Conversion cho .NET
 ## Giới thiệu
 Bạn có muốn chuyển đổi liền mạch các bài thuyết trình PowerPoint của mình từ định dạng PPTX hiện đại trở lại PPT cổ điển không? Cho dù là để tương thích với các hệ thống cũ hơn hay chỉ đơn giản là đáp ứng các nhu cầu cụ thể của khách hàng, việc chuyển đổi các định dạng bài thuyết trình có thể là một thách thức. Với GroupDocs.Conversion cho .NET, quá trình này trở nên đơn giản và hiệu quả. Trong hướng dẫn này, chúng tôi sẽ hướng dẫn bạn sử dụng GroupDocs.Conversion để chuyển đổi các tệp PPTX sang định dạng PPT một cách dễ dàng.

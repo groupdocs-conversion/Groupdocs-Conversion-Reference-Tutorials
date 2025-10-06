@@ -4,8 +4,8 @@
 "title": "Chuyển đổi TEX sang PDF hiệu quả bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/pdf-conversion/convert-tex-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi TEX sang PDF hiệu quả bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

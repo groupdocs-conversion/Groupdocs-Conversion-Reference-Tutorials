@@ -5,8 +5,8 @@
 "title": "แปลงกราฟิกเวกเตอร์ CDR เป็น PDF"
 "url": "/th/net/file-conversion-to-pdf/convert-cdr-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # แปลงกราฟิกเวกเตอร์ CDR เป็น PDF
 
 ## การแนะนำ

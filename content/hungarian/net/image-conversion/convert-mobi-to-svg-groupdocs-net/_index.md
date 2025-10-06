@@ -4,8 +4,8 @@
 "title": "MOBI konvertálása SVG-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-mobi-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertáljunk MOBI-t SVG-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

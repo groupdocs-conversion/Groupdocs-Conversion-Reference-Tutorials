@@ -8,10 +8,8 @@ keywords:
 - convert XLSX to PSD .NET
 - GroupDocs.Conversion library
 - document conversion in .NET
-
+type: docs
 ---
-
-
 # Convert XLSX to PSD in .NET: A Step-by-Step Guide Using GroupDocs.Conversion
 
 ## Introduction

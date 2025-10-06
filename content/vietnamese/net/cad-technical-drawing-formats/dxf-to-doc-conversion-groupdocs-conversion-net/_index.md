@@ -4,8 +4,8 @@
 "title": "Chuyển đổi DXF sang DOC Sử dụng GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/cad-technical-drawing-formats/dxf-to-doc-conversion-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hướng dẫn toàn diện: Chuyển đổi DXF sang DOC bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

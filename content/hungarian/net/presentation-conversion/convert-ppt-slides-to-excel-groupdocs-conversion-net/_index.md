@@ -4,8 +4,8 @@
 "title": "PPT diák konvertálása Excelbe&#58; GroupDocs.Conversion for .NET elsajátítása"
 "url": "/hu/net/presentation-conversion/convert-ppt-slides-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PPT diák konvertálása Excelbe a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

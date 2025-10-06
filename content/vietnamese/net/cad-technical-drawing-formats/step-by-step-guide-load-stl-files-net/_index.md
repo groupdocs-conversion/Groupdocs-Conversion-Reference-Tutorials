@@ -4,8 +4,8 @@
 "title": "Hướng dẫn từng bước&#58; Tải và chuyển đổi tệp STL bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/cad-technical-drawing-formats/step-by-step-guide-load-stl-files-net/"
 "weight": 1
+type: docs
 ---
-
 # Hướng dẫn từng bước: Tải và chuyển đổi tệp STL bằng .NET
 
 ## Giới thiệu

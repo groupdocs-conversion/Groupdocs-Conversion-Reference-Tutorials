@@ -8,10 +8,8 @@ keywords:
 - PDF conversion Java
 - convert documents to PDF with GroupDocs
 - Java document conversion
-
+type: docs
 ---
-
-
 # Convert Documents to PDF with GroupDocs.Conversion for Java
 ## How to Convert Documents to PDF Using GroupDocs.Conversion: A Step-by-Step Guide
 ### Introduction

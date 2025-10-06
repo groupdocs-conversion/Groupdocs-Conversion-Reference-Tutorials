@@ -8,10 +8,8 @@ keywords:
 - convert POTM to JPG
 - GroupDocs.Conversion for .NET
 - C# image conversion
-
+type: docs
 ---
-
-
 # Convert POTM Files to JPG in C# Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

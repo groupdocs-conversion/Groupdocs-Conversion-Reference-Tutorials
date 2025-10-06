@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET で MOBI を HTML に変換する手順"
 "url": "/ja/net/web-markup-formats/convert-mobi-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して MOBI ファイルを HTML に変換する
 
 ## 導入

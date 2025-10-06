@@ -5,8 +5,8 @@
 "title": "แปลงไฟล์ AI เป็น PDF"
 "url": "/th/net/file-conversion-to-pdf/convert-ai-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # แปลงไฟล์ AI เป็น PDF
 
 ## การแนะนำ

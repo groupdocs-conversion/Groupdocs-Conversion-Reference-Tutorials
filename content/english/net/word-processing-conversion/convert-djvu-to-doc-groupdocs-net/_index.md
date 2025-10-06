@@ -8,10 +8,8 @@ keywords:
 - DJVU to DOC conversion
 - GroupDocs.Conversion for .NET
 - document conversion in C#
-
+type: docs
 ---
-
-
 # Convert DJVU to DOC Using GroupDocs.Conversion for .NET: Step-by-Step Guide
 
 ## Introduction

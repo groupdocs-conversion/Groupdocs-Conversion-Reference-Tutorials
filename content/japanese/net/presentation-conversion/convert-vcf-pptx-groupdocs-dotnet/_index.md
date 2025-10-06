@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NETでVCFをPPTXに簡単に変換する手順ガイド"
 "url": "/ja/net/presentation-conversion/convert-vcf-pptx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET で VCF を PPTX に簡単に変換する方法: ステップバイステップガイド
 
 ## 導入

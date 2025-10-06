@@ -5,8 +5,8 @@
 "title": "Chuyển đổi XPS sang PDF"
 "url": "/vi/net/converting-file-types-to-pdf/convert-xps-to-pdf/"
 "weight": 30
+type: docs
 ---
-
 # Chuyển đổi XPS sang PDF
 
 

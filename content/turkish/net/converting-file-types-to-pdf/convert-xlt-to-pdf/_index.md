@@ -5,8 +5,8 @@
 "title": "XLT'yi PDF'ye dönüştür"
 "url": "/tr/net/converting-file-types-to-pdf/convert-xlt-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # XLT'yi PDF'ye dönüştür
 
 

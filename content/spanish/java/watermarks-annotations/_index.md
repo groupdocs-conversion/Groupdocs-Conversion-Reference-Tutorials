@@ -3,8 +3,8 @@
 "title": "Tutoriales de marcas de agua y anotaciones para GroupDocs.Conversion Java"
 "url": "/es/java/watermarks-annotations/"
 "weight": 20
+type: docs
 ---
-
 # Tutoriales de marcas de agua y anotaciones para GroupDocs.Conversion Java
 
 Explore las funciones de anotación y marcas de agua con nuestros completos tutoriales de GroupDocs.Conversion para Java. Estas guías paso a paso muestran cómo agregar marcas de agua de texto e imagen durante la conversión, conservar las anotaciones existentes, controlar la visibilidad de las anotaciones, implementar marcas de agua dinámicas basadas en metadatos y gestionar marcas de redacción en documentos confidenciales. Cada tutorial incluye ejemplos prácticos de código Java para escenarios de marcas de agua y anotaciones, lo que le ayudará a crear aplicaciones que conserven elementos visuales y marcas editoriales importantes durante la transformación de formato.

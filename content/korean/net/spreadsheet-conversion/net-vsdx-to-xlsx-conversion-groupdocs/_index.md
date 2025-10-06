@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion을 사용한 효율적인 .NET VSDX에서 XLSX로의 변환"
 "url": "/ko/net/spreadsheet-conversion/net-vsdx-to-xlsx-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용한 효율적인 .NET VSDX에서 XLSX로의 변환
 
 ## 소개

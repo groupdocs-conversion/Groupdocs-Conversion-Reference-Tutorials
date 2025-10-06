@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak Parola Korumalı Belgeleri Yükleyin ve Dönüştürün"
 "url": "/tr/net/working-with-secure-documents/groupdocs-load-convert-password-documents-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak Parola Korumalı Belgeleri Yükleyin ve Dönüştürün
 
 ## giriiş

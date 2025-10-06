@@ -5,8 +5,8 @@
 "title": "PDF轉換"
 "url": "/zh-hant/net/pdf-conversion/"
 "weight": 25
+type: docs
 ---
-
 # PDF轉換
 
 ## 介紹

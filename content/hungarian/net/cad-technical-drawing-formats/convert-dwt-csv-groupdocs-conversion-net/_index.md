@@ -4,8 +4,8 @@
 "title": "DWT fájlok CSV formátumba konvertálása a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/cad-technical-drawing-formats/convert-dwt-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DWT fájlok konvertálása CSV formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

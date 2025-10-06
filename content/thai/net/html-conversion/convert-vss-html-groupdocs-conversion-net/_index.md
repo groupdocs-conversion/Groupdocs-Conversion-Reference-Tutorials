@@ -4,8 +4,8 @@
 "title": "วิธีแปลงไฟล์ VSS เป็น HTML โดยใช้ GroupDocs.Conversion สำหรับ .NET (คู่มือปี 2023)"
 "url": "/th/net/html-conversion/convert-vss-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # วิธีแปลงไฟล์ VSS เป็น HTML โดยใช้ GroupDocs.Conversion สำหรับ .NET (คู่มือปี 2023)
 
 ## การแนะนำ

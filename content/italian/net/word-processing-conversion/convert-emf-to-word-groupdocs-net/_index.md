@@ -4,8 +4,8 @@
 "title": "Come convertire EMF in Word utilizzando GroupDocs.Conversion per .NET - Guida passo passo"
 "url": "/it/net/word-processing-conversion/convert-emf-to-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire EMF in Word utilizzando GroupDocs.Conversion per .NET - Guida passo passo
 
 ## Introduzione

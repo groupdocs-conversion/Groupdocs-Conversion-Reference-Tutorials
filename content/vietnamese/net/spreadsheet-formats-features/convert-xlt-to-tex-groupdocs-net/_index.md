@@ -4,8 +4,8 @@
 "title": "Chuyển đổi XLT sang TEX hiệu quả với GroupDocs.Conversion cho .NET&#58; Hướng dẫn đầy đủ"
 "url": "/vi/net/spreadsheet-formats-features/convert-xlt-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi XLT sang TEX hiệu quả bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

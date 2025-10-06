@@ -4,8 +4,8 @@
 "title": "Redis और GroupDocs.Conversion का उपयोग करके Java में कस्टम कैशिंग कैसे लागू करें"
 "url": "/hi/java/cache-management/custom-cache-redis-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Redis और GroupDocs.Conversion का उपयोग करके Java में कस्टम कैशिंग कैसे लागू करें
 
 ## परिचय

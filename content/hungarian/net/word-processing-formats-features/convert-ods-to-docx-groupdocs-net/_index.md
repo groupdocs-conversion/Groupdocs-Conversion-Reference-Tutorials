@@ -4,8 +4,8 @@
 "title": "ODS fájlok zökkenőmentes konvertálása DOCX formátumba a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/word-processing-formats-features/convert-ods-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # ODS DOCX formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して IFC を HTML に変換する包括的なガイド"
 "url": "/ja/net/html-conversion/convert-ifc-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.NET で IFC ファイルを HTML に変換する
 
 ## GroupDocs.Conversion for .NET を使用して IFC ファイルを HTML に変換する方法

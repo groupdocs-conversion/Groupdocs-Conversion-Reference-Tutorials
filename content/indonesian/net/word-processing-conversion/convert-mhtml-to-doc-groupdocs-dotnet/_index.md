@@ -4,8 +4,8 @@
 "title": "Konversi MHTML ke DOC Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/word-processing-conversion/convert-mhtml-to-doc-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konversi MHTML ke DOC Menggunakan GroupDocs.Conversion untuk .NET: Panduan Lengkap
 
 ## Perkenalan

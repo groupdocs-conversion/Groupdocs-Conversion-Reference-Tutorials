@@ -4,8 +4,8 @@
 "title": "تنفيذ التعرف الضوئي على الحروف وتحويل الصور إلى PDF باستخدام Aspose وGroupDocs لـ .NET"
 "url": "/ar/net/image-formats-features/implement-ocr-conversion-images-pdf-net/"
 "weight": 1
+type: docs
 ---
-
 # تنفيذ التعرف الضوئي على الحروف وتحويل الصور إلى PDF باستخدام Aspose وGroupDocs لـ .NET
 
 ## مقدمة

@@ -4,8 +4,8 @@
 "title": "CF2 fájlok konvertálása XLSX fájlokká a GroupDocs.Conversion .NET használatával – Lépésről lépésre útmutató CAD szakembereknek"
 "url": "/hu/net/cad-technical-drawing-formats/convert-cf2-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # CF2 fájlok konvertálása XLSX formátumba a GroupDocs.Conversion .NET használatával: Lépésről lépésre útmutató CAD szakembereknek
 
 ## Bevezetés

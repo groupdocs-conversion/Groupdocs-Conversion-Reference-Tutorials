@@ -4,8 +4,8 @@
 "title": "Chuyển đổi văn bản sang PDF trong .NET bằng GroupDocs.Conversion - Hướng dẫn toàn diện"
 "url": "/vi/net/pdf-conversion/convert-text-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi văn bản sang PDF bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

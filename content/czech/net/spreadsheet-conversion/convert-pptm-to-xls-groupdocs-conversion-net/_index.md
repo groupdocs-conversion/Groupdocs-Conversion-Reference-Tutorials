@@ -4,8 +4,8 @@
 "title": "Převod PPTM do XLS pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/spreadsheet-conversion/convert-pptm-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod PPTM do XLS pomocí GroupDocs.Conversion pro .NET
 ## Zavedení
 Převod prezentací PowerPointu (soubory PPTM) do tabulek Excelu (formát XLS) může být nezbytný pro analýzu dat nebo opětovné využití obsahu. Použití nástroje GroupDocs.Conversion pro .NET tento proces zjednodušuje a zpřístupňuje jej i těm, kteří nejste expertem na kódování.

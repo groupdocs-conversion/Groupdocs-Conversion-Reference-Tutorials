@@ -4,8 +4,8 @@
 "title": "Implementieren einer gebührenpflichtigen Lizenz für GroupDocs.Conversion in Java – Ein umfassender Leitfaden"
 "url": "/de/java/getting-started/implement-metered-license-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Implementieren einer gemessenen Lizenz für GroupDocs.Conversion in Java
 
 ## Einführung

@@ -5,8 +5,8 @@
 "title": "Converteer DOCX Word-documenten naar PDF"
 "url": "/nl/net/file-conversion-to-pdf/convert-docx-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Converteer DOCX Word-documenten naar PDF
 
 ## Invoering

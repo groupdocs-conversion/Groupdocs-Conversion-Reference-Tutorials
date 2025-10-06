@@ -3,8 +3,8 @@
 "title": "Tutorial Format dan Fitur Email untuk GroupDocs.Conversion .NET"
 "url": "/id/net/email-formats-features/"
 "weight": 14
+type: docs
 ---
-
 # Tutorial Format dan Fitur Email untuk GroupDocs.Conversion .NET
 
 Kuasai pemrosesan dokumen email dengan tutorial GroupDocs.Conversion kami yang komprehensif untuk pengembang .NET. Panduan praktis ini menunjukkan cara mengonversi pesan email ke berbagai format dokumen, mengekstrak dan mengonversi lampiran email ke berbagai format, mengubah visibilitas bidang selama konversi, menerapkan pelokalan ke bidang email, menangani pergeseran zona waktu, menerapkan pengaturan globalisasi, mempertahankan metadata email, dan memproses pesan dengan konten tertanam. Setiap tutorial menyediakan contoh kode C# terperinci untuk skenario konversi email, membantu Anda membangun aplikasi yang dapat secara efektif mengubah komunikasi email ke dalam format dokumen yang lebih mudah diakses.

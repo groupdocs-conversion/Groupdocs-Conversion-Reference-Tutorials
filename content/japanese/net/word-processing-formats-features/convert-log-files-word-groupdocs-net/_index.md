@@ -4,8 +4,8 @@
 "title": ".NET で GroupDocs.Conversion を使用して LOG ファイルを Word 文書に効率的に変換する"
 "url": "/ja/net/word-processing-formats-features/convert-log-files-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET で GroupDocs.Conversion を使用して LOG ファイルを Word 文書に効率的に変換する
 
 ## 導入

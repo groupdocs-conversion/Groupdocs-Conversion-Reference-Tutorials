@@ -4,8 +4,8 @@
 "title": "使用 .NET 中的 GroupDocs 將 CDR 檔案轉換為 DOC - 簡化您的工作流程"
 "url": "/zh-hant/net/word-processing-conversion/convert-cdr-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 .NET 中的 GroupDocs 將 CDR 檔案轉換為 DOC
 
 ## 介紹

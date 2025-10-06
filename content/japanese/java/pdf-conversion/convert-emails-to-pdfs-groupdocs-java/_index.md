@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion の高度なオプションガイドを使用して Java でメールを PDF に変換する"
 "url": "/ja/java/pdf-conversion/convert-emails-to-pdfs-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion を使用して Java でメールを PDF に変換する: 詳細オプションガイド
 
 ## 導入

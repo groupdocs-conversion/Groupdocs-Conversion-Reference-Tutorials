@@ -8,10 +8,8 @@ keywords:
 - convert CF2 to XLSX
 - GroupDocs.Conversion .NET
 - CAD file conversion
-
+type: docs
 ---
-
-
 # Convert CF2 Files to XLSX Using GroupDocs.Conversion .NET: A Step-by-Step Guide for CAD Professionals
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak EMF'yi PPTX'e Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/presentation-conversion/convert-emf-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak EMF'yi PPTX'e Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

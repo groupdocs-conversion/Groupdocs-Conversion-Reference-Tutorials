@@ -5,8 +5,8 @@
 "title": "PNGをPDFに変換する"
 "url": "/ja/net/pdf-conversion/convert-png-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # PNGをPDFに変換する
 
 ## 導入

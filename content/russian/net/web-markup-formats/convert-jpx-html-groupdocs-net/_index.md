@@ -4,8 +4,8 @@
 "title": "Конвертируйте JPX в HTML с помощью GroupDocs.Conversion for .NET&#58; Пошаговое руководство"
 "url": "/ru/net/web-markup-formats/convert-jpx-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Как конвертировать JPX в HTML с помощью GroupDocs.Conversion для .NET: пошаговое руководство
 
 ## Введение

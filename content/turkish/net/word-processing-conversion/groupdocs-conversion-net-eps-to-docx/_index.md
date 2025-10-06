@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET ile EPS'yi DOCX'e Dönüştürmede Ustalaşın Kapsamlı Bir Kılavuz"
 "url": "/tr/net/word-processing-conversion/groupdocs-conversion-net-eps-to-docx/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET ile EPS'yi DOCX'e Dönüştürmede Ustalaşma
 
 ## giriiş

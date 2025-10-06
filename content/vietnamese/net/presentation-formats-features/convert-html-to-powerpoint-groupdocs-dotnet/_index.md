@@ -4,8 +4,8 @@
 "title": "Chuyển đổi HTML sang PowerPoint bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/presentation-formats-features/convert-html-to-powerpoint-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi HTML sang PowerPoint bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

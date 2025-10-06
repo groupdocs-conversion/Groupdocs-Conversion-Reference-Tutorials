@@ -4,8 +4,8 @@
 "title": "Konversi DWF ke TEX dalam .NET Menggunakan Pustaka GroupDocs.Conversion"
 "url": "/id/net/loading-from-remote-sources/convert-dwf-to-tex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konversi DWF ke TEX dengan GroupDocs.Conversion dalam .NET
 
 ## Perkenalan

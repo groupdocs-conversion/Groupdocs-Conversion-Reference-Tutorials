@@ -5,8 +5,8 @@
 "title": "แปลง XLTX เป็น PDF"
 "url": "/th/net/converting-file-types-to-pdf/convert-xltx-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # แปลง XLTX เป็น PDF
 
 ## การแนะนำ

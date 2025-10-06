@@ -4,8 +4,8 @@
 "title": "DOCX-ből PPT-vé konvertálás mesteri elsajátítása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/presentation-conversion/groupdocs-conversion-dotnet-docx-to-ppt/"
 "weight": 1
+type: docs
 ---
-
 # DOCX-ből PPT-vé konvertálás elsajátítása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

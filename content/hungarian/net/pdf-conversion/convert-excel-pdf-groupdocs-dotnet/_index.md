@@ -4,8 +4,8 @@
 "title": "Excel konvertálása PDF-be a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/pdf-conversion/convert-excel-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Excel-táblázat konvertálása PDF-be a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

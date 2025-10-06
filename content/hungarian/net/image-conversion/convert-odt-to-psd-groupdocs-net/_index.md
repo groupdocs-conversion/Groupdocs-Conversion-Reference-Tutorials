@@ -4,8 +4,8 @@
 "title": "ODT konvertálása PSD-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-odt-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # ODT konvertálása PSD-vé a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

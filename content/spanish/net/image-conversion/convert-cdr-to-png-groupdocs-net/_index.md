@@ -4,8 +4,8 @@
 "title": "Domine la conversión de CDR a PNG en .NET con GroupDocs.Conversion"
 "url": "/es/net/image-conversion/convert-cdr-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Domine la conversión de CDR a PNG en .NET con GroupDocs.Conversion
 
 ## Introducción

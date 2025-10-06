@@ -4,8 +4,8 @@
 "title": "Trích xuất hiệu quả các tệp RAR bằng GroupDocs.Conversion trong .NET&#58; Hướng dẫn dành cho nhà phát triển"
 "url": "/vi/net/compression-archive-handling/extract-rar-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Trích xuất hiệu quả các tệp RAR với GroupDocs.Conversion trong .NET: Hướng dẫn dành cho nhà phát triển
 
 ## Giới thiệu

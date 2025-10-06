@@ -8,10 +8,8 @@ keywords:
 - convert FODP to PPT
 - GroupDocs for .NET
 - document conversion using .NET
-
+type: docs
 ---
-
-
 # Convert FODP Files to PPT Using GroupDocs for .NET
 
 ## Introduction

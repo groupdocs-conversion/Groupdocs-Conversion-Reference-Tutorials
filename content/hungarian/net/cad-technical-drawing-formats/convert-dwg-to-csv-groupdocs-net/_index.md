@@ -4,8 +4,8 @@
 "title": "DWG fájlok konvertálása CSV formátumba a GroupDocs.Conversion használatával .NET-ben"
 "url": "/hu/net/cad-technical-drawing-formats/convert-dwg-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DWG fájlok konvertálása CSV formátumba a GroupDocs.Conversion használatával .NET-ben
 
 ## Bevezetés

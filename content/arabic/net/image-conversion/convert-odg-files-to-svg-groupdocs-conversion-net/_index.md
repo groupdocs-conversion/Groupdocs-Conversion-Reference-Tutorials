@@ -4,8 +4,8 @@
 "title": "تحويل ODG إلى SVG باستخدام GroupDocs.Conversion لـ .NET - دليل خطوة بخطوة"
 "url": "/ar/net/image-conversion/convert-odg-files-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ملفات ODG إلى SVG باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

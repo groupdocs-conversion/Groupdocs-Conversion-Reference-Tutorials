@@ -4,8 +4,8 @@
 "title": "Převod souborů CDR do formátu DOC pomocí GroupDocs v .NET – Zjednodušte si pracovní postup"
 "url": "/cs/net/word-processing-conversion/convert-cdr-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů CDR do DOC pomocí GroupDocs v .NET
 
 ## Zavedení

@@ -5,8 +5,8 @@
 "title": "Chuyển đổi MBOX sang PDF"
 "url": "/vi/net/document-conversion/convert-mbox-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # Chuyển đổi MBOX sang PDF
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion .NET 将 CGM 文件转换为 PDF 以实现无缝文档共享"
 "url": "/zh/net/pdf-conversion/convert-cgm-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion .NET 将 CGM 文件转换为 PDF
 ## 介绍
 您是否正在为将计算机图形图元文件 (CGM) 转换为可移植文档格式 (PDF) 而苦恼？这在设计、工程和建筑领域是一个常见的挑战，在这些领域，无缝的文件转换可以提高生产力并促进数据共享。本教程将指导您使用 .NET 中强大的 GroupDocs.Conversion 库将 CGM 文件转换为 PDF。

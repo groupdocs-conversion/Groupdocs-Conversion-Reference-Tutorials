@@ -4,8 +4,8 @@
 "title": "LOG fájlok konvertálása XLSX formátumba a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-conversion/convert-log-file-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # LOG fájlok konvertálása XLSX formátumba a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

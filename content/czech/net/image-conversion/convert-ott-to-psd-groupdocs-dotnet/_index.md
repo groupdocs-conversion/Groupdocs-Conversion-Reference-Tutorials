@@ -4,8 +4,8 @@
 "title": "Kompletní průvodce převodem OTT do PSD pomocí GroupDocs.Conversion v .NET"
 "url": "/cs/net/image-conversion/convert-ott-to-psd-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod OTT do PSD pomocí GroupDocs.Conversion v .NET: Kompletní průvodce
 
 ## Zavedení

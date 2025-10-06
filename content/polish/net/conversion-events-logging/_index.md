@@ -3,8 +3,8 @@
 "title": "Samouczki dotyczące zdarzeń konwersji i rejestrowania dla GroupDocs.Conversion .NET"
 "url": "/pl/net/conversion-events-logging/"
 "weight": 24
+type: docs
 ---
-
 # Samouczki dotyczące zdarzeń konwersji i rejestrowania dla GroupDocs.Conversion .NET
 
 Poznaj możliwości monitorowania i rejestrowania dzięki naszym samouczkom dotyczącym zdarzeń GroupDocs.Conversion dla .NET. Te szczegółowe przewodniki pokazują, jak skonfigurować nasłuchiwacze zdarzeń, śledzić stan i postęp konwersji, wdrażać szczegółowe rejestrowanie, obsługiwać powiadomienia o konwersji, tworzyć niestandardowe programy obsługi zdarzeń, integrować się z popularnymi strukturami rejestrowania, opracowywać wskaźniki postępu konwersji i budować ślady audytu do przetwarzania dokumentów. Każdy samouczek zawiera praktyczne przykłady kodu C# do monitorowania i raportowania funkcji, pomagając budować niezawodne systemy konwersji z kompleksowymi mechanizmami sprzężenia zwrotnego i możliwościami rozwiązywania problemów.

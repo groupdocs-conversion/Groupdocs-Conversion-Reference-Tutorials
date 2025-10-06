@@ -4,8 +4,8 @@
 "title": "Hatékony BMP-PNG konvertálás .NET-ben a GroupDocs.Conversion Library használatával"
 "url": "/hu/net/image-conversion/net-bmp-to-png-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony BMP-PNG konvertálás .NET-ben a GroupDocs segítségével
 
 ## Bevezetés

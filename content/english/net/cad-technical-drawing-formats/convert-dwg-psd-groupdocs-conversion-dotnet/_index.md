@@ -8,10 +8,8 @@ keywords:
 - DWG to PSD conversion
 - GroupDocs.Conversion for .NET
 - Convert DWG files
-
+type: docs
 ---
-
-
 # Efficient DWG to PSD Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

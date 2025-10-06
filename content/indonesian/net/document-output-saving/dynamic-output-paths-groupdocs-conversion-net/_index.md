@@ -4,8 +4,8 @@
 "title": "Jalur Output Dinamis di .NET dengan GroupDocs.Conversion&#58; Panduan Lengkap"
 "url": "/id/net/document-output-saving/dynamic-output-paths-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jalur Output Dinamis di .NET dengan GroupDocs.Conversion: Panduan Lengkap
 
 ## Perkenalan

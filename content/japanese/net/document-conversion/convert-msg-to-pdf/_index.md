@@ -5,8 +5,8 @@
 "title": "MSGをPDFに変換する"
 "url": "/ja/net/document-conversion/convert-msg-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # MSGをPDFに変換する
 
 ## 導入

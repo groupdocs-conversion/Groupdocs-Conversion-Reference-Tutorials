@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie PowerPoint-Vorlagen in PNG mit GroupDocs.Conversion für .NET – Eine Schritt-für-Schritt-Anleitung"
 "url": "/de/net/presentation-formats-features/convert-powerpoint-templates-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie PowerPoint-Vorlagen mit GroupDocs.Conversion für .NET in PNG: Eine Schritt-für-Schritt-Anleitung
 
 ## Einführung

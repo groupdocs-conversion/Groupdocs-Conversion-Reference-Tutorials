@@ -5,8 +5,8 @@
 "title": "EML e-mail üzenetek konvertálása PDF-be"
 "url": "/hu/net/convert-files-to-pdf/convert-eml-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # EML e-mail üzenetek konvertálása PDF-be
 
 ## Bevezetés

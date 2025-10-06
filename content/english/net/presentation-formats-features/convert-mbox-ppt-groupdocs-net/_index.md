@@ -8,10 +8,8 @@ keywords:
 - convert MBOX to PowerPoint
 - GroupDocs.Conversion for .NET
 - MBOX file conversion
-
+type: docs
 ---
-
-
 # Convert MBOX Files to PowerPoint Presentations Using GroupDocs.Conversion for .NET
 
 ## Introduction

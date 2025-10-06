@@ -4,8 +4,8 @@
 "title": "TIFF konvertálása HTML-be .NET-ben a GroupDocs.Conversion használatával"
 "url": "/hu/net/html-conversion/convert-tif-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # TIFF konvertálása HTML-be .NET-ben a GroupDocs.Conversion használatával
 
 ## Bevezetés

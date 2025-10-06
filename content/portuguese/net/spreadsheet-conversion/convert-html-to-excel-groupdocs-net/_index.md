@@ -4,8 +4,8 @@
 "title": "Converta HTML para Excel usando GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/spreadsheet-conversion/convert-html-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converta HTML para Excel com GroupDocs.Conversion para .NET
 
 ## Introdução

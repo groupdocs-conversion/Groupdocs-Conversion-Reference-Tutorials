@@ -5,8 +5,8 @@
 "title": "将 ODS 转换为 PDF"
 "url": "/zh/net/document-conversion/convert-ods-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # 将 ODS 转换为 PDF
 
 ## 介绍

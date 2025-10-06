@@ -4,8 +4,8 @@
 "title": "MPX konvertálása PDF-be a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/pdf-conversion/convert-mpx-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MPX konvertálása PDF-be a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

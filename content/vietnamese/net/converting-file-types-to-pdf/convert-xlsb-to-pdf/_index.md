@@ -5,8 +5,8 @@
 "title": "Chuyển đổi XLSB sang PDF"
 "url": "/vi/net/converting-file-types-to-pdf/convert-xlsb-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Chuyển đổi XLSB sang PDF
 
 ## Giới thiệu

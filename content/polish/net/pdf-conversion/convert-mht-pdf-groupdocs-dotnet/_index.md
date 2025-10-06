@@ -4,8 +4,8 @@
 "title": "Jak przekonwertować MHT do PDF w .NET przy użyciu GroupDocs.Conversion"
 "url": "/pl/net/pdf-conversion/convert-mht-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak konwertować pliki MHT do PDF w .NET za pomocą GroupDocs.Conversion
 
 ## Wstęp

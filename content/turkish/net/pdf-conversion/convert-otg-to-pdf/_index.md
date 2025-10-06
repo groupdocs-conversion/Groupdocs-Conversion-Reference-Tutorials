@@ -5,8 +5,8 @@
 "title": "OTG'yi PDF'ye dönüştür"
 "url": "/tr/net/pdf-conversion/convert-otg-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # OTG'yi PDF'ye dönüştür
 
 ## giriiş

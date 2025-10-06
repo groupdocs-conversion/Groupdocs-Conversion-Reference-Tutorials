@@ -4,8 +4,8 @@
 "title": ".NET अनुप्रयोग प्रदर्शन को बढ़ावा दें&#58; GroupDocs.Conversion के साथ कस्टम Redis कैश को लागू करना"
 "url": "/hi/net/cache-management/boost-net-app-performance-custom-redis-cache-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion का उपयोग करके कस्टम Redis कैशिंग के साथ अपने .NET अनुप्रयोग प्रदर्शन को बढ़ावा दें
 
 ## परिचय

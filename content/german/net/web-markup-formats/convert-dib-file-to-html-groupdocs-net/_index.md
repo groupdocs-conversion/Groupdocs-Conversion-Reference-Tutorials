@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie eine DIB-Datei mit GroupDocs.Conversion für .NET in HTML – Eine Schritt-für-Schritt-Anleitung"
 "url": "/de/net/web-markup-formats/convert-dib-file-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie eine DIB-Datei mit GroupDocs.Conversion für .NET in HTML: Eine Schritt-für-Schritt-Anleitung
 
 ## Einführung

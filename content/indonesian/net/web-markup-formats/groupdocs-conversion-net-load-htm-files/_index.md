@@ -4,8 +4,8 @@
 "title": "Memuat dan Mengonversi File HTML Menggunakan GroupDocs.Conversion .NET&#58; Panduan Langkah demi Langkah"
 "url": "/id/net/web-markup-formats/groupdocs-conversion-net-load-htm-files/"
 "weight": 1
+type: docs
 ---
-
 # Cara Memuat dan Mengonversi File HTML Menggunakan GroupDocs.Conversion .NET
 
 ## Perkenalan

@@ -8,10 +8,8 @@ keywords:
 - convert MPX to CSV
 - GroupDocs.Conversion for .NET
 - GPS data conversion
-
+type: docs
 ---
-
-
 # Convert MPX Files to CSV Using GroupDocs.Conversion for .NET: A Detailed Guide
 
 ## Introduction

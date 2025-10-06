@@ -8,10 +8,8 @@ keywords:
 - Visio to JPG conversion
 - GroupDocs.Conversion for .NET
 - convert VST files
-
+type: docs
 ---
-
-
 # Convert Visio Files to JPG Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Java के लिए GroupDocs.Conversion&#58; सभी संभावित रूपांतरण कैसे प्राप्त करें"
 "url": "/hi/java/conversion-options/groupdocs-conversion-java-retrieve-possible-conversions/"
 "weight": 1
+type: docs
 ---
-
 # Java के लिए GroupDocs.Conversion का उपयोग करके सभी संभावित रूपांतरणों को पुनः प्राप्त करने के लिए व्यापक मार्गदर्शिका
 
 ## परिचय

@@ -5,8 +5,8 @@
 "title": "Chuyển đổi CF2 sang PDF"
 "url": "/vi/net/file-conversion-to-pdf/convert-cf2-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # Chuyển đổi CF2 sang PDF
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "Convertire VSX in SVG con GroupDocs.Conversion .NET - Una guida completa"
 "url": "/it/net/image-conversion/groupdocs-conversion-net-vsx-to-svg/"
 "weight": 1
+type: docs
 ---
-
 # Convertire VSX in SVG con GroupDocs.Conversion .NET: una guida completa
 
 ## Introduzione

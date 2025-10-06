@@ -4,8 +4,8 @@
 "title": "Conversion efficace de fichiers DGN en DOCX avec GroupDocs dans .NET pour les projets CAO"
 "url": "/fr/net/cad-technical-drawing-formats/convert-dgn-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Conversion efficace de DGN en DOCX avec GroupDocs dans .NET
 
 ## Introduction

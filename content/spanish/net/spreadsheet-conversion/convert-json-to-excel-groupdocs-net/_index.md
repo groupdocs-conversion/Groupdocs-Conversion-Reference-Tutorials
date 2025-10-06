@@ -4,8 +4,8 @@
 "title": "Convierta JSON a Excel en .NET con GroupDocs.Conversion&#58; una guía completa"
 "url": "/es/net/spreadsheet-conversion/convert-json-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir JSON a Excel en .NET con GroupDocs.Conversion: una guía completa
 
 ## Introducción

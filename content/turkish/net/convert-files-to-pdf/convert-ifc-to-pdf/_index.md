@@ -5,8 +5,8 @@
 "title": "IFC Bina Bilgi Modelleme Dosyalarını PDF'ye Dönüştür"
 "url": "/tr/net/convert-files-to-pdf/convert-ifc-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # IFC Bina Bilgi Modelleme Dosyalarını PDF'ye Dönüştür
 
 ## giriiş

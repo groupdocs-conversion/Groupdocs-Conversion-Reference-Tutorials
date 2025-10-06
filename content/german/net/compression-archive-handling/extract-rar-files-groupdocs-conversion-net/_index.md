@@ -4,8 +4,8 @@
 "title": "Effizientes Extrahieren von RAR-Dateien mit GroupDocs.Conversion in .NET – Ein Entwicklerhandbuch"
 "url": "/de/net/compression-archive-handling/extract-rar-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Effizientes Extrahieren von RAR-Dateien mit GroupDocs.Conversion in .NET: Ein Entwicklerhandbuch
 
 ## Einführung

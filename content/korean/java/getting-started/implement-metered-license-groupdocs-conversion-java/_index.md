@@ -4,8 +4,8 @@
 "title": "Java에서 GroupDocs.Conversion에 대한 계량형 라이선스 구현&#58; 종합 가이드"
 "url": "/ko/java/getting-started/implement-metered-license-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Java에서 GroupDocs.Conversion에 대한 계량형 라이선스 구현
 
 ## 소개

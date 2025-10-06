@@ -4,8 +4,8 @@
 "title": "Gestion efficace des chemins d'accès aux documents dans .NET avec GroupDocs.Conversion &#58; définition de constantes pour des conversions fluides"
 "url": "/fr/net/conversion-options-settings/groupdocs-net-define-document-paths/"
 "weight": 1
+type: docs
 ---
-
 # Gestion efficace des chemins de documents dans .NET avec GroupDocs.Conversion
 
 ## Introduction

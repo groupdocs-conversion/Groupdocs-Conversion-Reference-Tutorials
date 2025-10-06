@@ -4,8 +4,8 @@
 "title": "在 .NET 中将 XLTM 转换为 PNG——使用 GroupDocs.Conversion 的完整指南"
 "url": "/zh/net/image-conversion/convert-xltm-to-png-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # 在 .NET 中将 XLTM 转换为 PNG：使用 GroupDocs.Conversion 的完整指南
 
 ## 介绍

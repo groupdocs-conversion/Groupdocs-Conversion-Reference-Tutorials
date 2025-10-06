@@ -8,10 +8,8 @@ keywords:
 - Convert TEX to JPG
 - LaTeX to Image Conversion
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # Efficiently Convert LaTeX (TEX) to JPG Using GroupDocs.Conversion for .NET
 
 ## Introduction

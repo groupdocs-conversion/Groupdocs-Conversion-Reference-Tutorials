@@ -4,8 +4,8 @@
 "title": "Comment convertir des fichiers OneNote en Word avec GroupDocs.Conversion pour .NET (Guide 2023)"
 "url": "/fr/net/word-processing-conversion/convert-onenote-to-word-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir des fichiers OneNote en Word avec GroupDocs.Conversion pour .NET (Guide 2023)
 
 ## Introduction

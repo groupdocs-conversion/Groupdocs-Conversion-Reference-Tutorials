@@ -5,8 +5,8 @@
 "title": "Converteer HTML-webpagina's naar PDF"
 "url": "/nl/net/convert-files-to-pdf/convert-html-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Converteer HTML-webpagina's naar PDF
 
 ## Invoering

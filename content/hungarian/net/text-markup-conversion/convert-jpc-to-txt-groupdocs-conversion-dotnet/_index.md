@@ -4,8 +4,8 @@
 "title": "JPC konvertálása TXT-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/text-markup-conversion/convert-jpc-to-txt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # JPC fájlok TXT formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

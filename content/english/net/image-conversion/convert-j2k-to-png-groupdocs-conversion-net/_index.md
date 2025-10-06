@@ -8,10 +8,8 @@ keywords:
 - Convert J2K to PNG
 - GroupDocs.Conversion for .NET
 - JPEG 2000 to PNG conversion
-
+type: docs
 ---
-
-
 # Convert JPEG 2000 to PNG Using GroupDocs.Conversion for .NET: Step-by-Step Guide
 
 ## Introduction

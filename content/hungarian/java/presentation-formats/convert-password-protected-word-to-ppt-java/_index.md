@@ -4,8 +4,8 @@
 "title": "Jelszóval védett Word-dokumentumok hatékony konvertálása PPT-vé Java és GroupDocs.Conversion használatával"
 "url": "/hu/java/presentation-formats/convert-password-protected-word-to-ppt-java/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan lehet hatékonyan jelszóval védett Word-dokumentumokat PPT-vé konvertálni Java és GroupDocs.Conversion használatával
 
 ## Bevezetés

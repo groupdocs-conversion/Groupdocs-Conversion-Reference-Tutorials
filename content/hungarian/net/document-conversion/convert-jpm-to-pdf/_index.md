@@ -5,8 +5,8 @@
 "title": "JPM konvertálása PDF-be"
 "url": "/hu/net/document-conversion/convert-jpm-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # JPM konvertálása PDF-be
 
 ## Bevezetés

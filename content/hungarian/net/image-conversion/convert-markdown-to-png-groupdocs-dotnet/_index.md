@@ -4,8 +4,8 @@
 "title": "Átfogó útmutató a Markdown PNG-vé konvertálásához a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/convert-markdown-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató: Markdown konvertálása PNG-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

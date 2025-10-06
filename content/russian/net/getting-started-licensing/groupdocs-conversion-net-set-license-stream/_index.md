@@ -4,8 +4,8 @@
 "title": "Установить лицензию из потока в GroupDocs.Conversion для .NET&#58; Подробное руководство"
 "url": "/ru/net/getting-started-licensing/groupdocs-conversion-net-set-license-stream/"
 "weight": 1
+type: docs
 ---
-
 # Установить лицензию из потока в GroupDocs.Conversion для .NET: полное руководство
 
 ## Введение

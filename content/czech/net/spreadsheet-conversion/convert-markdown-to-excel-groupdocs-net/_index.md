@@ -4,8 +4,8 @@
 "title": "Převod Markdownu do Excelu pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/spreadsheet-conversion/convert-markdown-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod Markdownu do Excelu pomocí GroupDocs.Conversion pro .NET
 ## Zavedení
 Máte potíže s transformací souborů Markdown do lépe spravovatelného a široce používaného formátu, jako je Excel? Ať už spravujete technickou dokumentaci, poznámky nebo projektové plány, jejich převod z Markdownu (MD) do Excelu může zefektivnit analýzu dat a reporting. S **GroupDocs.Conversion pro .NET**, tento proces je zjednodušený a efektivní.

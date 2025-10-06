@@ -4,8 +4,8 @@
 "title": "Konvertera MPT till CSV med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/csv-structured-data-processing/convert-mpt-to-csv-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar MPT-filer till CSV med GroupDocs.Conversion för .NET
 
 ## Introduktion

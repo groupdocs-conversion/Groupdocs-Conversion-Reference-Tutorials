@@ -4,8 +4,8 @@
 "title": "Chuyển đổi hiệu quả các mẫu PowerPoint sang JPEG trong .NET bằng GroupDocs.Conversion"
 "url": "/vi/net/image-conversion/convert-powerpoint-to-jpeg-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi hiệu quả các mẫu PowerPoint sang JPEG trong .NET bằng GroupDocs.Conversion
 
 ## Giới thiệu

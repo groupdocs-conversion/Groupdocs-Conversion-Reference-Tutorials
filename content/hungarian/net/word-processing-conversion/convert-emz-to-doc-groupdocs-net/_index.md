@@ -4,8 +4,8 @@
 "title": "EMZ konvertálása DOC-ba a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/word-processing-conversion/convert-emz-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # EMZ konvertálása DOC-ba a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Så här hämtar du personlig lagringsinformation från Outlook OST-filer med GroupDocs.Conversion för .NET"
 "url": "/sv/net/storage-files-pst-processing/retrieve-personal-storage-info-outlook-ost-net/"
 "weight": 1
+type: docs
 ---
-
 # Så här hämtar du personlig lagringsinformation från Outlook OST-filer med GroupDocs.Conversion för .NET
 
 ## Introduktion

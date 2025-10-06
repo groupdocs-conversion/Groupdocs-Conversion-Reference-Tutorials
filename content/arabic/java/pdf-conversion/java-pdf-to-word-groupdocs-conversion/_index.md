@@ -4,8 +4,8 @@
 "title": "تحويل PDF إلى Word في Java باستخدام GroupDocs - دليل شامل"
 "url": "/ar/java/pdf-conversion/java-pdf-to-word-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # تحويل PDF إلى Word في Java باستخدام GroupDocs: دليل شامل
 
 ## مقدمة

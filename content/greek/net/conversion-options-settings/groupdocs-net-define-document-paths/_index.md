@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική διαχείριση διαδρομής εγγράφων σε .NET με το GroupDocs.Conversion! Ορισμός σταθερών για απρόσκοπτες μετατροπές"
 "url": "/el/net/conversion-options-settings/groupdocs-net-define-document-paths/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική διαχείριση διαδρομών εγγράφων σε .NET με το GroupDocs.Conversion
 
 ## Εισαγωγή

@@ -8,10 +8,8 @@ keywords:
 - convert XLSB to DOCX
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # How to Convert XLSB Files to DOCX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

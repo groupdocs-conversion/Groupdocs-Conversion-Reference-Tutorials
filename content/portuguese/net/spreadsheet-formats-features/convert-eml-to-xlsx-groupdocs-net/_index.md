@@ -4,8 +4,8 @@
 "title": "Converter EML para XLSX no .NET usando GroupDocs.Conversion - Um guia passo a passo"
 "url": "/pt/net/spreadsheet-formats-features/convert-eml-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converter EML para XLSX usando GroupDocs.Conversion para .NET
 
 ## Introdução

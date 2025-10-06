@@ -4,8 +4,8 @@
 "title": "Efektivní převod XLSB do PPTX pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/presentation-conversion/convert-xlsb-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod XLSB do PPTX pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

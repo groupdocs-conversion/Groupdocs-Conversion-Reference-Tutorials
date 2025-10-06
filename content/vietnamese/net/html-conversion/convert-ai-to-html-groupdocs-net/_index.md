@@ -4,8 +4,8 @@
 "title": "Chuyển đổi AI sang HTML bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/html-conversion/convert-ai-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp AI sang HTML bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

@@ -5,8 +5,8 @@
 "title": "Převod zapouzdřených souborů PostScript EPS do PDF"
 "url": "/cs/net/convert-files-to-pdf/convert-eps-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # Převod zapouzdřených souborů PostScript EPS do PDF
 
 ## Zavedení

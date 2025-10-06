@@ -5,8 +5,8 @@
 "title": "Convertire RTF in PDF"
 "url": "/it/net/file-format-conversion-tutorials/convert-rtf-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # Convertire RTF in PDF
 
 ## Introduzione

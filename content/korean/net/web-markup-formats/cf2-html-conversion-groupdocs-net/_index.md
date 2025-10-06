@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용한 CF2에서 HTML로의 변환 단계별 가이드"
 "url": "/ko/net/web-markup-formats/cf2-html-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 CF2를 HTML로 변환: 포괄적인 가이드
 
 ## 소개

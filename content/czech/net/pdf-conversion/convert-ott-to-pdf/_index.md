@@ -5,8 +5,8 @@
 "title": "Převod OTT do PDF"
 "url": "/cs/net/pdf-conversion/convert-ott-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # Převod OTT do PDF
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "Как конвертировать MHTML в DOCX с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/word-processing-formats-features/convert-mhtml-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Как конвертировать MHTML в DOCX с помощью GroupDocs.Conversion для .NET
 
 ## Введение

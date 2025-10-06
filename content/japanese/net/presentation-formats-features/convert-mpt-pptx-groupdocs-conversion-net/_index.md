@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NETでMPTをPPTXに変換する方法 包括的なガイド"
 "url": "/ja/net/presentation-formats-features/convert-mpt-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して MPT ファイルを PPTX に変換する方法
 
 ## 導入

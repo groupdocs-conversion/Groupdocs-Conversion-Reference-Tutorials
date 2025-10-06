@@ -8,10 +8,8 @@ keywords:
 - convert OTT to CSV
 - GroupDocs.Conversion for .NET
 - data conversion in .NET
-
+type: docs
 ---
-
-
 # Efficient Conversion of OTT Files to CSV Using GroupDocs.Conversion for .NET
 
 ## Introduction

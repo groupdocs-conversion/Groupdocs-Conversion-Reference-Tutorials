@@ -8,10 +8,8 @@ keywords:
 - convert XLAM to HTML
 - GroupDocs.Conversion for .NET
 - Excel Macro-Enabled Add-In conversion
-
+type: docs
 ---
-
-
 # Convert XLAM Files to HTML Using GroupDocs for .NET
 
 ## How to Convert XLAM Files to HTML with GroupDocs.Conversion for .NET: A Developer's Guide

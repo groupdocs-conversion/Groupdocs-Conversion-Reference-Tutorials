@@ -5,8 +5,8 @@
 "title": "Πλήρη σεμινάρια για το GroupDocs.Conversion για .NET"
 "url": "/el/net/"
 "weight": 10
+type: docs
 ---
-
 # Πλήρη σεμινάρια για το GroupDocs.Conversion για .NET
 
 

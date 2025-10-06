@@ -4,8 +4,8 @@
 "title": "DOTX fájlok SVG formátumba konvertálása a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-dotx-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DOTX fájlok SVG formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

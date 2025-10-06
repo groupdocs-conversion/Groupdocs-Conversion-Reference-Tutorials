@@ -5,8 +5,8 @@
 "title": "文档转换"
 "url": "/zh/net/document-conversion/"
 "weight": 23
+type: docs
 ---
-
 # 文档转换
 
 ## 介绍

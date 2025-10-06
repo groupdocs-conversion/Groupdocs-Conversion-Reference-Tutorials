@@ -4,8 +4,8 @@
 "title": "Chuyển đổi XLSB sang XLSX dễ dàng với GroupDocs.Conversion cho .NET | Hướng dẫn từng bước"
 "url": "/vi/net/spreadsheet-formats-features/convert-xlsb-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi XLSB sang XLSX dễ dàng với GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

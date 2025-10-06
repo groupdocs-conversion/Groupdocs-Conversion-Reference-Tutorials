@@ -4,8 +4,8 @@
 "title": "VSSM fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/html-conversion/convert-vssm-files-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VSSM fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

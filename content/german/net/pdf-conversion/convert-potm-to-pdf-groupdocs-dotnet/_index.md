@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie POTM-Dateien mit GroupDocs.Conversion für .NET in PDF – Eine Schritt-für-Schritt-Anleitung"
 "url": "/de/net/pdf-conversion/convert-potm-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie POTM-Dateien mit GroupDocs.Conversion für .NET in PDF: Eine Schritt-für-Schritt-Anleitung
 
 ## Einführung

@@ -4,8 +4,8 @@
 "title": "Converteer IFC naar HTML met GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/html-conversion/convert-ifc-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer IFC-bestanden naar HTML met GroupDocs.NET
 
 ## IFC-bestanden converteren naar HTML met GroupDocs.Conversion voor .NET

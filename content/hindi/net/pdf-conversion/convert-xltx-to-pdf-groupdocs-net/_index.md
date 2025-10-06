@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके Excel टेम्पलेट फ़ाइलें (XLTX) को PDF में कनवर्ट करें"
 "url": "/hi/net/pdf-conversion/convert-xltx-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके Excel टेम्पलेट फ़ाइलें (XLTX) को PDF में कनवर्ट करें
 
 ## परिचय

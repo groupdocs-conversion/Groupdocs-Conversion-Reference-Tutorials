@@ -4,8 +4,8 @@
 "title": "Zvládněte převod zpráv Apple Mail (.emlx) do HTML pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/html-conversion/convert-emlx-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Zvládněte převod zpráv Apple Mail (.emlx) do HTML pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

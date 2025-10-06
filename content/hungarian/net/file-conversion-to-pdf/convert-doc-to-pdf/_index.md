@@ -5,8 +5,8 @@
 "title": "DOC Word dokumentumok konvertálása PDF-be"
 "url": "/hu/net/file-conversion-to-pdf/convert-doc-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # DOC Word dokumentumok konvertálása PDF-be
 
 ## Bevezetés

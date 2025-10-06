@@ -4,8 +4,8 @@
 "title": "Converti VSDM in TEX utilizzando GroupDocs.Conversion .NET&#58; una guida completa per i formati CAD e di disegno tecnico"
 "url": "/it/net/cad-technical-drawing-formats/convert-vsdm-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire VSDM in TEX utilizzando GroupDocs.Conversion .NET: una guida completa per i formati CAD e di disegno tecnico
 
 ## Introduzione

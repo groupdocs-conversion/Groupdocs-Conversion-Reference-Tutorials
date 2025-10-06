@@ -5,8 +5,8 @@
 "title": "แปลงกราฟิกเวกเตอร์ CGM เป็น PDF"
 "url": "/th/net/file-conversion-to-pdf/convert-cgm-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # แปลงกราฟิกเวกเตอร์ CGM เป็น PDF
 
 ## การแนะนำ

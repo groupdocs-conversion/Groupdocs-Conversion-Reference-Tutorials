@@ -4,8 +4,8 @@
 "title": "HTM fájlok hatékony betöltése és konvertálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/web-markup-formats/groupdocs-conversion-net-load-convert-htm-files/"
 "weight": 1
+type: docs
 ---
-
 # HTM fájlok hatékony betöltése és konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

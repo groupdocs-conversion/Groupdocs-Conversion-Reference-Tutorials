@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Javaライセンスの設定手順ガイド"
 "url": "/ja/java/getting-started/groupdocs-conversion-java-license-setup-file-path/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Javaライセンスの設定：包括的なチュートリアル
 
 Java用GroupDocs.Conversionライブラリの設定と使用方法に関するステップバイステップガイドへようこそ。このチュートリアルでは、ファイルパスによるライセンス設定の実装方法に特に焦点を当て、この強力なドキュメント変換ツールの潜在能力を最大限に引き出します。

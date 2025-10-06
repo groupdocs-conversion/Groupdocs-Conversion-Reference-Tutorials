@@ -4,8 +4,8 @@
 "title": "MHTML konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/pdf-conversion-features/convert-mhtml-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # MHTML konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével: Átfogó útmutató
 
 ## Bevezetés

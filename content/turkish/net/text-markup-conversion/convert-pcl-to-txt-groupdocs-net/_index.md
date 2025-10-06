@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Kullanarak .NET'te PCL'yi TXT Dosyalarına Dönüştürme&#58; Kapsamlı Bir Kılavuz"
 "url": "/tr/net/text-markup-conversion/convert-pcl-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PCL Dosyalarını GroupDocs.Conversion for .NET ile TXT'ye Dönüştürün
 ## giriiş
 Yazıcı Komut Dili (PCL) dosyalarını düz metin biçimlerine dönüştürmek mi istiyorsunuz? İster eski belgeleri işleyin ister analiz için veri hazırlayın, PCL dosyalarını dönüştürmek hayati önem taşıyabilir. Bu kılavuz, PCL dosyalarını sorunsuz bir şekilde TXT biçimine dönüştürmek için GroupDocs.Conversion for .NET'i kullanma konusunda size yol gösterecektir.

@@ -4,8 +4,8 @@
 "title": "كيفية تحويل البريد الإلكتروني إلى PDF مع إزاحة المنطقة الزمنية في Java باستخدام GroupDocs.Conversion"
 "url": "/ar/java/email-formats/email-to-pdf-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل البريد الإلكتروني إلى PDF مع إزاحة المنطقة الزمنية في Java باستخدام GroupDocs.Conversion
 
 ## مقدمة

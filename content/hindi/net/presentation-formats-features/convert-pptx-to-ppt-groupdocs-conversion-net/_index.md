@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion के साथ PPTX को FODP में सहजता से परिवर्तित करें"
 "url": "/hi/net/presentation-formats-features/convert-pptx-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion के साथ PPTX को FODP में सहजता से परिवर्तित करें
 ## परिचय
 क्या आप अपने PowerPoint प्रेजेंटेशन को आधुनिक PPTX फ़ॉर्मेट से क्लासिक PPT में आसानी से बदलना चाहते हैं? चाहे वह पुराने सिस्टम के साथ संगतता के लिए हो या बस विशिष्ट क्लाइंट की ज़रूरतों को पूरा करना हो, प्रेजेंटेशन फ़ॉर्मेट को बदलना एक चुनौती हो सकती है। .NET के लिए GroupDocs.Conversion के साथ, यह प्रक्रिया सरल और कुशल हो जाती है। इस ट्यूटोरियल में, हम आपको PPTX फ़ाइलों को आसानी से PPT फ़ॉर्मेट में बदलने के लिए GroupDocs.Conversion का उपयोग करके मार्गदर्शन करेंगे।

@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 進行自訂字體的 Java 文件轉換"
 "url": "/zh-hant/java/conversion-options/java-conversion-custom-fonts-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 進行自訂字體的 Java 文件轉換
 
 在當今的數位世界中，在轉換文件的同時保留其原始設計和佈局至關重要。無論您是在為客戶準備簡報，還是存檔重要文件，確保字體跨平台一致都可能是一項挑戰。本教學將指導您使用 GroupDocs.Conversion for Java 將簡報轉換為帶有自訂字體替換的 PDF，並確保整個過程中的視覺完整性。

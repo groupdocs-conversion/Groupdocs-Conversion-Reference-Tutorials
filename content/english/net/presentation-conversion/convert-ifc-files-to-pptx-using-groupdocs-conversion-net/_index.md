@@ -8,10 +8,8 @@ keywords:
 - convert IFC to PowerPoint
 - GroupDocs.Conversion for .NET
 - presentation conversion
-
+type: docs
 ---
-
-
 # Convert IFC Files to PowerPoint Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

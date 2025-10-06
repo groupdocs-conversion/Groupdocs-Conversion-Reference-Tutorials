@@ -4,8 +4,8 @@
 "title": "Cách tải và chuyển đổi tệp OTS bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/spreadsheet-formats-features/load-ots-file-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cách tải và chuyển đổi tệp OTS bằng GroupDocs.Conversion cho .NET
 
 Trong bối cảnh kỹ thuật số ngày nay, việc quản lý nhiều định dạng tài liệu khác nhau là điều cần thiết đối với các doanh nghiệp và nhà phát triển. Cho dù xử lý hóa đơn hay hợp đồng, việc chuyển đổi chúng thành các định dạng được chấp nhận rộng rãi có thể tiết kiệm thời gian và tài nguyên. Hướng dẫn này sẽ hướng dẫn bạn cách tải và chuyển đổi tệp OpenDocument Spreadsheet Text (OTS) bằng thư viện GroupDocs.Conversion mạnh mẽ dành cho .NET.

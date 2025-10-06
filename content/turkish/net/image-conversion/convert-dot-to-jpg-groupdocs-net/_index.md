@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Kullanarak .NET'te DOT Dosyalarını JPG'ye Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/image-conversion/convert-dot-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Kullanarak .NET'te DOT Dosyalarını JPG'ye Dönüştürme: Adım Adım Kılavuz
 ## giriiş
 .NET uygulamalarınızda belge dönüştürmeleriyle mi uğraşıyorsunuz? Microsoft Word Belge Şablonlarını (.dot) resimlere dönüştürmek sık sık yaptığınız bir işse, bu eğitim tam size göre. Kullanacağız **GroupDocs.Conversion .NET için**, dosya dönüştürme görevlerini kolaylaştıran güçlü bir kütüphanedir.

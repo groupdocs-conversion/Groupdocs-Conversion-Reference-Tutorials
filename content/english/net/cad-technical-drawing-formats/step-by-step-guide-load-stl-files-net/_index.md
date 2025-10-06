@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Step-by-Step Guide: Loading & Converting STL Files with .NET
 
 ## Introduction

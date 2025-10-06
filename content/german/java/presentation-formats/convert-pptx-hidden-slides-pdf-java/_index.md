@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie PPTX mit versteckten Folien effizient in PDF in Java mithilfe von GroupDocs.Conversion"
 "url": "/de/java/presentation-formats/convert-pptx-hidden-slides-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Müheloses Konvertieren von PPTX mit versteckten Folien in PDF in Java mit GroupDocs.Conversion
 
 Im digitalen Zeitalter ist die Konvertierung von Präsentationsdokumenten in allgemein zugängliche Formate wie PDF eine häufige Anforderung für Entwickler. Dieses Tutorial führt Sie durch eine effiziente Lösung mit **GroupDocs.Conversion für Java** um PowerPoint-Präsentationen, einschließlich versteckter Folien, in das PDF-Format zu konvertieren.

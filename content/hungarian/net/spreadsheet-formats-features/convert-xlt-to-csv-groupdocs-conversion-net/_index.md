@@ -4,8 +4,8 @@
 "title": "XLT konvertálása CSV-vé a GroupDocs.Conversion használatával .NET-ben – Lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-xlt-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # XLT fájlok CSV formátumba konvertálása a GroupDocs.Conversion használatával .NET-ben: lépésről lépésre útmutató
 
 ## Bevezetés

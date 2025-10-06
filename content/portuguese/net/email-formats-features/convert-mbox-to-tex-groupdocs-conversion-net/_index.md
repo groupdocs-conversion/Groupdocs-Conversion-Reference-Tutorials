@@ -4,8 +4,8 @@
 "title": "Como converter MBOX para TEX usando GroupDocs.Conversion para .NET - Um guia passo a passo"
 "url": "/pt/net/email-formats-features/convert-mbox-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter MBOX para TEX usando GroupDocs.Conversion para .NET: um guia passo a passo
 
 ## Introdução

@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion for .NET
 - CGM to HTML conversion
 - HTML conversion guide
-
+type: docs
 ---
-
-
 # Convert CGM to HTML Easily with GroupDocs.Conversion for .NET
 
 ## Introduction

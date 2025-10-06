@@ -4,8 +4,8 @@
 "title": "การแปลงเอกสารหลักด้วย GroupDocs ใน .NET คำแนะนำที่ครอบคลุม"
 "url": "/th/net/conversion-options-settings/master-document-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # เรียนรู้การแปลงเอกสารด้วย GroupDocs.Conversion .NET: คำแนะนำทีละขั้นตอน
 
 ## การแนะนำ

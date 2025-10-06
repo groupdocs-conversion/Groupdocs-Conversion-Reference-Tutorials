@@ -4,8 +4,8 @@
 "title": "Cómo convertir PPTM a PSD con GroupDocs.Conversion para .NET&#58; una guía completa"
 "url": "/es/net/image-conversion/convert-pptm-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir PPTM a PSD usando GroupDocs.Conversion para .NET
 
 ## Introducción

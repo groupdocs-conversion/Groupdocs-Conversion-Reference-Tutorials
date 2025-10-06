@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके Word को PDF में कनवर्ट करें और टिप्पणियां छिपाएं"
 "url": "/hi/net/pdf-conversion-features/convert-word-to-pdf-hide-comments-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion के साथ Word दस्तावेज़ों को PDF में कनवर्ट करें और टिप्पणियां छिपाएं
 
 ## परिचय

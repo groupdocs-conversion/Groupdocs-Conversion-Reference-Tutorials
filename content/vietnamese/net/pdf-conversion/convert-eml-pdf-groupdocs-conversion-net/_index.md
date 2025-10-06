@@ -4,8 +4,8 @@
 "title": "Chuyển đổi EML sang PDF với GroupDocs.Conversion .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/pdf-conversion/convert-eml-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi EML sang PDF với GroupDocs.Conversion .NET: Hướng dẫn từng bước
 
 ## Giới thiệu

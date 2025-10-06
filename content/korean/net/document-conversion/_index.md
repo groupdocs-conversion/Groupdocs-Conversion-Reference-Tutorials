@@ -5,8 +5,8 @@
 "title": "문서 변환"
 "url": "/ko/net/document-conversion/"
 "weight": 23
+type: docs
 ---
-
 # 문서 변환
 
 ## 소개

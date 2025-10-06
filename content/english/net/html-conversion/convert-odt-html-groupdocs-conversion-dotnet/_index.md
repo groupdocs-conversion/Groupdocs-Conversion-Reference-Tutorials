@@ -8,10 +8,8 @@ keywords:
 - convert ODT to HTML
 - GroupDocs.Conversion for .NET
 - .NET document conversion
-
+type: docs
 ---
-
-
 # How to Convert ODT to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

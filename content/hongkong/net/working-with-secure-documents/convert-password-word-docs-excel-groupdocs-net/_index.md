@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs for .NET 將受密碼保護的 Word 文件轉換為 Excel"
 "url": "/zh-hant/net/working-with-secure-documents/convert-password-word-docs-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs for .NET 將受密碼保護的 Word 文件轉換為 Excel
 
 ## 介紹

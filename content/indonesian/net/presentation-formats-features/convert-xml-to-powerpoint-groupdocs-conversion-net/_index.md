@@ -4,8 +4,8 @@
 "title": "Konversi XML ke PowerPoint Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Langkah demi Langkah"
 "url": "/id/net/presentation-formats-features/convert-xml-to-powerpoint-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi XML ke PowerPoint dengan GroupDocs.Conversion untuk .NET: Panduan Langkah demi Langkah
 ## Perkenalan
 Dalam dunia yang serba cepat dan berbasis data seperti saat ini, mengonversi informasi antarformat yang berbeda secara efisien sangatlah penting. Pengembang sering kali perlu mengubah file XML menjadi presentasi PowerPoint (PPT)—tugas yang memastikan konsistensi data di berbagai platform dan menghemat waktu. Tutorial ini akan memandu Anda menggunakan GroupDocs.Conversion for .NET untuk mengonversi XML ke PPT secara efektif.

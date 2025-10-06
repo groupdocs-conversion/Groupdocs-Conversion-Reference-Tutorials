@@ -4,8 +4,8 @@
 "title": "Jak przekonwertować TXT na PDF z kontrolą spacji końcowej za pomocą Java i GroupDocs.Conversion"
 "url": "/pl/java/conversion-options/convert-txt-pdf-trailing-spaces-java/"
 "weight": 1
+type: docs
 ---
-
 # Jak przekonwertować TXT na PDF z kontrolą spacji końcowej za pomocą Java i GroupDocs.Conversion
 
 W dzisiejszym cyfrowym świecie sprawne przetwarzanie dokumentów tekstowych jest kluczowe zarówno dla firm, jak i osób prywatnych. Konwersja plików tekstowych (TXT) do uniwersalnych formatów PDF przy zachowaniu integralności formatowania może być trudna, szczególnie w przypadku spacji końcowych, które często zakłócają układ. Ten samouczek przeprowadzi Cię przez proces używania GroupDocs.Conversion for Java do skutecznej konwersji plików tekstowych do plików PDF, kontrolując spacje końcowe.

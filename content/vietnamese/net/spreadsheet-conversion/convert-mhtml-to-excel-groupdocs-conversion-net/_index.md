@@ -4,8 +4,8 @@
 "title": "Chuyển đổi MHTML sang Excel bằng GroupDocs.Conversion .NET - Hướng dẫn toàn diện về chuyển đổi bảng tính"
 "url": "/vi/net/spreadsheet-conversion/convert-mhtml-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi MHTML sang Excel bằng GroupDocs.Conversion .NET: Hướng dẫn toàn diện
 
 ## Giới thiệu

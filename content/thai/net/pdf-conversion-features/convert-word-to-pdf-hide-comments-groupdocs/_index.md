@@ -4,8 +4,8 @@
 "title": "แปลง Word เป็น PDF และซ่อนความคิดเห็นโดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/pdf-conversion-features/convert-word-to-pdf-hide-comments-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # แปลงเอกสาร Word เป็น PDF และซ่อนความคิดเห็นด้วย GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

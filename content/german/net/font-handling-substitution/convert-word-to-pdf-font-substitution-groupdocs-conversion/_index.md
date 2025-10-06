@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie Word mit Schriftartenersetzung in PDF mithilfe von GroupDocs.Conversion für .NET"
 "url": "/de/net/font-handling-substitution/convert-word-to-pdf-font-substitution-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie Word-Dokumente mit Schriftartenersetzung in PDF mithilfe von GroupDocs.Conversion für .NET
 ## Einführung
 Die Konvertierung von Word-Dokumenten in PDFs führt oft zu inkonsistenten Schriftarten und damit zu Formatierungsproblemen. Diese Anleitung vereinfacht die Sicherstellung der Schriftkonsistenz mit GroupDocs.Conversion für .NET. Erfahren Sie, wie Sie Ladeoptionen für die Schriftartenersetzung einrichten und Ihre Word-Dokumente nahtlos ins PDF-Format konvertieren, ohne die visuelle Wiedergabetreue zu beeinträchtigen.

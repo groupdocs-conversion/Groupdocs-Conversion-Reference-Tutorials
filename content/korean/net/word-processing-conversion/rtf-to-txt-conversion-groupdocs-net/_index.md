@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용한 RTF-TXT 변환 단계별 가이드"
 "url": "/ko/net/word-processing-conversion/rtf-to-txt-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 RTF를 TXT로 변환: 단계별 가이드
 
 ## 소개

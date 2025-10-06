@@ -4,8 +4,8 @@
 "title": "Ingesloten bestanden uit PDF's verwijderen met GroupDocs.Conversion .NET voor geoptimaliseerd documentbeheer"
 "url": "/nl/net/pdf-conversion-features/remove-embedded-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Ingesloten bestanden uit PDF's verwijderen met GroupDocs.Conversion .NET voor geoptimaliseerd documentbeheer
 
 ## Invoering

@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion .NET
 - Convert DICOM to LaTeX
 - File Conversion in Medical Documentation
-
+type: docs
 ---
-
-
 # Mastering GroupDocs.Conversion .NET: Converting DICOM to LaTeX
 
 ## Introduction

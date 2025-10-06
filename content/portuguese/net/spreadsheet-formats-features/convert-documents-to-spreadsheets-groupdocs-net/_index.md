@@ -4,8 +4,8 @@
 "title": "Conversão eficiente de documento em planilha usando GroupDocs.Conversion para .NET"
 "url": "/pt/net/spreadsheet-formats-features/convert-documents-to-spreadsheets-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Conversão eficiente de documento em planilha usando GroupDocs.Conversion para .NET
 
 ## Introdução

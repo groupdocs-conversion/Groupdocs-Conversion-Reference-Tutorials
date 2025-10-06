@@ -3,8 +3,8 @@
 "title": "Tutorial Konversi Presentasi untuk GroupDocs.Conversion .NET"
 "url": "/id/net/presentation-conversion/"
 "weight": 31
+type: docs
 ---
-
 # Tutorial Konversi Presentasi untuk GroupDocs.Conversion .NET
 
 Tutorial konversi presentasi kami menunjukkan kepada Anda cara mengubah dokumen ke dalam format berbasis slide menggunakan GroupDocs.Conversion dalam .NET. Panduan praktis ini mencakup konversi dari PDF, Word, Excel, gambar, dan format lain ke PPT, PPTX, ODP, dan banyak lagi. Pelajari tentang cara mempertahankan elemen visual, memelihara animasi jika memungkinkan, menangani transisi slide, membuat catatan pembicara, mengelola media yang disematkan, dan mengendalikan tata letak slide selama konversi. Setiap tutorial mencakup contoh kode C# terperinci untuk membuat dokumen presentasi yang secara efektif mewakili konten sumber dalam format yang dirancang untuk dipresentasikan kepada audiens.

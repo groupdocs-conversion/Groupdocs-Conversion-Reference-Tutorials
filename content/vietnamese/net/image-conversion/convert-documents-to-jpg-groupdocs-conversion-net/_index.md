@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tài liệu sang JPG hiệu quả bằng GroupDocs.Conversion cho .NET - Hướng dẫn đầy đủ"
 "url": "/vi/net/image-conversion/convert-documents-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tài liệu hiệu quả sang JPG bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

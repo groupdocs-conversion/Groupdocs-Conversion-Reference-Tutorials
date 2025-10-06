@@ -5,8 +5,8 @@
 "title": "تحويل MD إلى PDF"
 "url": "/ar/net/document-conversion/convert-md-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # تحويل MD إلى PDF
 
 ## مقدمة

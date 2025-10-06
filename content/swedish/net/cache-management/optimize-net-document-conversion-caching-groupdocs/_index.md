@@ -4,8 +4,8 @@
 "title": "Optimera .NET-dokumentkonvertering med cachning med GroupDocs.Conversion"
 "url": "/sv/net/cache-management/optimize-net-document-conversion-caching-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Optimera .NET-dokumentkonvertering med cachning med GroupDocs.Conversion
 
 ## Introduktion

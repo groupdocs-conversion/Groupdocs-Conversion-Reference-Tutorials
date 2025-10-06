@@ -4,8 +4,8 @@
 "title": "GroupDocs ile E-Tabloları PDF'lere Dönüştürün. Java İçin Dönüşüm Kapsamlı Bir Kılavuz"
 "url": "/tr/java/spreadsheet-formats/convert-spreadsheets-to-pdfs-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs ile E-Tabloları PDF'lere Dönüştürün. Java İçin Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

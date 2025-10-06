@@ -4,8 +4,8 @@
 "title": "Zvládnutí textových dokumentů v Javě pomocí GroupDocs.Conversion pro bezproblémové kódování a převod PDF"
 "url": "/cs/java/word-processing-formats/master-text-document-handling-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Zvládnutí práce s textovými dokumenty v Javě pomocí GroupDocs.Conversion
 
 ## Zavedení

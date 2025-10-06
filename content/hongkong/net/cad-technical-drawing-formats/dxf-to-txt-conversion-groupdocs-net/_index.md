@@ -4,8 +4,8 @@
 "title": "使用 .NET 中的 GroupDocs 將 DXF 轉換為 TXT——開發人員指南"
 "url": "/zh-hant/net/cad-technical-drawing-formats/dxf-to-txt-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 在 .NET 中使用 GroupDocs 將 DXF 轉換為 TXT：開發人員指南
 
 ## 介紹

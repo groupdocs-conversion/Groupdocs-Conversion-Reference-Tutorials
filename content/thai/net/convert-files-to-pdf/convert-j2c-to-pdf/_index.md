@@ -5,8 +5,8 @@
 "title": "แปลงรูปภาพที่บีบอัด J2C JPEG-LS เป็น PDF"
 "url": "/th/net/convert-files-to-pdf/convert-j2c-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # แปลงรูปภาพที่บีบอัด J2C JPEG-LS เป็น PDF
 
 ## การแนะนำ

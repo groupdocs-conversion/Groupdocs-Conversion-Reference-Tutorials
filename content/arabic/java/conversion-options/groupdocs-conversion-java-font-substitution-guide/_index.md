@@ -4,8 +4,8 @@
 "title": "استبدال الخطوط في جافا - إتقان GroupDocs.Conversion للحصول على إخراج PDF متسق"
 "url": "/ar/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/"
 "weight": 1
+type: docs
 ---
-
 # إتقان استبدال الخطوط باستخدام GroupDocs.Conversion لـ Java
 
 ## مقدمة

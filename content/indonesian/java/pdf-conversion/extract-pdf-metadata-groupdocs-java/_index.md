@@ -4,8 +4,8 @@
 "title": "Cara Mengekstrak Metadata PDF Menggunakan GroupDocs.Conversion di Java"
 "url": "/id/java/pdf-conversion/extract-pdf-metadata-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengekstrak Metadata PDF Menggunakan GroupDocs.Conversion di Java
 
 ## Perkenalan

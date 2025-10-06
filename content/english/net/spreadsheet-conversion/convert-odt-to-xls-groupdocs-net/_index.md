@@ -8,10 +8,8 @@ keywords:
 - convert ODT to XLS
 - GroupDocs.Conversion .NET
 - spreadsheet conversion
-
+type: docs
 ---
-
-
 # Convert ODT to XLS with GroupDocs.Conversion for .NET - Ultimate Guide
 
 ## Introduction

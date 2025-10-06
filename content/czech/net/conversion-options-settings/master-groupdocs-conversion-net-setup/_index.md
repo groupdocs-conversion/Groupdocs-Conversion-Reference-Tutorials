@@ -4,8 +4,8 @@
 "title": "Nastavení převodu hlavních dokumentů v .NET pomocí GroupDocs.Conversion"
 "url": "/cs/net/conversion-options-settings/master-groupdocs-conversion-net-setup/"
 "weight": 1
+type: docs
 ---
-
 # Nastavení hlavního adresáře pro převod dokumentů pomocí GroupDocs.Conversion .NET
 
 ## Zavedení

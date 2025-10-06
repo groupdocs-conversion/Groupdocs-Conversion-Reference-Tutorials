@@ -5,8 +5,8 @@
 "title": "تحويل رسومات المتجهات CDR إلى PDF"
 "url": "/ar/net/file-conversion-to-pdf/convert-cdr-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # تحويل رسومات المتجهات CDR إلى PDF
 
 ## مقدمة

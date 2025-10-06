@@ -4,8 +4,8 @@
 "title": "Converteer PST-bestanden efficiënt naar Word-documenten met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/word-processing-conversion/convert-pst-to-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efficiënte conversie van PST-bestanden naar Word-documenten met GroupDocs.Conversion voor .NET
 
 ## Invoering

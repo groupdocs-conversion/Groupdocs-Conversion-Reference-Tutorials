@@ -4,8 +4,8 @@
 "title": "Converteer PDF naar TXT met GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/text-file-processing/convert-pdf-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer PDF naar TXT met GroupDocs.Conversion voor .NET
 
 ## Invoering

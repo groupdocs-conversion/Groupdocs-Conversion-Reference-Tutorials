@@ -4,8 +4,8 @@
 "title": "Converter MPP para PDF usando GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/pdf-conversion/convert-mpp-files-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converta arquivos MPP para PDF com GroupDocs.Conversion para .NET
 
 ## Introdução

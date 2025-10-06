@@ -8,10 +8,8 @@ keywords:
 - convert CF2 to JPG
 - GroupDocs.Conversion for .NET
 - CF2 file conversion
-
+type: docs
 ---
-
-
 # Convert CF2 to JPG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

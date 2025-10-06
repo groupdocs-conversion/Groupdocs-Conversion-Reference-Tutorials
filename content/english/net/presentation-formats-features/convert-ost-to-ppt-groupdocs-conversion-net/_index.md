@@ -8,10 +8,8 @@ keywords:
 - convert OST to PPT
 - GroupDocs.Conversion for .NET
 - email data reporting
-
+type: docs
 ---
-
-
 # How to Convert OST Files to PPT Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "DGN konvertálása PSD-vé a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/cad-technical-drawing-formats/convert-dgn-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DGN konvertálása PSD-vé a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

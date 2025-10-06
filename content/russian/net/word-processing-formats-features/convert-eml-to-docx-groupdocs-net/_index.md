@@ -4,8 +4,8 @@
 "title": "Конвертируйте EML в DOCX в .NET с помощью GroupDocs.Conversion&#58; Подробное руководство"
 "url": "/ru/net/word-processing-formats-features/convert-eml-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте EML в DOCX с помощью GroupDocs.Conversion для .NET
 
 ## Введение

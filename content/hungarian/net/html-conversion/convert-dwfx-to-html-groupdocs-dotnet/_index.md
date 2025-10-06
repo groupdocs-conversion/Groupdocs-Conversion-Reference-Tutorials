@@ -4,8 +4,8 @@
 "title": "DWFX fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/html-conversion/convert-dwfx-to-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # DWFX fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

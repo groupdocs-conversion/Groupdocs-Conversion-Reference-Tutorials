@@ -4,8 +4,8 @@
 "title": "Como configurar um caminho de diretório de saída com GroupDocs.Conversion para .NET"
 "url": "/pt/net/document-output-saving/groupdocs-conversion-setup-output-directory-net/"
 "weight": 1
+type: docs
 ---
-
 # Como configurar um caminho de diretório de saída usando GroupDocs.Conversion para .NET
 
 ## Introdução

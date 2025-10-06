@@ -4,8 +4,8 @@
 "title": "Como converter arquivos IGS para PPTX usando GroupDocs.Conversion para .NET - Um guia passo a passo"
 "url": "/pt/net/presentation-formats-features/convert-igs-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter arquivos IGS para PPTX usando o GroupDocs.Conversion para .NET: um guia passo a passo
 
 ## Introdução

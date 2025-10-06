@@ -4,8 +4,8 @@
 "title": "Πλήρης οδηγός για τη μετατροπή XLT σε PNG χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/image-conversion/xlt-to-png-conversion-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # Πλήρης οδηγός για τη μετατροπή XLT σε PNG χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

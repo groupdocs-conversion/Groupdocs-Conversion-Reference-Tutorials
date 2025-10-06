@@ -4,8 +4,8 @@
 "title": "تحميل ملفات DGN في .NET باستخدام GroupDocs.Conversion"
 "url": "/ar/net/cad-technical-drawing-formats/load-dgn-file-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحميل ملف DGN باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

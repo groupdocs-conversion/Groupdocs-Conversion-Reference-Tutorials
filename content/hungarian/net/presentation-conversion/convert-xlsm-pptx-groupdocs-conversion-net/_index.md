@@ -4,8 +4,8 @@
 "title": "XLSM hatékony PPTX formátumba konvertálása a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/presentation-conversion/convert-xlsm-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # XLSM fájlok hatékony PPTX formátumba konvertálása a .NET-hez készült GroupDocs.Conversion segítségével: Átfogó útmutató
 
 ## Bevezetés

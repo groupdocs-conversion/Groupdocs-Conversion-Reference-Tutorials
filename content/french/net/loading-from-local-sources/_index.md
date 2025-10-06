@@ -3,8 +3,8 @@
 "title": "Chargement de documents à partir de sources locales &#58; tutoriels pour GroupDocs.Conversion .NET"
 "url": "/fr/net/loading-from-local-sources/"
 "weight": 2
+type: docs
 ---
-
 # Chargement de documents à partir de sources locales : tutoriels pour GroupDocs.Conversion .NET
 
 Nos tutoriels de chargement de documents locaux fournissent des conseils complets pour travailler avec des documents stockés sur votre système local dans des applications .NET. Suivez ces guides étape par étape pour apprendre à charger des documents à partir de chemins d'accès au système de fichiers et de flux mémoire. Ces tutoriels abordent divers scénarios, notamment les chemins relatifs et absolus, la gestion des flux et les techniques d'optimisation de la mémoire. Chaque guide inclut des exemples de code C# complets pour des scénarios de chargement de documents locaux, vous aidant à créer des applications capables d'accéder efficacement au contenu de votre système de fichiers ou de votre mémoire.

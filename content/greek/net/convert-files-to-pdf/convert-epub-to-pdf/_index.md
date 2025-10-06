@@ -5,8 +5,8 @@
 "title": "Μετατροπή ηλεκτρονικών βιβλίων EPUB σε PDF"
 "url": "/el/net/convert-files-to-pdf/convert-epub-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # Μετατροπή ηλεκτρονικών βιβλίων EPUB σε PDF
 
 ## Εισαγωγή

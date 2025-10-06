@@ -4,8 +4,8 @@
 "title": "Como converter arquivos STL para HTML usando GroupDocs.Conversion para .NET - Um guia passo a passo"
 "url": "/pt/net/html-conversion/convert-stl-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Como converter arquivos STL para HTML usando GroupDocs.Conversion para .NET
 
 ## Introdução

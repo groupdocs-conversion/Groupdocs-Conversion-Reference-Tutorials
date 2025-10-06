@@ -4,8 +4,8 @@
 "title": "Opanowanie konwersji plików w języku C# przy użyciu GroupDocs.Conversion dla .NET"
 "url": "/pl/net/document-output-saving/mastering-file-conversion-csharp-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Opanowanie konwersji plików w języku C#: implementacja GroupDocs.Conversion dla .NET
 
 ## Wstęp

@@ -4,8 +4,8 @@
 "title": "Master File Conversion - VST konvertálása PPT-vé a GroupDocs.Conversion .NET könyvtár használatával"
 "url": "/hu/net/presentation-conversion/convert-vst-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Master File Conversion: VST konvertálása PPT-vé a GroupDocs.Conversion .NET Library használatával
 
 ## Bevezetés

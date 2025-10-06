@@ -5,8 +5,8 @@
 "title": "VSSMをPDFに変換する"
 "url": "/ja/net/converting-file-types-to-pdf/convert-vssm-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # VSSMをPDFに変換する
 
 ## 導入

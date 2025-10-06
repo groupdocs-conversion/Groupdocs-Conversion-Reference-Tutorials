@@ -4,8 +4,8 @@
 "title": "Chuyển đổi DOT sang DOC bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/word-processing-formats-features/dot-to-doc-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi DOT sang DOC bằng GroupDocs.Conversion cho .NET: Hướng dẫn toàn diện
 ## Giới thiệu
 Việc chuyển đổi các tệp sơ đồ phức tạp từ định dạng DOT sang tài liệu Word có thể chỉnh sửa có thể là một thách thức nếu không có đúng công cụ. **GroupDocs.Chuyển đổi** .NET giúp đơn giản hóa việc chuyển đổi tài liệu sang nhiều định dạng khác nhau một cách liền mạch.

@@ -8,10 +8,8 @@ keywords:
 - Convert Visio to PowerPoint
 - GroupDocs.Conversion for .NET
 - VSSX to PPTX conversion
-
+type: docs
 ---
-
-
 # How to Convert Visio Stencil Files (VSSX) to PowerPoint Presentations Using GroupDocs.Conversion for .NET
 
 ## Introduction

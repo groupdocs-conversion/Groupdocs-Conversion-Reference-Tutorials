@@ -5,8 +5,8 @@
 "title": "PSD naar PDF converteren"
 "url": "/nl/net/file-format-conversion-tutorials/convert-psd-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # PSD naar PDF converteren
 
 ## Invoering

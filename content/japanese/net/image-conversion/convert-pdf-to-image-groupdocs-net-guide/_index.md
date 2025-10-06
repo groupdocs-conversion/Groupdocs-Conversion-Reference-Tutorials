@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET を使って PDF を画像に変換する方法 包括的なガイド"
 "url": "/ja/net/image-conversion/convert-pdf-to-image-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET を使用して PDF を画像に変換する: 包括的なガイド
 
 ## 導入

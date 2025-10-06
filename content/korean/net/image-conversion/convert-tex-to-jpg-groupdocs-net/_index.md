@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 LaTeX(TEX)를 JPG로 효율적으로 변환"
 "url": "/ko/net/image-conversion/convert-tex-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 LaTeX(TEX)를 JPG로 효율적으로 변환
 
 ## 소개

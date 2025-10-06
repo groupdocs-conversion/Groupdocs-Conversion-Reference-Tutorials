@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 有效地將 PST 轉換為 PSD——開發人員指南"
 "url": "/zh-hant/net/storage-files-pst-processing/convert-pst-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 有效率地將 PST 轉換為 PSD
 
 ## 介紹

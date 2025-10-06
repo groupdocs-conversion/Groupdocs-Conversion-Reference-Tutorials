@@ -8,10 +8,8 @@ keywords:
 - convert POTM to PSD
 - GroupDocs.Conversion for .NET
 - POTM to PSD conversion
-
+type: docs
 ---
-
-
 # Convert POTM to PSD Format Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Převod e-mailů do PDF v .NET pomocí GroupDocs.Conversion – Průvodce pro vývojáře"
 "url": "/cs/net/pdf-conversion/convert-email-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod e-mailů do PDF v .NET pomocí GroupDocs.Conversion
 
 ## Zavedení

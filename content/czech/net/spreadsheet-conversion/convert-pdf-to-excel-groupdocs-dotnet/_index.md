@@ -4,8 +4,8 @@
 "title": "Převod PDF do Excelu pomocí GroupDocs.Conversion pro .NET - Komplexní průvodce"
 "url": "/cs/net/spreadsheet-conversion/convert-pdf-to-excel-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod PDF do Excelu pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

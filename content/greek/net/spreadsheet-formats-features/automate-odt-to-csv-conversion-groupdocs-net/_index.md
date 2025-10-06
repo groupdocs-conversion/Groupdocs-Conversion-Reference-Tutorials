@@ -4,8 +4,8 @@
 "title": "Αυτοματοποίηση μετατροπής ODT σε CSV χρησιμοποιώντας το GroupDocs για .NET™ - Οδηγός βήμα προς βήμα"
 "url": "/el/net/spreadsheet-formats-features/automate-odt-to-csv-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Αυτοματοποιήστε τη μετατροπή ODT σε CSV χρησιμοποιώντας το GroupDocs για .NET
 
 ## Εισαγωγή

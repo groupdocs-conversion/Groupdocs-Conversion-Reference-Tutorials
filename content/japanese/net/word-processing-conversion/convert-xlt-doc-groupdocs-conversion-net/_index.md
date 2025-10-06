@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して XLT を DOC に変換する包括的なガイド"
 "url": "/ja/net/word-processing-conversion/convert-xlt-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して XLT を DOC に変換する
 
 ## 導入

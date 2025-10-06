@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 掌握 BMP 到 TEX 的轉換"
 "url": "/zh-hant/net/image-conversion/convert-bmp-to-tex-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 掌握 BMP 到 TEX 的轉換
 
 **釋放文件轉換的強大功能：輕鬆將 BMP 影像轉換為 TEX 格式**

@@ -5,8 +5,8 @@
 "title": "將XLAM轉換為PDF"
 "url": "/zh-hant/net/converting-file-types-to-pdf/convert-xlam-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # 將XLAM轉換為PDF
 
 ## 介紹

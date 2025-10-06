@@ -4,8 +4,8 @@
 "title": "Převod TSV do CSV pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/spreadsheet-formats-features/convert-tsv-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod TSV do CSV pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "تحويل ODS إلى PPT باستخدام GroupDocs.Conversion .NET - دليل خطوة بخطوة"
 "url": "/ar/net/presentation-conversion/convert-ods-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ODS إلى PPT باستخدام GroupDocs.Conversion .NET: دليل خطوة بخطوة
 ## مقدمة
 يُعد تحويل ملف جدول بيانات مفتوح المصدر (ODS) إلى تنسيق عرض تقديمي باوربوينت (PPT) أمرًا ضروريًا عند الحاجة إلى عرض البيانات بصريًا أو إعداد جداول البيانات للاجتماعات. سيرشدك هذا الدليل إلى كيفية استخدام GroupDocs.Conversion .NET لإجراء هذا التحويل بسلاسة.

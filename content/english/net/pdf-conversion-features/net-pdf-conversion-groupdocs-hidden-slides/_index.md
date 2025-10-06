@@ -8,10 +8,8 @@ keywords:
 - .NET PDF conversion
 - GroupDocs.Conversion for .NET
 - convert presentations including hidden slides
-
+type: docs
 ---
-
-
 # Master .NET PDF Conversion with Hidden Slides Using GroupDocs.Conversion
 
 ## Introduction

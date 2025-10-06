@@ -4,8 +4,8 @@
 "title": "Convertire IFC in XLS utilizzando GroupDocs.Conversion per .NET&#58; una guida passo passo"
 "url": "/it/net/spreadsheet-conversion/convert-ifc-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire i file IFC in XLS utilizzando GroupDocs.Conversion per .NET: una guida passo passo
 
 ## Introduzione

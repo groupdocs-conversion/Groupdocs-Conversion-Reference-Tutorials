@@ -4,8 +4,8 @@
 "title": "Konwertuj dokumenty ze strumieni w Javie za pomocą GroupDocs.Conversion"
 "url": "/pl/java/document-operations/convert-documents-streams-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj dokumenty ze strumieni w Javie za pomocą GroupDocs.Conversion
 
 ## Wstęp

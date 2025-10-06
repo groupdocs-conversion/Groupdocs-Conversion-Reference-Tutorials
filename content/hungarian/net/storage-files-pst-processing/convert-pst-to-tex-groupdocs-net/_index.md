@@ -4,8 +4,8 @@
 "title": "Hogyan konvertálhat Outlook PST-t TEX-be a GroupDocs.Conversion .NET használatával"
 "url": "/hu/net/storage-files-pst-processing/convert-pst-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhat Outlook PST-t TEX-be a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

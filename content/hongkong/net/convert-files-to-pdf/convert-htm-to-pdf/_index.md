@@ -5,8 +5,8 @@
 "title": "將 HTM 網頁轉換為 PDF"
 "url": "/zh-hant/net/convert-files-to-pdf/convert-htm-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # 將 HTM 網頁轉換為 PDF
 
 ## 介紹

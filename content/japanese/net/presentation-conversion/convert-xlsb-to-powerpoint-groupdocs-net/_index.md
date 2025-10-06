@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET を使用して XLSB を PowerPoint に変換する手順"
 "url": "/ja/net/presentation-conversion/convert-xlsb-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET を使用して XLSB を PowerPoint に変換する方法
 
 ## 導入

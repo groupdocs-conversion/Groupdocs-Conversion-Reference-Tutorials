@@ -4,8 +4,8 @@
 "title": "PPTM DOC-ba konvertálása .NET-ben a GroupDocs.Conversion használatával"
 "url": "/hu/net/word-processing-conversion/convert-pptm-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PPTM DOC-ba konvertálása .NET-ben a GroupDocs.Conversion használatával
 
 ## Bevezetés

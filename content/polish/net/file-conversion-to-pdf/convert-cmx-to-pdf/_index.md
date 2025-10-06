@@ -5,8 +5,8 @@
 "title": "Konwertuj CMX do PDF"
 "url": "/pl/net/file-conversion-to-pdf/convert-cmx-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # Konwertuj CMX do PDF
 
 ## Wstęp

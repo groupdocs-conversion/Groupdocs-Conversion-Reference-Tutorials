@@ -4,8 +4,8 @@
 "title": "Convertir un fichier EPUB en TEX à l'aide de GroupDocs.Conversion pour .NET &#58; un guide étape par étape"
 "url": "/fr/net/text-markup-conversion/convert-epub-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir un fichier EPUB en TEX avec GroupDocs.Conversion pour .NET : guide étape par étape
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Hur man konverterar lösenordsskyddade Word-dokument till HTML med hjälp av Java (steg-för-steg-guide)"
 "url": "/sv/java/word-processing-formats/convert-password-protected-word-to-html-java/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar lösenordsskyddade Word-dokument till HTML med hjälp av Java
 
 ## Introduktion

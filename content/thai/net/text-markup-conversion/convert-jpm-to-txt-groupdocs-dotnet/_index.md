@@ -4,8 +4,8 @@
 "title": "แปลง JPM เป็น TXT ใน C# โดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/text-markup-conversion/convert-jpm-to-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # แปลง JPM เป็น TXT ใน C# โดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

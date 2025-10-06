@@ -4,8 +4,8 @@
 "title": "Lépésről lépésre útmutató&#58; JPF konvertálása PSD-vé a GroupDocs.Conversion használatával .NET-ben"
 "url": "/hu/net/image-formats-features/convert-jpf-to-psd-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Lépésről lépésre útmutató: JPF konvertálása PSD-vé a GroupDocs.Conversion használatával .NET-ben
 
 **JPF képek hatékony konvertálása PSD formátumba a GroupDocs.Conversion for .NET segítségével**

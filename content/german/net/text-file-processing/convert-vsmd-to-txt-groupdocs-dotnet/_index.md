@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie VSDM in TXT mit GroupDocs.Conversion .NET – Umfassende Anleitung"
 "url": "/de/net/text-file-processing/convert-vsmd-to-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie VSDM in TXT mit GroupDocs.Conversion .NET
 
 ## Einführung

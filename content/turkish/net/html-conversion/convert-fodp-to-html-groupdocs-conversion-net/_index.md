@@ -4,8 +4,8 @@
 "title": "FODP'yi .NET için GroupDocs.Conversion Kullanarak HTML'ye Dönüştürme - Tam Kılavuz"
 "url": "/tr/net/html-conversion/convert-fodp-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # FODP'yi .NET için GroupDocs.Conversion Kullanarak HTML'ye Dönüştürme
 
 ## giriiş

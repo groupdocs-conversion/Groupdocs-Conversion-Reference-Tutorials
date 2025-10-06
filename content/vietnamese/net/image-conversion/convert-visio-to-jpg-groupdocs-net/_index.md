@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tệp Visio sang JPG bằng GroupDocs.Conversion cho .NET - Hướng dẫn từng bước"
 "url": "/vi/net/image-conversion/convert-visio-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp Visio sang JPG bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "Naplófájlok hatékony konvertálása PowerPoint formátumba a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/presentation-conversion/convert-log-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Naplófájlok hatékony konvertálása PowerPoint formátumba a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

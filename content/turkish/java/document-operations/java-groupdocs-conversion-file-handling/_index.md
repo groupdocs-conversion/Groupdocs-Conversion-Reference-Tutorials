@@ -4,8 +4,8 @@
 "title": "Java'da Ana Dosya Dönüşümü - GroupDocs.Conversion Kullanımına İlişkin Kapsamlı Bir Kılavuz"
 "url": "/tr/java/document-operations/java-groupdocs-conversion-file-handling/"
 "weight": 1
+type: docs
 ---
-
 # Java'da Dosya Dönüştürmede Ustalaşma: GroupDocs.Conversion Kullanımına İlişkin Kapsamlı Bir Kılavuz
 
 ## giriiş

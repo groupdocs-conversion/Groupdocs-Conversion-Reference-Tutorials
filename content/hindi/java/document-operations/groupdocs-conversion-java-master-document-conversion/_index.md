@@ -4,8 +4,8 @@
 "title": "मास्टर GroupDocs.Conversion Java&#58; Java अनुप्रयोगों में दस्तावेज़ रूपांतरण के लिए व्यापक गाइड"
 "url": "/hi/java/document-operations/groupdocs-conversion-java-master-document-conversion/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion में महारत हासिल करना Java: दस्तावेज़ रूपांतरण क्षमताओं को अनलॉक करें
 
 ## परिचय

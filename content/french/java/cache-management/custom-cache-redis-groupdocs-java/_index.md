@@ -4,8 +4,8 @@
 "title": "Comment implémenter une mise en cache personnalisée en Java avec Redis et GroupDocs.Conversion"
 "url": "/fr/java/cache-management/custom-cache-redis-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Comment implémenter une mise en cache personnalisée en Java avec Redis et GroupDocs.Conversion
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - Convert DXF to HTML
 - GroupDocs.Conversion for .NET
 - DXF to HTML conversion
-
+type: docs
 ---
-
-
 # Convert DXF to HTML Efficiently with GroupDocs.Conversion for .NET
 
 ## Introduction

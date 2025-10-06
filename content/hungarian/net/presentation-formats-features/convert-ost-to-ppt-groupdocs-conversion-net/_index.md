@@ -4,8 +4,8 @@
 "title": "OST fájlok PPT formátumba konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/presentation-formats-features/convert-ost-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OST fájlok PPT formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

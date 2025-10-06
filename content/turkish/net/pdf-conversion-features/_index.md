@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET için PDF Dönüştürme ve Özellikler Eğitimleri"
 "url": "/tr/net/pdf-conversion-features/"
 "weight": 9
+type: docs
 ---
-
 # GroupDocs.Conversion .NET için PDF Dönüştürme ve Özellikler Eğitimleri
 
 PDF odaklı eğitimlerimiz, .NET uygulamalarında PDF belgeleriyle çalışmak için kapsamlı rehberlik sağlar. Bu pratik kılavuzlar, çeşitli biçimleri PDF'ye dönüştürme, PDF'leri diğer biçimlere dönüştürme, form alanlarını düzleştirme, açıklamaları gizleme, gömülü dosyaları kaldırma, PDF sıkıştırma ayarlarını optimize etme, PDF/A uyumluluğunu kontrol etme, belge izinlerini yönetme ve dönüştürme sırasında köprü metinlerini koruma yöntemlerini gösterir. Her eğitim, PDF dönüştürme senaryoları için eksiksiz C# kod örnekleri içerir ve belge sadakatini korurken PDF biçiminin tüm yetenek setinden yararlanan uygulamalar oluşturmanıza yardımcı olur.

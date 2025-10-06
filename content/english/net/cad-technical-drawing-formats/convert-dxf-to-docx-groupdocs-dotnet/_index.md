@@ -8,10 +8,8 @@ keywords:
 - Convert DXF to DOCX
 - GroupDocs.Conversion for .NET
 - CAD file conversion
-
+type: docs
 ---
-
-
 # Step-by-Step Guide: Convert DXF to DOCX Using GroupDocs.Conversion for .NET
 
 ## Introduction

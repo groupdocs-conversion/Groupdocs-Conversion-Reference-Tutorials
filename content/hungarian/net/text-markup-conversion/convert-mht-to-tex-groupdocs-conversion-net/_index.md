@@ -4,8 +4,8 @@
 "title": "MHT konvertálása TEX-re a GroupDocs.Conversion .NET használatával - Átfogó útmutató"
 "url": "/hu/net/text-markup-conversion/convert-mht-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MHT konvertálása TEX-re a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

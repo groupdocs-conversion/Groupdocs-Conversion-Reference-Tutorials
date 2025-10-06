@@ -4,8 +4,8 @@
 "title": "Converter PowerPoint para CSV usando GroupDocs.Conversion para .NET - Um guia passo a passo"
 "url": "/pt/net/spreadsheet-formats-features/convert-powerpoint-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converter PowerPoint para CSV usando GroupDocs.Conversion para .NET: um guia passo a passo
 
 ## Introdução

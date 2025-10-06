@@ -4,8 +4,8 @@
 "title": "Java-documentconversie met aangepaste lettertypen met behulp van GroupDocs.Conversion"
 "url": "/nl/java/conversion-options/java-conversion-custom-fonts-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Java-documentconversie met aangepaste lettertypen met behulp van GroupDocs.Conversion
 
 In de digitale wereld van vandaag is het cruciaal om documenten te converteren met behoud van hun oorspronkelijke ontwerp en lay-out. Of u nu een presentatie voor een klant voorbereidt of belangrijke bestanden archiveert, het kan een uitdaging zijn om ervoor te zorgen dat lettertypen consistent zijn op alle platforms. Deze tutorial begeleidt u bij het gebruik van GroupDocs.Conversion voor Java om presentaties te converteren naar pdf's met aangepaste lettertypevervangingen, waardoor de visuele integriteit gedurende het hele proces gewaarborgd blijft.

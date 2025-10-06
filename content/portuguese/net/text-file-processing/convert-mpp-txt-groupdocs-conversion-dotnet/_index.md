@@ -4,8 +4,8 @@
 "title": "Domine a conversão de MPP para TXT com o GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/text-file-processing/convert-mpp-txt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Dominando a conversão de arquivos do Microsoft Project: usando GroupDocs.Conversion para .NET
 
 ## Introdução

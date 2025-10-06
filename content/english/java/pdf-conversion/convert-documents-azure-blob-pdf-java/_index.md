@@ -8,10 +8,8 @@ keywords:
 - convert documents from Azure Blob to PDF
 - Azure SDK for Java
 - GroupDocs.Conversion for Java
-
+type: docs
 ---
-
-
 # How to Download and Convert Documents from Azure Blob Storage to PDF Using GroupDocs.Conversion for Java
 
 ## Introduction

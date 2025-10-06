@@ -4,8 +4,8 @@
 "title": "Konversi PLT ke PSD secara efisien menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/cad-technical-drawing-formats/convert-plt-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi Efisien File PLT ke PSD Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

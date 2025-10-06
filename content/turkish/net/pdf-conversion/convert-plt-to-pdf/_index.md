@@ -5,8 +5,8 @@
 "title": "PLT'yi PDF'ye dönüştür"
 "url": "/tr/net/pdf-conversion/convert-plt-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # PLT'yi PDF'ye dönüştür
 
 ## giriiş

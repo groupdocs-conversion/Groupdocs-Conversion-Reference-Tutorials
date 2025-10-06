@@ -8,10 +8,8 @@ keywords:
 - convert XLS to PNG
 - GroupDocs.Conversion for .NET
 - XLS to image conversion
-
+type: docs
 ---
-
-
 # Convert XLS to PNG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

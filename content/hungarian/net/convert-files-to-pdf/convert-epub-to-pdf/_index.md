@@ -5,8 +5,8 @@
 "title": "EPUB e-könyvek konvertálása PDF-be"
 "url": "/hu/net/convert-files-to-pdf/convert-epub-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # EPUB e-könyvek konvertálása PDF-be
 
 ## Bevezetés

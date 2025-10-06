@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion लाइब्रेरी के साथ मास्टर .NET ईमेल अनुलग्नक रूपांतरण एक व्यापक गाइड"
 "url": "/hi/net/email-formats-features/net-email-attachment-conversion-groupdocs-guide/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion लाइब्रेरी के साथ मास्टर .NET ईमेल अनुलग्नक रूपांतरण
 
 ## परिचय

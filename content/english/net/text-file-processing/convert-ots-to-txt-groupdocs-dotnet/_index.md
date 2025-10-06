@@ -8,10 +8,8 @@ keywords:
 - convert OTS to TXT
 - GroupDocs.Conversion for .NET
 - file conversion API
-
+type: docs
 ---
-
-
 # How to Convert OTS Files to TXT Using GroupDocs.Conversion for .NET
 
 ## Introduction

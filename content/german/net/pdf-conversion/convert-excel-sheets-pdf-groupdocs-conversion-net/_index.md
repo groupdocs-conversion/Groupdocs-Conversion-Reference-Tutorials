@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie bestimmte Excel-Tabellen in PDF mit GroupDocs.Conversion für .NET | Einfache Schritt-für-Schritt-Anleitung"
 "url": "/de/net/pdf-conversion/convert-excel-sheets-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie bestimmte Excel-Tabellen mit GroupDocs.Conversion für .NET in PDF
 
 ## Einführung

@@ -4,8 +4,8 @@
 "title": "MHT konvertálása DOCX-be a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/word-processing-formats-features/convert-mht-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MHT konvertálása DOCX-be a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

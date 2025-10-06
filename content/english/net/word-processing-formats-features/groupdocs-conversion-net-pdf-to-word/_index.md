@@ -8,10 +8,8 @@ keywords:
 - convert PDF pages to Word
 - GroupDocs.Conversion for .NET
 - PDF to ODT conversion
-
+type: docs
 ---
-
-
 # Convert PDF Pages to Word Using GroupDocs.Conversion .NET: A Step-by-Step Guide
 
 ## Introduction

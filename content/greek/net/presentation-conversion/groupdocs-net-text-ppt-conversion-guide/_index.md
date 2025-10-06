@@ -4,8 +4,8 @@
 "title": "Master Μετατροπή Κειμένου σε Παρουσίαση με το GroupDocs σε .NET™ Ένας Πλήρης Οδηγός"
 "url": "/el/net/presentation-conversion/groupdocs-net-text-ppt-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή Κειμένου σε Παρουσίαση Master με το GroupDocs σε .NET
 
 ## Εισαγωγή

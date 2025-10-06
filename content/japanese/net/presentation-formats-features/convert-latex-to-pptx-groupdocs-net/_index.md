@@ -4,8 +4,8 @@
 "title": ".NETでGroupDocs.Conversionを使用してLaTeXファイルをPPTXに変換する方法"
 "url": "/ja/net/presentation-formats-features/convert-latex-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NETでGroupDocs.Conversionを使用してLaTeXファイルをPPTXに変換する方法
 
 ## 導入

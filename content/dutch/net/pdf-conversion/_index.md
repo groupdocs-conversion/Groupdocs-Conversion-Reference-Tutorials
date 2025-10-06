@@ -5,8 +5,8 @@
 "title": "PDF-conversie"
 "url": "/nl/net/pdf-conversion/"
 "weight": 25
+type: docs
 ---
-
 # PDF-conversie
 
 ## Invoering

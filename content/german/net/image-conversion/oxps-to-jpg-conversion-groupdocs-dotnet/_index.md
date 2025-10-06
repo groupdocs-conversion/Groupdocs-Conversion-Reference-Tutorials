@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie OXPS in JPG in C# mit GroupDocs.Conversion für .NET – Ein umfassender Leitfaden"
 "url": "/de/net/image-conversion/oxps-to-jpg-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie OXPS in JPG in C# mit GroupDocs.Conversion für .NET: Ein umfassender Leitfaden
 
 ## Einführung

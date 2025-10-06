@@ -3,8 +3,8 @@
 "title": "Tutorial Format dan Fitur Presentasi untuk GroupDocs.Conversion .NET"
 "url": "/id/net/presentation-formats-features/"
 "weight": 12
+type: docs
 ---
-
 # Tutorial Format dan Fitur Presentasi untuk GroupDocs.Conversion .NET
 
 Tutorial kami yang berfokus pada presentasi menunjukkan kepada Anda cara bekerja dengan dokumen berbasis slide menggunakan GroupDocs.Conversion dalam .NET. Panduan praktis ini membahas cara mengonversi antara format PowerPoint, menyembunyikan komentar selama konversi, menyertakan atau mengecualikan slide tersembunyi, menentukan opsi substitusi font, mempertahankan animasi dan transisi, memelihara catatan pembicara, menangani media tertanam, dan memastikan konsistensi tata letak di berbagai format presentasi. Setiap tutorial menyertakan contoh kode C# terperinci untuk skenario konversi presentasi, membantu Anda membangun aplikasi yang menghasilkan konversi berkualitas tinggi dengan elemen visual dan fitur interaktif yang dipertahankan.

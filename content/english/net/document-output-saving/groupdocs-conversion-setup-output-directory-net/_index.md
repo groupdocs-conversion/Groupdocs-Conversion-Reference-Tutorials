@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion for .NET
 - output directory path .NET
 - file conversion paths .NET
-
+type: docs
 ---
-
-
 # How to Set Up an Output Directory Path Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": ".NET Geliştiricileri için GroupDocs.Conversion'ı Kullanarak OTS'yi CSV'ye Verimli Şekilde Dönüştürün"
 "url": "/tr/net/spreadsheet-formats-features/convert-ots-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET Geliştiricileri için GroupDocs.Conversion'ı Kullanarak OTS'yi CSV'ye Verimli Şekilde Dönüştürün
 
 ## giriiş

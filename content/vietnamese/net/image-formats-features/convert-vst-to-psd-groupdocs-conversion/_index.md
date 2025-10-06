@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi tệp VST sang PSD bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/image-formats-features/convert-vst-to-psd-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp VST sang PSD bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

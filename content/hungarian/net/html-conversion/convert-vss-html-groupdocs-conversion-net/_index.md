@@ -4,8 +4,8 @@
 "title": "VSS fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával (2023-as útmutató)"
 "url": "/hu/net/html-conversion/convert-vss-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VSS fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával (2023-as útmutató)
 
 ## Bevezetés

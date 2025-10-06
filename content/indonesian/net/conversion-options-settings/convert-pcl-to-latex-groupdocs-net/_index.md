@@ -4,8 +4,8 @@
 "title": "Konversi PCL ke LaTeX (TEX) Menggunakan GroupDocs.Conversion di .NET"
 "url": "/id/net/conversion-options-settings/convert-pcl-to-latex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi PCL ke LaTeX (TEX) Menggunakan GroupDocs.Conversion di .NET
 
 ## Perkenalan

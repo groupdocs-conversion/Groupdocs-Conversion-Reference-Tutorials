@@ -4,8 +4,8 @@
 "title": "Jak převést ICO do DOC pomocí GroupDocs.Conversion pro .NET | Komplexní průvodce"
 "url": "/cs/net/word-processing-conversion/convert-ico-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést ICO do DOC pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

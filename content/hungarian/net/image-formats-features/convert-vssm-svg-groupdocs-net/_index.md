@@ -4,8 +4,8 @@
 "title": "VSSM hatékony SVG-vé konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-formats-features/convert-vssm-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # VSSM hatékony SVG-vé konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

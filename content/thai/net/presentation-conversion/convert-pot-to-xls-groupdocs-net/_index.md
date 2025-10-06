@@ -4,8 +4,8 @@
 "title": "แปลง PowerPoint POT เป็น Excel XLS โดยใช้ GroupDocs.Conversion .NET"
 "url": "/th/net/presentation-conversion/convert-pot-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลง PowerPoint POT เป็น Excel XLS ด้วย GroupDocs.Conversion .NET
 
 ## การแนะนำ

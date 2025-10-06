@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して StarOffice Calc (SXC) を Photoshop (PSD) に変換する"
 "url": "/ja/net/image-conversion/convert-sxc-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して、StarOffice Calc スプレッドシート (SXC) を Adobe Photoshop ドキュメント (PSD) に変換します。
 
 ## 導入

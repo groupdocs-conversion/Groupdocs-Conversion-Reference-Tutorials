@@ -4,8 +4,8 @@
 "title": "Como converter documentos do Word protegidos por senha em planilhas do Excel usando o GroupDocs.Conversion para Java"
 "url": "/pt/java/spreadsheet-formats/convert-password-docs-to-spreadsheets-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Como converter documentos protegidos por senha usando GroupDocs.Conversion para Java
 
 ## Introdução

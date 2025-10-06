@@ -4,8 +4,8 @@
 "title": "Panduan Langkah demi Langkah Konversi JLS ke PPT Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/presentation-formats-features/convert-jls-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi JLS ke PPT: Panduan Langkah demi Langkah Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

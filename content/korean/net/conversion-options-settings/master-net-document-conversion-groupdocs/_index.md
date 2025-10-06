@@ -4,8 +4,8 @@
 "title": ".NET 문서 변환 마스터리&#58; GroupDocs를 활용하여 원활한 PDF 변환"
 "url": "/ko/net/conversion-options-settings/master-net-document-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용하여 .NET에서 문서 변환 마스터하기
 
 ## 소개

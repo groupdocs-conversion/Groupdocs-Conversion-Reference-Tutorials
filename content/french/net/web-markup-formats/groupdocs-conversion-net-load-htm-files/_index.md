@@ -4,8 +4,8 @@
 "title": "Charger et convertir des fichiers HTML à l'aide de GroupDocs.Conversion .NET - Guide étape par étape"
 "url": "/fr/net/web-markup-formats/groupdocs-conversion-net-load-htm-files/"
 "weight": 1
+type: docs
 ---
-
 # Comment charger et convertir un fichier HTML à l'aide de GroupDocs.Conversion .NET
 
 ## Introduction

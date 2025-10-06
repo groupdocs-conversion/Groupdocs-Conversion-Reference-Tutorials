@@ -5,8 +5,8 @@
 "title": "Chuyển đổi tệp DXF CAD Drawing Exchange sang PDF"
 "url": "/vi/net/convert-files-to-pdf/convert-dxf-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # Chuyển đổi tệp DXF CAD Drawing Exchange sang PDF
 
 ## Giới thiệu

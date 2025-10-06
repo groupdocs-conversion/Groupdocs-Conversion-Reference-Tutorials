@@ -4,8 +4,8 @@
 "title": "HTML naar PowerPoint converteren met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/presentation-conversion/convert-html-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # HTML naar PowerPoint converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

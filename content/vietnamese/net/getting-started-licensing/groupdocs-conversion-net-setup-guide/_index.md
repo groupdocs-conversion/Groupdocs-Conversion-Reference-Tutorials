@@ -4,8 +4,8 @@
 "title": "Hướng dẫn toàn diện về GroupDocs.Conversion để thiết lập và triển khai .NET&#58;"
 "url": "/vi/net/getting-started-licensing/groupdocs-conversion-net-setup-guide/"
 "weight": 1
+type: docs
 ---
-
 # Hướng dẫn toàn diện về GroupDocs.Conversion cho .NET: Thiết lập và triển khai
 
 ## Giới thiệu

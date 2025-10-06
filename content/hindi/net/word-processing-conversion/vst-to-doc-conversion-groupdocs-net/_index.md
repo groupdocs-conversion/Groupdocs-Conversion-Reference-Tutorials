@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके VST फ़ाइलों को DOC प्रारूप में परिवर्तित करें एक चरण-दर-चरण मार्गदर्शिका"
 "url": "/hi/net/word-processing-conversion/vst-to-doc-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके VST फ़ाइलों को DOC प्रारूप में कनवर्ट करें: एक चरण-दर-चरण मार्गदर्शिका
 
 .NET के लिए GroupDocs.Conversion का उपयोग करके Visio Stencil Template (VST) फ़ाइलों को Microsoft Word (DOC) दस्तावेज़ों में परिवर्तित करने के बारे में हमारी विस्तृत मार्गदर्शिका में आपका स्वागत है। यह ट्यूटोरियल चरण-दर-चरण निर्देश प्रदान करता है, जिससे पेशेवरों के लिए अपनी VST फ़ाइलों को अधिक सुलभ प्रारूप में साझा करना और संपादित करना आसान हो जाता है।

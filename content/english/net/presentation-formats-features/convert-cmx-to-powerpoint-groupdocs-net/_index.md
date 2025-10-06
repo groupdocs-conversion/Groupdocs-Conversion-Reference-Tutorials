@@ -8,10 +8,8 @@ keywords:
 - convert CMX to PowerPoint
 - GroupDocs.Conversion for .NET
 - .NET document conversion
-
+type: docs
 ---
-
-
 # How to Convert CMX Files to PowerPoint Using GroupDocs.Conversion for .NET
 
 ## Introduction

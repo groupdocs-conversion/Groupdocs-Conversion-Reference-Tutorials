@@ -4,8 +4,8 @@
 "title": "Efektywna konwersja DOCX do PSD z wykorzystaniem GroupDocs.Conversion .NET do transformacji obrazu"
 "url": "/pl/net/image-conversion/convert-docx-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektywna konwersja DOCX do PSD z GroupDocs.Conversion .NET
 
 ## Wstęp

@@ -4,8 +4,8 @@
 "title": "Convertir MOBI a XLSX con GroupDocs.Conversion para .NET&#58; una guía completa"
 "url": "/es/net/spreadsheet-conversion/convert-mobi-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convierta archivos MOBI a XLSX con GroupDocs.Conversion para .NET
 
 ## Introducción

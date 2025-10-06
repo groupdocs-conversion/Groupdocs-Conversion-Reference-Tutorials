@@ -4,8 +4,8 @@
 "title": "PST fájlok hatékony konvertálása Word dokumentumokká a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/word-processing-conversion/convert-pst-to-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PST fájlok hatékony konvertálása Word dokumentumokká a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

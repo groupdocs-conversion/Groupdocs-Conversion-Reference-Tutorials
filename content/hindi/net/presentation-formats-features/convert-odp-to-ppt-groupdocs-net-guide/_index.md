@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion के साथ ODP to PPT को रूपांतरित करें एक चरण-दर-चरण मार्गदर्शिका"
 "url": "/hi/net/presentation-formats-features/convert-odp-to-ppt-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion के साथ ODP को PPT में कनवर्ट करें: एक चरण-दर-चरण मार्गदर्शिका
 
 ## परिचय

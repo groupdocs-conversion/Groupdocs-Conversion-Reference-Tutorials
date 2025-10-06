@@ -4,8 +4,8 @@
 "title": "Converta DWFX para XLS facilmente com GroupDocs.Conversion para .NET"
 "url": "/pt/net/spreadsheet-formats-features/convert-dwfx-to-xls-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converta DWFX para XLS facilmente com GroupDocs.Conversion para .NET
 
 ## Introdução

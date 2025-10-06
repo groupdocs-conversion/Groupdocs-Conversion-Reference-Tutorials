@@ -8,10 +8,8 @@ keywords:
 - Convert Visio VDX to PowerPoint
 - GroupDocs.Conversion for .NET
 - Visio to PowerPoint conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert Visio VDX to PowerPoint Using GroupDocs.Conversion for .NET
 
 ## Introduction

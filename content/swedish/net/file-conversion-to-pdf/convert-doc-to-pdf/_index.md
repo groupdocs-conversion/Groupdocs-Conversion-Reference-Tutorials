@@ -5,8 +5,8 @@
 "title": "Konvertera DOC Word-dokument till PDF"
 "url": "/sv/net/file-conversion-to-pdf/convert-doc-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # Konvertera DOC Word-dokument till PDF
 
 ## Introduktion

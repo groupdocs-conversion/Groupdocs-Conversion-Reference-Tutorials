@@ -4,8 +4,8 @@
 "title": ".DOTM fájlok TXT formátumba konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/text-file-processing/convert-dotm-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .DOTM fájlok TXT formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

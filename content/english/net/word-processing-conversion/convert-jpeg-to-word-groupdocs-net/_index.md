@@ -8,10 +8,8 @@ keywords:
 - convert JPEG to Word
 - JPEG to DOCX conversion
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # How to Convert JPEG Images to Word Documents Using GroupDocs.Conversion for .NET
 
 ## Introduction

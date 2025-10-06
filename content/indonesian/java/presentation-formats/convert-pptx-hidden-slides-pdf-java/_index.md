@@ -4,8 +4,8 @@
 "title": "Konversi PPTX dengan Slide Tersembunyi ke PDF secara Efisien di Java Menggunakan GroupDocs.Conversion"
 "url": "/id/java/presentation-formats/convert-pptx-hidden-slides-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Konversi PPTX dengan Slide Tersembunyi ke PDF dengan Mudah di Java Menggunakan GroupDocs.Conversion
 
 Di era digital, mengonversi dokumen presentasi ke dalam format yang dapat diakses secara universal seperti PDF merupakan persyaratan umum bagi para pengembang. Tutorial ini memandu Anda melalui solusi yang efisien menggunakan **GroupDocs.Conversion untuk Java** untuk mengubah presentasi PowerPoint, termasuk slide tersembunyi, ke dalam format PDF.

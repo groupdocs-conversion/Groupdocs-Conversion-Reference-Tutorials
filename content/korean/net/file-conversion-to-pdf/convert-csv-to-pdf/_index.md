@@ -5,8 +5,8 @@
 "title": "CSV 데이터 파일을 PDF로 변환"
 "url": "/ko/net/file-conversion-to-pdf/convert-csv-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # CSV 데이터 파일을 PDF로 변환
 
 ## 소개

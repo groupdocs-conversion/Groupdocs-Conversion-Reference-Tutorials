@@ -4,8 +4,8 @@
 "title": "Hatékony HTML-PSD konvertálás a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/html-to-psd-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony HTML-PSD konvertálás a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

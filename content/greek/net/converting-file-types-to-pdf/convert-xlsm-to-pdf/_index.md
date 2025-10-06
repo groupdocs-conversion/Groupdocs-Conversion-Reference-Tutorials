@@ -5,8 +5,8 @@
 "title": "Μετατροπή XLSM σε PDF"
 "url": "/el/net/converting-file-types-to-pdf/convert-xlsm-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # Μετατροπή XLSM σε PDF
 
 ## Εισαγωγή

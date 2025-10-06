@@ -4,8 +4,8 @@
 "title": "PDF metaadatok lekérése a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/pdf-conversion-features/pdf-metadata-retrieval-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PDF metaadatok lekérése a GroupDocs.Conversion for .NET segítségével
 
 Elege van abból, hogy manuálisan kell információkat kinyernie a PDF dokumentumokból? Automatizálja a feladatot a GroupDocs.Conversion for .NET segítségével, és nyerje ki a létfontosságú adatokat, például a szerzőséget, a létrehozási dátumokat, az oldalszámot, a méreteket és egyebeket.

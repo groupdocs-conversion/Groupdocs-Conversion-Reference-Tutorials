@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 掌握 .NET 中的 DOCM 转换——综合指南"
 "url": "/zh/net/word-processing-formats-features/groupdocs-conversion-dotnet-docm/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 掌握 .NET 中的 DOCM 转换
 
 ## 介绍

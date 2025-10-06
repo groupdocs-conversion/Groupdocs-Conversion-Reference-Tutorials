@@ -4,8 +4,8 @@
 "title": "Master PDF-teckensnittsersättning i .NET med GroupDocs.Conversion – en omfattande guide"
 "url": "/sv/net/font-handling-substitution/groupdocs-conversion-pdf-font-substitution-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Master PDF-teckensnittsersättning i .NET med GroupDocs.Conversion
 
 Att säkerställa en konsekvent typografi under dokumentkonvertering är avgörande. Den här omfattande guiden visar hur man använder GroupDocs.Conversion för .NET för att effektivt hantera teckensnittsersättningar vid konvertering av dokument till PDF.

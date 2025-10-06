@@ -4,8 +4,8 @@
 "title": "Comment convertir des fichiers Excel avec des feuilles masquées en PDF avec Java et GroupDocs.Conversion"
 "url": "/fr/java/pdf-conversion/convert-excel-hidden-sheets-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir des fichiers Excel avec des feuilles masquées en PDF avec Java et GroupDocs.Conversion
 
 ## Introduction

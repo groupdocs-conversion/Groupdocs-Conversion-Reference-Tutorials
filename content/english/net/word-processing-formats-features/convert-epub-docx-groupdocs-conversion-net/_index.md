@@ -8,10 +8,8 @@ keywords:
 - EPUB to DOCX conversion
 - GroupDocs.Conversion .NET
 - C# document conversion
-
+type: docs
 ---
-
-
 # How to Convert EPUB Files to DOCX Using GroupDocs.Conversion .NET
 
 ## Introduction

@@ -5,8 +5,8 @@
 "title": "DOTM Word テンプレート (マクロ) を PDF に変換する"
 "url": "/ja/net/file-conversion-to-pdf/convert-dotm-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # DOTM Word テンプレート (マクロ) を PDF に変換する
 
 ## 導入

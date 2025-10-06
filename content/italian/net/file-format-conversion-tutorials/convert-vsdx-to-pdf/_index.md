@@ -5,8 +5,8 @@
 "title": "Convertire VSDX in PDF"
 "url": "/it/net/file-format-conversion-tutorials/convert-vsdx-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # Convertire VSDX in PDF
 
 ## Introduzione

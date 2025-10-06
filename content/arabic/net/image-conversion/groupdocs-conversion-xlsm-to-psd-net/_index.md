@@ -4,8 +4,8 @@
 "title": "تحويل XLSM إلى PSD باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/image-conversion/groupdocs-conversion-xlsm-to-psd-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل XLSM إلى PSD باستخدام GroupDocs.Conversion لـ .NET: دليل شامل
 
 ## مقدمة

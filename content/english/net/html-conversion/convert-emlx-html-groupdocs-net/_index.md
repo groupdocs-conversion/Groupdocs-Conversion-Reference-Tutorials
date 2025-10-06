@@ -8,10 +8,8 @@ keywords:
 - convert EMLX to HTML
 - GroupDocs.Conversion for .NET
 - email conversion
-
+type: docs
 ---
-
-
 # Master Converting Apple Mail Messages (.emlx) to HTML using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET&#58;i Kullanarak JPG'yi SVG'ye Nasıl Dönüştürebilirsiniz Adım Adım Kılavuz"
 "url": "/tr/net/image-formats-features/convert-jpg-svg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET Kullanılarak JPG'nin SVG'ye Dönüştürülmesi: Kapsamlı Adım Adım Kılavuz
 
 ## giriiş

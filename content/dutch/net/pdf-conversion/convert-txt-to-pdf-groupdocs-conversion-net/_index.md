@@ -4,8 +4,8 @@
 "title": "Moeiteloze TXT naar PDF-conversie - Master GroupDocs.Conversie voor .NET in minuten"
 "url": "/nl/net/pdf-conversion/convert-txt-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Moeiteloze TXT naar PDF-conversie: beheer GroupDocs.Conversion voor .NET in enkele minuten
 
 ## Invoering

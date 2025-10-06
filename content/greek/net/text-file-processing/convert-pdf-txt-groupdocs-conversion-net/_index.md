@@ -4,8 +4,8 @@
 "title": "Μετατροπή PDF σε TXT χρησιμοποιώντας το GroupDocs.Conversion for .NET™ Ένας πλήρης οδηγός"
 "url": "/el/net/text-file-processing/convert-pdf-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή PDF σε TXT με το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

@@ -4,8 +4,8 @@
 "title": "Làm chủ chuyển đổi văn bản thành bản trình bày với GroupDocs trong .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/presentation-conversion/groupdocs-net-text-ppt-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Làm chủ chuyển đổi văn bản thành bản trình bày với GroupDocs trong .NET
 
 ## Giới thiệu

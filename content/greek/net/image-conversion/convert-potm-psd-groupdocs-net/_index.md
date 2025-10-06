@@ -4,8 +4,8 @@
 "title": "Μετατροπή POTM σε μορφή PSD χρησιμοποιώντας το GroupDocs.Conversion για .NET™ Ένας πλήρης οδηγός"
 "url": "/el/net/image-conversion/convert-potm-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή POTM σε μορφή PSD χρησιμοποιώντας το GroupDocs.Conversion για .NET: Ένας πλήρης οδηγός
 
 ## Εισαγωγή

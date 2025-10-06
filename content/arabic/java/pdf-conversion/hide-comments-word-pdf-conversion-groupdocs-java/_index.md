@@ -4,8 +4,8 @@
 "title": "إخفاء التعليقات أثناء تحويل Word إلى PDF باستخدام GroupDocs.Conversion لـ Java"
 "url": "/ar/java/pdf-conversion/hide-comments-word-pdf-conversion-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # إخفاء التعليقات أثناء تحويل Word إلى PDF باستخدام GroupDocs.Conversion لـ Java
 
 في عالمنا الرقمي سريع الخطى، يُعد تحويل مستندات Word إلى ملفات PDF مهمة روتينية للعديد من المحترفين. ومع ذلك، عندما تحتوي هذه المستندات على تعليقات حساسة أو تغييرات مُتتبَّعة، فقد تُفضِّل ملفات PDF نظيفة بدون أي تعليقات توضيحية. سيُرشدك هذا البرنامج التعليمي إلى كيفية استخدام GroupDocs.Conversion لـ Java لإخفاء التعليقات بسلاسة أثناء التحويل.

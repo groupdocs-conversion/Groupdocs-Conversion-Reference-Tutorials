@@ -5,8 +5,8 @@
 "title": "Convertir mensajes de correo electrónico EML a PDF"
 "url": "/es/net/convert-files-to-pdf/convert-eml-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # Convertir mensajes de correo electrónico EML a PDF
 
 ## Introducción

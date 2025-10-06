@@ -4,8 +4,8 @@
 "title": ".NET dokumentumkonverzió optimalizálása gyorsítótárazással a GroupDocs.Conversion használatával"
 "url": "/hu/net/cache-management/optimize-net-document-conversion-caching-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # .NET dokumentumkonverzió optimalizálása gyorsítótárazással a GroupDocs.Conversion használatával
 
 ## Bevezetés

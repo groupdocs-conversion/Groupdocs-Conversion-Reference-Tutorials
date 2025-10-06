@@ -4,8 +4,8 @@
 "title": "Φόρτωση και μετατροπή εγγράφων που προστατεύονται με κωδικό πρόσβασης χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/working-with-secure-documents/groupdocs-load-convert-password-documents-net/"
 "weight": 1
+type: docs
 ---
-
 # Φόρτωση και μετατροπή εγγράφων που προστατεύονται με κωδικό πρόσβασης χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

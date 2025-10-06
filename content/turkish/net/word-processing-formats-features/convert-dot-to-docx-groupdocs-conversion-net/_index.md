@@ -4,8 +4,8 @@
 "title": ".dot Dosyalarını GroupDocs.Conversion for .NET Kullanarak .docx'e Nasıl Dönüştürebilirsiniz? Adım Adım Kılavuz"
 "url": "/tr/net/word-processing-formats-features/convert-dot-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .dot Dosyalarını .NET için GroupDocs.Conversion Kullanarak .docx'e Nasıl Dönüştürebilirsiniz: Adım Adım Kılavuz
 
 ## giriiş

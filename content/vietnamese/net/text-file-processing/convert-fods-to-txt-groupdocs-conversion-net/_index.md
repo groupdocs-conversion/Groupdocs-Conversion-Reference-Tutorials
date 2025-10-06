@@ -4,8 +4,8 @@
 "title": "Chuyển đổi FODS sang tệp TXT bằng GroupDocs.Conversion .NET | Hướng dẫn xử lý tệp văn bản"
 "url": "/vi/net/text-file-processing/convert-fods-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp FODS sang TXT bằng GroupDocs.Conversion .NET
 
 ## Giới thiệu

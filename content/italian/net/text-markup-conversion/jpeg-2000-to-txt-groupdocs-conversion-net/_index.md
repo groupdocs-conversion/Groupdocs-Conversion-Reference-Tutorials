@@ -4,8 +4,8 @@
 "title": "Conversione efficiente da JPEG 2000 a TXT utilizzando GroupDocs.Conversion .NET"
 "url": "/it/net/text-markup-conversion/jpeg-2000-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Padronanza della conversione dei file: conversione di JPEG 2000 (.j2c) in file di testo con GroupDocs.Conversion .NET
 
 ## Introduzione

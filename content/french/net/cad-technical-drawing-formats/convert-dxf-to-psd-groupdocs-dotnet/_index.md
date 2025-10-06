@@ -4,8 +4,8 @@
 "title": "Comment convertir un fichier DXF en PSD à l'aide de GroupDocs.Conversion pour .NET - Guide du développeur"
 "url": "/fr/net/cad-technical-drawing-formats/convert-dxf-to-psd-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir un fichier DXF en PSD avec GroupDocs.Conversion pour .NET : Guide du développeur
 
 ## Introduction

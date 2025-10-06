@@ -5,8 +5,8 @@
 "title": "Konwertuj szablony DOTM Word (makra) do formatu PDF"
 "url": "/pl/net/file-conversion-to-pdf/convert-dotm-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Konwertuj szablony DOTM Word (makra) do formatu PDF
 
 ## Wstęp

@@ -4,8 +4,8 @@
 "title": "Padroneggiare la gestione dei documenti di testo in Java utilizzando GroupDocs.Conversion per una codifica e una conversione PDF senza interruzioni"
 "url": "/it/java/word-processing-formats/master-text-document-handling-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Padroneggiare la gestione dei documenti di testo in Java con GroupDocs.Conversion
 
 ## Introduzione

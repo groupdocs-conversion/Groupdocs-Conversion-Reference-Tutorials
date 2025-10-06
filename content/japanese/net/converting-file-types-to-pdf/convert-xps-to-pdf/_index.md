@@ -5,8 +5,8 @@
 "title": "XPSをPDFに変換する"
 "url": "/ja/net/converting-file-types-to-pdf/convert-xps-to-pdf/"
 "weight": 30
+type: docs
 ---
-
 # XPSをPDFに変換する
 
 

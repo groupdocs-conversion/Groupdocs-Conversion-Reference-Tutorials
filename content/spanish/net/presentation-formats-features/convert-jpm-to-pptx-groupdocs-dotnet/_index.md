@@ -4,8 +4,8 @@
 "title": "Convierta JPM a PPTX de forma eficiente con GroupDocs.Conversion para .NET&#58; una guía paso a paso"
 "url": "/es/net/presentation-formats-features/convert-jpm-to-pptx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir JPM a PPTX con GroupDocs.Conversion para .NET: guía paso a paso
 
 ## Introducción

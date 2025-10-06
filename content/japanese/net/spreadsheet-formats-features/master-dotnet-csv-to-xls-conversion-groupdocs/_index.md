@@ -4,8 +4,8 @@
 "title": "GroupDocs を使用した .NET CSV から XLS への変換に関する包括的なガイド"
 "url": "/ja/net/spreadsheet-formats-features/master-dotnet-csv-to-xls-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs を使用した .NET CSV から XLS への変換: 包括的なガイド
 
 今日のデータドリブンな世界では、様々な形式間でのファイル変換が頻繁に必要になります。財務レポートの作成や大規模なデータセットの分析など、CSV（カンマ区切り値）ファイルをExcel互換のXLS形式に変換することは、効率的なデータ管理と分析に不可欠です。このチュートリアルでは、GroupDocs.Conversion for .NETを使用してCSVファイルをXLSドキュメントにシームレスに変換する方法を説明します。

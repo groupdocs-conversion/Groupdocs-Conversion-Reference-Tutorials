@@ -8,10 +8,8 @@ keywords:
 - convert AI to PSD using .NET
 - GroupDocs.Conversion for .NET installation
 - AI file conversion tutorial
-
+type: docs
 ---
-
-
 # How to Convert AI Files to PSD Using GroupDocs.Conversion for .NET
 
 ## Introduction

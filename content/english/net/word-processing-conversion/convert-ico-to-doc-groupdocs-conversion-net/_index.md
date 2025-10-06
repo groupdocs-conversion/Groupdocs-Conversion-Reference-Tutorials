@@ -8,10 +8,8 @@ keywords:
 - convert ICO to DOC
 - GroupDocs.Conversion for .NET
 - Word Processing Conversion
-
+type: docs
 ---
-
-
 # How to Convert ICO to DOC Using GroupDocs.Conversion for .NET
 
 ## Introduction

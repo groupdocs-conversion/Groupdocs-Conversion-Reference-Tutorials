@@ -4,8 +4,8 @@
 "title": "تحويل ODG إلى Word بكفاءة باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/word-processing-formats-features/groupdocs-conversion-odg-to-word-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ODG إلى Word بكفاءة باستخدام GroupDocs.Conversion لـ .NET
 
 في عصرنا الرقمي، يُعدّ تحويل المستندات بسلاسة أمرًا بالغ الأهمية للشركات التي تسعى إلى تبسيط سير عملها. سواءً كنتَ بحاجة إلى عرض خطة مشروع بتنسيق متاح للجميع أو أرشفة الرسومات بكفاءة، فإن تحويل ملفات رسومات OpenDocument (ODG) إلى مستندات Microsoft Word يُمكن أن يُحدث نقلة نوعية. سيُرشدك هذا الدليل الشامل إلى كيفية استخدام GroupDocs.Conversion لـ .NET لتحقيق ذلك.

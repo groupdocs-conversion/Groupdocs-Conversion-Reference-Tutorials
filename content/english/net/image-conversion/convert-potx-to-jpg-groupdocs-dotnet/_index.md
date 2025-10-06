@@ -8,10 +8,8 @@ keywords:
 - convert POTX to JPG
 - GroupDocs.Conversion for .NET
 - POTX to JPEG conversion
-
+type: docs
 ---
-
-
 # Convert POTX Files to JPG with GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके RTF को HTML में कैसे परिवर्तित करें एक व्यापक गाइड"
 "url": "/hi/net/html-conversion/convert-rtf-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके RTF को HTML में कैसे परिवर्तित करें: एक व्यापक मार्गदर्शिका
 
 ## परिचय

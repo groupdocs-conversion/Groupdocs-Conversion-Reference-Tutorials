@@ -3,8 +3,8 @@
 "title": "PDF-konverteringshandledningar för GroupDocs.Conversion Java"
 "url": "/sv/java/pdf-conversion/"
 "weight": 4
+type: docs
 ---
-
 # PDF-konverteringshandledningar för GroupDocs.Conversion Java
 
 Våra handledningar för PDF-konvertering ger detaljerad vägledning för att arbeta med PDF-dokument i Java-program. Följ dessa praktiska guider för att lära dig hur du konverterar olika dokumentformat till PDF, konverterar PDF-filer till andra format, konfigurerar PDF-specifika alternativ, hanterar lösenordsskyddade PDF-filer och hanterar PDF-funktioner som formulär och anteckningar. Dessa handledningar innehåller kompletta Java-kodexempel för vanliga PDF-konverteringsscenarier, vilket hjälper dig att bygga program som effektivt kan bearbeta PDF-dokument.

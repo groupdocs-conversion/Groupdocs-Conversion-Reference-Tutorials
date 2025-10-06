@@ -4,8 +4,8 @@
 "title": "Hogyan konvertálhat Visio VSTM-et PowerPoint-ba a GroupDocs.Conversion for .NET használatával?"
 "url": "/hu/net/presentation-formats-features/convert-visio-vstm-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhat Visio VSTM-et PowerPoint-ba a GroupDocs.Conversion for .NET használatával?
 
 ## Bevezetés

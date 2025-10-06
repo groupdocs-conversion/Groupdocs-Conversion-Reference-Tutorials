@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET で VSTX を JPG に変換する方法 - 総合ガイド"
 "url": "/ja/net/image-conversion/convert-vstx-to-jpg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して VSTX ファイルを JPG に変換する
 
 ## 導入

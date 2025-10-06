@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 有效地將 ICO 轉換為 SVG——開發人員指南"
 "url": "/zh-hant/net/image-formats-features/ico-to-svg-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 有效率地將 ICO 轉換為 SVG：開發人員指南
 
 ## 介紹

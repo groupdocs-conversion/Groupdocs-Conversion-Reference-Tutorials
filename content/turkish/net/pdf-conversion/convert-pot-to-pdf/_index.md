@@ -5,8 +5,8 @@
 "title": "POT'u PDF'ye dönüştür"
 "url": "/tr/net/pdf-conversion/convert-pot-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # POT'u PDF'ye dönüştür
 
 ## giriiş

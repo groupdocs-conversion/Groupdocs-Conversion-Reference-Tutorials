@@ -8,10 +8,8 @@ keywords:
 - convert PPTM to JPG
 - GroupDocs.Conversion for .NET
 - PPTM file conversion
-
+type: docs
 ---
-
-
 # Convert PPTM to JPG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

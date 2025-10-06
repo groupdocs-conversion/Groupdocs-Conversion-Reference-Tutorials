@@ -4,8 +4,8 @@
 "title": "Ładowanie plików DGN w .NET przy użyciu GroupDocs.Conversion"
 "url": "/pl/net/cad-technical-drawing-formats/load-dgn-file-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Jak załadować plik DGN za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

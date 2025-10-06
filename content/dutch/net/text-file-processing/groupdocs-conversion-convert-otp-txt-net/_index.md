@@ -4,8 +4,8 @@
 "title": "Converteer OTP-bestanden efficiënt naar TXT-bestanden met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/text-file-processing/groupdocs-conversion-convert-otp-txt-net/"
 "weight": 1
+type: docs
 ---
-
 # Bestandsconversie onder de knie krijgen: OTP naar TXT converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

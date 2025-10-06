@@ -4,8 +4,8 @@
 "title": "OTS konvertálása HTML-be a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/html-conversion/convert-ots-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OTS fájlok konvertálása HTML-re a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

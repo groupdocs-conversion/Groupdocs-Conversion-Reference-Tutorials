@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 的文字處理格式與功能教學課程"
 "url": "/zh-hant/net/word-processing-formats-features/"
 "weight": 10
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 的文字處理格式與功能教學課程
 
 使用我們全面的 GroupDocs.Conversion .NET 教程，了解如何有效地處理 Word 文件。這些逐步指南將教您如何在各種 Word 處理格式之間轉換、如何在轉換過程中隱藏註釋和修訂記錄、如何指定字體替換選項、如何保留樣式和格式、如何維護文件結構、如何處理嵌入物件以及如何控制頁首/頁腳行為。每個教學課程都提供了用於 Word 文件轉換任務的實用 C# 程式碼範例，幫助您建立更有效率的應用程序，以高保真度和特定格式的控制方式處理文字文件。

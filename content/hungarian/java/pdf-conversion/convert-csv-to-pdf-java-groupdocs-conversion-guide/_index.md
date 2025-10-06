@@ -4,8 +4,8 @@
 "title": "CSV konvertálása PDF-be Java-ban&#58; Lépésről lépésre útmutató a GroupDocs.Conversion for Java használatával"
 "url": "/hu/java/pdf-conversion/convert-csv-to-pdf-java-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # CSV konvertálása PDF-be Java-ban: Lépésről lépésre útmutató a GroupDocs.Conversion for Java használatával
 
 ## Bevezetés

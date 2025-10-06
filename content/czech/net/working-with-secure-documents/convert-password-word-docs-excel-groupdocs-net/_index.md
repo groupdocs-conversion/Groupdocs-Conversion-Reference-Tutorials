@@ -4,8 +4,8 @@
 "title": "Převod dokumentů Word chráněných heslem do Excelu pomocí GroupDocs pro .NET"
 "url": "/cs/net/working-with-secure-documents/convert-password-word-docs-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod dokumentů Wordu chráněných heslem do Excelu pomocí GroupDocs pro .NET
 
 ## Zavedení

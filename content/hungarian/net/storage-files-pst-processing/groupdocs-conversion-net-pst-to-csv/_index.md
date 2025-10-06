@@ -4,8 +4,8 @@
 "title": "PST fájlok konvertálása CSV-vé a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/storage-files-pst-processing/groupdocs-conversion-net-pst-to-csv/"
 "weight": 1
+type: docs
 ---
-
 # PST fájlok konvertálása CSV-vé a GroupDocs.Conversion for .NET segítségével: Átfogó útmutató
 
 ## Bevezetés

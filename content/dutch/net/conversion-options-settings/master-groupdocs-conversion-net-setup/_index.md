@@ -4,8 +4,8 @@
 "title": "Configuratie van hoofddocumentconversie in .NET met behulp van GroupDocs.Conversion"
 "url": "/nl/net/conversion-options-settings/master-groupdocs-conversion-net-setup/"
 "weight": 1
+type: docs
 ---
-
 # Hoofdmap instellen voor documentconversie met GroupDocs.Conversion .NET
 
 ## Invoering

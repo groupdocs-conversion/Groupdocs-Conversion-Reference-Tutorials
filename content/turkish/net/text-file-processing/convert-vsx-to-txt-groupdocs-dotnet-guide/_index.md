@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak VSX Dosyaları TXT'ye Nasıl Dönüştürülür&#58; Adım Adım Kılavuz"
 "url": "/tr/net/text-file-processing/convert-vsx-to-txt-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanılarak VSX Dosyaları TXT'ye Nasıl Dönüştürülür: Adım Adım Kılavuz
 
 ## giriiş

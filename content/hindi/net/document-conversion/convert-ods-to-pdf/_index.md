@@ -5,8 +5,8 @@
 "title": "ODS को PDF में बदलें"
 "url": "/hi/net/document-conversion/convert-ods-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # ODS को PDF में बदलें
 
 ## परिचय

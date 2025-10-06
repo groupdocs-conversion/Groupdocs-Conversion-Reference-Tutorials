@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET&#58;i Kullanarak OTG'yi DOC'a Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/word-processing-formats-features/convert-otg-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET Kullanarak OTG'yi DOC'a Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

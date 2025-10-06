@@ -8,10 +8,8 @@ keywords:
 - convert J2C to JPG
 - GroupDocs.Conversion .NET
 - JPEG 2000 Image File conversion
-
+type: docs
 ---
-
-
 # Convert J2C to JPG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

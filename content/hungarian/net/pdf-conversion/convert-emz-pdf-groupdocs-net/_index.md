@@ -4,8 +4,8 @@
 "title": "EMZ konvertálása PDF-be a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/pdf-conversion/convert-emz-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # EMZ konvertálása PDF-be a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

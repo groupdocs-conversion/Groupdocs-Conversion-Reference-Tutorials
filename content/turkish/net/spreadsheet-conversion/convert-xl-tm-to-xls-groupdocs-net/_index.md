@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak XLTM'nin XLS'ye Nasıl Dönüştürüleceği | E-Tablo Dönüştürme Kılavuzu"
 "url": "/tr/net/spreadsheet-conversion/convert-xl-tm-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak XLTM'yi XLS'ye Dönüştürme
 
 ## giriiş

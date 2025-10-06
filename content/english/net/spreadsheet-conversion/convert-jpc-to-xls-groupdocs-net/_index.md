@@ -8,10 +8,8 @@ keywords:
 - Convert JPC to Excel using .NET
 - GroupDocs image file conversion
 - JPC to XLS conversion tutorial
-
+type: docs
 ---
-
-
 # Convert JPC to Excel Using GroupDocs.Conversion for .NET: A Complete Guide
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - convert WMZ to JPG
 - GroupDocs.Conversion for .NET
 - image conversion in .NET
-
+type: docs
 ---
-
-
 # Convert WMZ Files to JPG Using GroupDocs.Conversion .NET
 
 ## Introduction

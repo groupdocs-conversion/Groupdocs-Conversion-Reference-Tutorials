@@ -8,10 +8,8 @@ keywords:
 - PDF to PSD conversion
 - GroupDocs.Conversion .NET
 - automated image conversion
-
+type: docs
 ---
-
-
 # Efficient PDF to PSD Conversion with GroupDocs.Conversion .NET
 
 ## Introduction

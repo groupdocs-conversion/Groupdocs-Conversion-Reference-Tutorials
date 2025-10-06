@@ -4,8 +4,8 @@
 "title": "تحويل XLT إلى SVG باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/image-conversion/groupdocs-conversion-net-xlt-to-svg/"
 "weight": 1
+type: docs
 ---
-
 # تحويل XLT إلى SVG باستخدام GroupDocs.Conversion لـ .NET: دليل شامل
 
 ## مقدمة

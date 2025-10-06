@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion을 사용하여 .NET에서 VSDM을 PPT로 변환하는 마스터 방법"
 "url": "/ko/net/presentation-formats-features/master-vsmd-to-ppt-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용하여 .NET에서 VSDM을 PPT로 변환하는 방법 마스터하기
 
 오늘날의 디지털 환경에서 원활한 파일 변환은 기업과 개발자 모두에게 필수적입니다. Visio 매크로 지원 다이어그램(VSDM)을 PowerPoint 프레젠테이션으로 변환하면 워크플로를 크게 간소화하고 협업을 향상시킬 수 있습니다. 이 튜토리얼에서는 GroupDocs.Conversion for .NET을 사용하여 이 작업을 완벽하게 수행하는 방법을 안내합니다.

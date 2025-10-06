@@ -4,8 +4,8 @@
 "title": "Átfogó útmutató az MPX PSD-vé konvertálásához a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/convert-mpx-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató: MPX konvertálása PSD-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

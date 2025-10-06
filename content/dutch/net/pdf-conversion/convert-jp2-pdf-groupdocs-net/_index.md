@@ -4,8 +4,8 @@
 "title": "JP2-bestanden naar PDF converteren met GroupDocs.Conversion voor .NET | Stapsgewijze handleiding"
 "url": "/nl/net/pdf-conversion/convert-jp2-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # JP2-bestanden naar PDF converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

@@ -8,10 +8,8 @@ keywords:
 - convert XLT to CSV
 - GroupDocs.Conversion .NET
 - XLT file conversion
-
+type: docs
 ---
-
-
 # How to Convert XLT Files to CSV Using GroupDocs.Conversion in .NET: A Step-by-Step Guide
 
 ## Introduction

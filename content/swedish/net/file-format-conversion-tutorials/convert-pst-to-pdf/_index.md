@@ -5,8 +5,8 @@
 "title": "Konvertera PST till PDF"
 "url": "/sv/net/file-format-conversion-tutorials/convert-pst-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # Konvertera PST till PDF
 
 ## Introduktion

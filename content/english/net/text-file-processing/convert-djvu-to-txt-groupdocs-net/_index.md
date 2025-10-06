@@ -8,10 +8,8 @@ keywords:
 - DJVU to TXT conversion
 - GroupDocs.Conversion for .NET
 - text file processing
-
+type: docs
 ---
-
-
 # How to Convert DJVU Files to TXT Format Using GroupDocs.Conversion for .NET
 
 ## Introduction

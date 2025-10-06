@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 掌握 PPTX 文件转换——轻松高效的解决方案"
 "url": "/zh/net/presentation-formats-features/master-file-conversion-groupdocs-pptx/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 掌握 PPTX 文件转换：轻松高效的解决方案
 
 ## 介绍

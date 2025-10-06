@@ -4,8 +4,8 @@
 "title": "CSV-bestanden converteren naar PDF's met specifieke codering met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/csv-structured-data-processing/convert-csv-pdf-specific-encoding-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # CSV-bestanden converteren naar PDF's met specifieke codering met GroupDocs.Conversion voor .NET
 
 ## Invoering

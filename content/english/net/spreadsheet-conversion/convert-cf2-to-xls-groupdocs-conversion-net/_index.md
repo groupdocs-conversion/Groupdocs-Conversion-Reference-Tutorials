@@ -8,10 +8,8 @@ keywords:
 - convert CF2 to XLS
 - GroupDocs.Conversion for .NET
 - CAD file conversion
-
+type: docs
 ---
-
-
 # How to Convert CF2 Files to XLS with GroupDocs.Conversion for .NET
 
 ## Introduction

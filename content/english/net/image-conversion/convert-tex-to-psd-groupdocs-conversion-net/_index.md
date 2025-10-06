@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion for .NET
 - convert TEX to PSD
 - LaTeX to Adobe Photoshop Document
-
+type: docs
 ---
-
-
 # Convert TEX to PSD Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

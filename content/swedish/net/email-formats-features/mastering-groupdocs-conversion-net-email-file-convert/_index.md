@@ -4,8 +4,8 @@
 "title": "Bemästra GroupDocs.Conversion .NET för e-post- och filkonverteringar – en omfattande guide"
 "url": "/sv/net/email-formats-features/mastering-groupdocs-conversion-net-email-file-convert/"
 "weight": 1
+type: docs
 ---
-
 # Bemästra GroupDocs.Conversion .NET för e-post- och filkonverteringar: En omfattande guide
 
 ## Introduktion

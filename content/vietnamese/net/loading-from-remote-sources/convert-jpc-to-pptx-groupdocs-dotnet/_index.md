@@ -4,8 +4,8 @@
 "title": "Chuyển đổi JPC sang PPTX với GroupDocs.Conversion cho .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/loading-from-remote-sources/convert-jpc-to-pptx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Hướng dẫn toàn diện: Chuyển đổi JPC sang PPTX bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "Java'da InputStream Kullanılarak GroupDocs.Conversion Lisansı Nasıl Ayarlanır"
 "url": "/tr/java/getting-started/groupdocs-conversion-license-java-input-stream/"
 "weight": 1
+type: docs
 ---
-
 # Java'da InputStream Üzerinden GroupDocs.Conversion Lisans Kurulumu Nasıl Uygulanır
 ## giriiş
 Java uygulamanızı GroupDocs.Conversion'ın güçlü özellikleriyle geliştirmek mi istiyorsunuz? Lisansı doğru şekilde ayarlamak çok önemli bir adımdır ve bunu bir giriş akışı kullanarak yapmak bu süreci kolaylaştırabilir. Bu kılavuz, Java'da bir giriş akışı kullanarak GroupDocs lisansını nasıl ayarlayacağınızı göstererek, dönüştürme işlemlerinizin herhangi bir lisanslama sorunu olmadan sorunsuz bir şekilde çalışmasını sağlayacaktır.

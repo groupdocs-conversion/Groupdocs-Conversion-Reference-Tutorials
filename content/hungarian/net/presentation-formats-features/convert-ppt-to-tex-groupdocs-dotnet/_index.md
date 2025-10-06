@@ -4,8 +4,8 @@
 "title": "PPT konvertálása TeX-be a GroupDocs.Conversion for .NET segítségével&#58; Teljes körű útmutató"
 "url": "/hu/net/presentation-formats-features/convert-ppt-to-tex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # PowerPoint-bemutatók (PPT) TeX-formátumba konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

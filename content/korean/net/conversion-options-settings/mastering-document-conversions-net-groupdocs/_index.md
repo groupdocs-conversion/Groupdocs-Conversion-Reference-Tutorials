@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion을 사용한 .NET에서의 마스터 문서 변환 - 포괄적인 가이드"
 "url": "/ko/net/conversion-options-settings/mastering-document-conversions-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용하여 .NET에서 마스터 문서 변환
 ## 소개
 .NET 애플리케이션에서 문서 변환에 어려움을 겪고 계신가요? 여러분만 그런 것이 아닙니다. 많은 개발자들이 문서를 어떤 형식으로 변환할 수 있는지 효율적으로 판단하는 데 어려움을 겪고 있습니다. **.NET용 GroupDocs.Conversion** 원활한 통합과 강력한 기능을 제공하므로 애플리케이션 기능을 향상시키는 데 필수적인 도구입니다.

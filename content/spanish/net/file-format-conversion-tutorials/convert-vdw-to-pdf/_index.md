@@ -5,8 +5,8 @@
 "title": "Convertir VDW a PDF"
 "url": "/es/net/file-format-conversion-tutorials/convert-vdw-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Convertir VDW a PDF
 
 ## Introducción

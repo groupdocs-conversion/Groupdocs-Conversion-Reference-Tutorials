@@ -5,8 +5,8 @@
 "title": "PPTX naar PDF converteren"
 "url": "/nl/net/pdf-conversion/convert-pptx-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # PPTX naar PDF converteren
 
 ## Invoering

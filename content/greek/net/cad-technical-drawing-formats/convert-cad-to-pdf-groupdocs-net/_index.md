@@ -4,8 +4,8 @@
 "title": "Μετατροπή CAD σε PDF αποτελεσματικά χρησιμοποιώντας το GroupDocs.Conversion for .NET™ Ένας πλήρης οδηγός"
 "url": "/el/net/cad-technical-drawing-formats/convert-cad-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή CAD σε PDF με το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

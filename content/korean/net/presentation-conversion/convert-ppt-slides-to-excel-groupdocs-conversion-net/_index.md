@@ -4,8 +4,8 @@
 "title": "PPT 슬라이드를 Excel로 변환&#58; GroupDocs.Conversion for .NET 마스터하기"
 "url": "/ko/net/presentation-conversion/convert-ppt-slides-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 PPT 슬라이드를 Excel로 변환
 
 ## 소개

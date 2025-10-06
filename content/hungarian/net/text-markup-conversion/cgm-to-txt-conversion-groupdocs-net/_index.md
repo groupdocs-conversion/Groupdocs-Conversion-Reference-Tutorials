@@ -4,8 +4,8 @@
 "title": "CGM-ből TXT-be konvertálás a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/text-markup-conversion/cgm-to-txt-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # CGM-TXT konverzió implementálása GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "كيفية تحويل ملفات Visio (.vsd) إلى PowerPoint (.ppt) باستخدام C# وGroupDocs.Conversion لـ .NET"
 "url": "/ar/net/presentation-formats-features/convert-visio-vsd-to-powerpoint-ppt-csharp-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل ملفات Visio (.vsd) إلى عروض تقديمية PowerPoint باستخدام C# وGroupDocs.Conversion لـ .NET
 ## مقدمة
 هل ترغب في تبسيط سير عملك بتحويل رسومات Visio إلى عروض تقديمية على PowerPoint؟ بفضل قوة GroupDocs.Conversion لـ .NET، تصبح هذه المهمة سريعة وفعالة. سيرشدك هذا البرنامج التعليمي خلال تحويل ملفات VSD إلى تنسيق PPT باستخدام C#، مما يُحسّن إدارة المستندات في تطبيقاتك.

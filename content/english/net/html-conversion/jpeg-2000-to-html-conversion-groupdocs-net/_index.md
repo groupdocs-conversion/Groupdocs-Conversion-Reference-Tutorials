@@ -8,10 +8,8 @@ keywords:
 - JPEG 2000 to HTML conversion
 - GroupDocs.Conversion for .NET setup
 - image file format transformation
-
+type: docs
 ---
-
-
 # Efficient JPEG 2000 (.j2k) to HTML Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -5,8 +5,8 @@
 "title": "EPUB e-Kitaplarını PDF'ye dönüştürün"
 "url": "/tr/net/convert-files-to-pdf/convert-epub-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # EPUB e-Kitaplarını PDF'ye dönüştürün
 
 ## giriiş

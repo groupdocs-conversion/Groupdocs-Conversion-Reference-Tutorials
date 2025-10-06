@@ -5,8 +5,8 @@
 "title": "將 VSSX 轉換為 PDF"
 "url": "/zh-hant/net/converting-file-types-to-pdf/convert-vssx-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # 將 VSSX 轉換為 PDF
 
 ## 介紹

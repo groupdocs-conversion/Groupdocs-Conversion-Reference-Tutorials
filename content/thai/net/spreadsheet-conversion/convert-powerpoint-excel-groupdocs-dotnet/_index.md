@@ -4,8 +4,8 @@
 "title": "แปลง PowerPoint เป็น Excel โดยใช้ GroupDocs.Conversion .NET คู่มือฉบับสมบูรณ์"
 "url": "/th/net/spreadsheet-conversion/convert-powerpoint-excel-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # แปลงสไลด์ PowerPoint เป็นแผ่นงาน Excel โดยใช้ GroupDocs.Conversion .NET
 
 ## การแนะนำ

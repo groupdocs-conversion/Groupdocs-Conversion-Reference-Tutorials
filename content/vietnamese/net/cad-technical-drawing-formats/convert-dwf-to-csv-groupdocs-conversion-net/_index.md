@@ -4,8 +4,8 @@
 "title": "Chuyển đổi DWF sang CSV với GroupDocs.Conversion cho .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/cad-technical-drawing-formats/convert-dwf-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp DWF sang CSV bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

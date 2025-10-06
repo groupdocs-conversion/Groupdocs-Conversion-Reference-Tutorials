@@ -4,8 +4,8 @@
 "title": "Převod umělé inteligence do HTML pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/html-conversion/convert-ai-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů AI do HTML pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

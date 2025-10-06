@@ -4,8 +4,8 @@
 "title": "Jak konwertować określone strony dokumentu do formatu PDF za pomocą GroupDocs.Conversion dla języka Java"
 "url": "/pl/java/pdf-conversion/convert-specific-pages-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Jak konwertować określone strony dokumentu do formatu PDF za pomocą GroupDocs.Conversion dla języka Java
 
 dzisiejszej erze cyfrowej wydajna i skuteczna konwersja dokumentów ma kluczowe znaczenie zarówno dla firm, jak i osób prywatnych. Niezależnie od tego, czy udostępniasz określone sekcje raportu, czy kompilujesz wybrane strony w jednym pliku PDF, posiadanie odpowiednich narzędzi może mieć ogromne znaczenie. Ten przewodnik przeprowadzi Cię przez korzystanie z **GroupDocs.Conversion dla Java** aby przekonwertować określone strony dokumentu do formatu PDF. Zanurzmy się!

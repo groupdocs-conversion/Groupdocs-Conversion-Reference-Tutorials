@@ -4,8 +4,8 @@
 "title": "Gerenciamento eficiente de caminho de documentos em .NET com GroupDocs.Conversion - Definindo constantes para conversões contínuas"
 "url": "/pt/net/conversion-options-settings/groupdocs-net-define-document-paths/"
 "weight": 1
+type: docs
 ---
-
 # Gerenciamento eficiente de caminho de documentos em .NET com GroupDocs.Conversion
 
 ## Introdução

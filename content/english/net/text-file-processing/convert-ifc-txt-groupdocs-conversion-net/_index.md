@@ -8,10 +8,8 @@ keywords:
 - IFC to TXT conversion
 - GroupDocs.Conversion for .NET
 - file format conversion
-
+type: docs
 ---
-
-
 # Convert IFC Files to TXT Using GroupDocs.Conversion for .NET
 
 ## Introduction

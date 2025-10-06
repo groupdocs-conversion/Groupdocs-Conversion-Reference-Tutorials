@@ -8,10 +8,8 @@ keywords:
 - convert JPF to JPG
 - GroupDocs.Conversion for .NET
 - image conversion tutorial
-
+type: docs
 ---
-
-
 # Convert JPF to JPG Using GroupDocs.Conversion for .NET
 
 ## Introduction

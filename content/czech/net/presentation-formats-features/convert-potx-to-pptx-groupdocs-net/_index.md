@@ -4,8 +4,8 @@
 "title": "Efektivní převod POTX na PPTX pomocí GroupDocs.Conversion pro .NET - Podrobný návod"
 "url": "/cs/net/presentation-formats-features/convert-potx-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod POTX na PPTX pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

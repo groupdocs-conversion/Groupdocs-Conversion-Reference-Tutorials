@@ -4,8 +4,8 @@
 "title": "Converteer markeringen naar Word met paginanummering met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/word-processing-formats-features/groupdocs-conversion-markup-to-word-page-numbering/"
 "weight": 1
+type: docs
 ---
-
 # Converteer markeringen naar Word met paginanummering met GroupDocs.Conversion voor .NET
 ## Invoering
 Wilt u markup-documenten omzetten naar professionele Word-formaten met behoud van accurate paginanummers? Deze tutorial begeleidt u bij het gebruik ervan. **GroupDocs.Conversion voor .NET** Om uw documenten naadloos te transformeren. Deze krachtige bibliotheek vereenvoudigt conversies en zorgt ervoor dat essentiële elementen zoals paginanummering intact blijven in het uitvoerdocument.

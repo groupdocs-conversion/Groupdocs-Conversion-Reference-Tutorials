@@ -4,8 +4,8 @@
 "title": "MSG-bestanden naar TXT converteren met GroupDocs.Conversion in .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/email-formats-features/convert-msg-to-txt-groupdocs-net-tutorial/"
 "weight": 1
+type: docs
 ---
-
 # MSG-bestanden naar TXT converteren met GroupDocs.Conversion in .NET: een uitgebreide handleiding
 
 ## Invoering

@@ -3,8 +3,8 @@
 "title": "Hướng dẫn lưu trữ tệp và xử lý PST cho GroupDocs.Conversion .NET"
 "url": "/vi/net/storage-files-pst-processing/"
 "weight": 21
+type: docs
 ---
-
 # Hướng dẫn lưu trữ tệp và xử lý PST cho GroupDocs.Conversion .NET
 
 Hướng dẫn xử lý tệp lưu trữ của chúng tôi cung cấp hướng dẫn chi tiết để xử lý các container email trong các ứng dụng .NET. Các hướng dẫn thực tế này trình bày cách trích xuất và chuyển đổi nội dung từ các tệp lưu trữ cá nhân như PST và OST, truy xuất cấu trúc thư mục, chuyển đổi nội dung lưu trữ sang các định dạng khác nhau, xử lý các phân cấp nội dung lồng nhau, bảo toàn siêu dữ liệu tin nhắn, xử lý hàng loạt nhiều tin nhắn và triển khai các hoạt động trích xuất có chọn lọc. Mỗi hướng dẫn bao gồm các ví dụ mã C# hoàn chỉnh cho các tình huống chuyển đổi tệp lưu trữ, giúp bạn xây dựng các ứng dụng có thể truy cập và chuyển đổi dữ liệu được lưu trữ trong các định dạng container email một cách hiệu quả.

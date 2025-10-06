@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie MPT-Dateien mit GroupDocs.Conversion für .NET in PPT (Schritt-für-Schritt-Anleitung)"
 "url": "/de/net/presentation-formats-features/convert-mpt-to-ppt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie MPT-Dateien in PPT mit GroupDocs.Conversion für .NET
 
 ## Einführung

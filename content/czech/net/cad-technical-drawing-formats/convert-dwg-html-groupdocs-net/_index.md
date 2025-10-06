@@ -4,8 +4,8 @@
 "title": "Jak převést soubory DWG do HTML pomocí GroupDocs.Conversion pro .NET | CAD a technické výkresové formáty"
 "url": "/cs/net/cad-technical-drawing-formats/convert-dwg-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory DWG do HTML pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

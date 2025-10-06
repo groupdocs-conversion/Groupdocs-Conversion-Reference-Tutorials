@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 的示範格式和功能教學課程"
 "url": "/zh-hant/net/presentation-formats-features/"
 "weight": 12
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 的示範格式和功能教學課程
 
 我們以簡報為中心的教學將向您展示如何使用 .NET 中的 GroupDocs.Conversion 處理基於投影片的文件。這些實用指南將逐步講解如何在 PowerPoint 格式之間進行轉換、在轉換過程中隱藏註釋、包含或排除隱藏幻燈片、指定字體替換選項、保留動畫和過渡效果、維護演講者備註、處理嵌入媒體，以及如何確保不同簡報格式之間的佈局一致性。每個教學課程都包含簡報轉換場景的詳細 C# 程式碼範例，可協助您建立能夠產生高品質轉換結果、保留視覺元素和互動功能的應用程式。

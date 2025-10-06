@@ -4,8 +4,8 @@
 "title": "Panduan Lengkap untuk GroupDocs.Conversion untuk Pengaturan dan Implementasi .NET"
 "url": "/id/net/getting-started-licensing/groupdocs-conversion-net-setup-guide/"
 "weight": 1
+type: docs
 ---
-
 # Panduan Lengkap untuk GroupDocs.Conversion untuk .NET: Penyiapan dan Implementasi
 
 ## Perkenalan

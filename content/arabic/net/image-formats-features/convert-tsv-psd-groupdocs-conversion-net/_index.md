@@ -4,8 +4,8 @@
 "title": "تحويل TSV إلى PSD باستخدام GroupDocs.Conversion .NET - دليل شامل"
 "url": "/ar/net/image-formats-features/convert-tsv-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل TSV إلى PSD باستخدام GroupDocs.Conversion .NET
 ## مقدمة
 هل ترغب في تبسيط تحويلات الملفات في تطبيقات .NET؟ سواء كنت مطورًا يعمل على أنظمة إدارة المستندات أو شخصًا يحتاج إلى تحويلات بيانات سلسة، فإن تحويل الملفات من صيغة إلى أخرى قد يكون مرهقًا. سيوضح لك هذا الدليل الشامل كيفية استخدام GroupDocs.Conversion لـ .NET لتحميل ملفات TSV (قيم مفصولة بعلامات تبويب) وتحويلها بكفاءة إلى صيغ PSD (مستندات Photoshop).

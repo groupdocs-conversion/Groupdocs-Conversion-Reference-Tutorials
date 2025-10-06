@@ -8,10 +8,8 @@ keywords:
 - Convert JPEG 2000 to PPTX
 - GroupDocs.Conversion for .NET
 - JPEG 2000 Image File Conversion
-
+type: docs
 ---
-
-
 # Convert JPEG 2000 to PPTX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

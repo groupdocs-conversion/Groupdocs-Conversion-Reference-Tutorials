@@ -3,8 +3,8 @@
 "title": "Výukové programy pro převod formátů e-mailů pro GroupDocs.Conversion v Javě"
 "url": "/cs/java/email-formats/"
 "weight": 8
+type: docs
 ---
-
 # Výukové programy pro převod formátů e-mailů pro GroupDocs.Conversion v Javě
 
 Zvládněte konverzi e-mailových souborů s našimi podrobnými tutoriály GroupDocs.Conversion pro vývojáře v Javě. Tyto podrobné návody ukazují, jak převádět e-mailové zprávy do formátů dokumentů, extrahovat e-mailové přílohy, uchovávat metadata e-mailů, zpracovávat záhlaví a těla e-mailů a implementovat dávkové operace konverze e-mailů. Každý tutoriál poskytuje praktické příklady kódu Java pro práci s e-mailovými archivy a zprávami a pomáhá vám vytvářet aplikace, které dokáží efektivně zpracovávat a transformovat e-mailovou komunikaci do různých formátů dokumentů.

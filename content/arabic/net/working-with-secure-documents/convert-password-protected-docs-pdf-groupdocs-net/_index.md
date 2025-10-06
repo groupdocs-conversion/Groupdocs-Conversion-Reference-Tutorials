@@ -4,8 +4,8 @@
 "title": "تحويل مستندات Word المحمية بكلمة مرور إلى PDF باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/working-with-secure-documents/convert-password-protected-docs-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحميل مستندات Word المحمية بكلمة مرور وتحويلها إلى PDF باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

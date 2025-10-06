@@ -8,10 +8,8 @@ keywords:
 - convert CMX to JPG
 - GroupDocs.Conversion for .NET
 - image conversion tutorial
-
+type: docs
 ---
-
-
 # Comprehensive Tutorial: Convert CMX Files to JPG Using GroupDocs.Conversion for .NET
 
 ## Introduction

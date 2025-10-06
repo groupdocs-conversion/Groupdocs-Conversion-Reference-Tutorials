@@ -4,8 +4,8 @@
 "title": "تحويل BMP إلى XLSX باستخدام GroupDocs.Conversion في .NET - دليل شامل"
 "url": "/ar/net/spreadsheet-conversion/convert-bmp-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل BMP إلى XLSX باستخدام GroupDocs.Conversion في .NET: دليل شامل
 ## مقدمة
 في البيئة الرقمية الحالية، غالبًا ما يكون تحويل ملفات الصور إلى صيغ متعددة الاستخدامات، مثل جداول البيانات، ضروريًا. سواءً أكان ذلك رقمنة المستندات أم تحضير البيانات للتحليل، فقد تكون هذه المهمة معقدة بدون الأدوات المناسبة. **GroupDocs.Conversion لـ .NET** يقدم طريقة فعالة لتحويل صور BMP إلى تنسيق XLSX بسلاسة.

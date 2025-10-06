@@ -4,8 +4,8 @@
 "title": "Hogyan konvertálhatunk rejtett munkalapokat tartalmazó Excel fájlokat PDF-ekké Java és GroupDocs.Conversion használatával"
 "url": "/hu/java/pdf-conversion/convert-excel-hidden-sheets-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhatunk rejtett munkalapokat tartalmazó Excel fájlokat PDF-ekké Java és GroupDocs.Conversion használatával
 
 ## Bevezetés

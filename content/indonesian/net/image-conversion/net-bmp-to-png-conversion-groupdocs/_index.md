@@ -4,8 +4,8 @@
 "title": "Konversi BMP ke PNG yang Efisien dalam .NET Menggunakan Pustaka GroupDocs.Conversion"
 "url": "/id/net/image-conversion/net-bmp-to-png-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Konversi BMP ke PNG yang Efisien dalam .NET dengan GroupDocs
 
 ## Perkenalan

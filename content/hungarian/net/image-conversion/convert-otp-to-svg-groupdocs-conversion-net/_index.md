@@ -4,8 +4,8 @@
 "title": "OTP konvertálása SVG-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-otp-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OTP konvertálása SVG-vé a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

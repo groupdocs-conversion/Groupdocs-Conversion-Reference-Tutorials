@@ -8,10 +8,8 @@ keywords:
 - convert OTP files to XLSX
 - GroupDocs.Conversion .NET tutorial
 - file conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Master GroupDocs.Conversion .NET: Convert OTP Files to Excel XLSX Format Easily
 
 ## Introduction

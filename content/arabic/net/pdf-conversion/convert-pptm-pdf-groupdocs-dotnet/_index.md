@@ -4,8 +4,8 @@
 "title": "تحويل PPTM إلى PDF باستخدام GroupDocs.Conversion لـ .NET - دليل كامل"
 "url": "/ar/net/pdf-conversion/convert-pptm-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ملفات PPTM إلى PDF باستخدام GroupDocs.Conversion لـ .NET: دليل شامل
 ## مقدمة
 قد يكون تحويل عروض مايكروسوفت باوربوينت التقديمية إلى PDF مهمة شاقة، خاصةً عند التعامل مع ملفات متعددة. بالاستفادة من إمكانيات أتمتة تطوير البرمجيات، يُمكننا تبسيط هذه العملية باستخدام GroupDocs.Conversion لـ .NET. سيرشدك هذا البرنامج التعليمي خلال عملية تحويل ملفات PPTM إلى PDF باستخدام C#.

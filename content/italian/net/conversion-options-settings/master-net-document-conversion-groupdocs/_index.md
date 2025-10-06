@@ -4,8 +4,8 @@
 "title": "Padronanza della conversione di documenti .NET&#58; utilizza GroupDocs per trasformazioni PDF senza interruzioni"
 "url": "/it/net/conversion-options-settings/master-net-document-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Padroneggiare la conversione dei documenti in .NET con GroupDocs.Conversion
 
 ## Introduzione

@@ -8,10 +8,8 @@ keywords:
 - convert XLSM to PPTX with GroupDocs.Conversion for .NET
 - GroupDocs.Conversion for .NET tutorial
 - automate document conversion in .NET
-
+type: docs
 ---
-
-
 # How to Efficiently Convert XLSM to PPTX Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

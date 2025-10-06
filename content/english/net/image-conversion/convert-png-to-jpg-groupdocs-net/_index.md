@@ -8,10 +8,8 @@ keywords:
 - convert PNG to JPG
 - GroupDocs.Conversion .NET
 - image conversion guide
-
+type: docs
 ---
-
-
 # Convert PNG to JPG with GroupDocs.Conversion .NET: A Step-by-Step Guide
 
 ## Introduction

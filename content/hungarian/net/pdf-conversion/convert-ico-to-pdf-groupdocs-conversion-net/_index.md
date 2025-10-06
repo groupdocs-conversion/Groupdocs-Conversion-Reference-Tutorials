@@ -4,8 +4,8 @@
 "title": "ICO egyszerű konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével | Lépésről lépésre útmutató"
 "url": "/hu/net/pdf-conversion/convert-ico-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # ICO konvertálása PDF-be a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

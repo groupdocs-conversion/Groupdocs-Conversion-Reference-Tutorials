@@ -5,8 +5,8 @@
 "title": "Chuyển đổi biểu tượng ICO sang PDF"
 "url": "/vi/net/convert-files-to-pdf/convert-ico-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Chuyển đổi biểu tượng ICO sang PDF
 
 ## Giới thiệu

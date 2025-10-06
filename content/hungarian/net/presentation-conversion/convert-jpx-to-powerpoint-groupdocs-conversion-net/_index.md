@@ -4,8 +4,8 @@
 "title": "JPX konvertálása PowerPoint-ba a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/presentation-conversion/convert-jpx-to-powerpoint-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # JPX konvertálása PowerPoint formátumba a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 A mai digitális korban a képfájlok prezentációs formátumba konvertálása elengedhetetlen a vizuális tartalom előkészítéséhez megbeszélésekre vagy konferenciákra. Ez az útmutató végigvezeti Önt a GroupDocs.Conversion for .NET használatán, amellyel zökkenőmentesen konvertálhat JPEG 2000 képfájlokat (.jpx) PowerPoint (PPT) prezentációkká.

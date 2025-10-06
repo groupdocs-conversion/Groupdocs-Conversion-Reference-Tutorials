@@ -8,10 +8,8 @@ keywords:
 - MPX to TeX
 - GroupDocs.Conversion .NET
 - GIS data conversion
-
+type: docs
 ---
-
-
 # Convert MPX to TEX Using GroupDocs.Conversion for .NET: A Developer's Guide
 
 ## Introduction

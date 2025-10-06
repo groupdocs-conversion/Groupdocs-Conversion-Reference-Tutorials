@@ -4,8 +4,8 @@
 "title": "Convertissez facilement du PCL en PDF avec GroupDocs.Conversion pour .NET &#58; un guide étape par étape"
 "url": "/fr/net/pdf-conversion/convert-pcl-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir PCL en PDF avec GroupDocs.Conversion pour .NET : guide étape par étape
 
 ## Introduction

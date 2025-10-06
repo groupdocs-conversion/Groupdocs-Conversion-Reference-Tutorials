@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 Excel에서 LaTeX로의 변환 자동화&#58; 종합 가이드"
 "url": "/ko/net/spreadsheet-formats-features/groupdocs-conversion-net-excel-to-latex/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs를 사용하여 Excel 매크로를 LaTeX로 자동화
 
 ## 소개

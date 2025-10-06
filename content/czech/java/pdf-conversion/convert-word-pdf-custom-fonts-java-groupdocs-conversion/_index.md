@@ -4,8 +4,8 @@
 "title": "Převod Wordu do PDF s vlastními fonty v Javě – kompletní průvodce pomocí GroupDocs.Conversion"
 "url": "/cs/java/pdf-conversion/convert-word-pdf-custom-fonts-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Převod dokumentů Wordu do PDF s vlastními fonty v Javě: Kompletní průvodce pomocí GroupDocs.Conversion
 
 ## Zavedení

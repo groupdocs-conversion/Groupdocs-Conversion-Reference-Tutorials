@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion का उपयोग करके कैशिंग के साथ .NET दस्तावेज़ रूपांतरण को अनुकूलित करें"
 "url": "/hi/net/cache-management/optimize-net-document-conversion-caching-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion का उपयोग करके कैशिंग के साथ .NET दस्तावेज़ रूपांतरण को अनुकूलित करें
 
 ## परिचय

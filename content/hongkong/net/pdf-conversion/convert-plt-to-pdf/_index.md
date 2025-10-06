@@ -5,8 +5,8 @@
 "title": "將 PLT 轉換為 PDF"
 "url": "/zh-hant/net/pdf-conversion/convert-plt-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # 將 PLT 轉換為 PDF
 
 ## 介紹

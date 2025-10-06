@@ -8,10 +8,8 @@ keywords:
 - convert LOG to TEX
 - GroupDocs.Conversion for .NET
 - document conversion in .NET
-
+type: docs
 ---
-
-
 # How to Load and Convert LOG Files Using GroupDocs.Conversion for .NET
 
 ## Introduction

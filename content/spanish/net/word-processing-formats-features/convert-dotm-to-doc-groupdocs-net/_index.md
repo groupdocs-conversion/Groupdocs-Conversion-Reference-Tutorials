@@ -4,8 +4,8 @@
 "title": "Convierta DOTM a DOC con GroupDocs.Conversion para .NET&#58; una guía completa"
 "url": "/es/net/word-processing-formats-features/convert-dotm-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir DOTM a DOC usando GroupDocs.Conversion para .NET
 
 ¿Tiene dificultades para convertir plantillas de Microsoft Word compatibles con macros (.dotm) a documentos estándar de Word (.doc)? Esta guía completa sobre el uso de... **GroupDocs.Conversion para .NET** La biblioteca te ayudará a simplificar este proceso. Al finalizar este tutorial, dominarás la conversión de formatos de archivo con facilidad.

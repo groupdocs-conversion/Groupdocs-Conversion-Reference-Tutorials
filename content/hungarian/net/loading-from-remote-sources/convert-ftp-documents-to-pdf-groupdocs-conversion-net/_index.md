@@ -4,8 +4,8 @@
 "title": "Hogyan konvertálhatunk FTP dokumentumokat PDF-be a GroupDocs.Conversion for .NET használatával?"
 "url": "/hu/net/loading-from-remote-sources/convert-ftp-documents-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # FTP dokumentumok PDF-be konvertálása a GroupDocs.Conversion for .NET használatával
 
 A mai digitális világban elengedhetetlen a dokumentumok hatékony kezelése és konvertálása. Ez az oktatóanyag végigvezeti Önt azon, hogyan tölthet le dokumentumokat egy FTP-kiszolgálóról, és hogyan alakíthatja át azokat univerzálisan elfogadott formátumba, például PDF-be a következő segítségével: **GroupDocs.Conversion .NET-hez**.

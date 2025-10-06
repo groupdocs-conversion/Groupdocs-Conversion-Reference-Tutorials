@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie CMX in TXT mit GroupDocs.Conversion für .NET – Eine Schritt-für-Schritt-Anleitung"
 "url": "/de/net/text-file-processing/convert-cmx-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie CMX in TXT mit GroupDocs.Conversion für .NET
 
 ## Einführung

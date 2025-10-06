@@ -4,8 +4,8 @@
 "title": "Kompleksowe samouczki GroupDocs.Conversion dla Java"
 "url": "/pl/java/"
 "weight": 10
+type: docs
 ---
-
 # Kompleksowe samouczki GroupDocs.Conversion dla Java
 
 ## Wstęp

@@ -4,8 +4,8 @@
 "title": "Cara Memuat dan Mengonversi File OTS Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/spreadsheet-formats-features/load-ots-file-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cara Memuat dan Mengonversi File OTS Menggunakan GroupDocs.Conversion untuk .NET
 
 Dalam lanskap digital saat ini, mengelola berbagai format dokumen sangat penting bagi bisnis dan pengembang. Baik menangani faktur atau kontrak, mengonversinya ke dalam format yang diterima secara universal dapat menghemat waktu dan sumber daya. Tutorial ini akan memandu Anda dalam memuat dan mengonversi file OpenDocument Spreadsheet Text (OTS) menggunakan pustaka GroupDocs.Conversion yang canggih untuk .NET.

@@ -4,8 +4,8 @@
 "title": "إتقان تحويل مستندات .NET - Excel إلى Word باستخدام GroupDocs.Conversion"
 "url": "/ar/net/word-processing-conversion/master-net-conversion-excel-word-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # إتقان تحويل مستندات .NET: من Excel إلى Word باستخدام GroupDocs.Conversion
 
 ## مقدمة

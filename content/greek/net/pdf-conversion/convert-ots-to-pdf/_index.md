@@ -5,8 +5,8 @@
 "title": "Μετατροπή OTS σε PDF"
 "url": "/el/net/pdf-conversion/convert-ots-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # Μετατροπή OTS σε PDF
 
 ## Εισαγωγή

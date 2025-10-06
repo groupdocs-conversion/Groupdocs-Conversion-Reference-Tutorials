@@ -4,8 +4,8 @@
 "title": "Ορισμός άδειας χρήσης από τη ροή στο GroupDocs.Conversion για .NET™ Ένας πλήρης οδηγός"
 "url": "/el/net/getting-started-licensing/groupdocs-conversion-net-set-license-stream/"
 "weight": 1
+type: docs
 ---
-
 # Ορισμός άδειας χρήσης από τη ροή στο GroupDocs.Conversion για .NET: Ένας πλήρης οδηγός
 
 ## Εισαγωγή

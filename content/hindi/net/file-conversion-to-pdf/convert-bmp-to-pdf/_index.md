@@ -5,8 +5,8 @@
 "title": "BMP छवियों को PDF में बदलें"
 "url": "/hi/net/file-conversion-to-pdf/convert-bmp-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # BMP छवियों को PDF में बदलें
 
 ## परिचय

@@ -4,8 +4,8 @@
 "title": "ODG konvertálása TEX-be a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/presentation-formats-features/convert-odg-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # ODG konvertálása TEX-re a GroupDocs.Conversion for .NET használatával: Teljes körű útmutató
 
 ## Bevezetés

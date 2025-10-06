@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 將 XML 轉換為 HTML 完整指南"
 "url": "/zh-hant/net/html-conversion/convert-xml-html-groupdocs-conversion-net-tutorial/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 將 XML 轉換為 HTML：完整指南
 
 ## 介紹

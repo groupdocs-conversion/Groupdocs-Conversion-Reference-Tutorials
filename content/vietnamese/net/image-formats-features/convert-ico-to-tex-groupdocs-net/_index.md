@@ -4,8 +4,8 @@
 "title": "Chuyển đổi ICO sang TEX trong .NET bằng GroupDocs.Conversion&#58; Hướng dẫn từng bước"
 "url": "/vi/net/image-formats-features/convert-ico-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp ICO sang TEX bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

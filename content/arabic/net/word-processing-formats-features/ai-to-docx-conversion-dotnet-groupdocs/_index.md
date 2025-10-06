@@ -4,8 +4,8 @@
 "title": "تحويل فعال من AI إلى DOCX في .NET باستخدام GroupDocs.Conversion"
 "url": "/ar/net/word-processing-formats-features/ai-to-docx-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # تحويل فعال من AI إلى DOCX في .NET باستخدام GroupDocs.Conversion
 
 ## مقدمة

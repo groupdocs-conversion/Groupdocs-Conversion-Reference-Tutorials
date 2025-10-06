@@ -4,8 +4,8 @@
 "title": "VSSX fájlok egyszerű JPG formátumba konvertálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/image-conversion/convert-vssx-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VSSX JPG formátumba konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

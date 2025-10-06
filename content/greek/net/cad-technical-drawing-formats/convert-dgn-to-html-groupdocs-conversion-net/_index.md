@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή DGN σε HTML χρησιμοποιώντας το GroupDocs.Conversion για .NET | Μορφές CAD και τεχνικού σχεδίου"
 "url": "/el/net/cad-technical-drawing-formats/convert-dgn-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική μετατροπή αρχείων DGN σε HTML με το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

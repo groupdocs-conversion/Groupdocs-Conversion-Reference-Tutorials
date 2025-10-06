@@ -4,8 +4,8 @@
 "title": "Chuyển đổi PPTM sang DOC trong .NET bằng GroupDocs.Conversion"
 "url": "/vi/net/word-processing-conversion/convert-pptm-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi PPTM sang DOC trong .NET bằng GroupDocs.Conversion
 
 ## Giới thiệu

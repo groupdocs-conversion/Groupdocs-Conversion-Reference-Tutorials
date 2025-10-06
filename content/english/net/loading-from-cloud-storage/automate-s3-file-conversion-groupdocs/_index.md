@@ -8,10 +8,8 @@ keywords:
 - automate S3 file conversion
 - AWS SDK for .NET integration
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # Automate S3 File Conversion Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

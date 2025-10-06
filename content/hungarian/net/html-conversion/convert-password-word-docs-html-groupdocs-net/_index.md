@@ -4,8 +4,8 @@
 "title": "Jelszóval védett Word-dokumentumok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/html-conversion/convert-password-word-docs-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jelszóval védett Word-dokumentumok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

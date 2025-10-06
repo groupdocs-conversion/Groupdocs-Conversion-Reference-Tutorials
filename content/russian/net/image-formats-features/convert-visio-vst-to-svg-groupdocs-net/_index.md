@@ -4,8 +4,8 @@
 "title": "Как преобразовать шаблоны чертежей Visio (.vst) в SVG с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/image-formats-features/convert-visio-vst-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Как преобразовать шаблоны чертежей Visio (.vst) в SVG с помощью GroupDocs.Conversion для .NET
 
 ## Введение

@@ -4,8 +4,8 @@
 "title": "تحويل المستندات الرئيسية في .NET باستخدام واجهة برمجة تطبيقات GroupDocs.Conversion"
 "url": "/ar/net/conversion-utilities-information/master-document-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # إتقان تحويل المستندات في .NET باستخدام واجهة برمجة التطبيقات GroupDocs.Conversion
 
 مرحبًا بكم في هذا الدليل الشامل المُصمم لمساعدتكم على دمج ميزات تحويل المستندات بسلاسة في تطبيقات .NET باستخدام واجهة برمجة تطبيقات GroupDocs.Conversion. سواءً كنتم تُديرون عددًا كبيرًا من المستندات أو تحتاجون إلى حل مرن لتحويل تنسيقات الملفات، يُزودكم هذا الدليل بكل ما تحتاجونه للبدء.

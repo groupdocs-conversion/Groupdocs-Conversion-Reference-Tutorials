@@ -4,8 +4,8 @@
 "title": "Převod XLSX do PPT pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/presentation-conversion/convert-xlsx-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod XLSX do PPT pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

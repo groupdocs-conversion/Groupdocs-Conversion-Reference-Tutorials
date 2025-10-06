@@ -8,10 +8,8 @@ keywords:
 - convert CDR to TXT
 - GroupDocs.Conversion .NET setup
 - document conversion guide
-
+type: docs
 ---
-
-
 # How to Convert CDR Files to TXT Using GroupDocs.Conversion for .NET: A Complete Guide
 
 ## Introduction

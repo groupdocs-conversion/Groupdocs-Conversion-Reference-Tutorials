@@ -4,8 +4,8 @@
 "title": "Átfogó útmutató a BMP HTML-lé konvertálásához a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/html-conversion/convert-bmp-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató: BMP konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

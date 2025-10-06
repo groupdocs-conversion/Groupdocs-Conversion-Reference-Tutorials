@@ -4,8 +4,8 @@
 "title": "Converter DWT para JPG usando GroupDocs.Conversion para .NET - Um guia passo a passo"
 "url": "/pt/net/image-conversion/convert-dwt-to-jpg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converter DWT para JPG usando GroupDocs.Conversion para .NET: um guia passo a passo
 
 ## Introdução

@@ -5,8 +5,8 @@
 "title": "POTX konvertálása PDF-be"
 "url": "/hu/net/pdf-conversion/convert-potx-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # POTX konvertálása PDF-be
 
 ## Bevezetés

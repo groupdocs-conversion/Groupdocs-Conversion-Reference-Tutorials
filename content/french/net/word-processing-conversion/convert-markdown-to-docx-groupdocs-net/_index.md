@@ -4,8 +4,8 @@
 "title": "Convertir du Markdown en DOCX à l'aide de GroupDocs.Conversion pour .NET &#58; un guide étape par étape"
 "url": "/fr/net/word-processing-conversion/convert-markdown-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir du Markdown en DOCX avec GroupDocs.Conversion pour .NET
 
 ## Introduction

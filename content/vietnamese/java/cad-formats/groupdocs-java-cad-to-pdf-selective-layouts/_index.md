@@ -4,8 +4,8 @@
 "title": "Chuyển đổi Bố cục CAD sang PDF trong Java bằng Hướng dẫn Chuyển đổi Bố cục Chọn lọc của GroupDocs"
 "url": "/vi/java/cad-formats/groupdocs-java-cad-to-pdf-selective-layouts/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi Bố cục CAD sang PDF với GroupDocs.Conversion cho Java
 ## Làm chủ chuyển đổi CAD sang PDF có chọn lọc trong Java
 ### Giới thiệu

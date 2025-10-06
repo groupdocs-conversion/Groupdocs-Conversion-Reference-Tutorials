@@ -4,8 +4,8 @@
 "title": "XLSB konvertálása PDF-be a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/pdf-conversion-features/convert-xlsb-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # XLSB fájlok PDF-be konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

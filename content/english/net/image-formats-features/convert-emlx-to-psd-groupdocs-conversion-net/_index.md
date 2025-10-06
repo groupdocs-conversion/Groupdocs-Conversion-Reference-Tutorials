@@ -8,10 +8,8 @@ keywords:
 - EMLX to PSD conversion
 - GroupDocs.Conversion for .NET
 - Email file conversion
-
+type: docs
 ---
-
-
 # Convert EMLX Emails to High-Quality PSD Files with GroupDocs.Conversion for .NET
 
 ## Introduction

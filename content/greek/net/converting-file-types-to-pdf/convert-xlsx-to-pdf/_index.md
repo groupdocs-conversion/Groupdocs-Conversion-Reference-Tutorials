@@ -5,8 +5,8 @@
 "title": "Μετατροπή XLSX σε PDF"
 "url": "/el/net/converting-file-types-to-pdf/convert-xlsx-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Μετατροπή XLSX σε PDF
 
 ## Εισαγωγή

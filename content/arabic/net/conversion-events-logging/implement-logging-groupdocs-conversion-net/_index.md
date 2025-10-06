@@ -4,8 +4,8 @@
 "title": "تنفيذ تسجيل الدخول في GroupDocs.Conversion لـ .NET - دليل خطوة بخطوة"
 "url": "/ar/net/conversion-events-logging/implement-logging-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تنفيذ تسجيل أحداث GroupDocs.Conversion في .NET: دليل شامل
 
 ## مقدمة

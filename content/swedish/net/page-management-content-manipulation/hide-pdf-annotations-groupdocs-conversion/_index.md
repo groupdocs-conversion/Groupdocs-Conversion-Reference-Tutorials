@@ -4,8 +4,8 @@
 "title": "Så här döljer du PDF-anteckningar innan du konverterar till Word med GroupDocs.Conversion för .NET"
 "url": "/sv/net/page-management-content-manipulation/hide-pdf-annotations-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Hur man döljer PDF-anteckningar innan man konverterar till Word med GroupDocs.Conversion för .NET
 
 ## Introduktion

@@ -4,8 +4,8 @@
 "title": "Conversión de archivos maestros&#58; Convertir POTX a DOCX con GroupDocs.Conversion .NET"
 "url": "/es/net/word-processing-formats-features/convert-potx-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Dominando la conversión de archivos: Convierte POTX a DOCX con GroupDocs.Conversion .NET
 
 En el acelerado mundo digital actual, convertir archivos de un formato a otro sin problemas es una habilidad crucial. Ya sea que prepares presentaciones o compartas documentos en diferentes plataformas, garantizar la compatibilidad puede ahorrarte tiempo y dolores de cabeza. Este tutorial te guiará en el uso de la potente biblioteca .NET GroupDocs.Conversion para convertir archivos POTX (plantillas de PowerPoint) a formato DOCX. Aprenderás a gestionar las tareas de conversión de archivos de forma eficiente y sencilla.

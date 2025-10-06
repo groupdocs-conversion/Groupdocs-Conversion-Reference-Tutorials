@@ -3,8 +3,8 @@
 "title": "Tutorial Konversi Format CAD untuk GroupDocs.Conversion Java"
 "url": "/id/java/cad-formats/"
 "weight": 10
+type: docs
 ---
-
 # Tutorial Konversi Format CAD untuk GroupDocs.Conversion Java
 
 Pelajari cara memproses gambar CAD dengan tutorial GroupDocs.Conversion kami yang komprehensif untuk pengembang Java. Panduan praktis ini menunjukkan cara mengonversi file AutoCAD ke format yang dapat dilihat, menyimpan lapisan dan pengukuran, menangani gambar besar, mengelola viewport dan tata letak, serta mengubah model 3D menjadi representasi 2D. Setiap tutorial menyertakan contoh kode Java terperinci untuk skenario konversi CAD, membantu Anda membangun aplikasi yang dapat memproses gambar teknis secara akurat sambil menyimpan detail teknik yang penting.

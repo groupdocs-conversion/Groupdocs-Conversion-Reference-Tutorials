@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して PostScript (PS) をプレーンテキストに変換する方法"
 "url": "/ja/net/text-markup-conversion/convert-ps-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して PostScript (PS) をプレーンテキストに変換する方法
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi tài liệu Word sang PDF trong .NET bằng GroupDocs.Conversion"
 "url": "/vi/net/pdf-conversion-features/convert-word-doc-to-pdf-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tài liệu Word sang PDF trong .NET bằng GroupDocs.Conversion
 
 ## Giới thiệu

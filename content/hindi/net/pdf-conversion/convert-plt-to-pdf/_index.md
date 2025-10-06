@@ -5,8 +5,8 @@
 "title": "PLT को PDF में बदलें"
 "url": "/hi/net/pdf-conversion/convert-plt-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # PLT को PDF में बदलें
 
 ## परिचय

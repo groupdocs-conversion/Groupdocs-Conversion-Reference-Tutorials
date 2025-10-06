@@ -4,8 +4,8 @@
 "title": "Простое преобразование JPX в PSD с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/image-formats-features/converting-jpx-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Простое преобразование JPX в PSD с помощью GroupDocs.Conversion для .NET
 
 ## Введение

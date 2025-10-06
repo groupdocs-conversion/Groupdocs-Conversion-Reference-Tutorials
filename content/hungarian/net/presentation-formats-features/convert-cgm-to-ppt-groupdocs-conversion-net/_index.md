@@ -4,8 +4,8 @@
 "title": "CGM fájlok konvertálása PowerPoint (PPT) formátumba a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/presentation-formats-features/convert-cgm-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # CGM-fájlok konvertálása PowerPoint-bemutatókká a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

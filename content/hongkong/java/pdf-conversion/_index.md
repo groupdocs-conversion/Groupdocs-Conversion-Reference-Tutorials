@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Java 的 PDF 轉換教學"
 "url": "/zh-hant/java/pdf-conversion/"
 "weight": 4
+type: docs
 ---
-
 # GroupDocs.Conversion Java 的 PDF 轉換教學
 
 我們的 PDF 轉換教學提供了在 Java 應用程式中處理 PDF 文件的詳細指導。遵循這些實用指南，您將學習如何將各種文件格式轉換為 PDF、將 PDF 轉換為其他格式、配置 PDF 特定選項、處理受密碼保護的 PDF 以及如何管理表單和註釋等 PDF 功能。這些教學包含常見 PDF 轉換場景的完整 Java 程式碼範例，可協助您建立能夠高效處理 PDF 文件的應用程式。

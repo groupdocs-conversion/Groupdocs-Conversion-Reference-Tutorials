@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή VSDM σε SVG με το GroupDocs.Conversion για .NET"
 "url": "/el/net/cad-technical-drawing-formats/convert-vsmd-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε VSDM σε SVG με το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

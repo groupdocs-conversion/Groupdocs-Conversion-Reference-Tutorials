@@ -8,10 +8,8 @@ keywords:
 - convert DOTM to PSD
 - GroupDocs.Conversion for .NET
 - file conversion in .NET
-
+type: docs
 ---
-
-
 # Convert DOTM to PSD in .NET Using GroupDocs.Conversion: A Comprehensive Guide
 
 ## Introduction

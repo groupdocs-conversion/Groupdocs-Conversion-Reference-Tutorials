@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 GIF 轉換為 PSD 的完整指南"
 "url": "/zh-hant/net/image-formats-features/convert-gif-to-psd-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 GIF 轉換為 PSD：完整指南
 
 ## 介紹

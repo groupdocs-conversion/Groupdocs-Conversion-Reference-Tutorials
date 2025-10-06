@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Java による高度なテキストから PDF への変換 - 書式保持"
 "url": "/ja/java/pdf-conversion/groupdocs-conversion-java-text-to-pdf-advanced-formatting/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Java による高度なテキストから PDF への変換: 書式の保持
 
 ## 導入

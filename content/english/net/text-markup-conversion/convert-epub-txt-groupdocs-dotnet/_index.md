@@ -8,10 +8,8 @@ keywords:
 - convert EPUB to TXT
 - GroupDocs.Conversion for .NET
 - document conversion functionality
-
+type: docs
 ---
-
-
 # How to Convert EPUB to TXT Using GroupDocs.Conversion for .NET
 
 ## Introduction

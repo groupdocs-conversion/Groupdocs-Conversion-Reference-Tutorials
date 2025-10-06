@@ -4,8 +4,8 @@
 "title": ".NET डेवलपर्स के लिए GroupDocs का उपयोग करके Visio वेब ड्रॉइंग को PowerPoint में कुशलतापूर्वक रूपांतरित करें"
 "url": "/hi/net/presentation-formats-features/convert-vdw-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET डेवलपर्स के लिए ग्रुपडॉक्स का उपयोग करके Visio वेब ड्रॉइंग (VDW) को पावरपॉइंट प्रेजेंटेशन में कुशलतापूर्वक परिवर्तित करना
 
 ## परिचय

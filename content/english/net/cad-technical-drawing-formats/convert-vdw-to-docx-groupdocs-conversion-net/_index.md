@@ -8,10 +8,8 @@ keywords:
 - convert VDW to DOCX
 - GroupDocs.Conversion for .NET setup
 - file conversion in .NET
-
+type: docs
 ---
-
-
 # Comprehensive Tutorial: Convert VDW to DOCX Using GroupDocs.Conversion for .NET
 
 ## Introduction

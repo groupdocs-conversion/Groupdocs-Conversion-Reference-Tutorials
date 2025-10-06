@@ -3,8 +3,8 @@
 "title": "Hướng dẫn định dạng Web và Markup cho GroupDocs.Conversion .NET"
 "url": "/vi/net/web-markup-formats/"
 "weight": 19
+type: docs
 ---
-
 # Hướng dẫn định dạng Web và Markup cho GroupDocs.Conversion .NET
 
 Hướng dẫn chuyển đổi định dạng web của chúng tôi cung cấp hướng dẫn toàn diện để làm việc với ngôn ngữ đánh dấu trong các ứng dụng .NET. Các hướng dẫn từng bước này trình bày cách chuyển đổi tài liệu sang và từ định dạng HTML, thêm số trang vào tài liệu web, xử lý kiểu CSS, quản lý tài nguyên nhúng, triển khai bố cục phản hồi, kiểm soát hành vi nhúng hình ảnh, bảo toàn siêu liên kết và duy trì cấu trúc tài liệu. Mỗi hướng dẫn bao gồm các ví dụ mã C# hoàn chỉnh cho các tình huống chuyển đổi định dạng web, giúp bạn xây dựng các ứng dụng có thể thu hẹp khoảng cách giữa định dạng tài liệu và nội dung web một cách hiệu quả.

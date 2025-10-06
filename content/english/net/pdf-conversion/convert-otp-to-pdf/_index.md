@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Effortlessly convert OTP files to PDF using GroupDocs.Conversion for .NET. Streamline your workflow with this intuitive file conversion tool.
 weight: 14
 url: /net/pdf-conversion/convert-otp-to-pdf/
+type: docs
 ---
-
 # Convert OTP to PDF
 
 ## Introduction

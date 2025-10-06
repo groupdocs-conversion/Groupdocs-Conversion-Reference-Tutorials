@@ -8,10 +8,8 @@ keywords:
 - Azure Blob Storage to PDF
 - .NET document conversion
 - GroupDocs.Conversion
-
+type: docs
 ---
-
-
 # How to Download and Convert Azure Blob Storage Files to PDF Using .NET and GroupDocs.Conversion
 
 ## Introduction

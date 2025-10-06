@@ -4,8 +4,8 @@
 "title": "Chuyển đổi CSV dễ dàng bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn đầy đủ"
 "url": "/vi/net/spreadsheet-formats-features/convert-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi CSV dễ dàng bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

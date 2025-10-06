@@ -4,8 +4,8 @@
 "title": "Zvládněte konverzi DOCX do PPT pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/presentation-conversion/groupdocs-conversion-dotnet-docx-to-ppt/"
 "weight": 1
+type: docs
 ---
-
 # Zvládnutí konverze DOCX do PPT pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

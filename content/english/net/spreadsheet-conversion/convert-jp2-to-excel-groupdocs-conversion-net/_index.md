@@ -8,10 +8,8 @@ keywords:
 - JP2 to Excel conversion
 - GroupDocs.Conversion for .NET
 - JPEG 2000 to XLS transformation
-
+type: docs
 ---
-
-
 # Convert JP2 Files to Excel Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

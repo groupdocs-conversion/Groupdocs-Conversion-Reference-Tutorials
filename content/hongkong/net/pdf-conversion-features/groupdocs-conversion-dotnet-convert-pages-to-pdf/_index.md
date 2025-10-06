@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將特定頁面轉換為 PDF 綜合指南"
 "url": "/zh-hant/net/pdf-conversion-features/groupdocs-conversion-dotnet-convert-pages-to-pdf/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將特定頁面轉換為 PDF：綜合指南
 
 ## 介紹

@@ -4,8 +4,8 @@
 "title": "XLAM fájl CSV-vé konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-xlam-to-csv-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # XLAM konvertálása CSV-vé a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

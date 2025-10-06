@@ -4,8 +4,8 @@
 "title": "Конвертируйте PDF в ODT с помощью GroupDocs.Conversion для Java&#58; Подробное руководство"
 "url": "/ru/java/document-operations/convert-pdf-pages-to-odt-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте страницы PDF в ODT с помощью GroupDocs.Conversion в Java
 
 ## Введение

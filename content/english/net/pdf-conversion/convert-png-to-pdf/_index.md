@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Effortlessly convert PNG images to PDF documents using GroupDocs.Conversion for .NET. Simple steps for seamless file format conversion.
 weight: 20
 url: /net/pdf-conversion/convert-png-to-pdf/
+type: docs
 ---
-
 # Convert PNG to PDF
 
 ## Introduction

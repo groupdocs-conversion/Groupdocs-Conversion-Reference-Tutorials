@@ -5,8 +5,8 @@ weight: 10
 url: /net/
 description: Effortlessly convert files to PDF using GroupDocs.Conversion for .NET. Streamline document management with customizable options. #GroupDocs.Conversion
 is_root: true
+type: docs
 ---
-
 # Comprehensive Tutorials of GroupDocs.Conversion for .NET
 
 

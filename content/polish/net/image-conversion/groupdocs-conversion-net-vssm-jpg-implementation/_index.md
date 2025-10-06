@@ -4,8 +4,8 @@
 "title": "Jak konwertować pliki VSSM do JPG za pomocą GroupDocs.Conversion dla .NET&#58; Przewodnik krok po kroku"
 "url": "/pl/net/image-conversion/groupdocs-conversion-net-vssm-jpg-implementation/"
 "weight": 1
+type: docs
 ---
-
 # Jak konwertować pliki VSSM do JPG za pomocą GroupDocs.Conversion dla .NET: przewodnik krok po kroku
 
 ## Wstęp

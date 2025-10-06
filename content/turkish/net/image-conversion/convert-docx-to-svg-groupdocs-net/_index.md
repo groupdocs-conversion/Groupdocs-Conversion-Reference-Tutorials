@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanılarak DOCX'in SVG'ye Nasıl Dönüştürüleceği - Görüntü Dönüştürme Eğitimi"
 "url": "/tr/net/image-conversion/convert-docx-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanılarak DOCX Dosyaları SVG'ye Nasıl Dönüştürülür
 
 ## giriiş

@@ -5,8 +5,8 @@
 "title": "TIFF konvertálása PDF-be"
 "url": "/hu/net/file-format-conversion-tutorials/convert-tiff-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # TIFF konvertálása PDF-be
 
 ## Bevezetés

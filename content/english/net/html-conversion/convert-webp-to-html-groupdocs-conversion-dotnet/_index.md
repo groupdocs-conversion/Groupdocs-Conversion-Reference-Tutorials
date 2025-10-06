@@ -8,10 +8,8 @@ keywords:
 - convert webp to html .net
 - groupdocs conversion for net
 - webp image to html format
-
+type: docs
 ---
-
-
 # Comprehensive Guide: Convert WEBP to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

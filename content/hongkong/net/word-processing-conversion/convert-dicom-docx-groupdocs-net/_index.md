@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 DICOM 轉換為 DOCX — 逐步指南"
 "url": "/zh-hant/net/word-processing-conversion/convert-dicom-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 DICOM 檔案轉換為 DOCX：綜合指南
 
 ## 介紹

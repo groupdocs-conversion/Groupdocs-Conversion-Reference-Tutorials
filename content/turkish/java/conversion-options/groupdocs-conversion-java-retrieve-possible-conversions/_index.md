@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for Java&#58; Tüm Olası Dönüşümleri Nasıl Alırsınız"
 "url": "/tr/java/conversion-options/groupdocs-conversion-java-retrieve-possible-conversions/"
 "weight": 1
+type: docs
 ---
-
 # Java için GroupDocs.Conversion Kullanarak Tüm Olası Dönüşümleri Almaya Yönelik Kapsamlı Kılavuz
 
 ## giriiş

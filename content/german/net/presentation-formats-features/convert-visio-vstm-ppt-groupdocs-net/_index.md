@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie Visio VSTM mit GroupDocs.Conversion für .NET in PowerPoint"
 "url": "/de/net/presentation-formats-features/convert-visio-vstm-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie Visio VSTM mit GroupDocs.Conversion für .NET in PowerPoint
 
 ## Einführung

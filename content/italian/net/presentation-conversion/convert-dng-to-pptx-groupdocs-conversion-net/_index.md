@@ -4,8 +4,8 @@
 "title": "Converti facilmente DNG in PPTX con GroupDocs.Conversion per .NET"
 "url": "/it/net/presentation-conversion/convert-dng-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converti DNG in PPTX con GroupDocs.Conversion per .NET
 
 Nell'attuale panorama digitale, essere in grado di gestire in modo rapido ed efficace le conversioni dei file è essenziale. Che tu sia un architetto che presenta progetti 3D o un addetto al marketing che converte immagini raw in presentazioni, imparare a convertire i file Digital Negative (DNG) in formato PowerPoint (.pptx) può essere incredibilmente utile.

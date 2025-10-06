@@ -4,8 +4,8 @@
 "title": "Chuyển đổi HTML sang Văn bản Sử dụng GroupDocs.Conversion cho .NET&#58; Hướng dẫn Toàn diện"
 "url": "/vi/net/web-markup-formats/convert-html-to-text-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi HTML sang Văn bản Sử dụng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

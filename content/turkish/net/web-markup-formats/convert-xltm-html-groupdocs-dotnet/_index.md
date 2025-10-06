@@ -4,8 +4,8 @@
 "title": "XLTM'yi GroupDocs.Conversion for .NET Kullanarak HTML'ye Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/web-markup-formats/convert-xltm-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # XLTM'yi GroupDocs.Conversion for .NET Kullanarak HTML'ye Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

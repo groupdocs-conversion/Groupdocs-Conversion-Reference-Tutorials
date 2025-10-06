@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tài liệu sang bảng tính hiệu quả bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/spreadsheet-formats-features/convert-documents-to-spreadsheets-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tài liệu sang bảng tính hiệu quả bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

@@ -8,10 +8,8 @@ keywords:
 - Convert LaTeX to DOCX
 - GroupDocs.Conversion .NET
 - LaTeX to Word conversion
-
+type: docs
 ---
-
-
 # Convert LaTeX to DOCX Using GroupDocs.Conversion .NET: A Comprehensive Guide
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - convert IGS to DOC
 - GroupDocs.Conversion for .NET
 - IGES file conversion
-
+type: docs
 ---
-
-
 # Convert IGS to DOC Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将 BMP 转换为 TXT 的分步指南"
 "url": "/zh/net/image-conversion/bmp-to-txt-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将 BMP 转换为 TXT：分步指南
 
 ## 介绍

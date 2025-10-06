@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie PowerPoint-Vorlagen in HTML mit GroupDocs.Conversion für .NET – Eine Schritt-für-Schritt-Anleitung"
 "url": "/de/net/html-conversion/convert-pot-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie PowerPoint-Vorlagen mit GroupDocs.Conversion für .NET in HTML: Eine Schritt-für-Schritt-Anleitung
 
 ## Einführung

@@ -5,8 +5,8 @@
 "title": "XLAM을 PDF로 변환"
 "url": "/ko/net/converting-file-types-to-pdf/convert-xlam-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # XLAM을 PDF로 변환
 
 ## 소개

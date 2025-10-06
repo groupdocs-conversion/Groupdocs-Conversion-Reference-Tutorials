@@ -8,10 +8,8 @@ keywords:
 - MOBI to SVG Conversion
 - GroupDocs.Conversion for .NET
 - document format conversion
-
+type: docs
 ---
-
-
 # How to Convert MOBI to SVG Using GroupDocs.Conversion for .NET
 
 ## Introduction

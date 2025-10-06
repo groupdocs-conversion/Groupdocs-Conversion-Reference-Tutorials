@@ -5,8 +5,8 @@
 "title": "DOTM Word-sjablonen (macro's) naar PDF converteren"
 "url": "/nl/net/file-conversion-to-pdf/convert-dotm-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # DOTM Word-sjablonen (macro's) naar PDF converteren
 
 ## Invoering

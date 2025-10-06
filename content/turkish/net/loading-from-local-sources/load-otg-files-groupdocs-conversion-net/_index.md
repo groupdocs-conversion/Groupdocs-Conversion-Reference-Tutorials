@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak OTG Dosyalarını Yükleme ve Dönüştürme&#58; Bir Geliştiricinin Kılavuzu"
 "url": "/tr/net/loading-from-local-sources/load-otg-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak OTG Dosyalarını Yükleme ve Dönüştürme: Geliştiricinin Kılavuzu
 
 ## giriiş

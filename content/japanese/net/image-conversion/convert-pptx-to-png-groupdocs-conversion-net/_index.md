@@ -4,8 +4,8 @@
 "title": ".NETでGroupDocs.Conversionを使用してPPTXファイルをPNGに変換する方法 包括的なガイド"
 "url": "/ja/net/image-conversion/convert-pptx-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NETでGroupDocs.Conversionを使用してPPTXファイルをPNGに変換する方法：包括的なガイド
 
 ## 導入

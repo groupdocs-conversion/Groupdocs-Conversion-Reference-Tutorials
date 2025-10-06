@@ -4,8 +4,8 @@
 "title": "تحويل EML إلى PDF في .NET باستخدام إزاحة المنطقة الزمنية - دليل شامل باستخدام GroupDocs.Conversion"
 "url": "/ar/net/email-formats-features/convert-eml-pdf-net-timezone-offset-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # تحويل EML إلى PDF في .NET مع إزاحة المنطقة الزمنية: دليل شامل باستخدام GroupDocs.Conversion
 ## مقدمة
 هل تحتاج إلى طريقة موثوقة لتحويل مستندات البريد الإلكتروني (EML) إلى PDF مع الحفاظ على دقة معلومات المنطقة الزمنية؟ سواءً كان ذلك للأرشفة أو المشاركة أو الامتثال، سيرشدك هذا البرنامج التعليمي خلال استخدام مكتبة GroupDocs.Conversion for .NET القوية. ستتعلم كيفية تطبيق ميزات متقدمة، مثل إزاحات المنطقة الزمنية، بسهولة.

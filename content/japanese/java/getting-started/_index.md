@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Java開発者向け入門チュートリアル"
 "url": "/ja/java/getting-started/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Java開発者向け入門チュートリアル
 
 GroupDocs.Conversion の基本的なチュートリアルから始めましょう。インストール、ライセンス設定、そしてJavaでの最初のドキュメント変換の実行方法を丁寧に解説します。初心者向けのガイドでは、開発環境の設定、GroupDocs.Conversion ライブラリの初期化、そして基本的な変換操作の実行方法を解説しています。これらのチュートリアルに沿って、基本を素早く習得し、Javaアプリケーションでより高度なドキュメント変換タスクを実行する準備をしましょう。

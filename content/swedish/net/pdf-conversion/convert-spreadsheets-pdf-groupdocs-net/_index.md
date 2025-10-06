@@ -4,8 +4,8 @@
 "title": "Konvertera kalkylblad till PDF-filer sömlöst med GroupDocs.Conversion i .NET"
 "url": "/sv/net/pdf-conversion/convert-spreadsheets-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera kalkylblad till PDF-filer sömlöst med GroupDocs.Conversion i .NET
 
 ## Introduktion

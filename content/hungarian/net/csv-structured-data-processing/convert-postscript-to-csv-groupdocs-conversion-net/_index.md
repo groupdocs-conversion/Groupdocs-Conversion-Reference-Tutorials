@@ -4,8 +4,8 @@
 "title": "PostScript konvertálása CSV-vé a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/csv-structured-data-processing/convert-postscript-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PostScript konvertálása CSV-vé a GroupDocs.Conversion for .NET használatával: Teljes körű útmutató
 
 ## Bevezetés

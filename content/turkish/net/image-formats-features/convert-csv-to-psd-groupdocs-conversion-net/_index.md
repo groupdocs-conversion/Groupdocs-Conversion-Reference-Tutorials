@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET ile CSV'yi PSD'ye Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/image-formats-features/convert-csv-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET ile CSV'yi PSD'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

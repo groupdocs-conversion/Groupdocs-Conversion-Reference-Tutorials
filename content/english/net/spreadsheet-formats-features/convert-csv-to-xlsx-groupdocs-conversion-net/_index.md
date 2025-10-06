@@ -8,10 +8,8 @@ keywords:
 - CSV to XLSX conversion
 - GroupDocs.Conversion for .NET
 - data transformation with GroupDocs
-
+type: docs
 ---
-
-
 # Efficiently Convert CSV to XLSX with GroupDocs.Conversion .NET: A Complete Guide
 
 ## Introduction

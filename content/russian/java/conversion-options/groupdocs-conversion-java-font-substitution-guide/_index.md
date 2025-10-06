@@ -4,8 +4,8 @@
 "title": "Замена шрифтов в Java&#58; Освоение GroupDocs.Conversion для единообразного вывода PDF"
 "url": "/ru/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/"
 "weight": 1
+type: docs
 ---
-
 # Освоение замены шрифтов с помощью GroupDocs.Conversion для Java
 
 ## Введение

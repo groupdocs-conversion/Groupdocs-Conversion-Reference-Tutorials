@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie XLSB in PDF mit GroupDocs.Conversion für .NET – Eine vollständige Anleitung"
 "url": "/de/net/pdf-conversion-features/convert-xlsb-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie XLSB mit GroupDocs.Conversion für .NET in PDF
 
 ## Einführung

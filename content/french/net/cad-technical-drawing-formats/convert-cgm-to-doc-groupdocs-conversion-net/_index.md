@@ -4,8 +4,8 @@
 "title": "Convertissez efficacement des fichiers CGM en DOC avec GroupDocs.Conversion pour .NET"
 "url": "/fr/net/cad-technical-drawing-formats/convert-cgm-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertissez efficacement des fichiers CGM en DOC avec GroupDocs.Conversion pour .NET
 
 ## Introduction

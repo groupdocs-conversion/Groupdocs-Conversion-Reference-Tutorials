@@ -4,8 +4,8 @@
 "title": "OTG'yi Kolayca PPT'ye Dönüştürün&#58; GroupDocs.Conversion for .NET Eğitimi"
 "url": "/tr/net/presentation-formats-features/convert-otg-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OTG'yi GroupDocs.Conversion for .NET ile PPT'ye dönüştürün
 
 ## giriiş

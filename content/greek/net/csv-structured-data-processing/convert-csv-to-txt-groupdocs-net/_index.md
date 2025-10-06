@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή CSV σε TXT χρησιμοποιώντας το GroupDocs.Conversion για .NET™ - Ένας οδηγός βήμα προς βήμα"
 "url": "/el/net/csv-structured-data-processing/convert-csv-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική μετατροπή CSV σε TXT χρησιμοποιώντας το GroupDocs.Conversion για .NET: Οδηγός βήμα προς βήμα
 
 ## Εισαγωγή

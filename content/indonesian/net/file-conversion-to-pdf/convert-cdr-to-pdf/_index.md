@@ -5,8 +5,8 @@
 "title": "Konversi Grafik Vektor CDR ke PDF"
 "url": "/id/net/file-conversion-to-pdf/convert-cdr-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # Konversi Grafik Vektor CDR ke PDF
 
 ## Perkenalan

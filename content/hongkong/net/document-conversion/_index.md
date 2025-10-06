@@ -5,8 +5,8 @@
 "title": "文件轉換"
 "url": "/zh-hant/net/document-conversion/"
 "weight": 23
+type: docs
 ---
-
 # 文件轉換
 
 ## 介紹

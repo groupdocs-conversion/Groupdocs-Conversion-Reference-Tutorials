@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tệp chính&#58; Tải và chuyển đổi tệp JPF bằng GroupDocs cho .NET"
 "url": "/vi/net/image-formats-features/load-convert-jpf-files-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp chính: Tải và chuyển đổi tệp JPF bằng GroupDocs cho .NET
 
 ## Giới thiệu

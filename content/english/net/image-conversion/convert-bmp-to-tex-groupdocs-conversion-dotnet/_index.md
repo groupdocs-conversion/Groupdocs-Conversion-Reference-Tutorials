@@ -8,10 +8,8 @@ keywords:
 - BMP to TEX conversion
 - GroupDocs.Conversion for .NET
 - image file conversion
-
+type: docs
 ---
-
-
 # Mastering BMP to TEX Conversion Using GroupDocs.Conversion for .NET
 
 **Unlock the Power of Document Transformation: Convert BMP Images to TEX Format with Ease**

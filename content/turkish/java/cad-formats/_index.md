@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Java için CAD Formatları Dönüştürme Eğitimleri"
 "url": "/tr/java/cad-formats/"
 "weight": 10
+type: docs
 ---
-
 # GroupDocs.Conversion Java için CAD Formatları Dönüştürme Eğitimleri
 
 Java geliştiricileri için kapsamlı GroupDocs.Conversion eğitimlerimizle CAD çizimlerini işlemeyi öğrenin. Bu pratik kılavuzlar, AutoCAD dosyalarını görüntülenebilir biçimlere dönüştürmeyi, katmanları ve ölçümleri korumayı, büyük çizimleri işlemeyi, görünüm alanlarını ve düzenleri yönetmeyi ve 3B modelleri 2B temsillere dönüştürmeyi gösterir. Her eğitim, teknik çizimleri doğru bir şekilde işleyebilen ve önemli mühendislik ayrıntılarını koruyabilen uygulamalar oluşturmanıza yardımcı olan CAD dönüştürme senaryoları için ayrıntılı Java kod örnekleri içerir.

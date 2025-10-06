@@ -4,8 +4,8 @@
 "title": "Převod POTM do HTML pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/html-conversion/convert-potm-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod POTM do HTML pomocí GroupDocs.Conversion pro .NET: Komplexní průvodce
 ## Zavedení
 Sdílení šablony PowerPointu bez přístupu k aplikaci Microsoft PowerPoint nebo vkládání prezentací na webové stránky může být náročné. **GroupDocs.Conversion pro .NET**, převod souborů šablon Microsoft PowerPoint (.potm) do HTML je bezproblémový a efektivní. Tato komplexní příručka vás bez námahy provede používáním této robustní knihovny.

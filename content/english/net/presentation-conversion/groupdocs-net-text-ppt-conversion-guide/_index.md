@@ -8,10 +8,8 @@ keywords:
 - text-to-presentation conversion
 - GroupDocs.Conversion .NET
 - TXT to PPT
-
+type: docs
 ---
-
-
 # Master Text-to-Presentation Conversion with GroupDocs in .NET
 
 ## Introduction

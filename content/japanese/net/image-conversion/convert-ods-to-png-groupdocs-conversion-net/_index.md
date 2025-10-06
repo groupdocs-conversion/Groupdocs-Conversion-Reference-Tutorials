@@ -4,8 +4,8 @@
 "title": "包括的なガイド&#58; GroupDocs.Conversion for .NET を使用して ODS を PNG に変換する"
 "url": "/ja/net/image-conversion/convert-ods-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 総合ガイド: GroupDocs.Conversion for .NET を使用して ODS を PNG に変換する
 
 ## 導入

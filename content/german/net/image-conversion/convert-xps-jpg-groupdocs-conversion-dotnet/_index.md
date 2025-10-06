@@ -4,8 +4,8 @@
 "title": "Effiziente Konvertierung von XPS in JPG mit GroupDocs.Conversion für .NET | Leitfaden zur Bildkonvertierung"
 "url": "/de/net/image-conversion/convert-xps-jpg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Umfassender Leitfaden: Effiziente Konvertierung von XPS in JPG mit GroupDocs.Conversion für .NET
 
 ## Einführung

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して OTS を HTML に変換する包括的なガイド"
 "url": "/ja/net/html-conversion/convert-ots-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して OTS ファイルを HTML に変換する
 
 ## 導入

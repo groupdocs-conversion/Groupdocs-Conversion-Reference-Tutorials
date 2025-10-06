@@ -4,8 +4,8 @@
 "title": "EMZ'yi GroupDocs.Conversion for .NET Kullanarak TEX'e Dönüştürme - Tam Kılavuz"
 "url": "/tr/net/image-formats-features/convert-emz-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # EMZ Dosyaları GroupDocs.Conversion for .NET Kullanılarak TEX Formatına Nasıl Dönüştürülür
 
 ## giriiş

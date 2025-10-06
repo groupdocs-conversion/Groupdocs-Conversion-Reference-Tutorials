@@ -4,8 +4,8 @@
 "title": "Master File Conversion - JPF fájlok betöltése és konvertálása GroupDocs for .NET használatával"
 "url": "/hu/net/image-formats-features/load-convert-jpf-files-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Master File Conversion: JPF fájlok betöltése és konvertálása GroupDocs for .NET használatával
 
 ## Bevezetés

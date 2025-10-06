@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanılarak Verimli TXT'den DOCX'e Dönüştürme"
 "url": "/tr/net/word-processing-formats-features/txt-to-docx-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanılarak Verimli TXT'den DOCX'e Dönüştürme
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET Kullanılarak POT Dosyaları PSD'ye Nasıl Dönüştürülür | Görüntü Dönüştürme Kılavuzu"
 "url": "/tr/net/image-conversion/groupdocs-conversion-net-pot-psd/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET Kullanılarak POT Dosyaları PSD'ye Nasıl Dönüştürülür
 
 ## giriiş

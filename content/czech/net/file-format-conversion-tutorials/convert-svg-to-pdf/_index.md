@@ -5,8 +5,8 @@
 "title": "Převod SVG do PDF"
 "url": "/cs/net/file-format-conversion-tutorials/convert-svg-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # Převod SVG do PDF
 
 ## Zavedení

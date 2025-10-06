@@ -4,8 +4,8 @@
 "title": "Beheers .NET DWG naar PDF-conversie met GroupDocs.Conversion&#58; een uitgebreide handleiding"
 "url": "/nl/net/pdf-conversion/convert-dwg-to-pdf-net-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Beheers .NET DWG naar PDF-conversie met GroupDocs.Conversion
 
 ## Invoering

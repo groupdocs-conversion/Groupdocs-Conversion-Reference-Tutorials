@@ -4,8 +4,8 @@
 "title": "Δυναμικές διαδρομές εξόδου σε .NET με το GroupDocs.Conversion&#58; Ένας ολοκληρωμένος οδηγός"
 "url": "/el/net/document-output-saving/dynamic-output-paths-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Δυναμικές διαδρομές εξόδου σε .NET με το GroupDocs.Conversion: Ένας ολοκληρωμένος οδηγός
 
 ## Εισαγωγή

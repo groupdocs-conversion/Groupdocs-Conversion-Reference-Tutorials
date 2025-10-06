@@ -4,8 +4,8 @@
 "title": "Převod DWT do PowerPoint PPT pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/presentation-formats-features/convert-dwt-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod DWT do PowerPoint PPT pomocí GroupDocs.Conversion pro .NET: Komplexní průvodce
 
 ## Zavedení

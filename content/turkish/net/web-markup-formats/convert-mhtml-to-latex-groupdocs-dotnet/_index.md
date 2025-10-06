@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET ile MHTML'yi LaTeX'e (TEX) Verimli Şekilde Dönüştürün"
 "url": "/tr/net/web-markup-formats/convert-mhtml-to-latex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET ile MHTML'yi LaTeX'e (TEX) Verimli Şekilde Dönüştürün
 
 ## giriiş

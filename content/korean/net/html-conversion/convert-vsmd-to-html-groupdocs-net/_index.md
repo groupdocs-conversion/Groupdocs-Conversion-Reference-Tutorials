@@ -4,8 +4,8 @@
 "title": ".NET에서 GroupDocs.Conversion을 사용하여 VSDM을 HTML로 변환하는 포괄적인 가이드"
 "url": "/ko/net/html-conversion/convert-vsmd-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET에서 GroupDocs.Conversion을 사용하여 VSDM을 HTML로 변환: 포괄적인 가이드
 
 ## 소개

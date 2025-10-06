@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して HTML を CSV に変換する手順"
 "url": "/ja/net/web-markup-formats/convert-html-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して HTML を CSV に変換する: ステップバイステップ ガイド
 
 ## 導入

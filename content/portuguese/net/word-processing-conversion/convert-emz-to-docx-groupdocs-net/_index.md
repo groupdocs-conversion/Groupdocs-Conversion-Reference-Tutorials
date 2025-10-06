@@ -4,8 +4,8 @@
 "title": "Converta EMZ para DOCX com GroupDocs.Conversion para .NET - Um guia passo a passo"
 "url": "/pt/net/word-processing-conversion/convert-emz-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converta arquivos EMZ para DOCX com GroupDocs.Conversion para .NET
 
 ## Introdução

@@ -4,8 +4,8 @@
 "title": "Masterbestandsconversie in .NET met GroupDocs.Conversion&#58; een uitgebreide handleiding"
 "url": "/nl/net/loading-from-remote-sources/mastering-file-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Bestandsconversie in .NET onder de knie krijgen met GroupDocs.Conversion
 
 In de huidige digitale wereld is naadloze bestandsconversie tussen verschillende formaten een veelvoorkomende uitdaging voor ontwikkelaars. Of u nu moet overschakelen van PDF's naar Word-documenten of afbeeldingen moet omzetten in presentaties, **GroupDocs.Conversion voor .NET** biedt een krachtige en betrouwbare oplossing om deze taken in uw toepassingen te vereenvoudigen.

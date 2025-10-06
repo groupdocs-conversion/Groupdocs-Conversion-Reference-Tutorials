@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 开发人员入门和许可教程"
 "url": "/zh/net/getting-started-licensing/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 开发人员入门和许可教程
 
 从这些 GroupDocs.Conversion 的必备教程开始您的学习之旅，这些教程将指导您完成安装、许可配置以及在 .NET 中执行首次文档转换。我们面向初学者的指南演示了如何设置开发环境、初始化 GroupDocs.Conversion 库、从文件或流配置许可证、设置计量许可，以及如何使用标准 API 和 Fluent API 实现基本的转换操作。学习这些教程，您可以快速掌握基础知识，并为在 .NET 应用程序中执行更高级的文档转换任务做好准备。

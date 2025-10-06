@@ -4,8 +4,8 @@
 "title": "Konvertera OneNote till PNG i C# med GroupDocs.Conversion för .NET"
 "url": "/sv/net/image-conversion/groupdocs-conversion-one-note-to-png-csharp/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera OneNote till PNG i C#: Använda GroupDocs.Conversion för .NET
 
 ## Introduktion

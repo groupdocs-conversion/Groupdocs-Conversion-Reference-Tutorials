@@ -4,8 +4,8 @@ linktitle: GroupDocs.Conversion for Java Tutorials
 weight: 10
 url: /java/
 description: Effortlessly convert files across formats using GroupDocs.Conversion for Java. Streamline document management with customizable options. #GroupDocs.Conversion
+type: docs
 ---
-
 # Comprehensive Tutorials of GroupDocs.Conversion for Java
 
 ## Introduction

@@ -5,8 +5,8 @@
 "title": "XPS konvertálása PDF-be"
 "url": "/hu/net/converting-file-types-to-pdf/convert-xps-to-pdf/"
 "weight": 30
+type: docs
 ---
-
 # XPS konvertálása PDF-be
 
 

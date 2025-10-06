@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して DOTM を TEX に変換する方法 - 包括的なガイド"
 "url": "/ja/net/text-markup-conversion/convert-dotm-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して DOTM を TEX に変換する方法
 
 ## 導入

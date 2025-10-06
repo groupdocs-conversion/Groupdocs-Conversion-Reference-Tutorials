@@ -4,8 +4,8 @@
 "title": "Konwersja JPEG 2000 do Excela przy użyciu GroupDocs.Conversion dla .NET&#58; Przewodnik krok po kroku"
 "url": "/pl/net/spreadsheet-formats-features/convert-jpeg-2000-to-excel-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja JPEG 2000 do Excela przy użyciu GroupDocs.Conversion dla .NET: Przewodnik krok po kroku
 
 ## Wstęp

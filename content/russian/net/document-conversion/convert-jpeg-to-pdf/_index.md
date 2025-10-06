@@ -5,8 +5,8 @@
 "title": "Конвертировать JPEG в PDF"
 "url": "/ru/net/document-conversion/convert-jpeg-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # Конвертировать JPEG в PDF
 
 ## Введение

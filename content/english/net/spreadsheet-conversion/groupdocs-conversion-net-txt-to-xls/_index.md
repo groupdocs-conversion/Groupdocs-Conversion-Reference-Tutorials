@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion for .NET
 - convert TXT to XLS
 - automate text file conversion
-
+type: docs
 ---
-
-
 # Convert TXT to XLS Using GroupDocs.Conversion for .NET: Step-by-Step Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Excel sablon (.xltx) konvertálása Word dokumentummá (DOC) a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/word-processing-formats-features/convert-xltx-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Excel sablon (.xltx) konvertálása Word dokumentummá (DOC) a GroupDocs.Conversion for .NET használatával
 ## Bevezetés
 Üdvözöljük ebben az átfogó útmutatóban, amely bemutatja, hogyan konvertálhat Excel-sablonfájlokat (.xltx) Word-dokumentum (DOC) formátumba a hatékony GroupDocs.Conversion for .NET könyvtár segítségével. Ez a megoldás elengedhetetlen a dokumentumkezelési munkafolyamatokban, lehetővé téve az adatgazdag sablonok zökkenőmentes integrációját a szövegalapú dokumentumokkal.

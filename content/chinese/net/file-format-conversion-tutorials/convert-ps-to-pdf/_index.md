@@ -5,8 +5,8 @@
 "title": "将 PS 转换为 PDF"
 "url": "/zh/net/file-format-conversion-tutorials/convert-ps-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # 将 PS 转换为 PDF
 
 ## 介绍

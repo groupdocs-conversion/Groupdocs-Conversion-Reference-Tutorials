@@ -4,8 +4,8 @@
 "title": "Konwersja OXPS do XLSX przy użyciu GroupDocs.Conversion dla .NET&#58; Przewodnik krok po kroku"
 "url": "/pl/net/spreadsheet-conversion/convert-oxps-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja OXPS do XLSX przy użyciu GroupDocs.Conversion dla .NET: przewodnik krok po kroku
 
 Czy chcesz przekonwertować pliki OXPS do wszechstronnego formatu XLSX? Ten samouczek krok po kroku przeprowadzi Cię przez korzystanie z GroupDocs.Conversion dla .NET, potężnej biblioteki zaprojektowanej do bezproblemowej konwersji dokumentów. Do końca tego przewodnika będziesz sprawnie przekształcać dokumenty OXPS w arkusze kalkulacyjne Excel.

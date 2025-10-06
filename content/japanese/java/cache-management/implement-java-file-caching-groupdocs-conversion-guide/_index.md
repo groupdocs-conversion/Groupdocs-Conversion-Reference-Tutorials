@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion による Java ファイルキャッシュ&#58; 効率的なドキュメント変換のための総合ガイド"
 "url": "/ja/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion で Java ファイルキャッシュを実装して効率的なドキュメント変換を実現する方法
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak C#'ta MHTML Metne Nasıl Dönüştürülür"
 "url": "/tr/net/text-file-processing/convert-mhtml-text-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak C#'ta MHTML Metne Nasıl Dönüştürülür
 
 ## giriiş

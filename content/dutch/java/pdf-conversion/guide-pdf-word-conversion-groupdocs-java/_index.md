@@ -4,8 +4,8 @@
 "title": "PDF naar Word converteren met GroupDocs voor Java&#58; een uitgebreide handleiding"
 "url": "/nl/java/pdf-conversion/guide-pdf-word-conversion-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # PDF naar Word converteren met GroupDocs voor Java: een uitgebreide handleiding
 
 ## Invoering

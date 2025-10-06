@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके पासवर्ड-संरक्षित दस्तावेज़ों को लोड और कनवर्ट करें"
 "url": "/hi/net/working-with-secure-documents/groupdocs-load-convert-password-documents-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके पासवर्ड-संरक्षित दस्तावेज़ों को लोड और कनवर्ट करें
 
 ## परिचय

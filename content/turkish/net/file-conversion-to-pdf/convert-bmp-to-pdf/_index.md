@@ -5,8 +5,8 @@
 "title": "BMP Görüntülerini PDF'ye Dönüştür"
 "url": "/tr/net/file-conversion-to-pdf/convert-bmp-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # BMP Görüntülerini PDF'ye Dönüştür
 
 ## giriiş

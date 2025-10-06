@@ -4,8 +4,8 @@
 "title": "Effiziente Konvertierung von XLTX in CSV mit GroupDocs.Conversion für .NET"
 "url": "/de/net/spreadsheet-formats-features/convert-xltx-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Effiziente Konvertierung von XLTX in CSV mit GroupDocs.Conversion für .NET
 
 ## Einführung

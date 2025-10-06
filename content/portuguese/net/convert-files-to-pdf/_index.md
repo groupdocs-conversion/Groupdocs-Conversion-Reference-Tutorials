@@ -5,8 +5,8 @@
 "title": "Converter arquivos para PDF"
 "url": "/pt/net/convert-files-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Converter arquivos para PDF
 
 ## Introdução

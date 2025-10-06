@@ -4,8 +4,8 @@
 "title": "Convertissez l'IA en HTML avec GroupDocs.Conversion pour .NET - Un guide complet"
 "url": "/fr/net/html-conversion/convert-ai-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des fichiers AI en HTML avec GroupDocs.Conversion pour .NET
 
 ## Introduction

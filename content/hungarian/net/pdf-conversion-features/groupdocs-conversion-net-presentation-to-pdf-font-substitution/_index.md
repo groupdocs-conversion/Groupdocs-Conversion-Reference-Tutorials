@@ -4,8 +4,8 @@
 "title": "PowerPoint konvertálása PDF-be betűtípus-helyettesítéssel .NET-ben a GroupDocs.Conversion használatával"
 "url": "/hu/net/pdf-conversion-features/groupdocs-conversion-net-presentation-to-pdf-font-substitution/"
 "weight": 1
+type: docs
 ---
-
 # PowerPoint konvertálása PDF-be betűtípus-helyettesítéssel .NET-ben a GroupDocs.Conversion használatával
 
 ## Bevezetés

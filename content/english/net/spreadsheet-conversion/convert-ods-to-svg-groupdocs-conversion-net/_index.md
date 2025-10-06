@@ -8,10 +8,8 @@ keywords:
 - convert ODS to SVG
 - GroupDocs.Conversion for .NET
 - ODS to SVG conversion tutorial
-
+type: docs
 ---
-
-
 # Convert ODS Files to SVG with GroupDocs.Conversion for .NET
 
 ## Introduction

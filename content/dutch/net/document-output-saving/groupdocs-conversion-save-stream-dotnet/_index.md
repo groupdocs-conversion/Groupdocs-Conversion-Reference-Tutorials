@@ -4,8 +4,8 @@
 "title": "Bestanden opslaan om te streamen met GroupDocs.Conversion in .NET | Een stapsgewijze handleiding"
 "url": "/nl/net/document-output-saving/groupdocs-conversion-save-stream-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET implementeren: een geconverteerd bestand opslaan in een stream
 
 ## Invoering

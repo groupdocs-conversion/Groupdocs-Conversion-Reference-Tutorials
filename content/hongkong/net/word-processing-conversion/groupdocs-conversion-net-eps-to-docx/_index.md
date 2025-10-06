@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 掌握 EPS 到 DOCX 的轉換－綜合指南"
 "url": "/zh-hant/net/word-processing-conversion/groupdocs-conversion-net-eps-to-docx/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 掌握 EPS 到 DOCX 的轉換
 
 ## 介紹

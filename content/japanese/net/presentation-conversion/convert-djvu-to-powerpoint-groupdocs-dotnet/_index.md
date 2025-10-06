@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion in .NET を使用して DJVU を PowerPoint に変換する手順"
 "url": "/ja/net/presentation-conversion/convert-djvu-to-powerpoint-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NETでGroupDocs.Conversionを使用してDJVUをPowerPointに変換する：ステップバイステップガイド
 
 ## 導入

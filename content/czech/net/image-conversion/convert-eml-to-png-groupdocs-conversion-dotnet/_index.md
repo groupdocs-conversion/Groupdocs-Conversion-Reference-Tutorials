@@ -4,8 +4,8 @@
 "title": "Převod EML do PNG pomocí GroupDocs.Conversion pro .NET - Komplexní průvodce"
 "url": "/cs/net/image-conversion/convert-eml-to-png-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů EML do PNG pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

@@ -8,10 +8,8 @@ keywords:
 - convert JPEG 2000 to LaTeX
 - GroupDocs.Conversion for .NET
 - image-to-LaTeX conversion
-
+type: docs
 ---
-
-
 # Convert JPEG 2000 to LaTeX (TEX) Using GroupDocs.Conversion for .NET
 
 ## Introduction

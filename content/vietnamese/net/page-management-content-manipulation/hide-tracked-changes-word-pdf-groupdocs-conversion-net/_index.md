@@ -4,8 +4,8 @@
 "title": "Ẩn các thay đổi được theo dõi trong quá trình chuyển đổi Word sang PDF với GroupDocs.Conversion cho .NET"
 "url": "/vi/net/page-management-content-manipulation/hide-tracked-changes-word-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Làm chủ chuyển đổi Word sang PDF nâng cao với tính năng theo dõi thay đổi ẩn bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

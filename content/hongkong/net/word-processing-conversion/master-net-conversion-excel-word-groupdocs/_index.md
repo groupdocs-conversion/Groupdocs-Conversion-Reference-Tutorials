@@ -4,8 +4,8 @@
 "title": "掌握.NET文件轉換－使用GroupDocs.Conversion將Excel轉換為Word"
 "url": "/zh-hant/net/word-processing-conversion/master-net-conversion-excel-word-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 掌握 .NET 文件轉換：使用 GroupDocs.Conversion 將 Excel 轉換為 Word
 
 ## 介紹

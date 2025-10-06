@@ -3,8 +3,8 @@
 "title": "Sự kiện chuyển đổi và hướng dẫn ghi nhật ký cho GroupDocs.Conversion .NET"
 "url": "/vi/net/conversion-events-logging/"
 "weight": 24
+type: docs
 ---
-
 # Sự kiện chuyển đổi và hướng dẫn ghi nhật ký cho GroupDocs.Conversion .NET
 
 Làm chủ khả năng giám sát và ghi nhật ký với hướng dẫn sự kiện GroupDocs.Conversion dành cho .NET. Những hướng dẫn chi tiết này trình bày cách thiết lập trình lắng nghe sự kiện, theo dõi trạng thái và tiến trình chuyển đổi, triển khai ghi nhật ký chi tiết, xử lý thông báo chuyển đổi, tạo trình xử lý sự kiện tùy chỉnh, tích hợp với các khung ghi nhật ký phổ biến, phát triển các chỉ báo tiến trình chuyển đổi và xây dựng các bản ghi kiểm tra để xử lý tài liệu. Mỗi hướng dẫn đều bao gồm các ví dụ mã C# thực tế cho các tính năng giám sát và báo cáo, giúp bạn xây dựng các hệ thống chuyển đổi đáng tin cậy với các cơ chế phản hồi toàn diện và khả năng khắc phục sự cố.

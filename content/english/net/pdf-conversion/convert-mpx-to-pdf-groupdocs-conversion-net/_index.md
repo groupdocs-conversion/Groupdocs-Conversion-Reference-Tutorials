@@ -8,10 +8,8 @@ keywords:
 - convert MPX to PDF
 - GroupDocs.Conversion .NET
 - file format conversion
-
+type: docs
 ---
-
-
 # Convert MPX to PDF Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

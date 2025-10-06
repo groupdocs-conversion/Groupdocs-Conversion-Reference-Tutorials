@@ -5,8 +5,8 @@
 "title": "PPTX'i PDF'ye dönüştür"
 "url": "/tr/net/pdf-conversion/convert-pptx-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # PPTX'i PDF'ye dönüştür
 
 ## giriiş

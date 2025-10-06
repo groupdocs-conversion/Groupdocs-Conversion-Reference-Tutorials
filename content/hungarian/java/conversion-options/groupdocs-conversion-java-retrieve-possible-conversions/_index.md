@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Java-hoz&#58; Hogyan kérhető le az összes lehetséges konverzió?"
 "url": "/hu/java/conversion-options/groupdocs-conversion-java-retrieve-possible-conversions/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató az összes lehetséges konverzió lekéréséhez a GroupDocs.Conversion for Java használatával
 
 ## Bevezetés

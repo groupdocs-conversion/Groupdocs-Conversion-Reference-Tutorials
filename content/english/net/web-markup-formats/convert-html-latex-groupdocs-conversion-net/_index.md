@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert HTML to LaTeX Efficiently Using GroupDocs.Conversion for .NET
 ## Introduction
 Are you looking to streamline converting HTML documents into LaTeX format? With GroupDocs.Conversion for .NET, automating this process is simple and efficient. This tutorial guides you through using the robust library to convert HTM files to TEX seamlessly. By integrating this solution, you can save time and reduce errors associated with manual conversions.

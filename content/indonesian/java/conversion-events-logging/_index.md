@@ -3,8 +3,8 @@
 "title": "Tutorial Peristiwa Konversi dan Pencatatan untuk GroupDocs.Conversion Java"
 "url": "/id/java/conversion-events-logging/"
 "weight": 15
+type: docs
 ---
-
 # Tutorial Peristiwa Konversi dan Pencatatan untuk GroupDocs.Conversion Java
 
 Kuasai kemampuan pemantauan dan pencatatan dengan tutorial acara GroupDocs.Conversion kami untuk Java. Panduan terperinci ini menunjukkan cara menyiapkan pendengar acara, melacak kemajuan konversi, menerapkan pencatatan terperinci, menangani pemberitahuan konversi, dan membuat pengendali acara khusus secara terprogram. Setiap tutorial mencakup contoh kode Java yang berfungsi yang menunjukkan cara menyempurnakan aplikasi Anda dengan fitur pemantauan dan pelaporan yang tangguh, membantu Anda membangun sistem konversi yang andal dengan jejak audit yang komprehensif dan umpan balik pengguna.

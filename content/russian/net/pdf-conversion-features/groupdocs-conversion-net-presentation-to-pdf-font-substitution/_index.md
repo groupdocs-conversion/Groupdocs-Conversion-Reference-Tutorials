@@ -4,8 +4,8 @@
 "title": "Конвертируйте PowerPoint в PDF с заменой шрифтов в .NET с помощью GroupDocs.Conversion"
 "url": "/ru/net/pdf-conversion-features/groupdocs-conversion-net-presentation-to-pdf-font-substitution/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте PowerPoint в PDF с заменой шрифтов в .NET с помощью GroupDocs.Conversion
 
 ## Введение

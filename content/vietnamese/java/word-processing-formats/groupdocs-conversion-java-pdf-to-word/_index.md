@@ -4,8 +4,8 @@
 "title": "Chuyển đổi PDF sang Word hiệu quả bằng GroupDocs.Conversion Java API"
 "url": "/vi/java/word-processing-formats/groupdocs-conversion-java-pdf-to-word/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi PDF sang Word hiệu quả bằng GroupDocs.Conversion Java API
 
 ## Giới thiệu

@@ -5,8 +5,8 @@
 "title": "Převod VSTM do PDF"
 "url": "/cs/net/converting-file-types-to-pdf/convert-vstm-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # Převod VSTM do PDF
 
 ## Zavedení

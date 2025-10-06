@@ -4,8 +4,8 @@
 "title": "Конвертируйте HTML в PowerPoint с помощью GroupDocs.Conversion для .NET&#58; Пошаговое руководство"
 "url": "/ru/net/presentation-formats-features/convert-html-to-powerpoint-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте HTML в PowerPoint с помощью GroupDocs.Conversion для .NET
 
 ## Введение

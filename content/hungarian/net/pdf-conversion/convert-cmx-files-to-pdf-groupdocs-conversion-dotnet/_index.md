@@ -4,8 +4,8 @@
 "title": "CMX fájlok PDF-be konvertálása a GroupDocs.Conversion for .NET használatával | Átfogó útmutató"
 "url": "/hu/net/pdf-conversion/convert-cmx-files-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # CMX fájlok PDF-be konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

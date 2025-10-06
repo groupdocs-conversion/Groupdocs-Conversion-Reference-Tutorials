@@ -8,10 +8,8 @@ keywords:
 - Convert OneNote to Excel
 - GroupDocs.Conversion for .NET
 - OneNote to XLS conversion
-
+type: docs
 ---
-
-
 # Convert OneNote to Excel Using GroupDocs.Conversion for .NET
 
 ## Introduction

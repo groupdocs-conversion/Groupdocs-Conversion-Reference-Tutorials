@@ -5,8 +5,8 @@
 "title": "OTT naar PDF converteren"
 "url": "/nl/net/pdf-conversion/convert-ott-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # OTT naar PDF converteren
 
 ## Invoering

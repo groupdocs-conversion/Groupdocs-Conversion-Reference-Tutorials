@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion ile PDF Meta Verilerini Nasıl Alırsınız"
 "url": "/tr/net/pdf-conversion-features/pdf-metadata-retrieval-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion ile PDF Meta Verilerini Nasıl Alırsınız
 
 PDF belgelerinden bilgileri manuel olarak çıkarmaktan bıktınız mı? Görevi .NET için GroupDocs.Conversion ile otomatikleştirin ve yazarlık, oluşturma tarihleri, sayfa sayısı, boyutlar ve daha fazlası gibi önemli ayrıntıları alın.

@@ -4,8 +4,8 @@
 "title": "Převod DOC do CSV pomocí GroupDocs.Conversion .NET – Podrobný návod"
 "url": "/cs/net/spreadsheet-formats-features/convert-doc-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod DOC do CSV pomocí GroupDocs.Conversion .NET: Podrobný návod
 
 ## Zavedení

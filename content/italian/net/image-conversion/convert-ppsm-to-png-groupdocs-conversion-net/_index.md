@@ -4,8 +4,8 @@
 "title": "Come convertire PPSM in PNG utilizzando GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/image-conversion/convert-ppsm-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire PPSM in PNG utilizzando GroupDocs.Conversion per .NET: una guida completa
 
 ## Introduzione

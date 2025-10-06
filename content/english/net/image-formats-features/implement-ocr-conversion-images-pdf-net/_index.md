@@ -8,10 +8,8 @@ keywords:
 - OCR with Aspose for .NET
 - convert images to PDF with GroupDocs
 - Aspose.OCR implementation
-
+type: docs
 ---
-
-
 # Implement OCR & Convert Images to PDF Using Aspose and GroupDocs for .NET
 
 ## Introduction

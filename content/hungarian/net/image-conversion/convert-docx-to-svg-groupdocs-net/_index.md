@@ -4,8 +4,8 @@
 "title": "Hogyan konvertáljunk DOCX-et SVG-vé a GroupDocs.Conversion for .NET használatával - Képkonverziós útmutató"
 "url": "/hu/net/image-conversion/convert-docx-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DOCX fájlok SVG formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

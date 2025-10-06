@@ -4,8 +4,8 @@
 "title": "Cómo convertir una plantilla de PowerPoint (.potx) a texto con GroupDocs.Conversion para .NET"
 "url": "/es/net/text-file-processing/convert-potx-to-text-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cómo cargar y convertir un archivo de plantilla XML abierta de Microsoft PowerPoint (.potx) a texto mediante GroupDocs.Conversion para .NET
 
 ## Introducción

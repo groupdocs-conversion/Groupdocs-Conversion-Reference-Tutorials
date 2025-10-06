@@ -4,8 +4,8 @@
 "title": "Görüntü Dönüştürme için GroupDocs.Conversion .NET'i Kullanarak CGM'yi PNG'ye Verimli Şekilde Dönüştürün"
 "url": "/tr/net/image-conversion/convert-cgm-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET Kullanarak CGM Dosyalarını PNG'ye Verimli Şekilde Nasıl Dönüştürebilirsiniz
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "การแปลง Excel เป็น PDF อย่างมีประสิทธิภาพด้วย GroupDocs.Conversion Java"
 "url": "/th/java/pdf-conversion/excel-to-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # การแปลง Excel เป็น PDF อย่างมีประสิทธิภาพด้วย GroupDocs.Conversion Java
 
 ## การแนะนำ

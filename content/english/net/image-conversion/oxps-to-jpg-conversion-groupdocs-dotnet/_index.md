@@ -8,10 +8,8 @@ keywords:
 - OXPS to JPG conversion
 - GroupDocs.Conversion for .NET
 - document conversion in C#
-
+type: docs
 ---
-
-
 # Convert OXPS to JPG in C# Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

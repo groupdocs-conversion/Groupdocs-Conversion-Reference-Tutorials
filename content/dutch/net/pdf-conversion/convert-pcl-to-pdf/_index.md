@@ -5,8 +5,8 @@
 "title": "PCL naar PDF converteren"
 "url": "/nl/net/pdf-conversion/convert-pcl-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # PCL naar PDF converteren
 
 ## Invoering

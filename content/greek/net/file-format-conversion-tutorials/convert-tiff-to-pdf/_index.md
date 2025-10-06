@@ -5,8 +5,8 @@
 "title": "Μετατροπή TIFF σε PDF"
 "url": "/el/net/file-format-conversion-tutorials/convert-tiff-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # Μετατροπή TIFF σε PDF
 
 ## Εισαγωγή

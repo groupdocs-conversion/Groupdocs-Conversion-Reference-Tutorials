@@ -4,8 +4,8 @@
 "title": "Converta VSS para TEX usando GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/text-markup-conversion/convert-vss-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converter VSS para TEX usando GroupDocs.Conversion para .NET: um guia completo
 
 ## Introdução

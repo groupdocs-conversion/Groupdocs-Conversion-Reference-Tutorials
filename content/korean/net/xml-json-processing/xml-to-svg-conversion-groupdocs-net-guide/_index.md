@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용한 효율적인 XML-SVG 변환 - 단계별 가이드"
 "url": "/ko/net/xml-json-processing/xml-to-svg-conversion-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # .NET용 GroupDocs.Conversion을 사용한 효율적인 XML-SVG 변환: 단계별 가이드
 
 ## 소개

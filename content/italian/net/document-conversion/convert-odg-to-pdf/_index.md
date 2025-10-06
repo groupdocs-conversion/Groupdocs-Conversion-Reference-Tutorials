@@ -5,8 +5,8 @@
 "title": "Convertire ODG in PDF"
 "url": "/it/net/document-conversion/convert-odg-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # Convertire ODG in PDF
 
 ## Introduzione

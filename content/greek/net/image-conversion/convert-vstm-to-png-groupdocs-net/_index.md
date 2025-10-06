@@ -4,8 +4,8 @@
 "title": "Μετατροπή VSTM σε PNG σε .NET χρησιμοποιώντας τον οδηγό βήμα προς βήμα του GroupDocs.Conversion"
 "url": "/el/net/image-conversion/convert-vstm-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή VSTM σε PNG σε .NET χρησιμοποιώντας το GroupDocs.Conversion: Οδηγός βήμα προς βήμα
 
 ## Εισαγωγή

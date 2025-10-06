@@ -4,8 +4,8 @@
 "title": "Konversi DGN ke HTML secara Efisien Menggunakan GroupDocs.Conversion untuk .NET | Format CAD & Gambar Teknis"
 "url": "/id/net/cad-technical-drawing-formats/convert-dgn-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi File DGN ke HTML secara Efisien dengan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

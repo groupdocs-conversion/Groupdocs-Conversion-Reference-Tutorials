@@ -4,8 +4,8 @@
 "title": "Java için GroupDocs.Conversion'ı Kullanarak Word'den PDF'e Dönüştürmede İzlenen Değişiklikleri Gizlemeyi Otomatikleştirin"
 "url": "/tr/java/conversion-options/automate-hide-tracked-changes-word-pdf-conversion-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Java için GroupDocs.Conversion'ı Kullanarak Word'den PDF'e Dönüştürmede İzlenen Değişiklikleri Gizlemeyi Otomatikleştirin
 
 ## giriiş

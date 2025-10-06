@@ -5,8 +5,8 @@
 "title": "Convertir des images BMP en PDF"
 "url": "/fr/net/file-conversion-to-pdf/convert-bmp-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Convertir des images BMP en PDF
 
 ## Introduction

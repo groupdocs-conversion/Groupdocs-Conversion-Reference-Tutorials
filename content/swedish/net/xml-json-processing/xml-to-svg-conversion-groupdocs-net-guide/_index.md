@@ -4,8 +4,8 @@
 "title": "Effektiv XML till SVG-konvertering med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/xml-json-processing/xml-to-svg-conversion-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Effektiv XML till SVG-konvertering med GroupDocs.Conversion för .NET: En steg-för-steg-guide
 
 ## Introduktion

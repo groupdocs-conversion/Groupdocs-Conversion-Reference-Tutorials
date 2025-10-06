@@ -5,8 +5,8 @@
 "title": "將 DGN CAD 檔案轉換為 PDF"
 "url": "/zh-hant/net/file-conversion-to-pdf/convert-dgn-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # 將 DGN CAD 檔案轉換為 PDF
 
 ## 介紹

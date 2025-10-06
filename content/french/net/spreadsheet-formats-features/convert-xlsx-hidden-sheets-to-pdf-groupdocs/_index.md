@@ -4,8 +4,8 @@
 "title": "Comment convertir des fichiers XLSX avec des feuilles masquées en PDF avec GroupDocs.Conversion pour .NET"
 "url": "/fr/net/spreadsheet-formats-features/convert-xlsx-hidden-sheets-to-pdf-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir des fichiers XLSX avec des feuilles masquées en PDF avec GroupDocs.Conversion pour .NET
 
 ## Introduction

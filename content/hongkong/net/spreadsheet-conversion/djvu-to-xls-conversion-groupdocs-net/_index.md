@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 DJVU 轉換為 Excel — 逐步指南"
 "url": "/zh-hant/net/spreadsheet-conversion/djvu-to-xls-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 DJVU 轉換為 Excel：逐步指南
 
 ## 介紹

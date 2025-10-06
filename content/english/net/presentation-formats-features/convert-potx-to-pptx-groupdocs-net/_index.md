@@ -8,10 +8,8 @@ keywords:
 - convert POTX to PPTX
 - GroupDocs Conversion .NET
 - C# PowerPoint conversion
-
+type: docs
 ---
-
-
 # Efficient Conversion of POTX to PPTX Using GroupDocs.Conversion for .NET
 
 ## Introduction

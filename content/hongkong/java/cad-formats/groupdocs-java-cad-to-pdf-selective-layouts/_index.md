@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs 的選擇性佈局轉換指南在 Java 中將 CAD 佈局轉換為 PDF"
 "url": "/zh-hant/java/cad-formats/groupdocs-java-cad-to-pdf-selective-layouts/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for Java 將 CAD 版面配置轉換為 PDF
 ## 掌握 Java 中選擇性 CAD 到 PDF 的轉換
 ### 介紹

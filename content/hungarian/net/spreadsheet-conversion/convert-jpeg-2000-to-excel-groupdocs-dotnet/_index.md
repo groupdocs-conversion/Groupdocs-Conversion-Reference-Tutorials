@@ -4,8 +4,8 @@
 "title": "JPEG 2000 fájlok Excel formátumba konvertálása .NET-ben a GroupDocs.Conversion használatával"
 "url": "/hu/net/spreadsheet-conversion/convert-jpeg-2000-to-excel-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # JPEG 2000 (J2K) fájlok konvertálása Excel (.XLS) formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

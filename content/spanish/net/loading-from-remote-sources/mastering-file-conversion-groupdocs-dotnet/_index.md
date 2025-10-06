@@ -4,8 +4,8 @@
 "title": "Conversión de archivos maestros en .NET con GroupDocs.Conversion&#58; una guía completa"
 "url": "/es/net/loading-from-remote-sources/mastering-file-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Dominando la conversión de archivos en .NET con GroupDocs.Conversion
 
 En el mundo digital actual, la conversión fluida de archivos entre diferentes formatos es un desafío común para los desarrolladores. Ya sea que necesite cambiar de PDF a documentos de Word o transformar imágenes en presentaciones, **GroupDocs.Conversion para .NET** ofrece una solución potente y confiable para simplificar estas tareas en sus aplicaciones.

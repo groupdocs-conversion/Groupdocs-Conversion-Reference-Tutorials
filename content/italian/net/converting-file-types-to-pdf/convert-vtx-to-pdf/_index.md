@@ -5,8 +5,8 @@
 "title": "Convertire VTX in PDF"
 "url": "/it/net/converting-file-types-to-pdf/convert-vtx-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # Convertire VTX in PDF
 
 ## Introduzione

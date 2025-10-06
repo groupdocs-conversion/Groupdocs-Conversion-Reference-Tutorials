@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将 Word 文档转换为 PowerPoint PPTX"
 "url": "/zh/net/presentation-formats-features/convert-word-docs-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将 Word 文档转换为 PowerPoint PPTX
 
 ## 介绍

@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi tệp OTS sang TXT bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/text-file-processing/convert-ots-to-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp OTS sang TXT bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

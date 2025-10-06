@@ -5,8 +5,8 @@
 "title": "Μετατροπή TEX σε PDF"
 "url": "/el/net/file-format-conversion-tutorials/convert-tex-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # Μετατροπή TEX σε PDF
 
 ## Εισαγωγή

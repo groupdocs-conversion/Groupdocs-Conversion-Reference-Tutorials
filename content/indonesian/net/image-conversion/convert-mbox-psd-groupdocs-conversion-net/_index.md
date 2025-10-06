@@ -4,8 +4,8 @@
 "title": "Konversi MBOX ke PSD menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/image-conversion/convert-mbox-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi MBOX ke PSD Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

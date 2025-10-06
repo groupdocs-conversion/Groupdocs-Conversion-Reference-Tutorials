@@ -8,10 +8,8 @@ keywords:
 - MHTML to PSD conversion
 - GroupDocs.Conversion for .NET
 - .NET document management
-
+type: docs
 ---
-
-
 # Converting MHTML to PSD with .NET Using GroupDocs.Conversion
 
 ## Introduction

@@ -5,8 +5,8 @@
 "title": "BMP-afbeeldingen naar PDF converteren"
 "url": "/nl/net/file-conversion-to-pdf/convert-bmp-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # BMP-afbeeldingen naar PDF converteren
 
 ## Invoering

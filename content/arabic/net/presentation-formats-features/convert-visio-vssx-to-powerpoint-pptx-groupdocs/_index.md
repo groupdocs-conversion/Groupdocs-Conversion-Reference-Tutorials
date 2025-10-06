@@ -4,8 +4,8 @@
 "title": "كيفية تحويل ملفات Visio Stencil (VSSX) إلى عروض تقديمية PowerPoint باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/presentation-formats-features/convert-visio-vssx-to-powerpoint-pptx-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل ملفات Visio Stencil (VSSX) إلى عروض تقديمية PowerPoint باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

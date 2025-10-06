@@ -4,8 +4,8 @@
 "title": "JPX fájlok egyszerű konvertálása PDF-be – Átfogó útmutató a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/pdf-conversion/groupdocs-conversion-net-jpx-to-pdf/"
 "weight": 1
+type: docs
 ---
-
 # JPX egyszerű konvertálása PDF-be: Átfogó útmutató a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

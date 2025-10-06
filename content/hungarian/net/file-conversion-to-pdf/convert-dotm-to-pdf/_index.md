@@ -5,8 +5,8 @@
 "title": "DOTM Word sablonok (makrók) konvertálása PDF-be"
 "url": "/hu/net/file-conversion-to-pdf/convert-dotm-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # DOTM Word sablonok (makrók) konvertálása PDF-be
 
 ## Bevezetés

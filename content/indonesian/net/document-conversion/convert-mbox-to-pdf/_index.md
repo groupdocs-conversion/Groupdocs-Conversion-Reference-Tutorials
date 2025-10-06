@@ -5,8 +5,8 @@
 "title": "Konversi MBOX ke PDF"
 "url": "/id/net/document-conversion/convert-mbox-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # Konversi MBOX ke PDF
 
 ## Perkenalan

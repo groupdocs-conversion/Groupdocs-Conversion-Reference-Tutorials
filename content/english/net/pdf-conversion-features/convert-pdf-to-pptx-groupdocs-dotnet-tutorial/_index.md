@@ -8,10 +8,8 @@ keywords:
 - convert PDF to PPTX
 - GroupDocs.Conversion for .NET
 - PDF to PowerPoint conversion
-
+type: docs
 ---
-
-
 # Comprehensive Guide to Converting PDF to PPTX Using GroupDocs.Conversion for .NET
 
 ## Introduction

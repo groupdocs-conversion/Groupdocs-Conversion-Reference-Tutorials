@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 JPEG 2000 轉換為 PowerPoint"
 "url": "/zh-hant/net/presentation-formats-features/convert-jpeg-2000-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 JPEG 2000 影像轉換為 PowerPoint 簡報
 
 ## 介紹

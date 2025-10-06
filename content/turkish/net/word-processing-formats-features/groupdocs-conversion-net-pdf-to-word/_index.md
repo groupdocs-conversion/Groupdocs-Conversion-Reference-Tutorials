@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET&#58;i Kullanarak PDF Sayfalarını Word'e Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/word-processing-formats-features/groupdocs-conversion-net-pdf-to-word/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET Kullanarak PDF Sayfalarını Word'e Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

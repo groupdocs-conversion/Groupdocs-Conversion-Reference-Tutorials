@@ -4,8 +4,8 @@
 "title": "Masterbestandsconversie&#58; converteer VST naar PPT met behulp van de GroupDocs.Conversion .NET-bibliotheek"
 "url": "/nl/net/presentation-conversion/convert-vst-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Masterbestandsconversie: converteer VST naar PPT met behulp van de GroupDocs.Conversion .NET-bibliotheek
 
 ## Invoering

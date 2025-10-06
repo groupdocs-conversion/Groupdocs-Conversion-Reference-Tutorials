@@ -5,8 +5,8 @@
 "title": "تحويل صفحات الويب HTM إلى PDF"
 "url": "/ar/net/convert-files-to-pdf/convert-htm-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # تحويل صفحات الويب HTM إلى PDF
 
 ## مقدمة

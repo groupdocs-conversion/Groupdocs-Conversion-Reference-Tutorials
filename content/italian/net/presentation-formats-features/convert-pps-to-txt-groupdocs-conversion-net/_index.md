@@ -4,8 +4,8 @@
 "title": "Converti PPS in TXT facilmente con GroupDocs.Conversion per .NET&#58; una guida passo passo"
 "url": "/it/net/presentation-formats-features/convert-pps-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire i file PPS in TXT utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak CAD'yi PDF'ye Verimli Şekilde Dönüştürün Kapsamlı Bir Kılavuz"
 "url": "/tr/net/cad-technical-drawing-formats/convert-cad-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # CAD'yi GroupDocs.Conversion for .NET ile PDF'ye dönüştürün
 
 ## giriiş

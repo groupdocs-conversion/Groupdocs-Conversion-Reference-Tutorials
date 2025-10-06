@@ -4,8 +4,8 @@
 "title": "Cách lưu tệp vào luồng bằng GroupDocs.Conversion trong .NET | Hướng dẫn từng bước"
 "url": "/vi/net/document-output-saving/groupdocs-conversion-save-stream-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cách triển khai GroupDocs.Conversion .NET: Lưu tệp đã chuyển đổi vào luồng
 
 ## Giới thiệu

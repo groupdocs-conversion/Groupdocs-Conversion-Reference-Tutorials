@@ -8,10 +8,8 @@ keywords:
 - convert ODG to JPG
 - GroupDocs.Conversion .NET
 - ODG file conversion
-
+type: docs
 ---
-
-
 # Convert ODG Files to JPG Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Konversi DOCX ke PPTX secara efisien menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/presentation-conversion/convert-docx-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi DOCX ke PPTX secara efisien menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

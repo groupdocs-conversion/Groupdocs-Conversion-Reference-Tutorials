@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 将 DOCX 模板转换为 Excel —— 综合指南"
 "url": "/zh/net/spreadsheet-formats-features/convert-docx-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 将 DOCX 模板转换为 Excel：综合指南
 
 ## 介绍

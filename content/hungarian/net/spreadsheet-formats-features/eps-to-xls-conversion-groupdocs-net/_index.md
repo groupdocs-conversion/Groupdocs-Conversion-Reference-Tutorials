@@ -4,8 +4,8 @@
 "title": "Hatékony EPS-XLS konvertálás a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/spreadsheet-formats-features/eps-to-xls-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony EPS-XLS konvertálás a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

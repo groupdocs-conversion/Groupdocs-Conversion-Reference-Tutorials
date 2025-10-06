@@ -4,8 +4,8 @@
 "title": "Как конвертировать файлы VTX в DOCX с помощью GroupDocs.Conversion для .NET&#58; Руководство разработчика"
 "url": "/ru/net/word-processing-conversion/convert-vtx-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Как конвертировать файлы VTX в DOCX с помощью GroupDocs.Conversion для .NET: руководство разработчика
 
 ## Введение

@@ -4,8 +4,8 @@
 "title": ".NET 中使用 GroupDocs.Conversion 的动态输出路径综合指南"
 "url": "/zh/net/document-output-saving/dynamic-output-paths-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 .NET 中实现动态输出路径：综合指南
 
 ## 介绍

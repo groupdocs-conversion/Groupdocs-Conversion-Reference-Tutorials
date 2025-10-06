@@ -8,10 +8,8 @@ keywords:
 - convert STL to SVG
 - GroupDocs.Conversion for .NET
 - CAD file conversion
-
+type: docs
 ---
-
-
 # Convert STL to SVG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

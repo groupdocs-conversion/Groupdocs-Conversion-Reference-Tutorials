@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert VSDM to TEX Using GroupDocs.Conversion .NET: A Comprehensive Guide for CAD & Technical Drawing Formats
 
 ## Introduction

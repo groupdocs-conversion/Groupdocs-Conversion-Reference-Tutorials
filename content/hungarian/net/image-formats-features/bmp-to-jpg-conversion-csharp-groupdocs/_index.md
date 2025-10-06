@@ -4,8 +4,8 @@
 "title": "BMP konvertálása JPG-vé C#-ban a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/image-formats-features/bmp-to-jpg-conversion-csharp-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # BMP konvertálása JPG-vé C#-ban a GroupDocs.Conversion for .NET használatával: Teljes körű útmutató
 
 ## Bevezetés

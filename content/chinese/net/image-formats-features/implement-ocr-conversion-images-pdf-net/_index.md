@@ -4,8 +4,8 @@
 "title": "使用 Aspose 和 GroupDocs for .NET 实现 OCR 并将图像转换为 PDF"
 "url": "/zh/net/image-formats-features/implement-ocr-conversion-images-pdf-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 Aspose 和 GroupDocs for .NET 实现 OCR 并将图像转换为 PDF
 
 ## 介绍

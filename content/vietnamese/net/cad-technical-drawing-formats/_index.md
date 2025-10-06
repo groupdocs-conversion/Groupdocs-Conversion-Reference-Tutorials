@@ -3,8 +3,8 @@
 "title": "Hướng dẫn định dạng CAD và bản vẽ kỹ thuật cho GroupDocs.Conversion .NET"
 "url": "/vi/net/cad-technical-drawing-formats/"
 "weight": 18
+type: docs
 ---
-
 # Hướng dẫn định dạng CAD và bản vẽ kỹ thuật cho GroupDocs.Conversion .NET
 
 Học cách xử lý bản vẽ kỹ thuật với hướng dẫn toàn diện GroupDocs.Conversion dành cho các nhà phát triển .NET. Những hướng dẫn thực tế này trình bày cách chuyển đổi AutoCAD và các tệp CAD khác sang các định dạng có thể xem được, chỉ định bố cục để chuyển đổi, đặt kích thước chiều rộng và chiều cao tùy chỉnh cho đầu ra, bảo toàn các lớp và phép đo, xử lý các bản vẽ lớn một cách hiệu quả, quản lý các cửa sổ xem và tỷ lệ, và chuyển đổi các mô hình 3D thành các biểu diễn 2D. Mỗi hướng dẫn bao gồm các ví dụ mã C# chi tiết cho các tình huống chuyển đổi CAD, giúp bạn xây dựng các ứng dụng có thể xử lý chính xác các bản vẽ kỹ thuật trong khi vẫn bảo toàn các chi tiết kỹ thuật quan trọng.

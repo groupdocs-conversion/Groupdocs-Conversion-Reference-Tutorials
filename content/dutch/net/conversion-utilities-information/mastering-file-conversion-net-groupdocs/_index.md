@@ -4,8 +4,8 @@
 "title": "Bestandsconversie in .NET onder de knie krijgen met GroupDocs.Conversion&#58; een handleiding voor ontwikkelaars"
 "url": "/nl/net/conversion-utilities-information/mastering-file-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Bestandsconversie in .NET onder de knie krijgen met GroupDocs.Conversion: uw ultieme handleiding voor ontwikkelaars
 
 ## Invoering

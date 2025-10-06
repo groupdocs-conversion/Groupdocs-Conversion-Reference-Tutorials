@@ -4,8 +4,8 @@
 "title": "Převod dokumentů do PDF streamů pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/pdf-conversion/convert-documents-pdf-streams-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod dokumentů do PDF streamů pomocí GroupDocs.Conversion pro .NET: Komplexní průvodce
 
 ## Zavedení

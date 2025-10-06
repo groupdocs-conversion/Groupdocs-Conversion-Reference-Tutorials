@@ -4,8 +4,8 @@
 "title": "XPS naar PNG converteren met GroupDocs.Conversion voor .NET - Eenvoudige handleiding voor het converteren van afbeeldingen"
 "url": "/nl/net/image-conversion/convert-xps-to-png-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # XPS naar PNG converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

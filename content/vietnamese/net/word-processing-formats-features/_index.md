@@ -3,8 +3,8 @@
 "title": "Hướng dẫn về định dạng và tính năng xử lý văn bản cho GroupDocs.Conversion .NET"
 "url": "/vi/net/word-processing-formats-features/"
 "weight": 10
+type: docs
 ---
-
 # Hướng dẫn về định dạng và tính năng xử lý văn bản cho GroupDocs.Conversion .NET
 
 Khám phá cách làm việc hiệu quả với các tài liệu Word bằng hướng dẫn toàn diện GroupDocs.Conversion .NET của chúng tôi. Các hướng dẫn từng bước này hướng dẫn bạn cách chuyển đổi giữa nhiều định dạng xử lý Word khác nhau, ẩn các bình luận và theo dõi các thay đổi trong quá trình chuyển đổi, chỉ định các tùy chọn thay thế phông chữ, giữ nguyên kiểu và định dạng, duy trì cấu trúc tài liệu, xử lý các đối tượng nhúng và kiểm soát hành vi tiêu đề/chân trang. Mỗi hướng dẫn cung cấp các ví dụ mã C# thực tế cho các tác vụ chuyển đổi tài liệu Word, giúp bạn xây dựng các ứng dụng hiệu quả hơn có thể xử lý các tài liệu văn bản với độ trung thực cao và kiểm soát định dạng cụ thể.

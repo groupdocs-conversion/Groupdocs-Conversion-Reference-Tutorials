@@ -4,8 +4,8 @@
 "title": "Chuyển đổi TIFF sang SVG dễ dàng với GroupDocs.Conversion cho .NET&#58; Hướng dẫn đầy đủ"
 "url": "/vi/net/image-formats-features/convert-tiff-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi TIFF sang SVG bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

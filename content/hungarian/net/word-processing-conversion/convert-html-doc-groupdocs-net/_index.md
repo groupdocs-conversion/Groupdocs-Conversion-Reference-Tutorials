@@ -4,8 +4,8 @@
 "title": "HTML konvertálása Word DOC-vá a GroupDocs.Conversion for .NET segítségével - Átfogó útmutató"
 "url": "/hu/net/word-processing-conversion/convert-html-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # HTML konvertálása Word DOC-ba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

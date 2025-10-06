@@ -8,10 +8,8 @@ keywords:
 - convert VSS to JPG
 - GroupDocs.Conversion for .NET
 - image conversion
-
+type: docs
 ---
-
-
 # How to Efficiently Convert VSS Files to JPG Using GroupDocs.Conversion for .NET
 
 ## Introduction

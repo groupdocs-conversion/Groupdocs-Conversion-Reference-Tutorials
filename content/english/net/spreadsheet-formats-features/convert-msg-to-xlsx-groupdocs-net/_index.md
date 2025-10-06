@@ -8,10 +8,8 @@ keywords:
 - Convert MSG to XLSX
 - GroupDocs.Conversion for .NET
 - MS Outlook MSG conversion
-
+type: docs
 ---
-
-
 # Convert MSG Files to XLSX Using GroupDocs.Conversion for .NET
 
 ## Introduction

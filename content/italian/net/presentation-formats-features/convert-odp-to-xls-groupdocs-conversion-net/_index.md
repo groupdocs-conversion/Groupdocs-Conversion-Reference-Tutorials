@@ -4,8 +4,8 @@
 "title": "Convertire ODP in XLS in modo efficiente utilizzando GroupDocs.Conversion .NET"
 "url": "/it/net/presentation-formats-features/convert-odp-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converti i file ODP in Excel (XLS) con facilità utilizzando GroupDocs.Conversion .NET
 
 ## Introduzione

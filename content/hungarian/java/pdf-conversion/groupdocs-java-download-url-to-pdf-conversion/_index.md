@@ -4,8 +4,8 @@
 "title": "URL dokumentumok konvertálása PDF-be a GroupDocs.Conversion for Java használatával – Átfogó útmutató"
 "url": "/hu/java/pdf-conversion/groupdocs-java-download-url-to-pdf-conversion/"
 "weight": 1
+type: docs
 ---
-
 # URL dokumentumok konvertálása PDF-be a GroupDocs.Conversion for Java használatával
 
 ## Bevezetés

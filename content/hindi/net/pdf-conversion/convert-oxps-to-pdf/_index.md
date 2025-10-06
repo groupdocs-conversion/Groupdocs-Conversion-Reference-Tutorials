@@ -5,8 +5,8 @@
 "title": "OXPS को PDF में बदलें"
 "url": "/hi/net/pdf-conversion/convert-oxps-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # OXPS को PDF में बदलें
 
 ## परिचय

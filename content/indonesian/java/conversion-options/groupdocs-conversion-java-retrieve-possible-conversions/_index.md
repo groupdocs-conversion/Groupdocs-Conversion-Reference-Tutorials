@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion untuk Java&#58; Cara Mengambil Semua Konversi yang Mungkin"
 "url": "/id/java/conversion-options/groupdocs-conversion-java-retrieve-possible-conversions/"
 "weight": 1
+type: docs
 ---
-
 # Panduan Lengkap untuk Mendapatkan Semua Konversi yang Mungkin Menggunakan GroupDocs.Conversion untuk Java
 
 ## Perkenalan

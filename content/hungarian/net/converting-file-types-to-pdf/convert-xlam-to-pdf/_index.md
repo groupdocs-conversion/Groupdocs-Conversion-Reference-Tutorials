@@ -5,8 +5,8 @@
 "title": "XLAM konvertálása PDF-be"
 "url": "/hu/net/converting-file-types-to-pdf/convert-xlam-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # XLAM konvertálása PDF-be
 
 ## Bevezetés

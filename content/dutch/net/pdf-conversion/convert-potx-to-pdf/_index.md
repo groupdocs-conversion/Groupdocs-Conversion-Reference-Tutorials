@@ -5,8 +5,8 @@
 "title": "POTX naar PDF converteren"
 "url": "/nl/net/pdf-conversion/convert-potx-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # POTX naar PDF converteren
 
 ## Invoering

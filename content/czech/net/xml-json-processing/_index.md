@@ -3,8 +3,8 @@
 "title": "Výukové programy pro zpracování XML a JSON v GroupDocs.Conversion .NET"
 "url": "/cs/net/xml-json-processing/"
 "weight": 16
+type: docs
 ---
-
 # Výukové programy pro zpracování XML a JSON v GroupDocs.Conversion .NET
 
 Prozkoumejte možnosti konverze datových formátů s našimi tutoriály GroupDocs.Conversion pro vývojáře .NET. Tyto podrobné návody ukazují, jak používat XML a JSON jako zdroje dat pro vytváření tabulek a dalších typů dokumentů, zachovat hierarchické datové struktury během konverze, udržovat komplexní vztahy mezi objekty, pracovat s poli a kolekcemi, spravovat jmenné prostory a schémata a implementovat operace transformace a mapování dat. Každý tutoriál obsahuje praktické příklady kódu C# pro práci se strukturovanými datovými formáty, které vám pomohou vytvářet aplikace, které dokáží transformovat strojově čitelná data do formátů dokumentů přátelských k lidem.

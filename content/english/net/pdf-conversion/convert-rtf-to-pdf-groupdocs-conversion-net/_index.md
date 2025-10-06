@@ -8,10 +8,8 @@ keywords:
 - convert RTF to PDF
 - GroupDocs.Conversion for .NET
 - RTF to PDF conversion
-
+type: docs
 ---
-
-
 # Convert RTF to PDF with GroupDocs.Conversion for .NET
 
 ## Introduction

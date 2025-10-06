@@ -4,8 +4,8 @@
 "title": "Converti VDW in PowerPoint utilizzando GroupDocs.Conversion per .NET - Formati CAD e di disegno tecnico"
 "url": "/it/net/cad-technical-drawing-formats/convert-vdw-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire i file VDW in PowerPoint utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

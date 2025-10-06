@@ -3,8 +3,8 @@
 "title": "Tutoriales de conversión de formatos de hojas de cálculo para GroupDocs.Conversion Java"
 "url": "/es/java/spreadsheet-formats/"
 "weight": 6
+type: docs
 ---
-
 # Tutoriales de conversión de formatos de hojas de cálculo para GroupDocs.Conversion Java
 
 Aprenda a gestionar conversiones de hojas de cálculo con nuestros tutoriales de Java de GroupDocs.Conversion. Estas guías detalladas muestran cómo convertir entre formatos de Excel, CSV y otros tipos de hojas de cálculo, conservar fórmulas y funciones, mantener el formato de celdas, gestionar libros de varias hojas y garantizar la integridad de los datos durante la conversión. Cada tutorial incluye ejemplos de código Java que muestran cómo implementar una conversión precisa de hojas de cálculo, conservando cálculos complejos y elementos visuales.

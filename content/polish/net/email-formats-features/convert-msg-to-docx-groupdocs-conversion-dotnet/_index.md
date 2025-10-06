@@ -4,8 +4,8 @@
 "title": "Konwertuj MSG do DOCX w sposób efektywny – przewodnik po użyciu GroupDocs.Conversion dla .NET"
 "url": "/pl/net/email-formats-features/convert-msg-to-docx-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj pliki MSG do DOCX w sposób efektywny: przewodnik z wykorzystaniem GroupDocs.Conversion dla .NET
 
 Czy jesteś zmęczony ręcznym przepisywaniem treści wiadomości e-mail z plików MSG programu Microsoft Outlook do dokumentów Word? W tym kompleksowym samouczku przeprowadzimy Cię przez proces korzystania z GroupDocs.Conversion for .NET API w celu zautomatyzowania tego procesu. To bogate w funkcje narzędzie ułatwia bezproblemową konwersję plików MSG do formatu DOCX. Niezależnie od tego, czy jesteś programistą, który chce zintegrować tę funkcjonalność ze swoją aplikacją, czy też profesjonalistą IT, który chce usprawnić przepływy pracy nad dokumentami, ten przewodnik ma coś dla Ciebie.

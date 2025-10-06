@@ -4,8 +4,8 @@
 "title": "Jak převést soubory LOG do formátu SVG pomocí nástroje GroupDocs.Conversion pro .NET – podrobný návod"
 "url": "/cs/net/image-conversion/convert-log-files-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory LOG do formátu SVG pomocí nástroje GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

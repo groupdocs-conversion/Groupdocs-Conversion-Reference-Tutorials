@@ -4,8 +4,8 @@
 "title": "Java와 GroupDocs.Conversion을 사용하여 암호로 보호된 Word 문서를 PPT로 효율적으로 변환"
 "url": "/ko/java/presentation-formats/convert-password-protected-word-to-ppt-java/"
 "weight": 1
+type: docs
 ---
-
 # Java와 GroupDocs.Conversion을 사용하여 암호로 보호된 Word 문서를 PPT로 효율적으로 변환하는 방법
 
 ## 소개

@@ -5,8 +5,8 @@
 "title": "OTS를 PDF로 변환"
 "url": "/ko/net/pdf-conversion/convert-ots-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # OTS를 PDF로 변환
 
 ## 소개

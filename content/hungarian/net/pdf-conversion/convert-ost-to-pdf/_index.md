@@ -5,8 +5,8 @@
 "title": "OST konvertálása PDF-be"
 "url": "/hu/net/pdf-conversion/convert-ost-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # OST konvertálása PDF-be
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "تحويل VSDX إلى JPG باستخدام GroupDocs.Conversion لـ .NET - دليل خطوة بخطوة"
 "url": "/ar/net/image-conversion/convert-vsdx-to-jpg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # تحويل VSDX إلى JPG باستخدام GroupDocs.Conversion لـ .NET: دليل خطوة بخطوة
 
 ### مقدمة

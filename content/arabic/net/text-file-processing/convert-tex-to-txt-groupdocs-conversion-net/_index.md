@@ -4,8 +4,8 @@
 "title": "تحويل TEX إلى TXT باستخدام GroupDocs.Conversion لـ .NET - دليل كامل"
 "url": "/ar/net/text-file-processing/convert-tex-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ملفات TEX إلى TXT باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

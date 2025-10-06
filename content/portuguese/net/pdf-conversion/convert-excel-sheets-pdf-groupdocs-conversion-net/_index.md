@@ -4,8 +4,8 @@
 "title": "Converta planilhas específicas do Excel em PDF usando o GroupDocs.Conversion para .NET | Guia passo a passo fácil"
 "url": "/pt/net/pdf-conversion/convert-excel-sheets-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converter planilhas específicas do Excel em PDF usando GroupDocs.Conversion para .NET
 
 ## Introdução

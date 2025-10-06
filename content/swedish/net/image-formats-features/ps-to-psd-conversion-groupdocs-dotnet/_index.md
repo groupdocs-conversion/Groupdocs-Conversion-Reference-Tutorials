@@ -4,8 +4,8 @@
 "title": "Effektiv PS till PSD-konvertering med GroupDocs.Conversion för .NET"
 "url": "/sv/net/image-formats-features/ps-to-psd-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Effektiv PS till PSD-konvertering med GroupDocs.Conversion för .NET
 
 ## Introduktion

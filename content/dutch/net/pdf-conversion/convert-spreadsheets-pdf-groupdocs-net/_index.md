@@ -4,8 +4,8 @@
 "title": "Converteer spreadsheets naadloos naar PDF's met GroupDocs.Conversion in .NET"
 "url": "/nl/net/pdf-conversion/convert-spreadsheets-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer spreadsheets naadloos naar PDF's met GroupDocs.Conversion in .NET
 
 ## Invoering

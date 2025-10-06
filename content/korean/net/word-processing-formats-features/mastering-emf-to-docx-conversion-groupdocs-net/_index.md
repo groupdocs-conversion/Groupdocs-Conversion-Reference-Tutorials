@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 EMF 파일을 DOCX로 변환하는 포괄적인 가이드"
 "url": "/ko/net/word-processing-formats-features/mastering-emf-to-docx-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 EMF 파일을 DOCX로 변환하는 포괄적인 가이드
 
 오늘날의 디지털 환경에서는 다양한 파일 형식을 원활하게 변환하는 것이 필수적입니다. 일반적인 과제 중 하나는 확장 메타파일 형식(.emf) 파일을 Microsoft Word Open XML 문서(.docx)로 변환하는 것입니다. 이 가이드에서는 GroupDocs.Conversion for .NET을 사용하여 이러한 변환을 효율적으로 처리하는 방법을 보여줍니다.

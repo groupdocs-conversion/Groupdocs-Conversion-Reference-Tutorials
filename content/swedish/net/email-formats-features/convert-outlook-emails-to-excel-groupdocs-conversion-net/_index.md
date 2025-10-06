@@ -4,8 +4,8 @@
 "title": "Konvertera effektivt Outlook-e-postmeddelanden till Excel med GroupDocs.Conversion för .NET"
 "url": "/sv/net/email-formats-features/convert-outlook-emails-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera enkelt Microsoft Outlook-e-postmeddelanden till Excel-kalkylblad med GroupDocs.Conversion för .NET
 
 ## Introduktion

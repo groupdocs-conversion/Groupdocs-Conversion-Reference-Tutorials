@@ -4,8 +4,8 @@
 "title": "Convierta STL a DOCX en .NET con GroupDocs.Conversion&#58; una guía completa"
 "url": "/es/net/cad-technical-drawing-formats/convert-stl-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convierta STL a DOCX en .NET con GroupDocs.Conversion: una guía completa
 
 ## Introducción

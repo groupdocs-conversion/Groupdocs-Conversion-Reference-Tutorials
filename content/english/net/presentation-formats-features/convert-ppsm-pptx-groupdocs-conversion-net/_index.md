@@ -8,10 +8,8 @@ keywords:
 - convert PPSM to PPTX
 - GroupDocs.Conversion .NET
 - file conversion using GroupDocs
-
+type: docs
 ---
-
-
 # Efficiently Convert PPSM to PPTX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

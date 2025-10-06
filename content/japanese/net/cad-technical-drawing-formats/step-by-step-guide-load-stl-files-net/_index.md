@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して STL ファイルを読み込み、変換するステップバイステップ ガイド"
 "url": "/ja/net/cad-technical-drawing-formats/step-by-step-guide-load-stl-files-net/"
 "weight": 1
+type: docs
 ---
-
 # ステップバイステップガイド: .NET で STL ファイルを読み込み、変換する
 
 ## 導入

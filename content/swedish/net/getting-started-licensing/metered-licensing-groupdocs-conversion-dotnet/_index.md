@@ -4,8 +4,8 @@
 "title": "Implementera mätad licensiering med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/getting-started-licensing/metered-licensing-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Implementera mätad licensiering med GroupDocs.Conversion för .NET
 
 ## Introduktion

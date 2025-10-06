@@ -4,8 +4,8 @@
 "title": "Java&#58;da GroupDocs.Conversion Kullanarak Sorunsuz Kodlama ve PDF Dönüştürme için Ana Metin Belgesi İşleme"
 "url": "/tr/java/word-processing-formats/master-text-document-handling-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion ile Java'da Metin Belgesi İşleme Konusunda Uzmanlaşma
 
 ## giriiş

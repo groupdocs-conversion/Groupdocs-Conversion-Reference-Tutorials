@@ -4,8 +4,8 @@
 "title": "تحويل DXF إلى HTML بكفاءة باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/html-conversion/convert-dxf-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل DXF إلى HTML بكفاءة باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

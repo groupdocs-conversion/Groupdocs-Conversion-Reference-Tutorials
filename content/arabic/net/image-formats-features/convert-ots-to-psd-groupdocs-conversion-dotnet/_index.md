@@ -4,8 +4,8 @@
 "title": "كيفية تحويل OTS إلى PSD باستخدام GroupDocs.Conversion لـ .NET - دليل خطوة بخطوة"
 "url": "/ar/net/image-formats-features/convert-ots-to-psd-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل OTS إلى PSD باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

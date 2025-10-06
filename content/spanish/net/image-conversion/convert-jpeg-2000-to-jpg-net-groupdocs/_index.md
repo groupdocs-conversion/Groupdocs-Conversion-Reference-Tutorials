@@ -4,8 +4,8 @@
 "title": "Convierta JPEG 2000 a JPG en .NET con GroupDocs.Conversion&#58; una guía completa"
 "url": "/es/net/image-conversion/convert-jpeg-2000-to-jpg-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Convierta JPEG 2000 a JPG en .NET con GroupDocs.Conversion: una guía completa
 
 ## Introducción

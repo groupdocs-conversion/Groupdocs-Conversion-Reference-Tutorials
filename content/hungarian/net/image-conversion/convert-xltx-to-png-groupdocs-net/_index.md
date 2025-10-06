@@ -4,8 +4,8 @@
 "title": "XLTX konvertálása PNG-vé .NET-ben a GroupDocs.Conversion használatával – Teljes körű útmutató"
 "url": "/hu/net/image-conversion/convert-xltx-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # XLTX konvertálása PNG-vé .NET-ben a GroupDocs.Conversion használatával: Teljes körű útmutató
 
 ## Bevezetés

@@ -5,8 +5,8 @@
 "title": "Převod OTG do PDF"
 "url": "/cs/net/pdf-conversion/convert-otg-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # Převod OTG do PDF
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "Converta IGES para TeX com GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/cad-technical-drawing-formats/convert-igs-to-tex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Como converter arquivos IGS para o formato TEX usando GroupDocs.Conversion para .NET
 
 ## Introdução

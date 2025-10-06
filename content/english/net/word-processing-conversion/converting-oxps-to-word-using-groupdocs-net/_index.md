@@ -8,10 +8,8 @@ keywords:
 - convert OXPS to Word
 - GroupDocs Conversion .NET
 - document conversion in .NET
-
+type: docs
 ---
-
-
 # How to Convert OXPS to Word Using GroupDocs.Conversion for .NET
 
 ## Introduction

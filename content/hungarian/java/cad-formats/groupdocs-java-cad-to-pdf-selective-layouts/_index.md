@@ -4,8 +4,8 @@
 "title": "CAD elrendezések konvertálása PDF-be Java-ban a GroupDocs szelektív elrendezés konverziós útmutatójával"
 "url": "/hu/java/cad-formats/groupdocs-java-cad-to-pdf-selective-layouts/"
 "weight": 1
+type: docs
 ---
-
 # CAD elrendezések konvertálása PDF-be a GroupDocs.Conversion for Java segítségével
 ## Szelektív CAD-ből PDF-be konvertálás elsajátítása Java nyelven
 ### Bevezetés

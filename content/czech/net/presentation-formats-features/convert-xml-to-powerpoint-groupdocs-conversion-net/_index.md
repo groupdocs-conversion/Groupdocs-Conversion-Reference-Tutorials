@@ -4,8 +4,8 @@
 "title": "Převod XML do PowerPointu pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/presentation-formats-features/convert-xml-to-powerpoint-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod XML do PowerPointu pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 ## Zavedení
 V uspěchaném světě, ve kterém žijeme, je efektivní převod informací mezi různými formáty nezbytný. Vývojáři často potřebují transformovat soubory XML do prezentací v PowerPointu (PPT) – úkol, který zajišťuje konzistenci dat napříč platformami a šetří čas. Tento tutoriál vás provede používáním nástroje GroupDocs.Conversion pro .NET k efektivnímu převodu XML do formátu PPT.

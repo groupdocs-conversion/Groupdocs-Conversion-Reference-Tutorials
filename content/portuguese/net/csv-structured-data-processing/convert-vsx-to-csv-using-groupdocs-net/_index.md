@@ -4,8 +4,8 @@
 "title": "Guia passo a passo para converter VSX para CSV no .NET usando GroupDocs.Conversion"
 "url": "/pt/net/csv-structured-data-processing/convert-vsx-to-csv-using-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter arquivos VSX para CSV usando GroupDocs.Conversion para .NET
 
 ## Introdução

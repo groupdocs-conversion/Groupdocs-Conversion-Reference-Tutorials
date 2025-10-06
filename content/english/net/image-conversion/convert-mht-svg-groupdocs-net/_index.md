@@ -8,10 +8,8 @@ keywords:
 - MHT to SVG conversion
 - GroupDocs.Conversion for .NET
 - image conversion
-
+type: docs
 ---
-
-
 # How to Convert MHT Files to SVG Using GroupDocs.Conversion for .NET
 ## Image Conversion Tutorial
 

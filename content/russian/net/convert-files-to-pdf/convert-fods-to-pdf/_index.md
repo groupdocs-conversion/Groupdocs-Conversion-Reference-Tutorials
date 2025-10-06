@@ -5,8 +5,8 @@
 "title": "Конвертировать электронные таблицы FODS OpenDocument в PDF"
 "url": "/ru/net/convert-files-to-pdf/convert-fods-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Конвертировать электронные таблицы FODS OpenDocument в PDF
 
 ## Введение

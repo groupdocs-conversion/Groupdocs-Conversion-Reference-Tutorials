@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion voor Java&#58; alle mogelijke conversies ophalen"
 "url": "/nl/java/conversion-options/groupdocs-conversion-java-retrieve-possible-conversions/"
 "weight": 1
+type: docs
 ---
-
 # Uitgebreide handleiding voor het ophalen van alle mogelijke conversies met GroupDocs.Conversion voor Java
 
 ## Invoering

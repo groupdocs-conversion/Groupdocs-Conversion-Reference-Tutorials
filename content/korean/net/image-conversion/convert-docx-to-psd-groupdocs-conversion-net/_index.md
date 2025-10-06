@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET을 사용하여 이미지 변환을 위한 효율적인 DOCX-PSD 변환"
 "url": "/ko/net/image-conversion/convert-docx-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET을 사용한 효율적인 DOCX-PSD 변환
 
 ## 소개

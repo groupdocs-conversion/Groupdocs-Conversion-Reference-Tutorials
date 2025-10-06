@@ -8,10 +8,8 @@ keywords:
 - convert VDW to CSV
 - GroupDocs.Conversion for .NET
 - Visio Web Drawing conversion
-
+type: docs
 ---
-
-
 # How to Convert Visio Web Drawings (VDW) to CSV Using GroupDocs.Conversion for .NET
 
 ## Introduction

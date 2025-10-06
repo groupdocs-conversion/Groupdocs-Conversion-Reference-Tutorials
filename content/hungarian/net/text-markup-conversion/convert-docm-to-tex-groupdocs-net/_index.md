@@ -4,8 +4,8 @@
 "title": "DOCM konvertálása TEX-be a GroupDocs for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/text-markup-conversion/convert-docm-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DOCM konvertálása TEX-be a GroupDocs for .NET használatával: Teljes körű útmutató
 
 ## Bevezetés

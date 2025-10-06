@@ -5,8 +5,8 @@
 "title": "XLTM को PDF में बदलें"
 "url": "/hi/net/converting-file-types-to-pdf/convert-xltm-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # XLTM को PDF में बदलें
 
 ## परिचय

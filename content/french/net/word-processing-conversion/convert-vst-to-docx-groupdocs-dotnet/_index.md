@@ -4,8 +4,8 @@
 "title": "Convertir VST en DOCX dans .NET à l'aide de GroupDocs.Conversion - Guide étape par étape"
 "url": "/fr/net/word-processing-conversion/convert-vst-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertir VST en DOCX dans .NET avec GroupDocs.Conversion : guide étape par étape
 
 ## Introduction

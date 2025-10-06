@@ -8,10 +8,8 @@ keywords:
 - Convert DIB to PSD
 - GroupDocs.Conversion for .NET
 - image format conversion
-
+type: docs
 ---
-
-
 # How to Convert DIB Files to PSD Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

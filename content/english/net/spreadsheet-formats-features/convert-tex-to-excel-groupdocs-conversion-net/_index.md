@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert LaTeX (TEX) Files to Excel Spreadsheets Using GroupDocs.Conversion for .NET
 
 ## Introduction

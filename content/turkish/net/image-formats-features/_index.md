@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET için Görüntü Biçimleri ve Özellikleri Eğitimleri"
 "url": "/tr/net/image-formats-features/"
 "weight": 13
+type: docs
 ---
-
 # GroupDocs.Conversion .NET için Görüntü Biçimleri ve Özellikleri Eğitimleri
 
 .NET geliştiricileri için detaylı GroupDocs.Conversion eğitimlerimizle görüntü işleme yeteneklerini keşfedin. Bu adım adım kılavuzlar, belgeleri çeşitli görüntü biçimlerine dönüştürmeyi, görüntülerden metin çıkarmak için OCR'yi uygulamayı, görüntü çözünürlüğünü ve kalitesini kontrol etmeyi, renk derinliğini ve şeffaflığı yönetmeyi, vektör biçimleri için işleme seçeneklerini belirtmeyi, görüntü dönüştürme sırasında meta verileri korumayı ve birden fazla görüntüyü toplu olarak işlemeyi gösterir. Her eğitim, belgeleri görsel temsillere etkili bir şekilde dönüştürebilen veya görüntü tabanlı biçimlerden içerik çıkarabilen uygulamalar oluşturmanıza yardımcı olan görüntü dönüştürme senaryoları için pratik C# kod örnekleri içerir.

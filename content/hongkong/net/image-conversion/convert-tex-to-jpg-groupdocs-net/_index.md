@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 有效率地將 LaTeX (TEX) 轉換為 JPG"
 "url": "/zh-hant/net/image-conversion/convert-tex-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 有效率地將 LaTeX (TEX) 轉換為 JPG
 
 ## 介紹

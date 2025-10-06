@@ -4,8 +4,8 @@
 "title": "XLSX'i GroupDocs.Conversion for .NET ile HTML'ye Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/html-conversion/convert-xlsx-to-html-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # XLSX'i GroupDocs.Conversion for .NET ile HTML'ye Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

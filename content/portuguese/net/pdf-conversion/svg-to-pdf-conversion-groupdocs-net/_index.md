@@ -4,8 +4,8 @@
 "title": "Converter SVG para PDF no .NET usando GroupDocs.Conversion - Um guia completo"
 "url": "/pt/net/pdf-conversion/svg-to-pdf-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converter SVG para PDF no .NET usando GroupDocs.Conversion: um guia completo
 
 ## Introdução

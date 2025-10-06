@@ -4,8 +4,8 @@
 "title": "Guide ultime &#58; Conversion de fichiers TXT en DOC avec GroupDocs.Conversion pour .NET"
 "url": "/fr/net/word-processing-conversion/convert-txt-doc-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Guide ultime : Convertir du TXT en DOC avec GroupDocs.Conversion pour .NET
 
 ## Introduction

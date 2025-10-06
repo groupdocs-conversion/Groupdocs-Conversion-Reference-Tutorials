@@ -3,8 +3,8 @@
 "title": "使用 GroupDocs.Conversion .NET 的安全文档教程"
 "url": "/zh/net/working-with-secure-documents/"
 "weight": 5
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 的安全文档教程
 
 通过我们面向 .NET 开发人员的 GroupDocs.Conversion 教程，了解如何处理安全文档。这些分步指南将教您如何使用标准和流畅的 API 方法加载受密码保护的文件、管理加密密钥、指定特定于文档的安全选项、妥善处理身份验证失败，以及在转换过程中适当地保留安全设置。每个教程都提供了处理受保护文档的实用 C# 代码示例，帮助您构建能够处理安全内容同时尊重机密性和访问控制的应用程序。

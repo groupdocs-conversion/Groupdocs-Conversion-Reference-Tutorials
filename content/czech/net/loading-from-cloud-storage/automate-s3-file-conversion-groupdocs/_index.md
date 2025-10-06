@@ -4,8 +4,8 @@
 "title": "Automatizace konverze souborů S3 pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/loading-from-cloud-storage/automate-s3-file-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Automatizace konverze souborů S3 pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion का उपयोग करके .NET में IFC फ़ाइलों को TEX कैसे परिवर्तित करें"
 "url": "/hi/net/cad-technical-drawing-formats/convert-ifc-to-tex-dotnet-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion का उपयोग करके .NET में IFC फ़ाइलों को TEX कैसे परिवर्तित करें
 
 ## परिचय

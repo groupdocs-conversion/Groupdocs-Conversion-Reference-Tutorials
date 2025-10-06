@@ -8,10 +8,8 @@ keywords:
 - convert JPX to TXT
 - GroupDocs.Conversion for .NET
 - JPX file conversion
-
+type: docs
 ---
-
-
 # Comprehensive Tutorial: Convert JPX to TXT with GroupDocs.Conversion for .NET
 
 ## Introduction

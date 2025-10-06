@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用した .NET でのマスターファイル変換の包括的なガイド"
 "url": "/ja/net/loading-from-remote-sources/mastering-file-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion を使用した .NET でのファイル変換の習得
 
 今日のデジタル世界では、異なるフォーマット間でのシームレスなファイル変換は、開発者が直面する共通の課題です。PDFからWord文書への変換や、画像をプレゼンテーションに変換する場合でも、 **GroupDocs.Conversion for .NET** アプリケーション内のこれらのタスクを簡素化する強力で信頼性の高いソリューションを提供します。

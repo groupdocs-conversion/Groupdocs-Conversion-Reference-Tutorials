@@ -5,8 +5,8 @@
 "title": "Converteer FODS OpenDocument-spreadsheets naar PDF"
 "url": "/nl/net/convert-files-to-pdf/convert-fods-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Converteer FODS OpenDocument-spreadsheets naar PDF
 
 ## Invoering

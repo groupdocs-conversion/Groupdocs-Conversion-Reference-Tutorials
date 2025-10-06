@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Effortless WMF to PDF Conversion Using GroupDocs for .NET Developers
 
 ## Introduction

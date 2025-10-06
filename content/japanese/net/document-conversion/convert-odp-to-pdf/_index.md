@@ -5,8 +5,8 @@
 "title": "ODPをPDFに変換する"
 "url": "/ja/net/document-conversion/convert-odp-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # ODPをPDFに変換する
 
 ## 導入

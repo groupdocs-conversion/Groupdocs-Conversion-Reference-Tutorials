@@ -8,10 +8,8 @@ keywords:
 - convert FTP documents to PDF Java
 - GroupDocs.Conversion setup
 - FTP document conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert FTP Documents to PDF Using GroupDocs.Conversion for Java
 
 ## Introduction

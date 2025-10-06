@@ -4,8 +4,8 @@
 "title": "Μετατροπή VSDX σε PSD χρησιμοποιώντας το GroupDocs.Conversion .NET API για απρόσκοπτη ενσωμάτωση"
 "url": "/el/net/image-formats-features/convert-vsdx-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή VSDX σε PSD χρησιμοποιώντας το GroupDocs.Conversion .NET API
 
 ## Εισαγωγή

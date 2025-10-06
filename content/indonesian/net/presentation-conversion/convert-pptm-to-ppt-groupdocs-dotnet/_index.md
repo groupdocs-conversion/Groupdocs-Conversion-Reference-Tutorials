@@ -4,8 +4,8 @@
 "title": "Konversi PPTM ke PPT Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/presentation-conversion/convert-pptm-to-ppt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konversi PPTM ke PPT Menggunakan GroupDocs.Conversion untuk .NET: Panduan Lengkap
 
 Dalam dunia bisnis, presentasi PowerPoint merupakan alat yang penting. Namun, tidak semua orang memiliki akses ke versi Microsoft Office terbaru, sehingga memerlukan konversi dari PPTM (file PowerPoint dengan makro) ke PPT (format PowerPoint lama). Panduan ini akan memandu Anda menggunakan GroupDocs.Conversion for .NET untuk mengonversi file PPTM ke format PPT dengan mudah.

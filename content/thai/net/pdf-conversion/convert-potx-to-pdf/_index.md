@@ -5,8 +5,8 @@
 "title": "แปลง POTX เป็น PDF"
 "url": "/th/net/pdf-conversion/convert-potx-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # แปลง POTX เป็น PDF
 
 ## การแนะนำ

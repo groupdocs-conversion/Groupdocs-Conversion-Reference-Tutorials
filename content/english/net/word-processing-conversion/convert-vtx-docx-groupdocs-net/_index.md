@@ -8,10 +8,8 @@ keywords:
 - convert VTX to DOCX
 - GroupDocs.Conversion for .NET
 - file conversion in .NET
-
+type: docs
 ---
-
-
 # How to Convert VTX Files to DOCX Using GroupDocs.Conversion for .NET: A Developer's Guide
 
 ## Introduction

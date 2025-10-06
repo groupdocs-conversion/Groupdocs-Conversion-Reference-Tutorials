@@ -4,8 +4,8 @@
 "title": "MPP'yi JPG'ye Dönüştürme - .NET için GroupDocs.Conversion'ı Kullanarak Kapsamlı Bir Kılavuz"
 "url": "/tr/net/image-conversion/convert-mpp-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MPP'yi JPG'ye Dönüştürme: .NET için GroupDocs.Conversion ile Adım Adım Kılavuz
 
 ## giriiş

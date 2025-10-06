@@ -8,10 +8,8 @@ keywords:
 - convert DOTX to PSD
 - GroupDocs.Conversion for .NET
 - C# file conversion
-
+type: docs
 ---
-
-
 # Convert DOTX to PSD with GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

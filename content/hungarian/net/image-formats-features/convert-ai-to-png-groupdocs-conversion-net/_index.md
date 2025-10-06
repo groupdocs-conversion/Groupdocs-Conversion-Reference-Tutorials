@@ -4,8 +4,8 @@
 "title": "AI konvertálása PNG-vé a GroupDocs.Conversion for .NET segítségével – lépésről lépésre útmutató"
 "url": "/hu/net/image-formats-features/convert-ai-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # AI konvertálása PNG-vé a GroupDocs.Conversion for .NET segítségével: lépésről lépésre útmutató
 
 ## Bevezetés

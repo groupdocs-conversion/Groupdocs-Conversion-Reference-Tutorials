@@ -4,8 +4,8 @@
 "title": "Konversi VSS ke PPTX secara Efisien Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/presentation-formats-features/convert-vss-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi File VSS ke Format PPTX Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

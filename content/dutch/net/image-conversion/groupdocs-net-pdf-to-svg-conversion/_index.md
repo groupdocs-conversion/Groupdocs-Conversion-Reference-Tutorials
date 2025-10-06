@@ -4,8 +4,8 @@
 "title": "Master PDF naar SVG-conversie met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/image-conversion/groupdocs-net-pdf-to-svg-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Master PDF naar SVG-conversie met GroupDocs.Conversion voor .NET
 
 ## Tutorial voor beeldconversie

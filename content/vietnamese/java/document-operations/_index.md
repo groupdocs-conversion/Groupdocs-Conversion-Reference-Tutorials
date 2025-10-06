@@ -3,8 +3,8 @@
 "title": "Hướng dẫn thao tác chuyển đổi tài liệu với GroupDocs.Conversion cho Java"
 "url": "/vi/java/document-operations/"
 "weight": 2
+type: docs
 ---
-
 # Hướng dẫn thao tác chuyển đổi tài liệu với GroupDocs.Conversion cho Java
 
 Hướng dẫn về thao tác tài liệu của chúng tôi cung cấp hướng dẫn toàn diện để chuyển đổi tài liệu giữa các định dạng khác nhau trong Java. Thực hiện theo các hướng dẫn từng bước này để tìm hiểu cách chuyển đổi tài liệu sang và từ các định dạng phổ biến như PDF, DOCX, XLSX, PPTX, HTML, v.v. Các hướng dẫn thực tế này bao gồm các ví dụ mã hoàn chỉnh cho nhiều tình huống chuyển đổi khác nhau, giúp bạn xây dựng khả năng chuyển đổi tài liệu mạnh mẽ trong các ứng dụng Java của mình.

@@ -5,8 +5,8 @@
 "title": "將 DICOM 醫學影像轉換為 PDF"
 "url": "/zh-hant/net/file-conversion-to-pdf/convert-dicom-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # 將 DICOM 醫學影像轉換為 PDF
 
 ## 介紹

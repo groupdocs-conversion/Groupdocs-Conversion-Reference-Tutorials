@@ -4,8 +4,8 @@
 "title": "Μετατροπή XLAM σε SVG χρησιμοποιώντας το GroupDocs.Conversion για .NET - Μορφές CAD και τεχνικού σχεδίου"
 "url": "/el/net/cad-technical-drawing-formats/convert-xlam-svg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή XLAM σε SVG χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

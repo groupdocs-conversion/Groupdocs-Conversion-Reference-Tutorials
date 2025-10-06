@@ -5,8 +5,8 @@
 "title": "Převod ikon ICO do PDF"
 "url": "/cs/net/convert-files-to-pdf/convert-ico-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Převod ikon ICO do PDF
 
 ## Zavedení

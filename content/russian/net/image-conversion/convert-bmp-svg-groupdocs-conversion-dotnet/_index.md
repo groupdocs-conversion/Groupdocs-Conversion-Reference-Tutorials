@@ -4,8 +4,8 @@
 "title": "Конвертируйте BMP в SVG в .NET с помощью GroupDocs.Conversion для бесшовных преобразований изображений"
 "url": "/ru/net/image-conversion/convert-bmp-svg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте BMP в SVG в .NET с помощью GroupDocs.Conversion для бесшовных преобразований изображений
 
 ## Введение

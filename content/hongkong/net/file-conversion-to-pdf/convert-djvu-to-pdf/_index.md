@@ -5,8 +5,8 @@
 "title": "將 DJVU 文件轉換為 PDF"
 "url": "/zh-hant/net/file-conversion-to-pdf/convert-djvu-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # 將 DJVU 文件轉換為 PDF
 
 ## 介紹

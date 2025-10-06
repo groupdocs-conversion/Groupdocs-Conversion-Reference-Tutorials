@@ -4,8 +4,8 @@
 "title": "Beágyazott fájlok eltávolítása PDF-ekből a GroupDocs.Conversion .NET használatával az optimalizált dokumentumkezeléshez"
 "url": "/hu/net/pdf-conversion-features/remove-embedded-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Beágyazott fájlok eltávolítása PDF-ekből a GroupDocs.Conversion .NET használatával az optimalizált dokumentumkezeléshez
 
 ## Bevezetés

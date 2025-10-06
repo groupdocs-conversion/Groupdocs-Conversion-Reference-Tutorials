@@ -4,8 +4,8 @@
 "title": "Converteer JLS efficiënt naar Excel met GroupDocs voor .NET"
 "url": "/nl/net/spreadsheet-conversion/convert-jls-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer JPEG Lossless Image Files (JLS) naar Excel-sheets met GroupDocs.Conversion voor .NET
 
 ## Invoering

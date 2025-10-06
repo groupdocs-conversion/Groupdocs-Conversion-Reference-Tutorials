@@ -4,8 +4,8 @@
 "title": "PowerPoint sablon (.potx) szöveggé konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/text-file-processing/convert-potx-to-text-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Microsoft PowerPoint Open XML Template (.potx) fájl betöltése és szöveggé konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

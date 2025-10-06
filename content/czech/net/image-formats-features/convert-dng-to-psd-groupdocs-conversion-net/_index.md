@@ -4,8 +4,8 @@
 "title": "Převod DNG do PSD pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/image-formats-features/convert-dng-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod DNG do PSD pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

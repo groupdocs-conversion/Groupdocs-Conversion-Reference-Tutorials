@@ -8,10 +8,8 @@ keywords:
 - convert MHTML to SVG
 - GroupDocs.Conversion for .NET
 - MHTML file transformation
-
+type: docs
 ---
-
-
 # Convert MHTML to SVG Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

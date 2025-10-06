@@ -4,8 +4,8 @@
 "title": "AI PDF-be konvertálási útmutató a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/pdf-conversion-features/ai-to-pdf-conversion-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # AI PDF-be konvertálási útmutató a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

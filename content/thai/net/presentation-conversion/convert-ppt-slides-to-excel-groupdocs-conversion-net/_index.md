@@ -4,8 +4,8 @@
 "title": "แปลงสไลด์ PPT เป็น Excel โดยการใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/presentation-conversion/convert-ppt-slides-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลงสไลด์ PPT เป็น Excel ด้วย GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

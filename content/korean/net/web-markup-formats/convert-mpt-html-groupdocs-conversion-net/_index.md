@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 MPT를 HTML로 변환하기&#58; 종합 가이드"
 "url": "/ko/net/web-markup-formats/convert-mpt-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 MPT를 HTML로 변환: 포괄적인 가이드
 
 ## 소개

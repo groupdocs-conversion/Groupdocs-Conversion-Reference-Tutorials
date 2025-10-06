@@ -4,8 +4,8 @@
 "title": "XLSM hatékony konvertálása XLS-be a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/spreadsheet-formats-features/convert-xlsm-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # XLSM hatékony konvertálása XLS-be a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

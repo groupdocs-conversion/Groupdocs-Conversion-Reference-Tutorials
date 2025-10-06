@@ -4,8 +4,8 @@
 "title": "Converteer XLTX efficiënt naar SVG met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/image-conversion/groupdocs-conversion-xltx-to-svg-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer XLTX efficiënt naar SVG met GroupDocs.Conversion voor .NET
 
 Heb je moeite met het efficiënt converteren van XLTX-bestanden naar SVG-formaat? Deze uitgebreide handleiding laat je zien hoe je dit moeiteloos kunt doen met GroupDocs.Conversion voor .NET. Of je nu een ervaren ontwikkelaar bent of net begint, het beheersen van deze functie kan je documentverwerking stroomlijnen.

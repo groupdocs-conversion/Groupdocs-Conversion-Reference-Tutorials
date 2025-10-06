@@ -4,8 +4,8 @@
 "title": "Chuyển đổi DOC sang TEX bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/word-processing-conversion/convert-doc-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi DOC sang TEX bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

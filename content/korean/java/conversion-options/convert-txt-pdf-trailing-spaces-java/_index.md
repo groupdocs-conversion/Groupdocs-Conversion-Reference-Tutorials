@@ -4,8 +4,8 @@
 "title": "Java와 GroupDocs.Conversion을 사용하여 후행 공백 제어를 사용하여 TXT를 PDF로 변환하는 방법"
 "url": "/ko/java/conversion-options/convert-txt-pdf-trailing-spaces-java/"
 "weight": 1
+type: docs
 ---
-
 # Java와 GroupDocs.Conversion을 사용하여 후행 공백 제어를 사용하여 TXT를 PDF로 변환하는 방법
 
 오늘날의 디지털 세상에서 텍스트 문서를 효율적으로 처리하는 것은 기업과 개인 모두에게 매우 중요합니다. 서식 무결성을 유지하면서 텍스트 파일(TXT)을 다양한 PDF 형식으로 변환하는 것은 어려울 수 있으며, 특히 레이아웃을 방해하는 후행 공백을 처리하는 경우에는 더욱 그렇습니다. 이 튜토리얼에서는 GroupDocs.Conversion for Java를 사용하여 후행 공백을 제어하면서 텍스트 파일을 PDF로 효과적으로 변환하는 방법을 안내합니다.

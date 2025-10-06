@@ -5,8 +5,8 @@
 "title": "Konwertuj TXT do PDF"
 "url": "/pl/net/file-format-conversion-tutorials/convert-txt-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Konwertuj TXT do PDF
 
 ## Wstęp

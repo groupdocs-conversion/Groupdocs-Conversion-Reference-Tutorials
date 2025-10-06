@@ -4,8 +4,8 @@
 "title": "Converteer MPX naar PDF met GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/pdf-conversion/convert-mpx-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MPX naar PDF converteren met GroupDocs.Conversion voor .NET: een uitgebreide handleiding
 
 ## Invoering

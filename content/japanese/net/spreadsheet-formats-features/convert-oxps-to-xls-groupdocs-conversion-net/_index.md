@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NETでOXPSをXLSに変換する - スプレッドシートの形式と機能の総合ガイド"
 "url": "/ja/net/spreadsheet-formats-features/convert-oxps-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET で OXPS を XLS に変換する: 包括的なガイド
 
 ## 導入

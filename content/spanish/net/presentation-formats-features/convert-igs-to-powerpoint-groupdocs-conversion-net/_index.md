@@ -4,8 +4,8 @@
 "title": "Convierta IGES a PowerPoint con GroupDocs.Conversion para .NET&#58; una guía paso a paso"
 "url": "/es/net/presentation-formats-features/convert-igs-to-powerpoint-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convierta IGES a PowerPoint con GroupDocs.Conversion para .NET: una guía paso a paso
 
 ## Introducción

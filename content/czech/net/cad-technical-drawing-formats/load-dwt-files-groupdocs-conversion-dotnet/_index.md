@@ -4,8 +4,8 @@
 "title": "Jak načíst a převést soubory DWT pomocí GroupDocs.Conversion pro .NET | CAD a technické kreslení"
 "url": "/cs/net/cad-technical-drawing-formats/load-dwt-files-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak načíst a převést soubory DWT pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

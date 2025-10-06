@@ -8,10 +8,8 @@ keywords:
 - convert XLAM to XLSX
 - GroupDocs.Conversion for .NET
 - .NET spreadsheet conversion
-
+type: docs
 ---
-
-
 # How to Convert XLAM to XLSX Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 将 PowerPoint 转换为 Excel 综合指南"
 "url": "/zh/net/spreadsheet-conversion/convert-powerpoint-excel-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 将 PowerPoint 幻灯片转换为 Excel 表
 
 ## 介绍

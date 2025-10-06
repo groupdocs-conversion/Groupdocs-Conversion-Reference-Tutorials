@@ -3,8 +3,8 @@ title: "Spreadsheet Formats Conversion Tutorials for GroupDocs.Conversion Java"
 description: "Complete tutorials for converting to and from Spreadsheet formats (XLS, XLSX, CSV, ODS) using GroupDocs.Conversion for Java."
 weight: 6
 url: "/java/spreadsheet-formats/"
+type: docs
 ---
-
 # Spreadsheet Formats Conversion Tutorials for GroupDocs.Conversion Java
 
 Learn how to handle spreadsheet conversions with our GroupDocs.Conversion Java tutorials. These detailed guides demonstrate how to convert between Excel formats, CSV, and other spreadsheet types, preserve formulas and functions, maintain cell formatting, handle multi-sheet workbooks, and ensure data integrity during conversion. Each tutorial includes working Java code examples that show how to implement accurate spreadsheet conversion while preserving complex calculations and visual elements.

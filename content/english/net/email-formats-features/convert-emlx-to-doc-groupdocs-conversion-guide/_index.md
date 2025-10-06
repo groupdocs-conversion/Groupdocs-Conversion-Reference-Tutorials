@@ -8,10 +8,8 @@ keywords:
 - EMLX to DOC conversion
 - GroupDocs.Conversion for .NET
 - file conversion tutorial
-
+type: docs
 ---
-
-
 # Convert EMLX Files to DOC Format with GroupDocs.Conversion for .NET
 
 ## Introduction

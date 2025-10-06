@@ -4,8 +4,8 @@
 "title": "Umfassende Anleitung zum Konvertieren von EPUB in PDF mit GroupDocs.Conversion für .NET"
 "url": "/de/net/pdf-conversion/convert-epub-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Umfassende Anleitung zum Konvertieren von EPUB in PDF mit GroupDocs.Conversion für .NET
 
 ## Einführung

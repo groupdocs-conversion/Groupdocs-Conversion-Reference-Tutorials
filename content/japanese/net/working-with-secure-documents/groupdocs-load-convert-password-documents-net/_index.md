@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用してパスワード保護されたドキュメントを読み込み、変換する"
 "url": "/ja/net/working-with-secure-documents/groupdocs-load-convert-password-documents-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用してパスワード保護されたドキュメントを読み込み、変換する
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "Ładowanie i konwertowanie plików HTM za pomocą GroupDocs.Conversion .NET&#58; Przewodnik krok po kroku"
 "url": "/pl/net/web-markup-formats/groupdocs-conversion-net-load-htm-files/"
 "weight": 1
+type: docs
 ---
-
 # Jak załadować i przekonwertować plik HTM za pomocą GroupDocs.Conversion .NET
 
 ## Wstęp

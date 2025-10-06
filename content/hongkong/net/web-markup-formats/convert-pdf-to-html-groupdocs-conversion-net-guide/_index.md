@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 將 PDF 轉換為 HTML — 逐步指南"
 "url": "/zh-hant/net/web-markup-formats/convert-pdf-to-html-groupdocs-conversion-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 將 PDF 轉換為 HTML：逐步指南
 
 ## 介紹

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して EPUB を XLS に変換する手順ガイド"
 "url": "/ja/net/spreadsheet-conversion/convert-epub-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して EPUB を XLS に変換する: ステップバイステップガイド
 
 ## 導入

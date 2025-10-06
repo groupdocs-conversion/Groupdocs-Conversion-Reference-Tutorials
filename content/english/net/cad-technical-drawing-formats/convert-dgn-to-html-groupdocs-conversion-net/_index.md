@@ -8,10 +8,8 @@ keywords:
 - Convert DGN to HTML
 - GroupDocs.Conversion for .NET
 - DGN file conversion
-
+type: docs
 ---
-
-
 # Efficient Conversion of DGN Files to HTML with GroupDocs.Conversion for .NET
 
 ## Introduction

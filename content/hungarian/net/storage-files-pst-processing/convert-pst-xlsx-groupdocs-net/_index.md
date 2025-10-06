@@ -4,8 +4,8 @@
 "title": "Outlook PST fájlok konvertálása Excel XLSX formátumba a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/storage-files-pst-processing/convert-pst-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Outlook PST fájlok konvertálása Excel XLSX formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Panduan untuk Mengonversi PDF ke PPT Menggunakan GroupDocs.Conversion di .NET"
 "url": "/id/net/presentation-formats-features/convert-pdf-to-ppt-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # Panduan untuk Mengonversi PDF ke PPT Menggunakan GroupDocs.Conversion di .NET
 
 ## Perkenalan

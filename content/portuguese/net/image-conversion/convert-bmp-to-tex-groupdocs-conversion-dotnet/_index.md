@@ -4,8 +4,8 @@
 "title": "Conversão de BMP para TEX usando GroupDocs.Conversion para .NET"
 "url": "/pt/net/image-conversion/convert-bmp-to-tex-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Dominando a conversão de BMP para TEX usando GroupDocs.Conversion para .NET
 
 **Libere o poder da transformação de documentos: converta imagens BMP para o formato TEX com facilidade**

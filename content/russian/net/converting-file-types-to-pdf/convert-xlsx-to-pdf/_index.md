@@ -5,8 +5,8 @@
 "title": "Конвертировать XLSX в PDF"
 "url": "/ru/net/converting-file-types-to-pdf/convert-xlsx-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Конвертировать XLSX в PDF
 
 ## Введение

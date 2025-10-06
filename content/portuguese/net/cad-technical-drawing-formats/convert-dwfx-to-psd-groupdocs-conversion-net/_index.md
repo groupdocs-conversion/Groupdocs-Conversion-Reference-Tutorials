@@ -4,8 +4,8 @@
 "title": "Como converter DWFX para PSD usando o GroupDocs.Conversion para .NET (Guia 2023)"
 "url": "/pt/net/cad-technical-drawing-formats/convert-dwfx-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter DWFX para PSD usando GroupDocs.Conversion para .NET
 
 ## Introdução

@@ -4,8 +4,8 @@
 "title": "Comment récupérer les informations de stockage personnel des fichiers OST Outlook à l'aide de GroupDocs.Conversion pour .NET"
 "url": "/fr/net/storage-files-pst-processing/retrieve-personal-storage-info-outlook-ost-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment récupérer les informations de stockage personnel des fichiers OST Outlook à l'aide de GroupDocs.Conversion pour .NET
 
 ## Introduction

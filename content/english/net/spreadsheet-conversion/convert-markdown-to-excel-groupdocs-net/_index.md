@@ -8,10 +8,8 @@ keywords:
 - convert markdown to excel
 - GroupDocs.Conversion for .NET
 - Markdown file conversion
-
+type: docs
 ---
-
-
 # Convert Markdown to Excel Using GroupDocs.Conversion for .NET
 ## Introduction
 Are you struggling to transform your markdown files into a more manageable and widely-used format like Excel? Whether managing technical documentation, notes, or project plans, converting them from Markdown (MD) to Excel can streamline data analysis and reporting. With **GroupDocs.Conversion for .NET**, this process is simplified and efficient.

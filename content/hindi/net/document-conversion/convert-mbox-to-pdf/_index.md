@@ -5,8 +5,8 @@
 "title": "MBOX को PDF में बदलें"
 "url": "/hi/net/document-conversion/convert-mbox-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # MBOX को PDF में बदलें
 
 ## परिचय

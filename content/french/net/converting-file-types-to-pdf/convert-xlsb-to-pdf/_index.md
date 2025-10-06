@@ -5,8 +5,8 @@
 "title": "Convertir XLSB en PDF"
 "url": "/fr/net/converting-file-types-to-pdf/convert-xlsb-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Convertir XLSB en PDF
 
 ## Introduction

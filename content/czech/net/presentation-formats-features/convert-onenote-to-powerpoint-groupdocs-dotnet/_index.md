@@ -4,8 +4,8 @@
 "title": "Podrobný návod k převodu OneNotu do PowerPointu pomocí nástroje GroupDocs.Conversion pro .NET"
 "url": "/cs/net/presentation-formats-features/convert-onenote-to-powerpoint-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod OneNote do PowerPointu pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

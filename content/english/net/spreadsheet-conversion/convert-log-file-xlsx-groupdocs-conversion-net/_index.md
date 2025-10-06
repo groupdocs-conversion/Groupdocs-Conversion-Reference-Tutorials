@@ -8,10 +8,8 @@ keywords:
 - Convert LOG File to XLSX
 - GroupDocs.Conversion for .NET
 - LOG to Excel conversion
-
+type: docs
 ---
-
-
 # Convert LOG Files to XLSX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

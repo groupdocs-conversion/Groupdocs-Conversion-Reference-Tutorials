@@ -5,8 +5,8 @@
 "title": "將 JPC 轉換為 PDF"
 "url": "/zh-hant/net/document-conversion/convert-jpc-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # 將 JPC 轉換為 PDF
 
 ## 介紹

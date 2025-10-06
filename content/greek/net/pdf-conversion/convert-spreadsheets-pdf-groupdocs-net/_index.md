@@ -4,8 +4,8 @@
 "title": "Μετατρέψτε υπολογιστικά φύλλα σε PDF απρόσκοπτα χρησιμοποιώντας το GroupDocs.Conversion σε .NET"
 "url": "/el/net/pdf-conversion/convert-spreadsheets-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατρέψτε υπολογιστικά φύλλα σε PDF απρόσκοπτα χρησιμοποιώντας το GroupDocs.Conversion σε .NET
 
 ## Εισαγωγή

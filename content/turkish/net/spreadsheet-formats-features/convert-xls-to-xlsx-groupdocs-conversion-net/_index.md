@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak XLS'nin XLSX'e Dönüştürülmesi"
 "url": "/tr/net/spreadsheet-formats-features/convert-xls-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak XLS'nin XLSX'e Dönüştürülmesi
 
 ## giriiş

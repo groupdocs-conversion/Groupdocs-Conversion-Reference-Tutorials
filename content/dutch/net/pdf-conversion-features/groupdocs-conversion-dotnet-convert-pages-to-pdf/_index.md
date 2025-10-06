@@ -4,8 +4,8 @@
 "title": "Converteer specifieke pagina's naar PDF met GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/pdf-conversion-features/groupdocs-conversion-dotnet-convert-pages-to-pdf/"
 "weight": 1
+type: docs
 ---
-
 # Specifieke pagina's naar PDF converteren met GroupDocs.Conversion voor .NET: een uitgebreide handleiding
 
 ## Invoering

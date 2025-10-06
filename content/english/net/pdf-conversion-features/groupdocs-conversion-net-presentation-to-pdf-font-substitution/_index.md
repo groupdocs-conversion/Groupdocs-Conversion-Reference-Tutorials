@@ -8,10 +8,8 @@ keywords:
 - convert PowerPoint to PDF with font substitution
 - GroupDocs.Conversion for .NET setup
 - presentation file conversion in .NET
-
+type: docs
 ---
-
-
 # Convert PowerPoint to PDF with Font Substitution in .NET using GroupDocs.Conversion
 
 ## Introduction

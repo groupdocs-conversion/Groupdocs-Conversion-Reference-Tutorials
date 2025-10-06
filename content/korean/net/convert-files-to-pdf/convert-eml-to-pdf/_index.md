@@ -5,8 +5,8 @@
 "title": "EML 이메일 메시지를 PDF로 변환"
 "url": "/ko/net/convert-files-to-pdf/convert-eml-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # EML 이메일 메시지를 PDF로 변환
 
 ## 소개

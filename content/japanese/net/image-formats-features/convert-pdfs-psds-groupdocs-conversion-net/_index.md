@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET ライブラリを使用した効率的な PDF から PSD への変換"
 "url": "/ja/net/image-formats-features/convert-pdfs-psds-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET による効率的な PDF から PSD への変換
 
 ## 導入

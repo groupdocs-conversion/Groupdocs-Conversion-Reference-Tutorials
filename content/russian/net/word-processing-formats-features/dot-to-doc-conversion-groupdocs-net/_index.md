@@ -4,8 +4,8 @@
 "title": "Конвертируйте DOT в DOC с помощью GroupDocs.Conversion для .NET&#58; Подробное руководство"
 "url": "/ru/net/word-processing-formats-features/dot-to-doc-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертация DOT в DOC с помощью GroupDocs.Conversion для .NET: подробное руководство
 ## Введение
 Преобразование сложных файлов диаграмм из формата DOT в редактируемые документы Word может оказаться сложной задачей без соответствующих инструментов. **GroupDocs.Конверсия** для .NET упрощает преобразование документов в различные форматы.

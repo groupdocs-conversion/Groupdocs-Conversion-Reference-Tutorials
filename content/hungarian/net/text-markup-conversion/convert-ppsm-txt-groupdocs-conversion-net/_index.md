@@ -4,8 +4,8 @@
 "title": "PPSM konvertálása TXT-vé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/text-markup-conversion/convert-ppsm-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PPSM konvertálása TXT-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

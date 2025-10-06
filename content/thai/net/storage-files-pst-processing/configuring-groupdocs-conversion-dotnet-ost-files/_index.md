@@ -4,8 +4,8 @@
 "title": "วิธีการกำหนดค่า GroupDocs.Conversion .NET สำหรับไฟล์ OST - คู่มือฉบับสมบูรณ์"
 "url": "/th/net/storage-files-pst-processing/configuring-groupdocs-conversion-dotnet-ost-files/"
 "weight": 1
+type: docs
 ---
-
 # บทช่วยสอนที่ครอบคลุม: การกำหนดค่า GroupDocs.Conversion .NET สำหรับการจัดการไฟล์ OST
 
 ## การแนะนำ

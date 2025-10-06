@@ -5,8 +5,8 @@
 "title": "Μετατροπή αρχείων προτύπου DWT CAD σε PDF"
 "url": "/el/net/convert-files-to-pdf/convert-dwt-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Μετατροπή αρχείων προτύπου DWT CAD σε PDF
 
 ## Εισαγωγή

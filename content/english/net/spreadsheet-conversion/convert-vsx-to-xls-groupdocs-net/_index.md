@@ -8,10 +8,8 @@ keywords:
 - VSX to XLS conversion in .NET
 - GroupDocs.Conversion for .NET tutorial
 - file conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Efficient VSX to XLS Conversion in .NET Using GroupDocs.Conversion
 
 ## Introduction

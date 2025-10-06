@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 JPX를 DOC로 변환하기&#58; 완벽한 가이드"
 "url": "/ko/net/word-processing-conversion/convert-jpx-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 JPX를 DOC로 변환: 완벽한 가이드
 
 ## 소개

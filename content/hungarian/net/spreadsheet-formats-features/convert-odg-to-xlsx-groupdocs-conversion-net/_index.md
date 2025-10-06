@@ -4,8 +4,8 @@
 "title": "ODG fájlok egyszerű konvertálása XLSX fájlokká a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/spreadsheet-formats-features/convert-odg-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # ODG fájlok egyszerű konvertálása XLSX fájlokká a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

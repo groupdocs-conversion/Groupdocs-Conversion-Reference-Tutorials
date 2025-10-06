@@ -4,8 +4,8 @@
 "title": ".NET'#58; के लिए GroupDocs.Conversion का उपयोग करके OTG फ़ाइलें लोड करें और कनवर्ट करें एक डेवलपर गाइड"
 "url": "/hi/net/loading-from-local-sources/load-otg-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके OTG फ़ाइलें लोड करें और कनवर्ट करें: एक डेवलपर की मार्गदर्शिका
 
 ## परिचय

@@ -8,10 +8,8 @@ keywords:
 - CSV to TXT conversion
 - GroupDocs.Conversion for .NET
 - data processing
-
+type: docs
 ---
-
-
 # Efficient CSV to TXT Conversion Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

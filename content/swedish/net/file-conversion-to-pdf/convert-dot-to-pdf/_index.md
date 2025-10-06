@@ -5,8 +5,8 @@
 "title": "Konvertera DOT Word-mallar till PDF"
 "url": "/sv/net/file-conversion-to-pdf/convert-dot-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # Konvertera DOT Word-mallar till PDF
 
 ## Introduktion

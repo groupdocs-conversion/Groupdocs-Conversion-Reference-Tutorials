@@ -3,8 +3,8 @@
 "title": "Tutoriales de operaciones de conversión de documentos con GroupDocs.Conversion para Java"
 "url": "/es/java/document-operations/"
 "weight": 2
+type: docs
 ---
-
 # Tutoriales de operaciones de conversión de documentos con GroupDocs.Conversion para Java
 
 Nuestros tutoriales de operaciones con documentos ofrecen una guía completa para convertir documentos entre diferentes formatos en Java. Siga estas guías paso a paso para aprender a convertir documentos a y desde formatos populares como PDF, DOCX, XLSX, PPTX, HTML y más. Estos tutoriales prácticos incluyen ejemplos de código completos para diversos escenarios de conversión, lo que le ayudará a desarrollar sólidas capacidades de conversión de documentos en sus aplicaciones Java.

@@ -4,8 +4,8 @@
 "title": "Converteer VSTM naar DOCX in .NET met GroupDocs.Conversion"
 "url": "/nl/net/word-processing-conversion/convert-vstm-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converteer VSTM-bestanden naar DOCX met GroupDocs.Conversion voor .NET
 
 ## Invoering

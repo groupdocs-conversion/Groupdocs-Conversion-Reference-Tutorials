@@ -4,8 +4,8 @@
 "title": "Konversi Gambar Web Visio ke PowerPoint secara Efisien Menggunakan GroupDocs untuk Pengembang .NET"
 "url": "/id/net/presentation-formats-features/convert-vdw-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi Efisien Gambar Web Visio (VDW) ke Presentasi PowerPoint Menggunakan GroupDocs untuk Pengembang .NET
 
 ## Perkenalan

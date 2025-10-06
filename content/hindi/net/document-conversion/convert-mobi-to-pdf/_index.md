@@ -5,8 +5,8 @@
 "title": "MOBI को PDF में बदलें"
 "url": "/hi/net/document-conversion/convert-mobi-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # MOBI को PDF में बदलें
 
 ## परिचय

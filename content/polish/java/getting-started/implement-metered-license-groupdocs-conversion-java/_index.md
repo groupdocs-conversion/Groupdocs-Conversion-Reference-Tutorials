@@ -4,8 +4,8 @@
 "title": "Wdrażanie licencji licznikowej dla GroupDocs.Conversion w Javie — kompleksowy przewodnik"
 "url": "/pl/java/getting-started/implement-metered-license-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Wdrażanie licencji licznikowej dla GroupDocs.Conversion w Javie
 
 ## Wstęp

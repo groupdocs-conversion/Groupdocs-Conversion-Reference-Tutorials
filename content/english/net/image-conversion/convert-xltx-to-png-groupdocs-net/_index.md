@@ -8,10 +8,8 @@ keywords:
 - convert XLTX to PNG
 - GroupDocs.Conversion for .NET
 - .NET file conversion
-
+type: docs
 ---
-
-
 # Convert XLTX to PNG in .NET Using GroupDocs.Conversion: A Complete Guide
 
 ## Introduction

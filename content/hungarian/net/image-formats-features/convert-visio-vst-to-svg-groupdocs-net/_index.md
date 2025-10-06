@@ -4,8 +4,8 @@
 "title": "Visio rajzsablonok (.vst) SVG formátumba konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-formats-features/convert-visio-vst-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Visio rajzsablonok (.vst) SVG formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

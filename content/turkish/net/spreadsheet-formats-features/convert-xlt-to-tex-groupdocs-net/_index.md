@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET ile XLT'yi TEX'e Verimli Şekilde Dönüştürün&#58; Eksiksiz Bir Kılavuz"
 "url": "/tr/net/spreadsheet-formats-features/convert-xlt-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak XLT'yi TEX'e Verimli Şekilde Dönüştürün
 
 ## giriiş

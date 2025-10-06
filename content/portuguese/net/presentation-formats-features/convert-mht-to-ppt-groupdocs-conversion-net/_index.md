@@ -4,8 +4,8 @@
 "title": "Como converter arquivos MHT para PPT com GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/presentation-formats-features/convert-mht-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter arquivos MHT para PPT com GroupDocs.Conversion para .NET
 
 ## Introdução

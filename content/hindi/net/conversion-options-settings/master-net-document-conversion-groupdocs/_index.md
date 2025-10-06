@@ -4,8 +4,8 @@
 "title": ".NET दस्तावेज़ रूपांतरण महारत&#58; निर्बाध पीडीएफ रूपांतरण के लिए GroupDocs का उपयोग करें"
 "url": "/hi/net/conversion-options-settings/master-net-document-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion के साथ .NET में दस्तावेज़ रूपांतरण में महारत हासिल करना
 
 ## परिचय

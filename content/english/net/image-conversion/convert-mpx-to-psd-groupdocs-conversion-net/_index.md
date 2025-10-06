@@ -8,10 +8,8 @@ keywords:
 - convert MPX to PSD
 - GroupDocs.Conversion for .NET
 - GIS and design file conversion
-
+type: docs
 ---
-
-
 # Comprehensive Guide: Convert MPX to PSD Using GroupDocs.Conversion for .NET
 
 ## Introduction

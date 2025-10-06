@@ -4,8 +4,8 @@
 "title": "Konversi Excel ke PDF menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/pdf-conversion/convert-excel-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Mengonversi Lembar Kerja Excel ke PDF Menggunakan GroupDocs.Conversion for .NET
 
 ## Perkenalan

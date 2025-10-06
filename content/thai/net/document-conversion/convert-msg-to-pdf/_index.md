@@ -5,8 +5,8 @@
 "title": "แปลง MSG เป็น PDF"
 "url": "/th/net/document-conversion/convert-msg-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # แปลง MSG เป็น PDF
 
 ## การแนะนำ

@@ -4,8 +4,8 @@
 "title": "Comment convertir des fichiers VDX en HTML à l'aide de GroupDocs.Conversion pour .NET ? Guide étape par étape"
 "url": "/fr/net/web-markup-formats/convert-vdx-to-html-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir des fichiers VDX en HTML avec GroupDocs.Conversion pour .NET
 
 ## Introduction

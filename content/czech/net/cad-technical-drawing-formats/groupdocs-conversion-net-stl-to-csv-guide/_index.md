@@ -4,8 +4,8 @@
 "title": "Jak převést soubory STL do CSV pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/cad-technical-drawing-formats/groupdocs-conversion-net-stl-to-csv-guide/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory STL do CSV pomocí GroupDocs.Conversion pro .NET: Komplexní průvodce
 
 ## Zavedení

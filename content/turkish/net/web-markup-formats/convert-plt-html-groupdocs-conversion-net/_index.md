@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion'ı Kullanarak PLT'yi HTML'ye Dönüştürme | Adım Adım Kılavuz"
 "url": "/tr/net/web-markup-formats/convert-plt-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanarak PLT Dosyalarını HTML'ye Dönüştürme
 
 ## giriiş

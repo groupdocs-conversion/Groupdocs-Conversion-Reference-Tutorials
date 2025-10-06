@@ -4,8 +4,8 @@
 "title": "Jak převést soubory Visia do Photoshopu pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/image-conversion/convert-visio-to-photoshop-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory Visia do Photoshopu pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

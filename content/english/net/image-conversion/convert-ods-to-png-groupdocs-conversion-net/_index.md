@@ -8,10 +8,8 @@ keywords:
 - Convert ODS to PNG
 - GroupDocs.Conversion .NET
 - File Conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Comprehensive Guide: Convert ODS to PNG Using GroupDocs.Conversion for .NET
 
 ## Introduction

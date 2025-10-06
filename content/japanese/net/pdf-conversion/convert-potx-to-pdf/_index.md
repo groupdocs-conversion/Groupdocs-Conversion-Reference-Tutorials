@@ -5,8 +5,8 @@
 "title": "POTXをPDFに変換する"
 "url": "/ja/net/pdf-conversion/convert-potx-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # POTXをPDFに変換する
 
 ## 導入

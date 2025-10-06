@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 文字处理转换教程"
 "url": "/zh/net/word-processing-conversion/"
 "weight": 29
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 文字处理转换教程
 
 通过我们全面的 GroupDocs.Conversion .NET 教程，了解如何将文档转换为可编辑的文字处理格式。这些详细的指南涵盖了如何将 PDF、Excel、PowerPoint、图像、HTML 和其他格式转换为 DOC、DOCX、RTF、ODT 等格式。学习如何在转换过程中保留文档结构、处理嵌入对象、维护样式和格式，以及如何管理文本流和分页。每个教程都提供了实用的 C# 代码示例，用于创建文字处理文档，在保留源内容保真度的同时，支持编辑和修改。

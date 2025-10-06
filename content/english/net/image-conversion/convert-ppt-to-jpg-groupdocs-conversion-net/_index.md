@@ -8,10 +8,8 @@ keywords:
 - convert PPT to JPG
 - GroupDocs.Conversion for .NET
 - PowerPoint to JPG conversion
-
+type: docs
 ---
-
-
 # Convert PPT to JPG Using GroupDocs.Conversion for .NET: Step-by-Step Guide
 
 ## Introduction

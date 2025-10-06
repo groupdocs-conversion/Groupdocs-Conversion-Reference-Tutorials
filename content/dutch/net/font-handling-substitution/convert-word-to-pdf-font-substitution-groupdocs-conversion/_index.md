@@ -4,8 +4,8 @@
 "title": "Converteer Word naar PDF met lettertypevervanging met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/font-handling-substitution/convert-word-to-pdf-font-substitution-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Converteer Word-documenten naar PDF met lettertypevervanging met GroupDocs.Conversion voor .NET
 ## Invoering
 Het converteren van Word-documenten naar PDF leidt vaak tot inconsistente lettertypen, wat resulteert in opmaakproblemen. Deze handleiding vereenvoudigt het waarborgen van lettertypeconsistentie met GroupDocs.Conversion voor .NET. Leer hoe u laadopties voor lettertypevervanging instelt en uw Word-documenten naadloos converteert naar PDF-formaat, met behoud van visuele getrouwheid.

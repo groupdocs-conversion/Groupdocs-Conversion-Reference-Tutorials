@@ -4,8 +4,8 @@
 "title": "Converteer MPP naar PPTX met GroupDocs.Conversion voor .NET&#58; stapsgewijze handleiding"
 "url": "/nl/net/presentation-formats-features/convert-mpp-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer MPP naar PPTX met GroupDocs.Conversion voor .NET: Stapsgewijze handleiding
 
 ## Invoering

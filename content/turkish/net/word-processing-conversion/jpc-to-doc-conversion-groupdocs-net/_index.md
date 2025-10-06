@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion'ı Kullanarak .NET'te JPC'yi DOC Dosyalarına Sorunsuz Bir Şekilde Dönüştürün"
 "url": "/tr/net/word-processing-conversion/jpc-to-doc-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion'ı Kullanarak .NET'te JPC'yi DOC Dosyalarına Sorunsuz Bir Şekilde Dönüştürün
 
 ## giriiş

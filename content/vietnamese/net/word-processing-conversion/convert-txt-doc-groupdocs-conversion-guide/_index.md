@@ -4,8 +4,8 @@
 "title": "Hướng dẫn cuối cùng&#58; Chuyển đổi TXT sang DOC bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/word-processing-conversion/convert-txt-doc-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Hướng dẫn đầy đủ: Chuyển đổi TXT sang DOC bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

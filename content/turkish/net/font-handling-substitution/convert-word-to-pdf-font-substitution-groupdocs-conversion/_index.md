@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion'ı Kullanarak Yazı Tipi Değiştirme ile Word'ü PDF'ye Dönüştürme"
 "url": "/tr/net/font-handling-substitution/convert-word-to-pdf-font-substitution-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak Yazı Tipi Değiştirme ile Word Belgelerini PDF'ye Dönüştürün
 ## giriiş
 Word belgelerini PDF'lere dönüştürmek genellikle tutarsız yazı tiplerine yol açar ve bu da biçimlendirme sorunlarına neden olur. Bu kılavuz, .NET için GroupDocs.Conversion kullanarak yazı tipi tutarlılığını sağlamayı basitleştirir. Yazı tipi değiştirme için yükleme seçeneklerini nasıl ayarlayacağınızı ve Word belgelerinizi görsel sadakati korurken sorunsuz bir şekilde PDF formatına nasıl dönüştüreceğinizi öğrenin.

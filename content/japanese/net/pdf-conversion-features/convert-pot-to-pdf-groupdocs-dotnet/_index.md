@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して PowerPoint テンプレート (.pot) を PDF に変換する"
 "url": "/ja/net/pdf-conversion-features/convert-pot-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して PowerPoint テンプレート (.pot) ファイルを PDF に変換する方法
 
 ## 導入

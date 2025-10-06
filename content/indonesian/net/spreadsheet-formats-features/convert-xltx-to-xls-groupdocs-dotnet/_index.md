@@ -4,8 +4,8 @@
 "title": "Konversi XLTX ke XLS Menggunakan GroupDocs untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/spreadsheet-formats-features/convert-xltx-to-xls-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konversi XLTX ke XLS Menggunakan GroupDocs untuk .NET: Panduan Lengkap
 
 ## Perkenalan

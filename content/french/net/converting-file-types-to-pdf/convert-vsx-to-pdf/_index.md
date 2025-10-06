@@ -5,8 +5,8 @@
 "title": "Convertir VSX en PDF"
 "url": "/fr/net/converting-file-types-to-pdf/convert-vsx-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # Convertir VSX en PDF
 
 ## Introduction

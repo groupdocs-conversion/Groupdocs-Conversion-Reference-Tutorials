@@ -4,8 +4,8 @@
 "title": "Efektivní převod DOT do SVG pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/image-formats-features/convert-dot-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory DOT do SVG pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

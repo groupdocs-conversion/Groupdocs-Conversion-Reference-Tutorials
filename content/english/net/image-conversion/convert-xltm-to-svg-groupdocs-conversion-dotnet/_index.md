@@ -8,10 +8,8 @@ keywords:
 - convert XLTMs to SVG
 - GroupDocs.Conversion for .NET
 - file conversion tutorial
-
+type: docs
 ---
-
-
 # How to Convert XLTMs to SVG Using GroupDocs.Conversion for .NET
 
 ## Introduction

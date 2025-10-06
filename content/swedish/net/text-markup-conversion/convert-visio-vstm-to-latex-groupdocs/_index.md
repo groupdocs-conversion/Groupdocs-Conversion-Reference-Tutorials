@@ -4,8 +4,8 @@
 "title": "Konvertera Visio VSTM till LaTeX med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/text-markup-conversion/convert-visio-vstm-to-latex-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera Visio-makroaktiverad ritmall (.vstm) till LaTeX-källdokument (.tex) med GroupDocs.Conversion för .NET
 
 ## Introduktion

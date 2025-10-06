@@ -4,8 +4,8 @@
 "title": "DOT fájlok konvertálása JPG formátumba .NET-ben a GroupDocs.Conversion használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-dot-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DOT fájlok konvertálása JPG formátumba .NET-ben a GroupDocs.Conversion használatával: lépésről lépésre útmutató
 ## Bevezetés
 Nehezen tud dokumentumokat konvertálni .NET alkalmazásaiban? Ha gyakori feladat a Microsoft Word dokumentumsablonok (.dot) képekké konvertálása, akkor ez az oktatóanyag Önnek szól. A következőket fogjuk használni: **GroupDocs.Conversion .NET-hez**, egy hatékony könyvtár, amely leegyszerűsíti a fájlkonvertálási feladatokat.

@@ -5,8 +5,8 @@
 "title": "XLTX'i PDF'ye dönüştür"
 "url": "/tr/net/converting-file-types-to-pdf/convert-xltx-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # XLTX'i PDF'ye dönüştür
 
 ## giriiş

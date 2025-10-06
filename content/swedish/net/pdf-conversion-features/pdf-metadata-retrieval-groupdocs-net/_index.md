@@ -4,8 +4,8 @@
 "title": "Hur man hämtar PDF-metadata med GroupDocs.Conversion för .NET"
 "url": "/sv/net/pdf-conversion-features/pdf-metadata-retrieval-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hur man hämtar PDF-metadata med GroupDocs.Conversion för .NET
 
 Trött på att manuellt extrahera information från PDF-dokument? Automatisera uppgiften med GroupDocs.Conversion för .NET och hämta viktiga detaljer som författarskap, skapandedatum, sidantal, dimensioner och mer.

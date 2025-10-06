@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して PPTM を JPG に変換する手順ガイド"
 "url": "/ja/net/image-conversion/convert-pptm-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して PPTM を JPG に変換する: ステップバイステップガイド
 
 ## 導入

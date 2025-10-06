@@ -4,8 +4,8 @@
 "title": "Efektivní převod PST do dokumentů Word pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/word-processing-conversion/convert-pst-to-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod souborů PST do dokumentů Wordu pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

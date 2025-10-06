@@ -8,10 +8,8 @@ keywords:
 - BMP to HTML Conversion
 - GroupDocs.Conversion for .NET
 - .NET Document Conversion
-
+type: docs
 ---
-
-
 # Comprehensive Guide: Convert BMP to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

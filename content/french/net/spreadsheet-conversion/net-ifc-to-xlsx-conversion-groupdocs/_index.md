@@ -4,8 +4,8 @@
 "title": "Maîtrisez la conversion .NET IFC vers XLSX avec GroupDocs.Conversion - Un guide complet"
 "url": "/fr/net/spreadsheet-conversion/net-ifc-to-xlsx-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Maîtriser la conversion .NET IFC vers XLSX avec GroupDocs.Conversion : un guide complet
 
 ## Introduction

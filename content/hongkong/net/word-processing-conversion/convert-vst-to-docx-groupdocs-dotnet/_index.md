@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中將 VST 轉換為 DOCX — 逐步指南"
 "url": "/zh-hant/net/word-processing-conversion/convert-vst-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 .NET 中將 VST 轉換為 DOCX：逐步指南
 
 ## 介紹

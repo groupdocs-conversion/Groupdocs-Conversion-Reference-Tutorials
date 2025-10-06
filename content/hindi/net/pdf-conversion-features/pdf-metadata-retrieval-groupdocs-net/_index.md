@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion के साथ PDF मेटाडेटा कैसे प्राप्त करें"
 "url": "/hi/net/pdf-conversion-features/pdf-metadata-retrieval-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion के साथ PDF मेटाडेटा कैसे प्राप्त करें
 
 PDF दस्तावेज़ों से मैन्युअल रूप से जानकारी निकालने से थक गए हैं? .NET के लिए GroupDocs.Conversion के साथ कार्य को स्वचालित करें और लेखकत्व, निर्माण तिथियां, पृष्ठ गणना, आयाम और अधिक जैसे महत्वपूर्ण विवरण प्राप्त करें।

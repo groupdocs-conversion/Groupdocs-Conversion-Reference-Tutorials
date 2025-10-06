@@ -4,8 +4,8 @@
 "title": "แปลงข้อความ Apple Mail เป็น SVG ด้วย GroupDocs การแปลงสำหรับ .NET คำแนะนำที่ครอบคลุม"
 "url": "/th/net/image-conversion/convert-apple-mail-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลงข้อความ Apple Mail เป็น SVG ด้วย GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

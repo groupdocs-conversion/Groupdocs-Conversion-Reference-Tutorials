@@ -4,8 +4,8 @@
 "title": "Imposta la licenza dal flusso in GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/getting-started-licensing/groupdocs-conversion-net-set-license-stream/"
 "weight": 1
+type: docs
 ---
-
 # Imposta la licenza dal flusso in GroupDocs.Conversion per .NET: una guida completa
 
 ## Introduzione

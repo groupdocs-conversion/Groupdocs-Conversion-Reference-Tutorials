@@ -4,8 +4,8 @@
 "title": "Comment convertir un fichier JPX en PPTX avec GroupDocs.Conversion pour .NET | Guide de conversion de présentation"
 "url": "/fr/net/presentation-conversion/convert-jpx-to-pptx-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir des fichiers JPX au format PPTX avec GroupDocs.Conversion pour .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Převod JPEG 2000 (.j2c) do HTML pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/html-conversion/convert-jpeg-2000-to-html-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Převod obrázků JPEG 2000 do HTML pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

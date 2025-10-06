@@ -4,8 +4,8 @@
 "title": "XLSX fájlok PPTX formátumba konvertálása a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/presentation-conversion/convert-xlsx-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # XLSX fájlok PPTX formátumba konvertálása a .NET-hez készült GroupDocs.Conversion segítségével
 
 ## Bevezetés

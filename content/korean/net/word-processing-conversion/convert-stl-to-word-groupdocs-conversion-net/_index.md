@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 STL을 Word로 변환하는 단계별 가이드"
 "url": "/ko/net/word-processing-conversion/convert-stl-to-word-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 STL을 Word로 변환: 단계별 가이드
 ## 소개
 3D 모델링 분야에서는 STL(광조형) 파일이 필수적입니다. 하지만 Microsoft Word(DOC)처럼 보편적으로 접근 가능한 형식으로 이러한 파일을 사용해야 하는 상황이 발생할 수 있습니다. 이러한 변환 기능은 특히 보고 목적이나 협업 간소화에 유용합니다. GroupDocs.Conversion for .NET은 쉽고 효율적인 변환 기능을 제공합니다.

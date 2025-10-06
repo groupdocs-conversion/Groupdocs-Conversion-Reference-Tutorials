@@ -4,8 +4,8 @@
 "title": "Padroneggia la conversione degli allegati di posta elettronica .NET con la libreria GroupDocs.Conversion&#58; una guida completa"
 "url": "/it/net/email-formats-features/net-email-attachment-conversion-groupdocs-guide/"
 "weight": 1
+type: docs
 ---
-
 # Conversione degli allegati di posta elettronica .NET con la libreria GroupDocs.Conversion
 
 ## Introduzione

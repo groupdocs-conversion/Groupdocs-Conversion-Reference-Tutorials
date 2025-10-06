@@ -4,8 +4,8 @@
 "title": "Jak převést soubory XPS do HTML pomocí GroupDocs.Conversion pro .NET – kompletní průvodce"
 "url": "/cs/net/web-markup-formats/convert-xps-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory XPS do HTML pomocí GroupDocs.Conversion pro .NET: Kompletní průvodce
 
 ## Zavedení

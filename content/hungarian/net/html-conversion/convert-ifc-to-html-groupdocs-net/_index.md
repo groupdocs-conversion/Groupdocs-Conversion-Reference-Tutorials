@@ -4,8 +4,8 @@
 "title": "IFC konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/html-conversion/convert-ifc-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # IFC fájlok konvertálása HTML-be a GroupDocs.NET segítségével
 
 ## IFC fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával

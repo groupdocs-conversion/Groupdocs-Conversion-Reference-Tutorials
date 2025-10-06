@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi tệp ICO sang PowerPoint bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/presentation-conversion/convert-ico-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp ICO sang bản trình bày PowerPoint bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

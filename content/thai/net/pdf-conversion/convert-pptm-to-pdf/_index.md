@@ -5,8 +5,8 @@
 "title": "แปลง PPTM เป็น PDF"
 "url": "/th/net/pdf-conversion/convert-pptm-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # แปลง PPTM เป็น PDF
 
 ## การแนะนำ

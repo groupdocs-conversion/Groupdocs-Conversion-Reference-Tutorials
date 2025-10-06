@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion का उपयोग करके .NET में PDF to MHT को कैसे परिवर्तित करें"
 "url": "/hi/net/pdf-conversion/convert-mht-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion का उपयोग करके .NET में PDF फ़ाइलों को MHT कैसे परिवर्तित करें
 
 ## परिचय

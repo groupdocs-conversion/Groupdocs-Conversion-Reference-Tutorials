@@ -5,8 +5,8 @@
 "title": "ODT को PDF में बदलें"
 "url": "/hi/net/pdf-conversion/convert-odt-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # ODT को PDF में बदलें
 
 ## परिचय

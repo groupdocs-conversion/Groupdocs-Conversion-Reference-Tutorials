@@ -4,8 +4,8 @@
 "title": "Hogyan konvertáljunk AI fájlokat JPEG formátumba a GroupDocs.Conversion for .NET segítségével - Képkonverziós útmutató"
 "url": "/hu/net/image-conversion/convert-ai-to-jpeg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhatunk AI-fájlokat JPEG formátumba a GroupDocs.Conversion for .NET használatával?
 
 ## Bevezetés

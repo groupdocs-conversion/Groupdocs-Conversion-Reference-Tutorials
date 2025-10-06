@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion'ı Kullanarak Word Belgelerini PowerPoint PPTX'e Dönüştürün"
 "url": "/tr/net/presentation-formats-features/convert-word-docs-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak Word Belgelerini PowerPoint PPTX'e Dönüştürme
 
 ## giriiş

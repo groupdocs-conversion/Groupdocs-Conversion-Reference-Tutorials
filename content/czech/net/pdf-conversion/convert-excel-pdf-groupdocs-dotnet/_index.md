@@ -4,8 +4,8 @@
 "title": "Převod Excelu do PDF pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/pdf-conversion/convert-excel-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod tabulky Excelu do PDF pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

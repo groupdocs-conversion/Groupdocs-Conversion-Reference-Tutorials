@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak DNG'yi HTML'ye Verimli Şekilde Dönüştürün"
 "url": "/tr/net/web-markup-formats/convert-dng-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak DNG'yi HTML'ye Verimli Şekilde Dönüştürün
 
 ## giriiş

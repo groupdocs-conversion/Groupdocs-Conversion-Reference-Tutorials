@@ -5,8 +5,8 @@
 "title": "Converter OTS para PDF"
 "url": "/pt/net/pdf-conversion/convert-ots-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # Converter OTS para PDF
 
 ## Introdução

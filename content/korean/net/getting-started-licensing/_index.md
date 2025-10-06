@@ -3,8 +3,8 @@
 "title": ".NET 개발자를 위한 GroupDocs.Conversion 시작 및 라이선스 자습서"
 "url": "/ko/net/getting-started-licensing/"
 "weight": 1
+type: docs
 ---
-
 # .NET 개발자를 위한 GroupDocs.Conversion 시작 및 라이선스 자습서
 
 설치, 라이선스 구성, 그리고 .NET에서 첫 번째 문서 변환을 수행하는 방법을 안내하는 필수 GroupDocs.Conversion 튜토리얼로 여정을 시작하세요. 초보자를 위한 가이드는 개발 환경 설정, GroupDocs.Conversion 라이브러리 초기화, 파일 또는 스트림에서 라이선스 구성, 계량형 라이선스 설정, 그리고 표준 및 Fluent API를 사용하여 기본 변환 작업 구현 방법을 보여줍니다. 이 튜토리얼을 따라 .NET 애플리케이션에서 기본 사항을 빠르게 익히고 고급 문서 변환 작업을 준비하세요.

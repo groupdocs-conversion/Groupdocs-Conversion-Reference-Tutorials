@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して OXPS を PPT に変換する方法 - ステップバイステップガイド"
 "url": "/ja/net/presentation-formats-features/convert-oxps-ppt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して OXPS を PPT に変換する方法: ステップバイステップガイド
 
 ## 導入

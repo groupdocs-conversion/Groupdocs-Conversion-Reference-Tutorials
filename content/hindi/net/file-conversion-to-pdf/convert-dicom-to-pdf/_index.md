@@ -5,8 +5,8 @@
 "title": "DICOM मेडिकल छवियों को PDF में बदलें"
 "url": "/hi/net/file-conversion-to-pdf/convert-dicom-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # DICOM मेडिकल छवियों को PDF में बदलें
 
 ## परिचय

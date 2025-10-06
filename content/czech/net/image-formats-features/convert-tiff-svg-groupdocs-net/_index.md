@@ -4,8 +4,8 @@
 "title": "Snadný převod TIFF do SVG pomocí GroupDocs.Conversion pro .NET – kompletní průvodce"
 "url": "/cs/net/image-formats-features/convert-tiff-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod TIFF do SVG pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

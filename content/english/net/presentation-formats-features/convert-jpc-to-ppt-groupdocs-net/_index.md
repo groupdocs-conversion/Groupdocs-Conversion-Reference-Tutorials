@@ -8,10 +8,8 @@ keywords:
 - JPC to PPT conversion
 - GroupDocs.Conversion for .NET
 - PowerPoint presentation integration
-
+type: docs
 ---
-
-
 # How to Convert JPC to PPT Using GroupDocs.Conversion for .NET
 
 ## Introduction

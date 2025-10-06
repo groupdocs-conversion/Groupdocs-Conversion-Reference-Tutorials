@@ -8,10 +8,8 @@ keywords:
 - TXT to PDF conversion
 - GroupDocs.Conversion for .NET
 - .NET document conversion
-
+type: docs
 ---
-
-
 # Effortless TXT to PDF Conversion: Master GroupDocs.Conversion for .NET in Minutes
 
 ## Introduction

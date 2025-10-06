@@ -4,8 +4,8 @@
 "title": "OTT'yi PPTX'e Dönüştürme&#58; GroupDocs.Conversion for .NET'i Kullanarak Adım Adım Kılavuz"
 "url": "/tr/net/presentation-conversion/convert-ott-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # OTT'yi PPTX'e Dönüştürme: .NET için GroupDocs.Conversion'ı Kullanarak Adım Adım Kılavuz
 
 Günümüzün dijital çağında, sorunsuz dosya dönüştürme üretkenlik ve iş birliği için hayati önem taşır. İster belge iş akışlarını otomatikleştirmek isteyen bir geliştirici olun, ister verimli veri yönetimine ihtiyaç duyan bir kuruluş olun, OpenDocument Text (OTT) dosyalarını PowerPoint sunumlarına (PPTX) dönüştürmek paha biçilmez olabilir. Bu eğitim, .NET için GroupDocs.Conversion'ı kullanarak sizi süreçte yönlendirecektir.

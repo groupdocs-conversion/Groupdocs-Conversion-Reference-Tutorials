@@ -4,8 +4,8 @@
 "title": "XLSX konvertálása TeX-re a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-xlsx-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # XLSX konvertálása TeX-re a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

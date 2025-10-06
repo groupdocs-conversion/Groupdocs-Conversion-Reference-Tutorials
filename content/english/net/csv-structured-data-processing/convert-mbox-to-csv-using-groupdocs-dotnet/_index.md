@@ -8,10 +8,8 @@ keywords:
 - convert MBOX to CSV
 - GroupDocs.Conversion for .NET
 - MBOX file conversion
-
+type: docs
 ---
-
-
 # Convert MBOX to CSV Using GroupDocs.Conversion for .NET
 
 ## Introduction

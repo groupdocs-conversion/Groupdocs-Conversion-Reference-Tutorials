@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie PowerPoint-Vorlagen effizient in JPEG in .NET mit GroupDocs.Conversion"
 "url": "/de/net/image-conversion/convert-powerpoint-to-jpeg-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Effiziente Konvertierung von PowerPoint-Vorlagen in JPEG in .NET mit GroupDocs.Conversion
 
 ## Einführung

@@ -4,8 +4,8 @@
 "title": "Converteer Excel-sjabloonbestanden (XLTX) naar PDF met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/pdf-conversion/convert-xltx-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer Excel-sjabloonbestanden (XLTX) naar PDF met GroupDocs.Conversion voor .NET
 
 ## Invoering

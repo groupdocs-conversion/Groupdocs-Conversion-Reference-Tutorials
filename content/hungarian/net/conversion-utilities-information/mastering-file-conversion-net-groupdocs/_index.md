@@ -4,8 +4,8 @@
 "title": "Fájlkonvertálás elsajátítása .NET-ben a GroupDocs.Conversion használatával – Fejlesztői útmutató"
 "url": "/hu/net/conversion-utilities-information/mastering-file-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Fájlkonvertálás elsajátítása .NET-ben a GroupDocs.Conversion segítségével: A tökéletes fejlesztői útmutató
 
 ## Bevezetés

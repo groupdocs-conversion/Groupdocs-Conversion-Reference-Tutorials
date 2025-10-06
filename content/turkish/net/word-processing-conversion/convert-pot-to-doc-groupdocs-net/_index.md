@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak POT'u DOC'a Verimli Şekilde Dönüştürün Kapsamlı Bir Kılavuz"
 "url": "/tr/net/word-processing-conversion/convert-pot-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak POT'u DOC'a Verimli Şekilde Dönüştürün: Kapsamlı Bir Kılavuz
 
 ## giriiş

@@ -3,8 +3,8 @@
 "title": "PDF-konvertering och funktionshandledningar för GroupDocs.Conversion .NET"
 "url": "/sv/net/pdf-conversion-features/"
 "weight": 9
+type: docs
 ---
-
 # PDF-konvertering och funktionshandledningar för GroupDocs.Conversion .NET
 
 Våra PDF-fokuserade handledningar ger omfattande vägledning för att arbeta med PDF-dokument i .NET-applikationer. Dessa praktiska guider visar hur du konverterar olika format till PDF, konverterar PDF-filer till andra format, plattar ut formulärfält, döljer anteckningar, tar bort inbäddade filer, optimerar PDF-komprimeringsinställningar, kontrollerar PDF/A-efterlevnad, hanterar dokumentbehörigheter och bevarar hyperlänkar under konvertering. Varje handledning innehåller kompletta C#-kodexempel för PDF-konverteringsscenarier, vilket hjälper dig att bygga applikationer som utnyttjar PDF-formatets fulla kapacitet samtidigt som dokumentåtergivningen bibehålls.

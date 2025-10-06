@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用したキャッシュによる .NET ドキュメント変換の最適化"
 "url": "/ja/net/cache-management/optimize-net-document-conversion-caching-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion を使用したキャッシュによる .NET ドキュメント変換の最適化
 
 ## 導入

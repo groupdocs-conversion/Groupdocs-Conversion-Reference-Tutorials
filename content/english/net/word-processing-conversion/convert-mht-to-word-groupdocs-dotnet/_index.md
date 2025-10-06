@@ -8,10 +8,8 @@ keywords:
 - convert MHT to Word
 - GroupDocs.Conversion for .NET
 - MHT file conversion
-
+type: docs
 ---
-
-
 # How to Convert MHT Files to Word Documents Using GroupDocs.Conversion for .NET
 
 ## Introduction

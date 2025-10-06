@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi XLTM ke SVG Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Langkah demi Langkah"
 "url": "/id/net/image-conversion/convert-xltm-to-svg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi XLTM ke SVG Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

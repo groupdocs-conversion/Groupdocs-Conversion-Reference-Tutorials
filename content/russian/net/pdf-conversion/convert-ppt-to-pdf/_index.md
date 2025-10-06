@@ -5,8 +5,8 @@
 "title": "Конвертировать PPT в PDF"
 "url": "/ru/net/pdf-conversion/convert-ppt-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # Конвертировать PPT в PDF
 
 ## Введение

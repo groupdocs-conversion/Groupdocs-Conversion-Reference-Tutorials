@@ -4,8 +4,8 @@
 "title": "Convertire MHT in DOCX utilizzando GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/word-processing-formats-features/convert-mht-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire MHT in DOCX utilizzando GroupDocs.Conversion per .NET: una guida completa
 
 ## Introduzione

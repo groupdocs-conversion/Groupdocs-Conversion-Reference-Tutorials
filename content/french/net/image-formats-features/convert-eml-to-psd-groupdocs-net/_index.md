@@ -4,8 +4,8 @@
 "title": "Convertissez facilement des fichiers EML en PSD avec GroupDocs.Conversion pour .NET"
 "url": "/fr/net/image-formats-features/convert-eml-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des fichiers EML au format PSD à l'aide de GroupDocs.Conversion pour .NET
 
 ## Introduction

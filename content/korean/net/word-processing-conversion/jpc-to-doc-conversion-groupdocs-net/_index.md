@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion을 사용하여 .NET에서 JPC를 DOC 파일로 원활하게 변환"
 "url": "/ko/net/word-processing-conversion/jpc-to-doc-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용하여 .NET에서 JPC를 DOC 파일로 원활하게 변환
 
 ## 소개

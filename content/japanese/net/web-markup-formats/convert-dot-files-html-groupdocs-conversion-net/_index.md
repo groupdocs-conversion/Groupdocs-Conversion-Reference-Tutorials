@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して DOT を HTML に効率的に変換する"
 "url": "/ja/net/web-markup-formats/convert-dot-files-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して DOT を HTML に効率的に変換する
 
 ## 導入

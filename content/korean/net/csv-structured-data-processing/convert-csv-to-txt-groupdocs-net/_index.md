@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용한 효율적인 CSV-TXT 변환 - 단계별 가이드"
 "url": "/ko/net/csv-structured-data-processing/convert-csv-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET용 GroupDocs.Conversion을 사용한 효율적인 CSV-TXT 변환: 단계별 가이드
 
 ## 소개

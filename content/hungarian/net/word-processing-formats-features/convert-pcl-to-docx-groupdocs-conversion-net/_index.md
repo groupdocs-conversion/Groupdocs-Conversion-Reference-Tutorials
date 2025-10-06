@@ -4,8 +4,8 @@
 "title": "PCL fájlok DOCX formátumba konvertálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/word-processing-formats-features/convert-pcl-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PCL fájlok DOCX formátumba konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

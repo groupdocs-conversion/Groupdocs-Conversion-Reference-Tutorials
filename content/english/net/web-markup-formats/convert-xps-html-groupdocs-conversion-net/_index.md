@@ -8,10 +8,8 @@ keywords:
 - Convert XPS to HTML
 - GroupDocs.Conversion for .NET
 - XPS to HTML conversion
-
+type: docs
 ---
-
-
 # How to Convert XPS Files to HTML Using GroupDocs.Conversion for .NET: A Complete Guide
 
 ## Introduction

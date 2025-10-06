@@ -5,8 +5,8 @@
 "title": "Tutoriais abrangentes do GroupDocs.Conversion para .NET"
 "url": "/pt/net/"
 "weight": 10
+type: docs
 ---
-
 # Tutoriais abrangentes do GroupDocs.Conversion para .NET
 
 

@@ -8,10 +8,8 @@ keywords:
 - JP2 to DOC conversion
 - GroupDocs.Conversion .NET
 - JPEG 2000 to Word document
-
+type: docs
 ---
-
-
 # How to Convert JP2 Files to DOC Using GroupDocs.Conversion .NET
 
 ## Introduction

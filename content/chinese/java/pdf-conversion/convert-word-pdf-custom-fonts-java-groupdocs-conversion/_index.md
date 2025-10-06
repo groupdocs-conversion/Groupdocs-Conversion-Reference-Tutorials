@@ -4,8 +4,8 @@
 "title": "使用 Java 中的自定义字体将 Word 转换为 PDF — 使用 GroupDocs.Conversion 的完整指南"
 "url": "/zh/java/pdf-conversion/convert-word-pdf-custom-fonts-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # 使用 Java 将 Word 文档转换为带有自定义字体的 PDF：使用 GroupDocs.Conversion 的完整指南
 
 ## 介绍

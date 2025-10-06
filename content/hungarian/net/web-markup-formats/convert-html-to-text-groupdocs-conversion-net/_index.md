@@ -4,8 +4,8 @@
 "title": "HTML szöveggé konvertálása a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/web-markup-formats/convert-html-to-text-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # HTML konvertálása szöveggé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

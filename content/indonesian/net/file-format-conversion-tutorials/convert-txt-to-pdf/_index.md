@@ -5,8 +5,8 @@
 "title": "Konversi TXT ke PDF"
 "url": "/id/net/file-format-conversion-tutorials/convert-txt-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Konversi TXT ke PDF
 
 ## Perkenalan

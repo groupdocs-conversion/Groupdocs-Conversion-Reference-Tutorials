@@ -4,8 +4,8 @@
 "title": "Konvertera effektivt VSS till SVG med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/image-conversion/convert-vss-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Effektivt konvertera VSS till SVG med GroupDocs.Conversion för .NET: En steg-för-steg-guide
 
 ## Introduktion

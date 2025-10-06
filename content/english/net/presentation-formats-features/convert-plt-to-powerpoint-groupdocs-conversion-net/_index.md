@@ -8,10 +8,8 @@ keywords:
 - Convert PLT to PowerPoint
 - GroupDocs.Conversion for .NET
 - PLT file conversion
-
+type: docs
 ---
-
-
 # How to Convert PLT Files to PowerPoint Using GroupDocs.Conversion for .NET
 
 ## Introduction

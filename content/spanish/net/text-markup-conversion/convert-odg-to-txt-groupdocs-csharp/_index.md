@@ -4,8 +4,8 @@
 "title": "Convertir ODG a TXT en C# con GroupDocs.Conversion para .NET&#58; una guía completa"
 "url": "/es/net/text-markup-conversion/convert-odg-to-txt-groupdocs-csharp/"
 "weight": 1
+type: docs
 ---
-
 # Convertir ODG a TXT en C# con GroupDocs.Conversion para .NET: una guía completa
 
 ## Introducción

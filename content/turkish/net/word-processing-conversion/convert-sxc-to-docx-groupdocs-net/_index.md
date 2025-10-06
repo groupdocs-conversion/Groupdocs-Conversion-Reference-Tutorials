@@ -4,8 +4,8 @@
 "title": ".NET'te Belge Dönüştürmede Ustalaşma&#58; GroupDocs.Conversion'ı Kullanarak SXC'yi DOCX'e Dönüştürme"
 "url": "/tr/net/word-processing-conversion/convert-sxc-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET'te Belge Dönüştürmede Ustalaşma: GroupDocs.Conversion Kullanarak SXC'yi DOCX'e Dönüştürme
 
 ## giriiş

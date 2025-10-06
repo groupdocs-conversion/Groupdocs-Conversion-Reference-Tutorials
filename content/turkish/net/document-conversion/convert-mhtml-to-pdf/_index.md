@@ -5,8 +5,8 @@
 "title": "MHTML'yi PDF'ye dönüştür"
 "url": "/tr/net/document-conversion/convert-mhtml-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # MHTML'yi PDF'ye dönüştür
 
 ## giriiş

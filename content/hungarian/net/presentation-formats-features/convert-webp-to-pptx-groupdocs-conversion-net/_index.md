@@ -4,8 +4,8 @@
 "title": "WEBP hatékony PPTX-vé konvertálása a GroupDocs.Conversion .NET használatával"
 "url": "/hu/net/presentation-formats-features/convert-webp-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # WEBP hatékony PPTX-vé konvertálása a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

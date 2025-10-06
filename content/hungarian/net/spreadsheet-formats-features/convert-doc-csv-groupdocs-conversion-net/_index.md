@@ -4,8 +4,8 @@
 "title": "DOC konvertálása CSV-vé a GroupDocs.Conversion .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-doc-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DOC konvertálása CSV-vé a GroupDocs.Conversion .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

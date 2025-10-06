@@ -4,8 +4,8 @@
 "title": "POTX'i .NET'te GroupDocs.Conversion Kullanarak DOC'a Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/presentation-conversion/convert-potx-to-doc-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # POTX'i .NET'te GroupDocs.Conversion ile DOC'a dönüştürün
 
 ## giriiş

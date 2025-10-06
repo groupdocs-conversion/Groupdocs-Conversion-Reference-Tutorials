@@ -4,8 +4,8 @@
 "title": "Jak převést soubory MOBI do formátu TXT pomocí nástroje GroupDocs.Conversion pro .NET – podrobný návod"
 "url": "/cs/net/text-markup-conversion/convert-mobi-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory MOBI do formátu TXT pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

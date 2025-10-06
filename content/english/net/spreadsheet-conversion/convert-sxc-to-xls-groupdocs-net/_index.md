@@ -8,10 +8,8 @@ keywords:
 - convert SXC to XLS
 - GroupDocs.Conversion .NET
 - SXC file conversion
-
+type: docs
 ---
-
-
 # Convert SXC to XLS in .NET Using GroupDocs.Conversion
 
 ## Introduction

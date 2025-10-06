@@ -5,8 +5,8 @@
 "title": "Chuyển đổi PLT sang PDF"
 "url": "/vi/net/pdf-conversion/convert-plt-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # Chuyển đổi PLT sang PDF
 
 ## Giới thiệu

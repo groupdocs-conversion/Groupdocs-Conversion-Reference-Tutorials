@@ -8,10 +8,8 @@ keywords:
 - DXF to TXT conversion
 - GroupDocs.Conversion for .NET
 - CAD file management
-
+type: docs
 ---
-
-
 # DXF to TXT Conversion Using GroupDocs in .NET: A Developer's Guide
 
 ## Introduction

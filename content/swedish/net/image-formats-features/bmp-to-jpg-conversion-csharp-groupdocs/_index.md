@@ -4,8 +4,8 @@
 "title": "Konvertera BMP till JPG i C# med GroupDocs.Conversion för .NET – en komplett guide"
 "url": "/sv/net/image-formats-features/bmp-to-jpg-conversion-csharp-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera BMP till JPG i C# med GroupDocs.Conversion för .NET: En komplett guide
 
 ## Introduktion

@@ -4,8 +4,8 @@
 "title": "JPEG fájlok PSD formátumba konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/jpeg-to-psd-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # JPEG fájlok PSD formátumba konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Konvertera PLT-filer till TXT med hjälp av GroupDocs.Conversion för .NET steg-för-steg-guide"
 "url": "/sv/net/text-file-processing/convert-plt-files-to-txt-using-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera PLT-filer till TXT med GroupDocs.Conversion för .NET: Steg-för-steg-guide
 
 ## Introduktion

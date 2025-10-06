@@ -4,8 +4,8 @@
 "title": "輕鬆將 DOT 轉換為 PDF — 使用 GroupDocs.Conversion for .NET 的逐步指南"
 "url": "/zh-hant/net/pdf-conversion/convert-dot-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 輕鬆將 DOT 轉換為 PDF：使用 GroupDocs.Conversion for .NET 的逐步指南
 
 ## 介紹

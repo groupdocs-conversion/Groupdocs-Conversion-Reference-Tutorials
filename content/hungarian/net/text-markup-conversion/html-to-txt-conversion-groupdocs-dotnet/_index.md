@@ -4,8 +4,8 @@
 "title": "HTML konvertálása TXT-vé a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/text-markup-conversion/html-to-txt-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # HTML konvertálása TXT-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

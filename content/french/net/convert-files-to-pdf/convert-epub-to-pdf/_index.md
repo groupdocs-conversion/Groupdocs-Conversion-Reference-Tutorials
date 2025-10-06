@@ -5,8 +5,8 @@
 "title": "Convertir des livres électroniques EPUB en PDF"
 "url": "/fr/net/convert-files-to-pdf/convert-epub-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # Convertir des livres électroniques EPUB en PDF
 
 ## Introduction

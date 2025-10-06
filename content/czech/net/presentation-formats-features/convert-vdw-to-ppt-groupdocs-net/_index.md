@@ -4,8 +4,8 @@
 "title": "Efektivní převod webových výkresů z aplikace Visio do PowerPointu pomocí nástroje GroupDocs pro vývojáře .NET"
 "url": "/cs/net/presentation-formats-features/convert-vdw-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod webových výkresů (VDW) aplikace Visio do prezentací v PowerPointu pomocí GroupDocs pro vývojáře .NET
 
 ## Zavedení

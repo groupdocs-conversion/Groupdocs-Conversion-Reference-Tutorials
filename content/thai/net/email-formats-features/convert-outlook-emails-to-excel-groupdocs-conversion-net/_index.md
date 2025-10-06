@@ -4,8 +4,8 @@
 "title": "แปลงอีเมล Outlook เป็น Excel อย่างมีประสิทธิภาพโดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/email-formats-features/convert-outlook-emails-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลงอีเมล Microsoft Outlook เป็นสเปรดชีต Excel ได้อย่างง่ายดายโดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

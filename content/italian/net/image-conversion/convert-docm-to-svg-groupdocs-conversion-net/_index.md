@@ -4,8 +4,8 @@
 "title": "Masterizza la conversione da DOCM a SVG utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/image-conversion/convert-docm-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Masterizza la conversione da DOCM a SVG utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

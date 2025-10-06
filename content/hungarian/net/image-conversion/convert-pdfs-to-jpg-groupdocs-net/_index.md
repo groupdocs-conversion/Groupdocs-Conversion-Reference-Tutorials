@@ -4,8 +4,8 @@
 "title": "PDF fájlok hatékony konvertálása JPG formátumba a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/image-conversion/convert-pdfs-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PDF fájlok hatékony konvertálása JPG formátumba a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

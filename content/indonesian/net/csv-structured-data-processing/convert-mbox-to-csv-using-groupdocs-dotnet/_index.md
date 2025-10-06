@@ -4,8 +4,8 @@
 "title": "Konversi MBOX ke CSV Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Langkah demi Langkah"
 "url": "/id/net/csv-structured-data-processing/convert-mbox-to-csv-using-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konversi MBOX ke CSV Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

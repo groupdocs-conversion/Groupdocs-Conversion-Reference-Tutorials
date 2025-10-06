@@ -4,8 +4,8 @@
 "title": "Converta WMZ para PPT com eficiência usando GroupDocs.Conversion para .NET"
 "url": "/pt/net/presentation-conversion/convert-wmz-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converta WMZ para PPT com eficiência usando GroupDocs.Conversion para .NET
 
 ## Introdução

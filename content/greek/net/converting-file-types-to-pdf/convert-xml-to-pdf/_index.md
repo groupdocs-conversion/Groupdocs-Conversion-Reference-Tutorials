@@ -5,8 +5,8 @@
 "title": "Μετατροπή XML σε PDF"
 "url": "/el/net/converting-file-types-to-pdf/convert-xml-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # Μετατροπή XML σε PDF
 
 ## Εισαγωγή

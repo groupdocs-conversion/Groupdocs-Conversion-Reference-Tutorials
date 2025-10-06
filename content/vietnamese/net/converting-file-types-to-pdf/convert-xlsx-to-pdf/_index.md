@@ -5,8 +5,8 @@
 "title": "Chuyển đổi XLSX sang PDF"
 "url": "/vi/net/converting-file-types-to-pdf/convert-xlsx-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Chuyển đổi XLSX sang PDF
 
 ## Giới thiệu

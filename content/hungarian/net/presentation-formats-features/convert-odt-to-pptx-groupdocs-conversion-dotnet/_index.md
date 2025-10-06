@@ -4,8 +4,8 @@
 "title": "ODT fájlok egyszerű PPTX formátumba konvertálása a GroupDocs.Conversion .NET segítségével C# fejlesztőknek"
 "url": "/hu/net/presentation-formats-features/convert-odt-to-pptx-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató: ODT konvertálása PPTX-be a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

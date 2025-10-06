@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi Email ke PDF dengan Offset Zona Waktu di Java Menggunakan GroupDocs.Conversion"
 "url": "/id/java/email-formats/email-to-pdf-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi Email ke PDF dengan Offset Zona Waktu di Java Menggunakan GroupDocs.Conversion
 
 ## Perkenalan

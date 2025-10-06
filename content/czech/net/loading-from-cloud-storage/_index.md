@@ -3,8 +3,8 @@
 "title": "Načítání dokumentů z cloudového úložiště – tutoriály pro GroupDocs.Conversion .NET"
 "url": "/cs/net/loading-from-cloud-storage/"
 "weight": 4
+type: docs
 ---
-
 # Načítání dokumentů z cloudového úložiště – tutoriály pro GroupDocs.Conversion .NET
 
 Naše návody pro cloudové úložiště vám ukážou, jak integrovat GroupDocs.Conversion s oblíbenými platformami cloudového úložiště v aplikacích .NET. Tyto podrobné návody vás provedou připojením k bucketům Amazon S3, přístupem k kontejnerům Azure Blob Storage, konfigurací příslušných přihlašovacích údajů, zpracováním nastavení specifických pro region, správou sdružování připojení a implementací logiky opakování pro cloudové operace. Každý návod obsahuje praktické příklady kódu C# pro scénáře načítání cloudových dokumentů, které vám pomohou vytvářet robustní aplikace využívající cloudová úložiště dokumentů ve vašich pracovních postupech konverze.

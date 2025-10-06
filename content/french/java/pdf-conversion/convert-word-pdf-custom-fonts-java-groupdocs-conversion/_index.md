@@ -4,8 +4,8 @@
 "title": "Convertir Word en PDF avec des polices personnalisées en Java &#58; un guide complet sur GroupDocs.Conversion"
 "url": "/fr/java/pdf-conversion/convert-word-pdf-custom-fonts-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des documents Word en PDF avec des polices personnalisées en Java : guide complet avec GroupDocs.Conversion
 
 ## Introduction

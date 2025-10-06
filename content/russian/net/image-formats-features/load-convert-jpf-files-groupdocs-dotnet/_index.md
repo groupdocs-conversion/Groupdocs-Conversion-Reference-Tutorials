@@ -4,8 +4,8 @@
 "title": "Преобразование основных файлов&#58; загрузка и преобразование файлов JPF с использованием GroupDocs для .NET"
 "url": "/ru/net/image-formats-features/load-convert-jpf-files-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Преобразование основных файлов: загрузка и преобразование файлов JPF с использованием GroupDocs для .NET
 
 ## Введение

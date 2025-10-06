@@ -5,8 +5,8 @@
 "title": "Hướng dẫn toàn diện về GroupDocs.Conversion cho .NET"
 "url": "/vi/net/"
 "weight": 10
+type: docs
 ---
-
 # Hướng dẫn toàn diện về GroupDocs.Conversion cho .NET
 
 

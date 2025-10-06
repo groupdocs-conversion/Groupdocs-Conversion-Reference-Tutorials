@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 進行 Java 文件快取－高效能文件轉換的綜合指南"
 "url": "/zh-hant/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion 實作 Java 文件快取以實現高效的文件轉換
 
 ## 介紹

@@ -4,8 +4,8 @@
 "title": "ODS fájlok zökkenőmentes konvertálása CSV-vé a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/spreadsheet-formats-features/convert-ods-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # ODS fájlok zökkenőmentes konvertálása CSV-vé a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

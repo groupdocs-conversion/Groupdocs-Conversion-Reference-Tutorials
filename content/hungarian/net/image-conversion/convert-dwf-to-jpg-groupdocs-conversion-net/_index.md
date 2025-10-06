@@ -4,8 +4,8 @@
 "title": "DWF konvertálása JPG-vé a GroupDocs.Conversion for .NET segítségével – Teljes körű útmutató"
 "url": "/hu/net/image-conversion/convert-dwf-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DWF konvertálása JPG-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

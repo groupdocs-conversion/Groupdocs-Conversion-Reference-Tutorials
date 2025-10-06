@@ -4,8 +4,8 @@
 "title": "PPSM DOCX formátumba konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/word-processing-formats-features/convert-ppsm-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhat PPSM-et DOCX-be a GroupDocs.Conversion for .NET használatával?
 
 ## Bevezetés

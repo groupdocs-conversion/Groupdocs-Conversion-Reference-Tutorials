@@ -8,10 +8,8 @@ keywords:
 - Convert OTG to SVG
 - GroupDocs.Conversion for .NET
 - OTG file conversion
-
+type: docs
 ---
-
-
 # How to Convert OTG Files to SVG Using GroupDocs.Conversion for .NET
 
 ## Introduction

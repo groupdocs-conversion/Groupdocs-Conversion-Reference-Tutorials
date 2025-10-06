@@ -4,8 +4,8 @@
 "title": "C#でODPをXLSXに変換する - GroupDocs.Conversion for .NETを使ったステップバイステップガイド"
 "url": "/ja/net/spreadsheet-conversion/convert-odp-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # C#でODPをXLSXに変換する：GroupDocs.Conversion for .NETを使ったステップバイステップガイド
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "تحويل ملفات PST إلى PSD بكفاءة باستخدام GroupDocs.Conversion .NET - دليل المطور"
 "url": "/ar/net/storage-files-pst-processing/convert-pst-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل PST إلى PSD بكفاءة باستخدام GroupDocs.Conversion .NET
 
 ## مقدمة

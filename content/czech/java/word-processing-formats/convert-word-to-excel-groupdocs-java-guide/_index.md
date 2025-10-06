@@ -4,8 +4,8 @@
 "title": "Jednoduchý návod k převodu Wordu do Excelu pomocí rozhraní GroupDocs.Conversion Java API"
 "url": "/cs/java/word-processing-formats/convert-word-to-excel-groupdocs-java-guide/"
 "weight": 1
+type: docs
 ---
-
 # Převod Wordu do Excelu pomocí GroupDocs.Conversion v Javě: Komplexní průvodce
 
 ## Zavedení

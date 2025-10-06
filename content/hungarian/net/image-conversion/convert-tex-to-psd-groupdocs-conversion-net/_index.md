@@ -4,8 +4,8 @@
 "title": "TEX konvertálása PSD-vé a GroupDocs.Conversion for .NET segítségével – Végső útmutató"
 "url": "/hu/net/image-conversion/convert-tex-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # TEX konvertálása PSD-vé a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

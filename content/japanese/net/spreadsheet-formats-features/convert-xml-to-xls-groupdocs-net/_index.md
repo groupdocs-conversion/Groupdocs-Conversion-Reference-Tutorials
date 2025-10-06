@@ -4,8 +4,8 @@
 "title": ".NETでGroupDocs.Conversionを使用してXMLをXLSに変換する方法 - ステップバイステップガイド"
 "url": "/ja/net/spreadsheet-formats-features/convert-xml-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NETでGroupDocs.Conversionを使用してXMLをXLSに変換する方法：ステップバイステップガイド
 
 ## 導入

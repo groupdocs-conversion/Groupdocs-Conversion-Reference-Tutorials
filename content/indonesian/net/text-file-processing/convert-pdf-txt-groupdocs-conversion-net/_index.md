@@ -4,8 +4,8 @@
 "title": "Konversi PDF ke TXT Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/text-file-processing/convert-pdf-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi PDF ke TXT dengan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

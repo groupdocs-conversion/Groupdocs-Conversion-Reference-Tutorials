@@ -4,8 +4,8 @@
 "title": "Stapsgewijze handleiding voor het instellen van GroupDocs.Conversion Java-licentie"
 "url": "/nl/java/getting-started/groupdocs-conversion-java-license-setup-file-path/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Java-licentie instellen: een uitgebreide tutorial
 
 Welkom bij onze stapsgewijze handleiding voor het instellen en gebruiken van de GroupDocs.Conversion-bibliotheek voor Java. Deze tutorial richt zich specifiek op het implementeren van licentie-instellingen via bestandspaden, zodat u het volledige potentieel van deze robuuste tool voor documentconversie kunt benutten.

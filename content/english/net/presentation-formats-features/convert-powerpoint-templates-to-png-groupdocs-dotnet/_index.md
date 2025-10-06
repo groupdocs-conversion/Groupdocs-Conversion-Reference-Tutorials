@@ -8,10 +8,8 @@ keywords:
 - convert PowerPoint templates to PNG
 - GroupDocs.Conversion for .NET
 - PowerPoint template conversion
-
+type: docs
 ---
-
-
 # Convert PowerPoint Templates to PNG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

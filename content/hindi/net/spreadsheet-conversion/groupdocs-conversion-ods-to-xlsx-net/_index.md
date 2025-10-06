@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion का उपयोग करके ODS को XLSX में परिवर्तित करें .NET'#58; एक व्यापक गाइड"
 "url": "/hi/net/spreadsheet-conversion/groupdocs-conversion-ods-to-xlsx-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion का उपयोग करके ODS को XLSX में परिवर्तित करें .NET: एक व्यापक गाइड
 
 आज के डेटा-संचालित वातावरण में, सहज फ़ाइल रूपांतरण महत्वपूर्ण है। स्प्रेडशीट के साथ काम करने वाले डेवलपर्स और व्यावसायिक पेशेवरों के लिए, ओपन डॉक्यूमेंट स्प्रेडशीट (ODS) को Microsoft Excel ओपन XML स्प्रेडशीट (XLSX) में परिवर्तित करना उत्पादकता को काफी बढ़ा सकता है। यह गाइड आपको .NET के लिए GroupDocs.Conversion का उपयोग करके इस रूपांतरण को आसानी से करने के लिए मार्गदर्शन करता है।

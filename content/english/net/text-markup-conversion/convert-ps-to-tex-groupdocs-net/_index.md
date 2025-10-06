@@ -8,10 +8,8 @@ keywords:
 - PostScript (PS) to TEX conversion
 - GroupDocs.Conversion for .NET
 - document format conversion
-
+type: docs
 ---
-
-
 # Convert PS to TEX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

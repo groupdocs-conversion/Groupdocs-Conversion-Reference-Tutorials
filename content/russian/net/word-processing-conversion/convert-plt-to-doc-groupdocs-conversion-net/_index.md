@@ -4,8 +4,8 @@
 "title": "Пошаговое руководство по конвертации PLT в DOC с использованием GroupDocs.Conversion для .NET"
 "url": "/ru/net/word-processing-conversion/convert-plt-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертация PLT в DOC: пошаговое руководство с использованием GroupDocs.Conversion для .NET
 
 ## Введение

@@ -4,8 +4,8 @@
 "title": "Thay thế phông chữ trong Java&#58; Làm chủ GroupDocs.Conversion để có đầu ra PDF nhất quán"
 "url": "/vi/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/"
 "weight": 1
+type: docs
 ---
-
 # Làm chủ việc thay thế phông chữ với GroupDocs.Conversion cho Java
 
 ## Giới thiệu

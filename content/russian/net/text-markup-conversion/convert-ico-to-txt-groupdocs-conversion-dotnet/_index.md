@@ -4,8 +4,8 @@
 "title": "Конвертируйте ICO в TXT с помощью GroupDocs.Conversion для .NET&#58; Пошаговое руководство"
 "url": "/ru/net/text-markup-conversion/convert-ico-to-txt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте файлы ICO в TXT с помощью GroupDocs.Conversion для .NET: подробное руководство
 
 ## Введение

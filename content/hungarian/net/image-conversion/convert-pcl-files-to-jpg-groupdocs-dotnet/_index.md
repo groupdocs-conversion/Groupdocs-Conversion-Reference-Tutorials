@@ -4,8 +4,8 @@
 "title": "PCL konvertálása JPG-vé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-pcl-files-to-jpg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # PCL fájlok konvertálása JPG formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

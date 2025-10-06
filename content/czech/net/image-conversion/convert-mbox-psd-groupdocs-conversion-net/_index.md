@@ -4,8 +4,8 @@
 "title": "Převod MBOX do PSD pomocí GroupDocs.Conversion pro .NET – kompletní průvodce"
 "url": "/cs/net/image-conversion/convert-mbox-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod MBOX do PSD pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

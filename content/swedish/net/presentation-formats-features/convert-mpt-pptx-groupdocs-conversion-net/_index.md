@@ -4,8 +4,8 @@
 "title": "Konvertera MPT till PPTX med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/presentation-formats-features/convert-mpt-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar MPT-filer till PPTX med GroupDocs.Conversion för .NET
 
 ## Introduktion

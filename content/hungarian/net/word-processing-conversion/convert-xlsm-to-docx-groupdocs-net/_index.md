@@ -4,8 +4,8 @@
 "title": "XLSM konvertálása DOCX-be a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/word-processing-conversion/convert-xlsm-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # XLSM konvertálása DOCX formátumba a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

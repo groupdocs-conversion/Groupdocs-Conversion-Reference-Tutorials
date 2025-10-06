@@ -8,10 +8,8 @@ keywords:
 - convert DOTM to HTML
 - GroupDocs.Conversion for .NET
 - Microsoft Word template conversion
-
+type: docs
 ---
-
-
 # Convert DOTM Files to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

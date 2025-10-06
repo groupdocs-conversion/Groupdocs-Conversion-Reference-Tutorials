@@ -4,8 +4,8 @@
 "title": "PCL hatékony konvertálása PowerPointtá a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/presentation-formats-features/convert-pcl-to-powerpoint-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # PCL hatékony konvertálása PowerPointtá a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

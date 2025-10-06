@@ -4,8 +4,8 @@
 "title": "PowerPoint-presentaties converteren naar HTML met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/web-markup-formats/convert-powerpoint-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PowerPoint-presentaties converteren naar HTML met GroupDocs.Conversion voor .NET
 
 ## Invoering

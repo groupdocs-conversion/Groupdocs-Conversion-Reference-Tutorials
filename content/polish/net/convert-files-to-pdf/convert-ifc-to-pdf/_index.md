@@ -5,8 +5,8 @@
 "title": "Konwertuj pliki modelowania informacji o budynku IFC do formatu PDF"
 "url": "/pl/net/convert-files-to-pdf/convert-ifc-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Konwertuj pliki modelowania informacji o budynku IFC do formatu PDF
 
 ## Wstęp

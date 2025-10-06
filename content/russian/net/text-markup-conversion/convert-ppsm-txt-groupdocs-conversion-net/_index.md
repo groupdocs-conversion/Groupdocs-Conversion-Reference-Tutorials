@@ -4,8 +4,8 @@
 "title": "Конвертируйте PPSM в TXT с помощью GroupDocs.Conversion для .NET — пошаговое руководство"
 "url": "/ru/net/text-markup-conversion/convert-ppsm-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте PPSM в TXT с помощью GroupDocs.Conversion для .NET
 
 ## Введение

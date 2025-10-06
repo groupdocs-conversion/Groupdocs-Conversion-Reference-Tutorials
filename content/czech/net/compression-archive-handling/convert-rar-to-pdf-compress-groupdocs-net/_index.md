@@ -4,8 +4,8 @@
 "title": "Jak převést soubory RAR do PDF a komprimovat je do ZIP pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/compression-archive-handling/convert-rar-to-pdf-compress-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory RAR do PDF a komprimovat je do ZIP pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

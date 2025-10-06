@@ -4,8 +4,8 @@
 "title": "ODS konvertálása PPT-vé a GroupDocs.Conversion .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/presentation-conversion/convert-ods-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # ODS konvertálása PPT-vé a GroupDocs.Conversion .NET használatával: lépésről lépésre útmutató
 ## Bevezetés
 Egy Open Document Spreadsheet (ODS) fájl PowerPoint-bemutató (PPT) formátumba konvertálása elengedhetetlen, ha vizuálisan kell bemutatnia az adatokat, vagy ha táblázatait elő kell készítenie értekezletekre. Ez az útmutató végigvezeti Önt a GroupDocs.Conversion .NET használatán, hogy zökkenőmentesen végrehajthassa ezt a konverziót.

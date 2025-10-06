@@ -8,10 +8,8 @@ keywords:
 - VDX to XLSX conversion
 - GroupDocs.Conversion for .NET
 - Visio file conversion
-
+type: docs
 ---
-
-
 # Convert VDX to XLSX Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

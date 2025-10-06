@@ -4,8 +4,8 @@
 "title": "Jak převést soubory PLT do SVG pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/image-formats-features/convert-plt-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory PLT do SVG pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

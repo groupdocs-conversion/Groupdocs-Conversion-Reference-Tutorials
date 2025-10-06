@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET で ODS を CSV にシームレスに変換"
 "url": "/ja/net/spreadsheet-formats-features/convert-ods-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET で ODS を CSV にシームレスに変換
 
 ## 導入

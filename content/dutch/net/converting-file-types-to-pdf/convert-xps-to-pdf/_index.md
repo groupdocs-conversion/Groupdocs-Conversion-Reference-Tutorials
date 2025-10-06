@@ -5,8 +5,8 @@
 "title": "XPS naar PDF converteren"
 "url": "/nl/net/converting-file-types-to-pdf/convert-xps-to-pdf/"
 "weight": 30
+type: docs
 ---
-
 # XPS naar PDF converteren
 
 

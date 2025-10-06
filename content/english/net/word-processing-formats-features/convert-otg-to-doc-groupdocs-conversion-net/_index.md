@@ -8,10 +8,8 @@ keywords:
 - convert OTG to DOC
 - GroupDocs.Conversion for .NET
 - document conversion .NET
-
+type: docs
 ---
-
-
 # Convert OTG to DOC Using GroupDocs.Conversion .NET: A Step-by-Step Guide
 
 ## Introduction

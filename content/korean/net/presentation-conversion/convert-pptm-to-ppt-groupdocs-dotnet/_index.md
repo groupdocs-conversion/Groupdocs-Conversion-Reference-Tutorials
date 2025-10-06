@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 PPTM을 PPT로 변환하는 포괄적인 가이드"
 "url": "/ko/net/presentation-conversion/convert-pptm-to-ppt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 PPTM을 PPT로 변환: 종합 가이드
 
 비즈니스 세계에서 파워포인트 프레젠테이션은 필수적인 도구입니다. 하지만 모든 사람이 최신 Microsoft Office 버전을 사용할 수 있는 것은 아니므로, PPTM(매크로가 포함된 파워포인트 파일)을 PPT(이전 파워포인트 형식)로 변환해야 합니다. 이 가이드에서는 GroupDocs.Conversion for .NET을 사용하여 PPTM 파일을 PPT 형식으로 원활하게 변환하는 방법을 안내합니다.

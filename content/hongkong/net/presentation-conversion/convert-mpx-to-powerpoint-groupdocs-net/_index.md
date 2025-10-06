@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs for .NET 將 MPX 檔案轉換為 PowerPoint — 逐步指南"
 "url": "/zh-hant/net/presentation-conversion/convert-mpx-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs for .NET 將 MPX 檔案轉換為 PowerPoint：逐步指南
 
 ## 介紹

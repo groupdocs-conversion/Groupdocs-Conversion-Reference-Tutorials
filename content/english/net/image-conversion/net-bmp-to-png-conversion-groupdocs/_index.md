@@ -8,10 +8,8 @@ keywords:
 - BMP to PNG conversion .NET
 - GroupDocs.Conversion library
 - .NET image format transformation
-
+type: docs
 ---
-
-
 # Efficient BMP to PNG Conversion in .NET with GroupDocs
 
 ## Introduction

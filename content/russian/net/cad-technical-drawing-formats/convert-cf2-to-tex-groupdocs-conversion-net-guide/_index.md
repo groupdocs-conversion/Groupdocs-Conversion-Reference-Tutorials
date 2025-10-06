@@ -4,8 +4,8 @@
 "title": "Конвертируйте CF2 в TEX с помощью GroupDocs.Conversion .NET&#58; Пошаговое руководство"
 "url": "/ru/net/cad-technical-drawing-formats/convert-cf2-to-tex-groupdocs-conversion-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Конвертация CF2 в TEX с помощью GroupDocs.Conversion .NET: пошаговое руководство
 
 ## Введение

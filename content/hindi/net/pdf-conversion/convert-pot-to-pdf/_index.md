@@ -5,8 +5,8 @@
 "title": "POT को PDF में बदलें"
 "url": "/hi/net/pdf-conversion/convert-pot-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # POT को PDF में बदलें
 
 ## परिचय

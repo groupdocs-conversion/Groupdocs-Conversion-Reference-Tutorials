@@ -4,8 +4,8 @@
 "title": "OTP fájlok PSD formátumba konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/convert-otp-to-psd-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # OTP fájlok PSD formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

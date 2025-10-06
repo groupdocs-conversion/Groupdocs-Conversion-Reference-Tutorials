@@ -4,8 +4,8 @@
 "title": "Načítání a převod souborů OTG pomocí GroupDocs.Conversion pro .NET – Průvodce pro vývojáře"
 "url": "/cs/net/loading-from-local-sources/load-otg-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Načítání a převod souborů OTG pomocí GroupDocs.Conversion pro .NET: Průvodce pro vývojáře
 
 ## Zavedení

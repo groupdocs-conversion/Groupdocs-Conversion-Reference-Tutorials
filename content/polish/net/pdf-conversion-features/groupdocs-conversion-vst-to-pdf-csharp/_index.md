@@ -4,8 +4,8 @@
 "title": "Konwertuj pliki VST do PDF za pomocą GroupDocs.Conversion dla .NET w C#"
 "url": "/pl/net/pdf-conversion-features/groupdocs-conversion-vst-to-pdf-csharp/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj pliki VST do PDF za pomocą GroupDocs.Conversion dla .NET w C#
 
 ## Wstęp

@@ -4,8 +4,8 @@
 "title": "Panduan Lengkap&#58; Konversi BMP ke PDF menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/pdf-conversion/convert-bmp-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Panduan Lengkap: Mengonversi BMP ke PDF menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

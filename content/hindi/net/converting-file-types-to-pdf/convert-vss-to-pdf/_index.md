@@ -5,8 +5,8 @@
 "title": "VSS को PDF में बदलें"
 "url": "/hi/net/converting-file-types-to-pdf/convert-vss-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # VSS को PDF में बदलें
 
 ## परिचय

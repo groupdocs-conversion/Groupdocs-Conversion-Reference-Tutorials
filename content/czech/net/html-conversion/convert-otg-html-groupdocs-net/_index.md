@@ -4,8 +4,8 @@
 "title": "Převod OTG do HTML pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/html-conversion/convert-otg-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod OTG do HTML pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

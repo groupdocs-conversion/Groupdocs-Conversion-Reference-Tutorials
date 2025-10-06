@@ -4,8 +4,8 @@
 "title": "Konversi XLSB ke CSV secara efisien menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/spreadsheet-conversion/groupdocs-conversion-net-xlsb-to-csv/"
 "weight": 1
+type: docs
 ---
-
 # Konversi XLSB ke CSV secara efisien menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Java için Filigranlar ve Açıklamalar Eğitimleri"
 "url": "/tr/java/watermarks-annotations/"
 "weight": 20
+type: docs
 ---
-
 # GroupDocs.Conversion Java için Filigranlar ve Açıklamalar Eğitimleri
 
 Java için kapsamlı GroupDocs.Conversion eğitimlerimizle açıklama ve filigranlama yeteneklerini keşfedin. Bu adım adım kılavuzlar, dönüştürme sırasında metin ve resim filigranlarının nasıl ekleneceğini, mevcut açıklamaların nasıl korunacağını, açıklama görünürlüğünün nasıl kontrol edileceğini, meta verilere dayalı dinamik filigranlamanın nasıl uygulanacağını ve hassas belgelerdeki düzenleme işaretlerinin nasıl yönetileceğini gösterir. Her eğitim, filigranlama ve açıklama senaryoları için pratik Java kod örnekleri içerir ve biçim dönüşümü sırasında önemli görsel öğeleri ve editoryal işaretleri koruyan uygulamalar oluşturmanıza yardımcı olur.

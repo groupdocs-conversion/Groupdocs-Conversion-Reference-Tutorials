@@ -4,8 +4,8 @@
 "title": "Converteer XLT efficiënt naar TEX met GroupDocs.Conversion voor .NET&#58; een complete handleiding"
 "url": "/nl/net/spreadsheet-formats-features/convert-xlt-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer XLT efficiënt naar TEX met GroupDocs.Conversion voor .NET
 
 ## Invoering

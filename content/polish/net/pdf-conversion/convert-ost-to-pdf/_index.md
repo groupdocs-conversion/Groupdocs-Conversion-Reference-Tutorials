@@ -5,8 +5,8 @@
 "title": "Konwertuj OST do PDF"
 "url": "/pl/net/pdf-conversion/convert-ost-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # Konwertuj OST do PDF
 
 ## Wstęp

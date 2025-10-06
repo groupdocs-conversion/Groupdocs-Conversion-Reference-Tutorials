@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 將 PDF 頁面轉換為 Word — 逐步指南"
 "url": "/zh-hant/net/word-processing-formats-features/groupdocs-conversion-net-pdf-to-word/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 將 PDF 頁面轉換為 Word：逐步指南
 
 ## 介紹

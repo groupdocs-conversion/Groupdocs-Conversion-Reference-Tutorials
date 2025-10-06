@@ -4,8 +4,8 @@
 "title": "Mengonversi GIF ke File Teks Menggunakan GroupDocs untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/image-formats-features/convert-gifs-to-text-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Mengonversi GIF ke File Teks Menggunakan GroupDocs untuk .NET: Panduan Lengkap
 
 ## Perkenalan

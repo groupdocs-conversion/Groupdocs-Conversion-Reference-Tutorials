@@ -4,8 +4,8 @@
 "title": "Chuyển đổi VSS sang SVG hiệu quả với GroupDocs.Conversion cho .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/image-conversion/convert-vss-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi VSS sang SVG hiệu quả với GroupDocs.Conversion cho .NET: Hướng dẫn từng bước
 
 ## Giới thiệu

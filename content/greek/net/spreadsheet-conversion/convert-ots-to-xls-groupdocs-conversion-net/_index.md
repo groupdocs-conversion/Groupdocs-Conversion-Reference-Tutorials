@@ -4,8 +4,8 @@
 "title": "Μετατροπή OTS σε XLS σε .NET χρησιμοποιώντας τη βιβλιοθήκη GroupDocs.Conversion"
 "url": "/el/net/spreadsheet-conversion/convert-ots-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή αρχείων OTS σε μορφή XLS με το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

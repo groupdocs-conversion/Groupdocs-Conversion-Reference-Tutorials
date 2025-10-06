@@ -4,8 +4,8 @@
 "title": "Chuyển đổi TXT sang PDF dễ dàng&#58; Master GroupDocs.Conversion cho .NET trong vài phút"
 "url": "/vi/net/pdf-conversion/convert-txt-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi TXT sang PDF dễ dàng: Master GroupDocs.Conversion cho .NET trong vài phút
 
 ## Giới thiệu

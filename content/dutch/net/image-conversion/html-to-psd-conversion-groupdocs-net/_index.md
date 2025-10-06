@@ -4,8 +4,8 @@
 "title": "Efficiënte HTML naar PSD-conversie met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/image-conversion/html-to-psd-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efficiënte HTML naar PSD-conversie met GroupDocs.Conversion voor .NET
 
 ## Invoering

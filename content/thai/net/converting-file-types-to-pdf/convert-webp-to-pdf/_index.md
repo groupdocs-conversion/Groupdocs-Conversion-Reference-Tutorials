@@ -5,8 +5,8 @@
 "title": "แปลง WebP เป็น PDF"
 "url": "/th/net/converting-file-types-to-pdf/convert-webp-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # แปลง WebP เป็น PDF
 
 ## การแนะนำ

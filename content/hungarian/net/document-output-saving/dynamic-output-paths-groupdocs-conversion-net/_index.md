@@ -4,8 +4,8 @@
 "title": "Dinamikus kimeneti útvonalak .NET-ben a GroupDocs.Conversion segítségével – Átfogó útmutató"
 "url": "/hu/net/document-output-saving/dynamic-output-paths-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Dinamikus kimeneti útvonalak .NET-ben a GroupDocs.Conversion segítségével: Átfogó útmutató
 
 ## Bevezetés

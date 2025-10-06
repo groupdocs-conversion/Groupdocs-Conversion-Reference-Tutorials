@@ -5,8 +5,8 @@
 "title": "แปลง eBook EPUB เป็น PDF"
 "url": "/th/net/convert-files-to-pdf/convert-epub-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # แปลง eBook EPUB เป็น PDF
 
 ## การแนะนำ

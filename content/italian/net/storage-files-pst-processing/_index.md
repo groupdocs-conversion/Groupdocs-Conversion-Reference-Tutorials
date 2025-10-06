@@ -3,8 +3,8 @@
 "title": "Tutorial sull'archiviazione dei file e l'elaborazione PST per GroupDocs.Conversion .NET"
 "url": "/it/net/storage-files-pst-processing/"
 "weight": 21
+type: docs
 ---
-
 # Tutorial sull'archiviazione dei file e l'elaborazione PST per GroupDocs.Conversion .NET
 
 nostri tutorial sull'elaborazione dei file di storage forniscono indicazioni dettagliate per la gestione dei contenitori di posta elettronica nelle applicazioni .NET. Queste guide pratiche illustrano come estrarre e convertire il contenuto da file di storage personali come PST e OST, recuperare le strutture delle cartelle, convertire il contenuto di storage in diversi formati, gestire gerarchie di contenuti nidificate, preservare i metadati dei messaggi, elaborare in batch più messaggi e implementare operazioni di estrazione selettiva. Ogni tutorial include esempi completi di codice C# per scenari di conversione dei file di storage, aiutandovi a creare applicazioni in grado di accedere e trasformare efficacemente i dati archiviati nei formati dei contenitori di posta elettronica.

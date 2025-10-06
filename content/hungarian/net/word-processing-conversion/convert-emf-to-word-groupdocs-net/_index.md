@@ -4,8 +4,8 @@
 "title": "EMF Word formátumba konvertálása a GroupDocs.Conversion for .NET segítségével – lépésről lépésre útmutató"
 "url": "/hu/net/word-processing-conversion/convert-emf-to-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # EMF Word formátumba konvertálása a GroupDocs.Conversion for .NET segítségével – lépésről lépésre útmutató
 
 ## Bevezetés

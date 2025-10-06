@@ -4,8 +4,8 @@
 "title": ".NET アプリで DOTX ファイルを変換する方法 - GroupDocs.Conversion を使用したガイド"
 "url": "/ja/net/word-processing-formats-features/convert-dotx-files-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # .NET 変換の実装と最適化の方法: GroupDocs.Conversion を使用して DOTX ファイルを読み込み、変換する
 
 ## 導入

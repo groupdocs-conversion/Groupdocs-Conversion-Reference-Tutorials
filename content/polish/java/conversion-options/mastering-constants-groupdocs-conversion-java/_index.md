@@ -4,8 +4,8 @@
 "title": "Opanowanie zarządzania stałymi w GroupDocs.Conversion Java dla projektów konwersji plików"
 "url": "/pl/java/conversion-options/mastering-constants-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Opanowanie zarządzania stałymi za pomocą GroupDocs.Conversion Java
 
 ## Wstęp

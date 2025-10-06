@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して PPSM を HTML に変換する手順ガイド"
 "url": "/ja/net/html-conversion/convert-ppsm-html-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して PPSM を HTML に変換する: ステップバイステップ ガイド
 
 ## 導入

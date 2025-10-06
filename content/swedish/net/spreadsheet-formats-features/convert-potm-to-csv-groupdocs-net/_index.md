@@ -4,8 +4,8 @@
 "title": "Konvertera POTM-mallar till CSV med GroupDocs.Conversion för .NET - En omfattande guide"
 "url": "/sv/net/spreadsheet-formats-features/convert-potm-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera Microsoft PowerPoint-mallar (POTM) till CSV med GroupDocs.Conversion för .NET
 
 ## Introduktion

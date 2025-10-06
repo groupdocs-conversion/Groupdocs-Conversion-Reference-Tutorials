@@ -5,8 +5,8 @@
 "title": "แปลง POTM เป็น PDF"
 "url": "/th/net/pdf-conversion/convert-potm-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # แปลง POTM เป็น PDF
 
 ## การแนะนำ

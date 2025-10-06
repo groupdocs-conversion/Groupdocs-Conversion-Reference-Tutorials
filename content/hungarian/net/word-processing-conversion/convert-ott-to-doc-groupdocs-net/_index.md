@@ -4,8 +4,8 @@
 "title": "OTT DOC-ba konvertálása a GroupDocs.Conversion .NET használatával; Lépésről lépésre útmutató a szövegszerkesztési konvertáláshoz"
 "url": "/hu/net/word-processing-conversion/convert-ott-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # OTT DOC-ba konvertálása a GroupDocs.Conversion .NET használatával: Lépésről lépésre útmutató a szövegszerkesztővel történő konvertáláshoz
 
 ## Bevezetés

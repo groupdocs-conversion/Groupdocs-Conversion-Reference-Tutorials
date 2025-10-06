@@ -8,10 +8,8 @@ keywords:
 - convert POTM to PPTX
 - GroupDocs.Conversion for .NET
 - POTM file conversion
-
+type: docs
 ---
-
-
 # Convert POTM to PPTX with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -5,8 +5,8 @@
 "title": "Převod dokumentů DOC Word do PDF"
 "url": "/cs/net/file-conversion-to-pdf/convert-doc-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # Převod dokumentů DOC Word do PDF
 
 ## Zavedení

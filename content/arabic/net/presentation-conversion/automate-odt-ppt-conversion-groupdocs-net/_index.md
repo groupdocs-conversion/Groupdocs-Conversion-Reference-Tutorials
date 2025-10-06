@@ -4,8 +4,8 @@
 "title": "أتمتة تحويل ملفات ODT إلى PPT باستخدام GroupDocs.Conversion لـ .NET | دليل خطوة بخطوة"
 "url": "/ar/net/presentation-conversion/automate-odt-ppt-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # أتمتة تحويل ODT إلى PPT باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

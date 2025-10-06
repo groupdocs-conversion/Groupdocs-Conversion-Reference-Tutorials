@@ -4,8 +4,8 @@
 "title": "Effektiv hantering av dokumentsökvägar i .NET med GroupDocs.Conversion&#50; Definiera konstanter för sömlösa konverteringar"
 "url": "/sv/net/conversion-options-settings/groupdocs-net-define-document-paths/"
 "weight": 1
+type: docs
 ---
-
 # Effektiv hantering av dokumentsökvägar i .NET med GroupDocs.Conversion
 
 ## Introduktion

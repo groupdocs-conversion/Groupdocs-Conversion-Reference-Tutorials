@@ -8,10 +8,8 @@ keywords:
 - TEX to PDF conversion
 - GroupDocs.Conversion .NET
 - LaTeX file conversion
-
+type: docs
 ---
-
-
 # Efficient TEX to PDF Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

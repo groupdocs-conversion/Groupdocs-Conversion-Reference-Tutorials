@@ -4,8 +4,8 @@
 "title": "Converteer specifieke Excel-bladen naar PDF met GroupDocs.Conversion voor .NET | Eenvoudige stapsgewijze handleiding"
 "url": "/nl/net/pdf-conversion/convert-excel-sheets-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer specifieke Excel-bladen naar PDF met GroupDocs.Conversion voor .NET
 
 ## Invoering

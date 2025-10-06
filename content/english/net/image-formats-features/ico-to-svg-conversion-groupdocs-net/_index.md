@@ -8,10 +8,8 @@ keywords:
 - ICO to SVG conversion
 - GroupDocs.Conversion .NET
 - vector graphics in C#
-
+type: docs
 ---
-
-
 # Efficient ICO to SVG Conversion Using GroupDocs.Conversion for .NET: A Developer's Guide
 
 ## Introduction

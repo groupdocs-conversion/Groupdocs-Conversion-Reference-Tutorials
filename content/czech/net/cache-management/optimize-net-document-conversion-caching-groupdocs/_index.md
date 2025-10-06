@@ -4,8 +4,8 @@
 "title": "Optimalizace konverze dokumentů .NET s ukládáním do mezipaměti pomocí GroupDocs.Conversion"
 "url": "/cs/net/cache-management/optimize-net-document-conversion-caching-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Optimalizace konverze dokumentů .NET s ukládáním do mezipaměti pomocí GroupDocs.Conversion
 
 ## Zavedení

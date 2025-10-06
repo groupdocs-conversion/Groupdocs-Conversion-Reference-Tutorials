@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 Java 中實作 Redis 快取以增強效能"
 "url": "/zh-hant/java/cache-management/redis-cache-java-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 Java 中實現 Redis 快取：綜合指南
 Redis 是一個功能強大的開源記憶體資料結構存儲，可用作資料庫、快取和訊息代理。將 Redis 與 Java 應用程式集成，可以將頻繁存取的資料儲存在記憶體中，從而顯著提升效能。本教學將指導您使用 Java 的 GroupDocs.Conversion 庫實現 Redis 緩存，並利用 Aspose 庫的高級功能來簡化文件轉換任務。
 

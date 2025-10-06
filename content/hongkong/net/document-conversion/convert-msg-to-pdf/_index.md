@@ -5,8 +5,8 @@
 "title": "將 MSG 轉換為 PDF"
 "url": "/zh-hant/net/document-conversion/convert-msg-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # 將 MSG 轉換為 PDF
 
 ## 介紹

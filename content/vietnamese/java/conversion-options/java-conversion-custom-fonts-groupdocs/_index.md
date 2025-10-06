@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tài liệu Java với phông chữ tùy chỉnh bằng GroupDocs.Conversion"
 "url": "/vi/java/conversion-options/java-conversion-custom-fonts-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tài liệu Java với phông chữ tùy chỉnh bằng GroupDocs.Conversion
 
 Trong thế giới kỹ thuật số ngày nay, việc chuyển đổi tài liệu trong khi vẫn giữ nguyên thiết kế và bố cục ban đầu là rất quan trọng. Cho dù bạn đang chuẩn bị bài thuyết trình cho khách hàng hay lưu trữ các tệp quan trọng, việc đảm bảo phông chữ nhất quán trên các nền tảng có thể là một thách thức. Hướng dẫn này sẽ hướng dẫn bạn sử dụng GroupDocs.Conversion for Java để chuyển đổi bài thuyết trình thành PDF với các thay thế phông chữ tùy chỉnh, đảm bảo tính toàn vẹn về mặt hình ảnh trong suốt quá trình.

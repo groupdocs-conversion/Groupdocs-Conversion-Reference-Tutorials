@@ -4,8 +4,8 @@
 "title": "Chuyển đổi ODG sang PSD bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/image-conversion/convert-odg-to-psd-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp ODG sang PSD bằng GroupDocs.Conversion trong .NET
 ## Cách sử dụng GroupDocs.Conversion cho .NET để chuyển đổi ODG sang PSD một cách liền mạch
 ### Giới thiệu

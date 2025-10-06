@@ -5,8 +5,8 @@
 "title": "CSV Veri Dosyalarını PDF'ye Dönüştür"
 "url": "/tr/net/file-conversion-to-pdf/convert-csv-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # CSV Veri Dosyalarını PDF'ye Dönüştür
 
 ## giriiş

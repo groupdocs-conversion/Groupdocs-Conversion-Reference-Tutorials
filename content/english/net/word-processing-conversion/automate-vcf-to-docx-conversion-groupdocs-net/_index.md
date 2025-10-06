@@ -8,10 +8,8 @@ keywords:
 - VCF to DOCX conversion
 - GroupDocs.Conversion .NET
 - automate file conversion
-
+type: docs
 ---
-
-
 # Automate VCF to DOCX Conversion with GroupDocs.Conversion for .NET
 
 ## Introduction

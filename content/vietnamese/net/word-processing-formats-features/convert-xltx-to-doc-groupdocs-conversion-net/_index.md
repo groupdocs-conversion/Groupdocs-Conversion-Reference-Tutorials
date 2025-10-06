@@ -4,8 +4,8 @@
 "title": "Chuyển đổi mẫu Excel (.xltx) sang tài liệu Word (DOC) bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/word-processing-formats-features/convert-xltx-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi mẫu Excel (.xltx) sang tài liệu Word (DOC) bằng GroupDocs.Conversion cho .NET
 ## Giới thiệu
 Chào mừng bạn đến với hướng dẫn toàn diện này về cách chuyển đổi tệp Excel Template (.xltx) sang định dạng Word Document (DOC) bằng thư viện GroupDocs.Conversion mạnh mẽ cho .NET. Giải pháp này rất cần thiết trong quy trình quản lý tài liệu, cho phép tích hợp liền mạch các mẫu dữ liệu phong phú với các tài liệu dạng văn bản.

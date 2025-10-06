@@ -4,8 +4,8 @@
 "title": "Convertir des modèles de projets Microsoft (.MPT) en PDF avec GroupDocs.Conversion pour .NET – Guide complet"
 "url": "/fr/net/pdf-conversion-features/convert-mpt-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des modèles de projet Microsoft (.MPT) en PDF à l'aide de GroupDocs.Conversion pour .NET
 ## Introduction
 Vous avez des difficultés à partager ou archiver vos modèles Microsoft Project ? Les convertir dans un format accessible à tous, comme le PDF, peut être la solution. Dans ce guide complet, nous vous expliquons comment convertir facilement des fichiers MPT en PDF grâce à la puissante bibliothèque GroupDocs.Conversion pour .NET. Ce tutoriel vous aidera à simplifier le partage de documents et à garantir la compatibilité entre différentes plateformes.

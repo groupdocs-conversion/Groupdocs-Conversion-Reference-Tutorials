@@ -4,8 +4,8 @@
 "title": "ODT konvertálása XLS-sé a GroupDocs.Conversion for .NET segítségével – Végső útmutató"
 "url": "/hu/net/spreadsheet-conversion/convert-odt-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # ODT konvertálása XLS-sé a GroupDocs.Conversion for .NET segítségével – Végső útmutató
 
 ## Bevezetés

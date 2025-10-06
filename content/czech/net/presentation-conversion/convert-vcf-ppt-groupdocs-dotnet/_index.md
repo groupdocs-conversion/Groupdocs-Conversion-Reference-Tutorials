@@ -4,8 +4,8 @@
 "title": "Převod VCF na PPT pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/presentation-conversion/convert-vcf-ppt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů VCF do PowerPointu pomocí GroupDocs.Conversion pro .NET
 ## Zavedení
 Prezentace kontaktních informací uložených v souboru VCF může být během schůzek náročná. Převod těchto souborů do formátu PowerPoint (PPT) vylepšuje vizualizaci a sdílení dat. Tato komplexní příručka vás provede převodem souborů VCF do formátu PPT pomocí nástroje GroupDocs.Conversion pro .NET, což vám umožní efektivní prezentační funkce.

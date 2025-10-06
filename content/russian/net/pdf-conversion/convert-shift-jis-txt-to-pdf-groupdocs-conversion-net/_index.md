@@ -4,8 +4,8 @@
 "title": "Конвертируйте текстовые файлы Shift_JIS в PDF с помощью GroupDocs.Conversion .NET"
 "url": "/ru/net/pdf-conversion/convert-shift-jis-txt-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте текстовые файлы Shift_JIS в PDF с помощью GroupDocs.Conversion .NET
 
 ## Введение

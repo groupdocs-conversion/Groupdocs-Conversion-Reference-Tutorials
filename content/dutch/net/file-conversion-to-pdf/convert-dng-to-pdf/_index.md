@@ -5,8 +5,8 @@
 "title": "Converteer DNG-afbeeldingen naar PDF"
 "url": "/nl/net/file-conversion-to-pdf/convert-dng-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # Converteer DNG-afbeeldingen naar PDF
 
 ## Invoering

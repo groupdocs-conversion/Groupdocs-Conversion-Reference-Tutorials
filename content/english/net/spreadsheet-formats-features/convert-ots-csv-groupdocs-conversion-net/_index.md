@@ -8,10 +8,8 @@ keywords:
 - convert OTS to CSV .NET
 - GroupDocs.Conversion .NET
 - OTS file conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert OTS to CSV Using GroupDocs.Conversion for .NET Developers
 
 ## Introduction

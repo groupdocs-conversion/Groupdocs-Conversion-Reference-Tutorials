@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET で出力ディレクトリ パスを設定する方法"
 "url": "/ja/net/document-output-saving/groupdocs-conversion-setup-output-directory-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して出力ディレクトリ パスを設定する方法
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "DWF fájlok konvertálása PowerPoint prezentációkká a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/presentation-formats-features/convert-dwf-to-ppt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # DWF fájlok konvertálása PowerPoint prezentációkká a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Hướng dẫn tối ưu để tải tệp PSD vào .NET bằng GroupDocs.Conversion"
 "url": "/vi/net/loading-from-local-sources/guide-loading-psd-files-dotnet-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Hướng dẫn tối ưu để tải tệp PSD vào .NET bằng GroupDocs.Conversion
 
 ## Giới thiệu

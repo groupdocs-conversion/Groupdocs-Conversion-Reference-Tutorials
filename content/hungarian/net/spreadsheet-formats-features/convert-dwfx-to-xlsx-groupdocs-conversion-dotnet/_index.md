@@ -4,8 +4,8 @@
 "title": "Hatékony DWFX-XLSX konvertálás a GroupDocs.Conversion for .NET segítségével – fejlesztői útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-dwfx-to-xlsx-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony DWFX-XLSX konvertálás a GroupDocs.Conversion for .NET segítségével: Fejlesztői útmutató
 
 ## Bevezetés

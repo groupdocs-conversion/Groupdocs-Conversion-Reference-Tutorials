@@ -5,8 +5,8 @@
 "title": "Konversi Spreadsheet OpenDocument FODS ke PDF"
 "url": "/id/net/convert-files-to-pdf/convert-fods-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Konversi Spreadsheet OpenDocument FODS ke PDF
 
 ## Perkenalan

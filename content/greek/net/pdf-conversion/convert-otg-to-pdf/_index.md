@@ -5,8 +5,8 @@
 "title": "Μετατροπή OTG σε PDF"
 "url": "/el/net/pdf-conversion/convert-otg-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # Μετατροπή OTG σε PDF
 
 ## Εισαγωγή

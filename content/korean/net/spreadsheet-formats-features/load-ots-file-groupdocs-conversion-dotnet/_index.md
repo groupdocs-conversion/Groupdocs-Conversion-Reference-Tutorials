@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 OTS 파일을 로드하고 변환하는 방법"
 "url": "/ko/net/spreadsheet-formats-features/load-ots-file-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 OTS 파일을 로드하고 변환하는 방법
 
 오늘날의 디지털 환경에서 기업과 개발자에게 다양한 문서 형식을 관리하는 것은 필수적입니다. 송장이나 계약서를 처리할 때, 이를 보편적으로 허용되는 형식으로 변환하면 시간과 리소스를 절약할 수 있습니다. 이 튜토리얼에서는 강력한 .NET용 GroupDocs.Conversion 라이브러리를 사용하여 OpenDocument 스프레드시트 텍스트(OTS) 파일을 로드하고 변환하는 방법을 안내합니다.

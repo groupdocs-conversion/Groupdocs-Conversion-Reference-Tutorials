@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET を使用して VSDX ファイルを読み込み、変換する方法"
 "url": "/ja/net/presentation-formats-features/load-vsdx-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET を使用して VSDX ファイルを読み込み、変換する方法
 
 ## 導入

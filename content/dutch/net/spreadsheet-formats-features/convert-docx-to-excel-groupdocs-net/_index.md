@@ -4,8 +4,8 @@
 "title": "DOCX-sjablonen naar Excel converteren met GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/spreadsheet-formats-features/convert-docx-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DOCX-sjablonen naar Excel converteren met GroupDocs.Conversion voor .NET: een uitgebreide handleiding
 
 ## Invoering

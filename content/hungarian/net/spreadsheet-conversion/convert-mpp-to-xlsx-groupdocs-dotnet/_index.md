@@ -4,8 +4,8 @@
 "title": "MPP egyszerű konvertálása XLSX-be a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/spreadsheet-conversion/convert-mpp-to-xlsx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # MPP egyszerű konvertálása XLSX-be a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

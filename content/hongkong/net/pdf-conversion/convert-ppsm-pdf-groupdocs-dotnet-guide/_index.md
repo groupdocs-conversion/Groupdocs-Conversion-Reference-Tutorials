@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中將 PPSM 轉換為 PDF — 逐步指南"
 "url": "/zh-hant/net/pdf-conversion/convert-ppsm-pdf-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 .NET 中將 PPSM 轉換為 PDF：逐步指南
 
 ## 介紹

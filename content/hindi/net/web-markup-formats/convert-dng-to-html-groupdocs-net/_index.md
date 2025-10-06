@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके DNG को HTML में कुशलतापूर्वक परिवर्तित करें"
 "url": "/hi/net/web-markup-formats/convert-dng-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके DNG को HTML में कुशलतापूर्वक परिवर्तित करें
 
 ## परिचय

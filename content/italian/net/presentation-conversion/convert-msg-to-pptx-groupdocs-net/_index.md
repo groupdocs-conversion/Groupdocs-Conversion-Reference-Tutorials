@@ -4,8 +4,8 @@
 "title": "Convertire MSG in PPTX utilizzando GroupDocs.Conversion per .NET&#58; una guida passo passo"
 "url": "/it/net/presentation-conversion/convert-msg-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire i file MSG in PPTX utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

@@ -4,8 +4,8 @@
 "title": "Kommentare in PDF ausblenden&#58; Konvertieren Sie PPT in PDF mit GroupDocs.Conversion für .NET"
 "url": "/de/net/pdf-conversion-features/convert-presentation-pdf-hide-comments-net/"
 "weight": 1
+type: docs
 ---
-
 # Kommentare in PDF ausblenden: Konvertieren Sie PPT in PDF mit GroupDocs.Conversion für .NET
 
 ## Einführung

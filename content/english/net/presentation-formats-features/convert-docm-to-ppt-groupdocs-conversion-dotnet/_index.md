@@ -8,10 +8,8 @@ keywords:
 - convert DOCM to PPT
 - GroupDocs.Conversion for .NET setup
 - document conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert DOCM to PPT Using GroupDocs.Conversion for .NET: A Developer's Guide
 
 ## Introduction

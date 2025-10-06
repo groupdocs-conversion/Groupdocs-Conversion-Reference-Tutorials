@@ -4,8 +4,8 @@
 "title": "كيفية تحميل ملفات EPS وتحويلها باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/loading-from-local-sources/load-eps-groupdocs-conversion-dotnet-tutorial/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحميل ملفات EPS وتحويلها باستخدام GroupDocs.Conversion لـ .NET: دليل خطوة بخطوة
 
 ## مقدمة

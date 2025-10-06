@@ -8,10 +8,8 @@ keywords:
 - Excel XLT conversion
 - GroupDocs.Conversion for .NET setup
 - XLT file handling in .NET
-
+type: docs
 ---
-
-
 # How to Convert Excel XLT Files Efficiently Using GroupDocs.Conversion for .NET
 
 ## Introduction

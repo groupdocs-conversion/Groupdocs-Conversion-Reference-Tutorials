@@ -5,8 +5,8 @@
 "title": "Converteer DOT Word-sjablonen naar PDF"
 "url": "/nl/net/file-conversion-to-pdf/convert-dot-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # Converteer DOT Word-sjablonen naar PDF
 
 ## Invoering

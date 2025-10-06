@@ -4,8 +4,8 @@
 "title": "Menerapkan Lisensi Terukur dengan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/getting-started-licensing/metered-licensing-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Menerapkan Lisensi Terukur dengan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

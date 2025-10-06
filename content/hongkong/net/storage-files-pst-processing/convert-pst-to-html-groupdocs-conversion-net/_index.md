@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 將 PST 轉換為 HTML — 逐步指南"
 "url": "/zh-hant/net/storage-files-pst-processing/convert-pst-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 將 PST 檔案轉換為 HTML：逐步指南
 
 ## 介紹

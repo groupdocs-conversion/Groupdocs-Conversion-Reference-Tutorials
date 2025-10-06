@@ -5,8 +5,8 @@
 "title": "JP2 को PDF में बदलें"
 "url": "/hi/net/document-conversion/convert-jp2-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # JP2 को PDF में बदलें
 
 ## परिचय

@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie VSTM in JPG mithilfe der Schritt-für-Schritt-Anleitung von GroupDocs.Conversion .NET."
 "url": "/de/net/image-conversion/convert-vstm-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie VSTM-Dateien mit GroupDocs.Conversion .NET in JPG
 
 ## Einführung

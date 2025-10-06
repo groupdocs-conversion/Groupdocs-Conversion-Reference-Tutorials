@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion का उपयोग करके OTT को DOC में कनवर्ट करें .NET&#58; Word प्रसंस्करण रूपांतरण के लिए चरण-दर-चरण मार्गदर्शिका"
 "url": "/hi/net/word-processing-conversion/convert-ott-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion का उपयोग करके OTT को DOC में कनवर्ट करें .NET: Word प्रसंस्करण रूपांतरण के लिए चरण-दर-चरण मार्गदर्शिका
 
 ## परिचय

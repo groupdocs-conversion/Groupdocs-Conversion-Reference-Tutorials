@@ -4,8 +4,8 @@
 "title": "E-mails converteren naar PDF in .NET met behulp van GroupDocs.Conversion&#58; een handleiding voor ontwikkelaars"
 "url": "/nl/net/pdf-conversion/convert-email-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converteer e-mails naar PDF in .NET met GroupDocs.Conversion
 
 ## Invoering

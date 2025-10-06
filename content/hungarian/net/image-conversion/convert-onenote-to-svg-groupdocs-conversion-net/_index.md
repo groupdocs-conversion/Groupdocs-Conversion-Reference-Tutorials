@@ -4,8 +4,8 @@
 "title": "Átfogó útmutató a OneNote SVG-vé konvertálásához a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/convert-onenote-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató: OneNote konvertálása SVG-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

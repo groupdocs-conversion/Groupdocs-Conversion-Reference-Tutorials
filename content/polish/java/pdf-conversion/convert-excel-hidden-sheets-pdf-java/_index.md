@@ -4,8 +4,8 @@
 "title": "Jak konwertować pliki Excela z ukrytymi arkuszami do plików PDF za pomocą Java i GroupDocs.Conversion"
 "url": "/pl/java/pdf-conversion/convert-excel-hidden-sheets-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Jak konwertować pliki Excela z ukrytymi arkuszami do plików PDF za pomocą Java i GroupDocs.Conversion
 
 ## Wstęp

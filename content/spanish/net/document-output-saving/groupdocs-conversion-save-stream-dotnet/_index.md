@@ -4,8 +4,8 @@
 "title": "Cómo guardar archivos en streaming con GroupDocs.Conversion en .NET | Guía paso a paso"
 "url": "/es/net/document-output-saving/groupdocs-conversion-save-stream-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cómo implementar GroupDocs.Conversion .NET: guardar un archivo convertido en una secuencia
 
 ## Introducción

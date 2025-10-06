@@ -4,8 +4,8 @@
 "title": "Converti in modo efficiente CMX in PPTX utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/presentation-formats-features/convert-cmx-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converti in modo efficiente CMX in PPTX utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

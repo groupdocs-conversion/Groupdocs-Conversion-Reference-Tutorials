@@ -4,8 +4,8 @@
 "title": "LOG fájlok hatékony konvertálása Word dokumentumokká a .NET GroupDocs.Conversion használatával"
 "url": "/hu/net/word-processing-formats-features/convert-log-files-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # LOG fájlok hatékony konvertálása Word dokumentumokká a .NET GroupDocs.Conversion használatával
 
 ## Bevezetés

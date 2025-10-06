@@ -4,8 +4,8 @@
 "title": "PPSX'i GroupDocs for .NET Kullanarak HTML'ye Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/web-markup-formats/convert-ppsx-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PPSX Dosyalarını GroupDocs.Conversion for .NET Kullanarak HTML'ye Nasıl Dönüştürebilirsiniz
 
 ## giriiş

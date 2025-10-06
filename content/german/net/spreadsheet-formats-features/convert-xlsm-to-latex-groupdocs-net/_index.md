@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie XLSM einfach in LaTeX mit GroupDocs.Conversion für .NET"
 "url": "/de/net/spreadsheet-formats-features/convert-xlsm-to-latex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie XLSM einfach in LaTeX mit GroupDocs.Conversion für .NET
 
 ## Einführung

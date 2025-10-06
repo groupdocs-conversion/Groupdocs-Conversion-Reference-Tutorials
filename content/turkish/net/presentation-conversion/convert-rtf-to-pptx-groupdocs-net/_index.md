@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak RTF'nin PPTX'e Nasıl Dönüştürüleceği Adım Adım Kılavuz"
 "url": "/tr/net/presentation-conversion/convert-rtf-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak RTF'nin PPTX'e Dönüştürülmesi: Adım Adım Kılavuz
 
 ## giriiş

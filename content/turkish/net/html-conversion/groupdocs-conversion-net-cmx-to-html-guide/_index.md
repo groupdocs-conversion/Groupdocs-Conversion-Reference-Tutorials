@@ -4,8 +4,8 @@
 "title": "Kapsamlı Kılavuz&#58; Sorunsuz Belge İş Akışı Entegrasyonu için GroupDocs.Conversion .NET Kullanarak CMX'i HTML'ye Dönüştürme"
 "url": "/tr/net/html-conversion/groupdocs-conversion-net-cmx-to-html-guide/"
 "weight": 1
+type: docs
 ---
-
 # Kapsamlı Kılavuz: GroupDocs.Conversion .NET Kullanarak CMX'i HTML'ye Dönüştürme
 
 ## giriiş

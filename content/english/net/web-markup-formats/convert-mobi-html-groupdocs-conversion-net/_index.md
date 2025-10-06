@@ -8,10 +8,8 @@ keywords:
 - convert MOBI to HTML
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Convert MOBI Files to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

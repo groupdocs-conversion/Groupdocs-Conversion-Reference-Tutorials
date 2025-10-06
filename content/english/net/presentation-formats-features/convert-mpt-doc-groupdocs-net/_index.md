@@ -8,10 +8,8 @@ keywords:
 - convert MPT to DOC
 - GroupDocs.Conversion .NET
 - Microsoft Project Template conversion
-
+type: docs
 ---
-
-
 # Convert MPT Files to DOC with GroupDocs.Conversion .NET
 
 ## Introduction

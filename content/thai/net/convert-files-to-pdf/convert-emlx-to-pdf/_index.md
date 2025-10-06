@@ -5,8 +5,8 @@
 "title": "แปลงข้อความอีเมล EMLX Apple Mail เป็น PDF"
 "url": "/th/net/convert-files-to-pdf/convert-emlx-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # แปลงข้อความอีเมล EMLX Apple Mail เป็น PDF
 
 ## การแนะนำ

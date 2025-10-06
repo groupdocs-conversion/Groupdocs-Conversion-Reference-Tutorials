@@ -5,8 +5,8 @@
 "title": "将 EMZ 增强型图元文件转换为 PDF"
 "url": "/zh/net/convert-files-to-pdf/convert-emz-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # 将 EMZ 增强型图元文件转换为 PDF
 
 ## 介绍

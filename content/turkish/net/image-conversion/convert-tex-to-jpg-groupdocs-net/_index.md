@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak LaTeX'i (TEX) JPG'ye Verimli Şekilde Dönüştürün"
 "url": "/tr/net/image-conversion/convert-tex-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak LaTeX'i (TEX) JPG'ye Verimli Şekilde Dönüştürün
 
 ## giriiş

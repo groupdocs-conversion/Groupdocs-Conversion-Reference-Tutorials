@@ -8,10 +8,8 @@ keywords:
 - convert VSD to PNG .NET
 - GroupDocs.Conversion for .NET guide
 - VSD file conversion tutorial
-
+type: docs
 ---
-
-
 # Convert VSD to PNG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

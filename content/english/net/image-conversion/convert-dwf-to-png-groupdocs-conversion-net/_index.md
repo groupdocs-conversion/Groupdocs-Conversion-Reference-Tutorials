@@ -8,10 +8,8 @@ keywords:
 - convert DWF to PNG
 - GroupDocs.Conversion .NET
 - image conversion in C#
-
+type: docs
 ---
-
-
 # Convert DWF to PNG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

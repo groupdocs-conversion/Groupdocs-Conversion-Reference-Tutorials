@@ -8,10 +8,8 @@ keywords:
 - load EPUB file
 - GroupDocs.Conversion for .NET
 - convert eBook files
-
+type: docs
 ---
-
-
 # How to Load an EPUB File Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

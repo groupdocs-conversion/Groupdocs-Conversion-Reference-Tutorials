@@ -4,8 +4,8 @@
 "title": "Πώς να μετατρέψετε έγγραφα Word που προστατεύονται με κωδικό πρόσβασης σε υπολογιστικά φύλλα Excel χρησιμοποιώντας το GroupDocs.Conversion για Java"
 "url": "/el/java/spreadsheet-formats/convert-password-docs-to-spreadsheets-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε έγγραφα που προστατεύονται με κωδικό πρόσβασης χρησιμοποιώντας το GroupDocs.Conversion για Java
 
 ## Εισαγωγή

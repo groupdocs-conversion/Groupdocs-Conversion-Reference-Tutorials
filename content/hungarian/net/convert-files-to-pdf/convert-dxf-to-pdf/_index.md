@@ -5,8 +5,8 @@
 "title": "DXF CAD rajzcsere fájlok konvertálása PDF-be"
 "url": "/hu/net/convert-files-to-pdf/convert-dxf-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # DXF CAD rajzcsere fájlok konvertálása PDF-be
 
 ## Bevezetés

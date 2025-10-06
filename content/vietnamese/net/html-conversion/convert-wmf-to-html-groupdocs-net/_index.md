@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi tệp WMF sang HTML bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/html-conversion/convert-wmf-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp WMF sang HTML bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

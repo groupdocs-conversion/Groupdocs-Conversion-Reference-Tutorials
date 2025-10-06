@@ -4,8 +4,8 @@
 "title": "Konversi TEX ke PDF yang Efisien Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/pdf-conversion/convert-tex-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konversi TEX ke PDF yang Efisien Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

@@ -4,8 +4,8 @@
 "title": "Konversi EPS ke DOC Menggunakan GroupDocs.Conversion di .NET | Panduan Langkah demi Langkah"
 "url": "/id/net/word-processing-conversion/convert-eps-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi EPS ke DOC Menggunakan GroupDocs.Conversion dalam .NET: Panduan Langkah demi Langkah
 
 ## Perkenalan

@@ -4,8 +4,8 @@
 "title": "Converteer PPT-dia's naar Excel, Mastering GroupDocs.Conversion voor .NET"
 "url": "/nl/net/presentation-conversion/convert-ppt-slides-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer PPT-dia's naar Excel met GroupDocs.Conversion voor .NET
 
 ## Invoering

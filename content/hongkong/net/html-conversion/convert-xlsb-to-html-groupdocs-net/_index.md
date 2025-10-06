@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 將 XLSB 轉換為 HTML — 逐步指南"
 "url": "/zh-hant/net/html-conversion/convert-xlsb-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 將 XLSB 轉換為 HTML
 
 ## 介紹

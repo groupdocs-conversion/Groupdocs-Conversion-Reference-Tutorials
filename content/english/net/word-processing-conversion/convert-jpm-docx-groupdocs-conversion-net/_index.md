@@ -8,10 +8,8 @@ keywords:
 - convert JPM to DOCX
 - GroupDocs.Conversion .NET
 - file conversion
-
+type: docs
 ---
-
-
 # Convert JPM to DOCX Easily: Using GroupDocs.Conversion .NET for Seamless File Conversion
 
 ## Introduction

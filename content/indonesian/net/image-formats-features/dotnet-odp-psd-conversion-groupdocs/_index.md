@@ -4,8 +4,8 @@
 "title": "Konversi .NET ODP ke PSD&#58; Menguasai GroupDocs.Conversion untuk .NET"
 "url": "/id/net/image-formats-features/dotnet-odp-psd-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Konversi .NET ODP ke PSD: Menguasai GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

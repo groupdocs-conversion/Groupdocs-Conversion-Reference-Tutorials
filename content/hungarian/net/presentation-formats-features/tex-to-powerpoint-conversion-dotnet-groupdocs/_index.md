@@ -4,8 +4,8 @@
 "title": "LaTeX PowerPoint-ba konvertálás automatizálása .NET és GroupDocs.Conversion használatával"
 "url": "/hu/net/presentation-formats-features/tex-to-powerpoint-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # LaTeX PowerPoint-ba konvertálás automatizálása .NET és GroupDocs.Conversion használatával
 ## Bevezetés
 Elege van abból, hogy manuálisan kell LaTeX dokumentumait PowerPoint diákká konvertálnia? Ez az oktatóanyag bemutatja, hogyan automatizálhatja a folyamatot a GroupDocs.Conversion for .NET segítségével, így időt és energiát takaríthat meg. A lépésről lépésre haladó útmutató követésével megtanulhatja, hogyan alakíthatja át zökkenőmentesen a TEX fájlokat PPT formátumba.

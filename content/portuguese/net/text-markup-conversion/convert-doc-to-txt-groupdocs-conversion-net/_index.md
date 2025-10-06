@@ -4,8 +4,8 @@
 "title": "Como converter DOC para TXT usando GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/text-markup-conversion/convert-doc-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter DOC para TXT usando o GroupDocs.Conversion para .NET: um guia completo
 
 ## Introdução

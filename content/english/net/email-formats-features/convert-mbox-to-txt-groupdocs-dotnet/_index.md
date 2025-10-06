@@ -8,10 +8,8 @@ keywords:
 - convert MBOX to TXT
 - email archive conversion
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # How to Convert MBOX Files to TXT Using GroupDocs.Conversion for .NET
 
 ## Introduction

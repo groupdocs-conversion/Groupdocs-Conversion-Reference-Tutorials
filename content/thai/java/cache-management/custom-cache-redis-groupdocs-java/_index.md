@@ -4,8 +4,8 @@
 "title": "วิธีการใช้ Custom Caching ใน Java โดยใช้ Redis และ GroupDocs.Conversion"
 "url": "/th/java/cache-management/custom-cache-redis-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการใช้ Custom Caching ใน Java โดยใช้ Redis และ GroupDocs.Conversion
 
 ## การแนะนำ

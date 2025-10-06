@@ -3,8 +3,8 @@
 "title": "Tutorial sul caricamento di documenti da Cloud Storage per GroupDocs.Conversion .NET"
 "url": "/it/net/loading-from-cloud-storage/"
 "weight": 4
+type: docs
 ---
-
 # Tutorial sul caricamento di documenti da Cloud Storage per GroupDocs.Conversion .NET
 
 nostri tutorial sull'archiviazione cloud mostrano come integrare GroupDocs.Conversion con le piattaforme di archiviazione cloud più diffuse nelle applicazioni .NET. Queste guide dettagliate illustrano la connessione ai bucket Amazon S3, l'accesso ai container di Azure Blob Storage, la configurazione delle credenziali appropriate, la gestione delle impostazioni specifiche per regione, la gestione del pool di connessioni e l'implementazione della logica di ripetizione dei tentativi per le operazioni cloud. Ogni tutorial include esempi pratici di codice C# per scenari di recupero di documenti cloud, aiutandoti a creare applicazioni affidabili che sfruttano i repository di documenti basati sul cloud nei tuoi flussi di lavoro di conversione.

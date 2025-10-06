@@ -4,8 +4,8 @@
 "title": "OTG konvertálása SVG-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-otg-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OTG fájlok SVG-vé konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

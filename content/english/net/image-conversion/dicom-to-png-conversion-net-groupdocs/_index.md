@@ -8,10 +8,8 @@ keywords:
 - Convert DICOM to PNG in .NET
 - GroupDocs.Conversion for .NET
 - .NET image conversion
-
+type: docs
 ---
-
-
 # How to Convert DICOM to PNG in .NET Using GroupDocs.Conversion
 
 ## Introduction

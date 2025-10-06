@@ -4,8 +4,8 @@
 "title": "วิธีการแปลงอีเมลเป็น PDF พร้อมการชดเชยโซนเวลาใน Java โดยใช้ GroupDocs.Conversion"
 "url": "/th/java/email-formats/email-to-pdf-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการแปลงอีเมลเป็น PDF พร้อมการชดเชยโซนเวลาใน Java โดยใช้ GroupDocs.Conversion
 
 ## การแนะนำ

@@ -5,8 +5,8 @@
 "title": "將 DOC Word 文件轉換為 PDF"
 "url": "/zh-hant/net/file-conversion-to-pdf/convert-doc-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # 將 DOC Word 文件轉換為 PDF
 
 ## 介紹

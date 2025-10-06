@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 将受密码保护的 Word 文档转换为 HTML"
 "url": "/zh/net/html-conversion/convert-password-word-docs-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 将受密码保护的 Word 文档转换为 HTML
 
 ## 介绍

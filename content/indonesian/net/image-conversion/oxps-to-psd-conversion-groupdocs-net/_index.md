@@ -4,8 +4,8 @@
 "title": "Konversi OXPS ke PSD Menggunakan GroupDocs.Conversion .NET&#58; Panduan Lengkap untuk Konversi Gambar"
 "url": "/id/net/image-conversion/oxps-to-psd-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi OXPS ke PSD Menggunakan GroupDocs.Conversion .NET: Panduan Lengkap untuk Konversi Gambar
 
 ## Perkenalan

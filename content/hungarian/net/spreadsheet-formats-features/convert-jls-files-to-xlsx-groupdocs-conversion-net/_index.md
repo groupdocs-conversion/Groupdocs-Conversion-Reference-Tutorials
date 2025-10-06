@@ -4,8 +4,8 @@
 "title": "JLS fájlok XLSX formátumba konvertálása a GroupDocs.Conversion for .NET segítségével | Lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-jls-files-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # JLS fájlok XLSX formátumra konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

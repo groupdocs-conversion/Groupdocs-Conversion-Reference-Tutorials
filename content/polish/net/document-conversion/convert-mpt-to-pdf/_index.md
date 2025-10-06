@@ -5,8 +5,8 @@
 "title": "Konwertuj MPT do PDF"
 "url": "/pl/net/document-conversion/convert-mpt-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Konwertuj MPT do PDF
 
 ## Wstęp

@@ -5,8 +5,8 @@
 "title": "Dosya Biçimi Dönüştürme"
 "url": "/tr/net/file-format-conversion-tutorials/"
 "weight": 21
+type: docs
 ---
-
 # Dosya Biçimi Dönüştürme
 
 ## giriiş

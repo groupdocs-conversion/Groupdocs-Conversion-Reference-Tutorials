@@ -4,8 +4,8 @@
 "title": "Konwersja MHT do PNG przy użyciu GroupDocs.Conversion dla .NET&#58; Kompleksowy przewodnik"
 "url": "/pl/net/image-conversion/convert-mht-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja MHT do PNG przy użyciu GroupDocs.Conversion dla .NET: kompleksowy przewodnik
 
 ## Wstęp

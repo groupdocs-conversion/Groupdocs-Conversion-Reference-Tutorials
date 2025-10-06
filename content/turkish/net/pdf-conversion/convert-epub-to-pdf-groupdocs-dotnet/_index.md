@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion'ı Kullanarak EPUB'ı PDF'ye Dönüştürmek İçin Kapsamlı Kılavuz"
 "url": "/tr/net/pdf-conversion/convert-epub-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak EPUB'ı PDF'ye Dönüştürmek İçin Kapsamlı Kılavuz
 
 ## giriiş

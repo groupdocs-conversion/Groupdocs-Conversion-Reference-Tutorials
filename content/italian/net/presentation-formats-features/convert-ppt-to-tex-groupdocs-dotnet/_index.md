@@ -4,8 +4,8 @@
 "title": "Convertire PPT in TeX con GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/presentation-formats-features/convert-ppt-to-tex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire le presentazioni di PowerPoint (PPT) in TeX utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

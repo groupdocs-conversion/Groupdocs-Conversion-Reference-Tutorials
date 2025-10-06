@@ -4,8 +4,8 @@
 "title": "Konwertuj określony zakres stron do pliku PDF za pomocą interfejsu API GroupDocs.Conversion Java"
 "url": "/pl/java/pdf-conversion/groupdocs-conversion-java-page-range-pdf/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj określony zakres stron do pliku PDF za pomocą interfejsu API GroupDocs.Conversion Java
 
 dzisiejszej erze cyfrowej efektywne zarządzanie dokumentami jest kluczowe zarówno dla firm, jak i osób prywatnych. Konwersja określonych sekcji raportu do przenośnego formatu, takiego jak PDF, może zaoszczędzić czas i zasoby. Ten samouczek przeprowadzi Cię przez korzystanie z **GroupDocs.Conversion Java** aby przekonwertować określony zakres stron z dowolnego dokumentu do pliku PDF. Na koniec będziesz mieć wszystkie umiejętności potrzebne do wdrożenia tej potężnej funkcji w swoich projektach.

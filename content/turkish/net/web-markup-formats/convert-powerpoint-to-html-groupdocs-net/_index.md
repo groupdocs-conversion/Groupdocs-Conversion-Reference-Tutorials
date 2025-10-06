@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak PowerPoint Sunumları HTML'ye Nasıl Dönüştürülür"
 "url": "/tr/net/web-markup-formats/convert-powerpoint-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak PowerPoint Sunumları HTML'ye Nasıl Dönüştürülür
 
 ## giriiş

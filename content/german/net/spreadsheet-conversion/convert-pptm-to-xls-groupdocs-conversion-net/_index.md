@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie PPTM in XLS mit GroupDocs.Conversion für .NET – Eine Schritt-für-Schritt-Anleitung"
 "url": "/de/net/spreadsheet-conversion/convert-pptm-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie PPTM in XLS mit GroupDocs.Conversion für .NET
 ## Einführung
 Die Konvertierung von PowerPoint-Präsentationen (PPTM-Dateien) in Excel-Tabellen (XLS-Format) kann für die Datenanalyse oder die Wiederverwendung von Inhalten unerlässlich sein. GroupDocs.Conversion für .NET vereinfacht diesen Prozess und macht ihn auch für Programmieranfänger zugänglich.

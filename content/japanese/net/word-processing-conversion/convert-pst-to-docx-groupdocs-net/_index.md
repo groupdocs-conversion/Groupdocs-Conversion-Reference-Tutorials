@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して Outlook PST を DOCX に変換する – ステップバイステップガイド"
 "url": "/ja/net/word-processing-conversion/convert-pst-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して Outlook PST を DOCX に変換する
 
 ## 導入

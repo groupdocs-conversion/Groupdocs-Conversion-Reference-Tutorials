@@ -8,10 +8,8 @@ keywords:
 - retrieve personal storage information Outlook OST
 - GroupDocs.Conversion .NET email archiving
 - Outlook OST file processing
-
+type: docs
 ---
-
-
 # How to Retrieve Personal Storage Information from Outlook OST Files Using GroupDocs.Conversion for .NET
 
 ## Introduction

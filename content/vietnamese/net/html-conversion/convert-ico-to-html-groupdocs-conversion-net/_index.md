@@ -4,8 +4,8 @@
 "title": "Chuyển đổi ICO sang HTML bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/html-conversion/convert-ico-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp ICO sang HTML bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

@@ -8,10 +8,8 @@ keywords:
 - convert HTML to CSV
 - GroupDocs.Conversion for .NET
 - data conversion in C#
-
+type: docs
 ---
-
-
 # Convert HTML to CSV Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

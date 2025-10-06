@@ -4,8 +4,8 @@
 "title": "Comment convertir des fichiers AI en PSD avec GroupDocs.Conversion pour .NET"
 "url": "/fr/net/image-conversion/convert-ai-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir des fichiers AI en PSD avec GroupDocs.Conversion pour .NET
 
 ## Introduction

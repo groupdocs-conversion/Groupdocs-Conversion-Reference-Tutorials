@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή PowerPoint χρησιμοποιώντας το GroupDocs.Conversion για .NET για μετατροπή PPT σε PPTX"
 "url": "/el/net/presentation-formats-features/convert-ppt-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική μετατροπή PowerPoint: Χρήση του GroupDocs.Conversion για .NET για μετατροπή PPT σε PPTX
 
 ## Εισαγωγή

@@ -5,8 +5,8 @@
 "title": "TIFFをPDFに変換する"
 "url": "/ja/net/file-format-conversion-tutorials/convert-tiff-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # TIFFをPDFに変換する
 
 ## 導入

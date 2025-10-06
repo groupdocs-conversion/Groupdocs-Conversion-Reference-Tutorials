@@ -8,10 +8,8 @@ keywords:
 - convert XLS to CSV GroupDocs.Conversion .NET
 - GroupDocs.Conversion .NET library
 - XLS to CSV conversion C#
-
+type: docs
 ---
-
-
 # How to Convert XLS to CSV Using GroupDocs.Conversion for .NET
 
 ## Introduction

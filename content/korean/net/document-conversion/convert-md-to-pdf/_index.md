@@ -5,8 +5,8 @@
 "title": "MD를 PDF로 변환"
 "url": "/ko/net/document-conversion/convert-md-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # MD를 PDF로 변환
 
 ## 소개

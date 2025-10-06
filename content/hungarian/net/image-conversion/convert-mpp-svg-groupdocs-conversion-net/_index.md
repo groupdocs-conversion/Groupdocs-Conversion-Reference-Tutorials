@@ -4,8 +4,8 @@
 "title": "MPP hatékony SVG-vé konvertálása a GroupDocs.Conversion .NET használatával"
 "url": "/hu/net/image-conversion/convert-mpp-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MPP hatékony SVG-vé konvertálása a GroupDocs.Conversion .NET használatával
 
 mai gyorsan változó digitális környezetben a hatékony fájlkonvertálás kulcsfontosságú. Akár informatikai projekteket kezel, akár összetett rendszereket fejleszt, a Microsoft Project (MPP) fájlok skálázható vektorgrafikává (SVG) konvertálása javítja az akadálymentességet és a vizuális megjelenítést. Ez az oktatóanyag a GroupDocs.Conversion for .NET szolgáltatást használja a folyamat egyszerűsítésére.

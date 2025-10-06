@@ -8,10 +8,8 @@ keywords:
 - DOC to JPG conversion
 - GroupDocs.Conversion .NET
 - .NET document conversion
-
+type: docs
 ---
-
-
 # Efficient DOC to JPG Conversion Using GroupDocs.Conversion .NET: A Step-by-Step Guide
 
 ## Introduction

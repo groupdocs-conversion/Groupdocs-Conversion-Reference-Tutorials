@@ -4,8 +4,8 @@
 "title": "Hur man konverterar JPEG till JPG med GroupDocs.Conversion för .NET (steg-för-steg-guide)"
 "url": "/sv/net/image-conversion/convert-jpeg-to-jpg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar JPEG till JPG med GroupDocs.Conversion för .NET
 
 ## Introduktion

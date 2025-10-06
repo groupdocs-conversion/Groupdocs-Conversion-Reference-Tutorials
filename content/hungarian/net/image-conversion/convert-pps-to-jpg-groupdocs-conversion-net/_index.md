@@ -4,8 +4,8 @@
 "title": "Hogyan konvertáljunk PPS-t JPG-vé a GroupDocs.Conversion for .NET használatával? Lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-pps-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PPS JPG formátumba konvertálása a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

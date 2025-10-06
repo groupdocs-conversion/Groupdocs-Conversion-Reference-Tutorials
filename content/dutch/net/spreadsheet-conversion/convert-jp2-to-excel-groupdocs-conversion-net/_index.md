@@ -4,8 +4,8 @@
 "title": "Converteer JP2 naar Excel met GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/spreadsheet-conversion/convert-jp2-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer JP2-bestanden naar Excel met GroupDocs.Conversion voor .NET: een uitgebreide handleiding
 
 ## Invoering

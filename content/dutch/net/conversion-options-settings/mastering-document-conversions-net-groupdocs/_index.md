@@ -4,8 +4,8 @@
 "title": "Hoofddocumentconversies in .NET met behulp van GroupDocs.Conversion&#58; een uitgebreide handleiding"
 "url": "/nl/net/conversion-options-settings/mastering-document-conversions-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Hoofddocumentconversies in .NET met behulp van GroupDocs.Conversion
 ## Invoering
 Heb je moeite met het converteren van documenten in je .NET-applicaties? Je bent niet de enige. Veel ontwikkelaars vinden het een uitdaging om efficiënt te bepalen naar welke formaten een document geconverteerd kan worden. **GroupDocs.Conversion voor .NET** biedt naadloze integratie en robuuste functionaliteit, waardoor het een essentieel hulpmiddel is voor het verbeteren van de mogelijkheden van applicaties.

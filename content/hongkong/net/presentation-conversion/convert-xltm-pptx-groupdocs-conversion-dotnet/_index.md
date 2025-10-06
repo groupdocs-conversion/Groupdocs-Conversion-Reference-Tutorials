@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 將 XLTM 轉換為 PPTX | 逐步指南"
 "url": "/zh-hant/net/presentation-conversion/convert-xltm-pptx-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將 XLTM 檔案轉換為 PPTX
 
 ## 介紹

@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi File EMLX ke PowerPoint Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/presentation-formats-features/convert-emlx-to-powerpoint-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi File EMLX ke Presentasi PowerPoint Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

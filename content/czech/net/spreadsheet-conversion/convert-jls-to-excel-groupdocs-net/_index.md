@@ -4,8 +4,8 @@
 "title": "Efektivní převod JLS do Excelu pomocí GroupDocs pro .NET"
 "url": "/cs/net/spreadsheet-conversion/convert-jls-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod bezztrátových obrazových souborů JPEG (JLS) do excelových tabulek pomocí nástroje GroupDocs.Conversion pro .NET
 
 ## Zavedení

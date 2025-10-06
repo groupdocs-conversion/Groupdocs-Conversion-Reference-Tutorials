@@ -5,8 +5,8 @@
 "title": "ODT konvertálása PDF-be"
 "url": "/hu/net/pdf-conversion/convert-odt-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # ODT konvertálása PDF-be
 
 ## Bevezetés

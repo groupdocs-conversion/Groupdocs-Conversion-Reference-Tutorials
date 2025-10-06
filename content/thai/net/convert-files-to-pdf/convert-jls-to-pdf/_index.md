@@ -5,8 +5,8 @@
 "title": "แปลงไฟล์ JPEG-LS (.JLS) เป็น PDF"
 "url": "/th/net/convert-files-to-pdf/convert-jls-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # แปลงไฟล์ JPEG-LS (.JLS) เป็น PDF
 
 ## การแนะนำ

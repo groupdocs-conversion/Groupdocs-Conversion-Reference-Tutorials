@@ -4,8 +4,8 @@
 "title": "Converteer VTX efficiënt naar PPTX met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/presentation-formats-features/convert-vtx-to-pptx-using-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer VTX efficiënt naar PPTX met GroupDocs.Conversion voor .NET
 
 ## Invoering

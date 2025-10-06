@@ -4,8 +4,8 @@
 "title": "วิธีการดึงข้อมูลเมตาของ PDF ด้วย GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/pdf-conversion-features/pdf-metadata-retrieval-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการดึงข้อมูลเมตาของ PDF ด้วย GroupDocs.Conversion สำหรับ .NET
 
 เบื่อกับการค้นหาข้อมูลจากเอกสาร PDF ด้วยตนเองหรือไม่? ใช้ GroupDocs.Conversion สำหรับ .NET เพื่อจัดการงานโดยอัตโนมัติ และค้นหารายละเอียดสำคัญ เช่น ผู้แต่ง วันที่สร้าง จำนวนหน้า ขนาด และอื่นๆ

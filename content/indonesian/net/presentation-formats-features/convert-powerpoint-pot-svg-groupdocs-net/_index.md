@@ -4,8 +4,8 @@
 "title": "Konversi Template PowerPoint (.pot) ke SVG dengan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/presentation-formats-features/convert-powerpoint-pot-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi Template PowerPoint (.pot) ke SVG dengan GroupDocs.Conversion untuk .NET
 ## Perkenalan
 Apakah Anda mencari cara yang efisien untuk mengubah templat PowerPoint menjadi grafik vektor yang dapat diskalakan? Apakah Anda seorang pengembang yang ingin meningkatkan pemrosesan dokumen atau perlu mengonversi file POT agar kompatibel dengan web, tutorial ini akan memandu Anda melalui proses menggunakan GroupDocs.Conversion for .NET. Dengan mengikuti langkah-langkah ini, Anda dapat menyederhanakan alur kerja dan menghasilkan output SVG berkualitas tinggi dari templat PowerPoint.

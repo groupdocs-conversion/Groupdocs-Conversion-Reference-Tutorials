@@ -4,8 +4,8 @@
 "title": "Эффективное преобразование файлов OTP в TXT с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/text-file-processing/groupdocs-conversion-convert-otp-txt-net/"
 "weight": 1
+type: docs
 ---
-
 # Мастерство преобразования файлов: конвертируйте OTP в TXT с помощью GroupDocs.Conversion для .NET
 
 ## Введение

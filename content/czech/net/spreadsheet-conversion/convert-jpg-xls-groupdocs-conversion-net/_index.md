@@ -4,8 +4,8 @@
 "title": "Převod JPG do XLS pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/spreadsheet-conversion/convert-jpg-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést JPG do XLS pomocí GroupDocs.Conversion pro .NET: Komplexní průvodce
 
 ## Zavedení

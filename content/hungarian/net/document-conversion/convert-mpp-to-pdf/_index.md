@@ -5,8 +5,8 @@
 "title": "MPP konvertálása PDF-be"
 "url": "/hu/net/document-conversion/convert-mpp-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # MPP konvertálása PDF-be
 
 ## Bevezetés

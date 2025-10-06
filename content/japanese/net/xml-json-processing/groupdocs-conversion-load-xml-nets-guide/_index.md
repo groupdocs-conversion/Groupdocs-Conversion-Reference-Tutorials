@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用した効率的な XML ファイルの読み込みと変換 - ステップバイステップガイド"
 "url": "/ja/net/xml-json-processing/groupdocs-conversion-load-xml-nets-guide/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して XML ファイルを効率的に読み込み、変換する: ステップバイステップ ガイド
 
 ## 導入

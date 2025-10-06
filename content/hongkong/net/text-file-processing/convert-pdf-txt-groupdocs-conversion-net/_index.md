@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 PDF 轉換為 TXT 的綜合指南"
 "url": "/zh-hant/net/text-file-processing/convert-pdf-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 PDF 轉換為 TXT
 
 ## 介紹

@@ -9,10 +9,8 @@ keywords:
 - TIFF Image
 - Custom Dimensions
 - GroupDocs.Conversion Java
-
+type: docs
 ---
-
-
 # Convert CAD to TIFF with Custom Dimensions Using GroupDocs.Conversion Java: A Comprehensive Guide
 
 ## Introduction

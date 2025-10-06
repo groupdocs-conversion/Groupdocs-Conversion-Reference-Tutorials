@@ -8,10 +8,8 @@ keywords:
 - add watermark to DOCX
 - convert DOCX to PDF using GroupDocs
 - GroupDocs.Conversion for Java
-
+type: docs
 ---
-
-
 # How to Add a Watermark to Your Document Using GroupDocs.Conversion for Java
 
 In today's digital world, protecting your documents from unauthorized use is crucial. Whether you're sharing sensitive information or simply want to brand your documents, adding a watermark can be an effective solution. In this tutorial, we’ll guide you through the process of using **GroupDocs.Conversion for Java** to add a watermark when converting a DOCX file to PDF.

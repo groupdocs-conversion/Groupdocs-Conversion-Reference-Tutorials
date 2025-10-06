@@ -4,8 +4,8 @@
 "title": "إتقان تحويل النص إلى عرض تقديمي باستخدام GroupDocs في .NET - دليل شامل"
 "url": "/ar/net/presentation-conversion/groupdocs-net-text-ppt-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # إتقان تحويل النص إلى عرض تقديمي باستخدام GroupDocs في .NET
 
 ## مقدمة

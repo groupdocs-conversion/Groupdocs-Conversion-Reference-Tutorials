@@ -4,8 +4,8 @@
 "title": "Автоматизируйте преобразование DOCX в TEX с помощью GroupDocs.Conversion для .NET — простое руководство"
 "url": "/ru/net/word-processing-formats-features/automate-docx-to-tex-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Автоматизируйте преобразование DOCX в TEX с помощью GroupDocs для .NET
 
 ## Введение

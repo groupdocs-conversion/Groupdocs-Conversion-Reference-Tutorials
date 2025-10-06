@@ -8,10 +8,8 @@ keywords:
 - convert XLTX to HTML
 - GroupDocs.Conversion .NET
 - XLTX to HTML conversion
-
+type: docs
 ---
-
-
 # Convert XLTX to HTML Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Hatékony PowerPoint szöveggé konvertálás .NET-ben a GroupDocs.Conversion használatával"
 "url": "/hu/net/text-markup-conversion/powerpoint-to-text-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony PowerPoint szöveggé konvertálás .NET-ben a GroupDocs.Conversion használatával
 ## PowerPoint szöveggé konvertálásának elsajátítása a GroupDocs.Conversion for .NET segítségével: Átfogó útmutató
 ### Bevezetés

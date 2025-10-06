@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie DICOM in PNG in .NET mit GroupDocs.Conversion"
 "url": "/de/net/image-conversion/dicom-to-png-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie DICOM in PNG in .NET mit GroupDocs.Conversion
 
 ## Einführung

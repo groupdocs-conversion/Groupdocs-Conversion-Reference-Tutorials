@@ -4,8 +4,8 @@
 "title": "แปลง ODS เป็น XLSX โดยใช้ GroupDocs.Conversion .NET คู่มือฉบับสมบูรณ์"
 "url": "/th/net/spreadsheet-conversion/groupdocs-conversion-ods-to-xlsx-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลง ODS เป็น XLSX โดยใช้ GroupDocs.Conversion .NET: คู่มือฉบับสมบูรณ์
 
 ในสภาพแวดล้อมที่ขับเคลื่อนด้วยข้อมูลในปัจจุบัน การแปลงไฟล์อย่างราบรื่นถือเป็นสิ่งสำคัญ สำหรับนักพัฒนาและมืออาชีพทางธุรกิจที่ทำงานกับสเปรดชีต การแปลง Open Document Spreadsheets (ODS) เป็น Microsoft Excel Open XML Spreadsheets (XLSX) จะช่วยเพิ่มประสิทธิภาพการทำงานได้อย่างมาก คู่มือนี้จะแนะนำคุณเกี่ยวกับการใช้ GroupDocs.Conversion สำหรับ .NET เพื่อดำเนินการแปลงนี้ได้อย่างง่ายดาย

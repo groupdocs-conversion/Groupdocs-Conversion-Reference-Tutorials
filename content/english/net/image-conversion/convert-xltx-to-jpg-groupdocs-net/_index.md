@@ -8,10 +8,8 @@ keywords:
 - convert XLTX to JPG
 - GroupDocs.Conversion for .NET tutorial
 - document conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert XLTX to JPG Using GroupDocs.Conversion for .NET
 
 ## Introduction

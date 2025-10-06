@@ -4,8 +4,8 @@
 "title": "คู่มือครอบคลุมในการแปลง PowerPoint เป็น Excel โดยใช้ GroupDocs.Conversion .NET"
 "url": "/th/net/presentation-conversion/powerpoint-to-excel-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # คู่มือครอบคลุมในการแปลง PowerPoint เป็น Excel โดยใช้ GroupDocs.Conversion .NET
 
 ## การแนะนำ

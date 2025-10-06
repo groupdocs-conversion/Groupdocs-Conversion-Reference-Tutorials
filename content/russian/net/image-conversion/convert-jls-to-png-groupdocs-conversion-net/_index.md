@@ -4,8 +4,8 @@
 "title": "Конвертируйте JLS в PNG с помощью GroupDocs.Conversion для .NET&#58; Пошаговое руководство"
 "url": "/ru/net/image-conversion/convert-jls-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертация JLS в PNG с помощью GroupDocs.Conversion для .NET: пошаговое руководство
 
 ## Введение

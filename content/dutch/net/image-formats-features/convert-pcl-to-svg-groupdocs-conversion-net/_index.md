@@ -4,8 +4,8 @@
 "title": "Converteer PCL naar SVG met GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/image-formats-features/convert-pcl-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PCL naar SVG converteren met GroupDocs.Conversion voor .NET: een uitgebreide handleiding
 
 ## Invoering

@@ -4,8 +4,8 @@
 "title": "Μετατροπή XML σε PDF χρησιμοποιώντας το GroupDocs.Conversion για .NET™ Ένας πλήρης οδηγός"
 "url": "/el/net/pdf-conversion/convert-xml-pdf-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή XML σε PDF με το GroupDocs.Conversion για .NET: Πλήρης οδηγός
 
 ## Εισαγωγή

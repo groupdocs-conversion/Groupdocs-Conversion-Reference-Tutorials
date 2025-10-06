@@ -4,8 +4,8 @@
 "title": "Konwersja DOTX do TEX przy użyciu GroupDocs.Conversion dla .NET&#58; Kompleksowy przewodnik"
 "url": "/pl/net/text-markup-conversion/convert-dotx-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja DOTX do TEX przy użyciu GroupDocs.Conversion dla .NET
 
 ## Wstęp

@@ -4,8 +4,8 @@
 "title": "Convertir le balisage en Word avec numérotation des pages à l'aide de GroupDocs.Conversion pour .NET"
 "url": "/fr/net/word-processing-formats-features/groupdocs-conversion-markup-to-word-page-numbering/"
 "weight": 1
+type: docs
 ---
-
 # Convertir le balisage en Word avec numérotation des pages à l'aide de GroupDocs.Conversion pour .NET
 ## Introduction
 Vous souhaitez convertir des documents balisés au format Word professionnel tout en conservant une pagination précise ? Ce tutoriel vous guidera dans l'utilisation de ce logiciel. **GroupDocs.Conversion pour .NET** Pour transformer vos documents en toute transparence. Cette puissante bibliothèque simplifie les conversions et garantit que les éléments essentiels, comme la numérotation des pages, restent intacts dans le document final.

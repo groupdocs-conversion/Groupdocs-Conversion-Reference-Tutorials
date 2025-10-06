@@ -4,8 +4,8 @@
 "title": "Μετατροπή εγγράφων από ροές σε Java χρησιμοποιώντας το GroupDocs.Conversion"
 "url": "/el/java/document-operations/convert-documents-streams-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή εγγράφων από ροές σε Java χρησιμοποιώντας το GroupDocs.Conversion
 
 ## Εισαγωγή

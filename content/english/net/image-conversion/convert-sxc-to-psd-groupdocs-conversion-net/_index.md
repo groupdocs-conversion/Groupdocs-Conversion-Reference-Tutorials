@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion for .NET
 - convert SXC to PSD
 - SXC to PSD conversion
-
+type: docs
 ---
-
-
 # Convert StarOffice Calc Spreadsheets (SXC) to Adobe Photoshop Documents (PSD) with GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Hoe u wachtwoordbeveiligde Word-documenten naar HTML kunt converteren met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/html-conversion/convert-password-word-docs-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hoe u wachtwoordbeveiligde Word-documenten naar HTML kunt converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

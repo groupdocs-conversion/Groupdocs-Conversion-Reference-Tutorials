@@ -5,8 +5,8 @@
 "title": "Convertire MHT in PDF"
 "url": "/it/net/document-conversion/convert-mht-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # Convertire MHT in PDF
 
 ## Introduzione

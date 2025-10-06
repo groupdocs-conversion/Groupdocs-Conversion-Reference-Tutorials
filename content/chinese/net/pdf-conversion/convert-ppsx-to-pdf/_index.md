@@ -5,8 +5,8 @@
 "title": "将PPSX转换为PDF"
 "url": "/zh/net/pdf-conversion/convert-ppsx-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # 将PPSX转换为PDF
 
 ## 介绍

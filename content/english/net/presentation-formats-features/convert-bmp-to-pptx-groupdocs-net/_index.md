@@ -8,10 +8,8 @@ keywords:
 - convert BMP to PPTX
 - GroupDocs.Conversion .NET
 - BMP to PowerPoint
-
+type: docs
 ---
-
-
 # Convert BMP to PPTX Using GroupDocs.Conversion .NET: A Step-by-Step Guide
 
 ## Introduction

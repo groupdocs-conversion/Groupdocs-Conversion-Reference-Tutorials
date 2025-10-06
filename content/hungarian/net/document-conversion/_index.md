@@ -5,8 +5,8 @@
 "title": "Dokumentumkonverzió"
 "url": "/hu/net/document-conversion/"
 "weight": 23
+type: docs
 ---
-
 # Dokumentumkonverzió
 
 ## Bevezetés

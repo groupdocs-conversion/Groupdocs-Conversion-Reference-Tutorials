@@ -4,8 +4,8 @@
 "title": "เพิ่มประสิทธิภาพการแปลงเอกสาร .NET ด้วยการแคชโดยใช้ GroupDocs.Conversion"
 "url": "/th/net/cache-management/optimize-net-document-conversion-caching-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # เพิ่มประสิทธิภาพการแปลงเอกสาร .NET ด้วยการแคชโดยใช้ GroupDocs.Conversion
 
 ## การแนะนำ

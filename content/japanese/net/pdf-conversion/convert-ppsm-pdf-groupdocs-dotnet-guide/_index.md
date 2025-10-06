@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用して .NET で PPSM を PDF に変換する手順"
 "url": "/ja/net/pdf-conversion/convert-ppsm-pdf-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion を使用して .NET で PPSM を PDF に変換する: ステップバイステップ ガイド
 
 ## 導入

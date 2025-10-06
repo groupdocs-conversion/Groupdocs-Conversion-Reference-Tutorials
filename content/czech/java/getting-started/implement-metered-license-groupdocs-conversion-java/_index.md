@@ -4,8 +4,8 @@
 "title": "Implementace měřené licence pro GroupDocs.Conversion v Javě – Komplexní průvodce"
 "url": "/cs/java/getting-started/implement-metered-license-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Implementace měřené licence pro GroupDocs.Conversion v Javě
 
 ## Zavedení

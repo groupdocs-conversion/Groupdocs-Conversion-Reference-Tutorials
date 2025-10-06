@@ -4,8 +4,8 @@
 "title": "Efektivní převod XML do SVG pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/xml-json-processing/xml-to-svg-conversion-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod XML do SVG pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

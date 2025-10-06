@@ -4,8 +4,8 @@
 "title": "Převod CAD rozvržení do PDF v Javě pomocí průvodce selektivní konverzí rozvržení GroupDocs"
 "url": "/cs/java/cad-formats/groupdocs-java-cad-to-pdf-selective-layouts/"
 "weight": 1
+type: docs
 ---
-
 # Převod CAD rozvržení do PDF pomocí GroupDocs.Conversion pro Javu
 ## Zvládnutí selektivní konverze CAD do PDF v Javě
 ### Zavedení

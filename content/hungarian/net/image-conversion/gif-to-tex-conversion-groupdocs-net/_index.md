@@ -4,8 +4,8 @@
 "title": "GIF konvertálása TEX-be a GroupDocs for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-conversion/gif-to-tex-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GIF konvertálása TEX-be GroupDocs for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

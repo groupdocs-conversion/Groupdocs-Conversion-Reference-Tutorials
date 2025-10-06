@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak XLSM'yi XLS'ye Verimli Şekilde Dönüştürün"
 "url": "/tr/net/spreadsheet-formats-features/convert-xlsm-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak XLSM'yi XLS'ye Verimli Şekilde Dönüştürün
 
 ## giriiş

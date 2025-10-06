@@ -4,8 +4,8 @@
 "title": "Chuyển đổi EPS sang XLS hiệu quả bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/spreadsheet-formats-features/eps-to-xls-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi EPS sang XLS hiệu quả bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

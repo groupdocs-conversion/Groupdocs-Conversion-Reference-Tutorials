@@ -5,8 +5,8 @@
 "title": "VSDM'yi PDF'ye dönüştür"
 "url": "/tr/net/file-format-conversion-tutorials/convert-vsdm-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # VSDM'yi PDF'ye dönüştür
 
 ## giriiş

@@ -5,8 +5,8 @@
 "title": "Konversi TEX ke PDF"
 "url": "/id/net/file-format-conversion-tutorials/convert-tex-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # Konversi TEX ke PDF
 
 ## Perkenalan

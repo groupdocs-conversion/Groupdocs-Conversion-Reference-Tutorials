@@ -4,8 +4,8 @@
 "title": "Menguasai GroupDocs.Conversion .NET untuk Email dan Konversi File&#58; Panduan Lengkap"
 "url": "/id/net/email-formats-features/mastering-groupdocs-conversion-net-email-file-convert/"
 "weight": 1
+type: docs
 ---
-
 # Menguasai GroupDocs.Conversion .NET untuk Konversi Email dan File: Panduan Lengkap
 
 ## Perkenalan

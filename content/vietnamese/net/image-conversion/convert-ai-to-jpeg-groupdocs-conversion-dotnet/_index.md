@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi tệp AI sang JPEG bằng GroupDocs.Conversion cho .NET - Hướng dẫn chuyển đổi hình ảnh"
 "url": "/vi/net/image-conversion/convert-ai-to-jpeg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp AI sang JPEG bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

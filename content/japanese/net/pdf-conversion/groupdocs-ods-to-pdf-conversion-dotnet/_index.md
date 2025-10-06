@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して ODS ファイルを PDF に変換する方法 | ステップバイステップガイド"
 "url": "/ja/net/pdf-conversion/groupdocs-ods-to-pdf-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して ODS ファイルを PDF に変換する方法
 
 ## 導入

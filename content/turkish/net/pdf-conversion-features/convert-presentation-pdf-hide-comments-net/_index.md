@@ -4,8 +4,8 @@
 "title": "PDF'deki Yorumları Gizle&#58; PPT'yi GroupDocs.Conversion for .NET ile PDF'ye Dönüştür"
 "url": "/tr/net/pdf-conversion-features/convert-presentation-pdf-hide-comments-net/"
 "weight": 1
+type: docs
 ---
-
 # PDF'deki Yorumları Gizle: PPT'yi .NET için GroupDocs.Conversion ile PDF'ye dönüştürün
 
 ## giriiş

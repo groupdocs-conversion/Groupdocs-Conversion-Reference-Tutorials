@@ -4,8 +4,8 @@
 "title": "Convertir des fichiers VSTM en TXT avec GroupDocs.Conversion pour .NET - Guide étape par étape"
 "url": "/fr/net/text-markup-conversion/convert-vstm-files-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des fichiers VSTM en TXT avec GroupDocs.Conversion pour .NET
 
 ## Introduction

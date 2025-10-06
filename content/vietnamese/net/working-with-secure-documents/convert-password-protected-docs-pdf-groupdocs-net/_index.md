@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tài liệu Word được bảo vệ bằng mật khẩu sang PDF bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/working-with-secure-documents/convert-password-protected-docs-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách tải và chuyển đổi tài liệu Word được bảo vệ bằng mật khẩu sang PDF bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

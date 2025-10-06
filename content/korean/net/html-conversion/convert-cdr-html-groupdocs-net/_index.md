@@ -4,8 +4,8 @@
 "title": ".NET에서 GroupDocs.Conversion을 사용하여 CDR을 HTML로 효율적으로 변환"
 "url": "/ko/net/html-conversion/convert-cdr-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 CDR 파일을 HTML로 변환하는 방법
 
 ## 소개

@@ -4,8 +4,8 @@
 "title": "Convertire VSDX in DOCX in .NET utilizzando la libreria GroupDocs.Conversion"
 "url": "/it/net/word-processing-formats-features/convert-vsdx-docx-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Padroneggiare le conversioni di file in .NET: convertire i file VSDX in DOCX utilizzando GroupDocs.Conversion
 
 ## Introduzione

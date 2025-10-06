@@ -4,8 +4,8 @@
 "title": "OTP-bestanden naar PSD converteren met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/image-conversion/convert-otp-to-psd-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # OTP-bestanden naar PSD converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

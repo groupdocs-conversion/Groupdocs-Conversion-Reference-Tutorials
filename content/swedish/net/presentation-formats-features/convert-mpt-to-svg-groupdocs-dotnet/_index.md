@@ -4,8 +4,8 @@
 "title": "Konvertera MPT till SVG med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/presentation-formats-features/convert-mpt-to-svg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera MPT till SVG med GroupDocs.Conversion för .NET
 
 ## Introduktion

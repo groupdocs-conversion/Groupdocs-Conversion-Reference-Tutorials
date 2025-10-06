@@ -4,8 +4,8 @@
 "title": "Jak převést soubory ODS do PDF pomocí GroupDocs.Conversion pro .NET | Podrobný návod"
 "url": "/cs/net/pdf-conversion/groupdocs-ods-to-pdf-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory ODS do PDF pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

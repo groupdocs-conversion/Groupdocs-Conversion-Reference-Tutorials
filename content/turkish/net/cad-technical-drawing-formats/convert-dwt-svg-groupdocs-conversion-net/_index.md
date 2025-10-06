@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak DWT Dosyaları SVG'ye Nasıl Dönüştürülür - CAD ve Teknik Çizim Dönüştürme Kılavuzu"
 "url": "/tr/net/cad-technical-drawing-formats/convert-dwt-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanılarak DWT Dosyaları SVG'ye Nasıl Dönüştürülür
 
 ## giriiş

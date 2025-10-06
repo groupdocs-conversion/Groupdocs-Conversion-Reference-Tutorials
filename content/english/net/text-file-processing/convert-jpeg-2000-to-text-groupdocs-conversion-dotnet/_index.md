@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Converting JPEG 2000 Files to Text Using GroupDocs.Conversion for .NET
 
 ## Introduction

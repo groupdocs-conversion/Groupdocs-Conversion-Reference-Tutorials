@@ -5,8 +5,8 @@
 "title": "Chuyển đổi CMX sang PDF"
 "url": "/vi/net/file-conversion-to-pdf/convert-cmx-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # Chuyển đổi CMX sang PDF
 
 ## Giới thiệu

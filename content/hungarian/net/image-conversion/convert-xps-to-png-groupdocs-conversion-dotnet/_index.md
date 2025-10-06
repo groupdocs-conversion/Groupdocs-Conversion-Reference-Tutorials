@@ -4,8 +4,8 @@
 "title": "XPS konvertálása PNG-vé a GroupDocs.Conversion for .NET használatával - Egyszerű képkonverziós útmutató"
 "url": "/hu/net/image-conversion/convert-xps-to-png-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # XPS konvertálása PNG-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

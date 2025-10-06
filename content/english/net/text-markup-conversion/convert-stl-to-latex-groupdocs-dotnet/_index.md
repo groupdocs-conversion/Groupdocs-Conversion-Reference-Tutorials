@@ -8,10 +8,8 @@ keywords:
 - STL to LaTeX conversion
 - GroupDocs.Conversion for .NET
 - automate file conversion
-
+type: docs
 ---
-
-
 # Automate STL to LaTeX Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

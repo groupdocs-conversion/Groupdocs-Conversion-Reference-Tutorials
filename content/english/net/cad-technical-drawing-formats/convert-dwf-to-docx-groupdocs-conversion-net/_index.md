@@ -8,10 +8,8 @@ keywords:
 - convert DWF to DOCX .NET
 - GroupDocs.Conversion for .NET setup
 - DWF file conversion
-
+type: docs
 ---
-
-
 # Convert DWF to DOCX using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

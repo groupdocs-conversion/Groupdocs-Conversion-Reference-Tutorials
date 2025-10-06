@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion Java
 - Java file conversion constants
 - constants management in Java
-
+type: docs
 ---
-
-
 # Mastering Constants Management with GroupDocs.Conversion Java
 
 ## Introduction

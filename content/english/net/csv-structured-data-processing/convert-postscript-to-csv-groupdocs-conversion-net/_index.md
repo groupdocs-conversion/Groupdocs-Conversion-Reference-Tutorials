@@ -8,10 +8,8 @@ keywords:
 - PostScript to CSV conversion
 - GroupDocs.Conversion for .NET
 - file format conversion
-
+type: docs
 ---
-
-
 # Convert PostScript to CSV Using GroupDocs.Conversion for .NET: A Complete Guide
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - convert VSDX to CSV
 - GroupDocs.Conversion for .NET
 - data processing with Visio files
-
+type: docs
 ---
-
-
 # How to Convert VSDX to CSV Using GroupDocs.Conversion for .NET
 
 ## Introduction

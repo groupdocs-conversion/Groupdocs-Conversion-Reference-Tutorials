@@ -4,8 +4,8 @@
 "title": "Konvertera specifikt sidintervall till PDF med hjälp av GroupDocs.Conversion Java API"
 "url": "/sv/java/pdf-conversion/groupdocs-conversion-java-page-range-pdf/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera specifikt sidintervall till PDF med hjälp av GroupDocs.Conversion Java API
 
 dagens digitala tidsålder är det avgörande för både företag och privatpersoner att hantera dokument effektivt. Att konvertera specifika avsnitt i en rapport till ett portabelt format som PDF kan spara tid och resurser. Den här handledningen guidar dig genom hur du använder **GroupDocs.Conversion Java** för att konvertera ett specificerat sidintervall från valfritt dokument till en PDF-fil. I slutändan kommer du att ha alla kunskaper som behövs för att implementera denna kraftfulla funktion i dina projekt.

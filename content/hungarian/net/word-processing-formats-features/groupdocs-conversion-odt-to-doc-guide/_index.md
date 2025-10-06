@@ -4,8 +4,8 @@
 "title": "ODT konvertálása DOC-ba a GroupDocs.Conversion .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/word-processing-formats-features/groupdocs-conversion-odt-to-doc-guide/"
 "weight": 1
+type: docs
 ---
-
 # ODT konvertálása DOC-ba a GroupDocs.Conversion .NET használatával: lépésről lépésre útmutató
 
 A mai rohanó világban kulcsfontosságú a dokumentumformátumok hatékony konvertálásának képessége. Akár dokumentumokat kezelő szoftvereken dolgozó fejlesztő, akár egy zökkenőmentes adatintegrációra törekvő szervezet, az Open Document Text (ODT) fájlok Microsoft Word-dokumentumokká (DOC) konvertálása egyszerűsíthető a megfelelő eszközökkel és ismeretekkel.

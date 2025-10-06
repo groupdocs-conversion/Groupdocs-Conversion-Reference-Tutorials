@@ -5,8 +5,8 @@
 "title": "SVGをPDFに変換する"
 "url": "/ja/net/file-format-conversion-tutorials/convert-svg-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # SVGをPDFに変換する
 
 ## 導入

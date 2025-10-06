@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 将 DGN 文件转换为 PowerPoint 演示文稿（分步指南）"
 "url": "/zh/net/cad-technical-drawing-formats/convert-dgn-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 将 DGN 文件转换为 PowerPoint 演示文稿
 ## 介绍
 您是否希望以易于共享和编辑的格式展示建筑设计？将 DGN 文件转换为 PowerPoint 演示文稿可以简化您的工作流程并增强演示功能。在本分步指南中，我们将探索如何使用 **GroupDocs.Conversion for .NET** 轻松将 DGN 文件转换为 PPT 格式。

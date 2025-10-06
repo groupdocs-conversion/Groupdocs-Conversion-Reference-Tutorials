@@ -5,8 +5,8 @@
 "title": "PPTX को PDF में बदलें"
 "url": "/hi/net/pdf-conversion/convert-pptx-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # PPTX को PDF में बदलें
 
 ## परिचय

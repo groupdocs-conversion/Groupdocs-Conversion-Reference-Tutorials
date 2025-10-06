@@ -4,8 +4,8 @@
 "title": "Convierta XLS a DOCX con GroupDocs.Conversion para .NET&#58; guía paso a paso"
 "url": "/es/net/word-processing-conversion/convert-xls-to-docx-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Convertir XLS a DOCX con GroupDocs.Conversion para .NET: guía paso a paso
 
 ## Introducción

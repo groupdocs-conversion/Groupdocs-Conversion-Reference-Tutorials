@@ -5,8 +5,8 @@
 "title": "แปลง JPX เป็น PDF"
 "url": "/th/net/document-conversion/convert-jpx-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # แปลง JPX เป็น PDF
 
 ## การแนะนำ

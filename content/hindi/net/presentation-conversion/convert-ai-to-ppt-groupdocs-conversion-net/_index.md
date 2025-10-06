@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके AI फ़ाइलों को PowerPoint में परिवर्तित करें"
 "url": "/hi/net/presentation-conversion/convert-ai-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके AI फ़ाइलों को PowerPoint में परिवर्तित करें
 
 ## परिचय

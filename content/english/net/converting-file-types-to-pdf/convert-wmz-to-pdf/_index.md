@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Learn how to effortlessly convert WMZ files to PDF using GroupDocs.Conversion for .NET. Enhance your document interoperability.
 weight: 20
 url: /net/converting-file-types-to-pdf/convert-wmz-to-pdf/
+type: docs
 ---
-
 # Convert WMZ to PDF
 
 ## Introduction

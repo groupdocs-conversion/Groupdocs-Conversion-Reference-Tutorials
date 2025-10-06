@@ -4,8 +4,8 @@
 "title": "Jelszóval védett DOCX fájlok PPT-vé konvertálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/working-with-secure-documents/convert-docx-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jelszóval védett DOCX fájlok PPT-vé konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

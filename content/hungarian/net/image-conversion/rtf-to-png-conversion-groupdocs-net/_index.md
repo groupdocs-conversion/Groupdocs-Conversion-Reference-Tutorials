@@ -4,8 +4,8 @@
 "title": "RTF fájlok PNG képekké konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/rtf-to-png-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # RTF fájlok PNG képekké konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

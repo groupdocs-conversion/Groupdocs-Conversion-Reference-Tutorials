@@ -8,10 +8,8 @@ keywords:
 - dynamic output paths
 - GroupDocs.Conversion for .NET
 - file conversion
-
+type: docs
 ---
-
-
 # Dynamic Output Paths in .NET with GroupDocs.Conversion: A Comprehensive Guide
 
 ## Introduction

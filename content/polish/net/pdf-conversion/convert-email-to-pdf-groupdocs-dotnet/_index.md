@@ -4,8 +4,8 @@
 "title": "Konwertuj wiadomości e-mail do formatu PDF w .NET przy użyciu GroupDocs.Conversion&#58; Podręcznik programisty"
 "url": "/pl/net/pdf-conversion/convert-email-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj wiadomości e-mail do formatu PDF w .NET za pomocą GroupDocs.Conversion
 
 ## Wstęp

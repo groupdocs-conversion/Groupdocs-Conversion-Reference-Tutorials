@@ -8,10 +8,8 @@ keywords:
 - convert FODS to JPG
 - GroupDocs.Conversion for .NET
 - FODS document conversion
-
+type: docs
 ---
-
-
 # How to Convert FODS to JPG Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "PPTM konvertálása PDF-be a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/pdf-conversion/convert-pptm-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # PPTM fájlok konvertálása PDF-be a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 ## Bevezetés
 A Microsoft PowerPoint prezentációk PDF-be konvertálása fárasztó feladat lehet, különösen, ha nagyszámú fájllal kell foglalkozni. A szoftverfejlesztés automatizálási képességeinek kihasználásával leegyszerűsíthetjük ezt a folyamatot a GroupDocs.Conversion for .NET segítségével. Ez az oktatóanyag végigvezeti Önt a PPTM fájlok PDF-be konvertálásának folyamatán C# használatával.

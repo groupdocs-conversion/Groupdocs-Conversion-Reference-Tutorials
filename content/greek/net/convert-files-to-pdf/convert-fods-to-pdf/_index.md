@@ -5,8 +5,8 @@
 "title": "Μετατροπή υπολογιστικών φύλλων OpenDocument FODS σε PDF"
 "url": "/el/net/convert-files-to-pdf/convert-fods-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Μετατροπή υπολογιστικών φύλλων OpenDocument FODS σε PDF
 
 ## Εισαγωγή

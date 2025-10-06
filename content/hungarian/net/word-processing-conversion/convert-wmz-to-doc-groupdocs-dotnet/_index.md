@@ -4,8 +4,8 @@
 "title": "WMZ konvertálása DOC-ba a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/word-processing-conversion/convert-wmz-to-doc-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # WMZ konvertálása DOC-ba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Jak převést XML do XLS pomocí GroupDocs.Conversion v .NET – podrobný návod"
 "url": "/cs/net/spreadsheet-formats-features/convert-xml-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést XML do XLS pomocí GroupDocs.Conversion v .NET: Podrobný návod
 
 ## Zavedení

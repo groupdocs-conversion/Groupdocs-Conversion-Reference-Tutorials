@@ -5,8 +5,8 @@
 "title": "Převod MOBI do PDF"
 "url": "/cs/net/document-conversion/convert-mobi-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Převod MOBI do PDF
 
 ## Zavedení

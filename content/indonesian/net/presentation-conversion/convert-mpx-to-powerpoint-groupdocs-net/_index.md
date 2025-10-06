@@ -4,8 +4,8 @@
 "title": "Mengonversi File MPX ke PowerPoint Menggunakan GroupDocs untuk .NET&#58; Panduan Langkah demi Langkah"
 "url": "/id/net/presentation-conversion/convert-mpx-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Mengonversi File MPX ke PowerPoint Menggunakan GroupDocs untuk .NET: Panduan Langkah demi Langkah
 
 ## Perkenalan

@@ -4,8 +4,8 @@
 "title": "DWF fájlok konvertálása XLSX fájlokká a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/cad-technical-drawing-formats/convert-dwf-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DWF fájlok konvertálása XLSX formátumra a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

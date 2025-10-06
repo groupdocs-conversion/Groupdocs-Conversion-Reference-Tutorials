@@ -4,8 +4,8 @@
 "title": "Hatékonyan konvertáljon VSDM-et SVG-vé a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/cad-technical-drawing-formats/convert-vsmd-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhat VSDM-et SVG-vé a GroupDocs.Conversion for .NET segítségével?
 
 ## Bevezetés

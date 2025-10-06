@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中将 DOT 文件转换为 JPG — 分步指南"
 "url": "/zh/net/image-conversion/convert-dot-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 .NET 中将 DOT 文件转换为 JPG：分步指南
 ## 介绍
 您是否正在为 .NET 应用程序中的文档转换而苦恼？如果您经常将 Microsoft Word 文档模板 (.dot) 转换为图像，那么本教程非常适合您。我们将使用 **GroupDocs.Conversion for .NET**，一个简化文件转换任务的强大库。

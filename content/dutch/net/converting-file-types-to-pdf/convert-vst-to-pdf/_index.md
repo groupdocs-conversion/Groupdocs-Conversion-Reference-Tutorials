@@ -5,8 +5,8 @@
 "title": "VST naar PDF converteren"
 "url": "/nl/net/converting-file-types-to-pdf/convert-vst-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # VST naar PDF converteren
 
 ## Invoering

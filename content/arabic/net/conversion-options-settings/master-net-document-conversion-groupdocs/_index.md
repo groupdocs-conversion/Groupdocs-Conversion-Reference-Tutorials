@@ -4,8 +4,8 @@
 "title": "إتقان تحويل مستندات .NET - استخدم GroupDocs لتحويلات PDF بسلاسة"
 "url": "/ar/net/conversion-options-settings/master-net-document-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # إتقان تحويل المستندات في .NET باستخدام GroupDocs.Conversion
 
 ## مقدمة

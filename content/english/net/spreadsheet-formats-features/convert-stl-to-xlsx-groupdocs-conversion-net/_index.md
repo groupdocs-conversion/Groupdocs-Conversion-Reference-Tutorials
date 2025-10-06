@@ -8,10 +8,8 @@ keywords:
 - STL to XLSX conversion
 - GroupDocs.Conversion for .NET
 - automate file conversion
-
+type: docs
 ---
-
-
 # Convert STL Files to XLSX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

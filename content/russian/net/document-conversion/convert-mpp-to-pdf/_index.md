@@ -5,8 +5,8 @@
 "title": "Конвертировать MPP в PDF"
 "url": "/ru/net/document-conversion/convert-mpp-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # Конвертировать MPP в PDF
 
 ## Введение

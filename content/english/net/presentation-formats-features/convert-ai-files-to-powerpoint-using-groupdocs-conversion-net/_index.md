@@ -8,10 +8,8 @@ keywords:
 - convert AI files to PowerPoint
 - GroupDocs.Conversion for .NET
 - Adobe Illustrator to PPTX
-
+type: docs
 ---
-
-
 # How to Convert AI Files to PowerPoint Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Cómo implementar almacenamiento en caché personalizado en Java mediante Redis y GroupDocs.Conversion"
 "url": "/es/java/cache-management/custom-cache-redis-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Cómo implementar almacenamiento en caché personalizado en Java mediante Redis y GroupDocs.Conversion
 
 ## Introducción

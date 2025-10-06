@@ -4,8 +4,8 @@
 "title": "JPG HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/html-conversion/convert-jpg-to-html-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # JPG HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

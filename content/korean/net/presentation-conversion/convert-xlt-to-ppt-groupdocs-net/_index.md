@@ -4,8 +4,8 @@
 "title": "GroupDocs for .NET을 사용하여 XLT를 PPT로 쉽게 변환하기&#58; 단계별 가이드"
 "url": "/ko/net/presentation-conversion/convert-xlt-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs for .NET을 사용하여 XLT를 PPT로 변환
 
 ## 소개

@@ -4,8 +4,8 @@
 "title": "Convierta documentos en secuencias PDF con GroupDocs.Conversion para .NET&#58; una guía completa"
 "url": "/es/net/pdf-conversion/convert-documents-pdf-streams-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convierta documentos a secuencias PDF con GroupDocs.Conversion para .NET: una guía completa
 
 ## Introducción

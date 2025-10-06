@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 HTML을 Excel XLS로 변환하는 방법"
 "url": "/ko/net/spreadsheet-conversion/convert-html-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 HTML을 Excel(XLS)로 변환하는 방법: 단계별 가이드
 
 ## 소개

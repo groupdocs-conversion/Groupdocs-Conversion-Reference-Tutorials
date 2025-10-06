@@ -4,8 +4,8 @@
 "title": "Конвертируйте VDX в XLSX с помощью GroupDocs.Conversion для .NET. Подробное руководство"
 "url": "/ru/net/spreadsheet-conversion/convert-vdx-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертация VDX в XLSX с помощью GroupDocs.Conversion для .NET: подробное руководство
 
 ## Введение

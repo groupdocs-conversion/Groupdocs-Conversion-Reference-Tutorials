@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して WEBP を DOC に効率的に変換する"
 "url": "/ja/net/word-processing-conversion/convert-webp-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して WEBP を DOC に効率的に変換する
 
 ## 導入

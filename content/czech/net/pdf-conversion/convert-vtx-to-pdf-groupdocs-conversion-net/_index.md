@@ -4,8 +4,8 @@
 "title": "Převod VTX do PDF pomocí GroupDocs.Conversion pro .NET | Komplexní průvodce"
 "url": "/cs/net/pdf-conversion/convert-vtx-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod VTX do PDF pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

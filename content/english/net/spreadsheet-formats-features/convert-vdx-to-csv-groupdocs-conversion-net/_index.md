@@ -8,10 +8,8 @@ keywords:
 - convert VDX to CSV
 - GroupDocs.Conversion for .NET
 - Visio XML Drawing conversion
-
+type: docs
 ---
-
-
 # Convert VDX to CSV Using GroupDocs.Conversion for .NET
 ## Introduction
 Are you struggling to convert Visio documents from VDX format to CSV? This comprehensive tutorial will guide you through the process using GroupDocs.Conversion for .NET, a powerful library designed to handle diverse file conversions with ease. In this article, we’ll walk you through setting up your environment, implementing the conversion, and exploring practical applications of your new skills.

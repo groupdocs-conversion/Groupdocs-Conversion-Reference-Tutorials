@@ -8,10 +8,8 @@ keywords:
 - convert JLS to JPG
 - GroupDocs.Conversion for .NET
 - image file conversion
-
+type: docs
 ---
-
-
 # How to Convert JPEG Lossless (JLS) Files to JPEG (JPG) Using GroupDocs.Conversion for .NET
 
 ## Introduction

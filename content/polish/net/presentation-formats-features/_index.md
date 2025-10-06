@@ -3,8 +3,8 @@
 "title": "Samouczki dotyczące formatów i funkcji prezentacji dla GroupDocs.Conversion .NET"
 "url": "/pl/net/presentation-formats-features/"
 "weight": 12
+type: docs
 ---
-
 # Samouczki dotyczące formatów i funkcji prezentacji dla GroupDocs.Conversion .NET
 
 Nasze samouczki skoncentrowane na prezentacjach pokazują, jak pracować z dokumentami opartymi na slajdach przy użyciu GroupDocs.Conversion w .NET. Te praktyczne przewodniki przeprowadzą Cię przez konwersję między formatami PowerPoint, ukrywanie komentarzy podczas konwersji, włączanie lub wyłączanie ukrytych slajdów, określanie opcji zastępowania czcionek, zachowywanie animacji i przejść, utrzymywanie notatek mówcy, obsługę osadzonych multimediów i zapewnianie spójności układu w różnych formatach prezentacji. Każdy samouczek zawiera szczegółowe przykłady kodu C# dla scenariuszy konwersji prezentacji, pomagając Ci tworzyć aplikacje, które generują wysokiej jakości konwersje z zachowanymi elementami wizualnymi i interaktywnymi funkcjami.

@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion .NET
 - Convert PPTX to PSD
 - PowerPoint to Photoshop format
-
+type: docs
 ---
-
-
 # How to Convert PPTX to PSD Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

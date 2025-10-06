@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert DJVU to SVG Using GroupDocs.Conversion in .NET: A Comprehensive Guide
 
 ## Introduction

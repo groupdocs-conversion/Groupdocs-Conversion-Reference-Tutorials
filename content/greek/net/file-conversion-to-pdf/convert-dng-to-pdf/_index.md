@@ -5,8 +5,8 @@
 "title": "Μετατροπή εικόνων DNG σε PDF"
 "url": "/el/net/file-conversion-to-pdf/convert-dng-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # Μετατροπή εικόνων DNG σε PDF
 
 ## Εισαγωγή

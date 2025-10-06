@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET kullanarak Apple Mail İletilerini (.emlx) HTML'ye Dönüştürme"
 "url": "/tr/net/html-conversion/convert-emlx-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET kullanarak Apple Mail İletilerini (.emlx) HTML'ye Dönüştürme
 
 ## giriiş

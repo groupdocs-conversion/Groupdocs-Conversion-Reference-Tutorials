@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion을 사용하여 .NET에서 파일 변환 마스터하기&#58; 개발자 가이드"
 "url": "/ko/net/conversion-utilities-information/mastering-file-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용한 .NET 파일 변환 마스터링: 완벽한 개발자 가이드
 
 ## 소개

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET ile OTS'den TEX'e Verimli Dönüşüm - Eksiksiz Bir Kılavuz"
 "url": "/tr/net/text-markup-conversion/convert-ots-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET ile Verimli OTS'den TEX'e Dönüşüm
 
 ## giriiş

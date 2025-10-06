@@ -4,8 +4,8 @@
 "title": "使用 Java 将 XML 转换为 Excel — 使用 GroupDocs.Conversion 的综合指南"
 "url": "/zh/java/web-markup-formats/convert-xml-to-excel-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 Java 中将 XML 转换为 Excel
 
 ## 介绍

@@ -4,8 +4,8 @@
 "title": "Convierta documentos URL a PDF con GroupDocs.Conversion para Java&#58; una guía completa"
 "url": "/es/java/pdf-conversion/groupdocs-java-download-url-to-pdf-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Convierta documentos URL a PDF con GroupDocs.Conversion para Java
 
 ## Introducción

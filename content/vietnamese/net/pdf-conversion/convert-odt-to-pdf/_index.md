@@ -5,8 +5,8 @@
 "title": "Chuyển đổi ODT sang PDF"
 "url": "/vi/net/pdf-conversion/convert-odt-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # Chuyển đổi ODT sang PDF
 
 ## Giới thiệu

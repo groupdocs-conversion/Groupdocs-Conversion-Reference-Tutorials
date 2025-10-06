@@ -5,8 +5,8 @@
 "title": "PS naar PDF converteren"
 "url": "/nl/net/file-format-conversion-tutorials/convert-ps-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # PS naar PDF converteren
 
 ## Invoering

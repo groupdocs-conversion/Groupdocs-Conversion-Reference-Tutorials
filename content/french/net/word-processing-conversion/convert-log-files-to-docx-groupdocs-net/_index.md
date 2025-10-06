@@ -4,8 +4,8 @@
 "title": "Comment convertir des fichiers journaux en DOCX à l'aide de GroupDocs.Conversion pour .NET ? Guide étape par étape"
 "url": "/fr/net/word-processing-conversion/convert-log-files-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des fichiers journaux en DOCX à l'aide de GroupDocs.Conversion pour .NET
 
 À l'ère du numérique, convertir efficacement différents formats de fichiers est crucial pour les entreprises comme pour les développeurs. Transformer des fichiers journaux en formats plus accessibles et partageables, comme DOCX, représente un défi courant. Ce guide étape par étape vous guidera dans leur utilisation. **GroupDocs.Conversion pour .NET** pour réaliser cette conversion de manière transparente.

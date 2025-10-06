@@ -5,8 +5,8 @@
 "title": "HTMLウェブページをPDFに変換する"
 "url": "/ja/net/convert-files-to-pdf/convert-html-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # HTMLウェブページをPDFに変換する
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "Jak konwertować pliki szablonów Visio (VSSX) do prezentacji PowerPoint za pomocą GroupDocs.Conversion dla .NET"
 "url": "/pl/net/presentation-formats-features/convert-visio-vssx-to-powerpoint-pptx-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Jak konwertować pliki szablonów Visio (VSSX) do prezentacji PowerPoint za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

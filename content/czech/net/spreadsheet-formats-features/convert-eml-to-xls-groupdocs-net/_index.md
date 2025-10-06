@@ -4,8 +4,8 @@
 "title": "Převod EML do XLS v .NET pomocí GroupDocs.Conversion – Podrobný návod"
 "url": "/cs/net/spreadsheet-formats-features/convert-eml-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů EML do XLS v .NET pomocí GroupDocs.Conversion: Podrobný návod
 
 ## Zavedení

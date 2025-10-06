@@ -4,8 +4,8 @@
 "title": "PPSX'i GroupDocs.Conversion for .NET Kullanarak PPTX'e Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/presentation-formats-features/convert-ppsx-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PPSX'i .NET için GroupDocs.Conversion Kullanarak PPTX'e Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

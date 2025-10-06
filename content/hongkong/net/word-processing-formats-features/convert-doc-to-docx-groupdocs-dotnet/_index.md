@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 將 DOC 轉換為 DOCX（逐步指南）"
 "url": "/zh-hant/net/word-processing-formats-features/convert-doc-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 逐步指南：使用 GroupDocs.Conversion for .NET 將 DOC 轉換為 DOCX
 
 ## 介紹

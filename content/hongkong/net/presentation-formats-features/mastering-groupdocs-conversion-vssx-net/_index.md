@@ -4,8 +4,8 @@
 "title": ".NET 中 VSSX 檔案的高效 GroupDocs.Conversion 完整指南"
 "url": "/zh-hant/net/presentation-formats-features/mastering-groupdocs-conversion-vssx-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET 中 VSSX 檔案的高效 GroupDocs.Conversion：完整指南
 
 ## 介紹

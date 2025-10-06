@@ -5,8 +5,8 @@
 "title": "Chuyển đổi tệp mẫu CAD DWT sang PDF"
 "url": "/vi/net/convert-files-to-pdf/convert-dwt-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Chuyển đổi tệp mẫu CAD DWT sang PDF
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "Java için GroupDocs.Conversion'ın Kapsamlı Eğitimleri"
 "url": "/tr/java/"
 "weight": 10
+type: docs
 ---
-
 # Java için GroupDocs.Conversion'ın Kapsamlı Eğitimleri
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "DNG konvertálása TXT-vé a GroupDocs.Conversion használatával .NET-ben | Szöveg- és jelöléskonverziós útmutató"
 "url": "/hu/net/text-markup-conversion/convert-dng-txt-using-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DNG konvertálása TXT-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

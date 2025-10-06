@@ -8,10 +8,8 @@ keywords:
 - CMX to PSD conversion
 - .NET image conversion
 - GroupDocs.Conversion tutorial
-
+type: docs
 ---
-
-
 # How to Convert CMX to PSD Using .NET and GroupDocs.Conversion: A Comprehensive Guide
 
 ## Introduction

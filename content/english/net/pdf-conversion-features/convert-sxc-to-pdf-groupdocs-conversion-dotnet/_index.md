@@ -8,10 +8,8 @@ keywords:
 - convert SXC to PDF
 - GroupDocs.Conversion for .NET
 - SXC file conversion
-
+type: docs
 ---
-
-
 # Convert SXC Files to PDF Easily with GroupDocs.Conversion for .NET
 
 ## Introduction

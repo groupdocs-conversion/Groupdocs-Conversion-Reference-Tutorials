@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi PDF ke Excel dalam .NET Menggunakan GroupDocs.Conversion"
 "url": "/id/net/spreadsheet-conversion/pdf-to-xls-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi PDF ke Excel dalam .NET Menggunakan GroupDocs.Conversion
 
 Dalam lanskap digital saat ini, mengonversi dokumen antarformat secara efisien sangatlah penting. Baik Anda seorang profesional bisnis yang mengelola kumpulan data besar atau pengembang yang mengotomatiskan proses, mengonversi PDF ke file Excel dapat menyederhanakan tugas analisis data dan pelaporan. Tutorial ini memandu Anda menggunakan GroupDocs.Conversion for .NET untuk konversi PDF ke XLS yang lancar.

@@ -5,8 +5,8 @@
 "title": "แปลงเอกสาร DJVU เป็น PDF"
 "url": "/th/net/file-conversion-to-pdf/convert-djvu-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # แปลงเอกสาร DJVU เป็น PDF
 
 ## การแนะนำ

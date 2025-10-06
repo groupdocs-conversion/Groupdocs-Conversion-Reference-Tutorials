@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion का उपयोग करके Java में टाइमज़ोन ऑफ़सेट के साथ ईमेल को PDF में कैसे परिवर्तित करें"
 "url": "/hi/java/email-formats/email-to-pdf-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion का उपयोग करके Java में टाइमज़ोन ऑफ़सेट के साथ ईमेल को PDF में कैसे परिवर्तित करें
 
 ## परिचय

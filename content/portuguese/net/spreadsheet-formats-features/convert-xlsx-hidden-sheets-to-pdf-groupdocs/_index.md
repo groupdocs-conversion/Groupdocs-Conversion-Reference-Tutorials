@@ -4,8 +4,8 @@
 "title": "Como converter arquivos XLSX com planilhas ocultas para PDF usando o GroupDocs.Conversion para .NET"
 "url": "/pt/net/spreadsheet-formats-features/convert-xlsx-hidden-sheets-to-pdf-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Como converter arquivos XLSX com planilhas ocultas para PDF usando o GroupDocs.Conversion para .NET
 
 ## Introdução

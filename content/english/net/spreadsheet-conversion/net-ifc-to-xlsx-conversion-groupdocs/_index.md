@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Master .NET IFC to XLSX Conversion Using GroupDocs.Conversion: A Comprehensive Guide
 
 ## Introduction

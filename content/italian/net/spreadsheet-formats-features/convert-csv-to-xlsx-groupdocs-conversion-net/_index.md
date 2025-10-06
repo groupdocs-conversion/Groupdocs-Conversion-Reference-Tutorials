@@ -4,8 +4,8 @@
 "title": "Converti in modo efficiente CSV in XLSX con GroupDocs.Conversion .NET&#58; una guida completa"
 "url": "/it/net/spreadsheet-formats-features/convert-csv-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converti in modo efficiente CSV in XLSX con GroupDocs.Conversion .NET: una guida completa
 
 ## Introduzione

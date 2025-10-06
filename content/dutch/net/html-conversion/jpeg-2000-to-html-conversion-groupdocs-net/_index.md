@@ -4,8 +4,8 @@
 "title": "Efficiënte JPEG 2000 (.j2k) naar HTML-conversie met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/html-conversion/jpeg-2000-to-html-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efficiënte JPEG 2000 (.j2k) naar HTML-conversie met GroupDocs.Conversion voor .NET
 
 ## Invoering

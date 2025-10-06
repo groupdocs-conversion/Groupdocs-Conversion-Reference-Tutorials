@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion .NET 程式庫將 OTS 檔案轉換為 PDF"
 "url": "/zh-hant/net/pdf-conversion-features/convert-ots-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion .NET 將 OTS 檔案轉換為 PDF
 
 ## 介紹

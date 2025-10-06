@@ -8,10 +8,8 @@ keywords:
 - convert PST to XLSX
 - GroupDocs.Conversion for .NET
 - Outlook PST files conversion
-
+type: docs
 ---
-
-
 # Convert Outlook PST Files to Excel XLSX Using GroupDocs.Conversion for .NET
 
 ## Introduction

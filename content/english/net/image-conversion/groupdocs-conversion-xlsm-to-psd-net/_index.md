@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion for .NET
 - XLSM to PSD conversion
 - .NET document conversion
-
+type: docs
 ---
-
-
 # Convert XLSM to PSD Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

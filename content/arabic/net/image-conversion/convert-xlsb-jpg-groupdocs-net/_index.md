@@ -4,8 +4,8 @@
 "title": "تحويل XLSB إلى JPG باستخدام GroupDocs.Conversion لـ .NET | دليل خطوة بخطوة"
 "url": "/ar/net/image-conversion/convert-xlsb-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل XLSB إلى JPG باستخدام GroupDocs.Conversion لـ .NET: دليل خطوة بخطوة
 
 يُعد تحويل ملفات Excel الثنائية (XLSB) إلى صيغ مرئية مثل JPG أمرًا أساسيًا لتحسين إمكانية الوصول والفهم. سواء كنت مطورًا أو متخصصًا في مجال الأعمال، سيرشدك هذا الدليل خلال عملية تحويل ملف XLSB إلى سلسلة من صور JPG باستخدام GroupDocs.Conversion لـ .NET.

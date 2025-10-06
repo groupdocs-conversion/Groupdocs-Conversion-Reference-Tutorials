@@ -4,8 +4,8 @@
 "title": "XLT fájlok JPG formátumba konvertálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/image-conversion/convert-xlt-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # XLT fájlok JPG formátumba konvertálása a .NET-hez készült GroupDocs.Conversion segítségével
 
 A mai digitális munkaterületeken a hatékony fájlformátum-konvertálás kulcsfontosságú az adatok platformok közötti kezeléséhez és megosztásához. Ez az oktatóanyag bemutatja, hogyan használhatja a GroupDocs.Conversion for .NET programot Excel-sablonfájlok (XLT) JPG képekké konvertálásához, javítva az akadálymentességet és a terjesztés hatékonyságát.

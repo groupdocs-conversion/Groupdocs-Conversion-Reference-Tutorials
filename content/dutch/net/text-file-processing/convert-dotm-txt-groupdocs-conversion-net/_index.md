@@ -4,8 +4,8 @@
 "title": "Hoe u .DOTM-bestanden naar TXT converteert met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/text-file-processing/convert-dotm-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hoe u .DOTM-bestanden naar TXT converteert met GroupDocs.Conversion voor .NET
 
 ## Invoering

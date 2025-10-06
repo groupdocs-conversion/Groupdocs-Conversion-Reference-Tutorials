@@ -4,8 +4,8 @@
 "title": "掌握 Java 中的文字文件處理－使用 GroupDocs.Conversion 實現無縫編碼與 PDF 轉換"
 "url": "/zh-hant/java/word-processing-formats/master-text-document-handling-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 掌握 Java 中的文字文件處理
 
 ## 介紹

@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将 DWT 转换为 DOC | CAD 和技术图纸格式"
 "url": "/zh/net/cad-technical-drawing-formats/convert-dwt-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将 DWT 转换为 DOC
 ## 介绍
 您是否正在为将 DWT 等专有文档格式转换为 DOC 等通用格式而苦恼？许多企业和个人在工作流程中集成不同类型的文件时都面临着类似的挑战。随着跨软件平台兼容性需求的日益增长，找到一款可靠的转换工具至关重要。

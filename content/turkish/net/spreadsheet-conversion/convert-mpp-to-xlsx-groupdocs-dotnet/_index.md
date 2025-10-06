@@ -4,8 +4,8 @@
 "title": "MPP'yi .NET için GroupDocs.Conversion ile Kolayca XLSX'e Dönüştürün"
 "url": "/tr/net/spreadsheet-conversion/convert-mpp-to-xlsx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # MPP'yi .NET için GroupDocs.Conversion ile Kolayca XLSX'e Dönüştürün
 
 ## giriiş

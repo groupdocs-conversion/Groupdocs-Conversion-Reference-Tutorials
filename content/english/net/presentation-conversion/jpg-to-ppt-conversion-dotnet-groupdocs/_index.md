@@ -8,10 +8,8 @@ keywords:
 - JPG to PPT Conversion .NET
 - GroupDocs.Conversion .NET
 - Presentation Conversion in C#
-
+type: docs
 ---
-
-
 # Efficient JPG to PPT Conversion in .NET Using GroupDocs.Conversion
 
 ## Introduction

@@ -5,8 +5,8 @@
 "title": "Belge Dönüştürme"
 "url": "/tr/net/document-conversion/"
 "weight": 23
+type: docs
 ---
-
 # Belge Dönüştürme
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "Kapsamlı Kılavuz&#58; .NET için GroupDocs.Conversion'ı Kullanarak ODS'yi PNG'ye Dönüştürme"
 "url": "/tr/net/image-conversion/convert-ods-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Kapsamlı Kılavuz: GroupDocs.Conversion for .NET Kullanarak ODS'yi PNG'ye Dönüştürme
 
 ## giriiş

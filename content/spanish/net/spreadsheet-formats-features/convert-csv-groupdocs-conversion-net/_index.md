@@ -4,8 +4,8 @@
 "title": "Conversión de CSV sin esfuerzo con GroupDocs.Conversion para .NET&#58; una guía completa"
 "url": "/es/net/spreadsheet-formats-features/convert-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Conversión de CSV sin esfuerzo con GroupDocs.Conversion para .NET
 
 ## Introducción

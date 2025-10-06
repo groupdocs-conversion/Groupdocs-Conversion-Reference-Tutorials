@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用した CDR から PSD へのシームレスな画像変換"
 "url": "/ja/net/image-conversion/convert-cdr-to-psd-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # CDR を PSD に変換: GroupDocs.Conversion for .NET を使用したシームレスな画像変換
 
 ## 導入

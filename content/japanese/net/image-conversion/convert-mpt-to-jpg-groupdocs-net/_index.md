@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion ライブラリを使用して .NET で MPT を JPG に変換する"
 "url": "/ja/net/image-conversion/convert-mpt-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs で .NET で MPT を JPG に変換する
 
 ## 導入

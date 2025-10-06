@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for Java 将 URL 文档转换为 PDF 的综合指南"
 "url": "/zh/java/pdf-conversion/groupdocs-java-download-url-to-pdf-conversion/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for Java 将 URL 文档转换为 PDF
 
 ## 介绍

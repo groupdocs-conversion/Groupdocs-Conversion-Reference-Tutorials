@@ -5,8 +5,8 @@
 "title": "IGS 3D Model Dosyalarını PDF'ye Dönüştür"
 "url": "/tr/net/convert-files-to-pdf/convert-igs-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # IGS 3D Model Dosyalarını PDF'ye Dönüştür
 
 ## giriiş

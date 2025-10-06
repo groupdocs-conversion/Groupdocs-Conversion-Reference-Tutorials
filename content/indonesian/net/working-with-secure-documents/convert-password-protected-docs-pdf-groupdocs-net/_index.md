@@ -4,8 +4,8 @@
 "title": "Konversi Dokumen Word yang Dilindungi Kata Sandi ke PDF menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/working-with-secure-documents/convert-password-protected-docs-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Memuat dan Mengonversi Dokumen Word yang Dilindungi Kata Sandi ke PDF Menggunakan GroupDocs.Conversion for .NET
 
 ## Perkenalan

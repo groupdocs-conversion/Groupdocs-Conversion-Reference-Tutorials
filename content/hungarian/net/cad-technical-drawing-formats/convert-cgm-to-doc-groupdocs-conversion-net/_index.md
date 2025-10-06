@@ -4,8 +4,8 @@
 "title": "CGM hatékony konvertálása DOC-ba a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/cad-technical-drawing-formats/convert-cgm-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # CGM hatékony konvertálása DOC-ba a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

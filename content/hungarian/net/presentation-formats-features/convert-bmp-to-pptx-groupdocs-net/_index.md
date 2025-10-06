@@ -4,8 +4,8 @@
 "title": "BMP konvertálása PPTX-be a GroupDocs.Conversion .NET használatával – Átfogó útmutató"
 "url": "/hu/net/presentation-formats-features/convert-bmp-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # BMP konvertálása PPTX-be a GroupDocs.Conversion .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

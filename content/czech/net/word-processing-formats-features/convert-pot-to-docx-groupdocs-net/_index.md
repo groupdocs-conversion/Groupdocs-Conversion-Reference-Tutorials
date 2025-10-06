@@ -4,8 +4,8 @@
 "title": "Efektivní převod POT do DOCX pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/word-processing-formats-features/convert-pot-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní konverze: POT do DOCX s GroupDocs.Conversion pro .NET
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "Convierta archivos JPC a DOC sin problemas en .NET usando GroupDocs.Conversion"
 "url": "/es/net/word-processing-conversion/jpc-to-doc-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convierta archivos JPC a DOC sin problemas en .NET usando GroupDocs.Conversion
 
 ## Introducción

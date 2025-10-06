@@ -5,8 +5,8 @@
 "title": "TSV को PDF में बदलें"
 "url": "/hi/net/file-format-conversion-tutorials/convert-tsv-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # TSV को PDF में बदलें
 
 ## परिचय

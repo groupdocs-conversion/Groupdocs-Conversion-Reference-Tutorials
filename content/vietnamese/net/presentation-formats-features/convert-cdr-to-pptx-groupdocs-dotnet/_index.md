@@ -4,8 +4,8 @@
 "title": "Chuyển đổi CDR sang PPTX bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/presentation-formats-features/convert-cdr-to-pptx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp CDR sang PPTX bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

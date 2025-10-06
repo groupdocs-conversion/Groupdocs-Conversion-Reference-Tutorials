@@ -4,8 +4,8 @@
 "title": "Převod značek do Wordu s číslováním stránek pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/word-processing-formats-features/groupdocs-conversion-markup-to-word-page-numbering/"
 "weight": 1
+type: docs
 ---
-
 # Převod značek do Wordu s číslováním stránek pomocí GroupDocs.Conversion pro .NET
 ## Zavedení
 Chcete převést dokumenty se značkami do profesionálního formátu Word a zároveň zachovat přesné číslování stránek? Tento tutoriál vás provede používáním... **GroupDocs.Conversion pro .NET** pro bezproblémovou transformaci vašich dokumentů. Tato výkonná knihovna zjednodušuje převody a zajišťuje, že základní prvky, jako je číslování stránek, zůstanou ve výstupním dokumentu zachovány.

@@ -4,8 +4,8 @@
 "title": "PowerPoint-sablonok hatékony szöveggé konvertálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/text-markup-conversion/convert-powerpoint-to-text-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PowerPoint-sablonok szöveggé konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

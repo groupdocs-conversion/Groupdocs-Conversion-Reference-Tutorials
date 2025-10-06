@@ -5,8 +5,8 @@
 "title": "Chuyển đổi MHT sang PDF"
 "url": "/vi/net/document-conversion/convert-mht-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # Chuyển đổi MHT sang PDF
 
 ## Giới thiệu

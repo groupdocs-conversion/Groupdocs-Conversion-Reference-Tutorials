@@ -5,8 +5,8 @@
 "title": "MHTMLをPDFに変換する"
 "url": "/ja/net/document-conversion/convert-mhtml-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # MHTMLをPDFに変換する
 
 ## 導入

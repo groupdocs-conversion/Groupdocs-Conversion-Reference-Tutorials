@@ -4,8 +4,8 @@
 "title": "Come convertire le immagini BMP in formato PSD utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/image-conversion/convert-bmp-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Padroneggiare la conversione delle immagini: convertire le immagini BMP in PSD utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

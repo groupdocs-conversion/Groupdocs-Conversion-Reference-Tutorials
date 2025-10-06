@@ -4,8 +4,8 @@
 "title": "Převod konkrétních excelových listů do PDF pomocí GroupDocs.Conversion pro .NET | Snadný podrobný návod"
 "url": "/cs/net/pdf-conversion/convert-excel-sheets-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod konkrétních excelových listů do PDF pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

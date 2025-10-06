@@ -4,8 +4,8 @@
 "title": "Как преобразовать JPEG 2000 (J2K) в LaTeX (TEX) с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/text-markup-conversion/convert-j2k-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте файлы JPEG 2000 (.j2k) в LaTeX (.tex) с помощью GroupDocs.Conversion для .NET
 
 ## Введение

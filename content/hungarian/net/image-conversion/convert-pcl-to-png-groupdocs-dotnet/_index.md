@@ -4,8 +4,8 @@
 "title": "Lépésről lépésre útmutató&#58; PCL konvertálása PNG-vé a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/convert-pcl-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Lépésről lépésre útmutató: PCL konvertálása PNG-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

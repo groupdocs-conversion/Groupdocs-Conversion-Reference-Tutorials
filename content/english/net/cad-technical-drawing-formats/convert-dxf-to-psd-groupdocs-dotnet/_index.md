@@ -8,10 +8,8 @@ keywords:
 - convert DXF to PSD
 - GroupDocs.Conversion for .NET
 - DXF file conversion
-
+type: docs
 ---
-
-
 # How to Convert DXF to PSD Using GroupDocs.Conversion for .NET: A Developer's Guide
 
 ## Introduction

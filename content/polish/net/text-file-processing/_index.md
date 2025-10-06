@@ -3,8 +3,8 @@
 "title": "Samouczki przetwarzania plików tekstowych dla GroupDocs.Conversion .NET"
 "url": "/pl/net/text-file-processing/"
 "weight": 17
+type: docs
 ---
-
 # Samouczki przetwarzania plików tekstowych dla GroupDocs.Conversion .NET
 
 Nasze samouczki konwersji plików tekstowych pokazują, jak pracować z zawartością zwykłego tekstu przy użyciu GroupDocs.Conversion w .NET. Te szczegółowe przewodniki przeprowadzą Cię przez kontrolowanie zachowania spacji wiodących i końcowych podczas konwersji tekstu, określanie opcji kodowania dla plików tekstowych, zachowywanie formatowania, gdy jest to możliwe, obsługę podziałów wierszy i znaków specjalnych, wdrażanie zasad zawijania tekstu, konfigurowanie paginacji dla przekonwertowanego tekstu i zarządzanie wymaganiami dotyczącymi tekstu dwukierunkowego. Każdy samouczek zawiera działające przykłady kodu C# dla scenariuszy konwersji plików tekstowych, pomagając Ci tworzyć aplikacje, które mogą skutecznie przetwarzać zwykły tekst, zachowując jednocześnie czytelność i strukturę w wynikach.

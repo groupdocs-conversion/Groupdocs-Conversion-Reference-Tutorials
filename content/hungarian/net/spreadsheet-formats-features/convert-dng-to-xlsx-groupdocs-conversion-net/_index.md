@@ -4,8 +4,8 @@
 "title": "DNG konvertálása XLSX-re a GroupDocs.Conversion .NET használatával – Átfogó útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-dng-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DNG konvertálása XLSX-re a GroupDocs.Conversion .NET használatával: Átfogó útmutató
 
 ## Bevezetés

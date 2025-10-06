@@ -4,8 +4,8 @@
 "title": "Převod EMF do PowerPointu pomocí GroupDocs.Conversion v C# | Podrobný návod"
 "url": "/cs/net/presentation-formats-features/convert-emf-to-powerpoint-groupdocs-net-csharp/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů EMF do prezentací v PowerPointu pomocí GroupDocs.Conversion v C#
 
 ## Zavedení

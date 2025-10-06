@@ -5,8 +5,8 @@
 "title": "VSSM naar PDF converteren"
 "url": "/nl/net/converting-file-types-to-pdf/convert-vssm-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # VSSM naar PDF converteren
 
 ## Invoering

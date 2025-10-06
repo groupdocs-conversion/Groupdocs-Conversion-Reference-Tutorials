@@ -8,10 +8,8 @@ keywords:
 - convert OTS to PPT
 - GroupDocs.Conversion .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Convert OTS to PPT Easily with GroupDocs.Conversion .NET
 
 ## Introduction

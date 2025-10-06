@@ -4,8 +4,8 @@
 "title": "Jak převést soubory POTX do HTML pomocí GroupDocs.Conversion pro .NET (tutoriál C#)"
 "url": "/cs/net/presentation-formats-features/convert-potx-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory POTX do HTML pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

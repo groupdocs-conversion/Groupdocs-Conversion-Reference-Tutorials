@@ -4,8 +4,8 @@
 "title": "Конвертируйте VDW в PSD с помощью GroupDocs.Conversion для .NET&#58; Полное руководство"
 "url": "/ru/net/image-formats-features/convert-vdw-to-psd-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте VDW в PSD с помощью GroupDocs.Conversion для .NET: полное руководство
 
 ## Введение

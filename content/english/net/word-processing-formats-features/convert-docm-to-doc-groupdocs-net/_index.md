@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert DOCM to DOC Using GroupDocs in .NET: A Step-by-Step Guide
 
 ## Introduction

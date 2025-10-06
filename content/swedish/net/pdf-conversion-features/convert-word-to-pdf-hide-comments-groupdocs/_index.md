@@ -4,8 +4,8 @@
 "title": "Konvertera Word till PDF och dölj kommentarer med GroupDocs.Conversion för .NET"
 "url": "/sv/net/pdf-conversion-features/convert-word-to-pdf-hide-comments-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera Word-dokument till PDF och dölj kommentarer med GroupDocs.Conversion för .NET
 
 ## Introduktion

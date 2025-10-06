@@ -8,10 +8,8 @@ keywords:
 - JPX to PPTX conversion
 - GroupDocs.Conversion for .NET
 - Presentation Conversion
-
+type: docs
 ---
-
-
 # How to Convert JPX Files to PPTX Format Using GroupDocs.Conversion for .NET
 
 ## Introduction

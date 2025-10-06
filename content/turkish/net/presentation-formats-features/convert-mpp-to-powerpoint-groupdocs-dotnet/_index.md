@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak MPP'yi PowerPoint'e Verimli Şekilde Dönüştürün"
 "url": "/tr/net/presentation-formats-features/convert-mpp-to-powerpoint-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # MPP'yi GroupDocs.Conversion for .NET ile PowerPoint'e Verimli Şekilde Nasıl Dönüştürebilirsiniz
 
 ## giriiş

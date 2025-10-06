@@ -4,8 +4,8 @@
 "title": "تحويل العلامات إلى Word مع ترقيم الصفحات باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/word-processing-formats-features/groupdocs-conversion-markup-to-word-page-numbering/"
 "weight": 1
+type: docs
 ---
-
 # تحويل العلامات إلى Word مع ترقيم الصفحات باستخدام GroupDocs.Conversion لـ .NET
 ## مقدمة
 هل ترغب في تحويل مستندات الترميز إلى صيغ وورد احترافية مع الحفاظ على دقة ترقيم الصفحات؟ سيرشدك هذا البرنامج التعليمي خلال استخدام **GroupDocs.Conversion لـ .NET** لتحويل مستنداتك بسلاسة. تُبسّط هذه المكتبة الفعّالة عمليات التحويل وتضمن سلامة العناصر الأساسية، مثل ترقيم الصفحات، في المستند الناتج.

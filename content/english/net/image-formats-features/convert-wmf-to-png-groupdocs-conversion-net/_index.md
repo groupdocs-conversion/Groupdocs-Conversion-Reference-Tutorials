@@ -8,10 +8,8 @@ keywords:
 - convert WMF to PNG
 - GroupDocs.Conversion for .NET
 - WMF to PNG conversion
-
+type: docs
 ---
-
-
 # Convert WMF to PNG Using GroupDocs.Conversion for .NET
 
 ## Introduction

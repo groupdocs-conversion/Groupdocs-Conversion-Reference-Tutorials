@@ -4,8 +4,8 @@
 "title": "Konvertera XLT till DOCX med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/word-processing-formats-features/convert-xlt-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera XLT-filer till DOCX med GroupDocs.Conversion för .NET
 
 ## Introduktion

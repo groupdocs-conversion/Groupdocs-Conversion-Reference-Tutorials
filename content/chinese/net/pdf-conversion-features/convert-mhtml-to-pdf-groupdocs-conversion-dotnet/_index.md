@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将 MHTML 转换为 PDF 的综合指南"
 "url": "/zh/net/pdf-conversion-features/convert-mhtml-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将 MHTML 转换为 PDF：综合指南
 
 ## 介绍

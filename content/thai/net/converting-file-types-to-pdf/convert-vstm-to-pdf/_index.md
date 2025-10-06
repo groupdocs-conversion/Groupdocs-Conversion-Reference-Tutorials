@@ -5,8 +5,8 @@
 "title": "แปลง VSTM เป็น PDF"
 "url": "/th/net/converting-file-types-to-pdf/convert-vstm-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # แปลง VSTM เป็น PDF
 
 ## การแนะนำ

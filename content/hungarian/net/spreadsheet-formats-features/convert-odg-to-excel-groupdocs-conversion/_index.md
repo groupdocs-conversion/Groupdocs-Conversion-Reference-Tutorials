@@ -4,8 +4,8 @@
 "title": "ODG konvertálása Excelbe a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-odg-to-excel-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # ODG fájlok konvertálása Excelbe a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

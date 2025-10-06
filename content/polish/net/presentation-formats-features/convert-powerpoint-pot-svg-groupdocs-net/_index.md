@@ -4,8 +4,8 @@
 "title": "Konwertuj szablony programu PowerPoint (.pot) do formatu SVG za pomocą GroupDocs.Conversion for .NET&#58; Kompletny przewodnik"
 "url": "/pl/net/presentation-formats-features/convert-powerpoint-pot-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj szablony programu PowerPoint (.pot) do formatu SVG za pomocą narzędzia GroupDocs.Conversion dla platformy .NET
 ## Wstęp
 Szukasz wydajnego sposobu na przekształcenie szablonów programu PowerPoint w skalowalną grafikę wektorową? Niezależnie od tego, czy jesteś programistą, który chce ulepszyć przetwarzanie dokumentów, czy też musisz przekonwertować pliki POT w celu zapewnienia zgodności z siecią, ten samouczek przeprowadzi Cię przez proces przy użyciu GroupDocs.Conversion dla .NET. Wykonując te kroki, możesz usprawnić swój przepływ pracy i tworzyć wysokiej jakości wyniki SVG z szablonów programu PowerPoint.

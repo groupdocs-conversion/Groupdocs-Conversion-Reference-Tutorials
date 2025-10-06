@@ -4,8 +4,8 @@
 "title": "Převod souborů MPP do formátu PNG pomocí nástroje GroupDocs.Conversion pro .NET – podrobný návod"
 "url": "/cs/net/image-conversion/convert-mpp-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů MPP do PNG pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

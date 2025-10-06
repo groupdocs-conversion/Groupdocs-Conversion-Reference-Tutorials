@@ -4,8 +4,8 @@
 "title": "Эффективное преобразование XLSM в CSV с помощью GroupDocs.Conversion для .NET в C#"
 "url": "/ru/net/spreadsheet-formats-features/convert-xlsm-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Эффективное преобразование XLSM в CSV с помощью GroupDocs.Conversion для .NET в C#
 
 ## Введение

@@ -5,8 +5,8 @@
 "title": "Převod PPTM do PDF"
 "url": "/cs/net/pdf-conversion/convert-pptm-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # Převod PPTM do PDF
 
 ## Zavedení

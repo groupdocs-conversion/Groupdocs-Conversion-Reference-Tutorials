@@ -5,8 +5,8 @@
 "title": "FODS OpenDocument táblázatok konvertálása PDF formátumba"
 "url": "/hu/net/convert-files-to-pdf/convert-fods-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # FODS OpenDocument táblázatok konvertálása PDF formátumba
 
 ## Bevezetés

@@ -5,8 +5,8 @@
 "title": "将 MPP 转换为 PDF"
 "url": "/zh/net/document-conversion/convert-mpp-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # 将 MPP 转换为 PDF
 
 ## 介绍

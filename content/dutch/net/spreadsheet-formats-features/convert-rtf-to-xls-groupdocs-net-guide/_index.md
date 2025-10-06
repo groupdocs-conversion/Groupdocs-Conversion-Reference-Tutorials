@@ -4,8 +4,8 @@
 "title": "RTF naar XLS converteren met GroupDocs.Conversion voor .NET&#58; een complete handleiding"
 "url": "/nl/net/spreadsheet-formats-features/convert-rtf-to-xls-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # RTF naar XLS converteren met GroupDocs.Conversion voor .NET: een complete handleiding
 
 ## Invoering

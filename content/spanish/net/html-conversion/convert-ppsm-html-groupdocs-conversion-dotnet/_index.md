@@ -4,8 +4,8 @@
 "title": "Convertir PPSM a HTML con GroupDocs.Conversion para .NET&#58; guía paso a paso"
 "url": "/es/net/html-conversion/convert-ppsm-html-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertir PPSM a HTML con GroupDocs.Conversion para .NET: guía paso a paso
 
 ## Introducción

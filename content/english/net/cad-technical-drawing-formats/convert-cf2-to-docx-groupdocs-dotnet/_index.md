@@ -8,10 +8,8 @@ keywords:
 - convert CF2 to DOCX
 - GroupDocs.Conversion for .NET
 - CAD file format conversion
-
+type: docs
 ---
-
-
 # Convert CF2 to DOCX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

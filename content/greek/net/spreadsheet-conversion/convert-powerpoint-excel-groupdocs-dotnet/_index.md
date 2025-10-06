@@ -4,8 +4,8 @@
 "title": "Μετατροπή PowerPoint σε Excel χρησιμοποιώντας το GroupDocs.Conversion .NET™ Ένας ολοκληρωμένος οδηγός"
 "url": "/el/net/spreadsheet-conversion/convert-powerpoint-excel-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή διαφανειών PowerPoint σε φύλλα Excel χρησιμοποιώντας το GroupDocs.Conversion .NET
 
 ## Εισαγωγή

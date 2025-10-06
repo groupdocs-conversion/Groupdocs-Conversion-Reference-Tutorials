@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion के साथ Word to PDF रूपांतरण में ट्रैक किए गए परिवर्तन छिपाएं"
 "url": "/hi/net/page-management-content-manipulation/hide-tracked-changes-word-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके छिपे हुए ट्रैक किए गए परिवर्तनों के साथ उन्नत Word से PDF रूपांतरण में महारत हासिल करना
 
 ## परिचय

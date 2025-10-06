@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion .NET 将 JPG 转换为 SVG 的分步指南"
 "url": "/zh/net/image-formats-features/convert-jpg-svg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion .NET 将 JPG 转换为 SVG：全面的分步指南
 
 ## 介绍

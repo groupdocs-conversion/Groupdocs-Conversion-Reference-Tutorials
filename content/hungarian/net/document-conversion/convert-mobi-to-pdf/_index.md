@@ -5,8 +5,8 @@
 "title": "MOBI konvertálása PDF-be"
 "url": "/hu/net/document-conversion/convert-mobi-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # MOBI konvertálása PDF-be
 
 ## Bevezetés

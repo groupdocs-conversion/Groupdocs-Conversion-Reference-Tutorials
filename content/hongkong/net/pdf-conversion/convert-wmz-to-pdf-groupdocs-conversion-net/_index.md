@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 將 WMZ 轉換為 PDF 的完整指南"
 "url": "/zh-hant/net/pdf-conversion/convert-wmz-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 將 WMZ 檔案轉換為 PDF
 
 ## 介紹

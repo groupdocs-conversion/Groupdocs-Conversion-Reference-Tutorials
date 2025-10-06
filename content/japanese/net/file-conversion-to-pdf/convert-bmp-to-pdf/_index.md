@@ -5,8 +5,8 @@
 "title": "BMP画像をPDFに変換する"
 "url": "/ja/net/file-conversion-to-pdf/convert-bmp-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # BMP画像をPDFに変換する
 
 ## 導入

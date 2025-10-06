@@ -5,8 +5,8 @@
 "title": "EMF Windows metafájlok konvertálása PDF-be"
 "url": "/hu/net/convert-files-to-pdf/convert-emf-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # EMF Windows metafájlok konvertálása PDF-be
 
 ## Bevezetés

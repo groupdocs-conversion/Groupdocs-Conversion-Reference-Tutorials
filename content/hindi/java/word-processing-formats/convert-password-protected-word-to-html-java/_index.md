@@ -4,8 +4,8 @@
 "title": "जावा का उपयोग करके पासवर्ड-संरक्षित वर्ड दस्तावेज़ों को HTML में कैसे परिवर्तित करें (चरण-दर-चरण मार्गदर्शिका)"
 "url": "/hi/java/word-processing-formats/convert-password-protected-word-to-html-java/"
 "weight": 1
+type: docs
 ---
-
 # जावा का उपयोग करके पासवर्ड-संरक्षित वर्ड दस्तावेज़ों को HTML में कैसे परिवर्तित करें
 
 ## परिचय

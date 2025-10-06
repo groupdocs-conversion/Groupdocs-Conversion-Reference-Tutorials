@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie XLSX-Dateien mit ausgeblendeten Blättern mit GroupDocs.Conversion für .NET in PDF"
 "url": "/de/net/spreadsheet-formats-features/convert-xlsx-hidden-sheets-to-pdf-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie XLSX-Dateien mit ausgeblendeten Blättern mit GroupDocs.Conversion für .NET in PDF
 
 ## Einführung

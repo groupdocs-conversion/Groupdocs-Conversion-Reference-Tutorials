@@ -4,8 +4,8 @@
 "title": "Jak konwertować szablony rysunków Visio (.vst) do formatu SVG przy użyciu GroupDocs.Conversion dla platformy .NET"
 "url": "/pl/net/image-formats-features/convert-visio-vst-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak konwertować szablony rysunków Visio (.vst) do formatu SVG przy użyciu GroupDocs.Conversion dla platformy .NET
 
 ## Wstęp

@@ -5,8 +5,8 @@
 "title": "Chuyển đổi WebP sang PDF"
 "url": "/vi/net/converting-file-types-to-pdf/convert-webp-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # Chuyển đổi WebP sang PDF
 
 ## Giới thiệu

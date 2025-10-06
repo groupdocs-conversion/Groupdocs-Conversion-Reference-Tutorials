@@ -4,8 +4,8 @@
 "title": "การแปลง XML เป็นสเปรดชีตอย่างมีประสิทธิภาพใน .NET โดยใช้ GroupDocs.Conversion"
 "url": "/th/net/spreadsheet-conversion/xml-to-spreadsheet-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # การแปลง XML เป็นสเปรดชีตอย่างมีประสิทธิภาพใน .NET โดยใช้ GroupDocs.Conversion
 
 ## การแนะนำ

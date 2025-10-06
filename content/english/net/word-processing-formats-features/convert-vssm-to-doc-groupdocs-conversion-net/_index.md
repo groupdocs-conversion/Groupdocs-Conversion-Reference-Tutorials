@@ -8,10 +8,8 @@ keywords:
 - convert VSSM to DOC
 - GroupDocs.Conversion .NET
 - file format conversion
-
+type: docs
 ---
-
-
 # Convert VSSM to DOC with GroupDocs.Conversion .NET: A Step-by-Step Guide
 
 ## Introduction

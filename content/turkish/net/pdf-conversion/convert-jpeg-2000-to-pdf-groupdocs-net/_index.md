@@ -4,8 +4,8 @@
 "title": "Adım Adım Kılavuz&#58; .NET için GroupDocs.Conversion Kullanarak JPEG 2000'i (.j2k) PDF'ye Dönüştürme"
 "url": "/tr/net/pdf-conversion/convert-jpeg-2000-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Adım Adım Kılavuz: .NET için GroupDocs.Conversion Kullanarak JPEG 2000'i (.j2k) PDF'ye Dönüştürme
 
 ## giriiş

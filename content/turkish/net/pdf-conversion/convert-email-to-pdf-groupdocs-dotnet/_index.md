@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion&#58;ı Kullanarak .NET'te E-postaları PDF'ye Dönüştürme&#58; Bir Geliştiricinin Kılavuzu"
 "url": "/tr/net/pdf-conversion/convert-email-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Kullanarak .NET'te E-postaları PDF'ye Dönüştürme
 
 ## giriiş

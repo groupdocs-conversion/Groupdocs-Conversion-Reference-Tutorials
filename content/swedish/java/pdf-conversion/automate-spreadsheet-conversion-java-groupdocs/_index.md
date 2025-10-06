@@ -4,8 +4,8 @@
 "title": "Automatisera konvertering av kalkylblad till PDF i Java med GroupDocs.Conversion"
 "url": "/sv/java/pdf-conversion/automate-spreadsheet-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Automatisera konvertering av kalkylblad till PDF i Java med GroupDocs.Conversion
 
 ## Introduktion

@@ -4,8 +4,8 @@
 "title": "E-mailek PDF-fájlokká konvertálása Java nyelven a GroupDocs.Conversion használatával – Speciális beállítások útmutatója"
 "url": "/hu/java/pdf-conversion/convert-emails-to-pdfs-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # E-mailek PDF-fájlokká konvertálása Java-ban a GroupDocs.Conversion használatával: Speciális beállítások útmutatója
 
 ## Bevezetés

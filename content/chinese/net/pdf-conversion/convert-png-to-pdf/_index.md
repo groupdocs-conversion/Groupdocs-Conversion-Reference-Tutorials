@@ -5,8 +5,8 @@
 "title": "将PNG转换为PDF"
 "url": "/zh/net/pdf-conversion/convert-png-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # 将PNG转换为PDF
 
 ## 介绍

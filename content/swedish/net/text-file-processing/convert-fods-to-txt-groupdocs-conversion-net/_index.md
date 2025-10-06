@@ -4,8 +4,8 @@
 "title": "Konvertera FODS till TXT-filer med GroupDocs.Conversion .NET | Guide för textfilbehandling"
 "url": "/sv/net/text-file-processing/convert-fods-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera FODS-filer till TXT med GroupDocs.Conversion .NET
 
 ## Introduktion

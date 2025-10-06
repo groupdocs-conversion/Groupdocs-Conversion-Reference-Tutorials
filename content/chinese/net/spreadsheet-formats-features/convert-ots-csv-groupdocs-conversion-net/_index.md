@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 帮助 .NET 开发人员高效地将 OTS 转换为 CSV"
 "url": "/zh/net/spreadsheet-formats-features/convert-ots-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 帮助 .NET 开发人员高效地将 OTS 转换为 CSV
 
 ## 介绍

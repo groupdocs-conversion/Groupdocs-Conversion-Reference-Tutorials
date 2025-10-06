@@ -4,8 +4,8 @@
 "title": "Steg-för-steg-guide för att konvertera SXC till PPTX med GroupDocs.Conversion för .NET"
 "url": "/sv/net/presentation-formats-features/convert-sxc-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar SXC-filer till PPTX med GroupDocs.Conversion för .NET
 
 ## Introduktion

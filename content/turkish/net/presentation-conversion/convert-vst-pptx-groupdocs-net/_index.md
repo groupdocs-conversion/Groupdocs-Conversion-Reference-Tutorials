@@ -4,8 +4,8 @@
 "title": "GroupDocs for .NET Kullanarak VST'yi PPTX'e Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/presentation-conversion/convert-vst-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs'u Kullanarak VST'yi PPTX'e Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

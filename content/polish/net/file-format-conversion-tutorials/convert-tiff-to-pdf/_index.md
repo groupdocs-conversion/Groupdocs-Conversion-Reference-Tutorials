@@ -5,8 +5,8 @@
 "title": "Konwertuj TIFF do PDF"
 "url": "/pl/net/file-format-conversion-tutorials/convert-tiff-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # Konwertuj TIFF do PDF
 
 ## Wstęp

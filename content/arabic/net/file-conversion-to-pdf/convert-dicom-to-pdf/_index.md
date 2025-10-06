@@ -5,8 +5,8 @@
 "title": "تحويل صور DICOM الطبية إلى PDF"
 "url": "/ar/net/file-conversion-to-pdf/convert-dicom-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # تحويل صور DICOM الطبية إلى PDF
 
 ## مقدمة

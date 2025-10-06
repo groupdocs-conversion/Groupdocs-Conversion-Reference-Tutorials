@@ -5,8 +5,8 @@
 "title": "GIF छवियों को PDF में बदलें"
 "url": "/hi/net/convert-files-to-pdf/convert-gif-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # GIF छवियों को PDF में बदलें
 
 ## परिचय

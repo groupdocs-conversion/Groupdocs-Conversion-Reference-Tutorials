@@ -4,8 +4,8 @@
 "title": "Конвертируйте EPUB в DOC с помощью GroupDocs.Conversion .NET&#58; Подробное руководство"
 "url": "/ru/net/word-processing-conversion/convert-epub-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте EPUB в DOC с помощью GroupDocs.Conversion .NET: подробное руководство
 
 ## Введение

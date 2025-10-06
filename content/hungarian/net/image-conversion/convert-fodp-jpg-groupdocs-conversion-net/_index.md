@@ -4,8 +4,8 @@
 "title": "Hatékony FODP-JPG konvertálás a GroupDocs.Conversion .NET használatával"
 "url": "/hu/net/image-conversion/convert-fodp-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony FODP-JPG konvertálás a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

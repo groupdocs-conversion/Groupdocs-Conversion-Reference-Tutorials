@@ -4,8 +4,8 @@
 "title": "Domine la conversión de archivos adjuntos de correo electrónico .NET con la biblioteca GroupDocs.Conversion&#58; una guía completa"
 "url": "/es/net/email-formats-features/net-email-attachment-conversion-groupdocs-guide/"
 "weight": 1
+type: docs
 ---
-
 # Domine la conversión de archivos adjuntos de correo electrónico .NET con la biblioteca GroupDocs.Conversion
 
 ## Introducción

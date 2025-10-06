@@ -4,8 +4,8 @@
 "title": "Konvertering av huvudfiler i Java – en omfattande guide till att använda GroupDocs.Conversion"
 "url": "/sv/java/document-operations/java-groupdocs-conversion-file-handling/"
 "weight": 1
+type: docs
 ---
-
 # Mastering File Conversion in Java: En omfattande guide till att använda GroupDocs.Conversion
 
 ## Introduktion

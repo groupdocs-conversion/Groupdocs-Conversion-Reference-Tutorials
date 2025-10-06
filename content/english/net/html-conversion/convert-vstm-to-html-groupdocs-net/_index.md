@@ -8,10 +8,8 @@ keywords:
 - Convert VSTM to HTML
 - GroupDocs.Conversion for .NET
 - Visio Macro-Enabled Drawing Template conversion
-
+type: docs
 ---
-
-
 # How to Convert VSTM Files to HTML Using GroupDocs.Conversion for .NET: A Developer's Guide
 
 ## Introduction

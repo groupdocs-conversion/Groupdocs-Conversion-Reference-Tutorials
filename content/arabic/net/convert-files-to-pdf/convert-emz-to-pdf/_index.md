@@ -5,8 +5,8 @@
 "title": "تحويل ملفات التعريف المحسنة EMZ إلى PDF"
 "url": "/ar/net/convert-files-to-pdf/convert-emz-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # تحويل ملفات التعريف المحسنة EMZ إلى PDF
 
 ## مقدمة

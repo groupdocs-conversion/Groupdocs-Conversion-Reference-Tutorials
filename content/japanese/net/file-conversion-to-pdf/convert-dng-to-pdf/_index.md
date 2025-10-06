@@ -5,8 +5,8 @@
 "title": "DNG画像をPDFに変換する"
 "url": "/ja/net/file-conversion-to-pdf/convert-dng-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # DNG画像をPDFに変換する
 
 ## 導入

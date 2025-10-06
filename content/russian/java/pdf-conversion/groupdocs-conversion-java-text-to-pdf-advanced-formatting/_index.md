@@ -4,8 +4,8 @@
 "title": "Расширенное преобразование текста в PDF с помощью GroupDocs.Conversion Java&#58; Сохранение форматирования"
 "url": "/ru/java/pdf-conversion/groupdocs-conversion-java-text-to-pdf-advanced-formatting/"
 "weight": 1
+type: docs
 ---
-
 # Расширенное преобразование текста в PDF с помощью GroupDocs.Conversion Java: сохранение форматирования
 
 ## Введение

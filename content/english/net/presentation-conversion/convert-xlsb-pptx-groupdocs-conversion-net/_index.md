@@ -8,10 +8,8 @@ keywords:
 - convert XLSB to PPTX
 - GroupDocs.Conversion for .NET
 - automate file conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert XLSB to PPTX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

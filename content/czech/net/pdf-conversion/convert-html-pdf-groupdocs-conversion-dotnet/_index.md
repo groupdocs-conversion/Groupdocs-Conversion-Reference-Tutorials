@@ -4,8 +4,8 @@
 "title": "Převod HTML do PDF pomocí GroupDocs.Conversion pro .NET (Výukový program pro převod PDF)"
 "url": "/cs/net/pdf-conversion/convert-html-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod HTML do PDF pomocí GroupDocs.Conversion pro .NET
 ## Zavedení
 Hledáte způsob, jak převést své HTML soubory do přenosnějšího a bezpečnějšího formátu, jako je PDF? Ať už jde o prezentaci webového obsahu v tisknutelné podobě nebo o distribuci dokumentů bez obav ze změn formátování, použití správných nástrojů může znamenat velký rozdíl. V tomto tutoriálu vás provedeme efektivním řešením s využitím GroupDocs.Conversion pro .NET.

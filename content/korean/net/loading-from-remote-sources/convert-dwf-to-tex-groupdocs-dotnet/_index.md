@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion 라이브러리를 사용하여 .NET에서 DWF를 TEX로 변환"
 "url": "/ko/net/loading-from-remote-sources/convert-dwf-to-tex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET에서 GroupDocs.Conversion을 사용하여 DWF를 TEX로 변환
 
 ## 소개

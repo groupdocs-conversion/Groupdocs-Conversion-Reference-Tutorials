@@ -4,8 +4,8 @@
 "title": "Converteer wachtwoordbeveiligde Word-documenten naar PDF's met GroupDocs.Conversion voor Java"
 "url": "/nl/java/security-protection/convert-word-doc-to-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Converteer wachtwoordbeveiligde Word-documenten naar PDF met GroupDocs in Java
 In het huidige digitale tijdperk is veilige documentverwerking essentieel, vooral wanneer het gaat om gevoelige informatie die is opgeslagen in wachtwoordbeveiligde bestanden. Deze handleiding laat zien hoe u dergelijke documenten kunt converteren naar universeel toegankelijke PDF-formaten met behoud van hun beveiligingsfuncties. **GroupDocs.Conversion voor Java**.
 

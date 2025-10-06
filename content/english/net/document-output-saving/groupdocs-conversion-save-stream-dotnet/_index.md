@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion for .NET
 - convert files to stream
 - document conversion in .NET
-
+type: docs
 ---
-
-
 # How to Implement GroupDocs.Conversion .NET: Save a Converted File to a Stream
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Konversi File LOG ke Dokumen Word Secara Efisien Menggunakan GroupDocs.Conversion dalam .NET"
 "url": "/id/net/word-processing-formats-features/convert-log-files-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi File LOG ke Dokumen Word Secara Efisien Menggunakan GroupDocs.Conversion dalam .NET
 
 ## Perkenalan

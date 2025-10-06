@@ -5,8 +5,8 @@
 "title": "Konwertuj pliki DWF CAD do PDF"
 "url": "/pl/net/file-conversion-to-pdf/convert-dwf-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # Konwertuj pliki DWF CAD do PDF
 
 ## Wstęp

@@ -4,8 +4,8 @@
 "title": "Adım Adım Kılavuz&#58; GroupDocs.Conversion for .NET Kullanarak STL Dosyalarını Yükleme ve Dönüştürme"
 "url": "/tr/net/cad-technical-drawing-formats/step-by-step-guide-load-stl-files-net/"
 "weight": 1
+type: docs
 ---
-
 # Adım Adım Kılavuz: .NET ile STL Dosyalarını Yükleme ve Dönüştürme
 
 ## giriiş

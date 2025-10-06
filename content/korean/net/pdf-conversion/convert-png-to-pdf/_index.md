@@ -5,8 +5,8 @@
 "title": "PNG를 PDF로 변환"
 "url": "/ko/net/pdf-conversion/convert-png-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # PNG를 PDF로 변환
 
 ## 소개

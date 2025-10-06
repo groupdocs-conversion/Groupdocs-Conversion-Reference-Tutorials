@@ -4,8 +4,8 @@
 "title": "Převod MPX do TeXu pomocí GroupDocs.Conversion pro .NET&#58; Průvodce vývojáře"
 "url": "/cs/net/text-markup-conversion/convert-mpx-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod MPX do TEXu pomocí GroupDocs.Conversion pro .NET: Průvodce vývojáře
 
 ## Zavedení

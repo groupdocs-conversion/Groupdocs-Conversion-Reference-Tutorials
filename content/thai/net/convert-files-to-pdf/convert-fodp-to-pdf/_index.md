@@ -5,8 +5,8 @@
 "title": "แปลงไฟล์นำเสนอ FODP OpenDocument เป็น PDF"
 "url": "/th/net/convert-files-to-pdf/convert-fodp-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # แปลงไฟล์นำเสนอ FODP OpenDocument เป็น PDF
 
 ## การแนะนำ

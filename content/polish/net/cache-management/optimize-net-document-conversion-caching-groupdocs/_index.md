@@ -4,8 +4,8 @@
 "title": "Optymalizacja konwersji dokumentów .NET z buforowaniem przy użyciu GroupDocs.Conversion"
 "url": "/pl/net/cache-management/optimize-net-document-conversion-caching-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Optymalizacja konwersji dokumentów .NET z buforowaniem przy użyciu GroupDocs.Conversion
 
 ## Wstęp

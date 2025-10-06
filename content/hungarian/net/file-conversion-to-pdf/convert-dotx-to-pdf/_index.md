@@ -5,8 +5,8 @@
 "title": "DOTX Word sablonok konvertálása PDF-be"
 "url": "/hu/net/file-conversion-to-pdf/convert-dotx-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # DOTX Word sablonok konvertálása PDF-be
 
 ## Bevezetés

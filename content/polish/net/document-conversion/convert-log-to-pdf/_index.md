@@ -5,8 +5,8 @@
 "title": "Konwertuj LOG do PDF"
 "url": "/pl/net/document-conversion/convert-log-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # Konwertuj LOG do PDF
 
 ## Wstęp

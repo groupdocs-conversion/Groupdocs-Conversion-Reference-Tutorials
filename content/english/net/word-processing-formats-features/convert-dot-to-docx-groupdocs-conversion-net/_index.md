@@ -8,10 +8,8 @@ keywords:
 - .dot to .docx conversion
 - GroupDocs.Conversion for .NET
 - Word template conversion
-
+type: docs
 ---
-
-
 # How to Convert .dot Files to .docx Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - convert POTM to PPT
 - GroupDocs.Conversion for .NET
 - PowerPoint template conversion
-
+type: docs
 ---
-
-
 # How to Convert POTM to PPT Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

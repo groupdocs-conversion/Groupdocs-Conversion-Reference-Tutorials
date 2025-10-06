@@ -4,8 +4,8 @@
 "title": "Convierta DOT a SVG de manera eficiente usando GroupDocs.Conversion para .NET"
 "url": "/es/net/image-formats-features/convert-dot-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir archivos DOT a SVG usando GroupDocs.Conversion para .NET
 
 ## Introducción

@@ -4,8 +4,8 @@
 "title": "تحويل PPTX بكفاءة مع الشرائح المخفية إلى PDF في Java باستخدام GroupDocs.Conversion"
 "url": "/ar/java/presentation-formats/convert-pptx-hidden-slides-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # تحويل PPTX مع الشرائح المخفية إلى PDF بسهولة في Java باستخدام GroupDocs.Conversion
 
 في العصر الرقمي، يُعد تحويل مستندات العروض التقديمية إلى صيغ متاحة للجميع مثل PDF مطلبًا شائعًا للمطورين. يرشدك هذا البرنامج التعليمي إلى حل فعال باستخدام **GroupDocs.Conversion لـ Java** لتحويل عروض PowerPoint، بما في ذلك الشرائح المخفية، إلى تنسيق PDF.

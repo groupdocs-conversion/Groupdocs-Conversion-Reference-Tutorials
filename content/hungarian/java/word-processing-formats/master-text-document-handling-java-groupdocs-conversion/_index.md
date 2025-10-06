@@ -4,8 +4,8 @@
 "title": "Szöveges dokumentumok kezelésének mesteri szintje Java nyelven&#58; GroupDocs.Conversion használata a zökkenőmentes kódoláshoz és PDF-konvertáláshoz"
 "url": "/hu/java/word-processing-formats/master-text-document-handling-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Szöveges dokumentumok kezelésének elsajátítása Java nyelven a GroupDocs.Conversion segítségével
 
 ## Bevezetés

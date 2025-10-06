@@ -8,10 +8,8 @@ keywords:
 - convert word to excel java
 - groupdocs conversion java tutorial
 - word to excel document conversion
-
+type: docs
 ---
-
-
 # Convert Word to Excel with GroupDocs.Conversion Java: A Comprehensive Guide
 
 ## Introduction

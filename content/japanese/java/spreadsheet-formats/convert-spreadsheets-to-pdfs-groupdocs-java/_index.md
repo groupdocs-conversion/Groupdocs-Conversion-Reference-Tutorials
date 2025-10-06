@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for JavaでスプレッドシートをPDFに変換する方法 ― 総合ガイド"
 "url": "/ja/java/spreadsheet-formats/convert-spreadsheets-to-pdfs-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for Java でスプレッドシートを PDF に変換する: 総合ガイド
 
 ## 導入

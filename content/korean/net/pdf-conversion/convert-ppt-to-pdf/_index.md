@@ -5,8 +5,8 @@
 "title": "PPT를 PDF로 변환"
 "url": "/ko/net/pdf-conversion/convert-ppt-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # PPT를 PDF로 변환
 
 ## 소개

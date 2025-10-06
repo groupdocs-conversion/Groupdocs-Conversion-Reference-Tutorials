@@ -4,8 +4,8 @@
 "title": ".NET'te GroupDocs ile Metinden Sunuma Dönüşümde Ustalaşın Kapsamlı Bir Kılavuz"
 "url": "/tr/net/presentation-conversion/groupdocs-net-text-ppt-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # .NET'te GroupDocs ile Metinden Sunuma Dönüşümü Ustalaştırın
 
 ## giriiş

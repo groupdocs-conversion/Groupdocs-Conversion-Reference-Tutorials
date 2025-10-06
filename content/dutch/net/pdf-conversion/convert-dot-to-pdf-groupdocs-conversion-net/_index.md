@@ -4,8 +4,8 @@
 "title": "Converteer DOT eenvoudig naar PDF - Stapsgewijze handleiding met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/pdf-conversion/convert-dot-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer DOT eenvoudig naar PDF: stapsgewijze handleiding met GroupDocs.Conversion voor .NET
 
 ## Invoering

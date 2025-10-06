@@ -4,8 +4,8 @@
 "title": "PDF betűtípus-helyettesítés mesteri szintje .NET-ben a GroupDocs.Conversion segítségével – Átfogó útmutató"
 "url": "/hu/net/font-handling-substitution/groupdocs-conversion-pdf-font-substitution-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # PDF betűtípus-helyettesítés mesterszintű ismerete .NET-ben a GroupDocs.Conversion segítségével
 
 A tipográfia egységességének biztosítása a dokumentumok konvertálása során létfontosságú. Ez az átfogó útmutató bemutatja a GroupDocs.Conversion for .NET használatát a betűtípus-helyettesítések hatékony kezeléséhez a dokumentumok PDF-be konvertálása során.

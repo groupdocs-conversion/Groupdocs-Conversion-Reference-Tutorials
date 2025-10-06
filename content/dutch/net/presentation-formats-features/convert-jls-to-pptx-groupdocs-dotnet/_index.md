@@ -4,8 +4,8 @@
 "title": "Efficiënte handleiding&#58; converteer JLS naar PPTX met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/presentation-formats-features/convert-jls-to-pptx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Efficiënte handleiding: JLS naar PPTX converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

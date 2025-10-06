@@ -4,8 +4,8 @@
 "title": "كيفية تحويل عرض شرائح PowerPoint (.PPSM) إلى CSV باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/spreadsheet-formats-features/convert-ppsm-to-csv-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل عرض شرائح PowerPoint (.PPSM) إلى CSV باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

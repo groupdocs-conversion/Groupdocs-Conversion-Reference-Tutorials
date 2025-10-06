@@ -8,10 +8,8 @@ keywords:
 - convert DWT to PPT
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Convert DWT to PowerPoint PPT Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

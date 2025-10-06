@@ -4,8 +4,8 @@
 "title": "ODG'yi GroupDocs.Conversion for .NET Kullanarak TEX'e Dönüştürme&#58; Tam Bir Kılavuz"
 "url": "/tr/net/presentation-formats-features/convert-odg-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak ODG'yi TEX'e Dönüştürme: Eksiksiz Bir Kılavuz
 
 ## giriiş

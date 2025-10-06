@@ -4,8 +4,8 @@
 "title": "PDF'yi GroupDocs.Conversion for .NET ile LaTeX'e Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/pdf-conversion-features/convert-pdf-to-latex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PDF'yi GroupDocs.Conversion for .NET ile LaTeX'e dönüştürün
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "Hur man konverterar JPS-bilder (JLS) till Word-dokument (.doc) med GroupDocs.Conversion för .NET"
 "url": "/sv/net/word-processing-formats-features/convert-jls-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar JLS till DOC med GroupDocs.Conversion för .NET
 
 ## Introduktion

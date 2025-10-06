@@ -5,8 +5,8 @@
 "title": "将 DOCX Word 文档转换为 PDF"
 "url": "/zh/net/file-conversion-to-pdf/convert-docx-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # 将 DOCX Word 文档转换为 PDF
 
 ## 介绍

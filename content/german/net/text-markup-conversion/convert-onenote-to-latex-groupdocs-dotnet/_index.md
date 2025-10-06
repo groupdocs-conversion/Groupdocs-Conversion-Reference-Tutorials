@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie OneNote-Dateien mit GroupDocs.Conversion für .NET in LaTeX – Ein umfassender Leitfaden"
 "url": "/de/net/text-markup-conversion/convert-onenote-to-latex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie OneNote-Dateien mit GroupDocs.Conversion für .NET in LaTeX: Eine umfassende Anleitung
 
 ## Einführung

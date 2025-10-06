@@ -5,8 +5,8 @@
 "title": "VSTをPDFに変換する"
 "url": "/ja/net/converting-file-types-to-pdf/convert-vst-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # VSTをPDFに変換する
 
 ## 導入

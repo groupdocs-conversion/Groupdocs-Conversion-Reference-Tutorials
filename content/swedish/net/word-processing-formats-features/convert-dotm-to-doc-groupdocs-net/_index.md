@@ -4,8 +4,8 @@
 "title": "Konvertera DOTM till DOC med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/word-processing-formats-features/convert-dotm-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar DOTM till DOC med GroupDocs.Conversion för .NET
 
 Har du svårt att konvertera Microsoft Word-makroaktiverade mallar (.dotm) till vanliga Word-dokument (.doc)? Den här omfattande guiden om hur du använder **GroupDocs.Conversion för .NET** biblioteket kommer att hjälpa till att effektivisera den här processen utan problem. I slutet av den här handledningen kommer du att vara skicklig på att konvertera filformat med lätthet.

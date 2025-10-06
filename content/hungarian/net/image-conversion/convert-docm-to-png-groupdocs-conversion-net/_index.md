@@ -4,8 +4,8 @@
 "title": "DOCM PNG-vé konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-docm-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DOCM PNG-vé konvertálása a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

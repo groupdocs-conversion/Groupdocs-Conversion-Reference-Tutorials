@@ -8,10 +8,8 @@ keywords:
 - convert ODP to JPG
 - GroupDocs.Conversion for .NET
 - ODP file conversion
-
+type: docs
 ---
-
-
 # Convert ODP Files to JPG Using GroupDocs.Conversion for .NET
 
 ## Introduction

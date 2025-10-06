@@ -4,8 +4,8 @@
 "title": "ซ่อนการเปลี่ยนแปลงที่ติดตามใน Word เป็น PDF ด้วย GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/page-management-content-manipulation/hide-tracked-changes-word-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # เรียนรู้การแปลงไฟล์ Word เป็น PDF ขั้นสูงด้วยการติดตามการเปลี่ยนแปลงที่ซ่อนอยู่โดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

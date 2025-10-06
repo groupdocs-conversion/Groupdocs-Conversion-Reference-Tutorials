@@ -4,8 +4,8 @@
 "title": "Excel (XLS) fájlok konvertálása szöveggé (TXT) a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/text-markup-conversion/convert-xls-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Excel (XLS) fájlok konvertálása szöveggé (TXT) a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

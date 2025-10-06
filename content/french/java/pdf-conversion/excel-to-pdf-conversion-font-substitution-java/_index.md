@@ -4,8 +4,8 @@
 "title": "Convertir Excel en PDF en Java avec substitution de polices à l'aide de GroupDocs.Conversion"
 "url": "/fr/java/pdf-conversion/excel-to-pdf-conversion-font-substitution-java/"
 "weight": 1
+type: docs
 ---
-
 # Convertir Excel en PDF en Java avec substitution de polices à l'aide de GroupDocs.Conversion
 
 ## Introduction

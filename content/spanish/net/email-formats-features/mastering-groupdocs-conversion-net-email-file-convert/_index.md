@@ -4,8 +4,8 @@
 "title": "Dominando GroupDocs.Conversion .NET para la conversión de correo electrónico y archivos&#58; una guía completa"
 "url": "/es/net/email-formats-features/mastering-groupdocs-conversion-net-email-file-convert/"
 "weight": 1
+type: docs
 ---
-
 # Dominando GroupDocs.Conversion .NET para la conversión de correo electrónico y archivos: una guía completa
 
 ## Introducción

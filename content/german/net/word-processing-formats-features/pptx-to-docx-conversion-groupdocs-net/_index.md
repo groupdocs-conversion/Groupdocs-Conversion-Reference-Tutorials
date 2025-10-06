@@ -4,8 +4,8 @@
 "title": "Effiziente PPTX-zu-DOCX-Konvertierung mit GroupDocs.Conversion für .NET"
 "url": "/de/net/word-processing-formats-features/pptx-to-docx-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Effiziente PPTX-zu-DOCX-Konvertierung mit GroupDocs.Conversion für .NET
 
 ## Einführung

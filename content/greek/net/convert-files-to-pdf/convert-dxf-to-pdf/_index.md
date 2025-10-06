@@ -5,8 +5,8 @@
 "title": "Μετατροπή αρχείων ανταλλαγής σχεδίων DXF CAD σε PDF"
 "url": "/el/net/convert-files-to-pdf/convert-dxf-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # Μετατροπή αρχείων ανταλλαγής σχεδίων DXF CAD σε PDF
 
 ## Εισαγωγή

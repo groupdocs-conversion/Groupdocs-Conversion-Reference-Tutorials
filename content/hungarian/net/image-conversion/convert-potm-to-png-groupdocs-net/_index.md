@@ -4,8 +4,8 @@
 "title": "POTM fájlok PNG formátumba konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-potm-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhatunk POTM fájlokat PNG-vé a GroupDocs.Conversion for .NET használatával?
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie passwortgeschützte Word-Dokumente mit GroupDocs.Conversion für Java in Excel-Tabellen"
 "url": "/de/java/spreadsheet-formats/convert-password-docs-to-spreadsheets-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie passwortgeschützte Dokumente mit GroupDocs.Conversion für Java
 
 ## Einführung

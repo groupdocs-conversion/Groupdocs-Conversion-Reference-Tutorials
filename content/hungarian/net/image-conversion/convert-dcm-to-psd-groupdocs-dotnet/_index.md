@@ -4,8 +4,8 @@
 "title": "DCM konvertálása PSD-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-dcm-to-psd-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # DCM konvertálása PSD-vé a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

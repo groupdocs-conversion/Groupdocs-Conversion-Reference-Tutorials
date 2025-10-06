@@ -4,8 +4,8 @@
 "title": "MPT konvertálása XLS-be a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/spreadsheet-conversion/convert-mpt-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # MPT fájlok konvertálása XLS formátumba a GroupDocs.Conversion for .NET segítségével
 
 Üdvözöljük ebben az átfogó útmutatóban, amely bemutatja, hogyan konvertálhatja a Microsoft Project Template (.mpt) fájlokat Excel bináris fájlformátumba (.xls) a hatékony GroupDocs.Conversion for .NET könyvtár segítségével. Ez a folyamat kulcsfontosságú azok számára, akiknek a projektadatokat az Excel sokoldalú környezetében kell kezelniük.

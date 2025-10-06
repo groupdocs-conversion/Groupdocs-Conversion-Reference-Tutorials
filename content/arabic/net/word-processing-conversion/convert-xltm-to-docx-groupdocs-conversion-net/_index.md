@@ -4,8 +4,8 @@
 "title": "كيفية تحويل ملفات XLTm إلى DOCX باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/word-processing-conversion/convert-xltm-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل ملفات XLTm إلى DOCX باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

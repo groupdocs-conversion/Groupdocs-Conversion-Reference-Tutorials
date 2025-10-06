@@ -5,8 +5,8 @@
 "title": "Konverze formátu souboru"
 "url": "/cs/net/file-format-conversion-tutorials/"
 "weight": 21
+type: docs
 ---
-
 # Konverze formátu souboru
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "TEX'i PNG'ye Verimli Şekilde Dönüştürün&#58; GroupDocs.Conversion for .NET Kılavuzu"
 "url": "/tr/net/image-conversion/convert-tex-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # TEX'i GroupDocs.Conversion for .NET ile PNG'ye dönüştürün
 
 ## giriiş

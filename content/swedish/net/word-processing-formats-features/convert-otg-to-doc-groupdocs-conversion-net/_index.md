@@ -4,8 +4,8 @@
 "title": "Konvertera OTG till DOC med GroupDocs.Conversion .NET – en steg-för-steg-guide"
 "url": "/sv/net/word-processing-formats-features/convert-otg-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera OTG till DOC med GroupDocs.Conversion .NET: En steg-för-steg-guide
 
 ## Introduktion

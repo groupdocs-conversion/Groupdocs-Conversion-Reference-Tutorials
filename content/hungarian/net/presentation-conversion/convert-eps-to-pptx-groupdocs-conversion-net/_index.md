@@ -4,8 +4,8 @@
 "title": "EPS konvertálása PPTX-be a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/presentation-conversion/convert-eps-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # EPS konvertálása PPTX-be a GroupDocs.Conversion for .NET segítségével: Átfogó útmutató
 
 ## Bevezetés

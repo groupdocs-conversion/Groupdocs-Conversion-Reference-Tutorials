@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中实现高效文档转换——综合指南"
 "url": "/zh/net/conversion-utilities-information/mastering-document-conversions-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 .NET 中实现高效文档转换：综合指南
 
 ## 介绍

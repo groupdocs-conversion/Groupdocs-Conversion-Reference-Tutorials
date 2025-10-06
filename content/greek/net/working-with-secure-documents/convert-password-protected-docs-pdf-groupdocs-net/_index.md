@@ -4,8 +4,8 @@
 "title": "Μετατρέψτε έγγραφα Word που προστατεύονται με κωδικό πρόσβασης σε PDF χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/working-with-secure-documents/convert-password-protected-docs-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να φορτώσετε και να μετατρέψετε έγγραφα Word που προστατεύονται με κωδικό πρόσβασης σε PDF χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

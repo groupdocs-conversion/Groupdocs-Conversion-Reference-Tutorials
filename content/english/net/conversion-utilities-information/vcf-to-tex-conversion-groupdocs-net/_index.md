@@ -8,10 +8,8 @@ keywords:
 - VCF to TEX Conversion
 - GroupDocs.Conversion for .NET
 - .NET file conversion
-
+type: docs
 ---
-
-
 # Efficient VCF to TEX Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

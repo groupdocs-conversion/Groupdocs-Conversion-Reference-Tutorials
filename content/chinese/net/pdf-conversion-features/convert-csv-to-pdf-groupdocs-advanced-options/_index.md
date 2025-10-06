@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中将 CSV 转换为 PDF 及其高级选项"
 "url": "/zh/net/pdf-conversion-features/convert-csv-to-pdf-groupdocs-advanced-options/"
 "weight": 1
+type: docs
 ---
-
 # 在 .NET 中将 CSV 转换为 PDF：使用 GroupDocs.Conversion 的高级选项
 
 ## 介绍

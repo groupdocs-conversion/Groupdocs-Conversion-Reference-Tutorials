@@ -4,8 +4,8 @@
 "title": "PPSM'yi GroupDocs.Conversion for .NET Kullanarak HTML'ye Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/html-conversion/convert-ppsm-html-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # PPSM'yi GroupDocs.Conversion for .NET Kullanarak HTML'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

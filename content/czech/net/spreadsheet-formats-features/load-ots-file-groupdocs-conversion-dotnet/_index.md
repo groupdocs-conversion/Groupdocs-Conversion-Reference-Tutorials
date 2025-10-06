@@ -4,8 +4,8 @@
 "title": "Jak načíst a převést soubory OTS pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/spreadsheet-formats-features/load-ots-file-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak načíst a převést soubory OTS pomocí GroupDocs.Conversion pro .NET
 
 V dnešní digitální krajině je správa různých formátů dokumentů nezbytná pro firmy i vývojáře. Ať už se jedná o zpracování faktur nebo smluv, jejich převod do univerzálně akceptovaných formátů může ušetřit čas a zdroje. Tento tutoriál vás provede načtením a převodem souboru OpenDocument Spreadsheet Text (OTS) pomocí výkonné knihovny GroupDocs.Conversion pro .NET.

@@ -4,8 +4,8 @@
 "title": "Uitgebreide handleiding&#58; EPUB naar PPT-conversie met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/presentation-conversion/groupdocs-epub-to-ppt-conversion-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Uitgebreide handleiding: EPUB naar PPT-conversie met GroupDocs.Conversion voor .NET
 
 ## Invoering

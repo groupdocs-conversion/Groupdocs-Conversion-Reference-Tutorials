@@ -8,10 +8,8 @@ keywords:
 - convert VSTM to PNG .NET
 - GroupDocs.Conversion for .NET
 - VSTM to PNG conversion
-
+type: docs
 ---
-
-
 # Convert VSTM to PNG in .NET using GroupDocs.Conversion: Step-by-Step Guide
 
 ## Introduction

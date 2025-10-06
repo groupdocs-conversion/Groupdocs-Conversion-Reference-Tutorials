@@ -4,8 +4,8 @@
 "title": "Jak převést soubory šablon Visio (VSSX) do prezentací PowerPointu pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/presentation-formats-features/convert-visio-vssx-to-powerpoint-pptx-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory šablon Visio (VSSX) do prezentací PowerPointu pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

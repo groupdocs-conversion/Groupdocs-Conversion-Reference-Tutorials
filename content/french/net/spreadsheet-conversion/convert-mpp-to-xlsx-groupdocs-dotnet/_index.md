@@ -4,8 +4,8 @@
 "title": "Convertissez facilement MPP en XLSX avec GroupDocs.Conversion pour .NET"
 "url": "/fr/net/spreadsheet-conversion/convert-mpp-to-xlsx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertissez facilement MPP en XLSX avec GroupDocs.Conversion pour .NET
 
 ## Introduction

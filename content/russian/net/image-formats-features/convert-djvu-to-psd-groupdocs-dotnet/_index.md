@@ -4,8 +4,8 @@
 "title": "Как конвертировать файлы DJVU в PSD с помощью GroupDocs.Conversion для .NET (C#)"
 "url": "/ru/net/image-formats-features/convert-djvu-to-psd-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Как конвертировать файлы DJVU в PSD с помощью GroupDocs.Conversion для .NET (C#)
 
 ## Введение

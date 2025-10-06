@@ -4,8 +4,8 @@
 "title": "Padroneggiare la conversione dei file in C# utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/document-output-saving/mastering-file-conversion-csharp-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Padroneggiare la conversione dei file in C#: implementazione di GroupDocs.Conversion per .NET
 
 ## Introduzione

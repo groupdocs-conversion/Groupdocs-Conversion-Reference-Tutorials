@@ -4,8 +4,8 @@
 "title": "ติดตามความคืบหน้าการแปลงเอกสารใน Java โดยใช้ GroupDocs คู่มือฉบับสมบูรณ์"
 "url": "/th/java/conversion-events-logging/java-groupdocs-conversion-progress-listener/"
 "weight": 1
+type: docs
 ---
-
 # ติดตามความคืบหน้าการแปลงเอกสารใน Java ด้วย GroupDocs: คู่มือฉบับสมบูรณ์
 
 ## การแนะนำ

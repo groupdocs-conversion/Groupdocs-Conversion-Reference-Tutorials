@@ -8,10 +8,8 @@ keywords:
 - convert OXPS to XLS
 - GroupDocs.Conversion .NET
 - file conversion guide
-
+type: docs
 ---
-
-
 # Convert OXPS to XLS with GroupDocs.Conversion .NET: A Comprehensive Guide
 
 ## Introduction

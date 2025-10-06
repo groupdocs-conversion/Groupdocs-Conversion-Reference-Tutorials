@@ -4,8 +4,8 @@
 "title": "FODS konvertálása CSV-vé GroupDocs for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/csv-structured-data-processing/convert-fods-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # FODS konvertálása CSV-vé GroupDocs for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

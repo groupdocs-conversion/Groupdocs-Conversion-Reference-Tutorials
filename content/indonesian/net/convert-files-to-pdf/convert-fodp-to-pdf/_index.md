@@ -5,8 +5,8 @@
 "title": "Konversi Presentasi OpenDocument FODP ke PDF"
 "url": "/id/net/convert-files-to-pdf/convert-fodp-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # Konversi Presentasi OpenDocument FODP ke PDF
 
 ## Perkenalan

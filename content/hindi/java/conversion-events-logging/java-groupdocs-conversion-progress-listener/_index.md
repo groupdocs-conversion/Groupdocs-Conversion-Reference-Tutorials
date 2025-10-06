@@ -4,8 +4,8 @@
 "title": "ग्रुपडॉक्स का उपयोग करके जावा में दस्तावेज़ रूपांतरण प्रगति को ट्रैक करें&#58; एक संपूर्ण गाइड"
 "url": "/hi/java/conversion-events-logging/java-groupdocs-conversion-progress-listener/"
 "weight": 1
+type: docs
 ---
-
 # ग्रुपडॉक्स के साथ जावा में दस्तावेज़ रूपांतरण प्रगति को ट्रैक करें: एक संपूर्ण गाइड
 
 ## परिचय

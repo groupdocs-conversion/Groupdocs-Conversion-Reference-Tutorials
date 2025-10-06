@@ -5,8 +5,8 @@
 "title": "AI फ़ाइलों को PDF में बदलें"
 "url": "/hi/net/file-conversion-to-pdf/convert-ai-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # AI फ़ाइलों को PDF में बदलें
 
 ## परिचय

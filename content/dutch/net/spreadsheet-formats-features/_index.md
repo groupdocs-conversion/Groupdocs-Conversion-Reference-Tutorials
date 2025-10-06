@@ -3,8 +3,8 @@
 "title": "Zelfstudies over spreadsheetindelingen en functies voor GroupDocs.Conversion .NET"
 "url": "/nl/net/spreadsheet-formats-features/"
 "weight": 11
+type: docs
 ---
-
 # Zelfstudies over spreadsheetindelingen en functies voor GroupDocs.Conversion .NET
 
 Leer hoe u spreadsheets verwerkt met onze GroupDocs.Conversion .NET-tutorials. Deze gedetailleerde handleidingen laten zien hoe u kunt converteren tussen Excel-indelingen, CSV en andere spreadsheettypen, rasterlijnen en opmerkingen kunt weergeven of verbergen, lege rijen en kolommen kunt overslaan, bereiken en bladindexen kunt opgeven voor conversie, verborgen bladen kunt beheren, formules en functies kunt behouden, celopmaak kunt behouden en berekeningsketens kunt beheren tijdens de conversie. Elke tutorial bevat werkende C#-codevoorbeelden die laten zien hoe u nauwkeurige spreadsheetconversie kunt implementeren met behoud van complexe berekeningen en visuele elementen.

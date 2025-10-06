@@ -4,8 +4,8 @@
 "title": "Легко конвертируйте DWT в PNG с помощью GroupDocs.Conversion для .NET&#58; Полное руководство"
 "url": "/ru/net/image-conversion/convert-dwt-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Легко конвертируйте DWT в PNG с помощью GroupDocs.Conversion для .NET: полное руководство
 
 ## Введение

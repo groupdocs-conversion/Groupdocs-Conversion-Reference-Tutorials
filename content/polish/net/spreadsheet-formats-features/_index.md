@@ -3,8 +3,8 @@
 "title": "Samouczki dotyczące formatów i funkcji arkuszy kalkulacyjnych dla GroupDocs.Conversion .NET"
 "url": "/pl/net/spreadsheet-formats-features/"
 "weight": 11
+type: docs
 ---
-
 # Samouczki dotyczące formatów i funkcji arkuszy kalkulacyjnych dla GroupDocs.Conversion .NET
 
 Dowiedz się, jak obsługiwać dokumenty arkusza kalkulacyjnego dzięki naszym samouczkom GroupDocs.Conversion .NET. Te szczegółowe przewodniki pokazują, jak konwertować między formatami Excel, CSV i innymi typami arkuszy kalkulacyjnych, wyświetlać lub ukrywać linie siatki i komentarze, pomijać puste wiersze i kolumny, określać zakresy i indeksy arkuszy do konwersji, zarządzać ukrytymi arkuszami, zachowywać formuły i funkcje, utrzymywać formatowanie komórek i kontrolować łańcuchy obliczeniowe podczas konwersji. Każdy samouczek zawiera działające przykłady kodu C#, które pokazują, jak zaimplementować dokładną konwersję arkusza kalkulacyjnego, zachowując jednocześnie złożone obliczenia i elementy wizualne.

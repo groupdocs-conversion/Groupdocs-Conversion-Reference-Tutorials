@@ -4,8 +4,8 @@
 "title": "Tải và chuyển đổi tệp DNG sang SVG hiệu quả bằng GroupDocs.Conversion .NET"
 "url": "/vi/net/image-formats-features/load-convert-dng-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Tải và chuyển đổi tệp DNG sang SVG hiệu quả bằng GroupDocs.Conversion .NET
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": ".dot fájlok konvertálása .docx formátumba a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/word-processing-formats-features/convert-dot-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .dot fájlok konvertálása .docx formátumba a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

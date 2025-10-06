@@ -5,8 +5,8 @@
 "title": "Converter imagens compactadas J2C JPEG-LS para PDF"
 "url": "/pt/net/convert-files-to-pdf/convert-j2c-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # Converter imagens compactadas J2C JPEG-LS para PDF
 
 ## Introdução

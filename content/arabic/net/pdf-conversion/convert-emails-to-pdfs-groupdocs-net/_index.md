@@ -4,8 +4,8 @@
 "title": "حوّل رسائل البريد الإلكتروني إلى ملفات PDF بسلاسة مع GroupDocs.Conversion لـ .NET | دليل شامل"
 "url": "/ar/net/pdf-conversion/convert-emails-to-pdfs-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل رسائل البريد الإلكتروني إلى ملفات PDF بسلاسة مع GroupDocs.Conversion لـ .NET
 
 ## مقدمة

@@ -8,10 +8,8 @@ keywords:
 - convert PDF to Excel with GroupDocs
 - GroupDocs.Conversion for .NET
 - PDF to Excel conversion in .NET
-
+type: docs
 ---
-
-
 # Convert PDF to Excel Using GroupDocs.Conversion for .NET
 
 ## Introduction

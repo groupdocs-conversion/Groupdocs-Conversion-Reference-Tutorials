@@ -4,8 +4,8 @@
 "title": "OTS fájlok TXT formátumba konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/text-file-processing/convert-ots-to-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # OTS fájlok TXT formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

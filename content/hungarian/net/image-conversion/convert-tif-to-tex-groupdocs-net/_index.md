@@ -4,8 +4,8 @@
 "title": "TIF fájlok TEX formátumba konvertálása a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-tif-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # TIF fájlok TEX formátumba konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

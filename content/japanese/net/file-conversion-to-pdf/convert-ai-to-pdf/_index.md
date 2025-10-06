@@ -5,8 +5,8 @@
 "title": "AIファイルをPDFに変換する"
 "url": "/ja/net/file-conversion-to-pdf/convert-ai-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # AIファイルをPDFに変換する
 
 ## 導入

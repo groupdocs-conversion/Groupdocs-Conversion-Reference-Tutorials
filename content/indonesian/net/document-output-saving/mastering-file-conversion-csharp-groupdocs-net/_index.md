@@ -4,8 +4,8 @@
 "title": "Menguasai Konversi File dalam C# Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/document-output-saving/mastering-file-conversion-csharp-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Menguasai Konversi File dalam C#: Menerapkan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

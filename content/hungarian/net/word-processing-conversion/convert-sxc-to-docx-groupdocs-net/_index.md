@@ -4,8 +4,8 @@
 "title": "Dokumentumkonverzió elsajátítása .NET-ben – SXC konvertálása DOCX-be a GroupDocs.Conversion használatával"
 "url": "/hu/net/word-processing-conversion/convert-sxc-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Dokumentumkonverzió elsajátítása .NET-ben: SXC konvertálása DOCX-be a GroupDocs.Conversion használatával
 
 ## Bevezetés

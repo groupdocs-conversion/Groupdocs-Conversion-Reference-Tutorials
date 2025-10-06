@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Java'yı Kullanarak Excel'den PDF'e Verimli Dönüştürme"
 "url": "/tr/java/pdf-conversion/excel-to-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Java ile Verimli Excel'den PDF'e Dönüştürme
 
 ## giriiş

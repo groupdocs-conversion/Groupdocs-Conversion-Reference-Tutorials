@@ -3,8 +3,8 @@
 "title": "Tutoriales de procesamiento de XML y JSON para GroupDocs.Conversion .NET"
 "url": "/es/net/xml-json-processing/"
 "weight": 16
+type: docs
 ---
-
 # Tutoriales de procesamiento de XML y JSON para GroupDocs.Conversion .NET
 
 Explore las capacidades de conversión de formatos de datos con nuestros tutoriales de GroupDocs.Conversion para desarrolladores .NET. Estas guías paso a paso muestran cómo usar XML y JSON como fuentes de datos para crear hojas de cálculo y otros tipos de documentos, preservar las estructuras jerárquicas de datos durante la conversión, mantener relaciones complejas entre objetos, gestionar matrices y colecciones, administrar espacios de nombres y esquemas, e implementar operaciones de transformación y mapeo de datos. Cada tutorial incluye ejemplos prácticos de código C# para trabajar con formatos de datos estructurados, lo que le ayudará a crear aplicaciones que transformen datos legibles por máquinas en formatos de documentos intuitivos.

@@ -4,8 +4,8 @@
 "title": "Hogyan konvertálhat BMP-t DOC-ba a GroupDocs.Conversion for .NET használatával?"
 "url": "/hu/net/word-processing-conversion/convert-bmp-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # BMP fájlok DOC formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

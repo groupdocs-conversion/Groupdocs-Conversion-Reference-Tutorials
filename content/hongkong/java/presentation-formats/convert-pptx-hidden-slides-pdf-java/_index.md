@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 Java 中有效地將帶有隱藏幻燈片的 PPTX 轉換為 PDF"
 "url": "/zh-hant/java/presentation-formats/convert-pptx-hidden-slides-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 Java 中輕鬆將帶有隱藏幻燈片的 PPTX 轉換為 PDF
 
 在數位時代，將簡報文件轉換為 PDF 等通用格式是開發人員的常見需求。本教學將指導您使用以下工具有效率地解決此問題： **GroupDocs.Conversion for Java** 將 PowerPoint 簡報（包括隱藏投影片）轉換為 PDF 格式。

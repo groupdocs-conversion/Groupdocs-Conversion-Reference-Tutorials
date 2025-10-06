@@ -4,8 +4,8 @@
 "title": "Tối ưu hóa chuyển đổi tài liệu .NET với bộ nhớ đệm sử dụng GroupDocs.Conversion"
 "url": "/vi/net/cache-management/optimize-net-document-conversion-caching-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Tối ưu hóa chuyển đổi tài liệu .NET với bộ nhớ đệm sử dụng GroupDocs.Conversion
 
 ## Giới thiệu

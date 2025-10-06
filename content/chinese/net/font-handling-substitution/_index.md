@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 的字体处理和替换教程"
 "url": "/zh/net/font-handling-substitution/"
 "weight": 22
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 的字体处理和替换教程
 
 通过我们全面的 GroupDocs.Conversion .NET 教程探索字体管理功能。这些分步指南演示了如何在各种文档类型（包括 Word、Excel、PowerPoint 和笔记格式）中指定字体替换选项、处理缺失字体、实施字体嵌入策略、管理字体许可要求、控制字体回退行为、保留字体样式和格式，以及确保不同平台上文本外观的一致性。每个教程都包含与字体相关的实用 C# 代码示例，帮助您构建即使在字体可用性挑战下也能保持文档保真度的应用程序。

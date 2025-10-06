@@ -4,8 +4,8 @@
 "title": "Converter POTM em HTML usando GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/html-conversion/convert-potm-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converter POTM em HTML usando GroupDocs.Conversion para .NET: um guia completo
 ## Introdução
 Compartilhar um modelo do PowerPoint sem acesso ao Microsoft PowerPoint ou incorporar apresentações em sites pode ser desafiador. Com **GroupDocs.Conversion para .NET**A conversão de arquivos de modelo do Microsoft PowerPoint (.potm) para HTML é simples e eficiente. Este guia completo o guiará pelo uso desta biblioteca robusta sem esforço.

@@ -4,8 +4,8 @@
 "title": "MPP-ből TXT-be konvertálás mesteri szintű elsajátítása a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/text-file-processing/convert-mpp-txt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # A Microsoft Project fájlkonvertálásának elsajátítása: A GroupDocs.Conversion használata .NET-hez
 
 ## Bevezetés

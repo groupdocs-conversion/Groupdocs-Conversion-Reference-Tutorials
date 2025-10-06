@@ -4,8 +4,8 @@
 "title": "แปลง VSSM เป็น XLSX อย่างมีประสิทธิภาพโดยใช้ GroupDocs.Conversion .NET สำหรับการแปลงสเปรดชีต"
 "url": "/th/net/spreadsheet-conversion/convert-vssm-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลง VSSM เป็น XLSX ด้วย GroupDocs.Conversion .NET
 
 ## การแนะนำ

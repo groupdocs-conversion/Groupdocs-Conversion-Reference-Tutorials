@@ -4,8 +4,8 @@
 "title": "PowerPoint POT fájlok konvertálása Excel XLS fájlokká a GroupDocs.Conversion .NET használatával"
 "url": "/hu/net/presentation-conversion/convert-pot-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PowerPoint POT fájlok konvertálása Excel XLS fájlokká a GroupDocs.Conversion .NET segítségével
 
 ## Bevezetés

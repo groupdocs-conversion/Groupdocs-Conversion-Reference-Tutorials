@@ -5,8 +5,8 @@
 "title": "Конвертировать TXT в PDF"
 "url": "/ru/net/file-format-conversion-tutorials/convert-txt-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Конвертировать TXT в PDF
 
 ## Введение

@@ -4,8 +4,8 @@
 "title": "GroupDocs for .NET Kullanarak Verimli XLSX'ten TXT'ye Dönüştürme"
 "url": "/tr/net/text-markup-conversion/convert-xlsx-to-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET ile XLSX'i TXT'ye Verimli Şekilde Dönüştürün
 
 ## giriiş

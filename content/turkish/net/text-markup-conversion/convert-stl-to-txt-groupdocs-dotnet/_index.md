@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak STL Dosyaları TXT'ye Nasıl Dönüştürülür&#58; Adım Adım Kılavuz"
 "url": "/tr/net/text-markup-conversion/convert-stl-to-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak STL Dosyaları TXT'ye Nasıl Dönüştürülür: Adım Adım Kılavuz
 
 ## giriiş

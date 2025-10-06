@@ -4,8 +4,8 @@
 "title": "TXTからPDFへの変換を簡単にマスターしましょう。GroupDocs.Conversion for .NETを数分でマスターしましょう。"
 "url": "/ja/net/pdf-conversion/convert-txt-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # TXTからPDFへの変換が簡単：GroupDocs.Conversion for .NETを数分でマスター
 
 ## 導入

@@ -3,8 +3,8 @@
 "title": "Tutoriais de conversão de formatos da Web e de marcação para GroupDocs.Conversion Java"
 "url": "/pt/java/web-markup-formats/"
 "weight": 13
+type: docs
 ---
-
 # Tutoriais de conversão de formatos da Web e de marcação para GroupDocs.Conversion Java
 
 Nossos tutoriais de conversão de formatos web mostram como converter entre linguagens de marcação e formatos de documentos usando o GroupDocs.Conversion em Java. Estes guias práticos explicam como converter documentos de e para HTML, preservando o estilo CSS, manipulando recursos incorporados, mantendo estruturas XML e garantindo codificação e renderização adequadas. Cada tutorial inclui exemplos detalhados de código Java para cenários comuns de conversão de formatos web, ajudando você a criar aplicativos que podem efetivamente preencher a lacuna entre o conteúdo web e os formatos de documentos.

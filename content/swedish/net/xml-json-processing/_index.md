@@ -3,8 +3,8 @@
 "title": "Handledningar för XML- och JSON-behandling för GroupDocs.Conversion .NET"
 "url": "/sv/net/xml-json-processing/"
 "weight": 16
+type: docs
 ---
-
 # Handledningar för XML- och JSON-behandling för GroupDocs.Conversion .NET
 
 Utforska möjligheterna till konvertering av dataformat med våra GroupDocs.Conversion-handledningar för .NET-utvecklare. Dessa steg-för-steg-guider visar hur man använder XML och JSON som datakällor för att skapa kalkylblad och andra dokumenttyper, bevara hierarkiska datastrukturer under konvertering, underhålla komplexa objektrelationer, hantera arrayer och samlingar, hantera namnrymder och scheman samt implementera datatransformations- och mappningsoperationer. Varje handledning innehåller praktiska C#-kodexempel för att arbeta med strukturerade dataformat, vilket hjälper dig att bygga applikationer som kan omvandla maskinläsbar data till användarvänliga dokumentformat.

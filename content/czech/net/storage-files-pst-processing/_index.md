@@ -3,8 +3,8 @@
 "title": "Výukové programy pro ukládání souborů a zpracování PST souborů v GroupDocs.Conversion .NET"
 "url": "/cs/net/storage-files-pst-processing/"
 "weight": 21
+type: docs
 ---
-
 # Výukové programy pro ukládání souborů a zpracování PST souborů v GroupDocs.Conversion .NET
 
 Naše návody na zpracování úložných souborů poskytují podrobné pokyny pro práci s e-mailovými kontejnery v aplikacích .NET. Tyto praktické průvodce ukazují, jak extrahovat a převádět obsah z osobních úložných souborů, jako jsou PST a OST, načítat struktury složek, převádět obsah úložiště do různých formátů, pracovat s vnořenými hierarchiemi obsahu, uchovávat metadata zpráv, dávkově zpracovávat více zpráv a implementovat operace selektivní extrakce. Každý návod obsahuje kompletní příklady kódu C# pro scénáře převodu úložných souborů, které vám pomohou vytvářet aplikace, které dokáží efektivně přistupovat k datům uloženým ve formátech e-mailových kontejnerů a transformovat je.

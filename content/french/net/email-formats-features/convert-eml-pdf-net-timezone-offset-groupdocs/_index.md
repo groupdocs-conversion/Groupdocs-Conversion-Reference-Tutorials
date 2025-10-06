@@ -4,8 +4,8 @@
 "title": "Convertir EML en PDF dans .NET avec décalage horaire - Guide complet sur l'utilisation de GroupDocs.Conversion"
 "url": "/fr/net/email-formats-features/convert-eml-pdf-net-timezone-offset-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Convertir EML en PDF dans .NET avec décalage horaire : guide complet sur GroupDocs.Conversion
 ## Introduction
 Besoin d'un moyen fiable de convertir des e-mails (EML) au format PDF tout en préservant les informations de fuseau horaire ? Que ce soit pour l'archivage, le partage ou la conformité, ce tutoriel vous guidera dans l'utilisation de la puissante bibliothèque GroupDocs.Conversion pour .NET. Vous apprendrez à implémenter facilement des fonctionnalités avancées comme le décalage horaire.

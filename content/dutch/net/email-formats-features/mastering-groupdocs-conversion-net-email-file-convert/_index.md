@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET onder de knie krijgen voor e-mail- en bestandsconversies&#58; een uitgebreide handleiding"
 "url": "/nl/net/email-formats-features/mastering-groupdocs-conversion-net-email-file-convert/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET onder de knie krijgen voor e-mail- en bestandsconversie: een uitgebreide handleiding
 
 ## Invoering

@@ -5,8 +5,8 @@
 "title": "将 HTML 网页转换为 PDF"
 "url": "/zh/net/convert-files-to-pdf/convert-html-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # 将 HTML 网页转换为 PDF
 
 ## 介绍

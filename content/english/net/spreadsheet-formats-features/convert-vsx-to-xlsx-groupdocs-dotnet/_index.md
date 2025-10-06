@@ -9,10 +9,8 @@ keywords:
 - GroupDocs.Conversion for .NET
 - VSX file conversion
 - data transformation
-
+type: docs
 ---
-
-
 # How to Convert VSX to XLSX Using GroupDocs.Conversion for .NET
 
 ## Introduction

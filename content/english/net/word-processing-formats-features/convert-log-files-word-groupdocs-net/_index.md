@@ -8,10 +8,8 @@ keywords:
 - convert LOG files to Word
 - GroupDocs.Conversion .NET
 - automate data conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert LOG Files to Word Documents Using GroupDocs.Conversion in .NET
 
 ## Introduction

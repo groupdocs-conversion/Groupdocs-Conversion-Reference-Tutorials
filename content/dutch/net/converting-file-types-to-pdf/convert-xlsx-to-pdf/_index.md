@@ -5,8 +5,8 @@
 "title": "Converteer XLSX naar PDF"
 "url": "/nl/net/converting-file-types-to-pdf/convert-xlsx-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Converteer XLSX naar PDF
 
 ## Invoering

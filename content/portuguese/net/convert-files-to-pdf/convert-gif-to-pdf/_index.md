@@ -5,8 +5,8 @@
 "title": "Converter imagens GIF em PDF"
 "url": "/pt/net/convert-files-to-pdf/convert-gif-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # Converter imagens GIF em PDF
 
 ## Introdução

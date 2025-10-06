@@ -4,8 +4,8 @@
 "title": "Convertir des fichiers FODS en DOC à l'aide de GroupDocs.Conversion pour .NET &#58; un guide étape par étape"
 "url": "/fr/net/word-processing-formats-features/convert-fods-to-doc-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des fichiers FODS en DOC avec GroupDocs.Conversion pour .NET : guide étape par étape
 
 ## Introduction

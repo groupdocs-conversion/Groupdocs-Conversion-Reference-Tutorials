@@ -8,10 +8,8 @@ keywords:
 - PST to TXT Conversion
 - GroupDocs.Conversion for .NET
 - .NET File Conversion
-
+type: docs
 ---
-
-
 # Efficient PST to TXT Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

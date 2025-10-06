@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion का उपयोग करके फ़ॉन्ट प्रतिस्थापन के साथ Java में Excel को PDF में कनवर्ट करें"
 "url": "/hi/java/pdf-conversion/excel-to-pdf-conversion-font-substitution-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion का उपयोग करके फ़ॉन्ट प्रतिस्थापन के साथ Java में Excel को PDF में कनवर्ट करें
 
 ## परिचय

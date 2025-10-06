@@ -4,8 +4,8 @@
 "title": "Convierta documentos a JPG de forma eficiente con GroupDocs.Conversion para .NET&#58; una guía completa"
 "url": "/es/net/image-conversion/convert-documents-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Conversión eficiente de documentos a JPG con GroupDocs.Conversion para .NET
 
 ## Introducción

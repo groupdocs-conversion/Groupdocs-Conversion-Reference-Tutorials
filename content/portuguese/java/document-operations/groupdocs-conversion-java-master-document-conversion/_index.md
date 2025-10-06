@@ -4,8 +4,8 @@
 "title": "Master GroupDocs.Conversion Java - Guia completo para conversão de documentos em aplicativos Java"
 "url": "/pt/java/document-operations/groupdocs-conversion-java-master-document-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Dominando o GroupDocs.Conversion Java: Desbloqueie os recursos de conversão de documentos
 
 ## Introdução

@@ -4,8 +4,8 @@
 "title": "Jak načíst a převést soubory EPS pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/loading-from-local-sources/load-eps-groupdocs-conversion-dotnet-tutorial/"
 "weight": 1
+type: docs
 ---
-
 # Jak načíst a převést soubory EPS pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

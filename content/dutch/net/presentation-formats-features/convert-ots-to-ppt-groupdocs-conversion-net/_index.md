@@ -4,8 +4,8 @@
 "title": "Converteer OTS eenvoudig naar PPT met GroupDocs.Conversion .NET"
 "url": "/nl/net/presentation-formats-features/convert-ots-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer OTS eenvoudig naar PPT met GroupDocs.Conversion .NET
 
 ## Invoering

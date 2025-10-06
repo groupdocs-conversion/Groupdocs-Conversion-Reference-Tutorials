@@ -5,8 +5,8 @@
 "title": "將MD轉換為PDF"
 "url": "/zh-hant/net/document-conversion/convert-md-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # 將MD轉換為PDF
 
 ## 介紹

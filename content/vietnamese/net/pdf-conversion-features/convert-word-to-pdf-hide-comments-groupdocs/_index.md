@@ -4,8 +4,8 @@
 "title": "Chuyển đổi Word sang PDF và ẩn bình luận bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/pdf-conversion-features/convert-word-to-pdf-hide-comments-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tài liệu Word sang PDF và ẩn bình luận với GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

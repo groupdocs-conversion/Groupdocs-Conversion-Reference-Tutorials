@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert ODP to PPT with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

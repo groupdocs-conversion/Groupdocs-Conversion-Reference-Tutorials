@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for Java 向 DOCX 添加水印并转换为 PDF"
 "url": "/zh/java/watermarks-annotations/add-watermark-docx-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for Java 为文档添加水印
 
 在当今的数字世界中，保护您的文档免遭未经授权的使用至关重要。无论您是要共享敏感信息，还是只想为文档添加品牌标识，添加水印都是一个有效的解决方案。在本教程中，我们将指导您使用 **GroupDocs.Conversion for Java** 将 DOCX 文件转换为 PDF 时添加水印。

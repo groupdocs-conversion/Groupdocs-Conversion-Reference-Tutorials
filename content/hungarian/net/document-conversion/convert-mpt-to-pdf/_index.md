@@ -5,8 +5,8 @@
 "title": "MPT konvertálása PDF-be"
 "url": "/hu/net/document-conversion/convert-mpt-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # MPT konvertálása PDF-be
 
 ## Bevezetés

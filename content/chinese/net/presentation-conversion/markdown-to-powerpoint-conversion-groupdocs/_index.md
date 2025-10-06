@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 掌握 Markdown 到 PowerPoint 的转换"
 "url": "/zh/net/presentation-conversion/markdown-to-powerpoint-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 掌握 Markdown 到 PowerPoint 的转换
 
 您是否希望简化将 Markdown 笔记转换为专业的 PowerPoint 演示文稿的过程？本指南将向您展示如何使用强大的 GroupDocs.Conversion 库，轻松地将 Markdown (.md) 文件转换为 PowerPoint Open XML 演示文稿 (.pptx)。掌握此流程，您将节省时间并提高工作效率。

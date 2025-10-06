@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中將 WMF 轉換為 PNG&#58; 逐步指南"
 "url": "/zh-hant/net/image-formats-features/convert-wmf-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 WMF 轉換為 PNG
 
 ## 介紹

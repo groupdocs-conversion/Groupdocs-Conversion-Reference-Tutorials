@@ -8,10 +8,8 @@ keywords:
 - convert dotm to png
 - GroupDocs.Conversion for .NET
 - Word template to PNG
-
+type: docs
 ---
-
-
 # Convert Word Templates to PNG Images Using GroupDocs.Conversion for .NET
 
 ## Introduction

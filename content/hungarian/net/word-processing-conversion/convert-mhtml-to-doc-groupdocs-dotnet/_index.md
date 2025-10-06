@@ -4,8 +4,8 @@
 "title": "MHTML konvertálása DOC-ba a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/word-processing-conversion/convert-mhtml-to-doc-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # MHTML konvertálása DOC-ba a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

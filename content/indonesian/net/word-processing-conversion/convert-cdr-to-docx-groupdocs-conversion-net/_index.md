@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi File CDR ke DOCX Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/word-processing-conversion/convert-cdr-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi File CDR ke DOCX Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

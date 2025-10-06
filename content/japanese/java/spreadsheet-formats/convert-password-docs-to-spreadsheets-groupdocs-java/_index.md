@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for Java を使用してパスワード保護された Word 文書を Excel スプレッドシートに変換する方法"
 "url": "/ja/java/spreadsheet-formats/convert-password-docs-to-spreadsheets-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for Java を使用してパスワード保護されたドキュメントを変換する方法
 
 ## 導入

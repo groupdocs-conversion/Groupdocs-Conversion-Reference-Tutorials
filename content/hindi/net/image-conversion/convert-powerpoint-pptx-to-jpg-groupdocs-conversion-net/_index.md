@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET'#58; का उपयोग करके PowerPoint PPTX को JPG में कनवर्ट करें एक चरण-दर-चरण मार्गदर्शिका"
 "url": "/hi/net/image-conversion/convert-powerpoint-pptx-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion के साथ उच्च-गुणवत्ता वाली छवियों में PowerPoint प्रस्तुतियाँ कनवर्ट करें .NET
 
 ## परिचय

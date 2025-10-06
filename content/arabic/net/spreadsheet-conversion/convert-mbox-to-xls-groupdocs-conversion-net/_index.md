@@ -4,8 +4,8 @@
 "title": "تحويل MBOX إلى XLS - دليل خطوة بخطوة باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/spreadsheet-conversion/convert-mbox-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل MBOX إلى XLS: دليل خطوة بخطوة باستخدام GroupDocs.Conversion لـ .NET
 ## مقدمة
 هل تدير مجموعة كبيرة من رسائل البريد الإلكتروني المخزنة في ملف MBOX وترغب في تحليل البيانات أو عرضها بشكل منهجي؟ تحويل هذه الرسائل إلى صيغة جدول بيانات مثل XLS يُبسط مهمتك بشكل كبير. يرشدك هذا البرنامج التعليمي خلال تحويل ملفات MBOX إلى XLS باستخدام GroupDocs.Conversion for .NET، وهي مكتبة فعّالة تُبسّط مهام تحويل المستندات.

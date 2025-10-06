@@ -3,8 +3,8 @@
 "title": "Samouczki dotyczące przechowywania plików i przetwarzania PST dla GroupDocs.Conversion .NET"
 "url": "/pl/net/storage-files-pst-processing/"
 "weight": 21
+type: docs
 ---
-
 # Samouczki dotyczące przechowywania plików i przetwarzania PST dla GroupDocs.Conversion .NET
 
 Nasze samouczki dotyczące przetwarzania plików pamięci masowej zapewniają szczegółowe wskazówki dotyczące obsługi kontenerów poczty e-mail w aplikacjach .NET. Te praktyczne przewodniki pokazują, jak wyodrębniać i konwertować zawartość z osobistych plików pamięci masowej, takich jak PST i OST, pobierać struktury folderów, konwertować zawartość pamięci masowej do różnych formatów, obsługiwać zagnieżdżone hierarchie zawartości, zachowywać metadane wiadomości, przetwarzać wsadowo wiele wiadomości i wdrażać selektywne operacje ekstrakcji. Każdy samouczek zawiera kompletne przykłady kodu C# dla scenariuszy konwersji plików pamięci masowej, pomagając w tworzeniu aplikacji, które mogą skutecznie uzyskiwać dostęp i przekształcać dane przechowywane w formatach kontenerów poczty e-mail.

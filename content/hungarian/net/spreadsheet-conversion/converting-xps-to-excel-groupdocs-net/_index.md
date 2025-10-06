@@ -4,8 +4,8 @@
 "title": "Hatékony XPS-ből Excelbe konvertálás a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/spreadsheet-conversion/converting-xps-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony XPS-ből Excelbe konvertálás a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

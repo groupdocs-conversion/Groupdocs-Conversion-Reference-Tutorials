@@ -4,8 +4,8 @@
 "title": "Convertir DOC en TEX à l'aide de GroupDocs.Conversion pour .NET - Un guide complet"
 "url": "/fr/net/word-processing-conversion/convert-doc-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir un fichier DOC en fichier TEX avec GroupDocs.Conversion pour .NET
 
 ## Introduction

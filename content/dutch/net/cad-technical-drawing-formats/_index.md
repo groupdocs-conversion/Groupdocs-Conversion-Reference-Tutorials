@@ -3,8 +3,8 @@
 "title": "Zelfstudies over CAD- en technische tekenformaten voor GroupDocs.Conversion .NET"
 "url": "/nl/net/cad-technical-drawing-formats/"
 "weight": 18
+type: docs
 ---
-
 # Zelfstudies over CAD- en technische tekenformaten voor GroupDocs.Conversion .NET
 
 Leer technische tekeningen verwerken met onze uitgebreide GroupDocs.Conversion-tutorials voor .NET-ontwikkelaars. Deze praktische handleidingen laten zien hoe u AutoCAD- en andere CAD-bestanden kunt converteren naar een leesbaar formaat, lay-outs voor conversie kunt specificeren, aangepaste breedte- en hoogteafmetingen voor uitvoer kunt instellen, lagen en afmetingen kunt behouden, grote tekeningen efficiënt kunt verwerken, viewports en schaling kunt beheren en 3D-modellen kunt transformeren naar 2D-weergave. Elke tutorial bevat gedetailleerde C#-codevoorbeelden voor CAD-conversiescenario's, waarmee u applicaties kunt bouwen die technische tekeningen nauwkeurig kunnen verwerken met behoud van belangrijke technische details.

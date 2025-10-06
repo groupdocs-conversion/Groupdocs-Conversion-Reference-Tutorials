@@ -5,8 +5,8 @@
 "title": "Konversi File Pertukaran Gambar CAD DXF ke PDF"
 "url": "/id/net/convert-files-to-pdf/convert-dxf-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # Konversi File Pertukaran Gambar CAD DXF ke PDF
 
 ## Perkenalan

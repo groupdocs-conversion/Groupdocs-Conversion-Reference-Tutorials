@@ -4,8 +4,8 @@
 "title": "Převod určitého rozsahu stránek do PDF pomocí rozhraní GroupDocs.Conversion Java API"
 "url": "/cs/java/pdf-conversion/groupdocs-conversion-java-page-range-pdf/"
 "weight": 1
+type: docs
 ---
-
 # Převod určitého rozsahu stránek do PDF pomocí rozhraní GroupDocs.Conversion Java API
 
 dnešní digitální době je efektivní správa dokumentů klíčová jak pro firmy, tak pro jednotlivce. Převod konkrétních částí zprávy do přenosného formátu, jako je PDF, může ušetřit čas a zdroje. Tento tutoriál vás provede používáním... **GroupDocs.Conversion Java** převést zadaný rozsah stránek z libovolného dokumentu do souboru PDF. Na konci budete mít všechny dovednosti potřebné k implementaci této výkonné funkce ve vašich projektech.

@@ -5,8 +5,8 @@
 "title": "Chuyển đổi POT sang PDF"
 "url": "/vi/net/pdf-conversion/convert-pot-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Chuyển đổi POT sang PDF
 
 ## Giới thiệu

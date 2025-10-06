@@ -4,8 +4,8 @@
 "title": "Konverze hlavního PDF do DOCX v .NET pomocí GroupDocs.Conversion"
 "url": "/cs/net/word-processing-conversion/pdf-to-docx-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konverze hlavního PDF do DOCX pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

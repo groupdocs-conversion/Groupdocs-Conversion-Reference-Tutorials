@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用した .NET でのマスター ドキュメント変換の設定"
 "url": "/ja/net/conversion-options-settings/master-groupdocs-conversion-net-setup/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET を使用したドキュメント変換のマスター ディレクトリの設定
 
 ## 導入

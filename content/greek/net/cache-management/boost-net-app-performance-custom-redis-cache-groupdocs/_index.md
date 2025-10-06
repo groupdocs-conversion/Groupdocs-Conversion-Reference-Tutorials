@@ -4,8 +4,8 @@
 "title": "Ενισχύστε την απόδοση των εφαρμογών .NET & Υλοποιήστε την προσαρμοσμένη προσωρινή μνήμη Redis με το GroupDocs.Conversion"
 "url": "/el/net/cache-management/boost-net-app-performance-custom-redis-cache-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Ενισχύστε την απόδοση της εφαρμογής .NET με προσαρμοσμένη προσωρινή αποθήκευση Redis χρησιμοποιώντας το GroupDocs.Conversion
 
 ## Εισαγωγή

@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή εγγράφου σε υπολογιστικό φύλλο χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/spreadsheet-formats-features/convert-documents-to-spreadsheets-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική μετατροπή εγγράφου σε υπολογιστικό φύλλο χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

@@ -4,8 +4,8 @@
 "title": "Konversi File VCF ke TXT Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Langkah demi Langkah"
 "url": "/id/net/text-markup-conversion/convert-vcf-files-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi File VCF ke TXT Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

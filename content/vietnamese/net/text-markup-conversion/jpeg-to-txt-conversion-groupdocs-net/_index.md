@@ -4,8 +4,8 @@
 "title": "Chuyển đổi JPEG sang TXT hiệu quả bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/text-markup-conversion/jpeg-to-txt-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi JPEG sang TXT hiệu quả bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

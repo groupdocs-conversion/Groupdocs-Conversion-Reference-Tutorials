@@ -4,8 +4,8 @@
 "title": "Come convertire i file DWF in PDF utilizzando GroupDocs.Conversion per .NET&#58; una guida passo passo"
 "url": "/it/net/cad-technical-drawing-formats/convert-dwf-to-pdf-groupdocs-conversion-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire i file DWF in PDF utilizzando GroupDocs.Conversion per .NET: una guida passo passo
 
 ## Introduzione

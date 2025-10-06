@@ -4,8 +4,8 @@
 "title": "Chuyển đổi DWT sang XLS hiệu quả&#58; Hướng dẫn toàn diện sử dụng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/spreadsheet-conversion/groupdocs-conversion-net-dwt-to-xls/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi DWT sang XLS hiệu quả: Hướng dẫn toàn diện sử dụng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

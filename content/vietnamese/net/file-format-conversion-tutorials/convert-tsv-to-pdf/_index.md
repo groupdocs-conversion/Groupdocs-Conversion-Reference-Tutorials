@@ -5,8 +5,8 @@
 "title": "Chuyển đổi TSV sang PDF"
 "url": "/vi/net/file-format-conversion-tutorials/convert-tsv-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # Chuyển đổi TSV sang PDF
 
 ## Giới thiệu

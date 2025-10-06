@@ -3,8 +3,8 @@
 "title": "Hướng dẫn xử lý tệp văn bản cho GroupDocs.Conversion .NET"
 "url": "/vi/net/text-file-processing/"
 "weight": 17
+type: docs
 ---
-
 # Hướng dẫn xử lý tệp văn bản cho GroupDocs.Conversion .NET
 
 Hướng dẫn chuyển đổi tệp văn bản của chúng tôi sẽ chỉ cho bạn cách làm việc với nội dung văn bản thuần túy bằng GroupDocs.Conversion trong .NET. Các hướng dẫn chi tiết này hướng dẫn cách kiểm soát hành vi khoảng trắng đầu và cuối trong quá trình chuyển đổi văn bản, chỉ định các tùy chọn mã hóa cho tệp văn bản, giữ nguyên định dạng khi có thể, xử lý ngắt dòng và ký tự đặc biệt, triển khai chính sách ngắt dòng văn bản, thiết lập phân trang cho văn bản đã chuyển đổi và quản lý các yêu cầu văn bản hai chiều. Mỗi hướng dẫn đều bao gồm các ví dụ mã C# đang hoạt động cho các tình huống chuyển đổi tệp văn bản, giúp bạn xây dựng các ứng dụng có thể xử lý hiệu quả văn bản thuần túy trong khi vẫn duy trì khả năng đọc và cấu trúc trong đầu ra.

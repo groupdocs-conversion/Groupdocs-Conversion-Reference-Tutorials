@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET लाइब्रेरी का उपयोग करके कुशल PDF से PSD रूपांतरण"
 "url": "/hi/net/image-formats-features/convert-pdfs-psds-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion के साथ कुशल PDF से PSD रूपांतरण .NET
 
 ## परिचय

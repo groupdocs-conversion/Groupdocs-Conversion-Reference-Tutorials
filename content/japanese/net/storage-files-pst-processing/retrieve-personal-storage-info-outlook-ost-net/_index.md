@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して Outlook OST ファイルから個人用ストレージ情報を取得する方法"
 "url": "/ja/net/storage-files-pst-processing/retrieve-personal-storage-info-outlook-ost-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して Outlook OST ファイルから個人用ストレージ情報を取得する方法
 
 ## 導入

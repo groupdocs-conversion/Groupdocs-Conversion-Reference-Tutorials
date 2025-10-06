@@ -8,10 +8,8 @@ keywords:
 - convert SVGZ to DOCX
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Convert SVGZ to DOCX with GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "XLSB konvertálása PowerPoint formátumba a GroupDocs.Conversion .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/presentation-conversion/convert-xlsb-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # XLSB konvertálása PowerPoint-ba a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

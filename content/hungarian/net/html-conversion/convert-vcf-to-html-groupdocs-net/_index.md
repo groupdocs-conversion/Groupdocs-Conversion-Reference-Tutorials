@@ -4,8 +4,8 @@
 "title": "VCF fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/html-conversion/convert-vcf-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # VCF fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

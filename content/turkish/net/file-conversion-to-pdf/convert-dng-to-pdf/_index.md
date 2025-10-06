@@ -5,8 +5,8 @@
 "title": "DNG Görüntülerini PDF'ye Dönüştür"
 "url": "/tr/net/file-conversion-to-pdf/convert-dng-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # DNG Görüntülerini PDF'ye Dönüştür
 
 ## giriiş

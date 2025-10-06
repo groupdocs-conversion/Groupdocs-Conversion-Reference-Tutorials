@@ -4,8 +4,8 @@
 "title": "DOCM'yi GroupDocs.Conversion for .NET Kullanarak PNG'ye Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/image-conversion/convert-docm-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanarak DOCM'yi PNG'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

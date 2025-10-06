@@ -5,8 +5,8 @@
 "title": "VSD konvertálása PDF-be"
 "url": "/hu/net/file-format-conversion-tutorials/convert-vsd-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # VSD konvertálása PDF-be
 
 ## Bevezetés

@@ -8,10 +8,8 @@ keywords:
 - SVG to Word conversion
 - GroupDocs.Conversion .NET
 - SVG file conversion
-
+type: docs
 ---
-
-
 # Efficient SVG to Word Document Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

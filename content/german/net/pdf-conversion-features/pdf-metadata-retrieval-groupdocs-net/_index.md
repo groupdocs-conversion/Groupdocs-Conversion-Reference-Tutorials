@@ -4,8 +4,8 @@
 "title": "So rufen Sie PDF-Metadaten mit GroupDocs.Conversion für .NET ab"
 "url": "/de/net/pdf-conversion-features/pdf-metadata-retrieval-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # So rufen Sie PDF-Metadaten mit GroupDocs.Conversion für .NET ab
 
 Sind Sie es leid, Informationen manuell aus PDF-Dokumenten zu extrahieren? Automatisieren Sie die Aufgabe mit GroupDocs.Conversion für .NET und rufen Sie wichtige Details wie Autorschaft, Erstellungsdatum, Seitenzahl, Abmessungen und mehr ab.

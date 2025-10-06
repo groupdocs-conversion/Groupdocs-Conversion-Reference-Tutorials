@@ -4,8 +4,8 @@
 "title": "J2C DOC-vá konvertálása .NET-ben a GroupDocs.Conversion használatával – lépésről lépésre útmutató"
 "url": "/hu/net/word-processing-conversion/j2c-doc-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # J2C fájlok konvertálása DOC formátumba .NET-ben a GroupDocs.Conversion használatával
 
 ## Bevezetés

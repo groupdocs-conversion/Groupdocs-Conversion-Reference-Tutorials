@@ -5,8 +5,8 @@
 "title": "फ़ाइल प्रकारों को PDF में परिवर्तित करना"
 "url": "/hi/net/converting-file-types-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # फ़ाइल प्रकारों को PDF में परिवर्तित करना
 
 ## परिचय

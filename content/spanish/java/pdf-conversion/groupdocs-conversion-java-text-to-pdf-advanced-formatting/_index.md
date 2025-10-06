@@ -4,8 +4,8 @@
 "title": "Conversión avanzada de texto a PDF con GroupDocs.Conversion Java&#58; Conservar formato"
 "url": "/es/java/pdf-conversion/groupdocs-conversion-java-text-to-pdf-advanced-formatting/"
 "weight": 1
+type: docs
 ---
-
 # Conversión avanzada de texto a PDF con GroupDocs.Conversion Java: Conservar el formato
 
 ## Introducción

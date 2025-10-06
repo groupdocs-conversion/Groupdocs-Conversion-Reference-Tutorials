@@ -5,8 +5,8 @@
 "title": "Dokumentkonvertering"
 "url": "/sv/net/document-conversion/"
 "weight": 23
+type: docs
 ---
-
 # Dokumentkonvertering
 
 ## Introduktion

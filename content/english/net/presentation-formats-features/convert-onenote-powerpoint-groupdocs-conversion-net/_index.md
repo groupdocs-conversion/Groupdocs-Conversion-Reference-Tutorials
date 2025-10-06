@@ -8,10 +8,8 @@ keywords:
 - Convert OneNote to PowerPoint
 - GroupDocs.Conversion for .NET
 - document conversion process
-
+type: docs
 ---
-
-
 # Convert OneNote to PowerPoint Using GroupDocs.Conversion .NET: A Comprehensive Guide
 
 ## Introduction

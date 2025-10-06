@@ -5,8 +5,8 @@
 "title": "XLSB를 PDF로 변환"
 "url": "/ko/net/converting-file-types-to-pdf/convert-xlsb-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # XLSB를 PDF로 변환
 
 ## 소개

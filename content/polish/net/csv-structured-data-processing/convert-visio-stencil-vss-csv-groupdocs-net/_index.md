@@ -4,8 +4,8 @@
 "title": "Konwersja szablonu Visio (.vss) do pliku CSV przy użyciu GroupDocs.Conversion dla .NET&#58; Przewodnik krok po kroku"
 "url": "/pl/net/csv-structured-data-processing/convert-visio-stencil-vss-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja szablonu Visio (.vss) do pliku CSV przy użyciu GroupDocs.Conversion dla .NET: przewodnik krok po kroku
 
 ## Wstęp

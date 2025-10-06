@@ -4,8 +4,8 @@
 "title": "Panduan Lengkap&#58; Mengonversi XPS ke TXT Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/text-file-processing/convert-xps-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Panduan Lengkap: Mengonversi XPS ke TXT Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

@@ -5,8 +5,8 @@
 "title": "MHTをPDFに変換する"
 "url": "/ja/net/document-conversion/convert-mht-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # MHTをPDFに変換する
 
 ## 導入

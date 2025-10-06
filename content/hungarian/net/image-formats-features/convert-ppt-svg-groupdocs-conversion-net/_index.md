@@ -4,8 +4,8 @@
 "title": "PowerPoint hatékony SVG-vé konvertálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/image-formats-features/convert-ppt-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PowerPoint hatékony SVG-vé konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Konwersja VTX do TXT przy użyciu GroupDocs.Conversion dla .NET — kompleksowy przewodnik"
 "url": "/pl/net/text-markup-conversion/convert-vtx-to-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja VTX do TXT przy użyciu GroupDocs.Conversion dla .NET — kompleksowy przewodnik
 
 ## Wstęp

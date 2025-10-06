@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 XLT 轉換為 PNG 的綜合指南"
 "url": "/zh-hant/net/image-conversion/xlt-to-png-conversion-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 XLT 轉換為 PNG 的綜合指南
 
 ## 介紹

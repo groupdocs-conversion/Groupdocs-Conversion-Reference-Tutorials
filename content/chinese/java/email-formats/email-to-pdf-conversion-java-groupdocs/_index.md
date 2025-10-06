@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion 在 Java 中将电子邮件转换为带有时区偏移的 PDF"
 "url": "/zh/java/email-formats/email-to-pdf-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion 在 Java 中将电子邮件转换为带有时区偏移的 PDF
 
 ## 介绍

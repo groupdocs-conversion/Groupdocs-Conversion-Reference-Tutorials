@@ -5,8 +5,8 @@
 "title": "แปลง VTX เป็น PDF"
 "url": "/th/net/converting-file-types-to-pdf/convert-vtx-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # แปลง VTX เป็น PDF
 
 ## การแนะนำ

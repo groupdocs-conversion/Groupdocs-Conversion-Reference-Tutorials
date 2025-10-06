@@ -4,8 +4,8 @@
 "title": "Efektivní převod XLTX do SVG pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/image-conversion/groupdocs-conversion-xltx-to-svg-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod XLTX do SVG pomocí GroupDocs.Conversion pro .NET
 
 Máte potíže s efektivním převodem souborů XLTX do formátu SVG? Tato komplexní příručka vám ukáže, jak toho snadno dosáhnout pomocí GroupDocs.Conversion pro .NET. Ať už jste zkušený vývojář nebo teprve začínáte, zvládnutí této funkce vám může zefektivnit práci se zpracováním dokumentů.

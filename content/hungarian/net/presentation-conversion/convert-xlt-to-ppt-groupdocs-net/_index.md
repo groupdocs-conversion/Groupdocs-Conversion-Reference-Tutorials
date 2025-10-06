@@ -4,8 +4,8 @@
 "title": "XLT egyszerű PPT-vé konvertálása a GroupDocs for .NET segítségével – lépésről lépésre útmutató"
 "url": "/hu/net/presentation-conversion/convert-xlt-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # XLT konvertálása PPT-vé GroupDocs for .NET használatával
 
 ## Bevezetés

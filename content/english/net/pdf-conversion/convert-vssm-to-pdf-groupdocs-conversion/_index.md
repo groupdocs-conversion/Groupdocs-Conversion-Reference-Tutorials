@@ -8,10 +8,8 @@ keywords:
 - convert VSSM to PDF
 - GroupDocs.Conversion for .NET
 - PDF conversion tutorial
-
+type: docs
 ---
-
-
 # Convert VSSM Files to PDF Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

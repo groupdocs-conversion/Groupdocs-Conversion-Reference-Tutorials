@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion Java 高效地将 Excel 转换为 PDF"
 "url": "/zh/java/pdf-conversion/excel-to-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion Java 高效地将 Excel 转换为 PDF
 
 ## 介绍

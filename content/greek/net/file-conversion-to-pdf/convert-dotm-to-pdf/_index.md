@@ -5,8 +5,8 @@
 "title": "Μετατροπή προτύπων DOTM Word (μακροεντολές) σε PDF"
 "url": "/el/net/file-conversion-to-pdf/convert-dotm-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Μετατροπή προτύπων DOTM Word (μακροεντολές) σε PDF
 
 ## Εισαγωγή

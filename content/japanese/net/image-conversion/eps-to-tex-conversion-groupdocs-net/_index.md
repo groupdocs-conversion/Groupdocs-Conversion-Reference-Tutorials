@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET を使用した効率的な EPS から TEX への変換"
 "url": "/ja/net/image-conversion/eps-to-tex-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET で EPS から TEX への変換をマスターする
 
 ## 導入

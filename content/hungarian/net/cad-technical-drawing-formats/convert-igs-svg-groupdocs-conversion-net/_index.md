@@ -4,8 +4,8 @@
 "title": "IGS konvertálása SVG-vé a GroupDocs.Conversion .NET használatával – Lépésről lépésre útmutató CAD szakembereknek"
 "url": "/hu/net/cad-technical-drawing-formats/convert-igs-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # IGS fájlok konvertálása SVG-vé a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Panduan Lengkap untuk Memuat File PSD dalam .NET Menggunakan GroupDocs.Conversion"
 "url": "/id/net/loading-from-local-sources/guide-loading-psd-files-dotnet-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Panduan Lengkap untuk Memuat File PSD dalam .NET Menggunakan GroupDocs.Conversion
 
 ## Perkenalan

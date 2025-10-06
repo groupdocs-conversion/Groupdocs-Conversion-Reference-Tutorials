@@ -4,8 +4,8 @@
 "title": "Efektivní převod TXT do PNG pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/image-conversion/txt-to-png-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod TXT do PNG pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

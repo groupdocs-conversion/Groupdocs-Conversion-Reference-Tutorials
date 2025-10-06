@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs 和 Shift_JIS 編碼在 Java 中將 CSV 轉換為 PDF"
 "url": "/zh-hant/java/pdf-conversion/convert-csv-to-pdf-groupdocs-java-shift-jis/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs 和 Shift_JIS 編碼在 Java 中將 CSV 轉換為 PDF
 
 ## 介紹

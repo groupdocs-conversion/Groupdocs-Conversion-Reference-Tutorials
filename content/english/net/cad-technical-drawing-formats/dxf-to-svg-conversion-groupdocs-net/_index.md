@@ -8,10 +8,8 @@ keywords:
 - DXF to SVG conversion
 - GroupDocs Conversion .NET
 - CAD file conversion
-
+type: docs
 ---
-
-
 # DXF to SVG Conversion Using GroupDocs in .NET: A Step-by-Step Guide
 
 ## Introduction

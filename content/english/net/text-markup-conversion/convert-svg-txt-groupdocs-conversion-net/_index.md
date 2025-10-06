@@ -8,10 +8,8 @@ keywords:
 - convert SVG to TXT
 - GroupDocs.Conversion for .NET
 - SVG file conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert SVG to TXT Using GroupDocs.Conversion for .NET
 
 ## Introduction

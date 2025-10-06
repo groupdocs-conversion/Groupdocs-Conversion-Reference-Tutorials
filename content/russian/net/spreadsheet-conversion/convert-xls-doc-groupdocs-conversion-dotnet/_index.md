@@ -4,8 +4,8 @@
 "title": "Эффективное преобразование XLS в DOC с помощью GroupDocs.Conversion для .NET&#58; Пошаговое руководство"
 "url": "/ru/net/spreadsheet-conversion/convert-xls-doc-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Эффективное преобразование XLS в DOC с помощью GroupDocs.Conversion для .NET: пошаговое руководство
 
 ## Введение

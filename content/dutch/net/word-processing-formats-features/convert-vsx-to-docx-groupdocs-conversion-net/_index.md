@@ -4,8 +4,8 @@
 "title": "Converteer VSX efficiënt naar DOCX met GroupDocs.Conversion voor .NET - Stapsgewijze handleiding"
 "url": "/nl/net/word-processing-formats-features/convert-vsx-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VSX-bestanden naar DOCX converteren met GroupDocs.Conversion voor .NET: een stapsgewijze handleiding
 
 ## Invoering

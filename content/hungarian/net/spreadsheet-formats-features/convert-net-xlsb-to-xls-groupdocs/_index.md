@@ -4,8 +4,8 @@
 "title": ".NET XLSB konvertálása XLS-re a GroupDocs.Conversion használatával – lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-net-xlsb-to-xls-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # .NET XLSB konvertálása XLS-sé a GroupDocs.Conversion használatával: Átfogó útmutató
 
 ## Bevezetés

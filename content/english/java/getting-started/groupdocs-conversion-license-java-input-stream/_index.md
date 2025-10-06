@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion license Java
 - Java input stream license setup
 - Set GroupDocs license in Java
-
+type: docs
 ---
-
-
 # How to Implement GroupDocs.Conversion License Setup via InputStream in Java
 ## Introduction
 Are you looking to enhance your Java application with GroupDocs.Conversion's powerful features? Setting up the license correctly is a crucial step, and doing so using an input stream can streamline this process. This guide will walk you through how to set the GroupDocs license using an input stream in Java, ensuring that your conversion processes run smoothly without any licensing issues.

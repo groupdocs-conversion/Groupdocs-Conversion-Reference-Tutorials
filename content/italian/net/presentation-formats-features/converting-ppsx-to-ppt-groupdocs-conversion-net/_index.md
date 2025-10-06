@@ -4,8 +4,8 @@
 "title": "Convertire PPSX in PPT utilizzando GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/presentation-formats-features/converting-ppsx-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire PPSX in PPT utilizzando GroupDocs.Conversion per .NET: una guida completa
 
 ## Introduzione

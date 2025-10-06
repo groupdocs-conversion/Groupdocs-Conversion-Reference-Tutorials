@@ -4,8 +4,8 @@
 "title": "Эффективное преобразование DOTX в DOC с помощью GroupDocs.Conversion для .NET&#58; пошаговое руководство"
 "url": "/ru/net/word-processing-formats-features/convert-dotx-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Эффективное преобразование DOTX в DOC с помощью GroupDocs.Conversion для .NET: пошаговое руководство
 
 ## Введение

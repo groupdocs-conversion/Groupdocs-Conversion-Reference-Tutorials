@@ -3,8 +3,8 @@
 "title": "Tutorial Konversi Format Spreadsheet untuk GroupDocs.Conversion Java"
 "url": "/id/java/spreadsheet-formats/"
 "weight": 6
+type: docs
 ---
-
 # Tutorial Konversi Format Spreadsheet untuk GroupDocs.Conversion Java
 
 Pelajari cara menangani konversi spreadsheet dengan tutorial Java GroupDocs.Conversion kami. Panduan terperinci ini menunjukkan cara mengonversi antara format Excel, CSV, dan jenis spreadsheet lainnya, mempertahankan rumus dan fungsi, mempertahankan format sel, menangani buku kerja multi-sheet, dan memastikan integritas data selama konversi. Setiap tutorial menyertakan contoh kode Java yang berfungsi yang menunjukkan cara menerapkan konversi spreadsheet yang akurat sambil mempertahankan kalkulasi kompleks dan elemen visual.

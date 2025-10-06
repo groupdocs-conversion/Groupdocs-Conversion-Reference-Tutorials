@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Kütüphanesini Kullanarak .NET'te POTM'yi DOC'ye Dönüştürme"
 "url": "/tr/net/word-processing-conversion/convert-potm-to-doc-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # POTM Dosyaları GroupDocs.Conversion Kütüphanesini Kullanarak .NET'te DOC'a Nasıl Dönüştürülür
 
 ## giriiş

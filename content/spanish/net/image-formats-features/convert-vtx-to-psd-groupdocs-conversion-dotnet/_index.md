@@ -4,8 +4,8 @@
 "title": "Convierta VTX a PSD en .NET con GroupDocs.Conversion&#58; una guía completa"
 "url": "/es/net/image-formats-features/convert-vtx-to-psd-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertir VTX a PSD en .NET con GroupDocs.Conversion: una guía completa
 ## Introducción
 En el panorama digital actual, la conversión de archivos es esencial en diversos sectores. Los diseñadores gráficos suelen necesitar transformar plantillas de Visio en documentos editables de Photoshop, mientras que los desarrolladores requieren flujos de trabajo optimizados. Este tutorial muestra cómo convertir plantillas de dibujo de Microsoft Visio (.vtx) a documentos de Adobe Photoshop (.psd) con GroupDocs.Conversion para .NET.

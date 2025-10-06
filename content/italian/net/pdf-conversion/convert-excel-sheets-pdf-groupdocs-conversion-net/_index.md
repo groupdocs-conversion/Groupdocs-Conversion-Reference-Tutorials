@@ -4,8 +4,8 @@
 "title": "Converti fogli Excel specifici in PDF utilizzando GroupDocs.Conversion per .NET | Guida passo passo semplice"
 "url": "/it/net/pdf-conversion/convert-excel-sheets-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converti fogli Excel specifici in PDF utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

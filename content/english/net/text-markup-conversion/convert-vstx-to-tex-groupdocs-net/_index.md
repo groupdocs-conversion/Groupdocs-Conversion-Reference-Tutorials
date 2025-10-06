@@ -8,10 +8,8 @@ keywords:
 - convert VSTX to TEX
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Convert VSTX to TEX Efficiently Using GroupDocs.Conversion for .NET
 
 ## Introduction

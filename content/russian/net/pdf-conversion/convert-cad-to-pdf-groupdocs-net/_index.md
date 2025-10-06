@@ -4,8 +4,8 @@
 "title": "Эффективное преобразование САПР в PDF с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/pdf-conversion/convert-cad-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Эффективное преобразование САПР в PDF с помощью GroupDocs.Conversion для .NET
 
 ## Введение

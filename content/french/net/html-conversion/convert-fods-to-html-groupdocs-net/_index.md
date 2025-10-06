@@ -4,8 +4,8 @@
 "title": "Convertir des fichiers FODS en HTML à l'aide de GroupDocs.Conversion pour .NET - Un guide complet"
 "url": "/fr/net/html-conversion/convert-fods-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des fichiers FODS en HTML avec GroupDocs.Conversion pour .NET : guide complet
 
 ## Introduction

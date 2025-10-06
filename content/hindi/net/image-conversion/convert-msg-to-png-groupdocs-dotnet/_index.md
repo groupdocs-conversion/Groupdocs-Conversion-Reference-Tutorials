@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion के साथ MSG को PNG में कनवर्ट करें चरण-दर-चरण मार्गदर्शिका"
 "url": "/hi/net/image-conversion/convert-msg-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion के साथ MSG को PNG में कनवर्ट करें: चरण-दर-चरण मार्गदर्शिका
 
 ## परिचय

@@ -4,8 +4,8 @@
 "title": ".NET Document Conversion Mastery – wykorzystaj GroupDocs do bezproblemowych transformacji plików PDF"
 "url": "/pl/net/conversion-options-settings/master-net-document-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Opanowanie konwersji dokumentów w .NET z GroupDocs.Conversion
 
 ## Wstęp

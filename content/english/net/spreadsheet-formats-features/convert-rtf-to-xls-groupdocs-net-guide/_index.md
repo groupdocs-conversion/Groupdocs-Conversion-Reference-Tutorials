@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # How to Convert RTF to XLS Using GroupDocs.Conversion for .NET: A Complete Guide
 
 ## Introduction

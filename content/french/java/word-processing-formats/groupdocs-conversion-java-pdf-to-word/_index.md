@@ -4,8 +4,8 @@
 "title": "Conversion efficace de PDF en Word grâce à l'API Java GroupDocs.Conversion"
 "url": "/fr/java/word-processing-formats/groupdocs-conversion-java-pdf-to-word/"
 "weight": 1
+type: docs
 ---
-
 # Conversion efficace de PDF en Word grâce à l'API Java GroupDocs.Conversion
 
 ## Introduction

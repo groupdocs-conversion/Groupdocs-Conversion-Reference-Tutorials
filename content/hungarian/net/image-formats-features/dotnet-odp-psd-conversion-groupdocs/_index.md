@@ -4,8 +4,8 @@
 "title": ".NET ODP - PSD konverzió - GroupDocs.Conversion .NET-hez"
 "url": "/hu/net/image-formats-features/dotnet-odp-psd-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # .NET ODP - PSD konvertálás: A GroupDocs.Conversion .NET-hez való elsajátítása
 
 ## Bevezetés

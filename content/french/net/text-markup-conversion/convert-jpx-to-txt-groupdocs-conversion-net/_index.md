@@ -4,8 +4,8 @@
 "title": "Comment convertir JPX en TXT à l'aide de GroupDocs.Conversion pour .NET ? Guide étape par étape"
 "url": "/fr/net/text-markup-conversion/convert-jpx-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Tutoriel complet : Convertir JPX en TXT avec GroupDocs.Conversion pour .NET
 
 ## Introduction

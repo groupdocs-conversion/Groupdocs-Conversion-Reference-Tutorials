@@ -4,8 +4,8 @@
 "title": "Javaでカスタムフォントを使用してWordをPDFに変換する方法 - GroupDocs.Conversionを使った完全ガイド"
 "url": "/ja/java/pdf-conversion/convert-word-pdf-custom-fonts-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # JavaでWord文書をカスタムフォント付きPDFに変換する：GroupDocs.Conversionを使った完全ガイド
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "IFC konvertálása TXT-vé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/text-file-processing/convert-ifc-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # IFC fájlok konvertálása TXT formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

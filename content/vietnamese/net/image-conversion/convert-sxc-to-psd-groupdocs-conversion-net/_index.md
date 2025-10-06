@@ -4,8 +4,8 @@
 "title": "Chuyển đổi StarOffice Calc (SXC) sang Photoshop (PSD) bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/image-conversion/convert-sxc-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi bảng tính StarOffice Calc (SXC) sang tài liệu Adobe Photoshop (PSD) bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

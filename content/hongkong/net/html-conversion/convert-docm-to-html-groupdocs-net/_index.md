@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 DOCM 轉換為 HTML 綜合指南"
 "url": "/zh-hant/net/html-conversion/convert-docm-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 DOCM 轉換為 HTML：綜合指南
 
 ## 介紹

@@ -4,8 +4,8 @@
 "title": "Implementieren der Protokollierung in GroupDocs.Conversion für .NET – Eine Schritt-für-Schritt-Anleitung"
 "url": "/de/net/conversion-events-logging/implement-logging-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # So implementieren Sie die Protokollierung von GroupDocs.Conversion-Ereignissen in .NET: Ein umfassender Leitfaden
 
 ## Einführung

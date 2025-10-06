@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 掌握 .NET 中的文件格式转换"
 "url": "/zh/net/conversion-utilities-information/groupdocs-conversion-net-file-format-mastery/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 掌握 .NET 中的文件格式转换
 
 欢迎阅读我们关于如何利用 GroupDocs.Conversion 库高效处理 .NET 文件格式转换的全面指南。本教程将帮助您了解如何通过其 API 检索所有可用的转换格式，从而简化文档管理流程并将其灵活地集成到您的应用程序中。

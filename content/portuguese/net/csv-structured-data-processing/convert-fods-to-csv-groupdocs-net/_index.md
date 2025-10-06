@@ -4,8 +4,8 @@
 "title": "Guia passo a passo para converter FODS em CSV usando o GroupDocs para .NET"
 "url": "/pt/net/csv-structured-data-processing/convert-fods-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converter FODS para CSV usando o GroupDocs para .NET: guia passo a passo
 
 ## Introdução

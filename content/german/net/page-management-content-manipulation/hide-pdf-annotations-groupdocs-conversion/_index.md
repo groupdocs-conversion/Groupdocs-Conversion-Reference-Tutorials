@@ -4,8 +4,8 @@
 "title": "So verbergen Sie PDF-Anmerkungen vor der Konvertierung in Word mit GroupDocs.Conversion für .NET"
 "url": "/de/net/page-management-content-manipulation/hide-pdf-annotations-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # So verbergen Sie PDF-Anmerkungen vor der Konvertierung in Word mit GroupDocs.Conversion für .NET
 
 ## Einführung

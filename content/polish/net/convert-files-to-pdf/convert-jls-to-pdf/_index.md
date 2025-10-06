@@ -5,8 +5,8 @@
 "title": "Konwertuj pliki JPEG-LS (.JLS) do formatu PDF"
 "url": "/pl/net/convert-files-to-pdf/convert-jls-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # Konwertuj pliki JPEG-LS (.JLS) do formatu PDF
 
 ## Wstęp

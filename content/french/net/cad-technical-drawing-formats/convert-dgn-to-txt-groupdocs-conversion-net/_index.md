@@ -4,8 +4,8 @@
 "title": "Comment convertir des fichiers DGN en TXT avec GroupDocs.Conversion .NET pour les professionnels de la CAO"
 "url": "/fr/net/cad-technical-drawing-formats/convert-dgn-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir des fichiers DGN en TXT avec GroupDocs.Conversion .NET
 
 ## Introduction

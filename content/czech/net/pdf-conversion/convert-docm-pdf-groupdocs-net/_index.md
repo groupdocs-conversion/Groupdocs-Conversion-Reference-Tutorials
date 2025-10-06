@@ -4,8 +4,8 @@
 "title": "Komplexní průvodce převodem DOCM do PDF pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/pdf-conversion/convert-docm-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Komplexní průvodce převodem DOCM do PDF pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

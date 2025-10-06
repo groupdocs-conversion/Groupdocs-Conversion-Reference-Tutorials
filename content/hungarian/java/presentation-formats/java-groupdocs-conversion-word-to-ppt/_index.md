@@ -4,8 +4,8 @@
 "title": "Java oktatóanyag&#58; Word dokumentumok konvertálása PowerPoint formátumba a GroupDocs.Conversion for Java segítségével"
 "url": "/hu/java/presentation-formats/java-groupdocs-conversion-word-to-ppt/"
 "weight": 1
+type: docs
 ---
-
 # Java oktatóanyag: Word dokumentumok konvertálása PowerPoint formátumba a GroupDocs.Conversion for Java használatával
 
 ## Bevezetés

@@ -3,8 +3,8 @@
 "title": "Tutorials over werken met beveiligde documenten voor GroupDocs.Conversion .NET"
 "url": "/nl/net/working-with-secure-documents/"
 "weight": 5
+type: docs
 ---
-
 # Tutorials over werken met beveiligde documenten voor GroupDocs.Conversion .NET
 
 Ontdek hoe u beveiligde documenten kunt verwerken met onze GroupDocs.Conversion-tutorials voor .NET-ontwikkelaars. Deze stapsgewijze handleidingen leren u hoe u wachtwoordbeveiligde bestanden kunt laden met behulp van zowel standaard- als vloeiende API-benaderingen, encryptiesleutels kunt beheren, documentspecifieke beveiligingsopties kunt specificeren, authenticatiefouten correct kunt afhandelen en beveiligingsinstellingen tijdens de conversie kunt behouden wanneer dat nodig is. Elke tutorial biedt praktische C#-codevoorbeelden voor het werken met beveiligde documenten, waarmee u applicaties kunt bouwen die beveiligde content kunnen verwerken met respect voor vertrouwelijkheid en toegangscontrole.

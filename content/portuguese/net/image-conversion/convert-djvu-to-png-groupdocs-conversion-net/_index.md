@@ -4,8 +4,8 @@
 "title": "Como converter arquivos DJVU para PNG usando o GroupDocs.Conversion para .NET - um guia passo a passo"
 "url": "/pt/net/image-conversion/convert-djvu-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter arquivos DJVU para PNG usando o GroupDocs.Conversion para .NET: um guia passo a passo
 
 ## Introdução

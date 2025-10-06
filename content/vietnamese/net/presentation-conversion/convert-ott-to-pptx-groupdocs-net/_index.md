@@ -4,8 +4,8 @@
 "title": "Chuyển đổi OTT sang PPTX&#58; Hướng dẫn từng bước sử dụng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/presentation-conversion/convert-ott-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi OTT sang PPTX: Hướng dẫn từng bước sử dụng GroupDocs.Conversion cho .NET
 
 Trong thời đại kỹ thuật số ngày nay, việc chuyển đổi tệp liền mạch là rất quan trọng đối với năng suất và sự cộng tác. Cho dù bạn là nhà phát triển muốn tự động hóa quy trình làm việc của tài liệu hay một tổ chức cần quản lý dữ liệu hiệu quả, việc chuyển đổi tệp OpenDocument Text (OTT) thành bản trình bày PowerPoint (PPTX) có thể vô cùng hữu ích. Hướng dẫn này sẽ hướng dẫn bạn thực hiện quy trình sử dụng GroupDocs.Conversion cho .NET.

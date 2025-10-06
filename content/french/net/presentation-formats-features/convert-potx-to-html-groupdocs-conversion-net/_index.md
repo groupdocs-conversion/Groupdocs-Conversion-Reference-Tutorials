@@ -4,8 +4,8 @@
 "title": "Comment convertir des fichiers POTX en HTML avec GroupDocs.Conversion pour .NET (tutoriel C#)"
 "url": "/fr/net/presentation-formats-features/convert-potx-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir des fichiers POTX en HTML avec GroupDocs.Conversion pour .NET
 
 ## Introduction

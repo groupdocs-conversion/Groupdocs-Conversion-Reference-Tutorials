@@ -3,8 +3,8 @@
 "title": "Handledningar för konvertering av e-postformat för GroupDocs.Conversion Java"
 "url": "/sv/java/email-formats/"
 "weight": 8
+type: docs
 ---
-
 # Handledningar för konvertering av e-postformat för GroupDocs.Conversion Java
 
 Bemästra konvertering av e-postfiler med våra detaljerade GroupDocs.Conversion-handledningar för Java-utvecklare. Dessa steg-för-steg-guider visar hur du konverterar e-postmeddelanden till dokumentformat, extraherar e-postbilagor, bevarar e-postmetadata, hanterar e-postrubriker och brödtexter och implementerar batchkonverteringsåtgärder för e-post. Varje handledning ger praktiska Java-kodexempel för att arbeta med e-postarkiv och meddelanden, vilket hjälper dig att bygga applikationer som effektivt kan bearbeta och omvandla e-postkommunikation till olika dokumentformat.

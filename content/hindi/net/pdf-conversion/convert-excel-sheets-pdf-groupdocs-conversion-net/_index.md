@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके विशिष्ट Excel शीट को PDF में कनवर्ट करें | आसान चरण-दर-चरण मार्गदर्शिका"
 "url": "/hi/net/pdf-conversion/convert-excel-sheets-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके विशिष्ट Excel शीट को PDF में परिवर्तित करें
 
 ## परिचय

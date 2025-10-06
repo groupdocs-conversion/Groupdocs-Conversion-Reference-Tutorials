@@ -4,8 +4,8 @@
 "title": "Μετατρέψτε αποτελεσματικά το PSD σε Excel με το GroupDocs.Conversion για .NET"
 "url": "/el/net/spreadsheet-conversion/convert-psd-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατρέψτε αποτελεσματικά το PSD σε φύλλα Excel με το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

@@ -4,8 +4,8 @@
 "title": "WMZ'yi GroupDocs.Conversion for .NET Kullanarak PPTX'e Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/presentation-formats-features/convert-wmz-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanarak WMZ'yi PPTX'e Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

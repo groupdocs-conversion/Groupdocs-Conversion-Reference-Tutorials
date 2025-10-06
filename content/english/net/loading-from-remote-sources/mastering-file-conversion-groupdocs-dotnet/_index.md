@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion for .NET
 - .NET file conversion
 - seamless document transformation
-
+type: docs
 ---
-
-
 # Mastering File Conversion in .NET with GroupDocs.Conversion
 
 In today's digital world, seamless file conversion across different formats is a common challenge faced by developers. Whether you need to switch from PDFs to Word documents or transform images into presentations, **GroupDocs.Conversion for .NET** offers a powerful and reliable solution to simplify these tasks in your applications.

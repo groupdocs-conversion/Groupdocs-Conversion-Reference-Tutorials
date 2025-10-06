@@ -4,8 +4,8 @@
 "title": "تحويل STL إلى Word باستخدام GroupDocs.Conversion لـ .NET - دليل خطوة بخطوة"
 "url": "/ar/net/word-processing-conversion/convert-stl-to-word-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل STL إلى Word باستخدام GroupDocs.Conversion لـ .NET: دليل خطوة بخطوة
 ## مقدمة
 في عالم النمذجة ثلاثية الأبعاد، تُعدّ ملفات الطباعة المجسمة (STL) أساسية. ومع ذلك، قد تحتاج في بعض الحالات إلى هذه الملفات بتنسيق يسهل الوصول إليه عالميًا، مثل Microsoft Word (DOC). يُعدّ هذا التحويل مفيدًا بشكل خاص لأغراض إعداد التقارير أو تبسيط التعاون. يوفر GroupDocs.Conversion لـ .NET تحويلات سلسة وسهلة الاستخدام.

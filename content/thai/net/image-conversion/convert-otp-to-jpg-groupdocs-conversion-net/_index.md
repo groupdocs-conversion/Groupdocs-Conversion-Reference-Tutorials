@@ -4,8 +4,8 @@
 "title": "แปลง OTP เป็น JPG โดยใช้ GroupDocs.Conversion สำหรับ .NET&#58; คู่มือฉบับสมบูรณ์"
 "url": "/th/net/image-conversion/convert-otp-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลงไฟล์ OTP เป็น JPG ด้วย GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

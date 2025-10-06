@@ -4,8 +4,8 @@
 "title": "Cómo convertir archivos DGN a presentaciones de PowerPoint con GroupDocs.Conversion para .NET (guía paso a paso)"
 "url": "/es/net/cad-technical-drawing-formats/convert-dgn-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir archivos DGN a presentaciones de PowerPoint con GroupDocs.Conversion para .NET
 ## Introducción
 ¿Busca presentar diseños arquitectónicos en un formato fácil de compartir y editar? Convertir archivos DGN en presentaciones de PowerPoint optimiza su flujo de trabajo y mejora sus capacidades de presentación. En esta guía paso a paso, exploraremos cómo usar... **GroupDocs.Conversion para .NET** para transformar archivos DGN al formato PPT sin esfuerzo.

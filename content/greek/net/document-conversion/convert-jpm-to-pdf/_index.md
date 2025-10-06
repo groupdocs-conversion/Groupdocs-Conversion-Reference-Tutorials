@@ -5,8 +5,8 @@
 "title": "Μετατροπή JPM σε PDF"
 "url": "/el/net/document-conversion/convert-jpm-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # Μετατροπή JPM σε PDF
 
 ## Εισαγωγή

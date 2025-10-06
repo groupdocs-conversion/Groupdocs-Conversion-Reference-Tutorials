@@ -8,10 +8,8 @@ keywords:
 - convert JPEG 2000 to PPT
 - GroupDocs.Conversion for .NET
 - JPF to PowerPoint conversion
-
+type: docs
 ---
-
-
 # Convert JPEG 2000 Images to PowerPoint Presentations with GroupDocs.Conversion for .NET
 
 ## Introduction

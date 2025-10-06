@@ -5,8 +5,8 @@
 "title": "Μετατροπή PDF"
 "url": "/el/net/pdf-conversion/"
 "weight": 25
+type: docs
 ---
-
 # Μετατροπή PDF
 
 ## Εισαγωγή

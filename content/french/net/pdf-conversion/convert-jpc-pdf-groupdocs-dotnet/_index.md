@@ -4,8 +4,8 @@
 "title": "Convertir un fichier JPC en PDF à l'aide de GroupDocs.Conversion pour .NET &#58; un guide étape par étape"
 "url": "/fr/net/pdf-conversion/convert-jpc-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertir un fichier JPC en PDF avec GroupDocs.Conversion pour .NET : guide étape par étape
 
 ## Introduction

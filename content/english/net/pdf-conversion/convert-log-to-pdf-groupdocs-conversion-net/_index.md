@@ -8,10 +8,8 @@ keywords:
 - convert log to pdf
 - groupdocs conversion for net
 - automate file conversions
-
+type: docs
 ---
-
-
 # Convert LOG to PDF Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

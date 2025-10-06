@@ -5,8 +5,8 @@
 "title": "XML naar PDF converteren"
 "url": "/nl/net/converting-file-types-to-pdf/convert-xml-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # XML naar PDF converteren
 
 ## Invoering

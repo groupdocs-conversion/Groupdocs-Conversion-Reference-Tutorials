@@ -4,8 +4,8 @@
 "title": "Conversione da CGM a TXT tramite GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/text-markup-conversion/cgm-to-txt-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Implementazione della conversione da CGM a TXT utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

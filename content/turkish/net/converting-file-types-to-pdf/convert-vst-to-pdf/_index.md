@@ -5,8 +5,8 @@
 "title": "VST'yi PDF'ye dönüştür"
 "url": "/tr/net/converting-file-types-to-pdf/convert-vst-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # VST'yi PDF'ye dönüştür
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi trình chiếu PowerPoint (.PPSM) sang CSV bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/spreadsheet-formats-features/convert-ppsm-to-csv-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi trình chiếu PowerPoint (.PPSM) sang CSV bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

@@ -5,8 +5,8 @@
 "title": "PPTMをPDFに変換する"
 "url": "/ja/net/pdf-conversion/convert-pptm-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # PPTMをPDFに変換する
 
 ## 導入

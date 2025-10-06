@@ -4,8 +4,8 @@
 "title": "Domine a conversão DOCM em .NET com GroupDocs.Conversion - Um guia completo"
 "url": "/pt/net/word-processing-formats-features/groupdocs-conversion-dotnet-docm/"
 "weight": 1
+type: docs
 ---
-
 # Dominando a conversão DOCM em .NET com GroupDocs.Conversion
 
 ## Introdução

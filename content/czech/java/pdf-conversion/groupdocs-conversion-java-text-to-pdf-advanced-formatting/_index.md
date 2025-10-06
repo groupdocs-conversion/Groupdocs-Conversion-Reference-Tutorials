@@ -4,8 +4,8 @@
 "title": "Pokročilá konverze textu do PDF pomocí GroupDocs.Conversion v Javě se zachováním formátování"
 "url": "/cs/java/pdf-conversion/groupdocs-conversion-java-text-to-pdf-advanced-formatting/"
 "weight": 1
+type: docs
 ---
-
 # Pokročilá konverze textu do PDF s GroupDocs.Conversion v Javě: Zachování formátování
 
 ## Zavedení

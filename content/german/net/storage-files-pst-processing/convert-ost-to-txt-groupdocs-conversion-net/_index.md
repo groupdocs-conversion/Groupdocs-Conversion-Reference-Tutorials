@@ -4,8 +4,8 @@
 "title": "Effiziente OST-zu-TXT-Konvertierung mit GroupDocs.Conversion für .NET"
 "url": "/de/net/storage-files-pst-processing/convert-ost-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie OST-Dateien mit GroupDocs.Conversion für .NET in TXT
 
 ## Einführung

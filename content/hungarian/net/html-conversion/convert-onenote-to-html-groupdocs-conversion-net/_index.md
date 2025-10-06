@@ -4,8 +4,8 @@
 "title": "OneNote HTML-lé konvertálása a GroupDocs.Conversion for .NET segítségével – Teljes körű útmutató"
 "url": "/hu/net/html-conversion/convert-onenote-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OneNote HTML-lé konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

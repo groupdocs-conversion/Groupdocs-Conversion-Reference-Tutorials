@@ -8,10 +8,8 @@ keywords:
 - convert PNG to PPTX
 - GroupDocs.Conversion for .NET
 - file conversion in .NET
-
+type: docs
 ---
-
-
 # Comprehensive Guide: Convert PNG to PPTX Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -5,8 +5,8 @@
 "title": "Konvertera EPUB e-böcker till PDF"
 "url": "/sv/net/convert-files-to-pdf/convert-epub-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # Konvertera EPUB e-böcker till PDF
 
 ## Introduktion

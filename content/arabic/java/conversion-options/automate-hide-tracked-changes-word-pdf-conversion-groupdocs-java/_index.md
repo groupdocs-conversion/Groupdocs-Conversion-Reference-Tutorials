@@ -4,8 +4,8 @@
 "title": "أتمتة إخفاء التغييرات المتعقبة في تحويل Word إلى PDF باستخدام GroupDocs.Conversion لـ Java"
 "url": "/ar/java/conversion-options/automate-hide-tracked-changes-word-pdf-conversion-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # أتمتة إخفاء التغييرات المتعقبة في تحويل Word إلى PDF باستخدام GroupDocs.Conversion لـ Java
 
 ## مقدمة

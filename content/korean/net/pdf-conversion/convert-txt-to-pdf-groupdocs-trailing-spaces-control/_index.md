@@ -4,8 +4,8 @@
 "title": "GroupDocs를 사용하여 TXT를 PDF로 변환하고 .NET을 사용하여 후행 공백을 제어합니다."
 "url": "/ko/net/pdf-conversion/convert-txt-to-pdf-groupdocs-trailing-spaces-control/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs를 사용하여 TXT를 PDF로 변환: .NET을 사용하여 후행 공백 제어
 
 ## 소개

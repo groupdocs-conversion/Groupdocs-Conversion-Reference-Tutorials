@@ -4,8 +4,8 @@
 "title": "DOC'u GroupDocs.Conversion for .NET ile SVG'ye Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/image-conversion/convert-doc-to-svg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # DOC'u GroupDocs.Conversion for .NET ile SVG'ye Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

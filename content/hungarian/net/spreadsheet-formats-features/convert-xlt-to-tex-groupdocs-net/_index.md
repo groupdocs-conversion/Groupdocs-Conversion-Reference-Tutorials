@@ -4,8 +4,8 @@
 "title": "XLT hatékony konvertálása TEX-be a GroupDocs.Conversion for .NET segítségével – Teljes körű útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-xlt-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # XLT hatékony konvertálása TEX-be a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

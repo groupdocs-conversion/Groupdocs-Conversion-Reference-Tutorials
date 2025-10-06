@@ -5,8 +5,8 @@
 "title": "पीसीएल को पीडीएफ में बदलें"
 "url": "/hi/net/pdf-conversion/convert-pcl-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # पीसीएल को पीडीएफ में बदलें
 
 ## परिचय

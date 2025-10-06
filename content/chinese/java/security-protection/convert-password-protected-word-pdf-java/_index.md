@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 Java 中将受密码保护的 Word 转换为 PDF"
 "url": "/zh/java/security-protection/convert-password-protected-word-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 Java 中将受密码保护的 Word 转换为 PDF
 
 这份全面的指南将指导您如何使用 Java 中的 GroupDocs.Conversion 库，轻松将受保护的 Word 文档转换为 PDF 格式。了解如何指定特定页面、设置自定义尺寸、调整分辨率以及优化性能，以实现无缝文档转换。

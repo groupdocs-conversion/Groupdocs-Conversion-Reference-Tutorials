@@ -4,8 +4,8 @@
 "title": "ODS konvertálása XLSX-re a GroupDocs.Conversion .NET használatával – Átfogó útmutató"
 "url": "/hu/net/spreadsheet-conversion/groupdocs-conversion-ods-to-xlsx-net/"
 "weight": 1
+type: docs
 ---
-
 # ODS konvertálása XLSX-re a GroupDocs.Conversion .NET használatával: Átfogó útmutató
 
 A mai adatvezérelt környezetben a zökkenőmentes fájlkonvertálás kulcsfontosságú. A táblázatokkal dolgozó fejlesztők és üzleti szakemberek számára az Open Document Spreadsheets (ODS) fájlok Microsoft Excel Open XML Spreadsheets (XLSX) formátumba konvertálása jelentősen növelheti a termelékenységet. Ez az útmutató végigvezeti Önt a GroupDocs.Conversion for .NET használatán, hogy könnyedén elvégezhesse ezt a konverziót.

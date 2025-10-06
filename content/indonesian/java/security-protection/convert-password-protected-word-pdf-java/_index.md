@@ -4,8 +4,8 @@
 "title": "Konversi Word yang Dilindungi Kata Sandi ke PDF di Java Menggunakan GroupDocs.Conversion"
 "url": "/id/java/security-protection/convert-password-protected-word-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Konversi Word yang Dilindungi Kata Sandi ke PDF di Java Menggunakan GroupDocs.Conversion
 
 Ubah dokumen Word yang dilindungi menjadi format PDF dengan mudah dengan panduan lengkap tentang penggunaan pustaka GroupDocs.Conversion di Java. Temukan cara menentukan halaman tertentu, mengatur dimensi khusus, menyesuaikan resolusi, dan mengoptimalkan kinerja untuk konversi dokumen yang lancar.

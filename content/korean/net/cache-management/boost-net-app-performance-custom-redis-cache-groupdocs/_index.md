@@ -4,8 +4,8 @@
 "title": ".NET 애플리케이션 성능 향상&#58; GroupDocs.Conversion을 사용한 사용자 지정 Redis 캐시 구현"
 "url": "/ko/net/cache-management/boost-net-app-performance-custom-redis-cache-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용하여 사용자 정의 Redis 캐싱으로 .NET 애플리케이션 성능 향상
 
 ## 소개

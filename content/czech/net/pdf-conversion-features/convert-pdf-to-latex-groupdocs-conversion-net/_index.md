@@ -4,8 +4,8 @@
 "title": "Převod PDF do LaTeXu pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/pdf-conversion-features/convert-pdf-to-latex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod PDF do LaTeXu pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

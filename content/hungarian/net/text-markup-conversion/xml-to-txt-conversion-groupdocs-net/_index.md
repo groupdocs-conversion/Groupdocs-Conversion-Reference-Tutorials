@@ -4,8 +4,8 @@
 "title": "Hatékony XML-TXT konvertálás a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/text-markup-conversion/xml-to-txt-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony XML-TXT konvertálás a GroupDocs.Conversion for .NET használatával
 
 A mai gyorsan változó digitális környezetben kulcsfontosságú a dokumentumformátumok hatékony konvertálásának képessége. Akár az XML-fájlok egyszerű szöveges ábrázolására van szüksége, akár régi rendszerekkel dolgozik, az XML TXT-vé konvertálása számos feladatot leegyszerűsíthet. Ez az útmutató segít Önnek... **GroupDocs.Conversion .NET-hez** hogy zökkenőmentesen átalakítson egy XML fájlt TXT formátumba.

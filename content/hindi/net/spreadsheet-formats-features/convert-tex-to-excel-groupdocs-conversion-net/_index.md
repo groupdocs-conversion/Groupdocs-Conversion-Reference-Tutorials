@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके LaTeX (TEX) फ़ाइलों को Excel स्प्रेडशीट में कनवर्ट करें"
 "url": "/hi/net/spreadsheet-formats-features/convert-tex-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके LaTeX (TEX) फ़ाइलों को Excel स्प्रेडशीट में कनवर्ट करें
 
 ## परिचय

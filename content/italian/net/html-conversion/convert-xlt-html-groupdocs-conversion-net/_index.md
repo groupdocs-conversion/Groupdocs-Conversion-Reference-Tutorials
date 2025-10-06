@@ -4,8 +4,8 @@
 "title": "Convertire XLT in HTML utilizzando GroupDocs.Conversion per .NET - Guida passo passo"
 "url": "/it/net/html-conversion/convert-xlt-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire i file XLT in HTML utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

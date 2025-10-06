@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Kullanarak .NET'te Verimli PowerPoint'ten Metne Dönüştürme"
 "url": "/tr/net/text-markup-conversion/powerpoint-to-text-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Kullanarak .NET'te Verimli PowerPoint'ten Metne Dönüştürme
 ## GroupDocs.Conversion for .NET ile PowerPoint'i Metne Dönüştürmede Ustalaşma: Kapsamlı Bir Kılavuz
 ### giriiş

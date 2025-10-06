@@ -5,8 +5,8 @@
 "title": "Μετατροπή MHTML σε PDF"
 "url": "/el/net/document-conversion/convert-mhtml-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Μετατροπή MHTML σε PDF
 
 ## Εισαγωγή

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 MPX 파일을 Excel로 변환 - 간편한 프로젝트 관리 파일 변환"
 "url": "/ko/net/spreadsheet-formats-features/convert-mpx-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 MPX 파일을 Excel로 변환
 
 ## 소개

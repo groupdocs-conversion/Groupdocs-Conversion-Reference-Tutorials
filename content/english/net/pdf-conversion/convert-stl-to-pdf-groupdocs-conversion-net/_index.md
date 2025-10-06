@@ -8,10 +8,8 @@ keywords:
 - Convert STL to PDF
 - GroupDocs.Conversion .NET
 - STL file conversion
-
+type: docs
 ---
-
-
 # How to Convert STL Files to PDF Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "VST konvertálása TXT-vé a GroupDocs.Conversion for .NET használatával - Szöveg- és jelöléskonverziós útmutató"
 "url": "/hu/net/text-markup-conversion/convert-vst-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # VST fájlok konvertálása TXT formátumba a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

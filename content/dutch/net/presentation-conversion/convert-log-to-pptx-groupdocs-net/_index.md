@@ -4,8 +4,8 @@
 "title": "Converteer logbestanden efficiënt naar PowerPoint met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/presentation-conversion/convert-log-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer logbestanden efficiënt naar PowerPoint met GroupDocs.Conversion voor .NET
 
 ## Invoering

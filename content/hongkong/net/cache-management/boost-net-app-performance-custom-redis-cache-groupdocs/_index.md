@@ -4,8 +4,8 @@
 "title": "提升 .NET 應用程式效能 &#58; 使用 GroupDocs.Conversion 實作自訂 Redis 快取"
 "url": "/zh-hant/net/cache-management/boost-net-app-performance-custom-redis-cache-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 透過自訂 Redis 快取提升 .NET 應用程式效能
 
 ## 介紹

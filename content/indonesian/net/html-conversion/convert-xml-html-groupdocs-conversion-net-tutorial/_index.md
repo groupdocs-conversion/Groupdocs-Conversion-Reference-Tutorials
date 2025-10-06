@@ -4,8 +4,8 @@
 "title": "Konversi XML ke HTML Menggunakan GroupDocs.Conversion .NET&#58; Panduan Lengkap"
 "url": "/id/net/html-conversion/convert-xml-html-groupdocs-conversion-net-tutorial/"
 "weight": 1
+type: docs
 ---
-
 # Konversi XML ke HTML dengan GroupDocs.Conversion .NET: Panduan Lengkap
 
 ## Perkenalan

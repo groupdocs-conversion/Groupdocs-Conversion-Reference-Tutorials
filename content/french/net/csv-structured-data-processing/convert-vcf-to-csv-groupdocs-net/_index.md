@@ -4,8 +4,8 @@
 "title": "Convertissez facilement des fichiers VCF en CSV avec GroupDocs.Conversion pour .NET - Un guide complet"
 "url": "/fr/net/csv-structured-data-processing/convert-vcf-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des fichiers VCF en CSV avec GroupDocs.Conversion pour .NET
 
 ## Introduction

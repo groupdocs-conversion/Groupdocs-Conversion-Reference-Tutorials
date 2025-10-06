@@ -4,8 +4,8 @@
 "title": "DWF konvertálása TEX-be .NET-ben a GroupDocs.Conversion Library használatával"
 "url": "/hu/net/loading-from-remote-sources/convert-dwf-to-tex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # DWF fájlok konvertálása TEX fájlokká a GroupDocs.Conversion segítségével .NET-ben
 
 ## Bevezetés

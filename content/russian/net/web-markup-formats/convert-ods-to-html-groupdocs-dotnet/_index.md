@@ -4,8 +4,8 @@
 "title": "Как преобразовать ODS-файлы в HTML с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/web-markup-formats/convert-ods-to-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Как преобразовать ODS-файлы в HTML с помощью GroupDocs.Conversion для .NET
 
 ## Введение

@@ -4,8 +4,8 @@
 "title": "Cómo convertir DCM a TXT con GroupDocs.Conversion para .NET&#58; una guía completa"
 "url": "/es/net/text-markup-conversion/convert-dcm-to-txt-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir archivos DCM a TXT con GroupDocs.Conversion para .NET: una guía completa
 
 ## Introducción

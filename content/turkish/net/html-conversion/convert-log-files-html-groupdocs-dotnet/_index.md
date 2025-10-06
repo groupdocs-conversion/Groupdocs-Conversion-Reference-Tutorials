@@ -4,8 +4,8 @@
 "title": "Kapsamlı Kılavuz&#58; LOG Dosyalarını .NET için GroupDocs.Conversion kullanarak HTML'ye Dönüştürme"
 "url": "/tr/net/html-conversion/convert-log-files-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Kapsamlı Kılavuz: LOG Dosyalarını .NET için GroupDocs.Conversion kullanarak HTML'ye Dönüştürme
 
 ## giriiş

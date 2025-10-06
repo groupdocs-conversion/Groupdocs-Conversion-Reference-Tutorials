@@ -5,8 +5,8 @@
 "title": "Конвертировать векторную графику CDR в PDF"
 "url": "/ru/net/file-conversion-to-pdf/convert-cdr-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # Конвертировать векторную графику CDR в PDF
 
 ## Введение

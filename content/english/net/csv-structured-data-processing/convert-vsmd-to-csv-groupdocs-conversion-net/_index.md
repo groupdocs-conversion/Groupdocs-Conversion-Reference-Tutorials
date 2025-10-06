@@ -8,10 +8,8 @@ keywords:
 - Convert VSDM to CSV
 - GroupDocs.Conversion for .NET
 - Visio Macro-Enabled Drawings conversion
-
+type: docs
 ---
-
-
 # Convert VSDM to CSV in .NET Using GroupDocs.Conversion Library
 
 ## Introduction

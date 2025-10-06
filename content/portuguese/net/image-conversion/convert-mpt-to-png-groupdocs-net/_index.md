@@ -4,8 +4,8 @@
 "title": "Converta MPT para PNG usando GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/image-conversion/convert-mpt-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converter MPT para PNG com GroupDocs.Conversion para .NET
 
 ## Introdução

@@ -4,8 +4,8 @@
 "title": "DWT fájlok SVG formátumba konvertálása a GroupDocs.Conversion for .NET segítségével - CAD és műszaki rajzok konvertálási útmutató"
 "url": "/hu/net/cad-technical-drawing-formats/convert-dwt-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DWT fájlok SVG-vé konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

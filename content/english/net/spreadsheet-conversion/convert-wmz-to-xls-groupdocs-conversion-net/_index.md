@@ -8,10 +8,8 @@ keywords:
 - WMZ to XLS conversion
 - GroupDocs.Conversion for .NET
 - GIS data analysis
-
+type: docs
 ---
-
-
 # Convert WMZ Files to XLS Format with GroupDocs.Conversion for .NET
 
 ## Introduction

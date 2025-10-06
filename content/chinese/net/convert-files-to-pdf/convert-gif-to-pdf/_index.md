@@ -5,8 +5,8 @@
 "title": "将 GIF 图像转换为 PDF"
 "url": "/zh/net/convert-files-to-pdf/convert-gif-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # 将 GIF 图像转换为 PDF
 
 ## 介绍

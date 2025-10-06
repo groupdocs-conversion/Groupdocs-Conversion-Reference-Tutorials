@@ -8,10 +8,8 @@ keywords:
 - convert PDF to Word using GroupDocs for Java
 - PDF to Word conversion in Java
 - GroupDocs.Conversion setup for Java
-
+type: docs
 ---
-
-
 # Convert PDF to Word Using GroupDocs for Java: A Comprehensive Guide
 
 ## Introduction

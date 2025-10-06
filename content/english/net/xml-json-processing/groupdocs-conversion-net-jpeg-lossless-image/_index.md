@@ -8,10 +8,8 @@ keywords:
 - Convert JLS Files
 - GroupDocs.Conversion for .NET
 - JPEG Lossless Image File
-
+type: docs
 ---
-
-
 # Convert JLS Files to PDF and More Using GroupDocs.Conversion for .NET
 
 ## Introduction

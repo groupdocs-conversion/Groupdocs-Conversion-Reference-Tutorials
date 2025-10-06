@@ -4,8 +4,8 @@
 "title": "Μετατροπή XML σε JPG σε .NET χρησιμοποιώντας το GroupDocs.Conversion - Οδηγός βήμα προς βήμα"
 "url": "/el/net/xml-json-processing/convert-xml-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή XML σε JPG σε .NET χρησιμοποιώντας το GroupDocs.Conversion: Οδηγός βήμα προς βήμα
 
 ## Εισαγωγή

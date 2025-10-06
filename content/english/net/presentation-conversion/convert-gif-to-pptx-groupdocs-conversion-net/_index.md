@@ -8,10 +8,8 @@ keywords:
 - convert GIF to PPTX
 - GroupDocs.Conversion .NET
 - animated GIF to PowerPoint
-
+type: docs
 ---
-
-
 # Convert Animated GIFs to PowerPoint Presentations with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

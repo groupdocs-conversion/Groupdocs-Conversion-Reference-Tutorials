@@ -4,8 +4,8 @@
 "title": "Převod XLTM souborů do PNG v .NET – kompletní průvodce pomocí GroupDocs.Conversion"
 "url": "/cs/net/image-conversion/convert-xltm-to-png-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Převod XLTM souborů do PNG v .NET: Kompletní průvodce pomocí GroupDocs.Conversion
 
 ## Zavedení

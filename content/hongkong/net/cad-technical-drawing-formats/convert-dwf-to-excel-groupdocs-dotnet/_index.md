@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion™ 逐步指南在 .NET 中將 DWF 轉換為 Excel"
 "url": "/zh-hant/net/cad-technical-drawing-formats/convert-dwf-to-excel-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 .NET 中將 DWF 轉換為 Excel：逐步指南
 
 ## 介紹

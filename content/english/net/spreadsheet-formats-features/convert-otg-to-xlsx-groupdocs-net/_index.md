@@ -8,10 +8,8 @@ keywords:
 - convert OTG to XLSX
 - GroupDocs.Conversion .NET
 - file conversion in .NET
-
+type: docs
 ---
-
-
 # How to Convert OTG Files to XLSX Using GroupDocs.Conversion in .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Efficiënte PNG naar PPT-conversie met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/presentation-conversion/convert-png-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Efficiënte PNG naar PPT-conversie met GroupDocs.Conversion voor .NET
 
 ## Invoering

@@ -3,8 +3,8 @@
 "title": "使用 GroupDocs.Conversion Java 進行文字處理格式轉換教學"
 "url": "/zh-hant/java/word-processing-formats/"
 "weight": 5
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion Java 進行文字處理格式轉換教學
 
 使用我們全面的 GroupDocs.Conversion Java 教程，了解如何有效率地處理 Word 文件轉換。這些逐步指南將指導您如何在各種 Word 處理格式之間進行轉換、保留格式和樣式、處理嵌入物件以及在轉換過程中維護文件結構。每個教學課程都提供了常見 Word 文件轉換任務的實用 Java 程式碼範例，幫助您建立更有效率的應用程序，以高保真度處理文字文件。

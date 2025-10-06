@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Kullanarak .NET'te CDR'yi PNG'ye Dönüştürme"
 "url": "/tr/net/image-conversion/convert-cdr-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Kullanarak .NET'te CDR'yi PNG'ye Dönüştürme
 
 ## giriiş

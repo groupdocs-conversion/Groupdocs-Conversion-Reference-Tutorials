@@ -5,8 +5,8 @@
 "title": "Преобразование документов"
 "url": "/ru/net/document-conversion/"
 "weight": 23
+type: docs
 ---
-
 # Преобразование документов
 
 ## Введение

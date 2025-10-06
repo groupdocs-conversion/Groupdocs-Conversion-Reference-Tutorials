@@ -4,8 +4,8 @@
 "title": "Hur man konverterar SVGZ-filer till TXT med GroupDocs.Conversion för .NET"
 "url": "/sv/net/text-markup-conversion/convert-svgz-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar SVGZ-filer till TXT med GroupDocs.Conversion för .NET
 
 ## Introduktion

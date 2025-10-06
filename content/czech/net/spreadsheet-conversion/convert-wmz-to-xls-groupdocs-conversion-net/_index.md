@@ -4,8 +4,8 @@
 "title": "Převod WMZ do XLS pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/spreadsheet-conversion/convert-wmz-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů WMZ do formátu XLS pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

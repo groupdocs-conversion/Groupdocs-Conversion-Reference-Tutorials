@@ -4,8 +4,8 @@
 "title": "Эффективное преобразование WEBP в PPTX с помощью GroupDocs.Conversion .NET"
 "url": "/ru/net/presentation-formats-features/convert-webp-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Эффективное преобразование WEBP в PPTX с помощью GroupDocs.Conversion .NET
 
 ## Введение

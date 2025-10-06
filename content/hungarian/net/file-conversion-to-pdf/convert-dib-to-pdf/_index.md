@@ -5,8 +5,8 @@
 "title": "DIB képek konvertálása PDF-be"
 "url": "/hu/net/file-conversion-to-pdf/convert-dib-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # DIB képek konvertálása PDF-be
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Převod e-mailů do PDF v Javě pomocí průvodce pokročilými možnostmi GroupDocs.Conversion"
 "url": "/cs/java/pdf-conversion/convert-emails-to-pdfs-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Převod e-mailů do PDF v Javě pomocí GroupDocs.Conversion: Průvodce pokročilými možnostmi
 
 ## Zavedení

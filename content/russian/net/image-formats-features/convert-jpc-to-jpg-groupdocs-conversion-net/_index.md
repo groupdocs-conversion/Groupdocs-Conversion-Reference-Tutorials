@@ -4,8 +4,8 @@
 "title": "Конвертируйте JPC в JPG с помощью GroupDocs.Conversion для .NET&#58; Пошаговое руководство"
 "url": "/ru/net/image-formats-features/convert-jpc-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертация JPC в JPG с помощью GroupDocs.Conversion для .NET: пошаговое руководство
 
 ## Введение

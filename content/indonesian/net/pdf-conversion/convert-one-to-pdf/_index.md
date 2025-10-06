@@ -5,8 +5,8 @@
 "title": "Konversi ONE ke PDF"
 "url": "/id/net/pdf-conversion/convert-one-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Konversi ONE ke PDF
 
 ## Perkenalan

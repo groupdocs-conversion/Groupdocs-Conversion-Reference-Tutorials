@@ -5,8 +5,8 @@
 "title": "JP2 konvertálása PDF-be"
 "url": "/hu/net/document-conversion/convert-jp2-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # JP2 konvertálása PDF-be
 
 ## Bevezetés

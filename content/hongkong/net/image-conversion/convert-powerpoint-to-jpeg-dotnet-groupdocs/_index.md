@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中有效地將 PowerPoint 範本轉換為 JPEG"
 "url": "/zh-hant/net/image-conversion/convert-powerpoint-to-jpeg-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 .NET 中有效地將 PowerPoint 範本轉換為 JPEG
 
 ## 介紹

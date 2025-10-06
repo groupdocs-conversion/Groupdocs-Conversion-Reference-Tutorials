@@ -4,8 +4,8 @@
 "title": "Jak nastavit cestu k výstupnímu adresáři pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/document-output-saving/groupdocs-conversion-setup-output-directory-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak nastavit cestu k výstupnímu adresáři pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

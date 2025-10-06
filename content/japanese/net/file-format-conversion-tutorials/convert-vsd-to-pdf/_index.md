@@ -5,8 +5,8 @@
 "title": "VSDをPDFに変換する"
 "url": "/ja/net/file-format-conversion-tutorials/convert-vsd-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # VSDをPDFに変換する
 
 ## 導入

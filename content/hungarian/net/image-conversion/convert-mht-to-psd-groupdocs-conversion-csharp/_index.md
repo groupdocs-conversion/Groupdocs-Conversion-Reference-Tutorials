@@ -4,8 +4,8 @@
 "title": "MHT konvertálása PSD-vé a GroupDocs.Conversion segítségével C#-ban - Képkonverziós útmutató"
 "url": "/hu/net/image-conversion/convert-mht-to-psd-groupdocs-conversion-csharp/"
 "weight": 1
+type: docs
 ---
-
 # MHT konvertálása PSD-vé GroupDocs.Conversion használatával C#-ban: Átfogó képkonverziós útmutató
 
 ## Bevezetés

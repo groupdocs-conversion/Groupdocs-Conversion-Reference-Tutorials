@@ -4,8 +4,8 @@
 "title": "Efektivní převod PPTM do PNG pomocí GroupDocs.Conversion pro .NET – kompletní průvodce"
 "url": "/cs/net/presentation-formats-features/groupdocs-conversion-net-pptm-to-png/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod PPTM do PNG pomocí GroupDocs.Conversion pro .NET
 
 Vítejte v komplexním průvodci, jak využít sílu nástroje GroupDocs.Conversion pro .NET k snadnému načítání souborů prezentací Microsoft PowerPoint (.pptm) a jejich převodu do vysoce kvalitních obrázků PNG. Ať už spravujete prezentace nebo vytváříte vizuální obsah, tento tutoriál vás vybaví potřebnými dovednostmi.

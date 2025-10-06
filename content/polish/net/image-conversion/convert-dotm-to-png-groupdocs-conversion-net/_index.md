@@ -4,8 +4,8 @@
 "title": "Konwertuj szablony Word (.dotm) do PNG za pomocą GroupDocs.Conversion dla .NET"
 "url": "/pl/net/image-conversion/convert-dotm-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj szablony Word na obrazy PNG za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

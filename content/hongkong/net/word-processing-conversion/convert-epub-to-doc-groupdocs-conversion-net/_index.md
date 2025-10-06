@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 將 EPUB 轉換為 DOC 的綜合指南"
 "url": "/zh-hant/net/word-processing-conversion/convert-epub-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 將 EPUB 轉換為 DOC：綜合指南
 
 ## 介紹

@@ -5,8 +5,8 @@
 "title": "Chuyển đổi MD sang PDF"
 "url": "/vi/net/document-conversion/convert-md-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # Chuyển đổi MD sang PDF
 
 ## Giới thiệu

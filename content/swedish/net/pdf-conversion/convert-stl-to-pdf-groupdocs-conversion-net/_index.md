@@ -4,8 +4,8 @@
 "title": "Hur man konverterar STL-filer till PDF med GroupDocs.Conversion för .NET"
 "url": "/sv/net/pdf-conversion/convert-stl-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar STL-filer till PDF med GroupDocs.Conversion för .NET
 
 ## Introduktion

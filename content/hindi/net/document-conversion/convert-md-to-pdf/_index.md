@@ -5,8 +5,8 @@
 "title": "MD को PDF में बदलें"
 "url": "/hi/net/document-conversion/convert-md-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # MD को PDF में बदलें
 
 ## परिचय

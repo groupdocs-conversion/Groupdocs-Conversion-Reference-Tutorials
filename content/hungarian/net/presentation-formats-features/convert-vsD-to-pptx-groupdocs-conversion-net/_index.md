@@ -4,8 +4,8 @@
 "title": "VSD fájlok PPTX formátumba konvertálása a .NET-hez készült GroupDocs.Conversion segítségével"
 "url": "/hu/net/presentation-formats-features/convert-vsD-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VSD fájlok PPTX formátumba konvertálása a .NET-hez készült GroupDocs.Conversion segítségével
 
 ## Bevezetés

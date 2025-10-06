@@ -4,8 +4,8 @@
 "title": "Helyi dokumentumok konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/pdf-conversion-features/convert-local-documents-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Helyi dokumentumok PDF-be konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

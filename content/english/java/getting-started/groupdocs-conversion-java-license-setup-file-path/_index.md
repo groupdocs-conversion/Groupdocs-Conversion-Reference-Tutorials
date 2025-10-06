@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion Java license setup
 - Maven configuration for GroupDocs
 - Set License from File feature
-
+type: docs
 ---
-
-
 # Setting Up GroupDocs.Conversion Java License: A Comprehensive Tutorial
 
 Welcome to our step-by-step guide on setting up and using the GroupDocs.Conversion library for Java. This tutorial focuses specifically on how to implement license setup via file paths, enabling you to unlock the full potential of this robust document conversion tool.

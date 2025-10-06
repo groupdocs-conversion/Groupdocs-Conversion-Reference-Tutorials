@@ -4,8 +4,8 @@
 "title": "Automatisez la conversion d'Excel vers LaTeX à l'aide de GroupDocs.Conversion pour .NET - Un guide complet"
 "url": "/fr/net/spreadsheet-formats-features/groupdocs-conversion-net-excel-to-latex/"
 "weight": 1
+type: docs
 ---
-
 # Automatisez les macros Excel en LaTeX avec GroupDocs
 
 ## Introduction

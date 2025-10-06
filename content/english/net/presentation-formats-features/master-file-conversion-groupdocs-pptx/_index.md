@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion for .NET
 - PPTX conversion
 - .NET file conversion
-
+type: docs
 ---
-
-
 # Master PPTX File Conversion with GroupDocs.Conversion for .NET: Effortless and Efficient Solutions
 
 ## Introduction

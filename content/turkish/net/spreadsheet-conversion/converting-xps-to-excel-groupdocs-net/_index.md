@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak Verimli XPS'ten Excel'e Dönüştürme"
 "url": "/tr/net/spreadsheet-conversion/converting-xps-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak Verimli XPS'ten Excel'e Dönüştürme
 
 ## giriiş

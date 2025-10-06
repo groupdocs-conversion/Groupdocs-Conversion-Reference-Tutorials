@@ -8,10 +8,8 @@ keywords:
 - CDR to PNG conversion
 - GroupDocs.Conversion for .NET
 - .NET file conversion
-
+type: docs
 ---
-
-
 # Master CDR to PNG Conversion in .NET Using GroupDocs.Conversion
 
 ## Introduction

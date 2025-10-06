@@ -5,8 +5,8 @@
 "title": "Конвертируйте сообщения электронной почты EMLX Apple Mail в PDF"
 "url": "/ru/net/convert-files-to-pdf/convert-emlx-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # Конвертируйте сообщения электронной почты EMLX Apple Mail в PDF
 
 ## Введение

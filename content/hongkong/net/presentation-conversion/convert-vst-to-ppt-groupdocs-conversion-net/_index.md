@@ -4,8 +4,8 @@
 "title": "掌握檔案轉換&#58;使用 GroupDocs.Conversion .NET 函式庫將 VST 轉換為 PPT"
 "url": "/zh-hant/net/presentation-conversion/convert-vst-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 掌握檔案轉換：使用 GroupDocs.Conversion .NET 函式庫將 VST 轉換為 PPT
 
 ## 介紹

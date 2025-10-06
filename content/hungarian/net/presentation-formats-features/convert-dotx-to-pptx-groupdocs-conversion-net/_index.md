@@ -4,8 +4,8 @@
 "title": "Hogyan konvertáljunk DOTX-et PPTX-be a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/presentation-formats-features/convert-dotx-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DOTX fájlok PPTX formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

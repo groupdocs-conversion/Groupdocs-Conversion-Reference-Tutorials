@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して PowerPoint を Excel に効率的に変換する"
 "url": "/ja/net/spreadsheet-conversion/convert-powerpoint-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 効率的な変換: GroupDocs.Conversion for .NET を使用した PowerPoint から Excel への変換
 
 ## 導入

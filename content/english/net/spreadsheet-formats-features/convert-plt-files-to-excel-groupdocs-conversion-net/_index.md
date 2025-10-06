@@ -8,10 +8,8 @@ keywords:
 - convert PLT to Excel with GroupDocs.Conversion
 - PLT file conversion in .NET
 - data transformation using GroupDocs
-
+type: docs
 ---
-
-
 # How to Efficiently Convert PLT Files to Excel Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "JPC konvertálása PPTX-re a GroupDocs.Conversion for .NET segítségével – lépésről lépésre útmutató"
 "url": "/hu/net/loading-from-remote-sources/convert-jpc-to-pptx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó oktatóanyag: JPC konvertálása PPTX-be a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

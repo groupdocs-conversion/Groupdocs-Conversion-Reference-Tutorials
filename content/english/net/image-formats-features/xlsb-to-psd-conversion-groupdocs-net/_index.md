@@ -8,10 +8,8 @@ keywords:
 - XLSB to PSD conversion
 - GroupDocs.Conversion .NET
 - file format conversion
-
+type: docs
 ---
-
-
 # Efficient XLSB to PSD Conversion in .NET Using GroupDocs.Conversion API
 
 ## Introduction

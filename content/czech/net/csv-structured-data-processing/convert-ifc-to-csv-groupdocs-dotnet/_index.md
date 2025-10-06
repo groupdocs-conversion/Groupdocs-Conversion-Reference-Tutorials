@@ -4,8 +4,8 @@
 "title": "Efektivní převod IFC do CSV pomocí GroupDocs.Conversion pro .NET | Průvodce a tutoriál"
 "url": "/cs/net/csv-structured-data-processing/convert-ifc-to-csv-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů IFC do formátu CSV pomocí nástroje GroupDocs.Conversion pro .NET
 
 ## Zavedení

@@ -5,8 +5,8 @@
 "title": "STLをPDFに変換する"
 "url": "/ja/net/file-format-conversion-tutorials/convert-stl-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # STLをPDFに変換する
 
 ## 導入

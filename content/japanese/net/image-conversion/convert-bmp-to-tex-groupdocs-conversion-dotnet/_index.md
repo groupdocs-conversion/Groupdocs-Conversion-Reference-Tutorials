@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用した BMP から TEX への変換をマスターする"
 "url": "/ja/net/image-conversion/convert-bmp-to-tex-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用した BMP から TEX への変換の習得
 
 **ドキュメント変換のパワーを解き放つ: BMP 画像を TEX 形式に簡単に変換**

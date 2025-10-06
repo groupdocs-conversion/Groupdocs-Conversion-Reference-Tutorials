@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert VST Files to PDF Using GroupDocs.Conversion for .NET in C#
 
 ## Introduction

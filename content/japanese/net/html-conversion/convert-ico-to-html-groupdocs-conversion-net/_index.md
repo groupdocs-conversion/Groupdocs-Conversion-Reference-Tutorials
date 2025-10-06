@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して ICO を HTML に変換する包括的なガイド"
 "url": "/ja/net/html-conversion/convert-ico-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して ICO ファイルを HTML に変換する
 
 ## 導入

@@ -5,8 +5,8 @@
 "title": "Convertire POTX in PDF"
 "url": "/it/net/pdf-conversion/convert-potx-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # Convertire POTX in PDF
 
 ## Introduzione

@@ -4,8 +4,8 @@
 "title": "Hogyan konvertálhatunk FODP fájlokat SVG formátumba a GroupDocs.Conversion for .NET használatával?"
 "url": "/hu/net/image-conversion/convert-fodp-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhatunk FODP fájlokat SVG formátumba a GroupDocs.Conversion for .NET használatával?
 
 ## Bevezetés

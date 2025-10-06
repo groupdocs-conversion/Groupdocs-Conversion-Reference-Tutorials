@@ -4,8 +4,8 @@
 "title": "Triển khai cấp phép theo mét với GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/getting-started-licensing/metered-licensing-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Triển khai cấp phép theo mét với GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

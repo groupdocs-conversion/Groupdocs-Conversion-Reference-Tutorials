@@ -4,8 +4,8 @@
 "title": "使用 .NET 中的 GroupDocs.Conversion 有效地將 PPSX 轉換為 CSV"
 "url": "/zh-hant/net/spreadsheet-formats-features/converting-ppsx-to-csv-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 .NET 中的 GroupDocs.Conversion 將 PPSX 高效率轉換為 CSV
 ## 介紹
 您是否希望將 PowerPoint 簡報轉換為更易於管理和分析的資料格式？將 PPSX 檔案轉換為 CSV 可以顯著增強資料處理能力。本教學將指導您使用 GroupDocs.Conversion for .NET，確保高效的轉換過程。

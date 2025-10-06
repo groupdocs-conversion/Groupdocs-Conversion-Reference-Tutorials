@@ -4,8 +4,8 @@
 "title": "Chuyển đổi Word sang PDF bằng cách thay thế phông chữ bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/font-handling-substitution/convert-word-to-pdf-font-substitution-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tài liệu Word sang PDF bằng cách thay thế phông chữ bằng GroupDocs.Conversion cho .NET
 ## Giới thiệu
 Chuyển đổi tài liệu Word sang PDF thường dẫn đến phông chữ không nhất quán, gây ra các vấn đề về định dạng. Hướng dẫn này đơn giản hóa việc đảm bảo tính nhất quán của phông chữ bằng GroupDocs.Conversion cho .NET. Tìm hiểu cách thiết lập tùy chọn tải để thay thế phông chữ và chuyển đổi liền mạch tài liệu Word của bạn sang định dạng PDF trong khi vẫn duy trì độ trung thực trực quan.

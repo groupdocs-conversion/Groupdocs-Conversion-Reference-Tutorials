@@ -10,10 +10,8 @@ keywords:
 - spreadsheet-to-PDF
 - data sharing with PDF
 - convert Excel using GroupDocs
-
+type: docs
 ---
-
-
 # Convert an Excel Spreadsheet to PDF Using GroupDocs.Conversion for .NET
 
 ## Introduction

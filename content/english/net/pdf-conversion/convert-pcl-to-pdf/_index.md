@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Learn how to convert PCL files to PDF effortlessly using GroupDocs.Conversion for .NET. Follow our step-by-step guide.
 weight: 18
 url: /net/pdf-conversion/convert-pcl-to-pdf/
+type: docs
 ---
-
 # Convert PCL to PDF
 
 ## Introduction

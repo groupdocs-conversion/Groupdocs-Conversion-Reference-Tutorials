@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak MHTML'yi HTML'ye Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/web-markup-formats/convert-mhtml-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak MHTML'yi HTML'ye Dönüştürme
 ## giriiş
 Günümüzün dijital çağında, web içeriğini verimli bir şekilde dönüştürmek geliştiriciler ve işletmeler için hayati önem taşır. MHTML dosyalarını evrensel olarak erişilebilir HTML biçimlerine dönüştürmek, e-postaları arşivlemek veya web sayfalarını korumak için önemlidir. Bu kapsamlı kılavuz, bu görevi zahmetsizce başarmak için GroupDocs.Conversion for .NET'i kullanma konusunda size yol gösterecektir.

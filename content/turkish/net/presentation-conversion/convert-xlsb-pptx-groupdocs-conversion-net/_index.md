@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak XLSB'yi PPTX'e Verimli Şekilde Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/presentation-conversion/convert-xlsb-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak XLSB'yi PPTX'e Verimli Şekilde Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

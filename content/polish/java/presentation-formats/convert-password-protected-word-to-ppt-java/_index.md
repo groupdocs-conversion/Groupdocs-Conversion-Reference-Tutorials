@@ -4,8 +4,8 @@
 "title": "Efektywna konwersja dokumentów Word chronionych hasłem do formatu PPT przy użyciu Javy i GroupDocs.Conversion"
 "url": "/pl/java/presentation-formats/convert-password-protected-word-to-ppt-java/"
 "weight": 1
+type: docs
 ---
-
 # Jak skutecznie konwertować dokumenty Word chronione hasłem do formatu PPT za pomocą Javy i GroupDocs.Conversion
 
 ## Wstęp

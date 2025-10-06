@@ -8,10 +8,8 @@ keywords:
 - convert TIFF to XLS
 - GroupDocs.Conversion for .NET
 - TIFF to Excel conversion
-
+type: docs
 ---
-
-
 # Convert TIFF to XLS Using GroupDocs.Conversion for .NET
 
 ## Introduction

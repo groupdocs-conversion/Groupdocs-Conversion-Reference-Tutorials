@@ -4,8 +4,8 @@
 "title": "Så här laddar du en XLTX-fil med GroupDocs.Conversion för .NET - En omfattande guide"
 "url": "/sv/net/loading-from-local-sources/load-xltx-file-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Så här laddar du en XLTX-fil med GroupDocs.Conversion för .NET: En omfattande guide
 
 ## Introduktion

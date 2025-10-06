@@ -4,8 +4,8 @@
 "title": "DWG konvertálása JPG-vé a GroupDocs for .NET használatával – Fejlesztői útmutató"
 "url": "/hu/net/cad-technical-drawing-formats/convert-dwg-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DWG fájlok konvertálása JPG formátumba GroupDocs for .NET használatával: Átfogó fejlesztői útmutató
 
 ## Bevezetés

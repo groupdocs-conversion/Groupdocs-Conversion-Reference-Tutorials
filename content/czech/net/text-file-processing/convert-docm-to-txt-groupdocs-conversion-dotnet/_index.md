@@ -4,8 +4,8 @@
 "title": "Převod DOCM do TXT pomocí GroupDocs.Conversion pro .NET | Zjednodušené zpracování textových souborů"
 "url": "/cs/net/text-file-processing/convert-docm-to-txt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést dokument s podporou maker (DOCM) aplikace Microsoft Word na prostý text (.txt) pomocí nástroje GroupDocs.Conversion pro .NET
 
 ## Zavedení

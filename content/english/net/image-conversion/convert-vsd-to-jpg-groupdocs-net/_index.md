@@ -8,10 +8,8 @@ keywords:
 - convert VSD to JPG
 - GroupDocs.Conversion for .NET
 - Visio file conversion
-
+type: docs
 ---
-
-
 # Convert VSD Files to JPG Using GroupDocs.Conversion for .NET
 
 **Effortless Conversion of Visio Drawings to Images**

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak PPS'den HTML'e Dönüşümde Ustalaşın Kapsamlı Bir Kılavuz"
 "url": "/tr/net/html-conversion/master-pps-html-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs ile PPS'den HTML Dönüşümüne Hakim Olma
 ## giriiş
 PowerPoint sunumlarınızı daha erişilebilir ve etkileşimli hale getirmek mi istiyorsunuz? Bunları HTML gibi web dostu formatlara dönüştürmek, günümüzün dijital ortamında kullanıcı etkileşimini artırarak ve platformlar arası uyumluluğu sağlayarak önemlidir.

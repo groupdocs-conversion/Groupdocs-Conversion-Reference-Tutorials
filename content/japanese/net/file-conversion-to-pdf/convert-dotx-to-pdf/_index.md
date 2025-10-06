@@ -5,8 +5,8 @@
 "title": "DOTX WordテンプレートをPDFに変換する"
 "url": "/ja/net/file-conversion-to-pdf/convert-dotx-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # DOTX WordテンプレートをPDFに変換する
 
 ## 導入

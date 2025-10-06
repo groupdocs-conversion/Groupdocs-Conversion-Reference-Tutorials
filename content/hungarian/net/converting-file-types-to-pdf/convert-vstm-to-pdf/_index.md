@@ -5,8 +5,8 @@
 "title": "VSTM konvertálása PDF-be"
 "url": "/hu/net/converting-file-types-to-pdf/convert-vstm-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # VSTM konvertálása PDF-be
 
 ## Bevezetés

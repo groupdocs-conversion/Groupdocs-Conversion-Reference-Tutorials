@@ -4,8 +4,8 @@
 "title": "Konvertera PSD till PDF med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/pdf-conversion/convert-psd-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera PSD-filer till PDF med GroupDocs.Conversion för .NET
 
 ## Introduktion

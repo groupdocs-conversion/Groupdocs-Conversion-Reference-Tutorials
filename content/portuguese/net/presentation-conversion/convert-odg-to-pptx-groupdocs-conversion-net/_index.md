@@ -4,8 +4,8 @@
 "title": "Converter ODG para PPTX usando GroupDocs.Conversion para .NET - Um guia passo a passo"
 "url": "/pt/net/presentation-conversion/convert-odg-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converter ODG para PPTX usando GroupDocs.Conversion para .NET: um guia passo a passo
 
 ## Introdução

@@ -4,8 +4,8 @@
 "title": "Chuyển đổi Visio VDX sang PowerPoint hiệu quả bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/presentation-conversion/convert-visio-vdx-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi Visio VDX sang PowerPoint hiệu quả bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

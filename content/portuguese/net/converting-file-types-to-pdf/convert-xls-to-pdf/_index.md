@@ -5,8 +5,8 @@
 "title": "Converter XLS para PDF"
 "url": "/pt/net/converting-file-types-to-pdf/convert-xls-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Converter XLS para PDF
 
 ## Introdução

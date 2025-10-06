@@ -8,10 +8,8 @@ keywords:
 - Email to PDF Conversion
 - Timezone Offset in Java
 - GroupDocs.Conversion for Java
-
+type: docs
 ---
-
-
 # How to Convert Email to PDF with Timezone Offset in Java Using GroupDocs.Conversion
 
 ## Introduction

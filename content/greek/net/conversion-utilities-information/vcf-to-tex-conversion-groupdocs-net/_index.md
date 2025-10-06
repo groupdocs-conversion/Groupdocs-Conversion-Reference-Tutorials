@@ -4,8 +4,8 @@
 "title": "Αποδοτική μετατροπή VCF σε TEX χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/conversion-utilities-information/vcf-to-tex-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Αποδοτική μετατροπή VCF σε TEX χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

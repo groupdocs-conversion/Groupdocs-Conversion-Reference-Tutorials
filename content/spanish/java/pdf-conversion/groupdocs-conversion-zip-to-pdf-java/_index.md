@@ -4,8 +4,8 @@
 "title": "Convertir ZIP a PDF en Java con GroupDocs.Conversion&#58; una guía completa"
 "url": "/es/java/pdf-conversion/groupdocs-conversion-zip-to-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Convertir archivos ZIP a PDF con GroupDocs.Conversion en Java
 
 ## Introducción

@@ -8,10 +8,8 @@ keywords:
 - OST to XLSX conversion
 - GroupDocs.Conversion for .NET
 - C# data conversion
-
+type: docs
 ---
-
-
 # Mastering OST to XLSX Conversion Using GroupDocs.Conversion for .NET in C#
 
 ## Introduction

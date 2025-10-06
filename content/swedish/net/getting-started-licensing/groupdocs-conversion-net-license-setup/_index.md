@@ -4,8 +4,8 @@
 "title": "Så här konfigurerar och tillämpar du en licens för GroupDocs.Conversion .NET - en steg-för-steg-guide"
 "url": "/sv/net/getting-started-licensing/groupdocs-conversion-net-license-setup/"
 "weight": 1
+type: docs
 ---
-
 # Omfattande handledning: Konfigurera en licens för GroupDocs.Conversion .NET
 
 ## Introduktion

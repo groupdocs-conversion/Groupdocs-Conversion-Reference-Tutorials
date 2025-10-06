@@ -4,8 +4,8 @@
 "title": "Jak převést webové výkresy aplikace Visio (VDW) do CSV pomocí nástroje GroupDocs.Conversion pro .NET"
 "url": "/cs/net/csv-structured-data-processing/convert-visio-web-drawings-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést webové výkresy aplikace Visio (VDW) do CSV pomocí nástroje GroupDocs.Conversion pro .NET
 
 ## Zavedení

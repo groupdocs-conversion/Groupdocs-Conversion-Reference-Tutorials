@@ -4,8 +4,8 @@
 "title": "Cómo convertir EPUB a XLSX en .NET con GroupDocs.Conversion para una transformación de datos fluida"
 "url": "/es/net/spreadsheet-formats-features/convert-epub-to-xlsx-using-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cómo implementar la conversión de EPUB a XLSX en .NET mediante GroupDocs.Conversion
 
 ## Introducción

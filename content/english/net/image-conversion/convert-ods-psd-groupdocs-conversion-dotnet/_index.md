@@ -8,10 +8,8 @@ keywords:
 - ODS to PSD conversion
 - GroupDocs.Conversion for .NET
 - .NET document processing
-
+type: docs
 ---
-
-
 # Convert ODS to PSD with GroupDocs.Conversion for .NET
 
 ## Introduction

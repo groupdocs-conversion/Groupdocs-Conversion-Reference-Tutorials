@@ -5,8 +5,8 @@
 "title": "Chuyển đổi PST sang PDF"
 "url": "/vi/net/file-format-conversion-tutorials/convert-pst-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # Chuyển đổi PST sang PDF
 
 ## Giới thiệu

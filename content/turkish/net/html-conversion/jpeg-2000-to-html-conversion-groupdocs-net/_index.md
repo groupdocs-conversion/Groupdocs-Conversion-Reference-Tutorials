@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion'ı Kullanarak Verimli JPEG 2000 (.j2k)'den HTML'ye Dönüştürme"
 "url": "/tr/net/html-conversion/jpeg-2000-to-html-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak Verimli JPEG 2000 (.j2k)'den HTML'ye Dönüştürme
 
 ## giriiş

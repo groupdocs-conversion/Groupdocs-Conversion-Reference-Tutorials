@@ -3,8 +3,8 @@
 "title": "Samouczki przetwarzania XML i JSON dla GroupDocs.Conversion .NET"
 "url": "/pl/net/xml-json-processing/"
 "weight": 16
+type: docs
 ---
-
 # Samouczki przetwarzania XML i JSON dla GroupDocs.Conversion .NET
 
 Poznaj możliwości konwersji formatu danych dzięki naszym samouczkom GroupDocs.Conversion dla programistów .NET. Te przewodniki krok po kroku pokazują, jak używać XML i JSON jako źródeł danych do tworzenia arkuszy kalkulacyjnych i innych typów dokumentów, zachowywać hierarchiczne struktury danych podczas konwersji, utrzymywać złożone relacje obiektów, obsługiwać tablice i kolekcje, zarządzać przestrzeniami nazw i schematami oraz wdrażać operacje transformacji i mapowania danych. Każdy samouczek zawiera praktyczne przykłady kodu C# do pracy ze strukturalnymi formatami danych, pomagając w tworzeniu aplikacji, które mogą przekształcać dane czytelne dla maszyny w przyjazne dla człowieka formaty dokumentów.

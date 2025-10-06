@@ -8,10 +8,8 @@ keywords:
 - convert markdown to pdf
 - groupdocs conversion .net
 - markdown to pdf conversion .net
-
+type: docs
 ---
-
-
 # Convert Markdown to PDF Using GroupDocs.Conversion for .NET
 
 ## Introduction

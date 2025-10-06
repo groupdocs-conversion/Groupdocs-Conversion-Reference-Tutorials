@@ -4,8 +4,8 @@
 "title": "DIB konvertálása PowerPoint-ba a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/presentation-conversion/convert-dib-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DIB fájlok konvertálása PowerPoint prezentációkká a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

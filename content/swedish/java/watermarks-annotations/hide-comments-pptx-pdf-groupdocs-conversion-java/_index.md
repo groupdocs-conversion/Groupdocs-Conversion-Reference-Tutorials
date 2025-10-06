@@ -4,8 +4,8 @@
 "title": "Dölj kommentarer i PPTX till PDF med GroupDocs.Conversion för Java"
 "url": "/sv/java/watermarks-annotations/hide-comments-pptx-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Dölj kommentarer i PPTX till PDF med GroupDocs.Conversion för Java
 
 ## Introduktion

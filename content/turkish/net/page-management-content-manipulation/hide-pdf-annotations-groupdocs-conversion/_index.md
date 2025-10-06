@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanılarak Word'e Dönüştürmeden Önce PDF Açıklamaları Nasıl Gizlenir"
 "url": "/tr/net/page-management-content-manipulation/hide-pdf-annotations-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET ile Word'e Dönüştürmeden Önce PDF Açıklamaları Nasıl Gizlenir
 
 ## giriiş

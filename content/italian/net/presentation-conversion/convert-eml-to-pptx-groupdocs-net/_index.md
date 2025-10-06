@@ -4,8 +4,8 @@
 "title": "Converti in modo efficiente EML in PPTX utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/presentation-conversion/convert-eml-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converti in modo efficiente EML in PPTX utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

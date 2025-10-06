@@ -4,8 +4,8 @@
 "title": "MPT konvertálása TEX-be a GroupDocs.Conversion for .NET segítségével – Zökkenőmentes fájlkonverziós útmutató"
 "url": "/hu/net/presentation-formats-features/convert-mpt-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # MPT konvertálása TEX-be a GroupDocs.Conversion for .NET segítségével: Zökkenőmentes fájlkonverziós útmutató
 
 ## Bevezetés

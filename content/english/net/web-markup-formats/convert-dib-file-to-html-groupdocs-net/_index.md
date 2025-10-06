@@ -8,10 +8,8 @@ keywords:
 - convert DIB file to HTML using GroupDocs
 - GroupDocs.Conversion for .NET tutorial
 - DIB-to-HTML conversion in .NET
-
+type: docs
 ---
-
-
 # How to Convert a DIB File to HTML using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

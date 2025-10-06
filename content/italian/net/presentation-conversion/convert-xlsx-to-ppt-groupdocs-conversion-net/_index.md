@@ -4,8 +4,8 @@
 "title": "Convertire XLSX in PPT utilizzando GroupDocs.Conversion per .NET&#58; una guida passo passo"
 "url": "/it/net/presentation-conversion/convert-xlsx-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire XLSX in PPT utilizzando GroupDocs.Conversion per .NET: una guida passo passo
 
 ## Introduzione

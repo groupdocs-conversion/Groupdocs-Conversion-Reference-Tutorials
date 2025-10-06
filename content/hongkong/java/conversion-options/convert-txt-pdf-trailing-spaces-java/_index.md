@@ -4,8 +4,8 @@
 "title": "如何使用 Java 和 GroupDocs.Conversion 將 TXT 轉換為具有尾隨空格控制的 PDF"
 "url": "/zh-hant/java/conversion-options/convert-txt-pdf-trailing-spaces-java/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 Java 和 GroupDocs.Conversion 將 TXT 轉換為具有尾隨空格控制的 PDF
 
 在當今的數位世界中，高效處理文字文件對企業和個人都至關重要。將文字檔案 (TXT) 轉換為通用的 PDF 格式並保持格式完整性可能頗具挑戰性，尤其是在處理經常破壞佈局的尾隨空格時。本教學將指導您使用 GroupDocs.Conversion for Java 將文字檔案有效率地轉換為 PDF，並控制尾隨空格。

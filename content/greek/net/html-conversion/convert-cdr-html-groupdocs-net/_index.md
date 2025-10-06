@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή CDR σε HTML χρησιμοποιώντας το GroupDocs.Conversion σε .NET"
 "url": "/el/net/html-conversion/convert-cdr-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε αρχεία CDR σε HTML χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

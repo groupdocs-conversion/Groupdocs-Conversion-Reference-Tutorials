@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 계량형 라이선스 구현&#58; 종합 가이드"
 "url": "/ko/net/getting-started-licensing/metered-licensing-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 계량형 라이선스 구현
 
 ## 소개

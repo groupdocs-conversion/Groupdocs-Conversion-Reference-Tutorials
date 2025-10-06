@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanarak HTML'yi DOCX'e Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/word-processing-formats-features/convert-html-to-docx-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanarak HTML'yi DOCX'e Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

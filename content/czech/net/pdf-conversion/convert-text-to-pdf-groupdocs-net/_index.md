@@ -4,8 +4,8 @@
 "title": "Převod textu do PDF v .NET pomocí GroupDocs.Conversion - Komplexní průvodce"
 "url": "/cs/net/pdf-conversion/convert-text-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést text do PDF pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

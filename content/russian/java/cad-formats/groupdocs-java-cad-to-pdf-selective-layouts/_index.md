@@ -4,8 +4,8 @@
 "title": "Конвертируйте макеты САПР в PDF на Java с помощью GroupDocs&#58; Руководство по выборочному преобразованию макетов"
 "url": "/ru/java/cad-formats/groupdocs-java-cad-to-pdf-selective-layouts/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте макеты САПР в PDF с помощью GroupDocs.Conversion для Java
 ## Освоение выборочного преобразования САПР в PDF на Java
 ### Введение

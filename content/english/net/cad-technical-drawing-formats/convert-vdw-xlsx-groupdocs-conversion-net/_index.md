@@ -8,10 +8,8 @@ keywords:
 - convert VDW to XLSX
 - GroupDocs.Conversion for .NET
 - Visio Web Drawing conversion
-
+type: docs
 ---
-
-
 # Convert VDW to XLSX with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 TUTORIAL CATEGORY: CAD & Technical Drawing Formats
 CURRENT SEO URL: convert-vdw-xlsx-groupdocs-conversion-net

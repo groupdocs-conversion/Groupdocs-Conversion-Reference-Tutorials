@@ -4,8 +4,8 @@
 "title": "Konverze hlavních souborů v Javě – Komplexní průvodce používáním GroupDocs.Conversion"
 "url": "/cs/java/document-operations/java-groupdocs-conversion-file-handling/"
 "weight": 1
+type: docs
 ---
-
 # Zvládnutí konverze souborů v Javě: Komplexní průvodce používáním GroupDocs.Conversion
 
 ## Zavedení

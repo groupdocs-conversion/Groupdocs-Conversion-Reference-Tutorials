@@ -4,8 +4,8 @@
 "title": "تحميل وتحويل ملفات HTM باستخدام GroupDocs.Conversion .NET - دليل خطوة بخطوة"
 "url": "/ar/net/web-markup-formats/groupdocs-conversion-net-load-htm-files/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحميل ملف HTM وتحويله باستخدام GroupDocs.Conversion .NET
 
 ## مقدمة

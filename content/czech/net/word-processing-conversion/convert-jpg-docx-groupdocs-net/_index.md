@@ -4,8 +4,8 @@
 "title": "Převod JPG do DOCX pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/word-processing-conversion/convert-jpg-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod JPG do DOCX pomocí GroupDocs.Conversion pro .NET: Komplexní průvodce
 ## Zavedení
 Hledáte efektivní způsob, jak převést obrázky do editovatelných dokumentů? Vzhledem k rostoucí potřebě sdílení digitálních informací je převod souborů JPG do formátu DOCX nezbytný. Tato komplexní příručka vás provede používáním GroupDocs.Conversion pro .NET – výkonného nástroje určeného pro bezproblémovou konverzi souborů.

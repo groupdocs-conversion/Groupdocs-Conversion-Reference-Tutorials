@@ -4,8 +4,8 @@
 "title": "Konwersja RTF do PDF za pomocą GroupDocs.Conversion dla .NET&#58; Kompleksowy przewodnik"
 "url": "/pl/net/pdf-conversion/convert-rtf-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj RTF do PDF za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # How to Convert STL Files to TXT Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Преобразование HTML в текст с помощью GroupDocs.Conversion для .NET&#58; Подробное руководство"
 "url": "/ru/net/web-markup-formats/convert-html-to-text-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте HTML в текст с помощью GroupDocs.Conversion для .NET
 
 ## Введение

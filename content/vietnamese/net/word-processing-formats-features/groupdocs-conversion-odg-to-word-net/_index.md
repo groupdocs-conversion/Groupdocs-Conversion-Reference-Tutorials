@@ -4,8 +4,8 @@
 "title": "Chuyển đổi ODG sang Word hiệu quả bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/word-processing-formats-features/groupdocs-conversion-odg-to-word-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi ODG sang Word hiệu quả bằng GroupDocs.Conversion cho .NET
 
 Trong thời đại kỹ thuật số ngày nay, việc chuyển đổi tài liệu liền mạch là rất quan trọng đối với các doanh nghiệp muốn hợp lý hóa quy trình làm việc của mình. Cho dù bạn cần trình bày kế hoạch dự án theo định dạng có thể truy cập phổ biến hay lưu trữ bản vẽ hiệu quả, việc chuyển đổi tệp Bản vẽ OpenDocument (ODG) thành tài liệu Microsoft Word có thể mang tính chuyển đổi. Hướng dẫn toàn diện này sẽ hướng dẫn bạn cách sử dụng GroupDocs.Conversion cho .NET để đạt được điều đó.

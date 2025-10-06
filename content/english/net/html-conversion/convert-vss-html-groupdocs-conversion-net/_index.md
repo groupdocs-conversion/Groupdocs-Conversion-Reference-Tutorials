@@ -8,10 +8,8 @@ keywords:
 - convert VSS to HTML
 - GroupDocs.Conversion for .NET
 - HTML conversion tutorial
-
+type: docs
 ---
-
-
 # How to Convert VSS Files to HTML Using GroupDocs.Conversion for .NET (2023 Guide)
 
 ## Introduction

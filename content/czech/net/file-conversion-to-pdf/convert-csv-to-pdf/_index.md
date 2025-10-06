@@ -5,8 +5,8 @@
 "title": "Převod datových souborů CSV do PDF"
 "url": "/cs/net/file-conversion-to-pdf/convert-csv-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # Převod datových souborů CSV do PDF
 
 ## Zavedení

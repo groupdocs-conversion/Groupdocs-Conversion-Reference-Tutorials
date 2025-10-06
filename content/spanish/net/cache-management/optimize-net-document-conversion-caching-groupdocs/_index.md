@@ -4,8 +4,8 @@
 "title": "Optimice la conversión de documentos .NET con almacenamiento en caché mediante GroupDocs.Conversion"
 "url": "/es/net/cache-management/optimize-net-document-conversion-caching-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Optimice la conversión de documentos .NET con almacenamiento en caché mediante GroupDocs.Conversion
 
 ## Introducción

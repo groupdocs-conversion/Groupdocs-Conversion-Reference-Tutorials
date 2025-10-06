@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for Java 在 Word 到 PDF 转换中隐藏注释"
 "url": "/zh/java/pdf-conversion/hide-comments-word-pdf-conversion-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for Java 在 Word 到 PDF 转换中隐藏注释
 
 在当今快节奏的数字世界中，将 Word 文档转换为 PDF 是许多专业人士的日常工作。然而，当这些文档包含敏感注释或修订记录时，您可能更喜欢干净的 PDF，没有任何注释。本教程将指导您使用 GroupDocs.Conversion for Java 在转换过程中无缝隐藏注释。

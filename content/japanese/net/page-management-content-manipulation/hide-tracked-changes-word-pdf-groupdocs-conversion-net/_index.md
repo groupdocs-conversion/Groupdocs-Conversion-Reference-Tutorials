@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して Word から PDF への変換時に変更履歴を非表示にする"
 "url": "/ja/net/page-management-content-manipulation/hide-tracked-changes-word-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して、非表示の変更履歴を含む高度な Word から PDF への変換をマスターする
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "تحويل TXT إلى PDF باستخدام GroupDocs - التحكم في المسافات الزائدة باستخدام .NET"
 "url": "/ar/net/pdf-conversion/convert-txt-to-pdf-groupdocs-trailing-spaces-control/"
 "weight": 1
+type: docs
 ---
-
 # تحويل TXT إلى PDF باستخدام GroupDocs: التحكم في المسافات الزائدة باستخدام .NET
 
 ## مقدمة

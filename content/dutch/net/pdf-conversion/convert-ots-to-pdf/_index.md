@@ -5,8 +5,8 @@
 "title": "OTS naar PDF converteren"
 "url": "/nl/net/pdf-conversion/convert-ots-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # OTS naar PDF converteren
 
 ## Invoering

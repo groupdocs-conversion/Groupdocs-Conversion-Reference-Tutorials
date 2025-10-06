@@ -4,8 +4,8 @@
 "title": "DOCM-fájlok XLS-fájlokká konvertálása a GroupDocs.Conversion használatával .NET-ben – lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-conversion/convert-docm-to-xls-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # DOCM-fájlok XLS-fájlokká konvertálása a GroupDocs.Conversion segítségével .NET-ben: lépésről lépésre útmutató
 ## Bevezetés
 Makróbarát Microsoft Word dokumentumot (.docm) kell Excel formátumba konvertálnod? Ez az oktatóanyag végigvezet a .NET GroupDocs.Conversion könyvtárának használatán a hatékony dokumentumkonvertálás érdekében.

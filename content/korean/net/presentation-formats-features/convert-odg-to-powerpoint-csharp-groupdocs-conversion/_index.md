@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 C#에서 ODG 파일을 PowerPoint로 변환하는 방법"
 "url": "/ko/net/presentation-formats-features/convert-odg-to-powerpoint-csharp-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 C#에서 ODG 파일을 PowerPoint로 변환하는 방법
 ## 소개
 OpenDocument Drawing(.odg) 파일을 PowerPoint 프레젠테이션으로 변환하는 데 어려움을 겪고 계신가요? 이 튜토리얼에서는 GroupDocs.Conversion for .NET을 사용하여 파일을 간단하고 효율적으로 변환하는 방법을 안내합니다.

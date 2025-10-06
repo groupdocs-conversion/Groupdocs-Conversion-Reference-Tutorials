@@ -4,8 +4,8 @@
 "title": "Kapsamlı Kılavuz&#58; OneNote'u GroupDocs.Conversion for .NET Kullanarak SVG'ye Dönüştürme"
 "url": "/tr/net/image-conversion/convert-onenote-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Kapsamlı Kılavuz: OneNote'u GroupDocs.Conversion for .NET Kullanarak SVG'ye Dönüştürme
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "Converta TIFF para PDF usando GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/pdf-conversion/convert-tiff-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converter TIFF em PDF usando GroupDocs.Conversion para .NET: um guia completo
 
 ## Introdução

@@ -4,8 +4,8 @@
 "title": "Efektivní převod dokumentů Word chráněných heslem do formátu PPT pomocí Javy a GroupDocs.Conversion"
 "url": "/cs/java/presentation-formats/convert-password-protected-word-to-ppt-java/"
 "weight": 1
+type: docs
 ---
-
 # Jak efektivně převést dokumenty Word chráněné heslem do formátu PPT pomocí Javy a GroupDocs.Conversion
 
 ## Zavedení

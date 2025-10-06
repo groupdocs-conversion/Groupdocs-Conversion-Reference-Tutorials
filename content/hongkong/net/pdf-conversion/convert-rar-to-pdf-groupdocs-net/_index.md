@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 有效率地將 RAR 轉換為 PDF — 逐步指南"
 "url": "/zh-hant/net/pdf-conversion/convert-rar-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 高效率轉換：使用 GroupDocs.Conversion for .NET 將 RAR 檔案轉換為 PDF
 
 ## 介紹

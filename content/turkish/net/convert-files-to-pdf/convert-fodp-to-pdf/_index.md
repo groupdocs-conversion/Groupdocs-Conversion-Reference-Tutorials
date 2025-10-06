@@ -5,8 +5,8 @@
 "title": "FODP OpenDocument Sunumlarını PDF'ye Dönüştür"
 "url": "/tr/net/convert-files-to-pdf/convert-fodp-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # FODP OpenDocument Sunumlarını PDF'ye Dönüştür
 
 ## giriiş

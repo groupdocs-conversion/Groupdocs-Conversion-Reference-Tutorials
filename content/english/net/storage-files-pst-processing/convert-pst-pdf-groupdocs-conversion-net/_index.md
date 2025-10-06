@@ -8,10 +8,8 @@ keywords:
 - convert PST to PDF
 - GroupDocs.Conversion for .NET
 - PST file conversion
-
+type: docs
 ---
-
-
 # Convert Your PST Files to PDFs Seamlessly with GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - convert PPS to JPG
 - PowerPoint Show to JPEG
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # How to Convert PPS to JPG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

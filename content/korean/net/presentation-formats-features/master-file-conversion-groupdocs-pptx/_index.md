@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 이용한 PPTX 파일 변환 마스터하기&#58; 간편하고 효율적인 솔루션"
 "url": "/ko/net/presentation-formats-features/master-file-conversion-groupdocs-pptx/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용한 완벽한 PPTX 파일 변환: 간편하고 효율적인 솔루션
 
 ## 소개

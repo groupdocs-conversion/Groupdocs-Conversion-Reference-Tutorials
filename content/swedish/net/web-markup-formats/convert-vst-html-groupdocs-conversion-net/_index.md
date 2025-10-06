@@ -4,8 +4,8 @@
 "title": "Konvertera VST-filer till HTML med GroupDocs.Conversion .NET – en steg-för-steg-guide"
 "url": "/sv/net/web-markup-formats/convert-vst-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera VST-filer till HTML med GroupDocs.Conversion .NET: En steg-för-steg-guide
 
 ## Introduktion

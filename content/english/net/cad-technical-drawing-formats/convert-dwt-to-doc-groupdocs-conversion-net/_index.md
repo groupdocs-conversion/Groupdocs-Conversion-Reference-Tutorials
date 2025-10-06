@@ -8,10 +8,8 @@ keywords:
 - convert DWT to DOC
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Convert DWT to DOC Using GroupDocs.Conversion for .NET
 ## Introduction
 Are you struggling to convert proprietary document formats like DWT into universally accessible formats such as DOC? Many businesses and individuals face similar challenges when integrating different file types within their workflows. With the increasing need for compatibility across software platforms, finding a reliable conversion tool is essential.

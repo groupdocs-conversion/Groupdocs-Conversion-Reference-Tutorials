@@ -8,10 +8,8 @@ keywords:
 - convert VSDM to DOC
 - GroupDocs.Conversion for .NET
 - file conversion guide
-
+type: docs
 ---
-
-
 # How to Convert VSDM to DOC Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

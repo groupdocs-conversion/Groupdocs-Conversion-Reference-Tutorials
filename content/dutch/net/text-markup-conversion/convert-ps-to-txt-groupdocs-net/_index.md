@@ -4,8 +4,8 @@
 "title": "PostScript (PS) converteren naar platte tekst met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/text-markup-conversion/convert-ps-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PostScript (PS) converteren naar platte tekst met GroupDocs.Conversion voor .NET
 
 ## Invoering

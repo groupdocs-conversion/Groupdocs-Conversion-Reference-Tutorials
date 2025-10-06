@@ -4,8 +4,8 @@
 "title": "Converteer MSG naar SVG met GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/image-conversion/convert-msg-to-svg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converteer MSG naar SVG met GroupDocs.Conversion voor .NET: een uitgebreide handleiding
 
 ## Invoering

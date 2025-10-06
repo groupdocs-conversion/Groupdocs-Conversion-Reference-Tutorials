@@ -4,8 +4,8 @@
 "title": "DNG konvertálása PowerPoint-ba a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/presentation-formats-features/convert-dng-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DNG fájlok konvertálása PowerPoint formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

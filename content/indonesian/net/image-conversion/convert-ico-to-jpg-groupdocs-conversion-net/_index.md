@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi File ICO ke JPG Menggunakan GroupDocs.Conversion .NET"
 "url": "/id/net/image-conversion/convert-ico-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi File ICO ke JPG Menggunakan GroupDocs.Conversion .NET
 
 ## Perkenalan

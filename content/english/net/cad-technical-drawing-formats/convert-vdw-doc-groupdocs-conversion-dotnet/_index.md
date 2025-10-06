@@ -8,10 +8,8 @@ keywords:
 - convert VDW to DOC
 - GroupDocs.Conversion for .NET
 - Visio Web Drawings to Word Document
-
+type: docs
 ---
-
-
 # Convert VDW to DOC Using GroupDocs.Conversion for .NET: Step-by-Step Guide
 
 ## Introduction

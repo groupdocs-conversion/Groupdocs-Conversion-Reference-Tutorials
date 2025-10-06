@@ -4,8 +4,8 @@
 "title": "تحويل JPF إلى JPG باستخدام GroupDocs.Conversion لـ .NET | برنامج تعليمي لتحويل الصور"
 "url": "/ar/net/image-conversion/convert-jpf-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل JPF إلى JPG باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

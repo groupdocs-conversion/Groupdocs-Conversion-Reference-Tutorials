@@ -4,8 +4,8 @@
 "title": "JP2 konvertálása TXT-vé C#-ban a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/text-markup-conversion/convert-jp2-to-txt-using-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # JP2 konvertálása TXT-vé GroupDocs.Conversion használatával C#-ban: Átfogó útmutató
 
 ## Bevezetés

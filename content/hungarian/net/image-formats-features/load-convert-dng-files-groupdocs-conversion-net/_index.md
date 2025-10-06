@@ -4,8 +4,8 @@
 "title": "DNG fájlok hatékony betöltése és SVG-vé konvertálása a GroupDocs.Conversion .NET használatával"
 "url": "/hu/net/image-formats-features/load-convert-dng-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DNG fájlok hatékony betöltése és SVG-vé konvertálása a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

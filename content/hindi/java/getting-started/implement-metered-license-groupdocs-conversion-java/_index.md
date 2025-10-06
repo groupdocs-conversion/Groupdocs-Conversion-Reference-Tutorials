@@ -4,8 +4,8 @@
 "title": "Java में GroupDocs.Conversion के लिए मीटर्ड लाइसेंस लागू करना एक व्यापक गाइड"
 "url": "/hi/java/getting-started/implement-metered-license-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # जावा में GroupDocs.Conversion के लिए मीटर्ड लाइसेंस का क्रियान्वयन
 
 ## परिचय

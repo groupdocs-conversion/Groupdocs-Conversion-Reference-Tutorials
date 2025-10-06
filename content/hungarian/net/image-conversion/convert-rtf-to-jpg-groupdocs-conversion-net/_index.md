@@ -4,8 +4,8 @@
 "title": "Hogyan konvertáljunk RTF-et JPG-vé a GroupDocs.Conversion segítségével .NET-ben a zökkenőmentes képkonverzióhoz"
 "url": "/hu/net/image-conversion/convert-rtf-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET implementálása: RTF konvertálása JPG-vé
 
 ## Bevezetés

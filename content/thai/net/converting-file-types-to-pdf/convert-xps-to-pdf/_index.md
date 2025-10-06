@@ -5,8 +5,8 @@
 "title": "แปลง XPS เป็น PDF"
 "url": "/th/net/converting-file-types-to-pdf/convert-xps-to-pdf/"
 "weight": 30
+type: docs
 ---
-
 # แปลง XPS เป็น PDF
 
 

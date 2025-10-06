@@ -4,8 +4,8 @@
 "title": "PST-ből PPTX-be konvertálás a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/presentation-conversion/pst-pptx-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # PST-ből PPTX-be konvertálás elsajátítása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

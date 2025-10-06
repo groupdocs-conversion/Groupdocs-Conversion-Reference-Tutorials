@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi File Stensil Visio (VSSX) ke Presentasi PowerPoint Menggunakan GroupDocs.Conversion for .NET"
 "url": "/id/net/presentation-formats-features/convert-visio-vssx-to-powerpoint-pptx-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi File Stensil Visio (VSSX) ke Presentasi PowerPoint Menggunakan GroupDocs.Conversion for .NET
 
 ## Perkenalan

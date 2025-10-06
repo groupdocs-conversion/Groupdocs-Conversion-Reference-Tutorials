@@ -3,8 +3,8 @@ title: "Storage Files and PST Processing Tutorials for GroupDocs.Conversion .NET
 description: "Comprehensive tutorials for working with Outlook storage files (PST, OST) and other container formats using GroupDocs.Conversion for .NET."
 weight: 21
 url: "/net/storage-files-pst-processing/"
+type: docs
 ---
-
 # Storage Files and PST Processing Tutorials for GroupDocs.Conversion .NET
 
 Our storage file processing tutorials provide detailed guidance for handling email containers in .NET applications. These practical guides demonstrate how to extract and convert content from personal storage files like PST and OST, retrieve folder structures, convert storage content to different formats, handle nested content hierarchies, preserve message metadata, batch process multiple messages, and implement selective extraction operations. Each tutorial includes complete C# code examples for storage file conversion scenarios, helping you build applications that can effectively access and transform data stored in email container formats.

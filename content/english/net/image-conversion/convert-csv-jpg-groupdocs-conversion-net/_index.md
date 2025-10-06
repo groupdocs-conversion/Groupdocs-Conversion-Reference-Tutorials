@@ -8,10 +8,8 @@ keywords:
 - convert CSV to JPG
 - GroupDocs.Conversion for .NET
 - CSV file conversion
-
+type: docs
 ---
-
-
 # Convert CSV to JPG Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

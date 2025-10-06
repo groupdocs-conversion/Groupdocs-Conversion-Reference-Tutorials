@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion का उपयोग करके CF2 to XLSX फ़ाइलों को परिवर्तित करें .NET'#58; CAD पेशेवरों के लिए एक चरण-दर-चरण मार्गदर्शिका"
 "url": "/hi/net/cad-technical-drawing-formats/convert-cf2-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion का उपयोग करके CF2 फ़ाइलों को XLSX में कनवर्ट करें .NET: CAD पेशेवरों के लिए एक चरण-दर-चरण मार्गदर्शिका
 
 ## परिचय

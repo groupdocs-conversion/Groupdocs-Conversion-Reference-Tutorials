@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 LaTeX를 Word로 변환하는 종합 가이드"
 "url": "/ko/net/word-processing-conversion/convert-latex-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 종합 가이드: GroupDocs.Conversion for .NET을 사용하여 LaTeX를 Word로 변환
 ## 소개
 LaTeX 문서를 접근 가능한 Word 형식으로 변환하는 것은 특히 복잡한 .tex 파일을 자주 사용하는 연구자, 학자 또는 기술 문서 작성자에게는 어려울 수 있습니다. 이 튜토리얼에서는 다음을 사용하여 강력한 솔루션을 제공합니다. **.NET용 GroupDocs.Conversion**LaTeX 파일을 DOC 형식으로 손쉽게 변환할 수 있습니다.

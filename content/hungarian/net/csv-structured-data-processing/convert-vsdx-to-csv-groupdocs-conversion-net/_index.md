@@ -4,8 +4,8 @@
 "title": "VSDX konvertálása CSV-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/csv-structured-data-processing/convert-vsdx-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VSDX konvertálása CSV-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

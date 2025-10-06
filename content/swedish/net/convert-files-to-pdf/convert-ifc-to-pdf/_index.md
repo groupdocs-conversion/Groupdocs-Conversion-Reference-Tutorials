@@ -5,8 +5,8 @@
 "title": "Konvertera IFC-filer för byggnadsinformationsmodellering till PDF"
 "url": "/sv/net/convert-files-to-pdf/convert-ifc-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Konvertera IFC-filer för byggnadsinformationsmodellering till PDF
 
 ## Introduktion

@@ -8,10 +8,8 @@ keywords:
 - convert XLAM to PPTX
 - GroupDocs.Conversion for .NET
 - Excel add-ins conversion
-
+type: docs
 ---
-
-
 # Convert XLAM to PPTX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

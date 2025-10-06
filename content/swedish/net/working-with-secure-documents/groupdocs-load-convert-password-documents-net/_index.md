@@ -4,8 +4,8 @@
 "title": "Läs in och konvertera lösenordsskyddade dokument med GroupDocs.Conversion för .NET"
 "url": "/sv/net/working-with-secure-documents/groupdocs-load-convert-password-documents-net/"
 "weight": 1
+type: docs
 ---
-
 # Läs in och konvertera lösenordsskyddade dokument med GroupDocs.Conversion för .NET
 
 ## Introduktion

@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion के साथ कुशल OTS से TEX रूपांतरण - एक संपूर्ण गाइड"
 "url": "/hi/net/text-markup-conversion/convert-ots-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion के साथ कुशल OTS to TEX रूपांतरण
 
 ## परिचय

@@ -8,10 +8,8 @@ keywords:
 - convert ODG to PSD
 - GroupDocs.Conversion .NET
 - Adobe Illustrator conversion
-
+type: docs
 ---
-
-
 # Convert ODG Files to PSD with GroupDocs.Conversion in .NET
 ## How to Use GroupDocs.Conversion for .NET to Seamlessly Convert ODG to PSD
 ### Introduction

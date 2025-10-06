@@ -4,8 +4,8 @@
 "title": "Конвертируйте JP2 в PSD с помощью GroupDocs.Conversion для .NET. Пошаговое руководство"
 "url": "/ru/net/image-conversion/convert-jp2-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертация JP2 в PSD с помощью GroupDocs.Conversion для .NET: пошаговое руководство
 
 ## Введение

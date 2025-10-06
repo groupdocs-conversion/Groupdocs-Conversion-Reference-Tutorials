@@ -4,8 +4,8 @@
 "title": "Konversi Dokumen Master dengan GroupDocs di .NET&#58; Panduan Lengkap"
 "url": "/id/net/conversion-options-settings/master-document-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Menguasai Konversi Dokumen dengan GroupDocs.Conversion .NET: Panduan Langkah demi Langkah
 
 ## Perkenalan

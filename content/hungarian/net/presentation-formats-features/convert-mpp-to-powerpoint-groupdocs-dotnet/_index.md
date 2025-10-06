@@ -4,8 +4,8 @@
 "title": "MPP hatékony konvertálása PowerPointtá a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/presentation-formats-features/convert-mpp-to-powerpoint-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhat hatékonyan MPP-t PowerPoint-ba a GroupDocs.Conversion for .NET segítségével?
 
 ## Bevezetés

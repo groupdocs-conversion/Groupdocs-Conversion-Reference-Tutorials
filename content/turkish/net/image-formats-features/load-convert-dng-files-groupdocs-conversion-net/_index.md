@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET'i Kullanarak DNG Dosyalarını Verimli Şekilde Yükleyin ve SVG'ye Dönüştürün"
 "url": "/tr/net/image-formats-features/load-convert-dng-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET'i Kullanarak DNG Dosyalarını Verimli Şekilde Yükleyin ve SVG'ye Dönüştürün
 
 ## giriiş

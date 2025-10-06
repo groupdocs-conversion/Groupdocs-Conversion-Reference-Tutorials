@@ -4,8 +4,8 @@
 "title": "Licenc beállítása a streamből a GroupDocs.Conversion for .NET fájlban – Átfogó útmutató"
 "url": "/hu/net/getting-started-licensing/groupdocs-conversion-net-set-license-stream/"
 "weight": 1
+type: docs
 ---
-
 # Licenc beállítása streamből a GroupDocs.Conversion for .NET fájlban: Átfogó útmutató
 
 ## Bevezetés

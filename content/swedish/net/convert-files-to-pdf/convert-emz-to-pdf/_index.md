@@ -5,8 +5,8 @@
 "title": "Konvertera EMZ-förbättrade metafiler till PDF"
 "url": "/sv/net/convert-files-to-pdf/convert-emz-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # Konvertera EMZ-förbättrade metafiler till PDF
 
 ## Introduktion

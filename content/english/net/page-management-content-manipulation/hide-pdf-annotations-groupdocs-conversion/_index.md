@@ -8,10 +8,8 @@ keywords:
 - hide PDF annotations
 - convert PDF to Word with GroupDocs
 - GroupDocs.Conversion .NET
-
+type: docs
 ---
-
-
 # How to Hide PDF Annotations Before Converting to Word with GroupDocs.Conversion for .NET
 
 ## Introduction

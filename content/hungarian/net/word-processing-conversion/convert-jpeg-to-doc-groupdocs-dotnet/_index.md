@@ -4,8 +4,8 @@
 "title": "JPEG konvertálása DOC-ba a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/word-processing-conversion/convert-jpeg-to-doc-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # JPEG konvertálása DOC-ba a GroupDocs.Conversion for .NET segítségével: Átfogó útmutató
 
 ## Bevezetés

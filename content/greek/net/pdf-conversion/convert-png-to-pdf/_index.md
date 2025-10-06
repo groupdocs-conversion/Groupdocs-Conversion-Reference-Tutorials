@@ -5,8 +5,8 @@
 "title": "Μετατροπή PNG σε PDF"
 "url": "/el/net/pdf-conversion/convert-png-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Μετατροπή PNG σε PDF
 
 ## Εισαγωγή

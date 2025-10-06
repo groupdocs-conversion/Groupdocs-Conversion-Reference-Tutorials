@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi Template PowerPoint (.potx) ke Teks Menggunakan GroupDocs.Conversion for .NET"
 "url": "/id/net/text-file-processing/convert-potx-to-text-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Memuat dan Mengonversi File Template Microsoft PowerPoint Open XML (.potx) ke Teks Menggunakan GroupDocs.Conversion for .NET
 
 ## Perkenalan

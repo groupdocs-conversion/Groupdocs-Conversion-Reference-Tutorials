@@ -4,8 +4,8 @@
 "title": "كيفية تحويل ملفات CSV إلى ملفات PDF بترميز محدد باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/csv-structured-data-processing/convert-csv-pdf-specific-encoding-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل ملفات CSV إلى ملفات PDF بترميز محدد باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

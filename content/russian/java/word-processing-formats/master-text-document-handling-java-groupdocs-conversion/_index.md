@@ -4,8 +4,8 @@
 "title": "Мастер обработки текстовых документов в Java&#58; Использование GroupDocs.Conversion для бесшовного кодирования и преобразования PDF"
 "url": "/ru/java/word-processing-formats/master-text-document-handling-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Освоение обработки текстовых документов в Java с помощью GroupDocs.Conversion
 
 ## Введение

@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi tệp DWFX sang PNG bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/image-formats-features/convert-dwfx-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp DWFX sang PNG bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

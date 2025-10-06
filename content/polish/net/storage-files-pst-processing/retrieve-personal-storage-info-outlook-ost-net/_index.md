@@ -4,8 +4,8 @@
 "title": "Jak odzyskać informacje o pamięci osobistej z plików OST programu Outlook za pomocą GroupDocs.Conversion dla platformy .NET"
 "url": "/pl/net/storage-files-pst-processing/retrieve-personal-storage-info-outlook-ost-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak odzyskać osobiste informacje o pamięci masowej z plików OST programu Outlook za pomocą GroupDocs.Conversion dla platformy .NET
 
 ## Wstęp

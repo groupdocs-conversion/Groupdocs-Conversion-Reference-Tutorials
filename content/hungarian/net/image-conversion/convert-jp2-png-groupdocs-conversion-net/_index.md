@@ -4,8 +4,8 @@
 "title": "JPEG 2000 (JP2) fájlok konvertálása PNG formátumba a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-jp2-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # JPEG 2000 (JP2) fájlok konvertálása PNG formátumba a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató
 
 ## Bevezetés

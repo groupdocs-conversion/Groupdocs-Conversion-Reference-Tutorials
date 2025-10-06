@@ -8,10 +8,8 @@ keywords:
 - FODP to JPG conversion
 - GroupDocs.Conversion .NET
 - image conversion tutorial
-
+type: docs
 ---
-
-
 # Efficient FODP to JPG Conversion Using GroupDocs.Conversion .NET
 
 ## Introduction

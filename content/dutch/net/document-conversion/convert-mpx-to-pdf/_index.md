@@ -5,8 +5,8 @@
 "title": "MPX naar PDF converteren"
 "url": "/nl/net/document-conversion/convert-mpx-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # MPX naar PDF converteren
 
 ## Invoering

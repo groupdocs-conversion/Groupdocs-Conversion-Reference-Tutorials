@@ -8,10 +8,8 @@ keywords:
 - Convert SVGZ to XLSX
 - GroupDocs.Conversion .NET
 - SVGZ to XLSX conversion
-
+type: docs
 ---
-
-
 # Convert SVGZ to XLSX Using GroupDocs.Conversion .NET: A Step-by-Step Guide
 
 ## Introduction

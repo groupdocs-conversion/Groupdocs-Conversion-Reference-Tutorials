@@ -3,8 +3,8 @@
 "title": "Handledningar för konvertering av CAD-format för GroupDocs.Conversion Java"
 "url": "/sv/java/cad-formats/"
 "weight": 10
+type: docs
 ---
-
 # Handledningar för konvertering av CAD-format för GroupDocs.Conversion Java
 
 Lär dig bearbeta CAD-ritningar med våra omfattande GroupDocs.Conversion-handledningar för Java-utvecklare. Dessa praktiska guider visar hur du konverterar AutoCAD-filer till visningsbara format, bevarar lager och mått, hanterar stora ritningar, hanterar viewports och layouter och omvandlar 3D-modeller till 2D-representationer. Varje handledning innehåller detaljerade Java-kodexempel för CAD-konverteringsscenarier, vilket hjälper dig att bygga applikationer som korrekt kan bearbeta tekniska ritningar samtidigt som viktiga tekniska detaljer bevaras.

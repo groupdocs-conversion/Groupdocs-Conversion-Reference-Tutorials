@@ -4,8 +4,8 @@
 "title": "VSDX konvertálása PSD-vé a GroupDocs.Conversion .NET API használatával a zökkenőmentes integráció érdekében"
 "url": "/hu/net/image-formats-features/convert-vsdx-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VSDX konvertálása PSD-vé a GroupDocs.Conversion .NET API használatával
 
 ## Bevezetés

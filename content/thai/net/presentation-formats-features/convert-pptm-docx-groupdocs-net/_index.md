@@ -4,8 +4,8 @@
 "title": "แปลง PowerPoint (PPTM) เป็น Word (DOCX) อย่างมีประสิทธิภาพโดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/presentation-formats-features/convert-pptm-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลง PowerPoint (PPTM) เป็น Word (DOCX) อย่างมีประสิทธิภาพโดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

@@ -4,8 +4,8 @@
 "title": "Конвертируйте WMZ в DOC с помощью GroupDocs.Conversion для .NET&#58; Пошаговое руководство"
 "url": "/ru/net/word-processing-conversion/convert-wmz-to-doc-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте WMZ в DOC с помощью GroupDocs.Conversion для .NET
 
 ## Введение

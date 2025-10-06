@@ -4,8 +4,8 @@
 "title": "設定 GroupDocs.Conversion Java 授權&#58;逐步指南"
 "url": "/zh-hant/java/getting-started/groupdocs-conversion-java-license-setup-file-path/"
 "weight": 1
+type: docs
 ---
-
 # 設定 GroupDocs.Conversion Java 授權：綜合教學課程
 
 歡迎閱讀我們關於如何設定和使用 GroupDocs.Conversion Java 函式庫的逐步指南。本教學重點在於如何透過文件路徑實現許可證設置，幫助您充分發揮這款強大的文件轉換工具的潛力。

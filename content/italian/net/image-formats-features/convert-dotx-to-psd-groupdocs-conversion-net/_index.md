@@ -4,8 +4,8 @@
 "title": "Converti DOTX in PSD con GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/image-formats-features/convert-dotx-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converti DOTX in PSD con GroupDocs.Conversion per .NET: una guida completa
 
 ## Introduzione

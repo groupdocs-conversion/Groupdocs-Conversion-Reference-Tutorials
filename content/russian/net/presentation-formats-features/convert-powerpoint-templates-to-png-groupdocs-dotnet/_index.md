@@ -4,8 +4,8 @@
 "title": "Конвертируйте шаблоны PowerPoint в PNG с помощью GroupDocs.Conversion для .NET&#58; Пошаговое руководство"
 "url": "/ru/net/presentation-formats-features/convert-powerpoint-templates-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте шаблоны PowerPoint в PNG с помощью GroupDocs.Conversion для .NET: пошаговое руководство
 
 ## Введение

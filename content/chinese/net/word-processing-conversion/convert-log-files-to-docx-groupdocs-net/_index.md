@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 将日志文件转换为 DOCX——分步指南"
 "url": "/zh/net/word-processing-conversion/convert-log-files-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将 LOG 文件转换为 DOCX
 
 在当今的数字时代，高效地转换各种文件格式对于企业和开发者都至关重要。一个常见的挑战是将日志文件转换为更易于访问或共享的格式，例如 DOCX。本分步指南将指导您使用 **GroupDocs.Conversion for .NET** 无缝地实现这种转换。

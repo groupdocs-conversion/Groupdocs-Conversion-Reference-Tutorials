@@ -4,8 +4,8 @@
 "title": "Как настроить GroupDocs.Conversion .NET для файлов OST — полное руководство"
 "url": "/ru/net/storage-files-pst-processing/configuring-groupdocs-conversion-dotnet-ost-files/"
 "weight": 1
+type: docs
 ---
-
 # Подробное руководство: настройка GroupDocs.Conversion .NET для обработки файлов OST
 
 ## Введение

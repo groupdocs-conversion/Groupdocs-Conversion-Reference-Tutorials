@@ -5,8 +5,8 @@
 "title": "將 HTML 網頁轉換為 PDF"
 "url": "/zh-hant/net/convert-files-to-pdf/convert-html-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # 將 HTML 網頁轉換為 PDF
 
 ## 介紹

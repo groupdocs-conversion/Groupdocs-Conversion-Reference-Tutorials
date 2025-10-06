@@ -4,8 +4,8 @@
 "title": "Hướng dẫn toàn diện về GroupDocs.Conversion cho Java"
 "url": "/vi/java/"
 "weight": 10
+type: docs
 ---
-
 # Hướng dẫn toàn diện về GroupDocs.Conversion cho Java
 
 ## Giới thiệu

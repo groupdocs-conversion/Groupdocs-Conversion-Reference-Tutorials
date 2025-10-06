@@ -4,8 +4,8 @@
 "title": "XLSB を TEX に変換する - GroupDocs.Conversion for .NET を使用したステップバイステップガイド"
 "url": "/ja/net/spreadsheet-formats-features/convert-xlsb-to-tex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET で XLSB を TEX に変換する
 
 ## 導入

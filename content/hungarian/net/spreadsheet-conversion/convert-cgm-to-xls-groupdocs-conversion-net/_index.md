@@ -4,8 +4,8 @@
 "title": "CGM hatékony konvertálása XLS-sé a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/spreadsheet-conversion/convert-cgm-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # CGM hatékony konvertálása XLS-sé a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

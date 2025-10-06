@@ -4,8 +4,8 @@
 "title": "Как конвертировать файлы MSG в TXT с помощью GroupDocs.Conversion в .NET? Подробное руководство"
 "url": "/ru/net/email-formats-features/convert-msg-to-txt-groupdocs-net-tutorial/"
 "weight": 1
+type: docs
 ---
-
 # Как конвертировать файлы MSG в TXT с помощью GroupDocs.Conversion в .NET: подробное руководство
 
 ## Введение

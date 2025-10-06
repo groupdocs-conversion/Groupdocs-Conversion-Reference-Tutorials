@@ -4,8 +4,8 @@
 "title": "Převod DOC do TEXu pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/word-processing-conversion/convert-doc-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést DOC do TEXu pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

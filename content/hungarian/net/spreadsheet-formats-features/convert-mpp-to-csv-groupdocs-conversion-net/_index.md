@@ -4,8 +4,8 @@
 "title": "MPP konvertálása CSV-vé a GroupDocs.Conversion használatával C#-ban - Egyszerű útmutató .NET fejlesztőknek"
 "url": "/hu/net/spreadsheet-formats-features/convert-mpp-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MPP fájlok konvertálása CSV formátumba a GroupDocs.Conversion használatával C#-ban - Egyszerű útmutató .NET fejlesztőknek
 
 ## Bevezetés

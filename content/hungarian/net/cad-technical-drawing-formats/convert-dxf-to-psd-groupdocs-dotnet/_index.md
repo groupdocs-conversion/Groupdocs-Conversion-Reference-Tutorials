@@ -4,8 +4,8 @@
 "title": "DXF fájlok PSD fájlokká konvertálása a GroupDocs.Conversion for .NET használatával – fejlesztői útmutató"
 "url": "/hu/net/cad-technical-drawing-formats/convert-dxf-to-psd-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # DXF fájlok PSD formátumba konvertálása a GroupDocs.Conversion for .NET segítségével: Fejlesztői útmutató
 
 ## Bevezetés

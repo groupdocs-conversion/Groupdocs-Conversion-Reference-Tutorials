@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # .NET ODP to PSD Conversion: Mastering GroupDocs.Conversion for .NET
 
 ## Introduction

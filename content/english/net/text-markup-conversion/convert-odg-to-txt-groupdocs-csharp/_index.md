@@ -8,10 +8,8 @@ keywords:
 - ODG to TXT Conversion in C#
 - GroupDocs.Conversion for .NET
 - Convert ODG Files
-
+type: docs
 ---
-
-
 # Convert ODG to TXT in C# Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

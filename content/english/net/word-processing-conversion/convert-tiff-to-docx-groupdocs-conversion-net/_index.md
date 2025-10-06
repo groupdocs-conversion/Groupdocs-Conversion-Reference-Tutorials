@@ -8,10 +8,8 @@ keywords:
 - convert TIFF to DOCX
 - GroupDocs.Conversion .NET
 - TIFF to Word conversion
-
+type: docs
 ---
-
-
 # Convert TIFF to DOCX Using GroupDocs.Conversion .NET: A Complete Guide
 
 ## Introduction

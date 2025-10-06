@@ -4,8 +4,8 @@
 "title": "Conversão eficiente de TSV para PNG usando GroupDocs.Conversion .NET"
 "url": "/pt/net/image-conversion/convert-tsv-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Conversão eficiente de TSV para PNG usando GroupDocs.Conversion .NET
 ## Introdução
 Com dificuldades para converter arquivos de valores separados por tabulação (TSV) em imagens PNG visualmente atraentes? Este guia completo o orientará no uso **GroupDocs.Conversion para .NET** para transformar perfeitamente seus formatos de dados e aprimorar a visualização e a geração de relatórios. Ao final deste tutorial, você estará bem equipado para implementar esse recurso em seus projetos.

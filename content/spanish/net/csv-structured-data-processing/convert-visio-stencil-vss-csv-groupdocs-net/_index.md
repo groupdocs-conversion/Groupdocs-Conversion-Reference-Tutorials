@@ -4,8 +4,8 @@
 "title": "Convertir una plantilla de Visio (.vss) a CSV con GroupDocs.Conversion para .NET&#58; guía paso a paso"
 "url": "/es/net/csv-structured-data-processing/convert-visio-stencil-vss-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir una plantilla de Visio (.vss) a CSV con GroupDocs.Conversion para .NET: guía paso a paso
 
 ## Introducción

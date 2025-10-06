@@ -3,8 +3,8 @@ title: "Spreadsheet Conversion Tutorials for GroupDocs.Conversion .NET"
 description: "Complete tutorials for converting various document formats to XLS, XLSX, CSV and other spreadsheet formats using GroupDocs.Conversion for .NET."
 weight: 30
 url: "/net/spreadsheet-conversion/"
+type: docs
 ---
-
 # Spreadsheet Conversion Tutorials for GroupDocs.Conversion .NET
 
 Learn how to transform documents into editable spreadsheet formats with our GroupDocs.Conversion .NET tutorials. These detailed guides demonstrate how to convert from PDF, Word, HTML, images, and other formats to XLS, XLSX, CSV, ODS and more. Discover techniques for preserving calculations and formulas, maintaining cell formatting, handling multi-sheet documents, managing headers and footers, and controlling data type conversions. Each tutorial includes working C# code examples that show how to create spreadsheet documents that accurately represent the source content while enabling data analysis and manipulation.

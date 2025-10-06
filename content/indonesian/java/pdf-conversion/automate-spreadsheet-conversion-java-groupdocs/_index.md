@@ -4,8 +4,8 @@
 "title": "Otomatiskan Konversi Spreadsheet ke PDF di Java Menggunakan GroupDocs.Conversion"
 "url": "/id/java/pdf-conversion/automate-spreadsheet-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Otomatiskan Konversi Spreadsheet ke PDF di Java Menggunakan GroupDocs.Conversion
 
 ## Perkenalan

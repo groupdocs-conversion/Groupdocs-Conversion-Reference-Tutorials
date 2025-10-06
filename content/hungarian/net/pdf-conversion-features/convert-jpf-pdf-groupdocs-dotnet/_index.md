@@ -4,8 +4,8 @@
 "title": "JPF konvertálása PDF-be a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/pdf-conversion-features/convert-jpf-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # JPF konvertálása PDF-be a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

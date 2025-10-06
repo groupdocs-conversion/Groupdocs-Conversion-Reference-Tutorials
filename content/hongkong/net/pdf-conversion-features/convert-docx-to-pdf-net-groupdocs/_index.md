@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中將 DOCX 轉換為 PDF 的完整指南"
 "url": "/zh-hant/net/pdf-conversion-features/convert-docx-to-pdf-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 .NET 中將 DOCX 轉換為 PDF：完整指南
 
 ## 介紹

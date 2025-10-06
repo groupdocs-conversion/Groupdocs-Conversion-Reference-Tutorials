@@ -5,8 +5,8 @@
 "title": "Converteer XLS naar PDF"
 "url": "/nl/net/converting-file-types-to-pdf/convert-xls-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Converteer XLS naar PDF
 
 ## Invoering

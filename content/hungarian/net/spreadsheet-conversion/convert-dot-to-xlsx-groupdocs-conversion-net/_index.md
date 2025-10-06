@@ -4,8 +4,8 @@
 "title": "DOT konvertálása XLSX-re .NET-ben a GroupDocs.Conversion használatával – Átfogó útmutató"
 "url": "/hu/net/spreadsheet-conversion/convert-dot-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DOT konvertálása XLSX-re .NET-ben a GroupDocs.Conversion használatával
 
 ## Bevezetés

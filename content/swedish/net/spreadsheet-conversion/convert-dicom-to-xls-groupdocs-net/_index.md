@@ -4,8 +4,8 @@
 "title": "Konvertera DICOM till XLS med GroupDocs.Conversion .NET – en omfattande guide"
 "url": "/sv/net/spreadsheet-conversion/convert-dicom-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar DICOM-filer till Excel-kalkylblad med GroupDocs.Conversion .NET
 
 ## Introduktion

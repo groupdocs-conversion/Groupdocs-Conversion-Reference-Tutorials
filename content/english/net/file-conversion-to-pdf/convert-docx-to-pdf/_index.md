@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Learn how to effortlessly convert DOCX Word documents to PDF using GroupDocs.Conversion for .NET. Enhance your document management capabilities.
 weight: 24
 url: /net/file-conversion-to-pdf/convert-docx-to-pdf/
+type: docs
 ---
-
 # Convert DOCX Word Documents to PDF
 
 ## Introduction

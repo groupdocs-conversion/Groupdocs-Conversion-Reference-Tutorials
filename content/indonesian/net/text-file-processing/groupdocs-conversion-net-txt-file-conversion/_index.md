@@ -4,8 +4,8 @@
 "title": "Konversi File TXT dengan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/text-file-processing/groupdocs-conversion-net-txt-file-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Konversi File TXT dengan GroupDocs.Conversion untuk .NET: Panduan Lengkap
 
 ## Perkenalan

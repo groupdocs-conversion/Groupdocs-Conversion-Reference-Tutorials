@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 将 JPEG 转换为 XLSX — 分步指南"
 "url": "/zh/net/spreadsheet-conversion/convert-jpeg-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 将 JPEG 转换为 XLSX：分步指南
 
 ## 介绍

@@ -5,8 +5,8 @@
 "title": "แปลง XLSB เป็น PDF"
 "url": "/th/net/converting-file-types-to-pdf/convert-xlsb-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # แปลง XLSB เป็น PDF
 
 ## การแนะนำ

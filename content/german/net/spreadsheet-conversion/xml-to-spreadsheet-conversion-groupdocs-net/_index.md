@@ -4,8 +4,8 @@
 "title": "Effiziente Konvertierung von XML in Tabellenkalkulationen in .NET mit GroupDocs.Conversion"
 "url": "/de/net/spreadsheet-conversion/xml-to-spreadsheet-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Effiziente Konvertierung von XML in Tabellenkalkulationen in .NET mit GroupDocs.Conversion
 
 ## Einführung

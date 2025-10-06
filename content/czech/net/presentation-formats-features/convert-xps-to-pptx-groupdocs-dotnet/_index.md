@@ -4,8 +4,8 @@
 "title": "Efektivní převod XPS do PPTX pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/presentation-formats-features/convert-xps-to-pptx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod XPS do PPTX pomocí GroupDocs.Conversion pro .NET
 
 V digitálním věku je konverze dokumentů mezi formáty častým požadavkem pro vývojáře a firmy. Tato příručka vysvětluje, jak ji používat. **GroupDocs.Conversion pro .NET** převést soubory XPS do prezentací PowerPointu (formát PPTX) a zefektivnit tak procesy správy dokumentů.

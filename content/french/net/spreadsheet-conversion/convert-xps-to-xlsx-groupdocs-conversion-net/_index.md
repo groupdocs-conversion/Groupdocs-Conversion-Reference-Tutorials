@@ -4,8 +4,8 @@
 "title": "Convertir XPS en Excel (XLSX) avec GroupDocs.Conversion pour .NET – Guide complet"
 "url": "/fr/net/spreadsheet-conversion/convert-xps-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des fichiers XPS en Excel (XLSX) avec GroupDocs.Conversion pour .NET
 
 ## Introduction

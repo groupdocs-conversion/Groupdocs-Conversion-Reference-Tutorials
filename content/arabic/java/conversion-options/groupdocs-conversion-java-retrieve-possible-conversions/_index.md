@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion لـ Java - كيفية استرداد جميع التحويلات الممكنة"
 "url": "/ar/java/conversion-options/groupdocs-conversion-java-retrieve-possible-conversions/"
 "weight": 1
+type: docs
 ---
-
 # دليل شامل لاسترجاع جميع التحويلات الممكنة باستخدام GroupDocs.Conversion لـ Java
 
 ## مقدمة

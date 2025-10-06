@@ -5,8 +5,8 @@
 "title": "OTT를 PDF로 변환"
 "url": "/ko/net/pdf-conversion/convert-ott-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # OTT를 PDF로 변환
 
 ## 소개

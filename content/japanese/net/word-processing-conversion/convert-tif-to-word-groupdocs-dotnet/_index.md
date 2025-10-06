@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用した .NET での効率的な TIF から Word への変換"
 "url": "/ja/net/word-processing-conversion/convert-tif-to-word-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion を使用した .NET での効率的な TIF から Word への変換
 
 ## 導入

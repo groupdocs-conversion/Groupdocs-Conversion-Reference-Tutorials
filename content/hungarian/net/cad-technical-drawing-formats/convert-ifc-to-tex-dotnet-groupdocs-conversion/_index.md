@@ -4,8 +4,8 @@
 "title": "IFC fájlok konvertálása TEX formátumba .NET-ben a GroupDocs.Conversion használatával"
 "url": "/hu/net/cad-technical-drawing-formats/convert-ifc-to-tex-dotnet-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # IFC fájlok konvertálása TEX formátumba .NET-ben a GroupDocs.Conversion használatával
 
 ## Bevezetés

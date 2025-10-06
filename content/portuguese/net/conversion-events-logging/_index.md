@@ -3,8 +3,8 @@
 "title": "Tutoriais de eventos de conversão e registro para GroupDocs.Conversion .NET"
 "url": "/pt/net/conversion-events-logging/"
 "weight": 24
+type: docs
 ---
-
 # Tutoriais de eventos de conversão e registro para GroupDocs.Conversion .NET
 
 Domine os recursos de monitoramento e registro com nossos tutoriais de eventos do GroupDocs.Conversion para .NET. Estes guias detalhados demonstram como configurar ouvintes de eventos, rastrear o estado e o progresso da conversão, implementar registros detalhados, lidar com notificações de conversão, criar manipuladores de eventos personalizados, integrar-se com estruturas de registro populares, desenvolver indicadores de progresso de conversão e criar trilhas de auditoria para processamento de documentos. Cada tutorial inclui exemplos práticos de código C# para recursos de monitoramento e geração de relatórios, ajudando você a construir sistemas de conversão confiáveis com mecanismos de feedback abrangentes e recursos de solução de problemas.

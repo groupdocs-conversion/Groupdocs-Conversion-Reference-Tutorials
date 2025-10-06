@@ -5,8 +5,8 @@
 "title": "Konwertuj pliki szablonów DWT CAD do formatu PDF"
 "url": "/pl/net/convert-files-to-pdf/convert-dwt-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Konwertuj pliki szablonów DWT CAD do formatu PDF
 
 ## Wstęp

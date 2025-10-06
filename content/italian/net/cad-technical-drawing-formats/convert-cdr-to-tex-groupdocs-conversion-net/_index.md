@@ -4,8 +4,8 @@
 "title": "Convertire file CDR in TEX utilizzando GroupDocs.Conversion per .NET&#58; una guida passo passo"
 "url": "/it/net/cad-technical-drawing-formats/convert-cdr-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire i file CDR in TEX utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

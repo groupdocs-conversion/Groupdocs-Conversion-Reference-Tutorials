@@ -4,8 +4,8 @@
 "title": "Chuyển đổi OXPS sang XLS với GroupDocs.Conversion .NET&#58; Hướng dẫn toàn diện về định dạng và tính năng bảng tính"
 "url": "/vi/net/spreadsheet-formats-features/convert-oxps-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi OXPS sang XLS với GroupDocs.Conversion .NET: Hướng dẫn toàn diện
 
 ## Giới thiệu

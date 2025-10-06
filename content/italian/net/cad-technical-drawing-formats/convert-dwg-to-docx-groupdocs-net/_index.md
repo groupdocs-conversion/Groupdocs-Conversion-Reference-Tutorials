@@ -4,8 +4,8 @@
 "title": "Convertire DWG in DOCX utilizzando GroupDocs.Conversion per .NET - Guida passo passo"
 "url": "/it/net/cad-technical-drawing-formats/convert-dwg-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire DWG in DOCX utilizzando GroupDocs.Conversion per .NET: una guida completa
 
 ## Introduzione

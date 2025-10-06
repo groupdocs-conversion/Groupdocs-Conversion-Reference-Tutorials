@@ -4,8 +4,8 @@
 "title": "Jak ukryć adnotacje PDF przed konwersją do Worda za pomocą GroupDocs.Conversion dla .NET"
 "url": "/pl/net/page-management-content-manipulation/hide-pdf-annotations-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Jak ukryć adnotacje PDF przed konwersją do Worda za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

@@ -4,8 +4,8 @@
 "title": "Полное руководство&#58; преобразование файлов журналов в HTML с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/html-conversion/convert-log-files-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Подробное руководство: преобразование файлов журналов в HTML с помощью GroupDocs.Conversion для .NET
 
 ## Введение

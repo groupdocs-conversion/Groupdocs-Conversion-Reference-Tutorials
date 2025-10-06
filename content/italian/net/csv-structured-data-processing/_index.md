@@ -3,8 +3,8 @@
 "title": "Tutorial sull'elaborazione di dati CSV e strutturati per GroupDocs.Conversion .NET"
 "url": "/it/net/csv-structured-data-processing/"
 "weight": 15
+type: docs
 ---
-
 # Tutorial sull'elaborazione di dati CSV e strutturati per GroupDocs.Conversion .NET
 
 I nostri tutorial su CSV e dati strutturati forniscono una guida dettagliata per la gestione di formati tabellari e incentrati sui dati nelle applicazioni .NET. Queste guide pratiche illustrano come convertire file CSV in formati JSON e XML, trasformare file CSV in vari tipi di documento, specificare delimitatori e opzioni di codifica, convertire correttamente dati di tipo datetime e numerici, gestire intestazioni e nomi di campo, preservare i tipi di dati durante la conversione e implementare operazioni di trasformazione di dati in massa. Ogni tutorial include esempi completi di codice C# per scenari di conversione di formati di dati, aiutandovi a creare applicazioni in grado di collegare efficacemente formati di dati grezzi e documenti leggibili.

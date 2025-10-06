@@ -4,8 +4,8 @@
 "title": "PSD fájlok egyszerű DOCX formátumba konvertálása a GroupDocs.Conversion for .NET segítségével – Teljes körű útmutató"
 "url": "/hu/net/word-processing-conversion/convert-psd-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PSD konvertálása DOCX-be a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

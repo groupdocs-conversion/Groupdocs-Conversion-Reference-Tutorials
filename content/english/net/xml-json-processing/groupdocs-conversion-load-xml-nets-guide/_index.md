@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion .NET
 - load XML files in .NET
 - convert XML using GroupDocs
-
+type: docs
 ---
-
-
 # Efficiently Load and Convert XML Files Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

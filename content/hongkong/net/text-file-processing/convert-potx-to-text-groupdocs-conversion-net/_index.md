@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 將 PowerPoint 範本 (.potx) 轉換為文字"
 "url": "/zh-hant/net/text-file-processing/convert-potx-to-text-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 載入 Microsoft PowerPoint Open XML 範本 (.potx) 檔案並將其轉換為文字
 
 ## 介紹

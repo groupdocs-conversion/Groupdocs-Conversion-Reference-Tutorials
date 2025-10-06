@@ -5,8 +5,8 @@
 "title": "MHTML konvertálása PDF-be"
 "url": "/hu/net/document-conversion/convert-mhtml-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # MHTML konvertálása PDF-be
 
 ## Bevezetés

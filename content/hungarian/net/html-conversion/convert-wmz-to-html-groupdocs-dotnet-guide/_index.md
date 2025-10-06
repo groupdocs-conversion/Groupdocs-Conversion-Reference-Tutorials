@@ -4,8 +4,8 @@
 "title": "Hogyan konvertáljunk WMZ-t HTML-lé a GroupDocs.Conversion for .NET használatával? Átfogó útmutató"
 "url": "/hu/net/html-conversion/convert-wmz-to-html-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertáljunk WMZ-t HTML-lé a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

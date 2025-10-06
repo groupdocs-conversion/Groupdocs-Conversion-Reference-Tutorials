@@ -4,8 +4,8 @@
 "title": "Converta Word para PDF com fontes personalizadas em Java - Um guia completo usando GroupDocs.Conversion"
 "url": "/pt/java/pdf-conversion/convert-word-pdf-custom-fonts-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Converta documentos do Word em PDF com fontes personalizadas em Java: um guia completo usando GroupDocs.Conversion
 
 ## Introdução

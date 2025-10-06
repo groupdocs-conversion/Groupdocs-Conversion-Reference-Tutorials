@@ -4,8 +4,8 @@
 "title": "แปลงแผ่นงาน Excel เฉพาะเป็น PDF โดยใช้ GroupDocs.Conversion สำหรับ .NET | คำแนะนำทีละขั้นตอนง่ายๆ"
 "url": "/th/net/pdf-conversion/convert-excel-sheets-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลงแผ่นงาน Excel เฉพาะเป็น PDF โดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

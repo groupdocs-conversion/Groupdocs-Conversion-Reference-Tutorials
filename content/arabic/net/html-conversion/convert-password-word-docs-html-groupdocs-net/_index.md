@@ -4,8 +4,8 @@
 "title": "كيفية تحويل مستندات Word المحمية بكلمة مرور إلى HTML باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/html-conversion/convert-password-word-docs-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل مستندات Word المحمية بكلمة مرور إلى HTML باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

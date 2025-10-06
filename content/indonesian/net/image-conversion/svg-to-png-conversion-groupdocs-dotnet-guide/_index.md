@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi SVG ke PNG di .NET menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/image-conversion/svg-to-png-conversion-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi SVG ke PNG dalam .NET menggunakan GroupDocs.Conversion untuk .NET: Panduan Lengkap
 
 ## Perkenalan

@@ -5,8 +5,8 @@
 "title": "WMFをPDFに変換する"
 "url": "/ja/net/converting-file-types-to-pdf/convert-wmf-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # WMFをPDFに変換する
 
 ## 導入

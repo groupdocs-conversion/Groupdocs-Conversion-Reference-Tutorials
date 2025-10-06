@@ -4,8 +4,8 @@
 "title": "Převod VSS do TXT pomocí GroupDocs.Conversion .NET – Komplexní průvodce"
 "url": "/cs/net/text-file-processing/convert-vss-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod VSS do TXT pomocí GroupDocs.Conversion .NET: Komplexní průvodce
 
 ## Zavedení

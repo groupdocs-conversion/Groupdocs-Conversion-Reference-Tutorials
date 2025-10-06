@@ -5,8 +5,8 @@
 "title": "Konversi PSD ke PDF"
 "url": "/id/net/file-format-conversion-tutorials/convert-psd-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # Konversi PSD ke PDF
 
 ## Perkenalan

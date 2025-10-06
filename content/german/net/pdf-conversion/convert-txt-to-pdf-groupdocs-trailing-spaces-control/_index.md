@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie TXT in PDF mit GroupDocs – Steuern Sie nachstehende Leerzeichen mit .NET"
 "url": "/de/net/pdf-conversion/convert-txt-to-pdf-groupdocs-trailing-spaces-control/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie TXT mit GroupDocs in PDF: Steuern Sie nachstehende Leerzeichen mit .NET
 
 ## Einführung

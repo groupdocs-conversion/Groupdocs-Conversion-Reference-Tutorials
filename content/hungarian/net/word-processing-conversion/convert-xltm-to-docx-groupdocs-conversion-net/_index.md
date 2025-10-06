@@ -4,8 +4,8 @@
 "title": "XLTm fájlok DOCX formátumba konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/word-processing-conversion/convert-xltm-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # XLTm fájlok DOCX formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

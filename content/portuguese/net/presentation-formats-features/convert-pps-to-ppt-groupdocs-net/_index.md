@@ -4,8 +4,8 @@
 "title": "Converta PPS para PPT com GroupDocs.Conversion para .NET - Um guia passo a passo"
 "url": "/pt/net/presentation-formats-features/convert-pps-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converta PPS para PPT com GroupDocs.Conversion para .NET: um guia passo a passo
 
 ## Introdução

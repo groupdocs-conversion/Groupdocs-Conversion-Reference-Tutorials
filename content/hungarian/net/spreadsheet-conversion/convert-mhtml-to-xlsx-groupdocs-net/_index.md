@@ -4,8 +4,8 @@
 "title": "MHTML konvertálása XLSX-re a GroupDocs.Conversion .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/spreadsheet-conversion/convert-mhtml-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # MHTML konvertálása XLSX-re a GroupDocs.Conversion .NET használatával: Teljes körű útmutató
 
 ## Bevezetés

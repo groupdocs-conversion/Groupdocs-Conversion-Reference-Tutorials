@@ -4,8 +4,8 @@
 "title": "VSDX konvertálása DOCX-be .NET-ben a GroupDocs.Conversion Library használatával"
 "url": "/hu/net/word-processing-formats-features/convert-vsdx-docx-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Fájlkonvertálások elsajátítása .NET-ben: VSDX fájlok konvertálása DOCX formátumba a GroupDocs.Conversion használatával
 
 ## Bevezetés

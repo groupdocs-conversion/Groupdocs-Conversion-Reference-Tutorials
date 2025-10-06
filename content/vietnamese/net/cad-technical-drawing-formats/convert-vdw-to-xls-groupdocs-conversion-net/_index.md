@@ -4,8 +4,8 @@
 "title": "Chuyển đổi VDW sang XLS hiệu quả bằng GroupDocs.Conversion .NET cho bản vẽ kỹ thuật"
 "url": "/vi/net/cad-technical-drawing-formats/convert-vdw-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp VDW sang XLS bằng GroupDocs.Conversion .NET
 
 ## Giới thiệu

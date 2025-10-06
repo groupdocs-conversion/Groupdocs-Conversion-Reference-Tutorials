@@ -4,8 +4,8 @@
 "title": "Word Şablonlarını (.dotm) GroupDocs.Conversion for .NET Kullanarak PNG'ye Dönüştürün"
 "url": "/tr/net/image-conversion/convert-dotm-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak Word Şablonlarını PNG Görüntülerine Dönüştürün
 
 ## giriiş

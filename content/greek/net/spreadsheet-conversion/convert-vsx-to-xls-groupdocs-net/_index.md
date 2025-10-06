@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή VSX σε XLS σε .NET χρησιμοποιώντας το GroupDocs.Conversion"
 "url": "/el/net/spreadsheet-conversion/convert-vsx-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική μετατροπή VSX σε XLS σε .NET χρησιμοποιώντας το GroupDocs.Conversion
 
 ## Εισαγωγή

@@ -5,8 +5,8 @@
 "title": "แปลง PST เป็น PDF"
 "url": "/th/net/file-format-conversion-tutorials/convert-pst-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # แปลง PST เป็น PDF
 
 ## การแนะนำ

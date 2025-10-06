@@ -4,8 +4,8 @@
 "title": "DJVU konvertálása SVG-vé a GroupDocs.Conversion használatával .NET-ben – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-djvu-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DJVU konvertálása SVG-vé a GroupDocs.Conversion használatával .NET-ben: Átfogó útmutató
 
 ## Bevezetés

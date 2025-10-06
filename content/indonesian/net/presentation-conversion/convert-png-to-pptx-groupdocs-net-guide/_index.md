@@ -4,8 +4,8 @@
 "title": "Panduan Lengkap&#58; Konversi PNG ke PPTX Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/presentation-conversion/convert-png-to-pptx-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Panduan Lengkap: Mengonversi PNG ke PPTX Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

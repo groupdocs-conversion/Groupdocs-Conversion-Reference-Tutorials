@@ -5,8 +5,8 @@
 "title": "Chuyển đổi tài liệu DOCX Word sang PDF"
 "url": "/vi/net/file-conversion-to-pdf/convert-docx-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Chuyển đổi tài liệu DOCX Word sang PDF
 
 ## Giới thiệu

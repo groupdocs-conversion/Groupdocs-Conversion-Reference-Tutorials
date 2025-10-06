@@ -4,8 +4,8 @@
 "title": "RTF konvertálása SVG-vé a GroupDocs.Conversion segítségével C##-ben&#58; Teljes útmutató"
 "url": "/hu/net/image-conversion/convert-rtf-to-svg-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # RTF konvertálása SVG-vé a GroupDocs.Conversion segítségével C#-ban: Átfogó útmutató
 
 ## Bevezetés

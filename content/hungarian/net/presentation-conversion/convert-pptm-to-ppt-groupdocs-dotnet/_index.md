@@ -4,8 +4,8 @@
 "title": "PPTM konvertálása PPT-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/presentation-conversion/convert-pptm-to-ppt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # PPTM konvertálása PPT-vé a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 Az üzleti világban a PowerPoint-bemutatók nélkülözhetetlen eszközök. Azonban nem mindenkinek van hozzáférése a legújabb Microsoft Office verziókhoz, ami szükségessé teszi a PPTM-fájlok (makrókat tartalmazó PowerPoint-fájlok) PPT-fájlokba (régebbi PowerPoint-formátum) való konvertálását. Ez az útmutató végigvezeti Önt a GroupDocs.Conversion for .NET használatán, amellyel zökkenőmentesen konvertálhatja a PPTM-fájlokat PPT formátumba.

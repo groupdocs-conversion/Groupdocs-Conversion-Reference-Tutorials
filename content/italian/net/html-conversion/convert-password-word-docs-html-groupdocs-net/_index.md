@@ -4,8 +4,8 @@
 "title": "Come convertire documenti Word protetti da password in HTML utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/html-conversion/convert-password-word-docs-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire documenti Word protetti da password in HTML utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

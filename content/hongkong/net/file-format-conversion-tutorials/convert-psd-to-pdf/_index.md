@@ -5,8 +5,8 @@
 "title": "將 PSD 轉換為 PDF"
 "url": "/zh-hant/net/file-format-conversion-tutorials/convert-psd-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # 將 PSD 轉換為 PDF
 
 ## 介紹

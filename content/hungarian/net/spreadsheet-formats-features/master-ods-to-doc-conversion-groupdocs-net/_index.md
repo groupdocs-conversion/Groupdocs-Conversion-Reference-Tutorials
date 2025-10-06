@@ -4,8 +4,8 @@
 "title": "Átfogó útmutató az ODS DOC-vá konvertálásához a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/spreadsheet-formats-features/master-ods-to-doc-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató: ODS konvertálása DOC-ba a GroupDocs.Conversion for .NET segítségével
 
 Szeretnéd zökkenőmentesen konvertálni OpenDocument táblázatkezelő (ODS) fájljaidat Microsoft Word dokumentumokká? **GroupDocs.Conversion .NET-hez**, ez a feladat egyszerűvé válik. Ez az átfogó útmutató lépésről lépésre végigvezeti Önt a folyamaton.

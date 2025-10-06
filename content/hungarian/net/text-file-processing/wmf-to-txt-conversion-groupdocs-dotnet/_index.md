@@ -4,8 +4,8 @@
 "title": "WMF konvertálása TXT-vé a GroupDocs.Conversion for .NET segítségével – Teljes körű útmutató"
 "url": "/hu/net/text-file-processing/wmf-to-txt-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # WMF konvertálása TXT-vé a GroupDocs.Conversion for .NET segítségével: Teljes körű útmutató
 
 ## Bevezetés

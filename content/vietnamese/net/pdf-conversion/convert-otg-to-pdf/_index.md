@@ -5,8 +5,8 @@
 "title": "Chuyển đổi OTG sang PDF"
 "url": "/vi/net/pdf-conversion/convert-otg-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # Chuyển đổi OTG sang PDF
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "Padroneggia la conversione da DWG a PDF .NET con GroupDocs.Conversion&#58; una guida completa"
 "url": "/it/net/pdf-conversion/convert-dwg-to-pdf-net-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Padroneggia la conversione da .NET DWG a PDF utilizzando GroupDocs.Conversion
 
 ## Introduzione

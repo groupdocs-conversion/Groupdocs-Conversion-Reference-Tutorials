@@ -4,8 +4,8 @@
 "title": "MPP egyszerű DOC-vá konvertálása – GroupDocs.Conversion for .NET oktatóanyag"
 "url": "/hu/net/word-processing-conversion/convert-mpp-doc-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # MPP konvertálása DOC-ba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

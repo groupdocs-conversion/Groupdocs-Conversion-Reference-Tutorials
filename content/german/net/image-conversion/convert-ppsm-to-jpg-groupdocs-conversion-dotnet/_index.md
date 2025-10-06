@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie PPSM in JPG mit GroupDocs.Conversion in .NET – Eine Schritt-für-Schritt-Anleitung"
 "url": "/de/net/image-conversion/convert-ppsm-to-jpg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie PPSM-Dateien mit GroupDocs.Conversion in .NET in JPG
 
 ## Einführung

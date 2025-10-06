@@ -4,8 +4,8 @@
 "title": "Converteer PSD naar HTML met GroupDocs.Conversion voor .NET&#58; een handleiding voor ontwikkelaars"
 "url": "/nl/net/web-markup-formats/convert-psd-html-net-developers-guide/"
 "weight": 1
+type: docs
 ---
-
 # PSD naar HTML converteren met GroupDocs.Conversion in .NET: een handleiding voor ontwikkelaars
 
 ## Invoering

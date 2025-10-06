@@ -3,8 +3,8 @@
 "title": "Handledningar för hantering och ersättning av teckensnitt för GroupDocs.Conversion .NET"
 "url": "/sv/net/font-handling-substitution/"
 "weight": 22
+type: docs
 ---
-
 # Handledningar för hantering och ersättning av teckensnitt för GroupDocs.Conversion .NET
 
 Utforska funktioner för teckensnittshantering med våra omfattande GroupDocs.Conversion-handledningar för .NET. Dessa steg-för-steg-guider visar hur du anger alternativ för teckensnittsersättning i olika dokumenttyper, inklusive Word, Excel, PowerPoint och anteckningsformat, hanterar saknade teckensnitt, implementerar policyer för teckensnittsinbäddning, hanterar krav på teckensnittslicenser, kontrollerar alternativa teckensnitt, bevarar teckensnittsstilar och formatering och säkerställer ett enhetligt textutseende på olika plattformar. Varje handledning innehåller praktiska C#-kodexempel för teckensnittsrelaterade operationer, vilket hjälper dig att bygga applikationer som bibehåller dokumentåtergivning även när du hanterar utmaningar med teckensnittstillgänglighet.

@@ -4,8 +4,8 @@
 "title": "TSV-PPTX konverzió automatizálása a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/presentation-formats-features/automate-tsv-to-pptx-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # TSV-ből PPTX-be konvertálás automatizálása a GroupDocs.Conversion for .NET használatával: Teljes körű útmutató
 
 ## Bevezetés

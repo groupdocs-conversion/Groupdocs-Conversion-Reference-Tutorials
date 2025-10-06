@@ -5,8 +5,8 @@
 "title": "OTP를 PDF로 변환"
 "url": "/ko/net/pdf-conversion/convert-otp-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # OTP를 PDF로 변환
 
 ## 소개

@@ -5,8 +5,8 @@
 "title": "將 EPUB 電子書轉換為 PDF"
 "url": "/zh-hant/net/convert-files-to-pdf/convert-epub-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # 將 EPUB 電子書轉換為 PDF
 
 ## 介紹

@@ -5,8 +5,8 @@
 "title": "แปลงข้อความอีเมล์ EML เป็น PDF"
 "url": "/th/net/convert-files-to-pdf/convert-eml-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # แปลงข้อความอีเมล์ EML เป็น PDF
 
 ## การแนะนำ

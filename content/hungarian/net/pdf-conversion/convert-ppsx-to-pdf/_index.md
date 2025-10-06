@@ -5,8 +5,8 @@
 "title": "PPSX konvertálása PDF-be"
 "url": "/hu/net/pdf-conversion/convert-ppsx-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # PPSX konvertálása PDF-be
 
 ## Bevezetés

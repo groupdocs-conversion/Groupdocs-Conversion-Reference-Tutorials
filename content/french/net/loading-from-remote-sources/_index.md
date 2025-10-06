@@ -3,8 +3,8 @@
 "title": "Chargement de documents à partir de sources distantes &#58; tutoriels pour GroupDocs.Conversion .NET"
 "url": "/fr/net/loading-from-remote-sources/"
 "weight": 3
+type: docs
 ---
-
 # Chargement de documents à partir de sources distantes : tutoriels pour GroupDocs.Conversion .NET
 
 Maîtrisez le chargement de documents à distance grâce à nos tutoriels détaillés GroupDocs.Conversion destinés aux développeurs .NET. Ces guides pratiques expliquent comment récupérer et traiter des documents depuis des URL web et des serveurs FTP, gérer les exigences d'authentification, les délais d'expiration et les problèmes de connexion, mettre en œuvre le suivi de la progression des téléchargements et utiliser différents protocoles. Chaque tutoriel fournit des exemples de code C# fonctionnels qui montrent comment intégrer des sources de documents distantes à votre workflow de conversion, vous aidant ainsi à créer des applications capables d'accéder au contenu, quel que soit son emplacement.

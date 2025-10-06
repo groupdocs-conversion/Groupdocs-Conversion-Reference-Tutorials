@@ -8,10 +8,8 @@ keywords:
 - MBOX to PSD conversion
 - GroupDocs.Conversion for .NET
 - email data management
-
+type: docs
 ---
-
-
 # Convert MBOX to PSD Using GroupDocs.Conversion for .NET
 
 ## Introduction

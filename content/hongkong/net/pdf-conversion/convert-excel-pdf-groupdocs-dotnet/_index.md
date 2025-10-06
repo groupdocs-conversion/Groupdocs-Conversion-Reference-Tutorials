@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 Excel 轉換為 PDF 的綜合指南"
 "url": "/zh-hant/net/pdf-conversion/convert-excel-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 Excel 電子表格轉換為 PDF
 
 ## 介紹

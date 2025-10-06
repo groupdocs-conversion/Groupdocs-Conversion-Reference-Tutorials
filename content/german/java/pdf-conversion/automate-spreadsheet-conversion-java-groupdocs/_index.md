@@ -4,8 +4,8 @@
 "title": "Automatisieren Sie die Konvertierung von Tabellenkalkulationen in PDF in Java mit GroupDocs.Conversion"
 "url": "/de/java/pdf-conversion/automate-spreadsheet-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Automatisieren Sie die Konvertierung von Tabellenkalkulationen in PDF in Java mit GroupDocs.Conversion
 
 ## Einführung

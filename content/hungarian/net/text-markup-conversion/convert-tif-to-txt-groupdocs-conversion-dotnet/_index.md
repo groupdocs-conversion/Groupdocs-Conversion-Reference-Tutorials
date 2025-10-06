@@ -4,8 +4,8 @@
 "title": "Lépésről lépésre útmutató&#58; TIF fájlok TXT fájlokká konvertálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/text-markup-conversion/convert-tif-to-txt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Lépésről lépésre útmutató: TIF fájlok TXT fájlokká konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

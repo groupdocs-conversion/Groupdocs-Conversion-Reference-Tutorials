@@ -4,8 +4,8 @@
 "title": "Μετατροπή DXF σε TXT χρησιμοποιώντας GroupDocs σε .NET™ Οδηγός για προγραμματιστές"
 "url": "/el/net/cad-technical-drawing-formats/dxf-to-txt-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή DXF σε TXT χρησιμοποιώντας GroupDocs σε .NET: Οδηγός για προγραμματιστές
 
 ## Εισαγωγή

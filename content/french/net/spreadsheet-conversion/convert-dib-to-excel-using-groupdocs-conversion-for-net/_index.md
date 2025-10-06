@@ -4,8 +4,8 @@
 "title": "Comment convertir un fichier DIB en Excel à l'aide de GroupDocs.Conversion pour .NET ? Un guide complet"
 "url": "/fr/net/spreadsheet-conversion/convert-dib-to-excel-using-groupdocs-conversion-for-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir un fichier DIB en Excel avec GroupDocs.Conversion pour .NET
 
 ## Introduction

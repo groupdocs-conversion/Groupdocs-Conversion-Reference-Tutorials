@@ -4,8 +4,8 @@
 "title": "أتمتة تحويل LaTeX إلى PowerPoint باستخدام .NET وGroupDocs.Conversion"
 "url": "/ar/net/presentation-formats-features/tex-to-powerpoint-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # أتمتة تحويل LaTeX إلى PowerPoint باستخدام .NET وGroupDocs.Conversion
 ## مقدمة
 هل سئمت من تحويل مستندات LaTeX يدويًا إلى شرائح PowerPoint؟ سيوضح لك هذا البرنامج التعليمي كيفية أتمتة العملية باستخدام GroupDocs.Conversion لـ .NET، مما يوفر عليك الوقت والجهد. باتباع هذا الدليل التفصيلي، ستتعلم كيفية تحويل ملفات TEX إلى تنسيق PPT بسلاسة.

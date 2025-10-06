@@ -4,8 +4,8 @@
 "title": "Converter DXF para LaTeX (TEX) usando GroupDocs.Conversion .NET para conversão de arquivos CAD"
 "url": "/pt/net/cad-technical-drawing-formats/convert-dxf-to-tex-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converta arquivos DXF para LaTeX (TEX) com GroupDocs.Conversion .NET
 
 ## Introdução

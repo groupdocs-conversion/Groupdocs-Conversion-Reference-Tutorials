@@ -8,10 +8,8 @@ keywords:
 - convert GIF to DOC
 - Word Processing Conversion
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # How to Convert a GIF to DOC Using GroupDocs.Conversion for .NET
 
 ## Introduction

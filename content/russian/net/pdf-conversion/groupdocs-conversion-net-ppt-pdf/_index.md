@@ -4,8 +4,8 @@
 "title": "Эффективное преобразование PPT в PDF в .NET с помощью GroupDocs.Conversion"
 "url": "/ru/net/pdf-conversion/groupdocs-conversion-net-ppt-pdf/"
 "weight": 1
+type: docs
 ---
-
 # Эффективное преобразование PPT в PDF в .NET с помощью GroupDocs.Conversion
 
 Конвертация презентаций PowerPoint (.ppt) в формат Portable Document Format (PDF) имеет важное значение в современном цифровом ландшафте. Будь то для безопасного обмена или архивирования, эта функциональность бесценна. В этом руководстве мы покажем вам, как использовать **GroupDocs.Конвертация для .NET** для эффективного преобразования ваших файлов PPT в PDF.

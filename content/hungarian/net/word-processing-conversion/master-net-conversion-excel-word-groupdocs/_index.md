@@ -4,8 +4,8 @@
 "title": ".NET dokumentumkonverzió mesterfokon&#58; Excelből Wordbe a GroupDocs.Conversion használatával"
 "url": "/hu/net/word-processing-conversion/master-net-conversion-excel-word-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Master .NET dokumentumkonverzió: Excelből Wordbe a GroupDocs.Conversion használatával
 
 ## Bevezetés

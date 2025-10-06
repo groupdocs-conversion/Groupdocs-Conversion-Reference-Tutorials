@@ -4,8 +4,8 @@
 "title": "Stapsgewijze handleiding&#58; JPF naar PSD converteren met GroupDocs.Conversion in .NET"
 "url": "/nl/net/image-formats-features/convert-jpf-to-psd-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Stapsgewijze handleiding: JPF naar PSD converteren met GroupDocs.Conversion in .NET
 
 **Converteer afbeeldingen efficiënt van JPF naar PSD met GroupDocs.Conversion voor .NET**

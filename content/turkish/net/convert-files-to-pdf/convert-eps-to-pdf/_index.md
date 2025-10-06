@@ -5,8 +5,8 @@
 "title": "EPS Kapsüllenmiş PostScript Dosyalarını PDF'ye Dönüştür"
 "url": "/tr/net/convert-files-to-pdf/convert-eps-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # EPS Kapsüllenmiş PostScript Dosyalarını PDF'ye Dönüştür
 
 ## giriiş

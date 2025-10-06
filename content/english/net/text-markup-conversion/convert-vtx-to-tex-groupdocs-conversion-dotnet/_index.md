@@ -8,10 +8,8 @@ keywords:
 - convert VTX to TEX
 - GroupDocs.Conversion for .NET
 - document format conversion
-
+type: docs
 ---
-
-
 # Convert VTX to TEX with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

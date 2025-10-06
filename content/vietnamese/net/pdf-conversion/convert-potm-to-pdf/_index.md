@@ -5,8 +5,8 @@
 "title": "Chuyển đổi POTM sang PDF"
 "url": "/vi/net/pdf-conversion/convert-potm-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # Chuyển đổi POTM sang PDF
 
 ## Giới thiệu

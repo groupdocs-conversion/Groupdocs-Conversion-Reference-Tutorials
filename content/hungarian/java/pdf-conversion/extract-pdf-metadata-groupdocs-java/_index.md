@@ -4,8 +4,8 @@
 "title": "PDF metaadatok kinyerése a GroupDocs.Conversion használatával Java-ban"
 "url": "/hu/java/pdf-conversion/extract-pdf-metadata-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # PDF metaadatok kinyerése a GroupDocs.Conversion használatával Java-ban
 
 ## Bevezetés

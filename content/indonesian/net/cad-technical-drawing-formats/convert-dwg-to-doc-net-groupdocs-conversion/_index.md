@@ -4,8 +4,8 @@
 "title": "Konversi DWG ke DOC dalam .NET dengan GroupDocs.Conversion untuk Transformasi Dokumen yang Mulus"
 "url": "/id/net/cad-technical-drawing-formats/convert-dwg-to-doc-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Konversi DWG ke DOC dalam .NET dengan GroupDocs.Conversion
 
 ## Perkenalan

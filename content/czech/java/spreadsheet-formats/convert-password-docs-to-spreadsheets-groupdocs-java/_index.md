@@ -4,8 +4,8 @@
 "title": "Jak převést heslem chráněné dokumenty Wordu do tabulek Excelu pomocí GroupDocs.Conversion pro Javu"
 "url": "/cs/java/spreadsheet-formats/convert-password-docs-to-spreadsheets-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést dokumenty chráněné heslem pomocí GroupDocs.Conversion pro Javu
 
 ## Zavedení

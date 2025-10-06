@@ -4,8 +4,8 @@
 "title": "Converti Visio VSTX in CSV in .NET&#58; una guida completa con GroupDocs.Conversion"
 "url": "/it/net/spreadsheet-formats-features/convert-visio-vstx-csv-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Convertire Visio VSTX in CSV in .NET utilizzando GroupDocs: una guida completa
 
 ## Introduzione

@@ -8,10 +8,8 @@ keywords:
 - convert EMLX to PNG
 - GroupDocs.Conversion for .NET
 - document management
-
+type: docs
 ---
-
-
 # How to Convert EMLX to PNG Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Преобразование основных файлов в Java. Подробное руководство по использованию GroupDocs.Conversion"
 "url": "/ru/java/document-operations/java-groupdocs-conversion-file-handling/"
 "weight": 1
+type: docs
 ---
-
 # Освоение преобразования файлов в Java: подробное руководство по использованию GroupDocs.Conversion
 
 ## Введение

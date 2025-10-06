@@ -4,8 +4,8 @@
 "title": "Jak převést soubory VDX do HTML pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/web-markup-formats/convert-vdx-to-html-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory VDX do HTML pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

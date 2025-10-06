@@ -4,8 +4,8 @@
 "title": "Как конвертировать файлы CGM в PowerPoint (PPT) с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/presentation-formats-features/convert-cgm-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Как преобразовать файлы CGM в презентации PowerPoint с помощью GroupDocs.Conversion для .NET
 
 ## Введение

@@ -8,10 +8,8 @@ keywords:
 - convert JPEG 2000 to PDF
 - GroupDocs.Conversion for .NET
 - file conversion
-
+type: docs
 ---
-
-
 # Step-by-Step Guide: Convert JPEG 2000 (.j2k) to PDF Using GroupDocs.Conversion for .NET
 
 ## Introduction

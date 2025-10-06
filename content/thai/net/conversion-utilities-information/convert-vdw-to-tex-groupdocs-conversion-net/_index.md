@@ -4,8 +4,8 @@
 "title": "วิธีการแปลงไฟล์ VDW เป็นรูปแบบ TEX โดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/conversion-utilities-information/convert-vdw-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการแปลงไฟล์ VDW เป็นรูปแบบ TEX โดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

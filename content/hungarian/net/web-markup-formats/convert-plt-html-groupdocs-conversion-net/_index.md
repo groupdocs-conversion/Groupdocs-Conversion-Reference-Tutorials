@@ -4,8 +4,8 @@
 "title": "PLT konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával | Lépésről lépésre útmutató"
 "url": "/hu/net/web-markup-formats/convert-plt-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PLT fájlok konvertálása HTML-be a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

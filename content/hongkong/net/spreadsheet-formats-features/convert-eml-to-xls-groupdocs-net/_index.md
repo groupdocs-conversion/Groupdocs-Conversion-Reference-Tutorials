@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中將 EML 轉換為 XLS — 逐步指南"
 "url": "/zh-hant/net/spreadsheet-formats-features/convert-eml-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 .NET 中將 EML 檔案轉換為 XLS：逐步指南
 
 ## 介紹

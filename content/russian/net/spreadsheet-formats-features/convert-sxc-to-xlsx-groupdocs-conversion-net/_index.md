@@ -4,8 +4,8 @@
 "title": "Конвертируйте SXC в XLSX в .NET с помощью GroupDocs.Conversion&#58; Подробное руководство"
 "url": "/ru/net/spreadsheet-formats-features/convert-sxc-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертация SXC в XLSX в .NET с помощью GroupDocs.Conversion: подробное руководство
 
 **Введение**

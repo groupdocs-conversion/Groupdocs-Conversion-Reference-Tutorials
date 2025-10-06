@@ -4,8 +4,8 @@
 "title": "Konwersja programu PowerPoint do programu Excel – przewodnik krok po kroku przy użyciu GroupDocs.Conversion dla platformy .NET"
 "url": "/pl/net/spreadsheet-conversion/convert-powerpoint-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja programu PowerPoint do programu Excel: przewodnik krok po kroku przy użyciu GroupDocs.Conversion dla platformy .NET
 
 ## Wstęp

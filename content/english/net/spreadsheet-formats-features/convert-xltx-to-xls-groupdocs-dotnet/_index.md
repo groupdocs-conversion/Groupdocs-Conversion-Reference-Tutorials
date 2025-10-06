@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert XLTX to XLS Using GroupDocs for .NET: A Comprehensive Guide
 
 ## Introduction

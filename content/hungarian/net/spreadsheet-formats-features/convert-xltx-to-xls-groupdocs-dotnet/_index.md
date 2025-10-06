@@ -4,8 +4,8 @@
 "title": "XLTX konvertálása XLS-be GroupDocs for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-xltx-to-xls-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # XLTX konvertálása XLS-be GroupDocs for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

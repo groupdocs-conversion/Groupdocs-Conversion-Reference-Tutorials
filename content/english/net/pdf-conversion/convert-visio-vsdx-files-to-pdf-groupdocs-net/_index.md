@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert Visio Files (VSD) to PDF Using GroupDocs.Conversion for .NET
 
 ## Introduction

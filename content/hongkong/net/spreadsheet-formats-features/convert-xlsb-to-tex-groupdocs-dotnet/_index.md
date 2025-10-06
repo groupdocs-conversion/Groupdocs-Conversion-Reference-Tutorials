@@ -4,8 +4,8 @@
 "title": "將 XLSB 轉換為 TEX — 使用 GroupDocs.Conversion for .NET 的逐步指南"
 "url": "/zh-hant/net/spreadsheet-formats-features/convert-xlsb-to-tex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 XLSB 轉換為 TEX
 
 ## 介紹

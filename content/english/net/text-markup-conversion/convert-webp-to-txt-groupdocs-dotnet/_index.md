@@ -8,10 +8,8 @@ keywords:
 - Convert WEBP to TXT
 - GroupDocs.Conversion for .NET
 - C# file conversion
-
+type: docs
 ---
-
-
 # Convert WEBP to TXT Using GroupDocs.Conversion for .NET
 
 ## Introduction

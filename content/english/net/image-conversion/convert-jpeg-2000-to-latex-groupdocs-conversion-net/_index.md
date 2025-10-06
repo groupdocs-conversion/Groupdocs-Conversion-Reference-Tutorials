@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert JPEG 2000 to LaTeX Using GroupDocs.Conversion for .NET
 
 ## Introduction

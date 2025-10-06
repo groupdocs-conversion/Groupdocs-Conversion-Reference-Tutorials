@@ -4,8 +4,8 @@
 "title": "Převod konkrétních stránek do PDF pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/pdf-conversion-features/groupdocs-conversion-dotnet-convert-pages-to-pdf/"
 "weight": 1
+type: docs
 ---
-
 # Převod konkrétních stránek do PDF pomocí GroupDocs.Conversion pro .NET: Komplexní průvodce
 
 ## Zavedení

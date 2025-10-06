@@ -5,8 +5,8 @@
 "title": "JPX'i PDF'e dönüştür"
 "url": "/tr/net/document-conversion/convert-jpx-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # JPX'i PDF'e dönüştür
 
 ## giriiş

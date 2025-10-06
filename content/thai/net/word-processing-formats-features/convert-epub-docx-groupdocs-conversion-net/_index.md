@@ -4,8 +4,8 @@
 "title": "วิธีการแปลง EPUB เป็น DOCX โดยใช้ GroupDocs.Conversion .NET พร้อมคำแนะนำทีละขั้นตอน"
 "url": "/th/net/word-processing-formats-features/convert-epub-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการแปลงไฟล์ EPUB เป็น DOCX โดยใช้ GroupDocs.Conversion .NET
 
 ## การแนะนำ

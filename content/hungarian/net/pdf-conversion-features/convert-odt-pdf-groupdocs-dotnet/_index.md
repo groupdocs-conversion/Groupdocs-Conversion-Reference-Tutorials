@@ -4,8 +4,8 @@
 "title": "Hatékony ODT-ből PDF-be konvertálási útmutató a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/pdf-conversion-features/convert-odt-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony ODT-ből PDF-be konvertálás: Útmutató a GroupDocs.Conversion for .NET használatához
 
 ## Bevezetés

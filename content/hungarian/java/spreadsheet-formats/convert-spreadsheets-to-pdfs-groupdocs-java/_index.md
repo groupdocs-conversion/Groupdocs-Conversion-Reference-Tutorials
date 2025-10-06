@@ -4,8 +4,8 @@
 "title": "Táblázatok konvertálása PDF-fájlokká a GroupDocs segítségével. Conversion for Java – Átfogó útmutató"
 "url": "/hu/java/spreadsheet-formats/convert-spreadsheets-to-pdfs-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Táblázatok konvertálása PDF-fájlokká a GroupDocs.Conversion for Java segítségével: Átfogó útmutató
 
 ## Bevezetés

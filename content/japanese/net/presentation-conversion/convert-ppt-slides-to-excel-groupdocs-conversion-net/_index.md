@@ -4,8 +4,8 @@
 "title": "PPTスライドをExcelに変換する - GroupDocs.Conversion for .NETをマスターする"
 "url": "/ja/net/presentation-conversion/convert-ppt-slides-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET で PPT スライドを Excel に変換する
 
 ## 導入

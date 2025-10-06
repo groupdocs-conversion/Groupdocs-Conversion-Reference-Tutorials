@@ -4,8 +4,8 @@
 "title": "تحسين تحويل مستندات .NET باستخدام التخزين المؤقت باستخدام GroupDocs.Conversion"
 "url": "/ar/net/cache-management/optimize-net-document-conversion-caching-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # تحسين تحويل مستندات .NET باستخدام التخزين المؤقت باستخدام GroupDocs.Conversion
 
 ## مقدمة

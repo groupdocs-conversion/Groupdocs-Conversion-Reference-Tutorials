@@ -4,8 +4,8 @@
 "title": "Podrobný návod k převodu XLSM do JPG pomocí GroupDocs.Conversion .NET"
 "url": "/cs/net/image-conversion/convert-xlsm-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod XLSM do JPG pomocí GroupDocs.Conversion .NET
 ## Zavedení
 Chcete bezproblémově převést makra z Excelu (XLSM) do vizuálních snímků ve formě obrázků? Převod souborů XLSM do formátu JPG může být klíčový pro sdílení dat s uživateli, kteří nepoužívají Excel, nebo pro integraci tabulek do prezentací a dokumentů. Tento tutoriál vás provede používáním GroupDocs.Conversion .NET, robustní knihovny, která tento proces převodu zjednodušuje.

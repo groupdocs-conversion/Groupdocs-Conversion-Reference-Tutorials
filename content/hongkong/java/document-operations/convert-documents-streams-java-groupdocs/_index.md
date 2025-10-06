@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 從 Java 中的串流轉換文檔"
 "url": "/zh-hant/java/document-operations/convert-documents-streams-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 從 Java 中的串流轉換文檔
 
 ## 介紹

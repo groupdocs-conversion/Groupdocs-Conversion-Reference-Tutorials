@@ -4,8 +4,8 @@
 "title": "Chuyển đổi PDF sang Excel bằng GroupDocs.Conversion cho .NET - Hướng dẫn toàn diện"
 "url": "/vi/net/spreadsheet-conversion/convert-pdf-to-excel-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi PDF sang Excel bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

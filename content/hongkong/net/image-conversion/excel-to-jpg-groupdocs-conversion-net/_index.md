@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中將 Excel 轉換為 JPG 的逐步指南"
 "url": "/zh-hant/net/image-conversion/excel-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 在 .NET 中將 Excel 轉換為 JPG：使用 GroupDocs.Conversion 的逐步指南
 
 ## 介紹

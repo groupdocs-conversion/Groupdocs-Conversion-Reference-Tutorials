@@ -4,8 +4,8 @@
 "title": "Làm chủ GroupDocs.Conversion .NET để chuyển đổi email và tệp - Hướng dẫn toàn diện"
 "url": "/vi/net/email-formats-features/mastering-groupdocs-conversion-net-email-file-convert/"
 "weight": 1
+type: docs
 ---
-
 # Làm chủ GroupDocs.Conversion .NET để chuyển đổi Email và Tệp: Hướng dẫn toàn diện
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion ライブラリを使用した Java での効率的な PDF 変換"
 "url": "/ja/java/pdf-conversion/convert-local-documents-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion を使用した Java での効率的な PDF 変換
 
 ## 導入

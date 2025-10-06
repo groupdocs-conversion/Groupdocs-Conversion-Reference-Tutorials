@@ -4,8 +4,8 @@
 "title": "แปลง DOT เป็น TEX โดยใช้ GroupDocs.Conversion ใน .NET คำแนะนำทีละขั้นตอน"
 "url": "/th/net/text-file-processing/convert-dot-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลง DOT เป็น TEX โดยใช้ GroupDocs.Conversion ใน .NET: คำแนะนำทีละขั้นตอน
 
 ## การแนะนำ

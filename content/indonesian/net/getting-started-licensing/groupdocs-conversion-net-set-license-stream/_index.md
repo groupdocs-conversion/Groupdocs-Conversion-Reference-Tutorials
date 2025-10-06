@@ -4,8 +4,8 @@
 "title": "Tetapkan Lisensi dari Stream di GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/getting-started-licensing/groupdocs-conversion-net-set-license-stream/"
 "weight": 1
+type: docs
 ---
-
 # Tetapkan Lisensi dari Stream di GroupDocs.Conversion untuk .NET: Panduan Lengkap
 
 ## Perkenalan

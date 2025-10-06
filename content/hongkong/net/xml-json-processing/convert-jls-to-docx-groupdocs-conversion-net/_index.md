@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 將 JLS 轉換為 DOCX——逐步指南"
 "url": "/zh-hant/net/xml-json-processing/convert-jls-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將 JLS 轉換為 DOCX：逐步指南
 
 ## 介紹

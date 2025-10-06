@@ -4,8 +4,8 @@
 "title": "Konvertera effektivt DWFX till DOC med GroupDocs.Conversion för .NET"
 "url": "/sv/net/word-processing-formats-features/convert-dwfx-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera effektivt DWFX till DOC med GroupDocs.Conversion för .NET
 
 I dagens digitala miljö är sömlös dokumentkonvertering avgörande i olika professionella sammanhang. Den här handledningen visar dig hur du konverterar DWFX-filer till DOC-format med hjälp av det kraftfulla GroupDocs.Conversion-biblioteket för .NET.

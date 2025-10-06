@@ -5,8 +5,8 @@
 "title": "Převod souborů DWF CAD do PDF"
 "url": "/cs/net/file-conversion-to-pdf/convert-dwf-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # Převod souborů DWF CAD do PDF
 
 ## Zavedení

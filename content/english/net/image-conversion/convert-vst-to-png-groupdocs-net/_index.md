@@ -8,10 +8,8 @@ keywords:
 - convert VST to PNG
 - GroupDocs.Conversion for .NET
 - Visio stencil conversion
-
+type: docs
 ---
-
-
 # Convert VST to PNG with GroupDocs.Conversion for .NET
 
 ## Introduction

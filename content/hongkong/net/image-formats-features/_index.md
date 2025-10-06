@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 的圖片格式和功能教學課程"
 "url": "/zh-hant/net/image-formats-features/"
 "weight": 13
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 的圖片格式和功能教學課程
 
 透過我們為 .NET 開發人員提供的詳細 GroupDocs.Conversion 教學來探索影像處理功能。這些逐步指南示範如何將文件轉換為各種圖像格式、如何實現 OCR 從圖像中提取文字、如何控制圖像解析度和品質、如何管理顏色深度和透明度、如何指定向量格式的渲染選項、如何在圖像轉換期間保留元資料以及如何批量處理多個圖像。每個教學課程都包含適用於影像轉換場景的實用 C# 程式碼範例，可協助您建立能夠有效地將文件轉換為視覺化表示或從基於影像的格式中提取內容的應用程式。

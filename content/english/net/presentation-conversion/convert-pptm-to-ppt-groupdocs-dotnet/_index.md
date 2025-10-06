@@ -8,10 +8,8 @@ keywords:
 - convert PPTM to PPT
 - GroupDocs.Conversion for .NET
 - PowerPoint conversion
-
+type: docs
 ---
-
-
 # Convert PPTM to PPT Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 In the business world, PowerPoint presentations are essential tools. However, not everyone has access to the latest Microsoft Office versions, necessitating conversions from PPTM (PowerPoint files with macros) to PPT (older PowerPoint format). This guide will walk you through using GroupDocs.Conversion for .NET to seamlessly convert PPTM files into PPT format.

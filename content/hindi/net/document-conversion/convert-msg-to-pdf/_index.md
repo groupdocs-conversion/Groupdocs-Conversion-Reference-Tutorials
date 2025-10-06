@@ -5,8 +5,8 @@
 "title": "MSG को PDF में बदलें"
 "url": "/hi/net/document-conversion/convert-msg-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # MSG को PDF में बदलें
 
 ## परिचय

@@ -3,8 +3,8 @@
 "title": "Tutoriales de conversión de texto y marcado para GroupDocs.Conversion .NET"
 "url": "/es/net/text-markup-conversion/"
 "weight": 32
+type: docs
 ---
-
 # Tutoriales de conversión de texto y marcado para GroupDocs.Conversion .NET
 
 Explora la conversión de formatos de texto con nuestros detallados tutoriales de GroupDocs.Conversion para desarrolladores .NET. Estas guías paso a paso muestran cómo convertir documentos enriquecidos a texto plano, XML, Markdown, TeX y otros formatos de texto. Aprende sobre opciones de codificación, técnicas de extracción de texto, manejo de caracteres especiales, preservación de la estructura del documento, mantenimiento de relaciones jerárquicas en formatos de marcado e implementación de políticas de formato de texto. Cada tutorial incluye ejemplos prácticos de código C# para crear representaciones de texto de tus documentos que capturan el contenido esencial en formatos simples, portátiles y fáciles de analizar.

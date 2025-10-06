@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET elsajátítása e-mail és fájlkonvertáláshoz – Átfogó útmutató"
 "url": "/hu/net/email-formats-features/mastering-groupdocs-conversion-net-email-file-convert/"
 "weight": 1
+type: docs
 ---
-
 # A GroupDocs.Conversion .NET elsajátítása e-mail és fájlkonvertáláshoz: Átfogó útmutató
 
 ## Bevezetés

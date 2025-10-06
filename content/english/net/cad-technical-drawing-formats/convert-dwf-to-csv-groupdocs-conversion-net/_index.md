@@ -8,10 +8,8 @@ keywords:
 - convert DWF to CSV
 - GroupDocs.Conversion for .NET
 - DWF file conversion
-
+type: docs
 ---
-
-
 # Convert DWF Files to CSV Using GroupDocs.Conversion for .NET
 
 ## Introduction

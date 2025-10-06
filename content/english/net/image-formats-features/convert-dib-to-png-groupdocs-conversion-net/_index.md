@@ -8,10 +8,8 @@ keywords:
 - convert DIB to PNG
 - GroupDocs.Conversion .NET
 - image conversion in C#
-
+type: docs
 ---
-
-
 # Convert DIB to PNG Using GroupDocs.Conversion for .NET
 
 ## Introduction

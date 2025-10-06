@@ -5,8 +5,8 @@
 "title": "VDX'i PDF'ye dönüştür"
 "url": "/tr/net/file-format-conversion-tutorials/convert-vdx-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # VDX'i PDF'ye dönüştür
 
 ## giriiş

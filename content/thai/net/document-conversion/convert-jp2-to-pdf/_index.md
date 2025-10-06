@@ -5,8 +5,8 @@
 "title": "แปลง JP2 เป็น PDF"
 "url": "/th/net/document-conversion/convert-jp2-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # แปลง JP2 เป็น PDF
 
 ## การแนะนำ

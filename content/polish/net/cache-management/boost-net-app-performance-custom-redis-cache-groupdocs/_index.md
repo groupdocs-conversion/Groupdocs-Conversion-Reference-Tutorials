@@ -4,8 +4,8 @@
 "title": "Zwiększ wydajność aplikacji .NET i wdróż niestandardową pamięć podręczną Redis za pomocą GroupDocs.Conversion"
 "url": "/pl/net/cache-management/boost-net-app-performance-custom-redis-cache-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Zwiększ wydajność swojej aplikacji .NET dzięki niestandardowemu buforowaniu Redis przy użyciu GroupDocs.Conversion
 
 ## Wstęp

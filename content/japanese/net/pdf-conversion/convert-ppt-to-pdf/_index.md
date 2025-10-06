@@ -5,8 +5,8 @@
 "title": "PPTをPDFに変換する"
 "url": "/ja/net/pdf-conversion/convert-ppt-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # PPTをPDFに変換する
 
 ## 導入

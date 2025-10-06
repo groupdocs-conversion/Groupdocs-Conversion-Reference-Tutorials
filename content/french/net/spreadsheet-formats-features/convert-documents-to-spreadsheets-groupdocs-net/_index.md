@@ -4,8 +4,8 @@
 "title": "Conversion efficace de documents en feuilles de calcul grâce à GroupDocs.Conversion pour .NET"
 "url": "/fr/net/spreadsheet-formats-features/convert-documents-to-spreadsheets-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Conversion efficace de documents en feuilles de calcul grâce à GroupDocs.Conversion pour .NET
 
 ## Introduction

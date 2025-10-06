@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して OXPS ファイルを PDF に変換する方法 | PDF 変換ガイド"
 "url": "/ja/net/pdf-conversion/convert-oxps-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して OXPS ファイルを PDF に変換する方法
 
 ## 導入

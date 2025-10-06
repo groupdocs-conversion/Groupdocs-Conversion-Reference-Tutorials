@@ -4,8 +4,8 @@
 "title": "JP2 konvertálása DOC-ba a GroupDocs.Conversion .NET használatával – Átfogó útmutató"
 "url": "/hu/net/word-processing-conversion/convert-jp2-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # JP2 fájlok DOC formátumba konvertálása a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

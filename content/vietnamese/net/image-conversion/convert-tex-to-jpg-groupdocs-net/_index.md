@@ -4,8 +4,8 @@
 "title": "Chuyển đổi LaTeX (TEX) sang JPG hiệu quả bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/image-conversion/convert-tex-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi LaTeX (TEX) sang JPG hiệu quả bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

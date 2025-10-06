@@ -8,10 +8,8 @@ keywords:
 - convert MOBI to CSV
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Convert MOBI Files to CSV Using GroupDocs.Conversion for .NET
 
 ## Introduction

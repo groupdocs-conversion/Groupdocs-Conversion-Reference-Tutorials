@@ -3,8 +3,8 @@
 "title": "Výukové programy pro webové a značkovací formáty v GroupDocs.Conversion .NET"
 "url": "/cs/net/web-markup-formats/"
 "weight": 19
+type: docs
 ---
-
 # Výukové programy pro webové a značkovací formáty v GroupDocs.Conversion .NET
 
 Naše tutoriály pro převod webových formátů poskytují komplexní pokyny pro práci se značkovacími jazyky v aplikacích .NET. Tyto podrobné návody ukazují, jak převádět dokumenty do formátu HTML a z něj, přidávat číslování stránek do webových dokumentů, pracovat se styly CSS, spravovat vložené zdroje, implementovat responzivní rozvržení, řídit chování při vkládání obrázků, zachovávat hypertextové odkazy a udržovat strukturu dokumentu. Každý tutoriál obsahuje kompletní příklady kódu C# pro scénáře převodu webových formátů, které vám pomohou vytvářet aplikace, které dokáží efektivně překlenout propast mezi formáty dokumentů a webovým obsahem.

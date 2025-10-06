@@ -3,8 +3,8 @@
 "title": "Tutorial Konversi Spreadsheet untuk GroupDocs.Conversion .NET"
 "url": "/id/net/spreadsheet-conversion/"
 "weight": 30
+type: docs
 ---
-
 # Tutorial Konversi Spreadsheet untuk GroupDocs.Conversion .NET
 
 Pelajari cara mengubah dokumen ke dalam format spreadsheet yang dapat diedit dengan tutorial GroupDocs.Conversion .NET kami. Panduan terperinci ini menunjukkan cara mengonversi dari PDF, Word, HTML, gambar, dan format lain ke XLS, XLSX, CSV, ODS, dan lainnya. Temukan teknik untuk menyimpan kalkulasi dan rumus, mempertahankan format sel, menangani dokumen multi-sheet, mengelola header dan footer, dan mengendalikan konversi tipe data. Setiap tutorial menyertakan contoh kode C# yang berfungsi yang menunjukkan cara membuat dokumen spreadsheet yang secara akurat mewakili konten sumber sekaligus memungkinkan analisis dan manipulasi data.

@@ -5,8 +5,8 @@
 "title": "แปลง PSD เป็น PDF"
 "url": "/th/net/file-format-conversion-tutorials/convert-psd-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # แปลง PSD เป็น PDF
 
 ## การแนะนำ

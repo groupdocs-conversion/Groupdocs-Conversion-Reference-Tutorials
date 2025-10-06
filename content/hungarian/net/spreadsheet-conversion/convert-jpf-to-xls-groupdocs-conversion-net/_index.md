@@ -4,8 +4,8 @@
 "title": "JPF-fájl XLS-fájllá konvertálása a GroupDocs.Conversion for .NET segítségével | Táblázatkezelő-konverziós útmutató"
 "url": "/hu/net/spreadsheet-conversion/convert-jpf-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # JPF-fájl XLS-fájllá konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

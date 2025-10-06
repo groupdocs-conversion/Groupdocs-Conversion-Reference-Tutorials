@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 实现高效的 TSV 到 PNG 转换"
 "url": "/zh/net/image-conversion/convert-tsv-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 实现高效的 TSV 到 PNG 转换
 ## 介绍
 还在为如何将制表符分隔值 (TSV) 文件转换为美观的 PNG 图像而苦恼吗？本指南将指导您如何使用 **GroupDocs.Conversion for .NET** 无缝转换数据格式，增强可视化和报告功能。完成本教程后，您将能够在项目中实现此功能。

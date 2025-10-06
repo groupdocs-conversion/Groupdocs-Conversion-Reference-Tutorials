@@ -4,8 +4,8 @@
 "title": "Comment charger et convertir des fichiers OTS avec GroupDocs.Conversion pour .NET"
 "url": "/fr/net/spreadsheet-formats-features/load-ots-file-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Comment charger et convertir des fichiers OTS avec GroupDocs.Conversion pour .NET
 
 Dans le paysage numérique actuel, la gestion de différents formats de documents est essentielle pour les entreprises et les développeurs. Qu'il s'agisse de factures ou de contrats, leur conversion dans des formats universellement acceptés permet de gagner du temps et de l'argent. Ce tutoriel vous guidera dans le chargement et la conversion d'un fichier OpenDocument Spreadsheet Text (OTS) à l'aide de la puissante bibliothèque GroupDocs.Conversion pour .NET.

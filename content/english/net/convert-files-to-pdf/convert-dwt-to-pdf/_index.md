@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Learn how to convert DWT CAD template files to PDF format effortlessly using GroupDocs.Conversion for .NET.
 weight: 11
 url: /net/convert-files-to-pdf/convert-dwt-to-pdf/
+type: docs
 ---
-
 # Convert DWT CAD Template Files to PDF
 
 ## Introduction

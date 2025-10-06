@@ -4,8 +4,8 @@
 "title": "Uitgebreide handleiding voor de installatie en implementatie van GroupDocs.Conversion voor .NET"
 "url": "/nl/net/getting-started-licensing/groupdocs-conversion-net-setup-guide/"
 "weight": 1
+type: docs
 ---
-
 # Uitgebreide handleiding voor GroupDocs.Conversion voor .NET: installatie en implementatie
 
 ## Invoering

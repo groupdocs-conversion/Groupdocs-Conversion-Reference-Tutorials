@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 將 CSV 檔案轉換為具有特定編碼的 PDF"
 "url": "/zh-hant/net/csv-structured-data-processing/convert-csv-pdf-specific-encoding-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將 CSV 檔案轉換為具有特定編碼的 PDF
 
 ## 介紹

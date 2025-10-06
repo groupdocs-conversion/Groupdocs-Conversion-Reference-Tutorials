@@ -4,8 +4,8 @@
 "title": "แปลง OneNote เป็น PSD โดยใช้ GroupDocs.Conversion สำหรับ .NET - คู่มือการแปลงรูปภาพอย่างง่าย"
 "url": "/th/net/image-conversion/convert-onenote-to-psd-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # แปลงไฟล์ OneNote เป็น PSD ด้วย GroupDocs.Conversion สำหรับ .NET
 ## คู่มือการแปลงรูปภาพ
 คุณกำลังมองหาวิธีแปลงไฟล์ Microsoft OneNote ของคุณเป็นรูปแบบ Adobe Photoshop Document (PSD) อย่างมีประสิทธิภาพหรือไม่ บทช่วยสอนนี้จะแสดงวิธีการใช้ไลบรารี GroupDocs.Conversion ที่ทรงพลังในสภาพแวดล้อม .NET ด้วยการใช้ประโยชน์จาก GroupDocs.Conversion สำหรับ .NET คุณสามารถผสานรวมความสามารถในการแปลงไฟล์ลงในแอปพลิเคชันของคุณได้โดยตรง

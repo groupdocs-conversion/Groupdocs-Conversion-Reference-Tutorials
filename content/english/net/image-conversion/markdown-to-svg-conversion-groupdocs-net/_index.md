@@ -8,10 +8,8 @@ keywords:
 - Markdown to SVG Conversion
 - GroupDocs.Conversion for .NET
 - C# Document Conversion
-
+type: docs
 ---
-
-
 # Efficient Markdown to SVG Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

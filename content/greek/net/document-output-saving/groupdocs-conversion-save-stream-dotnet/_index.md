@@ -4,8 +4,8 @@
 "title": "Πώς να αποθηκεύσετε αρχεία για ροή χρησιμοποιώντας το GroupDocs.Conversion σε .NET | Οδηγός βήμα προς βήμα"
 "url": "/el/net/document-output-saving/groupdocs-conversion-save-stream-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να υλοποιήσετε το GroupDocs.Conversion .NET: Αποθήκευση ενός αρχείου που έχει μετατραπεί σε μια ροή
 
 ## Εισαγωγή

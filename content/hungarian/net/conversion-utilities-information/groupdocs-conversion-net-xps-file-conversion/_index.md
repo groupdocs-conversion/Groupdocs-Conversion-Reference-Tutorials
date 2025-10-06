@@ -4,8 +4,8 @@
 "title": "XPS konvertálása PDF-be és más formátumokba a GroupDocs.Conversion .NET használatával"
 "url": "/hu/net/conversion-utilities-information/groupdocs-conversion-net-xps-file-conversion/"
 "weight": 1
+type: docs
 ---
-
 # XPS konvertálása PDF-be és más formátumokba a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

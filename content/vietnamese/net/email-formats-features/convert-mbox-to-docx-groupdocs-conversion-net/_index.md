@@ -4,8 +4,8 @@
 "title": "Chuyển đổi MBOX sang DOCX hiệu quả bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/email-formats-features/convert-mbox-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi MBOX sang DOCX hiệu quả bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

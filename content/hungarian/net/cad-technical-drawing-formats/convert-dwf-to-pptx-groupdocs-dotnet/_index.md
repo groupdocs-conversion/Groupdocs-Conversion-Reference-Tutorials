@@ -4,8 +4,8 @@
 "title": "DWF fájlok PPTX formátumba konvertálása a .NET GroupDocs.Conversion segítségével a zökkenőmentes prezentációkhoz"
 "url": "/hu/net/cad-technical-drawing-formats/convert-dwf-to-pptx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # DWF-fájlok PPTX-fájlokká konvertálása GroupDocs segítségével .NET-ben
 ## Bevezetés
 PowerPointban szeretne bemutatni egy tervet, de egy Design Web Format (DWF) fájllal kezdeni? Ez az oktatóanyag végigvezeti Önt a DWF fájlok PowerPoint Open XML Presentation (.pptx) formátumba konvertálásának folyamatán a GroupDocs.Conversion for .NET segítségével. Ennek a hatékony könyvtárnak a kihasználásával zökkenőmentesen alakíthat át összetett terveket hozzáférhető és professzionális prezentációkká.

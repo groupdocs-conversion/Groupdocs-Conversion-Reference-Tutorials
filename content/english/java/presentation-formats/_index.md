@@ -3,8 +3,8 @@ title: "Presentation Formats Conversion Tutorials for GroupDocs.Conversion Java"
 description: "Step-by-step tutorials for converting to and from Presentation formats (PPT, PPTX, ODP) using GroupDocs.Conversion for Java."
 weight: 7
 url: "/java/presentation-formats/"
+type: docs
 ---
-
 # Presentation Formats Conversion Tutorials for GroupDocs.Conversion Java
 
 Our presentation conversion tutorials show you how to transform presentation files using GroupDocs.Conversion in Java. These practical guides walk through converting PowerPoint formats, maintaining animations and transitions, preserving speaker notes, handling embedded media, and ensuring layout consistency during conversion. Each tutorial includes detailed Java code examples for common presentation conversion scenarios, helping you build applications that produce high-quality conversions with preserved visual elements and interactive features.

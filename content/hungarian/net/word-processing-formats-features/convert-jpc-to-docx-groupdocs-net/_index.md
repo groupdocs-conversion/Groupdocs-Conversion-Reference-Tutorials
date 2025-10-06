@@ -4,8 +4,8 @@
 "title": "JPC fájlok DOCX formátumba konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/word-processing-formats-features/convert-jpc-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # JPC fájlok DOCX formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

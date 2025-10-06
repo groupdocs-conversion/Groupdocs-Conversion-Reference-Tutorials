@@ -8,10 +8,8 @@ keywords:
 - Convert WEBP to PPTX
 - GroupDocs.Conversion .NET
 - file conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert WEBP to PPTX Efficiently Using GroupDocs.Conversion .NET
 
 ## Introduction

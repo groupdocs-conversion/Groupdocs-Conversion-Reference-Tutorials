@@ -4,8 +4,8 @@
 "title": "Πώς να ρυθμίσετε και να εφαρμόσετε μια άδεια χρήσης για το GroupDocs.Conversion .NET™ - Οδηγός βήμα προς βήμα"
 "url": "/el/net/getting-started-licensing/groupdocs-conversion-net-license-setup/"
 "weight": 1
+type: docs
 ---
-
 # Πλήρες σεμινάριο: Ρύθμιση άδειας χρήσης για το GroupDocs.Conversion .NET
 
 ## Εισαγωγή

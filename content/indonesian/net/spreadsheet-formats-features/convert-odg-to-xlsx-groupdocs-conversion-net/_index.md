@@ -4,8 +4,8 @@
 "title": "Konversi ODG ke XLSX dengan mudah menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/spreadsheet-formats-features/convert-odg-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi ODG ke XLSX dengan mudah menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

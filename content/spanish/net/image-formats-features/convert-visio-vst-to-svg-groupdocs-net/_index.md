@@ -4,8 +4,8 @@
 "title": "Cómo convertir plantillas de dibujo de Visio (.vst) a SVG mediante GroupDocs.Conversion para .NET"
 "url": "/es/net/image-formats-features/convert-visio-vst-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir plantillas de dibujo de Visio (.vst) a SVG mediante GroupDocs.Conversion para .NET
 
 ## Introducción

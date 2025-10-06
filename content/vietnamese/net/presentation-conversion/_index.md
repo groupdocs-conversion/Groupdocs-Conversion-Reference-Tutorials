@@ -3,8 +3,8 @@
 "title": "Hướng dẫn chuyển đổi bản trình bày cho GroupDocs.Conversion .NET"
 "url": "/vi/net/presentation-conversion/"
 "weight": 31
+type: docs
 ---
-
 # Hướng dẫn chuyển đổi bản trình bày cho GroupDocs.Conversion .NET
 
 Hướng dẫn chuyển đổi bản trình bày của chúng tôi sẽ chỉ cho bạn cách chuyển đổi tài liệu thành định dạng dựa trên slide bằng GroupDocs.Conversion trong .NET. Các hướng dẫn thực tế này bao gồm chuyển đổi từ PDF, Word, Excel, hình ảnh và các định dạng khác sang PPT, PPTX, ODP, v.v. Tìm hiểu về việc bảo toàn các thành phần trực quan, duy trì hoạt ảnh khi có thể, xử lý chuyển đổi slide, tạo ghi chú của người nói, quản lý phương tiện nhúng và kiểm soát bố cục slide trong quá trình chuyển đổi. Mỗi hướng dẫn đều bao gồm các ví dụ mã C# chi tiết để tạo tài liệu trình bày có hiệu quả thể hiện nội dung nguồn ở định dạng được thiết kế để trình bày cho khán giả.

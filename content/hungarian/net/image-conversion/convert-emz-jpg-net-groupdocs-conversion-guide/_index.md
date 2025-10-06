@@ -4,8 +4,8 @@
 "title": "EMZ konvertálása JPG-vé .NET-ben&#58; Lépésről lépésre útmutató a GroupDocs.Conversion használatával"
 "url": "/hu/net/image-conversion/convert-emz-jpg-net-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató: EMZ konvertálása JPG-vé a GroupDocs.Conversion segítségével .NET-ben
 
 ## Bevezetés

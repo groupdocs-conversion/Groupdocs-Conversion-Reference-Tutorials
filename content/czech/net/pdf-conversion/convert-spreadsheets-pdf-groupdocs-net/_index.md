@@ -4,8 +4,8 @@
 "title": "Bezproblémový převod tabulek do PDF pomocí GroupDocs.Conversion v .NET"
 "url": "/cs/net/pdf-conversion/convert-spreadsheets-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Bezproblémový převod tabulek do PDF pomocí GroupDocs.Conversion v .NET
 
 ## Zavedení

@@ -5,8 +5,8 @@
 "title": "Převod metasouborů EMF systému Windows do PDF"
 "url": "/cs/net/convert-files-to-pdf/convert-emf-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # Převod metasouborů EMF systému Windows do PDF
 
 ## Zavedení

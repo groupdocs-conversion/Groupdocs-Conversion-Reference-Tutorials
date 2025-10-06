@@ -4,8 +4,8 @@
 "title": "Převod WEBP do TXT pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/text-markup-conversion/convert-webp-to-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod WEBP do TXT pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

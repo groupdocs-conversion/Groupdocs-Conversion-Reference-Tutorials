@@ -4,8 +4,8 @@
 "title": "TIFF fájlok PSD fájlokká konvertálása a GroupDocs.Conversion for .NET segítségével – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-tiff-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # TIFF fájlok PSD fájlokká konvertálása a GroupDocs.Conversion for .NET segítségével: lépésről lépésre útmutató
 
 ## Bevezetés

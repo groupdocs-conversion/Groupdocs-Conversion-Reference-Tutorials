@@ -4,8 +4,8 @@
 "title": "Come convertire i file EMZ in HTML utilizzando GroupDocs.Conversion per .NET&#58; una guida passo passo"
 "url": "/it/net/web-markup-formats/convert-emz-files-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire i file EMZ in HTML utilizzando GroupDocs.Conversion per .NET: una guida passo passo
 
 ## Introduzione

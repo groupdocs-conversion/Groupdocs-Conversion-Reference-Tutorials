@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して、隠しシートを含む XLSX ファイルを PDF に変換する方法"
 "url": "/ja/net/spreadsheet-formats-features/convert-xlsx-hidden-sheets-to-pdf-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して、隠しシートを含む XLSX ファイルを PDF に変換する方法
 
 ## 導入

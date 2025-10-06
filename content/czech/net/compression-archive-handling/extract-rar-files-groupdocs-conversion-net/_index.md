@@ -4,8 +4,8 @@
 "title": "Efektivní extrakce souborů RAR pomocí GroupDocs.Conversion v .NET – Průvodce pro vývojáře"
 "url": "/cs/net/compression-archive-handling/extract-rar-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní extrakce souborů RAR pomocí GroupDocs.Conversion v .NET: Průvodce pro vývojáře
 
 ## Zavedení

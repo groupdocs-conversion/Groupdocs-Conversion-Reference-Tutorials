@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie Excel-Dateien mit versteckten Blättern mit Java und GroupDocs.Conversion in PDFs"
 "url": "/de/java/pdf-conversion/convert-excel-hidden-sheets-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie Excel-Dateien mit versteckten Blättern mit Java und GroupDocs.Conversion in PDFs
 
 ## Einführung

@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion .NET
 - WMZ to PPT conversion
 - file format conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert WMZ to PPT Using GroupDocs.Conversion for .NET
 
 ## Introduction

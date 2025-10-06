@@ -4,8 +4,8 @@
 "title": "Преобразование электронных таблиц в PDF-файлы с помощью GroupDocs.Conversion для .NET&#58; пошаговое руководство"
 "url": "/ru/net/pdf-conversion/convert-spreadsheets-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Преобразование электронных таблиц в PDF-файлы с помощью GroupDocs.Conversion для .NET: пошаговое руководство
 
 ## Введение

@@ -4,8 +4,8 @@
 "title": ".NET में GroupDocs.Conversion का उपयोग करके PPSX को CSV में कुशलतापूर्वक परिवर्तित करें"
 "url": "/hi/net/spreadsheet-formats-features/converting-ppsx-to-csv-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET में GroupDocs.Conversion का उपयोग करके PPSX से CSV का कुशल रूपांतरण
 ## परिचय
 क्या आप अपने पावरपॉइंट प्रेजेंटेशन को अधिक प्रबंधनीय और विश्लेषण योग्य डेटा प्रारूप में बदलना चाहते हैं? PPSX फ़ाइलों को CSV में कनवर्ट करने से डेटा प्रोसेसिंग क्षमताएँ काफ़ी हद तक बढ़ सकती हैं। यह ट्यूटोरियल आपको .NET के लिए GroupDocs.Conversion का उपयोग करने के माध्यम से मार्गदर्शन करता है, जिससे एक कुशल रूपांतरण प्रक्रिया सुनिश्चित होती है।

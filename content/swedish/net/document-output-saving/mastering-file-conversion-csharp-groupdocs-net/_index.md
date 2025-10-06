@@ -4,8 +4,8 @@
 "title": "Bemästra filkonvertering i C# med GroupDocs.Conversion för .NET"
 "url": "/sv/net/document-output-saving/mastering-file-conversion-csharp-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Bemästra filkonvertering i C#: Implementera GroupDocs.Conversion för .NET
 
 ## Introduktion

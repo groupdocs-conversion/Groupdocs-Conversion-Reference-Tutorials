@@ -4,8 +4,8 @@
 "title": "POTM HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/html-conversion/convert-potm-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # POTM HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 ## Bevezetés
 A PowerPoint-sablonok megosztása Microsoft PowerPoint-hozzáférés nélkül, illetve a prezentációk webhelyekre való beágyazása kihívást jelenthet. **GroupDocs.Conversion .NET-hez**A Microsoft PowerPoint sablonfájlok (.potm) HTML-be konvertálása zökkenőmentes és hatékony. Ez az átfogó útmutató végigvezeti Önt ennek a robusztus könyvtárnak a használatán, könnyedén.

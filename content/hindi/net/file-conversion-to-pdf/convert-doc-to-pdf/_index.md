@@ -5,8 +5,8 @@
 "title": "DOC Word दस्तावेज़ों को PDF में बदलें"
 "url": "/hi/net/file-conversion-to-pdf/convert-doc-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # DOC Word दस्तावेज़ों को PDF में बदलें
 
 ## परिचय

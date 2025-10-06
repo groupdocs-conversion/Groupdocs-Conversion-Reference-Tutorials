@@ -4,8 +4,8 @@
 "title": "Konverze hlavního souboru – převod VST do PPT pomocí knihovny GroupDocs.Conversion .NET"
 "url": "/cs/net/presentation-conversion/convert-vst-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konverze hlavního souboru: Převod VST do PPT pomocí knihovny GroupDocs.Conversion .NET
 
 ## Zavedení

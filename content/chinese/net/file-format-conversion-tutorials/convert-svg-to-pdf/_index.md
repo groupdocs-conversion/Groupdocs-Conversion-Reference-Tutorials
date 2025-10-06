@@ -5,8 +5,8 @@
 "title": "将 SVG 转换为 PDF"
 "url": "/zh/net/file-format-conversion-tutorials/convert-svg-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # 将 SVG 转换为 PDF
 
 ## 介绍

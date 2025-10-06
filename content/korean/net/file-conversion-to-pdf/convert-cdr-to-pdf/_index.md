@@ -5,8 +5,8 @@
 "title": "CDR 벡터 그래픽을 PDF로 변환"
 "url": "/ko/net/file-conversion-to-pdf/convert-cdr-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # CDR 벡터 그래픽을 PDF로 변환
 
 ## 소개

@@ -4,8 +4,8 @@
 "title": "Convertire i modelli di Word (.dotm) in PNG utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/image-conversion/convert-dotm-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire modelli di Word in immagini PNG utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

@@ -4,8 +4,8 @@
 "title": "Java와 GroupDocs.Conversion을 사용하여 숨겨진 시트가 있는 Excel 파일을 PDF로 변환하는 방법"
 "url": "/ko/java/pdf-conversion/convert-excel-hidden-sheets-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Java와 GroupDocs.Conversion을 사용하여 숨겨진 시트가 있는 Excel 파일을 PDF로 변환하는 방법
 
 ## 소개

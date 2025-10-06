@@ -4,8 +4,8 @@
 "title": "Conversión de DICOM a SVG mediante GroupDocs.Conversion .NET&#58; guía paso a paso"
 "url": "/es/net/image-formats-features/dicom-to-svg-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Conversión de DICOM a SVG con GroupDocs.Conversion .NET: guía paso a paso
 
 ¿Desea convertir imágenes médicas del formato DICOM (.dcm) a gráficos vectoriales escalables (SVG)? Este completo tutorial le guiará a través de una solución sencilla con la biblioteca .NET GroupDocs.Conversion. Domine este proceso de conversión y agilice su flujo de trabajo eficazmente.

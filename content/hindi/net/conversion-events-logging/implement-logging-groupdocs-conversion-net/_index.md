@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion में लॉगिंग लागू करें एक चरण-दर-चरण मार्गदर्शिका"
 "url": "/hi/net/conversion-events-logging/implement-logging-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET में GroupDocs.Conversion ईवेंट की लॉगिंग कैसे लागू करें: एक व्यापक मार्गदर्शिका
 
 ## परिचय

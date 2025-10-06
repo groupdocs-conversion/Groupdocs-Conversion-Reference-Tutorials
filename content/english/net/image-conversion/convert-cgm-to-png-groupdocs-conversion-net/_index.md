@@ -8,10 +8,8 @@ keywords:
 - CGM to PNG conversion
 - image conversion with GroupDocs.Conversion .NET
 - convert CGM files to PNG
-
+type: docs
 ---
-
-
 # How to Efficiently Convert CGM Files to PNG Using GroupDocs.Conversion .NET
 
 ## Introduction

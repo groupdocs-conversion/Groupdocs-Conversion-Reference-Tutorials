@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用した .NET での効率的なドキュメント パス管理&#58; シームレスな変換のための定数の定義"
 "url": "/ja/net/conversion-options-settings/groupdocs-net-define-document-paths/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion を使用した .NET での効率的なドキュメント パス管理
 
 ## 導入

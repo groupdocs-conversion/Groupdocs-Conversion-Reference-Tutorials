@@ -4,8 +4,8 @@
 "title": "Konversi Markup ke Word dengan Penomoran Halaman Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/word-processing-formats-features/groupdocs-conversion-markup-to-word-page-numbering/"
 "weight": 1
+type: docs
 ---
-
 # Konversi Markup ke Word dengan Penomoran Halaman Menggunakan GroupDocs.Conversion untuk .NET
 ## Perkenalan
 Apakah Anda ingin mengonversi dokumen markup ke format Word profesional sambil mempertahankan nomor halaman yang akurat? Tutorial ini akan memandu Anda melalui penggunaan **GroupDocs.Konversi untuk .NET** untuk mengubah dokumen Anda dengan mudah. Pustaka canggih ini menyederhanakan konversi dan memastikan bahwa elemen penting seperti penomoran halaman tetap utuh dalam dokumen keluaran.

@@ -4,8 +4,8 @@
 "title": "TXT'yi .NET için GroupDocs.Conversion Kullanarak CSV'ye Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/csv-structured-data-processing/convert-txt-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak TXT'yi CSV'ye Dönüştürme
 
 ## giriiş

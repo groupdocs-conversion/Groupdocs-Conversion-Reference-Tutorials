@@ -8,10 +8,8 @@ keywords:
 - convert OTG to PPT
 - GroupDocs.Conversion for .NET tutorial
 - OpenDocument Graphic Templates conversion
-
+type: docs
 ---
-
-
 # Convert OTG to PPT with GroupDocs.Conversion for .NET
 
 ## Introduction

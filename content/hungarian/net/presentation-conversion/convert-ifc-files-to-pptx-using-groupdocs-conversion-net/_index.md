@@ -4,8 +4,8 @@
 "title": "IFC fájlok konvertálása PowerPoint formátumba a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/presentation-conversion/convert-ifc-files-to-pptx-using-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # IFC fájlok konvertálása PowerPoint formátumba a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

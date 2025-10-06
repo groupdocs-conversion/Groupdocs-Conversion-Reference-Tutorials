@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 PowerPoint 템플릿을 PNG로 변환하는 단계별 가이드"
 "url": "/ko/net/presentation-formats-features/convert-powerpoint-templates-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 PowerPoint 템플릿을 PNG로 변환: 단계별 가이드
 
 ## 소개

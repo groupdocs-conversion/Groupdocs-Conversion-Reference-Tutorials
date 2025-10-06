@@ -4,8 +4,8 @@
 "title": "MSG konvertálása XLSX-re a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-msg-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # MSG fájlok konvertálása XLSX formátumra a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "หลักการแปลงข้อความ Apple Mail (.emlx) เป็น HTML โดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/html-conversion/convert-emlx-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # หลักการแปลงข้อความ Apple Mail (.emlx) เป็น HTML โดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

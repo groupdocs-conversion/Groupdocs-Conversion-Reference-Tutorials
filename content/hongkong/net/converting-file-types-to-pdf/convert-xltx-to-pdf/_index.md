@@ -5,8 +5,8 @@
 "title": "將XLTX轉換為PDF"
 "url": "/zh-hant/net/converting-file-types-to-pdf/convert-xltx-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # 將XLTX轉換為PDF
 
 ## 介紹

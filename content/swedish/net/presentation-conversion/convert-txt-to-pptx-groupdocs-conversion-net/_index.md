@@ -4,8 +4,8 @@
 "title": "Konvertera TXT till PPTX enkelt med GroupDocs.Conversion .NET"
 "url": "/sv/net/presentation-conversion/convert-txt-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera TXT-filer till PPTX enkelt med GroupDocs.Conversion .NET
 
 ## Introduktion

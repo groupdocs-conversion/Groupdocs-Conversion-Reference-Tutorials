@@ -4,8 +4,8 @@
 "title": "Converteer wachtwoordbeveiligde Word-documenten naar Excel met GroupDocs voor .NET"
 "url": "/nl/net/working-with-secure-documents/convert-password-word-docs-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer wachtwoordbeveiligde Word-documenten naar Excel met GroupDocs voor .NET
 
 ## Invoering

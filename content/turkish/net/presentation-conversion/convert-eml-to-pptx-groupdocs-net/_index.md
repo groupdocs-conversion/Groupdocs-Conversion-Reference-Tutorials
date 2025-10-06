@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak EML'yi PPTX'e Verimli Şekilde Dönüştürün"
 "url": "/tr/net/presentation-conversion/convert-eml-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak EML'yi PPTX'e Verimli Şekilde Dönüştürün
 
 ## giriiş

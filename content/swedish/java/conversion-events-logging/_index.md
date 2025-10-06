@@ -3,8 +3,8 @@
 "title": "Handledningar för konverteringshändelser och loggning för GroupDocs.Conversion Java"
 "url": "/sv/java/conversion-events-logging/"
 "weight": 15
+type: docs
 ---
-
 # Handledningar för konverteringshändelser och loggning för GroupDocs.Conversion Java
 
 Bemästra övervaknings- och loggningsfunktioner med våra GroupDocs.Conversion-händelsehandledningar för Java. Dessa detaljerade guider visar hur du konfigurerar händelselyssnare, spårar konverteringsförlopp, implementerar detaljerad loggning, hanterar konverteringsmeddelanden och skapar anpassade händelsehanterare programmatiskt. Varje handledning innehåller fungerande Java-kodexempel som visar hur du förbättrar dina applikationer med robusta övervaknings- och rapporteringsfunktioner, vilket hjälper dig att bygga pålitliga konverteringssystem med omfattande revisionsspår och användarfeedback.

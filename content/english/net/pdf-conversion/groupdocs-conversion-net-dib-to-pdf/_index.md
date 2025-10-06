@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion for .NET
 - DIB to PDF conversion
 - .NET file format conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert DIB to PDF with GroupDocs.Conversion for .NET
 
 ## Introduction

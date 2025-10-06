@@ -4,8 +4,8 @@
 "title": "XLTX-ből XLSX-be konvertálás automatizálása .NET-ben a GroupDocs.Conversion használatával"
 "url": "/hu/net/spreadsheet-formats-features/convert-xltx-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # XLTX-ről XLSX-re konvertálás automatizálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

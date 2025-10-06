@@ -5,8 +5,8 @@
 "title": "Převod PPT do PDF"
 "url": "/cs/net/pdf-conversion/convert-ppt-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # Převod PPT do PDF
 
 ## Zavedení

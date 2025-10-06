@@ -5,8 +5,8 @@
 "title": "TEX를 PDF로 변환"
 "url": "/ko/net/file-format-conversion-tutorials/convert-tex-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # TEX를 PDF로 변환
 
 ## 소개

@@ -5,8 +5,8 @@
 "title": "TXT를 PDF로 변환"
 "url": "/ko/net/file-format-conversion-tutorials/convert-txt-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # TXT를 PDF로 변환
 
 ## 소개

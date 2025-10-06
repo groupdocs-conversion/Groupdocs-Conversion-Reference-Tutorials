@@ -8,10 +8,8 @@ keywords:
 - TSV to PDF conversion
 - GroupDocs.Conversion .NET
 - PDF conversion in C#
-
+type: docs
 ---
-
-
 # Efficient TSV to PDF Conversion Using GroupDocs.Conversion in C#
 
 ## Introduction

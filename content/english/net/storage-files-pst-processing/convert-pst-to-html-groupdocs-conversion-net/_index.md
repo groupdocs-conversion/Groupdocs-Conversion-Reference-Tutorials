@@ -8,10 +8,8 @@ keywords:
 - convert PST to HTML
 - GroupDocs.Conversion .NET
 - PST file conversion
-
+type: docs
 ---
-
-
 # Convert PST Files to HTML Using GroupDocs.Conversion .NET: A Step-by-Step Guide
 
 ## Introduction

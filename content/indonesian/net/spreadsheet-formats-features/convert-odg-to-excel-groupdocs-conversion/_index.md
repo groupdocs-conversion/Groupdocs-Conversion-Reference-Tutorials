@@ -4,8 +4,8 @@
 "title": "Konversi ODG ke Excel Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/spreadsheet-formats-features/convert-odg-to-excel-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Konversi File ODG ke Excel dengan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

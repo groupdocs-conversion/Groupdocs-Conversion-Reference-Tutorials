@@ -4,8 +4,8 @@
 "title": "Visio-fájlok konvertálása Photoshop formátumba a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/convert-visio-to-photoshop-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Visio-fájlok konvertálása Photoshop formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Bestandsconversie in C# onder de knie krijgen met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/document-output-saving/mastering-file-conversion-csharp-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Bestandsconversie in C# onder de knie krijgen: GroupDocs.Conversion implementeren voor .NET
 
 ## Invoering

@@ -4,8 +4,8 @@
 "title": "DWT konvertálása TXT-vé a GroupDocs.Conversion .NET használatával a hatékony szövegfájl-feldolgozás érdekében"
 "url": "/hu/net/text-file-processing/convert-dwt-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DWT konvertálása TXT-vé a GroupDocs.Conversion .NET használatával a hatékony szövegfájl-feldolgozás érdekében
 
 ## Bevezetés

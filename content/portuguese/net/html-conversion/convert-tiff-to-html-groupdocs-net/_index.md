@@ -4,8 +4,8 @@
 "title": "Como converter TIFF para HTML usando o GroupDocs.Conversion para .NET - Um guia passo a passo"
 "url": "/pt/net/html-conversion/convert-tiff-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter TIFF para HTML usando o GroupDocs.Conversion para .NET: um guia passo a passo
 
 ## Introdução

@@ -4,8 +4,8 @@
 "title": "Snadný převod VCF do CSV pomocí komplexního průvodce GroupDocs.Conversion pro .NET"
 "url": "/cs/net/csv-structured-data-processing/convert-vcf-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů VCF do CSV pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

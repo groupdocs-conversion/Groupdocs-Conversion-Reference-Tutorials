@@ -4,8 +4,8 @@
 "title": "Hatékony SVG-dokumentumok Word-be konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/word-processing-conversion/convert-svg-to-word-documents-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony SVG-dokumentumok Word-be konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

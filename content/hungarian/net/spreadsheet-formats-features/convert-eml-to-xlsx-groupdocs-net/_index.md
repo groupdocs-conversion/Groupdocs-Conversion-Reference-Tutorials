@@ -4,8 +4,8 @@
 "title": "EML konvertálása XLSX-re .NET-ben a GroupDocs.Conversion használatával – lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-eml-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # EML konvertálása XLSX-re a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

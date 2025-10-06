@@ -4,8 +4,8 @@
 "title": "Come convertire i file XLSX con fogli nascosti in PDF utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/spreadsheet-formats-features/convert-xlsx-hidden-sheets-to-pdf-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire i file XLSX con fogli nascosti in PDF utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

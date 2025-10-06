@@ -4,8 +4,8 @@
 "title": "Ρύθμιση μετατροπής κύριου εγγράφου σε .NET χρησιμοποιώντας το GroupDocs.Conversion"
 "url": "/el/net/conversion-options-settings/master-groupdocs-conversion-net-setup/"
 "weight": 1
+type: docs
 ---
-
 # Ρύθμιση κύριου καταλόγου για μετατροπή εγγράφων χρησιμοποιώντας το GroupDocs.Conversion .NET
 
 ## Εισαγωγή

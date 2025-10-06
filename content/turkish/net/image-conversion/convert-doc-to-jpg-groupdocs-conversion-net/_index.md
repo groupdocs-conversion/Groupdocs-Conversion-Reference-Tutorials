@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET&#58;i Kullanarak DOC'tan JPG'ye Verimli Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/image-conversion/convert-doc-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET Kullanarak Etkili DOC'tan JPG'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

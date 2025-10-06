@@ -4,8 +4,8 @@
 "title": "Chuyển đổi Visio VDW sang PNG bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/image-conversion/convert-visio-vdw-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp Visio VDW sang PNG bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

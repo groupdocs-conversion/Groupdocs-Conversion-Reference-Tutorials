@@ -4,8 +4,8 @@
 "title": "Hogyan konvertálhat OXPS-t Word-be a GroupDocs.Conversion for .NET segítségével?"
 "url": "/hu/net/word-processing-conversion/converting-oxps-to-word-using-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhat OXPS-t Word-be a GroupDocs.Conversion for .NET használatával?
 
 ## Bevezetés

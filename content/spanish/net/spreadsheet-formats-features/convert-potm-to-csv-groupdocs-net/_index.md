@@ -4,8 +4,8 @@
 "title": "Convertir plantillas POTM a CSV con GroupDocs.Conversion para .NET&#58; una guía completa"
 "url": "/es/net/spreadsheet-formats-features/convert-potm-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convierta plantillas de Microsoft PowerPoint (POTM) a CSV con GroupDocs.Conversion para .NET
 
 ## Introducción

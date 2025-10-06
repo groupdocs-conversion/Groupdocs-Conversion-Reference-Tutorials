@@ -4,8 +4,8 @@
 "title": "Convertir JPEG 2000 (JPF) en LaTeX (TEX) avec GroupDocs.Conversion pour .NET"
 "url": "/fr/net/text-markup-conversion/convert-jpf-to-tex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des fichiers JPEG 2000 (.jpf) en documents LaTeX (.tex) à l'aide de GroupDocs.Conversion pour .NET
 
 Convertir des fichiers image en documents texte est une tâche courante et efficace dans le paysage numérique actuel. Que vous travailliez sur des articles scientifiques ou de la documentation technique, la conversion de fichiers image JPEG 2000 (JPF) en documents sources LaTeX simplifie le partage et la modification de contenu. Ce tutoriel vous guidera dans l'utilisation de GroupDocs.Conversion pour .NET pour une conversion fluide.

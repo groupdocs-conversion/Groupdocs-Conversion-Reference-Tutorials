@@ -8,10 +8,8 @@ keywords:
 - convert Word to PDF
 - GroupDocs.Conversion font substitution
 - PDF conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert Word Documents to PDF with Font Substitution Using GroupDocs.Conversion for .NET
 ## Introduction
 Converting Word documents to PDFs often leads to inconsistent fonts, resulting in formatting issues. This guide simplifies ensuring font consistency using GroupDocs.Conversion for .NET. Learn how to set up load options for font substitution and seamlessly convert your Word documents into PDF format while maintaining visual fidelity.

@@ -4,8 +4,8 @@
 "title": "Como converter documentos do Word protegidos por senha para HTML usando Java (guia passo a passo)"
 "url": "/pt/java/word-processing-formats/convert-password-protected-word-to-html-java/"
 "weight": 1
+type: docs
 ---
-
 # Como converter documentos do Word protegidos por senha para HTML usando Java
 
 ## Introdução

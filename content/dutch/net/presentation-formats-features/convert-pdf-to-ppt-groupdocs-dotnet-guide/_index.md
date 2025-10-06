@@ -4,8 +4,8 @@
 "title": "Handleiding voor het converteren van PDF naar PPT met GroupDocs.Conversion in .NET"
 "url": "/nl/net/presentation-formats-features/convert-pdf-to-ppt-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # Handleiding voor het converteren van PDF naar PPT met GroupDocs.Conversion in .NET
 
 ## Invoering

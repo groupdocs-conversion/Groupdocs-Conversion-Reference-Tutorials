@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert VSDX to PSD using GroupDocs.Conversion .NET API
 
 ## Introduction

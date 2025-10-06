@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Java 开发人员入门教程"
 "url": "/zh/java/getting-started/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Java 开发人员入门教程
 
 从这些 GroupDocs.Conversion 基本教程开始您的学习之旅，这些教程将指导您完成安装、许可配置以及如何使用 Java 执行首次文档转换。我们面向初学者的指南演示了如何设置开发环境、初始化 GroupDocs.Conversion 库以及执行基本的转换操作。遵循这些教程，您可以快速掌握基础知识，并为在 Java 应用程序中执行更高级的文档转换任务做好准备。

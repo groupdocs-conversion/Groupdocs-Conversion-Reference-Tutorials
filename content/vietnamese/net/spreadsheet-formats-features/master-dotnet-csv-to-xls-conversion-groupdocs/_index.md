@@ -4,8 +4,8 @@
 "title": "Chuyển đổi .NET CSV sang XLS bằng GroupDocs&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/spreadsheet-formats-features/master-dotnet-csv-to-xls-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi .NET CSV sang XLS bằng GroupDocs: Hướng dẫn toàn diện
 
 Trong thế giới dữ liệu ngày nay, việc chuyển đổi các tệp giữa nhiều định dạng khác nhau là một yêu cầu thường xuyên. Cho dù bạn đang xử lý các báo cáo tài chính hay phân tích các tập dữ liệu lớn, nhu cầu chuyển đổi các tệp CSV (Giá trị phân cách bằng dấu phẩy) sang định dạng XLS tương thích với Excel có thể rất quan trọng để quản lý và phân tích dữ liệu hiệu quả. Hướng dẫn này sẽ hướng dẫn bạn sử dụng GroupDocs.Conversion cho .NET để chuyển đổi liền mạch các tệp CSV của bạn thành tài liệu XLS.

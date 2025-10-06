@@ -5,8 +5,8 @@
 "title": "DICOM orvosi képek konvertálása PDF-be"
 "url": "/hu/net/file-conversion-to-pdf/convert-dicom-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # DICOM orvosi képek konvertálása PDF-be
 
 ## Bevezetés

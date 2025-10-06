@@ -4,8 +4,8 @@
 "title": "掌握 GroupDocs.Conversion Java 中用於檔案轉換專案的常數管理"
 "url": "/zh-hant/java/conversion-options/mastering-constants-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion Java 掌握常數管理
 
 ## 介紹

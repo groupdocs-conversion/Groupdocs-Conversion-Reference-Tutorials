@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion을 사용하여 캐싱으로 .NET 문서 변환 최적화"
 "url": "/ko/net/cache-management/optimize-net-document-conversion-caching-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용하여 캐싱으로 .NET 문서 변환 최적화
 
 ## 소개

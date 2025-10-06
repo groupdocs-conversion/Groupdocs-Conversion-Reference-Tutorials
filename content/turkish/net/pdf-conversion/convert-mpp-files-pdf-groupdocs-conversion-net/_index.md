@@ -4,8 +4,8 @@
 "title": "MPP'yi GroupDocs.Conversion for .NET Kullanarak PDF'ye Dönüştürme&#58; Tam Bir Kılavuz"
 "url": "/tr/net/pdf-conversion/convert-mpp-files-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MPP Dosyalarını GroupDocs.Conversion for .NET ile PDF'ye Dönüştürün
 
 ## giriiş

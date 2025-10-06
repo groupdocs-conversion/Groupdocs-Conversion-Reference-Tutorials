@@ -8,10 +8,8 @@ keywords:
 - convert DOTM to CSV
 - GroupDocs.Conversion for .NET
 - automate document conversion
-
+type: docs
 ---
-
-
 # How to Convert DOTM to CSV Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

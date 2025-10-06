@@ -4,8 +4,8 @@
 "title": "DOTX fájlok konvertálása .NET alkalmazásokban – Útmutató a GroupDocs.Conversion használatával"
 "url": "/hu/net/word-processing-formats-features/convert-dotx-files-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # .NET konverzió implementálása és optimalizálása: DOTX fájlok betöltése és konvertálása a GroupDocs.Conversion használatával
 
 ## Bevezetés

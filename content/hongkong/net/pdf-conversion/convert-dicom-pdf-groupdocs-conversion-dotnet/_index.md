@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 DICOM 轉換為 PDF 的綜合指南"
 "url": "/zh-hant/net/pdf-conversion/convert-dicom-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 DICOM 轉換為 PDF
 ## 介紹
 在醫學影像領域，醫學數位影像與通訊 (DICOM) 檔案至關重要。為了在共享這些圖像的同時保留其元數據，通常需要將其轉換為更易於存取的格式，例如 PDF。 **GroupDocs.Conversion for .NET** 有效地簡化了這一過程。在本教學中，我們將向您展示如何使用 GroupDocs.Conversion 函式庫將 DICOM 檔案轉換為 PDF。

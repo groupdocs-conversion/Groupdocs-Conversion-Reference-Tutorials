@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion .NET license setup
 - apply GroupDocs license .NET
 - GroupDocs license configuration
-
+type: docs
 ---
-
-
 # Comprehensive Tutorial: Setting Up a License for GroupDocs.Conversion .NET
 
 ## Introduction

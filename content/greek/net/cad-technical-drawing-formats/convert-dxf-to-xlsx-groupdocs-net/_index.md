@@ -4,8 +4,8 @@
 "title": "Αποδοτική μετατροπή DXF σε XLSX χρησιμοποιώντας το GroupDocs.Conversion για .NET - Μορφές CAD και τεχνικών σχεδίων"
 "url": "/el/net/cad-technical-drawing-formats/convert-dxf-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική μετατροπή DXF σε XLSX χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 RTF 轉換為 PDF 的綜合指南"
 "url": "/zh-hant/net/pdf-conversion/convert-rtf-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 RTF 轉換為 PDF
 
 ## 介紹

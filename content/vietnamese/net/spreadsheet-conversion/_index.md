@@ -3,8 +3,8 @@
 "title": "Hướng dẫn chuyển đổi bảng tính cho GroupDocs.Conversion .NET"
 "url": "/vi/net/spreadsheet-conversion/"
 "weight": 30
+type: docs
 ---
-
 # Hướng dẫn chuyển đổi bảng tính cho GroupDocs.Conversion .NET
 
 Tìm hiểu cách chuyển đổi tài liệu thành định dạng bảng tính có thể chỉnh sửa với hướng dẫn GroupDocs.Conversion .NET của chúng tôi. Những hướng dẫn chi tiết này trình bày cách chuyển đổi từ PDF, Word, HTML, hình ảnh và các định dạng khác sang XLS, XLSX, CSV, ODS và nhiều định dạng khác. Khám phá các kỹ thuật để bảo toàn các phép tính và công thức, duy trì định dạng ô, xử lý tài liệu nhiều trang tính, quản lý tiêu đề và chân trang, và kiểm soát chuyển đổi kiểu dữ liệu. Mỗi hướng dẫn bao gồm các ví dụ mã C# đang hoạt động cho thấy cách tạo tài liệu bảng tính thể hiện chính xác nội dung nguồn trong khi cho phép phân tích và thao tác dữ liệu.

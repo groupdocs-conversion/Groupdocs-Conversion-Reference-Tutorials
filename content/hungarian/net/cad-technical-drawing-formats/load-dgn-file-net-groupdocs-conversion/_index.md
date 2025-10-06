@@ -4,8 +4,8 @@
 "title": "DGN-fájlok betöltése .NET-ben a GroupDocs.Conversion használatával"
 "url": "/hu/net/cad-technical-drawing-formats/load-dgn-file-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # DGN fájl betöltése a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion ile .NET'te Ana Belge Dönüşümü&#58; Kapsamlı Bir Kılavuz"
 "url": "/tr/net/conversion-options-settings/mastering-document-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion ile .NET'te Belge Dönüştürmede Ustalaşma
 
 ## giriiş

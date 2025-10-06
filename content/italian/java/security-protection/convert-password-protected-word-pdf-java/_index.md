@@ -4,8 +4,8 @@
 "title": "Convertire file Word protetti da password in PDF in Java utilizzando GroupDocs.Conversion"
 "url": "/it/java/security-protection/convert-password-protected-word-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Convertire file Word protetti da password in PDF in Java utilizzando GroupDocs.Conversion
 
 Converti i tuoi documenti Word protetti in formato PDF senza sforzo con questa guida completa all'utilizzo della libreria GroupDocs.Conversion in Java. Scopri come specificare pagine specifiche, impostare dimensioni personalizzate, regolare la risoluzione e ottimizzare le prestazioni per una conversione dei documenti impeccabile.

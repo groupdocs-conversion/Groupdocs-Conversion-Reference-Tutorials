@@ -4,8 +4,8 @@
 "title": "Efficiënte BMP naar PNG-conversie in .NET met behulp van de GroupDocs.Conversion-bibliotheek"
 "url": "/nl/net/image-conversion/net-bmp-to-png-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Efficiënte BMP naar PNG-conversie in .NET met GroupDocs
 
 ## Invoering

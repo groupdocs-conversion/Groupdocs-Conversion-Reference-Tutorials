@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके OTT फ़ाइलों को PNG में कैसे परिवर्तित करें - एक चरण-दर-चरण मार्गदर्शिका"
 "url": "/hi/net/image-conversion/convert-ott-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके OTT फ़ाइलों को PNG में कैसे परिवर्तित करें
 ## परिचय
 क्या आप OpenDocument Text (OTT) फ़ाइलों को PNG छवियों में कुशलतापूर्वक परिवर्तित करना चाहते हैं? चाहे आप वर्कफ़्लो को स्वचालित कर रहे हों या दस्तावेज़ों को विज़ुअल रूप से साझा करने के लिए एक त्वरित तरीके की आवश्यकता हो, यह मार्गदर्शिका आपको इसे प्राप्त करने के लिए .NET के लिए GroupDocs.Conversion का उपयोग करने में मदद करेगी।

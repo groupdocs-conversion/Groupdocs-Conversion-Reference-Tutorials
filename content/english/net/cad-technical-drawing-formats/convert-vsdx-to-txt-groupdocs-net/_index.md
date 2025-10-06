@@ -8,10 +8,8 @@ keywords:
 - VSDX to TXT conversion
 - GroupDocs.Conversion for .NET
 - Visio file conversion
-
+type: docs
 ---
-
-
 # Master VSDX to TXT Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

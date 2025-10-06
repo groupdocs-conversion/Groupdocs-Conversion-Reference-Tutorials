@@ -4,8 +4,8 @@
 "title": "Konvertera Word till PDF med anpassade teckensnitt i Java – en komplett guide med GroupDocs.Conversion"
 "url": "/sv/java/pdf-conversion/convert-word-pdf-custom-fonts-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera Word-dokument till PDF med anpassade teckensnitt i Java: En komplett guide med GroupDocs.Conversion
 
 ## Introduktion

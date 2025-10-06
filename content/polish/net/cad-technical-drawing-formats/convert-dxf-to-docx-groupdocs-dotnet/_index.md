@@ -4,8 +4,8 @@
 "title": "Przewodnik krok po kroku&#58; Konwersja DXF do DOCX przy użyciu GroupDocs.Conversion dla .NET"
 "url": "/pl/net/cad-technical-drawing-formats/convert-dxf-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Przewodnik krok po kroku: Konwersja DXF do DOCX przy użyciu GroupDocs.Conversion dla .NET
 
 ## Wstęp

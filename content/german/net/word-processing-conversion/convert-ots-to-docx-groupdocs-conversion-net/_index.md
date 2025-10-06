@@ -4,8 +4,8 @@
 "title": "OTS einfach in DOCX konvertieren – GroupDocs.Conversion für .NET-Handbuch"
 "url": "/de/net/word-processing-conversion/convert-ots-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie OTS in DOCX mit GroupDocs.Conversion für .NET
 
 ## Einführung

@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 PST 檔案無縫轉換為 PDF"
 "url": "/zh-hant/net/storage-files-pst-processing/convert-pst-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 PST 檔案無縫轉換為 PDF
 
 ## 介紹

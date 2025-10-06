@@ -3,8 +3,8 @@
 "title": "Tárolófájlok és PST-feldolgozási oktatóanyagok a GroupDocs.Conversion .NET-hez"
 "url": "/hu/net/storage-files-pst-processing/"
 "weight": 21
+type: docs
 ---
-
 # Tárolófájlok és PST-feldolgozási oktatóanyagok a GroupDocs.Conversion .NET-hez
 
 Tárolófájl-feldolgozási oktatóanyagaink részletes útmutatást nyújtanak az e-mail-konténerek kezeléséhez .NET-alkalmazásokban. Ezek a gyakorlati útmutatók bemutatják, hogyan lehet tartalmat kinyerni és konvertálni személyes tárolófájlokból, például PST és OST fájlokból, hogyan lehet lekérni a mappaszerkezeteket, hogyan lehet a tárolótartalmat különböző formátumokba konvertálni, hogyan kell kezelni a beágyazott tartalomhierarchiákat, hogyan kell megőrizni az üzenetek metaadatait, hogyan lehet kötegelt módon feldolgozni több üzenetet, és hogyan lehet megvalósítani a szelektív kinyerési műveleteket. Minden oktatóanyag teljes C# kódpéldákat tartalmaz a tárolófájl-konverziós forgatókönyvekhez, segítve olyan alkalmazások létrehozását, amelyek hatékonyan férhetnek hozzá az e-mail-konténer formátumokban tárolt adatokhoz, és hogyan lehet azokat átalakítani.

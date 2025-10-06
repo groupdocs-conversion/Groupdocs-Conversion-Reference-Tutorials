@@ -4,8 +4,8 @@
 "title": ".NET ODP 到 PSD 轉換&#58; 掌握 GroupDocs.Conversion for .NET"
 "url": "/zh-hant/net/image-formats-features/dotnet-odp-psd-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # .NET ODP 到 PSD 的轉換：掌握 .NET 的 GroupDocs.Conversion
 
 ## 介紹

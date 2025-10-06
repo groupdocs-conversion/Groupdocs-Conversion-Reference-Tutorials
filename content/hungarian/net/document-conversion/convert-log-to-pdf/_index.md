@@ -5,8 +5,8 @@
 "title": "LOG konvertálása PDF-be"
 "url": "/hu/net/document-conversion/convert-log-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # LOG konvertálása PDF-be
 
 ## Bevezetés

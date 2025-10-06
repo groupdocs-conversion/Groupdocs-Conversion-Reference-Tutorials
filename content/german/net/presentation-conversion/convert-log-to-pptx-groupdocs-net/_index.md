@@ -4,8 +4,8 @@
 "title": "Effizientes Konvertieren von Protokolldateien in PowerPoint mit GroupDocs.Conversion für .NET"
 "url": "/de/net/presentation-conversion/convert-log-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Effizientes Konvertieren von Protokolldateien in PowerPoint mit GroupDocs.Conversion für .NET
 
 ## Einführung

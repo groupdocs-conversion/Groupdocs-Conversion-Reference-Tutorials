@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET で DOTX を DOC に効率的に変換する手順ガイド"
 "url": "/ja/net/word-processing-formats-features/convert-dotx-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET で DOTX を DOC に効率的に変換する: ステップバイステップガイド
 
 ## 導入

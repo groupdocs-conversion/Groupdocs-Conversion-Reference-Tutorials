@@ -5,8 +5,8 @@
 "title": "แปลง LOG เป็น PDF"
 "url": "/th/net/document-conversion/convert-log-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # แปลง LOG เป็น PDF
 
 ## การแนะนำ

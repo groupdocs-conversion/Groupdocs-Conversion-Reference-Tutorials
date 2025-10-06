@@ -5,8 +5,8 @@
 "title": "MSG naar PDF converteren"
 "url": "/nl/net/document-conversion/convert-msg-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # MSG naar PDF converteren
 
 ## Invoering

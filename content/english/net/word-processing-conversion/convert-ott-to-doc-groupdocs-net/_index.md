@@ -8,10 +8,8 @@ keywords:
 - convert OTT to DOC
 - GroupDocs.Conversion .NET
 - file conversion
-
+type: docs
 ---
-
-
 # Convert OTT to DOC Using GroupDocs.Conversion .NET: Step-by-Step Guide for Word Processing Conversion
 
 ## Introduction

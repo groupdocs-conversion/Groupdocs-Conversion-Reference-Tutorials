@@ -4,8 +4,8 @@
 "title": "GIF'i GroupDocs.Conversion for .NET ile PSD'ye Dönüştürme&#58; Tam Kılavuz"
 "url": "/tr/net/image-formats-features/convert-gif-to-psd-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GIF'i GroupDocs.Conversion for .NET ile PSD'ye Dönüştürme: Eksiksiz Bir Kılavuz
 
 ## giriiş

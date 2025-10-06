@@ -4,8 +4,8 @@
 "title": "Převod BMP do SVG v .NET pomocí GroupDocs.Conversion pro bezproblémové transformace obrázků"
 "url": "/cs/net/image-conversion/convert-bmp-svg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod BMP do SVG v .NET pomocí GroupDocs.Conversion pro bezproblémové transformace obrázků
 
 ## Zavedení

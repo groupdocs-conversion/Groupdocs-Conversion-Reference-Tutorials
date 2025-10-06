@@ -4,8 +4,8 @@
 "title": "Konversi DXF ke DOC Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/cad-technical-drawing-formats/dxf-to-doc-conversion-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Tutorial Lengkap: Konversi DXF ke DOC Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

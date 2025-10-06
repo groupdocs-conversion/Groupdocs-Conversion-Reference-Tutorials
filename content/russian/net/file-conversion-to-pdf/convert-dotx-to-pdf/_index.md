@@ -5,8 +5,8 @@
 "title": "Конвертировать шаблоны DOTX Word в PDF"
 "url": "/ru/net/file-conversion-to-pdf/convert-dotx-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # Конвертировать шаблоны DOTX Word в PDF
 
 ## Введение

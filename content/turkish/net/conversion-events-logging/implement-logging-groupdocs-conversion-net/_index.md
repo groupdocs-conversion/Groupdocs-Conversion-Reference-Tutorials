@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion'da .NET İçin Günlük Kaydını Uygulama&#58; Adım Adım Kılavuz"
 "url": "/tr/net/conversion-events-logging/implement-logging-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET'te GroupDocs.Conversion Olaylarının Günlüğe Kaydedilmesi Nasıl Uygulanır: Kapsamlı Bir Kılavuz
 
 ## giriiş

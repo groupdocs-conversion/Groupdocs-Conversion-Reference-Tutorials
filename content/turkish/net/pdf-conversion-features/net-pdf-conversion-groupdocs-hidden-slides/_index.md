@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Kullanarak Gizli Slaytlarla .NET PDF Dönüştürmede Ustalaşın"
 "url": "/tr/net/pdf-conversion-features/net-pdf-conversion-groupdocs-hidden-slides/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Kullanarak Gizli Slaytlarla .NET PDF Dönüştürmede Ustalaşın
 
 ## giriiş

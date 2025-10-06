@@ -4,8 +4,8 @@
 "title": "Bemästra konvertering av PPTX till PDF med GroupDocs.Conversion för .NET – en utvecklarguide"
 "url": "/sv/net/pdf-conversion-features/convert-pptx-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Bemästra konvertering av PPTX till PDF med GroupDocs.Conversion för .NET: En utvecklarguide
 
 ## Introduktion

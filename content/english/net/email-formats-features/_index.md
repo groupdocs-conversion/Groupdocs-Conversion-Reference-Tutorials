@@ -3,8 +3,8 @@ title: "Email Formats and Features Tutorials for GroupDocs.Conversion .NET"
 description: "Learn to convert to and from Email formats (MSG, EML, EMLX) and handle email-specific features with GroupDocs.Conversion .NET."
 weight: 14
 url: "/net/email-formats-features/"
+type: docs
 ---
-
 # Email Formats and Features Tutorials for GroupDocs.Conversion .NET
 
 Master email document processing with our comprehensive GroupDocs.Conversion tutorials for .NET developers. These practical guides demonstrate how to convert email messages to various document formats, extract and convert email attachments to different formats, alter field visibility during conversion, apply localization to email fields, handle timezone offsets, implement globalization settings, preserve email metadata, and process messages with embedded content. Each tutorial provides detailed C# code examples for email conversion scenarios, helping you build applications that can effectively transform email communications into more accessible document formats.

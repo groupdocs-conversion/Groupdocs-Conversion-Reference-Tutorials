@@ -4,8 +4,8 @@
 "title": "HTML konvertálása SVG-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/web-markup-formats/convert-html-to-svg-using-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # HTML fájlok konvertálása SVG formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

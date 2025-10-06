@@ -4,8 +4,8 @@
 "title": "AI HTML-lé konvertálása a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/html-conversion/convert-ai-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # AI-fájlok HTML-re konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

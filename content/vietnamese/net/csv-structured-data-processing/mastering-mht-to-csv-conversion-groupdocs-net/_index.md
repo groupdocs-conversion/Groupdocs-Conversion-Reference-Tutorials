@@ -4,8 +4,8 @@
 "title": "Hướng dẫn chuyển đổi tệp MHT sang CSV bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/csv-structured-data-processing/mastering-mht-to-csv-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hướng dẫn chuyển đổi tệp MHT sang CSV bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

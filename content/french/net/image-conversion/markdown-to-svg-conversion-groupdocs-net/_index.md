@@ -4,8 +4,8 @@
 "title": "Conversion efficace de Markdown en SVG avec GroupDocs.Conversion pour .NET"
 "url": "/fr/net/image-conversion/markdown-to-svg-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Conversion efficace de Markdown en SVG avec GroupDocs.Conversion pour .NET
 
 ## Introduction

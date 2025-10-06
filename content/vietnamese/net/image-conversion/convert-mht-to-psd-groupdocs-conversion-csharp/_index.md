@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi MHT sang PSD bằng GroupDocs.Conversion trong C# - Hướng dẫn chuyển đổi hình ảnh"
 "url": "/vi/net/image-conversion/convert-mht-to-psd-groupdocs-conversion-csharp/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi MHT sang PSD bằng GroupDocs.Conversion trong C#: Hướng dẫn chuyển đổi hình ảnh toàn diện
 
 ## Giới thiệu

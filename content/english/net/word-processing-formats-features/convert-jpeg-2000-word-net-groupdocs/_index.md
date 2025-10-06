@@ -8,10 +8,8 @@ keywords:
 - convert JPEG 2000 to Word Document
 - GroupDocs.Conversion .NET
 - .NET image conversion
-
+type: docs
 ---
-
-
 # How to Convert JPEG 2000 to Word Document Using GroupDocs.Conversion .NET
 
 ## Introduction

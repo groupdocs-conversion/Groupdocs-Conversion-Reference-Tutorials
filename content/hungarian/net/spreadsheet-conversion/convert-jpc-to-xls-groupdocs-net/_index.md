@@ -4,8 +4,8 @@
 "title": "JPC konvertálása Excelbe a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/spreadsheet-conversion/convert-jpc-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # JPC konvertálása Excelbe a GroupDocs.Conversion for .NET használatával: Teljes körű útmutató
 
 ## Bevezetés

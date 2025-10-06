@@ -4,8 +4,8 @@
 "title": "Как преобразовать шаблоны DOCX в Excel с помощью GroupDocs.Conversion для .NET&#58; Подробное руководство"
 "url": "/ru/net/spreadsheet-formats-features/convert-docx-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Как преобразовать шаблоны DOCX в Excel с помощью GroupDocs.Conversion для .NET: подробное руководство
 
 ## Введение

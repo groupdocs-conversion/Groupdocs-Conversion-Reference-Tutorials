@@ -4,8 +4,8 @@
 "title": "JPX naar PPTX converteren met GroupDocs.Conversion voor .NET | Handleiding voor het converteren van presentaties"
 "url": "/nl/net/presentation-conversion/convert-jpx-to-pptx-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # JPX-bestanden converteren naar PPTX-formaat met GroupDocs.Conversion voor .NET
 
 ## Invoering

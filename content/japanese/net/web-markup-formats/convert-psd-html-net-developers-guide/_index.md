@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して PSD を HTML に変換する開発者ガイド"
 "url": "/ja/net/web-markup-formats/convert-psd-html-net-developers-guide/"
 "weight": 1
+type: docs
 ---
-
 # .NET で GroupDocs.Conversion を使用して PSD を HTML に変換する: 開発者ガイド
 
 ## 導入

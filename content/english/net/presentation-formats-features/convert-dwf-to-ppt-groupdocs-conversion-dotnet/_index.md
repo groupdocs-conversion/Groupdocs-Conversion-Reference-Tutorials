@@ -8,10 +8,8 @@ keywords:
 - Convert DWF to PPT
 - GroupDocs.Conversion .NET
 - DWF to PowerPoint conversion
-
+type: docs
 ---
-
-
 # How to Convert DWF Files to PowerPoint Presentations using GroupDocs.Conversion for .NET
 
 ## Introduction

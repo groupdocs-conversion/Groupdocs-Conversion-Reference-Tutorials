@@ -4,8 +4,8 @@
 "title": "Effiziente Konvertierung von WMZ in TXT mit GroupDocs.Conversion für .NET | Entwicklerhandbuch"
 "url": "/de/net/text-markup-conversion/wmz-to-txt-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Effiziente Konvertierung von WMZ in TXT mit GroupDocs.Conversion für .NET: Ein Entwicklerhandbuch
 
 ## Einführung

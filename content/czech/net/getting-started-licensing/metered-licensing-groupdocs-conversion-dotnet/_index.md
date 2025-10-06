@@ -4,8 +4,8 @@
 "title": "Implementace měřeného licencování s GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/getting-started-licensing/metered-licensing-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Implementace měřeného licencování s GroupDocs.Conversion pro .NET
 
 ## Zavedení

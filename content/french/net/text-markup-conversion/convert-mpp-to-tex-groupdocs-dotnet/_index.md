@@ -4,8 +4,8 @@
 "title": "Convertir MPP en TEX avec GroupDocs.Conversion pour .NET &#58; un guide étape par étape"
 "url": "/fr/net/text-markup-conversion/convert-mpp-to-tex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertir MPP en TEX avec GroupDocs.Conversion pour .NET : guide étape par étape
 ## Introduction
 Dans le contexte actuel de gestion de projet au rythme effréné, les professionnels doivent souvent convertir des fichiers Microsoft Project (.mpp) au format LaTeX (.tex). Que vous prépariez une présentation ou intégriez des données de projet à des travaux universitaires, cette conversion est cruciale. Ce tutoriel vous guidera dans l'utilisation de la bibliothèque GroupDocs.Conversion pour .NET, en présentant ses fonctionnalités puissantes et sa simplicité d'utilisation.

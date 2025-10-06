@@ -4,8 +4,8 @@
 "title": "Konvertera STL till Word med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/word-processing-conversion/convert-stl-to-word-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera STL till Word med GroupDocs.Conversion för .NET: En steg-för-steg-guide
 ## Introduktion
 3D-modelleringens värld är stereolitografifiler (STL) viktiga. Det kan dock uppstå situationer där du behöver dessa filer i ett mer universellt tillgängligt format som Microsoft Word (DOC). Denna konvertering är särskilt användbar för rapporteringsändamål eller för att förenkla samarbete. GroupDocs.Conversion för .NET erbjuder sömlösa transformationer med enkelhet och effektivitet.

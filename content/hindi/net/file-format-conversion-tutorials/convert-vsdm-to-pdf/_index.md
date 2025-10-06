@@ -5,8 +5,8 @@
 "title": "VSDM को PDF में बदलें"
 "url": "/hi/net/file-format-conversion-tutorials/convert-vsdm-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # VSDM को PDF में बदलें
 
 ## परिचय

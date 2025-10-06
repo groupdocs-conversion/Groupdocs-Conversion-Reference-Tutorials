@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将 DNG 转换为 PSD — 分步指南"
 "url": "/zh/net/image-formats-features/convert-dng-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将 DNG 转换为 PSD：分步指南
 
 ## 介绍

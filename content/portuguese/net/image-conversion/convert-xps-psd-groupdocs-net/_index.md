@@ -4,8 +4,8 @@
 "title": "Como converter XPS para PSD no .NET usando GroupDocs.Conversion para .NET"
 "url": "/pt/net/image-conversion/convert-xps-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter arquivos XPS para PSD usando o GroupDocs.Conversion para .NET
 
 ## Introdução

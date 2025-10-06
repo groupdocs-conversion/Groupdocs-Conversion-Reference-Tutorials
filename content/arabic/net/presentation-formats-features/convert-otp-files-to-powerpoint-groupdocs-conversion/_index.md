@@ -4,8 +4,8 @@
 "title": "تحويل ملفات OTP إلى PowerPoint بكفاءة باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/presentation-formats-features/convert-otp-files-to-powerpoint-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ملفات OTP إلى PowerPoint بسهولة باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

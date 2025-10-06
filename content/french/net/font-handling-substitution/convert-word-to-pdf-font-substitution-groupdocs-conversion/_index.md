@@ -4,8 +4,8 @@
 "title": "Convertir Word en PDF avec substitution de polices à l'aide de GroupDocs.Conversion pour .NET"
 "url": "/fr/net/font-handling-substitution/convert-word-to-pdf-font-substitution-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des documents Word en PDF avec substitution de polices à l'aide de GroupDocs.Conversion pour .NET
 ## Introduction
 La conversion de documents Word au format PDF entraîne souvent des incohérences de polices, ce qui entraîne des problèmes de mise en forme. Ce guide simplifie la cohérence des polices grâce à GroupDocs.Conversion pour .NET. Découvrez comment configurer les options de chargement pour la substitution de polices et convertir facilement vos documents Word au format PDF tout en préservant la fidélité visuelle.

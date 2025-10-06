@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak JPEG 2000'i Kolayca DOCX'e Dönüştürün"
 "url": "/tr/net/word-processing-conversion/convert-jpeg-2000-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak JPEG 2000'i Microsoft Word DOCX'e Dönüştürme
 
 ## giriiş

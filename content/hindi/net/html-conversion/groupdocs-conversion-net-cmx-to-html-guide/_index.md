@@ -4,8 +4,8 @@
 "title": "व्यापक गाइड&#58; निर्बाध दस्तावेज़ वर्कफ़्लो एकीकरण के लिए GroupDocs.Conversion .NET का उपयोग करके CMX को HTML में परिवर्तित करें"
 "url": "/hi/net/html-conversion/groupdocs-conversion-net-cmx-to-html-guide/"
 "weight": 1
+type: docs
 ---
-
 # व्यापक गाइड: GroupDocs.Conversion .NET का उपयोग करके CMX को HTML में परिवर्तित करें
 
 ## परिचय

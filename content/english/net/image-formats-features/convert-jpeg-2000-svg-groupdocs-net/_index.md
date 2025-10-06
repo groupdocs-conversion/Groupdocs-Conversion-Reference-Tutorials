@@ -8,10 +8,8 @@ keywords:
 - convert JPEG 2000 to SVG
 - GroupDocs.Conversion for .NET
 - image conversion in .NET
-
+type: docs
 ---
-
-
 # Convert JPEG 2000 to SVG in .NET with GroupDocs.Conversion
 
 ## Introduction

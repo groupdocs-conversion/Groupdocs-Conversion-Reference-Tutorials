@@ -4,8 +4,8 @@
 "title": "DIB konvertálása PNG-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-formats-features/convert-dib-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DIB konvertálása PNG-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

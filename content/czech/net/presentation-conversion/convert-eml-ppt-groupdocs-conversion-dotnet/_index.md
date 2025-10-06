@@ -4,8 +4,8 @@
 "title": "Jak převést soubory EML do formátu PowerPoint PPT pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/presentation-conversion/convert-eml-ppt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory EML do formátu PowerPoint PPT pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

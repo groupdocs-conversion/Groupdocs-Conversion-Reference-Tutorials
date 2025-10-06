@@ -4,8 +4,8 @@
 "title": "Efektivní převod PowerPointu (PPTM) do Wordu (DOCX) pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/presentation-formats-features/convert-pptm-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod PowerPointu (PPTM) do Wordu (DOCX) pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

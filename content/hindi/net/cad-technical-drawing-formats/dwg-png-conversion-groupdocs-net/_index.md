@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके DWG फ़ाइलों को PNG में कैसे परिवर्तित करें"
 "url": "/hi/net/cad-technical-drawing-formats/dwg-png-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके DWG फ़ाइलों को PNG में कैसे परिवर्तित करें
 
 ## परिचय

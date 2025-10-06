@@ -4,8 +4,8 @@
 "title": "Hatékony EPS-TXT konvertálás .NET-ben a GroupDocs.Conversion segítségével"
 "url": "/hu/net/text-markup-conversion/master-eps-txt-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony EPS-TXT konvertálás .NET-ben a GroupDocs.Conversion segítségével
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Hướng dẫn toàn diện để chuyển đổi EPUB sang PDF bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/pdf-conversion/convert-epub-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Hướng dẫn toàn diện để chuyển đổi EPUB sang PDF bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

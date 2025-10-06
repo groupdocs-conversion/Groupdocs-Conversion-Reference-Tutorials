@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 將 TSV 轉換為 PSD 的綜合指南"
 "url": "/zh-hant/net/image-formats-features/convert-tsv-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 將 TSV 轉換為 PSD
 ## 介紹
 您是否希望簡化 .NET 應用程式中的檔案轉換？無論您是開發文件管理系統的開發人員，還是需要無縫資料轉換的人員，將文件從一種格式轉換為另一種格式都可能非常繁瑣。本指南將向您展示如何使用 GroupDocs.Conversion for .NET 有效地載入 TSV（製表符分隔值）檔案並將其轉換為 PSD（Photoshop 文件）格式。

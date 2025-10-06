@@ -8,10 +8,8 @@ keywords:
 - convert MPT to PSD .NET
 - GroupDocs.Conversion for .NET
 - MPT to PSD conversion guide
-
+type: docs
 ---
-
-
 # Convert MPT to PSD in .NET Using GroupDocs.Conversion: A Step-by-Step Guide
 
 ## Introduction

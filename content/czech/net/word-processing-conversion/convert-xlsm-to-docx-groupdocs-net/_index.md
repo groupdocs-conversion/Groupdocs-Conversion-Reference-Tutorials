@@ -4,8 +4,8 @@
 "title": "Převod XLSM do DOCX pomocí nástroje GroupDocs.Conversion pro .NET – podrobný návod"
 "url": "/cs/net/word-processing-conversion/convert-xlsm-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod XLSM do DOCX pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

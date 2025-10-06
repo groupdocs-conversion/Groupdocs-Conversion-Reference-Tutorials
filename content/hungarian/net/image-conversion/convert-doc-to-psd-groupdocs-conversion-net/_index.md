@@ -4,8 +4,8 @@
 "title": "DOC konvertálása PSD-vé – lépésről lépésre útmutató a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/convert-doc-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DOC konvertálása PSD-vé: Lépésről lépésre útmutató a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

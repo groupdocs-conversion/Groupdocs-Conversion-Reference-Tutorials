@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Java 文档转换选项教程"
 "url": "/zh/java/conversion-options/"
 "weight": 3
+type: docs
 ---
-
 # GroupDocs.Conversion Java 文档转换选项教程
 
 使用我们详细的 GroupDocs.Conversion Java 教程，掌握文档转换设置。这些分步指南演示了如何微调转换参数、设置页面范围、配置图像质量、控制字体、管理元数据，以及以编程方式自定义各种其他转换功能。每个教程都包含 Java 代码示例、实现说明和最佳实践，以帮助您构建能够生成完美自定义输出文档的应用程序。

@@ -4,8 +4,8 @@
 "title": "Konversi Slide PPT ke Excel&#58; Mastering GroupDocs.Conversion untuk .NET"
 "url": "/id/net/presentation-conversion/convert-ppt-slides-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi Slide PPT ke Excel dengan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

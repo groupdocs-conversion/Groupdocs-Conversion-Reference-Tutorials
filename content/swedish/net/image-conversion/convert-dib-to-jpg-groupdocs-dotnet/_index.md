@@ -4,8 +4,8 @@
 "title": "Konvertera DIB till JPG med GroupDocs.Conversion för .NET - En steg-för-steg-guide"
 "url": "/sv/net/image-conversion/convert-dib-to-jpg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera DIB till JPG med GroupDocs.Conversion för .NET
 
 ## Introduktion

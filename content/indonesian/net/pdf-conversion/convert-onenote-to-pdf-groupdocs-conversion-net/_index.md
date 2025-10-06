@@ -4,8 +4,8 @@
 "title": "Konversi File OneNote ke PDF Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/pdf-conversion/convert-onenote-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi File OneNote ke PDF dengan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

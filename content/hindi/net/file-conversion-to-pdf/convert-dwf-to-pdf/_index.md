@@ -5,8 +5,8 @@
 "title": "DWF CAD फ़ाइलों को PDF में बदलें"
 "url": "/hi/net/file-conversion-to-pdf/convert-dwf-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # DWF CAD फ़ाइलों को PDF में बदलें
 
 ## परिचय

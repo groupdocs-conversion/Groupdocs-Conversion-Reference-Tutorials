@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 透過快取優化 .NET 文件轉換"
 "url": "/zh-hant/net/cache-management/optimize-net-document-conversion-caching-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 透過快取優化 .NET 文件轉換
 
 ## 介紹

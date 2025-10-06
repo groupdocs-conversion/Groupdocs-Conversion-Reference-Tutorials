@@ -4,8 +4,8 @@
 "title": "Jak převést soubory DWG do TXT pomocí GroupDocs.Conversion v .NET – podrobný návod"
 "url": "/cs/net/cad-technical-drawing-formats/convert-dwg-to-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory DWG do TXT pomocí GroupDocs.Conversion v .NET: Podrobný návod
 
 ## Zavedení

@@ -5,8 +5,8 @@
 "title": "Konvertera CDR-vektorgrafik till PDF"
 "url": "/sv/net/file-conversion-to-pdf/convert-cdr-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # Konvertera CDR-vektorgrafik till PDF
 
 ## Introduktion

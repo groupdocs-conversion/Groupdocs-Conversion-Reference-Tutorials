@@ -4,8 +4,8 @@
 "title": "Efektywna konwersja DXF do XLSX przy użyciu GroupDocs.Conversion dla .NET - CAD i formaty rysunków technicznych"
 "url": "/pl/net/cad-technical-drawing-formats/convert-dxf-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektywna konwersja DXF do XLSX przy użyciu GroupDocs.Conversion dla .NET
 
 ## Wstęp

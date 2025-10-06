@@ -4,8 +4,8 @@
 "title": "MOBI konvertálása PPTX-be – Lépésről lépésre útmutató a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/presentation-conversion/convert-mobi-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # MOBI konvertálása PPTX-be: Lépésről lépésre útmutató a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

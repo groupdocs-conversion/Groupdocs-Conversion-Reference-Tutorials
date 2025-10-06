@@ -4,8 +4,8 @@
 "title": "Πώς να μετατρέψετε αρχεία XLSX με κρυφά φύλλα σε PDF χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/spreadsheet-formats-features/convert-xlsx-hidden-sheets-to-pdf-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε αρχεία XLSX με κρυφά φύλλα σε PDF χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

@@ -4,8 +4,8 @@
 "title": ".NET 개발자를 위한 GroupDocs를 사용하여 Visio 웹 드로잉을 PowerPoint로 효율적으로 변환"
 "url": "/ko/net/presentation-formats-features/convert-vdw-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET 개발자를 위한 GroupDocs를 사용하여 Visio 웹 드로잉(VDW)을 PowerPoint 프레젠테이션으로 효율적으로 변환
 
 ## 소개

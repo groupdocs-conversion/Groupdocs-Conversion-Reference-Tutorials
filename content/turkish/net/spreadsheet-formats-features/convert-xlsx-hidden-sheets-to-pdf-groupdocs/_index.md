@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanılarak Gizli Sayfalara Sahip XLSX Dosyaları PDF'ye Nasıl Dönüştürülür"
 "url": "/tr/net/spreadsheet-formats-features/convert-xlsx-hidden-sheets-to-pdf-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanılarak Gizli Sayfalara Sahip XLSX Dosyaları PDF'ye Nasıl Dönüştürülür
 
 ## giriiş

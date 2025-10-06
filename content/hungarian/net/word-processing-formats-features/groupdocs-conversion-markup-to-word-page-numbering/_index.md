@@ -4,8 +4,8 @@
 "title": "Jelölőkód konvertálása Word formátumba oldalszámozással a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/word-processing-formats-features/groupdocs-conversion-markup-to-word-page-numbering/"
 "weight": 1
+type: docs
 ---
-
 # Jelölőkód konvertálása Word formátumba oldalszámozással a GroupDocs.Conversion for .NET használatával
 ## Bevezetés
 Szeretnéd professzionális Word formátumba konvertálni a jelölődokumentumokat, miközben megőrzöd a pontos oldalszámozást? Ez az oktatóanyag végigvezet a használatán **GroupDocs.Conversion .NET-hez** zökkenőmentesen átalakíthatja dokumentumait. Ez a hatékony könyvtár leegyszerűsíti az átalakításokat, és biztosítja, hogy az olyan lényeges elemek, mint az oldalszámozás, érintetlenek maradjanak a kimeneti dokumentumban.

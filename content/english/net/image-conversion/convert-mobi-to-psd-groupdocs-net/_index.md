@@ -8,10 +8,8 @@ keywords:
 - convert MOBI to PSD
 - GroupDocs.Conversion for .NET
 - image conversion guide
-
+type: docs
 ---
-
-
 # Comprehensive Guide: Convert MOBI to PSD using GroupDocs.Conversion for .NET
 
 ## Introduction

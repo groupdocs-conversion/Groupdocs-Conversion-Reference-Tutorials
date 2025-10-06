@@ -4,8 +4,8 @@
 "title": "Konvertera TIFF till XLS med GroupDocs.Conversion för .NET – en komplett guide"
 "url": "/sv/net/spreadsheet-conversion/convert-tiff-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera TIFF till XLS med GroupDocs.Conversion för .NET
 
 ## Introduktion

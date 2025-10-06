@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak VSTM Dosyaları HTML'ye Nasıl Dönüştürülür? Geliştiricinin Kılavuzu"
 "url": "/tr/net/html-conversion/convert-vstm-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak VSTM Dosyaları HTML'ye Nasıl Dönüştürülür: Geliştiricinin Kılavuzu
 
 ## giriiş

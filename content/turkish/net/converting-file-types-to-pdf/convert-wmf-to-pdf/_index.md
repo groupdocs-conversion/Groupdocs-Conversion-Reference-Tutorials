@@ -5,8 +5,8 @@
 "title": "WMF'yi PDF'ye dönüştür"
 "url": "/tr/net/converting-file-types-to-pdf/convert-wmf-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # WMF'yi PDF'ye dönüştür
 
 ## giriiş

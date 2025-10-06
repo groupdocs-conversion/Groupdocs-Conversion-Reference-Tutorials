@@ -4,8 +4,8 @@
 "title": "Převod DWG do PPTX pomocí GroupDocs.Conversion .NET – Podrobný návod pro CAD profesionály"
 "url": "/cs/net/cad-technical-drawing-formats/convert-dwg-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod DWG do PPTX pomocí GroupDocs.Conversion .NET
 ## Zavedení
 Převod souborů DWG do formátu PPTX může výrazně zlepšit váš pracovní postup tím, že zpřístupní technické výkresy. Tato příručka poskytuje podrobný postup pro architekty, inženýry a designéry používající GroupDocs.Conversion .NET.

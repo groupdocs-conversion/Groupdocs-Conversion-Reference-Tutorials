@@ -4,8 +4,8 @@
 "title": "PPT Slaytlarını Excel'e Dönüştürme&#58; Mastering GroupDocs.Conversion for .NET"
 "url": "/tr/net/presentation-conversion/convert-ppt-slides-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PPT Slaytlarını GroupDocs.Conversion for .NET ile Excel'e Dönüştürün
 
 ## giriiş

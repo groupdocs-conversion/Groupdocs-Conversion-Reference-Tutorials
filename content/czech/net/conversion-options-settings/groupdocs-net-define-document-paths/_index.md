@@ -4,8 +4,8 @@
 "title": "Efektivní správa cest k dokumentům v .NET s GroupDocs.Conversion – definování konstant pro bezproblémové konverze"
 "url": "/cs/net/conversion-options-settings/groupdocs-net-define-document-paths/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní správa cest k dokumentům v .NET s GroupDocs.Conversion
 
 ## Zavedení

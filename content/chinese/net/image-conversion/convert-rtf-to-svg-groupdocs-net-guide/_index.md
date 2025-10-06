@@ -4,8 +4,8 @@
 "title": "使用 C# 中的 GroupDocs.Conversion 将 RTF 转换为 SVG 完整指南"
 "url": "/zh/net/image-conversion/convert-rtf-to-svg-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # 使用 C# 中的 GroupDocs.Conversion 将 RTF 转换为 SVG：综合指南
 
 ## 介绍

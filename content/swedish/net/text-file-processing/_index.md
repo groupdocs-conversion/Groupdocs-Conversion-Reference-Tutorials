@@ -3,8 +3,8 @@
 "title": "Handledningar för textfilbehandling för GroupDocs.Conversion .NET"
 "url": "/sv/net/text-file-processing/"
 "weight": 17
+type: docs
 ---
-
 # Handledningar för textfilbehandling för GroupDocs.Conversion .NET
 
 Våra handledningar för textfilkonvertering visar hur du arbetar med vanlig text med GroupDocs.Conversion i .NET. Dessa detaljerade guider går igenom hur du kontrollerar beteendet för inledande och efterföljande mellanslag under textkonvertering, anger kodningsalternativ för textfiler, bevarar formatering när det är möjligt, hanterar radbrytningar och specialtecken, implementerar textbrytningspolicyer, konfigurerar paginering för konverterad text och hanterar krav för dubbelriktad text. Varje handledning innehåller fungerande C#-kodexempel för textfilkonverteringsscenarier, vilket hjälper dig att bygga applikationer som effektivt kan bearbeta vanlig text samtidigt som läsbarhet och struktur bibehålls i utdata.

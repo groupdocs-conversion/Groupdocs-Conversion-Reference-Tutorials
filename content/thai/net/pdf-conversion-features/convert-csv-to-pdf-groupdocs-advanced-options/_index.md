@@ -4,8 +4,8 @@
 "title": "แปลง CSV เป็น PDF ในตัวเลือกขั้นสูงของ .NET ด้วย GroupDocs.Conversion"
 "url": "/th/net/pdf-conversion-features/convert-csv-to-pdf-groupdocs-advanced-options/"
 "weight": 1
+type: docs
 ---
-
 # แปลง CSV เป็น PDF ใน .NET: ตัวเลือกขั้นสูงด้วย GroupDocs.Conversion
 
 ## การแนะนำ

@@ -8,10 +8,8 @@ keywords:
 - retrieve PDF metadata
 - GroupDocs.Conversion for .NET
 - automate PDF information extraction
-
+type: docs
 ---
-
-
 # How to Retrieve PDF Metadata with GroupDocs.Conversion for .NET
 
 Tired of manually extracting information from PDF documents? Automate the task with GroupDocs.Conversion for .NET and retrieve vital details such as authorship, creation dates, page count, dimensions, and more.

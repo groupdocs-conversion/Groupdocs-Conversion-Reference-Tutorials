@@ -4,8 +4,8 @@
 "title": "Как преобразовать файлы XLSX со скрытыми листами в PDF с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/spreadsheet-formats-features/convert-xlsx-hidden-sheets-to-pdf-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Как преобразовать файлы XLSX со скрытыми листами в PDF с помощью GroupDocs.Conversion для .NET
 
 ## Введение

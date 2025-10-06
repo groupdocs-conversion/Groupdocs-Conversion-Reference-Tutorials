@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके MBOX को TEX में कैसे बदलें एक चरण-दर-चरण मार्गदर्शिका"
 "url": "/hi/net/email-formats-features/convert-mbox-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके MBOX को TEX में कैसे बदलें: एक चरण-दर-चरण मार्गदर्शिका
 
 ## परिचय

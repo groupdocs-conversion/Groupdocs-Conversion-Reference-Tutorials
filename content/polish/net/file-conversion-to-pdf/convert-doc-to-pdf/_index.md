@@ -5,8 +5,8 @@
 "title": "Konwertuj dokumenty DOC Word do PDF"
 "url": "/pl/net/file-conversion-to-pdf/convert-doc-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # Konwertuj dokumenty DOC Word do PDF
 
 ## Wstęp

@@ -4,8 +4,8 @@
 "title": "Конвертируйте VST в TXT с помощью GroupDocs.Conversion для .NET — руководство по конвертации текста и разметки"
 "url": "/ru/net/text-markup-conversion/convert-vst-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте файлы VST в TXT с помощью GroupDocs.Conversion для .NET
 
 ## Введение

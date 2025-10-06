@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion을 사용하여 .NET에서 TIFF를 JPG로 손쉽게 변환"
 "url": "/ko/net/image-conversion/tiff-to-jpg-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 이용한 간편한 TIFF-JPG 변환
 
 ## 소개

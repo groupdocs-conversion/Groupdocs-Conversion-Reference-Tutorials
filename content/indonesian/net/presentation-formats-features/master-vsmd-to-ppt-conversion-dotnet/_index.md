@@ -4,8 +4,8 @@
 "title": "Menguasai Konversi VSDM ke PPT dalam .NET dengan GroupDocs.Conversion"
 "url": "/id/net/presentation-formats-features/master-vsmd-to-ppt-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Menguasai Konversi VSDM ke PPT di .NET dengan GroupDocs.Conversion
 
 Dalam lanskap digital saat ini, konversi file yang lancar sangat penting bagi bisnis dan pengembang. Mengonversi Diagram Visio Macro-Enabled (VSDM) menjadi presentasi PowerPoint dapat secara signifikan memperlancar alur kerja dan meningkatkan kolaborasi. Tutorial ini memandu Anda untuk menguasai tugas ini menggunakan GroupDocs.Conversion for .NET.

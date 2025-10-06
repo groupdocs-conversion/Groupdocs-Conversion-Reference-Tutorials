@@ -4,8 +4,8 @@
 "title": "Efektivní převod souborů OTP do PowerPointu pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/presentation-formats-features/convert-otp-files-to-powerpoint-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Snadná konverze souborů OTP do PowerPointu pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

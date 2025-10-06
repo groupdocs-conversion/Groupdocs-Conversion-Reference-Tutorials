@@ -3,8 +3,8 @@
 "title": "Zelfstudies voor het converteren van tekst en markering voor GroupDocs.Conversion .NET"
 "url": "/nl/net/text-markup-conversion/"
 "weight": 32
+type: docs
 ---
-
 # Zelfstudies voor het converteren van tekst en markering voor GroupDocs.Conversion .NET
 
 Ontdek tekstgebaseerde formaatconversie met onze gedetailleerde GroupDocs.Conversion-tutorials voor .NET-ontwikkelaars. Deze stapsgewijze handleidingen laten zien hoe u kunt converteren van RTF-documentformaten naar platte tekst, XML, Markdown, TeX en andere tekstgebaseerde formaten. Leer meer over coderingsopties, tekstextractietechnieken, het omgaan met speciale tekens, het behouden van de documentstructuur, het onderhouden van hiërarchische relaties in markupformaten en het implementeren van tekstopmaakbeleid. Elke tutorial bevat praktische C#-codevoorbeelden voor het maken van tekstrepresentaties van uw documenten die de essentiële inhoud vastleggen in eenvoudige, overdraagbare en gemakkelijk te parseren formaten.

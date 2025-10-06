@@ -8,10 +8,8 @@ keywords:
 - file conversion in C#
 - using GroupDocs.Conversion for .NET
 - document conversion with C#
-
+type: docs
 ---
-
-
 # Mastering File Conversion in C#: Implementing GroupDocs.Conversion for .NET
 
 ## Introduction

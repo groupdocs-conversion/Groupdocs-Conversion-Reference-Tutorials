@@ -4,8 +4,8 @@
 "title": "PowerPoint를 Photoshop으로 변환&#58; Master GroupDocs.Conversion for .NET PPT to PSD 변환"
 "url": "/ko/net/image-formats-features/groupdocs-conversion-net-ppt-psd/"
 "weight": 1
+type: docs
 ---
-
 # PowerPoint를 Photoshop으로 변환: .NET PPT를 PSD로 변환하는 Master GroupDocs.Conversion
 
 ## 소개

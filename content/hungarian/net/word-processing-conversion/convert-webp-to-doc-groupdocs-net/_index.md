@@ -4,8 +4,8 @@
 "title": "WEBP hatékony konvertálása DOC-ba a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/word-processing-conversion/convert-webp-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # WEBP hatékony konvertálása DOC-ba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -5,8 +5,8 @@
 "title": "Konvertering av filformat"
 "url": "/sv/net/file-format-conversion-tutorials/"
 "weight": 21
+type: docs
 ---
-
 # Konvertering av filformat
 
 ## Introduktion

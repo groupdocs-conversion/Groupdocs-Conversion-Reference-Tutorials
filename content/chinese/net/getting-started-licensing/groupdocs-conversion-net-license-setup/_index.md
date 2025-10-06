@@ -4,8 +4,8 @@
 "title": "如何设置和应用 GroupDocs.Conversion .NET 许可证——分步指南"
 "url": "/zh/net/getting-started-licensing/groupdocs-conversion-net-license-setup/"
 "weight": 1
+type: docs
 ---
-
 # 综合教程：设置 GroupDocs.Conversion .NET 许可证
 
 ## 介绍

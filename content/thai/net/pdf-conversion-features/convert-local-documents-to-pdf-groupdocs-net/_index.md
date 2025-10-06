@@ -4,8 +4,8 @@
 "title": "แปลงเอกสารท้องถิ่นเป็น PDF ด้วย GroupDocs การแปลงสำหรับ .NET คำแนะนำที่ครอบคลุม"
 "url": "/th/net/pdf-conversion-features/convert-local-documents-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการแปลงเอกสารท้องถิ่นเป็น PDF ด้วย GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

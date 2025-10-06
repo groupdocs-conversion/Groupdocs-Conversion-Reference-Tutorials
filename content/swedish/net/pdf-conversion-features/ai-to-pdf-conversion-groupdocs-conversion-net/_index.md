@@ -4,8 +4,8 @@
 "title": "Guide för konvertering från AI till PDF med GroupDocs.Conversion för .NET"
 "url": "/sv/net/pdf-conversion-features/ai-to-pdf-conversion-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Guide för konvertering från AI till PDF med GroupDocs.Conversion för .NET
 
 ## Introduktion

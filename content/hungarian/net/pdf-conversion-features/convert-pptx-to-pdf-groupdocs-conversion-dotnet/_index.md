@@ -4,8 +4,8 @@
 "title": "PPTX PDF-be konvertálás elsajátítása a GroupDocs.Conversion for .NET használatával – Fejlesztői útmutató"
 "url": "/hu/net/pdf-conversion-features/convert-pptx-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # PPTX-ből PDF-be konvertálás elsajátítása a GroupDocs.Conversion for .NET használatával: Fejlesztői útmutató
 
 ## Bevezetés

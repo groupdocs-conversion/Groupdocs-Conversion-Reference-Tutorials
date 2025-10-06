@@ -4,8 +4,8 @@
 "title": "Převod PPSM do PDF v .NET pomocí GroupDocs.Conversion – Podrobný návod"
 "url": "/cs/net/pdf-conversion/convert-ppsm-pdf-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # Převod PPSM do PDF v .NET pomocí GroupDocs.Conversion: Podrobný návod
 
 ## Zavedení

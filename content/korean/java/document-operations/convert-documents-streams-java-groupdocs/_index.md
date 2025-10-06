@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion을 사용하여 Java에서 스트림의 문서 변환"
 "url": "/ko/java/document-operations/convert-documents-streams-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용하여 Java에서 스트림의 문서 변환
 
 ## 소개

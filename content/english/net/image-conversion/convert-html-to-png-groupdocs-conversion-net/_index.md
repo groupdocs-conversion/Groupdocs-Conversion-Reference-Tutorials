@@ -8,10 +8,8 @@ keywords:
 - convert HTML to PNG
 - GroupDocs.Conversion .NET
 - HTML to image conversion
-
+type: docs
 ---
-
-
 # Convert HTML to PNG with GroupDocs.Conversion for .NET
 
 ## Introduction

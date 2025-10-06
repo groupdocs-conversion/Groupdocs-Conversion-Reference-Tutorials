@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET を使用して MHTML を Excel に変換する - スプレッドシート変換の包括的なガイド"
 "url": "/ja/net/spreadsheet-conversion/convert-mhtml-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET を使用して MHTML を Excel に変換する: 包括的なガイド
 
 ## 導入

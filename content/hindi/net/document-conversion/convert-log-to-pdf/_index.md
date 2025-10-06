@@ -5,8 +5,8 @@
 "title": "LOG को PDF में बदलें"
 "url": "/hi/net/document-conversion/convert-log-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # LOG को PDF में बदलें
 
 ## परिचय

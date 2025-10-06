@@ -4,8 +4,8 @@
 "title": "EPS fájlok egyszerű konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/pdf-conversion/convert-eps-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # EPS fájlok egyszerű konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével: Átfogó útmutató
 
 ## Bevezetés

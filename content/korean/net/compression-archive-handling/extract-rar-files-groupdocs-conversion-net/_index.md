@@ -4,8 +4,8 @@
 "title": ".NET 개발자 가이드에서 GroupDocs.Conversion을 사용하여 RAR 파일을 효율적으로 추출하는 방법"
 "url": "/ko/net/compression-archive-handling/extract-rar-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET에서 GroupDocs.Conversion을 사용하여 RAR 파일을 효율적으로 추출하는 방법: 개발자 가이드
 
 ## 소개

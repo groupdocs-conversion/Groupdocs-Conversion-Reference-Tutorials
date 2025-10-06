@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion का उपयोग करके .NET में PowerPoint टेम्पलेट्स को JPEG में कुशलतापूर्वक रूपांतरित करें"
 "url": "/hi/net/image-conversion/convert-powerpoint-to-jpeg-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion का उपयोग करके .NET में PowerPoint टेम्पलेट्स को JPEG में कुशल रूपांतरण
 
 ## परिचय

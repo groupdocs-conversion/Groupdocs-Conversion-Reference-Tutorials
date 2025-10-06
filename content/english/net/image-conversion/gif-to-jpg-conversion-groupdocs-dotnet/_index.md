@@ -8,10 +8,8 @@ keywords:
 - GIF to JPG conversion
 - GroupDocs.Conversion for .NET
 - image format conversion
-
+type: docs
 ---
-
-
 # Convert GIFs to JPGs Effortlessly: GroupDocs.Conversion for .NET Guide
 
 ## Introduction

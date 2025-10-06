@@ -4,8 +4,8 @@
 "title": "Konvertera effektivt DOC till PPT i .NET med GroupDocs.Conversion – en omfattande guide"
 "url": "/sv/net/presentation-conversion/convert-doc-to-ppt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera effektivt DOC till PPT i .NET med GroupDocs.Conversion
 
 ## Introduktion

@@ -5,8 +5,8 @@
 "title": "Konwertuj strony internetowe HTML do formatu PDF"
 "url": "/pl/net/convert-files-to-pdf/convert-html-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Konwertuj strony internetowe HTML do formatu PDF
 
 ## Wstęp

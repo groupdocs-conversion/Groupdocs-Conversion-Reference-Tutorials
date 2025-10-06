@@ -4,8 +4,8 @@
 "title": "JLS PPT-vé konvertálása – lépésről lépésre útmutató a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/presentation-formats-features/convert-jls-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # JLS konvertálása PPT-vé: Lépésről lépésre útmutató a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

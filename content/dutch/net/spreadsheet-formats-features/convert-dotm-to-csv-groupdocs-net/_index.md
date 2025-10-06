@@ -4,8 +4,8 @@
 "title": "DOTM naar CSV converteren met GroupDocs.Conversion voor .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/spreadsheet-formats-features/convert-dotm-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DOTM naar CSV converteren met GroupDocs.Conversion voor .NET: een stapsgewijze handleiding
 
 ## Invoering

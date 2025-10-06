@@ -4,8 +4,8 @@
 "title": "XLSB fájlok egyszerű konvertálása XLSX fájlokká a GroupDocs.Conversion for .NET segítségével | Lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-xlsb-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # XLSB fájlok egyszerű konvertálása XLSX fájlokká a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

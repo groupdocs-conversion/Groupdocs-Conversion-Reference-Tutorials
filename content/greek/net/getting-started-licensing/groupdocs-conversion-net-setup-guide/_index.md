@@ -4,8 +4,8 @@
 "title": "Πλήρης οδηγός για την εγκατάσταση και υλοποίηση του GroupDocs.Conversion για .NET®"
 "url": "/el/net/getting-started-licensing/groupdocs-conversion-net-setup-guide/"
 "weight": 1
+type: docs
 ---
-
 # Πλήρης οδηγός για το GroupDocs.Conversion για .NET: Ρύθμιση και υλοποίηση
 
 ## Εισαγωγή

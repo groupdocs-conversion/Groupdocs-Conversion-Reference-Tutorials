@@ -4,8 +4,8 @@
 "title": "XLS fájlok CSV-vé konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-conversion/convert-xls-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # XLS fájlok CSV formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

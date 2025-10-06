@@ -4,8 +4,8 @@
 "title": "Chuyển đổi CSV sang PDF trong .NET&#58; Tùy chọn nâng cao với GroupDocs.Conversion"
 "url": "/vi/net/pdf-conversion-features/convert-csv-to-pdf-groupdocs-advanced-options/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi CSV sang PDF trong .NET: Tùy chọn nâng cao với GroupDocs.Conversion
 
 ## Giới thiệu

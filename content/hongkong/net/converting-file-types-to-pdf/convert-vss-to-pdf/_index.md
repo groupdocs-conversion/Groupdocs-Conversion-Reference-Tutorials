@@ -5,8 +5,8 @@
 "title": "將 VSS 轉換為 PDF"
 "url": "/zh-hant/net/converting-file-types-to-pdf/convert-vss-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # 將 VSS 轉換為 PDF
 
 ## 介紹

@@ -4,8 +4,8 @@
 "title": "تحويل ODG إلى JPG في .NET باستخدام GroupDocs.Conversion - دليل خطوة بخطوة"
 "url": "/ar/net/image-conversion/convert-odg-to-jpg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ملفات ODG إلى JPG باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

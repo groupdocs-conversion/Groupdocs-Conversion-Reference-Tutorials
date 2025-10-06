@@ -4,8 +4,8 @@
 "title": "Documentconversie in .NET onder de knie krijgen&#58; converteer SXC naar DOCX met GroupDocs.Conversion"
 "url": "/nl/net/word-processing-conversion/convert-sxc-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Documentconversie in .NET onder de knie krijgen: SXC naar DOCX converteren met GroupDocs.Conversion
 
 ## Invoering

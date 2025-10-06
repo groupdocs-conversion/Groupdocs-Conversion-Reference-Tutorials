@@ -4,8 +4,8 @@
 "title": "Comment convertir XLTm en PPT à l'aide de GroupDocs.Conversion pour .NET ? Guide étape par étape"
 "url": "/fr/net/presentation-conversion/convert-xltm-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir XLTm en PowerPoint avec GroupDocs.Conversion pour .NET : guide étape par étape
 
 ## Introduction

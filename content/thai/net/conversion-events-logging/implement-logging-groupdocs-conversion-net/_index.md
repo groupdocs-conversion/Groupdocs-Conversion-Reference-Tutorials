@@ -4,8 +4,8 @@
 "title": "การนำการบันทึกไปใช้ใน GroupDocs.Conversion สำหรับ .NET พร้อมคำแนะนำทีละขั้นตอน"
 "url": "/th/net/conversion-events-logging/implement-logging-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการใช้การบันทึกเหตุการณ์ GroupDocs.Conversion ใน .NET: คู่มือฉบับสมบูรณ์
 
 ## การแนะนำ

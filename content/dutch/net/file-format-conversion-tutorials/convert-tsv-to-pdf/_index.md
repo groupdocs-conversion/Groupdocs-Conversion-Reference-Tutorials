@@ -5,8 +5,8 @@
 "title": "TSV naar PDF converteren"
 "url": "/nl/net/file-format-conversion-tutorials/convert-tsv-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # TSV naar PDF converteren
 
 ## Invoering

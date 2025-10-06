@@ -4,8 +4,8 @@
 "title": "Så här laddar du EPUB-filer med GroupDocs.Conversion för .NET - en steg-för-steg-guide"
 "url": "/sv/net/loading-from-local-sources/load-epub-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Så här laddar du en EPUB-fil med GroupDocs.Conversion för .NET: En omfattande guide
 
 ## Introduktion

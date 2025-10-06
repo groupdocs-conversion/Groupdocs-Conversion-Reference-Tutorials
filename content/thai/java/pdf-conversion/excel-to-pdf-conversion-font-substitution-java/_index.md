@@ -4,8 +4,8 @@
 "title": "แปลง Excel เป็น PDF ใน Java ด้วยการแทนที่แบบอักษรโดยใช้ GroupDocs.Conversion"
 "url": "/th/java/pdf-conversion/excel-to-pdf-conversion-font-substitution-java/"
 "weight": 1
+type: docs
 ---
-
 # แปลง Excel เป็น PDF ใน Java ด้วยการแทนที่แบบอักษรโดยใช้ GroupDocs.Conversion
 
 ## การแนะนำ

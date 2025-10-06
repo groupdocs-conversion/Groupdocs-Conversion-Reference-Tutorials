@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Learn how to convert VSX files to PDF format effortlessly using GroupDocs.Conversion for .NET. Follow our step-by-step tutorial.
 weight: 16
 url: /net/converting-file-types-to-pdf/convert-vsx-to-pdf/
+type: docs
 ---
-
 # Convert VSX to PDF
 
 ## Introduction

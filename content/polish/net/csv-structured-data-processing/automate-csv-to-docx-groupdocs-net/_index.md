@@ -4,8 +4,8 @@
 "title": "Zautomatyzuj konwersję CSV do DOCX za pomocą GroupDocs dla .NET | Przewodnik po bezproblemowym przetwarzaniu danych"
 "url": "/pl/net/csv-structured-data-processing/automate-csv-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Zautomatyzuj konwersję CSV do DOCX za pomocą GroupDocs dla .NET
 
 ## Wstęp

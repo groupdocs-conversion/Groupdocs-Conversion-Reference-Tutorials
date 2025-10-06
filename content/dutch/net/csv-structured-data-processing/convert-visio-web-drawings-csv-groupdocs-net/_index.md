@@ -4,8 +4,8 @@
 "title": "Visio-webtekeningen (VDW) converteren naar CSV met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/csv-structured-data-processing/convert-visio-web-drawings-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Visio-webtekeningen (VDW) converteren naar CSV met GroupDocs.Conversion voor .NET
 
 ## Invoering

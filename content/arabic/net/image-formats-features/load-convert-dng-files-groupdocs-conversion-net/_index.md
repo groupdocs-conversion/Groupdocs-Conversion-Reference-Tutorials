@@ -4,8 +4,8 @@
 "title": "تحميل وتحويل ملفات DNG إلى SVG بكفاءة باستخدام GroupDocs.Conversion .NET"
 "url": "/ar/net/image-formats-features/load-convert-dng-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحميل وتحويل ملفات DNG إلى SVG بكفاءة باستخدام GroupDocs.Conversion .NET
 
 ## مقدمة

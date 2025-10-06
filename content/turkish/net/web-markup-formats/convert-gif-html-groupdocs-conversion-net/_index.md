@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak GIF'leri HTML'ye Nasıl Dönüştürebilirsiniz? Adım Adım Kılavuz"
 "url": "/tr/net/web-markup-formats/convert-gif-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak GIF'ler HTML'ye Nasıl Dönüştürülür: Adım Adım Kılavuz
 
 ## giriiş

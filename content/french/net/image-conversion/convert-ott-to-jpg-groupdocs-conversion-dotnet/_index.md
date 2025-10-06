@@ -4,8 +4,8 @@
 "title": "Convertir des fichiers OTT en JPG dans .NET &#58; un guide étape par étape avec GroupDocs.Conversion"
 "url": "/fr/net/image-conversion/convert-ott-to-jpg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des fichiers OTT en JPG avec GroupDocs.Conversion pour .NET
 
 ## Introduction

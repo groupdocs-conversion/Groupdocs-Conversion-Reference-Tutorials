@@ -5,8 +5,8 @@
 "title": "ODG'yi PDF'ye dönüştür"
 "url": "/tr/net/document-conversion/convert-odg-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # ODG'yi PDF'ye dönüştür
 
 ## giriiş

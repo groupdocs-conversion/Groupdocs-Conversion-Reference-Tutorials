@@ -8,10 +8,8 @@ keywords:
 - convert PPSM to TXT
 - GroupDocs.Conversion for .NET
 - PPSM file conversion
-
+type: docs
 ---
-
-
 # Convert PPSM to TXT Using GroupDocs.Conversion for .NET
 
 ## Introduction

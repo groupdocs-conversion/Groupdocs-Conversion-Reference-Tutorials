@@ -8,10 +8,8 @@ keywords:
 - Convert CSV to PDF Java
 - GroupDocs Conversion Java
 - Shift_JIS Encoding
-
+type: docs
 ---
-
-
 # Convert CSV to PDF in Java Using GroupDocs with Shift_JIS Encoding
 
 ## Introduction

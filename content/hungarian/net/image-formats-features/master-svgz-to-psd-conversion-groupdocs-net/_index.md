@@ -4,8 +4,8 @@
 "title": "Hatékony SVGZ-PSD konvertálás a GroupDocs.Conversion segítségével .NET fejlesztőknek"
 "url": "/hu/net/image-formats-features/master-svgz-to-psd-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony SVGZ-PSD konvertálás a GroupDocs.Conversion segítségével .NET fejlesztőknek
 
 ## Bevezetés

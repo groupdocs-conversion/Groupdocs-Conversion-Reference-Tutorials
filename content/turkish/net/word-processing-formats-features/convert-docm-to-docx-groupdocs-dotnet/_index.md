@@ -4,8 +4,8 @@
 "title": "DOCM'yi .NET için GroupDocs.Conversion Kullanarak DOCX'e Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/word-processing-formats-features/convert-docm-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanarak DOCM Dosyalarını DOCX'e Dönüştürme
 
 ## giriiş

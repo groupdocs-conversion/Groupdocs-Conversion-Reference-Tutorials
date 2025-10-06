@@ -4,8 +4,8 @@
 "title": "Lépésről lépésre útmutató&#58; DICOM konvertálása DOC-ba a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/word-processing-conversion/convert-dicom-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Lépésről lépésre útmutató: DICOM konvertálása DOC-vá a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

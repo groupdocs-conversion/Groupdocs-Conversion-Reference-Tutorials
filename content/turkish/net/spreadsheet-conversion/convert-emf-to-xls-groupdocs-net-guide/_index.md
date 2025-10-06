@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak EMF'yi XLS'ye Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/spreadsheet-conversion/convert-emf-to-xls-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak EMF'yi XLS'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

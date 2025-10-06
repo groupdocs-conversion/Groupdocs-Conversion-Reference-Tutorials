@@ -5,8 +5,8 @@
 "title": "AI Dosyalarını PDF'ye Dönüştür"
 "url": "/tr/net/file-conversion-to-pdf/convert-ai-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # AI Dosyalarını PDF'ye Dönüştür
 
 ## giriiş

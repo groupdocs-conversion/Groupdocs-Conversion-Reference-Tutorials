@@ -5,8 +5,8 @@
 "title": "Chuyển đổi tệp JPEG-LS (.JLS) sang PDF"
 "url": "/vi/net/convert-files-to-pdf/convert-jls-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # Chuyển đổi tệp JPEG-LS (.JLS) sang PDF
 
 ## Giới thiệu

@@ -8,10 +8,8 @@ keywords:
 - convert XLSX to PPT
 - GroupDocs.Conversion for .NET
 - Excel to PowerPoint conversion
-
+type: docs
 ---
-
-
 # Convert XLSX to PPT Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

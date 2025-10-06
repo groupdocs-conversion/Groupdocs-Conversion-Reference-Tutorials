@@ -5,8 +5,8 @@
 "title": "EPSカプセル化PostScriptファイルをPDFに変換する"
 "url": "/ja/net/convert-files-to-pdf/convert-eps-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # EPSカプセル化PostScriptファイルをPDFに変換する
 
 ## 導入

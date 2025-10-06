@@ -4,8 +4,8 @@
 "title": "Converteer PowerPoint-sjablonen efficiënt naar tekst met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/text-markup-conversion/convert-powerpoint-to-text-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PowerPoint-sjablonen converteren naar tekst met GroupDocs.Conversion voor .NET
 
 ## Invoering

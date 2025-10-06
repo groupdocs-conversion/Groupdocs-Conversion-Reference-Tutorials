@@ -4,8 +4,8 @@
 "title": "Jak převést soubory XLSX do formátu PPTX pomocí nástroje GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/presentation-conversion/convert-xlsx-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory XLSX do PPTX pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "So rufen Sie persönliche Speicherinformationen aus Outlook-OST-Dateien mit GroupDocs.Conversion für .NET ab"
 "url": "/de/net/storage-files-pst-processing/retrieve-personal-storage-info-outlook-ost-net/"
 "weight": 1
+type: docs
 ---
-
 # So rufen Sie persönliche Speicherinformationen aus Outlook-OST-Dateien mit GroupDocs.Conversion für .NET ab
 
 ## Einführung

@@ -5,8 +5,8 @@
 "title": "Convertir PNG a PDF"
 "url": "/es/net/pdf-conversion/convert-png-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Convertir PNG a PDF
 
 ## Introducción

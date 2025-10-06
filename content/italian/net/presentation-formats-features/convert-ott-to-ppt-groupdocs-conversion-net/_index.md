@@ -4,8 +4,8 @@
 "title": "Converti OTT in PPT senza problemi utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/presentation-formats-features/convert-ott-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire OTT in PPT senza problemi: utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

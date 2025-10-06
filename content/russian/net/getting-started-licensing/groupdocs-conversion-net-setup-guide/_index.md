@@ -4,8 +4,8 @@
 "title": "Полное руководство по настройке и внедрению GroupDocs.Conversion для .NET"
 "url": "/ru/net/getting-started-licensing/groupdocs-conversion-net-setup-guide/"
 "weight": 1
+type: docs
 ---
-
 # Полное руководство по GroupDocs.Conversion для .NET: настройка и реализация
 
 ## Введение

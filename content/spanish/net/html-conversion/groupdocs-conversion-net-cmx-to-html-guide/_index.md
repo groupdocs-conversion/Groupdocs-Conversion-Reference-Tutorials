@@ -4,8 +4,8 @@
 "title": "Guía completa&#58; Convierta CMX a HTML con GroupDocs.Conversion .NET para una integración perfecta del flujo de trabajo de documentos"
 "url": "/es/net/html-conversion/groupdocs-conversion-net-cmx-to-html-guide/"
 "weight": 1
+type: docs
 ---
-
 # Guía completa: Convertir CMX a HTML con GroupDocs.Conversion .NET
 
 ## Introducción

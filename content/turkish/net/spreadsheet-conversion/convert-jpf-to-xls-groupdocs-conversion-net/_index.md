@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET kullanarak JPF'yi XLS'ye Nasıl Dönüştürebilirsiniz | E-Tablo Dönüştürme Eğitimi"
 "url": "/tr/net/spreadsheet-conversion/convert-jpf-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak JPF'nin XLS'ye Dönüştürülmesi
 
 ## giriiş

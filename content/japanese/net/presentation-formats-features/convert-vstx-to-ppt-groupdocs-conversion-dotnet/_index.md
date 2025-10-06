@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して VSTX を PPT にシームレスに変換する"
 "url": "/ja/net/presentation-formats-features/convert-vstx-to-ppt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して VSTX を PPT にシームレスに変換する
 
 ## 導入

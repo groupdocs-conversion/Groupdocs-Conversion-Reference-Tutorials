@@ -5,8 +5,8 @@
 "title": "Chuyển đổi JP2 sang PDF"
 "url": "/vi/net/document-conversion/convert-jp2-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # Chuyển đổi JP2 sang PDF
 
 ## Giới thiệu

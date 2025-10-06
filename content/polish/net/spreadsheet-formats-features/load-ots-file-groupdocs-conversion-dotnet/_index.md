@@ -4,8 +4,8 @@
 "title": "Jak ładować i konwertować pliki OTS za pomocą GroupDocs.Conversion dla .NET"
 "url": "/pl/net/spreadsheet-formats-features/load-ots-file-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak ładować i konwertować pliki OTS za pomocą GroupDocs.Conversion dla .NET
 
 W dzisiejszym cyfrowym krajobrazie zarządzanie różnymi formatami dokumentów jest niezbędne dla firm i deweloperów. Niezależnie od tego, czy chodzi o faktury, czy umowy, konwersja do powszechnie akceptowanych formatów może zaoszczędzić czas i zasoby. Ten samouczek przeprowadzi Cię przez ładowanie i konwersję pliku OpenDocument Spreadsheet Text (OTS) przy użyciu potężnej biblioteki GroupDocs.Conversion dla .NET.

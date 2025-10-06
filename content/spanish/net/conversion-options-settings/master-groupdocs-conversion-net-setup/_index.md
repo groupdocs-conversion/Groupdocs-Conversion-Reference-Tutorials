@@ -4,8 +4,8 @@
 "title": "Configuración de conversión de documentos maestros en .NET mediante GroupDocs.Conversion"
 "url": "/es/net/conversion-options-settings/master-groupdocs-conversion-net-setup/"
 "weight": 1
+type: docs
 ---
-
 # Configuración del directorio maestro para la conversión de documentos mediante GroupDocs.Conversion .NET
 
 ## Introducción

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して VDW を DOC に変換する手順"
 "url": "/ja/net/cad-technical-drawing-formats/convert-vdw-doc-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して VDW を DOC に変換する: ステップバイステップ ガイド
 
 ## 導入

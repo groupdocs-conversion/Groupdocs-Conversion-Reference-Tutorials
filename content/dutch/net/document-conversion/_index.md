@@ -5,8 +5,8 @@
 "title": "Documentconversie"
 "url": "/nl/net/document-conversion/"
 "weight": 23
+type: docs
 ---
-
 # Documentconversie
 
 ## Invoering

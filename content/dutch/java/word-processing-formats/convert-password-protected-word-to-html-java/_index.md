@@ -4,8 +4,8 @@
 "title": "Hoe u wachtwoordbeveiligde Word-documenten naar HTML converteert met behulp van Java (stap-voor-staphandleiding)"
 "url": "/nl/java/word-processing-formats/convert-password-protected-word-to-html-java/"
 "weight": 1
+type: docs
 ---
-
 # Hoe u met een wachtwoord beveiligde Word-documenten naar HTML kunt converteren met behulp van Java
 
 ## Invoering

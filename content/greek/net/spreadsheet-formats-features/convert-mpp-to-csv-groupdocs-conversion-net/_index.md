@@ -4,8 +4,8 @@
 "title": "Μετατροπή MPP σε CSV χρησιμοποιώντας το GroupDocs.Conversion σε C# - Εύκολος οδηγός για προγραμματιστές .NET"
 "url": "/el/net/spreadsheet-formats-features/convert-mpp-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή αρχείων MPP σε CSV χρησιμοποιώντας το GroupDocs.Conversion σε C# - Εύκολος οδηγός για προγραμματιστές .NET
 
 ## Εισαγωγή

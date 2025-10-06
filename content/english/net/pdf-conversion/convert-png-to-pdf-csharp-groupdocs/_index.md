@@ -8,10 +8,8 @@ keywords:
 - convert PNG to PDF
 - PNG to PDF conversion C#
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # Convert PNG to PDF in C#: A Complete Guide with GroupDocs.Conversion for .NET
 
 ## Introduction

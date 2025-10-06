@@ -8,10 +8,8 @@ keywords:
 - convert JLS to Excel
 - GroupDocs.Conversion for .NET
 - JLS to XLS conversion
-
+type: docs
 ---
-
-
 # Convert JPEG Lossless Image Files (JLS) to Excel Sheets Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - convert Visio templates
 - GroupDocs Conversion .NET
 - VSTM to PSD
-
+type: docs
 ---
-
-
 # Convert Visio Templates (.vstm) to Photoshop (.psd) Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 ## Introduction
 Converting Visio Macro-Enabled Drawing Templates (VSTM) into a versatile format like Adobe Photoshop Document (PSD) can be challenging. This guide simplifies this process using GroupDocs.Conversion for .NET, enabling seamless and efficient file conversions. With this powerful tool, transforming VSTMs to PSDs becomes straightforward, enhancing your document workflow.

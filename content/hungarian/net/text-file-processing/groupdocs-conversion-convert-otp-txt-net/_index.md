@@ -4,8 +4,8 @@
 "title": "OTP fájlok hatékony konvertálása TXT fájlokká a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/text-file-processing/groupdocs-conversion-convert-otp-txt-net/"
 "weight": 1
+type: docs
 ---
-
 # Fájlkonvertálás mesterfokon: OTP konvertálása TXT-vé a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

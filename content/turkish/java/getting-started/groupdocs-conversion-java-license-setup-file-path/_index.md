@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Java Lisansını Ayarlama&#58; Adım Adım Kılavuz"
 "url": "/tr/java/getting-started/groupdocs-conversion-java-license-setup-file-path/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Java Lisansını Kurma: Kapsamlı Bir Eğitim
 
 Java için GroupDocs.Conversion kütüphanesini kurma ve kullanma konusunda adım adım kılavuzumuza hoş geldiniz. Bu eğitim, özellikle dosya yolları üzerinden lisans kurulumunun nasıl uygulanacağına odaklanarak, bu sağlam belge dönüştürme aracının tüm potansiyelini açığa çıkarmanızı sağlar.

@@ -4,8 +4,8 @@
 "title": "Konversi RTF ke DOC Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Langkah demi Langkah"
 "url": "/id/net/word-processing-formats-features/groupdocs-conversion-rtf-to-doc-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi RTF ke DOC Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

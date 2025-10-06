@@ -8,10 +8,8 @@ keywords:
 - metered license
 - GroupDocs.Conversion for Java
 - Java licensing
-
+type: docs
 ---
-
-
 # Implementing a Metered License for GroupDocs.Conversion in Java
 
 ## Introduction

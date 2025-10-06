@@ -4,8 +4,8 @@
 "title": "Como configurar e aplicar uma licença para GroupDocs.Conversion .NET - Um guia passo a passo"
 "url": "/pt/net/getting-started-licensing/groupdocs-conversion-net-license-setup/"
 "weight": 1
+type: docs
 ---
-
 # Tutorial completo: Configurando uma licença para GroupDocs.Conversion .NET
 
 ## Introdução

@@ -4,8 +4,8 @@
 "title": "VSDM konvertálása DOCX formátumba a GroupDocs.Conversion for .NET segítségével – lépésről lépésre útmutató"
 "url": "/hu/net/word-processing-conversion/convert-vsmd-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VSDM konvertálása DOCX formátumba a GroupDocs.Conversion for .NET segítségével: lépésről lépésre útmutató
 
 ## Bevezetés

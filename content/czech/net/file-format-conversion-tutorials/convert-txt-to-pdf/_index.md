@@ -5,8 +5,8 @@
 "title": "Převod TXT do PDF"
 "url": "/cs/net/file-format-conversion-tutorials/convert-txt-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Převod TXT do PDF
 
 ## Zavedení

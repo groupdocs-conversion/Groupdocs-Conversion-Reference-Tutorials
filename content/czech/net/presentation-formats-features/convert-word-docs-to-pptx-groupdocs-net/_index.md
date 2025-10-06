@@ -4,8 +4,8 @@
 "title": "Převod dokumentů Word do formátu PowerPoint PPTX pomocí nástroje GroupDocs.Conversion pro .NET"
 "url": "/cs/net/presentation-formats-features/convert-word-docs-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod dokumentů Word do formátu PowerPoint PPTX pomocí nástroje GroupDocs.Conversion pro .NET
 
 ## Zavedení

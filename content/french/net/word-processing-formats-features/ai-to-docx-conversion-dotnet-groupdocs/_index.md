@@ -4,8 +4,8 @@
 "title": "Conversion efficace d'IA en DOCX dans .NET avec GroupDocs.Conversion"
 "url": "/fr/net/word-processing-formats-features/ai-to-docx-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Conversion efficace d'IA en DOCX dans .NET avec GroupDocs.Conversion
 
 ## Introduction

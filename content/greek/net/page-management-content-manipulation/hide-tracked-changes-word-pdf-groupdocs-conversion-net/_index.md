@@ -4,8 +4,8 @@
 "title": "Απόκρυψη αλλαγών που παρακολουθούνται στη μετατροπή Word σε PDF με το GroupDocs.Conversion για .NET"
 "url": "/el/net/page-management-content-manipulation/hide-tracked-changes-word-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Κατακτήστε την προηγμένη μετατροπή Word σε PDF με κρυφές εντοπισμένες αλλαγές χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

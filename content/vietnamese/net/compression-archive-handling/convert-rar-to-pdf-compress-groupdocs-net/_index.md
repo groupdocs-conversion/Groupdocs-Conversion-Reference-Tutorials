@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi tệp RAR sang PDF và nén chúng thành ZIP bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/compression-archive-handling/convert-rar-to-pdf-compress-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp RAR sang PDF và nén chúng thành ZIP bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

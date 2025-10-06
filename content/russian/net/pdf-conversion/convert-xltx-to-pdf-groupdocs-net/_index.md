@@ -4,8 +4,8 @@
 "title": "Конвертируйте файлы шаблонов Excel (XLTX) в PDF с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/pdf-conversion/convert-xltx-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте файлы шаблонов Excel (XLTX) в PDF с помощью GroupDocs.Conversion для .NET
 
 ## Введение

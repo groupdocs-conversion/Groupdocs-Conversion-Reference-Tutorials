@@ -4,8 +4,8 @@
 "title": "Automatize o download e a conversão de documentos S3 em Java usando GroupDocs.Conversion"
 "url": "/pt/java/document-operations/automate-s3-download-convert-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Automatize o download e a conversão de documentos S3 em Java
 
 ## Como baixar e converter documentos do Amazon S3 usando GroupDocs.Conversion em Java

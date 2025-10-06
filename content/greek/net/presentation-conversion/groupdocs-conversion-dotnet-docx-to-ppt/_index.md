@@ -4,8 +4,8 @@
 "title": "Μετατροπή Master DOCX σε PPT με το GroupDocs.Conversion για .NET"
 "url": "/el/net/presentation-conversion/groupdocs-conversion-dotnet-docx-to-ppt/"
 "weight": 1
+type: docs
 ---
-
 # Mastering μετατροπή DOCX σε PPT με το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

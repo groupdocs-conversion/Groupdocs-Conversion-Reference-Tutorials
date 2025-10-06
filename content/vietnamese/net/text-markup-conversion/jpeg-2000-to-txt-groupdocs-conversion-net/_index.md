@@ -4,8 +4,8 @@
 "title": "Chuyển đổi JPEG 2000 sang TXT hiệu quả bằng GroupDocs.Conversion .NET"
 "url": "/vi/net/text-markup-conversion/jpeg-2000-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Làm chủ việc chuyển đổi tệp: Chuyển đổi JPEG 2000 (.j2c) sang tệp văn bản với GroupDocs.Conversion .NET
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET Kütüphanesini Kullanarak OTS Dosyalarını PNG Görüntülerine Nasıl Dönüştürebilirsiniz"
 "url": "/tr/net/image-conversion/convert-ots-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET Kütüphanesini Kullanarak OTS Dosyalarını PNG Görüntülerine Nasıl Dönüştürebilirsiniz
 
 ## giriiş

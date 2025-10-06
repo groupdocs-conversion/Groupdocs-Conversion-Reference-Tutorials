@@ -8,10 +8,8 @@ keywords:
 - Convert VSTX to PDF
 - GroupDocs.Conversion for .NET
 - VSTX file conversion
-
+type: docs
 ---
-
-
 # How to Convert VSTX Files to PDF Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

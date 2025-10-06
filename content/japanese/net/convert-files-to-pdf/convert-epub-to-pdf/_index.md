@@ -5,8 +5,8 @@
 "title": "EPUB電子書籍をPDFに変換する"
 "url": "/ja/net/convert-files-to-pdf/convert-epub-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # EPUB電子書籍をPDFに変換する
 
 ## 導入

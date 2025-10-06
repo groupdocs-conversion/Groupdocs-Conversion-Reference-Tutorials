@@ -5,8 +5,8 @@
 "title": "Chuyển đổi JPEG sang PDF"
 "url": "/vi/net/document-conversion/convert-jpeg-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # Chuyển đổi JPEG sang PDF
 
 ## Giới thiệu

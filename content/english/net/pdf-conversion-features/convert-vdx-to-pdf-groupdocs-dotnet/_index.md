@@ -8,10 +8,8 @@ keywords:
 - VDX to PDF conversion
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # How to Convert VDX Files to PDF Using GroupDocs.Conversion for .NET
 
 ## Introduction

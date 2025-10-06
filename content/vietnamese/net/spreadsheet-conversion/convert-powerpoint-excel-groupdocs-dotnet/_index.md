@@ -4,8 +4,8 @@
 "title": "Chuyển đổi PowerPoint sang Excel bằng GroupDocs.Conversion .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/spreadsheet-conversion/convert-powerpoint-excel-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi Slide PowerPoint sang Sheet Excel bằng GroupDocs.Conversion .NET
 
 ## Giới thiệu

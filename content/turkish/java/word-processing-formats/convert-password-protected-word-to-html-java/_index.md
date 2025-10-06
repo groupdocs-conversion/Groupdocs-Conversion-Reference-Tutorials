@@ -4,8 +4,8 @@
 "title": "Şifre Korumalı Word Belgelerini Java Kullanarak HTML'ye Nasıl Dönüştürebilirsiniz (Adım Adım Kılavuz)"
 "url": "/tr/java/word-processing-formats/convert-password-protected-word-to-html-java/"
 "weight": 1
+type: docs
 ---
-
 # Şifre Korumalı Word Belgelerini Java Kullanarak HTML'ye Nasıl Dönüştürebilirsiniz
 
 ## giriiş

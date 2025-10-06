@@ -4,8 +4,8 @@
 "title": "Ustaw licencję ze strumienia w GroupDocs.Conversion dla .NET&#58; Kompleksowy przewodnik"
 "url": "/pl/net/getting-started-licensing/groupdocs-conversion-net-set-license-stream/"
 "weight": 1
+type: docs
 ---
-
 # Ustaw licencję ze strumienia w GroupDocs.Conversion dla .NET: kompleksowy przewodnik
 
 ## Wstęp

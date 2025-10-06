@@ -4,8 +4,8 @@
 "title": "EMLX konvertálása XLSX-re a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/email-formats-features/convert-emlx-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # EMLX konvertálása XLSX-re a GroupDocs.Conversion for .NET használatával: Teljes körű útmutató
 
 ## Bevezetés

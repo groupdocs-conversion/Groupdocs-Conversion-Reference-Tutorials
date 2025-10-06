@@ -4,8 +4,8 @@
 "title": "Konversi PowerPoint ke PDF dengan Substitusi Font di .NET menggunakan GroupDocs.Conversion"
 "url": "/id/net/pdf-conversion-features/groupdocs-conversion-net-presentation-to-pdf-font-substitution/"
 "weight": 1
+type: docs
 ---
-
 # Konversi PowerPoint ke PDF dengan Substitusi Font di .NET menggunakan GroupDocs.Conversion
 
 ## Perkenalan

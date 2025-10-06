@@ -4,8 +4,8 @@
 "title": "Jak převést soubory PLT do PowerPointu pomocí GroupDocs.Conversion pro .NET (podrobný návod)"
 "url": "/cs/net/presentation-formats-features/convert-plt-to-powerpoint-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory PLT do PowerPointu pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

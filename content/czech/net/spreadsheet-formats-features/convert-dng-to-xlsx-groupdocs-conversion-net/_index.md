@@ -4,8 +4,8 @@
 "title": "Převod DNG do XLSX pomocí GroupDocs.Conversion .NET – Komplexní průvodce"
 "url": "/cs/net/spreadsheet-formats-features/convert-dng-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod DNG do XLSX pomocí GroupDocs.Conversion .NET: Komplexní průvodce
 
 ## Zavedení

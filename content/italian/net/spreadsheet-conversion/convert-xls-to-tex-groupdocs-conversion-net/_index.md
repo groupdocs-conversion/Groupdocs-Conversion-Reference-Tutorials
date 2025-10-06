@@ -4,8 +4,8 @@
 "title": "Convertire XLS in TEX utilizzando GroupDocs.Conversion per .NET | Guida passo passo"
 "url": "/it/net/spreadsheet-conversion/convert-xls-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire XLS in TEX utilizzando GroupDocs.Conversion per .NET
 
 **Trasforma i tuoi dati senza sforzo: converti i file XLS in formato TeX con GroupDocs.Conversion per .NET**

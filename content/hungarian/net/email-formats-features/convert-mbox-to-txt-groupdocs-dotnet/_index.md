@@ -4,8 +4,8 @@
 "title": "MBOX fájlok TXT formátumba konvertálása a GroupDocs.Conversion for .NET segítségével | E-mail formátum konvertálási útmutató"
 "url": "/hu/net/email-formats-features/convert-mbox-to-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # MBOX fájlok TXT formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

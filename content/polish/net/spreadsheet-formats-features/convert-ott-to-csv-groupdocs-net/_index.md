@@ -4,8 +4,8 @@
 "title": "Efektywna konwersja plików OTT do CSV przy użyciu GroupDocs.Conversion dla .NET"
 "url": "/pl/net/spreadsheet-formats-features/convert-ott-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektywna konwersja plików OTT do CSV przy użyciu GroupDocs.Conversion dla .NET
 
 ## Wstęp

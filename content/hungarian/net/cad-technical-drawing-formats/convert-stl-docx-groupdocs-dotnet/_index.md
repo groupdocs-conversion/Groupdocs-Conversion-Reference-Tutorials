@@ -4,8 +4,8 @@
 "title": "STL DOCX formátumba konvertálása .NET-ben a GroupDocs.Conversion segítségével – Átfogó útmutató"
 "url": "/hu/net/cad-technical-drawing-formats/convert-stl-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # STL DOCX formátumba konvertálása .NET-ben a GroupDocs.Conversion segítségével: Átfogó útmutató
 
 ## Bevezetés

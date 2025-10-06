@@ -4,8 +4,8 @@
 "title": "VSTM konvertálása JPG-vé a GroupDocs.Conversion .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-vstm-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VSTM fájlok konvertálása JPG formátumba a GroupDocs.Conversion .NET segítségével
 
 ## Bevezetés

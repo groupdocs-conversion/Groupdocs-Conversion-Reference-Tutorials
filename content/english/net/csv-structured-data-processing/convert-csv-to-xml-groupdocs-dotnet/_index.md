@@ -8,10 +8,8 @@ keywords:
 - CSV to XML conversion .NET
 - GroupDocs.Conversion for .NET
 - automate CSV to XML
-
+type: docs
 ---
-
-
 # How to Convert CSV to XML Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -5,8 +5,8 @@
 "title": "Конвертировать документы DOCM Word (макросы) в PDF"
 "url": "/ru/net/file-conversion-to-pdf/convert-docm-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Конвертировать документы DOCM Word (макросы) в PDF
 
 ## Введение

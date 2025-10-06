@@ -4,8 +4,8 @@
 "title": "OST fájlok konvertálása Excelbe a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/storage-files-pst-processing/convert-ost-to-excel-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # OST fájlok konvertálása Excelbe a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "GIF DOCX formátumba konvertálása a GroupDocs.Conversion for .NET segítségével – lépésről lépésre útmutató"
 "url": "/hu/net/word-processing-conversion/convert-gif-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GIF konvertálása DOCX formátumba a GroupDocs.Conversion for .NET segítségével: lépésről lépésre útmutató
 ## Bevezetés
 Színes, animált GIF-et szeretne statikus dokumentummá, például DOCX-sé konvertálni? Akár prezentációs anyagokat készít, akár digitális tartalmat archivál, a zökkenőmentes fájlkonvertálás kulcsfontosságú. Ez az útmutató a következők használatát mutatja be: **GroupDocs.Conversion .NET-hez** GIF fájlok hatékony DOCX formátumba konvertálásához.

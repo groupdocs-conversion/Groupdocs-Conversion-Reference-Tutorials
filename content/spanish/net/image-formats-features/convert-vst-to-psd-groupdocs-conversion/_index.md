@@ -4,8 +4,8 @@
 "title": "Cómo convertir archivos VST a PSD con GroupDocs.Conversion para .NET&#58; una guía completa"
 "url": "/es/net/image-formats-features/convert-vst-to-psd-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir archivos VST a PSD usando GroupDocs.Conversion para .NET
 
 ## Introducción

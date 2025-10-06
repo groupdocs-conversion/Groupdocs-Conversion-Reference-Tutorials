@@ -4,8 +4,8 @@
 "title": "DOTM konvertálása JPG-vé a GroupDocs.Conversion for .NET használatával - Képkonverziós útmutató"
 "url": "/hu/net/image-conversion/convert-dotm-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DOTM konvertálása JPG-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

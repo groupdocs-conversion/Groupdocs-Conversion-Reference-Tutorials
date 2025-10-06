@@ -5,8 +5,8 @@
 "title": "دروس تعليمية شاملة لـ GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/"
 "weight": 10
+type: docs
 ---
-
 # دروس تعليمية شاملة لـ GroupDocs.Conversion لـ .NET
 
 

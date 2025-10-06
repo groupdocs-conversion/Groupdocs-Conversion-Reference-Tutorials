@@ -5,8 +5,8 @@
 "title": "將 WMZ 轉換為 PDF"
 "url": "/zh-hant/net/converting-file-types-to-pdf/convert-wmz-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # 將 WMZ 轉換為 PDF
 
 ## 介紹

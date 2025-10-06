@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して Excel を PDF に変換する包括的なガイド"
 "url": "/ja/net/pdf-conversion/convert-excel-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して Excel スプレッドシートを PDF に変換する
 
 ## 導入

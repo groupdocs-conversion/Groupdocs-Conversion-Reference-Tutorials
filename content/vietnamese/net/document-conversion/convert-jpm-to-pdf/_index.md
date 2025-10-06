@@ -5,8 +5,8 @@
 "title": "Chuyển đổi JPM sang PDF"
 "url": "/vi/net/document-conversion/convert-jpm-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # Chuyển đổi JPM sang PDF
 
 ## Giới thiệu

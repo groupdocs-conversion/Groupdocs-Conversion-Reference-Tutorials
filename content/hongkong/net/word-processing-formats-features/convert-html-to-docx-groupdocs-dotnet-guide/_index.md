@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 HTML 轉換為 DOCX — 逐步指南"
 "url": "/zh-hant/net/word-processing-formats-features/convert-html-to-docx-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 HTML 轉換為 DOCX：逐步指南
 
 ## 介紹

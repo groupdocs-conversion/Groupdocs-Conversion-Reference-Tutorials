@@ -4,8 +4,8 @@
 "title": "Jak přidat vodoznak do DOCX a převést do PDF pomocí GroupDocs.Conversion pro Javu"
 "url": "/cs/java/watermarks-annotations/add-watermark-docx-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Jak přidat vodoznak do dokumentu pomocí GroupDocs.Conversion pro Javu
 
 V dnešním digitálním světě je ochrana vašich dokumentů před neoprávněným použitím klíčová. Ať už sdílíte citlivé informace, nebo si chcete dokumenty jednoduše označit, přidání vodoznaku může být efektivním řešením. V tomto tutoriálu vás provedeme procesem používání. **GroupDocs.Conversion pro Javu** přidat vodoznak při převodu souboru DOCX do PDF.

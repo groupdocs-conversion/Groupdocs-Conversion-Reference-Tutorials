@@ -8,10 +8,8 @@ keywords:
 - EPUB to JPG conversion
 - GroupDocs.Conversion .NET
 - C# image conversion
-
+type: docs
 ---
-
-
 # Convert EPUB to JPG in C# Using GroupDocs.Conversion .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "PowerPoint'i Photoshop'a Dönüştürme&#58; Master GroupDocs.Conversion for .NET PPT'yi PSD'ye Dönüştürme"
 "url": "/tr/net/image-formats-features/groupdocs-conversion-net-ppt-psd/"
 "weight": 1
+type: docs
 ---
-
 # PowerPoint'i Photoshop'a Dönüştürme: .NET PPT'den PSD'ye Dönüştürme için Master GroupDocs.Conversion
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "Automatize a conversão de FODP para XLSX com o GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/spreadsheet-conversion/automate-fodp-to-xlsx-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Automatize a conversão de FODP para XLSX com o GroupDocs para .NET: um guia completo
 
 ## Introdução

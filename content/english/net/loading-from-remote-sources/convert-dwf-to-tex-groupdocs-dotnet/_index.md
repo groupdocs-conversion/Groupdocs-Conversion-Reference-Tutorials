@@ -8,10 +8,8 @@ keywords:
 - convert DWF to TeX in .NET
 - GroupDocs.Conversion library
 - file format conversion
-
+type: docs
 ---
-
-
 # Convert DWF to TEX with GroupDocs.Conversion in .NET
 
 ## Introduction

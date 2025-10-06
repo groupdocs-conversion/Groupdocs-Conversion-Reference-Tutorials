@@ -5,8 +5,8 @@
 "title": "تحويل قوالب DOT Word إلى PDF"
 "url": "/ar/net/file-conversion-to-pdf/convert-dot-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # تحويل قوالب DOT Word إلى PDF
 
 ## مقدمة

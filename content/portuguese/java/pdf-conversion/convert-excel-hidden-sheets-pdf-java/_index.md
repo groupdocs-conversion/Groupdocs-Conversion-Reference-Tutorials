@@ -4,8 +4,8 @@
 "title": "Como converter arquivos do Excel com planilhas ocultas em PDFs usando Java e GroupDocs.Conversion"
 "url": "/pt/java/pdf-conversion/convert-excel-hidden-sheets-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Como converter arquivos do Excel com planilhas ocultas em PDFs usando Java e GroupDocs.Conversion
 
 ## Introdução

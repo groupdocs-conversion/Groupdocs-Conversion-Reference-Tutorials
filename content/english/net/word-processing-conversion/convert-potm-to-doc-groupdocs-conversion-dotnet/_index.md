@@ -8,10 +8,8 @@ keywords:
 - convert POTM to DOC
 - GroupDocs.Conversion for .NET
 - .NET document conversion
-
+type: docs
 ---
-
-
 # How to Convert POTM Files to DOC in .NET Using GroupDocs.Conversion Library
 
 ## Introduction

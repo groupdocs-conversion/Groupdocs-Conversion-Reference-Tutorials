@@ -4,8 +4,8 @@
 "title": "JPEG 2000 fájl PSD formátumba konvertálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/image-conversion/convert-jpeg-2000-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # JPEG 2000 képek PSD formátumba konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

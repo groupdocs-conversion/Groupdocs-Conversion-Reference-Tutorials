@@ -5,8 +5,8 @@
 "title": "HTMウェブページをPDFに変換する"
 "url": "/ja/net/convert-files-to-pdf/convert-htm-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # HTMウェブページをPDFに変換する
 
 ## 導入

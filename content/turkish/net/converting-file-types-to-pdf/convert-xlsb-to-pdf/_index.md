@@ -5,8 +5,8 @@
 "title": "XLSB'yi PDF'ye dönüştür"
 "url": "/tr/net/converting-file-types-to-pdf/convert-xlsb-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # XLSB'yi PDF'ye dönüştür
 
 ## giriiş

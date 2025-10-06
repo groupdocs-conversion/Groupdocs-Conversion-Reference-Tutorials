@@ -4,8 +4,8 @@
 "title": "Convertir EMLX en PDF avec GroupDocs.Conversion .NET - Guide étape par étape"
 "url": "/fr/net/pdf-conversion/convert-emlx-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des fichiers EMLX en PDF avec GroupDocs.Conversion .NET : guide étape par étape
 
 ## Introduction

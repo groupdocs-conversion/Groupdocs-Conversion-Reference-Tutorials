@@ -5,8 +5,8 @@
 "title": "Fájlok konvertálása PDF-be"
 "url": "/hu/net/convert-files-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Fájlok konvertálása PDF-be
 
 ## Bevezetés

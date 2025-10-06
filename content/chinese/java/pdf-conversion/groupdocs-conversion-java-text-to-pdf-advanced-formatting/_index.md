@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion Java 的高级文本到 PDF 转换及其保留格式"
 "url": "/zh/java/pdf-conversion/groupdocs-conversion-java-text-to-pdf-advanced-formatting/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion Java 进行高级文本到 PDF 转换：保留格式
 
 ## 介绍

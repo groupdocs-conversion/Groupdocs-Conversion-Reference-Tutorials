@@ -4,8 +4,8 @@
 "title": "Konvertera XLS till PPT effektivt med GroupDocs.Conversion .NET | Steg-för-steg-guide"
 "url": "/sv/net/presentation-conversion/convert-xls-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera XLS till PPT effektivt med GroupDocs.Conversion .NET: En steg-för-steg-guide
 
 ## Introduktion

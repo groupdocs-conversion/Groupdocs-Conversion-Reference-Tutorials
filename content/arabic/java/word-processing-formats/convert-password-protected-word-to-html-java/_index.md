@@ -4,8 +4,8 @@
 "title": "كيفية تحويل مستندات Word المحمية بكلمة مرور إلى HTML باستخدام Java (دليل خطوة بخطوة)"
 "url": "/ar/java/word-processing-formats/convert-password-protected-word-to-html-java/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل مستندات Word المحمية بكلمة مرور إلى HTML باستخدام Java
 
 ## مقدمة

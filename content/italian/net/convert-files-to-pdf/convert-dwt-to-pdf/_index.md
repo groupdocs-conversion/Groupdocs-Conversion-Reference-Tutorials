@@ -5,8 +5,8 @@
 "title": "Convertire i file modello CAD DWT in PDF"
 "url": "/it/net/convert-files-to-pdf/convert-dwt-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Convertire i file modello CAD DWT in PDF
 
 ## Introduzione

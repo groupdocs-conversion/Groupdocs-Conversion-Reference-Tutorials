@@ -5,8 +5,8 @@
 "title": "PCL'yi PDF'ye dönüştür"
 "url": "/tr/net/pdf-conversion/convert-pcl-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # PCL'yi PDF'ye dönüştür
 
 ## giriiş

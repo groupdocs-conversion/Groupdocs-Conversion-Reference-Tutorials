@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak Belirli Sayfaları PDF'ye Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/pdf-conversion-features/groupdocs-conversion-dotnet-convert-pages-to-pdf/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak Belirli Sayfaları PDF'ye Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

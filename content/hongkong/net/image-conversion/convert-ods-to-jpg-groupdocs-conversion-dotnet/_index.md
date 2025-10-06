@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 將 ODS 轉換為 JPG 綜合指南"
 "url": "/zh-hant/net/image-conversion/convert-ods-to-jpg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 將 ODS 檔案轉換為 JPG
 在當今資料驅動的世界中，無縫轉換不同格式的文件至關重要。無論您是處理電子表格的業務分析師，還是共享視覺化資料的專案經理，將開放文件電子表格 (ODS) 檔案轉換為 JPEG 影像對於簡報和報告都非常有用。本指南將指導您如何使用 GroupDocs.Conversion .NET 有效率地完成此任務。
 

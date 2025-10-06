@@ -4,8 +4,8 @@
 "title": "Efektywna konwersja DWFX do CSV przy użyciu GroupDocs.Conversion dla .NET"
 "url": "/pl/net/csv-structured-data-processing/convert-dwfx-to-csv-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Efektywna konwersja DWFX do CSV przy użyciu GroupDocs.Conversion dla .NET
 
 ## Wstęp

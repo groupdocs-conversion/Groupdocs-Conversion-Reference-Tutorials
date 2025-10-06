@@ -4,8 +4,8 @@
 "title": "PDF में टिप्पणियां छिपाएं&#58; .NET के लिए GroupDocs.Conversion के साथ PPT को PDF में कनवर्ट करें"
 "url": "/hi/net/pdf-conversion-features/convert-presentation-pdf-hide-comments-net/"
 "weight": 1
+type: docs
 ---
-
 # PDF में टिप्पणियाँ छिपाएँ: .NET के लिए GroupDocs.Conversion के साथ PPT को PDF में कनवर्ट करें
 
 ## परिचय

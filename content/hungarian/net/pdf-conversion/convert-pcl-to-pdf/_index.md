@@ -5,8 +5,8 @@
 "title": "PCL konvertálása PDF-be"
 "url": "/hu/net/pdf-conversion/convert-pcl-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # PCL konvertálása PDF-be
 
 ## Bevezetés

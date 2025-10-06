@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion .NET 函式庫將 OTS 檔案轉換為 PNG 映像"
 "url": "/zh-hant/net/image-conversion/convert-ots-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion .NET 函式庫將 OTS 檔案轉換為 PNG 映像
 
 ## 介紹

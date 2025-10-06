@@ -3,8 +3,8 @@
 "title": "Tutoriels sur les événements de conversion et la journalisation pour GroupDocs.Conversion Java"
 "url": "/fr/java/conversion-events-logging/"
 "weight": 15
+type: docs
 ---
-
 # Tutoriels sur les événements de conversion et la journalisation pour GroupDocs.Conversion Java
 
 Maîtrisez les fonctionnalités de surveillance et de journalisation grâce à nos tutoriels sur les événements GroupDocs.Conversion pour Java. Ces guides détaillés expliquent comment configurer des écouteurs d'événements, suivre la progression des conversions, implémenter une journalisation détaillée, gérer les notifications de conversion et créer des gestionnaires d'événements personnalisés par programmation. Chaque tutoriel inclut des exemples de code Java fonctionnels qui montrent comment améliorer vos applications grâce à des fonctionnalités de surveillance et de reporting performantes, vous aidant ainsi à créer des systèmes de conversion fiables avec des pistes d'audit complètes et des retours utilisateurs.

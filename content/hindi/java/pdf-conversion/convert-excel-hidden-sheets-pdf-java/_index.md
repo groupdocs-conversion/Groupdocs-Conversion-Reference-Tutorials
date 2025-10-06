@@ -4,8 +4,8 @@
 "title": "Java और GroupDocs.Conversion का उपयोग करके छिपी हुई शीट वाली Excel फ़ाइलों को PDF में कैसे बदलें"
 "url": "/hi/java/pdf-conversion/convert-excel-hidden-sheets-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Java और GroupDocs.Conversion का उपयोग करके छिपी हुई शीट वाली Excel फ़ाइलों को PDF में कैसे बदलें
 
 ## परिचय

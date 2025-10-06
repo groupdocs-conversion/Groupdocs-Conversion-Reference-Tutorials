@@ -4,8 +4,8 @@
 "title": "DOC fájlok hatékony konvertálása PDF-be .NET-ben a GroupDocs.Conversion használatával"
 "url": "/hu/net/pdf-conversion-features/convert-doc-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DOC fájlok hatékony konvertálása PDF-be .NET-ben a GroupDocs.Conversion használatával
 
 ## Bevezetés

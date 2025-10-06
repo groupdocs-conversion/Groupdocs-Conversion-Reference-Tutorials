@@ -4,8 +4,8 @@
 "title": "Maîtrisez la conversion des pièces jointes des e-mails .NET avec la bibliothèque GroupDocs.Conversion - Un guide complet"
 "url": "/fr/net/email-formats-features/net-email-attachment-conversion-groupdocs-guide/"
 "weight": 1
+type: docs
 ---
-
 # Maîtrisez la conversion des pièces jointes aux e-mails .NET avec la bibliothèque GroupDocs.Conversion
 
 ## Introduction

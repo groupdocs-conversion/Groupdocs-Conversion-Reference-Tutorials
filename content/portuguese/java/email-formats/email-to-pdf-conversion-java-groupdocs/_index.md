@@ -4,8 +4,8 @@
 "title": "Como converter e-mail em PDF com fuso horário em Java usando GroupDocs.Conversion"
 "url": "/pt/java/email-formats/email-to-pdf-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Como converter e-mail em PDF com fuso horário em Java usando GroupDocs.Conversion
 
 ## Introdução

@@ -4,8 +4,8 @@
 "title": "Automatiza la conversión de EPUB a PNG con GroupDocs.Conversion en .NET"
 "url": "/es/net/image-conversion/automate-epub-to-png-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Automatiza la conversión de EPUB a PNG con GroupDocs.Conversion en .NET
 
 ## Introducción

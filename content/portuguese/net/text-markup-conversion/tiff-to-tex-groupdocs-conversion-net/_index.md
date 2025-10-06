@@ -4,8 +4,8 @@
 "title": "Conversão eficiente de TIFF para TEX usando GroupDocs.Conversion .NET"
 "url": "/pt/net/text-markup-conversion/tiff-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Conversão eficiente de TIFF para TEX usando GroupDocs.Conversion .NET
 
 ## Introdução

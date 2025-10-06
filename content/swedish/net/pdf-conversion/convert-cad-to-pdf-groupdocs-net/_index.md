@@ -4,8 +4,8 @@
 "title": "Effektiv CAD till PDF-konvertering med GroupDocs.Conversion för .NET"
 "url": "/sv/net/pdf-conversion/convert-cad-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Effektiv CAD till PDF-konvertering med GroupDocs.Conversion för .NET
 
 ## Introduktion

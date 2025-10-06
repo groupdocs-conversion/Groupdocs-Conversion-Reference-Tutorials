@@ -5,8 +5,8 @@
 "title": "Konversi Gambar GIF ke PDF"
 "url": "/id/net/convert-files-to-pdf/convert-gif-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # Konversi Gambar GIF ke PDF
 
 ## Perkenalan

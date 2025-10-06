@@ -4,8 +4,8 @@
 "title": "MPT konvertálása PNG-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-mpt-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # MPT konvertálása PNG-vé a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

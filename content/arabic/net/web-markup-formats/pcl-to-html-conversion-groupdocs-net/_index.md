@@ -4,8 +4,8 @@
 "title": "تحويل PCL إلى HTML باستخدام GroupDocs.Conversion .NET"
 "url": "/ar/net/web-markup-formats/pcl-to-html-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # دليل شامل: تحويل ملفات PCL إلى HTML باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

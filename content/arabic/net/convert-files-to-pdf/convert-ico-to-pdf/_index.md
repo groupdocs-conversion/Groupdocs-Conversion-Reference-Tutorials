@@ -5,8 +5,8 @@
 "title": "تحويل أيقونات ICO إلى PDF"
 "url": "/ar/net/convert-files-to-pdf/convert-ico-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # تحويل أيقونات ICO إلى PDF
 
 ## مقدمة

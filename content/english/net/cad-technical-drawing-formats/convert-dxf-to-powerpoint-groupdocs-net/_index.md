@@ -8,10 +8,8 @@ keywords:
 - DXF to PowerPoint conversion
 - GroupDocs.Conversion for .NET
 - CAD file conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert DXF to PowerPoint Using GroupDocs.Conversion for .NET
 
 ## Introduction

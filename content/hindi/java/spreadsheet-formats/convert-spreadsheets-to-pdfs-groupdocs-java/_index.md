@@ -4,8 +4,8 @@
 "title": "Java&#58; के लिए GroupDocs.Conversion के साथ स्प्रेडशीट को PDF में बदलें एक व्यापक गाइड"
 "url": "/hi/java/spreadsheet-formats/convert-spreadsheets-to-pdfs-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Java के लिए GroupDocs.Conversion के साथ स्प्रेडशीट को PDF में बदलें: एक व्यापक गाइड
 
 ## परिचय

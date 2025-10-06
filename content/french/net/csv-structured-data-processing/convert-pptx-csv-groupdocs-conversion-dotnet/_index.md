@@ -4,8 +4,8 @@
 "title": "Convertissez efficacement PPTX en CSV avec GroupDocs.Conversion pour .NET &#58; un guide étape par étape"
 "url": "/fr/net/csv-structured-data-processing/convert-pptx-csv-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertissez efficacement des fichiers PPTX en CSV avec GroupDocs.Conversion pour .NET : guide étape par étape
 
 ## Introduction

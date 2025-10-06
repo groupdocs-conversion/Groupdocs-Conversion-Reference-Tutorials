@@ -3,8 +3,8 @@
 "title": "Tutoriels de conversion de formats de courrier électronique pour GroupDocs.Conversion Java"
 "url": "/fr/java/email-formats/"
 "weight": 8
+type: docs
 ---
-
 # Tutoriels de conversion de formats de courrier électronique pour GroupDocs.Conversion Java
 
 Maîtrisez la conversion de fichiers e-mail grâce à nos tutoriels détaillés GroupDocs.Conversion pour développeurs Java. Ces guides pas à pas expliquent comment convertir des e-mails au format document, extraire des pièces jointes, conserver des métadonnées, gérer les en-têtes et les corps des e-mails et mettre en œuvre des opérations de conversion par lots. Chaque tutoriel fournit des exemples pratiques de code Java pour travailler avec les archives et les messages e-mail, vous aidant ainsi à créer des applications capables de traiter et de transformer efficacement les communications électroniques en différents formats de documents.

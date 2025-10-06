@@ -8,10 +8,8 @@ keywords:
 - convert EMF to PowerPoint
 - GroupDocs.Conversion .NET C#
 - EMF to PPT conversion
-
+type: docs
 ---
-
-
 # Convert EMF Files to PowerPoint Presentations Using GroupDocs.Conversion in C#
 
 ## Introduction

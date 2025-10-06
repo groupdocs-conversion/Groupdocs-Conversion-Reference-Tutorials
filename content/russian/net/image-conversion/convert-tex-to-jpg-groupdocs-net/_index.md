@@ -4,8 +4,8 @@
 "title": "Эффективное преобразование LaTeX (TEX) в JPG с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/image-conversion/convert-tex-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Эффективное преобразование LaTeX (TEX) в JPG с помощью GroupDocs.Conversion для .NET
 
 ## Введение

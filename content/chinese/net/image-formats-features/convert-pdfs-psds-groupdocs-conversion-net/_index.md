@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 库高效地将 PDF 转换为 PSD"
 "url": "/zh/net/image-formats-features/convert-pdfs-psds-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 实现高效的 PDF 到 PSD 转换
 
 ## 介绍

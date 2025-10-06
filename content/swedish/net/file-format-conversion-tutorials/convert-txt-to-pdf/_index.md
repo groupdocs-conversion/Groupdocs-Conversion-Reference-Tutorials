@@ -5,8 +5,8 @@
 "title": "Konvertera TXT till PDF"
 "url": "/sv/net/file-format-conversion-tutorials/convert-txt-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Konvertera TXT till PDF
 
 ## Introduktion

@@ -4,8 +4,8 @@
 "title": "Hatékony dokumentumútvonal-kezelés .NET-ben a GroupDocs.Conversion segítségével – konstansok definiálása a zökkenőmentes konverziókhoz"
 "url": "/hu/net/conversion-options-settings/groupdocs-net-define-document-paths/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony dokumentumútvonal-kezelés .NET-ben a GroupDocs.Conversion segítségével
 
 ## Bevezetés

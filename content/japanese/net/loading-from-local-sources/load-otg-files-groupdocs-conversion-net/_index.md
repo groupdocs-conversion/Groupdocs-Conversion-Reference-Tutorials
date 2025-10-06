@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用した OTG ファイルの読み込みと変換 - 開発者ガイド"
 "url": "/ja/net/loading-from-local-sources/load-otg-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して OTG ファイルを読み込み、変換する: 開発者ガイド
 
 ## 導入

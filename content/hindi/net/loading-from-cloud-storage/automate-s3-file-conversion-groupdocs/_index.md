@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके S3 फ़ाइल रूपांतरण को स्वचालित करें एक चरण-दर-चरण मार्गदर्शिका"
 "url": "/hi/net/loading-from-cloud-storage/automate-s3-file-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके S3 फ़ाइल रूपांतरण को स्वचालित करें: एक चरण-दर-चरण मार्गदर्शिका
 
 ## परिचय

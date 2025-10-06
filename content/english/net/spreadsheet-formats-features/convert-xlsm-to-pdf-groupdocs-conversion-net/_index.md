@@ -8,10 +8,8 @@ keywords:
 - convert XLSM to PDF
 - GroupDocs.Conversion for .NET
 - automate document conversion
-
+type: docs
 ---
-
-
 # How to Convert XLSM Files to PDF Using GroupDocs.Conversion for .NET
 
 ## Introduction

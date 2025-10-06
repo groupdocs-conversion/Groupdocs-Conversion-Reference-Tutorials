@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie OTG in XLSX in .NET mithilfe von GroupDocs – Ein umfassender Leitfaden"
 "url": "/de/net/spreadsheet-formats-features/convert-otg-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie OTG-Dateien mit GroupDocs.Conversion in .NET in XLSX: Eine Schritt-für-Schritt-Anleitung
 
 ## Einführung

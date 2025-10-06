@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET を使用した PCL から HTML への変換"
 "url": "/ja/net/web-markup-formats/pcl-to-html-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 総合ガイド: GroupDocs.Conversion for .NET を使用して PCL ファイルを HTML に変換する
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "EPS fájlok betöltése és konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/loading-from-local-sources/load-eps-groupdocs-conversion-dotnet-tutorial/"
 "weight": 1
+type: docs
 ---
-
 # EPS fájlok betöltése és konvertálása a GroupDocs.Conversion for .NET segítségével: lépésről lépésre útmutató
 
 ## Bevezetés

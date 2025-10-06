@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion을 사용하여 .NET에서 BMP를 SVG로 변환하여 원활한 이미지 변환"
 "url": "/ko/net/image-conversion/convert-bmp-svg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용하여 .NET에서 BMP를 SVG로 변환하여 원활한 이미지 변환
 
 ## 소개

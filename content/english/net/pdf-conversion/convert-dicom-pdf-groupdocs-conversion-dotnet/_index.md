@@ -8,10 +8,8 @@ keywords:
 - convert DICOM to PDF
 - GroupDocs.Conversion for .NET
 - DICOM file conversion
-
+type: docs
 ---
-
-
 # Convert DICOM to PDF Using GroupDocs.Conversion for .NET
 ## Introduction
 In the realm of medical imaging, Digital Imaging and Communications in Medicine (DICOM) files are essential. Sharing these images while maintaining their metadata often requires conversion into a more accessible format like PDF. **GroupDocs.Conversion for .NET** simplifies this process effectively. In this tutorial, we'll show you how to convert DICOM files to PDFs using the GroupDocs.Conversion library.

@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion .NET 將 TSV 轉換為 JPG - 影像轉換指南"
 "url": "/zh-hant/net/image-conversion/convert-tsv-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion .NET 將 TSV 轉換為 JPG
 
 在當今的數位時代，數據格式多種多樣。將製表符分隔值 (TSV) 檔案轉換為 JPEG 格式對於簡報或報告尤其有用。本教學將指導您使用 GroupDocs.Conversion for .NET 將 TSV 檔案轉換為高品質的 JPG 映像。

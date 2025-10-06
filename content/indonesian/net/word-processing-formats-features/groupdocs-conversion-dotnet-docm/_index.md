@@ -4,8 +4,8 @@
 "title": "Konversi DOCM Master dalam .NET dengan GroupDocs.Conversion&#58; Panduan Lengkap"
 "url": "/id/net/word-processing-formats-features/groupdocs-conversion-dotnet-docm/"
 "weight": 1
+type: docs
 ---
-
 # Menguasai Konversi DOCM di .NET dengan GroupDocs.Conversion
 
 ## Perkenalan

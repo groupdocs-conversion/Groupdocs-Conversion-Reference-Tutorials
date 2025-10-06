@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET&#58;i Kullanarak VSDM'yi XLSX'e Dönüştürme Tam Bir Kılavuz"
 "url": "/tr/net/spreadsheet-conversion/convert-vsdm-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET ile VSDM Dosyalarını XLSX'e Nasıl Dönüştürebilirsiniz
 
 ## giriiş

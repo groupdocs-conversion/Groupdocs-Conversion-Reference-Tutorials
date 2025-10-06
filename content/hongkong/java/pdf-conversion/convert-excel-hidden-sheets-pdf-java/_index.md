@@ -4,8 +4,8 @@
 "title": "如何使用 Java 和 GroupDocs.Conversion 將帶有隱藏工作表的 Excel 文件轉換為 PDF"
 "url": "/zh-hant/java/pdf-conversion/convert-excel-hidden-sheets-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 Java 和 GroupDocs.Conversion 將帶有隱藏工作表的 Excel 文件轉換為 PDF
 
 ## 介紹

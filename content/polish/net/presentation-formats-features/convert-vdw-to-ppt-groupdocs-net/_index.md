@@ -4,8 +4,8 @@
 "title": "Efektywne konwertowanie rysunków internetowych Visio do programu PowerPoint przy użyciu GroupDocs dla programistów .NET"
 "url": "/pl/net/presentation-formats-features/convert-vdw-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektywna konwersja rysunków internetowych Visio (VDW) do prezentacji PowerPoint przy użyciu GroupDocs dla programistów .NET
 
 ## Wstęp

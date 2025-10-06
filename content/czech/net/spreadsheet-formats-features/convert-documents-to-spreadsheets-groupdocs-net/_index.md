@@ -4,8 +4,8 @@
 "title": "Efektivní převod dokumentů do tabulky pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/spreadsheet-formats-features/convert-documents-to-spreadsheets-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod dokumentů do tabulky pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

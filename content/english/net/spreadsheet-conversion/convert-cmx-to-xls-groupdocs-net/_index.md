@@ -8,10 +8,8 @@ keywords:
 - convert CMX to XLS
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Convert CMX Files to XLS with GroupDocs.Conversion for .NET
 
 ## Introduction

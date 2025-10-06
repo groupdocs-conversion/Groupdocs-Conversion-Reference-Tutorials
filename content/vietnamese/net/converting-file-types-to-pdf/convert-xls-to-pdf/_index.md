@@ -5,8 +5,8 @@
 "title": "Chuyển đổi XLS sang PDF"
 "url": "/vi/net/converting-file-types-to-pdf/convert-xls-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Chuyển đổi XLS sang PDF
 
 ## Giới thiệu

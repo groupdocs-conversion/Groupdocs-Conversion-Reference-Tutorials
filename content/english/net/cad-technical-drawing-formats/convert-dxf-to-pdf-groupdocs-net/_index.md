@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert DXF to PDF Using GroupDocs.Conversion in .NET
 
 ## Introduction

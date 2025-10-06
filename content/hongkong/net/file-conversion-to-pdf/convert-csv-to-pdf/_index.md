@@ -5,8 +5,8 @@
 "title": "將 CSV 資料檔轉換為 PDF"
 "url": "/zh-hant/net/file-conversion-to-pdf/convert-csv-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # 將 CSV 資料檔轉換為 PDF
 
 ## 介紹

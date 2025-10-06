@@ -8,10 +8,8 @@ keywords:
 - convert PPS to PPTX
 - GroupDocs.Conversion for .NET
 - PowerPoint conversion
-
+type: docs
 ---
-
-
 # Convert PPS to PPTX with GroupDocs.Conversion for .NET: A Complete Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Convertir HTML a documento de Word con GroupDocs.Conversion en .NET&#58; guía paso a paso"
 "url": "/es/net/word-processing-conversion/convert-html-to-word-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertir HTML a documento de Word con GroupDocs.Conversion en .NET: guía paso a paso
 
 ## Introducción

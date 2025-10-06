@@ -4,8 +4,8 @@
 "title": ".NET GroupDocs.Conversion&#58;을 사용하여 XPS를 TEX로 변환하는 단계별 가이드"
 "url": "/ko/net/text-markup-conversion/xps-to-tex-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # .NET GroupDocs.Conversion을 사용하여 XPS를 TEX로 변환: 단계별 가이드
 
 ## 소개

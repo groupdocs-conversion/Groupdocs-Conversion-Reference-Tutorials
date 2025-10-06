@@ -8,10 +8,8 @@ keywords:
 - convert VSDM to XLSX
 - GroupDocs.Conversion .NET
 - Visio to Excel conversion
-
+type: docs
 ---
-
-
 # How to Convert VSDM Files to XLSX with GroupDocs.Conversion .NET
 
 ## Introduction

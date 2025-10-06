@@ -4,8 +4,8 @@
 "title": "Преобразование DXF в JPG в .NET&#58; Подробное руководство по использованию GroupDocs.Conversion"
 "url": "/ru/net/cad-technical-drawing-formats/dxf-to-jpg-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Освоение преобразования DXF в JPG в .NET с использованием GroupDocs.Conversion
 
 ## Введение

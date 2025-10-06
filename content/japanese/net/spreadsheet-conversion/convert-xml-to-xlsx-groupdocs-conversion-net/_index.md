@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET で XML を XLSX に変換する方法 - ステップバイステップガイド"
 "url": "/ja/net/spreadsheet-conversion/convert-xml-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使って XML を XLSX に変換する方法: ステップバイステップガイド
 
 ## 導入

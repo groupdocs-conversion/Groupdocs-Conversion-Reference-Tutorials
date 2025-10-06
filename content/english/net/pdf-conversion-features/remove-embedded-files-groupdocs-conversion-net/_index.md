@@ -8,10 +8,8 @@ keywords:
 - remove embedded files PDFs GroupDocs.Conversion .NET
 - optimize PDF documents using GroupDocs.Conversion
 - GroupDocs.Conversion .NET document security
-
+type: docs
 ---
-
-
 # How to Remove Embedded Files from PDFs Using GroupDocs.Conversion .NET for Optimized Document Management
 
 ## Introduction

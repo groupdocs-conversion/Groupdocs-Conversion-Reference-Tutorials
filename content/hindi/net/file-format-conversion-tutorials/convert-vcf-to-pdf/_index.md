@@ -5,8 +5,8 @@
 "title": "वीसीएफ को पीडीएफ में बदलें"
 "url": "/hi/net/file-format-conversion-tutorials/convert-vcf-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # वीसीएफ को पीडीएफ में बदलें
 
 ## परिचय

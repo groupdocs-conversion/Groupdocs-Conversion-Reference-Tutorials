@@ -3,8 +3,8 @@
 "title": "Tutoriels sur les formats de CAO et de dessin technique pour GroupDocs.Conversion .NET"
 "url": "/fr/net/cad-technical-drawing-formats/"
 "weight": 18
+type: docs
 ---
-
 # Tutoriels sur les formats de CAO et de dessin technique pour GroupDocs.Conversion .NET
 
 Apprenez à traiter des dessins techniques grâce à nos tutoriels complets GroupDocs.Conversion pour les développeurs .NET. Ces guides pratiques expliquent comment convertir des fichiers AutoCAD et autres fichiers CAO en formats affichables, spécifier des mises en page pour la conversion, définir des dimensions de largeur et de hauteur personnalisées pour la sortie, conserver les calques et les mesures, gérer efficacement les dessins volumineux, gérer les fenêtres d'affichage et la mise à l'échelle, et transformer des modèles 3D en représentations 2D. Chaque tutoriel comprend des exemples détaillés de code C# pour des scénarios de conversion CAO, vous aidant à créer des applications capables de traiter avec précision des dessins techniques tout en préservant les détails techniques importants.

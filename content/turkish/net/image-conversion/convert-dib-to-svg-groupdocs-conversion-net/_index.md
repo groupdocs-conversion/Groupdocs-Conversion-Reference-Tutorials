@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion'ı Kullanarak DIB'yi SVG'ye Verimli Şekilde Dönüştürün"
 "url": "/tr/net/image-conversion/convert-dib-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak DIB'yi SVG'ye Verimli Şekilde Dönüştürün
 
 ## giriiş

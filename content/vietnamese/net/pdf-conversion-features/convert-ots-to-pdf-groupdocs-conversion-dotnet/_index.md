@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi tệp OTS sang PDF bằng thư viện GroupDocs.Conversion .NET"
 "url": "/vi/net/pdf-conversion-features/convert-ots-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp OTS sang PDF bằng GroupDocs.Conversion .NET
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "Hoe u ODT naar HTML converteert met GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/html-conversion/convert-odt-html-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # ODT naar HTML converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

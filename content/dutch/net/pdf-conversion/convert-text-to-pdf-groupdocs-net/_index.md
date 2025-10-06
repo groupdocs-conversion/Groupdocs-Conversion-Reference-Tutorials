@@ -4,8 +4,8 @@
 "title": "Tekst naar PDF converteren in .NET met GroupDocs.Conversion - Een uitgebreide handleiding"
 "url": "/nl/net/pdf-conversion/convert-text-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Tekst naar PDF converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

@@ -4,8 +4,8 @@
 "title": "Automatisera konvertering från VCF till DOCX med GroupDocs.Conversion för .NET"
 "url": "/sv/net/word-processing-conversion/automate-vcf-to-docx-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Automatisera konvertering från VCF till DOCX med GroupDocs.Conversion för .NET
 
 ## Introduktion

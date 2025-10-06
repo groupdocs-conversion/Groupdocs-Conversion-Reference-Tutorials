@@ -4,8 +4,8 @@
 "title": "Konvertera VCF till PPT med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/presentation-conversion/convert-vcf-ppt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera VCF-filer till PowerPoint med GroupDocs.Conversion för .NET
 ## Introduktion
 Att presentera kontaktinformation som lagras i en VCF-fil kan vara utmanande under möten. Att konvertera dessa filer till PowerPoint-format (PPT) förbättrar visualisering och datadelning. Den här omfattande guiden guidar dig genom hur du konverterar VCF-filer till PPT med GroupDocs.Conversion för .NET, vilket möjliggör effektiva presentationsfunktioner.

@@ -4,8 +4,8 @@
 "title": "Konvertera WMZ till TEX med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/conversion-utilities-information/convert-wmz-to-tex-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera WMZ till TEX med GroupDocs.Conversion för .NET: En steg-för-steg-guide
 
 ## Introduktion

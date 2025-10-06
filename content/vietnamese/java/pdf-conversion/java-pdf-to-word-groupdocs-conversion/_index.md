@@ -4,8 +4,8 @@
 "title": "Chuyển đổi PDF sang Word trong Java bằng GroupDocs&#58; Hướng dẫn toàn diện"
 "url": "/vi/java/pdf-conversion/java-pdf-to-word-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi PDF sang Word trong Java bằng GroupDocs: Hướng dẫn toàn diện
 
 ## Giới thiệu

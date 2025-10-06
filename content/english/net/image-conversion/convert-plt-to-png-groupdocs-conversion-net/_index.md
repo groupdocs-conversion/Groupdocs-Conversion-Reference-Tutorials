@@ -8,10 +8,8 @@ keywords:
 - convert PLT to PNG
 - GroupDocs.Conversion for .NET
 - .NET image conversion
-
+type: docs
 ---
-
-
 # How to Convert PLT Files to PNG Using GroupDocs.Conversion for .NET
 
 ## Introduction

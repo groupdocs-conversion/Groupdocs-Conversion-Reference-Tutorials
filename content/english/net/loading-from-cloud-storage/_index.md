@@ -3,8 +3,8 @@ title: "Loading Documents from Cloud Storage Tutorials for GroupDocs.Conversion 
 description: "Step-by-step tutorials for loading documents from Amazon S3, Azure Blob Storage, and other cloud providers using GroupDocs.Conversion for .NET."
 weight: 4
 url: "/net/loading-from-cloud-storage/"
+type: docs
 ---
-
 # Loading Documents from Cloud Storage Tutorials for GroupDocs.Conversion .NET
 
 Our cloud storage tutorials show you how to integrate GroupDocs.Conversion with popular cloud storage platforms in .NET applications. These detailed guides walk through connecting to Amazon S3 buckets, accessing Azure Blob Storage containers, configuring appropriate credentials, handling region-specific settings, managing connection pooling, and implementing retry logic for cloud operations. Each tutorial includes practical C# code examples for cloud document retrieval scenarios, helping you build robust applications that leverage cloud-based document repositories in your conversion workflows.

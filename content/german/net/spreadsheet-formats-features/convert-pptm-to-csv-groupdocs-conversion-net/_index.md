@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie PPTM in CSV mit GroupDocs.Conversion für .NET | Schritt-für-Schritt-Anleitung"
 "url": "/de/net/spreadsheet-formats-features/convert-pptm-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie PPTM in CSV mit GroupDocs.Conversion für .NET
 
 ## Einführung

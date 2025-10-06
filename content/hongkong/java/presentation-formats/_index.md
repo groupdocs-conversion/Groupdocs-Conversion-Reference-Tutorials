@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Java 的示範格式轉換教學"
 "url": "/zh-hant/java/presentation-formats/"
 "weight": 7
+type: docs
 ---
-
 # GroupDocs.Conversion Java 的示範格式轉換教學
 
 我們的簡報轉換教學將向您展示如何使用 Java 中的 GroupDocs.Conversion 轉換簡報檔案。這些實用指南將逐步說明如何轉換 PowerPoint 格式、維護動畫和過渡效果、保留演講者備註、處理嵌入媒體以及如何確保轉換過程中的佈局一致性。每個教學課程都包含針對常見簡報轉換場景的詳細 Java 程式碼範例，可協助您建立能夠產生高品質轉換結果、保留視覺元素和互動功能的應用程式。

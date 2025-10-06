@@ -4,8 +4,8 @@
 "title": "Converteer ODS naadloos naar DOCX met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/word-processing-formats-features/convert-ods-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer ODS naar DOCX met GroupDocs.Conversion voor .NET
 
 ## Invoering

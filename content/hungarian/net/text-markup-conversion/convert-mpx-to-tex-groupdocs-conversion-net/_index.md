@@ -4,8 +4,8 @@
 "title": "MPX konvertálása TeX-re a GroupDocs.Conversion for .NET segítségével – fejlesztői útmutató"
 "url": "/hu/net/text-markup-conversion/convert-mpx-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MPX konvertálása TEX-re a GroupDocs.Conversion for .NET használatával: Fejlesztői útmutató
 
 ## Bevezetés

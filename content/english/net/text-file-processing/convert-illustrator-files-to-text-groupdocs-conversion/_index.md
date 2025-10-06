@@ -8,10 +8,8 @@ keywords:
 - convert Adobe Illustrator to text
 - GroupDocs.Conversion .NET library
 - AI file conversion
-
+type: docs
 ---
-
-
 # Convert Adobe Illustrator Files to Text Using GroupDocs.Conversion for .NET
 
 ## Introduction

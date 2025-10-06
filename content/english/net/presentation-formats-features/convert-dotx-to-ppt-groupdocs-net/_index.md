@@ -8,10 +8,8 @@ keywords:
 - convert DOTX to PPT
 - GroupDocs.Conversion .NET
 - .NET document conversion
-
+type: docs
 ---
-
-
 # How to Convert DOTX to PPT Using GroupDocs.Conversion for .NET
 
 ## Introduction

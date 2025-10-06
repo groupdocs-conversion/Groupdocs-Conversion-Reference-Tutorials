@@ -5,8 +5,8 @@
 "title": "將 SXC 轉換為 PDF"
 "url": "/zh-hant/net/file-format-conversion-tutorials/convert-sxc-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # 將 SXC 轉換為 PDF
 
 ## 介紹

@@ -8,10 +8,8 @@ keywords:
 - DGN to TXT conversion
 - CAD file handling
 - GroupDocs.Conversion .NET
-
+type: docs
 ---
-
-
 # How to Convert DGN Files to TXT Using GroupDocs.Conversion .NET
 
 ## Introduction

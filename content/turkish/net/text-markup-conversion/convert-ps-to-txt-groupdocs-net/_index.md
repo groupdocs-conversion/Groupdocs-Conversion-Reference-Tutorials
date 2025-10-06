@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak PostScript (PS) Düz Metne Nasıl Dönüştürülür"
 "url": "/tr/net/text-markup-conversion/convert-ps-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak PostScript (PS) Düz Metne Nasıl Dönüştürülür
 
 ## giriiş

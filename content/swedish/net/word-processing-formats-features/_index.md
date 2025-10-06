@@ -3,8 +3,8 @@
 "title": "Handledningar för ordbehandlingsformat och funktioner för GroupDocs.Conversion .NET"
 "url": "/sv/net/word-processing-formats-features/"
 "weight": 10
+type: docs
 ---
-
 # Handledningar för ordbehandlingsformat och funktioner för GroupDocs.Conversion .NET
 
 Upptäck hur du effektivt arbetar med Word-dokument med hjälp av våra omfattande GroupDocs.Conversion .NET-handledningar. Dessa steg-för-steg-guider lär dig hur du konverterar mellan olika ordbehandlingsformat, döljer kommentarer och spårade ändringar under konvertering, anger alternativ för teckensnittsersättning, bevarar stilar och formatering, underhåller dokumentstruktur, hanterar inbäddade objekt och kontrollerar beteendet för sidhuvud/sidfot. Varje handledning ger praktiska C#-kodexempel för konvertering av Word-dokument, vilket hjälper dig att bygga mer effektiva applikationer som kan bearbeta textdokument med hög återgivning och formatspecifik kontroll.

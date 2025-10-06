@@ -8,10 +8,8 @@ keywords:
 - convert MPT to JPG
 - GroupDocs.Conversion for .NET
 - document conversion using GroupDocs
-
+type: docs
 ---
-
-
 # Convert MPT to JPG with GroupDocs in .NET
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - convert SVGZ to TXT
 - GroupDocs.Conversion for .NET
 - SVGZ file conversion
-
+type: docs
 ---
-
-
 # How to Convert SVGZ Files to TXT Using GroupDocs.Conversion for .NET
 
 ## Introduction

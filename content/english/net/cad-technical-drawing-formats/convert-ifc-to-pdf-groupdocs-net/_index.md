@@ -8,10 +8,8 @@ keywords:
 - convert IFC to PDF
 - GroupDocs.Conversion for .NET
 - CAD & Technical Drawing Formats
-
+type: docs
 ---
-
-
 # Convert IFC Files to PDF with GroupDocs.Conversion for .NET
 
 ## Introduction

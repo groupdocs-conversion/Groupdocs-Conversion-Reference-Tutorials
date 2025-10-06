@@ -8,10 +8,8 @@ keywords:
 - convert MOBI to XLSX
 - GroupDocs.Conversion for .NET
 - file conversion guide
-
+type: docs
 ---
-
-
 # Convert MOBI Files to XLSX Using GroupDocs.Conversion for .NET
 
 ## Introduction

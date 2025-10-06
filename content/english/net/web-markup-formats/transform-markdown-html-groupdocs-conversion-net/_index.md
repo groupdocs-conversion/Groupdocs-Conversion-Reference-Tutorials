@@ -8,10 +8,8 @@ keywords:
 - convert markdown to html
 - groupdocs conversion net
 - markdown to html transformation
-
+type: docs
 ---
-
-
 # Convert Markdown to HTML with GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

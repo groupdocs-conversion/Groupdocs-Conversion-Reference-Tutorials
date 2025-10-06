@@ -8,10 +8,8 @@ keywords:
 - Convert VST to HTML
 - GroupDocs.Conversion .NET
 - Visio Drawing Templates conversion
-
+type: docs
 ---
-
-
 # Convert VST Files to HTML Using GroupDocs.Conversion .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -5,8 +5,8 @@
 "title": "Converteer JPM naar PDF"
 "url": "/nl/net/document-conversion/convert-jpm-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # Converteer JPM naar PDF
 
 ## Invoering

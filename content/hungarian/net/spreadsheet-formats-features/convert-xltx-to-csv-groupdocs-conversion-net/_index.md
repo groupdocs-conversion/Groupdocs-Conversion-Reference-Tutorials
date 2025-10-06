@@ -4,8 +4,8 @@
 "title": "XLTX fájlok hatékony konvertálása CSV-vé a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/spreadsheet-formats-features/convert-xltx-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # XLTX fájlok hatékony konvertálása CSV-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

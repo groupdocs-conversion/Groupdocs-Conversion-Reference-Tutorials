@@ -8,10 +8,8 @@ keywords:
 - convert emails to PDFs with GroupDocs
 - Java email conversion advanced options
 - control visibility in email PDF conversion
-
+type: docs
 ---
-
-
 # Convert Emails to PDFs in Java Using GroupDocs.Conversion: Advanced Options Guide
 
 ## Introduction

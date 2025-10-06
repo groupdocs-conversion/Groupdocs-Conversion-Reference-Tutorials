@@ -8,10 +8,8 @@ keywords:
 - convert VSD to DOCX
 - GroupDocs.Conversion for .NET
 - file conversion .NET
-
+type: docs
 ---
-
-
 # Convert VSD Files to DOCX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

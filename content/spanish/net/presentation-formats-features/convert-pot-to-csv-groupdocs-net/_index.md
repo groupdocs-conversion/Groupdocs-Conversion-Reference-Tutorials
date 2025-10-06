@@ -4,8 +4,8 @@
 "title": "Convierta POT a CSV de manera eficiente con GroupDocs.Conversion para .NET&#58; Guía para desarrolladores"
 "url": "/es/net/presentation-formats-features/convert-pot-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convierta POT a CSV de forma eficiente con GroupDocs.Conversion para .NET: Guía para desarrolladores
 
 ## Introducción

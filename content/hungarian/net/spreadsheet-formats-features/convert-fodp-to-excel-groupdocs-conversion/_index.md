@@ -4,8 +4,8 @@
 "title": "FODP hatékony konvertálása Excelbe a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/spreadsheet-formats-features/convert-fodp-to-excel-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhat hatékonyan FODP fájlokat Excelbe a GroupDocs.Conversion for .NET használatával?
 
 ## Bevezetés

@@ -5,8 +5,8 @@
 "title": "Конвертировать файлы 3D-моделей IGS в PDF"
 "url": "/ru/net/convert-files-to-pdf/convert-igs-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # Конвертировать файлы 3D-моделей IGS в PDF
 
 ## Введение

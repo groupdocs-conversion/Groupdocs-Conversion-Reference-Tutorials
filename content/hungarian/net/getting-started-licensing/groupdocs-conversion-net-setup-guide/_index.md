@@ -4,8 +4,8 @@
 "title": "Átfogó útmutató a GroupDocs.Conversion for .NET telepítéséhez és megvalósításához"
 "url": "/hu/net/getting-started-licensing/groupdocs-conversion-net-setup-guide/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató a GroupDocs.Conversion for .NET-hez: Beállítás és megvalósítás
 
 ## Bevezetés

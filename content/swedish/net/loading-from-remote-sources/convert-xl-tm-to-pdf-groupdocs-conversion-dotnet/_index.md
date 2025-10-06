@@ -4,8 +4,8 @@
 "title": "Konvertera XLTM till PDF med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/loading-from-remote-sources/convert-xl-tm-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera XLTM till PDF med GroupDocs.Conversion för .NET: En steg-för-steg-guide
 
 ## Introduktion

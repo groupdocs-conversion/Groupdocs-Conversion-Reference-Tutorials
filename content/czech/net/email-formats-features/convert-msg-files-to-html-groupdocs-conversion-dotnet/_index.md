@@ -4,8 +4,8 @@
 "title": "Převod souborů MSG do HTML pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/email-formats-features/convert-msg-files-to-html-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů MSG do HTML pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

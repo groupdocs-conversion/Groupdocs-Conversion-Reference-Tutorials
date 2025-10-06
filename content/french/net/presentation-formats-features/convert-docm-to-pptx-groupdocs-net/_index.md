@@ -4,8 +4,8 @@
 "title": "Comment convertir un fichier DOCM en PPTX à l'aide de GroupDocs.Conversion pour .NET ? Guide étape par étape"
 "url": "/fr/net/presentation-formats-features/convert-docm-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir un fichier DOCM en PPTX avec GroupDocs.Conversion pour .NET : guide étape par étape
 
 ## Introduction

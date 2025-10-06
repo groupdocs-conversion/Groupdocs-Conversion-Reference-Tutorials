@@ -5,8 +5,8 @@
 "title": "Konversi MD ke PDF"
 "url": "/id/net/document-conversion/convert-md-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # Konversi MD ke PDF
 
 ## Perkenalan

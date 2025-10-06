@@ -4,8 +4,8 @@
 "title": "DWF fájlok TXT formátumba konvertálása a GroupDocs.Conversion for .NET segítségével (lépésről lépésre útmutató)"
 "url": "/hu/net/cad-technical-drawing-formats/convert-dwf-to-txt-using-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DWF fájlok TXT formátumba konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

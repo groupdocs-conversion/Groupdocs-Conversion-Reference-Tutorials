@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 將 DOTM 轉換為 PPT —— 綜合指南"
 "url": "/zh-hant/net/presentation-formats-features/convert-dotm-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將 DOTM 轉換為 PPT：綜合指南
 
 ## 介紹

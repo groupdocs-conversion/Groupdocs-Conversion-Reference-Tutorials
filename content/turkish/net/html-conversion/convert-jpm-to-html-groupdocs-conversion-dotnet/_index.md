@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak JPM'yi HTML'ye Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/html-conversion/convert-jpm-to-html-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak JPM'yi HTML'ye Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

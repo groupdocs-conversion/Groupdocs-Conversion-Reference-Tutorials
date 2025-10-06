@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή XML σε υπολογιστικό φύλλο σε .NET χρησιμοποιώντας το GroupDocs.Conversion"
 "url": "/el/net/spreadsheet-conversion/xml-to-spreadsheet-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική μετατροπή XML σε υπολογιστικό φύλλο σε .NET χρησιμοποιώντας το GroupDocs.Conversion
 
 ## Εισαγωγή

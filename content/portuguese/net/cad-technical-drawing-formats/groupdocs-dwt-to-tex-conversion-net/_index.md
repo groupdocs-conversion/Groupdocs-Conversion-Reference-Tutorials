@@ -4,8 +4,8 @@
 "title": "Conversão eficiente de DWT para TEX usando GroupDocs para .NET - Guia e práticas recomendadas"
 "url": "/pt/net/cad-technical-drawing-formats/groupdocs-dwt-to-tex-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Conversão eficiente de documentos: converta DWT em TEX usando GroupDocs.Conversion para .NET
 ## Introdução
 Deseja converter arquivos .dwt para o versátil formato TEX com eficiência? Muitos desenvolvedores enfrentam desafios na conversão de documentos, especialmente com formatos especializados como o Drawing Web Format (.dwt). Neste guia completo, demonstraremos como converter arquivos DWT para TEX com facilidade usando o GroupDocs.Conversion para .NET — uma biblioteca poderosa que simplifica conversões complexas.

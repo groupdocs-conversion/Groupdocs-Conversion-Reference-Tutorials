@@ -4,8 +4,8 @@
 "title": "OTS fájlok PDF-be konvertálása a GroupDocs.Conversion .NET könyvtár használatával"
 "url": "/hu/net/pdf-conversion-features/convert-ots-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # OTS fájlok PDF-be konvertálása a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "设置 GroupDocs.Conversion Java 许可证&#58;分步指南"
 "url": "/zh/java/getting-started/groupdocs-conversion-java-license-setup-file-path/"
 "weight": 1
+type: docs
 ---
-
 # 设置 GroupDocs.Conversion Java 许可证：综合教程
 
 欢迎阅读我们关于如何设置和使用 GroupDocs.Conversion Java 库的分步指南。本教程重点介绍如何通过文件路径实现许可证设置，帮助您充分发挥这款强大的文档转换工具的潜力。

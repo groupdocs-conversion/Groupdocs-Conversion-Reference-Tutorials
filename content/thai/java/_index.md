@@ -4,8 +4,8 @@
 "title": "บทช่วยสอนแบบครอบคลุมของ GroupDocs.Conversion สำหรับ Java"
 "url": "/th/java/"
 "weight": 10
+type: docs
 ---
-
 # บทช่วยสอนแบบครอบคลุมของ GroupDocs.Conversion สำหรับ Java
 
 ## การแนะนำ

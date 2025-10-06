@@ -4,8 +4,8 @@
 "title": "Převod SVGZ do LaTeXu pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/text-markup-conversion/convert-svgz-to-latex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů SVGZ do formátu LaTeX pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

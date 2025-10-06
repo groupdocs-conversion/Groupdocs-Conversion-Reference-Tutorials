@@ -4,8 +4,8 @@
 "title": "Manajemen Jalur Dokumen yang Efisien di .NET dengan GroupDocs.Conversion&#58; Menentukan Konstanta untuk Konversi yang Lancar"
 "url": "/id/net/conversion-options-settings/groupdocs-net-define-document-paths/"
 "weight": 1
+type: docs
 ---
-
 # Manajemen Jalur Dokumen yang Efisien di .NET dengan GroupDocs.Conversion
 
 ## Perkenalan

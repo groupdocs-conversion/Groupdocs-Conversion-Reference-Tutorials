@@ -5,8 +5,8 @@
 "title": "JPEG를 PDF로 변환"
 "url": "/ko/net/document-conversion/convert-jpeg-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # JPEG를 PDF로 변환
 
 ## 소개

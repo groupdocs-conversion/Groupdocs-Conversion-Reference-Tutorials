@@ -8,10 +8,8 @@ keywords:
 - convert DOCX to HTML
 - GroupDocs.Conversion for .NET
 - document conversion with C#
-
+type: docs
 ---
-
-
 # Convert DOCX to HTML with GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

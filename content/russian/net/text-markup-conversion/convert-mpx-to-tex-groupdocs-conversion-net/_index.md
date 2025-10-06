@@ -4,8 +4,8 @@
 "title": "Конвертируйте MPX в TeX с помощью GroupDocs.Conversion для .NET&#58; Руководство разработчика"
 "url": "/ru/net/text-markup-conversion/convert-mpx-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертация MPX в TEX с помощью GroupDocs.Conversion для .NET: руководство разработчика
 
 ## Введение

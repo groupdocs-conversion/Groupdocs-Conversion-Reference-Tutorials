@@ -5,8 +5,8 @@
 "title": "تحويل ملفات تبادل رسومات CAD DXF إلى PDF"
 "url": "/ar/net/convert-files-to-pdf/convert-dxf-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # تحويل ملفات تبادل رسومات CAD DXF إلى PDF
 
 ## مقدمة

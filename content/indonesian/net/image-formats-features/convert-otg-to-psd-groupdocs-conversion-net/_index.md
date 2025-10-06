@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi File OTG ke PSD Menggunakan GroupDocs.Conversion .NET&#58; Panduan Lengkap"
 "url": "/id/net/image-formats-features/convert-otg-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi File OTG ke PSD Menggunakan GroupDocs.Conversion .NET: Panduan Lengkap
 
 ## Perkenalan

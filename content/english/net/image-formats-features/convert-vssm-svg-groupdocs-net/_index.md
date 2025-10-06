@@ -8,10 +8,8 @@ keywords:
 - convert VSSM to SVG
 - GroupDocs.Conversion for .NET
 - Visio Macro-Enabled files
-
+type: docs
 ---
-
-
 # Convert VSSM to SVG Efficiently Using GroupDocs.Conversion for .NET
 
 ## Introduction

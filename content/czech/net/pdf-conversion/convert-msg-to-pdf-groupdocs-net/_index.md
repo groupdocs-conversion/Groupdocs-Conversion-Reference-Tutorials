@@ -4,8 +4,8 @@
 "title": "Převod MSG do PDF pomocí GroupDocs v .NET – Komplexní průvodce"
 "url": "/cs/net/pdf-conversion/convert-msg-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod MSG do PDF pomocí GroupDocs v .NET: Komplexní průvodce
 
 ## Zavedení

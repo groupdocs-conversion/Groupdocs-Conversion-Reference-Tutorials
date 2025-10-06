@@ -4,8 +4,8 @@
 "title": "Wdrażanie OCR i konwersja obrazów do formatu PDF przy użyciu Aspose i GroupDocs dla .NET"
 "url": "/pl/net/image-formats-features/implement-ocr-conversion-images-pdf-net/"
 "weight": 1
+type: docs
 ---
-
 # Wdrażanie OCR i konwersja obrazów do formatu PDF przy użyciu Aspose i GroupDocs dla .NET
 
 ## Wstęp

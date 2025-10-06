@@ -5,8 +5,8 @@
 "title": "MOBI'yi PDF'ye dönüştür"
 "url": "/tr/net/document-conversion/convert-mobi-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # MOBI'yi PDF'ye dönüştür
 
 ## giriiş

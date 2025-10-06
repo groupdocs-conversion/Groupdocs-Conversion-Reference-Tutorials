@@ -4,8 +4,8 @@
 "title": "Convertire JPM in HTML utilizzando GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/html-conversion/convert-jpm-to-html-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertire JPM in HTML utilizzando GroupDocs.Conversion per .NET: una guida completa
 
 ## Introduzione

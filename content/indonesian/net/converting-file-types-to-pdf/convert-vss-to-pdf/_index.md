@@ -5,8 +5,8 @@
 "title": "Konversi VSS ke PDF"
 "url": "/id/net/converting-file-types-to-pdf/convert-vss-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Konversi VSS ke PDF
 
 ## Perkenalan

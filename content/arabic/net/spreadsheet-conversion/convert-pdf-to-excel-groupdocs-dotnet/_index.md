@@ -4,8 +4,8 @@
 "title": "تحويل ملفات PDF إلى Excel باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/spreadsheet-conversion/convert-pdf-to-excel-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # تحويل PDF إلى Excel باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

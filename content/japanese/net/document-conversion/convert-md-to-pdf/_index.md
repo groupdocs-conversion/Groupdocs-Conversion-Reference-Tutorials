@@ -5,8 +5,8 @@
 "title": "MDをPDFに変換する"
 "url": "/ja/net/document-conversion/convert-md-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # MDをPDFに変換する
 
 ## 導入

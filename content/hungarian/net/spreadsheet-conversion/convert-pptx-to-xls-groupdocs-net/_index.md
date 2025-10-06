@@ -4,8 +4,8 @@
 "title": "PPTX konvertálása XLS-be C#-ban a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/spreadsheet-conversion/convert-pptx-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PPTX konvertálása XLS-be a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

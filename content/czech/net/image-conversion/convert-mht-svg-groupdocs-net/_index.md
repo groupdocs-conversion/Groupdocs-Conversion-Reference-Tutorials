@@ -4,8 +4,8 @@
 "title": "Jak převést soubory MHT do SVG pomocí GroupDocs.Conversion pro .NET - Výukový program pro převod obrázků"
 "url": "/cs/net/image-conversion/convert-mht-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory MHT do SVG pomocí GroupDocs.Conversion pro .NET
 ## Výukový program pro převod obrázků
 

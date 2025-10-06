@@ -4,8 +4,8 @@
 "title": "ODP naar XLSX converteren in C# - Stapsgewijze handleiding met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/spreadsheet-conversion/convert-odp-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer ODP naar XLSX in C#: Stapsgewijze handleiding met GroupDocs.Conversion voor .NET
 
 ## Invoering

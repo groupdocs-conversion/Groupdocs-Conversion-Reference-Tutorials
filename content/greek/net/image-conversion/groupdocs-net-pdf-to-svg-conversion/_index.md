@@ -4,8 +4,8 @@
 "title": "Μετατροπή κύριου PDF σε SVG με το GroupDocs.Conversion για .NET"
 "url": "/el/net/image-conversion/groupdocs-net-pdf-to-svg-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή κύριου PDF σε SVG με το GroupDocs.Conversion για .NET
 
 ## Εκμάθηση μετατροπής εικόνας

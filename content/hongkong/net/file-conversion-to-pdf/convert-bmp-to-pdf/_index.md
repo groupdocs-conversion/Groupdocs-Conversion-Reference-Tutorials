@@ -5,8 +5,8 @@
 "title": "將 BMP 影像轉換為 PDF"
 "url": "/zh-hant/net/file-conversion-to-pdf/convert-bmp-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # 將 BMP 影像轉換為 PDF
 
 ## 介紹

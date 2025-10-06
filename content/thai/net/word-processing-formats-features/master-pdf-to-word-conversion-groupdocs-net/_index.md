@@ -4,8 +4,8 @@
 "title": "เรียนรู้การแปลง PDF เป็น Word ด้วย GroupDocs.Conversion สำหรับ .NET | คู่มือฉบับสมบูรณ์"
 "url": "/th/net/word-processing-formats-features/master-pdf-to-word-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # เรียนรู้การแปลง PDF เป็น Word ด้วย GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

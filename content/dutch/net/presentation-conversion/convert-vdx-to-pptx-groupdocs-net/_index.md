@@ -4,8 +4,8 @@
 "title": "Converteer VDX naar PPTX met GroupDocs.Conversion voor .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/presentation-conversion/convert-vdx-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer VDX naar PPTX met GroupDocs.Conversion voor .NET: een stapsgewijze handleiding
 
 ## Invoering

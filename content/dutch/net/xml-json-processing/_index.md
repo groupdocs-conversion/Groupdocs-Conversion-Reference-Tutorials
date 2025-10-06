@@ -3,8 +3,8 @@
 "title": "XML- en JSON-verwerkingshandleidingen voor GroupDocs.Conversion .NET"
 "url": "/nl/net/xml-json-processing/"
 "weight": 16
+type: docs
 ---
-
 # XML- en JSON-verwerkingshandleidingen voor GroupDocs.Conversion .NET
 
 Ontdek de mogelijkheden voor gegevensformaatconversie met onze GroupDocs.Conversion-tutorials voor .NET-ontwikkelaars. Deze stapsgewijze handleidingen laten zien hoe u XML en JSON kunt gebruiken als gegevensbronnen voor het maken van spreadsheets en andere documenttypen, hiërarchische gegevensstructuren kunt behouden tijdens de conversie, complexe objectrelaties kunt onderhouden, arrays en verzamelingen kunt verwerken, naamruimten en schema's kunt beheren en gegevenstransformatie- en toewijzingsbewerkingen kunt implementeren. Elke tutorial bevat praktische C#-codevoorbeelden voor het werken met gestructureerde gegevensformaten, waarmee u applicaties kunt bouwen die machineleesbare gegevens kunnen omzetten naar gebruiksvriendelijke documentformaten.

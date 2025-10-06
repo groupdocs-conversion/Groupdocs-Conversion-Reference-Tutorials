@@ -4,8 +4,8 @@
 "title": "Převod DIB do PowerPointu v C# pomocí GroupDocs.Conversion pro .NET - Komplexní průvodce"
 "url": "/cs/net/presentation-conversion/convert-dib-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod DIB do PowerPointu v C# pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

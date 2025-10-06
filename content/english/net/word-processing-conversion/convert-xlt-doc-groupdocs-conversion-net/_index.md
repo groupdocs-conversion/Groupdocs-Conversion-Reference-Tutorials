@@ -8,10 +8,8 @@ keywords:
 - convert XLT to DOC
 - GroupDocs.Conversion for .NET
 - file format conversion
-
+type: docs
 ---
-
-
 # Convert XLT to DOC Using GroupDocs.Conversion for .NET
 
 ## Introduction

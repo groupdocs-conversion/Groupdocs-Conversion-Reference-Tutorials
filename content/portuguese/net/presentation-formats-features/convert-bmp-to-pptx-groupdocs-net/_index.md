@@ -4,8 +4,8 @@
 "title": "Converter BMP para PPTX usando GroupDocs.Conversion .NET - Um guia completo"
 "url": "/pt/net/presentation-formats-features/convert-bmp-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converter BMP para PPTX usando GroupDocs.Conversion .NET: um guia passo a passo
 
 ## Introdução

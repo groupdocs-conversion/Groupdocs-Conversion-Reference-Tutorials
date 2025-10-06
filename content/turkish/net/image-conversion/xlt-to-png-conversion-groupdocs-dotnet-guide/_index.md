@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET kullanarak XLT'yi PNG'ye Dönüştürmeye Yönelik Kapsamlı Kılavuz"
 "url": "/tr/net/image-conversion/xlt-to-png-conversion-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET kullanarak XLT'yi PNG'ye Dönüştürmeye Yönelik Kapsamlı Kılavuz
 
 ## giriiş

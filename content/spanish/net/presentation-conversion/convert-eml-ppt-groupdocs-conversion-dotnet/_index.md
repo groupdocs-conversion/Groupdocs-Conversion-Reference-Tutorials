@@ -4,8 +4,8 @@
 "title": "Cómo convertir archivos EML a PowerPoint PPT usando GroupDocs.Conversion para .NET"
 "url": "/es/net/presentation-conversion/convert-eml-ppt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir archivos EML a PowerPoint PPT con GroupDocs.Conversion para .NET
 
 ## Introducción

@@ -4,8 +4,8 @@
 "title": "Converteer DOC naar CSV met GroupDocs.Conversion.NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/spreadsheet-formats-features/convert-doc-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer DOC naar CSV met GroupDocs.Conversion .NET: een stapsgewijze handleiding
 
 ## Invoering

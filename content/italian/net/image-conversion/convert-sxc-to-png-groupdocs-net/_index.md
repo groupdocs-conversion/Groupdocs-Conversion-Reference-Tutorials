@@ -4,8 +4,8 @@
 "title": "Convertire SXC in PNG in .NET utilizzando GroupDocs.Conversion - Guida per sviluppatori"
 "url": "/it/net/image-conversion/convert-sxc-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire i file SXC in PNG con GroupDocs in .NET
 
 ## Introduzione

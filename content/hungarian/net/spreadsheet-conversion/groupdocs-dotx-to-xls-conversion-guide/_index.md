@@ -4,8 +4,8 @@
 "title": "Végső útmutató – DOTX konvertálása XLS-be a GroupDocs.Conversion for .NET használatával C#-ban"
 "url": "/hu/net/spreadsheet-conversion/groupdocs-dotx-to-xls-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Végső útmutató: DOTX konvertálása XLS-sé a GroupDocs.Conversion for .NET használatával C#-ban
 
 ## Bevezetés

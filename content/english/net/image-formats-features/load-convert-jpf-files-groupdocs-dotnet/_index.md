@@ -8,10 +8,8 @@ keywords:
 - load convert jpf files
 - groupdocs conversion net
 - file format conversion
-
+type: docs
 ---
-
-
 # Master File Conversion: Load & Convert JPF Files Using GroupDocs for .NET
 
 ## Introduction

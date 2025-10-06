@@ -8,10 +8,8 @@ keywords:
 - convert XLSB to PNG
 - GroupDocs.Conversion .NET
 - XLSB file conversion in C#
-
+type: docs
 ---
-
-
 # Convert XLSB Files to PNG Using GroupDocs.Conversion in C#: A Step-by-Step Guide
 
 ## Introduction

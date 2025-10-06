@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して DOT ファイルを TXT に変換する方法"
 "url": "/ja/net/text-markup-conversion/convert-dot-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して DOT ファイルを TXT に変換する方法
 
 ## 導入

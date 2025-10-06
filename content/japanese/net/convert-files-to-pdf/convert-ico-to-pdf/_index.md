@@ -5,8 +5,8 @@
 "title": "ICOアイコンをPDFに変換する"
 "url": "/ja/net/convert-files-to-pdf/convert-ico-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # ICOアイコンをPDFに変換する
 
 ## 導入

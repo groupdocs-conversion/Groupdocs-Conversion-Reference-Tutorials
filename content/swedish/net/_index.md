@@ -5,8 +5,8 @@
 "title": "Omfattande handledningar för GroupDocs.Conversion för .NET"
 "url": "/sv/net/"
 "weight": 10
+type: docs
 ---
-
 # Omfattande handledningar för GroupDocs.Conversion för .NET
 
 

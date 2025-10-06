@@ -4,8 +4,8 @@
 "title": "Konvertera DWT till XLS effektivt – en omfattande guide med GroupDocs.Conversion för .NET"
 "url": "/sv/net/spreadsheet-conversion/groupdocs-conversion-net-dwt-to-xls/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera DWT till XLS effektivt: En omfattande guide med GroupDocs.Conversion för .NET
 
 ## Introduktion

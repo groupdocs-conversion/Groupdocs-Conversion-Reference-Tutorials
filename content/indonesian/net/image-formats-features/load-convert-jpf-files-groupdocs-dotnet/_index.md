@@ -4,8 +4,8 @@
 "title": "Konversi File Master&#58; Muat & Konversi File JPF Menggunakan GroupDocs untuk .NET"
 "url": "/id/net/image-formats-features/load-convert-jpf-files-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konversi File Master: Memuat & Mengonversi File JPF Menggunakan GroupDocs untuk .NET
 
 ## Perkenalan

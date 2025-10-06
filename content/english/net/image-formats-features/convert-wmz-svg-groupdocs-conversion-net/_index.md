@@ -8,10 +8,8 @@ keywords:
 - WMZ to SVG conversion
 - GroupDocs.Conversion for .NET
 - C# file format conversion
-
+type: docs
 ---
-
-
 # How to Convert WMZ to SVG Using GroupDocs.Conversion for .NET
 
 ## Introduction

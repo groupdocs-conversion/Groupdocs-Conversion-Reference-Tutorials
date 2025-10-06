@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 的 CSV 和结构化数据处理教程"
 "url": "/zh/net/csv-structured-data-processing/"
 "weight": 15
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 的 CSV 和结构化数据处理教程
 
 我们的 CSV 和结构化数据教程提供了在 .NET 应用程序中处理表格和数据格式的详细指南。这些实用指南演示了如何将 CSV 文件转换为 JSON 和 XML 格式、如何将 CSV 转换为各种文档类型、如何指定分隔符和编码选项、如何正确转换日期时间和数值数据、如何管理标头和字段名称、如何在转换过程中保留数据类型以及如何实现批量数据转换操作。每个教程都包含完整的 C# 代码示例，用于数据格式转换场景，帮助您构建能够有效衔接原始数据格式和人类可读文档的应用程序。

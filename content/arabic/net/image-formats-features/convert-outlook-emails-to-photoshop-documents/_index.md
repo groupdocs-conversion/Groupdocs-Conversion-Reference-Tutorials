@@ -4,8 +4,8 @@
 "title": "تحويل رسائل البريد الإلكتروني في Outlook إلى مستندات Photoshop باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/image-formats-features/convert-outlook-emails-to-photoshop-documents/"
 "weight": 1
+type: docs
 ---
-
 # تحويل رسائل البريد الإلكتروني من Microsoft Outlook إلى مستندات Adobe Photoshop باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

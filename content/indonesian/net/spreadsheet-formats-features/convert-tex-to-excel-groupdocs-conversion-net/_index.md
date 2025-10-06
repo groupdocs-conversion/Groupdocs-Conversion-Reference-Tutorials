@@ -4,8 +4,8 @@
 "title": "Konversi File LaTeX (TEX) ke Lembar Kerja Excel Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/spreadsheet-formats-features/convert-tex-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi File LaTeX (TEX) ke Lembar Kerja Excel Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

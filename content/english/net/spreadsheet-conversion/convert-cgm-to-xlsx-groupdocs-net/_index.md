@@ -8,10 +8,8 @@ keywords:
 - convert CGM to XLSX
 - GroupDocs.Conversion for .NET setup
 - CGM file conversion
-
+type: docs
 ---
-
-
 # How to Convert CGM Files to XLSX Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用して .NET で WEBP 画像を HTML に変換する方法"
 "url": "/ja/net/html-conversion/convert-webp-to-html-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 包括的なガイド: GroupDocs.Conversion for .NET を使用して WEBP を HTML に変換する
 
 ## 導入

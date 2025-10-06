@@ -4,8 +4,8 @@
 "title": "Memuat dan Mengonversi File HTML Secara Efisien Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/web-markup-formats/groupdocs-conversion-net-load-convert-htm-files/"
 "weight": 1
+type: docs
 ---
-
 # Memuat dan Mengonversi File HTML Secara Efisien Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

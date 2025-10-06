@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 ICO 轉換為 TXT — 逐步指南"
 "url": "/zh-hant/net/text-markup-conversion/convert-ico-to-txt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 ICO 檔案轉換為 TXT：綜合指南
 
 ## 介紹

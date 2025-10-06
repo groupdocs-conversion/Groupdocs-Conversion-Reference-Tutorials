@@ -4,8 +4,8 @@
 "title": "Snadná konverze TIFF do JPG v .NET pomocí GroupDocs.Conversion"
 "url": "/cs/net/image-conversion/tiff-to-jpg-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Snadná konverze TIFF do JPG s GroupDocs.Conversion pro .NET
 
 ## Zavedení

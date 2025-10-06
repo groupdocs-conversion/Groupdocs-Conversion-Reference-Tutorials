@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 将 PDF 页面转换为 Word — 分步指南"
 "url": "/zh/net/word-processing-formats-features/groupdocs-conversion-net-pdf-to-word/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 将 PDF 页面转换为 Word：分步指南
 
 ## 介绍

@@ -4,8 +4,8 @@
 "title": "Efektivní převod PPTX se skrytými snímky do PDF v Javě pomocí GroupDocs.Conversion"
 "url": "/cs/java/presentation-formats/convert-pptx-hidden-slides-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Snadný převod PPTX se skrytými snímky do PDF v Javě pomocí GroupDocs.Conversion
 
 V digitálním věku je převod prezentačních dokumentů do univerzálně dostupných formátů, jako je PDF, běžným požadavkem vývojářů. Tento tutoriál vás provede efektivním řešením s využitím **GroupDocs.Conversion pro Javu** převést prezentace v PowerPointu, včetně skrytých snímků, do formátu PDF.

@@ -8,10 +8,8 @@ keywords:
 - convert DWFX to HTML
 - GroupDocs.Conversion for .NET
 - HTML conversion in .NET
-
+type: docs
 ---
-
-
 # How to Convert DWFX Files to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 VDX 轉換為 XLS 綜合指南"
 "url": "/zh-hant/net/spreadsheet-formats-features/convert-vdx-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 VDX 轉換為 XLS：綜合指南
 
 在快節奏的軟體開發領域，在不同格式之間轉換檔案是經常需要做的事情。無論您是分析資料還是確保跨平台相容性，高效的文件轉換都能節省時間和資源。本指南將引導您使用 GroupDocs.Conversion for .NET 將 Visio 繪圖 XML (VDX) 檔案轉換為 Excel 電子表格 (XLS) 格式。

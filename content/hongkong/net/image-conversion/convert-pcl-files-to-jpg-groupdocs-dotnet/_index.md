@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 PCL 轉換為 JPG — 逐步指南"
 "url": "/zh-hant/net/image-conversion/convert-pcl-files-to-jpg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 PCL 檔案轉換為 JPG
 
 ## 介紹

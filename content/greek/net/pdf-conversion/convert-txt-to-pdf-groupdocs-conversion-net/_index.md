@@ -4,8 +4,8 @@
 "title": "Εύκολη μετατροπή TXT σε PDF Master GroupDocs.Conversion για .NET σε λίγα λεπτά"
 "url": "/el/net/pdf-conversion/convert-txt-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Εύκολη μετατροπή TXT σε PDF: Master GroupDocs.Conversion για .NET σε λίγα λεπτά
 
 ## Εισαγωγή

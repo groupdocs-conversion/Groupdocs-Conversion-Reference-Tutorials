@@ -4,8 +4,8 @@
 "title": "Làm chủ việc chuyển đổi tin nhắn Apple Mail (.emlx) sang HTML bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/html-conversion/convert-emlx-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Làm chủ việc chuyển đổi tin nhắn Apple Mail (.emlx) sang HTML bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

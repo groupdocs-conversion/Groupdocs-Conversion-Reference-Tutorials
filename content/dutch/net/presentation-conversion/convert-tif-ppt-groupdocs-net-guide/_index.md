@@ -4,8 +4,8 @@
 "title": "TIFF naar PowerPoint converteren met GroupDocs.Conversion voor .NET - een stapsgewijze handleiding"
 "url": "/nl/net/presentation-conversion/convert-tif-ppt-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # TIFF naar PowerPoint converteren met GroupDocs.Conversion voor .NET: een uitgebreide handleiding
 
 ## Invoering

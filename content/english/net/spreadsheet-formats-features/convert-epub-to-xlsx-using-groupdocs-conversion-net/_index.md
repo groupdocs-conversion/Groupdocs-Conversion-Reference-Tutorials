@@ -8,10 +8,8 @@ keywords:
 - EPUB to XLSX conversion
 - GroupDocs.Conversion for .NET
 - data transformation in .NET
-
+type: docs
 ---
-
-
 # How to Implement EPUB to XLSX Conversion in .NET Using GroupDocs.Conversion
 
 ## Introduction

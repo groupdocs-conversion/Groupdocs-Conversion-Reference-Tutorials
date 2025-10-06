@@ -4,8 +4,8 @@
 "title": "MHT konvertálása PDF-be .NET-ben a GroupDocs.Conversion használatával"
 "url": "/hu/net/pdf-conversion/convert-mht-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # MHT fájlok PDF-be konvertálása .NET-ben a GroupDocs.Conversion használatával
 
 ## Bevezetés

@@ -8,10 +8,8 @@ keywords:
 - Convert TSV to DOC
 - GroupDocs.Conversion for .NET
 - TSV to Word Document Conversion
-
+type: docs
 ---
-
-
 # Convert TSV to DOC Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

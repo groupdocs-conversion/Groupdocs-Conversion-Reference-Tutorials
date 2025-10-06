@@ -4,8 +4,8 @@
 "title": "Como converter XLAM para XLSX usando o GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/spreadsheet-conversion/convert-xlam-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter XLAM para XLSX usando GroupDocs.Conversion para .NET
 
 ## Introdução

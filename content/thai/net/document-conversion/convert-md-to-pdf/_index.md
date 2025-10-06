@@ -5,8 +5,8 @@
 "title": "แปลง MD เป็น PDF"
 "url": "/th/net/document-conversion/convert-md-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # แปลง MD เป็น PDF
 
 ## การแนะนำ

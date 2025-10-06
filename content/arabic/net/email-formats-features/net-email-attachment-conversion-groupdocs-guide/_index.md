@@ -4,8 +4,8 @@
 "title": "إتقان تحويل مرفقات البريد الإلكتروني بتنسيق .NET باستخدام مكتبة GroupDocs.Conversion - دليل شامل"
 "url": "/ar/net/email-formats-features/net-email-attachment-conversion-groupdocs-guide/"
 "weight": 1
+type: docs
 ---
-
 # إتقان تحويل مرفقات البريد الإلكتروني .NET باستخدام مكتبة GroupDocs.Conversion
 
 ## مقدمة

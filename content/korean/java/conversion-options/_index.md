@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Java를 위한 문서 변환 옵션 튜토리얼"
 "url": "/ko/java/conversion-options/"
 "weight": 3
+type: docs
 ---
-
 # GroupDocs.Conversion Java를 위한 문서 변환 옵션 튜토리얼
 
 GroupDocs.Conversion의 상세한 Java 튜토리얼을 통해 문서 변환 설정을 완벽하게 숙지하세요. 이 단계별 가이드는 변환 매개변수 미세 조정, 페이지 범위 설정, 이미지 품질 구성, 글꼴 제어, 메타데이터 관리 및 기타 다양한 변환 기능을 프로그래밍 방식으로 사용자 지정하는 방법을 보여줍니다. 각 튜토리얼에는 완벽하게 사용자 정의된 출력 문서를 생성하는 애플리케이션을 구축하는 데 도움이 되는 Java 코드 예제, 구현 참고 사항, 그리고 모범 사례가 포함되어 있습니다.

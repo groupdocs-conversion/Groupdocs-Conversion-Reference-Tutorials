@@ -4,8 +4,8 @@
 "title": "Átfogó útmutató EPUB-ból PPT-vé konvertáláshoz a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/presentation-conversion/groupdocs-epub-to-ppt-conversion-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató: EPUB-ból PPT-vé konvertálás a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

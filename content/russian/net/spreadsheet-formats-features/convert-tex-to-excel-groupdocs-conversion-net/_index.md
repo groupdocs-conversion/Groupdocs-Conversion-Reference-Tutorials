@@ -4,8 +4,8 @@
 "title": "Конвертируйте файлы LaTeX (TEX) в электронные таблицы Excel с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/spreadsheet-formats-features/convert-tex-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте файлы LaTeX (TEX) в электронные таблицы Excel с помощью GroupDocs.Conversion для .NET
 
 ## Введение

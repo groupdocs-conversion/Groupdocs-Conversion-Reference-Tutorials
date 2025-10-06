@@ -8,10 +8,8 @@ keywords:
 - convert MSG to CSV
 - GroupDocs.Conversion for .NET
 - email data conversion
-
+type: docs
 ---
-
-
 # Convert MSG Files to CSV Using GroupDocs.Conversion for .NET: Step-by-Step Guide
 
 ## Introduction

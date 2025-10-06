@@ -5,8 +5,8 @@
 "title": "Chuyển đổi XLTM sang PDF"
 "url": "/vi/net/converting-file-types-to-pdf/convert-xltm-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # Chuyển đổi XLTM sang PDF
 
 ## Giới thiệu

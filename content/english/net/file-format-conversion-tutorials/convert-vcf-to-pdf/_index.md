@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Effortlessly convert VCF to PDF using GroupDocs.Conversion for .NET. Simplify your document management tasks with this intuitive solution.
 weight: 23
 url: /net/file-format-conversion-tutorials/convert-vcf-to-pdf/
+type: docs
 ---
-
 # Convert VCF to PDF
 
 ## Introduction

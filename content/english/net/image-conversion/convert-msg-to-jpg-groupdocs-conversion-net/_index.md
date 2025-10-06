@@ -8,10 +8,8 @@ keywords:
 - convert MSG to JPG
 - GroupDocs.Conversion for .NET
 - .NET image conversion
-
+type: docs
 ---
-
-
 # Convert MSG Files to JPG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

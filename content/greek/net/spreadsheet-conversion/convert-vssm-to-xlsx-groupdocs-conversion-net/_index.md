@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή VSSM σε XLSX χρησιμοποιώντας το GroupDocs.Conversion .NET για μετατροπή υπολογιστικών φύλλων"
 "url": "/el/net/spreadsheet-conversion/convert-vssm-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή VSSM σε XLSX με το GroupDocs.Conversion .NET
 
 ## Εισαγωγή

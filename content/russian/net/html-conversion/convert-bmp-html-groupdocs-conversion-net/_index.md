@@ -4,8 +4,8 @@
 "title": "Полное руководство&#58; конвертация BMP в HTML с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/html-conversion/convert-bmp-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Полное руководство: конвертация BMP в HTML с помощью GroupDocs.Conversion для .NET
 
 ## Введение

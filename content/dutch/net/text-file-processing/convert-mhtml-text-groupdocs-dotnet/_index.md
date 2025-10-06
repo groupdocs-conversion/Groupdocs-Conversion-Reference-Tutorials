@@ -4,8 +4,8 @@
 "title": "MHTML naar tekst converteren in C# met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/text-file-processing/convert-mhtml-text-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # MHTML naar tekst converteren in C# met GroupDocs.Conversion voor .NET
 
 ## Invoering

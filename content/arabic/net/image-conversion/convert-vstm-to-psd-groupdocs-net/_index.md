@@ -4,8 +4,8 @@
 "title": "تحويل قوالب Visio (.vstm) إلى Photoshop (.psd) باستخدام GroupDocs.Conversion لـ .NET - دليل خطوة بخطوة"
 "url": "/ar/net/image-conversion/convert-vstm-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل قوالب Visio (.vstm) إلى Photoshop (.psd) باستخدام GroupDocs.Conversion لـ .NET: دليل خطوة بخطوة
 ## مقدمة
 قد يكون تحويل قوالب الرسومات الممكّنة بوحدات الماكرو في Visio (VSTM) إلى تنسيق متعدد الاستخدامات مثل مستند Adobe Photoshop (PSD) أمرًا صعبًا. يُبسّط هذا الدليل هذه العملية باستخدام GroupDocs.Conversion لـ .NET، مما يتيح تحويلات ملفات سلسة وفعالة. باستخدام هذه الأداة الفعّالة، يصبح تحويل قوالب الرسومات الممكّنة بوحدات الماكرو في Visio إلى PSD أمرًا سهلاً، مما يُحسّن سير عمل مستنداتك.

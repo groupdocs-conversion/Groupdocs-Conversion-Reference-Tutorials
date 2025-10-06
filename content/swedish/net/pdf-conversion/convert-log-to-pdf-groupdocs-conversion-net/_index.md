@@ -4,8 +4,8 @@
 "title": "Konvertera LOG till PDF med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/pdf-conversion/convert-log-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera LOG till PDF med GroupDocs.Conversion för .NET: En steg-för-steg-guide
 
 ## Introduktion

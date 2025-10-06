@@ -5,8 +5,8 @@
 "title": "Chuyển đổi VSTM sang PDF"
 "url": "/vi/net/converting-file-types-to-pdf/convert-vstm-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # Chuyển đổi VSTM sang PDF
 
 ## Giới thiệu

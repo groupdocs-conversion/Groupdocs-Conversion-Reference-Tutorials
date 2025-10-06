@@ -8,10 +8,8 @@ keywords:
 - convert DNG to DOC
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Convert DNG to DOC Using GroupDocs.Conversion for .NET: Step-by-Step Guide
 
 ## Introduction

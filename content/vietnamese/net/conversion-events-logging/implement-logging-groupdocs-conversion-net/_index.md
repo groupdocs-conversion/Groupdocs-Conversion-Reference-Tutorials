@@ -4,8 +4,8 @@
 "title": "Triển khai ghi nhật ký trong GroupDocs.Conversion cho .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/conversion-events-logging/implement-logging-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách triển khai ghi nhật ký sự kiện GroupDocs.Conversion trong .NET: Hướng dẫn toàn diện
 
 ## Giới thiệu

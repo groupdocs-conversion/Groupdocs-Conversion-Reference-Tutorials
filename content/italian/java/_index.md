@@ -4,8 +4,8 @@
 "title": "Tutorial completi di GroupDocs.Conversion per Java"
 "url": "/it/java/"
 "weight": 10
+type: docs
 ---
-
 # Tutorial completi di GroupDocs.Conversion per Java
 
 ## Introduzione

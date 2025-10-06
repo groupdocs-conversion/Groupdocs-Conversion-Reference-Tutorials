@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs for .NET 將 XLTX 轉換為 DOCX —— 綜合指南"
 "url": "/zh-hant/net/word-processing-conversion/convert-xltx-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs for .NET 將 XLTX 轉換為 DOCX：綜合指南
 ## 介紹
 使用 GroupDocs.Conversion for .NET 程式庫可以無縫地將 Excel Open XML 範本 (XLTX) 檔案轉換為 Microsoft Word 文件 (DOCX)。這個強大的工具簡化了文件轉換流程，實現了不同格式之間的高效轉換。

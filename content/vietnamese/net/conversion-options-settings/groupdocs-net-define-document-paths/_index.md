@@ -4,8 +4,8 @@
 "title": "Quản lý đường dẫn tài liệu hiệu quả trong .NET với GroupDocs.Conversion&#58; Xác định hằng số để chuyển đổi liền mạch"
 "url": "/vi/net/conversion-options-settings/groupdocs-net-define-document-paths/"
 "weight": 1
+type: docs
 ---
-
 # Quản lý đường dẫn tài liệu hiệu quả trong .NET với GroupDocs.Conversion
 
 ## Giới thiệu

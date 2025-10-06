@@ -4,8 +4,8 @@
 "title": "Converteer PDF's efficiënt naar JPG met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/image-conversion/convert-pdfs-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer PDF's efficiënt naar JPG met GroupDocs.Conversion voor .NET
 
 ## Invoering

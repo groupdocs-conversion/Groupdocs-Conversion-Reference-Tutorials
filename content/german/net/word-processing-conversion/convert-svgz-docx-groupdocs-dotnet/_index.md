@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie SVGZ einfach in DOCX mit GroupDocs.Conversion für .NET"
 "url": "/de/net/word-processing-conversion/convert-svgz-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie SVGZ in DOCX mit GroupDocs.Conversion für .NET
 
 ## Einführung

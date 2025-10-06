@@ -4,8 +4,8 @@
 "title": "Chuyển đổi DOCM sang JPG&#58; Hướng dẫn cơ bản sử dụng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/image-conversion/convert-docm-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi DOCM sang JPG: Hướng dẫn cơ bản sử dụng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

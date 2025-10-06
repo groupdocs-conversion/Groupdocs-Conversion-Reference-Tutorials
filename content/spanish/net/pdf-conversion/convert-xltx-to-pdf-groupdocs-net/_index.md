@@ -4,8 +4,8 @@
 "title": "Convierta archivos de plantilla de Excel (XLTX) a PDF con GroupDocs.Conversion para .NET"
 "url": "/es/net/pdf-conversion/convert-xltx-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convierta archivos de plantilla de Excel (XLTX) a PDF con GroupDocs.Conversion para .NET
 
 ## Introducción

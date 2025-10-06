@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET ile PowerPoint'i Word'e Verimli Şekilde Dönüştürün"
 "url": "/tr/net/word-processing-conversion/convert-powerpoint-to-word-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET ile PowerPoint'i Word'e Verimli Şekilde Dönüştürün
 
 ## giriiş

@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert DWG to DOC in .NET with GroupDocs.Conversion
 
 ## Introduction

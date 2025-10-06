@@ -4,8 +4,8 @@
 "title": "Uitgebreide handleiding voor het converteren van EPUB naar PDF met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/pdf-conversion/convert-epub-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Uitgebreide handleiding voor het converteren van EPUB naar PDF met GroupDocs.Conversion voor .NET
 
 ## Invoering

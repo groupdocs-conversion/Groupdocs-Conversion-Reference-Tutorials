@@ -4,8 +4,8 @@
 "title": "JPG konvertálása TXT-vé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/text-markup-conversion/convert-jpg-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # JPG fájlok TXT fájlokká konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

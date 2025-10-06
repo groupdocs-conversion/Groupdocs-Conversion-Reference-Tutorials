@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中將 XML 轉換為 JPG — 逐步指南"
 "url": "/zh-hant/net/xml-json-processing/convert-xml-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 .NET 中將 XML 轉換為 JPG：逐步指南
 
 ## 介紹

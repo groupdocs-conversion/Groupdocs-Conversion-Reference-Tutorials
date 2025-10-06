@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用して .NET で DICOM を HTML に変換する包括的なガイド"
 "url": "/ja/net/web-markup-formats/convert-dicom-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion を使用して .NET で DICOM を HTML に変換する
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "Efektivní převod šablon PowerPointu na text pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/text-markup-conversion/convert-powerpoint-to-text-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést šablony PowerPointu na text pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

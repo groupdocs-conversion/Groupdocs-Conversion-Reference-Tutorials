@@ -4,8 +4,8 @@
 "title": "Converteer wachtwoordbeveiligde DOCX naar PPT met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/working-with-secure-documents/convert-docx-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer wachtwoordbeveiligde DOCX naar PPT met GroupDocs.Conversion voor .NET
 
 ## Invoering

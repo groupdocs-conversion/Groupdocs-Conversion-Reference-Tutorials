@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET を使用して PST を HTML に変換する手順"
 "url": "/ja/net/storage-files-pst-processing/convert-pst-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET を使用して PST ファイルを HTML に変換する方法: ステップバイステップガイド
 
 ## 導入

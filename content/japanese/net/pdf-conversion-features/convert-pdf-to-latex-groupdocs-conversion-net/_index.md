@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET で PDF を LaTeX に変換する手順ガイド"
 "url": "/ja/net/pdf-conversion-features/convert-pdf-to-latex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET で PDF を LaTeX に変換する
 
 ## 導入

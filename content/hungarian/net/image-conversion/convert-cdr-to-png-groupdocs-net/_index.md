@@ -4,8 +4,8 @@
 "title": "CDR PNG-vé konvertálása .NET-ben a GroupDocs.Conversion használatával"
 "url": "/hu/net/image-conversion/convert-cdr-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # CDR PNG-vé konvertálása .NET-ben a GroupDocs.Conversion használatával
 
 ## Bevezetés

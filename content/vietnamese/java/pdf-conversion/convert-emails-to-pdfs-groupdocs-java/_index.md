@@ -4,8 +4,8 @@
 "title": "Chuyển đổi Email sang PDF trong Java bằng GroupDocs.Conversion&#58; Hướng dẫn tùy chọn nâng cao"
 "url": "/vi/java/pdf-conversion/convert-emails-to-pdfs-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi Email sang PDF trong Java bằng GroupDocs.Conversion: Hướng dẫn về các tùy chọn nâng cao
 
 ## Giới thiệu

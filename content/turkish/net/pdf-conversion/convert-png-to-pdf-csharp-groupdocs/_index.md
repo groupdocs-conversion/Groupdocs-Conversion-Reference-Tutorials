@@ -4,8 +4,8 @@
 "title": "PNG'yi C#&#58;de PDF'ye Dönüştürme GroupDocs.Conversion for .NET Kullanarak Kapsamlı Bir Kılavuz"
 "url": "/tr/net/pdf-conversion/convert-png-to-pdf-csharp-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # PNG'yi C# ile PDF'ye Dönüştürme: .NET için GroupDocs.Conversion ile Tam Kılavuz
 
 ## giriiş

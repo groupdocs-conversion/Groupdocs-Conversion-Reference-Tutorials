@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Java 的電子郵件格式轉換教學"
 "url": "/zh-hant/java/email-formats/"
 "weight": 8
+type: docs
 ---
-
 # GroupDocs.Conversion Java 的電子郵件格式轉換教學
 
 透過我們為 Java 開發者提供的詳細 GroupDocs.Conversion 教學課程，掌握電子郵件檔案轉換技巧。這些逐步指南示範如何將電子郵件訊息轉換為文件格式、提取電子郵件附件、保留電子郵件元資料、處理電子郵件標題和正文，以及實現大量電子郵件轉換作業。每個教學課程都提供了用於處理電子郵件存檔和郵件的實用 Java 程式碼範例，可協助您建立能夠有效處理電子郵件通訊並將其轉換為各種文件格式的應用程式。

@@ -5,8 +5,8 @@
 "title": "Konwertuj szablony DOTX Word do PDF"
 "url": "/pl/net/file-conversion-to-pdf/convert-dotx-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # Konwertuj szablony DOTX Word do PDF
 
 ## Wstęp

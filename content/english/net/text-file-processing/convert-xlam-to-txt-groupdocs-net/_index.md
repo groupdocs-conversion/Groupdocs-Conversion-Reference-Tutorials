@@ -8,10 +8,8 @@ keywords:
 - convert XLAM to TXT
 - GroupDocs.Conversion for .NET
 - Excel Macro-Enabled Add-In conversion
-
+type: docs
 ---
-
-
 # Convert XLAM Files to TXT Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "掌握 GroupDocs.Conversion for .NET&#58; 使用 C# 將 CSV 轉換為 PowerPoint"
 "url": "/zh-hant/net/presentation-formats-features/convert-csv-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 掌握 GroupDocs.Conversion for .NET：使用 C# 將 CSV 轉換為 PowerPoint
 
 ## 介紹

@@ -4,8 +4,8 @@
 "title": "Efektivní převod VSSM do PPT pomocí GroupDocs.Conversion .NET – Komplexní průvodce"
 "url": "/cs/net/presentation-formats-features/convert-vssm-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory VSSM do prezentací PowerPointu pomocí GroupDocs.Conversion .NET
 ## Zavedení
 V dnešním rychle se měnícím digitálním světě je efektivní převod souborů mezi různými formáty nezbytný. Máte potíže s převodem souborů Microsoft Visio s podporou maker (.vssm) do prezentací PowerPointu (.ppt)? Tento tutoriál vás provede efektivním řešením s využitím knihovny GroupDocs.Conversion .NET.

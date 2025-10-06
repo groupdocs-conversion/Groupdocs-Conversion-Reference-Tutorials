@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion के साथ .NET में कुशल EPS से TXT रूपांतरण"
 "url": "/hi/net/text-markup-conversion/master-eps-txt-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion के साथ .NET में कुशल EPS से TXT रूपांतरण
 
 ## परिचय

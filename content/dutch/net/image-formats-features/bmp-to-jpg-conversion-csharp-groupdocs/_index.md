@@ -4,8 +4,8 @@
 "title": "Converteer BMP naar JPG in C# met GroupDocs.Conversion voor .NET&#58; een complete handleiding"
 "url": "/nl/net/image-formats-features/bmp-to-jpg-conversion-csharp-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Converteer BMP naar JPG in C# met GroupDocs.Conversion voor .NET: een complete handleiding
 
 ## Invoering

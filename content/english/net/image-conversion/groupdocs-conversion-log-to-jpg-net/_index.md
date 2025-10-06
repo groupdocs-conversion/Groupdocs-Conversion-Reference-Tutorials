@@ -8,10 +8,8 @@ keywords:
 - convert LOG to JPG .NET
 - GroupDocs.Conversion for .NET setup
 - LOG file conversion to image
-
+type: docs
 ---
-
-
 # How to Convert LOG Files to JPG in .NET Using GroupDocs.Conversion
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - convert VCF to Word
 - GroupDocs.Conversion .NET
 - contact management workflow
-
+type: docs
 ---
-
-
 # Efficient Conversion of VCF Files to Word Documents Using GroupDocs.Conversion in .NET
 
 ## Introduction

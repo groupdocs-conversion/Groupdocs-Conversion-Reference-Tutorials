@@ -4,8 +4,8 @@
 "title": "Menguasai Manajemen Konstanta di GroupDocs.Conversion Java untuk Proyek Konversi File"
 "url": "/id/java/conversion-options/mastering-constants-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Menguasai Manajemen Konstanta dengan GroupDocs.Conversion Java
 
 ## Perkenalan

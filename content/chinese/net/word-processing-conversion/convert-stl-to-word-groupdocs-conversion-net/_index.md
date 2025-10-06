@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将 STL 转换为 Word — 分步指南"
 "url": "/zh/net/word-processing-conversion/convert-stl-to-word-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将 STL 转换为 Word：分步指南
 ## 介绍
 在 3D 建模领域，立体光刻 (STL) 文件至关重要。然而，有时您可能需要将这些文件转换为更通用的格式，例如 Microsoft Word (DOC)。这种转换对于报告目的或简化协作尤为有用。GroupDocs.Conversion for .NET 提供轻松高效的无缝转换。

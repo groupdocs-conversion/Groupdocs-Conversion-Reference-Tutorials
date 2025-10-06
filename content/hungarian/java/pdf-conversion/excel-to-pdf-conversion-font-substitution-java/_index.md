@@ -4,8 +4,8 @@
 "title": "Excel konvertálása PDF-be Java-ban betűtípus-helyettesítéssel a GroupDocs.Conversion használatával"
 "url": "/hu/java/pdf-conversion/excel-to-pdf-conversion-font-substitution-java/"
 "weight": 1
+type: docs
 ---
-
 # Excel konvertálása PDF-be Java-ban betűtípus-helyettesítéssel a GroupDocs.Conversion használatával
 
 ## Bevezetés

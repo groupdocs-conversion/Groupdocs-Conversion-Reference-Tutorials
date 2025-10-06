@@ -3,8 +3,8 @@
 "title": "Trabajar con documentos seguros&#58; tutoriales para GroupDocs.Conversion .NET"
 "url": "/es/net/working-with-secure-documents/"
 "weight": 5
+type: docs
 ---
-
 # Trabajar con documentos seguros: tutoriales para GroupDocs.Conversion .NET
 
 Descubra cómo gestionar documentos seguros con nuestros tutoriales de GroupDocs.Conversion para desarrolladores .NET. Estas guías paso a paso le enseñan a cargar archivos protegidos con contraseña mediante API estándar y fluidas, administrar claves de cifrado, especificar opciones de seguridad específicas para cada documento, gestionar errores de autenticación con precisión y preservar la configuración de seguridad durante la conversión cuando corresponda. Cada tutorial proporciona ejemplos prácticos de código C# para trabajar con documentos protegidos, lo que le ayuda a crear aplicaciones que puedan procesar contenido seguro respetando la confidencialidad y los controles de acceso.

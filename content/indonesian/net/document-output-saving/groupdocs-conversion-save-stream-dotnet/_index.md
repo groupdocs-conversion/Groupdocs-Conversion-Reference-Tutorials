@@ -4,8 +4,8 @@
 "title": "Cara Menyimpan File ke Streaming Menggunakan GroupDocs.Conversion di .NET | Panduan Langkah demi Langkah"
 "url": "/id/net/document-output-saving/groupdocs-conversion-save-stream-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cara Menerapkan GroupDocs.Conversion .NET: Menyimpan File yang Dikonversi ke Aliran
 
 ## Perkenalan

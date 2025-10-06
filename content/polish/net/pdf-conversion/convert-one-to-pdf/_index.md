@@ -5,8 +5,8 @@
 "title": "Konwertuj ONE do PDF"
 "url": "/pl/net/pdf-conversion/convert-one-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Konwertuj ONE do PDF
 
 ## Wstęp

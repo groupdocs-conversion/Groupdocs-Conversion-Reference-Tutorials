@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi tệp Visio sang Photoshop bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/image-conversion/convert-visio-to-photoshop-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp Visio sang Photoshop bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

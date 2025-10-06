@@ -5,8 +5,8 @@
 "title": "Конвертировать сжатые изображения J2C JPEG-LS в PDF"
 "url": "/ru/net/convert-files-to-pdf/convert-j2c-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # Конвертировать сжатые изображения J2C JPEG-LS в PDF
 
 ## Введение

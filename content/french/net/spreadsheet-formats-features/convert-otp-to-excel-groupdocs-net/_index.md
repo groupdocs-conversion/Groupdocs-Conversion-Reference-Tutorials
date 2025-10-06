@@ -4,8 +4,8 @@
 "title": "Convertir un graphique d'origine OTP en Excel à l'aide de GroupDocs.Conversion pour .NET"
 "url": "/fr/net/spreadsheet-formats-features/convert-otp-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir un graphique d'origine OTP en Excel avec GroupDocs.Conversion pour .NET
 
 ## Introduction

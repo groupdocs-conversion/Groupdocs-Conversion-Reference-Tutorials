@@ -8,10 +8,8 @@ keywords:
 - convert JP2 to SVG
 - GroupDocs.Conversion for .NET
 - JPEG 2000 conversion
-
+type: docs
 ---
-
-
 # Convert JP2 to SVG Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

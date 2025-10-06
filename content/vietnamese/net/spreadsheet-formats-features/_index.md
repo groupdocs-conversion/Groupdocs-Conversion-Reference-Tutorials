@@ -3,8 +3,8 @@
 "title": "Hướng dẫn về Định dạng và Tính năng Bảng tính cho GroupDocs.Conversion .NET"
 "url": "/vi/net/spreadsheet-formats-features/"
 "weight": 11
+type: docs
 ---
-
 # Hướng dẫn về Định dạng và Tính năng Bảng tính cho GroupDocs.Conversion .NET
 
 Tìm hiểu cách xử lý tài liệu bảng tính với hướng dẫn GroupDocs.Conversion .NET của chúng tôi. Những hướng dẫn chi tiết này trình bày cách chuyển đổi giữa các định dạng Excel, CSV và các loại bảng tính khác, hiển thị hoặc ẩn các đường lưới và chú thích, bỏ qua các hàng và cột trống, chỉ định phạm vi và chỉ mục trang tính để chuyển đổi, quản lý các trang tính ẩn, giữ nguyên công thức và hàm, duy trì định dạng ô và kiểm soát chuỗi tính toán trong quá trình chuyển đổi. Mỗi hướng dẫn bao gồm các ví dụ mã C# đang hoạt động cho thấy cách triển khai chuyển đổi bảng tính chính xác trong khi vẫn giữ nguyên các phép tính phức tạp và các thành phần trực quan.

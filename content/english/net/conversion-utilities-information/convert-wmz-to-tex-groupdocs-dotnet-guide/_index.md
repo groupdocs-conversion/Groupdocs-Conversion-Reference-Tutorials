@@ -8,10 +8,8 @@ keywords:
 - Convert WMZ to TEX
 - GroupDocs.Conversion for .NET
 - file conversion in .NET
-
+type: docs
 ---
-
-
 # Convert WMZ to TEX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

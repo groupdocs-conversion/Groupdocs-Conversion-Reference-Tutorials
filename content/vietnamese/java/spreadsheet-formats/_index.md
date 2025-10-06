@@ -3,8 +3,8 @@
 "title": "Hướng dẫn chuyển đổi định dạng bảng tính cho GroupDocs.Conversion Java"
 "url": "/vi/java/spreadsheet-formats/"
 "weight": 6
+type: docs
 ---
-
 # Hướng dẫn chuyển đổi định dạng bảng tính cho GroupDocs.Conversion Java
 
 Tìm hiểu cách xử lý chuyển đổi bảng tính với hướng dẫn Java GroupDocs.Conversion của chúng tôi. Các hướng dẫn chi tiết này trình bày cách chuyển đổi giữa các định dạng Excel, CSV và các loại bảng tính khác, bảo toàn công thức và hàm, duy trì định dạng ô, xử lý sổ làm việc nhiều trang tính và đảm bảo tính toàn vẹn của dữ liệu trong quá trình chuyển đổi. Mỗi hướng dẫn bao gồm các ví dụ mã Java hoạt động cho thấy cách triển khai chuyển đổi bảng tính chính xác trong khi vẫn bảo toàn các phép tính phức tạp và các thành phần trực quan.

@@ -4,8 +4,8 @@
 "title": "Jak převést PDF do PNG pomocí GroupDocs.Conversion v Javě – Komplexní průvodce"
 "url": "/cs/java/document-operations/convert-pdf-to-png-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést PDF do PNG pomocí GroupDocs.Conversion v Javě: Komplexní průvodce
 
 ## Zavedení

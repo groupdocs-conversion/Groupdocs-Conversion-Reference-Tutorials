@@ -4,8 +4,8 @@
 "title": "WEBP konvertálása XLSX-re a GroupDocs.Conversion .NET használatával táblázatkezelő konverzióhoz"
 "url": "/hu/net/spreadsheet-conversion/convert-webp-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # WEBP konvertálása XLSX-re a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Java 中的字型替換&#58;掌握 GroupDocs.Conversion 以實現一致的 PDF 輸出"
 "url": "/zh-hant/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for Java 掌握字型替換
 
 ## 介紹

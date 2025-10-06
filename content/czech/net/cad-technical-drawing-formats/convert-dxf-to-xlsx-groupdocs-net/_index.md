@@ -4,8 +4,8 @@
 "title": "Efektivní převod DXF do XLSX pomocí GroupDocs.Conversion pro .NET - CAD a technické výkresové formáty"
 "url": "/cs/net/cad-technical-drawing-formats/convert-dxf-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod DXF do XLSX pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "Markdown konvertálása PDF-be a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/pdf-conversion/markdown-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Markdown konvertálása PDF-be a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

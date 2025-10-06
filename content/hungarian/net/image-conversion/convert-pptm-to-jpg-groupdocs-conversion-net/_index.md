@@ -4,8 +4,8 @@
 "title": "PPTM konvertálása JPG-vé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-pptm-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PPTM konvertálása JPG-vé a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

@@ -5,8 +5,8 @@
 "title": "XLTM'yi PDF'ye dönüştür"
 "url": "/tr/net/converting-file-types-to-pdf/convert-xltm-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # XLTM'yi PDF'ye dönüştür
 
 ## giriiş

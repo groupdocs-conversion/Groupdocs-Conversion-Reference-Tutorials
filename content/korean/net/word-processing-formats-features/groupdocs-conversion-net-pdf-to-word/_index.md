@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET을 사용하여 PDF 페이지를 Word로 변환하는 단계별 가이드"
 "url": "/ko/net/word-processing-formats-features/groupdocs-conversion-net-pdf-to-word/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET을 사용하여 PDF 페이지를 Word로 변환: 단계별 가이드
 
 ## 소개

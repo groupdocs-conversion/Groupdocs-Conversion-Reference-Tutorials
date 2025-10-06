@@ -8,10 +8,8 @@ keywords:
 - convert TSV to CSV
 - GroupDocs.Conversion .NET
 - data conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert TSV to CSV with GroupDocs.Conversion for .NET
 
 ## Introduction

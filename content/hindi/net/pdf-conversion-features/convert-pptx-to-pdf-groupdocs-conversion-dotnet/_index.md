@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके PDF से PPTX रूपांतरण मास्टर करें एक डेवलपर की मार्गदर्शिका"
 "url": "/hi/net/pdf-conversion-features/convert-pptx-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके PDF से PPTX रूपांतरण मास्टर करें: एक डेवलपर की मार्गदर्शिका
 
 ## परिचय

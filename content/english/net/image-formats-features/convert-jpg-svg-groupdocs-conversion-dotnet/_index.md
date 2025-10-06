@@ -8,10 +8,8 @@ keywords:
 - JPG to SVG conversion
 - GroupDocs.Conversion for .NET
 - image format conversion
-
+type: docs
 ---
-
-
 # How to Convert JPG to SVG Using GroupDocs.Conversion .NET: A Comprehensive Step-by-Step Guide
 
 ## Introduction

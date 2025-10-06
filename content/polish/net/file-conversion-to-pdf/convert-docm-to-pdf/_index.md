@@ -5,8 +5,8 @@
 "title": "Konwertuj dokumenty DOCM Word (makra) do PDF"
 "url": "/pl/net/file-conversion-to-pdf/convert-docm-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Konwertuj dokumenty DOCM Word (makra) do PDF
 
 ## Wstęp

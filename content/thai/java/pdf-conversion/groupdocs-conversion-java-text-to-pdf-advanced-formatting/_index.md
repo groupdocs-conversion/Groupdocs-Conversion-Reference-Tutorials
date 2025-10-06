@@ -4,8 +4,8 @@
 "title": "การแปลงข้อความเป็น PDF ขั้นสูงด้วย GroupDocs.Conversion Java&#58; Preserve Formatting"
 "url": "/th/java/pdf-conversion/groupdocs-conversion-java-text-to-pdf-advanced-formatting/"
 "weight": 1
+type: docs
 ---
-
 # การแปลงข้อความเป็น PDF ขั้นสูงด้วย GroupDocs.Conversion Java: รักษาการจัดรูปแบบ
 
 ## การแนะนำ

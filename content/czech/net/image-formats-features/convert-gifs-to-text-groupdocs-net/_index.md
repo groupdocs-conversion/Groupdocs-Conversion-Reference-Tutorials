@@ -4,8 +4,8 @@
 "title": "Převod GIFů do textových souborů pomocí GroupDocs pro .NET – Komplexní průvodce"
 "url": "/cs/net/image-formats-features/convert-gifs-to-text-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod GIFů do textových souborů pomocí GroupDocs pro .NET: Komplexní průvodce
 
 ## Zavedení

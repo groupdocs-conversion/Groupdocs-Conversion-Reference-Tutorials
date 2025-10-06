@@ -3,8 +3,8 @@
 "title": "Handledningar för presentationsformat och funktioner för GroupDocs.Conversion .NET"
 "url": "/sv/net/presentation-formats-features/"
 "weight": 12
+type: docs
 ---
-
 # Handledningar för presentationsformat och funktioner för GroupDocs.Conversion .NET
 
 Våra presentationsfokuserade handledningar visar hur du arbetar med bildbaserade dokument med GroupDocs.Conversion i .NET. Dessa praktiska guider går igenom konvertering mellan PowerPoint-format, döljer kommentarer under konvertering, inkluderar eller exkluderar dolda bilder, anger alternativ för teckensnittsersättning, bevarar animationer och övergångar, underhåller talaranteckningar, hanterar inbäddade medier och säkerställer layoutkonsekvens i olika presentationsformat. Varje handledning innehåller detaljerade C#-kodexempel för presentationskonverteringsscenarier, vilket hjälper dig att bygga applikationer som producerar högkvalitativa konverteringar med bevarade visuella element och interaktiva funktioner.

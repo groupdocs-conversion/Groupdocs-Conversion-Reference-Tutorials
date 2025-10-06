@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Aan de slag en licentiehandleidingen voor .NET-ontwikkelaars"
 "url": "/nl/net/getting-started-licensing/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Aan de slag en licentiehandleidingen voor .NET-ontwikkelaars
 
 Begin uw reis met deze essentiële GroupDocs.Conversion-tutorials die u begeleiden bij de installatie, licentieconfiguratie en het uitvoeren van uw eerste documentconversies in .NET. Onze beginnersvriendelijke handleidingen laten zien hoe u uw ontwikkelomgeving instelt, de GroupDocs.Conversion-bibliotheek initialiseert, licenties configureert vanuit een bestand of stream, gedoseerde licenties instelt en basisconversiebewerkingen implementeert met zowel standaard- als vloeiende API's. Volg deze tutorials om snel de basis onder de knie te krijgen en u voor te bereiden op geavanceerdere documentconversietaken in uw .NET-applicaties.

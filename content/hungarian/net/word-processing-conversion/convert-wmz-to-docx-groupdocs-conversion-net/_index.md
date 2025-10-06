@@ -4,8 +4,8 @@
 "title": "WMZ konvertálása DOCX-be a GroupDocs.Conversion for .NET segítségével - Zökkenőmentes fájlkonvertálási útmutató"
 "url": "/hu/net/word-processing-conversion/convert-wmz-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # WMZ konvertálása DOCX-be a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

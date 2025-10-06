@@ -5,8 +5,8 @@
 "title": "VSSXをPDFに変換する"
 "url": "/ja/net/converting-file-types-to-pdf/convert-vssx-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # VSSXをPDFに変換する
 
 ## 導入

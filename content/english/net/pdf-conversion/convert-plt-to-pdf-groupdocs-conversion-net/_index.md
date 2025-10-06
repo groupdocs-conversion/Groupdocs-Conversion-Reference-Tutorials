@@ -8,10 +8,8 @@ keywords:
 - convert PLT to PDF
 - GroupDocs.Conversion for .NET
 - file conversion with GroupDocs
-
+type: docs
 ---
-
-
 # How to Convert PLT Files to PDF Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

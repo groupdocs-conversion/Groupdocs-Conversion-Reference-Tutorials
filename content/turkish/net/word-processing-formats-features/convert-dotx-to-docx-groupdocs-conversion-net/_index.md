@@ -4,8 +4,8 @@
 "title": "DOTX'i GroupDocs.Conversion for .NET Kullanarak DOCX'e Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/word-processing-formats-features/convert-dotx-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanarak DOTX'i DOCX'e Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

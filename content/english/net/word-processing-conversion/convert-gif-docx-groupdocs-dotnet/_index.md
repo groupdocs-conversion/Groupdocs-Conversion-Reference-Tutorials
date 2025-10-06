@@ -8,10 +8,8 @@ keywords:
 - convert GIF to DOCX
 - GroupDocs.Conversion for .NET
 - file conversion using GroupDocs
-
+type: docs
 ---
-
-
 # Convert GIF to DOCX with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 ## Introduction
 Need to convert a colorful, animated GIF into a static document like DOCX? Whether you're preparing presentation materials or archiving digital content, seamless file conversion is crucial. This guide explores using **GroupDocs.Conversion for .NET** to convert GIF files to DOCX format efficiently.

@@ -4,8 +4,8 @@
 "title": "Zvládnutí konverze dokumentů v .NET&#58; Převod SXC do DOCX pomocí GroupDocs.Conversion"
 "url": "/cs/net/word-processing-conversion/convert-sxc-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Zvládnutí konverze dokumentů v .NET: Převod SXC do DOCX pomocí GroupDocs.Conversion
 
 ## Zavedení

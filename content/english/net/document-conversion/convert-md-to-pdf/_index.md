@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Effortlessly convert Markdown files to PDF using GroupDocs.Conversion for .NET. Streamline your document workflow.
 weight: 19
 url: /net/document-conversion/convert-md-to-pdf/
+type: docs
 ---
-
 # Convert MD to PDF
 
 ## Introduction

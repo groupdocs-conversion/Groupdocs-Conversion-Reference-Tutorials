@@ -4,8 +4,8 @@
 "title": "CDR fájlok DOC formátumba konvertálása GroupDocs használatával .NET-ben – Egyszerűsítse munkafolyamatait"
 "url": "/hu/net/word-processing-conversion/convert-cdr-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # CDR fájlok konvertálása DOC formátumba a .NET GroupDocs segítségével
 
 ## Bevezetés

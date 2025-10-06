@@ -4,8 +4,8 @@
 "title": "Эффективное преобразование EMZ в XLSX с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/spreadsheet-conversion/convert-emz-to-xlsx-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Эффективное преобразование EMZ в XLSX с помощью GroupDocs.Conversion для .NET
 
 ## Введение

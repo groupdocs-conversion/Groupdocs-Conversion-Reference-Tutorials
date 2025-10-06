@@ -4,8 +4,8 @@
 "title": "Converti facilmente DIB in XLSX con GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/spreadsheet-conversion/convert-dib-to-xlsx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converti i file DIB in XLSX con GroupDocs.Conversion per .NET
 
 ### Introduzione

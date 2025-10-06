@@ -4,8 +4,8 @@
 "title": "Μετατροπή WEBP σε PSD χρησιμοποιώντας το GroupDocs.Conversion για .NET™ Ένας πλήρης οδηγός"
 "url": "/el/net/image-conversion/convert-webp-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή WEBP σε PSD με το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

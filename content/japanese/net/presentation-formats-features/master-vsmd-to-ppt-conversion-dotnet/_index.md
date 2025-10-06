@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion で .NET での VSDM から PPT への変換をマスターする"
 "url": "/ja/net/presentation-formats-features/master-vsmd-to-ppt-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion を使用して .NET で VSDM から PPT への変換をマスターする
 
 今日のデジタル環境において、シームレスなファイル変換は企業にとっても開発者にとっても不可欠です。Visioマクロ有効図（VSDM）をPowerPointプレゼンテーションに変換することで、ワークフローを大幅に効率化し、コラボレーションを強化できます。このチュートリアルでは、GroupDocs.Conversion for .NETを使用してこのタスクを習得する方法を説明します。

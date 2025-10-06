@@ -5,8 +5,8 @@
 "title": "แปลง VSDM เป็น PDF"
 "url": "/th/net/file-format-conversion-tutorials/convert-vsdm-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # แปลง VSDM เป็น PDF
 
 ## การแนะนำ

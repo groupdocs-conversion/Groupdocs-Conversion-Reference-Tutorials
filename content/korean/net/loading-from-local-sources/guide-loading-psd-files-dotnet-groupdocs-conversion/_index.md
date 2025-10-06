@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion을 사용하여 .NET에서 PSD 파일을 로드하는 방법에 대한 완벽한 가이드"
 "url": "/ko/net/loading-from-local-sources/guide-loading-psd-files-dotnet-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용하여 .NET에서 PSD 파일을 로드하는 방법에 대한 완벽한 가이드
 
 ## 소개

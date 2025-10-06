@@ -8,10 +8,8 @@ keywords:
 - convert EML to HTML .NET
 - GroupDocs.Conversion setup
 - EML file conversion
-
+type: docs
 ---
-
-
 # How to Convert EML Files to HTML Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

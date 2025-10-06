@@ -4,8 +4,8 @@
 "title": "OTS konvertálása XLSX-re a GroupDocs.Conversion for .NET használatával | Átfogó útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-ots-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OTS fájlok XLSX formátumra konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

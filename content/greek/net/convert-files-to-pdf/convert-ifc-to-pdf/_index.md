@@ -5,8 +5,8 @@
 "title": "Μετατροπή αρχείων μοντελοποίησης πληροφοριών κτιρίου IFC σε PDF"
 "url": "/el/net/convert-files-to-pdf/convert-ifc-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Μετατροπή αρχείων μοντελοποίησης πληροφοριών κτιρίου IFC σε PDF
 
 ## Εισαγωγή

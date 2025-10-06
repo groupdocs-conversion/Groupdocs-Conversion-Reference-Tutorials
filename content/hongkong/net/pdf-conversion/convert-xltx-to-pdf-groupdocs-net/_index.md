@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 Excel 範本檔案 (XLTX) 轉換為 PDF"
 "url": "/zh-hant/net/pdf-conversion/convert-xltx-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 Excel 範本檔案 (XLTX) 轉換為 PDF
 
 ## 介紹

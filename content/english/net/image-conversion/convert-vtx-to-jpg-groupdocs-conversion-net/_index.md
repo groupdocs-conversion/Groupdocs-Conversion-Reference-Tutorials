@@ -8,10 +8,8 @@ keywords:
 - convert VTX to JPG
 - GroupDocs.Conversion for .NET
 - document conversion using .NET
-
+type: docs
 ---
-
-
 # Convert VTX Files to JPG with GroupDocs.Conversion for .NET
 
 ## Introduction

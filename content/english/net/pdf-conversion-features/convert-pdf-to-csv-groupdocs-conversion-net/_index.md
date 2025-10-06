@@ -8,10 +8,8 @@ keywords:
 - Convert PDF to CSV .NET
 - GroupDocs.Conversion for .NET
 - PDF to CSV using C#
-
+type: docs
 ---
-
-
 # Convert PDF to CSV Using GroupDocs.Conversion for .NET: A Developer's Guide
 
 ## Introduction

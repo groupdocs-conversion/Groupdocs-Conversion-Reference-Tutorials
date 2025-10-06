@@ -4,8 +4,8 @@
 "title": "Converta planilhas em PDFs com GroupDocs.Conversion para Java - Um guia completo"
 "url": "/pt/java/spreadsheet-formats/convert-spreadsheets-to-pdfs-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Converta planilhas em PDFs com GroupDocs.Conversion para Java: um guia completo
 
 ## Introdução

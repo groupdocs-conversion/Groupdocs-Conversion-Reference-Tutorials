@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Java를 사용하여 사용자 정의 치수를 사용하여 CAD를 TIFF로 변환하는 포괄적인 가이드"
 "url": "/ko/java/cad-formats/cad-conversion-tiff-custom-dimensions-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Java를 사용하여 사용자 정의 치수를 사용하여 CAD를 TIFF로 변환: 포괄적인 가이드
 
 ## 소개

@@ -4,8 +4,8 @@
 "title": "OXPS konvertálása PSD-vé a GroupDocs.Conversion .NET használatával – Átfogó útmutató a képkonverzióhoz"
 "url": "/hu/net/image-conversion/oxps-to-psd-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # OXPS konvertálása PSD-vé a GroupDocs.Conversion .NET használatával: Átfogó útmutató a képkonverzióhoz
 
 ## Bevezetés

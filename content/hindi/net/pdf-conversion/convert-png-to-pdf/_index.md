@@ -5,8 +5,8 @@
 "title": "PNG को PDF में बदलें"
 "url": "/hi/net/pdf-conversion/convert-png-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # PNG को PDF में बदलें
 
 ## परिचय

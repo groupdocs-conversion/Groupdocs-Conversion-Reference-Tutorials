@@ -4,8 +4,8 @@
 "title": ".NET DWG PDF-be konvertálás mesteri elsajátítása a GroupDocs.Conversion segítségével – Átfogó útmutató"
 "url": "/hu/net/pdf-conversion/convert-dwg-to-pdf-net-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # .NET DWG PDF-be konvertálás mesterfokon a GroupDocs.Conversion segítségével
 
 ## Bevezetés

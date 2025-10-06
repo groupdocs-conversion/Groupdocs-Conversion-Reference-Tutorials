@@ -4,8 +4,8 @@
 "title": "Cómo convertir archivos JPC a PNG con GroupDocs.Conversion para .NET&#58; guía paso a paso"
 "url": "/es/net/image-formats-features/convert-jpc-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir archivos JPC a PNG con GroupDocs.Conversion para .NET: guía paso a paso
 
 ## Introducción

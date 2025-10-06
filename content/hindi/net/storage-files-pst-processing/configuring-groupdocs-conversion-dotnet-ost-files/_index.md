@@ -4,8 +4,8 @@
 "title": "OST फ़ाइलों के लिए GroupDocs.Conversion .NET को कैसे कॉन्फ़िगर करें - एक संपूर्ण गाइड"
 "url": "/hi/net/storage-files-pst-processing/configuring-groupdocs-conversion-dotnet-ost-files/"
 "weight": 1
+type: docs
 ---
-
 # व्यापक ट्यूटोरियल: OST फ़ाइल हैंडलिंग के लिए GroupDocs.Conversion .NET कॉन्फ़िगर करना
 
 ## परिचय

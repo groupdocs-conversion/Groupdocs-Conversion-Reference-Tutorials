@@ -4,8 +4,8 @@
 "title": "Преобразование JLS в TeX с помощью GroupDocs.Conversion для .NET&#58; Подробное руководство"
 "url": "/ru/net/text-markup-conversion/jls-to-tex-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Преобразование файлов JLS в формат TEX с помощью GroupDocs.Conversion для .NET
 
 ## Введение

@@ -4,8 +4,8 @@
 "title": "VSSX naar DOC converteren met GroupDocs.Conversion voor .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/word-processing-conversion/convert-vssx-doc-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # VSSX-bestanden naar DOC converteren met GroupDocs.Conversion voor .NET: een uitgebreide handleiding
 
 ## Invoering

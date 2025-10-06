@@ -5,8 +5,8 @@
 "title": "Konvertera BMP-bilder till PDF"
 "url": "/sv/net/file-conversion-to-pdf/convert-bmp-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Konvertera BMP-bilder till PDF
 
 ## Introduktion

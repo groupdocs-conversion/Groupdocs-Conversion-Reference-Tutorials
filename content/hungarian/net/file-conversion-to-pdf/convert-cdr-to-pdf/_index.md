@@ -5,8 +5,8 @@
 "title": "CDR vektorgrafikák konvertálása PDF-be"
 "url": "/hu/net/file-conversion-to-pdf/convert-cdr-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # CDR vektorgrafikák konvertálása PDF-be
 
 ## Bevezetés

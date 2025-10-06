@@ -8,10 +8,8 @@ keywords:
 - convert EMLX to PowerPoint
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # How to Convert EMLX Files to PowerPoint Presentations Using GroupDocs.Conversion for .NET
 
 ## Introduction

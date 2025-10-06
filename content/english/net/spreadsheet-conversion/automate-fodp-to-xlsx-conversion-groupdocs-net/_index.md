@@ -8,10 +8,8 @@ keywords:
 - FODP to XLSX conversion
 - automate document conversion
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # Automate FODP to XLSX Conversion with GroupDocs for .NET: A Complete Guide
 
 ## Introduction

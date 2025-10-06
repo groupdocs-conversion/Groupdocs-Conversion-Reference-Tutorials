@@ -4,8 +4,8 @@
 "title": "SVGZ konvertálása XLS-be a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-svgz-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # SVGZ fájlok konvertálása XLS fájlokká a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

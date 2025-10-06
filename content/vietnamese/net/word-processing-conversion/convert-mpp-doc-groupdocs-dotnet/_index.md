@@ -4,8 +4,8 @@
 "title": "Chuyển đổi MPP sang DOC dễ dàng&#58; GroupDocs.Conversion cho Hướng dẫn .NET"
 "url": "/vi/net/word-processing-conversion/convert-mpp-doc-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi MPP sang DOC Sử dụng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

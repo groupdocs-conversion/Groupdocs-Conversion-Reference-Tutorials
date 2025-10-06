@@ -4,8 +4,8 @@
 "title": "تحويل MPX إلى SVG باستخدام GroupDocs.Conversion في .NET - دليل شامل"
 "url": "/ar/net/image-formats-features/convert-mpx-to-svg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ملفات MPX إلى SVG باستخدام GroupDocs.Conversion في .NET
 
 ## مقدمة

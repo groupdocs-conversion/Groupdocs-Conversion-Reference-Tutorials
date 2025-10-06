@@ -8,10 +8,8 @@ keywords:
 - convert DOC to PSD
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Convert DOC to PSD: A Step-by-Step Guide with GroupDocs.Conversion for .NET
 
 ## Introduction

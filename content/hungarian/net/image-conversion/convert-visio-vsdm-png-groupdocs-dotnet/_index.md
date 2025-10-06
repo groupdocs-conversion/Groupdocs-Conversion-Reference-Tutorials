@@ -4,8 +4,8 @@
 "title": "VSDM konvertálása PNG-vé a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-visio-vsdm-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # VSDM konvertálása PNG-vé a GroupDocs.Conversion for .NET segítségével: Átfogó útmutató
 
 ## Bevezetés

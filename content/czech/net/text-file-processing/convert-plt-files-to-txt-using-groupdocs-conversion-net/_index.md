@@ -4,8 +4,8 @@
 "title": "Převod souborů PLT do formátu TXT pomocí nástroje GroupDocs.Conversion pro .NET – podrobný návod"
 "url": "/cs/net/text-file-processing/convert-plt-files-to-txt-using-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů PLT do formátu TXT pomocí nástroje GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

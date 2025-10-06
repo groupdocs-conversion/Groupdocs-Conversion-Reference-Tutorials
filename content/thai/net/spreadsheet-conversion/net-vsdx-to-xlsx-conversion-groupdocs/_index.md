@@ -4,8 +4,8 @@
 "title": "การแปลง .NET VSDX เป็น XLSX อย่างมีประสิทธิภาพโดยใช้ GroupDocs.Conversion"
 "url": "/th/net/spreadsheet-conversion/net-vsdx-to-xlsx-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # การแปลง .NET VSDX เป็น XLSX อย่างมีประสิทธิภาพโดยใช้ GroupDocs.Conversion
 
 ## การแนะนำ

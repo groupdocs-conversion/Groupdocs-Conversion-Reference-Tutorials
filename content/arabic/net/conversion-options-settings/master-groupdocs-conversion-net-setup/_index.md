@@ -4,8 +4,8 @@
 "title": "إعداد تحويل المستندات الرئيسية في .NET باستخدام GroupDocs.Conversion"
 "url": "/ar/net/conversion-options-settings/master-groupdocs-conversion-net-setup/"
 "weight": 1
+type: docs
 ---
-
 # إعداد الدليل الرئيسي لتحويل المستندات باستخدام GroupDocs.Conversion .NET
 
 ## مقدمة

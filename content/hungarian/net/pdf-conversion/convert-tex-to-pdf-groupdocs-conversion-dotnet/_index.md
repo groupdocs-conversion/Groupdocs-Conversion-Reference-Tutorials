@@ -4,8 +4,8 @@
 "title": "Hatékony TEX-ből PDF-be konvertálás a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/pdf-conversion/convert-tex-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony TEX-ből PDF-be konvertálás a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

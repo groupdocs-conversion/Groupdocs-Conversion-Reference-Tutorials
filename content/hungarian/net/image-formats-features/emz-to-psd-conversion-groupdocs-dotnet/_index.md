@@ -4,8 +4,8 @@
 "title": "EMZ PSD-vé konvertálása .NET-ben a GroupDocs.Conversion használatával – Teljes körű útmutató"
 "url": "/hu/net/image-formats-features/emz-to-psd-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # EMZ PSD-vé konvertálásának elsajátítása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

@@ -5,8 +5,8 @@
 "title": "تحويل PDF"
 "url": "/ar/net/pdf-conversion/"
 "weight": 25
+type: docs
 ---
-
 # تحويل PDF
 
 ## مقدمة

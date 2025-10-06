@@ -4,8 +4,8 @@
 "title": "MPT konvertálása SVG-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/presentation-formats-features/convert-mpt-to-svg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # MPT konvertálása SVG-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

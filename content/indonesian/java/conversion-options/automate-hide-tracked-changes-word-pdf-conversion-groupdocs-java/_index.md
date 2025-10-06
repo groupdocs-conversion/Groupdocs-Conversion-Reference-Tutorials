@@ -4,8 +4,8 @@
 "title": "Otomatiskan Penyembunyian Perubahan Terlacak dalam Konversi Word ke PDF Menggunakan GroupDocs.Conversion untuk Java"
 "url": "/id/java/conversion-options/automate-hide-tracked-changes-word-pdf-conversion-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Otomatiskan Sembunyikan Perubahan Terlacak dalam Konversi Word ke PDF Menggunakan GroupDocs.Conversion untuk Java
 
 ## Perkenalan

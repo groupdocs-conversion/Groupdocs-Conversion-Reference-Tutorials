@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET の簡単な画像変換ガイドを使用して OTG を JPG に変換する"
 "url": "/ja/net/image-conversion/convert-otg-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET を使用して OTG ファイルを JPG に変換する
 
 ## 導入

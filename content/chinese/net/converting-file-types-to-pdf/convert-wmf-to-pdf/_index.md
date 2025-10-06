@@ -5,8 +5,8 @@
 "title": "将 WMF 转换为 PDF"
 "url": "/zh/net/converting-file-types-to-pdf/convert-wmf-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # 将 WMF 转换为 PDF
 
 ## 介绍

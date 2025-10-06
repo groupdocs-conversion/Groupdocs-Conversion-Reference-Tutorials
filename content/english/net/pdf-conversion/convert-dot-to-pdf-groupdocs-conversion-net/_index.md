@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert DOT to PDF Easily: Step-by-Step Guide Using GroupDocs.Conversion for .NET
 
 ## Introduction

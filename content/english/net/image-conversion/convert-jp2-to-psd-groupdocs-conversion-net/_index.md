@@ -8,10 +8,8 @@ keywords:
 - convert JP2 to PSD
 - GroupDocs.Conversion for .NET
 - image conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert JP2 to PSD Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - convert IGS to HTML
 - GroupDocs.Conversion .NET
 - IGES files to HTML
-
+type: docs
 ---
-
-
 # How to Convert IGS Files to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

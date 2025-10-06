@@ -4,8 +4,8 @@
 "title": "Java-Datei-Caching mit GroupDocs.Conversion – Ein umfassender Leitfaden zur effizienten Dokumentkonvertierung"
 "url": "/de/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # So implementieren Sie Java-Datei-Caching mit GroupDocs.Conversion für eine effiziente Dokumentkonvertierung
 
 ## Einführung

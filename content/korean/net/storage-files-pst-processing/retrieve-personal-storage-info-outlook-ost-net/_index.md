@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 Outlook OST 파일에서 개인 저장소 정보를 검색하는 방법"
 "url": "/ko/net/storage-files-pst-processing/retrieve-personal-storage-info-outlook-ost-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 Outlook OST 파일에서 개인 저장소 정보를 검색하는 방법
 
 ## 소개

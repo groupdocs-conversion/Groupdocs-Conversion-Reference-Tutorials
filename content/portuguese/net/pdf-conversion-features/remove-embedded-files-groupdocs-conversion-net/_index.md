@@ -4,8 +4,8 @@
 "title": "Como remover arquivos incorporados de PDFs usando GroupDocs.Conversion .NET para gerenciamento otimizado de documentos"
 "url": "/pt/net/pdf-conversion-features/remove-embedded-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Como remover arquivos incorporados de PDFs usando GroupDocs.Conversion .NET para gerenciamento otimizado de documentos
 
 ## Introdução

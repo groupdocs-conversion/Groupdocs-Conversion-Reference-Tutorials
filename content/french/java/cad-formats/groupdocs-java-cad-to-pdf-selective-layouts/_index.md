@@ -4,8 +4,8 @@
 "title": "Convertir des mises en page CAO en PDF dans Java à l'aide du guide de conversion de mise en page sélective de GroupDocs"
 "url": "/fr/java/cad-formats/groupdocs-java-cad-to-pdf-selective-layouts/"
 "weight": 1
+type: docs
 ---
-
 # Convertissez des schémas CAO en PDF avec GroupDocs.Conversion pour Java
 ## Maîtriser la conversion sélective de fichiers CAO en PDF en Java
 ### Introduction

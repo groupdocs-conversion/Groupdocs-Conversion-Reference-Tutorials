@@ -4,8 +4,8 @@
 "title": "Jak převést soubory MSG do TXT pomocí GroupDocs.Conversion v .NET – Komplexní průvodce"
 "url": "/cs/net/email-formats-features/convert-msg-to-txt-groupdocs-net-tutorial/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory MSG do TXT pomocí GroupDocs.Conversion v .NET: Komplexní průvodce
 
 ## Zavedení

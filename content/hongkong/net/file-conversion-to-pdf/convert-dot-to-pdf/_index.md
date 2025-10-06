@@ -5,8 +5,8 @@
 "title": "將 DOT Word 範本轉換為 PDF"
 "url": "/zh-hant/net/file-conversion-to-pdf/convert-dot-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # 將 DOT Word 範本轉換為 PDF
 
 ## 介紹

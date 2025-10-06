@@ -8,10 +8,8 @@ keywords:
 - convert OTG to XLS
 - GroupDocs.Conversion for .NET
 - spreadsheet conversion tutorial
-
+type: docs
 ---
-
-
 # Convert OTG File to XLS Format Using GroupDocs.Conversion for .NET
 
 ## Introduction

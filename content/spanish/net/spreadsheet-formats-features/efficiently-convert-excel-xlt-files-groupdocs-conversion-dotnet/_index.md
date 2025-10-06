@@ -4,8 +4,8 @@
 "title": "Cómo convertir archivos XLT de Excel de forma eficiente con GroupDocs.Conversion para .NET"
 "url": "/es/net/spreadsheet-formats-features/efficiently-convert-excel-xlt-files-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir archivos XLT de Excel de forma eficiente con GroupDocs.Conversion para .NET
 
 ## Introducción

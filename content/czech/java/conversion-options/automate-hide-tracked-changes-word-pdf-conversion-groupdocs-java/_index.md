@@ -4,8 +4,8 @@
 "title": "Automatizace skrytí sledovaných změn při převodu z Wordu do PDF pomocí GroupDocs.Conversion pro Javu"
 "url": "/cs/java/conversion-options/automate-hide-tracked-changes-word-pdf-conversion-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Automatizace skrytí sledovaných změn při převodu z Wordu do PDF pomocí GroupDocs.Conversion pro Javu
 
 ## Zavedení

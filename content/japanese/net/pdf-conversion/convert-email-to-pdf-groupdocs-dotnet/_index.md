@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用して .NET でメールを PDF に変換する開発者ガイド"
 "url": "/ja/net/pdf-conversion/convert-email-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion を使用して .NET でメールを PDF に変換する
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "Konversi WMF ke PDF dengan Mudah Menggunakan GroupDocs untuk Pengembang .NET"
 "url": "/id/net/pdf-conversion/wmf-to-pdf-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi WMF ke PDF dengan Mudah Menggunakan GroupDocs untuk Pengembang .NET
 
 ## Perkenalan

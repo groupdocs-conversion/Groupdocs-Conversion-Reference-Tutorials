@@ -5,8 +5,8 @@
 "title": "JPX konvertálása PDF-be"
 "url": "/hu/net/document-conversion/convert-jpx-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # JPX konvertálása PDF-be
 
 ## Bevezetés

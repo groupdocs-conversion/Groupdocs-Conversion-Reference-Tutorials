@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NETでDOTXをPSDに変換する方法 包括的なガイド"
 "url": "/ja/net/image-formats-features/convert-dotx-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET で DOTX を PSD に変換する: 包括的なガイド
 
 ## 導入

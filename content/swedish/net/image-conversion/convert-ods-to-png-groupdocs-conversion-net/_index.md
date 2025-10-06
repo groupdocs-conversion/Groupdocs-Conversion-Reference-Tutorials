@@ -4,8 +4,8 @@
 "title": "Omfattande guide till att konvertera ODS till PNG med GroupDocs.Conversion för .NET"
 "url": "/sv/net/image-conversion/convert-ods-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Omfattande guide: Konvertera ODS till PNG med GroupDocs.Conversion för .NET
 
 ## Introduktion

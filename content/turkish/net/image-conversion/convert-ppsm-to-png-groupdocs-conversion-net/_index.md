@@ -4,8 +4,8 @@
 "title": "PPSM'yi GroupDocs.Conversion for .NET Kullanarak PNG'ye Nasıl Dönüştürebilirsiniz? Kapsamlı Bir Kılavuz"
 "url": "/tr/net/image-conversion/convert-ppsm-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PPSM'yi GroupDocs.Conversion for .NET Kullanarak PNG'ye Nasıl Dönüştürebilirsiniz: Kapsamlı Bir Kılavuz
 
 ## giriiş

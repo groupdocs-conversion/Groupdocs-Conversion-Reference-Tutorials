@@ -4,8 +4,8 @@
 "title": "Hoe u ICO-bestanden naar PPTX converteert met GroupDocs.Conversion voor .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/presentation-formats-features/convert-ico-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # ICO-bestanden converteren naar PPTX met GroupDocs.Conversion voor .NET: een stapsgewijze handleiding
 
 ## Invoering

@@ -5,8 +5,8 @@
 "title": "Převod souborů IFC BIM (Building Information Modeling) do PDF"
 "url": "/cs/net/convert-files-to-pdf/convert-ifc-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Převod souborů IFC BIM (Building Information Modeling) do PDF
 
 ## Zavedení

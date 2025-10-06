@@ -4,8 +4,8 @@
 "title": "Konstansok kezelésének elsajátítása a GroupDocs.Conversion Java-ban fájlkonverziós projektekhez"
 "url": "/hu/java/conversion-options/mastering-constants-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Konstansok kezelésének elsajátítása GroupDocs.Conversion Java segítségével
 
 ## Bevezetés

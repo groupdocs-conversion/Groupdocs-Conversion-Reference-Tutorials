@@ -4,8 +4,8 @@
 "title": "Convertire OTS in SVG utilizzando GroupDocs.Conversion per .NET&#58; una guida passo passo"
 "url": "/it/net/image-formats-features/ots-to-svg-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire OTS in SVG utilizzando GroupDocs.Conversion per .NET: una guida passo passo
 
 ## Introduzione

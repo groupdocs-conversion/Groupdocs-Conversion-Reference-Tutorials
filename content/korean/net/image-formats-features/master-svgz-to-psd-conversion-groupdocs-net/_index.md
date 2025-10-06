@@ -4,8 +4,8 @@
 "title": ".NET 개발자를 위한 GroupDocs.Conversion을 사용한 효율적인 SVGZ-PSD 변환"
 "url": "/ko/net/image-formats-features/master-svgz-to-psd-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET 개발자를 위한 GroupDocs.Conversion을 사용한 효율적인 SVGZ-PSD 변환
 
 ## 소개

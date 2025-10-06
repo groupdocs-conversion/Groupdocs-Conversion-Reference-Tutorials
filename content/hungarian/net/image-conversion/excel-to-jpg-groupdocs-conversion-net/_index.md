@@ -4,8 +4,8 @@
 "title": "Excel JPG formátumba konvertálása .NET-ben&#58; lépésről lépésre útmutató a GroupDocs.Conversion használatával"
 "url": "/hu/net/image-conversion/excel-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Excel konvertálása JPG formátumba .NET-ben: Lépésről lépésre útmutató a GroupDocs.Conversion használatával
 
 ## Bevezetés

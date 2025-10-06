@@ -4,8 +4,8 @@
 "title": "Převod souborů WEBP pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/image-conversion/convert-webp-files-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů WEBP pomocí GroupDocs.Conversion pro .NET: Komplexní průvodce
 ## Zavedení
 Hledáte způsob, jak bezproblémově převádět obrazové soubory, jako je WEBP, do jiných formátů ve vašich .NET aplikacích? Mnoho vývojářů čelí problémům kvůli rozmanité povaze obrazových formátů. Tento tutoriál vám ukáže, jak využít GroupDocs.Conversion pro .NET k efektivnímu načtení zdrojového souboru WEBP a jeho snadnému převodu.

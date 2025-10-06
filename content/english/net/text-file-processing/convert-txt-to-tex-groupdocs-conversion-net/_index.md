@@ -8,10 +8,8 @@ keywords:
 - convert TXT to TEX with GroupDocs.Conversion
 - GroupDocs.Conversion for .NET tutorial
 - .NET text file processing
-
+type: docs
 ---
-
-
 # Convert TXT to TEX Files Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

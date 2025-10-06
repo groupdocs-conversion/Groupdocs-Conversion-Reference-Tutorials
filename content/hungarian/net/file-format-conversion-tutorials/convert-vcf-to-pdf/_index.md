@@ -5,8 +5,8 @@
 "title": "VCF konvertálása PDF-be"
 "url": "/hu/net/file-format-conversion-tutorials/convert-vcf-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # VCF konvertálása PDF-be
 
 ## Bevezetés

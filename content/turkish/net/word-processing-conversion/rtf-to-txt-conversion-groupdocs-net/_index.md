@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak RTF'den TXT'ye Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/word-processing-conversion/rtf-to-txt-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # RTF'yi GroupDocs.Conversion for .NET ile TXT'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

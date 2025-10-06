@@ -8,10 +8,8 @@ keywords:
 - ODT to JPG conversion
 - GroupDocs.Conversion for .NET
 - convert ODT files to images
-
+type: docs
 ---
-
-
 # How to Convert ODT Files to JPG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

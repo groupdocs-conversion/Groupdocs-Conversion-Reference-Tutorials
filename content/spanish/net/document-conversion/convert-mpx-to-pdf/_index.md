@@ -5,8 +5,8 @@
 "title": "Convertir MPX a PDF"
 "url": "/es/net/document-conversion/convert-mpx-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Convertir MPX a PDF
 
 ## Introducción

@@ -4,8 +4,8 @@
 "title": ".NET Geliştiricileri için GroupDocs'u Kullanarak Visio Web Çizimlerini PowerPoint'e Verimli Şekilde Dönüştürün"
 "url": "/tr/net/presentation-formats-features/convert-vdw-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET Geliştiricileri için GroupDocs'u Kullanarak Visio Web Çizimlerinin (VDW) PowerPoint Sunumlarına Verimli Şekilde Dönüştürülmesi
 
 ## giriiş

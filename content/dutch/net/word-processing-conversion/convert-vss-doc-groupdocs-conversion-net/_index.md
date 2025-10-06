@@ -4,8 +4,8 @@
 "title": "Converteer VSS naar DOC met GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/word-processing-conversion/convert-vss-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VSS naar DOC converteren met GroupDocs.Conversion voor .NET: een uitgebreide handleiding
 ## Invoering
 Moet u een Visual SourceSafe (VSS)-bestand omzetten naar een Word-document? Of het nu gaat om documentatie of de integratie van oudere systemen, het converteren van VSS-bestanden kan complex zijn. Deze handleiding laat zien hoe u moeiteloos VSS-bestanden naar DOC-formaat kunt converteren met GroupDocs.Conversion voor .NET.

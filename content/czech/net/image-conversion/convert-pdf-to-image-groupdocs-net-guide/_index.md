@@ -4,8 +4,8 @@
 "title": "Převod PDF do obrázku pomocí GroupDocs.Conversion .NET – Komplexní průvodce"
 "url": "/cs/net/image-conversion/convert-pdf-to-image-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Převod PDF do obrázku pomocí GroupDocs.Conversion .NET: Komplexní průvodce
 
 ## Zavedení

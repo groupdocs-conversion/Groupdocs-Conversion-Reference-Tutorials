@@ -4,8 +4,8 @@
 "title": "Menguasai Konversi Dokumen .NET&#58; Excel ke Word Menggunakan GroupDocs.Conversion"
 "url": "/id/net/word-processing-conversion/master-net-conversion-excel-word-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Menguasai Konversi Dokumen .NET: Excel ke Word Menggunakan GroupDocs.Conversion
 
 ## Perkenalan

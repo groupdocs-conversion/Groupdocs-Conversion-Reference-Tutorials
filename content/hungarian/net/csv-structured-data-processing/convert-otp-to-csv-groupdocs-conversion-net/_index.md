@@ -4,8 +4,8 @@
 "title": "OTP fájlok konvertálása CSV formátumba a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/csv-structured-data-processing/convert-otp-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OTP fájlok konvertálása CSV formátumba a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

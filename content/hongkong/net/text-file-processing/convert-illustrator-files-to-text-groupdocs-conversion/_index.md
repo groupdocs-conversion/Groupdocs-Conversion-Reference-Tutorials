@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 Adobe Illustrator 檔案轉換為文字"
 "url": "/zh-hant/net/text-file-processing/convert-illustrator-files-to-text-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 Adobe Illustrator 檔案轉換為文字
 
 ## 介紹

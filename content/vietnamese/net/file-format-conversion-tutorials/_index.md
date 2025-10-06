@@ -5,8 +5,8 @@
 "title": "Chuyển đổi định dạng tập tin"
 "url": "/vi/net/file-format-conversion-tutorials/"
 "weight": 21
+type: docs
 ---
-
 # Chuyển đổi định dạng tập tin
 
 ## Giới thiệu

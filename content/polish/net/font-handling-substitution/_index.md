@@ -3,8 +3,8 @@
 "title": "Samouczki dotyczące obsługi i podstawiania czcionek dla GroupDocs.Conversion .NET"
 "url": "/pl/net/font-handling-substitution/"
 "weight": 22
+type: docs
 ---
-
 # Samouczki dotyczące obsługi i podstawiania czcionek dla GroupDocs.Conversion .NET
 
 Poznaj możliwości zarządzania czcionkami dzięki naszym kompleksowym samouczkom GroupDocs.Conversion dla .NET. Te przewodniki krok po kroku pokazują, jak określić opcje zastępowania czcionek w różnych typach dokumentów, w tym Word, Excel, PowerPoint i formatach notatek, obsługiwać brakujące czcionki, wdrażać zasady osadzania czcionek, zarządzać wymaganiami licencyjnymi czcionek, kontrolować zachowanie zapasowe czcionek, zachowywać style i formatowanie czcionek oraz zapewniać spójny wygląd tekstu na różnych platformach. Każdy samouczek zawiera praktyczne przykłady kodu C# dla operacji związanych z czcionkami, pomagając w tworzeniu aplikacji, które zachowują wierność dokumentu nawet w przypadku wyzwań związanych z dostępnością czcionek.

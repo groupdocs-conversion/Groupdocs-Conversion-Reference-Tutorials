@@ -4,8 +4,8 @@
 "title": "Nahrazení písem v PDF v .NET pomocí GroupDocs.Conversion – Komplexní průvodce"
 "url": "/cs/net/font-handling-substitution/groupdocs-conversion-pdf-font-substitution-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Nahrazení písem v hlavním PDF v .NET pomocí GroupDocs.Conversion
 
 Zajištění konzistentní typografie během převodu dokumentů je zásadní. Tato komplexní příručka ukazuje použití GroupDocs.Conversion pro .NET k efektivní správě substitucí písem při převodu dokumentů do PDF.

@@ -8,10 +8,8 @@ keywords:
 - DOTX to XLS Conversion
 - GroupDocs.Conversion for .NET
 - C# Document Conversion
-
+type: docs
 ---
-
-
 # Ultimate Guide: Converting DOTX to XLS Using GroupDocs.Conversion for .NET in C#
 
 ## Introduction

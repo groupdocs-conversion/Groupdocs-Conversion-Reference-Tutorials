@@ -8,10 +8,8 @@ keywords:
 - Convert VDX to TEX
 - GroupDocs.Conversion for .NET
 - C# document conversion
-
+type: docs
 ---
-
-
 # Convert VDX Files to TEX with GroupDocs for .NET
 
 ## Introduction

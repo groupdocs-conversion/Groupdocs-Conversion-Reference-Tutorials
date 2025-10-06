@@ -8,10 +8,8 @@ keywords:
 - Convert JLS to TXT using GroupDocs.Conversion for .NET
 - GroupDocs.Conversion file conversion C#
 - JPEG Lossless Image File conversion
-
+type: docs
 ---
-
-
 # Convert JLS to TXT Using GroupDocs.Conversion for .NET
 
 ## Introduction

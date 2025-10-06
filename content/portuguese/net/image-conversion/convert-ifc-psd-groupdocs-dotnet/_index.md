@@ -4,8 +4,8 @@
 "title": "Converter IFC para PSD usando GroupDocs.Conversion para .NET - Guia fácil de conversão de imagens"
 "url": "/pt/net/image-conversion/convert-ifc-psd-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converta arquivos IFC para PSD com GroupDocs.Conversion para .NET
 
 ## Introdução

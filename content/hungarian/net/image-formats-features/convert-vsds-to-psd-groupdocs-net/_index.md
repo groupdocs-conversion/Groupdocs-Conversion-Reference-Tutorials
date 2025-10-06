@@ -4,8 +4,8 @@
 "title": "VSD-ből PSD-be konvertálás automatizálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-formats-features/convert-vsds-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # VSD-ből PSD-be konvertálás automatizálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

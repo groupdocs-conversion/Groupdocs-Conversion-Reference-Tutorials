@@ -4,8 +4,8 @@
 "title": "Efektywna konwersja VTX do XLS przy użyciu GroupDocs.Conversion .NET w celu ulepszonego zarządzania danymi"
 "url": "/pl/net/spreadsheet-formats-features/convert-vtx-to-xls-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Efektywna konwersja VTX do XLS przy użyciu GroupDocs.Conversion .NET
 
 ## Wstęp

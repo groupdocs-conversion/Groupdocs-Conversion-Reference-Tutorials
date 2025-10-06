@@ -5,8 +5,8 @@
 "title": "POTX'i PDF'ye dönüştür"
 "url": "/tr/net/pdf-conversion/convert-potx-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # POTX'i PDF'ye dönüştür
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "PowerPoint-diavoorstellingen (.PPSM) converteren naar CSV met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/spreadsheet-formats-features/convert-ppsm-to-csv-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # PowerPoint-diavoorstellingen (.PPSM) converteren naar CSV met GroupDocs.Conversion voor .NET
 
 ## Invoering

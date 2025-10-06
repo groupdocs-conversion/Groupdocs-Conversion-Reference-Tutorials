@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs 的选择性布局转换指南在 Java 中将 CAD 布局转换为 PDF"
 "url": "/zh/java/cad-formats/groupdocs-java-cad-to-pdf-selective-layouts/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for Java 将 CAD 布局转换为 PDF
 ## 掌握 Java 中选择性 CAD 到 PDF 的转换
 ### 介绍

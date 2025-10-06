@@ -8,10 +8,8 @@ keywords:
 - ICO to PSD conversion
 - GroupDocs.Conversion for .NET
 - image file format conversion
-
+type: docs
 ---
-
-
 # Convert ICO to PSD Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

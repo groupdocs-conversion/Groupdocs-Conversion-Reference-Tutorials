@@ -5,8 +5,8 @@
 "title": "Převod LOGu do PDF"
 "url": "/cs/net/document-conversion/convert-log-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # Převod LOGu do PDF
 
 ## Zavedení

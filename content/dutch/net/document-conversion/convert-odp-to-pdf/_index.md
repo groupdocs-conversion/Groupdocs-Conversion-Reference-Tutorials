@@ -5,8 +5,8 @@
 "title": "ODP naar PDF converteren"
 "url": "/nl/net/document-conversion/convert-odp-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # ODP naar PDF converteren
 
 ## Invoering

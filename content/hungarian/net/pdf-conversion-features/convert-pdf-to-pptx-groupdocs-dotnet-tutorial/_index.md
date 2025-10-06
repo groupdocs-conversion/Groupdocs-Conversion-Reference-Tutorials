@@ -4,8 +4,8 @@
 "title": "Átfogó útmutató PDF PPTX formátumba konvertálásához a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/pdf-conversion-features/convert-pdf-to-pptx-groupdocs-dotnet-tutorial/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató PDF PPTX formátumba konvertálásához a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

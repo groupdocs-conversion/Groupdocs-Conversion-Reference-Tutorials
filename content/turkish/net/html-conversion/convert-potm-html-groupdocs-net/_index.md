@@ -4,8 +4,8 @@
 "title": "POTM'yi GroupDocs.Conversion for .NET Kullanarak HTML'ye Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/html-conversion/convert-potm-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # POTM'yi GroupDocs.Conversion for .NET Kullanarak HTML'ye Dönüştürme: Kapsamlı Bir Kılavuz
 ## giriiş
 Microsoft PowerPoint'e erişim olmadan bir PowerPoint şablonunu paylaşmak veya sunumları web sitelerine yerleştirmek zor olabilir. **GroupDocs.Conversion .NET için**, Microsoft PowerPoint Şablonu (.potm) dosyalarını HTML'ye dönüştürmek sorunsuz ve verimlidir. Bu kapsamlı kılavuz, bu sağlam kütüphaneyi zahmetsizce kullanmanızda size yol gösterecektir.

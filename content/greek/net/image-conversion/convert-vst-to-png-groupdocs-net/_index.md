@@ -4,8 +4,8 @@
 "title": "Μετατροπή VST σε PNG χρησιμοποιώντας το GroupDocs.Conversion για .NET™ Ένας πλήρης οδηγός"
 "url": "/el/net/image-conversion/convert-vst-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή VST σε PNG με το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

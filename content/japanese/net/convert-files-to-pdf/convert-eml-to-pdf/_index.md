@@ -5,8 +5,8 @@
 "title": "EMLメールメッセージをPDFに変換する"
 "url": "/ja/net/convert-files-to-pdf/convert-eml-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # EMLメールメッセージをPDFに変換する
 
 ## 導入

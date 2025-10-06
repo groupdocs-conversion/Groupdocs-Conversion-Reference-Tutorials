@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tệp chính trong Java&#58; Hướng dẫn toàn diện về cách sử dụng GroupDocs.Conversion"
 "url": "/vi/java/document-operations/java-groupdocs-conversion-file-handling/"
 "weight": 1
+type: docs
 ---
-
 # Làm chủ việc chuyển đổi tệp trong Java: Hướng dẫn toàn diện về cách sử dụng GroupDocs.Conversion
 
 ## Giới thiệu

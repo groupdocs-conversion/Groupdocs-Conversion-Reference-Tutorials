@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将 XML 转换为 PDF 的综合指南"
 "url": "/zh/net/pdf-conversion/convert-xml-pdf-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将 XML 转换为 PDF：完整指南
 
 ## 介绍

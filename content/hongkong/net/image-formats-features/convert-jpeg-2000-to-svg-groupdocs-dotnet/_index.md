@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 將 JPEG 2000 (.j2k) 轉換為 SVG——逐步指南"
 "url": "/zh-hant/net/image-formats-features/convert-jpeg-2000-to-svg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將 JPEG 2000（.j2k）轉換為 SVG
 
 在當今的數位時代，確保文件格式相容性對於無縫資料交換和呈現至關重要。將高品質的 JPEG 2000 格式影像轉換為可縮放向量圖形 (SVG) 可顯著提升 Web 效能和設計靈活性。本教學將引導您完成以下轉換： `.j2k` 使用 GroupDocs.Conversion for .NET 將檔案轉換為 SVG，確保您的映像既輕巧又具有視覺吸引力。

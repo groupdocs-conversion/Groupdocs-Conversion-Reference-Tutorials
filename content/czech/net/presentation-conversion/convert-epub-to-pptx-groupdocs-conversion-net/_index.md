@@ -4,8 +4,8 @@
 "title": "Převod EPUB do PPTX v C# pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/presentation-conversion/convert-epub-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod EPUB do PPTX v C# pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

@@ -5,8 +5,8 @@
 "title": "Konvertera filtyper till PDF"
 "url": "/sv/net/converting-file-types-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Konvertera filtyper till PDF
 
 ## Introduktion

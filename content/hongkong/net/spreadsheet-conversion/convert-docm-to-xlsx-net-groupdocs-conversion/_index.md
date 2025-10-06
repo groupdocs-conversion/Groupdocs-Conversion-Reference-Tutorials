@@ -4,8 +4,8 @@
 "title": "在 .NET 中將 DOCM 轉換為 XLSX — 使用 GroupDocs.Conversion 的完整指南"
 "url": "/zh-hant/net/spreadsheet-conversion/convert-docm-to-xlsx-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # 在 .NET 中將 DOCM 轉換為 XLSX：使用 GroupDocs.Conversion 的完整指南
 
 ## 介紹

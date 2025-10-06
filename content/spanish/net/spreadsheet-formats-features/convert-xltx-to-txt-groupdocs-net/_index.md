@@ -4,8 +4,8 @@
 "title": "Convertir XLTX a TXT con GroupDocs.Conversion para .NET&#58; guía paso a paso"
 "url": "/es/net/spreadsheet-formats-features/convert-xltx-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir XLTX a TXT con GroupDocs.Conversion para .NET: guía paso a paso
 
 ## Introducción

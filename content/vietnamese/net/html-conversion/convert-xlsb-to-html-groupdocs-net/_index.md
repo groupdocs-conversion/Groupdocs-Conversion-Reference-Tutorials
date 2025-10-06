@@ -4,8 +4,8 @@
 "title": "Chuyển đổi XLSB sang HTML bằng GroupDocs.Conversion .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/html-conversion/convert-xlsb-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi XLSB sang HTML với GroupDocs.Conversion .NET
 
 ## Giới thiệu

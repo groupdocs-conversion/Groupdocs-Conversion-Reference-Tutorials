@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi JPEG ke PNG Menggunakan GroupDocs.Conversion for .NET&#58; Panduan Langkah demi Langkah"
 "url": "/id/net/image-conversion/convert-jpeg-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi JPEG ke PNG Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

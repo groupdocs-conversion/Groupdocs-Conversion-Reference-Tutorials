@@ -4,8 +4,8 @@
 "title": "Konvertera OTS till HTML med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/html-conversion/convert-ots-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera OTS-filer till HTML med GroupDocs.Conversion för .NET
 
 ## Introduktion

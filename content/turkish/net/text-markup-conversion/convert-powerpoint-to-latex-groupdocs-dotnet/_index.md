@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak PowerPoint'i LaTeX'e Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/text-markup-conversion/convert-powerpoint-to-latex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # PowerPoint Sunumlarını GroupDocs.Conversion for .NET ile LaTeX'e Dönüştürün
 
 ## giriiş

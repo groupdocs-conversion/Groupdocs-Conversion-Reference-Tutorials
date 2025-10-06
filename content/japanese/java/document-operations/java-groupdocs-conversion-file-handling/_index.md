@@ -4,8 +4,8 @@
 "title": "Javaでのマスターファイル変換：GroupDocs.Conversionの包括的な使用ガイド"
 "url": "/ja/java/document-operations/java-groupdocs-conversion-file-handling/"
 "weight": 1
+type: docs
 ---
-
 # Javaでのファイル変換をマスターする: GroupDocs.Conversionの使用に関する包括的なガイド
 
 ## 導入

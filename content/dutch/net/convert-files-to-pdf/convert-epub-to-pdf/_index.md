@@ -5,8 +5,8 @@
 "title": "Converteer EPUB eBooks naar PDF"
 "url": "/nl/net/convert-files-to-pdf/convert-epub-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # Converteer EPUB eBooks naar PDF
 
 ## Invoering

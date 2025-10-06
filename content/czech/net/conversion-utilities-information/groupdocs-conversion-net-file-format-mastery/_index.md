@@ -4,8 +4,8 @@
 "title": "Konverze formátu hlavních souborů v .NET pomocí GroupDocs.Conversion"
 "url": "/cs/net/conversion-utilities-information/groupdocs-conversion-net-file-format-mastery/"
 "weight": 1
+type: docs
 ---
-
 # Zvládnutí konverzí formátů souborů v .NET pomocí GroupDocs.Conversion
 
 Vítejte v našem komplexním průvodci, jak efektivně využít knihovnu GroupDocs.Conversion pro .NET k převodu formátů souborů. Tento tutoriál vám pomůže pochopit, jak načíst všechny možné formáty převodu dostupné prostřednictvím jejího API, což umožní efektivní procesy správy dokumentů a všestrannou integraci do vašich aplikací.

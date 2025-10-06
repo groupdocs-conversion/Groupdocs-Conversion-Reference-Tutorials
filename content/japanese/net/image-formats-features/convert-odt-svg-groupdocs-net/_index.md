@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して ODT ファイルを SVG に変換する方法 - 包括的なガイド"
 "url": "/ja/net/image-formats-features/convert-odt-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して ODT ファイルを SVG に変換する方法
 
 ## 導入

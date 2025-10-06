@@ -4,8 +4,8 @@
 "title": ".NET'te GroupDocs.Conversion'ı kullanarak PLT'yi JPG'ye dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/image-conversion/convert-plt-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET'te GroupDocs.Conversion Kullanarak PLT'yi JPG'ye Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

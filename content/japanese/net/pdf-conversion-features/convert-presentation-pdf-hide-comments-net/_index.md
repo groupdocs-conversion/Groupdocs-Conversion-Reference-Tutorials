@@ -4,8 +4,8 @@
 "title": "PDF 内のコメントを非表示にする &#58; GroupDocs.Conversion for .NET で PPT を PDF に変換する"
 "url": "/ja/net/pdf-conversion-features/convert-presentation-pdf-hide-comments-net/"
 "weight": 1
+type: docs
 ---
-
 # PDF 内のコメントを非表示にする: GroupDocs.Conversion for .NET で PPT を PDF に変換する
 
 ## 導入

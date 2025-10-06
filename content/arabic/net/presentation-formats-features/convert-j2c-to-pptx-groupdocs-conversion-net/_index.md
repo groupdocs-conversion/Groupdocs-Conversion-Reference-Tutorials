@@ -4,8 +4,8 @@
 "title": "تحويل J2C إلى PPTX باستخدام GroupDocs.Conversion لـ .NET - دليل خطوة بخطوة"
 "url": "/ar/net/presentation-formats-features/convert-j2c-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل J2C إلى PPTX باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

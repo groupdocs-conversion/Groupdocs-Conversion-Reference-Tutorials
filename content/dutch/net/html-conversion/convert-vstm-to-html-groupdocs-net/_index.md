@@ -4,8 +4,8 @@
 "title": "VSTM-bestanden naar HTML converteren met GroupDocs.Conversion voor .NET&#58; een handleiding voor ontwikkelaars"
 "url": "/nl/net/html-conversion/convert-vstm-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # VSTM-bestanden naar HTML converteren met GroupDocs.Conversion voor .NET: een handleiding voor ontwikkelaars
 
 ## Invoering

@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Learn how to convert ODP to PDF using GroupDocs.Conversion for .NET. Follow our step-by-step guide for seamless document conversion.
 weight: 28
 url: /net/document-conversion/convert-odp-to-pdf/
+type: docs
 ---
-
 # Convert ODP to PDF
 
 ## Introduction

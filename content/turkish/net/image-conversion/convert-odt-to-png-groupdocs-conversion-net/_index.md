@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak ODT Dosyaları PNG'ye Nasıl Dönüştürülür (Görüntü Dönüştürme Kılavuzu)"
 "url": "/tr/net/image-conversion/convert-odt-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak ODT Dosyaları PNG'ye Nasıl Dönüştürülür
 
 ## giriiş

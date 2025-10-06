@@ -4,8 +4,8 @@
 "title": "Konvertera VSSM-filer till HTML med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/html-conversion/convert-vssm-files-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera VSSM-filer till HTML med GroupDocs.Conversion för .NET: En omfattande guide
 
 ## Introduktion

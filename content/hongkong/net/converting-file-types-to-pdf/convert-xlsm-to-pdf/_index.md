@@ -5,8 +5,8 @@
 "title": "將XLSM轉換為PDF"
 "url": "/zh-hant/net/converting-file-types-to-pdf/convert-xlsm-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # 將XLSM轉換為PDF
 
 ## 介紹

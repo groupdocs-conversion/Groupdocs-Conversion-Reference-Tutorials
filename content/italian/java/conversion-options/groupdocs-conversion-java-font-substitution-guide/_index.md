@@ -4,8 +4,8 @@
 "title": "Sostituzione dei font in Java&#58; padronanza di GroupDocs.Conversion per un output PDF coerente"
 "url": "/it/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/"
 "weight": 1
+type: docs
 ---
-
 # Padroneggiare la sostituzione dei font con GroupDocs.Conversion per Java
 
 ## Introduzione

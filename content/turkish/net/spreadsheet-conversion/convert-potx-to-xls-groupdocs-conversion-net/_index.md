@@ -4,8 +4,8 @@
 "title": "POTX'i GroupDocs.Conversion for .NET Kullanarak XLS'ye Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/spreadsheet-conversion/convert-potx-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # POTX'i .NET için GroupDocs.Conversion Kullanarak XLS'ye Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

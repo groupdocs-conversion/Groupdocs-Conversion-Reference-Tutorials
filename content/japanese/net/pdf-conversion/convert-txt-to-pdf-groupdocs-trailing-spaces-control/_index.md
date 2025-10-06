@@ -4,8 +4,8 @@
 "title": "GroupDocs で TXT を PDF に変換する - .NET で末尾のスペースを制御する"
 "url": "/ja/net/pdf-conversion/convert-txt-to-pdf-groupdocs-trailing-spaces-control/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocsでTXTをPDFに変換する：.NETで末尾のスペースを制御する
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "Cómo convertir OST a TEX con GroupDocs.Conversion para .NET&#58; guía paso a paso"
 "url": "/es/net/storage-files-pst-processing/convert-ost-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Guía completa: Convertir OST a TEX con GroupDocs.Conversion para .NET
 
 ## Introducción

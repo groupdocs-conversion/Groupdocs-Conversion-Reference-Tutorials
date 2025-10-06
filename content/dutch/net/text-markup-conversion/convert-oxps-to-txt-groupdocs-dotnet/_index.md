@@ -4,8 +4,8 @@
 "title": "OXPS-bestanden naar TXT converteren met GroupDocs.Conversion voor .NET | Handleiding voor het converteren van tekst en opmaak"
 "url": "/nl/net/text-markup-conversion/convert-oxps-to-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # OXPS-bestanden naar TXT converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

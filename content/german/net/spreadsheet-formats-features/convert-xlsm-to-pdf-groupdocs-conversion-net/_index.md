@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie XLSM-Dateien mit GroupDocs.Conversion für .NET in PDF"
 "url": "/de/net/spreadsheet-formats-features/convert-xlsm-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie XLSM-Dateien mit GroupDocs.Conversion für .NET in PDF
 
 ## Einführung

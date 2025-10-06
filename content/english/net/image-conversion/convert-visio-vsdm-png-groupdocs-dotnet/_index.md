@@ -8,10 +8,8 @@ keywords:
 - convert VSDM to PNG
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Convert VSDM to PNG with GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

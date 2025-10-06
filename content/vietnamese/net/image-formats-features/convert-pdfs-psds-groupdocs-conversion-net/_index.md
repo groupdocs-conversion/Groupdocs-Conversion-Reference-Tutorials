@@ -4,8 +4,8 @@
 "title": "Chuyển đổi PDF sang PSD hiệu quả bằng thư viện GroupDocs.Conversion .NET"
 "url": "/vi/net/image-formats-features/convert-pdfs-psds-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi PDF sang PSD hiệu quả với GroupDocs.Conversion .NET
 
 ## Giới thiệu

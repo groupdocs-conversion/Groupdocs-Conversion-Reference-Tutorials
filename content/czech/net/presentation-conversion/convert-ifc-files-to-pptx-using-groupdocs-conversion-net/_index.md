@@ -4,8 +4,8 @@
 "title": "Převod souborů IFC do formátu PowerPoint pomocí nástroje GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/presentation-conversion/convert-ifc-files-to-pptx-using-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů IFC do formátu PowerPoint pomocí nástroje GroupDocs.Conversion pro .NET: Komplexní průvodce
 
 ## Zavedení

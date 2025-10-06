@@ -8,10 +8,8 @@ keywords:
 - Excel-to-Word conversion
 - GroupDocs.Conversion for .NET
 - automate document conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert XLS to DOC Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Theo dõi tiến trình chuyển đổi tài liệu trong Java bằng GroupDocs&#58; Hướng dẫn đầy đủ"
 "url": "/vi/java/conversion-events-logging/java-groupdocs-conversion-progress-listener/"
 "weight": 1
+type: docs
 ---
-
 # Theo dõi tiến trình chuyển đổi tài liệu trong Java với GroupDocs: Hướng dẫn đầy đủ
 
 ## Giới thiệu

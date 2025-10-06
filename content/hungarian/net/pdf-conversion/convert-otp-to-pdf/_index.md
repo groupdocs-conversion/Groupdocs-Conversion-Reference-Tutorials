@@ -5,8 +5,8 @@
 "title": "OTP konvertálása PDF-be"
 "url": "/hu/net/pdf-conversion/convert-otp-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # OTP konvertálása PDF-be
 
 ## Bevezetés

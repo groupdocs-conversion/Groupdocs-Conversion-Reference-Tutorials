@@ -4,8 +4,8 @@
 "title": "Converteer ODT naar DOC met GroupDocs.Conversion.NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/word-processing-formats-features/groupdocs-conversion-odt-to-doc-guide/"
 "weight": 1
+type: docs
 ---
-
 # Converteer ODT naar DOC met GroupDocs.Conversion .NET: een stapsgewijze handleiding
 
 In de snelle wereld van vandaag is het cruciaal om documentformaten efficiënt te kunnen converteren. Of u nu een ontwikkelaar bent die werkt aan software die documenten verwerkt of een organisatie die streeft naar naadloze data-integratie, het converteren van Open Document Text (ODT)-bestanden naar Microsoft Word-documenten (DOC) kan worden gestroomlijnd met de juiste tools en kennis.

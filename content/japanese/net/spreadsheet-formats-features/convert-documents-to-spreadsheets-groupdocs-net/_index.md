@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用した効率的なドキュメントからスプレッドシートへの変換"
 "url": "/ja/net/spreadsheet-formats-features/convert-documents-to-spreadsheets-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用した効率的なドキュメントからスプレッドシートへの変換
 
 ## 導入

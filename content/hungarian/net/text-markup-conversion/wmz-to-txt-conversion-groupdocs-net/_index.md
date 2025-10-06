@@ -4,8 +4,8 @@
 "title": "Hatékony WMZ-TXT konvertálás a GroupDocs.Conversion for .NET használatával | Fejlesztői útmutató"
 "url": "/hu/net/text-markup-conversion/wmz-to-txt-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony WMZ-TXT konvertálás a GroupDocs.Conversion for .NET használatával: Fejlesztői útmutató
 
 ## Bevezetés

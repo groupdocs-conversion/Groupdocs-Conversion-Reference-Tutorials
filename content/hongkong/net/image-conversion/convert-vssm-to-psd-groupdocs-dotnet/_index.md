@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 VSSM 轉換為 PSD — 逐步指南"
 "url": "/zh-hant/net/image-conversion/convert-vssm-to-psd-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將 VSSM 檔案轉換為 PSD
 
 ## 介紹

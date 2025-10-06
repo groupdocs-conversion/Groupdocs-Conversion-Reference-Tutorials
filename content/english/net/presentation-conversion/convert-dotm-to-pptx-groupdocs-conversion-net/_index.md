@@ -8,10 +8,8 @@ keywords:
 - convert dotm to pptx groupdocs conversion
 - groupdocs conversion for .net tutorial
 - dotm to pptx conversion guide
-
+type: docs
 ---
-
-
 # Convert DOTM to PPTX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

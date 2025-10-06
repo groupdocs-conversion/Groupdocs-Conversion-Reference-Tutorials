@@ -4,8 +4,8 @@
 "title": "Come convertire i file VSTM in HTML utilizzando GroupDocs.Conversion per .NET - Guida per sviluppatori"
 "url": "/it/net/html-conversion/convert-vstm-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire i file VSTM in HTML utilizzando GroupDocs.Conversion per .NET: guida per sviluppatori
 
 ## Introduzione

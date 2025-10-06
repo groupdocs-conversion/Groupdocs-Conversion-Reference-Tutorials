@@ -5,8 +5,8 @@
 "title": "PPTM'yi PDF'ye dönüştür"
 "url": "/tr/net/pdf-conversion/convert-pptm-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # PPTM'yi PDF'ye dönüştür
 
 ## giriiş

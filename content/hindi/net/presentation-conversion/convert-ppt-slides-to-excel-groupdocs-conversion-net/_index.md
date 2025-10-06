@@ -4,8 +4,8 @@
 "title": ".NET के लिए Excel&#58; Mastering GroupDocs.Conversion में PPT स्लाइड कनवर्ट करें"
 "url": "/hi/net/presentation-conversion/convert-ppt-slides-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion के साथ PPT स्लाइड को Excel में कनवर्ट करें
 
 ## परिचय

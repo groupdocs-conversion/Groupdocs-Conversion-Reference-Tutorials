@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET을 사용하여 TXT를 PPTX로 손쉽게 변환"
 "url": "/ko/net/presentation-conversion/convert-txt-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET을 사용하여 TXT 파일을 PPTX로 손쉽게 변환
 
 ## 소개

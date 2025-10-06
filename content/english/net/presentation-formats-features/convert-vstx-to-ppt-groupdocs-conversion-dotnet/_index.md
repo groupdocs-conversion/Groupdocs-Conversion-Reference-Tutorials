@@ -8,10 +8,8 @@ keywords:
 - convert VSTX to PPT
 - GroupDocs.Conversion for .NET
 - VSTX to PowerPoint conversion
-
+type: docs
 ---
-
-
 # Convert VSTX to PPT Seamlessly Using GroupDocs.Conversion for .NET
 
 ## Introduction

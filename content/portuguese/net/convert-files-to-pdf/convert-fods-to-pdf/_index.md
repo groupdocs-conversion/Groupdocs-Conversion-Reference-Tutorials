@@ -5,8 +5,8 @@
 "title": "Converter planilhas FODS OpenDocument para PDF"
 "url": "/pt/net/convert-files-to-pdf/convert-fods-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Converter planilhas FODS OpenDocument para PDF
 
 ## Introdução

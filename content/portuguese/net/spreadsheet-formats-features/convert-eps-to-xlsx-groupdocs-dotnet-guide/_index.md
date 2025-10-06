@@ -4,8 +4,8 @@
 "title": "Como converter EPS para XLSX usando GroupDocs.Conversion para .NET - Um guia passo a passo"
 "url": "/pt/net/spreadsheet-formats-features/convert-eps-to-xlsx-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # Como converter arquivos EPS para XLSX usando o GroupDocs.Conversion para .NET: um guia passo a passo
 
 ## Introdução

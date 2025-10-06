@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将 PPTM 转换为 PPT 综合指南"
 "url": "/zh/net/presentation-conversion/convert-pptm-to-ppt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将 PPTM 转换为 PPT：综合指南
 
 在商业世界中，PowerPoint 演示文稿是必不可少的工具。然而，并非每个人都能使用最新版本的 Microsoft Office，因此需要将 PPTM（包含宏的 PowerPoint 文件）转换为 PPT（旧版 PowerPoint 格式）。本指南将指导您使用 GroupDocs.Conversion for .NET 将 PPTM 文件无缝转换为 PPT 格式。

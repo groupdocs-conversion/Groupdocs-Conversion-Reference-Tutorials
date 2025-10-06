@@ -4,8 +4,8 @@
 "title": "تحويل POTM إلى SVG باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/presentation-conversion/convert-potm-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ملفات POTM إلى SVG باستخدام GroupDocs.Conversion لـ .NET
 ## مقدمة
 هل ترغب في تحويل ملفات قوالب مايكروسوفت باوربوينت (.potm) إلى رسومات متجهية قابلة للتطوير (SVG)؟ اتبع هذا الدليل الشامل باستخدام مكتبة GroupDocs.Conversion القوية لـ .NET. حسّن سير عمل إدارة مستنداتك بسهولة وكفاءة من خلال تعلم كيفية تحويل ملفات POTM إلى تنسيق SVG.

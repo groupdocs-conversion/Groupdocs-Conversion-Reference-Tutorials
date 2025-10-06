@@ -4,8 +4,8 @@
 "title": "Implementeer Metered Licensing met GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/getting-started-licensing/metered-licensing-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Implementatie van metered licensing met GroupDocs.Conversion voor .NET
 
 ## Invoering

@@ -4,8 +4,8 @@
 "title": "EMF'yi GroupDocs.Conversion for .NET ile TEX'e Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/image-conversion/convert-emf-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # EMF'yi GroupDocs.Conversion for .NET ile TEX'e Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

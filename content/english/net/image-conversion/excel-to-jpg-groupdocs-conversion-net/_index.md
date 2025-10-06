@@ -8,10 +8,8 @@ keywords:
 - Excel to JPG Conversion
 - GroupDocs.Conversion .NET
 - .NET Excel to Image
-
+type: docs
 ---
-
-
 # Convert Excel to JPG in .NET: Step-by-Step Guide Using GroupDocs.Conversion
 
 ## Introduction

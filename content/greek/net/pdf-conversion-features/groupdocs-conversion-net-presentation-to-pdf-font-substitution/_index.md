@@ -4,8 +4,8 @@
 "title": "Μετατροπή PowerPoint σε PDF με αντικατάσταση γραμματοσειράς σε .NET χρησιμοποιώντας το GroupDocs.Conversion"
 "url": "/el/net/pdf-conversion-features/groupdocs-conversion-net-presentation-to-pdf-font-substitution/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή PowerPoint σε PDF με αντικατάσταση γραμματοσειράς σε .NET χρησιμοποιώντας το GroupDocs.Conversion
 
 ## Εισαγωγή

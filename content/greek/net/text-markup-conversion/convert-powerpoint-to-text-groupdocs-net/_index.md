@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή προτύπων PowerPoint σε κείμενο χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/text-markup-conversion/convert-powerpoint-to-text-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε πρότυπα PowerPoint σε κείμενο χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

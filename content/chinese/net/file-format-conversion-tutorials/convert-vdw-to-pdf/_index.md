@@ -5,8 +5,8 @@
 "title": "将 VDW 转换为 PDF"
 "url": "/zh/net/file-format-conversion-tutorials/convert-vdw-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # 将 VDW 转换为 PDF
 
 ## 介绍

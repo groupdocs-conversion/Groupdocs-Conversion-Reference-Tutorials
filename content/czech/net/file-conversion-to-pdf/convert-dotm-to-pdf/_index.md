@@ -5,8 +5,8 @@
 "title": "Převod šablon DOTM Word (makra) do PDF"
 "url": "/cs/net/file-conversion-to-pdf/convert-dotm-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Převod šablon DOTM Word (makra) do PDF
 
 ## Zavedení

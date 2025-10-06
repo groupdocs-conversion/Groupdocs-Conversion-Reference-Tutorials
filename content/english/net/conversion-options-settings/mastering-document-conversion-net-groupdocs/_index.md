@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - .NET document conversion
 - default convert options
-
+type: docs
 ---
-
-
 # Mastering Document Conversion in .NET with GroupDocs.Conversion
 
 ## Introduction

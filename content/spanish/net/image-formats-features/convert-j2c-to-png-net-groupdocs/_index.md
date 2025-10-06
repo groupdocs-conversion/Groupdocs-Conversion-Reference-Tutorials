@@ -4,8 +4,8 @@
 "title": "Cómo convertir archivos J2C a PNG en .NET con GroupDocs.Conversion&#58; guía paso a paso"
 "url": "/es/net/image-formats-features/convert-j2c-to-png-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir archivos J2C a PNG en .NET con GroupDocs.Conversion: guía paso a paso
 
 ¿Quieres convertir archivos J2C al formato PNG, el más universalmente aceptado? Muchos desarrolladores encuentran dificultades al transformar formatos de archivo especializados para aplicaciones más amplias, como la publicación web o el diseño gráfico. Este completo tutorial te guía en la conversión de archivos J2C a PNG con GroupDocs.Conversion para .NET, una potente biblioteca que simplifica los flujos de trabajo de conversión de documentos.

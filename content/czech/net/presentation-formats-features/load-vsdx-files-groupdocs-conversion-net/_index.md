@@ -4,8 +4,8 @@
 "title": "Jak načíst a převést soubory VSDX pomocí GroupDocs.Conversion .NET"
 "url": "/cs/net/presentation-formats-features/load-vsdx-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak načíst a převést soubory VSDX pomocí GroupDocs.Conversion .NET
 
 ## Zavedení

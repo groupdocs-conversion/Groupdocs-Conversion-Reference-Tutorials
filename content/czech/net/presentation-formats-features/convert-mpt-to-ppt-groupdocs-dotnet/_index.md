@@ -4,8 +4,8 @@
 "title": "Jak převést soubory MPT do formátu PPT pomocí nástroje GroupDocs.Conversion pro .NET (podrobný návod)"
 "url": "/cs/net/presentation-formats-features/convert-mpt-to-ppt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů MPT do formátu PPT pomocí nástroje GroupDocs.Conversion pro .NET
 
 ## Zavedení

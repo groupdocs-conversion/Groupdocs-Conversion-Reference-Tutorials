@@ -5,8 +5,8 @@
 "title": "TSVをPDFに変換する"
 "url": "/ja/net/file-format-conversion-tutorials/convert-tsv-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # TSVをPDFに変換する
 
 ## 導入

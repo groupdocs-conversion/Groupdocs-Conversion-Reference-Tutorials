@@ -4,8 +4,8 @@
 "title": "Efficiënte DWG naar PSD-conversie met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/cad-technical-drawing-formats/convert-dwg-psd-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Efficiënte DWG naar PSD-conversie met GroupDocs.Conversion voor .NET
 
 ## Invoering

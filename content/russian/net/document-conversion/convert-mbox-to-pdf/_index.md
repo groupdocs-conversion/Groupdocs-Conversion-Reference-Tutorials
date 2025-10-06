@@ -5,8 +5,8 @@
 "title": "Конвертировать MBOX в PDF"
 "url": "/ru/net/document-conversion/convert-mbox-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # Конвертировать MBOX в PDF
 
 ## Введение

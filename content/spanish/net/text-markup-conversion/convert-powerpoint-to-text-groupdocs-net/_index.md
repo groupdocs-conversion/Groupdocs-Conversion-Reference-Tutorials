@@ -4,8 +4,8 @@
 "title": "Convierta plantillas de PowerPoint a texto de forma eficiente con GroupDocs.Conversion para .NET"
 "url": "/es/net/text-markup-conversion/convert-powerpoint-to-text-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir plantillas de PowerPoint a texto con GroupDocs.Conversion para .NET
 
 ## Introducción

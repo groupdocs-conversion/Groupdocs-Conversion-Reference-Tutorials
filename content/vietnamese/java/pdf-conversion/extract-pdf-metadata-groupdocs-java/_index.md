@@ -4,8 +4,8 @@
 "title": "Cách trích xuất siêu dữ liệu PDF bằng GroupDocs.Conversion trong Java"
 "url": "/vi/java/pdf-conversion/extract-pdf-metadata-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Cách trích xuất siêu dữ liệu PDF bằng GroupDocs.Conversion trong Java
 
 ## Giới thiệu

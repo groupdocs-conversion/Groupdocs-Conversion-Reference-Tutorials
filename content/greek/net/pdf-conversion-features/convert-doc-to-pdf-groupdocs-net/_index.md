@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή DOC σε PDF σε .NET χρησιμοποιώντας το GroupDocs.Conversion"
 "url": "/el/net/pdf-conversion-features/convert-doc-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική μετατροπή DOC σε PDF σε .NET χρησιμοποιώντας το GroupDocs.Conversion
 
 ## Εισαγωγή

@@ -5,8 +5,8 @@
 "title": "Convertir des documents Word (macros) DOCM en PDF"
 "url": "/fr/net/file-conversion-to-pdf/convert-docm-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Convertir des documents Word (macros) DOCM en PDF
 
 ## Introduction

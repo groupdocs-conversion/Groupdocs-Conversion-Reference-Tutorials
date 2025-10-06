@@ -8,10 +8,8 @@ keywords:
 - convert VSSX to PNG
 - GroupDocs.Conversion for .NET
 - image conversion with GroupDocs
-
+type: docs
 ---
-
-
 # How to Convert VSSX Files to PNG Images Using GroupDocs.Conversion for .NET
 
 ## Introduction

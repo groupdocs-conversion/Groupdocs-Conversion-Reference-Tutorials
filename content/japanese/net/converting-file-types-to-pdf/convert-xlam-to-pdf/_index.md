@@ -5,8 +5,8 @@
 "title": "XLAMをPDFに変換する"
 "url": "/ja/net/converting-file-types-to-pdf/convert-xlam-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # XLAMをPDFに変換する
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "Come convertire i file AI in JPEG utilizzando GroupDocs.Conversion per .NET - Guida alla conversione delle immagini"
 "url": "/it/net/image-conversion/convert-ai-to-jpeg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire i file AI in JPEG utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

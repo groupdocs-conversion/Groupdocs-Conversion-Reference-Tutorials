@@ -4,8 +4,8 @@
 "title": "Konvertera PowerPoint-mallar till PNG med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/presentation-formats-features/convert-powerpoint-templates-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera PowerPoint-mallar till PNG med GroupDocs.Conversion för .NET: En steg-för-steg-guide
 
 ## Introduktion

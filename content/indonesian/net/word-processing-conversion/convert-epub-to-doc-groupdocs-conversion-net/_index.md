@@ -4,8 +4,8 @@
 "title": "Konversi EPUB ke DOC dengan GroupDocs.Conversion .NET&#58; Panduan Lengkap"
 "url": "/id/net/word-processing-conversion/convert-epub-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi EPUB ke DOC dengan GroupDocs.Conversion .NET: Panduan Lengkap
 
 ## Perkenalan

@@ -8,10 +8,8 @@ keywords:
 - convert PPSM to JPG
 - GroupDocs.Conversion for .NET
 - PPSM file conversion
-
+type: docs
 ---
-
-
 # Convert PPSM Files to JPG Using GroupDocs.Conversion in .NET
 
 ## Introduction

@@ -5,8 +5,8 @@
 "title": "OTS को PDF में बदलें"
 "url": "/hi/net/pdf-conversion/convert-ots-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # OTS को PDF में बदलें
 
 ## परिचय

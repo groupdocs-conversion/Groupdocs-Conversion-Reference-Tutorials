@@ -4,8 +4,8 @@
 "title": "RTF konvertálása PDF-be a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/pdf-conversion/convert-rtf-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # RTF fájlok PDF-be konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

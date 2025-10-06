@@ -4,8 +4,8 @@
 "title": "掌握使用 GroupDocs 在 .NET 中实现文本到演示文稿的转换——综合指南"
 "url": "/zh/net/presentation-conversion/groupdocs-net-text-ppt-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # 使用 .NET 中的 GroupDocs 掌握文本到演示文稿的转换
 
 ## 介绍

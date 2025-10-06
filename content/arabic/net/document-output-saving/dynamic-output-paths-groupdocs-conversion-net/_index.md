@@ -4,8 +4,8 @@
 "title": "مسارات الإخراج الديناميكية في .NET باستخدام GroupDocs.Conversion - دليل شامل"
 "url": "/ar/net/document-output-saving/dynamic-output-paths-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # مسارات الإخراج الديناميكية في .NET باستخدام GroupDocs.Conversion: دليل شامل
 
 ## مقدمة

@@ -5,8 +5,8 @@
 "title": "Převod ODG do PDF"
 "url": "/cs/net/document-conversion/convert-odg-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # Převod ODG do PDF
 
 ## Zavedení

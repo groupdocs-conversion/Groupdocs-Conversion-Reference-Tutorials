@@ -4,8 +4,8 @@
 "title": "GroupDocs를 사용하여 Java에서 문서 변환 진행 상황 추적하기&#58; 완벽한 가이드"
 "url": "/ko/java/conversion-events-logging/java-groupdocs-conversion-progress-listener/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs를 사용하여 Java로 문서 변환 진행 상황 추적: 완벽한 가이드
 
 ## 소개

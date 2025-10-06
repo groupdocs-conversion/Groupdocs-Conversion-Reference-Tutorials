@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak CSV'yi JSON'a Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/csv-structured-data-processing/convert-csv-json-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanarak CSV'yi JSON'a Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

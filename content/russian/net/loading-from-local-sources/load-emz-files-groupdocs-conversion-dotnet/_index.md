@@ -4,8 +4,8 @@
 "title": "Как загрузить файлы EMZ с помощью GroupDocs.Conversion для .NET? Подробное руководство"
 "url": "/ru/net/loading-from-local-sources/load-emz-files-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Как загрузить файлы EMZ с помощью GroupDocs.Conversion для .NET: подробное руководство
 
 ## Введение

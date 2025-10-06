@@ -4,8 +4,8 @@
 "title": "Převod XLTm do CSV pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/spreadsheet-formats-features/convert-xltm-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory XLTm do CSV pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

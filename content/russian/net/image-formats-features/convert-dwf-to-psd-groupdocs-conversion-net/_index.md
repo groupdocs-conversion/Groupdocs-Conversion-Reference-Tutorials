@@ -4,8 +4,8 @@
 "title": "Конвертируйте DWF в PSD с помощью GroupDocs.Conversion для .NET. Подробное руководство"
 "url": "/ru/net/image-formats-features/convert-dwf-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте DWF в PSD с помощью GroupDocs.Conversion для .NET
 
 ## Введение

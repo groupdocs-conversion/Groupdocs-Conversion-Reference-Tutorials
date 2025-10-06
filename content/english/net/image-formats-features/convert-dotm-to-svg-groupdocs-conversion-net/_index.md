@@ -8,10 +8,8 @@ keywords:
 - convert dotm to svg
 - GroupDocs.Conversion .NET
 - .NET document conversion
-
+type: docs
 ---
-
-
 # Convert DOTM to SVG Using GroupDocs.Conversion in .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "SXC konvertálása HTML-re – zökkenőmentes integráció a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/web-markup-formats/convert-sxc-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # SXC fájlok konvertálása HTML-be a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

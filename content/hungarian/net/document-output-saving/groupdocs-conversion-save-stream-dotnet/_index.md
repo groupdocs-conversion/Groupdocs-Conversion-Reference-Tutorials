@@ -4,8 +4,8 @@
 "title": "Fájlok mentése streambe a GroupDocs.Conversion használatával .NET-ben | Lépésről lépésre útmutató"
 "url": "/hu/net/document-output-saving/groupdocs-conversion-save-stream-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET implementálása: Konvertált fájl mentése egy adatfolyamba
 
 ## Bevezetés

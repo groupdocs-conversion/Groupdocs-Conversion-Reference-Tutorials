@@ -8,10 +8,8 @@ keywords:
 - convert PPT to TeX
 - GroupDocs.Conversion for .NET
 - LaTeX format conversion
-
+type: docs
 ---
-
-
 # How to Convert PowerPoint Presentations (PPT) to TeX Using GroupDocs.Conversion for .NET
 
 ## Introduction

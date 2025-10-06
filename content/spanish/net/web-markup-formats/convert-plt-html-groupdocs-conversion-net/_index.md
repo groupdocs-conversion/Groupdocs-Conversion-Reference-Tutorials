@@ -4,8 +4,8 @@
 "title": "Convertir PLT a HTML con GroupDocs.Conversion para .NET | Guía paso a paso"
 "url": "/es/net/web-markup-formats/convert-plt-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convierta archivos PLT a HTML con GroupDocs.Conversion para .NET
 
 ## Introducción

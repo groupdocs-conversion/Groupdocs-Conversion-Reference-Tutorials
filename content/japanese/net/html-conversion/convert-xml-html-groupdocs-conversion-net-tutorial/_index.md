@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET を使用して XML を HTML に変換する完全ガイド"
 "url": "/ja/net/html-conversion/convert-xml-html-groupdocs-conversion-net-tutorial/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET で XML を HTML に変換する: 完全ガイド
 
 ## 導入

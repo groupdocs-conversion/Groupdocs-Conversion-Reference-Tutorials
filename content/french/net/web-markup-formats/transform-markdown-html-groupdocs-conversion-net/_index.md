@@ -4,8 +4,8 @@
 "title": "Convertissez du Markdown en HTML avec GroupDocs.Conversion pour .NET - Un guide complet"
 "url": "/fr/net/web-markup-formats/transform-markdown-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir du Markdown en HTML avec GroupDocs.Conversion pour .NET : Guide complet
 
 ## Introduction

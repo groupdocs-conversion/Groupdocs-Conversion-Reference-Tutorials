@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion을 사용한 .NET IFC에서 XLSX로의 변환 마스터하기&#58; 종합 가이드"
 "url": "/ko/net/spreadsheet-conversion/net-ifc-to-xlsx-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용한 .NET IFC에서 XLSX로의 변환 마스터하기: 종합 가이드
 
 ## 소개

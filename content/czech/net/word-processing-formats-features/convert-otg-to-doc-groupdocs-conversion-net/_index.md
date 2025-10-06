@@ -4,8 +4,8 @@
 "title": "Převod OTG do DOC pomocí GroupDocs.Conversion .NET – Podrobný návod"
 "url": "/cs/net/word-processing-formats-features/convert-otg-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod OTG do DOC pomocí GroupDocs.Conversion .NET: Podrobný návod
 
 ## Zavedení

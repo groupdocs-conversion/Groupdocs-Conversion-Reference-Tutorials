@@ -4,8 +4,8 @@
 "title": "Konvertera ODP till HTML med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/html-conversion/convert-odp-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera ODP till HTML med GroupDocs.Conversion för .NET: En steg-för-steg-guide
 
 ## Introduktion

@@ -5,8 +5,8 @@
 "title": "將 OTS 轉換為 PDF"
 "url": "/zh-hant/net/pdf-conversion/convert-ots-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # 將 OTS 轉換為 PDF
 
 ## 介紹

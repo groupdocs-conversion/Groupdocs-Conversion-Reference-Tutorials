@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Learn how to convert PowerPoint presentations (PPTX) to PDF format using GroupDocs.Conversion for .NET. Easy and efficient conversion process.
 weight: 29
 url: /net/pdf-conversion/convert-pptx-to-pdf/
+type: docs
 ---
-
 # Convert PPTX to PDF
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion for .NET
 - document conversions in .NET
 - possible document formats
-
+type: docs
 ---
-
-
 # Master Document Conversions in .NET Using GroupDocs.Conversion
 ## Introduction
 Struggling with document conversions within your .NET applications? You're not alone. Many developers face the challenge of efficiently determining which formats a document can be converted into. **GroupDocs.Conversion for .NET** offers seamless integration and robust functionality, making it an essential tool for enhancing application capabilities.

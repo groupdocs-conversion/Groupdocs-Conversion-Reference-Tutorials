@@ -8,10 +8,8 @@ keywords:
 - convert DOCM to XLSX
 - GroupDocs.Conversion for .NET
 - .NET document conversion
-
+type: docs
 ---
-
-
 # Convert DOCM to XLSX in .NET: A Complete Guide Using GroupDocs.Conversion
 
 ## Introduction

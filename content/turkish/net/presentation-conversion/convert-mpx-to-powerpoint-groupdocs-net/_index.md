@@ -4,8 +4,8 @@
 "title": "MPX Dosyalarını GroupDocs for .NET Kullanarak PowerPoint'e Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/presentation-conversion/convert-mpx-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # MPX Dosyalarını .NET için GroupDocs Kullanarak PowerPoint'e Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

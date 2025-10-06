@@ -4,8 +4,8 @@
 "title": "RedisとGroupDocs.Conversionを使用してJavaでカスタムキャッシュを実装する方法"
 "url": "/ja/java/cache-management/custom-cache-redis-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # RedisとGroupDocs.Conversionを使用してJavaでカスタムキャッシュを実装する方法
 
 ## 導入

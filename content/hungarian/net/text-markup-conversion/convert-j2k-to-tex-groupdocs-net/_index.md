@@ -4,8 +4,8 @@
 "title": "JPEG 2000 (J2K) fájlok konvertálása LaTeX (TEX) fájlokká a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/text-markup-conversion/convert-j2k-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # JPEG 2000 (.j2k) fájlok konvertálása LaTeX (.tex) formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

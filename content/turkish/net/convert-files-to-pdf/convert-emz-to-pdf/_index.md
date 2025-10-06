@@ -5,8 +5,8 @@
 "title": "EMZ Geliştirilmiş Meta Dosyalarını PDF'ye Dönüştür"
 "url": "/tr/net/convert-files-to-pdf/convert-emz-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # EMZ Geliştirilmiş Meta Dosyalarını PDF'ye Dönüştür
 
 ## giriiş

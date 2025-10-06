@@ -4,8 +4,8 @@
 "title": "Convertir EML a PDF en .NET con desplazamiento de zona horaria&#58; una guía completa con GroupDocs.Conversion"
 "url": "/es/net/email-formats-features/convert-eml-pdf-net-timezone-offset-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Convertir EML a PDF en .NET con desplazamiento de zona horaria: una guía completa con GroupDocs.Conversion
 ## Introducción
 ¿Necesita una forma fiable de convertir documentos de correo electrónico (EML) a PDF y conservar la información precisa de la zona horaria? Ya sea para archivar, compartir o para cumplir con el cumplimiento normativo, este tutorial le guiará en el uso de la potente biblioteca GroupDocs.Conversion para .NET. Aprenderá a implementar fácilmente funciones avanzadas, como la diferencia horaria.

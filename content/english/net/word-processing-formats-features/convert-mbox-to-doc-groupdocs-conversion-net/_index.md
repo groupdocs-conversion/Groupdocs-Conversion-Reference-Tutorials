@@ -8,10 +8,8 @@ keywords:
 - convert MBOX to DOC
 - GroupDocs.Conversion for .NET
 - MBOX file conversion
-
+type: docs
 ---
-
-
 # How to Convert MBOX Files to DOC Using GroupDocs.Conversion for .NET (2023 Guide)
 
 ## Introduction

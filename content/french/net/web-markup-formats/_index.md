@@ -3,8 +3,8 @@
 "title": "Tutoriels sur les formats Web et de balisage pour GroupDocs.Conversion .NET"
 "url": "/fr/net/web-markup-formats/"
 "weight": 19
+type: docs
 ---
-
 # Tutoriels sur les formats Web et de balisage pour GroupDocs.Conversion .NET
 
 Nos tutoriels de conversion de formats web offrent des conseils complets pour utiliser les langages de balisage dans les applications .NET. Ces guides pas à pas expliquent comment convertir des documents vers et depuis le format HTML, ajouter une numérotation de page aux documents web, gérer le style CSS, gérer les ressources intégrées, implémenter des mises en page responsives, contrôler l'incorporation d'images, préserver les hyperliens et préserver la structure des documents. Chaque tutoriel inclut des exemples complets de code C# pour des scénarios de conversion de formats web, vous aidant à créer des applications capables de combler efficacement l'écart entre les formats de documents et le contenu web.

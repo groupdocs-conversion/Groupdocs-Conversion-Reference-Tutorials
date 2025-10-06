@@ -4,8 +4,8 @@
 "title": "Dokumentumok konvertálása adatfolyamokból Java-ban a GroupDocs.Conversion használatával"
 "url": "/hu/java/document-operations/convert-documents-streams-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Dokumentumok konvertálása adatfolyamokból Java-ban a GroupDocs.Conversion használatával
 
 ## Bevezetés

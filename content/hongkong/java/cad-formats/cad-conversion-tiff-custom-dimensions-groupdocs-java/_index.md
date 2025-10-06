@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion Java 將 CAD 轉換為具有自訂尺寸的 TIFF 綜合指南"
 "url": "/zh-hant/java/cad-formats/cad-conversion-tiff-custom-dimensions-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion Java 將 CAD 轉換為具有自訂尺寸的 TIFF：綜合指南
 
 ## 介紹

@@ -4,8 +4,8 @@
 "title": "Αυτοματοποιήστε τη μετατροπή από Excel σε LaTeX χρησιμοποιώντας το GroupDocs.Conversion for .NET™; Ένας πλήρης οδηγός"
 "url": "/el/net/spreadsheet-formats-features/groupdocs-conversion-net-excel-to-latex/"
 "weight": 1
+type: docs
 ---
-
 # Αυτοματοποιήστε μακροεντολές Excel σε LaTeX με το GroupDocs
 
 ## Εισαγωγή

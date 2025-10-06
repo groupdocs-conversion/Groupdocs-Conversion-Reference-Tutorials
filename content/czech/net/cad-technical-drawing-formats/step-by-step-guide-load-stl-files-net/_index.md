@@ -4,8 +4,8 @@
 "title": "Podrobný návod&#58; Načtení a převod souborů STL pomocí nástroje GroupDocs.Conversion pro .NET"
 "url": "/cs/net/cad-technical-drawing-formats/step-by-step-guide-load-stl-files-net/"
 "weight": 1
+type: docs
 ---
-
 # Podrobný návod: Načítání a převod souborů STL pomocí .NET
 
 ## Zavedení

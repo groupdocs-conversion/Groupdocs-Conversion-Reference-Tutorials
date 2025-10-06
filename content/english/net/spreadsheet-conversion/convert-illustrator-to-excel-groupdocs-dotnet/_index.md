@@ -8,10 +8,8 @@ keywords:
 - convert AI to Excel
 - AI file conversion with GroupDocs
 - Excel format conversion using .NET
-
+type: docs
 ---
-
-
 # How to Convert Adobe Illustrator Files to Excel Format Using GroupDocs.Conversion for .NET
 
 ## Introduction

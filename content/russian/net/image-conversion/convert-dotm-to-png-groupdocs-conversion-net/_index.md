@@ -4,8 +4,8 @@
 "title": "Конвертируйте шаблоны Word (.dotm) в PNG с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/image-conversion/convert-dotm-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте шаблоны Word в изображения PNG с помощью GroupDocs.Conversion для .NET
 
 ## Введение

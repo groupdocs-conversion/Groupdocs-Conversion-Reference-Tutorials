@@ -4,8 +4,8 @@
 "title": "Átfogó útmutató a DOCM PDF-be konvertálásához a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/pdf-conversion/convert-docm-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató a DOCM PDF-be konvertálásához a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

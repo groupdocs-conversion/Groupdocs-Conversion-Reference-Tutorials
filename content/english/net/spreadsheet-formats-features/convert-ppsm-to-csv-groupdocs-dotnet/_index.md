@@ -8,10 +8,8 @@ keywords:
 - convert PPSM to CSV
 - GroupDocs.Conversion for .NET
 - data extraction from PowerPoint
-
+type: docs
 ---
-
-
 # How to Convert PowerPoint Slide Show (.PPSM) to CSV Using GroupDocs.Conversion for .NET
 
 ## Introduction

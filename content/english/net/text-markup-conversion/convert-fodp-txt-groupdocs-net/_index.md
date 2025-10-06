@@ -8,10 +8,8 @@ keywords:
 - Convert FODP to TXT
 - GroupDocs.Conversion for .NET
 - OpenDocument Flat XML Presentation
-
+type: docs
 ---
-
-
 # Convert FODP Files to TXT Using GroupDocs.Conversion in .NET
 
 ## Introduction

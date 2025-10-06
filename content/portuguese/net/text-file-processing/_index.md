@@ -3,8 +3,8 @@
 "title": "Tutoriais de processamento de arquivos de texto para GroupDocs.Conversion .NET"
 "url": "/pt/net/text-file-processing/"
 "weight": 17
+type: docs
 ---
-
 # Tutoriais de processamento de arquivos de texto para GroupDocs.Conversion .NET
 
 Nossos tutoriais de conversão de arquivos de texto mostram como trabalhar com conteúdo de texto simples usando o GroupDocs.Conversion em .NET. Estes guias detalhados explicam como controlar o comportamento dos espaços à esquerda e à direita durante a conversão de texto, especificar opções de codificação para arquivos de texto, preservar a formatação quando possível, lidar com quebras de linha e caracteres especiais, implementar políticas de quebra de texto, configurar a paginação para texto convertido e gerenciar requisitos de texto bidirecional. Cada tutorial inclui exemplos práticos de código C# para cenários de conversão de arquivos de texto, ajudando você a criar aplicativos que processem texto simples com eficiência, mantendo a legibilidade e a estrutura da saída.

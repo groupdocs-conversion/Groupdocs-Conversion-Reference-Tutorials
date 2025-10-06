@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert POTM to TXT Using GroupDocs.Conversion for .NET
 
 **Efficient Document Conversion in .NET with GroupDocs.Conversion**

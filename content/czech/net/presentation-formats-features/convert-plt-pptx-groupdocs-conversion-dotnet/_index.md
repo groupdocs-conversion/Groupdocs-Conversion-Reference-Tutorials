@@ -4,8 +4,8 @@
 "title": "Jak převést soubory PLT do formátu PPTX pomocí nástroje GroupDocs.Conversion pro .NET"
 "url": "/cs/net/presentation-formats-features/convert-plt-pptx-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory PLT do formátu PPTX pomocí nástroje GroupDocs.Conversion pro .NET
 
 ## Zavedení

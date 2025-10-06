@@ -4,8 +4,8 @@
 "title": "Visio VSSX Dosyalarını GroupDocs.Conversion .NET API ile Kolayca TXT'ye Dönüştürün"
 "url": "/tr/net/text-markup-conversion/convert-vssx-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET API'sini Kullanarak Visio VSSX Dosyalarını TXT'ye Dönüştürme
 
 ## giriiş

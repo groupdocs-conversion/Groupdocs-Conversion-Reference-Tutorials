@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 載入 EMZ 檔案－綜合指南"
 "url": "/zh-hant/net/loading-from-local-sources/load-emz-files-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 載入 EMZ 檔案：綜合指南
 
 ## 介紹

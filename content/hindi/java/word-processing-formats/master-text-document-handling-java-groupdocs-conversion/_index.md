@@ -4,8 +4,8 @@
 "title": "Java में मास्टर टेक्स्ट दस्तावेज़ हैंडलिंग&#58; निर्बाध एन्कोडिंग और पीडीएफ रूपांतरण के लिए GroupDocs.Conversion का उपयोग करना"
 "url": "/hi/java/word-processing-formats/master-text-document-handling-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion के साथ Java में टेक्स्ट डॉक्यूमेंट हैंडलिंग में महारत हासिल करना
 
 ## परिचय

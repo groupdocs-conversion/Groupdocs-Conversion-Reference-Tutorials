@@ -4,8 +4,8 @@
 "title": "CSV-DOC konvertálás automatizálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/spreadsheet-formats-features/automate-csv-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # CSV-DOC konvertálás automatizálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

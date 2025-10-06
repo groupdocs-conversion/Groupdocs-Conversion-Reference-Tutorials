@@ -5,8 +5,8 @@
 "title": "MPT'yi PDF'ye dönüştür"
 "url": "/tr/net/document-conversion/convert-mpt-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # MPT'yi PDF'ye dönüştür
 
 ## giriiş

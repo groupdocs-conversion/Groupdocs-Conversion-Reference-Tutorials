@@ -4,8 +4,8 @@
 "title": "CMX PSD-vé konvertálása .NET és GroupDocs használatával. Conversion – Átfogó útmutató"
 "url": "/hu/net/image-formats-features/net-cmx-to-psd-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # CMX PSD-vé konvertálása .NET és GroupDocs.Conversion használatával: Átfogó útmutató
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Converti CGM in HTML facilmente con GroupDocs.Conversion per .NET"
 "url": "/it/net/html-conversion/convert-cgm-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converti CGM in HTML facilmente con GroupDocs.Conversion per .NET
 
 ## Introduzione

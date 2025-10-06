@@ -3,8 +3,8 @@
 "title": "Hướng dẫn về Watermark và Annotations cho GroupDocs.Conversion Java"
 "url": "/vi/java/watermarks-annotations/"
 "weight": 20
+type: docs
 ---
-
 # Hướng dẫn về Watermark và Annotations cho GroupDocs.Conversion Java
 
 Khám phá khả năng chú thích và đóng dấu mờ với hướng dẫn toàn diện GroupDocs.Conversion dành cho Java của chúng tôi. Các hướng dẫn từng bước này trình bày cách thêm hình mờ văn bản và hình ảnh trong quá trình chuyển đổi, bảo toàn các chú thích hiện có, kiểm soát khả năng hiển thị chú thích, triển khai hình mờ động dựa trên siêu dữ liệu và quản lý các dấu biên tập trong các tài liệu nhạy cảm. Mỗi hướng dẫn đều bao gồm các ví dụ mã Java thực tế cho các tình huống đóng dấu mờ và chú thích, giúp bạn xây dựng các ứng dụng duy trì các yếu tố trực quan quan trọng và các dấu biên tập trong quá trình chuyển đổi định dạng.

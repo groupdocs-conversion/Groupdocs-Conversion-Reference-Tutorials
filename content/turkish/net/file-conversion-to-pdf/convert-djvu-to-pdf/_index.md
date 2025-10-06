@@ -5,8 +5,8 @@
 "title": "DJVU Belgelerini PDF'ye Dönüştür"
 "url": "/tr/net/file-conversion-to-pdf/convert-djvu-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # DJVU Belgelerini PDF'ye Dönüştür
 
 ## giriiş

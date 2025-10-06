@@ -4,8 +4,8 @@
 "title": "Kapsamlı Kılavuz&#58; .NET için GroupDocs.Conversion'ı Kullanarak BMP'yi HTML'ye Dönüştürme"
 "url": "/tr/net/html-conversion/convert-bmp-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Kapsamlı Kılavuz: GroupDocs.Conversion for .NET kullanarak BMP'yi HTML'ye dönüştürme
 
 ## giriiş

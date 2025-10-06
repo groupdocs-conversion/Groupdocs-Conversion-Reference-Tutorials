@@ -4,8 +4,8 @@
 "title": "使用 .NET 中的 GroupDocs.Conversion 有效地將日誌文件轉換為 Word 文檔"
 "url": "/zh-hant/net/word-processing-formats-features/convert-log-files-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 .NET 中的 GroupDocs.Conversion 有效地將日誌文件轉換為 Word 文檔
 
 ## 介紹

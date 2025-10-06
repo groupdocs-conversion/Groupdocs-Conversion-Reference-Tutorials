@@ -4,8 +4,8 @@
 "title": "Converti in modo efficiente i file di registro in PowerPoint utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/presentation-conversion/convert-log-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converti in modo efficiente i file di registro in PowerPoint utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

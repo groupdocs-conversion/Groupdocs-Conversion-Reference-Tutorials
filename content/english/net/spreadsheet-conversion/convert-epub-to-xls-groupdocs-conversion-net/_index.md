@@ -8,10 +8,8 @@ keywords:
 - convert EPUB to XLS GroupDocs.Conversion for .NET
 - GroupDocs.Conversion library .NET
 - EPUB file conversion to XLS
-
+type: docs
 ---
-
-
 # Convert EPUB to XLS Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

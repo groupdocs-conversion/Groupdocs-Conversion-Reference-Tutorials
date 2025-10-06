@@ -5,8 +5,8 @@
 "title": "PPSX को PDF में बदलें"
 "url": "/hi/net/pdf-conversion/convert-ppsx-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # PPSX को PDF में बदलें
 
 ## परिचय

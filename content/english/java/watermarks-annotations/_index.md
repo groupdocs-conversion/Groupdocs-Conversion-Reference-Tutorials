@@ -3,8 +3,8 @@ title: "Watermarks and Annotations Tutorials for GroupDocs.Conversion Java"
 description: "Learn to add and manage watermarks and handle document annotations during conversion with GroupDocs.Conversion Java tutorials."
 weight: 20
 url: "/java/watermarks-annotations/"
+type: docs
 ---
-
 # Watermarks and Annotations Tutorials for GroupDocs.Conversion Java
 
 Explore annotation and watermarking capabilities with our comprehensive GroupDocs.Conversion tutorials for Java. These step-by-step guides demonstrate how to add text and image watermarks during conversion, preserve existing annotations, control annotation visibility, implement dynamic watermarking based on metadata, and manage redaction marks in sensitive documents. Each tutorial includes practical Java code examples for watermarking and annotation scenarios, helping you build applications that maintain important visual elements and editorial marks during format transformation.

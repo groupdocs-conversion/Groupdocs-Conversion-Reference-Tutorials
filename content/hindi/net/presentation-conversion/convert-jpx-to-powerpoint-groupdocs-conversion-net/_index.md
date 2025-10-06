@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके JPX को PowerPoint में कनवर्ट करें एक चरण-दर-चरण मार्गदर्शिका"
 "url": "/hi/net/presentation-conversion/convert-jpx-to-powerpoint-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके JPX को PowerPoint में कनवर्ट करें: एक चरण-दर-चरण मार्गदर्शिका
 
 आज के डिजिटल युग में, मीटिंग या कॉन्फ़्रेंस के लिए विज़ुअल कंटेंट तैयार करने के लिए इमेज फ़ाइलों को प्रेजेंटेशन फ़ॉर्मेट में बदलना ज़रूरी है। यह गाइड आपको .NET के लिए GroupDocs.Conversion का उपयोग करके JPEG 2000 इमेज फ़ाइलें (.jpx) को PowerPoint (PPT) प्रेजेंटेशन में आसानी से बदलने की प्रक्रिया से गुज़ारेगी।

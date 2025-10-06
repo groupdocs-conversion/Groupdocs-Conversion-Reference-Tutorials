@@ -4,8 +4,8 @@
 "title": "Master PDF naar DOCX-conversie in .NET met behulp van GroupDocs.Conversion"
 "url": "/nl/net/word-processing-conversion/pdf-to-docx-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Beheer PDF naar DOCX-conversie met GroupDocs.Conversion voor .NET
 
 ## Invoering

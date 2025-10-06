@@ -4,8 +4,8 @@
 "title": "Мастер преобразования вложений электронной почты .NET с помощью библиотеки GroupDocs.Conversion Library&#58; Полное руководство"
 "url": "/ru/net/email-formats-features/net-email-attachment-conversion-groupdocs-guide/"
 "weight": 1
+type: docs
 ---
-
 # Мастер преобразования вложений электронных писем .NET с помощью библиотеки GroupDocs.Conversion
 
 ## Введение

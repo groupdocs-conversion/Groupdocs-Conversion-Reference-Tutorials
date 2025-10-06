@@ -5,8 +5,8 @@
 "title": "Převod PPSX do PDF"
 "url": "/cs/net/pdf-conversion/convert-ppsx-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # Převod PPSX do PDF
 
 ## Zavedení

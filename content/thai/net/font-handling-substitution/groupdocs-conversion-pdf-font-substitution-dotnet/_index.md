@@ -4,8 +4,8 @@
 "title": "เรียนรู้การแทนที่ฟอนต์ PDF ใน .NET ด้วย GroupDocs.Conversion คู่มือฉบับสมบูรณ์"
 "url": "/th/net/font-handling-substitution/groupdocs-conversion-pdf-font-substitution-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # เรียนรู้การแทนที่ฟอนต์ PDF ใน .NET ด้วย GroupDocs.Conversion
 
 การทำให้มั่นใจว่าตัวอักษรมีความสม่ำเสมอระหว่างการแปลงเอกสารถือเป็นสิ่งสำคัญ คู่มือฉบับสมบูรณ์นี้สาธิตการใช้ GroupDocs.Conversion สำหรับ .NET เพื่อจัดการการแทนที่แบบอักษรอย่างมีประสิทธิภาพเมื่อแปลงเอกสารเป็น PDF

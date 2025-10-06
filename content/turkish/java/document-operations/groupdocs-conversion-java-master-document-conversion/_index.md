@@ -4,8 +4,8 @@
 "title": "Master GroupDocs.Conversion Java&#58; Java Uygulamalarında Belge Dönüştürmeye Yönelik Kapsamlı Kılavuz"
 "url": "/tr/java/document-operations/groupdocs-conversion-java-master-document-conversion/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Java'da Ustalaşma: Belge Dönüştürme Yeteneklerinin Kilidini Açın
 
 ## giriiş

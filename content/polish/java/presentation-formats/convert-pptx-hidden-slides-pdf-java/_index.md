@@ -4,8 +4,8 @@
 "title": "Efektywna konwersja PPTX ze slajdami ukrytymi do PDF w Javie przy użyciu GroupDocs.Conversion"
 "url": "/pl/java/presentation-formats/convert-pptx-hidden-slides-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Bezproblemowa konwersja PPTX ze slajdami ukrytymi do PDF w Javie przy użyciu GroupDocs.Conversion
 
 W erze cyfrowej konwersja dokumentów prezentacyjnych do powszechnie dostępnych formatów, takich jak PDF, jest powszechnym wymogiem dla programistów. Ten samouczek przeprowadzi Cię przez wydajne rozwiązanie przy użyciu **GroupDocs.Conversion dla Java** do konwersji prezentacji PowerPoint, łącznie z ukrytymi slajdami, do formatu PDF.

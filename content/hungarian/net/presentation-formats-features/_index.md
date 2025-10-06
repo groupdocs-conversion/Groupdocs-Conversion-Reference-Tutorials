@@ -3,8 +3,8 @@
 "title": "Prezentációs formátumok és funkciók – oktatóanyagok a GroupDocs.Conversion .NET-hez"
 "url": "/hu/net/presentation-formats-features/"
 "weight": 12
+type: docs
 ---
-
 # Prezentációs formátumok és funkciók – oktatóanyagok a GroupDocs.Conversion .NET-hez
 
 Prezentációkra fókuszáló oktatóanyagaink bemutatják, hogyan dolgozhat dia alapú dokumentumokkal a GroupDocs.Conversion segítségével .NET-ben. Ezek a gyakorlati útmutatók végigvezetik a PowerPoint formátumok közötti konvertáláson, a megjegyzések elrejtésén a konvertálás során, a rejtett diák be- és kikapcsolásán, a betűtípus-helyettesítési beállítások megadásán, az animációk és átmenetek megőrzésén, az előadói jegyzetek karbantartásán, a beágyazott média kezelésén és az elrendezés egységességének biztosításán a különböző prezentációs formátumok között. Minden oktatóanyag részletes C# kódpéldákat tartalmaz prezentációk konvertálására szolgáló forgatókönyvekhez, segítve olyan alkalmazások létrehozásában, amelyek kiváló minőségű konverziókat hoznak létre megőrzött vizuális elemekkel és interaktív funkciókkal.

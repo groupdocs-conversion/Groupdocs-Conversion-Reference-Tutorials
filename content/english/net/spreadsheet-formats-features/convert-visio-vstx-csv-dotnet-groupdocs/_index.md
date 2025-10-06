@@ -8,10 +8,8 @@ keywords:
 - Convert Visio VSTX to CSV in .NET
 - GroupDocs.Conversion for .NET
 - Visio to CSV conversion
-
+type: docs
 ---
-
-
 # Convert Visio VSTX to CSV in .NET Using GroupDocs: A Comprehensive Guide
 
 ## Introduction

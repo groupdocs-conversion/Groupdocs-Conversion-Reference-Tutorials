@@ -4,8 +4,8 @@
 "title": "Converta VSS para PDF com GroupDocs.Conversion para .NET - Um guia passo a passo"
 "url": "/pt/net/pdf-conversion/convert-vss-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converter VSS em PDF com GroupDocs.Conversion para .NET: um guia passo a passo
 
 ## Introdução

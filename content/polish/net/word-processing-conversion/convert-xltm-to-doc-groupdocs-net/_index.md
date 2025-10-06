@@ -4,8 +4,8 @@
 "title": "Jak konwertować pliki XLTM do plików DOC za pomocą GroupDocs.Conversion w .NET? Przewodnik krok po kroku"
 "url": "/pl/net/word-processing-conversion/convert-xltm-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak konwertować pliki XLTM do DOC za pomocą GroupDocs.Conversion w .NET: przewodnik krok po kroku
 
 ## Wstęp

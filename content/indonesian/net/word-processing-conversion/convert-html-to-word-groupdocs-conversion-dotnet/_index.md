@@ -4,8 +4,8 @@
 "title": "Konversi HTML ke Dokumen Word Menggunakan GroupDocs.Conversion dalam .NET&#58; Panduan Langkah demi Langkah"
 "url": "/id/net/word-processing-conversion/convert-html-to-word-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konversi HTML ke Dokumen Word Menggunakan GroupDocs.Conversion dalam .NET: Panduan Langkah demi Langkah
 
 ## Perkenalan

@@ -4,8 +4,8 @@
 "title": ".NET में GroupDocs.Conversion का उपयोग करके DOCX को DOC में परिवर्तित करें एक व्यापक गाइड"
 "url": "/hi/net/word-processing-formats-features/convert-docx-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion के साथ DOCX को JP2 में परिवर्तित करें
 
 ## परिचय

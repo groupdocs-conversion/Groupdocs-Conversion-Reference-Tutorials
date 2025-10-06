@@ -4,8 +4,8 @@
 "title": "Parola Korumalı DOCX'i GroupDocs.Conversion for .NET Kullanarak PPT'ye Dönüştürme"
 "url": "/tr/net/working-with-secure-documents/convert-docx-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Parola Korumalı DOCX'i GroupDocs.Conversion for .NET Kullanarak PPT'ye Dönüştürme
 
 ## giriiş

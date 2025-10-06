@@ -4,8 +4,8 @@
 "title": "Konversi Teks ke PDF Tingkat Lanjut dengan GroupDocs.Conversion Java&#58; Preserve Formatting"
 "url": "/id/java/pdf-conversion/groupdocs-conversion-java-text-to-pdf-advanced-formatting/"
 "weight": 1
+type: docs
 ---
-
 # Konversi Teks ke PDF Tingkat Lanjut dengan GroupDocs.Conversion Java: Pertahankan Pemformatan
 
 ## Perkenalan

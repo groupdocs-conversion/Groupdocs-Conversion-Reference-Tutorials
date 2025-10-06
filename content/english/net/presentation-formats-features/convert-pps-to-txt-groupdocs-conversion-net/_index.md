@@ -8,10 +8,8 @@ keywords:
 - convert PPS to TXT
 - GroupDocs.Conversion for .NET
 - PowerPoint presentations to text
-
+type: docs
 ---
-
-
 # How to Convert PPS Files to TXT Using GroupDocs.Conversion for .NET
 
 ## Introduction

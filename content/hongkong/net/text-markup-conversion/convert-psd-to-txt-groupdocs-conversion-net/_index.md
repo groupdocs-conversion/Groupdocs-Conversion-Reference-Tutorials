@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 PSD 轉換為 TXT 的綜合指南"
 "url": "/zh-hant/net/text-markup-conversion/convert-psd-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 PSD 轉換為 TXT：逐步指南
 
 ## 介紹

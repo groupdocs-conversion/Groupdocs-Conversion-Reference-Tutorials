@@ -8,10 +8,8 @@ keywords:
 - convert POTX to PNG
 - GroupDocs.Conversion for .NET
 - automate PowerPoint conversion
-
+type: docs
 ---
-
-
 # Convert POTX to PNG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

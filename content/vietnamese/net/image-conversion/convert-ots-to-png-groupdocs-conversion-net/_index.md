@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi tệp OTS sang hình ảnh PNG bằng thư viện GroupDocs.Conversion .NET"
 "url": "/vi/net/image-conversion/convert-ots-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp OTS sang hình ảnh PNG bằng thư viện GroupDocs.Conversion .NET
 
 ## Giới thiệu

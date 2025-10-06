@@ -8,10 +8,8 @@ keywords:
 - CAD to PDF conversion
 - GroupDocs.Conversion for .NET
 - PDF conversion from CAD
-
+type: docs
 ---
-
-
 # Efficient CAD to PDF Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

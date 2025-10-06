@@ -4,8 +4,8 @@
 "title": "Converteer STL-bestanden naar JPG met GroupDocs.Conversion voor .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/image-conversion/convert-stl-files-to-jpg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converteer STL-bestanden naar JPG met GroupDocs.Conversion voor .NET: een stapsgewijze handleiding
 
 ## Invoering

@@ -4,8 +4,8 @@
 "title": "DWT konvertálása DOC-ba a GroupDocs.Conversion for .NET használatával | CAD és műszaki rajzformátumok"
 "url": "/hu/net/cad-technical-drawing-formats/convert-dwt-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DWT konvertálása DOC-ba a GroupDocs.Conversion for .NET használatával
 ## Bevezetés
 Nehezen tud saját dokumentumformátumokat, például DWT-t, univerzálisan elérhető formátumokká, például DOC-ká konvertálni? Sok vállalkozás és magánszemély hasonló kihívásokkal néz szembe, amikor különböző fájltípusokat integrál a munkafolyamataiba. A szoftverplatformok közötti kompatibilitás iránti növekvő igény miatt elengedhetetlen egy megbízható konvertáló eszköz megtalálása.

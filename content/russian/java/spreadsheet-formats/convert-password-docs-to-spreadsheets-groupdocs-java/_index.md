@@ -4,8 +4,8 @@
 "title": "Как преобразовать защищенные паролем документы Word в электронные таблицы Excel с помощью GroupDocs.Conversion для Java"
 "url": "/ru/java/spreadsheet-formats/convert-password-docs-to-spreadsheets-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Как конвертировать защищенные паролем документы с помощью GroupDocs.Conversion для Java
 
 ## Введение

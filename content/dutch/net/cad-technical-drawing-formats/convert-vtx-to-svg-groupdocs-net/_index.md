@@ -4,8 +4,8 @@
 "title": "Converteer VTX naar SVG met GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/cad-technical-drawing-formats/convert-vtx-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer VTX naar SVG met GroupDocs.Conversion voor .NET: een uitgebreide handleiding
 ## Invoering
 Wilt u Visio-sjabloonbestanden (.VSTX) converteren naar schaalbare vectorafbeeldingen (SVG) in uw .NET-applicaties? Met de kracht van **GroupDocs.Conversion voor .NET**, kunt u deze bestanden eenvoudig en naadloos laden en transformeren. Deze uitgebreide handleiding begeleidt u bij het effectief beheren van VTX-bestanden met GroupDocs.Conversion.

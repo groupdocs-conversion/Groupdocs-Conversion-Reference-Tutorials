@@ -4,8 +4,8 @@
 "title": "تحويل رسائل البريد الإلكتروني إلى ملفات PDF في Java باستخدام GroupDocs.Conversion&#58; دليل الخيارات المتقدمة"
 "url": "/ar/java/pdf-conversion/convert-emails-to-pdfs-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # تحويل رسائل البريد الإلكتروني إلى ملفات PDF في Java باستخدام GroupDocs.Conversion: دليل الخيارات المتقدمة
 
 ## مقدمة

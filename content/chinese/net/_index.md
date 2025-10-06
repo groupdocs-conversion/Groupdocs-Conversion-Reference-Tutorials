@@ -5,8 +5,8 @@
 "title": "GroupDocs.Conversion for .NET 综合教程"
 "url": "/zh/net/"
 "weight": 10
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET 综合教程
 
 

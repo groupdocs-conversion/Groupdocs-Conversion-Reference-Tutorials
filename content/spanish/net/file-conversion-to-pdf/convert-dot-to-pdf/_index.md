@@ -5,8 +5,8 @@
 "title": "Convertir plantillas de Word DOT a PDF"
 "url": "/es/net/file-conversion-to-pdf/convert-dot-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # Convertir plantillas de Word DOT a PDF
 
 ## Introducción

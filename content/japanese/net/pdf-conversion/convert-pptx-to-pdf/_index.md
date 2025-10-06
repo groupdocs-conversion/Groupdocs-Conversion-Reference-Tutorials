@@ -5,8 +5,8 @@
 "title": "PPTXをPDFに変換する"
 "url": "/ja/net/pdf-conversion/convert-pptx-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # PPTXをPDFに変換する
 
 ## 導入

@@ -8,10 +8,8 @@ keywords:
 - convert EPUB to PPTX
 - EPUB to PowerPoint conversion
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # Convert EPUB to PPTX in C# Using GroupDocs.Conversion for .NET
 
 ## Introduction

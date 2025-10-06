@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi File OTS ke Gambar PNG Menggunakan Pustaka GroupDocs.Conversion .NET"
 "url": "/id/net/image-conversion/convert-ots-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi File OTS ke Gambar PNG Menggunakan Pustaka GroupDocs.Conversion .NET
 
 ## Perkenalan

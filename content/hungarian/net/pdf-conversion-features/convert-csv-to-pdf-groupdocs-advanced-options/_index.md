@@ -4,8 +4,8 @@
 "title": "CSV konvertálása PDF-be .NET-ben – Speciális beállítások a GroupDocs.Conversion segítségével"
 "url": "/hu/net/pdf-conversion-features/convert-csv-to-pdf-groupdocs-advanced-options/"
 "weight": 1
+type: docs
 ---
-
 # CSV konvertálása PDF-be .NET-ben: Speciális beállítások a GroupDocs.Conversion segítségével
 
 ## Bevezetés

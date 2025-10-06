@@ -4,8 +4,8 @@
 "title": "OTG DOCX formátumba konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/word-processing-formats-features/convert-otg-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OTG DOCX formátumba konvertálása a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

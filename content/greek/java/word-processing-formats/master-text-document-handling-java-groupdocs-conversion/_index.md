@@ -4,8 +4,8 @@
 "title": "Χειρισμός εγγράφων κύριου κειμένου σε Java χρησιμοποιώντας το GroupDocs.Conversion για απρόσκοπτη κωδικοποίηση και μετατροπή PDF"
 "url": "/el/java/word-processing-formats/master-text-document-handling-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Εξοικείωση με τον χειρισμό εγγράφων κειμένου σε Java με το GroupDocs.Conversion
 
 ## Εισαγωγή

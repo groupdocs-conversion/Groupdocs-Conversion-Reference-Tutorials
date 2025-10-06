@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET을 위한 클라우드 스토리지 튜토리얼에서 문서 로드"
 "url": "/ko/net/loading-from-cloud-storage/"
 "weight": 4
+type: docs
 ---
-
 # GroupDocs.Conversion .NET을 위한 클라우드 스토리지 튜토리얼에서 문서 로드
 
 클라우드 스토리지 튜토리얼은 .NET 애플리케이션에서 GroupDocs.Conversion을 인기 있는 클라우드 스토리지 플랫폼과 통합하는 방법을 보여줍니다. 이 상세한 가이드는 Amazon S3 버킷 연결, Azure Blob Storage 컨테이너 액세스, 적절한 자격 증명 구성, 지역별 설정 처리, 연결 풀링 관리, 클라우드 운영을 위한 재시도 로직 구현 등을 단계별로 안내합니다. 각 튜토리얼에는 클라우드 문서 검색 시나리오에 대한 실용적인 C# 코드 예제가 포함되어 있어 변환 워크플로에서 클라우드 기반 문서 저장소를 활용하는 강력한 애플리케이션을 구축하는 데 도움이 됩니다.

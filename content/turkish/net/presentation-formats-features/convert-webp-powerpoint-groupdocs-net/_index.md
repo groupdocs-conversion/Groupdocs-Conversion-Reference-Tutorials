@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak WebP Görüntüleri PowerPoint'e Nasıl Dönüştürülür"
 "url": "/tr/net/presentation-formats-features/convert-webp-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak WebP Görüntüleri PowerPoint'e Nasıl Dönüştürülür
 
 ## giriiş

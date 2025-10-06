@@ -5,8 +5,8 @@
 "title": "DOTM Word Şablonlarını (Makrolar) PDF'ye Dönüştür"
 "url": "/tr/net/file-conversion-to-pdf/convert-dotm-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # DOTM Word Şablonlarını (Makrolar) PDF'ye Dönüştür
 
 ## giriiş

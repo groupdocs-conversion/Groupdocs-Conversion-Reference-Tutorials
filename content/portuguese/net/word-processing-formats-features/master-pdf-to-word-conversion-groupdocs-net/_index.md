@@ -4,8 +4,8 @@
 "title": "Conversão de PDF para Word com o GroupDocs.Conversion para .NET | Guia Completo"
 "url": "/pt/net/word-processing-formats-features/master-pdf-to-word-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Dominando a conversão de PDF para Word com GroupDocs.Conversion para .NET
 
 ## Introdução

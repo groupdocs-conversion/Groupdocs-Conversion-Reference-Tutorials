@@ -4,8 +4,8 @@
 "title": "將 MOBI 轉換為 PPTX — 使用 GroupDocs.Conversion for .NET 的逐步指南"
 "url": "/zh-hant/net/presentation-conversion/convert-mobi-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 將 MOBI 轉換為 PPTX：使用 GroupDocs.Conversion for .NET 的逐步指南
 
 ## 介紹

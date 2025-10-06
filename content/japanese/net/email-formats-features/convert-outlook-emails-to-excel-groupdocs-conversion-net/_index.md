@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して Outlook メールを Excel に効率的に変換する"
 "url": "/ja/net/email-formats-features/convert-outlook-emails-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して Microsoft Outlook のメールを Excel スプレッドシートに簡単に変換する
 
 ## 導入

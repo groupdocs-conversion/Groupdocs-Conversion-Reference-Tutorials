@@ -8,10 +8,8 @@ keywords:
 - PSD to HTML conversion
 - GroupDocs.Conversion for .NET
 - web-friendly HTML formats
-
+type: docs
 ---
-
-
 # Convert PSD to HTML Using GroupDocs.Conversion in .NET: A Developer's Guide
 
 ## Introduction

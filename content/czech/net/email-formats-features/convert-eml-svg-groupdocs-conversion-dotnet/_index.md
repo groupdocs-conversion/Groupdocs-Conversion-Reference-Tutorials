@@ -4,8 +4,8 @@
 "title": "Převod EML do SVG pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/email-formats-features/convert-eml-svg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod EML do SVG pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "Jak převést MHTML na text v C# pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/text-file-processing/convert-mhtml-text-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést MHTML na text v C# pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "OST 파일을 위한 GroupDocs.Conversion .NET 구성 방법 - 전체 가이드"
 "url": "/ko/net/storage-files-pst-processing/configuring-groupdocs-conversion-dotnet-ost-files/"
 "weight": 1
+type: docs
 ---
-
 # 포괄적인 튜토리얼: OST 파일 처리를 위한 GroupDocs.Conversion .NET 구성
 
 ## 소개

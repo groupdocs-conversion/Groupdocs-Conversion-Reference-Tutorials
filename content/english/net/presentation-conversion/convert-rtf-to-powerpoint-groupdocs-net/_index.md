@@ -8,10 +8,8 @@ keywords:
 - Convert RTF to PowerPoint
 - GroupDocs.Conversion .NET
 - Presentation Conversion
-
+type: docs
 ---
-
-
 # Convert RTF to PowerPoint Using GroupDocs.Conversion .NET
 
 ## Introduction

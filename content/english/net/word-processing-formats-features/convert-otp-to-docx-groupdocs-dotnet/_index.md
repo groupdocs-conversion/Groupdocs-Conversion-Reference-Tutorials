@@ -8,10 +8,8 @@ keywords:
 - convert OTP to DOCX
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Convert OTP to DOCX Using GroupDocs for .NET: A Step-by-Step Guide
 
 ## Introduction

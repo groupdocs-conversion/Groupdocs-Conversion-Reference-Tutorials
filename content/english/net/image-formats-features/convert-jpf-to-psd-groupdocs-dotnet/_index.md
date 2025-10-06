@@ -8,10 +8,8 @@ keywords:
 - JPF to PSD conversion
 - GroupDocs.Conversion .NET
 - image file conversion
-
+type: docs
 ---
-
-
 # Step-by-Step Guide: Convert JPF to PSD Using GroupDocs.Conversion in .NET
 
 **Efficiently Convert Images from JPF to PSD with GroupDocs.Conversion for .NET**

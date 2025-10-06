@@ -4,8 +4,8 @@
 "title": "การแปลง XLSB เป็น PSD อย่างมีประสิทธิภาพใน .NET โดยใช้ GroupDocs.Conversion API"
 "url": "/th/net/image-formats-features/xlsb-to-psd-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # การแปลง XLSB เป็น PSD อย่างมีประสิทธิภาพใน .NET โดยใช้ GroupDocs.Conversion API
 
 ## การแนะนำ

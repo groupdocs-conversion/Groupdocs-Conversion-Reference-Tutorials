@@ -5,8 +5,8 @@
 "title": "แปลง MOBI เป็น PDF"
 "url": "/th/net/document-conversion/convert-mobi-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # แปลง MOBI เป็น PDF
 
 ## การแนะนำ

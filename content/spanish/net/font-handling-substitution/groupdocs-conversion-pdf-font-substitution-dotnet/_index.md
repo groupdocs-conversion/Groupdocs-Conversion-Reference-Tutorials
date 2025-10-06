@@ -4,8 +4,8 @@
 "title": "Domine la sustitución de fuentes PDF en .NET con GroupDocs.Conversion&#58; una guía completa"
 "url": "/es/net/font-handling-substitution/groupdocs-conversion-pdf-font-substitution-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Domine la sustitución de fuentes PDF en .NET con GroupDocs.Conversion
 
 Garantizar una tipografía consistente durante la conversión de documentos es fundamental. Esta guía completa muestra cómo usar GroupDocs.Conversion para .NET para gestionar eficazmente la sustitución de fuentes al convertir documentos a PDF.

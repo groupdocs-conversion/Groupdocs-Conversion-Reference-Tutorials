@@ -4,8 +4,8 @@
 "title": "Chuyển đổi VCF sang PPTX dễ dàng với GroupDocs.Conversion cho .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/presentation-conversion/convert-vcf-pptx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi VCF sang PPTX dễ dàng với GroupDocs.Conversion cho .NET: Hướng dẫn từng bước
 
 ## Giới thiệu

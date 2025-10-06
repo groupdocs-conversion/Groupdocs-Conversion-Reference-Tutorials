@@ -5,8 +5,8 @@
 "title": "แปลง PPSM เป็น PDF"
 "url": "/th/net/pdf-conversion/convert-ppsm-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # แปลง PPSM เป็น PDF
 
 ## การแนะนำ

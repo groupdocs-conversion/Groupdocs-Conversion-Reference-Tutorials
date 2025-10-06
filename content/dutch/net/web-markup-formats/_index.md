@@ -3,8 +3,8 @@
 "title": "Zelfstudies over web- en opmaakformaten voor GroupDocs.Conversion .NET"
 "url": "/nl/net/web-markup-formats/"
 "weight": 19
+type: docs
 ---
-
 # Zelfstudies over web- en opmaakformaten voor GroupDocs.Conversion .NET
 
 Onze tutorials over webformaatconversie bieden uitgebreide begeleiding bij het werken met opmaaktalen in .NET-applicaties. Deze stapsgewijze handleidingen laten zien hoe u documenten van en naar HTML-formaten kunt converteren, paginanummering aan webdocumenten kunt toevoegen, CSS-stijlen kunt gebruiken, ingebedde bronnen kunt beheren, responsieve lay-outs kunt implementeren, het gedrag van ingesloten afbeeldingen kunt bepalen, hyperlinks kunt behouden en de documentstructuur kunt behouden. Elke tutorial bevat complete C#-codevoorbeelden voor scenario's voor webformaatconversie, waarmee u applicaties kunt bouwen die effectief de kloof tussen documentformaten en webcontent kunnen overbruggen.

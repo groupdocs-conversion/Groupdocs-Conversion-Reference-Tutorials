@@ -5,8 +5,8 @@
 "title": "VDW konvertálása PDF-be"
 "url": "/hu/net/file-format-conversion-tutorials/convert-vdw-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # VDW konvertálása PDF-be
 
 ## Bevezetés

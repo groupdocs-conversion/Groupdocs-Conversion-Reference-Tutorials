@@ -4,8 +4,8 @@
 "title": "Konversi DOCX yang Dilindungi Kata Sandi ke PPT Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/working-with-secure-documents/convert-docx-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi DOCX yang Dilindungi Kata Sandi ke PPT Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

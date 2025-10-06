@@ -8,10 +8,8 @@ keywords:
 - convert DOT files to PPTX
 - GroupDocs.Conversion for .NET
 - automate document conversion
-
+type: docs
 ---
-
-
 # How to Efficiently Convert DOT Files to PPTX Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - convert AI to JPEG
 - GroupDocs.Conversion for .NET
 - Adobe Illustrator file conversion
-
+type: docs
 ---
-
-
 # How to Convert AI Files to JPEG Using GroupDocs.Conversion for .NET
 
 ## Introduction

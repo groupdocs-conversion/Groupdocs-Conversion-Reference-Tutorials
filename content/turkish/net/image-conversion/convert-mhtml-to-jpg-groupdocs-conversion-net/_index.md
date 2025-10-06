@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET kullanarak MHTML'yi JPG'ye dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/image-conversion/convert-mhtml-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET kullanarak MHTML'yi JPG'ye dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

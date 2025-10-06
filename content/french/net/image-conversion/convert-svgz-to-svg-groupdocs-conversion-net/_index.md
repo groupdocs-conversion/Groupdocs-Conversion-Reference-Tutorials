@@ -4,8 +4,8 @@
 "title": "Comment convertir SVGZ en SVG à l'aide de GroupDocs.Conversion pour .NET ? Un guide complet"
 "url": "/fr/net/image-conversion/convert-svgz-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir SVGZ en SVG avec GroupDocs.Conversion pour .NET : guide complet
 
 ## Introduction

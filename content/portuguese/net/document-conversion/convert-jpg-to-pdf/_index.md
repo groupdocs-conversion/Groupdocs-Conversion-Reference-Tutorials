@@ -5,8 +5,8 @@
 "title": "Converter JPG para PDF"
 "url": "/pt/net/document-conversion/convert-jpg-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # Converter JPG para PDF
 
 ## Introdução

@@ -4,8 +4,8 @@
 "title": "Ultieme gids&#58; TXT naar DOC converteren met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/word-processing-conversion/convert-txt-doc-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Ultieme gids: TXT naar DOC converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

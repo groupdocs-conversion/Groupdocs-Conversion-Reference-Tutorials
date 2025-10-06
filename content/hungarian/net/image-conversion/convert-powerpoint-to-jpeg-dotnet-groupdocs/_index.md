@@ -4,8 +4,8 @@
 "title": "PowerPoint sablonok hatékony konvertálása JPEG formátumba .NET-ben a GroupDocs.Conversion segítségével"
 "url": "/hu/net/image-conversion/convert-powerpoint-to-jpeg-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # PowerPoint sablonok hatékony JPEG formátumba konvertálása .NET-ben a GroupDocs.Conversion használatával
 
 ## Bevezetés

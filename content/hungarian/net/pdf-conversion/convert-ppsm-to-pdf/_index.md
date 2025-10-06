@@ -5,8 +5,8 @@
 "title": "PPSM konvertálása PDF-be"
 "url": "/hu/net/pdf-conversion/convert-ppsm-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # PPSM konvertálása PDF-be
 
 ## Bevezetés

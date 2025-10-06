@@ -3,8 +3,8 @@
 "title": "Výukové programy pro CSV a strukturované zpracování dat v GroupDocs.Conversion .NET"
 "url": "/cs/net/csv-structured-data-processing/"
 "weight": 15
+type: docs
 ---
-
 # Výukové programy pro CSV a strukturované zpracování dat v GroupDocs.Conversion .NET
 
 Naše tutoriály o CSV a strukturovaných datech poskytují podrobné pokyny pro práci s tabulkovými a datově orientovanými formáty v aplikacích .NET. Tyto praktické průvodce ukazují, jak převádět soubory CSV do formátů JSON a XML, transformovat CSV do různých typů dokumentů, specifikovat oddělovače a možnosti kódování, vhodně převádět data a čas a číselná data, spravovat záhlaví a názvy polí, zachovávat datové typy během převodu a implementovat hromadné transformační operace dat. Každý tutoriál obsahuje kompletní příklady kódu C# pro scénáře převodu datových formátů, které vám pomohou vytvářet aplikace, které dokáží efektivně překlenout formáty nezpracovaných dat a dokumenty čitelné pro člověka.

@@ -4,8 +4,8 @@
 "title": "Efektivní převod e-mailů z Outlooku do Excelu pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/email-formats-features/convert-outlook-emails-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Snadná konverze e-mailů z Microsoft Outlooku do tabulek Excelu pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

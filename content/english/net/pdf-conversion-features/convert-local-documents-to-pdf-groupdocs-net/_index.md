@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # How to Convert Local Documents to PDF with GroupDocs.Conversion for .NET
 
 ## Introduction

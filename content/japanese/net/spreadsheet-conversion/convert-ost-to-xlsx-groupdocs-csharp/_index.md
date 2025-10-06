@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して C# で OST から XLSX への変換をマスターする"
 "url": "/ja/net/spreadsheet-conversion/convert-ost-to-xlsx-groupdocs-csharp/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用した C# での OST から XLSX への変換の習得
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "SVG konvertálása DOCX-be a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/word-processing-formats-features/convert-svg-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # SVG konvertálása DOCX-be a GroupDocs.Conversion for .NET használatával: Teljes körű útmutató
 
 ## Bevezetés

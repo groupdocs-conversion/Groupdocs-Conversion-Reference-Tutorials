@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET 라이선스 설정 및 적용 방법 - 단계별 가이드"
 "url": "/ko/net/getting-started-licensing/groupdocs-conversion-net-license-setup/"
 "weight": 1
+type: docs
 ---
-
 # 포괄적인 튜토리얼: GroupDocs.Conversion .NET 라이선스 설정
 
 ## 소개

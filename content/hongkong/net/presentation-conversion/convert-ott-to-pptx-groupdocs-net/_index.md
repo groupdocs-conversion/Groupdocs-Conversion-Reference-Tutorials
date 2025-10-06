@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 OTT 轉換為 PPTX 的逐步指南"
 "url": "/zh-hant/net/presentation-conversion/convert-ott-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 將 OTT 轉換為 PPTX：使用 GroupDocs.Conversion for .NET 的逐步指南
 
 在當今的數位時代，無縫文件轉換對於生產力和協作至關重要。無論您是希望自動化文件工作流程的開發人員，還是需要高效資料管理的組織，將開放文件文字 (OTT) 文件轉換為 PowerPoint 簡報 (PPTX) 都至關重要。本教學將引導您使用 GroupDocs.Conversion for .NET 完成此流程。

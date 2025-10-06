@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie ODP-Dateien mit GroupDocs.Conversion für .NET in TXT – Eine Schritt-für-Schritt-Anleitung"
 "url": "/de/net/presentation-formats-features/groupdocs-conversion-odp-to-txt-guide/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie ODP-Dateien mit GroupDocs.Conversion für .NET in TXT: Eine Schritt-für-Schritt-Anleitung
 
 ## Einführung

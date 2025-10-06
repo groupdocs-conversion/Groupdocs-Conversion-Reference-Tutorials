@@ -4,8 +4,8 @@
 "title": "MPP Dosyalarını GroupDocs.Conversion for .NET Kullanarak PNG'ye Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/image-conversion/convert-mpp-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MPP Dosyalarını GroupDocs.Conversion for .NET Kullanarak PNG'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion - Tutorial introduttivi per sviluppatori Java"
 "url": "/it/java/getting-started/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion - Tutorial introduttivi per sviluppatori Java
 
 Inizia il tuo percorso con questi tutorial essenziali su GroupDocs.Conversion che ti guideranno attraverso l'installazione, la configurazione delle licenze e l'esecuzione delle tue prime conversioni di documenti in Java. Le nostre guide per principianti mostrano come configurare il tuo ambiente di sviluppo, inizializzare la libreria GroupDocs.Conversion ed eseguire operazioni di conversione fondamentali. Segui questi tutorial per padroneggiare rapidamente le basi e prepararti per attività di conversione di documenti più avanzate nelle tue applicazioni Java.

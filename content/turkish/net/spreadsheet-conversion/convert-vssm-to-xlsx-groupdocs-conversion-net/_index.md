@@ -4,8 +4,8 @@
 "title": "E-Tablo Dönüştürme için GroupDocs.Conversion .NET'i Kullanarak VSSM'yi XLSX'e Verimli Şekilde Dönüştürün"
 "url": "/tr/net/spreadsheet-conversion/convert-vssm-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET ile VSSM'yi XLSX'e dönüştürün
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "EML konvertálása TEX-be a GroupDocs.Conversion for .NET használatával – Fejlesztői útmutató"
 "url": "/hu/net/email-formats-features/convert-eml-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # EML konvertálása TEX-be a GroupDocs.Conversion for .NET használatával: Fejlesztői útmutató
 
 ## Bevezetés

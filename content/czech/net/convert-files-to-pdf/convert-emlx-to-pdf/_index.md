@@ -5,8 +5,8 @@
 "title": "Převod e-mailových zpráv EMLX Apple Mail do PDF"
 "url": "/cs/net/convert-files-to-pdf/convert-emlx-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # Převod e-mailových zpráv EMLX Apple Mail do PDF
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak PPTX'i TXT'ye Verimli Şekilde Dönüştürün"
 "url": "/tr/net/text-markup-conversion/convert-pptx-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak PPTX'i TXT'ye Verimli Şekilde Dönüştürün
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "Master GroupDocs.Conversion Java&#58; Hướng dẫn toàn diện về chuyển đổi tài liệu trong ứng dụng Java"
 "url": "/vi/java/document-operations/groupdocs-conversion-java-master-document-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Làm chủ GroupDocs.Conversion Java: Mở khóa khả năng chuyển đổi tài liệu
 
 ## Giới thiệu

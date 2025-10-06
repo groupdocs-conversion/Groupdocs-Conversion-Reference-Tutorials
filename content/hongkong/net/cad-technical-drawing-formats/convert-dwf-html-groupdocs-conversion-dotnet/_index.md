@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 DWF 轉換為 HTML — 逐步指南"
 "url": "/zh-hant/net/cad-technical-drawing-formats/convert-dwf-html-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 DWF 檔案轉換為 HTML
 ## 介紹
 還在為如何讓設計 Web 格式 (DWF) 檔案在網路上可存取而苦惱嗎？許多專業人士需要將複雜的 DWF 檔案轉換為 HTML 等通用格式，以便共享或發布。 GroupDocs.Conversion for .NET 提供無縫的檔案轉換功能，包括將 DWF 檔案轉換為 HTML。

@@ -4,8 +4,8 @@
 "title": ".NETでXLTMをPNGに変換する方法 - GroupDocs.Conversionを使った完全ガイド"
 "url": "/ja/net/image-conversion/convert-xltm-to-png-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # .NET で XLTM を PNG に変換する: GroupDocs.Conversion を使用した完全ガイド
 
 ## 導入

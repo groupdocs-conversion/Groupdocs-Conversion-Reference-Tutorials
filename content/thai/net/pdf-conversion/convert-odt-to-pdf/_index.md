@@ -5,8 +5,8 @@
 "title": "แปลง ODT เป็น PDF"
 "url": "/th/net/pdf-conversion/convert-odt-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # แปลง ODT เป็น PDF
 
 ## การแนะนำ

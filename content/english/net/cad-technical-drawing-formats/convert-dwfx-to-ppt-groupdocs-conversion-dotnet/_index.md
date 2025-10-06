@@ -8,10 +8,8 @@ keywords:
 - DWFX to PPT conversion
 - GroupDocs.Conversion for .NET
 - design file conversion
-
+type: docs
 ---
-
-
 # Convert DWFX to PowerPoint Presentations Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Konvertera XLS till PNG med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/image-conversion/convert-xls-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera XLS till PNG med GroupDocs.Conversion för .NET: En steg-för-steg-guide
 
 ## Introduktion

@@ -4,8 +4,8 @@
 "title": "تحويل XML إلى جدول بيانات بكفاءة في .NET باستخدام GroupDocs.Conversion"
 "url": "/ar/net/spreadsheet-conversion/xml-to-spreadsheet-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل XML إلى جدول بيانات بكفاءة في .NET باستخدام GroupDocs.Conversion
 
 ## مقدمة

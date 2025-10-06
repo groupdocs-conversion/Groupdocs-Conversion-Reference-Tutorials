@@ -4,8 +4,8 @@
 "title": "JPX fájlok TXT fájlokká konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/text-markup-conversion/convert-jpx-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó oktatóanyag: JPX konvertálása TXT-vé a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

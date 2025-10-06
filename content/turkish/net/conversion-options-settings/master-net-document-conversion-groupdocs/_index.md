@@ -4,8 +4,8 @@
 "title": ".NET Belge Dönüştürme Uzmanlığı&#58; Sorunsuz PDF Dönüşümleri için GroupDocs'u Kullanın"
 "url": "/tr/net/conversion-options-settings/master-net-document-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion ile .NET'te Belge Dönüştürmede Ustalaşma
 
 ## giriiş

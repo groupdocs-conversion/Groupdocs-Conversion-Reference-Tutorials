@@ -4,8 +4,8 @@
 "title": "Chuyển đổi JPM sang PSD hiệu quả bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/image-formats-features/jpm-to-psd-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi JPM sang PSD hiệu quả bằng GroupDocs.Conversion cho .NET
 ## Giới thiệu
 Bạn đang tìm cách tối ưu hóa quy trình chuyển đổi tệp của mình? Hướng dẫn toàn diện này sẽ hướng dẫn bạn cách chuyển đổi tệp JPM sang định dạng PSD bằng GroupDocs.Conversion for .NET API mạnh mẽ. Cho dù bạn là nhà phát triển đang tìm kiếm các giải pháp hiệu quả hay doanh nghiệp muốn hợp lý hóa quy trình làm việc của tài liệu, công cụ này cung cấp các khả năng mạnh mẽ phù hợp với nhu cầu hiện đại.

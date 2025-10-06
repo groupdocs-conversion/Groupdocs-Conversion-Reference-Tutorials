@@ -4,8 +4,8 @@
 "title": "PST konvertálása HTML-be a GroupDocs.Conversion .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/storage-files-pst-processing/convert-pst-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PST fájlok konvertálása HTML-be a GroupDocs.Conversion .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

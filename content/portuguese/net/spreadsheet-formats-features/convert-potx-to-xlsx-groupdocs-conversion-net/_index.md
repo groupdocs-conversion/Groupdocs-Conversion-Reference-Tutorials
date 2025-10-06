@@ -4,8 +4,8 @@
 "title": "Converter POTX para XLSX usando o GroupDocs.Conversion para .NET | Guia passo a passo"
 "url": "/pt/net/spreadsheet-formats-features/convert-potx-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter POTX para XLSX usando GroupDocs.Conversion para .NET
 
 ## Introdução

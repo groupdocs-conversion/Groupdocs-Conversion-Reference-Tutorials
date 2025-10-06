@@ -8,10 +8,8 @@ keywords:
 - convert DGN to XLSX
 - GroupDocs.Conversion C#
 - AutoCAD Design conversion
-
+type: docs
 ---
-
-
 # Convert DGN to XLSX in C# Using GroupDocs.Conversion for .NET
 
 ## Introduction

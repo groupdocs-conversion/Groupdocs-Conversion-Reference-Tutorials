@@ -5,8 +5,8 @@
 "title": "PDF Dönüştürme"
 "url": "/tr/net/pdf-conversion/"
 "weight": 25
+type: docs
 ---
-
 # PDF Dönüştürme
 
 ## giriiş

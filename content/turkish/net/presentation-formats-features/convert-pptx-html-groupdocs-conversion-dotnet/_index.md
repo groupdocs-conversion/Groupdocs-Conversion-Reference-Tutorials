@@ -4,8 +4,8 @@
 "title": "PPTX'i GroupDocs.Conversion for .NET Kullanarak HTML'e Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/presentation-formats-features/convert-pptx-html-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # PPTX'i GroupDocs.Conversion for .NET Kullanarak HTML'ye Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

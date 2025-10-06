@@ -8,10 +8,8 @@ keywords:
 - convert AI to XLSX
 - GroupDocs.Conversion for .NET
 - file conversion .NET
-
+type: docs
 ---
-
-
 # Convert AI Files to XLSX Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

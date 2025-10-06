@@ -8,10 +8,8 @@ keywords:
 - convert Excel to PDF
 - Java document conversion
 - GroupDocs.Conversion for Java
-
+type: docs
 ---
-
-
 # How to Convert Excel Files with Hidden Sheets into PDFs Using Java and GroupDocs.Conversion
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Efektywna konwersja szablonów programu PowerPoint na tekst przy użyciu GroupDocs.Conversion dla .NET"
 "url": "/pl/net/text-markup-conversion/convert-powerpoint-to-text-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak konwertować szablony programu PowerPoint na tekst za pomocą GroupDocs.Conversion dla platformy .NET
 
 ## Wstęp

@@ -8,10 +8,8 @@ keywords:
 - Convert VSTX to DOC
 - GroupDocs.Conversion .NET
 - File Conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert VSTX Files to DOC Format Using GroupDocs.Conversion .NET: A Comprehensive Guide
 
 ## Introduction

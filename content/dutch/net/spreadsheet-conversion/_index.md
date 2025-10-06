@@ -3,8 +3,8 @@
 "title": "Spreadsheetconversiehandleidingen voor GroupDocs.Conversion .NET"
 "url": "/nl/net/spreadsheet-conversion/"
 "weight": 30
+type: docs
 ---
-
 # Spreadsheetconversiehandleidingen voor GroupDocs.Conversion .NET
 
 Leer hoe u documenten kunt omzetten naar bewerkbare spreadsheetformaten met onze GroupDocs.Conversion .NET-tutorials. Deze gedetailleerde handleidingen laten zien hoe u PDF, Word, HTML, afbeeldingen en andere formaten kunt converteren naar XLS, XLSX, CSV, ODS en meer. Ontdek technieken voor het behouden van berekeningen en formules, het behouden van celopmaak, het verwerken van documenten met meerdere bladen, het beheren van kop- en voetteksten en het beheren van gegevenstypeconversies. Elke tutorial bevat werkende C#-codevoorbeelden die laten zien hoe u spreadsheetdocumenten kunt maken die de broninhoud nauwkeurig weergeven en tegelijkertijd data-analyse en -manipulatie mogelijk maken.

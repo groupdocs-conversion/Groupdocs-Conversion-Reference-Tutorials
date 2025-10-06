@@ -8,10 +8,8 @@ keywords:
 - convert DWT to PNG
 - GroupDocs.Conversion for .NET
 - DWT file conversion
-
+type: docs
 ---
-
-
 # Convert DWT to PNG Easily with GroupDocs.Conversion for .NET: A Complete Guide
 
 ## Introduction

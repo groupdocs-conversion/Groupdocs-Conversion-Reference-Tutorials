@@ -4,8 +4,8 @@
 "title": "Konversi Master DOCX ke PPT dengan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/presentation-conversion/groupdocs-conversion-dotnet-docx-to-ppt/"
 "weight": 1
+type: docs
 ---
-
 # Menguasai Konversi DOCX ke PPT dengan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

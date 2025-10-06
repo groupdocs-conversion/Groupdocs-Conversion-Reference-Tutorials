@@ -8,10 +8,8 @@ keywords:
 - convert URL to PDF using Java
 - document conversion with GroupDocs for Java
 - download and convert documents in Java
-
+type: docs
 ---
-
-
 # Convert URL Documents to PDF using GroupDocs.Conversion for Java
 
 ## Introduction

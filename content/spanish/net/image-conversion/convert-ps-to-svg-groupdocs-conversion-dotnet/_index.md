@@ -4,8 +4,8 @@
 "title": "Convierta PS a SVG fácilmente con GroupDocs.Conversion para .NET&#58; una guía paso a paso"
 "url": "/es/net/image-conversion/convert-ps-to-svg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convierta PS a SVG fácilmente con GroupDocs.Conversión para .NET: una guía paso a paso
 
 ## Introducción

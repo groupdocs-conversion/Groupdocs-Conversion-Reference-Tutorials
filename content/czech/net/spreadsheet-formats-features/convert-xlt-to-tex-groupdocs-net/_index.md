@@ -4,8 +4,8 @@
 "title": "Efektivní převod XLT do TEXu pomocí GroupDocs.Conversion pro .NET – kompletní průvodce"
 "url": "/cs/net/spreadsheet-formats-features/convert-xlt-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod XLT do TEXu pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

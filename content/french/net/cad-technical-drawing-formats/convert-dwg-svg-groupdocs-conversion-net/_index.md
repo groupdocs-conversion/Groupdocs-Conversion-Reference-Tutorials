@@ -4,8 +4,8 @@
 "title": "Convertir des fichiers DWG en SVG à l'aide de GroupDocs.Conversion pour .NET &#58; un guide complet"
 "url": "/fr/net/cad-technical-drawing-formats/convert-dwg-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des fichiers DWG en SVG avec GroupDocs.Conversion pour .NET : guide complet
 
 ## Introduction

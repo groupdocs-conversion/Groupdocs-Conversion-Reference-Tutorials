@@ -4,8 +4,8 @@
 "title": "Shift_JIS szövegfájlok konvertálása PDF-be a GroupDocs.Conversion .NET használatával"
 "url": "/hu/net/pdf-conversion/convert-shift-jis-txt-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Shift_JIS szövegfájlok konvertálása PDF-be a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

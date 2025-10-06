@@ -4,8 +4,8 @@
 "title": "Konwersja CGM do DOCX za pomocą GroupDocs w C#&#58; Kompleksowy przewodnik"
 "url": "/pl/net/word-processing-formats-features/convert-cgm-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja CGM do DOCX za pomocą GroupDocs w C#: Twój kompletny przewodnik
 
 ## Wstęp

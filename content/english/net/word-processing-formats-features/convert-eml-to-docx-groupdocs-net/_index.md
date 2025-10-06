@@ -8,10 +8,8 @@ keywords:
 - convert EML to DOCX
 - GroupDocs.Conversion for .NET
 - .NET email conversion
-
+type: docs
 ---
-
-
 # Convert EML to DOCX with GroupDocs.Conversion for .NET
 
 ## Introduction

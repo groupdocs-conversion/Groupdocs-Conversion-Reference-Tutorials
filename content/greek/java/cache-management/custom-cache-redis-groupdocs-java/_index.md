@@ -4,8 +4,8 @@
 "title": "Πώς να εφαρμόσετε προσαρμοσμένη προσωρινή αποθήκευση σε Java χρησιμοποιώντας Redis & GroupDocs.Conversion"
 "url": "/el/java/cache-management/custom-cache-redis-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να εφαρμόσετε προσαρμοσμένη προσωρινή αποθήκευση σε Java χρησιμοποιώντας Redis & GroupDocs.Conversion
 
 ## Εισαγωγή

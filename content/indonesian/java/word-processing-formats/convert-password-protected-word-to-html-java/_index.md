@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi Dokumen Word yang Dilindungi Kata Sandi ke HTML Menggunakan Java (Panduan Langkah demi Langkah)"
 "url": "/id/java/word-processing-formats/convert-password-protected-word-to-html-java/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi Dokumen Word yang Dilindungi Kata Sandi ke HTML Menggunakan Java
 
 ## Perkenalan

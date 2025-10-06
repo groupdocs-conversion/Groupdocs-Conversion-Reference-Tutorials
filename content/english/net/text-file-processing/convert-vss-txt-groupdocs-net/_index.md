@@ -8,10 +8,8 @@ keywords:
 - convert VSS to TXT
 - GroupDocs.Conversion .NET
 - Visio Stencil conversion
-
+type: docs
 ---
-
-
 # Convert VSS to TXT Using GroupDocs.Conversion .NET: A Comprehensive Guide
 
 ## Introduction

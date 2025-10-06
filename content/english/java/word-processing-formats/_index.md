@@ -3,8 +3,8 @@ title: "Word Processing Formats Conversion Tutorials with GroupDocs.Conversion J
 description: "Learn to convert to and from Word processing formats (DOC, DOCX, RTF, ODT) with these GroupDocs.Conversion Java tutorials."
 weight: 5
 url: "/java/word-processing-formats/"
+type: docs
 ---
-
 # Word Processing Formats Conversion Tutorials with GroupDocs.Conversion Java
 
 Discover how to effectively handle Word document conversions using our comprehensive GroupDocs.Conversion Java tutorials. These step-by-step guides teach you how to convert between various Word processing formats, preserve formatting and styles, handle embedded objects, and maintain document structure during conversion. Each tutorial provides practical Java code examples for common Word document conversion tasks, helping you build more efficient applications that can process text documents with high fidelity.

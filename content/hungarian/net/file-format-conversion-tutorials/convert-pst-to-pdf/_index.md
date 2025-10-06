@@ -5,8 +5,8 @@
 "title": "PST konvertálása PDF-be"
 "url": "/hu/net/file-format-conversion-tutorials/convert-pst-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # PST konvertálása PDF-be
 
 ## Bevezetés

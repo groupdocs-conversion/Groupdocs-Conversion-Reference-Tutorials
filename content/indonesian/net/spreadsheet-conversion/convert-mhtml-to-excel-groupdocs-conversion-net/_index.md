@@ -4,8 +4,8 @@
 "title": "Konversi MHTML ke Excel Menggunakan GroupDocs.Conversion .NET - Panduan Lengkap untuk Konversi Spreadsheet"
 "url": "/id/net/spreadsheet-conversion/convert-mhtml-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi MHTML ke Excel Menggunakan GroupDocs.Conversion .NET: Panduan Lengkap
 
 ## Perkenalan

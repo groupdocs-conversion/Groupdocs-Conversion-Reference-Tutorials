@@ -8,9 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
 # Convert JPM Files to XLSX Using GroupDocs.Conversion for .NET
 
 ## Introduction

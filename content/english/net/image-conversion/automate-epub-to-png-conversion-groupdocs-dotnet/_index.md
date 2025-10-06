@@ -8,10 +8,8 @@ keywords:
 - automate EPUB to PNG conversion
 - GroupDocs.Conversion for .NET
 - convert EPUB files to images
-
+type: docs
 ---
-
-
 # Automate EPUB to PNG Conversion with GroupDocs.Conversion in .NET
 
 ## Introduction

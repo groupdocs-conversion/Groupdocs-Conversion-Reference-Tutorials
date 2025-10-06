@@ -4,8 +4,8 @@
 "title": "Konwertuj Markdown do programu PowerPoint za pomocą GroupDocs dla .NET&#58; Przewodnik krok po kroku"
 "url": "/pl/net/presentation-conversion/convert-markdown-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj Markdown do programu PowerPoint za pomocą GroupDocs dla .NET
 
 ## Wstęp

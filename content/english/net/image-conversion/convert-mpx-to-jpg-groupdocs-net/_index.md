@@ -8,10 +8,8 @@ keywords:
 - convert MPX to JPG .NET
 - GroupDocs.Conversion setup
 - file conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert MPX Files to JPG Using GroupDocs.Conversion in .NET
 
 ## Introduction

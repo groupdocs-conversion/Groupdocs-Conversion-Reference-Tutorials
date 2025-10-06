@@ -5,8 +5,8 @@
 "title": "CF2'yi PDF'ye dönüştür"
 "url": "/tr/net/file-conversion-to-pdf/convert-cf2-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # CF2'yi PDF'ye dönüştür
 
 ## giriiş

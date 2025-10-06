@@ -8,10 +8,8 @@ keywords:
 - VDX to DOC conversion
 - GroupDocs.Conversion for .NET
 - convert VDX files to Word
-
+type: docs
 ---
-
-
 # Convert VDX to DOC Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

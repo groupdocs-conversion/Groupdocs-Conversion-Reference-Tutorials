@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して Word テンプレート (.dotm) を PNG に変換する"
 "url": "/ja/net/image-conversion/convert-dotm-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して Word テンプレートを PNG 画像に変換する
 
 ## 導入

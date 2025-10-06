@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके TIF को JP2 में परिवर्तित करें - व्यापक गाइड"
 "url": "/hi/net/image-conversion/convert-tif-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion के साथ TIF to JP2 को परिवर्तित करें
 
 ## परिचय

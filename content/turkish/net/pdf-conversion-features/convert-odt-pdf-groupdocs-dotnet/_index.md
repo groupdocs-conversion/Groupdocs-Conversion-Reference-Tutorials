@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion'ı Kullanarak Verimli ODT'den PDF'ye Dönüştürme Kılavuzu"
 "url": "/tr/net/pdf-conversion-features/convert-odt-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Verimli ODT'den PDF'ye Dönüştürme: .NET için GroupDocs.Conversion Kullanımı Kılavuzu
 
 ## giriiş

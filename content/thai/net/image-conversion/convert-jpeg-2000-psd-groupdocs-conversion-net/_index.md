@@ -4,8 +4,8 @@
 "title": "วิธีการแปลง JPEG 2000 เป็น PSD โดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/image-conversion/convert-jpeg-2000-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการแปลงภาพ JPEG 2000 เป็นรูปแบบ PSD โดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

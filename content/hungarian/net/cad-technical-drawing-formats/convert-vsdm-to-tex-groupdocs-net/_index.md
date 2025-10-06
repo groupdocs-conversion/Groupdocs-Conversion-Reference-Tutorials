@@ -4,8 +4,8 @@
 "title": "VSDM konvertálása TEX-re a GroupDocs.Conversion .NET használatával – Átfogó útmutató a CAD és műszaki rajzformátumokhoz"
 "url": "/hu/net/cad-technical-drawing-formats/convert-vsdm-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # VSDM konvertálása TEX-be a GroupDocs.Conversion .NET használatával: Átfogó útmutató a CAD és műszaki rajzformátumokhoz
 
 ## Bevezetés

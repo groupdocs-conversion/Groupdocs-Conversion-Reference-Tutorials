@@ -5,8 +5,8 @@
 "title": "將 IFC 建築資訊模型檔轉換為 PDF"
 "url": "/zh-hant/net/convert-files-to-pdf/convert-ifc-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # 將 IFC 建築資訊模型檔轉換為 PDF
 
 ## 介紹

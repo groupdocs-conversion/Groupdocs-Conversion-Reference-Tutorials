@@ -4,8 +4,8 @@
 "title": "Konvertera XLSM till PNG med GroupDocs.Conversion för .NET – En omfattande guide"
 "url": "/sv/net/image-conversion/convert-xlsm-to-png-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera XLSM till PNG med GroupDocs.Conversion för .NET
 
 ## Introduktion

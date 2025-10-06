@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion में स्थिरांक प्रबंधन में महारत हासिल करना फ़ाइल रूपांतरण परियोजनाओं के लिए जावा"
 "url": "/hi/java/conversion-options/mastering-constants-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Java के साथ स्थिरांक प्रबंधन में महारत हासिल करना
 
 ## परिचय

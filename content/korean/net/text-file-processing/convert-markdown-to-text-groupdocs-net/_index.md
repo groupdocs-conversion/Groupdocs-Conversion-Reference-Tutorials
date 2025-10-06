@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 마크다운을 텍스트로 변환하는 방법&#58; 단계별 가이드"
 "url": "/ko/net/text-file-processing/convert-markdown-to-text-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 마크다운을 텍스트로 변환하는 방법: 단계별 가이드
 
 ## 소개

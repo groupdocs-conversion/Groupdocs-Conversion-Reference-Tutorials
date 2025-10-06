@@ -4,8 +4,8 @@
 "title": "Πώς να μετατρέψετε αρχεία Excel με κρυφά φύλλα σε PDF χρησιμοποιώντας Java και GroupDocs.Conversion"
 "url": "/el/java/pdf-conversion/convert-excel-hidden-sheets-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε αρχεία Excel με κρυφά φύλλα σε PDF χρησιμοποιώντας Java και GroupDocs.Conversion
 
 ## Εισαγωγή

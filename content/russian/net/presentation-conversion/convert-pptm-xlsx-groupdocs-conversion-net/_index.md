@@ -4,8 +4,8 @@
 "title": "Как конвертировать файлы PPTM в XLSX с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/presentation-conversion/convert-pptm-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Как конвертировать файлы PPTM в XLSX с помощью GroupDocs.Conversion для .NET
 
 ## Введение

@@ -4,8 +4,8 @@
 "title": "Převod dokumentů do PDF pomocí nástroje GroupDocs.Conversion pro Javu – podrobný návod"
 "url": "/cs/java/pdf-conversion/convert-documents-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Převod dokumentů do PDF pomocí GroupDocs.Conversion pro Javu
 ## Jak převést dokumenty do PDF pomocí GroupDocs.Conversion: Podrobný návod
 ### Zavedení

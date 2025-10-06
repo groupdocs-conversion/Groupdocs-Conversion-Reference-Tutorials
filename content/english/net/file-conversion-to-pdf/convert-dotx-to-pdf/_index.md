@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Effortlessly convert DOTX Word templates to PDF using GroupDocs.Conversion for .NET. Simplify your document management tasks.
 weight: 27
 url: /net/file-conversion-to-pdf/convert-dotx-to-pdf/
+type: docs
 ---
-
 # Convert DOTX Word Templates to PDF
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "PNG konvertálása PDF-be C##-ben&#58; Átfogó útmutató a GroupDocs.Conversion for .NET használatához"
 "url": "/hu/net/pdf-conversion/convert-png-to-pdf-csharp-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # PNG konvertálása PDF-be C#-ban: Teljes útmutató a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

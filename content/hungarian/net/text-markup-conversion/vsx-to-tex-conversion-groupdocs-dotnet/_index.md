@@ -4,8 +4,8 @@
 "title": "VSX fájlok egyszerű konvertálása TEX-be a GroupDocs.Conversion .NET segítségével - Útmutató a zökkenőmentes dokumentumkonverzióhoz"
 "url": "/hu/net/text-markup-conversion/vsx-to-tex-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # VSX fájlok egyszerű konvertálása TEX-be a GroupDocs.Conversion .NET segítségével
 
 ## Bevezetés

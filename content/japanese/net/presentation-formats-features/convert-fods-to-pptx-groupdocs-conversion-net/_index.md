@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NETでFODSをPPTXに変換し、ドキュメントワークフローを簡素化"
 "url": "/ja/net/presentation-formats-features/convert-fods-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NETでFODSをPPTXに変換する：包括的なガイド
 
 ## 導入

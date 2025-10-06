@@ -5,8 +5,8 @@
 "title": "Chuyển đổi MOBI sang PDF"
 "url": "/vi/net/document-conversion/convert-mobi-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Chuyển đổi MOBI sang PDF
 
 ## Giới thiệu

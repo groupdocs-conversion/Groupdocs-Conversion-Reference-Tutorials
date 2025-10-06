@@ -5,8 +5,8 @@
 "title": "将 POT 转换为 PDF"
 "url": "/zh/net/pdf-conversion/convert-pot-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # 将 POT 转换为 PDF
 
 ## 介绍

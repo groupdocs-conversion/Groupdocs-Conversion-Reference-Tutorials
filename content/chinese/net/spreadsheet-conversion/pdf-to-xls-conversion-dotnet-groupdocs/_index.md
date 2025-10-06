@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion 在 .NET 中将 PDF 转换为 Excel"
 "url": "/zh/net/spreadsheet-conversion/pdf-to-xls-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion 在 .NET 中将 PDF 转换为 Excel
 
 在当今的数字环境中，高效地在各种格式之间转换文档至关重要。无论您是管理大型数据集的商务专业人士，还是负责流程自动化的开发人员，将 PDF 转换为 Excel 文件都可以简化数据分析和报告任务。本教程将指导您使用 GroupDocs.Conversion for .NET 实现 PDF 到 XLS 的无缝转换。

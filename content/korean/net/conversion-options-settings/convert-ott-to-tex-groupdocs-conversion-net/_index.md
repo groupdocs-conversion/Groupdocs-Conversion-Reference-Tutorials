@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 OTT를 TEX로 변환하는 방법 - 단계별 가이드"
 "url": "/ko/net/conversion-options-settings/convert-ott-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 OTT를 TEX로 변환하는 방법
 
 강력한 GroupDocs.Conversion for .NET 라이브러리를 사용하여 OTT(Open Document Template) 파일을 LaTeX 소스 문서(TEX)로 변환하는 방법에 대한 종합 가이드에 오신 것을 환영합니다. OTT에서 TEX로 문서 변환에 어려움을 겪고 있다면 이 가이드가 바로 도움이 될 것입니다.

@@ -8,10 +8,8 @@ keywords:
 - convert PPS to PPT .NET
 - GroupDocs.Conversion for .NET
 - PowerPoint Slide Show conversion
-
+type: docs
 ---
-
-
 # Convert PPS to PPT with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

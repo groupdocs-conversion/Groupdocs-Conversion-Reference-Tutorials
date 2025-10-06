@@ -8,10 +8,8 @@ keywords:
 - Convert POT to CSV
 - GroupDocs.Conversion for .NET
 - Document conversion .NET
-
+type: docs
 ---
-
-
 # Efficiently Convert POT to CSV Using GroupDocs.Conversion for .NET: A Developer's Guide
 
 ## Introduction

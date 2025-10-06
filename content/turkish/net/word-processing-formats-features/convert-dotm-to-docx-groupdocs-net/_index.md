@@ -4,8 +4,8 @@
 "title": "GroupDocs for .NET ile DOTM'den DOCX'e Dönüşümde Ustalaşma"
 "url": "/tr/net/word-processing-formats-features/convert-dotm-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs for .NET ile DOTM'den DOCX'e Dönüşümde Ustalaşma
 
 ## giriiş

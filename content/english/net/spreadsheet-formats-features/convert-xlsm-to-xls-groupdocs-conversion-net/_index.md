@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion .NET
 - Convert XLSM to XLS
 - Spreadsheet Conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert XLSM to XLS Using GroupDocs.Conversion for .NET
 
 ## Introduction

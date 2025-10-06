@@ -4,8 +4,8 @@
 "title": ".NET में ग्रुपडॉक्स के साथ मास्टर दस्तावेज़ रूपांतरण एक व्यापक गाइड"
 "url": "/hi/net/conversion-options-settings/master-document-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion के साथ दस्तावेज़ रूपांतरण में महारत हासिल करना .NET: एक चरण-दर-चरण मार्गदर्शिका
 
 ## परिचय

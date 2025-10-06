@@ -4,8 +4,8 @@
 "title": "Convertir des fichiers POT en PPT à l'aide de GroupDocs.Conversion pour .NET &#58; un guide étape par étape"
 "url": "/fr/net/presentation-formats-features/convert-pot-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des fichiers POT en PPT avec GroupDocs.Conversion pour .NET : guide étape par étape
 
 ## Introduction

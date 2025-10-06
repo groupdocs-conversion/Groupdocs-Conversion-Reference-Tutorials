@@ -4,8 +4,8 @@
 "title": "Convertire OTG in XLS utilizzando GroupDocs.Conversion per .NET | Tutorial sulla conversione dei fogli di calcolo"
 "url": "/it/net/spreadsheet-conversion/convert-otg-to-xls-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertire il file OTG in formato XLS utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

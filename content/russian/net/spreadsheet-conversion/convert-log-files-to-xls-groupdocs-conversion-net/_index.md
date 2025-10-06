@@ -4,8 +4,8 @@
 "title": "Конвертируйте файлы журналов в XLS с помощью GroupDocs.Conversion для .NET — пошаговое руководство"
 "url": "/ru/net/spreadsheet-conversion/convert-log-files-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте файлы журналов в XLS с помощью GroupDocs.Conversion для .NET
 
 ## Введение

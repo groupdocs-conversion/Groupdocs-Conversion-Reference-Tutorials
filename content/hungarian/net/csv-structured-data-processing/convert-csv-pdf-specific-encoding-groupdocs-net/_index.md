@@ -4,8 +4,8 @@
 "title": "CSV-fájlok konvertálása PDF-fájlokká speciális kódolással a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/csv-structured-data-processing/convert-csv-pdf-specific-encoding-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # CSV-fájlok konvertálása PDF-fájlokká speciális kódolással a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Hur man konverterar lösenordsskyddade Word-dokument till Excel-kalkylblad med GroupDocs.Conversion för Java"
 "url": "/sv/java/spreadsheet-formats/convert-password-docs-to-spreadsheets-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar lösenordsskyddade dokument med GroupDocs.Conversion för Java
 
 ## Introduktion

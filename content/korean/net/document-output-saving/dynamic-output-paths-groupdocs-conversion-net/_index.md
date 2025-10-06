@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion을 사용한 .NET의 동적 출력 경로 - 포괄적인 가이드"
 "url": "/ko/net/document-output-saving/dynamic-output-paths-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용한 .NET의 동적 출력 경로: 포괄적인 가이드
 
 ## 소개

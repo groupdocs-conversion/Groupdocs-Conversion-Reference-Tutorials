@@ -4,8 +4,8 @@
 "title": "Convertir un modèle PowerPoint (.pot) en PDF avec GroupDocs.Conversion pour .NET"
 "url": "/fr/net/pdf-conversion-features/convert-pot-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir un modèle PowerPoint (.pot) en PDF avec GroupDocs.Conversion pour .NET
 
 ## Introduction

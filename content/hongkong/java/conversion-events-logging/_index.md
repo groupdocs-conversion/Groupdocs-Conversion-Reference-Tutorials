@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Java 的轉換事件與日誌記錄教學課程"
 "url": "/zh-hant/java/conversion-events-logging/"
 "weight": 15
+type: docs
 ---
-
 # GroupDocs.Conversion Java 的轉換事件與日誌記錄教學課程
 
 使用我們的 GroupDocs.Conversion Java 事件教學課程，掌握監控和日誌記錄功能。這些詳細的指南示範如何設定事件監聽器、追蹤轉換進度、實作詳細日誌記錄、處理轉換通知以及以程式設計方式建立自訂事件處理程序。每個教程都包含可運行的 Java 程式碼範例，展示如何使用強大的監控和報告功能增強您的應用程序，幫助您建立具有全面審計追蹤和用戶回饋的可靠轉換系統。

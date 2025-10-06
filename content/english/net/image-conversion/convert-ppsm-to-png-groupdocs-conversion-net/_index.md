@@ -8,10 +8,8 @@ keywords:
 - convert PPSM to PNG
 - GroupDocs.Conversion for .NET
 - PowerPoint Slide Show conversion
-
+type: docs
 ---
-
-
 # How to Convert PPSM to PNG Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

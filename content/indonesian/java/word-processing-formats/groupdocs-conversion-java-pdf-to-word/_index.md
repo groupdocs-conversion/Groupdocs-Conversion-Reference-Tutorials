@@ -4,8 +4,8 @@
 "title": "Konversi PDF ke Word secara Efisien Menggunakan API Java GroupDocs.Conversion"
 "url": "/id/java/word-processing-formats/groupdocs-conversion-java-pdf-to-word/"
 "weight": 1
+type: docs
 ---
-
 # Konversi PDF ke Word secara Efisien Menggunakan API Java GroupDocs.Conversion
 
 ## Perkenalan

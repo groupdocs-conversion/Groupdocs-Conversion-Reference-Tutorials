@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion'ı Kullanarak Excel Şablon Dosyalarını (XLTX) PDF'ye Dönüştürün"
 "url": "/tr/net/pdf-conversion/convert-xltx-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak Excel Şablon Dosyalarını (XLTX) PDF'ye Dönüştürün
 
 ## giriiş

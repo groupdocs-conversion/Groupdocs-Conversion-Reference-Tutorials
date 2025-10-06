@@ -4,8 +4,8 @@
 "title": "تحويل النص إلى PDF في .NET باستخدام GroupDocs.Conversion - دليل شامل"
 "url": "/ar/net/pdf-conversion/convert-text-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل النص إلى PDF باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

@@ -5,8 +5,8 @@
 "title": "Chuyển đổi hình ảnh DNG sang PDF"
 "url": "/vi/net/file-conversion-to-pdf/convert-dng-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # Chuyển đổi hình ảnh DNG sang PDF
 
 ## Giới thiệu

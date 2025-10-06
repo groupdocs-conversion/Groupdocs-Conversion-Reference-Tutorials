@@ -4,8 +4,8 @@
 "title": "TXT'yi GroupDocs.Conversion for .NET Kullanarak XLS'ye Dönüştürme Adım Adım Kılavuzu"
 "url": "/tr/net/spreadsheet-conversion/groupdocs-conversion-net-txt-to-xls/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanarak TXT'yi XLS'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

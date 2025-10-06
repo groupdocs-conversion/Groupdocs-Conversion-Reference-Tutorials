@@ -4,8 +4,8 @@
 "title": "Come convertire i file VDW in HTML con GroupDocs.Conversion per .NET"
 "url": "/it/net/web-markup-formats/convert-vdw-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire i file VDW in HTML con GroupDocs.Conversion per .NET
 
 ## Introduzione

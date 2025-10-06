@@ -4,8 +4,8 @@
 "title": "Uitgebreide handleiding&#58; LaTeX naar Word converteren met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/word-processing-conversion/convert-latex-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Uitgebreide handleiding: LaTeX naar Word converteren met GroupDocs.Conversion voor .NET
 ## Invoering
 Het converteren van LaTeX-documenten naar toegankelijke Word-formaten kan een uitdaging zijn, vooral voor onderzoekers, academici of technisch schrijvers die regelmatig met complexe .tex-bestanden werken. Deze tutorial biedt een robuuste oplossing met behulp van **GroupDocs.Conversion voor .NET**, waardoor LaTeX-bestanden moeiteloos naar DOC-formaat kunnen worden geconverteerd.

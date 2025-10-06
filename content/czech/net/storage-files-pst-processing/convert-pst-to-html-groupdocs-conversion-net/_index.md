@@ -4,8 +4,8 @@
 "title": "Převod PST do HTML pomocí GroupDocs.Conversion .NET – Podrobný návod"
 "url": "/cs/net/storage-files-pst-processing/convert-pst-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů PST do HTML pomocí GroupDocs.Conversion .NET: Podrobný návod
 
 ## Zavedení

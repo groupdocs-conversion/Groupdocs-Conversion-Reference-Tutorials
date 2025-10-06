@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Java
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert XML to Excel in Java Using GroupDocs.Conversion
 
 ## Introduction

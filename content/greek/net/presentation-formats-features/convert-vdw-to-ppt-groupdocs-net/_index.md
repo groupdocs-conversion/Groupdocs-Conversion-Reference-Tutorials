@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή σχεδίων Web του Visio σε PowerPoint χρησιμοποιώντας το GroupDocs για προγραμματιστές .NET"
 "url": "/el/net/presentation-formats-features/convert-vdw-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική μετατροπή σχεδίων Visio Web (VDW) σε παρουσιάσεις PowerPoint χρησιμοποιώντας το GroupDocs για προγραμματιστές .NET
 
 ## Εισαγωγή

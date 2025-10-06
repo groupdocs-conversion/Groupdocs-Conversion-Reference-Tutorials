@@ -3,8 +3,8 @@
 "title": "Výukové programy pro CAD a technické výkresy v GroupDocs.Conversion .NET"
 "url": "/cs/net/cad-technical-drawing-formats/"
 "weight": 18
+type: docs
 ---
-
 # Výukové programy pro CAD a technické výkresy v GroupDocs.Conversion .NET
 
 Naučte se zpracovávat technické výkresy s našimi komplexními tutoriály GroupDocs.Conversion pro vývojáře .NET. Tyto praktické průvodce ukazují, jak převést soubory AutoCADu a dalších CAD souborů do zobrazitelných formátů, určit rozvržení pro převod, nastavit vlastní šířkové a výškové rozměry pro výstup, zachovat vrstvy a rozměry, efektivně zpracovávat velké výkresy, spravovat výřezy a měřítko a transformovat 3D modely do 2D reprezentací. Každý tutoriál obsahuje podrobné příklady kódu C# pro scénáře převodu CAD, které vám pomohou vytvářet aplikace, které dokáží přesně zpracovávat technické výkresy a zároveň zachovat důležité technické detaily.

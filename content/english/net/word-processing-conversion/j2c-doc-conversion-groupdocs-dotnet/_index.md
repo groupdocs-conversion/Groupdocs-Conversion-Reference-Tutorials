@@ -8,10 +8,8 @@ keywords:
 - J2C to DOC conversion
 - GroupDocs.Conversion .NET
 - document processing in .NET
-
+type: docs
 ---
-
-
 # Convert J2C Files to DOC in .NET Using GroupDocs.Conversion
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - ODT to PDF conversion
 - GroupDocs.Conversion for .NET
 - document conversion in .NET
-
+type: docs
 ---
-
-
 # Efficient ODT to PDF Conversion: Guide Using GroupDocs.Conversion for .NET
 
 ## Introduction

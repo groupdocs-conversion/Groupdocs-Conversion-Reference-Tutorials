@@ -4,8 +4,8 @@
 "title": "XLAM konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával – Fejlesztői útmutató"
 "url": "/hu/net/web-markup-formats/convert-xlam-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # XLAM fájlok konvertálása HTML-be a GroupDocs for .NET használatával
 
 ## XLAM fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET segítségével: Fejlesztői útmutató

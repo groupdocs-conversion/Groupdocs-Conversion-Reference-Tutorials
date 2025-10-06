@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi tệp Excel có trang tính ẩn thành tệp PDF bằng Java và GroupDocs.Conversion"
 "url": "/vi/java/pdf-conversion/convert-excel-hidden-sheets-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp Excel có trang tính ẩn thành tệp PDF bằng Java và GroupDocs.Conversion
 
 ## Giới thiệu

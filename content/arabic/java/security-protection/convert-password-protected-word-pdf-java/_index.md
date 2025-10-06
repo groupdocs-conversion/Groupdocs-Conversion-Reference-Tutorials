@@ -4,8 +4,8 @@
 "title": "تحويل Word المحمي بكلمة مرور إلى PDF في Java باستخدام GroupDocs.Conversion"
 "url": "/ar/java/security-protection/convert-password-protected-word-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # تحويل Word المحمي بكلمة مرور إلى PDF في Java باستخدام GroupDocs.Conversion
 
 حوّل مستندات Word المحمية إلى صيغة PDF بسهولة مع هذا الدليل الشامل حول استخدام مكتبة GroupDocs.Conversion في Java. اكتشف كيفية تحديد صفحات محددة، وتعيين أبعاد مخصصة، وضبط الدقة، وتحسين الأداء لتحويل مستندات سلس.

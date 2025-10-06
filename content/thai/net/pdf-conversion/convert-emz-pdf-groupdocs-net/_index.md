@@ -4,8 +4,8 @@
 "title": "แปลง EMZ เป็น PDF โดยใช้ GroupDocs.Conversion สำหรับ .NET&#58; คำแนะนำทีละขั้นตอน"
 "url": "/th/net/pdf-conversion/convert-emz-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลง EMZ เป็น PDF โดยใช้ GroupDocs.Conversion สำหรับ .NET: คำแนะนำทีละขั้นตอน
 
 ## การแนะนำ

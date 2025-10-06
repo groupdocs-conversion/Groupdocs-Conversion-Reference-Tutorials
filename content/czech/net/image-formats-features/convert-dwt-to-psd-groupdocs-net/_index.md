@@ -4,8 +4,8 @@
 "title": "Převod DWT do PSD v .NET pomocí knihovny GroupDocs.Conversion – podrobný návod"
 "url": "/cs/net/image-formats-features/convert-dwt-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod DWT do PSD v .NET pomocí knihovny GroupDocs.Conversion: Podrobný návod
 
 ## Zavedení

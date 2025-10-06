@@ -4,8 +4,8 @@
 "title": "AI-zu-PDF-Konvertierungshandbuch mit GroupDocs.Conversion für .NET"
 "url": "/de/net/pdf-conversion-features/ai-to-pdf-conversion-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # AI-zu-PDF-Konvertierungshandbuch mit GroupDocs.Conversion für .NET
 
 ## Einführung

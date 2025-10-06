@@ -4,8 +4,8 @@
 "title": "Chuyển đổi TSV sang XLS bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/spreadsheet-formats-features/convert-tsv-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi TSV sang XLS bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

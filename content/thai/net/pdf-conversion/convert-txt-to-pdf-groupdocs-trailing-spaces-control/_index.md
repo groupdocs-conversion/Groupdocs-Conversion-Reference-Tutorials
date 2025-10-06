@@ -4,8 +4,8 @@
 "title": "แปลง TXT เป็น PDF ด้วย GroupDocs&#58; การควบคุมช่องว่างท้ายโดยใช้ .NET"
 "url": "/th/net/pdf-conversion/convert-txt-to-pdf-groupdocs-trailing-spaces-control/"
 "weight": 1
+type: docs
 ---
-
 # แปลง TXT เป็น PDF ด้วย GroupDocs: ควบคุมช่องว่างท้ายข้อความโดยใช้ .NET
 
 ## การแนะนำ

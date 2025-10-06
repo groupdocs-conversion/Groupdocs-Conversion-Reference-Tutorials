@@ -8,10 +8,8 @@ keywords:
 - XLSX to HTML conversion
 - GroupDocs.Conversion for .NET
 - HTML file conversion
-
+type: docs
 ---
-
-
 # Convert XLSX to HTML with GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

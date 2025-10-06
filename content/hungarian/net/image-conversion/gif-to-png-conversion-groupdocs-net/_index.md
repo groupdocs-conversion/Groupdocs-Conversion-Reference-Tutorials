@@ -4,8 +4,8 @@
 "title": "GIF fájlok egyszerű PNG-vé konvertálása a GroupDocs for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-conversion/gif-to-png-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GIF-ek egyszerű PNG-vé konvertálása a GroupDocs for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

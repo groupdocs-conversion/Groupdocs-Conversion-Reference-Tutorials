@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 映像轉換教學"
 "url": "/zh-hant/net/image-conversion/"
 "weight": 28
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 映像轉換教學
 
 我們的影像轉換教學提供了全面的指導，幫助您在 .NET 應用程式中將文件轉換為各種影像格式。這些逐步指南示範如何將文件從 Word、PDF、PowerPoint、CAD 圖紙等來源轉換為 JPG、PNG、TIFF、SVG 和其他圖像格式。學習如何控制解析度、色深、壓縮、透明度和其他影像特定設置，以在品質和檔案大小之間實現最佳平衡。每個教學課程都包含詳細的 C# 程式碼範例，用於建立高品質的文件影像表示，非常適合預覽、存檔或進一步的影像處理。

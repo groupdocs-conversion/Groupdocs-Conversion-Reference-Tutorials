@@ -4,8 +4,8 @@
 "title": "Konvertera kalkylblad till PDF-filer med GroupDocs.Conversion för Java – en omfattande guide"
 "url": "/sv/java/spreadsheet-formats/convert-spreadsheets-to-pdfs-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera kalkylblad till PDF-filer med GroupDocs.Conversion för Java: En omfattande guide
 
 ## Introduktion

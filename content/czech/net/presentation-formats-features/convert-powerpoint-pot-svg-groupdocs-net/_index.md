@@ -4,8 +4,8 @@
 "title": "Převod šablon PowerPointu (.pot) do SVG pomocí GroupDocs.Conversion pro .NET – kompletní průvodce"
 "url": "/cs/net/presentation-formats-features/convert-powerpoint-pot-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod šablon PowerPointu (.pot) do SVG pomocí GroupDocs.Conversion pro .NET
 ## Zavedení
 Hledáte efektivní způsob, jak transformovat šablony PowerPointu do škálovatelné vektorové grafiky? Ať už jste vývojář, který chce vylepšit zpracování dokumentů, nebo potřebujete převést soubory POT pro webovou kompatibilitu, tento tutoriál vás provede procesem s GroupDocs.Conversion pro .NET. Dodržením těchto kroků můžete zefektivnit svůj pracovní postup a vytvářet vysoce kvalitní výstupy SVG z šablon PowerPointu.

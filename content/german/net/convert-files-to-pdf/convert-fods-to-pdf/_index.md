@@ -5,8 +5,8 @@
 "title": "Konvertieren Sie FODS OpenDocument-Tabellen in PDF"
 "url": "/de/net/convert-files-to-pdf/convert-fods-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Konvertieren Sie FODS OpenDocument-Tabellen in PDF
 
 ## Einführung

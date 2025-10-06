@@ -4,8 +4,8 @@
 "title": "Come convertire TSV in JPG utilizzando GroupDocs.Conversion .NET - Guida alla conversione delle immagini"
 "url": "/it/net/image-conversion/convert-tsv-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire TSV in JPG utilizzando GroupDocs.Conversion .NET
 
 Nell'era digitale odierna, i dati sono disponibili in vari formati. Convertire i file TSV (Tab-Separated Values) in JPEG può essere particolarmente utile per presentazioni o report. Questo tutorial vi guiderà nell'utilizzo di GroupDocs.Conversion per .NET per trasformare i vostri file TSV in immagini JPG di alta qualità.

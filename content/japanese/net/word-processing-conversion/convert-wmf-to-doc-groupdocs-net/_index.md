@@ -4,8 +4,8 @@
 "title": "GroupDocs for .NET を使用して WMF を DOC に変換する包括的なガイド"
 "url": "/ja/net/word-processing-conversion/convert-wmf-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs for .NET を使用して WMF を DOC に変換する: 包括的なガイド
 
 ## 導入

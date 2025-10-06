@@ -4,8 +4,8 @@
 "title": "Beheers PPTX-bestandsconversie met GroupDocs.Conversion voor .NET&#58; moeiteloze en efficiënte oplossingen"
 "url": "/nl/net/presentation-formats-features/master-file-conversion-groupdocs-pptx/"
 "weight": 1
+type: docs
 ---
-
 # Beheers PPTX-bestandsconversie met GroupDocs.Conversion voor .NET: moeiteloze en efficiënte oplossingen
 
 ## Invoering

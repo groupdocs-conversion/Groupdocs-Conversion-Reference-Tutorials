@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 设置输出目录路径"
 "url": "/zh/net/document-output-saving/groupdocs-conversion-setup-output-directory-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 设置输出目录路径
 
 ## 介绍

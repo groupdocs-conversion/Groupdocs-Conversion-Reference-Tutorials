@@ -4,8 +4,8 @@
 "title": "Masterizza la conversione da PDF a DOCX in .NET utilizzando GroupDocs.Conversion"
 "url": "/it/net/word-processing-conversion/pdf-to-docx-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Padroneggia la conversione da PDF a DOCX con GroupDocs.Conversion per .NET
 
 ## Introduzione

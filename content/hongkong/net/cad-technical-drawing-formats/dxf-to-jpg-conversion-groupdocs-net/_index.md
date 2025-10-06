@@ -4,8 +4,8 @@
 "title": ".NET 中 DXF 到 JPG 的轉換－使用 GroupDocs.Conversion 的綜合指南"
 "url": "/zh-hant/net/cad-technical-drawing-formats/dxf-to-jpg-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 掌握 .NET 中 DXF 到 JPG 的轉換
 
 ## 介紹

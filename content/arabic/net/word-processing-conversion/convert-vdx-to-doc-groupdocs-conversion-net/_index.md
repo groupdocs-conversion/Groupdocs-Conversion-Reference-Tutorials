@@ -4,8 +4,8 @@
 "title": "تحويل VDX إلى DOC باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/word-processing-conversion/convert-vdx-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل VDX إلى DOC باستخدام GroupDocs.Conversion لـ .NET: دليل شامل
 
 ## مقدمة

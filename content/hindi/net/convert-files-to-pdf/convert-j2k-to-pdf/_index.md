@@ -5,8 +5,8 @@
 "title": "J2K JPEG 2000 छवियों को PDF में बदलें"
 "url": "/hi/net/convert-files-to-pdf/convert-j2k-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # J2K JPEG 2000 छवियों को PDF में बदलें
 
 ## परिचय

@@ -4,8 +4,8 @@
 "title": "Konwersja DIB do LaTeX za pomocą GroupDocs.Conversion dla .NET&#58; Kompletny przewodnik"
 "url": "/pl/net/text-markup-conversion/convert-dib-to-latex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja DIB do LaTeX za pomocą GroupDocs.Conversion dla .NET: Kompletny przewodnik
 
 ## Wstęp

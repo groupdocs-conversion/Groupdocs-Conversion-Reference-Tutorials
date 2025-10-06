@@ -4,8 +4,8 @@
 "title": "Chuyển đổi email Outlook sang Excel hiệu quả bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/email-formats-features/convert-outlook-emails-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Dễ dàng chuyển đổi email Microsoft Outlook sang bảng tính Excel bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

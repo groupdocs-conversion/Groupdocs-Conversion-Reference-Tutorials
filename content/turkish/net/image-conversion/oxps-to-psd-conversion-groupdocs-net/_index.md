@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET&#58;i Kullanarak OXPS'yi PSD'ye Dönüştürme Görüntü Dönüştürme İçin Kapsamlı Bir Kılavuz"
 "url": "/tr/net/image-conversion/oxps-to-psd-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET Kullanarak OXPS'yi PSD'ye Dönüştürme: Görüntü Dönüştürme İçin Kapsamlı Bir Kılavuz
 
 ## giriiş

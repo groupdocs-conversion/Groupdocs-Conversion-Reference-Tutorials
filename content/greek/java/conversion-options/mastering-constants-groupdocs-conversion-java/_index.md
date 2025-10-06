@@ -4,8 +4,8 @@
 "title": "Εξοικείωση με τη Διαχείριση Σταθερών στο GroupDocs.Conversion Java για Έργα Μετατροπής Αρχείων"
 "url": "/el/java/conversion-options/mastering-constants-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Εξοικείωση με τη διαχείριση σταθερών με το GroupDocs.Conversion Java
 
 ## Εισαγωγή

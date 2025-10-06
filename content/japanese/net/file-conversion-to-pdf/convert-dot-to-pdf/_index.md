@@ -5,8 +5,8 @@
 "title": "DOT WordテンプレートをPDFに変換する"
 "url": "/ja/net/file-conversion-to-pdf/convert-dot-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # DOT WordテンプレートをPDFに変換する
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "Könnyed CSV-LaTeX konvertálás a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/spreadsheet-formats-features/csv-to-latex-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Könnyed CSV-LaTeX konvertálás a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

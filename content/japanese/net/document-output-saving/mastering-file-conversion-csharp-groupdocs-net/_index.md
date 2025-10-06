@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して C# でファイル変換をマスターする"
 "url": "/ja/net/document-output-saving/mastering-file-conversion-csharp-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # C# でのファイル変換をマスターする: .NET 用の GroupDocs.Conversion の実装
 
 ## 導入

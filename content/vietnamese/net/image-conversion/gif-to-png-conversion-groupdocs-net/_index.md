@@ -4,8 +4,8 @@
 "title": "Chuyển đổi GIF sang PNG dễ dàng bằng GroupDocs cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/image-conversion/gif-to-png-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi GIF sang PNG dễ dàng bằng GroupDocs cho .NET: Hướng dẫn toàn diện
 
 ## Giới thiệu

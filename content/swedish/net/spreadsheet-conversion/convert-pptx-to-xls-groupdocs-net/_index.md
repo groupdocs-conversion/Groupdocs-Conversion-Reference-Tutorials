@@ -4,8 +4,8 @@
 "title": "Konvertera PPTX till XLS i C# med GroupDocs.Conversion för .NET"
 "url": "/sv/net/spreadsheet-conversion/convert-pptx-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera PPTX till XLS med GroupDocs.Conversion för .NET
 
 ## Introduktion

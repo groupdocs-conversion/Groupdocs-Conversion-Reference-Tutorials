@@ -4,8 +4,8 @@
 "title": "Hatékony Excel-ből PDF-be konvertálás GroupDocs.Conversion Java használatával"
 "url": "/hu/java/pdf-conversion/excel-to-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony Excel-ből PDF-be konvertálás a GroupDocs.Conversion Java segítségével
 
 ## Bevezetés

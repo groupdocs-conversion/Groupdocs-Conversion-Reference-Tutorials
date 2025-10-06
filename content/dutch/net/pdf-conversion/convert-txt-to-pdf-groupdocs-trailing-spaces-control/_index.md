@@ -4,8 +4,8 @@
 "title": "Converteer TXT naar PDF met GroupDocs&#58; beperk spaties aan het einde met behulp van .NET"
 "url": "/nl/net/pdf-conversion/convert-txt-to-pdf-groupdocs-trailing-spaces-control/"
 "weight": 1
+type: docs
 ---
-
 # Converteer TXT naar PDF met GroupDocs: beperk spaties aan het einde met .NET
 
 ## Invoering

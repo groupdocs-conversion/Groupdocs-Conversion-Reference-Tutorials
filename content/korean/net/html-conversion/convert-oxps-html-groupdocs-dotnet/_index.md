@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 OXPS를 HTML로 변환하기 - 단계별 가이드"
 "url": "/ko/net/html-conversion/convert-oxps-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 OXPS를 HTML로 변환하기 - 단계별 가이드
 
 오늘날의 디지털 환경에서는 OXPS(Open XML Paper Specification)와 같은 파일 형식을 HTML과 같이 보편적으로 접근 가능한 형식으로 변환하면 사용성과 접근성이 향상됩니다. 이 튜토리얼에서는 GroupDocs.Conversion for .NET을 사용하여 OXPS 파일을 HTML 형식으로 원활하게 변환하는 방법을 안내합니다.

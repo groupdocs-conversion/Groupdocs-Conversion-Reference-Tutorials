@@ -6,8 +6,8 @@
 "title": "Fődokumentum konvertálása - GroupDocs.Conversion oktatóanyagok és útmutatók"
 "url": "/hu/"
 "weight": 11
+type: docs
 ---
-
 # Bármely dokumentumformátum átalakítása a GroupDocs.Conversion segítségével
 
 Üdvözöljük a dokumentumkonvertálási mesterség teljes körű forrásában! Átfogó oktatóanyagaink mindent biztosítanak a fejlesztők számára, amire szükségük van ahhoz, hogy hatékony dokumentumátalakítási képességeket valósítsanak meg .NET és Java alkalmazásokban. Akár üzletileg kritikus fontosságú PDF-eket konvertál, akár Office-dokumentumokat kezel, akár speciális formátumokat dolgoz fel, a GroupDocs.Conversion biztosítja az eszközöket a munkafolyamatok egyszerűsítéséhez.

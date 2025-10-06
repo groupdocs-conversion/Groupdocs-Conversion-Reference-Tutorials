@@ -4,8 +4,8 @@
 "title": "Penguasaan Konversi Dokumen .NET&#58; Memanfaatkan GroupDocs untuk Transformasi PDF yang Mulus"
 "url": "/id/net/conversion-options-settings/master-net-document-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Menguasai Konversi Dokumen di .NET dengan GroupDocs.Conversion
 
 ## Perkenalan

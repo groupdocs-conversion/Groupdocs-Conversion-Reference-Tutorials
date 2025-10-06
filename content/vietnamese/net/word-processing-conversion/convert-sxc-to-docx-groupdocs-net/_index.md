@@ -4,8 +4,8 @@
 "title": "Làm chủ chuyển đổi tài liệu trong .NET&#58; Chuyển đổi SXC sang DOCX bằng GroupDocs.Conversion"
 "url": "/vi/net/word-processing-conversion/convert-sxc-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Làm chủ việc chuyển đổi tài liệu trong .NET: Chuyển đổi SXC sang DOCX bằng GroupDocs.Conversion
 
 ## Giới thiệu

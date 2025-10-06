@@ -4,8 +4,8 @@
 "title": "Μετατροπή PPT σε PNG χρησιμοποιώντας το GroupDocs.Conversion σε .NET™ Ένας πλήρης οδηγός"
 "url": "/el/net/presentation-conversion/convert-ppt-to-png-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή PPT σε PNG χρησιμοποιώντας το GroupDocs.Conversion σε .NET: Οδηγός για προγραμματιστές
 
 ## Εισαγωγή

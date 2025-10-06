@@ -5,8 +5,8 @@
 "title": "تحويل قوالب DOTX Word إلى PDF"
 "url": "/ar/net/file-conversion-to-pdf/convert-dotx-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # تحويل قوالب DOTX Word إلى PDF
 
 ## مقدمة

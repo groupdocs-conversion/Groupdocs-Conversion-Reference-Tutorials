@@ -8,10 +8,8 @@ keywords:
 - convert PCL to SVG
 - GroupDocs.Conversion for .NET
 - PCL file conversion
-
+type: docs
 ---
-
-
 # Convert PCL to SVG Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

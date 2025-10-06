@@ -4,8 +4,8 @@
 "title": "Konvertera Word till PDF med teckensnittsersättning med GroupDocs.Conversion för .NET"
 "url": "/sv/net/font-handling-substitution/convert-word-to-pdf-font-substitution-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera Word-dokument till PDF med teckensnittsersättning med GroupDocs.Conversion för .NET
 ## Introduktion
 Att konvertera Word-dokument till PDF-filer leder ofta till inkonsekventa teckensnitt, vilket i sin tur kan leda till formateringsproblem. Den här guiden förenklar hur man säkerställer teckensnittskonsekvens med GroupDocs.Conversion för .NET. Lär dig hur du konfigurerar inläsningsalternativ för teckensnittsersättning och smidigt konverterar dina Word-dokument till PDF-format samtidigt som du bibehåller den visuella återgivningen.

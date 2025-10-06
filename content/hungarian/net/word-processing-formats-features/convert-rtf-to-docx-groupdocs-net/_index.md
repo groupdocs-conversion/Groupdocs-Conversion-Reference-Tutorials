@@ -4,8 +4,8 @@
 "title": "RTF fájlok hatékony konvertálása DOCX fájlokká a GroupDocs.Conversion for .NET segítségével | Lépésről lépésre útmutató"
 "url": "/hu/net/word-processing-formats-features/convert-rtf-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # RTF fájlok hatékony konvertálása DOCX fájlokká a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

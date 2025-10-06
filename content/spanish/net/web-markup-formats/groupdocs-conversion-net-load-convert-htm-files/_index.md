@@ -4,8 +4,8 @@
 "title": "Cargue y convierta archivos HTM de forma eficiente con GroupDocs.Conversion para .NET"
 "url": "/es/net/web-markup-formats/groupdocs-conversion-net-load-convert-htm-files/"
 "weight": 1
+type: docs
 ---
-
 # Cargue y convierta archivos HTM de forma eficiente con GroupDocs.Conversion para .NET
 
 ## Introducción

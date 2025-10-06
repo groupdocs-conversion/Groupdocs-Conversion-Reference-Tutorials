@@ -4,8 +4,8 @@
 "title": "Cómo eliminar archivos incrustados de archivos PDF con GroupDocs.Conversion .NET para una gestión documental optimizada"
 "url": "/es/net/pdf-conversion-features/remove-embedded-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cómo eliminar archivos incrustados de archivos PDF con GroupDocs.Conversion .NET para una gestión documental optimizada
 
 ## Introducción

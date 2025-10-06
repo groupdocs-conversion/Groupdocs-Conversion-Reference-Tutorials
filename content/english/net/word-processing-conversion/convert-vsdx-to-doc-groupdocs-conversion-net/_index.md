@@ -8,10 +8,8 @@ keywords:
 - Convert VSDX to DOC
 - GroupDocs.Conversion for .NET
 - Visio to Word conversion
-
+type: docs
 ---
-
-
 # How to Convert VSDX to DOC Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - convert CSV to PSD
 - GroupDocs.Conversion for .NET tutorial
 - CSV file conversion
-
+type: docs
 ---
-
-
 # Convert CSV to PSD with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

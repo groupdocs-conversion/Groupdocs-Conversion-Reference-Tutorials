@@ -8,10 +8,8 @@ keywords:
 - convert DWG to JPG
 - CAD file conversion
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # Convert DWG Files to JPG Using GroupDocs for .NET: A Comprehensive Developer's Guide
 
 ## Introduction

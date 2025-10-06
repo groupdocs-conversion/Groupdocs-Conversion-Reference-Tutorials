@@ -5,8 +5,8 @@
 "title": "Chuyển đổi PPSM sang PDF"
 "url": "/vi/net/pdf-conversion/convert-ppsm-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Chuyển đổi PPSM sang PDF
 
 ## Giới thiệu

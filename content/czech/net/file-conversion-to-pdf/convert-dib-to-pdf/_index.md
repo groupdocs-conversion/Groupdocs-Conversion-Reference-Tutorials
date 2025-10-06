@@ -5,8 +5,8 @@
 "title": "Převod obrázků DIB do PDF"
 "url": "/cs/net/file-conversion-to-pdf/convert-dib-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # Převod obrázků DIB do PDF
 
 ## Zavedení

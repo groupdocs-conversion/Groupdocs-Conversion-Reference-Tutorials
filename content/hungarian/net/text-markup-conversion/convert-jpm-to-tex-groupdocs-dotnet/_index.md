@@ -4,8 +4,8 @@
 "title": "JPM konvertálása TEX-be a GroupDocs.Conversion .NET használatával – Átfogó útmutató"
 "url": "/hu/net/text-markup-conversion/convert-jpm-to-tex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # JPM konvertálása TEX-be a GroupDocs.Conversion .NET használatával: Átfogó útmutató
 
 ## Bevezetés

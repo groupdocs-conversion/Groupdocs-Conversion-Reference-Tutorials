@@ -4,8 +4,8 @@
 "title": "Konversi Master PDF ke DOCX di .NET Menggunakan GroupDocs.Conversion"
 "url": "/id/net/word-processing-conversion/pdf-to-docx-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konversi PDF ke DOCX dengan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

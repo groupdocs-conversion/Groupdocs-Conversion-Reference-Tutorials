@@ -5,8 +5,8 @@
 "title": "PSTをPDFに変換する"
 "url": "/ja/net/file-format-conversion-tutorials/convert-pst-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # PSTをPDFに変換する
 
 ## 導入

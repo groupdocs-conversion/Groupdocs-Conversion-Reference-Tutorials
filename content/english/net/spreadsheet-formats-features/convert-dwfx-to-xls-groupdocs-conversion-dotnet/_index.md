@@ -8,10 +8,8 @@ keywords:
 - convert DWFX to XLS
 - GroupDocs.Conversion for .NET
 - DWFX file conversion
-
+type: docs
 ---
-
-
 # Convert DWFX to XLS Easily with GroupDocs.Conversion for .NET
 
 ## Introduction

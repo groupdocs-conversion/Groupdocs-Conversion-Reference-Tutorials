@@ -4,8 +4,8 @@
 "title": "將 MPP 轉換為 JPG——使用 GroupDocs.Conversion for .NET 的綜合指南"
 "url": "/zh-hant/net/image-conversion/convert-mpp-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 將 MPP 轉換為 JPG：使用 GroupDocs.Conversion for .NET 的逐步指南
 
 ## 介紹

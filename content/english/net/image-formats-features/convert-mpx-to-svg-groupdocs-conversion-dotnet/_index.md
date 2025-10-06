@@ -8,10 +8,8 @@ keywords:
 - MPX to SVG conversion
 - GroupDocs.Conversion .NET
 - convert MPX files
-
+type: docs
 ---
-
-
 # Convert MPX Files to SVG with GroupDocs.Conversion in .NET
 
 ## Introduction

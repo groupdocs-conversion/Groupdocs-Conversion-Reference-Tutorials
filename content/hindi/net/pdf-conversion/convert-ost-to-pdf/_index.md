@@ -5,8 +5,8 @@
 "title": "OST को PDF में बदलें"
 "url": "/hi/net/pdf-conversion/convert-ost-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # OST को PDF में बदलें
 
 ## परिचय

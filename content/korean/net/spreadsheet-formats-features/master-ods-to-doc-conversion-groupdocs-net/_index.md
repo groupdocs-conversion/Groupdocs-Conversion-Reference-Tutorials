@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 ODS를 DOC로 변환하는 종합 가이드"
 "url": "/ko/net/spreadsheet-formats-features/master-ods-to-doc-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 종합 가이드: GroupDocs.Conversion for .NET을 사용하여 ODS를 DOC로 변환
 
 OpenDocument 스프레드시트(ODS) 파일을 Microsoft Word 문서로 원활하게 변환하고 싶으신가요? **.NET용 GroupDocs.Conversion**, 이 작업은 간단해집니다. 이 포괄적인 가이드는 과정을 단계별로 안내합니다.

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET ile XLSM'yi LaTeX'e Kolayca Dönüştürün"
 "url": "/tr/net/spreadsheet-formats-features/convert-xlsm-to-latex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET ile XLSM'yi LaTeX'e Kolayca Dönüştürün
 
 ## giriiş

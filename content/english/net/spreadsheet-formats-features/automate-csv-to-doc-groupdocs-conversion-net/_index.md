@@ -8,10 +8,8 @@ keywords:
 - CSV to DOC conversion
 - automate data processing with GroupDocs.Conversion for .NET
 - convert CSV files to Word documents
-
+type: docs
 ---
-
-
 # Automate CSV to DOC Conversion with GroupDocs.Conversion for .NET
 
 ## Introduction

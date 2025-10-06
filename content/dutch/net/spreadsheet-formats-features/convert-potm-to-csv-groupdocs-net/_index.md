@@ -4,8 +4,8 @@
 "title": "POTM-sjablonen converteren naar CSV met GroupDocs.Conversion voor .NET - Een uitgebreide handleiding"
 "url": "/nl/net/spreadsheet-formats-features/convert-potm-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer Microsoft PowerPoint-sjablonen (POTM) naar CSV met GroupDocs.Conversion voor .NET
 
 ## Invoering

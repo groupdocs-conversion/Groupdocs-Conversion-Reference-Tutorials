@@ -4,8 +4,8 @@
 "title": "Πλήρης οδηγός μετατροπής εγγράφων σε εφαρμογές Java για το Master GroupDocs.Conversion Java"
 "url": "/el/java/document-operations/groupdocs-conversion-java-master-document-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Εξοικείωση με το GroupDocs.Conversion Java: Ξεκλειδώστε τις δυνατότητες μετατροπής εγγράφων
 
 ## Εισαγωγή

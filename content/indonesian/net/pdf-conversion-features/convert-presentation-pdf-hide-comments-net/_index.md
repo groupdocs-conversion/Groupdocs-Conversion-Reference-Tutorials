@@ -4,8 +4,8 @@
 "title": "Sembunyikan Komentar dalam PDF&#58; Ubah PPT ke PDF dengan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/pdf-conversion-features/convert-presentation-pdf-hide-comments-net/"
 "weight": 1
+type: docs
 ---
-
 # Sembunyikan Komentar dalam PDF: Ubah PPT ke PDF dengan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

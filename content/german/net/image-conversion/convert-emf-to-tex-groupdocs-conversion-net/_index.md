@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie EMF in TEX mit GroupDocs.Conversion für .NET – Ein umfassender Leitfaden"
 "url": "/de/net/image-conversion/convert-emf-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie EMF in TEX mit GroupDocs.Conversion für .NET: Ein umfassender Leitfaden
 
 ## Einführung

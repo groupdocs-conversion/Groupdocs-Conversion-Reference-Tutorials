@@ -4,8 +4,8 @@
 "title": "Πώς να μετατρέψετε αρχεία στένσιλ του Visio (VSSX) σε παρουσιάσεις PowerPoint χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/presentation-formats-features/convert-visio-vssx-to-powerpoint-pptx-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε αρχεία στένσιλ του Visio (VSSX) σε παρουσιάσεις PowerPoint χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

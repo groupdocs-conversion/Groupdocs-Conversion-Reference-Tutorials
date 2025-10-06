@@ -4,8 +4,8 @@
 "title": "Comment convertir des fichiers MPX en XLSX avec GroupDocs.Conversion pour .NET ? Un guide complet"
 "url": "/fr/net/spreadsheet-formats-features/convert-mpx-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des fichiers MPX en XLSX avec GroupDocs.Conversion pour .NET
 
 ## Introduction

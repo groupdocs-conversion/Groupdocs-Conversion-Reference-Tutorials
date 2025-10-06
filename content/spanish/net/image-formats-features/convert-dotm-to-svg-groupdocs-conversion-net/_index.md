@@ -4,8 +4,8 @@
 "title": "Convertir DOTM a SVG con GroupDocs.Conversion para .NET&#58; guía completa"
 "url": "/es/net/image-formats-features/convert-dotm-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir DOTM a SVG usando GroupDocs.Conversion en .NET
 
 ## Introducción

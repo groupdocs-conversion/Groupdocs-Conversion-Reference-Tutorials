@@ -4,8 +4,8 @@
 "title": "Java'da GroupDocs.Conversion için Ölçülü Lisans Uygulaması&#58; Kapsamlı Bir Kılavuz"
 "url": "/tr/java/getting-started/implement-metered-license-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Java'da GroupDocs.Conversion için Ölçülü Lisans Uygulama
 
 ## giriiş

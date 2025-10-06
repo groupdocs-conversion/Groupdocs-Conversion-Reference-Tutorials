@@ -8,10 +8,8 @@ keywords:
 - convert DOCM to DOCX
 - GroupDocs.Conversion for .NET
 - Word Macro-Enabled document conversion
-
+type: docs
 ---
-
-
 # Convert DOCM Files to DOCX Using GroupDocs.Conversion for .NET
 
 ## Introduction

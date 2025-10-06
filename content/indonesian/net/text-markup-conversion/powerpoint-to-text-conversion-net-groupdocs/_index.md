@@ -4,8 +4,8 @@
 "title": "Konversi PowerPoint ke Teks yang Efisien dalam .NET Menggunakan GroupDocs.Conversion"
 "url": "/id/net/text-markup-conversion/powerpoint-to-text-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Konversi PowerPoint ke Teks yang Efisien dalam .NET Menggunakan GroupDocs.Conversion
 ## Menguasai Konversi PowerPoint ke Teks dengan GroupDocs.Conversion untuk .NET: Panduan Lengkap
 ### Perkenalan

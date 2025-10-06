@@ -4,8 +4,8 @@
 "title": "So entfernen Sie eingebettete Dateien aus PDFs mit GroupDocs.Conversion .NET für optimiertes Dokumentenmanagement"
 "url": "/de/net/pdf-conversion-features/remove-embedded-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # So entfernen Sie eingebettete Dateien aus PDFs mit GroupDocs.Conversion .NET für optimiertes Dokumentenmanagement
 
 ## Einführung

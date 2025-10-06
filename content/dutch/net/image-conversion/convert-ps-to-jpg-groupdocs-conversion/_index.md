@@ -4,8 +4,8 @@
 "title": "PS-bestanden naar JPG converteren met GroupDocs.Conversion voor .NET&#58; een complete handleiding"
 "url": "/nl/net/image-conversion/convert-ps-to-jpg-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # PS-bestanden naar JPG converteren met GroupDocs.Conversion voor .NET: een complete handleiding
 
 ## Invoering

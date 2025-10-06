@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用した EPUB から PPT への変換に関する総合ガイド"
 "url": "/ja/net/presentation-conversion/groupdocs-epub-to-ppt-conversion-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # 包括的なガイド: GroupDocs.Conversion for .NET を使用した EPUB から PPT への変換
 
 ## 導入

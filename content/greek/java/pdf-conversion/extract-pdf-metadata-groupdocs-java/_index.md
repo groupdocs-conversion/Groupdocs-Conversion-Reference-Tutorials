@@ -4,8 +4,8 @@
 "title": "Πώς να εξαγάγετε μεταδεδομένα PDF χρησιμοποιώντας το GroupDocs.Conversion σε Java"
 "url": "/el/java/pdf-conversion/extract-pdf-metadata-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να εξαγάγετε μεταδεδομένα PDF χρησιμοποιώντας το GroupDocs.Conversion σε Java
 
 ## Εισαγωγή

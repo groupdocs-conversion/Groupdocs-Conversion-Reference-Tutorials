@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके BMP छवियों को PSD प्रारूप में कैसे परिवर्तित करें"
 "url": "/hi/net/image-conversion/convert-bmp-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # मास्टरिंग छवि रूपांतरण: .NET के लिए GroupDocs.Conversion का उपयोग करके BMP छवियों को PSD में परिवर्तित करें
 
 ## परिचय

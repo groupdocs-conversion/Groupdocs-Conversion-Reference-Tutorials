@@ -4,8 +4,8 @@
 "title": "Lettertypevervanging in Java&#58; GroupDocs onder de knie krijgen. Conversie voor consistente PDF-uitvoer"
 "url": "/nl/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/"
 "weight": 1
+type: docs
 ---
-
 # Lettertypevervanging onder de knie krijgen met GroupDocs.Conversion voor Java
 
 ## Invoering

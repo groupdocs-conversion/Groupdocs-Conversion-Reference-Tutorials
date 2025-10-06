@@ -8,10 +8,8 @@ keywords:
 - convert MPX to PNG
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Convert MPX Files to PNG with GroupDocs.Conversion for .NET
 
 ## Introduction

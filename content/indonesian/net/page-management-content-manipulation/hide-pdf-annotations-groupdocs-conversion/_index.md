@@ -4,8 +4,8 @@
 "title": "Cara Menyembunyikan Anotasi PDF Sebelum Mengonversi ke Word Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/page-management-content-manipulation/hide-pdf-annotations-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Cara Menyembunyikan Anotasi PDF Sebelum Mengonversi ke Word dengan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

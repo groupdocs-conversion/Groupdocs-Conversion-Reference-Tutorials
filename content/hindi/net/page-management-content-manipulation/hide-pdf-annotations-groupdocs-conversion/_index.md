@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके Word में कनवर्ट करने से पहले PDF एनोटेशन कैसे छिपाएं"
 "url": "/hi/net/page-management-content-manipulation/hide-pdf-annotations-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion के साथ Word में कनवर्ट करने से पहले PDF एनोटेशन कैसे छिपाएं
 
 ## परिचय

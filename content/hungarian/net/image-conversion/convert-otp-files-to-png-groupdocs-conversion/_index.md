@@ -4,8 +4,8 @@
 "title": "OTP fájlok PNG formátumba konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-otp-files-to-png-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató: OTP fájlok konvertálása PNG formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

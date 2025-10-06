@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して EMF ファイルを読み込む方法 包括的なガイド"
 "url": "/ja/net/image-formats-features/load-emf-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して EMF ファイルを読み込む方法: 包括的なガイド
 
 ## 導入

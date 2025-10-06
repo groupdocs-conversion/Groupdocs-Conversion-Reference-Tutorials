@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Learn how to convert EML email messages to PDF effortlessly using GroupDocs.Conversion for .NET.
 weight: 14
 url: /net/convert-files-to-pdf/convert-eml-to-pdf/
+type: docs
 ---
-
 # Convert EML Email Messages to PDF
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - convert JPC to PPTX
 - GroupDocs.Conversion for .NET
 - image conversion in .NET
-
+type: docs
 ---
-
-
 # Comprehensive Tutorial: Convert JPC to PPTX Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Jak převést soubory VSX do formátu TXT pomocí nástroje GroupDocs.Conversion pro .NET – podrobný návod"
 "url": "/cs/net/text-file-processing/convert-vsx-to-txt-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory VSX do formátu TXT pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

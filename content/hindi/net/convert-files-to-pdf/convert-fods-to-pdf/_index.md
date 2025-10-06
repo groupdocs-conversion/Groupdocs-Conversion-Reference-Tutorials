@@ -5,8 +5,8 @@
 "title": "FODS ओपनडॉक्यूमेंट स्प्रेडशीट को PDF में बदलें"
 "url": "/hi/net/convert-files-to-pdf/convert-fods-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # FODS ओपनडॉक्यूमेंट स्प्रेडशीट को PDF में बदलें
 
 ## परिचय

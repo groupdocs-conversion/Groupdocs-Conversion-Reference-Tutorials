@@ -4,8 +4,8 @@
 "title": "Panduan Langkah demi Langkah Mengonversi MBOX ke XLS Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/spreadsheet-conversion/convert-mbox-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi MBOX ke XLS: Panduan Langkah demi Langkah Menggunakan GroupDocs.Conversion untuk .NET
 ## Perkenalan
 Apakah Anda mengelola banyak email yang disimpan dalam file MBOX dan ingin menganalisis atau menyajikan data tersebut secara sistematis? Mengonversi email ini ke dalam format spreadsheet seperti XLS dapat sangat menyederhanakan tugas Anda. Tutorial ini memandu Anda mengonversi file MBOX ke XLS menggunakan GroupDocs.Conversion for .NET, pustaka canggih yang menyederhanakan tugas konversi dokumen.

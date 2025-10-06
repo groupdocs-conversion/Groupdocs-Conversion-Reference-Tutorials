@@ -4,8 +4,8 @@
 "title": "Jak převést soubory WMF do HTML pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/html-conversion/convert-wmf-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory WMF do HTML pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

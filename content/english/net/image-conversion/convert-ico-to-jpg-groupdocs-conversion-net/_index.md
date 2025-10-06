@@ -8,10 +8,8 @@ keywords:
 - convert ICO to JPG
 - GroupDocs.Conversion .NET tutorial
 - ICO file conversion
-
+type: docs
 ---
-
-
 # How to Convert ICO Files to JPG Using GroupDocs.Conversion .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Skrýt komentáře v PDF a převést PPT do PDF pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/pdf-conversion-features/convert-presentation-pdf-hide-comments-net/"
 "weight": 1
+type: docs
 ---
-
 # Skrýt komentáře v PDF: Převod PPT do PDF pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

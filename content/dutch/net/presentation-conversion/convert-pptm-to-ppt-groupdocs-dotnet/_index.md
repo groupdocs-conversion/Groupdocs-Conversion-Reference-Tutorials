@@ -4,8 +4,8 @@
 "title": "Converteer PPTM naar PPT met GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/presentation-conversion/convert-pptm-to-ppt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converteer PPTM naar PPT met GroupDocs.Conversion voor .NET: een uitgebreide handleiding
 
 In het bedrijfsleven zijn PowerPoint-presentaties onmisbare hulpmiddelen. Niet iedereen heeft echter toegang tot de nieuwste versies van Microsoft Office, waardoor conversies van PPTM (PowerPoint-bestanden met macro's) naar PPT (oudere PowerPoint-indeling) noodzakelijk zijn. Deze handleiding begeleidt u bij het gebruik van GroupDocs.Conversion voor .NET om PPTM-bestanden naadloos naar PPT-indeling te converteren.

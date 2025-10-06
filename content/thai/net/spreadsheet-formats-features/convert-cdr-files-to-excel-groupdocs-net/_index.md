@@ -4,8 +4,8 @@
 "title": "แปลง CDR เป็น Excel อย่างมีประสิทธิภาพโดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/spreadsheet-formats-features/convert-cdr-files-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลง CDR เป็น Excel อย่างมีประสิทธิภาพโดยใช้ GroupDocs.Conversion สำหรับ .NET
 ## การแนะนำ
 กำลังประสบปัญหาในการแปลงไฟล์ CorelDraw Vector Graphic Drawing (.cdr) เป็นรูปแบบที่เข้าถึงได้ทั่วไป เช่น Microsoft Excel หรือไม่ คู่มือนี้จะช่วยแก้ปัญหาดังกล่าวได้อย่างมีประสิทธิภาพโดยใช้ GroupDocs.Conversion สำหรับ .NET หากปฏิบัติตามคำแนะนำทีละขั้นตอนของเรา คุณจะปรับปรุงความสามารถในการประมวลผลข้อมูลของคุณได้โดยการแปลงไฟล์ CDR เป็น XLS ได้อย่างราบรื่น

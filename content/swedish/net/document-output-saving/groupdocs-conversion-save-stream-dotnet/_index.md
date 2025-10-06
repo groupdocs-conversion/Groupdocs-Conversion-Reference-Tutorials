@@ -4,8 +4,8 @@
 "title": "Hur man sparar filer till en ström med GroupDocs.Conversion i .NET | En steg-för-steg-guide"
 "url": "/sv/net/document-output-saving/groupdocs-conversion-save-stream-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Så här implementerar du GroupDocs.Conversion .NET: Spara en konverterad fil till en ström
 
 ## Introduktion

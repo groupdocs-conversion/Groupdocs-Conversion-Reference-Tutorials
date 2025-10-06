@@ -5,8 +5,8 @@
 "title": "DIB-afbeeldingen naar PDF converteren"
 "url": "/nl/net/file-conversion-to-pdf/convert-dib-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # DIB-afbeeldingen naar PDF converteren
 
 ## Invoering

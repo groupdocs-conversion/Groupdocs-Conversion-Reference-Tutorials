@@ -4,8 +4,8 @@
 "title": "Nascondi i commenti nei PDF - Converti PPT in PDF con GroupDocs.Conversion per .NET"
 "url": "/it/net/pdf-conversion-features/convert-presentation-pdf-hide-comments-net/"
 "weight": 1
+type: docs
 ---
-
 # Nascondi i commenti nei PDF: converti PPT in PDF con GroupDocs.Conversion per .NET
 
 ## Introduzione

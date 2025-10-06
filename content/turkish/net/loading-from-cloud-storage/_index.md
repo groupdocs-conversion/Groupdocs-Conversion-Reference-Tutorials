@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET için Bulut Depolama Eğitimlerinden Belgeleri Yükleme"
 "url": "/tr/net/loading-from-cloud-storage/"
 "weight": 4
+type: docs
 ---
-
 # GroupDocs.Conversion .NET için Bulut Depolama Eğitimlerinden Belgeleri Yükleme
 
 Bulut depolama eğitimlerimiz, .NET uygulamalarında GroupDocs.Conversion'ı popüler bulut depolama platformlarıyla nasıl entegre edeceğinizi gösterir. Bu ayrıntılı kılavuzlar, Amazon S3 kovalarına bağlanma, Azure Blob Storage kapsayıcılarına erişme, uygun kimlik bilgilerini yapılandırma, bölgeye özgü ayarları yönetme, bağlantı havuzlamasını yönetme ve bulut işlemleri için yeniden deneme mantığını uygulama konusunda yol gösterir. Her eğitim, bulut belge alma senaryoları için pratik C# kod örnekleri içerir ve dönüştürme iş akışlarınızda bulut tabanlı belge depolarından yararlanan sağlam uygulamalar oluşturmanıza yardımcı olur.

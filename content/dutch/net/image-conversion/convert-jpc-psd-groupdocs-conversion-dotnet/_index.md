@@ -4,8 +4,8 @@
 "title": "Converteer JPC eenvoudig naar PSD met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/image-conversion/convert-jpc-psd-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converteer JPC naar PSD met GroupDocs.Conversion voor .NET
 
 ## Invoering

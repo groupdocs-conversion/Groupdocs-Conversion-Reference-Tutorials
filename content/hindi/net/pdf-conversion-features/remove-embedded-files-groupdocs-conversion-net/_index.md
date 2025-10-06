@@ -4,8 +4,8 @@
 "title": "अनुकूलित दस्तावेज़ प्रबंधन के लिए GroupDocs.Conversion .NET का उपयोग करके PDF से एम्बेडेड फ़ाइलें कैसे निकालें"
 "url": "/hi/net/pdf-conversion-features/remove-embedded-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # अनुकूलित दस्तावेज़ प्रबंधन के लिए GroupDocs.Conversion .NET का उपयोग करके PDF से एम्बेडेड फ़ाइलें कैसे निकालें
 
 ## परिचय

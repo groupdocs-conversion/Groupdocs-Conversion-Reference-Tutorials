@@ -4,8 +4,8 @@
 "title": "Làm chủ chuyển đổi tệp đính kèm email .NET với GroupDocs.Conversion Library&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/email-formats-features/net-email-attachment-conversion-groupdocs-guide/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp đính kèm email .NET thành thạo với Thư viện chuyển đổi GroupDocs.
 
 ## Giới thiệu

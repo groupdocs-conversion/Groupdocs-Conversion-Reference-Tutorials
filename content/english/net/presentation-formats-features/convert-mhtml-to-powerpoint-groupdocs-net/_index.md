@@ -8,10 +8,8 @@ keywords:
 - convert MHTML to PowerPoint
 - GroupDocs.Conversion .NET
 - document conversion using GroupDocs
-
+type: docs
 ---
-
-
 # Convert MHTML to PowerPoint Using GroupDocs in .NET
 
 ## Introduction

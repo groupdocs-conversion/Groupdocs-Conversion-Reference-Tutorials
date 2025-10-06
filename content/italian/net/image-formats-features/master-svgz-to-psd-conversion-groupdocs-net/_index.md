@@ -4,8 +4,8 @@
 "title": "Conversione efficiente da SVGZ a PSD tramite GroupDocs.Conversion per sviluppatori .NET"
 "url": "/it/net/image-formats-features/master-svgz-to-psd-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Conversione efficiente da SVGZ a PSD tramite GroupDocs.Conversion per sviluppatori .NET
 
 ## Introduzione

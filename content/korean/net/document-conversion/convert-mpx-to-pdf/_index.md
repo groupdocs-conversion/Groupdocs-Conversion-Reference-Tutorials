@@ -5,8 +5,8 @@
 "title": "MPX를 PDF로 변환"
 "url": "/ko/net/document-conversion/convert-mpx-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # MPX를 PDF로 변환
 
 ## 소개

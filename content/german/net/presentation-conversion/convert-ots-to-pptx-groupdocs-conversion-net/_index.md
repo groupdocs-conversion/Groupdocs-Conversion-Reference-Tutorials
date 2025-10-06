@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie OTS einfach in PPTX mit GroupDocs.Conversion .NET – Ein umfassender Leitfaden"
 "url": "/de/net/presentation-conversion/convert-ots-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie OTS einfach in PPTX mit GroupDocs.Conversion .NET: Ein umfassender Leitfaden
 
 ## Einführung

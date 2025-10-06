@@ -5,8 +5,8 @@
 "title": "EPUB 전자책을 PDF로 변환"
 "url": "/ko/net/convert-files-to-pdf/convert-epub-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # EPUB 전자책을 PDF로 변환
 
 ## 소개

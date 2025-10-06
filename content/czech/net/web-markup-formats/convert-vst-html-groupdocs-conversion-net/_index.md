@@ -4,8 +4,8 @@
 "title": "Převod souborů VST do HTML pomocí GroupDocs.Conversion .NET – Podrobný návod"
 "url": "/cs/net/web-markup-formats/convert-vst-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů VST do HTML pomocí GroupDocs.Conversion .NET: Podrobný návod
 
 ## Zavedení

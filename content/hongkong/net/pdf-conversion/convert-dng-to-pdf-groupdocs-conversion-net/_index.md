@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 將 DNG 轉換為 PDF——面向開發人員的分步指南"
 "url": "/zh-hant/net/pdf-conversion/convert-dng-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 將 DNG 檔案轉換為 PDF：綜合指南
 
 ## 介紹

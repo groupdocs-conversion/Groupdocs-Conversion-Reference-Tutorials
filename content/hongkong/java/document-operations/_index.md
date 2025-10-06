@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion for Java 文件轉換操作教學課程"
 "url": "/zh-hant/java/document-operations/"
 "weight": 2
+type: docs
 ---
-
 # GroupDocs.Conversion for Java 文件轉換操作教學課程
 
 我們的文件操作教學提供了全面的指導，幫助您在 Java 中轉換不同格式的文件。請依照這些逐步指南，學習如何在 PDF、DOCX、XLSX、PPTX、HTML 等常見格式之間互相轉換。這些實用教學包含各種轉換場景的完整程式碼範例，可協助您在 Java 應用程式中建立強大的文件轉換功能。

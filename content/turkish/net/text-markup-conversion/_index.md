@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET için Metin ve İşaretleme Dönüştürme Eğitimleri"
 "url": "/tr/net/text-markup-conversion/"
 "weight": 32
+type: docs
 ---
-
 # GroupDocs.Conversion .NET için Metin ve İşaretleme Dönüştürme Eğitimleri
 
 .NET geliştiricileri için detaylı GroupDocs.Conversion eğitimlerimizle metin tabanlı biçim dönüşümünü keşfedin. Bu adım adım kılavuzlar, zengin belge biçimlerinden düz metin, XML, Markdown, TeX ve diğer metin tabanlı biçimlere nasıl dönüştürüleceğini gösterir. Kodlama seçenekleri, metin çıkarma teknikleri, özel karakterlerin işlenmesi, belge yapısının korunması, işaretleme biçimlerinde hiyerarşik ilişkilerin sürdürülmesi ve metin biçimlendirme politikalarının uygulanması hakkında bilgi edinin. Her eğitim, belgelerinizin temel içeriğini basit, taşınabilir ve kolayca ayrıştırılabilir biçimlerde yakalayan metin gösterimlerini oluşturmak için pratik C# kod örnekleri içerir.

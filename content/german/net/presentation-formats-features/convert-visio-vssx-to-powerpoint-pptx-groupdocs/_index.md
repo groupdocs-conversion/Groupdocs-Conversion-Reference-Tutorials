@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie Visio-Schablonendateien (VSSX) mit GroupDocs.Conversion für .NET in PowerPoint-Präsentationen"
 "url": "/de/net/presentation-formats-features/convert-visio-vssx-to-powerpoint-pptx-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie Visio-Schablonendateien (VSSX) mit GroupDocs.Conversion für .NET in PowerPoint-Präsentationen
 
 ## Einführung

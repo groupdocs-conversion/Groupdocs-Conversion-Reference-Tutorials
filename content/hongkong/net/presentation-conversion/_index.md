@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 的示範轉換教學"
 "url": "/zh-hant/net/presentation-conversion/"
 "weight": 31
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 的示範轉換教學
 
 我們的簡報轉換教學將向您展示如何使用 .NET 中的 GroupDocs.Conversion 將文件轉換為投影片格式。這些實用指南涵蓋如何將 PDF、Word、Excel、圖像和其他格式轉換為 PPT、PPTX、ODP 等格式。您將學習如何在轉換過程中保留視覺元素、盡可能保留動畫效果、處理幻燈片切換、產生演講者備註、管理嵌入媒體以及控制幻燈片佈局。每個教學課程都包含詳細的 C# 程式碼範例，用於建立簡報文檔，以適合向觀眾呈現的格式有效地呈現來源內容。

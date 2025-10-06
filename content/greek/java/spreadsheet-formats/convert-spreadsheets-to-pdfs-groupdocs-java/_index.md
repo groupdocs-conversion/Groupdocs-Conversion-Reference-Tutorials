@@ -4,8 +4,8 @@
 "title": "Μετατροπή υπολογιστικών φύλλων σε PDF με το GroupDocs.Conversion for Java - Ένας πλήρης οδηγός"
 "url": "/el/java/spreadsheet-formats/convert-spreadsheets-to-pdfs-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή υπολογιστικών φύλλων σε PDF με το GroupDocs.Conversion για Java: Ένας πλήρης οδηγός
 
 ## Εισαγωγή

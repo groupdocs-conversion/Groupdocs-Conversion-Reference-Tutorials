@@ -4,8 +4,8 @@
 "title": "PPSX konvertálása XLSX-re a GroupDocs.Conversion .NET használatával – Átfogó útmutató"
 "url": "/hu/net/presentation-conversion/convert-ppsx-to-xlsx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # PPSX konvertálása XLSX-re a GroupDocs.Conversion .NET használatával: Átfogó útmutató
 
 ## Bevezetés

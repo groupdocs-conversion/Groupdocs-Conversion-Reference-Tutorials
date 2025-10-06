@@ -5,8 +5,8 @@
 "title": "WMF를 PDF로 변환"
 "url": "/ko/net/converting-file-types-to-pdf/convert-wmf-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # WMF를 PDF로 변환
 
 ## 소개

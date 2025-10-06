@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak Günlük Dosyalarını Verimli Şekilde PowerPoint'e Dönüştürün"
 "url": "/tr/net/presentation-conversion/convert-log-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak Günlük Dosyalarını Verimli Şekilde PowerPoint'e Dönüştürün
 
 ## giriiş

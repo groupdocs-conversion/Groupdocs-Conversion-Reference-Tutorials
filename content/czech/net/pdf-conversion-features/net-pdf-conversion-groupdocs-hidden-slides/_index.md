@@ -4,8 +4,8 @@
 "title": "Zvládněte převod PDF z .NET se skrytými snímky pomocí GroupDocs.Conversion"
 "url": "/cs/net/pdf-conversion-features/net-pdf-conversion-groupdocs-hidden-slides/"
 "weight": 1
+type: docs
 ---
-
 # Zvládněte převod PDF z .NET se skrytými snímky pomocí GroupDocs.Conversion
 
 ## Zavedení

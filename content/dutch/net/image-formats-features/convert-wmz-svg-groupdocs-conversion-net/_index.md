@@ -4,8 +4,8 @@
 "title": "Converteer WMZ naar SVG in .NET met GroupDocs.Conversion - Stapsgewijze handleiding"
 "url": "/nl/net/image-formats-features/convert-wmz-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hoe u WMZ naar SVG converteert met GroupDocs.Conversion voor .NET
 
 ## Invoering

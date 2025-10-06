@@ -5,8 +5,8 @@
 "title": "Převod OTP do PDF"
 "url": "/cs/net/pdf-conversion/convert-otp-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # Převod OTP do PDF
 
 ## Zavedení

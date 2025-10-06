@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 DOCX 템플릿을 Excel로 변환하는 방법&#58; 종합 가이드"
 "url": "/ko/net/spreadsheet-formats-features/convert-docx-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 DOCX 템플릿을 Excel로 변환하는 방법: 포괄적인 가이드
 
 ## 소개

@@ -4,8 +4,8 @@
 "title": "Převod LOGu do PDF pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/pdf-conversion/convert-log-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod LOGu do PDF pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

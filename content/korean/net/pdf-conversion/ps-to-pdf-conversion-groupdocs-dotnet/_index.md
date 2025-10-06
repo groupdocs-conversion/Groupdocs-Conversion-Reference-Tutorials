@@ -4,8 +4,8 @@
 "title": ".NET에서 GroupDocs.Conversion을 사용하여 PS를 PDF로 변환하는 방법&#58; 단계별 가이드"
 "url": "/ko/net/pdf-conversion/ps-to-pdf-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET에서 GroupDocs.Conversion을 사용하여 PS를 PDF로 변환하는 방법: 단계별 가이드
 
 ## 소개

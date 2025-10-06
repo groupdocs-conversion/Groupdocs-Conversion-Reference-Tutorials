@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Java 的 Web 和标记格式转换教程"
 "url": "/zh/java/web-markup-formats/"
 "weight": 13
+type: docs
 ---
-
 # GroupDocs.Conversion Java 的 Web 和标记格式转换教程
 
 我们的 Web 格式转换教程将向您展示如何使用 Java 中的 GroupDocs.Conversion 在标记语言和文档格式之间进行转换。这些实用指南将逐步讲解文档与 HTML 之间的相互转换、CSS 样式的保留、嵌入式资源的处理、XML 结构的维护以及编码和渲染的正确性。每个教程都包含针对常见 Web 格式转换场景的详细 Java 代码示例，帮助您构建能够有效衔接 Web 内容和文档格式的应用程序。

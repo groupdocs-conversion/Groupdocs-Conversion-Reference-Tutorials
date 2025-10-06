@@ -5,8 +5,8 @@
 "title": "PPSM को PDF में बदलें"
 "url": "/hi/net/pdf-conversion/convert-ppsm-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # PPSM को PDF में बदलें
 
 ## परिचय

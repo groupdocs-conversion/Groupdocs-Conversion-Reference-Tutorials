@@ -5,8 +5,8 @@
 "title": "Konvertera DOCM Word-dokument (makron) till PDF"
 "url": "/sv/net/file-conversion-to-pdf/convert-docm-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Konvertera DOCM Word-dokument (makron) till PDF
 
 ## Introduktion

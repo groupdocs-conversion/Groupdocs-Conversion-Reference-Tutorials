@@ -4,8 +4,8 @@
 "title": "تحويل GroupDocs.Conversion الفعّال لملفات VSSX في .NET - دليل شامل"
 "url": "/ar/net/presentation-formats-features/mastering-groupdocs-conversion-vssx-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل GroupDocs.Conversion الفعّال لملفات VSSX في .NET: دليل شامل
 
 ## مقدمة

@@ -5,8 +5,8 @@
 "title": "Μετατροπή αρχείων DWG CAD σε PDF"
 "url": "/el/net/convert-files-to-pdf/convert-dwg-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # Μετατροπή αρχείων DWG CAD σε PDF
 
 ## Εισαγωγή

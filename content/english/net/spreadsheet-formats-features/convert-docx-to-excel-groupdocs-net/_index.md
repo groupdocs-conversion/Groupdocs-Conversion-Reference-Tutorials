@@ -8,10 +8,8 @@ keywords:
 - DOCX to Excel conversion
 - GroupDocs.Conversion for .NET
 - .dotx to .xlsx
-
+type: docs
 ---
-
-
 # How to Convert DOCX Templates to Excel Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

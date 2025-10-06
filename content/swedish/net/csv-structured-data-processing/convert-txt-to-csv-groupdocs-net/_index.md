@@ -4,8 +4,8 @@
 "title": "Konvertera TXT till CSV med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/csv-structured-data-processing/convert-txt-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera TXT till CSV med GroupDocs.Conversion för .NET
 
 ## Introduktion

@@ -4,8 +4,8 @@
 "title": "DOT hatékony HTML-lé konvertálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/web-markup-formats/convert-dot-files-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DOT hatékony HTML-lé konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

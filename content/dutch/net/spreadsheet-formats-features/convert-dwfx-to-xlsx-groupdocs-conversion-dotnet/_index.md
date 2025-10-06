@@ -4,8 +4,8 @@
 "title": "Efficiënte DWFX naar XLSX-conversie met GroupDocs.Conversion voor .NET&#58; een handleiding voor ontwikkelaars"
 "url": "/nl/net/spreadsheet-formats-features/convert-dwfx-to-xlsx-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Efficiënte DWFX naar XLSX-conversie met GroupDocs.Conversion voor .NET: een handleiding voor ontwikkelaars
 
 ## Invoering

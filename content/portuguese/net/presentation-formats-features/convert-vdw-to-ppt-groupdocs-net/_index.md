@@ -4,8 +4,8 @@
 "title": "Converta com eficiência desenhos da Web do Visio para PowerPoint usando o GroupDocs para desenvolvedores .NET"
 "url": "/pt/net/presentation-formats-features/convert-vdw-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Conversão eficiente de desenhos da Web do Visio (VDW) em apresentações do PowerPoint usando o GroupDocs para desenvolvedores .NET
 
 ## Introdução

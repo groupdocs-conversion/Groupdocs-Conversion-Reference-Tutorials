@@ -4,8 +4,8 @@
 "title": "Chuyển đổi LOG sang tệp TXT dễ dàng với GroupDocs.Conversion cho .NET"
 "url": "/vi/net/loading-from-remote-sources/convert-log-to-txt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi LOG sang tệp TXT dễ dàng với GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "C#에서 GroupDocs.Conversion을 사용하여 VSTX를 DOCX로 효율적으로 변환"
 "url": "/ko/net/word-processing-formats-features/convert-vstx-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # C#에서 GroupDocs.Conversion을 사용하여 VSTX를 DOCX로 효율적으로 변환
 
 ## 소개

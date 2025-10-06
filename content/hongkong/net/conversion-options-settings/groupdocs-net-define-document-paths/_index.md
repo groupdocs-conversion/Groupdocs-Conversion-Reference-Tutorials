@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中實現高效的文件路徑管理－定義常數以實現無縫轉換"
 "url": "/zh-hant/net/conversion-options-settings/groupdocs-net-define-document-paths/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 .NET 中實現高效率的文件路徑管理
 
 ## 介紹

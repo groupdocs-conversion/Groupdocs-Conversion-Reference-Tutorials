@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion을 사용한 Java 파일 캐싱 - 효율적인 문서 변환을 위한 종합 가이드"
 "url": "/ko/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용하여 효율적인 문서 변환을 위한 Java 파일 캐싱 구현 방법
 
 ## 소개

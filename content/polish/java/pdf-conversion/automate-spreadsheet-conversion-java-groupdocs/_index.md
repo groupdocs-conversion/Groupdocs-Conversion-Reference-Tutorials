@@ -4,8 +4,8 @@
 "title": "Zautomatyzuj konwersję arkusza kalkulacyjnego do pliku PDF w Javie za pomocą GroupDocs.Conversion"
 "url": "/pl/java/pdf-conversion/automate-spreadsheet-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Zautomatyzuj konwersję arkusza kalkulacyjnego do pliku PDF w Javie za pomocą GroupDocs.Conversion
 
 ## Wstęp

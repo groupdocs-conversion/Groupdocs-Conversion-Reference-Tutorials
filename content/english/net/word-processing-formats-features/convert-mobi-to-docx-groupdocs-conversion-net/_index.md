@@ -8,10 +8,8 @@ keywords:
 - MOBI to DOCX conversion
 - GroupDocs.Conversion for .NET setup
 - efficient file format conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert MOBI to DOCX with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "VSSM hatékony konvertálása CSV-vé a GroupDocs.Conversion használatával C##-ben&#58; Átfogó útmutató"
 "url": "/hu/net/csv-structured-data-processing/convert-vssm-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # VSSM fájlok konvertálása CSV formátumba a GroupDocs.Conversion .NET használatával: Átfogó útmutató
 
 ## Bevezetés

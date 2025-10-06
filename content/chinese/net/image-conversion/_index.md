@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 图像转换教程"
 "url": "/zh/net/image-conversion/"
 "weight": 28
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 图像转换教程
 
 我们的图像转换教程提供了全面的指导，帮助您在 .NET 应用程序中将文档转换为各种图像格式。这些分步指南演示了如何将文档从 Word、PDF、PowerPoint、CAD 图纸等来源转换为 JPG、PNG、TIFF、SVG 和其他图像格式。学习如何控制分辨率、色深、压缩、透明度和其他图像特定设置，以在质量和文件大小之间实现最佳平衡。每个教程都包含详细的 C# 代码示例，用于创建高质量的文档图像表示，非常适合预览、存档或进一步的图像处理。

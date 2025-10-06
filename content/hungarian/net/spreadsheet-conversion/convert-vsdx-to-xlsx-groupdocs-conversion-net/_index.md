@@ -4,8 +4,8 @@
 "title": "VSD fájlok XLSX formátumra konvertálása a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/spreadsheet-conversion/convert-vsdx-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VSD fájlok XLSX formátumra konvertálása a GroupDocs.Conversion for .NET használatával – Átfogó útmutató
 
 ## Bevezetés

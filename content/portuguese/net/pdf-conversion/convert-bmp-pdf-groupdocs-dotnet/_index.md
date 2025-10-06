@@ -4,8 +4,8 @@
 "title": "Guia completo&#58; converter BMP em PDF usando GroupDocs.Conversion para .NET"
 "url": "/pt/net/pdf-conversion/convert-bmp-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Guia completo: converter BMP em PDF usando GroupDocs.Conversion para .NET
 
 ## Introdução

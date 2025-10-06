@@ -5,8 +5,8 @@
 "title": "VSTX naar PDF converteren"
 "url": "/nl/net/converting-file-types-to-pdf/convert-vstx-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # VSTX naar PDF converteren
 
 ## Invoering

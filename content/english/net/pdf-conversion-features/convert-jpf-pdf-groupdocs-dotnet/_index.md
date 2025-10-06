@@ -8,10 +8,8 @@ keywords:
 - convert JPF to PDF
 - GroupDocs.Conversion for .NET
 - PDF conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert JPF to PDF Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

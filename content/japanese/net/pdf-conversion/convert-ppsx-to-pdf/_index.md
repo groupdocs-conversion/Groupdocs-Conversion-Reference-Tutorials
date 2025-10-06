@@ -5,8 +5,8 @@
 "title": "PPSXをPDFに変換する"
 "url": "/ja/net/pdf-conversion/convert-ppsx-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # PPSXをPDFに変換する
 
 ## 導入

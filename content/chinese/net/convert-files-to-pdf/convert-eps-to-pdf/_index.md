@@ -5,8 +5,8 @@
 "title": "将 EPS 封装的 PostScript 文件转换为 PDF"
 "url": "/zh/net/convert-files-to-pdf/convert-eps-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # 将 EPS 封装的 PostScript 文件转换为 PDF
 
 ## 介绍

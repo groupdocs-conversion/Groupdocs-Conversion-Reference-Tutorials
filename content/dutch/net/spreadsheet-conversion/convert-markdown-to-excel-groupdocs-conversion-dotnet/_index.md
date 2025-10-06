@@ -4,8 +4,8 @@
 "title": "Markdown converteren naar Excel met GroupDocs.Conversion voor .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/spreadsheet-conversion/convert-markdown-to-excel-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Markdown converteren naar Excel met GroupDocs.Conversion voor .NET
 ## Invoering
 Heb je moeite met het converteren van je Markdown-bestanden naar een universeel toegankelijk formaat zoals Excel? Je bent niet de enige. Veel gebruikers hebben moeite met het transformeren van hun `.md` documenten in `.xlsx`, vooral bij het werken met datagestuurde content die bewerking in spreadsheets vereist. Deze uitgebreide tutorial begeleidt je bij het converteren van Markdown naar Excel met behulp van de krachtige GroupDocs.Conversion voor .NET-bibliotheek, een robuuste oplossing die speciaal voor deze taak is ontworpen.

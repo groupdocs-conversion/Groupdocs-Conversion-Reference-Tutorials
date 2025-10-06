@@ -4,8 +4,8 @@
 "title": "PPTX Dosyalarını GroupDocs.Conversion Kullanarak .NET'te PNG'ye Nasıl Dönüştürebilirsiniz? Kapsamlı Bir Kılavuz"
 "url": "/tr/net/image-conversion/convert-pptx-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PPTX Dosyalarını .NET'te GroupDocs.Conversion Kullanarak PNG'ye Nasıl Dönüştürebilirsiniz: Kapsamlı Bir Kılavuz
 
 ## giriiş

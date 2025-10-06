@@ -5,8 +5,8 @@
 "title": "Chuyển đổi mẫu DOTX Word sang PDF"
 "url": "/vi/net/file-conversion-to-pdf/convert-dotx-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # Chuyển đổi mẫu DOTX Word sang PDF
 
 ## Giới thiệu

@@ -8,10 +8,8 @@ keywords:
 - convert PowerPoint templates to JPEG
 - GroupDocs.Conversion for .NET
 - PowerPoint template conversion
-
+type: docs
 ---
-
-
 # Efficient Conversion of PowerPoint Templates to JPEG in .NET Using GroupDocs.Conversion
 
 ## Introduction

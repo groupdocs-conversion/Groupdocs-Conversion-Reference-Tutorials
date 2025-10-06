@@ -4,8 +4,8 @@
 "title": "Converta JPG para XLS usando GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/spreadsheet-conversion/convert-jpg-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter JPG para XLS usando o GroupDocs.Conversion para .NET: um guia completo
 
 ## Introdução

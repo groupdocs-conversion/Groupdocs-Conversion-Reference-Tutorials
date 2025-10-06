@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET을 사용하여 ODS를 XLSX로 변환하는 포괄적인 가이드"
 "url": "/ko/net/spreadsheet-conversion/groupdocs-conversion-ods-to-xlsx-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET을 사용하여 ODS를 XLSX로 변환: 포괄적인 가이드
 
 오늘날의 데이터 중심 환경에서는 원활한 파일 변환이 매우 중요합니다. 스프레드시트를 사용하는 개발자와 비즈니스 전문가의 경우, Open Document Spreadsheets(ODS)를 Microsoft Excel Open XML Spreadsheets(XLSX)로 변환하면 생산성을 크게 향상시킬 수 있습니다. 이 가이드에서는 GroupDocs.Conversion for .NET을 사용하여 이러한 변환을 손쉽게 수행하는 방법을 안내합니다.

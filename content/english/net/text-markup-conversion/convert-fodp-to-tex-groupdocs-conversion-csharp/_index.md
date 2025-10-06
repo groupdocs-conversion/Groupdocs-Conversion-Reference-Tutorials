@@ -8,10 +8,8 @@ keywords:
 - convert FODP to TeX
 - GroupDocs.Conversion for .NET
 - document conversion C#
-
+type: docs
 ---
-
-
 # How to Convert FODP to TeX Format Using GroupDocs.Conversion for .NET
 
 ## Introduction

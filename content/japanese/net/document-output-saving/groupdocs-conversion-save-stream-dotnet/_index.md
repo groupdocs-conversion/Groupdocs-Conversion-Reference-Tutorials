@@ -4,8 +4,8 @@
 "title": ".NET で GroupDocs.Conversion を使用してファイルをストリームに保存する方法 | ステップバイステップガイド"
 "url": "/ja/net/document-output-saving/groupdocs-conversion-save-stream-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET の実装方法: 変換したファイルをストリームに保存する
 
 ## 導入

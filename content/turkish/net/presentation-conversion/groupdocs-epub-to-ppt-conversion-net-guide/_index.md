@@ -4,8 +4,8 @@
 "title": "Kapsamlı Kılavuz&#58; .NET için GroupDocs.Conversion Kullanarak EPUB'dan PPT'ye Dönüştürme"
 "url": "/tr/net/presentation-conversion/groupdocs-epub-to-ppt-conversion-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Kapsamlı Kılavuz: .NET için GroupDocs.Conversion Kullanarak EPUB'dan PPT'ye Dönüştürme
 
 ## giriiş

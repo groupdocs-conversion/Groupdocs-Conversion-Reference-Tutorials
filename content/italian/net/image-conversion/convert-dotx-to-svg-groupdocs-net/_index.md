@@ -4,8 +4,8 @@
 "title": "Come convertire i file DOTX in SVG utilizzando GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/image-conversion/convert-dotx-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire i file DOTX in SVG utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

@@ -5,8 +5,8 @@
 "title": "PST를 PDF로 변환"
 "url": "/ko/net/file-format-conversion-tutorials/convert-pst-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # PST를 PDF로 변환
 
 ## 소개

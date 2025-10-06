@@ -8,10 +8,8 @@ keywords:
 - convert CDR to DOCX
 - GroupDocs.Conversion for .NET
 - file conversion in .NET
-
+type: docs
 ---
-
-
 # How to Convert CDR Files to DOCX Using GroupDocs.Conversion for .NET
 
 ## Introduction

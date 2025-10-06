@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion licenc beállítása Java-ban az InputStream használatával"
 "url": "/hu/java/getting-started/groupdocs-conversion-license-java-input-stream/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion licencbeállításának megvalósítása InputStream segítségével Java-ban
 ## Bevezetés
 Szeretnéd fejleszteni Java-alkalmazásodat a GroupDocs.Conversion hatékony funkcióival? A licenc megfelelő beállítása kulcsfontosságú lépés, és egy bemeneti adatfolyam használata leegyszerűsítheti ezt a folyamatot. Ez az útmutató végigvezet a GroupDocs licenc beállításán egy Java-beli bemeneti adatfolyam használatával, biztosítva, hogy a konvertálási folyamatok zökkenőmentesen és licencelési problémák nélkül menjenek végbe.

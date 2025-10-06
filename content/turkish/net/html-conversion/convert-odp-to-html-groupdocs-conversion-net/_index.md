@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak ODP'yi HTML'ye Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/html-conversion/convert-odp-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak ODP'yi HTML'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "تحويلات فعّالة للمستندات في .NET باستخدام GroupDocs.Conversion - دليل شامل"
 "url": "/ar/net/conversion-utilities-information/mastering-document-conversions-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # تحويلات فعّالة للمستندات في .NET باستخدام GroupDocs.Conversion: دليل شامل
 
 ## مقدمة

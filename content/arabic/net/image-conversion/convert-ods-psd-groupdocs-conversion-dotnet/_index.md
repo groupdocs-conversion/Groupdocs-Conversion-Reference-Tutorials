@@ -4,8 +4,8 @@
 "title": "تحويل ODS إلى PSD بكفاءة باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/image-conversion/convert-ods-psd-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ODS إلى PSD باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

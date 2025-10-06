@@ -4,8 +4,8 @@
 "title": "Jak usunąć osadzone pliki z plików PDF za pomocą GroupDocs.Conversion .NET w celu zoptymalizowanego zarządzania dokumentami"
 "url": "/pl/net/pdf-conversion-features/remove-embedded-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak usunąć osadzone pliki z plików PDF za pomocą GroupDocs.Conversion .NET w celu zoptymalizowanego zarządzania dokumentami
 
 ## Wstęp

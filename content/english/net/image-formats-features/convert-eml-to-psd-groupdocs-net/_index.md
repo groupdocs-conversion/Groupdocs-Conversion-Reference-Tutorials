@@ -8,10 +8,8 @@ keywords:
 - convert EML to PSD
 - GroupDocs.Conversion .NET
 - EML file conversion
-
+type: docs
 ---
-
-
 # Convert EML Files to PSD Format Using GroupDocs.Conversion for .NET
 
 ## Introduction

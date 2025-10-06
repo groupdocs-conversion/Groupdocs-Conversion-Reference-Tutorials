@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Comprehensive Guide: Convert PNG to Excel (XLS) Using GroupDocs.Conversion for .NET
 
 ## Introduction

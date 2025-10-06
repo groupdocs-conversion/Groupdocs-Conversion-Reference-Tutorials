@@ -5,8 +5,8 @@
 "title": "Μετατροπή μηνυμάτων ηλεκτρονικού ταχυδρομείου EML σε PDF"
 "url": "/el/net/convert-files-to-pdf/convert-eml-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # Μετατροπή μηνυμάτων ηλεκτρονικού ταχυδρομείου EML σε PDF
 
 ## Εισαγωγή

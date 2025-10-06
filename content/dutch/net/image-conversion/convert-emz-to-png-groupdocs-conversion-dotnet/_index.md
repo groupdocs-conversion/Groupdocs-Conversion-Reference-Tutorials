@@ -4,8 +4,8 @@
 "title": "Converteer EMZ naar PNG met GroupDocs.Conversion voor .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/image-conversion/convert-emz-to-png-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converteer EMZ naar PNG met GroupDocs.Conversion voor .NET: een stapsgewijze handleiding
 
 ## Invoering

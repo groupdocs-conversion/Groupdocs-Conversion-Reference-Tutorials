@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion을 사용하여 .NET에서 EPS를 PSD로 변환하는 방법"
 "url": "/ko/net/image-formats-features/eps-psd-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용하여 .NET에서 EPS를 PSD로 변환하는 방법
 
 ## 소개

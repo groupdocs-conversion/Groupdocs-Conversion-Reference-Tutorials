@@ -3,8 +3,8 @@
 "title": "Tutoriels de sortie et d'enregistrement de documents pour GroupDocs.Conversion .NET"
 "url": "/fr/net/document-output-saving/"
 "weight": 6
+type: docs
 ---
-
 # Tutoriels de sortie et d'enregistrement de documents pour GroupDocs.Conversion .NET
 
 Nos tutoriels d'enregistrement de documents fournissent des instructions détaillées pour gérer les résultats de conversion dans les applications .NET. Ces guides pas à pas expliquent comment enregistrer les documents convertis dans des flux, spécifier des modèles de nommage de fichiers personnalisés, implémenter des politiques d'écrasement des fichiers de sortie, créer une sortie en plusieurs parties pour les documents volumineux et gérer les fichiers temporaires pendant le processus de conversion. Chaque tutoriel inclut des exemples de code C# fonctionnels pour différents scénarios de sortie, vous aidant à créer des applications capables de gérer avec flexibilité les résultats des opérations de conversion de documents tout en optimisant l'utilisation des ressources et l'organisation des fichiers.

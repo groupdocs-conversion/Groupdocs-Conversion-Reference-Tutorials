@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # How to Convert DOTM to PPT Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

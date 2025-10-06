@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して TEX を TXT に変換する完全ガイド"
 "url": "/ja/net/text-file-processing/convert-tex-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して TEX ファイルを TXT に変換する
 
 ## 導入

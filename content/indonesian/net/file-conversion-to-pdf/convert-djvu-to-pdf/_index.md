@@ -5,8 +5,8 @@
 "title": "Konversi Dokumen DJVU ke PDF"
 "url": "/id/net/file-conversion-to-pdf/convert-djvu-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Konversi Dokumen DJVU ke PDF
 
 ## Perkenalan

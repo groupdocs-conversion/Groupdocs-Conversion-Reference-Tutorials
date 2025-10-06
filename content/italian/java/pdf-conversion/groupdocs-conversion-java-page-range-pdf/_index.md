@@ -4,8 +4,8 @@
 "title": "Convertire un intervallo di pagine specifico in PDF utilizzando l'API Java GroupDocs.Conversion"
 "url": "/it/java/pdf-conversion/groupdocs-conversion-java-page-range-pdf/"
 "weight": 1
+type: docs
 ---
-
 # Convertire un intervallo di pagine specifico in PDF utilizzando l'API Java GroupDocs.Conversion
 
 Nell'era digitale odierna, gestire i documenti in modo efficiente è fondamentale sia per le aziende che per i privati. Convertire sezioni specifiche di un report in un formato portatile come il PDF può far risparmiare tempo e risorse. Questo tutorial ti guiderà nell'utilizzo di **GroupDocs.Conversion Java** per convertire un intervallo specificato di pagine da qualsiasi documento in un file PDF. Al termine, avrai tutte le competenze necessarie per implementare questa potente funzionalità nei tuoi progetti.

@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 掌握 .NET 中的文档转换——综合指南"
 "url": "/zh/net/conversion-options-settings/mastering-document-conversions-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 掌握 .NET 中的文档转换
 ## 介绍
 您的 .NET 应用程序中的文档转换是否让您感到困扰？您并不孤单。许多开发人员都面临着如何高效地确定文档可以转换为哪些格式的挑战。 **GroupDocs.Conversion for .NET** 提供无缝集成和强大的功能，使其成为增强应用程序功能的重要工具。

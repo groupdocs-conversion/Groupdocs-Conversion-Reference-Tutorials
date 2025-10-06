@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Kullanarak .NET'te Verimli XML'den E-Tabloya Dönüştürme"
 "url": "/tr/net/spreadsheet-conversion/xml-to-spreadsheet-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Kullanarak .NET'te Verimli XML'den E-Tabloya Dönüştürme
 
 ## giriiş

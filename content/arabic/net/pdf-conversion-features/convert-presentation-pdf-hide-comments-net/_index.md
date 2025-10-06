@@ -4,8 +4,8 @@
 "title": "إخفاء التعليقات في PDF - تحويل PPT إلى PDF باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/pdf-conversion-features/convert-presentation-pdf-hide-comments-net/"
 "weight": 1
+type: docs
 ---
-
 # إخفاء التعليقات في PDF: تحويل PPT إلى PDF باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

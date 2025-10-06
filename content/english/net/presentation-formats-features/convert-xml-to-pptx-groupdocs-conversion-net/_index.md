@@ -8,10 +8,8 @@ keywords:
 - convert XML to PPTX
 - GroupDocs.Conversion for .NET
 - XML to PowerPoint conversion
-
+type: docs
 ---
-
-
 # Convert XML to PPTX Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie JPF in SVG mit GroupDocs.Conversion für .NET – Eine vollständige Anleitung"
 "url": "/de/net/image-conversion/convert-jpf-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie JPF in SVG mit GroupDocs.Conversion für .NET
 
 ## Einführung

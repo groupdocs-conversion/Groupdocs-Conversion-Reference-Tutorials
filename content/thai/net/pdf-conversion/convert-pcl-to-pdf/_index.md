@@ -5,8 +5,8 @@
 "title": "แปลง PCL เป็น PDF"
 "url": "/th/net/pdf-conversion/convert-pcl-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # แปลง PCL เป็น PDF
 
 ## การแนะนำ

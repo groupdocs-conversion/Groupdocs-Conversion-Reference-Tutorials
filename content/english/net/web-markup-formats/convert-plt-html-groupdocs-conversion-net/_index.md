@@ -8,10 +8,8 @@ keywords:
 - Convert PLT to HTML
 - GroupDocs.Conversion for .NET tutorial
 - convert CAD drawings
-
+type: docs
 ---
-
-
 # Convert PLT Files to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

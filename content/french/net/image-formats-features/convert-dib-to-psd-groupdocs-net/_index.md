@@ -4,8 +4,8 @@
 "title": "Comment convertir des fichiers DIB en PSD à l'aide de GroupDocs.Conversion pour .NET ? Guide étape par étape"
 "url": "/fr/net/image-formats-features/convert-dib-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir des fichiers DIB en PSD avec GroupDocs.Conversion pour .NET : guide étape par étape
 
 ## Introduction

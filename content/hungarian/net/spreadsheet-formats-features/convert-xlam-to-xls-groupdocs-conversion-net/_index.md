@@ -4,8 +4,8 @@
 "title": "XLAM konvertálása XLS-sé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-xlam-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # XLAM fájlok konvertálása XLS-sé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

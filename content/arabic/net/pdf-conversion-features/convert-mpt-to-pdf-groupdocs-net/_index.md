@@ -4,8 +4,8 @@
 "title": "تحويل قوالب مشروع Microsoft (.MPT) إلى PDF باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/pdf-conversion-features/convert-mpt-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل قوالب مشروع Microsoft (.MPT) إلى PDF باستخدام GroupDocs.Conversion لـ .NET
 ## مقدمة
 هل تواجه صعوبة في مشاركة أو أرشفة قوالب Microsoft Project؟ قد يكون تحويلها إلى صيغة متاحة للجميع مثل PDF هو الحل. في هذا الدليل الشامل، سنستكشف كيفية تحويل ملفات MPT إلى ملفات PDF بسهولة باستخدام مكتبة GroupDocs.Conversion القوية لـ .NET. سيساعدك هذا البرنامج التعليمي على تبسيط مشاركة المستندات وضمان التوافق عبر مختلف المنصات.

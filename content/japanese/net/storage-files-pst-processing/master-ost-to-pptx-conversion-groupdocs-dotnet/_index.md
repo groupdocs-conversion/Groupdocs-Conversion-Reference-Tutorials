@@ -4,8 +4,8 @@
 "title": "包括的なガイド&#58; GroupDocs.Conversion for .NET を使用して OST を PPTX に変換する"
 "url": "/ja/net/storage-files-pst-processing/master-ost-to-pptx-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 包括的なガイド: GroupDocs.Conversion for .NET を使用して OST を PPTX に変換する
 
 今日のめまぐるしく変化するビジネス環境では、異なるフォーマット間でデータを効率的に変換することが不可欠です。レポートの作成やメールのアーカイブなど、Outlook OSTファイルをPowerPointプレゼンテーション（PPTX）に変換することで、ワークフローを大幅に効率化できます。この包括的なガイドでは、GroupDocs.Conversion for .NETを使用してシームレスな変換を実現する方法を解説します。

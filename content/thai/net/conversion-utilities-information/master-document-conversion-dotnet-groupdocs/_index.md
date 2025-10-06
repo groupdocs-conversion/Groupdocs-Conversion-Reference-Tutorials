@@ -4,8 +4,8 @@
 "title": "การแปลงเอกสารหลักใน .NET ด้วย GroupDocs.Conversion API"
 "url": "/th/net/conversion-utilities-information/master-document-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # เรียนรู้การแปลงเอกสารใน .NET ด้วย GroupDocs.Conversion API
 
 ยินดีต้อนรับสู่คู่มือฉบับสมบูรณ์ที่ออกแบบมาเพื่อช่วยให้คุณผสานรวมฟีเจอร์การแปลงเอกสารเข้ากับแอปพลิเคชัน .NET ได้อย่างราบรื่นโดยใช้ GroupDocs.Conversion API ไม่ว่าจะต้องจัดการเอกสารจำนวนมากหรือต้องการโซลูชันที่ยืดหยุ่นในการแปลงรูปแบบไฟล์ บทช่วยสอนนี้จะช่วยให้คุณมีทุกสิ่งที่จำเป็นในการเริ่มต้นใช้งาน

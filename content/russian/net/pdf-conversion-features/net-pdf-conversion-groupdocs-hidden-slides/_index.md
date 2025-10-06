@@ -4,8 +4,8 @@
 "title": "Мастер-преобразование .NET PDF со скрытыми слайдами с помощью GroupDocs.Conversion"
 "url": "/ru/net/pdf-conversion-features/net-pdf-conversion-groupdocs-hidden-slides/"
 "weight": 1
+type: docs
 ---
-
 # Мастер-преобразование .NET PDF со скрытыми слайдами с помощью GroupDocs.Conversion
 
 ## Введение

@@ -4,8 +4,8 @@
 "title": "TSV konvertálása XLS-be a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-tsv-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # TSV konvertálása XLS-be a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "JPF konvertálása JPG-vé a GroupDocs.Conversion for .NET használatával | Képkonverziós útmutató"
 "url": "/hu/net/image-conversion/convert-jpf-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # JPF konvertálása JPG-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

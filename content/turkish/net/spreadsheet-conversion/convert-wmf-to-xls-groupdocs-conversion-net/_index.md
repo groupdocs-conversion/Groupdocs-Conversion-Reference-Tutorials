@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanarak WMF'yi XLS'ye Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/spreadsheet-conversion/convert-wmf-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanarak WMF'yi XLS'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

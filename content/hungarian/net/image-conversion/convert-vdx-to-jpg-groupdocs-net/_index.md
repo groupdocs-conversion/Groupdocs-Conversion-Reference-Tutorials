@@ -4,8 +4,8 @@
 "title": "Hogyan konvertálhatunk VDX fájlokat JPG formátumba a GroupDocs.Conversion for .NET használatával?"
 "url": "/hu/net/image-conversion/convert-vdx-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhatunk VDX fájlokat JPG formátumba a GroupDocs.Conversion for .NET használatával?
 
 ## Bevezetés

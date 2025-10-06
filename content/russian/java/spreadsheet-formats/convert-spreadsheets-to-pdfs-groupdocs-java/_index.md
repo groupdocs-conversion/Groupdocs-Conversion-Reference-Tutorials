@@ -4,8 +4,8 @@
 "title": "Конвертируйте электронные таблицы в PDF-файлы с помощью GroupDocs.Conversion for Java&#58; Подробное руководство"
 "url": "/ru/java/spreadsheet-formats/convert-spreadsheets-to-pdfs-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте электронные таблицы в PDF-файлы с помощью GroupDocs.Conversion для Java: подробное руководство
 
 ## Введение

@@ -4,8 +4,8 @@
 "title": "POT-bestanden converteren naar PSD met GroupDocs.Conversion .NET | Handleiding voor het converteren van afbeeldingen"
 "url": "/nl/net/image-conversion/groupdocs-conversion-net-pot-psd/"
 "weight": 1
+type: docs
 ---
-
 # POT-bestanden naar PSD converteren met GroupDocs.Conversion .NET
 
 ## Invoering

@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # How to Convert VSSM Files to CSV Using GroupDocs.Conversion .NET: A Comprehensive Guide
 
 ## Introduction

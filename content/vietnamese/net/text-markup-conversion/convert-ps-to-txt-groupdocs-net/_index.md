@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi PostScript (PS) sang văn bản thuần túy bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/text-markup-conversion/convert-ps-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi PostScript (PS) sang văn bản thuần túy bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

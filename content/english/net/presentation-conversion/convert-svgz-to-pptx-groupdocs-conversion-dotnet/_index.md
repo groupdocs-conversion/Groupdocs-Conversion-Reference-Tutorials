@@ -8,10 +8,8 @@ keywords:
 - Convert SVGZ to PPTX
 - GroupDocs.Conversion for .NET
 - SVGZ file conversion
-
+type: docs
 ---
-
-
 # Convert SVGZ to PPTX using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

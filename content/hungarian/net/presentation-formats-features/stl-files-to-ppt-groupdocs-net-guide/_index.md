@@ -4,8 +4,8 @@
 "title": "STL konvertálása PowerPoint formátumba a GroupDocs.Conversion használatával C##-ben&#58; Lépésről lépésre útmutató"
 "url": "/hu/net/presentation-formats-features/stl-files-to-ppt-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # STL fájlok konvertálása PowerPoint prezentációkká a GroupDocs.Conversion használatával C#-ban
 
 ## Bevezetés

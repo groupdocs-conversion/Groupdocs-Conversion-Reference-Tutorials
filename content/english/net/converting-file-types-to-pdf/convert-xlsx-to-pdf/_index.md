@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Effortlessly convert XLSX files to PDF using GroupDocs.Conversion library for .NET. Seamless integration, customizable options, and impeccable results.
 weight: 25
 url: /net/converting-file-types-to-pdf/convert-xlsx-to-pdf/
+type: docs
 ---
-
 # Convert XLSX to PDF
 
 ## Introduction

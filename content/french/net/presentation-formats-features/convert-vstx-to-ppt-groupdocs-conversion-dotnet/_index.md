@@ -4,8 +4,8 @@
 "title": "Convertissez facilement des fichiers VSTX en PowerPoint grâce à GroupDocs.Conversion pour .NET"
 "url": "/fr/net/presentation-formats-features/convert-vstx-to-ppt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertissez facilement des fichiers VSTX en PowerPoint grâce à GroupDocs.Conversion pour .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Effektiv konvertering från TXT till DOCX med GroupDocs.Conversion för .NET"
 "url": "/sv/net/word-processing-formats-features/txt-to-docx-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Effektiv konvertering från TXT till DOCX med GroupDocs.Conversion för .NET
 
 ## Introduktion

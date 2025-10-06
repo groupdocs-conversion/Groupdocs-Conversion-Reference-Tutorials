@@ -8,10 +8,8 @@ keywords:
 - WEBP to SVG conversion
 - GroupDocs.Conversion for .NET
 - image optimization in C#
-
+type: docs
 ---
-
-
 # How to Convert WebP Images to SVG Using GroupDocs.Conversion for .NET
 
 ## Introduction

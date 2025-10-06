@@ -4,8 +4,8 @@
 "title": "MPX'i GroupDocs.Conversion for .NET Kullanarak PDF'ye Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/pdf-conversion/convert-mpx-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MPX'i GroupDocs.Conversion for .NET Kullanarak PDF'ye Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

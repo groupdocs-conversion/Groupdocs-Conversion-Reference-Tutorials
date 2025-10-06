@@ -4,8 +4,8 @@
 "title": "Müheloses Konvertieren von VSSM in PPTX mit GroupDocs.Conversion für .NET | Anleitung"
 "url": "/de/net/presentation-formats-features/convert-vssm-files-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Müheloses Konvertieren von VSSM-Dateien in PPTX mit GroupDocs.Conversion für .NET
 
 ## Einführung

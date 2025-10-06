@@ -4,8 +4,8 @@
 "title": "Efektivní převod PST do PSD pomocí GroupDocs.Conversion .NET – Průvodce pro vývojáře"
 "url": "/cs/net/storage-files-pst-processing/convert-pst-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod PST do PSD pomocí GroupDocs.Conversion .NET
 
 ## Zavedení

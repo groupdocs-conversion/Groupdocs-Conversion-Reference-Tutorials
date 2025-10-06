@@ -5,8 +5,8 @@
 "title": "TXT konvertálása PDF-be"
 "url": "/hu/net/file-format-conversion-tutorials/convert-txt-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # TXT konvertálása PDF-be
 
 ## Bevezetés

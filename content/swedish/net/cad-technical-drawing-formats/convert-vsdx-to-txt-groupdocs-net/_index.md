@@ -4,8 +4,8 @@
 "title": "Bemästra VSDX till TXT-konvertering med GroupDocs.Conversion för .NET"
 "url": "/sv/net/cad-technical-drawing-formats/convert-vsdx-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Bemästra VSDX till TXT-konvertering med GroupDocs.Conversion för .NET
 
 ## Introduktion

@@ -4,8 +4,8 @@
 "title": "Comment convertir un fichier PPSM en PSD à l'aide de GroupDocs.Conversion pour .NET ? Guide étape par étape"
 "url": "/fr/net/image-conversion/convert-ppsm-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir un fichier PPSM en PSD avec GroupDocs.Conversion pour .NET
 
 ## Introduction

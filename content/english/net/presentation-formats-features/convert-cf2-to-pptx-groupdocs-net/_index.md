@@ -8,10 +8,8 @@ keywords:
 - Convert CF2 to PPTX
 - GroupDocs.Conversion for .NET setup
 - CF2 file conversion using C#
-
+type: docs
 ---
-
-
 # How to Convert CF2 Files to PPTX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

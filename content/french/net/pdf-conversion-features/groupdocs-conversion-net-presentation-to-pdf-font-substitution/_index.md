@@ -4,8 +4,8 @@
 "title": "Convertir PowerPoint en PDF avec substitution de polices dans .NET à l'aide de GroupDocs.Conversion"
 "url": "/fr/net/pdf-conversion-features/groupdocs-conversion-net-presentation-to-pdf-font-substitution/"
 "weight": 1
+type: docs
 ---
-
 # Convertir PowerPoint en PDF avec substitution de polices dans .NET à l'aide de GroupDocs.Conversion
 
 ## Introduction

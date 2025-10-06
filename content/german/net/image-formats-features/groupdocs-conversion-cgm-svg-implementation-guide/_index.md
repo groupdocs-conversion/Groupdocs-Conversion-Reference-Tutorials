@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie CGM-Dateien mit GroupDocs.Conversion für .NET in SVG – Eine Schritt-für-Schritt-Anleitung"
 "url": "/de/net/image-formats-features/groupdocs-conversion-cgm-svg-implementation-guide/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie CGM-Dateien mit GroupDocs.Conversion für .NET in SVG: Eine Schritt-für-Schritt-Anleitung
 
 ## Einführung

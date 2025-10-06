@@ -8,10 +8,8 @@ keywords:
 - convert EMLX to XLSX
 - GroupDocs.Conversion for .NET
 - file format conversion
-
+type: docs
 ---
-
-
 # Convert EMLX to XLSX Using GroupDocs.Conversion for .NET: A Complete Guide
 
 ## Introduction

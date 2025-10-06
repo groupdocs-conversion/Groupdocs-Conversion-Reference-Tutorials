@@ -5,8 +5,8 @@
 "title": "Converter imagens DIB para PDF"
 "url": "/pt/net/file-conversion-to-pdf/convert-dib-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # Converter imagens DIB para PDF
 
 ## Introdução

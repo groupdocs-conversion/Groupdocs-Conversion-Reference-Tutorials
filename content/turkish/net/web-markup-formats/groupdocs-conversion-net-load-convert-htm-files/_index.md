@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak HTM Dosyalarını Verimli Şekilde Yükleyin ve Dönüştürün"
 "url": "/tr/net/web-markup-formats/groupdocs-conversion-net-load-convert-htm-files/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak HTM Dosyalarını Verimli Şekilde Yükleyin ve Dönüştürün
 
 ## giriiş

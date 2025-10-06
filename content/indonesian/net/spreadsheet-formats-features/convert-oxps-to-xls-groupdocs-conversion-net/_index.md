@@ -4,8 +4,8 @@
 "title": "Konversi OXPS ke XLS dengan GroupDocs.Conversion .NET&#58; Panduan Lengkap untuk Format & Fitur Spreadsheet"
 "url": "/id/net/spreadsheet-formats-features/convert-oxps-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi OXPS ke XLS dengan GroupDocs.Conversion .NET: Panduan Lengkap
 
 ## Perkenalan

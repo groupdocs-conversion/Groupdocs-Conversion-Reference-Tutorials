@@ -8,10 +8,8 @@ keywords:
 - convert DOT to SVG
 - GroupDocs.Conversion for .NET
 - SVG conversion
-
+type: docs
 ---
-
-
 # How to Convert DOT Files to SVG Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -5,8 +5,8 @@
 "title": "แปลง MPP เป็น PDF"
 "url": "/th/net/document-conversion/convert-mpp-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # แปลง MPP เป็น PDF
 
 ## การแนะนำ

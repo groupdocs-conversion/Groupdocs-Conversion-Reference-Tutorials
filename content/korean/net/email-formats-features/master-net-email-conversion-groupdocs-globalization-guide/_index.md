@@ -4,8 +4,8 @@
 "title": "GroupDocs를 활용한 .NET 이메일 변환 마스터하기&#58; 개발자를 위한 글로벌화 가이드"
 "url": "/ko/net/email-formats-features/master-net-email-conversion-groupdocs-globalization-guide/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs를 활용한 .NET 이메일 변환 마스터링: 포괄적인 글로벌화 가이드
 
 ## 소개

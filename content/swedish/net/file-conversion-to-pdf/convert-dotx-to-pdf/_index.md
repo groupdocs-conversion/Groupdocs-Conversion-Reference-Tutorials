@@ -5,8 +5,8 @@
 "title": "Konvertera DOTX Word-mallar till PDF"
 "url": "/sv/net/file-conversion-to-pdf/convert-dotx-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # Konvertera DOTX Word-mallar till PDF
 
 ## Introduktion

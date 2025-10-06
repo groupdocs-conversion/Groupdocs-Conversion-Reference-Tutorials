@@ -8,10 +8,8 @@ keywords:
 - CF2 to HTML Conversion
 - GroupDocs.Conversion for .NET
 - CAD File Conversion
-
+type: docs
 ---
-
-
 # Convert CF2 to HTML with GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Cách triển khai bộ nhớ đệm tùy chỉnh trong Java bằng Redis & GroupDocs.Conversion"
 "url": "/vi/java/cache-management/custom-cache-redis-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Cách triển khai bộ nhớ đệm tùy chỉnh trong Java bằng Redis & GroupDocs.Conversion
 
 ## Giới thiệu

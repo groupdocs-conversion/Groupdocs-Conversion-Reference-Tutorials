@@ -4,8 +4,8 @@
 "title": "Automatiseer XLTX naar XLSX-conversie in .NET met GroupDocs.Conversion"
 "url": "/nl/net/spreadsheet-formats-features/convert-xltx-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Automatische conversie van XLTX naar XLSX met GroupDocs.Conversion voor .NET
 
 ## Invoering

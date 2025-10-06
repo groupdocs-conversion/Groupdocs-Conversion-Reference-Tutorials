@@ -4,8 +4,8 @@
 "title": "Convertire file WEBP utilizzando GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/image-conversion/convert-webp-files-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertire file WEBP utilizzando GroupDocs.Conversion per .NET: una guida completa
 ## Introduzione
 Desideri convertire senza problemi file immagine come WEBP in altri formati all'interno delle tue applicazioni .NET? Molti sviluppatori incontrano difficoltà a causa della diversità dei formati immagine. Questo tutorial ti mostrerà come sfruttare GroupDocs.Conversion per .NET per caricare in modo efficiente un file WEBP sorgente e convertirlo con facilità.

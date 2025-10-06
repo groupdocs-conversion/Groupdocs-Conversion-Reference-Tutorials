@@ -5,8 +5,8 @@
 "title": "PS'yi PDF'ye dönüştür"
 "url": "/tr/net/file-format-conversion-tutorials/convert-ps-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # PS'yi PDF'ye dönüştür
 
 ## giriiş

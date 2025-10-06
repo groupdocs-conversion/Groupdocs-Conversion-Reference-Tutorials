@@ -4,8 +4,8 @@
 "title": "TIFF fájlok XLS fájlokká konvertálása a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/spreadsheet-conversion/convert-tiff-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # TIFF fájlok XLS fájlokká konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

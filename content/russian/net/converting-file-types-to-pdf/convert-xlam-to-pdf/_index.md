@@ -5,8 +5,8 @@
 "title": "Конвертировать XLAM в PDF"
 "url": "/ru/net/converting-file-types-to-pdf/convert-xlam-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # Конвертировать XLAM в PDF
 
 ## Введение

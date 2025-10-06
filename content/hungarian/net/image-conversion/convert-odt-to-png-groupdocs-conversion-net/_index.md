@@ -4,8 +4,8 @@
 "title": "ODT fájlok PNG formátumba konvertálása a GroupDocs.Conversion for .NET segítségével (Képkonverziós útmutató)"
 "url": "/hu/net/image-conversion/convert-odt-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # ODT fájlok PNG-vé konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

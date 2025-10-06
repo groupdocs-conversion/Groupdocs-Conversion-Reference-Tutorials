@@ -8,10 +8,8 @@ keywords:
 - convert CDR to DOC
 - GroupDocs.Conversion .NET
 - CorelDRAW file conversion
-
+type: docs
 ---
-
-
 # Convert CDR Files to DOC with GroupDocs in .NET
 
 ## Introduction

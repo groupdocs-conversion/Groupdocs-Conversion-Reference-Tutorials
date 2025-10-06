@@ -4,8 +4,8 @@
 "title": "XPS fájlok DOC formátumba konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/word-processing-formats-features/convert-xps-doc-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # XPS fájlok DOC formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -5,8 +5,8 @@
 "title": "Μετατροπή εγγράφων DOCM Word (μακροεντολές) σε PDF"
 "url": "/el/net/file-conversion-to-pdf/convert-docm-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Μετατροπή εγγράφων DOCM Word (μακροεντολές) σε PDF
 
 ## Εισαγωγή

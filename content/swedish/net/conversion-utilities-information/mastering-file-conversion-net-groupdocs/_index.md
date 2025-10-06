@@ -4,8 +4,8 @@
 "title": "Bemästra filkonvertering i .NET med GroupDocs.Conversion – en utvecklarguide"
 "url": "/sv/net/conversion-utilities-information/mastering-file-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Bemästra filkonvertering i .NET med GroupDocs.Conversion: Din ultimata utvecklarguide
 
 ## Introduktion

@@ -5,8 +5,8 @@
 "title": "HTML वेब पेजों को PDF में बदलें"
 "url": "/hi/net/convert-files-to-pdf/convert-html-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # HTML वेब पेजों को PDF में बदलें
 
 ## परिचय

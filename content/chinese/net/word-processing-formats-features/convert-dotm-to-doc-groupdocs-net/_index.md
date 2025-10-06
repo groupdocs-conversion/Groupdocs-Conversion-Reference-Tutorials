@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将 DOTM 转换为 DOC 综合指南"
 "url": "/zh/net/word-processing-formats-features/convert-dotm-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 将 DOTM 转换为 DOC
 
 您是否正在为将 Microsoft Word 宏模板 (.dotm) 转换为标准 Word 文档 (.doc) 而苦恼？这份全面的指南将教您如何使用 **GroupDocs.Conversion for .NET** 这个库将帮助您轻松简化这一过程。完成本教程后，您将能够轻松熟练地转换文件格式。

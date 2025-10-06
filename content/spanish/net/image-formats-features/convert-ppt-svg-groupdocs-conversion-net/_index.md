@@ -4,8 +4,8 @@
 "title": "Convierta PowerPoint a SVG de manera eficiente con GroupDocs.Conversion para .NET"
 "url": "/es/net/image-formats-features/convert-ppt-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convierta PowerPoint a SVG de manera eficiente con GroupDocs.Conversion para .NET
 
 ## Introducción

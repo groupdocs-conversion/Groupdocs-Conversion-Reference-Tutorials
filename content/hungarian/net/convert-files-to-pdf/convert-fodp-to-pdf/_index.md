@@ -5,8 +5,8 @@
 "title": "FODP OpenDocument prezentációk konvertálása PDF formátumba"
 "url": "/hu/net/convert-files-to-pdf/convert-fodp-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # FODP OpenDocument prezentációk konvertálása PDF formátumba
 
 ## Bevezetés

@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Effortlessly convert ODS files to PDF using GroupDocs.Conversion for .NET. Comprehensive tutorial with step-by-step instructions.
 weight: 29
 url: /net/document-conversion/convert-ods-to-pdf/
+type: docs
 ---
-
 # Convert ODS to PDF
 
 ## Introduction

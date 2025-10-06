@@ -4,8 +4,8 @@
 "title": "Konvertera PowerPoint-mallar effektivt till JPEG i .NET med GroupDocs.Conversion"
 "url": "/sv/net/image-conversion/convert-powerpoint-to-jpeg-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Effektiv konvertering av PowerPoint-mallar till JPEG i .NET med GroupDocs.Conversion
 
 ## Introduktion

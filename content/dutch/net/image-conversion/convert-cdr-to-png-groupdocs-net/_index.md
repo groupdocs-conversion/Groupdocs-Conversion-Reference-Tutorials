@@ -4,8 +4,8 @@
 "title": "Master CDR naar PNG-conversie in .NET met behulp van GroupDocs.Conversion"
 "url": "/nl/net/image-conversion/convert-cdr-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Master CDR naar PNG-conversie in .NET met behulp van GroupDocs.Conversion
 
 ## Invoering

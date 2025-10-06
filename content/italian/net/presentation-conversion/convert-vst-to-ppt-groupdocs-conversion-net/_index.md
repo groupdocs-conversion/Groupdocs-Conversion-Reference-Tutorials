@@ -4,8 +4,8 @@
 "title": "Conversione file master&#58; converti VST in PPT utilizzando la libreria GroupDocs.Conversion .NET"
 "url": "/it/net/presentation-conversion/convert-vst-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Conversione file master: convertire VST in PPT utilizzando la libreria GroupDocs.Conversion .NET
 
 ## Introduzione

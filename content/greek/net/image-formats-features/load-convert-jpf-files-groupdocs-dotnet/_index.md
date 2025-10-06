@@ -4,8 +4,8 @@
 "title": "Μετατροπή κύριου αρχείου&#58; Φόρτωση και μετατροπή αρχείων JPF χρησιμοποιώντας το GroupDocs για .NET"
 "url": "/el/net/image-formats-features/load-convert-jpf-files-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή κύριου αρχείου: Φόρτωση και μετατροπή αρχείων JPF χρησιμοποιώντας το GroupDocs για .NET
 
 ## Εισαγωγή

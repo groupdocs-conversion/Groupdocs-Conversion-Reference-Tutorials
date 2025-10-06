@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用してドキュメントを PDF ストリームに変換する包括的なガイド"
 "url": "/ja/net/pdf-conversion/convert-documents-pdf-streams-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用してドキュメントを PDF ストリームに変換する: 包括的なガイド
 
 ## 導入

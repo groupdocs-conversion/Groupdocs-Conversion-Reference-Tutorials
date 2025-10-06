@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Efficient OTS to TEX Conversion with GroupDocs.Conversion for .NET
 
 ## Introduction

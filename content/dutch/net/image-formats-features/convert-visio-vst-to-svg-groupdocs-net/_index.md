@@ -4,8 +4,8 @@
 "title": "Visio-tekensjablonen (.vst) converteren naar SVG met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/image-formats-features/convert-visio-vst-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Visio-tekensjablonen (.vst) converteren naar SVG met GroupDocs.Conversion voor .NET
 
 ## Invoering

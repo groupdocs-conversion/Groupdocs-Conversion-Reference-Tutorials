@@ -8,10 +8,8 @@ keywords:
 - convert JPEG 2000 to PSD
 - GroupDocs.Conversion for .NET
 - image conversion tutorial
-
+type: docs
 ---
-
-
 # How to Convert JPEG 2000 Images to PSD Format Using GroupDocs.Conversion for .NET
 
 ## Introduction

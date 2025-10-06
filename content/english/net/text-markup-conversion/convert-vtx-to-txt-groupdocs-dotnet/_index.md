@@ -8,10 +8,8 @@ keywords:
 - convert VTX to TXT
 - GroupDocs.Conversion .NET
 - Microsoft Visio Drawing Template conversion
-
+type: docs
 ---
-
-
 # Convert VTX to TXT Using GroupDocs.Conversion for .NET - A Comprehensive Guide
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - Convert POTX to PPT using GroupDocs for .NET
 - GroupDocs.Conversion for .NET setup
 - PowerPoint template conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert POTX to PPT Using GroupDocs.Conversion for .NET
 
 ## Introduction

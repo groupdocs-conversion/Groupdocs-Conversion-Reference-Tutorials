@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET을 위한 HTML 변환 튜토리얼"
 "url": "/ko/net/html-conversion/"
 "weight": 26
+type: docs
 ---
-
 # GroupDocs.Conversion .NET을 위한 HTML 변환 튜토리얼
 
 HTML 변환 튜토리얼은 문서를 웹에 적합한 HTML 형식으로 변환하는 방법을 보여줍니다. 이 상세한 가이드는 Word, PDF, Excel, PowerPoint, 이미지, CAD 도면, 이메일 메시지 등 다양한 소스 형식을 HTML로 변환하는 방법을 다룹니다. HTML 관련 변환 옵션, 내장 리소스 관리, 문서 스타일 유지, 반응형 레이아웃 처리, 출력 HTML 구조 제어 등에 대해 알아보세요. 각 튜토리얼에는 원본 문서의 모양과 콘텐츠 충실도를 유지하면서 고품질 HTML 표현을 생성하는 데 필요한 완전한 C# 코드 예제가 포함되어 있습니다.

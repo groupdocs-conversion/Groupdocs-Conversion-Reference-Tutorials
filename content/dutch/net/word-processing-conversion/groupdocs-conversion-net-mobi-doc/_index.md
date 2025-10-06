@@ -4,8 +4,8 @@
 "title": "Converteer MOBI naar DOCX met GroupDocs.Conversion voor .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/word-processing-conversion/groupdocs-conversion-net-mobi-doc/"
 "weight": 1
+type: docs
 ---
-
 # Converteer MOBI naar DOCX met GroupDocs.Conversion voor .NET
 
 ## Invoering

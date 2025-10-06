@@ -4,8 +4,8 @@
 "title": "تخزين ملفات جافا مؤقتًا باستخدام GroupDocs.Conversion - دليل شامل لتحويل المستندات بكفاءة"
 "url": "/ar/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تنفيذ التخزين المؤقت لملفات Java باستخدام GroupDocs.Conversion لتحويل المستندات بكفاءة
 
 ## مقدمة

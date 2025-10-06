@@ -8,10 +8,8 @@ keywords:
 - convert EMLX to XLS
 - GroupDocs.Conversion for .NET
 - email conversion
-
+type: docs
 ---
-
-
 # Convert EMLX to XLS Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

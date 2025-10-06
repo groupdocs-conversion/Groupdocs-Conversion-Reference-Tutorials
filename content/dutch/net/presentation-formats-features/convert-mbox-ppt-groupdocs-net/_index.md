@@ -4,8 +4,8 @@
 "title": "Converteer MBOX naar PowerPoint met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/presentation-formats-features/convert-mbox-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer MBOX-bestanden naar PowerPoint-presentaties met GroupDocs.Conversion voor .NET
 
 ## Invoering

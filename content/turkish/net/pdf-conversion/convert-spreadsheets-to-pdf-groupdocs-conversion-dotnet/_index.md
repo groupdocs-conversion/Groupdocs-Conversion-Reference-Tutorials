@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak Elektronik Tabloları PDF'lere Dönüştürme Adım Adım Kılavuzu"
 "url": "/tr/net/pdf-conversion/convert-spreadsheets-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanarak Elektronik Tabloları PDF'lere Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

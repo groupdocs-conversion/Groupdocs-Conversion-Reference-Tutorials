@@ -8,10 +8,8 @@ keywords:
 - convert CMX to PNG
 - GroupDocs.Conversion for .NET
 - CMX file format
-
+type: docs
 ---
-
-
 # Convert CMX to PNG Using GroupDocs.Conversion for .NET
 
 ## Introduction

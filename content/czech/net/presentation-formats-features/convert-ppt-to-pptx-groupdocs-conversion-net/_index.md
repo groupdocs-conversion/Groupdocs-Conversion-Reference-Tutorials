@@ -4,8 +4,8 @@
 "title": "Efektivní konverze PowerPointu – použití GroupDocs.Conversion for .NET k převodu PPT do PPTX"
 "url": "/cs/net/presentation-formats-features/convert-ppt-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní konverze PowerPointu: Použití GroupDocs.Conversion for .NET k převodu PPT do PPTX
 
 ## Zavedení

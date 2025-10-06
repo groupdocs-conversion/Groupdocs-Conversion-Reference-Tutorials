@@ -5,8 +5,8 @@
 "title": "PCL을 PDF로 변환"
 "url": "/ko/net/pdf-conversion/convert-pcl-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # PCL을 PDF로 변환
 
 ## 소개

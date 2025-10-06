@@ -4,8 +4,8 @@
 "title": "Uitgebreide handleiding&#58; XPS naar TXT converteren met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/text-file-processing/convert-xps-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Uitgebreide handleiding: XPS naar TXT converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi File VCF ke Excel Menggunakan GroupDocs.Conversion .NET | Panduan Langkah demi Langkah"
 "url": "/id/net/spreadsheet-formats-features/convert-vcf-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi File VCF ke Excel Menggunakan GroupDocs.Conversion .NET | Panduan Langkah demi Langkah
 
 ## Perkenalan

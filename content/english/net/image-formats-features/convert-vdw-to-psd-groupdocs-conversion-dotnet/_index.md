@@ -8,10 +8,8 @@ keywords:
 - convert VDW to PSD
 - GroupDocs.Conversion for .NET
 - .NET file conversion
-
+type: docs
 ---
-
-
 # Convert VDW to PSD Using GroupDocs.Conversion for .NET: A Complete Guide
 
 ## Introduction

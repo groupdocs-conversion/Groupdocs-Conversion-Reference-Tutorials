@@ -4,8 +4,8 @@
 "title": "Átfogó útmutató a VSSM TXT formátumba konvertálásához a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/text-file-processing/convert-vssm-txt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató: VSSM konvertálása TXT-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

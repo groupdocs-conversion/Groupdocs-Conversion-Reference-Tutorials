@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET için E-posta Biçimleri ve Özellikleri Eğitimleri"
 "url": "/tr/net/email-formats-features/"
 "weight": 14
+type: docs
 ---
-
 # GroupDocs.Conversion .NET için E-posta Biçimleri ve Özellikleri Eğitimleri
 
 .NET geliştiricileri için kapsamlı GroupDocs.Conversion eğitimlerimizle e-posta belge işleme konusunda uzmanlaşın. Bu pratik kılavuzlar, e-posta mesajlarını çeşitli belge biçimlerine dönüştürmeyi, e-posta eklerini farklı biçimlere çıkarmayı ve dönüştürmeyi, dönüştürme sırasında alan görünürlüğünü değiştirmeyi, e-posta alanlarına yerelleştirmeyi uygulamayı, saat dilimi farklarını yönetmeyi, küreselleştirme ayarlarını uygulamayı, e-posta meta verilerini korumayı ve gömülü içerikli mesajları işlemeyi gösterir. Her eğitim, e-posta dönüştürme senaryoları için ayrıntılı C# kod örnekleri sunarak e-posta iletişimlerini daha erişilebilir belge biçimlerine etkili bir şekilde dönüştürebilen uygulamalar oluşturmanıza yardımcı olur.

@@ -4,8 +4,8 @@
 "title": "PS fájlok JPG formátumba konvertálása a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/image-conversion/convert-ps-to-jpg-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # PS fájlok JPG formátumba konvertálása a GroupDocs.Conversion for .NET használatával: Teljes körű útmutató
 
 ## Bevezetés

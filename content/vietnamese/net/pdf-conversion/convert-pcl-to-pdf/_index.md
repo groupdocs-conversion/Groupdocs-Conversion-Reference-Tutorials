@@ -5,8 +5,8 @@
 "title": "Chuyển đổi PCL sang PDF"
 "url": "/vi/net/pdf-conversion/convert-pcl-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # Chuyển đổi PCL sang PDF
 
 ## Giới thiệu

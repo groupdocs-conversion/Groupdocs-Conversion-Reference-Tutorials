@@ -8,10 +8,8 @@ keywords:
 - Convert PCL to PowerPoint (.NET)
 - GroupDocs.Conversion for .NET setup
 - PCL file conversion
-
+type: docs
 ---
-
-
 # Convert PCL Files to PowerPoint Presentations Using GroupDocs.Conversion for .NET
 
 ## Introduction

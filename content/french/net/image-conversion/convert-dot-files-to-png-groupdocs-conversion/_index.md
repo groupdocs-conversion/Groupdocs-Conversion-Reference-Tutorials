@@ -4,8 +4,8 @@
 "title": "Convertir des fichiers DOT en PNG avec GroupDocs.Conversion pour .NET - Guide étape par étape"
 "url": "/fr/net/image-conversion/convert-dot-files-to-png-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des fichiers DOT en PNG avec GroupDocs.Conversion pour .NET
 
 ## Introduction

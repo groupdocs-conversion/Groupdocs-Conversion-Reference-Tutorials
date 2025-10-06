@@ -4,8 +4,8 @@
 "title": "Lépésről lépésre útmutató DCM fájlok XLSX formátumba konvertálásához a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/spreadsheet-formats-features/convert-dcm-to-xlsx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Lépésről lépésre útmutató DCM fájlok XLSX formátumba konvertálásához a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

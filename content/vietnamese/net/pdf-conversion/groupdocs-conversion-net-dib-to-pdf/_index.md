@@ -4,8 +4,8 @@
 "title": "Chuyển đổi DIB sang PDF hiệu quả bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/pdf-conversion/groupdocs-conversion-net-dib-to-pdf/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi DIB sang PDF hiệu quả với GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

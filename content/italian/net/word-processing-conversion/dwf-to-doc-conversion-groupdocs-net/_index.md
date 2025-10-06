@@ -4,8 +4,8 @@
 "title": "Convertire DWF in DOC utilizzando GroupDocs.Conversion per .NET&#58; una guida passo passo"
 "url": "/it/net/word-processing-conversion/dwf-to-doc-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire DWF in DOC utilizzando GroupDocs.Conversion per .NET: una guida passo passo
 
 ## Introduzione

@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将 MPT 转换为 XLS 综合指南"
 "url": "/zh/net/spreadsheet-conversion/convert-mpt-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将 MPT 文件转换为 XLS
 
 欢迎阅读这份全面的指南，了解如何使用强大的 GroupDocs.Conversion for .NET 库将 Microsoft Project 模板 (.mpt) 文件转换为 Excel 二进制文件格式 (.xls)。对于需要在 Excel 多功能环境中操作项目数据的用户来说，此过程至关重要。

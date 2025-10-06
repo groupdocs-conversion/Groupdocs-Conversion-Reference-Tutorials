@@ -4,8 +4,8 @@
 "title": "Převod URL dokumentů do PDF pomocí GroupDocs.Conversion pro Javu – Komplexní průvodce"
 "url": "/cs/java/pdf-conversion/groupdocs-java-download-url-to-pdf-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Převod URL dokumentů do PDF pomocí GroupDocs.Conversion pro Javu
 
 ## Zavedení

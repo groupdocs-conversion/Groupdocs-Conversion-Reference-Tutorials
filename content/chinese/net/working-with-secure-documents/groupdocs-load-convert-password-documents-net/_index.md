@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 加载和转换受密码保护的文档"
 "url": "/zh/net/working-with-secure-documents/groupdocs-load-convert-password-documents-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 加载和转换受密码保护的文档
 
 ## 介绍

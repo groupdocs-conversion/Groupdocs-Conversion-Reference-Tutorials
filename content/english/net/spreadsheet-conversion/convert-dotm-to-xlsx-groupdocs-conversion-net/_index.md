@@ -8,10 +8,8 @@ keywords:
 - convert DOTM to XLSX
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Convert DOTM Files to XLSX Using GroupDocs.Conversion for .NET
 
 ## Introduction

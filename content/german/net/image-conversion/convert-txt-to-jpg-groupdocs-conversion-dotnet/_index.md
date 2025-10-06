@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie TXT in JPG mit GroupDocs.Conversion für .NET – Eine Schritt-für-Schritt-Anleitung"
 "url": "/de/net/image-conversion/convert-txt-to-jpg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie TXT in JPG mit GroupDocs.Conversion für .NET
 
 ## Einführung

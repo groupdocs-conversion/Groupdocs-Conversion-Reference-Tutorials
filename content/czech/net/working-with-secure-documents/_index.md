@@ -3,8 +3,8 @@
 "title": "Práce se zabezpečenými dokumenty – tutoriály pro GroupDocs.Conversion .NET"
 "url": "/cs/net/working-with-secure-documents/"
 "weight": 5
+type: docs
 ---
-
 # Práce se zabezpečenými dokumenty – tutoriály pro GroupDocs.Conversion .NET
 
 Objevte, jak pracovat se zabezpečenými dokumenty, v našich tutoriálech GroupDocs.Conversion pro vývojáře .NET. Tyto podrobné návody vás naučí, jak načítat soubory chráněné heslem pomocí standardních i fluentních přístupů API, spravovat šifrovací klíče, specifikovat možnosti zabezpečení specifické pro dokumenty, elegantně zpracovávat selhání ověřování a v případě potřeby zachovat nastavení zabezpečení během převodu. Každý tutoriál poskytuje praktické příklady kódu C# pro práci s chráněnými dokumenty a pomáhá vám vytvářet aplikace, které dokáží zpracovávat zabezpečený obsah a zároveň respektovat důvěrnost a řízení přístupu.

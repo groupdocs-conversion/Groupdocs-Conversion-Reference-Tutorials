@@ -4,8 +4,8 @@
 "title": "Как настроить путь к выходному каталогу с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/document-output-saving/groupdocs-conversion-setup-output-directory-net/"
 "weight": 1
+type: docs
 ---
-
 # Как настроить путь к выходному каталогу с помощью GroupDocs.Conversion для .NET
 
 ## Введение

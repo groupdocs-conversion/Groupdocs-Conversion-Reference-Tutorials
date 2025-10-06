@@ -4,8 +4,8 @@
 "title": "Automatische conversie van spreadsheets naar PDF in Java met GroupDocs.Conversion"
 "url": "/nl/java/pdf-conversion/automate-spreadsheet-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Automatische conversie van spreadsheets naar PDF in Java met GroupDocs.Conversion
 
 ## Invoering

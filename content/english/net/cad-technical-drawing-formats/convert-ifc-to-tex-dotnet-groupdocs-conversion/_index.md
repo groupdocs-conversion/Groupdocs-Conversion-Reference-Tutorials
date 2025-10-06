@@ -8,10 +8,8 @@ keywords:
 - convert IFC to TEX in .NET
 - GroupDocs.Conversion for .NET
 - file conversion library
-
+type: docs
 ---
-
-
 # How to Convert IFC Files to TEX in .NET Using GroupDocs.Conversion
 
 ## Introduction

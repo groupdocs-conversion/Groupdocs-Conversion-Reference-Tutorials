@@ -4,8 +4,8 @@
 "title": "Konversi Spreadsheet ke PDF dengan Mudah Menggunakan GroupDocs.Conversion di .NET"
 "url": "/id/net/pdf-conversion/convert-spreadsheets-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi Spreadsheet ke PDF dengan Mudah Menggunakan GroupDocs.Conversion di .NET
 
 ## Perkenalan

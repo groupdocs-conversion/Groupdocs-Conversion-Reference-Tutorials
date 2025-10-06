@@ -4,8 +4,8 @@
 "title": "Beheers MPX naar TXT-conversie in .NET met GroupDocs"
 "url": "/nl/net/text-markup-conversion/master-mpx-txt-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # MPX naar TXT-conversie in .NET onder de knie krijgen met GroupDocs.Conversion
 
 ## Invoering

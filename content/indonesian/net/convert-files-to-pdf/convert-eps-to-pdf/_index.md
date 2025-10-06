@@ -5,8 +5,8 @@
 "title": "Konversi File PostScript Terenkapsulasi EPS ke PDF"
 "url": "/id/net/convert-files-to-pdf/convert-eps-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # Konversi File PostScript Terenkapsulasi EPS ke PDF
 
 ## Perkenalan

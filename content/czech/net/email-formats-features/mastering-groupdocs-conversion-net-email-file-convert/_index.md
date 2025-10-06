@@ -4,8 +4,8 @@
 "title": "Zvládnutí GroupDocs.Conversion .NET pro konverze e-mailů a souborů – Komplexní průvodce"
 "url": "/cs/net/email-formats-features/mastering-groupdocs-conversion-net-email-file-convert/"
 "weight": 1
+type: docs
 ---
-
 # Zvládnutí GroupDocs.Conversion .NET pro konverze e-mailů a souborů: Komplexní průvodce
 
 ## Zavedení

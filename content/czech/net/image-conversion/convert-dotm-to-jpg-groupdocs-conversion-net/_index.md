@@ -4,8 +4,8 @@
 "title": "Převod DOTM do JPG pomocí GroupDocs.Conversion pro .NET - Průvodce převodem obrázků"
 "url": "/cs/net/image-conversion/convert-dotm-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod DOTM do JPG pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

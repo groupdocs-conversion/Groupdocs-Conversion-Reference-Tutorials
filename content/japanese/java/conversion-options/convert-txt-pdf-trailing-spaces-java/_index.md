@@ -4,8 +4,8 @@
 "title": "JavaとGroupDocs.Conversionを使用して、末尾のスペース制御付きTXTをPDFに変換する方法"
 "url": "/ja/java/conversion-options/convert-txt-pdf-trailing-spaces-java/"
 "weight": 1
+type: docs
 ---
-
 # JavaとGroupDocs.Conversionを使用して、末尾のスペース制御付きTXTをPDFに変換する方法
 
 今日のデジタル世界において、テキスト文書を効率的に扱うことは、企業にとっても個人にとっても極めて重要です。テキストファイル（TXT）を、書式の整合性を保ちながら汎用性の高いPDF形式に変換するのは、特にレイアウトを乱す末尾のスペースを処理する場合は困難な場合があります。このチュートリアルでは、GroupDocs.Conversion for Javaを使用して、末尾のスペースを制御しながらテキストファイルを効率的にPDFに変換する方法を説明します。

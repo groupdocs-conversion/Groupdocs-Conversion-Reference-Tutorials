@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion for .NET setup
 - document conversion directories .NET
 - directory management document conversion
-
+type: docs
 ---
-
-
 # Master Directory Setup for Document Conversion using GroupDocs.Conversion .NET
 
 ## Introduction

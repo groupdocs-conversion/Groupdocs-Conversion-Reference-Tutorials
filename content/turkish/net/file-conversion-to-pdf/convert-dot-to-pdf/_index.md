@@ -5,8 +5,8 @@
 "title": "DOT Word Şablonlarını PDF'ye Dönüştür"
 "url": "/tr/net/file-conversion-to-pdf/convert-dot-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # DOT Word Şablonlarını PDF'ye Dönüştür
 
 ## giriiş

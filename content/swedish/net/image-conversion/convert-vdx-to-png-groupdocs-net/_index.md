@@ -4,8 +4,8 @@
 "title": "Konvertera VDX till PNG med hjälp av GroupDocs.Conversion för .NET steg-för-steg-guide"
 "url": "/sv/net/image-conversion/convert-vdx-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar VDX-filer till PNG med GroupDocs.Conversion för .NET: En steg-för-steg-guide
 
 ## Introduktion

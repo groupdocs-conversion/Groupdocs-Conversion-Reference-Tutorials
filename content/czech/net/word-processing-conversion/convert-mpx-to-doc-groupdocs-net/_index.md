@@ -4,8 +4,8 @@
 "title": "Převod MPX do DOC pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/word-processing-conversion/convert-mpx-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod MPX do DOC pomocí GroupDocs.Conversion pro .NET: Komplexní průvodce
 
 ## Zavedení

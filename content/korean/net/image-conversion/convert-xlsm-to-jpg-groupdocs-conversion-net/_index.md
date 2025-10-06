@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET을 사용하여 XLSM을 JPG로 변환하는 단계별 가이드"
 "url": "/ko/net/image-conversion/convert-xlsm-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET을 사용하여 XLSM을 JPG로 변환
 ## 소개
 Excel 매크로(XLSM)를 이미지 형태의 시각적 스냅샷으로 완벽하게 변환하고 싶으신가요? XLSM 파일을 JPG로 변환하는 것은 Excel을 사용하지 않는 사용자와 데이터를 공유하거나 스프레드시트를 프레젠테이션 및 문서에 통합하는 데 매우 중요합니다. 이 튜토리얼에서는 이러한 변환 과정을 간소화하는 강력한 라이브러리인 GroupDocs.Conversion .NET을 사용하는 방법을 안내합니다.

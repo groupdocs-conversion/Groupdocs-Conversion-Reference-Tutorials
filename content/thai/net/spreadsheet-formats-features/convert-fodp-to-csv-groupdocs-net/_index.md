@@ -4,8 +4,8 @@
 "title": "วิธีการแปลงไฟล์ FODP เป็น CSV โดยใช้ GroupDocs.Conversion สำหรับ .NET&#58; คำแนะนำทีละขั้นตอน"
 "url": "/th/net/spreadsheet-formats-features/convert-fodp-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการแปลงไฟล์ FODP เป็น CSV โดยใช้ GroupDocs.Conversion สำหรับ .NET
 ## การแนะนำ
 ปรับปรุงการจัดการข้อมูลของคุณโดยการแปลงไฟล์ FODP ที่ซับซ้อนเป็นรูปแบบ CSV ที่สามารถเข้าถึงได้ บทช่วยสอนทีละขั้นตอนนี้จะแนะนำคุณตลอดการใช้ไลบรารี GroupDocs.Conversion ที่ทรงพลังสำหรับ .NET ทำให้การแปลงไฟล์ราบรื่นและมีประสิทธิภาพ

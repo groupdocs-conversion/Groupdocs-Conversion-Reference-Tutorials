@@ -4,8 +4,8 @@
 "title": "Konversi Lembar Excel Tertentu ke PDF menggunakan GroupDocs.Conversion untuk .NET | Panduan Langkah demi Langkah yang Mudah"
 "url": "/id/net/pdf-conversion/convert-excel-sheets-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi Lembar Excel Tertentu ke PDF Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

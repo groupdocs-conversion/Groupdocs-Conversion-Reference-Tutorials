@@ -4,8 +4,8 @@
 "title": "OXPS fájlok TXT formátumba konvertálása a GroupDocs.Conversion for .NET segítségével | Szöveg- és jelöléskonverziós útmutató"
 "url": "/hu/net/text-markup-conversion/convert-oxps-to-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # OXPS fájlok TXT formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

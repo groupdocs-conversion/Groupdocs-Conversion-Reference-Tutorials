@@ -4,8 +4,8 @@
 "title": "VDW-bestanden converteren naar TEX-indeling met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/conversion-utilities-information/convert-vdw-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VDW-bestanden converteren naar TEX-indeling met GroupDocs.Conversion voor .NET
 
 ## Invoering

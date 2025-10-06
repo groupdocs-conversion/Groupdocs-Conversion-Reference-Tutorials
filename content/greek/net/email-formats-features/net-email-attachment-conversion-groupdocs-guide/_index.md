@@ -4,8 +4,8 @@
 "title": "Μετατροπή συνημμένων email Master .NET με τη βιβλιοθήκη GroupDocs.Conversion - Ένας ολοκληρωμένος οδηγός"
 "url": "/el/net/email-formats-features/net-email-attachment-conversion-groupdocs-guide/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή συνημμένων email Master .NET με τη βιβλιοθήκη GroupDocs.Conversion
 
 ## Εισαγωγή

@@ -5,8 +5,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का व्यापक ट्यूटोरियल"
 "url": "/hi/net/"
 "weight": 10
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का व्यापक ट्यूटोरियल
 
 

@@ -4,8 +4,8 @@
 "title": "Jak převést DOCX do SVG pomocí GroupDocs.Conversion pro .NET - Tutoriál pro převod obrázků"
 "url": "/cs/net/image-conversion/convert-docx-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory DOCX do SVG pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

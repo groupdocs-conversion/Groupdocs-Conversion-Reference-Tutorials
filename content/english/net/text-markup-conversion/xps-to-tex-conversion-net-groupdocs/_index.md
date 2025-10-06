@@ -8,10 +8,8 @@ keywords:
 - XPS to TEX conversion
 - .NET GroupDocs.Conversion
 - file format conversion
-
+type: docs
 ---
-
-
 # Convert XPS to TEX Using .NET GroupDocs.Conversion: A Step-by-Step Guide
 
 ## Introduction

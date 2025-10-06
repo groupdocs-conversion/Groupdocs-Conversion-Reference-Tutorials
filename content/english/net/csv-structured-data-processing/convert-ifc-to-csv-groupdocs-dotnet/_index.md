@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert IFC Files to CSV Using GroupDocs.Conversion for .NET
 
 ## Introduction

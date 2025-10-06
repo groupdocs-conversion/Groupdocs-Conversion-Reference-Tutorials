@@ -5,8 +5,8 @@
 "title": "Converteer JPEG-LS (.JLS)-bestanden naar PDF"
 "url": "/nl/net/convert-files-to-pdf/convert-jls-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # Converteer JPEG-LS (.JLS)-bestanden naar PDF
 
 ## Invoering

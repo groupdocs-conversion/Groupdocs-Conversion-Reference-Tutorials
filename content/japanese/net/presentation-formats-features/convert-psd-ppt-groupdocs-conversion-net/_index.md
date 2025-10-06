@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して PSD を PowerPoint に変換する方法 - 完全ガイド"
 "url": "/ja/net/presentation-formats-features/convert-psd-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して PSD を PowerPoint に変換する方法: 完全ガイド
 
 ## 導入

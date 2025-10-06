@@ -4,8 +4,8 @@
 "title": "Chuyển đổi PPTM sang PPT Sử dụng GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/presentation-conversion/convert-pptm-to-ppt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi PPTM sang PPT bằng GroupDocs.Conversion cho .NET: Hướng dẫn toàn diện
 
 Trong thế giới kinh doanh, các bài thuyết trình PowerPoint là công cụ thiết yếu. Tuy nhiên, không phải ai cũng có quyền truy cập vào các phiên bản Microsoft Office mới nhất, đòi hỏi phải chuyển đổi từ PPTM (tệp PowerPoint có macro) sang PPT (định dạng PowerPoint cũ hơn). Hướng dẫn này sẽ hướng dẫn bạn sử dụng GroupDocs.Conversion cho .NET để chuyển đổi liền mạch các tệp PPTM sang định dạng PPT.

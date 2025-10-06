@@ -8,10 +8,8 @@ keywords:
 - DWFX to CSV conversion
 - GroupDocs.Conversion for .NET
 - CSV data processing
-
+type: docs
 ---
-
-
 # Efficient DWFX to CSV Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion'ı Kullanarak DIB'yi PDF'ye Verimli Şekilde Dönüştürün"
 "url": "/tr/net/pdf-conversion/groupdocs-conversion-net-dib-to-pdf/"
 "weight": 1
+type: docs
 ---
-
 # DIB'yi .NET için GroupDocs.Conversion ile PDF'ye Verimli Şekilde Dönüştürün
 
 ## giriiş

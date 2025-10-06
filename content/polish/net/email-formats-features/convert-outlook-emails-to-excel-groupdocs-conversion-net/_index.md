@@ -4,8 +4,8 @@
 "title": "Efektywne konwertowanie wiadomości e-mail programu Outlook do programu Excel przy użyciu narzędzia GroupDocs.Conversion dla platformy .NET"
 "url": "/pl/net/email-formats-features/convert-outlook-emails-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Bezproblemowa konwersja wiadomości e-mail z programu Microsoft Outlook do arkuszy kalkulacyjnych programu Excel przy użyciu narzędzia GroupDocs.Conversion dla platformy .NET
 
 ## Wstęp

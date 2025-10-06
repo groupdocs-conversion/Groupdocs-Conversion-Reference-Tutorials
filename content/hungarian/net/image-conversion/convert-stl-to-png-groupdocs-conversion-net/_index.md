@@ -4,8 +4,8 @@
 "title": "STL konvertálása PNG-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-stl-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # STL fájlok PNG formátumra konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

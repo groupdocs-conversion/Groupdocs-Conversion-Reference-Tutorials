@@ -4,8 +4,8 @@
 "title": "Konvertera effektivt DOT till HTML med GroupDocs.Conversion för .NET"
 "url": "/sv/net/web-markup-formats/convert-dot-files-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera effektivt DOT till HTML med GroupDocs.Conversion för .NET
 
 ## Introduktion

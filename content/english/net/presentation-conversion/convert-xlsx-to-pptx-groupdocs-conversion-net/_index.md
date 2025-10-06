@@ -8,10 +8,8 @@ keywords:
 - convert XLSX to PPTX
 - GroupDocs.Conversion .NET
 - automate document conversion
-
+type: docs
 ---
-
-
 # How to Convert XLSX Files to PPTX Using GroupDocs.Conversion for .NET
 
 ## Introduction

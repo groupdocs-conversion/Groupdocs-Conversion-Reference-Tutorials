@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion'ı Kullanarak POTX'i PPTX'e Verimli Şekilde Dönüştürün - Adım Adım Kılavuz"
 "url": "/tr/net/presentation-formats-features/convert-potx-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanılarak POTX'in PPTX'e Verimli Dönüştürülmesi
 
 ## giriiş

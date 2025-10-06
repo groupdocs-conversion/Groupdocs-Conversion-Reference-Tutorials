@@ -5,8 +5,8 @@
 "title": "PDF로 파일 변환"
 "url": "/ko/net/file-conversion-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # PDF로 파일 변환
 
 ## 소개:

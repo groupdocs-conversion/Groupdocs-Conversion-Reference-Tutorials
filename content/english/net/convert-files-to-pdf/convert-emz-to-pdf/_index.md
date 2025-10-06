@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Effortlessly convert EMZ files to PDF with GroupDocs.Conversion for .NET. Simplify your file conversion tasks.
 weight: 16
 url: /net/convert-files-to-pdf/convert-emz-to-pdf/
+type: docs
 ---
-
 # Convert EMZ Enhanced Metafiles to PDF
 
 ## Introduction

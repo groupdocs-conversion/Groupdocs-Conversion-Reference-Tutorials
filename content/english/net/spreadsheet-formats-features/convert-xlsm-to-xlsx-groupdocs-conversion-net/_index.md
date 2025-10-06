@@ -8,10 +8,8 @@ keywords:
 - convert XLSM to XLSX
 - GroupDocs.Conversion for .NET
 - Excel file conversion
-
+type: docs
 ---
-
-
 # Convert XLSM to XLSX in .NET Using GroupDocs.Conversion: Step-by-Step Guide
 
 ## Introduction

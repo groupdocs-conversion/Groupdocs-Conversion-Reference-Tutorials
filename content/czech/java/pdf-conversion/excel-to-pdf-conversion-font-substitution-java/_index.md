@@ -4,8 +4,8 @@
 "title": "Převod Excelu do PDF v Javě s nahrazením písma pomocí GroupDocs.Conversion"
 "url": "/cs/java/pdf-conversion/excel-to-pdf-conversion-font-substitution-java/"
 "weight": 1
+type: docs
 ---
-
 # Převod Excelu do PDF v Javě s nahrazením písma pomocí GroupDocs.Conversion
 
 ## Zavedení

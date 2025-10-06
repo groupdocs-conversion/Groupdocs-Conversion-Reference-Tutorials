@@ -4,8 +4,8 @@
 "title": "Converta documentos do Word protegidos por senha para Excel usando o GroupDocs para .NET"
 "url": "/pt/net/working-with-secure-documents/convert-password-word-docs-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converta documentos do Word protegidos por senha para Excel com o GroupDocs para .NET
 
 ## Introdução

@@ -5,8 +5,8 @@
 "title": "将 DNG 图像转换为 PDF"
 "url": "/zh/net/file-conversion-to-pdf/convert-dng-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # 将 DNG 图像转换为 PDF
 
 ## 介绍

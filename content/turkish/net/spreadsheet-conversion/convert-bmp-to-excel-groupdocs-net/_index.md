@@ -4,8 +4,8 @@
 "title": "BMP'yi, E-Tablo Dönüştürme için GroupDocs.Conversion .NET'i Kullanarak Excel'e Dönüştürme"
 "url": "/tr/net/spreadsheet-conversion/convert-bmp-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET Kullanılarak BMP Dosyaları Excel'e Nasıl Dönüştürülür
 
 ## giriiş

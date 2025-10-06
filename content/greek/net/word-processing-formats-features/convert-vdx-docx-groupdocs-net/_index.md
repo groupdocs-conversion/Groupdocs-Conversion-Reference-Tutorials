@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή VDX σε DOCX με το GroupDocs.Conversion for .NET™ Οδηγός για προγραμματιστές"
 "url": "/el/net/word-processing-formats-features/convert-vdx-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική μετατροπή VDX σε DOCX με το GroupDocs.Conversion για .NET: Οδηγός για προγραμματιστές
 
 ## Εισαγωγή

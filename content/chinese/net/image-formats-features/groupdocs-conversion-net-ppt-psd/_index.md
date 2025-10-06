@@ -4,8 +4,8 @@
 "title": "将 PowerPoint 转换为 Photoshop&#58;掌握 GroupDocs.Conversion 以进行 .NET PPT 到 PSD 的转换"
 "url": "/zh/net/image-formats-features/groupdocs-conversion-net-ppt-psd/"
 "weight": 1
+type: docs
 ---
-
 # 将 PowerPoint 转换为 Photoshop：掌握 GroupDocs.Conversion 以将 .NET PPT 转换为 PSD
 
 ## 介绍

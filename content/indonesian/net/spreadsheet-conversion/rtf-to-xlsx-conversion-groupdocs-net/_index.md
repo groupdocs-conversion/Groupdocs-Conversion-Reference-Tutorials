@@ -4,8 +4,8 @@
 "title": "Konversi RTF ke XLSX yang Efisien Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/spreadsheet-conversion/rtf-to-xlsx-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi RTF ke XLSX yang Efisien Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

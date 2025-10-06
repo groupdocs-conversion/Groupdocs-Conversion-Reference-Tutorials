@@ -4,8 +4,8 @@
 "title": "Làm chủ việc thay thế phông chữ PDF trong .NET với GroupDocs.Conversion&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/font-handling-substitution/groupdocs-conversion-pdf-font-substitution-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Làm chủ việc thay thế phông chữ PDF trong .NET với GroupDocs.Conversion
 
 Đảm bảo kiểu chữ nhất quán trong quá trình chuyển đổi tài liệu là rất quan trọng. Hướng dẫn toàn diện này trình bày cách sử dụng GroupDocs.Conversion cho .NET để quản lý việc thay thế phông chữ hiệu quả khi chuyển đổi tài liệu sang PDF.

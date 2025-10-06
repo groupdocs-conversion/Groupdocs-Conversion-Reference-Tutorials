@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET का उपयोग करके EPS को PPT में कुशलतापूर्वक परिवर्तित करें"
 "url": "/hi/net/presentation-formats-features/convert-eps-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET का उपयोग करके EPS को PPT में कुशलतापूर्वक परिवर्तित करें
 
 ## परिचय

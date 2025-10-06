@@ -4,8 +4,8 @@
 "title": "Konvertera DXF till PPTX med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/cad-technical-drawing-formats/convert-dxf-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera DXF-filer till PPTX med GroupDocs.Conversion för .NET
 ## Introduktion
 Att konvertera designfiler till presentationsformat är en vanlig uppgift, särskilt när man arbetar med CAD-ritningar som DWG- eller DXF-filer. Den här omfattande guiden visar hur man använder GroupDocs.Conversion för .NET för att konvertera DXF-filer till PowerPoint-presentationer (PPTX) utan problem.

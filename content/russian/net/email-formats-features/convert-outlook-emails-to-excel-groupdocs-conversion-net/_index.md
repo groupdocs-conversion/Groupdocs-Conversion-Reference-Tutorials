@@ -4,8 +4,8 @@
 "title": "Эффективное преобразование писем Outlook в Excel с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/email-formats-features/convert-outlook-emails-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Легко конвертируйте электронные письма Microsoft Outlook в электронные таблицы Excel с помощью GroupDocs.Conversion для .NET
 
 ## Введение

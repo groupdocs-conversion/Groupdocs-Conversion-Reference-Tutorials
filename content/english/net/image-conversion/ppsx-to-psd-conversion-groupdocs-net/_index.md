@@ -8,10 +8,8 @@ keywords:
 - PPSX to PSD conversion
 - GroupDocs.Conversion for .NET
 - PowerPoint slideshow to PSD
-
+type: docs
 ---
-
-
 # Convert PPSX to PSD Using GroupDocs.Conversion for .NET
 
 ## Introduction

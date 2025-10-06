@@ -4,8 +4,8 @@
 "title": "Hatékony DWG-ből PSD-be konvertálás a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/cad-technical-drawing-formats/convert-dwg-psd-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony DWG-ből PSD-be konvertálás a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

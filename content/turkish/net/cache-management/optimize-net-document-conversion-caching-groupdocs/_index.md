@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Kullanarak Önbelleğe Alma ile .NET Belge Dönüşümünü Optimize Edin"
 "url": "/tr/net/cache-management/optimize-net-document-conversion-caching-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Kullanarak Önbelleğe Alma ile .NET Belge Dönüşümünü Optimize Edin
 
 ## giriiş

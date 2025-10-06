@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert JPM to HTML Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

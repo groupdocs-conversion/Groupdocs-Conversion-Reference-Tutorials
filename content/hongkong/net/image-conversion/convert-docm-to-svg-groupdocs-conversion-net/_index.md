@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 掌握 DOCM 到 SVG 的轉換"
 "url": "/zh-hant/net/image-conversion/convert-docm-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 掌握 DOCM 到 SVG 的轉換
 
 ## 介紹

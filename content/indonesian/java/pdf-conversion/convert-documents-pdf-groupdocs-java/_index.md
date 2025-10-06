@@ -4,8 +4,8 @@
 "title": "Panduan Langkah demi Langkah untuk Mengonversi Dokumen ke PDF Menggunakan GroupDocs.Conversion for Java"
 "url": "/id/java/pdf-conversion/convert-documents-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Konversi Dokumen ke PDF dengan GroupDocs.Conversion untuk Java
 ## Cara Mengonversi Dokumen ke PDF Menggunakan GroupDocs.Conversion: Panduan Langkah demi Langkah
 ### Perkenalan

@@ -8,10 +8,8 @@ keywords:
 - convert password-protected Word documents to PDF
 - GroupDocs.Conversion for .NET setup
 - PDF conversion settings
-
+type: docs
 ---
-
-
 # How to Convert Password-Protected Word Documents to PDFs Using GroupDocs.Conversion for .NET
 
 ## Introduction

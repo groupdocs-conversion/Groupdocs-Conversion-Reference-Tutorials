@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET kullanarak PDF'yi Excel'e dönüştürün - Kapsamlı Kılavuz"
 "url": "/tr/net/spreadsheet-conversion/convert-pdf-to-excel-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak PDF'yi Excel'e Dönüştürme
 
 ## giriiş

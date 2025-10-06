@@ -4,8 +4,8 @@
 "title": "Comment convertir des fichiers XLSM en HTML à l'aide de GroupDocs.Conversion pour .NET ? Guide étape par étape"
 "url": "/fr/net/web-markup-formats/convert-xlsm-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir des fichiers XLSM en HTML avec GroupDocs.Conversion pour .NET : guide étape par étape
 ## Introduction
 Dans un monde où les données sont omniprésentes, la conversion des fichiers Excel vers des formats plus accessibles est essentielle. Convertir un fichier XLSM en HTML peut améliorer l'interactivité d'un site web et simplifier les processus de reporting. Avec GroupDocs.Conversion pour .NET, ce processus devient fluide et efficace. Ce tutoriel vous guidera dans l'utilisation de la bibliothèque GroupDocs.Conversion pour convertir vos fichiers XLSM au format HTML.

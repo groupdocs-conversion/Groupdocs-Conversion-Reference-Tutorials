@@ -4,8 +4,8 @@
 "title": "SVGZ fájlok egyszerű konvertálása DOCX fájlokká a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/word-processing-conversion/convert-svgz-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # SVGZ fájlok DOCX formátumba konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

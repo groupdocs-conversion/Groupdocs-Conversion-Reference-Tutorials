@@ -8,10 +8,8 @@ keywords:
 - XPS to JPG conversion
 - GroupDocs.Conversion for .NET
 - image format conversion
-
+type: docs
 ---
-
-
 # Comprehensive Guide: Efficiently Convert XPS to JPG with GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -5,8 +5,8 @@
 "title": "Konwertuj wiadomości e-mail EML do formatu PDF"
 "url": "/pl/net/convert-files-to-pdf/convert-eml-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # Konwertuj wiadomości e-mail EML do formatu PDF
 
 ## Wstęp

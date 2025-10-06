@@ -4,8 +4,8 @@
 "title": ".NET के चरण-दर-चरण मार्गदर्शिका के लिए GroupDocs.Conversion का उपयोग करके PowerPoint PPS को CSV में परिवर्तित करें"
 "url": "/hi/net/presentation-formats-features/convert-ppslideshow-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके PowerPoint स्लाइड शो (.pps) को CSV फ़ाइलों में परिवर्तित करें
 
 ## परिचय

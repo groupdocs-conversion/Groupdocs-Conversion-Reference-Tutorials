@@ -4,8 +4,8 @@
 "title": "Jak převést GIF do DOC pomocí GroupDocs.Conversion pro .NET - Výukový program pro převod textového editoru"
 "url": "/cs/net/word-processing-conversion/convert-gif-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést GIF do DOC pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

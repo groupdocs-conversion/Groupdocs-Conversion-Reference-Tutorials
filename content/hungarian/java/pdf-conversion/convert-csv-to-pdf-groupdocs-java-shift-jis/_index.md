@@ -4,8 +4,8 @@
 "title": "CSV konvertálása PDF-be Java-ban GroupDocs és Shift_JIS kódolás használatával"
 "url": "/hu/java/pdf-conversion/convert-csv-to-pdf-groupdocs-java-shift-jis/"
 "weight": 1
+type: docs
 ---
-
 # CSV konvertálása PDF-be Java-ban GroupDocs és Shift_JIS kódolás használatával
 
 ## Bevezetés

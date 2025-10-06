@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie XLAM einfach in TXT mit der Schritt-für-Schritt-Anleitung von GroupDocs.Conversion für .NET."
 "url": "/de/net/text-file-processing/convert-xlam-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie XLAM-Dateien mit GroupDocs.Conversion für .NET in TXT
 
 ## Einführung

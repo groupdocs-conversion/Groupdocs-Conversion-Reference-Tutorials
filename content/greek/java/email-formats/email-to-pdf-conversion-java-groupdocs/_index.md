@@ -4,8 +4,8 @@
 "title": "Πώς να μετατρέψετε email σε PDF με μετατόπιση ζώνης ώρας σε Java χρησιμοποιώντας το GroupDocs.Conversion"
 "url": "/el/java/email-formats/email-to-pdf-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε email σε PDF με μετατόπιση ζώνης ώρας σε Java χρησιμοποιώντας το GroupDocs.Conversion
 
 ## Εισαγωγή

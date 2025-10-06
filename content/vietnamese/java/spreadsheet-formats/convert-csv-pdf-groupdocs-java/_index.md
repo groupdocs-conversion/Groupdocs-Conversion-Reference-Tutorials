@@ -4,8 +4,8 @@
 "title": "Chuyển đổi CSV sang PDF trong Java bằng GroupDocs.Conversion&#58; Hướng dẫn từng bước"
 "url": "/vi/java/spreadsheet-formats/convert-csv-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi CSV sang PDF trong Java bằng GroupDocs.Conversion: Hướng dẫn toàn diện
 
 ## Giới thiệu

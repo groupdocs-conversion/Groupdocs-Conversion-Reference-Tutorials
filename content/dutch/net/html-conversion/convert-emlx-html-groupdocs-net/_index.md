@@ -4,8 +4,8 @@
 "title": "Master Apple Mail-berichten (.emlx) converteren naar HTML met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/html-conversion/convert-emlx-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Master Apple Mail-berichten (.emlx) converteren naar HTML met GroupDocs.Conversion voor .NET
 
 ## Invoering

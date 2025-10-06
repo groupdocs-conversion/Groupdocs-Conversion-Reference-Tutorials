@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 HTML 轉換為 CSV — 逐步指南"
 "url": "/zh-hant/net/web-markup-formats/convert-html-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 HTML 轉換為 CSV：逐步指南
 
 ## 介紹

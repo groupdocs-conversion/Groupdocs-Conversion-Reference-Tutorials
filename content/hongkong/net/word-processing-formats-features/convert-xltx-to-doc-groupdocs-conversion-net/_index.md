@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 Excel 範本 (.xltx) 轉換為 Word 文件 (DOC)"
 "url": "/zh-hant/net/word-processing-formats-features/convert-xltx-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 Excel 範本 (.xltx) 轉換為 Word 文件 (DOC)
 ## 介紹
 歡迎閱讀這份全面的指南，了解如何使用強大的 GroupDocs.Conversion for .NET 程式庫將 Excel 範本 (.xltx) 檔案轉換為 Word 文件 (DOC) 格式。此解決方案在文件管理工作流程中至關重要，能夠將資料豐富的範本與基於文字的文件無縫整合。

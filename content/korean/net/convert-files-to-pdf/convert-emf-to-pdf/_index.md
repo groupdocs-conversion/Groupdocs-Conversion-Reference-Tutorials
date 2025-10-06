@@ -5,8 +5,8 @@
 "title": "EMF Windows 메타파일을 PDF로 변환"
 "url": "/ko/net/convert-files-to-pdf/convert-emf-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # EMF Windows 메타파일을 PDF로 변환
 
 ## 소개

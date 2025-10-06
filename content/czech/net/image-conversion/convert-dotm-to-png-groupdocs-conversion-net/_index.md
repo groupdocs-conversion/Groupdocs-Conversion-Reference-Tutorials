@@ -4,8 +4,8 @@
 "title": "Převod šablon Wordu (.dotm) do PNG pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/image-conversion/convert-dotm-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod šablon aplikace Word do obrázků PNG pomocí nástroje GroupDocs.Conversion pro .NET
 
 ## Zavedení

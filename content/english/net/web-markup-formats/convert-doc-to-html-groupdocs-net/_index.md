@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # How to Convert DOC Files to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

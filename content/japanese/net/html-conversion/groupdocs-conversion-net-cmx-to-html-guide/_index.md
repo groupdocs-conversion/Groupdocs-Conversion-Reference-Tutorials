@@ -4,8 +4,8 @@
 "title": "包括的なガイド&#58; GroupDocs.Conversion .NET を使用して CMX を HTML に変換し、シームレスなドキュメント ワークフロー統合を実現"
 "url": "/ja/net/html-conversion/groupdocs-conversion-net-cmx-to-html-guide/"
 "weight": 1
+type: docs
 ---
-
 # 総合ガイド: GroupDocs.Conversion .NET を使用して CMX を HTML に変換する
 
 ## 導入

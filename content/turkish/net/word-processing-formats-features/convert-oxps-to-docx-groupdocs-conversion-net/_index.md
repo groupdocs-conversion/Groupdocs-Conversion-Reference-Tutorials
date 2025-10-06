@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak Verimli OXPS'den DOCX'e Dönüşüm&#58; Adım Adım Kılavuz"
 "url": "/tr/net/word-processing-formats-features/convert-oxps-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OXPS'i .NET için GroupDocs.Conversion Kullanarak DOCX'e Verimli Şekilde Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

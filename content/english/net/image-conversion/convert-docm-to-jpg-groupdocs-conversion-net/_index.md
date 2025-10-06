@@ -8,10 +8,8 @@ keywords:
 - convert DOCM to JPG
 - GroupDocs.Conversion for .NET
 - document to image conversion
-
+type: docs
 ---
-
-
 # Convert DOCM to JPG: Ultimate Guide Using GroupDocs.Conversion for .NET
 
 ## Introduction

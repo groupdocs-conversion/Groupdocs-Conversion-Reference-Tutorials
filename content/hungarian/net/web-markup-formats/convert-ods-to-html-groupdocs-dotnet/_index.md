@@ -4,8 +4,8 @@
 "title": "ODS fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/web-markup-formats/convert-ods-to-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # ODS fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

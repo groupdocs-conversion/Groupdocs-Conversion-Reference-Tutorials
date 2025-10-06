@@ -4,8 +4,8 @@
 "title": "MOBI konvertálása PPT-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/presentation-conversion/convert-mobi-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # MOBI konvertálása PPT-vé a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 ## Hogyan használható a GroupDocs.Conversion for .NET MOBI fájlok PPT-vé konvertálásához?
 

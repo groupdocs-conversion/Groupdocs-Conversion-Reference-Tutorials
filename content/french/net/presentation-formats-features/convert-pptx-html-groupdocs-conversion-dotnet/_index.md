@@ -4,8 +4,8 @@
 "title": "Convertir PPTX en HTML à l'aide du guide étape par étape de GroupDocs.Conversion pour .NET"
 "url": "/fr/net/presentation-formats-features/convert-pptx-html-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertir du PPTX en HTML avec GroupDocs.Conversion pour .NET : guide complet
 
 ## Introduction

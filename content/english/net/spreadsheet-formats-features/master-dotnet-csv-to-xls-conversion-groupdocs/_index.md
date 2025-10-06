@@ -8,10 +8,8 @@ keywords:
 - .NET CSV to XLS conversion
 - GroupDocs.Conversion for .NET
 - convert CSV to Excel
-
+type: docs
 ---
-
-
 # .NET CSV to XLS Conversion Using GroupDocs: A Comprehensive Guide
 
 In today's data-driven world, converting files between various formats is a frequent requirement. Whether you're dealing with financial reports or analyzing large datasets, the need to convert CSV (Comma-Separated Values) files into Excel-compatible XLS format can be crucial for efficient data management and analysis. This tutorial will guide you through using GroupDocs.Conversion for .NET to seamlessly transform your CSV files into XLS documents.

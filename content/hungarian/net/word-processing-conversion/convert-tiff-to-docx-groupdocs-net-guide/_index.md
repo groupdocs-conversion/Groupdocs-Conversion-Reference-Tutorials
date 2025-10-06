@@ -4,8 +4,8 @@
 "title": "Átfogó útmutató a TIFF DOCX fájlokká konvertálásához a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/word-processing-conversion/convert-tiff-to-docx-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató a TIFF DOCX fájlokká konvertálásához a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

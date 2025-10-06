@@ -8,10 +8,8 @@ keywords:
 - Convert VDX to TXT using GroupDocs.Conversion for .NET
 - GroupDocs.Conversion for .NET library
 - automate VDX file conversion in .NET
-
+type: docs
 ---
-
-
 # How to Convert VDX Files to TXT Using GroupDocs.Conversion for .NET
 
 ## Introduction

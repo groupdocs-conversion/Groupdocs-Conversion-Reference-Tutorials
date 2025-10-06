@@ -4,8 +4,8 @@
 "title": "Bemästra DOCX till PPT-konvertering med GroupDocs.Conversion för .NET"
 "url": "/sv/net/presentation-conversion/groupdocs-conversion-dotnet-docx-to-ppt/"
 "weight": 1
+type: docs
 ---
-
 # Bemästra DOCX till PPT-konvertering med GroupDocs.Conversion för .NET
 
 ## Introduktion

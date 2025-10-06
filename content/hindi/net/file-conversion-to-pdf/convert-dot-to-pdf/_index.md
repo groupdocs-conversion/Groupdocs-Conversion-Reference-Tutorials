@@ -5,8 +5,8 @@
 "title": "DOT Word टेम्पलेट्स को PDF में बदलें"
 "url": "/hi/net/file-conversion-to-pdf/convert-dot-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # DOT Word टेम्पलेट्स को PDF में बदलें
 
 ## परिचय

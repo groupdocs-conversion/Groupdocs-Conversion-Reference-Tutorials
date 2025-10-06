@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Java 的轉換快取管理教學課程"
 "url": "/zh-hant/java/cache-management/"
 "weight": 17
+type: docs
 ---
-
 # GroupDocs.Conversion Java 的轉換快取管理教學課程
 
 我們的快取管理教學示範如何使用 GroupDocs.Conversion 的 Java 快取功能來提升轉換效能。這些逐步指南涵蓋了配置不同的快取類型、實作自訂快取提供者、管理快取生命週期、優化儲存需求以及利用快取進行重複轉換。每個教程都包含實用的 Java 程式碼範例，用於高效實現緩存，幫助您建立在保持高品質輸出的同時，最大程度地減少轉換時間和資源佔用的應用程式。

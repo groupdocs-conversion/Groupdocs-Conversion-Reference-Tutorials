@@ -4,8 +4,8 @@
 "title": "Ultimat guide till att konvertera TXT till DOC med GroupDocs.Conversion för .NET"
 "url": "/sv/net/word-processing-conversion/convert-txt-doc-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Ultimat guide: Konvertera TXT till DOC med GroupDocs.Conversion för .NET
 
 ## Introduktion

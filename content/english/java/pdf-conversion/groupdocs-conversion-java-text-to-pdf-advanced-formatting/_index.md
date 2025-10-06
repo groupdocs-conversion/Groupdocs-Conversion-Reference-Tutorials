@@ -8,10 +8,8 @@ keywords:
 - text-to-PDF conversion with GroupDocs.Conversion Java
 - advanced text formatting in PDFs
 - leading spaces and numbering detection
-
+type: docs
 ---
-
-
 # Advanced Text-to-PDF Conversion with GroupDocs.Conversion Java: Preserve Formatting
 
 ## Introduction

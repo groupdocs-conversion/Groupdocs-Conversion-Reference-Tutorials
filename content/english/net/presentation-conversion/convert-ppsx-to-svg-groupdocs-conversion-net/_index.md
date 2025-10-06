@@ -8,10 +8,8 @@ keywords:
 - convert PPSX to SVG
 - GroupDocs.Conversion for .NET
 - PowerPoint presentation conversion
-
+type: docs
 ---
-
-
 # Convert PPSX to SVG Using GroupDocs.Conversion .NET: A Step-by-Step Guide
 
 ## Introduction

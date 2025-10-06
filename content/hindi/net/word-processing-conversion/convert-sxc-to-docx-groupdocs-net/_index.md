@@ -4,8 +4,8 @@
 "title": ".NET में दस्तावेज़ रूपांतरण में महारत हासिल करना; GroupDocs.Conversion का उपयोग करके SXC को DOCX में परिवर्तित करें"
 "url": "/hi/net/word-processing-conversion/convert-sxc-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET में दस्तावेज़ रूपांतरण में महारत हासिल करना: GroupDocs.Conversion का उपयोग करके SXC को DOCX में परिवर्तित करें
 
 ## परिचय

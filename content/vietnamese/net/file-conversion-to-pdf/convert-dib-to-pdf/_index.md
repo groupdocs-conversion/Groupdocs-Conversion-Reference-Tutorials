@@ -5,8 +5,8 @@
 "title": "Chuyển đổi hình ảnh DIB sang PDF"
 "url": "/vi/net/file-conversion-to-pdf/convert-dib-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # Chuyển đổi hình ảnh DIB sang PDF
 
 ## Giới thiệu

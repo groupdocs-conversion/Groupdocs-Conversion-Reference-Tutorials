@@ -4,8 +4,8 @@
 "title": "Przewodnik krok po kroku&#58; Konwersja PCL do PNG przy użyciu GroupDocs.Conversion dla .NET"
 "url": "/pl/net/image-conversion/convert-pcl-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Przewodnik krok po kroku: Konwersja PCL do PNG przy użyciu GroupDocs.Conversion dla .NET
 
 ## Wstęp

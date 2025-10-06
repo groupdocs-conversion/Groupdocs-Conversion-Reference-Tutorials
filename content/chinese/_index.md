@@ -6,8 +6,8 @@
 "title": "主文档转换 - GroupDocs.Conversion 教程和指南"
 "url": "/zh/"
 "weight": 11
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 转换任何文档格式
 
 欢迎来到您精通文档转换的完整资源库！我们全面的教程将为开发人员提供在 .NET 和 Java 应用程序中实现强大文档转换功能所需的一切。无论您是转换业务关键型 PDF、操作 Office 文档，还是处理特殊格式，GroupDocs.Conversion 都能提供简化工作流程的工具。

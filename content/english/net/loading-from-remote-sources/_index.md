@@ -3,8 +3,8 @@ title: "Loading Documents from Remote Sources Tutorials for GroupDocs.Conversion
 description: "Comprehensive tutorials for loading documents from URLs and FTP servers with GroupDocs.Conversion for .NET."
 weight: 3
 url: "/net/loading-from-remote-sources/"
+type: docs
 ---
-
 # Loading Documents from Remote Sources Tutorials for GroupDocs.Conversion .NET
 
 Master remote document loading with our detailed GroupDocs.Conversion tutorials for .NET developers. These practical guides demonstrate how to retrieve and process documents from web URLs and FTP servers, handle authentication requirements, manage timeouts and connection issues, implement download progress monitoring, and work with various protocols. Each tutorial provides working C# code examples that show how to integrate remote document sources into your conversion workflow, helping you build applications that can access content regardless of its location.

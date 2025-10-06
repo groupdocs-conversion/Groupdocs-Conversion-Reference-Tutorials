@@ -4,8 +4,8 @@
 "title": "POTX fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával (C# oktatóanyag)"
 "url": "/hu/net/presentation-formats-features/convert-potx-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # POTX fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

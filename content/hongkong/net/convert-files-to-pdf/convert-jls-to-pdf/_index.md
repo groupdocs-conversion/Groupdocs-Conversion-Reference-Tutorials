@@ -5,8 +5,8 @@
 "title": "將 JPEG-LS (.JLS) 檔案轉換為 PDF"
 "url": "/zh-hant/net/convert-files-to-pdf/convert-jls-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # 將 JPEG-LS (.JLS) 檔案轉換為 PDF
 
 ## 介紹

@@ -4,8 +4,8 @@
 "title": "Convertir VSTM en SVG à l'aide de GroupDocs.Conversion pour .NET - Un guide complet"
 "url": "/fr/net/image-formats-features/convert-vstm-to-svg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir des fichiers VSTM en SVG avec GroupDocs.Conversion pour .NET
 
 ## Introduction

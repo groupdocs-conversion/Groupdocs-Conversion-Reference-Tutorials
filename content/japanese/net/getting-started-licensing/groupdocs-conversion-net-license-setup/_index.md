@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET のライセンスの設定と適用方法 - ステップバイステップガイド"
 "url": "/ja/net/getting-started-licensing/groupdocs-conversion-net-license-setup/"
 "weight": 1
+type: docs
 ---
-
 # 包括的なチュートリアル: GroupDocs.Conversion .NET のライセンスの設定
 
 ## 導入

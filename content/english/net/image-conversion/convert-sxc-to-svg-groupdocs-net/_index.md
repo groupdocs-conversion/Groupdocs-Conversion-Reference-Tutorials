@@ -8,10 +8,8 @@ keywords:
 - convert SXC to SVG
 - GroupDocs.Conversion for .NET
 - C# file conversion
-
+type: docs
 ---
-
-
 # Convert SXC to SVG Using GroupDocs.Conversion for .NET in C#
 
 ## Introduction

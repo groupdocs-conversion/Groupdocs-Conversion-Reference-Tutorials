@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用した AI から PDF への変換ガイド"
 "url": "/ja/net/pdf-conversion-features/ai-to-pdf-conversion-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用した AI から PDF への変換ガイド
 
 ## 導入

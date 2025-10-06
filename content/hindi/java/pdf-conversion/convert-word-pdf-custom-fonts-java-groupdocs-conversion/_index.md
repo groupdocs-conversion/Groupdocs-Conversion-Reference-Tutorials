@@ -4,8 +4,8 @@
 "title": "Java में कस्टम फ़ॉन्ट्स के साथ Word को PDF में कनवर्ट करें&#58; GroupDocs.Conversion का उपयोग करके एक संपूर्ण गाइड"
 "url": "/hi/java/pdf-conversion/convert-word-pdf-custom-fonts-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # जावा में कस्टम फ़ॉन्ट्स के साथ वर्ड दस्तावेज़ों को पीडीएफ में बदलें: GroupDocs.Conversion का उपयोग करके एक संपूर्ण गाइड
 
 ## परिचय

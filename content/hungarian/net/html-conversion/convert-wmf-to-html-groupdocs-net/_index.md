@@ -4,8 +4,8 @@
 "title": "WMF fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/html-conversion/convert-wmf-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # WMF fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

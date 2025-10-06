@@ -8,10 +8,8 @@ keywords:
 - convert ODP to XLSX
 - GroupDocs.Conversion for .NET
 - C# file conversion
-
+type: docs
 ---
-
-
 # Convert ODP to XLSX in C#: Step-by-Step Guide with GroupDocs.Conversion for .NET
 
 ## Introduction

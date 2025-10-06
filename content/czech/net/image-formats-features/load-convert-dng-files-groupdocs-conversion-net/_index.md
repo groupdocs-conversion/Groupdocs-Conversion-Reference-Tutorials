@@ -4,8 +4,8 @@
 "title": "Efektivní načítání a převod souborů DNG do SVG pomocí GroupDocs.Conversion .NET"
 "url": "/cs/net/image-formats-features/load-convert-dng-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní načítání a převod souborů DNG do SVG pomocí GroupDocs.Conversion .NET
 
 ## Zavedení

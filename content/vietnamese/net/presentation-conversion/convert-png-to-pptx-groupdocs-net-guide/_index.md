@@ -4,8 +4,8 @@
 "title": "Hướng dẫn toàn diện&#58; Chuyển đổi PNG sang PPTX bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/presentation-conversion/convert-png-to-pptx-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Hướng dẫn toàn diện: Chuyển đổi PNG sang PPTX bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

@@ -8,10 +8,8 @@ keywords:
 - BMP to TXT Conversion
 - GroupDocs.Conversion for .NET
 - Image Conversion in C#
-
+type: docs
 ---
-
-
 # Convert BMP to TXT Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

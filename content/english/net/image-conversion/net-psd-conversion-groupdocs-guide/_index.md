@@ -8,10 +8,8 @@ keywords:
 - .NET PSD Conversion
 - GroupDocs.Conversion for .NET
 - XLT to PSD conversion
-
+type: docs
 ---
-
-
 # Net PSD Conversion with GroupDocs: A Complete Guide for .NET Developers
 
 ## Introduction

@@ -5,8 +5,8 @@
 "title": "將 FODP OpenDocument 簡報轉換為 PDF"
 "url": "/zh-hant/net/convert-files-to-pdf/convert-fodp-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # 將 FODP OpenDocument 簡報轉換為 PDF
 
 ## 介紹

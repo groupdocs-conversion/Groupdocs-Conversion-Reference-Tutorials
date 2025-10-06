@@ -8,10 +8,8 @@ keywords:
 - convert SXC to PPTX
 - GroupDocs.Conversion for .NET
 - SXC file conversion
-
+type: docs
 ---
-
-
 # How to Convert SXC Files to PPTX Using GroupDocs.Conversion for .NET
 
 ## Introduction

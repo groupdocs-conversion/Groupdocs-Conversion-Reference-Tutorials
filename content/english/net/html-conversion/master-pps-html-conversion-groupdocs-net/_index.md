@@ -8,10 +8,8 @@ keywords:
 - PPS to HTML conversion
 - GroupDocs.Conversion for .NET
 - PowerPoint to HTML
-
+type: docs
 ---
-
-
 # Mastering PPS to HTML Conversion with GroupDocs
 ## Introduction
 Are you looking to make your PowerPoint presentations more accessible and interactive? Converting them to web-friendly formats like HTML is essential in today's digital landscape, enhancing user engagement and ensuring cross-platform compatibility.

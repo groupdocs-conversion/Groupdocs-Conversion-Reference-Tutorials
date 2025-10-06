@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 將 PDF 轉換為圖像——綜合指南"
 "url": "/zh-hant/net/image-conversion/convert-pdf-to-image-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 將 PDF 轉換為圖像：綜合指南
 
 ## 介紹

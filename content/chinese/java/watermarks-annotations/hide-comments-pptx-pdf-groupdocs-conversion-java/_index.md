@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for Java 在 PPTX 转 PDF 中隐藏注释"
 "url": "/zh/java/watermarks-annotations/hide-comments-pptx-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for Java 将 PPTX 中的注释隐藏到 PDF 中
 
 ## 介绍

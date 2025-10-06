@@ -4,8 +4,8 @@
 "title": "Konvertera effektivt PPTX med dolda bilder till PDF i Java med GroupDocs.Conversion"
 "url": "/sv/java/presentation-formats/convert-pptx-hidden-slides-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera enkelt PPTX med dolda bilder till PDF i Java med GroupDocs.Conversion
 
 I den digitala tidsåldern är det vanligt att utvecklare behöver konvertera presentationsdokument till universellt tillgängliga format som PDF. Den här handledningen guidar dig genom en effektiv lösning med hjälp av **GroupDocs.Conversion för Java** för att konvertera PowerPoint-presentationer, inklusive dolda bilder, till PDF-format.

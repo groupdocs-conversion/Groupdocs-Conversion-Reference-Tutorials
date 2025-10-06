@@ -4,8 +4,8 @@
 "title": "MPX hatékony HTML-lé konvertálása a GroupDocs.Conversion .NET használatával"
 "url": "/hu/net/web-markup-formats/convert-mpx-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MPX hatékony HTML-lé konvertálása a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

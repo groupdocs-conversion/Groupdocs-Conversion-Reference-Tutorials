@@ -4,8 +4,8 @@
 "title": "Chuyển đổi XLSB sang JPG bằng GroupDocs.Conversion cho .NET | Hướng dẫn từng bước"
 "url": "/vi/net/image-conversion/convert-xlsb-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi XLSB sang JPG bằng GroupDocs.Conversion cho .NET: Hướng dẫn từng bước
 
 Việc chuyển đổi các tệp định dạng nhị phân Excel (XLSB) thành các định dạng trực quan như JPG là điều cần thiết để cải thiện khả năng truy cập và hiểu biết. Cho dù bạn là nhà phát triển hay chuyên gia kinh doanh, hướng dẫn này sẽ hướng dẫn bạn cách chuyển đổi tệp XLSB thành một loạt hình ảnh JPG bằng GroupDocs.Conversion cho .NET.

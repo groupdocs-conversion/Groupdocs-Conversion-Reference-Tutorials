@@ -4,8 +4,8 @@
 "title": ".NETでGroupDocs.Conversionを使用してOTTをPSDに変換する完全ガイド"
 "url": "/ja/net/image-conversion/convert-ott-to-psd-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NETでGroupDocs.Conversionを使用してOTTをPSDに変換する：完全ガイド
 
 ## 導入

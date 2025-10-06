@@ -3,8 +3,8 @@
 "title": "Hướng dẫn về Tùy chọn Chuyển đổi Tài liệu cho GroupDocs.Conversion Java"
 "url": "/vi/java/conversion-options/"
 "weight": 3
+type: docs
 ---
-
 # Hướng dẫn về Tùy chọn Chuyển đổi Tài liệu cho GroupDocs.Conversion Java
 
 Cài đặt chuyển đổi tài liệu chính với hướng dẫn Java GroupDocs.Conversion chi tiết của chúng tôi. Các hướng dẫn từng bước này trình bày cách tinh chỉnh các tham số chuyển đổi, thiết lập phạm vi trang, cấu hình chất lượng hình ảnh, kiểm soát phông chữ, quản lý siêu dữ liệu và tùy chỉnh nhiều khía cạnh chuyển đổi khác theo chương trình. Mỗi hướng dẫn bao gồm các ví dụ mã Java đang hoạt động, ghi chú triển khai và các biện pháp thực hành tốt nhất để giúp bạn xây dựng các ứng dụng tạo ra các tài liệu đầu ra được tùy chỉnh hoàn hảo.

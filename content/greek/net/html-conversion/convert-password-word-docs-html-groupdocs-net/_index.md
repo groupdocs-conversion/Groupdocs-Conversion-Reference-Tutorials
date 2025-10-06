@@ -4,8 +4,8 @@
 "title": "Πώς να μετατρέψετε έγγραφα Word που προστατεύονται με κωδικό πρόσβασης σε HTML χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/html-conversion/convert-password-word-docs-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε έγγραφα Word που προστατεύονται με κωδικό πρόσβασης σε HTML χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

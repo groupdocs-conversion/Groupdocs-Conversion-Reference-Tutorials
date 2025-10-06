@@ -4,8 +4,8 @@
 "title": "Követett változtatások elrejtése Wordből PDF-be konvertáláskor a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/page-management-content-manipulation/hide-tracked-changes-word-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Word PDF-be konvertálás haladó elsajátítása rejtett követett változtatásokkal a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

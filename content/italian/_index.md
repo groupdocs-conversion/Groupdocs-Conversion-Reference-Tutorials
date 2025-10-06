@@ -6,8 +6,8 @@
 "title": "Conversione di documenti master - Tutorial e guide di GroupDocs.Conversion"
 "url": "/it/"
 "weight": 11
+type: docs
 ---
-
 # Trasforma qualsiasi formato di documento con GroupDocs.Conversion
 
 Benvenuti alla vostra risorsa completa per padroneggiare la conversione dei documenti! I nostri tutorial completi forniscono agli sviluppatori tutto il necessario per implementare potenti funzionalità di trasformazione dei documenti in applicazioni .NET e Java. Che si tratti di convertire PDF aziendali critici, manipolare documenti Office o elaborare formati specializzati, GroupDocs.Conversion fornisce gli strumenti per semplificare il flusso di lavoro.

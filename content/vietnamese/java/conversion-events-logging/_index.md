@@ -3,8 +3,8 @@
 "title": "Sự kiện chuyển đổi và hướng dẫn ghi nhật ký cho GroupDocs.Conversion Java"
 "url": "/vi/java/conversion-events-logging/"
 "weight": 15
+type: docs
 ---
-
 # Sự kiện chuyển đổi và hướng dẫn ghi nhật ký cho GroupDocs.Conversion Java
 
 Nắm vững khả năng giám sát và ghi nhật ký với hướng dẫn sự kiện GroupDocs.Conversion dành cho Java. Những hướng dẫn chi tiết này trình bày cách thiết lập trình lắng nghe sự kiện, theo dõi tiến trình chuyển đổi, triển khai ghi nhật ký chi tiết, xử lý thông báo chuyển đổi và tạo trình xử lý sự kiện tùy chỉnh theo chương trình. Mỗi hướng dẫn bao gồm các ví dụ mã Java đang hoạt động cho thấy cách nâng cao ứng dụng của bạn bằng các tính năng giám sát và báo cáo mạnh mẽ, giúp bạn xây dựng các hệ thống chuyển đổi đáng tin cậy với các bản ghi kiểm toán toàn diện và phản hồi của người dùng.

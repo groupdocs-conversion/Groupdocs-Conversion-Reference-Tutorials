@@ -4,8 +4,8 @@
 "title": "Dynamiska utdatavägar i .NET med GroupDocs.Conversion – En omfattande guide"
 "url": "/sv/net/document-output-saving/dynamic-output-paths-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Dynamiska utdatavägar i .NET med GroupDocs.Conversion: En omfattande guide
 
 ## Introduktion

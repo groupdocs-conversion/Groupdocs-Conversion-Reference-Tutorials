@@ -3,8 +3,8 @@
 "title": "Tutoriais de compactação e manipulação de arquivamento para GroupDocs.Conversion .NET"
 "url": "/pt/net/compression-archive-handling/"
 "weight": 20
+type: docs
 ---
-
 # Tutoriais de compactação e manipulação de arquivamento para GroupDocs.Conversion .NET
 
 Descubra como processar formatos de arquivo com nossos tutoriais do GroupDocs.Conversion para desenvolvedores .NET. Estes guias detalhados ensinam como converter formatos compactados como RAR para outros tipos de documentos, extrair conteúdo de arquivos, compactar resultados de conversão, especificar arquivos para extração de arquivos, lidar com arquivos protegidos por senha, gerenciar arquivos multivolume e implementar extração seletiva de arquivos. Cada tutorial fornece exemplos práticos de código C# para trabalhar com arquivos compactados, ajudando você a criar aplicativos que podem acessar e transformar efetivamente o conteúdo armazenado em vários formatos de arquivo.

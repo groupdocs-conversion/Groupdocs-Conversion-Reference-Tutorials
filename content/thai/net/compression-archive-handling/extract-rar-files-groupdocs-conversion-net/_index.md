@@ -4,8 +4,8 @@
 "title": "แยกไฟล์ RAR อย่างมีประสิทธิภาพโดยใช้ GroupDocs.Conversion ใน .NET&#58; คู่มือสำหรับนักพัฒนา"
 "url": "/th/net/compression-archive-handling/extract-rar-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # แยกไฟล์ RAR อย่างมีประสิทธิภาพด้วย GroupDocs.Conversion ใน .NET: คู่มือสำหรับนักพัฒนา
 
 ## การแนะนำ

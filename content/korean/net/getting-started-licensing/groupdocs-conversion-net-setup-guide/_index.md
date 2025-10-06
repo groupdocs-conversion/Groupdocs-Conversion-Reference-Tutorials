@@ -4,8 +4,8 @@
 "title": ".NET용 GroupDocs.Conversion 설치 및 구현에 대한 포괄적인 가이드"
 "url": "/ko/net/getting-started-licensing/groupdocs-conversion-net-setup-guide/"
 "weight": 1
+type: docs
 ---
-
 # .NET용 GroupDocs.Conversion에 대한 포괄적인 가이드: 설정 및 구현
 
 ## 소개

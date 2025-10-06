@@ -4,8 +4,8 @@
 "title": "DXF konvertálása PDF-be a GroupDocs.Conversion használatával .NET-ben – Teljes körű útmutató"
 "url": "/hu/net/cad-technical-drawing-formats/convert-dxf-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DXF konvertálása PDF-be a GroupDocs.Conversion használatával .NET-ben
 
 ## Bevezetés

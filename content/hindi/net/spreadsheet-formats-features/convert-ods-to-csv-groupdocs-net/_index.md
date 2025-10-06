@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion के साथ ODS को CSV में सहजता से परिवर्तित करें"
 "url": "/hi/net/spreadsheet-formats-features/convert-ods-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion के साथ ODS को CSV में सहजता से परिवर्तित करें
 
 ## परिचय

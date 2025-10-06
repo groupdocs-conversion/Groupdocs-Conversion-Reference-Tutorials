@@ -4,8 +4,8 @@
 "title": "Jak převést soubory RTF do obrázků PNG pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/image-conversion/rtf-to-png-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory RTF do obrázků PNG pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

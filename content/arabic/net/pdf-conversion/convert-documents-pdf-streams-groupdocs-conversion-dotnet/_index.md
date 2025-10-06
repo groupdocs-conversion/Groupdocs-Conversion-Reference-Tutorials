@@ -4,8 +4,8 @@
 "title": "تحويل المستندات إلى تدفقات PDF باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/pdf-conversion/convert-documents-pdf-streams-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # تحويل المستندات إلى تدفقات PDF باستخدام GroupDocs.Conversion لـ .NET: دليل شامل
 
 ## مقدمة

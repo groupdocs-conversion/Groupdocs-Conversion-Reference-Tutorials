@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET™ 分步指南将 ODS 转换为 PPT"
 "url": "/zh/net/presentation-conversion/convert-ods-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 将 ODS 转换为 PPT：分步指南
 ## 介绍
 当您需要以可视化方式呈现数据或准备会议用电子表格时，将开放文档电子表格 (ODS) 文件转换为 PowerPoint 演示文稿 (PPT) 格式至关重要。本指南将指导您使用 GroupDocs.Conversion .NET 顺利完成此转换。

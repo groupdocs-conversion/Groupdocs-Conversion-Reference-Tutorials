@@ -5,8 +5,8 @@
 "title": "VTXをPDFに変換する"
 "url": "/ja/net/converting-file-types-to-pdf/convert-vtx-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # VTXをPDFに変換する
 
 ## 導入

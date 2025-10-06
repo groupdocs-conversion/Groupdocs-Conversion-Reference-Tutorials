@@ -4,8 +4,8 @@
 "title": "XLTX konvertálása PSD-vé .NET-ben a GroupDocs.Conversion használatával – Átfogó útmutató"
 "url": "/hu/net/image-formats-features/convert-xltx-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # XLTX fájlok konvertálása PSD-vé a GroupDocs.Conversion használatával .NET-ben
 
 **Könnyedén alakítsa át Excel-sablonjait kiváló minőségű PSD-képekké a GroupDocs.Conversion for .NET segítségével**

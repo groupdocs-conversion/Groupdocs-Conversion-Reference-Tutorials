@@ -4,8 +4,8 @@
 "title": "Opanuj konwersję LaTeX do Excela za pomocą GroupDocs.Conversion .NET&#58; Kompletny przewodnik dla programistów i badaczy"
 "url": "/pl/net/spreadsheet-formats-features/latex-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Opanowanie konwersji LaTeX do Excela za pomocą GroupDocs.Conversion .NET
 
 dzisiejszym świecie opartym na danych konwersja złożonych dokumentów LaTeX do powszechnie używanych formatów, takich jak Excel, jest nieoceniona dla badaczy i deweloperów. Niezależnie od tego, czy zarządzasz dużymi zestawami danych, czy usprawniasz konwersje dokumentów, ten przewodnik pomoże Ci bezproblemowo przekształcić `.tex` pliki do `.xlsx` korzystając z GroupDocs.Conversion .NET.

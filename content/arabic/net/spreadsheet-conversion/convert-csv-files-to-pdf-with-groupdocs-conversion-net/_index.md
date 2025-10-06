@@ -4,8 +4,8 @@
 "title": "تحويل CSV إلى PDF بكفاءة باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/spreadsheet-conversion/convert-csv-files-to-pdf-with-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل CSV إلى PDF بكفاءة باستخدام GroupDocs.Conversion لـ .NET
 
 في عالمنا اليوم الذي يعتمد على البيانات، يُعد تحويل ملفات CSV إلى PDF أمرًا ضروريًا للحفاظ على سلامة البيانات وتنسيقها. سيرشدك هذا البرنامج التعليمي إلى كيفية تحويل ملفات CSV إلى PDF بكفاءة باستخدام GroupDocs.Conversion for .NET، وهي مكتبة قوية تُبسّط هذه التحويلات.

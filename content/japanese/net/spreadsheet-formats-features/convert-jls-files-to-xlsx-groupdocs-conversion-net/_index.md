@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して JLS ファイルを XLSX に変換する方法 | ステップバイステップガイド"
 "url": "/ja/net/spreadsheet-formats-features/convert-jls-files-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して JLS ファイルを XLSX に変換する方法
 
 ## 導入

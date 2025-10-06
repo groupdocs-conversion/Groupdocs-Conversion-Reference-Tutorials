@@ -5,8 +5,8 @@
 "title": "DOT Word 템플릿을 PDF로 변환"
 "url": "/ko/net/file-conversion-to-pdf/convert-dot-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # DOT Word 템플릿을 PDF로 변환
 
 ## 소개

@@ -4,8 +4,8 @@
 "title": "Převod CSV do JPG pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/image-conversion/convert-csv-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod CSV do JPG pomocí GroupDocs.Conversion pro .NET: Komplexní průvodce
 
 ## Zavedení

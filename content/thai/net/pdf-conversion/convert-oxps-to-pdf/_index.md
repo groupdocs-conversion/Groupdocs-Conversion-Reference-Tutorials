@@ -5,8 +5,8 @@
 "title": "แปลง OXPS เป็น PDF"
 "url": "/th/net/pdf-conversion/convert-oxps-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # แปลง OXPS เป็น PDF
 
 ## การแนะนำ

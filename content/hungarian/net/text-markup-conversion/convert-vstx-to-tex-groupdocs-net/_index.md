@@ -4,8 +4,8 @@
 "title": "VSTX hatékony konvertálása TEX-be a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/text-markup-conversion/convert-vstx-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # VSTX hatékony konvertálása TEX-be a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "วิธีการแยกข้อมูลเมตาของ PDF โดยใช้ GroupDocs.Conversion ใน Java"
 "url": "/th/java/pdf-conversion/extract-pdf-metadata-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการแยกข้อมูลเมตาของ PDF โดยใช้ GroupDocs.Conversion ใน Java
 
 ## การแนะนำ

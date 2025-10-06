@@ -4,8 +4,8 @@
 "title": "Hogyan konvertáljunk DOTM-et TEX-be a GroupDocs.Conversion for .NET használatával? Átfogó útmutató"
 "url": "/hu/net/text-markup-conversion/convert-dotm-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertáljunk DOTM-et TEX-be a GroupDocs.Conversion for .NET használatával?
 
 ## Bevezetés

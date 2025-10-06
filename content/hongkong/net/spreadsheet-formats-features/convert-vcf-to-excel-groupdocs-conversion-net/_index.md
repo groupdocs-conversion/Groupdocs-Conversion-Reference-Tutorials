@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion .NET 將 VCF 檔案轉換為 Excel | 逐步指南"
 "url": "/zh-hant/net/spreadsheet-formats-features/convert-vcf-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion .NET 將 VCF 檔案轉換為 Excel | 逐步指南
 
 ## 介紹

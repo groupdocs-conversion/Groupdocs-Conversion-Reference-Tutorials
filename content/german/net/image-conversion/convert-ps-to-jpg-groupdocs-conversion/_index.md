@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie PS-Dateien mit GroupDocs.Conversion für .NET in JPG – Eine vollständige Anleitung"
 "url": "/de/net/image-conversion/convert-ps-to-jpg-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie PS-Dateien mit GroupDocs.Conversion für .NET in JPG: Eine vollständige Anleitung
 
 ## Einführung

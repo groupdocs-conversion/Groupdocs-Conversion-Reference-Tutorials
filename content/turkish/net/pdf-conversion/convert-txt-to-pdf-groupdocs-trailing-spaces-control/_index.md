@@ -4,8 +4,8 @@
 "title": "TXT'yi GroupDocs ile PDF'ye Dönüştürün ve .NET Kullanarak Sonraki Boşlukları Kontrol Edin"
 "url": "/tr/net/pdf-conversion/convert-txt-to-pdf-groupdocs-trailing-spaces-control/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs ile TXT'yi PDF'ye Dönüştürme: .NET Kullanarak Sonraki Boşlukları Kontrol Etme
 
 ## giriiş

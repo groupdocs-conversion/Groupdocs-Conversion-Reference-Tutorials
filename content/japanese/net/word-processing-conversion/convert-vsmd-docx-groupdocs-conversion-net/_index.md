@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET で VSDM を DOCX に変換する手順ガイド"
 "url": "/ja/net/word-processing-conversion/convert-vsmd-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET で VSDM を DOCX に変換する: ステップバイステップガイド
 
 ## 導入

@@ -5,8 +5,8 @@
 "title": "Převod MPT do PDF"
 "url": "/cs/net/document-conversion/convert-mpt-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Převod MPT do PDF
 
 ## Zavedení

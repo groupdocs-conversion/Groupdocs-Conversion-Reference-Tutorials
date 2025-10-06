@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion&#58; चरण-दर-चरण मार्गदर्शिका का उपयोग करके .NET में XLSM को XLSX में परिवर्तित करें"
 "url": "/hi/net/spreadsheet-formats-features/convert-xlsm-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion का उपयोग करके .NET में XLSM को XLSX में परिवर्तित करें: चरण-दर-चरण मार्गदर्शिका
 
 ## परिचय

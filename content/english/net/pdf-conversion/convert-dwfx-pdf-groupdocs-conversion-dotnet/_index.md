@@ -8,10 +8,8 @@ keywords:
 - Convert DWFX to PDF
 - GroupDocs.Conversion for .NET
 - .NET PDF conversion
-
+type: docs
 ---
-
-
 # Convert DWFX to PDF with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

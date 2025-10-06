@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion for .NET
 - XLSX to TXT conversion
 - Excel file conversion
-
+type: docs
 ---
-
-
 # Convert XLSX to TXT Efficiently with GroupDocs.Conversion for .NET
 
 ## Introduction

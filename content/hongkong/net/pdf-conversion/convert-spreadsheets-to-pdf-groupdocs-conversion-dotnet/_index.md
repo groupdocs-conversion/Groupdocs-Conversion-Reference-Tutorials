@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將電子表格轉換為 PDF 的逐步指南"
 "url": "/zh-hant/net/pdf-conversion/convert-spreadsheets-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將電子表格轉換為 PDF：逐步指南
 
 ## 介紹

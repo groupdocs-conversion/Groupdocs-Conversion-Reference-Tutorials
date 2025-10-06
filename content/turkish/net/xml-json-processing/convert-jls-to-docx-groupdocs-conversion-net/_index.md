@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak JLS'yi DOCX'e Nasıl Dönüştürebilirsiniz? Adım Adım Kılavuz"
 "url": "/tr/net/xml-json-processing/convert-jls-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanılarak JLS'nin DOCX'e Nasıl Dönüştürüleceği: Adım Adım Kılavuz
 
 ## giriiş

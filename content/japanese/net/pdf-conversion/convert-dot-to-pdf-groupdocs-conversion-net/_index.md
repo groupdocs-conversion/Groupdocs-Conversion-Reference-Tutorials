@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用した DOT から PDF への簡単な変換手順"
 "url": "/ja/net/pdf-conversion/convert-dot-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DOT を PDF に簡単に変換: GroupDocs.Conversion for .NET を使用したステップバイステップガイド
 
 ## 導入

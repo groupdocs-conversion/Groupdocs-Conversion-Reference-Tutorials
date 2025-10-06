@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके JPF को XLS में कैसे बदलें | स्प्रेडशीट रूपांतरण ट्यूटोरियल"
 "url": "/hi/net/spreadsheet-conversion/convert-jpf-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके JPF को XLS में कैसे परिवर्तित करें
 
 ## परिचय

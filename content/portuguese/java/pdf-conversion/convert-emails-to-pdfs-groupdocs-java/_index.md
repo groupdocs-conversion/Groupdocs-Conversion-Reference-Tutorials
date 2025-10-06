@@ -4,8 +4,8 @@
 "title": "Converta e-mails em PDFs em Java usando o Guia de Opções Avançadas do GroupDocs.Conversion"
 "url": "/pt/java/pdf-conversion/convert-emails-to-pdfs-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Converter e-mails em PDFs em Java usando GroupDocs.Conversion: Guia de opções avançadas
 
 ## Introdução

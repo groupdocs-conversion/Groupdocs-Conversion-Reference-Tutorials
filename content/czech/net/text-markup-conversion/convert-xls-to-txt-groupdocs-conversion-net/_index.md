@@ -4,8 +4,8 @@
 "title": "Převod souboru Excel (XLS) do textu (TXT) pomocí nástroje GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/text-markup-conversion/convert-xls-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů aplikace Excel (XLS) do textu (TXT) pomocí nástroje GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

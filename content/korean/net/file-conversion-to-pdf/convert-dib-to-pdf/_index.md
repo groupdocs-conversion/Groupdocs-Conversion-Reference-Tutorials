@@ -5,8 +5,8 @@
 "title": "DIB 이미지를 PDF로 변환"
 "url": "/ko/net/file-conversion-to-pdf/convert-dib-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # DIB 이미지를 PDF로 변환
 
 ## 소개

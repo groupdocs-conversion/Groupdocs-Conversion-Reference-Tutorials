@@ -8,10 +8,8 @@ keywords:
 - convert DWT to HTML with GroupDocs.Conversion for .NET
 - GroupDocs.Conversion for .NET
 - DWT file conversion
-
+type: docs
 ---
-
-
 # How to Convert DWT Files to HTML Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

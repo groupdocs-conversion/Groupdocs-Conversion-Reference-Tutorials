@@ -8,10 +8,8 @@ keywords:
 - Java document conversion
 - custom fonts in Java
 - GroupDocs.Conversion for Java
-
+type: docs
 ---
-
-
 # Java Document Conversion with Custom Fonts Using GroupDocs.Conversion
 
 In today's digital world, converting documents while maintaining their original design and layout is crucial. Whether you're preparing a presentation for a client or archiving important files, ensuring that fonts are consistent across platforms can be challenging. This tutorial will guide you through using GroupDocs.Conversion for Java to convert presentations into PDFs with custom font substitutions, ensuring visual integrity throughout the process.

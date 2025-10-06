@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή TIF σε Word σε .NET χρησιμοποιώντας το GroupDocs.Conversion"
 "url": "/el/net/word-processing-conversion/convert-tif-to-word-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική μετατροπή TIF σε Word σε .NET χρησιμοποιώντας το GroupDocs.Conversion
 
 ## Εισαγωγή

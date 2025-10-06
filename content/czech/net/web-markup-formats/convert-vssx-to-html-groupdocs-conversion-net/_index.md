@@ -4,8 +4,8 @@
 "title": "Jak převést soubory VSSX do HTML pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/web-markup-formats/convert-vssx-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory VSSX do HTML pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

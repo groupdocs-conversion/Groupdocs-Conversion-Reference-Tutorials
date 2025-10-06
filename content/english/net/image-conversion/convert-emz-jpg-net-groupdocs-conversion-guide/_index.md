@@ -9,10 +9,8 @@ keywords:
 - GroupDocs.Conversion .NET
 - Image file conversion in C#
 - .NET document processing
-
+type: docs
 ---
-
-
 # Comprehensive Guide: Converting EMZ to JPG with GroupDocs.Conversion in .NET
 
 ## Introduction

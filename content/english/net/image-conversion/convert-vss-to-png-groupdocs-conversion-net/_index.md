@@ -8,10 +8,8 @@ keywords:
 - convert VSS to PNG
 - GroupDocs.Conversion for .NET
 - Visio Stencil conversion
-
+type: docs
 ---
-
-
 # Convert VSS to PNG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

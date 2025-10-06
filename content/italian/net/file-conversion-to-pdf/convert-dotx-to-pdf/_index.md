@@ -5,8 +5,8 @@
 "title": "Converti i modelli DOTX Word in PDF"
 "url": "/it/net/file-conversion-to-pdf/convert-dotx-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # Converti i modelli DOTX Word in PDF
 
 ## Introduzione

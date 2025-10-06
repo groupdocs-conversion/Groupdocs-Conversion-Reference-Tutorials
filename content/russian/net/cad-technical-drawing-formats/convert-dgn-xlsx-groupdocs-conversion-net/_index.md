@@ -4,8 +4,8 @@
 "title": "Конвертируйте DGN в XLSX в C# с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/cad-technical-drawing-formats/convert-dgn-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте DGN в XLSX в C# с помощью GroupDocs.Conversion для .NET
 
 ## Введение

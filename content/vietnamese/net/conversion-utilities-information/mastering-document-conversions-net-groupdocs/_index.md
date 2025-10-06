@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tài liệu hiệu quả trong .NET bằng GroupDocs.Conversion&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/conversion-utilities-information/mastering-document-conversions-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tài liệu hiệu quả trong .NET bằng GroupDocs.Conversion: Hướng dẫn toàn diện
 
 ## Giới thiệu

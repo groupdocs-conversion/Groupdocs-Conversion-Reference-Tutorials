@@ -4,8 +4,8 @@
 "title": "STL-ből LaTeX-be konvertálás automatizálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/text-markup-conversion/convert-stl-to-latex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # STL-ből LaTeX-be konvertálás automatizálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

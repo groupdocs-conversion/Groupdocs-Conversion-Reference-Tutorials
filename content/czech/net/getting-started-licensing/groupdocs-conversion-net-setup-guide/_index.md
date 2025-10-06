@@ -4,8 +4,8 @@
 "title": "Komplexní průvodce nastavením a implementací GroupDocs.Conversion pro .NET"
 "url": "/cs/net/getting-started-licensing/groupdocs-conversion-net-setup-guide/"
 "weight": 1
+type: docs
 ---
-
 # Komplexní průvodce GroupDocs.Conversion pro .NET: Nastavení a implementace
 
 ## Zavedení

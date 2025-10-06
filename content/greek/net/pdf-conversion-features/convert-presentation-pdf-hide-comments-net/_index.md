@@ -4,8 +4,8 @@
 "title": "Απόκρυψη σχολίων σε PDF&#58; Μετατροπή PPT σε PDF με το GroupDocs.Conversion για .NET"
 "url": "/el/net/pdf-conversion-features/convert-presentation-pdf-hide-comments-net/"
 "weight": 1
+type: docs
 ---
-
 # Απόκρυψη σχολίων σε PDF: Μετατροπή PPT σε PDF με το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

@@ -4,8 +4,8 @@
 "title": "Converteer POT efficiënt naar DOCX met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/word-processing-formats-features/convert-pot-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efficiënte conversie: POT naar DOCX met GroupDocs.Conversion voor .NET
 
 ## Invoering

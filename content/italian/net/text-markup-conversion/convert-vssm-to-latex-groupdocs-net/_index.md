@@ -4,8 +4,8 @@
 "title": "Come convertire i file VSSM in LaTeX utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/text-markup-conversion/convert-vssm-to-latex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire i file VSSM in LaTeX utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

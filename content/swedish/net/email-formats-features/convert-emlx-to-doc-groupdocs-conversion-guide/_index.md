@@ -4,8 +4,8 @@
 "title": "Konvertera EMLX till DOC – komplett guide med GroupDocs.Conversion för .NET"
 "url": "/sv/net/email-formats-features/convert-emlx-to-doc-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera EMLX-filer till DOC-format med GroupDocs.Conversion för .NET
 
 ## Introduktion

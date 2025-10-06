@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET を使用して WEBP を XLSX に変換する (スプレッドシート変換用)"
 "url": "/ja/net/spreadsheet-conversion/convert-webp-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET を使用して WEBP を XLSX に変換する
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中将 BMP 转换为 SVG，实现无缝图像转换"
 "url": "/zh/net/image-conversion/convert-bmp-svg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 .NET 中将 BMP 转换为 SVG，实现无缝图像转换
 
 ## 介绍

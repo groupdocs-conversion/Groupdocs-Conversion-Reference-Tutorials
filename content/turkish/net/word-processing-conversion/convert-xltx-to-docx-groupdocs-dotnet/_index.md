@@ -4,8 +4,8 @@
 "title": "XLTX'i GroupDocs for .NET ile DOCX'e Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/word-processing-conversion/convert-xltx-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # XLTX'i GroupDocs for .NET ile DOCX'e Dönüştürme: Kapsamlı Bir Kılavuz
 ## giriiş
 Bir Excel Açık XML Şablonu (XLTX) dosyasını Microsoft Word Belgesi'ne (DOCX) dönüştürmek, GroupDocs.Conversion for .NET kitaplığı kullanılarak sorunsuz bir şekilde gerçekleştirilebilir. Bu güçlü araç, belge dönüştürme süreçlerini basitleştirerek farklı biçimler arasında verimli dönüşümler sağlar.

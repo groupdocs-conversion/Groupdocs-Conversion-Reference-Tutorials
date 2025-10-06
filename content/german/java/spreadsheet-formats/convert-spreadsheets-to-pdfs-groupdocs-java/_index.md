@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie Tabellenkalkulationen in PDFs mit GroupDocs.Conversion für Java – Ein umfassender Leitfaden"
 "url": "/de/java/spreadsheet-formats/convert-spreadsheets-to-pdfs-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie Tabellenkalkulationen in PDFs mit GroupDocs.Conversion für Java: Ein umfassender Leitfaden
 
 ## Einführung

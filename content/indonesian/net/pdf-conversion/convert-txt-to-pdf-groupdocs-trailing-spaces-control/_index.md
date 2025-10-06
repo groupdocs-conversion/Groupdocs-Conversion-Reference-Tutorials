@@ -4,8 +4,8 @@
 "title": "Konversi TXT ke PDF dengan Kontrol Spasi Akhir GroupDocs Menggunakan .NET"
 "url": "/id/net/pdf-conversion/convert-txt-to-pdf-groupdocs-trailing-spaces-control/"
 "weight": 1
+type: docs
 ---
-
 # Konversi TXT ke PDF dengan GroupDocs: Kontrol Spasi Tambahan Menggunakan .NET
 
 ## Perkenalan

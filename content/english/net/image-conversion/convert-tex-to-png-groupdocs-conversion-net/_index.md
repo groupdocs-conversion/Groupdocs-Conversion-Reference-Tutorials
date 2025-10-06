@@ -8,10 +8,8 @@ keywords:
 - convert TEX to PNG
 - GroupDocs.Conversion for .NET
 - TEX file conversion
-
+type: docs
 ---
-
-
 # Convert TEX to PNG with GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "JPEG 2000 (.j2c) fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/html-conversion/convert-jpeg-2000-to-html-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # JPEG 2000 képek HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

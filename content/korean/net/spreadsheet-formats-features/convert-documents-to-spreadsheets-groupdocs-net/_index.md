@@ -4,8 +4,8 @@
 "title": ".NET용 GroupDocs.Conversion을 사용한 효율적인 문서-스프레드시트 변환"
 "url": "/ko/net/spreadsheet-formats-features/convert-documents-to-spreadsheets-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET용 GroupDocs.Conversion을 사용한 효율적인 문서-스프레드시트 변환
 
 ## 소개

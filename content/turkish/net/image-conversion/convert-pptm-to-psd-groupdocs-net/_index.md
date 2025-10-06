@@ -4,8 +4,8 @@
 "title": "PPTM'yi GroupDocs.Conversion for .NET Kullanarak PSD'ye Nasıl Dönüştürebilirsiniz? Kapsamlı Bir Kılavuz"
 "url": "/tr/net/image-conversion/convert-pptm-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PPTM'yi GroupDocs.Conversion for .NET Kullanarak PSD'ye Dönüştürme
 
 ## giriiş

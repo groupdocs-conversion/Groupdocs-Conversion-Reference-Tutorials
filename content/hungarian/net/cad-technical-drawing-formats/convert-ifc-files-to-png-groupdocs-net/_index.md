@@ -4,8 +4,8 @@
 "title": "IFC fájlok konvertálása PNG formátumba a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/cad-technical-drawing-formats/convert-ifc-files-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # IFC fájlok PNG formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

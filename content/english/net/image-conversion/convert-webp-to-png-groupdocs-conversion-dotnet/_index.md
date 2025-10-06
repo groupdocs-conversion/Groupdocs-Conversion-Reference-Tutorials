@@ -8,10 +8,8 @@ keywords:
 - convert WebP to PNG
 - GroupDocs.Conversion for .NET
 - image conversion tutorial
-
+type: docs
 ---
-
-
 # How to Convert WebP to PNG Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 In today's digital landscape, image formats play a crucial role in how content is displayed and shared. The WebP format has gained popularity due to its efficient compression without compromising quality. However, not all platforms support WebP files, necessitating conversion to more universally accepted formats like PNG. This tutorial will guide you through using GroupDocs.Conversion for .NET to seamlessly convert WebP images into PNG format.

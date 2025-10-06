@@ -5,8 +5,8 @@
 "title": "Převod JP2 do PDF"
 "url": "/cs/net/document-conversion/convert-jp2-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # Převod JP2 do PDF
 
 ## Zavedení

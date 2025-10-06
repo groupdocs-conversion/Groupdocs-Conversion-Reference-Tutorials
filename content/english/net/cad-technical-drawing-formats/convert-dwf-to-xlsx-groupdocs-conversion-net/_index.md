@@ -8,10 +8,8 @@ keywords:
 - DWF to XLSX conversion
 - GroupDocs.Conversion for .NET
 - C# file conversion
-
+type: docs
 ---
-
-
 # Convert DWF Files to XLSX Using GroupDocs.Conversion for .NET
 
 ## Introduction

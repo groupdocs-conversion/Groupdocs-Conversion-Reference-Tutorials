@@ -5,8 +5,8 @@
 "title": "การแปลง PDF"
 "url": "/th/net/pdf-conversion/"
 "weight": 25
+type: docs
 ---
-
 # การแปลง PDF
 
 ## การแนะนำ

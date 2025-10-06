@@ -5,8 +5,8 @@
 "title": "แปลง ODP เป็น PDF"
 "url": "/th/net/document-conversion/convert-odp-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # แปลง ODP เป็น PDF
 
 ## การแนะนำ

@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie EPS in HTML mit GroupDocs.Conversion für .NET – Eine vollständige Anleitung"
 "url": "/de/net/web-markup-formats/convert-eps-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie EPS in HTML mit GroupDocs.Conversion für .NET
 
 ## Einführung

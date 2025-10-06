@@ -8,10 +8,8 @@ keywords:
 - convert DGN to XLS
 - GroupDocs.Conversion for .NET
 - C# file conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert DGN to XLS Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

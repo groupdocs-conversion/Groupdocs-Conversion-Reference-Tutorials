@@ -4,8 +4,8 @@
 "title": "Convertire ODT in PSD utilizzando GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/image-conversion/convert-odt-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire ODT in PSD utilizzando GroupDocs.Conversion per .NET: una guida completa
 
 ## Introduzione

@@ -4,8 +4,8 @@
 "title": "EMZ konvertálása PPT-vé .NET-ben a GroupDocs.Conversion segítségével – Átfogó útmutató"
 "url": "/hu/net/presentation-formats-features/convert-emz-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # EMZ fájlok konvertálása PPT-vé a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

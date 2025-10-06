@@ -8,10 +8,8 @@ keywords:
 - Convert PDF to PNG with GroupDocs.Conversion
 - Document Conversion in Java
 - PDF to Image Conversion
-
+type: docs
 ---
-
-
 # How to Convert PDF to PNG Using GroupDocs.Conversion in Java: A Comprehensive Guide
 
 ## Introduction

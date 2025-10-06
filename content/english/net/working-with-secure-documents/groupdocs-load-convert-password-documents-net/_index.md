@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion for .NET
 - load password-protected documents
 - convert Word to PDF
-
+type: docs
 ---
-
-
 # Load & Convert Password-Protected Documents Using GroupDocs.Conversion for .NET
 
 ## Introduction

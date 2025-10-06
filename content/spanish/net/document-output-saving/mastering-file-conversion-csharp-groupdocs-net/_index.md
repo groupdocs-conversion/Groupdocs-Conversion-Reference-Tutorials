@@ -4,8 +4,8 @@
 "title": "Dominando la conversión de archivos en C# con GroupDocs.Conversion para .NET"
 "url": "/es/net/document-output-saving/mastering-file-conversion-csharp-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Dominando la conversión de archivos en C#: Implementación de GroupDocs.Conversion para .NET
 
 ## Introducción

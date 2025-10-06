@@ -4,8 +4,8 @@
 "title": "RTF naar HTML converteren met GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/html-conversion/convert-rtf-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # RTF naar HTML converteren met GroupDocs.Conversion voor .NET: een uitgebreide handleiding
 
 ## Invoering

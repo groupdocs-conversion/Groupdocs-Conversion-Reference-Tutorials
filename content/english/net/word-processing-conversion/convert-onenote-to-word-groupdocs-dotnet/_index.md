@@ -8,10 +8,8 @@ keywords:
 - OneNote to Word conversion
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # How to Convert OneNote Files to Word Using GroupDocs.Conversion for .NET (2023 Guide)
 
 ## Introduction

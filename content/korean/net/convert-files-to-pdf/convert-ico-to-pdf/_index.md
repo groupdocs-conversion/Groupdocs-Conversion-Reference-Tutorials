@@ -5,8 +5,8 @@
 "title": "ICO 아이콘을 PDF로 변환"
 "url": "/ko/net/convert-files-to-pdf/convert-ico-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # ICO 아이콘을 PDF로 변환
 
 ## 소개

@@ -4,8 +4,8 @@
 "title": "C#에서 GroupDocs.Conversion을 사용하여 XLS를 PSD로 변환 - 이미지 변환 튜토리얼"
 "url": "/ko/net/image-conversion/convert-xls-to-psd-groupdocs-conversion-csharp/"
 "weight": 1
+type: docs
 ---
-
 # C#에서 GroupDocs.Conversion을 사용하여 XLS를 PSD로 변환하기: 단계별 가이드
 ## 소개
 Excel 파일을 Photoshop 호환 형식으로 직접 변환하는 데 지치셨나요? GroupDocs.Conversion for .NET을 사용하면 XLS 파일을 PSD 형식으로 변환하는 과정이 원활하고 효율적입니다. 이 튜토리얼은 C#을 사용하여 변환 과정을 안내하며, .NET 애플리케이션에서 문서 변환을 간소화하는 강력한 솔루션을 제공합니다.

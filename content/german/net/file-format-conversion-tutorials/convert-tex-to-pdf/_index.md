@@ -5,8 +5,8 @@
 "title": "Konvertieren Sie TEX in PDF"
 "url": "/de/net/file-format-conversion-tutorials/convert-tex-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # Konvertieren Sie TEX in PDF
 
 ## Einführung

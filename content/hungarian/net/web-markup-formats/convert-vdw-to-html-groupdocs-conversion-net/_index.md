@@ -4,8 +4,8 @@
 "title": "VDW fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/web-markup-formats/convert-vdw-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VDW fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Convertire VSDX in PPTX utilizzando GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/presentation-conversion/convert-vsdx-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire VSDX in PPTX utilizzando GroupDocs.Conversion per .NET: una guida completa
 
 ## Introduzione

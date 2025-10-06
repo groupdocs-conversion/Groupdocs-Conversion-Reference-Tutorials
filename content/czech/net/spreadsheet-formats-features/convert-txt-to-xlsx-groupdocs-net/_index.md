@@ -4,8 +4,8 @@
 "title": "Jak převést soubory TXT do XLSX pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/spreadsheet-formats-features/convert-txt-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů TXT do XLSX pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

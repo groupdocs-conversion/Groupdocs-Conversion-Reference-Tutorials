@@ -4,8 +4,8 @@
 "title": "Jak převést soubory XLTM do formátu DOC pomocí GroupDocs.Conversion v .NET – podrobný návod"
 "url": "/cs/net/word-processing-conversion/convert-xltm-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory XLTM do formátu DOC pomocí GroupDocs.Conversion v .NET: Podrobný návod
 
 ## Zavedení

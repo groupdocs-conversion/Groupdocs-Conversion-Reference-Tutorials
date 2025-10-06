@@ -8,10 +8,8 @@ keywords:
 - convert DWG to SVG
 - GroupDocs.Conversion .NET
 - DWG to SVG conversion
-
+type: docs
 ---
-
-
 # Convert DWG to SVG Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

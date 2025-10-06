@@ -8,10 +8,8 @@ keywords:
 - EPS to PSD conversion
 - GroupDocs.Conversion for .NET
 - convert EPS files
-
+type: docs
 ---
-
-
 # How to Convert EPS to PSD in .NET Using GroupDocs.Conversion
 
 ## Introduction

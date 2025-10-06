@@ -8,10 +8,8 @@ keywords:
 - convert Word to PowerPoint
 - GroupDocs.Conversion for Java
 - Java document conversion
-
+type: docs
 ---
-
-
 # Java Tutorial: Convert Word Documents to PowerPoint Using GroupDocs.Conversion for Java
 
 ## Introduction

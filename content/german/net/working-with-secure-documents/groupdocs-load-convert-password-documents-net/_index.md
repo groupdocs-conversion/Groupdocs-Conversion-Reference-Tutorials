@@ -4,8 +4,8 @@
 "title": "Laden und Konvertieren passwortgeschützter Dokumente mit GroupDocs.Conversion für .NET"
 "url": "/de/net/working-with-secure-documents/groupdocs-load-convert-password-documents-net/"
 "weight": 1
+type: docs
 ---
-
 # Laden und Konvertieren passwortgeschützter Dokumente mit GroupDocs.Conversion für .NET
 
 ## Einführung

@@ -8,10 +8,8 @@ keywords:
 - convert IFC files to DOC
 - GroupDocs.Conversion for .NET
 - BIM workflows
-
+type: docs
 ---
-
-
 # Convert IFC Files to DOC Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

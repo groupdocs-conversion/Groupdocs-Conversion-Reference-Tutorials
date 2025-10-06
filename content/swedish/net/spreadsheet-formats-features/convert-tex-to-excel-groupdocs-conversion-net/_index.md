@@ -4,8 +4,8 @@
 "title": "Konvertera LaTeX-filer (TEX) till Excel-kalkylblad med GroupDocs.Conversion för .NET"
 "url": "/sv/net/spreadsheet-formats-features/convert-tex-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera LaTeX-filer (TEX) till Excel-kalkylblad med GroupDocs.Conversion för .NET
 
 ## Introduktion

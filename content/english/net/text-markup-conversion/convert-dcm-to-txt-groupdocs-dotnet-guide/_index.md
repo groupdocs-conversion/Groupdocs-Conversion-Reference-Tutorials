@@ -8,10 +8,8 @@ keywords:
 - convert DCM to TXT
 - GroupDocs.Conversion .NET
 - DICOM file conversion
-
+type: docs
 ---
-
-
 # How to Convert DCM Files to TXT Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

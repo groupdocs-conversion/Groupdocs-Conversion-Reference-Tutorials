@@ -4,8 +4,8 @@
 "title": "Chuyển đổi mẫu PowerPoint (.pot) sang SVG với GroupDocs.Conversion cho .NET&#58; Hướng dẫn đầy đủ"
 "url": "/vi/net/presentation-formats-features/convert-powerpoint-pot-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi mẫu PowerPoint (.pot) sang SVG với GroupDocs.Conversion cho .NET
 ## Giới thiệu
 Bạn đang tìm kiếm một cách hiệu quả để chuyển đổi các mẫu PowerPoint thành đồ họa vector có thể mở rộng? Cho dù bạn là nhà phát triển muốn nâng cao khả năng xử lý tài liệu hay cần chuyển đổi các tệp POT để tương thích với web, hướng dẫn này sẽ hướng dẫn bạn thực hiện quy trình bằng GroupDocs.Conversion cho .NET. Bằng cách làm theo các bước này, bạn có thể hợp lý hóa quy trình làm việc của mình và tạo ra các đầu ra SVG chất lượng cao từ các mẫu PowerPoint.

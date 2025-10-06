@@ -4,8 +4,8 @@
 "title": "ICO konvertálása XLSX-re a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-ico-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # ICO konvertálása XLSX-re a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

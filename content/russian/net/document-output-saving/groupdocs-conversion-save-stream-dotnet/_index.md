@@ -4,8 +4,8 @@
 "title": "Как сохранить файлы для потоковой передачи с помощью GroupDocs.Conversion в .NET | Пошаговое руководство"
 "url": "/ru/net/document-output-saving/groupdocs-conversion-save-stream-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Как реализовать GroupDocs.Conversion .NET: сохранить преобразованный файл в поток
 
 ## Введение

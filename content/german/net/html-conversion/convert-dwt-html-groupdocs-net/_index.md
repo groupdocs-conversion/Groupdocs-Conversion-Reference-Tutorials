@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie DWT in HTML mit GroupDocs.Conversion für .NET – Ein umfassender Leitfaden"
 "url": "/de/net/html-conversion/convert-dwt-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie DWT-Dateien mit GroupDocs.Conversion für .NET in HTML: Eine umfassende Anleitung
 
 ## Einführung

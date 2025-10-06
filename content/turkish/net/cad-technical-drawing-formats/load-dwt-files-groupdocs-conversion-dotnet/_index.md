@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak DWT Dosyaları Nasıl Yüklenir ve Dönüştürülür | CAD ve Teknik Çizim"
 "url": "/tr/net/cad-technical-drawing-formats/load-dwt-files-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak DWT Dosyaları Nasıl Yüklenir ve Dönüştürülür
 
 ## giriiş

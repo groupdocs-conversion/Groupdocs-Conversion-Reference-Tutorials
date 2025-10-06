@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将日志文件转换为 PNG 综合指南"
 "url": "/zh/net/image-conversion/convert-log-files-to-png-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将日志文件转换为 PNG
 
 ## 介绍

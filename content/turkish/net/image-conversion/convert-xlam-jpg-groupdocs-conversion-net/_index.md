@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET kullanarak XLAM'ı JPG'ye dönüştürün Kapsamlı Bir Kılavuz"
 "url": "/tr/net/image-conversion/convert-xlam-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak XLAM'ı JPG'ye Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

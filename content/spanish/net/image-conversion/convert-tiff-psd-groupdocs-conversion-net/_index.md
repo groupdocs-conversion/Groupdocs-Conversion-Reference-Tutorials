@@ -4,8 +4,8 @@
 "title": "Cómo convertir TIFF a PSD con GroupDocs.Conversion para .NET&#58; guía paso a paso"
 "url": "/es/net/image-conversion/convert-tiff-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir TIFF a PSD con GroupDocs.Conversion para .NET: guía paso a paso
 
 ## Introducción

@@ -4,8 +4,8 @@
 "title": "Snadný převod MPP do XLSX pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/spreadsheet-conversion/convert-mpp-to-xlsx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Snadný převod MPP do XLSX pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

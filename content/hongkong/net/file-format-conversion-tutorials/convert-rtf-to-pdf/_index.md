@@ -5,8 +5,8 @@
 "title": "將 RTF 轉換為 PDF"
 "url": "/zh-hant/net/file-format-conversion-tutorials/convert-rtf-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # 將 RTF 轉換為 PDF
 
 ## 介紹

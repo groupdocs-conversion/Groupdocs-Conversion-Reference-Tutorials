@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Mastering File Conversion: Convert OTP to TXT with GroupDocs.Conversion for .NET
 
 ## Introduction

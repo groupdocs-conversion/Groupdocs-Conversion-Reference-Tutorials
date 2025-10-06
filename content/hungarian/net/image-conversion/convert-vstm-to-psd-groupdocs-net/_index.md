@@ -4,8 +4,8 @@
 "title": "Visio sablonok (.vstm) konvertálása Photoshop (.psd) fájlokká a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-vstm-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Visio-sablonok (.vstm) konvertálása Photoshop (.psd) formátumba a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 ## Bevezetés
 A Visio makróbarát rajzsablonok (VSTM) sokoldalú formátumba, például Adobe Photoshop dokumentumba (PSD) való konvertálása kihívást jelenthet. Ez az útmutató leegyszerűsíti ezt a folyamatot a GroupDocs.Conversion for .NET segítségével, lehetővé téve a zökkenőmentes és hatékony fájlkonvertálást. Ezzel a hatékony eszközzel a VSTM-ek PSD fájlokká alakítása egyszerűvé válik, javítva a dokumentumkezelési munkafolyamatot.

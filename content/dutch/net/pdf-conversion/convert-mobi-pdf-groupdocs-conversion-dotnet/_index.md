@@ -4,8 +4,8 @@
 "title": "MOBI-bestanden naar PDF converteren met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/pdf-conversion/convert-mobi-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # MOBI-bestanden naar PDF converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

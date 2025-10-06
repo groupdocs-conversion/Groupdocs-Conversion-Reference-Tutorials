@@ -8,10 +8,8 @@ keywords:
 - EMF to JPG conversion in .NET
 - GroupDocs.Conversion for .NET
 - file format conversion
-
+type: docs
 ---
-
-
 # Mastering EMF to JPG Conversion in .NET with GroupDocs.Conversion
 
 ## Introduction

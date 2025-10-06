@@ -4,8 +4,8 @@
 "title": "Как преобразовать CSV в HTML с помощью GroupDocs.Conversion для .NET&#58; Пошаговое руководство"
 "url": "/ru/net/csv-structured-data-processing/convert-csv-html-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Как преобразовать CSV в HTML с помощью GroupDocs.Conversion для .NET: пошаговое руководство
 
 ## Введение

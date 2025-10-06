@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將受密碼保護的 Word 文件轉換為 PDF"
 "url": "/zh-hant/net/working-with-secure-documents/convert-password-protected-docs-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將受密碼保護的 Word 文件載入並轉換為 PDF
 
 ## 介紹

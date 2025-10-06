@@ -4,8 +4,8 @@
 "title": "Convierta XLSB a DOCX con GroupDocs.Conversion para .NET&#58; guía paso a paso"
 "url": "/es/net/word-processing-conversion/convert-xlsb-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir archivos XLSB a DOCX con GroupDocs.Conversion para .NET: guía paso a paso
 
 ## Introducción

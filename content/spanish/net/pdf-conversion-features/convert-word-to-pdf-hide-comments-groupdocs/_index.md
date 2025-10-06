@@ -4,8 +4,8 @@
 "title": "Convierta Word a PDF y oculte comentarios con GroupDocs.Conversion para .NET"
 "url": "/es/net/pdf-conversion-features/convert-word-to-pdf-hide-comments-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Convierte documentos de Word a PDF y oculta comentarios con GroupDocs.Conversion para .NET
 
 ## Introducción

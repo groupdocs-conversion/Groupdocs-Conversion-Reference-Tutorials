@@ -5,8 +5,8 @@
 "title": "LOG naar PDF converteren"
 "url": "/nl/net/document-conversion/convert-log-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # LOG naar PDF converteren
 
 ## Invoering

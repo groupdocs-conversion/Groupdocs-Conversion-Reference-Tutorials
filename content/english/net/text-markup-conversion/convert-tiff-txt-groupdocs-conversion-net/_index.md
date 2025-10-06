@@ -8,10 +8,8 @@ keywords:
 - convert TIFF to TXT
 - GroupDocs.Conversion for .NET
 - TIFF to text conversion
-
+type: docs
 ---
-
-
 # Convert TIFF to TXT Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

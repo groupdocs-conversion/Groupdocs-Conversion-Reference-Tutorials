@@ -5,8 +5,8 @@
 "title": "STL konvertálása PDF-be"
 "url": "/hu/net/file-format-conversion-tutorials/convert-stl-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # STL konvertálása PDF-be
 
 ## Bevezetés

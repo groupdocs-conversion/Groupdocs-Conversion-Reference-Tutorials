@@ -4,8 +4,8 @@
 "title": "VSTX naar DOC converteren met GroupDocs.Conversion.NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/word-processing-conversion/convert-vstx-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # VSTX-bestanden converteren naar DOC-indeling met GroupDocs.Conversion .NET: een uitgebreide handleiding
 
 ## Invoering

@@ -8,9 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
 # Convert MHT to XLSX Using GroupDocs.Conversion in .NET
 
 ## Introduction

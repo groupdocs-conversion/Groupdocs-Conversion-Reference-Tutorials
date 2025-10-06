@@ -8,10 +8,8 @@ keywords:
 - convert XML to DOCX
 - GroupDocs.Conversion for .NET
 - XML file conversion
-
+type: docs
 ---
-
-
 # Convert XML to DOCX Using GroupDocs.Conversion for .NET
 
 In today’s digital landscape, converting document formats efficiently is crucial. Whether you're migrating data or integrating systems, transforming an XML file into a more accessible Word document (DOCX) can significantly streamline your workflow. This comprehensive guide will walk you through using GroupDocs.Conversion for .NET to achieve this transformation seamlessly.

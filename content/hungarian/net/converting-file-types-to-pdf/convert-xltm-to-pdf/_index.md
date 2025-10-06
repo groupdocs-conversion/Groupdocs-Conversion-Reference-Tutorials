@@ -5,8 +5,8 @@
 "title": "XLTM konvertálása PDF-be"
 "url": "/hu/net/converting-file-types-to-pdf/convert-xltm-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # XLTM konvertálása PDF-be
 
 ## Bevezetés

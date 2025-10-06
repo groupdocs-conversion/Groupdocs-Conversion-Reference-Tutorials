@@ -4,8 +4,8 @@
 "title": "Υλοποίηση μιας Άδειας Χρήσης με Όριο για το GroupDocs.Conversion σε Java&#58; Ένας Πλήρης Οδηγός"
 "url": "/el/java/getting-started/implement-metered-license-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Υλοποίηση Άδειας Χρήσης με Όριο για το GroupDocs.Conversion σε Java
 
 ## Εισαγωγή

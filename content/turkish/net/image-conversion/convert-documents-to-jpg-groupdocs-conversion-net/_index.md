@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET kullanarak Belgeleri JPG'ye Verimli Şekilde Dönüştürün - Eksiksiz Bir Kılavuz"
 "url": "/tr/net/image-conversion/convert-documents-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak JPG'ye Verimli Belge Dönüştürme
 
 ## giriiş

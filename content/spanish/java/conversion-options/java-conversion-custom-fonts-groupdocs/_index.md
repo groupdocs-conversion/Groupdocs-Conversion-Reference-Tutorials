@@ -4,8 +4,8 @@
 "title": "Conversión de documentos Java con fuentes personalizadas mediante GroupDocs.Conversion"
 "url": "/es/java/conversion-options/java-conversion-custom-fonts-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Conversión de documentos Java con fuentes personalizadas mediante GroupDocs.Conversion
 
 En el mundo digital actual, es crucial convertir documentos conservando su diseño y maquetación originales. Ya sea que esté preparando una presentación para un cliente o archivando archivos importantes, garantizar la consistencia de las fuentes en todas las plataformas puede ser un desafío. Este tutorial le guiará en el uso de GroupDocs.Conversion para Java para convertir presentaciones a PDF con sustituciones de fuentes personalizadas, garantizando así la integridad visual durante todo el proceso.

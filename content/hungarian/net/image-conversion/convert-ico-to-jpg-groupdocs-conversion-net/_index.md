@@ -4,8 +4,8 @@
 "title": "Hogyan konvertálhat ICO fájlokat JPG formátumba a GroupDocs.Conversion .NET használatával"
 "url": "/hu/net/image-conversion/convert-ico-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhat ICO fájlokat JPG formátumba a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Konversi SVG ke TXT secara Efisien Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/text-markup-conversion/convert-svg-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi SVG ke TXT secara Efisien Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

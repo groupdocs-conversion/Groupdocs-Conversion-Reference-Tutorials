@@ -5,8 +5,8 @@
 "title": "Převod PLT do PDF"
 "url": "/cs/net/pdf-conversion/convert-plt-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # Převod PLT do PDF
 
 ## Zavedení

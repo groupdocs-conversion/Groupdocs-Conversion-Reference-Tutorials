@@ -8,10 +8,8 @@ keywords:
 - convert PPTM to TEX
 - GroupDocs.Conversion for .NET
 - LaTeX conversion
-
+type: docs
 ---
-
-
 # How to Convert PPTM to TEX Using GroupDocs.Conversion for .NET
 
 ## Introduction

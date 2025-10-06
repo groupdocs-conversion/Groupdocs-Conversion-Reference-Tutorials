@@ -3,8 +3,8 @@
 "title": "Tutoriais de arquivos de armazenamento e processamento PST para GroupDocs.Conversion .NET"
 "url": "/pt/net/storage-files-pst-processing/"
 "weight": 21
+type: docs
 ---
-
 # Tutoriais de arquivos de armazenamento e processamento PST para GroupDocs.Conversion .NET
 
 Nossos tutoriais de processamento de arquivos de armazenamento fornecem orientações detalhadas para o manuseio de contêineres de e-mail em aplicativos .NET. Estes guias práticos demonstram como extrair e converter conteúdo de arquivos de armazenamento pessoais, como PST e OST, recuperar estruturas de pastas, converter conteúdo de armazenamento para diferentes formatos, manipular hierarquias de conteúdo aninhadas, preservar metadados de mensagens, processar múltiplas mensagens em lote e implementar operações de extração seletiva. Cada tutorial inclui exemplos completos de código C# para cenários de conversão de arquivos de armazenamento, ajudando você a criar aplicativos que possam acessar e transformar dados armazenados em formatos de contêiner de e-mail com eficiência.

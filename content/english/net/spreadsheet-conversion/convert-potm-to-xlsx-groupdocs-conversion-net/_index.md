@@ -8,10 +8,8 @@ keywords:
 - convert POTM to XLSX
 - GroupDocs.Conversion .NET
 - data management with Excel
-
+type: docs
 ---
-
-
 # How to Convert POTM to XLSX Using GroupDocs.Conversion in .NET (2023 Guide)
 
 ## Introduction

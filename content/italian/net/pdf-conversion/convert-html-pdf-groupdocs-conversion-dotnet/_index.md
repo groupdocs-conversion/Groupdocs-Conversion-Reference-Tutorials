@@ -4,8 +4,8 @@
 "title": "Convertire HTML in PDF utilizzando GroupDocs.Conversion per .NET (Tutorial sulla conversione PDF)"
 "url": "/it/net/pdf-conversion/convert-html-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converti HTML in PDF utilizzando GroupDocs.Conversion per .NET
 ## Introduzione
 Desideri convertire i tuoi file HTML in un formato più portabile e sicuro come il PDF? Che si tratti di presentare contenuti web in formato stampabile o di distribuire documenti senza preoccuparti di modifiche di formattazione, utilizzare gli strumenti giusti può fare la differenza. In questo tutorial, ti guideremo attraverso una soluzione efficace utilizzando GroupDocs.Conversion per .NET.

@@ -4,8 +4,8 @@
 "title": "Spreadsheets naar PDF's converteren met GroupDocs.Conversion voor .NET&#58; stapsgewijze handleiding"
 "url": "/nl/net/pdf-conversion/convert-spreadsheets-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Spreadsheets naar PDF's converteren met GroupDocs.Conversion voor .NET: stapsgewijze handleiding
 
 ## Invoering

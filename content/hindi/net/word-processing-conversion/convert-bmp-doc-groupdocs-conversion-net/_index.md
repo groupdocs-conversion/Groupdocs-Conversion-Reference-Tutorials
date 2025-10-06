@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके BMP को DOC कैसे परिवर्तित करें"
 "url": "/hi/net/word-processing-conversion/convert-bmp-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके BMP फ़ाइलों को DOC प्रारूप में कैसे परिवर्तित करें
 
 ## परिचय

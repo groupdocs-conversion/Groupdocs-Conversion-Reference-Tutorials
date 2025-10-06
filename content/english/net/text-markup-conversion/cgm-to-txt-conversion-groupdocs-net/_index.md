@@ -8,10 +8,8 @@ keywords:
 - CGM to TXT conversion
 - GroupDocs.Conversion for .NET
 - file format conversion
-
+type: docs
 ---
-
-
 # Implementing CGM to TXT Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

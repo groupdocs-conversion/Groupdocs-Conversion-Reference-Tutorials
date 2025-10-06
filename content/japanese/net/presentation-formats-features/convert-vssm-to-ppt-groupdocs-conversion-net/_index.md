@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET を使って VSSM を PPT に効率的に変換する包括的なガイド"
 "url": "/ja/net/presentation-formats-features/convert-vssm-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET を使用して VSSM ファイルを PowerPoint プレゼンテーションに変換する方法
 ## 導入
 今日の急速に進化するデジタル世界では、異なる形式間でファイルを効率的に変換することが不可欠です。Microsoft Visio マクロ有効ファイル (.vssm) を PowerPoint プレゼンテーション (.ppt) に変換するのに苦労していませんか？このチュートリアルでは、GroupDocs.Conversion .NET ライブラリを使用した効率的なソリューションをご紹介します。

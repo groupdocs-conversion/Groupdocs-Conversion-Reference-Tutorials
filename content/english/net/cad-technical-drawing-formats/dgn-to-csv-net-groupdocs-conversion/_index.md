@@ -8,10 +8,8 @@ keywords:
 - DGN to CSV conversion
 - GroupDocs.Conversion for .NET
 - .NET file conversion
-
+type: docs
 ---
-
-
 # Convert DGN to CSV in .NET with GroupDocs.Conversion: A Comprehensive Guide
 
 ## Introduction

@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Effortlessly convert STL files to PDF format using GroupDocs.Conversion for .NET. Streamline your document management process.
 weight: 14
 url: /net/file-format-conversion-tutorials/convert-stl-to-pdf/
+type: docs
 ---
-
 # Convert STL to PDF
 
 ## Introduction

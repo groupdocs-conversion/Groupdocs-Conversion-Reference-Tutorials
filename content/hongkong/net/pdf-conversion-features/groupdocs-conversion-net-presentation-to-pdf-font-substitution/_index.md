@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中將 PowerPoint 轉換為帶有字體替換的 PDF"
 "url": "/zh-hant/net/pdf-conversion-features/groupdocs-conversion-net-presentation-to-pdf-font-substitution/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 .NET 中將 PowerPoint 轉換為帶有字體替換的 PDF
 
 ## 介紹

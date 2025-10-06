@@ -5,8 +5,8 @@
 "title": "Převod souborů šablon DWT CAD do PDF"
 "url": "/cs/net/convert-files-to-pdf/convert-dwt-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Převod souborů šablon DWT CAD do PDF
 
 ## Zavedení

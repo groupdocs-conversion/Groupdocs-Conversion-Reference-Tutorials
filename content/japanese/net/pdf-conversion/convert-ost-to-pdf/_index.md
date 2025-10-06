@@ -5,8 +5,8 @@
 "title": "OSTをPDFに変換する"
 "url": "/ja/net/pdf-conversion/convert-ost-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # OSTをPDFに変換する
 
 ## 導入

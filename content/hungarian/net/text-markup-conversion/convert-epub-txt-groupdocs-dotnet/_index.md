@@ -4,8 +4,8 @@
 "title": "EPUB-fájl TXT-vé konvertálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/text-markup-conversion/convert-epub-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # EPUB-fájl TXT-vé konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

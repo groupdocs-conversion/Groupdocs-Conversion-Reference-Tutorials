@@ -4,8 +4,8 @@
 "title": "Мастер-преобразование PDF в DOCX в .NET с использованием GroupDocs.Conversion"
 "url": "/ru/net/word-processing-conversion/pdf-to-docx-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Мастер-конвертация PDF в DOCX с помощью GroupDocs.Conversion для .NET
 
 ## Введение

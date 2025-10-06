@@ -4,8 +4,8 @@
 "title": "Jak převést soubory .dot na .docx pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/word-processing-formats-features/convert-dot-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory .dot na .docx pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

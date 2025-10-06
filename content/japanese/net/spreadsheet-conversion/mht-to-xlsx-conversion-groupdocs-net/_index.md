@@ -4,8 +4,8 @@
 "title": ".NETでGroupDocs.Conversionを使用してMHTをXLSXに変換する手順"
 "url": "/ja/net/spreadsheet-conversion/mht-to-xlsx-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET で GroupDocs.Conversion を使用して MHT を XLSX に変換する
 
 ## 導入

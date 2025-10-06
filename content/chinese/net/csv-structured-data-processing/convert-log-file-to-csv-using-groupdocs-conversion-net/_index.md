@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 将日志文件转换为 CSV 文件——分步指南"
 "url": "/zh/net/csv-structured-data-processing/convert-log-file-to-csv-using-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 将日志文件转换为 CSV：分步指南
 
 ## 介绍

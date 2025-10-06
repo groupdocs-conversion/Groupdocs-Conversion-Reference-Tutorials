@@ -3,8 +3,8 @@
 "title": "E-mail formátumok és funkciók – oktatóanyagok a GroupDocs.Conversion .NET-hez"
 "url": "/hu/net/email-formats-features/"
 "weight": 14
+type: docs
 ---
-
 # E-mail formátumok és funkciók – oktatóanyagok a GroupDocs.Conversion .NET-hez
 
 Sajátítsa el az e-mail dokumentumok feldolgozásának mesteri szintjét átfogó GroupDocs.Conversion oktatóanyagainkkal .NET fejlesztőknek. Ezek a gyakorlati útmutatók bemutatják, hogyan konvertálhatja az e-mail üzeneteket különböző dokumentumformátumokba, hogyan kinyerheti és konvertálhatja az e-mail mellékleteket különböző formátumokba, hogyan módosíthatja a mezők láthatóságát az átalakítás során, hogyan alkalmazhat lokalizációt az e-mail mezőkre, hogyan kezelheti az időzóna-eltolódásokat, hogyan valósíthat meg globalizációs beállításokat, hogyan őrizheti meg az e-mail metaadatokat, és hogyan dolgozhatja fel a beágyazott tartalmú üzeneteket. Minden oktatóanyag részletes C# kódpéldákat tartalmaz az e-mail konverziós forgatókönyvekhez, segítve olyan alkalmazások létrehozásában, amelyek hatékonyan alakíthatják át az e-mail kommunikációt hozzáférhetőbb dokumentumformátumokká.

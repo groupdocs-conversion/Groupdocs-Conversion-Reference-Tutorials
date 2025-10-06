@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 实现 XPS 到 Excel 的高效转换"
 "url": "/zh/net/spreadsheet-conversion/converting-xps-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 实现 XPS 到 Excel 的高效转换
 
 ## 介绍

@@ -8,10 +8,8 @@ keywords:
 - RTF to PNG conversion
 - GroupDocs.Conversion for .NET
 - .NET document conversion
-
+type: docs
 ---
-
-
 # How to Convert RTF Files to PNG Images Using GroupDocs.Conversion for .NET
 
 ## Introduction

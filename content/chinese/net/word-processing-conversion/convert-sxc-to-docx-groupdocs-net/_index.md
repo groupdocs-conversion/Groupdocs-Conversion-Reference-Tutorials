@@ -4,8 +4,8 @@
 "title": "掌握 .NET 中的文档转换 &#58; 使用 GroupDocs.Conversion 将 SXC 转换为 DOCX"
 "url": "/zh/net/word-processing-conversion/convert-sxc-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 掌握 .NET 中的文档转换：使用 GroupDocs.Conversion 将 SXC 转换为 DOCX
 
 ## 介绍

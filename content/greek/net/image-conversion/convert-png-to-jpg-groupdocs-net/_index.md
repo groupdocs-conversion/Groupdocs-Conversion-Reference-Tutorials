@@ -4,8 +4,8 @@
 "title": "Μετατροπή PNG σε JPG χρησιμοποιώντας το GroupDocs.Conversion .NET™ Ένας ολοκληρωμένος οδηγός για προγραμματιστές"
 "url": "/el/net/image-conversion/convert-png-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή PNG σε JPG με το GroupDocs.Conversion .NET: Οδηγός βήμα προς βήμα
 
 ## Εισαγωγή

@@ -4,8 +4,8 @@
 "title": "Converteer OXPS naar PSD met GroupDocs.Conversion .NET&#58; een uitgebreide handleiding voor het converteren van afbeeldingen"
 "url": "/nl/net/image-conversion/oxps-to-psd-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer OXPS naar PSD met GroupDocs.Conversion .NET: een uitgebreide handleiding voor het converteren van afbeeldingen
 
 ## Invoering

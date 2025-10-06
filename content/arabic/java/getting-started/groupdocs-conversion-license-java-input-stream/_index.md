@@ -4,8 +4,8 @@
 "title": "كيفية تعيين ترخيص GroupDocs.Conversion في Java باستخدام InputStream"
 "url": "/ar/java/getting-started/groupdocs-conversion-license-java-input-stream/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تنفيذ إعداد ترخيص GroupDocs.Conversion عبر InputStream في Java
 ## مقدمة
 هل ترغب في تحسين تطبيق جافا الخاص بك باستخدام ميزات GroupDocs.Conversion القوية؟ يُعد إعداد الترخيص بشكل صحيح خطوةً أساسية، ويمكن أن يُسهّل ذلك باستخدام تدفق الإدخال هذه العملية. سيشرح لك هذا الدليل كيفية إعداد ترخيص GroupDocs باستخدام تدفق الإدخال في جافا، مما يضمن سير عمليات التحويل بسلاسة ودون أي مشاكل في الترخيص.

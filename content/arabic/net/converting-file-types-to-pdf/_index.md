@@ -5,8 +5,8 @@
 "title": "تحويل أنواع الملفات إلى PDF"
 "url": "/ar/net/converting-file-types-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # تحويل أنواع الملفات إلى PDF
 
 ## مقدمة

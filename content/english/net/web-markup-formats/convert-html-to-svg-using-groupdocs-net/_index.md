@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert HTML Files to SVG Format Using GroupDocs.Conversion for .NET
 
 ## Introduction

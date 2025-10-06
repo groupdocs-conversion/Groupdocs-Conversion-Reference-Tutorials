@@ -4,8 +4,8 @@
 "title": "Podrobný návod&#58; Převod PCL do PNG pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/image-conversion/convert-pcl-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Podrobný návod: Převod PCL do PNG pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

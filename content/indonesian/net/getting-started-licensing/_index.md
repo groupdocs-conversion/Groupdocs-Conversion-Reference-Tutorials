@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Tutorial Memulai dan Lisensi untuk Pengembang .NET"
 "url": "/id/net/getting-started-licensing/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Tutorial Memulai dan Lisensi untuk Pengembang .NET
 
 Mulailah perjalanan Anda dengan tutorial GroupDocs.Conversion penting ini yang memandu Anda melalui penginstalan, konfigurasi lisensi, dan melakukan konversi dokumen pertama Anda di .NET. Panduan yang mudah dipahami bagi pemula kami menunjukkan cara menyiapkan lingkungan pengembangan Anda, menginisialisasi pustaka GroupDocs.Conversion, mengonfigurasi lisensi dari file atau aliran, menyiapkan lisensi terukur, dan menerapkan operasi konversi dasar menggunakan API standar dan lancar. Ikuti tutorial ini untuk menguasai dasar-dasar dengan cepat dan mempersiapkan tugas konversi dokumen yang lebih canggih di aplikasi .NET Anda.

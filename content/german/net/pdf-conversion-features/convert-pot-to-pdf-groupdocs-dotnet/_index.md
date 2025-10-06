@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie PowerPoint-Vorlagen (.pot) mit GroupDocs.Conversion für .NET in PDF"
 "url": "/de/net/pdf-conversion-features/convert-pot-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie eine PowerPoint-Vorlagendatei (.pot) mit GroupDocs.Conversion für .NET in PDF
 
 ## Einführung

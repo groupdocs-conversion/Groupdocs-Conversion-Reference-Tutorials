@@ -4,8 +4,8 @@
 "title": "VSTM konvertálása PDF-be a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/pdf-conversion/convert-vstm-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # VSTM konvertálása PDF-be a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

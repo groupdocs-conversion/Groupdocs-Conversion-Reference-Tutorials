@@ -4,8 +4,8 @@
 "title": "VSS konvertálása TXT-vé a GroupDocs.Conversion .NET használatával – Átfogó útmutató"
 "url": "/hu/net/text-file-processing/convert-vss-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # VSS konvertálása TXT-vé a GroupDocs.Conversion .NET használatával: Átfogó útmutató
 
 ## Bevezetés

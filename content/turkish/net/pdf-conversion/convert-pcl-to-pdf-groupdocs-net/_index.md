@@ -4,8 +4,8 @@
 "title": "GroupDocs ile PCL'yi PDF'ye Kolayca Dönüştürün. .NET İçin Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/pdf-conversion/convert-pcl-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PCL'yi GroupDocs.Conversion for .NET ile PDF'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

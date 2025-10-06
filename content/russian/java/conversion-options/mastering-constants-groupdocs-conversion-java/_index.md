@@ -4,8 +4,8 @@
 "title": "Освоение управления константами в GroupDocs.Conversion Java для проектов преобразования файлов"
 "url": "/ru/java/conversion-options/mastering-constants-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Освоение управления константами с помощью GroupDocs.Conversion Java
 
 ## Введение

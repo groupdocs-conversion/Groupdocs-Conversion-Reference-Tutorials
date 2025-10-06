@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion&#58; का उपयोग करके .NET में EMF से JPG रूपांतरण एक चरण-दर-चरण मार्गदर्शिका"
 "url": "/hi/net/image-conversion/emf-to-jpg-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion के साथ .NET में EMF to JPG रूपांतरण में महारत हासिल करना
 
 ## परिचय

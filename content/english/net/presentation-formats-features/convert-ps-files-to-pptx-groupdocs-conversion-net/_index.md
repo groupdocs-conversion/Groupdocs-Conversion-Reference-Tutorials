@@ -8,10 +8,8 @@ keywords:
 - convert PS to PPTX
 - GroupDocs.Conversion .NET
 - document conversion in .NET
-
+type: docs
 ---
-
-
 # Convert PostScript (PS) Files to PowerPoint (PPTX) Using GroupDocs.Conversion for .NET
 
 ## Introduction

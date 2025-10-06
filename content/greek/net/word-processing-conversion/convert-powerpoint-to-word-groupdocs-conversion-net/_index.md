@@ -4,8 +4,8 @@
 "title": "Μετατρέψτε αποτελεσματικά το PowerPoint σε Word με το GroupDocs.Conversion για .NET"
 "url": "/el/net/word-processing-conversion/convert-powerpoint-to-word-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατρέψτε αποτελεσματικά το PowerPoint σε Word με το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

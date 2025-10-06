@@ -4,8 +4,8 @@
 "title": "Как скрыть аннотации PDF перед конвертацией в Word с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/page-management-content-manipulation/hide-pdf-annotations-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Как скрыть аннотации PDF перед конвертацией в Word с помощью GroupDocs.Conversion для .NET
 
 ## Введение

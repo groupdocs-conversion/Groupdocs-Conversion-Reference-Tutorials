@@ -4,8 +4,8 @@
 "title": "كيفية تحويل ملفات السجل إلى عروض تقديمية في PowerPoint باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/presentation-formats-features/convert-log-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل ملفات السجل إلى عروض تقديمية في PowerPoint باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

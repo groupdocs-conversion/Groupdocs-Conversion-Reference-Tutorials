@@ -3,8 +3,8 @@
 "title": "Hướng dẫn về Định dạng và Tính năng Email cho GroupDocs.Conversion .NET"
 "url": "/vi/net/email-formats-features/"
 "weight": 14
+type: docs
 ---
-
 # Hướng dẫn về Định dạng và Tính năng Email cho GroupDocs.Conversion .NET
 
 Làm chủ quá trình xử lý tài liệu email với hướng dẫn toàn diện của GroupDocs.Conversion dành cho các nhà phát triển .NET. Những hướng dẫn thực tế này trình bày cách chuyển đổi tin nhắn email sang nhiều định dạng tài liệu khác nhau, trích xuất và chuyển đổi tệp đính kèm email sang nhiều định dạng khác nhau, thay đổi khả năng hiển thị trường trong quá trình chuyển đổi, áp dụng bản địa hóa cho các trường email, xử lý các chênh lệch múi giờ, triển khai cài đặt toàn cầu hóa, bảo toàn siêu dữ liệu email và xử lý tin nhắn có nội dung nhúng. Mỗi hướng dẫn đều cung cấp các ví dụ mã C# chi tiết cho các tình huống chuyển đổi email, giúp bạn xây dựng các ứng dụng có thể chuyển đổi hiệu quả các thông tin liên lạc qua email thành các định dạng tài liệu dễ truy cập hơn.

@@ -5,8 +5,8 @@
 "title": "FODP ओपनडॉक्यूमेंट प्रस्तुतियों को PDF में बदलें"
 "url": "/hi/net/convert-files-to-pdf/convert-fodp-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # FODP ओपनडॉक्यूमेंट प्रस्तुतियों को PDF में बदलें
 
 ## परिचय

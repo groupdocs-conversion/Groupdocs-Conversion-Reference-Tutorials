@@ -5,8 +5,8 @@
 "title": "Chuyển đổi OTS sang PDF"
 "url": "/vi/net/pdf-conversion/convert-ots-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # Chuyển đổi OTS sang PDF
 
 ## Giới thiệu

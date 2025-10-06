@@ -4,8 +4,8 @@
 "title": "XPS fájlok PSD fájlokká konvertálása .NET-ben a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/image-conversion/convert-xps-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # XPS fájlok PSD formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

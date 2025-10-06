@@ -5,8 +5,8 @@
 "title": "Převod MD do PDF"
 "url": "/cs/net/document-conversion/convert-md-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # Převod MD do PDF
 
 ## Zavedení

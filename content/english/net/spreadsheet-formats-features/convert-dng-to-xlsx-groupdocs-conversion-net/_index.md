@@ -8,10 +8,8 @@ keywords:
 - DNG to XLSX conversion
 - GroupDocs.Conversion for .NET
 - digital negative conversion
-
+type: docs
 ---
-
-
 # Convert DNG to XLSX Using GroupDocs.Conversion .NET: A Comprehensive Guide
 
 ## Introduction

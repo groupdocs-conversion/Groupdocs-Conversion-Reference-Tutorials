@@ -8,10 +8,8 @@ keywords:
 - TIFF to PDF conversion
 - GroupDocs.Conversion for .NET
 - .NET document conversion
-
+type: docs
 ---
-
-
 # Convert TIFF to PDF Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

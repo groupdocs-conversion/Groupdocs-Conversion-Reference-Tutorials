@@ -4,8 +4,8 @@
 "title": "DOCM を JPG に変換する - GroupDocs.Conversion for .NET を使用した究極ガイド"
 "url": "/ja/net/image-conversion/convert-docm-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DOCM を JPG に変換する: GroupDocs.Conversion for .NET を使用した究極ガイド
 
 ## 導入

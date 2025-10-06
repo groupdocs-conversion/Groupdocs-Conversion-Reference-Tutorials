@@ -5,8 +5,8 @@
 "title": "DOC Word Belgelerini PDF'ye Dönüştür"
 "url": "/tr/net/file-conversion-to-pdf/convert-doc-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # DOC Word Belgelerini PDF'ye Dönüştür
 
 ## giriiş

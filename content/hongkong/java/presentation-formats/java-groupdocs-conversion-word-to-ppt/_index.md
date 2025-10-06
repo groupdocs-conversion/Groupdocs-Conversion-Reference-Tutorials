@@ -4,8 +4,8 @@
 "title": "Java 教學&#58;使用 GroupDocs.Conversion for Java 將 Word 文件轉換為 PowerPoint"
 "url": "/zh-hant/java/presentation-formats/java-groupdocs-conversion-word-to-ppt/"
 "weight": 1
+type: docs
 ---
-
 # Java 教學：使用 GroupDocs.Conversion 將 Word 文件轉換為 PowerPoint
 
 ## 介紹

@@ -8,10 +8,8 @@ keywords:
 - convert JPC to HTML
 - GroupDocs.Conversion for .NET
 - C# file conversion
-
+type: docs
 ---
-
-
 # How to Convert JPC Files to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

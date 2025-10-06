@@ -5,8 +5,8 @@
 "title": "XLSX konvertálása PDF-be"
 "url": "/hu/net/converting-file-types-to-pdf/convert-xlsx-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # XLSX konvertálása PDF-be
 
 ## Bevezetés

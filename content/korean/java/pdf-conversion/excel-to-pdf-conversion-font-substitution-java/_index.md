@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion을 사용하여 글꼴 대체를 통해 Java에서 Excel을 PDF로 변환"
 "url": "/ko/java/pdf-conversion/excel-to-pdf-conversion-font-substitution-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용하여 글꼴 대체를 통해 Java에서 Excel을 PDF로 변환
 
 ## 소개

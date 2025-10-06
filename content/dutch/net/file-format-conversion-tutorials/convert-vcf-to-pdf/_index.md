@@ -5,8 +5,8 @@
 "title": "VCF naar PDF converteren"
 "url": "/nl/net/file-format-conversion-tutorials/convert-vcf-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # VCF naar PDF converteren
 
 ## Invoering

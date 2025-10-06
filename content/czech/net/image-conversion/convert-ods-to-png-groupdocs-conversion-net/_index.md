@@ -4,8 +4,8 @@
 "title": "Komplexní průvodce&#58; Převod ODS do PNG pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/image-conversion/convert-ods-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Komplexní průvodce: Převod ODS do PNG pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

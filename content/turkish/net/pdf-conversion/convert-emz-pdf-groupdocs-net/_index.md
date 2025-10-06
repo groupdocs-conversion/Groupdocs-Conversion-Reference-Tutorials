@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET kullanarak EMZ'yi PDF'ye dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/pdf-conversion/convert-emz-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # EMZ'yi GroupDocs.Conversion for .NET kullanarak PDF'ye dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

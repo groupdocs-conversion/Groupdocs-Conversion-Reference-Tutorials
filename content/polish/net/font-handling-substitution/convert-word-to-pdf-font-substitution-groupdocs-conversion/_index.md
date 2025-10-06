@@ -4,8 +4,8 @@
 "title": "Konwersja Worda do PDF z zamianą czcionek za pomocą GroupDocs.Conversion dla .NET"
 "url": "/pl/net/font-handling-substitution/convert-word-to-pdf-font-substitution-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja dokumentów Word do PDF z zamianą czcionek za pomocą GroupDocs.Conversion dla .NET
 ## Wstęp
 Konwersja dokumentów Word do PDF często prowadzi do niespójnych czcionek, co powoduje problemy z formatowaniem. Ten przewodnik upraszcza zapewnianie spójności czcionek za pomocą GroupDocs.Conversion dla .NET. Dowiedz się, jak skonfigurować opcje ładowania dla podmiany czcionek i płynnie konwertować dokumenty Word do formatu PDF, zachowując jednocześnie wierność wizualną.

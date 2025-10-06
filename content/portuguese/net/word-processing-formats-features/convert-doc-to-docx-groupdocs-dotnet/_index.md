@@ -4,8 +4,8 @@
 "title": "Como converter DOC para DOCX usando o GroupDocs.Conversion para .NET (guia passo a passo)"
 "url": "/pt/net/word-processing-formats-features/convert-doc-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Guia passo a passo: converter DOC para DOCX usando GroupDocs.Conversion para .NET
 
 ## Introdução

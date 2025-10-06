@@ -8,10 +8,8 @@ keywords:
 - convert OTS to JPG
 - GroupDocs.Conversion for .NET
 - OTS file conversion
-
+type: docs
 ---
-
-
 # How to Convert OTS Files to JPG Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion ile .NET için PPTX Dosyası Dönüşümünde Ustalaşın; Zahmetsiz ve Verimli Çözümler"
 "url": "/tr/net/presentation-formats-features/master-file-conversion-groupdocs-pptx/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET ile PPTX Dosyası Dönüşümünde Ustalaşın: Zahmetsiz ve Verimli Çözümler
 
 ## giriiş

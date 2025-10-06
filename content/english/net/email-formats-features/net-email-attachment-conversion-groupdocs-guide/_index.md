@@ -8,10 +8,8 @@ keywords:
 - .NET email attachment conversion
 - GroupDocs.Conversion library
 - .NET document management
-
+type: docs
 ---
-
-
 # Master .NET Email Attachment Conversion with GroupDocs.Conversion Library
 
 ## Introduction

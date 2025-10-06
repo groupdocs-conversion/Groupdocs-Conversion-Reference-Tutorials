@@ -5,8 +5,8 @@
 "title": "OTT konvertálása PDF-be"
 "url": "/hu/net/pdf-conversion/convert-ott-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # OTT konvertálása PDF-be
 
 ## Bevezetés

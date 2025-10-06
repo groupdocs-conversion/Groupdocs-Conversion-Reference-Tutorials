@@ -8,10 +8,8 @@ keywords:
 - Convert XPS to SVG
 - GroupDocs.Conversion for .NET
 - .NET image conversion
-
+type: docs
 ---
-
-
 # How to Convert XPS to SVG Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

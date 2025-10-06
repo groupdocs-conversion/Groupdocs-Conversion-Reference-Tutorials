@@ -5,8 +5,8 @@
 "title": "Konvertera JPG till PDF"
 "url": "/sv/net/document-conversion/convert-jpg-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # Konvertera JPG till PDF
 
 ## Introduktion

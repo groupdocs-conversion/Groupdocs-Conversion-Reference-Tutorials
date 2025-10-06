@@ -4,8 +4,8 @@
 "title": "VDW konvertálása PSD-vé a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/image-formats-features/convert-vdw-to-psd-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # VDW konvertálása PSD-vé a GroupDocs.Conversion for .NET használatával: Teljes körű útmutató
 
 ## Bevezetés

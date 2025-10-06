@@ -5,8 +5,8 @@
 "title": "การแปลงเอกสาร"
 "url": "/th/net/document-conversion/"
 "weight": 23
+type: docs
 ---
-
 # การแปลงเอกสาร
 
 ## การแนะนำ

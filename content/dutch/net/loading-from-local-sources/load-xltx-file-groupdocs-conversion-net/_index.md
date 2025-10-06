@@ -4,8 +4,8 @@
 "title": "Een XLTX-bestand laden met GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/loading-from-local-sources/load-xltx-file-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Een XLTX-bestand laden met GroupDocs.Conversion voor .NET: een uitgebreide handleiding
 
 ## Invoering

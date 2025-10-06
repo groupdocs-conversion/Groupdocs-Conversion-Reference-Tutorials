@@ -4,8 +4,8 @@
 "title": "Konvertera dokument från strömmar i Java med GroupDocs.Conversion"
 "url": "/sv/java/document-operations/convert-documents-streams-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera dokument från strömmar i Java med GroupDocs.Conversion
 
 ## Introduktion

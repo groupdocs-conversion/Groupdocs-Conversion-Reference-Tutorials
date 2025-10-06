@@ -5,8 +5,8 @@
 "title": "تحويل PPS إلى PDF"
 "url": "/ar/net/pdf-conversion/convert-pps-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # تحويل PPS إلى PDF
 
 ## مقدمة

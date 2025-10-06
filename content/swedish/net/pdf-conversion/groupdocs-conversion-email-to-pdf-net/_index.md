@@ -4,8 +4,8 @@
 "title": "Konvertera e-postmeddelanden till PDF med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/pdf-conversion/groupdocs-conversion-email-to-pdf-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera e-postmeddelanden till PDF med GroupDocs.Conversion för .NET: En steg-för-steg-guide
 
 ## Introduktion

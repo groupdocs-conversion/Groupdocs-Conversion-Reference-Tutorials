@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Learn how to convert DNG images to PDF effortlessly using GroupDocs.Conversion for .NET. Follow our step-by-step guide for seamless conversion.
 weight: 21
 url: /net/file-conversion-to-pdf/convert-dng-to-pdf/
+type: docs
 ---
-
 # Convert DNG Images to PDF
 
 ## Introduction

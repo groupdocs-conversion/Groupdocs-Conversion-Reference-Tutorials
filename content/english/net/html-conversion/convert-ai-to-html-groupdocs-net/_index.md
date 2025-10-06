@@ -8,10 +8,8 @@ keywords:
 - convert AI to HTML .NET
 - GroupDocs.Conversion for .NET
 - Adobe Illustrator file conversion
-
+type: docs
 ---
-
-
 # Convert AI Files to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

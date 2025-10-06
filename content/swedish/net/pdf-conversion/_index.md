@@ -5,8 +5,8 @@
 "title": "PDF-konvertering"
 "url": "/sv/net/pdf-conversion/"
 "weight": 25
+type: docs
 ---
-
 # PDF-konvertering
 
 ## Introduktion

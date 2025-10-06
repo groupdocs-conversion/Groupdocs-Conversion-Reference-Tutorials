@@ -4,8 +4,8 @@
 "title": "Verberg opmerkingen in PDF - Converteer PPT naar PDF met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/pdf-conversion-features/convert-presentation-pdf-hide-comments-net/"
 "weight": 1
+type: docs
 ---
-
 # Verberg opmerkingen in PDF: converteer PPT naar PDF met GroupDocs.Conversion voor .NET
 
 ## Invoering

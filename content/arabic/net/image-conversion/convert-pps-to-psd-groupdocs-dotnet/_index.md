@@ -4,8 +4,8 @@
 "title": "تحويل PPS إلى PSD في .NET باستخدام GroupDocs.Conversion - دليل شامل"
 "url": "/ar/net/image-conversion/convert-pps-to-psd-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # تحويل PPS إلى PSD باستخدام GroupDocs.Conversion لـ .NET: دليل شامل
 
 ## مقدمة

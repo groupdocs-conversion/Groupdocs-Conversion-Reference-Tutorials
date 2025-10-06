@@ -5,8 +5,8 @@
 "title": "Converteer J2K JPEG 2000-afbeeldingen naar PDF"
 "url": "/nl/net/convert-files-to-pdf/convert-j2k-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # Converteer J2K JPEG 2000-afbeeldingen naar PDF
 
 ## Invoering

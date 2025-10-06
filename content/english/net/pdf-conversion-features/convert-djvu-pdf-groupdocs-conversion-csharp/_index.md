@@ -8,9 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
 # Convert DJVU to PDF with GroupDocs.Conversion in C#: A Comprehensive Tutorial
 
 ## Introduction

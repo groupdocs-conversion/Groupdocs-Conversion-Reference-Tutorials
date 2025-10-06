@@ -8,10 +8,8 @@ keywords:
 - convert OneNote to SVG
 - GroupDocs.Conversion for .NET
 - document conversion in C#
-
+type: docs
 ---
-
-
 # Comprehensive Guide: Convert OneNote to SVG Using GroupDocs.Conversion for .NET
 
 ## Introduction

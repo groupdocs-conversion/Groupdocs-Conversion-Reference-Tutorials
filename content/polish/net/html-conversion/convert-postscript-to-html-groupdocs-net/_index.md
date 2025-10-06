@@ -4,8 +4,8 @@
 "title": "Konwertuj PostScript na HTML za pomocą GroupDocs.Conversion for .NET&#58; Kompleksowy przewodnik"
 "url": "/pl/net/html-conversion/convert-postscript-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja PostScript do HTML za pomocą GroupDocs.Conversion dla .NET
 ## Wstęp
 Masz problemy z konwersją plików PostScript (PS) do bardziej dostępnych formatów, takich jak HTML? Konwersja tych dokumentów może usprawnić przepływy pracy, zwiększyć dostępność i zapewnić zgodność na różnych platformach. Ten samouczek przeprowadzi Cię przez korzystanie z **GroupDocs.Konwersja** w .NET, aby bez wysiłku przekształcić pliki PS do formatu HTML.

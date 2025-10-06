@@ -4,8 +4,8 @@
 "title": "تحويل LaTeX إلى DOCX باستخدام GroupDocs.Conversion .NET - دليل شامل"
 "url": "/ar/net/word-processing-formats-features/convert-latex-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل LaTeX إلى DOCX باستخدام GroupDocs.Conversion .NET: دليل شامل
 
 ## مقدمة

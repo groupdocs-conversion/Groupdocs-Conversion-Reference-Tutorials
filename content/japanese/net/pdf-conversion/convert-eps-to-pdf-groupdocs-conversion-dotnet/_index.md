@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NETでEPSをPDFに簡単に変換する方法 ― 総合ガイド"
 "url": "/ja/net/pdf-conversion/convert-eps-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET で EPS を PDF に簡単に変換する方法: 総合ガイド
 
 ## 導入

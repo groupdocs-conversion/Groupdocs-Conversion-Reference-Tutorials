@@ -5,8 +5,8 @@
 "title": "Konversi Template Word DOTX ke PDF"
 "url": "/id/net/file-conversion-to-pdf/convert-dotx-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # Konversi Template Word DOTX ke PDF
 
 ## Perkenalan

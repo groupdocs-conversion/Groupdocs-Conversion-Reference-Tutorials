@@ -8,10 +8,8 @@ keywords:
 - Convert OTG to TXT
 - GroupDocs Conversion for .NET
 - OpenDocument Graphic Template
-
+type: docs
 ---
-
-
 # Convert OTG Files to TXT with GroupDocs.Conversion for .NET
 
 ## Introduction

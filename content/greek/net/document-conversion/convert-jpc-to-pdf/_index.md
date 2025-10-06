@@ -5,8 +5,8 @@
 "title": "Μετατροπή JPC σε PDF"
 "url": "/el/net/document-conversion/convert-jpc-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Μετατροπή JPC σε PDF
 
 ## Εισαγωγή

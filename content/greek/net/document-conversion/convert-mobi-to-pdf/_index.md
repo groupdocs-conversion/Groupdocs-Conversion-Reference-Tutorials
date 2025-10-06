@@ -5,8 +5,8 @@
 "title": "Μετατροπή MOBI σε PDF"
 "url": "/el/net/document-conversion/convert-mobi-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Μετατροπή MOBI σε PDF
 
 ## Εισαγωγή

@@ -4,8 +4,8 @@
 "title": "Мастер преобразования PSD в PPTX с помощью GroupDocs.Conversion для .NET. Пошаговое руководство"
 "url": "/ru/net/presentation-conversion/groupdocs-conversion-net-psd-pptx-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Освоение преобразования .NET PSD в PPTX с помощью GroupDocs.Conversion
 
 ## Введение

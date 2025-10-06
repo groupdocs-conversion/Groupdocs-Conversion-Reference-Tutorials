@@ -4,8 +4,8 @@
 "title": "Efektywne zarządzanie ścieżką dokumentu w .NET z GroupDocs.Conversion&#58; Definiowanie stałych dla bezproblemowej konwersji"
 "url": "/pl/net/conversion-options-settings/groupdocs-net-define-document-paths/"
 "weight": 1
+type: docs
 ---
-
 # Efektywne zarządzanie ścieżką dokumentów w .NET z GroupDocs.Conversion
 
 ## Wstęp

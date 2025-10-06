@@ -4,8 +4,8 @@
 "title": "Μετατροπή Master .NET DOCX σε PDF χρησιμοποιώντας το GroupDocs.Conversion&#58; Ένας πλήρης οδηγός"
 "url": "/el/net/pdf-conversion-features/converting-docx-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Mastering Μετατροπή .NET DOCX σε PDF χρησιμοποιώντας το GroupDocs.Conversion
 
 ## Εισαγωγή

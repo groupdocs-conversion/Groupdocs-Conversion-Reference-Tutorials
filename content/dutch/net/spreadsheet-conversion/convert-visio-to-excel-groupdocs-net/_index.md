@@ -4,8 +4,8 @@
 "title": "Visio naar Excel converteren met GroupDocs.Conversion.NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/spreadsheet-conversion/convert-visio-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Visio naar Excel converteren met GroupDocs.Conversion .NET: een stapsgewijze handleiding
 
 ## Invoering

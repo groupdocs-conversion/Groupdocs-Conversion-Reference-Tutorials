@@ -4,8 +4,8 @@
 "title": "Guida completa&#58; Convertire PowerPoint in LaTeX utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/presentation-conversion/convert-powerpoint-template-to-latex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Guida completa: convertire PowerPoint in LaTeX utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

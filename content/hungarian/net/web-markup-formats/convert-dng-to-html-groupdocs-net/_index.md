@@ -4,8 +4,8 @@
 "title": "DNG hatékony HTML-lé konvertálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/web-markup-formats/convert-dng-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DNG hatékony HTML-lé konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

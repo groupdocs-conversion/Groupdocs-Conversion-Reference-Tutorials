@@ -4,8 +4,8 @@
 "title": "Bemästra konvertering av e-postbilagor i .NET med GroupDocs.Conversion Library – en omfattande guide"
 "url": "/sv/net/email-formats-features/net-email-attachment-conversion-groupdocs-guide/"
 "weight": 1
+type: docs
 ---
-
 # Bemästra konvertering av e-postbilagor i .NET med GroupDocs.Conversion-biblioteket
 
 ## Introduktion

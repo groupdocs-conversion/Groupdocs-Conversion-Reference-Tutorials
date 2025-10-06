@@ -5,8 +5,8 @@
 "title": "XLTX को PDF में बदलें"
 "url": "/hi/net/converting-file-types-to-pdf/convert-xltx-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # XLTX को PDF में बदलें
 
 ## परिचय

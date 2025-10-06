@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して MPP ファイルを PNG に変換する手順"
 "url": "/ja/net/image-conversion/convert-mpp-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して MPP ファイルを PNG に変換する: ステップバイステップ ガイド
 
 ## 導入

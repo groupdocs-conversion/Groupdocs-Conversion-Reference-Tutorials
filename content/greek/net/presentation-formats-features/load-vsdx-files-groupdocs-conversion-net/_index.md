@@ -4,8 +4,8 @@
 "title": "Πώς να φορτώσετε και να μετατρέψετε αρχεία VSDX χρησιμοποιώντας το GroupDocs.Conversion .NET"
 "url": "/el/net/presentation-formats-features/load-vsdx-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να φορτώσετε και να μετατρέψετε αρχεία VSDX χρησιμοποιώντας το GroupDocs.Conversion .NET
 
 ## Εισαγωγή

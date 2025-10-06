@@ -4,8 +4,8 @@
 "title": "Jak przekonwertować EPS na JPG za pomocą GroupDocs.Conversion dla .NET"
 "url": "/pl/net/image-conversion/eps-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak przekonwertować EPS na JPG za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

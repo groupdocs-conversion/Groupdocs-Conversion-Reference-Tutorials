@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NETでOTSをPPTXに簡単に変換する方法 包括的なガイド"
 "url": "/ja/net/presentation-conversion/convert-ots-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NETでOTSをPPTXに簡単に変換する方法：総合ガイド
 
 ## 導入

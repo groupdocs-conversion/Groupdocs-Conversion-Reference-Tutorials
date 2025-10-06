@@ -5,8 +5,8 @@
 "title": "将MD转换为PDF"
 "url": "/zh/net/document-conversion/convert-md-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # 将MD转换为PDF
 
 ## 介绍

@@ -4,8 +4,8 @@
 "title": "Opanuj konwersję .NET DOCX do PDF za pomocą GroupDocs.Conversion? Kompleksowy przewodnik"
 "url": "/pl/net/pdf-conversion-features/converting-docx-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Opanowanie konwersji .NET DOCX do PDF przy użyciu GroupDocs.Conversion
 
 ## Wstęp

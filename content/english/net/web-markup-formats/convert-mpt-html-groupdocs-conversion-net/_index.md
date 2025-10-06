@@ -8,10 +8,8 @@ keywords:
 - convert MPT to HTML
 - GroupDocs.Conversion for .NET
 - MPT file conversion
-
+type: docs
 ---
-
-
 # Convert MPT to HTML Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

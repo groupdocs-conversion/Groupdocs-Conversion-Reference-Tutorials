@@ -5,8 +5,8 @@
 "title": "ICO Simgelerini PDF'ye Dönüştür"
 "url": "/tr/net/convert-files-to-pdf/convert-ico-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # ICO Simgelerini PDF'ye Dönüştür
 
 ## giriiş

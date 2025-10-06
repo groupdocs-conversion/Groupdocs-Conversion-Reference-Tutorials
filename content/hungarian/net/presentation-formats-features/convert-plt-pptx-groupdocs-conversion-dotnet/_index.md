@@ -4,8 +4,8 @@
 "title": "PLT fájlok PPTX formátumba konvertálása a .NET-hez készült GroupDocs.Conversion segítségével"
 "url": "/hu/net/presentation-formats-features/convert-plt-pptx-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # PLT fájlok PPTX formátumba konvertálása a .NET-hez készült GroupDocs.Conversion segítségével
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Átfogó útmutató az XLT PNG-vé konvertálásához a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/image-conversion/xlt-to-png-conversion-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató az XLT PNG-vé konvertálásához a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

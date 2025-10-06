@@ -5,8 +5,8 @@
 "title": "將PPTM轉換為PDF"
 "url": "/zh-hant/net/pdf-conversion/convert-pptm-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # 將PPTM轉換為PDF
 
 ## 介紹

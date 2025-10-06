@@ -4,8 +4,8 @@
 "title": "Hur man konverterar VST till XLS med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/spreadsheet-formats-features/convert-vst-to-xls-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar VST till XLS med GroupDocs.Conversion för .NET: En steg-för-steg-guide
 
 ## Introduktion

@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie OST-Dateien mit GroupDocs.Conversion für .NET in PPT – Eine Schritt-für-Schritt-Anleitung"
 "url": "/de/net/presentation-formats-features/convert-ost-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie OST-Dateien mit GroupDocs.Conversion für .NET in PPT
 
 ## Einführung

@@ -8,10 +8,8 @@ keywords:
 - convert ODS to HTML
 - GroupDocs.Conversion for .NET
 - ODS to HTML conversion
-
+type: docs
 ---
-
-
 # How to Convert ODS Files to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

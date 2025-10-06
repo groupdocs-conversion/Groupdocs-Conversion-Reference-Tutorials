@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak Origin Graph OTP'yi Excel'e Dönüştürme"
 "url": "/tr/net/spreadsheet-formats-features/convert-otp-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Origin Graph OTP'yi GroupDocs.Conversion for .NET ile Excel'e dönüştürün
 
 ## giriiş

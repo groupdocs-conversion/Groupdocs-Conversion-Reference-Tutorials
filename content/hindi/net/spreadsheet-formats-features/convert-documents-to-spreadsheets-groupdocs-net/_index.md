@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके कुशल दस्तावेज़-टू-स्प्रेडशीट रूपांतरण"
 "url": "/hi/net/spreadsheet-formats-features/convert-documents-to-spreadsheets-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके कुशल दस्तावेज़-टू-स्प्रेडशीट रूपांतरण
 
 ## परिचय

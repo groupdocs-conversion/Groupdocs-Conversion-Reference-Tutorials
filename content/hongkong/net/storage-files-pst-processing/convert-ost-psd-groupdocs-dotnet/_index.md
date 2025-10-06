@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 將 OST 檔案轉換為 PSD 格式"
 "url": "/zh-hant/net/storage-files-pst-processing/convert-ost-psd-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將 OST 檔案轉換為 PSD 格式
 
 ## 介紹

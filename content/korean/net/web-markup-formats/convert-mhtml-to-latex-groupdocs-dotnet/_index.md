@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 MHTML을 LaTeX(TEX)로 효율적으로 변환"
 "url": "/ko/net/web-markup-formats/convert-mhtml-to-latex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 MHTML을 LaTeX(TEX)로 효율적으로 변환
 
 ## 소개

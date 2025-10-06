@@ -4,8 +4,8 @@
 "title": "Jak przekonwertować PostScript (PS) na zwykły tekst za pomocą GroupDocs.Conversion dla .NET"
 "url": "/pl/net/text-markup-conversion/convert-ps-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak przekonwertować PostScript (PS) na zwykły tekst za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

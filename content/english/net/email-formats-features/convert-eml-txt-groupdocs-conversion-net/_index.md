@@ -8,10 +8,8 @@ keywords:
 - convert EML to TXT
 - GroupDocs.Conversion for .NET
 - EML file conversion
-
+type: docs
 ---
-
-
 # How to Convert EML Files to TXT Using GroupDocs.Conversion for .NET
 
 ## Introduction

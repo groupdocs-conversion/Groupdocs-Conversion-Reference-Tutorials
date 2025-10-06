@@ -5,8 +5,8 @@
 "title": "Konversi Pesan Email EML ke PDF"
 "url": "/id/net/convert-files-to-pdf/convert-eml-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # Konversi Pesan Email EML ke PDF
 
 ## Perkenalan

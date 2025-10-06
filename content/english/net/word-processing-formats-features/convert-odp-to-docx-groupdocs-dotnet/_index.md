@@ -8,10 +8,8 @@ keywords:
 - convert ODP to DOCX
 - GroupDocs.Conversion for .NET
 - ODP file conversion
-
+type: docs
 ---
-
-
 # Convert ODP Files to DOCX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

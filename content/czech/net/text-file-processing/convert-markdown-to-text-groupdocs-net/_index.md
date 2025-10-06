@@ -4,8 +4,8 @@
 "title": "Jak převést Markdown na text pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/text-file-processing/convert-markdown-to-text-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést Markdown na text pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

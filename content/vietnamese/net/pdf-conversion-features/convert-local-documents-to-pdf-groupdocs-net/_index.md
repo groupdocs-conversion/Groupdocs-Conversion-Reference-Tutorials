@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tài liệu cục bộ sang PDF với GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/pdf-conversion-features/convert-local-documents-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tài liệu cục bộ sang PDF bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

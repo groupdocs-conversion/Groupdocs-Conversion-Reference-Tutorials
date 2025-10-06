@@ -5,8 +5,8 @@
 "title": "Convertire i fogli di calcolo OpenDocument FODS in PDF"
 "url": "/it/net/convert-files-to-pdf/convert-fods-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Convertire i fogli di calcolo OpenDocument FODS in PDF
 
 ## Introduzione

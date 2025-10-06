@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Efficiently Convert JPEG to XLS Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

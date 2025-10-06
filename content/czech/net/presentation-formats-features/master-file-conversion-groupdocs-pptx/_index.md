@@ -4,8 +4,8 @@
 "title": "Zvládněte konverzi souborů PPTX s GroupDocs.Conversion pro .NET – snadná a efektivní řešení"
 "url": "/cs/net/presentation-formats-features/master-file-conversion-groupdocs-pptx/"
 "weight": 1
+type: docs
 ---
-
 # Zvládněte konverzi souborů PPTX s GroupDocs.Conversion pro .NET: Snadná a efektivní řešení
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "逐步指南&#58;使用 GroupDocs.Conversion .NET 將 JPC 轉換為 SVG，實現無縫影像轉換"
 "url": "/zh-hant/net/image-conversion/convert-jpc-svg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 逐步指南：使用 GroupDocs.Conversion .NET 將 JPC 轉換為 SVG，實現無縫影像轉換
 
 ## 介紹

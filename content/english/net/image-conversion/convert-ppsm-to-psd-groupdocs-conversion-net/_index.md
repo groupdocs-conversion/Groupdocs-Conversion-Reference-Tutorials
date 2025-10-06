@@ -8,10 +8,8 @@ keywords:
 - convert PPSM to PSD
 - GroupDocs.Conversion for .NET
 - file conversion tutorial
-
+type: docs
 ---
-
-
 # How to Convert PPSM to PSD Using GroupDocs.Conversion for .NET
 
 ## Introduction

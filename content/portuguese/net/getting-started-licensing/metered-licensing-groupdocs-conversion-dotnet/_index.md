@@ -4,8 +4,8 @@
 "title": "Implemente o licenciamento medido com o GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/getting-started-licensing/metered-licensing-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Implementando o licenciamento medido com GroupDocs.Conversion para .NET
 
 ## Introdução

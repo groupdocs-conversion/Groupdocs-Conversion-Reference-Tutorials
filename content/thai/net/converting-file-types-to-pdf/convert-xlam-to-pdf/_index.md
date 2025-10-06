@@ -5,8 +5,8 @@
 "title": "แปลง XLAM เป็น PDF"
 "url": "/th/net/converting-file-types-to-pdf/convert-xlam-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # แปลง XLAM เป็น PDF
 
 ## การแนะนำ

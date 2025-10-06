@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将 TEX 转换为 TXT 的完整指南"
 "url": "/zh/net/text-file-processing/convert-tex-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将 TEX 文件转换为 TXT
 
 ## 介绍

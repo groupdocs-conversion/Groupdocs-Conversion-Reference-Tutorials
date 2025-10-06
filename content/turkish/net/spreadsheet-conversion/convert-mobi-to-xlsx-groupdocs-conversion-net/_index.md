@@ -4,8 +4,8 @@
 "title": "MOBI'yi .NET için GroupDocs.Conversion Kullanarak XLSX'e Dönüştürme - Kapsamlı Bir Kılavuz"
 "url": "/tr/net/spreadsheet-conversion/convert-mobi-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MOBI Dosyalarını .NET için GroupDocs.Conversion Kullanarak XLSX'e Dönüştürme
 
 ## giriiş

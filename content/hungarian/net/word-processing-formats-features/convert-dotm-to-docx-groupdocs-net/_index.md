@@ -4,8 +4,8 @@
 "title": "DOTM-DOCX konvertálás elsajátítása a GroupDocs for .NET segítségével"
 "url": "/hu/net/word-processing-formats-features/convert-dotm-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DOTM-DOCX konvertálás elsajátítása a GroupDocs for .NET segítségével
 
 ## Bevezetés

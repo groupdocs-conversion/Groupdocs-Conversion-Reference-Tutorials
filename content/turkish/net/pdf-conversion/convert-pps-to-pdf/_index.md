@@ -5,8 +5,8 @@
 "title": "PPS'yi PDF'ye dönüştür"
 "url": "/tr/net/pdf-conversion/convert-pps-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # PPS'yi PDF'ye dönüştür
 
 ## giriiş

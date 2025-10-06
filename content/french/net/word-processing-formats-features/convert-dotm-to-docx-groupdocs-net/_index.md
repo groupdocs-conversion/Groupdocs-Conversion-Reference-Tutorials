@@ -4,8 +4,8 @@
 "title": "Maîtriser la conversion DOTM en DOCX avec GroupDocs pour .NET"
 "url": "/fr/net/word-processing-formats-features/convert-dotm-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Maîtriser la conversion DOTM en DOCX avec GroupDocs pour .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Chuyển đổi bảng tính sang PDF một cách liền mạch bằng GroupDocs.Conversion trong .NET"
 "url": "/vi/net/pdf-conversion/convert-spreadsheets-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi bảng tính sang PDF một cách liền mạch bằng GroupDocs.Conversion trong .NET
 
 ## Giới thiệu

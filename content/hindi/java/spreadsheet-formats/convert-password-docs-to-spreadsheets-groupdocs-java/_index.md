@@ -4,8 +4,8 @@
 "title": "Java के लिए GroupDocs.Conversion का उपयोग करके पासवर्ड-संरक्षित Word दस्तावेज़ों को Excel स्प्रेडशीट में कैसे परिवर्तित करें"
 "url": "/hi/java/spreadsheet-formats/convert-password-docs-to-spreadsheets-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Java के लिए GroupDocs.Conversion का उपयोग करके पासवर्ड-संरक्षित दस्तावेज़ों को कैसे परिवर्तित करें
 
 ## परिचय

@@ -3,8 +3,8 @@
 "title": "Výukové programy pro kompresi a práci s archivy pro GroupDocs.Conversion .NET"
 "url": "/cs/net/compression-archive-handling/"
 "weight": 20
+type: docs
 ---
-
 # Výukové programy pro kompresi a práci s archivy pro GroupDocs.Conversion .NET
 
 Objevte, jak zpracovávat archivní formáty, v našich tutoriálech GroupDocs.Conversion pro vývojáře .NET. Tyto podrobné návody vás naučí, jak převádět z komprimovaných formátů, jako je RAR, do jiných typů dokumentů, extrahovat obsah z archivů, komprimovat výsledky převodu, určit soubory k extrakci z archivů, pracovat s archivy chráněnými heslem, spravovat vícesvazkové archivy a implementovat selektivní extrakci souborů. Každý tutoriál poskytuje praktické příklady kódu C# pro práci s komprimovanými soubory a pomáhá vám vytvářet aplikace, které dokáží efektivně přistupovat k obsahu uloženému v různých archivních formátech a transformovat ho.

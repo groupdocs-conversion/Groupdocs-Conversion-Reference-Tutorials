@@ -3,8 +3,8 @@
 "title": "Tutoriels sur la conversion et les fonctionnalités PDF pour GroupDocs.Conversion .NET"
 "url": "/fr/net/pdf-conversion-features/"
 "weight": 9
+type: docs
 ---
-
 # Tutoriels sur la conversion et les fonctionnalités PDF pour GroupDocs.Conversion .NET
 
 Nos tutoriels axés sur le format PDF fournissent des conseils complets pour travailler avec des documents PDF dans des applications .NET. Ces guides pratiques expliquent comment convertir différents formats au format PDF, convertir des PDF vers d'autres formats, aplatir des champs de formulaire, masquer des annotations, supprimer des fichiers incorporés, optimiser les paramètres de compression PDF, contrôler la conformité PDF/A, gérer les autorisations des documents et préserver les hyperliens pendant la conversion. Chaque tutoriel inclut des exemples complets de code C# pour des scénarios de conversion PDF, vous aidant à créer des applications exploitant toutes les fonctionnalités du format PDF tout en préservant la fidélité des documents.

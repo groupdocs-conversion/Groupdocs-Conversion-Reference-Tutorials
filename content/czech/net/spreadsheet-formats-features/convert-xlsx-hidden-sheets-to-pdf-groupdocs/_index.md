@@ -4,8 +4,8 @@
 "title": "Jak převést soubory XLSX se skrytými listy do PDF pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/spreadsheet-formats-features/convert-xlsx-hidden-sheets-to-pdf-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory XLSX se skrytými listy do PDF pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

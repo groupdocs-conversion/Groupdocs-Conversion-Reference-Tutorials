@@ -5,8 +5,8 @@
 "title": "แปลง TIF เป็น PDF"
 "url": "/th/net/file-format-conversion-tutorials/convert-tif-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # แปลง TIF เป็น PDF
 
 ## การแนะนำ

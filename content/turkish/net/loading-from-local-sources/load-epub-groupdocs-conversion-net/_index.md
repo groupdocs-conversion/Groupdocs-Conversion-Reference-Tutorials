@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak EPUB Dosyaları Nasıl Yüklenir&#58; Adım Adım Kılavuz"
 "url": "/tr/net/loading-from-local-sources/load-epub-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak EPUB Dosyası Nasıl Yüklenir: Kapsamlı Bir Kılavuz
 
 ## giriiş

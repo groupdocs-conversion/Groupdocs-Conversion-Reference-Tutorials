@@ -4,8 +4,8 @@
 "title": "Chuyển đổi GIF sang DOCX với GroupDocs.Conversion cho .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/word-processing-conversion/convert-gif-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi GIF sang DOCX với GroupDocs.Conversion cho .NET: Hướng dẫn từng bước
 ## Giới thiệu
 Bạn cần chuyển đổi GIF động nhiều màu thành tài liệu tĩnh như DOCX? Cho dù bạn đang chuẩn bị tài liệu thuyết trình hay lưu trữ nội dung kỹ thuật số, việc chuyển đổi tệp liền mạch là rất quan trọng. Hướng dẫn này khám phá cách sử dụng **GroupDocs.Conversion cho .NET** để chuyển đổi tệp GIF sang định dạng DOCX một cách hiệu quả.

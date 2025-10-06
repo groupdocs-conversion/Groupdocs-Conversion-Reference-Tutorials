@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 將 XPS 檔案轉換為 HTML 完整指南"
 "url": "/zh-hant/net/web-markup-formats/convert-xps-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將 XPS 檔案轉換為 HTML：完整指南
 
 ## 介紹

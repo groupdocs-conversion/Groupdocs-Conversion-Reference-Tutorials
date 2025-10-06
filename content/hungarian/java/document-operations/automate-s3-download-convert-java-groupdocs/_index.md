@@ -4,8 +4,8 @@
 "title": "S3 dokumentumok letöltésének és konvertálásának automatizálása Java nyelven a GroupDocs.Conversion használatával"
 "url": "/hu/java/document-operations/automate-s3-download-convert-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # S3 dokumentum letöltésének és konvertálásának automatizálása Java-ban
 
 ## Hogyan töltsünk le és konvertáljunk dokumentumokat az Amazon S3-ból a GroupDocs.Conversion használatával Java-ban

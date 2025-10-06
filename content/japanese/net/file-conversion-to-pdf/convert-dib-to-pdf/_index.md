@@ -5,8 +5,8 @@
 "title": "DIB画像をPDFに変換する"
 "url": "/ja/net/file-conversion-to-pdf/convert-dib-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # DIB画像をPDFに変換する
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "WMF DOCX formátumba konvertálása a GroupDocs.Conversion for .NET segítségével – Teljes körű útmutató"
 "url": "/hu/net/word-processing-conversion/convert-wmf-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # WMF DOCX formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Hatékony VCF-TEX konvertálás a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/conversion-utilities-information/vcf-to-tex-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony VCF-TEX konvertálás a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

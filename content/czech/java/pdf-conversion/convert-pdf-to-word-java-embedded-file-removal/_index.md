@@ -4,8 +4,8 @@
 "title": "Převod PDF do Wordu v Javě s odstraňováním vložených souborů – podrobný návod s použitím GroupDocs.Conversion"
 "url": "/cs/java/pdf-conversion/convert-pdf-to-word-java-embedded-file-removal/"
 "weight": 1
+type: docs
 ---
-
 # Převod PDF do Wordu v Javě s integrovaným odstraňováním souborů: Podrobný návod k použití GroupDocs.Conversion
 
 ## Zavedení

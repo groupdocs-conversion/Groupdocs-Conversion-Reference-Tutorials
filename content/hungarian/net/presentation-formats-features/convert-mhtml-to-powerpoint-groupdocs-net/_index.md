@@ -4,8 +4,8 @@
 "title": "MHTML konvertálása PowerPointtá a GroupDocs.Conversion for .NET segítségével – lépésről lépésre útmutató"
 "url": "/hu/net/presentation-formats-features/convert-mhtml-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # MHTML konvertálása PowerPointtá GroupDocs használatával .NET-ben
 
 ## Bevezetés

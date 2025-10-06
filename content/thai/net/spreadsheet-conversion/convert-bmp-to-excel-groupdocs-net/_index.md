@@ -4,8 +4,8 @@
 "title": "แปลง BMP เป็น Excel โดยใช้ GroupDocs.Conversion .NET สำหรับการแปลงสเปรดชีต"
 "url": "/th/net/spreadsheet-conversion/convert-bmp-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการแปลงไฟล์ BMP เป็น Excel โดยใช้ GroupDocs.Conversion .NET
 
 ## การแนะนำ

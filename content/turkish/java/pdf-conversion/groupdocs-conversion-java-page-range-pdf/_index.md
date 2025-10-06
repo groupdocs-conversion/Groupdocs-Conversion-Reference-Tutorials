@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Java API'sini Kullanarak Belirli Sayfa Aralığını PDF'ye Dönüştürme"
 "url": "/tr/java/pdf-conversion/groupdocs-conversion-java-page-range-pdf/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Java API'sini Kullanarak Belirli Sayfa Aralığını PDF'ye Dönüştürme
 
 Günümüzün dijital çağında, belgeleri etkin bir şekilde yönetmek hem işletmeler hem de bireyler için hayati önem taşır. Bir raporun belirli bölümlerini PDF gibi taşınabilir bir biçime dönüştürmek zamandan ve kaynaklardan tasarruf sağlayabilir. Bu eğitim, size şu konularda rehberlik edecektir: **GroupDocs.Dönüşüm Java** herhangi bir belgeden belirli bir sayfa aralığını PDF dosyasına dönüştürmek için. Sonunda, bu güçlü özelliği projelerinizde uygulamak için gereken tüm becerilere sahip olacaksınız.

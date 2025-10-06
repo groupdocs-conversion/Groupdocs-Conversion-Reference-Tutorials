@@ -8,10 +8,8 @@ keywords:
 - convert SVGZ to PPT
 - GroupDocs.Conversion for .NET
 - file conversion in .NET
-
+type: docs
 ---
-
-
 # How to Convert SVGZ Files to PowerPoint Using GroupDocs.Conversion for .NET
 
 ## Introduction

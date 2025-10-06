@@ -5,8 +5,8 @@
 "title": "POTX को PDF में बदलें"
 "url": "/hi/net/pdf-conversion/convert-potx-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # POTX को PDF में बदलें
 
 ## परिचय

@@ -6,8 +6,8 @@ description: "Learn how to convert PDF, Word, Excel, PowerPoint and 50+ formats 
 weight: 11
 url: /
 is_root: true
+type: docs
 ---
-
 # Transform Any Document Format with GroupDocs.Conversion
 
 Welcome to your complete resource for document conversion mastery! Our comprehensive tutorials equip developers with everything needed to implement powerful document transformation capabilities in .NET and Java applications. Whether you're converting business-critical PDFs, manipulating Office documents, or processing specialized formats, GroupDocs.Conversion provides the tools to streamline your workflow.

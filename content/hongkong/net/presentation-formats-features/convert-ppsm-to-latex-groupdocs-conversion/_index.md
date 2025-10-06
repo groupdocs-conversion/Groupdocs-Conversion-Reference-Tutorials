@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 PPSM 轉換為 LaTeX — 逐步指南"
 "url": "/zh-hant/net/presentation-formats-features/convert-ppsm-to-latex-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 PPSM 轉換為 LaTeX：逐步指南
 
 ## 介紹

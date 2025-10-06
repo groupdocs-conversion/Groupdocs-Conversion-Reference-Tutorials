@@ -8,10 +8,8 @@ keywords:
 - convert PDF to Word in Java
 - remove embedded files from PDFs
 - GroupDocs.Conversion for Java
-
+type: docs
 ---
-
-
 # Convert PDF to Word in Java with Embedded File Removal: A Step-by-Step Guide Using GroupDocs.Conversion
 
 ## Introduction

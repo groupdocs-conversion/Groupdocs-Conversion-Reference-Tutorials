@@ -4,8 +4,8 @@
 "title": "Efektivní převod DJVU do LaTeXu (TEX) pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/image-conversion/djvu-to-tex-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod DJVU do LaTeXu (TEX) pomocí GroupDocs.Conversion pro .NET
 ## Zavedení
 Ruční převod souborů DJVU do formátu LaTeX (TEX) může být náročný úkol. Tento tutoriál zjednodušuje proces pomocí GroupDocs.Conversion pro .NET a umožňuje vám tento převod efektivně a přesně automatizovat. Provedeme vás nastavením vašeho prostředí, implementací funkce převodu a jejím použitím v reálných situacích.

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion&#58; का उपयोग करके .NET में फ़ाइल रूपांतरण में महारत हासिल करना एक डेवलपर की मार्गदर्शिका"
 "url": "/hi/net/conversion-utilities-information/mastering-file-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion के साथ .NET में फ़ाइल रूपांतरण में महारत हासिल करना: आपका अंतिम डेवलपर गाइड
 
 ## परिचय

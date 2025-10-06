@@ -4,8 +4,8 @@
 "title": "ODG'yi GroupDocs.Conversion for .NET ile PDF'ye Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/pdf-conversion/convert-odg-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # ODG'yi GroupDocs.Conversion for .NET ile PDF'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

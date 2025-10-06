@@ -8,10 +8,8 @@ keywords:
 - LaTeX to HTML conversion
 - GroupDocs.Conversion for .NET
 - automate document conversion
-
+type: docs
 ---
-
-
 # Convert LaTeX to HTML with GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie DOTX in CSV mithilfe der Schritt-für-Schritt-Anleitung von GroupDocs.Conversion für .NET."
 "url": "/de/net/spreadsheet-formats-features/convert-dotx-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie DOTX in CSV mit GroupDocs.Conversion für .NET: Ein umfassender Leitfaden
 
 ## Einführung

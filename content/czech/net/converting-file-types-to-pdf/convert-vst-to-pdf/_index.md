@@ -5,8 +5,8 @@
 "title": "Převod VST do PDF"
 "url": "/cs/net/converting-file-types-to-pdf/convert-vst-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # Převod VST do PDF
 
 ## Zavedení

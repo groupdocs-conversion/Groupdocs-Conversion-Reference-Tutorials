@@ -4,8 +4,8 @@
 "title": "PLT hatékony konvertálása PSD-vé a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/cad-technical-drawing-formats/convert-plt-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PLT fájlok hatékony konvertálása PSD-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

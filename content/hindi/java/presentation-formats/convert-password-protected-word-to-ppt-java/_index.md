@@ -4,8 +4,8 @@
 "title": "Java और GroupDocs.Conversion का उपयोग करके पासवर्ड-संरक्षित Word दस्तावेज़ों को कुशलतापूर्वक PPT में परिवर्तित करें"
 "url": "/hi/java/presentation-formats/convert-password-protected-word-to-ppt-java/"
 "weight": 1
+type: docs
 ---
-
 # जावा और ग्रुपडॉक्स.कन्वर्ज़न का उपयोग करके पासवर्ड-संरक्षित वर्ड दस्तावेज़ों को कुशलतापूर्वक PPT में कैसे परिवर्तित करें
 
 ## परिचय

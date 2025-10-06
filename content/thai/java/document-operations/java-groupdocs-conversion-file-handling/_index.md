@@ -4,8 +4,8 @@
 "title": "การแปลงไฟล์หลักใน Java และคู่มือฉบับสมบูรณ์ในการใช้ GroupDocs.Conversion"
 "url": "/th/java/document-operations/java-groupdocs-conversion-file-handling/"
 "weight": 1
+type: docs
 ---
-
 # การเรียนรู้การแปลงไฟล์ใน Java: คู่มือที่ครอบคลุมสำหรับการใช้ GroupDocs.Conversion
 
 ## การแนะนำ

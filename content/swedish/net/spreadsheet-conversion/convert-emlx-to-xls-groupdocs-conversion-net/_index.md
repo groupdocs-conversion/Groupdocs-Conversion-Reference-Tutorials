@@ -4,8 +4,8 @@
 "title": "Konvertera EMLX till XLS med GroupDocs.Conversion för .NET - En steg-för-steg-guide"
 "url": "/sv/net/spreadsheet-conversion/convert-emlx-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera EMLX till XLS med GroupDocs.Conversion för .NET: En steg-för-steg-guide
 
 ## Introduktion

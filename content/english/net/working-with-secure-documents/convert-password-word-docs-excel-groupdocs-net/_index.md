@@ -8,10 +8,8 @@ keywords:
 - convert password-protected Word documents
 - secure document conversion
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # Convert Password-Protected Word Documents to Excel with GroupDocs for .NET
 
 ## Introduction

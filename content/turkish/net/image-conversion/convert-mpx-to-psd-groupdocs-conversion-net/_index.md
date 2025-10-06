@@ -4,8 +4,8 @@
 "title": "Kapsamlı Kılavuz&#58; .NET için GroupDocs.Conversion'ı Kullanarak MPX'i PSD'ye Dönüştürme"
 "url": "/tr/net/image-conversion/convert-mpx-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Kapsamlı Kılavuz: .NET için GroupDocs.Conversion'ı Kullanarak MPX'i PSD'ye Dönüştürme
 
 ## giriiş

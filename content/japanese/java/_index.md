@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for Javaの包括的なチュートリアル"
 "url": "/ja/java/"
 "weight": 10
+type: docs
 ---
-
 # GroupDocs.Conversion for Javaの包括的なチュートリアル
 
 ## 導入

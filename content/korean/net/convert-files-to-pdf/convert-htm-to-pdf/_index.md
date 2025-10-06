@@ -5,8 +5,8 @@
 "title": "HTM 웹 페이지를 PDF로 변환"
 "url": "/ko/net/convert-files-to-pdf/convert-htm-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # HTM 웹 페이지를 PDF로 변환
 
 ## 소개

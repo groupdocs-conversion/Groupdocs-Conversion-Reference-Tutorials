@@ -4,8 +4,8 @@
 "title": "Converti EMLX in PSD con GroupDocs.Conversion per .NET&#58; una guida passo passo"
 "url": "/it/net/image-formats-features/convert-emlx-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converti le email EMLX in file PSD di alta qualità con GroupDocs.Conversion per .NET
 
 ## Introduzione

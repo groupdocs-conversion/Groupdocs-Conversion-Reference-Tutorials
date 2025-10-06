@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して MPT を XLS に変換する包括的なガイド"
 "url": "/ja/net/spreadsheet-conversion/convert-mpt-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して MPT ファイルを XLS に変換する
 
 この包括的なガイドでは、GroupDocs.Conversion for .NET ライブラリを使用して、Microsoft Project テンプレート (.mpt) ファイルを Excel バイナリファイル形式 (.xls) に変換する方法について説明します。このプロセスは、Excel の多用途な環境でプロジェクトデータを操作する必要がある人にとって非常に重要です。

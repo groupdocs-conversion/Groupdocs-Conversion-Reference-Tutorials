@@ -4,8 +4,8 @@
 "title": "Mise en cache de fichiers Java avec GroupDocs.Conversion &#58; un guide complet pour une conversion efficace des documents"
 "url": "/fr/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Comment implémenter la mise en cache de fichiers Java avec GroupDocs.Conversion pour une conversion efficace des documents
 
 ## Introduction

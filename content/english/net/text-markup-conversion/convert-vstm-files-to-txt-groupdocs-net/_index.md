@@ -8,10 +8,8 @@ keywords:
 - convert VSTM to TXT
 - GroupDocs.Conversion for .NET
 - VSTM file conversion
-
+type: docs
 ---
-
-
 # Convert VSTM Files to TXT Using GroupDocs.Conversion for .NET
 
 ## Introduction

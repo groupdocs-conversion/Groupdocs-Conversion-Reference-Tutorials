@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 TXT를 HTML로 변환하는 단계별 가이드"
 "url": "/ko/net/web-markup-formats/convert-txt-to-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 TXT 파일을 HTML로 변환: 단계별 가이드
 
 오늘날의 디지털 환경에서는 문서를 효율적으로 변환하는 것이 매우 중요합니다. 웹 프레젠테이션용 콘텐츠를 준비하든, 기록을 디지털화하든, 일반 텍스트 파일(TXT)을 시각적으로 매력적인 HTML 형식으로 변환하면 접근성과 미적 감각을 크게 향상시킬 수 있습니다. 이 튜토리얼에서는 강력한 GroupDocs.Conversion .NET 라이브러리를 사용하여 TXT 파일을 HTML로 원활하게 변환하는 방법을 안내합니다.

@@ -4,8 +4,8 @@
 "title": "วิธีการแปลงไฟล์ TSV เป็น LaTeX โดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/csv-structured-data-processing/convert-tsv-to-latex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการแปลงไฟล์ TSV เป็น LaTeX โดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

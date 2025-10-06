@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET でストリームからライセンスを設定する方法 - 総合ガイド"
 "url": "/ja/net/getting-started-licensing/groupdocs-conversion-net-set-license-stream/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET でストリームからライセンスを設定する: 包括的なガイド
 
 ## 導入

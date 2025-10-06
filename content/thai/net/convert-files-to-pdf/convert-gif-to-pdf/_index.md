@@ -5,8 +5,8 @@
 "title": "แปลงภาพ GIF เป็น PDF"
 "url": "/th/net/convert-files-to-pdf/convert-gif-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # แปลงภาพ GIF เป็น PDF
 
 ## การแนะนำ

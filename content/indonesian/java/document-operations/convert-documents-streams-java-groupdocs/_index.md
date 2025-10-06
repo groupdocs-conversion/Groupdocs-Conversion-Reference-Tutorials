@@ -4,8 +4,8 @@
 "title": "Mengonversi Dokumen dari Stream di Java Menggunakan GroupDocs.Conversion"
 "url": "/id/java/document-operations/convert-documents-streams-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Mengonversi Dokumen dari Stream di Java Menggunakan GroupDocs.Conversion
 
 ## Perkenalan

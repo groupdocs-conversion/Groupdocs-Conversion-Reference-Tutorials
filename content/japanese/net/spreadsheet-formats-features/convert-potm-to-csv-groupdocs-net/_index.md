@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して POTM テンプレートを CSV に変換する - 包括的なガイド"
 "url": "/ja/net/spreadsheet-formats-features/convert-potm-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して Microsoft PowerPoint テンプレート (POTM) を CSV に変換する
 
 ## 導入

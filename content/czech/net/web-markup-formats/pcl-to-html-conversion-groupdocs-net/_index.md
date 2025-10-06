@@ -4,8 +4,8 @@
 "title": "Převod PCL do HTML pomocí GroupDocs.Conversion .NET"
 "url": "/cs/net/web-markup-formats/pcl-to-html-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Komplexní průvodce: Převod souborů PCL do HTML pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "Konwertuj pliki PCL do Excel XLSX za pomocą GroupDocs.Conversion dla .NET"
 "url": "/pl/net/spreadsheet-formats-features/convert-pcl-files-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja plików PCL do Excel XLSX przy użyciu GroupDocs.Conversion dla .NET
 
 ## Wstęp

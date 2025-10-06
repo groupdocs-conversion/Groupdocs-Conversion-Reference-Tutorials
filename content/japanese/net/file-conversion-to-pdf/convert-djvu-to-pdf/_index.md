@@ -5,8 +5,8 @@
 "title": "DJVU文書をPDFに変換する"
 "url": "/ja/net/file-conversion-to-pdf/convert-djvu-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # DJVU文書をPDFに変換する
 
 ## 導入

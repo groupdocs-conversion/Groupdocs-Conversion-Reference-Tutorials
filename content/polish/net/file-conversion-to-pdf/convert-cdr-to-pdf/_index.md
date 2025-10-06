@@ -5,8 +5,8 @@
 "title": "Konwertuj grafikę wektorową CDR do formatu PDF"
 "url": "/pl/net/file-conversion-to-pdf/convert-cdr-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # Konwertuj grafikę wektorową CDR do formatu PDF
 
 ## Wstęp

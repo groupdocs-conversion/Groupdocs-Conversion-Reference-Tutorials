@@ -4,8 +4,8 @@
 "title": "Conversions de documents efficaces dans .NET à l'aide de GroupDocs.Conversion - Un guide complet"
 "url": "/fr/net/conversion-utilities-information/mastering-document-conversions-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Conversions de documents efficaces dans .NET avec GroupDocs.Conversion : guide complet
 
 ## Introduction

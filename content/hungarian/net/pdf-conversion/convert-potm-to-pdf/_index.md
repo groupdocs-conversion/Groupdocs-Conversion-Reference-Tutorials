@@ -5,8 +5,8 @@
 "title": "POTM konvertálása PDF-be"
 "url": "/hu/net/pdf-conversion/convert-potm-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # POTM konvertálása PDF-be
 
 ## Bevezetés

@@ -8,10 +8,8 @@ keywords:
 - Convert VSTX to SVG
 - GroupDocs.Conversion for .NET
 - VSTX file conversion
-
+type: docs
 ---
-
-
 # How to Convert VSTX Files to SVG Using GroupDocs.Conversion in .NET
 
 ## Introduction

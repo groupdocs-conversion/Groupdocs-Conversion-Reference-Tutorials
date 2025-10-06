@@ -5,8 +5,8 @@
 "title": "Μετατροπή XLSB σε PDF"
 "url": "/el/net/converting-file-types-to-pdf/convert-xlsb-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Μετατροπή XLSB σε PDF
 
 ## Εισαγωγή

@@ -4,8 +4,8 @@
 "title": "Hướng dẫn toàn diện&#58; Chuyển đổi ODS sang DOC với GroupDocs.Conversion cho .NET"
 "url": "/vi/net/spreadsheet-formats-features/master-ods-to-doc-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hướng dẫn toàn diện: Chuyển đổi ODS sang DOC bằng GroupDocs.Conversion cho .NET
 
 Bạn có muốn chuyển đổi liền mạch các tệp Bảng tính OpenDocument (ODS) của mình thành tài liệu Microsoft Word không? Với **GroupDocs.Conversion cho .NET**, nhiệm vụ này trở nên đơn giản. Hướng dẫn toàn diện này sẽ hướng dẫn bạn từng bước thực hiện quy trình.

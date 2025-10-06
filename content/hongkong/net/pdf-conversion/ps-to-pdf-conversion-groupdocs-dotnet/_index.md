@@ -4,8 +4,8 @@
 "title": "如何在 .NET 中使用 GroupDocs.Conversion 將 PS 轉換為 PDF——逐步指南"
 "url": "/zh-hant/net/pdf-conversion/ps-to-pdf-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 如何在 .NET 中使用 GroupDocs.Conversion 將 PS 轉換為 PDF：逐步指南
 
 ## 介紹

@@ -8,10 +8,8 @@ keywords:
 - EPUB to CSV conversion
 - GroupDocs.Conversion for .NET
 - data extraction
-
+type: docs
 ---
-
-
 # Convert EPUB to CSV Using GroupDocs.Conversion for .NET: A Developer's Guide
 
 ## Introduction

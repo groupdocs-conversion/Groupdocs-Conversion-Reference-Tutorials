@@ -4,8 +4,8 @@
 "title": "Domínio da conversão de documentos .NET - Utilize o GroupDocs para transformações de PDF perfeitas"
 "url": "/pt/net/conversion-options-settings/master-net-document-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Dominando a conversão de documentos em .NET com GroupDocs.Conversion
 
 ## Introdução

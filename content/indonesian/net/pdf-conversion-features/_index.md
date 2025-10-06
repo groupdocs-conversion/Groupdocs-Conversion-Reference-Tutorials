@@ -3,8 +3,8 @@
 "title": "Tutorial Konversi dan Fitur PDF untuk GroupDocs.Conversion .NET"
 "url": "/id/net/pdf-conversion-features/"
 "weight": 9
+type: docs
 ---
-
 # Tutorial Konversi dan Fitur PDF untuk GroupDocs.Conversion .NET
 
 Tutorial kami yang berfokus pada PDF menyediakan panduan komprehensif untuk bekerja dengan dokumen PDF dalam aplikasi .NET. Panduan praktis ini menunjukkan cara mengonversi berbagai format ke PDF, mengonversi PDF ke format lain, meratakan kolom formulir, menyembunyikan anotasi, menghapus file yang disematkan, mengoptimalkan pengaturan kompresi PDF, mengontrol kepatuhan PDF/A, mengelola izin dokumen, dan mempertahankan hyperlink selama konversi. Setiap tutorial menyertakan contoh kode C# lengkap untuk skenario konversi PDF, membantu Anda membangun aplikasi yang memanfaatkan set kapabilitas lengkap format PDF sambil mempertahankan fidelitas dokumen.

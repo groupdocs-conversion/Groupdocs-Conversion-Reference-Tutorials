@@ -4,8 +4,8 @@
 "title": "Verimli Kılavuz&#58; .NET için GroupDocs.Conversion'ı Kullanarak JLS'yi PPTX'e Dönüştürme"
 "url": "/tr/net/presentation-formats-features/convert-jls-to-pptx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Verimli Kılavuz: .NET için GroupDocs.Conversion'ı Kullanarak JLS'yi PPTX'e Dönüştürme
 
 ## giriiş

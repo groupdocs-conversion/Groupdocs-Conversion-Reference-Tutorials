@@ -4,8 +4,8 @@
 "title": "使用 .NET 中的 GroupDocs.Conversion 將電子表格無縫轉換為 PDF"
 "url": "/zh-hant/net/pdf-conversion/convert-spreadsheets-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 .NET 中的 GroupDocs.Conversion 將電子表格無縫轉換為 PDF
 
 ## 介紹

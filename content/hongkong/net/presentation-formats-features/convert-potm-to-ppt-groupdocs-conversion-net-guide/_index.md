@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 將 POTM 轉換為 PPT——逐步指南"
 "url": "/zh-hant/net/presentation-formats-features/convert-potm-to-ppt-groupdocs-conversion-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將 POTM 轉換為 PPT：逐步指南
 
 ## 介紹

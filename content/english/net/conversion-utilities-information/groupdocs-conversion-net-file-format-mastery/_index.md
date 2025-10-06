@@ -8,10 +8,8 @@ keywords:
 - file format conversion
 - GroupDocs.Conversion for .NET
 - conversion utilities
-
+type: docs
 ---
-
-
 # Mastering File Format Conversions in .NET with GroupDocs.Conversion
 
 Welcome to our comprehensive guide on leveraging the GroupDocs.Conversion library for .NET to handle file format conversions efficiently. This tutorial will help you understand how to retrieve all possible conversion formats available through its API, enabling streamlined document management processes and versatile integration into your applications.

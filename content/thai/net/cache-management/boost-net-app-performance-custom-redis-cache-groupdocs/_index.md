@@ -4,8 +4,8 @@
 "title": "เพิ่มประสิทธิภาพการทำงานของแอปพลิเคชัน .NET ด้วยการใช้ Redis Cache แบบกำหนดเองด้วย GroupDocs.Conversion"
 "url": "/th/net/cache-management/boost-net-app-performance-custom-redis-cache-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # เพิ่มประสิทธิภาพแอปพลิเคชัน .NET ของคุณด้วย Redis Caching แบบกำหนดเองโดยใช้ GroupDocs.Conversion
 
 ## การแนะนำ

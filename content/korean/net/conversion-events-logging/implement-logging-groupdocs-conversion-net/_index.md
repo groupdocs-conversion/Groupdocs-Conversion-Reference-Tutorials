@@ -4,8 +4,8 @@
 "title": ".NET용 GroupDocs.Conversion에서 로깅 구현하기&#58; 단계별 가이드"
 "url": "/ko/net/conversion-events-logging/implement-logging-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET에서 GroupDocs.Conversion 이벤트 로깅을 구현하는 방법: 포괄적인 가이드
 
 ## 소개

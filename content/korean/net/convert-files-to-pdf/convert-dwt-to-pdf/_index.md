@@ -5,8 +5,8 @@
 "title": "DWT CAD 템플릿 파일을 PDF로 변환"
 "url": "/ko/net/convert-files-to-pdf/convert-dwt-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # DWT CAD 템플릿 파일을 PDF로 변환
 
 ## 소개

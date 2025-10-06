@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert OXPS to PSD Using GroupDocs.Conversion .NET: A Comprehensive Guide for Image Conversion
 
 ## Introduction

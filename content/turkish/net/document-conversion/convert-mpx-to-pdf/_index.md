@@ -5,8 +5,8 @@
 "title": "MPX'i PDF'e dönüştür"
 "url": "/tr/net/document-conversion/convert-mpx-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # MPX'i PDF'e dönüştür
 
 ## giriiş

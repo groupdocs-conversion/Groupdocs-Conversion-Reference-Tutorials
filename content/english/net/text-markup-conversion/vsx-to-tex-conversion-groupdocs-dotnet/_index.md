@@ -8,10 +8,8 @@ keywords:
 - convert VSX to TEX
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Convert VSX to TEX with Ease Using GroupDocs.Conversion .NET
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - convert XLT to XLSX
 - GroupDocs.Conversion for .NET
 - Microsoft Excel format conversion
-
+type: docs
 ---
-
-
 # Convert XLT to XLSX Using GroupDocs.Conversion for .NET
 
 ## Introduction

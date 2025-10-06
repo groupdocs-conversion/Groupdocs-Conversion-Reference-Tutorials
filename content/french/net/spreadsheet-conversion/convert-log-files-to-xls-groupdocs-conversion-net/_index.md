@@ -4,8 +4,8 @@
 "title": "Convertir des fichiers journaux en XLS avec GroupDocs.Conversion pour .NET - Guide étape par étape"
 "url": "/fr/net/spreadsheet-conversion/convert-log-files-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des fichiers journaux en XLS à l'aide de GroupDocs.Conversion pour .NET
 
 ## Introduction

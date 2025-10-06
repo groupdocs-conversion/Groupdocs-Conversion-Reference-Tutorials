@@ -4,8 +4,8 @@
 "title": "การแคชไฟล์ Java ด้วย GroupDocs.Conversion คำแนะนำที่ครอบคลุมสำหรับการแปลงเอกสารอย่างมีประสิทธิภาพ"
 "url": "/th/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการใช้ Java File Caching กับ GroupDocs.Conversion เพื่อการแปลงเอกสารที่มีประสิทธิภาพ
 
 ## การแนะนำ

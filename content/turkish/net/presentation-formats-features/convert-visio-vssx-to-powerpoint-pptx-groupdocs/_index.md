@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanılarak Visio Şablon Dosyaları (VSSX) PowerPoint Sunumlarına Nasıl Dönüştürülür"
 "url": "/tr/net/presentation-formats-features/convert-visio-vssx-to-powerpoint-pptx-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanılarak Visio Şablon Dosyaları (VSSX) PowerPoint Sunumlarına Nasıl Dönüştürülür
 
 ## giriiş

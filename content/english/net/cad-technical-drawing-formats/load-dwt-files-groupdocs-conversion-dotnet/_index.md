@@ -8,10 +8,8 @@ keywords:
 - load DWT files GroupDocs.Conversion .NET
 - convert Drawboard PDF .NET
 - GroupDocs.Conversion library setup
-
+type: docs
 ---
-
-
 # How to Load and Convert DWT Files Using GroupDocs.Conversion for .NET
 
 ## Introduction

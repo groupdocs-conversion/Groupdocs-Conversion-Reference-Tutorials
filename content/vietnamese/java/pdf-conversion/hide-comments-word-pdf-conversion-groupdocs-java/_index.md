@@ -4,8 +4,8 @@
 "title": "Ẩn bình luận trong chuyển đổi Word sang PDF bằng GroupDocs.Conversion cho Java"
 "url": "/vi/java/pdf-conversion/hide-comments-word-pdf-conversion-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Ẩn bình luận trong chuyển đổi Word sang PDF bằng GroupDocs.Conversion cho Java
 
 Trong thế giới kỹ thuật số phát triển nhanh như hiện nay, việc chuyển đổi tài liệu Word sang PDF là một công việc thường xuyên đối với nhiều chuyên gia. Tuy nhiên, khi các tài liệu này chứa các bình luận nhạy cảm hoặc các thay đổi được theo dõi, bạn có thể thích các tệp PDF sạch không có bất kỳ chú thích nào. Hướng dẫn này sẽ hướng dẫn bạn sử dụng GroupDocs.Conversion for Java để ẩn các bình luận một cách liền mạch trong quá trình chuyển đổi.

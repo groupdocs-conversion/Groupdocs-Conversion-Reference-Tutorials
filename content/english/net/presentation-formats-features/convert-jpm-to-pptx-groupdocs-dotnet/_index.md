@@ -8,10 +8,8 @@ keywords:
 - convert JPM to PPTX
 - GroupDocs.Conversion .NET
 - file conversion with GroupDocs
-
+type: docs
 ---
-
-
 # How to Convert JPM to PPTX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

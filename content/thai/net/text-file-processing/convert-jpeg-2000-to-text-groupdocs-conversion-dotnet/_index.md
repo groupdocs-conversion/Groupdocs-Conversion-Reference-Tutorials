@@ -4,8 +4,8 @@
 "title": "วิธีการแปลง JPEG 2000 เป็นข้อความโดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/text-file-processing/convert-jpeg-2000-to-text-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # การแปลงไฟล์ JPEG 2000 เป็นข้อความโดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

@@ -5,8 +5,8 @@
 "title": "將LOG轉換為PDF"
 "url": "/zh-hant/net/document-conversion/convert-log-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # 將LOG轉換為PDF
 
 ## 介紹

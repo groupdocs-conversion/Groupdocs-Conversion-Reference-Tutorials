@@ -8,10 +8,8 @@ keywords:
 - convert EMF to XLSX
 - GroupDocs.Conversion for .NET
 - EMF file conversion
-
+type: docs
 ---
-
-
 # Convert EMF to XLSX Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

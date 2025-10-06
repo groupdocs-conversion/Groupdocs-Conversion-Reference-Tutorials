@@ -4,8 +4,8 @@
 "title": "Come convertire PPTM in PPTX utilizzando GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/presentation-formats-features/convert-pptm-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire PPTM in PPTX utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

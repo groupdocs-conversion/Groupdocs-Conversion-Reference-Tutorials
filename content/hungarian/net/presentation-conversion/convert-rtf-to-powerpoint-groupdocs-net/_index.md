@@ -4,8 +4,8 @@
 "title": "RTF konvertálása PowerPointtá a GroupDocs.Conversion .NET segítségével - Egyszerű útmutató a prezentációk konvertálásához"
 "url": "/hu/net/presentation-conversion/convert-rtf-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # RTF konvertálása PowerPoint formátumba a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

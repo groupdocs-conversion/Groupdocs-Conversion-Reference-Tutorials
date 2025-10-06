@@ -4,8 +4,8 @@
 "title": "Converteer wachtwoordbeveiligde Word-documenten naar PDF met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/working-with-secure-documents/convert-password-protected-docs-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Wachtwoordbeveiligde Word-documenten laden en converteren naar PDF met GroupDocs.Conversion voor .NET
 
 ## Invoering

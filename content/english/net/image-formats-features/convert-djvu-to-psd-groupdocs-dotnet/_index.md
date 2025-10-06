@@ -8,10 +8,8 @@ keywords:
 - convert DJVU to PSD
 - GroupDocs.Conversion for .NET
 - DJVU file conversion
-
+type: docs
 ---
-
-
 # How to Convert DJVU Files to PSD Using GroupDocs.Conversion for .NET (C#)
 
 ## Introduction

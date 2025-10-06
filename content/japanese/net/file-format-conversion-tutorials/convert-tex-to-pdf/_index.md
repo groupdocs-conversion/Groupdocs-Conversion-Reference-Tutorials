@@ -5,8 +5,8 @@
 "title": "TEXをPDFに変換する"
 "url": "/ja/net/file-format-conversion-tutorials/convert-tex-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # TEXをPDFに変換する
 
 ## 導入

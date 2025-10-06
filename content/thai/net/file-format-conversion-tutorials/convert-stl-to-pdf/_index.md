@@ -5,8 +5,8 @@
 "title": "แปลง STL เป็น PDF"
 "url": "/th/net/file-format-conversion-tutorials/convert-stl-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # แปลง STL เป็น PDF
 
 ## การแนะนำ

@@ -4,8 +4,8 @@
 "title": "PPSX'i GroupDocs.Conversion for .NET Kullanarak PSD'ye Dönüştürme - Kapsamlı Bir Kılavuz"
 "url": "/tr/net/image-conversion/ppsx-to-psd-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PPSX'i GroupDocs.Conversion for .NET Kullanarak PSD'ye Dönüştürme
 
 ## giriiş

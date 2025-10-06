@@ -8,10 +8,8 @@ keywords:
 - convert VDX to SVG
 - GroupDocs.Conversion for .NET setup
 - VDX file conversion
-
+type: docs
 ---
-
-
 # How to Convert VDX Files to SVG Using GroupDocs.Conversion for .NET
 
 ## Introduction

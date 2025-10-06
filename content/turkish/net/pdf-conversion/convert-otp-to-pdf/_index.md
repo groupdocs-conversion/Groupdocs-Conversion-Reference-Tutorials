@@ -5,8 +5,8 @@
 "title": "OTP'yi PDF'ye dönüştür"
 "url": "/tr/net/pdf-conversion/convert-otp-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # OTP'yi PDF'ye dönüştür
 
 ## giriiş

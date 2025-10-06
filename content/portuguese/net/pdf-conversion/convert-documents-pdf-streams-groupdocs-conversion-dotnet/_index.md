@@ -4,8 +4,8 @@
 "title": "Converta documentos em fluxos de PDF usando o GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/pdf-conversion/convert-documents-pdf-streams-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converta documentos em fluxos de PDF usando o GroupDocs.Conversion para .NET: um guia completo
 
 ## Introdução

@@ -8,10 +8,8 @@ keywords:
 - Convert XLSM to PNG
 - GroupDocs.Conversion for .NET
 - XLSM file conversion
-
+type: docs
 ---
-
-
 # Convert XLSM to PNG Using GroupDocs.Conversion for .NET
 
 ## Introduction

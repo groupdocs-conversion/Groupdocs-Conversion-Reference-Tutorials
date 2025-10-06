@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 掌握 .NET 中的 PDF 字型替換－綜合指南"
 "url": "/zh-hant/net/font-handling-substitution/groupdocs-conversion-pdf-font-substitution-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 掌握 .NET 中的 PDF 字型替換
 
 在文件轉換過程中確保字體的一致性至關重要。本指南內容詳盡，示範如何使用 GroupDocs.Conversion for .NET 在將文件轉換為 PDF 時有效地管理字體替換。

@@ -4,8 +4,8 @@
 "title": "Átfogó útmutató az ODS PNG-vé konvertálásához a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/convert-ods-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató: ODS konvertálása PNG-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

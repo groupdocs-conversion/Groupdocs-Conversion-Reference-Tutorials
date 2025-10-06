@@ -4,8 +4,8 @@
 "title": "Konversi Dokumen Java dengan Font Kustom Menggunakan GroupDocs.Conversion"
 "url": "/id/java/conversion-options/java-conversion-custom-fonts-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Konversi Dokumen Java dengan Font Kustom Menggunakan GroupDocs.Conversion
 
 Di dunia digital saat ini, mengonversi dokumen sambil mempertahankan desain dan tata letak aslinya sangatlah penting. Baik Anda sedang mempersiapkan presentasi untuk klien atau mengarsipkan file penting, memastikan bahwa font konsisten di seluruh platform dapat menjadi tantangan. Tutorial ini akan memandu Anda menggunakan GroupDocs.Conversion for Java untuk mengonversi presentasi ke PDF dengan substitusi font khusus, memastikan integritas visual selama proses berlangsung.

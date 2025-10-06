@@ -8,10 +8,8 @@ keywords:
 - Convert Word to PDF
 - GroupDocs.Conversion for .NET
 - Hide comments in PDF
-
+type: docs
 ---
-
-
 # Convert Word Documents to PDF & Hide Comments with GroupDocs.Conversion for .NET
 
 ## Introduction

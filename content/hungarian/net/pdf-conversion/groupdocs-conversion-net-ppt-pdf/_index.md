@@ -4,8 +4,8 @@
 "title": "Hatékony PPT-PDF konvertálás .NET-ben a GroupDocs.Conversion használatával"
 "url": "/hu/net/pdf-conversion/groupdocs-conversion-net-ppt-pdf/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony PPT-PDF konvertálás .NET-ben a GroupDocs.Conversion használatával
 
 A PowerPoint prezentációk (.ppt) PDF (Portable Document Format) formátumba konvertálása elengedhetetlen a mai digitális világban. Akár biztonságos megosztásról, akár archiválásról van szó, ez a funkció felbecsülhetetlen értékű. Ebben az oktatóanyagban végigvezetjük a használatán. **GroupDocs.Conversion .NET-hez** hogy hatékonyan konvertálhassa PPT fájljait PDF formátumba.

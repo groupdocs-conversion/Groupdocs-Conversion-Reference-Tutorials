@@ -8,10 +8,8 @@ keywords:
 - convert FODS to HTML
 - GroupDocs.Conversion for .NET
 - FODS conversion tutorial
-
+type: docs
 ---
-
-
 # Convert FODS to HTML Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

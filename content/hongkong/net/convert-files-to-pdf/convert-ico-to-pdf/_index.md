@@ -5,8 +5,8 @@
 "title": "將ICO圖示轉換為PDF"
 "url": "/zh-hant/net/convert-files-to-pdf/convert-ico-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # 將ICO圖示轉換為PDF
 
 ## 介紹

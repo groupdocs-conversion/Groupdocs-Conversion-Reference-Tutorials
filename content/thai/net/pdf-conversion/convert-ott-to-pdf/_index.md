@@ -5,8 +5,8 @@
 "title": "แปลง OTT เป็น PDF"
 "url": "/th/net/pdf-conversion/convert-ott-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # แปลง OTT เป็น PDF
 
 ## การแนะนำ

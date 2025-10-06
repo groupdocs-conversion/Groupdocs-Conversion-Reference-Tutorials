@@ -8,10 +8,8 @@ keywords:
 - convert mpt to txt
 - groupdocs conversion for net
 - mpt file conversion
-
+type: docs
 ---
-
-
 # How to Convert MPT Files to TXT Using GroupDocs.Conversion for .NET
 
 ## Introduction

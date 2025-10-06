@@ -8,10 +8,8 @@ keywords:
 - EPS to TXT Conversion
 - .NET document conversion
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # Efficient EPS to TXT Conversion in .NET with GroupDocs.Conversion
 
 ## Introduction

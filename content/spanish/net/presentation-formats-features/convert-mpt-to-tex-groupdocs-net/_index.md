@@ -4,8 +4,8 @@
 "title": "Convierta MPT a TEX con GroupDocs.Conversion para .NET&#58; Guía de conversión de archivos sin interrupciones"
 "url": "/es/net/presentation-formats-features/convert-mpt-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convierta MPT a TEX con GroupDocs.Conversion para .NET: Guía de conversión de archivos sin complicaciones
 
 ## Introducción

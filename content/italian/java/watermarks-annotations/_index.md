@@ -3,8 +3,8 @@
 "title": "Tutorial su filigrane e annotazioni per GroupDocs.Conversion Java"
 "url": "/it/java/watermarks-annotations/"
 "weight": 20
+type: docs
 ---
-
 # Tutorial su filigrane e annotazioni per GroupDocs.Conversion Java
 
 Esplora le funzionalità di annotazione e filigrana con i nostri tutorial completi di GroupDocs.Conversion per Java. Queste guide passo passo illustrano come aggiungere filigrane di testo e immagini durante la conversione, preservare le annotazioni esistenti, controllare la visibilità delle annotazioni, implementare la filigrana dinamica basata sui metadati e gestire i segni di redazione nei documenti sensibili. Ogni tutorial include esempi pratici di codice Java per scenari di filigrana e annotazione, aiutandoti a creare applicazioni che mantengano gli elementi visivi e i segni editoriali importanti durante la trasformazione del formato.

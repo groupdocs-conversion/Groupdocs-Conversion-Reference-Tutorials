@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 將 CSV 轉換為 XML——逐步指南"
 "url": "/zh-hant/net/csv-structured-data-processing/convert-csv-to-xml-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將 CSV 轉換為 XML：逐步指南
 
 ## 介紹

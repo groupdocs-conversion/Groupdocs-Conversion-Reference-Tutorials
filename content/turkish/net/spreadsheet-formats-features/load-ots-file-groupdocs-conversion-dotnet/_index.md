@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak OTS Dosyaları Nasıl Yüklenir ve Dönüştürülür"
 "url": "/tr/net/spreadsheet-formats-features/load-ots-file-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak OTS Dosyaları Nasıl Yüklenir ve Dönüştürülür
 
 Günümüzün dijital ortamında, çeşitli belge biçimlerini yönetmek işletmeler ve geliştiriciler için olmazsa olmazdır. Faturaları veya sözleşmeleri yönetmek olsun, bunları evrensel olarak kabul görmüş biçimlere dönüştürmek zamandan ve kaynaklardan tasarruf sağlayabilir. Bu eğitim, .NET için güçlü GroupDocs.Conversion kitaplığını kullanarak bir OpenDocument Spreadsheet Text (OTS) dosyasını yükleme ve dönüştürme konusunda size rehberlik edecektir.

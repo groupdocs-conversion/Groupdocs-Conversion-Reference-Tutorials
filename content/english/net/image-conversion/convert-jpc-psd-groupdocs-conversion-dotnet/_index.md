@@ -8,10 +8,8 @@ keywords:
 - convert JPC to PSD
 - GroupDocs.Conversion for .NET
 - file format conversion in .NET
-
+type: docs
 ---
-
-
 # Convert JPC to PSD Using GroupDocs.Conversion for .NET
 
 ## Introduction

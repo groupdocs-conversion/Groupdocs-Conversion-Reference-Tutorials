@@ -3,8 +3,8 @@
 "title": "Tutorial di conversione di fogli di calcolo per GroupDocs.Conversion .NET"
 "url": "/it/net/spreadsheet-conversion/"
 "weight": 30
+type: docs
 ---
-
 # Tutorial di conversione di fogli di calcolo per GroupDocs.Conversion .NET
 
 Scopri come trasformare i documenti in formati di foglio di calcolo modificabili con i nostri tutorial GroupDocs.Conversion .NET. Queste guide dettagliate illustrano come convertire PDF, Word, HTML, immagini e altri formati in XLS, XLSX, CSV, ODS e altri ancora. Scopri tecniche per preservare calcoli e formule, mantenere la formattazione delle celle, gestire documenti multi-foglio, gestire intestazioni e piè di pagina e controllare le conversioni dei tipi di dati. Ogni tutorial include esempi di codice C# funzionante che mostrano come creare documenti di foglio di calcolo che rappresentano accuratamente il contenuto di origine, consentendo al contempo l'analisi e la manipolazione dei dati.

@@ -4,8 +4,8 @@
 "title": "Как конвертировать файлы ICO в PowerPoint с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/presentation-conversion/convert-ico-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Как конвертировать файлы ICO в презентации PowerPoint с помощью GroupDocs.Conversion для .NET
 
 ## Введение

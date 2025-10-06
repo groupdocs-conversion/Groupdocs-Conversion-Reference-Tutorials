@@ -4,8 +4,8 @@
 "title": "تحويل DOT إلى XLSX في .NET باستخدام GroupDocs.Conversion - دليل شامل"
 "url": "/ar/net/spreadsheet-conversion/convert-dot-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل DOT إلى XLSX في .NET باستخدام GroupDocs.Conversion
 
 ## مقدمة

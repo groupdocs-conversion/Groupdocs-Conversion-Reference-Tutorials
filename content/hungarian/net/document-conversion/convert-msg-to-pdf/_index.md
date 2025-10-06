@@ -5,8 +5,8 @@
 "title": "MSG konvertálása PDF-be"
 "url": "/hu/net/document-conversion/convert-msg-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # MSG konvertálása PDF-be
 
 ## Bevezetés

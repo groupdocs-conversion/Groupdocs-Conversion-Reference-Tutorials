@@ -4,8 +4,8 @@
 "title": "Jak przekonwertować szablon programu PowerPoint (.potx) na tekst za pomocą GroupDocs.Conversion dla .NET"
 "url": "/pl/net/text-file-processing/convert-potx-to-text-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak załadować i przekonwertować plik szablonu Open XML (.potx) programu Microsoft PowerPoint na tekst przy użyciu GroupDocs.Conversion dla platformy .NET
 
 ## Wstęp

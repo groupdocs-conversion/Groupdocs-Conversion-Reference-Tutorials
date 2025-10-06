@@ -4,8 +4,8 @@
 "title": "Преобразование слайдов PPT в Excel&#58; Мастеринг GroupDocs.Conversion для .NET"
 "url": "/ru/net/presentation-conversion/convert-ppt-slides-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте слайды PPT в Excel с помощью GroupDocs.Conversion для .NET
 
 ## Введение

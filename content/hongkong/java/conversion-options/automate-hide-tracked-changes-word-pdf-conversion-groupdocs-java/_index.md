@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for Java 自動隱藏 Word 到 PDF 轉換中的追蹤更改"
 "url": "/zh-hant/java/conversion-options/automate-hide-tracked-changes-word-pdf-conversion-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for Java 自動隱藏 Word 到 PDF 轉換中的修訂
 
 ## 介紹

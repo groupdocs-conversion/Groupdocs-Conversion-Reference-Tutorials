@@ -4,8 +4,8 @@
 "title": "使用 C# 中的 GroupDocs.Conversion for .NET 將 XLSM 高效率轉換為 CSV"
 "url": "/zh-hant/net/spreadsheet-formats-features/convert-xlsm-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 C# 中的 GroupDocs.Conversion for .NET 將 XLSM 高效率轉換為 CSV
 
 ## 介紹

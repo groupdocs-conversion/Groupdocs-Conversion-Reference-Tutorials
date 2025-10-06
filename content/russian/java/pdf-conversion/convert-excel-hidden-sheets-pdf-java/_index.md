@@ -4,8 +4,8 @@
 "title": "Как преобразовать файлы Excel со скрытыми листами в PDF-файлы с помощью Java и GroupDocs.Conversion"
 "url": "/ru/java/pdf-conversion/convert-excel-hidden-sheets-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Как преобразовать файлы Excel со скрытыми листами в PDF-файлы с помощью Java и GroupDocs.Conversion
 
 ## Введение

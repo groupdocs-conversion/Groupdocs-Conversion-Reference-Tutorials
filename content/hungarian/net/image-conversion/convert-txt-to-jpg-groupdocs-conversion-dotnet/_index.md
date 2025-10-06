@@ -4,8 +4,8 @@
 "title": "Hogyan konvertáljunk TXT-t JPG-vé a GroupDocs.Conversion for .NET használatával? Lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-txt-to-jpg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhat TXT-t JPG-vé a GroupDocs.Conversion for .NET használatával?
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak RTF'yi PDF'ye Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/pdf-conversion/convert-rtf-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion ile RTF'yi PDF'ye dönüştürün
 
 ## giriiş

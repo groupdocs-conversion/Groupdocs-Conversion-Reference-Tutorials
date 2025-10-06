@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Kullanarak Font Değiştirme ile Java'da Excel'i PDF'ye Dönüştürme"
 "url": "/tr/java/pdf-conversion/excel-to-pdf-conversion-font-substitution-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Kullanarak Font Değiştirme ile Java'da Excel'i PDF'ye Dönüştürme
 
 ## giriiş

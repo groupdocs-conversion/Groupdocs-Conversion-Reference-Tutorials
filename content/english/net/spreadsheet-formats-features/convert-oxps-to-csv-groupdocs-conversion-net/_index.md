@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion for .NET
 - convert OXPS to CSV
 - document conversion in .NET
-
+type: docs
 ---
-
-
 # Converting OXPS Files to CSV Using GroupDocs.Conversion for .NET
 
 ## Introduction

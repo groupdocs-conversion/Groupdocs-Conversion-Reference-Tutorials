@@ -4,8 +4,8 @@
 "title": "Πώς να μετατρέψετε VSSX σε CSV σε .NET χρησιμοποιώντας το GroupDocs.Conversion"
 "url": "/el/net/spreadsheet-formats-features/convert-vssx-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε αρχεία VSSX σε CSV χρησιμοποιώντας το GroupDocs.Conversion σε .NET
 
 ## Εισαγωγή

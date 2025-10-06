@@ -4,8 +4,8 @@
 "title": "Converter POTX para SVG usando GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/presentation-formats-features/convert-potx-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converter POTX para SVG usando GroupDocs.Conversion para .NET: um guia completo
 
 ## Introdução

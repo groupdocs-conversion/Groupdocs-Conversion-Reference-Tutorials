@@ -8,10 +8,8 @@ keywords:
 - VSDM to SVG conversion
 - GroupDocs.Conversion for .NET
 - Visio Macro-Enabled Drawing
-
+type: docs
 ---
-
-
 # How to Convert VSDM to SVG with GroupDocs.Conversion for .NET
 
 ## Introduction

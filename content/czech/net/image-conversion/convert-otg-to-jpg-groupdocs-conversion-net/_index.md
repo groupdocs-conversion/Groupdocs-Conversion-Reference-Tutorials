@@ -4,8 +4,8 @@
 "title": "Převod OTG do JPG pomocí GroupDocs.Conversion .NET – Průvodce snadným převodem obrázků"
 "url": "/cs/net/image-conversion/convert-otg-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů OTG do JPG pomocí GroupDocs.Conversion .NET
 
 ## Zavedení

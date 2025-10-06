@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion का उपयोग करके कुशल ODG से DOCX रूपांतरण .NET'#58; एक चरण-दर-चरण मार्गदर्शिका"
 "url": "/hi/net/word-processing-formats-features/convert-odg-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion का उपयोग करके कुशल ODG से DOCX रूपांतरण .NET: एक चरण-दर-चरण मार्गदर्शिका
 
 ## परिचय

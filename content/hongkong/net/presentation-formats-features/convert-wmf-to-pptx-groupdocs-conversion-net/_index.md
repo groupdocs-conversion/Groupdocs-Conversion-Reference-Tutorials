@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET API 有效率地將 WMF 轉換為 PPTX"
 "url": "/zh-hant/net/presentation-formats-features/convert-wmf-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 有效率地將 WMF 轉換為 PPTX
 
 ## 介紹

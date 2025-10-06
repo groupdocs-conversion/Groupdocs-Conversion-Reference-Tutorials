@@ -4,8 +4,8 @@
 "title": "Optimize Edilmiş Belge Yönetimi için GroupDocs.Conversion .NET Kullanılarak PDF'lerden Gömülü Dosyalar Nasıl Kaldırılır"
 "url": "/tr/net/pdf-conversion-features/remove-embedded-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Optimize Edilmiş Belge Yönetimi için GroupDocs.Conversion .NET Kullanılarak PDF'lerden Gömülü Dosyalar Nasıl Kaldırılır
 
 ## giriiş

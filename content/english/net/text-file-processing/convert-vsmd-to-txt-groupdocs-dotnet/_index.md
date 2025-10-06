@@ -8,10 +8,8 @@ keywords:
 - Convert VSDM to TXT
 - GroupDocs.Conversion .NET
 - Visio Macro-Enabled Drawings
-
+type: docs
 ---
-
-
 # Convert VSDM to TXT Using GroupDocs.Conversion .NET
 
 ## Introduction

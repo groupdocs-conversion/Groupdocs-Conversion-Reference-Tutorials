@@ -4,8 +4,8 @@
 "title": "Memuat & Mengonversi Dokumen yang Dilindungi Kata Sandi Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/working-with-secure-documents/groupdocs-load-convert-password-documents-net/"
 "weight": 1
+type: docs
 ---
-
 # Memuat & Mengonversi Dokumen yang Dilindungi Kata Sandi Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

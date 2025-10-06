@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して VSDX を CSV に変換する包括的なガイド"
 "url": "/ja/net/csv-structured-data-processing/convert-vsdx-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して VSDX を CSV に変換する方法
 
 ## 導入

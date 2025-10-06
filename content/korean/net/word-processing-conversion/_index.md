@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET을 위한 워드 프로세싱 변환 튜토리얼"
 "url": "/ko/net/word-processing-conversion/"
 "weight": 29
+type: docs
 ---
-
 # GroupDocs.Conversion .NET을 위한 워드 프로세싱 변환 튜토리얼
 
 .NET용 GroupDocs.Conversion 튜토리얼을 통해 문서를 편집 가능한 워드 프로세싱 형식으로 변환하는 방법을 알아보세요. 이 상세한 가이드는 PDF, Excel, PowerPoint, 이미지, HTML 및 기타 형식을 DOC, DOCX, RTF, ODT 등으로 변환하는 방법을 다룹니다. 문서 구조 유지, 포함된 개체 처리, 스타일 및 서식 유지, 변환 중 텍스트 흐름 및 페이지 매김 관리 방법을 알아보세요. 각 튜토리얼은 원본 콘텐츠의 충실도를 유지하면서 편집 및 수정이 가능한 워드 프로세싱 문서를 만드는 데 필요한 실용적인 C# 코드 예제를 제공합니다.

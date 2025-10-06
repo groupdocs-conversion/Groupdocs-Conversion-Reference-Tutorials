@@ -4,8 +4,8 @@
 "title": "Chuyển đổi WMF sang PDF dễ dàng bằng GroupDocs dành cho nhà phát triển .NET"
 "url": "/vi/net/pdf-conversion/wmf-to-pdf-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi WMF sang PDF dễ dàng bằng GroupDocs dành cho nhà phát triển .NET
 
 ## Giới thiệu

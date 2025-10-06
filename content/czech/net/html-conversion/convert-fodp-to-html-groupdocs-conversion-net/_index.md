@@ -4,8 +4,8 @@
 "title": "Převod FODP do HTML pomocí GroupDocs.Conversion pro .NET - Kompletní průvodce"
 "url": "/cs/net/html-conversion/convert-fodp-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod FODP do HTML pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

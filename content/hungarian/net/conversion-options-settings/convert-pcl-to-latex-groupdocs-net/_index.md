@@ -4,8 +4,8 @@
 "title": "PCL konvertálása LaTeX-re (TEX) a GroupDocs.Conversion használatával .NET-ben"
 "url": "/hu/net/conversion-options-settings/convert-pcl-to-latex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PCL konvertálása LaTeX-re (TEX) a GroupDocs.Conversion használatával .NET-ben
 
 ## Bevezetés

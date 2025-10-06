@@ -5,8 +5,8 @@
 "title": "Chuyển đổi VDW sang PDF"
 "url": "/vi/net/file-format-conversion-tutorials/convert-vdw-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Chuyển đổi VDW sang PDF
 
 ## Giới thiệu

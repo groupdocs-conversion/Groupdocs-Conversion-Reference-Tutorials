@@ -4,8 +4,8 @@
 "title": "Převod EMZ do PPT v .NET pomocí GroupDocs.Conversion – Komplexní průvodce"
 "url": "/cs/net/presentation-formats-features/convert-emz-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů EMZ do formátu PPT pomocí nástroje GroupDocs.Conversion pro .NET
 
 ## Zavedení

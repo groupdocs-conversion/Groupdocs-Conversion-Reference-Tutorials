@@ -4,8 +4,8 @@
 "title": "Chuyển đổi định dạng tệp chính trong .NET bằng GroupDocs.Conversion"
 "url": "/vi/net/conversion-utilities-information/groupdocs-conversion-net-file-format-mastery/"
 "weight": 1
+type: docs
 ---
-
 # Làm chủ việc chuyển đổi định dạng tệp trong .NET với GroupDocs.Conversion
 
 Chào mừng bạn đến với hướng dẫn toàn diện của chúng tôi về cách tận dụng thư viện GroupDocs.Conversion cho .NET để xử lý chuyển đổi định dạng tệp hiệu quả. Hướng dẫn này sẽ giúp bạn hiểu cách truy xuất tất cả các định dạng chuyển đổi có thể có thông qua API của nó, cho phép các quy trình quản lý tài liệu được hợp lý hóa và tích hợp linh hoạt vào các ứng dụng của bạn.

@@ -5,8 +5,8 @@
 "title": "JPEG naar PDF converteren"
 "url": "/nl/net/document-conversion/convert-jpeg-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # JPEG naar PDF converteren
 
 ## Invoering

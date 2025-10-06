@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi JPEG ke HTML Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/html-conversion/convert-jpeg-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi JPEG ke HTML Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

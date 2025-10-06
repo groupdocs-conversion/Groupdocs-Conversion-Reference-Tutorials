@@ -4,8 +4,8 @@
 "title": "تعيين الترخيص من Stream في GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/getting-started-licensing/groupdocs-conversion-net-set-license-stream/"
 "weight": 1
+type: docs
 ---
-
 # تعيين الترخيص من Stream في GroupDocs.Conversion لـ .NET: دليل شامل
 
 ## مقدمة

@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET için Sunum Dönüştürme Eğitimleri"
 "url": "/tr/net/presentation-conversion/"
 "weight": 31
+type: docs
 ---
-
 # GroupDocs.Conversion .NET için Sunum Dönüştürme Eğitimleri
 
 Sunum dönüştürme eğitimlerimiz, .NET'te GroupDocs.Conversion kullanarak belgeleri slayt tabanlı biçimlere nasıl dönüştüreceğinizi gösterir. Bu pratik kılavuzlar PDF, Word, Excel, resimler ve diğer biçimlerden PPT, PPTX, ODP ve daha fazlasına dönüştürmeyi kapsar. Görsel öğeleri koruma, mümkün olduğunda animasyonları sürdürme, slayt geçişlerini yönetme, konuşmacı notları oluşturma, gömülü medyayı yönetme ve dönüştürme sırasında slayt düzenlerini kontrol etme hakkında bilgi edinin. Her eğitim, izleyicilere sunulmak üzere tasarlanmış bir biçimde kaynak içeriği etkili bir şekilde temsil eden sunum belgeleri oluşturmak için ayrıntılı C# kod örnekleri içerir.

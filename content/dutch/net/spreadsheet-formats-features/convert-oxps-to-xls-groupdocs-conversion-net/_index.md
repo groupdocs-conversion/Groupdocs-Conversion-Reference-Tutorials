@@ -4,8 +4,8 @@
 "title": "Converteer OXPS naar XLS met GroupDocs.Conversion .NET&#58; een uitgebreide handleiding voor spreadsheetformaten en functies"
 "url": "/nl/net/spreadsheet-formats-features/convert-oxps-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer OXPS naar XLS met GroupDocs.Conversion .NET: een uitgebreide handleiding
 
 ## Invoering

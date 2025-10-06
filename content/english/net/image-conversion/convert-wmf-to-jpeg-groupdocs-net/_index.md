@@ -8,10 +8,8 @@ keywords:
 - WMF to JPEG Conversion
 - GroupDocs.Conversion for .NET
 - .NET Image Conversion
-
+type: docs
 ---
-
-
 # Efficient WMF to JPEG Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

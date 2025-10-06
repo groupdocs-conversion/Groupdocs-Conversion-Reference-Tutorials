@@ -4,8 +4,8 @@
 "title": "تتبع تقدم تحويل المستندات في Java باستخدام GroupDocs - دليل كامل"
 "url": "/ar/java/conversion-events-logging/java-groupdocs-conversion-progress-listener/"
 "weight": 1
+type: docs
 ---
-
 # تتبع تقدم تحويل المستندات في Java باستخدام GroupDocs: دليل كامل
 
 ## مقدمة

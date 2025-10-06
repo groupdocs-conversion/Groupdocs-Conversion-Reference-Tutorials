@@ -8,10 +8,8 @@ keywords:
 - DNG to PDF conversion
 - GroupDocs.Conversion .NET
 - .NET file conversion
-
+type: docs
 ---
-
-
 # Convert DNG Files to PDF Using GroupDocs.Conversion .NET: A Comprehensive Guide
 
 ## Introduction

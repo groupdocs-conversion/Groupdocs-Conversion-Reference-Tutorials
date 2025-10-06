@@ -4,8 +4,8 @@
 "title": "MPP konvertálása PDF-be a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/pdf-conversion/convert-mpp-files-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MPP fájlok konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

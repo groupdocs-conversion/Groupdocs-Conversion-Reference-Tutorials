@@ -4,8 +4,8 @@
 "title": "تحويل قوالب Word (.dotm) إلى PNG باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/image-conversion/convert-dotm-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل قوالب Word إلى صور PNG باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

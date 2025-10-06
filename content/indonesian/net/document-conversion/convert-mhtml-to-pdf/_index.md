@@ -5,8 +5,8 @@
 "title": "Konversi MHTML ke PDF"
 "url": "/id/net/document-conversion/convert-mhtml-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Konversi MHTML ke PDF
 
 ## Perkenalan

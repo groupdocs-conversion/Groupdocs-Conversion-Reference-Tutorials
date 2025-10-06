@@ -4,8 +4,8 @@
 "title": "تحويل جداول البيانات إلى ملفات PDF باستخدام GroupDocs.Conversion for Java - دليل شامل"
 "url": "/ar/java/spreadsheet-formats/convert-spreadsheets-to-pdfs-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # تحويل جداول البيانات إلى ملفات PDF باستخدام GroupDocs.Conversion for Java: دليل شامل
 
 ## مقدمة

@@ -4,8 +4,8 @@
 "title": "Maîtrisez la substitution de polices PDF dans .NET avec GroupDocs.Conversion – Un guide complet"
 "url": "/fr/net/font-handling-substitution/groupdocs-conversion-pdf-font-substitution-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Maîtrisez la substitution de polices PDF dans .NET avec GroupDocs.Conversion
 
 Il est essentiel de garantir une typographie cohérente lors de la conversion de documents. Ce guide complet explique comment utiliser GroupDocs.Conversion pour .NET afin de gérer efficacement les substitutions de polices lors de la conversion de documents au format PDF.

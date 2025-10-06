@@ -4,8 +4,8 @@
 "title": "Megjegyzések elrejtése Word-ből PDF-be konvertáláskor a GroupDocs.Conversion for Java használatával"
 "url": "/hu/java/pdf-conversion/hide-comments-word-pdf-conversion-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Megjegyzések elrejtése Word-ből PDF-be konvertáláskor a GroupDocs.Conversion for Java használatával
 
 mai gyors tempójú digitális világban a Word-dokumentumok PDF-be konvertálása rutinfeladat sok szakember számára. Ha azonban ezek a dokumentumok bizalmas megjegyzéseket vagy követett változtatásokat tartalmaznak, akkor érdemes lehet tiszta, jegyzetek nélküli PDF-eket használni. Ez az oktatóanyag bemutatja, hogyan használhatja a GroupDocs.Conversion for Java programot a megjegyzések zökkenőmentes elrejtéséhez a konvertálás során.

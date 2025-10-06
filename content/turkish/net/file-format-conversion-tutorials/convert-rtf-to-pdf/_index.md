@@ -5,8 +5,8 @@
 "title": "RTF'yi PDF'ye dönüştür"
 "url": "/tr/net/file-format-conversion-tutorials/convert-rtf-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # RTF'yi PDF'ye dönüştür
 
 ## giriiş

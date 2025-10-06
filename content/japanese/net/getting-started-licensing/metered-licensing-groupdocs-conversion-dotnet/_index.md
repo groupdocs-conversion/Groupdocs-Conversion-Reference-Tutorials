@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用した従量制ライセンスの実装 - 総合ガイド"
 "url": "/ja/net/getting-started-licensing/metered-licensing-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用した従量制ライセンスの実装
 
 ## 導入

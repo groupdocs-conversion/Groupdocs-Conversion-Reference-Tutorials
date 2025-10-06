@@ -5,8 +5,8 @@
 "title": "Convertir PS a PDF"
 "url": "/es/net/file-format-conversion-tutorials/convert-ps-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Convertir PS a PDF
 
 ## Introducción

@@ -4,8 +4,8 @@
 "title": "BMP konvertálása Excelbe a GroupDocs.Conversion .NET használatával táblázatkezelő konvertáláshoz"
 "url": "/hu/net/spreadsheet-conversion/convert-bmp-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # BMP fájlok konvertálása Excelbe a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

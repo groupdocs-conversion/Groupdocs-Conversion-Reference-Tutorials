@@ -8,10 +8,8 @@ keywords:
 - convert XLS to TEX
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # How to Convert XLS to TEX Using GroupDocs.Conversion for .NET
 
 **Effortlessly Transform Your Data: Convert XLS Files to TeX Format with GroupDocs.Conversion for .NET**

@@ -5,8 +5,8 @@
 "title": "تحويل POT إلى PDF"
 "url": "/ar/net/pdf-conversion/convert-pot-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # تحويل POT إلى PDF
 
 ## مقدمة

@@ -4,8 +4,8 @@
 "title": "Konvertera VSS till TXT med GroupDocs.Conversion .NET – En omfattande guide"
 "url": "/sv/net/text-file-processing/convert-vss-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera VSS till TXT med GroupDocs.Conversion .NET: En omfattande guide
 
 ## Introduktion

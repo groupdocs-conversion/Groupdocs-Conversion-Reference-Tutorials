@@ -4,8 +4,8 @@
 "title": "Konvertera EMF till XLSX med GroupDocs.Conversion för .NET – en komplett guide"
 "url": "/sv/net/spreadsheet-conversion/convert-emf-to-xlsx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera EMF till XLSX med GroupDocs.Conversion för .NET: En omfattande guide
 
 ## Introduktion

@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET을 위한 PDF 변환 및 기능 튜토리얼"
 "url": "/ko/net/pdf-conversion-features/"
 "weight": 9
+type: docs
 ---
-
 # GroupDocs.Conversion .NET을 위한 PDF 변환 및 기능 튜토리얼
 
 PDF 중심 튜토리얼은 .NET 애플리케이션에서 PDF 문서 작업에 대한 포괄적인 지침을 제공합니다. 이 실용적인 가이드는 다양한 형식을 PDF로 변환하고, PDF를 다른 형식으로 변환하고, 양식 필드를 병합하고, 주석을 숨기고, 포함된 파일을 제거하고, PDF 압축 설정을 최적화하고, PDF/A 호환성을 제어하고, 문서 권한을 관리하고, 변환 중 하이퍼링크를 유지하는 방법을 보여줍니다. 각 튜토리얼에는 PDF 변환 시나리오에 대한 완전한 C# 코드 예제가 포함되어 있어 문서의 충실도를 유지하면서 PDF 형식의 모든 기능을 활용하는 애플리케이션을 구축하는 데 도움이 됩니다.

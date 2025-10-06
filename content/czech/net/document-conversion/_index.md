@@ -5,8 +5,8 @@
 "title": "Konverze dokumentů"
 "url": "/cs/net/document-conversion/"
 "weight": 23
+type: docs
 ---
-
 # Konverze dokumentů
 
 ## Zavedení

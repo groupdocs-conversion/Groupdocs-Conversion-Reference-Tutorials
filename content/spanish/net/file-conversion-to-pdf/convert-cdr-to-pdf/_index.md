@@ -5,8 +5,8 @@
 "title": "Convertir gráficos vectoriales CDR a PDF"
 "url": "/es/net/file-conversion-to-pdf/convert-cdr-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # Convertir gráficos vectoriales CDR a PDF
 
 ## Introducción

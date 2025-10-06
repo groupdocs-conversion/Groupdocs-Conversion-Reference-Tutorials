@@ -4,8 +4,8 @@
 "title": "Převod šablon PowerPointu do HTML pomocí nástroje GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/html-conversion/convert-pot-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod šablon PowerPointu do HTML pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

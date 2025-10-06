@@ -4,8 +4,8 @@
 "title": "Jak převést GIFy do HTML pomocí GroupDocs.Conversion pro .NET – podrobný návod"
 "url": "/cs/net/web-markup-formats/convert-gif-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést GIFy do HTML pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

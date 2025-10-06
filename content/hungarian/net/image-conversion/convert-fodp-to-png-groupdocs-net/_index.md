@@ -4,8 +4,8 @@
 "title": "FODP fájlok konvertálása PNG formátumba a GroupDocs.Conversion for .NET használatával | Képkonverziós útmutató"
 "url": "/hu/net/image-conversion/convert-fodp-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # FODP fájlok konvertálása PNG formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

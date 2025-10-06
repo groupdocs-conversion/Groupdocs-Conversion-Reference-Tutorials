@@ -4,8 +4,8 @@
 "title": "DOCM konvertálása TXT-vé a GroupDocs.Conversion for .NET használatával | Egyszerűsített szövegfájl-feldolgozás"
 "url": "/hu/net/text-file-processing/convert-docm-to-txt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Makróbarát Microsoft Word dokumentum (DOCM) konvertálása egyszerű szöveggé (.txt) a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

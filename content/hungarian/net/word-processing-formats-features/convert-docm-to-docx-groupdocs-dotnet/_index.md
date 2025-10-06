@@ -4,8 +4,8 @@
 "title": "DOCM konvertálása DOCX-be a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/word-processing-formats-features/convert-docm-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # DOCM fájlok konvertálása DOCX formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

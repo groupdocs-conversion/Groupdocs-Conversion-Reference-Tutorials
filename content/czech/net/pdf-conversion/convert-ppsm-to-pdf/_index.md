@@ -5,8 +5,8 @@
 "title": "Převod PPSM do PDF"
 "url": "/cs/net/pdf-conversion/convert-ppsm-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Převod PPSM do PDF
 
 ## Zavedení

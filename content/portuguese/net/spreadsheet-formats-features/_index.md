@@ -3,8 +3,8 @@
 "title": "Tutoriais de formatos e recursos de planilhas para GroupDocs.Conversion .NET"
 "url": "/pt/net/spreadsheet-formats-features/"
 "weight": 11
+type: docs
 ---
-
 # Tutoriais de formatos e recursos de planilhas para GroupDocs.Conversion .NET
 
 Aprenda a lidar com documentos de planilhas com nossos tutoriais do GroupDocs.Conversion .NET. Estes guias detalhados demonstram como converter entre formatos Excel, CSV e outros tipos de planilhas, mostrar ou ocultar linhas de grade e comentários, pular linhas e colunas vazias, especificar intervalos e índices de planilhas para conversão, gerenciar planilhas ocultas, preservar fórmulas e funções, manter a formatação das células e controlar cadeias de cálculo durante a conversão. Cada tutorial inclui exemplos práticos de código C# que mostram como implementar conversões precisas em planilhas, preservando cálculos complexos e elementos visuais.

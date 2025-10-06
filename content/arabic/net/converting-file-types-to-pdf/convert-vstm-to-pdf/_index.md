@@ -5,8 +5,8 @@
 "title": "تحويل VSTM إلى PDF"
 "url": "/ar/net/converting-file-types-to-pdf/convert-vstm-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # تحويل VSTM إلى PDF
 
 ## مقدمة

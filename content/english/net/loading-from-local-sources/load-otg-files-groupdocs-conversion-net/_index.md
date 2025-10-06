@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion for .NET
 - load OTG files
 - .NET document conversion
-
+type: docs
 ---
-
-
 # Load and Convert OTG Files Using GroupDocs.Conversion for .NET: A Developer’s Guide
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - Convert EMLX to JPG
 - GroupDocs.Conversion for .NET
 - EMLX to Image conversion
-
+type: docs
 ---
-
-
 # Convert EMLX to JPG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

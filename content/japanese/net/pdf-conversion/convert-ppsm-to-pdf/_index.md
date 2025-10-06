@@ -5,8 +5,8 @@
 "title": "PPSMをPDFに変換する"
 "url": "/ja/net/pdf-conversion/convert-ppsm-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # PPSMをPDFに変換する
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "Chuyển đổi OTG sang DOC bằng GroupDocs.Conversion .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/word-processing-formats-features/convert-otg-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi OTG sang DOC bằng GroupDocs.Conversion .NET: Hướng dẫn từng bước
 
 ## Giới thiệu

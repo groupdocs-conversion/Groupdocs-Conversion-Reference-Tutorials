@@ -8,10 +8,8 @@ keywords:
 - convert JPEG 2000 to text
 - GroupDocs.Conversion .NET
 - J2K to TXT conversion
-
+type: docs
 ---
-
-
 # Convert JPEG 2000 (J2K) to TXT Efficiently Using GroupDocs.Conversion for .NET
 
 ## Introduction

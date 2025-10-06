@@ -4,8 +4,8 @@
 "title": "Μετατροπή PST σε PPTX χρησιμοποιώντας το GroupDocs.Conversion για .NET™ Ένας πλήρης οδηγός"
 "url": "/el/net/presentation-conversion/pst-pptx-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Mastering PST σε PPTX μετατροπή χρησιμοποιώντας GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

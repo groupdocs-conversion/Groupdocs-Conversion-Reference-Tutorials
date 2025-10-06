@@ -5,8 +5,8 @@
 "title": "تحويل الصور المضغوطة J2C JPEG-LS إلى PDF"
 "url": "/ar/net/convert-files-to-pdf/convert-j2c-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # تحويل الصور المضغوطة J2C JPEG-LS إلى PDF
 
 ## مقدمة

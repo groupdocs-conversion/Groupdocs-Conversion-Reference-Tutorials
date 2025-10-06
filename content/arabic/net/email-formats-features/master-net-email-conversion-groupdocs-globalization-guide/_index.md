@@ -4,8 +4,8 @@
 "title": "إتقان تحويل البريد الإلكتروني .NET باستخدام GroupDocs - دليل العولمة للمطورين"
 "url": "/ar/net/email-formats-features/master-net-email-conversion-groupdocs-globalization-guide/"
 "weight": 1
+type: docs
 ---
-
 # إتقان تحويل البريد الإلكتروني .NET باستخدام GroupDocs: دليل شامل للعولمة
 
 ## مقدمة

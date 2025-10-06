@@ -4,8 +4,8 @@
 "title": "Hoofddocumentconversie in .NET met GroupDocs.Conversion&#58; een uitgebreide handleiding"
 "url": "/nl/net/conversion-options-settings/mastering-document-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Documentconversie in .NET onder de knie krijgen met GroupDocs.Conversion
 
 ## Invoering

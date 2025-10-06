@@ -4,8 +4,8 @@
 "title": "DOTM konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/web-markup-formats/convert-dotm-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DOTM fájlok konvertálása HTML-re a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

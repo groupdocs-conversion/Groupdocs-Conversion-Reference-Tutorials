@@ -4,8 +4,8 @@
 "title": "Konwersja EML do PDF w .NET z przesunięciem strefy czasowej – kompleksowy przewodnik po korzystaniu z GroupDocs.Conversion"
 "url": "/pl/net/email-formats-features/convert-eml-pdf-net-timezone-offset-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja EML do PDF w .NET z przesunięciem strefy czasowej: kompleksowy przewodnik z wykorzystaniem GroupDocs.Conversion
 ## Wstęp
 Potrzebujesz niezawodnego sposobu na konwersję dokumentów e-mail (EML) do PDF przy jednoczesnym zachowaniu dokładnych informacji o strefie czasowej? Niezależnie od tego, czy chodzi o archiwizację, udostępnianie czy zgodność, ten samouczek przeprowadzi Cię przez korzystanie z potężnej biblioteki GroupDocs.Conversion for .NET. Dowiesz się, jak łatwo implementować zaawansowane funkcje, takie jak przesunięcia strefy czasowej.

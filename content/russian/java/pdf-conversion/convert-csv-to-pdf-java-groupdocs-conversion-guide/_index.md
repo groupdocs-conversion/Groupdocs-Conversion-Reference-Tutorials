@@ -4,8 +4,8 @@
 "title": "Преобразование CSV в PDF в Java&#58; пошаговое руководство с использованием GroupDocs.Conversion для Java"
 "url": "/ru/java/pdf-conversion/convert-csv-to-pdf-java-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Конвертация CSV в PDF в Java: пошаговое руководство с использованием GroupDocs.Conversion для Java
 
 ## Введение

@@ -4,8 +4,8 @@
 "title": "Avancerad text-till-PDF-konvertering med GroupDocs.Conversion Java &#58; Bevara formatering"
 "url": "/sv/java/pdf-conversion/groupdocs-conversion-java-text-to-pdf-advanced-formatting/"
 "weight": 1
+type: docs
 ---
-
 # Avancerad text-till-PDF-konvertering med GroupDocs.Conversion Java: Bevara formatering
 
 ## Introduktion

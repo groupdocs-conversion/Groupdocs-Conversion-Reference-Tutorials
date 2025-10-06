@@ -4,8 +4,8 @@
 "title": "FODS fájlok PPTX formátumba konvertálása a GroupDocs.Conversion .NET segítségével – Egyszerűsítse dokumentumkezelési munkafolyamatait"
 "url": "/hu/net/presentation-formats-features/convert-fods-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # FODS konvertálása PPTX-be a GroupDocs.Conversion .NET segítségével: Átfogó útmutató
 
 ## Bevezetés

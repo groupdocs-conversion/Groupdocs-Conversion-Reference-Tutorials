@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Efficient ODG to DOCX Conversion Using GroupDocs.Conversion .NET: A Step-by-Step Guide
 
 ## Introduction

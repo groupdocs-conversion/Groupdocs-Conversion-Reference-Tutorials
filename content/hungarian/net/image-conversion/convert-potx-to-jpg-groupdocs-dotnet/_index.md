@@ -4,8 +4,8 @@
 "title": "POTX konvertálása JPG-vé .NET-ben a GroupDocs.Conversion Library használatával"
 "url": "/hu/net/image-conversion/convert-potx-to-jpg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # POTX fájlok konvertálása JPG formátumba a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

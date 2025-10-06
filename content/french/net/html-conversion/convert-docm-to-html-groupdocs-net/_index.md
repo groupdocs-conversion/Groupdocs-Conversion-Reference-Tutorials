@@ -4,8 +4,8 @@
 "title": "Convertir un document DOCM en HTML à l'aide de GroupDocs.Conversion pour .NET - Un guide complet"
 "url": "/fr/net/html-conversion/convert-docm-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir un document DOCM en HTML avec GroupDocs.Conversion pour .NET : guide complet
 
 ## Introduction

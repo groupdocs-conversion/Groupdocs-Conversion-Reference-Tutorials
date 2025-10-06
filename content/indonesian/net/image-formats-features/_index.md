@@ -3,8 +3,8 @@
 "title": "Tutorial Format dan Fitur Gambar untuk GroupDocs.Conversion .NET"
 "url": "/id/net/image-formats-features/"
 "weight": 13
+type: docs
 ---
-
 # Tutorial Format dan Fitur Gambar untuk GroupDocs.Conversion .NET
 
 Jelajahi kemampuan pemrosesan gambar dengan tutorial GroupDocs.Conversion terperinci kami untuk pengembang .NET. Panduan langkah demi langkah ini menunjukkan cara mengonversi dokumen ke berbagai format gambar, menerapkan OCR untuk mengekstrak teks dari gambar, mengontrol resolusi dan kualitas gambar, mengelola kedalaman warna dan transparansi, menentukan opsi rendering untuk format vektor, mempertahankan metadata selama konversi gambar, dan memproses beberapa gambar secara batch. Setiap tutorial menyertakan contoh kode C# praktis untuk skenario konversi gambar, membantu Anda membangun aplikasi yang dapat secara efektif mengubah dokumen menjadi representasi visual atau mengekstrak konten dari format berbasis gambar.

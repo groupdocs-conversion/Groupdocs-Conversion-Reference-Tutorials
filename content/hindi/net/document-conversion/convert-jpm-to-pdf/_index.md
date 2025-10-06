@@ -5,8 +5,8 @@
 "title": "JPM को PDF में बदलें"
 "url": "/hi/net/document-conversion/convert-jpm-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # JPM को PDF में बदलें
 
 ## परिचय

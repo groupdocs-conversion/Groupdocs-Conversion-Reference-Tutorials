@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用して .NET で PDF から DOCX への変換をマスターする"
 "url": "/ja/net/word-processing-conversion/pdf-to-docx-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET で PDF から DOCX への変換をマスターしましょう
 
 ## 導入

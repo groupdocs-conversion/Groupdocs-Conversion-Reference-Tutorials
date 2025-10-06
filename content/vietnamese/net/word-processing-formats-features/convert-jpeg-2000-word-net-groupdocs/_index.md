@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi JPEG 2000 sang tài liệu Word bằng GroupDocs.Conversion .NET"
 "url": "/vi/net/word-processing-formats-features/convert-jpeg-2000-word-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi JPEG 2000 sang tài liệu Word bằng GroupDocs.Conversion .NET
 
 ## Giới thiệu

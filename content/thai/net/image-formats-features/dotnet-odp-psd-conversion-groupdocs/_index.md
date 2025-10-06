@@ -4,8 +4,8 @@
 "title": "การแปลง .NET ODP เป็น PSD&#58; การเรียนรู้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/image-formats-features/dotnet-odp-psd-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # การแปลง .NET ODP เป็น PSD: เรียนรู้การแปลง GroupDocs สำหรับ .NET
 
 ## การแนะนำ

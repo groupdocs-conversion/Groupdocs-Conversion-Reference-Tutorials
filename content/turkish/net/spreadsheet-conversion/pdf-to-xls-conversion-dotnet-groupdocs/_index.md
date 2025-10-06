@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Kullanarak PDF'yi .NET'te Excel'e Nasıl Dönüştürebilirsiniz"
 "url": "/tr/net/spreadsheet-conversion/pdf-to-xls-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Kullanarak PDF'yi .NET'te Excel'e Nasıl Dönüştürebilirsiniz
 
 Günümüzün dijital ortamında, belgeleri formatlar arasında verimli bir şekilde dönüştürmek hayati önem taşır. İster büyük veri kümelerini yöneten bir iş profesyoneli olun, ister süreçleri otomatikleştiren bir geliştirici olun, PDF'leri Excel dosyalarına dönüştürmek veri analizi ve raporlama görevlerini kolaylaştırabilir. Bu eğitim, sorunsuz PDF'den XLS'ye dönüştürmeler için GroupDocs.Conversion for .NET'i kullanma konusunda size rehberlik eder.

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET を使用した効率的な JPEG 2000 から TXT への変換"
 "url": "/ja/net/text-markup-conversion/jpeg-2000-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # ファイル変換をマスターする: GroupDocs.Conversion .NET を使用して JPEG 2000 (.j2c) をテキストファイルに変換する
 
 ## 導入

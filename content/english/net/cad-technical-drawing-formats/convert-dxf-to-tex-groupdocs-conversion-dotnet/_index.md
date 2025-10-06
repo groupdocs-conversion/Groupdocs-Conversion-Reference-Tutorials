@@ -8,10 +8,8 @@ keywords:
 - Convert DXF to TEX
 - GroupDocs.Conversion .NET
 - CAD File Conversion
-
+type: docs
 ---
-
-
 # Convert DXF Files to LaTeX (TEX) with GroupDocs.Conversion .NET
 
 ## Introduction

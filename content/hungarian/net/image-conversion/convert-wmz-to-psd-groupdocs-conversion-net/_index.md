@@ -4,8 +4,8 @@
 "title": "WMZ fájlok PSD formátumba konvertálása a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-wmz-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # WMZ fájlok PSD formátumba konvertálása a GroupDocs.Conversion for .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

@@ -5,8 +5,8 @@
 "title": "แปลง VST เป็น PDF"
 "url": "/th/net/converting-file-types-to-pdf/convert-vst-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # แปลง VST เป็น PDF
 
 ## การแนะนำ

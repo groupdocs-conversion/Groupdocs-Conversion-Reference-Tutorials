@@ -5,8 +5,8 @@
 "title": "將 CDR 向量圖形轉換為 PDF"
 "url": "/zh-hant/net/file-conversion-to-pdf/convert-cdr-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # 將 CDR 向量圖形轉換為 PDF
 
 ## 介紹

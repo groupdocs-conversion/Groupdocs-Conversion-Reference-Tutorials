@@ -4,8 +4,8 @@
 "title": "Adott oldalak PDF formátumba konvertálása a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/pdf-conversion-features/groupdocs-conversion-net-page-specific-pdf-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Adott oldalak PDF formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

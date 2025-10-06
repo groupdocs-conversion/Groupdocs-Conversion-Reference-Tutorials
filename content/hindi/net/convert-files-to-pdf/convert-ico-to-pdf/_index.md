@@ -5,8 +5,8 @@
 "title": "ICO आइकन को PDF में बदलें"
 "url": "/hi/net/convert-files-to-pdf/convert-ico-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # ICO आइकन को PDF में बदलें
 
 ## परिचय

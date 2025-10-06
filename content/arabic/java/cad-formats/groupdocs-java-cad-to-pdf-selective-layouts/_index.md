@@ -4,8 +4,8 @@
 "title": "تحويل تخطيطات CAD إلى PDF في Java باستخدام دليل تحويل التخطيط الانتقائي في GroupDocs"
 "url": "/ar/java/cad-formats/groupdocs-java-cad-to-pdf-selective-layouts/"
 "weight": 1
+type: docs
 ---
-
 # تحويل تخطيطات CAD إلى PDF باستخدام GroupDocs.Conversion لـ Java
 ## إتقان التحويل الانتقائي لملفات CAD إلى PDF في Java
 ### مقدمة

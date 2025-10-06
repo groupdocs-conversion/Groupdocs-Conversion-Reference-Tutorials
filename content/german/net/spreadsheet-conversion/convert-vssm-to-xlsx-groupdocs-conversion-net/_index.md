@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie VSSM effizient in XLSX mit GroupDocs.Conversion .NET für die Tabellenkalkulationskonvertierung"
 "url": "/de/net/spreadsheet-conversion/convert-vssm-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie VSSM in XLSX mit GroupDocs.Conversion .NET
 
 ## Einführung

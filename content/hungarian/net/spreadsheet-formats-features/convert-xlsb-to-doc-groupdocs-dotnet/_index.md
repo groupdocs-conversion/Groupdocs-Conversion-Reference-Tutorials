@@ -4,8 +4,8 @@
 "title": "XLSB DOC-ba konvertálása a GroupDocs.Conversion .NET használatával – Átfogó útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-xlsb-to-doc-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # XLSB DOC-ba konvertálása a GroupDocs.Conversion .NET használatával: Átfogó útmutató
 
 ## Bevezetés

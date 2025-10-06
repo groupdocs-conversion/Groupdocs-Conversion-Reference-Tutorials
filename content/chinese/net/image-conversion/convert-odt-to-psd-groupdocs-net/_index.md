@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将 ODT 转换为 PSD 综合指南"
 "url": "/zh/net/image-conversion/convert-odt-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将 ODT 转换为 PSD：综合指南
 
 ## 介绍

@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion ile VTX'i PDF'ye Dönüştürün | Kapsamlı Kılavuz"
 "url": "/tr/net/pdf-conversion/convert-vtx-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VTX'i .NET için GroupDocs.Conversion ile PDF'ye dönüştürün
 
 ## giriiş

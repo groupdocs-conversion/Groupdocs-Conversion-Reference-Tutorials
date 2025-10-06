@@ -5,8 +5,8 @@
 "title": "PPTX konvertálása PDF-be"
 "url": "/hu/net/pdf-conversion/convert-pptx-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # PPTX konvertálása PDF-be
 
 ## Bevezetés

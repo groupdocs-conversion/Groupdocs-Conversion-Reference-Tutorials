@@ -4,8 +4,8 @@
 "title": "إتقان تحويل الملفات في .NET باستخدام GroupDocs.Conversion - دليل المطور"
 "url": "/ar/net/conversion-utilities-information/mastering-file-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # إتقان تحويل الملفات في .NET باستخدام GroupDocs.Conversion: دليل المطور الشامل
 
 ## مقدمة

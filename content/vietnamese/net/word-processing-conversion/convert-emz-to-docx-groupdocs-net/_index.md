@@ -4,8 +4,8 @@
 "title": "Chuyển đổi EMZ sang DOCX với GroupDocs.Conversion cho .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/word-processing-conversion/convert-emz-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp EMZ sang DOCX bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

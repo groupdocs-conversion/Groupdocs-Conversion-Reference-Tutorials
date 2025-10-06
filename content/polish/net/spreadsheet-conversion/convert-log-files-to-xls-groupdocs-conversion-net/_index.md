@@ -4,8 +4,8 @@
 "title": "Konwersja plików LOG do XLS przy użyciu GroupDocs.Conversion dla .NET — przewodnik krok po kroku"
 "url": "/pl/net/spreadsheet-conversion/convert-log-files-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj pliki LOG do XLS za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

@@ -4,8 +4,8 @@
 "title": "VCF fájlok Excelbe konvertálása a GroupDocs.Conversion .NET használatával | Lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-vcf-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VCF fájlok Excelbe konvertálása a GroupDocs.Conversion .NET használatával | Lépésről lépésre útmutató
 
 ## Bevezetés

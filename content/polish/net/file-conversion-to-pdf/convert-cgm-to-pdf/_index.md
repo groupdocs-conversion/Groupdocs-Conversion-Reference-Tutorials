@@ -5,8 +5,8 @@
 "title": "Konwertuj grafikę wektorową CGM do formatu PDF"
 "url": "/pl/net/file-conversion-to-pdf/convert-cgm-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # Konwertuj grafikę wektorową CGM do formatu PDF
 
 ## Wstęp

@@ -8,10 +8,8 @@ keywords:
 - convert J2C to PPTX
 - GroupDocs.Conversion for .NET
 - J2C file conversion
-
+type: docs
 ---
-
-
 # Convert J2C to PPTX Using GroupDocs.Conversion for .NET
 
 ## Introduction

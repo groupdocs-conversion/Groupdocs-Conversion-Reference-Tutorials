@@ -8,10 +8,8 @@ keywords:
 - convert MHTML to text
 - MHTML to TXT conversion in C#
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # How to Convert MHTML to Text in C# Using GroupDocs.Conversion for .NET
 
 ## Introduction

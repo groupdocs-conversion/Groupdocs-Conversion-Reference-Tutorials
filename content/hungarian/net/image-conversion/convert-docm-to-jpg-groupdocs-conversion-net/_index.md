@@ -4,8 +4,8 @@
 "title": "DOCM JPG-vé konvertálása – Végső útmutató a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/convert-docm-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DOCM konvertálása JPG-vé: Végső útmutató a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

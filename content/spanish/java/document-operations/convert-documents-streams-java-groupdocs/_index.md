@@ -4,8 +4,8 @@
 "title": "Convertir documentos desde secuencias en Java usando GroupDocs.Conversion"
 "url": "/es/java/document-operations/convert-documents-streams-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Convertir documentos desde secuencias en Java usando GroupDocs.Conversion
 
 ## Introducción

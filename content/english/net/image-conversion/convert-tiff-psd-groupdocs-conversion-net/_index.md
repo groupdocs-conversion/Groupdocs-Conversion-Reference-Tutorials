@@ -8,10 +8,8 @@ keywords:
 - convert TIFF to PSD
 - GroupDocs.Conversion for .NET
 - TIFF to PSD conversion
-
+type: docs
 ---
-
-
 # How to Convert TIFF to PSD Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

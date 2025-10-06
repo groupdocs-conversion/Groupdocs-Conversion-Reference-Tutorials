@@ -4,8 +4,8 @@
 "title": "แปลง DOCX เป็น DOC โดยใช้ GroupDocs.Conversion ใน .NET คำแนะนำฉบับสมบูรณ์"
 "url": "/th/net/word-processing-formats-features/convert-docx-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลง DOCX เป็น DOC ด้วย GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

@@ -4,8 +4,8 @@
 "title": "Guía completa&#58; Convertir Markdown a PNG con GroupDocs.Conversion para .NET"
 "url": "/es/net/image-conversion/convert-markdown-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Guía completa: Convertir Markdown a PNG con GroupDocs.Conversion para .NET
 
 ## Introducción

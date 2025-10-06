@@ -4,8 +4,8 @@
 "title": "Beheers de conversie van .NET-e-mailbijlagen met GroupDocs.Conversion Library&#58; een uitgebreide handleiding"
 "url": "/nl/net/email-formats-features/net-email-attachment-conversion-groupdocs-guide/"
 "weight": 1
+type: docs
 ---
-
 # Beheers de conversie van .NET-e-mailbijlagen met de GroupDocs.Conversion-bibliotheek
 
 ## Invoering

@@ -4,8 +4,8 @@
 "title": "Převod XLTX do DOCX pomocí GroupDocs pro .NET – Komplexní průvodce"
 "url": "/cs/net/word-processing-conversion/convert-xltx-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod XLTX do DOCX pomocí GroupDocs pro .NET: Komplexní průvodce
 ## Zavedení
 Převod souboru šablony Excel Open XML (XLTX) do dokumentu Microsoft Word (DOCX) lze bez problémů provést pomocí knihovny GroupDocs.Conversion pro .NET. Tento výkonný nástroj zjednodušuje procesy převodu dokumentů a umožňuje efektivní transformace mezi různými formáty.

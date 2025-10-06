@@ -4,8 +4,8 @@
 "title": "Konvertera effektivt DNG till HTML med GroupDocs.Conversion för .NET"
 "url": "/sv/net/web-markup-formats/convert-dng-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera effektivt DNG till HTML med GroupDocs.Conversion för .NET
 
 ## Introduktion

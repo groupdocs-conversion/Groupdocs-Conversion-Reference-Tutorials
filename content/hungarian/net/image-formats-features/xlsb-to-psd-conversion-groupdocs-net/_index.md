@@ -4,8 +4,8 @@
 "title": "Hatékony XLSB-ből PSD-be konvertálás .NET-ben a GroupDocs.Conversion API használatával"
 "url": "/hu/net/image-formats-features/xlsb-to-psd-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony XLSB-ből PSD-be konvertálás .NET-ben a GroupDocs.Conversion API használatával
 
 ## Bevezetés

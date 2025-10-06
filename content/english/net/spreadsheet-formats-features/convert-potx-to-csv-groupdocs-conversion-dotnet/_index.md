@@ -8,10 +8,8 @@ keywords:
 - convert potx to csv
 - GroupDocs.Conversion for .NET
 - POTX file conversion
-
+type: docs
 ---
-
-
 # Convert POTX Files to CSV Using GroupDocs.Conversion for .NET
 
 ## Introduction

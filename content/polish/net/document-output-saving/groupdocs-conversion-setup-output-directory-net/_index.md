@@ -4,8 +4,8 @@
 "title": "Jak skonfigurować ścieżkę katalogu wyjściowego za pomocą GroupDocs.Conversion dla .NET"
 "url": "/pl/net/document-output-saving/groupdocs-conversion-setup-output-directory-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak skonfigurować ścieżkę katalogu wyjściowego za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

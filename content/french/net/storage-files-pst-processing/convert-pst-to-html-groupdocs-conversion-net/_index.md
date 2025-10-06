@@ -4,8 +4,8 @@
 "title": "Convertir des fichiers PST en HTML à l'aide de GroupDocs.Conversion .NET - Guide étape par étape"
 "url": "/fr/net/storage-files-pst-processing/convert-pst-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des fichiers PST en HTML avec GroupDocs.Conversion .NET : guide étape par étape
 
 ## Introduction

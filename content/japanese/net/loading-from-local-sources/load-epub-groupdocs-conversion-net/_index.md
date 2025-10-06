@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して EPUB ファイルを読み込む方法 - ステップバイステップガイド"
 "url": "/ja/net/loading-from-local-sources/load-epub-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して EPUB ファイルを読み込む方法: 包括的なガイド
 
 ## 導入

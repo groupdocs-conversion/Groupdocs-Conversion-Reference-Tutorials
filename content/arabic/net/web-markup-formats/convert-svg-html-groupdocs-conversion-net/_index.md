@@ -4,8 +4,8 @@
 "title": "تحويل SVG إلى HTML بكفاءة باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/web-markup-formats/convert-svg-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل SVG إلى HTML بكفاءة باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

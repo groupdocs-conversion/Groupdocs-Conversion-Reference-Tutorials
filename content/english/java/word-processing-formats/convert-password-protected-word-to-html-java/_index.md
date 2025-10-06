@@ -8,10 +8,8 @@ keywords:
 - convert password-protected Word to HTML
 - Java document conversion
 - GroupDocs.Conversion for Java
-
+type: docs
 ---
-
-
 # How to Convert Password-Protected Word Documents to HTML Using Java
 
 ## Introduction

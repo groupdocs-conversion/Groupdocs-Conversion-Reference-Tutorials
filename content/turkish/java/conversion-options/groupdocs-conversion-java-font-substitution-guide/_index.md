@@ -4,8 +4,8 @@
 "title": "Java&#58;da Font Değiştirme&#58; Tutarlı PDF Çıktısı için Mastering GroupDocs.Conversion"
 "url": "/tr/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/"
 "weight": 1
+type: docs
 ---
-
 # Java için GroupDocs.Conversion ile Font Değiştirmeyi Ustalaştırma
 
 ## giriiş

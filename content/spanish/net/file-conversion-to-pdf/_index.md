@@ -5,8 +5,8 @@
 "title": "Conversión de archivos a PDF"
 "url": "/es/net/file-conversion-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Conversión de archivos a PDF
 
 ## Introducción:

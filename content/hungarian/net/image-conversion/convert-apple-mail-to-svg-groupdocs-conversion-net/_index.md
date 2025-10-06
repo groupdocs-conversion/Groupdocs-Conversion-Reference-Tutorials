@@ -4,8 +4,8 @@
 "title": "Apple Mail üzenetek konvertálása SVG formátumba a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-apple-mail-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Apple Mail üzenetek konvertálása SVG formátumba a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

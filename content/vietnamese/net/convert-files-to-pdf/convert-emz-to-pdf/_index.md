@@ -5,8 +5,8 @@
 "title": "Chuyển đổi tệp Metafile EMZ Enhanced sang PDF"
 "url": "/vi/net/convert-files-to-pdf/convert-emz-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # Chuyển đổi tệp Metafile EMZ Enhanced sang PDF
 
 ## Giới thiệu

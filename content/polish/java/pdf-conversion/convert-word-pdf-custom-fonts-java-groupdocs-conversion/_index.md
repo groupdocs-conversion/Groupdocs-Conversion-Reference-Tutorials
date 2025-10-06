@@ -4,8 +4,8 @@
 "title": "Konwersja Worda do PDF z niestandardowymi czcionkami w Java – kompletny przewodnik z wykorzystaniem GroupDocs.Conversion"
 "url": "/pl/java/pdf-conversion/convert-word-pdf-custom-fonts-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj dokumenty Word do PDF z niestandardowymi czcionkami w Java: kompletny przewodnik z wykorzystaniem GroupDocs.Conversion
 
 ## Wstęp

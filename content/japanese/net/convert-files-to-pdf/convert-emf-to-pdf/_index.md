@@ -5,8 +5,8 @@
 "title": "EMF WindowsメタファイルをPDFに変換する"
 "url": "/ja/net/convert-files-to-pdf/convert-emf-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # EMF WindowsメタファイルをPDFに変換する
 
 ## 導入

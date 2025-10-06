@@ -4,8 +4,8 @@
 "title": "Meningkatkan Kinerja Aplikasi .NET&#58; Menerapkan Cache Redis Kustom dengan GroupDocs.Conversion"
 "url": "/id/net/cache-management/boost-net-app-performance-custom-redis-cache-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Tingkatkan Performa Aplikasi .NET Anda dengan Redis Caching Kustom Menggunakan GroupDocs.Conversion
 
 ## Perkenalan

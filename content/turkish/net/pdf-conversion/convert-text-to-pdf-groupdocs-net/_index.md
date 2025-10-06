@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Kullanarak .NET'te Metni PDF'ye Dönüştürme - Kapsamlı Bir Kılavuz"
 "url": "/tr/net/pdf-conversion/convert-text-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak Metnin PDF'ye Nasıl Dönüştürüleceği
 
 ## giriiş

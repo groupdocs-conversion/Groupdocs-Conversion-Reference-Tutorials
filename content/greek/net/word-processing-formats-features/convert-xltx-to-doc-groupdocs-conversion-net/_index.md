@@ -4,8 +4,8 @@
 "title": "Μετατροπή προτύπου Excel (.xltx) σε έγγραφο Word (DOC) χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/word-processing-formats-features/convert-xltx-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή προτύπου Excel (.xltx) σε έγγραφο Word (DOC) χρησιμοποιώντας το GroupDocs.Conversion για .NET
 ## Εισαγωγή
 Καλώς ορίσατε σε αυτόν τον ολοκληρωμένο οδηγό για τη μετατροπή ενός αρχείου προτύπου Excel (.xltx) σε μορφή εγγράφου Word (DOC) χρησιμοποιώντας την ισχυρή βιβλιοθήκη GroupDocs.Conversion για .NET. Αυτή η λύση είναι απαραίτητη στις ροές εργασίας διαχείρισης εγγράφων, επιτρέποντας την απρόσκοπτη ενσωμάτωση προτύπων πλούσιων σε δεδομένα με έγγραφα που βασίζονται σε κείμενο.

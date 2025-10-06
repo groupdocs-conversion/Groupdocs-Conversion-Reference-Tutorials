@@ -4,8 +4,8 @@
 "title": "マスターファイル変換&#58; GroupDocs.Conversion .NET を使用して POTX を DOCX に変換します"
 "url": "/ja/net/word-processing-formats-features/convert-potx-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # ファイル変換をマスターする: GroupDocs.Conversion .NET で POTX を DOCX に変換する
 
 今日のめまぐるしく変化するデジタル世界では、ファイルをある形式から別の形式にシームレスに変換することが不可欠です。プレゼンテーション資料の作成や、異なるプラットフォーム間でのドキュメントの共有など、互換性を確保することで時間と手間を節約できます。このチュートリアルでは、強力なGroupDocs.Conversion .NETライブラリを使用して、POTX（PowerPointテンプレート）ファイルをDOCX形式に変換する方法を説明します。ファイル変換タスクを効率的に、そして簡単に処理する方法を習得できます。

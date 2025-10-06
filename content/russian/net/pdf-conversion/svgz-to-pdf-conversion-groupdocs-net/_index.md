@@ -4,8 +4,8 @@
 "title": "Конвертируйте SVGZ в PDF с помощью GroupDocs.Conversion for .NET&#58; Подробное руководство"
 "url": "/ru/net/pdf-conversion/svgz-to-pdf-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте SVGZ в PDF с помощью GroupDocs.Conversion для .NET: подробное руководство
 
 ## Введение

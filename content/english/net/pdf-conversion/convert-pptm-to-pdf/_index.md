@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Effortlessly convert PPTM files to PDF format using GroupDocs.Conversion for .NET. Streamline document management workflows with ease.
 weight: 27
 url: /net/pdf-conversion/convert-pptm-to-pdf/
+type: docs
 ---
-
 # Convert PPTM to PDF
 
 ## Introduction

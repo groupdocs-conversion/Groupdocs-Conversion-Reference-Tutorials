@@ -4,8 +4,8 @@
 "title": "Menerapkan Lisensi Terukur untuk GroupDocs.Conversion di Java; Panduan Lengkap"
 "url": "/id/java/getting-started/implement-metered-license-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Menerapkan Lisensi Terukur untuk GroupDocs.Conversion di Java
 
 ## Perkenalan

@@ -4,8 +4,8 @@
 "title": "PST fájlok hatékony konvertálása PSD-vé a GroupDocs.Conversion .NET használatával – fejlesztői útmutató"
 "url": "/hu/net/storage-files-pst-processing/convert-pst-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékonyan konvertáljon PST-t PSD-vé a GroupDocs.Conversion .NET segítségével
 
 ## Bevezetés

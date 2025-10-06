@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Java Geliştiricileri için Başlarken Eğitimleri"
 "url": "/tr/java/getting-started/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Java Geliştiricileri için Başlarken Eğitimleri
 
 Yolculuğunuza, kurulum, lisans yapılandırması ve Java'da ilk belge dönüşümlerinizi gerçekleştirme konusunda size yol gösteren bu temel GroupDocs.Conversion eğitimleriyle başlayın. Başlangıç seviyesindekilere uygun kılavuzlarımız, geliştirme ortamınızı nasıl kuracağınızı, GroupDocs.Conversion kitaplığını nasıl başlatacağınızı ve temel dönüşüm işlemlerini nasıl gerçekleştireceğinizi gösterir. Temel konularda hızla ustalaşmak ve Java uygulamalarınızda daha gelişmiş belge dönüşüm görevlerine hazırlanmak için bu eğitimleri izleyin.

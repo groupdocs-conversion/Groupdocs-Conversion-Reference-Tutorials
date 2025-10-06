@@ -8,10 +8,8 @@ keywords:
 - PostScript to PNG conversion
 - GroupDocs.Conversion for .NET
 - document conversion tutorial
-
+type: docs
 ---
-
-
 # Convert PS to PNG Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

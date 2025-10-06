@@ -4,8 +4,8 @@
 "title": "PPTM konvertálása CSV-vé a GroupDocs.Conversion for .NET használatával | Lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-pptm-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PPTM konvertálása CSV-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

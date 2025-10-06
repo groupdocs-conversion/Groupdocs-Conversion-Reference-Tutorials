@@ -4,8 +4,8 @@
 "title": "Как конвертировать файлы ODT в PNG с помощью GroupDocs.Conversion для .NET (Руководство по конвертации изображений)"
 "url": "/ru/net/image-conversion/convert-odt-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Как конвертировать файлы ODT в PNG с помощью GroupDocs.Conversion для .NET
 
 ## Введение

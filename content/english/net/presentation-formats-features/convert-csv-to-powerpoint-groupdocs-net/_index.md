@@ -8,10 +8,8 @@ keywords:
 - Convert CSV to PowerPoint
 - GroupDocs.Conversion for .NET
 - CSV file to PowerPoint
-
+type: docs
 ---
-
-
 # Master GroupDocs.Conversion for .NET: Convert CSV to PowerPoint in C#
 
 ## Introduction

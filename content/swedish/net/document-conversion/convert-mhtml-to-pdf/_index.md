@@ -5,8 +5,8 @@
 "title": "Konvertera MHTML till PDF"
 "url": "/sv/net/document-conversion/convert-mhtml-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Konvertera MHTML till PDF
 
 ## Introduktion

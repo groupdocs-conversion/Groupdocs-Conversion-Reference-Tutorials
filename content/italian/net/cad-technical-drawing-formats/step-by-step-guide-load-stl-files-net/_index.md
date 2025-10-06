@@ -4,8 +4,8 @@
 "title": "Guida passo passo&#58; caricare e convertire file STL utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/cad-technical-drawing-formats/step-by-step-guide-load-stl-files-net/"
 "weight": 1
+type: docs
 ---
-
 # Guida passo passo: caricamento e conversione di file STL con .NET
 
 ## Introduzione

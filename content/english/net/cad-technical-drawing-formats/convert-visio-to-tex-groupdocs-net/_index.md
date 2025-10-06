@@ -8,10 +8,8 @@ keywords:
 - Convert Visio to TeX
 - GroupDocs.Conversion for .NET
 - VSD to TEX conversion
-
+type: docs
 ---
-
-
 # Convert Visio Files to TeX with GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

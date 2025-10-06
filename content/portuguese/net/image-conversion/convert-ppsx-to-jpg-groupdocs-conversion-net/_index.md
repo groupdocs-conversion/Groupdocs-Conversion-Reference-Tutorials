@@ -4,8 +4,8 @@
 "title": "Converta PPSX para JPG com eficiência usando GroupDocs.Conversion .NET - Um guia passo a passo"
 "url": "/pt/net/image-conversion/convert-ppsx-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converta PPSX para JPG com eficiência usando o GroupDocs.Conversion .NET: um guia passo a passo
 
 ## Introdução

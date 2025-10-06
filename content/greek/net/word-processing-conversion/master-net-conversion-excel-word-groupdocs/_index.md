@@ -4,8 +4,8 @@
 "title": "Μετατροπή εγγράφων Master .NET από το Excel σε Word χρησιμοποιώντας το GroupDocs.Conversion"
 "url": "/el/net/word-processing-conversion/master-net-conversion-excel-word-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή Κύριων Εγγράφων .NET: Excel σε Word χρησιμοποιώντας το GroupDocs.Conversion
 
 ## Εισαγωγή

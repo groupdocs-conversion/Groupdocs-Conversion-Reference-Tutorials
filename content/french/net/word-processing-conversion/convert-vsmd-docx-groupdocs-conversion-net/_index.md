@@ -4,8 +4,8 @@
 "title": "Convertir VSDM en DOCX avec GroupDocs.Conversion pour .NET &#58; un guide étape par étape"
 "url": "/fr/net/word-processing-conversion/convert-vsmd-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir VSDM en DOCX avec GroupDocs.Conversion pour .NET : guide étape par étape
 
 ## Introduction

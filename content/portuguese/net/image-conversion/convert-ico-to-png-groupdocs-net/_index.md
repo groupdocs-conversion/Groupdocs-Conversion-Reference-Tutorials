@@ -4,8 +4,8 @@
 "title": "Converta ICO para PNG no .NET usando o GroupDocs - Um guia passo a passo"
 "url": "/pt/net/image-conversion/convert-ico-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converter ICO para PNG no .NET usando o GroupDocs: um guia passo a passo
 
 ## Introdução

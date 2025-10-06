@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 将 ODS 转换为 XLSX 综合指南"
 "url": "/zh/net/spreadsheet-conversion/groupdocs-conversion-ods-to-xlsx-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 将 ODS 转换为 XLSX：综合指南
 
 在当今数据驱动的环境中，无缝文件转换至关重要。对于使用电子表格的开发人员和业务专业人员来说，将开放文档电子表格 (ODS) 转换为 Microsoft Excel 开放 XML 电子表格 (XLSX) 可以显著提高工作效率。本指南将指导您使用 GroupDocs.Conversion for .NET 轻松完成此转换。

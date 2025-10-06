@@ -4,8 +4,8 @@
 "title": "Jak konwertować dokumenty Word chronione hasłem do arkuszy kalkulacyjnych Excel przy użyciu GroupDocs.Conversion dla Java"
 "url": "/pl/java/spreadsheet-formats/convert-password-docs-to-spreadsheets-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Jak konwertować dokumenty chronione hasłem za pomocą GroupDocs.Conversion dla Java
 
 ## Wstęp

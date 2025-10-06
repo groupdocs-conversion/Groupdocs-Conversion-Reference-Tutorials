@@ -4,8 +4,8 @@
 "title": "Efektywna konwersja szablonów programu PowerPoint do formatu JPEG w środowisku .NET przy użyciu narzędzia GroupDocs.Conversion"
 "url": "/pl/net/image-conversion/convert-powerpoint-to-jpeg-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Efektywna konwersja szablonów programu PowerPoint do formatu JPEG w środowisku .NET przy użyciu GroupDocs.Conversion
 
 ## Wstęp

@@ -5,8 +5,8 @@
 "title": "Konversi Gambar Medis DICOM ke PDF"
 "url": "/id/net/file-conversion-to-pdf/convert-dicom-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # Konversi Gambar Medis DICOM ke PDF
 
 ## Perkenalan

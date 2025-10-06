@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Convert EMF Windows Metafiles to PDF effortlessly using GroupDocs.Conversion for .NET. Easily integrate and customize conversion options.
 weight: 13
 url: /net/convert-files-to-pdf/convert-emf-to-pdf/
+type: docs
 ---
-
 # Convert EMF Windows Metafiles to PDF
 
 ## Introduction

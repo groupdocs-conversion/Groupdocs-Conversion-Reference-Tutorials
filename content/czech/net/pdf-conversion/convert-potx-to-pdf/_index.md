@@ -5,8 +5,8 @@
 "title": "Převod POTX do PDF"
 "url": "/cs/net/pdf-conversion/convert-potx-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # Převod POTX do PDF
 
 ## Zavedení

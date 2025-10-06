@@ -5,8 +5,8 @@
 "title": "FODS OpenDocument スプレッドシートを PDF に変換する"
 "url": "/ja/net/convert-files-to-pdf/convert-fods-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # FODS OpenDocument スプレッドシートを PDF に変換する
 
 ## 導入

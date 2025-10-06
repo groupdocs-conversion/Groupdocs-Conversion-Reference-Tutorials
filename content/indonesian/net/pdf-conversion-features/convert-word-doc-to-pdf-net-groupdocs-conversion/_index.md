@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi Dokumen Word ke PDF dalam .NET menggunakan GroupDocs.Conversion"
 "url": "/id/net/pdf-conversion-features/convert-word-doc-to-pdf-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi Dokumen Word ke PDF dalam .NET menggunakan GroupDocs.Conversion
 
 ## Perkenalan

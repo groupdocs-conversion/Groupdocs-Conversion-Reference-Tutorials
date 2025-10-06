@@ -4,8 +4,8 @@
 "title": "POT fájlok PSD formátumba konvertálása a GroupDocs.Conversion .NET használatával | Képkonverziós útmutató"
 "url": "/hu/net/image-conversion/groupdocs-conversion-net-pot-psd/"
 "weight": 1
+type: docs
 ---
-
 # POT fájlok konvertálása PSD-vé a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

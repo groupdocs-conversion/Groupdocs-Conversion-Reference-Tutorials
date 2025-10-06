@@ -5,8 +5,8 @@
 "title": "تحويل OTS إلى PDF"
 "url": "/ar/net/pdf-conversion/convert-ots-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # تحويل OTS إلى PDF
 
 ## مقدمة

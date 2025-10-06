@@ -4,8 +4,8 @@
 "title": ".NET का उपयोग करके ग्रुपडॉक्स के नियंत्रण अनुगामी स्थानों के साथ TXT को PDF में बदलें"
 "url": "/hi/net/pdf-conversion/convert-txt-to-pdf-groupdocs-trailing-spaces-control/"
 "weight": 1
+type: docs
 ---
-
 # ग्रुपडॉक्स के साथ TXT को PDF में बदलें: .NET का उपयोग करके अनुगामी स्थानों को नियंत्रित करें
 
 ## परिचय

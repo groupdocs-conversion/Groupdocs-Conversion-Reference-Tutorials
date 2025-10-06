@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET Kullanarak MHTML'yi Excel'e Dönüştürme - Elektronik Tablo Dönüştürme İçin Kapsamlı Bir Kılavuz"
 "url": "/tr/net/spreadsheet-conversion/convert-mhtml-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET Kullanarak MHTML'yi Excel'e Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion을 사용하여 Java로 Redis 캐시를 구현하여 성능 향상"
 "url": "/ko/java/cache-management/redis-cache-java-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용하여 Java로 Redis 캐시 구현: 종합 가이드
 Redis는 데이터베이스, 캐시 및 메시지 브로커 역할을 하는 강력한 오픈소스 인메모리 데이터 구조 저장소입니다. Redis를 Java 애플리케이션과 통합하면 자주 액세스하는 데이터를 메모리에 저장하여 성능을 크게 향상시킬 수 있습니다. 이 튜토리얼에서는 Java용 GroupDocs.Conversion 라이브러리를 사용하여 Redis 캐시를 구현하고 Aspose 라이브러리의 고급 기능을 활용하여 문서 변환 작업을 간소화하는 방법을 안내합니다.
 

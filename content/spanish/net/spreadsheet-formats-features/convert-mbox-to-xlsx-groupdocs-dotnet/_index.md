@@ -4,8 +4,8 @@
 "title": "Convierta MBOX a XLSX de forma eficiente con GroupDocs.Conversion en .NET para un mejor análisis de datos de correo electrónico"
 "url": "/es/net/spreadsheet-formats-features/convert-mbox-to-xlsx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertir MBOX a XLSX usando GroupDocs.Conversion en .NET
 ## Introducción
 Gestionar los datos de correo electrónico almacenados en archivos MBOX puede ser complicado, especialmente cuando se necesita una forma simplificada de convertirlos a un formato compatible con Excel, como XLSX, para un mejor análisis e informes. Este tutorial le guía en el uso de GroupDocs.Conversion para .NET para transformar eficientemente archivos MBOX en documentos XLSX, simplificando así la gestión de sus datos de correo electrónico.

@@ -8,10 +8,8 @@ keywords:
 - convert PDF to PSD Java
 - GroupDocs.Conversion setup
 - PDF conversion to image
-
+type: docs
 ---
-
-
 # Convert PDF to PSD Using GroupDocs.Conversion for Java
 
 ## Introduction

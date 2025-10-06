@@ -4,8 +4,8 @@
 "title": "CGM fájlok PPTX formátumba konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/presentation-formats-features/convert-cgm-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató: CGM fájlok konvertálása PPTX formátumba a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

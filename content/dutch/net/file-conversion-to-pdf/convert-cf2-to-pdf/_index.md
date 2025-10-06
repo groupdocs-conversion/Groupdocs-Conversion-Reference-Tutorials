@@ -5,8 +5,8 @@
 "title": "CF2 naar PDF converteren"
 "url": "/nl/net/file-conversion-to-pdf/convert-cf2-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # CF2 naar PDF converteren
 
 ## Invoering

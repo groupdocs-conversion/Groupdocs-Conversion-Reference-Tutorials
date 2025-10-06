@@ -4,8 +4,8 @@
 "title": "Μετατρέψτε MPT σε XLSX εύκολα με το GroupDocs.Conversion για .NET - Πλήρης οδηγός"
 "url": "/el/net/spreadsheet-conversion/convert-mpt-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή αρχείων MPT σε XLSX χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

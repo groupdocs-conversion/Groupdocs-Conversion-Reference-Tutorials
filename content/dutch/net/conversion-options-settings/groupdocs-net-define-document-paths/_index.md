@@ -4,8 +4,8 @@
 "title": "Efficiënt documentpadbeheer in .NET met GroupDocs.Conversion&#58; constanten definiëren voor naadloze conversies"
 "url": "/nl/net/conversion-options-settings/groupdocs-net-define-document-paths/"
 "weight": 1
+type: docs
 ---
-
 # Efficiënt documentpadbeheer in .NET met GroupDocs.Conversion
 
 ## Invoering

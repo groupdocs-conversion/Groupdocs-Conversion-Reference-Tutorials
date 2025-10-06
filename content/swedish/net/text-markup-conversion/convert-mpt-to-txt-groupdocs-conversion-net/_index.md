@@ -4,8 +4,8 @@
 "title": "Konvertera MPT- till TXT-filer med hjälp av GroupDocs.Conversion för .NET steg-för-steg-guide"
 "url": "/sv/net/text-markup-conversion/convert-mpt-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar MPT-filer till TXT med GroupDocs.Conversion för .NET
 
 ## Introduktion

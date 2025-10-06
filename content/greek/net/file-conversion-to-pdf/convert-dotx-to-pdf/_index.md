@@ -5,8 +5,8 @@
 "title": "Μετατροπή προτύπων DOTX Word σε PDF"
 "url": "/el/net/file-conversion-to-pdf/convert-dotx-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # Μετατροπή προτύπων DOTX Word σε PDF
 
 ## Εισαγωγή

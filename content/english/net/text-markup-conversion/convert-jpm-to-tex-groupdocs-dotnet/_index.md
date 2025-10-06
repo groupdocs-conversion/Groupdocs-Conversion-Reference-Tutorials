@@ -8,10 +8,8 @@ keywords:
 - convert JPM to TEX
 - GroupDocs.Conversion .NET
 - JPM to LaTeX conversion
-
+type: docs
 ---
-
-
 # Convert JPM to TEX Using GroupDocs.Conversion .NET: A Comprehensive Guide
 
 ## Introduction

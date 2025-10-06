@@ -5,8 +5,8 @@
 "title": "Converteer PPT naar PDF"
 "url": "/nl/net/pdf-conversion/convert-ppt-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # Converteer PPT naar PDF
 
 ## Invoering

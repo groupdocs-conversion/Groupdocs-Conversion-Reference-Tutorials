@@ -5,8 +5,8 @@
 "title": "PSD को PDF में बदलें"
 "url": "/hi/net/file-format-conversion-tutorials/convert-psd-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # PSD को PDF में बदलें
 
 ## परिचय

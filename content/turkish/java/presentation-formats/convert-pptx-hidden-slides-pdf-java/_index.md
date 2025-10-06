@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion'ı Kullanarak Java'da Gizli Slaytlı PPTX'i PDF'ye Verimli Şekilde Dönüştürün"
 "url": "/tr/java/presentation-formats/convert-pptx-hidden-slides-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion'ı Kullanarak Java'da Gizli Slaytlı PPTX'i Zahmetsizce PDF'ye Dönüştürün
 
 Dijital çağda, sunum belgelerini PDF gibi evrensel olarak erişilebilir biçimlere dönüştürmek geliştiriciler için yaygın bir gerekliliktir. Bu eğitim, sizi kullanarak verimli bir çözümde yönlendirir **GroupDocs.Conversion for Java** Gizli slaytlar dahil olmak üzere PowerPoint sunumlarını PDF formatına dönüştürmek için.

@@ -4,8 +4,8 @@
 "title": "Cómo convertir archivos de Excel con hojas ocultas a PDF usando Java y GroupDocs.Conversion"
 "url": "/es/java/pdf-conversion/convert-excel-hidden-sheets-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir archivos de Excel con hojas ocultas a PDF usando Java y GroupDocs.Conversion
 
 ## Introducción

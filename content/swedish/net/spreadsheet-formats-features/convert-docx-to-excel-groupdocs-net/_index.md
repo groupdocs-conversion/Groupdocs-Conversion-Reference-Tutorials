@@ -4,8 +4,8 @@
 "title": "Hur man konverterar DOCX-mallar till Excel med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/spreadsheet-formats-features/convert-docx-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar DOCX-mallar till Excel med GroupDocs.Conversion för .NET: En omfattande guide
 
 ## Introduktion

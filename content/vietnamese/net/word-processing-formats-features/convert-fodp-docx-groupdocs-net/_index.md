@@ -4,8 +4,8 @@
 "title": "Chuyển đổi FODP sang DOCX bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/word-processing-formats-features/convert-fodp-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi FODP sang DOCX bằng GroupDocs.Conversion cho .NET: Hướng dẫn từng bước
 
 Chào mừng bạn đến với hướng dẫn toàn diện của chúng tôi về cách chuyển đổi tệp Flat XML Presentation (FODP) thành Microsoft Word Open XML Documents (DOCX) bằng thư viện GroupDocs.Conversion mạnh mẽ. Nếu bạn đang xử lý các tệp trình bày và cần chúng ở định dạng có thể truy cập phổ biến hơn như DOCX, thì hướng dẫn này chính là thứ bạn cần.

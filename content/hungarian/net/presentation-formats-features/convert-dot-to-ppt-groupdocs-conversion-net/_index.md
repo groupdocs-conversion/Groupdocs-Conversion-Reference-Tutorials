@@ -4,8 +4,8 @@
 "title": "DOT-ból PPT-vé konvertálás .NET Master GroupDocs.Conversion-ban a zökkenőmentes dokumentumátalakításhoz"
 "url": "/hu/net/presentation-formats-features/convert-dot-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DOT fájlok konvertálása PPT-vé a GroupDocs.Conversion segítségével .NET-ben
 
 ## Bevezetés

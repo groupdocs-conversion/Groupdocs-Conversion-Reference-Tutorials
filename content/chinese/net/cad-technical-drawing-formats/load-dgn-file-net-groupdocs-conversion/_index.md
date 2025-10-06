@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中加载 DGN 文件"
 "url": "/zh/net/cad-technical-drawing-formats/load-dgn-file-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 加载 DGN 文件
 
 ## 介绍

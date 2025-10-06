@@ -8,10 +8,8 @@ keywords:
 - convert PPS to PDF
 - GroupDocs.Conversion for .NET
 - PowerPoint Slide Show conversion
-
+type: docs
 ---
-
-
 # Convert PPS Files to PDF Using GroupDocs.Conversion for .NET
 
 ## Introduction

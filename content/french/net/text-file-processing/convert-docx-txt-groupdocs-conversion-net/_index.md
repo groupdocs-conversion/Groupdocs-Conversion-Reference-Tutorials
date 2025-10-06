@@ -4,8 +4,8 @@
 "title": "Convertir DOCX en TXT dans .NET avec GroupDocs.Conversion - Guide complet"
 "url": "/fr/net/text-file-processing/convert-docx-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir DOCX en TXT dans .NET avec GroupDocs.Conversion : un tutoriel complet
 
 ## Introduction

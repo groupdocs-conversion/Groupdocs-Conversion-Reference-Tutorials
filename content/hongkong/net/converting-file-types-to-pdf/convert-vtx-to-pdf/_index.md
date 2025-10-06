@@ -5,8 +5,8 @@
 "title": "將 VTX 轉換為 PDF"
 "url": "/zh-hant/net/converting-file-types-to-pdf/convert-vtx-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # 將 VTX 轉換為 PDF
 
 ## 介紹

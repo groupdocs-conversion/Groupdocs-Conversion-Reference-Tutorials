@@ -5,8 +5,8 @@
 "title": "एमपीटी को पीडीएफ में बदलें"
 "url": "/hi/net/document-conversion/convert-mpt-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # एमपीटी को पीडीएफ में बदलें
 
 ## परिचय

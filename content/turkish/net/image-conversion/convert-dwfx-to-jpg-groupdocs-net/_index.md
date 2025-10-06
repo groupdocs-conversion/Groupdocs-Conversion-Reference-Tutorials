@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion&#58;ı kullanarak .NET'te DWFX'i JPG'ye dönüştürün Adım Adım Kılavuz"
 "url": "/tr/net/image-conversion/convert-dwfx-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanarak DWFX Dosyalarını JPG'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

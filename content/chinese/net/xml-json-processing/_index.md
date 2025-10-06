@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 的 XML 和 JSON 处理教程"
 "url": "/zh/net/xml-json-processing/"
 "weight": 16
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 的 XML 和 JSON 处理教程
 
 使用我们面向 .NET 开发人员的 GroupDocs.Conversion 教程探索数据格式转换功能。这些分步指南演示了如何使用 XML 和 JSON 作为创建电子表格和其他文档类型的数据源，如何在转换过程中保留分层数据结构，维护复杂的对象关系，处理数组和集合，管理命名空间和架构，以及实现数据转换和映射操作。每个教程都包含用于处理结构化数据格式的实用 C# 代码示例，帮助您构建能够将机器可读数据转换为人性化文档格式的应用程序。

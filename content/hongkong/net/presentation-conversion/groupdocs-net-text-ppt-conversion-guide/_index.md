@@ -4,8 +4,8 @@
 "title": "掌握使用 GroupDocs 在 .NET 中實現文字到簡報的轉換—綜合指南"
 "url": "/zh-hant/net/presentation-conversion/groupdocs-net-text-ppt-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # 使用 .NET 中的 GroupDocs 掌握文字到簡報的轉換
 
 ## 介紹

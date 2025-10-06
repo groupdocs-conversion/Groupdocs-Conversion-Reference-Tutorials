@@ -4,8 +4,8 @@
 "title": "BMP naar DOC converteren met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/word-processing-conversion/convert-bmp-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # BMP-bestanden converteren naar DOC-formaat met GroupDocs.Conversion voor .NET
 
 ## Invoering

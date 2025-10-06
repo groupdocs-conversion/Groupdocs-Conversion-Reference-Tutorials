@@ -4,8 +4,8 @@
 "title": "แปลง HTML เป็นข้อความโดยใช้ GroupDocs.Conversion สำหรับ .NET&#58; คู่มือฉบับสมบูรณ์"
 "url": "/th/net/web-markup-formats/convert-html-to-text-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลง HTML เป็นข้อความโดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

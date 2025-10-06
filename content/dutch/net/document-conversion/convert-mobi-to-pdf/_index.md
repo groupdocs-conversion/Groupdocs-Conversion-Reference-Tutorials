@@ -5,8 +5,8 @@
 "title": "Converteer MOBI naar PDF"
 "url": "/nl/net/document-conversion/convert-mobi-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Converteer MOBI naar PDF
 
 ## Invoering

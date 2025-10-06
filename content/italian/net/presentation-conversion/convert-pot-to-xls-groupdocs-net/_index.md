@@ -4,8 +4,8 @@
 "title": "Convertire PowerPoint POT in Excel XLS utilizzando GroupDocs.Conversion .NET"
 "url": "/it/net/presentation-conversion/convert-pot-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converti PowerPoint POT in Excel XLS con GroupDocs.Conversion .NET
 
 ## Introduzione

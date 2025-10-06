@@ -4,8 +4,8 @@
 "title": "คู่มือขั้นสุดยอดสำหรับนักพัฒนา .NET ในการแปลง Net PSD ด้วย GroupDocs"
 "url": "/th/net/image-conversion/net-psd-conversion-groupdocs-guide/"
 "weight": 1
+type: docs
 ---
-
 # การแปลง Net PSD ด้วย GroupDocs: คู่มือฉบับสมบูรณ์สำหรับนักพัฒนา .NET
 
 ## การแนะนำ

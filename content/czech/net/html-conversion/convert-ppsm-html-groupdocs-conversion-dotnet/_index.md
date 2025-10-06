@@ -4,8 +4,8 @@
 "title": "Převod PPSM do HTML pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/html-conversion/convert-ppsm-html-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod PPSM do HTML pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

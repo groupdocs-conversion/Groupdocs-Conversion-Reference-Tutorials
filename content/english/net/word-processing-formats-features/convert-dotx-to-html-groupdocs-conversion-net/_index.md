@@ -8,10 +8,8 @@ keywords:
 - Convert DOTX to HTML
 - GroupDocs.Conversion for .NET
 - Microsoft Word templates
-
+type: docs
 ---
-
-
 # Convert DOTX to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - PowerPoint to HTML conversion
 - GroupDocs.Conversion for .NET
 - .NET PowerPoint presentation converter
-
+type: docs
 ---
-
-
 # How to Convert PowerPoint Presentations to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

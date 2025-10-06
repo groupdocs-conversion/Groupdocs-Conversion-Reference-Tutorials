@@ -4,8 +4,8 @@
 "title": "Převod PPSX do PSD pomocí GroupDocs.Conversion pro .NET - Komplexní průvodce"
 "url": "/cs/net/image-conversion/ppsx-to-psd-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod PPSX do PSD pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "Master GroupDocs.Conversion Java&#58; uitgebreide handleiding voor documentconversie in Java-toepassingen"
 "url": "/nl/java/document-operations/groupdocs-conversion-java-master-document-conversion/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Java onder de knie krijgen: ontgrendel mogelijkheden voor documentconversie
 
 ## Invoering

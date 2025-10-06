@@ -8,10 +8,8 @@ keywords:
 - Convert XLSB to SVG
 - GroupDocs.Conversion for .NET
 - XLSB file conversion
-
+type: docs
 ---
-
-
 # Convert XLSB to SVG Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

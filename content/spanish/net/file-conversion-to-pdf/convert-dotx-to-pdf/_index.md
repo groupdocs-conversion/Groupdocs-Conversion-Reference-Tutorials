@@ -5,8 +5,8 @@
 "title": "Convertir plantillas de Word DOTX a PDF"
 "url": "/es/net/file-conversion-to-pdf/convert-dotx-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # Convertir plantillas de Word DOTX a PDF
 
 ## Introducción

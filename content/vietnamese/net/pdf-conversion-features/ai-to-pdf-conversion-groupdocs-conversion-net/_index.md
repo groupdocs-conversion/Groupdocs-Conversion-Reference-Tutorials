@@ -4,8 +4,8 @@
 "title": "Hướng dẫn chuyển đổi AI sang PDF bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/pdf-conversion-features/ai-to-pdf-conversion-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hướng dẫn chuyển đổi AI sang PDF bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

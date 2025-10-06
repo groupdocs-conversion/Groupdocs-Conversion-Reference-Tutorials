@@ -4,8 +4,8 @@
 "title": "Jak převést soubory IFC do formátu SVG pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/cad-technical-drawing-formats/convert-ifc-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory IFC do formátu SVG pomocí GroupDocs.Conversion pro .NET – Podrobný návod
 
 ## Zavedení

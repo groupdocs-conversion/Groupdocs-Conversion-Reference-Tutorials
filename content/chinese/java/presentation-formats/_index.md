@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Java 的演示格式转换教程"
 "url": "/zh/java/presentation-formats/"
 "weight": 7
+type: docs
 ---
-
 # GroupDocs.Conversion Java 的演示格式转换教程
 
 我们的演示文稿转换教程将向您展示如何使用 Java 中的 GroupDocs.Conversion 转换演示文稿文件。这些实用指南将逐步讲解如何转换 PowerPoint 格式、维护动画和过渡效果、保留演讲者备注、处理嵌入媒体以及如何确保转换过程中的布局一致性。每个教程都包含针对常见演示文稿转换场景的详细 Java 代码示例，帮助您构建能够生成高质量转换结果、保留视觉元素和交互功能的应用程序。

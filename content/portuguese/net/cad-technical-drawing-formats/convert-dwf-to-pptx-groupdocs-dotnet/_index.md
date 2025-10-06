@@ -4,8 +4,8 @@
 "title": "Converta DWF para PPTX usando GroupDocs.Conversion no .NET para apresentações perfeitas"
 "url": "/pt/net/cad-technical-drawing-formats/convert-dwf-to-pptx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converter DWF para PPTX com GroupDocs no .NET
 ## Introdução
 Deseja apresentar um design no PowerPoint, mas precisa começar com um arquivo Design Web Format (DWF)? Este tutorial o guiará pela conversão de arquivos DWF para o formato PowerPoint Open XML Presentation (.pptx) usando o GroupDocs.Conversion para .NET. Utilizando esta poderosa biblioteca, você pode transformar designs complexos em apresentações acessíveis e profissionais.

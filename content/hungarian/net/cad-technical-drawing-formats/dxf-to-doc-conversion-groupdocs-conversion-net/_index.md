@@ -4,8 +4,8 @@
 "title": "DXF DOC-ba konvertálása a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/cad-technical-drawing-formats/dxf-to-doc-conversion-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó oktatóanyag: DXF-ből DOC-ba konvertálás a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

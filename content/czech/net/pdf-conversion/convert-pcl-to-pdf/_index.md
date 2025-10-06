@@ -5,8 +5,8 @@
 "title": "Převod PCL do PDF"
 "url": "/cs/net/pdf-conversion/convert-pcl-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # Převod PCL do PDF
 
 ## Zavedení

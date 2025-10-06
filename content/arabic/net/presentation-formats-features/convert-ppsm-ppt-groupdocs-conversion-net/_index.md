@@ -4,8 +4,8 @@
 "title": "كيفية تحويل PPSM إلى PPT باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/presentation-formats-features/convert-ppsm-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل PPSM إلى PPT باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

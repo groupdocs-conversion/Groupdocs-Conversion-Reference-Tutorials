@@ -4,8 +4,8 @@
 "title": "Convertir VSDX a XLS con GroupDocs.Conversion para .NET&#58; guía paso a paso"
 "url": "/es/net/spreadsheet-conversion/convert-vsdx-to-xls-groupdocs-dotnet-csharp/"
 "weight": 1
+type: docs
 ---
-
 # Convertir VSDX a XLS con GroupDocs.Conversion para .NET: guía paso a paso
 
 ## Introducción

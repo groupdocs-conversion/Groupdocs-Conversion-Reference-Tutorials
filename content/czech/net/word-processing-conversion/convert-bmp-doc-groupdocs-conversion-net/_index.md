@@ -4,8 +4,8 @@
 "title": "Jak převést BMP do DOC pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/word-processing-conversion/convert-bmp-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory BMP do formátu DOC pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

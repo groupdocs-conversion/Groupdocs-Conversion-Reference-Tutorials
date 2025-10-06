@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak PS'den PSD'ye Verimli Dönüştürme"
 "url": "/tr/net/image-formats-features/ps-to-psd-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak PS'den PSD'ye Verimli Dönüştürme
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "Chuyển đổi OTT sang PPT một cách liền mạch&#58; Sử dụng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/presentation-formats-features/convert-ott-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi OTT sang PPT một cách liền mạch: Sử dụng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

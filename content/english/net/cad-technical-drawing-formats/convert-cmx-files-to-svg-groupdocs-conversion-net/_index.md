@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert CMX to SVG Easily Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "OCR implementálása és képek PDF-be konvertálása Aspose és GroupDocs for .NET használatával"
 "url": "/hu/net/image-formats-features/implement-ocr-conversion-images-pdf-net/"
 "weight": 1
+type: docs
 ---
-
 # OCR implementálása és képek PDF-be konvertálása Aspose és GroupDocs for .NET használatával
 
 ## Bevezetés

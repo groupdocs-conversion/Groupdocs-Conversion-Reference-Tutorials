@@ -8,10 +8,8 @@ keywords:
 - convert FODS to TEX
 - GroupDocs.Conversion for .NET
 - document conversion in .NET
-
+type: docs
 ---
-
-
 # Convert FODS to TEX in .NET Using GroupDocs.Conversion
 
 ## Introduction

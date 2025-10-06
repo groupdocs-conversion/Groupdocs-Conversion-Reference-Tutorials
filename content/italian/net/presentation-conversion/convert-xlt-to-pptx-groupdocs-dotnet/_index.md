@@ -4,8 +4,8 @@
 "title": "Come convertire i file XLT in PPTX utilizzando GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/presentation-conversion/convert-xlt-to-pptx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire i file XLT in PPTX utilizzando GroupDocs.Conversion per .NET
 ## Introduzione
 Hai difficoltà a convertire i tuoi fogli di calcolo Lotus Symphony in presentazioni PowerPoint? Questa guida è la soluzione che fa per te, sfruttando la potente libreria GroupDocs.Conversion per trasformare senza problemi i file XLT in formato PPTX. Che tu stia preparando una presentazione aziendale o semplicemente necessiti di un formato di file più compatibile, padroneggiare questa conversione può farti risparmiare tempo e fatica.

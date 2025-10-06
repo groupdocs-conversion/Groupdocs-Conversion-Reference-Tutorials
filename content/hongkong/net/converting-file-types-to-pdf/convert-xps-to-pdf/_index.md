@@ -5,8 +5,8 @@
 "title": "將 XPS 轉換為 PDF"
 "url": "/zh-hant/net/converting-file-types-to-pdf/convert-xps-to-pdf/"
 "weight": 30
+type: docs
 ---
-
 # 將 XPS 轉換為 PDF
 
 

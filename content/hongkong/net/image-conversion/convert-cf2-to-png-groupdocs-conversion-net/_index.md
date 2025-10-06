@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 將 CF2 轉換為 PNG 的綜合指南"
 "url": "/zh-hant/net/image-conversion/convert-cf2-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 將 CF2 轉換為 PNG：逐步指南
 
 ## 介紹

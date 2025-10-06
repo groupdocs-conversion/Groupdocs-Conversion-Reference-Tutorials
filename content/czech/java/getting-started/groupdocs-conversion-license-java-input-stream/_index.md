@@ -4,8 +4,8 @@
 "title": "Jak nastavit licenci GroupDocs.Conversion v Javě pomocí InputStream"
 "url": "/cs/java/getting-started/groupdocs-conversion-license-java-input-stream/"
 "weight": 1
+type: docs
 ---
-
 # Jak implementovat nastavení licence GroupDocs.Conversion pomocí InputStream v Javě
 ## Zavedení
 Chcete vylepšit svou Java aplikaci pomocí výkonných funkcí GroupDocs.Conversion? Správné nastavení licence je klíčovým krokem a použití vstupního proudu může tento proces zefektivnit. Tato příručka vás provede nastavením licence GroupDocs pomocí vstupního proudu v Javě, což zajistí, že vaše procesy konverze proběhnou hladce a bez problémů s licencováním.

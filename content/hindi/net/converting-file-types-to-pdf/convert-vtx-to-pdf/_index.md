@@ -5,8 +5,8 @@
 "title": "VTX को PDF में बदलें"
 "url": "/hi/net/converting-file-types-to-pdf/convert-vtx-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # VTX को PDF में बदलें
 
 ## परिचय

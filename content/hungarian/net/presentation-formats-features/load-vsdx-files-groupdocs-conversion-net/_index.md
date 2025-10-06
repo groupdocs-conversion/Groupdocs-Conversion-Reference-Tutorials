@@ -4,8 +4,8 @@
 "title": "VSDX fájlok betöltése és konvertálása a GroupDocs.Conversion .NET használatával"
 "url": "/hu/net/presentation-formats-features/load-vsdx-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VSDX fájlok betöltése és konvertálása a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

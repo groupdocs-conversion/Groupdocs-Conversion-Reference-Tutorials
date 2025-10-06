@@ -8,10 +8,8 @@ keywords:
 - convert VST to TXT
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Convert VST Files to TXT with GroupDocs.Conversion for .NET
 
 ## Introduction

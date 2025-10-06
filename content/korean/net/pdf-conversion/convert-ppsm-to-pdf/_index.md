@@ -5,8 +5,8 @@
 "title": "PPSM을 PDF로 변환"
 "url": "/ko/net/pdf-conversion/convert-ppsm-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # PPSM을 PDF로 변환
 
 ## 소개

@@ -5,8 +5,8 @@
 "title": "DIB Görüntülerini PDF'ye Dönüştür"
 "url": "/tr/net/file-conversion-to-pdf/convert-dib-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # DIB Görüntülerini PDF'ye Dönüştür
 
 ## giriiş

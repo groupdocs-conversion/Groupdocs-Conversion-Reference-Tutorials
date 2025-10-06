@@ -5,8 +5,8 @@
 "title": "将 J2K JPEG 2000 图像转换为 PDF"
 "url": "/zh/net/convert-files-to-pdf/convert-j2k-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # 将 J2K JPEG 2000 图像转换为 PDF
 
 ## 介绍

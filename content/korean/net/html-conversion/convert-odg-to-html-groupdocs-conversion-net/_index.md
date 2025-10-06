@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 ODG를 HTML로 쉽게 변환 - 전체 튜토리얼"
 "url": "/ko/net/html-conversion/convert-odg-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 ODG 파일을 HTML로 변환
 
 ## 소개

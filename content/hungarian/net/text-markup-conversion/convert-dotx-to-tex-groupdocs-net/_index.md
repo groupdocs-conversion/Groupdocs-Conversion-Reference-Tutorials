@@ -4,8 +4,8 @@
 "title": "DOTX konvertálása TEX-be a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/text-markup-conversion/convert-dotx-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DOTX konvertálása TEX-be a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

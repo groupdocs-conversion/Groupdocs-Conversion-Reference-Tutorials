@@ -5,8 +5,8 @@
 "title": "파일 형식 변환"
 "url": "/ko/net/file-format-conversion-tutorials/"
 "weight": 21
+type: docs
 ---
-
 # 파일 형식 변환
 
 ## 소개

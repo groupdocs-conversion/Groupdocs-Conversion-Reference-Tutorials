@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して PowerPoint スライドショー (.PPSM) を CSV に変換する方法"
 "url": "/ja/net/spreadsheet-formats-features/convert-ppsm-to-csv-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して PowerPoint スライドショー (.PPSM) を CSV に変換する方法
 
 ## 導入

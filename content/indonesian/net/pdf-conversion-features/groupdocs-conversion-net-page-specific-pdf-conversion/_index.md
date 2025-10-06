@@ -4,8 +4,8 @@
 "title": "Konversi Halaman Tertentu ke PDF menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/pdf-conversion-features/groupdocs-conversion-net-page-specific-pdf-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Konversi Halaman Tertentu ke PDF Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

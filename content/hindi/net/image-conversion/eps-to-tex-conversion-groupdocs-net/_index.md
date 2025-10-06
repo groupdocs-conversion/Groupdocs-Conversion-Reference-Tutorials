@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET का उपयोग करके कुशल EPS से TEX रूपांतरण"
 "url": "/hi/net/image-conversion/eps-to-tex-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion के साथ EPS to TEX रूपांतरण में महारत हासिल करना
 
 ## परिचय

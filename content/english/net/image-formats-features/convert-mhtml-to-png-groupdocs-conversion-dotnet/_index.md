@@ -8,10 +8,8 @@ keywords:
 - convert MHTML to PNG
 - GroupDocs.Conversion for .NET
 - MHTML file conversion
-
+type: docs
 ---
-
-
 # Convert MHTML to PNG Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 In today's fast-paced digital environment, seamless document conversion is essential. Whether you're a developer aiming to streamline document processing or an organization looking to enhance data accessibility, converting MHTML files to PNG format can significantly improve efficiency. This tutorial guides you through using GroupDocs.Conversion for .NET to achieve this effectively.

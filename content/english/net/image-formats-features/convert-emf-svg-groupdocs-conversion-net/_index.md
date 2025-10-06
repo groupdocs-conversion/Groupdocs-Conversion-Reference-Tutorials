@@ -8,10 +8,8 @@ keywords:
 - EMF to SVG conversion
 - GroupDocs.Conversion .NET
 - convert EMF files
-
+type: docs
 ---
-
-
 # Comprehensive Guide: Convert EMF to SVG Using GroupDocs.Conversion for .NET
 
 ## Introduction

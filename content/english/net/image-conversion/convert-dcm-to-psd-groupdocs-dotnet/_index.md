@@ -8,10 +8,8 @@ keywords:
 - convert DCM to PSD
 - GroupDocs.Conversion for .NET
 - medical image conversion
-
+type: docs
 ---
-
-
 # Convert DCM to PSD with GroupDocs.Conversion for .NET
 
 ## Introduction

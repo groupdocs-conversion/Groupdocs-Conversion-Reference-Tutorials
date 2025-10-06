@@ -4,8 +4,8 @@
 "title": "Μετατροπή MHT σε TEX χρησιμοποιώντας το GroupDocs.Conversion .NET - Ένας πλήρης οδηγός"
 "url": "/el/net/text-markup-conversion/convert-mht-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή MHT σε TEX χρησιμοποιώντας το GroupDocs.Conversion .NET
 
 ## Εισαγωγή

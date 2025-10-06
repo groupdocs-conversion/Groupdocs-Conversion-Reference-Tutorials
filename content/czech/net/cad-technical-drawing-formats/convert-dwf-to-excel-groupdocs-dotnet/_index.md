@@ -4,8 +4,8 @@
 "title": "Převod DWF do Excelu v .NET pomocí GroupDocs.Conversion – podrobný návod"
 "url": "/cs/net/cad-technical-drawing-formats/convert-dwf-to-excel-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod DWF do Excelu v .NET pomocí GroupDocs.Conversion: Podrobný návod
 
 ## Zavedení

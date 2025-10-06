@@ -4,8 +4,8 @@
 "title": "تحويل JPEG 2000 إلى Word في .NET باستخدام GroupDocs - دليل خطوة بخطوة"
 "url": "/ar/net/word-processing-conversion/convert-jpeg-2000-to-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل ملفات JPEG 2000 (JPF) إلى مستندات Word (.doc) باستخدام GroupDocs.Conversion في .NET
 
 ## مقدمة

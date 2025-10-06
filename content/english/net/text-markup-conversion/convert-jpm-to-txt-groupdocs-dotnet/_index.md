@@ -8,10 +8,8 @@ keywords:
 - convert JPM to TXT C#
 - GroupDocs.Conversion for .NET
 - file conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert JPM to TXT in C# Using GroupDocs.Conversion for .NET
 
 ## Introduction

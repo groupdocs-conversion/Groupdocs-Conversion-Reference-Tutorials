@@ -8,10 +8,8 @@ keywords:
 - convert Visio templates to SVG
 - GroupDocs.Conversion for .NET
 - document compatibility
-
+type: docs
 ---
-
-
 # How to Convert Visio Drawing Templates (.vst) to SVG Using GroupDocs.Conversion for .NET
 
 ## Introduction

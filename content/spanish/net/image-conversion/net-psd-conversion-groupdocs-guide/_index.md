@@ -4,8 +4,8 @@
 "title": "Conversión de PSD de Net con GroupDocs&#58; Guía definitiva para desarrolladores .NET"
 "url": "/es/net/image-conversion/net-psd-conversion-groupdocs-guide/"
 "weight": 1
+type: docs
 ---
-
 # Conversión de PSD a Net con GroupDocs: una guía completa para desarrolladores .NET
 
 ## Introducción

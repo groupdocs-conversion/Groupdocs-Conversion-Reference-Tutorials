@@ -5,8 +5,8 @@
 "title": "แปลงไฟล์เป็น PDF"
 "url": "/th/net/convert-files-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # แปลงไฟล์เป็น PDF
 
 ## การแนะนำ

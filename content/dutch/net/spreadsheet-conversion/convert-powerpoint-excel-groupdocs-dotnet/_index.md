@@ -4,8 +4,8 @@
 "title": "PowerPoint naar Excel converteren met GroupDocs.Conversion.NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/spreadsheet-conversion/convert-powerpoint-excel-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converteer PowerPoint-dia's naar Excel-bladen met GroupDocs.Conversion .NET
 
 ## Invoering

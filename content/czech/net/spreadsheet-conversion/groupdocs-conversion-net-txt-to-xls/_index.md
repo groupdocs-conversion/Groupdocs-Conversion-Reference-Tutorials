@@ -4,8 +4,8 @@
 "title": "Převod TXT do XLS pomocí GroupDocs.Conversion pro .NET – podrobný návod"
 "url": "/cs/net/spreadsheet-conversion/groupdocs-conversion-net-txt-to-xls/"
 "weight": 1
+type: docs
 ---
-
 # Převod TXT do XLS pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

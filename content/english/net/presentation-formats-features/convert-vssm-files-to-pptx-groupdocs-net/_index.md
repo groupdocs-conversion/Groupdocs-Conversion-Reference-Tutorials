@@ -8,10 +8,8 @@ keywords:
 - Convert VSSM to PPTX
 - GroupDocs.Conversion for .NET
 - Automate PowerPoint Conversion
-
+type: docs
 ---
-
-
 # Effortlessly Convert VSSM Files to PPTX Using GroupDocs.Conversion for .NET
 
 ## Introduction

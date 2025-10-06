@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak JP2'yi SVG'ye Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/image-formats-features/convert-jp2-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak JP2'yi SVG'ye Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

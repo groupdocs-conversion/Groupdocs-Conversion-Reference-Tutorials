@@ -4,8 +4,8 @@
 "title": "DWG fájlok PNG-vé konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/cad-technical-drawing-formats/dwg-png-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DWG fájlok PNG-vé konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

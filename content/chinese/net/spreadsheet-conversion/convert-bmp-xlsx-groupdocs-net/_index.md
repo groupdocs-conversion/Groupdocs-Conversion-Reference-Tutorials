@@ -4,8 +4,8 @@
 "title": "使用 .NET 中的 GroupDocs.Conversion 将 BMP 转换为 XLSX —— 综合指南"
 "url": "/zh/net/spreadsheet-conversion/convert-bmp-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 .NET 中的 GroupDocs.Conversion 将 BMP 转换为 XLSX：综合指南
 ## 介绍
 在当今的数字环境中，将图像文件转换为电子表格等多功能格式通常必不可少。无论是将文档数字化还是准备用于分析的数据，如果没有合适的工具，这项任务都会变得非常复杂。 **GroupDocs.Conversion for .NET** 提供了一种将 BMP 图像无缝转换为 XLSX 格式的有效方法。

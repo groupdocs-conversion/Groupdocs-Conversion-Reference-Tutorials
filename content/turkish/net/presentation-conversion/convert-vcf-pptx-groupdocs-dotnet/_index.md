@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET ile VCF'yi PPTX'e Kolayca Dönüştürün&#58; Adım Adım Kılavuz"
 "url": "/tr/net/presentation-conversion/convert-vcf-pptx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs ile VCF'yi PPTX'e Kolayca Dönüştürün. .NET için Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

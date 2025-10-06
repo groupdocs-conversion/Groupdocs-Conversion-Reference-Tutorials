@@ -4,8 +4,8 @@
 "title": "Převod VSDM do HTML pomocí GroupDocs.Conversion v .NET – Komplexní průvodce"
 "url": "/cs/net/html-conversion/convert-vsmd-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod VSDM do HTML pomocí GroupDocs.Conversion v .NET: Komplexní průvodce
 
 ## Zavedení

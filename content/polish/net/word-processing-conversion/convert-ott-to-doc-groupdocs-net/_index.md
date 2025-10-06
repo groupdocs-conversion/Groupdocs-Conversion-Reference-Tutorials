@@ -4,8 +4,8 @@
 "title": "Konwersja OTT do DOC przy użyciu GroupDocs.Conversion .NET&#58; Przewodnik krok po kroku dotyczący konwersji w edytorze tekstu"
 "url": "/pl/net/word-processing-conversion/convert-ott-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja OTT do DOC przy użyciu GroupDocs.Conversion .NET: Przewodnik krok po kroku dotyczący konwersji w edytorze tekstu
 
 ## Wstęp

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET を使用して PDF から埋め込みファイルを削除する方法"
 "url": "/ja/net/pdf-conversion-features/remove-embedded-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET を使用して PDF から埋め込みファイルを削除する方法
 
 ## 導入

@@ -8,10 +8,8 @@ keywords:
 - DGN to PPTX Conversion
 - GroupDocs.Conversion .NET
 - CAD Document Conversion
-
+type: docs
 ---
-
-
 # Efficient DGN to PPTX Conversion with GroupDocs.Conversion in .NET
 
 ## Introduction

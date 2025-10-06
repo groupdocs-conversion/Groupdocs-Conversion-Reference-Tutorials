@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 有效地將 MBOX 轉換為 DOCX"
 "url": "/zh-hant/net/email-formats-features/convert-mbox-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 有效地將 MBOX 轉換為 DOCX
 
 ## 介紹

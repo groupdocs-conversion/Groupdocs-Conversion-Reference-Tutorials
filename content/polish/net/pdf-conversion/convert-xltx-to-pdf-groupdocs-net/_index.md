@@ -4,8 +4,8 @@
 "title": "Konwertuj pliki szablonów programu Excel (XLTX) do formatu PDF za pomocą narzędzia GroupDocs.Conversion dla platformy .NET"
 "url": "/pl/net/pdf-conversion/convert-xltx-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj pliki szablonów programu Excel (XLTX) do formatu PDF za pomocą narzędzia GroupDocs.Conversion dla platformy .NET
 
 ## Wstęp

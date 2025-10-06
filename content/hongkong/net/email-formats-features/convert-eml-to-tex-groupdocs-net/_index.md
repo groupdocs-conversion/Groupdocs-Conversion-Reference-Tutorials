@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 EML 轉換為 TEX&#58; 開發人員指南"
 "url": "/zh-hant/net/email-formats-features/convert-eml-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 EML 轉換為 TEX：開發人員指南
 
 ## 介紹

@@ -4,8 +4,8 @@
 "title": "Converteer PST-bestanden naar PowerPoint met GroupDocs.Conversion.NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/presentation-formats-features/convert-pst-to-powerpoint-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PST-bestanden converteren naar PowerPoint met GroupDocs.Conversion .NET: een stapsgewijze handleiding
 
 ## Invoering

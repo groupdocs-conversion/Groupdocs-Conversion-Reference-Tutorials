@@ -4,8 +4,8 @@
 "title": "แปลง XML เป็น Excel ใน Java ด้วยคู่มือฉบับสมบูรณ์โดยใช้ GroupDocs.Conversion"
 "url": "/th/java/web-markup-formats/convert-xml-to-excel-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # แปลง XML เป็น Excel ใน Java โดยใช้ GroupDocs.Conversion
 
 ## การแนะนำ

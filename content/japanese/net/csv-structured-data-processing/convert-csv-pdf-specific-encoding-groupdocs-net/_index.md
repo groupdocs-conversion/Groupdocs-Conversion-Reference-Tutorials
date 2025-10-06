@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して、CSV ファイルを特定のエンコードで PDF に変換する方法"
 "url": "/ja/net/csv-structured-data-processing/convert-csv-pdf-specific-encoding-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して、CSV ファイルを特定のエンコードで PDF に変換する方法
 
 ## 導入

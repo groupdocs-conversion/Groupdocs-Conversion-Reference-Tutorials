@@ -5,8 +5,8 @@
 "title": "แปลง SVGZ เป็น PDF"
 "url": "/th/net/file-format-conversion-tutorials/convert-svgz-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # แปลง SVGZ เป็น PDF
 
 ## การแนะนำ

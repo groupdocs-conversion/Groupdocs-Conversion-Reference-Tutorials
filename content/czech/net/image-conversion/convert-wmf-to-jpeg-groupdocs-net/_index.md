@@ -4,8 +4,8 @@
 "title": "Efektivní převod WMF do JPEG pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/image-conversion/convert-wmf-to-jpeg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod WMF do JPEG pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

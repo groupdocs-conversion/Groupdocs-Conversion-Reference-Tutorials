@@ -4,8 +4,8 @@
 "title": "Implementieren Sie getaktete Lizenzierung mit GroupDocs.Conversion für .NET – Ein umfassender Leitfaden"
 "url": "/de/net/getting-started-licensing/metered-licensing-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Implementieren einer gebührenpflichtigen Lizenzierung mit GroupDocs.Conversion für .NET
 
 ## Einführung

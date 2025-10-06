@@ -8,10 +8,8 @@ keywords:
 - SVGZ to XLS conversion
 - GroupDocs.Conversion for .NET
 - convert SVGZ files
-
+type: docs
 ---
-
-
 # Convert SVGZ to XLS with GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Hatékony PDF-ből DOC-ba konvertálás a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/word-processing-formats-features/pdf-to-doc-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony PDF-ből DOC-ba konvertálás a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

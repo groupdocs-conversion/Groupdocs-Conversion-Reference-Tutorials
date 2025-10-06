@@ -4,8 +4,8 @@
 "title": "使用 .NET 中的 GroupDocs.Conversion 將 XML 轉換為 PNG 完整指南"
 "url": "/zh-hant/net/image-conversion/convert-xml-to-png-groupdocs-conversion-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # 使用 .NET 中的 GroupDocs.Conversion 將 XML 轉換為 PNG：綜合指南
 
 ## 介紹

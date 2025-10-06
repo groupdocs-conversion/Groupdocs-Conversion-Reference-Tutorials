@@ -4,8 +4,8 @@
 "title": "Конвертируйте POTX в PNG с помощью GroupDocs.Conversion для .NET&#58; Пошаговое руководство"
 "url": "/ru/net/image-conversion/convert-potx-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертация POTX в PNG с помощью GroupDocs.Conversion для .NET: пошаговое руководство
 
 ## Введение

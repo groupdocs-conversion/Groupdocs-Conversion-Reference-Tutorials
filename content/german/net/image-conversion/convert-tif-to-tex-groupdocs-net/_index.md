@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie TIF in TEX mit GroupDocs.Conversion für .NET – Umfassende Anleitung"
 "url": "/de/net/image-conversion/convert-tif-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie TIF in TEX mit GroupDocs.Conversion für .NET
 
 ## Einführung

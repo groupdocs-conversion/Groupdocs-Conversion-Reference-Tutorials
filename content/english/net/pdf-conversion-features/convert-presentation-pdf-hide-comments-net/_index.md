@@ -8,10 +8,8 @@ keywords:
 - convert presentation to PDF with .NET
 - hide comments in PDF conversion
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # Hide Comments in PDF: Convert PPT to PDF with GroupDocs.Conversion for .NET
 
 ## Introduction

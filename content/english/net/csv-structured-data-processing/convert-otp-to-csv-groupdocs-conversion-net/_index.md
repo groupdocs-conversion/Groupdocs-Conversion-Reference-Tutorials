@@ -8,10 +8,8 @@ keywords:
 - convert OTP to CSV
 - GroupDocs.Conversion for .NET
 - file conversion in .NET
-
+type: docs
 ---
-
-
 # Convert OTP Files to CSV Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 페이지 번호가 있는 마크업을 Word로 변환"
 "url": "/ko/net/word-processing-formats-features/groupdocs-conversion-markup-to-word-page-numbering/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 페이지 번호가 있는 마크업을 Word로 변환
 ## 소개
 정확한 페이지 번호를 유지하면서 마크업 문서를 전문적인 Word 형식으로 변환하고 싶으신가요? 이 튜토리얼은 다음 방법을 안내합니다. **.NET용 GroupDocs.Conversion** 문서를 완벽하게 변환합니다. 이 강력한 라이브러리는 변환 과정을 간소화하고 페이지 번호 매기기와 같은 필수 요소가 출력 문서에 그대로 유지되도록 보장합니다.

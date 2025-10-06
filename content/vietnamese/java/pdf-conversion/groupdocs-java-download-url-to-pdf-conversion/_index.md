@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tài liệu URL sang PDF bằng GroupDocs.Conversion for Java&#58; Hướng dẫn toàn diện"
 "url": "/vi/java/pdf-conversion/groupdocs-java-download-url-to-pdf-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tài liệu URL sang PDF bằng GroupDocs.Conversion cho Java
 
 ## Giới thiệu

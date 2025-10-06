@@ -4,8 +4,8 @@
 "title": "GroupDocs for .NET을 사용하여 GIF를 텍스트 파일로 변환하기&#58; 종합 가이드"
 "url": "/ko/net/image-formats-features/convert-gifs-to-text-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET용 GroupDocs를 사용하여 GIF를 텍스트 파일로 변환: 포괄적인 가이드
 
 ## 소개

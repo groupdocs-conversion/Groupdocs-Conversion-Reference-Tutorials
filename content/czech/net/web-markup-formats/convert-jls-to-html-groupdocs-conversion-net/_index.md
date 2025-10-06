@@ -4,8 +4,8 @@
 "title": "Převod JLS do HTML pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/web-markup-formats/convert-jls-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod JLS do HTML pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "Efficiënte PowerPoint-conversie&#58; gebruik GroupDocs.Conversion voor .NET om PPT naar PPTX te converteren"
 "url": "/nl/net/presentation-formats-features/convert-ppt-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Efficiënte PowerPoint-conversie: gebruik GroupDocs.Conversion voor .NET om PPT naar PPTX te converteren
 
 ## Invoering

@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 輕鬆實現 JPX 到 PSD 的轉換"
 "url": "/zh-hant/net/image-formats-features/converting-jpx-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 輕鬆實現 JPX 到 PSD 的轉換
 
 ## 介紹

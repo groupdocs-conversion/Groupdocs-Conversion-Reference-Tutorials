@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak Markdown Metne Nasıl Dönüştürülür&#58; Adım Adım Kılavuz"
 "url": "/tr/net/text-file-processing/convert-markdown-to-text-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak Markdown Metne Nasıl Dönüştürülür: Adım Adım Kılavuz
 
 ## giriiş

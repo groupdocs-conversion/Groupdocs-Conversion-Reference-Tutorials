@@ -4,8 +4,8 @@
 "title": "แปลง Word เป็น PDF ด้วยแบบอักษรที่กำหนดเองใน Java และคู่มือฉบับสมบูรณ์โดยใช้ GroupDocs.Conversion"
 "url": "/th/java/pdf-conversion/convert-word-pdf-custom-fonts-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # แปลงเอกสาร Word เป็น PDF ด้วยแบบอักษรที่กำหนดเองใน Java: คู่มือฉบับสมบูรณ์โดยใช้ GroupDocs.Conversion
 
 ## การแนะนำ

@@ -3,8 +3,8 @@ title: "Working with Secure Documents Tutorials for GroupDocs.Conversion .NET"
 description: "Learn to load and process password-protected documents using GroupDocs.Conversion for .NET through these comprehensive tutorials."
 weight: 5
 url: "/net/working-with-secure-documents/"
+type: docs
 ---
-
 # Working with Secure Documents Tutorials for GroupDocs.Conversion .NET
 
 Discover how to handle secure documents with our GroupDocs.Conversion tutorials for .NET developers. These step-by-step guides teach you how to load password-protected files using both standard and fluent API approaches, manage encryption keys, specify document-specific security options, handle authentication failures gracefully, and preserve security settings during conversion when appropriate. Each tutorial provides practical C# code examples for working with protected documents, helping you build applications that can process secure content while respecting confidentiality and access controls.

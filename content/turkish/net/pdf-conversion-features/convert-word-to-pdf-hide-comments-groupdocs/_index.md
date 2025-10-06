@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion'ı Kullanarak Word'ü PDF'ye Dönüştürün ve Yorumları Gizleyin"
 "url": "/tr/net/pdf-conversion-features/convert-word-to-pdf-hide-comments-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Word Belgelerini PDF'ye Dönüştürün ve GroupDocs.Conversion for .NET ile Yorumları Gizleyin
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "DIB hatékony konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/pdf-conversion/groupdocs-conversion-net-dib-to-pdf/"
 "weight": 1
+type: docs
 ---
-
 # DIB hatékony konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

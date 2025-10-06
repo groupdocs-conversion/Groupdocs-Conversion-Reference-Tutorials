@@ -4,8 +4,8 @@
 "title": "Εφαρμογή OCR και μετατροπή εικόνων σε PDF χρησιμοποιώντας Aspose και GroupDocs για .NET"
 "url": "/el/net/image-formats-features/implement-ocr-conversion-images-pdf-net/"
 "weight": 1
+type: docs
 ---
-
 # Εφαρμογή OCR και μετατροπή εικόνων σε PDF χρησιμοποιώντας Aspose και GroupDocs για .NET
 
 ## Εισαγωγή

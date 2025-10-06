@@ -8,10 +8,8 @@ keywords:
 - VSDM to HTML conversion
 - GroupDocs.Conversion for .NET
 - HTML conversion settings
-
+type: docs
 ---
-
-
 # Convert VSDM to HTML Using GroupDocs.Conversion in .NET: A Comprehensive Guide
 
 ## Introduction

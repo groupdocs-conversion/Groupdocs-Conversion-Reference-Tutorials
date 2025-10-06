@@ -4,8 +4,8 @@
 "title": "Szövegből prezentációba konvertálás mesteri elsajátítása a GroupDocs segítségével .NET-ben – Átfogó útmutató"
 "url": "/hu/net/presentation-conversion/groupdocs-net-text-ppt-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Szöveg prezentációvá alakításának mesteri elsajátítása a GroupDocs segítségével .NET-ben
 
 ## Bevezetés

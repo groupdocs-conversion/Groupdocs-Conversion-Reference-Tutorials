@@ -8,10 +8,8 @@ keywords:
 - Convert MPP to PPTX
 - GroupDocs.Conversion for .NET
 - .NET file conversion
-
+type: docs
 ---
-
-
 # Convert MPP to PPTX Using GroupDocs.Conversion for .NET: Step-by-Step Guide
 
 ## Introduction

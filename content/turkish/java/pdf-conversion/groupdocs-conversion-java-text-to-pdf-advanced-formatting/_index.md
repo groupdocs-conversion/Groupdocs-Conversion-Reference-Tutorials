@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion ile Gelişmiş Metinden PDF'e Dönüştürme Java&#58; Biçimlendirmeyi Koru"
 "url": "/tr/java/pdf-conversion/groupdocs-conversion-java-text-to-pdf-advanced-formatting/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Java ile Gelişmiş Metinden PDF'e Dönüştürme: Biçimlendirmeyi Koru
 
 ## giriiş

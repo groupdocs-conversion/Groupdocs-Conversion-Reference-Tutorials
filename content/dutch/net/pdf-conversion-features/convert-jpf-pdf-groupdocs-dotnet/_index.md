@@ -4,8 +4,8 @@
 "title": "Converteer JPF naar PDF met GroupDocs.Conversion voor .NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/pdf-conversion-features/convert-jpf-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converteer JPF naar PDF met GroupDocs.Conversion voor .NET: een uitgebreide handleiding
 
 ## Invoering

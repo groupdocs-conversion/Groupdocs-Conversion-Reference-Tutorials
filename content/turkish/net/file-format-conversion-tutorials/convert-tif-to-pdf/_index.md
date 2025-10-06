@@ -5,8 +5,8 @@
 "title": "TIF'i PDF'ye dönüştür"
 "url": "/tr/net/file-format-conversion-tutorials/convert-tif-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # TIF'i PDF'ye dönüştür
 
 ## giriiş

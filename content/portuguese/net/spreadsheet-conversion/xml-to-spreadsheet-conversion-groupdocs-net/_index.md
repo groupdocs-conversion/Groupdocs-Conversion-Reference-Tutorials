@@ -4,8 +4,8 @@
 "title": "Conversão eficiente de XML para planilha no .NET usando GroupDocs.Conversion"
 "url": "/pt/net/spreadsheet-conversion/xml-to-spreadsheet-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Conversão eficiente de XML para planilha no .NET usando GroupDocs.Conversion
 
 ## Introdução

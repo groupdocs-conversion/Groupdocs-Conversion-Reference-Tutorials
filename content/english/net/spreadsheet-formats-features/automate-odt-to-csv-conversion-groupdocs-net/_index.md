@@ -8,10 +8,8 @@ keywords:
 - ODT to CSV conversion
 - GroupDocs.Conversion for .NET
 - automate document conversion
-
+type: docs
 ---
-
-
 # Automate ODT to CSV Conversion Using GroupDocs for .NET
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - convert JPC to TXT
 - GroupDocs.Conversion for .NET
 - JPC file conversion
-
+type: docs
 ---
-
-
 # How to Convert JPC Files to TXT Using GroupDocs.Conversion for .NET
 
 ## Introduction

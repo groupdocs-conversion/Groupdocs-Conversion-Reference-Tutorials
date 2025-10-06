@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して C# で POTM を JPG に変換する包括的なガイド"
 "url": "/ja/net/image-conversion/convert-potm-to-jpg-groupdocs-conversion-csharp/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して C# で POTM ファイルを JPG に変換する: 包括的なガイド
 
 ## 導入

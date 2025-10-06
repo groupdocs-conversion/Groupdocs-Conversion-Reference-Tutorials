@@ -5,8 +5,8 @@
 "title": "Конвертировать векторную графику CGM в PDF"
 "url": "/ru/net/file-conversion-to-pdf/convert-cgm-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # Конвертировать векторную графику CGM в PDF
 
 ## Введение

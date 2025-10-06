@@ -4,8 +4,8 @@
 "title": "Konversi CSV Mudah Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/spreadsheet-formats-features/convert-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi CSV Mudah Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

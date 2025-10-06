@@ -8,10 +8,8 @@ keywords:
 - convert PPSM to XLSX
 - GroupDocs.Conversion for .NET
 - PowerPoint to Excel conversion
-
+type: docs
 ---
-
-
 # How to Convert PowerPoint PPSM to Excel XLSX Using GroupDocs.Conversion for .NET
 
 ## Introduction

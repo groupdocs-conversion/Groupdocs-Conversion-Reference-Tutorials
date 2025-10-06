@@ -4,8 +4,8 @@
 "title": "Convertissez efficacement des fichiers CGM en PNG à l'aide de GroupDocs.Conversion .NET pour la conversion d'images"
 "url": "/fr/net/image-conversion/convert-cgm-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir efficacement des fichiers CGM en PNG avec GroupDocs.Conversion .NET
 
 ## Introduction

@@ -5,8 +5,8 @@
 "title": "Převod komprimovaných obrázků J2C JPEG-LS do PDF"
 "url": "/cs/net/convert-files-to-pdf/convert-j2c-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # Převod komprimovaných obrázků J2C JPEG-LS do PDF
 
 ## Zavedení

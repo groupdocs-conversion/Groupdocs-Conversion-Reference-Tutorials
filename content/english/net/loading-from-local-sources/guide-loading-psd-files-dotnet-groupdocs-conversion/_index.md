@@ -8,10 +8,8 @@ keywords:
 - loading PSD files in .NET
 - .NET PSD file conversion
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # Ultimate Guide to Loading PSD Files in .NET Using GroupDocs.Conversion
 
 ## Introduction

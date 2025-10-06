@@ -4,8 +4,8 @@
 "title": "Conversión de archivos maestros&#58; Cargar y convertir archivos JPF con GroupDocs para .NET"
 "url": "/es/net/image-formats-features/load-convert-jpf-files-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Conversión de archivos maestros: cargar y convertir archivos JPF con GroupDocs para .NET
 
 ## Introducción

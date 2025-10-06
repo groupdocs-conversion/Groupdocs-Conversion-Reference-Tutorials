@@ -8,10 +8,8 @@ keywords:
 - convert DWT to PPTX
 - GroupDocs.Conversion for .NET
 - document conversion .NET
-
+type: docs
 ---
-
-
 # Convert DWT Files to PPTX Using GroupDocs.Conversion for .NET
 
 ## Introduction

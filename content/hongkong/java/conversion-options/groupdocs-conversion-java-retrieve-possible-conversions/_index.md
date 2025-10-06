@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for Java&#58; 如何擷取所有可能的轉換"
 "url": "/zh-hant/java/conversion-options/groupdocs-conversion-java-retrieve-possible-conversions/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for Java 擷取所有可能轉換的綜合指南
 
 ## 介紹

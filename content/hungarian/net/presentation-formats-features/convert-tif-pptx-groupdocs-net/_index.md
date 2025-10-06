@@ -4,8 +4,8 @@
 "title": "Hogyan konvertáljunk TIF fájlokat PPTX fájlokká a GroupDocs.Conversion for .NET használatával? Átfogó útmutató"
 "url": "/hu/net/presentation-formats-features/convert-tif-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # TIF fájlok PPTX formátumba konvertálása a GroupDocs.Conversion for .NET segítségével: Átfogó útmutató
 
 ## Bevezetés

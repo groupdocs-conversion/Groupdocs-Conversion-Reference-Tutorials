@@ -4,8 +4,8 @@
 "title": "Converti OneNote in CSV in C# utilizzando GroupDocs.Conversion per .NET | Tutorial"
 "url": "/it/net/spreadsheet-formats-features/convert-onenote-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converti OneNote in CSV in C# con GroupDocs.Conversion per .NET
 
 ## Introduzione

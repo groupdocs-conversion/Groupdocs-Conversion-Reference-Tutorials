@@ -8,10 +8,8 @@ keywords:
 - Convert Markdown to Word
 - GroupDocs.Conversion .NET
 - Markdown to Word Conversion
-
+type: docs
 ---
-
-
 # Convert Markdown to Word Using GroupDocs in .NET
 
 ## Introduction

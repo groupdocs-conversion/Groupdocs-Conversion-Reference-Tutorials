@@ -3,8 +3,8 @@
 "title": "Hướng dẫn xử lý và thay thế phông chữ cho GroupDocs.Conversion .NET"
 "url": "/vi/net/font-handling-substitution/"
 "weight": 22
+type: docs
 ---
-
 # Hướng dẫn xử lý và thay thế phông chữ cho GroupDocs.Conversion .NET
 
 Khám phá khả năng quản lý phông chữ với hướng dẫn toàn diện GroupDocs.Conversion dành cho .NET của chúng tôi. Các hướng dẫn từng bước này trình bày cách chỉ định tùy chọn thay thế phông chữ trên nhiều loại tài liệu khác nhau bao gồm Word, Excel, PowerPoint và các định dạng ghi chú, xử lý phông chữ bị thiếu, triển khai chính sách nhúng phông chữ, quản lý yêu cầu cấp phép phông chữ, kiểm soát hành vi dự phòng phông chữ, bảo toàn kiểu phông chữ và định dạng, và đảm bảo giao diện văn bản nhất quán trên các nền tảng khác nhau. Mỗi hướng dẫn đều bao gồm các ví dụ mã C# thực tế cho các hoạt động liên quan đến phông chữ, giúp bạn xây dựng các ứng dụng duy trì độ trung thực của tài liệu ngay cả khi giải quyết các thách thức về tính khả dụng của phông chữ.

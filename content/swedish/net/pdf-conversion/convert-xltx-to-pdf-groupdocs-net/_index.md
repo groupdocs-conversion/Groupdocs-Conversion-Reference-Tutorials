@@ -4,8 +4,8 @@
 "title": "Konvertera Excel-mallfiler (XLTX) till PDF med GroupDocs.Conversion för .NET"
 "url": "/sv/net/pdf-conversion/convert-xltx-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera Excel-mallfiler (XLTX) till PDF med GroupDocs.Conversion för .NET
 
 ## Introduktion

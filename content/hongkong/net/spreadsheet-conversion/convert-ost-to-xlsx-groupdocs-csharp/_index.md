@@ -4,8 +4,8 @@
 "title": "使用 C# 中的 GroupDocs.Conversion for .NET 掌握 OST 到 XLSX 的轉換"
 "url": "/zh-hant/net/spreadsheet-conversion/convert-ost-to-xlsx-groupdocs-csharp/"
 "weight": 1
+type: docs
 ---
-
 # 使用 C# 中的 GroupDocs.Conversion for .NET 掌握 OST 到 XLSX 的轉換
 
 ## 介紹

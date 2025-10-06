@@ -4,8 +4,8 @@
 "title": "PLT konvertálása JPG-vé a GroupDocs.Conversion segítségével .NET-ben – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-plt-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PLT konvertálása JPG-vé a GroupDocs.Conversion használatával .NET-ben: Átfogó útmutató
 
 ## Bevezetés

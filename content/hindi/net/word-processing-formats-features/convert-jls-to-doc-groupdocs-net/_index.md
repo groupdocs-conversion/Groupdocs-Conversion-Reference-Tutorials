@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके JPEG दोषरहित (JLS) छवियों को Word दस्तावेज़ों (.doc) में कैसे परिवर्तित करें"
 "url": "/hi/net/word-processing-formats-features/convert-jls-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion के साथ JLS to DOC को कैसे परिवर्तित करें
 
 ## परिचय

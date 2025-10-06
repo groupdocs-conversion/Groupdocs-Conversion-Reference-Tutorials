@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert WMF Files to TEX Using GroupDocs.Conversion for .NET
 
 ## Introduction

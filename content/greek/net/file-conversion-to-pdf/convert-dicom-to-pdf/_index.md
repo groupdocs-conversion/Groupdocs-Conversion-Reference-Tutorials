@@ -5,8 +5,8 @@
 "title": "Μετατροπή ιατρικών εικόνων DICOM σε PDF"
 "url": "/el/net/file-conversion-to-pdf/convert-dicom-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # Μετατροπή ιατρικών εικόνων DICOM σε PDF
 
 ## Εισαγωγή

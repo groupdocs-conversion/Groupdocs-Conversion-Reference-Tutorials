@@ -4,8 +4,8 @@
 "title": "Hatékony TIF-ből Wordbe konvertálás .NET-ben a GroupDocs.Conversion használatával"
 "url": "/hu/net/word-processing-conversion/convert-tif-to-word-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony TIF-ből Wordbe konvertálás .NET-ben a GroupDocs.Conversion használatával
 
 ## Bevezetés

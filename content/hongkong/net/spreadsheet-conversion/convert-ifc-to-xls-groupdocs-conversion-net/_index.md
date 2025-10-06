@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 IFC 轉換為 XLS — 逐步指南"
 "url": "/zh-hant/net/spreadsheet-conversion/convert-ifc-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 IFC 檔案轉換為 XLS：逐步指南
 
 ## 介紹

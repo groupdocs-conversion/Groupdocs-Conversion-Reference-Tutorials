@@ -4,8 +4,8 @@
 "title": "Chuyển đổi EMF sang PNG trong C# với GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/image-conversion/convert-emf-to-png-groupdocs-net-csharp/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp EMF sang PNG bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

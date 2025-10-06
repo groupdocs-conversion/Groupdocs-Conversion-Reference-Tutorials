@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Automate CSV to DOCX Conversion with GroupDocs for .NET
 
 ## Introduction

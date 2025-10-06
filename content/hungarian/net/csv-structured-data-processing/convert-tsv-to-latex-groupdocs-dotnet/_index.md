@@ -4,8 +4,8 @@
 "title": "TSV fájlok konvertálása LaTeX formátumra a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/csv-structured-data-processing/convert-tsv-to-latex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # TSV fájlok konvertálása LaTeX formátumra a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

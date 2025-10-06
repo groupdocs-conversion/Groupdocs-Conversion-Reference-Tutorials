@@ -4,8 +4,8 @@
 "title": "Cách tải và chuyển đổi tệp DWT bằng GroupDocs.Conversion cho .NET | CAD & Bản vẽ kỹ thuật"
 "url": "/vi/net/cad-technical-drawing-formats/load-dwt-files-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cách tải và chuyển đổi tệp DWT bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

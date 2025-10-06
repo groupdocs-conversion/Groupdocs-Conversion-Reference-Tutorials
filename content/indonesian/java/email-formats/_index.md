@@ -3,8 +3,8 @@
 "title": "Tutorial Konversi Format Email untuk GroupDocs.Conversion Java"
 "url": "/id/java/email-formats/"
 "weight": 8
+type: docs
 ---
-
 # Tutorial Konversi Format Email untuk GroupDocs.Conversion Java
 
 Kuasai konversi berkas email dengan tutorial GroupDocs.Conversion terperinci kami untuk pengembang Java. Panduan langkah demi langkah ini menunjukkan cara mengonversi pesan email ke format dokumen, mengekstrak lampiran email, menyimpan metadata email, menangani tajuk dan isi email, serta menerapkan operasi konversi email batch. Setiap tutorial menyediakan contoh kode Java praktis untuk bekerja dengan arsip dan pesan email, membantu Anda membangun aplikasi yang dapat memproses dan mengubah komunikasi email secara efektif ke berbagai format dokumen.

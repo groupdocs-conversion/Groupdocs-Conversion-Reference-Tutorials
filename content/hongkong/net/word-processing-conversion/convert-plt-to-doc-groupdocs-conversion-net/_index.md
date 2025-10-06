@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 PLT 轉換為 DOC™ 逐步指南"
 "url": "/zh-hant/net/word-processing-conversion/convert-plt-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 將 PLT 轉換為 DOC：使用 GroupDocs.Conversion for .NET 的逐步指南
 
 ## 介紹

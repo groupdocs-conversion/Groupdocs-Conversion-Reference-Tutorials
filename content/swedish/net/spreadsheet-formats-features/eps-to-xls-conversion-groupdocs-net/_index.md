@@ -4,8 +4,8 @@
 "title": "Effektiv EPS till XLS-konvertering med GroupDocs.Conversion för .NET"
 "url": "/sv/net/spreadsheet-formats-features/eps-to-xls-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Effektiv EPS till XLS-konvertering med GroupDocs.Conversion för .NET
 
 ## Introduktion

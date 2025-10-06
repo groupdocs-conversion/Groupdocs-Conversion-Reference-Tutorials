@@ -4,8 +4,8 @@
 "title": "Convertir VSDM a XLS con GroupDocs para .NET&#58; una guía completa"
 "url": "/es/net/cad-technical-drawing-formats/convert-vsmd-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir VSDM a XLS con GroupDocs para .NET: una guía completa
 
 ## Introducción

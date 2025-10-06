@@ -3,8 +3,8 @@
 "title": "Tutorial Konversi Teks dan Markup untuk GroupDocs.Conversion .NET"
 "url": "/id/net/text-markup-conversion/"
 "weight": 32
+type: docs
 ---
-
 # Tutorial Konversi Teks dan Markup untuk GroupDocs.Conversion .NET
 
 Jelajahi konversi format berbasis teks dengan tutorial GroupDocs.Conversion terperinci kami untuk pengembang .NET. Panduan langkah demi langkah ini menunjukkan cara mengonversi dari format dokumen kaya ke teks biasa, XML, Markdown, TeX, dan format berbasis teks lainnya. Pelajari tentang opsi pengodean, teknik ekstraksi teks, penanganan karakter khusus, pemeliharaan struktur dokumen, pemeliharaan hubungan hierarkis dalam format markup, dan penerapan kebijakan pemformatan teks. Setiap tutorial mencakup contoh kode C# praktis untuk membuat representasi teks dokumen Anda yang menangkap konten penting dalam format yang sederhana, portabel, dan mudah diurai.

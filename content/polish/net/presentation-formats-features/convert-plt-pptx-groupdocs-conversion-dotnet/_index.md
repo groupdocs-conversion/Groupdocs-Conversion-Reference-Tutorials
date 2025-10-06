@@ -4,8 +4,8 @@
 "title": "Jak konwertować pliki PLT do PPTX za pomocą GroupDocs.Conversion dla .NET"
 "url": "/pl/net/presentation-formats-features/convert-plt-pptx-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak konwertować pliki PLT do PPTX za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

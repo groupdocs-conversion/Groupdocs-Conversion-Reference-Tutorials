@@ -4,8 +4,8 @@
 "title": "Μετατροπή CF2 σε PNG χρησιμοποιώντας το GroupDocs.Conversion .NET™ - Ένας πλήρης οδηγός"
 "url": "/el/net/image-conversion/convert-cf2-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή CF2 σε PNG με το GroupDocs.Conversion .NET: Οδηγός βήμα προς βήμα
 
 ## Εισαγωγή

@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 的儲存檔案和 PST 處理教學課程"
 "url": "/zh-hant/net/storage-files-pst-processing/"
 "weight": 21
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 的儲存檔案和 PST 處理教學課程
 
 我們的儲存檔案處理教學提供了在 .NET 應用程式中處理電子郵件容器的詳細指南。這些實用指南示範如何從 PST 和 OST 等個人儲存檔案擷取和轉換內容、擷取資料夾結構、將儲存內容轉換為不同格式、處理巢狀內容層次結構、儲存訊息元資料、批次處理多個訊息以及實現選擇性擷取操作。每個教程都包含完整的 C# 程式碼範例，用於儲存檔案轉換場景，協助您建立能夠有效存取和轉換以電子郵件容器格式儲存的資料的應用程式。

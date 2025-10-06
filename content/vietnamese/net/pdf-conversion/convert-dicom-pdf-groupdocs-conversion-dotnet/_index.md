@@ -4,8 +4,8 @@
 "title": "Chuyển đổi DICOM sang PDF với GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/pdf-conversion/convert-dicom-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi DICOM sang PDF bằng GroupDocs.Conversion cho .NET
 ## Giới thiệu
 Trong lĩnh vực hình ảnh y tế, các tệp Digital Imaging and Communications in Medicine (DICOM) là rất cần thiết. Việc chia sẻ những hình ảnh này trong khi vẫn duy trì siêu dữ liệu của chúng thường yêu cầu chuyển đổi sang định dạng dễ truy cập hơn như PDF. **GroupDocs.Conversion cho .NET** đơn giản hóa quá trình này một cách hiệu quả. Trong hướng dẫn này, chúng tôi sẽ chỉ cho bạn cách chuyển đổi tệp DICOM sang PDF bằng thư viện GroupDocs.Conversion.

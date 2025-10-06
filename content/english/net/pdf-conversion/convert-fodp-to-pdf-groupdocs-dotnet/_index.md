@@ -8,10 +8,8 @@ keywords:
 - convert FODP to PDF .NET
 - GroupDocs.Conversion for .NET setup
 - FODP file conversion
-
+type: docs
 ---
-
-
 # Convert FODP Files to PDF with GroupDocs.Conversion for .NET
 
 ## Introduction

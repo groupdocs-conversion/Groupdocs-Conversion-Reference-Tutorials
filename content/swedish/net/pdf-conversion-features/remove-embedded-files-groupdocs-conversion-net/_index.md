@@ -4,8 +4,8 @@
 "title": "Så här tar du bort inbäddade filer från PDF-filer med GroupDocs.Conversion .NET för optimerad dokumenthantering"
 "url": "/sv/net/pdf-conversion-features/remove-embedded-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Så här tar du bort inbäddade filer från PDF-filer med GroupDocs.Conversion .NET för optimerad dokumenthantering
 
 ## Introduktion

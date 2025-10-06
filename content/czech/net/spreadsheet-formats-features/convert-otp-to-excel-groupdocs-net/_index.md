@@ -4,8 +4,8 @@
 "title": "Převod OTP grafu původu do Excelu pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/spreadsheet-formats-features/convert-otp-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod OTP grafu původu do Excelu pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

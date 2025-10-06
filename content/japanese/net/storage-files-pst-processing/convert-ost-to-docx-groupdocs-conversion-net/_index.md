@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して OST を DOCX に変換する手順"
 "url": "/ja/net/storage-files-pst-processing/convert-ost-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して OST ファイルを DOCX に変換する
 
 ## 導入

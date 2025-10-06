@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanarak VSTM Dosyalarını TXT'ye Dönüştürme - Adım Adım Kılavuz"
 "url": "/tr/net/text-markup-conversion/convert-vstm-files-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanarak VSTM Dosyalarını TXT'ye Dönüştürün
 
 ## giriiş

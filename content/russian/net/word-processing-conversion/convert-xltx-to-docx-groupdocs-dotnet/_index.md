@@ -4,8 +4,8 @@
 "title": "Конвертируйте XLTX в DOCX с помощью GroupDocs для .NET&#58; Подробное руководство"
 "url": "/ru/net/word-processing-conversion/convert-xltx-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте XLTX в DOCX с помощью GroupDocs для .NET: подробное руководство
 ## Введение
 Конвертация файла Excel Open XML Template (XLTX) в документ Microsoft Word (DOCX) может быть легко выполнена с помощью библиотеки GroupDocs.Conversion for .NET. Этот мощный инструмент упрощает процессы конвертации документов, обеспечивая эффективные преобразования между различными форматами.

@@ -4,8 +4,8 @@
 "title": "Αντικατάσταση γραμματοσειράς σε Java - Mastering GroupDocs.Conversion για συνεπή έξοδο PDF"
 "url": "/el/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/"
 "weight": 1
+type: docs
 ---
-
 # Εξοικείωση με την αντικατάσταση γραμματοσειρών με το GroupDocs.Conversion για Java
 
 ## Εισαγωγή

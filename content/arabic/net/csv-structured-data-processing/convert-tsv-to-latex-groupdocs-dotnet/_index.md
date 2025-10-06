@@ -4,8 +4,8 @@
 "title": "كيفية تحويل ملفات TSV إلى LaTeX باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/csv-structured-data-processing/convert-tsv-to-latex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل ملفات TSV إلى LaTeX باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

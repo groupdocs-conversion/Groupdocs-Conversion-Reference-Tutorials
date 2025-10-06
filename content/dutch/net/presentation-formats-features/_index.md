@@ -3,8 +3,8 @@
 "title": "Presentatieformaten en functies Tutorials voor GroupDocs.Conversion .NET"
 "url": "/nl/net/presentation-formats-features/"
 "weight": 12
+type: docs
 ---
-
 # Presentatieformaten en functies Tutorials voor GroupDocs.Conversion .NET
 
 Onze presentatiegerichte tutorials laten zien hoe u met dia-gebaseerde documenten kunt werken met GroupDocs.Conversion in .NET. Deze praktische handleidingen begeleiden u bij het converteren tussen PowerPoint-formaten, het verbergen van opmerkingen tijdens de conversie, het toevoegen of uitsluiten van verborgen dia's, het specificeren van opties voor lettertypevervanging, het behouden van animaties en overgangen, het onderhouden van sprekersnotities, het verwerken van ingesloten media en het waarborgen van consistente lay-outs in verschillende presentatieformaten. Elke tutorial bevat gedetailleerde C#-codevoorbeelden voor scenario's voor presentatieconversie, waarmee u applicaties kunt bouwen die hoogwaardige conversies produceren met behoud van visuele elementen en interactieve functies.

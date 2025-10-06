@@ -5,8 +5,8 @@
 "title": "AI-bestanden naar PDF converteren"
 "url": "/nl/net/file-conversion-to-pdf/convert-ai-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # AI-bestanden naar PDF converteren
 
 ## Invoering

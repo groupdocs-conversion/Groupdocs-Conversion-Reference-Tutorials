@@ -5,8 +5,8 @@
 "title": "将 VSD 转换为 PDF"
 "url": "/zh/net/file-format-conversion-tutorials/convert-vsd-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # 将 VSD 转换为 PDF
 
 ## 介绍

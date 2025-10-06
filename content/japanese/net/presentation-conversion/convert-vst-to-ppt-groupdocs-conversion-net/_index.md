@@ -4,8 +4,8 @@
 "title": "マスターファイル変換&#58; GroupDocs.Conversion .NET ライブラリを使用して VST を PPT に変換します"
 "url": "/ja/net/presentation-conversion/convert-vst-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # マスターファイル変換: GroupDocs.Conversion .NET ライブラリを使用して VST を PPT に変換する
 
 ## 導入

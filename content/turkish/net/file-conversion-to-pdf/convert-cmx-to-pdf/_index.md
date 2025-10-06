@@ -5,8 +5,8 @@
 "title": "CMX'i PDF'e dönüştür"
 "url": "/tr/net/file-conversion-to-pdf/convert-cmx-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # CMX'i PDF'e dönüştür
 
 ## giriiş

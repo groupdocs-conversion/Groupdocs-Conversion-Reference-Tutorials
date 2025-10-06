@@ -5,8 +5,8 @@
 "title": "Konversi Halaman Web HTML ke PDF"
 "url": "/id/net/convert-files-to-pdf/convert-html-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Konversi Halaman Web HTML ke PDF
 
 ## Perkenalan

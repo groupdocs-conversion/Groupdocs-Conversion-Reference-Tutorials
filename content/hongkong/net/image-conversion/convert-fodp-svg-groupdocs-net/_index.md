@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 將 FODP 檔案轉換為 SVG"
 "url": "/zh-hant/net/image-conversion/convert-fodp-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將 FODP 檔案轉換為 SVG
 
 ## 介紹

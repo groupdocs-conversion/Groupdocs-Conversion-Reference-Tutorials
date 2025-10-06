@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak POT'u CSV'ye Verimli Şekilde Dönüştürün&#58; Bir Geliştiricinin Kılavuzu"
 "url": "/tr/net/presentation-formats-features/convert-pot-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak POT'u CSV'ye Verimli Şekilde Dönüştürün: Bir Geliştiricinin Kılavuzu
 
 ## giriiş

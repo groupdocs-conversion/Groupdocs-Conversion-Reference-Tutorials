@@ -8,10 +8,8 @@ keywords:
 - convert DIB to DOCX
 - GroupDocs.Conversion for .NET
 - C# tutorial
-
+type: docs
 ---
-
-
 # How to Convert DIB Files to DOCX Using GroupDocs.Conversion for .NET (C# Tutorial)
 
 ## Introduction

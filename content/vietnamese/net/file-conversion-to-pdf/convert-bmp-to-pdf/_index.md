@@ -5,8 +5,8 @@
 "title": "Chuyển đổi hình ảnh BMP sang PDF"
 "url": "/vi/net/file-conversion-to-pdf/convert-bmp-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Chuyển đổi hình ảnh BMP sang PDF
 
 ## Giới thiệu

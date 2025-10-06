@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 库在 .NET 中将 VSDX 转换为 DOCX"
 "url": "/zh/net/word-processing-formats-features/convert-vsdx-docx-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # 掌握 .NET 中的文件转换：使用 GroupDocs.Conversion 将 VSDX 文件转换为 DOCX
 
 ## 介绍

@@ -4,8 +4,8 @@
 "title": "Converteer OST naar PDF met GroupDocs.Conversion voor .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/pdf-conversion/convert-ost-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OST-bestanden naar PDF converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

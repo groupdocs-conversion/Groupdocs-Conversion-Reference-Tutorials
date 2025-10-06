@@ -5,8 +5,8 @@
 "title": "将 DOT Word 模板转换为 PDF"
 "url": "/zh/net/file-conversion-to-pdf/convert-dot-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # 将 DOT Word 模板转换为 PDF
 
 ## 介绍

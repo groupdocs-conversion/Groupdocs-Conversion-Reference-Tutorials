@@ -8,10 +8,8 @@ keywords:
 - convert VCF to TXT
 - GroupDocs.Conversion for .NET
 - text format conversion
-
+type: docs
 ---
-
-
 # Convert VCF Files to TXT Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - PLT to PSD conversion
 - GroupDocs.Conversion for .NET
 - CAD file format conversion
-
+type: docs
 ---
-
-
 # Efficient Conversion of PLT Files to PSD Using GroupDocs.Conversion for .NET
 
 ## Introduction

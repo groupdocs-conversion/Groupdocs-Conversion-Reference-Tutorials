@@ -5,8 +5,8 @@
 "title": "Converteer XLSB naar PDF"
 "url": "/nl/net/converting-file-types-to-pdf/convert-xlsb-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Converteer XLSB naar PDF
 
 ## Invoering

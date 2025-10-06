@@ -4,8 +4,8 @@
 "title": "Převod DWF do PNG pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/image-conversion/convert-dwf-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod DWF do PNG pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

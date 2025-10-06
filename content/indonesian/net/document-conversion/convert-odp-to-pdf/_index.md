@@ -5,8 +5,8 @@
 "title": "Konversi ODP ke PDF"
 "url": "/id/net/document-conversion/convert-odp-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # Konversi ODP ke PDF
 
 ## Perkenalan

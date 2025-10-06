@@ -5,8 +5,8 @@
 "title": "將 TEX 轉換為 PDF"
 "url": "/zh-hant/net/file-format-conversion-tutorials/convert-tex-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # 將 TEX 轉換為 PDF
 
 ## 介紹

@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Learn how to convert DWF CAD files to PDF effortlessly using GroupDocs.Conversion for .NET. Follow our step-by-step for integration into your .NET applications.
 weight: 28
 url: /net/file-conversion-to-pdf/convert-dwf-to-pdf/
+type: docs
 ---
-
 # Convert DWF CAD Files to PDF
 
 ## Introduction

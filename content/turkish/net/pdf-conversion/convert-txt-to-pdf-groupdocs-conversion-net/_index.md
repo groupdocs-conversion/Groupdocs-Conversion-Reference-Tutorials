@@ -4,8 +4,8 @@
 "title": "Zahmetsiz TXT'den PDF'ye Dönüştürme&#58; Master GroupDocs. .NET için Dakikalar İçinde Dönüştürme"
 "url": "/tr/net/pdf-conversion/convert-txt-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Zahmetsiz TXT'den PDF'ye Dönüştürme: .NET için GroupDocs.Conversion'da Dakikalar İçinde Ustalaşın
 
 ## giriiş

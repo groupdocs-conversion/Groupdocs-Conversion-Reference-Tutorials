@@ -4,8 +4,8 @@
 "title": "PLT konvertálása Excelbe a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-plt-files-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PLT konvertálása Excelbe a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

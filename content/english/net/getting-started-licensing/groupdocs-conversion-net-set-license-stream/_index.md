@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion for .NET
 - set license from stream
 - document conversion
-
+type: docs
 ---
-
-
 # Set License from Stream in GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

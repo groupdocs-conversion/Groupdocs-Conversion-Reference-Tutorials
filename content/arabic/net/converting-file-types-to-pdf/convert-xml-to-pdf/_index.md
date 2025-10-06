@@ -5,8 +5,8 @@
 "title": "تحويل XML إلى PDF"
 "url": "/ar/net/converting-file-types-to-pdf/convert-xml-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # تحويل XML إلى PDF
 
 ## مقدمة

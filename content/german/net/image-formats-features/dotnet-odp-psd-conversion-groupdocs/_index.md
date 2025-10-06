@@ -4,8 +4,8 @@
 "title": ".NET ODP zu PSD Konvertierung&#58; Mastering GroupDocs.Conversion für .NET"
 "url": "/de/net/image-formats-features/dotnet-odp-psd-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # .NET ODP zu PSD Konvertierung: Mastering GroupDocs.Conversion für .NET
 
 ## Einführung

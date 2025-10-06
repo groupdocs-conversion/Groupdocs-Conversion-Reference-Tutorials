@@ -8,10 +8,8 @@ keywords:
 - convert VST to PSD
 - GroupDocs.Conversion for .NET
 - VST file conversion
-
+type: docs
 ---
-
-
 # How to Convert VST Files to PSD Using GroupDocs.Conversion for .NET
 
 ## Introduction

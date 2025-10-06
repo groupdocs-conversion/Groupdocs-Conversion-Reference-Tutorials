@@ -4,8 +4,8 @@
 "title": "แปลง WMZ เป็น PDF โดยใช้ GroupDocs.Conversion .NET&#58; คู่มือฉบับสมบูรณ์"
 "url": "/th/net/pdf-conversion/convert-wmz-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลงไฟล์ WMZ เป็น PDF โดยใช้ GroupDocs.Conversion .NET
 
 ## การแนะนำ

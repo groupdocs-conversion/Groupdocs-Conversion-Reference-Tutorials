@@ -4,8 +4,8 @@
 "title": "Efektivní konverze PDF v Javě pomocí knihovny GroupDocs.Conversion"
 "url": "/cs/java/pdf-conversion/convert-local-documents-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní konverze PDF v Javě s GroupDocs.Conversion
 
 ## Zavedení

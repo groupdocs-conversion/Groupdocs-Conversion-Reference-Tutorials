@@ -4,8 +4,8 @@
 "title": "Μετατροπή IGES σε CSV με το GroupDocs.Conversion for .NET! Ένας οδηγός βήμα προς βήμα"
 "url": "/el/net/cad-technical-drawing-formats/convert-igs-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατροπή IGES σε CSV με το GroupDocs.Conversion για .NET: Οδηγός βήμα προς βήμα
 
 ## Εισαγωγή

@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert GIFs to PowerPoint Presentations Using GroupDocs.Conversion for .NET
 
 ## Introduction

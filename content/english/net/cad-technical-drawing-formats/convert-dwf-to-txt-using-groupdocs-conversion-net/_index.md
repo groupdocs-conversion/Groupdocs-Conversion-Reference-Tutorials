@@ -8,10 +8,8 @@ keywords:
 - convert DWF to TXT
 - GroupDocs.Conversion for .NET
 - CAD file conversion
-
+type: docs
 ---
-
-
 # How to Convert DWF Files to TXT Using GroupDocs.Conversion for .NET
 
 ## Introduction

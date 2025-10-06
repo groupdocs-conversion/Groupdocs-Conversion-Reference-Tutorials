@@ -4,8 +4,8 @@
 "title": "تحويل POTM إلى HTML باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/html-conversion/convert-potm-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل POTM إلى HTML باستخدام GroupDocs.Conversion لـ .NET: دليل شامل
 ## مقدمة
 قد يكون من الصعب مشاركة قالب PowerPoint دون الوصول إلى Microsoft PowerPoint أو تضمين العروض التقديمية على مواقع الويب. **GroupDocs.Conversion لـ .NET**تحويل ملفات قوالب مايكروسوفت باوربوينت (.potm) إلى HTML سهل وفعال. سيرشدك هذا الدليل الشامل إلى كيفية استخدام هذه المكتبة القوية بسهولة.

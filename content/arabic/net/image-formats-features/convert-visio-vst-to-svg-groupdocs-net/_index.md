@@ -4,8 +4,8 @@
 "title": "كيفية تحويل قوالب الرسم Visio (.vst) إلى SVG باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/image-formats-features/convert-visio-vst-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل قوالب الرسم Visio (.vst) إلى SVG باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

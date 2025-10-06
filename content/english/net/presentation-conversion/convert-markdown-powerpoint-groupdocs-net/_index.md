@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Markdown to PowerPoint conversion
 - .NET Markdown converter
-
+type: docs
 ---
-
-
 # Convert Markdown to PowerPoint with GroupDocs for .NET
 
 ## Introduction

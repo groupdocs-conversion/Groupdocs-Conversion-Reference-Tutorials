@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie PowerPoint-Vorlagen (.potx) mit GroupDocs.Conversion für .NET in Text"
 "url": "/de/net/text-file-processing/convert-potx-to-text-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # So laden und konvertieren Sie eine Microsoft PowerPoint Open XML-Vorlagendatei (.potx) in Text mit GroupDocs.Conversion für .NET
 
 ## Einführung

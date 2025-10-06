@@ -4,8 +4,8 @@
 "title": "Převod MHTML do DOC pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/word-processing-conversion/convert-mhtml-to-doc-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod MHTML do DOC pomocí GroupDocs.Conversion pro .NET: Komplexní průvodce
 
 ## Zavedení

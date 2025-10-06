@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して Visio テンプレート (.vstm) を Photoshop (.psd) に変換する手順ガイド"
 "url": "/ja/net/image-conversion/convert-vstm-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して Visio テンプレート (.vstm) を Photoshop (.psd) に変換する: ステップバイステップ ガイド
 ## 導入
 Visio マクロ有効図面テンプレート（VSTM）をAdobe Photoshopドキュメント（PSD）のような汎用的な形式に変換するのは、時に困難な場合があります。このガイドでは、GroupDocs.Conversion for .NETを使用してこのプロセスを簡素化し、シームレスで効率的なファイル変換を実現します。この強力なツールを使えば、VSTMからPSDへの変換が簡単になり、ドキュメントワークフローが向上します。

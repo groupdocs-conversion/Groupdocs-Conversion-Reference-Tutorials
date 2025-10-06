@@ -8,10 +8,8 @@ keywords:
 - AI to PDF Conversion
 - GroupDocs.Conversion for .NET
 - Adobe Illustrator to PDF
-
+type: docs
 ---
-
-
 # AI to PDF Conversion Guide Using GroupDocs.Conversion for .NET
 
 ## Introduction

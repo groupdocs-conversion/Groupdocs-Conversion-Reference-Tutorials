@@ -8,10 +8,8 @@ keywords:
 - convert XLSB to HTML
 - GroupDocs.Conversion .NET
 - HTML conversion using GroupDocs
-
+type: docs
 ---
-
-
 # Convert XLSB to HTML with GroupDocs.Conversion .NET
 
 ## Introduction

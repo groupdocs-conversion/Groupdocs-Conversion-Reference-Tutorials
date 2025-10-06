@@ -4,8 +4,8 @@
 "title": "Chuyển đổi EPUB sang DOC với GroupDocs.Conversion .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/word-processing-conversion/convert-epub-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi EPUB sang DOC với GroupDocs.Conversion .NET: Hướng dẫn toàn diện
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "Kapsamlı Kılavuz&#58; .NET için GroupDocs.Conversion'ı Kullanarak XPS'i TXT'ye Dönüştürme"
 "url": "/tr/net/text-file-processing/convert-xps-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Kapsamlı Kılavuz: .NET için GroupDocs.Conversion'ı Kullanarak XPS'i TXT'ye Dönüştürme
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": ".NET के चरण-दर-चरण मार्गदर्शिका के लिए GroupDocs.Conversion का उपयोग करके स्प्रेडशीट को PDF में कनवर्ट करें"
 "url": "/hi/net/pdf-conversion/convert-spreadsheets-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके स्प्रेडशीट को PDF में कनवर्ट करें: चरण-दर-चरण मार्गदर्शिका
 
 ## परिचय

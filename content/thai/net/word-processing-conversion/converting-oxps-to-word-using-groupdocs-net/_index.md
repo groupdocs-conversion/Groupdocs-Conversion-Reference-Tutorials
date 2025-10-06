@@ -4,8 +4,8 @@
 "title": "วิธีการแปลง OXPS เป็น Word โดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/word-processing-conversion/converting-oxps-to-word-using-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการแปลง OXPS เป็น Word โดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 LaTeX(TEX) 파일을 Excel 스프레드시트로 변환"
 "url": "/ko/net/spreadsheet-formats-features/convert-tex-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 LaTeX(TEX) 파일을 Excel 스프레드시트로 변환
 
 ## 소개

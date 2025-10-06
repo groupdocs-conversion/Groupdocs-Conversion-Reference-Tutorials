@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 掌握 .NET 中 VSDM 到 PPT 的轉換"
 "url": "/zh-hant/net/presentation-formats-features/master-vsmd-to-ppt-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 掌握 .NET 中 VSDM 到 PPT 的轉換
 
 在當今的數位環境中，無縫文件轉換對於企業和開發人員都至關重要。將 Visio 巨集啟用圖表 (VSDM) 轉換為 PowerPoint 簡報可以顯著簡化工作流程並增強協作。本教學將指導您使用 GroupDocs.Conversion for .NET 完成此任務。

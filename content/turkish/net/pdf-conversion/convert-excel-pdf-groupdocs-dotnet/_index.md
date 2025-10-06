@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET kullanarak Excel'i PDF'ye dönüştürün Kapsamlı Bir Kılavuz"
 "url": "/tr/net/pdf-conversion/convert-excel-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak Excel Elektronik Tablosunu PDF'ye Dönüştürme
 
 ## giriiş

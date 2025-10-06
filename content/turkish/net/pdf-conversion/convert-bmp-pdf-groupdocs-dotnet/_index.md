@@ -4,8 +4,8 @@
 "title": "Kapsamlı Kılavuz&#58; GroupDocs.Conversion for .NET kullanarak BMP'yi PDF'ye dönüştürün"
 "url": "/tr/net/pdf-conversion/convert-bmp-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Kapsamlı Kılavuz: GroupDocs.Conversion for .NET kullanarak BMP'yi PDF'ye dönüştürün
 
 ## giriiş

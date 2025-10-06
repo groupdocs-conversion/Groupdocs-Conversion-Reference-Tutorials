@@ -8,10 +8,8 @@ keywords:
 - convert DWF to SVG
 - GroupDocs.Conversion .NET
 - document conversion .NET
-
+type: docs
 ---
-
-
 # Convert DWF Files to SVG Format Using GroupDocs.Conversion for .NET
 
 ## Introduction

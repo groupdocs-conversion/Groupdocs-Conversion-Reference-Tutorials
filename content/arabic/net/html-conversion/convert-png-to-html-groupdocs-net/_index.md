@@ -4,8 +4,8 @@
 "title": "تحويل فعال من PNG إلى HTML باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/html-conversion/convert-png-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل فعال من PNG إلى HTML باستخدام GroupDocs.Conversion لـ .NET
 ## مقدمة
 في عالمنا الرقمي اليوم، يُعد تحويل الصور، مثل PNG، إلى صيغ متوافقة مع الويب مثل HTML أمرًا بالغ الأهمية لتحسين تجربة المستخدم وأداء الموقع الإلكتروني. سواء كنت مطورًا تُؤتمت معالجة الصور أو شركة تُبسط إنشاء المحتوى، فإن تحويل ملفات PNG إلى HTML يُحسّن سير عملك بشكل كبير. سيرشدك هذا البرنامج التعليمي إلى كيفية استخدام GroupDocs.Conversion لـ .NET لتحقيق ذلك بسلاسة.

@@ -4,8 +4,8 @@
 "title": "Hogyan konvertálhat VSDM fájlokat JPG formátumba a GroupDocs.Conversion for .NET használatával?"
 "url": "/hu/net/image-conversion/convert-vsdm-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhat VSDM fájlokat JPG formátumba a GroupDocs.Conversion for .NET használatával?
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "JPEG konvertálása LaTeX (TEX) formátumba a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-jpeg-to-latex-with-groupdocs-conversion-for-net/"
 "weight": 1
+type: docs
 ---
-
 # JPEG konvertálása LaTeX (TEX) formátumba a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

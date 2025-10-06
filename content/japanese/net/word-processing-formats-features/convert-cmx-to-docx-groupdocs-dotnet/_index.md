@@ -4,8 +4,8 @@
 "title": ".NETでGroupDocs.Conversionを使用してCMXをDOCXに変換する手順"
 "url": "/ja/net/word-processing-formats-features/convert-cmx-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NETでGroupDocs.Conversionを使用してCMXをDOCXに変換する：ステップバイステップガイド
 
 ## 導入

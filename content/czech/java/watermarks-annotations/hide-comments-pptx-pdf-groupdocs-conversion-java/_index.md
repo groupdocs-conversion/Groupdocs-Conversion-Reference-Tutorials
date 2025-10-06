@@ -4,8 +4,8 @@
 "title": "Skrýt komentáře v PPTX do PDF pomocí GroupDocs.Conversion pro Javu"
 "url": "/cs/java/watermarks-annotations/hide-comments-pptx-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Skrýt komentáře v PPTX do PDF pomocí GroupDocs.Conversion pro Javu
 
 ## Zavedení

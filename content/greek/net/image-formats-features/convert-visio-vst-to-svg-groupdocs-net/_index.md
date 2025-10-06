@@ -4,8 +4,8 @@
 "title": "Πώς να μετατρέψετε πρότυπα σχεδίασης του Visio (.vst) σε SVG χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/image-formats-features/convert-visio-vst-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε πρότυπα σχεδίασης του Visio (.vst) σε SVG χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

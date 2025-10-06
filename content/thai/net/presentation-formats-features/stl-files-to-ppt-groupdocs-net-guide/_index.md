@@ -4,8 +4,8 @@
 "title": "แปลง STL เป็น PowerPoint โดยใช้ GroupDocs.Conversion ใน C# พร้อมคำแนะนำทีละขั้นตอน"
 "url": "/th/net/presentation-formats-features/stl-files-to-ppt-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # แปลงไฟล์ STL เป็นงานนำเสนอ PowerPoint โดยใช้ GroupDocs.Conversion ใน C#
 
 ## การแนะนำ

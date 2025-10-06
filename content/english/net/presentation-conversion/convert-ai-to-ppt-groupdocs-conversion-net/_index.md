@@ -8,10 +8,8 @@ keywords:
 - convert AI to PowerPoint
 - GroupDocs.Conversion for .NET
 - AI file conversion
-
+type: docs
 ---
-
-
 # Convert AI Files to PowerPoint Using GroupDocs.Conversion for .NET
 
 ## Introduction

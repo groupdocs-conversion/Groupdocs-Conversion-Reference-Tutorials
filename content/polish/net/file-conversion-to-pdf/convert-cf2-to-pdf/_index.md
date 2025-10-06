@@ -5,8 +5,8 @@
 "title": "Konwertuj CF2 do PDF"
 "url": "/pl/net/file-conversion-to-pdf/convert-cf2-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # Konwertuj CF2 do PDF
 
 ## Wstęp

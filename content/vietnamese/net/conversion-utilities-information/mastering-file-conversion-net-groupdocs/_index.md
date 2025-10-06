@@ -4,8 +4,8 @@
 "title": "Làm chủ việc chuyển đổi tệp trong .NET bằng GroupDocs.Conversion&#58; Hướng dẫn dành cho nhà phát triển"
 "url": "/vi/net/conversion-utilities-information/mastering-file-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Làm chủ việc chuyển đổi tệp trong .NET với GroupDocs.Conversion: Hướng dẫn dành cho nhà phát triển tối ưu
 
 ## Giới thiệu

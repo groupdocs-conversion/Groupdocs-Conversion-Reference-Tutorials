@@ -8,10 +8,8 @@ keywords:
 - convert TIFF to SVG
 - GroupDocs.Conversion for .NET
 - image format conversion
-
+type: docs
 ---
-
-
 # Convert TIFF to SVG Using GroupDocs.Conversion for .NET
 
 ## Introduction

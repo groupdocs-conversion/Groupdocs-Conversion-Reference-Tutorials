@@ -5,8 +5,8 @@
 "title": "ONE को PDF में बदलें"
 "url": "/hi/net/pdf-conversion/convert-one-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # ONE को PDF में बदलें
 
 ## परिचय

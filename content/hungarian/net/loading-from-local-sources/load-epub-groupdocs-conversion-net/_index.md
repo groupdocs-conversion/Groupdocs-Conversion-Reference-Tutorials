@@ -4,8 +4,8 @@
 "title": "EPUB fájlok betöltése a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/loading-from-local-sources/load-epub-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # EPUB fájl betöltése a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

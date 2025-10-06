@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用して .NET ドキュメントの Excel から Word への変換をマスターする"
 "url": "/ja/net/word-processing-conversion/master-net-conversion-excel-word-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # .NET ドキュメント変換をマスターする: GroupDocs.Conversion を使用して Excel から Word へ
 
 ## 導入

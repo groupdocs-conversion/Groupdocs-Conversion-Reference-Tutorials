@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET&#58;i Kullanarak OneNote'u PowerPoint'e Dönüştürün Kapsamlı Bir Kılavuz"
 "url": "/tr/net/presentation-formats-features/convert-onenote-powerpoint-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET Kullanarak OneNote'u PowerPoint'e Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

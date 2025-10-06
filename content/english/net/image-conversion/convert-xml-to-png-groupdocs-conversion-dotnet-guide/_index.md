@@ -8,10 +8,8 @@ keywords:
 - XML to PNG conversion
 - GroupDocs.Conversion .NET
 - data visualization with images
-
+type: docs
 ---
-
-
 # Convert XML to PNG Using GroupDocs.Conversion in .NET: A Comprehensive Guide
 
 ## Introduction

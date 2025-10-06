@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 將 ICO 轉換為 DOC | 綜合指南"
 "url": "/zh-hant/net/word-processing-conversion/convert-ico-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將 ICO 轉換為 DOC
 
 ## 介紹

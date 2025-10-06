@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して OTT を PPT にシームレスに変換する"
 "url": "/ja/net/presentation-formats-features/convert-ott-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OTT を PPT にシームレスに変換する: GroupDocs.Conversion for .NET の使用
 
 ## 導入

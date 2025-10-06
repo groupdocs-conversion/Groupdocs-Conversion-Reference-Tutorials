@@ -5,8 +5,8 @@
 "title": "Convertire i file in PDF"
 "url": "/it/net/convert-files-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # Convertire i file in PDF
 
 ## Introduzione

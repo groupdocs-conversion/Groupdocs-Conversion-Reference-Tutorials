@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion'ı Kullanarak BMP'den TEX'e Dönüştürme"
 "url": "/tr/net/image-conversion/convert-bmp-to-tex-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak BMP'den TEX Dönüşümüne Hakim Olma
 
 **Belge Dönüşümünün Gücünü Açığa Çıkarın: BMP Görüntülerini Kolayca TEX Formatına Dönüştürün**

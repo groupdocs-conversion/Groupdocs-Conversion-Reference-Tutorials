@@ -4,8 +4,8 @@
 "title": "تحويل POTM إلى تنسيق PSD باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/image-conversion/convert-potm-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل POTM إلى تنسيق PSD باستخدام GroupDocs.Conversion لـ .NET: دليل شامل
 
 ## مقدمة

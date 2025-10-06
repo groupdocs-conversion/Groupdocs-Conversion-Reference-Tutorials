@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET API를 사용한 효율적인 Markdown-LaTeX 변환"
 "url": "/ko/net/text-markup-conversion/convert-markdown-to-latex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET API를 사용한 효율적인 Markdown-LaTeX 변환
 ## 소개
 오늘날의 디지털 시대에 효율적인 문서 변환은 전문가와 학생 모두에게 필수적입니다. 학술 논문이나 기술 문서를 준비할 때 마크다운과 LaTeX 같은 파일 형식 간의 변환은 흔한 작업입니다. 이 튜토리얼에서는 GroupDocs.Conversion .NET API를 사용하여 마크다운(.md) 파일을 LaTeX(.tex) 형식으로 원활하게 변환하는 방법을 안내합니다.

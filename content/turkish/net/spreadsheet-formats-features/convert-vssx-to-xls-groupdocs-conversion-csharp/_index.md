@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion'ı Kullanarak C#'ta VSSX'i XLS'ye Dönüştürme"
 "url": "/tr/net/spreadsheet-formats-features/convert-vssx-to-xls-groupdocs-conversion-csharp/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak C#'ta VSSX'i XLS'ye Dönüştürme
 
 ## giriiş

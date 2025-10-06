@@ -4,8 +4,8 @@
 "title": "Hatékony CAD-ből PDF-be konvertálás a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/pdf-conversion/convert-cad-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony CAD-ből PDF-be konvertálás a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

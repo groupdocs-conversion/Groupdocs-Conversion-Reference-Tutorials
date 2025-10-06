@@ -4,8 +4,8 @@
 "title": "Java용 GroupDocs.Conversion을 사용하여 Word-PDF 변환 시 주석 숨기기"
 "url": "/ko/java/pdf-conversion/hide-comments-word-pdf-conversion-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Java용 GroupDocs.Conversion을 사용하여 Word-PDF 변환 시 주석 숨기기
 
 오늘날처럼 빠르게 변화하는 디지털 세상에서 Word 문서를 PDF로 변환하는 것은 많은 전문가에게 일상적인 작업입니다. 하지만 이러한 문서에 민감한 주석이나 변경 내용 추적이 포함된 경우, 주석이 없는 깔끔한 PDF를 선호할 수 있습니다. 이 튜토리얼에서는 GroupDocs.Conversion for Java를 사용하여 변환 과정에서 주석을 완벽하게 숨기는 방법을 안내합니다.

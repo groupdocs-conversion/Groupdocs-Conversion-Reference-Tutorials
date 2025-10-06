@@ -4,8 +4,8 @@
 "title": "Converti CF2 in JPG utilizzando GroupDocs.Conversion per .NET&#58; una guida passo passo"
 "url": "/it/net/image-conversion/convert-cf2-to-jpg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertire CF2 in JPG utilizzando GroupDocs.Conversion per .NET: una guida passo passo
 
 ## Introduzione

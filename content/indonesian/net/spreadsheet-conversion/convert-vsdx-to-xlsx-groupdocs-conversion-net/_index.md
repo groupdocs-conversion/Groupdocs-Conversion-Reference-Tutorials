@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi File VSD ke XLSX Menggunakan GroupDocs.Conversion untuk .NET - Panduan Lengkap"
 "url": "/id/net/spreadsheet-conversion/convert-vsdx-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi File VSD ke XLSX Menggunakan GroupDocs.Conversion untuk .NET - Panduan Lengkap
 
 ## Perkenalan

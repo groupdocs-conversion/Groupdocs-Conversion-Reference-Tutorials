@@ -8,10 +8,8 @@ keywords:
 - convert PostScript to plain text
 - GroupDocs.Conversion for .NET setup
 - PS to TXT conversion using C#
-
+type: docs
 ---
-
-
 # How to Convert PostScript (PS) to Plain Text Using GroupDocs.Conversion for .NET
 
 ## Introduction

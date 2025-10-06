@@ -8,10 +8,8 @@ keywords:
 - Convert VSDM to PDF
 - GroupDocs.Conversion for .NET
 - Visio Macro-Enabled Drawing to PDF
-
+type: docs
 ---
-
-
 # Convert VSDM Files to PDF Using GroupDocs.Conversion for .NET
 
 ## Introduction

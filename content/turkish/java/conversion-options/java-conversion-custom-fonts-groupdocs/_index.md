@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Kullanılarak Özel Yazı Tipleriyle Java Belge Dönüştürme"
 "url": "/tr/java/conversion-options/java-conversion-custom-fonts-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Kullanılarak Özel Yazı Tipleriyle Java Belge Dönüştürme
 
 Günümüzün dijital dünyasında, orijinal tasarım ve düzenini koruyarak belgeleri dönüştürmek hayati önem taşır. İster bir müşteri için sunum hazırlıyor olun, ister önemli dosyaları arşivliyor olun, yazı tiplerinin platformlar arasında tutarlı olmasını sağlamak zor olabilir. Bu eğitim, sunumları özel yazı tipi değiştirmeleriyle PDF'lere dönüştürmek için GroupDocs.Conversion for Java'yı kullanmanıza rehberlik edecek ve süreç boyunca görsel bütünlüğü sağlayacaktır.

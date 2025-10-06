@@ -4,8 +4,8 @@
 "title": "Мастер-преобразование VSDX в TXT с использованием GroupDocs.Conversion для .NET"
 "url": "/ru/net/cad-technical-drawing-formats/convert-vsdx-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Мастер-преобразование VSDX в TXT с использованием GroupDocs.Conversion для .NET
 
 ## Введение

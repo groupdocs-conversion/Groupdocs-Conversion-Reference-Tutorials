@@ -4,8 +4,8 @@
 "title": "Wdrażanie rejestrowania w GroupDocs.Conversion dla .NET&#58; Przewodnik krok po kroku"
 "url": "/pl/net/conversion-events-logging/implement-logging-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak wdrożyć rejestrowanie zdarzeń GroupDocs.Conversion w .NET: kompleksowy przewodnik
 
 ## Wstęp

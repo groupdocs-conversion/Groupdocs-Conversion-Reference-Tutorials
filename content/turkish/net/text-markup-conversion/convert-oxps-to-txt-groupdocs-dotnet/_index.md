@@ -4,8 +4,8 @@
 "title": "OXPS Dosyaları GroupDocs.Conversion for .NET Kullanılarak TXT'ye Nasıl Dönüştürülür | Metin ve İşaretleme Dönüştürme Kılavuzu"
 "url": "/tr/net/text-markup-conversion/convert-oxps-to-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # OXPS Dosyaları GroupDocs.Conversion for .NET Kullanılarak TXT'ye Nasıl Dönüştürülür
 
 ## giriiş

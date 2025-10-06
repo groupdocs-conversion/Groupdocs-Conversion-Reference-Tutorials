@@ -4,8 +4,8 @@
 "title": "Convertir un fichier JPEG en XLSX à l'aide de GroupDocs.Conversion .NET - Guide étape par étape"
 "url": "/fr/net/spreadsheet-conversion/convert-jpeg-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir un fichier JPEG en XLSX avec GroupDocs.Conversion .NET : guide étape par étape
 
 ## Introduction

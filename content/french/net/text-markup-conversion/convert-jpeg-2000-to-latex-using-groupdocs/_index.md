@@ -4,8 +4,8 @@
 "title": "Convertir JPEG 2000 en LaTeX (TEX) avec GroupDocs.Conversion pour .NET"
 "url": "/fr/net/text-markup-conversion/convert-jpeg-2000-to-latex-using-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Convertir JPEG 2000 en LaTeX (TEX) avec GroupDocs.Conversion pour .NET
 
 ## Introduction

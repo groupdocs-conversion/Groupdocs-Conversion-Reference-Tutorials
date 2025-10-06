@@ -4,8 +4,8 @@
 "title": "Převod DOCM do XLSX v .NET – kompletní průvodce pomocí GroupDocs.Conversion"
 "url": "/cs/net/spreadsheet-conversion/convert-docm-to-xlsx-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Převod DOCM do XLSX v .NET: Kompletní průvodce pomocí GroupDocs.Conversion
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "Hoofddocumentconversie in .NET met GroupDocs.Conversion API"
 "url": "/nl/net/conversion-utilities-information/master-document-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Documentconversie in .NET onder de knie krijgen met GroupDocs.Conversion API
 
 Welkom bij deze uitgebreide handleiding die u helpt documentconversiefuncties naadloos te integreren in uw .NET-applicaties met behulp van de GroupDocs.Conversion API. Of u nu een grote hoeveelheid documenten beheert of een flexibele oplossing nodig hebt voor het converteren van bestandsformaten, deze tutorial geeft u alles wat u nodig hebt om aan de slag te gaan.

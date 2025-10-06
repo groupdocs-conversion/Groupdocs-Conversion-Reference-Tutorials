@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie JPG in HTML mit GroupDocs.Conversion für .NET – Ein umfassender Leitfaden"
 "url": "/de/net/html-conversion/convert-jpg-to-html-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie JPG in HTML mit GroupDocs.Conversion für .NET
 
 ## Einführung

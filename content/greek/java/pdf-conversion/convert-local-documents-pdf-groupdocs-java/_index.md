@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή PDF σε Java χρησιμοποιώντας τη βιβλιοθήκη GroupDocs.Conversion"
 "url": "/el/java/pdf-conversion/convert-local-documents-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική μετατροπή PDF σε Java με το GroupDocs.Conversion
 
 ## Εισαγωγή

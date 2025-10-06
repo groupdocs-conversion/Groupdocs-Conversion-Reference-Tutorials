@@ -3,8 +3,8 @@
 "title": "Tutoriels sur les formats et fonctionnalités des feuilles de calcul pour GroupDocs.Conversion .NET"
 "url": "/fr/net/spreadsheet-formats-features/"
 "weight": 11
+type: docs
 ---
-
 # Tutoriels sur les formats et fonctionnalités des feuilles de calcul pour GroupDocs.Conversion .NET
 
 Apprenez à gérer les feuilles de calcul grâce à nos tutoriels GroupDocs.Conversion .NET. Ces guides détaillés expliquent comment convertir entre les formats Excel, CSV et autres types de feuilles de calcul, afficher ou masquer les lignes et les commentaires de la grille, ignorer les lignes et les colonnes vides, spécifier des plages et des index de feuille pour la conversion, gérer les feuilles masquées, conserver les formules et les fonctions, conserver la mise en forme des cellules et contrôler les chaînes de calcul pendant la conversion. Chaque tutoriel inclut des exemples de code C# fonctionnels qui montrent comment réaliser une conversion précise dans une feuille de calcul tout en préservant les calculs complexes et les éléments visuels.

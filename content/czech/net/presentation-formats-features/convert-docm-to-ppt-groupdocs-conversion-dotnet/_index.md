@@ -4,8 +4,8 @@
 "title": "Převod DOCM do PPT pomocí GroupDocs.Conversion pro .NET – Průvodce vývojáře"
 "url": "/cs/net/presentation-formats-features/convert-docm-to-ppt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod DOCM do PPT pomocí GroupDocs.Conversion pro .NET: Průvodce pro vývojáře
 
 ## Zavedení

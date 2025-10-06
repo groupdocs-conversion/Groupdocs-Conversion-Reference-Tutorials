@@ -4,8 +4,8 @@
 "title": "Эффективное преобразование HTML в PSD с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/image-conversion/html-to-psd-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Эффективное преобразование HTML в PSD с помощью GroupDocs.Conversion для .NET
 
 ## Введение

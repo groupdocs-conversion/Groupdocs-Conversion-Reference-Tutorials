@@ -5,8 +5,8 @@
 "title": "แปลง POT เป็น PDF"
 "url": "/th/net/pdf-conversion/convert-pot-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # แปลง POT เป็น PDF
 
 ## การแนะนำ

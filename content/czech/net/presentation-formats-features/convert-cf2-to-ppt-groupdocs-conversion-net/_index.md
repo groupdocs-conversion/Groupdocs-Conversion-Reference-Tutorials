@@ -4,8 +4,8 @@
 "title": "Převod CF2 na PPT pomocí GroupDocs.Conversion pro .NET – kompletní průvodce"
 "url": "/cs/net/presentation-formats-features/convert-cf2-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů CF2 do prezentací PowerPointu pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

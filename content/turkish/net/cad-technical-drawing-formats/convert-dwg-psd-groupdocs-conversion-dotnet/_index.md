@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanarak DWG'den PSD'ye Verimli Dönüştürme"
 "url": "/tr/net/cad-technical-drawing-formats/convert-dwg-psd-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanarak DWG'den PSD'ye Verimli Dönüştürme
 
 ## giriiş

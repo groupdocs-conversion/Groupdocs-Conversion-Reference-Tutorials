@@ -8,10 +8,8 @@ keywords:
 - Convert EPUB to TEX
 - GroupDocs.Conversion for .NET
 - EPUB to TEX conversion
-
+type: docs
 ---
-
-
 # Convert EPUB to TEX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

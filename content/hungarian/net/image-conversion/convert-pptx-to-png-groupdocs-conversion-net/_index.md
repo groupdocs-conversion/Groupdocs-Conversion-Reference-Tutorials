@@ -4,8 +4,8 @@
 "title": "PPTX fájlok PNG-vé konvertálása a GroupDocs.Conversion használatával .NET-ben – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-pptx-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PPTX fájlok PNG formátumra konvertálása a GroupDocs.Conversion segítségével .NET-ben: Átfogó útmutató
 
 ## Bevezetés

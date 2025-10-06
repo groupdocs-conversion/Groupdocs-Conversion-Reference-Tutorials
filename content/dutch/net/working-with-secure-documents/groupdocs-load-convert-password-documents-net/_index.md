@@ -4,8 +4,8 @@
 "title": "Laad en converteer wachtwoordbeveiligde documenten met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/working-with-secure-documents/groupdocs-load-convert-password-documents-net/"
 "weight": 1
+type: docs
 ---
-
 # Laad en converteer wachtwoordbeveiligde documenten met GroupDocs.Conversion voor .NET
 
 ## Invoering

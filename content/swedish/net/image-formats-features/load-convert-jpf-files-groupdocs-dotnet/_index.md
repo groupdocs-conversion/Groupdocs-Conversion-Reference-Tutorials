@@ -4,8 +4,8 @@
 "title": "Masterfilkonvertering – Läs in och konvertera JPF-filer med GroupDocs för .NET"
 "url": "/sv/net/image-formats-features/load-convert-jpf-files-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertering av huvudfiler: Ladda och konvertera JPF-filer med GroupDocs för .NET
 
 ## Introduktion

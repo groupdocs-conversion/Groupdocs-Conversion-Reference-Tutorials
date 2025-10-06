@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET 라이브러리를 사용하여 OTS 파일을 PNG 이미지로 변환하는 방법"
 "url": "/ko/net/image-conversion/convert-ots-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 라이브러리를 사용하여 OTS 파일을 PNG 이미지로 변환하는 방법
 
 ## 소개

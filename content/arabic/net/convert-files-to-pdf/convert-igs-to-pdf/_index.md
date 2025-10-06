@@ -5,8 +5,8 @@
 "title": "تحويل ملفات نموذج IGS ثلاثي الأبعاد إلى PDF"
 "url": "/ar/net/convert-files-to-pdf/convert-igs-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # تحويل ملفات نموذج IGS ثلاثي الأبعاد إلى PDF
 
 ## مقدمة

@@ -4,8 +4,8 @@
 "title": "Outlook PST naar TEX converteren met GroupDocs.Conversion .NET"
 "url": "/nl/net/storage-files-pst-processing/convert-pst-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Outlook PST naar TEX converteren met GroupDocs.Conversion .NET
 
 ## Invoering

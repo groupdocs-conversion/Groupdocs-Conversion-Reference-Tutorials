@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie PPSM in DOCX mit GroupDocs.Conversion für .NET – eine Schritt-für-Schritt-Anleitung"
 "url": "/de/net/word-processing-formats-features/convert-ppsm-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie PPSM in DOCX mit GroupDocs.Conversion für .NET
 
 ## Einführung

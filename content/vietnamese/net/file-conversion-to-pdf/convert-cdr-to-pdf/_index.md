@@ -5,8 +5,8 @@
 "title": "Chuyển đổi đồ họa vector CDR sang PDF"
 "url": "/vi/net/file-conversion-to-pdf/convert-cdr-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # Chuyển đổi đồ họa vector CDR sang PDF
 
 ## Giới thiệu

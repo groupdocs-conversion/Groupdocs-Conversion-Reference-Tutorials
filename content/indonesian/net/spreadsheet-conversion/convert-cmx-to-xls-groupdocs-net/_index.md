@@ -4,8 +4,8 @@
 "title": "Konversi CMX ke XLS Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Langkah demi Langkah"
 "url": "/id/net/spreadsheet-conversion/convert-cmx-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi File CMX ke XLS dengan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

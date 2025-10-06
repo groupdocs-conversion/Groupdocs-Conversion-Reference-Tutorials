@@ -8,10 +8,8 @@ keywords:
 - convert PDF to image
 - GroupDocs.Conversion .NET
 - PDF conversion options
-
+type: docs
 ---
-
-
 # Convert PDF to Image Using GroupDocs.Conversion .NET: A Comprehensive Guide
 
 ## Introduction

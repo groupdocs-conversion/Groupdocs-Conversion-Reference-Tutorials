@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tệp mẫu Excel (XLTX) sang PDF bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/pdf-conversion/convert-xltx-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp mẫu Excel (XLTX) sang PDF bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

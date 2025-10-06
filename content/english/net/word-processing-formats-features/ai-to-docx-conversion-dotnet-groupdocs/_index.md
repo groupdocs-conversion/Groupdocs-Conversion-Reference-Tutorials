@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Efficient AI to DOCX Conversion in .NET Using GroupDocs.Conversion
 
 ## Introduction

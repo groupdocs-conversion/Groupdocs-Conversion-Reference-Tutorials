@@ -4,8 +4,8 @@
 "title": "تحويل XLSB إلى HTML باستخدام GroupDocs.Conversion .NET - دليل خطوة بخطوة"
 "url": "/ar/net/html-conversion/convert-xlsb-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل XLSB إلى HTML باستخدام GroupDocs.Conversion .NET
 
 ## مقدمة

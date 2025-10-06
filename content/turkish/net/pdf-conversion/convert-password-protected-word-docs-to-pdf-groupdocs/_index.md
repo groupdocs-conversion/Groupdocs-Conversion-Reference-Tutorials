@@ -4,8 +4,8 @@
 "title": "Parola Korumalı Word Belgelerini .NET için GroupDocs.Conversion Kullanarak PDF'lere Nasıl Dönüştürebilirsiniz"
 "url": "/tr/net/pdf-conversion/convert-password-protected-word-docs-to-pdf-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Parola Korumalı Word Belgelerini GroupDocs.Conversion for .NET Kullanarak PDF'lere Nasıl Dönüştürebilirsiniz
 
 ## giriiş

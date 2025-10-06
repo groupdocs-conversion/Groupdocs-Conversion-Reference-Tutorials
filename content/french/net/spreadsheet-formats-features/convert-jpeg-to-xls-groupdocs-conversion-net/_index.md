@@ -4,8 +4,8 @@
 "title": "Convertissez efficacement des fichiers JPEG en XLS à l'aide de GroupDocs.Conversion pour .NET &#58; un guide étape par étape"
 "url": "/fr/net/spreadsheet-formats-features/convert-jpeg-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertissez efficacement des fichiers JPEG en XLS avec GroupDocs.Conversion pour .NET : guide étape par étape
 
 ## Introduction

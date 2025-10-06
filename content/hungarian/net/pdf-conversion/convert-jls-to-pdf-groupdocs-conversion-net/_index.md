@@ -4,8 +4,8 @@
 "title": "JLS fájlok hatékony konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/pdf-conversion/convert-jls-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # JLS fájlok PDF-be konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

@@ -3,8 +3,8 @@
 "title": "Tutorial Konversi Format Presentasi untuk GroupDocs.Conversion Java"
 "url": "/id/java/presentation-formats/"
 "weight": 7
+type: docs
 ---
-
 # Tutorial Konversi Format Presentasi untuk GroupDocs.Conversion Java
 
 Tutorial konversi presentasi kami menunjukkan kepada Anda cara mengubah berkas presentasi menggunakan GroupDocs.Conversion di Java. Panduan praktis ini membahas cara mengonversi format PowerPoint, memelihara animasi dan transisi, menyimpan catatan pembicara, menangani media tertanam, dan memastikan konsistensi tata letak selama konversi. Setiap tutorial menyertakan contoh kode Java terperinci untuk skenario konversi presentasi umum, membantu Anda membangun aplikasi yang menghasilkan konversi berkualitas tinggi dengan elemen visual dan fitur interaktif yang terpelihara.

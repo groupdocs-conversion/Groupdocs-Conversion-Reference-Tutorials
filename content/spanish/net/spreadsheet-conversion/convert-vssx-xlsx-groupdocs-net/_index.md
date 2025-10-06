@@ -4,8 +4,8 @@
 "title": "Convierta VSSX a XLSX con GroupDocs.Conversion para .NET&#58; una guía completa"
 "url": "/es/net/spreadsheet-conversion/convert-vssx-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir VSSX a XLSX con GroupDocs.Conversion para .NET: una guía completa
 
 ## Introducción

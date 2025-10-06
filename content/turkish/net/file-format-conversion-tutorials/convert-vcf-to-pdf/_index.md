@@ -5,8 +5,8 @@
 "title": "VCF'yi PDF'ye dönüştür"
 "url": "/tr/net/file-format-conversion-tutorials/convert-vcf-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # VCF'yi PDF'ye dönüştür
 
 ## giriiş

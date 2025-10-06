@@ -4,8 +4,8 @@
 "title": "使用 C# 將 PNG 轉換為 PDF——使用 GroupDocs.Conversion for .NET 的綜合指南"
 "url": "/zh-hant/net/pdf-conversion/convert-png-to-pdf-csharp-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用 C# 將 PNG 轉換為 PDF：GroupDocs.Conversion for .NET 完整指南
 
 ## 介紹

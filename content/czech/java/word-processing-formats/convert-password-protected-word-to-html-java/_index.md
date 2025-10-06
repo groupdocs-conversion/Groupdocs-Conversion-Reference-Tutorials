@@ -4,8 +4,8 @@
 "title": "Jak převést dokumenty Wordu chráněné heslem do HTML pomocí Javy (podrobný návod)"
 "url": "/cs/java/word-processing-formats/convert-password-protected-word-to-html-java/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést dokumenty Wordu chráněné heslem do HTML pomocí Javy
 
 ## Zavedení

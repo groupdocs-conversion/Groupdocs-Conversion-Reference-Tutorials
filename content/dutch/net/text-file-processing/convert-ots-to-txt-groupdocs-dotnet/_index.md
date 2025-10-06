@@ -4,8 +4,8 @@
 "title": "OTS-bestanden naar TXT converteren met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/text-file-processing/convert-ots-to-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # OTS-bestanden naar TXT converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

@@ -4,8 +4,8 @@
 "title": "كيفية إعداد وتطبيق ترخيص لـ GroupDocs.Conversion .NET - دليل خطوة بخطوة"
 "url": "/ar/net/getting-started-licensing/groupdocs-conversion-net-license-setup/"
 "weight": 1
+type: docs
 ---
-
 # دليل شامل: إعداد ترخيص لـ GroupDocs.Conversion .NET
 
 ## مقدمة

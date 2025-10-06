@@ -4,8 +4,8 @@
 "title": "RTF konvertálása XLS-be a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-rtf-to-xls-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # RTF konvertálása XLS-be a GroupDocs.Conversion for .NET használatával: Teljes útmutató
 
 ## Bevezetés

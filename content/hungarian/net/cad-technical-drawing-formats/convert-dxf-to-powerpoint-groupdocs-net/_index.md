@@ -4,8 +4,8 @@
 "title": "DXF fájlok hatékony konvertálása PowerPoint formátumba a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/cad-technical-drawing-formats/convert-dxf-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DXF fájlok hatékony konvertálása PowerPoint formátumba a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

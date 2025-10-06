@@ -4,8 +4,8 @@
 "title": "PowerPoint Şablonu (.potx) GroupDocs.Conversion for .NET Kullanılarak Metne Nasıl Dönüştürülür"
 "url": "/tr/net/text-file-processing/convert-potx-to-text-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak Microsoft PowerPoint Açık XML Şablonu (.potx) Dosyası Nasıl Yüklenir ve Metne Dönüştürülür
 
 ## giriiş

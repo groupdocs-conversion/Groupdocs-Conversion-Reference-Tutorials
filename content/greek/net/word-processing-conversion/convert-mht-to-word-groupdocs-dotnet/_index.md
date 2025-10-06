@@ -4,8 +4,8 @@
 "title": "Πώς να μετατρέψετε αρχεία MHT σε έγγραφα του Word χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/word-processing-conversion/convert-mht-to-word-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε αρχεία MHT σε έγγραφα του Word χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

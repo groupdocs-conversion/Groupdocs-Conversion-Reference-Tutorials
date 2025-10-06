@@ -4,8 +4,8 @@
 "title": "Efektivní převod EPS do TXT v .NET s GroupDocs.Conversion"
 "url": "/cs/net/text-markup-conversion/master-eps-txt-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod EPS do TXT v .NET s GroupDocs.Conversion
 
 ## Zavedení

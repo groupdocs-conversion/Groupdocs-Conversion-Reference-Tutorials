@@ -4,8 +4,8 @@
 "title": "Как преобразовать шаблон PowerPoint (.potx) в текст с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/text-file-processing/convert-potx-to-text-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Как загрузить и преобразовать файл шаблона Microsoft PowerPoint Open XML (.potx) в текст с помощью GroupDocs.Conversion для .NET
 
 ## Введение

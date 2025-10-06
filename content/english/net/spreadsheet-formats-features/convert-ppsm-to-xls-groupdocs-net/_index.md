@@ -8,10 +8,8 @@ keywords:
 - convert PPSM to XLS
 - GroupDocs.Conversion .NET
 - file conversion in .NET
-
+type: docs
 ---
-
-
 # How to Convert PPSM Files to XLS Format Using GroupDocs.Conversion for .NET
 
 ## Introduction

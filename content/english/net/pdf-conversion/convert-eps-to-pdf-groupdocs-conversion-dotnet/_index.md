@@ -8,10 +8,8 @@ keywords:
 - convert eps to pdf
 - GroupDocs.Conversion for .NET
 - EPS file conversion
-
+type: docs
 ---
-
-
 # Convert EPS to PDF Easily with GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

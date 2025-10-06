@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion का उपयोग करके .NET में मास्टर PDF से DOCX रूपांतरण"
 "url": "/hi/net/word-processing-conversion/pdf-to-docx-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion के साथ PDF से DOCX रूपांतरण मास्टर करें
 
 ## परिचय

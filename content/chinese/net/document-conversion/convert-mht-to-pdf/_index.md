@@ -5,8 +5,8 @@
 "title": "将 MHT 转换为 PDF"
 "url": "/zh/net/document-conversion/convert-mht-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # 将 MHT 转换为 PDF
 
 ## 介绍

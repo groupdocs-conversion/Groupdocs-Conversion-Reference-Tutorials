@@ -8,10 +8,8 @@ keywords:
 - Convert EMZ to TEX
 - GroupDocs.Conversion for .NET
 - EMZ file conversion
-
+type: docs
 ---
-
-
 # How to Convert EMZ Files to TEX Format Using GroupDocs.Conversion for .NET
 
 ## Introduction

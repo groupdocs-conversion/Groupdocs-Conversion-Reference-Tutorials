@@ -4,8 +4,8 @@
 "title": "DOC'u GroupDocs.Conversion for .NET Kullanarak TEX'e Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/word-processing-conversion/convert-doc-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanılarak DOC'un TEX'e Dönüştürülmesi
 
 ## giriiş

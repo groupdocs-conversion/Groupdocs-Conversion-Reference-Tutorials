@@ -5,8 +5,8 @@
 "title": "Konwersja PDF"
 "url": "/pl/net/pdf-conversion/"
 "weight": 25
+type: docs
 ---
-
 # Konwersja PDF
 
 ## Wstęp

@@ -5,8 +5,8 @@
 "title": "LOG'u PDF'ye dönüştür"
 "url": "/tr/net/document-conversion/convert-log-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # LOG'u PDF'ye dönüştür
 
 ## giriiş

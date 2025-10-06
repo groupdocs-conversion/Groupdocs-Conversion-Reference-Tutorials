@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak PowerPoint'i SVG'ye Verimli Şekilde Dönüştürün"
 "url": "/tr/net/image-formats-features/convert-ppt-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak PowerPoint'i SVG'ye Verimli Şekilde Dönüştürün
 
 ## giriiş

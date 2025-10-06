@@ -5,8 +5,8 @@
 "title": "SVGZ'yi PDF'ye dönüştür"
 "url": "/tr/net/file-format-conversion-tutorials/convert-svgz-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # SVGZ'yi PDF'ye dönüştür
 
 ## giriiş

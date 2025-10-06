@@ -4,8 +4,8 @@
 "title": "Конвертируйте защищенные паролем документы Word в PDF с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/working-with-secure-documents/convert-password-protected-docs-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Как загрузить и преобразовать защищенные паролем документы Word в PDF с помощью GroupDocs.Conversion для .NET
 
 ## Введение

@@ -4,8 +4,8 @@
 "title": ".NET | CAD रूपांतरण गाइड के लिए GroupDocs.Conversion का उपयोग करके DWG to PPTX को परिवर्तित करें"
 "url": "/hi/net/cad-technical-drawing-formats/convert-dwg-to-pptx-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके DWG को PowerPoint PPTX में परिवर्तित करें
 
 ## परिचय

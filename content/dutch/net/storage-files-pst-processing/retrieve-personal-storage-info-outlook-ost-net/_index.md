@@ -4,8 +4,8 @@
 "title": "Persoonlijke opslaggegevens ophalen uit Outlook OST-bestanden met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/storage-files-pst-processing/retrieve-personal-storage-info-outlook-ost-net/"
 "weight": 1
+type: docs
 ---
-
 # Persoonlijke opslaginformatie ophalen uit Outlook OST-bestanden met GroupDocs.Conversion voor .NET
 
 ## Invoering

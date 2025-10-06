@@ -5,8 +5,8 @@
 "title": "MD'yi PDF'ye dönüştür"
 "url": "/tr/net/document-conversion/convert-md-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # MD'yi PDF'ye dönüştür
 
 ## giriiş

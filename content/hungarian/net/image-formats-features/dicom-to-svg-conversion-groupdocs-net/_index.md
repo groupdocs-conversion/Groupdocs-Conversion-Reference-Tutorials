@@ -4,8 +4,8 @@
 "title": "DICOM konvertálása SVG-vé a GroupDocs.Conversion .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-formats-features/dicom-to-svg-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DICOM konvertálása SVG-vé a GroupDocs.Conversion .NET használatával: lépésről lépésre útmutató
 
 Szeretné DICOM (.dcm) formátumú orvosi képeket skálázható vektorgrafikává (SVG) konvertálni? Ez az átfogó oktatóanyag végigvezeti Önt egy zökkenőmentes megoldáson a GroupDocs.Conversion .NET könyvtár használatával. Sajátítsa el ezt a konvertálási folyamatot, és egyszerűsítse hatékonyan a munkafolyamatát.

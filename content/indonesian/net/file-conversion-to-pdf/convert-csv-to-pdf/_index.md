@@ -5,8 +5,8 @@
 "title": "Konversi File Data CSV ke PDF"
 "url": "/id/net/file-conversion-to-pdf/convert-csv-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # Konversi File Data CSV ke PDF
 
 ## Perkenalan

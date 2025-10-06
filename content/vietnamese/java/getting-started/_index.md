@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Hướng dẫn bắt đầu cho các nhà phát triển Java"
 "url": "/vi/java/getting-started/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Hướng dẫn bắt đầu cho các nhà phát triển Java
 
 Bắt đầu hành trình của bạn với các hướng dẫn thiết yếu của GroupDocs.Conversion hướng dẫn bạn cài đặt, cấu hình cấp phép và thực hiện chuyển đổi tài liệu đầu tiên của bạn trong Java. Các hướng dẫn thân thiện với người mới bắt đầu của chúng tôi trình bày cách thiết lập môi trường phát triển của bạn, khởi tạo thư viện GroupDocs.Conversion và thực hiện các hoạt động chuyển đổi cơ bản. Làm theo các hướng dẫn này để nhanh chóng nắm vững những điều cơ bản và chuẩn bị cho các tác vụ chuyển đổi tài liệu nâng cao hơn trong các ứng dụng Java của bạn.

@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion .NET
 - PSD to PPTX conversion
 - dynamic output directories in C#
-
+type: docs
 ---
-
-
 # Mastering .NET PSD to PPTX Conversion with GroupDocs.Conversion
 
 ## Introduction

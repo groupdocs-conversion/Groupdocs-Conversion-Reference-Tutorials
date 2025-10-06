@@ -4,8 +4,8 @@
 "title": "Come convertire i modelli DOCX in Excel utilizzando GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/spreadsheet-formats-features/convert-docx-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire i modelli DOCX in Excel utilizzando GroupDocs.Conversion per .NET: una guida completa
 
 ## Introduzione

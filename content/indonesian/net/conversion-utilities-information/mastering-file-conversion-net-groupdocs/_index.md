@@ -4,8 +4,8 @@
 "title": "Menguasai Konversi File di .NET Menggunakan GroupDocs.Conversion&#58; Panduan Pengembang"
 "url": "/id/net/conversion-utilities-information/mastering-file-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Menguasai Konversi File dalam .NET dengan GroupDocs.Conversion: Panduan Pengembang Terbaik Anda
 
 ## Perkenalan

@@ -4,8 +4,8 @@
 "title": "Convertire file LaTeX (TEX) in fogli di calcolo Excel utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/spreadsheet-formats-features/convert-tex-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire file LaTeX (TEX) in fogli di calcolo Excel utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

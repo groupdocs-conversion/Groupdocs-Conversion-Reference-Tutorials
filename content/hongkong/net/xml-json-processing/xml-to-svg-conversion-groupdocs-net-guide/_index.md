@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 實現高效的 XML 到 SVG 轉換－逐步指南"
 "url": "/zh-hant/net/xml-json-processing/xml-to-svg-conversion-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 實現高效的 XML 到 SVG 轉換：逐步指南
 
 ## 介紹

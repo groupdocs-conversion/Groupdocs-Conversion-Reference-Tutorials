@@ -8,10 +8,8 @@ keywords:
 - Convert TXT to DOC
 - GroupDocs.Conversion for .NET
 - TXT to Word conversion
-
+type: docs
 ---
-
-
 # Ultimate Guide: Convert TXT to DOC Using GroupDocs.Conversion for .NET
 
 ## Introduction

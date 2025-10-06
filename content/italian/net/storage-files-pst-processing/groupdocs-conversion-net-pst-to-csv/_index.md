@@ -4,8 +4,8 @@
 "title": "Converti PST in CSV con GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/storage-files-pst-processing/groupdocs-conversion-net-pst-to-csv/"
 "weight": 1
+type: docs
 ---
-
 # Convertire PST in CSV con GroupDocs.Conversion per .NET: una guida completa
 
 ## Introduzione

@@ -4,8 +4,8 @@
 "title": "OneNote hatékony konvertálása Excelbe a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/spreadsheet-conversion/convert-onenote-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OneNote konvertálása Excelbe a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

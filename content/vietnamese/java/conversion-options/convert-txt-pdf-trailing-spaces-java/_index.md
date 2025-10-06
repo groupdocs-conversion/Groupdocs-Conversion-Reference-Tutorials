@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi TXT sang PDF bằng cách sử dụng Kiểm soát khoảng trắng theo sau bằng Java và GroupDocs.Conversion"
 "url": "/vi/java/conversion-options/convert-txt-pdf-trailing-spaces-java/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi TXT sang PDF bằng cách sử dụng Kiểm soát khoảng trắng theo sau bằng Java và GroupDocs.Conversion
 
 Trong thế giới kỹ thuật số ngày nay, việc xử lý tài liệu văn bản hiệu quả là rất quan trọng đối với cả doanh nghiệp và cá nhân. Việc chuyển đổi tệp văn bản (TXT) thành các định dạng PDF đa năng trong khi vẫn duy trì tính toàn vẹn của định dạng có thể là một thách thức, đặc biệt là khi xử lý các khoảng trắng theo sau thường làm gián đoạn bố cục. Hướng dẫn này hướng dẫn bạn sử dụng GroupDocs.Conversion for Java để chuyển đổi tệp văn bản thành PDF hiệu quả, kiểm soát các khoảng trắng theo sau.

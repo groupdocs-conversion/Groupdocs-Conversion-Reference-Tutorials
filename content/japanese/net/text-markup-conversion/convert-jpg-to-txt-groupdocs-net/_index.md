@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して JPG を TXT に変換する手順"
 "url": "/ja/net/text-markup-conversion/convert-jpg-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して JPG を TXT に変換する方法
 
 ## 導入

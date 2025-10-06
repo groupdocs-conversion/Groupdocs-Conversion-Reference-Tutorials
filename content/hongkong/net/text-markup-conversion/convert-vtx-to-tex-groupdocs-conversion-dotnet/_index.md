@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 VTX 轉換為 TEX — 逐步指南"
 "url": "/zh-hant/net/text-markup-conversion/convert-vtx-to-tex-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 VTX 轉換為 TEX：逐步指南
 
 ## 介紹

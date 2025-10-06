@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert VSX to SVG with GroupDocs.Conversion .NET: A Comprehensive Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Shift_JIS Metin Dosyalarını GroupDocs.Conversion .NET Kullanarak PDF'ye Dönüştürme"
 "url": "/tr/net/pdf-conversion/convert-shift-jis-txt-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Shift_JIS Metin Dosyalarını GroupDocs.Conversion .NET Kullanarak PDF'ye Dönüştürme
 
 ## giriiş

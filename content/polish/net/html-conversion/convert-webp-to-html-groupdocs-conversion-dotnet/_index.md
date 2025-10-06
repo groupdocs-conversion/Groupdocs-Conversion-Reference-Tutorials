@@ -4,8 +4,8 @@
 "title": "Jak konwertować obrazy WEBP do HTML w .NET przy użyciu GroupDocs.Conversion"
 "url": "/pl/net/html-conversion/convert-webp-to-html-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Kompleksowy przewodnik: Konwersja WEBP do HTML przy użyciu GroupDocs.Conversion dla .NET
 
 ## Wstęp

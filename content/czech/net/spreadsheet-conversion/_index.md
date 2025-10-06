@@ -3,8 +3,8 @@
 "title": "Výukové programy pro převod tabulek v GroupDocs.Conversion .NET"
 "url": "/cs/net/spreadsheet-conversion/"
 "weight": 30
+type: docs
 ---
-
 # Výukové programy pro převod tabulek v GroupDocs.Conversion .NET
 
 Naučte se, jak transformovat dokumenty do upravitelných tabulkových formátů s našimi tutoriály GroupDocs.Conversion .NET. Tyto podrobné návody ukazují, jak převádět z PDF, Word, HTML, obrázků a dalších formátů do XLS, XLSX, CSV, ODS a dalších. Objevte techniky pro zachování výpočtů a vzorců, zachování formátování buněk, práci s dokumenty s více listy, správu záhlaví a zápatí a řízení převodů datových typů. Každý tutoriál obsahuje funkční příklady kódu C#, které ukazují, jak vytvářet tabulkové dokumenty, které přesně reprezentují zdrojový obsah a zároveň umožňují analýzu a manipulaci s daty.

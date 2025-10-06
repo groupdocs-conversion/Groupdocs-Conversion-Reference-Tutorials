@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 转换 TXT 文件——综合指南"
 "url": "/zh/net/text-file-processing/groupdocs-conversion-net-txt-file-conversion/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 转换 TXT 文件：综合指南
 
 ## 介绍

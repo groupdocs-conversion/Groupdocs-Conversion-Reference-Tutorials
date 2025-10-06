@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して STL を XLSX に変換する手順ガイド"
 "url": "/ja/net/spreadsheet-formats-features/convert-stl-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して STL ファイルを XLSX に変換する: ステップバイステップガイド
 
 ## 導入

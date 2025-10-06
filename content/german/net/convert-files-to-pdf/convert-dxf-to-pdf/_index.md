@@ -5,8 +5,8 @@
 "title": "Konvertieren Sie DXF-CAD-Zeichnungsaustauschdateien in PDF"
 "url": "/de/net/convert-files-to-pdf/convert-dxf-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # Konvertieren Sie DXF-CAD-Zeichnungsaustauschdateien in PDF
 
 ## Einführung

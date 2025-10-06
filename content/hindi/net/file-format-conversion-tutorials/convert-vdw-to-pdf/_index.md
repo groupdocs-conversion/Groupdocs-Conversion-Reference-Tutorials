@@ -5,8 +5,8 @@
 "title": "VDW को PDF में बदलें"
 "url": "/hi/net/file-format-conversion-tutorials/convert-vdw-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # VDW को PDF में बदलें
 
 ## परिचय

@@ -4,8 +4,8 @@
 "title": "Hoe u DOCM naar XLS converteert met GroupDocs.Conversion in .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/spreadsheet-conversion/convert-docm-to-xls-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # DOCM naar XLS converteren met GroupDocs.Conversion in .NET: een stapsgewijze handleiding
 ## Invoering
 Moet je een Microsoft Word-document met macro's (.docm) converteren naar Excel-formaat? Deze tutorial begeleidt je bij het gebruik van de GroupDocs.Conversion-bibliotheek in .NET voor efficiënte documentconversie.

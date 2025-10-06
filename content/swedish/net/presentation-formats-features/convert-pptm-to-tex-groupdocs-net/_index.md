@@ -4,8 +4,8 @@
 "title": "Hur man konverterar PPTM till TEX med GroupDocs.Conversion för .NET"
 "url": "/sv/net/presentation-formats-features/convert-pptm-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar PPTM till TEX med GroupDocs.Conversion för .NET
 
 ## Introduktion

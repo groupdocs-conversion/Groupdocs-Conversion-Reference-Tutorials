@@ -4,8 +4,8 @@
 "title": "POTM'yi GroupDocs.Conversion for .NET ile PPTX'e Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/presentation-conversion/convert-potm-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # POTM'yi GroupDocs.Conversion for .NET ile PPTX'e Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 PowerPoint PPT 轉換為 Word DOC 綜合指南"
 "url": "/zh-hant/net/word-processing-conversion/convert-powerpoint-ppt-to-word-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 PowerPoint 簡報轉換為 Word 文件
 
 ## 介紹

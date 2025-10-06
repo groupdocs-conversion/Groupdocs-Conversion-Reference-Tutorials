@@ -8,10 +8,8 @@ keywords:
 - convert XLT to PPT
 - GroupDocs.Conversion for .NET
 - presentation conversion
-
+type: docs
 ---
-
-
 # Convert XLT to PPT Using GroupDocs for .NET
 
 ## Introduction

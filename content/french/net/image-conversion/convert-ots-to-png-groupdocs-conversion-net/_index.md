@@ -4,8 +4,8 @@
 "title": "Comment convertir des fichiers OTS en images PNG à l'aide de la bibliothèque .NET GroupDocs.Conversion"
 "url": "/fr/net/image-conversion/convert-ots-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir des fichiers OTS en images PNG à l'aide de la bibliothèque .NET GroupDocs.Conversion
 
 ## Introduction

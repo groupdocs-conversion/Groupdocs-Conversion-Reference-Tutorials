@@ -8,10 +8,8 @@ keywords:
 - convert VDW to HTML
 - GroupDocs.Conversion .NET
 - Visio Web Drawing (VDW) to HTML
-
+type: docs
 ---
-
-
 # How to Convert VDW Files to HTML with GroupDocs.Conversion for .NET
 
 ## Introduction

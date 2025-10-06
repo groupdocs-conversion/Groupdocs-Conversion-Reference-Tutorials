@@ -4,8 +4,8 @@
 "title": "HTML konvertálása PDF-be a GroupDocs.Conversion for .NET segítségével (PDF konvertálási útmutató)"
 "url": "/hu/net/pdf-conversion/convert-html-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # HTML konvertálása PDF-be a GroupDocs.Conversion for .NET használatával
 ## Bevezetés
 Szeretnéd HTML-fájljaidat egy hordozhatóbb és biztonságosabb formátumba, például PDF-be konvertálni? Akár nyomtatható formában szeretnél webes tartalmat bemutatni, akár dokumentumokat szeretnél terjeszteni anélkül, hogy a formázási változások miatt aggódnod kellene, a megfelelő eszközök használata mindent megváltoztathat. Ebben az oktatóanyagban egy hatékony megoldást mutatunk be a GroupDocs.Conversion for .NET használatával.

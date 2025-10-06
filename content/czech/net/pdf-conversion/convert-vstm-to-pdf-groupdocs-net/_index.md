@@ -4,8 +4,8 @@
 "title": "Převod VSTM do PDF pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/pdf-conversion/convert-vstm-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod VSTM do PDF pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

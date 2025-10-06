@@ -8,10 +8,8 @@ keywords:
 - Convert OneNote to LaTeX
 - GroupDocs.Conversion for .NET
 - automate document conversion
-
+type: docs
 ---
-
-
 # How to Convert OneNote Files to LaTeX Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

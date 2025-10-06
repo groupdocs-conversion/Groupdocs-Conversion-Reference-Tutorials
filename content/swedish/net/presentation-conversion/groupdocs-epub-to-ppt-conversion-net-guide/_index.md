@@ -4,8 +4,8 @@
 "title": "Omfattande guide till konvertering av EPUB till PPT med GroupDocs.Conversion för .NET"
 "url": "/sv/net/presentation-conversion/groupdocs-epub-to-ppt-conversion-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Omfattande guide: Konvertering från EPUB till PPT med GroupDocs.Conversion för .NET
 
 ## Introduktion

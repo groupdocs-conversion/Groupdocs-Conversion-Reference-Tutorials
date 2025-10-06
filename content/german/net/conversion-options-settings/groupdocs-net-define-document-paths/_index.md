@@ -4,8 +4,8 @@
 "title": "Effiziente Dokumentpfadverwaltung in .NET mit GroupDocs.Conversion – Definieren von Konstanten für nahtlose Konvertierungen"
 "url": "/de/net/conversion-options-settings/groupdocs-net-define-document-paths/"
 "weight": 1
+type: docs
 ---
-
 # Effizientes Dokumentpfadmanagement in .NET mit GroupDocs.Conversion
 
 ## Einführung

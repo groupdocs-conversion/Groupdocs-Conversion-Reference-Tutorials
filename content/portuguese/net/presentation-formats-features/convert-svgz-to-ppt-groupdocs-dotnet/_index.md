@@ -4,8 +4,8 @@
 "title": "Como converter arquivos SVGZ para PowerPoint usando o GroupDocs.Conversion para .NET | Guia passo a passo"
 "url": "/pt/net/presentation-formats-features/convert-svgz-to-ppt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Como converter arquivos SVGZ para PowerPoint usando GroupDocs.Conversion para .NET
 
 ## Introdução

@@ -4,8 +4,8 @@
 "title": "Конвертируйте VSD в HTML с помощью GroupDocs.Conversion для .NET&#58; Подробное руководство"
 "url": "/ru/net/html-conversion/convert-vsd-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертация VSD в HTML с помощью GroupDocs.Conversion для .NET: подробное руководство
 
 ## Введение

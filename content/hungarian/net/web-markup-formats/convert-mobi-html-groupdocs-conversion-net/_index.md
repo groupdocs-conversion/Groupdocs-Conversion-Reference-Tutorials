@@ -4,8 +4,8 @@
 "title": "MOBI konvertálása HTML-lé a GroupDocs.Conversion for .NET segítségével – lépésről lépésre útmutató"
 "url": "/hu/net/web-markup-formats/convert-mobi-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MOBI fájlok konvertálása HTML-be a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

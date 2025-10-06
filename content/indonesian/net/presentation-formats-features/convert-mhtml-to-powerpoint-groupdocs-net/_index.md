@@ -4,8 +4,8 @@
 "title": "Konversi MHTML ke PowerPoint dengan GroupDocs.Conversion untuk .NET&#58; Panduan Langkah demi Langkah"
 "url": "/id/net/presentation-formats-features/convert-mhtml-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi MHTML ke PowerPoint Menggunakan GroupDocs di .NET
 
 ## Perkenalan

@@ -4,8 +4,8 @@
 "title": "Cómo convertir JPG a DOC con GroupDocs.Conversion para .NET&#58; una guía completa"
 "url": "/es/net/word-processing-conversion/convert-jpg-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir JPG a DOC con GroupDocs.Conversion para .NET: una guía completa
 
 ## Introducción

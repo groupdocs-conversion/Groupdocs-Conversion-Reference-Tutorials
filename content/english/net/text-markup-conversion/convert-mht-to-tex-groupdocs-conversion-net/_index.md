@@ -8,10 +8,8 @@ keywords:
 - MHT to TEX conversion
 - GroupDocs.Conversion .NET
 - LaTeX document preparation
-
+type: docs
 ---
-
-
 # Convert MHT to TEX Using GroupDocs.Conversion .NET
 
 ## Introduction

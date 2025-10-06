@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak SVG'yi TXT'ye Verimli Şekilde Dönüştürün"
 "url": "/tr/net/text-markup-conversion/convert-svg-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak SVG'yi TXT'ye Verimli Şekilde Dönüştürün
 
 ## giriiş

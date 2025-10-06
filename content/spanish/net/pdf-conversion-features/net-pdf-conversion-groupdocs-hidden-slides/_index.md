@@ -4,8 +4,8 @@
 "title": "Domine la conversión de PDF .NET con diapositivas ocultas mediante GroupDocs.Conversion"
 "url": "/es/net/pdf-conversion-features/net-pdf-conversion-groupdocs-hidden-slides/"
 "weight": 1
+type: docs
 ---
-
 # Domine la conversión de PDF .NET con diapositivas ocultas mediante GroupDocs.Conversion
 
 ## Introducción

@@ -4,8 +4,8 @@
 "title": "VDW konvertálása JPG-vé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/cad-technical-drawing-formats/convert-vdw-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VDW konvertálása JPG-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

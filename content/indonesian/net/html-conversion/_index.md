@@ -3,8 +3,8 @@
 "title": "Tutorial Konversi HTML untuk GroupDocs.Conversion .NET"
 "url": "/id/net/html-conversion/"
 "weight": 26
+type: docs
 ---
-
 # Tutorial Konversi HTML untuk GroupDocs.Conversion .NET
 
 Tutorial konversi HTML kami menunjukkan cara mengubah dokumen menjadi format HTML yang siap untuk web. Panduan terperinci ini mencakup konversi berbagai format sumber termasuk Word, PDF, Excel, PowerPoint, gambar, gambar CAD, pesan email, dan lainnya ke HTML. Pelajari tentang opsi konversi khusus HTML, pengelolaan sumber daya tertanam, pelestarian gaya dokumen, penanganan tata letak responsif, dan pengendalian struktur HTML keluaran. Setiap tutorial mencakup contoh kode C# lengkap untuk membuat representasi HTML berkualitas tinggi dari dokumen Anda yang mempertahankan tampilan dan ketepatan konten asli.

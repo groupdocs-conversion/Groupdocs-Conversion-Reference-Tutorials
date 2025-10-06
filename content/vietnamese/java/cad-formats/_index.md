@@ -3,8 +3,8 @@
 "title": "Hướng dẫn chuyển đổi định dạng CAD cho GroupDocs.Conversion Java"
 "url": "/vi/java/cad-formats/"
 "weight": 10
+type: docs
 ---
-
 # Hướng dẫn chuyển đổi định dạng CAD cho GroupDocs.Conversion Java
 
 Học cách xử lý bản vẽ CAD với hướng dẫn toàn diện GroupDocs.Conversion dành cho các nhà phát triển Java. Những hướng dẫn thực tế này trình bày cách chuyển đổi các tệp AutoCAD sang định dạng có thể xem được, bảo toàn các lớp và phép đo, xử lý các bản vẽ lớn, quản lý các cửa sổ xem và bố cục, và chuyển đổi các mô hình 3D sang biểu diễn 2D. Mỗi hướng dẫn bao gồm các ví dụ mã Java chi tiết cho các tình huống chuyển đổi CAD, giúp bạn xây dựng các ứng dụng có thể xử lý chính xác các bản vẽ kỹ thuật trong khi vẫn bảo toàn các chi tiết kỹ thuật quan trọng.

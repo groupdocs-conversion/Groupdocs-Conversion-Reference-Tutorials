@@ -3,8 +3,8 @@
 "title": "Zelfstudies over opslagbestanden en PST-verwerking voor GroupDocs.Conversion .NET"
 "url": "/nl/net/storage-files-pst-processing/"
 "weight": 21
+type: docs
 ---
-
 # Zelfstudies over opslagbestanden en PST-verwerking voor GroupDocs.Conversion .NET
 
 Onze tutorials over het verwerken van opslagbestanden bieden gedetailleerde richtlijnen voor het verwerken van e-mailcontainers in .NET-applicaties. Deze praktische handleidingen laten zien hoe u inhoud uit persoonlijke opslagbestanden zoals PST en OST kunt extraheren en converteren, mapstructuren kunt ophalen, opslaginhoud naar verschillende formaten kunt converteren, geneste inhoudshiërarchieën kunt verwerken, metadata van berichten kunt behouden, meerdere berichten batchgewijs kunt verwerken en selectieve extractiebewerkingen kunt implementeren. Elke tutorial bevat complete C#-codevoorbeelden voor scenario's voor het converteren van opslagbestanden, waarmee u applicaties kunt bouwen die effectief toegang hebben tot gegevens die zijn opgeslagen in e-mailcontainerformaten en deze kunnen transformeren.

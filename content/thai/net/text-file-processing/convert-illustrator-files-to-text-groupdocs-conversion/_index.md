@@ -4,8 +4,8 @@
 "title": "แปลงไฟล์ Adobe Illustrator เป็นข้อความโดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/text-file-processing/convert-illustrator-files-to-text-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # แปลงไฟล์ Adobe Illustrator เป็นข้อความโดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

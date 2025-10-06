@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用して .NET で BMP を SVG に変換し、シームレスな画像変換を実現する"
 "url": "/ja/net/image-conversion/convert-bmp-svg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion を使用して .NET で BMP を SVG に変換し、シームレスな画像変換を実現する
 
 ## 導入

@@ -5,8 +5,8 @@
 "title": "Convertire le immagini compresse J2C JPEG-LS in PDF"
 "url": "/it/net/convert-files-to-pdf/convert-j2c-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # Convertire le immagini compresse J2C JPEG-LS in PDF
 
 ## Introduzione

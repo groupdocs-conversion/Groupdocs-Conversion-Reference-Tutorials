@@ -4,8 +4,8 @@
 "title": "GIF を JPG に簡単に変換する - GroupDocs.Conversion for .NET ガイド"
 "url": "/ja/net/image-conversion/gif-to-jpg-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GIF を JPG に簡単に変換する: GroupDocs.Conversion for .NET ガイド
 
 ## 導入

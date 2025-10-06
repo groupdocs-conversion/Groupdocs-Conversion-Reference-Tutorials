@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 有效地將 OTS 轉換為 TEX - 完整指南"
 "url": "/zh-hant/net/text-markup-conversion/convert-ots-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 實作高效率的 OTS 到 TEX 轉換
 
 ## 介紹

@@ -4,8 +4,8 @@
 "title": "Jak převést bezztrátové obrázky JPEG (JLS) do dokumentů Wordu (.doc) pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/word-processing-formats-features/convert-jls-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést JLS do DOC pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

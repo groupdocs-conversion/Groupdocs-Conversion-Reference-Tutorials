@@ -5,8 +5,8 @@
 "title": "将PPTX转换为PDF"
 "url": "/zh/net/pdf-conversion/convert-pptx-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # 将PPTX转换为PDF
 
 ## 介绍

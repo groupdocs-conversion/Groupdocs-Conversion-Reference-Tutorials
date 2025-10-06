@@ -4,8 +4,8 @@
 "title": "PSD'yi GroupDocs.Conversion for .NET Kullanarak TXT'ye Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/text-markup-conversion/convert-psd-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PSD'yi GroupDocs.Conversion for .NET ile TXT'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

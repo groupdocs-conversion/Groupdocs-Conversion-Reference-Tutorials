@@ -3,8 +3,8 @@
 "title": "Tutorial Konversi Format Web dan Markup untuk GroupDocs.Conversion Java"
 "url": "/id/java/web-markup-formats/"
 "weight": 13
+type: docs
 ---
-
 # Tutorial Konversi Format Web dan Markup untuk GroupDocs.Conversion Java
 
 Tutorial konversi format web kami menunjukkan kepada Anda cara melakukan transformasi antara bahasa markup dan format dokumen menggunakan GroupDocs.Conversion di Java. Panduan praktis ini memandu Anda dalam mengonversi dokumen ke dan dari HTML, mempertahankan gaya CSS, menangani sumber daya tertanam, memelihara struktur XML, dan memastikan penyandian dan perenderan yang tepat. Setiap tutorial menyertakan contoh kode Java terperinci untuk skenario konversi format web umum, membantu Anda membangun aplikasi yang dapat menjembatani kesenjangan antara konten web dan format dokumen secara efektif.

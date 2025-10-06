@@ -8,10 +8,8 @@ keywords:
 - convert VDX to PNG
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # How to Convert VDX Files to PNG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Konwertuj slajdy PPT do programu Excel&#58; Mastering GroupDocs.Conversion for .NET"
 "url": "/pl/net/presentation-conversion/convert-ppt-slides-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj slajdy PPT do programu Excel za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

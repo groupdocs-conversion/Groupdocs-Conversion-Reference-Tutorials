@@ -3,8 +3,8 @@
 "title": "Presentatieconversiehandleidingen voor GroupDocs.Conversion .NET"
 "url": "/nl/net/presentation-conversion/"
 "weight": 31
+type: docs
 ---
-
 # Presentatieconversiehandleidingen voor GroupDocs.Conversion .NET
 
 Onze tutorials over presentatieconversie laten zien hoe u documenten kunt omzetten naar dia-gebaseerde formaten met behulp van GroupDocs.Conversion in .NET. Deze praktische handleidingen behandelen het converteren van PDF, Word, Excel, afbeeldingen en andere formaten naar PPT, PPTX, ODP en meer. Leer hoe u visuele elementen kunt behouden, animaties waar mogelijk kunt behouden, dia-overgangen kunt verwerken, sprekersnotities kunt genereren, ingesloten media kunt beheren en dia-indelingen kunt beheren tijdens de conversie. Elke tutorial bevat gedetailleerde C#-codevoorbeelden voor het maken van presentatiedocumenten die de broninhoud effectief weergeven in een formaat dat is ontworpen voor presentatie aan een publiek.

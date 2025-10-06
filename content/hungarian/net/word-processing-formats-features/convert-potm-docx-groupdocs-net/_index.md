@@ -4,8 +4,8 @@
 "title": "POTM egyszerű DOCX formátumba konvertálása a GroupDocs.Conversion for .NET segítségével | Lépésről lépésre útmutató"
 "url": "/hu/net/word-processing-formats-features/convert-potm-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # POTM DOCX formátumba konvertálása a GroupDocs for .NET segítségével
 
 ## Bevezetés

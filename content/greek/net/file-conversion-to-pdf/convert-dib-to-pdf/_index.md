@@ -5,8 +5,8 @@
 "title": "Μετατροπή εικόνων DIB σε PDF"
 "url": "/el/net/file-conversion-to-pdf/convert-dib-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # Μετατροπή εικόνων DIB σε PDF
 
 ## Εισαγωγή

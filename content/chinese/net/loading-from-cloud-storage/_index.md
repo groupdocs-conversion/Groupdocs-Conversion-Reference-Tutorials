@@ -3,8 +3,8 @@
 "title": "从 GroupDocs.Conversion .NET 云存储教程中加载文档"
 "url": "/zh/net/loading-from-cloud-storage/"
 "weight": 4
+type: docs
 ---
-
 # 从 GroupDocs.Conversion .NET 云存储教程中加载文档
 
 我们的云存储教程将向您展示如何在 .NET 应用程序中将 GroupDocs.Conversion 与流行的云存储平台集成。这些详细的指南将指导您如何连接到 Amazon S3 存储桶、访问 Azure Blob 存储容器、配置适当的凭据、处理特定区域的设置、管理连接池以及实现云操作的重试逻辑。每个教程都包含用于云文档检索场景的实用 C# 代码示例，帮助您构建在转换工作流中利用基于云的文档存储库的强大应用程序。

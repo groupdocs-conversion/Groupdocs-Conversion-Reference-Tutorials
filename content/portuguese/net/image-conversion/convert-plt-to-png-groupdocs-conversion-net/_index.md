@@ -4,8 +4,8 @@
 "title": "Converta PLT para PNG usando GroupDocs.Conversion para .NET - Um guia passo a passo"
 "url": "/pt/net/image-conversion/convert-plt-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter arquivos PLT para PNG usando GroupDocs.Conversion para .NET
 
 ## Introdução

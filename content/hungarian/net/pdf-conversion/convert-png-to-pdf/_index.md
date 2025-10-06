@@ -5,8 +5,8 @@
 "title": "PNG konvertálása PDF-be"
 "url": "/hu/net/pdf-conversion/convert-png-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # PNG konvertálása PDF-be
 
 ## Bevezetés

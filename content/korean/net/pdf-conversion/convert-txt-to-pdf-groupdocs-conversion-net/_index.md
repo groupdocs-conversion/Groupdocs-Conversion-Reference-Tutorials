@@ -4,8 +4,8 @@
 "title": "간편한 TXT-PDF 변환&#58; .NET용 GroupDocs.Conversion을 몇 분 만에 마스터하세요"
 "url": "/ko/net/pdf-conversion/convert-txt-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 간편한 TXT-PDF 변환: .NET용 GroupDocs.Conversion을 몇 분 만에 마스터하세요
 
 ## 소개

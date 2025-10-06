@@ -8,10 +8,8 @@ keywords:
 - convert PCL to PDF
 - GroupDocs.Conversion for .NET
 - document conversion guide
-
+type: docs
 ---
-
-
 # Convert PCL to PDF with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

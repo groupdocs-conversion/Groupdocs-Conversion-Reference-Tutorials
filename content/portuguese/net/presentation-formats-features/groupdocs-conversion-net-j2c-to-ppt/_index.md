@@ -4,8 +4,8 @@
 "title": "Converta J2C para PowerPoint com eficiência usando GroupDocs.Conversion .NET"
 "url": "/pt/net/presentation-formats-features/groupdocs-conversion-net-j2c-to-ppt/"
 "weight": 1
+type: docs
 ---
-
 # Converta J2C para PowerPoint com eficiência usando GroupDocs.Conversion .NET
 
 ## Introdução

@@ -4,8 +4,8 @@
 "title": "แปลง DICOM เป็น PDF ด้วย GroupDocs การแปลงสำหรับ .NET คำแนะนำที่ครอบคลุม"
 "url": "/th/net/pdf-conversion/convert-dicom-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # แปลง DICOM เป็น PDF โดยใช้ GroupDocs.Conversion สำหรับ .NET
 ## การแนะนำ
 ไฟล์ DICOM (Digital Imaging and Communications in Medicine) ถือเป็นสิ่งสำคัญสำหรับการถ่ายภาพทางการแพทย์ การแบ่งปันภาพเหล่านี้โดยยังคงรักษาข้อมูลเมตาไว้ มักต้องแปลงเป็นรูปแบบที่เข้าถึงได้ง่ายกว่า เช่น PDF **GroupDocs.การแปลงสำหรับ .NET** ทำให้กระบวนการนี้ง่ายขึ้นอย่างมีประสิทธิภาพ ในบทช่วยสอนนี้ เราจะแสดงวิธีการแปลงไฟล์ DICOM เป็น PDF โดยใช้ไลบรารี GroupDocs.Conversion

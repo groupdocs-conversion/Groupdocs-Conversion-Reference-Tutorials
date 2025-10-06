@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET Kullanarak HTML'yi XLSX'e Nasıl Dönüştürebilirsiniz? Kapsamlı Bir Kılavuz"
 "url": "/tr/net/spreadsheet-formats-features/convert-html-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET Kullanılarak HTML'nin XLSX'e Dönüştürülmesi: Kapsamlı Bir Kılavuz
 
 ## giriiş

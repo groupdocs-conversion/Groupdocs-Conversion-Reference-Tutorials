@@ -4,8 +4,8 @@
 "title": "C#でGroupDocs.Conversionを使用してXLSをPSDに変換する - 画像変換チュートリアル"
 "url": "/ja/net/image-conversion/convert-xls-to-psd-groupdocs-conversion-csharp/"
 "weight": 1
+type: docs
 ---
-
 # C#でGroupDocs.Conversionを使用してXLSをPSDに変換する：ステップバイステップガイド
 ## 導入
 ExcelファイルをPhotoshop対応フォーマットに手動で変換するのにうんざりしていませんか？GroupDocs.Conversion for .NETを使えば、XLSファイルをPSDフォーマットにシームレスかつ効率的に変換できます。このチュートリアルでは、C#を使ってそのプロセスを解説し、.NETアプリケーションにおけるドキュメント変換を効率化する堅牢なソリューションを提供します。

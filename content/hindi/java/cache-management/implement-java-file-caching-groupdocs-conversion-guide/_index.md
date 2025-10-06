@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion के साथ Java फ़ाइल कैशिंग&#58; कुशल दस्तावेज़ रूपांतरण के लिए एक व्यापक गाइड"
 "url": "/hi/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # कुशल दस्तावेज़ रूपांतरण के लिए GroupDocs.Conversion के साथ जावा फ़ाइल कैशिंग को कैसे लागू करें
 
 ## परिचय

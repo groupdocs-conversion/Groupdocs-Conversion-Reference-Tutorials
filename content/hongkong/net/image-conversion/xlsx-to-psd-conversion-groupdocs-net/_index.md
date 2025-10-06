@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中將 XLSX 轉換為 PSD 的逐步指南"
 "url": "/zh-hant/net/image-conversion/xlsx-to-psd-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 在 .NET 中將 XLSX 轉換為 PSD：使用 GroupDocs.Conversion 的逐步指南
 
 ## 介紹

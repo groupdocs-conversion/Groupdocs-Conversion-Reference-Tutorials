@@ -5,8 +5,8 @@
 "title": "OTTをPDFに変換する"
 "url": "/ja/net/pdf-conversion/convert-ott-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # OTTをPDFに変換する
 
 ## 導入

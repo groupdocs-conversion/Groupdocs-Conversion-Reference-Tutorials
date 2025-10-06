@@ -5,8 +5,8 @@
 "title": "XLS konvertálása PDF-be"
 "url": "/hu/net/converting-file-types-to-pdf/convert-xls-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # XLS konvertálása PDF-be
 
 ## Bevezetés

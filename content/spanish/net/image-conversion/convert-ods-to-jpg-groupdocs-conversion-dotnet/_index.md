@@ -4,8 +4,8 @@
 "title": "Convierta ODS a JPG con GroupDocs.Conversion .NET&#58; una guía completa"
 "url": "/es/net/image-conversion/convert-ods-to-jpg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertir archivos ODS a JPG usando GroupDocs.Conversion .NET
 En el mundo actual, dominado por los datos, convertir documentos sin problemas entre diferentes formatos es esencial. Tanto si eres un analista de negocios que trabaja con hojas de cálculo como un gestor de proyectos que comparte datos visuales, convertir archivos de Open Document Spreadsheet (ODS) a imágenes JPEG puede ser increíblemente útil para presentaciones e informes. Esta guía completa te guiará en el uso de GroupDocs.Conversion .NET para realizar esta tarea de forma eficiente.
 

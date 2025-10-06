@@ -5,8 +5,8 @@
 "title": "Converteer CGM-vectorafbeeldingen naar PDF"
 "url": "/nl/net/file-conversion-to-pdf/convert-cgm-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # Converteer CGM-vectorafbeeldingen naar PDF
 
 ## Invoering

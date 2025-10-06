@@ -5,8 +5,8 @@
 "title": "แปลง MPT เป็น PDF"
 "url": "/th/net/document-conversion/convert-mpt-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # แปลง MPT เป็น PDF
 
 ## การแนะนำ

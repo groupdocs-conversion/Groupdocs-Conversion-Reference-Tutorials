@@ -4,8 +4,8 @@
 "title": "كيفية تحويل JPEG 2000 إلى نص باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/text-file-processing/convert-jpeg-2000-to-text-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ملفات JPEG 2000 إلى نص باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

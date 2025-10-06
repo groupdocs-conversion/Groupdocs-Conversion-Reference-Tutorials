@@ -8,10 +8,8 @@ keywords:
 - convert VDW to JPG
 - GroupDocs.Conversion for .NET
 - file conversion tutorial
-
+type: docs
 ---
-
-
 # Convert VDW to JPG Using GroupDocs.Conversion for .NET
 
 ## Introduction

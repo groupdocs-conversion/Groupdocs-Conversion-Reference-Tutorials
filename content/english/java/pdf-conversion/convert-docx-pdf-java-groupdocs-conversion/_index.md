@@ -8,10 +8,8 @@ keywords:
 - Convert DOCX to PDF in Java
 - GroupDocs.Conversion for Java
 - Java document conversion
-
+type: docs
 ---
-
-
 # Convert DOCX to PDF in Java with GroupDocs.Conversion
 
 ## Introduction

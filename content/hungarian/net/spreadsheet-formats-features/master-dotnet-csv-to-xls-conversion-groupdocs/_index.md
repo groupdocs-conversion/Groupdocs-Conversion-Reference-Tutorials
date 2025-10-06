@@ -4,8 +4,8 @@
 "title": ".NET CSV-ből XLS-be konvertálás a GroupDocs segítségével – Átfogó útmutató"
 "url": "/hu/net/spreadsheet-formats-features/master-dotnet-csv-to-xls-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # .NET CSV-ből XLS-be konvertálás GroupDocs használatával: Átfogó útmutató
 
 mai adatvezérelt világban a fájlok különböző formátumok közötti konvertálása gyakori követelmény. Akár pénzügyi jelentésekkel foglalkozik, akár nagy adathalmazokat elemez, a CSV (vesszővel elválasztott értékek) fájlok Excel-kompatibilis XLS formátumba konvertálása kulcsfontosságú lehet a hatékony adatkezelés és -elemzés szempontjából. Ez az oktatóanyag végigvezeti Önt a GroupDocs.Conversion for .NET használatán, hogy zökkenőmentesen átalakíthassa CSV-fájljait XLS-dokumentumokká.

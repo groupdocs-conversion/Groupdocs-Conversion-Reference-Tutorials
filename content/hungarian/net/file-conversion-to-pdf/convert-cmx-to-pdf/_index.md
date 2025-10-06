@@ -5,8 +5,8 @@
 "title": "CMX konvertálása PDF-be"
 "url": "/hu/net/file-conversion-to-pdf/convert-cmx-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # CMX konvertálása PDF-be
 
 ## Bevezetés

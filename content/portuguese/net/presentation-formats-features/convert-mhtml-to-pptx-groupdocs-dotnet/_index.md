@@ -4,8 +4,8 @@
 "title": "Converta MHTML para PPTX usando GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/presentation-formats-features/convert-mhtml-to-pptx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converter MHTML para PPTX usando GroupDocs.Conversion para .NET
 
 ## Introdução

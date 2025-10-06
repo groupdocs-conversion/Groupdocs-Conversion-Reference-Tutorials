@@ -5,8 +5,8 @@
 "title": "Конвертируйте электронные книги EPUB в PDF"
 "url": "/ru/net/convert-files-to-pdf/convert-epub-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # Конвертируйте электронные книги EPUB в PDF
 
 ## Введение

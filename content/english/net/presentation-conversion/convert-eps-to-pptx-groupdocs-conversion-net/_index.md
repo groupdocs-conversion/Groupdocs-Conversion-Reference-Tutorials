@@ -8,10 +8,8 @@ keywords:
 - EPS to PPTX conversion
 - GroupDocs.Conversion for .NET
 - file format conversion
-
+type: docs
 ---
-
-
 # Convert EPS to PPTX with GroupDocs.Conversion for .NET: A Comprehensive Tutorial
 
 ## Introduction

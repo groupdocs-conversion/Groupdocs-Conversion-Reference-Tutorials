@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET で WMZ を JPG に簡単変換 | 画像変換ガイド"
 "url": "/ja/net/image-conversion/convert-wmz-to-jpg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET を使用して WMZ ファイルを JPG に変換する
 
 ## 導入

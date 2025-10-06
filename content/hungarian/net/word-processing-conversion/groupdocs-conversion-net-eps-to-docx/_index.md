@@ -4,8 +4,8 @@
 "title": "EPS DOCX-be konvertálás mesteri lépései a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/word-processing-conversion/groupdocs-conversion-net-eps-to-docx/"
 "weight": 1
+type: docs
 ---
-
 # EPS DOCX-be konvertálás elsajátítása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

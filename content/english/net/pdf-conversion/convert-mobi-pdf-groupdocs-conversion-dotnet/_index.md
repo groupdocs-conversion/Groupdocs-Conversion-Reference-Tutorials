@@ -8,10 +8,8 @@ keywords:
 - MOBI to PDF conversion
 - GroupDocs.Conversion for .NET
 - C# file conversion
-
+type: docs
 ---
-
-
 # How to Convert MOBI Files to PDF Using GroupDocs.Conversion for .NET
 
 ## Introduction

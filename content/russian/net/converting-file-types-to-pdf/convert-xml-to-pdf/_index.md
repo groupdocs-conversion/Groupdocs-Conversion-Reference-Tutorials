@@ -5,8 +5,8 @@
 "title": "Конвертировать XML в PDF"
 "url": "/ru/net/converting-file-types-to-pdf/convert-xml-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # Конвертировать XML в PDF
 
 ## Введение

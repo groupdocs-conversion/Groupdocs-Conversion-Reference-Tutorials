@@ -8,10 +8,8 @@ keywords:
 - Convert PSD to PDF
 - GroupDocs.Conversion for .NET
 - PSD file conversion
-
+type: docs
 ---
-
-
 # Convert PSD Files to PDF Using GroupDocs.Conversion for .NET
 
 ## Introduction

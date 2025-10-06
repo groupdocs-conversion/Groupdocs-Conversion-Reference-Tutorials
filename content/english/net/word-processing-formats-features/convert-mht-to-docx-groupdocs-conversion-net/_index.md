@@ -8,10 +8,8 @@ keywords:
 - MHT to DOCX conversion
 - GroupDocs.Conversion for .NET
 - file conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert MHT to DOCX Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

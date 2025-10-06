@@ -4,8 +4,8 @@
 "title": ".NETでGroupDocs.Conversionを使用してPLTをJPGに変換する包括的なガイド"
 "url": "/ja/net/image-conversion/convert-plt-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET で GroupDocs.Conversion を使用して PLT を JPG に変換する: 包括的なガイド
 
 ## 導入

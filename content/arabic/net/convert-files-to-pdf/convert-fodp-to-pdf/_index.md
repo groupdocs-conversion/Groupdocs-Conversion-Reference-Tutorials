@@ -5,8 +5,8 @@
 "title": "تحويل عروض FODP OpenDocument إلى PDF"
 "url": "/ar/net/convert-files-to-pdf/convert-fodp-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # تحويل عروض FODP OpenDocument إلى PDF
 
 ## مقدمة

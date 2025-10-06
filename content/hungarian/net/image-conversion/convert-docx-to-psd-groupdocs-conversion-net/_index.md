@@ -4,8 +4,8 @@
 "title": "Hatékony DOCX-PSD konvertálás a GroupDocs.Conversion .NET használatával képátalakításhoz"
 "url": "/hu/net/image-conversion/convert-docx-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony DOCX-PSD konvertálás a GroupDocs.Conversion .NET segítségével
 
 ## Bevezetés

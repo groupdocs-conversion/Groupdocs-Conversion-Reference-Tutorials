@@ -3,8 +3,8 @@
 "title": "Tutoriais de formatos de CAD e desenho técnico para GroupDocs.Conversion .NET"
 "url": "/pt/net/cad-technical-drawing-formats/"
 "weight": 18
+type: docs
 ---
-
 # Tutoriais de formatos de CAD e desenho técnico para GroupDocs.Conversion .NET
 
 Aprenda a processar desenhos técnicos com nossos tutoriais abrangentes do GroupDocs.Conversion para desenvolvedores .NET. Estes guias práticos demonstram como converter arquivos do AutoCAD e outros arquivos CAD para formatos visualizáveis, especificar layouts para conversão, definir dimensões personalizadas de largura e altura para saída, preservar camadas e medidas, manipular desenhos grandes com eficiência, gerenciar viewports e escalas e transformar modelos 3D em representações 2D. Cada tutorial inclui exemplos detalhados de código C# para cenários de conversão CAD, ajudando você a criar aplicativos que processem desenhos técnicos com precisão, preservando importantes detalhes de engenharia.

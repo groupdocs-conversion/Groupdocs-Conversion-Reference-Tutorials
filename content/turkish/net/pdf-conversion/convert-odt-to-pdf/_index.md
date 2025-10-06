@@ -5,8 +5,8 @@
 "title": "ODT'yi PDF'ye dönüştür"
 "url": "/tr/net/pdf-conversion/convert-odt-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # ODT'yi PDF'ye dönüştür
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "Hatékony MBOX-DOCX konvertálás a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/email-formats-features/convert-mbox-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony MBOX-DOCX konvertálás a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

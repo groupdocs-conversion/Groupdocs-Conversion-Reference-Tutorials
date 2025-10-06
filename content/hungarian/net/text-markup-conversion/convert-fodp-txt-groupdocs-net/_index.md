@@ -4,8 +4,8 @@
 "title": "FODP konvertálása TXT-vé a GroupDocs.Conversion használatával .NET-ben – Lépésről lépésre útmutató"
 "url": "/hu/net/text-markup-conversion/convert-fodp-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # FODP fájlok konvertálása TXT formátumba a GroupDocs.Conversion használatával .NET-ben
 
 ## Bevezetés

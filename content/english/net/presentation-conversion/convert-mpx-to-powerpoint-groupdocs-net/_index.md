@@ -8,10 +8,8 @@ keywords:
 - convert MPX to PowerPoint
 - GroupDocs for .NET
 - MPX file conversion
-
+type: docs
 ---
-
-
 # Convert MPX Files to PowerPoint Using GroupDocs for .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "OTG fájlok betöltése és konvertálása a GroupDocs.Conversion for .NET használatával – Fejlesztői útmutató"
 "url": "/hu/net/loading-from-local-sources/load-otg-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OTG fájlok betöltése és konvertálása a GroupDocs.Conversion for .NET használatával: Fejlesztői útmutató
 
 ## Bevezetés

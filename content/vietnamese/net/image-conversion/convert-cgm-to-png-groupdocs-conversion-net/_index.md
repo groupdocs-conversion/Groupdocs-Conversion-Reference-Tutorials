@@ -4,8 +4,8 @@
 "title": "Chuyển đổi CGM sang PNG hiệu quả bằng GroupDocs.Conversion .NET để chuyển đổi hình ảnh"
 "url": "/vi/net/image-conversion/convert-cgm-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp CGM sang PNG hiệu quả bằng GroupDocs.Conversion .NET
 
 ## Giới thiệu

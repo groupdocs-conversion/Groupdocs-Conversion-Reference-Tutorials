@@ -4,8 +4,8 @@
 "title": "VTX konvertálása PNG-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-vtx-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VTX konvertálása PNG-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

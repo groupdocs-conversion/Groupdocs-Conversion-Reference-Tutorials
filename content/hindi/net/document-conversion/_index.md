@@ -5,8 +5,8 @@
 "title": "दस्तावेज़ रूपांतरण"
 "url": "/hi/net/document-conversion/"
 "weight": 23
+type: docs
 ---
-
 # दस्तावेज़ रूपांतरण
 
 ## परिचय

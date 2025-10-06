@@ -5,8 +5,8 @@
 "title": "Конвертировать файлы обмена чертежами САПР DXF в PDF"
 "url": "/ru/net/convert-files-to-pdf/convert-dxf-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # Конвертировать файлы обмена чертежами САПР DXF в PDF
 
 ## Введение

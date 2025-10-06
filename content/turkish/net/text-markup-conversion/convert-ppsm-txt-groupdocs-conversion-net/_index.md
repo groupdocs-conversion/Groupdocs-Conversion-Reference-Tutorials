@@ -4,8 +4,8 @@
 "title": "PPSM'yi GroupDocs.Conversion for .NET Kullanarak TXT'ye Dönüştürme - Adım Adım Kılavuz"
 "url": "/tr/net/text-markup-conversion/convert-ppsm-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PPSM'yi GroupDocs.Conversion for .NET Kullanarak TXT'ye Dönüştürme
 
 ## giriiş

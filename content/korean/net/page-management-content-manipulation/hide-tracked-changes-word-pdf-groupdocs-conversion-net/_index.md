@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 Word에서 PDF로 변환할 때 추적된 변경 내용 숨기기"
 "url": "/ko/net/page-management-content-manipulation/hide-tracked-changes-word-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 숨겨진 추적 변경 사항을 포함한 고급 Word-PDF 변환 마스터하기
 
 ## 소개

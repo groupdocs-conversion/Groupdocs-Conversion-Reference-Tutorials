@@ -4,8 +4,8 @@
 "title": "Java-Handbuch&#58; Konvertieren von Dokumenten aus Azure Blob in PDF mit GroupDocs.Conversion"
 "url": "/de/java/pdf-conversion/convert-documents-azure-blob-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Herunterladen und Konvertieren von Dokumenten aus Azure Blob Storage in PDF mithilfe von GroupDocs.Conversion für Java
 
 ## Einführung

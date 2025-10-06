@@ -5,8 +5,8 @@
 "title": "VSTMをPDFに変換する"
 "url": "/ja/net/converting-file-types-to-pdf/convert-vstm-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # VSTMをPDFに変換する
 
 ## 導入

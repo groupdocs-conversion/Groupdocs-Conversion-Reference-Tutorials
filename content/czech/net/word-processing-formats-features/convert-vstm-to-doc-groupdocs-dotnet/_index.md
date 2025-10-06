@@ -4,8 +4,8 @@
 "title": "Jak převést soubory VSTM do formátu DOC pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/word-processing-formats-features/convert-vstm-to-doc-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory VSTM do formátu DOC pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

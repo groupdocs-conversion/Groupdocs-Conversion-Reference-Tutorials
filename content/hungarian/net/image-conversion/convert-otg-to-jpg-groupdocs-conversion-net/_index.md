@@ -4,8 +4,8 @@
 "title": "OTG fájlok JPG-vé konvertálása a GroupDocs.Conversion .NET segítségével – Egyszerű képkonverziós útmutató"
 "url": "/hu/net/image-conversion/convert-otg-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OTG fájlok konvertálása JPG formátumba a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

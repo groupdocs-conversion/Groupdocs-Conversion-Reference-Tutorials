@@ -4,8 +4,8 @@
 "title": "POTM konvertálása JPG-vé C#-ban a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-potm-to-jpg-groupdocs-conversion-csharp/"
 "weight": 1
+type: docs
 ---
-
 # POTM fájlok konvertálása JPG-vé C#-ban a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Converteer PCL naar PSD met GroupDocs.Conversion .NET&#58; een uitgebreide handleiding voor ontwikkelaars"
 "url": "/nl/net/image-conversion/convert-pcl-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PCL naar PSD converteren met GroupDocs.Conversion .NET: een uitgebreide handleiding voor ontwikkelaars
 
 ## Invoering

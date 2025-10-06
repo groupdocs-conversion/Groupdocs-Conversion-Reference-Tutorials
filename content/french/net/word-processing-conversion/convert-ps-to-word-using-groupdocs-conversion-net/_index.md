@@ -4,8 +4,8 @@
 "title": "Comment convertir des fichiers PS en Word avec GroupDocs.Conversion pour .NET"
 "url": "/fr/net/word-processing-conversion/convert-ps-to-word-using-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir des fichiers PS en Word avec GroupDocs.Conversion pour .NET
 
 ## Introduction

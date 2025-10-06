@@ -5,8 +5,8 @@
 "title": "TIF를 PDF로 변환"
 "url": "/ko/net/file-format-conversion-tutorials/convert-tif-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # TIF를 PDF로 변환
 
 ## 소개

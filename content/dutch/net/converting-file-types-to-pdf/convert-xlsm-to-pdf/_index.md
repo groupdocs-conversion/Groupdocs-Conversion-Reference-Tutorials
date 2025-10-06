@@ -5,8 +5,8 @@
 "title": "Converteer XLSM naar PDF"
 "url": "/nl/net/converting-file-types-to-pdf/convert-xlsm-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # Converteer XLSM naar PDF
 
 ## Invoering

@@ -8,10 +8,8 @@ keywords:
 - convert GIF to PSD
 - GroupDocs.Conversion for .NET
 - GIF to PSD conversion
-
+type: docs
 ---
-
-
 # Convert GIF to PSD with GroupDocs.Conversion for .NET: A Complete Guide
 
 ## Introduction

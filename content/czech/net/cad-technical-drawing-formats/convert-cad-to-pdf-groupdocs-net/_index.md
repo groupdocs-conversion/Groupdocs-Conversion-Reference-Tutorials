@@ -4,8 +4,8 @@
 "title": "Efektivní převod CAD do PDF pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/cad-technical-drawing-formats/convert-cad-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod CAD do PDF pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

@@ -8,10 +8,8 @@ keywords:
 - convert EMF to HTML
 - GroupDocs.Conversion for .NET
 - document conversion in C#
-
+type: docs
 ---
-
-
 # Convert EMF Files to HTML Using GroupDocs.Conversion for .NET
 **Master Document Conversion: Transform EMF to HTML with GroupDocs.Conversion for .NET**
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Chuyển đổi RTF sang TXT bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/word-processing-conversion/rtf-to-txt-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi RTF sang TXT với GroupDocs.Conversion cho .NET: Hướng dẫn từng bước
 
 ## Giới thiệu

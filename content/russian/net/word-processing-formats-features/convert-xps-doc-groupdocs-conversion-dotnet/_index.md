@@ -4,8 +4,8 @@
 "title": "Как конвертировать файлы XPS в DOC с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/word-processing-formats-features/convert-xps-doc-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Как конвертировать файлы XPS в DOC с помощью GroupDocs.Conversion для .NET
 
 ## Введение

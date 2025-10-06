@@ -4,8 +4,8 @@
 "title": "Конвертируйте DOT в CSV с помощью GroupDocs.Conversion .NET&#58; Подробное руководство"
 "url": "/ru/net/spreadsheet-formats-features/groupdocs-conversion-dot-to-csv-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Конвертация DOT в CSV с помощью GroupDocs.Conversion .NET: подробное руководство
 
 ## Введение

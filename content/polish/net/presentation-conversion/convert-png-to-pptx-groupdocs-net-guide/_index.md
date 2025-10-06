@@ -4,8 +4,8 @@
 "title": "Przewodnik kompleksowy&#58; Konwersja PNG do PPTX przy użyciu GroupDocs.Conversion dla .NET"
 "url": "/pl/net/presentation-conversion/convert-png-to-pptx-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Kompleksowy przewodnik: Konwersja PNG do PPTX przy użyciu GroupDocs.Conversion dla .NET
 
 ## Wstęp

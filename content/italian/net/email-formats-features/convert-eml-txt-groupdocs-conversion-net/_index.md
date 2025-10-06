@@ -4,8 +4,8 @@
 "title": "Come convertire i file EML in TXT utilizzando GroupDocs.Conversion per .NET (guida passo passo)"
 "url": "/it/net/email-formats-features/convert-eml-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire i file EML in TXT utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

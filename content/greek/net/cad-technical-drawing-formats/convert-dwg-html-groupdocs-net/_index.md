@@ -4,8 +4,8 @@
 "title": "Πώς να μετατρέψετε αρχεία DWG σε HTML χρησιμοποιώντας το GroupDocs.Conversion για .NET | Μορφές CAD και τεχνικού σχεδίου"
 "url": "/el/net/cad-technical-drawing-formats/convert-dwg-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε αρχεία DWG σε HTML χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

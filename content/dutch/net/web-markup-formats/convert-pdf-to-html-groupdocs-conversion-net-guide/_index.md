@@ -4,8 +4,8 @@
 "title": "PDF naar HTML converteren met GroupDocs.Conversion.NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/web-markup-formats/convert-pdf-to-html-groupdocs-conversion-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # PDF naar HTML converteren met GroupDocs.Conversion .NET: een stapsgewijze handleiding
 
 ## Invoering

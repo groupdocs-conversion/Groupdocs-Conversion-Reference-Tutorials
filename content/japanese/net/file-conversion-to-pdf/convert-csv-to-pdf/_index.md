@@ -5,8 +5,8 @@
 "title": "CSVデータファイルをPDFに変換する"
 "url": "/ja/net/file-conversion-to-pdf/convert-csv-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # CSVデータファイルをPDFに変換する
 
 ## 導入

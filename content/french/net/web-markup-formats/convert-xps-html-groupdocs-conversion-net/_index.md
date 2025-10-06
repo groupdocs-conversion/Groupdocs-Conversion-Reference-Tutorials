@@ -4,8 +4,8 @@
 "title": "Comment convertir des fichiers XPS en HTML à l'aide de GroupDocs.Conversion pour .NET ? Un guide complet"
 "url": "/fr/net/web-markup-formats/convert-xps-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir des fichiers XPS en HTML avec GroupDocs.Conversion pour .NET : guide complet
 
 ## Introduction

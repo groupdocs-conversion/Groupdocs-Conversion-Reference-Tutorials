@@ -4,8 +4,8 @@
 "title": "Как конвертировать DCM в PPT с помощью GroupDocs.Conversion .NET — пошаговое руководство"
 "url": "/ru/net/presentation-formats-features/convert-dcm-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Как конвертировать DCM в PPT с помощью GroupDocs.Conversion .NET
 
 ## Введение

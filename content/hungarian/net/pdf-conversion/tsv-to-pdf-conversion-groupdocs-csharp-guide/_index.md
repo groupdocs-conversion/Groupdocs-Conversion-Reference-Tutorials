@@ -4,8 +4,8 @@
 "title": "Hatékony TSV-PDF konvertálás a GroupDocs.Conversion használatával C#-ban | Lépésről lépésre útmutató"
 "url": "/hu/net/pdf-conversion/tsv-to-pdf-conversion-groupdocs-csharp-guide/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony TSV-PDF konvertálás a GroupDocs.Conversion használatával C#-ban
 
 ## Bevezetés

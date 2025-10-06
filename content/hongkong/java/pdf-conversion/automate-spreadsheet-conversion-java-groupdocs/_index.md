@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 Java 中自動將電子表格轉換為 PDF"
 "url": "/zh-hant/java/pdf-conversion/automate-spreadsheet-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 Java 中自動將電子表格轉換為 PDF
 
 ## 介紹

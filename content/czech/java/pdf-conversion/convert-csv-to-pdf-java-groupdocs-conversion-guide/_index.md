@@ -4,8 +4,8 @@
 "title": "Převod CSV do PDF v Javě – podrobný návod s použitím GroupDocs.Conversion pro Javu"
 "url": "/cs/java/pdf-conversion/convert-csv-to-pdf-java-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Převod CSV do PDF v Javě: Podrobný návod k použití GroupDocs.Conversion pro Javu
 
 ## Zavedení

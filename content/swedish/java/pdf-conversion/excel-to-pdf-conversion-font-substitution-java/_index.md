@@ -4,8 +4,8 @@
 "title": "Konvertera Excel till PDF i Java med teckensnittsersättning med GroupDocs.Conversion"
 "url": "/sv/java/pdf-conversion/excel-to-pdf-conversion-font-substitution-java/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera Excel till PDF i Java med teckensnittsersättning med GroupDocs.Conversion
 
 ## Introduktion

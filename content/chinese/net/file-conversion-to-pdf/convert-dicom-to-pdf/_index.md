@@ -5,8 +5,8 @@
 "title": "将 DICOM 医学图像转换为 PDF"
 "url": "/zh/net/file-conversion-to-pdf/convert-dicom-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # 将 DICOM 医学图像转换为 PDF
 
 ## 介绍

@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 在 Word 到 PDF 转换中隐藏跟踪更改"
 "url": "/zh/net/page-management-content-manipulation/hide-tracked-changes-word-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 掌握高级 Word 到 PDF 的转换功能
 
 ## 介绍

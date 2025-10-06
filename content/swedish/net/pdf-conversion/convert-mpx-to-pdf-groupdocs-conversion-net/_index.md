@@ -4,8 +4,8 @@
 "title": "Konvertera MPX till PDF med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/pdf-conversion/convert-mpx-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera MPX till PDF med GroupDocs.Conversion för .NET: En omfattande guide
 
 ## Introduktion

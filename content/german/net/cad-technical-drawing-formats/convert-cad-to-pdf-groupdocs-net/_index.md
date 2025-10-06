@@ -4,8 +4,8 @@
 "title": "CAD effizient in PDF konvertieren mit GroupDocs.Conversion für .NET – Ein umfassender Leitfaden"
 "url": "/de/net/cad-technical-drawing-formats/convert-cad-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie CAD in PDF mit GroupDocs.Conversion für .NET
 
 ## Einführung

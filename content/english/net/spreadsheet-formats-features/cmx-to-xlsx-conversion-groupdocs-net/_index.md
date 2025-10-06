@@ -8,10 +8,8 @@ keywords:
 - CMX to XLSX conversion
 - GroupDocs.Conversion .NET tutorial
 - document format conversion in C#
-
+type: docs
 ---
-
-
 # Convert CMX Files to XLSX Using GroupDocs.Conversion .NET: A Step-by-Step Guide
 
 ## Introduction

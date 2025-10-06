@@ -4,8 +4,8 @@
 "title": "Jak konwertować dokumenty Word chronione hasłem do plików PDF za pomocą GroupDocs.Conversion dla .NET"
 "url": "/pl/net/pdf-conversion/convert-password-protected-word-docs-to-pdf-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Jak konwertować dokumenty Word chronione hasłem do plików PDF za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

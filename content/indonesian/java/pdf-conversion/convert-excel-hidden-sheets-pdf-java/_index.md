@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi File Excel dengan Lembar Tersembunyi ke PDF Menggunakan Java dan GroupDocs.Conversion"
 "url": "/id/java/pdf-conversion/convert-excel-hidden-sheets-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi File Excel dengan Lembar Tersembunyi ke PDF Menggunakan Java dan GroupDocs.Conversion
 
 ## Perkenalan

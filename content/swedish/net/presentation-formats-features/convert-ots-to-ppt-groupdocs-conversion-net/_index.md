@@ -4,8 +4,8 @@
 "title": "Konvertera OTS till PPT enkelt med GroupDocs.Conversion .NET"
 "url": "/sv/net/presentation-formats-features/convert-ots-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera OTS till PPT enkelt med GroupDocs.Conversion .NET
 
 ## Introduktion

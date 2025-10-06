@@ -4,8 +4,8 @@
 "title": "Effizientes Konvertieren von FTP-Dokumenten in PDF mit GroupDocs.Conversion für Java – Ein Entwicklerhandbuch"
 "url": "/de/java/pdf-conversion/convert-ftp-documents-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie FTP-Dokumente effizient in PDF mit GroupDocs.Conversion für Java
 
 ## Einführung

@@ -4,8 +4,8 @@
 "title": ".NET Geliştiricileri için GroupDocs Kullanarak Zahmetsiz WMF'den PDF'ye Dönüştürme"
 "url": "/tr/net/pdf-conversion/wmf-to-pdf-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET Geliştiricileri için GroupDocs Kullanarak Zahmetsiz WMF'den PDF'ye Dönüştürme
 
 ## giriiş

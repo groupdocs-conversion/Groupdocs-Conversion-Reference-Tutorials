@@ -5,8 +5,8 @@
 "title": "แปลง MHTML เป็น PDF"
 "url": "/th/net/document-conversion/convert-mhtml-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # แปลง MHTML เป็น PDF
 
 ## การแนะนำ

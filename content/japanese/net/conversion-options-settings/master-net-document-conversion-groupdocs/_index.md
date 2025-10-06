@@ -4,8 +4,8 @@
 "title": ".NET ドキュメント変換マスター&#58; GroupDocs を活用してシームレスな PDF 変換を実現"
 "url": "/ja/net/conversion-options-settings/master-net-document-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion を使用した .NET でのドキュメント変換の習得
 
 ## 導入

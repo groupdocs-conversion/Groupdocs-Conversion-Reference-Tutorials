@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tệp VTX sang HTML bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/web-markup-formats/convert-vtx-files-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp VTX sang HTML bằng GroupDocs.Conversion cho .NET: Hướng dẫn toàn diện
 ## Giới thiệu
 Bạn có đang gặp khó khăn khi chuyển đổi các tệp VTX phức tạp sang định dạng dễ truy cập hơn như HTML không? Bạn không đơn độc. Nhiều nhà phát triển cần một cách hiệu quả để xử lý các chuyển đổi như vậy, đặc biệt là khi xử lý sơ đồ Visio hoặc các cấu trúc dữ liệu tương tự được lưu trữ ở định dạng VTX. Hướng dẫn toàn diện này sẽ chỉ cho bạn cách sử dụng GroupDocs.Conversion cho .NET để chuyển đổi các tệp VTX sang HTML một cách liền mạch.

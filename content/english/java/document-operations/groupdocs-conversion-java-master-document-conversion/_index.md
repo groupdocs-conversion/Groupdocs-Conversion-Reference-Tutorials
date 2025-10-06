@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Java
 - Document Processing
-
+type: docs
 ---
-
-
 # Mastering GroupDocs.Conversion Java: Unlock Document Conversion Capabilities
 
 ## Introduction

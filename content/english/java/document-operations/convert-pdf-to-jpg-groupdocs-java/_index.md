@@ -8,10 +8,8 @@ keywords:
 - convert PDF to JPG Java
 - GroupDocs.Conversion for Java
 - PDF to image conversion
-
+type: docs
 ---
-
-
 # Convert PDF to JPG in Java Using GroupDocs.Conversion: A Step-by-Step Guide
 
 ## Introduction

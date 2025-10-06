@@ -5,8 +5,8 @@
 "title": "Převod e-knih EPUB do PDF"
 "url": "/cs/net/convert-files-to-pdf/convert-epub-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # Převod e-knih EPUB do PDF
 
 ## Zavedení

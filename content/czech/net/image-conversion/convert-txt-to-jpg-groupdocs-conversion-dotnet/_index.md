@@ -4,8 +4,8 @@
 "title": "Jak převést TXT do JPG pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/image-conversion/convert-txt-to-jpg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést TXT do JPG pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

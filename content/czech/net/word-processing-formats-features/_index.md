@@ -3,8 +3,8 @@
 "title": "Výukové programy pro formáty a funkce zpracování textu v GroupDocs.Conversion .NET"
 "url": "/cs/net/word-processing-formats-features/"
 "weight": 10
+type: docs
 ---
-
 # Výukové programy pro formáty a funkce zpracování textu v GroupDocs.Conversion .NET
 
 Objevte, jak efektivně pracovat s dokumenty Wordu, pomocí našich komplexních tutoriálů GroupDocs.Conversion .NET. Tyto podrobné návody vás naučí, jak převádět mezi různými formáty pro zpracování textu, skrývat komentáře a sledované změny během převodu, určovat možnosti nahrazování písem, zachovávat styly a formátování, udržovat strukturu dokumentu, pracovat s vloženými objekty a ovládat chování záhlaví/zápatí. Každý tutoriál poskytuje praktické příklady kódu C# pro úlohy převodu dokumentů Wordu a pomáhá vám vytvářet efektivnější aplikace, které dokáží zpracovávat textové dokumenty s vysokou věrností a ovládáním specifickým pro daný formát.

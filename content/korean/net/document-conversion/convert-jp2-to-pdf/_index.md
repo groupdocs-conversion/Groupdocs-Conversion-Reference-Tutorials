@@ -5,8 +5,8 @@
 "title": "JP2를 PDF로 변환"
 "url": "/ko/net/document-conversion/convert-jp2-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # JP2를 PDF로 변환
 
 ## 소개

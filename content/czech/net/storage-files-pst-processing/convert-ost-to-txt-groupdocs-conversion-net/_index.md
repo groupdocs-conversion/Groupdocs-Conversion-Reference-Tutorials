@@ -4,8 +4,8 @@
 "title": "Efektivní převod OST do TXT pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/storage-files-pst-processing/convert-ost-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory OST do formátu TXT pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

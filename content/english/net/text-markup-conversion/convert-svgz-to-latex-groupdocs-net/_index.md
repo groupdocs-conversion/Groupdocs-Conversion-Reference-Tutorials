@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert SVGZ Files to LaTeX Format Using GroupDocs.Conversion for .NET
 
 ## Introduction

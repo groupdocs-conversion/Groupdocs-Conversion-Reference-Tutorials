@@ -5,8 +5,8 @@
 "title": "將PPSM轉換為PDF"
 "url": "/zh-hant/net/pdf-conversion/convert-ppsm-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # 將PPSM轉換為PDF
 
 ## 介紹

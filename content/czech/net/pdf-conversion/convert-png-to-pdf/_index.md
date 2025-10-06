@@ -5,8 +5,8 @@
 "title": "Převod PNG do PDF"
 "url": "/cs/net/pdf-conversion/convert-png-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Převod PNG do PDF
 
 ## Zavedení

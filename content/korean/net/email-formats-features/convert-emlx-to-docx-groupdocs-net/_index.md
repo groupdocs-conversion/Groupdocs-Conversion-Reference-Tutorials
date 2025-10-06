@@ -4,8 +4,8 @@
 "title": ".NET에서 EMLX를 DOCX로 변환하기&#58; .NET용 GroupDocs.Conversion을 사용한 단계별 가이드"
 "url": "/ko/net/email-formats-features/convert-emlx-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET에서 EMLX를 DOCX로 변환: .NET용 GroupDocs.Conversion을 사용한 단계별 가이드
 
 ## 소개

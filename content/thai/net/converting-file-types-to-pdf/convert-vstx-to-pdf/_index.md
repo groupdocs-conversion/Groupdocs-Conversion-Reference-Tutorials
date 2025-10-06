@@ -5,8 +5,8 @@
 "title": "แปลง VSTX เป็น PDF"
 "url": "/th/net/converting-file-types-to-pdf/convert-vstx-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # แปลง VSTX เป็น PDF
 
 ## การแนะนำ

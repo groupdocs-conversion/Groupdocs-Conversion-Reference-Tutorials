@@ -4,8 +4,8 @@
 "title": "Zvládněte převod .NET DOCX do PDF pomocí GroupDocs.Conversion – Komplexní průvodce"
 "url": "/cs/net/pdf-conversion-features/converting-docx-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Zvládnutí převodu .NET DOCX do PDF pomocí GroupDocs.Conversion
 
 ## Zavedení

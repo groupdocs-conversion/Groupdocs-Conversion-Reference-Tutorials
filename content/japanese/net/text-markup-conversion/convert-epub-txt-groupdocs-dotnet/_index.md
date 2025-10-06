@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して EPUB を TXT に変換する方法"
 "url": "/ja/net/text-markup-conversion/convert-epub-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して EPUB を TXT に変換する方法
 
 ## 導入

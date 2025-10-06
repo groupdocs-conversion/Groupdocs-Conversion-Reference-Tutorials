@@ -4,8 +4,8 @@
 "title": "Jak převést dokumenty Wordu do PDF v .NET pomocí GroupDocs.Conversion"
 "url": "/cs/net/pdf-conversion-features/convert-word-doc-to-pdf-net-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést dokumenty Wordu do PDF v .NET pomocí GroupDocs.Conversion
 
 ## Zavedení

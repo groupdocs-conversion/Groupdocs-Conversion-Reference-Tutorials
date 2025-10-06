@@ -8,10 +8,8 @@ keywords:
 - convert OST to Excel
 - GroupDocs.Conversion for .NET
 - OST file conversion
-
+type: docs
 ---
-
-
 # How to Convert OST Files to Excel Using GroupDocs.Conversion for .NET
 
 ## Introduction

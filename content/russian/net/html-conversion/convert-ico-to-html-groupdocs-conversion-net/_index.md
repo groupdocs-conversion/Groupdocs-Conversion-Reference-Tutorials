@@ -4,8 +4,8 @@
 "title": "Конвертируйте ICO в HTML с помощью GroupDocs.Conversion для .NET&#58; Подробное руководство"
 "url": "/ru/net/html-conversion/convert-ico-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте файлы ICO в HTML с помощью GroupDocs.Conversion для .NET
 
 ## Введение

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して DICOM を PowerPoint に変換する手順ガイド"
 "url": "/ja/net/presentation-conversion/convert-dicom-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して DICOM を PowerPoint に変換する
 
 ## 導入

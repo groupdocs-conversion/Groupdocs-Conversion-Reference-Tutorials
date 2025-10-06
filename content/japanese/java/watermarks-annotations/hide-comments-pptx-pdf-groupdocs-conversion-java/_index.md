@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for Java を使用して PPTX から PDF へのコメントを非表示にする"
 "url": "/ja/java/watermarks-annotations/hide-comments-pptx-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for Java で PPTX から PDF への変換時にコメントを非表示にする
 
 ## 導入

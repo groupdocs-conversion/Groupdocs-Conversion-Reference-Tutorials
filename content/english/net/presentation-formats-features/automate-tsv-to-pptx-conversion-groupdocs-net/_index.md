@@ -8,10 +8,8 @@ keywords:
 - automate TSV to PPTX conversion
 - GroupDocs.Conversion for .NET
 - TSV file conversion
-
+type: docs
 ---
-
-
 # Automate TSV to PPTX Conversion Using GroupDocs.Conversion for .NET: A Complete Guide
 
 ## Introduction

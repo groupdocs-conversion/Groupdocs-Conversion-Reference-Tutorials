@@ -4,8 +4,8 @@
 "title": "Convierta LOG a PSD usando GroupDocs.Conversion .NET - Guía paso a paso"
 "url": "/es/net/image-conversion/convert-log-to-psd-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertir LOG a PSD usando GroupDocs.Conversion .NET
 
 ## Introducción

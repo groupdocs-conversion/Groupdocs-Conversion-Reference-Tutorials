@@ -8,10 +8,8 @@ keywords:
 - convert GIF to HTML
 - GroupDocs.Conversion for .NET tutorial
 - GIF to HTML conversion guide
-
+type: docs
 ---
-
-
 # How to Convert GIFs to HTML Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

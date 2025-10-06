@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή PST σε PSD χρησιμοποιώντας το GroupDocs.Conversion .NET™ Οδηγός για προγραμματιστές"
 "url": "/el/net/storage-files-pst-processing/convert-pst-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική μετατροπή PST σε PSD με το GroupDocs.Conversion .NET
 
 ## Εισαγωγή

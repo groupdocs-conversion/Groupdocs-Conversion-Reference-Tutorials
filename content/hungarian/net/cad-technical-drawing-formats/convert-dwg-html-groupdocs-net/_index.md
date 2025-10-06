@@ -4,8 +4,8 @@
 "title": "DWG fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával | CAD és műszaki rajzformátumok"
 "url": "/hu/net/cad-technical-drawing-formats/convert-dwg-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DWG fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Chuyển đổi PSD sang Excel bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/spreadsheet-conversion/convert-psd-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp PSD sang bảng tính Excel bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

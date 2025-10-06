@@ -8,10 +8,8 @@ keywords:
 - convert DWG to CSV
 - GroupDocs.Conversion .NET
 - DWG file conversion
-
+type: docs
 ---
-
-
 # How to Convert DWG Files to CSV Using GroupDocs.Conversion in .NET
 
 ## Introduction

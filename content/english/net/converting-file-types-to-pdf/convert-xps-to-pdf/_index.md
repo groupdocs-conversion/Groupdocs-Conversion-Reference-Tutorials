@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Learn how to convert XPS files to PDF using GroupDocs.Conversion for .NET. Simple steps for seamless document format conversion.
 weight: 30
 url: /net/converting-file-types-to-pdf/convert-xps-to-pdf/
+type: docs
 ---
-
 # Convert XPS to PDF
 
 

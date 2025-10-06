@@ -4,8 +4,8 @@
 "title": "Converteer JPC naar Excel met GroupDocs.Conversion voor .NET&#58; een complete handleiding"
 "url": "/nl/net/spreadsheet-conversion/convert-jpc-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer JPC naar Excel met GroupDocs.Conversion voor .NET: een complete handleiding
 
 ## Invoering

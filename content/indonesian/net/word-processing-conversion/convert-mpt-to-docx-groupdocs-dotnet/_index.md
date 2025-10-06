@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi File MPT ke DOCX Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/word-processing-conversion/convert-mpt-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi File MPT ke DOCX Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

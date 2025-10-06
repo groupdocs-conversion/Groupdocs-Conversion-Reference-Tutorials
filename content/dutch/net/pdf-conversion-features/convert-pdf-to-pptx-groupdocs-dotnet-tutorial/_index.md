@@ -4,8 +4,8 @@
 "title": "Uitgebreide handleiding voor het converteren van PDF naar PPTX met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/pdf-conversion-features/convert-pdf-to-pptx-groupdocs-dotnet-tutorial/"
 "weight": 1
+type: docs
 ---
-
 # Uitgebreide handleiding voor het converteren van PDF naar PPTX met GroupDocs.Conversion voor .NET
 
 ## Invoering

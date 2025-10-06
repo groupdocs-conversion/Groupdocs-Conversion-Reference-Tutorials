@@ -5,8 +5,8 @@
 "title": "Konvertera DXF CAD-ritningsutbytesfiler till PDF"
 "url": "/sv/net/convert-files-to-pdf/convert-dxf-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # Konvertera DXF CAD-ritningsutbytesfiler till PDF
 
 ## Introduktion

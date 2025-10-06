@@ -5,8 +5,8 @@
 "title": "Конвертировать веб-страницы HTM в PDF"
 "url": "/ru/net/convert-files-to-pdf/convert-htm-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # Конвертировать веб-страницы HTM в PDF
 
 ## Введение

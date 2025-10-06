@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion'ı Kullanarak Verimli TXT'den PNG'ye Dönüştürme"
 "url": "/tr/net/image-conversion/txt-to-png-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak Verimli TXT'den PNG'ye Dönüştürme
 
 ## giriiş

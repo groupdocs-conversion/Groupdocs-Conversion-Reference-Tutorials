@@ -5,8 +5,8 @@
 "title": "Converter arquivos AI para PDF"
 "url": "/pt/net/file-conversion-to-pdf/convert-ai-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # Converter arquivos AI para PDF
 
 ## Introdução

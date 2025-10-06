@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 Adobe Illustrator 파일을 텍스트로 변환"
 "url": "/ko/net/text-file-processing/convert-illustrator-files-to-text-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 Adobe Illustrator 파일을 텍스트로 변환
 
 ## 소개

@@ -8,10 +8,8 @@ keywords:
 - convert MPP to XLSX
 - GroupDocs.Conversion for .NET
 - MPP file conversion
-
+type: docs
 ---
-
-
 # Convert MPP to XLSX Easily with GroupDocs.Conversion for .NET
 
 ## Introduction

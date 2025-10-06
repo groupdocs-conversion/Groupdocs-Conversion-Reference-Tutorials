@@ -5,8 +5,8 @@
 "title": "Konversi Format File"
 "url": "/id/net/file-format-conversion-tutorials/"
 "weight": 21
+type: docs
 ---
-
 # Konversi Format File
 
 ## Perkenalan

@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion – Első lépések és licencelési oktatóanyagok .NET fejlesztőknek"
 "url": "/hu/net/getting-started-licensing/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion – Első lépések és licencelési oktatóanyagok .NET fejlesztőknek
 
 Kezdje el utazását ezekkel a nélkülözhetetlen GroupDocs.Conversion oktatóanyagokkal, amelyek végigvezetik a telepítésen, a licencelés konfigurálásán és az első dokumentumkonverziók elvégzésén .NET-ben. Kezdőknek szóló útmutatóink bemutatják, hogyan állíthatja be a fejlesztői környezetet, hogyan inicializálhatja a GroupDocs.Conversion könyvtárat, hogyan konfigurálhatja a licencet fájlból vagy adatfolyamból, hogyan állíthatja be a mért licencelést, és hogyan valósíthatja meg az alapvető konverziós műveleteket mind a standard, mind a Fluent API-k használatával. Kövesse ezeket az oktatóanyagokat az alapok gyors elsajátításához, és felkészüljön a .NET-alkalmazásokban végrehajtandó haladóbb dokumentumkonverziós feladatokra.

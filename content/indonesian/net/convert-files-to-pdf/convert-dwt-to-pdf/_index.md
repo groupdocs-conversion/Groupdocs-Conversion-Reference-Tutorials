@@ -5,8 +5,8 @@
 "title": "Konversi File Template CAD DWT ke PDF"
 "url": "/id/net/convert-files-to-pdf/convert-dwt-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Konversi File Template CAD DWT ke PDF
 
 ## Perkenalan

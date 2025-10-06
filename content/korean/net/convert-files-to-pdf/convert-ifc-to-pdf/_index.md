@@ -5,8 +5,8 @@
 "title": "IFC 건물 정보 모델링 파일을 PDF로 변환"
 "url": "/ko/net/convert-files-to-pdf/convert-ifc-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # IFC 건물 정보 모델링 파일을 PDF로 변환
 
 ## 소개

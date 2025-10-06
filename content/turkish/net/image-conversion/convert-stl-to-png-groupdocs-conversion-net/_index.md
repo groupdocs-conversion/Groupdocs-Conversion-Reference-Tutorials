@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak STL'yi PNG'ye Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/image-conversion/convert-stl-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak STL Dosyaları PNG'ye Nasıl Dönüştürülür
 
 ## giriiş

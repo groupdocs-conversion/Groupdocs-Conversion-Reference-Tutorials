@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert VCF to JPG Using GroupDocs.Conversion for .NET
 
 ## Introduction

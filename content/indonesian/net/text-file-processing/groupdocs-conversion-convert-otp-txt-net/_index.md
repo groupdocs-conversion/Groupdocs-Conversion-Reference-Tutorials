@@ -4,8 +4,8 @@
 "title": "Konversi OTP ke File TXT Secara Efisien Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/text-file-processing/groupdocs-conversion-convert-otp-txt-net/"
 "weight": 1
+type: docs
 ---
-
 # Menguasai Konversi File: Konversi OTP ke TXT dengan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

@@ -4,8 +4,8 @@
 "title": "Konvertera PSD till TXT med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/text-markup-conversion/convert-psd-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera PSD till TXT med GroupDocs.Conversion för .NET: En steg-för-steg-guide
 
 ## Introduktion

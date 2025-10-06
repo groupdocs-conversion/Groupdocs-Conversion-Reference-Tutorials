@@ -4,8 +4,8 @@
 "title": "تحويل فعال من BMP إلى PNG في .NET باستخدام مكتبة GroupDocs.Conversion"
 "url": "/ar/net/image-conversion/net-bmp-to-png-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # تحويل فعال من BMP إلى PNG في .NET باستخدام GroupDocs
 
 ## مقدمة

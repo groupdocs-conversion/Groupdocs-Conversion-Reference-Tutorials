@@ -8,10 +8,8 @@ keywords:
 - Convert DJVU to JPG .NET
 - GroupDocs Conversion .NET
 - Document conversion .NET
-
+type: docs
 ---
-
-
 # How to Convert DJVU to JPG in .NET Using GroupDocs.Conversion: A Step-by-Step Guide
 
 ## Introduction

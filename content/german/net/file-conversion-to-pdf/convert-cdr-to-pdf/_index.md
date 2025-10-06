@@ -5,8 +5,8 @@
 "title": "Konvertieren Sie CDR-Vektorgrafiken in PDF"
 "url": "/de/net/file-conversion-to-pdf/convert-cdr-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # Konvertieren Sie CDR-Vektorgrafiken in PDF
 
 ## Einführung

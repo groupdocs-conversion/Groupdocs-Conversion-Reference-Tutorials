@@ -4,8 +4,8 @@
 "title": "Converter FODP em PDF usando GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/pdf-conversion/convert-fodp-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converta arquivos FODP para PDF com GroupDocs.Conversion para .NET
 
 ## Introdução

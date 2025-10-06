@@ -4,8 +4,8 @@
 "title": "Konwersja pliku głównego w Javie — kompleksowy przewodnik po korzystaniu z GroupDocs.Conversion"
 "url": "/pl/java/document-operations/java-groupdocs-conversion-file-handling/"
 "weight": 1
+type: docs
 ---
-
 # Opanowanie konwersji plików w Javie: kompleksowy przewodnik po korzystaniu z GroupDocs.Conversion
 
 ## Wstęp

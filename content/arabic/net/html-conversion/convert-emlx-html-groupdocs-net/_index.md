@@ -4,8 +4,8 @@
 "title": "إتقان تحويل رسائل بريد Apple (.emlx) إلى HTML باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/html-conversion/convert-emlx-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # إتقان تحويل رسائل بريد Apple (.emlx) إلى HTML باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

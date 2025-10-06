@@ -4,8 +4,8 @@
 "title": "Ultimátní průvodce načítáním souborů PSD v .NET pomocí GroupDocs.Conversion"
 "url": "/cs/net/loading-from-local-sources/guide-loading-psd-files-dotnet-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Ultimátní průvodce načítáním souborů PSD v .NET pomocí GroupDocs.Conversion
 
 ## Zavedení

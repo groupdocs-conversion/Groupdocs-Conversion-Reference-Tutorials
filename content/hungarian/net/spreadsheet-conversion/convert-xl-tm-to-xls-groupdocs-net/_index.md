@@ -4,8 +4,8 @@
 "title": "XLTM-ből XLS-be konvertálás a GroupDocs.Conversion for .NET használatával | Táblázatkezelő konverziós útmutató"
 "url": "/hu/net/spreadsheet-conversion/convert-xl-tm-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # XLTM konvertálása XLS-be a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

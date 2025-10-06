@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert EML Files to XLS in .NET Using GroupDocs.Conversion: A Step-by-Step Guide
 
 ## Introduction

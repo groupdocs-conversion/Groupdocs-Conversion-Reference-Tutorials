@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion을 사용하여 .NET에서 XML을 스프레드시트로 효율적으로 변환"
 "url": "/ko/net/spreadsheet-conversion/xml-to-spreadsheet-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용하여 .NET에서 XML을 스프레드시트로 효율적으로 변환
 
 ## 소개

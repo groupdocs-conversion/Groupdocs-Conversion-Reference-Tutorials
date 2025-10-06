@@ -4,8 +4,8 @@
 "title": "Konvertera VSSM till XLS med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/spreadsheet-formats-features/groupdocs-conversion-dotnet-vssm-to-xls/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera VSSM-filer till XLS med GroupDocs.Conversion för .NET
 
 ## Introduktion

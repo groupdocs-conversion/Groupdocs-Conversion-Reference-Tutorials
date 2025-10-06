@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 將 XPS 轉換為 PDF 和其他格式"
 "url": "/zh-hant/net/conversion-utilities-information/groupdocs-conversion-net-xps-file-conversion/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 將 XPS 轉換為 PDF 和其他格式
 
 ## 介紹

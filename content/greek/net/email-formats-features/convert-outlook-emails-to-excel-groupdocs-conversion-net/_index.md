@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή email από το Outlook σε Excel χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/email-formats-features/convert-outlook-emails-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Μετατρέψτε εύκολα τα email του Microsoft Outlook σε υπολογιστικά φύλλα Excel χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

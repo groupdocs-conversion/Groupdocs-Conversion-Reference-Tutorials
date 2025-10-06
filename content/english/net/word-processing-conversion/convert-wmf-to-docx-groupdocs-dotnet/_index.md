@@ -8,10 +8,8 @@ keywords:
 - convert WMF to DOCX
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # How to Convert WMF to DOCX Using GroupDocs.Conversion for .NET
 
 ## Introduction

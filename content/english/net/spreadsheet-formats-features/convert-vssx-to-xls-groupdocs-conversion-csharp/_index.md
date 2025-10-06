@@ -8,10 +8,8 @@ keywords:
 - convert VSSX to XLS
 - GroupDocs.Conversion for .NET
 - VSSX file conversion
-
+type: docs
 ---
-
-
 # Convert VSSX to XLS in C# Using GroupDocs.Conversion for .NET
 
 ## Introduction

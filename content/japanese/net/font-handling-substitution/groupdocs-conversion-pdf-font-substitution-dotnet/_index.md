@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion で .NET での PDF フォント置換をマスターする包括的なガイド"
 "url": "/ja/net/font-handling-substitution/groupdocs-conversion-pdf-font-substitution-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion を使用して .NET で PDF フォント置換をマスターする
 
 ドキュメント変換時に一貫したタイポグラフィを確保することは非常に重要です。この包括的なガイドでは、GroupDocs.Conversion for .NET を使用して、ドキュメントをPDFに変換する際のフォント置換を効果的に管理する方法を説明します。

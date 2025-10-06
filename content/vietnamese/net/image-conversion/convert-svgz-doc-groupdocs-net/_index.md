@@ -4,8 +4,8 @@
 "title": "Chuyển đổi SVGZ sang DOC hiệu quả bằng GroupDocs.Conversion cho .NET trong C#"
 "url": "/vi/net/image-conversion/convert-svgz-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi SVGZ sang DOC hiệu quả bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

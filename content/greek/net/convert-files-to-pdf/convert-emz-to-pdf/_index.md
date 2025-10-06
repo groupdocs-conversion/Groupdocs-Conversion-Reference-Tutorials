@@ -5,8 +5,8 @@
 "title": "Μετατροπή μετααρχείων EMZ Enhanced σε PDF"
 "url": "/el/net/convert-files-to-pdf/convert-emz-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # Μετατροπή μετααρχείων EMZ Enhanced σε PDF
 
 ## Εισαγωγή

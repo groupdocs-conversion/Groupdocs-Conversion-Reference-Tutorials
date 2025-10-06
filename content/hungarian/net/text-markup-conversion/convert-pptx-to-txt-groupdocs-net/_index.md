@@ -4,8 +4,8 @@
 "title": "PPTX fájlok hatékony TXT formátumba konvertálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/text-markup-conversion/convert-pptx-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PPTX fájlok hatékony TXT formátumba konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

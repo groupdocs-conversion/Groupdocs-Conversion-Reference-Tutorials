@@ -4,8 +4,8 @@
 "title": "Conversione PDF efficiente in Java utilizzando la libreria GroupDocs.Conversion"
 "url": "/it/java/pdf-conversion/convert-local-documents-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Conversione PDF efficiente in Java con GroupDocs.Conversion
 
 ## Introduzione

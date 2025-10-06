@@ -8,10 +8,8 @@ keywords:
 - Convert XPS to PNG
 - GroupDocs.Conversion for .NET
 - Image Conversion
-
+type: docs
 ---
-
-
 # Convert XPS to PNG Using GroupDocs.Conversion for .NET
 
 ## Introduction

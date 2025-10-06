@@ -5,8 +5,8 @@
 "title": "Bestandstypen converteren naar PDF"
 "url": "/nl/net/converting-file-types-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # Bestandstypen converteren naar PDF
 
 ## Invoering

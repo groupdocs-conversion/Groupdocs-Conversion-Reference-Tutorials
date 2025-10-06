@@ -4,8 +4,8 @@
 "title": "เรียนรู้การแปลง DOCX เป็น PPT ด้วย GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/presentation-conversion/groupdocs-conversion-dotnet-docx-to-ppt/"
 "weight": 1
+type: docs
 ---
-
 # เรียนรู้การแปลง DOCX เป็น PPT ด้วย GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

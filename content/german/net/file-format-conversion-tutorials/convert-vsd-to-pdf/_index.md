@@ -5,8 +5,8 @@
 "title": "Konvertieren Sie VSD in PDF"
 "url": "/de/net/file-format-conversion-tutorials/convert-vsd-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # Konvertieren Sie VSD in PDF
 
 ## Einführung

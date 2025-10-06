@@ -4,8 +4,8 @@
 "title": "Uitgebreide handleiding&#58; LOG-bestanden converteren naar HTML met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/html-conversion/convert-log-files-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Uitgebreide handleiding: LOG-bestanden converteren naar HTML met GroupDocs.Conversion voor .NET
 
 ## Invoering

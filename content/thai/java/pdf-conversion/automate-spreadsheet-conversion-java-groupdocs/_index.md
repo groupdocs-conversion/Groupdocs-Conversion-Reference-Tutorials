@@ -4,8 +4,8 @@
 "title": "ทำการแปลงสเปรดชีตเป็น PDF โดยอัตโนมัติใน Java โดยใช้ GroupDocs.Conversion"
 "url": "/th/java/pdf-conversion/automate-spreadsheet-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # ทำการแปลงสเปรดชีตเป็น PDF โดยอัตโนมัติใน Java โดยใช้ GroupDocs.Conversion
 
 ## การแนะนำ

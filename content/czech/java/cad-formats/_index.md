@@ -3,8 +3,8 @@
 "title": "Výukové programy pro převod CAD formátů pro GroupDocs.Conversion v Javě"
 "url": "/cs/java/cad-formats/"
 "weight": 10
+type: docs
 ---
-
 # Výukové programy pro převod CAD formátů pro GroupDocs.Conversion v Javě
 
 Naučte se zpracovávat výkresy CAD s našimi komplexními tutoriály GroupDocs.Conversion pro vývojáře v Javě. Tyto praktické průvodce ukazují, jak převádět soubory AutoCADu do zobrazitelných formátů, zachovávat vrstvy a rozměry, pracovat s velkými výkresy, spravovat výřezy a rozvržení a transformovat 3D modely do 2D reprezentací. Každý tutoriál obsahuje podrobné příklady kódu Java pro scénáře převodu CAD, které vám pomohou vytvářet aplikace, které dokáží přesně zpracovávat technické výkresy a zároveň zachovat důležité technické detaily.

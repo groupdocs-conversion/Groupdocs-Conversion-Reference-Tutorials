@@ -4,8 +4,8 @@
 "title": "Snadný převod PCL do PDF s GroupDocs.Conversion pro .NET – podrobný návod"
 "url": "/cs/net/pdf-conversion/convert-pcl-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod PCL do PDF pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

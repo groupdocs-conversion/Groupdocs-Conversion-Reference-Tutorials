@@ -4,8 +4,8 @@
 "title": "Προηγμένη μετατροπή κειμένου σε PDF με το GroupDocs.Conversion Διατήρηση μορφοποίησης Java"
 "url": "/el/java/pdf-conversion/groupdocs-conversion-java-text-to-pdf-advanced-formatting/"
 "weight": 1
+type: docs
 ---
-
 # Προηγμένη μετατροπή κειμένου σε PDF με το GroupDocs.Conversion Java: Διατήρηση μορφοποίησης
 
 ## Εισαγωγή

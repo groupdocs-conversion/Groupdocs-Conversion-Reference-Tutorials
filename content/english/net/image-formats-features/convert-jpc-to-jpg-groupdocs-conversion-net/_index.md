@@ -8,10 +8,8 @@ keywords:
 - convert JPC to JPG
 - GroupDocs.Conversion for .NET
 - image format conversion
-
+type: docs
 ---
-
-
 # Convert JPC to JPG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Конвертируйте GIF-файлы в презентации PowerPoint с помощью GroupDocs.Conversion для .NET — пошаговое руководство"
 "url": "/ru/net/presentation-formats-features/convert-gifs-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте GIF-файлы в презентации PowerPoint с помощью GroupDocs.Conversion для .NET
 
 ## Введение

@@ -5,8 +5,8 @@
 "title": "DWT CAD Şablon Dosyalarını PDF'ye Dönüştür"
 "url": "/tr/net/convert-files-to-pdf/convert-dwt-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # DWT CAD Şablon Dosyalarını PDF'ye Dönüştür
 
 ## giriiş

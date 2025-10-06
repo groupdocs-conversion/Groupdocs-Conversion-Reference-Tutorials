@@ -4,8 +4,8 @@
 "title": "Mért licencelés megvalósítása a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/getting-started-licensing/metered-licensing-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Mért licencelés megvalósítása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

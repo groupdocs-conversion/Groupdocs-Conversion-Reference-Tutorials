@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Learn how to convert JPEG-LS (.JLS) files to PDF format effortlessly using GroupDocs.Conversion for .NET. Enhance your file conversion capabilities.
 weight: 29
 url: /net/convert-files-to-pdf/convert-jls-to-pdf/
+type: docs
 ---
-
 # Convert JPEG-LS (.JLS) Files to PDF
 
 ## Introduction

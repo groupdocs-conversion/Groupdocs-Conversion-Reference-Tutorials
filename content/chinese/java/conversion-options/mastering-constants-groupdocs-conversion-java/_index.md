@@ -4,8 +4,8 @@
 "title": "掌握 GroupDocs.Conversion Java 中用于文件转换项目的常量管理"
 "url": "/zh/java/conversion-options/mastering-constants-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion Java 掌握常量管理
 
 ## 介绍

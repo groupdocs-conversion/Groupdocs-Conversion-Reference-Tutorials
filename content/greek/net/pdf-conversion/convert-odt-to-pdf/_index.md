@@ -5,8 +5,8 @@
 "title": "Μετατροπή ODT σε PDF"
 "url": "/el/net/pdf-conversion/convert-odt-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # Μετατροπή ODT σε PDF
 
 ## Εισαγωγή

@@ -4,8 +4,8 @@
 "title": "Конвертируйте DOC в HTML с помощью GroupDocs.Conversion для .NET&#58; Пошаговое руководство"
 "url": "/ru/net/web-markup-formats/convert-doc-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Как конвертировать файлы DOC в HTML с помощью GroupDocs.Conversion для .NET
 
 ## Введение

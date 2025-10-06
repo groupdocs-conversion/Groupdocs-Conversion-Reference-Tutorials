@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Java를 위한 PDF 변환 튜토리얼"
 "url": "/ko/java/pdf-conversion/"
 "weight": 4
+type: docs
 ---
-
 # GroupDocs.Conversion Java를 위한 PDF 변환 튜토리얼
 
 PDF 변환 튜토리얼은 Java 애플리케이션에서 PDF 문서를 처리하는 방법에 대한 자세한 지침을 제공합니다. 이 실용적인 가이드를 따라 다양한 문서 형식을 PDF로 변환하고, PDF를 다른 형식으로 변환하고, PDF 관련 옵션을 구성하고, 암호로 보호된 PDF를 처리하고, 양식 및 주석과 같은 PDF 기능을 관리하는 방법을 알아보세요. 이 튜토리얼에는 일반적인 PDF 변환 시나리오에 대한 완전한 Java 코드 예제가 포함되어 있어 PDF 문서를 효과적으로 처리할 수 있는 애플리케이션을 구축하는 데 도움이 됩니다.

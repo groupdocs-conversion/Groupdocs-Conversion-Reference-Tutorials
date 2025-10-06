@@ -4,8 +4,8 @@
 "title": "Как преобразовать SVG в PNG в .NET с помощью GroupDocs.Conversion для .NET&#58; Подробное руководство"
 "url": "/ru/net/image-conversion/svg-to-png-conversion-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # Как конвертировать SVG в PNG в .NET с помощью GroupDocs.Conversion для .NET: подробное руководство
 
 ## Введение

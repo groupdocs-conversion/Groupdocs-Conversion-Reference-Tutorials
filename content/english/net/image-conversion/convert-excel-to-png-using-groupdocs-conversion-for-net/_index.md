@@ -8,10 +8,8 @@ keywords:
 - Excel to PNG conversion
 - GroupDocs.Conversion for .NET
 - XLSX to image
-
+type: docs
 ---
-
-
 # Efficiently Convert Excel Files to Images with GroupDocs.Conversion for .NET
 
 ## Introduction

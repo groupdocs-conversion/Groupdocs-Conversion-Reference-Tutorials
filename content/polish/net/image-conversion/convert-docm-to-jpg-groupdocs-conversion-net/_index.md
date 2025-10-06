@@ -4,8 +4,8 @@
 "title": "Konwersja DOCM do JPG&#58; Przewodnik ostateczny przy użyciu GroupDocs.Conversion dla .NET"
 "url": "/pl/net/image-conversion/convert-docm-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja DOCM do JPG: kompletny przewodnik przy użyciu GroupDocs.Conversion dla .NET
 
 ## Wstęp

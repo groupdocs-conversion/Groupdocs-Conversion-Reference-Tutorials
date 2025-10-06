@@ -4,8 +4,8 @@
 "title": "Ana Dosya Dönüşümü&#58; GroupDocs.Conversion .NET Kütüphanesini Kullanarak VST'yi PPT'ye Dönüştürme"
 "url": "/tr/net/presentation-conversion/convert-vst-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Ana Dosya Dönüştürme: GroupDocs.Conversion .NET Kütüphanesini Kullanarak VST'yi PPT'ye Dönüştürme
 
 ## giriiş

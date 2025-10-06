@@ -4,8 +4,8 @@
 "title": "Chuyển đổi JPEG sang PowerPoint bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/presentation-conversion/convert-jpeg-to-powerpoint-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi JPEG sang PowerPoint bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

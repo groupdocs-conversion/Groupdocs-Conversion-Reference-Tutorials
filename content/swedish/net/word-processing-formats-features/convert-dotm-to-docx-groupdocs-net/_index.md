@@ -4,8 +4,8 @@
 "title": "Bemästra DOTM till DOCX-konvertering med GroupDocs för .NET"
 "url": "/sv/net/word-processing-formats-features/convert-dotm-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Bemästra DOTM till DOCX-konvertering med GroupDocs för .NET
 
 ## Introduktion

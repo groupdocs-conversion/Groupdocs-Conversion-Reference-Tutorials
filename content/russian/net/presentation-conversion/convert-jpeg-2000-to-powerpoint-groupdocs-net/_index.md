@@ -4,8 +4,8 @@
 "title": "Эффективное преобразование JPEG 2000 (.jp2) в PowerPoint с помощью GroupDocs.Conversion .NET"
 "url": "/ru/net/presentation-conversion/convert-jpeg-2000-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Эффективное преобразование JPEG 2000 (.jp2) в PowerPoint с помощью GroupDocs.Conversion .NET
 
 ## Введение

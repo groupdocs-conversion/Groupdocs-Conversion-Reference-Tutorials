@@ -4,8 +4,8 @@
 "title": "Konversi MOBI ke HTML dengan GroupDocs.Conversion untuk .NET&#58; Panduan Langkah demi Langkah"
 "url": "/id/net/web-markup-formats/convert-mobi-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi File MOBI ke HTML Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

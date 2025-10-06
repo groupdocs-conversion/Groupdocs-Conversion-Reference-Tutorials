@@ -5,8 +5,8 @@
 "title": "WebPをPDFに変換する"
 "url": "/ja/net/converting-file-types-to-pdf/convert-webp-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # WebPをPDFに変換する
 
 ## 導入

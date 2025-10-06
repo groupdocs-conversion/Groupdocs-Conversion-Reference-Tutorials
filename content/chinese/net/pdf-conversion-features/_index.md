@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 的 PDF 转换和功能教程"
 "url": "/zh/net/pdf-conversion-features/"
 "weight": 9
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 的 PDF 转换和功能教程
 
 我们以 PDF 为重点的教程提供了在 .NET 应用程序中处理 PDF 文档的全面指导。这些实用指南演示了如何将各种格式转换为 PDF、将 PDF 转换为其他格式、拼合表单字段、隐藏注释、移除嵌入文件、优化 PDF 压缩设置、控制 PDF/A 合规性、管理文档权限以及在转换过程中保留超链接。每个教程都包含完整的 PDF 转换场景的 C# 代码示例，帮助您构建充分利用 PDF 格式全部功能并保持文档保真度的应用程序。

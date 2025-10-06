@@ -4,8 +4,8 @@
 "title": "PDF konvertálása Word-be Java-ban beágyazott fájleltávolítással – lépésről lépésre útmutató a GroupDocs.Conversion használatával"
 "url": "/hu/java/pdf-conversion/convert-pdf-to-word-java-embedded-file-removal/"
 "weight": 1
+type: docs
 ---
-
 # PDF konvertálása Word-be Java-ban beágyazott fájleltávolítással: lépésről lépésre útmutató a GroupDocs.Conversion használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Documenten converteren van streams in Java met GroupDocs.Conversion"
 "url": "/nl/java/document-operations/convert-documents-streams-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Documenten converteren van streams in Java met GroupDocs.Conversion
 
 ## Invoering

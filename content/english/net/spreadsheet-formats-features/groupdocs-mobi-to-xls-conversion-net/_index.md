@@ -8,10 +8,8 @@ keywords:
 - MOBI to XLS conversion
 - GroupDocs.Conversion for .NET
 - file format conversion
-
+type: docs
 ---
-
-
 # Convert MOBI to XLS Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

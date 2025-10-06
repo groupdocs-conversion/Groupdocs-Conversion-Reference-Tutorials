@@ -4,8 +4,8 @@
 "title": "Lépésről lépésre útmutató&#58; STL fájlok betöltése és konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/cad-technical-drawing-formats/step-by-step-guide-load-stl-files-net/"
 "weight": 1
+type: docs
 ---
-
 # Lépésről lépésre útmutató: STL fájlok betöltése és konvertálása .NET-tel
 
 ## Bevezetés

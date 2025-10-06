@@ -4,8 +4,8 @@
 "title": "แปลงเอกสาร Word เป็น PowerPoint PPTX โดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/presentation-formats-features/convert-word-docs-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลง Word Docs เป็น PowerPoint PPTX โดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

@@ -4,8 +4,8 @@
 "title": "VSS konvertálása PSD-vé a GroupDocs.Conversion használatával .NET-ben – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-vss-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # VSS konvertálása PSD-vé a GroupDocs.Conversion használatával .NET-ben: Átfogó útmutató
 
 ## Bevezetés

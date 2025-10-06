@@ -3,8 +3,8 @@ title: "PDF Conversion Tutorials for GroupDocs.Conversion Java"
 description: "Step-by-step tutorials for converting to and from PDF documents, configuring PDF options, and handling PDF-specific features with GroupDocs.Conversion for Java."
 weight: 4
 url: "/java/pdf-conversion/"
+type: docs
 ---
-
 # PDF Conversion Tutorials for GroupDocs.Conversion Java
 
 Our PDF conversion tutorials provide detailed guidance for working with PDF documents in Java applications. Follow these practical guides to learn how to convert various document formats to PDF, convert PDFs to other formats, configure PDF-specific options, handle password-protected PDFs, and manage PDF features like forms and annotations. These tutorials include complete Java code examples for common PDF conversion scenarios, helping you build applications that can effectively process PDF documents.

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak MHT'yi TXT'ye Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/text-markup-conversion/convert-mht-to-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak MHT'yi TXT'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

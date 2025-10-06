@@ -4,8 +4,8 @@
 "title": "WMZ fájlok egyszerű konvertálása JPG-vé a GroupDocs.Conversion for .NET segítségével | Képkonverziós útmutató"
 "url": "/hu/net/image-conversion/convert-wmz-to-jpg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # WMZ fájlok konvertálása JPG formátumba a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

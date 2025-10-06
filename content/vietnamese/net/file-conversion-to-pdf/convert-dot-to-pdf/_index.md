@@ -5,8 +5,8 @@
 "title": "Chuyển đổi mẫu DOT Word sang PDF"
 "url": "/vi/net/file-conversion-to-pdf/convert-dot-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # Chuyển đổi mẫu DOT Word sang PDF
 
 ## Giới thiệu

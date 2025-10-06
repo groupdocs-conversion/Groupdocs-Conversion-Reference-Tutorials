@@ -5,8 +5,8 @@
 "title": "Konvertera MSG till PDF"
 "url": "/sv/net/document-conversion/convert-msg-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # Konvertera MSG till PDF
 
 ## Introduktion

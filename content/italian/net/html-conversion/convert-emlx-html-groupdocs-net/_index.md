@@ -4,8 +4,8 @@
 "title": "Master Conversione dei messaggi di Apple Mail (.emlx) in HTML utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/html-conversion/convert-emlx-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Master Conversione dei messaggi di Apple Mail (.emlx) in HTML utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

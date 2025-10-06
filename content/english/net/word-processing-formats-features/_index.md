@@ -3,8 +3,8 @@ title: "Word Processing Formats and Features Tutorials for GroupDocs.Conversion 
 description: "Learn to convert to and from Word processing formats (DOC, DOCX, RTF, ODT) and manage Word-specific features with GroupDocs.Conversion .NET."
 weight: 10
 url: "/net/word-processing-formats-features/"
+type: docs
 ---
-
 # Word Processing Formats and Features Tutorials for GroupDocs.Conversion .NET
 
 Discover how to effectively work with Word documents using our comprehensive GroupDocs.Conversion .NET tutorials. These step-by-step guides teach you how to convert between various Word processing formats, hide comments and tracked changes during conversion, specify font substitution options, preserve styles and formatting, maintain document structure, handle embedded objects, and control header/footer behavior. Each tutorial provides practical C# code examples for Word document conversion tasks, helping you build more efficient applications that can process text documents with high fidelity and format-specific control.

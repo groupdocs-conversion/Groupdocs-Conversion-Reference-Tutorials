@@ -8,10 +8,8 @@ keywords:
 - convert EML to PPT
 - GroupDocs.Conversion .NET
 - document conversion
-
+type: docs
 ---
-
-
 # How to Convert EML Files to PowerPoint PPT Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Chuyển đổi VSSM sang SVG hiệu quả bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/image-formats-features/convert-vssm-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi VSSM sang SVG hiệu quả bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

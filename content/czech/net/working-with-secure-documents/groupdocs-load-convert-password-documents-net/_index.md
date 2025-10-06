@@ -4,8 +4,8 @@
 "title": "Načtení a převod dokumentů chráněných heslem pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/working-with-secure-documents/groupdocs-load-convert-password-documents-net/"
 "weight": 1
+type: docs
 ---
-
 # Načtení a převod dokumentů chráněných heslem pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

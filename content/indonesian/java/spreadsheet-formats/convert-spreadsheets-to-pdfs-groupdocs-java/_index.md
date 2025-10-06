@@ -4,8 +4,8 @@
 "title": "Konversi Spreadsheet ke PDF dengan GroupDocs.Conversion untuk Java&#58; Panduan Lengkap"
 "url": "/id/java/spreadsheet-formats/convert-spreadsheets-to-pdfs-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Konversi Spreadsheet ke PDF dengan GroupDocs.Conversion untuk Java: Panduan Lengkap
 
 ## Perkenalan

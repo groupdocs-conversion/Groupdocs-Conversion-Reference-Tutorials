@@ -4,8 +4,8 @@
 "title": "Конвертируйте файлы хранилища BLOB-объектов Azure в PDF с помощью .NET и GroupDocs.Conversion"
 "url": "/ru/net/loading-from-cloud-storage/convert-azure-blob-storage-files-to-pdf-net/"
 "weight": 1
+type: docs
 ---
-
 # Как загрузить и преобразовать файлы хранилища BLOB-объектов Azure в PDF с помощью .NET и GroupDocs.Conversion
 
 ## Введение

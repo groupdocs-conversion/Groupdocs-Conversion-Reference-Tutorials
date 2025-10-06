@@ -4,8 +4,8 @@
 "title": "So extrahieren Sie PDF-Metadaten mit GroupDocs.Conversion in Java"
 "url": "/de/java/pdf-conversion/extract-pdf-metadata-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # So extrahieren Sie PDF-Metadaten mit GroupDocs.Conversion in Java
 
 ## Einführung

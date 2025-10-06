@@ -4,8 +4,8 @@
 "title": "Convertir des fichiers PNG en JPG à l'aide de GroupDocs.Conversion .NET &#58; un guide complet pour les développeurs"
 "url": "/fr/net/image-conversion/convert-png-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des fichiers PNG en JPG avec GroupDocs.Conversion .NET : guide étape par étape
 
 ## Introduction

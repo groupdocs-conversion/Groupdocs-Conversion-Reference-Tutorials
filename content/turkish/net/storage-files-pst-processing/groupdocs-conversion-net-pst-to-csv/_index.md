@@ -4,8 +4,8 @@
 "title": "PST'yi GroupDocs.Conversion for .NET ile CSV'ye Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/storage-files-pst-processing/groupdocs-conversion-net-pst-to-csv/"
 "weight": 1
+type: docs
 ---
-
 # PST'yi GroupDocs.Conversion for .NET ile CSV'ye Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

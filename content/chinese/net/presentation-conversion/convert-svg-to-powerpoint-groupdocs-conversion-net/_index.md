@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中将 SVG 转换为 PowerPoint — 分步指南"
 "url": "/zh/net/presentation-conversion/convert-svg-to-powerpoint-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 在 .NET 中将 SVG 转换为 PowerPoint
 ## 介绍
 将 SVG 图形转换为适合 PowerPoint 等演示文稿的格式是平面设计师和软件开发人员的常见需求。无论是商务会议还是学术用途，将 SVG 文件转换为 PPT 都可以显著简化您的工作流程。本指南将帮助您使用 .NET 中的 GroupDocs.Conversion 库高效地将 SVG 文件转换为 PowerPoint 演示文稿。

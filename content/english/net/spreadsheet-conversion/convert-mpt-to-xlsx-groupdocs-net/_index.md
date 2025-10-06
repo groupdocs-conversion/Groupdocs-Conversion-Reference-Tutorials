@@ -8,10 +8,8 @@ keywords:
 - convert MPT to XLSX
 - GroupDocs Conversion for .NET
 - file conversion tutorial
-
+type: docs
 ---
-
-
 # Convert MPT Files to XLSX Using GroupDocs.Conversion for .NET
 
 ## Introduction

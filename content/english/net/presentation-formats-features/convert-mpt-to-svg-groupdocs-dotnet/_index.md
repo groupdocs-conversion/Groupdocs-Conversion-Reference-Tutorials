@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert MPT to SVG Using GroupDocs.Conversion for .NET
 
 ## Introduction

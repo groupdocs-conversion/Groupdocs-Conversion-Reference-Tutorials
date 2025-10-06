@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET 라이브러리를 사용한 효율적인 PDF-PSD 변환"
 "url": "/ko/net/image-formats-features/convert-pdfs-psds-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET을 사용한 효율적인 PDF-PSD 변환
 
 ## 소개

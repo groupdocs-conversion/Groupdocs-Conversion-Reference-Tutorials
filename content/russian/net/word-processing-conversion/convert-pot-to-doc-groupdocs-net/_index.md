@@ -4,8 +4,8 @@
 "title": "Эффективное преобразование POT в DOC с помощью GroupDocs.Conversion для .NET&#58; Подробное руководство"
 "url": "/ru/net/word-processing-conversion/convert-pot-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Эффективное преобразование POT в DOC с помощью GroupDocs.Conversion для .NET: подробное руководство
 
 ## Введение

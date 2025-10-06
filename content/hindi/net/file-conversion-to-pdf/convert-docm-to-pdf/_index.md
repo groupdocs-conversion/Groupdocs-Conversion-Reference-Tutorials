@@ -5,8 +5,8 @@
 "title": "DOCM वर्ड दस्तावेज़ (मैक्रोज़) को PDF में बदलें"
 "url": "/hi/net/file-conversion-to-pdf/convert-docm-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # DOCM वर्ड दस्तावेज़ (मैक्रोज़) को PDF में बदलें
 
 ## परिचय

@@ -4,8 +4,8 @@
 "title": "Konwersja MOBI do CSV za pomocą GroupDocs.Conversion dla .NET&#58; Kompleksowy przewodnik"
 "url": "/pl/net/csv-structured-data-processing/convert-mobi-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj pliki MOBI do CSV za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

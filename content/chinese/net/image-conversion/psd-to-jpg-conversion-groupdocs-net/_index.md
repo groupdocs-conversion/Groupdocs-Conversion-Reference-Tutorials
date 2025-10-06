@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 高效地将 PSD 转换为 JPG"
 "url": "/zh/net/image-conversion/psd-to-jpg-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 高效地将 PSD 转换为 JPG
 
 在当今的数字环境中，图像格式转换至关重要。无论您是要共享不同文件类型的图形设计，还是要使用图像优化 Web 应用程序，将 Photoshop PSD 文件转换为通用兼容的 JPG 格式都至关重要。本教程将指导您使用 GroupDocs.Conversion for .NET 将 PSD 文件高效地转换为高质量的 JPG 图像。

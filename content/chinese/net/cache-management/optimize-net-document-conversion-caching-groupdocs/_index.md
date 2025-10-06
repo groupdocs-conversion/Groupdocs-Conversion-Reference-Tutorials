@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 通过缓存优化 .NET 文档转换"
 "url": "/zh/net/cache-management/optimize-net-document-conversion-caching-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 通过缓存优化 .NET 文档转换
 
 ## 介绍

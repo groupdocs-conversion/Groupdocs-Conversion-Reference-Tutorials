@@ -8,10 +8,8 @@ keywords:
 - convert IGS to JPG
 - GroupDocs.Conversion for .NET
 - 3D file conversion
-
+type: docs
 ---
-
-
 # Convert IGS Files to JPG with GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie VDX-Dateien mit GroupDocs.Conversion für .NET in JPG"
 "url": "/de/net/image-conversion/convert-vdx-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie VDX-Dateien mit GroupDocs.Conversion für .NET in JPG
 
 ## Einführung

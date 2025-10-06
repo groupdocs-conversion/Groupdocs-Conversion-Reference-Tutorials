@@ -4,8 +4,8 @@
 "title": "Konvertera PowerPoint till Photoshop &#53; Master GroupDocs.Conversion för .NET PPT till PSD-konvertering"
 "url": "/sv/net/image-formats-features/groupdocs-conversion-net-ppt-psd/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera PowerPoint till Photoshop: Master GroupDocs.Conversion för .NET PPT till PSD-konvertering
 
 ## Introduktion

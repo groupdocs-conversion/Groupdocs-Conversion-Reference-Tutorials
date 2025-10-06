@@ -4,8 +4,8 @@
 "title": "掌握文件轉換&#58;使用 GroupDocs for .NET 載入並轉換 JPF 文件"
 "url": "/zh-hant/net/image-formats-features/load-convert-jpf-files-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 掌握文件轉換：使用 GroupDocs for .NET 載入和轉換 JPF 文件
 
 ## 介紹

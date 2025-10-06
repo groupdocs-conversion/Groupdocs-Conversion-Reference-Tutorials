@@ -8,10 +8,8 @@ keywords:
 - Convert DIB to LaTeX
 - GroupDocs.Conversion for .NET
 - DIB to TEX conversion
-
+type: docs
 ---
-
-
 # Convert DIB to LaTeX with GroupDocs.Conversion for .NET: A Complete Guide
 
 ## Introduction

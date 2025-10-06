@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi DOCM sang XLS bằng GroupDocs.Conversion trong .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/spreadsheet-conversion/convert-docm-to-xls-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi DOCM sang XLS bằng GroupDocs.Conversion trong .NET: Hướng dẫn từng bước
 ## Giới thiệu
 Bạn cần chuyển đổi Tài liệu hỗ trợ Macro của Microsoft Word (.docm) sang định dạng Excel? Hướng dẫn này sẽ hướng dẫn bạn sử dụng thư viện GroupDocs.Conversion trong .NET để chuyển đổi tài liệu hiệu quả.

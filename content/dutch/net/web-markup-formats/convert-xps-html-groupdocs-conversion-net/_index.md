@@ -4,8 +4,8 @@
 "title": "XPS-bestanden converteren naar HTML met GroupDocs.Conversion voor .NET&#58; een complete handleiding"
 "url": "/nl/net/web-markup-formats/convert-xps-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # XPS-bestanden naar HTML converteren met GroupDocs.Conversion voor .NET: een complete handleiding
 
 ## Invoering

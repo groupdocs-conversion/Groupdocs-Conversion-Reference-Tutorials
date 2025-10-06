@@ -4,8 +4,8 @@
 "title": "Převod WMF do DOC pomocí GroupDocs pro .NET – Komplexní průvodce"
 "url": "/cs/net/word-processing-conversion/convert-wmf-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod WMF do DOC pomocí GroupDocs pro .NET: Komplexní průvodce
 
 ## Zavedení

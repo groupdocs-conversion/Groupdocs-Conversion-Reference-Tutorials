@@ -8,10 +8,8 @@ keywords:
 - convert JPEG to PDF
 - GroupDocs.Conversion for .NET tutorial
 - JPEG to PDF conversion
-
+type: docs
 ---
-
-
 # How to Convert JPEG to PDF Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

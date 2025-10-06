@@ -4,8 +4,8 @@
 "title": "Java için GroupDocs.Conversion Kullanarak DOCX'e Filigran Nasıl Eklenir ve PDF'e Nasıl Dönüştürülür"
 "url": "/tr/java/watermarks-annotations/add-watermark-docx-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for Java Kullanarak Belgenize Filigran Nasıl Eklenir
 
 Günümüzün dijital dünyasında, belgelerinizi yetkisiz kullanımdan korumak hayati önem taşır. İster hassas bilgileri paylaşıyor olun, ister yalnızca belgelerinizi markalamak istiyor olun, filigran eklemek etkili bir çözüm olabilir. Bu eğitimde, sizi kullanma sürecinde yönlendireceğiz **GroupDocs.Conversion for Java** DOCX dosyasını PDF'ye dönüştürürken filigran eklemek için.

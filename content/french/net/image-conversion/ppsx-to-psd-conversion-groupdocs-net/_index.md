@@ -4,8 +4,8 @@
 "title": "Convertir PPSX en PSD avec GroupDocs.Conversion pour .NET – Guide complet"
 "url": "/fr/net/image-conversion/ppsx-to-psd-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir PPSX en PSD avec GroupDocs.Conversion pour .NET
 
 ## Introduction

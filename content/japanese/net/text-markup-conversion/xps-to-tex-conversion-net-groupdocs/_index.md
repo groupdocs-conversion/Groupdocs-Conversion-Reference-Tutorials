@@ -4,8 +4,8 @@
 "title": ".NET GroupDocs.Conversion を使用して XPS を TEX に変換する手順ガイド"
 "url": "/ja/net/text-markup-conversion/xps-to-tex-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # .NET GroupDocs.Conversion を使用して XPS を TEX に変換する: ステップバイステップ ガイド
 
 ## 導入

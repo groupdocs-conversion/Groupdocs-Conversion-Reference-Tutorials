@@ -5,8 +5,8 @@
 "title": "Converter metarquivos aprimorados do EMZ para PDF"
 "url": "/pt/net/convert-files-to-pdf/convert-emz-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # Converter metarquivos aprimorados do EMZ para PDF
 
 ## Introdução

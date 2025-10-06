@@ -5,8 +5,8 @@
 "title": "将 DWF CAD 文件转换为 PDF"
 "url": "/zh/net/file-conversion-to-pdf/convert-dwf-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # 将 DWF CAD 文件转换为 PDF
 
 ## 介绍

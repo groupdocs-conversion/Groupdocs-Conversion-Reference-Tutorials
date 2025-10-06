@@ -4,8 +4,8 @@
 "title": "OXPS'i GroupDocs.Conversion .NET ile XLS'e Dönüştürün&58; Elektronik Tablo Biçimleri ve Özellikleri için Kapsamlı Bir Kılavuz"
 "url": "/tr/net/spreadsheet-formats-features/convert-oxps-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OXPS'i GroupDocs.Conversion .NET ile XLS'ye Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

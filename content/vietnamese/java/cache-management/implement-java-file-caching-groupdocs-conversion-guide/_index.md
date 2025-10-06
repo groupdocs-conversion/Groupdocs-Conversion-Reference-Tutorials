@@ -4,8 +4,8 @@
 "title": "Java File Caching với GroupDocs.Conversion&#58; Hướng dẫn toàn diện để chuyển đổi tài liệu hiệu quả"
 "url": "/vi/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Cách triển khai Java File Caching với GroupDocs.Conversion để chuyển đổi tài liệu hiệu quả
 
 ## Giới thiệu

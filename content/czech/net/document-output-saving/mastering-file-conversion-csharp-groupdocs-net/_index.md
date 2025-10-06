@@ -4,8 +4,8 @@
 "title": "Zvládnutí konverze souborů v C# pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/document-output-saving/mastering-file-conversion-csharp-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Zvládnutí konverze souborů v C#: Implementace GroupDocs.Conversion pro .NET
 
 ## Zavedení

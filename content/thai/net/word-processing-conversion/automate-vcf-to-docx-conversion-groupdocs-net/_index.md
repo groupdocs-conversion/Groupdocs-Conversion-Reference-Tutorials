@@ -4,8 +4,8 @@
 "title": "ทำให้การแปลง VCF เป็น DOCX เป็นแบบอัตโนมัติโดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/word-processing-conversion/automate-vcf-to-docx-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # ทำให้การแปลง VCF เป็น DOCX เป็นแบบอัตโนมัติด้วย GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

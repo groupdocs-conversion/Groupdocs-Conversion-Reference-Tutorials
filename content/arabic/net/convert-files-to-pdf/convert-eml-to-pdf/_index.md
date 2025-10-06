@@ -5,8 +5,8 @@
 "title": "تحويل رسائل البريد الإلكتروني EML إلى PDF"
 "url": "/ar/net/convert-files-to-pdf/convert-eml-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # تحويل رسائل البريد الإلكتروني EML إلى PDF
 
 ## مقدمة

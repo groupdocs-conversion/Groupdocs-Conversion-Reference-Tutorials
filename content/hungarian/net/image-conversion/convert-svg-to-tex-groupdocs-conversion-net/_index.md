@@ -4,8 +4,8 @@
 "title": "SVG fájlok konvertálása TEX formátumba a GroupDocs.Conversion .NET használatával a zökkenőmentes fájlkonverzióhoz"
 "url": "/hu/net/image-conversion/convert-svg-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # SVG fájlok konvertálása TEX formátumba a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

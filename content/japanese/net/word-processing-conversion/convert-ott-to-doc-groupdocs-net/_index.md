@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET を使用した OTT から DOC への変換 - ワープロ変換のステップバイステップガイド"
 "url": "/ja/net/word-processing-conversion/convert-ott-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET を使用して OTT を DOC に変換する: ワードプロセッサ変換のステップバイステップガイド
 
 ## 導入

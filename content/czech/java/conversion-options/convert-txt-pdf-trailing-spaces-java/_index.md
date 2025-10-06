@@ -4,8 +4,8 @@
 "title": "Jak převést TXT do PDF s ovládáním koncových mezer pomocí Javy a GroupDocs.Conversion"
 "url": "/cs/java/conversion-options/convert-txt-pdf-trailing-spaces-java/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést TXT do PDF s ovládáním koncových mezer pomocí Javy a GroupDocs.Conversion
 
 V dnešním digitálním světě je efektivní práce s textovými dokumenty klíčová pro firmy i jednotlivce. Převod textových souborů (TXT) do univerzálních formátů PDF při zachování integrity formátování může být náročný, zejména při práci s koncovými mezerami, které často narušují rozvržení. Tento tutoriál vás provede používáním nástroje GroupDocs.Conversion pro Javu k efektivnímu převodu textových souborů do PDF s kontrolou koncových mezer.

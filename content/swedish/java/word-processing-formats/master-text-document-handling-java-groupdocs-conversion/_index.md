@@ -4,8 +4,8 @@
 "title": "Hantering av huvudtextdokument i Java med GroupDocs.Conversion för sömlös kodning och PDF-konvertering"
 "url": "/sv/java/word-processing-formats/master-text-document-handling-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Bemästra hantering av textdokument i Java med GroupDocs.Conversion
 
 ## Introduktion

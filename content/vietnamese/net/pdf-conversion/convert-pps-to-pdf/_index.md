@@ -5,8 +5,8 @@
 "title": "Chuyển đổi PPS sang PDF"
 "url": "/vi/net/pdf-conversion/convert-pps-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Chuyển đổi PPS sang PDF
 
 ## Giới thiệu

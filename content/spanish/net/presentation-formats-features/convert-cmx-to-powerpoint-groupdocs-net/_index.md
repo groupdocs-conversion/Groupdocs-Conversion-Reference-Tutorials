@@ -4,8 +4,8 @@
 "title": "Convierta archivos CMX a PowerPoint con GroupDocs.Conversion para .NET&#58; guía completa"
 "url": "/es/net/presentation-formats-features/convert-cmx-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir archivos CMX a PowerPoint con GroupDocs.Conversion para .NET
 
 ## Introducción

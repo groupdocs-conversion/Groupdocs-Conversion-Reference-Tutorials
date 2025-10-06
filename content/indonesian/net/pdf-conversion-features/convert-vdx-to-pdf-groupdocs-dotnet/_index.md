@@ -4,8 +4,8 @@
 "title": "Konversi VDX ke PDF Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/pdf-conversion-features/convert-vdx-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi File VDX ke PDF Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

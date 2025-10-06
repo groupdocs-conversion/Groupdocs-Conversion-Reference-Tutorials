@@ -5,8 +5,8 @@
 "title": "Převod glutamanu sodného do PDF"
 "url": "/cs/net/document-conversion/convert-msg-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # Převod glutamanu sodného do PDF
 
 ## Zavedení

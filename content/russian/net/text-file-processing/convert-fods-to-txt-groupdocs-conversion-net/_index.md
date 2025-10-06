@@ -4,8 +4,8 @@
 "title": "Конвертируйте файлы FODS в TXT с помощью GroupDocs.Conversion .NET | Руководство по обработке текстовых файлов"
 "url": "/ru/net/text-file-processing/convert-fods-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте файлы FODS в TXT с помощью GroupDocs.Conversion .NET
 
 ## Введение

@@ -4,8 +4,8 @@
 "title": "Chuyển đổi SXC sang TXT bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/text-markup-conversion/convert-sxc-to-txt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp SXC sang TXT bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

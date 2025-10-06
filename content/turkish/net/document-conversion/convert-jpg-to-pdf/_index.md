@@ -5,8 +5,8 @@
 "title": "JPG'yi PDF'ye dönüştür"
 "url": "/tr/net/document-conversion/convert-jpg-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # JPG'yi PDF'ye dönüştür
 
 ## giriiş

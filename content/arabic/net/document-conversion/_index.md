@@ -5,8 +5,8 @@
 "title": "تحويل المستندات"
 "url": "/ar/net/document-conversion/"
 "weight": 23
+type: docs
 ---
-
 # تحويل المستندات
 
 ## مقدمة

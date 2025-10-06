@@ -5,8 +5,8 @@
 "title": "POTMをPDFに変換する"
 "url": "/ja/net/pdf-conversion/convert-potm-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # POTMをPDFに変換する
 
 ## 導入

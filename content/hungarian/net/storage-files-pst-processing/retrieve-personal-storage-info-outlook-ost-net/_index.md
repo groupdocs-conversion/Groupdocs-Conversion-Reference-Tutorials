@@ -4,8 +4,8 @@
 "title": "Személyes tárhelyadatok lekérése Outlook OST fájlokból a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/storage-files-pst-processing/retrieve-personal-storage-info-outlook-ost-net/"
 "weight": 1
+type: docs
 ---
-
 # Személyes tárhelyadatok lekérése Outlook OST fájlokból a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

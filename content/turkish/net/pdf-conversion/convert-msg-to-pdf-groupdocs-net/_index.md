@@ -4,8 +4,8 @@
 "title": ".NET'te GroupDocs Kullanarak MSG'yi PDF'ye Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/pdf-conversion/convert-msg-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET'te GroupDocs Kullanarak MSG'yi PDF'ye Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "PDF konvertálása TXT-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/text-file-processing/convert-pdf-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PDF konvertálása TXT-vé a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

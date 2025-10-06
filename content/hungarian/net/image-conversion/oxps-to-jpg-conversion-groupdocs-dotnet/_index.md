@@ -4,8 +4,8 @@
 "title": "OXPS konvertálása JPG-vé C#-ban a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-conversion/oxps-to-jpg-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # OXPS konvertálása JPG-vé C#-ban a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

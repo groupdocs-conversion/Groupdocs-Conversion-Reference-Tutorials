@@ -8,10 +8,8 @@ keywords:
 - convert OTP files to PNG
 - GroupDocs.Conversion for .NET
 - document conversion in .NET
-
+type: docs
 ---
-
-
 # Comprehensive Guide: Converting OTP Files to PNG Using GroupDocs.Conversion for .NET
 
 ## Introduction

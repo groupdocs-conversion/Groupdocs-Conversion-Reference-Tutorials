@@ -4,8 +4,8 @@
 "title": "Konverze hlavních dokumentů v .NET pomocí GroupDocs.Conversion – Komplexní průvodce"
 "url": "/cs/net/conversion-options-settings/groupdocs-conversion-net-document-convert/"
 "weight": 1
+type: docs
 ---
-
 # Zvládnutí konverze dokumentů v .NET pomocí GroupDocs.Conversion
 
 ## Zavedení

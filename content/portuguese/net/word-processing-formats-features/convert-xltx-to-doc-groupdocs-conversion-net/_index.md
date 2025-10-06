@@ -4,8 +4,8 @@
 "title": "Converter modelo do Excel (.xltx) em documento do Word (DOC) usando GroupDocs.Conversion para .NET"
 "url": "/pt/net/word-processing-formats-features/convert-xltx-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converter modelo do Excel (.xltx) em documento do Word (DOC) usando GroupDocs.Conversion para .NET
 ## Introdução
 Bem-vindo a este guia completo sobre como converter um arquivo de modelo do Excel (.xltx) para o formato de documento do Word (DOC) usando a poderosa biblioteca GroupDocs.Conversion para .NET. Esta solução é essencial em fluxos de trabalho de gerenciamento de documentos, permitindo a integração perfeita de modelos ricos em dados com documentos baseados em texto.

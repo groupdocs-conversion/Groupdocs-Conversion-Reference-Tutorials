@@ -3,8 +3,8 @@
 "title": "Samouczki dotyczące znaków wodnych i adnotacji dla GroupDocs.Conversion Java"
 "url": "/pl/java/watermarks-annotations/"
 "weight": 20
+type: docs
 ---
-
 # Samouczki dotyczące znaków wodnych i adnotacji dla GroupDocs.Conversion Java
 
 Poznaj możliwości adnotacji i znaków wodnych dzięki naszym kompleksowym samouczkom GroupDocs.Conversion dla języka Java. Te przewodniki krok po kroku pokazują, jak dodawać znaki wodne tekstu i obrazu podczas konwersji, zachowywać istniejące adnotacje, kontrolować widoczność adnotacji, wdrażać dynamiczne znaki wodne na podstawie metadanych i zarządzać znakami redakcyjnymi w poufnych dokumentach. Każdy samouczek zawiera praktyczne przykłady kodu Java dla scenariuszy znaków wodnych i adnotacji, pomagając w tworzeniu aplikacji, które zachowują ważne elementy wizualne i znaki redakcyjne podczas transformacji formatu.

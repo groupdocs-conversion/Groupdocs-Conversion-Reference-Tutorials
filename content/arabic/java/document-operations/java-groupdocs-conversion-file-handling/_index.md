@@ -4,8 +4,8 @@
 "title": "تحويل الملفات الرئيسية في جافا - دليل شامل لاستخدام GroupDocs.Conversion"
 "url": "/ar/java/document-operations/java-groupdocs-conversion-file-handling/"
 "weight": 1
+type: docs
 ---
-
 # إتقان تحويل الملفات في جافا: دليل شامل لاستخدام GroupDocs.Conversion
 
 ## مقدمة

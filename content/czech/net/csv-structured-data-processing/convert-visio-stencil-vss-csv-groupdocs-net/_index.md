@@ -4,8 +4,8 @@
 "title": "Převod šablony Visio (.vss) do CSV pomocí nástroje GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/csv-structured-data-processing/convert-visio-stencil-vss-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod šablony Visio (.vss) do CSV pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert Visio VSSX Files to TXT Using GroupDocs.Conversion .NET API
 
 ## Introduction

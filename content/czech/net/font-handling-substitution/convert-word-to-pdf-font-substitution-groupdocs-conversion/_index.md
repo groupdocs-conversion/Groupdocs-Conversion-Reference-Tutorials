@@ -4,8 +4,8 @@
 "title": "Převod Wordu do PDF s nahrazením písma pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/font-handling-substitution/convert-word-to-pdf-font-substitution-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Převod dokumentů Word do PDF s nahrazením písma pomocí GroupDocs.Conversion pro .NET
 ## Zavedení
 Převod dokumentů Word do PDF často vede k nekonzistentním fontům, což má za následek problémy s formátováním. Tato příručka zjednodušuje zajištění konzistence fontů pomocí nástroje GroupDocs.Conversion pro .NET. Naučte se, jak nastavit možnosti načítání pro nahrazování fontů a bezproblémově převést dokumenty Word do formátu PDF při zachování vizuální věrnosti.

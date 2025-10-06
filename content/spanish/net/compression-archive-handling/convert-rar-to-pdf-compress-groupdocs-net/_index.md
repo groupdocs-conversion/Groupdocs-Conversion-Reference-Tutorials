@@ -4,8 +4,8 @@
 "title": "Cómo convertir archivos RAR a PDF y comprimirlos en ZIP usando GroupDocs.Conversion para .NET"
 "url": "/es/net/compression-archive-handling/convert-rar-to-pdf-compress-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir archivos RAR a PDF y comprimirlos en ZIP usando GroupDocs.Conversion para .NET
 
 ## Introducción

@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion .NET
 - DNG to SVG conversion
 - image format conversions
-
+type: docs
 ---
-
-
 # Efficiently Load and Convert DNG Files to SVG Using GroupDocs.Conversion .NET
 
 ## Introduction

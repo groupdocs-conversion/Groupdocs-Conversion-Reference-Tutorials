@@ -4,8 +4,8 @@
 "title": "DJVU naar TXT converteren met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/text-file-processing/convert-djvu-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DJVU-bestanden converteren naar TXT-formaat met GroupDocs.Conversion voor .NET
 
 ## Invoering

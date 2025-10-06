@@ -4,8 +4,8 @@
 "title": "Masterbestandsconversie in Java&#58; een uitgebreide handleiding voor het gebruik van GroupDocs.Conversion"
 "url": "/nl/java/document-operations/java-groupdocs-conversion-file-handling/"
 "weight": 1
+type: docs
 ---
-
 # Bestandsconversie in Java onder de knie krijgen: een uitgebreide handleiding voor het gebruik van GroupDocs.Conversion
 
 ## Invoering

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion ile Java Dosya Önbelleğe Alma&#58; Verimli Belge Dönüştürme İçin Kapsamlı Bir Kılavuz"
 "url": "/tr/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Verimli Belge Dönüştürme için GroupDocs.Conversion ile Java Dosya Önbelleğe Alma Nasıl Uygulanır
 
 ## giriiş

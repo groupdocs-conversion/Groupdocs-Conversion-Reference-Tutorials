@@ -5,8 +5,8 @@
 "title": "แปลงเอกสาร Word DOC เป็น PDF"
 "url": "/th/net/file-conversion-to-pdf/convert-doc-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # แปลงเอกสาร Word DOC เป็น PDF
 
 ## การแนะนำ

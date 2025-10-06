@@ -3,8 +3,8 @@
 "title": "Samouczki dotyczące konwersji formatów wiadomości e-mail dla GroupDocs.Conversion Java"
 "url": "/pl/java/email-formats/"
 "weight": 8
+type: docs
 ---
-
 # Samouczki dotyczące konwersji formatów wiadomości e-mail dla GroupDocs.Conversion Java
 
 Opanuj konwersję plików e-mail dzięki naszym szczegółowym samouczkom GroupDocs.Conversion dla programistów Java. Te przewodniki krok po kroku pokazują, jak konwertować wiadomości e-mail do formatów dokumentów, wyodrębniać załączniki e-mail, zachowywać metadane e-mail, obsługiwać nagłówki i treści e-mail oraz wdrażać operacje konwersji wsadowej e-mail. Każdy samouczek zawiera praktyczne przykłady kodu Java do pracy z archiwami i wiadomościami e-mail, pomagając w tworzeniu aplikacji, które mogą skutecznie przetwarzać i przekształcać komunikację e-mail do różnych formatów dokumentów.

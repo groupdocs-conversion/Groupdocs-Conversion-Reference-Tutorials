@@ -8,10 +8,8 @@ keywords:
 - convert POTX to PSD
 - GroupDocs.Conversion .NET
 - POTX file conversion
-
+type: docs
 ---
-
-
 # Convert POTX to PSD Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

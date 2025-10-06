@@ -5,8 +5,8 @@
 "title": "Μετατροπή MSG σε PDF"
 "url": "/el/net/document-conversion/convert-msg-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # Μετατροπή MSG σε PDF
 
 ## Εισαγωγή

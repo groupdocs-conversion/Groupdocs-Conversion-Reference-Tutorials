@@ -4,8 +4,8 @@
 "title": "Converteer spreadsheets naar PDF's met GroupDocs.Conversion voor Java&#58; een uitgebreide handleiding"
 "url": "/nl/java/spreadsheet-formats/convert-spreadsheets-to-pdfs-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Spreadsheets naar PDF's converteren met GroupDocs.Conversion voor Java: een uitgebreide handleiding
 
 ## Invoering

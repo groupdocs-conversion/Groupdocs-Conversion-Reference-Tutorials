@@ -4,8 +4,8 @@
 "title": "كيفية تحويل ملفات LOG إلى DOCX باستخدام GroupDocs.Conversion لـ .NET - دليل خطوة بخطوة"
 "url": "/ar/net/word-processing-conversion/convert-log-files-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ملفات LOG إلى DOCX باستخدام GroupDocs.Conversion لـ .NET
 
 في عصرنا الرقمي، يُعدّ تحويل صيغ الملفات المختلفة بكفاءة أمرًا بالغ الأهمية للشركات والمطورين على حد سواء. ومن التحديات الشائعة تحويل ملفات LOG إلى صيغ أسهل في الوصول إليها أو قابلة للمشاركة مثل DOCX. سيرشدك هذا الدليل خطوة بخطوة خلال استخدام **GroupDocs.Conversion لـ .NET** لتحقيق هذا التحويل بسلاسة.

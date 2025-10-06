@@ -8,10 +8,8 @@ keywords:
 - convert PPSX to CSV
 - GroupDocs.Conversion .NET
 - PowerPoint to CSV conversion
-
+type: docs
 ---
-
-
 # Efficient Conversion of PPSX to CSV Using GroupDocs.Conversion in .NET
 ## Introduction
 Are you looking to transform your PowerPoint presentations into a more manageable and analyzable data format? Converting PPSX files to CSV can significantly enhance data processing capabilities. This tutorial guides you through using GroupDocs.Conversion for .NET, ensuring an efficient conversion process.

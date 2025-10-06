@@ -8,10 +8,8 @@ keywords:
 - convert IGES to PowerPoint
 - GroupDocs.Conversion for .NET
 - IGS file conversion
-
+type: docs
 ---
-
-
 # Convert IGES to PowerPoint with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

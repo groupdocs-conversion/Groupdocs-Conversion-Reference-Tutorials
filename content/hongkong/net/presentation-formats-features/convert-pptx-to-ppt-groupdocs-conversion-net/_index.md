@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 PPTX 無縫轉換為 PPT"
 "url": "/zh-hant/net/presentation-formats-features/convert-pptx-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 PPTX 無縫轉換為 PPT
 ## 介紹
 您是否希望將 PowerPoint 簡報從現代 PPTX 格式無縫轉換回經典 PPT 格式？無論是為了相容於舊系統，還是僅僅為了滿足特定客戶的需求，轉換簡報格式都可能是一項挑戰。使用 GroupDocs.Conversion for .NET，這個過程變得簡單有效率。在本教學中，我們將指導您使用 GroupDocs.Conversion 輕鬆地將 PPTX 檔案轉換為 PPT 格式。

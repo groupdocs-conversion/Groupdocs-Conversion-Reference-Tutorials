@@ -5,8 +5,8 @@
 "title": "DJVU-documenten naar PDF converteren"
 "url": "/nl/net/file-conversion-to-pdf/convert-djvu-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # DJVU-documenten naar PDF converteren
 
 ## Invoering

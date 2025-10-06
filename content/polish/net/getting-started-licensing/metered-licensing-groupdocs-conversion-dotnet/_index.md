@@ -4,8 +4,8 @@
 "title": "Wdrażanie licencjonowania licznikowego z GroupDocs.Conversion dla .NET&#58; Kompleksowy przewodnik"
 "url": "/pl/net/getting-started-licensing/metered-licensing-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Wdrażanie licencjonowania licznikowego z GroupDocs.Conversion dla .NET
 
 ## Wstęp

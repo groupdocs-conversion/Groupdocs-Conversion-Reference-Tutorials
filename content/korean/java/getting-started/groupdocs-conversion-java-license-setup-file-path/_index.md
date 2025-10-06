@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Java 라이선스 설정 단계별 가이드"
 "url": "/ko/java/getting-started/groupdocs-conversion-java-license-setup-file-path/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Java 라이선스 설정: 포괄적인 튜토리얼
 
 Java용 GroupDocs.Conversion 라이브러리 설정 및 사용에 대한 단계별 가이드에 오신 것을 환영합니다. 이 튜토리얼은 특히 파일 경로를 통해 라이선스 설정을 구현하는 방법에 중점을 두고, 이 강력한 문서 변환 도구의 잠재력을 최대한 활용할 수 있도록 도와드립니다.

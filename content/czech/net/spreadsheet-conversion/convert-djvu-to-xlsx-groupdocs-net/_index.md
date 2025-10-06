@@ -4,8 +4,8 @@
 "title": "Převod DJVU do XLSX pomocí GroupDocs.Conversion pro .NET – Průvodce vývojáře"
 "url": "/cs/net/spreadsheet-conversion/convert-djvu-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod DJVU do XLSX pomocí GroupDocs.Conversion pro .NET: Průvodce pro vývojáře
 
 ## Zavedení

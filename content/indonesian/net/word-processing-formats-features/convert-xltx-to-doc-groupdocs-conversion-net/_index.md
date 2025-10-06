@@ -4,8 +4,8 @@
 "title": "Konversi Template Excel (.xltx) ke Dokumen Word (DOC) Menggunakan GroupDocs.Conversion for .NET"
 "url": "/id/net/word-processing-formats-features/convert-xltx-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi Template Excel (.xltx) ke Dokumen Word (DOC) Menggunakan GroupDocs.Conversion for .NET
 ## Perkenalan
 Selamat datang di panduan lengkap tentang mengonversi file Templat Excel (.xltx) ke dalam format Dokumen Word (DOC) menggunakan pustaka GroupDocs.Conversion for .NET yang canggih. Solusi ini penting dalam alur kerja manajemen dokumen, yang memungkinkan integrasi templat kaya data dengan dokumen berbasis teks secara lancar.

@@ -8,10 +8,8 @@ keywords:
 - VTX to PNG conversion
 - GroupDocs.Conversion for .NET
 - document conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert VTX to PNG Using GroupDocs.Conversion for .NET
 
 ## Introduction

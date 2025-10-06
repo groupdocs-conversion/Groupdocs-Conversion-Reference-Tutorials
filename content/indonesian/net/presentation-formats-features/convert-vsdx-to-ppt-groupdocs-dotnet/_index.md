@@ -4,8 +4,8 @@
 "title": "Konversi VSDX ke PowerPoint Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/presentation-formats-features/convert-vsdx-to-ppt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konversi VSDX ke PowerPoint Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

@@ -8,10 +8,8 @@ keywords:
 - convert FODP to PPTX
 - GroupDocs.Conversion for .NET
 - file conversion .NET
-
+type: docs
 ---
-
-
 # How to Convert FODP to PPTX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

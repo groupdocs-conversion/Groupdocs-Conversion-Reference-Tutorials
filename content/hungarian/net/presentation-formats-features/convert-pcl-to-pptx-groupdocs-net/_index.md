@@ -4,8 +4,8 @@
 "title": "PCL-fájlok egyszerű konvertálása PowerPoint-fájlokká (PPTX) a .NET GroupDocs.Conversion segítségével"
 "url": "/hu/net/presentation-formats-features/convert-pcl-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # PCL fájlok konvertálása PowerPoint prezentációkká a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

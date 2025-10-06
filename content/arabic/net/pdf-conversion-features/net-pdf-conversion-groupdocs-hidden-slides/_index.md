@@ -4,8 +4,8 @@
 "title": "إتقان تحويل ملفات PDF بتنسيق .NET مع الشرائح المخفية باستخدام GroupDocs.Conversion"
 "url": "/ar/net/pdf-conversion-features/net-pdf-conversion-groupdocs-hidden-slides/"
 "weight": 1
+type: docs
 ---
-
 # إتقان تحويل ملفات PDF بتنسيق .NET مع الشرائح المخفية باستخدام GroupDocs.Conversion
 
 ## مقدمة

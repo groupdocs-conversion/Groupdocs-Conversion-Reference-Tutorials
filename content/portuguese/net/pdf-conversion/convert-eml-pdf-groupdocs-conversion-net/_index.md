@@ -4,8 +4,8 @@
 "title": "Converta EML para PDF com GroupDocs.Conversion .NET - Um guia completo"
 "url": "/pt/net/pdf-conversion/convert-eml-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converter EML para PDF com GroupDocs.Conversion .NET: um guia passo a passo
 
 ## Introdução

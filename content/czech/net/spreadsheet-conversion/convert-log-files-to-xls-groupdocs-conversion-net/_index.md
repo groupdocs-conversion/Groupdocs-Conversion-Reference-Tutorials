@@ -4,8 +4,8 @@
 "title": "Převod souborů LOG do formátu XLS pomocí nástroje GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/spreadsheet-conversion/convert-log-files-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů LOG do formátu XLS pomocí nástroje GroupDocs.Conversion pro .NET
 
 ## Zavedení

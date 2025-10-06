@@ -8,10 +8,8 @@ keywords:
 - convert DOCX to PPT
 - password-protected documents conversion
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # Convert Password-Protected DOCX to PPT Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Cómo convertir archivos DOCX a PPTX con GroupDocs.Conversion para .NET"
 "url": "/es/net/presentation-conversion/convert-docx-to-pptx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir archivos DOCX a PPTX con GroupDocs.Conversion para .NET
 
 ## Introducción

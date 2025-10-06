@@ -4,8 +4,8 @@
 "title": "Converta modelos do PowerPoint para HTML usando o GroupDocs.Conversion para .NET - Um guia passo a passo"
 "url": "/pt/net/html-conversion/convert-pot-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converter modelos do PowerPoint em HTML usando o GroupDocs.Conversion para .NET: um guia passo a passo
 
 ## Introdução

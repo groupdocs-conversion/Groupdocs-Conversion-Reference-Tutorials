@@ -4,8 +4,8 @@
 "title": "Bezproblémový převod souborů EML do PSD pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/image-formats-features/convert-eml-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů EML do formátu PSD pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET を使用して DWT を TXT に変換し、効率的なテキストファイル処理を実現する"
 "url": "/ja/net/text-file-processing/convert-dwt-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET を使用して DWT を TXT に変換し、効率的なテキストファイル処理を実現する
 
 ## 導入

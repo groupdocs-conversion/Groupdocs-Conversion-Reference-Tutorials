@@ -4,8 +4,8 @@
 "title": "Skrýt komentáře při převodu z Wordu do PDF pomocí GroupDocs.Conversion pro Javu"
 "url": "/cs/java/pdf-conversion/hide-comments-word-pdf-conversion-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Skrýt komentáře při převodu z Wordu do PDF pomocí GroupDocs.Conversion pro Javu
 
 dnešním rychle se měnícím digitálním světě je převod dokumentů Wordu do PDF pro mnoho profesionálů rutinním úkolem. Pokud však tyto dokumenty obsahují citlivé komentáře nebo sledované změny, můžete dát přednost čistým PDF bez jakýchkoli anotací. Tento tutoriál vás provede používáním GroupDocs.Conversion pro Javu, který vám umožní bezproblémově skrýt komentáře během převodu.

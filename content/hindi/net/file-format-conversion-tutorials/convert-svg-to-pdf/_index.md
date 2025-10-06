@@ -5,8 +5,8 @@
 "title": "SVG को PDF में बदलें"
 "url": "/hi/net/file-format-conversion-tutorials/convert-svg-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # SVG को PDF में बदलें
 
 ## परिचय

@@ -5,8 +5,8 @@
 "title": "Converteer ODG naar PDF"
 "url": "/nl/net/document-conversion/convert-odg-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # Converteer ODG naar PDF
 
 ## Invoering

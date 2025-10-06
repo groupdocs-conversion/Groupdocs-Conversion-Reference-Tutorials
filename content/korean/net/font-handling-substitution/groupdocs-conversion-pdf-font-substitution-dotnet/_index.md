@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion을 사용한 .NET에서의 PDF 글꼴 대체 마스터하기&#58; 종합 가이드"
 "url": "/ko/net/font-handling-substitution/groupdocs-conversion-pdf-font-substitution-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용하여 .NET에서 PDF 글꼴 대체 마스터하기
 
 문서 변환 시 일관된 타이포그래피를 유지하는 것이 매우 중요합니다. 이 종합 가이드에서는 GroupDocs.Conversion for .NET을 사용하여 문서를 PDF로 변환할 때 글꼴 대체를 효과적으로 관리하는 방법을 보여줍니다.

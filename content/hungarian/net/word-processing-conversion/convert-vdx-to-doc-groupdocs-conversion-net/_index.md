@@ -4,8 +4,8 @@
 "title": "VDX konvertálása DOC-ba a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/word-processing-conversion/convert-vdx-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VDX konvertálása DOC-ba a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

@@ -8,10 +8,8 @@ keywords:
 - Convert OTT to XLS with GroupDocs
 - GroupDocs.Conversion for .NET
 - .NET spreadsheet conversion
-
+type: docs
 ---
-
-
 # Convert OTT to XLS with GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

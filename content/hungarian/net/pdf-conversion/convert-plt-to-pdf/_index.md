@@ -5,8 +5,8 @@
 "title": "PLT konvertálása PDF-be"
 "url": "/hu/net/pdf-conversion/convert-plt-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # PLT konvertálása PDF-be
 
 ## Bevezetés

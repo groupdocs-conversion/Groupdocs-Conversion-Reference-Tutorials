@@ -4,8 +4,8 @@
 "title": "Konvertera VSDM till PPTX med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/presentation-formats-features/convert-vsmd-to-pptx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera VSDM till PPTX med GroupDocs.Conversion för .NET: En omfattande guide
 
 ## Introduktion

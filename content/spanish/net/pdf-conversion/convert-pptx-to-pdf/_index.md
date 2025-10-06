@@ -5,8 +5,8 @@
 "title": "Convertir PPTX a PDF"
 "url": "/es/net/pdf-conversion/convert-pptx-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # Convertir PPTX a PDF
 
 ## Introducción

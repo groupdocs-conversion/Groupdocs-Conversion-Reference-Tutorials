@@ -8,10 +8,8 @@ keywords:
 - convert XLTM to PPTX
 - GroupDocs.Conversion for .NET
 - document conversion tutorial
-
+type: docs
 ---
-
-
 # How to Convert XLTM Files to PPTX Using GroupDocs.Conversion for .NET
 
 ## Introduction

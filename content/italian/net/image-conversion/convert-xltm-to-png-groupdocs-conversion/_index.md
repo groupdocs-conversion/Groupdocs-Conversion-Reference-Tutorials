@@ -4,8 +4,8 @@
 "title": "Convertire XLTM in PNG in .NET&#58; una guida completa con GroupDocs.Conversion"
 "url": "/it/net/image-conversion/convert-xltm-to-png-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Convertire XLTM in PNG in .NET: una guida completa con GroupDocs.Conversion
 
 ## Introduzione

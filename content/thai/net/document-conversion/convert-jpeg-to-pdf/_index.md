@@ -5,8 +5,8 @@
 "title": "แปลง JPEG เป็น PDF"
 "url": "/th/net/document-conversion/convert-jpeg-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # แปลง JPEG เป็น PDF
 
 ## การแนะนำ

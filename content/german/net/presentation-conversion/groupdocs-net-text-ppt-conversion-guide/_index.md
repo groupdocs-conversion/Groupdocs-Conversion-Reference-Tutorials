@@ -4,8 +4,8 @@
 "title": "Meistern Sie die Text-zu-Präsentations-Konvertierung mit GroupDocs in .NET – Ein umfassender Leitfaden"
 "url": "/de/net/presentation-conversion/groupdocs-net-text-ppt-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Meistern Sie die Text-zu-Präsentations-Konvertierung mit GroupDocs in .NET
 
 ## Einführung

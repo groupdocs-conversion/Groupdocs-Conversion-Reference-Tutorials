@@ -4,8 +4,8 @@
 "title": "DOCX konvertálása PDF-be Java-ban a GroupDocs.Conversion használatával – lépésről lépésre útmutató"
 "url": "/hu/java/pdf-conversion/convert-docx-pdf-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # DOCX fájlok PDF-be konvertálása Java-ban a GroupDocs.Conversion segítségével
 
 ## Bevezetés

@@ -8,10 +8,8 @@ keywords:
 - convert DNG to HTML
 - GroupDocs.Conversion .NET
 - DNG file conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert DNG to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

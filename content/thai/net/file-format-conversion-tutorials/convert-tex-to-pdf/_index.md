@@ -5,8 +5,8 @@
 "title": "แปลง TEX เป็น PDF"
 "url": "/th/net/file-format-conversion-tutorials/convert-tex-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # แปลง TEX เป็น PDF
 
 ## การแนะนำ

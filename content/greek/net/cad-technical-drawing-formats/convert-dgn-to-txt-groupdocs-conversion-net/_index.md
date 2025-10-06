@@ -4,8 +4,8 @@
 "title": "Πώς να μετατρέψετε αρχεία DGN σε TXT χρησιμοποιώντας το GroupDocs.Conversion .NET για επαγγελματίες CAD"
 "url": "/el/net/cad-technical-drawing-formats/convert-dgn-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε αρχεία DGN σε TXT χρησιμοποιώντας το GroupDocs.Conversion .NET
 
 ## Εισαγωγή

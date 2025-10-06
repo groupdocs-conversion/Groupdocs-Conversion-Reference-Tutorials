@@ -4,8 +4,8 @@
 "title": "Parola Korumalı Word Belgelerini GroupDocs.Conversion for Java Kullanarak PDF'lere Dönüştürün"
 "url": "/tr/java/security-protection/convert-word-doc-to-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Java'da GroupDocs ile Parola Korumalı Word Belgelerini PDF'ye Dönüştürün
 Günümüzün dijital çağında, özellikle parola korumalı dosyalarda saklanan hassas bilgilerle uğraşırken güvenli belge işleme esastır. Bu kılavuz, bu tür belgeleri güvenlik özelliklerini koruyarak evrensel olarak erişilebilir PDF biçimlerine nasıl dönüştüreceğinizi gösterecektir. **GroupDocs.Conversion for Java**.
 

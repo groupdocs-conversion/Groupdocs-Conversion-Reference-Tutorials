@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 MPP에서 PSD로 변환하는 마스터 방법"
 "url": "/ko/net/image-formats-features/conversion-mpp-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 MPP에서 PSD로 변환하는 마스터 방법
 
 ## 소개

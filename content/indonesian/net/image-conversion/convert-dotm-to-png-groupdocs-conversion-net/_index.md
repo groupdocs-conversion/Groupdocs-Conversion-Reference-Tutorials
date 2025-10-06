@@ -4,8 +4,8 @@
 "title": "Konversi Template Word (.dotm) ke PNG Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/image-conversion/convert-dotm-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi Template Word ke Gambar PNG Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

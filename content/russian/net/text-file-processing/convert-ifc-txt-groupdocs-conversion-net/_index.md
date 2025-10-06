@@ -4,8 +4,8 @@
 "title": "Конвертируйте IFC в TXT с помощью GroupDocs.Conversion для .NET&#58; Пошаговое руководство"
 "url": "/ru/net/text-file-processing/convert-ifc-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте файлы IFC в TXT с помощью GroupDocs.Conversion для .NET
 
 ## Введение

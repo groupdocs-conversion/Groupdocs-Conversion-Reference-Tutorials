@@ -4,8 +4,8 @@
 "title": "VSDX konvertálása PowerPoint-ba a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/presentation-formats-features/convert-vsdx-to-ppt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # VSDX konvertálása PowerPoint-ba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

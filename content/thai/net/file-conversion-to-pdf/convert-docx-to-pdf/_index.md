@@ -5,8 +5,8 @@
 "title": "แปลงเอกสาร Word DOCX เป็น PDF"
 "url": "/th/net/file-conversion-to-pdf/convert-docx-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # แปลงเอกสาร Word DOCX เป็น PDF
 
 ## การแนะนำ

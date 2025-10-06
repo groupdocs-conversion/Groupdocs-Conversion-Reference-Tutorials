@@ -5,8 +5,8 @@
 "title": "แปลง TXT เป็น PDF"
 "url": "/th/net/file-format-conversion-tutorials/convert-txt-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # แปลง TXT เป็น PDF
 
 ## การแนะนำ

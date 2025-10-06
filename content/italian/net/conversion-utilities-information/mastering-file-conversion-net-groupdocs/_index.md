@@ -4,8 +4,8 @@
 "title": "Padroneggiare la conversione dei file in .NET utilizzando GroupDocs.Conversion - Guida per sviluppatori"
 "url": "/it/net/conversion-utilities-information/mastering-file-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Padroneggiare la conversione dei file in .NET con GroupDocs.Conversion: la guida definitiva per sviluppatori
 
 ## Introduzione

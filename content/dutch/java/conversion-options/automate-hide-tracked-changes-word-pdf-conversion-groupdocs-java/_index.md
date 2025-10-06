@@ -4,8 +4,8 @@
 "title": "Automatisch verbergen van bijgehouden wijzigingen bij conversie van Word naar PDF met GroupDocs.Conversion voor Java"
 "url": "/nl/java/conversion-options/automate-hide-tracked-changes-word-pdf-conversion-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Automatisch bijgehouden wijzigingen verbergen bij conversie van Word naar PDF met GroupDocs.Conversion voor Java
 
 ## Invoering

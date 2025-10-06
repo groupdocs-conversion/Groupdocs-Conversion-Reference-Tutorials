@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak LaTeX'i HTML'e Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/html-conversion/convert-tex-to-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET ile LaTeX'i HTML'ye Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

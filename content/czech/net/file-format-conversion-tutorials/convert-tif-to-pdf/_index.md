@@ -5,8 +5,8 @@
 "title": "Převod TIF do PDF"
 "url": "/cs/net/file-format-conversion-tutorials/convert-tif-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Převod TIF do PDF
 
 ## Zavedení

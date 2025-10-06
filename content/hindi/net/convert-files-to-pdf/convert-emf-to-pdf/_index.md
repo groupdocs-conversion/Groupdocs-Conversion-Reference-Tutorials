@@ -5,8 +5,8 @@
 "title": "EMF विंडोज मेटाफाइल्स को पीडीएफ में बदलें"
 "url": "/hi/net/convert-files-to-pdf/convert-emf-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # EMF विंडोज मेटाफाइल्स को पीडीएफ में बदलें
 
 ## परिचय

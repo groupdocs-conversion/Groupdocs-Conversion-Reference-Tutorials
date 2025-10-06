@@ -4,8 +4,8 @@
 "title": "PDF naar Word converteren in Java met verwijdering van ingesloten bestanden&#58; een stapsgewijze handleiding met GroupDocs.Conversion"
 "url": "/nl/java/pdf-conversion/convert-pdf-to-word-java-embedded-file-removal/"
 "weight": 1
+type: docs
 ---
-
 # PDF naar Word converteren in Java met verwijdering van ingesloten bestanden: een stapsgewijze handleiding met GroupDocs.Conversion
 
 ## Invoering

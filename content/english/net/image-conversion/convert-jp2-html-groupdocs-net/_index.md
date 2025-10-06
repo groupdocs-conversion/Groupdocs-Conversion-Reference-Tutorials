@@ -8,10 +8,8 @@ keywords:
 - convert jp2 to html
 - groupdocs conversion for net
 - jp2 file conversion c#
-
+type: docs
 ---
-
-
 # Convert JP2 to HTML Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

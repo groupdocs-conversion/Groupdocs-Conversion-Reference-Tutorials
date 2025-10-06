@@ -4,8 +4,8 @@
 "title": "VTX konvertálása TXT-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/text-markup-conversion/convert-vtx-to-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # VTX konvertálása TXT-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató
 
 ## Bevezetés

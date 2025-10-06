@@ -4,8 +4,8 @@
 "title": "GroupDocs'u Kullanarak .NET'te ICO'yu PNG'ye Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/image-conversion/convert-ico-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs Kullanarak .NET'te ICO'yu PNG'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

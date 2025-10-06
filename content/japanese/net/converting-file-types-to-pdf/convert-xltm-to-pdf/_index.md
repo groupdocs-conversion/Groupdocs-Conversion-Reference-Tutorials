@@ -5,8 +5,8 @@
 "title": "XLTMをPDFに変換する"
 "url": "/ja/net/converting-file-types-to-pdf/convert-xltm-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # XLTMをPDFに変換する
 
 ## 導入

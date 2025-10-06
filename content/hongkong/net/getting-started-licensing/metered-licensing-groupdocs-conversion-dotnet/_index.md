@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 實施計量許可－綜合指南"
 "url": "/zh-hant/net/getting-started-licensing/metered-licensing-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 實作計量許可
 
 ## 介紹

@@ -8,10 +8,8 @@ keywords:
 - ODP to SVG conversion
 - GroupDocs.Conversion for .NET
 - presentation file conversion
-
+type: docs
 ---
-
-
 # Convert ODP to SVG Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

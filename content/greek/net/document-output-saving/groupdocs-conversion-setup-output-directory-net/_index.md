@@ -4,8 +4,8 @@
 "title": "Πώς να ρυθμίσετε μια διαδρομή καταλόγου εξόδου με το GroupDocs.Conversion για .NET"
 "url": "/el/net/document-output-saving/groupdocs-conversion-setup-output-directory-net/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να ρυθμίσετε μια διαδρομή καταλόγου εξόδου χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

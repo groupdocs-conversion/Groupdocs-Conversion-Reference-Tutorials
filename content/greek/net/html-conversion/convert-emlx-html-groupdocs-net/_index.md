@@ -4,8 +4,8 @@
 "title": "Master Μετατροπή μηνυμάτων Apple Mail (.emlx) σε HTML χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/html-conversion/convert-emlx-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Master Μετατροπή μηνυμάτων Apple Mail (.emlx) σε HTML χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

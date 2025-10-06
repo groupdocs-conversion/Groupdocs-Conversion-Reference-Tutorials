@@ -4,8 +4,8 @@
 "title": "Hur man konverterar Excel-filer med dolda ark till PDF-filer med hjälp av Java och GroupDocs.Conversion"
 "url": "/sv/java/pdf-conversion/convert-excel-hidden-sheets-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar Excel-filer med dolda ark till PDF-filer med hjälp av Java och GroupDocs.Conversion
 
 ## Introduktion

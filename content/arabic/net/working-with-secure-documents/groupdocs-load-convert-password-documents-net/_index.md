@@ -4,8 +4,8 @@
 "title": "تحميل وتحويل المستندات المحمية بكلمة مرور باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/working-with-secure-documents/groupdocs-load-convert-password-documents-net/"
 "weight": 1
+type: docs
 ---
-
 # تحميل وتحويل المستندات المحمية بكلمة مرور باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

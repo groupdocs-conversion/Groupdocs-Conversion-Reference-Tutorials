@@ -5,8 +5,8 @@
 "title": "将 MHTML 转换为 PDF"
 "url": "/zh/net/document-conversion/convert-mhtml-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # 将 MHTML 转换为 PDF
 
 ## 介绍

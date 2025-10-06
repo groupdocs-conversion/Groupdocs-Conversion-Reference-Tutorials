@@ -4,8 +4,8 @@
 "title": "Converteer VSTM eenvoudig naar PPTX met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/presentation-formats-features/convert-vstm-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer VSTM naar PPTX met GroupDocs.Conversion voor .NET
 
 ## Invoering

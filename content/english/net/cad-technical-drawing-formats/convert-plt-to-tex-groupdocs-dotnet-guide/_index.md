@@ -8,10 +8,8 @@ keywords:
 - Convert PLT to TEX
 - GroupDocs.Conversion for .NET
 - File conversion in .NET
-
+type: docs
 ---
-
-
 # Convert PLT to TEX with GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

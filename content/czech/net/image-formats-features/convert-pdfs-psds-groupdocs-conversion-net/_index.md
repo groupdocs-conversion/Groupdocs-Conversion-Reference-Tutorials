@@ -4,8 +4,8 @@
 "title": "Efektivní převod PDF do PSD pomocí knihovny GroupDocs.Conversion .NET"
 "url": "/cs/net/image-formats-features/convert-pdfs-psds-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektivní převod PDF do PSD s GroupDocs.Conversion .NET
 
 ## Zavedení

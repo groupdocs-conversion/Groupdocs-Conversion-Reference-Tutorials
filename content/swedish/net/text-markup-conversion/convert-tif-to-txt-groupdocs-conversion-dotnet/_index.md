@@ -4,8 +4,8 @@
 "title": "Steg-för-steg-guide Konvertera TIF till TXT med GroupDocs.Conversion för .NET"
 "url": "/sv/net/text-markup-conversion/convert-tif-to-txt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Steg-för-steg-guide: Konvertera TIF till TXT med GroupDocs.Conversion för .NET
 
 ## Introduktion

@@ -4,8 +4,8 @@
 "title": "Opanuj konwersję wiadomości e-mail .NET za pomocą GroupDocs&#58; Przewodnik po globalizacji dla programistów"
 "url": "/pl/net/email-formats-features/master-net-email-conversion-groupdocs-globalization-guide/"
 "weight": 1
+type: docs
 ---
-
 # Opanowanie konwersji wiadomości e-mail .NET za pomocą GroupDocs: kompleksowy przewodnik po globalizacji
 
 ## Wstęp

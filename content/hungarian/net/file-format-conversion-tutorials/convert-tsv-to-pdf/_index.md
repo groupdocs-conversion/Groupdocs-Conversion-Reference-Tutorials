@@ -5,8 +5,8 @@
 "title": "TSV konvertálása PDF-be"
 "url": "/hu/net/file-format-conversion-tutorials/convert-tsv-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # TSV konvertálása PDF-be
 
 ## Bevezetés

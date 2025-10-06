@@ -5,8 +5,8 @@
 "title": "MPT naar PDF converteren"
 "url": "/nl/net/document-conversion/convert-mpt-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # MPT naar PDF converteren
 
 ## Invoering

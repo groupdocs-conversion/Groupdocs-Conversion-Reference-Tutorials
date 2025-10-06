@@ -4,8 +4,8 @@
 "title": "ファイル変換プロジェクトのための GroupDocs.Conversion Java での定数管理の習得"
 "url": "/ja/java/conversion-options/mastering-constants-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Java による定数管理の習得
 
 ## 導入

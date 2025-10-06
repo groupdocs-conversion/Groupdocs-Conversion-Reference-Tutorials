@@ -4,8 +4,8 @@
 "title": "Konvertera EMF till PPTX med GroupDocs.Conversion för .NET - En steg-för-steg-guide"
 "url": "/sv/net/presentation-conversion/convert-emf-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera EMF till PPTX med GroupDocs.Conversion för .NET: En steg-för-steg-guide
 
 ## Introduktion

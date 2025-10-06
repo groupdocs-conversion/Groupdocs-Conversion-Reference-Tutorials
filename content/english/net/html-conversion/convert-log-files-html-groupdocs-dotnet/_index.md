@@ -8,10 +8,8 @@ keywords:
 - convert LOG to HTML
 - GroupDocs.Conversion for .NET
 - HTML conversion of logs
-
+type: docs
 ---
-
-
 # Comprehensive Guide: Convert LOG Files to HTML using GroupDocs.Conversion for .NET
 
 ## Introduction

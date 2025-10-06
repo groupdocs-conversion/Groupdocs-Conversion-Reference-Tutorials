@@ -4,8 +4,8 @@
 "title": "Chuyển đổi RTF sang PowerPoint bằng GroupDocs.Conversion .NET - Hướng dẫn dễ dàng để chuyển đổi bản trình bày"
 "url": "/vi/net/presentation-conversion/convert-rtf-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi RTF sang PowerPoint bằng GroupDocs.Conversion .NET
 
 ## Giới thiệu

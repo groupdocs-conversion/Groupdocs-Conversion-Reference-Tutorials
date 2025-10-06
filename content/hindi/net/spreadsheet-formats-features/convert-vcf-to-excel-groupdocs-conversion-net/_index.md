@@ -4,8 +4,8 @@
 "title": "VCF फ़ाइलों को Excel में कैसे परिवर्तित करें .NET | चरण-दर-चरण मार्गदर्शिका"
 "url": "/hi/net/spreadsheet-formats-features/convert-vcf-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VCF फ़ाइलों को Excel में कैसे परिवर्तित करें .NET | चरण-दर-चरण मार्गदर्शिका
 
 ## परिचय

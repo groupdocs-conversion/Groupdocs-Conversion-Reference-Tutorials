@@ -4,8 +4,8 @@
 "title": "Převod heslem chráněného DOCX do PPT pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/working-with-secure-documents/convert-docx-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod heslem chráněného DOCX do PPT pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

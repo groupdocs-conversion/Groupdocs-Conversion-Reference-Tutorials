@@ -4,8 +4,8 @@
 "title": "DWT'yi XLS'ye Verimli Şekilde Dönüştürme - .NET için GroupDocs.Conversion Kullanarak Kapsamlı Bir Kılavuz"
 "url": "/tr/net/spreadsheet-conversion/groupdocs-conversion-net-dwt-to-xls/"
 "weight": 1
+type: docs
 ---
-
 # DWT'yi XLS'ye Verimli Şekilde Dönüştürme: .NET için GroupDocs.Conversion Kullanarak Kapsamlı Bir Kılavuz
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "Converteer JPG naar TXT met GroupDocs.Conversion voor .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/text-markup-conversion/convert-jpg-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # JPG naar TXT converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

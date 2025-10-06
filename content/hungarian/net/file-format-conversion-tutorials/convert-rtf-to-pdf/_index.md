@@ -5,8 +5,8 @@
 "title": "RTF konvertálása PDF-be"
 "url": "/hu/net/file-format-conversion-tutorials/convert-rtf-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # RTF konvertálása PDF-be
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Převod POT do XLSX pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/spreadsheet-formats-features/convert-pot-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubor POT do souboru XLSX pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

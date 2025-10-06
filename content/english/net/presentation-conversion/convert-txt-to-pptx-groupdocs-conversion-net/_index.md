@@ -8,10 +8,8 @@ keywords:
 - TXT to PPTX conversion
 - GroupDocs.Conversion .NET
 - text document to PowerPoint
-
+type: docs
 ---
-
-
 # Convert TXT Files to PPTX Effortlessly with GroupDocs.Conversion .NET
 
 ## Introduction

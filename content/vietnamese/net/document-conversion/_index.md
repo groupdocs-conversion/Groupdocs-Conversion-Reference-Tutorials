@@ -5,8 +5,8 @@
 "title": "Chuyển đổi tài liệu"
 "url": "/vi/net/document-conversion/"
 "weight": 23
+type: docs
 ---
-
 # Chuyển đổi tài liệu
 
 ## Giới thiệu

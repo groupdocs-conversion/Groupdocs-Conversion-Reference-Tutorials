@@ -5,8 +5,8 @@
 "title": "تحويل JPEG إلى PDF"
 "url": "/ar/net/document-conversion/convert-jpeg-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # تحويل JPEG إلى PDF
 
 ## مقدمة

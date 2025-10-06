@@ -5,8 +5,8 @@
 "title": "Конвертировать расширенные метафайлы EMZ в PDF"
 "url": "/ru/net/convert-files-to-pdf/convert-emz-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # Конвертировать расширенные метафайлы EMZ в PDF
 
 ## Введение

@@ -5,8 +5,8 @@
 "title": "Chuyển đổi STL sang PDF"
 "url": "/vi/net/file-format-conversion-tutorials/convert-stl-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # Chuyển đổi STL sang PDF
 
 ## Giới thiệu

@@ -5,8 +5,8 @@
 "title": "EML-e-mailberichten naar PDF converteren"
 "url": "/nl/net/convert-files-to-pdf/convert-eml-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # EML-e-mailberichten naar PDF converteren
 
 ## Invoering

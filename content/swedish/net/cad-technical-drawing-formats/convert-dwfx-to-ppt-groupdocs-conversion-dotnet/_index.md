@@ -4,8 +4,8 @@
 "title": "Konvertera DWFX till PowerPoint med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/cad-technical-drawing-formats/convert-dwfx-to-ppt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera DWFX till PowerPoint-presentationer med GroupDocs.Conversion för .NET
 
 ## Introduktion

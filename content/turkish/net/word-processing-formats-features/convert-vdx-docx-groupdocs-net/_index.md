@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET ile VDX'i DOCX'e Verimli Şekilde Dönüştürün&#58; Bir Geliştiricinin Kılavuzu"
 "url": "/tr/net/word-processing-formats-features/convert-vdx-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET ile VDX'i DOCX'e Verimli Şekilde Dönüştürün: Geliştiricinin Kılavuzu
 
 ## giriiş

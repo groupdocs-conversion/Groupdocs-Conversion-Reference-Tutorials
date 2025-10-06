@@ -4,8 +4,8 @@
 "title": "Jak načíst a převést soubory CF2 pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/cad-technical-drawing-formats/load-cf2-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak načíst a převést soubory CF2 pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

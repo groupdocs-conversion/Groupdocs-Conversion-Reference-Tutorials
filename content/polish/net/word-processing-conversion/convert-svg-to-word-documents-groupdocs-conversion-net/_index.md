@@ -4,8 +4,8 @@
 "title": "Efektywna konwersja dokumentów SVG do Word przy użyciu GroupDocs.Conversion dla .NET"
 "url": "/pl/net/word-processing-conversion/convert-svg-to-word-documents-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektywna konwersja dokumentów SVG do Word przy użyciu GroupDocs.Conversion dla .NET
 
 ## Wstęp

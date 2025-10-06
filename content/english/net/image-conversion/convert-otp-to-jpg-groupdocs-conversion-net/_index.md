@@ -8,10 +8,8 @@ keywords:
 - Convert OTP to JPG
 - GroupDocs.Conversion .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Convert OTP Files to JPG with GroupDocs.Conversion for .NET
 
 ## Introduction

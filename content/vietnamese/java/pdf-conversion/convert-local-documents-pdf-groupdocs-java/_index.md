@@ -4,8 +4,8 @@
 "title": "Chuyển đổi PDF hiệu quả trong Java&#58; Sử dụng Thư viện GroupDocs.Conversion"
 "url": "/vi/java/pdf-conversion/convert-local-documents-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi PDF hiệu quả trong Java với GroupDocs.Conversion
 
 ## Giới thiệu

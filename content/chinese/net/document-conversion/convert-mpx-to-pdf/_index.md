@@ -5,8 +5,8 @@
 "title": "将 MPX 转换为 PDF"
 "url": "/zh/net/document-conversion/convert-mpx-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # 将 MPX 转换为 PDF
 
 ## 介绍

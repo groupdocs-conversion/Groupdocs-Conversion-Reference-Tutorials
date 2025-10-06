@@ -3,8 +3,8 @@
 "title": "Tutoriales de funciones e información de la utilidad de conversión para GroupDocs.Conversion .NET"
 "url": "/es/net/conversion-utilities-information/"
 "weight": 25
+type: docs
 ---
-
 # Tutoriales de funciones e información de la utilidad de conversión para GroupDocs.Conversion .NET
 
 Explore las útiles funciones de las utilidades con nuestros completos tutoriales de GroupDocs.Conversion para desarrolladores .NET. Estas guías paso a paso muestran cómo recuperar información del documento fuente, determinar todas las conversiones posibles que admite la biblioteca, descubrir capacidades de conversión específicas para cada formato, obtener opciones de conversión para los formatos de destino deseados, recuperar opciones de carga predeterminadas para los documentos fuente, inspeccionar las propiedades del documento y evaluar la viabilidad de la conversión. Cada tutorial incluye ejemplos prácticos de código C# para usar estas funciones de forma eficiente, lo que le ayudará a crear aplicaciones más inteligentes que le permitan tomar decisiones informadas sobre las opciones y capacidades de procesamiento de documentos.

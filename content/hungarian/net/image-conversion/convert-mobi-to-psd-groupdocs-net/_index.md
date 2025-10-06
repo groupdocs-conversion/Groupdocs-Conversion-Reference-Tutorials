@@ -4,8 +4,8 @@
 "title": "MOBI konvertálása PSD-vé a GroupDocs.Conversion for .NET segítségével | Képkonverziós útmutató"
 "url": "/hu/net/image-conversion/convert-mobi-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató: MOBI konvertálása PSD-vé a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

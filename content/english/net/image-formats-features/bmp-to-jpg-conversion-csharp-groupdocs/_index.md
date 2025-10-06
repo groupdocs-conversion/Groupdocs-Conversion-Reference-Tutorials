@@ -8,10 +8,8 @@ keywords:
 - BMP to JPG Conversion in C#
 - GroupDocs.Conversion for .NET
 - Image Format Conversion
-
+type: docs
 ---
-
-
 # Convert BMP to JPG in C# using GroupDocs.Conversion for .NET: A Complete Guide
 
 ## Introduction

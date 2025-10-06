@@ -8,10 +8,8 @@ keywords:
 - convert OST to CSV
 - GroupDocs.Conversion for .NET
 - OST file conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert OST to CSV Using GroupDocs.Conversion for .NET
 
 ## Introduction

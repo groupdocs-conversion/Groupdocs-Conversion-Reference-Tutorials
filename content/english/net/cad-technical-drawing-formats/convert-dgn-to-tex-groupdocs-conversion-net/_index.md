@@ -8,10 +8,8 @@ keywords:
 - Convert DGN to TEX
 - GroupDocs.Conversion for .NET
 - CAD drawing conversion
-
+type: docs
 ---
-
-
 # How to Efficiently Convert DGN Files to TEX Format Using GroupDocs.Conversion for .NET
 
 ## Introduction

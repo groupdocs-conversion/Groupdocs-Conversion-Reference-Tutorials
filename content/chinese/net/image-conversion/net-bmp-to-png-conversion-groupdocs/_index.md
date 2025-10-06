@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 库在 .NET 中高效地将 BMP 转换为 PNG"
 "url": "/zh/net/image-conversion/net-bmp-to-png-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs 在 .NET 中高效地将 BMP 转换为 PNG
 
 ## 介绍

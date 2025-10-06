@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 DOTM을 DOC로 변환하는 포괄적인 가이드"
 "url": "/ko/net/word-processing-formats-features/convert-dotm-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 DOTM을 DOC로 변환하는 방법
 
 Microsoft Word 매크로 사용 템플릿(.dotm)을 표준 Word 문서(.doc)로 변환하는 데 어려움을 겪고 계신가요? 이 포괄적인 사용 가이드는 **.NET용 GroupDocs.Conversion** 라이브러리를 사용하면 이 과정을 손쉽게 간소화할 수 있습니다. 이 튜토리얼을 마치면 파일 형식을 쉽게 변환하는 데 능숙해질 것입니다.

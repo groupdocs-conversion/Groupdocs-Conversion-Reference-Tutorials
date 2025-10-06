@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak MBOX'tan DOCX'e Verimli Dönüşüm"
 "url": "/tr/net/email-formats-features/convert-mbox-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak MBOX'tan DOCX'e Verimli Dönüşüm
 
 ## giriiş

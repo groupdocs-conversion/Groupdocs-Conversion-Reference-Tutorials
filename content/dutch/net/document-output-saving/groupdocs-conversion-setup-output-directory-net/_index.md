@@ -4,8 +4,8 @@
 "title": "Een uitvoerdirectorypad instellen met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/document-output-saving/groupdocs-conversion-setup-output-directory-net/"
 "weight": 1
+type: docs
 ---
-
 # Een uitvoerdirectorypad instellen met GroupDocs.Conversion voor .NET
 
 ## Invoering

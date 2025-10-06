@@ -8,10 +8,8 @@ keywords:
 - convert PowerPoint template to PDF
 - GroupDocs.Conversion for .NET
 - POT file conversion
-
+type: docs
 ---
-
-
 # How to Convert a PowerPoint Template (.pot) File to PDF Using GroupDocs.Conversion for .NET
 
 ## Introduction

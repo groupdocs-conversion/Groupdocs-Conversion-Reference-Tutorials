@@ -4,8 +4,8 @@
 "title": "Converteer OTP-bestanden naar HTML met GroupDocs.Conversion voor .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/html-conversion/convert-otp-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer OTP-bestanden naar HTML met GroupDocs.Conversion voor .NET: een stapsgewijze handleiding
 
 ## Invoering

@@ -4,8 +4,8 @@
 "title": "Guía completa&#58; Convierta ODS a DOC con GroupDocs.Conversion para .NET"
 "url": "/es/net/spreadsheet-formats-features/master-ods-to-doc-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Guía completa: Convertir ODS a DOC con GroupDocs.Conversion para .NET
 
 ¿Quieres convertir fácilmente tus archivos de hoja de cálculo de OpenDocument (ODS) a documentos de Microsoft Word? Con **GroupDocs.Conversion para .NET**Esta tarea se vuelve sencilla. Esta guía completa te guiará paso a paso por el proceso.

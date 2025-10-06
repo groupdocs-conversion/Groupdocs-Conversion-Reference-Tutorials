@@ -8,10 +8,8 @@ keywords:
 - convert EMLX to CSV
 - GroupDocs.Conversion for .NET
 - email file conversion
-
+type: docs
 ---
-
-
 # Efficiently Convert EMLX to CSV Using GroupDocs.Conversion in .NET
 
 ## Introduction

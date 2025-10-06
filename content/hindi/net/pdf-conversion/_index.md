@@ -5,8 +5,8 @@
 "title": "पीडीएफ रूपांतरण"
 "url": "/hi/net/pdf-conversion/"
 "weight": 25
+type: docs
 ---
-
 # पीडीएफ रूपांतरण
 
 ## परिचय

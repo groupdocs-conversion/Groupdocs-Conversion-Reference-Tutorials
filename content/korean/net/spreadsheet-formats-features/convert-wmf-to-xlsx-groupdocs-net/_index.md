@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET을 사용하여 WMF를 XLSX로 변환하는 방법 - 단계별 가이드"
 "url": "/ko/net/spreadsheet-formats-features/convert-wmf-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET을 사용하여 WMF 파일을 XLSX로 변환하는 방법: 단계별 가이드
 
 ## 소개

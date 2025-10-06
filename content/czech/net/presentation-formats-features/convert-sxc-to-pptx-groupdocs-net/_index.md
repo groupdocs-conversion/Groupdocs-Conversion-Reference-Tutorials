@@ -4,8 +4,8 @@
 "title": "Podrobný návod&#58; Převod SXC na PPTX pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/presentation-formats-features/convert-sxc-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory SXC do PPTX pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

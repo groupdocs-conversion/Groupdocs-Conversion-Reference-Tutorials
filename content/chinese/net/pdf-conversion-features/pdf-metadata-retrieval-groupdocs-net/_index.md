@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 检索 PDF 元数据"
 "url": "/zh/net/pdf-conversion-features/pdf-metadata-retrieval-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 检索 PDF 元数据
 
 厌倦了手动从 PDF 文档中提取信息？使用 GroupDocs.Conversion for .NET 自动执行任务，并检索重要详细信息，例如作者、创建日期、页数、尺寸等。

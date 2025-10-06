@@ -5,8 +5,8 @@
 "title": "Konversi RTF ke PDF"
 "url": "/id/net/file-format-conversion-tutorials/convert-rtf-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # Konversi RTF ke PDF
 
 ## Perkenalan

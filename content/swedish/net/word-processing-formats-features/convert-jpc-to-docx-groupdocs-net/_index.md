@@ -4,8 +4,8 @@
 "title": "Hur man konverterar JPC-filer till DOCX med GroupDocs.Conversion för .NET"
 "url": "/sv/net/word-processing-formats-features/convert-jpc-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar JPC-filer till DOCX med GroupDocs.Conversion för .NET
 
 ## Introduktion

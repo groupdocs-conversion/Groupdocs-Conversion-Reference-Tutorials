@@ -4,8 +4,8 @@
 "title": "Come convertire DOCX in CSV utilizzando GroupDocs.Conversion per .NET - Guida passo passo"
 "url": "/it/net/spreadsheet-formats-features/convert-docx-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire DOCX in CSV utilizzando GroupDocs.Conversion per .NET: una guida passo passo
 
 ## Introduzione

@@ -4,8 +4,8 @@
 "title": "Converti in modo efficiente MPP in PowerPoint utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/presentation-formats-features/convert-mpp-to-powerpoint-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire in modo efficiente MPP in PowerPoint con GroupDocs.Conversion per .NET
 
 ## Introduzione

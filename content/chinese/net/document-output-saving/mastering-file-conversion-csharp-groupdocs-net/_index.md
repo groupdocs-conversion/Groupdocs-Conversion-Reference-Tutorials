@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 掌握 C# 中的文件转换"
 "url": "/zh/net/document-output-saving/mastering-file-conversion-csharp-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 掌握 C# 中的文件转换：为 .NET 实现 GroupDocs.Conversion
 
 ## 介绍

@@ -4,8 +4,8 @@
 "title": "Làm chủ Quản lý Hằng số trong GroupDocs.Conversion Java cho Dự án Chuyển đổi Tệp"
 "url": "/vi/java/conversion-options/mastering-constants-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Làm chủ quản lý hằng số với GroupDocs.Conversion Java
 
 ## Giới thiệu

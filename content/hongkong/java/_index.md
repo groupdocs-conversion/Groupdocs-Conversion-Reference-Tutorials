@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for Java 綜合教程"
 "url": "/zh-hant/java/"
 "weight": 10
+type: docs
 ---
-
 # GroupDocs.Conversion for Java 綜合教程
 
 ## 介紹

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak MSG'yi DOC'a Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/email-formats-features/convert-msg-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanarak MSG'yi DOC'a Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

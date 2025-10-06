@@ -5,8 +5,8 @@
 "title": "แปลงไฟล์ EPS Encapsulated PostScript เป็น PDF"
 "url": "/th/net/convert-files-to-pdf/convert-eps-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # แปลงไฟล์ EPS Encapsulated PostScript เป็น PDF
 
 ## การแนะนำ

@@ -3,8 +3,8 @@ title: "Presentation Formats and Features Tutorials for GroupDocs.Conversion .NE
 description: "Step-by-step tutorials for converting to and from Presentation formats (PPT, PPTX, ODP) and managing presentation-specific features with GroupDocs.Conversion for .NET."
 weight: 12
 url: "/net/presentation-formats-features/"
+type: docs
 ---
-
 # Presentation Formats and Features Tutorials for GroupDocs.Conversion .NET
 
 Our presentation-focused tutorials show you how to work with slide-based documents using GroupDocs.Conversion in .NET. These practical guides walk through converting between PowerPoint formats, hiding comments during conversion, including or excluding hidden slides, specifying font substitution options, preserving animations and transitions, maintaining speaker notes, handling embedded media, and ensuring layout consistency across different presentation formats. Each tutorial includes detailed C# code examples for presentation conversion scenarios, helping you build applications that produce high-quality conversions with preserved visual elements and interactive features.

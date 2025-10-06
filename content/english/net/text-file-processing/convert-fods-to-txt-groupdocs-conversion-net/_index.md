@@ -8,10 +8,8 @@ keywords:
 - convert FODS to TXT
 - GroupDocs.Conversion .NET library
 - file conversion guide
-
+type: docs
 ---
-
-
 # Convert FODS Files to TXT Using GroupDocs.Conversion .NET
 
 ## Introduction

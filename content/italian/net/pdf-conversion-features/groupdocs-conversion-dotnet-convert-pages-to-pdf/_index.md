@@ -4,8 +4,8 @@
 "title": "Convertire pagine specifiche in PDF utilizzando GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/pdf-conversion-features/groupdocs-conversion-dotnet-convert-pages-to-pdf/"
 "weight": 1
+type: docs
 ---
-
 # Convertire pagine specifiche in PDF utilizzando GroupDocs.Conversion per .NET: una guida completa
 
 ## Introduzione

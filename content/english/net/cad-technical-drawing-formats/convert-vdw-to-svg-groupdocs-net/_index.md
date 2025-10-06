@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert VDW Files to SVG Using GroupDocs.Conversion for .NET
 
 ## Introduction

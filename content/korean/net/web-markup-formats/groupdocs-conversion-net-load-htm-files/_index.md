@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET을 사용하여 HTM 파일 로드 및 변환하기 - 단계별 가이드"
 "url": "/ko/net/web-markup-formats/groupdocs-conversion-net-load-htm-files/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET을 사용하여 HTM 파일을 로드하고 변환하는 방법
 
 ## 소개

@@ -4,8 +4,8 @@
 "title": "CF2 fájlok PSD formátumba konvertálása a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/image-formats-features/convert-cf2-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # CF2 fájlok PSD formátumba konvertálása a GroupDocs.Conversion for .NET segítségével: Teljes körű útmutató
 
 ## Bevezetés

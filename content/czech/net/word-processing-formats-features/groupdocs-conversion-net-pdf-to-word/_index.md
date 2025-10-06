@@ -4,8 +4,8 @@
 "title": "Převod PDF stránek do Wordu pomocí GroupDocs.Conversion .NET – Podrobný návod"
 "url": "/cs/net/word-processing-formats-features/groupdocs-conversion-net-pdf-to-word/"
 "weight": 1
+type: docs
 ---
-
 # Převod PDF stránek do Wordu pomocí GroupDocs.Conversion .NET: Podrobný návod
 
 ## Zavedení

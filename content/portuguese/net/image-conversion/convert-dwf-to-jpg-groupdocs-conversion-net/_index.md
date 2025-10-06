@@ -4,8 +4,8 @@
 "title": "Converter DWF para JPG usando GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/image-conversion/convert-dwf-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converter DWF para JPG usando GroupDocs.Conversion para .NET
 
 ## Introdução

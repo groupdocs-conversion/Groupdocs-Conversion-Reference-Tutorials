@@ -5,8 +5,8 @@
 "title": "HTML Web Sayfalarını PDF'ye Dönüştür"
 "url": "/tr/net/convert-files-to-pdf/convert-html-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # HTML Web Sayfalarını PDF'ye Dönüştür
 
 ## giriiş

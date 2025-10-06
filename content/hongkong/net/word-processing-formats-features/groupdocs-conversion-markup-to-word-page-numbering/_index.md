@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將標記轉換為帶有頁碼的 Word"
 "url": "/zh-hant/net/word-processing-formats-features/groupdocs-conversion-markup-to-word-page-numbering/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將標記轉換為帶有頁碼的 Word
 ## 介紹
 您是否希望將標記文件轉換為專業的 Word 格式，同時保持頁碼的準確性？本教程將指導您使用 **GroupDocs.Conversion for .NET** 無縫轉換您的文件。這個強大的函式庫簡化了轉換過程，並確保輸出文件中頁碼等基本元素的完整性。

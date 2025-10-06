@@ -5,8 +5,8 @@
 "title": "แปลงไฟล์ EMF Windows Metafile เป็น PDF"
 "url": "/th/net/convert-files-to-pdf/convert-emf-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # แปลงไฟล์ EMF Windows Metafile เป็น PDF
 
 ## การแนะนำ

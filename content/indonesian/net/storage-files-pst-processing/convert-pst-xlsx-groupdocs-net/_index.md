@@ -4,8 +4,8 @@
 "title": "Konversi File PST Outlook ke Excel XLSX Menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/storage-files-pst-processing/convert-pst-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi File PST Outlook ke Excel XLSX Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

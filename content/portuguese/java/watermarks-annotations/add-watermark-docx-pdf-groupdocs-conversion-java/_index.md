@@ -4,8 +4,8 @@
 "title": "Como adicionar marca d'água a DOCX e converter para PDF usando GroupDocs.Conversion para Java"
 "url": "/pt/java/watermarks-annotations/add-watermark-docx-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Como adicionar uma marca d'água ao seu documento usando GroupDocs.Conversion para Java
 
 No mundo digital de hoje, proteger seus documentos contra uso não autorizado é crucial. Seja para compartilhar informações confidenciais ou simplesmente marcar seus documentos, adicionar uma marca d'água pode ser uma solução eficaz. Neste tutorial, guiaremos você pelo processo de uso. **GroupDocs.Conversion para Java** para adicionar uma marca d'água ao converter um arquivo DOCX em PDF.

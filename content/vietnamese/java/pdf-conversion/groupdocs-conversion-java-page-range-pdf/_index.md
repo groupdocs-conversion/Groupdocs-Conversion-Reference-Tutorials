@@ -4,8 +4,8 @@
 "title": "Chuyển đổi phạm vi trang cụ thể sang PDF bằng GroupDocs.Conversion Java API"
 "url": "/vi/java/pdf-conversion/groupdocs-conversion-java-page-range-pdf/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi phạm vi trang cụ thể sang PDF bằng GroupDocs.Conversion Java API
 
 Trong thời đại kỹ thuật số ngày nay, việc quản lý tài liệu hiệu quả là rất quan trọng đối với cả doanh nghiệp và cá nhân. Việc chuyển đổi các phần cụ thể của báo cáo sang định dạng di động như PDF có thể tiết kiệm thời gian và tài nguyên. Hướng dẫn này sẽ hướng dẫn bạn cách sử dụng **GroupDocs.Chuyển đổi Java** để chuyển đổi một phạm vi trang cụ thể từ bất kỳ tài liệu nào thành tệp PDF. Cuối cùng, bạn sẽ có tất cả các kỹ năng cần thiết để triển khai tính năng mạnh mẽ này trong các dự án của mình.

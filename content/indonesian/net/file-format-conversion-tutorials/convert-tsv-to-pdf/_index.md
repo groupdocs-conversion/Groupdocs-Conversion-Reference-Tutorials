@@ -5,8 +5,8 @@
 "title": "Konversi TSV ke PDF"
 "url": "/id/net/file-format-conversion-tutorials/convert-tsv-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # Konversi TSV ke PDF
 
 ## Perkenalan

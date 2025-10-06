@@ -4,8 +4,8 @@
 "title": "LaTeX-ből Excelbe konvertálás elsajátítása a GroupDocs.Conversion .NET használatával – Teljes körű útmutató fejlesztőknek és kutatóknak"
 "url": "/hu/net/spreadsheet-formats-features/latex-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # LaTeX-ből Excelbe konvertálás elsajátítása a GroupDocs.Conversion .NET segítségével
 
 mai adatvezérelt világban a komplex LaTeX dokumentumok széles körben használt formátumokba, például Excelbe konvertálása felbecsülhetetlen értékű a kutatók és a fejlesztők számára. Akár nagy adathalmazok kezeléséről, akár dokumentumkonverziók egyszerűsítéséről van szó, ez az útmutató segít zökkenőmentesen átalakítani... `.tex` fájlokba `.xlsx` a GroupDocs.Conversion .NET használatával.

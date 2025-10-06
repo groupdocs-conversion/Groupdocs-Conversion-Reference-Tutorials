@@ -4,8 +4,8 @@
 "title": "XLTM fájlok PNG formátumba konvertálása .NET-ben – Teljes körű útmutató a GroupDocs.Conversion használatával"
 "url": "/hu/net/image-conversion/convert-xltm-to-png-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # XLTM fájlok PNG formátumba konvertálása .NET-ben: Teljes körű útmutató a GroupDocs.Conversion használatával
 
 ## Bevezetés

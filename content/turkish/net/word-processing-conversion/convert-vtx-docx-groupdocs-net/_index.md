@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak VTX Dosyaları DOCX'e Nasıl Dönüştürülür? Geliştiricinin Kılavuzu"
 "url": "/tr/net/word-processing-conversion/convert-vtx-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanılarak VTX Dosyaları DOCX'e Nasıl Dönüştürülür: Geliştiricinin Kılavuzu
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "Konversi MSG ke PDF Menggunakan GroupDocs di .NET&#58; Panduan Lengkap"
 "url": "/id/net/pdf-conversion/convert-msg-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi MSG ke PDF Menggunakan GroupDocs di .NET: Panduan Lengkap
 
 ## Perkenalan

@@ -8,10 +8,8 @@ keywords:
 - Convert DGN to SVG
 - GroupDocs.Conversion for .NET
 - CAD file conversion
-
+type: docs
 ---
-
-
 # Convert DGN to SVG with GroupDocs.Conversion for .NET
 
 ## Introduction

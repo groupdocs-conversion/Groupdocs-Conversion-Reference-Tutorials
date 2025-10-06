@@ -5,8 +5,8 @@
 "title": "ओटीपी को पीडीएफ में बदलें"
 "url": "/hi/net/pdf-conversion/convert-otp-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # ओटीपी को पीडीएफ में बदलें
 
 ## परिचय

@@ -5,8 +5,8 @@
 "title": "Chuyển đổi bài thuyết trình FODP OpenDocument sang PDF"
 "url": "/vi/net/convert-files-to-pdf/convert-fodp-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # Chuyển đổi bài thuyết trình FODP OpenDocument sang PDF
 
 ## Giới thiệu

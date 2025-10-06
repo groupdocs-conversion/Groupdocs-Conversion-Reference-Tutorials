@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie FODS in PDF mit GroupDocs.Conversion für .NET – Eine Schritt-für-Schritt-Anleitung"
 "url": "/de/net/pdf-conversion/convert-fods-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie FODS in PDF mit GroupDocs.Conversion für .NET
 
 ## Einführung

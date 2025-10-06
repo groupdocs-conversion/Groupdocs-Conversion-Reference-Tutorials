@@ -4,8 +4,8 @@
 "title": "แปลงเอกสาร Word ที่ป้องกันด้วยรหัสผ่านเป็น Excel โดยใช้ GroupDocs สำหรับ .NET"
 "url": "/th/net/working-with-secure-documents/convert-password-word-docs-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลงเอกสาร Word ที่ได้รับการป้องกันด้วยรหัสผ่านเป็น Excel ด้วย GroupDocs สำหรับ .NET
 
 ## การแนะนำ

@@ -4,8 +4,8 @@
 "title": "Conversione dei file master in Java&#58; una guida completa all'utilizzo di GroupDocs.Conversion"
 "url": "/it/java/document-operations/java-groupdocs-conversion-file-handling/"
 "weight": 1
+type: docs
 ---
-
 # Padroneggiare la conversione dei file in Java: una guida completa all'utilizzo di GroupDocs.Conversion
 
 ## Introduzione

@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for Java 將電子表格轉換為 PDF 的綜合指南"
 "url": "/zh-hant/java/spreadsheet-formats/convert-spreadsheets-to-pdfs-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for Java 將電子表格轉換為 PDF：綜合指南
 
 ## 介紹

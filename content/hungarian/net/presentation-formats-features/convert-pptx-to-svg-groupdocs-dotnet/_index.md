@@ -4,8 +4,8 @@
 "title": "PPTX konvertálása SVG-vé a GroupDocs.Conversion .NET használatával – Átfogó útmutató"
 "url": "/hu/net/presentation-formats-features/convert-pptx-to-svg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # PPTX fájlok SVG-vé konvertálása a GroupDocs.Conversion .NET segítségével
 
 ## Bevezetés

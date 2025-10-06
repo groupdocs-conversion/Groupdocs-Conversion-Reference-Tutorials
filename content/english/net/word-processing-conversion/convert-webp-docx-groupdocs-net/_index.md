@@ -8,10 +8,8 @@ keywords:
 - Convert WebP to DOCX
 - GroupDocs.Conversion for .NET
 - image file conversion
-
+type: docs
 ---
-
-
 # Convert WebP Images to DOCX Files Using GroupDocs.Conversion in .NET
 
 ## Introduction

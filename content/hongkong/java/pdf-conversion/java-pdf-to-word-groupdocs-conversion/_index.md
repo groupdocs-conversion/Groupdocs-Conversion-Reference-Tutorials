@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs 在 Java 中將 PDF 轉換為 Word 的綜合指南"
 "url": "/zh-hant/java/pdf-conversion/java-pdf-to-word-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs 在 Java 中將 PDF 轉換為 Word：綜合指南
 
 ## 介紹

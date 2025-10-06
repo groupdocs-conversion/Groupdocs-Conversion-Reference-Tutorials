@@ -5,8 +5,8 @@
 "title": "Konvertera EPS-inkapslade PostScript-filer till PDF"
 "url": "/sv/net/convert-files-to-pdf/convert-eps-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # Konvertera EPS-inkapslade PostScript-filer till PDF
 
 ## Introduktion

@@ -4,8 +4,8 @@
 "title": "Kapsamlı Kılavuz&#58; .NET için GroupDocs.Conversion Kullanarak VSSM'yi TXT'ye Dönüştürme"
 "url": "/tr/net/text-file-processing/convert-vssm-txt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Kapsamlı Kılavuz: .NET için GroupDocs.Conversion'ı Kullanarak VSSM'yi TXT'ye Dönüştürme
 
 ## giriiş

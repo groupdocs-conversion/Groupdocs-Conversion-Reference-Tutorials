@@ -4,8 +4,8 @@
 "title": "Excel-bestanden met verborgen werkbladen converteren naar PDF's met behulp van Java en GroupDocs.Conversion"
 "url": "/nl/java/pdf-conversion/convert-excel-hidden-sheets-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Excel-bestanden met verborgen werkbladen converteren naar PDF's met behulp van Java en GroupDocs.Conversion
 
 ## Invoering

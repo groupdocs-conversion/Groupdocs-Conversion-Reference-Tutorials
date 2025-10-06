@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion .NET
 - EPUB conversion
 - DOC file conversion
-
+type: docs
 ---
-
-
 # Convert EPUB to DOC with GroupDocs.Conversion .NET: A Comprehensive Guide
 
 ## Introduction

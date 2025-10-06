@@ -3,8 +3,8 @@
 "title": "Tutoriais de conversão de HTML para GroupDocs.Conversion .NET"
 "url": "/pt/net/html-conversion/"
 "weight": 26
+type: docs
 ---
-
 # Tutoriais de conversão de HTML para GroupDocs.Conversion .NET
 
 Nossos tutoriais de conversão de HTML demonstram como transformar documentos em formato HTML pronto para a web. Estes guias detalhados abordam a conversão de vários formatos de origem, incluindo Word, PDF, Excel, PowerPoint, imagens, desenhos CAD, mensagens de e-mail e muito mais, para HTML. Aprenda sobre opções de conversão específicas para HTML, gerenciamento de recursos incorporados, preservação do estilo do documento, manipulação de layouts responsivos e controle da estrutura HTML de saída. Cada tutorial inclui exemplos completos de código C# para criar representações HTML de alta qualidade dos seus documentos, mantendo a aparência e a fidelidade do conteúdo original.

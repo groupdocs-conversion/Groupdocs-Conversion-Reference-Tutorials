@@ -4,8 +4,8 @@
 "title": "تحويل ملفات LaTeX (TEX) إلى جداول بيانات Excel باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/spreadsheet-formats-features/convert-tex-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ملفات LaTeX (TEX) إلى جداول بيانات Excel باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

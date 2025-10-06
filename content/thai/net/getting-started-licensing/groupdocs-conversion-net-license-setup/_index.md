@@ -4,8 +4,8 @@
 "title": "วิธีตั้งค่าและสมัครใบอนุญาตสำหรับ GroupDocs.Conversion .NET คำแนะนำทีละขั้นตอน"
 "url": "/th/net/getting-started-licensing/groupdocs-conversion-net-license-setup/"
 "weight": 1
+type: docs
 ---
-
 # บทช่วยสอนที่ครอบคลุม: การตั้งค่าใบอนุญาตสำหรับ GroupDocs.Conversion .NET
 
 ## การแนะนำ

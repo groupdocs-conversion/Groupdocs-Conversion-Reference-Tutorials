@@ -4,8 +4,8 @@
 "title": "Convertire DGN in PSD utilizzando GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/cad-technical-drawing-formats/convert-dgn-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converti DGN in PSD con GroupDocs.Conversion per .NET
 
 ## Introduzione

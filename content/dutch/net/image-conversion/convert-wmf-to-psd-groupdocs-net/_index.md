@@ -4,8 +4,8 @@
 "title": "WMF naar PSD converteren met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/image-conversion/convert-wmf-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # WMF naar PSD converteren met GroupDocs.Conversion voor .NET
 
 **Efficiënte beeldconversie in .NET: transformeer WMF-bestanden naar PSD-formaat**

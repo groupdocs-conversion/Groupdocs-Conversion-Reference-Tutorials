@@ -4,8 +4,8 @@
 "title": "แปลง Word เป็น Excel คำแนะนำง่ายๆ โดยใช้ GroupDocs.Conversion Java API"
 "url": "/th/java/word-processing-formats/convert-word-to-excel-groupdocs-java-guide/"
 "weight": 1
+type: docs
 ---
-
 # แปลง Word เป็น Excel ด้วย GroupDocs การแปลง Java: คู่มือที่ครอบคลุม
 
 ## การแนะนำ

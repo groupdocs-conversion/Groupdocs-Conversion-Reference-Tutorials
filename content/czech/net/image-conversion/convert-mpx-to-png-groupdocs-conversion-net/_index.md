@@ -4,8 +4,8 @@
 "title": "Převod MPX do PNG pomocí GroupDocs.Conversion pro .NET – kompletní průvodce"
 "url": "/cs/net/image-conversion/convert-mpx-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů MPX do PNG pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

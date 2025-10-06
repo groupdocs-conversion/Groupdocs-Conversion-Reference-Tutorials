@@ -8,10 +8,8 @@ keywords:
 - Convert JPF to SVG
 - GroupDocs.Conversion for .NET
 - image conversion
-
+type: docs
 ---
-
-
 # How to Convert JPF to SVG Using GroupDocs.Conversion for .NET
 
 ## Introduction

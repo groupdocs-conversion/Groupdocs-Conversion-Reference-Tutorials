@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert OneNote to CSV in C# with GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - CSV to PNG conversion
 - GroupDocs.Conversion for .NET
 - data visualization with images
-
+type: docs
 ---
-
-
 # Convert CSV Files to Stunning PNG Images with GroupDocs.Conversion for .NET
 
 ## Introduction

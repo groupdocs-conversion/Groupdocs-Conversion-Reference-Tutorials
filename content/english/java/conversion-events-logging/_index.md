@@ -3,8 +3,8 @@ title: "Conversion Events and Logging Tutorials for GroupDocs.Conversion Java"
 description: "Complete tutorials for implementing event handlers, conversion progress tracking, and logging with GroupDocs.Conversion for Java."
 weight: 15
 url: "/java/conversion-events-logging/"
+type: docs
 ---
-
 # Conversion Events and Logging Tutorials for GroupDocs.Conversion Java
 
 Master monitoring and logging capabilities with our GroupDocs.Conversion event tutorials for Java. These detailed guides demonstrate how to set up event listeners, track conversion progress, implement detailed logging, handle conversion notifications, and create custom event handlers programmatically. Each tutorial includes working Java code examples that show how to enhance your applications with robust monitoring and reporting features, helping you build reliable conversion systems with comprehensive audit trails and user feedback.

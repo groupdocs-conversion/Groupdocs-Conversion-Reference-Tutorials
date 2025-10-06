@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie Adobe Illustrator-Dateien mit GroupDocs.Conversion für .NET in Excel"
 "url": "/de/net/spreadsheet-conversion/convert-illustrator-to-excel-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie Adobe Illustrator-Dateien mit GroupDocs.Conversion für .NET in das Excel-Format
 
 ## Einführung

@@ -4,8 +4,8 @@
 "title": "تحويل TXT إلى DOCX بكفاءة باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/word-processing-formats-features/txt-to-docx-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل TXT إلى DOCX بكفاءة باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

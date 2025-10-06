@@ -3,8 +3,8 @@
 "title": "Tutoriais de gerenciamento de páginas e manipulação de conteúdo para GroupDocs.Conversion .NET"
 "url": "/pt/net/page-management-content-manipulation/"
 "weight": 7
+type: docs
 ---
-
 # Tutoriais de gerenciamento de páginas e manipulação de conteúdo para GroupDocs.Conversion .NET
 
 Explore recursos avançados de controle de conteúdo com nossos tutoriais abrangentes do GroupDocs.Conversion para .NET. Estes guias práticos demonstram como converter páginas ou intervalos de páginas específicos, processar sequências de páginas consecutivas, adicionar marcas d'água de texto ou imagem a documentos de saída, implementar numeração de páginas, manipular o posicionamento do conteúdo e aplicar diversos aprimoramentos visuais durante a conversão. Cada tutorial inclui exemplos detalhados de código C# para cenários de manipulação de conteúdo, ajudando você a criar aplicativos que processam o conteúdo de documentos de forma inteligente, em vez de simplesmente converter arquivos inteiros.

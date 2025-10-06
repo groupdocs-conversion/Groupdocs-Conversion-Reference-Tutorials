@@ -3,8 +3,8 @@
 "title": "Hướng dẫn chuyển đổi PDF cho GroupDocs.Conversion Java"
 "url": "/vi/java/pdf-conversion/"
 "weight": 4
+type: docs
 ---
-
 # Hướng dẫn chuyển đổi PDF cho GroupDocs.Conversion Java
 
 Hướng dẫn chuyển đổi PDF của chúng tôi cung cấp hướng dẫn chi tiết để làm việc với các tài liệu PDF trong các ứng dụng Java. Thực hiện theo các hướng dẫn thực tế này để tìm hiểu cách chuyển đổi nhiều định dạng tài liệu khác nhau sang PDF, chuyển đổi PDF sang các định dạng khác, cấu hình các tùy chọn dành riêng cho PDF, xử lý PDF được bảo vệ bằng mật khẩu và quản lý các tính năng PDF như biểu mẫu và chú thích. Các hướng dẫn này bao gồm các ví dụ mã Java hoàn chỉnh cho các tình huống chuyển đổi PDF phổ biến, giúp bạn xây dựng các ứng dụng có thể xử lý hiệu quả các tài liệu PDF.

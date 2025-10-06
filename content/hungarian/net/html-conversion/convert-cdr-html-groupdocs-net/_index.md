@@ -4,8 +4,8 @@
 "title": "CDR hatékony HTML-lé konvertálása a GroupDocs.Conversion segítségével .NET-ben"
 "url": "/hu/net/html-conversion/convert-cdr-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # CDR fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

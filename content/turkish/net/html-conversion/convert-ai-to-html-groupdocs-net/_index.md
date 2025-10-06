@@ -4,8 +4,8 @@
 "title": "AI'yi GroupDocs ile HTML'ye Dönüştürün. .NET İçin Dönüşüm Kapsamlı Bir Kılavuz"
 "url": "/tr/net/html-conversion/convert-ai-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # AI Dosyalarını .NET için GroupDocs.Conversion Kullanarak HTML'ye Dönüştürün
 
 ## giriiş

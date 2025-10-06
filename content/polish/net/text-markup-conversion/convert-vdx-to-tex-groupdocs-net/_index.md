@@ -4,8 +4,8 @@
 "title": "Konwersja VDX do TEX przy użyciu GroupDocs.Conversion dla .NET&#58; Kompleksowy przewodnik"
 "url": "/pl/net/text-markup-conversion/convert-vdx-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj pliki VDX do TEX za pomocą GroupDocs dla .NET
 
 ## Wstęp

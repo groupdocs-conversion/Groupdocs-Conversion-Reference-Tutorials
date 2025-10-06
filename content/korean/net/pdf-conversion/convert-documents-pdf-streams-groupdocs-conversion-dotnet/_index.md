@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 문서를 PDF 스트림으로 변환하는 포괄적인 가이드"
 "url": "/ko/net/pdf-conversion/convert-documents-pdf-streams-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 문서를 PDF 스트림으로 변환: 종합 가이드
 
 ## 소개

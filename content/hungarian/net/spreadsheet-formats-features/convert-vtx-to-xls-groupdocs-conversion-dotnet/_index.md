@@ -4,8 +4,8 @@
 "title": "Hatékonyan konvertáljon VTX-et XLS-be a GroupDocs.Conversion .NET segítségével a továbbfejlesztett adatkezelés érdekében"
 "url": "/hu/net/spreadsheet-formats-features/convert-vtx-to-xls-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # VTX hatékony konvertálása XLS-be a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Chuyển đổi EML sang CSV hiệu quả bằng GroupDocs.Conversion cho .NET - Hướng dẫn đầy đủ"
 "url": "/vi/net/csv-structured-data-processing/convert-eml-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi EML sang CSV hiệu quả bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

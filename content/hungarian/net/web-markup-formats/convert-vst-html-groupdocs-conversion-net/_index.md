@@ -4,8 +4,8 @@
 "title": "VST fájlok konvertálása HTML-be a GroupDocs.Conversion .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/web-markup-formats/convert-vst-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VST fájlok konvertálása HTML-be a GroupDocs.Conversion .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

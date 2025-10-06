@@ -4,8 +4,8 @@
 "title": "Conversão de PSD líquido com o GroupDocs - Guia definitivo para desenvolvedores .NET"
 "url": "/pt/net/image-conversion/net-psd-conversion-groupdocs-guide/"
 "weight": 1
+type: docs
 ---
-
 # Conversão de PSD líquido com GroupDocs: um guia completo para desenvolvedores .NET
 
 ## Introdução

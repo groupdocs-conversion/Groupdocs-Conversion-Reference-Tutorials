@@ -4,8 +4,8 @@
 "title": "DIB'yi GroupDocs.Conversion for .NET Kullanarak PNG'ye Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/image-formats-features/convert-dib-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DIB'yi GroupDocs.Conversion for .NET Kullanarak PNG'ye Dönüştürme
 
 ## giriiş

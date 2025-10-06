@@ -5,8 +5,8 @@
 "title": "แปลง PPTX เป็น PDF"
 "url": "/th/net/pdf-conversion/convert-pptx-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # แปลง PPTX เป็น PDF
 
 ## การแนะนำ

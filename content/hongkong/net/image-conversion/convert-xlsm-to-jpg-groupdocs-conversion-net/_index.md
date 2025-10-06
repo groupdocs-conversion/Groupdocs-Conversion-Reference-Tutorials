@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 將 XLSM 轉換為 JPG 的逐步指南"
 "url": "/zh-hant/net/image-conversion/convert-xlsm-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 將 XLSM 轉換為 JPG
 ## 介紹
 您是否希望將 Excel 巨集 (XLSM) 無縫轉換為影像形式的視覺化快照？將 XLSM 檔案轉換為 JPG 對於與非 Excel 使用者共用資料或將電子表格整合到簡報和文件中至關重要。本教學將指導您使用 GroupDocs.Conversion .NET，這是一個功能強大的程式庫，可簡化此轉換過程。

@@ -4,8 +4,8 @@
 "title": "Hur man konverterar PowerPoint-mall (.potx) till text med GroupDocs.Conversion för .NET"
 "url": "/sv/net/text-file-processing/convert-potx-to-text-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Så här laddar och konverterar du en Microsoft PowerPoint Open XML-mallfil (.potx) till text med GroupDocs.Conversion för .NET
 
 ## Introduktion

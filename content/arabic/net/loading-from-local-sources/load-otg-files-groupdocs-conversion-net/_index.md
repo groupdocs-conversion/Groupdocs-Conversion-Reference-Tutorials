@@ -4,8 +4,8 @@
 "title": "تحميل وتحويل ملفات OTG باستخدام GroupDocs.Conversion لـ .NET - دليل المطور"
 "url": "/ar/net/loading-from-local-sources/load-otg-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحميل وتحويل ملفات OTG باستخدام GroupDocs.Conversion لـ .NET: دليل المطور
 
 ## مقدمة

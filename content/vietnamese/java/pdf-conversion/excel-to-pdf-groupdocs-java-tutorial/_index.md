@@ -4,8 +4,8 @@
 "title": "Chuyển đổi Excel sang PDF bằng GroupDocs.Chuyển đổi cho Java&#58; Hướng dẫn toàn diện"
 "url": "/vi/java/pdf-conversion/excel-to-pdf-groupdocs-java-tutorial/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi Excel sang PDF bằng GroupDocs.Conversion cho Java: Hướng dẫn toàn diện
 
 ## Giới thiệu

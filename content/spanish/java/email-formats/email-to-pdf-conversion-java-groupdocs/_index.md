@@ -4,8 +4,8 @@
 "title": "Cómo convertir correos electrónicos a PDF con diferencia horaria en Java mediante GroupDocs.Conversion"
 "url": "/es/java/email-formats/email-to-pdf-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir correos electrónicos a PDF con diferencia horaria en Java mediante GroupDocs.Conversion
 
 ## Introducción

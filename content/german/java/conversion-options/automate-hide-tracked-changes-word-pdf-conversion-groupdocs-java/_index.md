@@ -4,8 +4,8 @@
 "title": "Automatisieren Sie das Ausblenden von nachverfolgten Änderungen bei der Word-zu-PDF-Konvertierung mit GroupDocs.Conversion für Java"
 "url": "/de/java/conversion-options/automate-hide-tracked-changes-word-pdf-conversion-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Automatisieren Sie das Ausblenden nachverfolgter Änderungen bei der Word-zu-PDF-Konvertierung mit GroupDocs.Conversion für Java
 
 ## Einführung

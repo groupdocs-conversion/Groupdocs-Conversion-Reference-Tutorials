@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie PNG in TXT mit GroupDocs.Conversion für .NET – Ein umfassender Leitfaden"
 "url": "/de/net/text-markup-conversion/convert-png-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertieren Sie PNG in TXT mit GroupDocs.Conversion für .NET: Ein umfassender Leitfaden
 
 ## Einführung

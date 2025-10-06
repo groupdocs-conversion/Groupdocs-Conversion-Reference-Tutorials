@@ -4,8 +4,8 @@
 "title": "Markdown'u GroupDocs.Conversion for .NET ile HTML'ye Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/web-markup-formats/transform-markdown-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Markdown'u GroupDocs.Conversion for .NET ile HTML'ye Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

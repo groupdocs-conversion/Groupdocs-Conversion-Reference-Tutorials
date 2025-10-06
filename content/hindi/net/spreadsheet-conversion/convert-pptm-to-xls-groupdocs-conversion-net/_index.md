@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके PPTM को XLS में परिवर्तित करें एक चरण-दर-चरण मार्गदर्शिका"
 "url": "/hi/net/spreadsheet-conversion/convert-pptm-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion के साथ PPTM को XLS में परिवर्तित करें
 ## परिचय
 पावरपॉइंट प्रेजेंटेशन (PPTM फ़ाइलें) को एक्सेल स्प्रेडशीट (XLS फ़ॉर्मेट) में बदलना डेटा विश्लेषण या कंटेंट रीपरपसिंग के लिए ज़रूरी हो सकता है। .NET के लिए GroupDocs.Conversion का इस्तेमाल करना इस प्रक्रिया को सरल बनाता है, जिससे यह सुलभ हो जाता है, भले ही आप कोडिंग विशेषज्ञ न हों।

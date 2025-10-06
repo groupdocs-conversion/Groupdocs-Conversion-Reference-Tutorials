@@ -5,8 +5,8 @@
 "title": "Chuyển đổi tập tin sang PDF"
 "url": "/vi/net/file-conversion-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Chuyển đổi tập tin sang PDF
 
 ## Giới thiệu:

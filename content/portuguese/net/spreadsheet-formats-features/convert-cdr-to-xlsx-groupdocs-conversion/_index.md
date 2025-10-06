@@ -4,8 +4,8 @@
 "title": "Como converter arquivos CDR para XLSX usando o GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/spreadsheet-formats-features/convert-cdr-to-xlsx-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Como converter arquivos CDR para XLSX usando o GroupDocs.Conversion para .NET: um guia completo
 
 ## Introdução

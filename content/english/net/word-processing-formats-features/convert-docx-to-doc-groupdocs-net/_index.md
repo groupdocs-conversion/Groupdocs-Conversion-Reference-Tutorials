@@ -8,10 +8,8 @@ keywords:
 - convert DOCX to DOC
 - GroupDocs.Conversion .NET
 - document conversion in .NET
-
+type: docs
 ---
-
-
 # Convert DOCX to DOC with GroupDocs.Conversion for .NET
 
 ## Introduction

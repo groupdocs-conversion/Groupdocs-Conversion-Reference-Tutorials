@@ -4,8 +4,8 @@
 "title": ".NET'te GroupDocs.Conversion'ı Kullanarak MPP'yi Kolayca DOCX'e Dönüştürün"
 "url": "/tr/net/word-processing-formats-features/groupdocs-conversion-net-mpp-to-docx/"
 "weight": 1
+type: docs
 ---
-
 # .NET'te GroupDocs.Conversion'ı Kullanarak MPP'yi Kolayca DOCX'e Dönüştürün
 
 ## giriiş

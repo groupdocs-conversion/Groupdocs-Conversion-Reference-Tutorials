@@ -4,8 +4,8 @@
 "title": "Converta arquivos VDX para TXT usando o GroupDocs.Conversion para .NET - Um guia completo"
 "url": "/pt/net/text-markup-conversion/convert-vdx-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter arquivos VDX para TXT usando GroupDocs.Conversion para .NET
 
 ## Introdução

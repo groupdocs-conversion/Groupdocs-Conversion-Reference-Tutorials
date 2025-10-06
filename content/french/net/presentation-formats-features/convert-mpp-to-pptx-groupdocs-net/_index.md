@@ -4,8 +4,8 @@
 "title": "Convertir MPP en PPTX à l'aide du guide étape par étape de GroupDocs.Conversion pour .NET"
 "url": "/fr/net/presentation-formats-features/convert-mpp-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir MPP en PPTX avec GroupDocs.Conversion pour .NET : guide étape par étape
 
 ## Introduction

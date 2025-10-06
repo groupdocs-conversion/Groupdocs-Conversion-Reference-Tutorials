@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion을 사용하여 Java에서 숨겨진 슬라이드가 있는 PPTX를 PDF로 효율적으로 변환"
 "url": "/ko/java/presentation-formats/convert-pptx-hidden-slides-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용하여 Java에서 숨겨진 슬라이드가 있는 PPTX를 PDF로 손쉽게 변환
 
 디지털 시대에 프레젠테이션 문서를 PDF와 같이 누구나 접근 가능한 형식으로 변환하는 것은 개발자에게 필수적인 요구 사항입니다. 이 튜토리얼에서는 다음을 사용하여 효율적인 솔루션을 안내합니다. **Java용 GroupDocs.Conversion** 숨겨진 슬라이드를 포함한 PowerPoint 프레젠테이션을 PDF 형식으로 변환합니다.

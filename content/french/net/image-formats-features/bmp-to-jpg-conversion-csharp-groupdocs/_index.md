@@ -4,8 +4,8 @@
 "title": "Convertir un fichier BMP en JPG en C# à l'aide de GroupDocs.Conversion pour .NET - Un guide complet"
 "url": "/fr/net/image-formats-features/bmp-to-jpg-conversion-csharp-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Convertir un fichier BMP en JPG en C# avec GroupDocs.Conversion pour .NET : Guide complet
 
 ## Introduction

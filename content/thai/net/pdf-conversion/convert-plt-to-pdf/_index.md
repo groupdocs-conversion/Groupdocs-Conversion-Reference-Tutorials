@@ -5,8 +5,8 @@
 "title": "แปลง PLT เป็น PDF"
 "url": "/th/net/pdf-conversion/convert-plt-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # แปลง PLT เป็น PDF
 
 ## การแนะนำ

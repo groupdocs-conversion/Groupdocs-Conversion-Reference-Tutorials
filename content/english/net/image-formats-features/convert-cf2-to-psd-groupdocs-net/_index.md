@@ -8,10 +8,8 @@ keywords:
 - convert CF2 to PSD
 - GroupDocs.Conversion .NET
 - CAD file conversion
-
+type: docs
 ---
-
-
 # How to Convert CF2 Files to PSD Using GroupDocs.Conversion for .NET: A Complete Guide
 
 ## Introduction

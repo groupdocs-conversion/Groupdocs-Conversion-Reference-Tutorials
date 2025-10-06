@@ -4,8 +4,8 @@
 "title": "使用 .NET 中的 GroupDocs 將 WebP 轉換為 DOCX 的逐步指南"
 "url": "/zh-hant/net/word-processing-conversion/convert-webp-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 .NET 中的 GroupDocs.Conversion 將 WebP 映像轉換為 DOCX 文件
 
 ## 介紹

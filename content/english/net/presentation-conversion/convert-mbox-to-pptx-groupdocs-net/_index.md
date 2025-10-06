@@ -8,10 +8,8 @@ keywords:
 - convert MBOX to PPTX
 - GroupDocs.Conversion .NET
 - MBOX file conversion
-
+type: docs
 ---
-
-
 # Convert MBOX Files to PowerPoint Presentations with GroupDocs.Conversion for .NET
 
 In today's digital landscape, efficiently managing email data is crucial for many professionals and organizations. MBOX files are often used for archiving emails, but converting this data into a visually engaging format like PowerPoint can significantly enhance communication and presentations. This tutorial will guide you through the process of converting MBOX files to PPTX using GroupDocs.Conversion for .NET.

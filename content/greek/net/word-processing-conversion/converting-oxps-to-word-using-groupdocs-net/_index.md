@@ -4,8 +4,8 @@
 "title": "Πώς να μετατρέψετε OXPS σε Word χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/word-processing-conversion/converting-oxps-to-word-using-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να μετατρέψετε OXPS σε Word χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

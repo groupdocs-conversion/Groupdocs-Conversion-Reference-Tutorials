@@ -4,8 +4,8 @@
 "title": "GroupDocs ile Net PSD Dönüşümü&#58; .NET Geliştiricileri için Nihai Kılavuz"
 "url": "/tr/net/image-conversion/net-psd-conversion-groupdocs-guide/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs ile Net PSD Dönüşümü: .NET Geliştiricileri İçin Eksiksiz Bir Kılavuz
 
 ## giriiş

@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Tutorial Memulai untuk Pengembang Java"
 "url": "/id/java/getting-started/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Tutorial Memulai untuk Pengembang Java
 
 Mulailah perjalanan Anda dengan tutorial GroupDocs.Conversion penting ini yang memandu Anda melalui penginstalan, konfigurasi lisensi, dan melakukan konversi dokumen pertama Anda di Java. Panduan yang mudah dipahami bagi pemula kami menunjukkan cara menyiapkan lingkungan pengembangan Anda, menginisialisasi pustaka GroupDocs.Conversion, dan melakukan operasi konversi mendasar. Ikuti tutorial ini untuk menguasai dasar-dasar dengan cepat dan mempersiapkan diri untuk tugas konversi dokumen yang lebih canggih di aplikasi Java Anda.

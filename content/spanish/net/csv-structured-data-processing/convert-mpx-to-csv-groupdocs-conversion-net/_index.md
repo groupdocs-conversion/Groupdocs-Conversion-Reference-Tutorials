@@ -4,8 +4,8 @@
 "title": "Convierta MPX a CSV con GroupDocs.Conversion para .NET&#58; una guía detallada"
 "url": "/es/net/csv-structured-data-processing/convert-mpx-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convierta archivos MPX a CSV con GroupDocs.Conversion para .NET: una guía detallada
 
 ## Introducción

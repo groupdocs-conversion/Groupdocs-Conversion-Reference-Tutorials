@@ -8,10 +8,8 @@ keywords:
 - convert MHT to HTML
 - GroupDocs.Conversion for .NET
 - MHT file conversion
-
+type: docs
 ---
-
-
 # Convert MHT to HTML in .NET with GroupDocs.Conversion
 
 ## Introduction

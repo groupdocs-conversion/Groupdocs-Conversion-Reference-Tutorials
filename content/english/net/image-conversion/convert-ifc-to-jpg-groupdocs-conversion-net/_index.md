@@ -8,10 +8,8 @@ keywords:
 - convert IFC to JPG
 - GroupDocs.Conversion for .NET
 - file conversion using GroupDocs
-
+type: docs
 ---
-
-
 # How to Convert IFC Files to JPG Using GroupDocs.Conversion for .NET
 
 ## Introduction

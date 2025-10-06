@@ -4,8 +4,8 @@
 "title": "XLT-bestanden naar TXT converteren met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/text-markup-conversion/convert-xlt-to-txt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # XLT-bestanden naar TXT converteren met GroupDocs.Conversion voor .NET
 
 ## Invoering

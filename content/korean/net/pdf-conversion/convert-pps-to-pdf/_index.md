@@ -5,8 +5,8 @@
 "title": "PPS를 PDF로 변환"
 "url": "/ko/net/pdf-conversion/convert-pps-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # PPS를 PDF로 변환
 
 ## 소개

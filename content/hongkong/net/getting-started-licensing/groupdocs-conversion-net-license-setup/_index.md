@@ -4,8 +4,8 @@
 "title": "如何設定和套用 GroupDocs.Conversion .NET 授權－逐步指南"
 "url": "/zh-hant/net/getting-started-licensing/groupdocs-conversion-net-license-setup/"
 "weight": 1
+type: docs
 ---
-
 # 綜合教學：設定 GroupDocs.Conversion .NET 許可證
 
 ## 介紹

@@ -3,8 +3,8 @@
 "title": "Handledningar för CSV- och strukturerad databehandling för GroupDocs.Conversion .NET"
 "url": "/sv/net/csv-structured-data-processing/"
 "weight": 15
+type: docs
 ---
-
 # Handledningar för CSV- och strukturerad databehandling för GroupDocs.Conversion .NET
 
 Våra handledningar om CSV- och strukturerad data ger detaljerad vägledning för hantering av tabell- och datafokuserade format i .NET-applikationer. Dessa praktiska guider visar hur man konverterar CSV-filer till JSON- och XML-format, transformerar CSV till olika dokumenttyper, anger avgränsare och kodningsalternativ, konverterar datum- och tidsdata på lämpligt sätt, hanterar rubriker och fältnamn, bevarar datatyper under konvertering och implementerar massdatatransformationsoperationer. Varje handledning innehåller kompletta C#-kodexempel för scenarier för dataformatkonvertering, vilket hjälper dig att bygga applikationer som effektivt kan överbrygga rådataformat och läsbara dokument.

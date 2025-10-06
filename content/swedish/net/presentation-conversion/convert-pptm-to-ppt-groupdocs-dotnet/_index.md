@@ -4,8 +4,8 @@
 "title": "Konvertera PPTM till PPT med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/presentation-conversion/convert-pptm-to-ppt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera PPTM till PPT med GroupDocs.Conversion för .NET: En omfattande guide
 
 I affärsvärlden är PowerPoint-presentationer viktiga verktyg. Men alla har inte tillgång till de senaste versionerna av Microsoft Office, vilket kräver konverteringar från PPTM (PowerPoint-filer med makron) till PPT (äldre PowerPoint-format). Den här guiden guidar dig genom att använda GroupDocs.Conversion för .NET för att smidigt konvertera PPTM-filer till PPT-format.

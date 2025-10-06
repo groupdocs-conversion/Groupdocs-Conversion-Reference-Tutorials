@@ -4,8 +4,8 @@
 "title": "การจัดการเอกสารข้อความหลักใน Java โดยใช้ GroupDocs.Conversion เพื่อการเข้ารหัสที่ราบรื่นและการแปลง PDF"
 "url": "/th/java/word-processing-formats/master-text-document-handling-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # การเรียนรู้การจัดการเอกสารข้อความใน Java ด้วย GroupDocs.Conversion
 
 ## การแนะนำ

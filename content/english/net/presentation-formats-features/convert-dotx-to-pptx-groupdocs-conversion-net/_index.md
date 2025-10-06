@@ -8,10 +8,8 @@ keywords:
 - convert DOTX to PPTX
 - GroupDocs.Conversion .NET
 - automate presentation creation
-
+type: docs
 ---
-
-
 # How to Convert DOTX Files to PPTX Using GroupDocs.Conversion for .NET
 
 ## Introduction

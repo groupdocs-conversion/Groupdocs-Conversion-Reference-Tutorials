@@ -4,8 +4,8 @@
 "title": "Omfattande guide till att konvertera ODS till DOC med GroupDocs.Conversion för .NET"
 "url": "/sv/net/spreadsheet-formats-features/master-ods-to-doc-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Omfattande guide: Konvertera ODS till DOC med GroupDocs.Conversion för .NET
 
 Vill du smidigt konvertera dina OpenDocument-kalkylbladsfiler (ODS) till Microsoft Word-dokument? **GroupDocs.Conversion för .NET**, blir denna uppgift enkel. Den här omfattande guiden tar dig igenom processen steg för steg.

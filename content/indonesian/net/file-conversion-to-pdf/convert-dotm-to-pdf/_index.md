@@ -5,8 +5,8 @@
 "title": "Konversi Template Word DOTM (Makro) ke PDF"
 "url": "/id/net/file-conversion-to-pdf/convert-dotm-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Konversi Template Word DOTM (Makro) ke PDF
 
 ## Perkenalan

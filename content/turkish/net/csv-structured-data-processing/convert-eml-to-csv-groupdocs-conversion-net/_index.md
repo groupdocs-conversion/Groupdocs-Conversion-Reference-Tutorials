@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak EML'yi CSV'ye Verimli Şekilde Dönüştürün - Eksiksiz Bir Kılavuz"
 "url": "/tr/net/csv-structured-data-processing/convert-eml-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak EML'yi CSV'ye Verimli Şekilde Dönüştürün
 
 ## giriiş

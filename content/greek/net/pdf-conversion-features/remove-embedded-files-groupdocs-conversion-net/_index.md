@@ -4,8 +4,8 @@
 "title": "Πώς να αφαιρέσετε ενσωματωμένα αρχεία από PDF χρησιμοποιώντας το GroupDocs.Conversion .NET για βελτιστοποιημένη διαχείριση εγγράφων"
 "url": "/el/net/pdf-conversion-features/remove-embedded-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να αφαιρέσετε ενσωματωμένα αρχεία από PDF χρησιμοποιώντας το GroupDocs.Conversion .NET για βελτιστοποιημένη διαχείριση εγγράφων
 
 ## Εισαγωγή

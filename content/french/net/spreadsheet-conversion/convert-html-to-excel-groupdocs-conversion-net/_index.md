@@ -4,8 +4,8 @@
 "title": "Comment convertir du HTML en Excel XLS avec GroupDocs.Conversion pour .NET"
 "url": "/fr/net/spreadsheet-conversion/convert-html-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir du HTML en Excel (XLS) avec GroupDocs.Conversion pour .NET : guide étape par étape
 
 ## Introduction

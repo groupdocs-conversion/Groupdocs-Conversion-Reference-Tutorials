@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion ile .NET'te DOCM Dönüşümünde Ustalaşın - Kapsamlı Bir Kılavuz"
 "url": "/tr/net/word-processing-formats-features/groupdocs-conversion-dotnet-docm/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion ile .NET'te DOCM Dönüşümünde Ustalaşma
 
 ## giriiş

@@ -5,8 +5,8 @@
 "title": "Chuyển đổi tin nhắn email EMLX Apple Mail sang PDF"
 "url": "/vi/net/convert-files-to-pdf/convert-emlx-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # Chuyển đổi tin nhắn email EMLX Apple Mail sang PDF
 
 ## Giới thiệu

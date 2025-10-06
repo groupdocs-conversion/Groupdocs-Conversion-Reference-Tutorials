@@ -4,8 +4,8 @@
 "title": "Hur man konverterar XLSX-filer med dolda ark till PDF med GroupDocs.Conversion för .NET"
 "url": "/sv/net/spreadsheet-formats-features/convert-xlsx-hidden-sheets-to-pdf-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar XLSX-filer med dolda ark till PDF med GroupDocs.Conversion för .NET
 
 ## Introduktion

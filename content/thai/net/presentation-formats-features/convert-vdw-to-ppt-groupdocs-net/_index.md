@@ -4,8 +4,8 @@
 "title": "แปลง Visio Web Drawings เป็น PowerPoint อย่างมีประสิทธิภาพโดยใช้ GroupDocs สำหรับนักพัฒนา .NET"
 "url": "/th/net/presentation-formats-features/convert-vdw-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # การแปลง Visio Web Drawings (VDW) เป็นงานนำเสนอ PowerPoint อย่างมีประสิทธิภาพโดยใช้ GroupDocs สำหรับนักพัฒนา .NET
 
 ## การแนะนำ

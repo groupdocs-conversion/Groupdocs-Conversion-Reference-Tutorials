@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके EPUB फ़ाइलों को कैसे लोड करें एक चरण-दर-चरण मार्गदर्शिका"
 "url": "/hi/net/loading-from-local-sources/load-epub-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके EPUB फ़ाइल कैसे लोड करें: एक व्यापक मार्गदर्शिका
 
 ## परिचय

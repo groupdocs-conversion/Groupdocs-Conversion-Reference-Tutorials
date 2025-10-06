@@ -4,8 +4,8 @@
 "title": "Så här laddar du EMF-filer med GroupDocs.Conversion för .NET - En omfattande guide"
 "url": "/sv/net/image-formats-features/load-emf-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Så här laddar du EMF-filer med GroupDocs.Conversion för .NET: En omfattande guide
 
 ## Introduktion

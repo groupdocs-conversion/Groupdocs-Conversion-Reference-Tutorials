@@ -8,10 +8,8 @@ keywords:
 - convert XPS to DOCX
 - GroupDocs.Conversion for .NET
 - document conversion .NET
-
+type: docs
 ---
-
-
 # How to Convert XPS to DOCX with GroupDocs.Conversion for .NET
 
 ## Introduction

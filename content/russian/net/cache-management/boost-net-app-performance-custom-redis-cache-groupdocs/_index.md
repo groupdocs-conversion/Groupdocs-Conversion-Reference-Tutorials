@@ -4,8 +4,8 @@
 "title": "Повышение производительности приложений .NET&#58; реализация пользовательского кэша Redis с помощью GroupDocs.Conversion"
 "url": "/ru/net/cache-management/boost-net-app-performance-custom-redis-cache-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Повысьте производительность вашего .NET-приложения с помощью пользовательского кэширования Redis с использованием GroupDocs.Conversion
 
 ## Введение

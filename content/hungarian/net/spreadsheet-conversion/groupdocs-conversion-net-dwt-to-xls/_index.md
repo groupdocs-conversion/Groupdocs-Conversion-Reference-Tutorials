@@ -4,8 +4,8 @@
 "title": "DWT hatékony konvertálása XLS-be – Átfogó útmutató a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/spreadsheet-conversion/groupdocs-conversion-net-dwt-to-xls/"
 "weight": 1
+type: docs
 ---
-
 # DWT hatékony konvertálása XLS-be: Átfogó útmutató a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

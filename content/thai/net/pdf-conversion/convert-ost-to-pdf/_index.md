@@ -5,8 +5,8 @@
 "title": "แปลง OST เป็น PDF"
 "url": "/th/net/pdf-conversion/convert-ost-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # แปลง OST เป็น PDF
 
 ## การแนะนำ

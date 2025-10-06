@@ -4,8 +4,8 @@
 "title": "Visio Şablonunu (.vss) GroupDocs.Conversion for .NET Kullanarak CSV'ye Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/csv-structured-data-processing/convert-visio-stencil-vss-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Visio Şablonunu (.vss) GroupDocs.Conversion for .NET Kullanarak CSV'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

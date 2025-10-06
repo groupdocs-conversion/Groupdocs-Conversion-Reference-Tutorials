@@ -8,10 +8,8 @@ keywords:
 - SVGZ to PDF conversion
 - GroupDocs.Conversion for .NET
 - document conversion with C#
-
+type: docs
 ---
-
-
 # Convert SVGZ to PDF with GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

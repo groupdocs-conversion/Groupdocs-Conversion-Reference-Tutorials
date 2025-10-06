@@ -4,8 +4,8 @@
 "title": "Conversion efficace de fichiers TSV en PDF avec GroupDocs.Conversion en C# | Guide étape par étape"
 "url": "/fr/net/pdf-conversion/tsv-to-pdf-conversion-groupdocs-csharp-guide/"
 "weight": 1
+type: docs
 ---
-
 # Conversion efficace de fichiers TSV en PDF avec GroupDocs.Conversion en C#
 
 ## Introduction

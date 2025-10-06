@@ -8,10 +8,8 @@ keywords:
 - DWFX to XLSX conversion
 - GroupDocs.Conversion for .NET
 - file conversion using GroupDocs
-
+type: docs
 ---
-
-
 # Efficient DWFX to XLSX Conversion with GroupDocs.Conversion for .NET: A Developer's Guide
 
 ## Introduction

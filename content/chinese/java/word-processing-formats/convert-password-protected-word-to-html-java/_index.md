@@ -4,8 +4,8 @@
 "title": "如何使用 Java 将受密码保护的 Word 文档转换为 HTML（分步指南）"
 "url": "/zh/java/word-processing-formats/convert-password-protected-word-to-html-java/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 Java 将受密码保护的 Word 文档转换为 HTML
 
 ## 介绍

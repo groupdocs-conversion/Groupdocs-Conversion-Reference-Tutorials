@@ -4,8 +4,8 @@
 "title": "高效的 PowerPoint 转换 &#58; 使用 GroupDocs.Conversion for .NET 将 PPT 转换为 PPTX"
 "url": "/zh/net/presentation-formats-features/convert-ppt-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 高效的 PowerPoint 转换：使用 GroupDocs.Conversion for .NET 将 PPT 转换为 PPTX
 
 ## 介绍

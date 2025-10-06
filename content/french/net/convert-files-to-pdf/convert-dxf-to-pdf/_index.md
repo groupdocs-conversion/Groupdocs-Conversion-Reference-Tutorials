@@ -5,8 +5,8 @@
 "title": "Convertir des fichiers de dessin DXF CAD Exchange en PDF"
 "url": "/fr/net/convert-files-to-pdf/convert-dxf-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # Convertir des fichiers de dessin DXF CAD Exchange en PDF
 
 ## Introduction

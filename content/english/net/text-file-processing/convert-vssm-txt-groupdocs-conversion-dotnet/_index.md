@@ -8,10 +8,8 @@ keywords:
 - convert VSSM to TXT
 - GroupDocs.Conversion for .NET
 - text file processing
-
+type: docs
 ---
-
-
 # Comprehensive Guide: Convert VSSM to TXT Using GroupDocs.Conversion for .NET
 
 ## Introduction

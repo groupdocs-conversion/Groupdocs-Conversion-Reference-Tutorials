@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके GIF को PowerPoint प्रस्तुतियों में कनवर्ट करें - चरण-दर-चरण मार्गदर्शिका"
 "url": "/hi/net/presentation-formats-features/convert-gifs-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके GIF को PowerPoint प्रस्तुतियों में परिवर्तित करें
 
 ## परिचय

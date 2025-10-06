@@ -4,8 +4,8 @@
 "title": "كيفية تحويل DOTX إلى PPT باستخدام GroupDocs.Conversion لـ .NET - دليل خطوة بخطوة"
 "url": "/ar/net/presentation-formats-features/convert-dotx-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل DOTX إلى PPT باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

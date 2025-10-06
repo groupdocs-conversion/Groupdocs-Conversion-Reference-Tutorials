@@ -4,8 +4,8 @@
 "title": "Převod souborů LaTeX (TEX) do tabulek Excelu pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/spreadsheet-formats-features/convert-tex-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů LaTeX (TEX) do tabulek Excelu pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

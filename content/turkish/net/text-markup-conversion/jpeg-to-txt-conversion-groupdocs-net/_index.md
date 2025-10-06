@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion'ı Kullanarak Etkili JPEG'den TXT'ye Dönüştürme"
 "url": "/tr/net/text-markup-conversion/jpeg-to-txt-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak Etkili JPEG'den TXT'ye Dönüştürme
 
 ## giriiş

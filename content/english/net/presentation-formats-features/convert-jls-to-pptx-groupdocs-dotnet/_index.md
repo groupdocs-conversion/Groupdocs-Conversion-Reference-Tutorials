@@ -8,10 +8,8 @@ keywords:
 - Convert JLS to PPTX
 - GroupDocs.Conversion for .NET
 - Document conversion in .NET
-
+type: docs
 ---
-
-
 # Efficient Guide: Convert JLS to PPTX Using GroupDocs.Conversion for .NET
 
 ## Introduction

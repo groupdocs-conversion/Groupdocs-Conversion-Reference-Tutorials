@@ -8,10 +8,8 @@ keywords:
 - OXPS to TEX conversion
 - GroupDocs.Conversion for .NET
 - .NET document processing
-
+type: docs
 ---
-
-
 # Convert OXPS to TEX with GroupDocs.Conversion for .NET
 
 ## Introduction

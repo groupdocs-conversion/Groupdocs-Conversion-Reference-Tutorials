@@ -4,8 +4,8 @@
 "title": "WebP JPG-vé konvertálása a GroupDocs.Conversion használatával .NET-ben – Teljes körű útmutató"
 "url": "/hu/net/image-conversion/webp-to-jpg-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Képkonverzió elsajátítása: WebP JPG-vé konvertálása a GroupDocs.Conversion használatával .NET-ben
 
 ## Bevezetés

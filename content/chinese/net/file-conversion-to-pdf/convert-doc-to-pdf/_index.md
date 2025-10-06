@@ -5,8 +5,8 @@
 "title": "将 DOC Word 文档转换为 PDF"
 "url": "/zh/net/file-conversion-to-pdf/convert-doc-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # 将 DOC Word 文档转换为 PDF
 
 ## 介绍

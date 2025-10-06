@@ -8,10 +8,8 @@ keywords:
 - PDF to DOC conversion
 - GroupDocs.Conversion for .NET
 - automate document conversion
-
+type: docs
 ---
-
-
 # Efficient PDF to DOC Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

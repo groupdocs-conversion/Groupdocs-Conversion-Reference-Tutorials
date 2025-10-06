@@ -4,8 +4,8 @@
 "title": "隱藏 PDF 中的註解 &#58; 使用 GroupDocs.Conversion for .NET 將 PPT 轉換為 PDF"
 "url": "/zh-hant/net/pdf-conversion-features/convert-presentation-pdf-hide-comments-net/"
 "weight": 1
+type: docs
 ---
-
 # 隱藏 PDF 中的註解：使用 GroupDocs.Conversion for .NET 將 PPT 轉換為 PDF
 
 ## 介紹

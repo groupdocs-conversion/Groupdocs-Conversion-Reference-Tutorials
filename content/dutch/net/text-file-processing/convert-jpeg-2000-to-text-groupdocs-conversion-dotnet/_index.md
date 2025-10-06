@@ -4,8 +4,8 @@
 "title": "JPEG 2000 naar tekst converteren met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/text-file-processing/convert-jpeg-2000-to-text-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # JPEG 2000-bestanden converteren naar tekst met GroupDocs.Conversion voor .NET
 
 ## Invoering

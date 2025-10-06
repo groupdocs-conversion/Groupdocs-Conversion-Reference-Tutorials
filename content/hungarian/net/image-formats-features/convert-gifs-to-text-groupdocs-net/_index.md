@@ -4,8 +4,8 @@
 "title": "GIF-ek szövegfájlokká konvertálása a GroupDocs for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-formats-features/convert-gifs-to-text-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GIF-ek szövegfájlokká konvertálása a GroupDocs for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

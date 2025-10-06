@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion'ı Kullanarak WMZ'yi PPT'ye Verimli Şekilde Dönüştürün"
 "url": "/tr/net/presentation-conversion/convert-wmz-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak WMZ'yi PPT'ye Verimli Şekilde Dönüştürün
 
 ## giriiş

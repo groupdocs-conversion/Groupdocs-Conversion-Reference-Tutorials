@@ -5,8 +5,8 @@
 "title": "GIF-afbeeldingen naar PDF converteren"
 "url": "/nl/net/convert-files-to-pdf/convert-gif-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # GIF-afbeeldingen naar PDF converteren
 
 ## Invoering

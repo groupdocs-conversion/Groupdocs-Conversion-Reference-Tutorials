@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion Java API 將 Word 轉換為 Excel 的簡易指南"
 "url": "/zh-hant/java/word-processing-formats/convert-word-to-excel-groupdocs-java-guide/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion Java 將 Word 轉換為 Excel：綜合指南
 
 ## 介紹

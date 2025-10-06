@@ -8,10 +8,8 @@ keywords:
 - convert PPTM to TXT
 - GroupDocs.Conversion for .NET
 - PowerPoint to text conversion
-
+type: docs
 ---
-
-
 # Convert PPTM to TXT Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

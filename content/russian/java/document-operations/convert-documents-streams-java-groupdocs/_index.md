@@ -4,8 +4,8 @@
 "title": "Конвертация документов из потоков в Java с помощью GroupDocs.Conversion"
 "url": "/ru/java/document-operations/convert-documents-streams-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Конвертация документов из потоков в Java с помощью GroupDocs.Conversion
 
 ## Введение

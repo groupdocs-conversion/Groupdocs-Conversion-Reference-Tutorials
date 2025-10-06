@@ -4,8 +4,8 @@
 "title": "VSD konvertálása JPG-vé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-vsd-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # VSD fájlok konvertálása JPG formátumba a GroupDocs.Conversion for .NET használatával
 
 **Visio rajzok egyszerű képpé konvertálása**

@@ -4,8 +4,8 @@
 "title": "GIF SVG-vé konvertálása a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-gif-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GIF-fájl SVG-fájllá konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

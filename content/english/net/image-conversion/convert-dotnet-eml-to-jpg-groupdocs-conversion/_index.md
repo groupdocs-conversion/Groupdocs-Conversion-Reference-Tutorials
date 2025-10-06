@@ -8,10 +8,8 @@ keywords:
 - .NET EML to JPG conversion
 - GroupDocs.Conversion for .NET
 - EML file conversion
-
+type: docs
 ---
-
-
 # Convert .NET EML Files to JPG Using GroupDocs: A Complete Guide
 
 ## Introduction

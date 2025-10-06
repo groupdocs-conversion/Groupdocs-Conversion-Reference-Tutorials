@@ -8,10 +8,8 @@ keywords:
 - HTML to TXT conversion
 - GroupDocs.Conversion for .NET
 - Convert HTML files
-
+type: docs
 ---
-
-
 # Convert HTML to TXT Using GroupDocs.Conversion for .NET
 
 ## Introduction

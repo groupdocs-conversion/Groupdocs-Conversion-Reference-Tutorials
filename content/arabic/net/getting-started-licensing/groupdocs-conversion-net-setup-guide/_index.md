@@ -4,8 +4,8 @@
 "title": "دليل شامل لإعداد وتنفيذ GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/getting-started-licensing/groupdocs-conversion-net-setup-guide/"
 "weight": 1
+type: docs
 ---
-
 # دليل شامل لـ GroupDocs.Conversion لـ .NET: الإعداد والتنفيذ
 
 ## مقدمة

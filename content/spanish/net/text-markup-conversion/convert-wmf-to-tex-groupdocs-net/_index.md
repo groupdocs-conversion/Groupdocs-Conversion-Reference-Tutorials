@@ -4,8 +4,8 @@
 "title": "Convertir WMF a TEX con GroupDocs.Conversion para .NET&#58; guía paso a paso"
 "url": "/es/net/text-markup-conversion/convert-wmf-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convierta archivos WMF a TEX con GroupDocs.Conversion para .NET
 
 ## Introducción

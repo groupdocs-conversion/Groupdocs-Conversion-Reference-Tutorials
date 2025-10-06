@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs 在 .NET 中將 OTG 轉換為 XLSX 的綜合指南"
 "url": "/zh-hant/net/spreadsheet-formats-features/convert-otg-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何在 .NET 中使用 GroupDocs.Conversion 將 OTG 檔案轉換為 XLSX：逐步指南
 
 ## 介紹

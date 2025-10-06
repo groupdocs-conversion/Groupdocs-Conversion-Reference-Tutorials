@@ -4,8 +4,8 @@
 "title": "Làm chủ chuyển đổi email .NET với GroupDocs&#58; Hướng dẫn toàn cầu hóa dành cho nhà phát triển"
 "url": "/vi/net/email-formats-features/master-net-email-conversion-groupdocs-globalization-guide/"
 "weight": 1
+type: docs
 ---
-
 # Làm chủ chuyển đổi email .NET với GroupDocs: Hướng dẫn toàn cầu hóa toàn diện
 
 ## Giới thiệu

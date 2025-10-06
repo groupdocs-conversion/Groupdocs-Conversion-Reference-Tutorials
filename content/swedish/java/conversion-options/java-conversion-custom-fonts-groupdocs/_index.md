@@ -4,8 +4,8 @@
 "title": "Java-dokumentkonvertering med anpassade teckensnitt med GroupDocs.Conversion"
 "url": "/sv/java/conversion-options/java-conversion-custom-fonts-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Java-dokumentkonvertering med anpassade teckensnitt med GroupDocs.Conversion
 
 dagens digitala värld är det avgörande att konvertera dokument samtidigt som de bibehåller sin ursprungliga design och layout. Oavsett om du förbereder en presentation för en klient eller arkiverar viktiga filer kan det vara utmanande att säkerställa att teckensnitten är konsekventa över olika plattformar. Den här handledningen guidar dig genom hur du använder GroupDocs.Conversion för Java för att konvertera presentationer till PDF-filer med anpassade teckensnittsersättningar, vilket säkerställer visuell integritet genom hela processen.

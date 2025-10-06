@@ -4,8 +4,8 @@
 "title": "Comment convertir des pages spécifiques d'un document au format PDF à l'aide de GroupDocs.Conversion pour Java"
 "url": "/fr/java/pdf-conversion/convert-specific-pages-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir des pages spécifiques d'un document au format PDF à l'aide de GroupDocs.Conversion pour Java
 
 À l'ère du numérique, convertir efficacement des documents est crucial pour les entreprises comme pour les particuliers. Que vous souhaitiez partager des sections spécifiques d'un rapport ou compiler des pages sélectionnées dans un seul fichier PDF, disposer des bons outils peut faire toute la différence. Ce guide vous guidera dans leur utilisation. **GroupDocs.Conversion pour Java** Pour convertir des pages spécifiques d'un document au format PDF. C'est parti !

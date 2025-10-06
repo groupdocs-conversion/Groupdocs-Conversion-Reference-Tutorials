@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert JP2 to TXT Using GroupDocs.Conversion in C#: A Comprehensive Guide
 
 ## Introduction

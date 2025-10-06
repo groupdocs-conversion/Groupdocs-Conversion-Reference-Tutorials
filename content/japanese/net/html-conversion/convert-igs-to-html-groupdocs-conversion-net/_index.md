@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して IGS を HTML に変換する手順"
 "url": "/ja/net/html-conversion/convert-igs-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して IGS ファイルを HTML に変換する方法
 
 ## 導入

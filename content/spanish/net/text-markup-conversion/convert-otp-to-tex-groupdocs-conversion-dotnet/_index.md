@@ -4,8 +4,8 @@
 "title": "Convertir OTP a TEX con GroupDocs.Conversion para .NET&#58; guía paso a paso"
 "url": "/es/net/text-markup-conversion/convert-otp-to-tex-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertir OTP a TEX con GroupDocs.Conversion para .NET: guía paso a paso
 
 ## Introducción

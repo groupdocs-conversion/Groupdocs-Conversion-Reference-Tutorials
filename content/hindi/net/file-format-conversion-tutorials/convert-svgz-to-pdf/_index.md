@@ -5,8 +5,8 @@
 "title": "SVGZ को PDF में बदलें"
 "url": "/hi/net/file-format-conversion-tutorials/convert-svgz-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # SVGZ को PDF में बदलें
 
 ## परिचय

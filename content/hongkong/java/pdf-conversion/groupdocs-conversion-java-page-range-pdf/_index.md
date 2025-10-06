@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion Java API 將特定頁面範圍轉換為 PDF"
 "url": "/zh-hant/java/pdf-conversion/groupdocs-conversion-java-page-range-pdf/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion Java API 將特定頁面範圍轉換為 PDF
 
 在當今的數位時代，高效管理文件對企業和個人都至關重要。將報告的特定部分轉換為 PDF 等可移植格式可以節省時間和資源。本教程將指導您使用 **GroupDocs.轉換 Java** 將任意文件中指定範圍的頁面轉換為 PDF 檔案。最終，您將掌握在專案中實現這項強大功能所需的所有技能。

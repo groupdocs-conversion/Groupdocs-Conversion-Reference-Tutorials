@@ -4,8 +4,8 @@
 "title": "تحويل JPEG إلى LaTeX (TEX) باستخدام GroupDocs.Conversion لـ .NET - دليل شامل"
 "url": "/ar/net/image-conversion/convert-jpeg-to-latex-with-groupdocs-conversion-for-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل JPEG إلى LaTeX (TEX) باستخدام GroupDocs.Conversion لـ .NET: دليل شامل
 
 ## مقدمة

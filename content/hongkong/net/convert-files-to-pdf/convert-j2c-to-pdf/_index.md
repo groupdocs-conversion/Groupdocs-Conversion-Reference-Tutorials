@@ -5,8 +5,8 @@
 "title": "將 J2C JPEG-LS 壓縮影像轉換為 PDF"
 "url": "/zh-hant/net/convert-files-to-pdf/convert-j2c-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # 將 J2C JPEG-LS 壓縮影像轉換為 PDF
 
 ## 介紹

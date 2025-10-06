@@ -8,10 +8,8 @@ keywords:
 - Convert DOT to XLSX .NET
 - GroupDocs.Conversion for .NET tutorial
 - file format conversion in .NET
-
+type: docs
 ---
-
-
 # Convert DOT to XLSX in .NET Using GroupDocs.Conversion
 
 ## Introduction

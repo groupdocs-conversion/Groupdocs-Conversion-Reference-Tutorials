@@ -4,8 +4,8 @@
 "title": "JPC hatékony PPT-vé konvertálása a GroupDocs.Conversion for .NET segítségével | Prezentációk konvertálási útmutató"
 "url": "/hu/net/presentation-formats-features/convert-jpc-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # JPC PPT-vé konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

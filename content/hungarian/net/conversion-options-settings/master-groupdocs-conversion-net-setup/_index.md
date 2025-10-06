@@ -4,8 +4,8 @@
 "title": "Fő dokumentumkonvertálás beállítása .NET-ben a GroupDocs.Conversion használatával"
 "url": "/hu/net/conversion-options-settings/master-groupdocs-conversion-net-setup/"
 "weight": 1
+type: docs
 ---
-
 # Dokumentumok konvertálásának fő könyvtárának beállítása a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

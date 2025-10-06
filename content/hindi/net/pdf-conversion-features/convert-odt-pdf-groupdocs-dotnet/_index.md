@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके कुशल ODT से PDF रूपांतरण&#58; मार्गदर्शिका"
 "url": "/hi/net/pdf-conversion-features/convert-odt-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # कुशल ODT से PDF रूपांतरण: .NET के लिए GroupDocs.Conversion का उपयोग करके मार्गदर्शिका
 
 ## परिचय

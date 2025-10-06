@@ -5,8 +5,8 @@
 "title": "将 VSDM 转换为 PDF"
 "url": "/zh/net/file-format-conversion-tutorials/convert-vsdm-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # 将 VSDM 转换为 PDF
 
 ## 介绍

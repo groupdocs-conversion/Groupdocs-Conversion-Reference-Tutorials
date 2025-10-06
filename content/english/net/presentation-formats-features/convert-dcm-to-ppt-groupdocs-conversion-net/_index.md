@@ -8,10 +8,8 @@ keywords:
 - convert DCM to PPT
 - GroupDocs.Conversion .NET
 - DICOM file conversion
-
+type: docs
 ---
-
-
 # How to Convert DCM to PPT Using GroupDocs.Conversion .NET
 
 ## Introduction

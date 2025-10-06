@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して DOTM を DOC に変換する包括的なガイド"
 "url": "/ja/net/word-processing-formats-features/convert-dotm-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して DOTM を DOC に変換する方法
 
 Microsoft Wordのマクロ有効テンプレート（.dotm）を標準のWord文書（.doc）に変換するのに苦労していませんか？この包括的なガイドでは、 **GroupDocs.Conversion for .NET** ライブラリを使えば、このプロセスを簡単に効率化できます。このチュートリアルを終える頃には、ファイル形式を簡単に変換できるようになるでしょう。

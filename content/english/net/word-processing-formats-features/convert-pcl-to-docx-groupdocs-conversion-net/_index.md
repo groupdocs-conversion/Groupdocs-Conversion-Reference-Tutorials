@@ -8,10 +8,8 @@ keywords:
 - convert PCL to DOCX
 - GroupDocs.Conversion for .NET
 - PCL file conversion
-
+type: docs
 ---
-
-
 # How to Convert PCL Files to DOCX with GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Convertire PPSM in LaTeX utilizzando GroupDocs.Conversion per .NET&#58; una guida passo passo"
 "url": "/it/net/presentation-formats-features/convert-ppsm-to-latex-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Convertire PPSM in LaTeX utilizzando GroupDocs.Conversion per .NET: una guida passo passo
 
 ## Introduzione

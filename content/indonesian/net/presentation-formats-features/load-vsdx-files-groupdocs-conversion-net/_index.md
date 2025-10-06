@@ -4,8 +4,8 @@
 "title": "Cara Memuat dan Mengonversi File VSDX Menggunakan GroupDocs.Conversion .NET"
 "url": "/id/net/presentation-formats-features/load-vsdx-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Memuat dan Mengonversi File VSDX Menggunakan GroupDocs.Conversion .NET
 
 ## Perkenalan

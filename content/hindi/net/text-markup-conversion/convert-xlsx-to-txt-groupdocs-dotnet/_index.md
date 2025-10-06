@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs का उपयोग करके कुशल XLSX से TXT रूपांतरण"
 "url": "/hi/net/text-markup-conversion/convert-xlsx-to-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion के साथ XLSX को TXT में कुशलतापूर्वक परिवर्तित करें
 
 ## परिचय

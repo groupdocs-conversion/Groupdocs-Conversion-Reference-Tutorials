@@ -8,10 +8,8 @@ keywords:
 - convert VSD to HTML
 - GroupDocs Conversion .NET
 - VSD to HTML conversion guide
-
+type: docs
 ---
-
-
 # Convert VSD to HTML Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

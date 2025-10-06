@@ -4,8 +4,8 @@
 "title": "MSG konvertálása PPTX-re a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/presentation-conversion/convert-msg-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # MSG fájlok konvertálása PPTX formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

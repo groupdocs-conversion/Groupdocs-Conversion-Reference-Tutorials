@@ -5,8 +5,8 @@
 "title": "DWF CAD ファイルを PDF に変換する"
 "url": "/ja/net/file-conversion-to-pdf/convert-dwf-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # DWF CAD ファイルを PDF に変換する
 
 ## 導入

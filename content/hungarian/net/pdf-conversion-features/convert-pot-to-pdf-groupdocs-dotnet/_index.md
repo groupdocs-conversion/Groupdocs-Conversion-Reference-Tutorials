@@ -4,8 +4,8 @@
 "title": "PowerPoint sablon (.pot) konvertálása PDF-be a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/pdf-conversion-features/convert-pot-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # PowerPoint sablonfájl (.pot) PDF-fájllá konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

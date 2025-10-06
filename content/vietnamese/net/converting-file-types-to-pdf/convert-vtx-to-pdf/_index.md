@@ -5,8 +5,8 @@
 "title": "Chuyển đổi VTX sang PDF"
 "url": "/vi/net/converting-file-types-to-pdf/convert-vtx-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # Chuyển đổi VTX sang PDF
 
 ## Giới thiệu

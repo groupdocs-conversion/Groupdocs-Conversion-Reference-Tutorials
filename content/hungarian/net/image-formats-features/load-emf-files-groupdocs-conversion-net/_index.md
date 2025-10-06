@@ -4,8 +4,8 @@
 "title": "EMF fájlok betöltése a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-formats-features/load-emf-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # EMF fájlok betöltése a GroupDocs.Conversion for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

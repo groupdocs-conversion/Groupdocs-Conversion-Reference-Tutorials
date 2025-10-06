@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET ile VDX'i PSD'ye Dönüştürme Adım Adım Kılavuz"
 "url": "/tr/net/image-conversion/convert-vdx-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion ile VDX'i PSD'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "Converteer HTML naar JPEG met GroupDocs.Conversion voor .NET&#58; een handleiding voor ontwikkelaars"
 "url": "/nl/net/image-conversion/convert-htm-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer HTML naar JPEG met GroupDocs.Conversion voor .NET: een handleiding voor ontwikkelaars
 
 ## Invoering

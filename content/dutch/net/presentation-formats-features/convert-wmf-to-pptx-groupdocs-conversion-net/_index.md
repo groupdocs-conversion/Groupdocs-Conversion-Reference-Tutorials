@@ -4,8 +4,8 @@
 "title": "Converteer WMF efficiënt naar PPTX met GroupDocs.Conversion .NET API"
 "url": "/nl/net/presentation-formats-features/convert-wmf-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer WMF efficiënt naar PPTX met GroupDocs.Conversion .NET
 
 ## Invoering

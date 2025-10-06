@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for Java를 사용하여 암호로 보호된 Word 문서를 Excel 스프레드시트로 변환하는 방법"
 "url": "/ko/java/spreadsheet-formats/convert-password-docs-to-spreadsheets-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Java용 GroupDocs.Conversion을 사용하여 암호로 보호된 문서를 변환하는 방법
 
 ## 소개

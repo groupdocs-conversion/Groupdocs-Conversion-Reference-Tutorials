@@ -4,8 +4,8 @@
 "title": "VST konvertálása PNG-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-vst-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # VST konvertálása PNG-vé a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Opanuj podmianę czcionek PDF w .NET za pomocą GroupDocs.Conversion&#58; Kompleksowy przewodnik"
 "url": "/pl/net/font-handling-substitution/groupdocs-conversion-pdf-font-substitution-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Opanuj podmianę czcionek PDF w .NET za pomocą GroupDocs.Conversion
 
 Zapewnienie spójnej typografii podczas konwersji dokumentu jest kluczowe. Ten kompleksowy przewodnik pokazuje, jak używać GroupDocs.Conversion dla .NET, aby skutecznie zarządzać zamianami czcionek podczas konwersji dokumentów do formatu PDF.

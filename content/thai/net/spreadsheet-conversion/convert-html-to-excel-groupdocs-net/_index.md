@@ -4,8 +4,8 @@
 "title": "แปลง HTML เป็น Excel โดยใช้ GroupDocs.Conversion สำหรับ .NET&#58; คู่มือฉบับสมบูรณ์"
 "url": "/th/net/spreadsheet-conversion/convert-html-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลง HTML เป็น Excel ด้วย GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

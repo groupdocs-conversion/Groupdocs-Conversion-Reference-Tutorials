@@ -4,8 +4,8 @@
 "title": "C#でGroupDocs.Conversionを使用してMPPをCSVに変換する - .NET開発者向けの簡単ガイド"
 "url": "/ja/net/spreadsheet-formats-features/convert-mpp-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # C#でGroupDocs.Conversionを使用してMPPファイルをCSVに変換する - .NET開発者向け簡単ガイド
 
 ## 導入

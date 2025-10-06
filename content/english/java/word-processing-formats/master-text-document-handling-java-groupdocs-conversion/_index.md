@@ -8,10 +8,8 @@ keywords:
 - text document handling in Java
 - GroupDocs.Conversion for Java
 - Java text file encoding
-
+type: docs
 ---
-
-
 # Mastering Text Document Handling in Java with GroupDocs.Conversion
 
 ## Introduction

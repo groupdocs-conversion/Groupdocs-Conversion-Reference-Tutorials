@@ -4,8 +4,8 @@
 "title": "Chuyển đổi ICO sang PNG trong .NET bằng GroupDocs&#58; Hướng dẫn từng bước"
 "url": "/vi/net/image-conversion/convert-ico-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi ICO sang PNG trong .NET bằng GroupDocs: Hướng dẫn từng bước
 
 ## Giới thiệu

@@ -5,8 +5,8 @@
 "title": "PLT를 PDF로 변환"
 "url": "/ko/net/pdf-conversion/convert-plt-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # PLT를 PDF로 변환
 
 ## 소개

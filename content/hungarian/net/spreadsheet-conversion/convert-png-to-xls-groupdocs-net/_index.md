@@ -4,8 +4,8 @@
 "title": "Átfogó útmutató a PNG konvertálásához Excelbe (XLS) a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/spreadsheet-conversion/convert-png-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató: PNG konvertálása Excelbe (XLS) a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

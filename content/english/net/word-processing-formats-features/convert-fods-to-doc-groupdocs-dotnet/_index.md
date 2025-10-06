@@ -8,10 +8,8 @@ keywords:
 - FODS to DOC conversion
 - GroupDocs.Conversion for .NET
 - convert FODS files
-
+type: docs
 ---
-
-
 # Convert FODS to DOC Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Cómo convertir DNG a PNG con GroupDocs.Conversion para .NET&#58; guía paso a paso"
 "url": "/es/net/image-conversion/convert-dng-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir DNG a PNG con GroupDocs.Conversion para .NET: guía paso a paso
 
 ## Introducción

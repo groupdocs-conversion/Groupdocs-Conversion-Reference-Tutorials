@@ -8,10 +8,8 @@ keywords:
 - Convert CDR to TEX
 - GroupDocs.Conversion for .NET
 - .NET CAD Conversion
-
+type: docs
 ---
-
-
 # Convert CDR Files to TEX Using GroupDocs.Conversion for .NET
 
 ## Introduction

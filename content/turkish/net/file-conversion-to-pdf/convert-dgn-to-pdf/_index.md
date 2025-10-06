@@ -5,8 +5,8 @@
 "title": "DGN CAD Dosyalarını PDF'ye Dönüştür"
 "url": "/tr/net/file-conversion-to-pdf/convert-dgn-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # DGN CAD Dosyalarını PDF'ye Dönüştür
 
 ## giriiş

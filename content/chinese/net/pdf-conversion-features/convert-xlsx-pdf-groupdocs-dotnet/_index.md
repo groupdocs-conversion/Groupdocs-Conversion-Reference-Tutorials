@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs for .NET 轻松将 XLSX 转换为 PDF | 分步指南"
 "url": "/zh/net/pdf-conversion-features/convert-xlsx-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs for .NET 轻松将 XLSX 转换为 PDF | 分步指南
 
 在当今的数字环境中，高效的数据转换至关重要。将 Excel 文件 (XLSX) 转换为 PDF 等通用格式可以简化工作流程并确保跨平台兼容性。本指南将指导您使用 **GroupDocs.Conversion for .NET** 高效地将 XLSX 文件转换为 PDF。

@@ -4,8 +4,8 @@
 "title": "BMP-TEX konvertálás elsajátítása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/convert-bmp-to-tex-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # BMP-TEX konvertálás elsajátítása a GroupDocs.Conversion for .NET használatával
 
 **Engedje szabadjára a dokumentumátalakítás erejét: BMP képek egyszerű konvertálása TEX formátumba**

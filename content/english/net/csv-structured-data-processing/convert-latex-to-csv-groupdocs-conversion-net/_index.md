@@ -8,10 +8,8 @@ keywords:
 - Convert LaTeX to CSV
 - GroupDocs.Conversion for .NET
 - .NET document conversion
-
+type: docs
 ---
-
-
 # How to Convert LaTeX Files to CSV Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Převod XLAM do DOC pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/word-processing-conversion/convert-xlam-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod XLAM do DOC pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

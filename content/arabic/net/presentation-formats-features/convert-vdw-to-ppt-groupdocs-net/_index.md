@@ -4,8 +4,8 @@
 "title": "تحويل رسومات الويب من Visio إلى PowerPoint بكفاءة باستخدام GroupDocs لمطوري .NET"
 "url": "/ar/net/presentation-formats-features/convert-vdw-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل رسومات الويب Visio (VDW) بكفاءة إلى عروض تقديمية PowerPoint باستخدام GroupDocs لمطوري .NET
 
 ## مقدمة

@@ -8,10 +8,8 @@ keywords:
 - convert XLTMs to PNG
 - GroupDocs.Conversion for .NET
 - file conversion in .NET
-
+type: docs
 ---
-
-
 # Convert XLTMs to PNG in .NET: A Complete Guide Using GroupDocs.Conversion
 
 ## Introduction

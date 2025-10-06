@@ -4,8 +4,8 @@
 "title": "Snadný převod PPS do TXT pomocí GroupDocs.Conversion pro .NET – podrobný návod"
 "url": "/cs/net/presentation-formats-features/convert-pps-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést soubory PPS do formátu TXT pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

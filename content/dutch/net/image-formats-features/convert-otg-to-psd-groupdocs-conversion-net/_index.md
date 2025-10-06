@@ -4,8 +4,8 @@
 "title": "Hoe u OTG-bestanden naar PSD converteert met GroupDocs.Conversion.NET&#58; een uitgebreide handleiding"
 "url": "/nl/net/image-formats-features/convert-otg-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OTG-bestanden naar PSD converteren met GroupDocs.Conversion .NET: een uitgebreide handleiding
 
 ## Invoering

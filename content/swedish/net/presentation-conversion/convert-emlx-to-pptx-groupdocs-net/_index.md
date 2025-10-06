@@ -4,8 +4,8 @@
 "title": "Konvertera EMLX till PPTX med GroupDocs.Conversion för .NET - Sömlös guide för konvertering av presentationer"
 "url": "/sv/net/presentation-conversion/convert-emlx-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera EMLX-filer till PPTX med GroupDocs.Conversion för .NET
 
 ## Introduktion

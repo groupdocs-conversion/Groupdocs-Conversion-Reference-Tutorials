@@ -4,8 +4,8 @@
 "title": "Cómo convertir XLSM a TXT con GroupDocs.Conversion para .NET | Guía paso a paso"
 "url": "/es/net/text-markup-conversion/convert-xlsm-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir XLSM a TXT con GroupDocs.Conversion para .NET | Guía paso a paso
 
 En el dinámico entorno empresarial actual, la transformación eficiente de datos y la compatibilidad son cruciales. Convertir archivos de un formato a otro puede optimizar los flujos de trabajo y mejorar la productividad. Este tutorial le guiará en la conversión de un archivo XLSM a formato TXT utilizando la potente biblioteca GroupDocs.Conversion para .NET.

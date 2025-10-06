@@ -4,8 +4,8 @@
 "title": "Hogyan konvertálhat FODS fájlokat PowerPoint formátumba a GroupDocs.Conversion for .NET használatával?"
 "url": "/hu/net/presentation-conversion/convert-fods-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhat FODS fájlt PowerPoint formátumba a GroupDocs.Conversion for .NET használatával?
 
 ## Bevezetés

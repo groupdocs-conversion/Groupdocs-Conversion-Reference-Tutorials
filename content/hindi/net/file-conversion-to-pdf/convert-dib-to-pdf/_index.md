@@ -5,8 +5,8 @@
 "title": "DIB छवियों को PDF में बदलें"
 "url": "/hi/net/file-conversion-to-pdf/convert-dib-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # DIB छवियों को PDF में बदलें
 
 ## परिचय

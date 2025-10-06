@@ -8,10 +8,8 @@ keywords:
 - Convert EMZ to DOC
 - GroupDocs.Conversion for .NET
 - EMZ to DOC conversion
-
+type: docs
 ---
-
-
 # Convert EMZ to DOC Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

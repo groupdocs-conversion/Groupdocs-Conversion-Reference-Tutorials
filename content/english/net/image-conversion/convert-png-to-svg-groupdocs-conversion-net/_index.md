@@ -8,10 +8,8 @@ keywords:
 - convert PNG to SVG .NET
 - GroupDocs.Conversion for .NET tutorial
 - PNG to SVG conversion using GroupDocs
-
+type: docs
 ---
-
-
 # Convert PNG to SVG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

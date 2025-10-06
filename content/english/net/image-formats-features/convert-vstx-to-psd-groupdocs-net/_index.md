@@ -8,10 +8,8 @@ keywords:
 - convert VSTX to PSD
 - GroupDocs.Conversion for .NET
 - file format conversion
-
+type: docs
 ---
-
-
 # Convert VSTX to PSD Easily with GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

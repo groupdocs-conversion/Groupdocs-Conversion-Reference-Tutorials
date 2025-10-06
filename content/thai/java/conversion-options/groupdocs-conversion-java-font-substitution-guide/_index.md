@@ -4,8 +4,8 @@
 "title": "การแทนที่แบบอักษรใน Java และการแปลง GroupDocs เพื่อให้มีผลลัพธ์ PDF ที่สอดคล้องกัน"
 "url": "/th/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/"
 "weight": 1
+type: docs
 ---
-
 # เรียนรู้การแทนที่แบบอักษรด้วย GroupDocs.Conversion สำหรับ Java
 
 ## การแนะนำ

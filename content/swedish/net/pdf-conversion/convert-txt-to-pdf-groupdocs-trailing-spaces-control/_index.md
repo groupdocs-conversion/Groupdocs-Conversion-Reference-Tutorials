@@ -4,8 +4,8 @@
 "title": "Konvertera TXT till PDF med GroupDocs' kontroll av efterföljande mellanslag med .NET"
 "url": "/sv/net/pdf-conversion/convert-txt-to-pdf-groupdocs-trailing-spaces-control/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera TXT till PDF med GroupDocs: Kontrollera efterföljande mellanslag med .NET
 
 ## Introduktion

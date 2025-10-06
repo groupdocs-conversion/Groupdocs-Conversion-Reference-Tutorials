@@ -4,8 +4,8 @@
 "title": "Azure Blob Depolama Dosyalarını .NET ve GroupDocs Kullanarak PDF'ye Dönüştürme.Conversion"
 "url": "/tr/net/loading-from-cloud-storage/convert-azure-blob-storage-files-to-pdf-net/"
 "weight": 1
+type: docs
 ---
-
 # Azure Blob Depolama Dosyaları .NET ve GroupDocs Kullanılarak Nasıl İndirilir ve PDF'ye Dönüştürülür?
 
 ## giriiş

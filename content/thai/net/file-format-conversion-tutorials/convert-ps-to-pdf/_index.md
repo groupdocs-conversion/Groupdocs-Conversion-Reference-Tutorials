@@ -5,8 +5,8 @@
 "title": "แปลง PS เป็น PDF"
 "url": "/th/net/file-format-conversion-tutorials/convert-ps-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # แปลง PS เป็น PDF
 
 ## การแนะนำ

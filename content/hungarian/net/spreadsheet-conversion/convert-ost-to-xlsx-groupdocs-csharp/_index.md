@@ -4,8 +4,8 @@
 "title": "OST-k XLSX-re konvertálásának elsajátítása a GroupDocs.Conversion for .NET használatával C#-ban"
 "url": "/hu/net/spreadsheet-conversion/convert-ost-to-xlsx-groupdocs-csharp/"
 "weight": 1
+type: docs
 ---
-
 # OST-ből XLSX-be konvertálás elsajátítása a GroupDocs.Conversion for .NET használatával C#-ban
 
 ## Bevezetés

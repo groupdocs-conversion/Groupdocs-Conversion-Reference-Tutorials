@@ -4,8 +4,8 @@
 "title": "Comment convertir un fichier STL en SVG à l'aide de GroupDocs.Conversion pour .NET ? Guide étape par étape"
 "url": "/fr/net/cad-technical-drawing-formats/stl-to-svg-groupdocs-conversion-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Convertir STL en SVG avec GroupDocs.Conversion pour .NET : guide étape par étape
 
 ## Introduction

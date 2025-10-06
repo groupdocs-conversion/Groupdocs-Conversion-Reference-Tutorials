@@ -4,8 +4,8 @@
 "title": "Převod PPTX do SVG pomocí GroupDocs.Conversion .NET – Komplexní průvodce"
 "url": "/cs/net/presentation-formats-features/convert-pptx-to-svg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod PPTX do SVG pomocí GroupDocs.Conversion .NET
 
 ## Zavedení

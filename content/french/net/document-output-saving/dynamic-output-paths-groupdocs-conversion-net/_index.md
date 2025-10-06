@@ -4,8 +4,8 @@
 "title": "Chemins de sortie dynamiques dans .NET avec GroupDocs.Conversion - Un guide complet"
 "url": "/fr/net/document-output-saving/dynamic-output-paths-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chemins de sortie dynamiques dans .NET avec GroupDocs.Conversion : un guide complet
 
 ## Introduction

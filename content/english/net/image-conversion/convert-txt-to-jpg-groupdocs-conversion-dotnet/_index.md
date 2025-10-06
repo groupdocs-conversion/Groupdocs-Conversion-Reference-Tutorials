@@ -8,10 +8,8 @@ keywords:
 - convert txt to jpg
 - GroupDocs.Conversion for .NET
 - text to image conversion
-
+type: docs
 ---
-
-
 # How to Convert TXT to JPG Using GroupDocs.Conversion for .NET
 
 ## Introduction

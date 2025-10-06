@@ -4,8 +4,8 @@
 "title": "إتقان إدارة الثوابت في GroupDocs.Conversion Java لمشاريع تحويل الملفات"
 "url": "/ar/java/conversion-options/mastering-constants-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # إتقان إدارة الثوابت باستخدام GroupDocs.Conversion Java
 
 ## مقدمة

@@ -8,10 +8,8 @@ keywords:
 - convert ODP to CSV
 - GroupDocs.Conversion .NET
 - ODP file conversion
-
+type: docs
 ---
-
-
 # How to Convert ODP to CSV Using GroupDocs.Conversion .NET
 
 ## Introduction

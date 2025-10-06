@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for Java 將受密碼保護的 Word 文件轉換為 Excel 電子表格"
 "url": "/zh-hant/java/spreadsheet-formats/convert-password-docs-to-spreadsheets-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for Java 轉換受密碼保護的文檔
 
 ## 介紹

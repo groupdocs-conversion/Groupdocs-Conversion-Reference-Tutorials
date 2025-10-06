@@ -4,8 +4,8 @@
 "title": "วิธีการแปลงเทมเพลตการวาด Visio (.vst) เป็น SVG โดยใช้ GroupDocs.Conversion สำหรับ .NET"
 "url": "/th/net/image-formats-features/convert-visio-vst-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการแปลงเทมเพลตการวาด Visio (.vst) เป็น SVG โดยใช้ GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

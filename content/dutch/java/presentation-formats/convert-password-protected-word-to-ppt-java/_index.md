@@ -4,8 +4,8 @@
 "title": "Converteer wachtwoordbeveiligde Word-documenten efficiënt naar PPT met behulp van Java en GroupDocs.Conversion"
 "url": "/nl/java/presentation-formats/convert-password-protected-word-to-ppt-java/"
 "weight": 1
+type: docs
 ---
-
 # Hoe u wachtwoordbeveiligde Word-documenten efficiënt naar PPT kunt converteren met behulp van Java en GroupDocs.Conversion
 
 ## Invoering

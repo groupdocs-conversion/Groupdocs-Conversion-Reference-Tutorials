@@ -4,8 +4,8 @@
 "title": "Konvertera PDF till LaTeX med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/pdf-conversion-features/convert-pdf-to-latex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera PDF till LaTeX med GroupDocs.Conversion för .NET
 
 ## Introduktion

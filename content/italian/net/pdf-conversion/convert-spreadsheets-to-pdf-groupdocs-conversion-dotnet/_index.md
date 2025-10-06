@@ -4,8 +4,8 @@
 "title": "Convertire fogli di calcolo in PDF utilizzando GroupDocs.Conversion per .NET - Guida passo passo"
 "url": "/it/net/pdf-conversion/convert-spreadsheets-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertire fogli di calcolo in PDF utilizzando GroupDocs.Conversion per .NET: guida passo passo
 
 ## Introduzione

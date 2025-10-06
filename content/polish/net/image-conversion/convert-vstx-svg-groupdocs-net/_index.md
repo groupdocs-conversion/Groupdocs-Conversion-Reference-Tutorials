@@ -4,8 +4,8 @@
 "title": "Jak konwertować pliki VSTX do SVG za pomocą GroupDocs.Conversion w .NET"
 "url": "/pl/net/image-conversion/convert-vstx-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak konwertować pliki VSTX do SVG za pomocą GroupDocs.Conversion w .NET
 
 ## Wstęp

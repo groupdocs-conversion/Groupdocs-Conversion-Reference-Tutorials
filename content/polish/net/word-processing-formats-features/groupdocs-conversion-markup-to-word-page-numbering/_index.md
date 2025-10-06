@@ -4,8 +4,8 @@
 "title": "Konwersja znaczników do Worda z numeracją stron przy użyciu GroupDocs.Conversion dla .NET"
 "url": "/pl/net/word-processing-formats-features/groupdocs-conversion-markup-to-word-page-numbering/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja znaczników do Worda z numeracją stron przy użyciu GroupDocs.Conversion dla .NET
 ## Wstęp
 Czy chcesz przekonwertować dokumenty z adnotacjami do profesjonalnych formatów Word, zachowując jednocześnie dokładne numery stron? Ten samouczek przeprowadzi Cię przez korzystanie z **GroupDocs.Conversion dla .NET** aby bezproblemowo przekształcać dokumenty. Ta potężna biblioteka upraszcza konwersje i zapewnia, że istotne elementy, takie jak numeracja stron, są nienaruszone w dokumencie wyjściowym.

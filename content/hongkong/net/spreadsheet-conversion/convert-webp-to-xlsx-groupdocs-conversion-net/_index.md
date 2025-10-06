@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 將 WEBP 轉換為 XLSX 進行電子表格轉換"
 "url": "/zh-hant/net/spreadsheet-conversion/convert-webp-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 將 WEBP 轉換為 XLSX
 
 ## 介紹

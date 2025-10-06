@@ -4,8 +4,8 @@
 "title": "Konvertera HTML till PowerPoint med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/presentation-formats-features/convert-html-to-powerpoint-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera HTML till PowerPoint med GroupDocs.Conversion för .NET
 
 ## Introduktion

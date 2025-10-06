@@ -4,8 +4,8 @@
 "title": "Efficiënte ODT naar PDF-conversie&#58; handleiding met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/pdf-conversion-features/convert-odt-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Efficiënte ODT naar PDF-conversie: handleiding voor het gebruik van GroupDocs.Conversion voor .NET
 
 ## Invoering

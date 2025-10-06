@@ -4,8 +4,8 @@
 "title": "TIFF fájlok hatékony konvertálása PNG-vé a GroupDocs.Conversion for .NET segítségével | Képkonverziós útmutató"
 "url": "/hu/net/image-conversion/convert-tiff-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # TIFF fájlok PNG fájlokká konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

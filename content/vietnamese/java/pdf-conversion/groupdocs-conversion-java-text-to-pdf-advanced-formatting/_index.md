@@ -4,8 +4,8 @@
 "title": "Chuyển đổi văn bản sang PDF nâng cao với GroupDocs.Conversion Java&#58; Giữ nguyên định dạng"
 "url": "/vi/java/pdf-conversion/groupdocs-conversion-java-text-to-pdf-advanced-formatting/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi văn bản sang PDF nâng cao với GroupDocs.Conversion Java: Giữ nguyên định dạng
 
 ## Giới thiệu

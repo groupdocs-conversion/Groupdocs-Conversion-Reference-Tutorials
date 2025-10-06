@@ -5,8 +5,8 @@
 "title": "WebP konvertálása PDF-be"
 "url": "/hu/net/converting-file-types-to-pdf/convert-webp-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # WebP konvertálása PDF-be
 
 ## Bevezetés

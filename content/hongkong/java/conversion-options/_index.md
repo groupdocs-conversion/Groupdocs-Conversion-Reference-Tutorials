@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Java 文件轉換選項教學課程"
 "url": "/zh-hant/java/conversion-options/"
 "weight": 3
+type: docs
 ---
-
 # GroupDocs.Conversion Java 文件轉換選項教學課程
 
 使用我們詳細的 GroupDocs.Conversion Java 教學課程，掌握文件轉換設定。這些逐步指南示範如何微調轉換參數、設定頁面範圍、配置影像品質、控製字體、管理元數據，以及以程式設計方式自訂各種其他轉換功能。每個教學課程都包含 Java 程式碼範例、實作說明和最佳實踐，以協助您建立能夠產生完美自訂輸出文件的應用程式。

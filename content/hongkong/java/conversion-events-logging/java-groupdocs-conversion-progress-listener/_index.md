@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs 追蹤 Java 文件轉換進度的完整指南"
 "url": "/zh-hant/java/conversion-events-logging/java-groupdocs-conversion-progress-listener/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs 追蹤 Java 中的文件轉換進度：完整指南
 
 ## 介紹

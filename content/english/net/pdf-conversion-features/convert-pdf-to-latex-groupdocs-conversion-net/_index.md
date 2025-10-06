@@ -8,10 +8,8 @@ keywords:
 - PDF to LaTeX conversion
 - GroupDocs.Conversion for .NET
 - convert PDF to LaTeX with C#
-
+type: docs
 ---
-
-
 # Convert PDF to LaTeX with GroupDocs.Conversion for .NET
 
 ## Introduction

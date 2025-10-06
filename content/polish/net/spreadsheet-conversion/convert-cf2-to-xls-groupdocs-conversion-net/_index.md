@@ -4,8 +4,8 @@
 "title": "Jak konwertować pliki CF2 do XLS za pomocą GroupDocs.Conversion dla .NET&#58; Kompleksowy przewodnik"
 "url": "/pl/net/spreadsheet-conversion/convert-cf2-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak konwertować pliki CF2 do XLS za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 POTX 轉換為 TeX 綜合指南"
 "url": "/zh-hant/net/presentation-formats-features/groupdocs-conversion-net-potx-to-tex/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 POTX 轉換為 TeX：綜合指南
 
 ## 介紹

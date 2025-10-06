@@ -4,8 +4,8 @@
 "title": "Como converter arquivos XLAM para PSD usando o GroupDocs.Conversion para .NET"
 "url": "/pt/net/cad-technical-drawing-formats/convert-xlam-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter arquivos XLAM para PSD usando o GroupDocs.Conversion para .NET
 
 ## Introdução

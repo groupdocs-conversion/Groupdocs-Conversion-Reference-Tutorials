@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie OneNote mit GroupDocs.Conversion für .NET in DOCX"
 "url": "/de/net/word-processing-formats-features/convert-onenote-docx-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie OneNote mit GroupDocs.Conversion für .NET in DOCX
 
 ## Einführung

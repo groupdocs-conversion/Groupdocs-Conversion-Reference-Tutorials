@@ -4,8 +4,8 @@
 "title": "วิธีลบไฟล์ที่ฝังไว้ในไฟล์ PDF โดยใช้ GroupDocs.Conversion .NET เพื่อการจัดการเอกสารที่มีประสิทธิภาพสูงสุด"
 "url": "/th/net/pdf-conversion-features/remove-embedded-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # วิธีลบไฟล์ที่ฝังไว้ในไฟล์ PDF โดยใช้ GroupDocs.Conversion .NET เพื่อการจัดการเอกสารที่มีประสิทธิภาพสูงสุด
 
 ## การแนะนำ

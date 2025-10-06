@@ -5,8 +5,8 @@
 "title": "將 STL 轉換為 PDF"
 "url": "/zh-hant/net/file-format-conversion-tutorials/convert-stl-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # 將 STL 轉換為 PDF
 
 ## 介紹

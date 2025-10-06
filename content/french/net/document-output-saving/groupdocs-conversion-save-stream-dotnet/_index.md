@@ -4,8 +4,8 @@
 "title": "Comment enregistrer des fichiers en streaming avec GroupDocs.Conversion dans .NET | Guide étape par étape"
 "url": "/fr/net/document-output-saving/groupdocs-conversion-save-stream-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Comment implémenter GroupDocs.Conversion .NET : enregistrer un fichier converti dans un flux
 
 ## Introduction

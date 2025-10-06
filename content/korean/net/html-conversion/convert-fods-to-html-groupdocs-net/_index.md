@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 FODS를 HTML로 변환하는 포괄적인 가이드"
 "url": "/ko/net/html-conversion/convert-fods-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 FODS를 HTML로 변환: 포괄적인 가이드
 
 ## 소개

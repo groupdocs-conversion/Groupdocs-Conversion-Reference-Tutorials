@@ -8,10 +8,8 @@ keywords:
 - convert MHTML to PDF
 - GroupDocs.Conversion for .NET
 - MHTML conversion
-
+type: docs
 ---
-
-
 # Convert MHTML to PDF with GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

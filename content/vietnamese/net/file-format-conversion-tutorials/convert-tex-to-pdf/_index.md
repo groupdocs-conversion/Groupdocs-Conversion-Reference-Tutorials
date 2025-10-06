@@ -5,8 +5,8 @@
 "title": "Chuyển đổi TEX sang PDF"
 "url": "/vi/net/file-format-conversion-tutorials/convert-tex-to-pdf/"
 "weight": 18
+type: docs
 ---
-
 # Chuyển đổi TEX sang PDF
 
 ## Giới thiệu

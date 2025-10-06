@@ -4,8 +4,8 @@
 "title": "Megjegyzések elrejtése PPTX-ből PDF-be konvertálásban a GroupDocs.Conversion for Java használatával"
 "url": "/hu/java/watermarks-annotations/hide-comments-pptx-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Megjegyzések elrejtése PPTX-ből PDF-be konvertáláskor a GroupDocs.Conversion for Java segítségével
 
 ## Bevezetés

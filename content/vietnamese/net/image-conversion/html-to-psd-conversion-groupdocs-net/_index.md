@@ -4,8 +4,8 @@
 "title": "Chuyển đổi HTML sang PSD hiệu quả bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/image-conversion/html-to-psd-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi HTML sang PSD hiệu quả bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

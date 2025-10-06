@@ -4,8 +4,8 @@
 "title": "كيفية تحميل ملفات VSDX وتحويلها باستخدام GroupDocs.Conversion .NET"
 "url": "/ar/net/presentation-formats-features/load-vsdx-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحميل ملفات VSDX وتحويلها باستخدام GroupDocs.Conversion .NET
 
 ## مقدمة

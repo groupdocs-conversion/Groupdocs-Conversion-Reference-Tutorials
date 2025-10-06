@@ -4,8 +4,8 @@
 "title": "แปลงอีเมลเป็น PDF ได้อย่างราบรื่นด้วย GroupDocs.Conversion สำหรับ .NET | คู่มือฉบับสมบูรณ์"
 "url": "/th/net/pdf-conversion/convert-emails-to-pdfs-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # แปลงอีเมลเป็น PDF ได้อย่างราบรื่นด้วย GroupDocs.Conversion สำหรับ .NET
 
 ## การแนะนำ

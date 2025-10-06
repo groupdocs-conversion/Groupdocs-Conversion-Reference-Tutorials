@@ -4,8 +4,8 @@
 "title": "แปลงเค้าโครง CAD เป็น PDF ใน Java โดยใช้คู่มือการแปลงเค้าโครงแบบเลือก GroupDocs"
 "url": "/th/java/cad-formats/groupdocs-java-cad-to-pdf-selective-layouts/"
 "weight": 1
+type: docs
 ---
-
 # แปลงเค้าโครง CAD เป็น PDF ด้วย GroupDocs.Conversion สำหรับ Java
 ## เรียนรู้การแปลง CAD เป็น PDF แบบเลือกสรรใน Java
 ### การแนะนำ

@@ -8,10 +8,8 @@ keywords:
 - convert DOTX to CSV
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Convert DOTX to CSV Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

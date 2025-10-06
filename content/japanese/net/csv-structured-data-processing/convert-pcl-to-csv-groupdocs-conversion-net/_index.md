@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET を使用して PCL を CSV に変換する | 効率的なデータ処理のためのステップバイステップガイド"
 "url": "/ja/net/csv-structured-data-processing/convert-pcl-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET を使用して PCL ファイルを CSV に変換する
 
 ## 導入

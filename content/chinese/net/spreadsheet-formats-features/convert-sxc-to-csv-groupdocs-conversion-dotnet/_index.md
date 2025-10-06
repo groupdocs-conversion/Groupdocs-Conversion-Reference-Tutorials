@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 将 SXC 转换为 CSV 完整指南"
 "url": "/zh/net/spreadsheet-formats-features/convert-sxc-to-csv-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将 SXC 转换为 CSV
 
 ## 介绍

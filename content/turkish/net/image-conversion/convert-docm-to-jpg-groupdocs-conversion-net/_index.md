@@ -4,8 +4,8 @@
 "title": "DOCM'yi JPG'ye Dönüştürme - .NET için GroupDocs.Conversion'ı Kullanarak Nihai Kılavuz"
 "url": "/tr/net/image-conversion/convert-docm-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DOCM'yi JPG'ye Dönüştürme: .NET için GroupDocs.Conversion'ı Kullanarak Nihai Kılavuz
 
 ## giriiş

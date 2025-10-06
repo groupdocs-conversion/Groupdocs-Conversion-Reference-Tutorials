@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Java&#58;yı Kullanarak Özel Boyutlarla CAD'yi TIFF'e Dönüştürün Kapsamlı Bir Kılavuz"
 "url": "/tr/java/cad-formats/cad-conversion-tiff-custom-dimensions-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Java'yı Kullanarak Özel Boyutlarla CAD'yi TIFF'e Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

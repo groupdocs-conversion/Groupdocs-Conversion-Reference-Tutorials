@@ -4,8 +4,8 @@
 "title": "VST fájlok konvertálása PDF-be a GroupDocs.Conversion for .NET használatával C#-ban"
 "url": "/hu/net/pdf-conversion-features/groupdocs-conversion-vst-to-pdf-csharp/"
 "weight": 1
+type: docs
 ---
-
 # VST fájlok konvertálása PDF-be a GroupDocs.Conversion for .NET használatával C#-ban
 
 ## Bevezetés

@@ -8,10 +8,8 @@ keywords:
 - convert DWFX to SVG
 - GroupDocs.Conversion for .NET
 - DWFX file conversion
-
+type: docs
 ---
-
-
 # Convert DWFX to SVG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

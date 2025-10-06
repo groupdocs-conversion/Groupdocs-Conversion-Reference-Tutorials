@@ -4,8 +4,8 @@
 "title": "Hur man konverterar JPX till XLS i .NET med hjälp av GroupDocs.Conversion&#58; steg-för-steg-guide"
 "url": "/sv/net/spreadsheet-conversion/convert-jpx-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hur man konverterar JPX till XLS i .NET med GroupDocs.Conversion: Steg-för-steg-guide
 
 ## Introduktion

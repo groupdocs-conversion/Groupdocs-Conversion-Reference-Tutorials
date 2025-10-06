@@ -4,8 +4,8 @@
 "title": "Конвертируйте XLS в HTML с помощью GroupDocs.Conversion для .NET&#58; Пошаговое руководство"
 "url": "/ru/net/html-conversion/convert-xls-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Как конвертировать XLS-файлы в HTML с помощью GroupDocs.Conversion для .NET
 
 ## Введение

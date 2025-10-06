@@ -8,10 +8,8 @@ keywords:
 - convert WMF to DOC
 - GroupDocs.Conversion for .NET
 - Windows Metafile conversion
-
+type: docs
 ---
-
-
 # Convert WMF to DOC Using GroupDocs for .NET: A Comprehensive Guide
 
 ## Introduction

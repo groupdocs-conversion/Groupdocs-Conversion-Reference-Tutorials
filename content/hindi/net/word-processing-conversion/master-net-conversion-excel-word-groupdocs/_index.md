@@ -4,8 +4,8 @@
 "title": "मास्टर .NET दस्तावेज़ रूपांतरण&#58; Excel से Word में GroupDocs.Conversion का उपयोग करना"
 "url": "/hi/net/word-processing-conversion/master-net-conversion-excel-word-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # मास्टर .NET दस्तावेज़ रूपांतरण: GroupDocs.Conversion का उपयोग करके Excel से Word
 
 ## परिचय

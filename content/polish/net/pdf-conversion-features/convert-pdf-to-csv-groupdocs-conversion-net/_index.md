@@ -4,8 +4,8 @@
 "title": "Konwersja PDF do CSV przy użyciu GroupDocs.Conversion dla .NET&#58; Kompleksowy przewodnik"
 "url": "/pl/net/pdf-conversion-features/convert-pdf-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja PDF do CSV przy użyciu GroupDocs.Conversion dla .NET: Podręcznik programisty
 
 ## Wstęp

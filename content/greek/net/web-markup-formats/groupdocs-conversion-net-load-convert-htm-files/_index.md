@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική φόρτωση και μετατροπή αρχείων HTM χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/web-markup-formats/groupdocs-conversion-net-load-convert-htm-files/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική φόρτωση και μετατροπή αρχείων HTM χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

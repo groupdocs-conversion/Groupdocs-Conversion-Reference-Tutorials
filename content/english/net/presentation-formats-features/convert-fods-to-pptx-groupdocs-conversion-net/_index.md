@@ -8,10 +8,8 @@ keywords:
 - FODS to PPTX conversion
 - GroupDocs.Conversion .NET
 - Document Conversion
-
+type: docs
 ---
-
-
 # Convert FODS to PPTX with GroupDocs.Conversion .NET: A Comprehensive Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Conversão de PSD para PPTX usando o GroupDocs.Conversion para .NET - Um guia passo a passo"
 "url": "/pt/net/presentation-conversion/groupdocs-conversion-net-psd-pptx-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Dominando a conversão de .NET PSD para PPTX com GroupDocs.Conversion
 
 ## Introdução

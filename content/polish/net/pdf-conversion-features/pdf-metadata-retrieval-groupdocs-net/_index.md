@@ -4,8 +4,8 @@
 "title": "Jak pobrać metadane PDF za pomocą GroupDocs.Conversion dla .NET"
 "url": "/pl/net/pdf-conversion-features/pdf-metadata-retrieval-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak pobrać metadane PDF za pomocą GroupDocs.Conversion dla .NET
 
 Masz dość ręcznego wyodrębniania informacji z dokumentów PDF? Zautomatyzuj zadanie dzięki GroupDocs.Conversion dla .NET i pobierz istotne szczegóły, takie jak autorstwo, daty utworzenia, liczba stron, wymiary i inne.

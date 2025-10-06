@@ -3,8 +3,8 @@
 "title": "Funktioner och information om konverteringsverktyget Handledningar för GroupDocs.Conversion .NET"
 "url": "/sv/net/conversion-utilities-information/"
 "weight": 25
+type: docs
 ---
-
 # Funktioner och information om konverteringsverktyget Handledningar för GroupDocs.Conversion .NET
 
 Utforska användbara verktygsfunktioner med våra omfattande GroupDocs.Conversion-handledningar för .NET-utvecklare. Dessa steg-för-steg-guider visar hur man hämtar information om källdokument, bestämmer alla möjliga konverteringar som stöds av biblioteket, upptäcker formatspecifika konverteringsfunktioner, får konverteringsalternativ för önskade målformat, hämtar standardinläsningsalternativ för källdokument, inspekterar dokumentegenskaper och utvärderar konverteringsmöjligheten. Varje handledning innehåller praktiska C#-kodexempel för att effektivt använda dessa verktygsfunktioner, vilket hjälper dig att bygga mer intelligenta applikationer som kan fatta välgrundade beslut om dokumentbehandlingsalternativ och -funktioner.

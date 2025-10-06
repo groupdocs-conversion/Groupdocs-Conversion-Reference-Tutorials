@@ -4,8 +4,8 @@
 "title": "GroupDocs for .NET を使用した ODT から CSV への変換の自動化 - ステップバイステップガイド"
 "url": "/ja/net/spreadsheet-formats-features/automate-odt-to-csv-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs for .NET を使用して ODT から CSV への変換を自動化する
 
 ## 導入

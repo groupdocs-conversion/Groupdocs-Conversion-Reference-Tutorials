@@ -4,8 +4,8 @@
 "title": "Moeiteloze TIFF naar JPG-conversie in .NET met GroupDocs.Conversion"
 "url": "/nl/net/image-conversion/tiff-to-jpg-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Moeiteloze TIFF naar JPG-conversie met GroupDocs.Conversion voor .NET
 
 ## Invoering

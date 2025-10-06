@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して C# で OneNote を PNG に変換する"
 "url": "/ja/net/image-conversion/groupdocs-conversion-one-note-to-png-csharp/"
 "weight": 1
+type: docs
 ---
-
 # C# で OneNote を PNG に変換する: GroupDocs.Conversion for .NET を使用する
 
 ## 導入

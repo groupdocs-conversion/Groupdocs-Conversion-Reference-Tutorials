@@ -4,8 +4,8 @@
 "title": "Effektiv konvertering av XML till kalkylblad i .NET med GroupDocs.Conversion"
 "url": "/sv/net/spreadsheet-conversion/xml-to-spreadsheet-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Effektiv konvertering av XML till kalkylblad i .NET med GroupDocs.Conversion
 
 ## Introduktion

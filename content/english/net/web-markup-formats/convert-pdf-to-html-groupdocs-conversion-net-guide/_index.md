@@ -8,10 +8,8 @@ keywords:
 - convert PDF to HTML
 - GroupDocs.Conversion .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Convert PDF to HTML Using GroupDocs.Conversion .NET: A Step-by-Step Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tệp LaTeX (TEX) sang bảng tính Excel bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/spreadsheet-formats-features/convert-tex-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp LaTeX (TEX) sang bảng tính Excel bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

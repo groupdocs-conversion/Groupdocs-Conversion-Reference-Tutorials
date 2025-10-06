@@ -4,8 +4,8 @@
 "title": "Cara Menambahkan Tanda Air ke DOCX dan Mengonversi ke PDF Menggunakan GroupDocs.Conversion untuk Java"
 "url": "/id/java/watermarks-annotations/add-watermark-docx-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Cara Menambahkan Tanda Air ke Dokumen Anda Menggunakan GroupDocs.Conversion untuk Java
 
 Di dunia digital saat ini, melindungi dokumen Anda dari penggunaan yang tidak sah sangatlah penting. Baik Anda membagikan informasi sensitif atau hanya ingin memberi merek pada dokumen Anda, menambahkan tanda air dapat menjadi solusi yang efektif. Dalam tutorial ini, kami akan memandu Anda melalui proses penggunaan **GroupDocs.Conversion untuk Java** untuk menambahkan tanda air saat mengonversi berkas DOCX ke PDF.

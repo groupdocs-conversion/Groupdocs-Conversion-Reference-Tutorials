@@ -8,10 +8,8 @@ keywords:
 - convert IFC to PPTX
 - GroupDocs.Conversion for .NET
 - IFC file conversion
-
+type: docs
 ---
-
-
 # How to Convert IFC Files to PPTX Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

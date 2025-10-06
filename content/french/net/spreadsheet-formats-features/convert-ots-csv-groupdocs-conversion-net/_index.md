@@ -4,8 +4,8 @@
 "title": "Convertissez efficacement vos fichiers OTS en CSV grâce à GroupDocs.Conversion pour les développeurs .NET"
 "url": "/fr/net/spreadsheet-formats-features/convert-ots-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertissez efficacement vos fichiers OTS en CSV grâce à GroupDocs.Conversion pour les développeurs .NET
 
 ## Introduction

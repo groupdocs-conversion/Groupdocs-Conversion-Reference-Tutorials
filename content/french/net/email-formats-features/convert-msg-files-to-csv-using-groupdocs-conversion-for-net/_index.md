@@ -4,8 +4,8 @@
 "title": "Convertir des fichiers MSG en CSV à l'aide de GroupDocs.Conversion pour .NET &#58; guide étape par étape"
 "url": "/fr/net/email-formats-features/convert-msg-files-to-csv-using-groupdocs-conversion-for-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des fichiers MSG en CSV avec GroupDocs.Conversion pour .NET : guide étape par étape
 
 ## Introduction

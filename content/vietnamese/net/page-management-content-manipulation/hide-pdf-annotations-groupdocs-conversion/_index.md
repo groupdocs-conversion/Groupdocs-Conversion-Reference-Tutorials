@@ -4,8 +4,8 @@
 "title": "Cách ẩn chú thích PDF trước khi chuyển đổi sang Word bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/page-management-content-manipulation/hide-pdf-annotations-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Cách ẩn chú thích PDF trước khi chuyển đổi sang Word bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion'ı Kullanarak .NET'te DOC'u PDF'ye Verimli Şekilde Dönüştürün"
 "url": "/tr/net/pdf-conversion-features/convert-doc-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion'ı Kullanarak .NET'te DOC'u PDF'ye Verimli Şekilde Dönüştürün
 
 ## giriiş

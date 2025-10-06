@@ -4,8 +4,8 @@
 "title": "Átfogó útmutató a LaTeX Word-dé konvertálásához a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/word-processing-conversion/convert-latex-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató: LaTeX konvertálása Worddé a GroupDocs.Conversion for .NET segítségével
 ## Bevezetés
 A LaTeX dokumentumok akadálymentes Word formátumba konvertálása kihívást jelenthet, különösen a kutatók, akadémikusok vagy műszaki írók számára, akik gyakran dolgoznak összetett .tex fájlokkal. Ez az oktatóanyag robusztus megoldást kínál a következő használatával: **GroupDocs.Conversion .NET-hez**, lehetővé téve a LaTeX fájlok egyszerű DOC formátumba konvertálását.

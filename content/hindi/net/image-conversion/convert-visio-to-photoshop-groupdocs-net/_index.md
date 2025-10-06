@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके Visio फ़ाइलों को फ़ोटोशॉप में कैसे परिवर्तित करें"
 "url": "/hi/net/image-conversion/convert-visio-to-photoshop-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके Visio फ़ाइलों को फ़ोटोशॉप में कैसे परिवर्तित करें
 
 ## परिचय

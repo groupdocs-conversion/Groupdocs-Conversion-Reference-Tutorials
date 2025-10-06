@@ -4,8 +4,8 @@
 "title": "Jak dodać znak wodny do DOCX i przekonwertować do PDF za pomocą GroupDocs.Conversion dla Java"
 "url": "/pl/java/watermarks-annotations/add-watermark-docx-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Jak dodać znak wodny do dokumentu za pomocą GroupDocs.Conversion dla Java
 
 W dzisiejszym cyfrowym świecie ochrona dokumentów przed nieautoryzowanym użyciem jest kluczowa. Niezależnie od tego, czy udostępniasz poufne informacje, czy po prostu chcesz oznaczyć swoje dokumenty znakiem wodnym, dodanie znaku wodnego może być skutecznym rozwiązaniem. W tym samouczku przeprowadzimy Cię przez proces korzystania z **GroupDocs.Conversion dla Java** aby dodać znak wodny podczas konwersji pliku DOCX do PDF.

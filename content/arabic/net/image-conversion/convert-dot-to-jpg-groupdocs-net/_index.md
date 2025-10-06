@@ -4,8 +4,8 @@
 "title": "تحويل ملفات DOT إلى JPG في .NET باستخدام GroupDocs.Conversion - دليل خطوة بخطوة"
 "url": "/ar/net/image-conversion/convert-dot-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ملفات DOT إلى JPG في .NET باستخدام GroupDocs.Conversion: دليل خطوة بخطوة
 ## مقدمة
 هل تواجه صعوبة في تحويل المستندات في تطبيقات .NET؟ إذا كان تحويل قوالب مستندات مايكروسوفت وورد (.dot) إلى صور مهمة متكررة، فهذا البرنامج التعليمي مناسب لك. سنستخدم **GroupDocs.Conversion لـ .NET**، مكتبة قوية تعمل على تبسيط مهام تحويل الملفات.

@@ -4,8 +4,8 @@
 "title": "在 GroupDocs.Conversion for .NET 中設定流許可證－綜合指南"
 "url": "/zh-hant/net/getting-started-licensing/groupdocs-conversion-net-set-license-stream/"
 "weight": 1
+type: docs
 ---
-
 # 在 GroupDocs.Conversion for .NET 中從串流設定許可證：綜合指南
 
 ## 介紹

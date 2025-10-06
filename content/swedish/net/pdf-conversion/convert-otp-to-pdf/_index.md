@@ -5,8 +5,8 @@
 "title": "Konvertera OTP till PDF"
 "url": "/sv/net/pdf-conversion/convert-otp-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # Konvertera OTP till PDF
 
 ## Introduktion

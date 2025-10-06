@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 的 AI 到 PDF 轉換指南"
 "url": "/zh-hant/net/pdf-conversion-features/ai-to-pdf-conversion-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 的 AI 到 PDF 轉換指南
 
 ## 介紹

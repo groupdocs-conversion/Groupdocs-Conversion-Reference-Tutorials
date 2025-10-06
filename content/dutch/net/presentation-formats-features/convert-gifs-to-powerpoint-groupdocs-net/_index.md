@@ -4,8 +4,8 @@
 "title": "Converteer GIF's naar PowerPoint-presentaties met GroupDocs.Conversion voor .NET - Stapsgewijze handleiding"
 "url": "/nl/net/presentation-formats-features/convert-gifs-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converteer GIF's naar PowerPoint-presentaties met GroupDocs.Conversion voor .NET
 
 ## Invoering

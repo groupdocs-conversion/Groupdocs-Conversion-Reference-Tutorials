@@ -4,8 +4,8 @@
 "title": "ICO konvertálása XLS-be a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-conversion/convert-ico-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # ICO fájlok konvertálása XLS formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

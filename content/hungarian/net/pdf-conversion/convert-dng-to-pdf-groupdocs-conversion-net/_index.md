@@ -4,8 +4,8 @@
 "title": "DNG konvertálása PDF-be a GroupDocs.Conversion .NET segítségével – Lépésről lépésre útmutató fejlesztőknek"
 "url": "/hu/net/pdf-conversion/convert-dng-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DNG fájlok konvertálása PDF-be a GroupDocs.Conversion .NET használatával: Átfogó útmutató
 
 ## Bevezetés

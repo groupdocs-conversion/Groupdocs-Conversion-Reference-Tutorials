@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके POTM को TXT में परिवर्तित करें - एक व्यापक मार्गदर्शिका"
 "url": "/hi/net/email-formats-features/convert-potm-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके POTM को TXT में परिवर्तित करें
 
 **GroupDocs.Conversion के साथ .NET में कुशल दस्तावेज़ रूपांतरण**

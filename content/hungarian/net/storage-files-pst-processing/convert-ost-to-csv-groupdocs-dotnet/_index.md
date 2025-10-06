@@ -4,8 +4,8 @@
 "title": "OST fájlok hatékony konvertálása CSV-vé a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/storage-files-pst-processing/convert-ost-to-csv-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # OST fájlok hatékony konvertálása CSV-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

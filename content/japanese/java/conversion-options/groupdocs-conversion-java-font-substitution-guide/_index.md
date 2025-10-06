@@ -4,8 +4,8 @@
 "title": "Javaでのフォント置換&#58; GroupDocs.Conversionをマスターして一貫したPDF出力を実現"
 "url": "/ja/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for Java でフォント置換をマスターする
 
 ## 導入

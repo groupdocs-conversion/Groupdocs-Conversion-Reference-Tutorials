@@ -3,8 +3,8 @@
 "title": "Výukové programy pro formáty a funkce e-mailů v GroupDocs.Conversion .NET"
 "url": "/cs/net/email-formats-features/"
 "weight": 14
+type: docs
 ---
-
 # Výukové programy pro formáty a funkce e-mailů v GroupDocs.Conversion .NET
 
 Zvládněte zpracování e-mailových dokumentů s našimi komplexními tutoriály GroupDocs.Conversion pro vývojáře .NET. Tyto praktické průvodce ukazují, jak převádět e-mailové zprávy do různých formátů dokumentů, extrahovat a převádět e-mailové přílohy do různých formátů, měnit viditelnost polí během převodu, aplikovat lokalizaci na e-mailová pole, zpracovávat časové posuny, implementovat nastavení globalizace, zachovávat metadata e-mailů a zpracovávat zprávy s vloženým obsahem. Každý tutoriál poskytuje podrobné příklady kódu C# pro scénáře převodu e-mailů a pomáhá vám vytvářet aplikace, které dokáží efektivně transformovat e-mailovou komunikaci do přístupnějších formátů dokumentů.

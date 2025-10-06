@@ -4,8 +4,8 @@
 "title": "Kommentare in PPTX in PDF ausblenden mit GroupDocs.Conversion für Java"
 "url": "/de/java/watermarks-annotations/hide-comments-pptx-pdf-groupdocs-conversion-java/"
 "weight": 1
+type: docs
 ---
-
 # Kommentare in PPTX zu PDF ausblenden mit GroupDocs.Conversion für Java
 
 ## Einführung

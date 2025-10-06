@@ -4,8 +4,8 @@
 "title": "Hoe u VTX-bestanden naar CSV converteert met GroupDocs.Conversion voor .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/csv-structured-data-processing/convert-vtx-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VTX-bestanden naar CSV converteren met GroupDocs.Conversion voor .NET: een stapsgewijze handleiding
 
 ## Invoering

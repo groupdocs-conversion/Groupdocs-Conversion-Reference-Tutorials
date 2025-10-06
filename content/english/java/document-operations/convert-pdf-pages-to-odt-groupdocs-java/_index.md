@@ -8,10 +8,8 @@ keywords:
 - convert PDF to ODT
 - GroupDocs.Conversion for Java
 - PDF to Word processing document
-
+type: docs
 ---
-
-
 # Convert PDF Pages to ODT with GroupDocs.Conversion in Java
 
 ## Introduction

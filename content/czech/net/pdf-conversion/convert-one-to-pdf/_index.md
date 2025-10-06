@@ -5,8 +5,8 @@
 "title": "Převést JEDEN do PDF"
 "url": "/cs/net/pdf-conversion/convert-one-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Převést JEDEN do PDF
 
 ## Zavedení

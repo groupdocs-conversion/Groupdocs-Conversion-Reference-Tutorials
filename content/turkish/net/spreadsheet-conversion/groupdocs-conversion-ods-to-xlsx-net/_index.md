@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET&#58;i Kullanarak ODS'yi XLSX'e Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/spreadsheet-conversion/groupdocs-conversion-ods-to-xlsx-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET Kullanarak ODS'yi XLSX'e Dönüştürme: Kapsamlı Bir Kılavuz
 
 Günümüzün veri odaklı ortamında, sorunsuz dosya dönüştürme hayati önem taşır. Elektronik tablolarla çalışan geliştiriciler ve iş profesyonelleri için, Açık Belge Elektronik Tablolarını (ODS) Microsoft Excel Açık XML Elektronik Tablolarına (XLSX) dönüştürmek üretkenliği önemli ölçüde artırabilir. Bu kılavuz, bu dönüştürmeyi zahmetsizce gerçekleştirmek için GroupDocs.Conversion for .NET'i kullanma konusunda size yol gösterir.

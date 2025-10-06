@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion을 사용하여 숨겨진 슬라이드를 포함한 .NET PDF 변환 마스터하기"
 "url": "/ko/net/pdf-conversion-features/net-pdf-conversion-groupdocs-hidden-slides/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용하여 숨겨진 슬라이드를 포함한 .NET PDF 변환 마스터하기
 
 ## 소개

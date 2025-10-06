@@ -4,8 +4,8 @@
 "title": "Konvertera lösenordsskyddade Word-dokument till PDF med GroupDocs.Conversion för .NET"
 "url": "/sv/net/working-with-secure-documents/convert-password-protected-docs-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hur man laddar och konverterar lösenordsskyddade Word-dokument till PDF med GroupDocs.Conversion för .NET
 
 ## Introduktion

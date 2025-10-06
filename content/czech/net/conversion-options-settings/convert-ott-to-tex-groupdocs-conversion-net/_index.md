@@ -4,8 +4,8 @@
 "title": "Jak převést OTT do TEXu pomocí GroupDocs.Conversion pro .NET - Podrobný návod"
 "url": "/cs/net/conversion-options-settings/convert-ott-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést OTT do TEXu pomocí GroupDocs.Conversion pro .NET
 
 Vítejte v našem komplexním průvodci převodem souborů Open Document Template (OTT) do LaTeX Source Documents (TEX) pomocí výkonné knihovny GroupDocs.Conversion pro .NET. Pokud řešíte problémy s převodem dokumentů z OTT do TEXu, je to váš klíčový zdroj.

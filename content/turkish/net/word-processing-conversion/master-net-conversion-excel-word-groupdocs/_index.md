@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion'ı Kullanarak .NET Belge Dönüşümünde Ustalaşın&#58; Excel'den Word'e"
 "url": "/tr/net/word-processing-conversion/master-net-conversion-excel-word-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Master .NET Belge Dönüştürme: GroupDocs.Conversion Kullanarak Excel'den Word'e
 
 ## giriiş

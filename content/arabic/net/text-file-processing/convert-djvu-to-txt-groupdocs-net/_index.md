@@ -4,8 +4,8 @@
 "title": "كيفية تحويل DJVU إلى TXT باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/text-file-processing/convert-djvu-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل ملفات DJVU إلى صيغة TXT باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

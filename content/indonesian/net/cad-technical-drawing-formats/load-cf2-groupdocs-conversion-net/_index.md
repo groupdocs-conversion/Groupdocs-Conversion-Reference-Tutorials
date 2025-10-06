@@ -4,8 +4,8 @@
 "title": "Cara Memuat dan Mengonversi File CF2 Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Langkah demi Langkah"
 "url": "/id/net/cad-technical-drawing-formats/load-cf2-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Memuat dan Mengonversi File CF2 Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

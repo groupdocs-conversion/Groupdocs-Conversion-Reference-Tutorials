@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie MBOX in HTML mit GroupDocs.Conversion für .NET | Schritt-für-Schritt-Anleitung"
 "url": "/de/net/web-markup-formats/mbox-to-html-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie MBOX in HTML mit GroupDocs.Conversion für .NET | Schritt-für-Schritt-Anleitung
 
 ## Einführung

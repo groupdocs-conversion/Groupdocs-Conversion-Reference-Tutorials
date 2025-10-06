@@ -8,10 +8,8 @@ keywords:
 - convert JPC to SVG
 - GroupDocs.Conversion .NET
 - image conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Step-by-Step Guide: Convert JPC to SVG Using GroupDocs.Conversion .NET for Seamless Image Conversion
 
 ## Introduction

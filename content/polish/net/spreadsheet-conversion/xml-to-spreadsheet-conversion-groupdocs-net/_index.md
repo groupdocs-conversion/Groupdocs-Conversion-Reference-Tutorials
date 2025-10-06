@@ -4,8 +4,8 @@
 "title": "Efektywna konwersja XML do arkusza kalkulacyjnego w .NET przy użyciu GroupDocs.Conversion"
 "url": "/pl/net/spreadsheet-conversion/xml-to-spreadsheet-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Efektywna konwersja XML do arkusza kalkulacyjnego w .NET przy użyciu GroupDocs.Conversion
 
 ## Wstęp

@@ -4,8 +4,8 @@
 "title": "Převod souborů OTT do TXT pomocí GroupDocs.Conversion pro .NET (tutoriál C#)"
 "url": "/cs/net/text-markup-conversion/convert-ott-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod OTT do TXT pomocí GroupDocs.Conversion v C#
 
 ## Jak převést soubory OTT do formátu TXT pomocí GroupDocs.Conversion pro .NET

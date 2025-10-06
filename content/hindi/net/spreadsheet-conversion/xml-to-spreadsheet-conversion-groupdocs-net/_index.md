@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion का उपयोग करके .NET में XML से स्प्रेडशीट रूपांतरण कुशल"
 "url": "/hi/net/spreadsheet-conversion/xml-to-spreadsheet-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion का उपयोग करके .NET में XML से स्प्रेडशीट रूपांतरण कुशल
 
 ## परिचय

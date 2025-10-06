@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak PLT'yi Excel'e Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/spreadsheet-formats-features/convert-plt-files-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak PLT'yi Excel'e Dönüştürme: Kapsamlı Bir Kılavuz
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "Převod PDF do Wordu pomocí GroupDocs.Conversion pro .NET | Komplexní průvodce"
 "url": "/cs/net/word-processing-formats-features/master-pdf-to-word-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Zvládnutí převodu PDF do Wordu pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

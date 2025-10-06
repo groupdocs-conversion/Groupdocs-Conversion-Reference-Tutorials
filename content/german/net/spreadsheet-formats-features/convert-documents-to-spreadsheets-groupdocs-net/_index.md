@@ -4,8 +4,8 @@
 "title": "Effiziente Konvertierung von Dokumenten in Tabellenkalkulationen mit GroupDocs.Conversion für .NET"
 "url": "/de/net/spreadsheet-formats-features/convert-documents-to-spreadsheets-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Effiziente Konvertierung von Dokumenten in Tabellenkalkulationen mit GroupDocs.Conversion für .NET
 
 ## Einführung

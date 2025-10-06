@@ -4,8 +4,8 @@
 "title": "Конвертируйте файлы LOG в PNG с помощью GroupDocs.Conversion для .NET&#58; Подробное руководство"
 "url": "/ru/net/image-conversion/convert-log-files-to-png-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте файлы LOG в PNG с помощью GroupDocs.Conversion для .NET
 
 ## Введение

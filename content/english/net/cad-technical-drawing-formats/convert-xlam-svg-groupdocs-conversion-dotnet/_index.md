@@ -8,10 +8,8 @@ keywords:
 - convert xlam to svg
 - groupdocs conversion .net
 - cad & technical drawing formats
-
+type: docs
 ---
-
-
 # Convert XLAM to SVG Using GroupDocs.Conversion for .NET
 
 ## Introduction

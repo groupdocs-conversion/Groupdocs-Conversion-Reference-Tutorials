@@ -4,8 +4,8 @@
 "title": "كيفية تحويل ملفات RTF إلى صور PNG باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/image-conversion/rtf-to-png-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحويل ملفات RTF إلى صور PNG باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

@@ -5,8 +5,8 @@
 "title": "XML'i PDF'e dönüştür"
 "url": "/tr/net/converting-file-types-to-pdf/convert-xml-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # XML'i PDF'e dönüştür
 
 ## giriiş

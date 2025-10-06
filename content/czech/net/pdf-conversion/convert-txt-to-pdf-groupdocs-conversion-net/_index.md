@@ -4,8 +4,8 @@
 "title": "Snadná konverze TXT do PDF – Master GroupDocs.Conversion pro .NET během několika minut"
 "url": "/cs/net/pdf-conversion/convert-txt-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Snadná konverze TXT do PDF: Zvládněte GroupDocs.Conversion pro .NET během několika minut
 
 ## Zavedení

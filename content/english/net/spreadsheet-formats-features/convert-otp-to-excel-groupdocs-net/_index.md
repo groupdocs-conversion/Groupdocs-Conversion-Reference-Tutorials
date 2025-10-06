@@ -8,10 +8,8 @@ keywords:
 - convert Origin Graph OTP to Excel
 - GroupDocs.Conversion for .NET
 - OTP to XLS conversion
-
+type: docs
 ---
-
-
 # Convert Origin Graph OTP to Excel with GroupDocs.Conversion for .NET
 
 ## Introduction

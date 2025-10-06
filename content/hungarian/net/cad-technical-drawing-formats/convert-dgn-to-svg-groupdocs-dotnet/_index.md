@@ -4,8 +4,8 @@
 "title": "DGN konvertálása SVG-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/cad-technical-drawing-formats/convert-dgn-to-svg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # DGN konvertálása SVG-vé a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

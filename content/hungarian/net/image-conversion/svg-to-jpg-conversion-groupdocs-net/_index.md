@@ -4,8 +4,8 @@
 "title": "SVG konvertálása JPG-vé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/svg-to-jpg-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # SVG konvertálása JPG-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

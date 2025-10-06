@@ -4,8 +4,8 @@
 "title": "Beheers de conversie van DOCX naar PPT met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/presentation-conversion/groupdocs-conversion-dotnet-docx-to-ppt/"
 "weight": 1
+type: docs
 ---
-
 # DOCX naar PPT-conversie onder de knie krijgen met GroupDocs.Conversion voor .NET
 
 ## Invoering

@@ -4,8 +4,8 @@
 "title": "Hatékony OST-TXT konvertálás a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/storage-files-pst-processing/convert-ost-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # OST fájlok TXT formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

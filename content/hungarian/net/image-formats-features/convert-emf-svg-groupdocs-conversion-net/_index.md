@@ -4,8 +4,8 @@
 "title": "Átfogó útmutató az EMF SVG-vé konvertálásához a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-formats-features/convert-emf-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató: EMF konvertálása SVG-vé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

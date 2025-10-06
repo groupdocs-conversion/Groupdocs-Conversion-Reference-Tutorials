@@ -4,8 +4,8 @@
 "title": "DXF-ből SVG-be konvertálás GroupDocs használatával .NET-ben – Lépésről lépésre útmutató CAD fájlokhoz"
 "url": "/hu/net/cad-technical-drawing-formats/dxf-to-svg-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DXF-ből SVG-be konvertálás GroupDocs használatával .NET-ben: lépésről lépésre útmutató
 
 ## Bevezetés

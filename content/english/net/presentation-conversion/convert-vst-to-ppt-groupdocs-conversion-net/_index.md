@@ -8,10 +8,8 @@ keywords:
 - convert VST to PPT
 - GroupDocs.Conversion .NET library
 - file conversion using GroupDocs
-
+type: docs
 ---
-
-
 # Master File Conversion: Convert VST to PPT Using GroupDocs.Conversion .NET Library
 
 ## Introduction

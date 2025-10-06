@@ -4,8 +4,8 @@
 "title": "Visio konvertálása Excelbe a GroupDocs.Conversion .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-conversion/convert-visio-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Visio konvertálása Excelbe a GroupDocs.Conversion .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

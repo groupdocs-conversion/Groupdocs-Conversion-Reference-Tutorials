@@ -5,8 +5,8 @@
 "title": "CMX를 PDF로 변환"
 "url": "/ko/net/file-conversion-to-pdf/convert-cmx-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # CMX를 PDF로 변환
 
 ## 소개

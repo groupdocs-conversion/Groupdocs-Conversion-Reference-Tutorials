@@ -4,8 +4,8 @@
 "title": "DJVU'yu GroupDocs.Conversion for .NET kullanarak Excel'e dönüştürün&#58; Adım Adım Kılavuz"
 "url": "/tr/net/spreadsheet-conversion/djvu-to-xls-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # DJVU'yu GroupDocs.Conversion for .NET kullanarak Excel'e dönüştürün: Adım Adım Kılavuz
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "Chuyển đổi JPM sang DOCX dễ dàng bằng GroupDocs.Conversion .NET để chuyển đổi tệp liền mạch"
 "url": "/vi/net/word-processing-conversion/convert-jpm-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi JPM sang DOCX dễ dàng: Sử dụng GroupDocs.Conversion .NET để chuyển đổi tệp liền mạch
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "Mengonversi Tata Letak CAD ke PDF di Java Menggunakan Panduan Konversi Tata Letak Selektif GroupDocs"
 "url": "/id/java/cad-formats/groupdocs-java-cad-to-pdf-selective-layouts/"
 "weight": 1
+type: docs
 ---
-
 # Konversi Tata Letak CAD ke PDF dengan GroupDocs.Conversion untuk Java
 ## Menguasai Konversi Selektif CAD ke PDF di Java
 ### Perkenalan

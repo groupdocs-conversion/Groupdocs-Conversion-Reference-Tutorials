@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion .NET 將 CF2 轉換為 TEX 的逐步指南"
 "url": "/zh-hant/net/cad-technical-drawing-formats/convert-cf2-to-tex-groupdocs-conversion-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion .NET 將 CF2 轉換為 TEX：逐步指南
 
 ## 介紹

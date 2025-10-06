@@ -4,8 +4,8 @@
 "title": "VSSM fájlok PNG formátumba konvertálása a .NET-hez készült GroupDocs.Conversion segítségével"
 "url": "/hu/net/image-conversion/convert-vssm-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # VSSM fájlok PNG formátumba konvertálása a .NET-hez készült GroupDocs.Conversion segítségével
 
 ## Bevezetés

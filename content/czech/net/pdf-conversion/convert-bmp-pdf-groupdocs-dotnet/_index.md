@@ -4,8 +4,8 @@
 "title": "Komplexní průvodce&#58; Převod BMP do PDF pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/pdf-conversion/convert-bmp-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Komplexní průvodce: Převod BMP do PDF pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

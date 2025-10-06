@@ -8,10 +8,8 @@ keywords:
 - convert ODG to Excel
 - GroupDocs.Conversion for .NET
 - ODG file conversion
-
+type: docs
 ---
-
-
 # Convert ODG Files to Excel with GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Konversi PSD ke Excel secara efisien dengan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/spreadsheet-conversion/convert-psd-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi PSD ke Lembar Excel secara Efisien dengan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

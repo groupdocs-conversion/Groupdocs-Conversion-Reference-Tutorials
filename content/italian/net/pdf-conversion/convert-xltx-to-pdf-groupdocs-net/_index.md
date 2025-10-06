@@ -4,8 +4,8 @@
 "title": "Convertire i file modello Excel (XLTX) in PDF utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/pdf-conversion/convert-xltx-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire i file modello Excel (XLTX) in PDF utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

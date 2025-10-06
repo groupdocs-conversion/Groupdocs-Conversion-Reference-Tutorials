@@ -4,8 +4,8 @@
 "title": "كيفية تحويل قالب PowerPoint (.potx) إلى نص باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/text-file-processing/convert-potx-to-text-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية تحميل ملف قالب Microsoft PowerPoint Open XML (.potx) وتحويله إلى نص باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

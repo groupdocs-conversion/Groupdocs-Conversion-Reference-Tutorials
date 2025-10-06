@@ -8,10 +8,8 @@ keywords:
 - TIF to TEX conversion
 - GroupDocs.Conversion for .NET
 - convert TIF files to TEX
-
+type: docs
 ---
-
-
 # Convert TIF to TEX with GroupDocs.Conversion for .NET
 
 ## Introduction

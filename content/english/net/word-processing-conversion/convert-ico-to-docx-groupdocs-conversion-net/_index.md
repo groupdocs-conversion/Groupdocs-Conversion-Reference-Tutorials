@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion for .NET
 - ICO to DOCX conversion
 - .NET file conversion
-
+type: docs
 ---
-
-
 # Convert ICO to DOCX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

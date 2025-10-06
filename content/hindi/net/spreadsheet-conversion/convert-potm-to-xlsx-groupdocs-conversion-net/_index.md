@@ -4,8 +4,8 @@
 "title": ".NET में GroupDocs.Conversion का उपयोग करके POTM को XLSX में कैसे परिवर्तित करें (2023 गाइड)"
 "url": "/hi/net/spreadsheet-conversion/convert-potm-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET में GroupDocs.Conversion का उपयोग करके POTM को XLSX में कैसे परिवर्तित करें (2023 गाइड)
 
 ## परिचय

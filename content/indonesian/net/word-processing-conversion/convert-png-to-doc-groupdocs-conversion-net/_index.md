@@ -4,8 +4,8 @@
 "title": "Konversi PNG ke DOC Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/word-processing-conversion/convert-png-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi PNG ke DOC Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

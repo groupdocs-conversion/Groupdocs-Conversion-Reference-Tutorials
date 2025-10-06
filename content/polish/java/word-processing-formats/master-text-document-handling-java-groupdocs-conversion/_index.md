@@ -4,8 +4,8 @@
 "title": "Zarządzanie dokumentami tekstowymi w Javie przy użyciu GroupDocs.Conversion w celu bezproblemowego kodowania i konwersji PDF"
 "url": "/pl/java/word-processing-formats/master-text-document-handling-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Opanowanie obsługi dokumentów tekstowych w Javie z GroupDocs.Conversion
 
 ## Wstęp

@@ -4,8 +4,8 @@
 "title": "Chuyển đổi PST sang HTML bằng GroupDocs.Conversion .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/storage-files-pst-processing/convert-pst-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp PST sang HTML bằng GroupDocs.Conversion .NET: Hướng dẫn từng bước
 
 ## Giới thiệu

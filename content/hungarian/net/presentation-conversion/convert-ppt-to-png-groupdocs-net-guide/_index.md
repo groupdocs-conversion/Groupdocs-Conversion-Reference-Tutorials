@@ -4,8 +4,8 @@
 "title": "PPT konvertálása PNG-vé a GroupDocs.Conversion segítségével .NET-ben – Átfogó útmutató"
 "url": "/hu/net/presentation-conversion/convert-ppt-to-png-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # PPT konvertálása PNG-vé a GroupDocs.Conversion használatával .NET-ben: Fejlesztői útmutató
 
 ## Bevezetés

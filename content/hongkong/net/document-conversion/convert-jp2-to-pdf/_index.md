@@ -5,8 +5,8 @@
 "title": "將JP2轉換為PDF"
 "url": "/zh-hant/net/document-conversion/convert-jp2-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # 將JP2轉換為PDF
 
 ## 介紹

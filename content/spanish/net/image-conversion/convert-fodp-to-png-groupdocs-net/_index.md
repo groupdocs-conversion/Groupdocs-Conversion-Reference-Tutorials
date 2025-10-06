@@ -4,8 +4,8 @@
 "title": "Convierte archivos FODP a PNG con GroupDocs.Conversion para .NET | Guía de conversión de imágenes"
 "url": "/es/net/image-conversion/convert-fodp-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convierta archivos FODP a PNG con GroupDocs.Conversion para .NET
 
 ## Introducción

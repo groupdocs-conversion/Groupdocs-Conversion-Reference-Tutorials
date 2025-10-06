@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion का उपयोग करके .NET में PPSX को PDF में परिवर्तित करें"
 "url": "/hi/net/pdf-conversion/convert-ppsx-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET में GroupDocs.Conversion का उपयोग करके PPSX को PDF में परिवर्तित करें
 
 ## परिचय

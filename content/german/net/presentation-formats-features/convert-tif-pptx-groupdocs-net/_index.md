@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie TIF in PPTX mit GroupDocs.Conversion für .NET – Ein umfassender Leitfaden"
 "url": "/de/net/presentation-formats-features/convert-tif-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie TIF in PPTX mit GroupDocs.Conversion für .NET: Eine umfassende Anleitung
 
 ## Einführung

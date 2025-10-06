@@ -8,10 +8,8 @@ keywords:
 - PDF to DOCX Conversion
 - GroupDocs.Conversion for .NET
 - .NET PDF Conversion
-
+type: docs
 ---
-
-
 # Master PDF to DOCX Conversion with GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -5,8 +5,8 @@
 "title": "将PPS转换为PDF"
 "url": "/zh/net/pdf-conversion/convert-pps-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # 将PPS转换为PDF
 
 ## 介绍

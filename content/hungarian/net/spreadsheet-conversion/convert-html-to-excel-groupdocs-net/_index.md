@@ -4,8 +4,8 @@
 "title": "HTML konvertálása Excelbe a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/spreadsheet-conversion/convert-html-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # HTML konvertálása Excelbe a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

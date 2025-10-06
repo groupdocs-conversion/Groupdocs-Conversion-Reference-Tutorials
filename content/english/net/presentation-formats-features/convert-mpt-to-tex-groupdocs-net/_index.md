@@ -8,10 +8,8 @@ keywords:
 - convert MPT to TEX
 - GroupDocs.Conversion .NET
 - Microsoft Project files conversion
-
+type: docs
 ---
-
-
 # Convert MPT to TEX with GroupDocs.Conversion for .NET: Seamless File Conversion Guide
 
 ## Introduction

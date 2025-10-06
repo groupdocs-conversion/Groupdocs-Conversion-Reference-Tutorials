@@ -4,8 +4,8 @@
 "title": "Konwersja PDF do Word w Javie z usuwaniem osadzonych plików – przewodnik krok po kroku z wykorzystaniem GroupDocs.Conversion"
 "url": "/pl/java/pdf-conversion/convert-pdf-to-word-java-embedded-file-removal/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja PDF do Word w Javie z usuwaniem osadzonych plików: przewodnik krok po kroku z wykorzystaniem GroupDocs.Conversion
 
 ## Wstęp

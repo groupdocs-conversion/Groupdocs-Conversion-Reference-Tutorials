@@ -8,10 +8,8 @@ keywords:
 - convert PPS to PNG
 - GroupDocs.Conversion for .NET
 - PowerPoint Slide Show conversion
-
+type: docs
 ---
-
-
 # How to Convert PPS to PNG Using GroupDocs.Conversion for .NET: A Comprehensive Tutorial
 
 ## Introduction

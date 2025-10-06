@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion'ı Kullanarak C#'ta Dosya Dönüşümünde Ustalaşma"
 "url": "/tr/net/document-output-saving/mastering-file-conversion-csharp-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # C#'ta Dosya Dönüşümünde Ustalaşma: .NET için GroupDocs.Conversion'ı Uygulama
 
 ## giriiş

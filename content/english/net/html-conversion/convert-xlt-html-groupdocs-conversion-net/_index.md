@@ -8,10 +8,8 @@ keywords:
 - convert XLT to HTML
 - GroupDocs.Conversion for .NET
 - XLT file conversion
-
+type: docs
 ---
-
-
 # How to Convert XLT Files to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -3,8 +3,8 @@
 "title": "Samouczki dotyczące zdarzeń konwersji i rejestrowania dla GroupDocs.Conversion Java"
 "url": "/pl/java/conversion-events-logging/"
 "weight": 15
+type: docs
 ---
-
 # Samouczki dotyczące zdarzeń konwersji i rejestrowania dla GroupDocs.Conversion Java
 
 Poznaj możliwości monitorowania i rejestrowania dzięki naszym samouczkom dotyczącym zdarzeń GroupDocs.Conversion dla języka Java. Te szczegółowe przewodniki pokazują, jak skonfigurować nasłuchiwacze zdarzeń, śledzić postęp konwersji, wdrażać szczegółowe rejestrowanie, obsługiwać powiadomienia o konwersji i programowo tworzyć niestandardowe programy obsługi zdarzeń. Każdy samouczek zawiera działające przykłady kodu Java, które pokazują, jak ulepszyć aplikacje dzięki solidnym funkcjom monitorowania i raportowania, pomagając w budowaniu niezawodnych systemów konwersji z kompleksowymi śladami audytu i opiniami użytkowników.

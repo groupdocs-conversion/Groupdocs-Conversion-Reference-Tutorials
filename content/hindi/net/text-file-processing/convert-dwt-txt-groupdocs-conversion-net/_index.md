@@ -4,8 +4,8 @@
 "title": "कुशल टेक्स्ट फ़ाइल प्रसंस्करण के लिए GroupDocs.Conversion .NET का उपयोग करके DWT को TXT में परिवर्तित करें"
 "url": "/hi/net/text-file-processing/convert-dwt-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # कुशल टेक्स्ट फ़ाइल प्रसंस्करण के लिए GroupDocs.Conversion .NET का उपयोग करके DWT को TXT में परिवर्तित करें
 
 ## परिचय

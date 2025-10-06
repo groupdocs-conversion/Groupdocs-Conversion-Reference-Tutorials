@@ -4,8 +4,8 @@
 "title": "Comment convertir un fichier PST d'Outlook en fichier TEX avec GroupDocs.Conversion .NET"
 "url": "/fr/net/storage-files-pst-processing/convert-pst-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir un fichier PST d'Outlook en fichier TEX avec GroupDocs.Conversion .NET
 
 ## Introduction

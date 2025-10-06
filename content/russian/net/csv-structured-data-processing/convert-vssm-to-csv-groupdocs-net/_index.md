@@ -4,8 +4,8 @@
 "title": "Эффективное преобразование VSSM в CSV с помощью GroupDocs.Conversion в C#. Подробное руководство"
 "url": "/ru/net/csv-structured-data-processing/convert-vssm-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Как конвертировать файлы VSSM в CSV с помощью GroupDocs.Conversion .NET: подробное руководство
 
 ## Введение

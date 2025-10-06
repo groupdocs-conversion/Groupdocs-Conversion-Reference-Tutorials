@@ -4,8 +4,8 @@
 "title": "Konversi PDF ke Gambar Menggunakan GroupDocs.Conversion .NET&#58; Panduan Lengkap"
 "url": "/id/net/image-conversion/convert-pdf-to-image-groupdocs-net-guide/"
 "weight": 1
+type: docs
 ---
-
 # Konversi PDF ke Gambar Menggunakan GroupDocs.Conversion .NET: Panduan Lengkap
 
 ## Perkenalan

@@ -5,8 +5,8 @@
 "title": "POTM'yi PDF'ye dönüştür"
 "url": "/tr/net/pdf-conversion/convert-potm-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # POTM'yi PDF'ye dönüştür
 
 ## giriiş

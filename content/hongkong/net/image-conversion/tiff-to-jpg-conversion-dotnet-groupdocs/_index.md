@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 在 .NET 中輕鬆實現 TIFF 到 JPG 的轉換"
 "url": "/zh-hant/net/image-conversion/tiff-to-jpg-conversion-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 輕鬆實現 TIFF 到 JPG 的轉換
 
 ## 介紹

@@ -4,8 +4,8 @@
 "title": "在 GroupDocs.Conversion for .NET 中设置流许可证——综合指南"
 "url": "/zh/net/getting-started-licensing/groupdocs-conversion-net-set-license-stream/"
 "weight": 1
+type: docs
 ---
-
 # 在 GroupDocs.Conversion for .NET 中从流设置许可证：综合指南
 
 ## 介绍

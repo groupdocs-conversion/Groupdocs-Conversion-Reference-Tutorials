@@ -4,8 +4,8 @@
 "title": "EPUB DOCX formátumba konvertálása a GroupDocs.Conversion .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/word-processing-formats-features/convert-epub-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # EPUB fájlok DOCX formátumba konvertálása a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

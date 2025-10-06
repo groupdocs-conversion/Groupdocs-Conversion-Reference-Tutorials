@@ -4,8 +4,8 @@
 "title": "Steg-för-steg-guide Konvertera JPEG 2000 (.j2k) till PDF med GroupDocs.Conversion för .NET"
 "url": "/sv/net/pdf-conversion/convert-jpeg-2000-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Steg-för-steg-guide: Konvertera JPEG 2000 (.j2k) till PDF med GroupDocs.Conversion för .NET
 
 ## Introduktion

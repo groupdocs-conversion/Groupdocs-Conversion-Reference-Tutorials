@@ -4,8 +4,8 @@
 "title": "VTX fájlok DOCX formátumba konvertálása a GroupDocs.Conversion for .NET használatával – Fejlesztői útmutató"
 "url": "/hu/net/word-processing-conversion/convert-vtx-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # VTX fájlok DOCX formátumba konvertálása a GroupDocs.Conversion for .NET használatával: Fejlesztői útmutató
 
 ## Bevezetés

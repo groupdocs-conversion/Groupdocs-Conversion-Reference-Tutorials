@@ -8,10 +8,8 @@ keywords:
 - XML to Spreadsheet Conversion
 - GroupDocs.Conversion for .NET
 - .NET XML to Excel
-
+type: docs
 ---
-
-
 # Efficient XML to Spreadsheet Conversion in .NET Using GroupDocs.Conversion
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Java के लिए GroupDocs.Conversion का उपयोग करके Word-to-PDF रूपांतरण में ट्रैक किए गए परिवर्तनों को स्वचालित रूप से छिपाना"
 "url": "/hi/java/conversion-options/automate-hide-tracked-changes-word-pdf-conversion-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Java के लिए GroupDocs.Conversion का उपयोग करके Word-to-PDF रूपांतरण में ट्रैक किए गए परिवर्तनों को स्वचालित रूप से छिपाएँ
 
 ## परिचय

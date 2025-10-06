@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion .NET 的 PDF 轉換與功能教學課程"
 "url": "/zh-hant/net/pdf-conversion-features/"
 "weight": 9
+type: docs
 ---
-
 # GroupDocs.Conversion .NET 的 PDF 轉換與功能教學課程
 
 我們以 PDF 為重點的教程提供了在 .NET 應用程式中處理 PDF 文件的全面指導。這些實用指南示範如何將各種格式轉換為 PDF、將 PDF 轉換為其他格式、拼合表單欄位、隱藏註解、移除嵌入檔案、最佳化 PDF 壓縮設定、控制 PDF/A 合規性、管理文件權限以及在轉換過程中保留超連結。每個教學課程都包含完整的 PDF 轉換場景的 C# 程式碼範例，可協助您建立充分利用 PDF 格式全部功能並保持文件保真度的應用程式。

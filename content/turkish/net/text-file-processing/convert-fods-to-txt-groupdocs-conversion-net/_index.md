@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET Kullanarak FODS'u TXT Dosyalarına Dönüştürün | Metin Dosyası İşleme Kılavuzu"
 "url": "/tr/net/text-file-processing/convert-fods-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET Kullanarak FODS Dosyalarını TXT'ye Dönüştürme
 
 ## giriiş

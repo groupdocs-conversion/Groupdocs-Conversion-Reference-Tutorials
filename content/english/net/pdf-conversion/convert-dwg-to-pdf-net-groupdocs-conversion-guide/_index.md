@@ -8,10 +8,8 @@ keywords:
 - convert DWG to PDF .NET
 - GroupDocs Conversion for .NET
 - DWG file conversion in C#
-
+type: docs
 ---
-
-
 # Master .NET DWG to PDF Conversion Using GroupDocs.Conversion
 
 ## Introduction

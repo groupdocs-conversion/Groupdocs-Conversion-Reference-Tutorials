@@ -3,8 +3,8 @@
 "title": "XML és JSON feldolgozási oktatóanyagok a GroupDocs.Conversion .NET-hez"
 "url": "/hu/net/xml-json-processing/"
 "weight": 16
+type: docs
 ---
-
 # XML és JSON feldolgozási oktatóanyagok a GroupDocs.Conversion .NET-hez
 
 Fedezze fel az adatformátum-konverziós lehetőségeket a .NET-fejlesztőknek szóló GroupDocs.Conversion oktatóanyagaink segítségével. Ezek a lépésről lépésre bemutatják, hogyan használható az XML és a JSON adatforrásként táblázatok és más dokumentumtípusok létrehozásához, hogyan őrizhető meg a hierarchikus adatszerkezet az átalakítás során, hogyan tarthatók fenn összetett objektumkapcsolatok, hogyan kezelhetők tömbök és gyűjtemények, hogyan kezelhetők névterek és sémák, valamint hogyan valósíthatók meg adatátalakítási és -leképezési műveletek. Minden oktatóanyag gyakorlati C# kódpéldákat tartalmaz a strukturált adatformátumokkal való munkához, segítve olyan alkalmazások létrehozását, amelyek géppel olvasható adatokat képesek emberbarát dokumentumformátumokká alakítani.

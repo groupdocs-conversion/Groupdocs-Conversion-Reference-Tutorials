@@ -3,8 +3,8 @@
 "title": "Tutorial Penanganan dan Penggantian Font untuk GroupDocs.Conversion .NET"
 "url": "/id/net/font-handling-substitution/"
 "weight": 22
+type: docs
 ---
-
 # Tutorial Penanganan dan Penggantian Font untuk GroupDocs.Conversion .NET
 
 Jelajahi kemampuan manajemen font dengan tutorial GroupDocs.Conversion kami yang komprehensif untuk .NET. Panduan langkah demi langkah ini menunjukkan cara menentukan opsi substitusi font di berbagai jenis dokumen termasuk Word, Excel, PowerPoint, dan format pencatatan, menangani font yang hilang, menerapkan kebijakan penyematan font, mengelola persyaratan lisensi font, mengendalikan perilaku fallback font, mempertahankan gaya dan format font, dan memastikan tampilan teks yang konsisten di berbagai platform. Setiap tutorial mencakup contoh kode C# praktis untuk operasi terkait font, membantu Anda membangun aplikasi yang mempertahankan fidelitas dokumen bahkan saat berhadapan dengan tantangan ketersediaan font.

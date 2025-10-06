@@ -4,8 +4,8 @@
 "title": "JPEG veszteségmentes (JLS) fájlok konvertálása JPEG-re (JPG) a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/convert-jpeg-lossless-to-jpeg-using-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # JPEG veszteségmentes (JLS) fájlok konvertálása JPEG (JPG) formátumba a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Převod CAD do TIFF s vlastními rozměry pomocí GroupDocs.Conversion v Javě – Komplexní průvodce"
 "url": "/cs/java/cad-formats/cad-conversion-tiff-custom-dimensions-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Převod CAD do TIFF s vlastními rozměry pomocí GroupDocs.Conversion Java: Komplexní průvodce
 
 ## Zavedení

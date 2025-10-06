@@ -3,8 +3,8 @@
 "title": "Läser in dokument från molnlagring Handledningar för GroupDocs.Conversion .NET"
 "url": "/sv/net/loading-from-cloud-storage/"
 "weight": 4
+type: docs
 ---
-
 # Läser in dokument från molnlagring Handledningar för GroupDocs.Conversion .NET
 
 Våra handledningar för molnlagring visar hur du integrerar GroupDocs.Conversion med populära molnlagringsplattformar i .NET-applikationer. Dessa detaljerade guider går igenom hur du ansluter till Amazon S3-buckets, får åtkomst till Azure Blob Storage-containrar, konfigurerar lämpliga autentiseringsuppgifter, hanterar regionspecifika inställningar, hanterar anslutningspooler och implementerar återförsökslogik för molnoperationer. Varje handledning innehåller praktiska C#-kodexempel för molnbaserade dokumenthämtningsscenarier, vilket hjälper dig att bygga robusta applikationer som utnyttjar molnbaserade dokumentdatabaser i dina konverteringsarbetsflöden.

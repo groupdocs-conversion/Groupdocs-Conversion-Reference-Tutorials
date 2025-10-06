@@ -4,8 +4,8 @@
 "title": "Jak převést DOCM do CSV pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/spreadsheet-formats-features/convert-docm-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést DOCM do CSV pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

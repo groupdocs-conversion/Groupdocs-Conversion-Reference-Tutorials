@@ -8,10 +8,8 @@ keywords:
 - convert GIF to text
 - GroupDocs.Conversion for .NET
 - GIF to TXT conversion
-
+type: docs
 ---
-
-
 # Convert GIFs to Text Files Using GroupDocs for .NET: A Comprehensive Guide
 
 ## Introduction

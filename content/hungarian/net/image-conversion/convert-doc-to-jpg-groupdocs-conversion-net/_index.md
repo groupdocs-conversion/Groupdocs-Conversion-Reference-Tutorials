@@ -4,8 +4,8 @@
 "title": "Hatékony DOC-ból JPG-be konvertálás a GroupDocs.Conversion .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/image-conversion/convert-doc-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony DOC-ból JPG-be konvertálás a GroupDocs.Conversion .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

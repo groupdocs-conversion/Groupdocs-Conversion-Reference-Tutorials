@@ -4,8 +4,8 @@
 "title": "Excel sablonfájlok (XLTX) konvertálása PDF-be a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/pdf-conversion/convert-xltx-to-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Excel sablonfájlok (XLTX) konvertálása PDF-be a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

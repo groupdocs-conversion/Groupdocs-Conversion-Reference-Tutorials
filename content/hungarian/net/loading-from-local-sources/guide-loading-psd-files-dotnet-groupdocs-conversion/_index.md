@@ -4,8 +4,8 @@
 "title": "Végső útmutató a PSD fájlok .NET-ben történő betöltéséhez a GroupDocs.Conversion használatával"
 "url": "/hu/net/loading-from-local-sources/guide-loading-psd-files-dotnet-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Végső útmutató a PSD fájlok .NET-ben történő betöltéséhez a GroupDocs.Conversion használatával
 
 ## Bevezetés

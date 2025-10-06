@@ -4,8 +4,8 @@
 "title": "Konversi File Master&#58; Konversi POTX ke DOCX Menggunakan GroupDocs.Conversion .NET"
 "url": "/id/net/word-processing-formats-features/convert-potx-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Menguasai Konversi File: Konversi POTX ke DOCX dengan GroupDocs.Conversion .NET
 
 Dalam dunia digital yang serba cepat saat ini, mengonversi file dari satu format ke format lain dengan mudah merupakan keterampilan yang penting. Baik Anda sedang mempersiapkan materi presentasi atau berbagi dokumen di berbagai platform, memastikan kompatibilitas dapat menghemat waktu dan mengurangi sakit kepala. Tutorial ini akan memandu Anda menggunakan pustaka GroupDocs.Conversion .NET yang canggih untuk mengonversi file POTX (Templat PowerPoint) ke format DOCX. Anda akan mempelajari cara menangani tugas konversi file secara efisien dengan mudah.

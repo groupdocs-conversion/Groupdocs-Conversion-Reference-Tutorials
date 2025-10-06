@@ -5,8 +5,8 @@
 "title": "POT를 PDF로 변환"
 "url": "/ko/net/pdf-conversion/convert-pot-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # POT를 PDF로 변환
 
 ## 소개

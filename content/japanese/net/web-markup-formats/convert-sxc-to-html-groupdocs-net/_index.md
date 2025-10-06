@@ -4,8 +4,8 @@
 "title": "SXC を HTML に変換 &#58; GroupDocs.Conversion for .NET とのシームレスな統合"
 "url": "/ja/net/web-markup-formats/convert-sxc-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して SXC ファイルを HTML に変換する
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "Jelszóval védett dokumentumok betöltése és konvertálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/working-with-secure-documents/groupdocs-load-convert-password-documents-net/"
 "weight": 1
+type: docs
 ---
-
 # Jelszóval védett dokumentumok betöltése és konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

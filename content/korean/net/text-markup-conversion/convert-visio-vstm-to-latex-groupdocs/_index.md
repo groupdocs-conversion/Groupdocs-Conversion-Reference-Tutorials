@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 Visio VSTM을 LaTeX로 변환하는 포괄적인 가이드"
 "url": "/ko/net/text-markup-conversion/convert-visio-vstm-to-latex-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 Visio 매크로 지원 드로잉 템플릿(.vstm)을 LaTeX 소스 문서(.tex)로 변환
 
 ## 소개

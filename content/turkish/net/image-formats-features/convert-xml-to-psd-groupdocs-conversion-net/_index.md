@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak XML'i PSD'ye Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/image-formats-features/convert-xml-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak XML'i PSD'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

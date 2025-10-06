@@ -4,8 +4,8 @@
 "title": "วิธีการแปลงเอกสาร Word ที่มีการป้องกันด้วยรหัสผ่านเป็น HTML โดยใช้ Java (คู่มือทีละขั้นตอน)"
 "url": "/th/java/word-processing-formats/convert-password-protected-word-to-html-java/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการแปลงเอกสาร Word ที่มีการป้องกันด้วยรหัสผ่านเป็น HTML โดยใช้ Java
 
 ## การแนะนำ

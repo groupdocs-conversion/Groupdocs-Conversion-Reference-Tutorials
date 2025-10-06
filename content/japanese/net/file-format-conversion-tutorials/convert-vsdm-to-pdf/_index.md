@@ -5,8 +5,8 @@
 "title": "VSDMをPDFに変換する"
 "url": "/ja/net/file-format-conversion-tutorials/convert-vsdm-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # VSDMをPDFに変換する
 
 ## 導入

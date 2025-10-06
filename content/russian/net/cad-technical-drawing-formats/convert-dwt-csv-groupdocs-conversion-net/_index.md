@@ -4,8 +4,8 @@
 "title": "Как преобразовать файлы DWT в CSV с помощью GroupDocs.Conversion для .NET? Подробное руководство"
 "url": "/ru/net/cad-technical-drawing-formats/convert-dwt-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Как конвертировать файлы DWT в CSV с помощью GroupDocs.Conversion для .NET
 
 ## Введение

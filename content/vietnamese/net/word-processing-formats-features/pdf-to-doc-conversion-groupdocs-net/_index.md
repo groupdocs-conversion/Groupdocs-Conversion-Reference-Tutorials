@@ -4,8 +4,8 @@
 "title": "Chuyển đổi PDF sang DOC hiệu quả bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/word-processing-formats-features/pdf-to-doc-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi PDF sang DOC hiệu quả bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

@@ -8,10 +8,8 @@ keywords:
 - DGN to DOCX conversion
 - GroupDocs.Conversion for .NET
 - CAD file format
-
+type: docs
 ---
-
-
 # Efficient DGN to DOCX Conversion with GroupDocs in .NET
 
 ## Introduction

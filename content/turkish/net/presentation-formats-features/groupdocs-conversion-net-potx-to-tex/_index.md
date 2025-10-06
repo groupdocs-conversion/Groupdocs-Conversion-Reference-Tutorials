@@ -4,8 +4,8 @@
 "title": "POTX'i GroupDocs.Conversion for .NET kullanarak TeX'e dönüştürün&#58; Kapsamlı Bir Kılavuz"
 "url": "/tr/net/presentation-formats-features/groupdocs-conversion-net-potx-to-tex/"
 "weight": 1
+type: docs
 ---
-
 # POTX'i GroupDocs.Conversion for .NET kullanarak TeX'e dönüştürün: Kapsamlı Bir Kılavuz
 
 ## giriiş

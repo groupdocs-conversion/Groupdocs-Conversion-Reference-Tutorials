@@ -4,8 +4,8 @@
 "title": "Verberg bijgehouden wijzigingen in Word naar PDF-conversie met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/page-management-content-manipulation/hide-tracked-changes-word-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Geavanceerde Word-naar-PDF-conversie met verborgen bijgehouden wijzigingen onder de knie krijgen met GroupDocs.Conversion voor .NET
 
 ## Invoering

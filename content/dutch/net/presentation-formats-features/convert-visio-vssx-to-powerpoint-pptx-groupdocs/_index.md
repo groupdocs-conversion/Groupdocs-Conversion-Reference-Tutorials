@@ -4,8 +4,8 @@
 "title": "Visio-stencilbestanden (VSSX) converteren naar PowerPoint-presentaties met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/presentation-formats-features/convert-visio-vssx-to-powerpoint-pptx-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Visio-stencilbestanden (VSSX) converteren naar PowerPoint-presentaties met GroupDocs.Conversion voor .NET
 
 ## Invoering

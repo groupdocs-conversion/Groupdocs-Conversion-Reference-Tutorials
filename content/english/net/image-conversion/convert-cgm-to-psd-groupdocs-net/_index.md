@@ -8,10 +8,8 @@ keywords:
 - CGM to PSD conversion
 - GroupDocs.Conversion for .NET
 - image file conversion
-
+type: docs
 ---
-
-
 # Comprehensive Guide: Using GroupDocs.Conversion for .NET to Convert CGM to PSD
 
 ## Introduction

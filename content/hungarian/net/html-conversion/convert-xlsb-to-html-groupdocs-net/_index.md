@@ -4,8 +4,8 @@
 "title": "XLSB konvertálása HTML-lé a GroupDocs.Conversion .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/html-conversion/convert-xlsb-to-html-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # XLSB konvertálása HTML-re a GroupDocs.Conversion .NET segítségével
 
 ## Bevezetés

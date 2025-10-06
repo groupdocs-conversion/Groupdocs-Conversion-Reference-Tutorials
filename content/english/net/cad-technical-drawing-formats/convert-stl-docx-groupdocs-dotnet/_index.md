@@ -8,10 +8,8 @@ keywords:
 - STL to DOCX conversion
 - GroupDocs.Conversion for .NET
 - .NET file conversion
-
+type: docs
 ---
-
-
 # Convert STL to DOCX in .NET with GroupDocs.Conversion: A Comprehensive Guide
 
 ## Introduction

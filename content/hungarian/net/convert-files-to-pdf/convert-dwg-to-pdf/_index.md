@@ -5,8 +5,8 @@
 "title": "DWG CAD fájlok konvertálása PDF-be"
 "url": "/hu/net/convert-files-to-pdf/convert-dwg-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # DWG CAD fájlok konvertálása PDF-be
 
 ## Bevezetés

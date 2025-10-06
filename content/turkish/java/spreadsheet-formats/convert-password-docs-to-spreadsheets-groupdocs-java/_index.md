@@ -4,8 +4,8 @@
 "title": "Parola Korumalı Word Belgelerini GroupDocs.Conversion for Java Kullanarak Excel Elektronik Tablolarına Nasıl Dönüştürebilirsiniz"
 "url": "/tr/java/spreadsheet-formats/convert-password-docs-to-spreadsheets-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for Java Kullanılarak Parola Korumalı Belgeler Nasıl Dönüştürülür
 
 ## giriiş

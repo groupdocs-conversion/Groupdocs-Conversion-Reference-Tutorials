@@ -4,8 +4,8 @@
 "title": "GIF-ek XLSX fájlokká konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/spreadsheet-formats-features/convert-gif-to-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GIF-ek XLSX fájlokká konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

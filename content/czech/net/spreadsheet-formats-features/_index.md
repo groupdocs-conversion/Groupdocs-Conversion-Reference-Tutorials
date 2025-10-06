@@ -3,8 +3,8 @@
 "title": "Výukové programy pro formáty a funkce tabulek v GroupDocs.Conversion .NET"
 "url": "/cs/net/spreadsheet-formats-features/"
 "weight": 11
+type: docs
 ---
-
 # Výukové programy pro formáty a funkce tabulek v GroupDocs.Conversion .NET
 
 Naučte se, jak pracovat s tabulkovými dokumenty, v našich tutoriálech GroupDocs.Conversion .NET. Tyto podrobné návody ukazují, jak převádět mezi formáty Excelu, CSV a dalšími typy tabulek, zobrazovat nebo skrývat čáry mřížky a komentáře, přeskakovat prázdné řádky a sloupce, určovat rozsahy a indexy listů pro převod, spravovat skryté listy, zachovat vzorce a funkce, zachovat formátování buněk a ovládat výpočtové řetězce během převodu. Každý tutoriál obsahuje funkční příklady kódu C#, které ukazují, jak implementovat přesný převod tabulek a zároveň zachovat složité výpočty a vizuální prvky.

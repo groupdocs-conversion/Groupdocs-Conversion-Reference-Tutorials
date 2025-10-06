@@ -8,10 +8,8 @@ keywords:
 - convert PCL to JPG
 - GroupDocs.Conversion for .NET
 - PCL file conversion
-
+type: docs
 ---
-
-
 # Convert PCL Files to JPG Using GroupDocs.Conversion for .NET
 
 ## Introduction

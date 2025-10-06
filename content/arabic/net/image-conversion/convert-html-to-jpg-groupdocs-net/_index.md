@@ -4,8 +4,8 @@
 "title": "تحويل HTML إلى JPG باستخدام GroupDocs.Conversion لـ .NET - دليل كامل"
 "url": "/ar/net/image-conversion/convert-html-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل HTML إلى JPG باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

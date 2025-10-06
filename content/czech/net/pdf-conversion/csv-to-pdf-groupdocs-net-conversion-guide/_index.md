@@ -4,8 +4,8 @@
 "title": "Komplexní průvodce&#58; Převod CSV do PDF pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/pdf-conversion/csv-to-pdf-groupdocs-net-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Komplexní průvodce: Převod CSV do PDF pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

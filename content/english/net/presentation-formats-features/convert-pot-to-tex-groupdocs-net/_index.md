@@ -8,10 +8,8 @@ keywords:
 - convert PowerPoint to LaTeX
 - GroupDocs.Conversion for .NET
 - PowerPoint template conversion
-
+type: docs
 ---
-
-
 # Convert PowerPoint Templates (.pot) to LaTeX Using GroupDocs.Conversion for .NET
 ## Introduction
 In today's digital age, converting document formats seamlessly is crucial for maintaining productivity and ensuring information accessibility. Whether you're a developer looking to integrate various file conversions into your application or need conversion for personal use, finding the right tool can be challenging. Enter GroupDocs.Conversion for .NET—a powerful library that simplifies file format conversion.

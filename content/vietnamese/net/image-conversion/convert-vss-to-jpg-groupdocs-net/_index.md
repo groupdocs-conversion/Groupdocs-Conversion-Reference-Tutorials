@@ -4,8 +4,8 @@
 "title": "Chuyển đổi VSS sang JPG hiệu quả bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/image-conversion/convert-vss-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi hiệu quả các tệp VSS sang JPG bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

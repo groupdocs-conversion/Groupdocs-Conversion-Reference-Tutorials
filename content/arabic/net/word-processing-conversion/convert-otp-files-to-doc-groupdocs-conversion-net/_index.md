@@ -4,8 +4,8 @@
 "title": "تحويل ملفات OTP إلى ملفات DOC باستخدام GroupDocs.Conversion لـ .NET - دليل خطوة بخطوة"
 "url": "/ar/net/word-processing-conversion/convert-otp-files-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # تحويل ملفات OTP إلى DOC باستخدام GroupDocs.Conversion لـ .NET
 
 في بيئة اليوم الرقمية سريعة التطور، تُعدّ إدارة المستندات بكفاءة أمرًا بالغ الأهمية. قد يكون تحويل الملفات بين الصيغ أمرًا صعبًا، خاصةً مع أنواع الملفات المتخصصة مثل OTP (سجل حجز المسافرين من OpenTravel Alliance). مع GroupDocs.Conversion لـ .NET، تُصبح هذه المهمة سهلة وفعالة. سيرشدك هذا الدليل خلال عملية تحويل ملفات OTP إلى صيغة DOC باستخدام GroupDocs.Conversion لـ .NET.

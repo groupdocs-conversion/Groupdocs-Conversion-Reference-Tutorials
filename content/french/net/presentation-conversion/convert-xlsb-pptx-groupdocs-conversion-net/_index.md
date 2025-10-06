@@ -4,8 +4,8 @@
 "title": "Convertissez efficacement XLSB en PPTX à l'aide de GroupDocs.Conversion pour .NET - Guide étape par étape"
 "url": "/fr/net/presentation-conversion/convert-xlsb-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertissez efficacement XLSB en PPTX avec GroupDocs.Conversion pour .NET : guide étape par étape
 
 ## Introduction

@@ -5,8 +5,8 @@
 "title": "Convertire ODT in PDF"
 "url": "/it/net/pdf-conversion/convert-odt-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # Convertire ODT in PDF
 
 ## Introduzione

@@ -5,8 +5,8 @@
 "title": "Konversi PST ke PDF"
 "url": "/id/net/file-format-conversion-tutorials/convert-pst-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # Konversi PST ke PDF
 
 ## Perkenalan

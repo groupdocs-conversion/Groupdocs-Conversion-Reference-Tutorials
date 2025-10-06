@@ -4,8 +4,8 @@
 "title": "AI-fájlok PowerPoint formátumba konvertálása a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/presentation-conversion/convert-ai-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # AI-fájlok PowerPoint formátumba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

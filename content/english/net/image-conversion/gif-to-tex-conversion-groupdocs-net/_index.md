@@ -8,10 +8,8 @@ keywords:
 - GIF to TEX conversion
 - GroupDocs.Conversion for .NET
 - image format transformation
-
+type: docs
 ---
-
-
 # Convert GIF to TEX Using GroupDocs for .NET: A Comprehensive Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Komplexní průvodce&#58; Převod LaTeXu do Wordu pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/word-processing-conversion/convert-latex-word-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Komplexní průvodce: Převod LaTeXu do Wordu pomocí GroupDocs.Conversion pro .NET
 ## Zavedení
 Převod dokumentů LaTeX do přístupných formátů Wordu může být náročný, zejména pro výzkumníky, akademiky nebo technické autory, kteří často pracují se složitými soubory .tex. Tento tutoriál nabízí robustní řešení s využitím **GroupDocs.Conversion pro .NET**, což umožňuje snadnou konverzi souborů LaTeX do formátu DOC.

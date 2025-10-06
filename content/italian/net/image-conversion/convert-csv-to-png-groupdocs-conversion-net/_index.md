@@ -4,8 +4,8 @@
 "title": "Convertire CSV in PNG utilizzando GroupDocs.Conversion per .NET - Una guida completa"
 "url": "/it/net/image-conversion/convert-csv-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Converti i file CSV in splendide immagini PNG con GroupDocs.Conversion per .NET
 
 ## Introduzione

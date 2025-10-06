@@ -4,8 +4,8 @@
 "title": "Omfattande handledningar för GroupDocs.Conversion för Java"
 "url": "/sv/java/"
 "weight": 10
+type: docs
 ---
-
 # Omfattande handledningar för GroupDocs.Conversion för Java
 
 ## Introduktion

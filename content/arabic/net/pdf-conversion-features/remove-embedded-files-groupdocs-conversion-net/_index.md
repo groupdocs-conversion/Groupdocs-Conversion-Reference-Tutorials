@@ -4,8 +4,8 @@
 "title": "كيفية إزالة الملفات المضمنة من ملفات PDF باستخدام GroupDocs.Conversion .NET لإدارة المستندات بشكل مُحسّن"
 "url": "/ar/net/pdf-conversion-features/remove-embedded-files-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية إزالة الملفات المضمنة من ملفات PDF باستخدام GroupDocs.Conversion .NET لإدارة المستندات بشكل مُحسّن
 
 ## مقدمة

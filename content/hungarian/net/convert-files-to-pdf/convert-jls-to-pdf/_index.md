@@ -5,8 +5,8 @@
 "title": "JPEG-LS (.JLS) fájlok konvertálása PDF-be"
 "url": "/hu/net/convert-files-to-pdf/convert-jls-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # JPEG-LS (.JLS) fájlok konvertálása PDF-be
 
 ## Bevezetés

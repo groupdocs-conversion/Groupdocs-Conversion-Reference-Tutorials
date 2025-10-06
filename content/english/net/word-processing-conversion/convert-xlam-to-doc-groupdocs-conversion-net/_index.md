@@ -8,10 +8,8 @@ keywords:
 - convert XLAM to DOC
 - GroupDocs.Conversion .NET
 - Excel Macro-Enabled Add-In conversion
-
+type: docs
 ---
-
-
 # Convert XLAM to DOC with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

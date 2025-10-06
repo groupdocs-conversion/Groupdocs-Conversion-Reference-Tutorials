@@ -5,8 +5,8 @@
 "title": "DJVU dokumentumok konvertálása PDF-be"
 "url": "/hu/net/file-conversion-to-pdf/convert-djvu-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # DJVU dokumentumok konvertálása PDF-be
 
 ## Bevezetés

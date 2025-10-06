@@ -5,8 +5,8 @@
 "title": "Chuyển đổi XLAM sang PDF"
 "url": "/vi/net/converting-file-types-to-pdf/convert-xlam-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # Chuyển đổi XLAM sang PDF
 
 ## Giới thiệu

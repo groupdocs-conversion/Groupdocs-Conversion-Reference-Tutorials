@@ -5,8 +5,8 @@
 "title": "VSTX को PDF में बदलें"
 "url": "/hi/net/converting-file-types-to-pdf/convert-vstx-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # VSTX को PDF में बदलें
 
 ## परिचय

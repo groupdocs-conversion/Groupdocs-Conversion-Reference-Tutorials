@@ -4,8 +4,8 @@
 "title": "在 .NET 中將 VSDM 轉換為 PSD — 使用 GroupDocs.Conversion 的分步指南"
 "url": "/zh-hant/net/image-conversion/convert-vsmd-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 在 .NET 中將 VSDM 轉換為 PSD：使用 GroupDocs.Conversion 的逐步指南
 
 ## 介紹

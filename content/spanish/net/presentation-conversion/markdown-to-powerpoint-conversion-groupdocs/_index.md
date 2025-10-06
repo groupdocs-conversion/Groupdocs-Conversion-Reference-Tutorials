@@ -4,8 +4,8 @@
 "title": "Domine la conversión de Markdown a PowerPoint con GroupDocs.Conversion para .NET"
 "url": "/es/net/presentation-conversion/markdown-to-powerpoint-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Domine la conversión de Markdown a PowerPoint con GroupDocs.Conversion para .NET
 
 ¿Quieres agilizar la conversión de notas de Markdown en presentaciones profesionales de PowerPoint? Esta guía completa te mostrará cómo transformar fácilmente archivos Markdown (.md) en presentaciones de PowerPoint Open XML (.pptx) usando la potente biblioteca GroupDocs.Conversion. Al dominar este proceso, ahorrarás tiempo y mejorarás tu productividad.

@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tệp PCL sang TXT trong .NET bằng GroupDocs.Conversion&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/text-markup-conversion/convert-pcl-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp PCL sang TXT bằng GroupDocs.Conversion cho .NET
 ## Giới thiệu
 Bạn có muốn chuyển đổi các tệp Ngôn ngữ lệnh máy in (PCL) sang định dạng văn bản thuần túy không? Cho dù xử lý các tài liệu cũ hay chuẩn bị dữ liệu để phân tích, việc chuyển đổi các tệp PCL có thể rất quan trọng. Hướng dẫn này sẽ hướng dẫn bạn sử dụng GroupDocs.Conversion cho .NET để chuyển đổi liền mạch các tệp PCL sang định dạng TXT.

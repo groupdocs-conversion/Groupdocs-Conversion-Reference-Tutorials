@@ -8,10 +8,8 @@ keywords:
 - XPS to Excel conversion
 - GroupDocs.Conversion .NET
 - .NET document processing
-
+type: docs
 ---
-
-
 # Efficient XPS to Excel Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

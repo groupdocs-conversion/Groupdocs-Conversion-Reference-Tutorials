@@ -4,8 +4,8 @@
 "title": "Αποτελεσματική μετατροπή PowerPoint (PPTM) σε Word (DOCX) χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/presentation-formats-features/convert-pptm-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Αποτελεσματική μετατροπή PowerPoint (PPTM) σε Word (DOCX) χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

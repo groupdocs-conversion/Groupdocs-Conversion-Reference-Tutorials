@@ -4,8 +4,8 @@
 "title": "Эффективное преобразование CGM в PSD с помощью GroupDocs.Conversion для .NET"
 "url": "/ru/net/image-conversion/convert-cgm-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Полное руководство: использование GroupDocs.Conversion для .NET для преобразования CGM в PSD
 
 ## Введение

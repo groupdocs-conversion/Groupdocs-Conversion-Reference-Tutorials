@@ -8,10 +8,8 @@ keywords:
 - Convert STL to PowerPoint
 - GroupDocs.Conversion .NET
 - STL file conversion
-
+type: docs
 ---
-
-
 # Convert STL to PowerPoint with GroupDocs.Conversion .NET
 
 ## Introduction

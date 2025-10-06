@@ -8,10 +8,8 @@ keywords:
 - convert DNG to TXT
 - GroupDocs.Conversion for .NET
 - text file conversion
-
+type: docs
 ---
-
-
 # Convert DNG to TXT Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Konwersja Excela do PDF w Java z zamianą czcionek za pomocą GroupDocs.Conversion"
 "url": "/pl/java/pdf-conversion/excel-to-pdf-conversion-font-substitution-java/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja Excela do PDF w Java z zamianą czcionek za pomocą GroupDocs.Conversion
 
 ## Wstęp

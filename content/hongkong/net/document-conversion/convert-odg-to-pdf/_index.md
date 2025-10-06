@@ -5,8 +5,8 @@
 "title": "將ODG轉換為PDF"
 "url": "/zh-hant/net/document-conversion/convert-odg-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # 將ODG轉換為PDF
 
 ## 介紹

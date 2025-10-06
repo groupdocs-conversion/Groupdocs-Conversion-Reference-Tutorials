@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tài liệu chính trong .NET bằng GroupDocs.Conversion&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/conversion-options-settings/mastering-document-conversions-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tài liệu chính trong .NET bằng GroupDocs.Conversion
 ## Giới thiệu
 Bạn đang gặp khó khăn với việc chuyển đổi tài liệu trong các ứng dụng .NET của mình? Bạn không đơn độc. Nhiều nhà phát triển phải đối mặt với thách thức xác định hiệu quả định dạng nào có thể chuyển đổi thành tài liệu. **GroupDocs.Conversion cho .NET** cung cấp khả năng tích hợp liền mạch và chức năng mạnh mẽ, khiến nó trở thành công cụ thiết yếu để nâng cao khả năng của ứng dụng.

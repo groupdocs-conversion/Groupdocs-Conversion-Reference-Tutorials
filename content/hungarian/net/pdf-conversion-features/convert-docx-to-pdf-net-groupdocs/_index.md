@@ -4,8 +4,8 @@
 "title": "DOCX fájlok PDF-be konvertálása .NET-ben a GroupDocs.Conversion használatával – Teljes körű útmutató"
 "url": "/hu/net/pdf-conversion-features/convert-docx-to-pdf-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # DOCX fájlok PDF-be konvertálása .NET-ben a GroupDocs.Conversion használatával: Teljes körű útmutató
 
 ## Bevezetés

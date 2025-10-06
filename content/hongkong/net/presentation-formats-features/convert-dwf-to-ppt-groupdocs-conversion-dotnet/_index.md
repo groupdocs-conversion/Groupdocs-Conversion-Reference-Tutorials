@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 將 DWF 文件轉換為 PowerPoint 簡報"
 "url": "/zh-hant/net/presentation-formats-features/convert-dwf-to-ppt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 將 DWF 文件轉換為 PowerPoint 簡報
 
 ## 介紹

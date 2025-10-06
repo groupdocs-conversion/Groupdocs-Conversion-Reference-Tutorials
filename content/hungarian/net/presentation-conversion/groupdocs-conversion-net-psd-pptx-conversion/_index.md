@@ -4,8 +4,8 @@
 "title": "PSD-ből PPTX-be konvertálás mesteri lépései a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/presentation-conversion/groupdocs-conversion-net-psd-pptx-conversion/"
 "weight": 1
+type: docs
 ---
-
 # .NET PSD-ből PPTX-be konvertálás elsajátítása a GroupDocs.Conversion segítségével
 
 ## Bevezetés

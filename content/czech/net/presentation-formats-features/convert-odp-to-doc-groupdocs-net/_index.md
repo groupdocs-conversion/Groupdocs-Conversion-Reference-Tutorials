@@ -4,8 +4,8 @@
 "title": "Převod ODP do DOC pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/presentation-formats-features/convert-odp-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů ODP do formátu DOC pomocí nástroje GroupDocs.Conversion pro .NET
 
 ## Zavedení

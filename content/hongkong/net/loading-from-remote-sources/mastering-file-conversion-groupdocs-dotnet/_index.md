@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion 掌握 .NET 中的文件轉換－綜合指南"
 "url": "/zh-hant/net/loading-from-remote-sources/mastering-file-conversion-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion 掌握 .NET 中的檔案轉換
 
 在當今的數位世界中，跨不同格式的無縫文件轉換是開發人員面臨的常見挑戰。無論您需要從 PDF 切換到 Word 文檔，還是將圖像轉換為演示文稿， **GroupDocs.Conversion for .NET** 提供強大而可靠的解決方案來簡化應用程式中的這些任務。

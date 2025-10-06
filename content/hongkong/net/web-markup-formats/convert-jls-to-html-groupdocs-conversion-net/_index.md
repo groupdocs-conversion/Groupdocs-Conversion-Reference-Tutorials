@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 JLS 轉換為 HTML — 逐步指南"
 "url": "/zh-hant/net/web-markup-formats/convert-jls-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 JLS 轉換為 HTML
 
 ## 介紹

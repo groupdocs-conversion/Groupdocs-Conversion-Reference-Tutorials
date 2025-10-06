@@ -4,8 +4,8 @@
 "title": "Kapsamlı Kılavuz&#58; GroupDocs.Conversion for .NET Kullanarak PNG'yi Excel'e (XLS) Dönüştürme"
 "url": "/tr/net/spreadsheet-conversion/convert-png-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Kapsamlı Kılavuz: GroupDocs.Conversion for .NET Kullanarak PNG'yi Excel'e (XLS) Dönüştürme
 
 ## giriiş

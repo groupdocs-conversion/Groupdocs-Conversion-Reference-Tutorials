@@ -5,8 +5,8 @@
 "title": "XLTXをPDFに変換する"
 "url": "/ja/net/converting-file-types-to-pdf/convert-xltx-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # XLTXをPDFに変換する
 
 ## 導入

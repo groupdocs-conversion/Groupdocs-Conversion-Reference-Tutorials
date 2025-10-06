@@ -8,10 +8,8 @@ keywords:
 - MHT to XLS conversion
 - GroupDocs.Conversion for .NET
 - Excel spreadsheet conversion
-
+type: docs
 ---
-
-
 # Comprehensive Guide: Convert MHT Files to XLS Using GroupDocs.Conversion for .NET
 
 ## Introduction

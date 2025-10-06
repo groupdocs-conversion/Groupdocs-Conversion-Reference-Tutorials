@@ -5,8 +5,8 @@
 "title": "MSG를 PDF로 변환"
 "url": "/ko/net/document-conversion/convert-msg-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # MSG를 PDF로 변환
 
 ## 소개

@@ -8,10 +8,8 @@ keywords:
 - convert EMLX to PDF
 - GroupDocs.Conversion .NET library
 - EMLX file conversion
-
+type: docs
 ---
-
-
 # Convert EMLX Files to PDF with GroupDocs.Conversion .NET: A Step-by-Step Guide
 
 ## Introduction

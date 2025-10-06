@@ -8,10 +8,8 @@ keywords:
 - convert VTX to XLS
 - GroupDocs.Conversion .NET
 - file conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Efficiently Convert VTX to XLS using GroupDocs.Conversion .NET
 
 ## Introduction

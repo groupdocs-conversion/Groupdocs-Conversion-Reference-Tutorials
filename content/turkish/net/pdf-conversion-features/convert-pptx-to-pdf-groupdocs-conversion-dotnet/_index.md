@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak PPTX'i PDF'ye Dönüştürmede Ustalaşın&#58; Bir Geliştiricinin Kılavuzu"
 "url": "/tr/net/pdf-conversion-features/convert-pptx-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion'ı Kullanarak PPTX'i PDF'ye Dönüştürmede Ustalaşın: Geliştiricinin Kılavuzu
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "E-mails naar PDF's converteren in Java met behulp van GroupDocs.Conversion&#58; handleiding voor geavanceerde opties"
 "url": "/nl/java/pdf-conversion/convert-emails-to-pdfs-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # E-mails naar pdf's converteren in Java met GroupDocs.Conversion: handleiding voor geavanceerde opties
 
 ## Invoering

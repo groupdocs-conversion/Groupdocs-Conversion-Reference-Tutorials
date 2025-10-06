@@ -5,8 +5,8 @@
 "title": "SXC konvertálása PDF-be"
 "url": "/hu/net/file-format-conversion-tutorials/convert-sxc-to-pdf/"
 "weight": 17
+type: docs
 ---
-
 # SXC konvertálása PDF-be
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "Behärskning av .NET-dokumentkonvertering - Använd GroupDocs för sömlösa PDF-transformationer"
 "url": "/sv/net/conversion-options-settings/master-net-document-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Bemästra dokumentkonvertering i .NET med GroupDocs.Conversion
 
 ## Introduktion

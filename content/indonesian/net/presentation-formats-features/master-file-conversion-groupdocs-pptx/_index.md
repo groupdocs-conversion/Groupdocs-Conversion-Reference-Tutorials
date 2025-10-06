@@ -4,8 +4,8 @@
 "title": "Konversi File PPTX Master dengan GroupDocs.Conversion untuk Solusi .NET yang Mudah dan Efisien"
 "url": "/id/net/presentation-formats-features/master-file-conversion-groupdocs-pptx/"
 "weight": 1
+type: docs
 ---
-
 # Konversi File PPTX Master dengan GroupDocs.Conversion untuk .NET: Solusi Mudah dan Efisien
 
 ## Perkenalan

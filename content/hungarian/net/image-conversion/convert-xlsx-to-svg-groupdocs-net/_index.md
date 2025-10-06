@@ -4,8 +4,8 @@
 "title": "XLSX fájlok SVG-vé konvertálása – lépésről lépésre útmutató a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-conversion/convert-xlsx-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # XLSX fájlok SVG fájlokká konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

@@ -5,8 +5,8 @@
 "title": "将 DOCM Word 文档（宏）转换为 PDF"
 "url": "/zh/net/file-conversion-to-pdf/convert-docm-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # 将 DOCM Word 文档（宏）转换为 PDF
 
 ## 介绍

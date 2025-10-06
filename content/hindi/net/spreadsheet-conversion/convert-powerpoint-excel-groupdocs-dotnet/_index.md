@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion का उपयोग करके PowerPoint को Excel में कनवर्ट करें .NET'#58; एक व्यापक गाइड"
 "url": "/hi/net/spreadsheet-conversion/convert-powerpoint-excel-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET का उपयोग करके PowerPoint स्लाइड को Excel शीट में कनवर्ट करें
 
 ## परिचय

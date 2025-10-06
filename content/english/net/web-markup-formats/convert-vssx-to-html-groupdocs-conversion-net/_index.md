@@ -8,10 +8,8 @@ keywords:
 - convert VSSX to HTML
 - GroupDocs.Conversion for .NET
 - Visio file conversion
-
+type: docs
 ---
-
-
 # How to Convert VSSX Files to HTML Using GroupDocs.Conversion for .NET
 
 ## Introduction

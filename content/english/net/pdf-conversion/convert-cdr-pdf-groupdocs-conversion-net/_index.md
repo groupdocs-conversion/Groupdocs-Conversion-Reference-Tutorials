@@ -8,10 +8,8 @@ keywords:
 - convert CDR to PDF
 - GroupDocs.Conversion for .NET
 - CorelDraw to PDF conversion
-
+type: docs
 ---
-
-
 # How to Convert CDR Files to PDF Using GroupDocs.Conversion .NET: A Step-by-Step Guide
 
 ## Introduction

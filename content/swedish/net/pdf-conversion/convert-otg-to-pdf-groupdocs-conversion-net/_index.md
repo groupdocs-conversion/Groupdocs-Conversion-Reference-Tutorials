@@ -4,8 +4,8 @@
 "title": "Konvertera OTG till PDF enkelt med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/pdf-conversion/convert-otg-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera OTG till PDF enkelt med GroupDocs.Conversion för .NET: En steg-för-steg-guide
 
 ## Introduktion

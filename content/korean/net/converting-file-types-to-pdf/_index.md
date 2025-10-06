@@ -5,8 +5,8 @@
 "title": "파일 유형을 PDF로 변환"
 "url": "/ko/net/converting-file-types-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # 파일 유형을 PDF로 변환
 
 ## 소개

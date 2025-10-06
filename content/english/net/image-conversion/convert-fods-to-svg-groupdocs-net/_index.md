@@ -8,10 +8,8 @@ keywords:
 - Convert FODS to SVG
 - GroupDocs.Conversion .NET
 - C# document conversion
-
+type: docs
 ---
-
-
 # Convert FODS to SVG in C# using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "ODP konvertálása TEX-be a GroupDocs.Conversion for .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/presentation-conversion/convert-odp-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # ODP konvertálása TEX-be a GroupDocs.Conversion for .NET használatával: Teljes körű útmutató
 
 ## Bevezetés

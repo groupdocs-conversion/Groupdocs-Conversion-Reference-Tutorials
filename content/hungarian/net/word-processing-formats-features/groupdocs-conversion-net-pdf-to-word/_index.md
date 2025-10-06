@@ -4,8 +4,8 @@
 "title": "PDF oldalak konvertálása Word formátumba a GroupDocs.Conversion .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/word-processing-formats-features/groupdocs-conversion-net-pdf-to-word/"
 "weight": 1
+type: docs
 ---
-
 # PDF oldalak konvertálása Word formátumba a GroupDocs.Conversion .NET használatával: lépésről lépésre útmutató
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": "GIF DOC-ba konvertálása a GroupDocs.Conversion for .NET segítségével - Szövegszerkesztési konverziós útmutató"
 "url": "/hu/net/word-processing-conversion/convert-gif-to-doc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GIF DOC-ba konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

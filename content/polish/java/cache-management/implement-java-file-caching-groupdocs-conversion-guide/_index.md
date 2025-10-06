@@ -4,8 +4,8 @@
 "title": "Buforowanie plików Java z GroupDocs.Conversion&#58; Kompleksowy przewodnik po wydajnej konwersji dokumentów"
 "url": "/pl/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Jak wdrożyć buforowanie plików Java za pomocą GroupDocs.Conversion w celu wydajnej konwersji dokumentów
 
 ## Wstęp

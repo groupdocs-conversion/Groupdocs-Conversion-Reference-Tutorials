@@ -5,8 +5,8 @@
 "title": "JPG को PDF में बदलें"
 "url": "/hi/net/document-conversion/convert-jpg-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # JPG को PDF में बदलें
 
 ## परिचय

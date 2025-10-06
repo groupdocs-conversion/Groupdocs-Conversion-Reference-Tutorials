@@ -9,10 +9,8 @@ keywords:
 - GroupDocs.Conversion for .NET
 - DGN CAD conversion
 - .NET file conversion
-
+type: docs
 ---
-
-
 # How to Load a DGN File Using GroupDocs.Conversion for .NET
 
 ## Introduction

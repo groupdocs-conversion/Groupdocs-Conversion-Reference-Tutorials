@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie JP2-Dateien mit GroupDocs.Conversion für .NET in PDF | Schritt-für-Schritt-Anleitung"
 "url": "/de/net/pdf-conversion/convert-jp2-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie JP2-Dateien mit GroupDocs.Conversion für .NET in PDF
 
 ## Einführung

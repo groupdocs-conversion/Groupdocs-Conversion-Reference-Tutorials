@@ -4,8 +4,8 @@
 "title": "MPXをDOCXに簡単に変換する - GroupDocs.Conversion for .NETガイド"
 "url": "/ja/net/word-processing-conversion/convert-mpx-to-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して MPX を DOCX に変換する
 
 ## 導入

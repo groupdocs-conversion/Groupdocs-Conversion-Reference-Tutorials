@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET で PSD を Excel に効率的に変換"
 "url": "/ja/net/spreadsheet-conversion/convert-psd-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET で PSD を Excel シートに効率的に変換
 
 ## 導入

@@ -5,8 +5,8 @@
 "title": "将文件类型转换为 PDF"
 "url": "/zh/net/converting-file-types-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # 将文件类型转换为 PDF
 
 ## 介绍

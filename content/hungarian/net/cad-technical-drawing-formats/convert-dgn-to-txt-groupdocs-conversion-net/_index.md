@@ -4,8 +4,8 @@
 "title": "DGN fájlok TXT formátumba konvertálása a GroupDocs.Conversion .NET CAD szakembereknek szóló verziójával"
 "url": "/hu/net/cad-technical-drawing-formats/convert-dgn-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DGN fájlok TXT formátumba konvertálása a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

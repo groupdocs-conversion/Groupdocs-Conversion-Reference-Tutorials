@@ -5,8 +5,8 @@
 "title": "แปลง JPM เป็น PDF"
 "url": "/th/net/document-conversion/convert-jpm-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # แปลง JPM เป็น PDF
 
 ## การแนะนำ

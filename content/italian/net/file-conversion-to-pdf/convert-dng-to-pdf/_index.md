@@ -5,8 +5,8 @@
 "title": "Convertire le immagini DNG in PDF"
 "url": "/it/net/file-conversion-to-pdf/convert-dng-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # Convertire le immagini DNG in PDF
 
 ## Introduzione

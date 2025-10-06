@@ -3,8 +3,8 @@
 "title": "CAD és műszaki rajzformátumok oktatóanyagai a GroupDocs.Conversion .NET-hez"
 "url": "/hu/net/cad-technical-drawing-formats/"
 "weight": 18
+type: docs
 ---
-
 # CAD és műszaki rajzformátumok oktatóanyagai a GroupDocs.Conversion .NET-hez
 
 Tanulja meg a műszaki rajzok feldolgozását átfogó GroupDocs.Conversion oktatóanyagainkkal .NET fejlesztőknek. Ezek a gyakorlati útmutatók bemutatják, hogyan konvertálhatja az AutoCAD és más CAD fájlokat látható formátumba, hogyan adhatja meg az átalakításhoz szükséges elrendezéseket, hogyan állíthat be egyéni szélesség- és magasságméreteket a kimenethez, hogyan őrizheti meg a rétegeket és a mértékeket, hogyan kezelheti hatékonyan a nagyméretű rajzokat, hogyan kezelheti a nézetablakokat és a méretezést, valamint hogyan alakíthatja át a 3D modelleket 2D ábrázolásokká. Minden oktatóanyag részletes C# kódpéldákat tartalmaz a CAD konverziós forgatókönyvekhez, segítve olyan alkalmazások létrehozását, amelyek pontosan képesek feldolgozni a műszaki rajzokat, miközben megőrzik a fontos mérnöki részleteket.

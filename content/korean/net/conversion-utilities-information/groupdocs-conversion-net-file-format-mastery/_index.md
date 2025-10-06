@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion을 사용하여 .NET에서 마스터 파일 형식 변환"
 "url": "/ko/net/conversion-utilities-information/groupdocs-conversion-net-file-format-mastery/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용하여 .NET에서 파일 형식 변환 마스터하기
 
 .NET용 GroupDocs.Conversion 라이브러리를 활용하여 파일 형식 변환을 효율적으로 처리하는 방법에 대한 종합 가이드에 오신 것을 환영합니다. 이 튜토리얼은 API를 통해 사용 가능한 모든 변환 형식을 가져오는 방법을 안내하여 문서 관리 프로세스를 간소화하고 애플리케이션에 다양하게 통합할 수 있도록 지원합니다.

@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanarak TSV'yi DOC'a Dönüştürme&#58; Adım Adım Kılavuz"
 "url": "/tr/net/word-processing-formats-features/convert-tsv-to-doc-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanarak TSV'yi DOC'a Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

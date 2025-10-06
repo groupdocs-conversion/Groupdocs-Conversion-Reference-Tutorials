@@ -8,10 +8,8 @@ keywords:
 - convert Visio to Excel
 - Visio to Excel conversion .NET
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # Convert Visio to Excel using GroupDocs.Conversion .NET: A Step-by-Step Guide
 
 ## Introduction

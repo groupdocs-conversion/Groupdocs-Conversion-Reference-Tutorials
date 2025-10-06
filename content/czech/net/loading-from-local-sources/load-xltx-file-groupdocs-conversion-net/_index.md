@@ -4,8 +4,8 @@
 "title": "Jak načíst soubor XLTX pomocí GroupDocs.Conversion pro .NET – Komplexní průvodce"
 "url": "/cs/net/loading-from-local-sources/load-xltx-file-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak načíst soubor XLTX pomocí GroupDocs.Conversion pro .NET: Komplexní průvodce
 
 ## Zavedení

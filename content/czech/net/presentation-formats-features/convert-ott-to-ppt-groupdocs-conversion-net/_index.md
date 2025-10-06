@@ -4,8 +4,8 @@
 "title": "Bezproblémový převod OTT na PPT pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/presentation-formats-features/convert-ott-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Bezproblémový převod OTT do PPT: Použití GroupDocs.Conversion pro .NET
 
 ## Zavedení

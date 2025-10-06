@@ -4,8 +4,8 @@
 "title": "Beherrschen Sie die Textdokumentenverarbeitung in Java – Verwenden von GroupDocs.Conversion für nahtlose Kodierung und PDF-Konvertierung"
 "url": "/de/java/word-processing-formats/master-text-document-handling-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Beherrschen der Textdokumentverarbeitung in Java mit GroupDocs.Conversion
 
 ## Einführung

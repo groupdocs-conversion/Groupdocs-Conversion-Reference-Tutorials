@@ -8,10 +8,8 @@ keywords:
 - convert VTX to CSV with GroupDocs.Conversion
 - GroupDocs.Conversion for .NET setup
 - GroupDocs.Conversion CSV conversion
-
+type: docs
 ---
-
-
 # How to Convert VTX Files to CSV Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

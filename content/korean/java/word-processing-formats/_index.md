@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Java를 사용한 워드 프로세싱 형식 변환 튜토리얼"
 "url": "/ko/java/word-processing-formats/"
 "weight": 5
+type: docs
 ---
-
 # GroupDocs.Conversion Java를 사용한 워드 프로세싱 형식 변환 튜토리얼
 
 GroupDocs.Conversion의 포괄적인 Java 튜토리얼을 활용하여 Word 문서 변환을 효과적으로 처리하는 방법을 알아보세요. 이 단계별 가이드는 다양한 Word 처리 형식 간의 변환, 서식 및 스타일 유지, 포함된 개체 처리, 변환 중 문서 구조 유지 방법을 알려줍니다. 각 튜토리얼은 일반적인 Word 문서 변환 작업에 대한 실용적인 Java 코드 예제를 제공하여 텍스트 문서를 높은 정확도로 처리할 수 있는 더욱 효율적인 애플리케이션을 구축하는 데 도움을 줍니다.

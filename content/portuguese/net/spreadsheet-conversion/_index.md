@@ -3,8 +3,8 @@
 "title": "Tutoriais de conversão de planilhas para GroupDocs.Conversion .NET"
 "url": "/pt/net/spreadsheet-conversion/"
 "weight": 30
+type: docs
 ---
-
 # Tutoriais de conversão de planilhas para GroupDocs.Conversion .NET
 
 Aprenda a transformar documentos em formatos de planilha editáveis com nossos tutoriais do GroupDocs.Conversion .NET. Estes guias detalhados demonstram como converter PDF, Word, HTML, imagens e outros formatos para XLS, XLSX, CSV, ODS e muito mais. Descubra técnicas para preservar cálculos e fórmulas, manter a formatação de células, manipular documentos com várias planilhas, gerenciar cabeçalhos e rodapés e controlar conversões de tipos de dados. Cada tutorial inclui exemplos práticos de código C# que mostram como criar planilhas que representam com precisão o conteúdo de origem, permitindo a análise e a manipulação de dados.

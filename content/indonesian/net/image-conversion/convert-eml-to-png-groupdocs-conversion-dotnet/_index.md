@@ -4,8 +4,8 @@
 "title": "Konversi EML ke PNG Menggunakan GroupDocs.Conversion untuk .NET - Panduan Lengkap"
 "url": "/id/net/image-conversion/convert-eml-to-png-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konversi File EML ke PNG Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

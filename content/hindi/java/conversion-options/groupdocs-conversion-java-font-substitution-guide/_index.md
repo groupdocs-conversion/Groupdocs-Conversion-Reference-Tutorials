@@ -4,8 +4,8 @@
 "title": "जावा में फ़ॉन्ट प्रतिस्थापन&#58; सुसंगत पीडीएफ आउटपुट के लिए ग्रुपडॉक्स.कन्वर्ज़न में महारत हासिल करना"
 "url": "/hi/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/"
 "weight": 1
+type: docs
 ---
-
 # Java के लिए GroupDocs.Conversion के साथ फ़ॉन्ट प्रतिस्थापन में महारत हासिल करना
 
 ## परिचय

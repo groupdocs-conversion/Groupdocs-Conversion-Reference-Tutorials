@@ -4,8 +4,8 @@
 "title": "Efficiënte DOC naar JPG-conversie met GroupDocs.Conversion.NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/image-conversion/convert-doc-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Efficiënte DOC naar JPG-conversie met GroupDocs.Conversion .NET: een stapsgewijze handleiding
 
 ## Invoering

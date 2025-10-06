@@ -4,8 +4,8 @@
 "title": "Effektivt konvertera VSS till JPG med GroupDocs.Conversion för .NET"
 "url": "/sv/net/image-conversion/convert-vss-to-jpg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hur man effektivt konverterar VSS-filer till JPG med GroupDocs.Conversion för .NET
 
 ## Introduktion

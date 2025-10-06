@@ -4,8 +4,8 @@
 "title": "Zvládněte konverzi e-mailových příloh v .NET pomocí knihovny GroupDocs.Conversion – komplexní průvodce"
 "url": "/cs/net/email-formats-features/net-email-attachment-conversion-groupdocs-guide/"
 "weight": 1
+type: docs
 ---
-
 # Zvládněte konverzi e-mailových příloh v .NET pomocí knihovny GroupDocs.Conversion
 
 ## Zavedení

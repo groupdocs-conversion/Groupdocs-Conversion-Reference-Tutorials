@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके VSSM फ़ाइलों को PNG में कैसे परिवर्तित करें"
 "url": "/hi/net/image-conversion/convert-vssm-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके VSSM फ़ाइलों को PNG में कैसे परिवर्तित करें
 
 ## परिचय

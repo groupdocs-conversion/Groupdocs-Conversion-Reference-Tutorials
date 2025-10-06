@@ -8,10 +8,8 @@ keywords:
 - Convert VSD to SVG
 - GroupDocs.Conversion for .NET
 - Visio file conversion
-
+type: docs
 ---
-
-
 # Convert VSD to SVG using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

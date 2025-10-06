@@ -4,8 +4,8 @@
 "title": "DWF konvertálása PSD-vé a GroupDocs.Conversion for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/image-formats-features/convert-dwf-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DWF fájlok PSD formátumba konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

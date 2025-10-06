@@ -4,8 +4,8 @@
 "title": "DJVU'yu GroupDocs.Conversion for .NET Kullanarak HTML'ye Dönüştürme Adım Adım Kılavuzu"
 "url": "/tr/net/web-markup-formats/convert-djvu-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DJVU Dosyalarını .NET için GroupDocs.Conversion ile HTML'ye Dönüştürün
 
 ## giriiş

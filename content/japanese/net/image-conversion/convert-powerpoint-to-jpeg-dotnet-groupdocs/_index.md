@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion を使用して .NET で PowerPoint テンプレートを JPEG に効率的に変換する"
 "url": "/ja/net/image-conversion/convert-powerpoint-to-jpeg-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion を使用して .NET で PowerPoint テンプレートを JPEG に効率的に変換する
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "Hoe u ODT-bestanden naar JPG converteert met GroupDocs.Conversion voor .NET&#58; een stapsgewijze handleiding"
 "url": "/nl/net/image-conversion/convert-odt-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Hoe u ODT-bestanden naar JPG converteert met GroupDocs.Conversion voor .NET: een stapsgewijze handleiding
 
 ## Invoering

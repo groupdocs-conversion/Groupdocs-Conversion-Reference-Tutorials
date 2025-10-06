@@ -4,8 +4,8 @@
 "title": "Konvertera JPM till XLSX med GroupDocs.Conversion för .NET – en omfattande guide"
 "url": "/sv/net/spreadsheet-conversion/convert-jpm-to-xlsx-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera JPM-filer till XLSX med GroupDocs.Conversion för .NET
 
 ## Introduktion

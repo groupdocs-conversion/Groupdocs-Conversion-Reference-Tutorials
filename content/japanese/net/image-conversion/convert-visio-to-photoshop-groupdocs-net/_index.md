@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して Visio ファイルを Photoshop に変換する方法"
 "url": "/ja/net/image-conversion/convert-visio-to-photoshop-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して Visio ファイルを Photoshop に変換する方法
 
 ## 導入

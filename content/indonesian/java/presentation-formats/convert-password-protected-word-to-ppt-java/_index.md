@@ -4,8 +4,8 @@
 "title": "Konversi Dokumen Word yang Dilindungi Kata Sandi ke PPT Secara Efisien Menggunakan Java dan GroupDocs.Conversion"
 "url": "/id/java/presentation-formats/convert-password-protected-word-to-ppt-java/"
 "weight": 1
+type: docs
 ---
-
 # Cara Efisien Mengonversi Dokumen Word yang Dilindungi Kata Sandi ke PPT Menggunakan Java dan GroupDocs.Conversion
 
 ## Perkenalan

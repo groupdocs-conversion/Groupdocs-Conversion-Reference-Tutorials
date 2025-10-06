@@ -3,8 +3,8 @@
 "title": "Tutorial Pemrosesan XML dan JSON untuk GroupDocs.Conversion .NET"
 "url": "/id/net/xml-json-processing/"
 "weight": 16
+type: docs
 ---
-
 # Tutorial Pemrosesan XML dan JSON untuk GroupDocs.Conversion .NET
 
 Jelajahi kemampuan konversi format data dengan tutorial GroupDocs.Conversion kami untuk pengembang .NET. Panduan langkah demi langkah ini menunjukkan cara menggunakan XML dan JSON sebagai sumber data untuk membuat spreadsheet dan jenis dokumen lainnya, mempertahankan struktur data hierarkis selama konversi, mempertahankan hubungan objek yang kompleks, menangani array dan koleksi, mengelola namespace dan skema, serta mengimplementasikan operasi transformasi dan pemetaan data. Setiap tutorial mencakup contoh kode C# praktis untuk bekerja dengan format data terstruktur, membantu Anda membangun aplikasi yang dapat mengubah data yang dapat dibaca mesin menjadi format dokumen yang mudah dipahami manusia.

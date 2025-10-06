@@ -5,8 +5,8 @@
 "title": "Chuyển đổi tệp mô hình 3D IGS sang PDF"
 "url": "/vi/net/convert-files-to-pdf/convert-igs-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # Chuyển đổi tệp mô hình 3D IGS sang PDF
 
 ## Giới thiệu

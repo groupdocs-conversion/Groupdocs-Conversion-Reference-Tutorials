@@ -4,8 +4,8 @@
 "title": "Convertire IGS in DOC utilizzando GroupDocs.Conversion per .NET&#58; una guida passo passo"
 "url": "/it/net/word-processing-conversion/convert-igs-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertire IGS in DOC utilizzando GroupDocs.Conversion per .NET: una guida passo passo
 
 ## Introduzione

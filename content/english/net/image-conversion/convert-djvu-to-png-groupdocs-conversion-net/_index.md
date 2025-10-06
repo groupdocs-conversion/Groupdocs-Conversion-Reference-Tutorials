@@ -8,10 +8,8 @@ keywords:
 - convert DJVU to PNG
 - GroupDocs.Conversion for .NET
 - document conversion with GroupDocs
-
+type: docs
 ---
-
-
 # How to Convert DJVU Files to PNG Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

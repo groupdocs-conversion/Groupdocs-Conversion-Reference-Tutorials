@@ -5,8 +5,8 @@
 "title": "DWF CAD fájlok konvertálása PDF-be"
 "url": "/hu/net/file-conversion-to-pdf/convert-dwf-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # DWF CAD fájlok konvertálása PDF-be
 
 ## Bevezetés

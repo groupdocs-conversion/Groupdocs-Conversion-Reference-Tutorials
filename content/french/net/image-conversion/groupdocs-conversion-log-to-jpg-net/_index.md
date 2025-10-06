@@ -4,8 +4,8 @@
 "title": "Comment convertir des fichiers journaux en JPG dans .NET avec GroupDocs.Conversion"
 "url": "/fr/net/image-conversion/groupdocs-conversion-log-to-jpg-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir des fichiers journaux en JPG dans .NET avec GroupDocs.Conversion
 
 ## Introduction

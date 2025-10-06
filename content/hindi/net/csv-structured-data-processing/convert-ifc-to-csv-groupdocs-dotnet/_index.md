@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion का उपयोग करके IFC को CSV में कुशलतापूर्वक परिवर्तित करें | गाइड और ट्यूटोरियल"
 "url": "/hi/net/csv-structured-data-processing/convert-ifc-to-csv-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion का उपयोग करके IFC फ़ाइलों को CSV में परिवर्तित करें
 
 ## परिचय

@@ -8,10 +8,8 @@ keywords:
 - convert Markdown to text
 - GroupDocs.Conversion for .NET
 - file conversion with GroupDocs
-
+type: docs
 ---
-
-
 # How to Convert Markdown to Text Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

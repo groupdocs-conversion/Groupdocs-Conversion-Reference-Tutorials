@@ -4,8 +4,8 @@
 "title": "CGM egyszerű HTML-lé konvertálása a GroupDocs.Conversion for .NET segítségével"
 "url": "/hu/net/html-conversion/convert-cgm-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # CGM egyszerű HTML-lé konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

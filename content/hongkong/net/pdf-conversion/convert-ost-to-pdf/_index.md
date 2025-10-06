@@ -5,8 +5,8 @@
 "title": "將 OST 轉換為 PDF"
 "url": "/zh-hant/net/pdf-conversion/convert-ost-to-pdf/"
 "weight": 12
+type: docs
 ---
-
 # 將 OST 轉換為 PDF
 
 ## 介紹

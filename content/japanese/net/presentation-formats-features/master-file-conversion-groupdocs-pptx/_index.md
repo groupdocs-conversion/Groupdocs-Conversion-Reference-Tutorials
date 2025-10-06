@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NETでPPTXファイル変換をマスターしましょう。簡単で効率的なソリューションです。"
 "url": "/ja/net/presentation-formats-features/master-file-conversion-groupdocs-pptx/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NETでPPTXファイル変換をマスター：簡単で効率的なソリューション
 
 ## 導入

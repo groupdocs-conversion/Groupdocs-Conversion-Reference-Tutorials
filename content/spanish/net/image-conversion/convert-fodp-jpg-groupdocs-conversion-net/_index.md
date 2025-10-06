@@ -4,8 +4,8 @@
 "title": "Conversión eficiente de FODP a JPG mediante GroupDocs.Conversion .NET"
 "url": "/es/net/image-conversion/convert-fodp-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Conversión eficiente de FODP a JPG mediante GroupDocs.Conversion .NET
 
 ## Introducción

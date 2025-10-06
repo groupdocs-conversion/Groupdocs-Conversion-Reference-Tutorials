@@ -8,10 +8,8 @@ keywords:
 - convert PSD to PowerPoint
 - GroupDocs.Conversion for .NET
 - PSD to PPT conversion
-
+type: docs
 ---
-
-
 # How to Convert PSD to PowerPoint Using GroupDocs.Conversion for .NET: A Complete Guide
 
 ## Introduction

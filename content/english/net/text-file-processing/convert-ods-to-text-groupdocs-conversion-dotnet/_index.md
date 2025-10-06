@@ -8,10 +8,8 @@ keywords:
 - ODS to TXT conversion
 - GroupDocs.Conversion .NET library
 - convert ODS files
-
+type: docs
 ---
-
-
 # How to Convert ODS Files to Text Using GroupDocs.Conversion for .NET
 
 ## Introduction

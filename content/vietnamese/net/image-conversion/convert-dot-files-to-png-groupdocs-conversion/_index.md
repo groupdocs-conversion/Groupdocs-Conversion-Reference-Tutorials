@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tệp DOT sang PNG bằng GroupDocs.Conversion cho .NET - Hướng dẫn từng bước"
 "url": "/vi/net/image-conversion/convert-dot-files-to-png-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tệp DOT sang PNG bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

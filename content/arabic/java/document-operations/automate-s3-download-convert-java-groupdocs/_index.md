@@ -4,8 +4,8 @@
 "title": "أتمتة تنزيل مستندات S3 وتحويلها في Java باستخدام GroupDocs.Conversion"
 "url": "/ar/java/document-operations/automate-s3-download-convert-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # أتمتة تنزيل وتحويل مستندات S3 في Java
 
 ## كيفية تنزيل المستندات وتحويلها من Amazon S3 باستخدام GroupDocs.Conversion في Java

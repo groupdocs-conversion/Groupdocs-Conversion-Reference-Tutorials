@@ -4,8 +4,8 @@
 "title": ".NET'te GroupDocs.Conversion Kullanılarak Visio VST Dosyaları Excel XLSX'e Nasıl Dönüştürülür"
 "url": "/tr/net/spreadsheet-conversion/convert-visio-vst-to-excel-xlsx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET'te GroupDocs.Conversion Kullanılarak Visio VST Dosyaları Excel XLSX'e Nasıl Dönüştürülür
 
 ## giriiş

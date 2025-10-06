@@ -4,8 +4,8 @@
 "title": "Gizli Sayfaları Olan Excel Dosyalarını Java ve GroupDocs Kullanarak PDF'lere Nasıl Dönüştürebilirsiniz?"
 "url": "/tr/java/pdf-conversion/convert-excel-hidden-sheets-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # Gizli Sayfaları Olan Excel Dosyalarını Java ve GroupDocs Kullanarak PDF'lere Nasıl Dönüştürebilirsiniz?
 
 ## giriiş

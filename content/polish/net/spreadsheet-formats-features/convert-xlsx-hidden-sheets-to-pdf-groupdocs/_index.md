@@ -4,8 +4,8 @@
 "title": "Jak konwertować pliki XLSX z ukrytymi arkuszami do formatu PDF za pomocą GroupDocs.Conversion dla .NET"
 "url": "/pl/net/spreadsheet-formats-features/convert-xlsx-hidden-sheets-to-pdf-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Jak konwertować pliki XLSX z ukrytymi arkuszami do formatu PDF za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

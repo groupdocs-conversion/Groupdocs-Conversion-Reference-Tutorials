@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 DOCM 轉換為 DOCX 綜合指南"
 "url": "/zh-hant/net/word-processing-formats-features/convert-docm-to-docx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 DOCM 檔案轉換為 DOCX
 
 ## 介紹

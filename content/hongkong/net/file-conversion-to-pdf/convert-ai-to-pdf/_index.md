@@ -5,8 +5,8 @@
 "title": "將AI檔案轉換為PDF"
 "url": "/zh-hant/net/file-conversion-to-pdf/convert-ai-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # 將AI檔案轉換為PDF
 
 ## 介紹

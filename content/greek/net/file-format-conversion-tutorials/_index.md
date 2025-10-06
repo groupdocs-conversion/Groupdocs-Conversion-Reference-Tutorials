@@ -5,8 +5,8 @@
 "title": "Μετατροπή μορφής αρχείου"
 "url": "/el/net/file-format-conversion-tutorials/"
 "weight": 21
+type: docs
 ---
-
 # Μετατροπή μορφής αρχείου
 
 ## Εισαγωγή

@@ -4,8 +4,8 @@
 "title": "MHT fájlok PPT-vé konvertálása a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/presentation-formats-features/convert-mht-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # MHT fájlok PPT-vé konvertálása a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

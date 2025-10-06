@@ -5,8 +5,8 @@
 "title": "แปลง XLT เป็น PDF"
 "url": "/th/net/converting-file-types-to-pdf/convert-xlt-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # แปลง XLT เป็น PDF
 
 

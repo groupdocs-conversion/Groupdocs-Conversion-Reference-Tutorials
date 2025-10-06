@@ -5,8 +5,8 @@ second_title: GroupDocs.Conversion .NET API
 description: Learn how to convert VSDM files to PDF format using GroupDocs.Conversion for .NET. Follow our step-by-step guide for seamless conversion.
 weight: 26
 url: /net/file-format-conversion-tutorials/convert-vsdm-to-pdf/
+type: docs
 ---
-
 # Convert VSDM to PDF
 
 ## Introduction

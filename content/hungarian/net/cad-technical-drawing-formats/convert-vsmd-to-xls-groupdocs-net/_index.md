@@ -4,8 +4,8 @@
 "title": "VSDM konvertálása XLS-be GroupDocs for .NET használatával – Átfogó útmutató"
 "url": "/hu/net/cad-technical-drawing-formats/convert-vsmd-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # VSDM konvertálása XLS-be GroupDocs for .NET használatával: Átfogó útmutató
 
 ## Bevezetés

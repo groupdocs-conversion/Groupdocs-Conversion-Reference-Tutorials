@@ -8,10 +8,8 @@ keywords:
 - DXF to JPG conversion
 - GroupDocs.Conversion for .NET
 - .NET file format conversion
-
+type: docs
 ---
-
-
 # Mastering DXF to JPG Conversion in .NET Using GroupDocs.Conversion
 
 ## Introduction

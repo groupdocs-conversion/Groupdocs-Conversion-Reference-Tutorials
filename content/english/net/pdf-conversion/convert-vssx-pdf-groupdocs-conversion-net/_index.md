@@ -8,10 +8,8 @@ keywords:
 - Convert VSSX to PDF
 - GroupDocs.Conversion for .NET
 - VSSX file conversion
-
+type: docs
 ---
-
-
 # Comprehensive Guide: Convert VSSX to PDF Using GroupDocs.Conversion for .NET in C#
 
 ## Introduction

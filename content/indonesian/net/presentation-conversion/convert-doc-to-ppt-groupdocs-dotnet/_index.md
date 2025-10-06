@@ -4,8 +4,8 @@
 "title": "Konversi DOC ke PPT secara Efisien dalam .NET Menggunakan GroupDocs.Conversion&#58; Panduan Lengkap"
 "url": "/id/net/presentation-conversion/convert-doc-to-ppt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Konversi DOC ke PPT secara efisien dalam .NET menggunakan GroupDocs.Conversion
 
 ## Perkenalan

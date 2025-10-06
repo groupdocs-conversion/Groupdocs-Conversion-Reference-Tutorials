@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi MHTML sang văn bản trong C# bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/text-file-processing/convert-mhtml-text-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi MHTML sang văn bản trong C# bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

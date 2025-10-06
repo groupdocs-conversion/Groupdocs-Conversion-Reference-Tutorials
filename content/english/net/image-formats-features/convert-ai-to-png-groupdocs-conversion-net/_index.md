@@ -8,10 +8,8 @@ keywords:
 - convert AI to PNG
 - GroupDocs.Conversion for .NET
 - automate file conversion
-
+type: docs
 ---
-
-
 # Convert AI to PNG with GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

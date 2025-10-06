@@ -5,8 +5,8 @@
 "title": "تحويل MOBI إلى PDF"
 "url": "/ar/net/document-conversion/convert-mobi-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # تحويل MOBI إلى PDF
 
 ## مقدمة

@@ -5,8 +5,8 @@
 "title": "DOCX Word दस्तावेज़ों को PDF में बदलें"
 "url": "/hi/net/file-conversion-to-pdf/convert-docx-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # DOCX Word दस्तावेज़ों को PDF में बदलें
 
 ## परिचय

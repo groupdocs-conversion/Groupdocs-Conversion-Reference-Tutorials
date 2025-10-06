@@ -5,8 +5,8 @@
 "title": "Chuyển đổi WMF sang PDF"
 "url": "/vi/net/converting-file-types-to-pdf/convert-wmf-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # Chuyển đổi WMF sang PDF
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "Chuyển đổi mẫu Word (.dotm) sang PNG bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/image-conversion/convert-dotm-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi mẫu Word sang hình ảnh PNG bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

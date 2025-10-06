@@ -4,8 +4,8 @@
 "title": "Эффективное преобразование CSV в TXT с помощью GroupDocs.Conversion для .NET&#58; Пошаговое руководство"
 "url": "/ru/net/csv-structured-data-processing/convert-csv-to-txt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Эффективное преобразование CSV в TXT с помощью GroupDocs.Conversion для .NET: пошаговое руководство
 
 ## Введение

@@ -4,8 +4,8 @@
 "title": "Chuyển đổi mẫu PowerPoint (.pot) sang PDF bằng GroupDocs.Conversion cho .NET"
 "url": "/vi/net/pdf-conversion-features/convert-pot-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp mẫu PowerPoint (.pot) sang PDF bằng GroupDocs.Conversion cho .NET
 
 ## Giới thiệu

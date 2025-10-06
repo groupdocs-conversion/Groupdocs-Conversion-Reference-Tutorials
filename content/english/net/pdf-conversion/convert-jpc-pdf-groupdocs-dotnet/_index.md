@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert JPC to PDF Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

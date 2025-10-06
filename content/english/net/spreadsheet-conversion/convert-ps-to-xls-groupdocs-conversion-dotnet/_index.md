@@ -8,10 +8,8 @@ keywords:
 - Convert PS to XLS
 - GroupDocs.Conversion for .NET
 - PostScript to Excel conversion
-
+type: docs
 ---
-
-
 # Convert PostScript (PS) to Excel (XLS) Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

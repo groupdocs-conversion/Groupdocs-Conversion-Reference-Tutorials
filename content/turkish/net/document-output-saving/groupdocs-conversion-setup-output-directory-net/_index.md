@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion ile Çıktı Dizin Yolu Nasıl Kurulur"
 "url": "/tr/net/document-output-saving/groupdocs-conversion-setup-output-directory-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanılarak Bir Çıktı Dizini Yolu Nasıl Kurulur
 
 ## giriiş

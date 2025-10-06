@@ -4,8 +4,8 @@
 "title": "Konfigurera konvertering av huvuddokument i .NET med GroupDocs.Conversion"
 "url": "/sv/net/conversion-options-settings/master-groupdocs-conversion-net-setup/"
 "weight": 1
+type: docs
 ---
-
 # Konfiguration av huvudkatalog för dokumentkonvertering med GroupDocs.Conversion .NET
 
 ## Introduktion

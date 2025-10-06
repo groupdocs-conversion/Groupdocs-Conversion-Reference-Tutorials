@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 VSS를 DOCX로 변환하는 단계별 가이드"
 "url": "/ko/net/word-processing-conversion/convert-vss-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET을 사용하여 VSS를 DOCX로 변환: 단계별 가이드
 
 Visio Stencil 파일(VSS)을 Microsoft Word Open XML 문서(DOCX)로 변환하는 방법에 대한 포괄적인 가이드에 오신 것을 환영합니다. **.NET용 GroupDocs.Conversion**이 튜토리얼은 파일 형식 변환, 특히 VSS에서 DOCX로의 변환 문제를 해결하는 데 도움을 드리기 위해 고안되었습니다. 각 단계를 따라 이 솔루션을 원활하게 구현하세요.

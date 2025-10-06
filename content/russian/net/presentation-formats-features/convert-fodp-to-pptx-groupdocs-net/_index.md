@@ -4,8 +4,8 @@
 "title": "Как преобразовать FODP в PPTX с помощью GroupDocs.Conversion для .NET? Пошаговое руководство"
 "url": "/ru/net/presentation-formats-features/convert-fodp-to-pptx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Как конвертировать FODP в PPTX с помощью GroupDocs.Conversion для .NET: пошаговое руководство
 
 ## Введение

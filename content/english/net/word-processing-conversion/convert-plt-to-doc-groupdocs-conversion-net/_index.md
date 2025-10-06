@@ -8,10 +8,8 @@ keywords:
 - convert PLT to DOC
 - GroupDocs.Conversion for .NET
 - PLT file conversion
-
+type: docs
 ---
-
-
 # Convert PLT to DOC: Step-by-Step Guide Using GroupDocs.Conversion for .NET
 
 ## Introduction

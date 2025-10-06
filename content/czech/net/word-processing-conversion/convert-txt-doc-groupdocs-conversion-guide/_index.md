@@ -4,8 +4,8 @@
 "title": "Ultimátní průvodce&#58; Převod TXT do DOC pomocí GroupDocs.Conversion pro .NET"
 "url": "/cs/net/word-processing-conversion/convert-txt-doc-groupdocs-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Ultimátní průvodce: Převod TXT do DOC pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

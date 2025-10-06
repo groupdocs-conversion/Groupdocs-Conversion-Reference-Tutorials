@@ -4,8 +4,8 @@
 "title": "Převod OTG do TXT pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/text-markup-conversion/convert-otg-to-txt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Převod souborů OTG do TXT pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

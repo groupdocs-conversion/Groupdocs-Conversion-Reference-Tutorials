@@ -8,10 +8,8 @@ keywords:
 - convert POT to DOCX
 - GroupDocs.Conversion for .NET
 - document conversion
-
+type: docs
 ---
-
-
 # Efficient Conversion: POT to DOCX with GroupDocs.Conversion for .NET
 
 ## Introduction

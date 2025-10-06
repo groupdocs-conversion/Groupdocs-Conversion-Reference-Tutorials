@@ -4,8 +4,8 @@
 "title": "Efektivní převod TSV do XLSX pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/spreadsheet-formats-features/convert-tsv-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést TSV do XLSX pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

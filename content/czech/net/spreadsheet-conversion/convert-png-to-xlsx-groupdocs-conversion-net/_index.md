@@ -4,8 +4,8 @@
 "title": "Převod PNG na XLSX v .NET pomocí GroupDocs.Conversion – Podrobný návod"
 "url": "/cs/net/spreadsheet-conversion/convert-png-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod PNG do XLSX v .NET pomocí GroupDocs.Conversion: Podrobný návod
 
 ## Zavedení

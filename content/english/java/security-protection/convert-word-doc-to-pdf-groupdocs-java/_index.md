@@ -8,10 +8,8 @@ keywords:
 - convert password-protected Word to PDF
 - GroupDocs.Conversion for Java setup
 - secure document handling in Java
-
+type: docs
 ---
-
-
 # Convert Password-Protected Word Documents to PDF with GroupDocs in Java
 In today's digital age, secure document handling is essential, especially when dealing with sensitive information stored in password-protected files. This guide will show you how to convert such documents into universally accessible PDF formats while preserving their security features using **GroupDocs.Conversion for Java**.
 

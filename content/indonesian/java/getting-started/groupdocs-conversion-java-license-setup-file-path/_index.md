@@ -4,8 +4,8 @@
 "title": "Menyiapkan Lisensi Java GroupDocs.Conversion Panduan Langkah demi Langkah"
 "url": "/id/java/getting-started/groupdocs-conversion-java-license-setup-file-path/"
 "weight": 1
+type: docs
 ---
-
 # Menyiapkan Lisensi Java GroupDocs.Conversion: Tutorial Lengkap
 
 Selamat datang di panduan langkah demi langkah kami tentang cara menyiapkan dan menggunakan pustaka GroupDocs.Conversion untuk Java. Tutorial ini berfokus secara khusus pada cara menerapkan pengaturan lisensi melalui jalur file, yang memungkinkan Anda untuk membuka potensi penuh dari alat konversi dokumen yang tangguh ini.

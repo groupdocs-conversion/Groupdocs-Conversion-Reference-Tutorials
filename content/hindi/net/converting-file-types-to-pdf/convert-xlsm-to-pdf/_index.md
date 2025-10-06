@@ -5,8 +5,8 @@
 "title": "XLSM को PDF में बदलें"
 "url": "/hi/net/converting-file-types-to-pdf/convert-xlsm-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # XLSM को PDF में बदलें
 
 ## परिचय

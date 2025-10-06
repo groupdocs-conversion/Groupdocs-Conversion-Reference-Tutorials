@@ -4,8 +4,8 @@
 "title": "XML konvertálása HTML-be a GroupDocs.Conversion .NET használatával – Teljes körű útmutató"
 "url": "/hu/net/html-conversion/convert-xml-html-groupdocs-conversion-net-tutorial/"
 "weight": 1
+type: docs
 ---
-
 # XML konvertálása HTML-lé a GroupDocs.Conversion .NET segítségével: Teljes körű útmutató
 
 ## Bevezetés

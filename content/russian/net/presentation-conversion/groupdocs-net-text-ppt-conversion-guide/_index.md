@@ -4,8 +4,8 @@
 "title": "Мастер преобразования текста в презентацию с помощью GroupDocs в .NET&#58; Подробное руководство"
 "url": "/ru/net/presentation-conversion/groupdocs-net-text-ppt-conversion-guide/"
 "weight": 1
+type: docs
 ---
-
 # Мастер преобразования текста в презентацию с помощью GroupDocs в .NET
 
 ## Введение

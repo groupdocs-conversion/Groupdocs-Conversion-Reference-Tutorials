@@ -5,8 +5,8 @@
 "title": "VSTM'yi PDF'ye dönüştür"
 "url": "/tr/net/converting-file-types-to-pdf/convert-vstm-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # VSTM'yi PDF'ye dönüştür
 
 ## giriiş

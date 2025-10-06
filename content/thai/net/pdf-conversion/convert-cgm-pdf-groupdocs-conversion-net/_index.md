@@ -4,8 +4,8 @@
 "title": "วิธีแปลงไฟล์ CGM เป็น PDF โดยใช้ GroupDocs.Conversion .NET เพื่อการแบ่งปันเอกสารอย่างราบรื่น"
 "url": "/th/net/pdf-conversion/convert-cgm-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการแปลงไฟล์ CGM เป็น PDF โดยใช้ GroupDocs.Conversion .NET
 ## การแนะนำ
 คุณกำลังประสบปัญหาในการแปลงไฟล์ Computer Graphics Metafile (CGM) เป็น Portable Document Format (PDF) หรือไม่ นี่เป็นความท้าทายทั่วไปในด้านการออกแบบ วิศวกรรม และสถาปัตยกรรม ซึ่งการแปลงไฟล์อย่างราบรื่นจะช่วยเพิ่มประสิทธิภาพการทำงานและการแบ่งปันข้อมูล บทช่วยสอนนี้จะแนะนำคุณตลอดกระบวนการแปลงไฟล์ CGM เป็น PDF โดยใช้ไลบรารี GroupDocs.Conversion ที่ทรงพลังใน .NET

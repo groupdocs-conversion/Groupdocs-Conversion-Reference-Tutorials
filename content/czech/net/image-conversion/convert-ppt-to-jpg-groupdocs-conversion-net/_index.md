@@ -4,8 +4,8 @@
 "title": "Převod PPT do JPG pomocí GroupDocs.Conversion pro .NET – podrobný návod"
 "url": "/cs/net/image-conversion/convert-ppt-to-jpg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod PPT do JPG pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

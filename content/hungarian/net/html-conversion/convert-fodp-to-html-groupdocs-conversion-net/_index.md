@@ -4,8 +4,8 @@
 "title": "FODP HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával – Teljes útmutató"
 "url": "/hu/net/html-conversion/convert-fodp-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # FODP konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

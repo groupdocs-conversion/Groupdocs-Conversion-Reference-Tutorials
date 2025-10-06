@@ -5,8 +5,8 @@
 "title": "EMF Windows Meta Dosyalarını PDF'ye Dönüştür"
 "url": "/tr/net/convert-files-to-pdf/convert-emf-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # EMF Windows Meta Dosyalarını PDF'ye Dönüştür
 
 ## giriiş

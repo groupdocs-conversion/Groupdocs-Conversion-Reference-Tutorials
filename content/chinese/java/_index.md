@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for Java 综合教程"
 "url": "/zh/java/"
 "weight": 10
+type: docs
 ---
-
 # GroupDocs.Conversion for Java 综合教程
 
 ## 介绍

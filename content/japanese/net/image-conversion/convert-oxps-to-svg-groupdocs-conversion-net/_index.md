@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して OXPS を SVG に効率的に変換する | ステップバイステップガイド"
 "url": "/ja/net/image-conversion/convert-oxps-to-svg-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用して OXPS を SVG に効率的に変換する: ステップバイステップガイド
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "Converteer PPTM efficiënt naar HTML met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/html-conversion/convert-pptm-html-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Converteer PPTM efficiënt naar HTML met GroupDocs.Conversion voor .NET
 
 ## Invoering

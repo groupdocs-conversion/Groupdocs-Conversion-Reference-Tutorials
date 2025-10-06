@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion을 사용하여 Java에서 시간대 오프셋을 사용하여 이메일을 PDF로 변환하는 방법"
 "url": "/ko/java/email-formats/email-to-pdf-conversion-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion을 사용하여 Java에서 시간대 오프셋을 사용하여 이메일을 PDF로 변환하는 방법
 
 ## 소개

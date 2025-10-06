@@ -5,8 +5,8 @@
 "title": "Kompleksowe samouczki GroupDocs.Conversion dla .NET"
 "url": "/pl/net/"
 "weight": 10
+type: docs
 ---
-
 # Kompleksowe samouczki GroupDocs.Conversion dla .NET
 
 

@@ -4,8 +4,8 @@
 "title": "Melacak Kemajuan Konversi Dokumen di Java Menggunakan Panduan Lengkap GroupDocs"
 "url": "/id/java/conversion-events-logging/java-groupdocs-conversion-progress-listener/"
 "weight": 1
+type: docs
 ---
-
 # Lacak Kemajuan Konversi Dokumen di Java dengan GroupDocs: Panduan Lengkap
 
 ## Perkenalan

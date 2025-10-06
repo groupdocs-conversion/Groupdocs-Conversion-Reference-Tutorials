@@ -4,8 +4,8 @@
 "title": "Převod CSV do PDF v Javě pomocí GroupDocs s kódováním Shift_JIS"
 "url": "/cs/java/pdf-conversion/convert-csv-to-pdf-groupdocs-java-shift-jis/"
 "weight": 1
+type: docs
 ---
-
 # Převod CSV do PDF v Javě pomocí GroupDocs s kódováním Shift_JIS
 
 ## Zavedení

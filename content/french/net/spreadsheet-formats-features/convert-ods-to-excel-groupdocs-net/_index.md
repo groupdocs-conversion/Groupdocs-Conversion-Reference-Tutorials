@@ -4,8 +4,8 @@
 "title": "Convertir des fichiers ODS en XLS à l'aide de GroupDocs.Conversion pour .NET &#58; un guide étape par étape"
 "url": "/fr/net/spreadsheet-formats-features/convert-ods-to-excel-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir des fichiers ODS en XLS avec GroupDocs.Conversion pour .NET : guide étape par étape
 
 ## Introduction

@@ -3,8 +3,8 @@
 "title": "Hướng dẫn chuyển đổi xử lý văn bản cho GroupDocs.Conversion .NET"
 "url": "/vi/net/word-processing-conversion/"
 "weight": 29
+type: docs
 ---
-
 # Hướng dẫn chuyển đổi xử lý văn bản cho GroupDocs.Conversion .NET
 
 Khám phá cách chuyển đổi tài liệu thành định dạng xử lý văn bản có thể chỉnh sửa với hướng dẫn toàn diện của chúng tôi về GroupDocs.Conversion dành cho .NET. Các hướng dẫn chi tiết này bao gồm chuyển đổi từ PDF, Excel, PowerPoint, hình ảnh, HTML và các định dạng khác sang DOC, DOCX, RTF, ODT, v.v. Tìm hiểu về cách bảo toàn cấu trúc tài liệu, xử lý các đối tượng nhúng, duy trì kiểu và định dạng, quản lý luồng văn bản và phân trang trong quá trình chuyển đổi. Mỗi hướng dẫn cung cấp các ví dụ mã C# thực tế để tạo tài liệu xử lý văn bản duy trì độ trung thực của nội dung nguồn trong khi vẫn cho phép chỉnh sửa và sửa đổi.

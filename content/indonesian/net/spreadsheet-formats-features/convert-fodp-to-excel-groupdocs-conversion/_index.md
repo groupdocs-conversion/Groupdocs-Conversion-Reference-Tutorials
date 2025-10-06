@@ -4,8 +4,8 @@
 "title": "Konversi FODP ke Excel secara efisien menggunakan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/spreadsheet-formats-features/convert-fodp-to-excel-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi File FODP ke Excel Secara Efisien Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

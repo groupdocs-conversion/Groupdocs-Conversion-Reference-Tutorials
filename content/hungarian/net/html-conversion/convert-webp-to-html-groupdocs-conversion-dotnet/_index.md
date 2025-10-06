@@ -4,8 +4,8 @@
 "title": "Hogyan konvertálhatunk WEBP képeket HTML-be .NET-ben a GroupDocs.Conversion használatával"
 "url": "/hu/net/html-conversion/convert-webp-to-html-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató: WEBP konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -8,10 +8,8 @@ keywords:
 - convert JPC to DOCX
 - GroupDocs.Conversion .NET
 - document conversion
-
+type: docs
 ---
-
-
 # How to Convert JPC Files to DOCX Using GroupDocs.Conversion for .NET
 
 ## Introduction

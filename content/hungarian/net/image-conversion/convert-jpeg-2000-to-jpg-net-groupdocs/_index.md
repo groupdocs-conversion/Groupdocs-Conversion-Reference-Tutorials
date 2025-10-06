@@ -4,8 +4,8 @@
 "title": "JPEG 2000 JPG formátumba konvertálása .NET-ben a GroupDocs.Conversion használatával – Átfogó útmutató"
 "url": "/hu/net/image-conversion/convert-jpeg-2000-to-jpg-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # JPEG 2000 JPG formátumba konvertálása .NET-ben a GroupDocs.Conversion használatával: Átfogó útmutató
 
 ## Bevezetés

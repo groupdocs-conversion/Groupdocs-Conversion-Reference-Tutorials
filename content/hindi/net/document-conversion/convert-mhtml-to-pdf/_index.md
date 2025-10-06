@@ -5,8 +5,8 @@
 "title": "MHTML को PDF में बदलें"
 "url": "/hi/net/document-conversion/convert-mhtml-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # MHTML को PDF में बदलें
 
 ## परिचय

@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 加载和转换 OTS 文件"
 "url": "/zh/net/spreadsheet-formats-features/load-ots-file-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 加载和转换 OTS 文件
 
 在当今的数字环境中，管理各种文档格式对于企业和开发者至关重要。无论是处理发票还是合同，将它们转换为通用格式都可以节省时间和资源。本教程将指导您使用强大的 .NET GroupDocs.Conversion 库加载和转换开放文档电子表格文本 (OTS) 文件。

@@ -4,8 +4,8 @@
 "title": "Cách chuyển đổi tệp VSS sang HTML bằng GroupDocs.Conversion cho .NET (Hướng dẫn năm 2023)"
 "url": "/vi/net/html-conversion/convert-vss-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách chuyển đổi tệp VSS sang HTML bằng GroupDocs.Conversion cho .NET (Hướng dẫn năm 2023)
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "Chuyển đổi CSV sang PSD với GroupDocs.Conversion cho .NET&#58; Hướng dẫn từng bước"
 "url": "/vi/net/image-formats-features/convert-csv-to-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi CSV sang PSD với GroupDocs.Conversion cho .NET: Hướng dẫn từng bước
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "Átfogó útmutató a CMX HTML-lé konvertálásához a GroupDocs.Conversion .NET használatával a zökkenőmentes dokumentum-munkafolyamat-integrációhoz"
 "url": "/hu/net/html-conversion/groupdocs-conversion-net-cmx-to-html-guide/"
 "weight": 1
+type: docs
 ---
-
 # Átfogó útmutató: CMX konvertálása HTML-re a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

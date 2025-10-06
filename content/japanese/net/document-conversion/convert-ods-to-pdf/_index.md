@@ -5,8 +5,8 @@
 "title": "ODSをPDFに変換する"
 "url": "/ja/net/document-conversion/convert-ods-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # ODSをPDFに変換する
 
 ## 導入

@@ -5,8 +5,8 @@
 "title": "ODG konvertálása PDF-be"
 "url": "/hu/net/document-conversion/convert-odg-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # ODG konvertálása PDF-be
 
 ## Bevezetés

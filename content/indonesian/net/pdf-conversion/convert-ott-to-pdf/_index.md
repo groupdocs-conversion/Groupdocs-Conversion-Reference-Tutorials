@@ -5,8 +5,8 @@
 "title": "Konversi OTT ke PDF"
 "url": "/id/net/pdf-conversion/convert-ott-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # Konversi OTT ke PDF
 
 ## Perkenalan

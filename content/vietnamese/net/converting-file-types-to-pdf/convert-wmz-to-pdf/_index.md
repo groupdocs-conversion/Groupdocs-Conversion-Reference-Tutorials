@@ -5,8 +5,8 @@
 "title": "Chuyển đổi WMZ sang PDF"
 "url": "/vi/net/converting-file-types-to-pdf/convert-wmz-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # Chuyển đổi WMZ sang PDF
 
 ## Giới thiệu

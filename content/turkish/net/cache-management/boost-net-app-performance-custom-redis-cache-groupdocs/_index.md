@@ -4,8 +4,8 @@
 "title": ".NET Uygulama Performansını Artırın ve GroupDocs.Conversion ile Özel Redis Önbelleğini Uygulama"
 "url": "/tr/net/cache-management/boost-net-app-performance-custom-redis-cache-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion'ı Kullanarak Özel Redis Önbelleğe Alma ile .NET Uygulama Performansınızı Artırın
 
 ## giriiş

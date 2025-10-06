@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET で OTS を PPT に簡単に変換"
 "url": "/ja/net/presentation-formats-features/convert-ots-to-ppt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET で OTS を PPT に簡単に変換
 
 ## 導入

@@ -4,8 +4,8 @@
 "title": "ग्रुपडॉक्स के चुनिंदा लेआउट रूपांतरण गाइड का उपयोग करके जावा में CAD लेआउट को पीडीएफ में कनवर्ट करें"
 "url": "/hi/java/cad-formats/groupdocs-java-cad-to-pdf-selective-layouts/"
 "weight": 1
+type: docs
 ---
-
 # Java के लिए GroupDocs.Conversion के साथ CAD लेआउट को PDF में कनवर्ट करें
 ## जावा में चुनिंदा CAD को PDF में रूपान्तरित करने में निपुणता
 ### परिचय

@@ -5,8 +5,8 @@
 "title": "ODP को PDF में बदलें"
 "url": "/hi/net/document-conversion/convert-odp-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # ODP को PDF में बदलें
 
 ## परिचय

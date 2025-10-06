@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 輕鬆將 DNG 轉換為 PPTX"
 "url": "/zh-hant/net/presentation-conversion/convert-dng-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 DNG 轉換為 PPTX
 
 在當今的數位時代，能夠快速有效地管理文件轉換至關重要。無論您是展示 3D 設計的建築師，還是將原始圖像轉換為簡報的行銷人員，學習如何將數位底片 (DNG) 檔案轉換為 PowerPoint 簡報 (.pptx) 格式都將大有裨益。

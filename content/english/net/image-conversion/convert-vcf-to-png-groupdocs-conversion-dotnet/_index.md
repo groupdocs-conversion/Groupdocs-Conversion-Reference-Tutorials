@@ -8,10 +8,8 @@ keywords:
 - convert vcf to png
 - groupdocs conversion dotnet
 - vcf file conversion
-
+type: docs
 ---
-
-
 # How to Convert VCF Files to PNG Images Using GroupDocs.Conversion for .NET (Step-by-Step Guide)
 
 ## Introduction

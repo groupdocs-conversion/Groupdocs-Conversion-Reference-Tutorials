@@ -4,8 +4,8 @@
 "title": "Conversion de fichiers .NET CSV en XLS à l'aide de GroupDocs &#58; un guide complet"
 "url": "/fr/net/spreadsheet-formats-features/master-dotnet-csv-to-xls-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Conversion de fichiers .NET CSV en XLS avec GroupDocs : guide complet
 
 Dans un monde où les données sont omniprésentes, la conversion de fichiers entre différents formats est un besoin fréquent. Que vous traitiez des rapports financiers ou analysiez de grands ensembles de données, la conversion de fichiers CSV (valeurs séparées par des virgules) au format XLS compatible Excel peut être cruciale pour une gestion et une analyse efficaces des données. Ce tutoriel vous guidera dans l'utilisation de GroupDocs.Conversion pour .NET afin de transformer facilement vos fichiers CSV en documents XLS.

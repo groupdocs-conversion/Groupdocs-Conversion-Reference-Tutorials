@@ -8,10 +8,8 @@ keywords:
 - .NET conversion Excel Word
 - Excel to Word conversion C#
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # Master .NET Document Conversion: Excel to Word Using GroupDocs.Conversion
 
 ## Introduction

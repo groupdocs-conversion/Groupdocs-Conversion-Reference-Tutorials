@@ -4,8 +4,8 @@
 "title": "Hogyan konvertálhatunk LOG fájlokat PowerPoint prezentációkká a GroupDocs.Conversion for .NET használatával?"
 "url": "/hu/net/presentation-formats-features/convert-log-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Hogyan konvertálhatunk LOG fájlokat PowerPoint prezentációkká a GroupDocs.Conversion for .NET használatával?
 
 ## Bevezetés

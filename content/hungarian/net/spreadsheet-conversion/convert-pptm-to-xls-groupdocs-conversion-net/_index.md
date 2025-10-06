@@ -4,8 +4,8 @@
 "title": "PPTM konvertálása XLS-be a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/spreadsheet-conversion/convert-pptm-to-xls-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PPTM konvertálása XLS-be a GroupDocs.Conversion for .NET segítségével
 ## Bevezetés
 PowerPoint-bemutatók (PPTM-fájlok) Excel-táblázatokba (XLS-formátum) konvertálása elengedhetetlen lehet az adatelemzéshez vagy a tartalom újrafelhasználásához. A GroupDocs.Conversion for .NET használata leegyszerűsíti ezt a folyamatot, és akkor is könnyen használhatóvá teszi, ha nem vagy kódolási szakértő.

@@ -5,8 +5,8 @@
 "title": "Μετατροπή αρχείων AI σε PDF"
 "url": "/el/net/file-conversion-to-pdf/convert-ai-to-pdf/"
 "weight": 10
+type: docs
 ---
-
 # Μετατροπή αρχείων AI σε PDF
 
 ## Εισαγωγή

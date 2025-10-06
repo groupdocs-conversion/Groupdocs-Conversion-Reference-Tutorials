@@ -4,8 +4,8 @@
 "title": "DJVU konvertálása PDF-be C#-ban a GroupDocs.Conversion használatával – lépésről lépésre útmutató"
 "url": "/hu/net/pdf-conversion-features/convert-djvu-pdf-groupdocs-conversion-csharp/"
 "weight": 1
+type: docs
 ---
-
 # DJVU konvertálása PDF-be a GroupDocs.Conversion segítségével C#-ban: Átfogó útmutató
 
 ## Bevezetés

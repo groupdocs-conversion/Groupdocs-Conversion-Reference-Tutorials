@@ -5,8 +5,8 @@
 "title": "CGM 벡터 그래픽을 PDF로 변환"
 "url": "/ko/net/file-conversion-to-pdf/convert-cgm-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # CGM 벡터 그래픽을 PDF로 변환
 
 ## 소개

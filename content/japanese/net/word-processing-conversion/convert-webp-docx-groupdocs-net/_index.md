@@ -4,8 +4,8 @@
 "title": ".NETでGroupDocsを使用してWebPをDOCXに変換する手順ガイド"
 "url": "/ja/net/word-processing-conversion/convert-webp-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET で GroupDocs.Conversion を使用して WebP 画像を DOCX ファイルに変換する
 
 ## 導入

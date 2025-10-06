@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 实现高效的 ODT 到 PDF 转换指南"
 "url": "/zh/net/pdf-conversion-features/convert-odt-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # 高效的 ODT 到 PDF 转换：使用 GroupDocs.Conversion for .NET 的指南
 
 ## 介绍

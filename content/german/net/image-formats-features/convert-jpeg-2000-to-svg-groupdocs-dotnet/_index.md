@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie JPEG 2000 (.j2k) in SVG mit GroupDocs.Conversion für .NET – Eine Schritt-für-Schritt-Anleitung"
 "url": "/de/net/image-formats-features/convert-jpeg-2000-to-svg-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie JPEG 2000 (.j2k) in SVG mit GroupDocs.Conversion für .NET
 
 Im heutigen digitalen Zeitalter ist die Kompatibilität von Dateiformaten entscheidend für einen reibungslosen Datenaustausch und eine reibungslose Präsentation. Die Konvertierung eines hochwertigen Bildes vom JPEG 2000-Format in eine skalierbare Vektorgrafik (SVG) kann die Web-Performance und die Designflexibilität deutlich verbessern. Dieses Tutorial führt Sie durch die Konvertierung `.j2k` Dateien in SVG mithilfe von GroupDocs.Conversion für .NET, wodurch sichergestellt wird, dass Ihre Bilder sowohl leicht als auch optisch ansprechend sind.

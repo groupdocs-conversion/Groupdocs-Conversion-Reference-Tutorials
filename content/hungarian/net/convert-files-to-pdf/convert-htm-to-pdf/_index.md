@@ -5,8 +5,8 @@
 "title": "HTM weboldalak konvertálása PDF-be"
 "url": "/hu/net/convert-files-to-pdf/convert-htm-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # HTM weboldalak konvertálása PDF-be
 
 ## Bevezetés

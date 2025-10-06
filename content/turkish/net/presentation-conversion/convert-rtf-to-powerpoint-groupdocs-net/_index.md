@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET kullanarak RTF'yi PowerPoint'e dönüştürme - Sunum Dönüştürme için Kolay Kılavuz"
 "url": "/tr/net/presentation-conversion/convert-rtf-to-powerpoint-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET Kullanarak RTF'yi PowerPoint'e Dönüştürme
 
 ## giriiş

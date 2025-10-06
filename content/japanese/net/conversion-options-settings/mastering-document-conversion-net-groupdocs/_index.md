@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion による .NET でのドキュメント変換のマスター 包括的なガイド"
 "url": "/ja/net/conversion-options-settings/mastering-document-conversion-net-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion を使用した .NET でのドキュメント変換の習得
 
 ## 導入

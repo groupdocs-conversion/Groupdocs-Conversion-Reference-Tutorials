@@ -4,8 +4,8 @@
 "title": "Sledování průběhu konverze dokumentů v Javě pomocí GroupDocs – kompletní průvodce"
 "url": "/cs/java/conversion-events-logging/java-groupdocs-conversion-progress-listener/"
 "weight": 1
+type: docs
 ---
-
 # Sledování průběhu konverze dokumentů v Javě pomocí GroupDocs: Kompletní průvodce
 
 ## Zavedení

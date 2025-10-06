@@ -4,8 +4,8 @@
 "title": "Leer PDF-lettertypevervanging in .NET met GroupDocs.Conversion&#58; een uitgebreide handleiding"
 "url": "/nl/net/font-handling-substitution/groupdocs-conversion-pdf-font-substitution-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Beheers PDF-lettertypevervanging in .NET met GroupDocs.Conversion
 
 Het is essentieel om consistente typografie te garanderen tijdens documentconversie. Deze uitgebreide handleiding laat zien hoe u GroupDocs.Conversion voor .NET kunt gebruiken om lettertypevervangingen effectief te beheren bij het converteren van documenten naar PDF.

@@ -4,8 +4,8 @@
 "title": "Kuasai Konversi Lampiran Email .NET dengan Pustaka GroupDocs.Conversion—Panduan Lengkap"
 "url": "/id/net/email-formats-features/net-email-attachment-conversion-groupdocs-guide/"
 "weight": 1
+type: docs
 ---
-
 # Kuasai Konversi Lampiran Email .NET dengan Pustaka GroupDocs.Conversion
 
 ## Perkenalan

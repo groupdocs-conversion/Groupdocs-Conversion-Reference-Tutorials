@@ -4,8 +4,8 @@
 "title": "使用 GroupDocs.Conversion for .NET 將 FODP 檔案轉換為 PNG | 映像轉換指南"
 "url": "/zh-hant/net/image-conversion/convert-fodp-to-png-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 將 FODP 檔案轉換為 PNG
 
 ## 介紹

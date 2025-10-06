@@ -5,8 +5,8 @@
 "title": "แปลง VCF เป็น PDF"
 "url": "/th/net/file-format-conversion-tutorials/convert-vcf-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # แปลง VCF เป็น PDF
 
 ## การแนะนำ

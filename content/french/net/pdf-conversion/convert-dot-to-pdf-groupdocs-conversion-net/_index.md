@@ -4,8 +4,8 @@
 "title": "Convertissez facilement un fichier DOT en PDF &#58; guide étape par étape avec GroupDocs.Conversion pour .NET"
 "url": "/fr/net/pdf-conversion/convert-dot-to-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir facilement un fichier DOT en PDF : guide étape par étape avec GroupDocs.Conversion pour .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Конвертируйте EMF в TXT с помощью GroupDocs.Conversion для .NET&#58; Пошаговое руководство"
 "url": "/ru/net/text-markup-conversion/convert-emf-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертация EMF в TXT с помощью GroupDocs.Conversion для .NET: пошаговое руководство
 
 ## Введение

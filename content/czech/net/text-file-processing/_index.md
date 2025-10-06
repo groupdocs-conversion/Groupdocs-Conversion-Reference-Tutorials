@@ -3,8 +3,8 @@
 "title": "Výukové programy pro zpracování textových souborů v GroupDocs.Conversion .NET"
 "url": "/cs/net/text-file-processing/"
 "weight": 17
+type: docs
 ---
-
 # Výukové programy pro zpracování textových souborů v GroupDocs.Conversion .NET
 
 Naše tutoriály pro převod textových souborů vám ukážou, jak pracovat s obsahem prostého textu pomocí GroupDocs.Conversion v .NET. Tyto podrobné průvodce vás provedou řízením chování úvodních a koncových mezer během převodu textu, určením možností kódování pro textové soubory, zachováním formátování, pokud je to možné, zpracováním zalomení řádků a speciálních znaků, implementací zásad zalamování textu, nastavením stránkování pro převedený text a správou požadavků na obousměrný text. Každý tutoriál obsahuje funkční příklady kódu C# pro scénáře převodu textových souborů, které vám pomohou vytvářet aplikace, které dokáží efektivně zpracovávat prostý text a zároveň zachovat čitelnost a strukturu výstupu.

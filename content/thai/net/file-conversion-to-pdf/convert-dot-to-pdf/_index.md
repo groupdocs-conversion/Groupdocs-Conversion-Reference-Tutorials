@@ -5,8 +5,8 @@
 "title": "แปลงเทมเพลต Word DOT เป็น PDF"
 "url": "/th/net/file-conversion-to-pdf/convert-dot-to-pdf/"
 "weight": 26
+type: docs
 ---
-
 # แปลงเทมเพลต Word DOT เป็น PDF
 
 ## การแนะนำ

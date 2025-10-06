@@ -5,8 +5,8 @@
 "title": "XML को PDF में बदलें"
 "url": "/hi/net/converting-file-types-to-pdf/convert-xml-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # XML को PDF में बदलें
 
 ## परिचय

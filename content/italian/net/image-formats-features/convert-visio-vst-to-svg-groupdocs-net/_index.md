@@ -4,8 +4,8 @@
 "title": "Come convertire i modelli di disegno di Visio (.vst) in SVG utilizzando GroupDocs.Conversion per .NET"
 "url": "/it/net/image-formats-features/convert-visio-vst-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Come convertire i modelli di disegno di Visio (.vst) in SVG utilizzando GroupDocs.Conversion per .NET
 
 ## Introduzione

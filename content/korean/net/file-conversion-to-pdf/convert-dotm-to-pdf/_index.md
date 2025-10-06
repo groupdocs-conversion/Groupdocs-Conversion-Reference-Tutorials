@@ -5,8 +5,8 @@
 "title": "DOTM Word 템플릿(매크로)을 PDF로 변환"
 "url": "/ko/net/file-conversion-to-pdf/convert-dotm-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # DOTM Word 템플릿(매크로)을 PDF로 변환
 
 ## 소개

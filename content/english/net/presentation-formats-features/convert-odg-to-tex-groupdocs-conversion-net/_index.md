@@ -8,10 +8,8 @@ keywords:
 - convert ODG to TEX
 - ODG to LaTeX conversion
 - GroupDocs.Conversion for .NET
-
+type: docs
 ---
-
-
 # Convert ODG to TEX Using GroupDocs.Conversion for .NET: A Complete Guide
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Effektiv konvertering från dokument till kalkylblad med GroupDocs.Conversion för .NET"
 "url": "/sv/net/spreadsheet-formats-features/convert-documents-to-spreadsheets-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Effektiv konvertering från dokument till kalkylblad med GroupDocs.Conversion för .NET
 
 ## Introduktion

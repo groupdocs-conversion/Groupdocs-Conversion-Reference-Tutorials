@@ -3,8 +3,8 @@ title: "Conversion Options and Settings Tutorials for GroupDocs.Conversion .NET"
 description: "Comprehensive tutorials for configuring general conversion parameters and options with GroupDocs.Conversion for .NET."
 weight: 8
 url: "/net/conversion-options-settings/"
+type: docs
 ---
-
 # Conversion Options and Settings Tutorials for GroupDocs.Conversion .NET
 
 Master conversion configuration with our detailed GroupDocs.Conversion tutorials for .NET developers. These step-by-step guides cover retrieving default conversion options for specific target formats, configuring load options for source documents, setting up common conversion parameters, managing resource timeout settings, controlling memory usage during conversion, and specifying encoding options for text-based formats. Each tutorial provides practical C# code examples for properly configuring the conversion process, helping you build applications that can be fine-tuned for optimal performance and output quality across a wide range of document formats.

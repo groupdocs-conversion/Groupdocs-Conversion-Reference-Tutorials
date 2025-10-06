@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak XPS'i JPG'ye Verimli Şekilde Dönüştürün | Görüntü Dönüştürme Kılavuzu"
 "url": "/tr/net/image-conversion/convert-xps-jpg-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Kapsamlı Kılavuz: GroupDocs.Conversion for .NET ile XPS'i JPG'ye Verimli Şekilde Dönüştürün
 
 ## giriiş

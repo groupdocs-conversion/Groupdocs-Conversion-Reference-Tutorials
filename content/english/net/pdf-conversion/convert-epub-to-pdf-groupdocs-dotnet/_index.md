@@ -8,10 +8,8 @@ keywords:
 - convert EPUB to PDF
 - GroupDocs.Conversion for .NET
 - .NET document conversion
-
+type: docs
 ---
-
-
 # Comprehensive Guide to Convert EPUB to PDF Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -5,8 +5,8 @@
 "title": "Chuyển đổi XML sang PDF"
 "url": "/vi/net/converting-file-types-to-pdf/convert-xml-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # Chuyển đổi XML sang PDF
 
 ## Giới thiệu

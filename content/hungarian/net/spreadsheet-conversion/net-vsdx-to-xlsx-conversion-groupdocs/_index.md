@@ -4,8 +4,8 @@
 "title": "Hatékony .NET VSDX-ből XLSX-be konvertálás a GroupDocs.Conversion segítségével"
 "url": "/hu/net/spreadsheet-conversion/net-vsdx-to-xlsx-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Hatékony .NET VSDX-ből XLSX-be konvertálás a GroupDocs.Conversion segítségével
 
 ## Bevezetés

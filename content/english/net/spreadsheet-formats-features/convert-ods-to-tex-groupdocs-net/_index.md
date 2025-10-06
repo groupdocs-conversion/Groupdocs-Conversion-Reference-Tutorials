@@ -8,10 +8,8 @@ keywords:
 - convert ODS to TEX
 - GroupDocs.Conversion for .NET
 - ODS to LaTeX conversion
-
+type: docs
 ---
-
-
 # Comprehensive Guide: Converting ODS Files to TEX Format Using GroupDocs.Conversion for .NET
 
 ## Introduction

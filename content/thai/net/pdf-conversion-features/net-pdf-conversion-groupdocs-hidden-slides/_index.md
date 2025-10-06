@@ -4,8 +4,8 @@
 "title": "การแปลง PDF ของ .NET อย่างเชี่ยวชาญพร้อมสไลด์ที่ซ่อนอยู่โดยใช้ GroupDocs.Conversion"
 "url": "/th/net/pdf-conversion-features/net-pdf-conversion-groupdocs-hidden-slides/"
 "weight": 1
+type: docs
 ---
-
 # การแปลง PDF ของ .NET อย่างเชี่ยวชาญพร้อมสไลด์ที่ซ่อนอยู่โดยใช้ GroupDocs.Conversion
 
 ## การแนะนำ

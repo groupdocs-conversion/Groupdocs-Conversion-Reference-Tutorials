@@ -3,8 +3,8 @@
 "title": "Tutoriais de conversão de imagens para GroupDocs.Conversion .NET"
 "url": "/pt/net/image-conversion/"
 "weight": 28
+type: docs
 ---
-
 # Tutoriais de conversão de imagens para GroupDocs.Conversion .NET
 
 Nossos tutoriais de conversão de imagens oferecem orientações abrangentes para transformar documentos em diversos formatos de imagem em aplicativos .NET. Estes guias passo a passo demonstram como converter documentos para JPG, PNG, TIFF, SVG e outros formatos de imagem a partir de fontes como Word, PDF, PowerPoint, desenhos CAD e muito mais. Aprenda a controlar a resolução, a profundidade de cor, a compactação, a transparência e outras configurações específicas da imagem para alcançar o equilíbrio ideal entre qualidade e tamanho do arquivo. Cada tutorial inclui exemplos detalhados de código C# para criar representações de imagem de alta qualidade dos seus documentos, perfeitas para pré-visualização, arquivamento ou processamento posterior de imagens.

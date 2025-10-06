@@ -4,8 +4,8 @@
 "title": "Převod šablon Visio (.vstm) do Photoshopu (.psd) pomocí nástroje GroupDocs.Conversion pro .NET – podrobný návod"
 "url": "/cs/net/image-conversion/convert-vstm-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod šablon Visio (.vstm) do Photoshopu (.psd) pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 ## Zavedení
 Převod šablon výkresů s podporou maker (VSTM) aplikace Visio do univerzálního formátu, jako je dokument Adobe Photoshopu (PSD), může být náročný. Tato příručka tento proces zjednodušuje pomocí nástroje GroupDocs.Conversion pro .NET a umožňuje bezproblémové a efektivní převody souborů. Díky tomuto výkonnému nástroji se transformace souborů VSTM do souborů PSD stává snadnou a vylepšuje váš pracovní postup s dokumenty.

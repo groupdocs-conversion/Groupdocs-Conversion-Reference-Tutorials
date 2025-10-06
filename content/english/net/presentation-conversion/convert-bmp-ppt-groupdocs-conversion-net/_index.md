@@ -8,10 +8,8 @@ keywords:
 - convert BMP to PowerPoint using GroupDocs.Conversion for .NET
 - GroupDocs.Conversion for .NET tutorial
 - BMP to PPT conversion guide
-
+type: docs
 ---
-
-
 # Convert BMP to PowerPoint PPT Using GroupDocs.Conversion for .NET
 
 ## Introduction

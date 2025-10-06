@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion&#58; Gelişmiş Seçenekler Kılavuzunu Kullanarak Java'da E-postaları PDF'lere Dönüştürün"
 "url": "/tr/java/pdf-conversion/convert-emails-to-pdfs-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Kullanarak Java'da E-postaları PDF'lere Dönüştürme: Gelişmiş Seçenekler Kılavuzu
 
 ## giriiş

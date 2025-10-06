@@ -8,10 +8,8 @@ keywords:
 - convert POTX to DOC .NET
 - GroupDocs.Conversion for .NET installation
 - document conversion tutorial
-
+type: docs
 ---
-
-
 # Convert POTX to DOC in .NET with GroupDocs.Conversion
 
 ## Introduction

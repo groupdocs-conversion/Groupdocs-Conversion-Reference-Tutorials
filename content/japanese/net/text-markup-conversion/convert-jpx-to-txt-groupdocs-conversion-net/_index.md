@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して JPX を TXT に変換する方法 - ステップバイステップガイド"
 "url": "/ja/net/text-markup-conversion/convert-jpx-to-txt-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 包括的なチュートリアル: GroupDocs.Conversion for .NET を使用して JPX を TXT に変換する
 
 ## 導入

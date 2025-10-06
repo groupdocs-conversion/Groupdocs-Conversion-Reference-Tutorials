@@ -4,8 +4,8 @@
 "title": "Converteer PowerPoint-sjablonen efficiënt naar JPEG in .NET met GroupDocs.Conversion"
 "url": "/nl/net/image-conversion/convert-powerpoint-to-jpeg-dotnet-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Efficiënte conversie van PowerPoint-sjablonen naar JPEG in .NET met behulp van GroupDocs.Conversion
 
 ## Invoering

@@ -4,8 +4,8 @@
 "title": "Cách Tải Tệp EPUB Sử Dụng GroupDocs.Conversion cho .NET&#58; Hướng Dẫn Từng Bước"
 "url": "/vi/net/loading-from-local-sources/load-epub-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Cách tải tệp EPUB bằng GroupDocs.Conversion cho .NET: Hướng dẫn toàn diện
 
 ## Giới thiệu

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET で XLSX を HTML に変換する方法 - 総合ガイド"
 "url": "/ja/net/html-conversion/convert-xlsx-to-html-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET で XLSX を HTML に変換する: 包括的なガイド
 
 ## 導入

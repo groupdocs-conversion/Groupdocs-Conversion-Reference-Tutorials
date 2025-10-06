@@ -5,8 +5,8 @@
 "title": "Převod e-mailových zpráv EML do PDF"
 "url": "/cs/net/convert-files-to-pdf/convert-eml-to-pdf/"
 "weight": 14
+type: docs
 ---
-
 # Převod e-mailových zpráv EML do PDF
 
 ## Zavedení

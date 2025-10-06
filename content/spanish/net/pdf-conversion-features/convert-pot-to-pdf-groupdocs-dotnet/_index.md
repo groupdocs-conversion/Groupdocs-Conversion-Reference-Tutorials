@@ -4,8 +4,8 @@
 "title": "Convertir una plantilla de PowerPoint (.pot) a PDF usando GroupDocs.Conversion para .NET"
 "url": "/es/net/pdf-conversion-features/convert-pot-to-pdf-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Cómo convertir un archivo de plantilla de PowerPoint (.pot) a PDF con GroupDocs.Conversion para .NET
 
 ## Introducción

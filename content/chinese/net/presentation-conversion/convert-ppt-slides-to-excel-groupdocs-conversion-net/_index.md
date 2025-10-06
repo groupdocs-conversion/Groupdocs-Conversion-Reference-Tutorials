@@ -4,8 +4,8 @@
 "title": "将 PPT 幻灯片转换为 Excel — 掌握 GroupDocs.Conversion for .NET"
 "url": "/zh/net/presentation-conversion/convert-ppt-slides-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 使用 GroupDocs.Conversion for .NET 将 PPT 幻灯片转换为 Excel
 
 ## 介绍

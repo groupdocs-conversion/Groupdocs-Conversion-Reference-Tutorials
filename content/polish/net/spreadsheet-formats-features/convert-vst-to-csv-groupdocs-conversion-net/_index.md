@@ -4,8 +4,8 @@
 "title": "Konwertuj VST do CSV w prosty sposób dzięki GroupDocs.Conversion for .NET&#58; Kompletny przewodnik"
 "url": "/pl/net/spreadsheet-formats-features/convert-vst-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konwertuj VST do CSV za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

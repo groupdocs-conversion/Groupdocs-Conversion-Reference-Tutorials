@@ -4,8 +4,8 @@
 "title": "Jak převést XML do XLSX pomocí GroupDocs.Conversion pro .NET – podrobný návod"
 "url": "/cs/net/spreadsheet-conversion/convert-xml-to-xlsx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést XML do XLSX pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

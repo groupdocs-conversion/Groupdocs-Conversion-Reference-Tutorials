@@ -8,10 +8,8 @@ keywords:
 - convert CSV to JSON
 - GroupDocs.Conversion .NET
 - CSV to JSON conversion
-
+type: docs
 ---
-
-
 # Convert CSV to JSON Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

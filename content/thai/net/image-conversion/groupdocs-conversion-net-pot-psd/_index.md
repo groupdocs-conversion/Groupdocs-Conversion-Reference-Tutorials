@@ -4,8 +4,8 @@
 "title": "วิธีแปลงไฟล์ POT เป็น PSD โดยใช้ GroupDocs.Conversion .NET | คู่มือการแปลงรูปภาพ"
 "url": "/th/net/image-conversion/groupdocs-conversion-net-pot-psd/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการแปลงไฟล์ POT เป็น PSD โดยใช้ GroupDocs.Conversion .NET
 
 ## การแนะนำ

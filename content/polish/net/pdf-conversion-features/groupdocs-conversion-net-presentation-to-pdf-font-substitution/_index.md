@@ -4,8 +4,8 @@
 "title": "Konwersja PowerPoint do PDF z zamianą czcionek w .NET przy użyciu GroupDocs.Conversion"
 "url": "/pl/net/pdf-conversion-features/groupdocs-conversion-net-presentation-to-pdf-font-substitution/"
 "weight": 1
+type: docs
 ---
-
 # Konwersja PowerPoint do PDF z zamianą czcionek w .NET przy użyciu GroupDocs.Conversion
 
 ## Wstęp

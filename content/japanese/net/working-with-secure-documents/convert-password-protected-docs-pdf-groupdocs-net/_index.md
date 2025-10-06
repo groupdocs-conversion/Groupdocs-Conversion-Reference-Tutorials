@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET を使用して、パスワード保護された Word 文書を PDF に変換する"
 "url": "/ja/net/working-with-secure-documents/convert-password-protected-docs-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET を使用してパスワード保護された Word 文書を読み込み、PDF に変換する方法
 
 ## 導入

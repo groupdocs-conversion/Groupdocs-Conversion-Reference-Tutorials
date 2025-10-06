@@ -4,8 +4,8 @@
 "title": "Konversi PPT ke PDF yang Efisien dalam .NET menggunakan GroupDocs.Conversion"
 "url": "/id/net/pdf-conversion/groupdocs-conversion-net-ppt-pdf/"
 "weight": 1
+type: docs
 ---
-
 # Konversi PPT ke PDF yang Efisien dalam .NET Menggunakan GroupDocs.Conversion
 
 Mengonversi presentasi PowerPoint (.ppt) ke Portable Document Format (PDF) sangat penting dalam lanskap digital saat ini. Baik untuk berbagi atau pengarsipan yang aman, fungsi ini sangat berharga. Dalam tutorial ini, kami akan memandu Anda menggunakan **GroupDocs.Konversi untuk .NET** untuk mengonversi berkas PPT Anda menjadi PDF secara efisien.

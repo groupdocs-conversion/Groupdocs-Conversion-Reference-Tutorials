@@ -4,8 +4,8 @@
 "title": "Outlook e-mailek konvertálása Photoshop dokumentumokká a GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/image-formats-features/convert-outlook-emails-to-photoshop-documents/"
 "weight": 1
+type: docs
 ---
-
 # Microsoft Outlook e-mailek konvertálása Adobe Photoshop dokumentumokká a GroupDocs.Conversion for .NET segítségével
 
 ## Bevezetés

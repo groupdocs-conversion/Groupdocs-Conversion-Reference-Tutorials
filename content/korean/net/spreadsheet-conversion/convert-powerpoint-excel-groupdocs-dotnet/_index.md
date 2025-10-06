@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET을 사용하여 PowerPoint를 Excel로 변환하는 포괄적인 가이드"
 "url": "/ko/net/spreadsheet-conversion/convert-powerpoint-excel-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET을 사용하여 PowerPoint 슬라이드를 Excel 시트로 변환
 
 ## 소개

@@ -8,10 +8,8 @@ keywords:
 - DOCX to SVG Conversion
 - GroupDocs.NET Document Conversion
 - Convert DOCM to SVG
-
+type: docs
 ---
-
-
 # Master DOCM to SVG Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "Zvýšení výkonu .NET aplikací – implementace vlastní mezipaměti Redis pomocí GroupDocs.Conversion"
 "url": "/cs/net/cache-management/boost-net-app-performance-custom-redis-cache-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Zvyšte výkon svých .NET aplikací pomocí vlastního ukládání do mezipaměti Redis s využitím GroupDocs.Conversion
 
 ## Zavedení

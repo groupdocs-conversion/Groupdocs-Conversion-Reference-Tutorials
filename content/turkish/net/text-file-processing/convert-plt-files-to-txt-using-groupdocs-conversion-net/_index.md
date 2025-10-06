@@ -4,8 +4,8 @@
 "title": "PLT Dosyalarını GroupDocs.Conversion for .NET Kullanarak TXT'ye Dönüştürme Adım Adım Kılavuzu"
 "url": "/tr/net/text-file-processing/convert-plt-files-to-txt-using-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PLT Dosyalarını GroupDocs.Conversion for .NET Kullanarak TXT'ye Dönüştürme: Adım Adım Kılavuz
 
 ## giriiş

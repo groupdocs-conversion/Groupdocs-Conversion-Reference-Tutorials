@@ -4,8 +4,8 @@
 "title": "Jak převést DOTX do PPT pomocí GroupDocs.Conversion pro .NET – podrobný návod"
 "url": "/cs/net/presentation-formats-features/convert-dotx-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést DOTX do PPT pomocí GroupDocs.Conversion pro .NET
 
 ## Zavedení

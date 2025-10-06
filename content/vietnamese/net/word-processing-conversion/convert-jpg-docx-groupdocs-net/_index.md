@@ -4,8 +4,8 @@
 "title": "Chuyển đổi JPG sang DOCX bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/word-processing-conversion/convert-jpg-docx-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi JPG sang DOCX bằng GroupDocs.Conversion cho .NET: Hướng dẫn toàn diện
 ## Giới thiệu
 Bạn đang tìm kiếm một cách hiệu quả để chuyển đổi hình ảnh của mình thành tài liệu có thể chỉnh sửa? Với nhu cầu chia sẻ thông tin kỹ thuật số ngày càng tăng, việc chuyển đổi tệp JPG sang định dạng DOCX là điều cần thiết. Hướng dẫn toàn diện này sẽ hướng dẫn bạn cách sử dụng GroupDocs.Conversion for .NET—một công cụ mạnh mẽ được thiết kế để chuyển đổi tệp liền mạch.

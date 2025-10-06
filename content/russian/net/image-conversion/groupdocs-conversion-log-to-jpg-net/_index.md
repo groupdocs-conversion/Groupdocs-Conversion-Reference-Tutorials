@@ -4,8 +4,8 @@
 "title": "Как преобразовать файлы журналов в JPG в .NET с помощью GroupDocs.Conversion"
 "url": "/ru/net/image-conversion/groupdocs-conversion-log-to-jpg-net/"
 "weight": 1
+type: docs
 ---
-
 # Как преобразовать файлы журналов в JPG в .NET с помощью GroupDocs.Conversion
 
 ## Введение

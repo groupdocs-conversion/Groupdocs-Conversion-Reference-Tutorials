@@ -4,8 +4,8 @@
 "title": "Como converter arquivos de estêncil do Visio (VSSX) em apresentações do PowerPoint usando o GroupDocs.Conversion para .NET"
 "url": "/pt/net/presentation-formats-features/convert-visio-vssx-to-powerpoint-pptx-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Como converter arquivos de estêncil do Visio (VSSX) em apresentações do PowerPoint usando o GroupDocs.Conversion para .NET
 
 ## Introdução

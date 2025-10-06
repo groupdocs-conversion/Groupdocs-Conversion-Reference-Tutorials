@@ -8,10 +8,8 @@ keywords:
 - Convert VSS to PPT
 - GroupDocs.Conversion .NET
 - File Conversion for .NET
-
+type: docs
 ---
-
-
 # How to Convert VSS Files to PPT Presentations Using GroupDocs.Conversion .NET: A Step-by-Step Guide
 
 ## Introduction

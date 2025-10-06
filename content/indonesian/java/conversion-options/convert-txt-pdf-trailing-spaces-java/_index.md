@@ -4,8 +4,8 @@
 "title": "Cara Mengonversi TXT ke PDF dengan Kontrol Trailing Space Menggunakan Java dan GroupDocs.Conversion"
 "url": "/id/java/conversion-options/convert-txt-pdf-trailing-spaces-java/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mengonversi TXT ke PDF dengan Kontrol Trailing Space Menggunakan Java dan GroupDocs.Conversion
 
 Di dunia digital saat ini, penanganan dokumen teks secara efisien sangat penting bagi bisnis dan individu. Mengonversi file teks (TXT) ke dalam format PDF yang serbaguna sambil mempertahankan integritas format dapat menjadi tantangan, terutama saat berhadapan dengan spasi tambahan yang sering mengganggu tata letak. Tutorial ini memandu Anda menggunakan GroupDocs.Conversion for Java untuk mengonversi file teks ke PDF secara efektif, dengan mengendalikan spasi tambahan.

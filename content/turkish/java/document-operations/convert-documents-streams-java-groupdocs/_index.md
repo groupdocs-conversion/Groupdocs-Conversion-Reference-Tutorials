@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion Kullanarak Java'da Akışlardan Belgeleri Dönüştürme"
 "url": "/tr/java/document-operations/convert-documents-streams-java-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion Kullanarak Java'da Akışlardan Belgeleri Dönüştürme
 
 ## giriiş

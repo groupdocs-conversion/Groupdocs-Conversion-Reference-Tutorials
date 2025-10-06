@@ -5,8 +5,8 @@
 "title": "J2C JPEG-LS 압축 이미지를 PDF로 변환"
 "url": "/ko/net/convert-files-to-pdf/convert-j2c-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # J2C JPEG-LS 압축 이미지를 PDF로 변환
 
 ## 소개

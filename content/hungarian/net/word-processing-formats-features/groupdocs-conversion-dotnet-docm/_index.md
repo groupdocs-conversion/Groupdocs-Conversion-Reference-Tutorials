@@ -4,8 +4,8 @@
 "title": "DOCM konverzió elsajátítása .NET-ben a GroupDocs.Conversion segítségével – Átfogó útmutató"
 "url": "/hu/net/word-processing-formats-features/groupdocs-conversion-dotnet-docm/"
 "weight": 1
+type: docs
 ---
-
 # DOCM konverzió elsajátítása .NET-ben a GroupDocs.Conversion segítségével
 
 ## Bevezetés

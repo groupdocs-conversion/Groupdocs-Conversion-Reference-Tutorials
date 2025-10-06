@@ -4,8 +4,8 @@
 "title": ".NET के लिए GroupDocs.Conversion के साथ Visio फ़ाइलों को TeX में कनवर्ट करें एक व्यापक गाइड"
 "url": "/hi/net/cad-technical-drawing-formats/convert-visio-to-tex-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion के साथ Visio फ़ाइलों को TeX में कनवर्ट करें: एक व्यापक गाइड
 
 ## परिचय

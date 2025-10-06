@@ -4,8 +4,8 @@
 "title": "DOTX konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával – lépésről lépésre útmutató"
 "url": "/hu/net/word-processing-formats-features/convert-dotx-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # DOTX konvertálása HTML-lé a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -5,8 +5,8 @@
 "title": "Μετατροπή MD σε PDF"
 "url": "/el/net/document-conversion/convert-md-to-pdf/"
 "weight": 19
+type: docs
 ---
-
 # Μετατροπή MD σε PDF
 
 ## Εισαγωγή

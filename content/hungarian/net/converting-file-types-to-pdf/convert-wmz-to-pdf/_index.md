@@ -5,8 +5,8 @@
 "title": "WMZ konvertálása PDF-be"
 "url": "/hu/net/converting-file-types-to-pdf/convert-wmz-to-pdf/"
 "weight": 20
+type: docs
 ---
-
 # WMZ konvertálása PDF-be
 
 ## Bevezetés

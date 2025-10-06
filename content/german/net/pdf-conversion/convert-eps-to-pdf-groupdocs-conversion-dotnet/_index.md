@@ -4,8 +4,8 @@
 "title": "Konvertieren Sie EPS einfach in PDF mit GroupDocs.Conversion für .NET – Ein umfassender Leitfaden"
 "url": "/de/net/pdf-conversion/convert-eps-to-pdf-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # EPS einfach in PDF konvertieren mit GroupDocs.Conversion für .NET: Ein umfassender Leitfaden
 
 ## Einführung

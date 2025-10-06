@@ -4,8 +4,8 @@
 "title": "GroupDocs API を使用して .NET で VSD を DOC に変換する方法 - 包括的なガイド"
 "url": "/ja/net/word-processing-formats-features/convert-vsdtodoc-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs API を使用して .NET で VSD を DOC に変換する方法: 包括的なガイド
 
 ## 導入

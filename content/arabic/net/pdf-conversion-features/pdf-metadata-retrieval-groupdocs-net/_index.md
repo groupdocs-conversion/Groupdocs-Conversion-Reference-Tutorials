@@ -4,8 +4,8 @@
 "title": "كيفية استرداد بيانات PDF الوصفية باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/pdf-conversion-features/pdf-metadata-retrieval-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # كيفية استرداد بيانات PDF الوصفية باستخدام GroupDocs.Conversion لـ .NET
 
 هل سئمت من استخراج المعلومات يدويًا من مستندات PDF؟ أتمت هذه المهمة باستخدام GroupDocs.Conversion لـ .NET، واسترجع تفاصيل مهمة مثل اسم المؤلف، وتاريخ الإنشاء، وعدد الصفحات، والأبعاد، وغيرها.

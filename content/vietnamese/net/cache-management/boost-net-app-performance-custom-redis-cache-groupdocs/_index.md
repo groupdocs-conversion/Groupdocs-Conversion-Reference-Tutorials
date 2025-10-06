@@ -4,8 +4,8 @@
 "title": "Tăng hiệu suất ứng dụng .NET&#58; Triển khai bộ đệm Redis tùy chỉnh với GroupDocs.Conversion"
 "url": "/vi/net/cache-management/boost-net-app-performance-custom-redis-cache-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # Tăng hiệu suất ứng dụng .NET của bạn với bộ nhớ đệm Redis tùy chỉnh bằng GroupDocs.Conversion
 
 ## Giới thiệu

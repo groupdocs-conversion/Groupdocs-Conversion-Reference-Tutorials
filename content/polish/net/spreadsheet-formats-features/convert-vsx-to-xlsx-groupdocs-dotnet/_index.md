@@ -4,8 +4,8 @@
 "title": "Jak przekonwertować VSX do XLSX za pomocą GroupDocs.Conversion dla .NET"
 "url": "/pl/net/spreadsheet-formats-features/convert-vsx-to-xlsx-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Jak przekonwertować VSX do XLSX za pomocą GroupDocs.Conversion dla .NET
 
 ## Wstęp

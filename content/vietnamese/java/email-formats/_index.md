@@ -3,8 +3,8 @@
 "title": "Hướng dẫn chuyển đổi định dạng email cho GroupDocs.Conversion Java"
 "url": "/vi/java/email-formats/"
 "weight": 8
+type: docs
 ---
-
 # Hướng dẫn chuyển đổi định dạng email cho GroupDocs.Conversion Java
 
 Làm chủ quá trình chuyển đổi tệp email với hướng dẫn chi tiết của chúng tôi về GroupDocs.Conversion dành cho các nhà phát triển Java. Các hướng dẫn từng bước này trình bày cách chuyển đổi tin nhắn email sang định dạng tài liệu, trích xuất tệp đính kèm email, bảo toàn siêu dữ liệu email, xử lý tiêu đề và nội dung email và triển khai các hoạt động chuyển đổi email hàng loạt. Mỗi hướng dẫn cung cấp các ví dụ mã Java thực tế để làm việc với kho lưu trữ và tin nhắn email, giúp bạn xây dựng các ứng dụng có thể xử lý và chuyển đổi hiệu quả các thông tin liên lạc qua email thành nhiều định dạng tài liệu khác nhau.

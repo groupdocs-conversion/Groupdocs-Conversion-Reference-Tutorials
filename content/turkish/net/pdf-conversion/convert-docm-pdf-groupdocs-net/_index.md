@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanarak DOCM'yi PDF'ye Dönüştürmeye Yönelik Kapsamlı Kılavuz"
 "url": "/tr/net/pdf-conversion/convert-docm-pdf-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET için GroupDocs.Conversion Kullanarak DOCM'yi PDF'ye Dönüştürmeye Yönelik Kapsamlı Kılavuz
 
 ## giriiş

@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert EPUB to SVG Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

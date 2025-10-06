@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert MSG Files to PPTX Using GroupDocs.Conversion for .NET
 
 ## Introduction

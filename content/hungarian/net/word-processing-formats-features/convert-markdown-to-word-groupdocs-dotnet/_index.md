@@ -4,8 +4,8 @@
 "title": "Markdown konvertálása Wordbe GroupDocs használatával .NET-ben | Átfogó útmutató"
 "url": "/hu/net/word-processing-formats-features/convert-markdown-to-word-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Markdown konvertálása Wordbe GroupDocs használatával .NET-ben
 
 ## Bevezetés

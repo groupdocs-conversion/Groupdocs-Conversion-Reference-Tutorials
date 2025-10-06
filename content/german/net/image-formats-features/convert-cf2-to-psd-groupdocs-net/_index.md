@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie CF2-Dateien mit GroupDocs.Conversion für .NET in PSD – Eine vollständige Anleitung"
 "url": "/de/net/image-formats-features/convert-cf2-to-psd-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie CF2-Dateien mit GroupDocs.Conversion für .NET in PSD: Eine vollständige Anleitung
 
 ## Einführung

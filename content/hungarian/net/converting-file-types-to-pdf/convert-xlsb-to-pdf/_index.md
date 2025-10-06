@@ -5,8 +5,8 @@
 "title": "XLSB konvertálása PDF-be"
 "url": "/hu/net/converting-file-types-to-pdf/convert-xlsb-to-pdf/"
 "weight": 22
+type: docs
 ---
-
 # XLSB konvertálása PDF-be
 
 ## Bevezetés

@@ -5,8 +5,8 @@
 "title": "Μετατροπή μηνυμάτων ηλεκτρονικού ταχυδρομείου EMLX Apple Mail σε PDF"
 "url": "/el/net/convert-files-to-pdf/convert-emlx-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # Μετατροπή μηνυμάτων ηλεκτρονικού ταχυδρομείου EMLX Apple Mail σε PDF
 
 ## Εισαγωγή

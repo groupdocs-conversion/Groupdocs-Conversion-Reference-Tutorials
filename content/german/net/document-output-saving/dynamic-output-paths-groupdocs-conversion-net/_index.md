@@ -4,8 +4,8 @@
 "title": "Dynamische Ausgabepfade in .NET mit GroupDocs.Conversion – Ein umfassender Leitfaden"
 "url": "/de/net/document-output-saving/dynamic-output-paths-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Dynamische Ausgabepfade in .NET mit GroupDocs.Conversion: Ein umfassender Leitfaden
 
 ## Einführung

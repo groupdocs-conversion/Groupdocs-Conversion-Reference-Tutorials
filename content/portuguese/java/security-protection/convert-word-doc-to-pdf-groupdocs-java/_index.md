@@ -4,8 +4,8 @@
 "title": "Converta documentos do Word protegidos por senha em PDFs usando o GroupDocs.Conversion para Java"
 "url": "/pt/java/security-protection/convert-word-doc-to-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Converta documentos do Word protegidos por senha em PDF com o GroupDocs em Java
 Na era digital atual, o manuseio seguro de documentos é essencial, especialmente quando se trata de informações confidenciais armazenadas em arquivos protegidos por senha. Este guia mostrará como converter esses documentos em formatos PDF universalmente acessíveis, preservando seus recursos de segurança. **GroupDocs.Conversion para Java**.
 

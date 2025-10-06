@@ -5,8 +5,8 @@
 "title": "Chuyển đổi PPT sang PDF"
 "url": "/vi/net/pdf-conversion/convert-ppt-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # Chuyển đổi PPT sang PDF
 
 ## Giới thiệu

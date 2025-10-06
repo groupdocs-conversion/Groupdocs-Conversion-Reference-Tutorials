@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET을 사용하여 TSV를 DOCX로 변환하는 포괄적인 가이드"
 "url": "/ko/net/word-processing-formats-features/convert-tsv-to-docx-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # .NET용 GroupDocs.Conversion을 사용하여 TSV를 DOCX로 변환: 포괄적인 가이드
 
 ## 소개

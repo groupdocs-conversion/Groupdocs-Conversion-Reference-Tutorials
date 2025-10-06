@@ -4,8 +4,8 @@
 "title": "Como converter arquivos LOG em apresentações do PowerPoint usando o GroupDocs.Conversion para .NET"
 "url": "/pt/net/presentation-formats-features/convert-log-to-ppt-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Como converter arquivos LOG em apresentações do PowerPoint usando o GroupDocs.Conversion para .NET
 
 ## Introdução

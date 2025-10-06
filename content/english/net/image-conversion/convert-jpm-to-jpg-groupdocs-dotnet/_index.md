@@ -8,10 +8,8 @@ keywords:
 - convert JPM to JPG
 - GroupDocs.Conversion for .NET
 - file conversion tutorial
-
+type: docs
 ---
-
-
 # How to Convert JPM Files to JPG Using GroupDocs.Conversion for .NET: A Comprehensive Guide
 
 ## Introduction

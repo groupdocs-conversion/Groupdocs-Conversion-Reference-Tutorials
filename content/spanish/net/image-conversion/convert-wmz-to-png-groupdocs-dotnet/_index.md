@@ -4,8 +4,8 @@
 "title": "Convertir WMZ a PNG con GroupDocs.Conversion para .NET&#58; una guía completa"
 "url": "/es/net/image-conversion/convert-wmz-to-png-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Convertir WMZ a PNG con GroupDocs.Conversion para .NET: una guía completa
 
 ## Introducción

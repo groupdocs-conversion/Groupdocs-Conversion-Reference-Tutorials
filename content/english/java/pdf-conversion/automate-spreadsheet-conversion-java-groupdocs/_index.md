@@ -8,10 +8,8 @@ keywords:
 - spreadsheet to PDF conversion Java
 - GroupDocs.Conversion for Java
 - automate spreadsheet conversion
-
+type: docs
 ---
-
-
 # Automate Spreadsheet to PDF Conversion in Java Using GroupDocs.Conversion
 
 ## Introduction

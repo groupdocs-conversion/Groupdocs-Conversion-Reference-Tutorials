@@ -4,8 +4,8 @@
 "title": "Jak převést XLAM do PPT pomocí GroupDocs.Conversion pro .NET – Podrobný návod"
 "url": "/cs/net/presentation-formats-features/convert-xlam-to-ppt-guide-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Převod XLAM do PPT pomocí GroupDocs.Conversion pro .NET: Podrobný návod
 
 ## Zavedení

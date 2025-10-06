@@ -4,8 +4,8 @@
 "title": "So konvertieren Sie EML-Dateien mit GroupDocs.Conversion für .NET in PowerPoint PPT"
 "url": "/de/net/presentation-conversion/convert-eml-ppt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # So konvertieren Sie EML-Dateien mit GroupDocs.Conversion für .NET in PowerPoint PPT
 
 ## Einführung

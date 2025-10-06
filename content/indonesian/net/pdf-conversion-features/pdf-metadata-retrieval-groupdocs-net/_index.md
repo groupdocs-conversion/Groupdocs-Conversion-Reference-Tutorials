@@ -4,8 +4,8 @@
 "title": "Cara Mendapatkan Metadata PDF dengan GroupDocs.Conversion untuk .NET"
 "url": "/id/net/pdf-conversion-features/pdf-metadata-retrieval-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Cara Mendapatkan Metadata PDF dengan GroupDocs.Conversion untuk .NET
 
 Bosan mengekstrak informasi secara manual dari dokumen PDF? Otomatiskan tugas dengan GroupDocs.Conversion for .NET dan dapatkan detail penting seperti kepengarangan, tanggal pembuatan, jumlah halaman, dimensi, dan banyak lagi.

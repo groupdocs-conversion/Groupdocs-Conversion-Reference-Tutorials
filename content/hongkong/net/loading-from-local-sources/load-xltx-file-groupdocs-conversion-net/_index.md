@@ -4,8 +4,8 @@
 "title": "如何使用 GroupDocs.Conversion for .NET 載入 XLTX 檔案－綜合指南"
 "url": "/zh-hant/net/loading-from-local-sources/load-xltx-file-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # 如何使用 GroupDocs.Conversion for .NET 載入 XLTX 檔案：綜合指南
 
 ## 介紹

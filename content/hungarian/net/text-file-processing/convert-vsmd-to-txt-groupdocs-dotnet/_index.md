@@ -4,8 +4,8 @@
 "title": "VSDM konvertálása TXT-vé a GroupDocs.Conversion .NET használatával - Átfogó útmutató"
 "url": "/hu/net/text-file-processing/convert-vsmd-to-txt-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # VSDM konvertálása TXT-vé a GroupDocs.Conversion .NET használatával
 
 ## Bevezetés

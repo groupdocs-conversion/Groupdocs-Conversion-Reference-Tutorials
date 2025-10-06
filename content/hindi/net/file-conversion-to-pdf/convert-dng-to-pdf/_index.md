@@ -5,8 +5,8 @@
 "title": "DNG छवियों को PDF में बदलें"
 "url": "/hi/net/file-conversion-to-pdf/convert-dng-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # DNG छवियों को PDF में बदलें
 
 ## परिचय

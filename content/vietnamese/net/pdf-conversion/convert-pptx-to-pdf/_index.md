@@ -5,8 +5,8 @@
 "title": "Chuyển đổi PPTX sang PDF"
 "url": "/vi/net/pdf-conversion/convert-pptx-to-pdf/"
 "weight": 29
+type: docs
 ---
-
 # Chuyển đổi PPTX sang PDF
 
 ## Giới thiệu

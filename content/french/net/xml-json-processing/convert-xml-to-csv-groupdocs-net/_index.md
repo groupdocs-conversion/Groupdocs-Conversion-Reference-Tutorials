@@ -4,8 +4,8 @@
 "title": "Comment convertir un fichier XML en CSV à l'aide de GroupDocs.Conversion pour .NET ? Guide étape par étape"
 "url": "/fr/net/xml-json-processing/convert-xml-to-csv-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir XML en CSV avec GroupDocs.Conversion pour .NET : guide étape par étape
 
 ## Introduction

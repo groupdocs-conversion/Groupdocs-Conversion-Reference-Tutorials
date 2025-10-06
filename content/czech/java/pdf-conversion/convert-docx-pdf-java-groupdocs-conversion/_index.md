@@ -4,8 +4,8 @@
 "title": "Převod DOCX do PDF v Javě pomocí GroupDocs.Conversion – Podrobný návod"
 "url": "/cs/java/pdf-conversion/convert-docx-pdf-java-groupdocs-conversion/"
 "weight": 1
+type: docs
 ---
-
 # Převod DOCX do PDF v Javě pomocí GroupDocs.Conversion
 
 ## Zavedení

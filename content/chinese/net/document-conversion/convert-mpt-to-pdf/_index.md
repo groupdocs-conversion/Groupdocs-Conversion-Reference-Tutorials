@@ -5,8 +5,8 @@
 "title": "将 MPT 转换为 PDF"
 "url": "/zh/net/document-conversion/convert-mpt-to-pdf/"
 "weight": 24
+type: docs
 ---
-
 # 将 MPT 转换为 PDF
 
 ## 介绍

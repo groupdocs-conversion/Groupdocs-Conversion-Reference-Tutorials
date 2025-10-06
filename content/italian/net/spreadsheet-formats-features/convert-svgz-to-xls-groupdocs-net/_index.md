@@ -4,8 +4,8 @@
 "title": "Convertire SVGZ in XLS utilizzando GroupDocs.Conversion per .NET&#58; una guida completa"
 "url": "/it/net/spreadsheet-formats-features/convert-svgz-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Converti SVGZ in XLS con GroupDocs.Conversion per .NET
 
 ## Introduzione

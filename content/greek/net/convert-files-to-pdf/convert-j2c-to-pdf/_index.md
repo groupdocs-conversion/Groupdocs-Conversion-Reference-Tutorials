@@ -5,8 +5,8 @@
 "title": "Μετατροπή συμπιεσμένων εικόνων J2C JPEG-LS σε PDF"
 "url": "/el/net/convert-files-to-pdf/convert-j2c-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # Μετατροπή συμπιεσμένων εικόνων J2C JPEG-LS σε PDF
 
 ## Εισαγωγή

@@ -3,8 +3,8 @@
 "title": "GroupDocs.Conversion Java 的 CAD 格式转换教程"
 "url": "/zh/java/cad-formats/"
 "weight": 10
+type: docs
 ---
-
 # GroupDocs.Conversion Java 的 CAD 格式转换教程
 
 通过我们面向 Java 开发人员的全面 GroupDocs.Conversion 教程学习如何处理 CAD 图纸。这些实用指南演示了如何将 AutoCAD 文件转换为可查看的格式、保留图层和测量值、处理大型图纸、管理视口和布局，以及将 3D 模型转换为 2D 表示。每个教程都包含针对 CAD 转换场景的详细 Java 代码示例，帮助您构建能够准确处理技术图纸并保留重要工程细节的应用程序。

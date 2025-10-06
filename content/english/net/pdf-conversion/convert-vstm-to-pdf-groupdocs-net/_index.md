@@ -8,10 +8,8 @@ keywords:
 - Convert VSTM to PDF
 - GroupDocs.Conversion for .NET
 - PDF Conversion with GroupDocs
-
+type: docs
 ---
-
-
 # Convert VSTM to PDF Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -8,10 +8,8 @@ keywords:
 - IGS to PPTX conversion
 - GroupDocs.Conversion for .NET
 - 3D design presentation
-
+type: docs
 ---
-
-
 # How to Convert IGS Files to PPTX Using GroupDocs.Conversion for .NET: A Step-by-Step Guide
 
 ## Introduction

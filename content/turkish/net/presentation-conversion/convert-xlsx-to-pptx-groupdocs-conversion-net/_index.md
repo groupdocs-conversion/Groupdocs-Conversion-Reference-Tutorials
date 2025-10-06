@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanılarak XLSX Dosyaları PPTX'e Nasıl Dönüştürülür? Kapsamlı Bir Kılavuz"
 "url": "/tr/net/presentation-conversion/convert-xlsx-to-pptx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanılarak XLSX Dosyaları PPTX'e Nasıl Dönüştürülür
 
 ## giriiş

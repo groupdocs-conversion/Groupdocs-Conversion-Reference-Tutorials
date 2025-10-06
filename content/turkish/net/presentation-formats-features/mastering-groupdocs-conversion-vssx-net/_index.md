@@ -4,8 +4,8 @@
 "title": ".NET'te VSSX Dosyaları için Verimli GroupDocs.Conversion&#58; Tam Bir Kılavuz"
 "url": "/tr/net/presentation-formats-features/mastering-groupdocs-conversion-vssx-net/"
 "weight": 1
+type: docs
 ---
-
 # .NET'te VSSX Dosyaları için Verimli GroupDocs.Conversion: Eksiksiz Bir Kılavuz
 
 ## giriiş

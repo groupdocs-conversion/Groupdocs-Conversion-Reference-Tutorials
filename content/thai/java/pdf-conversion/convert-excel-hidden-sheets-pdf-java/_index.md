@@ -4,8 +4,8 @@
 "title": "วิธีการแปลงไฟล์ Excel ที่มีแผ่นงานที่ซ่อนอยู่เป็น PDF โดยใช้ Java และ GroupDocs.Conversion"
 "url": "/th/java/pdf-conversion/convert-excel-hidden-sheets-pdf-java/"
 "weight": 1
+type: docs
 ---
-
 # วิธีการแปลงไฟล์ Excel ที่มีแผ่นงานที่ซ่อนอยู่เป็น PDF โดยใช้ Java และ GroupDocs.Conversion
 
 ## การแนะนำ

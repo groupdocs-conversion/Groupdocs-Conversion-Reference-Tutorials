@@ -4,8 +4,8 @@
 "title": "MBOX HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával | Lépésről lépésre útmutató"
 "url": "/hu/net/web-markup-formats/mbox-to-html-conversion-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # MBOX HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával | Lépésről lépésre útmutató
 
 ## Bevezetés

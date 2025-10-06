@@ -5,8 +5,8 @@
 "title": "CSV adatfájlok konvertálása PDF-be"
 "url": "/hu/net/file-conversion-to-pdf/convert-csv-to-pdf/"
 "weight": 16
+type: docs
 ---
-
 # CSV adatfájlok konvertálása PDF-be
 
 ## Bevezetés

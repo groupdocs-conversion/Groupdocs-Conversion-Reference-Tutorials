@@ -4,8 +4,8 @@
 "title": "Converteer CSV naar PDF in .NET's geavanceerde opties met GroupDocs.Conversion"
 "url": "/nl/net/pdf-conversion-features/convert-csv-to-pdf-groupdocs-advanced-options/"
 "weight": 1
+type: docs
 ---
-
 # CSV naar PDF converteren in .NET: geavanceerde opties met GroupDocs.Conversion
 
 ## Invoering

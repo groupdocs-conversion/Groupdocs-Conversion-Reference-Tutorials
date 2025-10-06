@@ -4,8 +4,8 @@
 "title": "Chuyển đổi XML sang DOCX bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
 "url": "/vi/net/xml-json-processing/convert-xml-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi XML sang DOCX bằng GroupDocs.Conversion cho .NET
 
 Trong bối cảnh kỹ thuật số ngày nay, việc chuyển đổi định dạng tài liệu hiệu quả là rất quan trọng. Cho dù bạn đang di chuyển dữ liệu hay tích hợp hệ thống, việc chuyển đổi tệp XML thành tài liệu Word dễ truy cập hơn (DOCX) có thể hợp lý hóa đáng kể quy trình làm việc của bạn. Hướng dẫn toàn diện này sẽ hướng dẫn bạn sử dụng GroupDocs.Conversion cho .NET để thực hiện chuyển đổi này một cách liền mạch.

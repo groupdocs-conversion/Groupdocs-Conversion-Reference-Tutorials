@@ -4,8 +4,8 @@
 "title": "Convertir JPEG 2000 en PNG à l'aide de GroupDocs.Conversion pour .NET &#58; guide étape par étape"
 "url": "/fr/net/image-conversion/convert-j2k-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir JPEG 2000 en PNG avec GroupDocs.Conversion pour .NET : guide étape par étape
 
 ## Introduction

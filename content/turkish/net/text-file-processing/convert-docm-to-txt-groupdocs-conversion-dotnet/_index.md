@@ -4,8 +4,8 @@
 "title": ".NET için GroupDocs.Conversion Kullanarak DOCM'yi TXT'ye Dönüştürün | Basitleştirilmiş Metin Dosyası İşleme"
 "url": "/tr/net/text-file-processing/convert-docm-to-txt-groupdocs-conversion-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # Microsoft Word Makro Etkinleştirilmiş Belgeyi (DOCM) .NET için GroupDocs.Conversion Kullanarak Düz Metne (.txt) Nasıl Dönüştürebilirsiniz
 
 ## giriiş

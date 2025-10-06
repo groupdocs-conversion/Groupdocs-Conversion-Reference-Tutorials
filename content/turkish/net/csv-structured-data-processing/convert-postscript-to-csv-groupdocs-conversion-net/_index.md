@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion for .NET Kullanarak PostScript'i CSV'ye Dönüştürme&#58; Tam Bir Kılavuz"
 "url": "/tr/net/csv-structured-data-processing/convert-postscript-to-csv-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion for .NET Kullanarak PostScript'i CSV'ye Dönüştürme: Eksiksiz Bir Kılavuz
 
 ## giriiş

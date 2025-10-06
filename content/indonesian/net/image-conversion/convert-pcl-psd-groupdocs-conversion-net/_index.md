@@ -4,8 +4,8 @@
 "title": "Konversi PCL ke PSD Menggunakan GroupDocs.Conversion .NET&#58; Panduan Lengkap untuk Pengembang"
 "url": "/id/net/image-conversion/convert-pcl-psd-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi PCL ke PSD Menggunakan GroupDocs.Conversion .NET: Panduan Lengkap untuk Pengembang
 
 ## Perkenalan

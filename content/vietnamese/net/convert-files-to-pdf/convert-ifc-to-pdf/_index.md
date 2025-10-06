@@ -5,8 +5,8 @@
 "title": "Chuyển đổi tệp mô hình thông tin tòa nhà IFC sang PDF"
 "url": "/vi/net/convert-files-to-pdf/convert-ifc-to-pdf/"
 "weight": 25
+type: docs
 ---
-
 # Chuyển đổi tệp mô hình thông tin tòa nhà IFC sang PDF
 
 ## Giới thiệu

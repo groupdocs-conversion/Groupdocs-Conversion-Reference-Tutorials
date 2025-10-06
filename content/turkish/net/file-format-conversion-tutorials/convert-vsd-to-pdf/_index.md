@@ -5,8 +5,8 @@
 "title": "VSD'yi PDF'ye dönüştür"
 "url": "/tr/net/file-format-conversion-tutorials/convert-vsd-to-pdf/"
 "weight": 27
+type: docs
 ---
-
 # VSD'yi PDF'ye dönüştür
 
 ## giriiş

@@ -4,8 +4,8 @@
 "title": "Chuyển đổi tài liệu Word được bảo vệ bằng mật khẩu sang PDF bằng GroupDocs.Conversion cho Java"
 "url": "/vi/java/security-protection/convert-word-doc-to-pdf-groupdocs-java/"
 "weight": 1
+type: docs
 ---
-
 # Chuyển đổi tài liệu Word được bảo vệ bằng mật khẩu sang PDF bằng GroupDocs trong Java
 Trong thời đại kỹ thuật số ngày nay, việc xử lý tài liệu an toàn là điều cần thiết, đặc biệt là khi xử lý thông tin nhạy cảm được lưu trữ trong các tệp được bảo vệ bằng mật khẩu. Hướng dẫn này sẽ chỉ cho bạn cách chuyển đổi các tài liệu đó thành các định dạng PDF có thể truy cập phổ biến trong khi vẫn bảo toàn các tính năng bảo mật của chúng bằng cách sử dụng **GroupDocs.Conversion cho Java**.
 

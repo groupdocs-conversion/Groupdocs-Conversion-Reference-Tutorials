@@ -5,8 +5,8 @@
 "title": "將 EMLX Apple Mail 電子郵件轉換為 PDF"
 "url": "/zh-hant/net/convert-files-to-pdf/convert-emlx-to-pdf/"
 "weight": 15
+type: docs
 ---
-
 # 將 EMLX Apple Mail 電子郵件轉換為 PDF
 
 ## 介紹

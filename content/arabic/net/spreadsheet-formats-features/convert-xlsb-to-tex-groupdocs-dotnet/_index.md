@@ -4,8 +4,8 @@
 "title": "تحويل XLSB إلى TEX - دليل خطوة بخطوة باستخدام GroupDocs.Conversion لـ .NET"
 "url": "/ar/net/spreadsheet-formats-features/convert-xlsb-to-tex-groupdocs-dotnet/"
 "weight": 1
+type: docs
 ---
-
 # تحويل XLSB إلى TEX باستخدام GroupDocs.Conversion لـ .NET
 
 ## مقدمة

@@ -5,8 +5,8 @@
 "title": "Chuyển đổi hình ảnh GIF sang PDF"
 "url": "/vi/net/convert-files-to-pdf/convert-gif-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # Chuyển đổi hình ảnh GIF sang PDF
 
 ## Giới thiệu

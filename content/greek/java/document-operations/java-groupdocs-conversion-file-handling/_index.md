@@ -4,8 +4,8 @@
 "title": "Μετατροπή κύριων αρχείων σε Java&#58; Ένας πλήρης οδηγός για τη χρήση του GroupDocs.Conversion"
 "url": "/el/java/document-operations/java-groupdocs-conversion-file-handling/"
 "weight": 1
+type: docs
 ---
-
 # Κατανόηση της μετατροπής αρχείων σε Java: Ένας πλήρης οδηγός για τη χρήση του GroupDocs.Conversion
 
 ## Εισαγωγή

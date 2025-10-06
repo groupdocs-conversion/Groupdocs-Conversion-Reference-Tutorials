@@ -8,10 +8,8 @@ keywords:
 - HTML to PSD conversion
 - GroupDocs.Conversion .NET library
 - web design editing
-
+type: docs
 ---
-
-
 # Efficient HTML to PSD Conversion Using GroupDocs.Conversion for .NET
 
 ## Introduction

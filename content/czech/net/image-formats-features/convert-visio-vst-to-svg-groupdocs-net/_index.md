@@ -4,8 +4,8 @@
 "title": "Jak převést šablony výkresů Visia (.vst) do formátu SVG pomocí nástroje GroupDocs.Conversion pro .NET"
 "url": "/cs/net/image-formats-features/convert-visio-vst-to-svg-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # Jak převést šablony výkresů Visia (.vst) do formátu SVG pomocí nástroje GroupDocs.Conversion pro .NET
 
 ## Zavedení

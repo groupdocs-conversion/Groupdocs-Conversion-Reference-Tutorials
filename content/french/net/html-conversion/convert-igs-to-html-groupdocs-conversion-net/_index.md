@@ -4,8 +4,8 @@
 "title": "Convertir IGS en HTML à l'aide de GroupDocs.Conversion pour .NET &#58; un guide étape par étape"
 "url": "/fr/net/html-conversion/convert-igs-to-html-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Comment convertir des fichiers IGS en HTML avec GroupDocs.Conversion pour .NET
 
 ## Introduction

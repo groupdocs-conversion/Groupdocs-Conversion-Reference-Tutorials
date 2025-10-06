@@ -3,8 +3,8 @@
 "title": "Tutoriales de seguridad de documentos y protección de conversión para GroupDocs.Conversion Java"
 "url": "/es/java/security-protection/"
 "weight": 19
+type: docs
 ---
-
 # Tutoriales de seguridad de documentos y protección de conversión para GroupDocs.Conversion Java
 
 Nuestros tutoriales centrados en la seguridad ofrecen una guía completa para trabajar con documentos protegidos mediante GroupDocs.Conversion en Java. Estas guías prácticas muestran cómo convertir archivos protegidos por contraseña, aplicar seguridad a los documentos de salida, gestionar firmas digitales, implementar marcas de agua durante la conversión y trabajar con contenido cifrado. Cada tutorial incluye ejemplos detallados de código Java para escenarios de procesamiento seguro de documentos, lo que le ayudará a crear aplicaciones que mantengan la confidencialidad e integridad de los documentos durante todo el flujo de trabajo de conversión.

@@ -4,8 +4,8 @@
 "title": "أتمتة تحويل JPEG إلى PPTX في .NET باستخدام GroupDocs.Conversion - دليل شامل"
 "url": "/ar/net/presentation-conversion/automate-jpeg-to-pptx-conversion-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # أتمتة تحويل JPEG إلى PPTX في .NET باستخدام GroupDocs.Conversion
 
 هل ترغب في تبسيط عملية تحويل صور JPEG إلى عروض PowerPoint التقديمية؟ تُعدّ أتمتة هذه المهمة أمرًا بالغ الأهمية للشركات التي تسعى إلى تحسين سير عملها. سواءً كان الأمر يتعلق بإنشاء عروض تقديمية جذابة بصريًا أو تبسيط مشاركة البيانات، فإن تحويل ملفات JPEG إلى PPTX متطلب شائع يتطلب حلاً موثوقًا. أدخل **GroupDocs.Conversion لـ .NET**- مكتبة قوية مصممة لتبسيط حياتك.

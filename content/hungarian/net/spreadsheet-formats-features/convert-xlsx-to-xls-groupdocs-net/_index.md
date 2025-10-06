@@ -4,8 +4,8 @@
 "title": "XLSX fájlok XLS fájlokká konvertálása a GroupDocs.Conversion for .NET segítségével – Átfogó útmutató"
 "url": "/hu/net/spreadsheet-formats-features/convert-xlsx-to-xls-groupdocs-net/"
 "weight": 1
+type: docs
 ---
-
 # XLSX-fájlok konvertálása XLS-fájlokká a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

@@ -4,8 +4,8 @@
 "title": ".NET सेटअप और कार्यान्वयन के लिए GroupDocs.Conversion के लिए व्यापक मार्गदर्शिका"
 "url": "/hi/net/getting-started-licensing/groupdocs-conversion-net-setup-guide/"
 "weight": 1
+type: docs
 ---
-
 # .NET के लिए GroupDocs.Conversion के लिए व्यापक मार्गदर्शिका: सेटअप और कार्यान्वयन
 
 ## परिचय

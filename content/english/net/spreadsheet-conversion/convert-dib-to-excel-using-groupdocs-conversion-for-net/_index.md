@@ -8,10 +8,8 @@ keywords:
 - convert DIB to Excel
 - GroupDocs.Conversion for .NET
 - spreadsheet conversion
-
+type: docs
 ---
-
-
 # Convert DIB to Excel Using GroupDocs.Conversion for .NET
 
 ## Introduction

@@ -4,8 +4,8 @@
 "title": "GroupDocs.Conversion .NET Kullanarak Verimli TIFF'den TEX'e Dönüştürme"
 "url": "/tr/net/text-markup-conversion/tiff-to-tex-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # GroupDocs.Conversion .NET Kullanarak Verimli TIFF'den TEX'e Dönüştürme
 
 ## giriiş

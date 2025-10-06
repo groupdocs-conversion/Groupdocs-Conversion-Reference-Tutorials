@@ -4,8 +4,8 @@
 "title": "JPC fájlok konvertálása HTML-be C# és GroupDocs.Conversion for .NET használatával"
 "url": "/hu/net/web-markup-formats/convert-jpc-to-html-csharp-groupdocs/"
 "weight": 1
+type: docs
 ---
-
 # JPC fájlok HTML-lé konvertálása a GroupDocs.Conversion for .NET használatával
 
 ## Bevezetés

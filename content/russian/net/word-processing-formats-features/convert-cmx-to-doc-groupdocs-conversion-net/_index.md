@@ -4,8 +4,8 @@
 "title": "Конвертируйте CMX в DOC с помощью GroupDocs.Conversion для .NET | Пошаговое руководство"
 "url": "/ru/net/word-processing-formats-features/convert-cmx-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте CMX в DOC с помощью GroupDocs.Conversion для .NET
 ## Введение
 Хотите преобразовать файлы Corel Metafile Exchange Image (.cmx) в документ Microsoft Word (.doc)? Это пошаговое руководство покажет, как легко этого добиться с помощью мощной библиотеки GroupDocs.Conversion for .NET. Независимо от того, имеете ли вы дело с устаревшими рабочими процессами документов или вам нужно интегрировать различные форматы файлов, овладение этим преобразованием может стать бесценным навыком.

@@ -4,8 +4,8 @@
 "title": "Konversi DIB ke PNG Menggunakan GroupDocs.Conversion untuk .NET&#58; Panduan Lengkap"
 "url": "/id/net/image-formats-features/convert-dib-to-png-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konversi DIB ke PNG Menggunakan GroupDocs.Conversion untuk .NET
 
 ## Perkenalan

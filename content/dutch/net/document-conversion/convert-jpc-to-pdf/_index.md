@@ -5,8 +5,8 @@
 "title": "Converteer JPC naar PDF"
 "url": "/nl/net/document-conversion/convert-jpc-to-pdf/"
 "weight": 11
+type: docs
 ---
-
 # Converteer JPC naar PDF
 
 ## Invoering

@@ -5,8 +5,8 @@
 "title": "ODP'yi PDF'ye dönüştür"
 "url": "/tr/net/document-conversion/convert-odp-to-pdf/"
 "weight": 28
+type: docs
 ---
-
 # ODP'yi PDF'ye dönüştür
 
 ## giriiş

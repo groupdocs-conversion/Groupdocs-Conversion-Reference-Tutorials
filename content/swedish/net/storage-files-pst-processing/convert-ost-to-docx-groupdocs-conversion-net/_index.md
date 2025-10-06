@@ -4,8 +4,8 @@
 "title": "Konvertera OST till DOCX med GroupDocs.Conversion för .NET – en steg-för-steg-guide"
 "url": "/sv/net/storage-files-pst-processing/convert-ost-to-docx-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Konvertera OST-filer till DOCX med GroupDocs.Conversion för .NET
 
 ## Introduktion

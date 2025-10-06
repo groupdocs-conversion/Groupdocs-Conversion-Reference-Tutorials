@@ -4,8 +4,8 @@
 "title": "Конвертируйте EML в DOC с помощью GroupDocs.Conversion для .NET. Подробное руководство"
 "url": "/ru/net/word-processing-formats-features/convert-eml-to-doc-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертация EML в DOC с помощью GroupDocs.Conversion для .NET: подробное руководство
 
 ## Введение

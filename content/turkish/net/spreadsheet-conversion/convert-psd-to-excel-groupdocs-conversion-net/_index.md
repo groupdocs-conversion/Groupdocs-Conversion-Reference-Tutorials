@@ -4,8 +4,8 @@
 "title": "PSD'yi GroupDocs.Conversion for .NET Kullanarak Excel'e Dönüştürme Kapsamlı Bir Kılavuz"
 "url": "/tr/net/spreadsheet-conversion/convert-psd-to-excel-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # PSD Dosyalarını GroupDocs.Conversion for .NET Kullanarak Excel Sayfalarına Dönüştürme
 
 ## giriiş

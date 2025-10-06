@@ -4,8 +4,8 @@
 "title": "Cách thiết lập giấy phép GroupDocs.Conversion trong Java bằng cách sử dụng InputStream"
 "url": "/vi/java/getting-started/groupdocs-conversion-license-java-input-stream/"
 "weight": 1
+type: docs
 ---
-
 # Cách triển khai thiết lập giấy phép GroupDocs.Conversion thông qua InputStream trong Java
 ## Giới thiệu
 Bạn có muốn nâng cao ứng dụng Java của mình bằng các tính năng mạnh mẽ của GroupDocs.Conversion không? Thiết lập giấy phép đúng cách là một bước quan trọng và thực hiện việc này bằng cách sử dụng luồng đầu vào có thể hợp lý hóa quy trình này. Hướng dẫn này sẽ hướng dẫn bạn cách thiết lập giấy phép GroupDocs bằng luồng đầu vào trong Java, đảm bảo rằng quy trình chuyển đổi của bạn chạy trơn tru mà không có bất kỳ vấn đề cấp phép nào.

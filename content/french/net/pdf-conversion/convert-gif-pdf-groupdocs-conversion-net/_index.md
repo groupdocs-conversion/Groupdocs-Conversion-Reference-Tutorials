@@ -4,8 +4,8 @@
 "title": "Convertir un GIF en PDF à l'aide de GroupDocs.Conversion .NET &#58; un guide étape par étape"
 "url": "/fr/net/pdf-conversion/convert-gif-pdf-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Convertir un GIF en PDF avec GroupDocs.Conversion .NET : guide étape par étape
 Dans le monde numérique d'aujourd'hui, convertir des fichiers multimédias en formats universellement accessibles comme le PDF est essentiel. Que vous soyez développeur optimisant vos flux de travail ou archiviste de documents, la conversion d'images GIF en PDF simplifie le partage et la visualisation. Ce guide vous explique comment utiliser GroupDocs.Conversion pour .NET pour convertir facilement des GIF en PDF.
 

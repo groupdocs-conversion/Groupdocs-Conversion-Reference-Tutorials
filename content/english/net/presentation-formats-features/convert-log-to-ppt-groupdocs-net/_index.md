@@ -8,10 +8,8 @@ keywords:
 - convert log file to ppt
 - groupdocs conversion net
 - log file to presentation
-
+type: docs
 ---
-
-
 # How to Convert LOG Files to PowerPoint Presentations Using GroupDocs.Conversion for .NET
 
 ## Introduction

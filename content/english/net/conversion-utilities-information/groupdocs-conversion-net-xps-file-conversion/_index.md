@@ -8,10 +8,8 @@ keywords:
 - GroupDocs.Conversion
 - Net
 - Document Processing
-
+type: docs
 ---
-
-
 # Convert XPS to PDF and Other Formats Using GroupDocs.Conversion .NET
 
 ## Introduction

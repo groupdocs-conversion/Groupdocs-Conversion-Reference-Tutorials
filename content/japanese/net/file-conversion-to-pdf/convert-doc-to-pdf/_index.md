@@ -5,8 +5,8 @@
 "title": "DOC Word文書をPDFに変換する"
 "url": "/ja/net/file-conversion-to-pdf/convert-doc-to-pdf/"
 "weight": 23
+type: docs
 ---
-
 # DOC Word文書をPDFに変換する
 
 ## 導入

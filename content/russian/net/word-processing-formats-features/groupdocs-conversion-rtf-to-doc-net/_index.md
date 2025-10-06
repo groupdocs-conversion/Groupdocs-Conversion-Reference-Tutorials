@@ -4,8 +4,8 @@
 "title": "Конвертируйте RTF в DOC с помощью GroupDocs.Conversion для .NET. Пошаговое руководство"
 "url": "/ru/net/word-processing-formats-features/groupdocs-conversion-rtf-to-doc-net/"
 "weight": 1
+type: docs
 ---
-
 # Конвертируйте RTF в DOC с помощью GroupDocs.Conversion для .NET
 
 ## Введение

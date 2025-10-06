@@ -4,8 +4,8 @@
 "title": "Uitgebreide handleiding voor het converteren van XLT naar PNG met GroupDocs.Conversion voor .NET"
 "url": "/nl/net/image-conversion/xlt-to-png-conversion-groupdocs-dotnet-guide/"
 "weight": 1
+type: docs
 ---
-
 # Uitgebreide handleiding voor het converteren van XLT naar PNG met GroupDocs.Conversion voor .NET
 
 ## Invoering

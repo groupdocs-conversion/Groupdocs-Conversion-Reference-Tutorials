@@ -8,10 +8,8 @@ keywords:
 - convert VSDX to DOCX in .NET
 - GroupDocs.Conversion library .NET
 - file conversion process .NET
-
+type: docs
 ---
-
-
 # Mastering File Conversions in .NET: Convert VSDX Files to DOCX Using GroupDocs.Conversion
 
 ## Introduction

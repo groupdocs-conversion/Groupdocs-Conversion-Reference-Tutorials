@@ -8,10 +8,8 @@ keywords:
 - SVG to TEX conversion
 - GroupDocs.Conversion .NET
 - file format conversion
-
+type: docs
 ---
-
-
 # How to Convert SVG Files to TEX Format Using GroupDocs.Conversion .NET
 
 ## Introduction

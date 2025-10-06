@@ -4,8 +4,8 @@
 "title": "Πώς να μετατρέψετε ένα πρότυπο PowerPoint (.potx) σε κείμενο χρησιμοποιώντας το GroupDocs.Conversion για .NET"
 "url": "/el/net/text-file-processing/convert-potx-to-text-groupdocs-conversion-net/"
 "weight": 1
+type: docs
 ---
-
 # Πώς να φορτώσετε και να μετατρέψετε ένα αρχείο προτύπου Open XML του Microsoft PowerPoint (.potx) σε κείμενο χρησιμοποιώντας το GroupDocs.Conversion για .NET
 
 ## Εισαγωγή

@@ -5,8 +5,8 @@
 "title": "MHT konvertálása PDF-be"
 "url": "/hu/net/document-conversion/convert-mht-to-pdf/"
 "weight": 21
+type: docs
 ---
-
 # MHT konvertálása PDF-be
 
 ## Bevezetés

@@ -5,8 +5,8 @@
 "title": "Converteer EMF Windows Metafiles naar PDF"
 "url": "/nl/net/convert-files-to-pdf/convert-emf-to-pdf/"
 "weight": 13
+type: docs
 ---
-
 # Converteer EMF Windows Metafiles naar PDF
 
 ## Invoering
