@@ -1,39 +1,43 @@
 ---
-"date": "2025-04-28"
-"description": "GroupDocs.Conversion for Java를 사용하여 Word-PDF 변환 중에 추적된 변경 내용을 자동으로 숨기는 방법을 알아보세요. 효율적으로 문서 준비를 간소화하세요."
-"title": "Java용 GroupDocs.Conversion을 사용하여 Word-PDF 변환 시 추적된 변경 사항 숨기기 자동화"
-"url": "/ko/java/conversion-options/automate-hide-tracked-changes-word-pdf-conversion-groupdocs-java/"
-"weight": 1
+date: '2025-12-19'
+description: GroupDocs.Conversion for Java를 사용하여 Word 문서를 PDF로 변환할 때 추적된 변경 사항을 숨기는
+  옵션 사용 방법을 배우세요. 배치 변환을 간소화하고 깔끔한 PDF를 보장합니다.
+keywords:
+- automate hiding tracked changes
+- Word-to-PDF conversion
+- GroupDocs.Conversion for Java
+title: Word‑PDF에서 추적된 변경 사항을 숨기기 위한 옵션 사용 방법
 type: docs
+url: /ko/java/conversion-options/automate-hide-tracked-changes-word-pdf-conversion-groupdocs-java/
+weight: 1
 ---
-# Java용 GroupDocs.Conversion을 사용하여 Word-PDF 변환 시 추적된 변경 사항 숨기기 자동화
 
-## 소개
+# 옵션을 사용하여 GroupDocs.Conversion for Java를 통한 Word‑PDF 변환 시 추적된 변경 사항 숨기기
 
-추적된 변경 내용을 수동으로 숨기면서 Word 문서를 PDF로 변환하는 것은 특히 여러 문서를 정기적으로 다루는 경우 번거로울 수 있습니다. 이 튜토리얼에서는 다음을 사용하여 이 작업을 효율적으로 자동화하는 방법을 알려드립니다. **Java용 GroupDocs.Conversion**이 가이드를 마치면 추적된 변경 내용을 자동으로 숨기면서 Word 문서를 PDF로 변환하는 원활한 방법을 익힐 수 있습니다.
+Word 문서를 PDF로 변환하면서 추적된 변경 사항을 수동으로 숨기는 작업은 특히 여러 파일을 한 번에 **convert word to pdf** 해야 할 때 번거롭습니다. 이 튜토리얼에서는 GroupDocs.Conversion for Java를 사용하여 변환 과정에서 추적된 변경 사항을 자동으로 숨기는 **how to use options** 방법을 배웁니다. 최종적으로 남은 편집 표시 없이 깔끔하고 프로덕션에 바로 사용할 수 있는 PDF를 얻을 수 있습니다.
 
-### 배울 내용:
-- 사용자 환경에서 Java용 GroupDocs.Conversion을 설정합니다.
-- Word에서 PDF로 변환하는 동안 추적된 변경 내용을 숨기는 단계입니다.
-- 실제적 응용 및 통합 가능성.
-- 대용량 파일을 처리하기 위한 성능 최적화 팁.
+## 빠른 답변
+- **What does “hide tracked changes” do?** 최종 PDF에서 수정 표시를 자동으로 제거합니다.  
+- **Which library supports this?** GroupDocs.Conversion for Java는 전용 로드‑option을 제공합니다.  
+- **Can I batch convert docx pdf files?** 예 – 옵션을 루프와 결합하여 여러 문서를 처리할 수 있습니다.  
+- **What Java version is required?** JDK 8 이상.  
+- **Do I need a license?** 무료 체험으로 평가가 가능하며, 프로덕션 사용을 위해서는 영구 라이선스가 필요합니다.
 
-이 강력한 라이브러리를 사용하는 데 필요한 전제 조건부터 살펴보겠습니다!
+## 이 문맥에서 “how to use options”란 무엇인가요?
+옵션을 사용한다는 것은 실제 변환이 실행되기 전에 변환 엔진(로드 옵션, 변환 옵션 등)을 설정하는 것을 의미합니다. 이를 통해 추적된 변경 사항 숨기기, 페이지 크기 설정, 이미지 품질 정의와 같은 세밀한 제어가 가능합니다.
 
-## 필수 조건
+## 변환 중에 추적된 변경 사항을 숨겨야 하는 이유는?
+- **Professional output** – 클라이언트는 눈에 보이는 편집 내용이 없는 깔끔한 PDF를 받게 됩니다.  
+- **Legal compliance** – 잠재적으로 민감한 수정 데이터를 제거합니다.  
+- **Time saver** – Word에서 추적을 끄는 수동 단계를 없애줍니다.
 
-튜토리얼을 시작하기 전에 필요한 모든 것이 있는지 확인하세요.
-- **자바 개발 키트(JDK)**: JDK 8 이상이 설치되어 있습니다.
-- **메이븐**: 종속성을 관리하고 프로젝트를 효율적으로 빌드합니다.
-- Java 프로그래밍에 대한 기본 지식.
+## 사전 요구 사항
+- **Java Development Kit (JDK)** 8 이상.  
+- **Maven** – 의존성 관리를 위해 사용합니다.  
+- 기본 Java 코딩 능력.
 
-이러한 전제 조건을 충족하면 Java용 GroupDocs.Conversion을 설정하여 손쉽게 문서 변환을 시작해 보겠습니다!
-
-## Java용 GroupDocs.Conversion 설정
-
-Java용 GroupDocs.Conversion을 사용하려면 Maven에 필요한 종속성을 포함하도록 설정하세요. 방법은 다음과 같습니다.
-
-**Maven 구성:**
+## GroupDocs.Conversion for Java 설정
+먼저, GroupDocs 저장소와 변환 의존성을 Maven `pom.xml`에 추가합니다.
 
 ```xml
 <repositories>
@@ -52,119 +56,112 @@ Java용 GroupDocs.Conversion을 사용하려면 Maven에 필요한 종속성을 
 </dependencies>
 ```
 
-### 라이센스 취득
+### 라이선스 획득
+- **Free Trial** – 라이브러리를 [GroupDocs Releases](https://releases.groupdocs.com/conversion/java/)에서 다운로드합니다.  
+- **Temporary License** – [GroupDocs Temporary License](https://purchase.groupdocs.com/temporary-license/)에서 임시 키를 요청합니다.  
+- **Purchase** – [GroupDocs Purchase Page](https://purchase.groupdocs.com/buy)에서 전체 라이선스를 구매합니다.
 
-GroupDocs는 무료 평가판, 임시 라이선스 및 구매 옵션을 제공합니다.
+## 옵션을 사용하여 추적된 변경 사항 숨기기
+아래는 단계별 구현 예시입니다. 각 코드 블록은 원본 그대로 유지됩니다.
 
-1. **무료 체험**: 라이브러리를 다운로드하세요 [GroupDocs 릴리스](https://releases.groupdocs.com/conversion/java/) 그 기능을 시도해 보세요.
-2. **임시 면허**: 전체 액세스를 위한 임시 라이센스를 요청하세요. [GroupDocs 임시 라이센스](https://purchase.groupdocs.com/temporary-license/).
-3. **구입**: 장기 사용을 위해서는 라이선스를 구매하세요. [GroupDocs 구매 페이지](https://purchase.groupdocs.com/buy).
-
-GroupDocs.Conversion으로 환경을 설정한 후 주요 기능을 구현해 보겠습니다.
-
-## 구현 가이드
-
-### Word-PDF 변환 시 추적된 변경 내용 숨기기
-
-이 기능을 사용하면 최종 PDF에 변경 사항이 추적되지 않도록 유지하면서 문서를 변환할 수 있습니다. 구현 방법은 다음과 같습니다.
-
-#### 1단계: 로드 옵션 설정
-먼저, Word 프로세싱 문서에 맞게 로드 옵션을 구성합니다.
+### 단계 1: 로드 옵션 설정
+`WordProcessingLoadOptions`를 생성하고 hide‑tracked‑changes 플래그를 활성화합니다.
 
 ```java
 import com.groupdocs.conversion.Converter;
 import com.groupdocs.conversion.options.convert.PdfConvertOptions;
 import com.groupdocs.conversion.options.load.WordProcessingLoadOptions;
 
-// 추적된 변경 사항을 숨기기 위한 로드 옵션 만들기
+// Create load options to hide tracked changes
 WordProcessingLoadOptions loadOptions = new WordProcessingLoadOptions();
-loadOptions.setHideWordTrackedChanges(true); // 변환 중 추적된 변경 사항 숨기기
+loadOptions.setHideWordTrackedChanges(true); // Hide tracked changes during conversion
 ```
 
-#### 2단계: 로드 옵션으로 변환기 초기화
+### 단계 2: 로드 옵션으로 Converter 초기화
+로드 옵션을 `Converter` 생성자에 전달합니다.
 
 ```java
 String inputFile = "YOUR_DOCUMENT_DIRECTORY/SAMPLE_DOCX_WITH_TRACKED_CHANGES";
 String outputFile = "YOUR_OUTPUT_DIRECTORY/ConvertWordProcessingByHiddingTrackedChanges.pdf";
 
-// 입력 파일과 로드 옵션을 사용하여 Converter 객체를 만듭니다.
+// Create a Converter object using the input file and load options
 Converter converter = new Converter(inputFile, () -> loadOptions);
 ```
 
-#### 3단계: PDF 변환 옵션 구성
+### 단계 3: PDF 변환 옵션 구성
+여기서 PDF 출력 옵션을 사용자 정의할 수 있으며, 예제는 기본 설정을 사용합니다.
 
 ```java
-PdfConvertOptions pdfOptions = new PdfConvertOptions(); // 필요에 따라 옵션을 사용자 정의하세요
-converter.convert(outputFile, pdfOptions); // 변환을 수행하세요
+PdfConvertOptions pdfOptions = new PdfConvertOptions(); // Customize options as needed
+converter.convert(outputFile, pdfOptions); // Perform the conversion
 ```
 
-### 사용자 정의 로드 옵션을 사용하여 문서 로드
+## 사용자 정의 로드 옵션으로 문서 로드 (대체 접근법)
+여러 파일에 동일한 옵션을 재사용하려면 전용 Converter 인스턴스를 생성합니다.
 
-이 기능은 사용자 지정 구성을 사용하여 문서를 로드하는 방법을 보여줍니다. 설정 방법은 다음과 같습니다.
-
-#### 1단계: 부하 옵션 정의
-
+### 단계 1: 로드 옵션 정의
 ```java
 WordProcessingLoadOptions wordLoadOptions = new WordProcessingLoadOptions();
-wordLoadOptions.setHideWordTrackedChanges(true); // 특정 옵션 설정의 예
+wordLoadOptions.setHideWordTrackedChanges(true); // Example of setting a specific option
 ```
 
-#### 2단계: 사용자 정의 로드 옵션으로 변환기 초기화
-
+### 단계 2: 사용자 정의 로드 옵션으로 Converter 초기화
 ```java
 Converter converterWithOptions = new Converter(inputFile, () -> wordLoadOptions);
-// 이제 `converterWithOptions` 객체를 사용하여 변환을 수행할 수 있습니다.
+// Conversion can now be performed using the `converterWithOptions` object.
 ```
 
-## 실제 응용 프로그램
-
-Word에서 PDF로 변환할 때 추적된 변경 사항을 숨기는 실제 응용 프로그램은 다음과 같습니다.
-
-1. **법률 문서 관리**: 고객과 공유하기 전에 법률 초안을 자동으로 깔끔한 PDF로 변환합니다.
-2. **학술 출판**: 배포나 제출 전에 편집 내용을 제거하여 원고를 준비합니다.
-3. **사업 보고**: 보고서 생성을 간소화하여 최종 버전만 배포합니다.
+## 실용적인 적용 사례
+1. **Legal Document Management** – 클라이언트 검토를 위해 자동으로 깔끔한 PDF를 생성합니다.  
+2. **Academic Publishing** – 저널 제출 전 편집 표시를 제거합니다.  
+3. **Business Reporting** – 최종 보고서에 남은 수정 흔적이 없도록 합니다.
 
 ## 성능 고려 사항
+- **Memory Management** – 스트림을 즉시 닫고 가능한 경우 `Converter` 인스턴스를 재사용합니다.  
+- **Streaming API** – 매우 큰 `.docx` 파일의 경우 스트리밍을 사용해 RAM 사용량을 낮춥니다.  
+- **Batch Processing** – 파일 목록을 순회하면서 동일한 `loadOptions`를 재사용해 **batch convert docx pdf** 를 효율적으로 수행합니다.
 
-GroupDocs.Conversion을 사용할 때 최적의 성능을 보장하려면:
-- Java 애플리케이션에서 리소스를 적절히 관리하여 메모리 사용량을 최적화하세요.
-- 스트리밍 API를 사용하여 대용량 파일을 효율적으로 처리하세요.
-- 일괄 처리를 활용하여 여러 문서를 동시에 처리합니다.
+## 일반적인 문제 및 해결 방법
+- **Tracked changes still appear** – `Converter`를 생성하기 전에 `setHideWordTrackedChanges(true)`가 호출되었는지 확인합니다.  
+- **Conversion fails on large files** – JVM 힙 크기를 늘리거나 스트리밍 모드로 파일을 처리합니다.  
+- **License errors** – 라이선스 파일이 올바르게 배치되었는지, 체험 기간이 만료되지 않았는지 확인합니다.
+
+## 자주 묻는 질문
+
+**Q: DOCX 이외의 문서를 GroupDocs.Conversion으로 변환할 수 있나요?**  
+A: 예, 라이브러리는 PPTX, XLSX, PDF 및 기타 많은 형식을 지원합니다.
+
+**Q: GroupDocs.Conversion과 호환되는 Java 버전은 무엇인가요?**  
+A: JDK 8 이상이 필요합니다.
+
+**Q: 변환 오류를 어떻게 해결하나요?**  
+A: 예외 스택 트레이스를 검토하고, 입력 파일이 손상되지 않았는지 확인하며, 라이선스가 유효한지 확인합니다.
+
+**Q: 추적된 변경 사항 숨기기 외에 PDF 출력을 맞춤 설정할 수 있나요?**  
+A: 물론입니다. DPI, 페이지 범위, 워터마킹 등 설정을 위해 `PdfConvertOptions`를 살펴보세요.
+
+**Q: GroupDocs.Conversion이 배치 처리를 효율적으로 수행할 수 있나요?**  
+A: 예, 동일한 로드 옵션을 재사용하면서 파일을 순회하면 **batch convert docx pdf** 를 빠르게 수행할 수 있습니다.
 
 ## 결론
-
-이제 Java용 GroupDocs.Conversion을 사용하여 Word를 PDF로 변환하는 동안 추적된 변경 내용을 숨기는 방법을 알아보았습니다. 이 기능을 사용하면 문서 준비가 간소화되어 수동 편집 작업에 드는 시간과 노력을 절약할 수 있습니다.
+이제 GroupDocs.Conversion for Java를 사용하여 Word 문서를 PDF로 변환할 때 추적된 변경 사항을 숨기는 **how to use options** 방법을 알게 되었습니다. 이 접근 방식은 수동 단계를 없애고 문서의 전문성을 높이며 배치 작업에도 잘 확장됩니다.
 
 ### 다음 단계
+- 기존 문서 처리 파이프라인에 코드를 통합합니다.  
+- 추가 `PdfConvertOptions`를 실험하여 PDF 출력을 세밀하게 조정합니다.  
+- 이미지 추출이나 형식 변환 등 GroupDocs의 다른 변환 기능을 살펴봅니다.
 
-이러한 기능을 기존 프로젝트에 통합해 보거나 GroupDocs 라이브러리가 제공하는 추가 기능을 탐색해 보세요.
+---
 
-## FAQ 섹션
+**마지막 업데이트:** 2025-12-19  
+**테스트 환경:** GroupDocs.Conversion 25.2 for Java  
+**작성자:** GroupDocs  
 
-**질문 1: GroupDocs.Conversion을 사용하여 DOCX 이외의 문서를 변환할 수 있나요?**
-- 네, PPTX, XLSX 등 다양한 형식을 지원합니다.
-
-**질문 2: GroupDocs.Conversion과 호환되는 Java 버전은 무엇입니까?**
-- JDK 8 이상이 필요합니다.
-
-**질문 3: 변환 오류를 해결하려면 어떻게 해야 하나요?**
-- 일반적인 문제에 대한 설명서를 확인하고 설정이 모든 요구 사항을 충족하는지 확인하세요.
-
-**질문 4: PDF 출력 옵션을 더욱 세부적으로 사용자 지정할 수 있는 방법이 있나요?**
-- 네, 탐험합니다 `PdfConvertOptions` 페이지 범위 및 DPI 조정과 같은 고급 설정.
-
-**질문 5: GroupDocs.Conversion은 일괄 처리를 효율적으로 처리할 수 있나요?**
-- 물론입니다. 최소한의 리소스 사용으로 여러 파일을 효과적으로 관리하도록 설계되었습니다.
-
-## 자원
-
-GroupDocs.Conversion에 대한 자세한 정보와 리소스는 다음과 같습니다.
-- **선적 서류 비치**: [GroupDocs 변환 Java 문서](https://docs.groupdocs.com/conversion/java/)
-- **API 참조**: [GroupDocs 변환 API 참조](https://reference.groupdocs.com/conversion/java/)
-- **다운로드**: [최신 릴리스를 받으세요](https://releases.groupdocs.com/conversion/java/)
-- **구입**: [라이센스 구매](https://purchase.groupdocs.com/buy)
-- **무료 체험**: [시도해 보세요](https://releases.groupdocs.com/conversion/java/)
-- **임시 면허**: [여기에서 요청하세요](https://purchase.groupdocs.com/temporary-license/)
-- **지원 포럼**: [토론에 참여하세요](https://forum.groupdocs.com/c/conversion/10)
-
-오늘부터 이 솔루션 구현을 시작하고 GroupDocs.Conversion for Java로 문서 변환 프로세스를 간소화하세요!
+**리소스**  
+- 문서: [GroupDocs Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)  
+- API 레퍼런스: [GroupDocs Conversion API Reference](https://reference.groupdocs.com/conversion/java/)  
+- 다운로드: [Get the Latest Release](https://releases.groupdocs.com/conversion/java/)  
+- 구매: [Buy a License](https://purchase.groupdocs.com/buy)  
+- 무료 체험: [Try It Out](https://releases.groupdocs.com/conversion/java/)  
+- 임시 라이선스: [Request Here](https://purchase.groupdocs.com/temporary-license/)  
+- 지원 포럼: [Join the Discussion](https://forum.groupdocs.com/c/conversion/10)
