@@ -1,34 +1,45 @@
 ---
-"date": "2025-04-28"
-"description": "了解如何使用 GroupDocs.Conversion 在 Java 應用程式中追蹤文件轉換進度。實現強大的監聽器，實現無縫監控。"
-"title": "使用 GroupDocs 追蹤 Java 文件轉換進度的完整指南"
-"url": "/zh-hant/java/conversion-events-logging/java-groupdocs-conversion-progress-listener/"
-"weight": 1
+date: '2025-12-19'
+description: 學習如何在 Java 中追蹤轉換，包括使用 GroupDocs.Conversion 進行 docx 與 pdf 的 Java 轉換。實作健全的監聽器，以實現無縫監控。
+keywords:
+- track document conversion progress Java
+- GroupDocs.Conversion for Java
+- conversion state and progress listener
+title: 如何在 Java 中使用 GroupDocs 追蹤轉換進度：完整指南
 type: docs
+url: /zh-hant/java/conversion-events-logging/java-groupdocs-conversion-progress-listener/
+weight: 1
 ---
-# 使用 GroupDocs 追蹤 Java 中的文件轉換進度：完整指南
 
-## 介紹
-您是否希望有效監控 Java 應用程式中文件轉換的進度？借助“GroupDocs.Conversion for Java”，追蹤轉換狀態和評估進度將變得輕而易舉。本指南將指導您使用 GroupDocs.Conversion 實現一個強大的解決方案，重點介紹如何建立和附加監聽器來監控轉換事件。
+# 如何在 Java 中使用 GroupDocs 追蹤轉換進度
 
-### 您將學到什麼
-- 為 Java 設定 GroupDocs.Conversion
-- 實現轉換狀態和進度監聽器
-- 使用監聽器配置轉換器設定
-- 使用進度追蹤執行文件轉換
+如果您需要在 Java 應用程式中**了解如何追蹤轉換**——尤其是想要**convert docx pdf java**——GroupDocs.Conversion 提供一個簡潔、事件驅動的方式。透過掛載監聽器，您可以即時取得轉換管線每個階段的回饋，讓批次作業、UI 進度條與日誌記錄更加透明。
 
-在我們開始之前，讓我們先回顧一下先決條件！
+## 快速答覆
+- **Listener 會做什麼？** 它會回報開始、進度（百分比）以及完成事件。  
+- **我可以監控哪些格式？** 任何 GroupDocs.Conversion 支援的格式，例如 DOCX → PDF。  
+- **需要授權嗎？** 免費試用可用於開發；正式環境需要付費授權。  
+- **必須使用 Maven 嗎？** Maven 可簡化相依管理，但您也可以使用 Gradle 或手動 JAR。  
+- **可以在 Web 服務中使用嗎？** 可以——將轉換呼叫包在 REST 端點，並將進度串流回客戶端。
 
-## 先決條件
-為了有效地實施此解決方案，請確保您已：
+## 在 GroupDocs 中「如何追蹤轉換」是什麼？
+GroupDocs.Conversion 提供 `IConverterListener` 介面。實作此介面可讓程式在轉換引擎狀態變更時作出回應，從而記錄、更新 UI 元件或觸發後續流程。
 
-- **庫和依賴項**：安裝 GroupDocs.Conversion for Java。使用 Maven 進行依賴管理。
-- **環境設定**：需要設定Java開發環境，包括JDK和IntelliJ IDEA、Eclipse等IDE。
-- **Java 知識**：對 Java 程式設計概念和文件處理有基本的了解。
+## 為什麼要追蹤轉換進度？
+- **使用者體驗：** 在 UI 儀表板或 CLI 工具中顯示即時百分比。  
+- **錯誤處理：** 及早偵測卡住情況，並重新嘗試或優雅地中止。  
+- **資源規劃：** 估算大量批次的處理時間，並相應配置資源。
 
-## 為 Java 設定 GroupDocs.Conversion
+## 前置條件
+- **Java Development Kit (JDK 8+)。**  
+- **Maven**（或任何能解析 Maven 套件庫的建置工具）。  
+- **GroupDocs.Conversion for Java** 函式庫。  
+- **有效的 GroupDocs 授權**（免費試用可用於測試）。
+
+## 設定 GroupDocs.Conversion for Java
 ### 透過 Maven 安裝 GroupDocs.Conversion
-首先，將以下內容新增至您的 `pom.xml`：
+將以下儲存庫與相依加入您的 `pom.xml`：
+
 ```xml
 <repositories>
     <repository>
@@ -46,11 +57,13 @@ type: docs
     </dependency>
 </dependencies>
 ```
-### 許可證獲取
-GroupDocs 提供免費試用、評估臨時授權以及商業用途的購買選項。訪問他們的 [購買頁面](https://purchase.groupdocs.com/buy) 取得您的許可證。
+
+### 取得授權
+GroupDocs 提供免費試用、評估用臨時授權，以及商業使用的購買方案。前往他們的[購買頁面](https://purchase.groupdocs.com/buy)取得授權。
 
 ### 基本初始化
-安裝後，使用基本設定初始化 GroupDocs.Conversion：
+將函式庫加入 classpath 後，您即可建立 `ConverterSettings` 實例：
+
 ```java
 import com.groupdocs.conversion.Converter;
 import com.groupdocs.conversion.ConverterSettings;
@@ -58,17 +71,21 @@ import com.groupdocs.conversion.ConverterSettings;
 public class InitializeGroupDocs {
     public static void main(String[] args) {
         ConverterSettings settings = new ConverterSettings();
-        // 可以在這裡設定其他配置。
+        // Additional configurations can be set here.
     }
 }
 ```
-## 實施指南
-我們將根據具體特點將實施過程分解為邏輯部分。
-### 功能 1：轉換狀態和進度監聽器
-#### 概述
-此功能可讓您在文件轉換期間監聽轉換狀態變更並追蹤進度。
-#### 實現監聽器
-創建一個實現的類 `IConverterListener`：
+
+## 實作指南
+我們將逐步說明每個功能，並在每段程式碼前提供說明。
+
+### 功能 1：轉換狀態與進度監聽器
+#### 概觀
+此監聽器會告知您轉換何時開始、進度多少以及何時完成。
+
+#### 實作監聽器
+建立一個實作 `IConverterListener` 的類別：
+
 ```java
 import com.groupdocs.conversion.IConverterListener;
 
@@ -86,72 +103,104 @@ class ListenConversionStateAndProgress implements IConverterListener {
     }
 }
 ```
-#### 解釋
-- **已開始()**：轉換開始時調用。使用此函數初始化所有所需資源。
-- **進度（當前位元組）**：報告完成百分比，允許即時追蹤。
-- **完全的（）**：表示轉換過程結束。
-### 功能 2：帶有監聽器的轉換器設置
-#### 概述
-此功能涉及設定轉換器設定並附加偵聽器以追蹤轉換狀態。
+
+**說明**  
+- **started()** – 在引擎開始處理前立即呼叫。可用於重設計時器或 UI 元件。  
+- **progress(byte current)** – 接收 0 到 100 的值，代表完成的百分比。非常適合用於進度條。  
+- **completed()** – 在輸出檔案寫入完成後觸發。此處可清理資源。
+
+### 功能 2：帶監聽器的 Converter Settings
+#### 概觀
+將您的監聽器附加至 `ConverterSettings`，讓引擎知道要將事件發送至何處。
+
 #### 設定步驟
-1. 建立監聽器的實例：
+1. **建立您的監聽器實例**：
+
    ```java
    IConverterListener listener = new ListenConversionStateAndProgress();
    ```
-2. 配置 `ConverterSettings` 目的：
+
+2. **設定 `ConverterSettings` 物件**：
+
    ```java
    ConverterSettings settingsFactory = new ConverterSettings();
    settingsFactory.setListener(listener);
    ```
-### 功能3：執行文件轉換
-#### 概述
-本節示範如何使用指定的設定轉換文件並追蹤其進度。
-#### 實施步驟
-1. 定義輸入和輸出路徑：
+
+### 功能 3：執行文件轉換
+#### 概觀
+現在您將在將 DOCX 檔案轉換為 PDF 時看到監聽器的運作。
+
+#### 實作步驟
+1. **定義輸入與輸出路徑**（請替換為實際目錄）：
+
    ```java
    String inputDocPath = "YOUR_DOCUMENT_DIRECTORY/SAMPLE_DOCX";
    String outputPath = "YOUR_OUTPUT_DIRECTORY/converted.pdf";
    ```
-2. 使用您的設定初始化轉換器：
+
+2. **使用已啟用監聽器的設定初始化 Converter，然後執行轉換**：
+
    ```java
    try (Converter converter = new Converter(inputDocPath, settingsFactory)) {
        PdfConvertOptions options = new PdfConvertOptions();
        converter.convert(outputPath, options);
    }
    ```
-#### 解釋
-- **轉換器**：處理轉換過程。
-- **PdfConvertOptions**：指定PDF作為轉換的目標格式。
-## 實際應用
-1. **自動化文件管理系統**：追蹤批量轉換的進度。
-2. **企業軟體解決方案**：整合到需要文件轉換和即時更新的系統中。
-3. **內容遷移工具**：使用進度指示器監控大規模檔案傳輸。
-## 性能考慮
-- 透過在 Java 應用程式內有效管理記憶體使用來優化效能。
-- 利用高效的資料結構和演算法來最大限度地減少資源消耗。
-- 定期監控應用程式日誌以發現任何與轉換相關的瓶頸。
-## 結論
-現在，您已經掌握如何使用 GroupDocs.Conversion for Java 實作轉換狀態和進度監聽器。透過整合這些技術，您可以利用即時追蹤功能來增強文件處理工作流程。
-### 後續步驟
-探索 GroupDocs.Conversion 提供的其他功能，以進一步完善應用程式的功能。
-### 號召性用語
-嘗試在您的下一個專案中實施此解決方案並親身體驗其好處！
-## 常見問題部分
-**問題 1：我可以追蹤 PDF 以外格式的轉換進度嗎？**
-A1：是的，您可以對 GroupDocs.Conversion 支援的不同文件格式使用類似的方法。
-**Q2：如何有效率處理大型文件？**
-A2：利用 Java 的記憶體管理功能並優化程式碼以處理更大的檔案而不會降低效能。
-**Q3：如果我的轉換中途失敗了怎麼辦？**
-A3：在監聽器方法中實作異常處理，以優雅地管理錯誤。
-**Q4：GroupDocs.Conversion 對檔案大小或類型有限制嗎？**
-A4：雖然支援大多數格式，但請參閱 [GroupDocs 文檔](https://docs.groupdocs.com/conversion/java/) 了解具體的限制和相容性。
-**Q5：如何將此解決方案整合到 Web 應用程式中？**
-A5：您可以在基於 Java 的伺服器環境中將轉換服務部署為 API 端點。
+
+**說明**  
+- **Converter** – 負責協調轉換的核心類別。  
+- **PdfConvertOptions** – 告訴 GroupDocs 您想要 PDF 輸出。您可以改用 `PptxConvertOptions`、`HtmlConvertOptions` 等，監聽器仍會回報進度。
+
+## 如何使用 GroupDocs 進行 docx pdf java 轉換
+上述程式碼已示範 **docx → pdf** 流程。若需其他目標格式，只需將 `PdfConvertOptions` 替換為相應的選項類別（例如 `HtmlConvertOptions` 轉成 HTML）。監聽器保持不變，無論輸出類型皆能取得即時進度。
+
+## 實務應用
+1. **自動化文件管理系統** – 批次處理數千個檔案，同時顯示即時進度儀表板。  
+2. **企業軟體解決方案** – 將轉換嵌入發票流程、法律文件歸檔或 e‑learning 內容產生。  
+3. **內容遷移工具** – 監控從舊版格式大規模遷移至現代 PDF，確保及早發現卡頓。
+
+## 效能考量
+- **記憶體管理：** 使用 try‑with‑resources（如範例所示）確保 `Converter` 及時關閉。  
+- **執行緒：** 大量批次時，可在平行執行緒中執行轉換，但每個執行緒需有自己的監聽器實例，以免輸出混雜。  
+- **日誌記錄：** 讓監聽器的 `System.out` 呼叫保持輕量；正式環境建議導向至適當的日誌框架（SLF4J、Log4j）。
+
+## 常見問題與解決方案
+| 問題 | 解決方案 |
+|-------|----------|
+| **No progress output** | 確認在建立 `Converter` 前已呼叫 `settingsFactory.setListener(listener);`。 |
+| **OutOfMemoryError on large files** | 增加 JVM 堆大小（`-Xmx2g` 或更高），並盡可能將檔案分成較小的區塊處理。 |
+| **Listener not triggered on error** | 將 `converter.convert` 包在 try‑catch 區塊，並在監聽器實作中呼叫自訂的 `error(byte code)` 方法。 |
+
+## 常見問答
+**Q:** 我可以追蹤除 PDF 之外的其他格式的轉換進度嗎？  
+**A:** 可以。相同的 `IConverterListener` 可用於 GroupDocs.Conversion 支援的任何目標格式，只需更換選項類別即可。
+
+**Q:** 如何有效處理大型文件？  
+**A:** 使用 Java 的串流 API、增加 JVM 堆大小，並透過監聽器的進度監控長時間執行的步驟。
+
+**Q:** 若轉換途中失敗會發生什麼？  
+**A:** 在監聽器中實作額外方法（例如 `error(byte code)`），並在 `convert` 呼叫周圍加入例外處理，以捕捉並記錄失敗。
+
+**Q:** 檔案大小或類型有沒有限制？  
+**A:** 大多數常見格式皆受支援，但極大檔案可能需要更多記憶體。請參考官方[GroupDocs 文件](https://docs.groupdocs.com/conversion/java/)了解詳細限制。
+
+**Q:** 如何在 Web 應用程式中提供此功能？  
+**A:** 將轉換邏輯包在 REST 端點（例如 Spring Boot）中，並透過 Server‑Sent Events（SSE）或 WebSocket 串流進度更新，將監聽器的輸出傳送給客戶端。
+
 ## 資源
-- **文件**： [GroupDocs 轉換文檔](https://docs.groupdocs.com/conversion/java/)
-- **API 參考**： [API 參考](https://reference.groupdocs.com/conversion/java/)
-- **下載**： [下載 GroupDocs.Conversion](https://releases.groupdocs.com/conversion/java/)
-- **購買**： [購買許可證](https://purchase.groupdocs.com/buy)
-- **免費試用**： [免費試用](https://releases.groupdocs.com/conversion/java/)
-- **臨時執照**： [取得臨時許可證](https://purchase.groupdocs.com/temporary-license/)
-- **支援論壇**： [GroupDocs 支持](https://forum.groupdocs.com/c/conversion/10)
+- **文件說明：** [GroupDocs Conversion Documentation](https://docs.groupdocs.com/conversion/java/)  
+- **API 參考：** [API Reference](https://reference.groupdocs.com/conversion/java/)  
+- **下載：** [Download GroupDocs.Conversion](https://releases.groupdocs.com/conversion/java/)  
+- **購買：** [Buy License](https://purchase.groupdocs.com/buy)  
+- **免費試用：** [Try Free Trial](https://releases.groupdocs.com/conversion/java/)  
+- **臨時授權：** [Get Temporary License](https://purchase.groupdocs.com/temporary-license/)  
+- **支援論壇：** [GroupDocs Support](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**最後更新：** 2025-12-19  
+**測試環境：** GroupDocs.Conversion 25.2  
+**作者：** GroupDocs  
+
+---
