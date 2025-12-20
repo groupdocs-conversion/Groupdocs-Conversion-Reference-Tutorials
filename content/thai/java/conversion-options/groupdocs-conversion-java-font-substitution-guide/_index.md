@@ -1,38 +1,35 @@
 ---
 date: '2025-12-20'
-description: Tìm hiểu cách chuyển đổi note sang PDF bằng GroupDocs.Conversion cho
-  Java, thiết lập phông chữ mặc định và áp dụng thay thế phông chữ để đảm bảo tính
-  nhất quán về kiểu chữ.
+description: เรียนรู้วิธีแปลงโน้ตเป็น PDF ด้วย GroupDocs.Conversion สำหรับ Java ตั้งค่าแบบอักษรเริ่มต้นและใช้การแทนที่แบบอักษรเพื่อให้การจัดรูปแบบตัวอักษรสอดคล้องกัน
 keywords:
 - GroupDocs.Conversion for Java
 - font substitution in Java
 - document conversion to PDF
-title: 'Chuyển đổi note sang PDF với GroupDocs.Conversion cho Java: Hướng dẫn Thay
-  thế Phông chữ'
+title: 'แปลงโน้ตเป็น PDF ด้วย GroupDocs.Conversion สำหรับ Java: คู่มือการแทนที่ฟอนต์'
 type: docs
-url: /vi/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/
+url: /th/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/
 weight: 1
 ---
 
-# Thành thạo Thay thế Phông chữ với GroupDocs.Conversion cho Java
+# Mastering Font Substitution with GroupDocs.Conversion for Java
 
-Việc chuyển đổi tài liệu note sang PDF trong khi duy trì kiểu chữ nhất quán có thể là thách thức. Trong hướng dẫn này, bạn sẽ **convert note to pdf** và học cách áp dụng các thay thế phông chữ tùy chỉnh để kết quả trông giống hệt trên mọi nền tảng.
+การแปลงไฟล์โน้ตเป็น PDF พร้อมคงความสอดคล้องของรูปแบบตัวอักษรอาจเป็นเรื่องท้าทาย ในคู่มือนี้คุณจะ **convert note to pdf** และเรียนรู้วิธีใช้การแทนที่ฟอนต์แบบกำหนดเองเพื่อให้ผลลัพธ์ดูเหมือนกันบนทุกแพลตฟอร์ม
 
 ## Quick Answers
-- **Mục đích chính là gì?** Convert note to pdf với việc thay thế phông chữ đáng tin cậy.  
-- **Thư viện nào cần thiết?** GroupDocs.Conversion cho Java (thêm phụ thuộc Maven).  
-- **Làm thế nào để đặt phông chữ dự phòng?** Sử dụng `setDefaultFont` trong `NoteLoadOptions`.  
-- **Có thể thay thế nhiều phông chữ không?** Có — thêm nhiều mục `FontSubstitute`.  
-- **Có cần giấy phép không?** Bản dùng thử miễn phí hoặc giấy phép tạm thời là đủ cho việc thử nghiệm.
+- **What is the primary purpose?** Convert note to pdf with reliable font substitution.  
+- **Which library is required?** GroupDocs.Conversion for Java (add the Maven dependency).  
+- **How do I set a fallback font?** Use `setDefaultFont` in `NoteLoadOptions`.  
+- **Can I replace multiple fonts?** Yes—add several `FontSubstitute` entries.  
+- **Do I need a license?** A free trial or temporary license is sufficient for testing.
 
 ## What is “convert note to pdf”?
-Quá trình này chuyển đổi các tệp loại note (ví dụ: .one, .enex) thành tài liệu PDF, bảo tồn bố cục, hình ảnh và kiểu chữ. Thay thế phông chữ đảm bảo rằng các phông chữ thiếu được tự động thay thế, mang lại kết quả hình ảnh nhất quán.
+กระบวนการนี้แปลงไฟล์ประเภท note (เช่น .one, .enex) เป็นเอกสาร PDF โดยคงรูปแบบการจัดวาง ภาพ และสไตล์ของข้อความไว้ การแทนที่ฟอนต์ช่วยให้ฟอนต์ที่หายไปถูกเปลี่ยนโดยอัตโนมัติ ทำให้ผลลัพธ์มีลักษณะภาพเดียวกันเสมอ
 
 ## Why use GroupDocs.Conversion for Java?
-- **Tính nhất quán đa nền tảng** – PDF trông giống nhau trên Windows, macOS và Linux.  
-- **Hỗ trợ dự phòng phông chữ tích hợp** – Không cần nhúng mọi phông chữ một cách thủ công.  
-- **Tích hợp Maven đơn giản** – Thêm `maven groupdocs dependency` một lần và bắt đầu chuyển đổi.  
-- **Hiệu năng cao** – Tối ưu cho các lô lớn và khối lượng công việc doanh nghiệp.
+- **Cross‑platform consistency** – PDFs look the same on Windows, macOS, and Linux.  
+- **Built‑in font fallback** – No need to embed every possible font manually.  
+- **Simple Maven integration** – Add the `maven groupdocs dependency` once and start converting.  
+- **High performance** – Optimized for large batches and enterprise workloads.
 
 ## Prerequisites
 
@@ -63,7 +60,7 @@ Add the library to your project via Maven:
 ```
 
 ### License Acquisition
-GroupDocs cung cấp bản dùng thử miễn phí và giấy phép tạm thời để thử nghiệm, hoặc bạn có thể mua giấy phép đầy đủ cho môi trường sản xuất.
+GroupDocs offers a free trial and temporary licenses for testing, or you can purchase a full license for production use.
 
 1. **Free Trial**: Download from [here](https://releases.groupdocs.com/conversion/java/).  
 2. **Temporary License**: Request one at [this link](https://purchase.groupdocs.com/temporary-license/).  
@@ -75,7 +72,7 @@ GroupDocs cung cấp bản dùng thử miễn phí và giấy phép tạm thời
 Font substitution ensures consistent typography by replacing unavailable fonts with specified alternatives during document conversion.
 
 #### Overview
-Tính năng này duy trì tính nhất quán về hình ảnh trên các nền tảng bằng cách thay thế các phông chữ bị thiếu.
+This feature maintains visual consistency across platforms by substituting missing fonts.
 
 #### Implementation Steps
 
@@ -119,10 +116,10 @@ coder.convert("YOUR_OUTPUT_DIRECTORY/converted_note.pdf", pdfOptions);
 - **`convert()`**: Executes the document conversion process.
 
 ### Document Conversion to PDF (java document to pdf)
-Chuyển đổi tài liệu sang PDF đảm bảo khả năng truy cập toàn cầu đồng thời bảo tồn định dạng trên các nền tảng.
+Converting documents to PDF ensures universal accessibility while preserving formatting across platforms.
 
 #### Overview
-Chuyển đổi sang PDF là cần thiết cho việc trình bày tài liệu nhất quán.
+PDF conversion is essential for consistent document presentation.
 
 #### Implementation Steps
 
@@ -144,39 +141,40 @@ converter.convert("YOUR_OUTPUT_DIRECTORY/converted_note.pdf", pdfOptions);
 
 ## Practical Applications
 
-1. **Document Sharing** – Chia sẻ tài liệu với kiểu chữ nhất quán trên các thiết bị.  
-2. **Archiving** – Lưu trữ tài liệu quan trọng ở định dạng PDF để duy trì giao diện gốc.  
-3. **Cross‑Platform Compatibility** – Đảm bảo trình bày tài liệu đồng nhất trên các hệ thống và phần mềm khác nhau.
+1. **Document Sharing** – Share documents with consistent typography across devices.  
+2. **Archiving** – Archive important documents in PDF format to maintain original appearance.  
+3. **Cross‑Platform Compatibility** – Ensure uniform document presentation on different systems and software.
 
 ### Integration Possibilities
-Tích hợp GroupDocs.Conversion vào hệ thống quản lý nội dung doanh nghiệp hoặc công cụ tự động hoá quy trình tài liệu để quy trình trở nên suôn sẻ.
+Integrate GroupDocs.Conversion into your enterprise content management system or document workflow automation tools for streamlined processes.
 
 ## Performance Considerations
-- Tối ưu việc sử dụng bộ nhớ bằng cách quản lý hiệu quả các luồng tài liệu lớn.  
-- Sử dụng chiến lược cache cho các tài liệu được chuyển đổi thường xuyên.  
-- Tuân thủ các thực hành tốt nhất của Java như tinh chỉnh garbage‑collection và pool tài nguyên.
+To enhance performance:  
+- Optimize memory usage by efficiently managing large document streams.  
+- Utilize caching strategies for frequently converted documents.  
+- Follow Java best practices such as garbage‑collection tuning and resource pooling.
 
 ## Conclusion
 This tutorial explored how to **convert note to pdf** with font substitution using **GroupDocs.Conversion for Java**. By mastering these techniques, you can guarantee consistent typography across platforms and improve your document management workflows.
 
 ### Next Steps
-Triển khai giải pháp trong dự án của bạn để trải nghiệm lợi ích của việc thay thế phông chữ và chuyển đổi PDF đáng tin cậy.
+Implement the solution in your projects to experience the benefits of font substitution and reliable PDF conversion.
 
 ## FAQ Section
 1. **Can I substitute multiple fonts at once?**  
-   Có, thêm nhiều mục `FontSubstitute` để xử lý các phông chữ khác nhau đồng thời.
+   Yes, add multiple `FontSubstitute` entries to handle various fonts simultaneously.
 
 2. **What happens if the default font is not found?**  
-   Tài liệu sẽ sử dụng phông chữ mặc định của hệ thống, có thể khác nhau giữa các nền tảng.
+   The document will use a system default font, which might vary across platforms.
 
 3. **How do I troubleshoot conversion errors?**  
-   Kiểm tra đường dẫn tệp đúng và đảm bảo tất cả các phụ thuộc đã được thiết lập chính xác trong dự án của bạn.
+   Check for correct file paths and ensure all dependencies are properly set up in your project.
 
 4. **Is GroupDocs.Conversion compatible with all Java versions?**  
-   Nó tương thích với JDK 8 và cao hơn.
+   It is compatible with JDK 8 and higher.
 
 5. **Can font substitution be used with other document formats?**  
-   Có, tính năng hỗ trợ nhiều loại tài liệu, gồm cả Word và Excel.
+   Yes, the feature supports various document types, including Word and Excel files.
 
 ## Frequently Asked Questions
 
