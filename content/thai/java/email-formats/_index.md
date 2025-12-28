@@ -1,16 +1,17 @@
 ---
 date: 2025-12-28
-description: 學習如何在 Java 中使用 GroupDocs.Conversion 將 MSG 轉換為 PDF。包括 eml 轉 PDF Java 與
-  email 轉 PDF Java 範例。
-title: msg 轉 PDF Java – 使用 GroupDocs 進行電郵格式轉換
+description: เรียนรู้วิธีแปลงไฟล์ MSG เป็น PDF ด้วย Java โดยใช้ GroupDocs.Conversion
+  รวมถึงตัวอย่างการแปลงไฟล์ eml เป็น PDF ด้วย Java และตัวอย่างการแปลงอีเมลเป็น PDF
+  ด้วย Java.
+title: msg to pdf java – การแปลงรูปแบบอีเมลด้วย GroupDocs
 type: docs
-url: /zh-hant/java/email-formats/
+url: /th/java/email-formats/
 weight: 8
 ---
 
 # msg to pdf java – Email Formats Conversion Tutorials for GroupDocs.Conversion Java
 
-如果您需要直接在 Java 中將 **MSG**、**EML** 或 **EMLX** 等電郵檔案轉換為 PDF 文件，您來對地方了。本指南將帶您使用 GroupDocs.Conversion 完成 **msg to pdf java** 的轉換流程，同時也涵蓋 **eml to pdf java** 與 **email to pdf java** 等相關情境。閱讀完本篇後，您將了解如何保留電郵的中繼資料、擷取附件，以及有效處理批次轉換。
+หากคุณต้องการแปลงไฟล์อีเมลเช่น **MSG**, **EML**, หรือ **EMLX** เป็นเอกสาร PDF โดยตรงจาก Java คุณมาถูกที่แล้ว คู่มือนี้จะพาคุณผ่านกระบวนการ **msg to pdf java** ด้วย GroupDocs.Conversion พร้อมกับครอบคลุมสถานการณ์ที่เกี่ยวข้องเช่น **eml to pdf java** และ **email to pdf java** เมื่ออ่านจบคุณจะเข้าใจวิธีการรักษาเมตาดาต้าอีเมล, การดึงไฟล์แนบ, และการจัดการการแปลงแบบกลุ่มอย่างมีประสิทธิภาพ
 
 ## Quick Answers
 - **What library handles msg to pdf java?** GroupDocs.Conversion for Java  
@@ -20,7 +21,7 @@ weight: 8
 - **What Java versions are supported?** Java 8 and newer.
 
 ## What is msg to pdf java?
-在 Java 中將 MSG 檔案轉換為 PDF，意味著把 Microsoft Outlook 電郵（包括正文、格式與附件）轉換成能忠實呈現原始訊息的 PDF。GroupDocs.Conversion 會自動完成此任務，處理複雜的 MIME 結構並保留視覺一致性。
+การแปลงไฟล์ MSG เป็น PDF ใน Java หมายถึงการนำอีเมล Microsoft Outlook (รวมถึงเนื้อหา, การจัดรูปแบบ, และไฟล์แนบ) มาสร้างเป็น PDF ที่แสดงผลได้อย่างแม่นยำตามต้นฉบับ GroupDocs.Conversion จะทำงานนี้อัตโนมัติ โดยจัดการโครงสร้าง MIME ที่ซับซ้อนและรักษาความเที่ยงตรงของภาพ
 
 ## Why use GroupDocs.Conversion for email‑to‑PDF conversions?
 - **Full metadata retention** – headers, timestamps, and sender/receiver details stay intact.  
@@ -29,9 +30,9 @@ weight: 8
 - **Batch processing** – convert dozens or hundreds of emails with a single API call.  
 
 ## Prerequisites
-- 已安裝 Java 8 或更新版本。  
-- 已將 GroupDocs.Conversion for Java 套件加入專案（Maven / Gradle）。  
-- 擁有有效的 GroupDocs 臨時或正式授權金鑰。  
+- Java 8 or later installed.  
+- GroupDocs.Conversion for Java library added to your project (Maven/Gradle).  
+- A valid GroupDocs temporary or full license key.  
 
 ## Step‑by‑Step Guide
 
