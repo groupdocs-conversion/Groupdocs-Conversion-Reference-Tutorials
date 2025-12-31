@@ -1,41 +1,48 @@
 ---
-"date": "2025-04-28"
-"description": "Tìm hiểu cách triển khai cấp phép theo mét với GroupDocs.Conversion cho Java. Tối ưu hóa việc sử dụng phần mềm và kiểm soát quyền truy cập hiệu quả với hướng dẫn chi tiết này."
-"title": "Triển khai Giấy phép đo lường cho GroupDocs.Conversion trong Java&#58; Hướng dẫn toàn diện"
-"url": "/vi/java/getting-started/implement-metered-license-groupdocs-conversion-java/"
-"weight": 1
+date: '2025-12-31'
+description: Tìm hiểu cách triển khai giấy phép tính theo mức sử dụng cho Java với
+  GroupDocs.Conversion cho Java. Tối ưu hoá việc sử dụng, kiểm soát quyền truy cập
+  và giảm chi phí với hướng dẫn từng bước này.
+keywords:
+- metered license
+- GroupDocs.Conversion for Java
+- Java licensing
+title: 'Triển khai Giấy phép Định mức Java cho GroupDocs.Conversion: Hướng dẫn toàn
+  diện'
 type: docs
+url: /vi/java/getting-started/implement-metered-license-groupdocs-conversion-java/
+weight: 1
 ---
-# Triển khai Giấy phép đo lường cho GroupDocs.Conversion trong Java
 
-## Giới thiệu
+# Triển khai Giấy phép Định mức Java với GroupDocs.Conversion
 
-Quản lý việc sử dụng phần mềm hiệu quả là rất quan trọng để tối ưu hóa tài nguyên và kiểm soát quyền truy cập. Giấy phép đo lường có thể cải thiện đáng kể khả năng mở rộng của ứng dụng bằng cách đảm bảo bạn chỉ trả tiền cho những gì bạn sử dụng. Hướng dẫn toàn diện này hướng dẫn bạn cách triển khai giấy phép đo lường bằng cách sử dụng **GroupDocs.Conversion cho Java**.
+Quản lý việc sử dụng phần mềm một cách hiệu quả là rất quan trọng để tối ưu tài nguyên và kiểm soát quyền truy cập. Trong hướng dẫn này, bạn sẽ **triển khai metered license java** bằng GroupDocs.Conversion cho Java, để chỉ trả tiền cho những gì bạn thực sự sử dụng. Chúng tôi sẽ hướng dẫn qua việc cài đặt, mã giấy phép, và các mẹo thực hành tốt để giữ cho ứng dụng của bạn nhanh và ổn định.
 
-**Những gì bạn sẽ học được:**
-- Thiết lập GroupDocs.Conversion cho Java
-- Triển khai giấy phép đo lường với khóa công khai và khóa riêng tư
-- Thực hành tốt nhất để tối ưu hóa hiệu suất
+## Câu trả lời nhanh
+- **Giấy phép định mức là gì?** Một giấy phép dựa trên mức sử dụng cho phép bạn đặt giới hạn cho các cuộc gọi API hoặc chuyển đổi tài liệu.  
+- **Tôi có cần tài khoản GroupDocs không?** Có – bạn sẽ cần một bản dùng thử miễn phí hoặc giấy phép đã mua để lấy khóa công khai và khóa riêng.  
+- **Phiên bản Java nào được yêu cầu?** Java 8 hoặc mới hơn, kèm Maven để quản lý phụ thuộc.  
+- **Điều này có gây độ trễ đáng chú ý không?** Tối thiểu – các kiểm tra giấy phép nhẹ và có thể được lưu trong bộ nhớ đệm.  
+- **Có thể thay đổi giới hạn tại thời gian chạy không?** Có, bạn có thể cập nhật khóa định mức một cách lập trình khi cần.
 
-## Điều kiện tiên quyết
+## “implement metered license java” là gì?
+Triển khai một giấy phép định mức trong Java có nghĩa là cấu hình GroupDocs.Conversion để xác thực việc sử dụng dựa trên cặp khóa công khai/riêng mà bạn nhận được từ GroupDocs. Điều này cho phép bạn giám sát các chuyển đổi, thực thi hạn ngạch, và đồng bộ chi phí với mức tiêu thụ thực tế.
 
-Trước khi triển khai giấy phép tính phí, hãy đảm bảo bạn có:
+## Tại sao nên dùng giấy phép định mức với GroupDocs.Conversion?
+- **Kiểm soát chi phí:** Chỉ trả tiền cho các lần chuyển đổi bạn thực hiện.  
+- **Mô hình SaaS mở rộng:** Cung cấp các gói đăng ký theo tầng với các giới hạn chuyển đổi khác nhau.  
+- **Thông tin sử dụng:** Phân tích tích hợp sẵn cho phép bạn theo dõi số trang hoặc tài liệu đã xử lý.  
+- **Tích hợp dễ dàng:** API hoạt động với bất kỳ ứng dụng Java nào—desktop, web, hoặc microservice.
 
-### Thư viện, Phiên bản và Phụ thuộc bắt buộc
-- **GroupDocs.Chuyển đổi** phiên bản 25.2 trở lên.
-- Bộ công cụ phát triển Java (JDK) được cài đặt trên máy của bạn.
+## Yêu cầu trước
+- **GroupDocs.Conversion** phiên bản 25.2 hoặc mới hơn.  
+- Java Development Kit (JDK) 8+ đã được cài đặt.  
+- Maven được cấu hình để xử lý các phụ thuộc.  
+- Tài khoản GroupDocs để lấy khóa công khai và khóa riêng.
 
-### Yêu cầu thiết lập môi trường
-Đảm bảo Maven được thiết lập trong môi trường phát triển của bạn để quản lý các phụ thuộc một cách hiệu quả.
+## Cài đặt GroupDocs.Conversion cho Java
 
-### Điều kiện tiên quyết về kiến thức
-Nên có hiểu biết cơ bản về lập trình Java và quen thuộc với công cụ xây dựng Maven.
-
-## Thiết lập GroupDocs.Conversion cho Java
-
-Cấu hình dự án của bạn để sử dụng **GroupDocs.Chuyển đổi** bằng cách thêm cấu hình sau vào `pom.xml` tài liệu:
-
-**Cấu hình Maven:**
+Đầu tiên, thêm kho lưu trữ GroupDocs và thư viện chuyển đổi vào `pom.xml` của bạn. Bước này đảm bảo Maven có thể tải xuống các binary đúng.
 
 ```xml
 <repositories>
@@ -54,13 +61,13 @@ Cấu hình dự án của bạn để sử dụng **GroupDocs.Chuyển đổi**
 </dependencies>
 ```
 
-### Các bước xin cấp giấy phép
-1. **Dùng thử miễn phí:** Bắt đầu bằng cách đăng ký dùng thử miễn phí trên trang web GroupDocs để kiểm tra các tính năng.
-2. **Giấy phép tạm thời:** Hãy xin giấy phép tạm thời nếu bạn cần nhiều hơn những gì có trong phiên bản dùng thử.
-3. **Mua:** Để sử dụng lâu dài, hãy cân nhắc mua giấy phép đầy đủ.
+### Các bước lấy giấy phép
+1. **Dùng thử miễn phí:** Đăng ký trên trang web GroupDocs để thử các tính năng.  
+2. **Giấy phép tạm thời:** Yêu cầu một khóa tạm thời nếu giới hạn dùng thử không đủ.  
+3. **Mua bản đầy đủ:** Mua giấy phép đầy đủ để sử dụng trong môi trường sản xuất.
 
-### Khởi tạo và thiết lập cơ bản
-Sau khi thiết lập các phụ thuộc Maven, hãy khởi tạo thư viện bằng khóa cấp phép của bạn:
+### Khởi tạo cơ bản
+Sau khi Maven giải quyết các phụ thuộc, khởi tạo thư viện bằng giấy phép truyền thống (dựa trên tệp) nếu bạn đã có. Ví dụ này cho thấy cách tiếp cận cổ điển trước khi chuyển sang giấy phép định mức.
 
 ```java
 import com.groupdocs.conversion.License;
@@ -69,86 +76,88 @@ License license = new License();
 license.setLicense("path/to/your/license.lic");
 ```
 
-## Hướng dẫn triển khai: Thiết lập giấy phép đo lường
+## Cách triển khai Metered License Java
 
-Phần này hướng dẫn bạn cách triển khai tính năng cấp phép theo định mức bằng cách sử dụng **GroupDocs.Conversion cho Java**.
+Bây giờ chúng ta sẽ thay thế tệp giấy phép tĩnh bằng cặp khóa định mức. Thực hiện từng bước cẩn thận; các khối mã không thay đổi so với hướng dẫn gốc.
 
-### Tổng quan về tính năng Metered
-Giấy phép đo lường cho phép bạn đặt giới hạn sử dụng, đảm bảo ứng dụng của bạn tuân thủ các ràng buộc hoạt động được xác định trước. Điều này đặc biệt hữu ích trong các mô hình dựa trên đăng ký, nơi phân bổ tài nguyên cần kiểm soát chính xác.
-
-#### Bước 1: Nhập các gói cần thiết
-Bắt đầu bằng cách nhập các lớp cần thiết:
+### Bước 1: Nhập lớp Metered
+Bạn cần lớp `Metered` để làm việc với giấy phép dựa trên mức sử dụng.
 
 ```java
 import com.groupdocs.conversion.licensing.Metered;
 ```
 
-#### Bước 2: Nhận Khóa cấp phép
-Nhận khóa công khai và riêng tư của bạn từ trang web GroupDocs hoặc cổng thông tin mua hàng. Thay thế chỗ giữ chỗ bằng giá trị thực.
+### Bước 2: Lấy khóa công khai và khóa riêng của bạn
+Đăng nhập vào cổng GroupDocs và sao chép các khóa. **Không bao giờ chia sẻ chúng công khai.**
 
 ```java
-String publicKey = "*****"; // Khóa công khai của bạn ở đây
-String privateKey = "*****"; // Khóa riêng của bạn ở đây
+String publicKey = "*****"; // Your public key here
+String privateKey = "*****"; // Your private key here
 ```
 
-#### Bước 3: Tạo một đối tượng đo lường
-Tạo một trường hợp của `Metered` để quản lý cấu hình giấy phép của bạn.
+### Bước 3: Tạo đối tượng Metered
+Khởi tạo trợ giúp `Metered` sẽ chứa cặp khóa của bạn.
 
 ```java
 Metered metered = new Metered();
 ```
 
-#### Bước 4: Thiết lập Giấy phép tính phí
-Thiết lập giấy phép tính phí bằng các khóa lấy được ở bước trước:
+### Bước 4: Đặt giấy phép định mức
+Áp dụng các khóa cho thể hiện `Metered`. Lệnh này sẽ liên hệ với máy chủ giấy phép của GroupDocs và kích hoạt việc theo dõi mức sử dụng.
 
 ```java
 metered.setMeteredKey(publicKey, privateKey);
 ```
-**Giải thích:** Các `setMeteredKey` Phương pháp này khởi tạo cấu hình cấp phép của bạn với GroupDocs.Conversion, cho phép bạn theo dõi và kiểm soát việc sử dụng một cách hiệu quả.
 
-### Mẹo khắc phục sự cố
-- **Phím không đúng**Đảm bảo rằng bạn đã sao chép đúng các khóa và không có khoảng trắng.
-- **Các vấn đề về mạng**: Xác minh kết nối mạng nếu khóa được lấy trực tuyến.
-- **Phiên bản thư viện không khớp**: Xác nhận rằng bạn đang sử dụng phiên bản tương thích của GroupDocs.Conversion.
+**Giải thích:** `setMeteredKey` đăng ký ứng dụng của bạn với GroupDocs, cho phép giám sát thời gian thực các cuộc gọi chuyển đổi. Sau bước này, mọi yêu cầu chuyển đổi sẽ được tính vào hạn ngạch của bạn.
 
-## Ứng dụng thực tế
-Hiểu cách triển khai giấy phép theo định mức có thể cải thiện ứng dụng của bạn theo nhiều cách:
-1. **Quản lý đăng ký:** Kiểm soát mức sử dụng cho các mức đăng ký khác nhau.
-2. **Phân bổ nguồn lực:** Tối ưu hóa việc sử dụng tài nguyên dựa trên nhu cầu kinh doanh.
-3. **Hiệu quả chi phí:** Giảm chi phí bằng cách hạn chế các cuộc gọi API hoặc chuyển đổi tài liệu.
+## Mẹo khắc phục sự cố
+- **Khóa không đúng:** Kiểm tra lại xem có dấu cách thừa hoặc ký tự bị thiếu không.  
+- **Vấn đề mạng:** Đảm bảo lưu lượng HTTPS ra ngoài tới `releases.groupdocs.com` được cho phép.  
+- **Phiên bản không khớp:** Lớp `Metered` có sẵn từ phiên bản 25.2 trở lên; các phiên bản cũ sẽ ném `ClassNotFoundException`.
+
+## Ứng dụng thực tiễn
+- **Quản lý đăng ký:** Cung cấp các gói “Cơ bản” (10 chuyển đổi/tháng) và “Pro” (không giới hạn).  
+- **Phân bổ tài nguyên:** Giới hạn khách hàng tải nặng để bảo vệ hạ tầng chung.  
+- **Hiệu quả chi phí:** Đồng bộ phí giấy phép với mức sử dụng thực tế, tránh trả quá mức.
 
 ### Khả năng tích hợp
-- **Hệ thống CRM**:Tích hợp với các công cụ quản lý khách hàng để cung cấp các dịch vụ theo từng cấp độ.
-- **Nền tảng đám mây**: Sử dụng trong các ứng dụng đám mây để kiểm soát quyền truy cập có thể mở rộng và theo dõi.
+- **Hệ thống CRM:** Đồng bộ số lần chuyển đổi tới mô-đun thanh toán.  
+- **Nền tảng đám mây:** Triển khai trên AWS Lambda hoặc Azure Functions; khóa định mức giúp bạn duy trì ngân sách.
 
-## Cân nhắc về hiệu suất
-Khi triển khai GroupDocs.Conversion:
-- **Tối ưu hóa việc sử dụng bộ nhớ:** Thường xuyên theo dõi và quản lý việc sử dụng bộ nhớ Java.
-- **Kiểm tra cấp phép hiệu quả:** Giảm thiểu chi phí xác minh giấy phép bằng cách lưu trữ kết quả khi có thể.
-- **Kiến trúc có thể mở rộng:** Thiết kế ứng dụng của bạn để có thể xử lý tải tăng mà không làm giảm hiệu suất.
+## Các cân nhắc về hiệu năng
+- **Lưu trữ đối tượng Metered trong bộ nhớ đệm:** Tái sử dụng cùng một thể hiện cho các yêu cầu để tránh các cuộc gọi mạng lặp lại.  
+- **Giám sát bộ nhớ JVM:** Tài liệu lớn có thể tiêu tốn heap đáng kể; cân nhắc sử dụng API streaming cho các tệp khổng lồ.  
+- **Mở rộng ngang:** Các microservice không trạng thái có thể chia sẻ cùng một khóa định mức mà không gây xung đột.
 
-## Phần kết luận
-Trong hướng dẫn này, bạn đã học cách triển khai giấy phép theo mét với GroupDocs.Conversion for Java. Tính năng này không chỉ giúp quản lý phân bổ tài nguyên mà còn nâng cao hiệu quả chi phí và khả năng mở rộng. Các bước tiếp theo, hãy cân nhắc tích hợp thư viện vào các ứng dụng lớn hơn hoặc khám phá các tính năng bổ sung do GroupDocs cung cấp.
+## Kết luận
+Bạn đã học cách **triển khai metered license java** với GroupDocs.Conversion. Cách tiếp cận này cho phép bạn kiểm soát chi tiết việc sử dụng chuyển đổi tài liệu, giúp quản lý chi phí và mở rộng mượt mà cùng kiến trúc ứng dụng. Tiếp theo, hãy thử tích hợp quy trình chuyển đổi vào lớp dịch vụ của bạn và khám phá các báo cáo sử dụng tích hợp sẵn do GroupDocs cung cấp.
 
-**Kêu gọi hành động:** Hãy thử áp dụng các bước này vào dự án của bạn ngay hôm nay và trải nghiệm việc quản lý sử dụng phần mềm hợp lý!
+**Kêu gọi hành động:** Thêm các đoạn mã vào dự án ngay hôm nay, chạy một vài chuyển đổi thử nghiệm, và quan sát các chỉ số sử dụng xuất hiện trên bảng điều khiển GroupDocs của bạn!
 
 ## Phần Câu hỏi thường gặp
-1. **Giấy phép tính theo lưu lượng là gì?**
-   - Giấy phép giới hạn cho phép bạn đặt giới hạn cụ thể về việc sử dụng phần mềm, đảm bảo phân bổ tài nguyên hiệu quả.
-2. **Làm thế nào để tôi có được khóa GroupDocs?**
-   - Đăng ký tài khoản trên trang web GroupDocs và điều hướng đến cổng mua hàng của bạn.
-3. **Tôi có thể tích hợp GroupDocs với các hệ thống khác không?**
-   - Có, nó hỗ trợ tích hợp với nhiều nền tảng CRM và đám mây.
-4. **Lợi ích của việc sử dụng giấy phép tính cước là gì?**
-   - Nó giúp quản lý chi phí, tối ưu hóa việc sử dụng tài nguyên và cung cấp các giải pháp có khả năng mở rộng.
-5. **Tôi có thể tìm thêm tài nguyên về GroupDocs.Conversion cho Java ở đâu?**
-   - Ghé thăm họ [tài liệu](https://docs.groupdocs.com/conversion/java/) Và [Tài liệu tham khảo API](https://reference.groupdocs.com/conversion/java/).
+1. **Giấy phép định mức là gì?**  
+   Giấy phép định mức cho phép bạn đặt các giới hạn cụ thể cho việc sử dụng phần mềm, đảm bảo phân bổ tài nguyên hiệu quả.  
+2. **Làm sao để lấy khóa GroupDocs?**  
+   Đăng ký tài khoản trên trang web GroupDocs và truy cập vào cổng mua hàng của bạn.  
+3. **Tôi có thể tích hợp GroupDocs với các hệ thống khác không?**  
+   Có, nó hỗ trợ tích hợp với nhiều hệ thống CRM và nền tảng đám mây.  
+4. **Lợi ích của việc sử dụng giấy phép định mức là gì?**  
+   Giúp quản lý chi phí, tối ưu việc sử dụng tài nguyên, và cung cấp các giải pháp mở rộng.  
+5. **Tôi có thể tìm thêm tài nguyên về GroupDocs.Conversion cho Java ở đâu?**  
+   Truy cập [documentation](https://docs.groupdocs.com/conversion/java/) và [API reference](https://reference.groupdocs.com/conversion/java/).
 
 ## Tài nguyên
-- [Tài liệu](https://docs.groupdocs.com/conversion/java/)
-- [Tài liệu tham khảo API](https://reference.groupdocs.com/conversion/java/)
-- [Tải xuống GroupDocs](https://releases.groupdocs.com/conversion/java/)
-- [Mua giấy phép](https://purchase.groupdocs.com/buy)
-- [Dùng thử miễn phí](https://releases.groupdocs.com/conversion/java/)
-- [Giấy phép tạm thời](https://purchase.groupdocs.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.groupdocs.com/c/conversion/10)
+- [Documentation](https://docs.groupdocs.com/conversion/java/)
+- [API Reference](https://reference.groupdocs.com/conversion/java/)
+- [Download GroupDocs](https://releases.groupdocs.com/conversion/java/)
+- [Purchase License](https://purchase.groupdocs.com/buy)
+- [Free Trial](https://releases.groupdocs.com/conversion/java/)
+- [Temporary License](https://purchase.groupdocs.com/temporary-license/)
+- [Support Forum](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**Cập nhật lần cuối:** 2025-12-31  
+**Đã kiểm tra với:** GroupDocs.Conversion 25.2 cho Java  
+**Tác giả:** GroupDocs
