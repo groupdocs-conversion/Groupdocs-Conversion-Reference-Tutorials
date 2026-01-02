@@ -1,20 +1,19 @@
 ---
 date: '2026-01-02'
-description: GroupDocs を使用した CSV から PDF への Java 変換方法を学び、Shift_JIS エンコーディングの CSV から
-  PDF を生成し、日本語テキストの文字が正確に表示されるようにします。
+description: Tanulja meg, hogyan végezhet CSV‑ról PDF‑re Java konverziót a GroupDocs
+  segítségével, CSV‑ből PDF‑et generálhat Shift_JIS kódolással, és biztosíthatja a
+  japán szöveg pontos karaktermegjelenítését.
 keywords:
 - Convert CSV to PDF Java
 - GroupDocs Conversion Java
 - Shift_JIS Encoding
-title: CSV to PDF Java – GroupDocsでCSVをPDFに変換
+title: csv to pdf java – CSV konvertálása PDF-be a GroupDocs segítségével
 type: docs
-url: /ja/java/pdf-conversion/convert-csv-to-pdf-groupdocs-java-shift-jis/
+url: /hu/java/pdf-conversion/convert-csv-to-pdf-groupdocs-java-shift-jis/
 weight: 1
 ---
 
-# csv to pdf java – JavaでGroupDocsとShift_JISエンコーディングを使用してCSVをPDFに変換
-
-Converting a CSV file into a PDF while preserving the correct character set is a common requirement for many Java applications. In this tutorial you’ll learn **how to perform a csv to pdf java conversion** with GroupDocs.Conversion, ensuring that Shift_JIS‑encoded data (often used for Japanese text) is rendered correctly.
+# csv to pdf java – CSV konvertálása PDF-be Java-ban a GroupDocs segítségével Shift_JIS kódolással
 
 ## Quick Answers
 - **What library is needed?** GroupDocs.Conversion for Java (v25.2+).  
@@ -24,10 +23,10 @@ Converting a CSV file into a PDF while preserving the correct character set is a
 - **Is the code thread‑safe?** Each `Converter` instance is independent, so you can run conversions in parallel threads.
 
 ## What is csv to pdf java conversion?
-The process transforms plain‑text CSV data into a formatted PDF document. This is useful when you need a non‑editable, printable representation of tabular data, especially when the source contains special characters that must be preserved.
+A folyamat a egyszerű szöveges CSV adatokat egy formázott PDF dokumentummá alakítja. Ez akkor hasznos, ha egy nem szerkeszthető, nyomtatható táblázatos adatábrázolásra van szükség, különösen akkor, ha a forrás speciális karaktereket tartalmaz, amelyeket meg kell őrizni.
 
 ## Why generate pdf from csv with GroupDocs?
-GroupDocs handles a wide range of formats out‑of‑the‑box, offers fine‑grained control over loading options (such as character encoding), and produces high‑quality PDFs without requiring a full PDF library stack.
+A GroupDocs széles körű formátumot támogat „out‑of‑the‑box”, finomhangolt vezérlést biztosít a betöltési beállítások (például karakterkódolás) felett, és magas minőségű PDF-eket állít elő anélkül, hogy teljes PDF‑könyvtárra lenne szükség.
 
 ## Prerequisites
 
