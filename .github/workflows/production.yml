@@ -22,10 +22,20 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
 
     # Steps represent a sequence of conversion that will be executed as part of the job
     steps:
+      # Free up disk space
+      - name: Free Disk Space
+        run: |
+          sudo rm -rf /usr/share/dotnet
+          sudo rm -rf /opt/ghc
+          sudo rm -rf /usr/local/share/boost
+          sudo rm -rf "$AGENT_TOOLSDIRECTORY"
+          sudo apt-get clean
+          df -h
+          
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout
         uses: actions/checkout@v2
@@ -38,32 +48,43 @@ jobs:
           repository: groupdocs/tutorials-theme
           token: ${{ secrets.REPO_TOKEN }}
           fetch-depth: 0
-          path: themes/tutorials-theme      
+          path: themes/tutorials-theme
+      - name: Install Theme Dependencies
+        run: npm install
+        working-directory: ./themes/tutorials-theme      
       # Step 2 - Sets up the latest version of Hugo
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
-            hugo-version: '0.97.3'
+            hugo-version: 'latest'
             extended: true
       - name: Install Dependicies1
         run:  npm install -D --save autoprefixer
       - name: Install Dependicies2
         run:  npm install -D --save postcss-cli
+      - name: Install Dependicies3
+        run:  npm install -D postcss
       # Also specifies the theme we want to use
       - name: Build
         run: hugo --configDir config/conversion --environment production --minify
         
-      - name: Deploy apiqa-tutorials.groupdocs.com(tutorials-conversion)(family)(Production) to S3
-        run: hugo --configDir config/conversion --environment production deploy --target "Production" --maxDeletes 0
+      - name: Sync to Ceph S3
+        run: |
+          aws s3 sync ./public/ s3://tutorials-groupdocs-com/conversion/ \
+            --endpoint-url https://s3.dynabic.com \
+            --acl public-read \
+            --delete \
+            --exclude "*.map" \
+            --cache-control "public, max-age=3600"
         env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
-      # Invalidate Cloudfront
-      - name: invalidate
-        uses: chetan/invalidate-cloudfront-action@v2
-        env:
-          DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION_PROD }}
-          PATHS: /conversion/*
-          AWS_REGION: 'us-west-2'
-          AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.CEPH_S3_LIVE_ACCESS_KEY }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.CEPH_S3_LIVE_SECRET_KEY }}
+          AWS_DEFAULT_REGION: us-east-1
+          AWS_ENDPOINT_URL: https://s3-admin.dynabic.com
+
+      - name: Purge BunnyCDN Cache
+        run: |
+           curl -siG \
+            -H "X-Api-Key: ${{ secrets.BUNNY_API_KEY }}" \
+            --data-urlencode "url=https://tutorials.groupdocs.com/conversion" \
+            "https://api.dynabic.com/bn/purge?async=true"
