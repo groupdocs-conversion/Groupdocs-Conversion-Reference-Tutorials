@@ -22,7 +22,7 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
 
     # Steps represent a sequence of conversion that will be executed as part of the job
     steps:
@@ -44,7 +44,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-            hugo-version: '0.97.3'
+            hugo-version: 'latest'
             extended: true
       - name: Install Dependicies1
         run:  npm install -D --save autoprefixer
