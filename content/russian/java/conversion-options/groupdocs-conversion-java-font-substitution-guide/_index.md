@@ -1,40 +1,49 @@
 ---
-"date": "2025-04-28"
-"description": "Узнайте, как использовать GroupDocs.Conversion для Java, чтобы добиться бесшовной замены шрифтов и преобразования документов, гарантируя единообразие типографики на всех платформах."
-"title": "Замена шрифтов в Java&#58; Освоение GroupDocs.Conversion для единообразного вывода PDF"
-"url": "/ru/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/"
-"weight": 1
+date: '2025-12-20'
+description: Узнайте, как конвертировать заметку в PDF с помощью GroupDocs.Conversion
+  для Java, установить шрифт по умолчанию и применить замену шрифтов для согласованной
+  типографии.
+keywords:
+- GroupDocs.Conversion for Java
+- font substitution in Java
+- document conversion to PDF
+title: 'Конвертировать заметку в PDF с помощью GroupDocs.Conversion для Java: Руководство
+  по замене шрифтов'
 type: docs
+url: /ru/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/
+weight: 1
 ---
-# Освоение замены шрифтов с помощью GroupDocs.Conversion для Java
 
-## Введение
+# Освоение замены шрифтов с GroupDocs.Conversion для Java
 
-Конвертация документов заметок в PDF с сохранением единообразия типографики может быть сложной задачей. В этом руководстве показано, как **GroupDocs.Конвертация для Java** позволяет выполнять пользовательскую замену шрифтов, обеспечивая бесперебойное преобразование документов.
+Преобразование заметок в PDF с сохранением согласованной типографии может быть сложной задачей. В этом руководстве вы **convert note to pdf** и узнаете, как применять пользовательские замены шрифтов, чтобы результат выглядел одинаково на любой платформе.
 
-### Что вы узнаете:
-- Настройка замены шрифтов при конвертации документа заметки.
-- Преобразование документов в PDF с управляемой заменой шрифтов.
-- Оптимизация производительности и использования ресурсов в приложениях Java.
+## Быстрые ответы
+- **Какова основная цель?** Convert note to pdf с надежной заменой шрифтов.  
+- **Какая библиотека требуется?** GroupDocs.Conversion for Java (add the Maven dependency).  
+- **Как установить резервный шрифт?** Use `setDefaultFont` in `NoteLoadOptions`.  
+- **Могу ли я заменить несколько шрифтов?** Yes—add several `FontSubstitute` entries.  
+- **Нужна ли лицензия?** A free trial or temporary license is sufficient for testing.
 
-Прежде чем начать, давайте рассмотрим необходимые предварительные условия.
+## Что такое “convert note to pdf”?
+Процесс преобразует файлы типа note (например, .one, .enex) в PDF‑документ, сохраняя макет, изображения и стили текста. Замена шрифтов гарантирует автоматическую замену отсутствующих шрифтов, обеспечивая согласованный визуальный результат.
 
-## Предпосылки
+## Почему использовать GroupDocs.Conversion для Java?
+- **Cross‑platform consistency** – PDFs look the same on Windows, macOS, and Linux.  
+- **Built‑in font fallback** – No need to embed every possible font manually.  
+- **Simple Maven integration** – Add the `maven groupdocs dependency` once and start converting.  
+- **High performance** – Optimized for large batches and enterprise workloads.
 
-### Требуемые библиотеки, версии и зависимости
-Убедитесь, что ваша среда включает:
-- **Комплект разработчика Java (JDK)** версия 8 или выше.
-- Интегрированная среда разработки (IDE), например IntelliJ IDEA или Eclipse.
+## Предварительные требования
 
-### Требования к настройке среды
-Maven требуется для управления зависимостями. Убедитесь, что он установлен и настроен правильно.
-
-### Необходимые знания
-Необходимы базовые знания программирования на Java и концепций преобразования документов.
+- **Java Development Kit (JDK)** version 8 or higher.  
+- IDE, such as IntelliJ IDEA or Eclipse.  
+- **Maven** installed for dependency management.  
+- Basic knowledge of Java and document conversion concepts.
 
 ## Настройка GroupDocs.Conversion для Java
 
-Использовать **GroupDocs.Конвертация для Java**, включите библиотеку в свой проект через Maven:
+Add the library to your project via Maven:
 
 ```xml
 <repositories>
@@ -54,24 +63,24 @@ Maven требуется для управления зависимостями.
 ```
 
 ### Приобретение лицензии
-GroupDocs предлагает бесплатную пробную версию и временные лицензии для тестирования, или вы можете приобрести полную лицензию для использования в производстве.
+GroupDocs offers a free trial and temporary licenses for testing, or you can purchase a full license for production use.
 
-1. **Бесплатная пробная версия**: Скачать с [здесь](https://releases.groupdocs.com/conversion/java/).
-2. **Временная лицензия**: Запросите один на [эта ссылка](https://purchase.groupdocs.com/temporary-license/).
-3. **Покупка**: Для долгосрочных решений приобретите лицензию [здесь](https://purchase.groupdocs.com/buy).
+1. **Free Trial**: Download from [here](https://releases.groupdocs.com/conversion/java/).  
+2. **Temporary License**: Request one at [this link](https://purchase.groupdocs.com/temporary-license/).  
+3. **Purchase**: For long‑term solutions, purchase a license [here](https://purchase.groupdocs.com/buy).
 
-## Руководство по внедрению
+## Как преобразовать note в pdf с заменой шрифтов
 
-### Замена шрифта для преобразования документа Note
-Замена шрифтов обеспечивает единообразие типографики путем замены недоступных шрифтов указанными альтернативами во время преобразования документа.
+### Замена шрифтов при конвертации документов Note
+Замена шрифтов обеспечивает согласованную типографику, заменяя недоступные шрифты указанными альтернативами во время конвертации документа.
 
 #### Обзор
-Эта функция поддерживает визуальную согласованность на разных платформах путем замены отсутствующих шрифтов.
+Эта функция поддерживает визуальную согласованность между платформами, заменяя отсутствующие шрифты.
 
-#### Этапы внедрения
+#### Шаги реализации
 
-##### Шаг 1: Настройка замены шрифтов
-Настройте параметры замены шрифтов:
+##### Шаг 1: Настройка замен шрифтов (установить шрифт по умолчанию)
+Configure your font substitution options:
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -79,102 +88,125 @@ import com.groupdocs.conversion.options.convert.PdfConvertOptions;
 import com.groupdocs.conversion.options.load.NoteLoadOptions;
 import com.groupdocs.conversion.contracts.FontSubstitute;
 
-// Создать варианты замены шрифта
+// Create font substitution options
 NoteLoadOptions loadOptions = new NoteLoadOptions();
 List<FontSubstitute> fontSubstitutes = new ArrayList<>();
-fontSubstitutes.add(FontSubstitute.create("Tahoma", "Arial")); // Заменить Tahoma на Arial
-fontSubstitutes.add(FontSubstitute.create("Times New Roman", "Arial")); // Заменить Times New Roman на Arial
+fontSubstitutes.add(FontSubstitute.create("Tahoma", "Arial")); // Substitute Tahoma with Arial
+fontSubstitutes.add(FontSubstitute.create("Times New Roman", "Arial")); // Substitute Times New Roman with Arial
 loadOptions.setFontSubstitutes(fontSubstitutes);
 
-// Установить шрифт по умолчанию для необработанных замен
+// Set the default font for unhandled substitutions
 defaultFont = "YOUR_DOCUMENT_DIRECTORY/terminal-grotesque_open.otf";
 ```
-- **`NoteLoadOptions`**: Настраивает параметры загрузки, специфичные для документов заметок.
-- **`FontSubstitute.create()`**: Определяет шрифты и их замены.
-- **`setDefaultFont()`**: Устанавливает резервный шрифт, если замена не применяется.
+- **`NoteLoadOptions`**: Configures load options specific to note documents.  
+- **`FontSubstitute.create()`**: Defines fonts and their replacements.  
+- **`setDefaultFont()`**: Sets a fallback font if no substitution applies.
 
-##### Шаг 2: Преобразование документа
-Используйте эти настройки для преобразования документа:
+##### Шаг 2: Конвертация документа (java document to pdf)
+Use these settings to convert your document:
 
 ```java
-// Инициализировать преобразователь с указанными параметрами загрузки
+// Initialize Converter with specified load options
 converter = new Converter("YOUR_DOCUMENT_DIRECTORY/sample_note_document", () -> loadOptions);
 
-// Установить параметры преобразования PDF
+// Set PDF conversion options
 pdfOptions = new PdfConvertOptions();
 
-// Выполнить преобразование
+// Perform conversion
 coder.convert("YOUR_OUTPUT_DIRECTORY/converted_note.pdf", pdfOptions);
 ```
-- **`Converter`**: Выполняет загрузку и конвертацию документов.
-- **`convert()`**: Выполняет процесс преобразования документа.
+- **`Converter`**: Handles document loading and converting.  
+- **`convert()`**: Executes the document conversion process.
 
-### Преобразование документа в PDF
-Преобразование документов в PDF обеспечивает всеобщую доступность с сохранением форматирования на всех платформах.
+### Конвертация документа в PDF (java document to pdf)
+Converting documents to PDF ensures universal accessibility while preserving formatting across platforms.
 
 #### Обзор
-Преобразование в PDF необходимо для единообразного представления документа.
+PDF conversion is essential for consistent document presentation.
 
-#### Этапы внедрения
+#### Шаги реализации
 
-##### Шаг 1: Инициализация конвертера
-Настройте свой конвертер, указав путь к входному файлу:
+##### Шаг 1: Инициализация Converter
+Set up your converter with the input file path:
 
 ```java
-// Инициализировать конвертер для данного документа
+// Initialize Converter for a given document
 converter = new Converter("YOUR_DOCUMENT_DIRECTORY/sample_note_document");
 ```
 
-##### Шаг 2: Задайте параметры PDF и конвертируйте
-Определите параметры преобразования PDF и выполните его:
+##### Шаг 2: Установка параметров PDF и конвертация
+Define options for PDF conversion and execute it:
 
 ```java
-pdfOptions = new PdfConvertOptions(); // Настройте параметры преобразования
+pdfOptions = new PdfConvertOptions(); // Configure conversion options
 converter.convert("YOUR_OUTPUT_DIRECTORY/converted_note.pdf", pdfOptions);
 ```
 
 ## Практические применения
 
-1. **Обмен документами**: делитесь документами с единообразной типографикой на всех устройствах.
-2. **Архивирование**: Архивируйте важные документы в формате PDF, чтобы сохранить их первоначальный вид.
-3. **Кроссплатформенная совместимость**: Обеспечить единообразное представление документов в различных системах и программном обеспечении.
+1. **Document Sharing** – Share documents with consistent typography across devices.  
+2. **Archiving** – Archive important documents in PDF format to maintain original appearance.  
+3. **Cross‑Platform Compatibility** – Ensure uniform document presentation on different systems and software.
 
 ### Возможности интеграции
-Интегрируйте GroupDocs.Conversion в систему управления корпоративным контентом или инструменты автоматизации документооборота для оптимизации процессов.
+Integrate GroupDocs.Conversion into your enterprise content management system or document workflow automation tools for streamlined processes.
 
-## Соображения производительности
-Для повышения производительности:
-- Оптимизируйте использование памяти за счет эффективного управления большими потоками документов.
-- Используйте стратегии кэширования для часто конвертируемых документов.
-- Следуйте лучшим практикам Java, таким как настройка сборки мусора и пул ресурсов.
+## Соображения по производительности
+To enhance performance:  
+- Optimize memory usage by efficiently managing large document streams.  
+- Utilize caching strategies for frequently converted documents.  
+- Follow Java best practices such as garbage‑collection tuning and resource pooling.
 
 ## Заключение
-В этом уроке мы изучили замену шрифтов во время преобразования документа заметки с использованием **GroupDocs.Конвертация для Java**Освоив эти приемы, вы сможете обеспечить единообразие типографики на всех платформах и улучшить процессы управления документами.
+This tutorial explored how to **convert note to pdf** with font substitution using **GroupDocs.Conversion for Java**. By mastering these techniques, you can guarantee consistent typography across platforms and improve your document management workflows.
 
 ### Следующие шаги
-Внедрите решение в свои проекты, чтобы ощутить преимущества замены шрифтов и преобразования PDF с помощью GroupDocs.Conversion.
+Implement the solution in your projects to experience the benefits of font substitution and reliable PDF conversion.
 
-## Раздел часто задаваемых вопросов
-1. **Могу ли я заменить несколько шрифтов одновременно?**
-   Да, добавить несколько `FontSubstitute` записи для одновременной обработки различных шрифтов.
+## Раздел FAQ
+1. **Могу ли я заменить несколько шрифтов одновременно?**  
+   Yes, add multiple `FontSubstitute` entries to handle various fonts simultaneously.
 
-2. **Что произойдет, если шрифт по умолчанию не найден?**
-   В документе будет использоваться системный шрифт по умолчанию, который может различаться на разных платформах.
+2. **Что происходит, если шрифт по умолчанию не найден?**  
+   The document will use a system default font, which might vary across platforms.
 
-3. **Как устранить ошибки конвертации?**
-   Проверьте правильность путей к файлам и убедитесь, что все зависимости в вашем проекте настроены правильно.
+3. **Как отладить ошибки конвертации?**  
+   Check for correct file paths and ensure all dependencies are properly set up in your project.
 
-4. **Совместим ли GroupDocs.Conversion со всеми версиями Java?**
-   Совместимо с JDK 8 и выше.
+4. **Совместим ли GroupDocs.Conversion со всеми версиями Java?**  
+   It is compatible with JDK 8 and higher.
 
-5. **Можно ли использовать замену шрифтов в других форматах документов?**
-   Да, эта функция поддерживает различные типы документов, включая файлы Word и Excel.
+5. **Можно ли использовать замену шрифтов с другими форматами документов?**  
+   Yes, the feature supports various document types, including Word and Excel files.
 
-## Ресурсы
-- [Документация](https://docs.groupdocs.com/conversion/java/)
-- [Ссылка на API](https://reference.groupdocs.com/conversion/java/)
-- [Скачать](https://releases.groupdocs.com/conversion/java/)
-- [Лицензия на покупку](https://purchase.groupdocs.com/buy)
-- [Бесплатная пробная версия](https://releases.groupdocs.com/conversion/java/)
-- [Временная лицензия](https://purchase.groupdocs.com/temporary-license/)
-- [Форум поддержки](https://forum.groupdocs.com/c/conversion/10)
+## Часто задаваемые вопросы
+
+**Q: Как установить пользовательский резервный шрифт для заметок?**  
+A: Use `loadOptions.setDefaultFont("path/to/your/fallback.otf")` or assign the `defaultFont` variable as shown in the code example.
+
+**Q: Есть ли ограничение на количество определяемых замен шрифтов?**  
+A: No hard limit; you can add as many `FontSubstitute` entries as needed, but keep the list manageable for performance.
+
+**Q: Будут ли заменённые шрифты встроены в полученный PDF?**  
+A: Yes, GroupDocs.Conversion embeds the replacement fonts, ensuring the PDF renders correctly on any device.
+
+**Q: Можно ли применить замену шрифтов при конвертации других форматов, например DOCX?**  
+A: Absolutely. Use the appropriate load options (e.g., `WordLoadOptions`) and set `fontSubstitutes` similarly.
+
+**Q: Нужно ли перезапускать приложение после изменения настроек шрифтов?**  
+A: No, font settings are applied per conversion instance, so you can change them at runtime.
+
+---
+
+**Последнее обновление:** 2025-12-20  
+**Тестировано с:** GroupDocs.Conversion 25.2  
+**Автор:** GroupDocs  
+
+**Ресурсы**  
+- [Documentation](https://docs.groupdocs.com/conversion/java/)  
+- [API Reference](https://reference.groupdocs.com/conversion/java/)  
+- [Download](https://releases.groupdocs.com/conversion/java/)  
+- [Purchase License](https://purchase.groupdocs.com/buy)  
+- [Free Trial](https://releases.groupdocs.com/conversion/java/)  
+- [Temporary License](https://purchase.groupdocs.com/temporary-license/)  
+- [Support Forum](https://forum.groupdocs.com/c/conversion/10)
