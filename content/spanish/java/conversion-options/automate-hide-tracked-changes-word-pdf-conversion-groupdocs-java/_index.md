@@ -1,39 +1,45 @@
 ---
-"date": "2025-04-28"
-"description": "Aprenda a automatizar la ocultación de cambios registrados durante la conversión de Word a PDF con GroupDocs.Conversion para Java. Agilice la preparación de documentos."
-"title": "Automatizar la ocultación de cambios rastreados en la conversión de Word a PDF con GroupDocs.Conversion para Java"
-"url": "/es/java/conversion-options/automate-hide-tracked-changes-word-pdf-conversion-groupdocs-java/"
-"weight": 1
+date: '2025-12-19'
+description: Aprenda a usar opciones para ocultar los cambios controlados al convertir
+  documentos de Word a PDF con GroupDocs.Conversion para Java. Optimice la conversión
+  por lotes y garantice PDFs limpios.
+keywords:
+- automate hiding tracked changes
+- Word-to-PDF conversion
+- GroupDocs.Conversion for Java
+title: Cómo usar opciones para ocultar el control de cambios en Word‑PDF
 type: docs
+url: /es/java/conversion-options/automate-hide-tracked-changes-word-pdf-conversion-groupdocs-java/
+weight: 1
 ---
-# Ocultar automáticamente los cambios rastreados en la conversión de Word a PDF con GroupDocs.Conversion para Java
 
-## Introducción
+# Cómo usar opciones para ocultar cambios controlados en la conversión de Word‑PDF usando GroupDocs.Conversion para Java
 
-Convertir documentos de Word a PDF mientras se ocultan manualmente los cambios registrados puede ser tedioso, especialmente si manejas muchos documentos con frecuencia. Este tutorial te enseñará a automatizar esta tarea eficientemente usando **GroupDocs.Conversion para Java**Al finalizar esta guía, dominarás un método sencillo para convertir documentos de Word a PDF y ocultar automáticamente los cambios registrados.
+Convertir documentos Word a PDF mientras se ocultan manualmente los cambios controlados puede ser tedioso, especialmente cuando necesitas **convertir word to pdf** para muchos archivos a la vez. En este tutorial aprenderás **cómo usar opciones** para ocultar automáticamente los cambios controlados durante el proceso de conversión con GroupDocs.Conversion para Java. Al final, tendrás un PDF limpio y listo para producción sin marcas de edición restantes.
 
-### Lo que aprenderás:
-- Configuración de GroupDocs.Conversion para Java en su entorno.
-- Pasos para ocultar los cambios rastreados durante la conversión de Word a PDF.
-- Aplicaciones prácticas y posibilidades de integración.
-- Sugerencias para optimizar el rendimiento al gestionar archivos grandes.
+## Respuestas rápidas
+- **¿Qué hace “hide tracked changes”?** Elimina las marcas de revisión del PDF final automáticamente.  
+- **¿Qué biblioteca soporta esto?** GroupDocs.Conversion para Java ofrece una opción de carga dedicada.  
+- **¿Puedo convertir en lote archivos docx a pdf?** Sí – combina la opción con un bucle para procesar muchos documentos.  
+- **¿Qué versión de Java se requiere?** JDK 8 o superior.  
+- **¿Necesito una licencia?** Una prueba gratuita sirve para evaluación; se requiere una licencia permanente para producción.
 
-¡Comencemos con los requisitos previos necesarios para comenzar a utilizar esta poderosa biblioteca!
+## Qué significa “how to use options” en este contexto?
+Usar opciones significa configurar el motor de conversión (opciones de carga, opciones de conversión, etc.) antes de que se ejecute la conversión real. Esto te brinda un control granular, como ocultar cambios controlados, establecer el tamaño de página o definir la calidad de imagen.
 
-## Prerrequisitos
+## ¿Por qué ocultar los cambios controlados durante la conversión?
+- **Salida profesional** – los clientes reciben PDFs limpios sin ediciones visibles.  
+- **Cumplimiento legal** – elimina datos de revisión potencialmente sensibles.  
+- **Ahorro de tiempo** – elimina el paso manual de desactivar el seguimiento en Word.  
 
-Antes de sumergirnos en el tutorial, asegúrese de tener todo lo necesario:
-- **Kit de desarrollo de Java (JDK)**:JDK 8 o superior instalado.
-- **Experto**:Para administrar dependencias y construir su proyecto de manera eficiente.
-- Conocimientos básicos de programación Java.
-
-Con estos requisitos previos en su lugar, ¡configure GroupDocs.Conversion para Java para comenzar a convertir documentos sin esfuerzo!
+## Requisitos previos
+- **Java Development Kit (JDK)** 8 o más reciente.  
+- **Maven** para la gestión de dependencias.  
+- Conocimientos básicos de programación en Java.
 
 ## Configuración de GroupDocs.Conversion para Java
 
-Para usar GroupDocs.Conversion para Java, configure Maven para que incluya las dependencias necesarias. Así es como puede hacerlo:
-
-**Configuración de Maven:**
+Primero, agrega el repositorio de GroupDocs y la dependencia de conversión a tu `pom.xml` de Maven.
 
 ```xml
 <repositories>
@@ -52,119 +58,114 @@ Para usar GroupDocs.Conversion para Java, configure Maven para que incluya las d
 </dependencies>
 ```
 
-### Adquisición de licencias
+### Obtención de licencia
+- **Prueba gratuita** – Descarga la biblioteca desde [GroupDocs Releases](https://releases.groupdocs.com/conversion/java/).  
+- **Licencia temporal** – Solicita una clave temporal en [GroupDocs Temporary License](https://purchase.groupdocs.com/temporary-license/).  
+- **Compra** – Obtén una licencia completa a través de la [GroupDocs Purchase Page](https://purchase.groupdocs.com/buy).
 
-GroupDocs ofrece una prueba gratuita, una licencia temporal y opciones de compra:
+## Cómo usar opciones para ocultar cambios controlados
 
-1. **Prueba gratuita**:Descarga la biblioteca desde [Lanzamientos de GroupDocs](https://releases.groupdocs.com/conversion/java/) para probar sus funciones.
-2. **Licencia temporal**:Solicita una licencia temporal para acceso completo en [Licencia temporal de GroupDocs](https://purchase.groupdocs.com/temporary-license/).
-3. **Compra**:Para uso a largo plazo, compre una licencia a través de [Página de compra de GroupDocs](https://purchase.groupdocs.com/buy).
+A continuación se muestra la implementación paso a paso. Cada bloque de código se mantiene exactamente como se proporcionó originalmente.
 
-Una vez que su entorno esté configurado con GroupDocs.Conversion, pasemos a implementar las funciones principales.
-
-## Guía de implementación
-
-### Cómo ocultar los cambios registrados en la conversión de Word a PDF
-
-Esta función le permite convertir documentos sin que el PDF final tenga cambios registrados. Así es como puede implementarla:
-
-#### Paso 1: Configurar las opciones de carga
-Primero, configure las opciones de carga específicamente para documentos de procesamiento de Word.
+### Paso 1: Configurar opciones de carga
+Crea `WordProcessingLoadOptions` y habilita la bandera hide‑tracked‑changes.
 
 ```java
 import com.groupdocs.conversion.Converter;
 import com.groupdocs.conversion.options.convert.PdfConvertOptions;
 import com.groupdocs.conversion.options.load.WordProcessingLoadOptions;
 
-// Crear opciones de carga para ocultar los cambios rastreados
+// Create load options to hide tracked changes
 WordProcessingLoadOptions loadOptions = new WordProcessingLoadOptions();
-loadOptions.setHideWordTrackedChanges(true); // Ocultar los cambios rastreados durante la conversión
+loadOptions.setHideWordTrackedChanges(true); // Hide tracked changes during conversion
 ```
 
-#### Paso 2: Inicializar el convertidor con opciones de carga
+### Paso 2: Inicializar el convertidor con opciones de carga
+Pasa las opciones de carga al constructor de `Converter`.
 
 ```java
 String inputFile = "YOUR_DOCUMENT_DIRECTORY/SAMPLE_DOCX_WITH_TRACKED_CHANGES";
 String outputFile = "YOUR_OUTPUT_DIRECTORY/ConvertWordProcessingByHiddingTrackedChanges.pdf";
 
-// Cree un objeto Convertidor usando el archivo de entrada y las opciones de carga
+// Create a Converter object using the input file and load options
 Converter converter = new Converter(inputFile, () -> loadOptions);
 ```
 
-#### Paso 3: Configurar las opciones de conversión de PDF
+### Paso 3: Configurar opciones de conversión a PDF
+Puedes personalizar la salida PDF aquí; el ejemplo usa la configuración predeterminada.
 
 ```java
-PdfConvertOptions pdfOptions = new PdfConvertOptions(); // Personalice las opciones según sea necesario
-converter.convert(outputFile, pdfOptions); // Realizar la conversión
+PdfConvertOptions pdfOptions = new PdfConvertOptions(); // Customize options as needed
+converter.convert(outputFile, pdfOptions); // Perform the conversion
 ```
 
-### Cómo cargar un documento con opciones de carga personalizadas
+## Cargar un documento con opciones de carga personalizadas (Enfoque alternativo)
 
-Esta función muestra cómo cargar documentos con configuraciones personalizadas. A continuación, se explica cómo configurarla:
+Si prefieres reutilizar las mismas opciones para varios archivos, crea una instancia de convertidor dedicada.
 
-#### Paso 1: Definir las opciones de carga
-
+### Paso 1: Definir opciones de carga
 ```java
 WordProcessingLoadOptions wordLoadOptions = new WordProcessingLoadOptions();
-wordLoadOptions.setHideWordTrackedChanges(true); // Ejemplo de configuración de una opción específica
+wordLoadOptions.setHideWordTrackedChanges(true); // Example of setting a specific option
 ```
 
-#### Paso 2: Inicializar el convertidor con opciones de carga personalizadas
-
+### Paso 2: Inicializar el convertidor con opciones de carga personalizadas
 ```java
 Converter converterWithOptions = new Converter(inputFile, () -> wordLoadOptions);
-// Ahora la conversión se puede realizar utilizando el objeto `converterWithOptions`.
+// Conversion can now be performed using the `converterWithOptions` object.
 ```
 
 ## Aplicaciones prácticas
-
-A continuación se muestran algunas aplicaciones del mundo real para ocultar los cambios rastreados en la conversión de Word a PDF:
-
-1. **Gestión de documentos legales**:Convierta automáticamente borradores legales en archivos PDF limpios antes de compartirlos con los clientes.
-2. **Publicaciones académicas**:Preparar manuscritos eliminando ediciones antes de distribuirlos o enviarlos.
-3. **Informes comerciales**: Agilice la generación de informes, garantizando que solo se distribuya la versión final.
+1. **Gestión de documentos legales** – Produce automáticamente PDFs limpios para la revisión del cliente.  
+2. **Publicación académica** – Elimina marcas editoriales antes de la presentación a la revista.  
+3. **Informes empresariales** – Asegura que los informes finales no contengan revisiones sueltas.  
 
 ## Consideraciones de rendimiento
+- **Gestión de memoria** – Cierra los streams rápidamente y reutiliza instancias de `Converter` cuando sea posible.  
+- **API de streaming** – Usa streaming para archivos `.docx` muy grandes para mantener bajo el uso de RAM.  
+- **Procesamiento por lotes** – Recorre una lista de archivos reutilizando el mismo `loadOptions` para **batch convert docx pdf** de manera eficiente.
 
-Para garantizar un rendimiento óptimo al utilizar GroupDocs.Conversion:
-- Optimice el uso de la memoria administrando adecuadamente los recursos en sus aplicaciones Java.
-- Utilice API de transmisión para gestionar archivos grandes de manera eficiente.
-- Aproveche el procesamiento por lotes para gestionar varios documentos simultáneamente.
+## Problemas comunes y solución de errores
+- **Los cambios controlados siguen apareciendo** – Verifica que `setHideWordTrackedChanges(true)` se llame antes de crear el `Converter`.  
+- **La conversión falla en archivos grandes** – Incrementa el tamaño del heap de JVM o procesa los archivos en modo streaming.  
+- **Errores de licencia** – Asegúrate de que el archivo de licencia esté colocado correctamente y que el período de prueba no haya expirado.
+
+## Preguntas frecuentes
+
+**Q: ¿Puedo convertir documentos que no sean DOCX usando GroupDocs.Conversion?**  
+A: Sí, la biblioteca soporta PPTX, XLSX, PDF y muchos otros formatos.
+
+**Q: ¿Qué versiones de Java son compatibles con GroupDocs.Conversion?**  
+A: Se requiere JDK 8 o superior.
+
+**Q: ¿Cómo soluciono errores de conversión?**  
+A: Revisa el stack trace de la excepción, confirma que el archivo de entrada no esté corrupto y asegura que la licencia sea válida.
+
+**Q: ¿Es posible personalizar la salida PDF más allá de ocultar los cambios controlados?**  
+A: Absolutamente. Explora `PdfConvertOptions` para configuraciones como DPI, rango de páginas y marcas de agua.
+
+**Q: ¿Puede GroupDocs.Conversion manejar el procesamiento por lotes de manera eficiente?**  
+A: Sí, puedes iterar sobre los archivos reutilizando las mismas opciones de carga para **batch convert docx pdf** rápidamente.
 
 ## Conclusión
-
-Ya aprendió a usar GroupDocs.Conversion para Java para ocultar los cambios registrados durante la conversión de Word a PDF. Esta función agiliza la preparación de documentos, ahorrándole tiempo y esfuerzo en la edición manual.
+Ahora sabes **cómo usar opciones** para ocultar los cambios controlados al convertir documentos Word a PDF con GroupDocs.Conversion para Java. Este enfoque elimina pasos manuales, mejora la profesionalidad del documento y escala bien para operaciones por lotes.
 
 ### Próximos pasos
+- Integra el código en tu pipeline de procesamiento de documentos existente.  
+- Experimenta con `PdfConvertOptions` adicionales para afinar la salida PDF.  
+- Explora otras funciones de conversión de GroupDocs, como extracción de imágenes o conversión de formatos.
 
-Intente integrar estas funciones en sus proyectos existentes o explore otras funcionalidades proporcionadas por la biblioteca GroupDocs.
+---
 
-## Sección de preguntas frecuentes
+**Última actualización:** 2025-12-19  
+**Probado con:** GroupDocs.Conversion 25.2 for Java  
+**Autor:** GroupDocs  
 
-**P1: ¿Puedo convertir documentos que no sean DOCX usando GroupDocs.Conversion?**
-- Sí, admite una amplia gama de formatos, incluidos PPTX, XLSX y más.
-
-**P2: ¿Qué versiones de Java son compatibles con GroupDocs.Conversion?**
-- Requiere JDK 8 o superior.
-
-**P3: ¿Cómo puedo solucionar errores de conversión?**
-- Consulte la documentación para conocer los problemas comunes y asegurarse de que su configuración cumpla con todos los requisitos.
-
-**P4: ¿Hay alguna forma de personalizar aún más las opciones de salida de PDF?**
-- Sí, explorar `PdfConvertOptions` para configuraciones avanzadas como rango de páginas y ajustes de DPI.
-
-**Q5: ¿Puede GroupDocs.Conversion gestionar el procesamiento por lotes de manera eficiente?**
-- Por supuesto, está diseñado para administrar múltiples archivos de manera efectiva con un uso mínimo de recursos.
-
-## Recursos
-
-Para obtener más información y recursos sobre GroupDocs.Conversion:
-- **Documentación**: [Documentación de Java para la conversión de GroupDocs](https://docs.groupdocs.com/conversion/java/)
-- **Referencia de API**: [Referencia de la API de conversión de GroupDocs](https://reference.groupdocs.com/conversion/java/)
-- **Descargar**: [Obtenga la última versión](https://releases.groupdocs.com/conversion/java/)
-- **Compra**: [Comprar una licencia](https://purchase.groupdocs.com/buy)
-- **Prueba gratuita**: [Pruébalo](https://releases.groupdocs.com/conversion/java/)
-- **Licencia temporal**: [Solicitar aquí](https://purchase.groupdocs.com/temporary-license/)
-- **Foro de soporte**: [Únase a la discusión](https://forum.groupdocs.com/c/conversion/10)
-
-¡Comience a implementar esta solución hoy y agilice su proceso de conversión de documentos con GroupDocs.Conversion para Java!
+**Recursos**  
+- Documentación: [Documentación de GroupDocs Conversion Java](https://docs.groupdocs.com/conversion/java/)  
+- Referencia API: [Referencia API de GroupDocs Conversion](https://reference.groupdocs.com/conversion/java/)  
+- Descarga: [Obtener la última versión](https://releases.groupdocs.com/conversion/java/)  
+- Compra: [Comprar una licencia](https://purchase.groupdocs.com/buy)  
+- Prueba gratuita: [Pruébalo](https://releases.groupdocs.com/conversion/java/)  
+- Licencia temporal: [Solicitar aquí](https://purchase.groupdocs.com/temporary-license/)  
+- Foro de soporte: [Únete a la discusión](https://forum.groupdocs.com/c/conversion/10)
