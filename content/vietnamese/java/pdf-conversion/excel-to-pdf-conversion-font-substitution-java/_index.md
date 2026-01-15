@@ -1,45 +1,56 @@
 ---
-"date": "2025-04-28"
-"description": "Tìm hiểu cách chuyển đổi tệp Excel sang PDF trong khi thay thế phông chữ bằng GroupDocs.Conversion cho Java, đảm bảo kiểu chữ nhất quán trên các tài liệu."
-"title": "Chuyển đổi Excel sang PDF trong Java bằng cách sử dụng Font Substitution sử dụng GroupDocs.Conversion"
-"url": "/vi/java/pdf-conversion/excel-to-pdf-conversion-font-substitution-java/"
-"weight": 1
+date: '2026-01-15'
+description: Tìm hiểu cách chuyển đổi Excel sang PDF trong Java, mỗi sheet thành một
+  trang và thay thế phông chữ bằng GroupDocs.Conversion, đảm bảo tính đồng nhất của
+  kiểu chữ.
+keywords:
+- Excel to PDF conversion
+- Java font substitution
+- GroupDocs.Conversion setup
+title: Một trang mỗi tờ – Chuyển Excel sang PDF trong Java, Thay thế phông chữ
 type: docs
+url: /vi/java/pdf-conversion/excel-to-pdf-conversion-font-substitution-java/
+weight: 1
 ---
-# Chuyển đổi Excel sang PDF trong Java bằng cách sử dụng Font Substitution sử dụng GroupDocs.Conversion
 
-## Giới thiệu
+# Một Trang mỗi Sheet – Excel sang PDF trong Java, Thay Thế Phông Chữ
 
-Việc duy trì kiểu chữ nhất quán khi chuyển đổi bảng tính Excel thành PDF có thể là một thách thức. Hướng dẫn này trình bày cách sử dụng **GroupDocs.Conversion cho Java** để chuyển đổi liền mạch các tệp Excel sang PDF, bao gồm thay thế phông chữ. Lý tưởng cho các nhà phát triển và chuyên gia kinh doanh tập trung vào các giải pháp quản lý tài liệu hoặc tự động tạo báo cáo.
+Việc duy trì kiểu chữ nhất quán khi chuyển đổi bảng tính Excel sang PDF có thể gặp khó khăn, đặc biệt khi bạn cần **một trang mỗi sheet**. Hướng dẫn này sẽ chỉ cho bạn cách **chuyển đổi Excel sang PDF** trong Java đồng thời áp dụng một trang mỗi sheet và thay thế các phông chữ thiếu bằng **GroupDocs.Conversion**. Khi hoàn thành, bạn sẽ có một giải pháp đáng tin cậy giúp giữ kiểu chữ nhất quán trên mọi nền tảng và đơn giản hoá quy trình tài liệu.
 
-### Những gì bạn sẽ học được:
-- Thiết lập và sử dụng GroupDocs.Conversion cho Java.
-- Thay thế phông chữ trong quá trình chuyển đổi Excel sang PDF.
-- Cấu hình cài đặt để tối ưu hóa chuyển đổi.
-- Xử lý sự cố thường gặp.
+## Câu trả lời nhanh
+- **“Một trang mỗi sheet” có nghĩa là gì?** Mỗi worksheet được hiển thị trên một trang PDF duy nhất.  
+- **Thư viện nào thực hiện việc chuyển đổi?** GroupDocs.Conversion cho Java.  
+- **Tôi có thể tự động thay thế các phông chữ thiếu không?** Có, bằng tính năng FontSubstitute.  
+- **Tôi có cần giấy phép không?** Cần một giấy phép tạm thời để sử dụng đầy đủ các chức năng.  
+- **Phương pháp này có phù hợp với các workbook lớn không?** Có, với việc tinh chỉnh bộ nhớ JVM phù hợp.  
 
-Chúng ta hãy chuyển sang các điều kiện tiên quyết cần thiết trước khi bắt đầu.
+## Yêu cầu trước
 
-## Điều kiện tiên quyết
+Trước khi triển khai mã, hãy đảm bảo bạn có những thứ sau:
 
-Trước khi triển khai mã, hãy đảm bảo bạn có những điều sau:
-
-### Thư viện và phụ thuộc bắt buộc
+### Thư viện và phụ thuộc cần thiết
 Đảm bảo bạn có thư viện GroupDocs.Conversion phiên bản 25.2 trở lên, có thể quản lý bằng Maven.
 
 ### Yêu cầu thiết lập môi trường
-- Bộ công cụ phát triển Java (JDK) được cài đặt trên máy của bạn.
+- Java Development Kit (JDK) đã được cài đặt trên máy của bạn.  
 - Một IDE như IntelliJ IDEA hoặc Eclipse để viết và chạy mã Java.
 
-### Điều kiện tiên quyết về kiến thức
-Hiểu biết cơ bản về lập trình Java, quản lý thư viện thông qua Maven và các khái niệm chuyển đổi tệp sẽ có lợi nhưng không hoàn toàn cần thiết. Bây giờ, hãy tiến hành thiết lập GroupDocs.Conversion trong dự án của bạn.
+### Kiến thức nền tảng
+Hiểu biết cơ bản về lập trình Java, quản lý thư viện qua Maven và các khái niệm chuyển đổi tệp sẽ có ích nhưng không bắt buộc.  
 
-## Thiết lập GroupDocs.Conversion cho Java
+Bây giờ chúng ta đã sẵn sàng, hãy bắt đầu thực hiện.
 
-Để sử dụng **GroupDocs.Chuyển đổi** để chuyển đổi Excel sang PDF, hãy làm theo các bước sau:
+## Tại sao nên sử dụng GroupDocs.Conversion Java cho Excel sang PDF?
+
+* **One page per sheet** rendering đảm bảo phân trang dự đoán được.  
+* **Font substitution** đảm bảo PDF hiển thị giống nhau trên mọi hệ thống, ngay cả khi phông chữ gốc thiếu.  
+* Hỗ trợ **convert excel to pdf** cho nhiều tính năng của Excel (biểu đồ, công thức, định dạng).  
+* Hoàn toàn có thể lập trình bằng Java, làm cho nó trở thành lựa chọn lý tưởng cho các pipeline tự động **excel to pdf java**.  
+
+## Cài đặt GroupDocs.Conversion cho Java
 
 ### Cấu hình Maven
-Đầu tiên, hãy thêm kho lưu trữ và thông tin phụ thuộc cần thiết vào `pom.xml` tài liệu:
+Đầu tiên, thêm thông tin repository và dependency cần thiết vào tệp `pom.xml` của bạn:
 
 ```xml
 <repositories>
@@ -59,11 +70,11 @@ Hiểu biết cơ bản về lập trình Java, quản lý thư viện thông qu
 </dependencies>
 ```
 
-### Mua lại giấy phép
-Xin giấy phép tạm thời từ [NhómDocs](https://purchase.groupdocs.com/temporary-license/) để có quyền truy cập đầy đủ vào các tính năng trong thời gian đánh giá.
+### Cấp phép
+Lấy giấy phép tạm thời từ [GroupDocs](https://purchase.groupdocs.com/temporary-license/) để truy cập đầy đủ các tính năng trong thời gian đánh giá.
 
 ### Khởi tạo và thiết lập cơ bản
-Sau khi cấu hình Maven, hãy khởi tạo GroupDocs.Conversion trong ứng dụng Java của bạn:
+Sau khi cấu hình Maven, khởi tạo GroupDocs.Conversion trong ứng dụng Java của bạn:
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -74,64 +85,63 @@ public class ConvertExcelToPDF {
         String inputDocument = "sample.xlsx";
         String convertedFile = "output.pdf";
 
-        // Khởi tạo đối tượng Converter với đường dẫn tài liệu của bạn
+        // Initialize the Converter object with your document path
         Converter converter = new Converter(inputDocument);
 
         PdfConvertOptions options = new PdfConvertOptions();
         
-        // Thực hiện chuyển đổi
+        // Perform the conversion
         converter.convert(convertedFile, options);
     }
 }
 ```
 
-## Hướng dẫn thực hiện
+## Hướng dẫn triển khai – Thay thế phông chữ với một trang mỗi sheet
 
-Phần này bao gồm việc chuyển đổi các tệp Excel sang PDF trong khi thay thế phông chữ. Điều này đảm bảo tính nhất quán về mặt hình ảnh khi phông chữ gốc không khả dụng.
+Phần này đề cập đến việc chuyển đổi tệp Excel sang PDF đồng thời thay thế phông chữ. Điều này đảm bảo tính nhất quán về hình ảnh khi phông chữ gốc không có.
 
-### Tổng quan về tính năng thay thế phông chữ
-GroupDocs.Conversion cho phép xác định các phông chữ thay thế cụ thể trong quá trình chuyển đổi, duy trì giao diện trên nhiều hệ thống khác nhau.
-
-#### Bước 1: Xác định Đường dẫn Đầu vào và Đầu ra
-Xác định đường dẫn tệp Excel đầu vào và đường dẫn tệp PDF đầu ra mong muốn:
+### Bước 1: Xác định đường dẫn đầu vào và đầu ra
+Xác định đường dẫn tệp Excel đầu vào và đường dẫn PDF đầu ra mong muốn:
 
 ```java
 String inputDocument = "YOUR_DOCUMENT_DIRECTORY/sample.xlsx";
 String convertedFile = "YOUR_OUTPUT_DIRECTORY/ConvertSpreadsheetBySpecifyingFontsubstitution.pdf";
 ```
 
-#### Bước 2: Thiết lập Tùy chọn Tải với Thay thế Phông chữ
-Tạo một `SpreadsheetLoadOptions` đối tượng để cấu hình cài đặt chuyển đổi, chỉ định thay thế phông chữ:
+### Bước 2: Thiết lập tùy chọn tải với việc thay thế phông chữ
+Tạo một đối tượng `SpreadsheetLoadOptions` để cấu hình các thiết lập chuyển đổi, chỉ định các thay thế phông chữ:
 
 ```java
 import com.groupdocs.conversion.options.load.SpreadsheetLoadOptions;
 import com.groupdocs.conversion.contracts.FontSubstitute;
 
 List<FontSubstitute> fontSubstitutes = new ArrayList<>();
-fontSubstitutes.add(FontSubstitute.create("Tahoma", "Arial")); // Thay thế Tahoma bằng Arial
-fontSubstitutes.add(FontSubstitute.create("Times New Roman", "Arial")); // Thay thế Times New Roman bằng Arial
+fontSubstitutes.add(FontSubstitute.create("Tahoma", "Arial")); // Substitute Tahoma with Arial
+fontSubstitutes.add(FontSubstitute.create("Times New Roman", "Arial")); // Substitute Times New Roman with Arial
 
 SpreadsheetLoadOptions loadOptions = new SpreadsheetLoadOptions();
 loadOptions.setFontSubstitutes(fontSubstitutes);
 ```
 
-#### Bước 3: Cấu hình Phông chữ mặc định và Chuyển đổi một trang
-Đặt phông chữ mặc định làm phông chữ dự phòng, đảm bảo mỗi trang tính được chuyển đổi thành một trang PDF:
+### Bước 3: Cấu hình phông chữ mặc định và **One Page per Sheet**
+Đặt một phông chữ mặc định làm dự phòng, và bật tùy chọn *one page per sheet* để đảm bảo mỗi worksheet chiếm một trang PDF duy nhất:
 
 ```java
 loadOptions.setDefaultFont("resources/fonts/Helvetica.ttf");
 loadOptions.setOnePagePerSheet(true);
 ```
 
-#### Bước 4: Khởi tạo Bộ chuyển đổi với Tùy chọn tải
-Chuyển các tùy chọn tải cho bạn `Converter` sự vật:
+> **Mẹo chuyên nghiệp:** Bật `setOnePagePerSheet(true)` là cần thiết khi bạn cần phân trang dự đoán được cho báo cáo hoặc hoá đơn.
+
+### Bước 4: Khởi tạo Converter với các tùy chọn tải
+Chuyển các tùy chọn tải vào đối tượng `Converter` của bạn:
 
 ```java
 Converter converter = new Converter(inputDocument, () -> loadOptions);
 ```
 
-#### Bước 5: Xác định Tùy chọn Chuyển đổi PDF và Chuyển đổi
-Chỉ định định dạng chuyển đổi và thực hiện quy trình:
+### Bước 5: Định nghĩa tùy chọn chuyển đổi PDF và thực hiện chuyển đổi
+Xác định định dạng chuyển đổi và thực thi quá trình:
 
 ```java
 PdfConvertOptions options = new PdfConvertOptions();
@@ -139,41 +149,55 @@ converter.convert(convertedFile, options);
 ```
 
 ### Mẹo khắc phục sự cố
-- **Phông chữ bị thiếu**: Đảm bảo phông chữ thay thế được cài đặt trên hệ thống của bạn.
-- **Đường dẫn không chính xác**: Kiểm tra đường dẫn tệp cho tài liệu đầu vào và đầu ra.
+- **Missing Fonts:** Đảm bảo các phông chữ thay thế đã được cài đặt trên hệ thống của bạn hoặc được đóng gói cùng ứng dụng.  
+- **Incorrect Paths:** Kiểm tra lại các đường dẫn tệp cho tài liệu đầu vào và đầu ra; các đường dẫn tương đối nên được giải quyết từ thư mục gốc của dự án.  
 
-## Ứng dụng thực tế
-Việc thay thế phông chữ trong quá trình chuyển đổi có một số ứng dụng thực tế:
-1. **Báo cáo kinh doanh**: Trình bày báo cáo tài chính nhất quán trên nhiều nền tảng.
-2. **Tài liệu pháp lý**: Duy trì giao diện trong các tệp PDF được chia sẻ.
-3. **Xuất bản học thuật**: Chuẩn hóa phông chữ cho các bài báo và bài thuyết trình.
-4. **Tài liệu tiếp thị**: Tờ rơi tiếp thị hoặc bản tin thống nhất.
-5. **Công cụ cộng tác**: Tinh giản hệ thống quản lý tài liệu.
+## Ứng dụng thực tiễn
 
-## Cân nhắc về hiệu suất
-Để tối ưu hóa hiệu suất:
-- Sử dụng cách xử lý tệp hiệu quả để giảm thiểu việc sử dụng bộ nhớ.
-- Cấu hình cài đặt JVM để phân bổ tài nguyên tốt hơn.
-- Áp dụng các biện pháp quản lý bộ nhớ Java tốt nhất khi làm việc với các tài liệu lớn.
+Việc thay thế phông chữ và chuyển đổi một‑trang‑mỗi‑sheet có giá trị trong nhiều tình huống thực tế:
 
-## Phần kết luận
-Hướng dẫn này chỉ cho bạn cách chuyển đổi tệp Excel sang PDF bằng cách thay thế phông chữ bằng GroupDocs.Conversion for Java, đảm bảo kiểu chữ nhất quán trên các quy trình làm việc của tài liệu. Khám phá thêm các tính năng của GroupDocs.Conversion và áp dụng chúng vào các định dạng khác khi cần.
+1. **Business Reporting:** Trình bày báo cáo tài chính nhất quán trên mọi nền tảng.  
+2. **Legal Documentation:** Duy trì giao diện trong các PDF chia sẻ cho hợp đồng.  
+3. **Academic Publishing:** Chuẩn hoá phông chữ cho bài báo và bản trình bày.  
+4. **Marketing Materials:** Brochure hoặc bản tin đồng nhất khi được tạo từ bảng tính.  
+5. **Collaboration Tools:** Tinh giản hệ thống quản lý tài liệu dựa trên bản xem trước PDF.  
+
+## Các cân nhắc về hiệu năng
+
+Để tối ưu hiệu năng khi chuyển đổi các workbook lớn:
+
+- Sử dụng streaming I/O để giảm lượng bộ nhớ tiêu thụ.  
+- Tinh chỉnh kích thước heap JVM (`-Xmx`) dựa trên kích thước tài liệu.  
+- Tái sử dụng một thể hiện `Converter` duy nhất cho các chuyển đổi hàng loạt khi có thể.  
+
+## Câu hỏi thường gặp
+
+**Q: GroupDocs.Conversion Java được dùng để làm gì?**  
+A: Đó là một thư viện để chuyển đổi các định dạng tài liệu khác nhau—bao gồm Excel sang PDF—với các thiết lập tùy chỉnh như thay thế phông chữ và một trang mỗi sheet.
+
+**Q: Tôi có thể sử dụng GroupDocs.Conversion mà không mua giấy phép không?**  
+A: Có, bản dùng thử miễn phí hoặc giấy phép tạm thời cho phép bạn khám phá tất cả các tính năng trước khi quyết định mua giấy phép trả phí.
+
+**Q: Làm thế nào để xử lý các phông chữ thiếu trong quá trình chuyển đổi?**  
+A: Định nghĩa các phông chữ thay thế bằng các đối tượng `FontSubstitute` trong `SpreadsheetLoadOptions`; thư viện sẽ tự động thay thế các phông chữ không có.
+
+**Q: Những thực hành tốt nhất để tối ưu hiệu năng Java với GroupDocs.Conversion là gì?**  
+A: Quản lý bộ nhớ hiệu quả, cấu hình JVM phù hợp, và xử lý tệp qua streams giúp duy trì hiệu năng cao.
+
+**Q: Tùy chọn “one page per sheet” có ảnh hưởng đến việc hiển thị biểu đồ không?**  
+A: Không, biểu đồ được thu phóng để vừa một trang trong khi vẫn giữ nguyên độ trung thực hình ảnh.
+
+## Kết luận
+
+Bạn hiện đã có một phương pháp hoàn chỉnh, sẵn sàng cho môi trường sản xuất để **chuyển đổi Excel sang PDF** trong Java với **một trang mỗi sheet** và **thay thế phông chữ** tự động bằng GroupDocs.Conversion. Cách tiếp cận này đảm bảo kiểu chữ nhất quán, phân trang dự đoán được và tích hợp mượt mà vào các pipeline tài liệu tự động.
 
 ### Các bước tiếp theo
-- Thử nghiệm với nhiều tùy chọn chuyển đổi khác nhau.
-- Tích hợp với các hệ thống như Aspose.Cells để có thêm nhiều chức năng.
+- Thử nghiệm các `PdfConvertOptions` bổ sung (ví dụ, tuân thủ PDF/A).  
+- Kết hợp giải pháp này với GroupDocs.Annotation để chỉnh sửa sau khi chuyển đổi.  
+- Khám phá các định dạng nguồn khác (Word, PowerPoint) bằng cùng mẫu.  
 
-Bạn đã sẵn sàng triển khai giải pháp này vào dự án tiếp theo của mình chưa?
+---
 
-## Phần Câu hỏi thường gặp
-**1. GroupDocs.Conversion for Java được sử dụng để làm gì?**
-   - Một thư viện để chuyển đổi nhiều định dạng tài liệu khác nhau, bao gồm Excel và PDF, với các cài đặt có thể tùy chỉnh như thay thế phông chữ.
-
-**2. Tôi có thể sử dụng GroupDocs.Conversion mà không cần mua giấy phép không?**
-   - Có, bạn có thể dùng thử miễn phí hoặc mua bản quyền tạm thời để khám phá các tính năng trước khi mua.
-
-**3. Tôi phải xử lý thế nào khi thiếu phông chữ trong quá trình chuyển đổi?**
-   - Xác định các chất thay thế bằng cách sử dụng `FontSubstitute` các đối tượng trong tùy chọn tải để có kiểu chữ nhất quán.
-
-**4. Một số biện pháp tốt nhất để tối ưu hóa hiệu suất Java với GroupDocs.Conversion là gì?**
-   - Quản lý bộ nhớ hiệu quả và cấu hình JVM có thể cải thiện hiệu suất đáng kể.
+**Cập nhật lần cuối:** 2026-01-15  
+**Được kiểm thử với:** GroupDocs.Conversion 25.2  
+**Tác giả:** GroupDocs
