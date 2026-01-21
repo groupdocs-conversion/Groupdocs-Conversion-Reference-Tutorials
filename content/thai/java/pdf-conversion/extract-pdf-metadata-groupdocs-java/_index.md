@@ -1,38 +1,30 @@
 ---
 date: '2026-01-21'
-description: GroupDocs Conversion Java를 사용하여 PDF 메타데이터를 추출하는 방법을 배우세요. 여기에는 저자 정보,
-  페이지 수 및 암호화 상태가 포함됩니다.
+description: เรียนรู้วิธีดึงข้อมูลเมตาดาต้า PDF ด้วย GroupDocs Conversion Java รวมถึงรายละเอียดผู้เขียน
+  จำนวนหน้า และสถานะการเข้ารหัส
 keywords:
 - extract PDF metadata
 - GroupDocs.Conversion for Java
 - Java PDF metadata extraction
-title: GroupDocs Conversion Java를 사용하여 PDF 메타데이터 추출하는 방법
+title: วิธีสกัดข้อมูลเมตาดาต้า PDF ด้วย GroupDocs Conversion Java
 type: docs
-url: /ko/java/pdf-conversion/extract-pdf-metadata-groupdocs-java/
+url: /th/java/pdf-conversion/extract-pdf-metadata-groupdocs-java/
 weight: 1
 ---
 
-# How to Extract PDF Metadata Using GroupDocs Conversion Java
+# วิธีการดต้องการทั่วไปเมื่อสร้างโซลูธิบายขั้นตอนการตั้งค่า, โค้ด, และกรณคุณเริ่มใช้เมตาดาต้าในแอปพลิเคชันของคุณได้ทันที
 
-PDF 메타데이터를 추출하는 것은 문서 관리 또는 분석 솔루션을 구축할 때 흔히 요구되는 작업입니다. 이 튜토리얼에서는 **groupdocs conversion java**를 사용해 Java로 PDF 파일에서 저자, 제목, 페이지 수, 암호화 상태와 같은 필수 정보를 어떻게 가져오는지 배웁니다. 설정, 코드, 실제 사용 사례를 단계별로 살펴보며 메타데이터를 애플리케이션에 바로 활용할 수 있도록 합니다.
+## คำตอบอย่างรวดเร็ว
+- **GroupDocs Conversion Java ทำอะไร?** มันให้ API ที่ง่ายต่อการอ่าน, แปลง, และตรวจสอบเอกสาร รวมถึงเมตาดาต้า PDF.  
+- **ฉันสามารถดึงเมตาดาต้าอะไรได้บ้างเรื่อง, วันที่สร้าง, จำนวนหน้า, ขนาด, สถานะการเข้ารหัส, และอื่น ๆ.  
+- **ฉันต้องมีใบอนุญาตหรือไม่?** มีการทดลองใช้ฟรี; จำเป็นต้องมีใบ- **รองรับ Java 8+ หรือไม่?** ใช่, ทำงานกับ JDK 8 และเวอร์ชันใหม่กว่า.  
+- **สามารถจัดการ PDF ที่มีรหัสผ่านได้หรือไม่?** ใช่—ใช้ `isPasswordProtected()` เพื่อตรวจจับการเข้ารหัสก่อนทำการประมวลผล.
 
-## Quick Answers
-- **What does GroupDocs Conversion Java do?** It provides a simple API to read, convert, and inspect documents, including PDF metadata.  
-- **Which metadata can I extract?** Author, title, creation date, page count, dimensions, encryption status, and more.  
-- **Do I need a license?** A free trial is available; a commercial license is required for production use.  
-- **Is it compatible with Java 8+?** Yes, it works with JDK 8 and newer versions.  
-- **Can I handle password‑protected PDFs?** Yes—use `isPasswordProtected()` to detect encryption before processing.
-
-## What is GroupDocs Conversion Java?
-GroupDocs Conversion Java는 개발자가 다양한 문서 형식을 프로그래밍 방식으로 다룰 수 있게 해주는 라이브러리입니다. 파일 파싱의 복잡성을 추상화하여 메타데이터 추출, 파일 변환, 미리보기 생성 등 비즈니스 로직에 집중할 수 있도록 합니다.
-
-## Why extract PDF metadata with GroupDocs Conversion Java?
-- **Automate document classification** by reading author or title fields.  
-- **Enforce security policies** by checking if a PDF is password‑protected before opening it.  
-- **Generate analytics** such as total page counts (`pdf page count java`) across large document repositories.  
+## GroupDocs Conversion Java คืออะไร?
+GroupDocs Conversion Java เป็นไลบรารีที่ช่วยให้นักพัฒนาสามารถทำงานกับรูปแบบเอกสารที่หลากธรรม้นที่ตรรกะธุรกิจ เช่น การดึงเมตาดาต้า, การแปลงไฟล์, หรือการสร้างตัวอย่างภาพ large document repositories.  
 - **Simplify integration**—the same API works for Word, Excel, and other formats, so you can reuse code.
 
-## Prerequisites
+## ข้อกำหนดเบื้องต้น
 - Java Development Kit (JDK) 8 or higher.  
 - Maven for dependency management.  
 - An IDE like IntelliJ IDEA or Eclipse (optional but recommended).  
@@ -59,10 +51,10 @@ Add the GroupDocs repository and dependency to your Maven `pom.xml`:
 </dependencies>
 ```
 
-### License Acquisition
+### การรับใบอนุญาต
 GroupDocs offers a free trial, temporary evaluation licenses, and full production licenses. You can start with their [free trial](https://releases.groupdocs.com/conversion/java/) to explore the features.
 
-### Basic Initialization
+### การเริ่มต้นพื้นฐาน
 Create a simple Java class to initialize the `Converter`:
 
 ```java
@@ -87,7 +79,7 @@ Below is a step‑by‑step walkthrough of how to pull metadata from a PDF.
 ```java
 Converter converter = new Converter("YOUR_DOCUMENT_DIRECTORY/SAMPLE_PDF");
 ```
-*Purpose:* Sets up the conversion engine and loads the target PDF.
+*วัตถุประสงค์:* ตั้งค่าเอนจินการแปลงและโหลด PDF เป้าหมาย.
 
 #### Step 2: Retrieve General Document Information
 ```java
@@ -95,7 +87,7 @@ import com.groupdocs.conversion.contracts.documentinfo.IDocumentInfo;
 
 IDocumentInfo info = converter.getDocumentInfo();
 ```
-*Purpose:* Gives you a format‑agnostic view of the document's core properties.
+*วัตถุประสงค์:* ให้มุมมองที่ไม่ขึ้นกับรูปแบบของคุณสมบัติหลักของเอกสาร.
 
 #### Step 3: Cast Information to `PdfDocumentInfo`
 ```java
@@ -103,7 +95,7 @@ import com.groupdocs.conversion.contracts.documentinfo.PdfDocumentInfo;
 
 PdfDocumentInfo pdfInfo = (PdfDocumentInfo) info;
 ```
-*Purpose:* Exposes PDF‑specific attributes such as page dimensions and encryption.
+*วัตถุประสงค์:* เปิดเผยแอตทริบิวต์เฉพาะของ PDF เช่น ขนาดหน้าและการเข้ารหัส.
 
 #### Step 4: Access and Utilize Document Properties
 ```java
@@ -119,7 +111,7 @@ boolean isEncrypted = pdfInfo.isPasswordProtected(); // Check if the document is
 
 // Use these properties as needed, such as logging or displaying in a UI.
 ```
-*Purpose:* These fields let you **read pdf properties java** and make decisions based on the document’s characteristics.
+*วัตถุประสงค์:* ฟิลด์เหล่านี้ทำให้คุณ **read pdf properties java** และตัดสินใจตามลักษณะของเอกสาร.
 
 ### Troubleshooting Tips
 - Verify the PDF path is correct and the file is accessible.  
@@ -181,6 +173,6 @@ A: Yes, you can access custom metadata via the `getCustomProperties()` method on
 
 ---
 
-**Last Updated:** 2026-01-21  
-**Tested With:** GroupDocs.Conversion 25.2 for Java  
-**Author:** GroupDocs
+**อัปเดตล่าสุด:** 2026-01-21  
+**ทดสอบด้วย:** GroupDocs.Conversion 25.2 for Java  
+**ผู้เขียน:** GroupDocs

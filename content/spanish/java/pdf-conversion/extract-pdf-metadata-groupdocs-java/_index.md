@@ -1,44 +1,41 @@
 ---
-"date": "2025-04-28"
-"description": "Aprenda a extraer metadatos de archivos PDF de forma eficiente, como información del autor, número de páginas y estado de cifrado, con GroupDocs.Conversion para Java. Ideal para sistemas de gestión documental."
-"title": "Cómo extraer metadatos de PDF con GroupDocs.Conversion en Java"
-"url": "/es/java/pdf-conversion/extract-pdf-metadata-groupdocs-java/"
-"weight": 1
+date: '2026-01-21'
+description: Aprende a extraer los metadatos de PDF usando GroupDocs Conversion Java,
+  incluyendo detalles del autor, recuento de páginas y estado de cifrado.
+keywords:
+- extract PDF metadata
+- GroupDocs.Conversion for Java
+- Java PDF metadata extraction
+title: Cómo extraer metadatos de PDF usando GroupDocs Conversion Java
 type: docs
+url: /es/java/pdf-conversion/extract-pdf-metadata-groupdocs-java/
+weight: 1
 ---
-# Cómo extraer metadatos de PDF con GroupDocs.Conversion en Java
 
-## Introducción
+# Cómo extraer metadatos PDF usando GroupDocs Conversion Java
 
-¿Busca extraer eficientemente información básica, como datos del autor, número de páginas y estado de cifrado, de un documento PDF con Java? Con la creciente necesidad de gestionar documentos digitales, la capacidad de recuperar metadatos rápidamente resulta invaluable. Este tutorial le guiará en la recuperación de atributos PDF esenciales con GroupDocs.Conversion para Java.
+Extraer metadatos PDF es un requisito común al crear soluciones de gestión de documentos o analítica. En este tutorial, aprenderá cómo **groupdocs conversion java** le permite obtener información esencial —como autor, título, recuento de páginas y estado de cifrado. Recorreremos la configuración, el código y casos de uso del mundo real para que pueda comenzar a aprovechar los metadatos en sus aplicaciones de inmediato.
 
-**Lo que aprenderás:**
-- Cómo configurar su entorno de desarrollo con GroupDocs.Conversion.
-- Instrucciones paso a paso sobre cómo extraer información básica de un documento de un archivo PDF.
-- Aplicaciones prácticas de esta característica en escenarios del mundo real.
+## Respuestas rápidas
+- **¿Qué hace GroupDocs Conversion Java?** ProporcionNecesito- **¿Es compatible con Java 8+?** Sí, funciona con JDK 8 y versiones posteriores.  
+- **¿Puedo manejar PDFs protegidos con contraseña?** Sí—use `isPasswordProtected()` para detectar el cifrado antes de procesar.
 
-¡Veamos los requisitos previos antes de comenzar!
+## Qué es GroupDocs Conversion Java?
+GroupDocs Conversion Java es una biblioteca que permite a los desarrolladores trabajar programáticamente con una amplia gama de formatos de documentos. Abstrae la complejidad del análisis de archivos, permitiéndole centrarse en la lógica de negocio, como extraer metadatos, convertir archivos o generar vistas previas.
 
-## Prerrequisitos
+## ¿Por qué extraer metadatos PDF con GroupDocs Conversion Java?
+- **Automatizar la clasificación de documentos** leyendo los campos de autor o título.  
+- **Aplicar políticas de seguridad** verificando si un PDF está protegido con contraseña antes de abrirlo.  
+- **Generar analítica** como recuentos totales de páginas (`pdf page count java`) en grandes repositorios de documentos.  
+- **Simplificar la integración**—la misma API funciona para Word, Excel y otros formatos, por lo que puede reutilizar código.
 
-Antes de comenzar, asegúrese de tener:
+## Requisitos previos
+- Java Development Kit ( Un IDE como IntelliJ IDEA o Eclipse (opcional pero recomendado).  
+- Conocimientos básicos de programación Java.
 
-### Bibliotecas y dependencias requeridas
-- Java Development Kit (JDK) versión 8 o superior instalado en su máquina.
-- Herramienta de compilación Maven para la gestión de dependencias.
+## Configuración de GroupDocs Conversion Java
 
-### Requisitos de configuración del entorno
-- Un entorno de desarrollo integrado (IDE) adecuado, como IntelliJ IDEA o Eclipse.
-
-### Requisitos previos de conocimiento
-- Comprensión básica de programación Java y conceptos orientados a objetos.
-
-## Configuración de GroupDocs.Conversion para Java
-
-Para empezar, debes configurar la biblioteca GroupDocs.Conversion en tu proyecto usando Maven. Sigue estos pasos:
-
-**Configuración de Maven:**
-Añade lo siguiente a tu `pom.xml` archivo dentro del `<repositories>` y `<dependencies>` secciones:
+Agregue el repositorio de GroupDocs y la dependencia a su `pom.xml` de Maven:
 
 ```xml
 <repositories>
@@ -57,22 +54,21 @@ Añade lo siguiente a tu `pom.xml` archivo dentro del `<repositories>` y `<depen
 </dependencies>
 ```
 
-### Adquisición de licencias
+### Obtención de licencia
+GroupDocs ofrece una prueba gratuita, licencias de evaluación temporales y licencias completas para producción. Puede comenzar con su [free trial](https://releases.groupdocs.com/conversion/java/) para explorar las funciones.
 
-GroupDocs ofrece varias opciones de licencia, incluyendo una prueba gratuita, licencias temporales para fines de evaluación y licencias de compra completas para uso en producción. Puedes empezar con sus [prueba gratuita](https://releases.groupdocs.com/conversion/java/) para probar las funciones.
-
-**Inicialización básica:**
-Una vez que haya configurado su proyecto Maven, estará listo para inicializar GroupDocs.Conversion en su aplicación Java:
+### Inicialización básica
+Cree una clase Java simple para inicializar el `Converter`:
 
 ```java
 import com.groupdocs.conversion.Converter;
 
 public class PDFInfoRetriever {
     public static void main(String[] args) {
-        // Inicialice el convertidor con la ruta a su documento PDF.
+        // Initialize the Converter with the path to your PDF document.
         Converter converter = new Converter("YOUR_DOCUMENT_DIRECTORY/SAMPLE_PDF");
         
-        // Proceder a recuperar y utilizar la información del documento...
+        // Proceed to retrieve and utilize document information...
     }
 }
 ```
@@ -80,112 +76,106 @@ public class PDFInfoRetriever {
 ## Guía de implementación
 
 ### Recuperar información básica del documento
+A continuación se muestra una guía paso a paso de cómo obtener metadatos de un PDF.
 
-Esta función permite extraer metadatos de un archivo PDF. Veamos cómo implementarla.
-
-#### Paso 1: Inicializar el convertidor
-Comience creando una instancia del `Converter` clase, que especifica la ruta al documento PDF de destino.
-
+#### Paso 1: Inicializar el Converter
 ```java
 Converter converter = new Converter("YOUR_DOCUMENT_DIRECTORY/SAMPLE_PDF");
 ```
-
-- **Objetivo:** Este paso inicializa el proceso de conversión y prepara el documento para la recuperación de información.
+*Propósito:* Configura el motor de conversión y carga el PDF objetivo.
 
 #### Paso 2: Recuperar información general del documento
-
-Utilice el `getDocumentInfo()` Método para obtener una descripción general de los metadatos del archivo PDF:
-
 ```java
 import com.groupdocs.conversion.contracts.documentinfo.IDocumentInfo;
 
 IDocumentInfo info = converter.getDocumentInfo();
 ```
+*Propósito:* Le brinda una vista independiente del formato de las propiedades centrales del documento.
 
-- **Objetivo:** Esto proporciona acceso a atributos básicos del documento que son comunes en diferentes formatos de documento.
-
-#### Paso 3: Convertir información a PdfDocumentInfo
-
-Para acceder a las propiedades específicas de PDF, transmita la información obtenida:
-
+#### Paso 3: Convertir la información a `PdfDocumentInfo`
 ```java
 import com.groupdocs.conversion.contracts.documentinfo.PdfDocumentInfo;
 
 PdfDocumentInfo pdfInfo = (PdfDocumentInfo) info;
 ```
-
-- **Objetivo:** Este paso le permite utilizar métodos específicos para documentos PDF.
+*Propósito:* Expone atributos específicos de PDF, como dimensiones de página y cifrado.
 
 #### Paso 4: Acceder y utilizar las propiedades del documento
-
-Finalmente, recupera varios atributos del documento PDF:
-
 ```java
-String author = pdfInfo.getAuthor(); // Obtener el nombre del autor
-String creationDate = pdfInfo.getCreationDate(); // Recuperar la fecha de creación del documento
-double width = pdfInfo.getWidth(); // Ancho de la primera página en puntos
-double height = pdfInfo.getHeight(); // Altura de la primera página en puntos
-boolean isLandscape = pdfInfo.isLandscape(); // Comprueba si la primera página está en modo horizontal
-int pagesCount = pdfInfo.getPagesCount(); // Número total de páginas del documento
-String title = pdfInfo.getTitle(); // Título del documento
-String version = pdfInfo.getVersion(); // Información de la versión PDF
-boolean isEncrypted = pdfInfo.isPasswordProtected(); // Compruebe si el documento está protegido con contraseña
+String author = pdfInfo.getAuthor(); // Get the author's name
+String creationDate = pdfInfo.getCreationDate(); // Retrieve the document's creation date
+double width = pdfInfo.getWidth(); // Width of the first page in points
+double height = pdfInfo.getHeight(); // Height of the first page in points
+boolean isLandscape = pdfInfo.isLandscape(); // Check if the first page is in landscape mode
+int pagesCount = pdfInfo.getPagesCount(); // Total number of pages in the document
+String title = pdfInfo.getTitle(); // Document's title
+String version = pdfInfo.getVersion(); // PDF version information
+boolean isEncrypted = pdfInfo.isPasswordProtected(); // Check if the document is password protected
 
-// Utilice estas propiedades según sea necesario, como para registrar o mostrar en una interfaz de usuario.
+// Use these properties as needed, such as logging or displaying in a UI.
 ```
+*Propósito:* Estos campos le permiten **read pdf properties java** y tomar decisiones basadas en las características del documento.
 
-- **Objetivo:** Estas propiedades proporcionan información sobre varios aspectos del archivo PDF.
-
-### Consejos para la solución de problemas
-
-- Asegúrese de que la ruta PDF especificada sea correcta y accesible.
-- Verifique que haya incluido todas las dependencias necesarias en su Maven `pom.xml`.
+### Consejos de solución de problemas
+- Verifique que la ruta del PDF sea correcta y que el archivo sea accesible.  
+- Asegúrese de que todas las dependencias de Maven se hayan descargado; ejecute `mvn clean install` si encuentra clases faltantes.  
+- Para PDFs protegidos con contraseña, maneje `isPasswordProtected()` antes de intentar procesar otras propiedades.
 
 ## Aplicaciones prácticas
 
-A continuación se presentan algunos escenarios prácticos en los que recuperar información de PDF puede resultar útil:
-
-1. **Sistemas de gestión documental:** Automatice la extracción de metadatos para una categorización y recuperación eficiente de documentos.
-2. **Auditoría de contenido:** Audite rápidamente grandes volúmenes de documentos para garantizar el cumplimiento de los estándares de autoría o fecha de creación.
-3. **Controles de seguridad:** Verifique si los documentos confidenciales están encriptados antes de acceder al contenido.
-4. **Análisis de PDF:** Recopile información sobre los patrones de uso de PDF dentro de su organización.
+| Escenario | Cómo ayuda los metadatos |
+|----------|------------------------|
+| **Document Management Systems** | Etiquete automáticamente los archivos con autor y título para una búsqueda más rápida. |
+| **Content Auditing** | Valide las fechas de creación para aplicar políticas de cumplimiento. |
+| **Security Checks** | Detecte PDFs cifrados y enrútelos para un manejo seguro. |
+| **PDF Analytics** | Agregue `pdf page count java` en los archivos para estimar necesidades de almacenamiento. |
 
 ## Consideraciones de rendimiento
-
-Al utilizar GroupDocs.Conversion, tenga en cuenta lo siguiente para obtener un rendimiento óptimo:
-
-- Minimice el uso de memoria administrando eficientemente los ciclos de vida de los objetos en Java.
-- Optimice las operaciones de recuperación de datos para evitar el procesamiento innecesario.
-- Supervise el uso de recursos y ajuste las configuraciones según sea necesario para mejorar el rendimiento.
+- Reutilice la instancia `Converter` al procesar varios PDFs para reducir la sobrecarga de creación de objetos.  
+- Cierre los recursos rápidamente (`converter.close()`) en servicios de larga ejecución.  
+- Monitoree el uso del heap; los PDFs grandes pueden requerir más memoria JVM (`-Xmx`).
 
 ## Conclusión
-
-En este tutorial, aprendió a configurar GroupDocs.Conversion para Java y a recuperar información esencial de un documento PDF. Esta función puede mejorar la funcionalidad de su aplicación al permitir la gestión dinámica de metadatos.
+Ahora dispone de un enfoque completo y listo para producción para **extract pdf metadata java** usando **groupdocs conversion java**. Esta capacidad abre poderosas posibilidades de automatización, desde la indexación inteligente hasta la aplicación de políticas de seguridad.
 
 ### Próximos pasos
-Considere explorar características adicionales de GroupDocs.Conversion, como convertir documentos entre formatos o integrarlos con otros sistemas para mejorar los flujos de trabajo.
+- Explore las funciones de conversión (p. ej., PDF → DOCX) para crear canalizaciones de documentos de extremo a extremo.  
+- Integre la extracción de metadatos en su flujo de ingestión de documentos existente.  
+- Revise la referencia completa de la API para escenarios avanzados, como la extracción de propiedades personalizadas.
 
-## Sección de preguntas frecuentes
+## Preguntas frecuentes
 
-**P1: ¿Puedo extraer contenido de texto del PDF usando GroupDocs.Conversion?**
-- R: Si bien este tutorial se centra en la extracción de metadatos, GroupDocs.Conversion permite extraer contenido de texto. Consulte su documentación para obtener más detalles.
+**Q1: ¿Puedo extraer contenido de texto del PDF usando GroupDocs Conversion?**  
+A: Aunque este tutorial se centra en la extracción de metadatos, GroupDocs Conversion sí admite la extracción de contenido de texto. Consulte su documentación para más detalles.
 
-**P2: ¿Qué pasa si mi PDF está protegido con contraseña?**
-- R: Puede verificar si un documento está encriptado y manejarlo en consecuencia antes de intentar extraer información.
+**Q2: ¿Qué pasa si mi PDF está protegido con contraseña?**  
+A: Puede comprobar si un documento está cifrado usando `isPasswordProtected()` y manejarlo en consecuencia antes de intentar leer otras propiedades.
 
-**P3: ¿Cómo convierto otros tipos de documentos usando GroupDocs.Conversion?**
-- A: La biblioteca admite la conversión entre varios formatos. Consulte la [Referencia de API](https://reference.groupdocs.com/conversion/java/) para métodos específicos.
+**Q3: ¿Cómo convierto otros tipos de documentos usando GroupDocs Conversion?**  
+A: La biblioteca admite la conversión entre muchos formatos. Consulte la [API Reference](https://reference.groupdocs.com/conversion/java/) para métodos específicos.
 
-**P4: ¿Cuál es el tamaño máximo de archivo admitido por GroupDocs.Conversion?**
-- R: Los límites de tamaño de archivo dependen de la capacidad de memoria de su entorno. Asegúrese de que haya suficientes recursos disponibles para procesar archivos grandes.
+**Q4: ¿Cuál es el tamaño máximo de archivo admitido por GroupDocs Conversion?**  
+A: Los límites de tamaño dependen de la capacidad de memoria de su entorno. Asegúrese de disponer de suficiente espacio en el heap para archivos grandes.
 
-**P5: ¿Hay alguna forma de gestionar los errores de conversión con elegancia?**
-- A: Implementar el manejo de errores en torno a las operaciones de conversión para administrar excepciones y brindar retroalimentación a los usuarios de manera efectiva.
+**Q5: ¿Existe una forma de manejar errores de conversión de manera elegante?**  
+A: Implemente bloques try‑catch alrededor de las llamadas de conversión y registre los detalles de `ConversionException` para proporcionar retroalimentación amigable al usuario.
+
+**Q6: ¿Cómo puedo obtener la versión del PDF programáticamente?**  
+A: Use `pdfInfo.getVersion()` que devuelve la versión de la especificación PDF (p. ej., "1.7").
+
+**Q7: ¿GroupDocs Conversion admite la lectura de metadatos XMP personalizados?**  
+A: Sí, puede acceder a metadatos personalizados mediante el método `getCustomProperties()` en `PdfDocumentInfo`.
 
 ## Recursos
 
-- **Documentación:** [Documentación de Java de GroupDocs.Conversion](https://docs.groupdocs.com/conversion/java/)
-- **Referencia API:** [Referencia de API de GroupDocs para Java](https://reference.groupdocs.com/conversion/java/)
-- **Descargar GroupDocs.Conversion:** [Descargas de Java](https://releases.groupdocs.com/conversion/java/)
-- **Licencia de compra:** [Comprar producto GroupDocs](https://purchase.groupdocs.com/buy)
-- **Prueba gratuita:** [Pruebe la versión de prueba gratuita de GroupDocs](https://releases.groupdocs.com/conversion/java/)
+- **Documentación:** [GroupDocs.Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)  
+- **Referencia de API:** [GroupDocs API Reference for Java](https://reference.groupdocs.com/conversion/java/)  
+- **Descargar GroupDocs.Conversion:** [Java Downloads](https://releases.groupdocs.com/conversion/java/)  
+- **Comprar licencia:** [Buy GroupDocs Product](https://purchase.groupdocs.com/buy)  
+- **Prueba gratuita:** [Try GroupDocs Free Trial](https://releases.groupdocs.com/conversion/java/)
+
+---
+
+**Última actualización:** 2026-01-21  
+**Probado con:** GroupDocs.Conversion 25.2 for Java  
+**Autor:** GroupDocs
