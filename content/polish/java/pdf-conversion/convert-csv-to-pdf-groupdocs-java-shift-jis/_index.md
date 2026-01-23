@@ -142,23 +142,6 @@ Masz teraz kompletny, gotowy do produkcji przykład **jak konwertować csv to pd
 
 Gotowy na kolejny krok? Sprawdź więcej szczegółów w [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/).
 
-## Sekcja FAQ
-
-1. **Do czego służy kodowanie Shift_JIS w plikach CSV?**  
-   - Shift_JIS jest powszechnie używany do tekstu japońskiego, zapewniając prawidłowe wyświetlanie znaków.  
-
-2. **Czy mogę konwertować wiele plików CSV do PDF jednocześnie przy użyciu GroupDocs?**  
-   - Tak, ale przetwarzaj je kolejno lub w zarządzalnych partiach, aby uniknąć wąskich gardeł wydajnościowych.  
-
-3. **Czy istnieje limit rozmiaru plików CSV, które można konwertować?**  
-   - Głównym ograniczeniem jest pamięć systemowa; duże pliki mogą wymagać dostrojenia JVM.  
-
-4. **Jak rozwiązywać problemy z błędami konwersji?**  
-   - Sprawdź ustawienia kodowania, ścieżki plików oraz upewnij się, że używasz kompatybilnej wersji GroupDocs.  
-
-5. **Czy ta metoda może być użyta z innymi kodowaniami?**  
-   - Oczywiście! Dostosuj wywołanie `CsvLoadOptions.setEncoding()` do wymaganego zestawu znaków.
-
 ## Najczęściej zadawane pytania
 
 **P: Jak konwertować CSV do PDF w Javie bez użycia GroupDocs?**  

@@ -140,23 +140,6 @@ converter.convert(targetPdfPath, pdfConvertOptions);
 
 准备好下一步了吗？请访问 [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/) 获取更多细节。
 
-## FAQ 部分
-
-1. **Shift_JIS 编码在 CSV 文件中用于什么？**  
-   - Shift_JIS 常用于日文文本，确保字符正确显示。  
-
-2. **可以一次性使用 GroupDocs 将多个 CSV 转换为 PDF 吗？**  
-   - 可以，但建议顺序处理或分批进行，以避免性能瓶颈。  
-
-3. **CSV 文件的大小是否有限制？**  
-   - 主要受限于系统内存；大文件可能需要调优 JVM。  
-
-4. **如何排查转换错误？**  
-   - 检查编码设置、文件路径，并确保使用兼容的 GroupDocs 版本。  
-
-5. **此方法能用于其他编码吗？**  
-   - 完全可以！只需将 `CsvLoadOptions.setEncoding()` 调整为所需字符集。
-
 ## 常见问题
 
 **问：如何在不使用 GroupDocs 的情况下在 Java 中将 CSV 转换为 PDF？**  

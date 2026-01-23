@@ -142,23 +142,6 @@ Je beschikt nu over een volledig, productie‑klaar voorbeeld van **hoe je csv t
 
 Klaar voor de volgende stap? Bekijk meer details op [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/).
 
-## FAQ‑sectie
-
-1. **Wat is Shift_JIS‑codering en waarvoor wordt deze gebruikt in CSV‑bestanden?**  
-   - Shift_JIS wordt veel gebruikt voor Japanse tekst en zorgt ervoor dat tekens correct worden weergegeven.  
-
-2. **Kan ik meerdere CSV‑bestanden tegelijk naar PDF converteren met GroupDocs?**  
-   - Ja, maar verwerk ze sequentieel of in beheersbare batches om prestatie‑knelpunten te vermijden.  
-
-3. **Is er een limiet aan de grootte van CSV‑bestanden die kunnen worden geconverteerd?**  
-   - De primaire beperking is het geheugen van je systeem; grote bestanden kunnen JVM‑afstemming vereisen.  
-
-4. **Hoe los ik conversiefouten op?**  
-   - Controleer de codering, bestandspaden en zorg dat je een compatibele GroupDocs‑versie gebruikt.  
-
-5. **Kan deze methode voor andere coderingen worden gebruikt?**  
-   - Absoluut! Pas de aanroep `CsvLoadOptions.setEncoding()` aan naar de gewenste charset.
-
 ## Veelgestelde vragen
 
 **Q: Hoe converteer ik CSV naar PDF in Java zonder GroupDocs?**  

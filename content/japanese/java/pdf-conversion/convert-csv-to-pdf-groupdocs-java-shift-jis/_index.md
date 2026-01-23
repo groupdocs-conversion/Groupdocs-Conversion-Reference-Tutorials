@@ -14,30 +14,30 @@ weight: 1
 
 # csv to pdf java – JavaでGroupDocsとShift_JISエンコーディングを使用してCSVをPDFに変換
 
-Converting a CSV file into a PDF while preserving the correct character set is a common requirement for many Java applications. In this tutorial you’ll learn **how to perform a csv to pdf java conversion** with GroupDocs.Conversion, ensuring that Shift_JIS‑encoded data (often used for Japanese text) is rendered correctly.
+正しい文字セットを維持しながら CSV ファイルを PDF に変換することは、多くの Java アプリケーションで共通の要件です。このチュートリアルでは、GroupDocs.Conversion を使用して **Java で csv から PDF への変換を行う方法** を学習し、Shift_JIS エンコードされたデータ（日本語テキストでよく使用されます）が正しくレンダリングされるようにします。
 
-## Quick Answers
-- **What library is needed?** GroupDocs.Conversion for Java (v25.2+).  
-- **Which encoding does this example use?** Shift_JIS.  
-- **Can I generate pdf from csv with other encodings?** Yes – just change the charset in `CsvLoadOptions`.  
-- **Do I need a license?** A free trial works for development; a permanent license is required for production.  
-- **Is the code thread‑safe?** Each `Converter` instance is independent, so you can run conversions in parallel threads.
+## クイック アンサー
+- **必要なライブラリは？** Java 版 GroupDocs.Conversion (v25.2 以降)。
+- **この例ではどのエンコーディングを使用していますか？** Shift_JIS。
+- **他のエンコーディングの csv から PDF を生成できますか？** はい。`CsvLoadOptions` で文字セットを変更するだけです。
+- **ライセンスは必要ですか？** 開発環境では無料トライアルをご利用いただけますが、本番環境では永続ライセンスが必要です。
+- **コードはスレッドセーフですか？** 各 `Converter` インスタンスは独立しているため、並列スレッドで変換を実行できます。
 
-## What is csv to pdf java conversion?
-The process transforms plain‑text CSV data into a formatted PDF document. This is useful when you need a non‑editable, printable representation of tabular data, especially when the source contains special characters that must be preserved.
+## CSVからPDFへのJava変換とは？
+このプロセスは、プレーンテキストのCSVデータをフォーマットされたPDFドキュメントに変換します。これは、編集不可で印刷可能な表形式データが必要な場合、特にソースに保持する必要がある特殊文字が含まれている場合に便利です。
 
-## Why generate pdf from csv with GroupDocs?
-GroupDocs handles a wide range of formats out‑of‑the‑box, offers fine‑grained control over loading options (such as character encoding), and produces high‑quality PDFs without requiring a full PDF library stack.
+## GroupDocsでCSVからPDFを生成する理由
+GroupDocsは、幅広いフォーマットをすぐに処理でき、読み込みオプション（文字エンコーディングなど）をきめ細かく制御し、PDFライブラリスタック全体を必要とせずに高品質のPDFを生成します。
 
-## Prerequisites
+## 前提条件
 
-- **Libraries & Dependencies:** GroupDocs.Conversion library version 25.2 or later.  
-- **Environment Setup:** Java Development Kit (JDK) installed and an IDE like IntelliJ IDEA or Eclipse.  
-- **Knowledge Prerequisites:** Basic understanding of Java programming and file handling.
+- **ライブラリと依存関係：** GroupDocs.Conversionライブラリ バージョン25.2以降。
+- **環境設定：** Java Development Kit（JDK）がインストールされ、IntelliJ IDEAやEclipseなどのIDEがインストールされている。
+- **前提条件となる知識：** Javaプログラミングとファイル処理に関する基本的な知識。
 
-## Setting Up GroupDocs.Conversion for Java
+## Java 用の GroupDocs.Conversion の設定
 
-Add the GroupDocs repository and dependency to your `pom.xml`:
+GroupDocs リポジトリと依存関係を `pom.xml` に追加します。
 
 ```xml
 <repositories>
@@ -56,139 +56,122 @@ Add the GroupDocs repository and dependency to your `pom.xml`:
 </dependencies>
 ```
 
-### License Acquisition
+### ライセンスの取得
 
-Start with a free trial by downloading the library from [GroupDocs](https://releases.groupdocs.com/conversion/java/). For extended usage, consider acquiring a temporary or full license via [this link](https://purchase.groupdocs.com/temporary-license/).
+まずは [GroupDocs](https://releases.groupdocs.com/conversion/java/) からライブラリをダウンロードして、無料トライアルをお試しください。長期間ご利用いただく場合は、[こちらのリンク](https://purchase.groupdocs.com/temporary-license/) から一時ライセンスまたはフルライセンスの取得をご検討ください。
 
-### Basic Initialization and Setup
+### 基本的な初期化と設定
 
-After adding the dependencies, you can begin initializing the converter in your Java application.
+依存関係を追加したら、Java アプリケーションでコンバーターの初期化を開始できます。
 
-## Implementation Guide
+## 実装ガイド
 
-### Configure CSV Load Options with Specific Encoding
+### 特定のエンコーディングを使用した CSV 読み込みオプションの設定
 
-Specify the encoding of our input CSV file using Shift_JIS:
+Shift_JIS を使用して、入力 CSV ファイルのエンコーディングを指定します。
 
 ```java
 CsvLoadOptions loadOptions = new CsvLoadOptions();
 loadOptions.setEncoding(java.nio.charset.Charset.forName("shift_jis")); // Set encoding to Shift_JIS
 ```
 
-**Why Use Load Options?**  
-The `CsvLoadOptions` class allows you to set parameters such as character encoding, ensuring the CSV data is interpreted correctly before conversion.
+**ロードオプションを使用する理由**
+`CsvLoadOptions` クラスを使用すると、文字エンコーディングなどのパラメータを設定できるため、変換前に CSV データが正しく解釈されることが保証されます。
 
-### Initialize the Converter Object
+### Converter オブジェクトの初期化
 
-Initialize the `Converter` object with our source CSV file path and load options:
+ソース CSV ファイルのパスとロードオプションを使用して、`Converter` オブジェクトを初期化します。
 
 ```java
 String sourceCsvPath = "YOUR_DOCUMENT_DIRECTORY/your-input-file.csv";
 Converter converter = new Converter(sourceCsvPath, () -> loadOptions);
 ```
 
-**What This Step Does:**  
-The `Converter` class manages the conversion process. By passing our CSV file path and load options, we prepare the data for conversion.
+**このステップでの処理:**
+`Converter` クラスは変換プロセスを管理します。CSV ファイルのパスとロードオプションを渡すことで、変換用のデータを準備します。
 
-### Configure Conversion Options
+### 変換オプションの設定
 
-Set up PDF conversion options:
+PDF 変換オプションの設定:
 
 ```java
 PdfConvertOptions pdfConvertOptions = new PdfConvertOptions();
 ```
 
-**Key Configuration Options:**  
-`PdfConvertOptions` can be customized to tailor the output PDF, such as setting page size or margins.
+**主要な設定オプション:**
+`PdfConvertOptions` は、ページサイズや余白の設定など、出力 PDF をカスタマイズするためにカスタマイズできます。
 
-### Convert CSV File to PDF
+### CSV ファイルを PDF に変換
 
-Execute the conversion using the specified options:
+指定されたオプションを使用して変換を実行します。
 
 ```java
 String targetPdfPath = "YOUR_OUTPUT_DIRECTORY/output-file.pdf";
 converter.convert(targetPdfPath, pdfConvertOptions);
 ```
 
-**How It Works:**  
-The `convert` method takes the output file path and conversion options, processing the CSV data into a PDF while respecting the Shift_JIS encoding.
+**動作方法:**
+`convert` メソッドは出力ファイルのパスと変換オプションを受け取り、Shift_JIS エンコードを維持しながら CSV データを PDF に変換します。
 
-### Troubleshooting Tips
+### トラブルシューティングのヒント
 
-- Ensure your input CSV is truly encoded in Shift_JIS.  
-- Verify that both source and target file paths are correct and accessible.  
-- Check for version compatibility between your project and the GroupDocs.Conversion library.
+- 入力 CSV が Shift_JIS エンコードされていることを確認してください。
+- ソースファイルとターゲットファイルのパスが正しく、アクセス可能であることを確認してください。
+- プロジェクトと GroupDocs.Conversion ライブラリのバージョン互換性を確認してください。
 
-## Practical Applications
+## 実用的なアプリケーション
 
-Converting CSV to PDF can be useful in several real‑world scenarios:
+CSV から PDF への変換は、いくつかの実際のシナリオで役立ちます。
 
-1. **Reporting:** Generate printable reports from CSV datasets for distribution to stakeholders.  
-2. **Data Exporting:** Provide a secure, non‑editable PDF version of exported data.  
-3. **System Integration:** Feed PDFs into CRM or ERP systems that require PDF inputs.
+1. **レポート作成:** CSV データセットから印刷可能なレポートを作成し、関係者に配布します。
+2. **データのエクスポート:** エクスポートしたデータの、セキュリティ保護された編集不可の PDF 版を提供します。
+3. **システム統合:** PDF 入力を必要とする CRM または ERP システムに PDF を取り込みます。
 
-## Performance Considerations
+## パフォーマンスに関する考慮事項
 
-To keep conversions fast and memory‑efficient:
+変換処理を高速化し、メモリ効率を高めるには、以下の点に留意してください。
 
-- Process large batches in smaller chunks to avoid memory overflow.  
-- Tune JVM heap settings when handling very large CSV files.  
-- Dispose of the `Converter` instance after each conversion to free resources.
+- メモリオーバーフローを回避するため、大規模なバッチ処理を小さなチャンクに分割します。
+- 非常に大きなCSVファイルを処理する場合は、JVMヒープ設定を調整します。
+- 変換ごとに `Converter` インスタンスを破棄してリソースを解放します。
 
-## Conclusion
+## まとめ
 
-You now have a complete, production‑ready example of **how to convert csv to pdf java** using GroupDocs.Conversion with Shift_JIS encoding. This approach guarantees that Japanese characters and other special symbols remain intact throughout the conversion. Feel free to explore additional GroupDocs features or integrate this logic into larger Java applications.
+これで、Shift_JISエンコードでGroupDocs.Conversionを使用して**csvをJavaでPDFに変換する方法**の、実稼働環境に対応した完全なサンプルが完成しました。このアプローチにより、変換処理を通じて日本語の文字やその他の特殊記号がそのまま保持されます。GroupDocsの追加機能を試したり、このロジックをより大規模なJavaアプリケーションに統合したりすることもできます。
 
-Ready for the next step? Check out more details at [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/).
+次のステップに進む準備はできましたか？詳細については、[GroupDocsドキュメント](https://docs.groupdocs.com/conversion/java/)をご覧ください。
 
-## FAQ Section
+## よくある質問
 
-1. **What is Shift_JIS encoding used for in CSV files?**  
-   - Shift_JIS is commonly used for Japanese text, ensuring characters are correctly displayed.  
+**Q: GroupDocs を使用せずに、Java で CSV を PDF に変換するにはどうすればよいですか？**
+A: OpenCSV などのライブラリを使用して CSV を読み込み、iText を使用して PDF を生成することは可能ですが、エンコードとレイアウトを手動で処理する必要があります。
 
-2. **Can I convert multiple CSVs to PDFs at once with GroupDocs?**  
-   - Yes, but process them sequentially or in manageable batches to avoid performance bottlenecks.  
+**Q: GroupDocs は、出力時にパスワード保護された PDF をサポートしていますか？**
+A: はい。`convert` を呼び出す前に `PdfConvertOptions` でパスワードを設定できます。
 
-3. **Is there a limit to the size of CSV files that can be converted?**  
-   - The primary limitation is your system’s memory; large files may require JVM tuning.  
+**Q: どのバージョンの Java が必要ですか？**
+A: Java 8 以上がサポートされています。新しいバージョンでは、パフォーマンスと言語機能が向上します。
 
-4. **How do I troubleshoot conversion errors?**  
-   - Verify encoding settings, file paths, and ensure you’re using a compatible GroupDocs version.  
+**Q: 生成された PDF に透かしを追加する方法はありますか？**
+A: 変換後、GroupDocs.Annotation または PDF ライブラリを使用して PDF を再度開き、透かしを適用できます。
 
-5. **Can this method be used for other encodings?**  
-   - Absolutely! Adjust the `CsvLoadOptions.setEncoding()` call to match the desired charset.
+**Q: クラウドベースの Java サービスで変換を実行できますか？**
+A: はい、可能です。GroupDocs.Conversion の JAR をデプロイメントパッケージに含め、ライセンスがクラウドでの使用に有効であることを確認してください。
 
-## Frequently Asked Questions
+## リソース
 
-**Q: How do I convert CSV to PDF in Java without using GroupDocs?**  
-A: You could read the CSV with a library like OpenCSV and generate a PDF with iText, but you would need to handle encoding and layout manually.
+- **ドキュメント:** [GroupDocs ドキュメント](https://docs.groupdocs.com/conversion/java/)
+- **API リファレンス:** [API リファレンス](https://reference.groupdocs.com/conversion/java/)
+- **ダウンロード:** [ライブラリのダウンロード](https://releases.groupdocs.com/conversion/java/)
+- **購入と試用リンク:**
+- 購入: [GroupDocs ライセンスを購入](https://purchase.groupdocs.com/buy)
+- 無料試用: [試用版をダウンロード](https://releases.groupdocs.com/conversion/java/)
+- 一時ライセンス: [一時ライセンスを取得](https://purchase.groupdocs.com/temporary-license/)
 
-**Q: Does GroupDocs support password‑protected PDFs on output?**  
-A: Yes, you can set a password in `PdfConvertOptions` before calling `convert`.
-
-**Q: What Java version is required?**  
-A: Java 8 or higher is supported; newer versions give you better performance and language features.
-
-**Q: Is there a way to add a watermark to the generated PDF?**  
-A: After conversion, you can reopen the PDF with GroupDocs.Annotation or a PDF library to apply watermarks.
-
-**Q: Can I run the conversion in a cloud‑based Java service?**  
-A: Absolutely—just include the GroupDocs.Conversion JARs in your deployment package and ensure the license is valid for cloud use.
-
-## Resources
-
-- **Documentation:** [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/)  
-- **API Reference:** [API Reference](https://reference.groupdocs.com/conversion/java/)  
-- **Download:** [Library Download](https://releases.groupdocs.com/conversion/java/)  
-- **Purchase & Trial Links:**  
-  - Purchase: [Buy GroupDocs License](https://purchase.groupdocs.com/buy)  
-  - Free Trial: [Download Trial Version](https://releases.groupdocs.com/conversion/java/)  
-  - Temporary License: [Get a Temporary License](https://purchase.groupdocs.com/temporary-license/)  
-
-For any further questions or support, visit the [GroupDocs Forum](https://forum.groupdocs.com/c/conversion/10). Happy coding!
+ご質問やサポートについては、[GroupDocsフォーラム](https://forum.groupdocs.com/c/conversion/10) をご覧ください。楽しいコーディングを！
 
 ---
 
-**Last Updated:** 2026-01-02  
-**Tested With:** GroupDocs.Conversion 25.2  
-**Author:** GroupDocs
+**最終更新日:** 2026年1月2日
+**テスト環境:** GroupDocs.Conversion 25.2
+**作成者:** GroupDocs

@@ -142,23 +142,6 @@ Du har nu ett komplett, produktionsklart exempel på **hur du konverterar csv ti
 
 Redo för nästa steg? Läs mer på [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/).
 
-## FAQ‑sektion
-
-1. **Vad används Shift_JIS‑kodning för i CSV‑filer?**  
-   - Shift_JIS används vanligtvis för japansk text och säkerställer att tecken visas korrekt.  
-
-2. **Kan jag konvertera flera CSV‑filer till PDF samtidigt med GroupDocs?**  
-   - Ja, men bearbeta dem sekventiellt eller i hanterbara satser för att undvika prestandaproblem.  
-
-3. **Finns det en gräns för storleken på CSV‑filer som kan konverteras?**  
-   - Den huvudsakliga begränsningen är ditt systems minne; stora filer kan kräva JVM‑justering.  
-
-4. **Hur felsöker jag konverteringsfel?**  
-   - Verifiera kodningsinställningar, filvägar och säkerställ att du använder en kompatibel GroupDocs‑version.  
-
-5. **Kan denna metod användas för andra kodningar?**  
-   - Absolut! Justera anropet `CsvLoadOptions.setEncoding()` för att matcha önskad teckenuppsättning.
-
 ## Vanliga frågor
 
 **Q: Hur konverterar jag CSV till PDF i Java utan att använda GroupDocs?**  

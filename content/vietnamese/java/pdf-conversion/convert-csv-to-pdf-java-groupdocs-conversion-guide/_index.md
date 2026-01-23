@@ -6,7 +6,7 @@ keywords:
 - convert CSV to PDF Java
 - GroupDocs.Conversion for Java
 - Java CSV to PDF conversion
-title: 'Cài đặt GroupDocs Conversion Maven: Chuyển đổi CSV sang PDF trong Java – Hướng
+title: 'Cài đặt GroupDocs Conversion Maven - Chuyển đổi CSV sang PDF trong Java – Hướng
   dẫn từng bước'
 type: docs
 url: /vi/java/pdf-conversion/convert-csv-to-pdf-java-groupdocs-conversion-guide/
@@ -15,38 +15,38 @@ weight: 1
 
 # Chuyển đổi CSV sang PDF trong Java: Hướng dẫn từng bước sử dụng GroupDocs.Conversion cho Java
 
-## Introduction
+## Giới thiệu
 
-Bạn đang muốn chuyển đổi một tệp CSV đơn giản thành một tệp PDF chuyên nghiệp? Dù là cho báo cáo dữ liệu, chia sẻ bộ dữ liệu ở định dạng dễ tiếp cận, hay tổ chức các số và ngày tháng một cách gọn gàng, việc chuyển đổi tệp CSV sang PDF là rất quan trọng. Trong hướng dẫn này chúng tôi cũng sẽ chỉ cho bạn **setup groupdocs conversion maven**, để bạn có thể cài đặt thư viện trong vài phút. Bạn sẽ có một cách rõ ràng, sẵn sàng cho sản xuất để **how to convert csv to pdf java** bằng GroupDocs.Conversion.
+Bạn đang muốn chuyển đổi một tệp CSV đơn giản thành một tệp PDF chuyên nghiệp? Dù là báo cáo dữ liệu, chia sẻ bộ dữ liệu ở định dạng dễ dàng tiếp cận, hay tổ chức các số và ngày một cách gọn gàng, việc chuyển đổi tệp CSV sang PDF là rất quan trọng. Trong hướng dẫn này, chúng tôi cũng sẽ chỉ chọn bạn **thiết lập maven chuyển đổi groupdocs** để bạn có thể cài đặt thư viện trong vài phút. Bạn sẽ có cách rõ ràng, sẵn sàng cho sản phẩm sản xuất để **cách chuyển đổi csv sang pdf java** bằng GroupDocs.Conversion.
 
-### Quick Answers
-- **What library should I use?** GroupDocs.Conversion for Java.  
-- **How do I add the dependency?** Include the Maven repository and dependency shown below.  
-- **Can I preserve dates and numbers?** Yes – enable `setConvertDateTimeData` and `setConvertNumericData`.  
-- **Do I need a license?** A free trial works for evaluation; a permanent license is required for production.  
-- **Is batch conversion possible?** Absolutely – wrap the conversion logic in a loop.
+### Trả lời nhanh
+- **Tôi nên sử dụng thư viện nào?** GroupDocs.Conversion cho Java.
+- **Làm cách nào để thêm phần phụ thuộc?** Bao gồm kho lưu trữ Maven và phần phụ thuộc được hiển thị bên dưới.
+- **Tôi có thể lưu ngày và số không?** Có – bật `setConvertDateTimeData` và `setConvertNumericData`.
+- **Tôi có cần giấy phép không?** Bản dùng thử miễn phí có tác dụng đánh giá; cần phải có giấy phép vĩnh viễn để sản xuất.
+- **Có thể chuyển đổi hàng loạt không?** Hoàn toàn có thể - gói logic chuyển đổi trong một vòng lặp.
 
-## What is **setup groupdocs conversion maven**?
-Cài đặt GroupDocs.Conversion với Maven có nghĩa là gì?  
-Việc thiết lập GroupDocs.Conversion với Maven có nghĩa là khai báo repository và phiên bản thư viện trong file `pom.xml` của bạn. Maven sẽ tải xuống các JAR thích hợp, giải quyết các phụ thuộc truyền thống, và giữ cho dự án của bạn có thể tái tạo trên mọi môi trường.
+## **thiết lập maven chuyển đổi groupdocs** là gì?
+Cài đặt GroupDocs.Conversion with Maven có nghĩa là gì?
+Công việc thiết lập GroupDocs.Conversion with Maven có nghĩa là kho lưu trữ được khai báo và phiên bản thư viện trong tệp `pom.xml` của bạn. Maven sẽ tải xuống các JAR thích hợp, giải quyết các truyền thông phụ thuộc và giữ dự án của bạn có thể tái tạo trên mọi môi trường.
 
-## Why use GroupDocs.Conversion for CSV‑to‑PDF?
-- **Accurate data rendering:** Keeps date‑time and numeric formats intact. → Hiển thị dữ liệu chính xác: Giữ nguyên định dạng ngày‑giờ và số.  
-- **Fast and scalable:** Handles large files with low memory overhead. → Nhanh và mở rộng: Xử lý tệp lớn với mức tiêu thụ bộ nhớ thấp.  
-- **Rich API:** Offers fine‑grained control over load and conversion options. → API phong phú: Cung cấp kiểm soát chi tiết đối với các tùy chọn tải và chuyển đổi.  
-- **Cross‑platform:** Works on any OS that supports Java 8+. → Đa nền tảng: Hoạt động trên bất kỳ hệ điều hành nào hỗ trợ Java 8+.
+## Tại sao nên sử dụng GroupDocs.Conversion cho CSV‑to‑PDF?
+- **Kết xuất dữ liệu chính xác:** Giữ nguyên định dạng ngày và giờ. → Hiển thị chính xác dữ liệu: Giữ nguyên định dạng ngày và số.
+- **Nhanh và có thể mở rộng:** Xử lý các tệp lớn với chi phí bộ nhớ thấp. → Nhanh và mở rộng: Xử lý tệp lớn hơn với trí nhớ tiêu điểm.
+- **API phong phú:** Cung cấp khả năng kiểm soát chi tiết đối với các tùy chọn tải và chuyển đổi. → API phong phú: Cung cấp kiểm soát chi tiết cho các tùy chọn tải và chuyển đổi.
+- **Đa nền tảng:** Hoạt động trên mọi hệ điều hành hỗ trợ Java 8+. → Nền tảng: Hoạt động trên bất kỳ hệ điều hành nào hỗ trợ Java 8+.
 
-## Prerequisites
+## Điều kiện tiên quyết
 
-- **Java Development Kit (JDK):** Installed JDK 8 or above. → Bộ công cụ phát triển Java (JDK): Đã cài JDK 8 trở lên.  
-- **Maven:** Familiarity with Maven project structures is assumed. → Maven: Giả định bạn đã quen với cấu trúc dự án Maven.  
-- **Basic Java Programming Knowledge:** Understanding of Java concepts and file I/O. → Kiến thức lập trình Java cơ bản: Hiểu các khái niệm Java và I/O tệp.
+- **Bộ công cụ phát triển Java (JDK):** Đã cài đặt JDK 8 trở lên. → Bộ công cụ phát triển Java (JDK): Đã cài đặt JDK 8 trở lên.
+- **Maven:** Cần phải làm quen với cấu trúc dự án Maven. → Maven: Giả sử bạn đã quen với cấu trúc dự án Maven.
+- **Kiến thức lập trình Java cơ bản:** Hiểu biết về các khái niệm Java và tệp I/O. → Kiến trúc cơ sở lập trình Java: Hiểu các khái niệm Java và tệp I/O.
 
-## Setting Up GroupDocs.Conversion for Java
+## Thiết lập GroupDocs.Conversion cho Java
 
-Để bắt đầu, tích hợp thư viện GroupDocs.Conversion vào ứng dụng Java của bạn bằng Maven. Dưới đây là cách bạn có thể thiết lập `pom.xml` của mình:
+Để bắt đầu, hãy tích hợp thư viện GroupDocs.Conversion vào ứng dụng Java của bạn bằng Maven. Dưới đây là cách bạn có thể thiết lập `pom.xml` của mình:
 
-**Maven Configuration**  
+**Cấu hình Maven**
 ```xml
 <repositories>
    <repository>
@@ -64,12 +64,12 @@ Việc thiết lập GroupDocs.Conversion với Maven có nghĩa là khai báo r
 </dependencies>
 ```
 
-**License Acquisition:**
-- **Free Trial:** Start with a free trial to explore GroupDocs.Conversion's full capabilities. → Bản dùng thử miễn phí: Bắt đầu với bản dùng thử để khám phá toàn bộ khả năng của GroupDocs.Conversion.  
-- **Temporary License:** Obtain a temporary license for extended access during development. → Giấy phép tạm thời: Nhận giấy phép tạm thời để truy cập kéo dài trong quá trình phát triển.  
-- **Purchase:** Consider purchasing a license for long‑term projects. → Mua bản quyền: Xem xét mua giấy phép cho các dự án dài hạn.
+**Mua lại giấy phép:**
+- **Dùng thử miễn phí:** Bắt đầu với bản dùng thử miễn phí để khám phá toàn bộ khả năng của GroupDocs.Conversion. → Bản dùng thử miễn phí: Bắt đầu dùng thử bản thử để khám phá khả năng của GroupDocs.Conversion.
+- **Giấy phép tạm thời:** Nhận giấy phép tạm thời để có quyền truy cập mở rộng trong quá trình phát triển. → Tạm thời giấy phép: Nhận giấy tạm thời cho phép để truy cập thời gian dài trong quá trình phát triển.
+- **Mua:** Cân nhắc việc mua giấy phép cho các dự án dài hạn. → Mua bản quyền: Xem xét mua giấy phép cho các dự án dài hạn.
 
-### Basic Initialization and Setup
+### Khởi tạo và thiết lập cơ bản
 
 Đảm bảo Maven tự động tải xuống các phụ thuộc. Sau đó, import các lớp cần thiết:  
 ```java
@@ -78,15 +78,16 @@ import com.groupdocs.conversion.options.convert.PdfConvertOptions;
 import com.groupdocs.conversion.options.load.CsvLoadOptions;
 ```
 
-## Implementation Guide
 
-### Convert CSV to PDF with Advanced Options
+## Hướng dẫn thực hiện
 
-Sử dụng các tùy chọn nâng cao giúp dữ liệu của bạn giữ nguyên tính toàn vẹn trong quá trình chuyển đổi, duy trì định dạng gốc cho ngày‑giờ và các giá trị số.
+### Chuyển đổi CSV sang PDF với Tùy chọn nâng cao
 
-#### Step‑by‑Step Implementation
+Sử dụng toàn bộ dữ liệu nâng cao tùy chọn tùy chọn của bạn để giữ toàn bộ thuộc tính trong quá trình chuyển đổi, duy trì định dạng gốc cho ngày và số giá trị.
 
-**1. Configure Load Options**  
+#### Thực hiện từng bước
+
+**1. Cấu hình các tùy chọn tải**  
 Bắt đầu bằng cách thiết lập `CsvLoadOptions` để xử lý các kiểu dữ liệu đặc biệt:  
 ```java
 // Initialize load options for the CSV
@@ -95,97 +96,81 @@ loadOptions.setConvertDateTimeData(true); // Enable conversion of date-time data
 loadOptions.setConvertNumericData(true);  // Enable conversion of numeric data
 ```
 
-**2. Create a Converter Object**  
+**2. Tạo đối tượng chuyển đổi**  
 Khởi tạo đối tượng `Converter` của bạn với đường dẫn tệp CSV đầu vào và các tùy chọn tải:  
 ```java
 String inputCsvPath = "YOUR_DOCUMENT_DIRECTORY/sample.csv";
 Converter converter = new Converter(inputCsvPath, () -> loadOptions);
 ```
 
-**3. Set Up PDF Conversion Options**  
+**3. Thiết lập các tùy chọn chuyển đổi PDF** 
 Chuẩn bị chuyển đổi tài liệu bằng cách cấu hình `PdfConvertOptions`:  
 ```java
 // Initialize PDF conversion options
 PdfConvertOptions pdfConvertOptions = new PdfConvertOptions();
 ```
 
-**4. Execute the Conversion**  
+**4. Thực hiện chuyển đổi**
 Cuối cùng, thực hiện chuyển đổi và lưu tệp PDF đầu ra ở vị trí mong muốn:  
 ```java
 String outputPdfPath = "YOUR_OUTPUT_DIRECTORY/converted_file.pdf";
 converter.convert(outputPdfPath, pdfConvertOptions);
 ```
 
-### Common Issues and Solutions
-- **Missing Dependencies:** Run `mvn clean install` to force Maven to resolve all artifacts. → Thiếu phụ thuộc: Chạy `mvn clean install` để buộc Maven giải quyết tất cả các artifact.  
-- **File Path Issues:** Use absolute paths or verify relative paths against your project root. → Vấn đề đường dẫn tệp: Sử dụng đường dẫn tuyệt đối hoặc kiểm tra đường dẫn tương đối so với thư mục gốc dự án.  
-- **Large CSV Files:** Consider streaming the CSV or processing it in chunks to reduce memory consumption. → Tệp CSV lớn: Xem xét streaming CSV hoặc xử lý theo từng phần để giảm tiêu thụ bộ nhớ.
+### Các vấn đề thường gặp và giải pháp
+- **Thiếu phần phụ thuộc:** Chạy `mvn clean install` để buộc Maven giải quyết tất cả các thành phần lạ. → Thiếu phụ thuộc: Chạy `mvn clean install` để buộc Maven giải quyết tất cả các tạo phẩm.
+- **Vấn đề về đường dẫn tệp:** Sử dụng đường dẫn tuyệt đối hoặc xác minh đường dẫn tương đối đối với thư mục gốc dự án của bạn. → Vấn đề tệp đường dẫn: Sử dụng đường dẫn tuyệt đối hoặc kiểm tra đường dẫn tương thích với dự án gốc thư mục.
+- **Tệp CSV lớn:** Hãy cân nhắc phát trực tuyến hoặc xử lý tệp CSV theo từng phần để giảm mức tiêu thụ bộ nhớ. → Tệp CSV lớn: Xem xét phát trực tuyến CSV hoặc xử lý theo từng phần để giảm tiêu điểm bộ nhớ.
 
-## Practical Applications
+## Ứng dụng thực tế
 
-1. **Business Reporting:** Convert monthly sales data from CSV to PDF for board meetings. → Báo cáo kinh doanh: Chuyển đổi dữ liệu bán hàng hàng tháng từ CSV sang PDF cho các cuộc họp hội đồng.  
-2. **Data Sharing:** Share datasets with stakeholders who prefer PDF over raw CSV. → Chia sẻ dữ liệu: Chia sẻ bộ dữ liệu với các bên liên quan thích PDF hơn CSV thô.  
-3. **Document Archiving:** Archive financial records by converting them into a durable PDF format. → Lưu trữ tài liệu: Lưu trữ hồ sơ tài chính bằng cách chuyển đổi chúng sang định dạng PDF bền vững.
+1. **Báo cáo kinh doanh:** Chuyển đổi dữ liệu bán hàng hàng tháng từ CSV sang PDF cho các cuộc họp hội đồng quản trị. → Báo cáo kinh doanh: Chuyển đổi dữ liệu bán hàng tháng từ CSV sang PDF cho cuộc họp hội đồng.
+2. **Chia sẻ dữ liệu:** Chia sẻ tập dữ liệu với các bên liên quan thích PDF hơn CSV thô. → Chia sẻ dữ liệu: Chia sẻ bộ dữ liệu với các liên kết PDF thích hợp hơn thô CSV.
+3. **Lưu trữ tài liệu:** Lưu trữ hồ sơ tài chính bằng cách chuyển đổi chúng sang định dạng PDF lâu bền. → Lưu trữ tài liệu: Lưu trữ hồ sơ tài chính bằng cách chuyển đổi chúng sang định dạng PDF bền vững.
 
-## Performance Considerations
-- **Optimize Memory Usage:** Avoid loading the entire CSV into memory; let GroupDocs handle streaming where possible. → Tối ưu sử dụng bộ nhớ: Tránh tải toàn bộ CSV vào bộ nhớ; để GroupDocs xử lý streaming khi có thể.  
-- **Batch Processing:** Wrap the conversion logic in a loop to handle multiple files in one run, reducing overhead. → Xử lý hàng loạt: Bao logic chuyển đổi trong vòng lặp để xử lý nhiều tệp trong một lần chạy, giảm chi phí.
+## Cân nhắc về hiệu suất
+- **Tối ưu hóa việc sử dụng bộ nhớ:** Tránh tải toàn bộ CSV vào bộ nhớ; hãy để GroupDocs xử lý việc phát trực tuyến nếu có thể. → Sử dụng bộ nhớ tối ưu: Tránh tải toàn bộ CSV vào bộ nhớ; để GroupDocs xử lý luồng khi có thể.
+- **Xử lý hàng loạt:** Gói logic chuyển đổi trong một vòng lặp để xử lý nhiều tệp trong một lần chạy, giảm chi phí. → Xử lý hàng loạt: Bảo vệ chuyển đổi logic trong vòng lặp để xử lý nhiều tệp trong một lần chạy, giảm chi phí.
 
-## Conclusion
+## Phần kết luận
 
-Bằng cách làm theo hướng dẫn này, bạn đã học cách hiệu quả **setup groupdocs conversion maven** và chuyển đổi các tệp CSV sang PDF bằng GroupDocs.Conversion cho Java với các tùy chọn nâng cao. Giải pháp này đảm bảo dữ liệu của bạn luôn nguyên vẹn và chuyên nghiệp trong suốt quá trình chuyển đổi.
+Bằng cách thực hiện theo hướng dẫn này, bạn đã học cách hiệu quả **thiết lập maven chuyển đổi nhómdocs** và chuyển đổi các tệp CSV sang PDF bằng GroupDocs.Conversion cho Java với các tùy chọn nâng cao. Giải pháp này đảm bảo dữ liệu của bạn luôn nguyên vẹn và chuyên nghiệp trong suốt quá trình chuyển đổi.
 
-**Next Steps:**
-- Explore other file format conversions supported by GroupDocs.Conversion. → Khám phá các chuyển đổi định dạng tệp khác được GroupDocs.Conversion hỗ trợ.  
-- Experiment with additional load and conversion options to further tailor outputs. → Thử nghiệm các tùy chọn tải và chuyển đổi bổ sung để tùy chỉnh kết quả hơn.
+**Các bước tiếp theo:**
+- Khám phá các chuyển đổi định dạng tệp khác được GroupDocs.Conversion hỗ trợ. → Khám phá các tệp định dạng chuyển đổi khác được GroupDocs.Conversion hỗ trợ.
+- Thử nghiệm với các tùy chọn tải và chuyển đổi bổ sung để có được kết quả đầu ra phù hợp hơn. → Thử nghiệm các tùy chọn tải và chuyển đổi bổ sung để tùy chỉnh kết quả tốt hơn.
 
-**Call to Action:** Implement this solution in your projects today and enhance your document handling capabilities!
+**Kêu gọi hành động:** Triển khai giải pháp này trong các dự án của bạn ngay hôm nay và nâng cao khả năng xử lý tài liệu của bạn!
 
-## FAQ Section
+## Câu hỏi thường gặp
 
-1. **What is the best way to handle large CSV files during conversion?**  
-   - Consider breaking down the file or using streaming techniques to manage memory effectively. → Xem xét chia nhỏ tệp hoặc sử dụng kỹ thuật streaming để quản lý bộ nhớ hiệu quả.  
+**Q: Bản dùng thử miễn phí có bất kỳ hạn chế nào không?**
+Đáp: Bản dùng thử cho phép truy cập đầy đủ vào các tính năng chuyển đổi nhưng bị giới hạn ở một số lượng chuyển đổi nhất định mỗi tháng. → Bản dùng thử cho phép truy cập đầy đủ các tính năng chuyển đổi nhưng giới hạn số lần chuyển đổi mỗi tháng.
 
-2. **Can I customize the PDF output format further?**  
-   - Yes, GroupDocs.Conversion offers a variety of customization options for PDFs. → Có, GroupDocs.Conversion cung cấp nhiều tùy chọn tùy chỉnh cho PDF.  
+**Hỏi: Tôi có thể chuyển đổi tệp CSV chứa dấu phân cách tùy chỉnh không?**
+Đáp: Có, `CsvLoadOptions` cho phép bạn chỉ định một dấu phân cách tùy chỉnh thông qua `setDelimiter(char)`. → Có, `CsvLoadOptions` cho phép bạn chỉ định tùy chọn phân tích ký tự bằng `setDelimiter(char)`.
 
-3. **Is it possible to convert multiple CSV files at once?**  
-   - Implement batch processing in your Java application to handle multiple conversions efficiently. → Thực hiện xử lý hàng loạt trong ứng dụng Java để xử lý nhiều chuyển đổi một cách hiệu quả.  
+**Hỏi: Làm cách nào để thêm đầu trang hoặc chân trang vào tệp PDF được tạo?**
+Trả lời: Sử dụng `PdfConvertOptions` để đặt thuộc tính `setHeader` và `setFooter` trước khi chuyển đổi. → Sử dụng `PdfConvertOptions` để đặt thuộc tính `setHeader` và `setFooter` trước khi chuyển đổi.
 
-4. **How do I troubleshoot errors with file paths?**  
-   - Verify the correctness of both input and output paths; ensure they are accessible by your application. → Kiểm tra tính đúng đắn của cả đường dẫn đầu vào và đầu ra; đảm bảo chúng có thể truy cập được bởi ứng dụng của bạn.  
+**Q: Có thể bảo vệ tệp PDF đầu ra bằng mật khẩu không?**
+Đáp: GroupDocs.Conversion hỗ trợ mã hóa PDF; định cấu hình `PdfConvertOptions.setPassword("yourPassword")`. → GroupDocs.Conversion hỗ trợ mã hóa PDF; cấu hình `PdfConvertOptions.setPassword("yourPassword")`.
 
-5. **Are there any alternatives to GroupDocs.Conversion for this task?**  
-   - While other libraries exist, GroupDocs.Conversion provides a robust set of features specifically tailored for Java applications. → Mặc dù có các thư viện khác, GroupDocs.Conversion cung cấp bộ tính năng mạnh mẽ được thiết kế đặc biệt cho các ứng dụng Java.
+**Hỏi: Phiên bản Java nào được hỗ trợ?**
+Trả lời: Thư viện hoạt động với Java 8 và các bản phát hành mới hơn. → Thư viện hoạt động với Java 8 và các phiên bản mới hơn.
 
-## Frequently Asked Questions
+## Tài liệu tham khảo
+- **Tài liệu:** [Tài liệu GroupDocs](https://docs.groupdocs.com/conversion/java/)
+- **Tham khảo API:** [Tham khảo API GroupDocs](https://reference.groupdocs.com/conversion/java/)
+- **Tải xuống:** [Tải xuống GroupDocs](https://releases.groupdocs.com/conversion/java/)
+- **Mua:** [Mua giấy phép GroupDocs](https://purchase.groupdocs.com/buy)
+- **Dùng thử miễn phí:** [Dùng thử miễn phí](https://releases.groupdocs.com/conversion/java/)
+- **Giấy phép tạm thời:** [Nhận giấy phép tạm thời](https://purchase.groupdocs.com/temporary-license/)
 
-**Q: Does the free trial have any limitations?**  
-A: The trial allows full access to conversion features but is limited to a set number of conversions per month. → Bản dùng thử cho phép truy cập đầy đủ các tính năng chuyển đổi nhưng giới hạn số lần chuyển đổi mỗi tháng.
-
-**Q: Can I convert CSV files that contain custom delimiters?**  
-A: Yes, `CsvLoadOptions` lets you specify a custom delimiter via `setDelimiter(char)`. → Có, `CsvLoadOptions` cho phép bạn chỉ định ký tự phân tách tùy chỉnh bằng `setDelimiter(char)`.
-
-**Q: How do I add a header or footer to the generated PDF?**  
-A: Use `PdfConvertOptions` to set `setHeader` and `setFooter` properties before conversion. → Sử dụng `PdfConvertOptions` để đặt thuộc tính `setHeader` và `setFooter` trước khi chuyển đổi.
-
-**Q: Is it possible to protect the output PDF with a password?**  
-A: GroupDocs.Conversion supports PDF encryption; configure `PdfConvertOptions.setPassword("yourPassword")`. → GroupDocs.Conversion hỗ trợ mã hóa PDF; cấu hình `PdfConvertOptions.setPassword("yourPassword")`.
-
-**Q: What Java versions are supported?**  
-A: The library works with Java 8 and newer releases. → Thư viện hoạt động với Java 8 và các phiên bản mới hơn.
-
-## Resources
-- **Documentation:** [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/)
-- **API Reference:** [GroupDocs API Reference](https://reference.groupdocs.com/conversion/java/)
-- **Download:** [GroupDocs Downloads](https://releases.groupdocs.com/conversion/java/)
-- **Purchase:** [Buy GroupDocs License](https://purchase.groupdocs.com/buy)
-- **Free Trial:** [Try Free](https://releases.groupdocs.com/conversion/java/)
-- **Temporary License:** [Get a Temporary License](https://purchase.groupdocs.com/temporary-license/)
-- **Support:** [GroupDocs Forum](https://forum.groupdocs.com/c/conversion/10)
+- **Hỗ trợ:** [Diễn đàn GroupDocs](https://forum.groupdocs.com/c/conversion/10)
 
 ---
 
-**Last Updated:** 2026-01-02  
-**Tested With:** GroupDocs.Conversion 25.2  
-**Author:** GroupDocs
+**Cập nhật lần cuối:** 02/01/2026
+**Đã thử nghiệm với:** GroupDocs.Conversion 25.2
+**Tác giả:** GroupDocs

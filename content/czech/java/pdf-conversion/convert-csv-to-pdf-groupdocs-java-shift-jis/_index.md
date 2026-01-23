@@ -138,18 +138,6 @@ Nyní máte kompletní, připravený příklad **jak převést csv to pdf java**
 
 Připraven na další krok? Podívejte se na další podrobnosti na [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/).
 
-## Sekce FAQ
-1. **K čemu se používá kódování Shift_JIS v CSV souborech?**  
-   - Shift_JIS se běžně používá pro japonský text, zajišťuje správné zobrazení znaků.  
-2. **Mohu pomocí GroupDocs převést více CSV na PDF najednou?**  
-   - Ano, ale zpracovávejte je sekvenčně nebo v přijatelných dávkách, aby nedošlo k úzkým místům ve výkonu.  
-3. **Existuje limit velikosti CSV souborů, které lze převést?**  
-   - Hlavním omezením je paměť vašeho systému; velké soubory mohou vyžadovat ladění JVM.  
-4. **Jak řešit chyby při konverzi?**  
-   - Ověřte nastavení kódování, cesty k souborům a ujistěte se, že používáte kompatibilní verzi GroupDocs.  
-5. **Lze tuto metodu použít pro jiná kódování?**  
-   - Rozhodně! Upravit volání `CsvLoadOptions.setEncoding()` tak, aby odpovídalo požadované znakové sadě.
-
 ## Často kladené otázky
 
 **Q: Jak převést CSV na PDF v Javě bez použití GroupDocs?**  

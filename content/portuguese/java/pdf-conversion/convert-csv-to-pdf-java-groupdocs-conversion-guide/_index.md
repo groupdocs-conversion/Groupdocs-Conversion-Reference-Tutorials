@@ -6,7 +6,7 @@ keywords:
 - convert CSV to PDF Java
 - GroupDocs.Conversion for Java
 - Java CSV to PDF conversion
-title: 'Configurar o GroupDocs Conversion Maven: Converter CSV para PDF em Java –
+title: 'Configurar o GroupDocs Conversion Maven - Converter CSV para PDF em Java –
   Guia passo a passo'
 type: docs
 url: /pt/java/pdf-conversion/convert-csv-to-pdf-java-groupdocs-conversion-guide/
@@ -157,23 +157,6 @@ Seguindo este guia, você aprendeu como configurar eficientemente **setup groupd
 
 5. **Existem alternativas ao GroupDocs.Conversion para esta tarefa?**  
    - Embora existam outras bibliotecas, o GroupDocs.Conversion fornece um conjunto robusto de recursos especificamente adaptados para aplicações Java.
-
-## Perguntas Frequentes
-
-**Q: O teste gratuito tem alguma limitação?**  
-A: O teste permite acesso total aos recursos de conversão, mas é limitado a um número definido de conversões por mês.
-
-**Q: Posso converter arquivos CSV que contêm delimitadores personalizados?**  
-A: Sim, `CsvLoadOptions` permite especificar um delimitador personalizado via `setDelimiter(char)`.
-
-**Q: Como adiciono um cabeçalho ou rodapé ao PDF gerado?**  
-A: Use `PdfConvertOptions` para definir as propriedades `setHeader` e `setFooter` antes da conversão.
-
-**Q: É possível proteger o PDF de saída com uma senha?**  
-A: O GroupDocs.Conversion suporta criptografia de PDF; configure `PdfConvertOptions.setPassword("yourPassword")`.
-
-**Q: Quais versões do Java são suportadas?**  
-A: A biblioteca funciona com Java 8 e versões mais recentes.
 
 ## Recursos
 - **Documentation:** [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/)
