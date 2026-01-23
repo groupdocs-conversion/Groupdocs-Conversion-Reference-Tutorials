@@ -155,12 +155,6 @@ Nyní víte **jak použít možnosti** pro skrytí sledovaných změn při konve
 - Experimentujte s dalšími `PdfConvertOptions` pro jemné ladění výstupu PDF.  
 - Prozkoumejte další funkce konverze GroupDocs, jako je extrakce obrázků nebo konverze formátů.
 
----
-
-**Poslední aktualizace:** 2025-12-19  
-**Testováno s:** GroupDocs.Conversion 25.2 for Java  
-**Autor:** GroupDocs  
-
 **Zdroje**  
 - Dokumentace: [GroupDocs Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)  
 - Reference API: [GroupDocs Conversion API Reference](https://reference.groupdocs.com/conversion/java/)  
@@ -169,3 +163,9 @@ Nyní víte **jak použít možnosti** pro skrytí sledovaných změn při konve
 - Vyzkoušet: [Try It Out](https://releases.groupdocs.com/conversion/java/)  
 - Požádat zde: [Request Here](https://purchase.groupdocs.com/temporary-license/)  
 - Připojit se k diskuzi: [Join the Discussion](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**Poslední aktualizace:** 2025-12-19  
+**Testováno s:** GroupDocs.Conversion 25.2 for Java  
+**Autor:** GroupDocs  

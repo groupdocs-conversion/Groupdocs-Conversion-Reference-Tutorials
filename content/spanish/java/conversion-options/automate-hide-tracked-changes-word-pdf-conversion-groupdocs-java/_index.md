@@ -155,12 +155,6 @@ Ahora sabes **cómo usar opciones** para ocultar los cambios controlados al conv
 - Experimenta con `PdfConvertOptions` adicionales para afinar la salida PDF.  
 - Explora otras funciones de conversión de GroupDocs, como extracción de imágenes o conversión de formatos.
 
----
-
-**Última actualización:** 2025-12-19  
-**Probado con:** GroupDocs.Conversion 25.2 for Java  
-**Autor:** GroupDocs  
-
 **Recursos**  
 - Documentación: [Documentación de GroupDocs Conversion Java](https://docs.groupdocs.com/conversion/java/)  
 - Referencia API: [Referencia API de GroupDocs Conversion](https://reference.groupdocs.com/conversion/java/)  
@@ -169,3 +163,9 @@ Ahora sabes **cómo usar opciones** para ocultar los cambios controlados al conv
 - Prueba gratuita: [Pruébalo](https://releases.groupdocs.com/conversion/java/)  
 - Licencia temporal: [Solicitar aquí](https://purchase.groupdocs.com/temporary-license/)  
 - Foro de soporte: [Únete a la discusión](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**Última actualización:** 2025-12-19  
+**Probado con:** GroupDocs.Conversion 25.2 for Java  
+**Autor:** GroupDocs  

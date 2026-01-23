@@ -1,5 +1,5 @@
 ---
-title: "How to Track Conversion Progress in Java with GroupDocs: A Complete Guide"
+title: "How to Track Conversion Progress in Java with GroupDocs - A Complete Guide"
 description: "Learn how to track conversion in Java, including how to convert docx pdf java using GroupDocs.Conversion. Implement robust listeners for seamless monitoring."
 date: "2025-12-19"
 weight: 1

@@ -5,7 +5,7 @@ keywords:
 - track document conversion progress Java
 - GroupDocs.Conversion for Java
 - conversion state and progress listener
-title: 如何在 Java 中使用 GroupDocs 追蹤轉換進度：完整指南
+title: 如何在 Java 中使用 GroupDocs 追蹤轉換進度 - 完整指南
 type: docs
 url: /zh-hant/java/conversion-events-logging/java-groupdocs-conversion-progress-listener/
 weight: 1

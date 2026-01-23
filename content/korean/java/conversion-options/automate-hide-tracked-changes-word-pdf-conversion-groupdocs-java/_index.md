@@ -151,12 +151,6 @@ A: 예, 동일한 로드 옵션을 재사용하면서 파일을 순회하면 **b
 - 추가 `PdfConvertOptions`를 실험하여 PDF 출력을 세밀하게 조정합니다.  
 - 이미지 추출이나 형식 변환 등 GroupDocs의 다른 변환 기능을 살펴봅니다.
 
----
-
-**마지막 업데이트:** 2025-12-19  
-**테스트 환경:** GroupDocs.Conversion 25.2 for Java  
-**작성자:** GroupDocs  
-
 **리소스**  
 - 문서: [GroupDocs Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)  
 - API 레퍼런스: [GroupDocs Conversion API Reference](https://reference.groupdocs.com/conversion/java/)  
@@ -165,3 +159,9 @@ A: 예, 동일한 로드 옵션을 재사용하면서 파일을 순회하면 **b
 - 무료 체험: [Try It Out](https://releases.groupdocs.com/conversion/java/)  
 - 임시 라이선스: [Request Here](https://purchase.groupdocs.com/temporary-license/)  
 - 지원 포럼: [Join the Discussion](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**마지막 업데이트:** 2025-12-19  
+**테스트 환경:** GroupDocs.Conversion 25.2 for Java  
+**작성자:** GroupDocs  

@@ -156,12 +156,6 @@ Converter converterWithOptions = new Converter(inputFile, () -> wordLoadOptions)
 - Πειραματιστείτε με πρόσθετα `PdfConvertOptions` για λεπτομερή ρύθμιση της εξόδου PDF.  
 - Εξερευνήστε άλλα χαρακτηριστικά μετατροπής του GroupDocs, όπως εξαγωγή εικόνων ή μετατροπή μορφών.
 
----
-
-**Τελευταία Ενημέρωση:** 2025-12-19  
-**Δοκιμάστηκε Με:** GroupDocs.Conversion 25.2 for Java  
-**Συγγραφέας:** GroupDocs  
-
 **Πόροι**  
 - Τεκμηρίωση: [GroupDocs Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)  
 - Αναφορά API: [GroupDocs Conversion API Reference](https://reference.groupdocs.com/conversion/java/)  
@@ -170,3 +164,9 @@ Converter converterWithOptions = new Converter(inputFile, () -> wordLoadOptions)
 - Δωρεάν Δοκιμή: [Try It Out](https://releases.groupdocs.com/conversion/java/)  
 - Προσωρινή Άδεια: [Request Here](https://purchase.groupdocs.com/temporary-license/)  
 - Φόρουμ Υποστήριξης: [Join the Discussion](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**Τελευταία Ενημέρωση:** 2025-12-19  
+**Δοκιμάστηκε Με:** GroupDocs.Conversion 25.2 for Java  
+**Συγγραφέας:** GroupDocs  

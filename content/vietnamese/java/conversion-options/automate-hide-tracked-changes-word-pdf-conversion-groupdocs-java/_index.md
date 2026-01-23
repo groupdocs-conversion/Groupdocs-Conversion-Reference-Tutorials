@@ -155,12 +155,6 @@ Bây giờ bạn đã biết **how to use options** để ẩn các thay đổi 
 - Thử nghiệm các `PdfConvertOptions` bổ sung để tinh chỉnh đầu ra PDF.  
 - Khám phá các tính năng chuyển đổi khác của GroupDocs, như trích xuất hình ảnh hoặc chuyển đổi định dạng.
 
----
-
-**Cập nhật lần cuối:** 2025-12-19  
-**Kiểm tra với:** GroupDocs.Conversion 25.2 cho Java  
-**Tác giả:** GroupDocs  
-
 **Tài nguyên**  
 - Tài liệu: [GroupDocs Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)  
 - Tham khảo API: [GroupDocs Conversion API Reference](https://reference.groupdocs.com/conversion/java/)  
@@ -169,3 +163,9 @@ Bây giờ bạn đã biết **how to use options** để ẩn các thay đổi 
 - Dùng thử miễn phí: [Try It Out](https://releases.groupdocs.com/conversion/java/)  
 - Giấy phép tạm thời: [Request Here](https://purchase.groupdocs.com/temporary-license/)  
 - Diễn đàn hỗ trợ: [Join the Discussion](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**Cập nhật lần cuối:** 2025-12-19  
+**Kiểm tra với:** GroupDocs.Conversion 25.2 cho Java  
+**Tác giả:** GroupDocs  

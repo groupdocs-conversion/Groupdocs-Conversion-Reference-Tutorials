@@ -155,12 +155,6 @@ Sie wissen jetzt **how to use options**, um nachverfolgte Änderungen beim Konve
 - Experimentieren Sie mit zusätzlichen `PdfConvertOptions`, um die PDF‑Ausgabe fein abzustimmen.  
 - Erkunden Sie weitere Konvertierungs‑Features von GroupDocs, wie Bildextraktion oder Formatkonvertierung.
 
----
-
-**Last Updated:** 2025-12-19  
-**Tested With:** GroupDocs.Conversion 25.2 for Java  
-**Author:** GroupDocs  
-
 **Ressourcen**  
 - Dokumentation: [GroupDocs Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)  
 - API‑Referenz: [GroupDocs Conversion API Reference](https://reference.groupdocs.com/conversion/java/)  
@@ -169,3 +163,9 @@ Sie wissen jetzt **how to use options**, um nachverfolgte Änderungen beim Konve
 - Kostenlose Testversion: [Try It Out](https://releases.groupdocs.com/conversion/java/)  
 - Temporäre Lizenz: [Request Here](https://purchase.groupdocs.com/temporary-license/)  
 - Support‑Forum: [Join the Discussion](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**Last Updated:** 2025-12-19  
+**Tested With:** GroupDocs.Conversion 25.2 for Java  
+**Author:** GroupDocs  

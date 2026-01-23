@@ -157,12 +157,6 @@ Most már tudja, **how to use options**-t a nyomon követett módosítások elre
 - Kísérletezzen további `PdfConvertOptions`-okkal a PDF kimenet finomhangolásához.  
 - Fedezze fel a GroupDocs további konverziós funkcióit, például a képek kinyerését vagy a formátumkonverziót.
 
----
-
-**Utoljára frissítve:** 2025-12-19  
-**Tesztelve ezzel:** GroupDocs.Conversion 25.2 for Java  
-**Szerző:** GroupDocs  
-
 **Erőforrások**  
 - Dokumentáció: [GroupDocs Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)  
 - API referencia: [GroupDocs Conversion API Reference](https://reference.groupdocs.com/conversion/java/)  
@@ -171,3 +165,9 @@ Most már tudja, **how to use options**-t a nyomon követett módosítások elre
 - Ingyenes próba: [Try It Out](https://releases.groupdocs.com/conversion/java/)  
 - Ideiglenes licenc: [Request Here](https://purchase.groupdocs.com/temporary-license/)  
 - Támogatási fórum: [Join the Discussion](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**Utoljára frissítve:** 2025-12-19  
+**Tesztelve ezzel:** GroupDocs.Conversion 25.2 for Java  
+**Szerző:** GroupDocs  

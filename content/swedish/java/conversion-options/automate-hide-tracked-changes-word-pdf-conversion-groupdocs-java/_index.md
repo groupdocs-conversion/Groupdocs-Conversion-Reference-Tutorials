@@ -155,12 +155,6 @@ Du vet nu **how to use options** för att dölja spårade ändringar när du kon
 - Experimentera med ytterligare `PdfConvertOptions` för att finjustera PDF‑utdata.  
 - Utforska GroupDocs andra konverteringsfunktioner, såsom bildextraktion eller formatkonvertering.
 
----
-
-**Senast uppdaterad:** 2025-12-19  
-**Testat med:** GroupDocs.Conversion 25.2 för Java  
-**Författare:** GroupDocs  
-
 **Resurser**  
 - Dokumentation: [GroupDocs Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)  
 - API‑referens: [GroupDocs Conversion API Reference](https://reference.groupdocs.com/conversion/java/)  
@@ -169,3 +163,9 @@ Du vet nu **how to use options** för att dölja spårade ändringar när du kon
 - Gratis provperiod: [Try It Out](https://releases.groupdocs.com/conversion/java/)  
 - Tillfällig licens: [Request Here](https://purchase.groupdocs.com/temporary-license/)  
 - Supportforum: [Join the Discussion](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**Senast uppdaterad:** 2025-12-19  
+**Testat med:** GroupDocs.Conversion 25.2 för Java  
+**Författare:** GroupDocs  

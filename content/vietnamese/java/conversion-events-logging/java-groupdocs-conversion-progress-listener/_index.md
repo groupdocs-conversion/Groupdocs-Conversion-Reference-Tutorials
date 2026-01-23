@@ -7,7 +7,7 @@ keywords:
 - track document conversion progress Java
 - GroupDocs.Conversion for Java
 - conversion state and progress listener
-title: 'Cách theo dõi tiến độ chuyển đổi trong Java với GroupDocs: Hướng dẫn toàn
+title: 'Cách theo dõi tiến độ chuyển đổi trong Java với GroupDocs - Hướng dẫn toàn
   diện'
 type: docs
 url: /vi/java/conversion-events-logging/java-groupdocs-conversion-progress-listener/

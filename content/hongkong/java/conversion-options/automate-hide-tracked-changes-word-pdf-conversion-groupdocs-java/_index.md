@@ -154,12 +154,6 @@ A: 可以，您可以在迴圈中重用相同的載入選項，以 **batch conve
 - 嘗試使用額外的 `PdfConvertOptions` 進一步微調 PDF 輸出。  
 - 探索 GroupDocs 其他的轉換功能，例如影像抽取或格式轉換。
 
----
-
-**最後更新：** 2025-12-19  
-**測試環境：** GroupDocs.Conversion 25.2 for Java  
-**作者：** GroupDocs  
-
 **資源**  
 - **文件說明**： [GroupDocs Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)  
 - **API 參考**： [GroupDocs Conversion API Reference](https://reference.groupdocs.com/conversion/java/)  
@@ -168,3 +162,9 @@ A: 可以，您可以在迴圈中重用相同的載入選項，以 **batch conve
 - **免費試用**： [Try It Out](https://releases.groupdocs.com/conversion/java/)  
 - **臨時授權**： [Request Here](https://purchase.groupdocs.com/temporary-license/)  
 - **支援論壇**： [Join the Discussion](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**最後更新：** 2025-12-19  
+**測試環境：** GroupDocs.Conversion 25.2 for Java  
+**作者：** GroupDocs  

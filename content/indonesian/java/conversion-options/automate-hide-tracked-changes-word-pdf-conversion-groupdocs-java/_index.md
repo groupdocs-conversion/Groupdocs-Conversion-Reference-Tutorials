@@ -155,11 +155,6 @@ Anda kini mengetahui **how to use options** untuk menyembunyikan perubahan yang 
 - Bereksperimen dengan `PdfConvertOptions` tambahan untuk menyempurnakan output PDF.  
 - Jelajahi fitur konversi lain dari GroupDocs, seperti ekstraksi gambar atau konversi format.
 
----
-
-**Last Updated:** 2025-12-19  
-**Tested With:** GroupDocs.Conversion 25.2 for Java  
-**Author:** GroupDocs  
 
 **Sumber Daya**  
 - Documentation: [GroupDocs Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)  
@@ -169,3 +164,9 @@ Anda kini mengetahui **how to use options** untuk menyembunyikan perubahan yang 
 - Free Trial: [Try It Out](https://releases.groupdocs.com/conversion/java/)  
 - Temporary License: [Request Here](https://purchase.groupdocs.com/temporary-license/)  
 - Support Forum: [Join the Discussion](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**Last Updated:** 2025-12-19  
+**Tested With:** GroupDocs.Conversion 25.2 for Java  
+**Author:** GroupDocs  

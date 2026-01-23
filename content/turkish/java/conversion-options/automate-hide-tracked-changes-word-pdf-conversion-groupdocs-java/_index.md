@@ -155,12 +155,6 @@ Artık GroupDocs.Conversion for Java ile Word belgelerini PDF'ye dönüştürür
 - PDF çıktısını ince ayarlamak için ek `PdfConvertOptions` ile deneyler yapın.  
 - GroupDocs'un görüntü çıkarma veya format dönüşümü gibi diğer dönüşüm özelliklerini keşfedin.
 
----
-
-**Last Updated:** 2025-12-19  
-**Tested With:** GroupDocs.Conversion 25.2 for Java  
-**Author:** GroupDocs  
-
 **Resources**  
 - Dokümantasyon: [GroupDocs Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)  
 - API Referansı: [GroupDocs Conversion API Reference](https://reference.groupdocs.com/conversion/java/)  
@@ -169,3 +163,9 @@ Artık GroupDocs.Conversion for Java ile Word belgelerini PDF'ye dönüştürür
 - Ücretsiz Deneme: [Try It Out](https://releases.groupdocs.com/conversion/java/)  
 - Geçici Lisans: [Request Here](https://purchase.groupdocs.com/temporary-license/)  
 - Destek Forumu: [Join the Discussion](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**Last Updated:** 2025-12-19  
+**Tested With:** GroupDocs.Conversion 25.2 for Java  
+**Author:** GroupDocs  

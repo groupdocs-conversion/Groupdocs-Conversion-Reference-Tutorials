@@ -155,12 +155,6 @@ Agora você sabe **how to use options** para ocultar alterações rastreadas ao 
 - Experimente `PdfConvertOptions` adicionais para ajustar finamente a saída PDF.  
 - Explore outros recursos de conversão do GroupDocs, como extração de imagens ou conversão de formatos.
 
----
-
-**Última atualização:** 2025-12-19  
-**Testado com:** GroupDocs.Conversion 25.2 para Java  
-**Autor:** GroupDocs  
-
 **Recursos**  
 - Documentation: [GroupDocs Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)  
 - API Reference: [GroupDocs Conversion API Reference](https://reference.groupdocs.com/conversion/java/)  
@@ -169,3 +163,9 @@ Agora você sabe **how to use options** para ocultar alterações rastreadas ao 
 - Free Trial: [Try It Out](https://releases.groupdocs.com/conversion/java/)  
 - Temporary License: [Request Here](https://purchase.groupdocs.com/temporary-license/)  
 - Support Forum: [Join the Discussion](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**Última atualização:** 2025-12-19  
+**Testado com:** GroupDocs.Conversion 25.2 para Java  
+**Autor:** GroupDocs  

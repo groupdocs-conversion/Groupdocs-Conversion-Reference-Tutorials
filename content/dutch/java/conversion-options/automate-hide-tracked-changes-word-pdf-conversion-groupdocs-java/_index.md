@@ -155,12 +155,6 @@ Je weet nu **how to use options** om wijzigingen bijhouden te verbergen bij het 
 - Experimenteer met extra `PdfConvertOptions` om de PDF‑output fijn af te stemmen.  
 - Verken andere conversiefuncties van GroupDocs, zoals afbeeldingsextractie of formaatconversie.
 
----
-
-**Laatst bijgewerkt:** 2025-12-19  
-**Getest met:** GroupDocs.Conversion 25.2 for Java  
-**Auteur:** GroupDocs  
-
 **Bronnen**  
 - Documentatie: [GroupDocs Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)  
 - API‑referentie: [GroupDocs Conversion API Reference](https://reference.groupdocs.com/conversion/java/)  
@@ -169,3 +163,9 @@ Je weet nu **how to use options** om wijzigingen bijhouden te verbergen bij het 
 - Gratis proefversie: [Try It Out](https://releases.groupdocs.com/conversion/java/)  
 - Tijdelijke licentie: [Request Here](https://purchase.groupdocs.com/temporary-license/)  
 - Supportforum: [Join the Discussion](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**Laatst bijgewerkt:** 2025-12-19  
+**Getest met:** GroupDocs.Conversion 25.2 for Java  
+**Auteur:** GroupDocs  

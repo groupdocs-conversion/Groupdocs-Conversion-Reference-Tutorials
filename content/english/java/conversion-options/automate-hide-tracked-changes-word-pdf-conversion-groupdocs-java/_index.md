@@ -153,12 +153,6 @@ You now know **how to use options** to hide tracked changes when converting Word
 - Experiment with additional `PdfConvertOptions` to fine‑tune the PDF output.  
 - Explore GroupDocs’ other conversion features, such as image extraction or format conversion.
 
----
-
-**Last Updated:** 2025-12-19  
-**Tested With:** GroupDocs.Conversion 25.2 for Java  
-**Author:** GroupDocs  
-
 **Resources**  
 - Documentation: [GroupDocs Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)  
 - API Reference: [GroupDocs Conversion API Reference](https://reference.groupdocs.com/conversion/java/)  
@@ -167,3 +161,9 @@ You now know **how to use options** to hide tracked changes when converting Word
 - Free Trial: [Try It Out](https://releases.groupdocs.com/conversion/java/)  
 - Temporary License: [Request Here](https://purchase.groupdocs.com/temporary-license/)  
 - Support Forum: [Join the Discussion](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**Last Updated:** 2025-12-19  
+**Tested With:** GroupDocs.Conversion 25.2 for Java  
+**Author:** GroupDocs  

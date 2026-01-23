@@ -155,12 +155,6 @@ Teraz wiesz **how to use options**, aby ukrywać zmiany śledzone przy konwertow
 - Eksperymentuj z dodatkowymi `PdfConvertOptions`, aby precyzyjnie dostroić wyjście PDF.  
 - Poznaj inne funkcje konwersji GroupDocs, takie jak wyodrębnianie obrazów czy konwersja formatów.
 
----
-
-**Ostatnia aktualizacja:** 2025-12-19  
-**Testowano z:** GroupDocs.Conversion 25.2 dla Javy  
-**Autor:** GroupDocs  
-
 **Zasoby**  
 - Documentation: [GroupDocs Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)  
 - API Reference: [GroupDocs Conversion API Reference](https://reference.groupdocs.com/conversion/java/)  
@@ -169,3 +163,9 @@ Teraz wiesz **how to use options**, aby ukrywać zmiany śledzone przy konwertow
 - Free Trial: [Try It Out](https://releases.groupdocs.com/conversion/java/)  
 - Temporary License: [Request Here](https://purchase.groupdocs.com/temporary-license/)  
 - Support Forum: [Join the Discussion](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**Ostatnia aktualizacja:** 2025-12-19  
+**Testowano z:** GroupDocs.Conversion 25.2 dla Javy  
+**Autor:** GroupDocs  

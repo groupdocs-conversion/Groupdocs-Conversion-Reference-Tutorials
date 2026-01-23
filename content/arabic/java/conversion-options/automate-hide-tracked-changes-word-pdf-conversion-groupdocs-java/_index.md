@@ -154,12 +154,6 @@ A: نعم، يمكنك التكرار عبر الملفات مع إعادة اس
 - تجربة `PdfConvertOptions` إضافية لضبط مخرجات PDF بدقة.  
 - استكشاف ميزات التحويل الأخرى في GroupDocs، مثل استخراج الصور أو تحويل الصيغ.
 
----
-
-**آخر تحديث:** 2025-12-19  
-**تم الاختبار مع:** GroupDocs.Conversion 25.2 للـ Java  
-**المؤلف:** GroupDocs  
-
 **الموارد**  
 - Documentation: [توثيق GroupDocs Conversion Java](https://docs.groupdocs.com/conversion/java/)  
 - API Reference: [مرجع API لتحويل GroupDocs](https://reference.groupdocs.com/conversion/java/)  
@@ -168,3 +162,9 @@ A: نعم، يمكنك التكرار عبر الملفات مع إعادة اس
 - Free Trial: [جرّبه](https://releases.groupdocs.com/conversion/java/)  
 - Temporary License: [اطلب هنا](https://purchase.groupdocs.com/temporary-license/)  
 - Support Forum: [انضم إلى المناقشة](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**آخر تحديث:** 2025-12-19  
+**تم الاختبار مع:** GroupDocs.Conversion 25.2 للـ Java  
+**المؤلف:** GroupDocs  

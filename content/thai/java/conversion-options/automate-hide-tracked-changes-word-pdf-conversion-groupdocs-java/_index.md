@@ -155,12 +155,6 @@ Converter converterWithOptions = new Converter(inputFile, () -> wordLoadOptions)
 - ทดลองใช้ `PdfConvertOptions` เพิ่มเติมเพื่อปรับแต่งผลลัพธ์ PDF อย่างละเอียด.  
 - สำรวจคุณลักษณะการแปลงอื่น ๆ ของ GroupDocs เช่น การดึงภาพหรือการแปลงรูปแบบ.  
 
----
-
-**อัปเดตล่าสุด:** 2025-12-19  
-**ทดสอบด้วย:** GroupDocs.Conversion 25.2 for Java  
-**ผู้เขียน:** GroupDocs  
-
 **แหล่งข้อมูล**  
 - เอกสารประกอบ: [GroupDocs Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)  
 - อ้างอิง API: [GroupDocs Conversion API Reference](https://reference.groupdocs.com/conversion/java/)  
@@ -169,3 +163,9 @@ Converter converterWithOptions = new Converter(inputFile, () -> wordLoadOptions)
 - ทดลองใช้งานฟรี: [Try It Out](https://releases.groupdocs.com/conversion/java/)  
 - ใบอนุญาตชั่วคราว: [Request Here](https://purchase.groupdocs.com/temporary-license/)  
 - ฟอรั่มสนับสนุน: [Join the Discussion](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**อัปเดตล่าสุด:** 2025-12-19  
+**ทดสอบด้วย:** GroupDocs.Conversion 25.2 for Java  
+**ผู้เขียน:** GroupDocs  

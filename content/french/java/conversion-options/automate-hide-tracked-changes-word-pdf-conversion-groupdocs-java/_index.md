@@ -155,12 +155,6 @@ Vous savez maintenant **how to use options** pour masquer les modifications suiv
 - Expérimentez avec des `PdfConvertOptions` supplémentaires pour affiner la sortie PDF.  
 - Explorez les autres fonctionnalités de conversion de GroupDocs, comme l’extraction d’images ou la conversion de formats.
 
----
-
-**Dernière mise à jour :** 2025-12-19  
-**Testé avec :** GroupDocs.Conversion 25.2 for Java  
-**Auteur :** GroupDocs  
-
 **Ressources**  
 - Documentation : [GroupDocs Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)  
 - Référence API : [GroupDocs Conversion API Reference](https://reference.groupdocs.com/conversion/java/)  
@@ -169,3 +163,9 @@ Vous savez maintenant **how to use options** pour masquer les modifications suiv
 - Essai gratuit : [Try It Out](https://releases.groupdocs.com/conversion/java/)  
 - Licence temporaire : [Request Here](https://purchase.groupdocs.com/temporary-license/)  
 - Forum de support : [Join the Discussion](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**Dernière mise à jour :** 2025-12-19  
+**Testé avec :** GroupDocs.Conversion 25.2 for Java  
+**Auteur :** GroupDocs  

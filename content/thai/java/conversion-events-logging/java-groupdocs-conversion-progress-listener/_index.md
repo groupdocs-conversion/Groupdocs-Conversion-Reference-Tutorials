@@ -6,7 +6,7 @@ keywords:
 - track document conversion progress Java
 - GroupDocs.Conversion for Java
 - conversion state and progress listener
-title: 'วิธีติดตามความคืบหน้าการแปลงใน Java ด้วย GroupDocs: คู่มือฉบับสมบูรณ์'
+title: 'วิธีติดตามความคืบหน้าการแปลงใน Java ด้วย GroupDocs - คู่มือฉบับสมบูรณ์'
 type: docs
 url: /th/java/conversion-events-logging/java-groupdocs-conversion-progress-listener/
 weight: 1
@@ -16,30 +16,30 @@ weight: 1
 
 หากคุณต้องการ **ทราบวิธีการติดตามการแปลง** ในแอปพลิเคชัน Java ของคุณ—โดยเฉพาะเมื่อคุณต้องการ **แปลง docx pdf java**—GroupDocs.Conversion มีวิธีการที่เรียบง่ายและขับเคลื่อนด้วยเหตุการณ์ การแนบ listener จะทำให้คุณได้รับข้อมูลตอบกลับแบบเรียลไทม์ในแต่ละขั้นตอนของ pipeline การแปลง ทำให้การทำงานแบบ batch, แถบความคืบหน้า UI, และการบันทึกข้อมูลเป็นเรื่องโปร่งใสมากขึ้น.
 
-## Quick Answers
-- **Listener ทำหน้าที่อะไร?** มันรายงานเหตุการณ์เริ่มต้น, ความคืบหน้า (เปอร์เซ็นต์), และการเสร็จสิ้น  
-- **ฉันสามารถตรวจสอบรูปแบบใดได้บ้าง?** รูปแบบใดก็ได้ที่ GroupDocs.Conversion รองรับ เช่น DOCX → PDF  
-- **ต้องการไลเซนส์หรือไม่?** การทดลองใช้งานฟรีใช้ได้สำหรับการพัฒนา; ต้องมีไลเซนส์แบบชำระเงินสำหรับการใช้งานจริง  
-- **ต้องใช้ Maven หรือไม่?** Maven ทำให้การจัดการ dependency ง่ายขึ้น, แต่คุณก็สามารถใช้ Gradle หรือ JAR แบบแมนนวลได้เช่นกัน  
-- **สามารถใช้ในเว็บเซอร์วิสได้หรือไม่?** ได้—ห่อการเรียกแปลงใน endpoint ของ REST แล้วสตรีมความคืบกลับไปยังไคลเอนต์  
+## คำตอบด่วน
+- **Listener บันทึกอะไร?** รวมถึงรายงานเริ่มต้น, ความละเอียด (เปอร์เซ็นต์), เอกสารที่เกี่ยวข้อง
+- **ฉันต้องการรูปแบบใดๆ บ้างหรือไม่** รองรับที่ GroupDocs.Conversion รองรับเช่น DOCX→PDF
+- **ต้องการไลเซนส์หรือไม่?** ประโยชน์ของการใช้งานฟรีสำหรับการพัฒนา; ต้องมีเซนส์การชำระเงินแบบสมจริง
+- **ต้องใช้ Maven ต้องใช้เวลา?** Maven คุณจะต้องจัดการกับการพึ่งพาอาศัย แต่คุณก็สามารถใช้ Gradle หรือ JAR แบบแมนนวลได้
+- ** สามารถอยู่ในเว็บเซอร์วิสได้หรือเปล่า?** ได้—ห่อการเรียกแปลงในจุดสิ้นสุดของ REST จากนั้นสตรีมความคืบในนั้น
 
-## What is “how to track conversion” in GroupDocs?
-GroupDocs.Conversion มีอินเทอร์เฟซ `IConverterListener`. การนำอินเทอร์เฟซนี้ไปใช้งานทำให้โค้ดของคุณตอบสนองเมื่อเครื่องมือแปลงเปลี่ยนสถานะ, ช่วยให้คุณบันทึก, อัปเดตคอมโพเนนต์ UI, หรือเรียกกระบวนการต่อเนื่องได้.
+## “วิธีการติดตามการเปลี่ยนแปลง” ใน GroupDocs คืออะไร
+GroupDocs.Conversion มีอยู่แล้ว `IConverterListener` สามารถนำมาใช้ทำให้โค้ดของคุณดีขึ้นเมื่อเครื่องมือแปลงสถานะ, ช่วยให้บันทึก, อัปเดตคอมโพเนนต์ UI, หรือเรียกเฟิร์มแวร์ต่อเนื่องได้
 
-## Why track conversion progress?
-- **ประสบการณ์ผู้ใช้:** แสดงเปอร์เซ็นต์แบบเรียลไทม์ในแดชบอร์ด UI หรือเครื่องมือ CLI  
-- **การจัดการข้อผิดพลาด:** ตรวจจับการหยุดชะงักตั้งแต่ต้นและลองใหม่หรือยกเลิกอย่างสุภาพ  
-- **การวางแผนทรัพยากร:** ประมาณเวลาการประมวลผลสำหรับ batch ขนาดใหญ่และจัดสรรทรัพยากรตามนั้น  
+## ทำไมต้องติดตามความคืบหน้าของ Conversion?
+- **ประสบการณ์ผู้ใช้:** แสดงเปอร์เซ็นต์ในส่วนต่างๆ ใน ​​UI หรือเครื่องมือ CLI
+- **การจัดการความรู้สึก:** ต้องใช้การกำกับดูแลตั้งแต่ต้นและลองใหม่หรือยกเลิกอย่างสุภาพ
+- ** กล่าวถึงทรัพยากร:** ในเวลาที่เห็นได้ชัดสำหรับแบทช์ขนาดใหญ่และแหล่งที่มาตามนั้น
 
-## Prerequisites
-- **Java Development Kit (JDK 8+).**  
-- **Maven** (หรือเครื่องมือสร้างใด ๆ ที่สามารถ resolve Maven repositories)  
-- **ไลบรารี GroupDocs.Conversion for Java**  
-- **ไลเซนส์ GroupDocs ที่ถูกต้อง** (การทดลองใช้งานฟรีใช้ได้สำหรับการทดสอบ)  
+## ข้อกำหนดเบื้องต้น
+- **ชุดพัฒนา Java (JDK 8+)**
+- **Maven** (หรือเครื่องมือสร้างสิ่งใด ๆ ที่สามารถแก้ไขที่เก็บ Maven ได้)
+- **ไลบรารี GroupDocs.Conversion สำหรับ Java**
+- ** เช่นเดียวกับเซนส์ GroupDocs ที่ถูกต้อง** (สมุนไพรใช้งานได้ฟรีสำหรับการทดสอบ)
 
-## Setting Up GroupDocs.Conversion for Java
-### Install GroupDocs.Conversion via Maven
-Add the repository and dependency to your `pom.xml`:
+## การตั้งค่า GroupDocs.Conversion สำหรับ Java
+### ติดตั้ง GroupDocs.Conversion ผ่าน Maven
+เพิ่มพื้นที่เก็บข้อมูลและการพึ่งพาใน `pom.xml` ของคุณ:
 
 ```xml
 <repositories>
@@ -59,11 +59,11 @@ Add the repository and dependency to your `pom.xml`:
 </dependencies>
 ```
 
-### License Acquisition
-GroupDocs มีการทดลองใช้งานฟรี, ไลเซนส์ชั่วคราวสำหรับการประเมิน, และตัวเลือกการซื้อสำหรับการใช้งานเชิงพาณิชย์. เยี่ยมชม [purchase page](https://purchase.groupdocs.com/buy) เพื่อรับไลเซนส์ของคุณ.
+### การได้มาซึ่งใบอนุญาต
+GroupDocs มีฟังก์ชั่นการใช้งานฟรี, ไลเซนส์ชั่วคราวสำหรับระบบ, และระบบควบคุมโดยตรง จากนั้น [หน้าการซื้อ](https://purchase.groupdocs.com/buy) เพื่อรับไลเซนส์ของคุณ
 
-### Basic Initialization
-Once the library is on your classpath, you can create a `ConverterSettings` instance:
+### การเริ่มต้นขั้นพื้นฐาน
+เมื่อไลบรารีอยู่บน classpath ของคุณแล้ว คุณสามารถสร้างอินสแตนซ์ `ConverterSettings` ได้:
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -77,15 +77,15 @@ public class InitializeGroupDocs {
 }
 ```
 
-## Implementation Guide
-We'll walk through each feature step‑by‑step, adding context before each code snippet.
+## คู่มือการใช้งาน
+เราจะอธิบายคุณลักษณะแต่ละอย่างทีละขั้นตอน โดยเพิ่มบริบทก่อนข้อมูลโค้ดแต่ละรายการ
 
-### Feature 1: Conversion State and Progress Listener
-#### Overview
-This listener tells you when a conversion starts, how far it has progressed, and when it finishes.
+### คุณสมบัติ 1: สถานะการแปลงและผู้ฟังความคืบหน้า
+#### ภาพรวม
+Listener นี้จะบอกคุณเมื่อ Conversion เริ่มต้น ความคืบหน้าไปไกลแค่ไหน และสิ้นสุดเมื่อใด
 
-#### Implementing the Listener
-Create a class that implements `IConverterListener`:
+#### การนำผู้ฟังไปใช้
+สร้างคลาสที่ใช้ `IConverterListener`:
 
 ```java
 import com.groupdocs.conversion.IConverterListener;
@@ -105,42 +105,42 @@ class ListenConversionStateAndProgress implements IConverterListener {
 }
 ```
 
-**Explanation**  
-- **started()** – ถูกเรียกก่อนที่เอนจินจะเริ่มประมวลผล. ใช้เพื่อรีเซ็ตตัวจับเวลา หรือคอมโพเนนต์ UI.  
-- **progress(byte current)** – รับค่าตั้งแต่ 0 ถึง 100 แสดงเปอร์เซ็นต์ที่เสร็จแล้ว. เหมาะสำหรับแถบความคืบหน้า.  
-- **completed()** – ถูกเรียกหลังจากไฟล์ผลลัพธ์ถูกเขียนเสร็จสมบูรณ์. ทำความสะอาดทรัพยากรที่นี่.
+**คำอธิบาย**
+- **started()** – สำหรับเรียกความสนใจในจีนเพื่อตรวจสอบ. การเริ่มต้นใหม่ตัวเตือนหรือคอมโพเนนต์ UI.
+- **ความคืบหน้า(byte current)** – รับค่าตั้งแต่ 0 ถึง 100 แสดงเปอร์เซ็นต์ที่เป็นตัวอย่าง บางส่วนในขณะนี้.
+- **completed()** – บันทึกการเรียกหลังจากไฟล์ผลลัพธ์ถูกเขียนเพิ่มเติม ทรัพยากรที่นี่.
 
-### Feature 2: Converter Settings with Listener
-#### Overview
-Attach your listener to the `ConverterSettings` so the engine knows where to send events.
+### คุณสมบัติ 2: การตั้งค่าตัวแปลงพร้อม Listener
+#### ภาพรวม
+แนบ Listener ของคุณเข้ากับ `ConverterSettings` เพื่อให้กลไกรู้ว่าจะส่งเหตุการณ์ไปที่ใด
 
-#### Configuration Steps
-1. **Create an instance of your listener**:
+#### ขั้นตอนการกำหนดค่า
+1. **สร้างตัวอย่างของผู้ฟังของคุณ**:
 
    ```java
    IConverterListener listener = new ListenConversionStateAndProgress();
    ```
 
-2. **Configure the `ConverterSettings` object**:
+2. **กำหนดค่าออบเจ็กต์ `ConverterSettings`**:
 
    ```java
    ConverterSettings settingsFactory = new ConverterSettings();
    settingsFactory.setListener(listener);
    ```
 
-### Feature 3: Performing Document Conversion
-#### Overview
-Now you’ll see the listener in action while converting a DOCX file to PDF.
+### คุณสมบัติที่ 3: การแปลงเอกสาร
+#### ภาพรวม
+ตอนนี้คุณจะได้เห็นการทำงานของ Listener ในระหว่างการแปลงไฟล์ DOCX เป็น PDF
 
-#### Implementation Steps
-1. **Define input and output paths** (replace with your actual directories):
+#### ขั้นตอนการใช้งาน
+1. **กำหนดเส้นทางอินพุตและเอาต์พุต** (แทนที่ด้วยไดเร็กทอรีจริงของคุณ):
 
    ```java
    String inputDocPath = "YOUR_DOCUMENT_DIRECTORY/SAMPLE_DOCX";
    String outputPath = "YOUR_OUTPUT_DIRECTORY/converted.pdf";
    ```
 
-2. **Initialize the converter with the listener‑enabled settings** and run the conversion:
+2. **เริ่มต้นตัวแปลงด้วยการตั้งค่าที่เปิดใช้งาน Listener** และเริ่มการแปลง:
 
    ```java
    try (Converter converter = new Converter(inputDocPath, settingsFactory)) {
@@ -149,48 +149,48 @@ Now you’ll see the listener in action while converting a DOCX file to PDF.
    }
    ```
 
-**Explanation**  
-- **Converter** – คลาสหลักที่ประสานการแปลง.  
-- **PdfConvertOptions** – บอก GroupDocs ว่าต้องการผลลัพธ์เป็น PDF. คุณสามารถเปลี่ยนเป็น `PptxConvertOptions`, `HtmlConvertOptions` ฯลฯ, และ listener เดิมจะยังคงรายงานความคืบหน้า.
+**คำอธิบาย**
+- **Converter** – คลาสหลักที่ประสานเสียง.
+- **PdfConvertOptions** – บอก GroupDocs ที่ต้องการผลลัพธ์เป็น PDF เคยได้ยิน `PptxConvertOptions`, `HtmlConvertOptions` และอื่นๆ, และ Listener เดิมที่รายงานในวันนี้.
 
-## How to Convert docx pdf java with GroupDocs
-โค้ดด้านบนได้แสดงกระบวนการ **docx → pdf** แล้ว. หากคุณต้องการรูปแบบเป้าหมายอื่น ๆ เพียงเปลี่ยน `PdfConvertOptions` เป็นคลาส options ที่เหมาะสม (เช่น `HtmlConvertOptions` สำหรับ HTML). Listener จะไม่เปลี่ยนแปลง, ดังนั้นคุณยังคงได้รับความคืบหน้าแบบเรียลไทม์ไม่ว่าประเภทผลลัพธ์จะเป็นอะไร.
+## วิธีแปลง docx pdf java ด้วย GroupDocs
+โค้ดด้านบนได้แสดงรายการ **docx→pdf** แล้ว รูปแบบเป้าหมายอื่นๆ เพียงเปลี่ยน `PdfConvertOptions` เป็นคลาสตัวเลือกที่เหมาะสม (เช่น `HtmlConvertOptions` สำหรับ HTML) ผู้ฟังมีการเปลี่ยนแปลง ดังนั้นคุณยังคงได้รับไม่ว่าประเภทผลลัพธ์จะเป็นอะไรก็ตาม
 
-## Practical Applications
-1. **ระบบจัดการเอกสารอัตโนมัติ** – ประมวลผล batch จำนวนหลายพันไฟล์พร้อมแสดงแดชบอร์ดความคืบหน้าแบบเรียลไทม์.  
-2. **โซลูชันซอฟต์แวร์ระดับองค์กร** – ฝังการแปลงเข้าไปใน pipeline ใบแจ้งหนี้, การจัดเก็บเอกสารทางกฎหมาย, หรือการสร้างเนื้อหา e‑learning.  
-3. **เครื่องมือย้ายเนื้อหา** – ตรวจสอบการย้ายขนาดใหญ่จากรูปแบบเก่าไปยัง PDF สมัยใหม่, เพื่อให้แน่ใจว่าตรวจพบการหยุดชะงักตั้งแต่ต้น.
+## การใช้งานจริง
+1. ** ระบบจัดการเอกสารอัตโนมัติ** – จะต้องระบุแบทช์ประเภทของไฟล์พร้อมแสดงคุณสมบัติของระบบโดยไม่คำนึงถึง
+2. ** การให้ความรู้สำหรับระดับองค์กร** – ฝังศพไปป์ไลน์, เอกสารการวิจัย, หรือการเพิ่มเนื้อหา e-learning.
+3. **เครื่องมือย้ายเนื้อหา** – ควบคุมจำนวนมากจากรูปแบบเก่าไปยัง PDF สมัยใหม่, ตรวจสอบความถูกต้องของการรวบรวมข้อมูลตั้งแต่ต้น.
 
-## Performance Considerations
-- **การจัดการหน่วยความจำ:** ใช้ try‑with‑resources (ตามที่แสดง) เพื่อให้แน่ใจว่า `Converter` ถูกปิดอย่างรวดเร็ว.  
-- **การทำงานหลายเธรด:** สำหรับ batch ขนาดใหญ่, รันการแปลงในเธรดแบบขนาน, แต่ต้องจำว่าแต่ละเธรดต้องมี listener ของตนเองเพื่อหลีกเลี่ยงผลลัพธ์ที่ผสมกัน.  
-- **การบันทึก:** ทำให้การเรียก `System.out` ของ listener มีน้ำหนักเบา; สำหรับการใช้งานจริง, ส่งต่อไปยังเฟรมเวิร์กการบันทึกที่เหมาะสม (SLF4J, Log4j).
+## ข้อควรพิจารณาด้านประสิทธิภาพ
+- **การจัดการคำอธิบาย:** ใช้ try‑with‑resources (ตามเพิ่มเติม) และ `Converter` จะปิดอย่างรวดเร็ว
+- **การทำงานหลายอย่างพร้อมกัน:** สำหรับแบทช์ขนาดใหญ่, รันในความถี่แบบต่อเนื่อง, แต่ต้องจำไว้ว่าแต่ละส่วนต้องมีผู้ฟังในผลลัพธ์ที่ผสมกัน.
+- ** คำเตือน:** ไม่มีการเรียก `System.out` ของ Listener ประกาศ; เราทราบจริง, ส่งต่อไปยังคณะกรรมการรวบรวมข้อมูลของผู้ชม (SLF4J, Log4j)
 
-## Common Issues and Solutions
-| Issue | Solution |
+## ปัญหาทั่วไปและแนวทางแก้ไข
+| ปัญหา | โซลูชั่น |
 |-------|----------|
-| **ไม่มีการแสดงความคืบหน้า** | ตรวจสอบว่าได้เรียก `settingsFactory.setListener(listener);` ก่อนสร้าง `Converter`. |
-| **OutOfMemoryError กับไฟล์ขนาดใหญ่** | เพิ่มขนาด heap ของ JVM (`-Xmx2g` หรือสูงกว่า) และพิจารณาประมวลผลไฟล์เป็นชิ้นเล็ก ๆ หากเป็นไปได้. |
-| **Listener ไม่ทำงานเมื่อเกิดข้อผิดพลาด** | ห่อ `converter.convert` ด้วยบล็อก try‑catch และเรียกเมธอด `error(byte code)` ที่กำหนดเองภายในการทำงานของ listener ของคุณ. |
+| **ไม่มีการแสดงเลย** | ไมโครโฟนสามารถเรียก `settingsFactory.setListener(listener);` ก่อนสร้าง `Converter`. |
+| **OutOfMemoryError กับไฟล์ขนาดใหญ่** | ขนาดฮีปของ JVM (`-Xmx2g` หรืออื่นๆ) และพิจารณาว่าไฟล์นั้นเป็นเพียงชิ้นเล็ก ๆ เท่านั้น |
+| **ผู้ฟังไม่ทำงานเมื่อเกิดเหตุการณ์** | ห่อ `converter.convert` ด้วยบล็อก try‑catch และเรียกเมธอด `errorภายใน(byte code)` วิธีที่มีประสิทธิภาพในการ Listener ของคุณ |
 
-## Frequently Asked Questions
+## คำถามที่พบบ่อย
 
-**Q:** ฉันสามารถติดตามความคืบหน้าการแปลงสำหรับรูปแบบอื่นนอกจาก PDF ได้หรือไม่?  
-**A:** ได้. `IConverterListener` เดียวกันทำงานกับรูปแบบเป้าหมายใด ๆ ที่ GroupDocs.Conversion รองรับ; เพียงเปลี่ยนคลาส options.
+**ถาม:** ติดตามเรื่องนี้เป็นหลักสำหรับรูปแบบอื่นๆ นอกเหนือจาก PDF ได้หรือไม่?
+**ก:** ได้. `IConverterListener` เดียวกันกับรูปแบบของกลุ่มเป้าหมายใดๆ ที่ GroupDocs.Conversion รองรับ; เพียงเปลี่ยนตัวเลือกคลาส
 
-**Q:** ฉันจะจัดการเอกสารขนาดใหญ่อย่างมีประสิทธิภาพได้อย่างไร?  
-**A:** ใช้ Java streaming APIs, เพิ่มขนาด heap ของ JVM, และตรวจสอบความคืบหน้าของ listener เพื่อจับขั้นตอนที่ใช้เวลานาน.
+**ถาม:** ฉันจัดการเอกสารจำนวนมากอย่างมีประสิทธิภาพได้อย่างไร?
+**A:** ใช้ Java streaming APIs โดยเพิ่มขนาดฮีปของ JVM, ค้นหาของ Listener เพื่อจับขั้นตอนที่ตามปกติ
 
-**Q:** จะเกิดอะไรขึ้นหากการแปลงล้มเหลวกลางทาง?  
-**A:** เพิ่มเมธอดเพิ่มเติมใน listener ของคุณ (เช่น `error(byte code)`) และห่อการเรียก `convert` ด้วยการจัดการข้อยกเว้นเพื่อบันทึกความล้มเหลว.
+**ถาม:** จะเป็นเรื่องสำคัญหากเป็นจุดศูนย์กลางทาง?
+**A:**เพื่อเพิ่มเมธอดเพิ่มเติมใน Listener ของคุณ (เช่น `error(byte code)`) และห่อการเรียก `convert` ด้วยการจัดการข้อมูลเพื่อบันทึกความล้มเหลว
 
-**Q:** มีขีดจำกัดของขนาดหรือประเภทไฟล์หรือไม่?  
-**A:** รูปแบบส่วนใหญ่ที่พบบ่อยได้รับการสนับสนุน, แต่ไฟล์ขนาดใหญ่มากอาจต้องการหน่วยความจำเพิ่ม. ดูเอกสารอย่างเป็นทางการของ [GroupDocs documentation](https://docs.groupdocs.com/conversion/java/) สำหรับขีดจำกัดโดยละเอียด.
+**ถาม:** มีขีดจำกัดของขนาดหรือประเภทไฟล์หรือไม่?
+**ตอบ:** ส่วนใหญ่มักจะกล่าวถึงการสนับสนุน, แต่ไฟล์ขนาดใหญ่มากอาจต้องการข้อมูลเพิ่มเติม ดูเอกสารอย่างเป็นทางการของ [เอกสารประกอบ GroupDocs](https://docs.groupdocs.com/conversion/java/) สำหรับกรุงโรม
 
-**Q:** ฉันจะเปิดใช้งานสิ่งนี้ในเว็บแอปพลิเคชันได้อย่างไร?  
-**A:** ห่อโลจิกการแปลงใน endpoint ของ REST (เช่น Spring Boot) และสตรีมอัปเดตความคืบหน้าผ่าน Server‑Sent Events (SSE) หรือ WebSocket, ส่งผลลัพธ์ของ listener ไปยังไคลเอนต์.
+**ถาม:** จะช่วยให้สิ่งนี้เกิดขึ้นในเว็บได้อย่างไร?
+**A:** ห่อโลเจลจะมาในจุดสิ้นสุดของ REST (เช่น Spring Boot) และสตรีมอัปเดตตามปกติที่ Server‑Sent Events (SSE) หรือ WebSocket ส่งผลลัพธ์ของ Listener ของพวกเรา
 
-## Resources
+## ทรัพยากร
 - **เอกสาร:** [GroupDocs Conversion Documentation](https://docs.groupdocs.com/conversion/java/)
 - **อ้างอิง API:** [API Reference](https://reference.groupdocs.com/conversion/java/)
 - **ดาวน์โหลด:** [Download GroupDocs.Conversion](https://releases.groupdocs.com/conversion/java/)
