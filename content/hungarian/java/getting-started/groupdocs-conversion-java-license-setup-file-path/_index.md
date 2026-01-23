@@ -10,7 +10,7 @@ keywords:
 - convert documents java
 - java document conversion
 - java license verification
-title: 'Hogyan állítsuk be a licencet a GroupDocs.Conversion Java-hoz: Lépésről‑lépésre
+title: 'Hogyan állítsuk be a licencet a GroupDocs.Conversion Java-hoz - Lépésről‑lépésre
   útmutató'
 type: docs
 url: /hu/java/getting-started/groupdocs-conversion-java-license-setup-file-path/
@@ -143,12 +143,6 @@ A: A licencet beágyazhatja karakterláncként vagy betöltheti streamből, de a
 **Q: Milyen gyakran kell frissíteni a GroupDocs.Conversion-t?**  
 A: Rendszeresen – legalább minden fő kiadás után – hogy élvezze az új funkciókat, a teljesítményjavulást és a hibajavításokat.
 
----
-
-**Last Updated:** 2025-12-28  
-**Tested With:** GroupDocs.Conversion 25.2 for Java  
-**Author:** GroupDocs  
-
 **Erőforrások**  
 - [GroupDocs Dokumentáció](https://docs.groupdocs.com/conversion/java/)  
 - [API Referencia](https://reference.groupdocs.com/conversion/java/)  
@@ -157,5 +151,11 @@ A: Rendszeresen – legalább minden fő kiadás után – hogy élvezze az új 
 - [Ingyenes próba letöltése](https://releases.groupdocs.com/conversion/java/)  
 - [Ideiglenes licenc beszerzése](https://purchase.groupdocs.com/temporary-license/)  
 - [Támogatási fórum](https://forum.groupdocs.com/c/conversion/10)  
+
+---
+
+**Last Updated:** 2025-12-28  
+**Tested With:** GroupDocs.Conversion 25.2 for Java  
+**Author:** GroupDocs  
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: "How to Set License for GroupDocs.Conversion Java: Step‑By‑Step Guide"
+title: "How to Set License for GroupDocs.Conversion Java - Step‑By‑Step Guide"
 description: "Learn how to set license for GroupDocs.Conversion Java using a file path, unlocking full document conversion capabilities."
 date: "2025-12-28"
 weight: 1
@@ -144,12 +144,6 @@ A: You can embed the license as a string or load it from a stream, but the file�
 **Q: How often should I update GroupDocs.Conversion?**  
 A: Regularly—at least once per major release—to benefit from new features, performance improvements, and bug fixes.
 
----
-
-**Last Updated:** 2025-12-28  
-**Tested With:** GroupDocs.Conversion 25.2 for Java  
-**Author:** GroupDocs  
-
 **Resources**  
 - [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/)  
 - [API Reference](https://reference.groupdocs.com/conversion/java/)  
@@ -158,5 +152,11 @@ A: Regularly—at least once per major release—to benefit from new features, p
 - [Free Trial Download](https://releases.groupdocs.com/conversion/java/)  
 - [Temporary License Acquisition](https://purchase.groupdocs.com/temporary-license/)  
 - [Support Forum](https://forum.groupdocs.com/c/conversion/10)  
+
+---
+
+**Last Updated:** 2025-12-28  
+**Tested With:** GroupDocs.Conversion 25.2 for Java  
+**Author:** GroupDocs  
 
 ---

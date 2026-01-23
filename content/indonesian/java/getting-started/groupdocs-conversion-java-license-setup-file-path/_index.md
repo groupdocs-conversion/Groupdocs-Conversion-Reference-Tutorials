@@ -10,7 +10,7 @@ keywords:
 - convert documents java
 - java document conversion
 - java license verification
-title: 'Cara Mengatur Lisensi untuk GroupDocs.Conversion Java: Panduan Langkah‑ demi‑Langkah'
+title: 'Cara Mengatur Lisensi untuk GroupDocs.Conversion Java - Panduan Langkah‑ demi‑Langkah'
 type: docs
 url: /id/java/getting-started/groupdocs-conversion-java-license-setup-file-path/
 weight: 1
@@ -146,11 +146,6 @@ J: Anda dapat menyematkan lisensi sebagai string atau memuatnya dari stream, tet
 **T: Seberapa sering saya harus memperbarui GroupDocs.Conversion?**  
 J: Secara rutin—setidaknya sekali per rilis mayor—untuk mendapatkan fitur baru, peningkatan kinerja, dan perbaikan bug.
 
----
-
-**Terakhir Diperbarui:** 2025-12-28  
-**Diuji Dengan:** GroupDocs.Conversion 25.2 untuk Java  
-**Penulis:** GroupDocs  
 
 **Sumber Daya**  
 - [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/)  
@@ -160,3 +155,9 @@ J: Secara rutin—setidaknya sekali per rilis mayor—untuk mendapatkan fitur ba
 - [Free Trial Download](https://releases.groupdocs.com/conversion/java/)  
 - [Temporary License Acquisition](https://purchase.groupdocs.com/temporary-license/)  
 - [Support Forum](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**Terakhir Diperbarui:** 2025-12-28  
+**Diuji Dengan:** GroupDocs.Conversion 25.2 untuk Java  
+**Penulis:** GroupDocs  

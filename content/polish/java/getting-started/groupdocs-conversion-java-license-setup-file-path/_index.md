@@ -10,7 +10,7 @@ keywords:
 - convert documents java
 - java document conversion
 - java license verification
-title: 'Jak ustawić licencję dla GroupDocs.Conversion Java: przewodnik krok po kroku'
+title: 'Jak ustawić licencję dla GroupDocs.Conversion Java - przewodnik krok po kroku'
 type: docs
 url: /pl/java/getting-started/groupdocs-conversion-java-license-setup-file-path/
 weight: 1
@@ -146,12 +146,6 @@ A: Możesz osadzić licencję jako ciąg znaków lub załadować ją ze strumien
 **Q: Jak często powinienem aktualizować GroupDocs.Conversion?**  
 A: Regularnie — przynajmniej raz na każde główne wydanie, aby korzystać z nowych funkcji, usprawnień wydajności i poprawek błędów.
 
----
-
-**Ostatnia aktualizacja:** 2025-12-28  
-**Testowano z:** GroupDocs.Conversion 25.2 for Java  
-**Autor:** GroupDocs  
-
 **Zasoby**  
 - [Dokumentacja GroupDocs](https://docs.groupdocs.com/conversion/java/)  
 - [Referencja API](https://reference.groupdocs.com/conversion/java/)  
@@ -160,3 +154,9 @@ A: Regularnie — przynajmniej raz na każde główne wydanie, aby korzystać z 
 - [Pobierz wersję próbną](https://releases.groupdocs.com/conversion/java/)  
 - [Uzyskaj licencję tymczasową](https://purchase.groupdocs.com/temporary-license/)  
 - [Forum wsparcia](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**Ostatnia aktualizacja:** 2025-12-28  
+**Testowano z:** GroupDocs.Conversion 25.2 for Java  
+**Autor:** GroupDocs  

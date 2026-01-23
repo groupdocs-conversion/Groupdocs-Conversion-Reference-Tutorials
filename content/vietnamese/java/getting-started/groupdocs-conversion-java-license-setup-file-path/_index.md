@@ -10,7 +10,7 @@ keywords:
 - convert documents java
 - java document conversion
 - java license verification
-title: 'Cách Cài Đặt Giấy Phép cho GroupDocs.Conversion Java: Hướng Dẫn Từng Bước'
+title: 'Cách Cài Đặt Giấy Phép cho GroupDocs.Conversion Java - Hướng Dẫn Từng Bước'
 type: docs
 url: /vi/java/getting-started/groupdocs-conversion-java-license-setup-file-path/
 weight: 1
@@ -146,12 +146,6 @@ Khi giấy phép đã được kích hoạt, bạn có thể tận dụng thư v
 **H: Tôi nên cập nhật GroupDocs.Conversion bao lâu một lần?**  
 Đ: Thường xuyên—ít nhất một lần mỗi phiên bản lớn—để nhận các tính năng mới, cải thiện hiệu năng và sửa lỗi.
 
----
-
-**Cập nhật lần cuối:** 2025-12-28  
-**Đã kiểm tra với:** GroupDocs.Conversion 25.2 cho Java  
-**Tác giả:** GroupDocs  
-
 **Tài Nguyên**  
 - [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/)  
 - [API Reference](https://reference.groupdocs.com/conversion/java/)  
@@ -160,3 +154,9 @@ Khi giấy phép đã được kích hoạt, bạn có thể tận dụng thư v
 - [Free Trial Download](https://releases.groupdocs.com/conversion/java/)  
 - [Temporary License Acquisition](https://purchase.groupdocs.com/temporary-license/)  
 - [Support Forum](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**Cập nhật lần cuối:** 2025-12-28  
+**Đã kiểm tra với:** GroupDocs.Conversion 25.2 cho Java  
+**Tác giả:** GroupDocs  

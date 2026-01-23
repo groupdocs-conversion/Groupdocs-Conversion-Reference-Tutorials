@@ -10,7 +10,7 @@ keywords:
 - convert documents java
 - java document conversion
 - java license verification
-title: 'كيفية تعيين الترخيص لـ GroupDocs.Conversion Java: دليل خطوة بخطوة'
+title: 'كيفية تعيين الترخيص لـ GroupDocs.Conversion Java - دليل خطوة بخطوة'
 type: docs
 url: /ar/java/getting-started/groupdocs-conversion-java-license-setup-file-path/
 weight: 1
@@ -146,11 +146,6 @@ System.out.println("License successfully applied!");
 **س: كم مرة يجب أن أقوم بتحديث GroupDocs.Conversion؟**  
 ج: بانتظام—على الأقل مرة واحدة لكل إصدار رئيسي—to benefit from new features, performance improvements, and bug fixes.
 
----
-
-**آخر تحديث:** 2025-12-28  
-**تم الاختبار مع:** GroupDocs.Conversion 25.2 for Java  
-**المؤلف:** GroupDocs  
 
 **الموارد**  
 - [توثيق GroupDocs](https://docs.groupdocs.com/conversion/java/)  
@@ -160,3 +155,9 @@ System.out.println("License successfully applied!");
 - [تنزيل النسخة التجريبية المجانية](https://releases.groupdocs.com/conversion/java/)  
 - [الحصول على ترخيص مؤقت](https://purchase.groupdocs.com/temporary-license/)  
 - [منتدى الدعم](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**آخر تحديث:** 2025-12-28  
+**تم الاختبار مع:** GroupDocs.Conversion 25.2 for Java  
+**المؤلف:** GroupDocs  

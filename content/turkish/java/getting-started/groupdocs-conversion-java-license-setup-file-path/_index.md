@@ -10,7 +10,7 @@ keywords:
 - convert documents java
 - java document conversion
 - java license verification
-title: 'GroupDocs.Conversion Java için Lisans Nasıl Ayarlanır: Adım Adım Kılavuz'
+title: 'GroupDocs.Conversion Java için Lisans Nasıl Ayarlanır - Adım Adım Kılavuz'
 type: docs
 url: /tr/java/getting-started/groupdocs-conversion-java-license-setup-file-path/
 weight: 1
@@ -146,12 +146,6 @@ C: Lisansı bir dize olarak gömebilir veya bir akıştan yükleyebilirsiniz, an
 **S: GroupDocs.Conversion'ı ne sıklıkta güncellemeliyim?**  
 C: Düzenli olarak—her büyük sürümde en az bir kez—yeni özelliklerden, performans iyileştirmelerinden ve hata düzeltmelerinden yararlanmak için.
 
----
-
-**Son Güncelleme:** 2025-12-28  
-**Test Edilen Versiyon:** GroupDocs.Conversion 25.2 for Java  
-**Yazar:** GroupDocs  
-
 **Kaynaklar**  
 - [GroupDocs Dokümantasyonu](https://docs.groupdocs.com/conversion/java/)  
 - [API Referansı](https://reference.groupdocs.com/conversion/java/)  
@@ -160,3 +154,9 @@ C: Düzenli olarak—her büyük sürümde en az bir kez—yeni özelliklerden, 
 - [Ücretsiz Deneme İndir](https://releases.groupdocs.com/conversion/java/)  
 - [Geçici Lisans Alımı](https://purchase.groupdocs.com/temporary-license/)  
 - [Destek Forumu](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**Son Güncelleme:** 2025-12-28  
+**Test Edilen Versiyon:** GroupDocs.Conversion 25.2 for Java  
+**Yazar:** GroupDocs  
