@@ -145,23 +145,6 @@ Converter DOCX para PDF a partir de streams usando o GroupDocs.Conversion é val
 
 Neste tutorial você aprendeu como **converter DOCX para PDF a partir de streams** usando o GroupDocs.Conversion para Java. Ao carregar documentos diretamente de um `InputStream`, tratar possíveis `FileNotFoundException`s e aproveitar a API simples do `Converter`, você pode construir pipelines de conversão eficientes e sem uso de disco para aplicações Java modernas.
 
-## Seção de Perguntas Frequentes
-
-1. **Quais formatos de arquivo posso converter usando o GroupDocs.Conversion para Java?**  
-   - O GroupDocs.Conversion suporta uma ampla gama de formatos, incluindo DOCX, XLSX, PPTX, PDF e muitos outros.
-
-2. **Posso usar o GroupDocs.Conversion em uma aplicação comercial?**  
-   - Sim, mas é necessária uma licença comercial válida para implantações em produção.
-
-3. **Como devo tratar erros de conversão?**  
-   - Envolva sua lógica de conversão em blocos `try‑catch` e capture `GroupDocsConversionException` para um tratamento de erro elegante.
-
-4. **A conversão em lote é possível?**  
-   - Absolutamente. Você pode iterar sobre múltiplos streams de entrada e invocar `converter.convert` para cada documento.
-
-5. **Posso personalizar as configurações de saída do PDF?**  
-   - Sim. `PdfConvertOptions` oferece opções para tamanho da página, compressão e mais.
-
 ## Perguntas Frequentes Detalhadas
 
 **Q: Como converto um arquivo DOCX que está armazenado em um BLOB de banco de dados?**  

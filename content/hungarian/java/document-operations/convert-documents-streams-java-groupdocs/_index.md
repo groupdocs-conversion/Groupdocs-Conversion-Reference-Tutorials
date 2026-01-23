@@ -148,23 +148,6 @@ Ebben az útmutatóban megtanulta, hogyan **konvertáljon DOCX‑et PDF‑re ada
 
 ## Gyakran Ismételt Kérdések
 
-1. **Milyen fájlformátumokat konvertálhat a GroupDocs.Conversion for Java?**  
-   - A GroupDocs.Conversion számos formátumot támogat, többek között DOCX, XLSX, PPTX, PDF és még sok más.  
-
-2. **Használhatom a GroupDocs.Conversion‑t kereskedelmi alkalmazásban?**  
-   - Igen, de a termelési környezethez érvényes kereskedelmi licenc szükséges.  
-
-3. **Hogyan kezeljem a konverziós hibákat?**  
-   - A konverziós logikát `try‑catch` blokkokba helyezze, és a `GroupDocsConversionException`‑t elkapva kezelje a hibákat.  
-
-4. **Lehetséges a kötegelt konverzió?**  
-   - Természetesen. Több bemeneti adatfolyamon iterálhat, és minden dokumentumra meghívhatja a `converter.convert` metódust.  
-
-5. **Testreszabhatom a PDF kimeneti beállításait?**  
-   - Igen. A `PdfConvertOptions` lehetőséget ad az oldalméret, tömörítés és egyéb beállítások módosítására.  
-
-## Gyakran Ismételt Kérdések
-
 **K: Hogyan konvertáljak egy adatbázis BLOB‑ként tárolt DOCX fájlt?**  
 V: Hozza elő a BLOB‑ot `InputStream`‑ként, és adja át a `Converter` lambda‑nak pontosan úgy, ahogy a példában látható.
 

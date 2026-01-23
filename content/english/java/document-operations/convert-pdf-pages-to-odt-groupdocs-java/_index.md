@@ -1,5 +1,5 @@
 ---
-title: "Convert PDF to ODT Using GroupDocs.Conversion for Java: A Comprehensive Guide"
+title: "Convert PDF to ODT Using GroupDocs.Conversion for Java - A Comprehensive Guide"
 description: "Learn how to convert PDF to ODT efficiently with GroupDocs.Conversion for Java. Convert specific pages from a PDF into OpenDocument Text (ODT) format in minutes."
 date: "2025-12-21"
 weight: 1

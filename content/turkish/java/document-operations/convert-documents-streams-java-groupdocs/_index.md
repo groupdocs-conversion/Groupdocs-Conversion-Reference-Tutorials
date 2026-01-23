@@ -145,19 +145,6 @@ GroupDocs.Conversion kullanarak akışlardan DOCX'i PDF'e dönüştürmek, birç
 
 Bu öğreticide, GroupDocs.Conversion for Java kullanarak **akışlardan DOCX'i PDF'e dönüştürmeyi** öğrendiniz. Belgeleri doğrudan bir `InputStream`'den yükleyerek, olası `FileNotFoundException`ları ele alarak ve basit `Converter` API'sini kullanarak modern Java uygulamaları için verimli, disk‑gerektirmeyen dönüşüm boru hatları oluşturabilirsiniz.
 
-## SSS Bölümü
-
-1. **GroupDocs.Conversion for Java ile hangi dosya formatlarını dönüştürebilirim?**  
-   - GroupDocs.Conversion, DOCX, XLSX, PPTX, PDF ve daha birçok format dahil olmak üzere geniş bir yelpazeyi destekler.  
-2. **GroupDocs.Conversion'ı ticari bir uygulamada kullanabilir miyim?**  
-   - Evet, ancak üretim dağıtımları için geçerli bir ticari lisans gerekir.  
-3. **Dönüşüm hatalarını nasıl ele alırım?**  
-   - Dönüşüm mantığınızı `try‑catch` bloklarıyla sarın ve sorunsuz hata yönetimi için `GroupDocsConversionException`'ı yakalayın.  
-4. **Toplu dönüşüm mümkün mü?**  
-   - Kesinlikle. Birden fazla giriş akışı üzerinde döngü yaparak her belge için `converter.convert` çağırabilirsiniz.  
-5. **PDF çıktı ayarlarını özelleştirebilir miyim?**  
-   - Evet. `PdfConvertOptions` sayfa boyutu, sıkıştırma ve daha fazlası için seçenekler sunar.  
-
 ## Sıkça Sorulan Sorular
 
 **S: Veritabanı BLOB'unda saklanan bir DOCX dosyasını nasıl dönüştürürüm?**  

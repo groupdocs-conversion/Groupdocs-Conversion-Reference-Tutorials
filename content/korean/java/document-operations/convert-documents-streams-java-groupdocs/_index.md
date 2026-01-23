@@ -149,23 +149,6 @@ GroupDocs.Conversion을 이용한 스트림 기반 DOCX → PDF 변환은 다음
 
 이 튜토리얼을 통해 **스트림에서 DOCX를 PDF로 변환**하는 방법을 익혔습니다. `InputStream`으로 문서를 직접 로드하고, `FileNotFoundException`을 적절히 처리하며, 간단한 `Converter` API를 활용해 현대 Java 애플리케이션에 디스크‑프리 변환 파이프라인을 구축할 수 있습니다.
 
-## FAQ 섹션
-
-1. **GroupDocs.Conversion for Java로 어떤 파일 형식을 변환할 수 있나요?**  
-   - DOCX, XLSX, PPTX, PDF 등 다양한 형식을 지원합니다.  
-
-2. **상업용 애플리케이션에서 GroupDocs.Conversion을 사용할 수 있나요?**  
-   - 네, 프로덕션 배포 시 유효한 상용 라이선스가 필요합니다.  
-
-3. **변환 오류는 어떻게 처리하나요?**  
-   - 변환 로직을 `try‑catch` 블록으로 감싸 `GroupDocsConversionException`을 잡아 우아하게 처리합니다.  
-
-4. **배치 변환이 가능한가요?**  
-   - 물론입니다. 여러 입력 스트림을 순회하면서 `converter.convert`를 호출하면 됩니다.  
-
-5. **PDF 출력 설정을 커스터마이즈할 수 있나요?**  
-   - 네. `PdfConvertOptions`를 통해 페이지 크기, 압축 등 다양한 옵션을 조정할 수 있습니다.  
-
 ## 자주 묻는 질문
 
 **Q: 데이터베이스 BLOB에 저장된 DOCX 파일을 어떻게 변환하나요?**  

@@ -145,23 +145,6 @@ GroupDocs.Conversion を使用してストリームから DOCX を PDF に変換
 
 このチュートリアルでは、GroupDocs.Conversion for Java を使用して **ストリームから DOCX を PDF に変換** する方法を学びました。`InputStream` から直接ドキュメントをロードし、潜在的な `FileNotFoundException` を処理し、シンプルな `Converter` API を活用することで、最新の Java アプリケーション向けに効率的でディスク不要の変換パイプラインを構築できます。
 
-## FAQ セクション
-
-1. **GroupDocs.Conversion for Java で変換できるファイル形式は何ですか？**  
-   - GroupDocs.Conversion は DOCX、XLSX、PPTX、PDF など多数の形式をサポートしています。  
-
-2. **商用アプリケーションで GroupDocs.Conversion を使用できますか？**  
-   - はい、ただし本番導入には有効な商用ライセンスが必要です。  
-
-3. **変換エラーはどう処理しますか？**  
-   - 変換ロジックを `try‑catch` ブロックでラップし、`GroupDocsConversionException` を捕捉して適切にエラーハンドリングしてください。  
-
-4. **バッチ変換は可能ですか？**  
-   - もちろん可能です。複数の入力ストリームを反復処理し、各ドキュメントに対して `converter.convert` を呼び出せます。  
-
-5. **PDF の出力設定をカスタマイズできますか？**  
-   - はい。`PdfConvertOptions` でページサイズ、圧縮などのオプションを設定できます。  
-
 ## よくある質問
 
 **Q: データベースの BLOB に保存された DOCX ファイルをどう変換しますか？**  

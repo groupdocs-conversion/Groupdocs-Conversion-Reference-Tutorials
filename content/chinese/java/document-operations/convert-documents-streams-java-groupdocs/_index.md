@@ -148,23 +148,6 @@ public class LoadDocumentFromStream {
 
 在本教程中，您已经学习了如何使用 GroupDocs.Conversion for Java **从流将 DOCX 转换为 PDF**。通过直接从 `InputStream` 加载文档、处理潜在的 `FileNotFoundException`，以及利用简洁的 `Converter` API，您可以为现代 Java 应用构建高效、无磁盘的转换管道。
 
-## FAQ 部分
-
-1. **使用 GroupDocs.Conversion for Java 可以转换哪些文件格式？**  
-   - GroupDocs.Conversion 支持多种格式，包括 DOCX、XLSX、PPTX、PDF 等。  
-
-2. **我可以在商业应用中使用 GroupDocs.Conversion 吗？**  
-   - 可以，但生产部署必须拥有有效的商业许可证。  
-
-3. **如何处理转换错误？**  
-   - 将转换逻辑放在 `try‑catch` 块中，捕获 `GroupDocsConversionException` 以实现优雅的错误处理。  
-
-4. **支持批量转换吗？**  
-   - 完全支持。您可以遍历多个输入流并对每个文档调用 `converter.convert`。  
-
-5. **可以自定义 PDF 输出设置吗？**  
-   - 可以。`PdfConvertOptions` 提供页面尺寸、压缩等选项。  
-
 ## 常见问题
 
 **Q: 如何转换存储在数据库 BLOB 中的 DOCX 文件？**  

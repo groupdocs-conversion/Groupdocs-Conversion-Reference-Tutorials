@@ -7,7 +7,7 @@ keywords:
 - convert PDF to ODT
 - GroupDocs.Conversion for Java
 - PDF to Word processing document
-title: 'Chuyển đổi PDF sang ODT bằng GroupDocs.Conversion cho Java: Hướng dẫn toàn
+title: 'Chuyển đổi PDF sang ODT bằng GroupDocs.Conversion cho Java - Hướng dẫn toàn
   diện'
 type: docs
 url: /vi/java/document-operations/convert-pdf-pages-to-odt-groupdocs-java/
