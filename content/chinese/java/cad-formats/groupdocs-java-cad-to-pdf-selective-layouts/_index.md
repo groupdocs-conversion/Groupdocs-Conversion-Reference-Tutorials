@@ -1,34 +1,51 @@
 ---
-"date": "2025-04-28"
-"description": "了解如何使用 GroupDocs.Conversion for Java 将特定的 CAD 布局转换为 PDF。本指南涵盖设置、选择性转换和性能技巧。"
-"title": "使用 GroupDocs 的选择性布局转换指南在 Java 中将 CAD 布局转换为 PDF"
-"url": "/zh/java/cad-formats/groupdocs-java-cad-to-pdf-selective-layouts/"
-"weight": 1
+date: '2026-01-26'
+description: 学习如何使用 GroupDocs.Conversion for Java 将 DWG 转换为 PDF。包括 Maven 设置、选择性布局转换和性能技巧。
+keywords:
+- convert dwg to pdf
+- selective layout conversion
+- GroupDocs.Conversion for Java
+title: 将DWG转换为PDF：使用GroupDocs在Java中进行选择性布局转换
 type: docs
+url: /zh/java/cad-formats/groupdocs-java-cad-to-pdf-selective-layouts/
+weight: 1
 ---
-# 使用 GroupDocs.Conversion for Java 将 CAD 布局转换为 PDF
-## 掌握 Java 中选择性 CAD 到 PDF 的转换
-### 介绍
-还在为将 CAD 文档中的特定布局转换为 PDF 而苦恼吗？本指南将全面演示如何使用 GroupDocs.Conversion for Java 选择性地转换 CAD 文档（例如 DWG 文件），并重点关注特定布局。无论是处理建筑平面图还是工程设计图，筛选和转换必要的文件部分都能节省时间并简化工作流程。
 
-在本教程中，我们将介绍：
-- **为 Java 设置 GroupDocs.Conversion**
-- **将 CAD 文档选择性布局转换为 PDF**
-- **实际应用**
-- **性能优化技巧**
+ **convert dwg to pdf**仅转换所需部分都能节省时间并简化工作流。
 
-在本指南结束时，您将能够熟练地在项目中实现选择性转换功能。
-### 先决条件
-在开始之前，请确保您已：
-- **Java 开发工具包 (JDK)：** 版本 8 或更高版本
-- **Maven：** 用于依赖管理和项目构建自动化
-- **集成开发环境（IDE）：** 例如用于代码编辑的 IntelliJ IDEA 或 Eclipse
+在本教程中，您将学习：
+- **Setting up Maven for GroupDocs.Conversion**
+- **Selective layout conversion of CAD documents to PDF**
+ this matters**
+- **Performance optimization tips for large DWG files**
 
-还需要对 Java 编程有基本的了解并熟悉 Maven 项目。
-## 为 Java 设置 GroupDocs.Conversion
-要使用 GroupDocs.Conversion，请通过 Maven 将该库集成到您的 Java 应用程序中：
-### Maven配置
-将此配置添加到您的 `pom.xml` 文件：
+完成后，您将能够在 Java 项目中自如实现选择性转换。
+
+## Quick Answers
+- **What is the primary library?** GroupDocs.Conversion for Java  
+- **How do I add Maven support?** Include the GroupDocs repository and dependency (see below)  
+- **Can I convert only certain layouts?** Yes – use `CadLoadOptions.setLayoutNames`  
+- **What Java version is required?** JDK 8 or newer  
+- **Do I need a license?** A trial or purchased license is required for full features  
+
+## What is **convert dwg to pdf**?
+将 DWG 转换为 PDF 可以把基于矢量的 CAD 图纸转化为一种通用的可查看文档格式。此过程在保持几何形状、图层和布局完整性的同时，使文件易于共享、打印或归档。
+
+## Why use selective layout conversion?
+选择性转换让您仅提取大型 CAD 文件中相关的部分——例如特定的楼层平面或截面——从而减小文件体积、缩短处理时间，并将利益相关者的注意力集中在真正重要的内容上。
+
+## Prerequisites
+- **Java Development Kit (JDK):** Version 8 or above  
+- **Maven:** For dependency management and project build automation  
+- **IDE:** IntelliJ IDEA, Eclipse, or any Java‑compatible editor  
+- Basic familiarity with Java and Maven projects  
+
+## Setting Up GroupDocs.Conversion for Java
+要使用 GroupDocs.Conversion，请通过 Maven 将库集成到您的 Java 应用程序中。
+
+### Maven Configuration (how to convert cad with Maven)
+将以下配置添加到 `pom.xml` 文件中：
+
 ```xml
 <repositories>
    <repository>
@@ -45,77 +62,91 @@ type: docs
    </dependency>
 </dependencies>
 ```
-### 许可证获取
-要解锁全部功能，请获取试用许可证或购买以延长使用期限：
-- **免费试用：** [点击此处下载](https://releases.groupdocs.com/conversion/java/)
-- **临时执照：** [在此请求](https://purchase.groupdocs.com/temporary-license/)
-- **购买：** [立即购买](https://purchase.groupdocs.com/buy)
 
-使用您的许可证文件初始化 GroupDocs.Conversion：
+### License Acquisition
+要解锁全部功能，请获取试用许可证或购买正式许可证：
+- **Free Trial:** [Download Here](https://releases.groupdocs.com/conversion/java/)
+- **Temporary License:** [Request Here](https://purchase.groupdocs.com/temporary-license/)
+- **Purchase:** [Buy Now](https://purchase.groupdocs.com/buy)
+
+使用许可证文件初始化 GroupDocs.Conversion：
+
 ```java
-// 加载许可证以解锁全部功能
+// Load the license to unlock full features
 License license = new License();
 license.setLicense("path/to/license.lic");
 ```
-## 实施指南
-### 步骤 1：指定文件路径和布局
-设置输入 CAD 文件和输出 PDF 的路径，定义要转换的布局：
+
+## Implementation Guide
+### Step 1: Specify File Paths and Layouts (java cad to pdf)
+为输入 CAD 文件和输出 PDF 设置路径，并定义要转换的布局：
+
 ```java
 String sourceFilePath = "YOUR_DOCUMENT_DIRECTORY/sample.dwg";
 String convertedFile = "YOUR_OUTPUT_DIRECTORY/ConvertCadAndSpecifyLayouts.pdf";
 
-// 指定所需的布局名称
-cadLoadOptions loadOptions = new CadLoadOptions();
+// Specify desired layout names
+CadLoadOptions loadOptions = new CadLoadOptions();
 loadOptions.setLayoutNames(new String[] { "Layout1", "Layout3" });
 ```
-### 步骤 2：初始化转换器
-初始化 `Converter` 类与您的文件路径和加载选项：
+
+### Step 2: Initialize the Converter
+使用源路径和过滤布局的加载选项创建 `Converter` 实例：
+
 ```java
 Converter converter = new Converter(sourceFilePath, () -> loadOptions);
 ```
-这允许指定要包含在转换中的布局。
-### 步骤 3：设置转换选项
-使用以下方式配置 PDF 转换设置 `PdfConvertOptions`：
+
+### Step 3: Set Conversion Options
+使用 `PdfConvertOptions` 配置 PDF 转换设置。您可以根据需要调整 DPI、页面尺寸或嵌入字体：
+
 ```java
 PdfConvertOptions convertOptions = new PdfConvertOptions();
 ```
-这些选项允许进一步自定义，例如设置 DPI 或特定页面范围。
-### 步骤4：执行转换
-通过调用执行转换过程 `convert` 方法：
+
+### Step 4: Perform the Conversion
+执行转换过程。生成的 PDF 将仅包含 **指定的布局**：
+
 ```java
 converter.convert(convertedFile, convertOptions);
 ```
-这将创建一个仅包含 CAD 文档中指定布局的 PDF 文件。
-## 实际应用
-选择性布局转换在以下场景中很有用：
-- **建筑设计评论：** 会议期间重点关注特定的平面图或部分。
-- **工程分析：** 转换相关设计部分以进行详细分析。
-- **文档和归档：** 生成简洁的PDF用于记录，节省存储空间。
-## 性能考虑
+
+## Practical Applications
+选择性布局转换在以下场景中非常有用：
+- **Architectural Design Reviews:** 在会议中聚焦特定楼层平面或截面。  
+- **Engineering Analysis:** 仅转换相关设计部分以进行深入研究。  
+- **Documentation and Archiving:** 生成简洁的 PDF 记录，节省存储空间。
+
+## Performance Considerations
 处理大型 CAD 文件时：
-- **内存管理：** 使用 JVM 选项确保有足够的堆大小，例如 `-Xmx` 增加记忆力。
-- **批处理：** 批量处理多个文件以有效管理资源使用情况。
-## 结论
-您已学习了如何使用 GroupDocs.Conversion for Java 将 CAD 文档中的特定布局转换为 PDF。此功能通过专注于相关的设计部分来增强文档管理。
-### 后续步骤
-探索 GroupDocs.Conversion 的其他功能，例如转换不同的文件格式或与云解决方案集成。
-**准备好尝试一下了吗？** 按照上述步骤，立即开始优化您的 CAD 到 PDF 转换！
-## 常见问题解答部分
-1. **使用 GroupDocs.Conversion for Java 的系统要求是什么？**
-   - 您需要 JDK 8+、Maven 和 IntelliJ IDEA 或 Eclipse 之类的 IDE。
-2. **如何使用 GroupDocs.Conversion 处理大文件？**
-   - 调整 JVM 设置以分配更多内存，例如设置 `-Xmx` 达到更高的价值。
-3. **我可以使用此方法转换其他 CAD 格式吗？**
-   - 是的，GroupDocs.Conversion 支持多种 CAD 格式，例如 DXF 和 DGN。有关具体选项，请参阅文档。
-4. **如果转换后某些布局丢失了怎么办？**
-   - 确保正确指定所有所需的布局名称 `setLayoutNames`。
-5. **如何将 GroupDocs.Conversion 集成到 Web 应用程序中？**
-   - 使用 GroupDocs.Conversion 部署您的 Java 后端并公开文件转换端点。
-## 资源
-- **文档：** [GroupDocs 转换文档](https://docs.groupdocs.com/conversion/java/)
-- **API 参考：** [GroupDocs API 参考](https://reference.groupdocs.com/conversion/java/)
-- **下载：** [获取图书馆](https://releases.groupdocs.com/conversion/java/)
-- **购买：** [立即购买](https://purchase.groupdocs.com/buy)
-- **免费试用：** [从这里开始](https://releases.groupdocs.com/conversion/java/)
-- **临时执照：** [申请临时许可证](https://purchase.groupdocs.com/temporary-license/)
-- **支持：** [GroupDocs 论坛](https://forum.groupdocs.com/c/conversion/10)
+- **Memory Management:** 使用 JVM 参数（如 `-Xmx2g`）分配足够的堆内存。  
+- **Batch Processing:** 将多个文件分批处理，以保持资源使用可预测。
+
+## Common Issues and Solutions
+- **Missing Layouts:** 确认传递给 `setLayoutNames` 的布局名称与 DWG 文件中的完全匹配（区分大小写）。  
+- **Out‑Of‑Memory Errors:** 增加 JVM 堆大小或将文件拆分为更小的批次处理。  
+- **License Errors:** 确保许可证文件路径正确且许可证对当前库版本有效。
+
+## FAQ Section
+1. **What are the system requirements for using GroupDocs.Conversion for Java?**  
+   - 您需要 JDK 8+、Maven，以及 IntelliJ IDEA 或 Eclipse 等 IDE。其他 CAD 格式。 are missing after conversion?**  
+   - 再次检查传递给 `setLayoutNames` 的布局名称。  
+5. **How can I integrate GroupDocs.Conversion into a web application?**  
+   - 在 Java 后端部署该库，并通过 REST 接口提供文件转换服务。
+
+## Resources
+- **Documentation:** [GroupDocs Conversion Documentation](https://docs.groupdocs.com/conversion/java/)
+- **API Reference:** [GroupDocs API Reference](https://reference.groupdocs.com/conversion/java/)
+- **Download:** [Get the Library](https://releases.groupdocs.com/conversion/java/)
+- **Purchase:** [Buy Now](https://purchase.groupdocs.com/buy)
+- **Free Trial:** [Start Here](https://releases.groupdocs.com/conversion/java/)
+- **Temporary License:** [Request a Temporary License](https://purchase.groupdocs.com/temporary-license/)
+- **Support:** [GroupDocs Forum](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**Last Updated:** 2026-01-26  
+**Tested With:** GroupDocs.Conversion 25.2 for Java  
+**Author:** GroupDocs  
+
+---
