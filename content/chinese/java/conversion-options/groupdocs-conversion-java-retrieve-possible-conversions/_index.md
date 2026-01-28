@@ -1,40 +1,44 @@
 ---
-"date": "2025-04-28"
-"description": "了解如何使用 GroupDocs.Conversion for Java 检索所有可能的文档转换。本指南涵盖设置、代码实现和实际应用。"
-"title": "GroupDocs.Conversion for Java&#58; 如何检索所有可能的转换"
-"url": "/zh/java/conversion-options/groupdocs-conversion-java-retrieve-possible-conversions/"
-"weight": 1
+date: '2026-01-28'
+description: 了解如何使用 GroupDocs.Conversion for Java 列出格式并检索所有可能的转换，包括云存储文件转换场景。
+keywords:
+- GroupDocs.Conversion for Java
+- retrieve all possible conversions
+- Java document conversion
+title: GroupDocs.Conversion for Java：如何列出格式并获取所有可能的转换
 type: docs
+url: /zh/java/conversion-options/groupdocs-conversion-java-retrieve-possible-conversions/
+weight: 1
 ---
-# 使用 GroupDocs.Conversion for Java 检索所有可能转换的综合指南
 
-## 介绍
+# Comprehensive Guide to Retrieving All Possible Conversions Using GroupDocs.Conversion for Java
 
-跨多种格式进行文档转换可能非常复杂。Java 中的 GroupDocs.Conversion 库通过提供强大的转换功能简化了这一过程。在本教程中，您将学习如何使用 GroupDocs.Conversion for Java 的“检索所有可能的转换”功能。
+文档转换项目通常从一个简单的问题开始：**如何列出库支持的格式**，在决定要转换哪些格式之前。 在本教程中，你将准确了解——如何列出格式并检索 GroupDocs.Conversion for Java 提供的每一种可能的转换路径。 我们将逐步演示设置、代码执行、真实场景以及性能技巧，帮助你自信地将格式发现集成到应用程序中。
 
-**您将学到什么：**
-- 为 Java 设置和配置 GroupDocs.Conversion。
-- 检索库支持的所有可能的文档转换。
-- 实现代码来列出格式之间的转换可能性。
-- 实际应用和性能考虑。
+## Quick Answers
+- **What does “list formats” mean?** It returns every source‑to‑target conversion pair the library can handle.  
+- **Do I need a license?** A free trial works for testing; a paid license is required for production.  
+- **Can this help cloud storage file conversion?** Yes—knowing supported formats lets you automate conversions in cloud storage pipelines.  
+- **Which Java version is required?** JDK 8 or later.  
+- **Is the feature thread‑safe?** The `Converter` instance can be reused across threads, but dispose resources after use.
 
-在深入实施之前，请确保一切准备就绪。
+## What is “how to list formats” in GroupDocs.Conversion?
+The **list formats** operation queries the internal conversion matrix and returns a collection describing every source format and the target formats it can be transformed into. This insight is essential for building dynamic document processing workflows.
 
-## 先决条件
+## Why Use GroupDocs.Conversion for Java?
+- **Broad format coverage:** Hundreds of source and target types are supported out‑of‑the‑box.  
+- **Cloud‑ready:** Perfect for cloud storage file conversion pipelines where you need to know which files can be converted on the fly.  
+- **Performance‑tuned:** Optimized for large‑scale batch operations.
 
-要遵循本教程，请确保您已具备：
-- **Java 开发工具包 (JDK)：** 您的机器上安装了版本 8 或更高版本。
-- **GroupDocs.Conversion for Java：** 使用 Maven 添加库。确保已在开发环境中配置 Maven。
+## Prerequisites
+- **Java Development Kit (JDK):** Version 8 or newer.  
+- **Maven:** Properly configured in your IDE (IntelliJ IDEA, Eclipse, NetBeans, etc.).  
+- **GroupDocs.Conversion for Java:** Added as a Maven dependency (see below).  
 
-### 环境设置要求
-1. 对 Java 和面向对象编程原理有基本的了解。
-2. 合适的 IDE（例如 IntelliJ IDEA、Eclipse 或 NetBeans）来编写和执行 Java 代码。
+## Setting Up GroupDocs.Conversion for Java
 
-## 为 Java 设置 GroupDocs.Conversion
+Add the GroupDocs repository and dependency to your `pom.xml`:
 
-要在项目中使用 GroupDocs.Conversion，请将其作为 Maven 依赖项包含在内：
-
-**Maven配置：**
 ```xml
 <repositories>
    <repository>
@@ -52,19 +56,17 @@ type: docs
 </dependencies>
 ```
 
-### 许可证获取
-立即免费试用，探索 GroupDocs.Conversion 的功能。如需延长使用时间，请考虑购买许可证或申请临时评估许可证。
+### License Acquisition
+Start with a free trial to explore the API. For production workloads, purchase a license or request a temporary evaluation license.
 
-### 基本初始化和设置
-
-将库添加到项目后，请对其进行初始化：
+### Basic Initialization and Setup
 
 ```java
 import com.groupdocs.conversion.Converter;
 
 public class ConversionSetup {
     public static void main(String[] args) {
-        // 初始化 Converter 对象
+        // Initialize the Converter object
         Converter converter = new Converter();
         
         System.out.println("GroupDocs.Conversion for Java has been initialized successfully.");
@@ -72,14 +74,10 @@ public class ConversionSetup {
 }
 ```
 
-## 实施指南
+## How to List Formats Using GroupDocs.Conversion for Java
+The following sections demonstrate how to retrieve the complete conversion matrix. The code snippets are unchanged from the original tutorial; we only add context and explanations.
 
-### 检索所有可能的转换
-
-此功能允许您发现 GroupDocs 库中可用的所有转换路径，从而清楚地了解哪些源格式可以转换为哪些目标格式。
-
-#### 初始化和检索转换
-首先创建一个 `Converter` 班级：
+### Initialize and Retrieve Conversions
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -87,35 +85,32 @@ import com.groupdocs.conversion.contracts.PossibleConversions;
 
 public class GetAllPossibleConversionsFeature {
     public static void run() {
-        // 初始化 Converter 对象
+        // Initialize the Converter object
         Converter converter = new Converter();
 ```
 
-#### 迭代可能的转换
-这 `getAllPossibleConversions()` 方法返回每个源文档格式可用的转换选项列表：
+### Iterate Over Possible Conversions
 
 ```java
-// 检索库支持的所有可能的转换
+// Retrieve all possible conversions supported by the library
 for (PossibleConversions conversions : converter.getAllPossibleConversions()) {
-    // 打印源格式说明
+    // Print source format description
     System.out.print(String.format("Source format: %s \n", conversions.getSource().getDescription()));
 ```
 
-#### 确定转换类型
-对于每次转换，确定它是主要类型还是次要类型并打印详细信息：
+### Determine Conversion Types
 
 ```java
-// 遍历源格式可用的每个目标转换
+// Iterate through each target conversion available for the source format
 for (TargetConversion conversion : conversions.getAll()) {
-    // 确定它是主转换还是次转换并打印详细信息
+    // Determine if it's a primary or secondary conversion and print details
     System.out.print(String.format("\t...can be converted to %s format as %s conversion.\n",
             conversion.getFormat(),
             conversion.isPrimary() ? "primary" : "secondary"));
 }
 ```
 
-#### 功能齐全
-以下是检索所有可能转换的完整实现：
+### Complete Function
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -124,17 +119,17 @@ import com.groupdocs.conversion.contracts.TargetConversion;
 
 public class GetAllPossibleConversionsFeature {
     public static void run() {
-        // 初始化 Converter 对象
+        // Initialize the Converter object
         Converter converter = new Converter();
 
-        // 检索库支持的所有可能的转换
+        // Retrieve all possible conversions supported by the library
         for (PossibleConversions conversions : converter.getAllPossibleConversions()) {
-            // 打印源格式说明
+            // Print source format description
             System.out.print(String.format("Source format: %s \n", conversions.getSource().getDescription()));
 
-            // 遍历源格式可用的每个目标转换
+            // Iterate through each target conversion available for the source format
             for (TargetConversion conversion : conversions.getAll()) {
-                // 确定它是主转换还是次转换并打印详细信息
+                // Determine if it's a primary or secondary conversion and print details
                 System.out.print(String.format("\t...can be converted to %s format as %s conversion.\n",
                         conversion.getFormat(),
                         conversion.isPrimary() ? "primary" : "secondary"));
@@ -144,43 +139,44 @@ public class GetAllPossibleConversionsFeature {
 }
 ```
 
-## 实际应用
+## Cloud Storage File Conversion Use Cases
+Knowing the full conversion matrix is especially valuable when building **cloud storage file conversion** services:
 
-检索所有可能的转换的能力在各种情况下都是有益的：
-1. **文档管理系统：** 自动识别和转换多种格式存储的文档。
-2. **云存储解决方案：** 通过动态地将文件转换为普遍接受的格式，促进无缝文件共享。
-3. **内容交付平台：** 通过向用户提供他们选择的可下载版本来优化内容交付。
+1. **Dynamic Format Detection:** When a file lands in cloud storage, you can instantly query whether the desired target format is supported.  
+2. **Batch Migration:** Move large document libraries to a unified format (e.g., PDF/A) by iterating over supported source types.  
+3. **User‑Driven Export:** Offer end‑users a dropdown of only the formats their current document can be exported to, reducing errors.
 
-## 性能考虑
+## Performance Considerations
+- **Resource Management:** Dispose of the `Converter` instance or use try‑with‑resources if you create many short‑lived converters.  
+- **Batch Processing:** Group multiple files into a single job to reduce overhead.  
+- **Caching:** Cache the result of `getAllPossibleConversions()` if you query it frequently; the conversion matrix rarely changes at runtime.
 
-使用 GroupDocs.Conversion 时，请考虑以下提示以优化性能：
-- **高效的资源管理：** 监控内存使用情况并确保转换后正确处理资源。
-- **批处理：** 如果处理大量文件，请实施批处理以有效管理负载。
-- **缓存机制：** 对经常转换的格式使用缓存以减少转换时间。
+## Common Issues and Solutions
+| Symptom | Likely Cause | Fix |
+|---------|--------------|-----|
+| No output appears | `Converter` not initialized correctly | Ensure the library JAR is on the classpath and the license is loaded. |
+| `TargetConversion` list is empty | Using an outdated library version | Upgrade to the latest GroupDocs.Conversion release. |
+| Memory spikes on large documents | Not disposing of converter resources | Call `converter.close()` or use try‑with‑resources. |
 
-## 结论
+## Frequently Asked Questions
 
-在本教程中，您学习了如何使用 GroupDocs.Conversion for Java 检索所有可能的转换。通过了解支持的各种格式及其转换路径，您可以更好地将文档处理功能集成到您的应用程序中。
+**Q: What is GroupDocs.Conversion for Java?**  
+A: A powerful document conversion library supporting a wide range of formats, enabling seamless integration and automation within Java applications.
 
-**后续步骤：**
-- 尝试使用该库转换特定的文件类型。
-- 探索批处理或自定义格式支持等附加功能。
+**Q: How do I start with GroupDocs.Conversion?**  
+A: Begin by setting up your environment as described in the prerequisites and adding the library via Maven.
 
-准备好将这些见解付诸实践了吗？不妨在下一个项目中尝试实施这个解决方案！
+**Q: Can I convert custom file types using GroupDocs.Conversion?**  
+A: Yes, through customization options available in the API, you can extend support to additional file formats.
 
-## 常见问题解答部分
+**Q: What are some common issues when implementing conversions?**  
+A: Ensure all dependencies are correctly configured and verify that your Java environment meets the library’s requirements.
 
-1. **Java 的 GroupDocs.Conversion 是什么？**
-   - 强大的文档转换库，支持多种格式，可实现 Java 应用程序内的无缝集成和自动化。
+**Q: Where can I get more help if needed?**  
+A: Visit the GroupDocs forum or consult their extensive [documentation](https://docs.groupdocs.com/conversion/java/).
 
-2. **如何开始使用 GroupDocs.Conversion？**
-   - 首先按照先决条件中所述设置您的环境，并通过 Maven 添加库。
+---
 
-3. **我可以使用 GroupDocs.Conversion 转换自定义文件类型吗？**
-   - 是的，通过 API 中提供的自定义选项，您可以扩展对其他文件格式的支持。
-
-4. **实施转换时有哪些常见问题？**
-   - 确保所有依赖项都已正确配置，并验证您的 Java 环境是否满足库的要求。
-
-5. **如果需要的话我可以在哪里获得更多帮助？**
-   - 访问 GroupDocs 论坛或查阅其广泛的 [文档](https://docs。groupdocs.com/conversion/java/).
+**Last Updated:** 2026-01-28  
+**Tested With:** GroupDocs.Conversion 25.2 for Java  
+**Author:** GroupDocs

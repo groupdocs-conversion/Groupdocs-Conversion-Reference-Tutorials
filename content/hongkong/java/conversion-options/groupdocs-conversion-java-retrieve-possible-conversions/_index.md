@@ -1,40 +1,43 @@
 ---
-"date": "2025-04-28"
-"description": "了解如何使用 GroupDocs.Conversion for Java 擷取所有可能的文件轉換。本指南涵蓋設定、程式碼實作和實際應用。"
-"title": "GroupDocs.Conversion for Java&#58; 如何擷取所有可能的轉換"
-"url": "/zh-hant/java/conversion-options/groupdocs-conversion-java-retrieve-possible-conversions/"
-"weight": 1
+date: '2026-01-28'
+description: 了解如何使用 GroupDocs.Conversion for Java 列出格式並檢索所有可能的轉換，包括雲端儲存檔案轉換情境。
+keywords:
+- GroupDocs.Conversion for Java
+- retrieve all possible conversions
+- Java document conversion
+title: GroupDocs.Conversion for Java：如何列出格式並取得所有可能的轉換
 type: docs
+url: /zh-hant/java/conversion-options/groupdocs-conversion-java-retrieve-possible-conversions/
+weight: 1
 ---
-# 使用 GroupDocs.Conversion for Java 擷取所有可能轉換的綜合指南
 
-## 介紹
+# 使用 GroupDocs.Conversion for Java 取得所有可能的轉換完整指南
 
-跨多種格式進行文件轉換可能非常複雜。 Java 中的 GroupDocs.Conversion 函式庫透過提供強大的轉換功能簡化了這個過程。在本教程中，您將學習如何使用 GroupDocs.Conversion for Java 的「擷取所有可能的轉換」功能。
+文件轉換專案通常會從一個簡單的問題開始：**如何列出格式**（list formats）庫支援的格式，以便在決定要轉換哪些格式之前先了解。在本教學中，你將正好學會——如何列出格式以及取得 GroupDocs.Conversion for Java 所提供的所有可能轉換路徑。我們將逐步說明設定、程式碼執行、實務案例與效能技巧，讓你能自信地將格式探索整合到應用程式中。
 
-**您將學到什麼：**
-- 為 Java 設定和配置 GroupDocs.Conversion。
-- 檢索庫支援的所有可能的文檔轉換。
-- 實作程式碼來列出格式之間的轉換可能性。
-- 實際應用和性能考慮。
+## 快速答覆
+- **「list formats」是什麼意思？** 它會回傳庫能處理的每一個來源至目標的轉換配對。  
+- **我需要授權嗎？** 免費試用可用於測試；正式上線則需付費授權。  
+- **這能協助雲端儲存檔案轉換嗎？** 可以——了解支援的格式後，你就能在雲端儲存的工作流程中自動化轉換。  
+- **需要哪個 Java 版本？** JDK 8 或更新版本。  
+- **此功能是執行緒安全的嗎？** `Converter` 實例可在多執行緒間重複使用，但使用完畢後請釋放資源。  
 
-在深入實施之前，請確保一切準備就緒。
+## 在 GroupDocs.Conversion 中「how to list formats」是什麼？
+**list formats** 操作會查詢內部的轉換矩陣，並回傳一個集合，說明每一種來源格式以及它可以轉換成的目標格式。此資訊對於構建動態文件處理工作流程至關重要。
 
-## 先決條件
+## 為什麼要使用 GroupDocs.Conversion for Java？
+- **廣泛的格式支援：** 開箱即支援數百種來源與目標類型。  
+- **雲端就緒：** 非常適合需要即時判斷可轉換檔案的雲端儲存轉換流水線。  
+- **效能優化：** 為大規模批次作業進行最佳化。  
 
-要遵循本教程，請確保您已具備：
-- **Java 開發工具包 (JDK)：** 您的機器上安裝了版本 8 或更高版本。
-- **GroupDocs.Conversion for Java：** 使用 Maven 新增庫。確保已在開發環境中配置 Maven。
+## 前置條件
+- **Java Development Kit (JDK)：** 版本 8 或更新。  
+- **Maven：** 在你的 IDE（IntelliJ IDEA、Eclipse、NetBeans 等）中正確設定。  
+- **GroupDocs.Conversion for Java：** 以 Maven 依賴方式加入（見下方）。  
 
-### 環境設定要求
-1. 對 Java 和物件導向程式設計原理有基本的了解。
-2. 合適的 IDE（例如 IntelliJ IDEA、Eclipse 或 NetBeans）來編寫和執行 Java 程式碼。
+## 設定 GroupDocs.Conversion for Java
+在你的 `pom.xml` 中加入 GroupDocs 的儲存庫與相依性：
 
-## 為 Java 設定 GroupDocs.Conversion
-
-若要在專案中使用 GroupDocs.Conversion，請將其作為 Maven 相依性包含在內：
-
-**Maven配置：**
 ```xml
 <repositories>
    <repository>
@@ -52,19 +55,17 @@ type: docs
 </dependencies>
 ```
 
-### 許可證獲取
-立即免費試用，探索 GroupDocs.Conversion 的功能。如需延長使用時間，請考慮購買許可證或申請臨時評估許可證。
+### 取得授權
+先使用免費試用版來探索 API。正式上線時，請購買授權或申請臨時評估授權。
 
-### 基本初始化和設定
-
-將庫新增至項目後，請對其進行初始化：
+### 基本初始化與設定
 
 ```java
 import com.groupdocs.conversion.Converter;
 
 public class ConversionSetup {
     public static void main(String[] args) {
-        // 初始化 Converter 對象
+        // Initialize the Converter object
         Converter converter = new Converter();
         
         System.out.println("GroupDocs.Conversion for Java has been initialized successfully.");
@@ -72,14 +73,10 @@ public class ConversionSetup {
 }
 ```
 
-## 實施指南
+## 使用 GroupDocs.Conversion for Java 列出格式
+以下章節示範如何取得完整的轉換矩陣。程式碼片段與原教學保持一致，我們僅加入說明與解說。
 
-### 檢索所有可能的轉換
-
-此功能可讓您發現 GroupDocs 庫中可用的所有轉換路徑，從而清楚了解哪些來源格式可以轉換為哪些目標格式。
-
-#### 初始化和檢索轉換
-首先創建一個 `Converter` 班級：
+### 初始化並取得轉換
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -87,35 +84,32 @@ import com.groupdocs.conversion.contracts.PossibleConversions;
 
 public class GetAllPossibleConversionsFeature {
     public static void run() {
-        // 初始化 Converter 對象
+        // Initialize the Converter object
         Converter converter = new Converter();
 ```
 
-#### 迭代可能的轉換
-這 `getAllPossibleConversions()` 方法傳回每個來源文檔格式可用的轉換選項清單：
+### 迭代可能的轉換
 
 ```java
-// 檢索庫支援的所有可能的轉換
+// Retrieve all possible conversions supported by the library
 for (PossibleConversions conversions : converter.getAllPossibleConversions()) {
-    // 列印來源格式說明
+    // Print source format description
     System.out.print(String.format("Source format: %s \n", conversions.getSource().getDescription()));
 ```
 
-#### 確定轉換類型
-對於每次轉換，確定它是主要類型還是次要類型並列印詳細資訊：
+### 判斷轉換類型
 
 ```java
-// 遍歷來源格式可用的每個目標轉換
+// Iterate through each target conversion available for the source format
 for (TargetConversion conversion : conversions.getAll()) {
-    // 確定它是主轉換還是次轉換並列印詳細信息
+    // Determine if it's a primary or secondary conversion and print details
     System.out.print(String.format("\t...can be converted to %s format as %s conversion.\n",
             conversion.getFormat(),
             conversion.isPrimary() ? "primary" : "secondary"));
 }
 ```
 
-#### 功能齊全
-以下是檢索所有可能轉換的完整實作：
+### 完整函式
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -124,17 +118,17 @@ import com.groupdocs.conversion.contracts.TargetConversion;
 
 public class GetAllPossibleConversionsFeature {
     public static void run() {
-        // 初始化 Converter 對象
+        // Initialize the Converter object
         Converter converter = new Converter();
 
-        // 檢索庫支援的所有可能的轉換
+        // Retrieve all possible conversions supported by the library
         for (PossibleConversions conversions : converter.getAllPossibleConversions()) {
-            // 列印來源格式說明
+            // Print source format description
             System.out.print(String.format("Source format: %s \n", conversions.getSource().getDescription()));
 
-            // 遍歷來源格式可用的每個目標轉換
+            // Iterate through each target conversion available for the source format
             for (TargetConversion conversion : conversions.getAll()) {
-                // 確定它是主轉換還是次轉換並列印詳細信息
+                // Determine if it's a primary or secondary conversion and print details
                 System.out.print(String.format("\t...can be converted to %s format as %s conversion.\n",
                         conversion.getFormat(),
                         conversion.isPrimary() ? "primary" : "secondary"));
@@ -144,43 +138,45 @@ public class GetAllPossibleConversionsFeature {
 }
 ```
 
-## 實際應用
+## 雲端儲存檔案轉換使用案例
+了解完整的轉換矩陣在構建 **雲端儲存檔案轉換** 服務時尤其有價值：
 
-檢索所有可能的轉換的能力在各種情況下都是有益的：
-1. **文件管理系統：** 自動識別和轉換多種格式儲存的文件。
-2. **雲端儲存解決方案：** 透過動態地將文件轉換為普遍接受的格式，促進無縫文件共享。
-3. **內容交付平台：** 透過向用戶提供他們選擇的可下載版本來優化內容交付。
+1. **動態格式偵測：** 當檔案上傳至雲端儲存時，你可以即時查詢目標格式是否受支援。  
+2. **批次遷移：** 透過遍歷支援的來源類型，將大型文件庫遷移至統一格式（例如 PDF/A）。  
+3. **使用者導向匯出：** 為最終使用者提供僅包含其當前文件可匯出的格式下拉選單，降低錯誤發生。  
 
-## 性能考慮
+## 效能考量
+- **資源管理：** 釋放 `Converter` 實例，或在建立大量短暫使用的轉換器時使用 try‑with‑resources。  
+- **批次處理：** 將多個檔案合併為單一作業，以減少開銷。  
+- **快取：** 若頻繁查詢 `getAllPossibleConversions()`，可將結果快取；轉換矩陣在執行期間很少變動。  
 
-使用 GroupDocs.Conversion 時，請考慮以下提示以優化效能：
-- **高效率的資源管理：** 監控記憶體使用情況並確保轉換後正確處理資源。
-- **批次：** 如果處理大量文件，請實施批次以有效管理負載。
-- **快取機制：** 對經常轉換的格式使用快取以減少轉換時間。
+## 常見問題與解決方案
 
-## 結論
+| 症狀 | 可能原因 | 解決方式 |
+|------|----------|----------|
+| 沒有任何輸出 | `Converter` 未正確初始化 | 確保庫的 JAR 已加入 classpath 且已載入授權。 |
+| `TargetConversion` 清單為空 | 使用了過時的庫版本 | 升級至最新的 GroupDocs.Conversion 版本。 |
+| 大型文件記憶體激增 | 未釋放轉換器資源 | 呼叫 `converter.close()` 或使用 try‑with‑resources。 |
 
-在本教學中，您學習如何使用 GroupDocs.Conversion for Java 來擷取所有可能的轉換。透過了解支援的各種格式及其轉換路徑，您可以更好地將文件處理功能整合到您的應用程式中。
+## 常見問答
 
-**後續步驟：**
-- 嘗試使用該庫轉換特定的文件類型。
-- 探索批次或自訂格式支援等附加功能。
+**Q: 什麼是 GroupDocs.Conversion for Java？**  
+A: 一個功能強大的文件轉換庫，支援廣泛的格式，讓 Java 應用程式能無縫整合與自動化。
 
-準備好將這些見解付諸實行了嗎？不妨在下一個專案中嘗試實施這個解決方案！
+**Q: 我要如何開始使用 GroupDocs.Conversion？**  
+A: 先依照前置條件說明設定環境，並透過 Maven 加入此庫。
 
-## 常見問題部分
+**Q: 我可以使用 GroupDocs.Conversion 轉換自訂檔案類型嗎？**  
+A: 可以，透過 API 提供的自訂選項，你可以擴充支援額外的檔案格式。
 
-1. **Java 的 GroupDocs.Conversion 是什麼？**
-   - 強大的文件轉換庫，支援多種格式，可實現 Java 應用程式內的無縫整合和自動化。
+**Q: 實作轉換時常見的問題有哪些？**  
+A: 確認所有相依性正確設定，並驗證你的 Java 環境符合庫的需求。
 
-2. **如何開始使用 GroupDocs.Conversion？**
-   - 首先按照先決條件中所述設定您的環境，並透過 Maven 新增庫。
+**Q: 若需要更多協助，我該去哪裡？**  
+A: 前往 GroupDocs 論壇或參考他們豐富的 [文件說明](https://docs.groupdocs.com/conversion/java/)。  
 
-3. **我可以使用 GroupDocs.Conversion 轉換自訂檔案類型嗎？**
-   - 是的，透過 API 中提供的自訂選項，您可以擴展對其他文件格式的支援。
+---
 
-4. **實施轉換時有哪些常見問題？**
-   - 確保所有相依性都已正確配置，並驗證您的 Java 環境是否符合程式庫的要求。
-
-5. **如果需要的話我可以在哪裡獲得更多幫助？**
-   - 造訪 GroupDocs 論壇或查閱其廣泛的 [文件](https://docs。groupdocs.com/conversion/java/).
+**最後更新：** 2026-01-28  
+**測試環境：** GroupDocs.Conversion 25.2 for Java  
+**作者：** GroupDocs
