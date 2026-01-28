@@ -1,38 +1,47 @@
 ---
-"date": "2025-04-28"
-"description": "Apprenez à convertir des documents Java tout en préservant les polices personnalisées grâce à GroupDocs.Conversion. Assurez une apparence cohérente de vos documents sur toutes les plateformes."
-"title": "Conversion de documents Java avec polices personnalisées à l'aide de GroupDocs.Conversion"
-"url": "/fr/java/conversion-options/java-conversion-custom-fonts-groupdocs/"
-"weight": 1
+date: '2026-01-28'
+description: Apprenez à convertir une présentation en PDF avec substitution de police
+  personnalisée en utilisant GroupDocs.Conversion pour Java. Conservez les polices
+  et assurez une apparence cohérente du document.
+keywords:
+- Java document conversion
+- custom fonts in Java
+- GroupDocs.Conversion for Java
+title: Comment convertir une présentation en PDF avec des polices personnalisées en
+  utilisant GroupDocs.Conversion pour Java
 type: docs
+url: /fr/java/conversion-options/java-conversion-custom-fonts-groupdocs/
+weight: 1
 ---
-# Conversion de documents Java avec polices personnalisées à l'aide de GroupDocs.Conversion
 
-Dans le monde numérique actuel, il est crucial de convertir des documents tout en conservant leur conception et leur mise en page d'origine. Que vous prépariez une présentation pour un client ou archiviez des fichiers importants, garantir la cohérence des polices sur toutes les plateformes peut s'avérer complexe. Ce tutoriel vous guidera dans l'utilisation de GroupDocs.Conversion pour Java pour convertir des présentations en PDF avec des substitutions de polices personnalisées, garantissant ainsi l'intégrité visuelle tout au long du processus.
+# Comment convertir une présentation en PDF avec des polices personnalisées en utilisant GroupDocs.Conversion pour Java
 
-**Ce que vous apprendrez :**
-- Configurez GroupDocs.Conversion pour Java dans votre projet.
-- Implémentez une substitution de police personnalisée lors des conversions de présentation en PDF.
-- Configurez les options de conversion avancées à l’aide de GroupDocs.Conversion.
-- Appliquez ces fonctionnalités à des scénarios réels.
+Dans les flux de travail modernes, vous devez souvent **convertir une présentation en pdf** tout en conservant l'aspect et la convivialité d'origine. Que vous partagiez un deck client, archiviez du matériel de formation ou automatisiez la génération de rapports, les polices manquantes peuvent ruiner la qualité visuelle. Ce tutoriel vous montre exactement comment préserver les polices lors d'une conversion Java pptx en pdf en utilisant **GroupDocs.Conversion pour Java**.
 
-Plongeons dans les prérequis et commençons !
+## Réponses rapides
+- **Quel est le principal avantage de la substitution de polices personnalisées ?** Elle garantit que le PDF ressemble exactement à la présentation source, même lorsque les polices d'origine ne sont pas installées sur la machine cible.  
+- **Quelle bibliothèque gère la conversion ?** `GroupDocs.Conversion` pour Java.  
+- **Ai-je besoin d'une licence ?** Un essai gratuit suffit pour le développement ; une licence commerciale est requise pour la production.  
+- **Puis-je l'utiliser dans un projet Maven ?** Oui – il suffit d'ajouter le dépôt et la dépendance indiqués ci-dessous.  
+- **Le processus est‑il thread‑safe ?** L'instance `Converter` est légère ; vous pouvez en créer une par thread de conversion.
+
+## Qu'est‑ce que **convertir une présentation en pdf** ?
+Cette expression décrit simplement l'action de transformer un fichier PowerPoint (.pptx) en document PDF. La conversion en PDF rend le fichier universellement visualisable, imprimable et plus facile à archiver, tout en préservant la mise en page, les images et le texte.
+
+## Pourquoi utiliser la **substitution de polices personnalisées** ?
+- **Cohérence de la marque :** Assurez-vous que les polices d'entreprise apparaissent correctement même sur les machines qui ne les possèdent pas.  
+- **Fiabilité multiplateforme :** Les PDF s'affichent de la même manière sur Windows, macOS, Linux et les appareils mobiles.  
+- **Réduction des tickets de support :** Plus de « mon PDF a l'air bizarre parce que la police manque ».
 
 ## Prérequis
-
-Avant de mettre en œuvre la solution, assurez-vous de disposer des éléments suivants :
-
-1. **Bibliothèques requises :** Installez Java Development Kit (JDK) sur votre machine et incluez GroupDocs.Conversion pour Java dans votre projet.
-2. **Configuration requise pour l'environnement :** Utilisez un IDE approprié comme IntelliJ IDEA ou Eclipse avec Maven configuré pour la gestion des dépendances.
-3. **Prérequis en matière de connaissances :** Avoir une compréhension de base de la programmation Java et une familiarité avec la gestion des dépendances via Maven.
+1. **Java Development Kit (JDK)** – version 8 ou supérieure.  
+2. **Maven** – pour la gestion des dépendances.  
+3. **IDE** – IntelliJ IDEA, Eclipse ou tout éditeur compatible Java.  
+4. **Connaissances de base en Java** – vous devez être à l'aise avec les classes et les méthodes.  
 
 ## Configuration de GroupDocs.Conversion pour Java
 
-Intégrez la bibliothèque GroupDocs.Conversion à votre projet Java avec Maven. Suivez ces étapes :
-
-**Configuration Maven :**
-
-Ajoutez les configurations de référentiel et de dépendance suivantes dans votre `pom.xml` déposer:
+Intégrez la bibliothèque GroupDocs.Conversion dans votre projet Maven. L'extrait XML ci‑dessous ajoute le dépôt officiel et la dépendance requise.
 
 ```xml
 <repositories>
@@ -52,28 +61,17 @@ Ajoutez les configurations de référentiel et de dépendance suivantes dans vot
 </dependencies>
 ```
 
-**Acquisition de licence :**
-- **Essai gratuit :** Téléchargez une version d’essai sur le site Web GroupDocs pour tester les fonctionnalités.
-- **Licence temporaire :** Demandez une licence temporaire si vous avez besoin de tests prolongés sans limitations.
-- **Achat:** Envisagez l’achat si vous êtes satisfait de l’expérience d’essai.
+### Acquisition de licence
+- **Essai gratuit :** Téléchargez un essai depuis le site Web de GroupDocs.  
+- **Licence temporaire :** Demandez une clé temporaire pour des tests prolongés.  
+- **Achat :** Passez à une licence complète une fois que vous êtes satisfait.
 
-Après avoir configuré Maven et acquis votre licence, initialisez votre projet en créant une classe Java de base dans laquelle nous implémenterons notre logique de conversion.
+Après que Maven ait résolu la dépendance, vous pouvez commencer à coder la logique de conversion.
 
-## Guide de mise en œuvre
+## Guide d'implémentation
 
-### Substitution de polices personnalisées lors de la conversion d'une présentation en PDF
-
-Cette fonctionnalité vous permet de spécifier des polices alternatives lorsque votre police d'origine n'est pas disponible pendant le processus de conversion.
-
-#### Aperçu
-
-Dans les scénarios où des polices spécifiques manquent dans l'environnement, cette fonction garantit que votre présentation conserve une apparence cohérente en remplaçant les polices spécifiées.
-
-#### Étapes de mise en œuvre
-
-**Étape 1 : Définir les options de chargement de la présentation avec substitution de police**
-
-Tout d'abord, nous allons mettre en place `PresentationLoadOptions` pour inclure nos substitutions de polices :
+### Étape 1 : Définir les options de chargement de la présentation avec substitution de polices
+La méthode suivante crée un objet `PresentationLoadOptions` et indique à GroupDocs comment remplacer les polices manquantes. C'est le cœur de **comment préserver les polices** pendant la conversion.
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -83,91 +81,104 @@ import java.util.ArrayList;
 import java.util.List;
 
 public PresentationLoadOptions definePresentationLoadOptionsWithFontSubstitution() {
-    // Initialiser PresentationLoadOptions
+    // Initialize PresentationLoadOptions
     PresentationLoadOptions loadOptions = new PresentationLoadOptions();
     
-    // Créer une liste pour conserver les substituts de polices
+    // Create a list to hold font substitutes
     List<FontSubstitute> fontSubstitutes = new ArrayList<>();
     
-    // Ajouter des mappages de substitution de polices
+    // Add font substitution mappings
     fontSubstitutes.add(FontSubstitute.create("Tahoma", "Arial"));
     fontSubstitutes.add(FontSubstitute.create("Times New Roman", "Arial"));
     
-    // Définir la police par défaut à utiliser si une police spécifique n'est pas trouvée
+    // Set default font to be used if a specific font is not found
     loadOptions.setDefaultFont("YOUR_DOCUMENT_DIRECTORY/resources/fonts/Helvetica.ttf");
     
-    // Appliquer les substituts de police aux options de chargement
+    // Apply the font substitutes to the load options
     loadOptions.setFontSubstitutes(fontSubstitutes);
     
     return loadOptions;
 }
 ```
 
-**Explication:**
-- **Substitution de police :** Nous mappons « Tahoma » et « Times New Roman » à « Arial », garantissant que si ces polices ne sont pas disponibles, Arial sera utilisé à la place.
-- **Police par défaut :** Spécifie une police de secours, préservant la cohérence esthétique du document.
+**Explication**  
+- **Substitution de polices :** Associe « Tahoma » et « Times New Roman » à « Arial ».  
+- **Police par défaut :** Fournit une police de secours (`Helvetica.ttf`) si aucune correspondance n'est trouvée.  
 
-**Étape 2 : Convertir un document de présentation en PDF avec des options avancées**
-
-Maintenant, convertissons la présentation en utilisant ces options de chargement :
+### Étape 2 : Convertir le document de présentation en PDF avec des options avancées
+Nous utilisons maintenant les options de chargement de l'étape 1 pour effectuer réellement l'opération de **convertir une présentation en pdf**.
 
 ```java
 import com.groupdocs.conversion.Converter;
 import com.groupdocs.conversion.options.convert.PdfConvertOptions;
 
 public void defineConversionProcessWithAdvancedOptions(PresentationLoadOptions loadOptions) {
-    // Spécifiez le chemin d'accès au fichier PDF converti
+    // Specify the path for the converted PDF file
     String convertedFile = "YOUR_OUTPUT_DIRECTORY/ConvertedPresentation.pdf";
     
-    // Initialiser le convertisseur avec le fichier de présentation et charger les options
+    // Initialize Converter with the presentation file and load options
     Converter converter = new Converter("YOUR_DOCUMENT_DIRECTORY/Presentation.pptx", () -> loadOptions);
     
-    // Configurer les options de conversion PDF (vide pour la configuration par défaut)
+    // Set up PDF conversion options (empty for default configuration)
     PdfConvertOptions options = new PdfConvertOptions();
     
-    // Effectuer la conversion de la présentation au format PDF
+    // Perform the conversion from presentation to PDF
     converter.convert(convertedFile, options);
 }
 ```
 
-**Explication:**
-- **Initialisation du convertisseur :** Le `Converter` la classe prend le chemin du fichier et charge les options, garantissant que nos paramètres de police personnalisés sont appliqués.
-- **Options de conversion PDF :** Vous pouvez les personnaliser davantage si nécessaire ; ici, nous utilisons les paramètres par défaut.
+**Explication**  
+- **Initialisation du convertisseur :** Transmet le chemin du PPTX ainsi que les `loadOptions` personnalisées.  
+- **Options de conversion PDF :** Vous pouvez ajuster davantage les paramètres (par ex., la qualité d'image) si nécessaire.  
 
-### Applications pratiques
+## Applications pratiques
+1. **Présentations professionnelles :** Conservez l'identité visuelle de l'entreprise lors du partage de PDF avec des partenaires externes.  
+2. **Matériel éducatif :** Convertissez les présentations de cours en PDF pour une étude hors ligne sans vous soucier des polices manquantes.  
+3. **Documents juridiques :** Préservez la mise en page exacte des diapositives probantes pour les dépôts judiciaires.  
 
-1. **Présentations d'affaires :** Assurez la cohérence de la marque en remplaçant les polices d'entreprise par des alternatives largement disponibles lors des conversions pour le partage ou l'archivage en ligne.
-2. **Matériel pédagogique :** Convertissez les présentations des étudiants en PDF pour une distribution hors ligne tout en conservant la lisibilité sur différents systèmes.
-3. **Documents juridiques :** Protégez l’intégrité du document en garantissant que le texte reste lisible, même si des polices spécifiques sont absentes du système cible.
+## Considérations de performance
+- **Gestion de la mémoire :** Allouez suffisamment d'espace heap pour les présentations volumineuses (`-Xmx2g` est un bon point de départ).  
+- **Limiter les substitutions de polices :** Mappez uniquement les polices dont vous avez réellement besoin ; des mappages excessifs peuvent ralentir le traitement.  
+- **Collecte des ordures :** Appelez `System.gc()` après de grandes conversions par lots si vous remarquez des pics de mémoire.  
 
-## Considérations relatives aux performances
+## Problèmes courants et solutions
 
-Pour optimiser votre processus de conversion :
+| Problème | Solution |
+|----------|----------|
+| **Fichier de police par défaut manquant** | Vérifiez que le chemin dans `setDefaultFont` pointe vers un fichier `.ttf` valide et que le fichier est lisible. |
+| **La conversion se bloque sur un PPTX volumineux** | Augmentez la taille du heap JVM et envisagez de convertir les diapositives par lots. |
+| **La police n'est pas substituée comme prévu** | Assurez-vous que le nom de la police source correspond exactement (sensible à la casse) au nom utilisé dans `FontSubstitute.create`. |
+| **Le PDF de sortie est vide** | Confirmez que le PPTX source n'est pas corrompu et que le `Converter` pointe vers le bon chemin de fichier. |
 
-- **Gérer efficacement les ressources :** Assurez une allocation de mémoire adéquate lors du traitement de présentations volumineuses afin d’éviter une dégradation des performances.
-- **Optimiser les substitutions de polices :** Limitez les substitutions aux modifications nécessaires pour réduire la surcharge de traitement lors des conversions.
-- **Gestion de la mémoire Java :** Utilisez des techniques efficaces de collecte des déchets et de gestion des ressources en Java pour un fonctionnement fluide.
+## Questions fréquentes
+
+**Q : Quel est le principal avantage d'utiliser des substitutions de polices personnalisées lors des conversions ?**  
+R : La substitution de polices personnalisées garantit que le PDF conserve l'apparence prévue, même lorsque les polices d'origine ne sont pas disponibles sur le système cible.
+
+**Q : Comment gérer les polices non prises en charge lors de la conversion ?**  
+R : Utilisez la fonctionnalité `FontSubstitute` pour mapper les polices indisponibles à des alternatives, assurant une esthétique de document cohérente.
+
+**Q : Puis-je utiliser GroupDocs.Conversion avec des solutions de stockage cloud ?**  
+R : Oui, GroupDocs propose des intégrations permettant des conversions directement depuis des plateformes de stockage cloud telles qu'AWS S3 et Azure Blob Storage.
+
+**Q : Que faire si mon processus de conversion est lent ?**  
+R : Optimisez les ressources système, limitez les mappages de substitution de polices et augmentez la taille du heap JVM pour améliorer les performances.
+
+**Q : Ce tutoriel fait-il partie d'une série plus large **document conversion tutorial java** ?**  
+R : Absolument — ce guide se concentre sur les polices personnalisées, mais la série couvre également l'extraction d'images, le filigrane et le traitement par lots avec GroupDocs.Conversion pour Java.
 
 ## Conclusion
+Vous disposez maintenant d'une approche complète et prête pour la production afin de **convertir une présentation en pdf** tout en préservant les polices grâce à **GroupDocs.Conversion pour Java**. En définissant des options de chargement avec des substituts de polices et en exploitant l'API puissante `Converter`, vous pouvez garantir la fidélité visuelle sur n'importe quelle plateforme.
 
-Vous savez maintenant comment implémenter des substitutions de polices personnalisées et des options de conversion avancées avec GroupDocs.Conversion pour Java. En appliquant ces stratégies, vous pouvez améliorer la cohérence visuelle de vos documents sur différentes plateformes et appareils.
+**Étapes suivantes**  
+- Expérimentez avec des `PdfConvertOptions` supplémentaires (par ex., définir la conformité PDF/A).  
+- Intégrez la logique de conversion dans un service REST pour la génération de PDF à la demande.  
+- Explorez d'autres modules GroupDocs tels que `GroupDocs.Annotation` pour ajouter des commentaires aux PDF générés.
 
-**Prochaines étapes :**
-- Expérimentez avec les fonctionnalités de conversion supplémentaires proposées par GroupDocs.
-- Explorez les possibilités d’intégration avec d’autres systèmes logiciels pour automatiser les flux de travail des documents.
+---
 
-Prêt à améliorer vos compétences en gestion documentaire ? Commencez à mettre en œuvre ces techniques dès aujourd'hui !
+**Dernière mise à jour :** 2026-01-28  
+**Testé avec :** GroupDocs.Conversion 25.2 pour Java  
+**Auteur :** GroupDocs  
 
-## Section FAQ
-
-1. **Quel est le principal avantage de l’utilisation de substitutions de polices personnalisées dans les conversions ?**
-   Les substitutions de polices personnalisées garantissent que les documents conservent leur apparence prévue, même si des polices spécifiques ne sont pas disponibles sur le système cible.
-
-2. **Comment puis-je gérer les polices non prises en charge lors de la conversion ?**
-   Utilisez le `FontSubstitute` fonctionnalité permettant de mapper les polices non disponibles à des alternatives, garantissant ainsi une esthétique cohérente du document.
-
-3. **Puis-je utiliser GroupDocs.Conversion avec des solutions de stockage cloud ?**
-   Oui, GroupDocs propose des intégrations qui permettent des conversions directement à partir de plateformes de stockage cloud comme AWS S3 et Azure Blob Storage.
-
-4. **Que dois-je faire si mon processus de conversion est lent ?**
-   Optimisez les ressources de votre système et examinez les mappages de substitution de polices pour vous assurer qu'ils sont efficaces.
+---
