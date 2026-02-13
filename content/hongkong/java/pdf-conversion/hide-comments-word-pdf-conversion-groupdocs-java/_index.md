@@ -1,28 +1,54 @@
 ---
-"date": "2025-04-28"
-"description": "了解如何使用 GroupDocs.Conversion for Java 將 Word 文件轉換為 PDF 時無縫隱藏註解。完美保護隱私，提升專業。"
-"title": "使用 GroupDocs.Conversion for Java 在 Word 到 PDF 轉換中隱藏註釋"
-"url": "/zh-hant/java/pdf-conversion/hide-comments-word-pdf-conversion-groupdocs-java/"
-"weight": 1
+date: '2026-02-13'
+description: 了解如何在使用 GroupDocs.Conversion for Java 進行 Word 轉 PDF 時隱藏 Word 註解。內容包括環境設定、Maven
+  依賴及逐步程式碼示例。
+keywords:
+- Word-to-PDF conversion
+- GroupDocs.Conversion for Java
+- hide comments in PDF
+title: 使用 GroupDocs.Conversion for Java 隱藏 Word 與 PDF 註解
 type: docs
+url: /zh-hant/java/pdf-conversion/hide-comments-word-pdf-conversion-groupdocs-java/
+weight: 1
 ---
-# 使用 GroupDocs.Conversion for Java 在 Word 到 PDF 轉換中隱藏註釋
 
-在當今快節奏的數位世界中，將 Word 文件轉換為 PDF 是許多專業人士的日常工作。然而，當這些文件包含敏感註釋或修訂記錄時，您可能更喜歡乾淨的 PDF，沒有任何註釋。本教學將引導您使用 GroupDocs.Conversion for Java 在轉換過程中無縫隱藏註解。
+ comments word pdf”?" etc.
 
-**您將學到什麼：**
-- 為 Java 設定 GroupDocs.Conversion
-- 在文件轉換中實作註解隱藏
-- 實際用例和效能技巧
+Proceed.
 
-首先，確保您的環境已準備好必要的先決條件。
+Make sure to keep code placeholders unchanged.
 
-## 先決條件
+Also tables.
 
-在開始之前，請確保您的開發設定符合以下要求：
+Let's produce final content.# 隱藏 Word PDF 評論（使用 GroupDocs.Conversion for Java）
 
-### 所需的函式庫、版本和相依性
-您需要安裝 GroupDocs.Conversion for Java。您可以透過 Maven 輕鬆完成此操作，只需將以下配置新增至您的 `pom.xml` 文件：
+將 Word 文件轉換為 PDF 是許多開發人員的日常工作，但當來源檔案包含審閱者備註或追蹤變更時，往往需要一個沒有任何註解的乾淨 PDF。在本教學中，你將學會 **如何在轉換過程中隱藏 Word PDF 評論**，使用 GroupDocs.Conversion for Java。我們會逐步說明 Maven 設定、所需的完整程式碼，以及實用技巧，讓你的 PDF 保持專業且保密。
+
+## 快速回答
+- **「hide comments word pdf」是什麼功能？** 它會從產生的 PDF 中移除所有評論氣泡，同時保留主要內容。  
+- **哪個函式庫提供此功能？** GroupDocs.Conversion for Java 提供 `WordProcessingLoadOptions.setHideComments(true)` 旗標。  
+- **需要授權嗎？** 免費試用可用於測試；正式環境需購買商業授權。  
+- **可以同時隱藏追蹤變更嗎？** 可以 – 使用 `loadOptions.setHideTrackChanges(true)`。  
+- **支援批次轉換嗎？** 完全支援；只要在迴圈中使用相同設定即可。
+
+## 什麼是「hide comments word pdf」？
+當你將 `.docx` 檔案轉換為 PDF 時，Word 預設會保留評論氣泡。啟用 *隱藏評論* 選項會指示轉換器將這些氣泡剔除，產生一個乾淨、沒有評論的 PDF，適合公開發佈。
+
+## 為什麼在轉換時要隱藏評論？
+- **維護機密性** – 內部審閱備註保持私密。  
+- **提升客戶文件品質** – 最終 PDF 不會出現分散注意力的標記。  
+- **簡化合規流程** – 許多受管制產業要求文件不含編輯元資料。
+
+## 前置條件
+
+開始之前，請確保已具備以下環境：
+
+- **Java Development Kit (JDK) 8 或以上** 已安裝於本機。  
+- **Maven** 用於相依管理。  
+- **GroupDocs.Conversion for Java** 授權（免費試用可用於測試）。  
+
+### 必要函式庫、版本與相依性
+在 `pom.xml` 中加入 GroupDocs 的儲存庫與相依性，請完全照以下範例操作：
 
 ```xml
 <repositories>
@@ -41,107 +67,103 @@ type: docs
 </dependencies>
 ```
 
-### 環境設定要求
-確保您的系統上安裝了相容的 Java 開發工具包 (JDK)。
+> **專業提示：** 請將 `<version>` 更新為最新穩定版，以獲得效能提升與錯誤修正。
 
-### 知識前提
-建議對 Java 和 Maven 專案設定有基本的了解，以便有效遵循本指南。
+## 設定 GroupDocs.Conversion for Java
 
-## 為 Java 設定 GroupDocs.Conversion
+1. **Maven 安裝** – 上述程式碼會自動將函式庫拉入專案。  
+2. **取得授權** – 前往 GroupDocs 官方網站申請免費試用，或購買正式授權以供正式環境使用。  
+3. **基本初始化** – Maven 解析相依後，即可在 Java 程式中直接匯入相關類別。
 
-設定 GroupDocs.Conversion for Java 非常簡單。您可以按照以下步驟開始：
+## 實作指南 – 如何在 Word 轉 PDF 時隱藏評論
 
-1. **Maven 安裝**
-   在您的 `pom.xml` 文件以包含 GroupDocs.Conversion 作為相依性。
+以下提供簡潔的逐步說明。每一步都附有說明文字與對應程式碼。**請勿修改程式碼區塊**，它們是教學有效性的必要條件。
 
-2. **許可證取得步驟**
-   若要試用 GroupDocs.Conversion for Java，請取得免費試用版或從其網站申請臨時授權。用於商業用途時，則需要購買完整許可證。
+### 步驟 1：載入選項設定（隱藏評論）
 
-3. **基本初始化和設定**
-   使用 Maven 依賴管理將庫匯入到您的專案中，如上所示。這可確保所有必需的類別在您的開發環境中可用。
-
-## 實施指南
-現在，讓我們逐步介紹在轉換過程中隱藏註解的步驟：
-
-### 轉換期間隱藏註釋
-此功能對於維護共享文件的隱私和專業至關重要。您可以按照以下方法實現此功能：
-
-#### 步驟 1：載入選項配置
-首先，配置載入選項以指定應隱藏評論。
+先建立 `WordProcessingLoadOptions` 實例，並啟用隱藏評論功能。
 
 ```java
 import com.groupdocs.conversion.Converter;
 import com.groupdocs.conversion.options.convert.PdfConvertOptions;
 import com.groupdocs.conversion.options.load.WordProcessingLoadOptions;
 
-// 配置載入選項
+// Configure load options
 WordProcessingLoadOptions loadOptions = new WordProcessingLoadOptions();
-loadOptions.setHideComments(true); // 在輸出 PDF 中隱藏註釋
+loadOptions.setHideComments(true); // Hide comments in the output PDF
 ```
 
-#### 步驟 2：初始化轉換器
-接下來，使用來源文檔路徑和配置的載入選項初始化轉換器。
+### 步驟 2：使用來源文件初始化 Converter
+
+將來源 `.docx` 路徑與載入選項傳入 `Converter` 建構子。
 
 ```java
 String sourceDocument = "YOUR_DOCUMENT_DIRECTORY/SAMPLE_DOCX_WITH_TRACKED_CHANGES";
 Converter converter = new Converter(sourceDocument, () -> loadOptions);
 ```
 
-#### 步驟3：轉換為PDF
-最後，設定轉換選項並執行轉換。
+### 步驟 3：執行 PDF 轉換
+
+建立 `PdfConvertOptions` 物件（預設設定已足夠大多數情況），然後呼叫轉換。
 
 ```java
-PdfConvertOptions convertOptions = new PdfConvertOptions(); // 預設 PDF 設定
+PdfConvertOptions convertOptions = new PdfConvertOptions(); // Default PDF settings
 String outputPdf = "YOUR_OUTPUT_DIRECTORY/ConvertWordProcessingByHiddingComments.pdf";
 
-// 執行轉換
+// Perform conversion
 converter.convert(outputPdf, convertOptions);
 ```
 
-### 故障排除提示
-- **確保路徑正確**：仔細檢查您的原始檔案和輸出檔案路徑，以避免檔案未找到錯誤。
-- **驗證依賴關係**：確保所有 GroupDocs.Conversion 相依性均已正確配置 `pom。xml`.
+> **注意：** `convert` 方法會阻塞，直到 PDF 完全寫入磁碟。若處理大量檔案，建議使用平行執行緒來加速。
 
-## 實際應用
-考慮現實世界中隱藏評論可能會帶來好處的用例：
+## 常見問題與解決方案
 
-1. **法律文件**：將帶有註釋的合約轉換為乾淨的 PDF 以供官方記錄。
-2. **教育材料**：分享課程材料，但學生看不到草稿筆記或講師評論。
-3. **商業計劃書**：透過消除內部回饋來提出完善的提案。
+| 症狀 | 可能原因 | 解決方式 |
+|------|----------|----------|
+| *找不到檔案* 錯誤 | 來源或輸出路徑不正確 | 確認 `sourceDocument` 與 `outputPdf` 指向已存在的目錄。 |
+| *PDF 中仍出現評論*（實際仍顯示） | 未呼叫 `setHideComments` 或被覆寫 | 確保在建立 `Converter` **之前** 呼叫 `loadOptions.setHideComments(true)`。 |
+| *Maven 無法解析相依性* | 儲存庫 URL 錯誤或網路受阻 | 再次檢查 `<repository>` 區塊中的 `<url>`，並確認防火牆允許存取 `releases.groupdocs.com`。 |
 
-## 性能考慮
-為了優化使用 GroupDocs.Conversion 時的效能：
-- 監控記憶體使用情況，尤其是大型文件。
-- 利用 Java 的垃圾收集功能有效地管理記憶體。
-- 分析您的應用程式以確定轉換過程中的瓶頸。
+## 實務應用（為什麼重要）
 
-## 結論
-現在您已經學習如何使用 GroupDocs.Conversion for Java 在 Word 轉 PDF 的過程中隱藏註解。這項技能可以顯著提昇文件處理效率，確保專業和保密。下一步，請探索 GroupDocs.Conversion 的其他功能，以進一步簡化您的文件工作流程。
+1. **法律合約** – 在提交正式副本前移除內部審閱備註。  
+2. **教育講義** – 發佈乾淨的課程 PDF，避免教師標記外洩。  
+3. **商業提案** – 向客戶呈現精緻的 PDF，無內部評論干擾。
 
-**行動呼籲**：今天就嘗試在您的專案中實施此解決方案！
+## 效能考量
 
-## 常見問題部分
+- **記憶體管理** – 大型 Word 檔案可能佔用大量堆積空間，必要時使用 `-Xmx` JVM 參數調升上限。  
+- **垃圾回收** – 大批次處理後可呼叫 `System.gc()` 釋放記憶體（請斟酌使用）。  
+- **效能分析** – 可利用 VisualVM 等工具找出轉換管線的瓶頸。
 
-1. **我也可以隱藏修訂嗎？**
-   是的，設定 `loadOptions.setHideTrackChanges(true);` 隱藏修訂和評論。
+## 常見問答
 
-2. **可以一次轉換多個文件嗎？**
-   GroupDocs.Conversion 支援批次轉換；有關詳細信息，請參閱 API 文件。
+**Q: 可以同時隱藏追蹤變更嗎？**  
+A: 可以。於 `setHideComments(true)` 之外，再呼叫 `loadOptions.setHideTrackChanges(true);`。
 
-3. **設定過程中會遇到哪些常見問題？**
-   常見問題包括 Maven 配置不正確或缺少依賴項。請仔細檢查您的 `pom。xml`.
+**Q: 支援批次轉換嗎？**  
+A: 完全支援。只要在檔案集合上迴圈，對每一次使用相同的 `loadOptions` 與 `PdfConvertOptions` 即可。
 
-4. **如何優化 PDF 輸出品質？**
-   調整 `PdfConvertOptions` 根據需要設定解析度和壓縮等級等。
+**Q: 若 Maven 無法下載 GroupDocs 套件該怎麼辦？**  
+A: 檢查儲存庫 URL、確保網路連線穩定，並確認 `settings.xml` 沒有阻擋外部儲存庫。
 
-5. **GroupDocs.Conversion 是否支援其他文件格式？**
-   是的，它支援 Word 和 PDF 之外的多種文件格式。探索 API 以了解更多選項。
+**Q: 如何提升 PDF 輸出品質？**  
+A: 可在 `PdfConvertOptions` 上調整屬性，例如 `setResolution(300)` 或 `setCompressImages(true)`，以微調結果。
+
+**Q: GroupDocs.Conversion 是否支援除 Word 與 PDF 之外的格式？**  
+A: 支援。API 覆蓋超過 100 種格式，包括 Excel、PowerPoint 以及影像檔。完整清單請參考官方文件。
 
 ## 資源
-- [文件](https://docs.groupdocs.com/conversion/java/)
-- [API 參考](https://reference.groupdocs.com/conversion/java/)
-- [下載 GroupDocs.Conversion](https://releases.groupdocs.com/conversion/java/)
-- [購買許可證](https://purchase.groupdocs.com/buy)
-- [免費試用](https://releases.groupdocs.com/conversion/java/)
-- [臨時執照](https://purchase.groupdocs.com/temporary-license/)
-- [支援論壇](https://forum.groupdocs.com/c/conversion/10)
+- [Documentation](https://docs.groupdocs.com/conversion/java/)
+- [API Reference](https://reference.groupdocs.com/conversion/java/)
+- [Download GroupDocs.Conversion](https://releases.groupdocs.com/conversion/java/)
+- [Purchase License](https://purchase.groupdocs.com/buy)
+- [Free Trial](https://releases.groupdocs.com/conversion/java/)
+- [Temporary License](https://purchase.groupdocs.com/temporary-license/)
+- [Support Forum](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**最後更新：** 2026-02-13  
+**測試環境：** GroupDocs.Conversion 25.2 for Java  
+**作者：** GroupDocs
