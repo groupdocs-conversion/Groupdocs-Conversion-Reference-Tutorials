@@ -1,93 +1,109 @@
 ---
-date: 2025-12-28
-description: เรียนรู้วิธีแปลงไฟล์ MSG เป็น PDF ด้วย Java โดยใช้ GroupDocs.Conversion
-  รวมถึงตัวอย่างการแปลงไฟล์ eml เป็น PDF ด้วย Java และตัวอย่างการแปลงอีเมลเป็น PDF
-  ด้วย Java.
-title: msg to pdf java – การแปลงรูปแบบอีเมลด้วย GroupDocs
+date: '2026-02-28'
+description: เรียนรู้วิธีแปลงไฟล์ MSG เป็น PDF ใน Java ด้วย GroupDocs.Conversion รวมถึงตัวอย่างการแปลง
+  eml เป็น PDF ใน Java, การแปลงอีเมลเป็น PDF ใน Java, และการดึงไฟล์แนบจากอีเมล.
+title: msg เป็น pdf ด้วย Java – การแปลงรูปแบบอีเมลด้วย GroupDocs
 type: docs
 url: /th/java/email-formats/
 weight: 8
 ---
 
-# msg to pdf java – Email Formats Conversion Tutorials for GroupDocs.Conversion Java
+# msg to pdf java – บทแนะนำการแปลงรูปแบบอีเมลสำหรับ GroupDocs.Conversion Java
 
-หากคุณต้องการแปลงไฟล์อีเมลเช่น **MSG**, **EML**, หรือ **EMLX** เป็นเอกสาร PDF โดยตรงจาก Java คุณมาถูกที่แล้ว คู่มือนี้จะพาคุณผ่านกระบวนการ **msg to pdf java** ด้วย GroupDocs.Conversion พร้อมกับครอบคลุมสถานการณ์ที่เกี่ยวข้องเช่น **eml to pdf java** และ **email to pdf java** เมื่ออ่านจบคุณจะเข้าใจวิธีการรักษาเมตาดาต้าอีเมล, การดึงไฟล์แนบ, และการจัดการการแปลงแบบกลุ่มอย่างมีประสิทธิภาพ
+หากคุณต้องการแปลงไฟล์อีเมลเช่น **MSG**, **EML**, หรือ **EMLX** เป็นเอกสาร PDF โดยตรงจาก Java, คุณมาถูกที่แล้ว คู่มือนี้จะพาคุณผ่านกระบวนการ **msg to pdf java** ด้วย GroupDocs.Conversion พร้อมทั้งครอบคลุมสถานการณ์ที่เกี่ยวข้องเช่น **eml to pdf java** และ **email to pdf java** เมื่ออ่านจบคุณจะเข้าใจวิธีการรักษาเมตาดาต้าอีเมล, ดึงไฟล์แนบ, และจัดการการแปลงเป็นชุดอย่างมีประสิทธิภาพ.
 
-## Quick Answers
-- **What library handles msg to pdf java?** GroupDocs.Conversion for Java  
-- **Do I need a license?** A temporary license works for testing; a full license is required for production.  
-- **Can I convert multiple emails at once?** Yes, batch conversion is supported out‑of‑the‑box.  
-- **Is timezone handling covered?** The dedicated tutorial shows how to manage timezone offsets during conversion.  
-- **What Java versions are supported?** Java 8 and newer.
+## คำตอบด่วน
+- **ไลบรารีใดที่จัดการ msg to pdf java?** GroupDocs.Conversion for Java  
+- **Do I need a license?** ใบอนุญาตชั่วคราวใช้ได้สำหรับการทดสอบ; จำเป็นต้องมีใบอนุญาตเต็มสำหรับการใช้งานจริง.  
+- **Can I convert multiple emails at once?** ได้, การแปลงเป็นชุดได้รับการสนับสนุนโดยอัตโนมัติ.  
+- **Is timezone handling covered?** บทแนะนำเฉพาะจะแสดงวิธีจัดการการปรับเวลาตามโซนในระหว่างการแปลง.  
+- **What Java versions are supported?** Java 8 และรุ่นใหม่กว่า.  
+- **How do I extract email attachments during conversion?** ตั้งค่าตัวเลือก `embedAttachments` เพื่อควบคุมว่าการแนบไฟล์จะถูกฝังใน PDF หรือบันทึกแยกออก.  
+- **Can I convert EML files as well?** แน่นอน—เพียงชี้ตัวแปลงไปยังไฟล์ `.eml` แล้ว API เดียวกันจะจัดการ.
 
-## What is msg to pdf java?
-การแปลงไฟล์ MSG เป็น PDF ใน Java หมายถึงการนำอีเมล Microsoft Outlook (รวมถึงเนื้อหา, การจัดรูปแบบ, และไฟล์แนบ) มาสร้างเป็น PDF ที่แสดงผลได้อย่างแม่นยำตามต้นฉบับ GroupDocs.Conversion จะทำงานนี้อัตโนมัติ โดยจัดการโครงสร้าง MIME ที่ซับซ้อนและรักษาความเที่ยงตรงของภาพ
+## msg to pdf java คืออะไร?
+การแปลงไฟล์ MSG เป็น PDF ใน Java หมายถึงการนำอีเมล Microsoft Outlook (รวมถึงเนื้อหา, การจัดรูปแบบ, และไฟล์แนบ) มาสร้างเป็น PDF ที่แสดงข้อความต้นฉบับอย่างแม่นยำ GroupDocs.Conversion ทำงานอัตโนมัติในงานนี้, จัดการโครงสร้าง MIME ที่ซับซ้อนและรักษาความเที่ยงตรงของภาพ.
 
-## Why use GroupDocs.Conversion for email‑to‑PDF conversions?
-- **Full metadata retention** – headers, timestamps, and sender/receiver details stay intact.  
-- **Attachment extraction** – you can embed attachments in the PDF or save them separately.  
-- **Cross‑platform reliability** – works on any OS that supports Java.  
-- **Batch processing** – convert dozens or hundreds of emails with a single API call.  
+## ทำไมต้องใช้ GroupDocs.Conversion สำหรับการแปลง email‑to‑PDF?
+- **Full metadata retention** – ส่วนหัว, เวลาต่าง ๆ, และรายละเอียดผู้ส่ง/ผู้รับคงอยู่ครบถ้วน.  
+- **Attachment extraction** – คุณสามารถฝังไฟล์แนบใน PDF หรือบันทึกแยกออกได้.  
+- **Cross‑platform reliability** – ทำงานบนระบบปฏิบัติการใดก็ได้ที่รองรับ Java.  
+- **Batch processing** – แปลงหลายสิบหรือหลายร้อยอีเมลด้วยการเรียก API ครั้งเดียว.  
+- **Timezone offset conversion** – มีการสนับสนุนในตัวสำหรับปรับเวลาตามโซนที่ต้องการ.
 
-## Prerequisites
-- Java 8 or later installed.  
-- GroupDocs.Conversion for Java library added to your project (Maven/Gradle).  
-- A valid GroupDocs temporary or full license key.  
+## กรณีการใช้งานทั่วไป
+- **Legal archiving:** รักษารูปแบบและเมตาดาต้าของการสื่อสารกับลูกค้าให้คงที่สำหรับการตรวจสอบตามข้อกำหนด.  
+- **Customer support:** แปลงอีเมลตั๋วสนับสนุนเป็น PDF เพื่อการแชร์และพิมพ์ที่ง่าย.  
+- **Data migration:** ย้ายคลังเก็บ Outlook เก่าไปยังคลัง PDF ที่ค้นหาได้โดยไม่สูญเสียไฟล์แนบ.
 
-## Step‑by‑Step Guide
+## ข้อกำหนดเบื้องต้น
+- ติดตั้ง Java 8 หรือใหม่กว่า.  
+- เพิ่มไลบรารี GroupDocs.Conversion for Java ลงในโปรเจกต์ของคุณ (Maven/Gradle).  
+- คีย์ใบอนุญาต GroupDocs ชั่วคราวหรือเต็มที่ถูกต้อง.
 
-### Step 1: Set up the conversion environment
-Add the GroupDocs.Conversion dependency to your `pom.xml` (or Gradle file) and initialize the converter with your license.
+## คู่มือแบบขั้นตอน
 
-### Step 2: Load the MSG file
-Use the `ConversionConfig` object to point to the source MSG file you want to turn into a PDF.
+### ขั้นตอนที่ 1: ตั้งค่าสภาพแวดล้อมการแปลง
+เพิ่ม dependency ของ GroupDocs.Conversion ลงในไฟล์ `pom.xml` (หรือไฟล์ Gradle) และเริ่มต้นตัวแปลงด้วยใบอนุญาตของคุณ.
 
-### Step 3: Configure PDF output options
-Specify PDF settings such as page size, embed attachments, and whether to include email headers.
+### ขั้นตอนที่ 2: โหลดไฟล์ MSG
+สร้างอ็อบเจ็กต์ `ConversionConfig` ที่ชี้ไปยังไฟล์ MSG ต้นฉบับที่คุณต้องการแปลงเป็น PDF.
 
-### Step 4: Execute the conversion
-Call the `convert` method, providing the target path for the generated PDF.
+### ขั้นตอนที่ 3: กำหนดค่าตัวเลือกการส่งออก PDF
+ระบุการตั้งค่า PDF เช่น ขนาดหน้า, **embed attachments pdf**, และว่าต้องรวมส่วนหัวของอีเมลหรือไม่.
 
-### Step 5: Verify the result
-Open the resulting PDF to ensure the email content, formatting, and any attachments appear as expected.
+### ขั้นตอนที่ 4: ดำเนินการแปลง
+เรียกใช้เมธอด `convert` โดยระบุเส้นทางเป้าหมายสำหรับ PDF ที่สร้างขึ้น.
 
-*(The actual Java code for these steps is demonstrated in the linked tutorial below.)*
+### ขั้นตอนที่ 5: ตรวจสอบผลลัพธ์
+เปิด PDF ที่ได้เพื่อยืนยันว่าเนื้อหาอีเมล, การจัดรูปแบบ, และไฟล์แนบใด ๆ ปรากฏตามที่คาดหวัง.
 
-## Available Tutorials
+*(โค้ด Java จริงสำหรับขั้นตอนเหล่านี้แสดงในบทแนะนำที่เชื่อมโยงด้านล่าง.)*
 
-### [How to Convert Email to PDF with Timezone Offset in Java Using GroupDocs.Conversion](./email-to-pdf-conversion-java-groupdocs/)
-Learn how to convert email documents to PDFs while managing timezone offsets using GroupDocs.Conversion for Java. Ideal for archiving and cross‑timezone collaboration.
+## เคล็ดลับการแก้ไขปัญหาและข้อผิดพลาดทั่วไป
+- **Password‑protected MSG files:** ให้รหัสผ่านในการกำหนดค่าการแปลงก่อนเรียก API.  
+- **Missing attachments:** ตรวจสอบให้แน่ใจว่าแฟล็ก `embedAttachments` ตั้งค่าเป็น `true` หากต้องการฝังไฟล์แนบ; มิฉะนั้นไฟล์แนบจะถูกบันทึกเป็นไฟล์แยก.  
+- **Large batches:** ประมวลผลอีเมลเป็นส่วนย่อย ๆ หรือสตรีมเพื่อหลีกเลี่ยงการใช้หน่วยความจำมากเกินไป.  
+- **Timezone mismatches:** ใช้ตัวเลือก `timezoneOffset` เพื่อปรับเวลาตามโซนของอีเมลให้ตรงกับภูมิภาคเป้าหมายของคุณ.
 
-## Additional Resources
+## บทแนะนำที่พร้อมใช้งาน
 
-- [GroupDocs.Conversion for Java Documentation](https://docs.groupdocs.com/conversion/java/)
-- [GroupDocs.Conversion for Java API Reference](https://reference.groupdocs.com/conversion/java/)
-- [Download GroupDocs.Conversion for Java](https://releases.groupdocs.com/conversion/java/)
-- [GroupDocs.Conversion Forum](https://forum.groupdocs.com/c/conversion)
-- [Free Support](https://forum.groupdocs.com/)
-- [Temporary License](https://purchase.groupdocs.com/temporary-license/)
+### [วิธีแปลงอีเมลเป็น PDF พร้อมการปรับเวลาโซนใน Java ด้วย GroupDocs.Conversion](./email-to-pdf-conversion-java-groupdocs/)
+เรียนรู้วิธีแปลงเอกสารอีเมลเป็น PDF พร้อมจัดการการปรับเวลาโซนโดยใช้ GroupDocs.Conversion สำหรับ Java เหมาะสำหรับการเก็บถาวรและการทำงานร่วมกันข้ามโซนเวลา.
 
-## Frequently Asked Questions
+## แหล่งข้อมูลเพิ่มเติม
+- [เอกสาร GroupDocs.Conversion for Java](https://docs.groupdocs.com/conversion/java/)
+- [อ้างอิง API GroupDocs.Conversion for Java](https://reference.groupdocs.com/conversion/java/)
+- [ดาวน์โหลด GroupDocs.Conversion for Java](https://releases.groupdocs.com/conversion/java/)
+- [ฟอรั่ม GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion)
+- [สนับสนุนฟรี](https://forum.groupdocs.com/)
+- [ใบอนุญาตชั่วคราว](https://purchase.groupdocs.com/temporary-license/)
+
+## คำถามที่พบบ่อย
 
 **Q: Can I convert password‑protected MSG files?**  
-A: Yes. Provide the password in the conversion configuration before invoking the API.
+A: ใช่. ให้รหัสผ่านในการกำหนดค่าการแปลงก่อนเรียก API.
 
 **Q: How are email attachments handled in the PDF?**  
-A: Attachments can be embedded directly into the PDF or saved as separate files, depending on the options you set.
+A: ไฟล์แนบสามารถฝังลงใน PDF โดยตรงหรือบันทึกเป็นไฟล์แยกได้ ขึ้นอยู่กับตัวเลือกที่คุณตั้งค่า.
 
 **Q: Is it possible to convert a whole folder of emails at once?**  
-A: Absolutely. Use the batch conversion feature by passing a collection of file paths to the converter.
+A: แน่นอน. ใช้ฟีเจอร์การแปลงเป็นชุดโดยส่งคอลเลกชันของเส้นทางไฟล์ไปยังตัวแปลง.
 
 **Q: Does the conversion preserve original email timestamps?**  
-A: Yes, metadata such as sent/received dates are retained and displayed in the PDF header.
+A: ใช่, เมตาดาต้าเช่นวันที่ส่ง/รับจะถูกเก็บไว้และแสดงในส่วนหัวของ PDF.
 
 **Q: What if I need to convert EML files instead of MSG?**  
-A: The same API supports **eml to pdf java** conversions—just supply an `.eml` file as the source.
+A: API เดียวกันรองรับการแปลง **eml to pdf java** —เพียงให้ไฟล์ `.eml` เป็นแหล่งที่มา.
+
+**Q: How can I extract email attachments without embedding them?**  
+A: ตั้งค่าตัวเลือก `embedAttachments` เป็น `false`; ตัวแปลงจะบันทึกไฟล์แนบแต่ละไฟล์ไปยังโฟลเดอร์ที่ระบุโดยไม่ฝังใน PDF.
+
+**Q: Are there any limits on the number of emails I can process in one batch?**  
+A: ไม่มีขีดจำกัดที่แน่นอน, แต่ขีดจำกัดเชิงปฏิบัติกำหนดโดยหน่วยความจำและ CPU ที่มีอยู่ แนะนำให้แบ่งชุดที่ใหญ่มากเป็นกลุ่มย่อย ๆ.
 
 ---
 
-**Last Updated:** 2025-12-28  
-**Tested With:** GroupDocs.Conversion for Java (latest release)  
-**Author:** GroupDocs  
-
----
+**อัปเดตล่าสุด:** 2026-02-28  
+**ทดสอบด้วย:** GroupDocs.Conversion for Java (latest release)  
+**ผู้เขียน:** GroupDocs
