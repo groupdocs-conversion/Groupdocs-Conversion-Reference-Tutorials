@@ -1,14 +1,17 @@
 ---
-title: "Protected Word to PDF with GroupDocs.Conversion Java"
-description: "Learn how to convert protected word to pdf, manage passwords, and apply security with GroupDocs.Conversion for Java – step-by-step tutorials."
-weight: 19
-url: "/java/security-protection/"
-type: docs
 date: 2026-03-03
+description: Pelajari cara mengonversi Word yang dilindungi ke PDF, mengelola kata
+  sandi, dan menerapkan keamanan dengan GroupDocs.Conversion untuk Java – tutorial
+  langkah demi langkah.
+title: Word Terlindungi ke PDF dengan GroupDocs.Conversion Java
+type: docs
+url: /id/java/security-protection/
+weight: 19
 ---
-# Protected Word to PDF with GroupDocs.Conversion Java
 
-If you're building a Java application that needs to **convert protected word to pdf**, you’ve come to the right place. This hub walks you through every scenario—from handling password‑protected files to applying security settings on the output PDF—so you can keep your documents confidential while delivering the formats your users expect.
+# Protected Word to PDF dengan GroupDocs.Conversion Java
+
+Jika Anda membangun aplikasi Java yang perlu **mengonversi Word terlindungi ke PDF**, Anda berada di tempat yang tepat. Panduan ini akan membawa Anda melalui setiap skenario—dari menangani file yang dilindungi password hingga menerapkan pengaturan keamanan pada PDF output—sehingga Anda dapat menjaga kerahasiaan dokumen sambil menyediakan format yang diharapkan pengguna.
 
 ## Quick Answers
 - **Can GroupDocs.Conversion handle password‑protected Word files?** Yes, simply provide the password when loading the document.  
@@ -46,12 +49,12 @@ Learn how to convert password-protected Word documents to PDFs using GroupDocs.C
 
 ## Additional Resources
 
-- [GroupDocs.Conversion for Java Documentation](https://docs.groupdocs.com/conversion/java/)
-- [GroupDocs.Conversion for Java API Reference](https://reference.groupdocs.com/conversion/java/)
-- [Download GroupDocs.Conversion for Java](https://releases.groupdocs.com/conversion/java/)
-- [GroupDocs.Conversion Forum](https://forum.groupdocs.com/c/conversion)
-- [Free Support](https://forum.groupdocs.com/)
-- [Temporary License](https://purchase.groupdocs.com/temporary-license/)
+- [Dokumentasi GroupDocs.Conversion untuk Java](https://docs.groupdocs.com/conversion/java/)
+- [Referensi API GroupDocs.Conversion untuk Java](https://reference.groupdocs.com/conversion/java/)
+- [Unduh GroupDocs.Conversion untuk Java](https://releases.groupdocs.com/conversion/java/)
+- [Forum GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion)
+- [Dukungan Gratis](https://forum.groupdocs.com/)
+- [Lisensi Sementara](https://purchase.groupdocs.com/temporary-license/)
 
 ## Frequently Asked Questions
 
