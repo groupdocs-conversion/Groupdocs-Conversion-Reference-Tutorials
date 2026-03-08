@@ -1,38 +1,53 @@
 ---
-"date": "2025-04-28"
-"description": "了解如何使用 GroupDocs.Conversion for Java 將受密碼保護的 Word 文件轉換為 Excel 電子表格。本指南涵蓋設定、載入文件和進階轉換設定。"
-"title": "如何使用 GroupDocs.Conversion for Java 將受密碼保護的 Word 文件轉換為 Excel 電子表格"
-"url": "/zh-hant/java/spreadsheet-formats/convert-password-docs-to-spreadsheets-groupdocs-java/"
-"weight": 1
+date: '2026-03-08'
+description: 學習如何使用 GroupDocs.Conversion for Java 將受密碼保護的 Word 文件轉換為 Excel 試算表。本指南涵蓋設定、載入以及進階轉換設定。
+keywords:
+- convert password-protected Word documents to Excel
+- GroupDocs.Conversion for Java setup
+- advanced document conversion settings
+title: 如何使用 GroupDocs.Conversion for Java 將受密碼保護的 Word 文件轉換為 Excel
 type: docs
+url: /zh-hant/java/spreadsheet-formats/convert-password-docs-to-spreadsheets-groupdocs-java/
+weight: 1
 ---
-# 如何使用 GroupDocs.Conversion for Java 轉換受密碼保護的文檔
 
-## 介紹
+:** GroupDocs.Conversion 25.2 for Java"
 
-還在為用 Java 將受密碼保護的文件轉換為電子表格格式而苦惱嗎？透過 GroupDocs.Conversion API，您可以無縫且有效率地將受密碼保護的 Word 文件轉換為 Excel 電子表格。本教學將指導您如何使用進階選項載入和轉換受密碼保護的 Word 檔案。
+"**Author:** GroupDocs" translate "**作者:** GroupDocs"
 
-**您將學到什麼：**
-- 為 Java 設定 GroupDocs.Conversion。
-- 使用 API 載入受密碼保護的文件。
-- 將特定頁面轉換為 XLS 格式。
-- 配置進階轉換設置，如縮放等級和頁面範圍。
+Now ensure we didn't miss any shortcodes. There are none besides code block placeholders.
 
-在我們開始之前，請確保您已準備好必要的先決條件。
+Now produce final content with same markdown.
 
-## 先決條件
+Check for any stray spaces. Keep code block placeholders as separate lines.
 
-要遵循本教程，您需要：
+Now produce final answer.# 如何使用 GroupDocs.Conversion for Java 將受密碼保護的 Word 文件轉換為 Excel
 
-- **庫和依賴項：** GroupDocs.Conversion 是 Java 函式庫。您可以透過 Maven 將其新增至您的專案中，或直接從程式碼庫下載。
-- **環境設定：** 具有 JDK 8+ 和 IDE（例如 IntelliJ IDEA 或 Eclipse）的開發環境。
-- **知識前提：** 對 Java 程式設計、文件處理和 API 使用有基本的了解。
+將受密碼保護的 Word 文件轉換為 Excel 試算表是一項常見需求，當您想以表格形式分析或分享資料時。於本教學中，您將學習 **如何將受密碼保護的 Word** 檔案轉換為 Excel，使用 GroupDocs.Conversion API for Java，逐步說明。
 
-## 為 Java 設定 GroupDocs.Conversion
+## 快速解答
+- **我可以在不提供密碼的情況下轉換受保護的 Word 檔案嗎？** 不行 – 必須透過載入選項提供正確的密碼。  
+- **試算表支援哪些輸出格式？** 支援 XLS、XLSX、CSV 與 ODS。  
+- **生產環境需要授權嗎？** 需要 – 必須擁有有效的 GroupDocs 授權才能在非試用部署中使用。  
+- **Java 8 足夠嗎？** 支援 Java 8 以上版本；更新的版本亦可使用。  
+- **我可以只轉換特定頁面嗎？** 當然可以 – 在轉換選項中使用 `setPageNumber` 與 `setPagesCount`。
+
+## 什麼是「convert password protected word」？
+此詞語指的是開啟受密碼保護的 Word 文件，並將其內容轉換為其他檔案類型——此處為 Excel 試算表的過程。此操作對於資料抽取、報表製作與自動化工作流程非常有用。
+
+## 為什麼使用 GroupDocs.Conversion for Java？
+GroupDocs.Conversion 提供高階、語言原生的 API，能處理複雜格式、密碼保護與細緻的轉換設定，且不需外部工具。它可靠、文件完善，且能順利整合至 Java 應用程式中。
+
+## 前置條件
+
+- **函式庫與相依性：** GroupDocs.Conversion for Java（透過 Maven 加入）。  
+- **環境：** JDK 8 以上，並使用如 IntelliJ IDEA 或 Eclipse 等 IDE。  
+- **知識需求：** 基本的 Java 程式設計、檔案 I/O 與 API 使用。
+
+## 設定 GroupDocs.Conversion for Java
 
 ### Maven 安裝
-
-將以下內容新增至您的 `pom.xml`：
+將儲存庫與相依性加入您的 `pom.xml`：
 
 ```xml
 <repositories>
@@ -51,98 +66,109 @@ type: docs
 </dependencies>
 ```
 
-### 許可證獲取
+### 取得授權
+先從 GroupDocs 官方網站取得免費試用。若需完整功能，請購買授權或申請臨時授權。
 
-從 GroupDocs 網站開始免費試用。如需完整存取權限，請考慮購買許可證或取得臨時許可證。
+## 如何在 Java 中載入受密碼保護的文件
 
-## 實施指南
+載入受密碼保護的文件需要一個 **load options** 物件來傳遞密碼。此步驟會解鎖檔案，使轉換器能讀取其內容。
 
-我們將介紹如何載入受密碼保護的文件以及如何使用進階選項將其轉換為電子表格格式。
-
-### 載入受密碼保護的文檔
-
-**概述：**
-載入涉及設定包含文檔密碼的載入選項。此步驟對於轉換至關重要。
-
-#### 步驟 1：設定載入選項
 ```java
 import com.groupdocs.conversion.options.load.WordProcessingLoadOptions;
 
 WordProcessingLoadOptions loadOptions = new WordProcessingLoadOptions();
-loadOptions.setPassword("12345"); // 替換為您的文件的密碼。
+loadOptions.setPassword("12345"); // Replace with your document's password.
 ```
-- **解釋：** 這 `WordProcessingLoadOptions` 該類處理受密碼保護的文件。輸入正確的密碼即可存取內容。
 
-### 使用進階選項轉換為電子表格
+*說明：* `WordProcessingLoadOptions` 專為 Word 檔案設計。透過呼叫 `setPassword`，即授予 API 開啟受保護文件的權限。
 
-**概述：**
-載入後，將文件轉換為 Excel 電子表格，重點關注特定頁面和自訂設定（如縮放等級）。
+## Java 轉換 Word 為試算表 – 進階選項
 
-#### 步驟 2：配置轉換選項
+文件載入後，您可以定義轉換的行為——選擇頁面、格式與視覺縮放。
+
 ```java
 import com.groupdocs.conversion.Converter;
 import com.groupdocs.conversion.filetypes.SpreadsheetFileType;
 import com.groupdocs.conversion.options.convert.SpreadsheetConvertOptions;
 
 SpreadsheetConvertOptions options = new SpreadsheetConvertOptions();
-options.setPageNumber(2); // 從第 2 頁開始。
-options.setPagesCount(1); // 僅轉換一頁。
-options.setFormat(SpreadsheetFileType.Xls); // 輸出格式為 XLS。
-options.setZoom(150); // 設定轉換的縮放等級（比例因子）。
+options.setPageNumber(2); // Start from page 2.
+options.setPagesCount(1); // Convert only one page.
+options.setFormat(SpreadsheetFileType.Xls); // Output format as XLS.
+options.setZoom(150); // Set zoom level for conversion (scale factor).
 ```
-- **解釋：** 指定要轉換的頁面 (`setPageNumber` 和 `setPagesCount`）和輸出格式。 `setZoom` 選項在轉換過程中調整內容縮放。
 
-#### 步驟3：執行轉換
+*說明：*  
+- `setPageNumber` 和 `setPagesCount` 讓您針對特定頁範圍進行轉換，當只需要文件的一部分時非常方便。  
+- `setFormat` 選擇試算表容器（此例為 XLS）。  
+- `setZoom` 調整渲染比例，對於保持版面布局的忠實度很有幫助。
+
+## 執行轉換
+
+在載入與轉換選項準備就緒後，呼叫 `convert` 方法。API 會在背後處理繁重的工作。
+
 ```java
 String convertedFile = Constants.getConvertedPath("ConvertToSpreadsheetWithAdvancedOptions.xls");
 Converter converter = new Converter(Constants.SAMPLE_DOCX_WITH_PASSWORD, () -> loadOptions);
 converter.convert(convertedFile, options);
 ```
-- **解釋：** 這 `convert` 方法使用先前設定的配置執行轉換。確保輸入和輸出的檔案路徑正確。
 
-### 故障排除提示
-如果出現問題：
-- 仔細檢查文件的密碼。
-- 驗證所有依賴項是否正確包含在您的專案中。
-- 確認環境已使用 JDK 8 或更高版本設定。
+*說明：* `Converter` 建構子接收來源檔案路徑以及提供先前定義的 `loadOptions` 的 lambda。`convert` 呼叫會將 Excel 檔寫入 `Constants.getConvertedPath` 回傳的位置。
 
-## 實際應用
-1. **數據管理：** 將報告轉換為電子表格以便於分析。
-2. **文件歸檔：** 將舊版 Word 文件轉換為更易於存取的格式。
-3. **工作流程自動化：** 將文件轉換整合到企業系統中，以簡化操作。
+## 常見問題與解決方案
 
-## 性能考慮
-為了優化性能：
-- 使用高效率的文件處理技術進行資源管理。
-- 遵循 Java 記憶體管理最佳實踐，尤其是對於大檔案。
+| 症狀 | 可能原因 | 解決方法 |
+|---------|--------------|-----|
+| **「Invalid password」例外** | 密碼字串錯誤或編碼問題 | 核對密碼，確保沒有多餘空白，且大小寫正確。 |
+| **輸出缺少頁面** | `setPageNumber`/`setPagesCount` 設定值不正確 | 再次確認來源 Word 檔的頁碼；請記得頁碼是從 1 開始。 |
+| **大型檔案導致記憶體不足錯誤** | 將整個文件載入記憶體 | 將大型檔案分段處理或增加 JVM 堆積大小 (`-Xmx`)。 |
+| **不支援的格式錯誤** | 使用較舊的 GroupDocs 版本 | 升級至最新的函式庫（例如 25.2）。 |
+
+## 實務應用
+
+1. **資料管理：** 將每月報告轉換為 Excel，以進行樞紐分析。  
+2. **文件歸檔：** 將舊版 Word 檔存為試算表，以便更容易查詢。  
+3. **工作流程自動化：** 將轉換嵌入批次工作，為下游系統準備資料。
+
+## 效能考量
+
+- 在處理大量文件時，重複使用單一 `Converter` 實例以降低開銷。  
+- 及時關閉串流（`try‑with‑resources`），釋放原生資源。  
+- 僅在必要時調整 `setZoom`；較高的縮放值會增加 CPU 負載。
 
 ## 結論
 
-您已學習如何在 Java 中有效地使用 GroupDocs.Conversion API 轉換受密碼保護的文件。請將這些文件轉換技術無縫整合到您的應用程式中。
+您現在已掌握使用 GroupDocs.Conversion for Java 將 **受密碼保護的 Word** 文件轉換為 Excel 試算表的完整、可投入生產的方案。將這些程式碼片段整合至您的應用程式，依據業務規則調整選項，即可前所未有地簡化資料抽取流程。
 
-**後續步驟：**
-- 嘗試不同的檔案格式和配置。
-- 探索 GroupDocs.Conversion 的其他功能。
+**下一步**
 
-嘗試在您的專案中實施這些解決方案！
+- 嘗試其他試算表格式（XLSX、CSV）。  
+- 透過迴圈處理受保護檔案目錄，探索批次轉換。  
+- 檢視其他 GroupDocs 功能，如 PDF 的浮水印或 OCR。
 
-## 常見問題部分
-1. **Java 中 GroupDocs.Conversion 的主要用例是什麼？**  
-   GroupDocs.Conversion 允許開發人員在各種格式之間轉換文檔，非常適合資料管理和工作流程自動化任務。
+## 常見問答
+1. **GroupDocs.Conversion 在 Java 的主要使用情境是什麼？**  
+   GroupDocs.Conversion 讓開發者能在多種格式之間轉換文件，適用於資料管理與工作流程自動化任務。  
 2. **如何處理文件轉換過程中的錯誤？**  
-   確保滿足所有先決條件，包括正確的依賴項和檔案路徑。使用 Java 的異常處理機制來管理潛在問題。
-3. **GroupDocs.Conversion 可以處理文件的批次嗎？**  
-   是的，透過循環處理多個檔案來擴展 API 的批次轉換功能。
-4. **是否可以使用此 API 轉換受密碼保護的 PDF？**  
-   雖然本教學重點介紹 Word 文檔，但 GroupDocs.Conversion 支援多種文件類型，包括受密碼保護的 PDF，並具有適當的載入選項。
-5. **轉換大檔案時如何優化記憶體使用？**  
-   透過分塊處理檔案並確保透過 Java 工具進行高效的垃圾收集來進行最佳化。
+   確保已滿足所有前置條件，包括正確的相依性與檔案路徑。使用 Java 的例外處理機制來管理可能的問題。  
+3. **GroupDocs.Conversion 能處理文件的批次轉換嗎？**  
+   可以，透過在迴圈中處理多個檔案，擴充 API 以支援大量轉換。  
+4. **此 API 能轉換受密碼保護的 PDF 嗎？**  
+   雖然本教學聚焦於 Word 文件，GroupDocs.Conversion 支援多種檔案類型，包括使用相應載入選項的受密碼保護 PDF。  
+5. **如何在轉換大型檔案時最佳化記憶體使用？**  
+   透過分段處理檔案，並利用 Java 工具確保有效的垃圾回收，以最佳化記憶體使用。
 
 ## 資源
-- [文件](https://docs.groupdocs.com/conversion/java/)
+- [文件說明](https://docs.groupdocs.com/conversion/java/)
 - [API 參考](https://reference.groupdocs.com/conversion/java/)
 - [下載](https://releases.groupdocs.com/conversion/java/)
 - [購買](https://purchase.groupdocs.com/buy)
 - [免費試用](https://releases.groupdocs.com/conversion/java/)
-- [臨時執照](https://purchase.groupdocs.com/temporary-license/)
+- [臨時授權](https://purchase.groupdocs.com/temporary-license/)
 - [支援](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**最後更新:** 2026-03-08  
+**測試版本:** GroupDocs.Conversion 25.2 for Java  
+**作者:** GroupDocs
