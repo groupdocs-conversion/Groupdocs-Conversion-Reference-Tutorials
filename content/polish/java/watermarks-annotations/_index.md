@@ -1,52 +1,48 @@
 ---
 date: 2026-03-14
-description: Узнайте, как добавить текстовый водяной знак при конвертации и преобразовать
-  DOCX в PDF на Java с помощью руководств GroupDocs.Conversion Java.
-title: Учебник по добавлению текстового водяного знака для GroupDocs.Conversion Java
+description: Dowiedz się, jak dodać znak wodny z tekstem podczas konwersji i konwertować
+  pliki docx i pdf w Javie przy użyciu samouczków GroupDocs.Conversion Java.
+title: Poradnik dodawania znaków wodnych tekstowych dla GroupDocs.Conversion Java
 type: docs
-url: /ru/java/watermarks-annotations/
+url: /pl/java/watermarks-annotations/
 weight: 20
 ---
 
- snippets like `add image watermark java`, `redact sensitive documents`, `hideComments` unchanged.
-
-At end: "---" then "**Last Updated:** 2026-03-14" etc. Translate labels.
-
-"**Tested With:** GroupDocs.Conversion for Java 23.10 (latest at time of writing)" translate "Тестировано с:".
-
-"**Author:** GroupDocs" translate "Автор:".
+ labels maybe keep English? Probably translate "Last Updated", "Tested With", "Author". Keep bold formatting.
 
 Now produce final markdown.
 
-Check for any missing formatting.
+Let's craft translation.
 
-Let's craft final output.# Добавить текстовый водяной знак
+Be careful with bold formatting: keep **text**.
 
-Welcome! In this guide you'll discover how to **добавить текстовый водяной знак** to your documents when using GroupDocs.Conversion for Java. Adding a text watermark not only protects your intellectual property but also lets you brand PDFs, DOCX, PPTX, and other formats during conversion. We'll walk through practical scenarios, from simple static watermarks to dynamic ones based on document metadata, and show you how to keep annotations intact while you convert docx pdf java, pptx pdf java, or any other supported format.
+Now produce final answer.# Dodaj znak wodny tekstowy
 
-## Быстрые ответы
-- **Can I add a watermark while converting a DOCX to PDF?** Yes – the API lets you inject a text watermark during the conversion process.  
-- **Do I need a separate library for image watermarks?** No, GroupDocs.Conversion for Java also supports `add image watermark java` using the same fluent API.  
-- **Is it possible to hide comments or annotations when converting PPTX to PDF?** Absolutely; you can control annotation visibility with dedicated options.  
-- **How do I redact sensitive information before conversion?** Use the built‑in redaction features to `redact sensitive documents` safely.  
-- **What runtime is required?** Java 8+ with the GroupDocs.Conversion JARs on the classpath.
+Witamy! W tym przewodniku dowiesz się, jak **add text watermark** do swoich dokumentów przy użyciu GroupDocs.Conversion for Java. Dodanie znaku wodnego tekstowego nie tylko chroni Twoją własność intelektualną, ale także pozwala oznaczyć PDF‑y, DOCX, PPTX i inne formaty podczas konwersji. Przeprowadzimy Cię przez praktyczne scenariusze, od prostych statycznych znaków wodnych po dynamiczne oparte na metadanych dokumentu, i pokażemy, jak zachować adnotacje nienaruszone podczas konwersji docx pdf java, pptx pdf java lub dowolnego innego obsługiwanego formatu.
 
-## Что такое добавление текстового водяного знака?
-A text watermark is a semi‑transparent overlay that appears on each page of a converted document. It can contain copyright notices, “Confidential” labels, or custom branding. With GroupDocs.Conversion for Java, the watermark is applied **during** the conversion step, so the original source file remains unchanged.
+## Szybkie odpowiedzi
+- **Czy mogę dodać znak wodny podczas konwersji DOCX do PDF?** Yes – the API lets you inject a text watermark during the conversion process.  
+- **Czy potrzebuję osobnej biblioteki do znaków wodnych obrazu?** No, GroupDocs.Conversion for Java also supports `add image watermark java` using the same fluent API.  
+- **Czy można ukryć komentarze lub adnotacje przy konwersji PPTX do PDF?** Absolutely; you can control annotation visibility with dedicated options.  
+- **Jak usunąć wrażliwe informacje przed konwersją?** Use the built‑in redaction features to `redact sensitive documents` safely.  
+- **Jakie środowisko uruchomieniowe jest wymagane?** Java 8+ with the GroupDocs.Conversion JARs on the classpath.
 
-## Почему использовать добавление текстового водяного знака с GroupDocs.Conversion?
-- **Brand protection** – instantly mark every exported PDF or image with your company name.  
+## Czym jest add text watermark?
+Znak wodny tekstowy to półprzezroczyste nakładanie, które pojawia się na każdej stronie przekonwertowanego dokumentu. Może zawierać informacje o prawach autorskich, etykiety „Confidential”, lub własną markę. Dzięki GroupDocs.Conversion for Java znak wodny jest stosowany **during** w kroku konwersji, więc oryginalny plik źródłowy pozostaje niezmieniony.
+
+## Dlaczego używać add text watermark z GroupDocs.Conversion?
+- **Brand protection** – natychmiast oznacz każdy wyeksportowany PDF lub obraz nazwą Twojej firmy.  
 - **Compliance** – add “Confidential” or “Draft” stamps to meet legal or corporate policies.  
 - **Automation‑ready** – embed watermark logic in batch jobs, web services, or micro‑services without extra tools.  
 - **Annotation safety** – the API preserves existing comments, highlights, and redaction marks, giving you full control over what the end‑user sees.
 
-## Требования
-- Java 8 or higher installed.  
+## Wymagania wstępne
+- Java 8 lub wyższy zainstalowany.  
 - GroupDocs.Conversion for Java library added to your project (Maven/Gradle or manual JAR).  
 - A valid GroupDocs temporary or permanent license (the temporary license works for testing).  
 
-## Как добавить текстовый водяной знак во время конвертации
-Below is a concise, step‑by‑step explanation of the process. The actual Java code is identical to the snippets you’ll find in the dedicated tutorials linked later in this page.
+## Jak dodać znak wodny tekstowy podczas konwersji
+Poniżej znajduje się zwięzłe, krok po kroku wyjaśnienie procesu. Rzeczywisty kod Java jest identyczny ze snippetami, które znajdziesz w dedykowanych tutorialach podlinkowanych dalej na tej stronie.
 
 1. **Create a `ConversionConfig`** – set the source document path and the desired output format (e.g., PDF).  
 2. **Configure the watermark** – specify the text, font, color, opacity, and placement.  
@@ -54,7 +50,7 @@ Below is a concise, step‑by‑step explanation of the process. The actual Java
 
 > *Pro tip:* Use document metadata (author, creation date, etc.) to generate dynamic watermark text such as “Created by {Author} on {Date}”.
 
-## Доступные учебники
+## Dostępne tutoriale
 
 ### [Hide Comments in PPTX to PDF Using GroupDocs.Conversion for Java](./hide-comments-pptx-pdf-groupdocs-conversion-java/)
 Learn how to hide comments when converting PPTX files to PDF using GroupDocs.Conversion for Java. Streamline your document workflows while maintaining privacy.
@@ -62,12 +58,12 @@ Learn how to hide comments when converting PPTX files to PDF using GroupDocs.Con
 ### [How to Add Watermark to DOCX and Convert to PDF Using GroupDocs.Conversion for Java](./add-watermark-docx-pdf-groupdocs-conversion-java/)
 Learn how to protect your documents by adding watermarks during conversion from DOCX to PDF using GroupDocs.Conversion for Java. Follow this step-by-step guide for secure document handling.
 
-## Распространённые сценарии использования
+## Typowe scenariusze użycia
 - **Document publishing pipelines** – automatically brand every report generated from DOCX or PPTX sources.  
 - **Legal document distribution** – add “Confidential” watermarks and redact sensitive sections before sharing PDFs with external parties.  
 - **Multi‑tenant SaaS platforms** – embed tenant‑specific watermarks (`add image watermark java` or text) to prevent data leakage.  
 
-## Дополнительные ресурсы
+## Dodatkowe zasoby
 
 - [GroupDocs.Conversion for Java Documentation](https://docs.groupdocs.com/conversion/java/)
 - [GroupDocs.Conversion for Java API Reference](https://reference.groupdocs.com/conversion/java/)
@@ -76,7 +72,7 @@ Learn how to protect your documents by adding watermarks during conversion from 
 - [Free Support](https://forum.groupdocs.com/)
 - [Temporary License](https://purchase.groupdocs.com/temporary-license/)
 
-## Часто задаваемые вопросы
+## Najczęściej zadawane pytania
 
 **Q: How do I add an image watermark instead of text?**  
 A: Use the `add image watermark java` option in the same `ConversionConfig` object – simply provide the image path and desired opacity.

@@ -1,27 +1,36 @@
 ---
-title: "Add Text Watermark Tutorial for GroupDocs.Conversion Java"
-description: "Learn how to add text watermark during conversion and convert docx pdf java with GroupDocs.Conversion Java tutorials."
-weight: 20
-url: "/java/watermarks-annotations/"
-type: docs
 date: 2026-03-14
+description: Scopri come aggiungere una filigrana di testo durante la conversione
+  e convertire file docx in PDF con i tutorial Java di GroupDocs.Conversion.
+title: Tutorial per aggiungere una filigrana di testo a GroupDocs.Conversion Java
+type: docs
+url: /it/java/watermarks-annotations/
+weight: 20
 ---
 
-# Add Text Watermark
+.
 
-Welcome! In this guide you'll discover how to **add text watermark** to your documents when using GroupDocs.Conversion for Java. Adding a text watermark not only protects your intellectual property but also lets you brand PDFs, DOCX, PPTX, and other formats during conversion. We'll walk through practical scenarios, from simple static watermarks to dynamic ones based on document metadata, and show you how to keep annotations intact while you convert docx pdf java, pptx pdf java, or any other supported format.
+"**Tested With:** GroupDocs.Conversion for Java 23.10 (latest at time of writing)" translate "Testato con".
+
+"**Author:** GroupDocs" translate "Autore".
+
+Make sure to keep markdown formatting.
+
+Proceed to craft final output.# Aggiungi filigrana di testo
+
+Welcome! In this guide you'll discover how to **aggiungere filigrana di testo** to your documents when using GroupDocs.Conversion for Java. Adding a text watermark not only protects your intellectual property but also lets you brand PDFs, DOCX, PPTX, and other formats during conversion. We'll walk through practical scenarios, from simple static watermarks to dynamic ones based on document metadata, and show you how to keep annotations intact while you convert docx pdf java, pptx pdf java, or any other supported format.
 
 ## Quick Answers
-- **Can I add a watermark while converting a DOCX to PDF?** Yes – the API lets you inject a text watermark during the conversion process.  
-- **Do I need a separate library for image watermarks?** No, GroupDocs.Conversion for Java also supports `add image watermark java` using the same fluent API.  
-- **Is it possible to hide comments or annotations when converting PPTX to PDF?** Absolutely; you can control annotation visibility with dedicated options.  
-- **How do I redact sensitive information before conversion?** Use the built‑in redaction features to `redact sensitive documents` safely.  
-- **What runtime is required?** Java 8+ with the GroupDocs.Conversion JARs on the classpath.
+- **Posso aggiungere una filigrana durante la conversione di un DOCX in PDF?** Yes – the API lets you inject a text watermark during the conversion process.  
+- **Ho bisogno di una libreria separata per le filigrane immagine?** No, GroupDocs.Conversion for Java also supports `add image watermark java` using the same fluent API.  
+- **È possibile nascondere commenti o annotazioni durante la conversione di PPTX in PDF?** Absolutely; you can control annotation visibility with dedicated options.  
+- **Come posso redigere informazioni sensibili prima della conversione?** Use the built‑in redaction features to `redact sensitive documents` safely.  
+- **Quale runtime è necessario?** Java 8+ with the GroupDocs.Conversion JARs on the classpath.
 
-## What is add text watermark?
+## Cos'è la filigrana di testo?
 A text watermark is a semi‑transparent overlay that appears on each page of a converted document. It can contain copyright notices, “Confidential” labels, or custom branding. With GroupDocs.Conversion for Java, the watermark is applied **during** the conversion step, so the original source file remains unchanged.
 
-## Why use add text watermark with GroupDocs.Conversion?
+## Perché usare la filigrana di testo con GroupDocs.Conversion?
 - **Brand protection** – instantly mark every exported PDF or image with your company name.  
 - **Compliance** – add “Confidential” or “Draft” stamps to meet legal or corporate policies.  
 - **Automation‑ready** – embed watermark logic in batch jobs, web services, or micro‑services without extra tools.  
@@ -43,10 +52,10 @@ Below is a concise, step‑by‑step explanation of the process. The actual Java
 
 ## Available Tutorials
 
-### [Hide Comments in PPTX to PDF Using GroupDocs.Conversion for Java](./hide-comments-pptx-pdf-groupdocs-conversion-java/)
+### [Nascondi commenti in PPTX a PDF usando GroupDocs.Conversion per Java](./hide-comments-pptx-pdf-groupdocs-conversion-java/)
 Learn how to hide comments when converting PPTX files to PDF using GroupDocs.Conversion for Java. Streamline your document workflows while maintaining privacy.
 
-### [How to Add Watermark to DOCX and Convert to PDF Using GroupDocs.Conversion for Java](./add-watermark-docx-pdf-groupdocs-conversion-java/)
+### [Come aggiungere filigrana a DOCX e convertire in PDF usando GroupDocs.Conversion per Java](./add-watermark-docx-pdf-groupdocs-conversion-java/)
 Learn how to protect your documents by adding watermarks during conversion from DOCX to PDF using GroupDocs.Conversion for Java. Follow this step-by-step guide for secure document handling.
 
 ## Common Use Cases
@@ -56,34 +65,32 @@ Learn how to protect your documents by adding watermarks during conversion from 
 
 ## Additional Resources
 
-- [GroupDocs.Conversion for Java Documentation](https://docs.groupdocs.com/conversion/java/)
-- [GroupDocs.Conversion for Java API Reference](https://reference.groupdocs.com/conversion/java/)
-- [Download GroupDocs.Conversion for Java](https://releases.groupdocs.com/conversion/java/)
-- [GroupDocs.Conversion Forum](https://forum.groupdocs.com/c/conversion)
-- [Free Support](https://forum.groupdocs.com/)
-- [Temporary License](https://purchase.groupdocs.com/temporary-license/)
+- [Documentazione di GroupDocs.Conversion per Java](https://docs.groupdocs.com/conversion/java/)
+- [Riferimento API di GroupDocs.Conversion per Java](https://reference.groupdocs.com/conversion/java/)
+- [Scarica GroupDocs.Conversion per Java](https://releases.groupdocs.com/conversion/java/)
+- [Forum di GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion)
+- [Supporto gratuito](https://forum.groupdocs.com/)
+- [Licenza temporanea](https://purchase.groupdocs.com/temporary-license/)
 
 ## Frequently Asked Questions
 
-**Q: How do I add an image watermark instead of text?**  
+**Q: Come aggiungo una filigrana immagine invece di testo?**  
 A: Use the `add image watermark java` option in the same `ConversionConfig` object – simply provide the image path and desired opacity.
 
-**Q: Can I apply a watermark only to specific pages?**  
+**Q: Posso applicare una filigrana solo a pagine specifiche?**  
 A: Yes, the API lets you define a page range or a conditional rule based on page numbers.
 
-**Q: What if I need to convert DOCX to PDF and also redact confidential data?**  
+**Q: E se devo convertire DOCX in PDF e anche redigere dati riservati?**  
 A: First apply the redaction (`redact sensitive documents`) using the Redaction API, then run the conversion with your text watermark.
 
-**Q: Does the watermark affect the file size significantly?**  
+**Q: La filigrana influisce significativamente sulla dimensione del file?**  
 A: The increase is minimal; the watermark is stored as a lightweight overlay rather than a full‑resolution image.
 
-**Q: Is it possible to hide existing annotations when converting PPTX to PDF?**  
+**Q: È possibile nascondere le annotazioni esistenti durante la conversione di PPTX in PDF?**  
 A: Absolutely – set the `hideComments` flag in the conversion options to `true` to exclude comments from the output.
 
 ---
 
 **Last Updated:** 2026-03-14  
 **Tested With:** GroupDocs.Conversion for Java 23.10 (latest at time of writing)  
-**Author:** GroupDocs  
-
----
+**Author:** GroupDocs
