@@ -1,13 +1,13 @@
 ---
-date: '2025-12-21'
-description: Naučte se efektivně převádět PDF na ODT pomocí GroupDocs.Conversion pro
-  Javu. Převádějte konkrétní stránky z PDF do formátu OpenDocument Text (ODT) během
-  několika minut.
+date: '2026-03-24'
+description: Naučte se, jak efektivně převádět PDF na ODT pomocí GroupDocs.Conversion
+  pro Javu. Převádějte konkrétní stránky z PDF do formátu OpenDocument Text (ODT)
+  během několika minut.
 keywords:
 - convert PDF to ODT
 - GroupDocs.Conversion for Java
 - PDF to Word processing document
-title: 'Převod PDF na ODT pomocí GroupDocs.Conversion pro Javu - Kompletní průvodce'
+title: Převod PDF na ODT pomocí GroupDocs.Conversion pro Javu – komplexní průvodce
 type: docs
 url: /cs/java/document-operations/convert-pdf-pages-to-odt-groupdocs-java/
 weight: 1
@@ -15,36 +15,40 @@ weight: 1
 
 # Převod PDF na ODT pomocí GroupDocs.Conversion pro Java
 
-Už vás nebaví ručně převádět stránky z PDF do textového dokumentu? **V tomto průvodci se naučíte, jak efektivně převést PDF na ODT** pomocí GroupDocs.Conversion pro Java. Tento tutoriál zjednodušuje proces tím, že ukazuje, jak převést konkrétní stránky z PDF do formátu OpenDocument Text (ODT), což vám pomůže zefektivnit pracovní postup a přesně zvládat konverze dokumentů.
+Pokud potřebujete **convert PDF to ODT** rychle a s pixel‑dokonalou věrností, jste na správném místě. V tomto tutoriálu projdeme celý proces – nastavení knihovny, výběr přesných stránek, které chcete, a zápis souboru OpenDocument Text – a to vše při zachování přehlednosti kódu. Na konci budete schopni tuto logiku vložit do jakékoli Java aplikace, ať už jde o malý nástroj nebo rozsáhlý dávkový procesor.
 
 ## Rychlé odpovědi
-- **Co znamená „convert PDF to ODT“?** Převést stránky PDF do formátu OpenDocument Text pro úpravy nebo další zpracování.  
-- **Která knihovna je doporučena?** GroupDocs.Conversion pro Java (verze 25.2 nebo novější).  
-- **Potřebuji licenci?** Dočasná licence je k dispozici pro testování; plná licence je vyžadována pro produkční nasazení.  
-- **Mohu vybrat konkrétní stránky?** Ano — použijte `WordProcessingConvertOptions` k definování počáteční stránky a počtu stránek.  
-- **Jaká verze Javy je požadována?** JDK 8 nebo novější s Mavenem pro správu závislostí.
+- **What does “convert PDF to ODT” mean?** Převádí vybrané stránky PDF do editovatelného formátu OpenDocument Text.  
+- **Which library is best for Java document conversion?** GroupDocs.Conversion for Java (25.2 or newer).  
+- **Do I need a license?** Dočasná licence je zdarma pro testování; plná licence je vyžadována pro produkční použití.  
+- **Can I pick specific pages?** Ano — použijte `WordProcessingConvertOptions` k nastavení počáteční stránky a počtu stránek.  
+- **What build tool should I use?** Maven je doporučený způsob správy závislosti `pdf conversion maven`.  
 
-## Co je „Convert PDF to ODT“?
-Převod PDF na ODT znamená převzít obsah PDF souboru a znovu jej vytvořit ve formátu OpenDocument Text, který je editovatelný v nástrojích jako LibreOffice Writer. To je zvláště užitečné, když potřebujete upravit jen část PDF, aniž byste museli znovu vytvářet celý dokument od začátku.
+## Co je “convert PDF to ODT”?
+Převod PDF na ODT znamená převzít obsah PDF souboru a znovu jej vytvořit ve formátu OpenDocument Text, který můžete upravovat v LibreOffice Writer, Apache OpenOffice nebo v jakémkoli jiném editoru kompatibilním s ODT. To je zvláště užitečné, když potřebujete upravit jen několik stránek velkého PDF, aniž byste museli znovu vytvářet celý dokument od začátku.
 
-## Proč převádět PDF na ODT pomocí GroupDocs.Conversion?
-- **Precizní kontrola** — převádějte jen stránky, které potřebujete, čímž šetříte čas a zdroje.  
-- **Vysoká věrnost** — přesně zachovává rozvržení, písma a obrázky.  
-- **Cross‑platform** — funguje na jakémkoli OS, který podporuje Javu.  
-- **Škálovatelné** — vhodné pro jednotlivé soubory i dávkové zpracování ve větších aplikacích.
+## Proč použít GroupDocs.Conversion pro Java?
+- **Fine‑grained page control** – Převádějte jen stránky, které potřebujete, čímž šetříte CPU a paměť.  
+- **High fidelity** – Rozvržení, písma a obrázky jsou zachovány téměř beze změny.  
+- **Cross‑platform** – Běží na jakémkoli OS, který podporuje Javu, což je ideální pro serverové i desktopové aplikace.  
+- **Scalable** – Funguje stejně dobře pro jeden soubor i pro zpracování stovek PDF v dávkovém úkolu.  
 
 ## Předpoklady
-Než začnete, ujistěte se, že máte:
-- **Java Development Kit (JDK)** nainstalovaný (JDK 8 nebo novější).  
-- **IDE** jako IntelliJ IDEA, Eclipse nebo NetBeans.  
-- **Maven** pro správu závislostí.  
-- **Základní znalosti Javy** a znalost souboru `pom.xml` Maven.
+
+Před začátkem se ujistěte, že máte:
+
+- **Java Development Kit (JDK) 8 or newer** nainstalovaný.  
+- **An IDE** jako IntelliJ IDEA, Eclipse nebo NetBeans (volitelné, ale užitečné).  
+- **Maven** pro správu závislostí (nejjednodušší způsob, jak přidat `java pdf conversion library`).  
+- **Basic Java knowledge** a znalost souboru `pom.xml` v Maven.  
 
 ## Nastavení GroupDocs.Conversion pro Java
-Začněte přidáním knihovny GroupDocs.Conversion do vašeho Maven projektu.
+
+Nejprve přidejte knihovnu GroupDocs.Conversion do svého Maven projektu.
 
 ### Maven konfigurace
-Přidejte repozitář a závislosti do souboru `pom.xml`:
+
+Přidejte záznamy repozitáře a závislosti do souboru `pom.xml`:
 
 ```xml
 <repositories>
@@ -64,14 +68,15 @@ Přidejte repozitář a závislosti do souboru `pom.xml`:
 ```
 
 ### Získání licence
-Můžete získat dočasnou licenci pro testování. Navštivte [webové stránky GroupDocs](https://purchase.groupdocs.com/temporary-license/), kde můžete požádat o bezplatnou zkušební verzi nebo zakoupit plnou licenci. Jakmile budete mít soubor licence, postupujte podle oficiální dokumentace a aplikujte ji ve svém kódu.
 
-## Praktický průvodce
-Nyní projděme konkrétní kroky konverze, zaměřené na převod konkrétních stránek PDF na ODT.
+Můžete získat dočasnou licenci pro testování. Navštivte [GroupDocs website](https://purchase.groupdocs.com/temporary-license/) a požádejte o bezplatnou zkušební verzi nebo zakupte plnou licenci. Jakmile budete mít licenční soubor, postupujte podle oficiální dokumentace a aplikujte jej ve svém kódu.
 
-### Převod PDF na ODT: Konverze stránek
+## Průvodce implementací
 
-#### 1. Inicializace objektu Converter
+Níže je podrobný průvodce, který ukazuje, jak přesně převést konkrétní stránky PDF na ODT.
+
+### 1. Inicializace objektu Converter
+
 Vytvořte instanci `Converter`, která ukazuje na váš zdrojový PDF:
 
 ```java
@@ -79,10 +84,11 @@ String inputPdf = "YOUR_DOCUMENT_DIRECTORY/sample.pdf"; // Path to your PDF
 Converter converter = new Converter(inputPdf);
 ```
 
-*Proč tento krok?* Třída `Converter` zpracovává veškerou logiku konverze. Její inicializace s cestou k PDF připraví engine na další konfiguraci.
+*Proč tento krok?* Třída `Converter` je jádrem motoru; její inicializace s cestou k PDF připraví vše pro další konfigurační fázi.
 
-#### 2. Konfigurace WordProcessingConvertOptions
-Definujte, které stránky převést, a nastavte cílový formát:
+### 2. Konfigurace WordProcessingConvertOptions
+
+Řekněte motoru, které stránky extrahovat a jaký formát vytvořit:
 
 ```java
 WordProcessingConvertOptions options = new WordProcessingConvertOptions();
@@ -91,61 +97,67 @@ options.setPagesCount(1);   // Number of pages to convert
 options.setFormat(WordProcessingFileType.Odt); // Target format ODT
 ```
 
-*Proč tyto parametry?* Umožňují vám extrahovat jen potřebnou část PDF, čímž snižují dobu zpracování a využití paměti.
+*Proč tyto parametry?* Výběrem jedné stránky (nebo rozsahu) snižujete dobu zpracování a využití paměti — ideální pro scénář “java document conversion”, kde často pracujete s velkými PDF.
 
-#### 3. Provedení konverze
-Spusťte konverzi a uložte výsledek:
+### 3. Provedení převodu
+
+Spusťte převod a zapište výstupní soubor:
 
 ```java
 String outputOdt = "YOUR_OUTPUT_DIRECTORY/converted.odt"; // Output file path
 converter.convert(outputOdt, options);
 ```
 
-*Co to dělá?* Metoda `convert` zpracuje vybrané stránky a zapíše soubor ODT na určené místo.
+*Co to dělá?* Metoda `convert` načte určené stránky z PDF a vygeneruje ODT soubor na zadaném umístění.
 
-### Tipy pro řešení problémů
-- Dvakrát zkontrolujte cesty k souborům pro vstup i výstup.  
-- Ujistěte se, že Maven závislosti jsou správně vyřešeny (spusťte `mvn clean install`).  
-- Pokud narazíte na problémy s pamětí u velkých PDF, zvažte převod v menších dávkách.
+## Časté problémy a řešení
 
-## Praktické aplikace
-Zde jsou některé reálné scénáře, kde převod PDF na ODT vyniká:
-1. **Příprava právních dokumentů** — extrahujte a upravte jen relevantní klauzule pro revizi klientem.  
-2. **Akademický výzkum** — vyberte konkrétní stránky z rozsáhlých prací pro vytvoření souhrnů nebo prezentačních slidů.  
-3. **Firemní reporting** — sdílejte cílené sekce finančních zpráv, aniž byste odhalili celý dokument.
+- **Incorrect file paths** – Zkontrolujte oba vstupní i výstupní umístění; relativní cesty jsou řešeny z kořenového adresáře projektu.  
+- **Maven dependency issues** – Spusťte `mvn clean install`, aby Maven vynutil stažení nejnovějších artefaktů.  
+- **Out‑of‑memory errors on huge PDFs** – Rozdělte převod na menší rozsahy stránek nebo zvýšte haldu JVM (`-Xmx2g` nebo vyšší).  
+- **License not applied** – Ujistěte se, že licenční soubor je načten před vytvořením `Converter`; jinak se objeví vodoznak pro hodnocení.
 
-## Úvahy o výkonu
-- **Optimalizace I/O** — ukládejte PDF na SSD nebo rychlé síťové disky pro rychlejší čtení.  
-- **Správa paměti** — u velmi velkých souborů rozdělte konverzi do více rozsahů stránek.  
-- **Dávkové zpracování** — projděte adresář PDF souborů a kde je to možné, znovu použijte jedinou instanci `Converter`.
+## Praktické případy použití
+
+1. **Legal teams** – Extrahujte a upravte jen klauzule, které je třeba změnit, zbytek smlouvy nechte nedotčený.  
+2. **Researchers** – Vyjměte konkrétní obrázky nebo tabulky z dlouhých PDF časopisů a zahrňte je do nového ODT reportu.  
+3. **Finance departments** – Sdílejte jen relevantní části výkazů zisků s zainteresovanými stranami, čímž chráníte důvěrná data.
+
+## Tipy pro výkon
+
+- **Store PDFs on SSDs** pro rychlejší čtení.  
+- **Reuse a single `Converter` instance** při zpracování mnoha souborů ve smyčce; snižuje to režii JVM.  
+- **Batch processing** – Procházejte adresář PDF souborů a aplikujte stejnou logiku rozsahu stránek na každý soubor.
 
 ## Často kladené otázky
-**Q:** *Jaké jsou systémové požadavky pro používání GroupDocs.Conversion?*  
-**A:** Potřebujete kompatibilní JDK (8 nebo novější) a Maven pro správu závislostí. Pro produkční použití je vyžadována platná licence.
 
-**Q:** *Mohu převádět jiné formáty než PDF na ODT pomocí této knihovny?*  
+**Q:** *What are the system requirements for using GroupDocs.Conversion?*  
+**A:** Potřebujete kompatibilní JDK (8 or newer) a Maven pro správu závislostí. Pro produkční použití je vyžadována platná licence.
+
+**Q:** *Can I convert formats other than PDF to ODT with this library?*  
 **A:** Ano, GroupDocs.Conversion podporuje mnoho zdrojových formátů, včetně DOCX, XLSX, PPTX a dalších.
 
-**Q:** *Jak mám ve své aplikaci zacházet s chybami konverze?*  
-**A:** Zabalte volání `converter.convert()` do bloku try‑catch a zaznamenejte podrobnosti `ConversionException` pro řešení problémů.
+**Q:** *How should I handle conversion errors in my application?*  
+**A:** Zabalte volání `converter.convert()` do try‑catch bloku a zaznamenejte podrobnosti `ConversionException` pro řešení problémů.
 
-**Q:** *Je možná dávková konverze více PDF souborů?*  
-**A:** Rozhodně. Procházejte kolekci souborů a pro každý dokument použijte stejnou logiku konverze.
+**Q:** *Is batch conversion of multiple PDFs possible?*  
+**A:** Rozhodně. Procházejte kolekci souborů a pro každý dokument zavolejte stejnou logiku převodu.
 
-**Q:** *Jaké strategie zlepšují výkon u velkých dokumentů?*  
-**A:** Převádějte v menších rozsazích stránek, používejte rychlé úložiště a zvažte zvýšení velikosti haldy JVM (`-Xmx` flag).
+**Q:** *What strategies improve performance for large documents?*  
+**A:** Převádějte v menších rozsazích stránek, používejte rychlé úložiště a zvažte zvýšení velikosti haldy JVM (`-Xmx` příznak).
 
 ## Zdroje
-- **Dokumentace:** [GroupDocs Conversion Documentation](https://docs.groupdocs.com/conversion/java/)  
-- **API reference:** [GroupDocs API Reference](https://reference.groupdocs.com/conversion/java/)  
-- **Stáhnout GroupDocs.Conversion:** [Direct Download Link](https://releases.groupdocs.com/conversion/java/)  
-- **Nákup a licence:** [Buy Now](https://purchase.groupdocs.com/buy)  
-- **Bezplatná zkušební verze:** [Get Your Free Trial](https://releases.groupdocs.com/conversion/java/)  
-- **Žádost o dočasnou licenci:** [Request a Temporary License](https://purchase.groupdocs.com/temporary-license/)  
-- **Fórum podpory:** [Join the GroupDocs Community](https://forum.groupdocs.com/c/conversion/10)
+
+- **Documentation:** [GroupDocs Conversion Documentation](https://docs.groupdocs.com/conversion/java/)  
+- **API Reference:** [GroupDocs API Reference](https://reference.groupdocs.com/conversion/java/)  
+- **Download GroupDocs.Conversion:** [Direct Download Link](https://releases.groupdocs.com/conversion/java/)  
+- **Purchase and Licensing:** [Buy Now](https://purchase.groupdocs.com/buy)  
+- **Free Trial:** [Get Your Free Trial](https://releases.groupdocs.com/conversion/java/)  
+- **Temporary License Request:** [Request a Temporary License](https://purchase.groupdocs.com/temporary-license/)  
+- **Support Forum:** [Join the GroupDocs Community](https://forum.groupdocs.com/c/conversion/10)
 
 ---
 
-**Poslední aktualizace:** 2025-12-21  
-**Testováno s:** GroupDocs.Conversion 25.2  
-**Autor:** GroupDocs
+**Last Updated:** 2026-03-24  
+**Tested With:** GroupDocs.Conversion 25.2  
+**Author:** GroupDocs
