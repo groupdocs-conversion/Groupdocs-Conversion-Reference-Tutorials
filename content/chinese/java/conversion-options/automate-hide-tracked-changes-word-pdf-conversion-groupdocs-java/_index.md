@@ -1,40 +1,40 @@
 ---
-date: '2025-12-19'
-description: 了解如何使用选项在使用 GroupDocs.Conversion for Java 将 Word 文档转换为 PDF 时隐藏修订痕迹。简化批量转换，确保生成的
-  PDF 干净整洁。
+date: '2026-03-24'
+description: 了解如何在使用 GroupDocs.Conversion 的 Java 将 Word 转换为 PDF 时，通过选项隐藏修订（跟踪更改）。实现批量转换自动化并去除修订标记。
 keywords:
 - automate hiding tracked changes
 - Word-to-PDF conversion
 - GroupDocs.Conversion for Java
-title: 如何使用选项隐藏 Word‑PDF 中的修订痕迹
+title: 如何隐藏修订：在使用 GroupDocs.Conversion for Java 进行 Word 转 PDF 转换时使用选项隐藏修订痕迹
 type: docs
 url: /zh/java/conversion-options/automate-hide-tracked-changes-word-pdf-conversion-groupdocs-java/
 weight: 1
 ---
 
-# 如何在使用 GroupDocs.Conversion for Java 的 Word‑PDF 转换中使用选项隐藏修订更改
+# 如何隐藏修订：在使用 GroupDocs.Conversion for Java 将 Word 转换为 PDF 时使用选项隐藏修订痕迹
 
-将 Word 文档转换为 PDF 并手动隐藏修订更改可能很繁琐，尤其是当您需要一次性 **convert word to pdf** 多个文件时。在本教程中，您将学习 **how to use options**，在使用 GroupDocs.Conversion for Java 的转换过程中自动隐藏修订更改。完成后，您将获得干净、可直接用于生产的 PDF，且没有任何残留的编辑标记。
+当您需要 **convert Word to PDF** 数十甚至数百个文件时，手动在每个文档中关闭修订跟踪会耗费大量时间。在本教程中，您将了解如何通过在 GroupDocs.Conversion for Java 中使用转换选项 **how to hide revisions** 自动隐藏修订。完成后，您将生成干净的 PDF——没有任何修订标记——可用于法律审查、出版或交付给客户。
 
-## 快速回答
-- **What does “hide tracked changes” do?** 它会自动从最终的 PDF 中移除修订标记。  
-- **Which library supports this?** GroupDocs.Conversion for Java 提供了专用的加载选项。  
-- **Can I batch convert docx pdf files?** 是的 – 将该选项与循环结合，可处理大量文档。  
-- **What Java version is required?** JDK 8 或更高。  
-- **Do I need a license?** 免费试用可用于评估；生产环境需要永久许可证。
+## 快速答案
+- **“hide tracked changes” 是什么作用？** 它会自动从最终 PDF 中移除修订标记。  
+- **哪个库支持此功能？** GroupDocs.Conversion for Java 提供专用的 load‑option。  
+- **我可以批量转换 docx pdf 文件吗？** 可以——将该选项与循环结合即可处理大量文档。  
+- **需要哪个 Java 版本？** JDK 8 或更高。  
+- **是否需要许可证？** 免费试用可用于评估；生产环境需要正式许可证。
 
-## 在此上下文中 “how to use options” 是什么？
-使用选项意味着在实际转换运行之前配置转换引擎（加载选项、转换选项等）。这为您提供了细粒度的控制，例如隐藏修订更改、设置页面尺寸或定义图像质量。
+## 在此上下文中，“how to hide revisions” 是什么？
+使用选项意味着在转换运行 **之前** 配置转换引擎（加载选项、转换选项等）。这让您可以精细控制，例如 **移除修订标记**、设置页面尺寸或定义图像质量。
 
-## 为什么在转换过程中隐藏修订更改？
-- **Professional output** – 客户将收到没有可见编辑的干净 PDF。  
-- **Legal compliance** – 移除可能敏感的修订数据。  
-- **Time saver** – 消除在 Word 中手动关闭跟踪的步骤。  
+## 为什么在转换过程中隐藏修订？
+- **专业输出** – 客户收到的 PDF 干净整洁，没有可见的编辑痕迹。  
+- **法律合规** – 移除可能包含敏感信息的修订数据。  
+- **节省时间** – 省去在 Word 中手动关闭跟踪的步骤。  
+- **自动化就绪** – 适用于 **automate word pdf conversion** 流程和 **batch convert docx pdf** 任务。
 
-## 前提条件
-- **Java Development Kit (JDK)** 8 或更高。  
-- **Maven** 用于依赖管理。  
-- 基本的 Java 编码技能。
+## 前置条件
+- **Java Development Kit (JDK)** 8 或更新版本。  
+- 用于依赖管理的 **Maven**。  
+- 基本的 Java 编程技能。
 
 ## 设置 GroupDocs.Conversion for Java
 
@@ -57,14 +57,14 @@ weight: 1
 </dependencies>
 ```
 
-### 获取许可证
-- **Free Trial** – 从 [GroupDocs Releases](https://releases.groupdocs.com/conversion/java/) 下载库。  
-- **Temporary License** – 在 [GroupDocs Temporary License](https://purchase.groupdocs.com/temporary-license/) 请求临时密钥。  
-- **Purchase** – 通过 [GroupDocs Purchase Page](https://purchase.groupdocs.com/buy) 获取完整许可证。
+### 许可证获取
+- **免费试用** – 从 [GroupDocs Releases](https://releases.groupdocs.com/conversion/java/) 下载库。  
+- **临时许可证** – 在 [GroupDocs Temporary License](https://purchase.groupdocs.com/temporary-license/) 申请临时密钥。  
+- **购买** – 通过 [GroupDocs Purchase Page](https://purchase.groupdocs.com/buy) 获取完整许可证。
 
-## 如何使用选项隐藏修订更改
+## 如何使用选项隐藏修订痕迹
 
-以下是逐步实现。每个代码块都保持原样。
+下面是逐步实现示例。每个代码块均保持原样。
 
 ### 步骤 1：设置加载选项
 创建 `WordProcessingLoadOptions` 并启用 hide‑tracked‑changes 标志。
@@ -98,9 +98,9 @@ PdfConvertOptions pdfOptions = new PdfConvertOptions(); // Customize options as 
 converter.convert(outputFile, pdfOptions); // Perform the conversion
 ```
 
-## 使用自定义加载选项加载文档（替代方法）
+## 使用自定义加载选项加载文档（替代方案）
 
-如果您希望为多个文件重用相同的选项，请创建专用的 converter 实例。
+如果希望在多个文件之间复用相同的选项，可创建专用的 converter 实例。
 
 ### 步骤 1：定义加载选项
 ```java
@@ -114,57 +114,57 @@ Converter converterWithOptions = new Converter(inputFile, () -> wordLoadOptions)
 // Conversion can now be performed using the `converterWithOptions` object.
 ```
 
-## 实际应用
-1. **Legal Document Management** – 自动为客户审阅生成干净的 PDF。  
-2. **Academic Publishing** – 在期刊提交前移除编辑标记。  
-3. **Business Reporting** – 确保最终报告不包含任何零散的修订。
+## 实际应用场景
+1. **法律文档管理** – 自动生成供客户审阅的干净 PDF。  
+2. **学术出版** – 在提交期刊前去除编辑标记。  
+3. **商务报告** – 确保最终报告不含任何零散的修订。
 
-## 性能考虑
-- **Memory Management** – 及时关闭流，并在可能时重用 `Converter` 实例。  
-- **Streaming API** – 对非常大的 `.docx` 文件使用流式处理，以保持低内存使用。  
-- **Batch Processing** – 在循环遍历文件列表时重用相同的 `loadOptions`，以高效 **batch convert docx pdf**。
+## 性能考虑因素
+- **内存管理** – 及时关闭流，并在可能的情况下复用 `Converter` 实例。  
+- **Streaming API** – 对于非常大的 `.docx` 文件使用流式处理，以降低 RAM 使用。  
+- **批量处理** – 在循环遍历文件列表时复用相同的 `loadOptions`，可高效 **batch convert docx pdf**。
 
 ## 常见问题与故障排除
-- **Tracked changes still appear** – 确认在创建 `Converter` 之前已调用 `setHideWordTrackedChanges(true)`。  
-- **Conversion fails on large files** – 增加 JVM 堆大小或以流式模式处理文件。  
-- **License errors** – 确保许可证文件放置正确且试用期未过期。
+- **修订仍然出现** – 确认在创建 `Converter` 之前已调用 `setHideWordTrackedChanges(true)`。  
+- **大文件转换失败** – 增加 JVM 堆大小或使用流式模式处理文件。  
+- **许可证错误** – 确认许可证文件放置正确且试用期未过期。
 
 ## 常见问答
 
 **Q: 我可以使用 GroupDocs.Conversion 转换除 DOCX 之外的文档吗？**  
-A: 是的，库支持 PPTX、XLSX、PDF 以及许多其他格式。
+A: 可以，库支持 PPTX、XLSX、PDF 等多种格式。
 
 **Q: 哪些 Java 版本与 GroupDocs.Conversion 兼容？**  
 A: 需要 JDK 8 或更高版本。
 
-**Q: 我该如何排查转换错误？**  
-A: 检查异常堆栈跟踪，确认输入文件未损坏，并确保许可证有效。
+**Q: 如何排查转换错误？**  
+A: 查看异常堆栈跟踪，确认输入文件未损坏，并确保许可证有效。
 
-**Q: 是否可以在隐藏修订更改之外自定义 PDF 输出？**  
-A: 当然。可查看 `PdfConvertOptions`，其中包含 DPI、页面范围和水印等设置。
+**Q: 除了隐藏修订外，是否可以自定义 PDF 输出？**  
+A: 当然。可探索 `PdfConvertOptions`，其中包含 DPI、页面范围和水印等设置。
 
 **Q: GroupDocs.Conversion 能高效处理批量转换吗？**  
-A: 可以，您可以在循环遍历文件时重用相同的加载选项，以快速 **batch convert docx pdf**。
+A: 能，您可以在循环中复用相同的加载选项，以快速 **batch convert docx pdf**。
 
 ## 结论
-您现在了解了 **how to use options**，即在使用 GroupDocs.Conversion for Java 将 Word 文档转换为 PDF 时隐藏修订更改。此方法消除了手动步骤，提高了文档的专业性，并且在批量操作中具有良好的可扩展性。
+现在，您已经掌握了在使用 GroupDocs.Conversion for Java 将 Word 文档转换为 PDF 时 **how to hide revisions** 的方法。此方案消除了手动步骤，提升文档专业度，并且能够很好地扩展到批量操作。
 
 ### 后续步骤
-- 将代码集成到您现有的文档处理流水线中。  
-- 尝试使用额外的 `PdfConvertOptions` 来微调 PDF 输出。  
-- 探索 GroupDocs 的其他转换功能，例如图像提取或格式转换。
+- 将代码集成到现有的文档处理流水线中。  
+- 试验更多 `PdfConvertOptions`，进一步微调 PDF 输出。  
+- 探索 GroupDocs 的其他转换功能，如图像提取或格式转换。
 
 **资源**  
-- 文档: [GroupDocs Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)  
-- API 参考: [GroupDocs Conversion API Reference](https://reference.groupdocs.com/conversion/java/)  
-- 下载: [Get the Latest Release](https://releases.groupdocs.com/conversion/java/)  
-- 购买: [Buy a License](https://purchase.groupdocs.com/buy)  
-- 免费试用: [Try It Out](https://releases.groupdocs.com/conversion/java/)  
-- 临时许可证: [Request Here](https://purchase.groupdocs.com/temporary-license/)  
-- 支持论坛: [Join the Discussion](https://forum.groupdocs.com/c/conversion/10)
+- 文档： [GroupDocs Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)  
+- API 参考： [GroupDocs Conversion API Reference](https://reference.groupdocs.com/conversion/java/)  
+- 下载： [Get the Latest Release](https://releases.groupdocs.com/conversion/java/)  
+- 购买： [Buy a License](https://purchase.groupdocs.com/buy)  
+- 免费试用： [Try It Out](https://releases.groupdocs.com/conversion/java/)  
+- 临时许可证： [Request Here](https://purchase.groupdocs.com/temporary-license/)  
+- 支持论坛： [Join the Discussion](https://forum.groupdocs.com/c/conversion/10)
 
 ---
 
-**最后更新：** 2025-12-19  
-**测试环境：** GroupDocs.Conversion 25.2 for Java  
-**作者：** GroupDocs  
+**Last Updated:** 2026-03-24  
+**Tested With:** GroupDocs.Conversion 25.2 for Java  
+**Author:** GroupDocs

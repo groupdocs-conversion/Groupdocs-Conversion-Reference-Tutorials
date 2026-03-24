@@ -1,45 +1,48 @@
 ---
-date: '2025-12-19'
-description: Erfahren Sie, wie Sie Optionen verwenden, um nachverfolgte Änderungen
-  beim Konvertieren von Word‑Dokumenten in PDF mit GroupDocs.Conversion für Java auszublenden.
-  Optimieren Sie die Stapelkonvertierung und stellen Sie saubere PDFs sicher.
+date: '2026-03-24'
+description: Erfahren Sie, wie Sie Revisionen ausblenden können, indem Sie Optionen
+  zum Ausblenden von nachverfolgten Änderungen bei der Word‑zu‑PDF‑Konvertierung in
+  Java mit GroupDocs.Conversion verwenden. Automatisieren Sie die Stapelkonvertierung
+  und entfernen Sie Revisionsmarkierungen.
 keywords:
 - automate hiding tracked changes
 - Word-to-PDF conversion
 - GroupDocs.Conversion for Java
-title: Wie man Optionen verwendet, um nachverfolgte Änderungen in Word‑PDF zu verbergen
+title: 'Wie man Revisionen ausblendet: Optionen verwenden, um nachverfolgte Änderungen
+  bei der Word‑PDF-Konvertierung mit GroupDocs.Conversion für Java zu verbergen'
 type: docs
 url: /de/java/conversion-options/automate-hide-tracked-changes-word-pdf-conversion-groupdocs-java/
 weight: 1
 ---
 
-# Wie man Optionen verwendet, um nachverfolgte Änderungen bei der Word‑PDF-Konvertierung mit GroupDocs.Conversion für Java auszublenden
+# Wie man Revisionen ausblendet: Optionen verwenden, um nachverfolgte Änderungen bei der Word‑PDF-Konvertierung mit GroupDocs.Conversion für Java auszublenden
 
-Das Konvertieren von Word‑Dokumenten zu PDF, während nachverfolgte Änderungen manuell ausgeblendet werden, kann mühsam sein, besonders wenn Sie **convert word to pdf** für viele Dateien gleichzeitig durchführen müssen. In diesem Tutorial lernen Sie **how to use options** kennen, um nachverfolgte Änderungen während des Konvertierungsprozesses mit GroupDocs.Conversion für Java automatisch auszublenden. Am Ende haben Sie ein sauberes, produktionsbereites PDF ohne verbleibende Bearbeitungsmarkierungen.
+Wenn Sie **Word zu PDF konvertieren** müssen, und das für Dutzende oder Hunderte von Dateien, ist das manuelle Deaktivieren der Nachverfolgung in jedem Dokument ein enormer Zeitaufwand. In diesem Tutorial erfahren Sie **wie man Revisionen** automatisch ausblendet, indem Sie Konvertierungsoptionen in GroupDocs.Conversion für Java verwenden. Am Ende erzeugen Sie saubere PDFs – ohne jegliche Revisionsmarkierungen – bereit für juristische Prüfungen, Veröffentlichungen oder die Kundenlieferung.
 
 ## Schnelle Antworten
-- **Was bewirkt “hide tracked changes”?** Es entfernt Revisionsmarkierungen automatisch aus dem finalen PDF.  
-- **Welche Bibliothek unterstützt dies?** GroupDocs.Conversion für Java bietet eine dedizierte Load‑Option.  
+- **Was bewirkt „hide tracked changes“?** Es entfernt Revisionsmarkierungen automatisch aus dem finalen PDF.  
+- **Welche Bibliothek unterstützt dies?** GroupDocs.Conversion für Java bietet eine dedizierte Lade‑Option.  
 - **Kann ich docx‑pdf‑Dateien stapelweise konvertieren?** Ja – kombinieren Sie die Option mit einer Schleife, um viele Dokumente zu verarbeiten.  
 - **Welche Java‑Version wird benötigt?** JDK 8 oder höher.  
-- **Benötige ich eine Lizenz?** Ein kostenloser Test funktioniert für die Evaluierung; für die Produktion ist eine permanente Lizenz erforderlich.
+- **Brauche ich eine Lizenz?** Eine kostenlose Testversion reicht für die Evaluierung; für den Produktionseinsatz ist eine permanente Lizenz erforderlich.
 
-## Was bedeutet “how to use options” in diesem Kontext?
-Optionen zu verwenden bedeutet, die Konvertierungs‑Engine (Load‑Optionen, Convert‑Optionen usw.) vor dem eigentlichen Konvertierungsvorgang zu konfigurieren. Das gibt Ihnen eine feinkörnige Kontrolle, z. B. das Ausblenden nachverfolgter Änderungen, das Festlegen der Seitengröße oder das Definieren der Bildqualität.
+## Was bedeutet „how to hide revisions“ in diesem Kontext?
+Die Verwendung von Optionen bedeutet, die Konvertierungs‑Engine (Ladeoptionen, Konvertierungsoptionen usw.) **vor** dem Start der Konvertierung zu konfigurieren. Das gibt Ihnen eine feinkörnige Kontrolle, z. B. **Entfernen von Revisionsmarkierungen**, Festlegen der Seitengröße oder Definition der Bildqualität.
 
-## Warum nachverfolgte Änderungen während der Konvertierung ausblenden?
+## Warum Revisionen während der Konvertierung ausblenden?
 - **Professionelles Ergebnis** – Kunden erhalten saubere PDFs ohne sichtbare Änderungen.  
 - **Rechtliche Konformität** – entfernt potenziell sensible Revisionsdaten.  
-- **Zeitersparnis** – eliminiert den manuellen Schritt, das Tracking in Word zu deaktivieren.
+- **Zeitersparnis** – eliminiert den manuellen Schritt, die Nachverfolgung in Word zu deaktivieren.  
+- **Automatisierung bereit** – perfekt für **automate word pdf conversion**‑Pipelines und **batch convert docx pdf**‑Aufgaben.
 
 ## Voraussetzungen
 - **Java Development Kit (JDK)** 8 oder neuer.  
-- **Maven** für die Abhängigkeitsverwaltung.  
+- **Maven** für das Abhängigkeitsmanagement.  
 - Grundlegende Java‑Programmierkenntnisse.
 
 ## Einrichtung von GroupDocs.Conversion für Java
 
-Fügen Sie zunächst das GroupDocs‑Repository und die Konvertierungs‑Abhängigkeit zu Ihrer Maven `pom.xml` hinzu.
+Fügen Sie zunächst das GroupDocs-Repository und die Konvertierungsabhängigkeit zu Ihrer Maven‑`pom.xml` hinzu.
 
 ```xml
 <repositories>
@@ -65,9 +68,9 @@ Fügen Sie zunächst das GroupDocs‑Repository und die Konvertierungs‑Abhäng
 
 ## Wie man Optionen verwendet, um nachverfolgte Änderungen auszublenden
 
-Nachfolgend finden Sie die schrittweise Implementierung. Jeder Code‑Block bleibt exakt wie ursprünglich bereitgestellt.
+Im Folgenden finden Sie die schrittweise Implementierung. Jeder Codeblock bleibt exakt wie ursprünglich bereitgestellt.
 
-### Schritt 1: Load‑Optionen einrichten
+### Schritt 1: Ladeoptionen einrichten
 Erstellen Sie `WordProcessingLoadOptions` und aktivieren Sie das hide‑tracked‑changes‑Flag.
 
 ```java
@@ -80,9 +83,7 @@ WordProcessingLoadOptions loadOptions = new WordProcessingLoadOptions();
 loadOptions.setHideWordTrackedChanges(true); // Hide tracked changes during conversion
 ```
 
-### Schritt 2: Converter mit Load‑Optionen initialisieren
-Übergeben Sie die Load‑Optionen an den `Converter`‑Konstruktor.
-
+### Schritt 2: Converter mit Ladeoptionen initialisieren
 ```java
 String inputFile = "YOUR_DOCUMENT_DIRECTORY/SAMPLE_DOCX_WITH_TRACKED_CHANGES";
 String outputFile = "YOUR_OUTPUT_DIRECTORY/ConvertWordProcessingByHiddingTrackedChanges.pdf";
@@ -91,7 +92,7 @@ String outputFile = "YOUR_OUTPUT_DIRECTORY/ConvertWordProcessingByHiddingTracked
 Converter converter = new Converter(inputFile, () -> loadOptions);
 ```
 
-### Schritt 3: PDF‑Konvertierungsoptionen konfigurieren
+### Schritt 3: PDF-Konvertierungsoptionen konfigurieren
 Hier können Sie die PDF‑Ausgabe anpassen; das Beispiel verwendet die Standardeinstellungen.
 
 ```java
@@ -99,36 +100,36 @@ PdfConvertOptions pdfOptions = new PdfConvertOptions(); // Customize options as 
 converter.convert(outputFile, pdfOptions); // Perform the conversion
 ```
 
-## Laden eines Dokuments mit benutzerdefinierten Load‑Optionen (alternativer Ansatz)
+## Laden eines Dokuments mit benutzerdefinierten Ladeoptionen (alternativer Ansatz)
 
 Wenn Sie dieselben Optionen für mehrere Dateien wiederverwenden möchten, erstellen Sie eine dedizierte Converter‑Instanz.
 
-### Schritt 1: Load‑Optionen definieren
+### Schritt 1: Ladeoptionen definieren
 ```java
 WordProcessingLoadOptions wordLoadOptions = new WordProcessingLoadOptions();
 wordLoadOptions.setHideWordTrackedChanges(true); // Example of setting a specific option
 ```
 
-### Schritt 2: Converter mit benutzerdefinierten Load‑Optionen initialisieren
+### Schritt 2: Converter mit benutzerdefinierten Ladeoptionen initialisieren
 ```java
 Converter converterWithOptions = new Converter(inputFile, () -> wordLoadOptions);
 // Conversion can now be performed using the `converterWithOptions` object.
 ```
 
-## Praktische Anwendungen
+## Praktische Anwendungsfälle
 1. **Legal Document Management** – Automatisch saubere PDFs für die Kundenprüfung erzeugen.  
-2. **Academic Publishing** – Entfernen Sie redaktionelle Markierungen vor der Einreichung bei Fachzeitschriften.  
-3. **Business Reporting** – Stellen Sie sicher, dass Abschlussberichte keine verirrten Revisionen enthalten.
+2. **Academic Publishing** – Redaktionelle Markierungen vor der Einreichung bei Fachzeitschriften entfernen.  
+3. **Business Reporting** – Sicherstellen, dass Abschlussberichte keine verirrten Revisionen enthalten.  
 
 ## Leistungsüberlegungen
-- **Memory Management** – Schließen Sie Streams umgehend und verwenden Sie `Converter`‑Instanzen nach Möglichkeit wieder.  
-- **Streaming API** – Nutzen Sie Streaming für sehr große `.docx`‑Dateien, um den RAM‑Verbrauch gering zu halten.  
-- **Batch Processing** – Durchlaufen Sie eine Dateiliste und verwenden Sie dieselben `loadOptions`, um **batch convert docx pdf** effizient durchzuführen.
+- **Speichermanagement** – Schließen Sie Streams umgehend und verwenden Sie `Converter`‑Instanzen nach Möglichkeit erneut.  
+- **Streaming‑API** – Nutzen Sie Streaming für sehr große `.docx`‑Dateien, um den RAM‑Verbrauch gering zu halten.  
+- **Batch‑Verarbeitung** – Durchlaufen Sie eine Dateiliste und verwenden Sie dieselben `loadOptions`, um **batch convert docx pdf** effizient durchzuführen.
 
 ## Häufige Probleme & Fehlersuche
-- **Tracked changes still appear** – Stellen Sie sicher, dass `setHideWordTrackedChanges(true)` vor der Erstellung des `Converter` aufgerufen wird.  
-- **Conversion fails on large files** – Erhöhen Sie die JVM‑Heap‑Größe oder verarbeiten Sie Dateien im Streaming‑Modus.  
-- **License errors** – Stellen Sie sicher, dass die Lizenzdatei korrekt platziert ist und die Testphase nicht abgelaufen ist.
+- **Nachverfolgte Änderungen erscheinen noch** – Stellen Sie sicher, dass `setHideWordTrackedChanges(true)` **vor** der Erstellung des `Converter` aufgerufen wird.  
+- **Konvertierung schlägt bei großen Dateien fehl** – Erhöhen Sie die JVM‑Heap‑Größe oder verarbeiten Sie Dateien im Streaming‑Modus.  
+- **Lizenzfehler** – Stellen Sie sicher, dass die Lizenzdatei korrekt platziert ist und die Testphase nicht abgelaufen ist.
 
 ## Häufig gestellte Fragen
 
@@ -139,21 +140,21 @@ A: Ja, die Bibliothek unterstützt PPTX, XLSX, PDF und viele weitere Formate.
 A: JDK 8 oder höher ist erforderlich.
 
 **Q: Wie gehe ich bei Konvertierungsfehlern vor?**  
-A: Überprüfen Sie den Ausnahme‑Stack‑Trace, stellen Sie sicher, dass die Eingabedatei nicht beschädigt ist, und prüfen Sie, ob die Lizenz gültig ist.
+A: Prüfen Sie den Ausnahme‑Stack‑Trace, stellen Sie sicher, dass die Eingabedatei nicht beschädigt ist, und vergewissern Sie sich, dass die Lizenz gültig ist.
 
 **Q: Ist es möglich, die PDF‑Ausgabe über das Ausblenden nachverfolgter Änderungen hinaus anzupassen?**  
-A: Auf jeden Fall. Erkunden Sie `PdfConvertOptions` für Einstellungen wie DPI, Seitenbereich und Wasserzeichen.
+A: Absolut. Erkunden Sie `PdfConvertOptions` für Einstellungen wie DPI, Seitenbereich und Wasserzeichen.
 
-**Q: Kann GroupDocs.Conversion die Stapelverarbeitung effizient handhaben?**  
-A: Ja, Sie können Dateien durchlaufen und dabei dieselben Load‑Optionen wiederverwenden, um **batch convert docx pdf** schnell durchzuführen.
+**Q: Kann GroupDocs.Conversion die Batch‑Verarbeitung effizient handhaben?**  
+A: Ja, Sie können Dateien in einer Schleife verarbeiten und dabei dieselben Ladeoptionen wiederverwenden, um **batch convert docx pdf** schnell durchzuführen.
 
 ## Fazit
-Sie wissen jetzt **how to use options**, um nachverfolgte Änderungen beim Konvertieren von Word‑Dokumenten zu PDF mit GroupDocs.Conversion für Java auszublenden. Dieser Ansatz eliminiert manuelle Schritte, verbessert die Professionalität von Dokumenten und skaliert gut für Stapeloperationen.
+Sie wissen jetzt **wie man Revisionen** beim Konvertieren von Word‑Dokumenten zu PDF mit GroupDocs.Conversion für Java ausblendet. Dieser Ansatz eliminiert manuelle Schritte, verbessert die Professionalität von Dokumenten und skaliert gut für Batch‑Operationen.
 
 ### Nächste Schritte
 - Integrieren Sie den Code in Ihre bestehende Dokument‑Verarbeitungspipeline.  
 - Experimentieren Sie mit zusätzlichen `PdfConvertOptions`, um die PDF‑Ausgabe fein abzustimmen.  
-- Erkunden Sie weitere Konvertierungs‑Features von GroupDocs, wie Bildextraktion oder Formatkonvertierung.
+- Erkunden Sie weitere Konvertierungsfunktionen von GroupDocs, wie Bildextraktion oder Formatkonvertierung.
 
 **Ressourcen**  
 - Dokumentation: [GroupDocs Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)  
@@ -166,6 +167,6 @@ Sie wissen jetzt **how to use options**, um nachverfolgte Änderungen beim Konve
 
 ---
 
-**Last Updated:** 2025-12-19  
-**Tested With:** GroupDocs.Conversion 25.2 for Java  
-**Author:** GroupDocs  
+**Zuletzt aktualisiert:** 2026-03-24  
+**Getestet mit:** GroupDocs.Conversion 25.2 für Java  
+**Autor:** GroupDocs
