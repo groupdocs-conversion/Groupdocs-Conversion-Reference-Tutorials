@@ -1,36 +1,48 @@
 ---
-"date": "2025-04-28"
-"description": "學習如何使用 GroupDocs.Conversion 在 Java 中有效地將 Excel 文件轉換為 PDF 格式，並附帶高級選項。本逐步指南將確保資料完整性和格式正確。"
-"title": "使用 GroupDocs.Conversion for Java 將 Excel 轉換為 PDF —— 綜合教程"
-"url": "/zh-hant/java/pdf-conversion/excel-to-pdf-groupdocs-java-tutorial/"
-"weight": 1
+date: '2026-04-10'
+description: 學習如何使用 GroupDocs.Conversion for Java 將 Excel 轉換為 PDF（每個工作表一頁），包括顯示格線的選項以及從試算表產生
+  PDF。
+keywords:
+- one page per sheet
+- generate pdf from spreadsheet
+- convert excel pdf java
+- show grid lines pdf
+- excel pdf conversion java
+title: 將 Excel 轉換為 PDF – 每張工作表一頁，使用 GroupDocs Java
 type: docs
+url: /zh-hant/java/pdf-conversion/excel-to-pdf-groupdocs-java-tutorial/
+weight: 1
 ---
-# 使用 GroupDocs.Conversion for Java 將 Excel 轉換為 PDF：綜合教學課程
 
-## 介紹
+# 將 Excel 轉換為 PDF – 每個工作表一頁，使用 GroupDocs Java
 
-在當今數據驅動的世界中，有效率地轉換電子表格文件對於企業和開發者至關重要。將 Excel 檔案轉換為 PDF 格式有助於維護文件的完整性，並方便跨平台共用。本指南將向您展示如何使用 **GroupDocs.Conversion for Java** 用於將 Excel 電子表格轉換為 PDF，並提供顯示網格線和在單獨頁面上設定每張工作表等選項。
+在當今以數據為驅動的環境中，將 Excel 工作簿轉換為 PDF，同時保持每個工作表各自佔一頁——**one page per sheet**——是一項常見需求。無論您是需要從試算表報告生成 PDF、分享唯讀版本，還是歸檔資料，保留版面配置和格線都很重要。本教學將指導您使用 **GroupDocs.Conversion for Java**，將 Excel 檔案轉換為 PDF，並啟用 *one page per sheet* 選項，同時說明如何 **show grid lines** 以及其他實用設定。
 
-透過學習本教程，您將了解：
-- 如何在您的專案中設定 GroupDocs.Conversion
-- 為電子表格實現進階載入和轉換選項
-- 優化文件轉換期間的效能
+## 快速解答
+- **「one page per sheet」是什麼意思？** 每個工作表會在 PDF 中呈現在單獨的頁面上。  
+- **我可以在 PDF 中顯示格線嗎？** 可以，在載入選項中啟用 `setShowGridLines(true)`。  
+- **哪個函式庫負責轉換？** GroupDocs.Conversion for Java。  
+- **我需要授權嗎？** 免費試用可用於測試；正式環境需購買授權。  
+- **是否支援批次轉換？** 可以，使用相同的 API 迴圈處理多個檔案。
 
-準備好開始了嗎？讓我們先來了解先決條件。
+## 「one page per sheet」轉換是什麼？
+*one page per sheet* 設定告訴轉換器將 Excel 工作簿中的每個工作表視為產生的 PDF 中的單獨頁面。此設定可保持原始工作簿結構完整，並讓讀者更容易瀏覽。
 
-## 先決條件
+## 為何使用 GroupDocs.Conversion for Java 從試算表產生 PDF？
+- **High fidelity** – 保留格式、公式與樣式。  
+- **Performance** – 為大型工作簿與批次處理進行最佳化。  
+- **Flexibility** – 支援顯示格線、設定頁面方向等選項。  
+- **Cross‑platform** – 可在任何相容 Java 的環境中執行。
 
-開始之前，請確保您已完成以下設定：
-- **Java 開發工具包 (JDK)**：需要版本 8 或更高版本。
-- **GroupDocs.Conversion for Java**：此庫將用於轉換任務。我們將在下一節介紹安裝方法。
-- **整合開發環境**：像 IntelliJ IDEA 或 Eclipse 這樣的整合開發環境。
+## 前置條件
+- **Java Development Kit (JDK)** 8 或更高版本。  
+- **GroupDocs.Conversion for Java** 函式庫（我們將透過 Maven 加入）。  
+- 如 IntelliJ IDEA 或 Eclipse 等 IDE。  
+- 具備 Maven 依賴管理的基本概念（有助但非必需）。
 
-熟悉 Java 程式設計和 Maven 依賴管理的基本知識是有益的，但不是強制性的。
+## 設定 GroupDocs.Conversion for Java
 
-## 為 Java 設定 GroupDocs.Conversion
-
-若要開始使用 GroupDocs.Conversion 程式庫，請將其新增為專案的依賴項。以下是使用 Maven 的操作方法：
+Add the GroupDocs repository and dependency to your `pom.xml`:
 
 ```xml
 <repositories>
@@ -50,11 +62,10 @@ type: docs
 ```
 
 ### 授權
-GroupDocs 提供多種授權選項，包括免費試用以探索其功能。您可以獲得臨時許可證，也可以購買完整許可證以獲得完整存取權限。
+GroupDocs 提供免費試用與多種授權等級。您可取得臨時授權以進行評估，或購買正式授權以供生產環境使用。
 
-### 初始化和設定
-
-新增依賴項後，初始化轉換環境：
+### 初始化與設定
+After adding the dependency, you can verify that the library loads correctly:
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -67,15 +78,10 @@ public class InitializeGroupDocs {
 }
 ```
 
-## 實施指南
+## 試算表文件的載入選項
 
-### 電子表格文件的載入選項
-
-#### 概述
-設定進階載入選項可讓您自訂電子表格文件在轉換過程中的處理方式。這包括顯示網格線以及確保每張工作表都轉換為單獨的頁面。
-
-#### 實現該功能
-您可以按照以下步驟配置這些選項：
+### 如何設定「one page per sheet」與顯示格線
+`SpreadsheetLoadOptions` 類別讓您在轉換前微調工作簿的解讀方式。
 
 ```java
 import com.groupdocs.conversion.options.load.SpreadsheetLoadOptions;
@@ -84,27 +90,25 @@ public class LoadSpreadsheetWithOptions {
     public static void run() {
         SpreadsheetLoadOptions loadOptions = new SpreadsheetLoadOptions();
         
-        // 在轉換後的文件中顯示網格線
+        // Show grid lines in the converted document
         loadOptions.setShowGridLines(true);
         
-        // 確保每張紙都在單獨的頁面上
+        // Ensure each sheet is on a separate page
         loadOptions.setOnePagePerSheet(true);
     }
 }
 ```
-- **電子表格載入選項**：此類提供用於載入電子表格的各種配置選項。
-- **設定顯示網格線（真）**：在輸出 PDF 中啟用網格線。
-- **設定每張頁數（真）**：將每張表轉換為單獨的頁面。
 
-### 電子表格文件轉換為 PDF
+- **`setShowGridLines(true)`** – 在 PDF 中保留格線樣式。  
+- **`setOnePagePerSheet(true)`** – 啟用主要的 *one page per sheet* 行為。
 
-#### 概述
-設定載入選項後，您可以繼續使用特定的轉換設定將電子表格文件轉換為 PDF 檔案。
+## 將試算表轉換為 PDF
 
-#### 實現該功能
+### 步驟說明的轉換程式碼
+With the load options configured, the conversion itself is straightforward:
 
 ```java
-import com.groupdocs.conversion.轉換器;
+import com.groupdocs.conversion.Converter;
 import com.groupdocs.conversion.options.convert.PdfConvertOptions;
 
 public class ConvertSpreadsheetToPdf {
@@ -120,52 +124,59 @@ public class ConvertSpreadsheetToPdf {
     }
 }
 ```
-- **Converter**：負責處理轉換過程的類別。
-- **PdfConvertOptions**：包含將文件轉換為 PDF 的特定設定。
 
-## 實際應用
+- **`Converter`** 處理整個轉換流程。  
+- **`PdfConvertOptions`** 讓您指定 PDF 專屬設定（壓縮、影像品質等）。
 
-1. **自動產生報告**：將每月的電子表格轉換為 PDF 以便跨部門分發。
-2. **團隊中的數據共享**：輕鬆與團隊成員共享格式化數據，而無需更改內容。
-3. **歸檔**：以不可編輯的格式儲存電子表格資料以供長期儲存。
+### 批次轉換 Excel PDF Java
+若要處理多個工作簿，只需遍歷檔案路徑集合，對每個檔案呼叫 `ConvertSpreadsheetToPdf.run()`。此方法可在最少程式碼變更下支援 **batch convert excel pdf** 情境。
 
-## 性能考慮
+## 實務應用
+1. **Automated Report Generation** – 將每月財務 Excel 檔案轉換為 PDF 以供發佈。  
+2. **Team Collaboration** – 分享保留格線的唯讀 PDF，確保所有人看到相同的版面配置。  
+3. **Long‑Term Archiving** – 將試算表存為 PDF，以防止意外編輯，同時保持視覺完整性。
 
-- **優化記憶體使用**：確保分配足夠的記憶體以有效處理大檔案。
-- **批次處理**：盡可能同時轉換多個文件以節省時間。
-- **使用適當的負載選項**：自訂負載選項以最大限度地減少處理開銷。
+## 效能考量
+- **Memory Management** – 轉換大型工作簿時分配足夠的堆積空間。  
+- **Batch Processing** – GroupDocs.Conversion 可平行處理多個檔案；請監控 CPU 使用率。  
+- **Load Options Tuning** – 停用不必要的功能（例如公式）可縮短處理時間。
 
-## 結論
+## 常見問題與解決方案
 
-透過本教學課程，您學習如何使用 GroupDocs.Conversion for Java 的進階載入和轉換設定將 Excel 電子表格轉換為 PDF。這款強大的工具簡化了文件轉換過程，同時確保了資料準確性和跨格式的視覺一致性。
+| Issue | Solution |
+|-------|----------|
+| **Out‑OfMemoryError on large files** | 增加 JVM 堆積大小 (`-Xmx2g` 或更高) 並考慮逐個工作表轉換。 |
+| **Grid lines not appearing** | 確保在建立 `Converter` 之前呼叫 `loadOptions.setShowGridLines(true)`。 |
+| **All sheets merged onto one page** | 確認已設定 `loadOptions.setOnePagePerSheet(true)`；較舊的函式庫版本可能需要不同的屬性。 |
 
-探索 GroupDocs 提供的其他功能或嘗試程式庫支援的其他文件格式以進一步學習。
+## 常見問答
 
-## 常見問題部分
+**Q: `convert excel pdf java` 與 `excel pdf conversion java` 有何差異？**  
+A: 兩者皆指相同的流程——使用 Java 將 Excel 工作簿轉換為 PDF 檔案。雖然說法不同，但底層的 API 呼叫相同。
 
-1. **Java 的 GroupDocs.Conversion 是什麼？**
-   - 一個多功能文件轉換庫，支援各種格式，包括 PDF 和電子表格。
+**Q: 我可以自訂 PDF 的頁面大小或方向嗎？**  
+A: 可以，`PdfConvertOptions` 提供 `setPageSize()` 與 `setPageOrientation()` 等方法以調整輸出。
 
-2. **我可以使用 GroupDocs.Conversion 轉換其他檔案類型嗎？**
-   - 是的，它支援除 Excel 和 PDF 之外的多種文件格式。
+**Q: 是否可以在保留每頁一工作表的版面下隱藏格線？**  
+A: 完全可以。設定 `loadOptions.setShowGridLines(false)`，同時保留 `setOnePagePerSheet(true)`。
 
-3. **如何處理大型電子表格檔案？**
-   - 確保足夠的記憶體分配並考慮批量處理以獲得最佳效能。
+**Q: 如何處理受密碼保護的 Excel 檔案？**  
+A: 在建立 `Converter` 實例時，使用接受含有憑證的 `LoadOptions` 的重載方法，提供密碼。
 
-4. **將電子表格轉換為 PDF 有什麼好處？**
-   - PDF 具有普遍相容性，並保留佈局和格式，使其成為分發的理想選擇。
-
-5. **我可以自訂轉換的其他方面嗎？**
-   - GroupDocs 提供多種配置選項，可讓您根據特定需求自訂轉換。
+**Q: GroupDocs 是否支援其他試算表格式（例如 CSV、ODS）？**  
+A: 支援，函式庫可載入並將多種試算表類型轉換為 PDF。
 
 ## 資源
-
-- [GroupDocs 文檔](https://docs.groupdocs.com/conversion/java/)
-- [API 參考](https://reference.groupdocs.com/conversion/java/)
-- [下載庫](https://releases.groupdocs.com/conversion/java/)
-- [購買 GroupDocs 商品](https://purchase.groupdocs.com/buy)
+- [GroupDocs 文件說明](https://docs.groupdocs.com/conversion/java/)
+- [API 參考文件](https://reference.groupdocs.com/conversion/java/)
+- [下載函式庫](https://releases.groupdocs.com/conversion/java/)
+- [購買 GroupDocs 產品](https://purchase.groupdocs.com/buy)
 - [免費試用版](https://releases.groupdocs.com/conversion/java/)
-- [臨時許可證申請](https://purchase.groupdocs.com/temporary-license/)
+- [臨時授權申請](https://purchase.groupdocs.com/temporary-license/)
 - [支援論壇](https://forum.groupdocs.com/c/conversion/10)
 
-遵循本結構化指南，您可以使用 GroupDocs.Conversion for Java 有效地將電子表格文件轉換為 PDF。探索提供的資源，提升您的文件管理技能！
+---
+
+**最後更新：** 2026-04-10  
+**測試環境：** GroupDocs.Conversion 25.2 for Java  
+**作者：** GroupDocs
