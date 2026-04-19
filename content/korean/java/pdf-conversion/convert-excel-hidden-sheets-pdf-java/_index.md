@@ -1,46 +1,45 @@
 ---
-"date": "2025-04-28"
-"description": "Java와 GroupDocs.Conversion을 사용하여 숨겨진 시트를 포함한 Excel 스프레드시트를 PDF 파일로 변환하는 방법을 알아보세요. 이 단계별 가이드를 따라 문서를 원활하게 변환하세요."
-"title": "Java와 GroupDocs.Conversion을 사용하여 숨겨진 시트가 있는 Excel 파일을 PDF로 변환하는 방법"
-"url": "/ko/java/pdf-conversion/convert-excel-hidden-sheets-pdf-java/"
-"weight": 1
+date: '2026-01-08'
+description: Java를 사용하여 숨겨진 시트가 포함된 Excel 파일을 PDF로 변환하고 시트당 한 페이지가 되도록 하는 방법을 배워보세요.
+  GroupDocs.Conversion과 함께하는 단계별 가이드를 따라가세요.
+keywords:
+- convert Excel to PDF
+- Java document conversion
+- GroupDocs.Conversion for Java
+title: '시트당 한 페이지: Excel 숨김 시트를 PDF로 변환 (Java)'
 type: docs
+url: /ko/java/pdf-conversion/convert-excel-hidden-sheets-pdf-java/
+weight: 1
 ---
-# Java와 GroupDocs.Conversion을 사용하여 숨겨진 시트가 있는 Excel 파일을 PDF로 변환하는 방법
 
-## 소개
+# 시트당 한 페이지: Excel 숨김 시트를 PDF로 변환 (Java)
 
-Excel 파일을 PDF로 변환할 때 모든 스프레드시트 데이터, 특히 숨겨진 시트를 포함하는 데 어려움을 겪고 계신가요? 이 튜토리얼에서는 **Java용 GroupDocs.Conversion** 숨겨진 시트를 포함한 스프레드시트를 한 페이지당 한 장의 PDF 형식으로 변환합니다. 이 기능을 사용하면 문서 변환 중에 중요한 정보가 누락되지 않습니다.
+Excel 워크북을 PDF로 변환하면서 모든 시트(숨겨진 시트 포함)를 보존하는 것은 어려울 수 있습니다. 이 튜토리얼에서는 **GroupDocs.Conversion for Java**를 사용한 **시트당 한 페이지** 변환 방법을 배워 데이터가 누락되지 않도록 합니다. 설정, 구성, 필요한 정확한 코드와 이 접근 방식이 빛을 발하는 실제 시나리오를 단계별로 안내합니다.
 
-### 배울 내용:
-- 프로젝트에서 Java용 GroupDocs.Conversion을 설정하는 방법
-- PDF로 변환할 때 숨겨진 Excel 시트를 포함하는 단계
-- 주요 구성 옵션 및 그 용도
-- 이 기능의 실제 응용 프로그램
+## 빠른 답변
+- **숨김 시트를 포함할 수 있나요?** 예—`setShowHiddenSheets(true)` 설정.
+- **몇 개의 PDF 페이지가 생성되나요?** `setOnePagePerSheet(true)`를 사용하면 시트당 한 페이지가 생성됩니다.
+- **필요한 Java 버전은?** JDK 8 이상.
+- **라이선스가 필요합니까?** 테스트용 무료 체험이 가능하며, 운영 환경에서는 상용 라이선스가 필요합니다.
+- **Maven이 유일한 빌드 도구인가요?** 예제는 Maven을 사용하지만 Gradle도 동일하게 사용할 수 있습니다.
 
-시작하기에 앞서 필요한 전제 조건을 살펴보겠습니다.
+## “시트당 한 페이지”란 무엇인가요?
+**시트당 한 페이지** 옵션은 변환기가 Excel 파일의 각 워크시트를 별개의 PDF 페이지에 렌더링하도록 지시합니다. 이 레이아웃은 보고서, 감사 및 원본 워크북을 페이지별로 명확히 확인해야 하는 모든 상황에 이상적입니다.
 
-## 필수 조건
+## 왜 GroupDocs.Conversion for Java를 사용하나요?
+- **전체 제어**: 숨김 콘텐츠, 페이지 레이아웃 및 출력 형식에 대한 완전한 제어.
+- **크로스‑플랫폼**: Windows, Linux, macOS와 호환.
+- **외부 Office 설치 불필요**: 순수 Java 라이브러리.
+- **강력한 라이선스** 옵션: 체험, 임시 또는 영구 사용 가능.
 
-시작하기 전에 다음 사항이 있는지 확인하세요.
+## 전제 조건
+- **Java Development Kit (JDK) 8+**
+- **Maven** (의존성 관리용)
+- **GroupDocs.Conversion for Java** (버전 25.2 이상)
+- Java 및 Maven에 대한 기본 지식
 
-### 필수 라이브러리 및 종속성:
-- **Java용 GroupDocs.Conversion**: 버전 25.2 이상
-- 종속성을 관리하기 위해 Maven이 설치됨
-
-### 환경 설정 요구 사항:
-- Java Development Kit(JDK) 버전 8 이상
-- IntelliJ IDEA 또는 Eclipse와 같은 통합 개발 환경(IDE)
-
-### 지식 전제 조건:
-- Java 프로그래밍에 대한 기본 이해
-- 종속성 관리를 위한 Maven에 대한 지식
-
-## Java용 GroupDocs.Conversion 설정
-
-시작하려면 Maven을 사용하여 Java 프로젝트에 GroupDocs.Conversion을 설정하세요. 이 설정에는 필요한 저장소와 종속성을 추가하는 작업이 포함됩니다. `pom.xml` 파일:
-
-**Maven 설정:**
+## GroupDocs.Conversion for Java 설정
+`pom.xml`에 GroupDocs 저장소와 의존성을 추가합니다. 이 단계는 Maven이 필요한 라이브러리를 다운로드할 수 있게 합니다.
 
 ```xml
 <repositories>
@@ -60,107 +59,103 @@ Excel 파일을 PDF로 변환할 때 모든 스프레드시트 데이터, 특히
 </dependencies>
 ```
 
-### 라이센스 취득:
-GroupDocs.Conversion을 사용하려면 무료 평가판을 통해 기능을 평가해 보세요. 계속 사용하려면 임시 라이선스를 구매하거나 다음에서 정식 버전을 구매하는 것이 좋습니다. [GroupDocs 구매](https://purchase.groupdocs.com/buy).
+### 라이선스 획득
+API를 평가하려면 무료 체험으로 시작하세요. 운영 환경에서는 라이선스가 필요합니다—공식 스토어에서 구입하세요:
 
-#### 기본 초기화 및 설정:
-1. **필수 패키지 가져오기:**
-   변환에 필요한 클래스를 가져와야 합니다.
-2. **변환기 인스턴스 생성:**
-   소스 문서 경로와 로드 옵션을 초기화합니다.
+[GroupDocs 구매](https://purchase.groupdocs.com/buy)
 
 ## 구현 가이드
+아래는 숨김 시트를 포함한 Excel 파일을 각 시트가 별도 페이지에 표시되는 PDF로 변환하는 완전하고 실행 가능한 Java 코드입니다.
 
-이제 GroupDocs.Conversion을 설정했으니 숨겨진 시트를 포함한 Excel 스프레드시트를 PDF로 변환하는 기능을 구현해 보겠습니다.
-
-### 기능 개요
-이 기능을 사용하면 일반적인 사용 중에는 숨겨진 시트를 포함하여 Excel 파일의 모든 시트를 PDF 출력에 포함할 수 있습니다. 특히 모든 세부 사항이 중요한 종합적인 보고 및 문서화 작업에 유용합니다.
-
-#### 1단계: 소스 문서 경로 정의
-숨겨진 시트가 포함된 소스 스프레드시트의 경로를 지정합니다.
+### 단계 1: 소스 문서 경로 정의
+숨김 워크시트가 포함된 Excel 워크북을 변환기에 지정합니다.
 
 ```java
 String sourceDocumentPath = "YOUR_DOCUMENT_DIRECTORY/SAMPLE_XLSX_WITH_HIDDEN_SHEET";
 ```
 
-#### 2단계: 로드 옵션 구성
-여기에서는 숨겨진 시트가 포함되도록 로드 옵션을 설정합니다.
+### 단계 2: 로드 옵션 구성
+숨김 시트 처리와 시트당 한 페이지 레이아웃을 활성화합니다.
 
 ```java
 SpreadsheetsLoadOptions loadOptions = new SpreadsheetsLoadOptions();
-loadOptions.setShowHiddenSheets(true); // 숨겨진 시트 포함
-loadOptions.setOnePagePerSheet(true);   // PDF 출력에서 시트당 한 페이지
+loadOptions.setShowHiddenSheets(true); // Include hidden sheets
+loadOptions.setOnePagePerSheet(true);   // One page per sheet in PDF output
 ```
 
-#### 3단계: 변환기 초기화
-지정한 소스 문서와 로드 옵션으로 변환기 인스턴스를 만듭니다.
+### 단계 3: 변환기 초기화
+소스 경로와 로드 옵션을 사용해 `Converter` 인스턴스를 생성합니다.
 
 ```java
 Converter converter = new Converter(sourceDocumentPath, () -> loadOptions);
 ```
 
-#### 4단계: 변환 옵션 설정
-PDF로 출력하기 위한 변환 설정을 구성하세요.
+### 단계 4: 변환 옵션 설정
+PDF 변환 구성을 준비합니다.
 
 ```java
 PdfConvertOptions convertOptions = new PdfConvertOptions();
 ```
 
-#### 5단계: 변환 수행
-변환 과정을 실행하고 원하는 위치에 결과를 저장합니다.
+### 단계 5: 변환 수행
+변환을 실행하고 PDF를 원하는 위치에 기록합니다.
 
 ```java
 String outputFilePath = "YOUR_OUTPUT_DIRECTORY/ConvertSpreadsheetWithHiddenSheetsIncluded.pdf";
 converter.convert(outputFilePath, convertOptions);
 ```
 
-### 주요 구성 옵션:
-- `setShowHiddenSheets(true)`: 숨겨진 시트가 처리되도록 합니다.
-- `setOnePagePerSheet(true)`: 각 시트를 별도의 PDF 페이지로 변환합니다.
+#### 주요 구성 요약
+- `setShowHiddenSheets(true)`: 숨김 워크시트를 변환기에 표시합니다.
+- `setOnePagePerSheet(true)`: 각 워크시트마다 별도의 PDF 페이지를 보장합니다.
 
-#### 문제 해결 팁:
-- 파일을 찾을 수 없다는 오류가 발생하지 않도록 소스 파일 경로가 올바르게 지정되었는지 확인하세요.
-- 종속성 문제가 발생하는 경우 Maven 설정에서 버전이 올바른지 확인하세요.
+#### 문제 해결 팁
+- **파일을 찾을 수 없음 오류:** 제공한 절대 경로나 상대 경로를 다시 확인하세요.
+- **의존성 충돌:** Maven 좌표가 설치한 버전과 일치하는지 확인하세요.
+- **대용량 워크북 메모리 문제:** `OutOfMemoryError`가 발생하면 JVM 힙 크기(`-Xmx`)를 늘리세요.
 
-## 실제 응용 프로그램
-숨겨진 시트가 있는 Excel 파일을 변환하는 것이 유익한 실제 사용 사례는 다음과 같습니다.
-1. **재무 보고**: 스프레드시트의 모든 데이터, 숨겨진 세부 정보까지 포함하면 포괄적인 보고서가 보장됩니다.
-2. **데이터 감사**: 숨겨진 정보를 생략하지 않고 보관 목적으로 전체 데이터 세트를 변환합니다.
-3. **프로젝트 문서**: PDF 출력에 모든 시트를 포함시켜 완벽한 문서를 유지합니다.
+## 실용적인 적용 사례
+1. **재무 보고:** 숨김 계산 시트를 포함한 전체 워크북을 PDF로 내보내 감사 기록을 남깁니다.  
+2. **데이터 감사:** 스프레드시트를 보관할 때 모든 숨김 데이터 세트를 보존합니다.  
+3. **프로젝트 문서화:** 이해관계자 검토를 위해 원본 Excel 레이아웃을 그대로 반영한 깔끔한 페이지별 PDF를 생성합니다.
 
 ## 성능 고려 사항
-대용량 Excel 파일이나 여러 시트로 작업할 때 다음 팁을 고려하세요.
-- Java에서 리소스를 효과적으로 관리하여 메모리 사용을 최적화합니다.
-- 효율적인 데이터 구조와 알고리즘을 사용하여 대규모 데이터 세트를 처리합니다.
-- 정기적으로 애플리케이션 성능을 모니터링하고 필요에 따라 조정하세요.
+- **대용량 워크북:** 병목을 피하려면 시트를 배치로 처리하거나 힙 메모리를 늘리세요.  
+- **스트리밍 출력:** 웹 서비스에서 실시간 생성을 위해 `converter.convert(OutputStream, convertOptions)`를 사용합니다.  
+- **리소스 정리:** 변환 후 `converter.close()`를 호출해 네이티브 리소스를 해제합니다.
 
 ## 결론
-축하합니다! GroupDocs.Conversion for Java를 사용하여 숨겨진 시트가 있는 Excel 스프레드시트를 PDF로 변환하는 방법을 알아보았습니다. 다음 단계를 따르면 문서 변환 시 중요한 정보가 모두 반영되도록 할 수 있습니다.
+이제 GroupDocs.Conversion for Java를 사용해 숨김 시트를 포함한 Excel 워크북을 **시트당 한 페이지**로 변환하는 방법을 마스터했습니다. 이 기술은 모든 데이터가 최종 PDF에 포함되도록 보장하여 보고서, 감사 및 문서화에 대한 신뢰를 제공합니다.
 
-### 다음 단계:
-- GroupDocs가 제공하는 추가 변환 기능을 시험해 보세요.
-- 이 기능을 대규모 애플리케이션이나 워크플로에 통합하는 방법을 살펴보세요.
-
-이 솔루션을 구현하여 데이터 관리 프로세스가 어떻게 향상되는지 확인해 보시기 바랍니다. 
+### 다음 단계
+- 추가 `PdfConvertOptions`(예: 이미지 압축, PDF/A 준수) 실험하기.  
+- 이 변환 흐름을 더 큰 Java 서비스나 Spring Boot 애플리케이션에 통합하기.  
+- 유사한 숨김 콘텐츠 처리와 함께 다른 형식(Word, PowerPoint) 탐색하기.
 
 ## FAQ 섹션
 
-1. **숨겨진 시트를 변환하면 어떤 이점이 있나요?**
-   - 중요한 세부 사항을 놓치지 않고 포괄적인 문서화를 보장합니다.
-2. **GroupDocs.Conversion을 사용하여 다른 파일 형식을 변환할 수 있나요?**
-   - 네, Excel과 PDF 외에도 다양한 형식을 지원합니다.
-3. **변환 오류를 어떻게 해결할 수 있나요?**
-   - 파일 경로를 확인하고, 종속성에서 올바른 버전을 유지하고, 특정 오류 코드에 대한 설명서를 참조하세요.
-4. **변환할 수 있는 시트 수에 제한이 있나요?**
-   - 일반적으로는 그렇지 않지만, 시스템 리소스에 따라 성능이 달라질 수 있습니다.
-5. **GroupDocs.Conversion은 대용량 Excel 파일을 어떻게 처리하나요?**
-   - 메모리 사용을 효율적으로 관리하고 Java 애플리케이션을 최적화하여 성능을 향상시킵니다.
+1. **숨김 시트를 변환하는 이점은 무엇인가요?**  
+   - 중요한 세부 정보를 놓치지 않고 포괄적인 문서를 보장합니다.  
+2. **GroupDocs.Conversion으로 다른 파일 형식을 변환할 수 있나요?**  
+   - 예, Excel 및 PDF 외에도 다양한 형식을 지원합니다.  
+3. **변환 오류를 어떻게 해결하나요?**  
+   - 파일 경로를 확인하고 Maven 의존성 버전을 확인한 뒤, 오류 코드에 대한 공식 문서를 참고하세요.  
+4. **변환 가능한 시트 수에 제한이 있나요?**  
+   - 일반적으로 제한은 없지만, 매우 큰 워크북은 더 많은 메모리가 필요할 수 있습니다.  
+5. **GroupDocs.Conversion은 대용량 Excel 파일을 어떻게 처리하나요?**  
+   - 효율적인 스트리밍 및 메모리 관리 기법을 사용하며, JVM 설정을 추가로 조정할 수 있습니다.
 
-## 자원
-- [선적 서류 비치](https://docs.groupdocs.com/conversion/java/)
-- [API 참조](https://reference.groupdocs.com/conversion/java/)
+## 리소스
+- [문서](https://docs.groupdocs.com/conversion/java/)
+- [API 레퍼런스](https://reference.groupdocs.com/conversion/java/)
 - [다운로드](https://releases.groupdocs.com/conversion/java/)
-- [구입](https://purchase.groupdocs.com/buy)
+- [구매](https://purchase.groupdocs.com/buy)
 - [무료 체험](https://releases.groupdocs.com/conversion/java/)
-- [임시 면허](https://purchase.groupdocs.com/temporary-license/)
-- [지원하다](https://forum.groupdocs.com/c/conversion/10)
+- [임시 라이선스](https://purchase.groupdocs.com/temporary-license/)
+- [지원](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**마지막 업데이트:** 2026-01-08  
+**테스트 환경:** GroupDocs.Conversion 25.2 for Java  
+**작성자:** GroupDocs
