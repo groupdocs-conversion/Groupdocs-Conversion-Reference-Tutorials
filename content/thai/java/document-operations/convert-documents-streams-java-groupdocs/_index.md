@@ -1,47 +1,47 @@
 ---
-date: '2025-12-21'
-description: เรียนรู้วิธีแปลงไฟล์ DOCX เป็น PDF จากสตรีมโดยใช้ GroupDocs.Conversion
-  สำหรับ Java เหมาะสำหรับแอปพลิเคชันเว็บและการจัดการข้อยกเว้นไฟล์ไม่พบ
+date: '2026-03-24'
+description: เรียนรู้การแปลงสตรีมใน Java เพื่อแปลง DOCX เป็น PDF ด้วย GroupDocs.Conversion
+  สำหรับ Java เหมาะสำหรับเว็บแอปและการจัดการข้อยกเว้นไฟล์ไม่พบ.
 keywords:
 - convert docx to pdf
 - how to convert stream
 - handle file notfound exception
 - load document from stream
 - GroupDocs.Conversion for Java
-title: แปลง DOCX เป็น PDF จากสตรีมใน Java ด้วย GroupDocs
+title: การแปลงสตรีม Java – DOCX เป็น PDF ด้วย GroupDocs
 type: docs
 url: /th/java/document-operations/convert-documents-streams-java-groupdocs/
 weight: 1
 ---
 
-# แปลง DOCX เป็น PDF จาก Streams ใน Java ด้วย GroupDocs
+# การแปลงสตรีม Java – DOCX เป็น PDF ด้วย GroupDocs
 
-คุณกำลังมองหา **การแปลง DOCX เป็น PDF** โดยตรงจาก streams ในแอปพลิเคชัน Java ของคุณหรือไม่? ความต้องการนี้มักเกิดขึ้นเมื่อจัดการไฟล์ที่ไม่ได้อยู่บนดิสก์โดยตรง—เช่น การอัปโหลดจากฟอร์มเว็บหรือข้อมูลที่รับมาจากการเชื่อมต่อเครือข่าย ในบทแนะนำนี้คุณจะได้เรียนรู้วิธีโหลดเอกสารจาก stream, จัดการ `FileNotFoundException` ที่อาจเกิดขึ้น, และสร้าง PDF ด้วย GroupDocs.Conversion สำหรับ Java
+คุณกำลังมองหา **convert DOCX to PDF** โดยใช้ **java stream conversion** โดยตรงจากสตรีมในแอปพลิเคชัน Java ของคุณหรือไม่? ความต้องการทั่วไปนี้เกิดขึ้นเมื่อจัดการไฟล์ที่ไม่พร้อมใช้งานบนดิสก์—เช่นการอัปโหลดจากฟอร์มเว็บหรือข้อมูลที่ได้รับผ่านการเชื่อมต่อเครือข่าย ในบทเรียนนี้คุณจะได้เรียนรู้วิธีโหลดเอกสารจากสตรีม, จัดการ `FileNotFoundException` ที่อาจเกิดขึ้น, และสร้าง PDF ด้วย GroupDocs.Conversion for Java.
 
-## คำตอบสั้น
+## คำตอบอย่างรวดเร็ว
+- **What does “convert DOCX to PDF from streams” mean?** หมายถึงการอ่านไฟล์ DOCX จาก `InputStream` และเขียน PDF ที่แปลงแล้วโดยตรงไปยังไฟล์หรือสตรีมอื่นโดยไม่ต้องบันทึก DOCX ดั้งเดิมบนดิสก์  
+- **Which library handles the conversion?** GroupDocs.Conversion for Java ให้ API ที่ง่ายสำหรับการแปลงแบบ stream‑based  
+- **Do I need a license for production?** ใช่, จำเป็นต้องมีลิขสิทธิ์เชิงพาณิชย์สำหรับการใช้งานในสภาพแวดล้อมจริง; มีการทดลองใช้งานฟรีสำหรับการประเมินผล  
+- **How do I handle a missing source file?** ห่อการสร้าง `FileInputStream` ด้วยบล็อก try‑catch และจัดการ `FileNotFoundException` อย่างเหมาะสม  
 
-- **“การแปลง DOCX เป็น PDF จาก streams” หมายถึงอะไร?** หมายถึงการอ่านไฟล์ DOCX จาก `InputStream` แล้วเขียน PDF ที่แปลงแล้วโดยตรงไปยังไฟล์หรือ stream อื่นโดยไม่ต้องบันทึก DOCX ดั้งเดิมบนดิสก์  
-- **ไลบรารีที่ทำการแปลงคืออะไร?** GroupDocs.Conversion สำหรับ Java มี API ที่ง่ายต่อการแปลงแบบใช้ stream  
-- **ต้องมีลิขสิทธิ์สำหรับการใช้งานใน production หรือไม่?** ต้องมีลิขสิทธิ์เชิงพาณิชย์สำหรับการใช้งานใน production; มีรุ่นทดลองฟรีสำหรับการประเมินผล  
-- **จะจัดการไฟล์ต้นทางที่หายไปอย่างไร?** ห่อการสร้าง `FileInputStream` ด้วยบล็อก try‑catch และจัดการ `FileNotFoundException` อย่างเหมาะสม  
+## java stream conversion คืออะไร?
+Java stream conversion หมายถึงกระบวนการรับข้อมูลจาก `InputStream` (หรือ `OutputStream`) แล้วแปลงเป็นรูปแบบอื่นโดยไม่ต้องบันทึกไฟล์ชั่วคราวบนดิสก์ ในบริบทของการจัดการเอกสาร, มันทำให้คุณ **how to convert docx** ไฟล์เป็น PDF, รูปภาพ หรือรูปแบบอื่น ๆ พร้อมรักษาการใช้หน่วยความจำน้อยและหลีกเลี่ยงไฟล์ชั่วคราว
 
-## บทนำ
-
-การแปลง DOCX เป็น PDF จาก streams มีประโยชน์เป็นพิเศษในแอปพลิเคชันเว็บที่คุณต้องการหลีกเลี่ยงไฟล์ชั่วคราว, ลดภาระ I/O, และทำให้กระบวนการใช้หน่วยความจำอย่างมีประสิทธิภาพ ด้านล่างเราจะเดินผ่านการตั้งค่าครบถ้วน ตั้งแต่การกำหนดค่า Maven จนถึงเมธอด Java ที่สามารถรันได้ซึ่งทำการแปลง
+## ทำไมต้องใช้ java stream conversion?
+- **Performance:** ลดการดำเนินการ I/O เพิ่มเติมที่เกี่ยวข้องกับการเขียน DOCX ต้นฉบับลงดิสก์ก่อน  
+- **Security:** ลดพื้นที่เสี่ยงสำหรับเอกสารที่สำคัญเนื่องจากไม่เคยสัมผัสกับระบบไฟล์  
+- **Scalability:** เหมาะสำหรับสถาปัตยกรรม cloud‑native หรือ microservice ที่ต้องการการประมวลผลแบบไม่มีสถานะ  
 
 ## ข้อกำหนดเบื้องต้น
-
 - **Java Development Kit (JDK)** 8 หรือสูงกว่า  
 - **Maven** สำหรับการจัดการ dependencies  
 - ความเข้าใจพื้นฐานเกี่ยวกับ **Java streams** (เช่น `InputStream`, `FileInputStream`)  
 
 ### การตั้งค่าสภาพแวดล้อม
+เพื่อทำงานกับ GroupDocs.Conversion for Java, ก่อนอื่นให้เพิ่มไลบรารีลงในโปรเจกต์ Maven ของคุณ
 
-เพื่อใช้งาน GroupDocs.Conversion สำหรับ Java ก่อนอื่นให้เพิ่มไลบรารีลงในโปรเจกต์ Maven ของคุณ
-
-## การตั้งค่า GroupDocs.Conversion สำหรับ Java
-
-เพิ่ม repository ของ GroupDocs และ dependency ของ conversion ลงในไฟล์ `pom.xml` ของคุณ:
+## การตั้งค่า GroupDocs.Conversion for Java
+เพิ่มรีโพซิทอรีของ GroupDocs และ dependency การแปลงลงในไฟล์ `pom.xml` ของคุณ:
 
 ```xml
 <repositories>
@@ -62,19 +62,15 @@ weight: 1
 ```
 
 ### การรับลิขสิทธิ์
-
-คุณสามารถเริ่มต้นด้วยรุ่นทดลองฟรีเพื่อสำรวจ GroupDocs.Conversion สำหรับ Java สำหรับการใช้งานใน production ให้ซื้อไลเซนส์หรือขอไลเซนส์ชั่วคราวสำหรับการทดสอบที่ขยายเวลา
+คุณสามารถเริ่มต้นด้วยการทดลองใช้งานฟรีเพื่อสำรวจ GroupDocs.Conversion for Java. สำหรับการใช้งานในสภาพแวดล้อมจริง, ซื้อไลเซนส์หรือขอไลเซนส์ชั่วคราวสำหรับการทดสอบเพิ่มเติม
 
 ## คู่มือการทำงาน
+ด้านล่างเป็นขั้นตอนแบบละเอียดที่แสดง **how to convert a DOCX file to PDF from a stream**.
 
-ด้านล่างเป็นขั้นตอนแบบทีละขั้นที่แสดง **วิธีแปลงไฟล์ DOCX เป็น PDF จาก stream**  
-
-### โหลดเอกสารจาก Stream
-
-ฟีเจอร์นี้ช่วยให้คุณแปลงเอกสารโดยตรงจาก input stream โดยไม่ต้องเก็บไว้บนดิสก์ก่อน
+### โหลดเอกสารจากสตรีม
+ฟีเจอร์นี้ทำให้คุณสามารถแปลงเอกสารโดยตรงจาก input streams โดยไม่ต้องเก็บไว้บนดิสก์ก่อน
 
 #### ขั้นตอนที่ 1: นำเข้าแพ็กเกจที่จำเป็น
-
 ```java
 import com.groupdocs.conversion.Converter;
 import com.groupdocs.conversion.exceptions.GroupDocsConversionException;
@@ -85,7 +81,6 @@ import java.io.FileNotFoundException;
 ```
 
 #### ขั้นตอนที่ 2: กำหนดเมธอดการแปลง
-
 ```java
 public class LoadDocumentFromStream {
     public static void run() {
@@ -117,64 +112,55 @@ public class LoadDocumentFromStream {
 ```
 
 #### คำอธิบาย
+- **Converter Initialization** – คลาส `Converter` ถูกสร้างด้วย lambda ที่คืนค่า `FileInputStream`. รูปแบบนี้ทำให้คุณสามารถส่ง `InputStream` ใด ๆ (เช่นจาก HTTP request) ไปยังเอนจินการแปลงได้.  
+- **Handling `FileNotFoundException`** – Lambda จะจับ `FileNotFoundException` แล้วโยนใหม่เป็น `RuntimeException` พร้อมข้อความที่ชัดเจน, ตรงกับคีย์เวิร์ดรอง *handle file notfound exception*.  
+- **PDF Conversion Options** – `PdfConvertOptions` ให้คุณปรับแต่ง PDF ที่ส่งออก (เช่น ขนาดหน้า, การบีบอัด). การตั้งค่าเริ่มต้นทำงานได้ในหลายสถานการณ์.  
 
-- **การเริ่มต้น Converter** – คลาส `Converter` ถูกสร้างด้วย lambda ที่คืนค่า `FileInputStream` รูปแบบนี้ทำให้คุณส่ง `InputStream` ใด ๆ (เช่น จาก HTTP request) ไปยังเอนจินการแปลงได้  
-- **การจัดการ `FileNotFoundException`** – Lambda จะจับ `FileNotFoundException` แล้วโยนใหม่เป็น `RuntimeException` พร้อมข้อความที่ชัดเจน เพื่อตอบสนองคีย์เวิร์ดรอง *handle file notfound exception*  
-- **ตัวเลือกการแปลงเป็น PDF** – `PdfConvertOptions` ให้คุณปรับแต่ง PDF ที่ออก (เช่น ขนาดหน้า, การบีบอัด) การตั้งค่าเริ่มต้นทำงานได้ดีในหลายกรณี  
+### ปัญหาทั่วไปและวิธีแก้
+- **Incorrect file paths** – ตรวจสอบเส้นทางไฟล์ DOCX ต้นฉบับและไดเรกทอรีผลลัพธ์อีกครั้ง; การพิมพ์ผิดจะทำให้เกิด `FileNotFoundException`.  
+- **Conversion failures** – หากพบ `GroupDocsConversionException`, ตรวจสอบ inner exception เพื่อดูรายละเอียดเช่นรูปแบบที่ไม่รองรับ.  
+- **Large documents** – ห่อ `FileInputStream` ด้วย `BufferedInputStream` เพื่อปรับปรุงประสิทธิภาพ I/O.  
 
-### เคล็ดลับการแก้ปัญหา
+## การประยุกต์ใช้งานจริง
+การแปลง DOCX เป็น PDF จากสตรีมโดยใช้ GroupDocs.Conversion มีคุณค่าในหลายสถานการณ์จริง:
+1. **Web Application File Handling** – แปลงไฟล์ DOCX ที่ผู้ใช้อัปโหลดเป็น PDF ทันทีโดยไม่ต้องบันทึกไฟล์ต้นฉบับ.  
+2. **Network Data Processing** – แปลงเอกสารที่รับมาจาก socket หรือ REST API โดยตรงจากสตรีม.  
+3. **Batch Processing Systems** – ส่งคิวของ input streams ไปยัง worker การแปลงที่สร้าง PDF เป็นชุด.  
 
-- ตรวจสอบว่า **พาธของไฟล์ DOCX ต้นทาง** และ **ไดเรกทอรีผลลัพธ์** ถูกต้อง; การพิมพ์ผิดจะทำให้เกิด `FileNotFoundException`  
-- หากคุณได้รับ `GroupDocsConversionException` ให้ตรวจสอบข้อความของ inner exception เพื่อหาสาเหตุ (เช่น รูปแบบไฟล์ที่ไม่รองรับ)  
-- สำหรับเอกสารขนาดใหญ่ ควรห่อ `FileInputStream` ด้วย `BufferedInputStream` เพื่อเพิ่มประสิทธิภาพ I/O  
+## ข้อควรพิจารณาด้านประสิทธิภาพ
+- **Buffered I/O** – ห่อสตรีมด้วย `BufferedInputStream` สำหรับไฟล์ขนาดใหญ่เพื่อลดภาระการอ่าน.  
+- **Memory Management** – ปล่อยอินสแตนซ์ `Converter` ทันทีหลังการแปลงเพื่อคืนทรัพยากร native.  
+- **Thread Safety** – สร้าง `Converter` แยกต่อแต่ละเธรด; คลาสนี้ไม่ปลอดภัยต่อการใช้หลายเธรดพร้อมกัน.  
 
-## การประยุกต์ใช้ในเชิงปฏิบัติ
+## คำถามที่พบบ่อย
+**Q: How do I convert a DOCX file that is stored in a database BLOB?**  
+A: ดึง BLOB เป็น `InputStream` แล้วส่งให้ lambda ของ `Converter` ตามที่แสดงในตัวอย่าง  
 
-การแปลง DOCX เป็น PDF จาก streams ด้วย GroupDocs.Conversion มีคุณค่าในหลายสถานการณ์จริง:
+**Q: What if the source stream is large (hundreds of MB)?**  
+A: ใช้ `BufferedInputStream` และพิจารณาประมวลผลการแปลงใน background thread เพื่อหลีกเลี่ยงการบล็อกการทำงานหลักของแอปพลิเคชัน  
 
-1. **การจัดการไฟล์ในเว็บแอปพลิเคชัน** – แปลงไฟล์ DOCX ที่ผู้ใช้อัปโหลดเป็น PDF ทันทีโดยไม่ต้องบันทึกไฟล์ต้นฉบับ  
-2. **การประมวลผลข้อมูลจากเครือข่าย** – แปลงเอกสารที่รับมาจาก socket หรือ REST API โดยตรงจาก stream  
-3. **ระบบประมวลผลแบบแบตช์** – ส่งคิวของ input stream ให้กับ worker ที่ทำการแปลงเป็น PDF จำนวนมาก  
+**Q: Does GroupDocs.Conversion support password‑protected documents?**  
+A: ใช่. คุณสามารถส่งรหัสผ่านผ่าน `LoadOptions` เมื่อสร้าง `Converter`.  
 
-## พิจารณาด้านประสิทธิภาพ
+**Q: Can I convert directly to an `OutputStream` instead of a file path?**  
+A: API ปัจจุบันส่วนใหญ่เขียนไปยังเส้นทางไฟล์, แต่คุณสามารถเขียนไปยังไฟล์ชั่วคราวแล้วสตรีมกลับ, หรือใช้ overload ของ `convert` ที่รับ `ByteArrayOutputStream`.  
 
-- **Buffered I/O** – ห่อ stream ด้วย `BufferedInputStream` สำหรับไฟล์ขนาดใหญ่เพื่อลดภาระการอ่าน  
-- **การจัดการหน่วยความจำ** – ปล่อยอ็อบเจกต์ `Converter` ทันทีหลังการแปลงเพื่อคืนทรัพยากร native  
-- **ความปลอดภัยของเธรด** – สร้าง `Converter` แยกสำหรับแต่ละเธรด; คลาสนี้ไม่รองรับการใช้งานหลายเธรดพร้อมกัน  
-
-## สรุป
-
-ในบทแนะนำนี้คุณได้เรียนรู้วิธี **แปลง DOCX เป็น PDF จาก streams** ด้วย GroupDocs.Conversion สำหรับ Java โดยการโหลดเอกสารโดยตรงจาก `InputStream`, จัดการ `FileNotFoundException` ที่อาจเกิดขึ้น, และใช้ API `Converter` ที่เรียบง่าย คุณสามารถสร้าง pipeline การแปลงที่มีประสิทธิภาพและไม่มีไฟล์ชั่วคราวสำหรับแอปพลิเคชัน Java สมัยใหม่ได้แล้ว
-
-## คำถามที่พบบ่อยเพิ่มเติม
-
-**ถาม: จะทำอย่างไรถ้าต้องแปลงไฟล์ DOCX ที่เก็บใน BLOB ของฐานข้อมูล?**  
-ตอบ: ดึง BLOB เป็น `InputStream` แล้วส่งให้ lambda ของ `Converter` ตามตัวอย่างที่แสดง  
-
-**ถาม: ถ้า stream ต้นทางมีขนาดใหญ่ (หลายร้อย MB) จะทำอย่างไร?**  
-ตอบ: ใช้ `BufferedInputStream` และพิจารณาประมวลผลการแปลงในเธรดพื้นหลังเพื่อหลีกเลี่ยงการบล็อกการทำงานของแอปพลิเคชันหลัก  
-
-**ถาม: GroupDocs.Conversion รองรับเอกสารที่มีรหัสผ่านหรือไม่?**  
-ตอบ: รองรับ คุณสามารถส่งรหัสผ่านผ่าน `LoadOptions` เมื่อสร้าง `Converter`  
-
-**ถาม: สามารถแปลงโดยตรงไปยัง `OutputStream` แทนพาธไฟล์ได้หรือไม่?**  
-ตอบ: API ปัจจุบันส่วนใหญ่เขียนไปยังพาธไฟล์ แต่คุณสามารถเขียนไปยังไฟล์ชั่วคราวแล้วสตรีมกลับ, หรือใช้ overload ของ `convert` ที่รับ `ByteArrayOutputStream`  
-
-**ถาม: มีวิธีใดในการติดตามความคืบหน้าการแปลงบ้าง?**  
-ตอบ: GroupDocs.Conversion มี event callbacks ที่คุณสามารถผูกเพื่อรับข้อมูลอัปเดตความคืบหน้า  
+**Q: Is there a way to monitor conversion progress?**  
+A: GroupDocs.Conversion มี event callbacks ที่คุณสามารถเชื่อมต่อเพื่อรับการอัปเดตความคืบหน้า.  
 
 ## แหล่งข้อมูล
-
-- [Documentation](https://docs.groupdocs.com/conversion/java/)  
-- [API Reference](https://reference.groupdocs.com/conversion/java/)  
-- [Download GroupDocs.Conversion for Java](https://releases.groupdocs.com/conversion/java/)  
-- [Purchase License](https://purchase.groupdocs.com/buy)  
-- [Free Trial](https://releases.groupdocs.com/conversion/java/)  
-- [Temporary License Request](https://purchase.groupdocs.com/temporary-license/)  
-- [Support Forum](https://forum.groupdocs.com/c/conversion/10)  
+- [เอกสาร](https://docs.groupdocs.com/conversion/java/)
+- [อ้างอิง API](https://reference.groupdocs.com/conversion/java/)
+- [ดาวน์โหลด GroupDocs.Conversion for Java](https://releases.groupdocs.com/conversion/java/)
+- [ซื้อไลเซนส์](https://purchase.groupdocs.com/buy)
+- [ทดลองใช้ฟรี](https://releases.groupdocs.com/conversion/java/)
+- [ขอไลเซนส์ชั่วคราว](https://purchase.groupdocs.com/temporary-license/)
+- [ฟอรั่มสนับสนุน](https://forum.groupdocs.com/c/conversion/10)
 
 ---
 
-**Last Updated:** 2025-12-21  
-**Tested With:** GroupDocs.Conversion 25.2  
-**Author:** GroupDocs
+**อัปเดตล่าสุด:** 2026-03-24  
+**ทดสอบด้วย:** GroupDocs.Conversion 25.2  
+**ผู้เขียน:** GroupDocs  
+
+---

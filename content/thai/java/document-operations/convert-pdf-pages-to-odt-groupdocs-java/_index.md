@@ -1,12 +1,12 @@
 ---
-date: '2025-12-21'
+date: '2026-03-24'
 description: เรียนรู้วิธีแปลง PDF เป็น ODT อย่างมีประสิทธิภาพด้วย GroupDocs.Conversion
   สำหรับ Java. แปลงหน้าที่ต้องการจาก PDF ไปเป็นรูปแบบ OpenDocument Text (ODT) ภายในไม่กี่นาที.
 keywords:
 - convert PDF to ODT
 - GroupDocs.Conversion for Java
 - PDF to Word processing document
-title: 'แปลง PDF เป็น ODT ด้วย GroupDocs.Conversion สำหรับ Java - คู่มือฉบับสมบูรณ์'
+title: แปลง PDF เป็น ODT ด้วย GroupDocs.Conversion สำหรับ Java - คู่มือฉบับสมบูรณ์
 type: docs
 url: /th/java/document-operations/convert-pdf-pages-to-odt-groupdocs-java/
 weight: 1
@@ -14,37 +14,40 @@ weight: 1
 
 # แปลง PDF เป็น ODT ด้วย GroupDocs.Conversion สำหรับ Java
 
-คุณเหนื่อยกับการแปลงหน้าจาก PDF เป็นเอกสารประมวลผลคำด้วยตนเองหรือไม่? **ในคู่มือนี้ คุณจะได้เรียนรู้วิธีแปลง PDF เป็น ODT อย่างมีประสิทธิภาพ** ด้วย GroupDocs.Conversion สำหรับ Java การสอนนี้ทำให้กระบวนการง่ายขึ้นโดยแสดงวิธีแปลงหน้าที่กำหนดจาก PDF ไปเป็นรูปแบบ OpenDocument Text (ODT) ช่วยให้คุณปรับปรุงกระบวนการทำงานและจัดการการแปลงเอกสารได้อย่างแม่นยำ.
+หากคุณต้องการ **convert PDF to ODT** อย่างรวดเร็วและคงความแม่นยำระดับพิกเซล คุณมาถูกที่แล้ว ในบทแนะนำนี้เราจะเดินผ่านกระบวนการทั้งหมด—ตั้งค่าห้องสมุด, เลือกหน้าที่ต้องการ, และเขียนไฟล์ OpenDocument Text—โดยทำให้โค้ดอ่านง่าย ในตอนท้ายคุณจะสามารถนำตรรกะนี้ไปใช้ในแอปพลิเคชัน Java ใดก็ได้ ไม่ว่าจะเป็นยูทิลิตี้ขนาดเล็กหรือโปรเซสเซอร์แบบแบตช์ขนาดใหญ่
 
-## คำตอบอย่างรวดเร็ว
-- **“convert PDF to ODT” หมายถึงอะไร?** แปลงหน้าของ PDF เป็นรูปแบบ OpenDocument Text เพื่อการแก้ไขหรือการประมวลผลต่อไป.  
-- **แนะนำไลบรารีใด?** GroupDocs.Conversion for Java (version 25.2 or newer).  
-- **ฉันต้องการไลเซนส์หรือไม่?** มีไลเซนส์ชั่วคราวสำหรับการทดสอบ; จำเป็นต้องมีไลเซนส์เต็มสำหรับการใช้งานจริง.  
-- **ฉันสามารถเลือกหน้าที่เฉพาะได้หรือไม่?** ได้—ใช้ `WordProcessingConvertOptions` เพื่อกำหนดหน้าที่เริ่มต้นและจำนวนหน้า.  
-- **ต้องการเวอร์ชัน Java ใด?** JDK 8 หรือใหม่กว่า พร้อม Maven สำหรับการจัดการ dependencies.
+## Quick Answers
+- **What does “convert PDF to ODT” mean?** มันแปลงหน้าที่เลือกจาก PDF ไปเป็นรูปแบบ OpenDocument Text ที่สามารถแก้ไขได้.  
+- **Which library is best for Java document conversion?** GroupDocs.Conversion for Java (25.2 or newer).  
+- **Do I need a license?** ใบอนุญาตชั่วคราวฟรีสำหรับการทดสอบ; ใบอนุญาตเต็มจำเป็นสำหรับการใช้งานในสภาพแวดล้อมการผลิต.  
+- **Can I pick specific pages?** ใช่—ใช้ `WordProcessingConvertOptions` เพื่อตั้งค่าหน้าเริ่มต้นและจำนวนหน้า.  
+- **What build tool should I use?** Maven เป็นวิธีที่แนะนำในการจัดการ dependency `pdf conversion maven`.  
 
-## “Convert PDF to ODT” คืออะไร?
-การแปลง PDF เป็น ODT หมายถึงการนำเนื้อหาจากไฟล์ PDF มาสร้างใหม่ในรูปแบบ OpenDocument Text ซึ่งสามารถแก้ไขได้ในเครื่องมือเช่น LibreOffice Writer การแปลงนี้มีประโยชน์อย่างยิ่งเมื่อคุณต้องการแก้ไขส่วนหนึ่งของ PDF โดยไม่ต้องสร้างเอกสารใหม่ทั้งหมดจากศูนย์.
+## What Is “Convert PDF to ODT”?
+การแปลง PDF เป็น ODT หมายถึงการนำเนื้อหาของไฟล์ PDF มาสร้างใหม่ในรูปแบบ OpenDocument Text ซึ่งคุณสามารถแก้ไขได้ใน LibreOffice Writer, Apache OpenOffice หรือโปรแกรมแก้ไข ODT ใด ๆ ที่รองรับ สิ่งนี้เป็นประโยชน์อย่างยิ่งเมื่อคุณต้องการแก้ไขเพียงไม่กี่หน้าของ PDF ขนาดใหญ่โดยไม่ต้องสร้างเอกสารทั้งหมดใหม่ตั้งแต่ต้น
 
-## ทำไมต้องแปลง PDF เป็น ODT ด้วย GroupDocs.Conversion?
-- **Precision control** – แปลงเฉพาะหน้าที่คุณต้องการ เพื่อประหยัดเวลาและทรัพยากร.  
-- **High fidelity** – รักษาการจัดรูปแบบ, ฟอนต์, และรูปภาพอย่างแม่นยำ.  
-- **Cross‑platform** – ทำงานบนระบบปฏิบัติการใดก็ได้ที่สนับสนุน Java.  
-- **Scalable** – เหมาะสำหรับไฟล์เดี่ยวหรือการประมวลผลเป็นชุดในแอปพลิเคชันขนาดใหญ่.
+## Why Use GroupDocs.Conversion for Java?
+- **Fine‑grained page control** – แปลงเฉพาะหน้าที่คุณต้องการ เพื่อประหยัด CPU และหน่วยความจำ.  
+- **High fidelity** – การจัดวาง, ฟอนต์, และรูปภาพจะถูกเก็บรักษาไว้เกือบทั้งหมด.  
+- **Cross‑platform** – ทำงานบน OS ใดก็ได้ที่รองรับ Java ทำให้เหมาะสำหรับแอปฝั่งเซิร์ฟเวอร์หรือเดสก์ท็อป.  
+- **Scalable** – ทำงานได้ดีเท่ากันทั้งไฟล์เดียวหรือการประมวลผล PDF หลายร้อยไฟล์ในงานแบตช์.  
 
-## ข้อกำหนดเบื้องต้น
-- **Java Development Kit (JDK)** ติดตั้ง (JDK 8 หรือใหม่กว่า).  
-- **An IDE** เช่น IntelliJ IDEA, Eclipse, หรือ NetBeans.  
-- **Maven** สำหรับการจัดการ dependencies.  
-- **Basic Java knowledge** และความคุ้นเคยกับ `pom.xml` ของ Maven.
+## Prerequisites
 
-## การตั้งค่า GroupDocs.Conversion สำหรับ Java
+ก่อนเริ่มทำงาน โปรดตรวจสอบว่าคุณมี:
 
-เริ่มโดยการเพิ่มไลบรารี GroupDocs.Conversion ไปยังโปรเจกต์ Maven ของคุณ.
+- **Java Development Kit (JDK) 8 or newer** ติดตั้งแล้ว.  
+- **An IDE** เช่น IntelliJ IDEA, Eclipse, หรือ NetBeans (ไม่บังคับแต่เป็นประโยชน์).  
+- **Maven** สำหรับการจัดการ dependency (นี่คือวิธีที่ง่ายที่สุดในการเพิ่ม `java pdf conversion library`).  
+- **Basic Java knowledge** และความคุ้นเคยกับ `pom.xml` ของ Maven.  
 
-### การกำหนดค่า Maven
+## Setting Up GroupDocs.Conversion for Java
 
-เพิ่ม repository และรายการ dependency ลงในไฟล์ `pom.xml` ของคุณ:
+First, add the GroupDocs.Conversion library to your Maven project.
+
+### Maven Configuration
+
+Add the repository and dependency entries to your `pom.xml` file:
 
 ```xml
 <repositories>
@@ -63,30 +66,28 @@ weight: 1
 </dependencies>
 ```
 
-### การรับไลเซนส์
+### License Acquisition
 
-คุณสามารถรับไลเซนส์ชั่วคราวสำหรับการทดสอบได้ เยี่ยมชม [เว็บไซต์ GroupDocs](https://purchase.groupdocs.com/temporary-license/) เพื่อขอทดลองใช้งานฟรีหรือซื้อไลเซนส์เต็ม เมื่อคุณมีไฟล์ไลเซนส์แล้ว ให้ทำตามเอกสารอย่างเป็นทางการเพื่อใช้ในโค้ดของคุณ.
+You can obtain a temporary license for testing. Visit the [GroupDocs website](https://purchase.groupdocs.com/temporary-license/) to request a free trial or purchase a full license. Once you have the license file, follow the official documentation to apply it in your code.
 
-## คู่มือการดำเนินการ
+## Implementation Guide
 
-ตอนนี้เราจะไปผ่านขั้นตอนการแปลงจริง โดยเน้นการแปลงหน้าที่เฉพาะของ PDF ไปเป็น ODT.
+Below is a step‑by‑step walkthrough that shows exactly how to convert specific PDF pages to ODT.
 
-### แปลง PDF เป็น ODT: การแปลงหน้า
+### 1. Initialize the Converter Object
 
-#### 1. เริ่มต้นอ็อบเจกต์ Converter
-
-สร้างอินสแตนซ์ `Converter` ที่ชี้ไปยัง PDF ต้นฉบับของคุณ:
+Create a `Converter` instance that points to your source PDF:
 
 ```java
 String inputPdf = "YOUR_DOCUMENT_DIRECTORY/sample.pdf"; // Path to your PDF
 Converter converter = new Converter(inputPdf);
 ```
 
-*ทำไมต้องทำขั้นตอนนี้?* คลาส `Converter` จัดการตรรกะการแปลงทั้งหมด การเริ่มต้นด้วยเส้นทาง PDF จะเตรียมเครื่องยนต์สำหรับการกำหนดค่าเพิ่มเติม.
+*Why this step?* The `Converter` class is the core engine; initializing it with the PDF path prepares everything for the next configuration stage.
 
-#### 2. กำหนดค่า WordProcessingConvertOptions
+### 2. Configure WordProcessingConvertOptions
 
-กำหนดว่าหน้าใดจะถูกแปลงและตั้งค่ารูปแบบเป้าหมาย:
+Tell the engine which pages to extract and which format to produce:
 
 ```java
 WordProcessingConvertOptions options = new WordProcessingConvertOptions();
@@ -95,65 +96,67 @@ options.setPagesCount(1);   // Number of pages to convert
 options.setFormat(WordProcessingFileType.Odt); // Target format ODT
 ```
 
-*ทำไมต้องใช้พารามิเตอร์เหล่านี้?* พารามิเตอร์เหล่านี้ทำให้คุณดึงส่วนที่ต้องการของ PDF เท่านั้น ลดเวลาและการใช้หน่วยความจำ.
+*Why these parameters?* Selecting a single page (or a range) reduces processing time and memory usage—perfect for the “java document conversion” scenario where you often work with large PDFs.
 
-#### 3. ดำเนินการแปลง
+### 3. Perform the Conversion
 
-ดำเนินการแปลงและบันทึกผลลัพธ์:
+Run the conversion and write the output file:
 
 ```java
 String outputOdt = "YOUR_OUTPUT_DIRECTORY/converted.odt"; // Output file path
 converter.convert(outputOdt, options);
 ```
 
-*ทำอะไร?* เมธอด `convert` จะประมวลผลหน้าที่เลือกและเขียนไฟล์ ODT ไปยังตำแหน่งที่ระบุ.
+*What this does?* The `convert` method reads the specified page(s) from the PDF and generates an ODT file at the location you provide.
 
-### เคล็ดลับการแก้ไขปัญหา
-- ตรวจสอบเส้นทางไฟล์สำหรับอินพุตและเอาต์พุตอีกครั้ง.  
-- ตรวจสอบให้แน่ใจว่า dependencies ของ Maven ถูกแก้ไขอย่างถูกต้อง (รัน `mvn clean install`).  
-- หากพบปัญหาหน่วยความจำกับ PDF ขนาดใหญ่ ให้พิจารณาแปลงเป็นชุดย่อย.
+## Common Pitfalls & Troubleshooting
 
-## การประยุกต์ใช้งานจริง
+- **Incorrect file paths** – ตรวจสอบเส้นทางไฟล์ทั้งอินพุตและเอาต์พุตอีกครั้ง; เส้นทางแบบ relative จะถูกตีความจากโฟลเดอร์รากของโปรเจกต์.  
+- **Maven dependency issues** – รัน `mvn clean install` เพื่อบังคับให้ Maven ดาวน์โหลด artifacts ล่าสุด.  
+- **Out‑of‑memory errors on huge PDFs** – แบ่งการแปลงเป็นช่วงหน้าที่เล็กลงหรือเพิ่ม heap ของ JVM (`-Xmx2g` หรือสูงกว่า).  
+- **License not applied** – ตรวจสอบให้แน่ใจว่าไฟล์ใบอนุญาตถูกโหลดก่อนสร้าง `Converter`; มิฉะนั้นคุณจะเจอ watermark ของการประเมินผล.  
 
-ต่อไปนี้เป็นสถานการณ์จริงที่การแปลง PDF เป็น ODT มีประโยชน์:
-1. **Legal Document Preparation** – ดึงและแก้ไขเฉพาะข้อที่เกี่ยวข้องสำหรับการตรวจสอบของลูกค้า.  
-2. **Academic Research** – ดึงหน้าที่เฉพาะจากเอกสารยาวเพื่อสร้างสรุปหรือสไลด์การนำเสนอ.  
-3. **Corporate Reporting** – แบ่งปันส่วนที่ต้องการของรายงานการเงินโดยไม่เปิดเผยเอกสารทั้งหมด.
+## Practical Use Cases
 
-## การพิจารณาประสิทธิภาพ
-- **Optimize I/O** – เก็บ PDF บน SSD หรือไดรฟ์เครือข่ายที่เร็วเพื่อการอ่านที่เร็วขึ้น.  
-- **Manage Memory** – สำหรับไฟล์ขนาดใหญ่มาก ให้แยกการแปลงเป็นหลายช่วงหน้า.  
-- **Batch Processing** – วนลูปผ่านไดเรกทอรีของ PDF และใช้ `Converter` อินสแตนซ์เดียวซ้ำได้เมื่อเป็นไปได้.
+1. **Legal teams** – ดึงและแก้ไขเฉพาะข้อที่ต้องการแก้ไข, ปล่อยส่วนที่เหลือของสัญญาไว้โดยไม่เปลี่ยนแปลง.  
+2. **Researchers** – ดึงรูปภาพหรือ ตารางเฉพาะจาก PDF ของวารสารยาวเพื่อใส่ในรายงาน ODT ใหม่.  
+3. **Finance departments** – แชร์เฉพาะส่วนที่เกี่ยวข้องของรายงานผลกำไรให้กับผู้มีส่วนได้ส่วนเสีย, ปกป้องข้อมูลที่เป็นความลับ.  
 
-## คำถามที่พบบ่อย
+## Performance Tips
 
-**Q:** *ระบบต้องการอะไรบ้างเพื่อใช้ GroupDocs.Conversion?*  
-**A:** คุณต้องมี JDK ที่รองรับ (8 หรือใหม่กว่า) และ Maven สำหรับการจัดการ dependencies. ไลเซนส์ที่ถูกต้องจำเป็นสำหรับการใช้งานในสภาพแวดล้อมการผลิต.
+- **Store PDFs on SSDs** เพื่อการอ่านที่เร็วขึ้น.  
+- **Reuse a single `Converter` instance** เมื่อต้องประมวลผลหลายไฟล์ในลูป; จะลดภาระของ JVM.  
+- **Batch processing** – วนลูปผ่านไดเรกทอรีของ PDF, ใช้ตรรกะช่วงหน้าเดียวกันกับแต่ละไฟล์.  
 
-**Q:** *ฉันสามารถแปลงรูปแบบอื่นนอกจาก PDF เป็น ODT ด้วยไลบรารีนี้ได้หรือไม่?*  
-**A:** ได้, GroupDocs.Conversion รองรับหลายรูปแบบต้นฉบับ รวมถึง DOCX, XLSX, PPTX, และอื่น ๆ.
+## Frequently Asked Questions
 
-**Q:** *ฉันควรจัดการข้อผิดพลาดการแปลงในแอปพลิเคชันอย่างไร?*  
+**Q:** *What are the system requirements for using GroupDocs.Conversion?*  
+**A:** คุณต้องมี JDK ที่รองรับ (8 or newer) และ Maven สำหรับการจัดการ dependency. ใบอนุญาตที่ถูกต้องจำเป็นสำหรับการใช้งานในสภาพแวดล้อมการผลิต.
+
+**Q:** *Can I convert formats other than PDF to ODT with this library?*  
+**A:** ใช่, GroupDocs.Conversion รองรับหลายรูปแบบต้นทาง รวมถึง DOCX, XLSX, PPTX, และอื่น ๆ.
+
+**Q:** *How should I handle conversion errors in my application?*  
 **A:** ห่อการเรียก `converter.convert()` ด้วยบล็อก try‑catch และบันทึกรายละเอียดของ `ConversionException` เพื่อการแก้ไขปัญหา.
 
-**Q:** *การแปลงเป็นชุดหลาย PDF เป็นไปได้หรือไม่?*  
-**A:** แน่นอน. ทำการวนลูปผ่านคอลเลกชันไฟล์และเรียกใช้ตรรกะการแปลงเดียวกันสำหรับแต่ละเอกสาร.
+**Q:** *Is batch conversion of multiple PDFs possible?*  
+**A:** แน่นอน. วนลูปผ่านคอลเลกชันของไฟล์และเรียกใช้ตรรกะการแปลงเดียวกันสำหรับแต่ละเอกสาร.
 
-**Q:** *กลยุทธ์ใดช่วยปรับปรุงประสิทธิภาพสำหรับเอกสารขนาดใหญ่?*  
-**A:** แปลงเป็นช่วงหน้าที่เล็กลง, ใช้สตอเรจที่เร็ว, และพิจารณาเพิ่มขนาด heap ของ JVM (`-Xmx` flag).
+**Q:** *What strategies improve performance for large documents?*  
+**A:** แบ่งการแปลงเป็นช่วงหน้าที่เล็กลง, ใช้ที่เก็บข้อมูลที่เร็ว, และพิจารณาเพิ่มขนาด heap ของ JVM (`-Xmx` flag).
 
-## แหล่งข้อมูล
+## Resources
 
-- **Documentation:** [เอกสาร GroupDocs Conversion](https://docs.groupdocs.com/conversion/java/)  
-- **API Reference:** [อ้างอิง API GroupDocs](https://reference.groupdocs.com/conversion/java/)  
-- **Download GroupDocs.Conversion:** [ลิงก์ดาวน์โหลดโดยตรง](https://releases.groupdocs.com/conversion/java/)  
-- **Purchase and Licensing:** [ซื้อเลย](https://purchase.groupdocs.com/buy)  
-- **Free Trial:** [รับการทดลองใช้ฟรีของคุณ](https://releases.groupdocs.com/conversion/java/)  
-- **Temporary License Request:** [ขอไลเซนส์ชั่วคราว](https://purchase.groupdocs.com/temporary-license/)  
-- **Support Forum:** [เข้าร่วมชุมชน GroupDocs](https://forum.groupdocs.com/c/conversion/10)
+- **Documentation:** [GroupDocs Conversion Documentation](https://docs.groupdocs.com/conversion/java/)  
+- **API Reference:** [GroupDocs API Reference](https://reference.groupdocs.com/conversion/java/)  
+- **Download GroupDocs.Conversion:** [Direct Download Link](https://releases.groupdocs.com/conversion/java/)  
+- **Purchase and Licensing:** [Buy Now](https://purchase.groupdocs.com/buy)  
+- **Free Trial:** [Get Your Free Trial](https://releases.groupdocs.com/conversion/java/)  
+- **Temporary License Request:** [Request a Temporary License](https://purchase.groupdocs.com/temporary-license/)  
+- **Support Forum:** [Join the GroupDocs Community](https://forum.groupdocs.com/c/conversion/10)
 
 ---
 
-**Last Updated:** 2025-12-21  
+**Last Updated:** 2026-03-24  
 **Tested With:** GroupDocs.Conversion 25.2  
 **Author:** GroupDocs

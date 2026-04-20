@@ -1,36 +1,38 @@
 ---
-date: '2025-12-19'
-description: تعلم كيفية استخدام الخيارات لإخفاء التغييرات المتتبعة عند تحويل مستندات
-  Word إلى PDF باستخدام GroupDocs.Conversion للغة Java. سهل عملية التحويل الجماعي
-  وتأكد من الحصول على ملفات PDF نظيفة.
+date: '2026-03-24'
+description: تعلم كيفية إخفاء المراجعات باستخدام الخيارات لإخفاء التغييرات المتتبعة
+  أثناء تحويل Word إلى PDF في Java باستخدام GroupDocs.Conversion. قم بأتمتة التحويل
+  الجماعي وإزالة علامات المراجعة.
 keywords:
 - automate hiding tracked changes
 - Word-to-PDF conversion
 - GroupDocs.Conversion for Java
-title: كيفية استخدام الخيارات لإخفاء التغييرات المتعقبة في Word‑PDF
+title: 'كيفية إخفاء المراجعات: استخدم الخيارات لإخفاء التغييرات المتتبعة في تحويل
+  Word‑PDF باستخدام GroupDocs.Conversion للـ Java'
 type: docs
 url: /ar/java/conversion-options/automate-hide-tracked-changes-word-pdf-conversion-groupdocs-java/
 weight: 1
 ---
 
-# كيفية استخدام الخيارات لإخفاء التغييرات المتتبعة في تحويل Word‑PDF باستخدام GroupDocs.Conversion للـ Java
+# كيفية إخفاء المراجعات: استخدام الخيارات لإخفاء التغييرات المتتبعة في تحويل Word‑PDF باستخدام GroupDocs.Conversion للـ Java
 
-تحويل مستندات Word إلى PDF مع إخفاء التغييرات المتتبعة يدويًا قد يكون مرهقًا، خاصةً عندما تحتاج إلى **convert word to pdf** للعديد من الملفات في آن واحد. في هذا الدرس ستتعلم **how to use options** لإخفاء التغييرات المتتبعة تلقائيًا أثناء عملية التحويل باستخدام GroupDocs.Conversion للـ Java. في النهاية، ستحصل على PDF نظيف وجاهز للإنتاج دون أي علامات تعديل متبقية.
+عندما تحتاج إلى **تحويل Word إلى PDF** لعشرات أو مئات الملفات، فإن إيقاف التتبع يدويًا في كل مستند يُعد استهلاكًا كبيرًا للوقت. في هذا الدرس ستكتشف **كيفية إخفاء المراجعات** تلقائيًا باستخدام خيارات التحويل في GroupDocs.Conversion للـ Java. في النهاية، ستحصل على ملفات PDF نظيفة—خالية من أي علامات مراجعة—جاهزة للمراجعة القانونية أو النشر أو تسليمها للعميل.
 
 ## إجابات سريعة
-- **What does “hide tracked changes” do?** يزيل علامات المراجعة من ملف PDF النهائي تلقائيًا.  
-- **Which library supports this?** توفر GroupDocs.Conversion للـ Java خيار تحميل مخصص.  
-- **Can I batch convert docx pdf files?** نعم – اجمع الخيار مع حلقة لمعالجة العديد من المستندات.  
-- **What Java version is required?** JDK 8 أو أعلى.  
-- **Do I need a license?** تجربة مجانية تعمل للتقييم؛ يلزم الحصول على ترخيص دائم للإنتاج.
+- **ما الذي يفعله “إخفاء التغييرات المتتبعة”?** يزيل علامات المراجعة من ملف PDF النهائي تلقائيًا.  
+- **أي مكتبة تدعم ذلك؟** توفر GroupDocs.Conversion للـ Java خيار تحميل مخصص.  
+- **هل يمكنني تحويل ملفات docx إلى pdf على دفعات؟** نعم – يمكن دمج الخيار مع حلقة لمعالجة العديد من المستندات.  
+- **ما إصدار Java المطلوب؟** JDK 8 أو أعلى.  
+- **هل أحتاج إلى ترخيص؟** النسخة التجريبية المجانية تكفي للتقييم؛ يلزم ترخيص دائم للإنتاج.
 
-## ما هو “how to use options” في هذا السياق؟
-استخدام الخيارات يعني تكوين محرك التحويل (خيارات التحميل، خيارات التحويل، إلخ) قبل تشغيل عملية التحويل الفعلية. يمنحك ذلك تحكمًا دقيقًا، مثل إخفاء التغييرات المتتبعة، ضبط حجم الصفحة، أو تحديد جودة الصورة.
+## ما هو “كيفية إخفاء المراجعات” في هذا السياق؟
+استخدام الخيارات يعني تكوين محرك التحويل (خيارات التحميل، خيارات التحويل، إلخ) **قبل** بدء التحويل. يمنحك ذلك تحكمًا دقيقًا، مثل **إزالة علامات المراجعة**، ضبط حجم الصفحة، أو تحديد جودة الصورة.
 
-## لماذا إخفاء التغييرات المتتبعة أثناء التحويل؟
-- **Professional output** – يتلقى العملاء ملفات PDF نظيفة دون تعديلات مرئية.  
-- **Legal compliance** – يزيل بيانات المراجعة الحساسة المحتملة.  
-- **Time saver** – يلغي الخطوة اليدوية لإيقاف التتبع في Word.  
+## لماذا إخفاء المراجعات أثناء التحويل؟
+- **مخرجات احترافية** – يتلقى العملاء ملفات PDF نظيفة دون أي تعديلات مرئية.  
+- **الامتثال القانوني** – يزيل بيانات المراجعة الحساسة المحتملة.  
+- **توفير الوقت** – يلغي الخطوة اليدوية لإيقاف التتبع في Word.  
+- **جاهز للأتمتة** – مثالي لأنابيب **automate word pdf conversion** وعمليات **batch convert docx pdf**.
 
 ## المتطلبات المسبقة
 - **Java Development Kit (JDK)** 8 أو أحدث.  
@@ -39,7 +41,7 @@ weight: 1
 
 ## إعداد GroupDocs.Conversion للـ Java
 
-أولاً، أضف مستودع GroupDocs واعتماد التحويل إلى ملف `pom.xml` الخاص بـ Maven.
+أولاً، أضف مستودع GroupDocs واعتماد التحويل إلى ملف Maven `pom.xml` الخاص بك.
 
 ```xml
 <repositories>
@@ -65,10 +67,10 @@ weight: 1
 
 ## كيفية استخدام الخيارات لإخفاء التغييرات المتتبعة
 
-فيما يلي تنفيذ خطوة بخطوة. يتم الحفاظ على كل كتلة شفرة كما هي بالضبط.
+فيما يلي تنفيذ خطوة بخطوة. كل كتلة شفرة تم الحفاظ عليها كما هي أصلاً.
 
 ### الخطوة 1: إعداد خيارات التحميل
-أنشئ `WordProcessingLoadOptions` وفعل علم إخفاء التغييرات المتتبعة.
+أنشئ `WordProcessingLoadOptions` وفعل علامة إخفاء التغييرات المتتبعة.
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -116,38 +118,39 @@ Converter converterWithOptions = new Converter(inputFile, () -> wordLoadOptions)
 ```
 
 ## تطبيقات عملية
-1. **Legal Document Management** – إنشاء ملفات PDF نظيفة تلقائيًا لمراجعة العملاء.  
+1. **Legal Document Management** – إنتاج ملفات PDF نظيفة تلقائيًا لمراجعة العملاء.  
 2. **Academic Publishing** – إزالة العلامات التحريرية قبل تقديم المقال للمجلة.  
-3. **Business Reporting** – التأكد من أن التقارير النهائية لا تحتوي على أي مراجعات عشوائية.
+3. **Business Reporting** – ضمان أن التقارير النهائية لا تحتوي على مراجعات عشوائية.  
 
 ## اعتبارات الأداء
-- **Memory Management** – أغلق التدفقات بسرعة وأعد استخدام مثيلات `Converter` عندما يكون ذلك ممكنًا.  
+- **Memory Management** – أغلق التدفقات فورًا وأعد استخدام مثيلات `Converter` عندما يكون ذلك ممكنًا.  
 - **Streaming API** – استخدم البث للملفات `.docx` الكبيرة جدًا لتقليل استهلاك الذاكرة.  
-- **Batch Processing** – قم بالتكرار على قائمة من الملفات مع إعادة استخدام نفس `loadOptions` لـ **batch convert docx pdf** بكفاءة.
+- **Batch Processing** – كرّر عبر قائمة الملفات مع إعادة استخدام نفس `loadOptions` لـ **batch convert docx pdf** بفعالية.
 
 ## المشكلات الشائعة & استكشاف الأخطاء
-- **Tracked changes still appear** – تحقق من استدعاء `setHideWordTrackedChanges(true)` قبل إنشاء `Converter`.  
-- **Conversion fails on large files** – قم بزيادة حجم heap في JVM أو عالج الملفات في وضع البث.  
-- **License errors** – تأكد من وضع ملف الترخيص بشكل صحيح وأن فترة التجربة لم تنتهِ.
+- **ما زالت التغييرات المتتبعة تظهر** – تأكد من استدعاء `setHideWordTrackedChanges(true)` **قبل** إنشاء `Converter`.  
+- **فشل التحويل في الملفات الكبيرة** – زد حجم ذاكرة JVM أو عالج الملفات في وضع البث.  
+- **أخطاء الترخيص** – تأكد من وضع ملف الترخيص بشكل صحيح وأن فترة التجربة لم تنتهِ.
 
 ## الأسئلة المتكررة
-**Q: هل يمكنني تحويل مستندات غير DOCX باستخدام GroupDocs.Conversion؟**  
-A: نعم، تدعم المكتبة صيغ PPTX و XLSX و PDF والعديد من الصيغ الأخرى.
 
-**Q: ما إصدارات Java المتوافقة مع GroupDocs.Conversion؟**  
-A: يتطلب JDK 8 أو أعلى.
+**س: هل يمكنني تحويل مستندات غير DOCX باستخدام GroupDocs.Conversion؟**  
+ج: نعم، المكتبة تدعم PPTX، XLSX، PDF، والعديد من الصيغ الأخرى.
 
-**Q: كيف يمكنني استكشاف أخطاء التحويل؟**  
-A: راجع تتبع الاستثناء، تأكد من أن ملف الإدخال غير تالف، وتأكد من صحة الترخيص.
+**س: ما إصدارات Java المتوافقة مع GroupDocs.Conversion؟**  
+ج: يلزم JDK 8 أو أعلى.
 
-**Q: هل يمكن تخصيص مخرجات PDF بخلاف إخفاء التغييرات المتتبعة؟**  
-A: بالتأكيد. استكشف `PdfConvertOptions` للحصول على إعدادات مثل DPI، نطاق الصفحات، وإضافة العلامات المائية.
+**س: كيف يمكنني استكشاف أخطاء التحويل؟**  
+ج: راجع تتبع الاستثناء، تأكد من أن ملف الإدخال غير معطوب، وتأكد من صلاحية الترخيص.
 
-**Q: هل يمكن لـ GroupDocs.Conversion معالجة الدفعات بكفاءة؟**  
-A: نعم، يمكنك التكرار عبر الملفات مع إعادة استخدام نفس خيارات التحميل لـ **batch convert docx pdf** بسرعة.
+**س: هل يمكن تخصيص مخرجات PDF بخلاف إخفاء التغييرات المتتبعة؟**  
+ج: بالتأكيد. استكشف `PdfConvertOptions` لإعدادات مثل DPI، نطاق الصفحات، وإضافة العلامات المائية.
+
+**س: هل يمكن لـ GroupDocs.Conversion معالجة الدفعات بكفاءة؟**  
+ج: نعم، يمكنك تكرار الملفات مع إعادة استخدام نفس خيارات التحميل لـ **batch convert docx pdf** بسرعة.
 
 ## الخلاصة
-أنت الآن تعرف **how to use options** لإخفاء التغييرات المتتبعة عند تحويل مستندات Word إلى PDF باستخدام GroupDocs.Conversion للـ Java. يزيل هذا النهج الخطوات اليدوية، ويحسن احترافية المستندات، ويتوسع بشكل جيد لمعالجة الدفعات.
+أنت الآن تعرف **كيفية إخفاء المراجعات** عند تحويل مستندات Word إلى PDF باستخدام GroupDocs.Conversion للـ Java. يزيل هذا النهج الخطوات اليدوية، يحسن احترافية المستند، ويتوسع بشكل جيد للعمليات الدفعة.
 
 ### الخطوات التالية
 - دمج الشفرة في خط أنابيب معالجة المستندات الحالي الخاص بك.  
@@ -155,16 +158,16 @@ A: نعم، يمكنك التكرار عبر الملفات مع إعادة اس
 - استكشاف ميزات التحويل الأخرى في GroupDocs، مثل استخراج الصور أو تحويل الصيغ.
 
 **الموارد**  
-- Documentation: [توثيق GroupDocs Conversion Java](https://docs.groupdocs.com/conversion/java/)  
-- API Reference: [مرجع API لتحويل GroupDocs](https://reference.groupdocs.com/conversion/java/)  
-- Download: [احصل على أحدث إصدار](https://releases.groupdocs.com/conversion/java/)  
-- Purchase: [شراء ترخيص](https://purchase.groupdocs.com/buy)  
-- Free Trial: [جرّبه](https://releases.groupdocs.com/conversion/java/)  
-- Temporary License: [اطلب هنا](https://purchase.groupdocs.com/temporary-license/)  
-- Support Forum: [انضم إلى المناقشة](https://forum.groupdocs.com/c/conversion/10)
+- التوثيق: [GroupDocs Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)  
+- مرجع API: [GroupDocs Conversion API Reference](https://reference.groupdocs.com/conversion/java/)  
+- التنزيل: [Get the Latest Release](https://releases.groupdocs.com/conversion/java/)  
+- الشراء: [Buy a License](https://purchase.groupdocs.com/buy)  
+- التجربة المجانية: [Try It Out](https://releases.groupdocs.com/conversion/java/)  
+- ترخيص مؤقت: [Request Here](https://purchase.groupdocs.com/temporary-license/)  
+- منتدى الدعم: [Join the Discussion](https://forum.groupdocs.com/c/conversion/10)
 
 ---
 
-**آخر تحديث:** 2025-12-19  
+**آخر تحديث:** 2026-03-24  
 **تم الاختبار مع:** GroupDocs.Conversion 25.2 للـ Java  
-**المؤلف:** GroupDocs  
+**المؤلف:** GroupDocs

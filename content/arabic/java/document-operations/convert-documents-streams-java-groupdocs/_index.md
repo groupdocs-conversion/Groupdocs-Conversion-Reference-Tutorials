@@ -1,45 +1,46 @@
 ---
-date: '2025-12-21'
-description: تعلم كيفية تحويل ملفات DOCX إلى PDF من التدفقات باستخدام GroupDocs.Conversion
-  للغة Java، وهو مثالي لتطبيقات الويب ومعالجة استثناءات عدم العثور على الملف.
+date: '2026-03-24'
+description: تعلم تحويل تدفق جافا لتحويل DOCX إلى PDF باستخدام GroupDocs.Conversion
+  للغة جافا، مثالي لتطبيقات الويب ومعالجة استثناءات عدم العثور على الملف.
 keywords:
 - convert docx to pdf
 - how to convert stream
 - handle file notfound exception
 - load document from stream
 - GroupDocs.Conversion for Java
-title: تحويل DOCX إلى PDF من التدفقات في Java باستخدام GroupDocs
+title: تحويل تدفق جافا – من DOCX إلى PDF باستخدام GroupDocs
 type: docs
 url: /ar/java/document-operations/convert-documents-streams-java-groupdocs/
 weight: 1
 ---
 
-# تحويل DOCX إلى PDF من التدفقات في Java باستخدام GroupDocs
+# تحويل تدفق جافا – DOCX إلى PDF باستخدام GroupDocs
 
-هل تبحث عن **convert DOCX to PDF** مباشرةً من التدفقات في تطبيقات Java الخاصة بك؟ هذا المتطلب الشائع يظهر عند التعامل مع ملفات غير متوفرة على القرص—مثل التحميلات من نموذج ويب أو البيانات المستلمة عبر اتصال شبكة. في هذا الدرس ستتعلم كيفية تحميل مستند من تدفق، ومعالجة `FileNotFoundException` المحتملة، وإنتاج PDF باستخدام GroupDocs.Conversion for Java.
+هل تبحث عن **convert DOCX to PDF** باستخدام **java stream conversion** مباشرةً من التدفقات في تطبيقات جافا الخاصة بك؟ تظهر هذه الحاجة الشائعة عند التعامل مع ملفات غير متوفرة على القرص—مثل التحميلات من نموذج ويب أو البيانات المستلمة عبر اتصال شبكة. في هذا الدرس ستتعلم كيفية تحميل مستند من تدفق، ومعالجة `FileNotFoundException` المحتملة، وإنتاج PDF باستخدام GroupDocs.Conversion for Java.
 
 ## إجابات سريعة
-- **ماذا يعني “convert DOCX to PDF from streams”?** يعني قراءة ملف DOCX من `InputStream` وكتابة ملف PDF المحول مباشرةً إلى ملف أو تدفق آخر دون حفظ ملف DOCX الأصلي على القرص.  
-- **أي مكتبة تتعامل مع التحويل؟** GroupDocs.Conversion for Java توفر API بسيط للتحويل القائم على التدفقات.  
-- **هل أحتاج إلى ترخيص للإنتاج؟** نعم، يلزم الحصول على ترخيص تجاري للاستخدام في بيئة الإنتاج؛ تتوفر نسخة تجريبية مجانية للتقييم.  
-- **كيف أتعامل مع ملف المصدر المفقود؟** غلف إنشاء `FileInputStream` بكتلة try‑catch وتعامل مع `FileNotFoundException` بشكل ملائم.  
+- **ماذا يعني “convert DOCX to PDF from streams”؟** يعني قراءة ملف DOCX من `InputStream` وكتابة ملف PDF المحول مباشرةً إلى ملف أو تدفق آخر دون حفظ الـ DOCX الأصلي على القرص.  
+- **أي مكتبة تتعامل مع التحويل؟** توفر GroupDocs.Conversion for Java واجهة برمجة تطبيقات بسيطة للتحويلات القائمة على التدفق.  
+- **هل أحتاج إلى ترخيص للإنتاج؟** نعم، يلزم ترخيص تجاري للاستخدام في بيئة الإنتاج؛ يتوفر إصدار تجريبي مجاني للتقييم.  
+- **كيف أتعامل مع ملف المصدر المفقود؟** ضع إنشاء `FileInputStream` داخل كتلة try‑catch وتعامل مع `FileNotFoundException` بشكل ملائم.  
 
-## المقدمة
+## ما هو تحويل تدفق جافا؟
+يشير تحويل تدفق جافا إلى عملية أخذ البيانات من `InputStream` (أو `OutputStream`) وتحويلها إلى تنسيق آخر دون حفظ الملف الوسيط على القرص. في سياق معالجة المستندات، يتيح لك **how to convert docx** إلى PDF أو صور أو تنسيقات أخرى مع الحفاظ على استهلاك الذاكرة منخفضًا وتجنب الملفات المؤقتة.
 
-يعد تحويل DOCX إلى PDF من التدفقات مفيدًا بشكل خاص في تطبيقات الويب حيث تريد تجنب الملفات المؤقتة، تقليل عبء I/O، والحفاظ على كفاءة الذاكرة. أدناه سنستعرض الإعداد الكامل، من تكوين Maven إلى طريقة Java قابلة للتنفيذ تقوم بالتحويل.
+## لماذا نستخدم تحويل تدفق جافا؟
+- **Performance:** يلغي عمليات I/O الإضافية المرتبطة بكتابة ملف DOCX المصدر إلى القرص أولاً.  
+- **Security:** يقلل من مساحة التعرض للوثائق الحساسة لأنها لا تلمس نظام الملفات أبداً.  
+- **Scalability:** مثالي للمعماريات السحابية أو الميكروسيرفيس حيث يُفضَّل المعالجة غير الحالة.  
 
 ## المتطلبات المسبقة
-
 - **Java Development Kit (JDK)** 8 أو أعلى  
 - **Maven** لإدارة التبعيات  
 - فهم أساسي لـ **Java streams** (مثل `InputStream`، `FileInputStream`)  
 
 ### إعداد البيئة
-
 للعمل مع GroupDocs.Conversion for Java، أضف المكتبة أولاً إلى مشروع Maven الخاص بك.
 
 ## إعداد GroupDocs.Conversion for Java
-
 أضف مستودع GroupDocs واعتماد التحويل إلى ملف `pom.xml` الخاص بك:
 
 ```xml
@@ -61,19 +62,15 @@ weight: 1
 ```
 
 ### الحصول على ترخيص
-
-يمكنك البدء بنسخة تجريبية مجانية لاستكشاف GroupDocs.Conversion for Java. بالنسبة للنشر في بيئة الإنتاج، قم بشراء ترخيص أو طلب ترخيص مؤقت للاختبار الموسع.
+يمكنك البدء بإصدار تجريبي مجاني لاستكشاف GroupDocs.Conversion for Java. بالنسبة للنشر في بيئة الإنتاج، اشترِ ترخيصًا أو اطلب ترخيصًا مؤقتًا للاختبار الموسع.
 
 ## دليل التنفيذ
-
-فيما يلي شرح خطوة بخطوة يوضح **how to convert a DOCX file to PDF from a stream**.
+فيما يلي دليل خطوة بخطوة يوضح **how to convert a DOCX file to PDF from a stream**.
 
 ### تحميل المستند من تدفق
-
-تتيح هذه الميزة تحويل المستندات مباشرةً من تدفقات الإدخال دون الحاجة إلى تخزينها على القرص أولاً.
+تتيح لك هذه الميزة تحويل المستندات مباشرةً من تدفقات الإدخال دون الحاجة إلى تخزينها على القرص أولاً.
 
 #### الخطوة 1: استيراد الحزم المطلوبة
-
 ```java
 import com.groupdocs.conversion.Converter;
 import com.groupdocs.conversion.exceptions.GroupDocsConversionException;
@@ -84,7 +81,6 @@ import java.io.FileNotFoundException;
 ```
 
 #### الخطوة 2: تعريف طريقة التحويل
-
 ```java
 public class LoadDocumentFromStream {
     public static void run() {
@@ -116,65 +112,55 @@ public class LoadDocumentFromStream {
 ```
 
 #### الشرح
+- **Converter Initialization** – يتم إنشاء كائن `Converter` باستخدام لامبدا تُعيد `FileInputStream`. يتيح لك هذا النمط تمرير أي `InputStream` (مثلًا من طلب HTTP) إلى محرك التحويل.  
+- **Handling `FileNotFoundException`** – تلتقط اللامبدا استثناء `FileNotFoundException` وتعيد رميه كـ `RuntimeException` برسالة واضحة، مما يحقق الكلمة المفتاحية الثانوية *handle file notfound exception*.  
+- **PDF Conversion Options** – تتيح لك `PdfConvertOptions` ضبط إعدادات PDF الناتج بدقة (مثل حجم الصفحة، الضغط). الإعداد الافتراضي يعمل في معظم السيناريوهات.  
 
-- **تهيئة Converter** – يتم إنشاء كائن `Converter` باستخدام دالة لامبدا تُعيد `FileInputStream`. يتيح هذا النمط تمرير أي `InputStream` (مثلًا من طلب HTTP) إلى محرك التحويل.  
-- **معالجة `FileNotFoundException`** – تلتقط الدالة اللّامبدا `FileNotFoundException` وتعيد رميها كـ `RuntimeException` برسالة واضحة، مما يحقق المتطلب الثانوي *handle file notfound exception*.  
-- **خيارات تحويل PDF** – يتيح `PdfConvertOptions` ضبط إعدادات PDF الناتج (مثل حجم الصفحة، الضغط). الإعداد الافتراضي يعمل في معظم السيناريوهات.  
-
-### نصائح استكشاف الأخطاء وإصلاحها
-
-- تأكد من صحة **مسار DOCX المصدر** و**دليل الإخراج**؛ أي خطأ إملائي سيتسبب في حدوث `FileNotFoundException`.  
-- إذا تلقيت `GroupDocsConversionException`، فافحص رسالة الاستثناء الداخلي للعثور على دلائل (مثل تنسيق ملف غير مدعوم).  
-- بالنسبة للمستندات الكبيرة، فكر في تغليف `FileInputStream` بـ `BufferedInputStream` لتحسين أداء I/O.
+### المشكلات الشائعة والحلول
+- **Incorrect file paths** – تحقق مرة أخرى من مسار DOCX المصدر ودليل الإخراج؛ أي خطأ إملائي سيتسبب في حدوث `FileNotFoundException`.  
+- **Conversion failures** – إذا ظهر `GroupDocsConversionException`، فافحص الاستثناء الداخلي للحصول على تفاصيل مثل الصيغ غير المدعومة.  
+- **Large documents** – ضع `FileInputStream` داخل `BufferedInputStream` لتحسين أداء I/O.  
 
 ## التطبيقات العملية
+تحويل DOCX إلى PDF من التدفقات باستخدام GroupDocs.Conversion ذو قيمة في العديد من السيناريوهات الواقعية:
 
-يعد تحويل DOCX إلى PDF من التدفقات باستخدام GroupDocs.Conversion مفيدًا في العديد من السيناريوهات الواقعية:
-
-1. **معالجة ملفات تطبيق الويب** – تحويل ملفات DOCX التي يرفعها المستخدم إلى PDF فورًا دون حفظ الملف الأصلي.  
-2. **معالجة بيانات الشبكة** – تحويل المستندات المستلمة عبر المقابس أو واجهات REST مباشرةً من التدفقات.  
-3. **أنظمة المعالجة الدفعية** – تغذية قائمة من تدفقات الإدخال إلى عامل تحويل ينتج ملفات PDF بشكل جماعي.
+1. **Web Application File Handling** – تحويل ملفات DOCX التي يرفعها المستخدم إلى PDF مباشرةً دون حفظ الملف الأصلي.  
+2. **Network Data Processing** – تحويل المستندات المستلمة عبر المقابس أو واجهات REST مباشرةً من التدفقات.  
+3. **Batch Processing Systems** – تغذية طابور من تدفقات الإدخال إلى عامل تحويل ينتج ملفات PDF بالجملة.  
 
 ## اعتبارات الأداء
+- **Buffered I/O** – ضع التدفقات داخل `BufferedInputStream` للملفات الكبيرة لتقليل عبء القراءة.  
+- **Memory Management** – حرّر كائن `Converter` فورًا بعد التحويل لتحرير الموارد الأصلية.  
+- **Thread Safety** – أنشئ كائن `Converter` منفصل لكل خيط؛ الفئة غير آمنة للاستخدام المتعدد الخيوط.  
 
-- **Buffered I/O** – غلف التدفقات بـ `BufferedInputStream` للملفات الكبيرة لتقليل عبء القراءة.  
-- **إدارة الذاكرة** – حرّر كائن `Converter` فور الانتهاء من التحويل لتحرير الموارد الأصلية.  
-- **سلامة الخيوط** – أنشئ كائن `Converter` منفصل لكل خيط؛ الفئة غير آمنة للاستخدام المتعدد الخيوط.
-
-## الخلاصة
-
-في هذا الدرس تعلمت كيفية **convert DOCX to PDF from streams** باستخدام GroupDocs.Conversion for Java. من خلال تحميل المستندات مباشرةً من `InputStream`، ومعالجة `FileNotFoundException` المحتملة، والاستفادة من API البسيط لـ `Converter`، يمكنك بناء خطوط تحويل فعّالة خالية من الملفات للبيئات الحديثة لتطبيقات Java.
-
-## الأسئلة المتكررة الشائعة
-
-**س: كيف أحول ملف DOCX مخزن في BLOB بقاعدة البيانات؟**  
-ج: استخرج الـ BLOB كـ `InputStream` ومرره إلى لامبدا `Converter` تمامًا كما هو موضح في المثال.
+## الأسئلة المتكررة
+**س: كيف يمكنني تحويل ملف DOCX مخزن في BLOB بقاعدة البيانات؟**  
+ج: استرجع الـ BLOB كـ `InputStream` ومرره إلى لامبدا `Converter` تمامًا كما هو موضح في المثال.
 
 **س: ماذا لو كان تدفق المصدر كبيرًا (مئات الميجابايت)؟**  
-ج: استخدم `BufferedInputStream` وفكّر في تنفيذ التحويل في خيط خلفية لتجنب حجز تدفق التطبيق الرئيسي.
+ج: استخدم `BufferedInputStream` وفكّر في معالجة التحويل في خيط خلفي لتجنب حجز تدفق التطبيق الرئيسي.
 
 **س: هل يدعم GroupDocs.Conversion المستندات المحمية بكلمة مرور؟**  
-ج: نعم. يمكنك تمرير كلمة المرور عبر `LoadOptions` عند إنشاء كائن `Converter`.
+ج: نعم. يمكنك تمرير كلمة المرور عبر `LoadOptions` عند إنشاء `Converter`.
 
 **س: هل يمكنني التحويل مباشرةً إلى `OutputStream` بدلاً من مسار ملف؟**  
 ج: الواجهة الحالية تكتب أساسًا إلى مسار ملف، لكن يمكنك الكتابة إلى ملف مؤقت ثم إرجاعه كتيار، أو استخدام نسخة `convert` التي تقبل `ByteArrayOutputStream`.
 
 **س: هل هناك طريقة لمراقبة تقدم التحويل؟**  
-ج: يوفر GroupDocs.Conversion ردود أحداث يمكنك ربطها لتلقي تحديثات حول التقدم.
+ج: يوفر GroupDocs.Conversion ردود نداء (callbacks) للحدث يمكنك ربطها لتلقي تحديثات التقدم.
 
 ## الموارد
-
-- [التوثيق](https://docs.groupdocs.com/conversion/java/)
-- [مرجع API](https://reference.groupdocs.com/conversion/java/)
-- [تحميل GroupDocs.Conversion for Java](https://releases.groupdocs.com/conversion/java/)
-- [شراء ترخيص](https://purchase.groupdocs.com/buy)
-- [تجربة مجانية](https://releases.groupdocs.com/conversion/java/)
-- [طلب ترخيص مؤقت](https://purchase.groupdocs.com/temporary-license/)
-- [منتدى الدعم](https://forum.groupdocs.com/c/conversion/10)
+- [Documentation](https://docs.groupdocs.com/conversion/java/)
+- [API Reference](https://reference.groupdocs.com/conversion/java/)
+- [Download GroupDocs.Conversion for Java](https://releases.groupdocs.com/conversion/java/)
+- [Purchase License](https://purchase.groupdocs.com/buy)
+- [Free Trial](https://releases.groupdocs.com/conversion/java/)
+- [Temporary License Request](https://purchase.groupdocs.com/temporary-license/)
+- [Support Forum](https://forum.groupdocs.com/c/conversion/10)
 
 ---
 
-**آخر تحديث:** 2025-12-21  
+**آخر تحديث:** 2026-03-24  
 **تم الاختبار مع:** GroupDocs.Conversion 25.2  
 **المؤلف:** GroupDocs  
 

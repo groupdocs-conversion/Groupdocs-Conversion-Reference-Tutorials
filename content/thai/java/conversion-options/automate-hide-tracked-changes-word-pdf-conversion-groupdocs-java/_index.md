@@ -1,45 +1,46 @@
 ---
-date: '2025-12-19'
-description: เรียนรู้วิธีใช้ตัวเลือกเพื่อซ่อนการเปลี่ยนแปลงที่ติดตามเมื่อแปลงเอกสาร
-  Word เป็น PDF ด้วย GroupDocs.Conversion สำหรับ Java ปรับกระบวนการแปลงเป็นชุดให้มีประสิทธิภาพและรับประกัน
-  PDF ที่สะอาดเรียบร้อย
+date: '2026-03-24'
+description: เรียนรู้วิธีซ่อนการแก้ไขโดยใช้ตัวเลือกเพื่อซ่อนการติดตามการเปลี่ยนแปลงระหว่างการแปลง
+  Word เป็น PDF ใน Java ด้วย GroupDocs.Conversion. ทำการแปลงเป็นชุดอัตโนมัติและลบเครื่องหมายการแก้ไข.
 keywords:
 - automate hiding tracked changes
 - Word-to-PDF conversion
 - GroupDocs.Conversion for Java
-title: วิธีใช้ตัวเลือกเพื่อซ่อนการเปลี่ยนแปลงที่ติดตามใน Word‑PDF
+title: 'วิธีซ่อนการแก้ไข: ใช้ตัวเลือกเพื่อซ่อนการเปลี่ยนแปลงที่ติดตามในการแปลง Word‑PDF
+  ด้วย GroupDocs.Conversion สำหรับ Java'
 type: docs
 url: /th/java/conversion-options/automate-hide-tracked-changes-word-pdf-conversion-groupdocs-java/
 weight: 1
 ---
 
-# วิธีใช้ Options เพื่อซ่อนการติดตามการเปลี่ยนแปลงในการแปลง Word‑PDF ด้วย GroupDocs.Conversion สำหรับ Java
+# วิธีซ่อนการแก้ไข: ใช้ Options เพื่อซ่อนการติดตามการเปลี่ยนแปลงในการแปลง Word‑PDF ด้วย GroupDocs.Conversion สำหรับ Java
 
-การแปลงเอกสาร Word เป็น PDF พร้อมกับการซ่อนการติดตามการเปลี่ยนแปลงด้วยตนเองอาจทำให้เหนื่อยล้า โดยเฉพาะเมื่อคุณต้อง **convert word to pdf** สำหรับหลายไฟล์พร้อมกัน ในบทแนะนำนี้คุณจะได้เรียนรู้ **how to use options** เพื่อซ่อนการติดตามการเปลี่ยนแปลงโดยอัตโนมัติระหว่างกระบวนการแปลงด้วย GroupDocs.Conversion สำหรับ Java เมื่อเสร็จแล้วคุณจะได้ PDF ที่สะอาดและพร้อมใช้งานในผลิตภัณฑ์โดยไม่มีเครื่องหมายการแก้ไขเหลืออยู่
+เมื่อคุณต้องการ **แปลง Word เป็น PDF** สำหรับหลายสิบหรือหลายร้อยไฟล์ การปิดการติดตามในแต่ละเอกสารด้วยตนเองเป็นการเสียเวลามาก ในบทแนะนำนี้คุณจะได้เรียนรู้ **วิธีซ่อนการแก้ไข** โดยอัตโนมัติโดยใช้ตัวเลือกการแปลงใน GroupDocs.Conversion สำหรับ Java เมื่อเสร็จแล้วคุณจะได้ PDF ที่สะอาด—ไม่มีเครื่องหมายการแก้ไข—พร้อมสำหรับการตรวจสอบทางกฎหมาย การเผยแพร่ หรือการส่งมอบให้ลูกค้า
 
 ## คำตอบด่วน
-- **“hide tracked changes” ทำอะไร?** It removes revision marks from the final PDF automatically.  
-- **ไลบรารีใดสนับสนุนสิ่งนี้?** GroupDocs.Conversion for Java provides a dedicated load‑option.  
-- **ฉันสามารถแปลงไฟล์ docx pdf เป็นชุดได้หรือไม่?** Yes – combine the option with a loop to process many documents.  
-- **เวอร์ชัน Java ที่ต้องการคืออะไร?** JDK 8 or higher.  
-- **ฉันต้องการใบอนุญาตหรือไม่?** A free trial works for evaluation; a permanent license is required for production.  
+- **ฟังก์ชัน “hide tracked changes” ทำอะไร?** มันจะลบเครื่องหมายการแก้ไขออกจาก PDF สุดท้ายโดยอัตโนมัติ.  
+- **ไลบรารีใดรองรับฟีเจอร์นี้?** GroupDocs.Conversion for Java มี load‑option เฉพาะสำหรับการทำเช่นนี้.  
+- **ฉันสามารถแปลงไฟล์ docx เป็น pdf แบบแบตช์ได้หรือไม่?** ได้ – เพียงรวมตัวเลือกนี้กับลูปเพื่อประมวลผลหลายเอกสาร.  
+- **ต้องใช้ Java เวอร์ชันใด?** JDK 8 หรือสูงกว่า.  
+- **ต้องมีใบอนุญาตหรือไม่?** ทดลองใช้งานฟรีได้สำหรับการประเมิน; ต้องมีใบอนุญาตถาวรสำหรับการใช้งานจริง.
 
-## “how to use options” คืออะไรในบริบทนี้?
-การใช้ options หมายถึงการกำหนดค่าของเอนจินการแปลง (load options, convert options ฯลฯ) ก่อนที่การแปลงจริงจะทำงาน ซึ่งให้คุณควบคุมได้อย่างละเอียด เช่น การซ่อนการติดตามการเปลี่ยนแปลง การตั้งค่าขนาดหน้า หรือการกำหนดคุณภาพภาพ
+## “วิธีซ่อนการแก้ไข” หมายถึงอะไรในบริบทนี้?
+การใช้ options หมายถึงการกำหนดค่าเอนจินการแปลง (load options, convert options, ฯลฯ) **ก่อน** การแปลงทำงาน ซึ่งให้คุณควบคุมได้ละเอียด เช่น **การลบเครื่องหมายการแก้ไข**, การตั้งขนาดหน้า, หรือการกำหนดคุณภาพของภาพ.
 
-## ทำไมต้องซ่อนการติดตามการเปลี่ยนแปลงระหว่างการแปลง?
+## ทำไมต้องซ่อนการแก้ไขระหว่างการแปลง?
 - **ผลลัพธ์ระดับมืออาชีพ** – ลูกค้าได้รับ PDF ที่สะอาดไม่มีการแก้ไขที่มองเห็นได้.  
 - **การปฏิบัติตามกฎหมาย** – ลบข้อมูลการแก้ไขที่อาจเป็นความลับออก.  
-- **ประหยัดเวลา** – กำจัดขั้นตอนการปิดการติดตามใน Word ด้วยตนเอง.  
+- **ประหยัดเวลา** – ขจัดขั้นตอนการปิดการติดตามใน Word ด้วยมือ.  
+- **พร้อมสำหรับอัตโนมัติ** – เหมาะสำหรับกระบวนการ **automate word pdf conversion** และงาน **batch convert docx pdf**.
 
 ## ข้อกำหนดเบื้องต้น
 - **Java Development Kit (JDK)** 8 หรือใหม่กว่า.  
 - **Maven** สำหรับการจัดการ dependencies.  
-- ทักษะการเขียนโค้ด Java เบื้องต้น.  
+- ทักษะการเขียนโค้ด Java เบื้องต้น.
 
 ## การตั้งค่า GroupDocs.Conversion สำหรับ Java
 
-ขั้นแรก ให้เพิ่มรีโพซิทอรีของ GroupDocs และ dependency การแปลงลงในไฟล์ `pom.xml` ของ Maven ของคุณ
+ขั้นแรก ให้เพิ่มรีโพซิทอรีของ GroupDocs และ dependency การแปลงลงใน `pom.xml` ของ Maven ของคุณ.
 
 ```xml
 <repositories>
@@ -61,14 +62,14 @@ weight: 1
 ### การรับใบอนุญาต
 - **Free Trial** – ดาวน์โหลดไลบรารีจาก [GroupDocs Releases](https://releases.groupdocs.com/conversion/java/).  
 - **Temporary License** – ขอคีย์ชั่วคราวที่ [GroupDocs Temporary License](https://purchase.groupdocs.com/temporary-license/).  
-- **Purchase** – รับใบอนุญาตเต็มผ่าน [GroupDocs Purchase Page](https://purchase.groupdocs.com/buy).  
+- **Purchase** – รับใบอนุญาตเต็มรูปแบบผ่าน [GroupDocs Purchase Page](https://purchase.groupdocs.com/buy).
 
 ## วิธีใช้ Options เพื่อซ่อนการติดตามการเปลี่ยนแปลง
 
-ด้านล่างเป็นการดำเนินการแบบขั้นตอนต่อขั้นตอน โค้ดบล็อกแต่ละบล็อกจะถูกเก็บไว้ตามต้นฉบับโดยไม่มีการเปลี่ยนแปลง
+ด้านล่างเป็นการดำเนินการแบบขั้นตอนต่อขั้นตอน โค้ดบล็อกแต่ละบล็อกจะคงไว้ตามที่ให้มาเดิม.
 
 ### ขั้นตอนที่ 1: ตั้งค่า Load Options
-สร้าง `WordProcessingLoadOptions` และเปิดใช้งานแฟล็ก hide‑tracked‑changes
+สร้าง `WordProcessingLoadOptions` และเปิดใช้งานแฟล็ก hide‑tracked‑changes.
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -81,8 +82,6 @@ loadOptions.setHideWordTrackedChanges(true); // Hide tracked changes during conv
 ```
 
 ### ขั้นตอนที่ 2: เริ่มต้น Converter ด้วย Load Options
-ส่ง load options ไปยังคอนสตรัคเตอร์ของ `Converter`
-
 ```java
 String inputFile = "YOUR_DOCUMENT_DIRECTORY/SAMPLE_DOCX_WITH_TRACKED_CHANGES";
 String outputFile = "YOUR_OUTPUT_DIRECTORY/ConvertWordProcessingByHiddingTrackedChanges.pdf";
@@ -92,16 +91,16 @@ Converter converter = new Converter(inputFile, () -> loadOptions);
 ```
 
 ### ขั้นตอนที่ 3: กำหนดค่า PDF Conversion Options
-คุณสามารถปรับแต่งผลลัพธ์ PDF ที่นี่; ตัวอย่างใช้การตั้งค่าเริ่มต้น
+คุณสามารถปรับแต่งผลลัพธ์ PDF ที่นี่; ตัวอย่างใช้การตั้งค่าเริ่มต้น.
 
 ```java
 PdfConvertOptions pdfOptions = new PdfConvertOptions(); // Customize options as needed
 converter.convert(outputFile, pdfOptions); // Perform the conversion
 ```
 
-## การโหลดเอกสารด้วย Custom Load Options (วิธีทางเลือก)
+## การโหลดเอกสารด้วย Custom Load Options (แนวทางทางเลือก)
 
-หากคุณต้องการใช้ options เดียวกันซ้ำสำหรับหลายไฟล์ ให้สร้างอินสแตนซ์ของ converter แยกเฉพาะ
+หากคุณต้องการใช้ตัวเลือกเดียวกันหลายไฟล์ ให้สร้างอินสแตนซ์ Converter เฉพาะ.
 
 ### ขั้นตอนที่ 1: กำหนด Load Options
 ```java
@@ -120,44 +119,44 @@ Converter converterWithOptions = new Converter(inputFile, () -> wordLoadOptions)
 2. **Academic Publishing** – ลบเครื่องหมายการแก้ไขก่อนส่งบทความไปยังวารสาร.  
 3. **Business Reporting** – ทำให้รายงานสุดท้ายไม่มีการแก้ไขที่หลงเหลือ.  
 
-## ข้อควรพิจารณาด้านประสิทธิภาพ
-- **Memory Management** – ปิดสตรีมโดยเร็วและใช้ `Converter` อินสแตนซ์ซ้ำเมื่อเป็นไปได้.  
-- **Streaming API** – ใช้การสตรีมสำหรับไฟล์ `.docx` ขนาดใหญ่มากเพื่อให้การใช้ RAM ต่ำ.  
-- **Batch Processing** – วนลูปผ่านรายการไฟล์พร้อมใช้ `loadOptions` เดียวกันเพื่อ **batch convert docx pdf** อย่างมีประสิทธิภาพ.  
+## ข้อพิจารณาด้านประสิทธิภาพ
+- **Memory Management** – ปิดสตรีมโดยเร็วและใช้ซ้ำอินสแตนซ์ `Converter` เมื่อเป็นไปได้.  
+- **Streaming API** – ใช้ streaming สำหรับไฟล์ `.docx` ขนาดใหญ่มากเพื่อรักษาการใช้ RAM ให้น้อย.  
+- **Batch Processing** – วนลูปผ่านรายการไฟล์พร้อมใช้ `loadOptions` เดียวกันเพื่อ **batch convert docx pdf** อย่างมีประสิทธิภาพ.
 
-## ปัญหาทั่วไปและการแก้ไขปัญหา
-- **Tracked changes still appear** – ตรวจสอบว่าได้เรียก `setHideWordTrackedChanges(true)` ก่อนสร้าง `Converter`.  
-- **Conversion fails on large files** – เพิ่มขนาด heap ของ JVM หรือประมวลผลไฟล์ในโหมดสตรีม.  
-- **License errors** – ตรวจสอบว่าไฟล์ใบอนุญาตวางไว้ถูกต้องและระยะทดลองยังไม่หมดอายุ.  
+## ปัญหาทั่วไปและการแก้ไขข้อผิดพลาด
+- **Tracked changes still appear** – ตรวจสอบว่าได้เรียก `setHideWordTrackedChanges(true)` **ก่อน** สร้าง `Converter`.  
+- **Conversion fails on large files** – เพิ่มขนาด heap ของ JVM หรือประมวลผลไฟล์ในโหมด streaming.  
+- **License errors** – ตรวจสอบว่าไฟล์ใบอนุญาตวางไว้ถูกต้องและระยะทดลองยังไม่หมดอายุ.
 
 ## คำถามที่พบบ่อย
 
-**ถาม: ฉันสามารถแปลงเอกสารที่ไม่ใช่ DOCX ด้วย GroupDocs.Conversion ได้หรือไม่?**  
-ตอบ: ใช่, ไลบรารีรองรับ PPTX, XLSX, PDF และรูปแบบอื่น ๆ อีกหลายประเภท.
+**Q: ฉันสามารถแปลงเอกสารที่ไม่ใช่ DOCX ด้วย GroupDocs.Conversion ได้หรือไม่?**  
+A: ได้, ไลบรารีรองรับ PPTX, XLSX, PDF, และรูปแบบอื่น ๆ อีกหลายประเภท.
 
-**ถาม: เวอร์ชัน Java ไหนที่เข้ากันได้กับ GroupDocs.Conversion?**  
-ตอบ: ต้องใช้ JDK 8 หรือสูงกว่า.
+**Q: เวอร์ชัน Java ใดที่เข้ากันได้กับ GroupDocs.Conversion?**  
+A: ต้องการ JDK 8 หรือสูงกว่า.
 
-**ถาม: ฉันจะแก้ไขข้อผิดพลาดการแปลงอย่างไร?**  
-ตอบ: ตรวจสอบ stack trace ของ exception, ยืนยันว่าไฟล์อินพุตไม่เสียหาย, และตรวจสอบว่าใบอนุญาตถูกต้อง.
+**Q: ฉันจะแก้ไขข้อผิดพลาดการแปลงอย่างไร?**  
+A: ตรวจสอบ stack trace ของข้อยกเว้น, ยืนยันว่าไฟล์อินพุตไม่เสียหาย, และตรวจสอบว่าใบอนุญาตถูกต้อง.
 
-**ถาม: สามารถปรับแต่งผลลัพธ์ PDF นอกเหนือจากการซ่อนการติดตามการเปลี่ยนแปลงได้หรือไม่?**  
-ตอบ: แน่นอน. สำรวจ `PdfConvertOptions` สำหรับการตั้งค่าเช่น DPI, ช่วงหน้า, และการใส่ลายน้ำ.
+**Q: สามารถปรับแต่งผลลัพธ์ PDF นอกเหนือจากการซ่อนการติดตามการเปลี่ยนแปลงได้หรือไม่?**  
+A: แน่นอน. สำรวจ `PdfConvertOptions` สำหรับการตั้งค่าเช่น DPI, ช่วงหน้า, และการใส่ลายน้ำ.
 
-**ถาม: GroupDocs.Conversion สามารถจัดการการประมวลผลเป็นชุดได้อย่างมีประสิทธิภาพหรือไม่?**  
-ตอบ: ใช่, คุณสามารถวนลูปผ่านไฟล์พร้อมใช้ load options เดียวกันเพื่อ **batch convert docx pdf** อย่างรวดเร็ว.
+**Q: GroupDocs.Conversion สามารถจัดการการประมวลผลแบบแบตช์ได้อย่างมีประสิทธิภาพหรือไม่?**  
+A: ได้, คุณสามารถวนลูปไฟล์พร้อมใช้ load options เดียวกันเพื่อ **batch convert docx pdf** อย่างรวดเร็ว.
 
 ## สรุป
-ตอนนี้คุณรู้แล้วว่า **how to use options** เพื่อซ่อนการติดตามการเปลี่ยนแปลงเมื่อแปลงเอกสาร Word เป็น PDF ด้วย GroupDocs.Conversion สำหรับ Java วิธีนี้กำจัดขั้นตอนด้วยตนเอง ปรับปรุงความเป็นมืออาชีพของเอกสาร และขยายได้ดีสำหรับการประมวลผลเป็นชุด.
+คุณตอนนี้รู้ **วิธีซ่อนการแก้ไข** เมื่อแปลงเอกสาร Word เป็น PDF ด้วย GroupDocs.Conversion สำหรับ Java วิธีนี้ขจัดขั้นตอนด้วยมือ, ปรับปรุงความเป็นมืออาชีพของเอกสาร, และสามารถขยายได้ดีสำหรับการทำงานแบบแบตช์.
 
 ### ขั้นตอนต่อไป
-- ผสานโค้ดเข้ากับ pipeline การประมวลผลเอกสารที่มีอยู่ของคุณ.  
+- ผสานรวมโค้ดเข้าสู่ pipeline การประมวลผลเอกสารที่มีอยู่ของคุณ.  
 - ทดลองใช้ `PdfConvertOptions` เพิ่มเติมเพื่อปรับแต่งผลลัพธ์ PDF อย่างละเอียด.  
-- สำรวจคุณลักษณะการแปลงอื่น ๆ ของ GroupDocs เช่น การดึงภาพหรือการแปลงรูปแบบ.  
+- สำรวจคุณสมบัติการแปลงอื่น ๆ ของ GroupDocs เช่น การดึงภาพหรือการแปลงรูปแบบ.
 
 **แหล่งข้อมูล**  
-- เอกสารประกอบ: [GroupDocs Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)  
-- อ้างอิง API: [GroupDocs Conversion API Reference](https://reference.groupdocs.com/conversion/java/)  
+- เอกสาร: [GroupDocs Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)  
+- API Reference: [GroupDocs Conversion API Reference](https://reference.groupdocs.com/conversion/java/)  
 - ดาวน์โหลด: [Get the Latest Release](https://releases.groupdocs.com/conversion/java/)  
 - ซื้อ: [Buy a License](https://purchase.groupdocs.com/buy)  
 - ทดลองใช้งานฟรี: [Try It Out](https://releases.groupdocs.com/conversion/java/)  
@@ -166,6 +165,6 @@ Converter converterWithOptions = new Converter(inputFile, () -> wordLoadOptions)
 
 ---
 
-**อัปเดตล่าสุด:** 2025-12-19  
-**ทดสอบด้วย:** GroupDocs.Conversion 25.2 for Java  
-**ผู้เขียน:** GroupDocs  
+**อัปเดตล่าสุด:** 2026-03-24  
+**ทดสอบกับ:** GroupDocs.Conversion 25.2 for Java  
+**ผู้เขียน:** GroupDocs
