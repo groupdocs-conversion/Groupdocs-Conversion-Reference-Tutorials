@@ -1,35 +1,44 @@
 ---
-"date": "2025-04-28"
-"description": "了解如何使用 GroupDocs.Conversion for Java 将 PowerPoint 演示文稿（包括隐藏幻灯片）转换为 PDF 格式。非常适合希望简化文档处理的开发人员。"
-"title": "使用 GroupDocs.Conversion 在 Java 中高效地将带有隐藏幻灯片的 PPTX 转换为 PDF"
-"url": "/zh/java/presentation-formats/convert-pptx-hidden-slides-pdf-java/"
-"weight": 1
+date: '2026-03-03'
+description: 了解 GroupDocs Conversion Java 如何帮助您将 PPTX 转换为 PDF，包括隐藏的幻灯片。本指南展示了如何转换
+  PPTX、增加 Java 堆内存以及包含隐藏的幻灯片。
+keywords:
+- convert PPTX to PDF
+- Java presentation conversion
+- GroupDocs.Conversion for Java
+title: GroupDocs Conversion Java：将 PPTX（隐藏幻灯片）转换为 PDF
 type: docs
+url: /zh/java/presentation-formats/convert-pptx-hidden-slides-pdf-java/
+weight: 1
 ---
-# 使用 GroupDocs.Conversion 在 Java 中轻松将带有隐藏幻灯片的 PPTX 转换为 PDF
 
-在数字时代，将演示文稿文档转换为 PDF 等通用格式是开发人员的常见需求。本教程将指导您使用以下工具高效地解决此问题： **GroupDocs.Conversion for Java** 将 PowerPoint 演示文稿（包括隐藏幻灯片）转换为 PDF 格式。
+# GroupDocs Conversion Java – 将 PPTX（隐藏幻灯片）转换为 PDF
 
-## 您将学到什么
-- 配置 GroupDocs.Conversion 以在转换中包含隐藏幻灯片。
-- 使用 Java 将 PPTX 文件转换为 PDF 的分步说明。
-- 在您的项目中使用 GroupDocs.Conversion 的基本设置要求。
-- 优化转换的实际应用和性能考虑。
+在现代 Java 应用程序中，**groupdocs conversion java** 是在需要将 PowerPoint 文件转换为通用可查看的 PDF 时的首选库。本教程将指导您 *how to convert pptx* 文件，同时确保隐藏幻灯片不会被遗漏，并且还涉及 **increase java heap** 的大型演示文稿提示。
 
-让我们首先回顾一下先决条件。
+## 快速答案
+- **哪个库处理 PPTX → PDF？** GroupDocs Conversion for Java。  
+- **可以包含隐藏幻灯片吗？** Yes – set `showHiddenSlides` to `true`。  
+- **我需要许可证吗？** A free trial works for testing; a paid license is required for production。  
+- **如何避免内存不足错误？** Increase the Java heap (`-Xmx2g` or higher) and process large files in batches。  
+- **PDF 输出是否需要额外配置？** Only the basic `PdfConvertOptions` unless you need custom margins or orientation。
 
-### 先决条件
+## 什么是 GroupDocs Conversion Java？
+GroupDocs Conversion Java 是一个高性能 API，支持超过 100 种文件格式。它让开发者能够以编程方式将文档——例如 PowerPoint 演示文稿——转换为 PDF、图像、HTML 等，同时保留布局、字体和隐藏内容。
 
-要遵循本教程，请确保您已具备：
-- **已安装 Java 开发工具包 (JDK)** 在您的机器上。建议使用版本 8 或更高版本。
-- 对 Java 编程概念有基本的了解。
-- 访问支持 Maven 的项目环境来管理依赖项。
+## 为什么在 Java 演示文稿 PDF 任务中使用 GroupDocs Conversion Java？
+- **完整格式支持** – Handles PPTX, PPT, ODP, and more。  
+- **隐藏幻灯片处理** – Explicit options let you *show hidden* slides during conversion。  
+- **可扩展性能** – Works with large files when you **increase java heap** and use batch processing。  
+- **简易 Maven 集成** – No native binaries to manage。
 
-有了这些，让我们为 Java 设置 GroupDocs.Conversion。
+## 前提条件
+- 已安装 Java Development Kit (JDK) 8 或更高版本。  
+- 已启用 Maven 的项目用于依赖管理。  
+- 基本的 Java 编码知识。  
 
-### 为 Java 设置 GroupDocs.Conversion
-
-将以下配置添加到您的 `pom.xml` 文件以包含必要的 GroupDocs 库：
+### 设置 GroupDocs Conversion for Java
+将仓库和依赖添加到您的 `pom.xml`：
 
 ```xml
 <repositories>
@@ -48,19 +57,13 @@ type: docs
 </dependencies>
 ```
 
-#### 许可证获取
-获取免费试用许可证，评估 GroupDocs.Conversion 的全部功能。如需长期使用，请考虑购买订阅或临时许可证。
+#### 获取许可证
+获取免费试用许可证以评估 GroupDocs Conversion 的全部功能。生产环境使用时，请购买订阅或永久许可证。
 
-### 实施指南
+## 步骤指南
 
-该实现涉及两个主要功能：加载带有隐藏幻灯片的演示文稿并将其转换为 PDF。
-
-#### 加载包含隐藏幻灯片的演示文稿
-
-此功能可配置您的应用程序以在转换期间包含隐藏的幻灯片，确保翻译过程中不会丢失任何内容。
-
-##### 步骤 1：设置 PresentationLoadOptions
-创建一个实例 `PresentationLoadOptions` 并指定应包含隐藏的幻灯片：
+### 步骤 1：加载演示文稿并 **显示隐藏幻灯片**
+创建 `PresentationLoadOptions` 实例并启用隐藏幻灯片：
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -71,14 +74,12 @@ PresentationLoadOptions loadOptions = new PresentationLoadOptions();
 loadOptions.setShowHiddenSlides(true);
 Converter converter = new Converter(sourceDocument, () -> loadOptions);
 ```
-**解释：**
-这里， `setShowHiddenSlides(true)` 确保隐藏的幻灯片也能参与转换过程。此配置对于全面的文档转换至关重要。
 
-#### 将演示文稿转换为 PDF
-接下来，使用指定的转换选项将加载的演示文稿转换为 PDF 文件。
+**说明：**  
+`setShowHiddenSlides(true)` 告诉转换器将隐藏幻灯片视为可见，确保它们出现在最终的 PDF 中。这是 *include hidden slides* 要求的关键设置。
 
-##### 步骤2：执行转换
-使用以下代码片段将 PPTX 文件转换为 PDF：
+### 步骤 2：将加载的演示文稿转换为 PDF (**java presentation pdf**)
+定义输出路径并使用 `PdfConvertOptions` 执行转换：
 
 ```java
 import com.groupdocs.conversion.options.convert.PdfConvertOptions;
@@ -87,40 +88,56 @@ String convertedFile = "YOUR_OUTPUT_DIRECTORY/Converted_Presentation.pdf";
 PdfConvertOptions options = new PdfConvertOptions();
 converter.convert(convertedFile, options);
 ```
-**解释：**
-这 `PdfConvertOptions` 该类提供 PDF 输出的配置设置。本例中未指定其他配置，但您可以根据需求自定义这些选项。
 
-### 实际应用
-1. **自动报告生成：** 自动将详细的演示文稿转换为可共享的 PDF 报告。
-2. **文件归档：** 通过将隐藏幻灯片包含在 PDF 档案中来保存商业演示的所有内容。
-3. **与内容管理系统 (CMS) 集成：** 在 CMS 平台内无缝转换并存储演示文件为 PDF。
+**说明：**  
+`PdfConvertOptions` 让您微调 PDF 输出（例如，边距、页面大小）。在此基本示例中我们使用默认设置，但您可以根据需要进行自定义。
 
-### 性能考虑
-处理大型演示文稿时，请考虑以下优化技巧：
-- **内存管理：** 确保您的 Java 环境配置能够满足大型文档处理任务的内存需求。
-- **批处理：** 批量转换多个文档以提高效率。
-- **资源监控：** 定期监控转换过程中的资源使用情况，以识别和解决瓶颈。
+## 实际应用
+1. **自动化报告生成** – 将幻灯片快速转换为可共享的 PDF 报告。  
+2. **文档归档** – 保留每张幻灯片，包括隐藏的，以满足合规审计。  
+3. **CMS 集成** – 在将用户上传的演示文稿存入内容管理系统之前，将其转换为 PDF。  
 
-### 结论
-通过本教程，您学习了如何利用 GroupDocs.Conversion for Java 在 PDF 转换中添加隐藏幻灯片。此功能对于确保全面的文档管理和共享至关重要。
+## 性能考虑 & **Increase Java Heap**
+处理大型演示文稿时：
 
-要探索 GroupDocs.Conversion 的更多功能，请考虑查看 [文档](https://docs.groupdocs.com/conversion/java/) 或尝试其他支持的文件格式。
+- **Memory Management:** 使用更大的堆启动 JVM，例如 `java -Xmx4g -jar yourapp.jar`。  
+- **Batch Processing:** 在循环中转换多个文件，而不是一次性加载全部。  
+- **Resource Monitoring:** 使用 VisualVM 等工具监控内存使用并识别瓶颈。  
 
-### 常见问题解答部分
-**问：我可以使用 GroupDocs 将带有动画的演示文稿转换为 PDF 吗？**
-答：是的，虽然动画不会在 PDF 中显示，但所有幻灯片内容都会被准确转换。
+## 常见问题及解决方案
+- **Hidden slides not appearing:** 请确认在创建 `Converter` 之前调用了 `loadOptions.setShowHiddenSlides(true)`。  
+- **Out‑of‑memory errors:** 增加 Java 堆大小 (`-Xmx`) 并考虑将演示文稿拆分为更小的块。  
+- **Missing fonts:** 确保 PPTX 中使用的字体已安装在服务器上，或将其嵌入源文件中。  
 
-**问：如何处理大型演示文件而不耗尽内存？**
-答：增加 Java 堆大小，并考虑以较小的段来处理文档（如果可能）。
+## 常见问答
 
-**问：有没有办法自定义输出 PDF 格式？**
-答：是的， `PdfConvertOptions` 提供多种自定义选项，例如设置边距、页面方向等。
+**问：我可以使用 GroupDocs 将带动画的演示文稿转换为 PDF 吗？**  
+A: 是的，动画在 PDF 中呈现为静态图像；所有视觉内容均被保留。
 
-如需进一步帮助或有疑问，请访问 [GroupDocs 支持论坛](https://forum。groupdocs.com/c/conversion/10).
+**问：如何在不耗尽内存的情况下处理大型演示文稿文件？**  
+A: 增加 JVM 堆 (`-Xmx`)，批量处理文件，并在转换期间监控内存使用情况。
+
+**问：是否可以自定义输出的 PDF 格式？**  
+A: 当然可以。`PdfConvertOptions` 提供了边距、页面方向等设置。
+
+**问：GroupDocs Conversion 是否支持受密码保护的 PPTX 文件？**  
+A: 是的。使用接受密码参数的重载加载文档并提供相应的密码。
+
+**问：在哪里可以找到更详细的 API 文档？**  
+A: 请参阅官方文档： [documentation](https://docs.groupdocs.com/conversion/java/)。
+
+## 结论
+通过本指南，您现在了解如何使用 **groupdocs conversion java** 将 PPTX 文件（包括隐藏幻灯片）转换为高质量的 PDF。这一功能对于可靠的文档归档、自动化报告和无缝的 CMS 集成至关重要。
+
+欲了解更多功能，请查看官方 GroupDocs 资源或尝试其他受支持的格式。
+
+---
+
+**最后更新:** 2026-03-03  
+**测试环境:** GroupDocs.Conversion 25.2 for Java  
+**作者:** GroupDocs  
 
 ### 资源
-- **文档：** 探索综合指南 [GroupDocs 文档](https://docs.groupdocs.com/conversion/java/)
-- **API 参考：** 通过以下方式访问详细的 API 信息 [API 参考](https://reference.groupdocs.com/conversion/java/)
-- **下载和购买链接：** 在 GroupDocs 官方网站上找到下载或购买许可证的链接。
-
-通过将这些实践融入到您的开发工作流程中，您可以增强 Java 应用程序的文档处理能力。祝您编码愉快！
+- **文档:** Explore comprehensive guides at [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/)  
+- **API 参考:** Access detailed API information via [API Reference](https://reference.groupdocs.com/conversion/java/)  
+- **支持:** For further assistance, visit the [GroupDocs Support Forum](https://forum.groupdocs.com/c/conversion/10)。
