@@ -1,45 +1,43 @@
 ---
-"date": "2025-04-28"
-"description": "了解如何使用 GroupDocs.Conversion for Java 将 PDF 转换为可编辑的 Word 文档，同时移除嵌入文件。本指南涵盖设置、代码示例和实际应用。"
-"title": "使用 Java 将 PDF 转换为 Word（带嵌入式文件删除）——使用 GroupDocs.Conversion 的分步指南"
-"url": "/zh/java/pdf-conversion/convert-pdf-to-word-java-embedded-file-removal/"
-"weight": 1
+date: '2026-01-15'
+description: 学习如何使用 GroupDocs.Conversion 在 Java 中删除 PDF 中的嵌入文件并将 PDF 转换为 Word。一步一步的设置、代码和实战技巧。
+keywords:
+- convert PDF to Word in Java
+- remove embedded files from PDFs
+- GroupDocs.Conversion for Java
+title: 删除嵌入文件的 PDF – 在 Java 中将 PDF 转换为 Word
 type: docs
+url: /zh/java/pdf-conversion/convert-pdf-to-word-java-embedded-file-removal/
+weight: 1
 ---
-# 使用 Java 将 PDF 转换为 Word 并移除嵌入文件：使用 GroupDocs.Conversion 的分步指南
 
-## 介绍
+# 删除嵌入文件 PDF – 在 Java 中将 PDF 转换为 Word
 
-在当今的数字世界中，高效管理文档格式对于企业和个人至关重要。将 PDF 文件转换为可编辑的 Word 文档，同时确保移除嵌入文件，可以增强工作流程和数据安全性。本指南介绍了如何使用 **GroupDocs.转换** 在 Java 中实现这一点。
+在当今快速发展的数字环境中，**remove embedded files PDF** 是在将 PDF 转换为可编辑的 Word 文档且不携带隐藏附件时的关键步骤。无论是清理法律合同、学术论文还是内部报告，剥离嵌入文件都能提升安全性、减小文件大小，并简化后续处理。本文教程将使用 GroupDocs.Conversion，带您完整了解 **convert PDF to Word java** 工作流，从环境搭建到最终的转换调用。
 
-### 您将学到什么：
-- 如何使用 GroupDocs.Conversion for Java 将 PDF 文档转换为文字处理格式 (.docx)。
-- 在转换过程中从 PDF 中删除嵌入文件的技术。
-- 设置和配置必要的库和依赖项。
-- 这些功能在现实场景中的实际应用。
+## 快速答案
+- **什么库在 Java 中处理 PDF‑to‑Word 转换？** GroupDocs.Conversion for Java.  
+- **如何在转换过程中删除嵌入文件？** Set `PdfLoadOptions.setRemoveEmbeddedFiles(true)`.  
+- **我需要许可证吗？** A free trial or temporary license works for testing; a full license is required for production.  
+- **可以高效地转换大 PDF 吗？** Yes—monitor memory usage and reuse the `Converter` instance when processing batches.  
+- **此库兼容 JDK 8+ 吗？** Absolutely, the library supports JDK 8 and newer.
 
-在开始之前，请确保您对 Java 编程和 Maven 依赖管理有基本的了解。
+## 什么是 “remove embedded files PDF”？
+嵌入文件是指诸如电子表格、图像或其他 PDF 等可以隐藏在 PDF 容器中的对象。删除它们（`remove embedded files pdf`）仅提取可见内容，保护敏感数据并缩小生成的文件体积。
 
-## 先决条件
+## 为什么在此任务中使用 GroupDocs.Conversion？
+- **One‑stop solution** – 在单一 API 中处理加载、转换和清理。  
+- **High fidelity** – 在转换为 .docx 时保留布局、字体和样式。  
+- **Security‑first** – 内置选项可剥离嵌入文件，满足合规要求。  
 
-### 所需的库、版本和依赖项
-首先，请确保您的开发环境包括：
-- **Java 开发工具包 (JDK)**：版本 8 或更高版本。
-- **Maven**：用于管理依赖项和构建项目。
-
-### 环境设置要求
-确保你拥有一个集成开发环境 (IDE)，例如 IntelliJ IDEA 或 Eclipse，可用于 Java 开发。设置一个 Maven 项目来管理你的依赖项。
-
-### 知识前提
-建议对 Java 编程有基本的了解，并熟悉在 Java 应用程序中处理文件。
+## 前置条件
+- **Java Development Kit (JDK)** 8 或更高。  
+- **Maven** 用于依赖管理。  
+- IntelliJ IDEA 或 Eclipse 等 IDE。  
+- 对 Java 文件 I/O 有基本了解。  
 
 ## 为 Java 设置 GroupDocs.Conversion
-
-要将 GroupDocs.Conversion 集成到您的 Java 应用程序中，请按照以下步骤操作：
-
-**Maven配置**
-
-将以下配置添加到您的 `pom.xml` 文件以包含 GroupDocs.Conversion 作为依赖项：
+首先，将 GroupDocs 仓库和转换依赖添加到 Maven `pom.xml` 中。此步骤确保在构建期间下载所需的二进制文件。
 
 ```xml
 <repositories>
@@ -59,16 +57,16 @@ type: docs
 ```
 
 ### 许可证获取步骤
-要利用 GroupDocs.Conversion，您可以获得：
-- 一个 **免费试用** 测试功能。
-- 一个 **临时执照** 在有限时间内完全访问。
-- 长期使用的购买选项。
+要使用 GroupDocs.Conversion，您需要许可证。您可以：
 
-访问 [GroupDocs 网站](https://purchase.groupdocs.com/buy) 有关获取许可证的更多信息。
+- 开始使用 **free trial** 以探索所有功能。  
+- 获取 **temporary license** 以进行短期完整访问。  
+- 购买 **permanent license** 用于生产工作负载。  
 
-### 基本初始化和设置
+访问 [GroupDocs website](https://purchase.groupdocs.com/buy) 获取详情。
 
-以下是如何在 Java 应用程序中初始化 GroupDocs.Conversion：
+## 基本初始化和设置
+下面是一个完整、可运行的 Java 类，演示如何加载 PDF、启用嵌入文件删除，并将其转换为 DOCX 文件。
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -80,114 +78,117 @@ public class PdfToWordConverter {
         String inputPdf = "path/to/input.pdf";
         String outputDocx = "path/to/output.docx";
 
-        // 加载 PDF 文件并可选择删除嵌入文件
+        // Load the PDF file with options to remove embedded files
         PdfLoadOptions loadOptions = new PdfLoadOptions();
         loadOptions.setRemoveEmbeddedFiles(true);
 
-        // 初始化转换器对象
+        // Initialize Converter object
         Converter converter = new Converter(inputPdf, () -> loadOptions);
 
-        // 设置文字处理格式的转换选项
+        // Set conversion options for Word processing format
         WordProcessingConvertOptions convertOptions = new WordProcessingConvertOptions();
 
-        // 将 PDF 转换为 DOCX
+        // Convert PDF to DOCX
         converter.convert(outputDocx, convertOptions);
     }
 }
 ```
 
-## 实施指南
+## 在转换为 Word 时如何删除嵌入文件 PDF
 
-### 功能：将 PDF 转换为 Word 并删除嵌入文件
-
-此功能将 PDF 转换为可编辑的 Word 文档，同时确保在此过程中删除嵌入的文件。
-
-#### 步骤 1：配置 PDF 的加载选项
-
-首先设置 `PdfLoadOptions`：
+### 步骤 1：为 PDF 配置加载选项
+Set the `PdfLoadOptions` flag that tells the library to strip out any hidden attachments.
 
 ```java
 PdfLoadOptions loadOptions = new PdfLoadOptions();
 loadOptions.setRemoveEmbeddedFiles(true);
 ```
 
-**为什么？** 此配置可确保删除 PDF 中嵌入的所有文件，从而增强安全性和文件大小效率。
+**Why?** 这确保每个嵌入文件——无论是另一个 PDF、Excel 表格还是多媒体对象——都不会出现在输出中，使 Word 文档保持干净和安全。
 
-#### 步骤 2：初始化转换器
-
-接下来，初始化 `Converter` 带有 PDF 路径的对象：
+### 步骤 2：初始化 Converter
+Pass the PDF path and the customized load options to the `Converter` constructor.
 
 ```java
 Converter converter = new Converter("SamplePdf.pdf", () -> loadOptions);
 ```
 
-在这里，我们传递一个 lambda 表达式来提供我们定制的 `loadOptions`。
+The lambda supplies the load options lazily, allowing you to reuse the same `Converter` instance for multiple files if needed.
 
-#### 步骤 3：设置文字处理的转换选项
-
-定义特定于文字处理格式的转换选项：
+### 步骤 3：为 Word 处理设置转换选项
+Create a `WordProcessingConvertOptions` object. You can further customize page ranges, font embedding, etc., but the defaults work well for most scenarios.
 
 ```java
 WordProcessingConvertOptions options = new WordProcessingConvertOptions();
 ```
 
-这些选项准备将 PDF 内容转换为 .docx 文件格式。
-
-#### 步骤4：执行转换
-
-最后执行转换过程：
+### 步骤 4：执行转换
+Finally, invoke the `convert` method, providing the target DOCX path and the conversion options.
 
 ```java
 converter.convert("ConvertedDocument.docx", options);
 ```
 
-**为什么？** 此方法调用处理文档从 PDF 到 Word 的实际转换，应用所有指定的配置。
+**Result:** A high‑quality `.docx` file that mirrors the original PDF layout while **remove embedded files pdf** guarantees no hidden data remains.
 
-### 故障排除提示：
-- **找不到文件错误**：确保文件路径正确且可访问。
-- **转换错误**：仔细检查您是否正确配置了加载选项并具有读/写操作所需的权限。
+## 常见问题与解决方案
+- **File Not Found** – 仔细检查绝对路径与相对路径；使用 `Paths.get(...)` 进行跨平台处理。  
+- **Conversion Errors** – 确认 PDF 未损坏且加载选项已正确设置。  
+- **Memory Exhaustion on Large PDFs** – 将文档分块处理或增大 JVM 堆内存 (`-Xmx2g`)。  
 
 ## 实际应用
-
-请考虑此功能可能有益的以下场景：
-
-1. **法律文件管理**：将存储为 PDF 的案件文件转换为可编辑的 Word 格式，同时确保删除所有敏感附件。
-2. **学术研究**：转换嵌入补充材料的研究论文，仅保留 DOCX 格式的文本内容。
-3. **自动归档**：通过转换文档和删除不必要的嵌入文件来简化文档归档流程。
-
-集成可能性包括将此转换过程链接到更大的文档管理系统或工作流自动化工具。
+1. **Legal Document Management** — 在剥离机密附件的同时，将案件文件转换为可编辑的 Word 格式。  
+2. **Academic Research** — 删除 PDF 中嵌入的补充材料，仅保留主文本用于分析。  
+3. **Automated Archiving** — 批量处理大型文档库，确保每个归档的 Word 文件不含隐藏负载。  
 
 ## 性能考虑
+- **Monitor Memory** – 大型 PDF 可能占用大量堆内存；启用 GC 日志以发现峰值。  
+- **Reuse Converter Instances** – 转换大量文件时，复用同一 `Converter` 可降低开销。  
+- **Profile I/O** – 使用缓冲流进行读写，以最小化磁盘延迟。  
 
-为了获得最佳性能：
-- 监控内存使用情况，尤其是在处理大型 PDF 时。
-- 有效利用 Java 的垃圾收集来管理转换任务期间的资源。
-- 分析您的应用程序以识别并解决转换管道中的瓶颈。
+## 常见问题解答
 
-使用 GroupDocs.Conversion 实现 Java 内存管理的最佳实践可以带来更高效的应用程序。
+1. **How do I handle password‑protected PDFs during conversion?**  
+   在初始化 `Converter` 之前使用 `PdfLoadOptions.setPassword("yourPassword")`。  
 
-## 结论
+2. **Can I convert specific pages of a PDF instead of the entire document?**  
+   是的——在 `WordProcessingConvertOptions.setPageNumber(1, 5)` 中设置所需的页码范围。  
 
-按照本指南操作，您现在可以使用 GroupDocs.Conversion for Java 来将 PDF 转换为 Word 文档，同时删除嵌入文件，这是一个强大的解决方案。这不仅可以增强文档安全性，还可以优化文件大小，使其更易于处理和存储。
+3. **Is it possible to batch process multiple PDF files?**  
+   完全可以。遍历文件路径列表，在循环中应用相同的转换逻辑。  
 
-接下来，您可以考虑探索 GroupDocs.Conversion 的其他功能，或将其与其他系统集成，以进一步扩展其在您的项目中的功能。立即在测试环境中尝试实施此解决方案！
+4. **What should I do if my application crashes during conversion?**  
+   检查是否出现内存不足错误，验证文件完整性，并确保拥有有效许可证。  
 
-## 常见问题解答部分
+5. **Can embedded multimedia files be selectively removed?**  
+   当前 API 会删除所有嵌入文件。若需选择性删除，请在转换后处理 DOCX 或使用自定义 PDF 解析器。  
 
-1. **转换过程中如何处理受密码保护的 PDF？**
-   - 使用 `PdfLoadOptions` 初始化转换器时指定密码。
-2. **我可以转换 PDF 的特定页面而不是整个文档吗？**
-   - 是的，在 `WordProcessingConvertOptions`。
-3. **是否可以批量处理多个 PDF 文件？**
-   - 当然！遍历文件路径集合，并在循环中应用转换逻辑。
-4. **如果我的应用程序在转换过程中崩溃，我该怎么办？**
-   - 检查资源限制或无效输入数据，并确保错误处理机制到位。
-5. **可以选择性删除嵌入的多媒体文件吗？**
-   - 目前，该选项会删除所有嵌入的文件；如果需要选择性删除，请考虑后期处理。
+## 其他常见问题
+
+**Q: Does this approach work on Java 11 and newer?**  
+A: 是的，GroupDocs.Conversion 完全兼容 Java 8 及以上的最新 LTS 版本。  
+
+**Q: Are there any limits on the size of PDFs I can convert?**  
+A: The library imposes no hard limit, but practical constraints depend on your JVM heap size and available RAM.  
+
+**Q: How can I verify that all embedded files have been removed?**  
+A: After conversion, open the resulting DOCX and inspect the package contents (`zip -l ConvertedDocument.docx`) for any unexpected files.  
+
+**Q: Is a license required for development environments?**  
+A: A trial or temporary license is sufficient for development and testing. Production deployments require a purchased license.  
+
+**Q: Where can I find more advanced conversion options?**  
+A: Refer to the official API reference for detailed property descriptions.  
 
 ## 资源
-- [GroupDocs 文档](https://docs.groupdocs.com/conversion/java/)
-- [API 参考](https://reference.groupdocs.com/conversion/java/)
-- [下载 GroupDocs.Conversion](https://releases.groupdocs.com/conversion/java/)
-- [购买许可证](https://purchase.groupdocs.com/buy)
-- [免费试用和临时许可证信息]
+- [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/)
+- [API Reference](https://reference.groupdocs.com/conversion/java/)
+- [Download GroupDocs.Conversion](https://releases.groupdocs.com/conversion/java/)
+- [Purchase Licenses](https://purchase.groupdocs.com/buy)
+- [Free Trial and Temporary License Information]
+
+---
+
+**最后更新:** 2026-01-15  
+**测试环境:** GroupDocs.Conversion 25.2  
+**作者:** GroupDocs
