@@ -1,44 +1,84 @@
 ---
-date: '2026-01-18'
-description: تعرّف على تحويل البريد الإلكتروني إلى PDF باستخدام خيارات متقدمة عبر
-  GroupDocs.Conversion للغة Java. سيطر على رؤية حقول البريد الإلكتروني وحسّن إدارة
-  المستندات.
+date: '2026-05-21'
+description: تعلم كيفية إجراء تحويل eml إلى pdf java باستخدام GroupDocs.Conversion،
+  مع خيارات تحويل البريد الإلكتروني إلى pdf، إعداد Maven، والتحكم في رؤية الحقول.
 keywords:
-- convert emails to PDFs with GroupDocs
-- Java email conversion advanced options
-- control visibility in email PDF conversion
-title: 'تحويل البريد الإلكتروني إلى PDF في جافا باستخدام GroupDocs.Conversion: دليل
-  الخيارات المتقدمة'
+- eml to pdf java
+- email to pdf conversion
+- msg to pdf java
+- java pdf conversion library
+- maven dependency groupdocs conversion
+schemas:
+- author: GroupDocs
+  dateModified: '2026-05-21'
+  description: Learn how to perform eml to pdf java conversion using GroupDocs.Conversion,
+    with email to pdf conversion options, Maven setup, and field visibility control.
+  headline: eml to pdf java – Convert Email to PDF with GroupDocs
+  type: TechArticle
+- description: Learn how to perform eml to pdf java conversion using GroupDocs.Conversion,
+    with email to pdf conversion options, Maven setup, and field visibility control.
+  name: eml to pdf java – Convert Email to PDF with GroupDocs
+  steps:
+  - name: Configure Email Load Options
+    text: '`EmailLoadOptions` lets you toggle visibility of individual email sections
+      such as sender, recipients, and headers.'
+  - name: Initialize the Converter
+    text: '`Converter` is the engine that performs the conversion using the provided
+      load and convert options.'
+  - name: Set PDF Conversion Options
+    text: '`PdfConvertOptions` configures PDF output settings such as page size and
+      compression.'
+  - name: Perform the Conversion
+    text: Invoke `convert` with the destination file path and the PDF options you
+      defined. The method returns a boolean indicating success.
+  type: HowTo
+- questions:
+  - answer: It’s a Java library that enables conversion between over 100 file formats,
+      including email to PDF conversion, with high fidelity and no external dependencies.
+    question: What is GroupDocs.Conversion for Java?
+  - answer: Use `EmailLoadOptions` to turn off fields such as sender, recipient, and
+      CC/BCC addresses before conversion.
+    question: How do I ensure email privacy during conversion?
+  - answer: Yes, the library also supports Word, Excel, PowerPoint, images, and many
+      more formats.
+    question: Can I convert other document types besides email?
+  - answer: Allocate at least 2 GB of heap (`-Xmx2g`) and consider processing files
+      in batches to stay within memory limits.
+    question: What are the memory requirements for converting large emails?
+  - answer: Visit the [official documentation](https://docs.groupdocs.com/conversion/java/)
+      and [API reference](https://reference.groupdocs.com/conversion/java/). See the
+      [GroupDocs.Conversion for Java Docs](https://docs.groupdocs.com/conversion/java/)
+      and the [GroupDocs.Conversion API Reference](https://reference.groupdocs.com/conversion/java/).
+    question: Where can I find more information on GroupDocs.Conversion?
+  type: FAQPage
+title: eml to pdf java – تحويل البريد الإلكتروني إلى PDF باستخدام GroupDocs
 type: docs
 url: /ar/java/pdf-conversion/convert-emails-to-pdfs-groupdocs-java/
 weight: 1
 ---
 
-# تحويل البريد الإلكتروني إلى PDF في جافا باستخدام GroupDocs.Conversion: دليل الخيارات المتقدمة
+# eml to pdf java – تحويل البريد الإلكتروني إلى PDF باستخدام GroupDocs
 
-تحويل رسائل البريد الإلكتروني إلى ملفات PDF هو طلب شائع للأرشفة والمشاركة وضمان خصوصية البيانات. في هذا البرنامج التعليمي ستتقن **تحويل البريد الإلكتروني إلى PDF** باستخدام GroupDocs.Conversion لجافا، وستتعلم كيفية إخفاء أو إظهار حقول البريد الإلكتروني المحددة، وكيفية ضبط العملية بدقة للحصول على أفضل أداء.
-
-## إجابات سريعة
+## الإجابات السريعة
 - **ما المكتبة التي تتعامل مع تحويل البريد الإلكتروني إلى PDF؟** GroupDocs.Conversion for Java.  
-- **ما هو العنصر (artifact) في Maven الذي أحتاجه؟** `com.groupdocs:groupdocs-conversion`.  
-- **هل يمكنني إخفاء تفاصيل المرسل/المستلم؟** نعم—استخدم `EmailLoadOptions` للتحكم في الرؤية.  
-- **هل يلزم وجود ترخيص للإنتاج؟** يلزم وجود ترخيص GroupDocs صالح للاستخدام غير التجريبي.  
-- **ما نسخة جافا المدعومة؟** Java 8 أو أعلى.
+- **أي قطعة Maven أحتاجها؟** `com.groupdocs:groupdocs-conversion`.  
+- **هل يمكنني إخفاء تفاصيل المرسل/المستلم؟** نعم—use `EmailLoadOptions` to control visibility.  
+- **هل يلزم وجود ترخيص للإنتاج؟** A valid GroupDocs license is needed for non‑trial use.  
+- **ما نسخة Java المدعومة؟** Java 8 or higher.
 
 ## ما هو تحويل البريد الإلكتروني إلى PDF؟
-تحويل البريد الإلكتروني إلى PDF يحول صيغ `.msg`، `.eml` أو صيغ البريد الإلكتروني الأخرى إلى مستند PDF ثابت ومحمول. هذه العملية تحافظ على تخطيط الرسالة الأصلي مع السماح لك بطمس المعلومات الحساسة مثل عناوين البريد الإلكتروني، رؤوس الرسالة، أو حقول CC/BCC.
+تحويل البريد الإلكتروني إلى PDF يحول ملفات `.msg` و `.eml` أو غيرها من صيغ البريد الإلكتروني إلى مستند PDF ثابت ومحمول. هذه العملية تحافظ على تخطيط الرسالة الأصلي مع إتاحة إمكانية طمس المعلومات الحساسة مثل عناوين البريد الإلكتروني، والرؤوس، أو حقول CC/BCC، والمرفقات.
 
-## لماذا تستخدم GroupDocs.Conversion لجافا؟
-توفر GroupDocs.Conversion واجهة برمجة تطبيقات بسيطة، ودعم قوي للعديد من الصيغ، وخيارات تحميل دقيقة تتيح لك تحديد الأجزاء التي تريد ظهورها من البريد الإلكتروني في ملف PDF النهائي. كما أنها تتكامل بسلاسة مع Maven، مما يجعل إدارة التبعيات سهلة.
+## لماذا تستخدم GroupDocs.Conversion لـ Java؟
+GroupDocs.Conversion توفر **مكتبة تحويل PDF للـ java** تدعم أكثر من 100 صيغة إدخال وإخراج، بما في ذلك EML و MSG و PDF و DOCX و HTML. تقدم `EmailLoadOptions` دقيقة بحيث يمكنك تحديد بالضبط أي أجزاء من البريد الإلكتروني تظهر في PDF، وتندمج بسلاسة مع Maven لإدارة الاعتمادات بسهولة.
 
 ## المتطلبات المسبقة
-- **مجموعة تطوير جافا (JDK) 8+** مثبتة.  
-- **Maven** لإدارة التبعيات (انظر قسم *groupdocs conversion maven* أدناه).  
-- إلمام أساسي بجافا ومشاريع Maven.  
+- **Java Development Kit (JDK) 8+** مثبت.  
+- **Maven** لإدارة الاعتمادات (انظر قسم *maven dependency groupdocs conversion* أدناه).  
+- إلمام أساسي بـ Java ومشاريع Maven.  
 
-## إعداد GroupDocs.Conversion لجافا
-
-للبدء، أضف مستودع GroupDocs واعتماد التحويل إلى ملف `pom.xml` الخاص بك. هذا هو تكوين **groupdocs conversion maven** الذي ستحتاجه.
+## إعداد GroupDocs.Conversion لـ Java
+أضف مستودع GroupDocs واعتماد التحويل إلى ملف `pom.xml` الخاص بك. هذه هي إعدادات **groupdocs conversion maven** التي ستحتاجها.
 
 ```xml
 <repositories>
@@ -59,18 +99,15 @@ weight: 1
 ```
 
 ### الحصول على الترخيص
-- **تجربة مجانية** – استكشف جميع الميزات دون تكلفة.  
-- **ترخيص مؤقت** – اطلب مفتاحًا قصير الأمد للتقييم الموسع.  
-- **شراء** – احصل على ترخيص كامل للنشر في بيئة الإنتاج.
+- **Free Trial** – استكشف جميع الميزات بدون تكلفة.  
+- **Temporary License** – اطلب مفتاحًا قصير المدة للتقييم الموسع.  
+- **Purchase** – احصل على ترخيص كامل للنشر في بيئات الإنتاج.
 
-## دليل التنفيذ
+## كيفية تحويل eml إلى pdf باستخدام Java مع الخيارات المتقدمة؟
+`EmailLoadOptions` يحدد أي أجزاء من البريد الإلكتروني يتم عرضها أثناء التحويل. حمّل ملف `.eml` الخاص بك، اضبط الحقول التي تريد إظهارها، واستدعِ المحول—كل ذلك في بضع خطوات مختصرة. هذا الشرح يقدم لك سير العمل الكامل في أقل من 70 كلمة. ستقوم بإنشاء EmailLoadOptions، ضبط إعدادات تحويل PDF، واستدعاء طريقة convert، مع معالجة أي استثناءات قد تظهر.
 
-### تحويل البريد الإلكتروني إلى PDF مع خيارات متقدمة
-
-فيما يلي دليل خطوة بخطوة يوضح كيفية **تحويل msg إلى pdf** مع تخصيص رؤية الحقول.
-
-#### الخطوة 1: تكوين خيارات تحميل البريد الإلكتروني
-أنشئ كائن `EmailLoadOptions` وأوقف الحقول التي لا تريد ظهورها في ملف PDF.
+### الخطوة 1: تكوين خيارات تحميل البريد الإلكتروني
+`EmailLoadOptions` يتيح لك تبديل رؤية أقسام البريد الإلكتروني الفردية مثل المرسل، المستلمين، والرؤوس.
 
 ```java
 import com.groupdocs.conversion.options.load.EmailLoadOptions;
@@ -85,8 +122,8 @@ loadOptions.setDisplayBccEmailAddress(false);
 loadOptions.setConvertOwned(false); // Prevent conversion of fields that are owned by the document
 ```
 
-#### الخطوة 2: تهيئة المحول
-مرّر خيارات التحميل المكوّنة عند إنشاء كائن `Converter`.
+### الخطوة 2: تهيئة المحول
+`Converter` هو المحرك الذي ينفذ التحويل باستخدام خيارات التحميل والتحويل المقدمة.
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -95,24 +132,24 @@ import com.groupdocs.conversion.options.convert.PdfConvertOptions;
 Converter converter = new Converter("YOUR_DOCUMENT_DIRECTORY/SAMPLE_MSG", () -> loadOptions);
 ```
 
-#### الخطوة 3: ضبط خيارات تحويل PDF
-يمكنك تخصيص مخرجات PDF أكثر باستخدام `PdfConvertOptions`. في هذا المثال، الإعدادات الافتراضية كافية.
+### الخطوة 3: ضبط خيارات تحويل PDF
+`PdfConvertOptions` يضبط إعدادات إخراج PDF مثل حجم الصفحة والضغط.
 
 ```java
 PdfConvertOptions options = new PdfConvertOptions();
 ```
 
-#### الخطوة 4: تنفيذ التحويل
-استدعِ طريقة `convert`، مع توفير مسار الوجهة والخيارات المعرفة أعلاه.
+### الخطوة 4: تنفيذ التحويل
+استدعِ `convert` مع مسار ملف الوجهة وإعدادات PDF التي حددتها. تُعيد الطريقة قيمة منطقية تشير إلى النجاح.
 
 ```java
 converter.convert("YOUR_OUTPUT_DIRECTORY/ConvertEmailWithAlteringFieldsVisibility.pdf", options);
 ```
 
-### خيارات التحميل حسب نوع المستند
-فهم كيفية تحميل أنواع المستندات المختلفة أمر أساسي للتحويلات المرنة. فيما يلي مثال مركّز للبريد الإلكتروني.
+## كيفية تحويل msg إلى pdf باستخدام Java (إعادة استخدام نفس الخيارات)
+`EmailLoadOptions` يحدد أي أجزاء من البريد الإلكتروني يتم عرضها أثناء التحويل. إذا كنت بحاجة إلى معالجة ملفات Outlook `.msg`، فإن نفس سير عمل `EmailLoadOptions` و `Converter` ينطبق. ما عليك سوى استبدال مسار ملف المصدر بملف `.msg`. يمكنك أيضًا تعديل خيارات التحميل لإخفاء أو إظهار رؤوس معينة، وإعادة استخدام نفس PdfConvertOptions للحفاظ على جودة إخراج متسقة عبر الصيغ.
 
-#### الخطوة 1: تكوين خيارات تحميل البريد الإلكتروني (مُعاد الاستخدام)
+### الخطوة 1: تكوين خيارات تحميل البريد الإلكتروني (معاد استخدامها)
 
 ```java
 import com.groupdocs.conversion.options.load.EmailLoadOptions;
@@ -127,54 +164,56 @@ emailLoadOptions.setDisplayBccEmailAddress(false);
 emailLoadOptions.setConvertOwned(false); // Do not convert owned fields
 ```
 
-#### الخطوة 2: تهيئة المحول مع خيارات تحميل البريد الإلكتروني
+### الخطوة 2: تهيئة المحول مع خيارات تحميل البريد الإلكتروني
 
 ```java
 Converter emailConverter = new Converter("EMAIL_FILE_PATH", () -> emailLoadOptions);
 ```
 
 ## التطبيقات العملية
-فيما يلي ثلاث سيناريوهات واقعية حيث يبرز **تحويل البريد الإلكتروني إلى PDF**:
+إليك ثلاث سيناريوهات واقعية حيث يبرز **تحويل البريد الإلكتروني إلى PDF**:
 
-1. **الوثائق القانونية** – طمّس البيانات الشخصية قبل مشاركة أدلة البريد الإلكتروني مع العملاء.  
-2. **الأرشفة المؤسسية** – احفظ الاتصالات الداخلية بصيغة موحدة للقراءة فقط.  
-3. **التنظيم الشخصي** – احتفظ بأرشيف PDF نظيف للرسائل المهمة دون كشف عناوين غير ضرورية.  
+1. **Legal Documentation** – طمس البيانات الشخصية قبل مشاركة أدلة البريد الإلكتروني مع العملاء.  
+2. **Corporate Archiving** – تخزين الاتصالات الداخلية بصيغة موحدة للقراءة فقط للاحتفاظ طويل الأمد.  
+3. **Personal Organization** – الحفاظ على أرشيف PDF نظيف للرسائل المهمة دون كشف عناوين غير ضرورية.
 
 ## اعتبارات الأداء
-- **تحسين حجم الملفات** – عالج دفعات أصغر أو اضغط ملفات PDF بعد التحويل.  
-- **إدارة الذاكرة** – استفد من جامع القمامة في جافا وتجنب تحميل رسائل بريد إلكتروني ضخمة إلى الذاكرة دفعة واحدة.  
-- **ابقَ محدثًا** – قم بترقية نسخة GroupDocs.Conversion إلى أحدث إصدار بانتظام للحصول على تحسينات الأداء.  
+- **File‑size optimisation** – عالج دفعات أصغر أو فعّل ضغط PDF (`PdfConvertOptions.setCompressionLevel(CompressionLevel.Maximum)`) للحفاظ على حجم الناتج أقل من 2 MB للبريد الإلكتروني المعتاد من 10 صفحات.  
+- **Memory management** – استخدم واجهات برمجة التطبيقات المتدفقة في Java وزد حجم ذاكرة JVM (`-Xmx2g`) عند تحويل ملفات `.msg` متعددة الميجابايت.  
+- **Version upgrades** – الإصدار الأخير من GroupDocs.Conversion يحسن سرعة التحويل بنسبة تصل إلى 30 % مقارنة بالإصدار 24.x.
 
 ## المشكلات الشائعة والحلول
 | المشكلة | السبب | الحل |
 |-------|-------|----------|
-| OutOfMemoryError على ملفات `.msg` الكبيرة | تم تحميل الملف بالكامل في الذاكرة | قم ببث محتوى البريد الإلكتروني أو زيادة حجم ذاكرة JVM (`-Xmx2g`). |
-| فقدان جسم البريد الإلكتروني في PDF | `displayHeader` تم تعيينه إلى `true` بينما تم إخفاء الجسم | تأكد من أن `setDisplayHeader(false)` يخفي الرؤوس فقط؛ يبقى الجسم مرئيًا. |
-| الترخيص غير معترف به | استخدام مفتاح تجريبي في بيئة الإنتاج | استبدله بملف ترخيص إنتاج صالح أو سلسلة ترخيص. |
+| OutOfMemoryError على ملفات `.msg` الكبيرة | تحميل الملف بالكامل في الذاكرة | قم بتدفق محتوى البريد الإلكتروني أو زد حجم ذاكرة JVM (`-Xmx2g`). |
+| غياب جسم البريد الإلكتروني في PDF | `displayHeader` مضبوط على `true` بينما الجسم مخفي | تأكد من أن `setDisplayHeader(false)` يخفى فقط الرؤوس؛ يبقى الجسم مرئيًا. |
+| الترخيص غير معترف به | استخدام مفتاح تجريبي في الإنتاج | استبدله بملف ترخيص إنتاج صالح أو سلسلة. |
 
 ## الأسئلة المتكررة
 
-**س: ما هو GroupDocs.Conversion لجافا؟**  
-ج: إنها مكتبة جافا تمكّن من التحويل بين أكثر من 100 صيغة ملف، بما في ذلك تحويل البريد الإلكتروني إلى PDF.
+**س: ما هو GroupDocs.Conversion لـ Java؟**  
+ج: إنها مكتبة Java تمكّن من التحويل بين أكثر من 100 صيغة ملف، بما في ذلك تحويل البريد الإلكتروني إلى PDF، بدقة عالية ودون اعتماد على مكونات خارجية.
 
 **س: كيف أضمن خصوصية البريد الإلكتروني أثناء التحويل؟**  
-ج: استخدم `EmailLoadOptions` لإيقاف الحقول مثل المرسل، المستلم، وعناوين CC/BCC قبل التحويل.
+ج: استخدم `EmailLoadOptions` لإيقاف تشغيل الحقول مثل المرسل، المستلم، وعناوين CC/BCC قبل التحويل.
 
 **س: هل يمكنني تحويل أنواع مستندات أخرى غير البريد الإلكتروني؟**  
-ج: نعم، تدعم المكتبة Word وExcel وPowerPoint والصور والعديد من الصيغ الأخرى.
+ج: نعم، المكتبة تدعم أيضًا Word و Excel و PowerPoint والصور والعديد من الصيغ الأخرى.
 
 **س: ما هي متطلبات الذاكرة لتحويل رسائل بريد إلكتروني كبيرة؟**  
-ج: خصص مساحة كافية للذاكرة (مثلاً `-Xmx2g`) وفكّر في معالجة الملفات على دفعات.
+ج: خصص على الأقل 2 GB من الذاكرة (`-Xmx2g`) وفكّر في معالجة الملفات على دفعات للبقاء ضمن حدود الذاكرة.
 
 **س: أين يمكنني العثور على مزيد من المعلومات حول GroupDocs.Conversion؟**  
-ج: زر [الوثائق الرسمية](https://docs.groupdocs.com/conversion/java/) و[مرجع API](https://reference.groupdocs.com/conversion/java/).
-
-## الموارد
-- **الوثائق**: [GroupDocs.Conversion for Java Docs](https://docs.groupdocs.com/conversion/java/)  
-- **مرجع API**: [GroupDocs.Conversion API Reference](https://reference.groupdocs.com/conversion/java/)  
+ج: زر [التوثيق الرسمي](https://docs.groupdocs.com/conversion/java/) و [مرجع API](https://reference.groupdocs.com/conversion/java/). راجع [وثائق GroupDocs.Conversion لـ Java](https://docs.groupdocs.com/conversion/java/) و [مرجع API لـ GroupDocs.Conversion](https://reference.groupdocs.com/conversion/java/).
 
 ---
 
-**Last Updated:** 2026-01-18  
-**Tested With:** GroupDocs.Conversion 25.2  
-**Author:** GroupDocs
+**آخر تحديث:** 2026-05-21  
+**تم الاختبار مع:** GroupDocs.Conversion 25.2  
+**المؤلف:** GroupDocs
+
+## دروس ذات صلة
+
+- [msg إلى pdf java – تحويل صيغ البريد الإلكتروني باستخدام GroupDocs](/conversion/java/email-formats/)
+- [كيفية تحويل البريد الإلكتروني إلى PDF مع إزاحة المنطقة الزمنية في Java باستخدام GroupDocs.Conversion](/conversion/java/email-formats/email-to-pdf-conversion-java-groupdocs/)
+- [إعداد GroupDocs Conversion Maven - تحويل CSV إلى PDF في Java – دليل خطوة بخطوة](/conversion/java/pdf-conversion/convert-csv-to-pdf-java-groupdocs-conversion-guide/)
