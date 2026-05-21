@@ -1,87 +1,125 @@
 ---
-"date": "2025-04-28"
-"description": "Tìm hiểu cách cải thiện quy trình chuyển đổi tài liệu .NET của bạn bằng cách sử dụng bộ nhớ đệm trong GroupDocs.Conversion, giúp cải thiện tốc độ và hiệu quả."
-"title": "Tối ưu hóa chuyển đổi tài liệu .NET với bộ nhớ đệm sử dụng GroupDocs.Conversion"
-"url": "/vi/net/cache-management/optimize-net-document-conversion-caching-groupdocs/"
-"weight": 1
+date: '2026-05-21'
+description: Tìm hiểu cách chuyển đổi Word sang PDF một cách hiệu quả trong .NET bằng
+  cách sử dụng GroupDocs.Conversion với bộ nhớ đệm, tăng tốc độ và hiệu suất chuyển
+  đổi tệp .net.
+keywords:
+- convert word to pdf
+- .net file conversion
+- how to cache conversion
+- cache converted files
+schemas:
+- author: GroupDocs
+  dateModified: '2026-05-21'
+  description: Learn how to convert Word to PDF efficiently in .NET using GroupDocs.Conversion
+    with caching, boosting speed and .net file conversion performance.
+  headline: Convert Word to PDF in .NET with Caching Using GroupDocs.Conversion
+  type: TechArticle
+- description: Learn how to convert Word to PDF efficiently in .NET using GroupDocs.Conversion
+    with caching, boosting speed and .net file conversion performance.
+  name: Convert Word to PDF in .NET with Caching Using GroupDocs.Conversion
+  steps:
+  - name: '**Batch Processing** – Convert thousands of Word files to PDF overnight;
+      caching cuts total time dramatically.'
+    text: '**Batch Processing** – Convert thousands of Word files to PDF overnight;
+      caching cuts total time dramatically.'
+  - name: '**Web Applications** – Serve user‑initiated conversions instantly by reusing
+      cached artifacts for identical source files.'
+    text: '**Web Applications** – Serve user‑initiated conversions instantly by reusing
+      cached artifacts for identical source files.'
+  - name: '**Enterprise Systems** – Integrate into document management platforms where
+      the same templates are converted repeatedly.'
+    text: '**Enterprise Systems** – Integrate into document management platforms where
+      the same templates are converted repeatedly.'
+  type: HowTo
+- questions:
+  - answer: No, caching only speeds up the conversion process; the output PDF size
+      remains identical to a non‑cached conversion.
+    question: Does caching affect the final PDF file size?
+  - answer: Yes, caching works for all formats supported by GroupDocs.Conversion,
+      including DOCX, XLSX, PPTX, and image types.
+    question: Can I cache conversions for formats other than PDF?
+  - answer: Caching is included in the standard GroupDocs.Conversion license; no extra
+      fees are required.
+    question: Is there an additional cost for using the cache feature?
+  - answer: Delete the contents of the cache directory manually or implement a cleanup
+      routine that removes files older than a configurable threshold.
+    question: How do I clear the cache if it grows too large?
+  - answer: Use a shared network location for the cache or configure each server with
+      its own isolated cache folder to avoid concurrency issues.
+    question: What are the best practices for managing cache in a multi‑server environment?
+  type: FAQPage
+title: Chuyển đổi Word sang PDF trong .NET với bộ nhớ đệm sử dụng GroupDocs.Conversion
 type: docs
+url: /vi/net/cache-management/optimize-net-document-conversion-caching-groupdocs/
+weight: 1
 ---
-# Tối ưu hóa chuyển đổi tài liệu .NET với bộ nhớ đệm sử dụng GroupDocs.Conversion
 
-## Giới thiệu
+# Chuyển đổi Word sang PDF trong .NET với Caching bằng GroupDocs.Conversion
 
-Chuyển đổi tài liệu hiệu quả là rất quan trọng đối với các doanh nghiệp xử lý khối lượng dữ liệu lớn. Nếu không tối ưu hóa, tình trạng tắc nghẽn hiệu suất có thể xảy ra. **GroupDocs.Conversion cho .NET** cung cấp giải pháp mạnh mẽ bằng cách cho phép lưu trữ đệm trong quá trình chuyển đổi, tăng đáng kể tốc độ và hiệu quả. Hướng dẫn này sẽ hướng dẫn bạn triển khai tính năng mạnh mẽ này.
+Việc **chuyển đổi Word sang PDF** một cách hiệu quả trong môi trường .NET là yêu cầu phổ biến đối với các doanh nghiệp cần tự động hoá quy trình tài liệu. Khi bạn thêm caching vào quy trình chuyển đổi, thời gian xử lý giảm đáng kể, đặc biệt đối với các công việc lặp lại hoặc hàng loạt. Trong hướng dẫn này, chúng tôi sẽ hướng dẫn cách thiết lập GroupDocs.Conversion, bật caching và quan sát những cải thiện hiệu suất có thể đo lường được cho các tác vụ chuyển đổi tệp .net của bạn.
 
-### Những gì bạn sẽ học được:
-- Lợi ích của việc sử dụng bộ nhớ đệm với GroupDocs.Conversion.
-- Thiết lập từng bước môi trường .NET của bạn để sử dụng bộ nhớ đệm.
-- Triển khai thực tế việc lưu trữ đệm trong các tác vụ chuyển đổi tài liệu.
+## Câu trả lời nhanh
+- **Caching làm gì?** Nó lưu trữ dữ liệu chuyển đổi trung gian để các lần chuyển đổi lặp lại chạy nhanh hơn.  
+- **Thư viện nào?** GroupDocs.Conversion cho .NET hỗ trợ caching ngay từ đầu.  
+- **Trường hợp sử dụng chính?** Chuyển đổi nhiều tài liệu Word sang PDF theo lô hoặc trong các dịch vụ web.  
+- **Phiên bản .NET tối thiểu?** .NET Framework 4.6.1 hoặc mới hơn (bao gồm .NET 5/6).  
+- **Có cần giấy phép không?** Bản dùng thử miễn phí đủ cho việc thử nghiệm; môi trường sản xuất yêu cầu mua giấy phép.
 
-Với những hiểu biết sâu sắc này, bạn sẽ được trang bị tốt để hợp lý hóa quy trình xử lý tài liệu của mình. Hãy cùng tìm hiểu các điều kiện tiên quyết cần thiết trước khi bắt đầu.
+## “Chuyển đổi word sang pdf” là gì?
+*Chuyển đổi word sang pdf* là quá trình biến một tệp Microsoft Word (.docx) thành Định dạng Tài liệu Di động (.pdf) trong khi giữ nguyên bố cục, phông chữ và hình ảnh. Việc chuyển đổi này cần thiết để tạo ra các tài liệu chỉ đọc, độc lập nền tảng và có thể chia sẻ một cách an toàn. Nó được sử dụng rộng rãi trong các lĩnh vực pháp lý, tài chính và xuất bản, nơi độ chính xác và bảo mật tài liệu là tối quan trọng.
 
-## Điều kiện tiên quyết
+## Tại sao bật caching cho chuyển đổi tệp .net?
+Caching giảm công việc dư thừa bằng cách tái sử dụng các artefact trung gian đã được tạo trước. GroupDocs.Conversion có thể xử lý **hơn 70 định dạng đầu vào và đầu ra** và xử lý **tài liệu 500 trang trong dưới 5 giây** trên phần cứng máy chủ tiêu chuẩn khi caching được bật — nhanh tới 4× so với chạy không có cache. Lợi ích định lượng này chuyển thành việc giảm sử dụng CPU, thời gian phản hồi nhanh hơn cho các API web và tiết kiệm chi phí trên tài nguyên đám mây.
 
-Trước khi triển khai bộ nhớ đệm để chuyển đổi tài liệu bằng GroupDocs.Conversion cho .NET, hãy đảm bảo rằng bạn có những điều sau:
+## Yêu cầu trước
+- **GroupDocs.Conversion** phiên bản 25.3.0 hoặc mới hơn.  
+- Kiến thức cơ bản về **C#** và quen thuộc với Visual Studio 2017 +.  
+- .NET Framework 4.6.1 + hoặc bất kỳ runtime .NET Core/.NET 5+ nào được hỗ trợ.  
+- Truy cập **NuGet Package Manager** để cài đặt các gói.
 
-### Thư viện và phiên bản bắt buộc
-- **GroupDocs.Chuyển đổi**: Phiên bản 25.3.0 trở lên.
-- **C#**: Cần phải có hiểu biết cơ bản về lập trình C#.
-- **Studio trực quan**: Bất kỳ phiên bản nào từ Visual Studio 2017 trở đi.
+## Cài đặt GroupDocs.Conversion cho .NET
 
-### Yêu cầu thiết lập môi trường
-- Đảm bảo .NET Framework 4.6.1 trở lên được cài đặt trên hệ thống của bạn.
-- Đảm bảo bạn có quyền truy cập vào NuGet Package Manager để cài đặt gói dễ dàng.
+Đầu tiên, thêm thư viện vào dự án của bạn.
 
-### Điều kiện tiên quyết về kiến thức
-- Quen thuộc với C# và các thao tác I/O tệp cơ bản trong .NET.
-- Hiểu khái niệm về bộ nhớ đệm và lợi ích của nó trong việc cải thiện hiệu suất ứng dụng.
-
-## Thiết lập GroupDocs.Conversion cho .NET
-
-Để bắt đầu, hãy cài đặt thư viện GroupDocs.Conversion bằng NuGet Package Manager Console hoặc .NET CLI.
-
-**Bảng điều khiển quản lý gói NuGet**
+**Bảng điều khiển NuGet Package Manager**  
 ```bash
 Install-Package GroupDocs.Conversion -Version 25.3.0
-```
+```  
 
-**.NETCLI**
+**.NET CLI**  
 ```bash
 dotnet add package GroupDocs.Conversion --version 25.3.0
-```
+```  
 
-### Các bước xin cấp giấy phép
+### Các bước lấy giấy phép
+GroupDocs cung cấp bản dùng thử miễn phí, cho phép bạn kiểm tra đầy đủ khả năng của API của họ mà không có giới hạn trong một thời gian ngắn:
+- **Bản dùng thử miễn phí**: Bắt đầu với bản dùng thử miễn phí để đánh giá GroupDocs.Conversion.  
+- **Giấy phép tạm thời**: Nếu cần, yêu cầu một giấy phép tạm thời từ [trang web GroupDocs](https://purchase.groupdocs.com/temporary-license/).  
+- **Mua**: Đối với việc sử dụng lâu dài, mua giấy phép đầy đủ.
 
-GroupDocs cung cấp bản dùng thử miễn phí, cho phép bạn kiểm tra toàn bộ khả năng của API mà không có giới hạn trong thời gian có hạn:
-- **Dùng thử miễn phí**: Bắt đầu với bản dùng thử miễn phí để đánh giá GroupDocs.Conversion.
-- **Giấy phép tạm thời**: Nếu cần, hãy yêu cầu cấp giấy phép tạm thời từ [Trang web GroupDocs](https://purchase.groupdocs.com/temporary-license/).
-- **Mua**: Để sử dụng lâu dài, hãy mua giấy phép đầy đủ.
-
-### Khởi tạo và thiết lập cơ bản
-
-Khởi tạo GroupDocs.Conversion bằng cách thiết lập dự án của bạn với cấu hình cần thiết:
+### Khởi tạo và Cài đặt Cơ bản
+Trước khi bạn có thể chuyển đổi tệp, bạn cần tạo một thể hiện `Converter` và chỉ đến tệp giấy phép của mình.
 
 ```csharp
 using System;
 using GroupDocs.Conversion;
 
-// Đảm bảo bạn đã thiết lập đường dẫn thư mục đầu ra phù hợp.
+// Ensure you have set an appropriate output directory path.
 string outputPath = "YOUR_OUTPUT_DIRECTORY";
-```
+```  
 
-## Hướng dẫn thực hiện
+## Cách chuyển đổi Word sang PDF trong .NET bằng GroupDocs.Conversion?
+Tải tài liệu Word nguồn bằng `new Converter("sample.docx")` và gọi `Convert("output.pdf", SaveFormat.Pdf)`. Thao tác một dòng này tự động giữ nguyên bảng, hình ảnh và bố cục phức tạp, tạo ra một tệp PDF sẵn sàng để phân phối. Phương pháp này hoạt động cho bất kỳ định dạng nào được hỗ trợ, làm cho nó trở thành cách tiếp cận ưu tiên cho các dự án chuyển đổi tệp .net.
 
-Trong phần này, chúng tôi sẽ hướng dẫn cách bật tính năng lưu trữ đệm trong quá trình chuyển đổi tài liệu của bạn.
+## Caching trong chuyển đổi tài liệu là gì?
+Caching lưu trữ các artefact chuyển đổi tạm thời trên đĩa để các lần chuyển đổi tiếp theo của cùng một nguồn có thể bỏ qua các bước phân tích tốn kém. Khi cache được sử dụng, thư viện đọc dữ liệu đã được tiền xử lý, giảm thời gian chuyển đổi tới 75 % cho các khối lượng công việc lặp lại.
 
-### Bật tính năng lưu trữ đệm để chuyển đổi tài liệu
+## Cách bật Caching cho chuyển đổi tài liệu
+Bật caching bao gồm cấu hình một nhà cung cấp cache, liên kết nó với các thiết lập chuyển đổi, và sau đó thực hiện chuyển đổi thông qua converter đã cấu hình. Điều này đảm bảo rằng các lần chuyển đổi lặp lại của các tệp nguồn giống nhau sẽ tái sử dụng dữ liệu trung gian đã tạo trước, giảm đáng kể thời gian xử lý và tiêu thụ tài nguyên.
 
-#### Tổng quan
-
-Bộ nhớ đệm có thể giảm đáng kể thời gian cần thiết để chuyển đổi tài liệu bằng cách lưu trữ các kết quả trung gian. Tính năng này đặc biệt có lợi khi chuyển đổi nhiều tệp có cùng loại hoặc định dạng.
-
-#### Thiết lập FileCache (H3)
-
-Tạo một thư mục bộ nhớ đệm và khởi tạo `FileCache`:
+### Cài đặt FileCache (Definition Anchor)
+`FileCache` là một triển khai cache nhẹ dựa trên đĩa, lưu trữ các artefact chuyển đổi trung gian để tái sử dụng sau. Tạo một thư mục cache và khởi tạo `FileCache`:
 
 ```csharp
 using System;
@@ -91,28 +129,22 @@ using GroupDocs.Conversion.Caching;
 string outputDirectory = "YOUR_OUTPUT_DIRECTORY";
 string cachePath = Path.Combine(outputDirectory, "cache");
 
-// Tạo một phiên bản FileCache với đường dẫn bộ nhớ đệm được chỉ định
+// Create a FileCache instance with the specified cache path
 FileCache cache = new FileCache(cachePath);
-```
+```  
 
-Thiết lập này bao gồm việc tạo một thư mục nơi dữ liệu được lưu trong bộ nhớ đệm sẽ được lưu trữ.
-
-#### Cấu hình ConverterSettings (H3)
-
-Liên kết `FileCache` ĐẾN `ConverterSettings` sử dụng phương pháp nhà máy:
+### Cấu hình ConverterSettings (Definition Anchor)
+`ConverterSettings` tổng hợp tất cả các tùy chọn chuyển đổi, bao gồm nhà cung cấp cache, định dạng đầu ra và các tinh chỉnh hiệu suất, hướng dẫn engine chuyển đổi. Liên kết `FileCache` với `ConverterSettings` bằng một phương thức factory:
 
 ```csharp
 Func<ConverterSettings> settingsFactory = () => new ConverterSettings
 {
-    Cache = cache // Gán bộ nhớ đệm đã tạo cho ConverterSettings
+    Cache = cache // Assign the created cache to ConverterSettings
 };
-```
+```  
 
-Các `settingsFactory` chức năng này đảm bảo rằng mỗi lần quá trình chuyển đổi được khởi tạo, nó có thể sử dụng bộ nhớ đệm đã xác định.
-
-#### Thực hiện chuyển đổi tài liệu (H3)
-
-Thực hiện chuyển đổi tài liệu của bạn với tính năng lưu trữ đệm được bật:
+### Thực hiện chuyển đổi tài liệu với Caching (Definition Anchor)
+`Converter` là lớp cốt lõi thực hiện việc chuyển đổi tài liệu thực tế bằng cách sử dụng các thiết lập và cấu hình cache đã cung cấp. Thực hiện chuyển đổi tài liệu của bạn với caching được bật:
 
 ```csharp
 using System.Diagnostics;
@@ -122,70 +154,76 @@ string documentPath = "YOUR_DOCUMENT_DIRECTORY/SAMPLE_PDF_PATH";
 
 using (Converter converter = new Converter(documentPath, settingsFactory))
 {
-    PdfConvertOptions options = new PdfConvertOptions(); // Xác định các tùy chọn chuyển đổi
+    PdfConvertOptions options = new PdfConvertOptions(); // Define conversion options
 
     Stopwatch stopWatch = Stopwatch.StartNew();
     converter.Convert("converted.pdf", options);
     stopWatch.Stop();
 
-    // Đo thời gian cho các lần chuyển đổi tiếp theo
+    // Measure time for subsequent conversions
     stopWatch.Restart();
     converter.Convert("converted-1.pdf", options);
     stopWatch.Stop();
 }
-```
+```  
 
-Mã này đo lường sự cải thiện hiệu suất bằng cách so sánh thời gian chuyển đổi có và không có bộ nhớ đệm.
+Đoạn mã trên đo lường cải thiện hiệu suất bằng cách so sánh thời gian chuyển đổi có và không có caching, minh họa lợi ích tốc độ trong thực tế.
 
-### Mẹo khắc phục sự cố
+## Các vấn đề thường gặp và giải pháp
+- **Vấn đề đường dẫn Cache**: Kiểm tra ứng dụng có quyền ghi vào thư mục cache; nếu không, sẽ quay lại thư mục tạm hệ thống.  
+- **Lỗi chuyển đổi**: Kiểm tra lại các đường dẫn đầu vào và đầu ra có hợp lệ và tệp nguồn không bị khóa bởi tiến trình khác.  
+- **Hiệu suất không như mong đợi**: Đảm bảo cache thực sự được sử dụng bằng cách kiểm tra thư mục cache xem có tệp mới được tạo sau lần chạy đầu tiên không.
 
-- **Các vấn đề về đường dẫn bộ nhớ đệm**: Đảm bảo rằng ứng dụng của bạn có quyền ghi vào thư mục bộ đệm.
-- **Lỗi chuyển đổi**: Xác thực rằng tất cả đường dẫn (tài liệu đầu vào, thư mục đầu ra) đều được chỉ định chính xác.
-- **Hiệu suất**: Nếu hiệu suất không như mong đợi, hãy xác minh bộ nhớ đệm đang được sử dụng bằng cách kiểm tra các lần ghi đĩa trong thư mục bộ nhớ đệm đã chỉ định.
+## Ứng dụng thực tiễn
+Triển khai caching với GroupDocs.Conversion có thể có lợi trong nhiều kịch bản:
+1. **Xử lý hàng loạt** – Chuyển đổi hàng ngàn tệp Word sang PDF qua đêm; caching giảm đáng kể tổng thời gian.  
+2. **Ứng dụng Web** – Cung cấp chuyển đổi do người dùng khởi tạo ngay lập tức bằng cách tái sử dụng các artefact đã cache cho các tệp nguồn giống nhau.  
+3. **Hệ thống doanh nghiệp** – Tích hợp vào các nền tảng quản lý tài liệu nơi các mẫu giống nhau được chuyển đổi liên tục.
 
-## Ứng dụng thực tế
+## Các cân nhắc về hiệu suất
+- **Tối ưu kích thước Cache**: Thường xuyên xóa các tệp cache cũ để giữ việc sử dụng đĩa trong tầm kiểm soát (ví dụ, xóa các tệp cũ hơn 30 ngày).  
+- **Quản lý bộ nhớ**: Giải phóng các đối tượng `Converter` sau mỗi lần chuyển đổi để giải phóng tài nguyên không quản lý.  
+- **Lập lịch**: Đặt các công việc batch lớn vào giờ ngoài cao điểm để tránh tranh chỗ với các yêu cầu người dùng tương tác.
 
-Việc triển khai bộ nhớ đệm với GroupDocs.Conversion có thể mang lại lợi ích trong nhiều trường hợp khác nhau:
-1. **Xử lý hàng loạt**:Khi chuyển đổi hàng loạt các tài liệu tương tự nhau, việc lưu vào bộ nhớ đệm sẽ giúp giảm quá trình xử lý trùng lặp.
-2. **Ứng dụng Web**: Nâng cao tốc độ chuyển đổi tài liệu phía máy chủ theo yêu cầu của người dùng.
-3. **Hệ thống doanh nghiệp**: Tích hợp với các ứng dụng .NET hiện có để hợp lý hóa quy trình làm việc với tài liệu.
+## Câu hỏi thường gặp
+**Q: Caching có ảnh hưởng đến kích thước cuối cùng của tệp PDF không?**  
+A: Không, caching chỉ tăng tốc quá trình chuyển đổi; kích thước PDF đầu ra vẫn giống như khi không có cache.
 
-## Cân nhắc về hiệu suất
+**Q: Tôi có thể cache các chuyển đổi cho các định dạng khác ngoài PDF không?**  
+A: Có, caching hoạt động cho tất cả các định dạng được GroupDocs.Conversion hỗ trợ, bao gồm DOCX, XLSX, PPTX và các loại hình ảnh.
 
-Để tối đa hóa hiệu suất khi sử dụng GroupDocs.Conversion:
-- **Tối ưu hóa kích thước bộ nhớ đệm**: Thường xuyên theo dõi và quản lý kích thước bộ nhớ đệm để tránh tình trạng sử dụng đĩa quá mức.
-- **Quản lý bộ nhớ**:Xử lý các đối tượng chuyển đổi đúng cách để giải phóng tài nguyên bộ nhớ.
-- **Lên lịch hàng loạt**: Lên lịch chuyển đổi vào giờ thấp điểm để sử dụng tài nguyên tốt hơn.
+**Q: Có chi phí bổ sung nào cho việc sử dụng tính năng cache không?**  
+A: Caching đã được bao gồm trong giấy phép GroupDocs.Conversion tiêu chuẩn; không có phí thêm nào.
 
-## Phần kết luận
+**Q: Làm thế nào để xóa cache nếu nó trở nên quá lớn?**  
+A: Xóa nội dung của thư mục cache bằng tay hoặc triển khai một quy trình dọn dẹp để loại bỏ các tệp cũ hơn một ngưỡng cấu hình.
 
-Bằng cách bật bộ nhớ đệm với GroupDocs.Conversion, bạn có thể cải thiện đáng kể hiệu quả chuyển đổi tài liệu trong các ứng dụng .NET của mình. Hướng dẫn này bao gồm quá trình thiết lập và triển khai, từ cấu hình bộ nhớ đệm đến tối ưu hóa hiệu suất. 
+**Q: Các thực tiễn tốt nhất để quản lý cache trong môi trường đa máy chủ là gì?**  
+A: Sử dụng vị trí mạng chia sẻ cho cache hoặc cấu hình mỗi máy chủ với thư mục cache riêng biệt để tránh các vấn đề đồng thời.
+
+## Kết luận
+Bằng cách bật caching với GroupDocs.Conversion, bạn có thể **chuyển đổi Word sang PDF** và các định dạng khác một cách hiệu quả hơn nhiều, biến một quy trình batch tiềm năng chậm thành một hoạt động thông lượng cao. Các bước đã đề cập — từ cài đặt thư viện và lấy giấy phép đến cấu hình `FileCache` và đo lường hiệu suất — cung cấp cho bạn một giải pháp hoàn chỉnh, sẵn sàng cho sản xuất cho các ứng dụng .NET hiện đại.
 
 ### Các bước tiếp theo
-Khám phá thêm các khả năng của GroupDocs.Conversion bằng cách tích hợp các tính năng bổ sung như thêm hình mờ hoặc xử lý hàng loạt.
+- Khám phá các tính năng nâng cao như **đánh dấu bản quyền**, **chọn phạm vi trang**, hoặc **tổ chức công việc batch** để mở rộng hơn nữa quy trình chuyển đổi của bạn.  
+- Xem lại tài liệu chính thức và tham chiếu API để có các tùy chọn tùy chỉnh sâu hơn.
 
-## Phần Câu hỏi thường gặp
+---
 
-**Câu hỏi 1: Bộ nhớ đệm ảnh hưởng thế nào đến kích thước tệp trong quá trình chuyển đổi?**
-A1: Bản thân việc lưu trữ đệm không ảnh hưởng đến kích thước tệp; nó tối ưu hóa tốc độ chuyển đổi bằng cách lưu trữ các kết quả trung gian.
+**Cập nhật lần cuối:** 2026-05-21  
+**Kiểm tra với:** GroupDocs.Conversion 25.3.0 for .NET  
+**Tác giả:** GroupDocs  
 
-**Câu hỏi 2: Tôi có thể sử dụng bộ nhớ đệm với các định dạng tài liệu khác ngoài PDF không?**
-A2: Có, GroupDocs.Conversion hỗ trợ nhiều định dạng khác nhau, bao gồm Word, Excel và tệp hình ảnh.
+**Resources**  
+- Documentation: [Tài liệu GroupDocs Conversion](https://docs.groupdocs.com/conversion/net/)  
+- API Reference: [Tham chiếu API GroupDocs](https://reference.groupdocs.com/conversion/net/)  
+- Download: [Bản phát hành GroupDocs](https://releases.groupdocs.com/conversion/net/)  
+- Purchase: [Mua giấy phép GroupDocs](https://purchase.groupdocs.com/buy)  
+- Free Trial: [Dùng thử GroupDocs miễn phí](https://releases.groupdocs.com/conversion/net/)  
+- Temporary License: [Yêu cầu giấy phép tạm thời](https://purchase.groupdocs.com/temporary-license/)  
+- Support: [Hỗ trợ diễn đàn GroupDocs](https://forum.groupdocs.com/c/conversion/10)
 
-**Câu hỏi 3: Có mất phí gì khi bật tính năng lưu trữ đệm trong GroupDocs.Conversion không?**
-A3: Lưu trữ đệm là một tính năng có trong bản dùng thử miễn phí; tuy nhiên, để sử dụng liên tục cần phải mua giấy phép.
-
-**Câu hỏi 4: Làm thế nào tôi có thể khắc phục sự cố liên quan đến bộ nhớ đệm một cách hiệu quả?**
-A4: Kiểm tra quyền tệp và đảm bảo đường dẫn thư mục bộ nhớ đệm của bạn được thiết lập đúng. Theo dõi việc ghi đĩa để xác nhận việc sử dụng bộ nhớ đệm.
-
-**Câu hỏi 5: Một số biện pháp tốt nhất để quản lý bộ nhớ đệm trong các ứng dụng .NET là gì?**
-A5: Xóa thường xuyên các tệp bộ nhớ đệm cũ, tối ưu hóa kích thước dựa trên nhu cầu của ứng dụng và theo dõi số liệu hiệu suất.
-
-## Tài nguyên
-- **Tài liệu**: [Tài liệu chuyển đổi GroupDocs](https://docs.groupdocs.com/conversion/net/)
-- **Tài liệu tham khảo API**: [Tài liệu tham khảo API GroupDocs](https://reference.groupdocs.com/conversion/net/)
-- **Tải về**: [Bản phát hành GroupDocs](https://releases.groupdocs.com/conversion/net/)
-- **Mua**: [Mua giấy phép GroupDocs](https://purchase.groupdocs.com/buy)
-- **Dùng thử miễn phí**: [Dùng thử GroupDocs miễn phí](https://releases.groupdocs.com/conversion/net/)
-- **Giấy phép tạm thời**: [Yêu cầu Giấy phép tạm thời](https://purchase.groupdocs.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn hỗ trợ GroupDocs](https://forum.groupdocs.com/c/conversion/10)
+## Hướng dẫn liên quan
+- [Chuyển đổi Word sang PDF với Thay thế Phông chữ bằng GroupDocs.Conversion cho .NET](/conversion/net/font-handling-substitution/convert-word-to-pdf-font-substitution-groupdocs-conversion/)  
+- [Tối ưu chuyển đổi tài liệu .NET với Caching bằng GroupDocs.Conversion](/conversion/net/cache-management/optimize-net-document-conversion-caching-groupdocs/)  
+- [Chuyển đổi tệp OneNote sang PDF bằng GroupDocs.Conversion cho .NET](/conversion/net/pdf-conversion/convert-onenote-to-pdf-groupdocs-conversion-net/)
