@@ -1,34 +1,48 @@
 ---
-"date": "2025-04-28"
-"description": "Aprenda a convertir diseños CAD específicos a PDF con GroupDocs.Conversion para Java. Esta guía abarca la configuración, la conversión selectiva y consejos de rendimiento."
-"title": "Convierta diseños CAD a PDF en Java con la Guía de conversión de diseños selectivos de GroupDocs"
-"url": "/es/java/cad-formats/groupdocs-java-cad-to-pdf-selective-layouts/"
-"weight": 1
+date: '2026-01-26'
+description: Aprende a convertir DWG a PDF usando GroupDocs.Conversion para Java.
+  Incluye configuración de Maven, conversión selectiva de diseños y consejos de rendimiento.
+keywords:
+- convert dwg to pdf
+- selective layout conversion
+- GroupDocs.Conversion for Java
+title: 'convertir dwg a pdf: Conversión selectiva de diseño en Java con GroupDocs'
 type: docs
+url: /es/java/cad-formats/groupdocs-java-cad-to-pdf-selective-layouts/
+weight: 1
 ---
-# Convierta diseños CAD a PDF con GroupDocs.Conversion para Java
+
+# convertir dwg a pdf con GroupDocs.Conversion para Java
 ## Dominando la conversión selectiva de CAD a PDF en Java
 ### Introducción
-¿Tiene dificultades para convertir solo diseños específicos de un documento CAD a PDF? Esta guía completa muestra cómo usar GroupDocs.Conversion para Java para convertir documentos CAD de forma selectiva (como archivos DWG), centrándose en diseños específicos. Tanto si trabaja con planos arquitectónicos como con diseños de ingeniería, filtrar y convertir las partes necesarias del archivo puede ahorrar tiempo y optimizar los flujos de trabajo.
+¿Tienes problemas para convertir solo diseños específicos de un documento CAD a PDF? Esta guía completa usando GroupDocs.Conversion para Java, enfocándose en diseños particulares. Ya sea que trabajes con planos arquitectónicos o diseños de ingeniería, filtrar y convertir solo las partes necesarias puede ahorrar tiempo y optimizar los flujos de trabajo.
 
-En este tutorial, cubriremos:
-- **Configuración de GroupDocs.Conversion para Java**
-- **Conversión selectiva de diseño de documentos CAD a PDF**
-- **Aplicaciones en el mundo real**
-- **Consejos para optimizar el rendimiento**
+En este tutorial, aprenderás:
+- **Configuración de Maven para GroupDocs.Conversion**
+- **Conversión selectiva de diseños de documentos CAD a PDF**
+- **Aplicaciones del mundo real y por qué es importante**
+- **Consejos de optimización de rendimiento para archivos DWG grandes**
 
-Al finalizar esta guía, usted será experto en implementar la funcionalidad de conversión selectiva dentro de sus proyectos.
-### Prerrequisitos
-Antes de comenzar, asegúrese de tener:
-- **Kit de desarrollo de Java (JDK):** Versión 8 o superior
-- **Experto:** Para la gestión de dependencias y la automatización de la compilación de proyectos
-- **IDE:** Como IntelliJ IDEA o Eclipse para la edición de código.
+Al final, te sentirás cómodo implementando la conversión selectiva en tus proyectos Java.
 
-También es necesario tener conocimientos básicos de programación Java y estar familiarizado con proyectos Maven.
+## Respuestas rápidas
+- **¿Cuál es la biblioteca principal?** GroupDocs.Conversion para Java  
+- **¿Cómo añ `CadLoadOptions.setLayoutNames`  
+- **¿Qué versión de Java se requiere?** JDK 8 o superior  
+- **¿Necesito una licencia?** Se requiere una licencia de prueba o comprada para todas las funciones  
+
+## ¿Qué es **convert dwg to pdf**?
+Convertir DWG a PDF procesamiento y enfocando la atención de los interesados en lo que realmente importa.
+
+## Re** IDEA, Eclipse o cualquier editor compatible con Java  
+- Familiaridad básica con proyectos Java y Maven  
+
 ## Configuración de GroupDocs.Conversion para Java
-Para utilizar GroupDocs.Conversion, integre la biblioteca en su aplicación Java a través de Maven:
-### Configuración de Maven
-Añade esta configuración a tu `pom.xml` archivo:
+Para usar GroupDocs.Conversion, integra la biblioteca en tu aplicación Java mediante Maven.
+
+### Configuración Maven (cómo convertir cad con Maven)
+Añade esta configuración a tu archivo `pom.xml`:
+
 ```xml
 <repositories>
    <repository>
@@ -45,77 +59,92 @@ Añade esta configuración a tu `pom.xml` archivo:
    </dependency>
 </dependencies>
 ```
-### Adquisición de licencias
-Para desbloquear todas las funciones, obtenga una licencia de prueba o cómprela para uso extendido:
-- **Prueba gratuita:** [Descargar aquí](https://releases.groupdocs.com/conversion/java/)
-- **Licencia temporal:** [Solicitar aquí](https://purchase.groupdocs.com/temporary-license/)
-- **Compra:** [Comprar ahora](https://purchase.groupdocs.com/buy)
 
-Inicialice GroupDocs.Conversion con su archivo de licencia:
+### Obtención de licencia
+Para desbloquear todas las funciones, obtén una licencia de prueba o compra una para uso prolongado:
+- **Prueba gratuita:** [Download Here](https://releases.groupdocs.com/conversion/java/)
+- **Licencia temporal:** [Request Here](https://purchase.groupdocs.com/temporary-license/)
+- **Compra:** [Buy Now](https://purchase.groupdocs.com/buy)
+
+Inicializa GroupDocs.Conversion con tu archivo de licencia:
+
 ```java
-// Cargue la licencia para desbloquear todas las funciones
+// Load the license to unlock full features
 License license = new License();
 license.setLicense("path/to/license.lic");
 ```
+
 ## Guía de implementación
-### Paso 1: Especificar rutas de archivo y diseños
-Configure rutas para su archivo CAD de entrada y PDF de salida, definiendo qué diseños desea convertir:
+### Paso 1: Especificar rutas de archivo y diseños (java cad to pdf)
+Configura las rutas para tu archivo CAD de entrada y el PDF de salida, definiendo qué diseños deseas convertir:
+
 ```java
 String sourceFilePath = "YOUR_DOCUMENT_DIRECTORY/sample.dwg";
 String convertedFile = "YOUR_OUTPUT_DIRECTORY/ConvertCadAndSpecifyLayouts.pdf";
 
-// Especifique los nombres de diseño deseados
-cadLoadOptions loadOptions = new CadLoadOptions();
+// Specify desired layout names
+CadLoadOptions loadOptions = new CadLoadOptions();
 loadOptions.setLayoutNames(new String[] { "Layout1", "Layout3" });
 ```
+
 ### Paso 2: Inicializar el convertidor
-Inicializar el `Converter` clase con su ruta de archivo y opciones de carga:
+Crea una instancia de `Converter` con la ruta de origen y las opciones de carga que filtran los diseños:
+
 ```java
 Converter converter = new Converter(sourceFilePath, () -> loadOptions);
 ```
-Esto permite especificar qué diseños incluir en la conversión.
-### Paso 3: Establecer las opciones de conversión
-Configurar los ajustes de conversión de PDF usando `PdfConvertOptions`:
+
+### Paso 3: Establecer opciones de conversión
+Configura los ajustes de conversión a PDF usando `PdfConvertOptions`. Puedes ajustar DPI, tamaño de página o incrustar fuentes según sea necesario:
+
 ```java
 PdfConvertOptions convertOptions = new PdfConvertOptions();
 ```
-Estas opciones permiten una mayor personalización, como configurar DPI o rangos de páginas específicos.
-### Paso 4: Realizar la conversión
-Ejecute el proceso de conversión llamando al `convert` método:
+
+### Paso 4: Ejecutar la conversión
+Ejecuta el proceso de conversión. El PDF resultante contendrá **solo** los diseños especificados:
+
 ```java
 converter.convert(convertedFile, convertOptions);
 ```
-Esto crea un archivo PDF que contiene únicamente diseños específicos de su documento CAD.
+
 ## Aplicaciones prácticas
-La conversión de diseño selectivo puede ser beneficiosa en situaciones como:
-- **Reseñas de diseño arquitectónico:** Centrarse en planos o secciones específicos durante las reuniones.
-- **Análisis de ingeniería:** Convierta partes de diseño relevantes para un análisis detallado.
-- **Documentación y archivo:** Genere archivos PDF concisos para registros, ahorrando espacio de almacenamiento.
+La conversión selectiva de diseños puede ser útil en escenarios como:
+- **Revisiones de diseño arquitectónico:** Enfócate en planos de planta o secciones específicas durante las reuniones.  
+- **Análisis de ingeniería:** Convierte solo las partes relevantes del diseño para un estudio detallado.  
+- **Documentación y archivo:** Genera PDFs concisos para registros, ahorrando espacio de almacenamiento.
+
 ## Consideraciones de rendimiento
 Al trabajar con archivos CAD grandes:
-- **Gestión de la memoria:** Asegúrese de que el tamaño del montón sea suficiente mediante el uso de opciones de JVM como `-Xmx` para aumentar la memoria.
-- **Procesamiento por lotes:** Procese varios archivos en lotes para administrar el uso de recursos de manera eficaz.
-## Conclusión
-Aprendió a convertir diseños específicos de documentos CAD a PDF con GroupDocs.Conversion para Java. Esta función optimiza la gestión de documentos al centrarse en las partes relevantes del diseño.
-### Próximos pasos
-Explore otras funciones de GroupDocs.Conversion, como la conversión de diferentes formatos de archivos o la integración con soluciones en la nube.
-**¿Listo para probarlo?** ¡Siga los pasos anteriores y comience a optimizar sus conversiones de CAD a PDF hoy mismo!
+- **Gestión de memoria:** Asigna suficiente tamaño de heap usando opciones JVM como `-Xmx2g`.  
+- **Procesamiento por lotes:** Procesa varios archivos en lotes para mantener predecible el uso de recursos.  
+
+## Problemas comunes y soluciones
+- **Diseños faltantes:** Verifica que los nombres de diseño pasados a `setLayoutNames` coincidan exactamente con los del archivo DWG (sensible a mayúsculas/minúsculas).  
+- **Errores de Out‑Of‑Memory:** Incrementa el tamaño del heap JVM o procesa los archivos en lotes más pequeños.  
+- **Errores de licencia:** Asegúrate de que la ruta del archivo de licencia sea correcta y que la licencia sea válida para la versión de la biblioteca.
+
 ## Sección de preguntas frecuentes
-1. **¿Cuáles son los requisitos del sistema para utilizar GroupDocs.Conversion para Java?**
-   - Necesita JDK 8+, Maven y un IDE como IntelliJ IDEA o Eclipse.
-2. **¿Cómo manejo archivos grandes con GroupDocs.Conversion?**
-   - Ajuste la configuración de su JVM para asignar más memoria, como configurar `-Xmx` a un valor superior.
-3. **¿Puedo convertir otros formatos CAD usando este método?**
-   - Sí, GroupDocs.Conversion admite varios formatos CAD, como DXF y DGN. Consulte la documentación para conocer las opciones específicas.
-4. **¿Qué pasa si faltan algunos diseños después de la conversión?**
-   - Asegúrese de que la especificación de todos los nombres de diseño deseados sea correcta. `setLayoutNames`.
-5. **¿Cómo puedo integrar GroupDocs.Conversion en una aplicación web?**
-   - Implemente su backend Java con GroupDocs.Conversion y exponga puntos finales para la conversión de archivos.
+1. **¿Cuáles son los requisitos del sistema para usar GroupDocs.Conversion para Java?**  
+   - Necesitas JDK 8+, Maven y un IDE como IntelliJ IDEA o EclipseXmx`) y considera el procesamiento por lotes.  
+3. **¿Puedo convertir otros formatos CAD usando este método?**  
+   - Sí, GroupDocs.Conversion soporta DXF, DGN y otros formatos CAD.  
+4. **¿Qué ocurre si algunos diseños faltan después de la conversión?**  
+   - Verifica nuevamente los nombres de diseño suministrados a `setLayoutNames`.  
+5. **¿Cómo puedo integrar GroupDocs.Conversion en una aplicación web?**  
+   - Despliega el backend Java con la biblioteca y expón endpoints REST para la conversión de archivos.
+
 ## Recursos
-- **Documentación:** [Documentación de conversión de GroupDocs](https://docs.groupdocs.com/conversion/java/)
-- **Referencia API:** [Referencia de la API de GroupDocs](https://reference.groupdocs.com/conversion/java/)
-- **Descargar:** [Obtener la Biblioteca](https://releases.groupdocs.com/conversion/java/)
-- **Compra:** [Comprar ahora](https://purchase.groupdocs.com/buy)
-- **Prueba gratuita:** [Empieza aquí](https://releases.groupdocs.com/conversion/java/)
-- **Licencia temporal:** [Solicitar una licencia temporal](https://purchase.groupdocs.com/temporary-license/)
-- **Apoyo:** [Foro de GroupDocs](https://forum.groupdocs.com/c/conversion/10)
+- **Documentación:** [GroupDocs Conversion Documentation](https://docs.groupdocs.com/conversion/java/)
+- **Referencia API:** [GroupDocs API Reference](https://reference.groupdocs.com/conversion/java/)
+- **Descarga:** [Get the Library](https://releases.groupdocs.com/conversion/java/)
+- **Compra:** [Buy Now](https://purchase.groupdocs.com/buy)
+- **Prueba gratuita:** [Start Here](https://releases.groupdocs.com/conversion/java/)
+- **Licencia temporal:** [Request a Temporary License](https://purchase.groupdocs.com/temporary-license/)
+- **Soporte:** [GroupDocs Forum](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**Última actualización:** 2026-01-26  
+**Probado con:** GroupDocs.Conversion 25.2 para Java  
+**Autor:** GroupDocs
