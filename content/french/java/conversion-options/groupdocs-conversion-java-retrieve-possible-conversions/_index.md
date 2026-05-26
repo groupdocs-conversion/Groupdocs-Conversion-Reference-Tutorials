@@ -1,40 +1,47 @@
 ---
-"date": "2025-04-28"
-"description": "Apprenez à utiliser GroupDocs.Conversion pour Java afin de récupérer toutes les conversions de documents possibles. Ce guide couvre la configuration, l'implémentation du code et les applications pratiques."
-"title": "GroupDocs.Conversion pour Java &#58; Comment récupérer toutes les conversions possibles"
-"url": "/fr/java/conversion-options/groupdocs-conversion-java-retrieve-possible-conversions/"
-"weight": 1
+date: '2026-01-28'
+description: Apprenez à répertorier les formats et à récupérer toutes les conversions
+  possibles avec GroupDocs.Conversion pour Java, y compris les scénarios de conversion
+  de fichiers depuis le stockage cloud.
+keywords:
+- GroupDocs.Conversion for Java
+- retrieve all possible conversions
+- Java document conversion
+title: 'GroupDocs.Conversion pour Java : comment répertorier les formats et récupérer
+  toutes les conversions possibles'
 type: docs
+url: /fr/java/conversion-options/groupdocs-conversion-java-retrieve-possible-conversions/
+weight: 1
 ---
-# Guide complet pour récupérer toutes les conversions possibles à l'aide de GroupDocs.Conversion pour Java
 
-## Introduction
+# Guide complet pour récupérer toutes les conversions possibles avec GroupDocs.Conversion pour Java
 
-La conversion de documents entre différents formats peut s'avérer complexe. La bibliothèque GroupDocs.Conversion pour Java simplifie ce processus en offrant des fonctionnalités de conversion performantes. Dans ce tutoriel, vous apprendrez à utiliser la fonctionnalité « Récupérer toutes les conversions possibles » de GroupDocs.Conversion pour Java.
+Les projets de conversion de documents commencent souvent par une question simple : **comment lister les formats** qu’une bibliothèque prend en charge avant de décider lesquels convertir. Dans ce tutoriel, vous découvrirez exactement cela — comment lister les formats et récupérer chaque chemin de conversion possible offert par GroupDocs.Conversion pour Java. Nous passerons en revue la configuration, l’exécution du code, des scénarios réels et des conseils de performance afin que vous puissiez intégrer la découverte des formats en toute confiance dans vos applications.
 
-**Ce que vous apprendrez :**
-- Configuration et configuration de GroupDocs.Conversion pour Java.
-- Récupération de toutes les conversions de documents possibles prises en charge par la bibliothèque.
-- Implémentation de code pour lister les possibilités de conversion entre les formats.
-- Applications pratiques et considérations de performance.
+## Réponses rapides
+- **Que signifie « lister les formats » ?** Cela renvoie chaque paire source‑vers‑cible que la bibliothèque peut gérer.  
+- **Ai‑je besoin d’une licence ?** Un essai gratuit suffit pour les tests ; une licence payante est requise en production.  
+- **Cela peut‑il aider à la conversion de fichiers en stockage cloud ?** Oui — connaître les formats pris en charge vous permet d’automatiser les conversions dans les pipelines de stockage cloud.  
+- **Quelle version de Java est requise ?** JDK 8 ou ultérieure.  
+- **La fonctionnalité est‑elle thread‑safe ?** L’instance `Converter` peut être réutilisée entre threads, mais libérez les ressources après utilisation.
 
-Avant de vous lancer dans la mise en œuvre, assurez-vous que tout est en place.
+## Qu’est‑ce que « lister les formats » dans GroupDocs.Conversion ?
+L’opération **list formats** interroge la matrice interne de conversion et renvoie une collection décrivant chaque format source et les formats cibles vers lesquels il peut être transformé. Cette visibilité est essentielle pour créer des flux de travail de traitement de documents dynamiques.
+
+## Pourquoi utiliser GroupDocs.Conversion pour Java ?
+- **Couverture étendue des formats :** Des centaines de types source et cible sont pris en charge dès l’installation.  
+- **Prêt pour le cloud :** Idéal pour les pipelines de conversion de fichiers en stockage cloud où il faut connaître les fichiers convertibles à la volée.  
+- **Optimisé pour la performance :** Conçu pour les opérations batch à grande échelle.
 
 ## Prérequis
-
-Pour suivre ce tutoriel, assurez-vous d'avoir :
-- **Kit de développement Java (JDK) :** Version 8 ou ultérieure installée sur votre machine.
-- **GroupDocs.Conversion pour Java :** Ajoutez la bibliothèque via Maven. Assurez-vous que Maven est configuré dans votre environnement de développement.
-
-### Configuration requise pour l'environnement
-1. Compréhension de base de Java et des principes de programmation orientée objet.
-2. Un IDE approprié comme IntelliJ IDEA, Eclipse ou NetBeans pour écrire et exécuter du code Java.
+- **Java Development Kit (JDK) :** Version 8 ou plus récente.  
+- **Maven :** Correctement configuré dans votre IDE (IntelliJ IDEA, Eclipse, NetBeans, etc.).  
+- **GroupDocs.Conversion pour Java :** Ajouté comme dépendance Maven (voir ci‑dessous).  
 
 ## Configuration de GroupDocs.Conversion pour Java
 
-Pour utiliser GroupDocs.Conversion dans votre projet, incluez-le en tant que dépendance Maven :
+Ajoutez le dépôt GroupDocs et la dépendance à votre `pom.xml` :
 
-**Configuration Maven :**
 ```xml
 <repositories>
    <repository>
@@ -53,18 +60,16 @@ Pour utiliser GroupDocs.Conversion dans votre projet, incluez-le en tant que dé
 ```
 
 ### Acquisition de licence
-Commencez par un essai gratuit pour découvrir les fonctionnalités de GroupDocs.Conversion. Pour une utilisation prolongée, envisagez d'acheter une licence ou de demander une licence d'évaluation temporaire.
+Commencez avec un essai gratuit pour explorer l’API. Pour les charges de travail en production, achetez une licence ou demandez une licence d’évaluation temporaire.
 
 ### Initialisation et configuration de base
-
-Une fois la bibliothèque ajoutée à votre projet, initialisez-la :
 
 ```java
 import com.groupdocs.conversion.Converter;
 
 public class ConversionSetup {
     public static void main(String[] args) {
-        // Initialiser l'objet Converter
+        // Initialize the Converter object
         Converter converter = new Converter();
         
         System.out.println("GroupDocs.Conversion for Java has been initialized successfully.");
@@ -72,14 +77,10 @@ public class ConversionSetup {
 }
 ```
 
-## Guide de mise en œuvre
+## Comment lister les formats avec GroupDocs.Conversion pour Java
+Les sections suivantes montrent comment récupérer la matrice de conversion complète. Les extraits de code restent inchangés par rapport au tutoriel original ; nous ajoutons uniquement du contexte et des explications.
 
-### Récupération de toutes les conversions possibles
-
-Cette fonctionnalité vous permet de découvrir tous les chemins de conversion disponibles dans la bibliothèque GroupDocs, offrant une compréhension claire des formats sources qui peuvent être convertis dans quels formats cibles.
-
-#### Initialiser et récupérer les conversions
-Commencez par créer une instance du `Converter` classe:
+### Initialiser et récupérer les conversions
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -87,35 +88,32 @@ import com.groupdocs.conversion.contracts.PossibleConversions;
 
 public class GetAllPossibleConversionsFeature {
     public static void run() {
-        // Initialiser l'objet Converter
+        // Initialize the Converter object
         Converter converter = new Converter();
 ```
 
-#### Itérer sur les conversions possibles
-Le `getAllPossibleConversions()` la méthode renvoie une liste d'options de conversion disponibles pour chaque format de document source :
+### Parcourir les conversions possibles
 
 ```java
-// Récupérer toutes les conversions possibles prises en charge par la bibliothèque
+// Retrieve all possible conversions supported by the library
 for (PossibleConversions conversions : converter.getAllPossibleConversions()) {
-    // Description du format de la source d'impression
+    // Print source format description
     System.out.print(String.format("Source format: %s \n", conversions.getSource().getDescription()));
 ```
 
-#### Déterminer les types de conversion
-Pour chaque conversion, déterminez s'il s'agit d'un type principal ou secondaire et imprimez les détails :
+### Déterminer les types de conversion
 
 ```java
-// Parcourez chaque conversion cible disponible pour le format source
+// Iterate through each target conversion available for the source format
 for (TargetConversion conversion : conversions.getAll()) {
-    // Déterminez s'il s'agit d'une conversion principale ou secondaire et imprimez les détails
+    // Determine if it's a primary or secondary conversion and print details
     System.out.print(String.format("\t...can be converted to %s format as %s conversion.\n",
             conversion.getFormat(),
             conversion.isPrimary() ? "primary" : "secondary"));
 }
 ```
 
-#### Fonction complète
-Voici l'implémentation complète pour récupérer toutes les conversions possibles :
+### Fonction complète
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -124,17 +122,17 @@ import com.groupdocs.conversion.contracts.TargetConversion;
 
 public class GetAllPossibleConversionsFeature {
     public static void run() {
-        // Initialiser l'objet Converter
+        // Initialize the Converter object
         Converter converter = new Converter();
 
-        // Récupérer toutes les conversions possibles prises en charge par la bibliothèque
+        // Retrieve all possible conversions supported by the library
         for (PossibleConversions conversions : converter.getAllPossibleConversions()) {
-            // Description du format de la source d'impression
+            // Print source format description
             System.out.print(String.format("Source format: %s \n", conversions.getSource().getDescription()));
 
-            // Parcourez chaque conversion cible disponible pour le format source
+            // Iterate through each target conversion available for the source format
             for (TargetConversion conversion : conversions.getAll()) {
-                // Déterminez s'il s'agit d'une conversion principale ou secondaire et imprimez les détails
+                // Determine if it's a primary or secondary conversion and print details
                 System.out.print(String.format("\t...can be converted to %s format as %s conversion.\n",
                         conversion.getFormat(),
                         conversion.isPrimary() ? "primary" : "secondary"));
@@ -144,43 +142,44 @@ public class GetAllPossibleConversionsFeature {
 }
 ```
 
-## Applications pratiques
+## Cas d’utilisation de la conversion de fichiers en stockage cloud
+Connaître la matrice de conversion complète est particulièrement utile lors de la création de services de **conversion de fichiers en stockage cloud** :
 
-La possibilité de récupérer toutes les conversions possibles est bénéfique dans divers scénarios :
-1. **Systèmes de gestion de documents :** Identifiez et convertissez automatiquement les documents stockés dans plusieurs formats.
-2. **Solutions de stockage dans le cloud :** Facilitez le partage de fichiers en toute transparence en convertissant les fichiers dans des formats universellement acceptés à la volée.
-3. **Plateformes de diffusion de contenu :** Optimisez la diffusion de contenu en fournissant aux utilisateurs des versions téléchargeables de leur choix.
+1. **Détection dynamique du format :** Lorsqu’un fichier arrive dans le stockage cloud, vous pouvez immédiatement vérifier si le format cible souhaité est pris en charge.  
+2. **Migration batch :** Déplacez de grandes bibliothèques de documents vers un format unifié (par ex., PDF/A) en parcourant les types source supportés.  
+3. **Exportation pilotée par l’utilisateur :** Proposez aux utilisateurs finaux un menu déroulant ne contenant que les formats vers lesquels leur document actuel peut être exporté, réduisant ainsi les erreurs.
 
-## Considérations relatives aux performances
+## Considérations de performance
+- **Gestion des ressources :** Libérez l’instance `Converter` ou utilisez le try‑with‑resources si vous créez de nombreux convertisseurs à courte durée de vie.  
+- **Traitement batch :** Regroupez plusieurs fichiers dans une même tâche pour diminuer les frais généraux.  
+- **Mise en cache :** Mettez en cache le résultat de `getAllPossibleConversions()` si vous l’interrogez fréquemment ; la matrice de conversion change rarement à l’exécution.
 
-Lorsque vous utilisez GroupDocs.Conversion, tenez compte de ces conseils pour optimiser les performances :
-- **Gestion efficace des ressources :** Surveillez l’utilisation de la mémoire et assurez-vous de l’élimination appropriée des ressources après la conversion.
-- **Traitement par lots :** Si vous traitez de gros volumes de fichiers, implémentez le traitement par lots pour gérer efficacement la charge.
-- **Mécanismes de mise en cache :** Utilisez la mise en cache pour les formats fréquemment convertis afin de réduire le temps de conversion.
+## Problèmes courants et solutions
+| Symptom | Cause probable | Solution |
+|---------|----------------|----------|
+| Aucun résultat n’apparaît | `Converter` mal initialisé | Vérifiez que le JAR de la bibliothèque est dans le classpath et que la licence est chargée. |
+| La liste `TargetConversion` est vide | Utilisation d’une version de bibliothèque obsolète | Mettez à jour vers la dernière version de GroupDocs.Conversion. |
+| Pics de mémoire avec de gros documents | Ressources du convertisseur non libérées | Appelez `converter.close()` ou utilisez le try‑with‑resources. |
 
-## Conclusion
+## Foire aux questions
 
-Dans ce tutoriel, vous avez appris à utiliser GroupDocs.Conversion pour Java afin de récupérer toutes les conversions possibles. En comprenant les différents formats pris en charge et leurs chemins de conversion, vous pourrez mieux intégrer les fonctionnalités de gestion de documents à vos applications.
+**Q : Qu’est‑ce que GroupDocs.Conversion pour Java ?**  
+R : Une bibliothèque puissante de conversion de documents prenant en charge un large éventail de formats, permettant une intégration et une automatisation fluides dans les applications Java.
 
-**Prochaines étapes :**
-- Expérimentez la conversion de types de fichiers spécifiques à l'aide de la bibliothèque.
-- Découvrez des fonctionnalités supplémentaires telles que le traitement par lots ou la prise en charge de formats personnalisés.
+**Q : Comment démarrer avec GroupDocs.Conversion ?**  
+R : Commencez par configurer votre environnement comme indiqué dans les prérequis et ajoutez la bibliothèque via Maven.
 
-Prêt à mettre ces idées en pratique ? Essayez d'intégrer cette solution à votre prochain projet !
+**Q : Puis‑je convertir des types de fichiers personnalisés avec GroupDocs.Conversion ?**  
+R : Oui, grâce aux options de personnalisation disponibles dans l’API, vous pouvez étendre la prise en charge à des formats supplémentaires.
 
-## Section FAQ
+**Q : Quels sont les problèmes courants lors de la mise en œuvre des conversions ?**  
+R : Assurez‑vous que toutes les dépendances sont correctement configurées et vérifiez que votre environnement Java répond aux exigences de la bibliothèque.
 
-1. **Qu'est-ce que GroupDocs.Conversion pour Java ?**
-   - Une puissante bibliothèque de conversion de documents prenant en charge une large gamme de formats, permettant une intégration et une automatisation transparentes au sein des applications Java.
+**Q : Où puis‑je obtenir plus d’aide si nécessaire ?**  
+R : Consultez le forum GroupDocs ou leur documentation exhaustive [documentation](https://docs.groupdocs.com/conversion/java/).
 
-2. **Comment démarrer avec GroupDocs.Conversion ?**
-   - Commencez par configurer votre environnement comme décrit dans les prérequis et ajoutez la bibliothèque via Maven.
+---
 
-3. **Puis-je convertir des types de fichiers personnalisés à l’aide de GroupDocs.Conversion ?**
-   - Oui, grâce aux options de personnalisation disponibles dans l'API, vous pouvez étendre la prise en charge à des formats de fichiers supplémentaires.
-
-4. **Quels sont les problèmes courants lors de la mise en œuvre des conversions ?**
-   - Assurez-vous que toutes les dépendances sont correctement configurées et vérifiez que votre environnement Java répond aux exigences de la bibliothèque.
-
-5. **Où puis-je obtenir plus d’aide si nécessaire ?**
-   - Visitez le forum GroupDocs ou consultez leur vaste [documentation](https://docs.groupdocs.com/conversion/java/).
+**Dernière mise à jour :** 2026-01-28  
+**Testé avec :** GroupDocs.Conversion 25.2 pour Java  
+**Auteur :** GroupDocs

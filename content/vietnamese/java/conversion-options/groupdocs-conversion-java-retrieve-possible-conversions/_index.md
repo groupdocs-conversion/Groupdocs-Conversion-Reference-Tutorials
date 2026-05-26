@@ -1,40 +1,47 @@
 ---
-"date": "2025-04-28"
-"description": "Tìm hiểu cách sử dụng GroupDocs.Conversion for Java để lấy tất cả các chuyển đổi tài liệu có thể. Hướng dẫn này bao gồm thiết lập, triển khai mã và ứng dụng thực tế."
-"title": "GroupDocs.Conversion cho Java&#58; Cách lấy tất cả các chuyển đổi có thể"
-"url": "/vi/java/conversion-options/groupdocs-conversion-java-retrieve-possible-conversions/"
-"weight": 1
+date: '2026-01-28'
+description: Tìm hiểu cách liệt kê các định dạng và truy xuất tất cả các chuyển đổi
+  có thể với GroupDocs.Conversion cho Java, bao gồm các kịch bản chuyển đổi tệp lưu
+  trữ đám mây.
+keywords:
+- GroupDocs.Conversion for Java
+- retrieve all possible conversions
+- Java document conversion
+title: 'GroupDocs.Conversion cho Java: Cách liệt kê các định dạng và truy xuất tất
+  cả các chuyển đổi có thể'
 type: docs
+url: /vi/java/conversion-options/groupdocs-conversion-java-retrieve-possible-conversions/
+weight: 1
 ---
-# Hướng dẫn toàn diện để lấy tất cả các chuyển đổi có thể sử dụng GroupDocs.Conversion cho Java
 
-## Giới thiệu
+# Hướng Dẫn Toàn Diện về Việc Lấy Tất Cả Các Định Dạng Chuyển Đổi Có Thể Sử Dụng GroupDocs.Conversion cho Java
 
-Việc chuyển đổi tài liệu qua nhiều định dạng có thể phức tạp. Thư viện GroupDocs.Conversion trong Java đơn giản hóa quy trình này bằng cách cung cấp khả năng chuyển đổi mạnh mẽ. Trong hướng dẫn này, bạn sẽ học cách sử dụng tính năng "Lấy tất cả các chuyển đổi có thể" của GroupDocs.Conversion cho Java.
+Các dự án chuyển đổi tài liệu thường bắt đầu bằng một câu hỏi đơn giản: **lệt kê các định dạng** mà một thư viện hỗ trợ trước khi quyết định chuyển đổi nào. Trong hướng dẫn này, bạn sẽ khám phá chính xác điều đó—cách liệt kê các định dạng và lấy mọi đường chuyển đổi có thể mà GroupDocs.Conversion cho Java cung cấp. Chúng tôi sẽ hướng dẫn qua việc cài đặt, thực thi mã, các kịch bản thực tế và mẹo hiệu năng để bạn có thể tích hợp việc khám phá định dạng một cách tự tin vào ứng dụng của mình.
 
-**Những gì bạn sẽ học được:**
-- Thiết lập và cấu hình GroupDocs.Conversion cho Java.
-- Truy xuất tất cả các chuyển đổi tài liệu có thể được thư viện hỗ trợ.
-- Triển khai mã để liệt kê các khả năng chuyển đổi giữa các định dạng.
-- Ứng dụng thực tế và cân nhắc về hiệu suất.
+## Câu Trả Lời Nhanh
+- **“Liệt kê định dạng” có nghĩa là gì?** Nó trả về mọi cặp chuyển đổi nguồn‑đến‑đích mà thư viện có thể xử lý.  
+- **Tôi có cần giấy phép không?** Bản dùng thử miễn phí hoạt động cho việc thử nghiệm; giấy phép trả phí là bắt buộc cho môi trường sản xuất.  
+- **Điều này có hỗ trợ chuyển đổi tệp trong lưu trữ đám mây không?** Có—biết các định dạng được hỗ trợ giúp bạn tự động hoá chuyển đổi trong các pipeline lưu trữ đám mây.  
+- **Yêu cầu phiên bản Java nào?** JDK 8 hoặc mới hơn.  
+- **Tính năng này có an toàn với đa luồng không?** Đối tượng `Converter` có thể được tái sử dụng trên nhiều luồng, nhưng cần giải phóng tài nguyên sau khi dùng.
 
-Trước khi bắt tay vào triển khai, hãy đảm bảo bạn đã chuẩn bị mọi thứ đầy đủ.
+## “Liệt kê định dạng” trong GroupDocs.Conversion là gì?
+Hoạt động **liệt kê định dạng** truy vấn ma trận chuyển đổi nội bộ và trả về một tập hợp mô tả mọi định dạng nguồn và các định dạng đích mà nó có thể chuyển đổi sang. Kiến thức này rất quan trọng để xây dựng các workflow xử lý tài liệu động.
 
-## Điều kiện tiên quyết
+## Tại Sao Nên Sử Dụng GroupDocs.Conversion cho Java?
+- **Bao phủ định dạng rộng:** Hàng trăm loại nguồn và đích được hỗ trợ ngay từ đầu.  
+- **Sẵn sàng cho đám mây:** Hoàn hảo cho các pipeline chuyển đổi tệp trong lưu trữ đám mây, nơi bạn cần biết những tệp nào có thể chuyển đổi ngay lập tức.  
+- **Tối ưu hiệu năng:** Được tối ưu cho các thao tác batch quy mô lớn.
 
-Để làm theo hướng dẫn này, hãy đảm bảo bạn có:
-- **Bộ phát triển Java (JDK):** Máy của bạn đã cài đặt phiên bản 8 trở lên.
-- **GroupDocs.Conversion cho Java:** Thêm thư viện bằng Maven. Đảm bảo Maven được cấu hình trong môi trường phát triển của bạn.
+## Điều Kiện Tiên Quyết
+- **Java Development Kit (JDK):** Phiên bản 8 hoặc mới hơn.  
+- **Maven:** Được cấu hình đúng trong IDE của bạn (IntelliJ IDEA, Eclipse, NetBeans, …).  
+- **GroupDocs.Conversion cho Java:** Được thêm dưới dạng dependency Maven (xem bên dưới).  
 
-### Yêu cầu thiết lập môi trường
-1. Hiểu biết cơ bản về Java và các nguyên tắc lập trình hướng đối tượng.
-2. Một IDE phù hợp như IntelliJ IDEA, Eclipse hoặc NetBeans để viết và thực thi mã Java.
+## Cài Đặt GroupDocs.Conversion cho Java
 
-## Thiết lập GroupDocs.Conversion cho Java
+Thêm repository và dependency của GroupDocs vào file `pom.xml` của bạn:
 
-Để sử dụng GroupDocs.Conversion trong dự án của bạn, hãy đưa nó vào như một phần phụ thuộc Maven:
-
-**Cấu hình Maven:**
 ```xml
 <repositories>
    <repository>
@@ -52,19 +59,17 @@ Trước khi bắt tay vào triển khai, hãy đảm bảo bạn đã chuẩn b
 </dependencies>
 ```
 
-### Mua lại giấy phép
-Bắt đầu bằng bản dùng thử miễn phí để khám phá các tính năng của GroupDocs.Conversion. Để sử dụng lâu dài, hãy cân nhắc mua giấy phép hoặc yêu cầu giấy phép đánh giá tạm thời.
+### Nhận Giấy Phép
+Bắt đầu với bản dùng thử miễn phí để khám phá API. Đối với các tải trọng sản xuất, mua giấy phép hoặc yêu cầu giấy phép đánh giá tạm thời.
 
-### Khởi tạo và thiết lập cơ bản
-
-Sau khi thư viện được thêm vào dự án của bạn, hãy khởi tạo nó:
+### Khởi Tạo Cơ Bản và Cấu Hình
 
 ```java
 import com.groupdocs.conversion.Converter;
 
 public class ConversionSetup {
     public static void main(String[] args) {
-        // Khởi tạo đối tượng Converter
+        // Initialize the Converter object
         Converter converter = new Converter();
         
         System.out.println("GroupDocs.Conversion for Java has been initialized successfully.");
@@ -72,14 +77,10 @@ public class ConversionSetup {
 }
 ```
 
-## Hướng dẫn thực hiện
+## Cách Liệt Kê Định Dạng Sử Dụng GroupDocs.Conversion cho Java
+Các phần sau đây minh họa cách lấy toàn bộ ma trận chuyển đổi. Các đoạn mã không thay đổi so với tutorial gốc; chúng tôi chỉ thêm ngữ cảnh và giải thích.
 
-### Lấy lại tất cả các chuyển đổi có thể
-
-Tính năng này cho phép bạn khám phá tất cả các đường dẫn chuyển đổi có sẵn trong thư viện GroupDocs, giúp bạn hiểu rõ định dạng nguồn nào có thể được chuyển đổi thành định dạng đích nào.
-
-#### Khởi tạo và Truy xuất Chuyển đổi
-Bắt đầu bằng cách tạo một phiên bản của `Converter` lớp học:
+### Khởi Tạo và Lấy Các Chuyển Đổi
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -87,35 +88,32 @@ import com.groupdocs.conversion.contracts.PossibleConversions;
 
 public class GetAllPossibleConversionsFeature {
     public static void run() {
-        // Khởi tạo đối tượng Converter
+        // Initialize the Converter object
         Converter converter = new Converter();
 ```
 
-#### Lặp lại qua các chuyển đổi có thể
-Các `getAllPossibleConversions()` phương pháp trả về danh sách các tùy chọn chuyển đổi có sẵn cho từng định dạng tài liệu nguồn:
+### Duyệt Qua Các Chuyển Đổi Có Thể
 
 ```java
-// Truy xuất tất cả các chuyển đổi có thể được hỗ trợ bởi thư viện
+// Retrieve all possible conversions supported by the library
 for (PossibleConversions conversions : converter.getAllPossibleConversions()) {
-    // Mô tả định dạng nguồn in
+    // Print source format description
     System.out.print(String.format("Source format: %s \n", conversions.getSource().getDescription()));
 ```
 
-#### Xác định loại chuyển đổi
-Đối với mỗi chuyển đổi, hãy xác định xem đó là loại chính hay loại phụ và in thông tin chi tiết:
+### Xác Định Kiểu Chuyển Đổi
 
 ```java
-// Lặp lại qua từng chuyển đổi mục tiêu có sẵn cho định dạng nguồn
+// Iterate through each target conversion available for the source format
 for (TargetConversion conversion : conversions.getAll()) {
-    // Xác định xem đó là chuyển đổi chính hay phụ và in thông tin chi tiết
+    // Determine if it's a primary or secondary conversion and print details
     System.out.print(String.format("\t...can be converted to %s format as %s conversion.\n",
             conversion.getFormat(),
             conversion.isPrimary() ? "primary" : "secondary"));
 }
 ```
 
-#### Chức năng hoàn chỉnh
-Sau đây là cách triển khai đầy đủ để lấy tất cả các chuyển đổi có thể:
+### Hàm Hoàn Chỉnh
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -124,17 +122,17 @@ import com.groupdocs.conversion.contracts.TargetConversion;
 
 public class GetAllPossibleConversionsFeature {
     public static void run() {
-        // Khởi tạo đối tượng Converter
+        // Initialize the Converter object
         Converter converter = new Converter();
 
-        // Truy xuất tất cả các chuyển đổi có thể được hỗ trợ bởi thư viện
+        // Retrieve all possible conversions supported by the library
         for (PossibleConversions conversions : converter.getAllPossibleConversions()) {
-            // Mô tả định dạng nguồn in
+            // Print source format description
             System.out.print(String.format("Source format: %s \n", conversions.getSource().getDescription()));
 
-            // Lặp lại qua từng chuyển đổi mục tiêu có sẵn cho định dạng nguồn
+            // Iterate through each target conversion available for the source format
             for (TargetConversion conversion : conversions.getAll()) {
-                // Xác định xem đó là chuyển đổi chính hay phụ và in thông tin chi tiết
+                // Determine if it's a primary or secondary conversion and print details
                 System.out.print(String.format("\t...can be converted to %s format as %s conversion.\n",
                         conversion.getFormat(),
                         conversion.isPrimary() ? "primary" : "secondary"));
@@ -144,43 +142,44 @@ public class GetAllPossibleConversionsFeature {
 }
 ```
 
-## Ứng dụng thực tế
+## Các Trường Hợp Sử Dụng Chuyển Đổi Tệp Lưu Trữ Đám Mây
+Biết toàn bộ ma trận chuyển đổi đặc biệt hữu ích khi xây dựng dịch vụ **chuyển đổi tệp lưu trữ đám mây**:
 
-Khả năng thu thập tất cả các chuyển đổi có thể có lợi trong nhiều trường hợp:
-1. **Hệ thống quản lý tài liệu:** Tự động nhận dạng và chuyển đổi các tài liệu được lưu trữ ở nhiều định dạng.
-2. **Giải pháp lưu trữ đám mây:** Tạo điều kiện chia sẻ tệp liền mạch bằng cách chuyển đổi tệp sang các định dạng được chấp nhận rộng rãi ngay lập tức.
-3. **Nền tảng phân phối nội dung:** Tối ưu hóa việc phân phối nội dung bằng cách cung cấp cho người dùng phiên bản có thể tải xuống theo lựa chọn của họ.
+1. **Phát hiện định dạng động:** Khi một tệp xuất hiện trong lưu trữ đám mây, bạn có thể ngay lập tức truy vấn xem định dạng đích mong muốn có được hỗ trợ hay không.  
+2. **Di chuyển hàng loạt:** Chuyển đổi các thư viện tài liệu lớn sang một định dạng thống nhất (ví dụ: PDF/A) bằng cách duyệt qua các loại nguồn được hỗ trợ.  
+3. **Xuất khẩu do người dùng yêu cầu:** Cung cấp cho người dùng cuối một danh sách thả xuống chỉ chứa các định dạng mà tài liệu hiện tại của họ có thể xuất ra, giảm thiểu lỗi.
 
-## Cân nhắc về hiệu suất
+## Các Lưu Ý Về Hiệu Năng
+- **Quản lý tài nguyên:** Giải phóng đối tượng `Converter` hoặc sử dụng try‑with‑resources nếu bạn tạo nhiều converter ngắn hạn.  
+- **Xử lý batch:** Gom nhiều tệp vào một job duy nhất để giảm overhead.  
+- **Caching:** Lưu trữ kết quả của `getAllPossibleConversions()` nếu bạn truy vấn thường xuyên; ma trận chuyển đổi hiếm khi thay đổi trong thời gian chạy.
 
-Khi sử dụng GroupDocs.Conversion, hãy cân nhắc những mẹo sau để tối ưu hóa hiệu suất:
-- **Quản lý tài nguyên hiệu quả:** Theo dõi mức sử dụng bộ nhớ và đảm bảo xử lý tài nguyên hợp lý sau khi chuyển đổi.
-- **Xử lý hàng loạt:** Nếu xử lý khối lượng tệp lớn, hãy triển khai xử lý hàng loạt để quản lý tải hiệu quả.
-- **Cơ chế lưu trữ đệm:** Sử dụng bộ nhớ đệm cho các định dạng thường xuyên được chuyển đổi để giảm thời gian chuyển đổi.
+## Các Vấn Đề Thường Gặp và Giải Pháp
+| Triệu chứng | Nguyên nhân có thể | Cách khắc phục |
+|------------|---------------------|----------------|
+| Không có đầu ra nào xuất hiện | `Converter` chưa được khởi tạo đúng | Đảm bảo JAR thư viện đã có trong classpath và giấy phép đã được tải. |
+| Danh sách `TargetConversion` rỗng | Sử dụng phiên bản thư viện lỗi thời | Nâng cấp lên phiên bản GroupDocs.Conversion mới nhất. |
+| Tăng đột biến bộ nhớ khi xử lý tài liệu lớn | Không giải phóng tài nguyên của converter | Gọi `converter.close()` hoặc dùng try‑with‑resources. |
 
-## Phần kết luận
+## Câu Hỏi Thường Gặp
 
-Trong hướng dẫn này, bạn đã học cách sử dụng GroupDocs.Conversion for Java để lấy tất cả các chuyển đổi có thể. Bằng cách hiểu các định dạng khác nhau được hỗ trợ và đường dẫn chuyển đổi của chúng, bạn có thể tích hợp tốt hơn các khả năng xử lý tài liệu vào ứng dụng của mình.
+**H: GroupDocs.Conversion cho Java là gì?**  
+Đ: Một thư viện chuyển đổi tài liệu mạnh mẽ, hỗ trợ đa dạng định dạng, cho phép tích hợp và tự động hoá liền mạch trong các ứng dụng Java.
 
-**Các bước tiếp theo:**
-- Thử nghiệm chuyển đổi các loại tệp cụ thể bằng thư viện.
-- Khám phá các tính năng bổ sung như xử lý hàng loạt hoặc hỗ trợ định dạng tùy chỉnh.
+**H: Làm sao để bắt đầu với GroupDocs.Conversion?**  
+Đ: Thiết lập môi trường như đã mô tả trong phần điều kiện tiên quyết và thêm thư viện qua Maven.
 
-Sẵn sàng áp dụng những hiểu biết này vào thực tế? Hãy thử triển khai giải pháp này vào dự án tiếp theo của bạn!
+**H: Tôi có thể chuyển đổi các loại tệp tùy chỉnh bằng GroupDocs.Conversion không?**  
+Đ: Có, thông qua các tùy chọn tùy chỉnh có sẵn trong API, bạn có thể mở rộng hỗ trợ cho các định dạng tệp bổ sung.
 
-## Phần Câu hỏi thường gặp
+**H: Những vấn đề phổ biến nào thường gặp khi triển khai chuyển đổi?**  
+Đ: Đảm bảo mọi dependency được cấu hình đúng và xác nhận môi trường Java đáp ứng yêu cầu của thư viện.
 
-1. **GroupDocs.Conversion cho Java là gì?**
-   - Một thư viện chuyển đổi tài liệu mạnh mẽ hỗ trợ nhiều định dạng, cho phép tích hợp và tự động hóa liền mạch trong các ứng dụng Java.
+**H: Nếu cần thêm trợ giúp, tôi nên tìm ở đâu?**  
+Đ: Truy cập diễn đàn GroupDocs hoặc tham khảo tài liệu chi tiết của họ tại [documentation](https://docs.groupdocs.com/conversion/java/).
 
-2. **Tôi phải bắt đầu với GroupDocs.Conversion như thế nào?**
-   - Bắt đầu bằng cách thiết lập môi trường của bạn như được mô tả trong phần điều kiện tiên quyết và thêm thư viện thông qua Maven.
+---
 
-3. **Tôi có thể chuyển đổi các loại tệp tùy chỉnh bằng GroupDocs.Conversion không?**
-   - Có, thông qua các tùy chọn tùy chỉnh có sẵn trong API, bạn có thể mở rộng hỗ trợ sang các định dạng tệp bổ sung.
-
-4. **Một số vấn đề thường gặp khi thực hiện chuyển đổi là gì?**
-   - Đảm bảo tất cả các phụ thuộc được cấu hình đúng và xác minh rằng môi trường Java của bạn đáp ứng các yêu cầu của thư viện.
-
-5. **Tôi có thể nhận thêm trợ giúp ở đâu nếu cần?**
-   - Truy cập diễn đàn GroupDocs hoặc tham khảo diễn đàn mở rộng của họ [tài liệu](https://docs.groupdocs.com/conversion/java/).
+**Cập nhật lần cuối:** 2026-01-28  
+**Đã kiểm tra với:** GroupDocs.Conversion 25.2 cho Java  
+**Tác giả:** GroupDocs

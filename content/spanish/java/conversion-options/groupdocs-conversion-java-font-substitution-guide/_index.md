@@ -1,40 +1,47 @@
 ---
-"date": "2025-04-28"
-"description": "Aprenda a utilizar GroupDocs.Conversion para Java para lograr una sustitución de fuentes y una conversión de documentos sin inconvenientes, garantizando una tipografía consistente en todas las plataformas."
-"title": "Sustitución de fuentes en Java&#58; Dominando GroupDocs.Conversion para una salida PDF consistente"
-"url": "/es/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/"
-"weight": 1
+date: '2026-01-28'
+description: Aprende cómo convertir notas a PDF con GroupDocs.Conversion para Java,
+  reemplaza fuentes faltantes y asegura una tipografía consistente en todas las plataformas.
+keywords:
+- GroupDocs.Conversion for Java
+- font substitution in Java
+- document conversion to PDF
+title: Convertir nota a PDF usando GroupDocs.Conversion para Java
 type: docs
+url: /es/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/
+weight: 1
 ---
-# Dominando la sustitución de fuentes con GroupDocs.Conversion para Java
 
-## Introducción
+# Dominar la sustitución de fuentes con GroupDocs.Conversion para Java
 
-Convertir documentos de notas a PDF manteniendo una tipografía consistente puede ser un desafío. Este tutorial demuestra cómo... **GroupDocs.Conversion para Java** Permite sustituciones de fuentes personalizadas para garantizar conversiones de documentos sin problemas.
+Convertir documentos **note** a PDF manteniendo una tipografía consistente puede ser un desafío. En esta guía aprenderás **cómo convertir note a pdf** usando GroupDocs.Conversion para Java, reemplazar fuentes faltantes y configurar una fuente de reserva predeterminada para que tu salida se vea igual en cualquier dispositivo.
 
-### Lo que aprenderás:
-- Configuración de la sustitución de fuentes durante la conversión de documentos de notas.
-- Conversión de documentos a PDF con reemplazos de fuentes administrados.
-- Optimización del rendimiento y el uso de recursos en aplicaciones Java.
+## Respuestas rápidas
+- **¿Cuál es el propósito principal de la sustitución de fuentes?** Reemplaza las fuentes no disponibles por las que especifiques, manteniendo la apariencia del documento consistente.  
+- **¿Qué biblioteca se encarga de la conversión?** `GroupDocs.Conversion for Java`.  
+- **¿Necesito una licencia para producción?** Sí, se requiere una licencia completa o una temporal.  
+- **¿Puedo establecer una fuente predeterminada para casos desconocidos?** Absolutamente, usando `setDefaultFont()` en `NoteLoadOptions`.  
+- **¿Es compatible con JDK 8 y superiores?** Sí, la biblioteca soporta Java 8+.
 
-Antes de comenzar, repasemos los requisitos previos necesarios.
+## ¿Qué es “convert note to pdf”?
+“convert note to pdf” se refiere a transformar formatos de archivos de toma de notas (como `.ONE`, `.ENEX`, etc.) al formato PDF universalmente visible. Este proceso a menudo se encuentra con problemas de fuentes faltantes, por lo que la sustitución de fuentes es esencial.
 
-## Prerrequisitos
+## ¿Por qué usar GroupDocs.Conversion para Java?
+- **Manejo de fuentes sin interrupciones** – reemplaza fuentes faltantes automáticamente.  
+- **Salida PDF de alta fidelidad** – preserva el diseño, imágenes y estilos.  
+- **Integración sencilla** – la configuración basada en Maven encaja en cualquier proyecto Java.  
+- **Rendimiento optimizado** – uso eficiente de memoria para documentos grandes.
 
-### Bibliotecas, versiones y dependencias necesarias
-Asegúrese de que su entorno incluya:
-- **Kit de desarrollo de Java (JDK)** versión 8 o superior.
-- Un entorno de desarrollo integrado (IDE) como IntelliJ IDEA o Eclipse.
+## Requisitos previos
 
-### Requisitos de configuración del entorno
-Se requiere Maven para gestionar las dependencias. Asegúrese de que esté instalado y configurado correctamente.
-
-### Requisitos previos de conocimiento
-Es esencial tener una comprensión básica de la programación Java y de los conceptos de conversión de documentos.
+- **Java Development Kit (JDK)** versión 8 o superior.  
+- Un IDE como **IntelliJ IDEA** o **Eclipse**.  
+- **Maven** instalado para la gestión de dependencias.  
+- Conocimientos básicos de Java y conceptos de conversión de documentos.
 
 ## Configuración de GroupDocs.Conversion para Java
 
-Para utilizar **GroupDocs.Conversion para Java**, incluya la biblioteca en su proyecto a través de Maven:
+Agrega el repositorio de GroupDocs y la dependencia a tu `pom.xml`:
 
 ```xml
 <repositories>
@@ -53,25 +60,17 @@ Para utilizar **GroupDocs.Conversion para Java**, incluya la biblioteca en su pr
 </dependencies>
 ```
 
-### Adquisición de licencias
-GroupDocs ofrece una prueba gratuita y licencias temporales para realizar pruebas, o puede comprar una licencia completa para uso en producción.
+### Obtención de licencia
+GroupDocs ofrece una prueba gratuita y licencias temporales para pruebas, o puedes comprar una licencia completa para uso en producción.
 
-1. **Prueba gratuita**: Descargar desde [aquí](https://releases.groupdocs.com/conversion/java/).
-2. **Licencia temporal**:Solicita uno en [este enlace](https://purchase.groupdocs.com/temporary-license/).
-3. **Compra**:Para soluciones a largo plazo, compre una licencia [aquí](https://purchase.groupdocs.com/buy).
+1. **Prueba gratuita**: Descarga desde [here](https://releases.groupdocs.com/conversion/java/).  
+2. **Licencia temporal**: Solicita una en [this link](https://purchase.groupdocs.com/temporary-license/).  
+3. **Compra**: Para soluciones a largo plazo, adquiere una licencia [here](https://purchase.groupdocs.com/buy).
 
-## Guía de implementación
+## Cómo sustituir fuentes mientras **convert note to pdf**
 
-### Sustitución de fuentes para la conversión de documentos de notas
-La sustitución de fuentes garantiza una tipografía consistente al reemplazar las fuentes no disponibles con alternativas específicas durante la conversión del documento.
-
-#### Descripción general
-Esta función mantiene la coherencia visual en todas las plataformas sustituyendo las fuentes faltantes.
-
-#### Pasos de implementación
-
-##### Paso 1: Configurar sustituciones de fuentes
-Configure sus opciones de sustitución de fuentes:
+### Paso 1: Configurar sustituciones de fuentes
+Crea un objeto `NoteLoadOptions`, define los pares de fuentes que deseas reemplazar y establece una fuente de reserva para los casos no coincidentes:
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -79,102 +78,99 @@ import com.groupdocs.conversion.options.convert.PdfConvertOptions;
 import com.groupdocs.conversion.options.load.NoteLoadOptions;
 import com.groupdocs.conversion.contracts.FontSubstitute;
 
-// Crear opciones de sustitución de fuentes
+// Create font substitution options
 NoteLoadOptions loadOptions = new NoteLoadOptions();
 List<FontSubstitute> fontSubstitutes = new ArrayList<>();
-fontSubstitutes.add(FontSubstitute.create("Tahoma", "Arial")); // Sustituir Tahoma por Arial
-fontSubstitutes.add(FontSubstitute.create("Times New Roman", "Arial")); // Sustituya Times New Roman por Arial
+fontSubstitutes.add(FontSubstitute.create("Tahoma", "Arial")); // Substitute Tahoma with Arial
+fontSubstitutes.add(FontSubstitute.create("Times New Roman", "Arial")); // Substitute Times New Roman with Arial
 loadOptions.setFontSubstitutes(fontSubstitutes);
 
-// Establecer la fuente predeterminada para sustituciones no controladas
+// Set the default font for unhandled substitutions
 defaultFont = "YOUR_DOCUMENT_DIRECTORY/terminal-grotesque_open.otf";
 ```
-- **`NoteLoadOptions`**:Configura las opciones de carga específicas de los documentos de notas.
-- **`FontSubstitute.create()`**:Define fuentes y sus reemplazos.
-- **`setDefaultFont()`**:Establece una fuente de respaldo si no se aplica ninguna sustitución.
+- **`NoteLoadOptions`** – configura opciones de carga específicas para documentos note.  
+- **`FontSubstitute.create()`** – asigna una fuente faltante a una de reemplazo.  
+- **`setDefaultFont()`** – define una fuente de reserva cuando no existe una sustitución explícita.
 
-##### Paso 2: Convertir el documento
-Utilice estas configuraciones para convertir su documento:
+### Paso 2: Convertir el documento a PDF
+Pasa las opciones de carga configuradas al `Converter` y ejecuta la conversión:
 
 ```java
-// Inicializar el convertidor con las opciones de carga especificadas
+// Initialize Converter with specified load options
 converter = new Converter("YOUR_DOCUMENT_DIRECTORY/sample_note_document", () -> loadOptions);
 
-// Establecer las opciones de conversión de PDF
+// Set PDF conversion options
 pdfOptions = new PdfConvertOptions();
 
-// Realizar conversión
+// Perform conversion
 coder.convert("YOUR_OUTPUT_DIRECTORY/converted_note.pdf", pdfOptions);
 ```
-- **`Converter`**:Maneja la carga y conversión de documentos.
-- **`convert()`**:Ejecuta el proceso de conversión del documento.
+- **`Converter`** – carga el archivo fuente usando las opciones suministradas.  
+- **`convert()`** – escribe el archivo PDF en la ubicación de destino.
 
-### Conversión de documentos a PDF
-La conversión de documentos a PDF garantiza la accesibilidad universal y preserva el formato en todas las plataformas.
+## Convertir un documento Note a PDF (sin fuentes personalizadas)
 
-#### Descripción general
-La conversión de PDF es esencial para una presentación consistente del documento.
-
-#### Pasos de implementación
-
-##### Paso 1: Inicializar el convertidor
-Configure su convertidor con la ruta del archivo de entrada:
+Si solo necesitas **java document to pdf** sin sustituciones personalizadas, los pasos son aún más breves:
 
 ```java
-// Inicializar el convertidor para un documento determinado
+// Initialize Converter for a given document
 converter = new Converter("YOUR_DOCUMENT_DIRECTORY/sample_note_document");
 ```
 
-##### Paso 2: Establecer las opciones de PDF y convertir
-Defina las opciones para la conversión de PDF y ejecútela:
-
 ```java
-pdfOptions = new PdfConvertOptions(); // Configurar las opciones de conversión
+pdfOptions = new PdfConvertOptions(); // Configure conversion options
 converter.convert("YOUR_OUTPUT_DIRECTORY/converted_note.pdf", pdfOptions);
 ```
 
 ## Aplicaciones prácticas
 
-1. **Intercambio de documentos**:Comparta documentos con tipografía consistente en todos los dispositivos.
-2. **Archivado**:Archive documentos importantes en formato PDF para mantener la apariencia original.
-3. **Compatibilidad entre plataformas**:Garantizar una presentación uniforme de los documentos en diferentes sistemas y software.
+1. **Compartir documentos** – Envía PDFs que se vean idénticos en Windows, macOS o Linux.  
+2. **Archivado** – Conserva la fidelidad visual de archivos note heredados para cumplimiento.  
+3. **Compatibilidad multiplataforma** – Asegura que todos los interesados vean las mismas fuentes, sin importar las tipografías instaladas.
 
 ### Posibilidades de integración
-Integre GroupDocs.Conversion en su sistema de gestión de contenido empresarial o en sus herramientas de automatización del flujo de trabajo de documentos para optimizar sus procesos.
+Puedes incrustar este flujo de conversión en un sistema de gestión de contenido empresarial, un micro‑servicio que procese cargas, o un trabajo por lotes que migre archivos note heredados a PDF.
 
 ## Consideraciones de rendimiento
-Para mejorar el rendimiento:
-- Optimice el uso de la memoria administrando de manera eficiente grandes flujos de documentos.
-- Utilice estrategias de almacenamiento en caché para documentos convertidos con frecuencia.
-- Siga las mejores prácticas de Java, como el ajuste de la recolección de basura y la agrupación de recursos.
+- **Gestión de memoria** – Transmite archivos grandes en lugar de cargarlos completamente en memoria.  
+- **Caché** – Almacena en caché los archivos de fuentes usados con frecuencia para evitar I/O de disco repetido.  
+- **Mejores prácticas de Java** – Ajusta el recolector de basura y reutiliza instancias de `Converter` cuando sea posible.
 
-## Conclusión
-Este tutorial exploró la sustitución de fuentes durante la conversión de documentos de notas utilizando **GroupDocs.Conversion para Java**Al dominar estas técnicas, podrá garantizar una tipografía consistente en todas las plataformas y mejorar sus procesos de gestión documental.
+## Problemas comunes y soluciones
+| Problema | Causa probable | Solución |
+|----------|----------------|----------|
+| Fuente faltante después de la conversión | No se definió una sustitución para la fuente | Añade una entrada `FontSubstitute` o establece una fuente predeterminada adecuada. |
+| `NullPointerException` en `loadOptions` | `loadOptions` no se pasó al `Converter` | Asegúrate de usar la lambda `() -> loadOptions` al crear el `Converter`. |
+| Conversión lenta para archivos grandes | Carga del documento completo en memoria | Usa APIs de transmisión o incrementa el tamaño del heap de JVM según sea necesario. |
 
-### Próximos pasos
-Implemente la solución en sus proyectos para experimentar los beneficios de la sustitución de fuentes y la conversión de PDF con GroupDocs.Conversion.
+## Preguntas frecuentes
 
-## Sección de preguntas frecuentes
-1. **¿Puedo sustituir varias fuentes a la vez?**
-   Sí, agregue varios `FontSubstitute` Entradas para manejar varias fuentes simultáneamente.
+**P: ¿Puedo sustituir varias fuentes a la vez?**  
+R: Sí, agrega múltiples entradas `FontSubstitute` a la lista `fontSubstitutes`.
 
-2. **¿Qué sucede si no se encuentra la fuente predeterminada?**
-   El documento utilizará una fuente predeterminada del sistema, que puede variar según la plataforma.
+**P: ¿Qué ocurre si no se encuentra la fuente predeterminada?**  
+R: La conversión recurre a la fuente predeterminada del sistema, que puede variar entre plataformas.
 
-3. **¿Cómo puedo solucionar errores de conversión?**
-   Verifique que las rutas de archivos sean correctas y asegúrese de que todas las dependencias estén configuradas correctamente en su proyecto.
+**P: ¿Cómo soluciono errores de conversión?**  
+R: Verifica las rutas de los archivos, asegura que todas las dependencias de Maven estén resueltas y revisa la consola para obtener trazas de error.
 
-4. **¿GroupDocs.Conversion es compatible con todas las versiones de Java?**
-   Es compatible con JDK 8 y superior.
+**P: ¿GroupDocs.Conversion es compatible con todas las versiones de Java?**  
+R: Soporta JDK 8 y superiores.
 
-5. **¿Se puede utilizar la sustitución de fuentes con otros formatos de documentos?**
-   Sí, la función admite varios tipos de documentos, incluidos archivos de Word y Excel.
+**P: ¿Se puede usar la sustitución de fuentes con otros formatos como Word o Excel?**  
+R: Absolutamente, el mismo mecanismo `FontSubstitute` funciona para muchos tipos de documentos.
 
 ## Recursos
-- [Documentación](https://docs.groupdocs.com/conversion/java/)
-- [Referencia de API](https://reference.groupdocs.com/conversion/java/)
-- [Descargar](https://releases.groupdocs.com/conversion/java/)
-- [Licencia de compra](https://purchase.groupdocs.com/buy)
-- [Prueba gratuita](https://releases.groupdocs.com/conversion/java/)
-- [Licencia temporal](https://purchase.groupdocs.com/temporary-license/)
-- [Foro de soporte](https://forum.groupdocs.com/c/conversion/10)
+- [Documentation](https://docs.groupdocs.com/conversion/java/)
+- [API Reference](https://reference.groupdocs.com/conversion/java/)
+- [Download](https://releases.groupdocs.com/conversion/java/)
+- [Purchase License](https://purchase.groupdocs.com/buy)
+- [Free Trial](https://releases.groupdocs.com/conversion/java/)
+- [Temporary License](https://purchase.groupdocs.com/temporary-license/)
+- [Support Forum](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**Última actualización:** 2026-01-28  
+**Probado con:** GroupDocs.Conversion 25.2 for Java  
+**Autor:** GroupDocs

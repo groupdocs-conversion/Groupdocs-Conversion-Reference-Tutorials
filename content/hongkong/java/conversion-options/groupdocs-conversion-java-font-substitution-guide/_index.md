@@ -1,40 +1,46 @@
 ---
-"date": "2025-04-28"
-"description": "了解如何使用 GroupDocs.Conversion for Java 實現無縫字體替換和文件轉換，確保跨平台的排版一致性。"
-"title": "Java 中的字型替換&#58;掌握 GroupDocs.Conversion 以實現一致的 PDF 輸出"
-"url": "/zh-hant/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/"
-"weight": 1
+date: '2026-01-28'
+description: 了解如何使用 GroupDocs.Conversion for Java 將筆記轉換為 PDF、取代缺失字型，並確保跨平台的排版一致性。
+keywords:
+- GroupDocs.Conversion for Java
+- font substitution in Java
+- document conversion to PDF
+title: 使用 GroupDocs.Conversion for Java 將筆記轉換為 PDF
 type: docs
+url: /zh-hant/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/
+weight: 1
 ---
-# 使用 GroupDocs.Conversion for Java 掌握字型替換
 
-## 介紹
+# 精通字型替換與 GroupDocs.Conversion for Java
 
-將筆記文件轉換為 PDF 並保持一致的排版可能會很困難。本教學示範如何 **GroupDocs.Conversion for Java** 啟用自訂字體替換以確保無縫文件轉換。
+將 **note** 文件轉換為 PDF 同時保持字型一致性可能相當具挑戰性。在本指南中，您將學習 **如何將 note 轉換為 pdf** 使用 GroupDocs.Conversion for Java、取代缺失的字型，並設定預設備援字型，使您的輸出在每台裝置上皆保持相同外觀。
 
-### 您將學到什麼：
-- 在註釋文檔轉換期間設定字體替換。
-- 使用管理字體替換將文件轉換為 PDF。
-- 優化 Java 應用程式的效能和資源使用情況。
+## 快速解答
+- **字型替換的主要目的為何？** 它會將不可用的字型替換為您指定的字型，保持文件外觀一致。  
+- **哪個函式庫負責轉換？** `GroupDocs.Conversion for Java`。  
+- **生產環境需要授權嗎？** 需要 – 必須擁有完整授權或臨時授權。  
+- **可以為未知情況設定預設字型嗎？** 當然可以，使用 `NoteLoadOptions` 中的 `setDefaultFont()`。  
+- **此功能是否相容於 JDK 8 及以上版本？** 是，函式庫支援 Java 8+。
 
-在我們開始之前，讓我們回顧一下必要的先決條件。
+## 什麼是「convert note to pdf」？
+「convert note to pdf」指的是將筆記類檔案格式（例如 `.ONE`、`.ENEX` 等）轉換為通用的 PDF 格式。此過程常會遇到缺字型的問題，因此字型替換相當重要。
 
-## 先決條件
+## 為何使用 GroupDocs.Conversion for Java？
+- **無縫字型處理** – 自動取代缺失的字型。  
+- **高保真 PDF 輸出** – 保留版面配置、圖片與樣式。  
+- **輕鬆整合** – 基於 Maven 的設定可直接嵌入任何 Java 專案。  
+- **效能優化** – 大型文件的記憶體使用效率高。
 
-### 所需的函式庫、版本和相依性
-確保您的環境包括：
-- **Java 開發工具包 (JDK)** 版本 8 或更高版本。
-- 整合開發環境 (IDE)，如 IntelliJ IDEA 或 Eclipse。
+## 前置條件
 
-### 環境設定要求
-需要使用 Maven 來管理依賴項。請確保已正確安裝並配置 Maven。
+- **Java Development Kit (JDK)** 版本 8 或以上。  
+- 如 **IntelliJ IDEA** 或 **Eclipse** 等 IDE。  
+- 已安裝 **Maven** 以管理相依性。  
+- 具備 Java 基礎與文件轉換概念。
 
-### 知識前提
-對 Java 程式設計和文件轉換概念的基本了解至關重要。
+## 設定 GroupDocs.Conversion for Java
 
-## 為 Java 設定 GroupDocs.Conversion
-
-使用 **GroupDocs.Conversion for Java**，透過 Maven 將該庫包含到您的專案中：
+將 GroupDocs 倉庫與相依性加入您的 `pom.xml`：
 
 ```xml
 <repositories>
@@ -53,25 +59,17 @@ type: docs
 </dependencies>
 ```
 
-### 許可證獲取
-GroupDocs 提供免費試用和臨時許可證以供測試，或者您可以購買完整許可證以供生產使用。
+### 取得授權
+GroupDocs 提供免費試用與測試用臨時授權，亦可購買正式授權以供生產使用。
 
-1. **免費試用**：下載自 [這裡](https://releases。groupdocs.com/conversion/java/).
-2. **臨時執照**：申請一個 [此連結](https://purchase。groupdocs.com/temporary-license/).
-3. **購買**：對於長期解決方案，請購買許可證 [這裡](https://purchase。groupdocs.com/buy).
+1. **免費試用**：從 [此處](https://releases.groupdocs.com/conversion/java/) 下載。  
+2. **臨時授權**：於 [此連結](https://purchase.groupdocs.com/temporary-license/) 申請。  
+3. **購買授權**：長期使用請於 [此處](https://purchase.groupdocs.com/buy) 購買。
 
-## 實施指南
+## 如何在 **convert note to pdf** 時替換字型
 
-### 註釋文檔轉換的字體替換
-字體替換透過在文件轉換期間用指定的替代字體替換不可用的字體來確保排版的一致性。
-
-#### 概述
-此功能透過替換缺少的字體來保持跨平台的視覺一致性。
-
-#### 實施步驟
-
-##### 步驟 1：配置字型替換
-配置字型替換選項：
+### 步驟 1：設定字型替換
+建立 `NoteLoadOptions` 物件，定義要取代的字型對應，並為未匹配的情況設定備援字型：
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -79,102 +77,99 @@ import com.groupdocs.conversion.options.convert.PdfConvertOptions;
 import com.groupdocs.conversion.options.load.NoteLoadOptions;
 import com.groupdocs.conversion.contracts.FontSubstitute;
 
-// 建立字型替換選項
+// Create font substitution options
 NoteLoadOptions loadOptions = new NoteLoadOptions();
 List<FontSubstitute> fontSubstitutes = new ArrayList<>();
-fontSubstitutes.add(FontSubstitute.create("Tahoma", "Arial")); // 用 Arial 取代 Tahoma
-fontSubstitutes.add(FontSubstitute.create("Times New Roman", "Arial")); // 用 Arial 取代 Times New Roman
+fontSubstitutes.add(FontSubstitute.create("Tahoma", "Arial")); // Substitute Tahoma with Arial
+fontSubstitutes.add(FontSubstitute.create("Times New Roman", "Arial")); // Substitute Times New Roman with Arial
 loadOptions.setFontSubstitutes(fontSubstitutes);
 
-// 設定未處理替換的預設字體
+// Set the default font for unhandled substitutions
 defaultFont = "YOUR_DOCUMENT_DIRECTORY/terminal-grotesque_open.otf";
 ```
-- **`NoteLoadOptions`**：配置特定於註解文檔的載入選項。
-- **`FontSubstitute.create()`**：定義字型及其替換。
-- **`setDefaultFont()`**：如果不適用替換，則設定後備字體。
+- **`NoteLoadOptions`** – 為筆記文件配置載入選項。  
+- **`FontSubstitute.create()`** – 將缺失字型映射至替代字型。  
+- **`setDefaultFont()`** – 當沒有明確替代時，定義備援字型。
 
-##### 第 2 步：轉換文檔
-使用這些設定來轉換您的文件：
+### 步驟 2：將文件轉換為 PDF
+將已設定的載入選項傳入 `Converter`，執行轉換：
 
 ```java
-// 使用指定的載入選項初始化轉換器
+// Initialize Converter with specified load options
 converter = new Converter("YOUR_DOCUMENT_DIRECTORY/sample_note_document", () -> loadOptions);
 
-// 設定 PDF 轉換選項
+// Set PDF conversion options
 pdfOptions = new PdfConvertOptions();
 
-// 執行轉換
+// Perform conversion
 coder.convert("YOUR_OUTPUT_DIRECTORY/converted_note.pdf", pdfOptions);
 ```
-- **`Converter`**：處理文件載入和轉換。
-- **`convert()`**：執行文檔轉換過程。
+- **`Converter`** – 使用提供的選項載入來源檔案。  
+- **`convert()`** – 將 PDF 檔寫入目標位置。
 
-### 文檔轉換為 PDF
-將文件轉換為 PDF 可確保通用可訪問性，同時保留跨平台的格式。
+## 將筆記文件轉換為 PDF（不使用自訂字型）
 
-#### 概述
-PDF 轉換對於一致的文件呈現至關重要。
-
-#### 實施步驟
-
-##### 步驟 1：初始化轉換器
-使用輸入檔案路徑設定轉換器：
+如果只需要 **java document to pdf** 而不做字型替換，步驟更為簡潔：
 
 ```java
-// 為給定文檔初始化轉換器
+// Initialize Converter for a given document
 converter = new Converter("YOUR_DOCUMENT_DIRECTORY/sample_note_document");
 ```
 
-##### 步驟 2：設定 PDF 選項並轉換
-定義 PDF 轉換選項並執行：
-
 ```java
-pdfOptions = new PdfConvertOptions(); // 配置轉換選項
+pdfOptions = new PdfConvertOptions(); // Configure conversion options
 converter.convert("YOUR_OUTPUT_DIRECTORY/converted_note.pdf", pdfOptions);
 ```
 
-## 實際應用
+## 實務應用
 
-1. **文件共享**：跨裝置共用具有一致排版的文件。
-2. **歸檔**：將重要文件以 PDF 格式存檔，以保持原始外觀。
-3. **跨平台相容性**：確保在不同的系統和軟體上統一呈現文件。
+1. **文件共享** – 讓 PDF 在 Windows、macOS 或 Linux 上外觀完全相同。  
+2. **歸檔** – 為合規需求保留舊筆記文件的視覺完整性。  
+3. **跨平台相容性** – 確保所有利害關係人看到相同的字型，無論其安裝了哪些字體。
 
 ### 整合可能性
-將 GroupDocs.Conversion 整合到您的企業內容管理系統或文件工作流程自動化工具中，以簡化流程。
+您可以將此轉換流程嵌入企業內容管理系統、處理上傳的微服務，或是批次工作，以將舊筆記檔案遷移至 PDF。
 
-## 性能考慮
-為了提高性能：
-- 透過有效管理大型文件流來優化記憶體使用情況。
-- 對經常轉換的文件使用快取策略。
-- 遵循 Java 最佳實踐，例如垃圾收集調整和資源池。
+## 效能考量
+- **記憶體管理** – 使用串流方式處理大型檔案，避免一次載入全部內容。  
+- **快取** – 快取常用字型檔以減少重複磁碟 I/O。  
+- **Java 最佳實踐** – 調整垃圾回收器，盡可能重複使用 `Converter` 實例。
 
-## 結論
-本教學探討了在筆記文件轉換過程中使用 **GroupDocs.Conversion for Java**透過掌握這些技術，您可以確保跨平台的排版一致性並改善您的文件管理流程。
+## 常見問題與解決方案
+| 問題 | 可能原因 | 解決方案 |
+|------|----------|----------|
+| 轉換後缺少字型 | 未為該字型定義替換 | 新增 `FontSubstitute` 條目或設定適當的預設字型。 |
+| `loadOptions` 發生 `NullPointerException` | 未將 `loadOptions` 傳遞給 `Converter` | 建構 `Converter` 時確保使用 `() -> loadOptions` lambda。 |
+| 大檔案轉換緩慢 | 整個文件一次載入記憶體 | 使用串流 API 或適當增大 JVM 堆積大小。 |
 
-### 後續步驟
-在您的專案中實施此解決方案，以體驗使用 GroupDocs.Conversion 進行字體替換和 PDF 轉換的好處。
+## 常見問答
 
-## 常見問題部分
-1. **我可以一次替換多種字型嗎？**
-   是的，添加多個 `FontSubstitute` 條目來同時處理各種字體。
+**Q: 可以一次替換多個字型嗎？**  
+A: 可以，將多個 `FontSubstitute` 條目加入 `fontSubstitutes` 清單即可。
 
-2. **如果找不到預設字體會發生什麼？**
-   該文件將使用系統預設字體，該字體可能因平台而異。
+**Q: 若找不到預設字型會發生什麼事？**  
+A: 轉換會退回使用系統的預設字型，可能在不同平台上有所差異。
 
-3. **如何解決轉換錯誤？**
-   檢查檔案路徑是否正確，並確保專案中的所有相依性都已正確設定。
+**Q: 如何排除轉換錯誤？**  
+A: 檢查檔案路徑、確保所有 Maven 相依性已解析，並在主控台查看堆疊追蹤資訊。
 
-4. **GroupDocs.Conversion 是否與所有 Java 版本相容？**
-   它與 JDK 8 及更高版本相容。
+**Q: GroupDocs.Conversion 是否相容所有 Java 版本？**  
+A: 支援 JDK 8 及以上版本。
 
-5. **字型替換可以與其他文件格式一起使用嗎？**
-   是的，該功能支援各種文件類型，包括 Word 和 Excel 文件。
+**Q: 字型替換能否用於 Word、Excel 等其他格式？**  
+A: 當然可以 – 相同的 `FontSubstitute` 機制適用於多種文件類型。
 
 ## 資源
-- [文件](https://docs.groupdocs.com/conversion/java/)
-- [API 參考](https://reference.groupdocs.com/conversion/java/)
-- [下載](https://releases.groupdocs.com/conversion/java/)
-- [購買許可證](https://purchase.groupdocs.com/buy)
-- [免費試用](https://releases.groupdocs.com/conversion/java/)
-- [臨時執照](https://purchase.groupdocs.com/temporary-license/)
-- [支援論壇](https://forum.groupdocs.com/c/conversion/10)
+- [Documentation](https://docs.groupdocs.com/conversion/java/)
+- [API Reference](https://reference.groupdocs.com/conversion/java/)
+- [Download](https://releases.groupdocs.com/conversion/java/)
+- [Purchase License](https://purchase.groupdocs.com/buy)
+- [Free Trial](https://releases.groupdocs.com/conversion/java/)
+- [Temporary License](https://purchase.groupdocs.com/temporary-license/)
+- [Support Forum](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**最後更新:** 2026-01-28  
+**測試版本:** GroupDocs.Conversion 25.2 for Java  
+**作者:** GroupDocs

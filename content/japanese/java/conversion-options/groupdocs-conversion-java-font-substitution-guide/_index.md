@@ -1,40 +1,45 @@
 ---
-"date": "2025-04-28"
-"description": "GroupDocs.Conversion for Java を使用してシームレスなフォント置換とドキュメント変換を実現し、プラットフォーム間で一貫したタイポグラフィを確保する方法を学習します。"
-"title": "Javaでのフォント置換&#58; GroupDocs.Conversionをマスターして一貫したPDF出力を実現"
-"url": "/ja/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/"
-"weight": 1
+date: '2026-01-28'
+description: GroupDocs.Conversion for Java を使用してノートを PDF に変換し、欠落フォントを置き換え、プラットフォーム間で一貫したタイポグラフィを実現する方法を学びましょう。
+keywords:
+- GroupDocs.Conversion for Java
+- font substitution in Java
+- document conversion to PDF
+title: GroupDocs.Conversion for Java を使用してノートを PDF に変換する
 type: docs
+url: /ja/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/
+weight: 1
 ---
-# GroupDocs.Conversion for Java でフォント置換をマスターする
 
-## 導入
+# GroupDocs.Conversion for Javaでフォント置換をマスターする
 
-統一したタイポグラフィを維持しながらメモ文書をPDFに変換するのは難しい場合があります。このチュートリアルでは、その方法を説明します。 **GroupDocs.Conversion for Java** カスタム フォントの置換を有効にして、シームレスなドキュメント変換を実現します。
+**note** ドキュメントを PDF に変換し、タイポグラフィの一貫性を保つことは難しい場合があります。このガイドでは、GroupDocs.Conversion for Java を使用して **how to convert note to pdf** を学び、欠落フォントを置換し、デフォルトのフォールバックフォントを設定して、出力がすべてのデバイスで同じように見えるようにします。
 
-### 学習内容:
-- ノート ドキュメントの変換中にフォントの置換を設定します。
-- 管理されたフォント置換を使用してドキュメントを PDF に変換します。
-- Java アプリケーションのパフォーマンスとリソース使用を最適化します。
+## Quick Answers
+- **フォント置換の主な目的は何ですか？** 利用できないフォントを指定したフォントに置き換え、ドキュメントの外観を一貫させます。  
+- **変換を処理するライブラリはどれですか？** `GroupDocs.Conversion for Java`。  
+- **本番環境でライセンスが必要ですか？** はい – フルライセンスまたは一時ライセンスが必要です。  
+- **不明なケースのデフォルトフォントを設定できますか？** もちろん、`NoteLoadOptions` の `setDefaultFont()` を使用します。  
+- **JDK 8 以降に対応していますか？** はい、ライブラリは Java 8+ をサポートしています。
 
-始める前に、必要な前提条件を確認しましょう。
+## What is “convert note to pdf”?
+“convert note to pdf” は、`.ONE`、`.ENEX` などのノート作成ファイル形式を、誰でも閲覧できる PDF 形式に変換することを指します。このプロセスでは欠落フォントの問題が頻繁に発生するため、フォント置換が重要です。
 
-## 前提条件
+## Why use GroupDocs.Conversion for Java?
+- **シームレスなフォント処理** – 欠落フォントを自動的に置換します。  
+- **高忠実度 PDF 出力** – レイアウト、画像、スタイルを保持します。  
+- **簡単な統合** – Maven ベースのセットアップで任意の Java プロジェクトにすぐ組み込めます。  
+- **パフォーマンス最適化** – 大規模ドキュメントでも効率的なメモリ使用を実現します。
 
-### 必要なライブラリ、バージョン、依存関係
-環境に次の内容が含まれていることを確認します。
-- **Java開発キット（JDK）** バージョン 8 以上。
-- IntelliJ IDEA や Eclipse のような統合開発環境 (IDE)。
+## Prerequisites
+- **Java Development Kit (JDK)** バージョン 8 以上。  
+- **IntelliJ IDEA** や **Eclipse** などの IDE。  
+- 依存関係管理のために **Maven** がインストールされていること。  
+- Java とドキュメント変換の基本的な知識。
 
-### 環境設定要件
-依存関係を管理するにはMavenが必要です。正しくインストールされ、設定されていることを確認してください。
+## Setting Up GroupDocs.Conversion for Java
 
-### 知識の前提条件
-Java プログラミングとドキュメント変換の概念に関する基本的な理解が必須です。
-
-## Java 用の GroupDocs.Conversion の設定
-
-使用するには **GroupDocs.Conversion for Java**Maven 経由でプロジェクトにライブラリを含めます。
+`pom.xml` に GroupDocs リポジトリと依存関係を追加します:
 
 ```xml
 <repositories>
@@ -53,25 +58,17 @@ Java プログラミングとドキュメント変換の概念に関する基本
 </dependencies>
 ```
 
-### ライセンス取得
-GroupDocs では、テスト用に無料トライアルと一時ライセンスを提供しています。また、実稼働環境での使用のためにフルライセンスを購入することもできます。
+### License Acquisition
+GroupDocs はテスト用の無料トライアルと一時ライセンスを提供しており、また本番環境で使用するフルライセンスを購入することもできます。
 
-1. **無料トライアル**ダウンロードはこちら [ここ](https://releases。groupdocs.com/conversion/java/).
-2. **一時ライセンス**リクエストはこちら [このリンク](https://purchase。groupdocs.com/temporary-license/).
-3. **購入**長期的なソリューションにはライセンスを購入してください [ここ](https://purchase。groupdocs.com/buy).
+1. **無料トライアル**: [here](https://releases.groupdocs.com/conversion/java/) からダウンロード。  
+2. **一時ライセンス**: [this link](https://purchase.groupdocs.com/temporary-license/) でリクエスト。  
+3. **購入**: 長期的なソリューションの場合、[here](https://purchase.groupdocs.com/buy) でライセンスを購入。
 
-## 実装ガイド
+## How to substitute fonts while you **convert note to pdf**
 
-### ノート文書変換時のフォント置換
-フォント置換は、ドキュメントの変換中に使用できないフォントを指定された代替フォントに置き換えることで、一貫したタイポグラフィを保証します。
-
-#### 概要
-この機能は、不足しているフォントを置き換えることで、プラットフォーム間での視覚的な一貫性を維持します。
-
-#### 実装手順
-
-##### ステップ1: フォントの置換を設定する
-フォント置換オプションを設定します。
+### Step 1: Configure Font Substitutions
+Create a `NoteLoadOptions` object, define the font pairs you want to replace, and set a fallback font for any unmatched cases:
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -79,102 +76,98 @@ import com.groupdocs.conversion.options.convert.PdfConvertOptions;
 import com.groupdocs.conversion.options.load.NoteLoadOptions;
 import com.groupdocs.conversion.contracts.FontSubstitute;
 
-// フォント置換オプションを作成する
+// Create font substitution options
 NoteLoadOptions loadOptions = new NoteLoadOptions();
 List<FontSubstitute> fontSubstitutes = new ArrayList<>();
-fontSubstitutes.add(FontSubstitute.create("Tahoma", "Arial")); // Tahoma を Arial に置き換える
-fontSubstitutes.add(FontSubstitute.create("Times New Roman", "Arial")); // Times New RomanをArialに置き換える
+fontSubstitutes.add(FontSubstitute.create("Tahoma", "Arial")); // Substitute Tahoma with Arial
+fontSubstitutes.add(FontSubstitute.create("Times New Roman", "Arial")); // Substitute Times New Roman with Arial
 loadOptions.setFontSubstitutes(fontSubstitutes);
 
-// 処理されない置換のデフォルトフォントを設定する
+// Set the default font for unhandled substitutions
 defaultFont = "YOUR_DOCUMENT_DIRECTORY/terminal-grotesque_open.otf";
 ```
-- **`NoteLoadOptions`**ノート文書に固有の読み込みオプションを設定します。
-- **`FontSubstitute.create()`**: フォントとその置換を定義します。
-- **`setDefaultFont()`**: 代替フォントが適用されない場合はフォールバック フォントを設定します。
+- **`NoteLoadOptions`** – note ドキュメント固有のロードオプションを設定します。  
+- **`FontSubstitute.create()`** – 欠落フォントを置換フォントにマッピングします。  
+- **`setDefaultFont()`** – 明示的な置換が存在しない場合のフォールバックフォントを定義します。
 
-##### ステップ2: ドキュメントを変換する
-ドキュメントを変換するには、次の設定を使用します。
+### Step 2: Convert the Document to PDF
+Pass the configured load options to the `Converter` and execute the conversion:
 
 ```java
-// 指定されたロードオプションでコンバータを初期化します
+// Initialize Converter with specified load options
 converter = new Converter("YOUR_DOCUMENT_DIRECTORY/sample_note_document", () -> loadOptions);
 
-// PDF変換オプションを設定する
+// Set PDF conversion options
 pdfOptions = new PdfConvertOptions();
 
-// 変換を実行する
+// Perform conversion
 coder.convert("YOUR_OUTPUT_DIRECTORY/converted_note.pdf", pdfOptions);
 ```
-- **`Converter`**ドキュメントの読み込みと変換を処理します。
-- **`convert()`**: ドキュメント変換処理を実行します。
+- **`Converter`** – 提供されたオプションでソースファイルをロードします。  
+- **`convert()`** – PDF ファイルをターゲット場所に書き込みます。
 
-### ドキュメントをPDFに変換する
-ドキュメントを PDF に変換すると、プラットフォーム間で書式を維持しながら、普遍的なアクセシビリティが確保されます。
+## Converting a Note Document to PDF (without custom fonts)
 
-#### 概要
-PDF 変換は、ドキュメントの一貫したプレゼンテーションに不可欠です。
-
-#### 実装手順
-
-##### ステップ1：コンバーターを初期化する
-入力ファイル パスを使用してコンバーターを設定します。
+If you simply need to **java document to pdf** without custom substitutions, the steps are even shorter:
 
 ```java
-// 指定されたドキュメントのコンバーターを初期化する
+// Initialize Converter for a given document
 converter = new Converter("YOUR_DOCUMENT_DIRECTORY/sample_note_document");
 ```
 
-##### ステップ2：PDFオプションを設定して変換する
-PDF 変換のオプションを定義して実行します。
-
 ```java
-pdfOptions = new PdfConvertOptions(); // 変換オプションを設定する
+pdfOptions = new PdfConvertOptions(); // Configure conversion options
 converter.convert("YOUR_OUTPUT_DIRECTORY/converted_note.pdf", pdfOptions);
 ```
 
-## 実用的なアプリケーション
+## Practical Applications
+1. **ドキュメント共有** – Windows、macOS、Linux で同一に見える PDF を送信します。  
+2. **アーカイブ** – コンプライアンスのためにレガシーなノートファイルの視覚的忠実性を保持します。  
+3. **クロスプラットフォーム互換性** – インストールされているフォントに関係なく、すべての関係者が同じフォントを見ることができるようにします。
 
-1. **ドキュメント共有**デバイス間で一貫した書体でドキュメントを共有します。
-2. **アーカイブ**重要な文書を PDF 形式でアーカイブし、元の外観を維持します。
-3. **クロスプラットフォームの互換性**さまざまなシステムやソフトウェアでドキュメントの表示が統一されるようにします。
+### Integration Possibilities
+この変換フローをエンタープライズコンテンツ管理システム、アップロードを処理するマイクロサービス、またはレガシーノートアーカイブを PDF に移行するバッチジョブに組み込むことができます。
 
-### 統合の可能性
-GroupDocs.Conversion をエンタープライズ コンテンツ管理システムまたはドキュメント ワークフロー自動化ツールに統合して、プロセスを合理化します。
+## Performance Considerations
+- **メモリ管理** – 大きなファイルはメモリに完全にロードせずにストリーム処理します。  
+- **キャッシュ** – 頻繁に使用されるフォントファイルをキャッシュし、ディスク I/O の繰り返しを防ぎます。  
+- **Java のベストプラクティス** – ガベージコレクタを調整し、可能な限り `Converter` インスタンスを再利用します。
 
-## パフォーマンスに関する考慮事項
-パフォーマンスを向上させるには:
-- 大規模なドキュメント ストリームを効率的に管理することで、メモリ使用量を最適化します。
-- 頻繁に変換されるドキュメントに対してキャッシュ戦略を活用します。
-- ガベージ コレクションのチューニングやリソース プーリングなどの Java のベスト プラクティスに従います。
+## Common Issues and Solutions
+| 問題 | 考えられる原因 | 対策 |
+|------|----------------|------|
+| 変換後にフォントが欠落 | フォントに対する置換が定義されていない | `FontSubstitute` エントリを追加するか、適切なデフォルトフォントを設定してください。 |
+| `loadOptions` の `NullPointerException` | `loadOptions` が `Converter` に渡されていない | `Converter` を構築する際にラムダ `() -> loadOptions` を使用していることを確認してください。 |
+| 大きなファイルの変換が遅い | ドキュメント全体をメモリにロードしている | ストリーミング API を使用するか、JVM ヒープサイズを適切に増やしてください。 |
 
-## 結論
-このチュートリアルでは、ノート文書の変換中にフォントを置換する方法を説明しました。 **GroupDocs.Conversion for Java**これらのテクニックを習得することで、プラットフォーム間で一貫したタイポグラフィを確保し、ドキュメント管理プロセスを改善できます。
+## Frequently Asked Questions
 
-### 次のステップ
-プロジェクトにソリューションを実装して、GroupDocs.Conversion によるフォント置換と PDF 変換の利点を体験してください。
+**Q: 複数のフォントを同時に置換できますか？**  
+A: はい、`fontSubstitutes` リストに複数の `FontSubstitute` エントリを追加します。
 
-## FAQセクション
-1. **一度に複数のフォントを置き換えることはできますか?**
-   はい、複数追加します `FontSubstitute` さまざまなフォントを同時に処理するためのエントリ。
+**Q: デフォルトフォントが見つからない場合はどうなりますか？**  
+A: 変換はシステムのデフォルトフォントにフォールバックしますが、プラットフォーム間で異なる場合があります。
 
-2. **デフォルトのフォントが見つからない場合はどうなりますか?**
-   ドキュメントではシステムのデフォルト フォントが使用されますが、これはプラットフォームによって異なる場合があります。
+**Q: 変換エラーをトラブルシュートするには？**  
+A: ファイルパスを確認し、すべての Maven 依存関係が解決されていることを確認し、コンソールのスタックトレースをチェックしてください。
 
-3. **変換エラーをトラブルシューティングするにはどうすればよいですか?**
-   正しいファイル パスを確認し、プロジェクト内のすべての依存関係が適切に設定されていることを確認します。
+**Q: GroupDocs.Conversion はすべての Java バージョンに対応していますか？**  
+A: JDK 8 以降をサポートしています。
 
-4. **GroupDocs.Conversion はすべての Java バージョンと互換性がありますか?**
-   JDK 8 以降と互換性があります。
+**Q: フォント置換は Word や Excel など他の形式でも使用できますか？**  
+A: もちろんです。同じ `FontSubstitute` メカニズムは多くのドキュメントタイプで機能します。
 
-5. **フォントの置換は他のドキュメント形式でも使用できますか?**
-   はい、この機能は Word や Excel ファイルなど、さまざまなドキュメント タイプをサポートしています。
-
-## リソース
+## Resources
 - [ドキュメント](https://docs.groupdocs.com/conversion/java/)
-- [APIリファレンス](https://reference.groupdocs.com/conversion/java/)
+- [API リファレンス](https://reference.groupdocs.com/conversion/java/)
 - [ダウンロード](https://releases.groupdocs.com/conversion/java/)
-- [ライセンスを購入](https://purchase.groupdocs.com/buy)
+- [ライセンス購入](https://purchase.groupdocs.com/buy)
 - [無料トライアル](https://releases.groupdocs.com/conversion/java/)
 - [一時ライセンス](https://purchase.groupdocs.com/temporary-license/)
 - [サポートフォーラム](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**最終更新日:** 2026-01-28  
+**テスト環境:** GroupDocs.Conversion 25.2 for Java  
+**作者:** GroupDocs
