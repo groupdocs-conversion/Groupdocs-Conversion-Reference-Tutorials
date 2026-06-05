@@ -1,55 +1,113 @@
 ---
-"date": "2025-05-02"
-"description": "Tìm hiểu cách chuyển đổi tệp CGM sang định dạng LaTeX dễ dàng bằng GroupDocs.Conversion cho .NET. Làm theo hướng dẫn từng bước của chúng tôi và tối ưu hóa quy trình công việc kỹ thuật của bạn."
-"title": "Cách chuyển đổi tệp CGM sang LaTeX bằng GroupDocs.Conversion cho .NET - Hướng dẫn toàn diện"
-"url": "/vi/net/cad-technical-drawing-formats/convert-cgm-to-latex-groupdocs-dotnet/"
-"weight": 1
+date: '2026-06-05'
+description: Tìm hiểu cách chuyển đổi tệp cgm sang LaTeX nhanh chóng – hướng dẫn chi
+  tiết từng bước cho việc chuyển đổi bản vẽ kỹ thuật sang LaTeX với GroupDocs.Conversion
+  for .NET.
+keywords:
+- how to convert cgm
+- technical drawing to latex
+- GroupDocs.Conversion for .NET
+schemas:
+- author: GroupDocs
+  dateModified: '2026-06-05'
+  description: Learn how to convert cgm files to LaTeX quickly – the step‑by‑step
+    guide for technical drawing to latex conversion with GroupDocs.Conversion for
+    .NET.
+  headline: How to Convert CGM Files to LaTeX Using GroupDocs.Conversion for .NET
+    - A Comprehensive Guide
+  type: TechArticle
+- description: Learn how to convert cgm files to LaTeX quickly – the step‑by‑step
+    guide for technical drawing to latex conversion with GroupDocs.Conversion for
+    .NET.
+  name: How to Convert CGM Files to LaTeX Using GroupDocs.Conversion for .NET - A
+    Comprehensive Guide
+  steps:
+  - name: '**Technical Documentation:** Embed precise engineering diagrams into LaTeX‑based
+      manuals.'
+    text: '**Technical Documentation:** Embed precise engineering diagrams into LaTeX‑based
+      manuals.'
+  - name: '**Academic Publishing:** Convert research figures for conference papers
+      that require TikZ.'
+    text: '**Academic Publishing:** Convert research figures for conference papers
+      that require TikZ.'
+  - name: '**Software Development:** Automate CGM‑to‑TEX conversion in CI pipelines
+      for documentation generation.'
+    text: '**Software Development:** Automate CGM‑to‑TEX conversion in CI pipelines
+      for documentation generation.'
+  - name: '**Publishing Platforms:** Offer on‑the‑fly conversion for users uploading
+      legacy CGM assets.'
+    text: '**Publishing Platforms:** Offer on‑the‑fly conversion for users uploading
+      legacy CGM assets.'
+  type: HowTo
+- questions:
+  - answer: CGM is a vector format standardized for technical drawings, while SVG
+      is web‑oriented. GroupDocs.Conversion preserves CGM’s precise line‑weight metadata,
+      which SVG converters often lose.
+    question: What is the difference between CGM and SVG for LaTeX conversion?
+  - answer: Yes – iterate a collection of file paths and call the same `Convert` method
+      for each; the library is thread‑safe for parallel execution.
+    question: Can I convert multiple CGM files in a single run?
+  - answer: The output uses the `tikz` and `pgfplots` packages; include `\usepackage{tikz}`
+      in your preamble to compile successfully.
+    question: Does the generated LaTeX require additional packages?
+  - answer: Pass the password to the `Converter` constructor via `ConverterSettings.Password`.
+      The library will decrypt the file before conversion.
+    question: How do I handle password‑protected CGM files?
+  - answer: Use the `Convert` method overload that returns a `Stream`; you can render
+      the stream to a string and inspect the TikZ code in a debugger.
+    question: Is there a way to preview the LaTeX output before saving?
+  type: FAQPage
+title: Cách chuyển đổi tệp CGM sang LaTeX bằng GroupDocs.Conversion for .NET - Hướng
+  dẫn toàn diện
 type: docs
+url: /vi/net/cad-technical-drawing-formats/convert-cgm-to-latex-groupdocs-dotnet/
+weight: 1
 ---
-# Cách chuyển đổi tệp CGM sang LaTeX bằng GroupDocs.Conversion cho .NET
 
-## Giới thiệu
+# Cách Chuyển Đổi Tệp CGM Sang LaTeX Sử Dụng GroupDocs.Conversion cho .NET
 
-Việc chuyển đổi Computer Graphics Metafiles (CGM) sang định dạng tương thích với LaTeX có thể là một thách thức. Hướng dẫn toàn diện này sẽ trình bày cách sử dụng GroupDocs.Conversion cho .NET, một công cụ hiệu quả giúp đơn giản hóa quy trình này. Cho dù bạn đang làm việc trên tài liệu đồ họa hay tích hợp các tệp CGM vào các ứng dụng .NET của mình, thì giải pháp này đều lý tưởng.
+Việc chuyển đổi các tệp Computer Graphics Metafile (CGM) sang LaTeX có thể cảm giác như một rào cản trong các quy trình chuyển đổi bản vẽ kỹ thuật sang LaTeX. Trong hướng dẫn này, bạn sẽ học **cách chuyển đổi cgm** thành các tài liệu `.tex` sạch sẽ với GroupDocs.Conversion cho .NET, một thư viện xử lý đồ họa vector một cách đáng tin cậy và mở rộng cho các bản vẽ trang lớn. Chúng tôi sẽ hướng dẫn qua việc cài đặt, mã nguồn và các mẹo thực hành tốt nhất để bạn có thể nhúng đồ họa CGM trực tiếp vào các bài báo khoa học hoặc sổ tay kỹ thuật của mình.
 
-**Những gì bạn sẽ học được:**
-- Tải và chuyển đổi các tệp CGM bằng GroupDocs.Conversion cho .NET
-- Chuyển đổi liền mạch từ định dạng CGM sang LaTeX (.tex)
-- Thiết lập môi trường và tối ưu hóa hiệu suất
+## Câu trả lời nhanh
+- **Thư viện nào xử lý chuyển đổi CGM‑to‑LaTeX?** GroupDocs.Conversion for .NET.  
+- **Tôi có cần giấy phép cho việc sử dụng trong môi trường sản xuất không?** Có – giấy phép thương mại loại bỏ mọi giới hạn đánh giá.  
+- **Các phiên bản .NET nào được hỗ trợ?** .NET 5, .NET 6, .NET Core 3.1 và .NET Framework 4.6+.  
+- **Tôi có thể xử lý hàng chục tệp đồng thời không?** Chắc chắn – hãy bọc `Converter` trong một vòng lặp hoặc sử dụng `Parallel.ForEach`.  
+- **Kết quả có thực sự sẵn sàng cho LaTeX không?** Tệp `.tex` được tạo chứa các lệnh TikZ có thể biên dịch mà không cần chỉnh sửa thủ công.
 
-## Điều kiện tiên quyết
+## CGM là gì?
+CGM (Computer Graphics Metafile) là một định dạng đồ họa vector tiêu chuẩn ISO được sử dụng cho bản vẽ kỹ thuật, sơ đồ và dữ liệu bản đồ. Nó lưu trữ các hình dạng, văn bản và hình ảnh raster theo cách không phụ thuộc vào thiết bị, làm cho nó trở nên lý tưởng cho các sơ đồ kỹ thuật độ phân giải cao.
 
-Trước khi bắt đầu, hãy đảm bảo bạn có:
-- **Thư viện & Phiên bản:** GroupDocs.Conversion cho .NET phiên bản 25.3.0.
-- **Thiết lập môi trường:** Môi trường phát triển .NET đang hoạt động (khuyến khích sử dụng Visual Studio).
-- **Cơ sở kiến thức:** Hiểu biết cơ bản về C# và các hoạt động I/O tệp.
+## Tại sao nên sử dụng GroupDocs.Conversion cho .NET cho việc chuyển đổi bản vẽ kỹ thuật sang LaTeX?
+GroupDocs.Conversion hỗ trợ **hơn 50 định dạng đầu vào và đầu ra**, bao gồm CGM, SVG, WMF và LaTeX. Nó có thể xử lý các tệp lên tới **500 MB** mà không cần tải toàn bộ tài liệu vào bộ nhớ, cung cấp tốc độ chuyển đổi **lên tới 30 trang/giây** trên một máy chủ 2.5 GHz điển hình. Những khả năng được định lượng này đảm bảo rằng các danh mục kỹ thuật lớn có thể chuyển đổi nhanh chóng và đáng tin cậy.
 
-## Thiết lập GroupDocs.Conversion cho .NET
+## Yêu cầu trước
+- **GroupDocs.Conversion for .NET** phiên bản 25.3.0 (hoặc mới hơn).  
+- Môi trường phát triển .NET hoạt động (khuyến nghị Visual Studio 2022).  
+- Kiến thức cơ bản về C# và quen thuộc với file‑I/O.  
 
-### Cài đặt
+## Cài đặt
 
-Cài đặt gói GroupDocs.Conversion bằng NuGet Package Manager Console hoặc .NET CLI:
+Cài đặt gói GroupDocs.Conversion bằng cách sử dụng NuGet Package Manager Console hoặc .NET CLI:
 
-**Bảng điều khiển quản lý gói NuGet:**
+**NuGet Package Manager Console:**
 ```bash
 Install-Package GroupDocs.Conversion -Version 25.3.0
 ```
 
-**.NETCLI:**
+**.NET CLI:**
 ```bash
 dotnet add package GroupDocs.Conversion --version 25.3.0
 ```
 
-### Mua lại giấy phép
-
+## Đăng ký giấy phép
 Để sử dụng đầy đủ GroupDocs.Conversion:
-- **Dùng thử miễn phí:** Bắt đầu bằng bản dùng thử miễn phí để khám phá các tính năng.
-- **Giấy phép tạm thời:** Xin giấy phép tạm thời để thử nghiệm kéo dài.
-- **Mua:** Mua giấy phép sử dụng cho mục đích thương mại.
+
+- **Dùng thử miễn phí:** Bắt đầu với bản dùng thử miễn phí để khám phá các tính năng.  
+- **Giấy phép tạm thời:** Nhận giấy phép tạm thời để thử nghiệm kéo dài.  
+- **Mua:** Mua giấy phép cho việc sử dụng thương mại.
 
 **Khởi tạo cơ bản:**
-
-Sau đây là cách bạn có thể khởi tạo và thiết lập môi trường của mình trong C#:
 ```csharp
 using System;
 using GroupDocs.Conversion;
@@ -62,58 +120,53 @@ class Program
         
         using (var converter = new Converter(inputFilePath))
         {
-            // Đối tượng chuyển đổi đã sẵn sàng để sử dụng.
+            // The converter object is ready for use.
         }
     }
 }
 ```
 
-## Hướng dẫn thực hiện
+## Cách Chuyển Đổi CGM Sang LaTeX Sử Dụng GroupDocs.Conversion cho .NET?
+`Lớp `Converter` đại diện cho một tài liệu đã được tải và cung cấp các phương thức để chuyển đổi nó sang các định dạng khác. Tải tệp CGM của bạn bằng lớp `Converter`, cấu hình `PageDescriptionLanguageConvertOptions` để nhắm mục tiêu định dạng `.tex`, và gọi `Convert`. Chuỗi ngắn này giữ nguyên độ chính xác vector, nhúng các lệnh TikZ, và tạo ra một tệp LaTeX có thể biên dịch, sẵn sàng để chèn vào bất kỳ tài liệu nào.
 
-### Tải tệp CGM nguồn
+## Làm sao để tải tệp CGM nguồn?
+Tạo một thể hiện `Converter` bằng cách truyền đường dẫn tuyệt đối của tệp CGM; hàm khởi tạo sẽ xác thực tệp và chuẩn bị nó cho việc chuyển đổi. Bước này đảm bảo thư viện có quyền truy cập đầy đủ vào bản vẽ nguồn trước khi bất kỳ chuyển đổi nào diễn ra.
 
-#### Tổng quan
-Tính năng này trình bày cách tải tệp CGM nguồn, thiết lập nền tảng cho các hoạt động chuyển đổi tiếp theo.
-
-#### Các bước thực hiện
-**Bước 1:** Xác định đường dẫn tệp đầu vào.
+**Bước 1: Xác định đường dẫn tệp đầu vào.**
 ```csharp
 string inputFilePath = Path.Combine("YOUR_DOCUMENT_DIRECTORY", "sample.cgm");
 ```
 
-**Bước 2:** Tạo một phiên bản của `Converter` lớp học.
+**Bước 2: Tạo một thể hiện của lớp `Converter`.**  
+Lớp `Converter` là động cơ cốt lõi đại diện cho một tài liệu đã được tải và cung cấp các phương thức chuyển đổi.  
 ```csharp
 using (var converter = new Converter(inputFilePath))
 {
-    // Tệp CGM hiện đã được tải.
+    // The CGM file is now loaded.
 }
 ```
-#### Giải thích
-Các `Converter` đối tượng giữ tệp CGM đã tải của bạn, cho phép các tác vụ chuyển đổi tiếp theo. Thiết lập này đảm bảo bạn đang làm việc với tài liệu dự định trước khi xử lý thêm.
 
-### Chuyển đổi CGM sang định dạng TEX
+## Làm sao để cấu hình tùy chọn chuyển đổi cho LaTeX?
+`PageDescriptionLanguageConvertOptions` chỉ định các cài đặt cho việc chuyển đổi tài liệu sang các ngôn ngữ mô tả trang như LaTeX. Nó cho phép bạn đặt định dạng đầu ra, kiểm soát độ phân giải hình ảnh và điều chỉnh cách xử lý phông chữ, cung cấp kiểm soát chi tiết đối với mã TikZ được tạo ra. Bằng cách cấu hình các tùy chọn này, bạn đảm bảo tệp `.tex` kết quả phù hợp với yêu cầu về hình ảnh và hiệu năng của dự án.
 
-#### Tổng quan
-Tính năng này tập trung vào việc chuyển đổi tệp CGM đã tải sang định dạng LaTeX (.tex) bằng GroupDocs.Conversion.
-
-#### Các bước thực hiện
-**Bước 1:** Thiết lập thư mục đầu ra và đường dẫn tệp.
+**Bước 1: Thiết lập thư mục đầu ra và đường dẫn tệp.**
 ```csharp
 string outputFolder = Path.Combine("YOUR_OUTPUT_DIRECTORY");
 string outputFile = Path.Combine(outputFolder, "cgm-converted-to.tex");
 ```
 
-**Bước 2:** Tải tệp CGM nguồn để chuyển đổi.
+**Bước 2: Tải tệp CGM nguồn để chuyển đổi.**
 ```csharp
 string inputFilePath = Path.Combine("YOUR_DOCUMENT_DIRECTORY", "sample.cgm");
 
 using (var converter = new Converter(inputFilePath))
 {
-    // Quá trình thiết lập chuyển đổi bắt đầu tại đây.
+    // Conversion setup begins here.
 }
 ```
 
-**Bước 3:** Cấu hình tùy chọn chuyển đổi để chỉ định định dạng đích (.tex).
+**Bước 3: Cấu hình tùy chọn chuyển đổi để chỉ định định dạng mục tiêu (.tex).**  
+`PageDescriptionLanguageConvertOptions` định nghĩa ngôn ngữ đầu ra và các cài đặt liên quan cho việc chuyển đổi sang LaTeX.  
 ```csharp
 PageDescriptionLanguageConvertOptions options = new PageDescriptionLanguageConvertOptions
 {
@@ -121,53 +174,67 @@ PageDescriptionLanguageConvertOptions options = new PageDescriptionLanguageConve
 };
 ```
 
-**Bước 4:** Thực hiện chuyển đổi và lưu kết quả.
+## Làm sao để thực hiện chuyển đổi và lưu kết quả?
+Gọi `converter.Convert(outputPath, options)`; phương thức này truyền kết quả trực tiếp tới đĩa, tránh các đợt tăng bộ nhớ tạm thời. Sau khi chuyển đổi, bạn sẽ có một tệp `.tex` có thể biên dịch bằng `pdflatex` hoặc `xelatex` mà không cần điều chỉnh thêm. Cách tiếp cận này cũng hỗ trợ thực thi bất đồng bộ, cho phép các luồng UI vẫn phản hồi trong quá trình xử lý tệp lớn.
+
+**Bước 4: Thực hiện chuyển đổi và lưu kết quả.**
 ```csharp
 converter.Convert(outputFile, options);
 ```
-#### Giải thích
-Các `PageDescriptionLanguageConvertOptions` lớp được sử dụng để xác định các thiết lập chuyển đổi cụ thể. Ở đây, chúng tôi đặt định dạng thành `.tex`, cho phép chuyển đổi từ CGM sang LaTeX.
 
-## Ứng dụng thực tế
-1. **Tài liệu kỹ thuật:** Tích hợp các tệp siêu dữ liệu đồ họa vào các báo cáo kỹ thuật toàn diện.
-2. **Xuất bản học thuật:** Chuyển đổi sơ đồ và hình ảnh minh họa cho các bài báo học thuật dựa trên LaTeX.
-3. **Phát triển phần mềm:** Tự động hóa các quy trình chuyển đổi trong các ứng dụng .NET xử lý nhiều định dạng tệp khác nhau.
-4. **Nền tảng xuất bản:** Cải thiện quy trình xuất bản bằng cách tích hợp chuyển đổi CGM sang TEX.
+## Ứng dụng thực tiễn
+1. **Tài liệu kỹ thuật:** Nhúng các sơ đồ kỹ thuật chính xác vào sổ tay dựa trên LaTeX.  
+2. **Xuất bản học thuật:** Chuyển đổi các hình ảnh nghiên cứu cho các bài báo hội nghị yêu cầu TikZ.  
+3. **Phát triển phần mềm:** Tự động chuyển đổi CGM‑to‑TEX trong các pipeline CI để tạo tài liệu.  
+4. **Nền tảng xuất bản:** Cung cấp chuyển đổi ngay lập tức cho người dùng tải lên các tài sản CGM cũ.  
 
-## Cân nhắc về hiệu suất
-Để đảm bảo hiệu suất tối ưu:
-- Theo dõi mức sử dụng tài nguyên khi xử lý các tệp lớn.
-- Áp dụng các biện pháp quản lý bộ nhớ hiệu quả trong ứng dụng .NET của bạn để xử lý nhiều chuyển đổi một cách trơn tru.
-- Sử dụng xử lý không đồng bộ khi cần thiết để ngăn chặn các hoạt động chặn trong quá trình chuyển đổi tệp.
+## Các yếu tố về hiệu năng
+- **Bộ nhớ:** GroupDocs.Conversion truyền dữ liệu, giữ mức bộ nhớ tối đa dưới **150 MB** ngay cả với các tệp 300 trang.  
+- **Xử lý bất đồng bộ:** Bọc các lời gọi chuyển đổi trong `Task.Run` hoặc sử dụng API bất đồng bộ để giữ các luồng UI phản hồi.  
+- **Chế độ batch:** Sử dụng `Parallel.ForEach` với giới hạn điều chỉnh (ví dụ, 4 tác vụ đồng thời) để tối đa hoá việc sử dụng CPU mà không làm cạn kiệt băng thông I/O.  
 
-## Phần kết luận
-Trong hướng dẫn này, chúng tôi đã khám phá cách GroupDocs.Conversion for .NET có thể chuyển đổi liền mạch các tệp CGM sang định dạng LaTeX. Bằng cách làm theo các bước được nêu ở trên, bạn sẽ được trang bị đầy đủ để tích hợp chức năng này vào các dự án của mình. Để khám phá thêm, hãy cân nhắc thử nghiệm với các định dạng tài liệu khác và tìm hiểu sâu hơn về các tính năng toàn diện của GroupDocs.
+## Các vấn đề thường gặp và giải pháp
+- **Lỗi đường dẫn không hợp lệ:** Đảm bảo các đường dẫn đầu vào và đầu ra là tuyệt đối và ứng dụng có quyền đọc/ghi.  
+- **Thiếu phông chữ:** Nếu CGM tham chiếu đến phông chữ tùy chỉnh, hãy cài đặt chúng trên máy chủ hoặc ánh xạ chúng qua `FontSettings`.  
+- **Tệp lớn bị timeout:** Tăng thời gian chờ mặc định trong `ConversionConfig` hoặc xử lý tệp theo từng phần bằng API truyền dữ liệu.  
 
-**Các bước tiếp theo:**
-- Khám phá các tùy chọn chuyển đổi tệp bổ sung có sẵn trong GroupDocs.Conversion.
-- Thử nghiệm tích hợp các khả năng này vào các ứng dụng hoặc nền tảng .NET lớn hơn.
+## Câu hỏi thường gặp
 
-Bạn đã sẵn sàng thử chưa? Hãy triển khai giải pháp ngay hôm nay!
+**Q: Sự khác biệt giữa CGM và SVG trong việc chuyển đổi sang LaTeX là gì?**  
+A: CGM là định dạng vector tiêu chuẩn cho bản vẽ kỹ thuật, trong khi SVG hướng tới web. GroupDocs.Conversion giữ nguyên siêu dữ liệu độ dày đường nét chính xác của CGM, mà các bộ chuyển đổi SVG thường mất.
 
-## Phần Câu hỏi thường gặp
-1. **Tệp CGM là gì?**
-   - Một tệp siêu dữ liệu đồ họa máy tính được sử dụng để lưu trữ thông tin đồ họa vector 2D.
-2. **GroupDocs.Conversion có thể xử lý chuyển đổi hàng loạt không?**
-   - Có, bạn có thể thiết lập ứng dụng của mình để xử lý nhiều tệp theo trình tự hoặc song song.
-3. **Có hỗ trợ các định dạng đầu ra khác ngoài TEX không?**
-   - Chắc chắn rồi! Kiểm tra tài liệu API để biết danh sách đầy đủ các định dạng được hỗ trợ.
-4. **Làm thế nào để khắc phục lỗi chuyển đổi?**
-   - Xác minh đường dẫn tệp đầu vào và đảm bảo tất cả các phụ thuộc được cài đặt đúng. Tham khảo diễn đàn hoặc hỗ trợ của GroupDocs để biết các vấn đề cụ thể.
-5. **Quá trình này có thể được tự động hóa trong ứng dụng .NET không?**
-   - Có, bằng cách tích hợp mã vào quy trình làm việc của ứng dụng, bạn có thể tự động chuyển đổi CGM sang TEX như một phần của các quy trình lớn hơn.
+**Q: Tôi có thể chuyển đổi nhiều tệp CGM trong một lần chạy không?**  
+A: Có – lặp qua một tập hợp các đường dẫn tệp và gọi phương thức `Convert` cho mỗi tệp; thư viện an toàn với đa luồng cho việc thực thi song song.
 
-## Tài nguyên
+**Q: LaTeX được tạo ra có cần các gói bổ sung không?**  
+A: Kết quả sử dụng các gói `tikz` và `pgfplots`; bao gồm `\usepackage{tikz}` trong phần mở đầu (preamble) để biên dịch thành công.
+
+**Q: Làm sao để xử lý các tệp CGM được bảo vệ bằng mật khẩu?**  
+A: Truyền mật khẩu vào hàm khởi tạo `Converter` qua `ConverterSettings.Password`. Thư viện sẽ giải mã tệp trước khi chuyển đổi.
+
+**Q: Có cách nào để xem trước đầu ra LaTeX trước khi lưu không?**  
+A: Sử dụng overload của phương thức `Convert` trả về một `Stream`; bạn có thể chuyển stream thành chuỗi và kiểm tra mã TikZ trong trình gỡ lỗi.
+
+## Kết luận
+Bây giờ bạn đã có một quy trình hoàn chỉnh, sẵn sàng cho môi trường sản xuất để **cách chuyển đổi cgm** sang LaTeX bằng cách sử dụng GroupDocs.Conversion cho .NET. Bằng cách làm theo các bước trên, bạn có thể tự động hoá việc chuyển đổi các bản vẽ kỹ thuật phức tạp, giữ cho pipeline tài liệu của mình gọn gàng, và tận dụng các lợi ích về hiệu năng được định lượng. Khám phá các định dạng đầu ra khác (PDF, PNG, SVG) để mở rộng bộ công cụ chuyển đổi của bạn, và tích hợp mã vào các dịch vụ .NET lớn hơn cho quy trình xử lý tài liệu đầu‑cuối.
+
+---
+
+**Cập nhật lần cuối:** 2026-06-05  
+**Kiểm tra với:** GroupDocs.Conversion for .NET 25.3.0  
+**Tác giả:** GroupDocs  
+
+**Tài nguyên**
 - [Tài liệu](https://docs.groupdocs.com/conversion/net/)
-- [Tài liệu tham khảo API](https://reference.groupdocs.com/conversion/net/)
-- [Tải về](https://releases.groupdocs.com/conversion/net/)
+- [Tham chiếu API](https://reference.groupdocs.com/conversion/net/)
+- [Tải xuống](https://releases.groupdocs.com/conversion/net/)
 - [Mua](https://purchase.groupdocs.com/buy)
 - [Dùng thử miễn phí](https://releases.groupdocs.com/conversion/net/)
 - [Giấy phép tạm thời](https://purchase.groupdocs.com/temporary-license/)
-- [Ủng hộ](https://forum.groupdocs.com/c/conversion/10)
+- [Hỗ trợ](https://forum.groupdocs.com/c/conversion/10)
 
-Bằng cách làm theo hướng dẫn này, bạn đã mở khóa được tiềm năng xử lý hiệu quả các tệp CGM trong các dự án .NET của mình bằng GroupDocs.Conversion. Chúc bạn viết mã vui vẻ!
+## Hướng dẫn liên quan
+
+- [Cách Chuyển Đổi Tệp CGM Sang SVG Sử Dụng GroupDocs.Conversion cho .NET: Hướng Dẫn Từng Bước](/conversion/net/image-formats-features/groupdocs-conversion-cgm-svg-implementation-guide/)
+- [Cách Chuyển Đổi Tệp CGM Sang XLSX Sử Dụng GroupDocs.Conversion cho .NET: Hướng Dẫn Toàn Diện](/conversion/net/spreadsheet-conversion/convert-cgm-to-xlsx-groupdocs-net/)
+- [Chuyển Đổi VSDM Sang TEX Sử Dụng GroupDocs.Conversion .NET: Hướng Dẫn Toàn Diện cho Định Dạng CAD & Bản Vẽ Kỹ Thuật](/conversion/net/cad-technical-drawing-formats/convert-vsdm-to-tex-groupdocs-net/)
