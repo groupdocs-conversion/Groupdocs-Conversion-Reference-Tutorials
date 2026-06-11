@@ -1,96 +1,115 @@
 ---
-"description": "使用 GroupDocs.Conversion for Java 來轉換 PDF 文件、配置 PDF 選項以及處理 PDF 特定功能的逐步教學。"
-"title": "GroupDocs.Conversion Java 的 PDF 轉換教學"
-"url": "/zh-hant/java/pdf-conversion/"
-"weight": 4
+date: 2026-02-05
+description: 學習如何使用 GroupDocs.Conversion for Java 將 txt 轉換為 pdf 及其他格式。包括 docx 轉 pdf（Java）、pdf
+  轉 Word、URL 轉 pdf、zip 轉 pdf，以及提取 pdf 元資料。
+title: 使用 GroupDocs.Conversion Java 將 TXT 轉換為 PDF
 type: docs
+url: /zh-hant/java/pdf-conversion/
+weight: 4
 ---
-# GroupDocs.Conversion Java 的 PDF 轉換教學
 
-我們的 PDF 轉換教學提供了在 Java 應用程式中處理 PDF 文件的詳細指導。遵循這些實用指南，您將學習如何將各種文件格式轉換為 PDF、將 PDF 轉換為其他格式、配置 PDF 特定選項、處理受密碼保護的 PDF 以及如何管理表單和註釋等 PDF 功能。這些教學包含常見 PDF 轉換場景的完整 Java 程式碼範例，可協助您建立能夠高效處理 PDF 文件的應用程式。
+# Convert TXT to PDF with GroupDocs.Conversion Java
 
-## 可用教程
+如果您需要在 Java 應用程式中 **快速且可靠地 convert txt to pdf**，您來對地方了。本中心彙集了所有使用 GroupDocs.Conversion for Java 處理 PDF 轉換的實用指南——從簡單的文字轉 PDF 到複雜工作流程，如 **docx to pdf java**、**pdf to word conversion**、**url to pdf conversion**、**zip to pdf conversion** 以及 **extract pdf metadata**。每篇教學都提供可直接執行的 Java 程式碼，您只要複製、貼上，即可在數分鐘內運行範例。
 
-### [使用 GroupDocs.Conversion Java 進行高階文字到 PDF 轉換：保留格式](./groupdocs-conversion-java-text-to-pdf-advanced-formatting/)
-學習如何使用 GroupDocs.Conversion for Java 將 TXT 檔案轉換為 PDF，同時保留複雜的格式。掌握前導空格和編號檢測等進階功能。
+## Why Convert TXT to PDF with GroupDocs.Conversion?
 
-### [使用 GroupDocs.Conversion 在 Java 中自動將電子表格轉換為 PDF](./automate-spreadsheet-conversion-java-groupdocs/)
-學習如何使用 GroupDocs.Conversion 在 Java 中自動將電子表格轉換為 PDF。本指南介紹如何載入特定範圍並有效率地產生每頁一頁的 PDF。
+- **Preserve layout** – 文字檔常包含間距、表格或程式碼片段，需要在產生的 PDF 中精確呈現。  
+- **Universal compatibility** – PDF 可在任何裝置上檢視，十分適合分享、歸檔或列印。  
+- **Full control** – GroupDocs.Conversion 讓您可直接在 Java 中設定頁面尺寸、邊距、字型與安全選項。  
 
-### [使用 GroupDocs 和 Shift_JIS 編碼在 Java 中將 CSV 轉換為 PDF](./convert-csv-to-pdf-groupdocs-java-shift-jis/)
-了解如何使用 GroupDocs.Conversion for Java 將 CSV 檔案轉換為 PDF，並透過 Shift_JIS 編碼確保資料完整性。
+以下為精選的逐步教學列表，涵蓋最常見的 PDF 轉換情境。
 
-### [使用 Java 將 CSV 轉換為 PDF：使用 GroupDocs.Conversion for Java 的逐步指南](./convert-csv-to-pdf-java-groupdocs-conversion-guide/)
-學習如何使用 GroupDocs.Conversion for Java 有效率地將 CSV 檔案轉換為 PDF。本指南涵蓋設定、轉換選項和實際應用。
+## Available Tutorials
 
-### [使用 GroupDocs.Conversion 在 Java 中將 DOCX 轉換為 PDF：逐步指南](./convert-docx-pdf-java-groupdocs-conversion/)
-了解如何使用 GroupDocs.Conversion for Java 將 Word 文件無縫轉換為 PDF。遵循這份全面的指南，輕鬆完成設定和實施。
+### [Advanced Text-to-PDF Conversion with GroupDocs.Conversion Java&#58; Preserve Formatting](./groupdocs-conversion-java-text-to-pdf-advanced-formatting/)
+了解如何使用 GroupDocs.Conversion for Java 將 TXT 檔案轉換為 PDF，同時保留複雜的格式設定，掌握前置空格與編號偵測等進階功能。
 
-### [使用 GroupDocs.Conversion for Java 將文件轉換為 PDF：逐步指南](./convert-documents-pdf-groupdocs-java/)
-學習如何使用 Java 中的 GroupDocs.Conversion 將 Word、Excel 和其他檔案有效率地轉換為 PDF。請遵循這份全面的逐步指南。
+### [Automate Spreadsheet to PDF Conversion in Java Using GroupDocs.Conversion](./automate-spreadsheet-conversion-java-groupdocs/)
+學習在 Java 中使用 GroupDocs.Conversion 自動化試算表轉 PDF 的流程，涵蓋載入特定範圍與高效產生每張工作表一頁 PDF 的技巧。
 
-### [使用 GroupDocs.Conversion 在 Java 中將電子郵件轉換為 PDF：進階選項指南](./convert-emails-to-pdfs-groupdocs-java/)
-了解如何使用 GroupDocs.Conversion for Java 將電子郵件轉換為 PDF 並新增進階選項。控制電子郵件欄位的可見性並最佳化文件管理。
+### [Convert CSV to PDF in Java Using GroupDocs with Shift_JIS Encoding](./convert-csv-to-pdf-groupdocs-java-shift-jis/)
+了解如何使用 GroupDocs.Conversion for Java 將 CSV 檔案轉為 PDF，並以 Shift_JIS 編碼確保資料完整性。
 
-### [使用 GroupDocs.Conversion 在 Java 中將 Excel 轉換為 PDF 並進行字體替換](./excel-to-pdf-conversion-font-substitution-java/)
-了解如何將 Excel 檔案轉換為 PDF，同時使用 GroupDocs.Conversion for Java 取代字體，確保整個文件的排版一致。
+### [Convert CSV to PDF in Java&#58; Step-by-Step Guide Using GroupDocs.Conversion for Java](./convert-csv-to-pdf-java-groupdocs-conversion-guide/)
+學習使用 GroupDocs.Conversion for Java 高效將 CSV 轉為 PDF，內容包括環境設定、轉換選項與實務應用。
 
-### [使用 GroupDocs.Conversion for Java 將 Excel 轉換為 PDF：綜合教學課程](./excel-to-pdf-groupdocs-java-tutorial/)
-學習如何使用 GroupDocs.Conversion 在 Java 中有效地將 Excel 文件轉換為 PDF 格式，並附帶高級選項。本逐步指南將確保資料完整性和格式正確。
+### [Convert DOCX to PDF in Java Using GroupDocs.Conversion&#58; A Step-by-Step Guide](./convert-docx-pdf-java-groupdocs-conversion/)
+了解如何使用 GroupDocs.Conversion for Java 無縫將 Word 文件轉為 PDF，提供完整的設定與實作步驟。
 
-### [使用 GroupDocs.Conversion for Java 將 PDF 轉換為 PSD：綜合指南](./groupdocs-conversion-pdf-to-psd-java/)
-了解如何使用 GroupDocs.Conversion for Java 將 PDF 文件高效轉換為高品質的 PSD 影像。本指南涵蓋設定、配置和執行。
+### [Convert Documents to PDF Using GroupDocs.Conversion for Java&#58; Step-by-Step Guide](./convert-documents-pdf-groupdocs-java/)
+學習在 Java 中使用 GroupDocs.Conversion 高效將 Word、Excel 等檔案轉為 PDF，完整的逐步教學幫助您快速上手。
 
-### [使用 GroupDocs for Java 將 PDF 轉換為 Word：綜合指南](./guide-pdf-word-conversion-groupdocs-java/)
-了解如何使用 GroupDocs.Conversion for Java 將 PDF 文件轉換為可編輯的 Word 文檔，並提供逐步說明和最佳實踐。
+### [Convert Emails to PDFs in Java Using GroupDocs.Conversion&#58; Advanced Options Guide](./convert-emails-to-pdfs-groupdocs-java/)
+了解如何使用 GroupDocs.Conversion for Java 將電子郵件轉為 PDF，並透過進階選項控制欄位可見性與文件管理效能。
 
-### [使用 GroupDocs 在 Java 中將 PDF 轉換為 Word：綜合指南](./java-pdf-to-word-groupdocs-conversion/)
-了解如何使用 GroupDocs.Conversion for Java 將 PDF 無縫轉換為 Word 文件。請按照本逐步指南，簡化您的文件工作流程。
+### [Convert Excel to PDF with Font Substitution Using GroupDocs.Conversion for Java](./excel-to-pdf-conversion-font-substitution-java/)
+學習在 Java 中使用 GroupDocs.Conversion 轉換 Excel 為 PDF 時進行字型替換，確保文件排版一致。
 
-### [使用 Java 將 PDF 轉換為 Word 並移除嵌入檔案：使用 GroupDocs.Conversion 的逐步指南](./convert-pdf-to-word-java-embedded-file-removal/)
-了解如何使用 GroupDocs.Conversion for Java 將 PDF 轉換為可編輯的 Word 文檔，同時移除嵌入文件。本指南涵蓋設定、程式碼範例和實際應用。
+### [Convert Excel to PDF using GroupDocs.Conversion for Java&#58; A Comprehensive Tutorial](./excel-to-pdf-groupdocs-java-tutorial/)
+了解如何使用 GroupDocs.Conversion for Java 高效將 Excel 轉為 PDF，提供完整步驟確保資料完整與格式正確。
 
-### [使用 GroupDocs.Conversion Java API 將特定頁面範圍轉換為 PDF](./groupdocs-conversion-java-page-range-pdf/)
-了解如何使用 GroupDocs.Conversion Java 程式庫將特定頁面範圍轉換為 PDF 檔案。非常適合選擇性文件轉換和高效的內容管理。
+### [Convert PDF to PSD using GroupDocs.Conversion for Java&#58; A Comprehensive Guide](./groupdocs-conversion-pdf-to-psd-java/)
+學習使用 GroupDocs.Conversion for Java 將 PDF 轉換為高品質 PSD 圖像，涵蓋設定、配置與執行流程。
 
-### [使用 GroupDocs.Conversion for Java 將 URL 文件轉換為 PDF：綜合指南](./groupdocs-java-download-url-to-pdf-conversion/)
-了解如何使用 GroupDocs.Conversion for Java 下載文件並將其從 URL 無縫轉換為 PDF。本逐步指南將協助您簡化文件管理。
+### [Convert PDF to Word Using GroupDocs for Java&#58; A Comprehensive Guide](./guide-pdf-word-conversion-groupdocs-java/)
+了解如何使用 GroupDocs.Conversion for Java 將 PDF 轉為可編輯的 Word 文件，提供逐步說明與最佳實踐。
 
-### [使用 Java 中的自訂字體將 Word 轉換為 PDF：使用 GroupDocs.Conversion 的完整指南](./convert-word-pdf-custom-fonts-java-groupdocs-conversion/)
-了解如何使用 GroupDocs.Conversion for Java 將 Word 文件轉換為 PDF，同時保留自訂字體。請依照本逐步指南操作，確保跨平台字體排版一致。
+### [Convert PDF to Word in Java Using GroupDocs&#58; A Comprehensive Guide](./java-pdf-to-word-groupdocs-conversion/)
+學習在 Java 中使用 GroupDocs.Conversion 無縫將 PDF 轉為 Word，完整步驟協助您優化文件工作流程。
 
-### [使用 GroupDocs.Conversion 在 Java 中將 ZIP 檔案轉換為 PDF：綜合指南](./groupdocs-conversion-zip-to-pdf-java/)
-了解如何使用 GroupDocs.Conversion for Java 將 ZIP 檔案轉換為單獨的 PDF 文件。本指南涵蓋設定、程式碼範例和實際應用。
+### [Convert PDF to Word in Java with Embedded File Removal&#58; A Step-by-Step Guide Using GroupDocs.Conversion](./convert-pdf-to-word-java-embedded-file-removal/)
+了解如何在將 PDF 轉為可編輯的 Word 時，同時移除嵌入檔案，提供設定、程式碼範例與實務應用說明。
 
-### [使用 GroupDocs.Conversion Java 有效地將 Excel 轉換為 PDF](./excel-to-pdf-groupdocs-conversion-java/)
-了解如何使用 GroupDocs.Conversion Java 將 Excel 檔案轉換為簡潔專業的 PDF。跳過空白行和空列，獲得簡潔的文檔。
+### [Convert Specific Page Range to PDF Using GroupDocs.Conversion Java API](./groupdocs-conversion-java-page-range-pdf/)
+學習使用 GroupDocs.Conversion Java API 將指定頁碼範圍轉為 PDF，適用於挑選性文件轉換與高效內容管理。
 
-### [Java 中高效率的 PDF 轉換：使用 GroupDocs.Conversion 函式庫](./convert-local-documents-pdf-groupdocs-java/)
-了解如何使用 GroupDocs.Conversion Java 程式庫將本機文件無縫轉換為專業品質的 PDF。本逐步指南涵蓋設定、轉換流程和最佳實務。
+### [Convert URL Documents to PDF using GroupDocs.Conversion for Java&#58; A Comprehensive Guide](./groupdocs-java-download-url-to-pdf-conversion/)
+了解如何使用 GroupDocs.Conversion for Java 下載並將 URL 上的文件直接轉為 PDF，完整步驟協助您簡化文件管理。
 
-### [使用 GroupDocs.Conversion for Java 有效地將 FTP 文件轉換為 PDF：開發人員指南](./convert-ftp-documents-pdf-groupdocs-conversion-java/)
-掌握如何使用 GroupDocs.Conversion for Java 將 FTP 伺服器上的文件轉換為 PDF 的方法。學習設定、取得和轉換步驟，以實現最佳的文件工作流程。
+### [Convert Word to PDF with Custom Fonts in Java&#58; A Complete Guide Using GroupDocs.Conversion](./convert-word-pdf-custom-fonts-java-groupdocs-conversion/)
+學習在 Java 中使用 GroupDocs.Conversion 轉換 Word 為 PDF 時保留自訂字型，確保跨平台排版一致。
 
-### [使用 GroupDocs.Conversion for Java 在 Word 到 PDF 轉換中隱藏註釋](./hide-comments-word-pdf-conversion-groupdocs-java/)
-了解如何使用 GroupDocs.Conversion for Java 將 Word 文件轉換為 PDF 時無縫隱藏註解。完美保護隱私，提升專業。
+### [Convert ZIP to PDF in Java Using GroupDocs.Conversion&#58; A Comprehensive Guide](./groupdocs-conversion-zip-to-pdf-java/)
+了解如何使用 GroupDocs.Conversion for Java 將 ZIP 壓縮檔內的每個檔案轉為獨立的 PDF，提供設定、程式碼範例與實務應用。
 
-### [如何使用 Java 和 GroupDocs.Conversion 將帶有隱藏工作表的 Excel 文件轉換為 PDF](./convert-excel-hidden-sheets-pdf-java/)
-了解如何使用 Java 和 GroupDocs.Conversion 將 Excel 電子表格（包括隱藏工作表）轉換為 PDF 檔案。請按照本逐步指南操作，即可實現無縫文件轉換。
+### [Efficient Excel to PDF Conversion Using GroupDocs.Conversion Java](./excel-to-pdf-groupdocs-conversion-java/)
+學習使用 GroupDocs.Conversion Java 高效將 Excel 轉為整潔、專業的 PDF，並可跳過空白列與欄位以產出精簡文件。
 
-### [如何使用 GroupDocs.Conversion for Java 將文件的特定頁面轉換為 PDF](./convert-specific-pages-pdf-groupdocs-java/)
-了解如何使用 GroupDocs.Conversion for Java 有效地將文件的特定頁面轉換為 PDF。請依照本逐步指南，簡化您的文件管理流程。
+### [Efficient PDF Conversion in Java&#58; Using GroupDocs.Conversion Library](./convert-local-documents-pdf-groupdocs-java/)
+了解如何使用 GroupDocs.Conversion Library for Java 無縫將本機文件轉為高品質 PDF，完整步驟涵蓋環境設定、轉換流程與最佳實踐。
 
-### [如何在 Java 中使用 GroupDocs.Conversion 提取 PDF 元數據](./extract-pdf-metadata-groupdocs-java/)
-學習如何使用 GroupDocs.Conversion for Java 從 PDF 中高效提取元數據，例如作者詳情、頁數和加密狀態。非常適合文件管理系統。
+### [Efficiently Convert FTP Documents to PDF using GroupDocs.Conversion for Java&#58; A Developer's Guide](./convert-ftp-documents-pdf-groupdocs-conversion-java/)
+掌握使用 GroupDocs.Conversion for Java 從 FTP 伺服器下載文件並轉為 PDF 的全套流程，提升文件工作效率。
 
-### [Java 指南：使用 GroupDocs.Conversion 將文件從 Azure Blob 轉換為 PDF](./convert-documents-azure-blob-pdf-java/)
-了解如何使用 Java 和 GroupDocs.Conversion 從 Azure Blob 儲存體下載文件並將其轉換為 PDF 格式。遵循本逐步指南，實現文件處理的自動化。
+### [Hide Comments in Word-to-PDF Conversion Using GroupDocs.Conversion for Java](./hide-comments-word-pdf-conversion-groupdocs-java/)
+了解如何在將 Word 轉為 PDF 時隱藏評論，使用 GroupDocs.Conversion for Java 確保文件的隱私與專業度。
 
-## 其他資源
+### [How to Convert Excel Files with Hidden Sheets into PDFs Using Java and GroupDocs.Conversion](./convert-excel-hidden-sheets-pdf-java/)
+學習使用 Java 與 GroupDocs.Conversion 將包含隱藏工作表的 Excel 檔案轉為 PDF，提供完整步驟確保文件完整轉換。
 
-- [GroupDocs.Conversion 用於 Java 文檔](https://docs.groupdocs.com/conversion/java/)
-- [GroupDocs.Conversion for Java API 參考](https://reference.groupdocs.com/conversion/java/)
-- [下載 GroupDocs.Conversion Java 版](https://releases.groupdocs.com/conversion/java/)
-- [GroupDocs.Conversion 論壇](https://forum.groupdocs.com/c/conversion)
-- [免費支援](https://forum.groupdocs.com/)
-- [臨時執照](https://purchase.groupdocs.com/temporary-license/)
+### [How to Convert Specific Pages of a Document to PDF Using GroupDocs.Conversion for Java](./convert-specific-pages-pdf-groupdocs-java/)
+了解如何使用 GroupDocs.Conversion for Java 高效將文件的特定頁面轉為 PDF，完整教學協助您優化文件管理流程。
+
+### [How to Extract PDF Metadata Using GroupDocs.Conversion in Java](./extract-pdf-metadata-groupdocs-java/)
+學習使用 GroupDocs.Conversion for Java 從 PDF 中提取作者、頁數、加密狀態等中繼資料，適用於文件管理系統。
+
+### [Java Guide&#58; Convert Documents from Azure Blob to PDF using GroupDocs.Conversion](./convert-documents-azure-blob-pdf-java/)
+了解如何使用 Java 與 GroupDocs.Conversion 從 Azure Blob Storage 下載文件並轉為 PDF，提供自動化文件處理的完整步驟。
+
+## Additional Resources
+
+- [GroupDocs.Conversion for Java Documentation](https://docs.groupdocs.com/conversion/java/)
+- [GroupDocs.Conversion for Java API Reference](https://reference.groupdocs.com/conversion/java/)
+- [Download GroupDocs.Conversion for Java](https://releases.groupdocs.com/conversion/java/)
+- [GroupDocs.Conversion Forum](https://forum.groupdocs.com/c/conversion)
+- [Free Support](https://forum.groupdocs.com/)
+- [Temporary License](https://purchase.groupdocs.com/temporary-license/)
+
+---
+
+**Last Updated:** 2026-02-05  
+**Tested With:** GroupDocs.Conversion for Java 23.9 (latest)  
+**Author:** GroupDocs  
+
+---
