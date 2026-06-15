@@ -1,44 +1,43 @@
 ---
-"date": "2025-04-28"
-"description": "GroupDocs.Conversion for Java를 사용하여 PDF에서 작성자 정보, 페이지 수, 암호화 상태 등의 메타데이터를 효율적으로 추출하는 방법을 알아보세요. 문서 관리 시스템에 적합합니다."
-"title": "Java에서 GroupDocs.Conversion을 사용하여 PDF 메타데이터를 추출하는 방법"
-"url": "/ko/java/pdf-conversion/extract-pdf-metadata-groupdocs-java/"
-"weight": 1
+date: '2026-04-14'
+description: GroupDocs.Conversion을 사용하여 Java에서 PDF 페이지 수를 확인하고 PDF 메타데이터를 추출하는 방법을
+  배워보세요. 문서 관리에 필요한 작성자, 생성 날짜 및 암호화 상태를 빠르게 가져올 수 있습니다.
+keywords:
+- get pdf page count
+- java read pdf metadata
+- extract pdf metadata java
+title: GroupDocs.Conversion Java를 사용하여 PDF 페이지 수 가져오기 및 PDF 메타데이터 추출
 type: docs
+url: /ko/java/pdf-conversion/extract-pdf-metadata-groupdocs-java/
+weight: 1
 ---
-# Java에서 GroupDocs.Conversion을 사용하여 PDF 메타데이터를 추출하는 방법
 
-## 소개
+# PDF 페이지 수 가져오기 및 GroupDocs.Conversion Java로 PDF 메타데이터 추출
 
-Java를 사용하여 PDF 문서에서 작성자 정보, 페이지 수, 암호화 상태와 같은 기본 정보를 효율적으로 추출하고 싶으신가요? 디지털 문서 관리에 대한 요구가 점점 커짐에 따라 메타데이터를 빠르게 검색하는 기능은 매우 중요합니다. 이 튜토리얼에서는 GroupDocs.Conversion for Java를 사용하여 필수 PDF 속성을 검색하는 방법을 안내합니다.
+PDF의 저자, 생성 날짜와 특히 **page count**와 같은 **metadata**를 추출하는 것은 문서 중심 애플리케이션에서 일반적인 요구 사항입니다. 이 튜토리얼에서는 GroupDocs.Conversion for Java를 사용하여 **PDF 페이지 수 가져오기**와 기타 유용한 세부 정보를 추출하는 방법을 배웁니다. 설정, 코드 및 실제 시나리오를 단계별로 안내하므로 바로 이 기능을 활용할 수 있습니다.
 
-**배울 내용:**
-- GroupDocs.Conversion을 사용하여 개발 환경을 설정하는 방법.
-- PDF 파일에서 기본 문서 정보를 추출하는 방법에 대한 단계별 지침입니다.
-- 실제 상황에서 이 기능을 실용적으로 적용하는 방법.
+## 빠른 답변
+- **“get PDF page count”가 무엇을 의미하나요?** PDF 파일의 총 페이지 수를 반환합니다.  
+- **Java에서 이를 지원하는 라이브러리는 무엇인가요?** GroupDocs.Conversion for Java는 간단한 API를 제공합니다.  
+- **라이선스가 필요합니까?** 무료 체험을 이용할 수 있으며, 프로덕션에서는 상용 라이선스가 필요합니다.  
+- **다른 메타데이터도 읽을 수 있나요?** 예—저자, 제목, 생성 날짜, 암호화 상태 등.  
+- **Java 8+와 호환됩니까?** 물론이며, 라이브러리는 JDK 8 및 그 이후 버전을 지원합니다.
 
-시작하기 전에 필수 조건을 살펴보겠습니다!
+## “get PDF page count”란 무엇인가요?
+PDF 페이지 수를 가져온다는 것은 문서 구조를 조회하여 포함된 페이지 수를 확인하는 것을 의미합니다. 이 정보는 페이지 매김, 미리보기 생성 및 규정 준수 검사에 유용합니다.
 
-## 필수 조건
+## Java에서 PDF 메타데이터를 추출하는 이유
+PDF 메타데이터를 추출하면 전체 파일을 열지 않고도 문서 분류를 자동화하고 보안 정책을 적용하며 보고서를 생성할 수 있습니다. 전체 콘텐츠 추출에 비해 가벼운 작업이므로 대규모 문서 처리 파이프라인에 이상적입니다.
 
-시작하기 전에 다음 사항이 있는지 확인하세요.
+## 사전 요구 사항
+- **Java Development Kit (JDK) 8+**가 설치되어 있어야 합니다.
+- **Maven**을 사용하여 종속성을 관리합니다.
+- **IntelliJ IDEA** 또는 **Eclipse**와 같은 IDE.
+- 기본 Java 지식.
 
-### 필수 라이브러리 및 종속성
-- 컴퓨터에 Java Development Kit(JDK) 버전 8 이상이 설치되어 있어야 합니다.
-- 종속성 관리를 위한 Maven 빌드 도구.
+## GroupDocs.Conversion for Java 설정
 
-### 환경 설정 요구 사항
-- IntelliJ IDEA나 Eclipse와 같은 적합한 통합 개발 환경(IDE)
-
-### 지식 전제 조건
-- Java 프로그래밍과 객체 지향 개념에 대한 기본적인 이해가 있습니다.
-
-## Java용 GroupDocs.Conversion 설정
-
-시작하려면 Maven을 사용하여 프로젝트에 GroupDocs.Conversion 라이브러리를 설정해야 합니다. 방법은 다음과 같습니다.
-
-**Maven 설정:**
-다음을 추가하세요 `pom.xml` 파일 내에 `<repositories>` 그리고 `<dependencies>` 섹션:
+`pom.xml`에 GroupDocs 저장소와 종속성을 추가합니다:
 
 ```xml
 <repositories>
@@ -57,44 +56,42 @@ Java를 사용하여 PDF 문서에서 작성자 정보, 페이지 수, 암호화
 </dependencies>
 ```
 
-### 라이센스 취득
+### 라이선스 획득
+GroupDocs는 무료 체험, 임시 평가 라이선스 및 정식 구매 옵션을 제공합니다. 기능을 살펴보려면 [free trial](https://releases.groupdocs.com/conversion/java/)을 시작할 수 있습니다.
 
-GroupDocs는 무료 체험판, 평가용 임시 라이선스, 그리고 프로덕션용 정식 구매 라이선스 등 다양한 라이선스 옵션을 제공합니다. [무료 체험](https://releases.groupdocs.com/conversion/java/) 기능을 테스트하려면.
-
-**기본 초기화:**
-Maven 프로젝트를 설정하면 Java 애플리케이션에서 GroupDocs.Conversion을 초기화할 준비가 된 것입니다.
+### 기본 초기화
+Maven이 라이브러리를 해결하면, PDF 경로를 사용하여 `Converter`를 초기화합니다:
 
 ```java
 import com.groupdocs.conversion.Converter;
 
 public class PDFInfoRetriever {
     public static void main(String[] args) {
-        // PDF 문서 경로로 변환기를 초기화합니다.
+        // Initialize the Converter with the path to your PDF document.
         Converter converter = new Converter("YOUR_DOCUMENT_DIRECTORY/SAMPLE_PDF");
         
-        // 문서 정보를 검색하여 활용하세요...
+        // Proceed to retrieve and utilize document information...
     }
 }
 ```
 
 ## 구현 가이드
 
-### 기본 문서 정보 검색
+### 기본 문서 정보 가져오기
 
-이 기능을 사용하면 PDF 파일에서 메타데이터를 추출할 수 있습니다. 이 기능을 구현하는 방법을 자세히 살펴보겠습니다.
+다음은 **PDF 페이지 수 가져오기** 및 기타 메타데이터를 보여주는 단계별 안내입니다.
 
-#### 1단계: 변환기 초기화
-인스턴스를 생성하여 시작하세요. `Converter` 클래스는 대상 PDF 문서의 경로를 지정합니다.
+#### 단계 1: Converter 초기화
+`Converter` 인스턴스를 생성하여 PDF 파일을 가리키게 합니다.
 
 ```java
 Converter converter = new Converter("YOUR_DOCUMENT_DIRECTORY/SAMPLE_PDF");
 ```
 
-- **목적:** 이 단계에서는 변환 프로세스를 초기화하고 정보 검색을 위해 문서를 준비합니다.
+- **Purpose:** 문서 정보를 추출하기 위해 준비합니다.
 
-#### 2단계: 일반 문서 정보 검색
-
-사용하세요 `getDocumentInfo()` PDF 파일의 메타데이터에 대한 전반적인 개요를 얻는 방법:
+#### 단계 2: 일반 문서 정보 가져오기
+`getDocumentInfo()`를 호출하여 형식에 구애받지 않는 정보 객체를 얻습니다.
 
 ```java
 import com.groupdocs.conversion.contracts.documentinfo.IDocumentInfo;
@@ -102,11 +99,10 @@ import com.groupdocs.conversion.contracts.documentinfo.IDocumentInfo;
 IDocumentInfo info = converter.getDocumentInfo();
 ```
 
-- **목적:** 이를 통해 다양한 문서 형식에서 공통적으로 사용되는 기본 문서 속성에 액세스할 수 있습니다.
+- **Purpose:** 크기와 형식과 같은 일반 속성에 접근할 수 있습니다.
 
-#### 3단계: 정보를 PdfDocumentInfo로 캐스팅
-
-PDF 관련 속성에 액세스하려면 얻은 정보를 캐스팅하세요.
+#### 단계 3: 정보를 PdfDocumentInfo로 캐스팅
+PDF 전용 필드에 접근하려면 일반 정보 객체를 캐스팅합니다.
 
 ```java
 import com.groupdocs.conversion.contracts.documentinfo.PdfDocumentInfo;
@@ -114,78 +110,76 @@ import com.groupdocs.conversion.contracts.documentinfo.PdfDocumentInfo;
 PdfDocumentInfo pdfInfo = (PdfDocumentInfo) info;
 ```
 
-- **목적:** 이 단계에서는 PDF 문서에 특화된 방법을 활용할 수 있습니다.
+- **Purpose:** 페이지 수 및 암호화 상태와 같은 PDF 전용 속성을 사용할 수 있게 합니다.
 
-#### 4단계: 문서 속성 액세스 및 활용
-
-마지막으로 PDF 문서의 다양한 속성을 검색합니다.
+#### 단계 4: 문서 속성에 접근하고 활용하기
+필요한 메타데이터를 추출합니다. 여기에는 **page count**가 포함됩니다.
 
 ```java
-String author = pdfInfo.getAuthor(); // 저자의 이름을 얻으세요
-String creationDate = pdfInfo.getCreationDate(); // 문서 생성 날짜를 검색합니다.
-double width = pdfInfo.getWidth(); // 첫 번째 페이지의 너비(포인트)
-double height = pdfInfo.getHeight(); // 첫 번째 페이지의 높이(포인트)
-boolean isLandscape = pdfInfo.isLandscape(); // 첫 번째 페이지가 가로 모드인지 확인하세요
-int pagesCount = pdfInfo.getPagesCount(); // 문서의 총 페이지 수
-String title = pdfInfo.getTitle(); // 문서 제목
-String version = pdfInfo.getVersion(); // PDF 버전 정보
-boolean isEncrypted = pdfInfo.isPasswordProtected(); // 문서가 암호로 보호되어 있는지 확인하세요
+String author = pdfInfo.getAuthor(); // Get the author's name
+String creationDate = pdfInfo.getCreationDate(); // Retrieve the document's creation date
+double width = pdfInfo.getWidth(); // Width of the first page in points
+double height = pdfInfo.getHeight(); // Height of the first page in points
+boolean isLandscape = pdfInfo.isLandscape(); // Check if the first page is in landscape mode
+int pagesCount = pdfInfo.getPagesCount(); // Total number of pages in the document
+String title = pdfInfo.getTitle(); // Document's title
+String version = pdfInfo.getVersion(); // PDF version information
+boolean isEncrypted = pdfInfo.isPasswordProtected(); // Check if the document is password protected
 
-// 로깅이나 UI 표시 등 필요에 따라 이러한 속성을 사용합니다.
+// Use these properties as needed, such as logging or displaying in a UI.
 ```
 
-- **목적:** 이러한 속성은 PDF 파일의 다양한 측면에 대한 통찰력을 제공합니다.
+- **Purpose:** PDF 메타데이터 전체 스냅샷을 제공하여 한 번의 호출로 **PDF 페이지 수 가져오기** 및 기타 세부 정보를 얻을 수 있습니다.
 
 ### 문제 해결 팁
+- PDF 경로가 올바르고 파일을 읽을 수 있는지 확인합니다.
+- 모든 Maven 종속성이 올바르게 선언되었는지 확인합니다.
+- 암호로 보호된 파일의 경우, 다른 속성에 접근하기 전에 `isPasswordProtected` 플래그를 처리합니다.
 
-- 지정된 PDF 경로가 올바르고 접근 가능한지 확인하세요.
-- Maven에 필요한 모든 종속성이 포함되었는지 확인하세요. `pom.xml`.
-
-## 실제 응용 프로그램
-
-PDF 정보를 검색하는 것이 유용한 몇 가지 실제 시나리오는 다음과 같습니다.
-
-1. **문서 관리 시스템:** 효율적인 문서 분류 및 검색을 위해 메타데이터 추출을 자동화합니다.
-2. **콘텐츠 감사:** 대량의 문서를 신속하게 감사하여 작성자 또는 작성일자 기준을 준수하는지 확인합니다.
-3. **보안 검사:** 콘텐츠에 액세스하기 전에 중요한 문서가 암호화되어 있는지 확인하세요.
-4. **PDF 분석:** 조직 내 PDF 사용 패턴에 대한 통찰력을 수집하세요.
+## 실용적인 적용 사례
+1. **Document Management Systems:** 저자, 제목 및 페이지 수로 PDF를 자동 태그하여 빠른 검색을 가능하게 합니다.  
+2. **Compliance Audits:** PDF에 필요한 메타데이터(예: 생성 날짜)가 포함되어 있는지 확인합니다.  
+3. **Security Gateways:** 보안 저장소에 들어가기 전에 암호화되지 않은 PDF를 거부하거나 표시합니다.  
+4. **Analytics Dashboards:** 문서 라이브러리 전체의 페이지 수 통계를 집계합니다.
 
 ## 성능 고려 사항
-
-GroupDocs.Conversion을 사용할 때 최적의 성능을 위해 다음 사항을 고려하세요.
-
-- Java에서 객체 수명 주기를 효율적으로 관리하여 메모리 사용량을 최소화합니다.
-- 불필요한 처리를 피하기 위해 데이터 검색 작업을 최적화합니다.
-- 리소스 사용량을 모니터링하고 필요에 따라 구성을 조정하여 처리량을 개선합니다.
+- `Converter` 객체를 즉시 해제하여 네이티브 리소스를 해제합니다.  
+- 대량 처리 시 가능하면 단일 `Converter` 인스턴스를 재사용합니다.  
+- JVM 힙 사용량을 모니터링하세요; 큰 PDF는 메모리 설정을 늘려야 할 수 있습니다.
 
 ## 결론
-
-이 튜토리얼에서는 Java용 GroupDocs.Conversion을 설정하고 PDF 문서에서 필수 정보를 가져오는 방법을 알아보았습니다. 이 기능을 사용하면 동적 메타데이터 관리를 활성화하여 애플리케이션의 기능을 향상시킬 수 있습니다.
+이제 GroupDocs.Conversion for Java를 사용하여 **PDF 페이지 수 가져오기** 및 PDF 파일에서 풍부한 메타데이터를 추출하는 방법을 알게 되었습니다. 이 지식을 통해 보다 스마트한 문서 워크플로우를 구축하고 검색성을 향상시키며 보안 정책을 적용할 수 있습니다.
 
 ### 다음 단계
-GroupDocs.Conversion의 추가 기능, 예를 들어 문서 형식 간 변환이나 향상된 워크플로를 위한 다른 시스템과의 통합을 살펴보는 것을 고려해 보세요.
+형식 변환, 워터마크, 문서 병합 등 추가적인 GroupDocs.Conversion 기능을 탐색하여 애플리케이션을 더욱 풍부하게 만드세요.
 
-## FAQ 섹션
+## 자주 묻는 질문
 
-**질문 1: GroupDocs.Conversion을 사용하여 PDF에서 텍스트 콘텐츠를 추출할 수 있나요?**
-- 답변: 이 튜토리얼은 메타데이터 추출에 중점을 두고 있지만, GroupDocs.Conversion은 텍스트 콘텐츠 추출도 지원합니다. 자세한 내용은 해당 설명서를 참조하세요.
+**Q: PDF의 전체 텍스트 콘텐츠도 추출할 수 있나요?**  
+A: 예. GroupDocs.Conversion은 텍스트 추출을 지원하며, 관련 API는 공식 문서를 참고하십시오.
 
-**질문 2: PDF에 암호가 설정되어 있는 경우는 어떻게 되나요?**
-- 답변: 정보를 추출하기 전에 문서가 암호화되었는지 확인하고 그에 따라 처리할 수 있습니다.
+**Q: PDF가 암호로 보호된 경우 어떻게 해야 하나요?**  
+A: 먼저 `isPasswordProtected` 확인을 사용합니다. true인 경우 `Converter` 초기화 시 비밀번호를 제공하십시오.
 
-**질문 3: GroupDocs.Conversion을 사용하여 다른 문서 유형을 변환하려면 어떻게 해야 하나요?**
-- A: 라이브러리는 다양한 형식 간의 변환을 지원합니다. [API 참조](https://reference.groupdocs.com/conversion/java/) 특정 방법에 대해서.
+**Q: GroupDocs.Conversion으로 다른 문서 유형을 변환하려면 어떻게 해야 하나요?**  
+A: 라이브러리는 통합 변환 API를 제공합니다. 지원되는 형식은 [API Reference](https://reference.groupdocs.com/conversion/java/)를 확인하십시오.
 
-**질문 4: GroupDocs.Conversion에서 지원하는 최대 파일 크기는 얼마입니까?**
-- 답변: 파일 크기 제한은 사용자 환경의 메모리 용량에 따라 달라집니다. 대용량 파일 처리에 필요한 충분한 리소스를 확보하세요.
+**Q: 처리할 수 있는 PDF 크기에 제한이 있나요?**  
+A: 제한은 서버 메모리에 따라 다릅니다. 큰 파일을 위해 충분한 힙 공간을 할당하십시오.
 
-**Q5: 변환 오류를 원활하게 처리할 수 있는 방법이 있나요?**
-- 답변: 변환 작업에 대한 오류 처리를 구현하여 예외를 관리하고 사용자에게 효과적으로 피드백을 제공합니다.
+**Q: 변환 오류를 어떻게 우아하게 처리할 수 있나요?**  
+A: 변환 호출을 try‑catch 블록으로 감싸고 `ConversionException` 세부 정보를 로그에 기록하여 사용자에게 알리세요.
 
-## 자원
+## 리소스
 
-- **선적 서류 비치:** [GroupDocs.Conversion Java 문서](https://docs.groupdocs.com/conversion/java/)
-- **API 참조:** [Java용 GroupDocs API 참조](https://reference.groupdocs.com/conversion/java/)
-- **GroupDocs.Conversion을 다운로드하세요:** [자바 다운로드](https://releases.groupdocs.com/conversion/java/)
-- **라이센스 구매:** [GroupDocs 제품 구매](https://purchase.groupdocs.com/buy)
-- **무료 체험:** [GroupDocs 무료 평가판을 사용해 보세요](https://releases.groupdocs.com/conversion/java/)
+- **Documentation:** [GroupDocs.Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)
+- **API Reference:** [GroupDocs API Reference for Java](https://reference.groupdocs.com/conversion/java/)
+- **Download GroupDocs.Conversion:** [Java Downloads](https://releases.groupdocs.com/conversion/java/)
+- **Purchase License:** [Buy GroupDocs Product](https://purchase.groupdocs.com/buy)
+- **Free Trial:** [Try GroupDocs Free Trial](https://releases.groupdocs.com/conversion/java/)
+
+---
+
+**마지막 업데이트:** 2026-04-14  
+**테스트 환경:** GroupDocs.Conversion 25.2 for Java  
+**작성자:** GroupDocs
