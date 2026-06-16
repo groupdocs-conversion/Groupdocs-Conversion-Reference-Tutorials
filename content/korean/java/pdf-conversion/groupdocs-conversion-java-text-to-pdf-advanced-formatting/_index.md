@@ -1,46 +1,70 @@
 ---
-"date": "2025-04-28"
-"description": "GroupDocs.Conversion for Java를 사용하여 복잡한 서식을 유지하면서 TXT 파일을 PDF로 변환하는 방법을 알아보세요. 줄 간격 및 번호 매기기 감지와 같은 고급 기능을 익혀보세요."
-"title": "GroupDocs.Conversion Java를 사용한 고급 텍스트-PDF 변환, 서식 유지"
-"url": "/ko/java/pdf-conversion/groupdocs-conversion-java-text-to-pdf-advanced-formatting/"
-"weight": 1
+date: '2026-02-08'
+description: GroupDocs.Conversion Java를 사용하여 txt를 pdf로 변환하는 방법을 배우고, 전문 문서의 들여쓰기,
+  앞 공백 및 번호 매기기를 보존하세요.
+keywords:
+- text-to-PDF conversion with GroupDocs.Conversion Java
+- advanced text formatting in PDFs
+- leading spaces and numbering detection
+title: txt to pdf java – GroupDocs와 함께하는 고급 변환
 type: docs
+url: /ko/java/pdf-conversion/groupdocs-conversion-java-text-to-pdf-advanced-formatting/
+weight: 1
 ---
-# GroupDocs.Conversion Java를 사용한 고급 텍스트-PDF 변환: 서식 유지
+
+# txt to pdf java – GroupDocs.Conversion Java를 사용한 고급 텍스트‑PDF 변환: 서식 보존
+
+일반 텍스트 파일을 PDF로 변환하면서 모든 들여쓰기, 앞 공백 및 목록 번호를 그대로 유지하는 것은 까다로울 수 있습니다. 이 가이드에서는 **txt to pdf java** 변환을 **GroupDocs.Conversion Java**를 사용하여 배우게 됩니다. 이 강력한 **java pdf conversion library**는 고급 서식을 자동으로 처리합니다.
 
 ## 소개
 
-선행 공백이나 번호 매기기와 같은 복잡한 서식 정보를 유지하면서 텍스트 파일을 PDF로 변환하고 싶으신가요? 고급 옵션을 제공하여 이 작업을 간소화하는 GroupDocs.Conversion for Java의 기능을 확인해 보세요. 이 튜토리얼에서는 GroupDocs.Conversion Java를 사용하여 TXT 문서를 정확한 서식을 적용한 PDF로 변환하는 방법을 안내합니다.
+텍스트 파일을 PDF로 변환하면서 앞 공백 및 번호 매기기와 같은 복잡한 서식 세부 정보를 보존하고 싶으신가요? 고급 옵션을 제공하여 이 작업을 간소화하는 GroupDocs.Conversion for Java의 기능을 확인해 보세요. 이 튜토리얼에서는 GroupDocs.Conversion Java를 사용해 TXT 문서를 정확한 서식으로 PDF로 변환하는 방법을 안내합니다.
 
-**배울 내용:**
-- GroupDocs.Conversion Java를 사용하여 텍스트를 PDF로 변환하는 방법.
-- GroupDocs.Conversion에서 고급 로드 및 변환 옵션 설정.
-- 선행 공백 및 번호 매기기 감지에 대한 특정 설정을 적용합니다.
-- 실제 상황에서 이러한 기능을 실용적으로 적용하는 방법.
+**배우게 될 내용:**
+- **txt to pdf java** 변환을 위해 GroupDocs.Conversion Java를 사용하는 방법.  
+- GroupDocs.Conversion에서 고급 로드 및 변환 옵션 설정.  
+- 앞 공백 및 번호 매기기 감지를 위한 특정 설정 적용.  
+- 실제 시나리오에서 이러한 기능을 활용하는 방법.
 
-본격적으로 시작하기 전에 필수 조건을 살펴보겠습니다!
+## 빠른 답변
+- **txt to pdf java 변환을 처리하는 라이브러리는?** GroupDocs.Conversion Java.  
+- **들여쓰기를 유지할 수 있나요?** 예 – `TxtLeadingSpacesOptions.ConvertToIndent`를 사용하세요.  
+- **번호 매기기 감지가 지원되나요?** `setDetectNumberingWithWhitespaces(true)`를 활성화하세요.  
+- **라이선스가 필요합니까?** 테스트용 무료 체험 또는 임시 라이선스로 충분하지만, 프로덕션에서는 정식 라이선스가 필요합니다.  
+- **필요한 Java 버전은?** JDK 11 이상.
 
-## 필수 조건
+## txt to pdf java란?
 
-시작하기 전에 환경이 올바르게 설정되어 있는지 확인하세요. 필요한 사항은 다음과 같습니다.
+`txt to pdf java`는 일반 텍스트(`.txt`) 문서를 Java 코드를 사용해 프로그래밍 방식으로 PDF 파일로 생성하는 과정을 말합니다. GroupDocs.Conversion Java는 저수준 PDF 생성 세부 사항을 추상화하고 서식 옵션에 집중할 수 있게 해줍니다.
+
+## 왜 GroupDocs Conversion Java를 txt to pdf java에 사용해야 할까요?
+
+- **들여쓰기 보존** – 코드 스니펫, 법률 조항, 기술 매뉴얼에 최적입니다.  
+- **공백을 포함한 번호 매기기 감지** – 추가 설정 없이 순서 목록을 유지합니다.  
+- **고성능 엔진** – 대량 문서 세트의 배치 처리에 적합합니다.  
+- **포괄적인 API** – Maven, Gradle 또는 모든 Java 빌드 시스템과 쉽게 통합됩니다.
+
+## 사전 요구 사항
+
+시작하기 전에 환경이 올바르게 설정되어 있는지 확인하세요. 다음이 필요합니다:
 
 ### 필수 라이브러리, 버전 및 종속성
-1. Java 버전 25.2 이상에 대한 GroupDocs.Conversion.
-2. Maven을 지원하는 적합한 IDE(IntelliJ IDEA 또는 Eclipse 등)
+1. GroupDocs.Conversion for Java 버전 25.2 이상.  
+2. Maven을 지원하는 적절한 IDE(예: IntelliJ IDEA 또는 Eclipse).
 
 ### 환경 설정 요구 사항
-- 시스템에 JDK가 설치되어 있는지 확인하세요. 이 튜토리얼에서는 JDK 11 이상을 사용한다고 가정합니다.
+- 시스템에 JDK가 설치되어 있는지 확인하세요. 이 튜토리얼은 JDK 11 이상을 사용한다고 가정합니다.
 
-### 지식 전제 조건
-이 가이드를 효과적으로 따르려면 Java와 Maven에 대한 기본적인 지식이 필요합니다.
+### 지식 사전 요구 사항
+Java와 Maven에 대한 기본적인 이해가 있으면 이 가이드를 보다 효과적으로 따라갈 수 있습니다.
 
-## Java용 GroupDocs.Conversion 설정
+## GroupDocs.Conversion for Java 설정
 
-고급 서식 옵션을 사용하여 TXT 파일을 PDF로 변환하려면 먼저 프로젝트에서 GroupDocs.Conversion을 설정하세요. 다음 단계를 따르세요.
+고급 서식 옵션을 사용해 TXT 파일을 PDF로 변환하려면 먼저 프로젝트에 GroupDocs.Conversion을 설정합니다. 다음 단계를 따르세요:
 
-**Maven 구성**
+### Maven 구성
 
-다음 저장소와 종속성을 추가하세요. `pom.xml` 파일:
+`pom.xml` 파일에 다음 저장소와 종속성을 추가합니다:
 
 ```xml
 <repositories>
@@ -60,23 +84,23 @@ type: docs
 </dependencies>
 ```
 
-### 라이센스 취득
+### 라이선스 획득
 
-GroupDocs.Conversion은 무료 체험판, 장기 테스트를 위한 임시 라이선스, 그리고 전체 구매 옵션을 제공합니다. [구매 페이지](https://purchase.groupdocs.com/buy) 여러분의 선택사항을 살펴보세요.
+GroupDocs.Conversion은 무료 체험, 확장 테스트용 임시 라이선스, 정식 구매 옵션을 제공합니다. 옵션을 확인하려면 [purchase page](https://purchase.groupdocs.com/buy)를 방문하세요.
 
 #### 기본 초기화
 
-Maven 종속성을 설정한 후 다음과 같이 GroupDocs.Conversion을 초기화합니다.
+Maven 종속성을 설정한 후 GroupDocs.Conversion을 다음과 같이 초기화합니다:
 
 ```java
 import com.groupdocs.conversion.Converter;
 
 public class InitializeConversion {
     public static void main(String[] args) {
-        // 입력 TXT 문서의 경로입니다.
+        // Path to the input TXT document.
         String inputFile = "SampleText.txt";
 
-        // 텍스트 파일을 사용하여 변환기 인스턴스를 만듭니다.
+        // Create a converter instance using the text file.
         Converter converter = new Converter(inputFile);
 
         System.out.println("Initialization complete!");
@@ -86,115 +110,134 @@ public class InitializeConversion {
 
 ## 구현 가이드
 
-구현 과정을 기능별로 나누어 각 단계를 안내해 드리겠습니다.
+구현을 기능별로 나누어 단계별로 안내합니다.
 
-### 기능 1: 고급 옵션을 사용하여 TXT를 PDF로 변환
+### Feature 1: 고급 옵션을 사용한 TXT → PDF 변환
 
-이 기능은 선행 공백 및 번호 감지와 같은 서식 동작을 제어하면서 텍스트 파일을 PDF 형식으로 변환하는 방법을 강조합니다.
+이 기능은 앞 공백 및 번호 매기기 감지와 같은 서식 동작을 제어하면서 텍스트 파일을 PDF 형식으로 변환하는 방법을 강조합니다.
 
 #### TXT 변환을 위한 로드 옵션 설정
 
-다음을 사용하여 로드 옵션 구성 `TxtLoadOptions`:
+`TxtLoadOptions`를 사용해 로드 옵션을 구성합니다:
 
 ```java
 import com.groupdocs.conversion.options.load.TxtLoadOptions;
 import com.groupdocs.conversion.options.load.TxtLeadingSpacesOptions;
 
-// TxtLoadOptions 인스턴스를 생성합니다.
+// Create TxtLoadOptions instance.
 TxtLoadOptions loadOptions = new TxtLoadOptions();
-loadOptions.setLeadingSpacesOptions(TxtLeadingSpacesOptions.ConvertToIndent); // 선행 공백을 들여쓰기로 변환합니다.
-loadOptions.setDetectNumberingWithWhitespaces(true); // 공백이 포함된 번호 매기기를 감지합니다.
+loadOptions.setLeadingSpacesOptions(TxtLeadingSpacesOptions.ConvertToIndent); // Convert leading spaces to indents.
+loadOptions.setDetectNumberingWithWhitespaces(true); // Detect numbering with whitespaces.
 ```
 
-#### 변환기 초기화
+#### 컨버터 초기화
 
-TXT 문서를 전달하고 옵션을 로드합니다. `Converter`:
+TXT 문서와 로드 옵션을 `Converter`에 전달합니다:
 
 ```java
 import com.groupdocs.conversion.Converter;
 
-// 특정 옵션을 사용하여 변환기 인스턴스를 생성합니다.
+// Create converter instance with specific options.
 Converter converter = new Converter(inputFile, () -> loadOptions);
 ```
 
 #### PDF 변환 옵션 구성
 
-PDF로 변환하기 위한 옵션 설정 `PdfConvertOptions`:
+`PdfConvertOptions`를 사용해 PDF 변환 옵션을 설정합니다:
 
 ```java
 import com.groupdocs.conversion.options.convert.PdfConvertOptions;
 
-// PDF 변환 옵션을 준비합니다.
+// Prepare PDF conversion options.
 PdfConvertOptions convertOptions = new PdfConvertOptions();
 ```
 
-#### 변환을 수행하세요
+#### 변환 수행
 
-변환을 실행하고 출력 PDF를 저장합니다.
+변환을 실행하고 출력 PDF를 저장합니다:
 
 ```java
-// 고급 설정을 적용하여 TXT를 PDF로 변환합니다.
+// Convert TXT to PDF with advanced settings applied.
 converter.convert(outputFile, convertOptions);
 System.out.println("Conversion complete. Check YOUR_OUTPUT_DIRECTORY for the result.");
 ```
 
-### 기능 2: 고급 텍스트 처리를 위한 로드 옵션 설정
+### Feature 2: 고급 텍스트 처리를 위한 로드 옵션 설정
 
-이 기능은 변환 중에 정확한 서식 제어가 필요한 텍스트 파일에 대한 로드 옵션을 특별히 설정하는 방법을 보여줍니다.
+이 기능은 변환 중 정밀한 서식 제어가 필요한 텍스트 파일을 위해 로드 옵션을 설정하는 방법을 보여줍니다.
 
 #### TxtLoadOptions 구성
 
-고급 텍스트 처리를 위해 로드 옵션을 설정하는 방법은 다음과 같습니다.
+고급 텍스트 처리를 위한 로드 옵션 설정 방법은 다음과 같습니다:
 
 ```java
 TxtLoadOptions txtLoadOptions = new TxtLoadOptions();
 txtLoadOptions.setLeadingSpacesOptions(TxtLeadingSpacesOptions.ConvertToIndent);
 txtLoadOptions.setDetectNumberingWithWhitespaces(true);
 
-// 이러한 옵션을 사용하면 PDF 변환 시 원본 서식의 뉘앙스가 그대로 유지됩니다.
+// These options ensure that the PDF conversion respects the original formatting nuances.
 ```
 
-## 실제 응용 프로그램
+## 실용적인 적용 사례
 
-이러한 고급 기능에 대한 실제 사용 사례를 살펴보세요.
+이 고급 기능의 실제 사용 사례를 살펴보세요:
 
-1. **법률 문서:** 법률 문서가 변환되는 동안 원래 들여쓰기 및 번호 매기기 형식이 유지되도록 합니다.
-2. **기술 매뉴얼:** 복잡한 목록과 공백이 있는 기술 매뉴얼을 잘 구성된 PDF로 변환합니다.
-3. **코드 문서:** 소스 코드가 포함된 텍스트 파일을 PDF 형식으로 변환할 때 코드 구조를 보존합니다.
+1. **법률 문서:** 변환 중 법률 텍스트가 원래의 들여쓰기와 번호 매기기 형식을 유지하도록 보장합니다.  
+2. **기술 매뉴얼:** 복잡한 목록과 여백이 포함된 기술 매뉴얼을 잘 정돈된 PDF로 변환합니다.  
+3. **코드 문서화:** 소스 코드를 포함한 텍스트 파일을 PDF로 변환할 때 코드 구조를 보존합니다.
 
-이러한 애플리케이션은 GroupDocs.Conversion이 콘텐츠 관리 시스템이나 문서 처리 파이프라인에 어떻게 통합될 수 있는지 보여줍니다.
+이러한 적용 사례는 GroupDocs.Conversion을 콘텐츠 관리 시스템이나 문서 처리 파이프라인에 통합할 수 있음을 보여줍니다.
 
 ## 성능 고려 사항
 
-전환 효율성을 극대화하세요:
-- 대용량 문서에는 최적의 메모리 설정을 사용하세요.
-- 성능 향상을 위해 GroupDocs.Conversion의 최신 버전으로 정기적으로 업데이트하세요.
-- 특히 일괄 처리 작업을 처리할 때 리소스를 효과적으로 관리합니다.
+변환 효율성을 극대화하세요:
+- 대용량 문서에 최적의 메모리 설정을 사용합니다.  
+- 성능 향상을 위해 GroupDocs.Conversion 최신 버전으로 정기적으로 업데이트합니다.  
+- 특히 배치 처리 작업을 수행할 때 리소스를 효율적으로 관리합니다.
 
-## 결론
+## 일반적인 문제와 해결책
 
-GroupDocs.Conversion Java의 고급 옵션을 활용하여 TXT 파일을 PDF로 변환하는 방법을 살펴보았습니다. 이 가이드를 통해 변환 과정에서 정확한 서식을 유지하는 방법을 익힐 수 있었습니다.
+| Issue | Why It Happens | Quick Fix |
+|-------|----------------|-----------|
+| 들여쓰기 손실 | `TxtLeadingSpacesOptions`가 설정되지 않음 | `setLeadingSpacesOptions(TxtLeadingSpacesOptions.ConvertToIndent)` 호출 |
+| 번호 매기기 목록이 일반 텍스트로 표시 | `setDetectNumberingWithWhitespaces`가 false | `true`로 활성화 |
+| 출력 PDF가 빈 페이지 | `outputFile` 경로가 잘못되었거나 쓰기 권한이 없음 | 경로를 확인하고 애플리케이션에 쓰기 권한이 있는지 확인 |
+| 대용량 파일에서 OutOfMemoryError 발생 | 기본 JVM 힙이 너무 작음 | 힙 크기 증가 (`-Xmx2g` 이상) |
 
-다음 단계로, 다양한 설정을 시도해 보거나 이 기능을 기존 애플리케이션에 통합해 보세요. 궁금한 점이 있으시면 언제든지 지원 채널을 통해 문의해 주세요.
+## 자주 묻는 질문
 
-## FAQ 섹션
+**Q: 여러 TXT 파일을 한 번에 변환할 수 있나요?**  
+A: 예, GroupDocs.Conversion은 배치 처리를 지원하므로 여러 텍스트 파일을 동시에 변환할 수 있습니다.
 
-**질문: 여러 개의 TXT 파일을 한 번에 변환할 수 있나요?**
-답변: 네, GroupDocs.Conversion은 일괄 처리를 지원하므로 여러 텍스트 파일을 동시에 변환할 수 있습니다.
+**Q: 변환된 PDF가 기대와 다르게 보이면 어떻게 해야 하나요?**  
+A: 앞 공백 및 번호 매기기 감지를 위한 로드 옵션을 다시 확인하세요. 옵션을 조정하면 서식 문제가 해결될 수 있습니다.
 
-**질문: 변환된 PDF가 예상과 다르다면 어떻게 해야 하나요?**
-A: 선행 공백 및 번호 매기기 감지에 대해 설정한 로드 옵션을 다시 한번 확인하세요. 이러한 옵션을 조정하면 서식 문제가 해결될 수 있습니다.
+**Q: 변환할 수 있는 TXT 파일 크기에 제한이 있나요?**  
+A: GroupDocs.Conversion은 대용량 파일을 처리할 수 있지만 시스템 리소스에 따라 성능이 달라질 수 있습니다. 매우 큰 문서는 작은 파트로 나누어 처리하는 것을 권장합니다.
 
-**질문: 변환할 수 있는 TXT 파일의 크기에 제한이 있나요?**
-답변: GroupDocs.Conversion은 대용량 파일을 처리할 수 있지만, 시스템 리소스에 따라 성능이 달라질 수 있습니다. 대용량 문서의 경우, 작은 부분으로 분할하는 것이 좋습니다.
+## FAQ Section
 
-## 자원
+**Q: 여러 TXT 파일을 한 번에 변환할 수 있나요?**  
+A: 예, GroupDocs.Conversion은 배치 처리를 지원하므로 여러 텍스트 파일을 동시에 변환할 수 있습니다.
 
-더 자세한 정보와 고급 기능을 보려면:
-- **선적 서류 비치:** [GroupDocs 변환 Java 문서](https://docs.groupdocs.com/conversion/java/)
-- **API 참조:** [GroupDocs 변환 Java API 참조](https://reference.groupdocs.com/conversion/java/)
-- **다운로드:** [Java용 GroupDocs.Conversion 받기](https://releases.groupdocs.com/conversion/java/)
-- **구매 및 라이센스:** [라이센스를 구매하거나 무료 평가판을 받으세요](https://purchase.groupdocs.com/buy)
-- **지원 포럼:** [GroupDocs 지원 포럼](https://forum.groupdocs.com/c/conversion/10)
+**Q: 변환된 PDF가 기대와 다르게 보이면 어떻게 해야 하나요?**  
+A: 앞 공백 및 번호 매기기 감지를 위한 로드 옵션을 다시 확인하세요. 옵션을 조정하면 서식 문제가 해결될 수 있습니다.
 
-다음 리소스를 탐색하여 GroupDocs.Conversion Java의 기능을 더욱 깊이 이해하고 최대한 활용해 보세요. 즐거운 코딩 되세요!
+**Q: 변환할 수 있는 TXT 파일 크기에 제한이 있나요?**  
+A: GroupDocs.Conversion은 대용량 파일을 처리할 수 있지만 시스템 리소스에 따라 성능이 달라질 수 있습니다. 매우 큰 문서는 작은 파트로 나누어 처리하는 것을 권장합니다.
+
+## 리소스
+
+- **문서:** [GroupDocs Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)  
+- **API 레퍼런스:** [GroupDocs Conversion Java API Reference](https://reference.groupdocs.com/conversion/java/)  
+- **다운로드:** [Get GroupDocs.Conversion for Java](https://releases.groupdocs.com/conversion/java/)  
+- **구매 및 라이선스:** [Buy a License or Get a Free Trial](https://purchase.groupdocs.com/buy)  
+- **지원 포럼:** [GroupDocs Support Forum](https://forum.groupdocs.com/c/conversion/10)
+
+이 리소스를 활용해 GroupDocs.Conversion Java의 기능을 깊이 이해하고 최대한 활용하세요. 즐거운 코딩 되세요!
+
+---
+
+**Last Updated:** 2026-02-08  
+**Tested With:** GroupDocs.Conversion 25.2 for Java  
+**Author:** GroupDocs

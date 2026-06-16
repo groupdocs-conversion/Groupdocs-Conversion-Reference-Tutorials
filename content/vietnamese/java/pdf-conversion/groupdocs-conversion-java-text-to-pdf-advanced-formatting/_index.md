@@ -1,46 +1,71 @@
 ---
-"date": "2025-04-28"
-"description": "Tìm hiểu cách chuyển đổi tệp TXT sang PDF trong khi vẫn duy trì định dạng phức tạp bằng GroupDocs.Conversion cho Java. Làm chủ các tính năng nâng cao như khoảng cách đầu dòng và phát hiện đánh số."
-"title": "Chuyển đổi văn bản sang PDF nâng cao với GroupDocs.Conversion Java&#58; Giữ nguyên định dạng"
-"url": "/vi/java/pdf-conversion/groupdocs-conversion-java-text-to-pdf-advanced-formatting/"
-"weight": 1
+date: '2026-02-08'
+description: Tìm hiểu cách thực hiện chuyển đổi txt sang pdf bằng Java sử dụng GroupDocs.Conversion
+  Java, giữ nguyên thụt lề, khoảng trắng đầu dòng và đánh số cho các tài liệu chuyên
+  nghiệp.
+keywords:
+- text-to-PDF conversion with GroupDocs.Conversion Java
+- advanced text formatting in PDFs
+- leading spaces and numbering detection
+title: txt sang pdf java – Chuyển đổi nâng cao với GroupDocs
 type: docs
+url: /vi/java/pdf-conversion/groupdocs-conversion-java-text-to-pdf-advanced-formatting/
+weight: 1
 ---
-# Chuyển đổi văn bản sang PDF nâng cao với GroupDocs.Conversion Java: Giữ nguyên định dạng
+
+# txt to pdf java – Chuyển Đổi Văn Bản Sang PDF Nâng Cao với GroupDocs.Conversion Java: Bảo Vệ Định Dạng
+
+Việc chuyển đổi các tệp plain‑text sang PDF trong khi giữ nguyên mọi thụt lề, khoảng trắng đầu dòng và đánh số danh sách có thể khá khó khăn. Trong hướng dẫn này, bạn sẽ học cách chuyển đổi **txt to pdf java** bằng **GroupDocs.Conversion Java**, một **java pdf conversion library** mạnh mẽ, tự động xử lý định dạng nâng cao.
 
 ## Giới thiệu
 
-Bạn đang muốn chuyển đổi các tệp văn bản sang PDF trong khi vẫn giữ nguyên các chi tiết định dạng phức tạp như khoảng trắng đầu dòng và đánh số? Khám phá các khả năng của GroupDocs.Conversion for Java, giúp đơn giản hóa nhiệm vụ này bằng cách cung cấp các tùy chọn nâng cao. Hướng dẫn này sẽ hướng dẫn bạn sử dụng GroupDocs.Conversion Java để chuyển đổi các tài liệu TXT thành PDF với định dạng chính xác.
+Bạn có muốn chuyển đổi các tệp văn bản sang PDF đồng thời bảo tồn các chi tiết định dạng phức tạp như khoảng trắng đầu dòng và đánh số không? Hãy khám phá khả năng của GroupDocs.Conversion cho Java, công cụ đơn giản hoá công việc này bằng cách cung cấp các tùy chọn nâng cao. Bài hướng dẫn này sẽ chỉ cho bạn cách sử dụng GroupDocs.Conversion Java để chuyển đổi tài liệu TXT thành PDF với định dạng chính xác.
 
-**Những gì bạn sẽ học được:**
-- Cách sử dụng GroupDocs.Conversion Java để chuyển đổi văn bản sang PDF.
-- Thiết lập các tùy chọn tải và chuyển đổi nâng cao trong GroupDocs.Conversion.
-- Áp dụng các thiết lập cụ thể để phát hiện khoảng cách đầu dòng và đánh số.
-- Ứng dụng thực tế của những tính năng này trong các tình huống thực tế.
+**Bạn sẽ học được:**
+- Cách sử dụng GroupDocs.Conversion Java để thực hiện **txt to pdf java**.  
+- Cài đặt các tùy chọn tải và chuyển đổi nâng cao trong GroupDocs.Conversion.  
+- Áp dụng các cài đặt cụ thể cho việc xử lý khoảng trắng đầu dòng và phát hiện đánh số.  
+- Các ứng dụng thực tiễn của những tính năng này trong các kịch bản thực tế.
 
-Hãy cùng tìm hiểu các điều kiện tiên quyết trước khi bắt đầu nhé!
+## Quick Answers
+- **Thư viện nào hỗ trợ chuyển đổi txt to pdf java?** GroupDocs.Conversion Java.  
+- **Có thể giữ lại thụt lề không?** Có – sử dụng `TxtLeadingSpacesOptions.ConvertToIndent`.  
+- **Có hỗ trợ phát hiện đánh số không?** Bật `setDetectNumberingWithWhitespaces(true)`.  
+- **Có cần giấy phép không?** Bản dùng thử miễn phí hoặc giấy phép tạm thời đủ cho việc thử nghiệm; cần giấy phép đầy đủ cho môi trường sản xuất.  
+- **Yêu cầu phiên bản Java nào?** JDK 11 hoặc cao hơn.
 
-## Điều kiện tiên quyết
+## What is txt to pdf java?
 
-Trước khi bắt đầu, hãy đảm bảo môi trường của bạn được thiết lập đúng. Bạn sẽ cần:
+`txt to pdf java` đề cập đến quá trình lấy một tài liệu plain‑text (`.txt`) và tạo ra một tệp PDF một cách lập trình bằng Java. GroupDocs.Conversion Java trừu tượng hoá các chi tiết tạo PDF ở mức thấp và cho phép bạn tập trung vào các tùy chọn định dạng.
 
-### Thư viện, Phiên bản và Phụ thuộc bắt buộc
-1. GroupDocs.Conversion dành cho Java phiên bản 25.2 trở lên.
+## Why use GroupDocs Conversion Java for txt to pdf java?
+
+- **Preserve indentation** – hoàn hảo cho các đoạn mã, điều khoản pháp lý và tài liệu kỹ thuật.  
+- **Detect numbering with whitespaces** – duy trì danh sách có thứ tự mà không cần cấu hình thêm.  
+- **High‑performance engine** – phù hợp cho việc xử lý hàng loạt các bộ tài liệu lớn.  
+- **Comprehensive API** – dễ dàng tích hợp với Maven, Gradle hoặc bất kỳ hệ thống xây dựng Java nào.
+
+## Prerequisites
+
+Trước khi bắt đầu, hãy đảm bảo môi trường của bạn được thiết lập đúng cách. Bạn sẽ cần:
+
+### Required Libraries, Versions, and Dependencies
+1. GroupDocs.Conversion for Java phiên bản 25.2 hoặc mới hơn.  
 2. Một IDE phù hợp (như IntelliJ IDEA hoặc Eclipse) có hỗ trợ Maven.
 
-### Yêu cầu thiết lập môi trường
-- Đảm bảo bạn đã cài đặt JDK trên hệ thống của mình. Hướng dẫn này giả định rằng bạn đang sử dụng JDK 11 hoặc cao hơn.
+### Environment Setup Requirements
+- Đảm bảo bạn đã cài đặt JDK trên hệ thống. Hướng dẫn này giả định bạn đang sử dụng JDK 11 hoặc cao hơn.
 
-### Điều kiện tiên quyết về kiến thức
-Nên có sự hiểu biết cơ bản về Java và Maven để thực hiện hướng dẫn này một cách hiệu quả.
+### Knowledge Prerequisites
+Kiến thức cơ bản về Java và Maven được khuyến nghị để bạn có thể theo dõi hướng dẫn này một cách hiệu quả.
 
-## Thiết lập GroupDocs.Conversion cho Java
+## Setting Up GroupDocs.Conversion for Java
 
-Để bắt đầu chuyển đổi tệp TXT sang PDF bằng các tùy chọn định dạng nâng cao, trước tiên hãy thiết lập GroupDocs.Conversion trong dự án của bạn. Thực hiện theo các bước sau:
+Để bắt đầu chuyển đổi các tệp TXT sang PDF với các tùy chọn định dạng nâng cao, trước tiên hãy thiết lập GroupDocs.Conversion trong dự án của bạn. Thực hiện các bước sau:
 
-**Cấu hình Maven**
+### Maven Configuration
 
-Thêm kho lưu trữ và phụ thuộc sau vào `pom.xml` tài liệu:
+Thêm repository và dependency sau vào tệp `pom.xml` của bạn:
 
 ```xml
 <repositories>
@@ -60,23 +85,23 @@ Thêm kho lưu trữ và phụ thuộc sau vào `pom.xml` tài liệu:
 </dependencies>
 ```
 
-### Mua lại giấy phép
+### License Acquisition
 
-GroupDocs.Conversion cung cấp bản dùng thử miễn phí, giấy phép tạm thời để thử nghiệm mở rộng và các tùy chọn mua đầy đủ. Truy cập [trang mua hàng](https://purchase.groupdocs.com/buy) để khám phá các lựa chọn của bạn.
+GroupDocs.Conversion cung cấp bản dùng thử miễn phí, giấy phép tạm thời cho việc thử nghiệm mở rộng, và các tùy chọn mua bản đầy đủ. Truy cập [purchase page](https://purchase.groupdocs.com/buy) để khám phá các lựa chọn của bạn.
 
-#### Khởi tạo cơ bản
+#### Basic Initialization
 
-Sau khi thiết lập các phụ thuộc Maven, hãy khởi tạo GroupDocs.Conversion như sau:
+Sau khi thiết lập các dependency Maven, khởi tạo GroupDocs.Conversion như sau:
 
 ```java
 import com.groupdocs.conversion.Converter;
 
 public class InitializeConversion {
     public static void main(String[] args) {
-        // Đường dẫn đến tài liệu TXT đầu vào.
+        // Path to the input TXT document.
         String inputFile = "SampleText.txt";
 
-        // Tạo một phiên bản chuyển đổi bằng cách sử dụng tệp văn bản.
+        // Create a converter instance using the text file.
         Converter converter = new Converter(inputFile);
 
         System.out.println("Initialization complete!");
@@ -84,117 +109,137 @@ public class InitializeConversion {
 }
 ```
 
-## Hướng dẫn thực hiện
+## Implementation Guide
 
-Chúng tôi sẽ chia nhỏ quá trình triển khai thành các tính năng và hướng dẫn bạn từng bước.
+Chúng tôi sẽ chia nhỏ việc triển khai thành các tính năng, hướng dẫn bạn qua từng bước.
 
-### Tính năng 1: Chuyển đổi TXT sang PDF với Tùy chọn nâng cao
+### Feature 1: Converting TXT to PDF with Advanced Options
 
-Tính năng này làm nổi bật cách chuyển đổi tệp văn bản sang định dạng PDF trong khi kiểm soát các hành vi định dạng như khoảng trắng đầu dòng và phát hiện đánh số.
+Tính năng này minh họa cách chuyển đổi một tệp văn bản sang định dạng PDF đồng thời kiểm soát các hành vi định dạng như khoảng trắng đầu dòng và phát hiện đánh số.
 
-#### Thiết lập tùy chọn tải cho chuyển đổi TXT
+#### Set Up Load Options for TXT Conversion
 
-Cấu hình tùy chọn tải bằng cách sử dụng `TxtLoadOptions`:
+Cấu hình các tùy chọn tải bằng `TxtLoadOptions`:
 
 ```java
 import com.groupdocs.conversion.options.load.TxtLoadOptions;
 import com.groupdocs.conversion.options.load.TxtLeadingSpacesOptions;
 
-// Tạo phiên bản TxtLoadOptions.
+// Create TxtLoadOptions instance.
 TxtLoadOptions loadOptions = new TxtLoadOptions();
-loadOptions.setLeadingSpacesOptions(TxtLeadingSpacesOptions.ConvertToIndent); // Chuyển đổi khoảng trắng đầu dòng thành thụt lề.
-loadOptions.setDetectNumberingWithWhitespaces(true); // Phát hiện số có khoảng trắng.
+loadOptions.setLeadingSpacesOptions(TxtLeadingSpacesOptions.ConvertToIndent); // Convert leading spaces to indents.
+loadOptions.setDetectNumberingWithWhitespaces(true); // Detect numbering with whitespaces.
 ```
 
-#### Khởi tạo Bộ chuyển đổi
+#### Initialize the Converter
 
-Truyền tài liệu TXT và tải các tùy chọn tới `Converter`:
+Truyền tài liệu TXT và các tùy chọn tải vào `Converter`:
 
 ```java
 import com.groupdocs.conversion.Converter;
 
-// Tạo phiên bản chuyển đổi với các tùy chọn cụ thể.
+// Create converter instance with specific options.
 Converter converter = new Converter(inputFile, () -> loadOptions);
 ```
 
-#### Cấu hình Tùy chọn chuyển đổi PDF
+#### Configure PDF Conversion Options
 
-Thiết lập các tùy chọn để chuyển đổi sang PDF bằng cách sử dụng `PdfConvertOptions`:
+Thiết lập các tùy chọn chuyển đổi sang PDF bằng `PdfConvertOptions`:
 
 ```java
 import com.groupdocs.conversion.options.convert.PdfConvertOptions;
 
-// Chuẩn bị các tùy chọn chuyển đổi PDF.
+// Prepare PDF conversion options.
 PdfConvertOptions convertOptions = new PdfConvertOptions();
 ```
 
-#### Thực hiện chuyển đổi
+#### Perform the Conversion
 
-Thực hiện chuyển đổi và lưu tệp PDF đầu ra:
+Thực thi quá trình chuyển đổi và lưu PDF đầu ra:
 
 ```java
-// Chuyển đổi TXT sang PDF bằng cách áp dụng các cài đặt nâng cao.
+// Convert TXT to PDF with advanced settings applied.
 converter.convert(outputFile, convertOptions);
 System.out.println("Conversion complete. Check YOUR_OUTPUT_DIRECTORY for the result.");
 ```
 
-### Tính năng 2: Thiết lập tùy chọn tải cho xử lý văn bản nâng cao
+### Feature 2: Setting Up Load Options for Advanced Text Processing
 
-Tính năng này trình bày cách thiết lập các tùy chọn tải dành riêng cho các tệp văn bản cần kiểm soát định dạng chính xác trong quá trình chuyển đổi.
+Tính năng này trình bày cách thiết lập các tùy chọn tải đặc biệt cho các tệp văn bản cần kiểm soát định dạng chính xác trong quá trình chuyển đổi.
 
-#### Cấu hình TxtLoadOptions
+#### Configure TxtLoadOptions
 
-Sau đây là cách bạn có thể thiết lập các tùy chọn tải để xử lý văn bản nâng cao:
+Dưới đây là cách bạn có thể cấu hình các tùy chọn tải để xử lý văn bản nâng cao:
 
 ```java
 TxtLoadOptions txtLoadOptions = new TxtLoadOptions();
 txtLoadOptions.setLeadingSpacesOptions(TxtLeadingSpacesOptions.ConvertToIndent);
 txtLoadOptions.setDetectNumberingWithWhitespaces(true);
 
-// Các tùy chọn này đảm bảo rằng việc chuyển đổi PDF sẽ tôn trọng định dạng gốc.
+// These options ensure that the PDF conversion respects the original formatting nuances.
 ```
 
-## Ứng dụng thực tế
+## Practical Applications
 
-Khám phá các trường hợp sử dụng thực tế cho các tính năng nâng cao này:
+Khám phá các trường hợp sử dụng thực tế cho những tính năng nâng cao này:
 
-1. **Văn bản pháp lý:** Đảm bảo văn bản pháp lý giữ nguyên định dạng thụt lề và đánh số ban đầu trong quá trình chuyển đổi.
-2. **Hướng dẫn kỹ thuật:** Chuyển đổi các hướng dẫn kỹ thuật có danh sách và khoảng cách phức tạp thành các tệp PDF được định dạng tốt.
-3. **Tài liệu mã:** Giữ nguyên cấu trúc mã khi chuyển đổi tệp văn bản chứa mã nguồn sang định dạng PDF.
+1. **Legal Documents:** Đảm bảo các văn bản pháp lý giữ nguyên thụt lề và định dạng đánh số gốc khi chuyển đổi.  
+2. **Technical Manuals:** Chuyển đổi các tài liệu kỹ thuật có danh sách và khoảng cách phức tạp thành PDF được định dạng tốt.  
+3. **Code Documentation:** Bảo tồn cấu trúc mã nguồn khi chuyển đổi các tệp văn bản chứa mã nguồn sang PDF.
 
-Các ứng dụng này chứng minh cách GroupDocs.Conversion có thể được tích hợp vào hệ thống quản lý nội dung hoặc quy trình xử lý tài liệu.
+Các ứng dụng này cho thấy cách GroupDocs.Conversion có thể được tích hợp vào hệ thống quản lý nội dung hoặc quy trình xử lý tài liệu.
 
-## Cân nhắc về hiệu suất
+## Performance Considerations
 
-Tối đa hóa hiệu quả chuyển đổi của bạn:
-- Sử dụng cài đặt bộ nhớ tối ưu cho các tài liệu lớn.
-- Cập nhật thường xuyên lên phiên bản mới nhất của GroupDocs.Conversion để cải thiện hiệu suất.
-- Quản lý tài nguyên hiệu quả, đặc biệt là khi xử lý các tác vụ xử lý hàng loạt.
+Tối ưu hoá hiệu suất chuyển đổi của bạn:
+- Sử dụng các cài đặt bộ nhớ tối ưu cho các tài liệu lớn.  
+- Thường xuyên cập nhật lên phiên bản mới nhất của GroupDocs.Conversion để cải thiện hiệu năng.  
+- Quản lý tài nguyên một cách hiệu quả, đặc biệt khi xử lý các tác vụ batch.
 
-## Phần kết luận
+## Common Issues and Solutions
 
-Chúng tôi đã khám phá cách tận dụng các tùy chọn nâng cao của GroupDocs.Conversion Java để chuyển đổi tệp TXT sang PDF. Hướng dẫn này đã trang bị cho bạn kiến thức để duy trì định dạng chính xác trong quá trình chuyển đổi.
+| Vấn đề | Nguyên nhân | Cách khắc phục |
+|-------|-------------|----------------|
+| Mất thụt lề | `TxtLeadingSpacesOptions` chưa được đặt | Gọi `setLeadingSpacesOptions(TxtLeadingSpacesOptions.ConvertToIndent)` |
+| Danh sách đánh số hiển thị dưới dạng văn bản thường | `setDetectNumberingWithWhitespaces` là false | Bật nó bằng `true` |
+| PDF đầu ra trống | Đường dẫn `outputFile` không đúng hoặc thiếu quyền ghi | Kiểm tra lại đường dẫn và đảm bảo ứng dụng có quyền ghi |
+| Các tệp lớn gây OutOfMemoryError | Bộ nhớ heap JVM mặc định quá nhỏ | Tăng kích thước heap (`-Xmx2g` hoặc lớn hơn) |
 
-Bước tiếp theo, hãy cân nhắc thử nghiệm các cài đặt khác nhau hoặc tích hợp chức năng này vào các ứng dụng hiện có của bạn. Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ qua kênh hỗ trợ của chúng tôi.
+## Frequently Asked Questions
 
-## Phần Câu hỏi thường gặp
+**Hỏi:** Tôi có thể chuyển đổi nhiều tệp TXT cùng lúc không?  
+**Đáp:** Có, GroupDocs.Conversion hỗ trợ xử lý batch, cho phép chuyển đổi đồng thời nhiều tệp văn bản.
 
-**H: Tôi có thể chuyển đổi nhiều tệp TXT cùng lúc không?**
-A: Có, GroupDocs.Conversion hỗ trợ xử lý hàng loạt, cho phép chuyển đổi đồng thời nhiều tệp văn bản.
+**Hỏi:** Nếu PDF đã chuyển đổi không hiển thị đúng như mong đợi thì sao?  
+**Đáp:** Kiểm tra lại các tùy chọn tải bạn đã thiết lập cho khoảng trắng đầu dòng và phát hiện đánh số. Điều chỉnh chúng có thể giải quyết vấn đề định dạng.
 
-**H: Tôi phải làm sao nếu tệp PDF đã chuyển đổi của tôi không như mong đợi?**
-A: Kiểm tra lại các tùy chọn tải mà bạn đã đặt cho khoảng cách hàng đầu và phát hiện đánh số. Điều chỉnh những tùy chọn này có thể giải quyết các vấn đề về định dạng.
+**Hỏi:** Có giới hạn kích thước tệp TXT mà tôi có thể chuyển đổi không?  
+**Đáp:** GroupDocs.Conversion có thể xử lý các tệp lớn, nhưng hiệu năng có thể thay đổi tùy thuộc vào tài nguyên hệ thống. Đối với các tài liệu rất lớn, hãy cân nhắc chia chúng thành các phần nhỏ hơn.
 
-**H: Có giới hạn về kích thước tệp TXT mà tôi có thể chuyển đổi không?**
-A: GroupDocs.Conversion có thể xử lý các tệp lớn, nhưng hiệu suất có thể thay đổi tùy theo tài nguyên hệ thống của bạn. Đối với các tài liệu rất lớn, hãy cân nhắc chia chúng thành các phần nhỏ hơn.
+## FAQ Section
 
-## Tài nguyên
+**Hỏi:** Tôi có thể chuyển đổi nhiều tệp TXT cùng lúc không?  
+**Đáp:** Có, GroupDocs.Conversion hỗ trợ xử lý batch, cho phép chuyển đổi đồng thời nhiều tệp văn bản.
 
-Để biết thông tin chi tiết hơn và các tính năng nâng cao:
-- **Tài liệu:** [Tài liệu Java chuyển đổi GroupDocs](https://docs.groupdocs.com/conversion/java/)
-- **Tài liệu tham khảo API:** [Tài liệu tham khảo Java API chuyển đổi GroupDocs](https://reference.groupdocs.com/conversion/java/)
-- **Tải xuống:** [Nhận GroupDocs.Conversion cho Java](https://releases.groupdocs.com/conversion/java/)
-- **Mua và cấp phép:** [Mua giấy phép hoặc dùng thử miễn phí](https://purchase.groupdocs.com/buy)
-- **Diễn đàn hỗ trợ:** [Diễn đàn hỗ trợ GroupDocs](https://forum.groupdocs.com/c/conversion/10)
+**Hỏi:** Nếu PDF đã chuyển đổi không hiển thị đúng như mong đợi thì sao?  
+**Đáp:** Kiểm tra lại các tùy chọn tải bạn đã thiết lập cho khoảng trắng đầu dòng và phát hiện đánh số. Điều chỉnh chúng có thể giải quyết vấn đề định dạng.
 
-Khám phá các tài nguyên này để hiểu sâu hơn và tận dụng tối đa khả năng của GroupDocs.Conversion Java. Chúc bạn viết mã vui vẻ!
+**Hỏi:** Có giới hạn kích thước tệp TXT mà tôi có thể chuyển đổi không?  
+**Đáp:** GroupDocs.Conversion có thể xử lý các tệp lớn, nhưng hiệu năng có thể thay đổi tùy thuộc vào tài nguyên hệ thống. Đối với các tài liệu rất lớn, hãy cân nhắc chia chúng thành các phần nhỏ hơn.
+
+## Resources
+
+Để biết thêm thông tin chi tiết và các tính năng nâng cao:
+- **Documentation:** [GroupDocs Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)
+- **API Reference:** [GroupDocs Conversion Java API Reference](https://reference.groupdocs.com/conversion/java/)
+- **Download:** [Get GroupDocs.Conversion for Java](https://releases.groupdocs.com/conversion/java/)
+- **Purchase and Licensing:** [Buy a License or Get a Free Trial](https://purchase.groupdocs.com/buy)
+- **Support Forums:** [GroupDocs Support Forum](https://forum.groupdocs.com/c/conversion/10)
+
+Khám phá các tài nguyên này để nâng cao hiểu biết và tận dụng tối đa khả năng của GroupDocs.Conversion Java. Chúc bạn lập trình vui vẻ!
+
+---
+
+**Last Updated:** 2026-02-08  
+**Tested With:** GroupDocs.Conversion 25.2 for Java  
+**Author:** GroupDocs
