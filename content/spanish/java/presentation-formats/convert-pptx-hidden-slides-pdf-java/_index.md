@@ -1,35 +1,45 @@
 ---
-"date": "2025-04-28"
-"description": "Aprenda a convertir presentaciones de PowerPoint, incluidas las diapositivas ocultas, a formato PDF con GroupDocs.Conversion para Java. Ideal para desarrolladores que buscan optimizar el procesamiento de documentos."
-"title": "Convierta PPTX con diapositivas ocultas a PDF de forma eficiente en Java usando GroupDocs.Conversion"
-"url": "/es/java/presentation-formats/convert-pptx-hidden-slides-pdf-java/"
-"weight": 1
+date: '2026-03-03'
+description: Aprende cómo GroupDocs Conversion Java te permite convertir PPTX a PDF,
+  incluidas las diapositivas ocultas. Esta guía muestra cómo convertir PPTX, aumentar
+  el heap de Java e incluir diapositivas ocultas.
+keywords:
+- convert PPTX to PDF
+- Java presentation conversion
+- GroupDocs.Conversion for Java
+title: 'GroupDocs Conversion Java: Convertir PPTX (diapositivas ocultas) a PDF'
 type: docs
+url: /es/java/presentation-formats/convert-pptx-hidden-slides-pdf-java/
+weight: 1
 ---
-# Convierta fácilmente PPTX con diapositivas ocultas a PDF en Java usando GroupDocs.Conversion
 
-En la era digital, convertir presentaciones a formatos universalmente accesibles como PDF es un requisito común para los desarrolladores. Este tutorial le guía a través de una solución eficiente utilizando **GroupDocs.Conversion para Java** para convertir presentaciones de PowerPoint, incluidas diapositivas ocultas, al formato PDF.
+# GroupDocs Conversion Java – Convertir PPTX (Diapositivas ocultas) a PDF
 
-## Lo que aprenderás
-- Configurar GroupDocs.Conversion para incluir diapositivas ocultas en sus conversiones.
-- Instrucciones paso a paso sobre cómo convertir un archivo PPTX a PDF con Java.
-- Requisitos de configuración esenciales para utilizar GroupDocs.Conversion en sus proyectos.
-- Aplicaciones prácticas y consideraciones de rendimiento para optimizar las conversiones.
+En aplicaciones Java modernas, **groupdocs conversion java** es la biblioteca recomendada cuando necesitas convertir archivos PowerPoint en PDFs universalmente visualizables. Este tutorial te guía sobre *cómo convertir pptx* mientras te aseguras de que las diapositivas ocultas no se queden atrás, y también aborda consejos para **increase java heap** en presentaciones grandes.
 
-Comencemos repasando los requisitos previos.
+## Respuestas rápidas
+- **¿Qué biblioteca maneja PPTX → PDF?** GroupDocs Conversion for Java.  
+- **¿Se pueden incluir diapositivas ocultas?** Sí – establece `showHiddenSlides` a `true`.  
+- **¿Necesito una licencia?** Una prueba gratuita funciona para pruebas; se requiere una licencia de pago para producción.  
+- **¿Cómo evitar errores de falta de memoria?** Aumenta el heap de Java (`-Xmx2g` o superior) y procesa archivos grandes por lotes.  
+- **¿Se requiere alguna configuración adicional para la salida PDF?** Solo el `PdfConvertOptions` básico, a menos que necesites márgenes o orientación personalizados.
 
-### Prerrequisitos
+## ¿Qué es GroupDocs Conversion Java?
+GroupDocs Conversion Java es una API de alto rendimiento que admite más de 100 formatos de archivo. Permite a los desarrolladores convertir documentos de forma programática —como presentaciones PowerPoint— a PDFs, imágenes, HTML y más, preservando el diseño, las fuentes y el contenido oculto.
 
-Para seguir este tutorial, asegúrese de tener:
-- **Kit de desarrollo de Java (JDK) instalado** en su máquina. Se recomienda la versión 8 o superior.
-- Comprensión básica de los conceptos de programación Java.
-- Acceso a un entorno de proyecto habilitado para Maven para administrar dependencias.
+## ¿Por qué usar GroupDocs Conversion Java para tareas de PDF de presentaciones Java?
+- **Soporte completo de formatos** – Maneja PPTX, PPT, ODP y más.  
+- **Manejo de diapositivas ocultas** – Opciones explícitas que te permiten *mostrar ocultas* durante la conversión.  
+- **Rendimiento escalable** – Funciona con archivos grandes cuando **increase java heap** y utilizas procesamiento por lotes.  
+- **Integración Maven sencilla** – No hay binarios nativos que gestionar.
 
-Con esto en su lugar, configuremos GroupDocs.Conversion para Java.
+## Requisitos previos
+- Java Development Kit (JDK) 8 o posterior instalado.  
+- Proyecto habilitado para Maven para la gestión de dependencias.  
+- Conocimientos básicos de programación Java.  
 
-### Configuración de GroupDocs.Conversion para Java
-
-Agregue la siguiente configuración a su `pom.xml` archivo para incluir la biblioteca GroupDocs necesaria:
+### Configuración de GroupDocs Conversion para Java
+Add the repository and dependency to your `pom.xml`:
 
 ```xml
 <repositories>
@@ -48,19 +58,13 @@ Agregue la siguiente configuración a su `pom.xml` archivo para incluir la bibli
 </dependencies>
 ```
 
-#### Adquisición de licencias
-Obtenga una licencia de prueba gratuita para evaluar todas las funciones de GroupDocs.Conversion. Para un uso prolongado, considere adquirir una suscripción o una licencia temporal.
+#### Obtención de licencia
+Obtén una licencia de prueba gratuita para evaluar todas las capacidades de GroupDocs Conversion. Para uso en producción, compra una suscripción o una licencia permanente.
 
-### Guía de implementación
+## Guía paso a paso
 
-La implementación implica dos características principales: cargar presentaciones con diapositivas ocultas y convertirlas a PDF.
-
-#### Cargar presentación con diapositivas ocultas
-
-Esta función configura su aplicación para incluir diapositivas ocultas durante la conversión, garantizando que no se pierda ningún contenido en la traducción.
-
-##### Paso 1: Configurar PresentationLoadOptions
-Crear una instancia de `PresentationLoadOptions` y especificar que se deben incluir las diapositivas ocultas:
+### Paso 1: Cargar la presentación y **Mostrar diapositivas ocultas**
+Crea una instancia de `PresentationLoadOptions` y habilita las diapositivas ocultas:
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -71,14 +75,12 @@ PresentationLoadOptions loadOptions = new PresentationLoadOptions();
 loadOptions.setShowHiddenSlides(true);
 Converter converter = new Converter(sourceDocument, () -> loadOptions);
 ```
-**Explicación:**
-Aquí, `setShowHiddenSlides(true)` Garantiza que incluso las diapositivas ocultas se incluyan en el proceso de conversión. Esta configuración es crucial para una conversión completa de documentos.
 
-#### Convertir una presentación a PDF
-A continuación, convierta la presentación cargada en un archivo PDF utilizando las opciones de conversión especificadas.
+**Explicación:**  
+`setShowHiddenSlides(true)` indica al convertidor que trate las diapositivas ocultas como visibles, asegurando que aparezcan en el PDF final. Esta es la configuración clave para el requisito de *incluir diapositivas ocultas*.
 
-##### Paso 2: Realizar la conversión
-Utilice el siguiente fragmento de código para convertir su archivo PPTX a PDF:
+### Paso 2: Convertir la presentación cargada a PDF (**java presentation pdf**)
+Define la ruta de salida y usa `PdfConvertOptions` para realizar la conversión:
 
 ```java
 import com.groupdocs.conversion.options.convert.PdfConvertOptions;
@@ -87,40 +89,56 @@ String convertedFile = "YOUR_OUTPUT_DIRECTORY/Converted_Presentation.pdf";
 PdfConvertOptions options = new PdfConvertOptions();
 converter.convert(convertedFile, options);
 ```
-**Explicación:**
-El `PdfConvertOptions` La clase proporciona opciones de configuración para la salida PDF. En este caso, no se especifican configuraciones adicionales, pero puede personalizar estas opciones según sus necesidades.
 
-### Aplicaciones prácticas
-1. **Generación automatizada de informes:** Automatice la conversión de presentaciones detalladas en informes PDF compartibles.
-2. **Archivado de documentos:** Conserve todo el contenido de las presentaciones comerciales incluyendo diapositivas ocultas en archivos PDF.
-3. **Integración con sistemas de gestión de contenidos (CMS):** Convierta y almacene sin problemas archivos de presentación como PDF dentro de plataformas CMS.
+**Explicación:**  
+`PdfConvertOptions` te permite afinar la salida PDF (p. ej., márgenes, tamaño de página). En este ejemplo básico nos basamos en los valores predeterminados, pero puedes personalizar según sea necesario.
 
-### Consideraciones de rendimiento
-Al trabajar con presentaciones grandes, tenga en cuenta estos consejos de optimización:
-- **Gestión de la memoria:** Asegúrese de que su entorno Java esté configurado para manejar las demandas de memoria de las tareas de procesamiento de documentos grandes.
-- **Procesamiento por lotes:** Convierta varios documentos en lotes para mejorar la eficiencia.
-- **Monitoreo de recursos:** Supervisar periódicamente el uso de recursos durante los procesos de conversión para identificar y resolver cuellos de botella.
+## Aplicaciones prácticas
+1. **Generación automática de informes** – Convierte presentaciones en informes PDF compartibles al instante.  
+2. **Archivado de documentos** – Conserva cada diapositiva, incluidas las ocultas, para auditorías de cumplimiento.  
+3. **Integración CMS** – Convierte presentaciones subidas por usuarios a PDFs antes de almacenarlas en un sistema de gestión de contenidos.
 
-### Conclusión
-Siguiendo este tutorial, aprendió a aprovechar GroupDocs.Conversion para Java para incluir diapositivas ocultas en sus conversiones de PDF. Esta función es fundamental para garantizar una gestión y un uso compartido completos de documentos.
+## Consideraciones de rendimiento & **Increase Java Heap**
+Al trabajar con presentaciones grandes:
 
-Para explorar más funcionalidades de GroupDocs.Conversion, considere consultar la [documentación](https://docs.groupdocs.com/conversion/java/) o probar otros formatos de archivos compatibles.
+- **Gestión de memoria:** Inicia tu JVM con un heap mayor, por ejemplo, `java -Xmx4g -jar yourapp.jar`.  
+- **Procesamiento por lotes:** Convierte varios archivos en un bucle en lugar de cargarlos todos a la vez.  
+- **Monitoreo de recursos:** Usa herramientas como VisualVM para observar el uso de memoria e identificar cuellos de botella.
 
-### Sección de preguntas frecuentes
-**P: ¿Puedo convertir presentaciones con animaciones a PDF usando GroupDocs?**
-R: Sí, aunque las animaciones no se animarán en el PDF, todo el contenido de las diapositivas se convertirá con precisión.
+## Problemas comunes y soluciones
+- **Las diapositivas ocultas no aparecen:** Verifica que `loadOptions.setShowHiddenSlides(true)` se llame antes de crear el `Converter`.  
+- **Errores de falta de memoria:** Aumenta el tamaño del heap de Java (`-Xmx`) y considera dividir la presentación en fragmentos más pequeños.  
+- **Fuentes faltantes:** Asegúrate de que las fuentes usadas en el PPTX estén instaladas en el servidor o incrústalas en el archivo fuente.
 
-**P: ¿Cómo puedo manejar archivos de presentación grandes sin quedarme sin memoria?**
-A: Aumente el tamaño del montón de Java y considere procesar documentos en segmentos más pequeños si es posible.
+## Preguntas frecuentes
 
-**P: ¿Hay alguna manera de personalizar el formato PDF de salida?**
-A: Sí, `PdfConvertOptions` Ofrece varias opciones de personalización, como configurar márgenes, orientación de la página y más.
+**Q: ¿Puedo convertir presentaciones con animaciones a PDF usando GroupDocs?**  
+A: Sí, las animaciones se renderizan como imágenes estáticas en el PDF; todo el contenido visual se conserva.
 
-Para obtener más ayuda o si tiene preguntas, visite el sitio [Foro de soporte de GroupDocs](https://forum.groupdocs.com/c/conversion/10).
+**Q: ¿Cómo manejo archivos de presentación grandes sin quedarme sin memoria?**  
+A: Aumenta el heap de la JVM (`-Xmx`), procesa los archivos por lotes y monitorea el uso de memoria durante la conversión.
+
+**Q: ¿Hay alguna forma de personalizar el formato del PDF de salida?**  
+A: Por supuesto. `PdfConvertOptions` ofrece configuraciones para márgenes, orientación de página y más.
+
+**Q: ¿GroupDocs Conversion admite archivos PPTX protegidos con contraseña?**  
+A: Sí. Carga el documento con la contraseña adecuada usando la sobrecarga que acepta un parámetro de contraseña.
+
+**Q: ¿Dónde puedo encontrar documentación de API más detallada?**  
+A: Consulta la documentación oficial en [documentation](https://docs.groupdocs.com/conversion/java/).
+
+## Conclusión
+Siguiendo esta guía ahora sabes cómo usar **groupdocs conversion java** para convertir archivos PPTX —incluidas las diapositivas ocultas— en PDFs de alta calidad. Esta capacidad es esencial para el archivado fiable de documentos, la generación automática de informes y la integración fluida con CMS.
+
+Para explorar funciones adicionales, revisa los recursos oficiales de GroupDocs o experimenta con otros formatos compatibles.
+
+---
+
+**Última actualización:** 2026-03-03  
+**Probado con:** GroupDocs.Conversion 25.2 for Java  
+**Autor:** GroupDocs  
 
 ### Recursos
-- **Documentación:** Explora guías completas en [Documentación de GroupDocs](https://docs.groupdocs.com/conversion/java/)
-- **Referencia API:** Acceda a información detallada de la API a través de [Referencia de API](https://reference.groupdocs.com/conversion/java/)
-- **Enlaces de descarga y compra:** Encuentre enlaces para descargar o comprar licencias en el sitio web oficial de GroupDocs.
-
-Al integrar estas prácticas en su flujo de trabajo de desarrollo, podrá mejorar las capacidades de procesamiento de documentos en sus aplicaciones Java. ¡Que disfrute de la programación!
+- **Documentación:** Explora guías completas en [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/)  
+- **Referencia API:** Accede a información detallada de la API a través de [API Reference](https://reference.groupdocs.com/conversion/java/)  
+- **Soporte:** Para obtener más ayuda, visita el [GroupDocs Support Forum](https://forum.groupdocs.com/c/conversion/10).
