@@ -1,39 +1,42 @@
 ---
-"date": "2025-04-28"
-"description": "Tìm hiểu cách chuyển đổi tài liệu Word sang PDF trong khi vẫn giữ nguyên phông chữ tùy chỉnh bằng GroupDocs.Conversion for Java. Thực hiện theo hướng dẫn từng bước này để đảm bảo kiểu chữ nhất quán trên các nền tảng."
-"title": "Chuyển đổi Word sang PDF với Phông chữ tùy chỉnh trong Java&#58; Hướng dẫn đầy đủ sử dụng GroupDocs.Conversion"
-"url": "/vi/java/pdf-conversion/convert-word-pdf-custom-fonts-java-groupdocs-conversion/"
-"weight": 1
+date: '2026-01-13'
+description: Tìm hiểu cách chuyển đổi docx sang pdf với phông chữ tùy chỉnh bằng GroupDocs
+  Conversion Java. Hãy làm theo hướng dẫn từng bước này để đảm bảo kiểu chữ nhất quán
+  trên mọi nền tảng.
+keywords:
+- Convert Word to PDF Java
+- Custom Fonts in PDF
+- Java Document Conversion
+title: 'GroupDocs Conversion Java: Chuyển đổi Word sang PDF với phông chữ tùy chỉnh'
 type: docs
+url: /vi/java/pdf-conversion/convert-word-pdf-custom-fonts-java-groupdocs-conversion/
+weight: 1
 ---
-# Chuyển đổi tài liệu Word sang PDF với phông chữ tùy chỉnh trong Java: Hướng dẫn đầy đủ sử dụng GroupDocs.Conversion
 
-## Giới thiệu
+# GroupDocs Conversion Java: Chuyển đổi Word sang PDF với Phông chữ Tùy chỉnh
 
-Trong bối cảnh kỹ thuật số ngày nay, việc chia sẻ tài liệu trên toàn thế giới là rất quan trọng. Việc chuyển đổi các tệp Word sang PDF trong khi vẫn giữ nguyên kiểu phông chữ chính xác có thể là một thách thức. Hướng dẫn này sẽ giúp bạn sử dụng **GroupDocs.Chuyển đổi** đối với Java, tập trung vào các tính năng nâng cao như thay thế phông chữ trong quá trình chuyển đổi.
+Trong hướng dẫn toàn diện này, bạn sẽ khám phá cách **groupdocs conversion java** cho phép bạn **convert docx to pdf** trong khi giữ nguyên các kiểu phông chữ tùy chỉnh. Dù bạn đang xây dựng một quy trình tài liệu pháp lý hay xuất bản sách điện tử, các bước dưới đây sẽ đảm bảo PDF kết quả trông giống hệt file Word gốc.
 
-### Những gì bạn sẽ học được
-- Cài đặt và thiết lập GroupDocs.Conversion cho Java.
-- Chuyển đổi tài liệu Word sang PDF với phông chữ tùy chỉnh.
-- Các kỹ thuật thay thế phông chữ để đảm bảo tính nhất quán trên các hệ thống.
-- Ứng dụng thực tế của những tính năng này.
+## Quick Answers
+- **Thư viện nào xử lý việc chuyển đổi?** GroupDocs Conversion for Java.  
+- **Có thể thay thế các phông chữ thiếu không?** Yes – use font substitution settings.  
+- **Có cần giấy phép cho môi trường sản xuất không?** A commercial license is required; a free trial is available.  
+- **Phiên bản Java nào được hỗ trợ?** JDK 8 or higher.  
+- **Có thể thực hiện chuyển đổi hàng loạt không?** Absolutely – wrap the converter in a loop or use the API’s batch features.
 
-Bạn đã sẵn sàng để thành thạo việc chuyển đổi tài liệu chưa? Hãy cùng bắt đầu nhé!
+## GroupDocs Conversion Java là gì?
+GroupDocs Conversion Java là một API hiệu suất cao, chuyển đổi nhiều định dạng tài liệu (bao gồm DOCX, PPTX, XLSX và PDF) mà không cần cài đặt Microsoft Office. Nó cung cấp cho các nhà phát triển khả năng kiểm soát chi tiết về việc render, bố cục và xử lý phông chữ.
 
-## Điều kiện tiên quyết
-Trước khi bắt đầu, hãy đảm bảo bạn có:
+## Tại sao nên sử dụng phông chữ tùy chỉnh trong quá trình chuyển đổi?
+Nhúng đúng phông chữ đảm bảo PDF hiển thị giống hệt trên mọi thiết bị, loại bỏ các vấn đề “font fallback”, và tuân thủ các hướng dẫn thương hiệu. Điều này đặc biệt quan trọng đối với các kịch bản **convert word pdf java** như lưu trữ pháp lý, báo cáo doanh nghiệp và tài liệu giáo dục.
 
-- **Bộ phát triển Java (JDK)** được cài đặt trên hệ thống của bạn.
-- Hiểu biết cơ bản về lập trình Java và các công cụ xây dựng như Maven.
-- Một IDE như IntelliJ IDEA hoặc Eclipse để phát triển.
+## Yêu cầu trước
+- **Java Development Kit (JDK)** – version 8 or newer.  
+- **Maven** for dependency management.  
+- Một IDE (IntelliJ IDEA, Eclipse, hoặc VS Code).  
 
-Bao gồm các thư viện cần thiết bằng Maven để đơn giản hóa việc thiết lập.
-
-## Thiết lập GroupDocs.Conversion cho Java
-Để bắt đầu chuyển đổi tài liệu với các tùy chọn nâng cao, hãy thiết lập **GroupDocs.Chuyển đổi**:
-
-### Cấu hình Maven
-Thêm kho lưu trữ và phụ thuộc sau vào `pom.xml` tài liệu:
+## Cài đặt GroupDocs.Conversion cho Java
+Để bắt đầu, thêm repository của GroupDocs và dependency chuyển đổi vào dự án Maven của bạn.
 
 ```xml
 <repositories>
@@ -53,117 +56,126 @@ Thêm kho lưu trữ và phụ thuộc sau vào `pom.xml` tài liệu:
 </dependencies>
 ```
 
-### Mua lại giấy phép
-Bạn có thể bắt đầu với một **dùng thử miễn phí** hoặc có được một **giấy phép tạm thời** để thử nghiệm mở rộng. Đối với mục đích thương mại, hãy cân nhắc mua giấy phép đầy đủ. Truy cập [Cấp phép GroupDocs](https://purchase.groupdocs.com/buy) để khám phá các lựa chọn của bạn.
+### Nhận giấy phép
+Bạn có thể bắt đầu với **free trial** hoặc nhận **temporary license** để thử nghiệm mở rộng. Đối với sử dụng thương mại, hãy cân nhắc mua giấy phép đầy đủ. Truy cập [GroupDocs Licensing](https://purchase.groupdocs.com/buy) để khám phá các tùy chọn.
 
-### Khởi tạo và thiết lập cơ bản
-Sau khi thêm phần phụ thuộc, hãy khởi tạo thư viện GroupDocs trong dự án Java của bạn:
+### Khởi tạo và Cấu hình Cơ bản
+Sau khi thêm dependency, tạo một thể hiện `Converter` trỏ tới file DOCX nguồn của bạn.
 
 ```java
 import com.groupdocs.conversion.Converter;
 
-// Khởi tạo với đường dẫn tài liệu
+// Initialize with a document path
 Converter converter = new Converter("YOUR_DOCUMENT_DIRECTORY/SampleDocx.docx");
 ```
 
-## Hướng dẫn thực hiện
-Phần này sẽ hướng dẫn bạn cách triển khai các tùy chọn phông chữ nâng cao để chuyển đổi tài liệu Word sang PDF bằng GroupDocs.Conversion.
+## Hướng dẫn Triển khai
+Dưới đây là hướng dẫn chi tiết từng bước cho thấy cách **set default font pdf** và định nghĩa các thay thế phông chữ tùy chỉnh.
 
-### Bước 1: Xác định Đường dẫn chuyển đổi và Tùy chọn tải
-Đầu tiên, hãy chỉ định đường dẫn tệp đầu ra và thiết lập tùy chọn tải với phông chữ tùy chỉnh:
+### Bước 1: Xác định Đường dẫn Chuyển đổi và Tùy chọn Tải
+Đầu tiên, chỉ định nơi PDF sẽ được lưu và cấu hình các tùy chọn tải để kiểm soát việc xử lý phông chữ.
 
 ```java
 import com.groupdocs.conversion.options.load.WordProcessingLoadOptions;
 import com.groupdocs.conversion.contracts.FontSubstitute;
 
-// Đường dẫn PDF đầu ra
+// Output PDF path
 String convertedFile = "YOUR_OUTPUT_DIRECTORY/ConvertedWordToPdf.pdf";
 
-// Cấu hình tùy chọn tải cho tài liệu Word
-double autoFontSubstitution(false);  // Tắt tính năng tự động thay thế phông chữ
-defaultFont("resources/fonts/Helvetica.ttf");  // Đặt phông chữ dự phòng mặc định
+// Configure load options for Word documents
+double autoFontSubstitution(false);  // Disable automatic font substitution
+defaultFont("resources/fonts/Helvetica.ttf");  // Set a default fallback font
 
-// Chuẩn bị danh sách phông chữ thay thế
+// Prepare font substitutes list
 List<FontSubstitute> fontSubstitutes = new ArrayList<>();
-fontSubstitutes.add(FontSubstitute.create("Tahoma", "Arial")); // Thay thế Tahoma bằng Arial
-fontSubstitutes.add(FontSubstitute.create("Times New Roman", "Arial")); // Thay thế Times New Roman bằng Arial
+fontSubstitutes.add(FontSubstitute.create("Tahoma", "Arial")); // Substitute Tahoma with Arial
+fontSubstitutes.add(FontSubstitute.create("Times New Roman", "Arial")); // Substitute Times New Roman with Arial
 
-// Áp dụng các thay thế để tải các tùy chọn
+// Apply the substitutes to load options
 setFontSubstitutes(fontSubstitutes);
 ```
 
-#### Giải thích:
-- `setAutoFontSubstitution(false)`: Vô hiệu hóa tính năng thay thế tự động, cho phép kiểm soát chính xác việc xử lý phông chữ.
-- `setDefaultFont("Helvetica.ttf")`: Đặt phông chữ dự phòng chung nếu không có sẵn các phông chữ thay thế cụ thể.
-- `setFontSubstitutes(...)`: Xác định ánh xạ tùy chỉnh giữa các phông chữ để đảm bảo tính nhất quán.
+#### Explanation
+- `setAutoFontSubstitution(false)`: Tắt việc đoán tự động của thư viện, cho phép bạn kiểm soát hoàn toàn.  
+- `setDefaultFont("Helvetica.ttf")`: Cung cấp một fallback chung khi phông chữ yêu cầu không được tìm thấy.  
+- `setFontSubstitutes(...)`: Ánh xạ các phông chữ thiếu tới các lựa chọn thay thế mà bạn biết đã có trên hệ thống đích.
 
-### Bước 2: Cấu hình Tùy chọn chuyển đổi PDF
-Tiếp theo, thiết lập tùy chọn chuyển đổi dành riêng cho PDF:
+### Bước 2: Cấu hình Tùy chọn Chuyển đổi PDF
+Bây giờ tạo đối tượng tùy chọn dành riêng cho PDF.
 
 ```java
 import com.groupdocs.conversion.options.convert.PdfConvertOptions;
 
-// Khởi tạo tùy chọn chuyển đổi PDF
+// Initialize PDF conversion options
 double options = new PdfConvertOptions();
 ```
 
-#### Giải thích:
-- `PdfConvertOptions`: Cấu hình các thiết lập phù hợp với đầu ra PDF. Tùy chỉnh các thuộc tính bổ sung như lề trang và hướng.
+Bạn có thể mở rộng `PdfConvertOptions` sau này để điều chỉnh kích thước trang, lề, hoặc cài đặt nén.
 
-### Bước 3: Thực hiện chuyển đổi
-Thực hiện chuyển đổi tài liệu bằng các tùy chọn đã cấu hình của bạn:
+### Bước 3: Thực hiện Chuyển đổi
+Cuối cùng, chạy quá trình chuyển đổi với các tùy chọn tải và chuyển đổi đã định nghĩa trước.
 
 ```java
-// Chuyển đổi tài liệu Word sang PDF với cài đặt phông chữ được chỉ định
+// Convert Word document to PDF with specified font settings
 converter.convert(convertedFile, () -> loadOptions, options);
 ```
 
-#### Giải thích:
-- `convert(...)`Thực hiện quy trình chuyển đổi, áp dụng các tùy chọn tải và chuyển đổi đã xác định.
+API đọc file DOCX, áp dụng các quy tắc phông chữ của bạn, và ghi ra PDF nhúng các phông chữ đã chọn.
 
-## Ứng dụng thực tế
-1. **Quản lý văn bản pháp lý**: Đảm bảo sử dụng phông chữ thống nhất trên các tài liệu pháp lý được chuyển đổi để lưu trữ.
-2. **Ngành xuất bản**: Duy trì tiêu chuẩn về kiểu chữ trong các ấn phẩm kỹ thuật số.
-3. **Báo cáo doanh nghiệp**: Sử dụng phông chữ thống nhất trong các báo cáo của công ty được phân phối dưới dạng PDF cho khách hàng hoặc các bên liên quan.
-4. **Tài liệu giáo dục**: Chuyển đổi ghi chú bài giảng và nội dung giáo dục có yêu cầu về kiểu chữ cụ thể.
+## Ứng dụng Thực tiễn
+1. **Legal Document Management** – Quản lý Tài liệu Pháp lý – Giữ nguyên kiểu chữ chính xác cho các PDF sẵn sàng cho tòa án.  
+2. **Publishing Industry** – Ngành Xuất bản – Duy trì phông chữ thương hiệu đồng nhất trên e‑book và catalogue.  
+3. **Corporate Reports** – Báo cáo Doanh nghiệp – Đảm bảo các PDF hướng tới các bên liên quan phù hợp với hướng dẫn phong cách công ty.  
+4. **Educational Material** – Tài liệu Giáo dục – Chuyển đổi ghi chú bài giảng trong khi giữ lại các phông chữ học thuật tùy chỉnh.
 
-## Cân nhắc về hiệu suất
-Việc tối ưu hóa hiệu suất là rất quan trọng đối với việc chuyển đổi tài liệu quy mô lớn:
+## Các yếu tố Hiệu năng
+- **Memory Management** – Quản lý bộ nhớ – Các file DOCX lớn có thể tiêu tốn heap đáng kể; giám sát bộ nhớ JVM và cân nhắc điều chỉnh `-Xmx`.  
+- **Batch Processing** – Xử lý hàng loạt – Đặt logic chuyển đổi trong vòng lặp hoặc sử dụng batch API của GroupDocs để xử lý nhiều file hiệu quả.  
+- **Resource Allocation** – Phân bổ tài nguyên – Cấp phát đủ lõi CPU khi chuyển đổi nhiều tài liệu đồng thời.
 
-- **Quản lý bộ nhớ**: Theo dõi mức sử dụng bộ nhớ Java, đặc biệt là đối với các tác vụ có khối lượng lớn.
-- **Xử lý hàng loạt**: Thực hiện chuyển đổi hàng loạt để giảm thiểu mức tiêu thụ tài nguyên.
-- **Phân bổ nguồn lực**: Đảm bảo đủ tài nguyên hệ thống (CPU và RAM) trong suốt quá trình.
+## Các vấn đề thường gặp và Giải pháp
+| Vấn đề | Giải pháp |
+|-------|----------|
+| Phông chữ không được thay thế | Xác minh rằng các file phông chữ tồn tại ở các đường dẫn bạn cung cấp và rằng các tên `FontSubstitute` khớp chính xác với tên họ phông chữ trong DOCX nguồn. |
+| Lỗi hết bộ nhớ | Tăng kích thước heap JVM (`-Xmx2g` hoặc cao hơn) hoặc xử lý các file thành các lô nhỏ hơn. |
+| PDF thiếu phông chữ nhúng | Đảm bảo `setDefaultFont` trỏ tới file TrueType (`.ttf`) hoặc OpenType (`.otf`) và giấy phép cho phép nhúng phông chữ. |
 
-## Phần kết luận
-Bạn đã học cách chuyển đổi tài liệu Word sang PDF với các tùy chọn phông chữ nâng cao bằng GroupDocs.Conversion trong Java. Tính năng này cho phép kiểm soát chính xác giao diện tài liệu, đảm bảo tính nhất quán trên các nền tảng.
+## Câu hỏi Thường gặp
+
+**Q: Tôi có thể sử dụng GroupDocs.Conversion mà không mua giấy phép không?**  
+A: Có, bạn có thể bắt đầu với free trial hoặc nhận temporary license để đánh giá.
+
+**Q: Tôi nên làm gì nếu phông chữ không được thay thế đúng?**  
+A: Đảm bảo rằng các file phông chữ có thể truy cập và được tham chiếu chính xác trong `setFontSubstitutes`. Kiểm tra lại tên họ phông chữ một cách cẩn thận.
+
+**Q: Làm sao cải thiện hiệu năng chuyển đổi cho tài liệu lớn?**  
+A: Xử lý tài liệu theo lô, giám sát tài nguyên hệ thống, và cân nhắc tăng kích thước heap JVM.
+
+**Q: Có thể chuyển đổi các loại tài liệu khác ngoài Word không?**  
+A: Chắc chắn. GroupDocs Conversion hỗ trợ hình ảnh, bảng tính, bản trình chiếu và nhiều định dạng khác.
+
+**Q: Tôi có thể tìm tài liệu bổ sung cho GroupDocs.Conversion ở đâu?**  
+A: Truy cập các hướng dẫn chính thức tại [GroupDocs Java Conversion Docs](https://docs.groupdocs.com/conversion/java/) để xem chi tiết API.
+
+## Kết luận
+Bạn hiện đã có một giải pháp hoàn chỉnh, sẵn sàng cho môi trường sản xuất để **convert docx to pdf** với việc xử lý phông chữ tùy chỉnh bằng **groupdocs conversion java**. Bằng cách cấu hình thay thế phông chữ và phông chữ mặc định, bạn đảm bảo mọi PDF đều phản ánh đúng giao diện của tài liệu Word gốc, bất kể nơi nào được xem.
 
 ### Các bước tiếp theo
-- Khám phá các tính năng khác của GroupDocs.Conversion như chuyển đổi hình ảnh và bảng tính.
-- Thử nghiệm các tùy chọn tùy chỉnh bổ sung có sẵn trong thư viện.
+- Thử nghiệm các `PdfConvertOptions` bổ sung như nén hình ảnh hoặc tuân thủ PDF/A.  
+- Khám phá chuyển đổi hàng loạt để tự động hoá các pipeline tài liệu quy mô lớn.  
+- Xem lại toàn bộ API trong tài liệu chính thức để mở khóa các tính năng nâng cao hơn.
 
-Sẵn sàng áp dụng các kỹ năng mới của bạn? Triển khai giải pháp này vào dự án của bạn ngay hôm nay!
+---
 
-## Phần Câu hỏi thường gặp
-**Câu hỏi 1: Tôi có thể sử dụng GroupDocs.Conversion mà không cần mua giấy phép không?**
-A1: Có, bạn có thể bắt đầu bằng bản dùng thử miễn phí hoặc xin giấy phép tạm thời để thử nghiệm.
+**Cập nhật lần cuối:** 2026-01-13  
+**Kiểm thử với:** GroupDocs.Conversion 25.2  
+**Tác giả:** GroupDocs  
 
-**Câu hỏi 2: Tôi phải làm gì nếu phông chữ không thay thế đúng cách?**
-A2: Đảm bảo các tập tin phông chữ có thể truy cập được và được chỉ định trong `setFontSubstitutes`. Kiểm tra lại đường dẫn tệp.
-
-**Câu hỏi 3: Làm thế nào để tối ưu hóa hiệu suất chuyển đổi cho các tài liệu lớn?**
-A3: Xử lý tài liệu theo từng đợt và giám sát tài nguyên hệ thống để tránh tình trạng tắc nghẽn.
-
-**Câu hỏi 4: Có thể chuyển đổi các loại tài liệu khác ngoài Word bằng GroupDocs.Conversion không?**
-A4: Có, thư viện hỗ trợ các định dạng bao gồm hình ảnh, bảng tính, bản trình bày, v.v.
-
-**Câu hỏi 5: Tôi có thể tìm thêm tài liệu về GroupDocs.Conversion ở đâu?**
-A5: Ghé thăm [Tài liệu chuyển đổi Java của GroupDocs](https://docs.groupdocs.com/conversion/java/) để có hướng dẫn toàn diện và tài liệu tham khảo API.
-
-## Tài nguyên
-- **Tài liệu**: [Tài liệu chuyển đổi Java của GroupDocs](https://docs.groupdocs.com/conversion/java/)
-- **Tài liệu tham khảo API**: [Tài liệu tham khảo API GroupDocs](https://reference.groupdocs.com/conversion/java/)
-- **Tải về**: [Nhận GroupDocs.Conversion](https://releases.groupdocs.com/conversion/java/)
-- **Mua**: [Mua giấy phép](https://purchase.groupdocs.com/buy)
-- **Dùng thử miễn phí**: [Tải xuống bản dùng thử](https://releases.groupdocs.com/conversion/java/)
-- **Giấy phép tạm thời**: [Yêu cầu Giấy phép tạm thời](https://purchase.groupdocs.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn hỗ trợ GroupDocs](https://forum.groupdocs.com/c/conversion/10)
+**Tài nguyên**  
+- **Documentation:** [GroupDocs Java Conversion Docs](https://docs.groupdocs.com/conversion/java/)  
+- **API Reference:** [GroupDocs API Reference](https://reference.groupdocs.com/conversion/java/)  
+- **Download:** [Get GroupDocs.Conversion](https://releases.groupdocs.com/conversion/java/)  
+- **Purchase:** [Buy a License](https://purchase.groupdocs.com/buy)  
+- **Free Trial:** [Trial Downloads](https://releases.groupdocs.com/conversion/java/)  
+- **Temporary License:** [Request Temporary License](https://purchase.groupdocs.com/temporary-license/)  
+- **Support:** [GroupDocs Support Forum](https://forum.groupdocs.com/c/conversion/10)
