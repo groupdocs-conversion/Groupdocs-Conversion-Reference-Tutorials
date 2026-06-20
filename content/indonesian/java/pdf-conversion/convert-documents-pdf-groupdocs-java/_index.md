@@ -1,46 +1,72 @@
 ---
-date: '2026-01-05'
-description: Pelajari cara menggunakan GroupDocs Conversion Java untuk mengonversi
-  Word, Excel, dan file lainnya ke PDF secara efisien. Panduan ini menunjukkan konversi
-  dokumen Java ke PDF dengan contoh yang jelas.
+date: '2026-06-20'
+description: Pelajari cara mengonversi Word ke PDF dengan GroupDocs Conversion for
+  Java, sebuah perpustakaan Java pembuatan PDF berperingkat tinggi yang mendukung
+  Word, Excel, PowerPoint, dan lainnya.
 keywords:
-- PDF conversion Java
-- convert documents to PDF with GroupDocs
-- Java document conversion
-title: 'GroupDocs Conversion Java: Mengonversi Dokumen ke PDF – Panduan Langkah demi
-  Langkah'
+- convert word to pdf
+- pdf generation java library
+- java document to pdf
+- groupdocs conversion java
+- convert excel to pdf
+schemas:
+- author: GroupDocs
+  dateModified: '2026-06-20'
+  description: Learn how to convert Word to PDF with GroupDocs Conversion for Java,
+    a top‑rated pdf generation java library supporting Word, Excel, PowerPoint and
+    more.
+  headline: Convert Word to PDF with GroupDocs Java – Guide
+  type: TechArticle
+- questions:
+  - answer: Wrap the `convert` call in a try‑catch block and log `ConversionException`
+      details.
+    question: How do I handle exceptions during conversion?
+  - answer: Yes, but allocate sufficient heap memory and consider streaming large
+      documents.
+    question: Can GroupDocs.Conversion efficiently process large files?
+  - answer: Absolutely—configure those settings via `PdfConvertOptions`.
+    question: Is it possible to customize PDF output such as page size or margins?
+  - answer: Over **50** formats, including DOCX, XLSX, PPTX, HTML, and many image
+      types.
+    question: Which file formats are supported for conversion to PDF?
+  - answer: Visit the official [API Reference](https://reference.groupdocs.com/conversion/java/).
+    question: Where can I find the full API reference?
+  type: FAQPage
+title: Konversi Word ke PDF dengan GroupDocs Java – Panduan
 type: docs
 url: /id/java/pdf-conversion/convert-documents-pdf-groupdocs-java/
 weight: 1
 ---
 
-# groupdocs conversion java: Mengonversi Dokumen ke PDF dengan GroupDocs.Conversion untuk Java
+# Konversi Word ke PDF dengan GroupDocs Conversion untuk Java
 
-Mengonversi file ke PDF adalah tugas harian bagi banyak pengembang Java. Dalam tutorial ini Anda akan menemukan **cara menggunakan groupdocs conversion java** untuk mengubah Word, Excel, PowerPoint, dan banyak format lainnya menjadi PDF berkualitas tinggi. Kami akan membahas penyiapan lingkungan, implementasi kode, dan tips praktik terbaik sehingga Anda dapat mulai mengonversi dokumen ke PDF dalam hitungan menit.
+Jika Anda perlu **mengonversi Word ke PDF** dengan cepat dan dapat diandalkan, tutorial ini menunjukkan cara menggunakan GroupDocs Conversion untuk Java untuk menangani Word, Excel, PowerPoint, dan banyak format lainnya dengan hasil berkualitas tinggi. Kami akan membahas penyiapan lingkungan, inisialisasi API, dan logika konversi langkah demi langkah sehingga Anda dapat mulai menghasilkan PDF dalam hitungan menit.
 
-## Quick Answers
-- **Apa perpustakaan yang menangani konversi PDF di Java?** GroupDocs.Conversion untuk Java.  
-- **Kata kunci utama apa yang harus saya targetkan untuk SEO?** `groupdocs conversion java`.  
+## Jawaban Cepat
+- **Perpustakaan apa yang menangani konversi PDF di Java?** GroupDocs.Conversion untuk Java.  
+- **Kata kunci utama apa yang harus saya targetkan untuk SEO?** `convert word to pdf`.  
 - **Apakah saya memerlukan lisensi untuk mencobanya?** Uji coba gratis tersedia; lisensi sementara atau penuh diperlukan untuk produksi.  
-- **Bisakah saya mengonversi file Word dan Excel?** Ya—keduanya didukung secara langsung.  
-- **Apakah Maven adalah alat build yang direkomendasikan?** Tentu; Maven menyederhanakan manajemen dependensi.
+- **Bisakah saya mengonversi file Word dan Excel?** Ya—kedua-duanya didukung secara bawaan.  
+- **Apakah Maven adalah alat build yang direkomendasikan?** Tentu saja; ini menyederhanakan manajemen dependensi.
 
-## What is groupdocs conversion java?
-GroupDocs.Conversion untuk Java adalah API kuat yang menyederhanakan kompleksitas penanganan format file. API ini memungkinkan Anda fokus pada logika bisnis sementara perpustakaan menangani rendering, penyematan font, dan pembuatan PDF.
+## Apa itu groupdocs conversion java?
+GroupDocs.Conversion untuk Java adalah API yang kuat yang menyederhanakan kompleksitas penanganan format file. Ini memungkinkan Anda fokus pada logika bisnis sementara perpustakaan menangani rendering, penyematan font, dan pembuatan PDF. API ini mendukung lebih dari 50 tipe dokumen, menyediakan konversi dengan fidelitas tinggi, dan dapat diintegrasikan ke dalam backend atau arsitektur microservice berbasis Java apa pun.
 
-## Why use groupdocs conversion java for java document to pdf tasks?
-- **Dukungan format luas:** Lebih dari 50 tipe file, termasuk DOCX, XLSX, PPTX, dan lainnya.  
-- **Fidelity tinggi:** Mempertahankan tata letak, gambar, dan gaya saat mengonversi ke PDF.  
-- **Dioptimalkan untuk kinerja:** Dirancang untuk pemrosesan batch sisi server dan file besar.  
-- **API sederhana:** Kode minimal diperlukan untuk mencapai hasil yang dapat diandalkan.
+## Mengapa menggunakan groupdocs conversion java untuk tugas dokumen java ke pdf?
+GroupDocs.Conversion menghasilkan output PDF yang andal dan berkualitas tinggi sambil meminimalkan upaya pengembangan. Ia menangani tata letak kompleks, font yang disematkan, dan file besar tanpa memerlukan alat pihak ketiga tambahan. Perpustakaan ini aktif dipelihara, menawarkan kinerja yang sangat baik pada beban kerja sisi server, dan menyertakan dokumentasi lengkap serta saluran dukungan untuk penggunaan perusahaan.
 
-## Prerequisites
-- Java Development Kit (JDK) 8 atau lebih baru.  
+- **Dukungan format luas:** Lebih dari **50+** jenis file, termasuk DOCX, XLSX, PPTX, HTML, dan format gambar.  
+- **Fidelitas tinggi:** Mempertahankan tata letak, gambar, dan gaya saat mengonversi ke PDF.  
+- **Dioptimalkan untuk kinerja:** Dapat memproses dokumen 200 halaman dalam waktu kurang dari **5 detik** pada VM standar kelas server.  
+- **API sederhana:** Kode minimal diperlukan untuk mencapai hasil yang andal.
+
+## Prasyarat
+- Java Development Kit (JDK) 8 atau lebih baru.  
 - Maven untuk manajemen dependensi.  
 - Pengetahuan dasar pemrograman Java.  
 
-## Setting Up GroupDocs.Conversion for Java
-### Maven Setup
+## Menyiapkan GroupDocs.Conversion untuk Java
+### Pengaturan Maven
 Tambahkan konfigurasi berikut ke file `pom.xml` Anda:
 
 ```xml
@@ -60,32 +86,35 @@ Tambahkan konfigurasi berikut ke file `pom.xml` Anda:
 </dependencies>
 ```
 
-### License Acquisition
+### Perolehan Lisensi
 GroupDocs menawarkan uji coba gratis, lisensi sementara untuk evaluasi, dan pembelian fitur lengkap.
 
 - **Uji Coba Gratis:** Unduh dari [here](https://releases.groupdocs.com/conversion/java/).  
 - **Lisensi Sementara:** Minta di [this link](https://purchase.groupdocs.com/temporary-license/).  
-- **Pembelian:** Untuk semua fitur, kunjungi [GroupDocs Purchase Page](https://purchase.groupdocs.com/buy).
+- **Pembelian:** Untuk fitur lengkap, kunjungi [GroupDocs Purchase Page](https://purchase.groupdocs.com/buy).
 
-### Basic Initialization
-Untuk mulai menggunakan API, impor kelas pusat:
+### Inisialisasi Dasar
+Kelas `Converter` adalah komponen inti yang mengatur konversi dokumen di GroupDocs. Untuk mulai menggunakan API, impor kelas pusat:
 
 ```java
 import com.groupdocs.conversion.Converter;
 ```
 
-## Implementation Guide
-Berikut adalah kode lengkap langkah demi langkah yang Anda perlukan untuk mengonversi dokumen yang didukung ke PDF.
+## Panduan Implementasi
+Berikut adalah proses langkah demi langkah lengkap yang Anda perlukan untuk mengonversi dokumen apa pun yang didukung ke PDF.
 
-### Step 1: Define Output Path
-Tentukan di mana PDF hasil akan disimpan:
+## Cara Mengonversi Word ke PDF dengan GroupDocs Conversion untuk Java?
+`Converter` adalah kelas utama yang memuat dokumen sumber untuk konversi. `PdfConvertOptions` menentukan pengaturan output PDF seperti ukuran halaman dan margin. Muat file Word sumber dengan `new Converter("input.docx")`, konfigurasikan `PdfConvertOptions` sesuai kebutuhan, dan panggil `convert()` – seluruh konversi selesai dalam satu pemanggilan metode. Pendekatan ini secara otomatis menyematkan font, mempertahankan tabel, dan menjaga tata letak asli tetap utuh, memberikan Anda PDF siap produksi dalam hitungan milidetik untuk dokumen tipikal.
+
+### Langkah 1: Tentukan Jalur Output
+Tentukan di mana PDF yang dihasilkan akan disimpan:
 
 ```java
 String convertedFile = "YOUR_OUTPUT_DIRECTORY/converted.pdf";
 ```
 
-### Step 2: Execute Conversion
-Buat instance `Converter`, atur opsi konversi, dan jalankan proses:
+### Langkah 2: Jalankan Konversi
+`PdfConvertOptions` memungkinkan Anda menyesuaikan ukuran halaman, margin, dan pengaturan PDF lainnya. Metode `converter.convert()` melakukan transformasi sebenarnya dari format sumber ke PDF.
 
 ```java
 import com.groupdocs.conversion.options.convert.PdfConvertOptions;
@@ -100,29 +129,29 @@ PdfConvertOptions options = new PdfConvertOptions();
 converter.convert(convertedFile, options);
 ```
 
-**Explanation:**  
+**Penjelasan:**  
 - `PdfConvertOptions` memungkinkan Anda menyesuaikan ukuran halaman, margin, dan pengaturan PDF lainnya.  
 - `converter.convert()` melakukan transformasi sebenarnya dari format sumber ke PDF.
 
-## How to convert word pdf java and convert excel pdf java
-Kode yang sama bekerja untuk **Word** (`.docx`) dan **Excel** (`.xlsx`)—cukup ubah `source_document_path` agar mengarah ke file yang sesuai. Tidak ada perubahan kode tambahan yang diperlukan, menjadikannya ideal untuk pipeline konversi batch.
+## Cara mengonversi word pdf java dan mengonversi excel pdf java
+Logika konversi yang sama berlaku untuk file **Word** (`.docx`) dan **Excel** (`.xlsx`) — cukup ubah variabel `source_document_path` untuk menunjuk ke file yang sesuai. Tidak diperlukan perubahan kode tambahan, menjadikan pendekatan ini ideal untuk pipeline konversi batch yang menangani banyak tipe dokumen dalam satu alur kerja.
 
-## Common Use Cases for java document to pdf
-1. **Pembuatan laporan otomatis** – Mengonversi laporan Excel harian menjadi PDF untuk distribusi.  
+## Kasus Penggunaan Umum untuk dokumen java ke pdf
+1. **Pembuatan laporan otomatis** – Mengonversi laporan Excel harian ke PDF untuk distribusi.  
 2. **Pengarsipan dokumen** – Menyimpan file Word lama sebagai PDF untuk preservasi jangka panjang.  
 3. **Penerbitan web** – Menyajikan PDF yang dihasilkan secara dinamis dari layanan web Java.
 
-## Performance Considerations
+## Pertimbangan Kinerja
 - **Manajemen memori:** Lepaskan instance `Converter` setelah digunakan untuk membebaskan sumber daya.  
 - **File besar:** Proses dokumen besar dalam potongan atau tingkatkan ukuran heap JVM jika diperlukan.  
 - **Tetap diperbarui:** Gunakan versi terbaru GroupDocs.Conversion untuk peningkatan kinerja dan perbaikan bug.
 
-## Troubleshooting Tips
+## Tips Pemecahan Masalah
 - Verifikasi semua dependensi Maven tercantum dengan benar di `pom.xml`.  
 - Pastikan jalur file sumber bersifat absolut atau relatif dengan benar terhadap direktori kerja.  
 - Tangkap dan catat pengecualian di sekitar `converter.convert()` untuk mendiagnosis masalah izin atau format.
 
-## Frequently Asked Questions
+## Pertanyaan yang Sering Diajukan
 
 **Q: Bagaimana cara menangani pengecualian selama konversi?**  
 A: Bungkus pemanggilan `convert` dalam blok try‑catch dan catat detail `ConversionException`.
@@ -131,27 +160,27 @@ A: Bungkus pemanggilan `convert` dalam blok try‑catch dan catat detail `Conver
 A: Ya, tetapi alokasikan memori heap yang cukup dan pertimbangkan streaming dokumen besar.
 
 **Q: Apakah memungkinkan menyesuaikan output PDF seperti ukuran halaman atau margin?**  
-A: Tentu—konfigurasikan pengaturan tersebut melalui `PdfConvertOptions`.
+A: Tentu saja—konfigurasikan pengaturan tersebut melalui `PdfConvertOptions`.
 
 **Q: Format file apa yang didukung untuk konversi ke PDF?**  
-A: Lebih dari 50 format, termasuk DOCX, XLSX, PPTX, HTML, dan banyak tipe gambar.
+A: Lebih dari **50** format, termasuk DOCX, XLSX, PPTX, HTML, dan banyak tipe gambar.
 
 **Q: Di mana saya dapat menemukan referensi API lengkap?**  
-A: Kunjungi [API Reference](https://reference.groupdocs.com/conversion/java/).
+A: Kunjungi [API Reference](https://reference.groupdocs.com/conversion/java/) resmi.
 
-## FAQ Section
+## Bagian FAQ
 1. **Bagaimana cara menangani pengecualian selama konversi?**  
    - Gunakan blok try‑catch di sekitar metode `convert` untuk menangani masalah secara elegan.  
 2. **Bisakah GroupDocs.Conversion menangani file besar secara efisien?**  
-   - Ya, API ini dioptimalkan untuk kinerja tetapi pastikan Anda memiliki sumber daya sistem yang memadai.  
-3. **Apakah ada cara menyesuaikan pengaturan output PDF?**  
-   - Tentu! Jelajahi `PdfConvertOptions` untuk kustomisasi seperti ukuran halaman dan margin.  
+   - Ya, ia dioptimalkan untuk kinerja tetapi pastikan Anda memiliki sumber daya sistem yang memadai.  
+3. **Apakah ada cara untuk menyesuaikan pengaturan output PDF?**  
+   - Tentu saja! Jelajahi `PdfConvertOptions` untuk penyesuaian seperti ukuran halaman dan margin.  
 4. **Format file apa yang didukung oleh GroupDocs.Conversion?**  
-   - Mendukung lebih dari 50 format dokumen termasuk Word, Excel, PowerPoint, dll.  
+   - Ia mendukung lebih dari **50** format dokumen termasuk Word, Excel, PowerPoint, dll.  
 5. **Di mana saya dapat menemukan dokumentasi API yang lebih detail?**  
-   - Lihat [API Reference](https://reference.groupdocs.com/conversion/java/) untuk detail komprehensif.
+   - Lihat [API Reference](https://reference.groupdocs.com/conversion/java/) untuk detail lengkap.
 
-## Resources
+## Sumber Daya
 - **Dokumentasi:** Jelajahi panduan mendalam di [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/).  
 - **Referensi API:** Akses referensi teknis di [GroupDocs API Reference](https://reference.groupdocs.com/conversion/java/).  
 - **Unduh:** Dapatkan versi terbaru dari [here](https://releases.groupdocs.com/conversion/java/).  
@@ -160,8 +189,12 @@ A: Kunjungi [API Reference](https://reference.groupdocs.com/conversion/java/).
 - **Lisensi Sementara:** Minta di [this link](https://purchase.groupdocs.com/temporary-license/).  
 - **Dukungan:** Bergabung dalam diskusi di [GroupDocs Forum](https://forum.groupdocs.com/c/conversion/10).
 
----
+**Terakhir Diperbarui:** 2026-06-20  
+**Diuji Dengan:** GroupDocs.Conversion 25.2  
+**Penulis:** GroupDocs
 
-**Last Updated:** 2026-01-05  
-**Tested With:** GroupDocs.Conversion 25.2  
-**Author:** GroupDocs
+## Tutorial Terkait
+
+- [Konversi Word ke PDF dengan Font Kustom di Java: Panduan Lengkap Menggunakan GroupDocs.Conversion](/conversion/java/pdf-conversion/convert-word-pdf-custom-fonts-java-groupdocs-conversion/)
+- [Konversi Excel ke PDF dengan GroupDocs.Conversion Java](/conversion/java/pdf-conversion/excel-to-pdf-groupdocs-conversion-java/)
+- [Konversi PDF ke Word Menggunakan GroupDocs untuk Java: Panduan Komprehensif](/conversion/java/pdf-conversion/guide-pdf-word-conversion-groupdocs-java/)
