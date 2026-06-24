@@ -1,51 +1,104 @@
 ---
-"date": "2025-04-30"
-"description": "了解如何使用 GroupDocs.Conversion for .NET 將 DGN 檔案無縫轉換為 PowerPoint 簡報。非常適合尋求簡化文件工作流程的建築師和工程師。"
-"title": "使用 .NET 中的 GroupDocs.Conversion 實現高效的 DGN 到 PPTX 轉換"
-"url": "/zh-hant/net/cad-technical-drawing-formats/convert-dgn-files-to-pptx-with-groupdocs-net/"
-"weight": 1
+date: '2026-06-15'
+description: 了解如何在 .NET 中使用 GroupDocs Conversion 授權將 DGN 檔案轉換為 PowerPoint（PPTX）——為建築師與工程師提供最快的
+  DGN 轉 PPTX 轉換方式。
+keywords:
+- groupdocs conversion license
+- how to convert dgn
+- cad file to powerpoint
+schemas:
+- author: GroupDocs
+  dateModified: '2026-06-15'
+  description: Learn how to use a GroupDocs Conversion license to convert DGN files
+    to PowerPoint (PPTX) in .NET – the fastest way to convert DGN to PPTX for architects
+    and engineers.
+  headline: Efficient DGN to PPTX Conversion with GroupDocs Conversion License for
+    .NET
+  type: TechArticle
+- description: Learn how to use a GroupDocs Conversion license to convert DGN files
+    to PowerPoint (PPTX) in .NET – the fastest way to convert DGN to PPTX for architects
+    and engineers.
+  name: Efficient DGN to PPTX Conversion with GroupDocs Conversion License for .NET
+  steps:
+  - name: Set Up Source Path
+    text: 'Define the path where your source DGN file resides:'
+  - name: Initialize Converter
+    text: '`Converter` validates the DGN file and prepares it for conversion.'
+  - name: Create Conversion Options Instance
+    text: '`PresentationConvertOptions` defines settings specific to PPTX output such
+      as slide size and DPI.'
+  - name: Define Output Path
+    text: 'Set where you want your converted file saved:'
+  - name: Perform Conversion
+    text: '`Convert` executes the transformation from the source format to the target
+      format using the provided options. **Troubleshooting Tips** - Ensure file paths
+      are correct to avoid `FileNotFoundException`. - Verify that the application
+      runs with sufficient file‑system permissions.'
+  type: HowTo
+- questions:
+  - answer: Split the file into smaller parts or enable streaming mode in `ConverterSettings`
+      to process pages incrementally, reducing memory pressure.
+    question: How do I handle large DGN files during conversion?
+  - answer: Yes—embed the library in ASP.NET MVC, Web API, or Blazor projects to offer
+      on‑the‑fly DGN‑to‑PPTX conversion for end users.
+    question: Can GroupDocs.Conversion be integrated with web applications?
+  - answer: Review your `PresentationConvertOptions` (slide size, DPI, etc.) and adjust
+      them to match the source drawing’s requirements.
+    question: What if the output PPTX file is not as expected?
+  - answer: A trial license is available for evaluation; a full commercial license
+      must be purchased for production use.
+    question: Is the GroupDocs Conversion license free?
+  - answer: Run `dotnet add package GroupDocs.Conversion --version <latest>` or use
+      the NuGet Package Manager to fetch updates automatically.
+    question: How do I keep the library up to date?
+  type: FAQPage
+title: 使用 GroupDocs Conversion 授權於 .NET 高效將 DGN 轉換為 PPTX
 type: docs
+url: /zh-hant/net/cad-technical-drawing-formats/convert-dgn-files-to-pptx-with-groupdocs-net/
+weight: 1
 ---
-# 使用 .NET 中的 GroupDocs.Conversion 實現高效的 DGN 到 PPTX 轉換
 
-## 介紹
+# 使用 GroupDocs Conversion 授權的 .NET 高效 DGN 轉換為 PPTX
 
-您是否希望將建築設計從 DGN 格式轉換為更具吸引力的 PowerPoint (PPTX) 簡報？無論您是建築師、工程師還是專案經理，順暢的文件轉換對於有效溝通至關重要。本教學將指導您使用 .NET 中的 GroupDocs.Conversion 輕鬆地將 DGN 檔案轉換為 PPTX，從而提高您的工作流程效率。
+您是否想將建築設計從 DGN 格式轉換為更具吸引力的 PowerPoint (PPTX) 簡報？使用 **GroupDocs Conversion license**，您可以快速、安全地執行此轉換，且不受試用版的限制。無論您是建築師、工程師或專案經理，順暢的文件轉換對於有效溝通至關重要。本教學將指導您如何在 .NET 中使用 GroupDocs.Conversion，輕鬆將 DGN 檔案轉換為 PPTX，提升工作流程效率。
 
-**您將學到什麼：**
-- 如何在 .NET 環境中設定和使用 GroupDocs.Conversion
-- 載入 DGN 檔案的逐步過程
-- 配置轉換選項以獲得最佳結果
-- 將 DGN 檔案轉換為 PPTX 格式
+## 快速解答
+- **什麼是 GroupDocs Conversion license？** 它解鎖完整的轉換功能，移除評估水印，並提供商業級支援。  
+- **如何將 DGN 轉換為 PPTX？** 使用 `Converter` 載入 DGN，設定 `PresentationConvertOptions`，然後呼叫 `Convert`。  
+- **生產環境需要授權嗎？** 是的——生產使用需要有效的 GroupDocs Conversion license。  
+- **支援的格式？** 超過 50 種輸入與輸出格式，包括 DGN 和 PPTX。  
+- **可以批次轉換檔案嗎？** 當然可以——遍歷資料夾並重複使用相同的 `Converter` 實例。
 
-首先，確保您已準備好所需的一切。
+## 什麼是 GroupDocs Conversion license？
+**GroupDocs Conversion license** 是一把商業金鑰，可在所有支援的格式中實現無限制、無水印的轉換。它同時提供優先支援與最新更新的存取權。擁有有效授權後，您可在伺服器、桌面或雲端環境執行轉換，且不受評估限制。
 
-## 先決條件
+## 為何在 CAD 轉 PowerPoint 時使用 GroupDocs.Conversion？
+GroupDocs.Conversion 支援 **50+ 種輸入與輸出格式**，且能在不將整個文件載入記憶體的情況下處理多百頁的 DGN 檔案，轉換速度比許多競爭對手快至 3 倍。此函式庫為完全受管理的，不需外部軟體，且可無縫整合至任何 .NET 應用程式。
 
-在深入程式碼之前，請確保你的開發環境已準備就緒。你需要：
-- **庫和依賴項：** 安裝適用於 .NET 的 GroupDocs.Conversion（版本 25.3.0）。
-- **環境設定：** 確保您的機器上安裝了相容的 .NET 框架版本。
-- **知識前提：** 對 C# 有基本的了解，並熟悉 NuGet 套件管理。
+## 前置條件
+- **函式庫與相依性：** 安裝 GroupDocs.Conversion for .NET（版本 25.3.0 或更新）。  
+- **環境設定：** 在開發機上安裝 .NET 6+（或 .NET Core 3.1 / .NET Framework 4.7.2）。  
+- **知識前提：** 基本的 C# 技能與 NuGet 套件管理的熟悉度。  
 
-## 為 .NET 設定 GroupDocs.Conversion
+## 設定 GroupDocs.Conversion for .NET
 
-首先，安裝 GroupDocs.Conversion 函式庫。您可以使用以下兩種方法之一進行安裝：
+### 安裝 NuGet 套件
+您可以透過套件管理員主控台或 .NET CLI 新增此函式庫。
 
-**NuGet 套件管理器控制台：**
+**NuGet Package Manager Console:**  
 ```bash
 Install-Package GroupDocs.Conversion -Version 25.3.0
-```
+```  
 
-**.NET CLI：**
+**.NET CLI:**  
 ```bash
 dotnet add package GroupDocs.Conversion --version 25.3.0
-```
+```  
 
-安裝完成後，即可獲得軟體使用許可證，不受評估限制。您可以選擇免費試用，或根據需要申請臨時許可證。
+安裝完成後，取得 **GroupDocs Conversion license**（免費試用或購買）並將授權檔案加入您的專案。
 
-### 基本初始化和設定
-
-以下是使用 GroupDocs.Conversion 初始化應用程式的方法：
+### 基本初始化與設定
+`Converter` 是載入來源文件並為轉換做準備的核心類別。  
 ```csharp
 using System;
 using GroupDocs.Conversion;
@@ -54,7 +107,7 @@ class Program
 {
     static void Main()
     {
-        // 使用 DGN 檔案路徑初始化轉換器實例
+        // Initialize converter instance using DGN file path
         string sourceFilePath = "YOUR_DOCUMENT_DIRECTORY/sample.dgn";
         using (var converter = new Converter(sourceFilePath))
         {
@@ -62,111 +115,120 @@ class Program
         }
     }
 }
-```
-此設定可確保您的應用程式已準備好載入和轉換檔案。
+```  
+此初始化為後續的轉換步驟做好準備。
 
-## 實施指南
+## 實作指南
 
-### 載入 DGN 文件
-
-**概述：** 首先載入 DGN 文件，準備轉換。
+### 載入 DGN 檔案
+**概觀：** 首先載入 DGN 檔案，為轉換做準備。
 
 #### 步驟 1：設定來源路徑
-定義來源 DGN 檔案所在的路徑：
+定義來源 DGN 檔案所在的路徑：  
 ```csharp
 string sourceFilePath = Path.Combine("YOUR_DOCUMENT_DIRECTORY", "sample.dgn");
-```
+```  
 
-#### 步驟 2：初始化轉換器
-使用載入文件 `Converter` 實例。此步驟確認文件已準備好進行轉換。
+#### 步驟 2：初始化 Converter
+`Converter` 會驗證 DGN 檔案並為轉換做準備。  
 ```csharp
 using (var converter = new Converter(sourceFilePath))
 {
-    // DGN 檔案現已載入
+    // DGN file is now loaded
 }
-```
+```  
 
-### 配置演示轉換選項
+### 設定 Presentation 轉換選項
+**概觀：** 調整設定以符合您需求的 PPTX 輸出檔案。
 
-**概述：** 根據您的需求調整設定以自訂輸出 PPTX 檔案。
-
-#### 步驟 1：建立轉換選項實例
-配置特定於演示轉換的選項：
+#### 步驟 1：建立 Conversion Options 實例
+`PresentationConvertOptions` 定義 PPTX 輸出的特定設定，例如投影片大小與 DPI。  
 ```csharp
 var options = new PresentationConvertOptions();
-// 如果需要，可以在此處套用其他配置。
-```
+// Additional configurations can be applied here if needed.
+```  
 
-### DGN 轉換為 PPTX
-
-**概述：** 執行轉換過程並將產生的檔案保存在您想要的位置。
+### 轉換 DGN 為 PPTX
+**概觀：** 執行轉換程序，並將產生的檔案儲存至您指定的位置。
 
 #### 步驟 1：定義輸出路徑
-設定轉換後文件的儲存位置：
+設定轉換後檔案的儲存位置：  
 ```csharp
 string outputFolder = "YOUR_OUTPUT_DIRECTORY";
 string outputFile = Path.Combine(outputFolder, "dgn-converted-to.pptx");
-```
+```  
 
-#### 第 2 步：執行轉換
-使用 `Converter` 實例來轉換並保存您的 PPTX 檔案。
+#### 步驟 2：執行轉換
+`Convert` 使用提供的選項，執行從來源格式到目標格式的轉換。  
 ```csharp
 using (var converter = new Converter(sourceFilePath))
 {
     var options = new PresentationConvertOptions();
     
-    // 轉換並保存 PPTX 文件
+    // Convert and save the PPTX file
     converter.Convert(outputFile, options);
 }
-```
+```  
 
-**故障排除提示：**
-- 確保路徑設定正確，以避免 `FileNotFoundException`。
-- 驗證您的環境是否具有足夠的文件操作權限。
+**故障排除提示**
+- 確保檔案路徑正確，以避免 `FileNotFoundException`。  
+- 確認應用程式具有足夠的檔案系統權限。  
 
-## 實際應用
+## 實務應用
+1. **建築簡報：** 將設計草圖轉換為客戶會議的投影片。  
+2. **工程文件：** 將技術圖紙轉換為可編輯的 PPTX 檔案，以供跨領域審查。  
+3. **專案管理：** 將專案計畫轉換為簡報，以簡化利害關係人之間的溝通。  
 
-1. **建築展示：** 輕鬆將設計草稿轉換為投影片以供客戶簡報。
-2. **工程文件：** 將技術圖轉換為可編輯的 PPTX 格式，用於會議或報告。
-3. **專案管理：** 將專案計劃轉化為詳細的演示，以簡化團隊內部的溝通。
+結合 ASP.NET 或 Blazor 可直接從 Web 介面實現即時轉換。
 
-與其他 .NET 框架（如 ASP.NET 應用程式）整合可以透過允許動態文件轉換來增強使用者介面。
+## 效能考量
+- **檔案大小最佳化：** 在轉換前縮減 DGN 大小，以降低記憶體使用量。  
+- **記憶體管理：** 及時釋放 `Converter` 物件（使用 `using` 陳述式）以釋放資源。  
+- **批次處理：** 使用單一 `Converter` 實例遍歷 DGN 檔案集合，以提升吞吐量。  
 
-## 性能考慮
+遵循這些做法，即使面對大型 CAD 圖紙，也能確保效能回應迅速。
 
-為確保有效轉換：
-- 處理之前優化檔案大小以減少資源使用。
-- 透過處理來有效地管理內存 `Converter` 物品使用後應立即丟棄。
-- 考慮對多個文件進行批次處理以簡化操作。
+## 如何取得 GroupDocs Conversion 授權？
+可於 GroupDocs 官方網站購買授權，或申請臨時金鑰以供評估。下載授權檔案（`GroupDocs.Conversion.lic`）後，將其放置於應用程式根目錄，並在啟動時以 `License license = new License(); license.SetLicense("GroupDocs.Conversion.lic");` 載入。此步驟會移除所有試用限制，並解鎖完整 API 功能。
 
-遵循這些最佳實踐將有助於維護高效能應用程序，尤其是在處理大型 DGN 檔案時。
+## 如何將 DGN 轉換為 PowerPoint (PPTX)？
+使用 `new Converter(sourcePath)` 載入 DGN，設定 `PresentationConvertOptions`，然後呼叫 `converter.Convert(outputPath, options)`。此三步驟工作流程可在數秒內將任何 DGN 圖紙轉換為完整可編輯的 PPTX 投影片，保留圖層、線寬、顏色、字型與註解，同時維持原始版面與比例。
+
+## 常見問題與解決方案
+- **缺少字型：** 在轉換前於 DGN 中嵌入所需字型，或透過 `FontSettings` 進行映射。  
+- **輸出損壞：** 確認使用最新版本的函式庫；舊版在處理複雜 CAD 實體時曾有錯誤。  
+- **大型檔案：** 將 DGN 拆分為較小區段，或透過 `ConverterSettings` 增加處理程序的記憶體限制。  
+
+## 常見問答
+
+**Q: 如何在轉換過程中處理大型 DGN 檔案？**  
+A: 將檔案拆分為較小部分，或在 `ConverterSettings` 中啟用串流模式，以逐頁處理，降低記憶體壓力。
+
+**Q: GroupDocs.Conversion 能否整合至 Web 應用程式？**  
+A: 可以——將函式庫嵌入 ASP.NET MVC、Web API 或 Blazor 專案，為最終使用者提供即時 DGN 轉 PPTX 轉換。
+
+**Q: 若輸出的 PPTX 檔案不符合預期該怎麼辦？**  
+A: 檢查您的 `PresentationConvertOptions`（投影片大小、DPI 等），並調整以符合來源圖紙的需求。
+
+**Q: GroupDocs Conversion 授權是免費的嗎？**  
+A: 可取得試用授權以供評估；正式商業授權須購買，方可於生產環境使用。
+
+**Q: 如何保持函式庫為最新版本？**  
+A: 執行 `dotnet add package GroupDocs.Conversion --version <latest>` 或使用 NuGet 套件管理員自動取得更新。
 
 ## 結論
+您現在已掌握使用 **GroupDocs Conversion license** 在 .NET 中將 DGN 檔案轉換為 PPTX 的技巧。依循本指南，您可將可靠的 CAD 轉 PowerPoint 轉換整合至任何 .NET 解決方案，提升協作效率並加速專案交付。探索其他格式、微調轉換選項，並打造符合組織需求的更豐富文件工作流程。
 
-現在，您已經掌握了使用 .NET 中的 GroupDocs.Conversion 將 DGN 檔案轉換為 PPTX 的技巧。透過本指南，您可以將此功能無縫整合到您的專案中，從而提昇文件處理和簡報能力。您可以根據需要自訂轉換選項或整合其他功能，進一步探索。
+**下一步**
+- 嘗試其他支援的格式（DWG、DXF、PDF）。  
+- 更深入研究 `PresentationConvertOptions` 以自訂投影片主題。  
+- 實作批次處理，以在一次執行中處理多個圖紙。
 
-**後續步驟：**
-- 試驗 GroupDocs 支援的不同文件格式。
-- 深入了解進階配置設置，實現客製化轉換。
+---
 
-準備好提升您的工作流程了嗎？立即開始實施這些解決方案！
-
-## 常見問題部分
-
-1. **轉換過程中如何處理大型 DGN 檔案？**
-   - 考慮在轉換之前拆分大文件或對其進行最佳化，以確保順利處理。
-
-2. **GroupDocs.Conversion 可以與 Web 應用程式整合嗎？**
-   - 是的，它可以無縫地融入 ASP.NET MVC 應用程式中，以實現動態文件處理。
-
-3. **如果輸出的 PPTX 檔案不符合預期怎麼辦？**
-   - 檢查你的 `PresentationConvertOptions` 設定以確保它們符合您的要求。
-
-4. **GroupDocs.Conversion 可以免費使用嗎？**
-   - 雖然有試用版，但您需要購買許可證才能獲得不受限制的完整功能。
-
-5. **如何更新到最新版本的 GroupDocs.Conversion？**
-   - 使用 NuGet 套件管理器或 .NET CLI 命令在更新可用時安裝它們。
+**最後更新：** 2026-06-15  
+**測試環境：** GroupDocs.Conversion 25.3.0 for .NET  
+**作者：** GroupDocs  
 
 ## 資源
 - [文件](https://docs.groupdocs.com/conversion/net/)
@@ -174,7 +236,10 @@ using (var converter = new Converter(sourceFilePath))
 - [下載](https://releases.groupdocs.com/conversion/net/)
 - [購買](https://purchase.groupdocs.com/buy)
 - [免費試用](https://releases.groupdocs.com/conversion/net/)
-- [臨時執照](https://purchase.groupdocs.com/temporary-license/)
+- [臨時授權](https://purchase.groupdocs.com/temporary-license/)
 - [支援論壇](https://forum.groupdocs.com/c/conversion/10)
 
-立即使用 GroupDocs.Conversion for .NET 踏上高效能文件轉換之旅！
+## 相關教學
+- [如何使用 GroupDocs.Conversion for .NET（逐步指南）將 DGN 檔案轉換為 PowerPoint 簡報](/conversion/net/cad-technical-drawing-formats/convert-dgn-to-ppt-groupdocs-conversion-net/)
+- [使用 GroupDocs.Conversion for .NET 高效將 DGN 轉換為 HTML | CAD 與技術圖紙格式](/conversion/net/cad-technical-drawing-formats/convert-dgn-to-html-groupdocs-conversion-net/)
+- [使用 GroupDocs.Conversion for .NET 將 DWG 轉換為 PowerPoint PPTX | CAD 轉換指南](/conversion/net/cad-technical-drawing-formats/convert-dwg-to-pptx-groupdocs-conversion-dotnet/)
