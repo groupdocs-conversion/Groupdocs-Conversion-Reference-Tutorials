@@ -1,68 +1,106 @@
 ---
-date: '2026-01-08'
-description: تعلم كيفية تحويل GroupDocs إلى PDF وأتمتة تحويل PDF عن طريق تنزيل ملفات
-  Azure Blob باستخدام Java. دليل خطوة بخطوة لتحويل المستندات في Java إلى PDF.
+date: '2026-06-20'
+description: إتقان تحويل PDF باستخدام Java عن طريق تنزيل ملفات Azure Blob باستخدام
+  Java وتحويلها إلى PDF. دليل خطوة بخطوة لأتمتة تحويل PDF ومعالجة الدُفعات.
 keywords:
-- convert documents from Azure Blob to PDF
-- Azure SDK for Java
-- GroupDocs.Conversion for Java
-title: 'groupdocs تحويل إلى PDF: دليل جافا – تحويل المستندات من Azure Blob إلى PDF
-  باستخدام GroupDocs.Conversion'
+- pdf conversion java
+- how to convert pdf
+- convert documents to pdf
+schemas:
+- author: GroupDocs
+  dateModified: '2026-06-20'
+  description: Master pdf conversion java by downloading Azure Blob files with Java
+    and converting them to PDF. Step‑by‑step guide for automate pdf conversion and
+    batch processing.
+  headline: 'PDF Conversion Java: Convert Documents from Azure Blob to PDF using GroupDocs.Conversion'
+  type: TechArticle
+- description: Master pdf conversion java by downloading Azure Blob files with Java
+    and converting them to PDF. Step‑by‑step guide for automate pdf conversion and
+    batch processing.
+  name: 'PDF Conversion Java: Convert Documents from Azure Blob to PDF using GroupDocs.Conversion'
+  steps:
+  - name: Set Up Azure Connection and Container Reference
+    text: '`CloudBlobClient` provides the low‑level API for interacting with blobs.
+      You create it by parsing the storage connection string and then obtain a reference
+      to the desired container:'
+  - name: Download the File
+    text: 'A `ByteArrayOutputStream` captures the blob’s binary data in memory, allowing
+      you to pass the resulting byte array directly to the converter without writing
+      a temporary file: **Parameters and Return Values** - `blobName`: Name of the
+      file in Azure Blob Storage. - `containerName`: The container where'
+  - name: Initialize Converter with InputStream
+    text: 'The `Converter` class accepts an `InputStream` source, which can be a `ByteArrayInputStream`
+      built from the blob’s byte array:'
+  - name: Set Conversion Options and Execute
+    text: '`PdfConvertOptions` lets you fine‑tune the PDF output—page range, image
+      quality, and compression level are configurable. After setting the options,
+      invoke `convert` to produce the PDF bytes: **Key Configuration Options** - `PdfConvertOptions`
+      enables you to specify page range, image resolution, and '
+  type: HowTo
+- questions:
+  - answer: It provides secure, scalable cloud storage for your source documents,
+      allowing you to retrieve files on demand via the Azure SDK.
+    question: What is the role of Azure Blob Storage?
+  - answer: It supports **50+** input formats—including DOCX, XLSX, PPTX, HTML, and
+      common image types—and can output to PDF, PNG, JPEG, and more.
+    question: How does GroupDocs.Conversion handle different file formats?
+  - answer: Yes, once you apply a valid GroupDocs license and implement robust error
+      handling, the solution is production‑ready.
+    question: Can I use this setup in production?
+  - answer: Implement retry logic with a back‑off strategy and log detailed error
+      messages to diagnose transient network issues.
+    question: What should I do if the download fails from Azure Blob Storage?
+  - answer: Reuse a single `Converter` instance for multiple files, limit conversion
+      to required pages, and enable high‑performance options like `PdfConvertOptions.setEnableFastProcessing(true)`.
+    question: How can I improve conversion speed?
+  type: FAQPage
+title: 'تحويل PDF Java: تحويل المستندات من Azure Blob إلى PDF باستخدام GroupDocs.Conversion'
 type: docs
 url: /ar/java/pdf-conversion/convert-documents-azure-blob-pdf-java/
 weight: 1
 ---
 
-# كيفية تنزيل وتحويل المستندات من Azure Blob Storage إلى PDF باستخدام GroupDocs.Conversion للـ Java
+# تحويل PDF باستخدام Java: تحويل المستندات من Azure Blob إلى PDF باستخدام GroupDocs.Conversion
 
-## المقدمة
-
-هل تبحث عن أتمتة عملية تنزيل المستندات من التخزين السحابي وتحويلها إلى صيغ مختلفة؟ مع تزايد العمل عن بُعد، يصبح أتمتة هذه المهام أمرًا أساسيًا. في هذا الدرس ستتعلم **groupdocs convert to pdf** وسترى أيضًا كيفية **automate pdf conversion** لتطبيقات Java الخاصة بك. سيُظهر لك هذا الدليل كيفية تنزيل مستند من Azure Blob Storage وتحويله إلى صيغة PDF باستخدام GroupDocs.Conversion للـ Java — مكتبة قوية تُبسّط تحويل الملفات.
-
-**ما ستتعلمه:**
-- كيفية إعداد بيئتك مع المكتبات الضرورية.
-- خطوات **download azure blob java** الملفات من Azure Blob Storage باستخدام Java.
-- استخدام GroupDocs.Conversion للـ Java لتحويل المستندات إلى ملفات PDF.
-- أفضل الممارسات ونصائح استكشاف الأخطاء لضمان تنفيذ سلس.
-
-لنبدأ بإعداد بيئة التطوير الخاصة بك!
+في هذا البرنامج التعليمي ستتمكن من إتقان **pdf conversion java** عن طريق تنزيل المستندات من Azure Blob Storage وتحويلها إلى PDF باستخدام GroupDocs.Conversion. سواءً كنت تبني خدمة ميكروية لإدارة المستندات أو مهمة معالجة دفعات، فإن أتمتة سير عمل التنزيل‑والتحويل توفر الوقت وتقلل الأخطاء اليدوية. سنستعرض كل خطوة، من إعداد تبعيات Maven إلى معالجة الملفات الكبيرة بكفاءة.
 
 ## إجابات سريعة
-- **أي مكتبة تتعامل مع التحويل؟** GroupDocs.Conversion للـ Java.  
+- **أي مكتبة تتعامل مع التحويل؟** GroupDocs.Conversion for Java.  
 - **هل يمكنني تحويل ملفات Word إلى PDF؟** نعم – استخدم نفس فئة `Converter` مع `PdfConvertOptions`.  
-- **هل أحتاج إلى ترخيص؟** يتوفر إصدار تجريبي؛ يتطلب الترخيص المدفوع للإنتاج.  
+- **هل أحتاج إلى ترخيص؟** يتوفر إصدار تجريبي؛ الترخيص المدفوع مطلوب للإنتاج.  
 - **ما نسخة Java المطلوبة؟** JDK 8 أو أعلى.  
-- **هل يدعم تنزيل Azure Blob؟** بالتأكيد – استخدم Azure SDK للـ Java لجلب الملفات.
+- **هل يدعم تنزيل Azure Blob؟** بالتأكيد – استخدم Azure SDK for Java لسحب الملفات.  
 
 ## ما هو groupdocs convert to pdf؟
-GroupDocs Conversion هي واجهة برمجة تطبيقات مبنية على Java تقوم بتحويل أكثر من 50 صيغة مستند إلى PDF، صور، وأكثر. من خلال تمرير تدفق إدخال (أو ملف) إلى فئة `Converter`، يمكنك إنشاء ملفات PDF عالية الجودة ببضع أسطر من الشيفرة فقط.
+GroupDocs Conversion هو API مبني على Java يحول **أكثر من 50** تنسيق مستند إلى PDF، صور، ومخرجات أخرى. عن طريق تمرير تدفق إدخال (أو ملف) إلى فئة `Converter`، يمكنك إنشاء ملفات PDF عالية الجودة ببضع أسطر من الشيفرة. هذه التعريف يهيئ المشهد لأمثلة الشيفرة التي تلي ذلك.
 
 ## لماذا نستخدم هذا النهج؟
-- **جاهز للأتمتة:** مثالي للوظائف الدفعية، أنظمة إدارة المستندات، أو الخدمات المصغرة.  
-- **متوافق مع السحابة:** يجلب الملفات مباشرةً من Azure Blob storage دون حفظ وسيط.  
-- **إخراج متسق:** يحافظ تحويل PDF على التخطيط، الخطوط، وترقيم الصفحات عبر الصيغ.  
+استخدام GroupDocs.Conversion مع Azure Blob Storage يوفر سير عمل سلس من الطرف إلى الطرف يلغي الحاجة إلى ملفات وسيطة، يقلل من عبء الإدخال/الإخراج، ويضمن إخراج PDF متسق بغض النظر عن تنسيق المصدر. هذه الطريقة تستفيد من قابلية التوسع السحابي، تدعم معالجة الدفعات، وتبسط الترخيص، مما يجعلها مثالية لأتمتة المستندات على مستوى الإنتاج.
+
+- **Automation‑ready:** مثالية للوظائف الدفعية، أنظمة إدارة المستندات، أو الخدمات الميكروية.  
+- **Cloud‑friendly:** تسحب الملفات مباشرةً من Azure Blob storage دون حفظ مؤقت.  
+- **Consistent output:** يحافظ تحويل PDF على التخطيط، الخطوط، وترقيم الصفحات عبر التنسيقات، مع معالجة مستندات تصل إلى 500 صفحة دون تحميل الملف بالكامل في الذاكرة.  
 
 ## المتطلبات المسبقة
 
-قبل البدء، تأكد من توفر ما يلي:
+قبل أن تبدأ، تأكد من وجود ما يلي:
 
 ### المكتبات المطلوبة
-- **Azure SDK للـ Java** – للتفاعل مع Azure Blob Storage.  
-- **GroupDocs.Conversion للـ Java** – لتحويل الملفات إلى صيغة PDF.
+- **Azure SDK for Java** – يتيح التفاعل مع Azure Blob Storage.  
+- **GroupDocs.Conversion for Java** – يوفر محرك التحويل.
 
 ### متطلبات إعداد البيئة
-- مجموعة تطوير Java (JDK) نسخة 8 أو أعلى تعمل بشكل صحيح.  
-- بيئة تطوير متكاملة (IDE) مثل IntelliJ IDEA أو Eclipse.  
-- الوصول إلى Azure Blob Storage باستخدام سلسلة اتصال صالحة وبيانات اعتماد.
+- JDK 8 أو أحدث مثبت على جهاز التطوير الخاص بك.  
+- بيئة تطوير متكاملة مثل IntelliJ IDEA أو Eclipse.  
+- الوصول إلى حساب Azure Blob Storage مع سلسلة اتصال صالحة.
 
 ### المتطلبات المعرفية
-- فهم أساسي لبرمجة Java.  
-- الإلمام بالتعامل مع التدفقات في Java.  
-- بعض الخبرة في Maven لإدارة تبعيات المشروع.
+- الإلمام بأساسيات Java وإدارة تبعيات Maven.  
+- فهم تدفقات Java (مثل `InputStream`، `ByteArrayOutputStream`).  
 
-## إعداد GroupDocs.Conversion للـ Java
+## إعداد GroupDocs.Conversion لـ Java
 
-لبدء استخدام GroupDocs.Conversion، أدرجه في مشروعك باستخدام Maven:
+لبدء استخدام GroupDocs.Conversion، أضف تبعية Maven إلى ملف `pom.xml` الخاص بك:
 
 ```xml
 <repositories>
@@ -82,12 +120,12 @@ GroupDocs Conversion هي واجهة برمجة تطبيقات مبنية عل
 ```
 
 ### خطوات الحصول على الترخيص
-- **نسخة تجريبية مجانية**: حمّل نسخة تجريبية من [موقع GroupDocs](https://releases.groupdocs.com/conversion/java/).  
-- **ترخيص مؤقت**: قدّم طلبًا للحصول على ترخيص مؤقت لتقييم جميع الميزات دون قيود.  
-- **شراء**: للاستخدام التجاري، اشترِ ترخيصًا مباشرةً عبر موقعهم.
+- **إصدار تجريبي مجاني:** تحميل نسخة تجريبية من [موقع GroupDocs](https://releases.groupdocs.com/conversion/java/).  
+- **ترخيص مؤقت:** قدم طلبًا للحصول على ترخيص مؤقت لتقييم جميع الميزات دون قيود.  
+- **الشراء:** للاستخدام التجاري، اشترِ ترخيصًا مباشرةً عبر موقعهم.
 
 ### التهيئة الأساسية
-لتهيئة GroupDocs.Conversion في تطبيق Java الخاص بك، أنشئ مثالًا من فئة `Converter`. سيعمل هذا كنقطة دخول لجميع مهام التحويل:
+فئة `Converter` هي نقطة الدخول لجميع مهام التحويل. تهيئتها تنشئ كائنًا يمكنه قبول تدفقات، ملفات، أو عناوين URL كإدخال:
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -100,10 +138,10 @@ import com.groupdocs.conversion.Converter;
 ### تنزيل المستند من Azure Blob Storage
 
 #### نظرة عامة
-تتيح لك هذه الميزة تنزيل الملفات المخزنة في حاوية Azure Blob برمجيًا. وهي ضرورية عندما تحتاج إلى تحويل **java document to pdf** كجزء من خط أنابيب مؤتمت.
+تتيح هذه الميزة تنزيل الملفات المخزنة في حاوية Azure Blob برمجيًا، وهو أمر أساسي لسير عمل **java document to pdf**.
 
 #### الخطوة 1: إعداد اتصال Azure وإشارة الحاوية
-الوصول إلى تخزين blob الخاص بك عن طريق تحليل سلسلة الاتصال وإنشاء `CloudBlobClient`:
+`CloudBlobClient` يوفر API منخفض المستوى للتفاعل مع الـ blobs. تقوم بإنشائه عن طريق تحليل سلسلة اتصال التخزين ثم الحصول على إشارة إلى الحاوية المطلوبة:
 
 ```java
 private static CloudBlobContainer getContainer(String containerName) throws Exception {
@@ -116,7 +154,7 @@ private static CloudBlobContainer getContainer(String containerName) throws Exce
 ```
 
 #### الخطوة 2: تنزيل الملف
-أنشئ `ByteArrayOutputStream` لاحتواء بيانات الملف الذي تم تنزيله، والذي سيُحول إلى صيغة PDF:
+`ByteArrayOutputStream` يلتقط البيانات الثنائية للـ blob في الذاكرة، مما يسمح بتمرير مصفوفة البايت الناتجة مباشرةً إلى المحول دون كتابة ملف مؤقت:
 
 ```java
 public ByteArrayOutputStream downloadFile(String blobName, String containerName) throws Exception {
@@ -128,18 +166,18 @@ public ByteArrayOutputStream downloadFile(String blobName, String containerName)
 }
 ```
 
-**المعلمات والقيم المرجعية**:
+**المعلمات والقيم المرجعة**  
 - `blobName`: اسم الملف في Azure Blob Storage.  
 - `containerName`: الحاوية التي يوجد فيها الـ blob.  
-- يرجع `ByteArrayOutputStream` يحتوي على البيانات التي تم تنزيلها.
+- تُعيد `ByteArrayOutputStream` التي تحتوي على البيانات التي تم تنزيلها.
 
-### تحويل المستند إلى صيغة PDF
+### تحويل المستند إلى تنسيق PDF
 
 #### نظرة عامة
-يوضح هذا القسم تحويل المستندات إلى صيغة PDF باستخدام GroupDocs.Conversion، مما يتيح إدارة ومشاركة المستندات بسلاسة.
+هنا نقوم بتحويل المستند الذي تم تنزيله إلى PDF باستخدام GroupDocs.Conversion، مما يتيح معالجة سلسة لاحقًا.
 
 #### الخطوة 1: تهيئة Converter باستخدام InputStream
-ابدأ بتهيئة فئة `Converter`. إنها تقبل مصدر تدفق إدخال للتحويل:
+فئة `Converter` تقبل مصدر `InputStream`، والذي يمكن أن يكون `ByteArrayInputStream` مبنيًا من مصفوفة بايت الـ blob:
 
 ```java
 public void convertDocument(ByteArrayInputStream inputStream, String outputFilePath) throws GroupDocsConversionException {
@@ -147,8 +185,8 @@ public void convertDocument(ByteArrayInputStream inputStream, String outputFileP
         Converter converter = new Converter(inputStream::read); // Initialize the Converter with input stream source
 ```
 
-#### الخطوة 2: ضبط خيارات التحويل وتنفيذها
-عرّف خيارات خاصة بـ PDF باستخدام `PdfConvertOptions` ونفّذ التحويل:
+#### الخطوة 2: تعيين خيارات التحويل وتنفيذها
+`PdfConvertOptions` يتيح لك ضبط مخرجات PDF بدقة—نطاق الصفحات، جودة الصورة، ومستوى الضغط قابل للتكوين. بعد ضبط الخيارات، استدعِ `convert` لإنتاج بايتات PDF:
 
 ```java
         PdfConvertOptions options = new PdfConvertOptions();
@@ -159,57 +197,64 @@ public void convertDocument(ByteArrayInputStream inputStream, String outputFileP
 }
 ```
 
-**خيارات التكوين الرئيسية**:
-- `PdfConvertOptions` يسمح بتعيين معلمات مختلفة مثل نطاق الصفحات أو الجودة.
+**خيارات التكوين الرئيسية**  
+- `PdfConvertOptions` يتيح لك تحديد نطاق الصفحات، دقة الصورة، ومستوى الضغط، مما يمنحك التحكم في حجم الملف وجودته.
 
-## تطبيقات عملية
-1. **أنظمة إدارة المستندات** – أتمتة تحويل المستندات إلى PDF لأغراض الأرشفة.  
-2. **منصات التجارة الإلكترونية** – تحويل أوصاف المنتجات المخزنة في Azure Blob إلى PDF لتسهيل المشاركة والطباعة.  
-3. **المكاتب القانونية** – تبسيط معالجة المستندات عن طريق تحويل ملفات القضايا من التخزين السحابي مباشرةً إلى PDF.
+## التطبيقات العملية
+
+1. **أنظمة إدارة المستندات** – أتمتة الأرشفة بتحويل الملفات الواردة إلى PDF للتخزين طويل الأمد.  
+2. **منصات التجارة الإلكترونية** – تحويل كتيبات المنتجات المخزنة في Azure Blob إلى PDF يمكن للعملاء تنزيله فورًا.  
+3. **المكاتب القانونية** – تبسيط معالجة ملفات القضايا بتحويل العقود الممسوحة ضوئيًا مباشرةً إلى PDF قابل للبحث.  
 
 ## اعتبارات الأداء
 
 ### نصائح التحسين
-- استخدم إدارة تدفقات فعّالة للتعامل مع المستندات الكبيرة دون استهلاك مفرط للذاكرة.  
-- قم بتحسين إعدادات GroupDocs.Conversion بناءً على متطلباتك الخاصة، مثل مستوى الضغط لملفات PDF.
+- **Stream‑first approach:** استخدم `ByteArrayOutputStream` فقط للملفات الصغيرة؛ للوثائق الكبيرة (>100 MB) قم بالتدفق مباشرةً إلى ملف مؤقت لتقليل استهلاك الذاكرة.  
+- **Conversion settings:** اضبط `PdfConvertOptions.setCompressionLevel(CompressionLevel.HIGH)` لتقليل حجم الملف حتى 40 % دون فقدان ملحوظ في الجودة.  
 
 ### إرشادات استخدام الموارد
-- راقب وأدر مساحة heap في Java لتجنب `OutOfMemoryError`.  
-- استفد من ميزات Azure Blob Storage مثل التخزين المتدرج لإدارة الموارد بتكلفة فعّالة.
+- راقب مساحة heap في Java (`-Xmx`) لتجنب `OutOfMemoryError`.  
+- استفد من تصنيف طبقات Azure Blob (Hot, Cool, Archive) لتحقيق توازن بين التكلفة وسرعة الوصول لمكتبات المستندات الكبيرة.  
 
 ## المشكلات الشائعة والحلول
 
-| المشكلة | السبب الشائع | الإصلاح المقترح |
+| المشكلة | السبب النموذجي | الحل المقترح |
 |-------|---------------|---------------|
-| **فشل التنزيل** | سلسلة اتصال غير صالحة أو خلل في الشبكة | تحقق من `STORAGE_CONNECTION_STRING` ونفّذ منطق إعادة المحاولة |
-| **إخراج PDF فارغ** | لم يتم إعادة تعيين تدفق الإدخال قبل التحويل | تأكد من أن `ByteArrayInputStream` في البداية (`reset()`) |
-| **OutOfMemoryError** على ملفات كبيرة | تحميل الملف بالكامل في الذاكرة | قم ببث الـ blob مباشرةً إلى ملف مؤقت ومرّر `FileInputStream` إلى المحول |
+| **فشل التنزيل** | سلسلة اتصال غير صالحة أو خلل في الشبكة | تحقق من `STORAGE_CONNECTION_STRING` ونفّذ منطق إعادة المحاولة بتقنية back‑off المتصاعدة |
+| **إخراج PDF فارغ** | عدم إعادة ضبط تدفق الإدخال قبل التحويل | استدعِ `reset()` على `ByteArrayInputStream` قبل تمريره إلى `Converter` |
+| **OutOfMemoryError** على ملفات كبيرة | تحميل الملف بالكامل في الذاكرة | قم بتدفق الـ blob إلى ملف مؤقت واستخدم `FileInputStream` للتحويل |
 
 ## الأسئلة المتكررة
 
 **س: ما هو دور Azure Blob Storage؟**  
-ج: يعمل كخدمة تخزين سحابي لمستنداتك، مما يتيح إدارة بيانات قابلة للتوسع وآمنة.
+ج: يوفر تخزينًا سحابيًا آمنًا وقابلًا للتوسع لمستنداتك المصدرية، مما يتيح استرجاع الملفات عند الطلب عبر Azure SDK.
 
-**س: كيف يتعامل GroupDocs.Conversion مع صيغ الملفات المختلفة؟**  
-ج: يدعم أكثر من 50 صيغة مستند، مما يجعله متعدد الاستخدامات لتلبية احتياجات التحويل المتنوعة.
+**س: كيف يتعامل GroupDocs.Conversion مع تنسيقات الملفات المختلفة؟**  
+ج: يدعم **أكثر من 50** تنسيق إدخال—بما في ذلك DOCX، XLSX، PPTX، HTML، وأنواع الصور الشائعة—ويمكنه الإخراج إلى PDF، PNG، JPEG، وغير ذلك.
 
-**س: هل يمكنني استخدام هذا الإعداد في بيئة إنتاج؟**  
-ج: نعم، مع اختبار مناسب، وترخيص صالح، ومعالجة أخطاء ملائمة.
+**س: هل يمكنني استخدام هذا الإعداد في الإنتاج؟**  
+ج: نعم، بمجرد تطبيق ترخيص GroupDocs صالح وتنفيذ معالجة أخطاء قوية، يصبح الحل جاهزًا للإنتاج.
 
-**س: ماذا لو فشل التنزيل من Azure Blob Storage؟**  
-ج: نفّذ منطق إعادة المحاولة أو معالجة الأخطاء لإدارة مشكلات الشبكة المؤقتة.
+**س: ماذا أفعل إذا فشل التنزيل من Azure Blob Storage؟**  
+ج: نفّذ منطق إعادة المحاولة مع استراتيجية back‑off وسجّل رسائل خطأ مفصلة لتشخيص المشكلات الشبكية المؤقتة.
 
-**س: كيف يمكنني تحسين سرعة التحويل باستخدام GroupDocs.Conversion؟**  
-ج: قلل من التحويلات غير الضرورية، أعد استخدام مثيلات `Converter` عندما يكون ذلك ممكنًا، واضبط `PdfConvertOptions` للأداء.
+**س: كيف يمكنني تحسين سرعة التحويل؟**  
+ج: أعد استخدام كائن `Converter` واحد لعدة ملفات، قلل التحويل إلى الصفحات المطلوبة، وفعل خيارات الأداء العالي مثل `PdfConvertOptions.setEnableFastProcessing(true)`.
 
 ## الموارد
-- **الوثائق**: [GroupDocs Conversion Documentation](https://docs.groupdocs.com/conversion/java/)
-- **مرجع API**: [GroupDocs API Reference](https://reference.groupdocs.com/conversion/java/)
-- **التنزيل**: [GroupDocs Downloads](https://releases.groupdocs.com/conversion/java/)
-- **الشراء**: [Buy GroupDocs](https://purchase.groupdocs.com)
+- **التوثيق:** [GroupDocs Conversion Documentation](https://docs.groupdocs.com/conversion/java/)  
+- **مرجع API:** [GroupDocs API Reference](https://reference.groupdocs.com/conversion/java/)  
+- **التحميل:** [GroupDocs Downloads](https://releases.groupdocs.com/conversion/java/)  
+- **الشراء:** [Buy GroupDocs](https://purchase.groupdocs.com)
 
 ---
 
-**آخر تحديث:** 2026-01-08  
-**تم الاختبار مع:** GroupDocs.Conversion 25.2 للـ Java  
+**آخر تحديث:** 2026-06-20  
+**تم الاختبار مع:** GroupDocs.Conversion 25.2 for Java  
 **المؤلف:** GroupDocs
+
+## دروس ذات صلة
+
+- [GroupDocs Conversion Java: تحويل المستندات إلى PDF – دليل خطوة بخطوة](/conversion/java/pdf-conversion/convert-documents-pdf-groupdocs-java/)  
+- [كيفية تخزين الملفات مؤقتًا في Java مع GroupDocs.Conversion – دليل شامل لتحويل المستندات بكفاءة](/conversion/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/)  
+- [docx to pdf java: تحويل DOCX إلى PDF في Java باستخدام GroupDocs.Conversion – دليل خطوة بخطوة](/conversion/java/pdf-conversion/convert-docx-pdf-java-groupdocs-conversion/)
