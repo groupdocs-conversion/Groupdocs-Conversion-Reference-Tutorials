@@ -1,13 +1,68 @@
 ---
-date: '2026-01-10'
-description: Μάθετε πώς να μετατρέπετε FTP σε PDF χρησιμοποιώντας το GroupDocs.Conversion
-  για Java. Οδηγός βήμα‑βήμα που καλύπτει τη ρύθμιση, παράδειγμα java FTP client και
+date: '2026-06-25'
+description: Μάθετε πώς να μετατρέψετε ftp σε pdf χρησιμοποιώντας το GroupDocs.Conversion
+  για Java. Οδηγός βήμα‑βήμα που καλύπτει τη ρύθμιση, java ftp client example, και
   τις επιλογές μετατροπής.
 keywords:
-- convert FTP documents to PDF Java
-- GroupDocs.Conversion setup
-- FTP document conversion
-title: Πώς να μετατρέψετε FTP σε PDF με το GroupDocs.Conversion για Java
+- convert ftp to pdf
+- java ftp client
+- apache commons net ftp
+- groupdocs conversion java
+- office to pdf java
+schemas:
+- author: GroupDocs
+  dateModified: '2026-06-25'
+  description: Learn how to convert ftp to pdf using GroupDocs.Conversion for Java.
+    Step‑by‑step guide covering setup, java ftp client example, and conversion options.
+  headline: How to Convert FTP to PDF Using GroupDocs.Conversion for Java
+  type: TechArticle
+- description: Learn how to convert ftp to pdf using GroupDocs.Conversion for Java.
+    Step‑by‑step guide covering setup, java ftp client example, and conversion options.
+  name: How to Convert FTP to PDF Using GroupDocs.Conversion for Java
+  steps:
+  - name: '**Lambda supplier** – `() -> getFileFromFtp(...)` lazily provides the stream
+      when the converter needs it.'
+    text: '**Lambda supplier** – `() -> getFileFromFtp(...)` lazily provides the stream
+      when the converter needs it.'
+  - name: '**`Converter`** – the core class that reads the input stream and produces
+      the output file.'
+    text: '**`Converter`** – the core class that reads the input stream and produces
+      the output file.'
+  - name: '**`PdfConvertOptions`** – lets you tweak page size, margins, and other
+      PDF‑specific settings.'
+    text: '**`PdfConvertOptions`** – lets you tweak page size, margins, and other
+      PDF‑specific settings.'
+  - name: '**Automated Document Archiving** – pull contracts from an FTP drop‑box
+      and store them as PDFs for compliance.'
+    text: '**Automated Document Archiving** – pull contracts from an FTP drop‑box
+      and store them as PDFs for compliance.'
+  - name: '**Document Sharing Platforms** – convert user‑uploaded Office files on
+      the fly, delivering a universal PDF preview.'
+    text: '**Document Sharing Platforms** – convert user‑uploaded Office files on
+      the fly, delivering a universal PDF preview.'
+  - name: '**Business Reporting** – generate PDF reports directly from data files
+      hosted on legacy FTP servers.'
+    text: '**Business Reporting** – generate PDF reports directly from data files
+      hosted on legacy FTP servers.'
+  type: HowTo
+- questions:
+  - answer: Stream the file directly from FTP, increase the JVM heap if needed, and
+      consider processing in smaller chunks or using a temporary file cache.
+    question: How do I handle very large files (e.g., >500 MB)?
+  - answer: Yes. Create a thread pool and invoke the `run()` method for each file;
+      each thread should use its own `Converter` instance.
+    question: Can I convert multiple documents in parallel?
+  - answer: Use `FTPSClient` from Apache Commons Net instead of `FTPClient` and adjust
+      the connection code accordingly.
+    question: What if my FTP server requires explicit TLS/SSL?
+  - answer: The limit is primarily bound by your server’s CPU, memory, and the licensing
+      terms of GroupDocs.Conversion.
+    question: Are there any limits on the number of concurrent conversions?
+  - answer: Check the official GroupDocs.Conversion Java API reference for the full
+      list of properties on `PdfConvertOptions`.
+    question: Where can I find more advanced PDF customization options?
+  type: FAQPage
+title: Πώς να μετατρέψετε FTP σε PDF χρησιμοποιώντας το GroupDocs.Conversion για Java
 type: docs
 url: /el/java/pdf-conversion/convert-ftp-documents-pdf-groupdocs-conversion-java/
 weight: 1
@@ -15,28 +70,30 @@ weight: 1
 
 # Πώς να Μετατρέψετε FTP σε PDF Χρησιμοποιώντας το GroupDocs.Conversion για Java
 
-Αν χρειάζεστε **convert FTP to PDF** γρήγορα και αξιόπιστα, βρίσκεστε στο σωστό μέρος. Σε αυτό το tutorial θα καλύψουμε όλα όσα χρειάζεστε—από τη ρύθμιση του GroupDocs.Conversion σε ένα έργο Java μέχρι τη δημιουργία ενός **java ftp client example** που μεταδίδει αρχεία απευθείας στον μετατροπέα. Στο τέλος, θα μπορείτε να ανακτήσετε οποιοδήποτε έγγραφο από έναν FTP server και να δημιουργήσετε ένα PDF υψηλής ποιότητας με λίγες μόνο γραμμές κώδικα.
+Αν χρειάζεστε να **μετατρέψετε FTP σε PDF** γρήγορα και αξιόπιστα, βρίσκεστε στο σωστό μέρος. Σε αυτό το tutorial θα καλύψουμε όλα όσα χρειάζεστε—από τη ρύθμιση του GroupDocs.Conversion σε ένα έργο Java μέχρι τη συγγραφή ενός **java ftp client example** που μεταδίδει αρχεία απευθείας στον μετατροπέα. Στο τέλος, θα μπορείτε να ανακτήσετε οποιοδήποτε έγγραφο από έναν FTP server και να παράγετε ένα PDF υψηλής ποιότητας με λίγες μόνο γραμμές κώδικα.
 
 ## Γρήγορες Απαντήσεις
 - **Ποια βιβλιοθήκη διαχειρίζεται το FTP σε αυτόν τον οδηγό;** Apache Commons Net (`org.apache.commons.net.ftp.FTPClient`).  
 - **Ποια κλάση του GroupDocs εκτελεί τη μετατροπή;** `Converter`.  
-- **Χρειάζομαι άδεια για παραγωγή;** Yes – a valid GroupDocs.Conversion license is required.  
-- **Μπορώ να προσαρμόσω την έξοδο PDF;** Absolutely, using `PdfConvertOptions`.  
-- **Είναι αυτή η προσέγγιση thread‑safe;** The converter itself is stateless; you can create separate instances per thread.
+- **Χρειάζομαι άδεια για παραγωγή;** Ναι – απαιτείται έγκυρη άδεια GroupDocs.Conversion.  
+- **Μπορώ να προσαρμόσω την έξοδο PDF;** Απόλυτα, χρησιμοποιώντας το `PdfConvertOptions`.  
+- **Είναι αυτή η προσέγγιση thread‑safe;** Ο μετατροπέας είναι αδιάτακτος· μπορείτε να δημιουργήσετε ξεχωριστές στιγμές ανά νήμα.  
 
-## Τι είναι το “convert FTP to PDF”;
-Η μετατροπή FTP σε PDF σημαίνει τη λήψη ενός αρχείου που αποθηκεύεται σε έναν FTP server και τη μετατροπή του σε έγγραφο PDF χωρίς πρώτα να το αποθηκεύσετε στο δίσκο. Αυτό εξαλείφει το κόστος I/O και απλοποιεί τις αυτοματοποιημένες ροές εργασίας.
+`Converter` είναι η κύρια κλάση που εκτελεί τη μετατροπή εγγράφων από μια πηγή ροής σε μορφή προορισμού.
+
+## Τι σημαίνει “convert FTP to PDF”;
+Η μετατροπή FTP σε PDF σημαίνει λήψη ενός αρχείου που αποθηκεύεται σε έναν FTP server και μετατροπή του σε έγγραφο PDF χωρίς να το αποθηκεύσετε πρώτα στο δίσκο. Αυτό εξαλείφει το κόστος I/O, μειώνει τη χρήση αποθηκευτικού χώρου και απλοποιεί τις αυτοματοποιημένες ροές εργασίας όπου τα έγγραφα πρέπει να αποδίδονται άμεσα για σκοπούς συμμόρφωσης ή προεπισκόπησης.
 
 ## Γιατί να χρησιμοποιήσετε το GroupDocs.Conversion για Java;
-- **Μετατροπή χωρίς εξαρτήσεις** – υποστηρίζει πάνω από 200 μορφές αμέσως.  
-- **API βασισμένο σε ροή** – λειτουργεί απευθείας με `InputStream`, ιδανικό για σενάρια FTP.  
-- **Λεπτομερείς επιλογές PDF** – μέγεθος σελίδας, περιθώρια, ασφάλεια και άλλα.  
-- **Άδεια έτοιμη για επιχειρήσεις** – κλιμακώσιμη για μικρά εργαλεία και μεγάλες υπηρεσίες back‑end.
+Η μετατροπή κατά τη φόρτωση γίνεται στη μνήμη, και η βιβλιοθήκη υποστηρίζει **200+ μορφές**—συμπεριλαμβανομένων των DOCX, XLSX, PPTX, HTML και εικόνων—οπότε σπάνια χρειάζεστε άλλο εργαλείο. Το **stream‑based API** της δέχεται άμεσα `InputStream`, ιδανικό για σενάρια FTP. Το `PdfConvertOptions` είναι μια κλάση διαμόρφωσης για ρυθμίσεις PDF όπως το μέγεθος σελίδας, τα περιθώρια και η συμμόρφωση. Επιτρέπει επίσης λεπτομερή ρύθμιση της ασφάλειας και των επιλογών PDF/A, δίνοντάς σας έλεγχο πάνω στο τελικό έγγραφο.
+
+### Άμεση απάντηση
+Το GroupDocs.Conversion για Java σας επιτρέπει να μετατρέψετε οποιοδήποτε υποστηριζόμενο έγγραφο σε PDF τροφοδοτώντας το με ένα `InputStream` από έναν FTP server· η βιβλιοθήκη επεξεργάζεται τη ροή στη μνήμη, εφαρμόζει προαιρετικές ρυθμίσεις PDF και γράφει το αποτέλεσμα σε ένα `OutputStream`—όλα χωρίς να αγγίξετε το τοπικό σύστημα αρχείων.
 
 ## Προαπαιτούμενα
 - JDK 8 ή νεότερο.  
 - Maven (ή άλλο εργαλείο κατασκευής) για διαχείριση εξαρτήσεων.  
-- Πρόσβαση σε FTP server (hostname, διαπιστευτήρια και προσβάσιμο φάκελο).  
+- Πρόσβαση σε FTP server (hostname, διαπιστευτήρια και προσβάσιμος φάκελος).  
 - Βασικές γνώσεις Java· η εξοικείωση με Maven είναι χρήσιμη.
 
 ## Απαιτούμενες Βιβλιοθήκες και Εξαρτήσεις
@@ -60,15 +117,17 @@ weight: 1
 </dependencies>
 ```
 
-> **Συμβουλή:** Κρατήστε τον αριθμό έκδοσης ενημερωμένο με την τελευταία σταθερή έκδοση για να επωφεληθείτε από βελτιώσεις στην απόδοση και υποστήριξη νέων μορφών.
+> **Συμβουλή:** Διατηρήστε τον αριθμό έκδοσης ενημερωμένο με την τελευταία σταθερή έκδοση για να επωφεληθείτε από βελτιώσεις απόδοσης και νέα υποστήριξη μορφών.
 
 ### Απόκτηση Άδειας
 - **Δωρεάν δοκιμή** – ιδανική για αξιολόγηση.  
-- **Πλήρης άδεια** – απαιτείται για παραγωγικά φορτία εργασίας.  
+- **Πλήρης άδεια** – απαιτείται για παραγωγικές εργασίες.  
 - **Προσωρινή άδεια** – χρήσιμη για CI pipelines ή βραχυπρόθεσμο testing.
 
 ## Παράδειγμα Java FTP Client – Λήψη Αρχείου από FTP
-Παρακάτω υπάρχει μια μέθοδος **java download ftp file** που επιστρέφει ένα `InputStream`. Χρησιμοποιεί τον πελάτη **Apache Commons FTP Java** (`FTPClient`) για σύνδεση, έλεγχο ταυτότητας και ανάκτηση του στόχου εγγράφου.
+`FTPClient` είναι η κλάση του Apache Commons Net που διαχειρίζεται την επικοινωνία του πρωτοκόλλου FTP, επιτρέποντας σύνδεση, έλεγχο ταυτότητας και μεταφορά αρχείων.
+
+Παρακάτω υπάρχει μια μέθοδος **java download ftp file** που επιστρέφει ένα `InputStream`. Χρησιμοποιεί τον πελάτη **Apache Commons FTP Java** (`FTPClient`) για σύνδεση, έλεγχο ταυτότητας και ανάκτηση του στοχευμένου εγγράφου.
 
 ```java
 private static InputStream getFileFromFtp(String server, String dirname, String fileName) throws Exception {
@@ -88,10 +147,12 @@ private static InputStream getFileFromFtp(String server, String dirname, String 
 }
 ```
 
-> **Γιατί ροή;** Η ροή αποφεύγει την εγγραφή του αρχείου στο τοπικό σύστημα αρχείων, μειώνοντας την καθυστέρηση I/O και τη χρήση αποθήκευσης.
+> **Γιατί ροή;** Η ροή αποφεύγει την εγγραφή του αρχείου στο τοπικό σύστημα αρχείων, μειώνοντας την καθυστέρηση I/O και τη χρήση αποθηκευτικού χώρου.
 
 ## Μετατροπή της Ροής FTP σε PDF
-Τώρα ενώνουμε τη ροή FTP με το GroupDocs.Conversion. Αυτό το απόσπασμα δείχνει το **java ftp client example** σε δράση και επιδεικνύει πώς να ρυθμίσετε βασικές επιλογές μετατροπής PDF.
+`Converter` είναι η κεντρική κλάση GroupDocs.Conversion που διαβάζει μια ροή εισόδου, εφαρμόζει επιλογές μετατροπής και γράφει το αποτέλεσμα σε μια ροή προορισμού.
+
+Τώρα ενώνουμε τη ροή FTP με το GroupDocs.Conversion. Αυτό το απόσπασμα δείχνει το **java ftp client example** σε δράση και επιδεικνύει πώς να διαμορφώσετε βασικές επιλογές μετατροπής PDF.
 
 ```java
 public static void run() {
@@ -121,7 +182,9 @@ public static void run() {
 3. **`PdfConvertOptions`** – σας επιτρέπει να ρυθμίσετε το μέγεθος σελίδας, τα περιθώρια και άλλες ρυθμίσεις ειδικές για PDF.
 
 ## Διαμόρφωση Επιλογών Μετατροπής PDF
-Αν χρειάζεστε μεγαλύτερο έλεγχο στην εμφάνιση του PDF, προσαρμόστε τις επιλογές όπως φαίνεται παρακάτω. Αυτή η ενότητα επεκτείνει το προηγούμενο **java ftp client example** προσαρμόζοντας τη διάταξη της σελίδας.
+`PdfConvertOptions` είναι ο κάτοχος επιλογών που ελέγχει τις λεπτομέρειες δημιουργίας PDF όπως το μέγεθος σελίδας, τα περιθώρια, το επίπεδο συμμόρφωσης και τις ρυθμίσεις ασφαλείας.
+
+Αν χρειάζεστε μεγαλύτερο έλεγχο πάνω στην εμφάνιση του PDF, προσαρμόστε τις επιλογές όπως φαίνεται παρακάτω. Αυτή η ενότητα επεκτείνει το προηγούμενο **java ftp client example** προσαρμόζοντας τη διάταξη της σελίδας.
 
 ```java
 public class PdfConversionOptions {
@@ -138,52 +201,52 @@ public class PdfConversionOptions {
 }
 ```
 
-> **Συμβουλή:** Πειραματιστείτε με `options.setPageSize`, `options.setMargin*` και `options.setPdfCompliance` για να καλύψετε συγκεκριμένες κανονιστικές ή απαιτήσεις branding.
+> **Συμβουλή:** Πειραματιστείτε με `options.setPageSize`, `options.setMargin*` και `options.setPdfCompliance` για να καλύψετε συγκεκριμένες απαιτήσεις κανονισμών ή branding.
 
 ## Συχνά Προβλήματα και Λύσεις
-- **Αποτυχία ελέγχου ταυτότητας** – ελέγξτε ξανά το όνομα χρήστη/συνθηματικό και βεβαιωθείτε ότι ο FTP server επιτρέπει τη παθητική λειτουργία (μπορείτε να την ενεργοποιήσετε μέσω `client.enterLocalPassiveMode()`).  
+- **Αποτυχία ελέγχου ταυτότητας** – ελέγξτε ξανά το όνομα χρήστη/συνθηματικό και βεβαιωθείτε ότι ο FTP server επιτρέπει passive mode (μπορείτε να το ενεργοποιήσετε μέσω `client.enterLocalPassiveMode()`).  
 - **Αρχείο δεν βρέθηκε** – επαληθεύστε ότι η διαδρομή φακέλου και το όνομα αρχείου είναι σωστά· χρησιμοποιήστε `client.printWorkingDirectory()` για εντοπισμό σφαλμάτων.  
 - **Η ροή δεν κλείνει** – πάντα καλέστε `client.completePendingCommand()` μετά την ανάκτηση της ροής για να ελευθερώσετε τη σύνδεση.  
 - **Σφάλματα έλλειψης μνήμης** – για πολύ μεγάλα έγγραφα, σκεφτείτε επεξεργασία σε τμήματα ή αύξηση του μεγέθους heap της JVM.
 
 ## Πρακτικές Εφαρμογές
 1. **Αυτοματοποιημένη Αρχειοθέτηση Εγγράφων** – λήψη συμβάσεων από FTP drop‑box και αποθήκευση ως PDF για συμμόρφωση.  
-2. **Πλατφόρμες Κοινής Χρήσης Εγγράφων** – μετατροπή αρχείων Office που ανεβάζουν οι χρήστες σε πραγματικό χρόνο, παρέχοντας μια καθολική προεπισκόπηση PDF.  
+2. **Πλατφόρμες Κοινής Χρήσης Εγγράφων** – μετατροπή αρχείων Office που ανεβάζουν οι χρήστες άμεσα, παρέχοντας μια καθολική προεπισκόπηση PDF.  
 3. **Επιχειρηματική Αναφορά** – δημιουργία αναφορών PDF απευθείας από αρχεία δεδομένων που φιλοξενούνται σε παλαιούς FTP servers.
 
-## Σκέψεις Απόδοσης
-- **Multi‑threading** – δημιουργήστε μια ομάδα νήματος και δημιουργήστε ξεχωριστό `Converter` ανά αρχείο για μέγιστη αξιοποίηση CPU.  
+## Σκέψεις για την Απόδοση
+- **Multi‑threading** – δημιουργήστε μια ομάδα νημάτων και δημιουργήστε ξεχωριστό `Converter` ανά αρχείο για μέγιστη αξιοποίηση CPU.  
 - **Παρακολούθηση πόρων** – χρησιμοποιήστε το `Runtime.getRuntime().freeMemory()` της Java για να εντοπίζετε διαρροές όταν επεξεργάζεστε πολλά αρχεία.  
 - **Profiling** – εργαλεία όπως το VisualVM μπορούν να σας βοηθήσουν να εντοπίσετε bottlenecks στη λήψη FTP ή στα στάδια μετατροπής.
 
 ## Συμπέρασμα
-Τώρα έχετε μια πλήρη, έτοιμη για παραγωγή λύση για **convert FTP to PDF** χρησιμοποιώντας το GroupDocs.Conversion για Java. Εκμεταλλευόμενοι έναν FTP πελάτη με ροή και το ευέλικτο API `Converter`, μπορείτε να δημιουργήσετε κλιμακώσιμες αγωγές εγγράφων που χειρίζονται οποιαδήποτε υποστηριζόμενη μορφή πηγής.
+Τώρα έχετε μια πλήρη, έτοιμη για παραγωγή λύση για **μετατροπή FTP σε PDF** χρησιμοποιώντας το GroupDocs.Conversion για Java. Εκμεταλλευόμενοι έναν streaming FTP client και το ευέλικτο API `Converter`, μπορείτε να δημιουργήσετε κλιμακώσιμες διαδρομές εγγράφων που διαχειρίζονται οποιαδήποτε υποστηριζόμενη μορφή προέλευσης.
 
 **Επόμενα Βήματα:**  
-- Δοκιμάστε διαφορετικές `PdfConvertOptions` για να ρυθμίσετε λεπτομερώς την έξοδο.  
+- Δοκιμάστε διαφορετικά `PdfConvertOptions` για λεπτομερή ρύθμιση της εξόδου.  
 - Εξερευνήστε επεξεργασία batch επαναλαμβάνοντας μια λίστα αρχείων FTP.  
 - Ενσωματώστε τον μετατροπέα σε υπηρεσία REST για δημιουργία PDF κατ' απαίτηση.
 
 ## Συχνές Ερωτήσεις
 
-**Q: Πώς διαχειρίζομαι πολύ μεγάλα αρχεία (π.χ., >500 MB);**  
-A: Μεταδώστε το αρχείο απευθείας από FTP, αυξήστε το heap της JVM αν χρειαστεί, και σκεφτείτε επεξεργασία σε μικρότερα τμήματα ή χρήση προσωρινής κρυφής μνήμης αρχείων.
+**Q: Πώς να διαχειριστώ πολύ μεγάλα αρχεία (π.χ., >500 MB);**  
+A: Μεταδώστε το αρχείο απευθείας από FTP, αυξήστε το heap της JVM αν χρειάζεται, και σκεφτείτε επεξεργασία σε μικρότερα τμήματα ή χρήση προσωρινής προσωρινής μνήμης αρχείου.
 
 **Q: Μπορώ να μετατρέψω πολλά έγγραφα παράλληλα;**  
-A: Ναι. Δημιουργήστε μια ομάδα νήματος και καλέστε τη μέθοδο `run()` για κάθε αρχείο· κάθε νήμα πρέπει να χρησιμοποιεί τη δική του παρουσία `Converter`.
+A: Ναι. Δημιουργήστε μια ομάδα νημάτων και καλέστε τη μέθοδο `run()` για κάθε αρχείο· κάθε νήμα πρέπει να χρησιμοποιεί τη δική του στιγμιότυπο `Converter`.
 
 **Q: Τι γίνεται αν ο FTP server μου απαιτεί ρητό TLS/SSL;**  
-A: Χρησιμοποιήστε `FTPSClient` από το Apache Commons Net αντί για `FTPClient` και προσαρμόστε τον κώδικα σύνδεσης αναλόγως.
+A: Χρησιμοποιήστε το `FTPSClient` από το Apache Commons Net αντί για `FTPClient` και προσαρμόστε τον κώδικα σύνδεσης αναλόγως.
 
-**Q: Υπάρχουν όρια στον αριθμό των ταυτόχρονων μετατροπών;**  
-A: Το όριο εξαρτάται κυρίως από το CPU, τη μνήμη του διακομιστή σας και τους όρους άδειας του GroupDocs.Conversion.
+**Q: Υπάρχουν περιορισμοί στον αριθμό των ταυτόχρονων μετατροπών;**  
+A: Ο περιορισμός εξαρτάται κυρίως από το CPU, τη μνήμη του διακομιστή σας και τους όρους άδειας του GroupDocs.Conversion.
 
 **Q: Πού μπορώ να βρω πιο προχωρημένες επιλογές προσαρμογής PDF;**  
-A: Ανατρέξτε στην επίσημη τεκμηρίωση του GroupDocs.Conversion Java API για την πλήρη λίστα ιδιοτήτων του `PdfConvertOptions`.
+A: Ελέγξτε την επίσημη αναφορά API του GroupDocs.Conversion Java για την πλήρη λίστα ιδιοτήτων του `PdfConvertOptions`.
 
 ---
 
-**Τελευταία Ενημέρωση:** 2026-01-10  
+**Τελευταία Ενημέρωση:** 2026-06-25  
 **Δοκιμάστηκε Με:** GroupDocs.Conversion 25.2  
 **Συγγραφέας:** GroupDocs  
 
@@ -196,4 +259,8 @@ A: Ανατρέξτε στην επίσημη τεκμηρίωση του GroupD
 - [Προσωρινή Άδεια](https://purchase.groupdocs.com/temporary-license/)
 - [Φόρουμ Υποστήριξης](https://forum.groupdocs.com/c/conversion/10)
 
----
+## Σχετικά Μαθήματα
+
+- [Μετατροπή Εγγράφων URL σε PDF χρησιμοποιώντας το GroupDocs.Conversion για Java: Αναλυτικός Οδηγός](/conversion/java/pdf-conversion/groupdocs-java-download-url-to-pdf-conversion/)
+- [groupdocs convert to pdf: Οδηγός Java – Μετατροπή Εγγράφων από Azure Blob σε PDF χρησιμοποιώντας το GroupDocs.Conversion](/conversion/java/pdf-conversion/convert-documents-azure-blob-pdf-java/)
+- [Ρύθμιση GroupDocs Conversion Maven - Μετατροπή CSV σε PDF σε Java – Οδηγός Βήμα‑βήμα](/conversion/java/pdf-conversion/convert-csv-to-pdf-java-groupdocs-conversion-guide/)
