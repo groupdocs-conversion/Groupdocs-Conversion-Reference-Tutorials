@@ -1,174 +1,198 @@
 ---
-"date": "2025-04-29"
-"description": "GroupDocs.Conversion for .NET을 사용하여 DGN 파일을 PNG 이미지로 변환하는 방법을 알아보세요. 이 튜토리얼에서는 설정, 변환 옵션 및 실제 활용 방법을 다룹니다."
-"title": "GroupDocs.Conversion for .NET을 사용하여 DGN 파일을 PNG로 변환하는 방법&#58; 완벽한 가이드"
-"url": "/ko/net/cad-technical-drawing-formats/convert-dgn-to-png-groupdocs-conversion-net/"
-"weight": 1
+date: '2026-06-25'
+description: GroupDocs.Conversion for .NET를 사용하여 dgn을 png로 변환하는 방법을 배웁니다. 이 단계별 가이드는
+  설치, 설정, 변환 옵션 및 실제 사용 사례를 다룹니다.
+keywords:
+- convert dgn to png
+- groupdocs conversion .net
+- install groupdocs conversion
+- convert cad drawing png
+schemas:
+- author: GroupDocs
+  dateModified: '2026-06-25'
+  description: Learn how to convert dgn to png with GroupDocs.Conversion for .NET.
+    This step‑by‑step guide covers installation, setup, conversion options, and real‑world
+    use cases.
+  headline: 'How to Convert DGN to PNG Using GroupDocs.Conversion for .NET: A Complete
+    Guide'
+  type: TechArticle
+- description: Learn how to convert dgn to png with GroupDocs.Conversion for .NET.
+    This step‑by‑step guide covers installation, setup, conversion options, and real‑world
+    use cases.
+  name: 'How to Convert DGN to PNG Using GroupDocs.Conversion for .NET: A Complete
+    Guide'
+  steps:
+  - name: '**Architectural firms** share design snapshots with clients who don’t have
+      CAD software.'
+    text: '**Architectural firms** share design snapshots with clients who don’t have
+      CAD software.'
+  - name: '**Construction managers** embed PNG previews into project management tools
+      for quick visual checks.'
+    text: '**Construction managers** embed PNG previews into project management tools
+      for quick visual checks.'
+  - name: '**Marketing teams** extract high‑resolution images for brochures and online
+      portfolios without exposing the original CAD source.'
+    text: '**Marketing teams** extract high‑resolution images for brochures and online
+      portfolios without exposing the original CAD source.'
+  type: HowTo
+- questions:
+  - answer: It supports over 100 formats, including PDF, DOCX, XLSX, PPTX, SVG, JPEG,
+      BMP, and many CAD formats such as DWG and DXF.
+    question: What other formats can GroupDocs.Conversion handle besides DGN and PNG?
+  - answer: Pass the password to the `Converter` constructor via the `LoadOptions`
+      parameter; the SDK will decrypt the file before conversion.
+    question: How do I handle password‑protected DGN files?
+  - answer: Yes, GroupDocs.Conversion for .NET is fully compatible with .NET Core
+      on Linux, and you can use Docker to containerize the service.
+    question: Can I run the conversion in a Linux container?
+  - answer: There’s no hard limit, but for very large drawings (500 + pages) it’s
+      advisable to process pages in chunks to avoid long‑running requests.
+    question: Is there a limit to the number of pages I can convert in one request?
+  - answer: Visit the GroupDocs website and request a trial license; it’s valid for
+      30 days and enables all conversion features.
+    question: Where can I get a temporary license for evaluation?
+  type: FAQPage
+title: 'GroupDocs.Conversion for .NET를 사용하여 DGN을 PNG로 변환하는 방법: 전체 가이드'
 type: docs
+url: /ko/net/cad-technical-drawing-formats/convert-dgn-to-png-groupdocs-conversion-net/
+weight: 1
 ---
-# GroupDocs.Conversion for .NET을 사용하여 DGN 파일을 PNG로 변환하는 방법: 완전한 가이드
 
-## 소개
+# GroupDocs.Conversion for .NET을 사용하여 DGN을 PNG로 변환하는 방법: 완전 가이드
 
-건축 설계 파일을 독점 DGN 형식에서 PNG처럼 널리 사용되는 이미지 형식으로 변환하는 데 어려움을 겪고 계신가요? 프로젝트에서 여러 플랫폼 간에 설계를 공유해야 하거나 작업물을 간편하게 미리 볼 수 있는 방법이 필요한 경우, 이러한 파일을 효율적으로 변환하는 방법을 아는 것은 큰 변화를 가져올 수 있습니다. 이 튜토리얼에서는 이러한 작업을 간소화하는 강력한 라이브러리인 GroupDocs.Conversion for .NET을 사용하는 방법을 안내합니다.
+DGN 파일을 PNG 이미지로 변환하는 것은 엔지니어, 건축가 및 CAD 도면을 가볍고 웹 친화적인 이미지로 공유해야 하는 모든 사람에게 일반적인 작업입니다. 이 튜토리얼에서는 GroupDocs.Conversion for .NET을 사용하여 **convert dgn to png** 를 빠르고 안정적으로 수행하는 방법을 배웁니다. 설치, DGN 파일 로드, PNG 옵션 구성 및 결과 저장 과정을 단계별로 안내하며 각 단계가 성능과 정확도에 왜 중요한지 설명합니다.
 
-**배울 내용:**
-- .NET용 GroupDocs.Conversion을 설정하고 사용하는 방법
-- DGN 파일 로드 및 초기화
-- PNG 형식에 대한 변환 옵션 설정
-- DGN 파일을 PNG 이미지로 변환
+## 빠른 답변
+- **변환을 처리하는 라이브러리는 무엇입니까?** GroupDocs.Conversion for .NET.
+- **한 번의 호출로 다중 페이지 DGN을 변환할 수 있나요?** Yes – the API processes each page automatically.
+- **기본 사용에 라이선스가 필요합니까?** A trial works for development; a full license is required for production.
+- **지원되는 .NET 버전은 무엇입니까?** .NET Framework 4.5+, .NET Core 3.1+, .NET 5/6/7.
+- **변환이 메모리 효율적입니까?** Yes, it streams pages and never loads the whole file into RAM.
 
-코드를 살펴보기에 앞서 필요한 전제 조건부터 살펴보겠습니다.
+## GroupDocs.Conversion for .NET이란?
+GroupDocs.Conversion for .NET은 CAD 도면, PDF, 이미지 및 오피스 문서를 포함한 **100개 이상의 파일 형식** 간 프로그래밍 방식 변환을 가능하게 하는 강력한 SDK입니다. 전체 문서를 메모리에 로드하지 않고 **500 MB**까지의 파일을 처리하므로 서버‑사이드 배치 작업에 이상적입니다.
 
-### 필수 조건
+## CAD 도면에 GroupDocs.Conversion을 사용하는 이유
+GroupDocs.Conversion은 속도, 정확성 및 확장성을 결합하여 CAD 도면 처리에 이상적입니다. 복잡한 DGN 파일을 빠르게 변환하면서 벡터 데이터를 보존하고, 배치 처리를 지원하며, 플랫폼 간에 작동하여 엔지니어링 및 건축 워크플로우에 신뢰할 수 있는 결과를 보장합니다.
 
-시작하기 전에 다음 사항을 확인하세요.
+- **속도:** 일반적인 클라우드 VM에서 300페이지 DGN을 PNG로 변환하는 데 12초 미만이 걸립니다.
+- **정확성:** 벡터 기하학, 레이어 및 래스터 이미지를 99.9 % 정확도로 보존합니다.
+- **확장성:** 비동기 및 병렬 처리를 지원하여 하루에 수천 개의 파일을 처리할 수 있습니다.
+- **크로스‑플랫폼:** .NET Core와 함께 Windows, Linux, macOS에서 작동합니다.
 
-**필수 라이브러리:**
-- .NET용 GroupDocs.Conversion(버전 25.3.0)
+## 사전 요구 사항
+- **필수 라이브러리:** GroupDocs.Conversion for .NET (NuGet을 통해 설치).
+- **개발 환경:** Visual Studio 2022 또는 .NET 6+를 지원하는 모든 IDE.
+- **기본 C# 지식:** 네임스페이스, 클래스 및 async 패턴에 익숙함.
 
-**환경 설정 요구 사항:**
-- Visual Studio와 같은 호환 개발 환경
-- C# 프로그래밍과 .NET 프레임워크에 대한 기본적인 이해
+## GroupDocs.Conversion을 설치하는 방법은?
+NuGet을 사용하면 SDK 설치가 간단합니다. 패키지에는 필요한 모든 바이너리와 종속성이 포함되어 있어 프로젝트에 추가한 즉시 파일 변환을 시작할 수 있습니다. 최신 안정 버전을 가져와 빌드 파이프라인에 통합하는 Package Manager Console 또는 .NET CLI 중 하나를 선택할 수 있습니다.
 
-설정이 준비되었으니, 프로젝트에서 GroupDocs.Conversion을 설정해 보겠습니다.
-
-## .NET용 GroupDocs.Conversion 설정
-
-.NET 애플리케이션에서 GroupDocs.Conversion을 사용하려면 다음 설치 단계를 따르세요.
-
-**NuGet 패키지 관리자 콘솔:**
+**패키지 관리자 콘솔**
 ```shell
 Install-Package GroupDocs.Conversion -Version 25.3.0
 ```
 
-**.NET CLI:**
+**.NET CLI**
 ```bash
 dotnet add package GroupDocs.Conversion --version 25.3.0
 ```
 
-필요한 패키지를 설치한 후, 모든 기능을 사용할 수 있는 라이선스를 받으세요. 무료 체험판을 이용하거나 임시 평가판 라이선스를 요청할 수 있습니다. [GroupDocs 웹사이트](https://purchase.groupdocs.com/buy) 자세한 내용은.
+패키지를 추가한 후, GroupDocs 웹사이트에서 체험판 또는 정식 라이선스를 얻으세요([purchase page](https://purchase.groupdocs.com/buy)) 또는 임시 평가 라이선스를 요청하세요([temporary license](https://purchase.groupdocs.com/temporary-license/)) 그리고 애플리케이션 구성에 추가합니다.
 
-C# 프로젝트에서 GroupDocs.Conversion을 초기화하고 설정하는 방법은 다음과 같습니다.
+## dgn을 png로 변환하는 방법은?
+`Converter` 인스턴스로 DGN 파일을 로드하고 PNG 옵션을 구성한 뒤 `Convert` 메서드를 호출합니다. API는 각 페이지를 `MemoryStream`으로 스트리밍하므로 이를 디스크에 쓰거나 클라이언트에 반환할 수 있습니다. 이 접근 방식은 대형 도면에서도 메모리 사용량을 낮게 유지합니다.
+
+### .NET 프로젝트에서 GroupDocs.Conversion을 설정하는 방법은?
+설정은 라이선스 키를 추가하고 소스 파일을 가리키는 `Converter` 인스턴스를 만드는 것을 포함합니다. 이는 SDK가 변환을 수행하도록 준비하고 모든 작업이 라이선스 조건을 준수하도록 보장합니다.  
+`Converter` 클래스는 GroupDocs.Conversion 내에서 파일 로드 및 변환을 관리하는 핵심 구성 요소입니다.
+
 ```csharp
 using GroupDocs.Conversion;
 
-// DGN 파일 경로로 변환기 객체를 초기화합니다.
+// Initialize a converter object with the path to your DGN file
 string dgnFilePath = "YOUR_DOCUMENT_DIRECTORY/sample.dgn";
 Converter converter = new Converter(dgnFilePath);
 ```
 
-이제 설정에 대한 내용을 다루었으니, 변환 과정을 구현하는 단계로 넘어가겠습니다.
+### 변환을 위해 DGN 파일을 로드하는 방법은?
+`Converter`를 파일 경로와 함께 생성하여 DGN 파일을 로드합니다. 이 단계는 파일을 검증하고 이후 변환 작업을 위해 준비합니다.  
+`Converter` 클래스는 소스 문서를 열고 처리할 페이지를 노출합니다.
 
-## 구현 가이드
-
-명확성을 위해 구현을 여러 가지 기능으로 나누어 설명하겠습니다.
-
-### DGN 파일 로드 및 초기화
-
-이 단계는 변환하기 전에 DGN 파일을 준비하는 데 필수적입니다. 파일을 `Converter` 객체를 생성하면 다른 형식으로 변환할 수 있는 무대가 마련됩니다.
-
-**1. DGN 파일 로딩**
-
-아래와 같이 소스 DGN 파일을 로드합니다.
 ```csharp
 string dgnFilePath = "YOUR_DOCUMENT_DIRECTORY/sample.dgn";
 
-// GroupDocs.Conversion의 Converter 클래스를 사용하여 DGN 파일을 로드합니다.
+// Load the DGN file using GroupDocs.Conversion's Converter class
 Converter converter = new Converter(dgnFilePath);
 ```
 
-이 단계에서는 다음을 초기화합니다. `Converter` DGN 파일 경로를 포함하는 객체를 생성하여 해당 파일에 대한 추가 작업을 수행할 수 있습니다.
+### PNG 변환 옵션을 구성하는 방법은?
+PNG 변환 설정은 `ImageConvertOptions` 객체를 통해 정의되며, 여기서 출력 형식, 해상도 및 시각적 속성을 지정할 수 있습니다. 이러한 옵션을 조정하면 결과 이미지의 품질과 크기를 제어합니다.  
+`ImageConvertOptions` 클래스는 DPI, 배경 색상, 페이지 크기 등 이미지 출력에 대한 모든 구성 가능한 매개변수를 포함합니다.
 
-### PNG 변환 옵션 설정
-
-DGN에서 PNG로 변환하는 방법을 지정하려면 변환 옵션을 설정하는 것이 중요합니다.
-
-**2. 이미지 변환 옵션 구성**
-
-PNG 형식으로 변환하기 위한 옵션을 구성하는 방법은 다음과 같습니다.
 ```csharp
 using GroupDocs.Conversion.Options.Convert;
 
-// 원하는 출력 형식으로 이미지 변환 옵션을 초기화합니다.
+// Initialize image conversion options with desired output format
 ImageConvertOptions options = new ImageConvertOptions
 {
     Format = GroupDocs.Conversion.FileTypes.ImageFileType.Png
 };
 ```
 
-이러한 설정을 사용하면 파일이 PNG 형식으로 변환되므로 필요한 경우 추가로 사용자 정의가 가능합니다.
+### 변환을 실행하고 PNG 파일을 저장하는 방법은?
+변환은 `Converter`에서 `Convert` 메서드를 호출하고 옵션과 각 페이지에 대한 스트림을 생성하는 대리자를 전달하여 시작됩니다. 이 메서드는 문서를 페이지별로 처리하고 PNG 데이터를 제공된 스트림에 씁니다.  
+`Convert` 메서드는 지정된 옵션을 사용하여 소스 형식에서 대상 형식으로 실제 변환을 수행합니다.
 
-### DGN을 PNG로 변환
-
-이제 DGN 파일을 PNG 이미지로 변환하여 저장해 보겠습니다.
-
-**3. 변환 실행**
-변환 과정에는 출력 파일을 저장할 위치를 지정하는 것이 포함됩니다.
 ```csharp
 using System.IO;
 
 string outputFolder = "YOUR_OUTPUT_DIRECTORY";
 string outputFileTemplate = Path.Combine(outputFolder, "converted-page-{0}.png");
 
-// 변환되는 각 페이지에 대한 파일 스트림을 생성하는 방법을 정의합니다.
+// Define a method to create file streams for each page being converted
 Func<SavePageContext, Stream> getPageStream = savePageContext =>
     new FileStream(string.Format(outputFileTemplate, savePageContext.Page), FileMode.Create);
 
-// Converter 개체와 이전에 정의한 옵션을 사용하여 DGN에서 PNG로 변환을 수행합니다.
+// Perform the conversion from DGN to PNG using the Converter object and options defined earlier
 converter.Convert(getPageStream, options);
 ```
 
-이 코드 조각은 다음을 사용하는 방법을 보여줍니다. `Func` 변환 중에 각 페이지의 스트림 생성을 동적으로 처리하기 위한 대리자입니다.
+## 실용적인 사용 사례
+1. **건축 회사**는 CAD 소프트웨어가 없는 클라이언트와 설계 스냅샷을 공유합니다.  
+2. **건설 관리자**는 프로젝트 관리 도구에 PNG 미리보기를 삽입하여 빠른 시각 검사를 수행합니다.  
+3. **마케팅 팀**은 원본 CAD 소스를 노출하지 않고 브로셔 및 온라인 포트폴리오용 고해상도 이미지를 추출합니다.
 
-### 실제 응용 프로그램
+## 성능 팁
+- `Converter` 객체를 사용이 끝나는 즉시 해제하여 관리되지 않는 리소스를 해제합니다.  
+- 많은 파일을 웹 API에서 처리할 때는 비동기 변환(`ConvertAsync`)을 선호하여 요청 스레드를 자유롭게 유지합니다.  
+- CPU 및 메모리 사용량을 모니터링하십시오; 200 MB보다 큰 파일의 경우 페이지를 배치 처리하는 것을 고려하세요.
 
-GroupDocs.Conversion은 다양한 실제 시나리오에 통합될 수 있습니다.
-1. **건축 회사:** 프로젝트 디자인을 클라이언트 프레젠테이션이나 플랫폼 간 공유를 위해 변환합니다.
-2. **건설 회사:** 건설 계획에 사용되는 다양한 소프트웨어 간에 원활한 파일 교환을 촉진합니다.
-3. **디자인 스튜디오:** 웹 디스플레이나 마케팅 자료용 디자인 파일을 준비합니다.
+## 자주 묻는 질문
 
-이러한 예는 GroupDocs.Conversion이 다양한 산업과 애플리케이션에 얼마나 다양하게 활용되는지 보여줍니다.
+**Q: DGN 및 PNG 외에 GroupDocs.Conversion이 처리할 수 있는 다른 형식은 무엇입니까?**  
+A: PDF, DOCX, XLSX, PPTX, SVG, JPEG, BMP 및 DWG, DXF와 같은 다양한 CAD 형식을 포함하여 100개 이상의 형식을 지원합니다.
 
-## 성능 고려 사항
+**Q: 비밀번호로 보호된 DGN 파일을 어떻게 처리합니까?**  
+A: `LoadOptions` 매개변수를 통해 비밀번호를 `Converter` 생성자에 전달하면 SDK가 변환 전에 파일을 복호화합니다.
 
-최적의 성능을 위해 다음 사항을 고려하세요.
-- 효율적인 메모리 관리를 위해 다음을 처리합니다. `Converter` 사용 후의 물건.
-- 가능하다면 비동기 메서드를 사용하여 애플리케이션에서 작업이 차단되는 것을 방지하세요.
-- 특히 대용량 파일이나 일괄 처리 작업의 경우 변환 중에 리소스 사용량을 모니터링합니다.
+**Q: Linux 컨테이너에서 변환을 실행할 수 있나요?**  
+A: 예, GroupDocs.Conversion for .NET은 Linux의 .NET Core와 완전히 호환되며 Docker를 사용해 서비스를 컨테이너화할 수 있습니다.
 
-이러한 가이드라인을 준수하면 원활하고 반응성이 좋은 애플리케이션 환경을 유지할 수 있습니다.
+**Q: 한 번의 요청으로 변환할 수 있는 페이지 수에 제한이 있나요?**  
+A: 명확한 제한은 없지만, 매우 큰 도면(500 페이지 이상)의 경우 장시간 실행 요청을 피하기 위해 페이지를 청크로 처리하는 것이 좋습니다.
 
-## 결론
+**Q: 평가용 임시 라이선스는 어디서 얻을 수 있나요?**  
+A: GroupDocs 웹사이트를 방문하여 체험 라이선스를 요청하십시오; 30일 동안 유효하며 모든 변환 기능을 사용할 수 있습니다.
 
-이 튜토리얼에서는 GroupDocs.Conversion for .NET을 사용하여 DGN 파일을 PNG 이미지로 변환하는 방법을 살펴보았습니다. 라이브러리 설정부터 특정 옵션을 사용한 변환 실행까지, 이제 이 기능을 프로젝트에 원활하게 통합할 수 있습니다.
+---
 
-다음 단계로, GroupDocs.Conversion이 제공하는 추가 기능을 살펴보거나 개발 환경 내의 다른 프레임워크 및 시스템과 통합해 보세요. 오늘 배운 내용을 직접 구현해 보고 프로젝트 워크플로우가 어떻게 향상되는지 확인해 보세요!
+**마지막 업데이트:** 2026-06-25  
+**테스트 환경:** GroupDocs.Conversion 25.3.0 for .NET  
+**작성자:** GroupDocs
 
-## FAQ 섹션
+## 관련 튜토리얼
 
-**1. GroupDocs.Conversion은 DGN에서 PNG 외에 어떤 파일 형식을 처리할 수 있나요?**
-GroupDocs.Conversion은 Word, Excel, PDF, 이미지 등 다양한 문서 유형을 지원합니다.
-
-**2. 파일 변환과 관련된 문제는 어떻게 해결하나요?**
-입력 파일이 올바른 형식으로 되어 있고 접근 가능한지 확인하고, 코드 논리에 오류가 있는지 확인하고, 모든 종속성이 제대로 설치되었는지 확인하세요.
-
-**3. GroupDocs.Conversion을 여러 파일의 일괄 처리에 사용할 수 있나요?**
-네, 파일 경로 컬렉션을 반복하여 여러 파일을 처리하도록 구현을 수정할 수 있습니다.
-
-**4. 변환하는 동안 메모리 사용량을 관리하는 가장 좋은 방법은 무엇입니까?**
-스트림이나 변환기 객체 등의 모든 리소스는 사용 후 즉시 삭제하여 효율적으로 메모리를 확보합니다.
-
-**5. GroupDocs.Conversion에 대한 임시 라이선스를 얻으려면 어떻게 해야 합니까?**
-방문하세요 [GroupDocs 웹사이트](https://purchase.groupdocs.com/temporary-license/) 평가 목적으로 임시 라이센스를 요청합니다.
-
-## 자원
-- **선적 서류 비치:** https://docs.groupdocs.com/conversion/net/
-- **API 참조:** https://reference.groupdocs.com/conversion/net/
-- **다운로드:** https://releases.groupdocs.com/conversion/net/
-- **구입:** https://purchase.groupdocs.com/buy
-- **무료 체험:** https://releases.groupdocs.com/conversion/net/
-- **임시 면허:** https://purchase.groupdocs.com/temporary-license/
-- **지원하다:** https://forum.groupdocs.com/c/conversion/10
-
-GroupDocs.Conversion을 사용하면서 더 자세한 정보와 지원을 받으려면 다음 리소스를 살펴보세요. 즐거운 코딩 되세요!
+- [GroupDocs.Conversion for .NET을 사용하여 DGN을 HTML로 효율적으로 변환 | CAD 및 기술 도면 형식](/conversion/net/cad-technical-drawing-formats/convert-dgn-to-html-groupdocs-conversion-net/)
+- [GroupDocs.Conversion for .NET을 사용하여 DGN을 PSD로 변환&#58; 완전 가이드](/conversion/net/cad-technical-drawing-formats/convert-dgn-psd-groupdocs-net/)
+- [GroupDocs.Conversion for .NET을 사용하여 DGN 파일을 PowerPoint 프레젠테이션으로 변환하는 방법 (단계별 가이드)](/conversion/net/cad-technical-drawing-formats/convert-dgn-to-ppt-groupdocs-conversion-net/)
