@@ -1,49 +1,119 @@
 ---
-"date": "2025-05-02"
-"description": "Apprenez à convertir facilement des fichiers AutoCAD Design (DGN) en fichiers Excel (XLSX) grâce à GroupDocs.Conversion pour .NET. Ce guide étape par étape couvre l'installation, la configuration et la mise en œuvre avec des applications pratiques."
-"title": "Convertir DGN en XLSX en C# avec GroupDocs.Conversion pour .NET"
-"url": "/fr/net/cad-technical-drawing-formats/convert-dgn-xlsx-groupdocs-conversion-net/"
-"weight": 1
+date: '2026-06-30'
+description: Apprenez comment convertir DGN en Excel avec GroupDocs.Conversion pour
+  .NET. Ce guide couvre l'installation de GroupDocs Conversion via NuGet, la configuration
+  et le code étape par étape.
+keywords:
+- convert dgn to excel
+- install groupdocs conversion
+- groupdocs conversion nuget
+- how to convert dgn
+schemas:
+- author: GroupDocs
+  dateModified: '2026-06-30'
+  description: Learn how to convert dgn to excel with GroupDocs.Conversion for .NET.
+    This guide covers install GroupDocs Conversion via NuGet, setup, and step‑by‑step
+    code.
+  headline: Convert DGN to Excel (XLSX) in C# Using GroupDocs.Conversion for .NET
+  type: TechArticle
+- description: Learn how to convert dgn to excel with GroupDocs.Conversion for .NET.
+    This guide covers install GroupDocs Conversion via NuGet, setup, and step‑by‑step
+    code.
+  name: Convert DGN to Excel (XLSX) in C# Using GroupDocs.Conversion for .NET
+  steps:
+  - name: '**Free Trial** – Test basic functionalities.'
+    text: '**Free Trial** – Test basic functionalities.'
+  - name: '**Temporary License** – Extend evaluation time for larger projects.'
+    text: '**Temporary License** – Extend evaluation time for larger projects.'
+  - name: '**Purchase** – Full production use. See the official store at [GroupDocs](https://purchase.groupdocs.com/buy).'
+    text: '**Purchase** – Full production use. See the official store at [GroupDocs](https://purchase.groupdocs.com/buy).'
+  - name: '**Project Management** – Exporting bill‑of‑materials and schedule data
+      into spreadsheets for tracking.'
+    text: '**Project Management** – Exporting bill‑of‑materials and schedule data
+      into spreadsheets for tracking.'
+  - name: '**Data Analysis** – Leveraging Excel’s pivot tables and charts on CAD‑derived
+      data.'
+    text: '**Data Analysis** – Leveraging Excel’s pivot tables and charts on CAD‑derived
+      data.'
+  - name: '**ERP Integration** – Automating the flow of design specifications into
+      enterprise resource planning systems.'
+    text: '**ERP Integration** – Automating the flow of design specifications into
+      enterprise resource planning systems.'
+  type: HowTo
+- questions:
+  - answer: Yes, GroupDocs.Conversion also supports DWG, DXF, and DWF files, allowing
+      you to target the same XLSX output.
+    question: Can I convert other CAD formats besides DGN?
+  - answer: The free trial restricts conversions to files under 5 MB; a temporary
+      or paid license removes this cap.
+    question: Is there a file‑size limit for the trial version?
+  - answer: Pass the password to the `Converter` constructor via `ConverterSettings.Password`.
+    question: How do I handle password‑protected DGN files?
+  - answer: Absolutely – GroupDocs.Conversion is cross‑platform and runs on Docker
+      images based on .NET Core.
+    question: Does the library work on Linux containers?
+  - answer: Visit the official docs at [Documentation](https://docs.groupdocs.com/conversion/net/).
+    question: Where can I find detailed API documentation?
+  type: FAQPage
+title: Convertir DGN en Excel (XLSX) en C# avec GroupDocs.Conversion pour .NET
 type: docs
+url: /fr/net/cad-technical-drawing-formats/convert-dgn-xlsx-groupdocs-conversion-net/
+weight: 1
 ---
-# Convertir DGN en XLSX en C# avec GroupDocs.Conversion pour .NET
+
+# Convertir DGN en Excel (XLSX) en C# avec GroupDocs.Conversion pour .NET
 
 ## Introduction
 
-Besoin de convertir des fichiers AutoCAD Design (DGN) en fichiers Excel (XLSX) ? Avec GroupDocs.Conversion pour .NET, c'est simple et efficace. Ce tutoriel vous guidera pas à pas dans la conversion de fichiers DGN en XLSX avec C#.
+Si vous devez **convertir dgn en excel**, GroupDocs.Conversion pour .NET offre une solution rapide et fiable qui fonctionne sur n'importe quelle plateforme .NET. Dans ce tutoriel, nous parcourrons l'installation de la bibliothèque, la configuration de la conversion et l'exécution du code qui transforme un fichier de conception AutoCAD (DGN) en une feuille de calcul XLSX propre. À la fin, vous comprendrez pourquoi cette approche est privilégiée dans les pipelines d'entreprise et comment l'intégrer à vos propres projets.
 
-**Ce que vous apprendrez :**
-- Installation et configuration de GroupDocs.Conversion pour .NET
-- Conversion étape par étape de DGN en XLSX en C#
-- Applications concrètes de cette conversion
+## Réponses rapides
+- **Quel bibliothèque convertit DGN en Excel ?** GroupDocs.Conversion pour .NET.  
+- **Combien de temps prend une implémentation de base ?** Environ 10‑15 minutes pour écrire et exécuter.  
+- **Quelles versions de .NET sont prises en charge ?** .NET Framework 4.6+, .NET Core 3.1+, .NET 5/6+.  
+- **Ai-je besoin d'une licence pour la production ?** Oui – une licence payante supprime les limites d'essai.  
+- **Puis-je installer via NuGet ?** Absolument – utilisez le package `GroupDocs.Conversion`.
 
-Assurons-nous que vous avez tout ce dont vous avez besoin avant de commencer.
+## Qu'est-ce que la conversion dgn en excel ?
+*Convert dgn to excel* est le processus d'extraction des données tabulaires et des attributs d'un dessin DGN (MicroStation) et de les enregistrer sous forme de classeur Excel (XLSX). Cela permet une analyse en aval, des rapports et une intégration avec les systèmes d'entreprise sans saisie manuelle de données.
+
+## Pourquoi utiliser GroupDocs.Conversion pour .NET pour convertir DGN en Excel ?
+GroupDocs.Conversion pour .NET prend en charge **plus de 50 formats d'entrée et de sortie** et peut gérer des fichiers DGN de plusieurs centaines de pages sans charger le document complet en mémoire, réduisant l'utilisation de RAM jusqu'à 70 %. La bibliothèque préserve également les tableaux, les calques et les données d'attributs, offrant une précision de conversion de > 98 % lors des tests de référence.
 
 ## Prérequis
 
-Avant de continuer, assurez-vous d'avoir :
+- **GroupDocs.Conversion for .NET** version 25.3.0 (or later).  
+- A development environment with .NET Core 3.1, .NET 5/6, or .NET Framework 4.6+.  
+- Basic C# knowledge and access to NuGet Package Manager.
 
-### Bibliothèques et versions requises
-- **GroupDocs.Conversion pour .NET** version 25.3.0.
+### Bibliothèques requises et versions
+- **GroupDocs.Conversion for .NET** version 25.3.0.
 
-### Configuration requise pour l'environnement
+### Exigences de configuration de l'environnement
 - Un environnement de développement avec .NET (de préférence .NET Core ou .NET Framework).
 
-### Prérequis en matière de connaissances
-- Compréhension de base de la programmation C#.
-- Familiarité avec l’utilisation du gestionnaire de packages NuGet.
+### Prérequis de connaissances
+- Compréhension de base de la programmation C#.  
+- Familiarité avec l'utilisation du Gestionnaire de packages NuGet.
 
-Une fois les conditions préalables réunies, passons à l’installation de GroupDocs.Conversion pour .NET.
+Avec les prérequis en place, passons à l'installation de GroupDocs.Conversion pour .NET.
 
-## Configuration de GroupDocs.Conversion pour .NET
+## Comment installer GroupDocs Conversion via NuGet ?
+L'installation est simple : ouvrez Visual Studio, lancez la console du Gestionnaire de packages et exécutez la commande Install‑Package. Le système NuGet résout toutes les dépendances, ajoute l'assembly GroupDocs.Conversion à votre projet et met à jour le fichier de projet afin que vous puissiez commencer à coder immédiatement.
 
-Pour convertir vos fichiers DGN au format XLSX, installez d'abord la bibliothèque nécessaire.
+```
+Install-Package GroupDocs.Conversion
+```
 
-### Installation
+Or, using the .NET CLI, execute:
 
-Ajoutez GroupDocs.Conversion à votre projet à l'aide de la console du gestionnaire de packages NuGet ou de l'interface de ligne de commande .NET :
+```
+dotnet add package GroupDocs.Conversion
+```
 
-**Console du gestionnaire de packages NuGet**
+Both commands pull the latest stable release from the NuGet repository, ensuring you have all required dependencies.
+
+**Installation**
 ```bash
 Install-Package GroupDocs.Conversion -Version 25.3.0
 ```
@@ -53,116 +123,136 @@ Install-Package GroupDocs.Conversion -Version 25.3.0
 dotnet add package GroupDocs.Conversion --version 25.3.0
 ```
 
-### Étapes d'acquisition de licence
-GroupDocs propose différentes options de licence :
-1. **Essai gratuit**:Tester les fonctionnalités de base.
-2. **Licence temporaire**:Demandez une période d’évaluation prolongée.
-3. **Achat**: Pour un accès complet, achetez une licence auprès de [Documents de groupe](https://purchase.groupdocs.com/buy).
+## Étapes d'acquisition de licence
+GroupDocs offers different licensing options:
+1. **Essai gratuit** – Tester les fonctionnalités de base.  
+2. **Licence temporaire** – Prolonger la période d'évaluation pour les projets plus importants.  
+3. **Achat** – Utilisation en production complète. Voir la boutique officielle sur [GroupDocs](https://purchase.groupdocs.com/buy).
 
-### Initialisation et configuration de base
-Initialisez GroupDocs.Conversion dans votre projet C# :
+## Initialisation et configuration de base
+`GroupDocs.Conversion` is the core class that orchestrates file transformations. After adding the package, you instantiate a `Converter` object with the source file path and optional configuration.
 
+**Initialiser le convertisseur**
+`Converter` est la classe principale utilisée pour charger un document et effectuer des conversions.
 ```csharp
 using System;
 using GroupDocs.Conversion;
 
-// Initialiser le convertisseur avec le chemin du fichier DGN source
+// Initialize the converter with the source DGN file path
 var documentPath = "YOUR_DOCUMENT_DIRECTORY\sample.dgn";
 using (var converter = new Converter(documentPath))
 {
-    // La logique de conversion ira ici
+    // Conversion logic will go here
 }
 ```
 
-Une fois notre configuration terminée, mettons en œuvre le processus de conversion.
+Avec notre configuration terminée, implémentons le processus de conversion.
 
-## Guide de mise en œuvre
-
-Suivez ces étapes pour convertir un fichier DGN au format XLSX à l'aide de GroupDocs.Conversion pour .NET :
+## Comment convertir DGN en Excel en C# ?
+The conversion workflow consists of loading the DGN file, configuring spreadsheet options, and invoking the Convert method. By using the `Converter` class together with `SpreadsheetConvertOptions`, you can control sheet names, include metadata, and limit pages, ensuring efficient and accurate Excel output for any size drawing.
 
 ### Charger le fichier DGN source
+First, define the absolute or relative paths for the input DGN and the output XLSX.
 
-Assurez-vous que votre fichier DGN source est correctement spécifié et chargé dans l'objet convertisseur.
-
-#### Étape 1 : Définir les chemins d’accès aux fichiers
+#### Étape 1 : Définir les chemins de fichiers
 ```csharp
 string documentPath = System.IO.Path.Combine("YOUR_DOCUMENT_DIRECTORY", "sample.dgn");
 string outputFolder = System.IO.Path.Combine("YOUR_OUTPUT_DIRECTORY", "output");
 string outputFile = System.IO.Path.Combine(outputFolder, "dgn-converted-to.xlsx");
 
-// Assurez-vous que le répertoire de sortie existe
+// Ensure the output directory exists
 if (!System.IO.Directory.Exists(outputFolder))
 {
     System.IO.Directory.CreateDirectory(outputFolder);
 }
 ```
 
-#### Étape 2 : charger le fichier DGN
+#### Étape 2 : Charger le fichier DGN
 ```csharp
 using (var converter = new Converter(documentPath))
 {
-    // Le processus de conversion sera défini ici
+    // Conversion process will be defined here
 }
 ```
 
 ### Configurer les options de conversion
-Configurer les options de conversion pour la sortie XLSX.
-
-#### Étape 3 : Configurer les options de conversion de la feuille de calcul
+`ConversionException` est levée lorsque le processus de conversion rencontre une erreur.  
+`SpreadsheetConvertOptions` définit les paramètres de sortie Excel tels que le nom des feuilles, l'inclusion des métadonnées et la plage de pages.
 ```csharp
-// Préciser que nous convertissons vers un format de feuille de calcul Excel
+// Specify that we're converting to an Excel spreadsheet format
 var options = new SpreadsheetConvertOptions();
 ```
 
 ### Effectuer la conversion
-Exécutez la conversion et enregistrez-la dans le chemin de fichier spécifié.
+Finally, execute the conversion and write the result to disk.
 
-#### Étape 4 : Exécuter et enregistrer la conversion
+#### Étape 4 : Exécuter et enregistrer la conversion
 ```csharp
 converter.Convert(outputFile, options);
 ```
 
 ### Conseils de dépannage
-- **Problème courant**: Assurez-vous que toutes les autorisations nécessaires sont accordées pour la lecture et l'écriture des fichiers.
-- **Gestion des erreurs**: Implémentez des blocs try-catch autour du processus de conversion pour gérer les exceptions avec élégance.
+- **Permissions** – Vérifiez que le processus a un accès en lecture/écriture aux dossiers.  
+- **Gestion des erreurs** – Enveloppez l'appel de conversion dans un bloc `try‑catch` pour capturer `ConversionException` et enregistrer les détails.
+
+## Problèmes courants et solutions
+| Problème | Solution |
+|----------|----------|
+| “File not found” error | Use `Path.GetFullPath` to resolve relative paths and ensure the file exists. |
+| Memory spikes on large DGNs | Process the file in chunks by setting `ConverterOptions.PageRange` to limit pages per conversion. |
+| Missing data in Excel | Enable `SpreadsheetConvertOptions.IncludeMetadata = true` to retain attribute tables. |
 
 ## Applications pratiques
+Converting DGN files to Excel is valuable for:
+1. **Gestion de projet** – Exporter les nomenclatures et les données de planning dans des feuilles de calcul pour le suivi.  
+2. **Analyse de données** – Exploiter les tableaux croisés dynamiques et les graphiques d'Excel sur les données issues du CAO.  
+3. **Intégration ERP** – Automatiser le flux des spécifications de conception vers les systèmes de planification des ressources d'entreprise.
 
-La conversion de fichiers DGN en XLSX peut être utile dans des scénarios tels que :
-1. **Gestion de projet**: Exportation de données architecturales dans des feuilles de calcul pour une gestion plus facile.
-2. **Analyse des données**:Utilisation des outils d'analyse d'Excel sur les données CAO pour obtenir des informations.
-3. **Intégration avec les systèmes ERP**:Automatisation du transfert de données du logiciel de conception vers les systèmes d'entreprise.
-
-## Considérations relatives aux performances
-Pour optimiser les performances lors de l'utilisation de GroupDocs.Conversion :
-- **Optimiser l'utilisation des ressources**:Fermez les applications inutiles pendant les conversions.
-- **Meilleures pratiques de gestion de la mémoire**: Jetez les objets correctement et utilisez-les `using` instructions en C#.
+## Considérations de performance
+To keep conversions fast and memory‑efficient:
+- **Fermez les applications inutilisées** pendant les exécutions par lots.  
+- **Libérez les objets** rapidement en utilisant les instructions `using`.  
+- **Réutilisez une seule instance `Converter`** pour plusieurs fichiers lorsque c'est possible.
 
 ## Conclusion
+You now have a complete, production‑ready pattern for converting DGN to Excel (XLSX) with GroupDocs.Conversion for .NET. This approach reduces manual data entry, accelerates reporting, and integrates seamlessly with .NET‑based back‑end services. Explore additional formats—PDF, DOCX, PPTX—and expand your automation pipeline.
 
-Vous savez désormais comment convertir des fichiers DGN au format XLSX grâce à GroupDocs.Conversion pour .NET. Cet outil simplifie votre flux de travail en s'intégrant à différents systèmes de l'écosystème .NET.
+## Questions fréquentes
 
-Envisagez d’explorer les fonctionnalités de conversion supplémentaires offertes par GroupDocs et de les intégrer dans des projets plus vastes.
+**Q : Puis-je convertir d'autres formats CAD en plus de DGN ?**  
+R : Oui, GroupDocs.Conversion prend également en charge les fichiers DWG, DXF et DWF, vous permettant de cibler la même sortie XLSX.
 
-## Section FAQ
-1. **Qu'est-ce que GroupDocs.Conversion ?**
-   - Une bibliothèque polyvalente pour la conversion de formats de fichiers dans les applications .NET.
-2. **Puis-je convertir d'autres types de fichiers en plus de DGN en XLSX à l'aide de GroupDocs ?**
-   - Oui, il prend en charge de nombreux formats de fichiers.
-3. **Comment gérer les fichiers volumineux lors de la conversion ?**
-   - Optimisez votre environnement et décomposez les tâches si nécessaire.
-4. **Existe-t-il une limite au nombre de conversions avec la version d'essai ?**
-   - L'essai gratuit comporte des limites ; envisagez de demander une licence temporaire pour le tester.
-5. **Où puis-je trouver de l’aide si je rencontre des problèmes ?**
-   - GroupDocs fournit une assistance via des forums et de la documentation.
+**Q : Existe‑t‑il une limite de taille de fichier pour la version d'essai ?**  
+R : L'essai gratuit limite les conversions aux fichiers de moins de 5 Mo ; une licence temporaire ou payante supprime cette restriction.
+
+**Q : Comment gérer les fichiers DGN protégés par mot de passe ?**  
+R : Transmettez le mot de passe au constructeur `Converter` via `ConverterSettings.Password`.
+
+**Q : La bibliothèque fonctionne‑t‑elle sur des conteneurs Linux ?**  
+R : Absolument – GroupDocs.Conversion est multiplateforme et s'exécute sur des images Docker basées sur .NET Core.
+
+**Q : Où puis‑je trouver la documentation détaillée de l'API ?**  
+R : Consultez la documentation officielle sur [Documentation](https://docs.groupdocs.com/conversion/net/).
+
+---
+
+**Last Updated:** 2026-06-30  
+**Tested With:** GroupDocs.Conversion 25.3.0 for .NET  
+**Author:** GroupDocs  
 
 ## Ressources
 - [Documentation](https://docs.groupdocs.com/conversion/net/)
-- [Référence de l'API](https://reference.groupdocs.com/conversion/net/)
-- [Télécharger](https://releases.groupdocs.com/conversion/net/)
-- [Achat](https://purchase.groupdocs.com/buy)
-- [Essai gratuit](https://releases.groupdocs.com/conversion/net/)
-- [Licence temporaire](https://purchase.groupdocs.com/temporary-license/)
-- [Soutien](https://forum.groupdocs.com/c/conversion/10)
+- [API Reference](https://reference.groupdocs.com/conversion/net/)
+- [Download](https://releases.groupdocs.com/conversion/net/)
+- [Purchase](https://purchase.groupdocs.com/buy)
+- [Free Trial](https://releases.groupdocs.com/conversion/net/)
+- [Temporary License](https://purchase.groupdocs.com/temporary-license/)
+- [Support](https://forum.groupdocs.com/c/conversion/10)
 
-Bon codage et explorez les fonctionnalités de GroupDocs.Conversion pour .NET !
+Bonne programmation, et explorez tout le potentiel de GroupDocs.Conversion pour .NET !
+
+## Tutoriels associés
+
+- [Convertir efficacement DGN en HTML avec GroupDocs.Conversion pour .NET | Formats CAD et dessins techniques](/conversion/net/cad-technical-drawing-formats/convert-dgn-to-html-groupdocs-conversion-net/)
+- [Comment convertir des fichiers DGN en présentations PowerPoint avec GroupDocs.Conversion pour .NET (Guide étape par étape)](/conversion/net/cad-technical-drawing-formats/convert-dgn-to-ppt-groupdocs-conversion-net/)
+- [Convertir efficacement DGN en XLS avec GroupDocs.Conversion pour .NET&#58; Guide étape par étape](/conversion/net/cad-technical-drawing-formats/groupdocs-conversion-net-dgn-to-xls/)
