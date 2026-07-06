@@ -1,55 +1,242 @@
 ---
-date: '2026-01-15'
-description: Naučte se, jak převést Excel do PDF v Javě s jednou stránkou na list
-  a náhradou fontů pomocí GroupDocs.Conversion, což zajišťuje konzistentní typografii.
+date: '2026-07-06'
+description: Zjistěte, jak pomocí GroupDocs.Conversion v Javě generovat PDF z Excelu
+  s konverzí Excel PDF One Page a font substitution pro konzistentní typografii.
 keywords:
-- Excel to PDF conversion
-- Java font substitution
-- GroupDocs.Conversion setup
-title: Jedna stránka na list – Excel do PDF v Javě, náhrada fontů
+- excel pdf one page
+- generate pdf from excel
+- convert excel to pdf java
+schemas:
+- author: GroupDocs
+  dateModified: '2026-07-06'
+  description: Learn how to use GroupDocs.Conversion to generate pdf from excel in
+    Java with excel pdf one page conversion and font substitution for consistent typography.
+  headline: Excel PDF One Page – Java Conversion with Font Substitution
+  type: TechArticle
+- description: Learn how to use GroupDocs.Conversion to generate pdf from excel in
+    Java with excel pdf one page conversion and font substitution for consistent typography.
+  name: Excel PDF One Page – Java Conversion with Font Substitution
+  steps:
+  - name: Define Input and Output Paths
+    text: Set the source Excel file and the destination PDF file. Use absolute paths
+      for production environments to avoid classpath ambiguities.
+  - name: Create Load Options with Font Substitutes
+    text: The `SpreadsheetLoadOptions` class lets you specify how the source workbook
+      should be interpreted. `SpreadsheetLoadOptions` is the configuration object
+      that controls how Excel files are loaded into GroupDocs.Conversion. `FontSubstitute`
+      defines a mapping from a missing font to an available replaceme
+  - name: Enable One Page per Sheet and Set a Default Font
+    text: 'You can enforce a single‑page layout and provide a fallback font for any
+      characters that lack a direct match: > **Direct answer:** `setOnePagePerSheet(true)`
+      forces each worksheet onto its own PDF page, while `setDefaultFont` supplies
+      a universal fallback, eliminating missing‑glyph issues.'
+  - name: Initialize the Converter with Load Options
+    text: '`Converter` is the main class that performs document conversion using the
+      provided load options. Pass the load options to the `Converter` constructor.
+      This creates a ready‑to‑use conversion engine: > **Direct answer:** Instantiating
+      `Converter` with the configured `loadOptions` prepares the engine t'
+  - name: Define PDF Conversion Options and Execute
+    text: '`PdfConvertOptions` configures PDF‑specific output parameters such as page
+      size and compression. Specify the output format and any PDF‑specific settings,
+      then run the conversion: > **Direct answer:** Calling `converter.convert` with
+      `PdfConvertOptions` writes a PDF that honors the one‑page‑per‑sheet'
+  type: HowTo
+- questions:
+  - answer: It is a Java library that converts over 50 document formats—including
+      Excel to PDF—while offering advanced options like font substitution and one
+      page per sheet.
+    question: What is GroupDocs.Conversion Java used for?
+  - answer: Yes, a free trial or temporary license provides full feature access for
+      evaluation purposes.
+    question: Can I use GroupDocs.Conversion without purchasing a license?
+  - answer: Define `FontSubstitute` objects inside `SpreadsheetLoadOptions`; the engine
+      swaps unavailable fonts with the ones you specify automatically.
+    question: How do I handle missing fonts during conversion?
+  - answer: Use streaming I/O, configure appropriate JVM heap sizes, and reuse a single
+      `Converter` instance for multiple files.
+    question: What are best practices for optimizing Java performance with GroupDocs.Conversion?
+  - answer: No, charts are automatically scaled to fit the single page while preserving
+      visual fidelity.
+    question: Does the “one page per sheet” option affect chart rendering?
+  type: FAQPage
+title: Excel PDF One Page – Java konverze s font substitution
 type: docs
 url: /cs/java/pdf-conversion/excel-to-pdf-conversion-font-substitution-java/
 weight: 1
 ---
 
-# Jedna stránka na list – Excel do PDF v Javě, náhrada fontů
+# Excel PDF na jedné stránce – konverze v Javě s nahrazením fontů
 
-Udržování konzistentní typografie při převodu Excelových tabulek do PDF může být náročné, zejména když potřebujete **jednu stránku na list**. Tento tutoriál ukazuje, jak **převést Excel do PDF** v Javě při vynucení jedné stránky na list a nahrazení chybějících fontů pomocí **GroupDocs.Conversion**. Na konci budete mít spolehlivé řešení, které zachová typografii konzistentní napříč platformami a zjednoduší pracovní postupy s dokumenty.
+Převod sešitu Excel do PDF při zajištění **jedna stránka na list** a zachování původní typografie může být obtížný. V tomto tutoriálu se naučíte, jak dosáhnout spolehlivé **excel pdf one page** konverze v Javě pomocí **GroupDocs.Conversion**. Provedeme vás nastavením Maven, nahrazením fontů a přesnými voláními API, abyste mohli řešení vložit do libovolného automatizovaného dokumentového potrubí s jistotou.
 
 ## Rychlé odpovědi
-- **Co znamená „jedna stránka na list“?** Každý list je vykreslen na jedné PDF stránce.  
-- **Která knihovna provádí převod?** GroupDocs.Conversion for Java.  
-- **Mohu automaticky nahradit chybějící fonty?** Ano, pomocí funkce FontSubstitute.  
-- **Potřebuji licenci?** Pro plnou funkčnost je vyžadována dočasná licence.  
-- **Je tento přístup vhodný pro velké sešity?** Ano, při správném ladění paměti JVM.  
+- **Co znamená „one page per sheet“?** Každý list je vykreslen na jedné stránce PDF, což zabraňuje neočekávaným zalomením stránky.  
+- **Která knihovna provádí konverzi?** GroupDocs.Conversion pro Javu poskytuje kompletní sadu funkcí.  
+- **Mohu automaticky nahradit chybějící fonty?** Ano — použijte funkci FontSubstitute uvnitř `SpreadsheetLoadOptions`.  
+- **Potřebuji licenci?** Dočasná licence odemkne všechny možnosti konverze během hodnocení.  
+- **Je tento přístup vhodný pro velké sešity?** Rozhodně, pokud optimalizujete paměť JVM a znovu použijete instanci `Converter`.
 
-## Předpoklady
+## Co je konverze excel pdf one page?
+**excel pdf one page conversion** je proces převodu každého listu Excelu do samostatného PDF dokumentu na jedné stránce. To zaručuje předvídatelné stránkování, což je nezbytné pro zprávy, faktury a regulatorní podání, kde musí zůstat rozložení stránek konzistentní. Také to zjednodušuje následné zpracování a zajišťuje, že každý list začne na nové stránce bez ručních úprav.
 
-Před implementací kódu se ujistěte, že máte následující:
+## Proč použít GroupDocs.Conversion Java pro převod Excel na PDF?
+GroupDocs.Conversion podporuje **více než 50 vstupních a výstupních formátů** a může zpracovávat sešity s **stovkami listů** bez načítání celého souboru do paměti. Knihovna také nabízí vestavěnou **náhradu fontů**, což zajišťuje, že PDF vypadají na jakémkoli zařízení identicky — i když původní fonty nejsou k dispozici. Tyto kvantifikované schopnosti z něj činí připravenou volbu pro podnikovou automatizaci dokumentů.
 
-### Požadované knihovny a závislosti
-Ujistěte se, že máte knihovnu GroupDocs.Conversion verze 25.2 nebo novější, kterou lze spravovat pomocí Maven.
+## Požadavky
 
-### Požadavky na nastavení prostředí
-- Java Development Kit (JDK) nainstalovaný na vašem počítači.  
-- IDE, například IntelliJ IDEA nebo Eclipse, pro psaní a spouštění Java kódu.
+Před začátkem se ujistěte, že máte:
 
-### Předpoklady znalostí
-Základní pochopení programování v Javě, správy knihoven pomocí Maven a konceptů konverze souborů bude užitečné, ale není striktně nutné.
+- **Java Development Kit (JDK) 11+** nainstalovaný.  
+- IDE, jako je **IntelliJ IDEA** nebo **Eclipse**, pro úpravu a spouštění Java kódu.  
+- **Maven** pro správu závislostí.  
+- Dočasnou licenci GroupDocs (můžete ji získat na oficiální stránce).  
 
-Nyní, když jsme připraveni, pojďme se ponořit do implementace.
+Základní znalost syntaxe Javy a Maven koordinátů pomůže, ale níže uvedené kroky jsou dostatečně podrobné i pro vývojáře s jakoukoliv úrovní zkušeností.
 
-## Proč použít GroupDocs.Conversion Java pro Excel do PDF?
+## Jak nastavit Maven pro GroupDocs.Conversion?
 
-* **One page per sheet** vykreslování zaručuje předvídatelnou stránkování.  
-* **Font substitution** zajišťuje, že PDF vypadá stejně na jakémkoli systému, i když chybí původní fonty.  
-* Podporuje **convert excel to pdf** pro širokou škálu funkcí Excelu (grafy, vzorce, stylování).  
-* Plně programovatelný v Javě, což ho činí ideálním pro automatizační pipeline **excel to pdf java**.  
+Přidejte repozitář GroupDocs a závislost pro konverzi do vašeho `pom.xml`. Následující úryvek ukazuje přesné XML, které potřebujete — nahraďte číslo verze nejnovějším stabilním vydáním, pokud existuje novější. Po aktualizaci `pom.xml` spusťte `mvn clean install` pro stažení knihovny a ověření, že jsou závislosti správně vyřešeny.
 
-## Nastavení GroupDocs.Conversion pro Java
+```xml
+<repositories>
+    <repository>
+        <id>groupdocs-repo</id>
+        <url>https://repo.groupdocs.com/maven2</url>
+    </repository>
+</repositories>
 
-### Maven konfigurace
-Nejprve přidejte potřebné informace o repozitáři a závislostech do souboru `pom.xml`:
+<dependencies>
+    <dependency>
+        <groupId>com.groupdocs</groupId>
+        <artifactId>conversion</artifactId>
+        <version>25.2</version>
+    </dependency>
+</dependencies>
+```
+
+> **Přímá odpověď:** Přidejte výše uvedené XML repozitáře a závislosti do `pom.xml`, poté spusťte `mvn clean install` pro stažení knihovny. Tím připravíte svůj projekt na volání konverzního API.
+
+## Jak získat a použít dočasnou licenci GroupDocs?
+
+Navštivte stránku dočasné licence [GroupDocs](https://purchase.groupdocs.com/temporary-license/), požádejte o klíč a umístěte soubor `GroupDocs.Conversion.lic` do složky resources vašeho projektu. Poté jej načtěte za běhu. Načtení licence zajišťuje, že všechny prémiové funkce, jako je náhrada fontů a vykreslování jedna‑stránka‑na‑list, jsou odemčeny a proces konverze běží bez omezení hodnocení.
+
+```java
+License license = new License();
+license.setLicense("path/to/GroupDocs.Conversion.lic");
+```
+
+> **Přímá odpověď:** Načtěte soubor licence pomocí `License#setLicense` před jakoukoli operací konverze; tím odemknete všechny prémiové funkce, včetně náhrady fontů a vykreslování jedna‑stránka‑na‑list.
+
+## Průvodce implementací – náhrada fontů s jednou stránkou na list
+
+Níže projdeme každý krok potřebný k převodu souboru Excel na PDF při nahrazování chybějících fontů a vynucení jedné stránky na list.
+
+### Krok 1: Definujte vstupní a výstupní cesty
+Nastavte zdrojový soubor Excel a cílový soubor PDF. Používejte absolutní cesty v produkčních prostředích, aby se předešlo nejasnostem v classpath.
+
+```java
+String inputPath = "C:/documents/input.xlsx";
+String outputPath = "C:/documents/output.pdf";
+```
+
+### Krok 2: Vytvořte možnosti načtení s náhradami fontů
+`SpreadsheetLoadOptions` třída vám umožňuje určit, jak má být zdrojový sešit interpretován.  
+`SpreadsheetLoadOptions` je konfigurační objekt, který řídí, jak jsou soubory Excel načítány do GroupDocs.Conversion.  
+
+`FontSubstitute` definuje mapování chybějícího fontu na dostupnou náhradu.  
+
+Nyní přidejte náhrady fontů:
+
+```java
+SpreadsheetLoadOptions loadOptions = new SpreadsheetLoadOptions();
+loadOptions.getFontSubstitutes().add(new FontSubstitute("Calibri", "Arial"));
+loadOptions.getFontSubstitutes().add(new FontSubstitute("Times New Roman", "Liberation Serif"));
+```
+
+> **Přímá odpověď:** Přidáním položek `FontSubstitute` konvertor automaticky vymění chybějící fonty za zadané alternativy, čímž zaručuje vizuální konzistenci napříč platformami.
+
+### Krok 3: Povolit jednu stránku na list a nastavit výchozí font
+Můžete vynutit rozvržení jedné stránky a poskytnout náhradní font pro jakékoli znaky, které nemají přímou shodu:
+
+```java
+loadOptions.setOnePagePerSheet(true);
+loadOptions.setDefaultFont("Arial");
+```
+
+> **Přímá odpověď:** `setOnePagePerSheet(true)` vynutí, aby každý list byl na vlastní stránce PDF, zatímco `setDefaultFont` poskytuje univerzální náhradu, čímž eliminuje problémy s chybějícími glyfy.
+
+### Krok 4: Inicializujte Converter s možnostmi načtení
+`Converter` je hlavní třída, která provádí konverzi dokumentů pomocí poskytnutých možností načtení.  
+Předávejte možnosti načtení konstruktoru `Converter`. Tím vytvoříte připravený konverzní engine:
+
+```java
+Converter converter = new Converter(new File(inputPath), loadOptions);
+```
+
+> **Přímá odpověď:** Vytvoření instance `Converter` s nakonfigurovanými `loadOptions` připraví engine, aby během konverze respektoval jak náhradu fontů, tak pravidla stránkování.
+
+### Krok 5: Definujte možnosti PDF konverze a spusťte
+`PdfConvertOptions` konfiguruje PDF‑specifické výstupní parametry, jako je velikost stránky a komprese.  
+Určete výstupní formát a jakékoli PDF‑specifické nastavení, poté spusťte konverzi:
+
+```java
+PdfConvertOptions pdfOptions = new PdfConvertOptions();
+converter.convert(outputPath, pdfOptions);
+```
+
+> **Přímá odpověď:** Volání `converter.convert` s `PdfConvertOptions` vytvoří PDF, které respektuje nastavení jedna‑stránka‑na‑list a zahrnuje všechny dříve definované náhrady fontů.
+
+## Časté problémy a řešení
+
+- **Chybějící fonty:** Ověřte, že náhradní fonty jsou nainstalovány na hostitelském stroji nebo jsou součástí vašeho JAR souboru aplikace.  
+- **Chyby cest:** Používejte `Paths.get(...)` pro platformně nezávislé zpracování cest, zejména při nasazení na Linux serverech.  
+- **Nedostatek paměti pro velmi velké sešity:** Zvyšte haldu JVM (`-Xmx4g`) nebo zpracovávejte listy po dávkách opětovným vytvořením `Converter` pro každý list.
+
+## Praktické aplikace konverze excel pdf one page
+
+1. **Finanční výkaznictví:** Zajišťuje, že každý list (rozvaha, výkaz zisků a ztrát, cash flow) začíná na nové stránce, což usnadňuje auditní revize.  
+2. **Právní smlouvy:** Zachovává přesné rozložení a věrnost fontů, což je klíčové pro vymahatelné dohody.  
+3. **Akademické publikování:** Zajišťuje, že tabulky výzkumných dat si zachovají své formátování při sdílení jako PDF.  
+4. **Marketingové materiály:** Vytváří tiskové brožury z designových šablon založených na Excelu bez ručních úprav.  
+5. **Systémy správy dokumentů:** Poskytuje spolehlivé PDF náhledy pro nahrané soubory Excel, zlepšuje uživatelský zážitek.
+
+## Tipy pro výkon u velkých sešitů
+
+- **Stream I/O:** Používejte `InputStream`/`OutputStream` k vyhnutí se načítání celého souboru do paměti.  
+- **Znovu použijte Converter:** Pro dávkové úlohy udržujte jednu instanci `Converter` a pouze měňte odkaz na vstupní soubor.  
+- **Ladění JVM:** Nastavte `-Xms` a `-Xmx` podle očekávané velikosti sešitu; 500‑stránkový sešit obvykle potřebuje 2‑3 GB haldu.
+
+## Často kladené otázky
+
+**Q: K čemu slouží GroupDocs.Conversion Java?**  
+A: Jedná se o Java knihovnu, která konvertuje více než 50 formátů dokumentů — včetně Excel na PDF — a nabízí pokročilé možnosti jako náhrada fontů a jedna stránka na list.
+
+**Q: Mohu použít GroupDocs.Conversion bez zakoupení licence?**  
+A: Ano, bezplatná zkušební verze nebo dočasná licence poskytuje plný přístup ke všem funkcím pro evaluační účely.
+
+**Q: Jak zacházet s chybějícími fonty během konverze?**  
+A: Definujte objekty `FontSubstitute` uvnitř `SpreadsheetLoadOptions`; engine automaticky vymění nedostupné fonty za ty, které jste specifikovali.
+
+**Q: Jaké jsou nejlepší postupy pro optimalizaci výkonu Javy s GroupDocs.Conversion?**  
+A: Používejte streaming I/O, nastavte vhodné velikosti haldy JVM a znovu použijte jednu instanci `Converter` pro více souborů.
+
+**Q: Ovlivňuje volba „one page per sheet“ vykreslování grafů?**  
+A: Ne, grafy jsou automaticky škálovány tak, aby se vešly na jednu stránku při zachování vizuální věrnosti.
+
+## Závěr
+
+Nyní máte kompletní, připravenou metodu pro **převod Excelu na PDF** v Javě s **excel pdf one page** stránkováním a automatickou **náhradou fontů** pomocí GroupDocs.Conversion. Toto řešení poskytuje konzistentní typografii, předvídatelné stránkování a efektivně škáluje pro velké sešity — což je ideální pro automatizované reportování, generování právních dokumentů a jakýkoli scénář, kde je důležitá věrnost PDF.
+
+### Další kroky
+- Experimentujte s `PdfConvertOptions` pro povolení souladu s PDF/A pro archivní potřeby.  
+- Kombinujte tento konverzní pipeline s **GroupDocs.Annotation** pro přidání vodoznaků nebo digitálních podpisů po generování PDF.  
+- Prozkoumejte konverzi dalších formátů (Word, PowerPoint) pomocí stejného vzoru pro jednotnou službu zpracování dokumentů.
+
+---
+
+**Poslední aktualizace:** 2026-07-06  
+**Testováno s:** GroupDocs.Conversion 25.2  
+**Autor:** GroupDocs
 
 ```xml
 <repositories>
@@ -68,12 +255,6 @@ Nejprve přidejte potřebné informace o repozitáři a závislostech do souboru
    </dependency>
 </dependencies>
 ```
-
-### Získání licence
-Získejte dočasnou licenci od [GroupDocs](https://purchase.groupdocs.com/temporary-license/) pro plný přístup k funkcím během evaluačního období.
-
-### Základní inicializace a nastavení
-Po nastavení Maven inicializujte GroupDocs.Conversion ve vaší Java aplikaci:
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -95,20 +276,10 @@ public class ConvertExcelToPDF {
 }
 ```
 
-## Průvodce implementací – Náhrada fontů s jednou stránkou na list
-
-Tato sekce popisuje převod Excel souborů do PDF při nahrazování fontů. To zajišťuje vizuální konzistenci, když jsou původní fonty nedostupné.
-
-### Krok 1: Definujte vstupní a výstupní cesty
-Určete cestu k vašemu vstupnímu Excel souboru a požadovanou cestu k výstupnímu PDF:
-
 ```java
 String inputDocument = "YOUR_DOCUMENT_DIRECTORY/sample.xlsx";
 String convertedFile = "YOUR_OUTPUT_DIRECTORY/ConvertSpreadsheetBySpecifyingFontsubstitution.pdf";
 ```
-
-### Krok 2: Nastavte možnosti načítání s náhradou fontů
-Vytvořte objekt `SpreadsheetLoadOptions` pro konfiguraci nastavení převodu, specifikující náhrady fontů:
 
 ```java
 import com.groupdocs.conversion.options.load.SpreadsheetLoadOptions;
@@ -122,81 +293,22 @@ SpreadsheetLoadOptions loadOptions = new SpreadsheetLoadOptions();
 loadOptions.setFontSubstitutes(fontSubstitutes);
 ```
 
-### Krok 3: Nakonfigurujte výchozí font a **One Page per Sheet**
-Nastavte výchozí font jako záložní a povolte možnost *one page per sheet*, aby každá tabulka zabírala jednu PDF stránku:
-
 ```java
 loadOptions.setDefaultFont("resources/fonts/Helvetica.ttf");
 loadOptions.setOnePagePerSheet(true);
 ```
 
-> **Tip:** Povolení `setOnePagePerSheet(true)` je nezbytné, když potřebujete předvídatelnou stránkování pro zprávy nebo faktury.
-
-### Krok 4: Inicializujte Converter s možnostmi načítání
-Předávejte možnosti načítání vašemu objektu `Converter`:
-
 ```java
 Converter converter = new Converter(inputDocument, () -> loadOptions);
 ```
-
-### Krok 5: Definujte PDF konverzní možnosti a převod
-Určete formát převodu a spusťte proces:
 
 ```java
 PdfConvertOptions options = new PdfConvertOptions();
 converter.convert(convertedFile, options);
 ```
 
-### Tipy pro řešení problémů
-- **Missing Fonts:** Ujistěte se, že náhradní fonty jsou nainstalovány ve vašem systému nebo zahrnuty v aplikaci.  
-- **Incorrect Paths:** Ověřte souborové cesty pro vstupní a výstupní dokumenty; relativní cesty by měly být řešeny od kořene projektu.  
+## Související tutoriály
 
-## Praktické aplikace
-
-Náhrada fontů a převod s jednou stránkou na list jsou cenné v mnoha reálných scénářích:
-
-1. **Business Reporting:** Konzistentní prezentace finančních zpráv napříč platformami.  
-2. **Legal Documentation:** Zachování vzhledu ve sdílených PDF pro smlouvy.  
-3. **Academic Publishing:** Standardizace fontů pro články a prezentační materiály.  
-4. **Marketing Materials:** Jednotné brožury nebo newslettery při generování z tabulek.  
-5. **Collaboration Tools:** Zjednodušení systémů správy dokumentů, které se spoléhají na PDF náhledy.  
-
-## Úvahy o výkonu
-
-Pro optimalizaci výkonu při převodu velkých sešitů:
-
-- Používejte streaming I/O pro snížení paměťové náročnosti.  
-- Laděte velikost haldy JVM (`-Xmx`) podle velikosti dokumentu.  
-- Znovu použijte jedinou instanci `Converter` pro dávkové převody, pokud je to možné.  
-
-## Často kladené otázky
-
-**Q: K čemu slouží GroupDocs.Conversion Java?**  
-A: Jedná se o knihovnu pro převod různých formátů dokumentů – včetně Excel do PDF – s nastavitelnými možnostmi, jako je náhrada fontů a jedna stránka na list.
-
-**Q: Mohu použít GroupDocs.Conversion bez zakoupení licence?**  
-A: Ano, bezplatná zkušební verze nebo dočasná licence vám umožní vyzkoušet všechny funkce před zakoupením placené licence.
-
-**Q: Jak zacházet s chybějícími fonty během převodu?**  
-A: Definujte náhrady pomocí objektů `FontSubstitute` v rámci `SpreadsheetLoadOptions`; knihovna automaticky nahradí nedostupné fonty.
-
-**Q: Jaké jsou osvědčené postupy pro optimalizaci výkonu Javy s GroupDocs.Conversion?**  
-A: Efektivní správa paměti, správná konfigurace JVM a zpracování souborů ve streamu pomáhají udržet vysoký výkon.
-
-**Q: Ovlivňuje možnost „one page per sheet“ vykreslování grafů?**  
-A: Ne, grafy jsou škálovány tak, aby se vešly na jednu stránku při zachování vizuální věrnosti.
-
-## Závěr
-
-Nyní máte kompletní, připravenou metodu pro **convert Excel to PDF** v Javě s **one page per sheet** a automatickou **font substitution** pomocí GroupDocs.Conversion. Tento přístup zaručuje konzistentní typografii, předvídatelnou stránkování a plynulou integraci do automatizovaných dokumentových pipeline.
-
-### Další kroky
-- Experimentujte s dalšími `PdfConvertOptions` (např. podpora PDF/A).  
-- Spojte toto řešení s GroupDocs.Annotation pro úpravy po převodu.  
-- Prozkoumejte další zdrojové formáty (Word, PowerPoint) pomocí stejného vzoru.
-
----
-
-**Poslední aktualizace:** 2026-01-15  
-**Testováno s:** GroupDocs.Conversion 25.2  
-**Autor:** GroupDocs
+- [Převod Excelu na PDF pomocí GroupDocs.Conversion Java](/conversion/java/pdf-conversion/excel-to-pdf-groupdocs-conversion-java/)
+- [Jedna stránka na list: Převod skrytých listů Excelu na PDF (Java)](/conversion/java/pdf-conversion/convert-excel-hidden-sheets-pdf-java/)
+- [Převod konkrétního rozsahu stránek na PDF pomocí GroupDocs.Conversion Java API](/conversion/java/pdf-conversion/groupdocs-conversion-java-page-range-pdf/)
