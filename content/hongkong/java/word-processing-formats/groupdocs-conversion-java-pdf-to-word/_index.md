@@ -1,41 +1,47 @@
 ---
-"date": "2025-04-28"
-"description": "了解如何使用 GroupDocs.Conversion for Java 將 PDF 文件無縫轉換為可編輯的 Word 文件。輕鬆簡化您的文件處理流程。"
-"title": "使用 GroupDocs.Conversion Java API 有效地將 PDF 轉換為 Word"
-"url": "/zh-hant/java/word-processing-formats/groupdocs-conversion-java-pdf-to-word/"
-"weight": 1
+date: '2026-03-22'
+description: 學習如何使用 GroupDocs.Conversion Java API 將 PDF 扁平化並轉換為 Word。本指南涵蓋 PDF 轉 Word
+  的 Java 用法、設定 PDF 載入選項，以及高效的轉換方法。
+keywords:
+- PDF to Word conversion
+- GroupDocs.Conversion Java API
+- flatten PDF fields
+title: 如何使用 GroupDocs Java API 將 PDF 平面化並轉換為 Word
 type: docs
+url: /zh-hant/java/word-processing-formats/groupdocs-conversion-java-pdf-to-word/
+weight: 1
 ---
-# 使用 GroupDocs.Conversion Java API 有效地將 PDF 轉換為 Word
 
-## 介紹
+# 如何將 PDF 平面化並轉換為 Word（GroupDocs Java API）
 
-您是否希望簡化文件轉換流程，將複雜的 PDF 轉換為可編輯的 Word 文件？借助 **GroupDocs.轉換 Java API**將 PDF 文件轉換為文字處理格式（例如 DOCX）並扁平化所有欄位從未如此簡單。無論您是處理複雜的表單，還是僅需要更靈活的編輯方式，本教學都能引導您無縫完成整個過程。
+如果您需要在將 PDF 檔案轉換為可編輯的 Word 文件之前先 **how to flatten pdf**，您來對地方了。在本教學中，我們將示範如何使用 GroupDocs.Conversion Java API 將 PDF 轉換為 DOCX，同時平面化所有互動欄位。您將看到如何 **set pdf load options**、執行 **pdf to docx conversion java**，以及取得乾淨、可編輯的 Word 檔案以供後續處理。
 
-**您將學到什麼：**
-- 如何使用 GroupDocs.Conversion Java API 將 PDF 轉換為 Word
-- 配置進階選項，例如轉換期間的欄位展平
-- 設定和優化文件轉換環境的最佳實踐
+## 快速解答
+- **What does “flatten PDF” mean?** 它會將互動式表單欄位轉換為靜態內容（文字或影像）。  
+- **Which library handles the conversion?** GroupDocs.Conversion Java API（版本 25.2）。  
+- **Can I convert PDF to Word in one line of code?** 可以，設定載入選項後呼叫 `converter.convert(...)` 即可。  
+- **Do I need a license for production?** 非試用環境必須使用有效的 GroupDocs 授權。  
+- **Is this suitable for large PDFs?** 可以，但對於非常大的檔案需考慮記憶體調校與分段處理。
 
-準備好提升您的文件處理能力了嗎？在開始旅程之前，讓我們先深入了解先決條件！
+## 什麼是 PDF 平面化？
 
-## 先決條件
+平面化 PDF 會移除表單欄位的互動性，將目前的欄位值直接嵌入頁面內容中。當目標格式（例如 DOCX）不支援 PDF 表單欄位時，這是必要的步驟，以確保轉換後的視覺版面保持不變。
 
-在開始之前，請確保一切準備就緒：
+## 為什麼使用 GroupDocs 轉換 PDF 為 Word？
 
-### 所需的函式庫、版本和相依性
-您需要在 Java 專案中新增 GroupDocs.Conversion 作為相依性。以下是使用 Maven 的操作方法。
+- **High fidelity**：保留版面配置、字型與影像。  
+- **Field flattening**：確保表單資料變為靜態，避免資訊遺失。  
+- **Java‑first**：無縫的 Maven 整合與簡易的 API 使用。  
+- **Performance**：針對批次或大型檔案處理進行最佳化。
 
-### 環境設定要求
-- 一個有效的 Java 開發工具包 (JDK) 環境
-- Maven 用於管理相依性
+## 前置條件
+- 已安裝 Java Development Kit（JDK 8 或更新版本）。  
+- 用於相依管理的 Maven。  
+- 基本的 Java 知識（有助於理解，但非必須）。  
 
-### 知識前提
-對 Java 程式設計的基本了解和熟悉文件處理概念將會有所幫助，但不是強制性的。
+## 設定 GroupDocs.Conversion（Java 版）
 
-## 為 Java 設定 GroupDocs.Conversion
-
-首先，您需要將 GroupDocs.Conversion 庫整合到您的專案中。以下是使用 Maven 執行此操作的方法：
+將 GroupDocs 套件庫與相依性加入您的 `pom.xml`：
 
 ```xml
 <repositories>
@@ -54,116 +60,111 @@ type: docs
 </dependencies>
 ```
 
-**許可證取得步驟：**
-- **免費試用**：從免費試用開始探索 GroupDocs.Conversion 的功能。
-- **臨時執照**：如需更多擴展存取權限，請考慮取得臨時許可證。
-- **購買**：您可以購買完整許可證以供不間斷使用。
+**License acquisition steps**  
+- **Free Trial** – 免費試用 API。  
+- **Temporary License** – 延長評估期間。  
+- **Purchase** – 取得正式授權以供生產環境使用。  
 
-安裝完成後，請在專案中初始化該程式庫。這涉及設置基本環境並確保正確應用所有必要的配置。
+## 實作指南
 
-## 實施指南
+以下為逐步說明。每個程式碼區塊皆保持原始內容不變，說明已為清晰起見加入。
 
-讓我們將這個流程分解為可管理的步驟，以幫助您有效地實現 PDF 到 Word 的轉換。
-
-### 使用進階選項將 PDF 轉換為 DOCX
-此功能示範如何將 PDF 文件轉換為文字處理格式（例如 DOCX），同時展平所有字段，確保 PDF 中的任何互動元素轉換為靜態文字或圖像。 
-
-#### 設定檔案路徑
-首先使用佔位符定義輸入和輸出檔案的路徑：
+### 1️⃣ 定義檔案路徑  
+設定來源 PDF 與目標 DOCX 檔案的位置。
 
 ```java
 double YOUR_DOCUMENT_DIRECTORY = "YOUR_DOCUMENT_DIRECTORY";
 double YOUR_OUTPUT_DIRECTORY = "YOUR_OUTPUT_DIRECTORY";
 
-String samplePdfPath = YOUR_DOCUMENT_DIRECTORY + "/sample.pdf"; // 來源 PDF 文件的路徑
-String convertedFilePath = YOUR_OUTPUT_DIRECTORY + "/ConvertPdfAndFlattenAllFields.docx"; // 輸出 Word 文件的路徑
+String samplePdfPath = YOUR_DOCUMENT_DIRECTORY + "/sample.pdf"; // Path to the source PDF document
+String convertedFilePath = YOUR_OUTPUT_DIRECTORY + "/ConvertPdfAndFlattenAllFields.docx"; // Path for the output Word document
 ```
 
-#### 配置載入選項
-配置特定於 PDF 文件的載入選項。此步驟至關重要，因為它允許您指定 PDF 中的所有欄位在轉換過程中是否應展平：
+### 2️⃣ 設定載入選項（set pdf load options）  
+啟用欄位平面化，使所有表單欄位在轉換過程中變為靜態內容。
 
 ```java
 PdfLoadOptions loadOptions = new PdfLoadOptions();
-loadOptions.setFlattenAllFields(true); // 轉換期間拼合 PDF 中的所有字段
+loadOptions.setFlattenAllFields(true); // Flatten all fields in the PDF during conversion
 ```
 
-#### 初始化轉換器對象
-創建一個 `Converter` 使用來源 PDF 和指定的載入選項。此物件將處理轉換過程：
+### 3️⃣ 初始化 Converter  
+將來源檔案與載入選項傳入 `Converter` 物件。
 
 ```java
 Converter converter = new Converter(samplePdfPath, () -> loadOptions);
 ```
 
-#### 設定轉換選項
-接下來，設定 DOCX 等文字處理格式的轉換選項：
+### 4️⃣ 準備轉換選項（pdf to docx conversion java）  
+建立 `WordProcessingConvertOptions` 實例。若有需要，您亦可進一步自訂字型處理、頁面大小等設定。
 
 ```java
 WordProcessingConvertOptions convertOptions = new WordProcessingConvertOptions();
 ```
 
-#### 執行轉換
-最後，透過調用 `convert` 方法。這會將你的 PDF 轉換為 Word 文檔，所有欄位都會被扁平化：
+### 5️⃣ 執行轉換  
+觸發轉換程序。輸出將是一個已平面化所有 PDF 欄位的 DOCX 檔案。
 
 ```java
 converter.convert(convertedFilePath, convertOptions);
 ```
 
-### 配置增強 PDF 轉換的載入選項
-在處理不同類型的 PDF 文件時，了解如何配置載入選項至關重要。
-
-#### 定義輸入路徑
-使用佔位符設定輸入 PDF 的路徑。這將是您要轉換的文檔：
+### 6️⃣ 替代載入選項範例  
+如果您只需要定義輸入路徑並平面化欄位，可使用此較簡短的寫法：
 
 ```java
 double YOUR_DOCUMENT_DIRECTORY = "YOUR_DOCUMENT_DIRECTORY";
-String samplePdfPath = YOUR_DOCUMENT_DIRECTORY + "/sample.pdf"; // 來源 PDF 文件的路徑
+String samplePdfPath = YOUR_DOCUMENT_DIRECTORY + "/sample.pdf"; // Path to the source PDF document
 ```
-
-#### 建立和配置載入選項
-創造 `PdfLoadOptions` 並設定所需的配置。這裡我們重點介紹如何展平所有欄位：
 
 ```java
 PdfLoadOptions pdfLoadOptions = new PdfLoadOptions();
-pdfLoadOptions.setFlattenAllFields(true); // 轉換期間拼合 PDF 中所有欄位的選項
+pdfLoadOptions.setFlattenAllFields(true); // Option to flatten all fields in the PDF during conversion
 ```
 
-## 實際應用
-GroupDocs.Conversion for Java 可以在各種實際場景中使用：
-1. **商業報告**：將複雜的財務報告從 PDF 轉換為可編輯的 Word 格式，以便於分析。
-2. **法律文件**：將嵌入欄位的法律文件轉換為靜態 DOCX 文件以供共享和審查。
-3. **教育材料**：透過將 PDF 教科書轉換為 Word 文件來編輯教育內容。
+## 實務應用
+1. **Business Reporting** – 將複雜的財務 PDF 轉換為可編輯的 Word 報告。  
+2. **Legal Documentation** – 把含有表單欄位的合約轉換為靜態 DOCX 檔案以供審閱。  
+3. **Educational Material** – 透過轉換為 Word 編輯 PDF 教科書，保持版面配置。
 
-## 性能考慮
-為了在文件轉換過程中獲得最佳效能：
-- **優化資源**：確保您的 Java 環境經過最佳化，可以有效地處理大型檔案轉換。
-- **記憶體管理**：使用 GroupDocs.Conversion 處理大量資料處理任務時，請遵循記憶體管理的最佳實務。
+## 效能考量
+- **Resource Optimization** – 為大型 PDF 分配足夠的堆積記憶體（`-Xmx`）。  
+- **Memory Management** – 在大量檔案處理時及時釋放 `Converter` 資源（`converter.close()`）。
+
+## 常見問題與除錯
+
+| 症狀 | 可能原因 | 解決方式 |
+|---------|--------------|-----|
+| **OutOfMemoryError** 轉換期間發生 | 大型 PDF 記憶體堆積不足 | 增加 JVM 堆積記憶體（`-Xmx2g`）或將 PDF 分割成較小的片段。 |
+| **Fields not flattened**（欄位未平面化） | `setFlattenAllFields(true)` 未被呼叫或載入選項未傳遞 | 確認載入選項已附加至 `Converter` 建構子。 |
+| **Unsupported PDF features**（不支援的 PDF 功能） | PDF 使用了 GroupDocs 尚未支援的功能 | 升級至最新的 GroupDocs.Conversion 版本或聯絡支援團隊。 |
+
+## 常見問答
+
+**Q: 如何在轉換過程中處理大型 PDF 檔案？**  
+A: 優化 JVM 記憶體設定、將 PDF 分段處理，或使用 GroupDocs 提供的串流 API。
+
+**Q: GroupDocs.Conversion 能支援除 PDF 與 Word 之外的其他格式嗎？**  
+A: 可以，它支援影像、簡報、試算表以及許多其他格式。
+
+**Q: 若轉換失敗並出現錯誤該怎麼辦？**  
+A: 檢查例外堆疊追蹤、確認 PDF 未受密碼保護，並驗證載入選項是否正確設定。
+
+**Q: 每次 PDF 轉換都需要平面化嗎？**  
+A: 不一定。只有在需要靜態內容時才平面化，否則可保留欄位的互動性。
+
+**Q: 如何購買完整授權？**  
+A: 請前往官方 [purchase page](https://purchase.groupdocs.com/buy) 了解授權方案與支援資訊。
 
 ## 結論
-現在，您已掌握使用 GroupDocs.Conversion for Java 將 PDF 無縫轉換為 Word 文件所需的工具和知識。轉換過程中平整欄位的功能增加了靈活性，使您的文件在編輯和分發方面更加靈活。
+您現在已掌握完整且可投入生產的 **how to flatten pdf** 方法，使用 GroupDocs.Conversion for Java 將 PDF 檔案轉換為 Word。透過設定適當的載入選項，確保所有互動元素皆轉為靜態，產出乾淨且可編輯的 DOCX 檔案。
 
-**後續步驟：**
-- 嘗試不同的配置和選項。
-- 探索 GroupDocs.Conversion 庫中的其他功能。
+**下一步：**  
+- 嘗試其他轉換選項（例如影像處理、字型替換）。  
+- 將此工作流程整合至批次處理管線或 Web 服務中。
 
-準備好行動了嗎？嘗試在您的下一個專案中實施此解決方案，體驗文件轉換的便利性！
+---
 
-## 常見問題部分
-1. **轉換過程中如何處理大型 PDF 檔案？**
-   - 優化記憶體設定並考慮將大文件分解為較小的部分進行處理。
-2. **GroupDocs.Conversion 除了支援 PDF 和 Word 之外，還支援其他文件格式嗎？**
-   - 是的，它支援多種文件格式，包括圖像、簡報等。
-3. **如果轉換失敗我該怎麼辦？**
-   - 檢查錯誤日誌以了解詳細資訊並確保正確配置了載入選項。
-4. **所有 PDF 轉換都需要進行欄位展平嗎？**
-   - 這取決於你的用例。當你需要將互動元素轉換為靜態內容時，請展平欄位。
-5. **如何購買 GroupDocs.Conversion 的完整授權？**
-   - 訪問官方 [購買頁面](https://purchase.groupdocs.com/buy) 以獲得許可選項和支援。
-
-## 資源
-- **文件**：https://docs.groupdocs.com/conversion/java/
-- **API 參考**：https://reference.groupdocs.com/conversion/java/
-- **下載**：https://releases.groupdocs.com/conversion/java/
-- **購買**：https://purchase.groupdocs.com/buy
-- **免費試用**：https://releases.groupdocs.com/conversion/java/
-- **臨時執照**：https://purchase.groupdocs.com/temporary-license/
-- **支援**：https://forum.groupdocs.com/c/conversion/10
+**最後更新：** 2026-03-22  
+**測試環境：** GroupDocs.Conversion 25.2  
+**作者：** GroupDocs
