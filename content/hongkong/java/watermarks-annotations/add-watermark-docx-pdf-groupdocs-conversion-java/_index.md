@@ -1,39 +1,58 @@
 ---
-"date": "2025-04-28"
-"description": "了解如何使用 GroupDocs.Conversion for Java 在 DOCX 轉換為 PDF 時新增浮水印來保護您的文件。請依照本逐步指南進行安全文件處理。"
-"title": "如何使用 GroupDocs.Conversion for Java 為 DOCX 新增浮水印並轉換為 PDF"
-"url": "/zh-hant/java/watermarks-annotations/add-watermark-docx-pdf-groupdocs-conversion-java/"
-"weight": 1
+date: '2026-03-14'
+description: 了解如何在使用 GroupDocs.Conversion for Java 將 docx 轉換為 PDF 時為 docx 添加水印。請遵循此一步步指南，製作安全且具品牌特色的
+  PDF。
+keywords:
+- add watermark docx
+- convert DOCX to PDF using GroupDocs
+- GroupDocs.Conversion for Java
+title: 如何使用 GroupDocs.Conversion for Java 為 docx 添加水印並轉換為 PDF
 type: docs
+url: /zh-hant/java/watermarks-annotations/add-watermark-docx-pdf-groupdocs-conversion-java/
+weight: 1
 ---
-# 如何使用 GroupDocs.Conversion for Java 為文件添加浮水印
 
-在當今的數位世界中，保護您的文件免遭未經授權的使用至關重要。無論您是要共享敏感訊息，還是只想為文件添加品牌標識，添加水印都是一個有效的解決方案。在本教程中，我們將指導您使用 **GroupDocs.Conversion for Java** 將 DOCX 檔案轉換為 PDF 時新增浮水印。
+Last Updated:** 2026-03-14". Keep same.
 
-### 您將學到什麼
-- 如何在您的專案中為 Java 設定 GroupDocs.Conversion。
-- 在文件轉換期間新增浮水印的逐步指南。
-- 關鍵配置選項及其效果。
-- 此功能的實際應用。
-- 高效轉換的性能考慮。
+"**Tested With:** GroupDocs.Conversion 25.2 for Java". Keep.
 
-讓我們深入了解開始之前所需的先決條件！
+"**Author:** GroupDocs". Keep.
 
-## 先決條件
+Then final "---"? Already there.
 
-在實現此功能之前，請確保您已：
+Make sure to preserve markdown formatting.
 
-1. **Java 開發工具包 (JDK)：** 版本 8 或更高版本。
-2. **Maven：** 用於依賴管理和專案設定。
-3. 對 Java 程式設計有基本的了解。
+Now produce final translated content.
 
-### 為 Java 設定 GroupDocs.Conversion
+# 如何在使用 GroupDocs.Conversion for Java 時為 docx 添加水印並轉換為 PDF
 
-要開始使用 GroupDocs.Conversion，您需要正確設定環境。以下是使用 Maven 的操作方法：
+在當今的數位環境中，保護文件至關重要。無論您需要為合約加上品牌標誌、將草稿標記為 **Confidential**，或僅僅添加視覺識別碼，學習在 **docx to pdf java** 轉換過程中 **add watermark docx**，都能為您提供額外的控制層級。本教學將使用 **GroupDocs.Conversion for Java**，從專案設定走完整個流程，直至產生帶有背景水印的最終 PDF。
 
-**Maven配置**
+## 快速解答
+- **本教學涵蓋什麼內容？** 使用 GroupDocs.Conversion for Java 將 DOCX 檔案轉換為 PDF 時加入文字水印。  
+- **使用哪個函式庫？** `GroupDocs.Conversion` (Java)。  
+- **是否需要授權？** 免費試用可用於測試；正式環境需購買完整授權。  
+- **可以更改水印顏色或透明度嗎？** 可以 – 使用 `WatermarkTextOptions` 來自訂外觀。  
+- **支援圖片水印嗎？** 支援，但本指南聚焦於文字水印。
 
-在您的 `pom.xml` 文件：
+## 什麼是 **add watermark docx**？
+在 DOCX 文件中加入水印，即在每頁嵌入半透明的文字或圖片。將該 DOCX 轉換為 PDF 時，水印會隨內容一起保留，確保在不同格式間保持一致的品牌或安全標記。
+
+## 為什麼在此任務中使用 **GroupDocs.Conversion for Java**？
+- **無縫轉換**：只需一次 API 呼叫即可將 DOCX 轉為 PDF。  
+- **內建水印支援**（文字與圖片），無需額外函式庫。  
+- **高效能**：適用於批次處理與大型檔案。  
+- **跨平台**相容性，適用於任何基於 Java 的應用程式。
+
+## 前置條件
+- **Java Development Kit (JDK)** 8 或以上。  
+- **Maven** 用於相依管理。  
+- 基本的 Java 程式設計知識。  
+
+## 設定 GroupDocs.Conversion for Java
+
+### Maven 設定
+將 GroupDocs 儲存庫與轉換相依加入您的 `pom.xml`：
 
 ```xml
 <repositories>
@@ -53,108 +72,105 @@ type: docs
 </dependencies>
 ```
 
-**許可證獲取**
-- **免費試用：** 從免費試用開始探索圖書館的功能。
-- **臨時執照：** 獲得臨時許可證以進行延長測試。
-- **購買：** 如需長期使用，請購買完整授權。
+### 取得授權
+- **免費試用：** 適合評估 API。  
+- **臨時授權：** 可在試用期後延長測試。  
+- **完整授權：** 正式部署時必需。  
 
-### 實施指南
+## 步驟實作
 
-現在您已經設定好了環境，讓我們在文件轉換期間新增浮水印。
-
-#### 1.初始化轉換器對象
-
-首先，初始化 `Converter` 物件與您的輸入檔：
+### 步驟 1：初始化 Converter 物件
+建立指向來源 DOCX 檔案的 `Converter` 實例。
 
 ```java
 String inputFilePath = "YOUR_DOCUMENT_DIRECTORY/sample.docx";
 Converter converter = new Converter(inputFilePath);
 ```
 
-這行程式碼創建了一個 `Converter` 載入您的 DOCX 文件的實例。
-
-#### 2.設定 PDF 轉換選項
-
-配置轉換選項以指定輸出 PDF 的外觀：
+### 步驟 2：設定 PDF 轉換選項
+實例化 `PdfConvertOptions` 以控制輸出 PDF 的設定。
 
 ```java
 PdfConvertOptions options = new PdfConvertOptions();
 ```
 
-#### 3.建立並配置浮水印文字選項
-
-使用以下方式定義浮水印文字、其外觀和屬性 `WatermarkTextOptions`：
+### 步驟 3：建立並設定 Watermark Text Options
+定義水印的文字、顏色、大小與位置。此處即為 **java add text watermark** 的邏輯所在。
 
 ```java
 WatermarkTextOptions watermark = new WatermarkTextOptions("Sample watermark");
-watermark.setColor(Color.red); // 設定浮水印的顏色
-watermark.setWidth(100);       // 定義寬度
-watermark.setHeight(100);      // 定義高度
-watermark.setBackground(true); // 將其放置在背景中
+watermark.setColor(Color.red); // Set the color of the watermark
+watermark.setWidth(100);       // Define the width
+watermark.setHeight(100);      // Define the height
+watermark.setBackground(true); // Place it in the background
 ```
 
-在這裡，我們設定一個具有指定尺寸的紅色浮水印並將其定位為背景元素。
-
-#### 4. 將浮水印應用於轉換選項
-
-將您的浮水印設定整合到轉換選項中：
+### 步驟 4：將水印套用至轉換選項
+將設定好的水印附加至 PDF 轉換選項，產生 **background watermark pdf** 效果。
 
 ```java
 options.setWatermark(watermark);
 ```
 
-此步驟可確保在轉換過程中包含您配置的浮水印。
-
-#### 5.執行轉換
-
-最後，使用指定的選項執行轉換：
+### 步驟 5：執行轉換
+執行轉換，產生包含水印的 PDF。
 
 ```java
 String outputFilePath = "YOUR_OUTPUT_DIRECTORY/AddWatermark.pdf";
 converter.convert(outputFilePath, options);
 ```
 
-此行將您的 DOCX 檔案轉換為 PDF 並套用定義的浮水印。
+> **專業提示：** 將轉換程式碼包在 `try‑catch` 區塊中，以優雅地處理 `IOException` 或 `GroupDocsConversionException`。
 
-### 實際應用
+## 實務應用
+- **品牌化：** 在所有匯出的 PDF 中插入公司名稱或標誌。  
+- **安全性：** 在與外部合作夥伴分享前，將草稿標記為 “Confidential”。  
+- **版權保護：** 嵌入所有權資訊，以防止未授權的再分發。  
 
-添加浮水印在各種情況下都很有用，例如：
-- **品牌：** 在文件中新增公司徽標或名稱。
-- **安全：** 在共用期間將文件標記為「機密」。
-- **版權保護：** 透過嵌入所有權資訊來保護智慧財產權。
-  
-此功能還可以與自動文件處理系統集成，增強批次中的安全性和品牌化。
+## 效能考量
+處理大量批次時：
 
-### 性能考慮
+1. **記憶體管理：** 調整 JVM 堆積大小，必要時在每次轉換後觸發垃圾回收。  
+2. **I/O 效率：** 使用緩衝串流讀寫檔案。  
+3. **資源清理：** 完成後呼叫 `converter.close()` 釋放本機資源。  
 
-轉換大量文檔時：
-- 透過管理 Java 的垃圾收集設定來優化記憶體使用量。
-- 使用高效的 I/O 操作來處理文件讀取/寫入。
-- 遵循 Java 應用程式中資源管理的最佳實務。
+## 常見問題與解決方案
 
-### 結論
+| 問題 | 解決方案 |
+|------|----------|
+| **水印未顯示** | 確保對背景水印使用 `setBackground(true)`，或對覆蓋層使用 `setForeground(true)`。 |
+| **顏色或透明度不正確** | 使用 `watermark.setOpacity(0.5f)` 調整透明度；並確認 `Color` 物件。 |
+| **轉換拋出例外** | 確認輸入的 DOCX 路徑正確，且授權已正確載入。 |
 
-按照這些步驟，您已成功使用 GroupDocs.Conversion for Java 在文件轉換過程中新增浮水印。此功能是增強文件安全性和品牌形象的強大工具。
+## 常見問答
 
-若要探索 GroupDocs.Conversion 的更多功能，請考慮深入研究文件或嘗試不同的設定選項。
+**Q: 可以更改水印的透明度嗎？**  
+A: 可以，使用 `watermark.setOpacity(floatValue)` 調整透明度，其中 `0.0` 為完全透明，`1.0` 為不透明。
 
-### 常見問題部分
+**Q: 如何在轉換過程中處理例外？**  
+A: 將轉換邏輯包在 `try‑catch` 區塊中，並記錄 `GroupDocsConversionException` 以取得詳細錯誤資訊。
 
-**Q：我可以更改浮水印的透明度嗎？**
-答：是的，您可以透過設定不透明度來調整透明度 `WatermarkTextOptions`。
+**Q: 可以使用圖片作為水印嗎？**  
+A: 當然可以。使用 `WatermarkImageOptions` 取代 `WatermarkTextOptions`。請參考官方 API 文件取得圖片相關設定。
 
-**Q：如何處理轉換過程中的異常？**
-答：在轉換邏輯周圍實作 try-catch 區塊，以優雅地管理潛在錯誤。
+**Q: 函式庫支援旋轉水印嗎？**  
+A: 支援，呼叫 `watermark.setRotationAngle(doubleAngle)` 以依需求旋轉文字。
 
-**Q：可以添加圖像作為浮水印嗎？**
-答：目前本教學主要介紹文字浮水印，但 GroupDocs.Conversion 也支援圖像浮水印。更多詳細信息，請參閱文件。
+**Q: 可以對不同頁面套用不同的水印嗎？**  
+A: 目前的 API 會在所有頁面套用相同的水印。若需頁面特定的水印，必須使用 PDF 編輯函式庫進行後處理。
 
-### 資源
-- **文件:** [GroupDocs 轉換 Java](https://docs.groupdocs.com/conversion/java/)
-- **API 參考：** [GroupDocs API 參考](https://reference.groupdocs.com/conversion/java/)
-- **下載：** [GroupDocs 發布](https://releases.groupdocs.com/conversion/java/)
-- **購買：** [購買 GroupDocs 許可證](https://purchase.groupdocs.com/buy)
-- **免費試用和臨時許可證：** [GroupDocs 試用版](https://releases.groupdocs.com/conversion/java/)
-- **支援論壇：** [GroupDocs 支持](https://forum.groupdocs.com/c/conversion/10)
+## 資源
+- **文件說明：** [GroupDocs Conversion Java](https://docs.groupdocs.com/conversion/java/)  
+- **API 參考：** [GroupDocs API Reference](https://reference.groupdocs.com/conversion/java/)  
+- **下載：** [GroupDocs Releases](https://releases.groupdocs.com/conversion/java/)  
+- **購買：** [Buy GroupDocs License](https://purchase.groupdocs.com/buy)  
+- **免費試用與臨時授權：** [GroupDocs Trials](https://releases.groupdocs.com/conversion/java/)  
+- **支援論壇：** [GroupDocs Support](https://forum.groupdocs.com/c/conversion/10)
 
-使用 GroupDocs.Conversion for Java 踏上您的旅程，充分發揮應用程式中文件處理的潛力！
+---
+
+**Last Updated:** 2026-03-14  
+**Tested With:** GroupDocs.Conversion 25.2 for Java  
+**Author:** GroupDocs  
+
+---

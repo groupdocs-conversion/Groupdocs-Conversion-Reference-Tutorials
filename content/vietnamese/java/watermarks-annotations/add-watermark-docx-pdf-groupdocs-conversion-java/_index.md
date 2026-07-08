@@ -1,39 +1,48 @@
 ---
-"date": "2025-04-28"
-"description": "Tìm hiểu cách bảo vệ tài liệu của bạn bằng cách thêm hình mờ trong quá trình chuyển đổi từ DOCX sang PDF bằng GroupDocs.Conversion for Java. Làm theo hướng dẫn từng bước này để xử lý tài liệu an toàn."
-"title": "Cách thêm hình mờ vào DOCX và chuyển đổi sang PDF bằng GroupDocs.Conversion cho Java"
-"url": "/vi/java/watermarks-annotations/add-watermark-docx-pdf-groupdocs-conversion-java/"
-"weight": 1
+date: '2026-03-14'
+description: Tìm hiểu cách thêm watermark vào file docx khi chuyển đổi docx sang PDF
+  bằng Java với GroupDocs.Conversion for Java. Hãy làm theo hướng dẫn từng bước này
+  để tạo các tệp PDF an toàn, có thương hiệu.
+keywords:
+- add watermark docx
+- convert DOCX to PDF using GroupDocs
+- GroupDocs.Conversion for Java
+title: How to add watermark docx and Convert to PDF Using GroupDocs.Conversion for
+  Java
 type: docs
+url: /vi/java/watermarks-annotations/add-watermark-docx-pdf-groupdocs-conversion-java/
+weight: 1
 ---
-# Cách thêm hình mờ vào tài liệu của bạn bằng GroupDocs.Conversion cho Java
 
-Trong thế giới kỹ thuật số ngày nay, việc bảo vệ tài liệu của bạn khỏi việc sử dụng trái phép là rất quan trọng. Cho dù bạn đang chia sẻ thông tin nhạy cảm hay chỉ muốn gắn nhãn hiệu cho tài liệu của mình, việc thêm hình mờ có thể là một giải pháp hiệu quả. Trong hướng dẫn này, chúng tôi sẽ hướng dẫn bạn quy trình sử dụng **GroupDocs.Conversion cho Java** để thêm hình mờ khi chuyển đổi tệp DOCX sang PDF.
+# Cách thêm watermark docx và Chuyển đổi sang PDF bằng GroupDocs.Conversion cho Java
 
-### Những gì bạn sẽ học được
-- Cách thiết lập GroupDocs.Conversion cho Java trong dự án của bạn.
-- Hướng dẫn từng bước về cách thêm hình mờ trong quá trình chuyển đổi tài liệu.
-- Các tùy chọn cấu hình chính và tác dụng của chúng.
-- Ứng dụng thực tế của tính năng này.
-- Cân nhắc về hiệu suất để chuyển đổi hiệu quả.
+Bảo vệ tài liệu của bạn là điều thiết yếu trong môi trường kỹ thuật số hiện nay. Cho dù bạn cần gắn thương hiệu cho hợp đồng, đánh dấu bản nháp là **Confidential**, hoặc chỉ đơn giản thêm một định danh trực quan, việc học cách **add watermark docx** trong quá trình **docx to pdf java** chuyển đổi sẽ cung cấp cho bạn lớp kiểm soát bổ sung. Trong hướng dẫn này, chúng tôi sẽ hướng dẫn toàn bộ quy trình với **GroupDocs.Conversion for Java**, từ thiết lập dự án đến file PDF cuối cùng với watermark nền.
 
-Hãy cùng tìm hiểu những điều kiện tiên quyết bạn cần có trước khi bắt đầu!
+## Quick Answers
+- **What does this tutorial cover?** Thêm watermark dạng văn bản khi chuyển đổi file DOCX sang PDF bằng GroupDocs.Conversion for Java.  
+- **Which library is used?** `GroupDocs.Conversion` (Java).  
+- **Do I need a license?** Bản dùng thử miễn phí đủ cho việc thử nghiệm; cần giấy phép đầy đủ cho môi trường sản xuất.  
+- **Can I change the watermark color or opacity?** Có – sử dụng `WatermarkTextOptions` để tùy chỉnh giao diện.  
+- **Is image watermarking supported?** Có, nhưng hướng dẫn này tập trung vào watermark dạng văn bản.
 
-## Điều kiện tiên quyết
+## **add watermark docx** là gì?
+Thêm watermark vào tài liệu DOCX có nghĩa là nhúng một văn bản hoặc hình ảnh bán trong suốt xuất hiện trên mỗi trang của file kết quả. Khi bạn chuyển đổi DOCX sang PDF, watermark sẽ đi cùng nội dung, đảm bảo việc gắn thương hiệu hoặc đánh dấu bảo mật nhất quán trên mọi định dạng.
 
-Trước khi triển khai tính năng này, hãy đảm bảo rằng bạn có:
+## Tại sao sử dụng **GroupDocs.Conversion for Java** cho nhiệm vụ này?
+- **Seamless conversion** chuyển đổi liền mạch từ DOCX sang PDF bằng một lời gọi API duy nhất.  
+- **Built‑in watermark support** (văn bản và hình ảnh) mà không cần thư viện bổ sung.  
+- **High performance** cho xử lý hàng loạt và các file lớn.  
+- **Cross‑platform** tương thích cho bất kỳ ứng dụng dựa trên Java nào.
 
-1. **Bộ phát triển Java (JDK):** Phiên bản 8 trở lên.
-2. **Chuyên gia:** Để quản lý sự phụ thuộc và thiết lập dự án.
-3. Hiểu biết cơ bản về lập trình Java.
+## Yêu cầu trước
+- **Java Development Kit (JDK)** 8 hoặc cao hơn.  
+- **Maven** để quản lý phụ thuộc.  
+- Kiến thức cơ bản về lập trình Java.  
 
-### Thiết lập GroupDocs.Conversion cho Java
+## Cài đặt GroupDocs.Conversion cho Java
 
-Để bắt đầu sử dụng GroupDocs.Conversion, bạn cần thiết lập môi trường của mình đúng cách. Sau đây là cách bạn có thể thực hiện với Maven:
-
-**Cấu hình Maven**
-
-Thêm kho lưu trữ và cấu hình phụ thuộc sau vào `pom.xml` tài liệu:
+### Cấu hình Maven
+Add the GroupDocs repository and the conversion dependency to your `pom.xml`:
 
 ```xml
 <repositories>
@@ -53,108 +62,103 @@ Thêm kho lưu trữ và cấu hình phụ thuộc sau vào `pom.xml` tài liệ
 </dependencies>
 ```
 
-**Mua lại giấy phép**
-- **Dùng thử miễn phí:** Bắt đầu bằng bản dùng thử miễn phí để khám phá các tính năng của thư viện.
-- **Giấy phép tạm thời:** Xin giấy phép tạm thời để thử nghiệm kéo dài.
-- **Mua:** Để sử dụng lâu dài, hãy mua giấy phép đầy đủ.
+### Nhận giấy phép
+- **Free Trial:** Lý tưởng để đánh giá API.  
+- **Temporary License:** Gia hạn thời gian thử nghiệm vượt qua thời gian dùng thử.  
+- **Full License:** Cần cho triển khai sản xuất.
 
-### Hướng dẫn thực hiện
+## Thực hiện từng bước
 
-Bây giờ bạn đã thiết lập môi trường của mình, hãy thêm hình mờ trong quá trình chuyển đổi tài liệu.
-
-#### 1. Khởi tạo đối tượng chuyển đổi
-
-Đầu tiên, khởi tạo `Converter` đối tượng với tập tin đầu vào của bạn:
+### Bước 1: Khởi tạo đối tượng Converter
+Create a `Converter` instance that points to your source DOCX file.
 
 ```java
 String inputFilePath = "YOUR_DOCUMENT_DIRECTORY/sample.docx";
 Converter converter = new Converter(inputFilePath);
 ```
 
-Dòng này tạo ra một `Converter` trường hợp tải tài liệu DOCX của bạn.
-
-#### 2. Thiết lập tùy chọn chuyển đổi PDF
-
-Cấu hình các tùy chọn chuyển đổi để chỉ định giao diện của tệp PDF đầu ra mà bạn muốn:
+### Bước 2: Thiết lập tùy chọn chuyển đổi PDF
+Instantiate `PdfConvertOptions` to control the output PDF settings.
 
 ```java
 PdfConvertOptions options = new PdfConvertOptions();
 ```
 
-#### 3. Tạo và cấu hình tùy chọn văn bản hình mờ
-
-Xác định văn bản hình mờ, hình thức và thuộc tính của nó bằng cách sử dụng `WatermarkTextOptions`:
+### Bước 3: Tạo và cấu hình Watermark Text Options
+Define the watermark’s text, color, size, and placement. This is where the **java add text watermark** logic lives.
 
 ```java
 WatermarkTextOptions watermark = new WatermarkTextOptions("Sample watermark");
-watermark.setColor(Color.red); // Thiết lập màu sắc của hình mờ
-watermark.setWidth(100);       // Xác định chiều rộng
-watermark.setHeight(100);      // Xác định chiều cao
-watermark.setBackground(true); // Đặt nó ở phía sau
+watermark.setColor(Color.red); // Set the color of the watermark
+watermark.setWidth(100);       // Define the width
+watermark.setHeight(100);      // Define the height
+watermark.setBackground(true); // Place it in the background
 ```
 
-Ở đây, chúng tôi thiết lập hình mờ màu đỏ với kích thước được chỉ định và định vị nó làm phần tử nền.
-
-#### 4. Áp dụng hình mờ cho các tùy chọn chuyển đổi
-
-Tích hợp cài đặt hình mờ vào các tùy chọn chuyển đổi:
+### Bước 4: Áp dụng Watermark vào tùy chọn chuyển đổi
+Attach the configured watermark to the PDF conversion options. This creates a **background watermark pdf** effect.
 
 ```java
 options.setWatermark(watermark);
 ```
 
-Bước này đảm bảo rằng hình mờ bạn đã cấu hình sẽ được bao gồm trong quá trình chuyển đổi.
-
-#### 5. Thực hiện chuyển đổi
-
-Cuối cùng, thực hiện chuyển đổi với các tùy chọn được chỉ định:
+### Bước 5: Thực hiện chuyển đổi
+Execute the conversion, producing a PDF that includes the watermark.
 
 ```java
 String outputFilePath = "YOUR_OUTPUT_DIRECTORY/AddWatermark.pdf";
 converter.convert(outputFilePath, options);
 ```
 
-Dòng này chuyển đổi tệp DOCX của bạn thành PDF và áp dụng hình mờ như đã xác định.
+> **Pro tip:** Đóng gói mã chuyển đổi trong khối `try‑catch` để xử lý `IOException` hoặc `GroupDocsConversionException` một cách nhẹ nhàng.
 
-### Ứng dụng thực tế
+## Ứng dụng thực tiễn
+- **Branding:** Chèn tên công ty hoặc logo trên tất cả các PDF được xuất.  
+- **Security:** Đánh dấu bản nháp là “Confidential” trước khi chia sẻ với đối tác bên ngoài.  
+- **Copyright Protection:** Nhúng thông tin sở hữu để ngăn chặn việc phân phối trái phép.
 
-Việc thêm hình mờ có thể hữu ích trong nhiều trường hợp như:
-- **Xây dựng thương hiệu:** Thêm logo hoặc tên công ty vào tài liệu.
-- **Bảo vệ:** Đánh dấu tài liệu là "Bí mật" khi chia sẻ.
-- **Bảo vệ bản quyền:** Bảo vệ sở hữu trí tuệ bằng cách nhúng thông tin quyền sở hữu.
-  
-Tính năng này cũng có thể tích hợp với các hệ thống xử lý tài liệu tự động, tăng cường bảo mật và xây dựng thương hiệu trong các quy trình hàng loạt.
+## Các cân nhắc về hiệu năng
+When processing large batches:
 
-### Cân nhắc về hiệu suất
+1. **Memory Management:** Điều chỉnh kích thước heap JVM và kích hoạt garbage collection sau mỗi lần chuyển đổi nếu cần.  
+2. **I/O Efficiency:** Sử dụng buffered streams để đọc và ghi file.  
+3. **Resource Cleanup:** Gọi `converter.close()` khi hoàn thành để giải phóng tài nguyên gốc.
 
-Khi chuyển đổi khối lượng lớn tài liệu:
-- Tối ưu hóa việc sử dụng bộ nhớ bằng cách quản lý cài đặt thu gom rác của Java.
-- Sử dụng các hoạt động I/O hiệu quả để xử lý việc đọc/ghi tệp.
-- Thực hiện các biện pháp tốt nhất để quản lý tài nguyên trong ứng dụng Java của bạn.
+## Các vấn đề thường gặp và giải pháp
 
-### Phần kết luận
+| Issue | Solution |
+|-------|----------|
+| **Watermark not visible** | Đảm bảo `setBackground(true)` cho watermark nền hoặc `setForeground(true)` cho lớp phủ. |
+| **Incorrect color or opacity** | Sử dụng `watermark.setOpacity(0.5f)` để điều chỉnh độ trong suốt; kiểm tra đối tượng `Color`. |
+| **Conversion throws exception** | Kiểm tra đường dẫn DOCX đầu vào có đúng và giấy phép đã được tải đúng cách. |
 
-Bằng cách làm theo các bước này, bạn đã thêm thành công hình mờ trong quá trình chuyển đổi tài liệu bằng GroupDocs.Conversion for Java. Tính năng này là một công cụ mạnh mẽ để tăng cường bảo mật và thương hiệu cho tài liệu.
+## Câu hỏi thường gặp
 
-Để khám phá thêm nhiều tính năng của GroupDocs.Conversion, hãy cân nhắc tìm hiểu thêm tài liệu hoặc thử nghiệm các tùy chọn cấu hình khác nhau.
+**Q: Tôi có thể thay đổi độ trong suốt của watermark không?**  
+A: Có, điều chỉnh độ trong suốt bằng `watermark.setOpacity(floatValue)` trong đó `0.0` là hoàn toàn trong suốt và `1.0` là không trong suốt.
 
-### Phần Câu hỏi thường gặp
+**Q: Làm thế nào để xử lý ngoại lệ trong quá trình chuyển đổi?**  
+A: Bao quanh logic chuyển đổi trong khối `try‑catch` và ghi log `GroupDocsConversionException` để có thông tin lỗi chi tiết.
 
-**H: Tôi có thể thay đổi độ trong suốt của hình mờ không?**
-A: Có, bạn có thể điều chỉnh độ trong suốt bằng cách thiết lập mức độ mờ đục trong `WatermarkTextOptions`.
+**Q: Có thể thêm hình ảnh làm watermark không?**  
+A: Chắc chắn. Sử dụng `WatermarkImageOptions` thay vì `WatermarkTextOptions`. Tham khảo tài liệu API chính thức để biết các cài đặt riêng cho hình ảnh.
 
-**H: Tôi phải xử lý những trường hợp ngoại lệ trong quá trình chuyển đổi như thế nào?**
-A: Triển khai các khối try-catch xung quanh logic chuyển đổi của bạn để quản lý các lỗi tiềm ẩn một cách hợp lý.
+**Q: Thư viện có hỗ trợ xoay watermark không?**  
+A: Có, gọi `watermark.setRotationAngle(doubleAngle)` để xoay văn bản theo nhu cầu.
 
-**H: Tôi có thể thêm hình ảnh làm hình mờ không?**
-A: Hiện tại, hướng dẫn này tập trung vào hình mờ văn bản, nhưng GroupDocs.Conversion cũng hỗ trợ hình mờ hình ảnh. Kiểm tra tài liệu để biết thêm chi tiết.
+**Q: Tôi có thể áp dụng các watermark khác nhau cho các trang khác nhau không?**  
+A: API hiện tại áp dụng một watermark đồng nhất cho tất cả các trang. Để có watermark riêng cho từng trang, bạn cần xử lý PDF sau bằng một thư viện chỉnh sửa PDF.
 
-### Tài nguyên
-- **Tài liệu:** [Chuyển đổi GroupDocs Java](https://docs.groupdocs.com/conversion/java/)
-- **Tài liệu tham khảo API:** [Tài liệu tham khảo API GroupDocs](https://reference.groupdocs.com/conversion/java/)
-- **Tải xuống:** [Bản phát hành GroupDocs](https://releases.groupdocs.com/conversion/java/)
-- **Mua:** [Mua giấy phép GroupDocs](https://purchase.groupdocs.com/buy)
-- **Dùng thử miễn phí & Giấy phép tạm thời:** [Dùng thử GroupDocs](https://releases.groupdocs.com/conversion/java/)
-- **Diễn đàn hỗ trợ:** [Hỗ trợ GroupDocs](https://forum.groupdocs.com/c/conversion/10)
+## Tài nguyên
+- **Documentation:** [GroupDocs Conversion Java](https://docs.groupdocs.com/conversion/java/)  
+- **API Reference:** [GroupDocs API Reference](https://reference.groupdocs.com/conversion/java/)  
+- **Download:** [GroupDocs Releases](https://releases.groupdocs.com/conversion/java/)  
+- **Purchase:** [Buy GroupDocs License](https://purchase.groupdocs.com/buy)  
+- **Free Trial & Temporary License:** [GroupDocs Trials](https://releases.groupdocs.com/conversion/java/)  
+- **Support Forum:** [GroupDocs Support](https://forum.groupdocs.com/c/conversion/10)
 
-Hãy bắt đầu hành trình của bạn với GroupDocs.Conversion for Java và khai thác toàn bộ tiềm năng xử lý tài liệu trong ứng dụng của bạn!
+---
+
+**Last Updated:** 2026-03-14  
+**Tested With:** GroupDocs.Conversion 25.2 for Java  
+**Author:** GroupDocs
