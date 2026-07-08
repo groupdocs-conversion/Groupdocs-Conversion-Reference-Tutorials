@@ -1,47 +1,46 @@
 ---
-date: '2025-12-19'
-description: Μάθετε πώς να παρακολουθείτε τη μετατροπή σε Java, συμπεριλαμβανομένου
-  του πώς να μετατρέπετε docx σε pdf χρησιμοποιώντας το GroupDocs.Conversion. Εφαρμόστε
-  ανθεκτικούς ακροατές για αδιάλειπτη παρακολούθηση.
+date: '2026-03-24'
+description: Μάθετε πώς να παρακολουθείτε την πρόοδο μετατροπής Java χρησιμοποιώντας
+  το GroupDocs.Conversion, να μετατρέπετε DOCX σε PDF Java και να υλοποιείτε listeners
+  για παρακολούθηση σε πραγματικό χρόνο.
 keywords:
 - track document conversion progress Java
 - GroupDocs.Conversion for Java
 - conversion state and progress listener
-title: 'Πώς να παρακολουθείτε την πρόοδο μετατροπής σε Java με το GroupDocs - Ένας
-  πλήρης οδηγός'
+title: Παρακολούθηση Προόδου Μετατροπής Java με το GroupDocs – Πλήρης Οδηγός
 type: docs
 url: /el/java/conversion-events-logging/java-groupdocs-conversion-progress-listener/
 weight: 1
 ---
 
-# Πώς να Παρακολουθήσετε την Πρόοδο Μετατροπής σε Java με το GroupDocs
+# Παρακολούθηση Προόδου Μετατροπής Java με GroupDocs
 
-Αν χρειάζεστε **να γνωρίζετε πώς να παρακολουθείτε τη μετατροπή** στις εφαρμογές Java—ιδιαίτερα όταν θέλετε να **μετατρέψετε docx pdf java**—το GroupDocs.Conversion προσφέρει μια καθαρή, γεγονότα‑βασισμένη προσέγγιση. Συνδέοντας listeners μπορείτε να λαμβάνετε ανατροφοδότηση σε πραγματικό χρόνο για κάθε στάδιο της διαδικασίας μετατροπής, καθιστώντας τις εργασίες batch, τις γραμμές προόδου UI και την καταγραφή πολύ πιο διαφανή.
+Αν χρειάζεστε **track conversion progress java** στις εφαρμογές σας—ιδιαίτερα όταν θέλετε να **convert docx pdf java**—το GroupDocs.Conversion προσφέρει μια καθαρή, βασισμένη σε γεγονότα προσέγγιση. Συνδέοντας listeners μπορείτε να λαμβάνετε ανατροφοδότηση σε πραγματικό χρόνο σε κάθε στάδιο της διαδικασίας μετατροπής, κάνοντας τις εργασίες batch, τις γραμμές προόδου UI και την καταγραφή πολύ πιο διαφανείς.
 
 ## Γρήγορες Απαντήσεις
-- **Τι κάνει ο listener;** Αναφέρει γεγονότα έναρξης, προόδου (ποσοστό) και ολοκλήρωσης.  
-- **Ποιοι τύποι αρχείων μπορώ να παρακολουθήσω;** Οποιοσδήποτε τύπος υποστηρίζεται από το GroupDocs.Conversion, π.χ., DOCX → PDF.  
-- **Χρειάζεται άδεια;** Μια δωρεάν δοκιμή λειτουργεί για ανάπτυξη· απαιτείται πληρωμένη άδεια για παραγωγή.  
-- **Απαιτείται Maven;** Το Maven απλοποιεί τη διαχείριση εξαρτήσεων, αλλά μπορείτε επίσης να χρησιμοποιήσετε Gradle ή χειροκίνητα JARs.  
-- **Μπορώ να το χρησιμοποιήσω σε web service;** Ναι—συσκευάστε την κλήση μετατροπής σε ένα REST endpoint και μεταδώστε την πρόοδο πίσω στον πελάτη.
+- **What does the listener do?** **Καμία έξοδος προόδου**  
+- **Which formats can I monitor?** Οποιοδήποτε μορφότυπο υποστηρίζεται από το GroupDocs.Conversion, π.χ., DOCX → PDF.  
+- **Do I need a license?** Μια δωρεάν δοκιμή λειτουργεί για ανάπτυξη· απαιτείται πληρωμένη άδεια για παραγωγή.  
+- **Is Maven required?** Το Maven απλοποιεί τη διαχείριση εξαρτήσεων, αλλά μπορείτε επίσης να χρησιμοποιήσετε Gradle ή χειροκίνητα JARs.  
+- **Can I use this in a web service?** Ναι—τυλίξτε την κλήση μετατροπής σε ένα REST endpoint και μεταδώστε την πρόοδο πίσω στον πελάτη.
 
-## Τι είναι το “πώς να παρακολουθείτε τη μετατροπή” στο GroupDocs;
-Το GroupDocs.Conversion παρέχει το interface `IConverterListener`. Η υλοποίηση αυτού του interface επιτρέπει στον κώδικά σας να αντιδρά κάθε φορά που η μηχανή μετατροπής αλλάζει κατάσταση, δίνοντάς σας τη δυνατότητα να καταγράφετε, να ενημερώνετε UI στοιχεία ή να ενεργοποιείτε επόμενες διεργασίες.
+## Πώς να Παρακολουθήσετε την Πρόοδο Μετατροπής Java με το GroupDocs;
+Το GroupDocs.Conversion παρέχει το interface `IConverterListener`. Η υλοποίηση αυτού του interface επιτρέπει στον κώδικά σας να αντιδρά κάθε φορά που η μηχανή μετατροπής αλλάζει κατάσταση, επιτρέποντάς σας να καταγράφετε, να ενημερώνετε στοιχεία UI ή να ενεργοποιείτε επόμενες διαδικασίες.
 
-## Γιατί να παρακολουθείτε την πρόοδο της μετατροπής;
-- **Εμπειρία Χρήστη:** Εμφανίστε ζωντανά ποσοστά σε UI dashboards ή εργαλεία CLI.  
-- **Διαχείριση Σφαλμάτων:** Εντοπίστε καθυστερήσεις νωρίς και επαναλάβετε ή τερματίστε με χάρη.  
-- **Σχεδιασμός Πόρων:** Εκτιμήστε τον χρόνο επεξεργασίας μεγάλων batch και κατανείμετε πόρους ανάλογα.  
+## Γιατί να παρακολουθείτε την πρόοδο μετατροπής;
+- **User Experience:** Εμφανίστε ζωντανά ποσοστά σε πίνακες ελέγχου UI ή εργαλεία CLI.  
+- **Error Handling:** Ανιχνεύστε καθυστερήσεις νωρίς και επαναλάβετε ή τερματίστε με χάρη.  
+- **Resource Planning:** Εκτιμήστε τον χρόνο επεξεργασίας για μεγάλες παρτίδες και κατανείμετε πόρους ανάλογα.  
 
 ## Προαπαιτούμενα
 - **Java Development Kit (JDK 8+).**  
 - **Maven** (ή οποιοδήποτε εργαλείο κατασκευής που μπορεί να επιλύσει αποθετήρια Maven).  
-- **Βιβλιοθήκη GroupDocs.Conversion for Java.**  
-- **Έγκυρη άδεια GroupDocs** (η δωρεάν δοκιμή λειτουργεί για δοκιμές).  
+- **GroupDocs.Conversion for Java** βιβλιοθήκη.  
+- **A valid GroupDocs license** (η δωρεάν δοκιμή λειτουργεί για δοκιμές).  
 
 ## Ρύθμιση του GroupDocs.Conversion για Java
-### Εγκατάσταση του GroupDocs.Conversion μέσω Maven
-Προσθέστε το αποθετήριο και την εξάρτηση στο `pom.xml` σας:
+### Εγκατάσταση GroupDocs.Conversion μέσω Maven
+Add the repository and dependency to your `pom.xml`:
 
 ```xml
 <repositories>
@@ -62,10 +61,10 @@ weight: 1
 ```
 
 ### Απόκτηση Άδειας
-Το GroupDocs προσφέρει δωρεάν δοκιμή, προσωρινές άδειες για αξιολόγηση και επιλογές αγοράς για εμπορική χρήση. Επισκεφθείτε τη [σελίδα αγοράς](https://purchase.groupdocs.com/buy) για να αποκτήσετε την άδειά σας.
+Το GroupDocs προσφέρει δωρεάν δοκιμή, προσωρινές άδειες για αξιολόγηση και επιλογές αγοράς για εμπορική χρήση. Επισκεφθείτε τη [purchase page](https://purchase.groupdocs.com/buy) για να αποκτήσετε την άδειά σας.
 
 ### Βασική Αρχικοποίηση
-Μόλις η βιβλιοθήκη βρίσκεται στο classpath, μπορείτε να δημιουργήσετε ένα αντικείμενο `ConverterSettings`:
+Once the library is on your classpath, you can create a `ConverterSettings` instance:
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -80,14 +79,14 @@ public class InitializeGroupDocs {
 ```
 
 ## Οδηγός Υλοποίησης
-Θα περάσουμε βήμα‑βήμα από κάθε δυνατότητα, προσθέτοντας περιεχόμενο πριν από κάθε απόσπασμα κώδικα.
+Θα περάσουμε από κάθε χαρακτηριστικό βήμα‑βήμα, προσθέτοντας περιεχόμενο πριν από κάθε απόσπασμα κώδικα.
 
-### Χαρακτηριστικό 1: Listener Κατάστασης και Προόδου Μετατροπής
+### Χαρακτηριστικό 1: Κατάσταση Μετατροπής και Listener Προόδου
 #### Επισκόπηση
-Αυτός ο listener σας λέει πότε ξεκινά μια μετατροπή, πόσο έχει προχωρήσει και πότε ολοκληρώνεται.
+Αυτός ο listener σας ενημερώνει πότε ξεκινά μια μετατροπή, πόσο έχει προχωρήσει και πότε ολοκληρώνεται.
 
 #### Υλοποίηση του Listener
-Δημιουργήστε μια κλάση που υλοποιεί το `IConverterListener`:
+Create a class that implements `IConverterListener`:
 
 ```java
 import com.groupdocs.conversion.IConverterListener;
@@ -110,20 +109,20 @@ class ListenConversionStateAndProgress implements IConverterListener {
 **Επεξήγηση**  
 - **started()** – καλείται ακριβώς πριν η μηχανή αρχίσει την επεξεργασία. Χρησιμοποιήστε το για επαναφορά χρονομέτρων ή στοιχείων UI.  
 - **progress(byte current)** – λαμβάνει μια τιμή από 0 ως 100 που αντιπροσωπεύει το ποσοστό ολοκλήρωσης. Ιδανικό για γραμμές προόδου.  
-- **completed()** – ενεργοποιείται μετά την πλήρη εγγραφή του αρχείου εξόδου. Καθαρίστε πόρους εδώ.
+- **completed()** – ενεργοποιείται μετά την πλήρη εγγραφή του αρχείου εξόδου. Καθαρίστε τους πόρους εδώ.
 
 ### Χαρακτηριστικό 2: Ρυθμίσεις Converter με Listener
 #### Επισκόπηση
-Συνδέστε το listener σας στο `ConverterSettings` ώστε η μηχανή να ξέρει πού να στέλνει τα γεγονότα.
+Συνδέστε το listener σας στο `ConverterSettings` ώστε η μηχανή να γνωρίζει πού να στέλνει τα γεγονότα.
 
 #### Βήματα Διαμόρφωσης
-1. **Δημιουργήστε μια παρουσία του listener σας**:
+1. **Create an instance of your listener**:
 
    ```java
    IConverterListener listener = new ListenConversionStateAndProgress();
    ```
 
-2. **Διαμορφώστε το αντικείμενο `ConverterSettings`**:
+2. **Configure the `ConverterSettings` object**:
 
    ```java
    ConverterSettings settingsFactory = new ConverterSettings();
@@ -132,17 +131,17 @@ class ListenConversionStateAndProgress implements IConverterListener {
 
 ### Χαρακτηριστικό 3: Εκτέλεση Μετατροπής Εγγράφου
 #### Επισκόπηση
-Τώρα θα δείτε τον listener σε δράση ενώ μετατρέπετε ένα αρχείο DOCX σε PDF.
+Τώρα θα δείτε το listener σε δράση κατά τη μετατροπή ενός αρχείου DOCX σε PDF.
 
 #### Βήματα Υλοποίησης
-1. **Ορίστε διαδρομές εισόδου και εξόδου** (αντικαταστήστε με τους δικούς σας φακέλους):
+1. **Define input and output paths** (replace with your actual directories):
 
    ```java
    String inputDocPath = "YOUR_DOCUMENT_DIRECTORY/SAMPLE_DOCX";
    String outputPath = "YOUR_OUTPUT_DIRECTORY/converted.pdf";
    ```
 
-2. **Αρχικοποιήστε τον converter με τις ρυθμίσεις που περιέχουν listener** και εκτελέστε τη μετατροπή:
+2. **Initialize the converter with the listener‑enabled settings** and run the conversion:
 
    ```java
    try (Converter converter = new Converter(inputDocPath, settingsFactory)) {
@@ -153,58 +152,54 @@ class ListenConversionStateAndProgress implements IConverterListener {
 
 **Επεξήγηση**  
 - **Converter** – η κεντρική κλάση που οργανώνει τη μετατροπή.  
-- **PdfConvertOptions** – λέει στο GroupDocs ότι θέλετε έξοδο PDF. Μπορείτε να το αντικαταστήσετε με `PptxConvertOptions`, `HtmlConvertOptions` κ.λπ., και ο ίδιος listener θα συνεχίσει να αναφέρει πρόοδο.  
+- **PdfConvertOptions** – ενημερώνει το GroupDocs ότι θέλετε έξοδο PDF. Μπορείτε να το αντικαταστήσετε με `PptxConvertOptions`, `HtmlConvertOptions`, κ.λπ., και ο ίδιος listener θα συνεχίσει να αναφέρει πρόοδο.  
 
 ## Πώς να Μετατρέψετε docx pdf java με το GroupDocs
-Ο παραπάνω κώδικας δείχνει ήδη τη ροή **docx → pdf**. Αν χρειάζεστε άλλες μορφές εξόδου, απλώς αντικαταστήστε το `PdfConvertOptions` με την κατάλληλη κλάση επιλογών (π.χ., `HtmlConvertOptions` για HTML). Ο listener παραμένει αμετάβλητος, οπότε λαμβάνετε πραγματικό‑χρόνο πρόοδο ανεξάρτητα από τον τύπο εξόδου.
+Ο παραπάνω κώδικας δείχνει ήδη τη ροή **docx → pdf**. Αν χρειάζεστε άλλες μορφές προορισμού, απλώς αντικαταστήστε το `PdfConvertOptions` με την κατάλληλη κλάση επιλογών (π.χ., `HtmlConvertOptions` για HTML). Ο listener παραμένει αμετάβλητος, ώστε να λαμβάνετε ακόμη πρόοδο σε πραγματικό χρόνο ανεξάρτητα από τον τύπο εξόδου. Μπορείτε επίσης να **java convert word pdf** χρησιμοποιώντας `PdfConvertOptions` με πηγή `.docx`.
 
 ## Πρακτικές Εφαρμογές
-1. **Αυτοματοποιημένα Συστήματα Διαχείρισης Εγγράφων** – επεξεργασία batch χιλιάδων αρχείων με ζωντανό ταμπλό προόδου.  
-2. **Επιχειρηματικές Λύσεις Λογισμικού** – ενσωμάτωση μετατροπής σε pipelines τιμολογίων, αρχειοθέτηση νομικών εγγράφων ή δημιουργία περιεχομένου e‑learning.  
-3. **Εργαλεία Μεταφοράς Περιεχομένου** – παρακολούθηση μεγάλων μεταφορών από παλαιές μορφές σε σύγχρονα PDF, εξασφαλίζοντας έγκαιρη ανίχνευση καθυστερήσεων.  
+1. **Automated Document Management Systems** – επεξεργασία batch χιλιάδων αρχείων ενώ εμφανίζεται πίνακας ελέγχου ζωντανής προόδου.  
+2. **Enterprise Software Solutions** – ενσωματώστε τη μετατροπή σε pipelines τιμολογίων, αρχειοθέτηση νομικών εγγράφων ή δημιουργία περιεχομένου e‑learning.  
+3. **Content Migration Tools** – παρακολουθήστε μεγάλες μεταναστεύσεις από παλαιούς μορφότυπους σε σύγχρονα PDF, διασφαλίζοντας ότι εντοπίζετε τυχόν καθυστερήσεις νωρίς.  
 
-## Σκέψεις για την Απόδοση
-- **Διαχείριση Μνήμης:** Χρησιμοποιήστε try‑with‑resources (όπως φαίνεται) για να εγγυηθείτε ότι το `Converter` κλείνει άμεσα.  
-- **Πολυνηματικότητα:** Για τεράστιες δόσεις, εκτελέστε μετατροπές σε παράλληλα νήματα, αλλά θυμηθείτε ότι κάθε νήμα χρειάζεται τη δική του παρουσία listener για να αποφύγετε μπερδεμένη έξοδο.  
-- **Καταγραφή:** Κρατήστε τις κλήσεις `System.out` του listener ελαφριές· για παραγωγή, δρομολογήστε τις σε κατάλληλο πλαίσιο logging (SLF4J, Log4j).  
+## Σκέψεις Απόδοσης
+- **Memory Management:** Χρησιμοποιήστε try‑with‑resources (όπως φαίνεται) για να εξασφαλίσετε ότι το `Converter` κλείνει άμεσα.  
+- **Threading:** Για τεράστιες παρτίδες, εκτελέστε μετατροπές σε παράλληλα νήματα, αλλά θυμηθείτε ότι κάθε νήμα χρειάζεται τη δική του instance listener για να αποφύγετε ανάμειξη εξόδου.  
+- **Logging:** Κρατήστε τις κλήσεις `System.out` του listener ελαφριές· για παραγωγή, δρομολογήστε τις σε κατάλληλο πλαίσιο καταγραφής (SLF4J, Log4j).  
 
-## Συχνά Προβλήματα και Λύσεις
+## Συνηθισμένα Προβλήματα και Λύσεις
 | Πρόβλημα | Λύση |
 |----------|------|
-| **Δεν εμφανίζεται πρόοδος** | Βεβαιωθείτε ότι καλείται `settingsFactory.setListener(listener);` πριν δημιουργήσετε το `Converter`. |
-| **OutOfMemoryError σε μεγάλα αρχεία** | Αυξήστε το heap της JVM (`-Xmx2g` ή περισσότερο) και εξετάστε την επεξεργασία αρχείων σε μικρότερα τμήματα αν είναι δυνατόν. |
-| **Ο listener δεν ενεργοποιείται σε σφάλμα** | Τυλίξτε το `converter.convert` σε try‑catch και καλέστε μια προσαρμοσμένη μέθοδο `error(byte code)` μέσα στην υλοποίηση του listener. |
+| **Καμία έξοδος προόδου** | Επαληθεύστε ότι το `settingsFactory.setListener(listener);` καλείται πριν τη δημιουργία του `Converter`. |
+| **OutOfMemoryError on large files** | Αυξήστε τη μνήμη heap της JVM (`-Xmx2g` ή μεγαλύτερη) και εξετάστε την επεξεργασία αρχείων σε μικρότερα τμήματα αν είναι δυνατόν. |
+| **Listener not triggered on error** | Τυλίξτε το `converter.convert` σε ένα μπλοκ try‑catch και καλέστε μια προσαρμοσμένη μέθοδο `error(byte code)` μέσα στην υλοποίηση του listener. |
 
 ## Συχνές Ερωτήσεις
 
-**Ε:** Μπορώ να παρακολουθήσω την πρόοδο μετατροπής για μορφές εκτός του PDF;  
-**Α:** Ναι. Ο ίδιος `IConverterListener` λειτουργεί με οποιονδήποτε τύπο εξόδου υποστηρίζεται από το GroupDocs.Conversion· απλώς αλλάξτε την κλάση επιλογών.
+**Q:** Μπορώ να παρακολουθήσω την πρόοδο μετατροπής για μορφές εκτός του PDF;  
+**A:** Ναι. Το ίδιο `IConverterListener` λειτουργεί με οποιοδήποτε μορφότυπο προορισμού που υποστηρίζεται από το GroupDocs.Conversion· απλώς αντικαταστήστε την κλάση επιλογών.
 
-**Ε:** Πώς να διαχειριστώ μεγάλα έγγραφα αποδοτικά;  
-**Α:** Χρησιμοποιήστε τις streaming APIs της Java, αυξήστε το heap της JVM και παρακολουθήστε την πρόοδο μέσω του listener για να εντοπίζετε βήματα που διαρκούν πολύ.
+**Q:** Πώς να διαχειριστώ μεγάλα έγγραφα αποδοτικά;  
+**A:** Χρησιμοποιήστε τις streaming APIs της Java, αυξήστε το μέγεθος heap της JVM και παρακολουθήστε την πρόοδο του listener για να εντοπίζετε βήματα που διαρκούν πολύ.
 
-**Ε:** Τι συμβαίνει αν η μετατροπή αποτύχει στη μέση;  
-**Α:** Υλοποιήστε πρόσθετες μεθόδους στο listener (π.χ., `error(byte code)`) και τυλίξτε την κλήση `convert` με διαχείριση εξαιρέσεων για να καταγράψετε και να αναφέρετε τις αποτυχίες.
+**Q:** Τι συμβαίνει αν η μετατροπή αποτύχει στη μέση;  
+**A:** Υλοποιήστε πρόσθετες μεθόδους στο listener σας (π.χ., `error(byte code)`) και τυλίξτε την κλήση `convert` με διαχείριση εξαιρέσεων για να καταγράψετε και να καταγράψετε τις αποτυχίες.
 
-**Ε:** Υπάρχουν όρια μεγέθους ή τύπου αρχείου;  
-**Α:** Οι περισσότερες κοινές μορφές υποστηρίζονται, αλλά πολύ μεγάλα αρχεία μπορεί να απαιτούν περισσότερη μνήμη. Ανατρέξτε στην επίσημη [τεκμηρίωση GroupDocs](https://docs.groupdocs.com/conversion/java/) για λεπτομερή όρια.
+**Q:** Υπάρχουν περιορισμοί στο μέγεθος ή τον τύπο του αρχείου;  
+**A:** Οι περισσότερες κοινές μορφές υποστηρίζονται, αλλά πολύ μεγάλα αρχεία μπορεί να απαιτούν περισσότερη μνήμη. Ανατρέξτε στην επίσημη [GroupDocs documentation](https://docs.groupdocs.com/conversion/java/) για λεπτομερείς περιορισμούς.
 
-**Ε:** Πώς μπορώ να το εκθέσω σε web εφαρμογή;  
-**Α:** Συσκευάστε τη λογική μετατροπής σε ένα REST endpoint (π.χ., Spring Boot) και μεταδώστε ενημερώσεις προόδου μέσω Server‑Sent Events (SSE) ή WebSocket, τροφοδοτώντας την έξοδο του listener στον πελάτη.
+**Q:** Πώς μπορώ να το ενσωματώσω σε μια web εφαρμογή;  
+**A:** Τυλίξτε τη λογική μετατροπής σε ένα REST endpoint (π.χ., Spring Boot) και μεταδώστε ενημερώσεις προόδου μέσω Server‑Sent Events (SSE) ή WebSocket, τροφοδοτώντας την έξοδο του listener στον πελάτη.
 
 ## Πόροι
-- **Τεκμηρίωση:** [GroupDocs Conversion Documentation](https://docs.groupdocs.com/conversion/java/)  
-- **Αναφορά API:** [API Reference](https://reference.groupdocs.com/conversion/java/)  
-- **Λήψη:** [Download GroupDocs.Conversion](https://releases.groupdocs.com/conversion/java/)  
-- **Αγορά:** [Buy License](https://purchase.groupdocs.com/buy)  
-- **Δωρεάν Δοκιμή:** [Try Free Trial](https://releases.groupdocs.com/conversion/java/)  
-- **Προσωρινή Άδεια:** [Get Temporary License](https://purchase.groupdocs.com/temporary-license/)  
-- **Φόρουμ Υποστήριξης:** [GroupDocs Support](https://forum.groupdocs.com/c/conversion/10)
+- **Documentation:** [GroupDocs Conversion Documentation](https://docs.groupdocs.com/conversion/java/)
+- **API Reference:** [API Reference](https://reference.groupdocs.com/conversion/java/)
+- **Download:** [Download GroupDocs.Conversion](https://releases.groupdocs.com/conversion/java/)
+- **Purchase:** [Buy License](https://purchase.groupdocs.com/buy)
+- **Free Trial:** [Try Free Trial](https://releases.groupdocs.com/conversion/java/)
+- **Temporary License:** [Get Temporary License](https://purchase.groupdocs.com/temporary-license/)
+- **Support Forum:** [GroupDocs Support](https://forum.groupdocs.com/c/conversion/10)
 
----
-
-**Τελευταία Ενημέρωση:** 2025-12-19  
-**Δοκιμασμένο Με:** GroupDocs.Conversion 25.2  
-**Συγγραφέας:** GroupDocs  
-
----
+**Last Updated:** 2026-03-24  
+**Tested With:** GroupDocs.Conversion 25.2  
+**Author:** GroupDocs

@@ -1,37 +1,36 @@
 ---
-date: '2025-12-19'
-description: Leer hoe je conversies in Java kunt volgen, inclusief hoe je docx naar
-  pdf kunt converteren met GroupDocs.Conversion. Implementeer robuuste listeners voor
-  naadloze monitoring.
+date: '2026-03-24'
+description: Leer hoe je de voortgang van conversies in Java kunt volgen met GroupDocs.Conversion,
+  docx naar pdf in Java kunt converteren en listeners implementeert voor realtime
+  monitoring.
 keywords:
 - track document conversion progress Java
 - GroupDocs.Conversion for Java
 - conversion state and progress listener
-title: 'Hoe de voortgang van conversie in Java met GroupDocs bij te houden - Een complete
-  gids'
+title: Conversievoortgang bijhouden in Java met GroupDocs – Complete gids
 type: docs
 url: /nl/java/conversion-events-logging/java-groupdocs-conversion-progress-listener/
 weight: 1
 ---
 
-# Hoe conversievoortgang bijhouden in Java met GroupDocs
+# Volg Conversievoortgang Java met GroupDocs
 
-Als je **wilt weten hoe je conversie kunt bijhouden** in je Java‑applicaties—vooral wanneer je **docx pdf java wilt converteren**—biedt GroupDocs.Conversion een schone, event‑gedreven aanpak. Door listeners toe te voegen kun je realtime‑feedback krijgen over elke fase van de conversiepijplijn, waardoor batch‑taken, UI‑voortgangsbalken en logging veel transparanter worden.
+Als u **track conversion progress java** in uw applicaties nodig heeft—vooral wanneer u **convert docx pdf java** wilt—biedt GroupDocs.Conversion een schone, event‑gedreven aanpak. Door listeners toe te voegen krijgt u realtime feedback over elke fase van de conversiepijplijn, waardoor batchtaken, UI‑voortgangsbalken en logging veel transparanter worden.
 
-## Snelle antwoorden
+## Snelle Antwoorden
 - **Wat doet de listener?** Het rapporteert start‑, voortgangs‑ (percentage) en voltooiings‑events.  
 - **Welke formaten kan ik monitoren?** Elk formaat dat door GroupDocs.Conversion wordt ondersteund, bijv. DOCX → PDF.  
 - **Heb ik een licentie nodig?** Een gratis proefversie werkt voor ontwikkeling; een betaalde licentie is vereist voor productie.  
-- **Is Maven vereist?** Maven vereenvoudigt afhankelijkheidsbeheer, maar je kunt ook Gradle of handmatige JAR‑bestanden gebruiken.  
+- **Is Maven vereist?** Is Maven vereist? Maven vereenvoudigt het beheer van afhankelijkheden, maar u kunt ook Gradle of handmatige JAR‑bestanden gebruiken.  
 - **Kan ik dit gebruiken in een webservice?** Ja—pak de conversie‑aanroep in een REST‑endpoint en stream de voortgang terug naar de client.
 
-## Wat betekent “how to track conversion” in GroupDocs?
-GroupDocs.Conversion biedt de `IConverterListener`‑interface. Het implementeren van deze interface laat je code reageren wanneer de conversie‑engine van status verandert, waardoor je kunt loggen, UI‑componenten kunt bijwerken of downstream‑processen kunt activeren.
+## Hoe Conversievoortgang Java met GroupDocs bij te houden?
+GroupDocs.Conversion biedt de `IConverterListener` interface. Het implementeren van deze interface laat uw code reageren telkens wanneer de conversie‑engine van status verandert, waardoor u kunt loggen, UI‑componenten kunt bijwerken of downstream‑processen kunt activeren.
 
 ## Waarom conversievoortgang bijhouden?
-- **User Experience:** Toon live percentages in UI‑dashboards of CLI‑tools.  
-- **Error Handling:** Detect blokkades vroegtijdig en probeer opnieuw of annuleer netjes.  
-- **Resource Planning:** Schat de verwerkingstijd voor grote batches en wijs resources dienovereenkomstig toe.
+- **Gebruikerservaring:** Toon live percentages in UI‑dashboards of CLI‑tools.  
+- **Foutafhandeling:** Detecteer blokkades vroegtijdig en probeer opnieuw of annuleer elegant.  
+- **Resourceplanning:** Schat de verwerkingstijd voor grote batches en wijs resources dienovereenkomstig toe.  
 
 ## Voorvereisten
 - **Java Development Kit (JDK 8+).**  
@@ -41,7 +40,7 @@ GroupDocs.Conversion biedt de `IConverterListener`‑interface. Het implementere
 
 ## GroupDocs.Conversion voor Java instellen
 ### GroupDocs.Conversion installeren via Maven
-Voeg de repository en afhankelijkheid toe aan je `pom.xml`:
+Voeg de repository en afhankelijkheid toe aan uw `pom.xml`:
 
 ```xml
 <repositories>
@@ -62,10 +61,10 @@ Voeg de repository en afhankelijkheid toe aan je `pom.xml`:
 ```
 
 ### Licentie‑acquisitie
-GroupDocs biedt een gratis proefversie, tijdelijke licenties voor evaluatie, en aankoopopties voor commercieel gebruik. Bezoek hun [purchase page](https://purchase.groupdocs.com/buy) om je licentie aan te schaffen.
+GroupDocs biedt een gratis proefversie, tijdelijke licenties voor evaluatie, en aankoopopties voor commercieel gebruik. Bezoek hun [purchase page](https://purchase.groupdocs.com/buy) om uw licentie aan te schaffen.
 
 ### Basisinitialisatie
-Zodra de bibliotheek op je classpath staat, kun je een `ConverterSettings`‑instance maken:
+Zodra de bibliotheek op uw classpath staat, kunt u een `ConverterSettings`‑instantie maken:
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -79,14 +78,14 @@ public class InitializeGroupDocs {
 }
 ```
 
-## Implementatie‑gids
+## Implementatiegids
 We lopen elke functie stap‑voor‑stap door, met context vóór elk code‑fragment.
 
-### Functie 1: Conversietoestand‑ en voortgangs‑listener
+### Functie 1: Conversietoestand‑ en Voortgangslistener
 #### Overzicht
-Deze listener vertelt je wanneer een conversie start, hoe ver deze is gevorderd, en wanneer deze eindigt.
+Deze listener vertelt u wanneer een conversie start, hoe ver deze is gevorderd, en wanneer deze eindigt.
 
-#### Implementatie van de listener
+#### Implementatie van de Listener
 Maak een klasse die `IConverterListener` implementeert:
 
 ```java
@@ -107,17 +106,17 @@ class ListenConversionStateAndProgress implements IConverterListener {
 }
 ```
 
-**Explanation**  
-- **started()** – wordt aangeroepen vlak voordat de engine begint met verwerken. Gebruik het om timers of UI‑elementen te resetten.  
-- **progress(byte current)** – ontvangt een waarde van 0 tot 100 die het voltooide percentage weergeeft. Perfect voor voortgangsbalken.  
-- **completed()** – wordt geactiveerd nadat het uitvoerbestand volledig is geschreven. Ruim hier resources op.
+**Uitleg**  
+- **started()** – wordt aangeroepen vlak voor de engine begint met verwerken. Gebruik het om timers of UI‑elementen te resetten.  
+- **progress(byte current)** – ontvangt een waarde van 0 tot 100 die het percentage voltooid aangeeft. Perfect voor voortgangsbalken.  
+- **completed()** – wordt geactiveerd nadat het output‑bestand volledig is geschreven. Ruim hier resources op.
 
-### Functie 2: Converter‑instellingen met listener
+### Functie 2: Converter‑instellingen met Listener
 #### Overzicht
-Koppel je listener aan de `ConverterSettings` zodat de engine weet waar de events naartoe moeten.
+Koppel uw listener aan de `ConverterSettings` zodat de engine weet waar events naartoe gestuurd moeten worden.
 
 #### Configuratiestappen
-1. **Maak een instantie van je listener**:
+1. **Maak een instantie van uw listener**:
 
    ```java
    IConverterListener listener = new ListenConversionStateAndProgress();
@@ -130,12 +129,12 @@ Koppel je listener aan de `ConverterSettings` zodat de engine weet waar de event
    settingsFactory.setListener(listener);
    ```
 
-### Functie 3: Documentconversie uitvoeren
+### Functie 3: Documentconversie Uitvoeren
 #### Overzicht
-Nu zie je de listener in actie tijdens het converteren van een DOCX‑bestand naar PDF.
+Nu ziet u de listener in actie tijdens het converteren van een DOCX‑bestand naar PDF.
 
 #### Implementatiestappen
-1. **Definieer input‑ en output‑paden** (vervang door je eigen mappen):
+1. **Definieer invoer‑ en uitvoer‑paden** (vervang door uw eigen mappen):
 
    ```java
    String inputDocPath = "YOUR_DOCUMENT_DIRECTORY/SAMPLE_DOCX";
@@ -151,49 +150,48 @@ Nu zie je de listener in actie tijdens het converteren van een DOCX‑bestand na
    }
    ```
 
-**Explanation**  
+**Uitleg**  
 - **Converter** – de kernklasse die de conversie orkestreert.  
-- **PdfConvertOptions** – geeft aan GroupDocs dat je een PDF‑output wilt. Je kunt dit vervangen door `PptxConvertOptions`, `HtmlConvertOptions`, enz., en dezelfde listener zal nog steeds voortgang rapporteren.
+- **PdfConvertOptions** – geeft aan GroupDocs dat u een PDF‑output wilt. U kunt dit vervangen door `PptxConvertOptions`, `HtmlConvertOptions`, enz., en dezelfde listener zal nog steeds voortgang rapporteren.  
 
 ## Hoe docx pdf java te converteren met GroupDocs
-De bovenstaande code toont al de **docx → pdf**‑flow. Als je andere doelformaten nodig hebt, vervang dan simpelweg `PdfConvertOptions` door de juiste options‑klasse (bijv. `HtmlConvertOptions` voor HTML). De listener blijft ongewijzigd, zodat je nog steeds realtime‑voortgang krijgt, ongeacht het outputtype.
+De bovenstaande code toont al de **docx → pdf**‑stroom. Als u andere doelformaten nodig heeft, vervang dan eenvoudig `PdfConvertOptions` door de juiste opties‑klasse (bijv. `HtmlConvertOptions` voor HTML). De listener blijft ongewijzigd, zodat u nog steeds realtime voortgang krijgt, ongeacht het outputtype. U kunt ook **java convert word pdf** door `PdfConvertOptions` te gebruiken met een `.docx`‑bron.
 
-## Praktische toepassingen
-1. **Automated Document Management Systems** – verwerk duizenden bestanden in batches terwijl je een live voortgangsdashboard toont.  
-2. **Enterprise Software Solutions** – integreer conversie in facturatie‑pipelines, archivering van juridische documenten, of het genereren van e‑learning‑content.  
-3. **Content Migration Tools** – monitor grootschalige migraties van legacy‑formaten naar moderne PDF’s, zodat je eventuele blokkades vroegtijdig oppikt.
+## Praktische Toepassingen
+1. **Automated Document Management Systems** – batch‑verwerk duizenden bestanden terwijl u een live voortgangsdashboard toont.  
+2. **Enterprise Software Solutions** – integreer conversie in factuur‑pijplijnen, archivering van juridische documenten, of generatie van e‑learning‑content.  
+3. **Content Migration Tools** – monitor grootschalige migraties van legacy‑formaten naar moderne PDF’s, zodat u eventuele blokkades vroegtijdig opmerkt.  
 
-## Prestatie‑overwegingen
+## Prestatieoverwegingen
 - **Memory Management:** Gebruik try‑with‑resources (zoals getoond) om te garanderen dat de `Converter` tijdig wordt gesloten.  
 - **Threading:** Voor enorme batches, voer conversies uit in parallelle threads, maar onthoud dat elke thread zijn eigen listener‑instantie nodig heeft om gemengde output te voorkomen.  
-- **Logging:** Houd de `System.out`‑calls van de listener lichtgewicht; voor productie, routeer ze naar een geschikt logging‑framework (SLF4J, Log4j).
+- **Logging:** Houd de `System.out`‑calls van de listener lichtgewicht; gebruik in productie een proper logging‑framework (SLF4J, Log4j).
 
-## Veelvoorkomende problemen en oplossingen
-
+## Veelvoorkomende Problemen en Oplossingen
 | Probleem | Oplossing |
 |----------|-----------|
-| **Geen voortgangsoutput** | Verify that `settingsFactory.setListener(listener);` is called before creating the `Converter`. |
-| **OutOfMemoryError bij grote bestanden** | Increase the JVM heap (`-Xmx2g` or higher) and consider processing files in smaller chunks if possible. |
-| **Listener niet geactiveerd bij fout** | Wrap `converter.convert` in a try‑catch block and call a custom `error(byte code)` method inside your listener implementation. |
+| **No progress output** | Verify that `settingsFactory.setListener(listener);` is called before creating the `Converter`. |
+| **OutOfMemoryError on large files** | Increase the JVM heap (`-Xmx2g` or higher) and consider processing files in smaller chunks if possible. |
+| **Listener not triggered on error** | Wrap `converter.convert` in a try‑catch block and call a custom `error(byte code)` method inside your listener implementation. |
 
-## Veelgestelde vragen
+## Veelgestelde Vragen
 
-**Q:** Kan ik de voortgang van conversie bijhouden voor andere formaten dan PDF?  
-**A:** Ja. Dezelfde `IConverterListener` werkt met elk doelformaat dat door GroupDocs.Conversion wordt ondersteund; vervang gewoon de options‑klasse.
+**Q:** Kan ik conversievoortgang bijhouden voor formaten anders dan PDF?  
+**A:** Ja. Dezelfde `IConverterListener` werkt met elk doelformaat dat door GroupDocs.Conversion wordt ondersteund; vervang gewoon de opties‑klasse.
 
-**Q:** Hoe verwerk ik grote documenten efficiënt?  
+**Q:** Hoe ga ik efficiënt om met grote documenten?  
 **A:** Gebruik Java’s streaming‑API’s, vergroot de JVM‑heap‑grootte, en monitor de voortgang van de listener om langdurige stappen te detecteren.
 
 **Q:** Wat gebeurt er als de conversie halverwege faalt?  
-**A:** Implementeer extra methoden in je listener (bijv. `error(byte code)`) en omring de `convert`‑aanroep met exception‑handling om fouten vast te leggen en te loggen.
+**A:** Implementeer extra methoden in uw listener (bijv. `error(byte code)`) en omring de `convert`‑aanroep met exception‑handling om fouten vast te leggen en te loggen.
 
-**Q:** Zijn er limieten voor bestandsgrootte of type?  
+**Q:** Zijn er limieten op bestandsgrootte of type?  
 **A:** De meeste gangbare formaten worden ondersteund, maar zeer grote bestanden kunnen meer geheugen vereisen. Raadpleeg de officiële [GroupDocs documentation](https://docs.groupdocs.com/conversion/java/) voor gedetailleerde limieten.
 
-**Q:** Hoe kan ik dit in een webapplicatie exposen?  
-**A:** Plaats de conversielogica in een REST‑endpoint (bijv. Spring Boot) en stream voortgangsupdates via Server‑Sent Events (SSE) of WebSocket, waarbij je de output van de listener naar de client stuurt.
+**Q:** Hoe kan ik dit blootstellen in een webapplicatie?  
+**A:** Pak de conversielogica in een REST‑endpoint (bijv. Spring Boot) en stream voortgangsupdates via Server‑Sent Events (SSE) of WebSocket, waarbij de output van de listener naar de client wordt gevoed.
 
-## Resources
+## Bronnen
 - **Documentatie:** [GroupDocs Conversion Documentation](https://docs.groupdocs.com/conversion/java/)
 - **API‑referentie:** [API Reference](https://reference.groupdocs.com/conversion/java/)
 - **Download:** [Download GroupDocs.Conversion](https://releases.groupdocs.com/conversion/java/)
@@ -204,6 +202,8 @@ De bovenstaande code toont al de **docx → pdf**‑flow. Als je andere doel
 
 ---
 
-**Laatst bijgewerkt:** 2025-12-19  
+**Laatst bijgewerkt:** 2026-03-24  
 **Getest met:** GroupDocs.Conversion 25.2  
-**Auteur:** GroupDocs
+**Auteur:** GroupDocs  
+
+---

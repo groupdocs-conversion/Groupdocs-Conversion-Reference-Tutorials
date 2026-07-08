@@ -1,47 +1,47 @@
 ---
-date: '2025-12-19'
-description: Tanulja meg, hogyan követheti a konverziót Java-ban, beleértve, hogyan
-  konvertálhat docx-et pdf-re Java-val a GroupDocs.Conversion segítségével. Implementáljon
-  robusztus hallgatókat a zökkenőmentes megfigyeléshez.
+date: '2026-03-24'
+description: Ismerje meg, hogyan követheti nyomon a konverzió előrehaladását Java-ban
+  a GroupDocs.Conversion segítségével, konvertáljon docx-et pdf-re Java-ban, és valós‑időben
+  figyelje a folyamatot hallgatók (listener) implementálásával.
 keywords:
 - track document conversion progress Java
 - GroupDocs.Conversion for Java
 - conversion state and progress listener
-title: 'Hogyan követhetjük nyomon a konverzió előrehaladását Java-ban a GroupDocs-szal -
-  Teljes útmutató'
+title: A konverzió előrehaladásának nyomon követése Java-ban a GroupDocs-szal – Teljes
+  útmutató
 type: docs
 url: /hu/java/conversion-events-logging/java-groupdocs-conversion-progress-listener/
 weight: 1
 ---
 
-# Hogyan követhetjük nyomon a konverzió előrehaladását Java-ban a GroupDocs-szal
+# Kövesse a konverzió előrehaladását Java-val a GroupDocs segítségével
 
-Ha szükséged van arra, hogy **tudd, hogyan követheted nyomon a konverziót** a Java alkalmazásaidban—különösen, ha **docx pdf java konvertálást** szeretnél— a GroupDocs.Conversion tiszta, esemény‑alapú megközelítést kínál. Figyelők (listener) csatolásával valós‑időben visszajelzést kaphatsz a konverziós folyamat minden szakaszáról, így a kötegelt feladatok, UI előrehaladási sávok és naplózás sokkal átláthatóbbá válnak.
+Ha **track conversion progress java**‑ra van szüksége alkalmazásaiban — különösen akkor, amikor **convert docx pdf java**‑t szeretne — a GroupDocs.Conversion tiszta, esemény‑vezérelt megközelítést kínál. Hallgatók (listener‑ek) csatolásával valós‑időben visszajelzést kaphat a konverziós folyamat minden szakaszáról, így a kötegelt feladatok, UI‑progress barok és naplózás sokkal átláthatóbbá válnak.
 
 ## Gyors válaszok
-- **Mi a listener feladata?** Jelentéseket küld a kezdésről, az előrehaladásról (százalék) és a befejezésről.  
-- **Milyen formátumokat figyelhetek?** Bármely, a GroupDocs.Conversion által támogatott formátum, pl. DOCX → PDF.  
-- **Szükségem van licencre?** A fejlesztéshez egy ingyenes próba verzió elegendő; a termeléshez fizetett licenc szükséges.  
-- **Kell-e Maven?** A Maven egyszerűsíti a függőségek kezelését, de használhatsz Gradlet vagy manuális JAR-okat is.  
-- **Használhatom webszolgáltatásban?** Igen—csomagold a konverzióhívást egy REST végpontra, és küldd vissza a haladást a kliensnek.
+- **Mit csinál a listener?** Jelentéseket küld a kezdésről, a haladásról (százalék) és a befejezésről.  
+- **Milyen formátumokat figyelhetek?** Bármely, a GroupDocs.Conversion által támogatott formátumot, például DOCX → PDF.  
+- **Szükség van licencre?** Egy ingyenes próba a fejlesztéshez elegendő; a termeléshez fizetett licenc szükséges.  
+- **Kell Maven?** A Maven egyszerűsíti a függőségkezelést, de használhat Gradle‑t vagy manuális JAR‑okat is.  
+- **Használható webszolgáltatásban?** Igen — csak csomagolja be a konverzióhívást egy REST‑endpointba, és streamelje a haladást vissza a kliensnek.
 
-## Mi a “konverzió nyomon követése” a GroupDocs-ban?
-A GroupDocs.Conversion biztosítja az `IConverterListener` interfészt. Ennek az interfésznek a megvalósítása lehetővé teszi, hogy a kódod reagáljon, amikor a konverziós motor állapota változik, így naplózhatsz, frissítheted a UI komponenseket, vagy elindíthatsz további folyamatokat.
+## Hogyan követhető a konverzió előrehaladása Java-val a GroupDocs‑szel?
+A GroupDocs.Conversion biztosítja az `IConverterListener` interfészt. Ennek az interfésznek a megvalósításával a kódja reagálhat, amikor a konverziós motor állapota változik, lehetővé téve naplózást, UI‑komponensek frissítését vagy downstream folyamatok indítását.
 
-## Miért érdemes nyomon követni a konverzió előrehaladását?
-- **Felhasználói élmény:** Mutass élő százalékos értékeket UI műszerfalakon vagy CLI eszközökben.  
-- **Hibakezelés:** Észleld időben a lefagyásokat, és próbáld újra vagy állítsd le elegánsan.  
-- **Erőforrás-tervezés:** Becsüld meg a feldolgozási időt nagy kötegekhez, és ennek megfelelően oszd el az erőforrásokat.
+## Miért érdemes követni a konverzió előrehaladását?
+- **Felhasználói élmény:** Élő százalékos értékek megjelenítése UI‑dashboardokon vagy CLI‑eszközökben.  
+- **Hibakezelés:** A lefagyások korai felismerése, újrapróbálás vagy elegáns megszakítás.  
+- **Erőforrás‑tervezés:** A nagy kötegek feldolgozási idejének becslése és a szükséges erőforrások megfelelő kiosztása.  
 
 ## Előfeltételek
-- **Java Development Kit (JDK 8+).**  
-- **Maven** (vagy bármely build eszköz, amely képes feloldani a Maven tárolókat).  
+- **Java Development Kit (JDK 8+).**  
+- **Maven** (vagy bármely build‑eszköz, amely képes Maven‑repozitóriákat feloldani).  
 - **GroupDocs.Conversion for Java** könyvtár.  
-- **Érvényes GroupDocs licenc** (az ingyenes próba verzió teszteléshez működik).
+- **Érvényes GroupDocs licenc** (az ingyenes próba teszteléshez elegendő).  
 
-## A GroupDocs.Conversion beállítása Java-hoz
-### A GroupDocs.Conversion telepítése Maven-en keresztül
-Add the repository and dependency to your `pom.xml`:
+## A GroupDocs.Conversion for Java beállítása
+### GroupDocs.Conversion telepítése Maven‑nel
+Adja hozzá a repository‑t és a függőséget a `pom.xml`‑hez:
 
 ```xml
 <repositories>
@@ -62,10 +62,10 @@ Add the repository and dependency to your `pom.xml`:
 ```
 
 ### Licenc beszerzése
-A GroupDocs ingyenes próba verziót, ideiglenes licenceket értékeléshez, és vásárlási lehetőségeket kínál kereskedelmi felhasználáshoz. Látogasd meg a [vásárlási oldalukat](https://purchase.groupdocs.com/buy) a licenc beszerzéséhez.
+A GroupDocs ingyenes próbát, ideiglenes licenceket értékeléshez és vásárlási lehetőségeket kínál kereskedelmi felhasználáshoz. Látogassa meg a [purchase page](https://purchase.groupdocs.com/buy) oldalt a licenc beszerzéséhez.
 
 ### Alapvető inicializálás
-Miután a könyvtár a classpath-odon van, létrehozhatsz egy `ConverterSettings` példányt:
+Miután a könyvtár a classpath‑on van, létrehozhat egy `ConverterSettings` példányt:
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -80,14 +80,14 @@ public class InitializeGroupDocs {
 ```
 
 ## Implementációs útmutató
-Lépésről‑lépésre végigvezetünk minden funkción, a kódrészlet előtt kontextust adva.
+Lépésről‑lépésre végigvezetjük a funkciókat, minden kódrészlet előtt kontextust adva.
 
-### 1. funkció: Konverzió állapot és előrehaladás listener
+### Funkció 1: Konverzió állapot‑ és haladás‑listener
 #### Áttekintés
-Ez a listener megmondja, mikor kezdődik a konverzió, mennyire haladt előre, és mikor fejeződik be.
+Ez a listener jelzi, mikor kezdődik a konverzió, mennyire haladt előre, és mikor fejeződik be.
 
-#### A listener implementálása
-Hozz létre egy osztályt, amely implementálja az `IConverterListener`-t:
+#### A listener megvalósítása
+Hozzon létre egy osztályt, amely implementálja az `IConverterListener`‑t:
 
 ```java
 import com.groupdocs.conversion.IConverterListener;
@@ -108,41 +108,41 @@ class ListenConversionStateAndProgress implements IConverterListener {
 ```
 
 **Magyarázat**  
-- **started()** – a motor feldolgozás megkezdése előtt hívódik. Használd az időzítők vagy UI elemek visszaállításához.  
-- **progress(byte current)** – 0‑tól 100‑ig terjedő értéket kap, amely a százalékos készültséget jelzi. Tökéletes előrehaladási sávokhoz.  
-- **completed()** – a kimeneti fájl teljes írása után aktiválódik. Itt tisztítsd meg az erőforrásokat.
+- **started()** – közvetlenül a motor feldolgozásának megkezdése előtt hívódik. Itt állíthatja vissza az időzítőket vagy UI‑elemeket.  
+- **progress(byte current)** – 0‑tól 100‑ig terjedő értéket kap, amely a befejezett százalékot jelenti. Tökéletes progress bar‑okhoz.  
+- **completed()** – a kimeneti fájl teljes írása után aktiválódik. Itt tisztíthatja fel az erőforrásokat.
 
-### 2. funkció: Converter Settings listenerrel
+### Funkció 2: Converter Settings listener‑rel
 #### Áttekintés
-Csatold a listeneredet a `ConverterSettings`-hez, hogy a motor tudja, hová küldje az eseményeket.
+Csatolja a listener‑t a `ConverterSettings`‑hez, hogy a motor tudja, hová küldje az eseményeket.
 
 #### Konfigurációs lépések
-1. **Hozz létre egy példányt a listeneredből**:
+1. **Hozzon létre egy példányt a saját listener‑éből**:
 
    ```java
    IConverterListener listener = new ListenConversionStateAndProgress();
    ```
 
-2. **Állítsd be a `ConverterSettings` objektumot**:
+2. **Állítsa be a `ConverterSettings` objektumot**:
 
    ```java
    ConverterSettings settingsFactory = new ConverterSettings();
    settingsFactory.setListener(listener);
    ```
 
-### 3. funkció: Dokumentum konvertálás végrehajtása
+### Funkció 3: Dokumentum konvertálása
 #### Áttekintés
-Most már láthatod a listener működését, miközben egy DOCX fájlt PDF‑re konvertálsz.
+Most láthatja a listener működését, miközben egy DOCX fájlt PDF‑re konvertál.
 
 #### Implementációs lépések
-1. **Határozd meg a bemeneti és kimeneti útvonalakat** (cseréld ki a saját könyvtáraidra):
+1. **Határozza meg a bemeneti és kimeneti útvonalakat** (cserélje le a saját könyvtáraira):
 
    ```java
    String inputDocPath = "YOUR_DOCUMENT_DIRECTORY/SAMPLE_DOCX";
    String outputPath = "YOUR_OUTPUT_DIRECTORY/converted.pdf";
    ```
 
-2. **Inicializáld a konvertert a listener‑támogatással beállított beállításokkal** és futtasd a konverziót:
+2. **Inicializálja a konvertálót a listener‑t aktiváló beállításokkal**, és indítsa el a konverziót:
 
    ```java
    try (Converter converter = new Converter(inputDocPath, settingsFactory)) {
@@ -153,58 +153,58 @@ Most már láthatod a listener működését, miközben egy DOCX fájlt PDF‑re
 
 **Magyarázat**  
 - **Converter** – a központi osztály, amely a konverziót irányítja.  
-- **PdfConvertOptions** – azt mondja a GroupDocs‑nek, hogy PDF kimenetet szeretnél. Lecserélheted például `PptxConvertOptions`, `HtmlConvertOptions`‑ra stb., és a listener továbbra is jelenteni fogja az előrehaladást.
+- **PdfConvertOptions** – azt jelzi a GroupDocs‑nek, hogy PDF‑kimenetet szeretne. Ezt kicserélheti `PptxConvertOptions`, `HtmlConvertOptions` stb.-re, és a listener továbbra is jelenteni fogja a haladást.  
 
-## Hogyan konvertáljunk docx pdf java-val a GroupDocs segítségével
-A fenti kód már bemutatja a **docx → pdf** folyamatot. Ha más célformátumra van szükséged, egyszerűen cseréld le a `PdfConvertOptions`-t a megfelelő opciós osztályra (pl. `HtmlConvertOptions` HTML‑hez). A listener változatlan marad, így továbbra is valós‑időben kapod az előrehaladást a kimeneti típus függetlenül.
+## Hogyan konvertáljunk docx pdf java‑val a GroupDocs‑szel
+A fenti kód már bemutatja a **docx → pdf** folyamatot. Ha más célformátumra van szüksége, egyszerűen cserélje a `PdfConvertOptions`‑t a megfelelő opció‑osztályra (például `HtmlConvertOptions` HTML‑hez). A listener változatlan marad, így a kimeneti típus függetlenül is valós‑időben kap haladás‑jelzést. **java convert word pdf**‑t is elvégezhet a `PdfConvertOptions`‑szel `.docx` forrással.
 
 ## Gyakorlati alkalmazások
-1. **Automatizált dokumentumkezelő rendszerek** – kötegelt feldolgozás több ezer fájlt, miközben élő előrehaladási műszerfalat mutatsz.  
-2. **Vállalati szoftvermegoldások** – integráld a konverziót számlafolyamatokba, jogi dokumentumok archiválásába vagy e‑learning tartalomgyártásba.  
-3. **Tartalom migrációs eszközök** – felügyeld a nagyszabású migrációkat régi formátumokból modern PDF‑ekbe, biztosítva, hogy időben észleld a leállásokat.
+1. **Automatizált dokumentumkezelő rendszerek** – kötegelt feldolgozás több ezer fájlon, miközben élő haladás‑dashboardot mutat.  
+2. **Vállalati szoftvermegoldások** – beágyazott konverzió számlázási folyamatokba, jogi dokumentumarchiválásba vagy e‑learning tartalomgenerálásba.  
+3. **Tartalom‑migrációs eszközök** – nagy‑léptékű migrációk figyelése régi formátumokból modern PDF‑ekre, hogy időben észlelje a leállásokat.  
 
-## Teljesítmény szempontok
-- **Memória kezelés:** Használj try‑with‑resources (ahogy a példában) a `Converter` gyors lezárásához.  
-- **Szálkezelés:** Nagy kötegek esetén futtass konverziókat párhuzamos szálakban, de ne feledd, hogy minden szálnak saját listener példányra van szüksége a kevert kimenet elkerülése érdekében.  
-- **Naplózás:** Tartsd a listener `System.out` hívásait könnyűsúlyúak; termelésben irányítsd őket megfelelő naplózási keretrendszerbe (SLF4J, Log4j).
+## Teljesítmény‑szempontok
+- **Memóriakezelés:** Használjon try‑with‑resources‑t (ahogy a példában látható), hogy a `Converter` gyorsan lezáruljon.  
+- **Szálkezelés:** Nagy kötegek esetén futtassa a konverziókat párhuzamos szálakon, de minden szálnak saját listener‑re van szüksége a kevert kimenet elkerülése érdekében.  
+- **Naplózás:** Tartsa a listener `System.out` hívásait könnyűnek; éles környezetben irányítsa őket megfelelő naplókeretrendszerbe (SLF4J, Log4j).  
 
 ## Gyakori problémák és megoldások
-| Probléma | Megoldás |
-|----------|----------|
-| **Nincs előrehaladási kimenet** | Ellenőrizd, hogy a `settingsFactory.setListener(listener);` hívás megtörtént-e a `Converter` létrehozása előtt. |
-| **OutOfMemoryError nagy fájlok esetén** | Növeld a JVM heap méretét (`-Xmx2g` vagy nagyobb) és ha lehetséges, dolgozd fel a fájlokat kisebb darabokban. |
-| **Listener nem aktiválódik hiba esetén** | Tedd a `converter.convert` hívást try‑catch blokkba, és hívd meg a saját `error(byte code)` metódusodat a listener implementációdban. |
+| Issue | Solution |
+|-------|----------|
+| **No progress output** | Ellenőrizze, hogy a `settingsFactory.setListener(listener);` hívás a `Converter` létrehozása előtt történt‑e. |
+| **OutOfMemoryError on large files** | Növelje a JVM heap‑et (`-Xmx2g` vagy nagyobb) és ha lehetséges, dolgozza fel a fájlokat kisebb darabokra. |
+| **Listener not triggered on error** | Tegye a `converter.convert` hívást try‑catch blokkba, és hívjon egy egyedi `error(byte code)` metódust a listener implementációjában. |
 
-## Gyakran ismételt kérdések
+## Gyakran feltett kérdések
 
-**Q:** Can I track conversion progress for formats other than PDF?  
-**A:** Yes. The same `IConverterListener` works with any target format supported by GroupDocs.Conversion; just swap the options class.  
+**Q:** Követhető a konverzió előrehaladása PDF‑tól eltérő formátumoknál is?  
+**A:** Igen. Az ugyanaz az `IConverterListener` minden, a GroupDocs.Conversion által támogatott célformátummal működik; csak cserélje ki az opció‑osztályt.
 
-**Q:** How do I handle large documents efficiently?  
-**A:** Use Java’s streaming APIs, increase the JVM heap size, and monitor the listener’s progress to detect long‑running steps.  
+**Q:** Hogyan kezeljem hatékonyan a nagy dokumentumokat?  
+**A:** Használja a Java streaming API‑kat, növelje a JVM heap‑et, és figyelje a listener haladását a hosszú lépések észleléséhez.
 
-**Q:** What happens if conversion fails halfway?  
-**A:** Implement additional methods in your listener (e.g., `error(byte code)`) and surround the `convert` call with exception handling to capture and log failures.  
+**Q:** Mi történik, ha a konverzió félúton hibára fut?  
+**A:** Implementáljon további metódusokat a listener‑ben (pl. `error(byte code)`) és vegye körül a `convert` hívást kivétel‑kezeléssel, hogy rögzítse és naplózza a hibákat.
 
-**Q:** Are there limits on file size or type?  
-**A:** Most common formats are supported, but very large files may require more memory. Refer to the official [GroupDocs documentation](https://docs.groupdocs.com/conversion/java/) for detailed limits.  
+**Q:** Van korlátozás a fájlméretre vagy típusra?  
+**A:** A legtöbb gyakori formátum támogatott, de nagyon nagy fájlok több memóriát igényelhetnek. Részletes korlátokért tekintse meg a hivatalos [GroupDocs documentation](https://docs.groupdocs.com/conversion/java/) oldalt.
 
-**Q:** How can I expose this in a web application?  
-**A:** Wrap the conversion logic in a REST endpoint (e.g., Spring Boot) and stream progress updates via Server‑Sent Events (SSE) or WebSocket, feeding the listener’s output to the client.  
+**Q:** Hogyan tehetem elérhetővé ezt egy webalkalmazásban?  
+**A:** Csomagolja a konverziós logikát egy REST‑endpointba (pl. Spring Boot) és streamelje a haladás‑frissítéseket Server‑Sent Events (SSE) vagy WebSocket segítségével, a listener kimenetét átadva a kliensnek.
 
-## Erőforrások
-- **Dokumentáció:** [GroupDocs Conversion Documentation](https://docs.groupdocs.com/conversion/java/)
-- **API referencia:** [API Reference](https://reference.groupdocs.com/conversion/java/)
-- **Letöltés:** [Download GroupDocs.Conversion](https://releases.groupdocs.com/conversion/java/)
-- **Vásárlás:** [Buy License](https://purchase.groupdocs.com/buy)
-- **Ingyenes próba:** [Try Free Trial](https://releases.groupdocs.com/conversion/java/)
-- **Ideiglenes licenc:** [Get Temporary License](https://purchase.groupdocs.com/temporary-license/)
-- **Támogatási fórum:** [GroupDocs Support](https://forum.groupdocs.com/c/conversion/10)
+## Források
+- **Documentation:** [GroupDocs Conversion Documentation](https://docs.groupdocs.com/conversion/java/)
+- **API Reference:** [API Reference](https://reference.groupdocs.com/conversion/java/)
+- **Download:** [Download GroupDocs.Conversion](https://releases.groupdocs.com/conversion/java/)
+- **Purchase:** [Buy License](https://purchase.groupdocs.com/buy)
+- **Free Trial:** [Try Free Trial](https://releases.groupdocs.com/conversion/java/)
+- **Temporary License:** [Get Temporary License](https://purchase.groupdocs.com/temporary-license/)
+- **Support Forum:** [GroupDocs Support](https://forum.groupdocs.com/c/conversion/10)
 
 ---
 
-**Utoljára frissítve:** 2025-12-19  
-**Tesztelve ezzel:** GroupDocs.Conversion 25.2  
-**Szerző:** GroupDocs  
+**Last Updated:** 2026-03-24  
+**Tested With:** GroupDocs.Conversion 25.2  
+**Author:** GroupDocs  
 
 ---

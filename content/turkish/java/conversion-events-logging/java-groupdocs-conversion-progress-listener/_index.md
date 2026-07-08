@@ -1,46 +1,46 @@
 ---
-date: '2025-12-19'
-description: Java'da dönüşümü nasıl izleyebileceğinizi öğrenin, GroupDocs.Conversion
-  kullanarak docx ve pdf'yi Java'da nasıl dönüştüreceğinizi dahil edin. Sorunsuz izleme
-  için sağlam dinleyiciler uygulayın.
+date: '2026-03-24'
+description: GroupDocs.Conversion kullanarak Java’da dönüşüm ilerlemesini nasıl izleyebileceğinizi
+  öğrenin, docx’i pdf’e Java ile dönüştürün ve gerçek zamanlı izleme için dinleyicileri
+  uygulayın.
 keywords:
 - track document conversion progress Java
 - GroupDocs.Conversion for Java
 - conversion state and progress listener
-title: 'Java''da GroupDocs ile Dönüşüm İlerlemesini Nasıl İzlersiniz - Tam Bir Rehber'
+title: GroupDocs ile Java’da Dönüşüm İlerlemesini İzleme – Tam Rehber
 type: docs
 url: /tr/java/conversion-events-logging/java-groupdocs-conversion-progress-listener/
 weight: 1
 ---
 
-# Java ile GroupDocs'ta Dönüşüm İlerlemesini Nasıl İzlersiniz
+# GroupDocs ile Java Dönüştürme İlerlemesini İzleme
 
-Uygulamalarınızda **dönüşümün nasıl izleneceğini** bilmeniz gerekiyorsa—özellikle **docx pdf java** dönüştürmek istediğinizde—GroupDocs.Conversion temiz, olay‑tabanlı bir yaklaşım sunar. Dinleyicileri ekleyerek dönüşüm hattının her aşamasında gerçek‑zamanlı geri bildirim alabilir, toplu işler, UI ilerleme çubukları ve günlük kaydı (logging) çok daha şeffaf hale gelir.
+Uygulamalarınızda **track conversion progress java**'ı izlemeniz gerektiğinde—özellikle **convert docx pdf java** yapmak istediğinizde—GroupDocs.Conversion temiz, olay‑tabanlı bir yaklaşım sunar. Dinleyicileri ekleyerek dönüşüm hattının her aşamasında gerçek zamanlı geri bildirim alabilir, toplu işler, UI ilerleme çubukları ve günlük kaydı daha şeffaf hâle getirebilirsiniz.
 
 ## Hızlı Yanıtlar
-- **Dinleyici ne işe yarar?** Başlangıç, ilerleme (yüzde) ve tamamlanma olaylarını raporlar.  
-- **Hangi formatları izleyebilirim?** GroupDocs.Conversion tarafından desteklenen herhangi bir format, ör. DOCX → PDF.  
-- **Lisans gerekli mi?** Geliştirme için ücretsiz deneme çalışır; üretim için ücretli lisans gerekir.  
-- **Maven gerekli mi?** Maven bağımlılık yönetimini kolaylaştırır, ancak Gradle ya da manuel JAR'lar da kullanılabilir.  
-- **Bunu bir web servisinde kullanabilir miyim?** Evet—dönüşüm çağrısını bir REST uç noktasına sarın ve ilerlemeyi istemciye geri akıtın.
+- **What does the listener do?** Başlangıç, ilerleme (yüzde) ve tamamlama olaylarını raporlar.  
+- **Which formats can I monitor?** GroupDocs.Conversion tarafından desteklenen herhangi bir format, ör. DOCX → PDF.  
+- **Do I need a license?** Geliştirme için ücretsiz deneme çalışır; üretim için ücretli lisans gereklidir.  
+- **Is Maven required?** Maven bağımlılık yönetimini basitleştirir, ancak Gradle veya manuel JAR'lar da kullanılabilir.  
+- **Can I use this in a web service?** Evet—dönüştürme çağrısını bir REST uç noktasına sarın ve ilerlemeyi istemciye akıtın.
 
-## GroupDocs'ta “dönüşümün nasıl izleneceği” nedir?
-GroupDocs.Conversion `IConverterListener` arayüzünü sağlar. Bu arayüzü uygulayarak dönüşüm motoru durum değiştiğinde kodunuzun tepki vermesini sağlayabilir, günlük kaydı yapabilir, UI bileşenlerini güncelleyebilir ya da sonraki süreçleri tetikleyebilirsiniz.
+## GroupDocs ile Java Dönüştürme İlerlemesini Nasıl İzlersiniz?
+GroupDocs.Conversion, `IConverterListener` arayüzünü sağlar. Bu arayüzü uygulamak, kodunuzun dönüşüm motoru durum değiştiğinde tepki vermesini sağlar; böylece günlük kaydı yapabilir, UI bileşenlerini güncelleyebilir veya sonraki süreçleri tetikleyebilirsiniz.
 
-## Dönüşüm ilerlemesi neden izlenir?
-- **Kullanıcı Deneyimi:** UI panolarında ya da CLI araçlarında canlı yüzde göstergeleri sunun.  
-- **Hata Yönetimi:** Duraklamaları erken tespit edin ve nazikçe yeniden deneyin ya da iptal edin.  
-- **Kaynak Planlaması:** Büyük toplular için işleme süresini tahmin edin ve kaynakları buna göre tahsis edin.  
+## Neden dönüşüm ilerlemesini izlemelisiniz?
+- **User Experience:** UI panolarında veya CLI araçlarında canlı yüzde değerlerini gösterin.  
+- **Error Handling:** Duraklamaları erken tespit edin ve nazikçe yeniden deneyin ya da iptal edin.  
+- **Resource Planning:** Büyük toplular için işleme süresini tahmin edin ve kaynakları buna göre tahsis edin.  
 
 ## Önkoşullar
 - **Java Development Kit (JDK 8+).**  
-- **Maven** (veya Maven depolarını çözebilen herhangi bir yapı aracı).  
+- **Maven** (Maven depolarını çözebilen herhangi bir yapı aracı).  
 - **GroupDocs.Conversion for Java** kütüphanesi.  
-- **Geçerli bir GroupDocs lisansı** (test için ücretsiz deneme yeterli).
+- **A valid GroupDocs license** (test için ücretsiz deneme çalışır).  
 
 ## GroupDocs.Conversion for Java Kurulumu
-### Maven ile GroupDocs.Conversion Yükleme
-`pom.xml` dosyanıza depo ve bağımlılığı ekleyin:
+### Maven ile GroupDocs.Conversion Kurulumu
+Depoyu ve bağımlılığı `pom.xml` dosyanıza ekleyin:
 
 ```xml
 <repositories>
@@ -60,11 +60,11 @@ GroupDocs.Conversion `IConverterListener` arayüzünü sağlar. Bu arayüzü uyg
 </dependencies>
 ```
 
-### Lisans Edinme
-GroupDocs ücretsiz deneme, değerlendirme için geçici lisanslar ve ticari kullanım için satın alma seçenekleri sunar. Lisansınızı edinmek için [satın alma sayfasını](https://purchase.groupdocs.com/buy) ziyaret edin.
+### Lisans Alımı
+GroupDocs ücretsiz deneme, değerlendirme için geçici lisanslar ve ticari kullanım için satın alma seçenekleri sunar. Lisansınızı edinmek için [purchase page](https://purchase.groupdocs.com/buy) adresini ziyaret edin.
 
 ### Temel Başlatma
-Kütüphane sınıf yolunuza (classpath) eklendikten sonra bir `ConverterSettings` örneği oluşturabilirsiniz:
+Kütüphane sınıf yolunuzda olduğunda, bir `ConverterSettings` örneği oluşturabilirsiniz:
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -79,11 +79,11 @@ public class InitializeGroupDocs {
 ```
 
 ## Uygulama Kılavuzu
-Her özelliği adım adım inceleyecek, kod parçacıklarından önce bağlam ekleyeceğiz.
+Her özelliği adım adım inceleyeceğiz, her kod parçacığından önce bağlam ekleyeceğiz.
 
 ### Özellik 1: Dönüşüm Durumu ve İlerleme Dinleyicisi
 #### Genel Bakış
-Bu dinleyici bir dönüşümün ne zaman başladığını, ne kadar ilerlediğini ve ne zaman bittiğini size bildirir.
+Bu dinleyici, bir dönüşümün ne zaman başladığını, ne kadar ilerlediğini ve ne zaman bittiğini size bildirir.
 
 #### Dinleyiciyi Uygulama
 `IConverterListener` arayüzünü uygulayan bir sınıf oluşturun:
@@ -107,13 +107,13 @@ class ListenConversionStateAndProgress implements IConverterListener {
 ```
 
 **Açıklama**  
-- **started()** – motor işlemeye başlamadan hemen önce çağrılır. Zamanlayıcıları ya da UI öğelerini sıfırlamak için kullanın.  
-- **progress(byte current)** – tamamlanma yüzdesini 0‑100 arasında bir değer olarak alır. İlerleme çubukları için idealdir.  
-- **completed()** – çıktı dosyası tamamen yazıldıktan sonra tetiklenir. Kaynakları burada temizleyin.
+- **started()** – engine işleme başlamadan hemen önce çağrılır. Zamanlayıcıları veya UI öğelerini sıfırlamak için kullanın.  
+- **progress(byte current)** – yüzdeyi temsil eden 0 ile 100 arasında bir değer alır. İlerleme çubukları için mükemmeldir.  
+- **completed()** – çıktı dosyası tamamen yazıldıktan sonra tetiklenir. Burada kaynakları temizleyin.
 
 ### Özellik 2: Dinleyicili Dönüştürücü Ayarları
 #### Genel Bakış
-Dinleyicinizi `ConverterSettings`e ekleyerek motorun olayları nereye göndereceğini belirtirsiniz.
+Dinleyicinizi `ConverterSettings`'e ekleyin, böylece motor olayları nereye göndereceğini bilir.
 
 #### Yapılandırma Adımları
 1. **Dinleyicinizin bir örneğini oluşturun**:
@@ -131,17 +131,17 @@ Dinleyicinizi `ConverterSettings`e ekleyerek motorun olayları nereye gönderece
 
 ### Özellik 3: Belge Dönüştürme İşlemi
 #### Genel Bakış
-Şimdi DOCX dosyasını PDF’ye dönüştürürken dinleyicinin nasıl çalıştığını göreceksiniz.
+Şimdi bir DOCX dosyasını PDF'ye dönüştürürken dinleyicinin nasıl çalıştığını göreceksiniz.
 
 #### Uygulama Adımları
-1. **Girdi ve çıktı yollarını tanımlayın** (kendi dizinlerinizi buraya koyun):
+1. **Girdi ve çıktı yollarını tanımlayın** (gerçek dizinlerinizle değiştirin):
 
    ```java
    String inputDocPath = "YOUR_DOCUMENT_DIRECTORY/SAMPLE_DOCX";
    String outputPath = "YOUR_OUTPUT_DIRECTORY/converted.pdf";
    ```
 
-2. **Dinleyicili ayarlarla dönüştürücüyü başlatın** ve dönüşümü çalıştırın:
+2. **Dinleyici‑etkin ayarlarla dönüştürücüyü başlatın** ve dönüşümü çalıştırın:
 
    ```java
    try (Converter converter = new Converter(inputDocPath, settingsFactory)) {
@@ -151,59 +151,57 @@ Dinleyicinizi `ConverterSettings`e ekleyerek motorun olayları nereye gönderece
    ```
 
 **Açıklama**  
-- **Converter** – dönüşümü yöneten çekirdek sınıf.  
-- **PdfConvertOptions** – GroupDocs’a PDF çıktısı istediğinizi söyler. Bunu `PptxConvertOptions`, `HtmlConvertOptions` vb. ile değiştirebilir ve aynı dinleyici hâlâ ilerlemeyi rapor eder.  
+- **Converter** – dönüşümü yöneten temel sınıf.  
+- **PdfConvertOptions** – GroupDocs'a PDF çıktısı istediğinizi söyler. Bunu `PptxConvertOptions`, `HtmlConvertOptions` vb. ile değiştirebilirsiniz; aynı dinleyici yine ilerlemeyi rapor eder.
 
 ## GroupDocs ile docx pdf java Nasıl Dönüştürülür
-Yukarıdaki kod zaten **docx → pdf** akışını gösteriyor. Başka hedef formatlara ihtiyacınız varsa sadece `PdfConvertOptions` yerine ilgili seçenek sınıfını (ör. HTML için `HtmlConvertOptions`) değiştirin. Dinleyici aynı kalır, böylece çıktı tipine bakılmaksızın gerçek‑zamanlı ilerleme alırsınız.
+Yukarıdaki kod zaten **docx → pdf** akışını gösteriyor. Başka hedef formatlara ihtiyacınız varsa, sadece `PdfConvertOptions`'ı uygun seçenek sınıfıyla (ör. HTML için `HtmlConvertOptions`) değiştirin. Dinleyici değişmez, böylece çıktı türünden bağımsız olarak gerçek zamanlı ilerleme alırsınız. Ayrıca `.docx` kaynağıyla `PdfConvertOptions` kullanarak **java convert word pdf** yapabilirsiniz.
 
 ## Pratik Uygulamalar
-1. **Otomatik Belge Yönetim Sistemleri** – binlerce dosyayı toplu işleyip canlı bir ilerleme panosu gösterin.  
-2. **Kurumsal Yazılım Çözümleri** – fatura hatlarını, yasal belge arşivlemeyi veya e‑öğrenme içerik üretimini dönüşümle bütünleştirin.  
-3. **İçerik Göç Araçları** – eski formatlardan modern PDF’lere büyük ölçekli göçleri izleyin, duraklamaları erken yakalayın.
+1. **Automated Document Management Systems** – binlerce dosyayı toplu işleyin ve canlı bir ilerleme panosu gösterin.  
+2. **Enterprise Software Solutions** – dönüşümü fatura iş akışlarına, yasal belge arşivlemeye veya e‑öğrenme içerik üretimine entegre edin.  
+3. **Content Migration Tools** – eski formatlardan modern PDF'lere büyük ölçekli geçişleri izleyin, böylece duraklamaları erken yakalarsınız.
 
 ## Performans Düşünceleri
-- **Bellek Yönetimi:** `Converter`ın hızlıca kapanmasını sağlamak için `try‑with‑resources` (gösterildiği gibi) kullanın.  
-- **İş Parçacığı (Threading):** Çok büyük toplular için dönüşümleri paralel iş parçacıklarında çalıştırın, ancak her iş parçacığının kendi dinleyici örneğine sahip olduğundan emin olun, aksi takdirde karışık çıktılar oluşur.  
-- **Günlük Kaydı (Logging):** Dinleyicinin `System.out` çağrılarını hafif tutun; üretimde bunları bir logging çerçevesine (SLF4J, Log4j) yönlendirin.
+- **Memory Management:** `Converter`'ın hızlıca kapatılmasını sağlamak için (gösterildiği gibi) try‑with‑resources kullanın.  
+- **Threading:** Büyük toplular için dönüşümleri paralel iş parçacıklarında çalıştırın, ancak karışık çıktı önlemek için her iş parçacığının kendi dinleyici örneğine ihtiyacı olduğunu unutmayın.  
+- **Logging:** Dinleyicinin `System.out` çağrılarını hafif tutun; üretimde bunları uygun bir günlük çerçevesine (SLF4J, Log4j) yönlendirin.
 
 ## Yaygın Sorunlar ve Çözümler
 | Sorun | Çözüm |
 |-------|----------|
-| **İlerleme çıktısı yok** | `settingsFactory.setListener(listener);` çağrısının `Converter` oluşturulmadan önce yapıldığını doğrulayın. |
-| **Büyük dosyalarda OutOfMemoryError** | JVM heap’ini artırın (`-Xmx2g` veya daha yüksek) ve mümkünse dosyaları daha küçük parçalar halinde işleyin. |
-| **Hata durumunda dinleyici tetiklenmiyor** | `converter.convert` çağrısını try‑catch bloğuna alın ve dinleyicinizde özel bir `error(byte code)` metodunu çağırın. |
+| **İlerleme çıktısı yok** | `Converter` oluşturulmadan önce `settingsFactory.setListener(listener);` çağrıldığından emin olun. |
+| **Büyük dosyalarda OutOfMemoryError** | JVM yığın boyutunu (`-Xmx2g` veya daha yüksek) artırın ve mümkünse dosyaları daha küçük parçalar halinde işlemeyi düşünün. |
+| **Hata durumunda dinleyici tetiklenmiyor** | `converter.convert` çağrısını try‑catch bloğuna alın ve dinleyici uygulamanız içinde özel bir `error(byte code)` metodunu çağırın. |
 
-## Sık Sorulan Sorular
+## Sıkça Sorulan Sorular
 
-**S:** PDF dışındaki formatlar için de dönüşüm ilerlemesi izlenebilir mi?  
-**C:** Evet. Aynı `IConverterListener` GroupDocs.Conversion tarafından desteklenen tüm hedef formatlarla çalışır; sadece seçenek sınıfını değiştirmeniz yeterlidir.
+**Q:** PDF dışındaki formatlar için dönüşüm ilerlemesini izleyebilir miyim?  
+**A:** Evet. Aynı `IConverterListener` GroupDocs.Conversion tarafından desteklenen herhangi bir hedef formatta çalışır; sadece seçenek sınıfını değiştirin.
 
-**S:** Büyük belgeleri verimli bir şekilde nasıl yönetirim?  
-**C:** Java’nın streaming API’lerini kullanın, JVM heap boyutunu artırın ve dinleyicinin ilerlemesini izleyerek uzun süren adımları tespit edin.
+**Q:** Büyük belgeleri verimli bir şekilde nasıl yönetebilirim?  
+**A:** Java’nın akış API'lerini kullanın, JVM yığın boyutunu artırın ve dinleyicinin ilerlemesini izleyerek uzun süren adımları tespit edin.
 
-**S:** Dönüşüm yarıda başarısız olursa ne olur?  
-**C:** Dinleyicinizde ek metodlar (ör. `error(byte code)`) tanımlayın ve `convert` çağrısını istisna yönetimiyle sararak hataları yakalayıp kaydedin.
+**Q:** Dönüşüm yarı yolda başarısız olursa ne olur?  
+**A:** Dinleyicinizde ek metodlar (ör. `error(byte code)`) uygulayın ve `convert` çağrısını istisna yönetimiyle çevreleyerek hataları yakalayıp kaydedin.
 
-**S:** Dosya boyutu veya türü üzerinde sınırlamalar var mı?  
-**C:** Çoğu yaygın format desteklenir, ancak çok büyük dosyalar daha fazla bellek gerektirebilir. Ayrıntılı sınırlamalar için resmi [GroupDocs belgelerine](https://docs.groupdocs.com/conversion/java/) bakın.
+**Q:** Dosya boyutu veya tipiyle ilgili sınırlamalar var mı?  
+**A:** Çoğu yaygın format desteklenir, ancak çok büyük dosyalar daha fazla bellek gerektirebilir. Ayrıntılı sınırlamalar için resmi [GroupDocs documentation](https://docs.groupdocs.com/conversion/java/) sayfasına bakın.
 
-**S:** Bunu bir web uygulamasında nasıl sunarım?  
-**C:** Dönüşüm mantığını bir REST uç noktasına (ör. Spring Boot) sarın ve Server‑Sent Events (SSE) ya da WebSocket üzerinden ilerleme güncellemelerini istemciye akıtın; dinleyicinin çıktısını bu kanala yönlendirin.
+**Q:** Bunu bir web uygulamasında nasıl sunabilirim?  
+**A:** Dönüştürme mantığını bir REST uç noktasına (ör. Spring Boot) sarın ve ilerleme güncellemelerini Server‑Sent Events (SSE) veya WebSocket üzerinden akıtın; dinleyicinin çıktısını istemciye gönderin.
 
 ## Kaynaklar
-- **Dokümantasyon:** [GroupDocs Conversion Documentation](https://docs.groupdocs.com/conversion/java/)
-- **API Referansı:** [API Reference](https://reference.groupdocs.com/conversion/java/)
-- **İndirme:** [Download GroupDocs.Conversion](https://releases.groupdocs.com/conversion/java/)
-- **Satın Alma:** [Buy License](https://purchase.groupdocs.com/buy)
-- **Ücretsiz Deneme:** [Try Free Trial](https://releases.groupdocs.com/conversion/java/)
-- **Geçici Lisans:** [Get Temporary License](https://purchase.groupdocs.com/temporary-license/)
-- **Destek Forumu:** [GroupDocs Support](https://forum.groupdocs.com/c/conversion/10)
+- **Documentation:** [GroupDocs Conversion Documentation](https://docs.groupdocs.com/conversion/java/)
+- **API Reference:** [API Reference](https://reference.groupdocs.com/conversion/java/)
+- **Download:** [Download GroupDocs.Conversion](https://releases.groupdocs.com/conversion/java/)
+- **Purchase:** [Buy License](https://purchase.groupdocs.com/buy)
+- **Free Trial:** [Try Free Trial](https://releases.groupdocs.com/conversion/java/)
+- **Temporary License:** [Get Temporary License](https://purchase.groupdocs.com/temporary-license/)
+- **Support Forum:** [GroupDocs Support](https://forum.groupdocs.com/c/conversion/10)
 
 ---
 
-**Son Güncelleme:** 2025-12-19  
-**Test Edilen Sürüm:** GroupDocs.Conversion 25.2  
-**Yazar:** GroupDocs  
-
----
+**Last Updated:** 2026-03-24  
+**Tested With:** GroupDocs.Conversion 25.2  
+**Author:** GroupDocs
