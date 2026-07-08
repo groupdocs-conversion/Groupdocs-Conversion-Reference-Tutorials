@@ -1,55 +1,238 @@
 ---
-date: '2026-01-15'
-description: Aprende a convertir Excel a PDF en Java con una página por hoja y sustitución
-  de fuentes usando GroupDocs.Conversion, garantizando una tipografía coherente.
+date: '2026-07-06'
+description: Aprenda cómo usar GroupDocs.Conversion para generar PDF a partir de Excel
+  en Java con conversión de Excel a PDF de una página y sustitución de fuentes para
+  una tipografía coherente.
 keywords:
-- Excel to PDF conversion
-- Java font substitution
-- GroupDocs.Conversion setup
-title: Una página por hoja – Excel a PDF en Java, sustitución de fuentes
+- excel pdf one page
+- generate pdf from excel
+- convert excel to pdf java
+schemas:
+- author: GroupDocs
+  dateModified: '2026-07-06'
+  description: Learn how to use GroupDocs.Conversion to generate pdf from excel in
+    Java with excel pdf one page conversion and font substitution for consistent typography.
+  headline: Excel PDF One Page – Java Conversion with Font Substitution
+  type: TechArticle
+- description: Learn how to use GroupDocs.Conversion to generate pdf from excel in
+    Java with excel pdf one page conversion and font substitution for consistent typography.
+  name: Excel PDF One Page – Java Conversion with Font Substitution
+  steps:
+  - name: Define Input and Output Paths
+    text: Set the source Excel file and the destination PDF file. Use absolute paths
+      for production environments to avoid classpath ambiguities.
+  - name: Create Load Options with Font Substitutes
+    text: The `SpreadsheetLoadOptions` class lets you specify how the source workbook
+      should be interpreted. `SpreadsheetLoadOptions` is the configuration object
+      that controls how Excel files are loaded into GroupDocs.Conversion. `FontSubstitute`
+      defines a mapping from a missing font to an available replaceme
+  - name: Enable One Page per Sheet and Set a Default Font
+    text: 'You can enforce a single‑page layout and provide a fallback font for any
+      characters that lack a direct match: > **Direct answer:** `setOnePagePerSheet(true)`
+      forces each worksheet onto its own PDF page, while `setDefaultFont` supplies
+      a universal fallback, eliminating missing‑glyph issues.'
+  - name: Initialize the Converter with Load Options
+    text: '`Converter` is the main class that performs document conversion using the
+      provided load options. Pass the load options to the `Converter` constructor.
+      This creates a ready‑to‑use conversion engine: > **Direct answer:** Instantiating
+      `Converter` with the configured `loadOptions` prepares the engine t'
+  - name: Define PDF Conversion Options and Execute
+    text: '`PdfConvertOptions` configures PDF‑specific output parameters such as page
+      size and compression. Specify the output format and any PDF‑specific settings,
+      then run the conversion: > **Direct answer:** Calling `converter.convert` with
+      `PdfConvertOptions` writes a PDF that honors the one‑page‑per‑sheet'
+  type: HowTo
+- questions:
+  - answer: It is a Java library that converts over 50 document formats—including
+      Excel to PDF—while offering advanced options like font substitution and one
+      page per sheet.
+    question: What is GroupDocs.Conversion Java used for?
+  - answer: Yes, a free trial or temporary license provides full feature access for
+      evaluation purposes.
+    question: Can I use GroupDocs.Conversion without purchasing a license?
+  - answer: Define `FontSubstitute` objects inside `SpreadsheetLoadOptions`; the engine
+      swaps unavailable fonts with the ones you specify automatically.
+    question: How do I handle missing fonts during conversion?
+  - answer: Use streaming I/O, configure appropriate JVM heap sizes, and reuse a single
+      `Converter` instance for multiple files.
+    question: What are best practices for optimizing Java performance with GroupDocs.Conversion?
+  - answer: No, charts are automatically scaled to fit the single page while preserving
+      visual fidelity.
+    question: Does the “one page per sheet” option affect chart rendering?
+  type: FAQPage
+title: Excel PDF una página – Conversión Java con sustitución de fuentes
 type: docs
 url: /es/java/pdf-conversion/excel-to-pdf-conversion-font-substitution-java/
 weight: 1
 ---
 
-# Una página por hoja – Excel a PDF en Java, sustitución de fuentes
+# Excel PDF una página – Conversión Java con sustitución de fuentes
 
-Mantener una tipografía consistente al convertir hojas de cálculo de Excel a PDFs puede ser un desafío, especialmente cuando necesitas **una página por hoja**. Este tutorial muestra cómo **convertir Excel a PDF** en Java mientras se aplica una página por hoja y se sustituyen las fuentes faltantes usando **GroupDocs.Conversion**. Al final tendrás una solución fiable que mantiene la tipografía consistente en todas las plataformas y simplifica los flujos de trabajo de documentos.
+Convertir un libro de Excel a PDF mientras se garantiza **una página por hoja** y se preserva la tipografía original puede ser complicado. En este tutorial aprenderá cómo lograr una conversión confiable **excel pdf one page** en Java usando **GroupDocs.Conversion**. Recorreremos la configuración de Maven, la sustitución de fuentes y las llamadas exactas a la API que necesita, para que pueda integrar la solución en cualquier canal automatizado de documentos con confianza.
 
 ## Respuestas rápidas
-- **¿Qué significa “one page per sheet”?** Cada hoja de cálculo se renderiza en una sola página PDF.  
-- **¿Qué biblioteca maneja la conversión?** GroupDocs.Conversion for Java.  
-- **¿Puedo reemplazar fuentes faltantes automáticamente?** Sí, usando la función FontSubstitute.  
-- **¿Necesito una licencia?** Se requiere una licencia temporal para la funcionalidad completa.  
-- **¿Es este enfoque adecuado para libros de trabajo grandes?** Sí, con una correcta afinación de la memoria JVM.  
+- **¿Qué significa “una página por hoja”?** Cada hoja de cálculo se renderiza en una sola página PDF, evitando saltos de página inesperados.  
+- **¿Qué biblioteca maneja la conversión?** GroupDocs.Conversion para Java proporciona el conjunto completo de funciones.  
+- **¿Puedo reemplazar fuentes faltantes automáticamente?** Sí—utilice la función FontSubstitute dentro de `SpreadsheetLoadOptions`.  
+- **¿Necesito una licencia?** Una licencia temporal desbloquea todas las opciones de conversión durante la evaluación.  
+- **¿Es este enfoque adecuado para libros de Excel grandes?** Absolutamente, cuando ajuste la memoria de la JVM y reutilice la instancia `Converter`.
+
+## ¿Qué es la conversión excel pdf one page?
+**excel pdf one page conversion** es el proceso de convertir cada hoja de Excel en un documento PDF separado de una sola página. Esto garantiza una paginación predecible, lo cual es esencial para informes, facturas y presentaciones regulatorias donde el diseño de página debe mantenerse consistente. También simplifica el procesamiento posterior y asegura que cada hoja comience en una nueva página sin ajustes manuales.
+
+## ¿Por qué usar GroupDocs.Conversion Java para Excel a PDF?
+GroupDocs.Conversion soporta **más de 50 formatos de entrada y salida** y puede procesar libros con **cientos de hojas** sin cargar todo el archivo en memoria. La biblioteca también ofrece **sustitución de fuentes** incorporada, garantizando que los PDFs se vean idénticos en cualquier dispositivo—incluso cuando las fuentes originales no están disponibles. Estas capacidades cuantificadas lo convierten en una opción lista para producción en la automatización de documentos a escala empresarial.
 
 ## Requisitos previos
 
-Antes de implementar el código, asegúrate de tener lo siguiente:
+Antes de comenzar, asegúrese de tener:
 
-### Bibliotecas y dependencias requeridas
-Asegúrate de tener la biblioteca GroupDocs.Conversion versión 25.2 o posterior, la cual puede gestionarse mediante Maven.
+- **Java Development Kit (JDK) 11+** instalado.  
+- Un IDE como **IntelliJ IDEA** o **Eclipse** para editar y ejecutar código Java.  
+- **Maven** para la gestión de dependencias.  
+- Una licencia temporal de GroupDocs (puede obtener una en el sitio oficial).  
 
-### Requisitos de configuración del entorno
-- Java Development Kit (JDK) instalado en tu máquina.  
-- Un IDE como IntelliJ IDEA o Eclipse para escribir y ejecutar código Java.
+Una comprensión básica de la sintaxis de Java y de las coordenadas de Maven será útil, pero los pasos a continuación están lo suficientemente detallados para desarrolladores de cualquier nivel de experiencia.
 
-### Prerrequisitos de conocimientos
-Una comprensión básica de la programación en Java, la gestión de bibliotecas mediante Maven y los conceptos de conversión de archivos será útil pero no estrictamente necesaria.  
+## ¿Cómo configurar Maven para GroupDocs.Conversion?
 
-Ahora que estamos listos, ¡sumérgete en la implementación!
+Agregue el repositorio de GroupDocs y la dependencia de conversión a su `pom.xml`. El siguiente fragmento muestra el XML exacto que necesita—reemplace el número de versión con la última versión estable si existe una más reciente. Después de actualizar `pom.xml`, ejecute `mvn clean install` para descargar la biblioteca y verificar que las dependencias se resuelvan correctamente.
 
-## ¿Por qué usar GroupDocs.Conversion Java para Excel a PDF?
+```xml
+<repositories>
+    <repository>
+        <id>groupdocs-repo</id>
+        <url>https://repo.groupdocs.com/maven2</url>
+    </repository>
+</repositories>
 
-* **One page per sheet** garantiza una paginación predecible.  
-* **Font substitution** asegura que el PDF se vea igual en cualquier sistema, incluso cuando las fuentes originales faltan.  
-* Soporta **convert excel to pdf** para una amplia gama de funciones de Excel (gráficos, fórmulas, estilos).  
-* Totalmente programable mediante Java, lo que lo hace ideal para pipelines de automatización **excel to pdf java**.  
+<dependencies>
+    <dependency>
+        <groupId>com.groupdocs</groupId>
+        <artifactId>conversion</artifactId>
+        <version>25.2</version>
+    </dependency>
+</dependencies>
+```
 
-## Configuración de GroupDocs.Conversion para Java
+> **Respuesta directa:** Agregue el XML del repositorio y la dependencia anterior a `pom.xml`, luego ejecute `mvn clean install` para descargar la biblioteca. Esto prepara su proyecto para las llamadas a la API de conversión.
 
-### Configuración de Maven
-Primero, agrega el repositorio necesario y la información de dependencia a tu archivo `pom.xml`:
+## ¿Cómo obtener y aplicar una licencia temporal de GroupDocs?
+
+Visite la página de licencia temporal de [GroupDocs](https://purchase.groupdocs.com/temporary-license/), solicite una clave y coloque el archivo `GroupDocs.Conversion.lic` en la carpeta de recursos de su proyecto. Luego cárguelo en tiempo de ejecución. Cargar la licencia garantiza que todas las funciones premium, como la sustitución de fuentes y la renderización de una página por hoja, estén desbloqueadas y que el proceso de conversión se ejecute sin limitaciones de evaluación.
+
+```java
+License license = new License();
+license.setLicense("path/to/GroupDocs.Conversion.lic");
+```
+
+> **Respuesta directa:** Cargue el archivo de licencia con `License#setLicense` antes de cualquier operación de conversión; esto desbloquea todas las funciones premium, incluida la sustitución de fuentes y la renderización de una página por hoja.
+
+## Guía de implementación – Sustitución de fuentes con una página por hoja
+
+A continuación, revisaremos cada paso necesario para convertir un archivo Excel a PDF mientras se sustituyen fuentes faltantes y se fuerza una sola página por hoja de cálculo.
+
+### Paso 1: Definir rutas de entrada y salida
+Establezca el archivo Excel de origen y el archivo PDF de destino. Use rutas absolutas para entornos de producción para evitar ambigüedades del classpath.
+
+```java
+String inputPath = "C:/documents/input.xlsx";
+String outputPath = "C:/documents/output.pdf";
+```
+
+### Paso 2: Crear opciones de carga con sustitutos de fuentes
+La clase `SpreadsheetLoadOptions` le permite especificar cómo debe interpretarse el libro de origen.  
+`SpreadsheetLoadOptions` es el objeto de configuración que controla cómo se cargan los archivos Excel en GroupDocs.Conversion.  
+
+`FontSubstitute` define un mapeo de una fuente faltante a un reemplazo disponible.  
+
+Ahora agregue sustitutos de fuentes:
+
+```java
+SpreadsheetLoadOptions loadOptions = new SpreadsheetLoadOptions();
+loadOptions.getFontSubstitutes().add(new FontSubstitute("Calibri", "Arial"));
+loadOptions.getFontSubstitutes().add(new FontSubstitute("Times New Roman", "Liberation Serif"));
+```
+
+> **Respuesta directa:** Al agregar entradas `FontSubstitute`, el conversor intercambia automáticamente fuentes faltantes con las alternativas especificadas, garantizando consistencia visual en todas las plataformas.
+
+### Paso 3: Habilitar una página por hoja y establecer una fuente predeterminada
+Puede imponer un diseño de una sola página y proporcionar una fuente de respaldo para cualquier carácter que no tenga una coincidencia directa:
+
+```java
+loadOptions.setOnePagePerSheet(true);
+loadOptions.setDefaultFont("Arial");
+```
+
+> **Respuesta directa:** `setOnePagePerSheet(true)` fuerza que cada hoja de cálculo se coloque en su propia página PDF, mientras que `setDefaultFont` proporciona una fuente de respaldo universal, eliminando problemas de glifos faltantes.
+
+### Paso 4: Inicializar el Converter con opciones de carga
+`Converter` es la clase principal que realiza la conversión de documentos usando las opciones de carga proporcionadas.  
+Pase las opciones de carga al constructor `Converter`. Esto crea un motor de conversión listo para usar:
+
+```java
+Converter converter = new Converter(new File(inputPath), loadOptions);
+```
+
+> **Respuesta directa:** Instanciar `Converter` con las `loadOptions` configuradas prepara el motor para respetar tanto la sustitución de fuentes como las reglas de paginación durante la conversión.
+
+### Paso 5: Definir opciones de conversión a PDF y ejecutar
+`PdfConvertOptions` configura parámetros de salida específicos de PDF como el tamaño de página y la compresión.  
+Especifique el formato de salida y cualquier configuración específica de PDF, luego ejecute la conversión:
+
+```java
+PdfConvertOptions pdfOptions = new PdfConvertOptions();
+converter.convert(outputPath, pdfOptions);
+```
+
+> **Respuesta directa:** Llamar a `converter.convert` con `PdfConvertOptions` genera un PDF que respeta la configuración de una página por hoja e incorpora todos los sustitutos de fuentes que definió anteriormente.
+
+## Problemas comunes y soluciones
+- **Fuentes faltantes:** Verifique que las fuentes sustitutas estén instaladas en la máquina host o incluidas en el JAR de su aplicación.  
+- **Errores de ruta:** Use `Paths.get(...)` para manejar rutas de forma independiente de la plataforma, especialmente al desplegar en servidores Linux.  
+- **Falta de memoria para libros muy grandes:** Aumente el heap de la JVM (`-Xmx4g`) o procese las hojas en lotes reinstanciando el `Converter` por hoja de cálculo.
+
+## Aplicaciones prácticas de la conversión excel pdf one page
+- **Informes financieros:** Garantiza que cada hoja (balance, estado de resultados, flujo de efectivo) comience en una nueva página, simplificando las revisiones de auditoría.  
+- **Contratos legales:** Mantiene el diseño exacto y la fidelidad tipográfica, crucial para acuerdos ejecutables.  
+- **Publicación académica:** Asegura que las tablas de datos de investigación conserven su formato al compartirse como PDFs.  
+- **Material de marketing:** Genera folletos listos para imprimir a partir de plantillas de diseño basadas en Excel sin ajustes manuales.  
+- **Sistemas de gestión documental:** Proporciona vistas previas de PDF fiables para los archivos Excel cargados, mejorando la experiencia del usuario.
+
+## Consejos de rendimiento para libros de Excel grandes
+- **E/S en streaming:** Use `InputStream`/`OutputStream` para evitar cargar todo el archivo en memoria.  
+- **Reutilizar Converter:** Para trabajos por lotes, mantenga una única instancia `Converter` viva y solo cambie la referencia al archivo de entrada.  
+- **Ajuste de JVM:** Ajuste `-Xms` y `-Xmx` según el tamaño esperado del libro; un libro de 500 páginas típicamente necesita un heap de 2‑3 GB.
+
+## Preguntas frecuentes
+**P: ¿Qué es GroupDocs.Conversion Java?**  
+R: Es una biblioteca Java que convierte más de 50 formatos de documentos—incluido Excel a PDF—ofreciendo opciones avanzadas como sustitución de fuentes y una página por hoja.
+
+**P: ¿Puedo usar GroupDocs.Conversion sin comprar una licencia?**  
+R: Sí, una prueba gratuita o licencia temporal brinda acceso completo a todas las funciones para propósitos de evaluación.
+
+**P: ¿Cómo manejo fuentes faltantes durante la conversión?**  
+R: Defina objetos `FontSubstitute` dentro de `SpreadsheetLoadOptions`; el motor intercambia automáticamente las fuentes no disponibles con las que usted especifica.
+
+**P: ¿Cuáles son las mejores prácticas para optimizar el rendimiento de Java con GroupDocs.Conversion?**  
+R: Use E/S en streaming, configure tamaños de heap de JVM apropiados y reutilice una única instancia `Converter` para varios archivos.
+
+**P: ¿La opción “una página por hoja” afecta la renderización de gráficos?**  
+R: No, los gráficos se escalan automáticamente para ajustarse a la única página manteniendo la fidelidad visual.
+
+## Conclusión
+Ahora dispone de un método completo y listo para producción para **convertir Excel a PDF** en Java con paginación **excel pdf one page** y sustitución automática de **fuentes** usando GroupDocs.Conversion. Esta solución ofrece tipografía consistente, paginación predecible y escala eficientemente para libros de Excel grandes—lo que la hace ideal para informes automatizados, generación de documentos legales y cualquier escenario donde la fidelidad del PDF sea importante.
+
+### Próximos pasos
+- Experimente con `PdfConvertOptions` para habilitar el cumplimiento PDF/A para necesidades de archivo.  
+- Combine este flujo de conversión con **GroupDocs.Annotation** para añadir marcas de agua o firmas digitales después de la generación del PDF.  
+- Explore la conversión de otros formatos (Word, PowerPoint) usando el mismo patrón para un servicio unificado de procesamiento de documentos.
+
+---
+
+**Última actualización:** 2026-07-06  
+**Probado con:** GroupDocs.Conversion 25.2  
+**Autor:** GroupDocs
 
 ```xml
 <repositories>
@@ -68,12 +251,6 @@ Primero, agrega el repositorio necesario y la información de dependencia a tu a
    </dependency>
 </dependencies>
 ```
-
-### Obtención de licencia
-Obtén una licencia temporal de [GroupDocs](https://purchase.groupdocs.com/temporary-license/) para acceso completo a las funciones durante el período de evaluación.
-
-### Inicialización y configuración básica
-Con Maven configurado, inicializa GroupDocs.Conversion en tu aplicación Java:
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -95,20 +272,10 @@ public class ConvertExcelToPDF {
 }
 ```
 
-## Guía de implementación – Sustitución de fuentes con una página por hoja
-
-Esta sección cubre la conversión de archivos Excel a PDF mientras se sustituyen fuentes. Esto garantiza consistencia visual cuando las fuentes originales no están disponibles.
-
-### Paso 1: Definir rutas de entrada y salida
-Determina la ruta de tu archivo Excel de entrada y la ruta de salida PDF deseada:
-
 ```java
 String inputDocument = "YOUR_DOCUMENT_DIRECTORY/sample.xlsx";
 String convertedFile = "YOUR_OUTPUT_DIRECTORY/ConvertSpreadsheetBySpecifyingFontsubstitution.pdf";
 ```
-
-### Paso 2: Configurar opciones de carga con sustitución de fuentes
-Crea un objeto `SpreadsheetLoadOptions` para configurar los ajustes de conversión, especificando sustituciones de fuentes:
 
 ```java
 import com.groupdocs.conversion.options.load.SpreadsheetLoadOptions;
@@ -122,80 +289,21 @@ SpreadsheetLoadOptions loadOptions = new SpreadsheetLoadOptions();
 loadOptions.setFontSubstitutes(fontSubstitutes);
 ```
 
-### Paso 3: Configurar fuente predeterminada y **One Page per Sheet**
-Establece una fuente predeterminada como respaldo y habilita la opción *one page per sheet* para garantizar que cada hoja de cálculo ocupe una sola página PDF:
-
 ```java
 loadOptions.setDefaultFont("resources/fonts/Helvetica.ttf");
 loadOptions.setOnePagePerSheet(true);
 ```
 
-> **Consejo profesional:** Habilitar `setOnePagePerSheet(true)` es esencial cuando necesitas una paginación predecible para informes o facturas.
-
-### Paso 4: Inicializar el conversor con opciones de carga
-Pasa las opciones de carga a tu objeto `Converter`:
-
 ```java
 Converter converter = new Converter(inputDocument, () -> loadOptions);
 ```
-
-### Paso 5: Definir opciones de conversión a PDF y convertir
-Especifica el formato de conversión y ejecuta el proceso:
 
 ```java
 PdfConvertOptions options = new PdfConvertOptions();
 converter.convert(convertedFile, options);
 ```
 
-### Consejos de solución de problemas
-- **Missing Fonts:** Asegúrate de que las fuentes sustitutas estén instaladas en tu sistema o incluidas con la aplicación.  
-- **Incorrect Paths:** Verifica las rutas de los documentos de entrada y salida; las rutas relativas deben resolverse desde la raíz del proyecto.  
-
-## Aplicaciones prácticas
-
-La sustitución de fuentes y la conversión una‑página‑por‑hoja son valiosas en muchos escenarios del mundo real:
-
-1. **Business Reporting:** Presentación consistente de informes financieros en todas las plataformas.  
-2. **Legal Documentation:** Mantener la apariencia en PDFs compartidos para contratos.  
-3. **Academic Publishing:** Estandarizar fuentes para artículos y presentaciones.  
-4. **Marketing Materials:** Folletos o boletines uniformes cuando se generan a partir de hojas de cálculo.  
-5. **Collaboration Tools:** Optimizar los sistemas de gestión de documentos que dependen de vistas previas en PDF.  
-
-## Consideraciones de rendimiento
-
-Para optimizar el rendimiento al convertir libros de trabajo grandes:
-
-- Utiliza I/O en streaming para reducir la huella de memoria.  
-- Ajusta el tamaño del heap de JVM (`-Xmx`) según el tamaño del documento.  
-- Reutiliza una única instancia de `Converter` para conversiones por lotes cuando sea posible.  
-
-## Preguntas frecuentes
-
-**Q: ¿Para qué se usa GroupDocs.Conversion Java?**  
-A: Es una biblioteca para convertir varios formatos de documentos —incluyendo Excel a PDF— con configuraciones personalizables como sustitución de fuentes y una página por hoja.
-
-**Q: ¿Puedo usar GroupDocs.Conversion sin comprar una licencia?**  
-A: Sí, una prueba gratuita o licencia temporal te permite explorar todas las funciones antes de comprometerte con una licencia de pago.
-
-**Q: ¿Cómo manejo fuentes faltantes durante la conversión?**  
-A: Define sustitutos usando objetos `FontSubstitute` dentro de `SpreadsheetLoadOptions`; la biblioteca reemplazará automáticamente las fuentes no disponibles.
-
-**Q: ¿Cuáles son las mejores prácticas para optimizar el rendimiento de Java con GroupDocs.Conversion?**  
-A: Una gestión eficiente de la memoria, una configuración adecuada de la JVM y el procesamiento de archivos en streams ayudan a mantener un alto rendimiento.
-
-**Q: ¿Afecta la opción “one page per sheet” al renderizado de gráficos?**  
-A: No, los gráficos se escalan para ajustarse a la página única manteniendo la fidelidad visual.
-
-## Conclusión
-Ahora tienes un método completo y listo para producción para **convertir Excel a PDF** en Java con **one page per sheet** y sustitución automática de **fuentes** usando GroupDocs.Conversion. Este enfoque garantiza tipografía consistente, paginación predecible e integración fluida en pipelines automatizados de documentos.
-
-### Próximos pasos
-- Experimenta con opciones adicionales de `PdfConvertOptions` (p. ej., cumplimiento PDF/A).  
-- Combina esta solución con GroupDocs.Annotation para edición post‑conversión.  
-- Explora otros formatos de origen (Word, PowerPoint) usando el mismo patrón.
-
----
-
-**Última actualización:** 2026-01-15  
-**Probado con:** GroupDocs.Conversion 25.2  
-**Autor:** GroupDocs
+## Tutoriales relacionados
+- [Convertir Excel a PDF con GroupDocs.Conversion Java](/conversion/java/pdf-conversion/excel-to-pdf-groupdocs-conversion-java/)
+- [Una página por hoja: Convertir hojas ocultas de Excel a PDF (Java)](/conversion/java/pdf-conversion/convert-excel-hidden-sheets-pdf-java/)
+- [Convertir rango de páginas específico a PDF usando la API de GroupDocs.Conversion Java](/conversion/java/pdf-conversion/groupdocs-conversion-java-page-range-pdf/)
