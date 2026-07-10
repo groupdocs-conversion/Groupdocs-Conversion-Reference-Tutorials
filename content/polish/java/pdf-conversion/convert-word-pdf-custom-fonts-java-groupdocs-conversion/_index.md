@@ -1,19 +1,21 @@
 ---
-title: "GroupDocs Conversion Java: Convert Word to PDF with Custom Fonts"
-description: "Learn how to convert docx to pdf with custom fonts using groupdocs conversion java. Follow this step‑by‑step guide to ensure consistent typography across platforms."
-date: "2026-01-13"
-weight: 1
-url: "/java/pdf-conversion/convert-word-pdf-custom-fonts-java-groupdocs-conversion/"
+date: '2026-01-13'
+description: Dowiedz się, jak konwertować pliki docx na pdf z użyciem własnych czcionek
+  przy pomocy GroupDocs Conversion Java. Postępuj zgodnie z tym przewodnikiem krok
+  po kroku, aby zapewnić spójną typografię na różnych platformach.
 keywords:
 - Convert Word to PDF Java
 - Custom Fonts in PDF
 - Java Document Conversion
+title: 'GroupDocs Conversion Java: Konwertuj Word do PDF z niestandardowymi czcionkami'
 type: docs
+url: /pl/java/pdf-conversion/convert-word-pdf-custom-fonts-java-groupdocs-conversion/
+weight: 1
 ---
 
-# GroupDocs Conversion Java: Convert Word to PDF with Custom Fonts
+# GroupDocs Conversion Java: Konwersja Word do PDF z własnymi czcionkami
 
-In this comprehensive tutorial you’ll discover how **groupdocs conversion java** lets you **convert docx to pdf** while preserving custom font styles. Whether you’re building a legal‑document pipeline or publishing e‑books, the steps below ensure the resulting PDF looks exactly like the original Word file.
+W tym obszernej tutorialu dowiesz się, jak **groupdocs conversion java** umożliwia **convert docx to pdf** przy zachowaniu własnych stylów czcionek. Niezależnie od tego, czy tworzysz potok dokumentów prawnych, czy publikujesz e‑booki, poniższe kroki zapewnią, że wygenerowany PDF będzie wyglądał dokładnie tak jak oryginalny plik Word.
 
 ## Quick Answers
 - **What library handles the conversion?** GroupDocs Conversion for Java.  
@@ -23,18 +25,18 @@ In this comprehensive tutorial you’ll discover how **groupdocs conversion java
 - **Is batch conversion possible?** Absolutely – wrap the converter in a loop or use the API’s batch features.
 
 ## What is GroupDocs Conversion Java?
-GroupDocs Conversion Java is a high‑performance API that transforms a wide range of document formats (including DOCX, PPTX, XLSX, and PDF) without needing Microsoft Office installed. It gives developers fine‑grained control over rendering, layout, and font handling.
+GroupDocs Conversion Java jest wysokowydajnym API, które przetwarza szeroką gamę formatów dokumentów (w tym DOCX, PPTX, XLSX i PDF) bez konieczności instalacji Microsoft Office. Daje programistom precyzyjną kontrolę nad renderowaniem, układem i obsługą czcionek.
 
 ## Why use custom fonts during conversion?
-Embedding the right fonts guarantees that the PDF appears identical on every device, eliminates “font fallback” issues, and complies with branding guidelines. This is especially important for **convert word pdf java** scenarios such as legal archives, corporate reports, and educational materials.
+Osadzenie odpowiednich czcionek zapewnia, że PDF będzie identyczny na każdym urządzeniu, eliminuje problemy z „fallbackiem” czcionek i spełnia wytyczne dotyczące marki. Jest to szczególnie ważne w scenariuszach **convert word pdf java**, takich jak archiwa prawne, raporty korporacyjne i materiały edukacyjne.
 
 ## Prerequisites
-- **Java Development Kit (JDK)** – version 8 or newer.  
-- **Maven** for dependency management.  
-- An IDE (IntelliJ IDEA, Eclipse, or VS Code).  
+- **Java Development Kit (JDK)** – wersja 8 lub nowsza.  
+- **Maven** do zarządzania zależnościami.  
+- IDE (IntelliJ IDEA, Eclipse lub VS Code).  
 
 ## Setting Up GroupDocs.Conversion for Java
-To start, add the GroupDocs repository and the conversion dependency to your Maven project.
+Aby rozpocząć, dodaj repozytorium GroupDocs oraz zależność konwersji do swojego projektu Maven.
 
 ```xml
 <repositories>
@@ -55,10 +57,10 @@ To start, add the GroupDocs repository and the conversion dependency to your Mav
 ```
 
 ### License Acquisition
-You can start with a **free trial** or obtain a **temporary license** for extended testing. For commercial use, consider purchasing a full license. Visit [GroupDocs Licensing](https://purchase.groupdocs.com/buy) to explore your options.
+Możesz rozpocząć od **free trial** lub uzyskać **temporary license** na rozszerzone testy. Do użytku komercyjnego wymagana jest pełna licencja. Odwiedź [GroupDocs Licensing](https://purchase.groupdocs.com/buy), aby poznać dostępne opcje.
 
 ### Basic Initialization and Setup
-After adding the dependency, create a `Converter` instance that points to your source DOCX file.
+Po dodaniu zależności utwórz instancję `Converter`, która wskaże na Twój plik DOCX źródłowy.
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -68,10 +70,10 @@ Converter converter = new Converter("YOUR_DOCUMENT_DIRECTORY/SampleDocx.docx");
 ```
 
 ## Implementation Guide
-Below is a step‑by‑step walkthrough that shows how to **set default font pdf** and define custom font substitutions.
+Poniżej znajdziesz krok‑po‑kroku przewodnik, który pokazuje, jak **set default font pdf** oraz zdefiniować własne zamienniki czcionek.
 
 ### Step 1: Define Conversion Path and Load Options
-First, specify where the PDF will be saved and configure load options that control font handling.
+Najpierw określ, gdzie zostanie zapisany PDF i skonfiguruj opcje ładowania kontrolujące obsługę czcionek.
 
 ```java
 import com.groupdocs.conversion.options.load.WordProcessingLoadOptions;
@@ -94,12 +96,12 @@ setFontSubstitutes(fontSubstitutes);
 ```
 
 #### Explanation
-- `setAutoFontSubstitution(false)`: Turns off the library’s automatic guesswork, giving you full control.  
-- `setDefaultFont("Helvetica.ttf")`: Provides a universal fallback when a requested font isn’t found.  
-- `setFontSubstitutes(...)`: Maps missing fonts to alternatives you know are available on the target system.
+- `setAutoFontSubstitution(false)`: Wyłącza automatyczne zgadywanie biblioteki, dając pełną kontrolę.  
+- `setDefaultFont("Helvetica.ttf")`: Zapewnia uniwersalny fallback, gdy żądana czcionka nie zostanie znaleziona.  
+- `setFontSubstitutes(...)`: Mapuje brakujące czcionki na alternatywy, które są dostępne w docelowym systemie.
 
 ### Step 2: Configure PDF Conversion Options
-Now create the PDF‑specific options object.
+Teraz utwórz obiekt opcji specyficznych dla PDF.
 
 ```java
 import com.groupdocs.conversion.options.convert.PdfConvertOptions;
@@ -108,28 +110,28 @@ import com.groupdocs.conversion.options.convert.PdfConvertOptions;
 double options = new PdfConvertOptions();
 ```
 
-You can extend `PdfConvertOptions` later to tweak page size, margins, or compression settings.
+Możesz później rozszerzyć `PdfConvertOptions`, aby dostosować rozmiar strony, marginesy lub ustawienia kompresji.
 
 ### Step 3: Perform the Conversion
-Finally, run the conversion with the previously defined load and convert options.
+Na koniec uruchom konwersję z wcześniej zdefiniowanymi opcjami ładowania i konwersji.
 
 ```java
 // Convert Word document to PDF with specified font settings
 converter.convert(convertedFile, () -> loadOptions, options);
 ```
 
-The API reads the DOCX, applies your font rules, and writes a PDF that embeds the chosen fonts.
+API odczytuje DOCX, stosuje reguły czcionek i zapisuje PDF, który osadza wybrane czcionki.
 
 ## Practical Applications
-1. **Legal Document Management** – Preserve exact typography for court‑ready PDFs.  
-2. **Publishing Industry** – Keep branding fonts consistent across e‑books and catalogs.  
-3. **Corporate Reports** – Ensure stakeholder‑facing PDFs match corporate style guides.  
-4. **Educational Material** – Convert lecture notes while retaining custom academic fonts.
+1. **Legal Document Management** – Zachowaj dokładną typografię w PDF‑ach gotowych do sądu.  
+2. **Publishing Industry** – Utrzymaj spójność czcionek marki w e‑bookach i katalogach.  
+3. **Corporate Reports** – Zapewnij, że PDF‑y skierowane do interesariuszy odpowiadają wytycznym stylu korporacyjnego.  
+4. **Educational Material** – Konwertuj notatki wykładowe, zachowując własne czcionki akademickie.
 
 ## Performance Considerations
-- **Memory Management** – Large DOCX files can consume significant heap; monitor JVM memory and consider `-Xmx` adjustments.  
-- **Batch Processing** – Wrap the conversion logic in a loop or use GroupDocs’ batch API to handle multiple files efficiently.  
-- **Resource Allocation** – Allocate sufficient CPU cores when converting many documents in parallel.
+- **Memory Management** – Duże pliki DOCX mogą zużywać znaczną część pamięci heap; monitoruj pamięć JVM i rozważ dostosowanie `-Xmx`.  
+- **Batch Processing** – Umieść logikę konwersji w pętli lub użyj batch API GroupDocs, aby efektywnie obsługiwać wiele plików.  
+- **Resource Allocation** – Przydziel wystarczającą liczbę rdzeni CPU przy równoległej konwersji wielu dokumentów.
 
 ## Common Issues and Solutions
 | Issue | Solution |
@@ -177,5 +179,3 @@ You now have a complete, production‑ready solution for **convert docx to pdf**
 - **Free Trial:** [Trial Downloads](https://releases.groupdocs.com/conversion/java/)  
 - **Temporary License:** [Request Temporary License](https://purchase.groupdocs.com/temporary-license/)  
 - **Support:** [GroupDocs Support Forum](https://forum.groupdocs.com/c/conversion/10)
-
----
