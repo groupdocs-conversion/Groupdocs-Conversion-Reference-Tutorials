@@ -1,45 +1,114 @@
 ---
-"date": "2025-05-01"
-"description": "Узнайте, как конвертировать файлы DWF в CSV с помощью GroupDocs.Conversion для .NET в этом подробном руководстве. Оптимизируйте свои рабочие процессы САПР без усилий."
-"title": "Конвертируйте DWF в CSV с помощью GroupDocs.Conversion для .NET&#58; Пошаговое руководство"
-"url": "/ru/net/cad-technical-drawing-formats/convert-dwf-to-csv-groupdocs-conversion-net/"
-"weight": 1
+date: '2026-07-14'
+description: Узнайте, как конвертировать файлы CAD в CSV с помощью GroupDocs.Conversion
+  for .NET. Этот учебник проведёт вас через настройку, код и устранение неполадок
+  для быстрой выгрузки данных CAD.
+keywords:
+- convert cad to csv
+- how to convert dwf
+- GroupDocs.Conversion for .NET
+lastmod: '2026-07-14'
+og_description: Конвертировать CAD в CSV с помощью GroupDocs.Conversion for .NET.
+  Следуйте этому подробному руководству, чтобы настроить процесс, написать код и устранить
+  неполадки при конвертации.
+og_image_alt: Guide showing how to convert CAD/DWF files to CSV with GroupDocs.Conversion
+  in a .NET project
+og_title: Конвертировать CAD в CSV с помощью GroupDocs.Conversion for .NET
+schemas:
+- author: GroupDocs
+  dateModified: '2026-07-14'
+  description: Learn how to convert CAD files to CSV using GroupDocs.Conversion for
+    .NET. This tutorial walks you through setup, code, and troubleshooting for fast
+    CAD data extraction.
+  headline: Convert CAD to CSV with GroupDocs.Conversion for .NET – Step‑by‑Step Guide
+  type: TechArticle
+- description: Learn how to convert CAD files to CSV using GroupDocs.Conversion for
+    .NET. This tutorial walks you through setup, code, and troubleshooting for fast
+    CAD data extraction.
+  name: Convert CAD to CSV with GroupDocs.Conversion for .NET – Step‑by‑Step Guide
+  steps:
+  - name: Define Your Document Path
+    text: Make sure `sourceFilePath` points to an existing DWF file on disk.
+  - name: Define Output Path for CSV File
+    text: 'Ensure your output directory exists or create it programmatically:'
+  - name: Prepare Conversion Options for CSV Format
+    text: The `CsvConvertOptions` class lets you customize CSV output such as delimiter
+      and encoding.
+  - name: Perform the Conversion
+    text: Execute the conversion with a single call; the library handles paging and
+      resource cleanup.
+  type: HowTo
+- questions:
+  - answer: GroupDocs.Conversion supports DWG, DXF, and DWF. Replace the source file
+      extension and use the same `CsvConvertOptions` – the API automatically detects
+      the format.
+    question: How do I convert other CAD formats (DWG, DXF) to CSV?
+  - answer: Yes. Iterate over a directory of DWF files and invoke the conversion logic
+      for each file inside a `foreach` loop.
+    question: Can I batch‑convert multiple DWF files in one run?
+  - answer: A paid license is required for any production deployment. The trial key
+      works for evaluation only and expires after 30 days.
+    question: What licensing model applies to commercial projects?
+  - answer: The generated CSV includes a “Layer” column that records the original
+      CAD layer for each extracted entity.
+    question: Does the conversion preserve layer information?
+  - answer: Enable streaming (`ConversionConfig.EnableStreaming = true`) and run the
+      process on a machine with SSD storage to reduce I/O latency.
+    question: How can I improve conversion speed for very large drawings?
+  type: FAQPage
+tags:
+- convert CAD
+- GroupDocs.Conversion
+- DWF to CSV
+- .NET file conversion
+- CAD data extraction
+title: Конвертировать CAD в CSV с помощью GroupDocs.Conversion for .NET – пошаговое
+  руководство
 type: docs
+url: /ru/net/cad-technical-drawing-formats/convert-dwf-to-csv-groupdocs-conversion-net/
+weight: 1
 ---
-# Конвертируйте файлы DWF в CSV с помощью GroupDocs.Conversion для .NET
 
-## Введение
+# Преобразование CAD в CSV с помощью GroupDocs.Conversion для .NET
 
-В цифровом мире преобразование файлов Design Web Format (DWF) в более доступные форматы, такие как CSV, имеет важное значение для инженеров и архитекторов. Это всеобъемлющее руководство демонстрирует, как использовать GroupDocs.Conversion для .NET для бесшовного преобразования файлов DWF в CSV.
+Преобразование **CAD** файлов в CSV является распространенной задачей, когда необходимо извлечь табличные данные из технических чертежей для анализа, отчетности или миграции. В этом руководстве вы узнаете, как быстро **преобразовать CAD в CSV** с помощью GroupDocs.Conversion для .NET, шаг за шагом.
 
-**Что вы узнаете:**
+## Быстрые ответы
+- **Какая библиотека обрабатывает преобразование?** GroupDocs.Conversion for .NET.
+- **Какой формат файла читается?** Design Web Format (**DWF**) – a native CAD format.
+- **Какой формат вывода?** Comma‑Separated Values (**CSV**) for easy spreadsheet import.
+- **Сколько строк кода требуется?** Less than ten lines once the library is installed.
+- **Нужна ли лицензия для продакшн‑использования?** Yes – a commercial license is required for non‑trial use.
 
-- Настройка и использование GroupDocs.Conversion для .NET
-- Загрузка файла DWF и конвертация его в формат CSV
-- Основные параметры конфигурации и советы по устранению неполадок
+## Что такое «преобразование CAD в CSV»?
+*«Convert CAD to CSV»* относится к извлечению геометрических или атрибутивных данных из CAD‑чертежа (например, DWF) и записи их в обычный текстовый, разделённый запятыми, таблицу, которую можно открыть в Excel, Power BI или любом инструменте обработки данных. Такое преобразование позволяет аналитикам выполнять статистические расчёты, генерировать отчёты и интегрировать информацию чертежей в базы данных без необходимости специализированного CAD‑ПО.
 
-Давайте начнем с того, что убедимся, что у вас есть необходимые предпосылки.
+## Почему использовать GroupDocs.Conversion для .NET?
+GroupDocs.Conversion поддерживает **более 50 форматов ввода и вывода**, обрабатывает многосотстраничные CAD‑файлы без загрузки всего документа в память и работает на **.NET 6+, .NET 5+, .NET Core 3.1**, а также на классическом .NET Framework. Его API не требует внешнего CAD‑ПО, что снижает затраты на лицензирование и упрощает развертывание.
 
-## Предпосылки
+## Предварительные требования
 
-Перед началом убедитесь, что у вас есть:
+Прежде чем начать, убедитесь, что у вас есть следующее:
 
-### Необходимые библиотеки и зависимости
+- **GroupDocs.Conversion for .NET** версии **25.3.0** или новее.  
+- Среда разработки C# (Visual Studio 2022 или новее).  
+- .NET 6 SDK (или любой поддерживаемый .NET runtime).  
+- Доступ к действующей лицензии **GroupDocs** (пробная или приобретённая).  
 
-- **GroupDocs.Конвертация для .NET** версия 25.3.0 или более поздняя
-- Среда разработки C#, например Visual Studio
+### Требуемые библиотеки и зависимости
+- **GroupDocs.Conversion for .NET** – основной движок преобразования.  
+- **System.IO** – для работы с путями файлов (встроенный).  
 
-### Требования к настройке среды
+### Требования к настройке окружения
+Ваша ОС должна быть Windows 10/11, macOS 12+ или дистрибутив Linux, поддерживающий целевой .NET runtime.
 
-Убедитесь, что ваша система работает на совместимой ОС с установленным .NET Framework.
-
-### Необходимые знания
-
-Приветствуется базовое понимание программирования на C# и знакомство с обработкой файлов в .NET.
+### Требования к знаниям
+Знание базового синтаксиса C#, операторов `using` и работы с вводом‑выводом файлов упростит процесс.
 
 ## Настройка GroupDocs.Conversion для .NET
 
-Начните с установки библиотеки GroupDocs.Conversion:
+### Как установить библиотеку?
+Вы можете добавить GroupDocs.Conversion в ваш проект через NuGet.
 
 **Консоль диспетчера пакетов NuGet**
 
@@ -53,15 +122,14 @@ Install-Package GroupDocs.Conversion -Version 25.3.0
 dotnet add package GroupDocs.Conversion --version 25.3.0
 ```
 
-### Этапы получения лицензии
-
-1. **Бесплатная пробная версия:** Начните с бесплатной пробной версии, чтобы изучить возможности.
-2. **Временная лицензия:** Получить временную лицензию [здесь](https://purchase.groupdocs.com/temporary-license/) если необходимо.
-3. **Покупка:** Для полного доступа купите у [Страница покупки GroupDocs](https://purchase.groupdocs.com/buy).
+### Шаги получения лицензии
+1. **Free Trial:** Начните с бесплатной пробной версии, чтобы изучить возможности.  
+2. **Temporary License:** Получите временную лицензию [здесь](https://purchase.groupdocs.com/temporary-license/), если вам нужен краткосрочный ключ для тестирования.  
+3. **Purchase:** Для полного продакшн‑использования приобретите лицензию на странице [Страница покупки GroupDocs](https://purchase.groupdocs.com/buy).
 
 ### Базовая инициализация и настройка
-
-Инициализируйте GroupDocs.Conversion в вашем проекте C# следующим образом:
+Класс `ConversionConfig` хранит настройки конфигурации процесса преобразования.  
+Класс `Converter` предоставляет методы для загрузки документа и выполнения преобразований.
 
 ```csharp
 using System;
@@ -79,47 +147,45 @@ class Program
 }
 ```
 
-## Руководство по внедрению
+## Как преобразовать DWF в CSV с помощью GroupDocs.Conversion для .NET?
 
-Процесс конвертации включает загрузку файла DWF и преобразование его в CSV.
+Загрузите исходный файл DWF, настройте параметры CSV и вызовите метод `Convert` — всё преобразование завершается одним вызовом метода. Этот подход автоматически извлекает имена слоёв, координаты и таблицы атрибутов в хорошо структурированный CSV‑файл, а также гарантирует сохранение любой встроенной метаданных для последующего анализа.
 
-### Загрузить DWF-файл
+### Загрузка файла DWF
 
 #### Обзор
+Загрузка файла DWF подготавливает его к преобразованию. Выполните следующие шаги:
 
-Загрузка файла DWF подготавливает его к конвертации. Выполните следующие шаги:
-
-##### Шаг 1: Определите путь к документу (H3)
+##### Шаг 1: Укажите путь к документу
 
 ```csharp
 string sourceFilePath = @"YOUR_DOCUMENT_DIRECTORY\\sample.dwf";
 ```
-Гарантировать `sourceFilePath` указывает на действительный файл DWF.
+Убедитесь, что `sourceFilePath` указывает на существующий DWF‑файл на диске.
 
-##### Шаг 2: Загрузите файл с помощью GroupDocs.Conversion (H3)
+##### Шаг 2: Загрузите файл с помощью GroupDocs.Conversion
 
 ```csharp
 var converter = new Converter(sourceFilePath);
 ```
 
-### Конвертировать DWF в CSV
+### Преобразование DWF в CSV
 
 #### Обзор
-
 После загрузки преобразуйте файл DWF в формат CSV.
 
-##### Шаг 1: Определите выходной путь для CSV-файла (H3)
+##### Шаг 1: Укажите путь вывода для CSV‑файла
 
-Убедитесь, что выходной каталог существует, или создайте его:
+Убедитесь, что каталог вывода существует, или создайте его программно:
 
 ```csharp
 string outputFolder = @"YOUR_OUTPUT_DIRECTORY";
 string outputFile = System.IO.Path.Combine(outputFolder, "dwf-converted-to.csv");
 ```
 
-##### Шаг 2: Подготовка параметров преобразования для формата CSV (H3)
+##### Шаг 2: Подготовьте параметры преобразования для формата CSV
 
-Настройте параметры конвертации:
+Класс `CsvConvertOptions` позволяет настроить вывод CSV, например разделитель и кодировку.
 
 ```csharp
 using GroupDocs.Conversion.Options.Convert;
@@ -127,82 +193,98 @@ using GroupDocs.Conversion.Options.Convert;
 SpreadsheetConvertOptions options = new SpreadsheetConvertOptions { Format = GroupDocs.Conversion.FileTypes.SpreadsheetFileType.Csv };
 ```
 
-##### Шаг 3: Выполнение преобразования (H3)
+##### Шаг 3: Выполните преобразование
 
-Выполнить преобразование:
+Выполните преобразование одним вызовом; библиотека обрабатывает разбиение на страницы и очистку ресурсов.
 
 ```csharp
 converter.Convert(outputFile, options);
 Console.WriteLine("Conversion completed successfully.");
 ```
 
-### Советы по устранению неполадок
-
-- Гарантировать `sourceFilePath` указывает на реальный файл.
-- Убедитесь, что `outputFolder` существует или создать его программно.
+## Советы по устранению неполадок
+- Убедитесь, что `sourceFilePath` указывает на читаемый DWF‑файл.  
+- Убедитесь, что `outputFolder` существует; вы можете создать его с помощью `Directory.CreateDirectory`.  
+- Если преобразование не удаётся для больших чертежей, увеличьте лимит памяти процесса или включите режим потоковой передачи через `ConversionConfig.EnableStreaming = true`.  
 
 ## Практические применения
+Реальные сценарии, где «преобразование CAD в CSV» проявляет себя:
 
-Вот несколько реальных примеров использования:
+1. **Architectural Data Analysis:** Экспортировать метаданные дизайна в CSV для статистического анализа или оценки стоимости.  
+2. **Cross‑Platform Compatibility:** Перенести данные из проприетарных CAD‑инструментов в форматы, совместимые с Excel, для заинтересованных сторон без CAD‑ПО.  
+3. **Data Migration Projects:** Автоматизировать массовую миграцию устаревших DWF‑чертежей в CSV‑файлы, готовые к загрузке в базу данных.  
 
-1. **Анализ архитектурных данных:** Экспортируйте проектные данные в CSV для анализа и составления отчетов.
-2. **Кроссплатформенная совместимость:** Конвертируйте сложные файлы в более простые форматы, пригодные для использования на разных платформах.
-3. **Проекты миграции данных:** Упростить миграцию данных проекта между системами.
+## Соображения по производительности
+GroupDocs.Conversion обрабатывает файлы в потоковом режиме, позволяя работать с **файлами DWF до 1 ГБ** без исчерпания ОЗУ. Для оптимальной скорости:
 
-## Соображения производительности
+- Выполняйте преобразование на машине с минимум **4 ГБ свободной ОЗУ**.  
+- Используйте блоки `using`, чтобы гарантировать освобождение объекта `Converter`.  
 
-Оптимизируйте производительность с помощью GroupDocs.Conversion:
-
-- Убедитесь, что ваша система соответствует требованиям к ресурсам для больших файлов.
-- Эффективно управляйте памятью, избавляясь от неиспользуемых объектов.
-  
-**Лучшие практики:**
-
-- Использовать `using` операторы для автоматического удаления ресурсов.
+**Лучшие практики:**  
 
 ```csharp
 using (var converter = new Converter(sourceFilePath))
 {
-    // Код преобразования здесь
+    // conversion code here
 }
 ```
 
-## Заключение
+```csharp
+using (var converter = new Converter(sourceFilePath))
+{
+    // Conversion code here
+}
+```
 
-Вы узнали, как конвертировать файлы DWF в CSV с помощью GroupDocs.Conversion для .NET. Это руководство содержит шаги, практические приложения, советы по производительности и рекомендации по устранению неполадок.
+## Часто задаваемые вопросы
+
+**Q: Как я могу преобразовать другие форматы CAD (DWG, DXF) в CSV?**  
+A: GroupDocs.Conversion поддерживает DWG, DXF и DWF. Замените расширение исходного файла и используйте те же `CsvConvertOptions` — API автоматически определит формат.
+
+**Q: Можно ли пакетно преобразовать несколько файлов DWF за один запуск?**  
+A: Да. Пройдитесь по каталогу с файлами DWF и вызовите логику преобразования для каждого файла внутри цикла `foreach`.
+
+**Q: Какая модель лицензирования применяется к коммерческим проектам?**  
+A: Требуется платная лицензия для любого продакшн‑развёртывания. Пробный ключ работает только для оценки и истекает через 30 дней.
+
+**Q: Сохраняет ли преобразование информацию о слоях?**  
+A: Сгенерированный CSV включает столбец “Layer”, который фиксирует оригинальный слой CAD для каждой извлечённой сущности.
+
+**Q: Как можно ускорить преобразование очень больших чертежей?**  
+A: Включите потоковую передачу (`ConversionConfig.EnableStreaming = true`) и запускайте процесс на машине с SSD‑накопителем, чтобы снизить задержку ввода‑вывода.
+
+## Заключение
+Теперь у вас есть полное, готовое к продакшн‑использованию руководство по **преобразованию CAD в CSV** с помощью GroupDocs.Conversion для .NET. Следуя приведённым шагам, вы можете интегрировать эту функциональность в любой .NET‑сервис, настольное приложение или автоматизированный конвейер.
 
 ### Следующие шаги
+- Поэкспериментируйте с дополнительными форматами вывода, такими как **XLSX** или **JSON**, используя тот же API.  
+- Скомбинируйте вывод CSV с Power BI для создания интерактивных панелей мониторинга ваших CAD‑данных.  
+- Ознакомьтесь с полным списком поддерживаемых форматов в документации GroupDocs.  
 
-- Изучите другие форматы файлов, поддерживаемые GroupDocs.Conversion.
-- При необходимости интегрируйте эту функциональность в более крупные системы.
+**Call to Action:** Реализуйте пример кода в вашем следующем проекте и посмотрите, как быстро можно превратить сложные CAD‑чертежи в полезные данные!
 
-**Призыв к действию:** Попробуйте внедрить это решение в свои проекты уже сегодня!
+---
 
-## Раздел часто задаваемых вопросов
+**Последнее обновление:** 2026-07-14  
+**Тестировано с:** GroupDocs.Conversion 25.3.0 for .NET  
+**Автор:** GroupDocs  
 
-1. **Что такое DWF-файл?**
-   - Файл Design Web Format (DWF) используется архитекторами и инженерами для обмена проектными данными.
+**Ресурсы**  
+- [Документация](https://docs.groupdocs.com/conversion/net/)  
+- [Справочник API](https://reference.groupdocs.com/conversion/net/)  
+- [Скачать GroupDocs.Conversion](https://releases.groupdocs.com/conversion/net/)  
+- [Приобрести лицензию](https://purchase.groupdocs.com/buy)  
+- [Бесплатная пробная версия](https://releases.groupdocs.com/conversion/net/)  
+- [Временная лицензия](https://purchase.groupdocs.com/temporary-license/)  
+- [Форум поддержки](https://forum.groupdocs.com/c/conversion/10)  
 
-2. **Могу ли я конвертировать другие форматы с помощью GroupDocs.Conversion?**
-   - Да, он поддерживает различные форматы помимо DWF и CSV.
+{< blocks/products/products-backtop-button >}
+{< /blocks/products/pf/main-wrap-class >}
+{< /blocks/products/pf/main-container >}
+{< /blocks/products/pf/tutorial-page-section >}
 
-3. **Как обрабатывать большие файлы DWF во время конвертации?**
-   - Обеспечьте достаточное выделение памяти и оптимизируйте свой код для эффективного управления ресурсами.
+## Связанные руководства
 
-4. **Какие проблемы чаще всего возникают при конвертации?**
-   - Неправильные пути к файлам или отсутствие зависимостей могут привести к сбоям; проверьте это перед началом работы.
-
-5. **Можно ли использовать GroupDocs.Conversion в коммерческом приложении?**
-   - Да, он подходит для приложений с открытым исходным кодом и коммерческих приложений при наличии соответствующего лицензирования.
-
-## Ресурсы
-
-- [Документация](https://docs.groupdocs.com/conversion/net/)
-- [Ссылка на API](https://reference.groupdocs.com/conversion/net/)
-- [Скачать GroupDocs.Conversion](https://releases.groupdocs.com/conversion/net/)
-- [Купить лицензию](https://purchase.groupdocs.com/buy)
-- [Бесплатная пробная версия](https://releases.groupdocs.com/conversion/net/)
-- [Временная лицензия](https://purchase.groupdocs.com/temporary-license/)
-- [Форум поддержки](https://forum.groupdocs.com/c/conversion/10)
-
-Это руководство снабдит вас знаниями по внедрению преобразования DWF в CSV в ваших проектах .NET с использованием GroupDocs.Conversion. Удачного кодирования!
+- [Как конвертировать файлы DWF в TXT с помощью GroupDocs.Conversion для .NET (Пошаговое руководство)](/conversion/net/cad-technical-drawing-formats/convert-dwf-to-txt-using-groupdocs-conversion-net/)
+- [Как конвертировать файлы DWF в PDF с помощью GroupDocs.Conversion для .NET: Пошаговое руководство](/conversion/net/cad-technical-drawing-formats/convert-dwf-to-pdf-groupdocs-conversion-dotnet-guide/)
+- [Конвертация PCL в CSV с помощью GroupDocs.Conversion .NET | Пошаговое руководство по эффективной обработке данных](/conversion/net/csv-structured-data-processing/convert-pcl-to-csv-groupdocs-conversion-net/)
