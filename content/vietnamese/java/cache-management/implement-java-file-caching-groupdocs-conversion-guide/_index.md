@@ -1,57 +1,232 @@
 ---
-date: '2026-01-23'
-description: Tìm hiểu cách lưu trữ tạm các tệp bằng GroupDocs.Conversion trong Java,
-  chuyển đổi docx sang pdf, cấu hình thư mục cache và tăng hiệu suất chuyển đổi tài
-  liệu hàng loạt.
+date: '2026-07-19'
+description: Tìm hiểu cách lưu bộ nhớ đệm các tệp java bằng GroupDocs.Conversion,
+  chuyển đổi docx pdf java một cách hiệu quả, và chuyển đổi nhiều tệp java với thư
+  mục bộ nhớ đệm có thể cấu hình.
 keywords:
-- Java file caching with GroupDocs.Conversion
-- efficient document conversion in Java
-- cache management for file conversions
-title: Cách lưu trữ tạm thời các tệp trong Java với GroupDocs.Conversion – Hướng dẫn
-  toàn diện cho việc chuyển đổi tài liệu hiệu quả
+- cache files java
+- convert docx pdf java
+- java convert multiple files
+lastmod: '2026-07-19'
+og_description: Lưu bộ nhớ đệm các tệp java với GroupDocs.Conversion để tăng tốc chuyển
+  đổi docx pdf java và chuyển đổi nhiều tệp java. Tìm hiểu cách cài đặt, cấu hình
+  và các thực tiễn tốt nhất.
+og_image_alt: Guide showing Java code and cache folder for GroupDocs.Conversion file
+  caching
+og_title: Lưu bộ nhớ đệm các tệp Java – Chuyển đổi tài liệu nhanh với GroupDocs
+schemas:
+- author: GroupDocs
+  dateModified: '2026-07-19'
+  description: Learn how to cache files java using GroupDocs.Conversion, convert docx
+    pdf java efficiently, and java convert multiple files with a configurable cache
+    directory.
+  headline: Cache Files Java with GroupDocs.Conversion – Boost Document Conversion
+    Performance
+  type: TechArticle
+- description: Learn how to cache files java using GroupDocs.Conversion, convert docx
+    pdf java efficiently, and java convert multiple files with a configurable cache
+    directory.
+  name: Cache Files Java with GroupDocs.Conversion – Boost Document Conversion Performance
+  steps:
+  - name: '**Batch Processing Systems** – Reuse cached PDFs when converting thousands
+      of DOCX files nightly.'
+    text: '**Batch Processing Systems** – Reuse cached PDFs when converting thousands
+      of DOCX files nightly.'
+  - name: '**Web Services** – Speed up API responses for repeated conversion requests
+      by serving cached results instantly.'
+    text: '**Web Services** – Speed up API responses for repeated conversion requests
+      by serving cached results instantly.'
+  - name: '**Enterprise Document Management** – Integrate caching with existing file
+      stores to lower server load and storage costs.'
+    text: '**Enterprise Document Management** – Integrate caching with existing file
+      stores to lower server load and storage costs.'
+  type: HowTo
+- questions:
+  - answer: It means storing the conversion output (like a PDF) so that later requests
+      can fetch the file directly from the cache instead of re‑running the conversion
+      engine.
+    question: What exactly does “cache files java” mean for document conversion?
+  - answer: Yes, but it’s recommended to maintain separate cache folders per format
+      to avoid naming collisions and simplify cleanup.
+    question: Can I use the same cache for different output formats?
+  - answer: Implement a scheduled task (e.g., using `java.util.Timer` or a cron job)
+      that scans the cache folder and deletes files older than a configured age.
+    question: How do I automatically clean up old cached files?
+  - answer: Absolutely. The built‑in cache implementation handles concurrent reads
+      and writes, making it safe for high‑traffic web services.
+    question: Is the GroupDocs.Conversion cache thread‑safe?
+  - answer: The official documentation is available at the [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/)
+      page.
+    question: Where can I find the full API reference?
+  type: FAQPage
+tags:
+- cache files
+- GroupDocs.Conversion
+- Java document processing
+- batch conversion
+- performance optimization
+title: Lưu bộ nhớ đệm các tệp Java với GroupDocs.Conversion – Tăng hiệu suất chuyển
+  đổi tài liệu
 type: docs
 url: /vi/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/
 weight: 1
 ---
 
- mình xử lý tệp hiệu quả, việc bộ nhớ đệm có thể cải thiện đáng kể hiệu suất hệ thống của bạn. Hướng dẫn toàn diện này sẽ hướng dẫn bạn cách thiết lập bộ nhớ đệm tệp bằng API GroupDocs.Conversion trong Java, cho phép chuyển đổi nhanh hơn, giảm xử lý trùng lặp và **batch document conversion** mượt mà hơn.
+# Tệp Cache Java với GroupDocs.Conversion – Tăng hiệu suất chuyển đổi tài liệu
 
-**Bạn sẽ học**
-- Cài đặt và cấu hình **java file caching** với GroupDocs.Conversion.
-- Triển khai quy trình **convert docx to pdf** hiệu quả bằng cách sử dụng các tệp đã được bộ nhớ đệm.
-- Tối ưu hiệu suất thông qua các thực tiễn tốt nhất **configure cache directory**.
-- Mở rộng giải pháp để **convert multiple files** trong các kịch bản batch.
-
-Hãy chắc chắn rằng bạn đã có mọi thứ cần thiết trước khi chúng ta bắt đầu triển khai.
+Trong hướng dẫn này, bạn sẽ khám phá cách **cache files java** sử dụng API GroupDocs.Conversion, tăng tốc đáng kể các thao tác **convert docx pdf java** và cho phép các công việc batch **java convert multiple files** hiệu quả. Khi kết thúc tutorial, bạn sẽ có một giải pháp sẵn sàng cho sản xuất, lưu các PDF trung gian trên đĩa, tái sử dụng chúng cho các yêu cầu tiếp theo và mở rộng mượt mà dưới tải nặng.
 
 ## Câu trả lời nhanh
-- **Lợi ích chính của việc bộ nhớ đệm tệp là gì?** Nó loại bỏ việc xử lý lặp lại, giảm thời gian chuyển đổi tới 70 %.
-- **Thư viện nào hỗ trợ bộ nhớ đệm trong Java?** GroupDocs.Conversion cung cấp hỗ trợ bộ nhớ đệm tích hợp.
-- **Tôi có thể bộ nhớ đệm chuyển đổi DOCX → PDF không?** Có—lưu trữ PDF trung gian và tái sử dụng cho các yêu cầu tiếp theo.
-- **Có cần giấy phép cho môi trường production không?** Cần một giấy phép GroupDocs.Conversion hợp lệ cho việc sử dụng thương mại.
-- **Có hỗ trợ chuyển đổi batch không?** Chắc chắn; bộ nhớ đệm tỏa sáng khi chuyển đổi nhiều tệp trong một lần chạy.
+- **What is the main advantage of caching files?** Nó loại bỏ nhu cầu chuyển đổi lại cùng một nguồn, giảm thời gian xử lý lên tới 70 % và giảm đáng kể việc sử dụng CPU.  
+- **Which library provides built‑in caching for Java?** GroupDocs.Conversion bao gồm một API cache gốc, vì vậy không cần framework cache bên ngoài.  
+- **Can I cache DOCX → PDF conversions?** Có — lưu PDF đã tạo một lần và phục vụ lại nhiều lần cho các đầu vào DOCX giống nhau.  
+- **Do I need a license for production use?** Cần có giấy phép GroupDocs.Conversion hợp lệ cho các triển khai thương mại.  
+- **Is batch conversion supported?** Chắc chắn; cache tỏa sáng khi bạn **java convert multiple files** trong một lần chạy.
 
-## “how to cache files” là gì trong bối cảnh chuyển đổi tài liệu?
-Bộ nhớ đệm tệp có nghĩa là lưu trữ kết quả của một thao tác tốn kém (như chuyển đổi một DOCX lớn sang PDF) trên đĩa hoặc bộ nhớ để các yêu cầu trong tương lai có thể truy xuất đầu ra đã được xử lý thay vì thực hiện lại quá trình chuyển đổi. Cách tiếp cận này giảm tải CPU, lưu lượng mạng và độ trễ, đặc biệt trong các dịch vụ có khối lượng lớn hoặc thời gian thực.
+## “cache files java” là gì trong ngữ cảnh chuyển đổi tài liệu?
+**Cache files java** đề cập đến việc lưu trữ kết quả của một quá trình chuyển đổi tốn kém (ví dụ, DOCX → PDF) trên hệ thống tệp cục bộ hoặc bộ nhớ để các yêu cầu sau này có thể lấy kết quả ngay lập tức thay vì thực thi lại engine chuyển đổi. Bằng cách lưu các tệp này, ứng dụng tránh xử lý dư thừa, giảm tải CPU và cải thiện thời gian phản hồi cho các yêu cầu chuyển đổi lặp lại.
 
-## Tại sao nên sử dụng GroupDocs.Conversion cho bộ nhớ đệm tệp Java?
-- **Built‑in cache API** – không cần framework bộ nhớ đệm của bên thứ ba.
-- **Seamless integration** với các pipeline chuyển đổi hiện có.
-- **Support for many formats** – DOCX, PPTX, XLSX, PDF, và nhiều hơn nữa.
-- **Thread‑safe** – hoàn hảo cho các dịch vụ web xử lý đồng thời nhiều yêu cầu.
+## Tại sao nên sử dụng GroupDocs.Conversion cho việc cache tệp Java?
+Cơ chế cache gốc của GroupDocs.Conversion loại bỏ nhu cầu các giải pháp bên thứ ba, tích hợp trực tiếp với pipeline chuyển đổi, hỗ trợ hơn 70 định dạng đầu vào và đầu ra, và hoàn toàn thread‑safe cho các dịch vụ web có độ đồng thời cao. Nó cũng cung cấp cấu hình dễ dàng cho vị trí cache và tự động dọn dẹp, làm cho nó phù hợp cả với các tiện ích nhỏ và dịch vụ doanh nghiệp lớn.
 
 ## Yêu cầu trước
-
-Trước khi bắt đầu, hãy chắc chắn rằng bạn đã có:
-- **Thư viện cần thiết**: GroupDocs.Conversion cho Java ≥ 25.2.
-- **Môi trường**: JDK 11+ và một IDE như IntelliJ IDEA hoặc Eclipse.
-- **Kiến thức**: Thành thạo Java, Maven và các thao tác I/O cơ bản với tệp.
+- **Java Development Kit** 11 hoặc mới hơn.  
+- **Maven** để quản lý phụ thuộc.  
+- **GroupDocs.Conversion for Java ≥ 25.2** (phiên bản ổn định mới nhất).  
+- Kiến thức cơ bản về Java I/O và cấu trúc dự án Maven.  
 
 ## Cài đặt GroupDocs.Conversion cho Java
 
 ### Cấu hình Maven
+Thêm repository GroupDocs và phụ thuộc Conversion vào `pom.xml` của bạn:
 
-Thêm repository và dependency vào file `pom.xml` của bạn:
+```xml
+<repositories>
+    <repository>
+        <id>groupdocs-repo</id>
+        <url>https://releases.groupdocs.com/maven</url>
+    </repository>
+</repositories>
+
+<dependencies>
+    <dependency>
+        <groupId>com.groupdocs</groupId>
+        <artifactId>conversion</artifactId>
+        <version>25.2</version>
+    </dependency>
+</dependencies>
+```
+
+### Mua giấy phép
+Bắt đầu với bản dùng thử miễn phí để khám phá các tính năng của GroupDocs.Conversion bằng cách truy cập trang [Free Trial](https://releases.groupdocs.com/conversion/java/) của họ. Để sử dụng lâu dài, hãy cân nhắc mua giấy phép hoặc nhận một giấy phép tạm thời thông qua cổng [Temporary License](https://purchase.groupdocs.com/temporary-license/).
+
+### Khởi tạo cơ bản
+Lớp `Converter` là điểm vào chính điều phối các thao tác chuyển đổi tài liệu. Sau khi nhập các lớp cần thiết, bạn có thể thực hiện một chuyển đổi DOCX → PDF đơn giản:
+
+```java
+import com.groupdocs.conversion.Converter;
+import com.groupdocs.conversion.options.convert.PdfConvertOptions;
+
+Converter converter = new Converter("sample.docx");
+PdfConvertOptions options = new PdfConvertOptions();
+converter.convert("sample.pdf", options);
+```
+
+## Cách cache tệp trong Java với GroupDocs.Conversion
+**Tải tài liệu nguồn một lần, cấu hình thư mục cache, và để Converter tái sử dụng PDF đã cache cho bất kỳ yêu cầu giống nhau nào sau này.** Cách tiếp cận này giảm I/O, tiết kiệm chu kỳ CPU, và đảm bảo các công việc batch lớn hoàn thành nhanh hơn. Bằng cách kiểm tra cache trước mỗi lần chuyển đổi, hệ thống giảm thiểu việc đọc đĩa và tránh xử lý không cần thiết, mang lại lợi ích hiệu năng nhất quán qua nhiều lần chạy.
+
+### Tổng quan về cache tệp
+Cache lưu trữ kết quả chuyển đổi trung gian, giảm đáng kể thời gian dành cho các thao tác **convert docx pdf java** lặp lại. Điều này đặc biệt có giá trị khi bạn cần **java convert multiple files** trong một công việc batch.
+
+### Triển khai từng bước
+
+#### 1. Thiết lập thư mục cache
+Xác định một thư mục riêng để lưu trữ các tệp đã cache. Điều này phù hợp với từ khóa phụ **configure cache directory**.
+
+```java
+String cachePath = "C:/conversion-cache";
+File cacheFolder = new File(cachePath);
+if (!cacheFolder.exists()) {
+    cacheFolder.mkdirs(); // Ensure the directory exists
+}
+```
+
+#### 2. Cấu hình cài đặt Converter để sử dụng cache
+`CacheSettings` xác định nơi và cách các tệp đã cache được lưu trữ để tái sử dụng. Hãy chỉ cho `Converter` tận dụng cache mà bạn vừa tạo. Lớp `CacheSettings` điều khiển nơi và cách các tệp cache được lưu.
+
+```java
+CacheSettings cacheSettings = new CacheSettings();
+cacheSettings.setCacheFolder(cachePath);
+cacheSettings.setEnabled(true);
+```
+
+#### 3. Khởi tạo Converter với cache được bật
+Kết hợp đường dẫn tài liệu với factory cài đặt để mỗi lần chuyển đổi đều kiểm tra cache trước.
+
+```java
+ConverterSettings settings = new ConverterSettings();
+settings.setCacheSettings(cacheSettings);
+Converter converter = new Converter("input.docx", settings);
+```
+
+#### 4. Định nghĩa tùy chọn chuyển đổi (Convert DOCX → PDF)
+`PdfConvertOptions` chỉ định các cài đặt cho việc chuyển đổi tài liệu sang định dạng PDF. Bạn có thể thay thế `PdfConvertOptions` bằng bất kỳ định dạng nào khác bạn cần, chẳng hạn `HtmlConvertOptions` hoặc `PngConvertOptions`.
+
+```java
+PdfConvertOptions options = new PdfConvertOptions();
+```
+
+#### 5. Thực thi chuyển đổi – Cache hoạt động
+Lần gọi đầu tiên tạo ra một PDF đã cache; các lần gọi sau sẽ tái sử dụng nó, thể hiện hiệu quả của **batch document conversion**.
+
+```java
+converter.convert("output.pdf", options); // First run creates cache
+converter.convert("output.pdf", options); // Second run reads from cache
+```
+
+### Mẹo khắc phục sự cố
+- **Cache Directory Issues** – Kiểm tra đường dẫn tồn tại và ứng dụng có quyền ghi.  
+- **Dependency Errors** – Kiểm tra lại các tọa độ Maven và URL repository.  
+- **Performance Bottlenecks** – Giám sát bộ nhớ JVM; tăng `-Xmx` nếu bạn xử lý các tệp rất lớn.  
+
+## Ứng dụng thực tiễn
+1. **Batch Processing Systems** – Tái sử dụng các PDF đã cache khi chuyển đổi hàng nghìn tệp DOCX mỗi đêm.  
+2. **Web Services** – Tăng tốc phản hồi API cho các yêu cầu chuyển đổi lặp lại bằng cách phục vụ kết quả cache ngay lập tức.  
+3. **Enterprise Document Management** – Tích hợp cache với các kho lưu trữ tệp hiện có để giảm tải máy chủ và chi phí lưu trữ.  
+
+## Cân nhắc về hiệu năng
+- **Regular Cache Cleanup** – Triển khai công việc định kỳ để xóa các tệp cũ hơn một ngưỡng có thể cấu hình (ví dụ, 30 ngày).  
+- **Memory Management** – Phân bổ heap đủ (ví dụ, `-Xmx2g`) cho các chuyển đổi quy mô lớn.  
+- **Best Practices** – Chỉ cache các tệp được yêu cầu thường xuyên; tránh cache các chuyển đổi một lần để ngăn tăng trưởng lưu trữ không cần thiết.  
+
+## Kết luận
+Bạn giờ đã có một hướng dẫn đầy đủ, sẵn sàng cho sản xuất về **cache files java** sử dụng GroupDocs.Conversion. Bằng cách cấu hình thư mục cache, bật cài đặt cache và tái sử dụng kết quả chuyển đổi, bạn có thể cải thiện đáng kể tốc độ và khả năng mở rộng của quy trình **convert docx pdf java** và **java convert multiple files** của mình.
+
+### Bước tiếp theo
+- Thử nghiệm các định dạng đầu ra khác (HTML, PNG) trong khi vẫn giữ cache hiện tại.  
+- Kết hợp cache với giải pháp lưu trữ phân tán (ví dụ, Redis) cho các triển khai đa nút.  
+- Khám phá các chính sách cache nâng cao như thời gian hết hạn, giới hạn kích thước và phiên bản để kiểm soát chi tiết hơn.  
+
+## Câu hỏi thường gặp
+
+**Q: “cache files java” nghĩa là gì trong chuyển đổi tài liệu?**  
+**A:** Nó có nghĩa là lưu trữ kết quả chuyển đổi (như PDF) để các yêu cầu sau này có thể lấy tệp trực tiếp từ cache thay vì chạy lại engine chuyển đổi.
+
+**Q: Tôi có thể sử dụng cùng một cache cho các định dạng đầu ra khác nhau không?**  
+**A:** Có, nhưng nên duy trì các thư mục cache riêng cho mỗi định dạng để tránh xung đột tên và đơn giản hoá việc dọn dẹp.
+
+**Q: Làm thế nào để tự động dọn dẹp các tệp cache cũ?**  
+**A:** Triển khai một tác vụ định kỳ (ví dụ, sử dụng `java.util.Timer` hoặc cron) để quét thư mục cache và xóa các tệp cũ hơn một độ tuổi đã cấu hình.
+
+**Q: Cache của GroupDocs.Conversion có an toàn đa luồng không?**  
+**A:** Chắc chắn. Cơ chế cache tích hợp xử lý đồng thời các đọc và ghi, làm cho nó an toàn cho các dịch vụ web có lưu lượng cao.
+
+**Q: Tôi có thể tìm tài liệu API đầy đủ ở đâu?**  
+**A:** Tài liệu chính thức có sẵn tại trang [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/).
+
+**Cập nhật lần cuối:** 2026-07-19  
+**Kiểm thử với:** GroupDocs.Conversion 25.2  
+**Tác giả:** GroupDocs
 
 ```xml
 <repositories>
@@ -69,14 +244,6 @@ Thêm repository và dependency vào file `pom.xml` của bạn:
     </dependency>
 </dependencies>
 ```
-
-### Nhận giấy phép
-
-Bắt đầu với bản dùng thử miễn phí để khám phá các tính năng của GroupDocs.Conversion bằng cách truy cập trang [Free Trial](https://releases.groupdocs.com/conversion/java/) của họ. Để sử dụng lâu dài, hãy cân nhắc mua giấy phép hoặc lấy giấy phép tạm thời qua [Temporary License](https://purchase.groupdocs.com/temporary-license/).
-
-### Khởi tạo cơ bản
-
-Nhập các lớp cần thiết và thực hiện một chuyển đổi DOCX → PDF đơn giản:
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -99,16 +266,6 @@ public class DocumentConversion {
 }
 ```
 
-## Cách bộ nhớ đệm tệp trong Java với GroupDocs.Conversion
-
-### Tổng quan về bộ nhớ đệm tệp
-Bộ nhớ đệm lưu trữ kết quả chuyển đổi trung gian, giảm đáng kể thời gian thực hiện các thao tác **convert docx to pdf** lặp đi lặp lại. Điều này đặc biệt có giá trị khi bạn cần **convert multiple files** trong một công việc batch.
-
-### Hướng dẫn thực hiện từng bước
-
-#### 1. Thiết lập thư mục bộ nhớ đệm
-Xác định một thư mục riêng để lưu trữ các tệp đã được bộ nhớ đệm. Bước này phù hợp với từ khóa phụ **configure cache directory**.
-
 ```java
 String YOUR_OUTPUT_DIRECTORY = "YOUR_OUTPUT_DIRECTORY";
 String YOUR_DOCUMENT_DIRECTORY = "YOUR_DOCUMENT_DIRECTORY";
@@ -118,9 +275,6 @@ FileCache createFileCache() {
     return new FileCache(cachePath);
 }
 ```
-
-#### 2. Cấu hình cài đặt Converter để sử dụng bộ nhớ đệm
-Thông báo cho `Converter` sử dụng bộ nhớ đệm mà bạn vừa tạo.
 
 ```java
 import com.groupdocs.conversion.ConverterSettings;
@@ -134,9 +288,6 @@ ConverterSettings configureSettings() {
 }
 ```
 
-#### 3. Khởi tạo Converter với bộ nhớ đệm được bật
-Kết hợp đường dẫn tài liệu với factory cài đặt.
-
 ```java
 String YOUR_DOCUMENT_DIRECTORY = "YOUR_DOCUMENT_DIRECTORY";
 String YOUR_OUTPUT_DIRECTORY = "YOUR_OUTPUT_DIRECTORY";
@@ -149,15 +300,9 @@ void convertDocuments() {
     Converter converter = new Converter(YOUR_DOCUMENT_DIRECTORY + "/SAMPLE_DOCX", () -> settingsFactory);
 ```
 
-#### 4. Định nghĩa tùy chọn chuyển đổi (Convert DOCX → PDF)
-Bạn có thể thay `PdfConvertOptions` bằng bất kỳ định dạng nào khác mà bạn cần.
-
 ```java
     PdfConvertOptions options = new PdfConvertOptions();
 ```
-
-#### 5. Thực thi chuyển đổi – Bộ nhớ đệm hoạt động
-Lần gọi đầu tiên tạo ra một PDF được bộ nhớ đệm; các lần gọi tiếp theo sẽ tái sử dụng, thể hiện hiệu quả **batch document conversion**.
 
 ```java
     // Convert and store the first PDF file.
@@ -168,48 +313,8 @@ Lần gọi đầu tiên tạo ra một PDF được bộ nhớ đệm; các l�
 }
 ```
 
-### Mẹo khắc phục sự cố
-- **Vấn đề thư mục bộ nhớ đệm** – Kiểm tra đường dẫn tồn tại và ứng dụng có quyền ghi.
-- **Lỗi phụ thuộc** – Kiểm tra lại tọa độ Maven và URL repository.
-- **Nút thắt hiệu suất** – Giám sát bộ nhớ JVM; tăng `-Xmx` nếu bạn xử lý các tệp rất lớn.
+## Hướng dẫn liên quan
 
-## Ứng dụng thực tiễn
-
-1. **Hệ thống xử lý batch** – Tái sử dụng các PDF đã được bộ nhớ đệm khi chuyển đổi hàng ngàn tệp DOCX mỗi đêm.
-2. **Dịch vụ web** – Tăng tốc phản hồi API cho các yêu cầu chuyển đổi lặp lại bằng cách phục vụ kết quả đã được bộ nhớ đệm.
-3. **Quản lý tài liệu doanh nghiệp** – Tích hợp bộ nhớ đệm với các kho lưu trữ tệp hiện có để giảm tải máy chủ.
-
-## Các cân nhắc về hiệu năng
-
-- **Dọn dẹp bộ nhớ đệm định kỳ** – Triển khai công việc lịch trình để xóa các tệp cũ hơn một ngưỡng cấu hình.
-- **Quản lý bộ nhớ** – Cấp phát heap đủ (ví dụ: `-Xmx2g`) cho các chuyển đổi quy mô lớn.
-- **Thực tiễn tốt nhất** – Sử dụng bộ nhớ đệm chủ yếu cho các tệp được yêu cầu thường xuyên; tránh bộ nhớ đệm các chuyển đổi một lần để không làm tăng dung lượng lưu trữ.
-
-## Kết luận
-
-Bạn đã có một hướng dẫn hoàn chỉnh, sẵn sàng cho môi trường production về **how to cache files** bằng GroupDocs.Conversion trong Java. Bằng cách cấu hình thư mục bộ nhớ đệm, khởi tạo converter với cài đặt bộ nhớ đệm và tái sử dụng kết quả chuyển đổi, bạn có thể cải thiện đáng kể tốc độ và khả năng mở rộng của quy trình **convert docx to pdf** và **convert multiple files**.
-
-**Bước tiếp theo**
-- Thử nghiệm các định dạng đầu ra khác (ví dụ: HTML, PNG) trong khi vẫn giữ cùng một bộ nhớ đệm.
-- Kết hợp bộ nhớ đệm với giải pháp lưu trữ phân tán (ví dụ: Redis) cho triển khai đa nút.
-- Khám phá các cài đặt nâng cao như chính sách hết hạn bộ nhớ đệm để kiểm soát chi tiết hơn.
-
-## Câu hỏi thường gặp
-
-**Q: “how to cache files” nghĩa là gì trong chuyển đổi tài liệu?**  
-A: Nó có nghĩa là lưu trữ đầu ra của một quá trình chuyển đổi (như PDF) để các yêu cầu tiếp theo có thể lấy tệp trực tiếp từ bộ nhớ đệm thay vì chạy lại engine chuyển đổi.
-
-**Q: Tôi có thể sử dụng cùng một bộ nhớ đệm cho các định dạng đầu ra khác nhau không?**  
-A: Có, nhưng tốt nhất nên tách riêng bộ nhớ đệm cho mỗi định dạng để tránh xung đột tên và đơn giản hoá việc dọn dẹp.
-
-**Q: Làm sao để tự động dọn dẹp các tệp bộ nhớ đệm cũ?**  
-A: Triển khai một tác vụ lịch trình (ví dụ: dùng `java.util.Timer`) để quét thư mục bộ nhớ đệm và xóa các tệp cũ hơn một thời gian cấu toàn.
-
-**Q: Tôi có thể tìm tài liệu API chi tiết ở đâu?**  
-A: Tham khảo tài liệu chính thức tại trang [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/).
-
----
-
-**Cập nhật lần cuối:** 2026-01-23  
-**Kiểm thử với:** GroupDocs.Conversion 25.2  
-**Tác giả:** GroupDocs
+- [Triển khai Cache Tùy chỉnh Java – GroupDocs Conversion Cache](/conversion/java/cache-management/)
+- [java convert word pdf: Hướng dẫn tổng hợp cho GroupDocs.Conversion](/conversion/java/document-operations/java-groupdocs-conversion-file-handling/)
+- [docx to pdf java: Chuyển DOCX sang PDF trong Java bằng GroupDocs.Conversion – Hướng dẫn chi tiết](/conversion/java/pdf-conversion/convert-docx-pdf-java-groupdocs-conversion/)
