@@ -1,8 +1,8 @@
 ---
 date: '2026-07-19'
-description: Descubra um tutorial step‑by‑step java redis caching que integra Redis
-  com GroupDocs.Conversion para boost rendering performance, reduzir conversion time
-  e simplificar cache management.
+description: Upptäck en steg‑för‑steg java redis caching tutorial som integrerar Redis
+  med GroupDocs.Conversion för att öka rendering performance, minska conversion time
+  och förenkla cache management.
 keywords:
 - java redis caching
 - boost rendering performance
@@ -10,11 +10,11 @@ keywords:
 - reduce conversion time
 - cache documents java
 lastmod: '2026-07-19'
-og_description: Aprenda java redis caching com GroupDocs.Conversion. Este tutorial
-  mostra como boost rendering performance, reduzir conversion time e configurar Redis
-  TTL em um simples projeto Java.
+og_description: Lär dig java redis caching med GroupDocs.Conversion. Denna tutorial
+  visar hur du ökar rendering performance, minskar conversion time och konfigurerar
+  Redis TTL i ett enkelt Java‑projekt.
 og_image_alt: 'Guide: java redis caching with GroupDocs and Redis'
-og_title: java redis caching – Cache Docs em Java com Redis
+og_title: java redis caching – Cacha dokument i Java med Redis
 schemas:
 - author: GroupDocs
   dateModified: '2026-07-19'
@@ -71,41 +71,41 @@ tags:
 - GroupDocs.Conversion
 - document rendering
 - performance optimization
-title: 'java redis caching: Cache Docs em Java com Redis'
+title: 'java redis caching: Cacha dokument i Java med Redis'
 type: docs
-url: /pt/java/cache-management/custom-cache-redis-groupdocs-java/
+url: /sv/java/cache-management/custom-cache-redis-groupdocs-java/
 weight: 1
 ---
 
-# java redis caching: Cache de Documentos em Java com Redis
+# java redis caching: Cacha dokument i Java med Redis
 
-Em aplicações web modernas, servir o mesmo documento convertido repetidamente pode desperdiçar ciclos de CPU e inflar os tempos de resposta. **java redis caching** resolve esse problema armazenando a saída da conversão em um armazenamento de dados rápido, em memória, de modo que solicitações subsequentes sejam atendidas instantaneamente. Neste tutorial você aprenderá como integrar o Redis em um fluxo de trabalho do GroupDocs.Conversion, configurar TTLs e medir os ganhos de desempenho que pode esperar.
+I moderna webbapplikationer kan det vara slöseri med CPU‑cykler och öka svarstiderna att leverera samma konverterade dokument upprepade gånger. **java redis caching** löser detta problem genom att lagra konverteringsresultatet i en snabb, minnes‑baserad datalagring, så att efterföljande förfrågningar levereras omedelbart. I den här handledningen lär du dig hur du integrerar Redis i ett GroupDocs.Conversion‑arbetsflöde, konfigurerar TTL‑värden och mäter de prestandaförbättringar du kan förvänta dig.
 
-## Respostas Rápidas
-- **O que este tutorial cobre?** Um tutorial completo de java redis caching que integra Redis com GroupDocs.Conversion.  
-- **Por que usar o Redis?** Ele oferece latência sub‑milissegundo, suporta expiração TTL e escala horizontalmente em múltiplas instâncias da aplicação.  
-- **Preciso de uma licença GroupDocs?** Uma licença de avaliação ou temporária serve para testes; uma licença completa é necessária para implantações em produção.  
-- **Quais são os principais passos?** Adicionar dependências Maven, configurar um `JedisPool`, criar métodos auxiliares de cache e conectar o cache ao pipeline de conversão.  
-- **Qual versão do Java é suportada?** Java 8+ (compatível com as versões mais recentes do GroupDocs.Conversion).
+## Snabba svar
+- **Vad täcker den här handledningen?** En komplett java redis caching‑handledning som integrerar Redis med GroupDocs.Conversion.  
+- **Varför använda Redis?** Den levererar sub‑millisekund latens, stöder TTL‑utgång och skalar horisontellt över flera app‑instanser.  
+- **Behöver jag en GroupDocs‑licens?** En prov‑ eller tillfällig licens räcker för testning; en full licens krävs för produktionsdistributioner.  
+- **Vad är huvudstegen?** Lägg till Maven‑beroenden, konfigurera en `JedisPool`, bygg cache‑hjälpmetoder och anslut cachen till konverterings‑pipeline.  
+- **Vilken Java‑version stöds?** Java 8+ (kompatibel med de senaste GroupDocs.Conversion‑utgåvorna).
 
-## O que é cache de documentos com Redis?
-Cachear documentos com Redis significa persistir a saída binária de uma conversão (por exemplo, um array de bytes PDF) no Redis para que solicitações futuras idênticas possam recuperar os bytes em cache em vez de executar novamente o motor de conversão. Isso elimina trabalho redundante de CPU, reduz a largura de banda de rede e oferece uma experiência de usuário final mais fluida.
+## Vad är cachning av dokument med Redis?
+Cachning av dokument med Redis innebär att lagra den binära utdata från en konvertering (t.ex. en PDF‑byte‑array) i Redis så att identiska framtida förfrågningar kan hämta de cachade bytena istället för att köra konverteringsmotorn igen. Detta eliminerar redundant CPU‑arbete, minskar nätverksbandbredd och ger en smidigare slutanvändarupplevelse.
 
-## Por que implementar cache Redis em Java?
-Carregue seu documento uma vez, armazene o resultado e sirva-o instantaneamente em acessos repetidos. O cache suportado por Redis pode **reduzir o tempo de conversão em até 90 %** para arquivos acessados com frequência, **diminuir custos de infraestrutura** ao reduzir o uso de CPU e **fornecer uma única fonte de verdade** para todos os nós da aplicação em um ambiente clusterizado.
+## Varför implementera Redis‑cache i Java?
+Läs in ditt dokument en gång, lagra resultatet och leverera det omedelbart vid upprepade anrop. Redis‑baserad cachning kan **korta konverteringstiden med upp till 90 %** för ofta åtkomna filer, **sänka infrastrukturskostnaderna** genom att minska CPU‑användning, och **ge en enda sanningskälla** för alla applikationsnoder i en klustrad miljö.
 
-## Pré-requisitos
-- **GroupDocs.Conversion** – versão 25.2 ou mais recente (suporta **120+** formatos de entrada e saída).  
-- **Jedis** (o cliente oficial do Redis para Java).  
-- Uma instância Redis em execução (o desenvolvimento local pode usar o padrão `localhost:6379`).  
-- Maven para gerenciamento de dependências.  
-- Familiaridade básica com tratamento de exceções Java e fluxos de I/O.
+## Förutsättningar
+- **GroupDocs.Conversion** – version 25.2 eller nyare (stöder **120+** in‑ och utdataformat).  
+- **Jedis** (den officiella Redis‑klienten för Java).  
+- En körande Redis‑instans (lokal utveckling kan använda standard `localhost:6379`).  
+- Maven för beroendehantering.  
+- Grundläggande kunskap om Java‑undantagshantering och I/O‑strömmar.
 
-## Configurando GroupDocs.Conversion para Java
+## Konfigurera GroupDocs.Conversion för Java
 
-`GroupDocs.Conversion` é uma biblioteca Java que converte e renderiza documentos para uma ampla gama de formatos, lidando automaticamente com preservação de layout, incorporação de fontes e extração de imagens.
+GroupDocs.Conversion är ett Java‑bibliotek som konverterar och renderar dokument till ett brett spektrum av format, och hanterar automatiskt layoutbevarande, teckensnitts‑inbäddning och bildextraktion.
 
-Adicione o repositório GroupDocs e a dependência ao seu `pom.xml`:
+Add the GroupDocs repository and dependency to your `pom.xml`:
 
 ```xml
 <repositories>
@@ -129,10 +129,10 @@ Adicione o repositório GroupDocs e a dependência ao seu `pom.xml`:
 </dependencies>
 ```
 
-### Aquisição de Licença
-Você pode começar com um **Free Trial**, solicitar uma **Temporary License** para avaliação ou adquirir uma **License** completa para uso em produção.
+### Licensanskaffning
+Du kan börja med en **Free Trial**, begära en **Temporary License** för utvärdering, eller köpa en full **License** för produktionsbruk.
 
-Inicialize o GroupDocs.Conversion no seu código Java:
+Initialize GroupDocs.Conversion in your Java code:
 
 ```java
 import com.groupdocs.conversion.*;
@@ -142,15 +142,15 @@ config.setLicensePath("path/to/license/file.lic");
 ConversionApi conversionApi = new ConversionApi(config);
 ```
 
-## Guia de Implementação
+## Implementeringsguide
 
-### Criando um Cache Personalizado Usando Redis
+### Skapa en anpassad cache med Redis
 
-#### Visão Geral
-Um cache Redis personalizado mantém os bytes do documento renderizado, permitindo recuperação instantânea em solicitações repetidas.
+#### Översikt
+En anpassad Redis‑cache lagrar renderade dokument‑byte, vilket möjliggör omedelbar hämtning vid upprepade förfrågningar.
 
-#### Configurando JedisPool
-`JedisPool` é um pool thread‑safe de conexões Redis reutilizáveis que minimiza a sobrecarga de sockets e melhora a taxa de transferência.
+#### Konfigurera JedisPool
+`JedisPool` är en trådsäker pool av återanvändbara Redis‑anslutningar som minimerar socket‑overhead och förbättrar genomströmning.
 
 ```java
 import redis.clients.jedis.JedisPool;
@@ -163,8 +163,8 @@ poolConfig.setMinIdle(2);                 // minimum idle connections
 JedisPool jedisPool = new JedisPool(poolConfig, "localhost", 6379);
 ```
 
-#### Armazenando e Recuperando Dados em Cache
-Os métodos auxiliares abaixo serializam um array de bytes para uma string Base64 para armazenamento seguro e o recuperam de volta para um array de bytes.
+#### Lagring och hämtning av cachad data
+Hjälpmetoderna nedan serialiserar en byte‑array till en Base64‑sträng för säker lagring och hämtar tillbaka den till en byte‑array.
 
 ```java
 import java.util.Base64;
@@ -196,8 +196,8 @@ public class RedisCacheHelper {
 }
 ```
 
-#### Integração com GroupDocs.Conversion
-Agora conecte o cache ao fluxo de trabalho de conversão. O método verifica o cache primeiro; se houver um miss, ele executa a conversão, armazena o resultado e retorna os bytes.
+#### Integration med GroupDocs.Conversion
+Koppla nu cachen till konverterings‑arbetsflödet. Metoden kontrollerar cachen först; om ett miss inträffar utför den konverteringen, lagrar resultatet och returnerar bytena.
 
 ```java
 import com.groupdocs.conversion.options.convertoptions.PdfConvertOptions;
@@ -233,58 +233,58 @@ public class DocumentService {
 }
 ```
 
-## Como implementar cache java redis?
-`ConversionApi` é a classe principal no GroupDocs.Conversion que executa operações de conversão de documentos.
+## Hur implementerar man java redis caching?
+`ConversionApi` är huvudklassen i GroupDocs.Conversion som utför dokumentkonverteringsoperationer.
 
-Carregue seu documento fonte, gere uma chave de cache determinística, procure-a no Redis e invoque `ConversionApi` apenas quando a chave estiver ausente. Esse padrão garante que cada conversão única seja realizada uma vez, depois servida a partir do cache durante a duração do TTL configurado.
+Läs in ditt källdokument, generera en deterministisk cache‑nyckel, slå upp den i Redis, och anropa endast `ConversionApi` när nyckeln saknas. Detta mönster garanterar att varje unik konvertering utförs en gång, och sedan levereras från cache under den konfigurerade TTL‑perioden.
 
-## Dicas de Solução de Problemas
-- Verifique se o servidor Redis está acessível (`redis-cli ping` deve retornar `PONG`).  
-- Certifique-se de que o host e a porta do `JedisPool` correspondam à sua implantação Redis.  
-- Envolva chamadas de cache em blocos try‑catch para lidar com falhas de conectividade sem interromper o fluxo de conversão.  
-- Monitore a memória do Redis (`INFO memory`) e defina políticas `maxmemory` (ex.: `volatile-lru`) para expulsar entradas antigas de forma graciosa.  
-- Se encontrar `OutOfMemoryError` na JVM, aumente o tamanho do heap ou habilite `-XX:+UseCompressedOops`.
+## Felsökningstips
+- Verifiera att Redis‑servern är nåbar (`redis-cli ping` bör returnera `PONG`).  
+- Säkerställ att `JedisPool`‑host och -port matchar din Redis‑distribution.  
+- Omge cache‑anrop med try‑catch‑block för att hantera anslutningsproblem utan att avbryta konverteringsflödet.  
+- Övervaka Redis‑minne (`INFO memory`) och sätt `maxmemory`‑policyer (t.ex. `volatile-lru`) för att elegant rensa gamla poster.  
+- Om du får `OutOfMemoryError` på JVM:n, öka heap‑storleken eller aktivera `-XX:+UseCompressedOops`.
 
-## Aplicações Práticas
+## Praktiska tillämpningar
 
-1. **Portais de alto tráfego** – Sirva PDFs solicitados com frequência (catálogos, whitepapers) instantaneamente.  
-2. **DMS empresarial** – Reduza a carga quando usuários visualizam repetidamente os mesmos contratos ou documentos de política.  
-3. **E‑commerce** – Cacheie faturas geradas ou catálogos de produtos para acelerar o checkout.  
-4. **Plataformas de aprendizado** – Entregue notas de aula e e‑books sem reprocessar a cada solicitação de estudante.  
-5. **Serviços jurídicos** – Acelere a distribuição de processos enquanto mantém baixos custos de armazenamento.
+1. **Högtrafikerade portaler** – Leverera ofta begärda PDF‑filer (kataloger, whitepapers) omedelbart.  
+2. **Enterprise DMS** – Minska belastningen när användare upprepade gånger visar samma kontrakt eller policydokument.  
+3. **E‑commerce** – Cacha genererade fakturor eller produktkataloger för att påskynda kassan.  
+4. **Lärandeplattformar** – Leverera föreläsningsanteckningar och e‑böcker utan att rendera om för varje studentförfrågan.  
+5. **Juridiska tjänster** – Snabba upp distributionen av ärendefiler samtidigt som lagringskostnaderna hålls låga.
 
-## Considerações de Desempenho
+## Prestandaöverväganden
 
-- **Ajuste o Redis** – Modifique `maxmemory`, escolha uma política de expulsão como `allkeys-lru` e defina valores de `timeout` adequados ao seu padrão de tráfego.  
-- **Acompanhe as taxas de acerto/miss do cache** – Use `INFO stats` ou os contadores `keyspace_hits` / `keyspace_misses` do Redis para afinar os TTLs.  
-- **Dimensionamento do heap JVM** – Garanta que o heap comporte os buffers do GroupDocs; uma regra prática é 1 GB de heap para cada 100 MB de carga de conversão simultânea.  
-- **Conversões em lote** – Ao converter muitos arquivos, reutilize uma única instância `Jedis` por thread para minimizar a rotatividade de sockets.
+- **Optimera Redis** – Justera `maxmemory`, välj en eviktionspolicy som `allkeys-lru`, och sätt lämpliga `timeout`‑värden baserat på ditt trafikmönster.  
+- **Spåra cache‑träff/miss‑förhållanden** – Använd `INFO stats` eller Redis `keyspace_hits` / `keyspace_misses` räknare för att finjustera TTL‑värden.  
+- **JVM‑heap‑storlek** – Säkerställ att heapen kan rymma GroupDocs‑buffertar; en tumregel är 1 GB heap för varje 100 MB av samtidiga konverteringspayloads.  
+- **Batch‑konverteringar** – När du konverterar många filer, återanvänd en enda `Jedis`‑instans per tråd för att minimera socket‑slitage.
 
-## Perguntas Frequentes
+## Vanliga frågor
 
-**Q: Posso usar esta abordagem com outros formatos de saída do GroupDocs?**  
-A: Absolutamente. O mesmo padrão de cache funciona para DOCX, HTML, imagens e mais – basta mudar o tipo `ConvertOptions`.
+**Q: Kan jag använda detta tillvägagångssätt med andra GroupDocs‑utdataformat?**  
+A: Absolut. Samma cachningsmönster fungerar för DOCX, HTML, bilder och mer – ändra bara `ConvertOptions`‑typen.
 
-**Q: Como escolher uma boa chave de cache?**  
-A: Combine o caminho do arquivo fonte, as opções de conversão e quaisquer identificadores de versão. Isso garante unicidade por configuração.
+**Q: Hur väljer jag en bra cache‑nyckel?**  
+A: Kombinera källfilens sökväg, konverteringsalternativ och eventuella versionsidentifierare. Detta garanterar unikhet per konfiguration.
 
-**Q: E se um documento mudar depois de ser cacheado?**  
-A: Invalide o cache manualmente (ex.: exclua a chave) ou use um TTL mais curto para que dados obsoletos expirem rapidamente.
+**Q: Vad händer om ett dokument ändras efter att det har cachats?**  
+A: Invalidera cachen manuellt (t.ex. ta bort nyckeln) eller använd en kortare TTL så att föråldrad data går ut snabbt.
 
-**Q: O Redis é a única opção de cache?**  
-A: Não, mas o Redis oferece baixa latência, TTL embutido e amplo suporte a clientes Java, tornando‑o uma escolha popular para este cenário.
+**Q: Är Redis det enda alternativet för cachning?**  
+A: Nej, men Redis erbjuder låg latens, inbyggd TTL och brett Java‑klientstöd, vilket gör det till ett populärt val för detta scenario.
 
-**Q: Isso aumenta o uso de memória no servidor de aplicação?**  
-A: Mínimo. O trabalho pesado é feito pelo Redis; a aplicação mantém apenas conexões de curta duração via Jedis.
+**Q: Ökar detta minnesanvändningen på applikationsservern?**  
+A: Minimalt. Det tunga arbetet utförs av Redis; appen håller bara kortlivade anslutningar via Jedis.
 
-## Conclusão
-Agora você tem um tutorial completo de **java redis caching** que demonstra como cachear documentos usando Redis e GroupDocs.Conversion. Ao persistir a saída renderizada no Redis, você **aumentará o desempenho de renderização**, **reduzirá o tempo de conversão** e proporcionará uma experiência mais fluida aos usuários finais. Experimente diferentes valores de TTL, monitore métricas de cache e estenda o padrão a outros formatos de documento à medida que sua aplicação cresce.
+## Slutsats
+Du har nu en komplett **java redis caching**‑handledning som visar hur du cachar dokument med Redis och GroupDocs.Conversion. Genom att lagra renderad output i Redis kommer du att **förbättra renderingsprestanda**, **reducera konverteringstiden**, och ge en smidigare upplevelse för slutanvändarna. Experimentera med olika TTL‑värden, övervaka cache‑metrik och utöka mönstret till andra dokumentformat när din applikation växer.
 
 ---
 
-**Última atualização:** 2026-07-19  
-**Testado com:** GroupDocs.Conversion 25.2, Jedis 4.2.3  
-**Autor:** GroupDocs
+**Last Updated:** 2026-07-19  
+**Tested With:** GroupDocs.Conversion 25.2, Jedis 4.2.3  
+**Author:** GroupDocs
 
 ```xml
 <repositories>
@@ -385,8 +385,8 @@ public class DocumentConversion {
 }
 ```
 
-## Tutoriais Relacionados
+## Relaterade handledningar
 
-- [Implementar Cache Personalizado Java – Cache de Conversão GroupDocs](/conversion/java/cache-management/)
-- [Como Usar Cache Redis em Java com GroupDocs.Conversion](/conversion/java/cache-management/redis-cache-java-groupdocs-conversion-guide/)
-- [Como Cachear Arquivos em Java com GroupDocs.Conversion – Guia Abrangente para Conversão Eficiente de Documentos](/conversion/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/)
+- [Implementera anpassad cache Java – GroupDocs Conversion Cache](/conversion/java/cache-management/)
+- [Hur man använder Redis‑cache i Java med GroupDocs.Conversion](/conversion/java/cache-management/redis-cache-java-groupdocs-conversion-guide/)
+- [Hur man cachar filer i Java med GroupDocs.Conversion – En omfattande guide för effektiv dokumentkonvertering](/conversion/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/)
