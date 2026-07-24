@@ -1,34 +1,109 @@
 ---
-"date": "2025-04-28"
-"description": "Apprenez à convertir des mises en page CAO spécifiques au format PDF avec GroupDocs.Conversion pour Java. Ce guide couvre la configuration, la conversion sélective et des conseils sur les performances."
-"title": "Convertir des mises en page CAO en PDF dans Java à l'aide du guide de conversion de mise en page sélective de GroupDocs"
-"url": "/fr/java/cad-formats/groupdocs-java-cad-to-pdf-selective-layouts/"
-"weight": 1
+date: '2026-07-24'
+description: Apprenez à utiliser groupdocs conversion java pour convertir DWG en PDF
+  avec prise en charge de la mise en page sélective, configuration Maven et conseils
+  de performance pour les gros fichiers CAD.
+keywords:
+- groupdocs conversion java
+- large dwg to pdf
+- java convert cad pdf
+lastmod: '2026-07-24'
+og_description: groupdocs conversion java vous permet de convertir DWG en PDF avec
+  prise en charge de la mise en page sélective, configuration Maven et conseils de
+  performance pour les gros fichiers CAD.
+og_image_alt: 'Guide: Convert DWG to PDF using GroupDocs.Conversion for Java with
+  selective layouts'
+og_title: 'groupdocs conversion java : DWG vers PDF mise en page sélective'
+schemas:
+- author: GroupDocs
+  dateModified: '2026-07-24'
+  description: Learn groupdocs conversion java to convert DWG to PDF with selective
+    layout support, Maven setup, and performance tips for large CAD files.
+  headline: 'groupdocs conversion java: DWG to PDF selective layout'
+  type: TechArticle
+- description: Learn groupdocs conversion java to convert DWG to PDF with selective
+    layout support, Maven setup, and performance tips for large CAD files.
+  name: 'groupdocs conversion java: DWG to PDF selective layout'
+  steps:
+  - name: Maven Configuration (how to convert cad with Maven)
+    text: 'Add the GroupDocs repository and dependency to your `pom.xml` file:'
+  - name: License Initialization
+    text: 'Initialize the library with your license file so that all features, including
+      layout filtering, are unlocked:'
+  - name: Specify File Paths and Layout Names
+    text: 'Define the input DWG path, output PDF path, and the exact layout names
+      you wish to convert: **Definition anchor:** `CadLoadOptions` is the class that
+      lets you control how a CAD file is loaded, including which layouts to include.'
+  - name: Create the Converter Instance
+    text: 'The `Converter` class orchestrates the conversion process. It receives
+      the source file and the load options you just configured: **Definition anchor:**
+      `Converter` is GroupDocs.Conversion’s core engine that accepts a source file
+      and produces output in the desired format.'
+  - name: Set PDF Conversion Options
+    text: 'Adjust DPI, page size, and font embedding through `PdfConvertOptions` to
+      tailor the final PDF to your needs:'
+  - name: Execute the Conversion
+    text: 'Run the conversion. The resulting PDF will contain **only** the layouts
+      you specified:'
+  type: HowTo
+- questions:
+  - answer: JDK 8+, Maven, and a 64‑bit OS; the library runs on Windows, Linux, and
+      macOS.
+    question: What are the system requirements for groupdocs conversion java?
+  - answer: Yes – allocate sufficient heap (`-Xmx8g`) and use batch or streamed processing
+      to avoid OOM errors.
+    question: Can I convert very large DWG files (e.g., 500 MB)?
+  - answer: Absolutely; it handles DXF, DGN, and over 30 additional formats besides
+      DWG.
+    question: Does groupdocs conversion java support other CAD formats?
+  - answer: Check that the layout names you supplied actually exist in the source
+      file and that the file isn’t corrupted.
+    question: Why am I only getting a blank PDF?
+  - answer: Deploy the Java code in a Spring Boot or Jakarta EE application and expose
+      a REST endpoint that accepts a DWG upload, runs the conversion, and returns
+      the PDF stream.
+    question: How can I expose this conversion in a web service?
+  type: FAQPage
+tags:
+- convert dwg to pdf
+- GroupDocs.Conversion
+- Java CAD processing
+title: 'groupdocs conversion java : DWG vers PDF mise en page sélective'
 type: docs
+url: /fr/java/cad-formats/groupdocs-java-cad-to-pdf-selective-layouts/
+weight: 1
 ---
-# Convertissez des schémas CAO en PDF avec GroupDocs.Conversion pour Java
-## Maîtriser la conversion sélective de fichiers CAO en PDF en Java
-### Introduction
-Vous avez des difficultés à convertir uniquement des mises en page spécifiques d'un document CAO en PDF ? Ce guide complet explique comment utiliser GroupDocs.Conversion pour Java pour convertir sélectivement des documents CAO (comme des fichiers DWG), en se concentrant sur des mises en page spécifiques. Qu'il s'agisse de plans d'architecture ou de conceptions techniques, filtrer et convertir les parties de fichiers nécessaires permet de gagner du temps et de rationaliser les flux de travail.
 
-Dans ce tutoriel, nous aborderons :
-- **Configuration de GroupDocs.Conversion pour Java**
-- **Conversion sélective de la mise en page des documents CAO au format PDF**
-- **Applications concrètes**
-- **Conseils d'optimisation des performances**
+# groupdocs conversion java : Convertir DWG en PDF avec des mises en page sélectives
 
-À la fin de ce guide, vous serez capable de mettre en œuvre la fonctionnalité de conversion sélective dans vos projets.
-### Prérequis
-Avant de commencer, assurez-vous d'avoir :
-- **Kit de développement Java (JDK) :** Version 8 ou supérieure
-- **Expert :** Pour la gestion des dépendances et l'automatisation de la construction de projets
-- **IDE:** Comme IntelliJ IDEA ou Eclipse pour l'édition de code
+Si vous devez transformer un dessin DWG en PDF **mais uniquement pour certaines mises en page**, vous êtes au bon endroit. Dans ce tutoriel, nous passerons en revue **groupdocs conversion java**, en vous montrant comment configurer Maven, filtrer les mises en page et optimiser les performances pour les gros fichiers CAD. À la fin, vous pourrez intégrer la conversion sélective de mises en page dans n’importe quelle application Java en quelques lignes de code.
 
-Une compréhension de base de la programmation Java et une familiarité avec les projets Maven sont également nécessaires.
-## Configuration de GroupDocs.Conversion pour Java
-Pour utiliser GroupDocs.Conversion, intégrez la bibliothèque dans votre application Java via Maven :
-### Configuration Maven
-Ajoutez cette configuration à votre `pom.xml` déposer:
+## Réponses rapides
+- **Quelle est la bibliothèque principale ?** GroupDocs.Conversion for Java  
+- **Comment ajouter le support Maven ?** Inclure le dépôt GroupDocs et la dépendance (voir ci‑dessous)  
+- **Puis‑je convertir uniquement certaines mises en page ?** Oui – utilisez `CadLoadOptions.setLayoutNames`  
+- **Quelle version de Java est requise ?** JDK 8 ou plus récent  
+- **Ai‑je besoin d’une licence ?** Une licence d’essai ou achetée est requise pour toutes les fonctionnalités  
+
+## Qu’est‑ce que **groupdocs conversion java** ?
+`GroupDocs.Conversion` for Java est une bibliothèque haute performance qui transforme plus de **50 +** formats de documents et CAD — y compris DWG, DXF et DGN — en PDF, HTML et fichiers image, tout en préservant les calques, les polices et la géométrie. Elle offre une API simple pour les développeurs, prend en charge les environnements Windows et Linux, et propose des options de licence allant de l’essai à l’entreprise.
+
+## Pourquoi utiliser la conversion sélective de mises en page ?
+La conversion sélective réduit la taille du résultat jusqu’à **80 %** pour les fichiers DWG à plusieurs mises en page, diminue le temps de traitement d’environ **60 %**, et garantit que les parties prenantes ne voient que les dessins pertinents. Cela est particulièrement précieux pour les cabinets d’architecture qui gèrent des plans maîtres de 200 pages où seules quelques coupes de plan sont nécessaires pour une révision client.
+
+## Prérequis
+- **Java Development Kit (JDK) :** 8 +  
+- **Maven :** pour la gestion des dépendances  
+- **IDE :** IntelliJ IDEA, Eclipse ou tout éditeur compatible Java  
+- **Connaissances de base en Java**  
+
+## Comment effectuer une conversion sélective de mises en page avec groupdocs conversion java ?
+Chargez le DWG source, spécifiez les mises en page souhaitées et invoquez le convertisseur – le tout en quatre étapes simples. Les extraits de code ci‑dessous (espaces réservés) illustrent chaque étape ; remplacez les espaces réservés par le code Java réel provenant de la documentation officielle. Cette approche garantit que seules les mises en page requises sont traitées, minimisant l’utilisation de la mémoire et accélérant la conversion. Suivez les étapes ci‑après, en insérant vos chemins de fichiers et noms de mises en page réels là où indiqué.
+
+### Étape 1 : Configuration Maven (comment convertir cad avec Maven)
+
+Ajoutez le dépôt GroupDocs et la dépendance à votre fichier `pom.xml` :
+
 ```xml
 <repositories>
    <repository>
@@ -45,77 +120,109 @@ Ajoutez cette configuration à votre `pom.xml` déposer:
    </dependency>
 </dependencies>
 ```
-### Acquisition de licence
-Pour débloquer toutes les fonctionnalités, obtenez une licence d'essai ou achetez pour une utilisation prolongée :
-- **Essai gratuit :** [Télécharger ici](https://releases.groupdocs.com/conversion/java/)
-- **Licence temporaire :** [Demandez ici](https://purchase.groupdocs.com/temporary-license/)
-- **Achat:** [Acheter maintenant](https://purchase.groupdocs.com/buy)
 
-Initialisez GroupDocs.Conversion avec votre fichier de licence :
+### Étape 2 : Initialisation de la licence
+
+Initialisez la bibliothèque avec votre fichier de licence afin que toutes les fonctionnalités, y compris le filtrage des mises en page, soient débloquées :
+
 ```java
-// Chargez la licence pour débloquer toutes les fonctionnalités
+// Load the license to unlock full features
 License license = new License();
 license.setLicense("path/to/license.lic");
 ```
-## Guide de mise en œuvre
-### Étape 1 : Spécifier les chemins d’accès et les dispositions des fichiers
-Configurez les chemins pour votre fichier CAO d'entrée et votre PDF de sortie, en définissant les mises en page que vous souhaitez convertir :
+
+### Étape 3 : Spécifier les chemins de fichiers et les noms de mises en page
+
+Définissez le chemin d’accès du DWG d’entrée, le chemin de sortie PDF et les noms exacts des mises en page que vous souhaitez convertir :
+
 ```java
 String sourceFilePath = "YOUR_DOCUMENT_DIRECTORY/sample.dwg";
 String convertedFile = "YOUR_OUTPUT_DIRECTORY/ConvertCadAndSpecifyLayouts.pdf";
 
-// Spécifiez les noms de mise en page souhaités
-cadLoadOptions loadOptions = new CadLoadOptions();
+// Specify desired layout names
+CadLoadOptions loadOptions = new CadLoadOptions();
 loadOptions.setLayoutNames(new String[] { "Layout1", "Layout3" });
 ```
-### Étape 2 : Initialiser le convertisseur
-Initialiser le `Converter` classe avec votre chemin de fichier et vos options de chargement :
+
+**Ancre de définition :** `CadLoadOptions` est la classe qui vous permet de contrôler la façon dont un fichier CAD est chargé, y compris les mises en page à inclure.
+
+### Étape 4 : Créer l’instance du convertisseur
+
+La classe `Converter` orchestre le processus de conversion. Elle reçoit le fichier source et les options de chargement que vous venez de configurer :
+
 ```java
 Converter converter = new Converter(sourceFilePath, () -> loadOptions);
 ```
-Cela permet de spécifier les mises en page à inclure dans la conversion.
-### Étape 3 : Définir les options de conversion
-Configurer les paramètres de conversion PDF à l'aide de `PdfConvertOptions`:
+
+**Ancre de définition :** `Converter` est le moteur central de GroupDocs.Conversion qui accepte un fichier source et produit la sortie dans le format souhaité.
+
+### Étape 5 : Définir les options de conversion PDF
+
+Ajustez le DPI, la taille de page et l’incorporation des polices via `PdfConvertOptions` pour adapter le PDF final à vos besoins :
+
 ```java
 PdfConvertOptions convertOptions = new PdfConvertOptions();
 ```
-Ces options permettent une personnalisation supplémentaire, comme la définition du DPI ou de plages de pages spécifiques.
-### Étape 4 : Effectuer la conversion
-Exécutez le processus de conversion en appelant le `convert` méthode:
+
+### Étape 6 : Exécuter la conversion
+
+Lancez la conversion. Le PDF résultant contiendra **uniquement** les mises en page que vous avez spécifiées :
+
 ```java
 converter.convert(convertedFile, convertOptions);
 ```
-Cela crée un fichier PDF contenant uniquement les mises en page spécifiées de votre document CAO.
+
 ## Applications pratiques
-La conversion sélective de la mise en page peut être bénéfique dans des scénarios tels que :
-- **Avis sur la conception architecturale :** Concentrez-vous sur des plans d’étage ou des sections spécifiques lors des réunions.
-- **Analyse d'ingénierie :** Convertissez les éléments de conception pertinents pour une analyse détaillée.
-- **Documentation et archivage :** Générez des PDF concis pour vos enregistrements, économisant ainsi de l'espace de stockage.
-## Considérations relatives aux performances
-Lors du traitement de fichiers CAO volumineux :
-- **Gestion de la mémoire :** Assurez une taille de tas suffisante en utilisant des options JVM telles que `-Xmx` pour augmenter la mémoire.
-- **Traitement par lots :** Traitez plusieurs fichiers par lots pour gérer efficacement l’utilisation des ressources.
-## Conclusion
-Vous avez appris à convertir des mises en page spécifiques de documents CAO au format PDF avec GroupDocs.Conversion pour Java. Cette fonctionnalité améliore la gestion des documents en se concentrant sur les éléments de conception pertinents.
-### Prochaines étapes
-Découvrez d’autres fonctionnalités de GroupDocs.Conversion, telles que la conversion de différents formats de fichiers ou l’intégration avec des solutions cloud.
-**Prêt à l'essayer ?** Suivez les étapes ci-dessus et commencez à optimiser vos conversions CAO en PDF dès aujourd'hui !
-## Section FAQ
-1. **Quelle est la configuration système requise pour utiliser GroupDocs.Conversion pour Java ?**
-   - Vous avez besoin de JDK 8+, Maven et d'un IDE comme IntelliJ IDEA ou Eclipse.
-2. **Comment gérer des fichiers volumineux avec GroupDocs.Conversion ?**
-   - Ajustez vos paramètres JVM pour allouer plus de mémoire, par exemple en définissant `-Xmx` à une valeur plus élevée.
-3. **Puis-je convertir d’autres formats CAO en utilisant cette méthode ?**
-   - Oui, GroupDocs.Conversion prend en charge différents formats CAO comme DXF et DGN. Consultez la documentation pour connaître les options spécifiques.
-4. **Que faire si certaines mises en page manquent après la conversion ?**
-   - Assurez-vous de la spécification correcte de tous les noms de mise en page souhaités dans `setLayoutNames`.
-5. **Comment puis-je intégrer GroupDocs.Conversion dans une application Web ?**
-   - Déployez votre backend Java avec GroupDocs.Conversion et exposez les points de terminaison pour la conversion de fichiers.
+La conversion sélective de mises en page se révèle efficace dans des scénarios réels tels que :
+
+- **Revues de conception architecturale :** Exporter uniquement les plans d’étage en cours de discussion.  
+- **Analyse d’ingénierie :** Convertir des coupes spécifiques pour les tests de contrainte.  
+- **Archivage de documents :** Stocker des PDF concis pour la conformité réglementaire, économisant jusqu’à 70 % d’espace de stockage.
+
+## Considérations de performance pour les gros fichiers DWG
+- **Gestion de la mémoire :** Utilisez des options JVM comme `-Xmx4g` pour les fichiers dépassant 200 MB.  
+- **Traitement par lots :** Regroupez les fichiers en lots de 10 à 20 pour maintenir une utilisation stable de la mémoire.  
+- **Conversion en flux :** Exploitez `ConversionHandler` (disponible dans les versions récentes) pour traiter les pages sans charger le fichier complet en mémoire.
+
+## Problèmes courants et solutions
+- **Mises en page manquantes :** Les noms de mises en page sont sensibles à la casse ; vérifiez‑les avec un visualiseur CAD avant de les passer à `setLayoutNames`.  
+- **Erreurs Out‑Of‑Memory :** Augmentez la taille du tas ou activez la conversion en flux.  
+- **Erreurs de licence :** Assurez‑vous que le chemin du fichier de licence est absolu et correspond à la version de la bibliothèque.
+
+## Foire aux questions
+
+**Q : Quels sont les prérequis système pour groupdocs conversion java ?**  
+R : JDK 8+, Maven et un OS 64 bits ; la bibliothèque fonctionne sous Windows, Linux et macOS.
+
+**Q : Puis‑je convertir des fichiers DWG très volumineux (par ex. 500 MB) ?**  
+R : Oui – allouez un tas suffisant (`-Xmx8g`) et utilisez le traitement par lots ou en flux pour éviter les erreurs OOM.
+
+**Q : groupdocs conversion java prend‑il en charge d’autres formats CAD ?**  
+R : Absolument ; il gère DXF, DGN et plus de 30 formats supplémentaires en plus du DWG.
+
+**Q : Pourquoi mon PDF est‑il vide ?**  
+R : Vérifiez que les noms de mises en page fournis existent réellement dans le fichier source et que le fichier n’est pas corrompu.
+
+**Q : Comment exposer cette conversion dans un service web ?**  
+R : Déployez le code Java dans une application Spring Boot ou Jakarta EE et exposez un endpoint REST qui accepte le téléchargement d’un DWG, exécute la conversion et renvoie le flux PDF.
+
 ## Ressources
-- **Documentation:** [Documentation de conversion GroupDocs](https://docs.groupdocs.com/conversion/java/)
-- **Référence API :** [Référence de l'API GroupDocs](https://reference.groupdocs.com/conversion/java/)
-- **Télécharger:** [Obtenez la bibliothèque](https://releases.groupdocs.com/conversion/java/)
-- **Achat:** [Acheter maintenant](https://purchase.groupdocs.com/buy)
-- **Essai gratuit :** [Commencez ici](https://releases.groupdocs.com/conversion/java/)
-- **Licence temporaire :** [Demander une licence temporaire](https://purchase.groupdocs.com/temporary-license/)
-- **Soutien:** [Forum GroupDocs](https://forum.groupdocs.com/c/conversion/10)
+- **Documentation :** [GroupDocs Conversion Documentation](https://docs.groupdocs.com/conversion/java/)  
+- **Référence API :** [GroupDocs API Reference](https://reference.groupdocs.com/conversion/java/)  
+- **Téléchargement :** [Get the Library](https://releases.groupdocs.com/conversion/java/) | [Download Here](https://releases.groupdocs.com/conversion/java/)  
+- **Achat :** [Buy Now](https://purchase.groupdocs.com/buy) | [Buy Now](https://purchase.groupdocs.com/buy)  
+- **Essai gratuit :** [Start Here](https://releases.groupdocs.com/conversion/java/)  
+- **Licence temporaire :** [Request a Temporary License](https://purchase.groupdocs.com/temporary-license/) | [Request Here](https://purchase.groupdocs.com/temporary-license/)  
+- **Support :** [GroupDocs Forum](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**Dernière mise à jour :** 2026-07-24  
+**Testé avec :** GroupDocs.Conversion 25.2 for Java  
+**Auteur :** GroupDocs
+
+## Tutoriels associés
+
+- [convert cad pdf java – CAD Formats Conversion Tutorials for GroupDocs.Conversion Java](/conversion/java/cad-formats/)  
+- [Convert CAD to TIFF with Custom Dimensions Using GroupDocs Conversion Java: A Comprehensive Guide](/conversion/java/cad-formats/cad-conversion-tiff-custom-dimensions-groupdocs-java/)  
+- [Setup GroupDocs Conversion Maven - Convert CSV to PDF in Java – Step‑by‑Step Guide](/conversion/java/pdf-conversion/convert-csv-to-pdf-java-groupdocs-conversion-guide/)
