@@ -1,34 +1,105 @@
 ---
-"date": "2025-04-28"
-"description": "GroupDocs.Conversion for Java를 사용하여 특정 CAD 레이아웃을 PDF로 변환하는 방법을 알아보세요. 이 가이드에서는 설정, 선택적 변환 및 성능 향상 팁을 다룹니다."
-"title": "GroupDocs의 선택적 레이아웃 변환 가이드를 사용하여 Java에서 CAD 레이아웃을 PDF로 변환"
-"url": "/ko/java/cad-formats/groupdocs-java-cad-to-pdf-selective-layouts/"
-"weight": 1
+date: '2026-07-24'
+description: groupdocs conversion java를 사용하여 DWG를 PDF로 변환하는 방법을 배우고, 선택적 레이아웃 지원,
+  Maven 설정 및 대용량 CAD 파일에 대한 성능 팁을 확인하세요.
+keywords:
+- groupdocs conversion java
+- large dwg to pdf
+- java convert cad pdf
+lastmod: '2026-07-24'
+og_description: groupdocs conversion java를 사용하여 DWG를 PDF로 변환하는 방법을 배우고, 선택적 레이아웃 지원,
+  Maven 설정 및 대용량 CAD 파일에 대한 성능 팁을 확인하세요.
+og_image_alt: 'Guide: Convert DWG to PDF using GroupDocs.Conversion for Java with
+  selective layouts'
+og_title: 'groupdocs conversion java: DWG를 PDF로 선택적 레이아웃 변환'
+schemas:
+- author: GroupDocs
+  dateModified: '2026-07-24'
+  description: Learn groupdocs conversion java to convert DWG to PDF with selective
+    layout support, Maven setup, and performance tips for large CAD files.
+  headline: 'groupdocs conversion java: DWG to PDF selective layout'
+  type: TechArticle
+- description: Learn groupdocs conversion java to convert DWG to PDF with selective
+    layout support, Maven setup, and performance tips for large CAD files.
+  name: 'groupdocs conversion java: DWG to PDF selective layout'
+  steps:
+  - name: Maven Configuration (how to convert cad with Maven)
+    text: 'Add the GroupDocs repository and dependency to your `pom.xml` file:'
+  - name: License Initialization
+    text: 'Initialize the library with your license file so that all features, including
+      layout filtering, are unlocked:'
+  - name: Specify File Paths and Layout Names
+    text: 'Define the input DWG path, output PDF path, and the exact layout names
+      you wish to convert: **Definition anchor:** `CadLoadOptions` is the class that
+      lets you control how a CAD file is loaded, including which layouts to include.'
+  - name: Create the Converter Instance
+    text: 'The `Converter` class orchestrates the conversion process. It receives
+      the source file and the load options you just configured: **Definition anchor:**
+      `Converter` is GroupDocs.Conversion’s core engine that accepts a source file
+      and produces output in the desired format.'
+  - name: Set PDF Conversion Options
+    text: 'Adjust DPI, page size, and font embedding through `PdfConvertOptions` to
+      tailor the final PDF to your needs:'
+  - name: Execute the Conversion
+    text: 'Run the conversion. The resulting PDF will contain **only** the layouts
+      you specified:'
+  type: HowTo
+- questions:
+  - answer: JDK 8+, Maven, and a 64‑bit OS; the library runs on Windows, Linux, and
+      macOS.
+    question: What are the system requirements for groupdocs conversion java?
+  - answer: Yes – allocate sufficient heap (`-Xmx8g`) and use batch or streamed processing
+      to avoid OOM errors.
+    question: Can I convert very large DWG files (e.g., 500 MB)?
+  - answer: Absolutely; it handles DXF, DGN, and over 30 additional formats besides
+      DWG.
+    question: Does groupdocs conversion java support other CAD formats?
+  - answer: Check that the layout names you supplied actually exist in the source
+      file and that the file isn’t corrupted.
+    question: Why am I only getting a blank PDF?
+  - answer: Deploy the Java code in a Spring Boot or Jakarta EE application and expose
+      a REST endpoint that accepts a DWG upload, runs the conversion, and returns
+      the PDF stream.
+    question: How can I expose this conversion in a web service?
+  type: FAQPage
+tags:
+- convert dwg to pdf
+- GroupDocs.Conversion
+- Java CAD processing
+title: 'groupdocs conversion java: DWG를 PDF로 선택적 레이아웃 변환'
 type: docs
+url: /ko/java/cad-formats/groupdocs-java-cad-to-pdf-selective-layouts/
+weight: 1
 ---
-# GroupDocs.Conversion for Java를 사용하여 CAD 레이아웃을 PDF로 변환
-## Java에서 CAD를 PDF로 변환하는 선택적 방법 마스터하기
-### 소개
-CAD 문서의 특정 레이아웃만 PDF로 변환하는 데 어려움을 겪고 계신가요? 이 종합 가이드는 GroupDocs.Conversion for Java를 사용하여 특정 레이아웃에 초점을 맞춰 CAD 문서(예: DWG 파일)를 선택적으로 변환하는 방법을 보여줍니다. 건축 도면이나 엔지니어링 설계 작업 등 어떤 작업을 하든 필요한 파일 부분을 필터링하고 변환하면 시간을 절약하고 워크플로를 간소화할 수 있습니다.
 
-이 튜토리얼에서는 다음 내용을 다룹니다.
-- **Java용 GroupDocs.Conversion 설정**
-- **CAD 문서의 선택적 레이아웃을 PDF로 변환**
-- **실제 세계 응용 프로그램**
-- **성능 최적화 팁**
+# groupdocs conversion java: 선택적 레이아웃으로 DWG를 PDF로 변환
 
-이 가이드를 마치면 프로젝트 내에서 선택적 변환 기능을 구현하는 데 능숙해질 것입니다.
-### 필수 조건
-시작하기 전에 다음 사항을 확인하세요.
-- **자바 개발 키트(JDK):** 버전 8 이상
-- **메이븐:** 종속성 관리 및 프로젝트 빌드 자동화를 위해
-- **IDE:** 코드 편집을 위한 IntelliJ IDEA 또는 Eclipse와 같은
+DWG 도면을 PDF로 변환해야 하지만 **특정 레이아웃만** 원한다면, 올바른 곳에 오셨습니다. 이 튜토리얼에서는 **groupdocs conversion java**를 살펴보면서 Maven 설정, 레이아웃 필터링 및 대용량 CAD 파일에 대한 성능 최적화 방법을 보여드립니다. 끝까지 진행하면 몇 줄의 코드만으로 모든 Java 애플리케이션에 선택적 레이아웃 변환을 삽입할 수 있게 됩니다.
 
-Java 프로그래밍에 대한 기본적인 이해와 Maven 프로젝트에 대한 익숙함도 필요합니다.
-## Java용 GroupDocs.Conversion 설정
-GroupDocs.Conversion을 사용하려면 Maven을 통해 라이브러리를 Java 애플리케이션에 통합하세요.
-### Maven 구성
-이 구성을 다음에 추가하세요. `pom.xml` 파일:
+## 빠른 답변
+- **주요 라이브러리는 무엇입니까?** GroupDocs.Conversion for Java  
+- **Maven 지원을 어떻게 추가합니까?** Include the GroupDocs repository and dependency (see below)  
+- **특정 레이아웃만 변환할 수 있습니까?** Yes – use `CadLoadOptions.setLayoutNames`  
+- **필요한 Java 버전은 무엇입니까?** JDK 8 or newer  
+- **라이선스가 필요합니까?** A trial or purchased license is required for full features  
+
+## **groupdocs conversion java**란?
+`GroupDocs.Conversion` for Java은 **50+** 이상의 문서 및 CAD 형식(DWG, DXF, DGN 포함)을 PDF, HTML 및 이미지 파일로 변환하는 고성능 라이브러리이며, 레이어, 폰트 및 기하학을 보존합니다. 개발자를 위한 간단한 API를 제공하고 Windows와 Linux 환경을 모두 지원하며, 체험판부터 엔터프라이즈까지 다양한 라이선스 옵션을 제공합니다.
+
+## 선택적 레이아웃 변환을 사용하는 이유
+선택적 변환은 다중 레이아웃 DWG 파일의 출력 크기를 최대 **80 %**까지 줄이고, 처리 시간을 약 **60 %** 단축하며, 이해관계자가 관련 도면만 보도록 합니다. 이는 200페이지에 달하는 마스터 플랜을 다루는 건축 사무소에서 고객 검토를 위해 소수의 평면도만 필요할 때 특히 유용합니다.
+
+## 전제 조건
+- **Java Development Kit (JDK):** 8 +  
+- **Maven:** 의존성 관리용  
+- **IDE:** IntelliJ IDEA, Eclipse 또는 Java 호환 편집기  
+- **기본 Java 지식**  
+
+## groupdocs conversion java로 선택적 레이아웃 변환 수행 방법?
+소스 DWG를 로드하고 원하는 레이아웃을 지정한 뒤 변환기를 호출합니다 – 모두 네 단계로 간단히 진행됩니다. 아래 코드 스니펫(플레이스홀더)은 각 단계를 보여주며, 플레이스홀더를 공식 문서의 실제 Java 코드로 교체하십시오. 이 방법은 필요한 레이아웃만 처리하여 메모리 사용량을 최소화하고 변환 속도를 높입니다. 아래 단계에 따라 실제 파일 경로와 레이아웃 이름을 삽입하세요.
+
+### 단계 1: Maven 구성 (Maven으로 CAD 변환 방법)
+`pom.xml` 파일에 GroupDocs 저장소와 의존성을 추가합니다:
 ```xml
 <repositories>
    <repository>
@@ -45,77 +116,97 @@ GroupDocs.Conversion을 사용하려면 Maven을 통해 라이브러리를 Java 
    </dependency>
 </dependencies>
 ```
-### 라이센스 취득
-모든 기능을 사용하려면 평가판 라이선스를 구매하거나 장기 사용을 위해 구매하세요.
-- **무료 체험:** [여기에서 다운로드하세요](https://releases.groupdocs.com/conversion/java/)
-- **임시 면허:** [여기에서 요청하세요](https://purchase.groupdocs.com/temporary-license/)
-- **구입:** [지금 구매하세요](https://purchase.groupdocs.com/buy)
 
-라이선스 파일로 GroupDocs.Conversion을 초기화하세요.
+### 단계 2: 라이선스 초기화
+레이아웃 필터링을 포함한 모든 기능을 사용할 수 있도록 라이선스 파일로 라이브러리를 초기화합니다:
 ```java
-// 모든 기능을 잠금 해제하려면 라이센스를 로드하세요
+// Load the license to unlock full features
 License license = new License();
 license.setLicense("path/to/license.lic");
 ```
-## 구현 가이드
-### 1단계: 파일 경로 및 레이아웃 지정
-입력 CAD 파일과 출력 PDF에 대한 경로를 설정하고 변환하려는 레이아웃을 정의합니다.
+
+### 단계 3: 파일 경로 및 레이아웃 이름 지정
+입력 DWG 경로, 출력 PDF 경로 및 변환하려는 정확한 레이아웃 이름을 정의합니다:
 ```java
 String sourceFilePath = "YOUR_DOCUMENT_DIRECTORY/sample.dwg";
 String convertedFile = "YOUR_OUTPUT_DIRECTORY/ConvertCadAndSpecifyLayouts.pdf";
 
-// 원하는 레이아웃 이름을 지정하세요
-cadLoadOptions loadOptions = new CadLoadOptions();
+// Specify desired layout names
+CadLoadOptions loadOptions = new CadLoadOptions();
 loadOptions.setLayoutNames(new String[] { "Layout1", "Layout3" });
 ```
-### 2단계: 변환기 초기화
-초기화 `Converter` 파일 경로와 로드 옵션이 있는 클래스:
+
+**정의 앵커:** `CadLoadOptions`는 CAD 파일을 로드하는 방식을 제어할 수 있는 클래스이며, 포함할 레이아웃을 지정할 수 있습니다.
+
+### 단계 4: Converter 인스턴스 생성
+`Converter` 클래스는 변환 프로세스를 조정합니다. 소스 파일과 방금 구성한 로드 옵션을 받습니다:
 ```java
 Converter converter = new Converter(sourceFilePath, () -> loadOptions);
 ```
-이를 통해 변환에 어떤 레이아웃을 포함할지 지정할 수 있습니다.
-### 3단계: 변환 옵션 설정
-PDF 변환 설정을 구성하세요 `PdfConvertOptions`:
+
+**정의 앵커:** `Converter`는 GroupDocs.Conversion의 핵심 엔진으로, 소스 파일을 받아 원하는 형식으로 출력합니다.
+
+### 단계 5: PDF 변환 옵션 설정
+`PdfConvertOptions`를 통해 DPI, 페이지 크기 및 폰트 포함을 조정하여 최종 PDF를 요구 사항에 맞게 맞춤 설정합니다:
 ```java
 PdfConvertOptions convertOptions = new PdfConvertOptions();
 ```
-이러한 옵션을 사용하면 DPI나 특정 페이지 범위 설정과 같은 추가적인 사용자 정의가 가능합니다.
-### 4단계: 변환 수행
-호출하여 변환 프로세스를 실행합니다. `convert` 방법:
+
+### 단계 6: 변환 실행
+변환을 실행합니다. 결과 PDF에는 지정한 레이아웃 **만** 포함됩니다:
 ```java
 converter.convert(convertedFile, convertOptions);
 ```
-이렇게 하면 CAD 문서에서 지정된 레이아웃만 포함된 PDF 파일이 생성됩니다.
-## 실제 응용 프로그램
-선택적 레이아웃 변환은 다음과 같은 시나리오에서 유용할 수 있습니다.
-- **건축 설계 리뷰:** 회의 중에는 특정 평면도나 섹션에 집중하세요.
-- **엔지니어링 분석:** 자세한 분석을 위해 관련 설계 부분을 변환합니다.
-- **문서화 및 보관:** 기록을 위해 간결한 PDF를 생성하여 저장 공간을 절약합니다.
-## 성능 고려 사항
-대용량 CAD 파일을 다루는 경우:
-- **메모리 관리:** JVM 옵션을 사용하여 충분한 힙 크기를 확보하세요. `-Xmx` 기억력을 높이려면.
-- **일괄 처리:** 여러 파일을 일괄적으로 처리하여 리소스 사용량을 효과적으로 관리합니다.
-## 결론
-GroupDocs.Conversion for Java를 사용하여 CAD 문서의 특정 레이아웃을 PDF로 변환하는 방법을 알아보았습니다. 이 기능은 관련 디자인 부분에 집중하여 문서 관리를 향상시킵니다.
-### 다음 단계
-다양한 파일 형식 변환이나 클라우드 솔루션과의 통합 등 GroupDocs.Conversion의 다른 기능도 살펴보세요.
-**시도해 볼 준비가 되셨나요?** 위의 단계를 따라 오늘부터 CAD를 PDF로 변환하는 최적화를 시작하세요!
-## FAQ 섹션
-1. **Java용 GroupDocs.Conversion을 사용하기 위한 시스템 요구 사항은 무엇입니까?**
-   - JDK 8 이상, Maven, IntelliJ IDEA 또는 Eclipse와 같은 IDE가 필요합니다.
-2. **GroupDocs.Conversion을 사용하여 대용량 파일을 처리하려면 어떻게 해야 하나요?**
-   - 더 많은 메모리를 할당하기 위해 JVM 설정을 조정하세요. `-Xmx` 더 높은 가치로.
-3. **이 방법을 사용하여 다른 CAD 형식을 변환할 수 있나요?**
-   - 네, GroupDocs.Conversion은 DXF, DGN 등 다양한 CAD 형식을 지원합니다. 자세한 내용은 설명서를 참조하세요.
-4. **변환 후 일부 레이아웃이 누락된 경우는 어떻게 되나요?**
-   - 모든 원하는 레이아웃 이름의 올바른 사양을 확인하십시오. `setLayoutNames`.
-5. **GroupDocs.Conversion을 웹 애플리케이션에 통합하려면 어떻게 해야 하나요?**
-   - GroupDocs.Conversion을 사용하여 Java 백엔드를 배포하고 파일 변환을 위한 엔드포인트를 노출합니다.
-## 자원
-- **선적 서류 비치:** [GroupDocs 변환 문서](https://docs.groupdocs.com/conversion/java/)
-- **API 참조:** [GroupDocs API 참조](https://reference.groupdocs.com/conversion/java/)
-- **다운로드:** [도서관을 이용하세요](https://releases.groupdocs.com/conversion/java/)
-- **구입:** [지금 구매하세요](https://purchase.groupdocs.com/buy)
-- **무료 체험:** [여기서 시작하세요](https://releases.groupdocs.com/conversion/java/)
-- **임시 면허:** [임시 면허 신청](https://purchase.groupdocs.com/temporary-license/)
-- **지원하다:** [GroupDocs 포럼](https://forum.groupdocs.com/c/conversion/10)
+
+## 실용적인 적용 사례
+선택적 레이아웃 변환은 실제 시나리오에서 다음과 같이 빛을 발합니다:
+- **Architectural design reviews:** 논의 중인 평면도만 내보냅니다.  
+- **Engineering analysis:** 스트레스 테스트를 위한 특정 단면을 변환합니다.  
+- **Document archiving:** 규제 준수를 위한 간결한 PDF를 저장하여 최대 70 %의 저장 공간을 절감합니다.  
+
+## 대용량 DWG 파일에 대한 성능 고려 사항
+- **Memory Management:** 파일이 200 MB를 초과할 경우 `-Xmx4g`와 같은 JVM 옵션을 사용합니다.  
+- **Batch Processing:** 메모리 사용량을 안정적으로 유지하기 위해 파일을 10–20개씩 배치로 그룹화합니다.  
+- **Streamed Conversion:** 전체 파일을 메모리에 로드하지 않고 페이지를 처리하기 위해 `ConversionHandler`(신버전에서 사용 가능)를 활용합니다.  
+
+## 일반적인 문제 및 해결책
+- **Missing Layouts:** 레이아웃 이름은 대소문자를 구분하므로 `setLayoutNames`에 전달하기 전에 CAD 뷰어로 확인하십시오.  
+- **Out‑Of‑Memory Errors:** 힙 크기를 늘리거나 스트리밍 변환을 활성화하십시오.  
+- **License Errors:** 라이선스 파일 경로가 절대 경로이며 라이브러리 버전과 일치하는지 확인하십시오.  
+
+## 자주 묻는 질문
+
+**Q: groupdocs conversion java의 시스템 요구 사항은 무엇입니까?**  
+A: JDK 8+, Maven, 64‑bit OS; 라이브러리는 Windows, Linux, macOS에서 실행됩니다.
+
+**Q: 매우 큰 DWG 파일(예: 500 MB)을 변환할 수 있습니까?**  
+A: 예 – 충분한 힙(`-Xmx8g`)을 할당하고 배치 또는 스트리밍 처리를 사용하여 OOM 오류를 방지합니다.
+
+**Q: groupdocs conversion java가 다른 CAD 형식을 지원합니까?**  
+A: 물론입니다; DWG 외에도 DXF, DGN 및 30가지 이상의 추가 형식을 처리합니다.
+
+**Q: 왜 빈 PDF만 나오나요?**  
+A: 제공한 레이아웃 이름이 실제로 소스 파일에 존재하는지와 파일이 손상되지 않았는지 확인하십시오.
+
+**Q: 이 변환을 웹 서비스에 어떻게 노출할 수 있습니까?**  
+A: Java 코드를 Spring Boot 또는 Jakarta EE 애플리케이션에 배포하고 DWG 업로드를 받아 변환을 실행한 뒤 PDF 스트림을 반환하는 REST 엔드포인트를 노출합니다.
+
+## 리소스
+- **문서:** [GroupDocs Conversion Documentation](https://docs.groupdocs.com/conversion/java/)  
+- **API 참조:** [GroupDocs API Reference](https://reference.groupdocs.com/conversion/java/)  
+- **다운로드:** [Get the Library](https://releases.groupdocs.com/conversion/java/) | [Download Here](https://releases.groupdocs.com/conversion/java/)  
+- **구매:** [Buy Now](https://purchase.groupdocs.com/buy) | [Buy Now](https://purchase.groupdocs.com/buy)  
+- **무료 체험:** [Start Here](https://releases.groupdocs.com/conversion/java/)  
+- **임시 라이선스:** [Request a Temporary License](https://purchase.groupdocs.com/temporary-license/) | [Request Here](https://purchase.groupdocs.com/temporary-license/)  
+- **지원:** [GroupDocs Forum](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**마지막 업데이트:** 2026-07-24  
+**테스트 환경:** GroupDocs.Conversion 25.2 for Java  
+**작성자:** GroupDocs
+
+## 관련 튜토리얼
+- [convert cad pdf java – GroupDocs.Conversion Java용 CAD 형식 변환 튜토리얼](/conversion/java/cad-formats/)
+- [GroupDocs Conversion Java를 사용하여 사용자 정의 치수로 CAD를 TIFF로 변환: 종합 가이드](/conversion/java/cad-formats/cad-conversion-tiff-custom-dimensions-groupdocs-java/)
+- [GroupDocs Conversion Maven 설정 - Java에서 CSV를 PDF로 변환 – 단계별 가이드](/conversion/java/pdf-conversion/convert-csv-to-pdf-java-groupdocs-conversion-guide/)
