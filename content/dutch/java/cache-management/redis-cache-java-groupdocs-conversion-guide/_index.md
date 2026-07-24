@@ -1,10 +1,8 @@
 ---
 date: '2026-07-24'
-description: Learn how to use Redis cache in Java with GroupDocs.Conversion to boost
-  application efficiency. This redis cache java tutorial covers setup, caching strategies,
-  and performance tips.
-images:
-- /java/cache-management/redis-cache-java-groupdocs-conversion-guide/og-image.png
+description: Leer hoe u Redis cache in Java met GroupDocs.Conversion kunt gebruiken
+  om de efficiëntie van de applicatie te verbeteren. Deze Redis cache Java‑tutorial
+  behandelt installatie, cache‑strategieën en prestatie‑tips.
 keywords:
 - how to use redis
 - redis cache java
@@ -12,12 +10,11 @@ keywords:
 - configure redis cache
 - redis cache key prefix
 lastmod: '2026-07-24'
-og_description: Learn how to use Redis cache in Java with GroupDocs.Conversion. This
-  guide shows setup, caching strategies, and performance tips for faster document
-  conversion.
+og_description: Leer hoe u Redis cache in Java met GroupDocs.Conversion kunt gebruiken.
+  Deze gids toont installatie, cache‑strategieën en prestatie‑tips voor snellere documentconversie.
 og_image_alt: 'Guide: Implement Redis cache in Java using GroupDocs.Conversion for
   high‑performance document processing'
-og_title: How to Use Redis Cache in Java with GroupDocs.Conversion
+og_title: Hoe Redis Cache te gebruiken in Java met GroupDocs.Conversion
 schemas:
 - author: GroupDocs
   dateModified: '2026-07-24'
@@ -49,47 +46,47 @@ tags:
 - java caching
 - document conversion
 - performance optimization
-title: How to Use Redis Cache in Java with GroupDocs.Conversion
+title: Hoe Redis Cache te gebruiken in Java met GroupDocs.Conversion
 type: docs
-url: /java/cache-management/redis-cache-java-groupdocs-conversion-guide/
+url: /nl/java/cache-management/redis-cache-java-groupdocs-conversion-guide/
 weight: 1
 ---
 
-# How to Use Redis Cache in Java with GroupDocs.Conversion
+# Hoe Redis Cache te gebruiken in Java met GroupDocs.Conversion
 
-`Redis` is an in‑memory data structure store that supports strings, hashes, lists, sets, and more. Redis is a powerful open‑source, in‑memory data structure store that can act as a database, cache, and message broker. When you learn **how to use Redis** together with GroupDocs.Conversion, you give your Java application a fast‑acting caching layer that dramatically reduces document‑conversion latency. In this guide we’ll walk through a complete **redis cache java tutorial**, from environment setup to real‑world usage, so you can see immediate performance gains.
+`Redis` is an in‑memory data structure store that supports strings, hashes, lists, sets, and more. Redis is a powerful open‑source, in‑memory data structure store that can act as a database, cache, and message broker. When you learn **hoe Redis te gebruiken** together with GroupDocs.Conversion, you give your Java application a fast‑acting caching layer that dramatically reduces document‑conversion latency. In this guide we’ll walk through a complete **redis cache java tutorial**, from environment setup to real‑world usage, so you can see immediate performance gains.
 
-## Quick Answers
-- **What is the primary benefit of using Redis with GroupDocs?** Faster document retrieval by avoiding repeated conversions.  
-- **Which Maven artifact adds GroupDocs.Conversion?** `com.groupdocs:groupdocs-conversion`.  
-- **How do I connect Java to Redis?** Use a Java Redis connection example like `ConnectionMultiplexer.Connect("localhost")`.  
-- **Can I customize cache keys?** Yes – the `redis cache key prefix` lets you organize entries.  
-- **Is a license required for production?** Yes, a valid GroupDocs.Conversion license is needed.  
+## Snelle Antwoorden
+- **Wat is het belangrijkste voordeel van het gebruik van Redis met GroupDocs?** Snellere documentophaling door het vermijden van herhaalde conversies.  
+- **Welk Maven‑artifact voegt GroupDocs.Conversion toe?** `com.groupdocs:groupdocs-conversion`.  
+- **Hoe verbind ik Java met Redis?** Gebruik een Java Redis‑verbinding voorbeeld zoals `ConnectionMultiplexer.Connect("localhost")`.  
+- **Kan ik cache‑sleutels aanpassen?** Ja – de `redis cache key prefix` laat je items organiseren.  
+- **Is een licentie vereist voor productie?** Ja, een geldige GroupDocs.Conversion‑licentie is nodig.  
 
-`ConnectionMultiplexer` is the client class from the StackExchange.Redis library that manages connections to a Redis server.
+`ConnectionMultiplexer` is de client‑klasse van de StackExchange.Redis‑bibliotheek die verbindingen met een Redis‑server beheert.
 
-## What is GroupDocs.Conversion for Java?
+## Wat is GroupDocs.Conversion voor Java?
 GroupDocs.Conversion for Java is a library that converts over 80 file formats to PDF, images, and other outputs. It provides a unified API for high‑quality, server‑side document transformations without requiring Microsoft Office installations. It supports conversion to PDF, images, HTML, and many other formats, and includes options for watermarking, pagination, and custom rendering settings.
 
-## Why Use Redis with GroupDocs.Conversion?
+## Waarom Redis gebruiken met GroupDocs.Conversion?
 Using Redis as a caching layer can cut conversion time by **up to 90 %** for repeat requests, and it reduces CPU usage by **approximately 70 %** when processing large batches. Quantified claims like these make it clear why many enterprises adopt this pattern for high‑throughput document services.
 
-## Prerequisites
-### Required Libraries and Dependencies
-1. **Java Development Kit (JDK):** Version 8 or later.  
-2. **Redis Server:** Running locally or reachable remotely.  
-3. **GroupDocs.Conversion for Java:** Added via Maven (see the **maven dependency groupdocs** section below).  
+## Vereisten
+### Vereiste Bibliotheken en Afhankelijkheden
+1. **Java Development Kit (JDK):** Versie 8 of later.  
+2. **Redis Server:** Lokaal draaiend of op afstand bereikbaar.  
+3. **GroupDocs.Conversion voor Java:** Toegevoegd via Maven (zie de **maven dependency groupdocs** sectie hieronder).  
 
-### Environment Setup
-- Install Redis by following [this guide](https://redis.io/download).  
-- Configure your IDE (IntelliJ IDEA, Eclipse, etc.) with the appropriate JDK.  
+### Omgevingsconfiguratie
+- Installeer Redis door de [deze gids](https://redis.io/download) te volgen.  
+- Configureer je IDE (IntelliJ IDEA, Eclipse, enz.) met de juiste JDK.  
 
-### Knowledge Prerequisites
-- Basic Java and OOP concepts.  
-- Familiarity with Maven for dependency management.  
-- Understanding of caching principles and why they matter for document conversion.
+### Kennisvereisten
+- Basis Java‑ en OOP‑concepten.  
+- Vertrouwdheid met Maven voor afhankelijkheidsbeheer.  
+- Begrip van caching‑principes en waarom ze belangrijk zijn voor documentconversie.
 
-## Setting Up GroupDocs.Conversion for Java
+## GroupDocs.Conversion voor Java instellen
 The `GroupDocs.Conversion` library is the core engine that performs format transformations. Add the following Maven snippet to your `pom.xml` to pull the official package:
 
 ```xml
@@ -110,10 +107,10 @@ The `GroupDocs.Conversion` library is the core engine that performs format trans
 </dependencies>
 ```
 
-### License Acquisition
-1. **Free Trial:** Sign up at [GroupDocs](https://releases.groupdocs.com/conversion/java/) to download a trial version.  
-2. **Temporary License:** Request a temporary license for extended evaluation from the [purchase page](https://purchase.groupdocs.com/temporary-license/).  
-3. **Purchase:** For commercial use, buy a license through their [buy page](https://purchase.groupdocs.com/buy).
+### Licentie‑verwerving
+1. **Free Trial:** Meld je aan op [GroupDocs](https://releases.groupdocs.com/conversion/java/) om een proefversie te downloaden.  
+2. **Temporary License:** Vraag een tijdelijke licentie aan voor uitgebreide evaluatie via de [aankooppagina](https://purchase.groupdocs.com/temporary-license/).  
+3. **Purchase:** Voor commercieel gebruik, koop een licentie via hun [kooppagina](https://purchase.groupdocs.com/buy).
 
 Once you have the license, you can instantiate the converter:
 
@@ -125,13 +122,13 @@ import com.groupdocs.conversion.options.convert.ConvertOptions;
 Converter converter = new Converter("path/to/your/document");
 ```
 
-## Implementation Guide
-### Redis Cache Integration Overview
+## Implementatie‑gids
+### Overzicht van Redis Cache‑integratie
 We’ll create a custom `RedisCache` class that implements `ICache`. This class demonstrates a **java redis connection example** and shows how to work with the **redis cache key prefix**.
 
 `RedisCache` is a custom implementation of GroupDocs' `ICache` interface that stores conversion results in Redis.  
 
-#### Step 1: Create RedisCache Class
+#### Stap 1: Maak RedisCache‑klasse
 Below is the full implementation. Keep the code exactly as shown; it includes all required imports and the cache‑key handling logic.
 
 ```java
@@ -190,7 +187,7 @@ public class RedisCache implements ICache, AutoCloseable {
 }
 ```
 
-#### Step 2: Using Redis Cache with GroupDocs.Conversion
+#### Stap 2: Redis Cache gebruiken met GroupDocs.Conversion
 Now we’ll plug the cache into a conversion workflow. This snippet shows a **convert documents pdf java** example that first checks the cache before invoking GroupDocs.Conversion.
 
 ```java
@@ -214,69 +211,69 @@ public void ConvertAndCacheDocument(String filePath) throws IOException {
 }
 ```
 
-### Key Configuration Options
-- **`_cacheKeyPrefix`** – Adjust this **redis cache key prefix** to group related entries (e.g., `"Docs:"`).  
-- **ConnectionMultiplexer settings** – Tune connection pooling, timeouts, or SSL for distributed Redis clusters.
+### Sleutelconfiguratie‑opties
+- **`_cacheKeyPrefix`** – Pas deze **redis cache key prefix** aan om gerelateerde items te groeperen (bijv. `"Docs:"`).  
+- **ConnectionMultiplexer‑instellingen** – Stem connection pooling, timeouts of SSL af voor gedistribueerde Redis‑clusters.
 
-## How does Redis improve conversion speed?
+## Hoe verbetert Redis de conversiesnelheid?
 Load the document once, store the resulting byte array in Redis, and retrieve it on subsequent calls – this eliminates the need for repeated CPU‑intensive conversions. By caching the binary output, you reduce average response time from several seconds to a few milliseconds, especially for popular documents accessed frequently.
 
-## What is the Redis cache key prefix?
+## Wat is de Redis cache key prefix?
 The `redis cache key prefix` is a short string prepended to every cache entry key, allowing you to segment data (e.g., `"Docs:"` for document caches, `"Thumb:"` for thumbnails). Using a unique prefix prevents accidental key collisions when multiple applications share the same Redis instance.
 
-## How to configure Redis connection in Java?
+## Hoe configureer je een Redis‑verbinding in Java?
 Create a `ConnectionMultiplexer` instance with the Redis server address, optionally providing password and SSL settings. For a simple local setup, call `ConnectionMultiplexer.Connect("localhost")`. For production clusters, pass a comma‑separated list of node endpoints and configure `ConfigurationOptions` for failover and load balancing.
 
-## How to clear Redis cache programmatically?
+## Hoe Redis‑cache programmatisch wissen?
 Invoke the Redis database’s `KeyDelete` method with a pattern that matches your prefixed keys (e.g., `_db.KeyDelete("Docs:*")`). This removes all cached conversion results in one operation, useful during deployments or when underlying source files change. You can also use the `SCAN` command to iterate over matching keys before deletion, which is safer for large datasets.  
 
 `KeyDelete` is a method of the Redis database client that removes keys matching a given pattern.
 
-## Practical Applications
-1. **Document Conversion Workflows:** Cache PDF or image outputs to serve repeat requests instantly.  
-2. **Content Delivery Networks (CDNs):** Store cached binaries in Redis for rapid edge delivery.  
-3. **Batch Processing Systems:** Reuse conversion results across multiple batch runs, saving CPU cycles.
+## Praktische Toepassingen
+1. **Documentconversieworkflows:** Cache PDF‑ of afbeelding‑output om herhaalde verzoeken direct te bedienen.  
+2. **Content Delivery Networks (CDNs):** Sla gecachte binaries op in Redis voor snelle edge‑levering.  
+3. **Batch‑verwerkingssysteem:** Hergebruik conversieresultaten over meerdere batch‑runs, waardoor CPU‑cycli worden bespaard.
 
-## Performance Considerations
-### Optimizing Redis Cache Usage
-- **Memory Management:** Set appropriate `maxmemory` and eviction policies (e.g., `volatile-lru`).  
-- **Eviction Policies:** Choose LRU, LFU, or TTL‑based expiration based on usage patterns.  
-- **Serialization Overhead:** The example uses Java serialization; for tighter payloads consider protobuf or JSON.
+## Prestatie‑overwegingen
+### Optimalisatie van Redis Cache‑gebruik
+- **Memory Management:** Stel een geschikte `maxmemory` en verwijderingsbeleid in (bijv. `volatile-lru`).  
+- **Eviction Policies:** Kies LRU, LFU of TTL‑gebaseerde expiratie op basis van gebruikspatronen.  
+- **Serialization Overhead:** Het voorbeeld gebruikt Java‑serialisatie; overweeg protobuf of JSON voor kleinere payloads.
 
-### Java Memory Management with GroupDocs.Conversion
+### Java‑geheugenbeheer met GroupDocs.Conversion
 Handle large files by streaming results (`ByteArrayOutputStream`) and releasing resources promptly. The `AutoCloseable` implementation of `RedisCache` ensures the Redis connection is disposed of correctly.
 
-## Common Issues & Troubleshooting
-| Symptom | Likely Cause | Fix |
-|---------|--------------|-----|
-| `ConnectionMultiplexer.Connect` throws timeout | Redis not reachable or wrong host/port | Verify Redis server is running and reachable (`redis-cli ping`). |
-| `TryGetValue` always returns false | Mismatch between stored and retrieved serialization format | Ensure the same serializer is used for both `Set` and `TryGetValue`. |
-| Out‑of‑memory errors on large PDFs | Storing huge byte arrays in Redis without limits | Enable `maxmemory` and set an appropriate eviction policy. |
+## Veelvoorkomende Problemen & Probleemoplossing
+| Symptoom | Waarschijnlijke Oorzaak | Oplossing |
+|----------|--------------------------|-----------|
+| `ConnectionMultiplexer.Connect` geeft timeout | Redis niet bereikbaar of verkeerde host/poort | Controleer of de Redis‑server draait en bereikbaar is (`redis-cli ping`). |
+| `TryGetValue` geeft altijd false terug | Mismatch tussen opgeslagen en opgehaalde serialisatie‑formaat | Zorg ervoor dat dezelfde serializer wordt gebruikt voor zowel `Set` als `TryGetValue`. |
+| Out‑of‑memory‑fouten bij grote PDF's | Opslaan van enorme byte‑arrays in Redis zonder limieten | Schakel `maxmemory` in en stel een geschikt verwijderingsbeleid in. |
 
-## Frequently Asked Questions
+## Veelgestelde Vragen
 
-**Q: Can I use this approach with a remote Redis cluster?**  
-A: Yes. Replace `"localhost"` with the cluster endpoint and configure `ConnectionMultiplexer` for SSL and password authentication.
+**Q: Kan ik deze aanpak gebruiken met een remote Redis‑cluster?**  
+A: Ja. Vervang `"localhost"` door het cluster‑endpoint en configureer `ConnectionMultiplexer` voor SSL‑ en wachtwoordauthenticatie.
 
-**Q: How do I change the `redis cache key prefix`?**  
-A: Modify the `_cacheKeyPrefix` field in `RedisCache`. Using a unique prefix helps avoid key collisions across applications.
+**Q: Hoe wijzig ik de `redis cache key prefix`?**  
+A: Pas het `_cacheKeyPrefix`‑veld in `RedisCache` aan. Het gebruik van een unieke prefix helpt key‑collisies tussen applicaties te voorkomen.
 
-**Q: Is there a way to clear the cache programmatically?**  
-A: Call `_db.KeyDelete(pattern)` or use `GetKeys` to retrieve matching keys and delete them in a loop.
+**Q: Is er een manier om de cache programmatisch te wissen?**  
+A: Roep `_db.KeyDelete(pattern)` aan of gebruik `GetKeys` om overeenkomende keys op te halen en ze in een lus te verwijderen.
 
-**Q: Does this work for converting documents other than PDF?**  
-A: Absolutely. Replace `PdfConvertOptions` with the appropriate `ConvertOptions` subclass (e.g., `DocxConvertOptions`).
+**Q: Werkt dit voor het converteren van documenten anders dan PDF?**  
+A: Absoluut. Vervang `PdfConvertOptions` door de juiste `ConvertOptions`‑subklasse (bijv. `DocxConvertOptions`).
 
-**Q: What version of GroupDocs.Conversion is required?**  
-A: The tutorial was tested with GroupDocs.Conversion **25.2**; newer versions should be compatible.
+**Q: Welke versie van GroupDocs.Conversion is vereist?**  
+A: De tutorial is getest met GroupDocs.Conversion **25.2**; nieuwere versies zouden compatibel moeten zijn.
 
-## Conclusion
-By mastering **how to use Redis** together with GroupDocs.Conversion, you’ve built a robust caching layer that slashes conversion time, reduces server load, and improves end‑user experience. Keep experimenting with different **redis cache key prefixes**, eviction policies, and serialization formats to fine‑tune performance for your specific workload.
+## Conclusie
+By mastering **hoe Redis te gebruiken** together with GroupDocs.Conversion, you’ve built a robust caching layer that slashes conversion time, reduces server load, and improves end‑user experience. Keep experimenting with different **redis cache key prefixes**, eviction policies, and serialization formats to fine‑tune performance for your specific workload.
 
-**Next Steps**
-- Try different eviction strategies (LRU, TTL).  
-- Profile memory usage with large document batches.  
-- Explore advanced GroupDocs features such as watermarking or multi‑page conversion.
+**Volgende stappen**
+- Probeer verschillende verwijderingsstrategieën (LRU, TTL).  
+- Profileer geheugengebruik met grote document‑batches.  
+- Verken geavanceerde GroupDocs‑functies zoals watermerken of multi‑page conversie.
 
 ---
 
@@ -284,8 +281,8 @@ By mastering **how to use Redis** together with GroupDocs.Conversion, you’ve b
 **Tested With:** GroupDocs.Conversion 25.2  
 **Author:** GroupDocs
 
-## Related Tutorials
+## Gerelateerde Tutorials
 
-- [How to Cache Documents in Java Using Redis & GroupDocs](/conversion/java/cache-management/custom-cache-redis-groupdocs-java/)
-- [How to Cache Files in Java with GroupDocs.Conversion – A Comprehensive Guide for Efficient Document Conversion](/conversion/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/)
-- [Implement Custom Cache Java – GroupDocs Conversion Cache](/conversion/java/cache-management/)
+- [Hoe documenten cachen in Java met Redis & GroupDocs](/conversion/java/cache-management/custom-cache-redis-groupdocs-java/)
+- [Hoe bestanden cachen in Java met GroupDocs.Conversion – Een uitgebreide gids voor efficiënte documentconversie](/conversion/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/)
+- [Implementeer aangepaste cache Java – GroupDocs Conversion Cache](/conversion/java/cache-management/)
