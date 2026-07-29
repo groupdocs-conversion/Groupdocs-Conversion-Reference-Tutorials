@@ -1,47 +1,88 @@
 ---
-date: '2026-01-28'
-description: Tìm hiểu cách chuyển đổi bản trình chiếu sang PDF với việc thay thế phông
-  chữ tùy chỉnh bằng GroupDocs.Conversion cho Java. Bảo tồn phông chữ và đảm bảo giao
-  diện tài liệu nhất quán.
+date: '2026-07-29'
+description: Chuyển đổi PPTX sang PDF nhanh chóng với GroupDocs.Conversion for Java
+  và thay thế phông chữ tùy chỉnh. Bảo vệ thương hiệu và đảm bảo PDF hiển thị giống
+  hệt trên mọi thiết bị.
 keywords:
-- Java document conversion
-- custom fonts in Java
-- GroupDocs.Conversion for Java
-title: Cách chuyển đổi bản trình chiếu sang PDF với phông chữ tùy chỉnh bằng GroupDocs.Conversion
-  cho Java
+- convert pptx to pdf
+- how to convert presentation
+- groupdocs conversion java
+- preserve fonts pdf
+- java powerpoint to pdf
+lastmod: '2026-07-29'
+og_description: Chuyển đổi PPTX sang PDF nhanh chóng bằng GroupDocs.Conversion for
+  Java với thay thế phông chữ tùy chỉnh. Bảo vệ thương hiệu và đảm bảo PDF hiển thị
+  giống hệt trên mọi thiết bị.
+og_image_alt: Guide showing Java code to convert PPTX to PDF with custom font mapping
+og_title: Chuyển đổi PPTX sang PDF với phông chữ tùy chỉnh – GroupDocs.Conversion
+  Java
+schemas:
+- author: GroupDocs
+  dateModified: '2026-07-29'
+  description: convert pptx to pdf quickly with GroupDocs.Conversion for Java and
+    custom font substitution. Preserve branding and ensure PDFs render identically
+    on any device.
+  headline: How to Convert PPTX to PDF with Custom Fonts Using GroupDocs.Conversion
+    for Java
+  type: TechArticle
+- questions:
+  - answer: Custom font substitution guarantees that the PDF retains the intended
+      appearance, even when the original fonts are unavailable on the target system.
+    question: What is the primary benefit of using custom font substitutions in conversions?
+  - answer: Use the `FontSubstitute` feature to map unavailable fonts to alternatives,
+      ensuring consistent document aesthetics.
+    question: How can I handle unsupported fonts during conversion?
+  - answer: Yes, GroupDocs offers integrations that allow conversions directly from
+      cloud storage platforms like AWS S3 and Azure Blob Storage.
+    question: Can I use GroupDocs.Conversion with cloud storage solutions?
+  - answer: Optimize system resources, limit font substitution mappings, and increase
+      JVM heap size to improve performance.
+    question: What should I do if my conversion process is slow?
+  - answer: Absolutely—this guide focuses on custom fonts, but the series also covers
+      image extraction, watermarking, and batch processing using GroupDocs.Conversion
+      for Java.
+    question: Is this tutorial part of a larger **document conversion tutorial java**
+      series?
+  type: FAQPage
+tags:
+- convert pptx
+- GroupDocs.Conversion
+- Java PDF conversion
+- custom fonts
+- document processing
+title: Cách chuyển đổi PPTX sang PDF với phông chữ tùy chỉnh bằng GroupDocs.Conversion
+  for Java
 type: docs
 url: /vi/java/conversion-options/java-conversion-custom-fonts-groupdocs/
 weight: 1
 ---
 
-# Cách Chuyển Đổi Bản Trình Chiếu Sang PDF Với Phông Chữ Tùy Chỉnh Sử Dụng GroupDocs.Conversion cho Java
+# Cách Chuyển Đổi PPTX Sang PDF Với Phông Chữ Tùy Chỉnh Sử Dụng GroupDocs.Conversion cho Java
 
-Trong các quy trình công việc hiện đại, bạn thường cần **chuyển đổi bản trình chiếu sang PDF** trong khi giữ nguyên giao diện và cảm giác ban đầu. Dù bạn đang chia sẻ bộ slide cho khách hàng, lưu trữ tài liệu đào tạo, hay tự động tạo báo cáo, việc thiếu phông chữ có thể làm hỏng chất lượng hình ảnh. Hướng dẫn này cho bạn biết chính xác cách bảo tồn phông chữ trong quá trình chuyển đổi Java pptx to pdf bằng **GroupDocs.Conversion for Java**.
+Trong nhiều quy trình kinh doanh hiện đại, bạn cần **chuyển đổi PPTX sang PDF** trong khi giữ nguyên giao diện và cảm giác của các slide gốc. Dù bạn đang chia sẻ bộ trình chiếu cho khách hàng, lưu trữ tài liệu đào tạo, hay xây dựng dịch vụ báo cáo tự động, việc thiếu phông chữ có thể làm hỏng hoàn toàn chất lượng hình ảnh. Hướng dẫn này sẽ chỉ cho bạn cách bảo tồn phông chữ trong quá trình chuyển đổi Java pptx to pdf bằng **GroupDocs.Conversion for Java**, và giải thích lý do điều này quan trọng đối với tính nhất quán thương hiệu và độ tin cậy đa nền tảng.
 
 ## Câu trả lời nhanh
-- **Lợi ích chính của việc thay thế phông chữ tùy chỉnh là gì?** Nó đảm bảo rằng PDF trông giống hệt bản trình chiếu nguồn, ngay cả khi các phông chữ gốc không được cài đặt trên máy đích.  
-- **Thư viện nào chịu trách nhiệm chuyển đổi?** `GroupDocs.Conversion` cho Java.  
-- **Tôi có cần giấy phép không?** Bản dùng thử miễn phí đủ cho phát triển; giấy phép thương mại cần thiết cho môi trường sản xuất.  
-- **Tôi có thể sử dụng trong dự án Maven không?** Có – chỉ cần thêm kho lưu trữ và phụ thuộc như dưới đây.  
-- **Quá trình có an toàn với đa luồng không?** Đối tượng `Converter` nhẹ; bạn có thể tạo một đối tượng cho mỗi luồng chuyển đổi.
+- **What is the primary benefit of custom font substitution?** Nó đảm bảo rằng PDF trông giống hệt bản trình chiếu nguồn, ngay cả khi các phông chữ gốc không được cài đặt trên máy đích.  
+- **Which library handles the conversion?** `GroupDocs.Conversion` for Java.  
+- **Do I need a license?** Bản dùng thử miễn phí hoạt động cho phát triển; giấy phép thương mại cần thiết cho môi trường sản xuất.  
+- **Can I use this in a Maven project?** Có – chỉ cần thêm kho và phụ thuộc như dưới đây.  
+- **Is the process thread‑safe?** Đối tượng `Converter` nhẹ; bạn có thể tạo một đối tượng cho mỗi luồng chuyển đổi.
 
-## **convert presentation to pdf** là gì?
-Cụm từ này đơn giản mô tả hành động chuyển đổi một tệp PowerPoint (.pptx) thành tài liệu PDF. Chuyển sang PDF giúp tệp có thể xem được trên mọi nền tảng, in ấn và dễ lưu trữ hơn, đồng thời bảo tồn bố cục, hình ảnh và văn bản.
+## Convert presentation to pdf là gì?
+**convert presentation to pdf** đề cập đến quá trình lấy một tệp PowerPoint (.pptx) và tạo ra tài liệu PDF sao chép bố cục slide, đồ họa và văn bản gốc. PDF tạo ra là độc lập nền tảng, có thể tìm kiếm và phù hợp cho việc in ấn hoặc lưu trữ, đồng thời bảo tồn độ trung thực hình ảnh của bản trình chiếu nguồn.
 
-## Tại sao nên sử dụng **custom font substitution**?
-- **Tính nhất quán thương hiệu:** Đảm bảo phông chữ công ty hiển thị đúng ngay cả trên các máy không có chúng.  
-- **Độ tin cậy đa nền tảng:** PDF hiển thị giống nhau trên Windows, macOS, Linux và các thiết bị di động.  
-- **Giảm số phiếu hỗ trợ:** Không còn “PDF của tôi trông lạ vì thiếu phông chữ”.
+## Tại sao nên sử dụng thay thế phông chữ tùy chỉnh?
+Thay thế phông chữ tùy chỉnh đảm bảo rằng PDF được tạo ra giữ nguyên kiểu chữ chính xác của bộ trình chiếu nguồn, ngay cả khi môi trường đích thiếu các phông chữ gốc. Điều này loại bỏ sự lệch thương hiệu, giảm số lượng phiếu hỗ trợ, và đảm bảo PDF hiển thị giống hệt trên Windows, macOS, Linux và các thiết bị di động.
 
 ## Yêu cầu trước
-1. **Java Development Kit (JDK)** – phiên bản 8 hoặc cao hơn.  
-2. **Maven** – để quản lý phụ thuộc.  
-3. **IDE** – IntelliJ IDEA, Eclipse, hoặc bất kỳ trình soạn thảo nào hỗ trợ Java.  
-4. **Kiến thức cơ bản về Java** – bạn nên quen thuộc với các lớp và phương thức.  
+- **Java Development Kit (JDK) 8+** – cần thiết để chạy mã.  
+- **Maven** – để quản lý phụ thuộc.  
+- **IDE** – IntelliJ IDEA, Eclipse, hoặc bất kỳ trình chỉnh sửa nào tương thích với Java.  
+- **Basic Java knowledge** – bạn nên quen thuộc với các lớp và phương thức.  
 
 ## Cài đặt GroupDocs.Conversion cho Java
 
-Tích hợp thư viện GroupDocs.Conversion vào dự án Maven của bạn. Đoạn mã XML dưới đây thêm kho lưu trữ chính thức và phụ thuộc cần thiết.
+Tích hợp thư viện GroupDocs.Conversion vào dự án Maven của bạn. Đoạn mã XML dưới đây thêm kho chính thức và phụ thuộc cần thiết.
 
 ```xml
 <repositories>
@@ -62,16 +103,16 @@ Tích hợp thư viện GroupDocs.Conversion vào dự án Maven của bạn. Đ
 ```
 
 ### Nhận giấy phép
-- **Bản dùng thử miễn phí:** Tải bản dùng thử từ trang web GroupDocs.  
-- **Giấy phép tạm thời:** Yêu cầu khóa tạm thời để thử nghiệm kéo dài.  
-- **Mua bản quyền:** Chuyển sang giấy phép đầy đủ khi bạn đã hài lòng.
+- **Free Trial:** Tải bản dùng thử từ trang web GroupDocs.  
+- **Temporary License:** Yêu cầu khóa tạm thời để thử nghiệm kéo dài.  
+- **Purchase:** Chuyển sang giấy phép đầy đủ khi bạn đã hài lòng.
 
 Sau khi Maven giải quyết phụ thuộc, bạn có thể bắt đầu viết mã logic chuyển đổi.
 
 ## Hướng dẫn triển khai
 
 ### Bước 1: Định nghĩa Presentation Load Options với Font Substitution
-Phương thức dưới đây tạo một đối tượng `PresentationLoadOptions` và chỉ cho GroupDocs cách thay thế các phông chữ thiếu. Đây là phần cốt lõi của **cách bảo tồn phông chữ** trong quá trình chuyển đổi.
+`PresentationLoadOptions` là một lớp của GroupDocs xác định cách tải tệp trình chiếu, bao gồm cài đặt thay thế phông chữ. Phương thức sau tạo một đối tượng `PresentationLoadOptions` và chỉ cho GroupDocs cách thay thế các phông chữ thiếu. Đây là phần cốt lõi của **cách bảo tồn phông chữ** trong quá trình chuyển đổi.
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -102,11 +143,11 @@ public PresentationLoadOptions definePresentationLoadOptionsWithFontSubstitution
 ```
 
 **Giải thích**  
-- **Thay thế phông chữ:** Ánh xạ “Tahoma” và “Times New Roman” sang “Arial”.  
-- **Phông chữ mặc định:** Cung cấp dự phòng (`Helvetica.ttf`) nếu không có ánh xạ nào khớp.  
+- **Font Substitution:** Ánh xạ “Tahoma” và “Times New Roman” sang “Arial”.  
+- **Default Font:** Cung cấp phông dự phòng (`Helvetica.ttf`) nếu không có ánh xạ nào khớp.  
 
-### Bước 2: Chuyển đổi tài liệu Presentation sang PDF với các tùy chọn nâng cao
-Bây giờ chúng ta sử dụng các tùy chọn tải từ Bước 1 để thực hiện thực tế thao tác **convert presentation to pdf**.
+### Bước 2: Chuyển đổi tài liệu Presentation sang PDF với Advanced Options
+`Converter` là động cơ chính trong GroupDocs.Conversion thực hiện chuyển đổi định dạng tệp dựa trên các tùy chọn load và save được cung cấp. Bây giờ chúng ta sử dụng các tùy chọn load từ Bước 1 để thực hiện thao tác **convert pptx to pdf**.
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -128,34 +169,35 @@ public void defineConversionProcessWithAdvancedOptions(PresentationLoadOptions l
 ```
 
 **Giải thích**  
-- **Khởi tạo Converter:** Truyền đường dẫn PPTX cùng với `loadOptions` tùy chỉnh.  
-- **Tùy chọn chuyển đổi PDF:** Bạn có thể tinh chỉnh thêm các cài đặt (ví dụ, chất lượng hình ảnh) nếu cần.  
+- **Converter Initialization:** Truyền đường dẫn PPTX cùng với `loadOptions` tùy chỉnh.  
+- **PDF Conversion Options:** Bạn có thể tinh chỉnh thêm các cài đặt (ví dụ, chất lượng hình ảnh) nếu cần.  
 
 ## Ứng dụng thực tiễn
-1. **Bản trình chiếu doanh nghiệp:** Giữ nguyên thương hiệu công ty khi chia sẻ PDF với đối tác bên ngoài.  
-2. **Tài liệu giáo dục:** Chuyển các slide giảng dạy sang PDF để học offline mà không lo thiếu phông chữ.  
-3. **Tài liệu pháp lý:** Bảo tồn bố cục chính xác của các slide chứng cứ cho hồ sơ tòa án.  
+1. **Business Presentations:** Giữ nguyên thương hiệu công ty khi chia sẻ PDF với đối tác bên ngoài.  
+2. **Educational Materials:** Chuyển đổi bộ bài giảng sang PDF để học offline mà không lo thiếu phông chữ.  
+3. **Legal Documents:** Bảo tồn bố cục chính xác của các slide chứng cứ cho hồ sơ tòa án.  
 
-## Cân nhắc về hiệu năng
-- **Quản lý bộ nhớ:** Phân bổ đủ không gian heap cho các deck lớn (`-Xmx2g` là điểm khởi đầu tốt).  
-- **Giới hạn thay thế phông chữ:** Chỉ ánh xạ những phông chữ thực sự cần; quá nhiều ánh xạ có thể làm chậm quá trình.  
-- **Thu gom rác:** Gọi `System.gc()` sau các chuyển đổi hàng loạt lớn nếu bạn nhận thấy mức sử dụng bộ nhớ tăng đột biến.  
+## Các cân nhắc về hiệu năng
+- **Memory Management:** Phân bổ đủ không gian heap cho các bộ slide lớn (`-Xmx2g` là điểm khởi đầu tốt).  
+- **Limit Font Substitutions:** Chỉ ánh xạ những phông chữ thực sự cần; quá nhiều ánh xạ có thể làm chậm quá trình.  
+- **Garbage Collection:** Gọi `System.gc()` sau các chuyển đổi batch lớn nếu bạn nhận thấy mức sử dụng bộ nhớ tăng đột biến.  
 
 ## Các vấn đề thường gặp và giải pháp
+
 | Vấn đề | Giải pháp |
 |-------|----------|
-| **Thiếu tệp phông chữ mặc định** | Kiểm tra đường dẫn trong `setDefaultFont` trỏ tới tệp `.ttf` hợp lệ và tệp có thể đọc được. |
+| **Thiếu tệp phông chữ mặc định** | Xác minh đường dẫn trong `setDefaultFont` trỏ tới một tệp `.ttf` hợp lệ và tệp có thể đọc được. |
 | **Quá trình chuyển đổi bị treo trên PPTX lớn** | Tăng kích thước heap JVM và cân nhắc chuyển đổi các slide theo lô. |
 | **Phông chữ không được thay thế như mong đợi** | Đảm bảo tên phông chữ nguồn khớp chính xác (phân biệt chữ hoa/thường) với tên được sử dụng trong `FontSubstitute.create`. |
-| **PDF đầu ra trống** | Xác nhận tệp PPTX nguồn không bị hỏng và `Converter` được trỏ tới đúng đường dẫn tệp. |
+| **PDF đầu ra trống** | Xác nhận tệp PPTX nguồn không bị hỏng và `Converter` được chỉ tới đúng đường dẫn tệp. |
 
 ## Câu hỏi thường gặp
 
-**Q: Lợi ích chính của việc sử dụng custom font substitutions trong quá trình chuyển đổi là gì?**  
-A: Custom font substitution đảm bảo PDF giữ nguyên giao diện mong muốn, ngay cả khi các phông chữ gốc không có trên hệ thống đích.
+**Q: Lợi ích chính của việc sử dụng thay thế phông chữ tùy chỉnh trong chuyển đổi là gì?**  
+A: Thay thế phông chữ tùy chỉnh đảm bảo PDF giữ nguyên giao diện dự định, ngay cả khi các phông chữ gốc không có sẵn trên hệ thống đích.
 
-**Q: Làm thế nào tôi có thể xử lý các phông chữ không được hỗ trợ trong quá trình chuyển đổi?**  
-A: Sử dụng tính năng `FontSubstitute` để ánh xạ các phông chữ không khả dụng sang các lựa chọn thay thế, đảm bảo tính thẩm mỹ đồng nhất cho tài liệu.
+**Q: Làm sao tôi có thể xử lý các phông chữ không được hỗ trợ trong quá trình chuyển đổi?**  
+A: Sử dụng tính năng `FontSubstitute` để ánh xạ các phông chữ không khả dụng sang các phông chữ thay thế, đảm bảo thẩm mỹ tài liệu nhất quán.
 
 **Q: Tôi có thể sử dụng GroupDocs.Conversion với các giải pháp lưu trữ đám mây không?**  
 A: Có, GroupDocs cung cấp các tích hợp cho phép chuyển đổi trực tiếp từ các nền tảng lưu trữ đám mây như AWS S3 và Azure Blob Storage.
@@ -164,20 +206,24 @@ A: Có, GroupDocs cung cấp các tích hợp cho phép chuyển đổi trực t
 A: Tối ưu hoá tài nguyên hệ thống, giới hạn các ánh xạ thay thế phông chữ, và tăng kích thước heap JVM để cải thiện hiệu năng.
 
 **Q: Hướng dẫn này có phải là một phần của loạt **document conversion tutorial java** lớn hơn không?**  
-A: Chắc chắn—hướng dẫn này tập trung vào phông chữ tùy chỉnh, nhưng loạt bài cũng bao gồm việc trích xuất hình ảnh, thêm watermark và xử lý hàng loạt bằng GroupDocs.Conversion cho Java.
+A: Chắc chắn—hướng dẫn này tập trung vào phông chữ tùy chỉnh, nhưng loạt bài cũng bao gồm trích xuất hình ảnh, đánh dấu watermark và xử lý batch bằng GroupDocs.Conversion cho Java.
 
 ## Kết luận
-Bây giờ bạn đã có một phương pháp đầy đủ, sẵn sàng cho môi trường sản xuất để **convert presentation to pdf** đồng thời bảo tồn phông chữ bằng **GroupDocs.Conversion cho Java**. Bằng cách định nghĩa các tùy chọn tải với các thay thế phông chữ và tận dụng API `Converter` mạnh mẽ, bạn có thể đảm bảo độ trung thực hình ảnh trên mọi nền tảng.
+Bây giờ bạn đã có một phương pháp hoàn chỉnh, sẵn sàng cho sản xuất để **convert pptx to pdf** trong khi bảo tồn phông chữ bằng **GroupDocs.Conversion for Java**. Bằng cách định nghĩa các tùy chọn load với các phông thay thế và tận dụng API `Converter` mạnh mẽ, bạn có thể đảm bảo độ trung thực hình ảnh trên mọi nền tảng.
 
 **Các bước tiếp theo**  
-- Thử nghiệm các `PdfConvertOptions` bổ sung (ví dụ, thiết lập tuân thủ PDF/A).  
+- Thử nghiệm thêm `PdfConvertOptions` (ví dụ, thiết lập tuân thủ PDF/A).  
 - Tích hợp logic chuyển đổi vào dịch vụ REST để tạo PDF theo yêu cầu.  
 - Khám phá các mô-đun GroupDocs khác như `GroupDocs.Annotation` để thêm bình luận vào các PDF đã tạo.
 
 ---
 
-**Cập nhật lần cuối:** 2026-01-28  
-**Kiểm tra với:** GroupDocs.Conversion 25.2 cho Java  
+**Cập nhật lần cuối:** 2026-07-29  
+**Được kiểm tra với:** GroupDocs.Conversion 25.2 for Java  
 **Tác giả:** GroupDocs  
 
----
+## Hướng dẫn liên quan
+
+- [pptx sang pdf java – Hướng dẫn trình chiếu GroupDocs.Conversion](/conversion/java/presentation-formats/)
+- [Chuyển đổi PPTX có slide ẩn sang PDF hiệu quả trong Java bằng GroupDocs.Conversion](/conversion/java/presentation-formats/convert-pptx-hidden-slides-pdf-java/)
+- [chuyển đổi ghi chú sang pdf bằng GroupDocs.Conversion cho Java](/conversion/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/)

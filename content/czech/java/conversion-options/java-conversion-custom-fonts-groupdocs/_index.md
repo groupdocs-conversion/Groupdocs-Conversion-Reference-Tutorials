@@ -1,43 +1,82 @@
 ---
-date: '2026-01-28'
-description: Naučte se, jak převést prezentaci do PDF s vlastní náhradou fontů pomocí
-  GroupDocs.Conversion pro Javu. Zachovejte písma a zajistěte konzistentní vzhled
-  dokumentu.
+date: '2026-07-29'
+description: Rychle převádějte PPTX na PDF pomocí GroupDocs.Conversion for Java a
+  nahrazení vlastních fontů. Zachovejte branding a zajistěte, aby PDF soubory vypadaly
+  identicky na jakémkoli zařízení.
 keywords:
-- Java document conversion
-- custom fonts in Java
-- GroupDocs.Conversion for Java
-title: Jak převést prezentaci do PDF s vlastními fonty pomocí GroupDocs.Conversion
-  pro Javu
+- convert pptx to pdf
+- how to convert presentation
+- groupdocs conversion java
+- preserve fonts pdf
+- java powerpoint to pdf
+lastmod: '2026-07-29'
+og_description: Rychle převádějte PPTX na PDF pomocí GroupDocs.Conversion for Java
+  s nahrazením vlastních fontů. Zachovejte branding a zajistěte, aby PDF soubory vypadaly
+  identicky na jakémkoli zařízení.
+og_image_alt: Guide showing Java code to convert PPTX to PDF with custom font mapping
+og_title: Převod PPTX na PDF s vlastními fonty – GroupDocs.Conversion for Java
+schemas:
+- author: GroupDocs
+  dateModified: '2026-07-29'
+  description: convert pptx to pdf quickly with GroupDocs.Conversion for Java and
+    custom font substitution. Preserve branding and ensure PDFs render identically
+    on any device.
+  headline: How to Convert PPTX to PDF with Custom Fonts Using GroupDocs.Conversion
+    for Java
+  type: TechArticle
+- questions:
+  - answer: Custom font substitution guarantees that the PDF retains the intended
+      appearance, even when the original fonts are unavailable on the target system.
+    question: What is the primary benefit of using custom font substitutions in conversions?
+  - answer: Use the `FontSubstitute` feature to map unavailable fonts to alternatives,
+      ensuring consistent document aesthetics.
+    question: How can I handle unsupported fonts during conversion?
+  - answer: Yes, GroupDocs offers integrations that allow conversions directly from
+      cloud storage platforms like AWS S3 and Azure Blob Storage.
+    question: Can I use GroupDocs.Conversion with cloud storage solutions?
+  - answer: Optimize system resources, limit font substitution mappings, and increase
+      JVM heap size to improve performance.
+    question: What should I do if my conversion process is slow?
+  - answer: Absolutely—this guide focuses on custom fonts, but the series also covers
+      image extraction, watermarking, and batch processing using GroupDocs.Conversion
+      for Java.
+    question: Is this tutorial part of a larger **document conversion tutorial java**
+      series?
+  type: FAQPage
+tags:
+- convert pptx
+- GroupDocs.Conversion
+- Java PDF conversion
+- custom fonts
+- document processing
+title: Jak převést PPTX na PDF s vlastními fonty pomocí GroupDocs.Conversion for Java
 type: docs
 url: /cs/java/conversion-options/java-conversion-custom-fonts-groupdocs/
 weight: 1
 ---
 
-# Jak převést prezentaci do PDF s vlastními fonty pomocí GroupDocs.Conversion pro Java
+# Jak převést PPTX na PDF s vlastními fonty pomocí GroupDocs.Conversion pro Java
 
-V moderních obchodních pracovních postupech často potřebujete **převést prezentaci do pdf**, přičemž zachováte původní vzhled a pocit. Ať už sdílíte prezentaci pro klienta, archivujete výukový materiál nebo automatizujete generování zpráv, chybějící fonty mohou zničit vizuální kvalitu. Tento tutoriál vám přesně ukáže, jak zachovat fonty během konverze Java pptx do pdf pomocí **GroupDocs.Conversion pro Java**.
+V mnoha moderních obchodních pracovních postupech potřebujete **převést PPTX na PDF** a zachovat přesný vzhled a pocit původních snímků. Ať už sdílíte prezentaci klientovi, archivujete výukový materiál nebo budujete automatizovanou službu pro reportování, chybějící fonty mohou zcela zničit vizuální kvalitu. Tento tutoriál vás provede produkčně připraveným způsobem, jak během konverze Java pptx na pdf zachovat fonty pomocí **GroupDocs.Conversion pro Java** a vysvětlí, proč je to důležité pro konzistenci značky a spolehlivost napříč platformami.
 
 ## Rychlé odpovědi
-- **Jaký je hlavní přínos vlastní substituce fontů?** Zaručuje, že PDF vypadá přesně jako zdrojová prezentace, i když originální fonty nejsou nainstalovány na cílovém počítači.  
+- **Jaký je hlavní přínos vlastní substituce fontů?** Zaručuje, že PDF vypadá přesně jako zdrojová prezentace, i když původní fonty nejsou nainstalovány na cílovém počítači.  
 - **Která knihovna provádí konverzi?** `GroupDocs.Conversion` pro Java.  
 - **Potřebuji licenci?** Bezplatná zkušební verze funguje pro vývoj; pro produkci je vyžadována komerční licence.  
 - **Mohu to použít v Maven projektu?** Ano – stačí přidat úložiště a závislost uvedenou níže.  
 - **Je proces thread‑safe?** Instance `Converter` je lehká; můžete vytvořit jednu pro každý konverzní vlákno.
 
-## Co je **convert presentation to pdf**?
-Tento výraz jednoduše popisuje akci převodu souboru PowerPoint (.pptx) na PDF dokument. Konverze do PDF umožňuje soubor zobrazit univerzálně, vytisknout a snadněji archivovat, přičemž zachovává rozvržení, obrázky a text.
+## Co je převod prezentace na pdf?
+**convert presentation to pdf** označuje proces převodu souboru PowerPoint (.pptx) na PDF dokument, který replikuje původní rozložení snímků, grafiku a text. Výsledné PDF je platformně nezávislé, prohledávatelné a vhodné pro tisk nebo archivaci, přičemž zachovává vizuální věrnost zdrojové prezentace.
 
-## Proč použít **custom font substitution**?
-- **Konzistence značky:** Zajistěte, aby firemní fonty se zobrazovaly správně i na počítačích, kde nejsou nainstalovány.  
-- **Spolehlivost napříč platformami:** PDF se vykreslují stejně na Windows, macOS, Linuxu i mobilních zařízeních.  
-- **Snížení počtu podporných tiketů:** Už žádné „mé PDF vypadá divně, protože chybí font.“
+## Proč použít vlastní substituci fontů?
+Vlastní substituce fontů zajišťuje, že generované PDF si zachová přesnou typografii zdrojové prezentace, i když cílové prostředí postrádá původní fonty. Tím se eliminuje odchylka značky, snižuje počet podporných tiketů a zaručuje, že PDF se vykreslí identicky na Windows, macOS, Linuxu i mobilních zařízeních.
 
 ## Předpoklady
-1. **Java Development Kit (JDK)** – verze 8 nebo vyšší.  
-2. **Maven** – pro správu závislostí.  
-3. **IDE** – IntelliJ IDEA, Eclipse nebo jakýkoli editor kompatibilní s Javou.  
-4. **Základní znalost Javy** – měli byste být obeznámeni s třídami a metodami.  
+- **Java Development Kit (JDK) 8+** – vyžadováno pro spuštění kódu.  
+- **Maven** – pro správu závislostí.  
+- **IDE** – IntelliJ IDEA, Eclipse nebo jakýkoli editor kompatibilní s Javou.  
+- **Základní znalost Javy** – měli byste být pohodlní s třídami a metodami.  
 
 ## Nastavení GroupDocs.Conversion pro Java
 
@@ -62,16 +101,16 @@ Integrovat knihovnu GroupDocs.Conversion do vašeho Maven projektu. Níže uvede
 ```
 
 ### Získání licence
-- **Bezplatná zkušební verze:** Stáhněte si trial z webu GroupDocs.  
-- **Dočasná licence:** Požádejte o dočasný klíč pro prodloužené testování.  
-- **Zakoupení:** Přejděte na plnou licenci, jakmile budete spokojeni.
+- **Bezplatná zkušební verze:** Stáhněte si zkušební verzi z webu GroupDocs.  
+- **Dočasná licence:** Požádejte o dočasný klíč pro rozšířené testování.  
+- **Koupě:** Přejděte na plnou licenci, jakmile budete spokojeni.
 
-Po vyřešení závislosti Mavenem můžete začít psát kód pro konverzi.
+Po vyřešení závislosti Maven můžete začít psát kód pro konverzi.
 
 ## Průvodce implementací
 
-### Krok 1: Definujte možnosti načtení prezentace s substitucí fontů
-Následující metoda vytváří objekt `PresentationLoadOptions` a říká GroupDocs, jak nahradit chybějící fonty. Toto je jádro **jak zachovat fonty** během konverze.
+### Krok 1: Definujte Presentation Load Options s substitucí fontů
+`PresentationLoadOptions` je třída GroupDocs, která určuje, jak má být načten soubor prezentace, včetně nastavení substituce fontů. Následující metoda vytvoří objekt `PresentationLoadOptions` a řekne GroupDocs, jak nahradit chybějící fonty. Toto je jádro **jak zachovat fonty** během konverze.
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -103,10 +142,10 @@ public PresentationLoadOptions definePresentationLoadOptionsWithFontSubstitution
 
 **Vysvětlení**  
 - **Substituce fontů:** Mapuje „Tahoma“ a „Times New Roman“ na „Arial“.  
-- **Výchozí font:** Poskytuje záložní (`Helvetica.ttf`) pokud žádná mapa neodpovídá.  
+- **Výchozí font:** Poskytuje záložní (`Helvetica.ttf`) pokud žádná mapování neodpovídají.  
 
-### Krok 2: Převést dokument prezentace do PDF s pokročilými možnostmi
-Nyní použijeme možnosti načtení z Kroku 1 k provedení operace **convert presentation to pdf**.
+### Krok 2: Převod dokumentu prezentace na PDF s pokročilými možnostmi
+`Converter` je hlavní motor v GroupDocs.Conversion, který provádí transformace formátů souborů na základě dodaných možností načtení a uložení. Nyní použijeme možnosti načtení z Kroku 1 k provedení operace **convert pptx to pdf**.
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -129,54 +168,61 @@ public void defineConversionProcessWithAdvancedOptions(PresentationLoadOptions l
 
 **Vysvětlení**  
 - **Inicializace Converteru:** Předává cestu k PPTX spolu s vlastním `loadOptions`.  
-- **Možnosti konverze PDF:** Můžete dále upravit nastavení (např. kvalitu obrázku), pokud je potřeba.  
+- **Možnosti konverze PDF:** Můžete dále ladit nastavení (např. kvalitu obrázků), pokud je potřeba.  
 
 ## Praktické aplikace
-1. **Obchodní prezentace:** Zachovat firemní branding při sdílení PDF s externími partnery.  
-2. **Vzdělávací materiály:** Převést přednáškové sady do PDF pro offline studium bez obav o chybějící fonty.  
-3. **Právní dokumenty:** Zachovat přesné rozvržení důkazních snímků pro soudní podání.  
+1. **Obchodní prezentace:** Udržujte firemní branding neporušený při sdílení PDF s externími partnery.  
+2. **Vzdělávací materiály:** Převádějte přednáškové snímky na PDF pro offline studium bez obav o chybějící fonty.  
+3. **Právní dokumenty:** Zachovejte přesné rozložení důkazních snímků pro soudní podání.  
 
 ## Úvahy o výkonu
-- **Správa paměti:** Přidělte dostatečný heap pro velké prezentace (`-Xmx2g` je dobrý výchozí bod).  
-- **Omezte substituce fontů:** Mapujte jen fonty, které skutečně potřebujete; nadměrné mapování může zpomalit zpracování.  
-- **Garbage Collection:** Zavolejte `System.gc()` po velkých dávkových konverzích, pokud zaznamenáte špičky v paměti.  
+- **Správa paměti:** Přidělte dostatek haldy pro velké prezentace (`-Xmx2g` je dobrý výchozí bod).  
+- **Omezte substituce fontů:** Mapujte jen fonty, které skutečně potřebujete; nadměrná mapování mohou zpomalit zpracování.  
+- **Garbage Collection:** Zavolejte `System.gc()` po velkých dávkových konverzích, pokud zaznamenáte špičky paměti.  
 
 ## Časté problémy a řešení
-
 | Problém | Řešení |
 |-------|----------|
-| **Chybějící výchozí soubor fontu** | Ověřte, že cesta v `setDefaultFont` ukazuje na platný soubor `.ttf` a že je soubor čitelný. |
-| **Konverze se zasekne u velkého PPTX** | Zvyšte velikost JVM heap a zvažte konverzi snímků po dávkách. |
-| **Font nebyl nahrazen podle očekávání** | Ujistěte se, že název zdrojového fontu přesně (rozlišuje velká a malá písmena) odpovídá názvu použitému v `FontSubstitute.create`. |
-| **Výstupní PDF je prázdný** | Potvrďte, že zdrojový PPTX není poškozený a že `Converter` ukazuje na správnou cestu k souboru. |
+| **Chybí výchozí soubor fontu** | Ověřte, že cesta v `setDefaultFont` ukazuje na platný soubor `.ttf` a že je soubor čitelný. |
+| **Konverze se zasekne u velkého PPTX** | Zvyšte velikost haldy JVM a zvažte konverzi snímků po dávkách. |
+| **Font není nahrazen podle očekávání** | Ujistěte se, že název zdrojového fontu přesně (rozlišuje velká a malá písmena) odpovídá názvu použitému v `FontSubstitute.create`. |
+| **Výstupní PDF je prázdný** | Ověřte, že zdrojový PPTX není poškozený a že `Converter` ukazuje na správnou cestu souboru. |
 
 ## Často kladené otázky
 
-**Q: Jaký je hlavní přínos používání vlastních substitucí fontů při konverzích?**  
-A: Vlastní substituce fontů zaručuje, že PDF zachová zamýšlený vzhled, i když originální fonty nejsou na cílovém systému dostupné.
+**Q: Jaký je hlavní přínos použití vlastních substitucí fontů při konverzích?**  
+A: Vlastní substituce fontů zaručuje, že PDF si zachová zamýšlený vzhled, i když původní fonty nejsou dostupné na cílovém systému.
 
 **Q: Jak mohu během konverze zacházet s nepodporovanými fonty?**  
 A: Použijte funkci `FontSubstitute` k mapování nedostupných fontů na alternativy, čímž zajistíte konzistentní estetiku dokumentu.
 
-**Q: Mohu použít GroupDocs.Conversion s řešeními cloudového úložiště?**  
+**Q: Mohu použít GroupDocs.Conversion s cloudovými úložišti?**  
 A: Ano, GroupDocs nabízí integrace, které umožňují konverze přímo z cloudových úložišť jako AWS S3 a Azure Blob Storage.
 
-**Q: Co mám dělat, pokud je můj konverzní proces pomalý?**  
-A: Optimalizujte systémové zdroje, omezte mapování substitucí fontů a zvyšte velikost JVM heap pro zlepšení výkonu.
+**Q: Co dělat, když je můj konverzní proces pomalý?**  
+A: Optimalizujte systémové zdroje, omezte mapování substitucí fontů a zvýšte velikost haldy JVM pro zlepšení výkonu.
 
 **Q: Je tento tutoriál součástí větší série **document conversion tutorial java**?**  
-A: Rozhodně — tento průvodce se zaměřuje na vlastní fonty, ale série také pokrývá extrakci obrázků, vodoznaky a dávkové zpracování pomocí GroupDocs.Conversion pro Java.
+A: Rozhodně – tento průvodce se zaměřuje na vlastní fonty, ale série také pokrývá extrakci obrázků, vodoznaky a dávkové zpracování pomocí GroupDocs.Conversion pro Java.
 
 ## Závěr
-Nyní máte kompletní, připravený přístup pro **convert presentation to pdf** při zachování fontů pomocí **GroupDocs.Conversion pro Java**. Definováním možností načtení s náhradními fonty a využitím výkonného API `Converter` můžete garantovat vizuální věrnost na jakékoli platformě.
+Nyní máte kompletní, produkčně připravený přístup k **convert pptx to pdf** při zachování fontů pomocí **GroupDocs.Conversion pro Java**. Definováním možností načtení s fontovými substitucemi a využitím výkonného API `Converter` můžete garantovat vizuální věrnost napříč jakoukoliv platformou.
 
 **Další kroky**  
 - Experimentujte s dalšími `PdfConvertOptions` (např. nastavení souladu PDF/A).  
 - Integrovat logiku konverze do REST služby pro generování PDF na vyžádání.  
-- Prozkoumat další moduly GroupDocs, jako je `GroupDocs.Annotation`, pro přidávání komentářů k vygenerovaným PDF.
+- Prozkoumejte další moduly GroupDocs, jako je `GroupDocs.Annotation`, pro přidávání komentářů do generovaných PDF.
 
 ---
 
-**Poslední aktualizace:** 2026-01-28  
+**Poslední aktualizace:** 2026-07-29  
 **Testováno s:** GroupDocs.Conversion 25.2 pro Java  
-**Autor:** GroupDocs
+**Autor:** GroupDocs  
+
+---
+
+## Související tutoriály
+
+- [pptx to pdf java – GroupDocs.Conversion Presentation Tutorials](/conversion/java/presentation-formats/)
+- [Efektivní převod PPTX s ukrytými snímky na PDF v Javě pomocí GroupDocs.Conversion](/conversion/java/presentation-formats/convert-pptx-hidden-slides-pdf-java/)
+- [convert note to pdf pomocí GroupDocs.Conversion pro Java](/conversion/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/)
