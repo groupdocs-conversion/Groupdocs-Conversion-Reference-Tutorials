@@ -1,44 +1,95 @@
 ---
-date: '2026-01-28'
-description: Poznaj sposób wyświetlania listy formatów i pobierania wszystkich możliwych
-  konwersji przy użyciu GroupDocs.Conversion dla Javy, w tym scenariusze konwersji
+date: '2026-07-29'
+description: Dowiedz się, jak wyświetlać formaty i uzyskać wszystkie możliwe konwersje
+  przy użyciu GroupDocs.Conversion for Java, idealne dla przepływów pracy konwersji
   plików w chmurze.
 keywords:
-- GroupDocs.Conversion for Java
-- retrieve all possible conversions
+- how to list formats
+- cloud storage file conversion
+- GroupDocs.Conversion Java
+lastmod: '2026-07-29'
+og_description: Poznaj sposób wyświetlania formatów i uzyskiwania wszystkich możliwych
+  konwersji przy użyciu GroupDocs.Conversion for Java. Idealne dla potoków konwersji
+  plików w chmurze.
+og_image_alt: 'Guide: List formats and get conversion matrix with GroupDocs.Conversion
+  Java'
+og_title: Jak wyświetlić formaty przy użyciu GroupDocs.Conversion for Java
+schemas:
+- author: GroupDocs
+  dateModified: '2026-07-29'
+  description: Discover how to list formats and retrieve all possible conversions
+    using GroupDocs.Conversion for Java, ideal for cloud storage file conversion workflows.
+  headline: How to List Formats with GroupDocs.Conversion for Java
+  type: TechArticle
+- description: Discover how to list formats and retrieve all possible conversions
+    using GroupDocs.Conversion for Java, ideal for cloud storage file conversion workflows.
+  name: How to List Formats with GroupDocs.Conversion for Java
+  steps:
+  - name: '**Dynamic Format Detection:** When a file lands in cloud storage, you can
+      instantly query whether the desired target format is supported.'
+    text: '**Dynamic Format Detection:** When a file lands in cloud storage, you can
+      instantly query whether the desired target format is supported.'
+  - name: '**Batch Migration:** Move large document libraries to a unified format
+      (e.g., PDF/A) by iterating over supported source types.'
+    text: '**Batch Migration:** Move large document libraries to a unified format
+      (e.g., PDF/A) by iterating over supported source types.'
+  - name: '**User‑Driven Export:** Offer end‑users a dropdown of only the formats
+      their current document can be exported to, reducing errors and improving UX.'
+    text: '**User‑Driven Export:** Offer end‑users a dropdown of only the formats
+      their current document can be exported to, reducing errors and improving UX.'
+  type: HowTo
+- questions:
+  - answer: It is a server‑side library that supports 200+ input and 200+ output formats,
+      enabling fast, license‑free document conversion without external software.
+    question: What is GroupDocs.Conversion for Java?
+  - answer: Set up your Maven project, add the dependency shown earlier, load a license
+      file, and instantiate the `Converter` class as demonstrated in the initialization
+      section.
+    question: How do I start with GroupDocs.Conversion?
+  - answer: Yes—through the API’s extensibility points you can register custom converters
+      or plug‑in third‑party handlers for proprietary formats.
+    question: Can I convert custom file types using GroupDocs.Conversion?
+  - answer: Forgetting to close the `Converter`, using an old JAR version, or overlooking
+      memory usage for very large PDFs. Follow the resource‑management tips above.
+    question: What are common pitfalls when implementing conversions?
+  - answer: Visit the official [documentation](https://docs.groupdocs.com/conversion/java/)
+      or ask questions in the GroupDocs community forum.
+    question: Where can I get more help?
+  type: FAQPage
+tags:
+- convert formats
+- GroupDocs.Conversion
 - Java document conversion
-title: 'GroupDocs.Conversion dla Javy: Jak wyświetlić formaty i uzyskać wszystkie
-  możliwe konwersje'
+- cloud storage conversion
+title: Jak wyświetlić formaty przy użyciu GroupDocs.Conversion for Java
 type: docs
 url: /pl/java/conversion-options/groupdocs-conversion-java-retrieve-possible-conversions/
 weight: 1
 ---
 
-# Kompletny przewodnik po pobieraniu wszystkich możliwych konwersji przy użyciu GroupDocs.Conversion dla Javy
+# Jak wyświetlić formaty i pobrać wszystkie możliwe konwersje przy użyciu GroupDocs.Conversion dla Javy
 
-Projekty konwersji dokumentów często zaczynają się od prostego pytania: **jak wyświetlić listę formatów**, które biblioteka obsługuje, zanim zdecydujesz, które z nich konwertować. W tym samouczku dowiesz się dokładnie tego — jak wyświetlić listę formatów i pobrać każdą możliwą ścieżkę konwersji oferowaną przez GroupDocs.Conversion dla Javy. Przeprowadzimy Cię przez konfigurację, uruchomienie kodu, scenariusze rzeczywiste oraz wskazówki dotyczące wydajności, abyś mógł pewnie integrować wykrywanie formatów w swoich aplikacjach.
+W wielu projektach przetwarzania dokumentów pierwszym krokiem jest poznanie **jak wyświetlić formaty**, które obsługuje silnik konwersji. Ten samouczek pokazuje, krok po kroku, jak zapytać GroupDocs.Conversion dla Javy, pobrać każdą parę źródło‑cel i zastosować tę wiedzę w potokach konwersji plików w chmurze. Po zakończeniu będziesz mieć metodę wielokrotnego użytku, która zwraca pełną macierz konwersji, oraz praktyczne wskazówki dotyczące wydajności i obsługi błędów.
 
 ## Szybkie odpowiedzi
-- **Co oznacza „list formats”?** Zwraca każdą parę konwersji źródło‑do‑cel, którą biblioteka potrafi obsłużyć.  
-- **Czy potrzebna jest licencja?** Bezpłatna wersja próbna wystarczy do testów; licencja płatna jest wymagana w środowisku produkcyjnym.  
-- **Czy to pomaga przy konwersji plików w chmurze?** Tak — znajomość obsługiwanych formatów umożliwia automatyzację konwersji w potokach przechowywania w chmurze.  
-- **Jakiej wersji Javy potrzebuję?** JDK 8 lub nowszej.  
-- **Czy funkcja jest wątkowo‑bezpieczna?** Instancję `Converter` można współdzielić między wątkami, ale po użyciu należy zwolnić zasoby.
+- **Co oznacza „list formats”?** Zwraca każdą parę konwersji źródło‑cel, którą biblioteka może obsłużyć.  
+- **Czy potrzebna jest licencja?** Bezpłatna wersja próbna działa do testów; płatna licencja jest wymagana w środowisku produkcyjnym.  
+- **Czy to może pomóc w konwersji plików w chmurze?** Tak — znajomość obsługiwanych formatów pozwala automatyzować konwersje w potokach przechowywania w chmurze.  
+- **Jakiej wersji Javy wymaga?** JDK 8 lub nowszy.  
+- **Czy funkcja jest wątkowo‑bezpieczna?** Instancję `Converter` można ponownie używać w wielu wątkach, ale należy zwolnić zasoby po użyciu.
 
-## Co oznacza „how to list formats” w GroupDocs.Conversion?
-Operacja **list formats** odpyta wewnętrzną macierz konwersji i zwróci kolekcję opisującą każdy format źródłowy oraz formaty docelowe, na które może być przekształcony. Ta wiedza jest niezbędna przy budowaniu dynamicznych przepływów przetwarzania dokumentów.
+## Co to jest „how to list formats” w GroupDocs.Conversion?
+Operacja **list formats** zwraca kolekcję opisującą każdy format źródłowy wraz z formatami docelowymi, na które może być przekształcony. Ta macierz jest generowana na podstawie wewnętrznych reguł konwersji biblioteki i jest niezbędna do budowania dynamicznych przepływów pracy, które dostosowują się do rzeczywistych możliwości GroupDocs.Conversion w czasie wykonywania.
 
-## Dlaczego warto używać GroupDocs.Conversion dla Javy?
-- **Szerokie pokrycie formatów:** Setki typów źródłowych i docelowych są obsługiwane od razu po instalacji.  
-- **Gotowość do chmury:** Idealne dla potoków konwersji plików w przechowywaniu w chmurze, gdzie trzeba znać, które pliki można konwertować w locie.  
-- **Optymalizacja wydajności:** Dostosowane do operacji wsadowych na dużą skalę.
+## Dlaczego używać GroupDocs.Conversion dla Javy?
+GroupDocs.Conversion dla Javy obsługuje **ponad 200 formatów wejściowych** i **ponad 200 formatów wyjściowych**, obejmując wszystko od DOCX i PPTX po PDF/A i typy obrazów. Działa w pełni na serwerze, więc nie są wymagane produkty Microsoft Office ani Adobe. API jest wątkowo‑bezpieczne, może przetwarzać dokumenty wielokrotnie setek stron bez ładowania całego pliku do pamięci oraz integruje się płynnie z usługami przechowywania w chmurze, takimi jak AWS S3, Azure Blob i Google Cloud Storage.
 
 ## Wymagania wstępne
 - **Java Development Kit (JDK):** Wersja 8 lub nowsza.  
-- **Maven:** Poprawnie skonfigurowany w Twoim IDE (IntelliJ IDEA, Eclipse, NetBeans itp.).  
-- **GroupDocs.Conversion dla Javy:** Dodany jako zależność Maven (patrz niżej).  
+- **Maven:** Poprawnie skonfigurowany w Twoim IDE (IntelliJ IDEA, Eclipse, NetBeans, itp.).  
+- **GroupDocs.Conversion dla Javy:** Dodany jako zależność Maven (zobacz poniżej).  
 
-## Konfiguracja GroupDocs.Conversion dla Javy
+## Konfigurowanie GroupDocs.Conversion dla Javy
 
 Dodaj repozytorium GroupDocs i zależność do swojego `pom.xml`:
 
@@ -60,7 +111,7 @@ Dodaj repozytorium GroupDocs i zależność do swojego `pom.xml`:
 ```
 
 ### Uzyskanie licencji
-Rozpocznij od bezpłatnej wersji próbnej, aby zapoznać się z API. W środowisku produkcyjnym zakup licencję lub poproś o tymczasową licencję ewaluacyjną.
+Rozpocznij od bezpłatnej wersji próbnej, aby przetestować API. Dla obciążeń produkcyjnych zakup licencję lub poproś o tymczasową licencję ewaluacyjną.
 
 ### Podstawowa inicjalizacja i konfiguracja
 
@@ -77,10 +128,13 @@ public class ConversionSetup {
 }
 ```
 
-## Jak wyświetlić listę formatów przy użyciu GroupDocs.Conversion dla Javy
-Poniższe sekcje pokazują, jak pobrać pełną macierz konwersji. Fragmenty kodu są niezmienione w stosunku do oryginalnego samouczka; dodaliśmy jedynie kontekst i wyjaśnienia.
+## Jak wyświetlić formaty przy użyciu GroupDocs.Conversion dla Javy
+`Converter` jest klasą podstawową, która wykonuje konwersje i udostępnia informacje o formatach. `getAllPossibleConversions()` zwraca listę wszystkich obsługiwanych par konwersji źródło‑cel. `ConversionInfo` reprezentuje pojedyncze mapowanie konwersji pomiędzy formatem źródłowym a docelowym.  
+
+Załaduj silnik `Converter`, wywołaj `getAllPossibleConversions()` i otrzymasz listę obiektów `ConversionInfo`, które opisują każdą dopuszczalną parę źródło‑cel. To pojedyncze wywołanie wystarczy, aby zbudować listę rozwijaną opcji eksportu, zweryfikować przychodzące pliki lub zaprojektować skrypty migracji wsadowej.
 
 ### Inicjalizacja i pobranie konwersji
+Klasa `Converter` jest silnikiem podstawowym, który zapewnia możliwości konwersji i udostępnia metodę `getAllPossibleConversions()`.
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -143,43 +197,49 @@ public class GetAllPossibleConversionsFeature {
 ```
 
 ## Przypadki użycia konwersji plików w chmurze
-Znajomość pełnej macierzy konwersji jest szczególnie cenna przy budowaniu usług **konwersji plików w chmurze**:
+Znajomość pełnej macierzy konwersji jest szczególnie cenna przy budowaniu usług **cloud storage file conversion**:
 
-1. **Dynamiczne wykrywanie formatu:** Gdy plik pojawi się w chmurze, możesz natychmiast sprawdzić, czy żądany format docelowy jest obsługiwany.  
-2. **Migracja wsadowa:** Przenieś duże biblioteki dokumentów do jednego, ujednoliconego formatu (np. PDF/A), iterując po obsługiwanych typach źródłowych.  
-3. **Eksport sterowany przez użytkownika:** Udostępnij końcowym użytkownikom rozwijane menu zawierające tylko formaty, do których ich bieżący dokument może być wyeksportowany, zmniejszając liczbę błędów.
+1. **Dynamiczne wykrywanie formatu:** Gdy plik pojawi się w przechowywaniu w chmurze, możesz natychmiast sprawdzić, czy żądany format docelowy jest obsługiwany.  
+2. **Migracja wsadowa:** Przenieś duże biblioteki dokumentów do jednego formatu (np. PDF/A), iterując po obsługiwanych typach źródłowych.  
+3. **Eksport sterowany przez użytkownika:** Udostępnij końcowym użytkownikom listę rozwijaną tylko z formatami, do których ich bieżący dokument może być wyeksportowany, zmniejszając liczbę błędów i poprawiając UX.
 
-## Wskazówki dotyczące wydajności
+## Rozważania dotyczące wydajności
 - **Zarządzanie zasobami:** Zwolnij instancję `Converter` lub użyj try‑with‑resources, jeśli tworzysz wiele krótkotrwałych konwerterów.  
 - **Przetwarzanie wsadowe:** Grupuj wiele plików w jedno zadanie, aby zmniejszyć narzut.  
-- **Cache'owanie:** Przechowuj w pamięci wynik `getAllPossibleConversions()`, jeśli odwołujesz się do niego często; macierz konwersji rzadko zmienia się w czasie działania aplikacji.
+- **Buforowanie:** Przechowuj w pamięci wynik `getAllPossibleConversions()`, jeśli często go wywołujesz; macierz konwersji rzadko zmienia się w czasie wykonywania.  
 
 ## Typowe problemy i rozwiązania
 | Objaw | Prawdopodobna przyczyna | Rozwiązanie |
-|-------|--------------------------|-------------|
-| Brak wyjścia | `Converter` nie został poprawnie zainicjowany | Upewnij się, że plik JAR biblioteki znajduje się na classpath i że licencja została załadowana. |
-| Lista `TargetConversion` jest pusta | Używana jest przestarzała wersja biblioteki | Zaktualizuj do najnowszej wersji GroupDocs.Conversion. |
-| Skoki pamięci przy dużych dokumentach | Nie zwalniane są zasoby konwertera | Wywołaj `converter.close()` lub użyj try‑with‑resources. |
+|---------|--------------|-----|
+| Brak wyjścia | `Converter` nie został poprawnie zainicjowany | Upewnij się, że plik JAR biblioteki znajduje się na classpath i licencja została załadowana. |
+| Lista `TargetConversion` jest pusta | Używana przestarzała wersja biblioteki | Zaktualizuj do najnowszej wersji GroupDocs.Conversion. |
+| Skoki pamięci przy dużych dokumentach | Nie zwalnianie zasobów konwertera | Wywołaj `converter.close()` lub użyj try‑with‑resources. |
 
 ## Najczęściej zadawane pytania
 
 **P: Co to jest GroupDocs.Conversion dla Javy?**  
-O: Potężna biblioteka konwersji dokumentów obsługująca szeroką gamę formatów, umożliwiająca płynną integrację i automatyzację w aplikacjach Java.
+**O:** To biblioteka po stronie serwera, która obsługuje ponad 200 formatów wejściowych i ponad 200 formatów wyjściowych, umożliwiając szybką konwersję dokumentów bez licencji i bez zewnętrznego oprogramowania.
 
 **P: Jak rozpocząć pracę z GroupDocs.Conversion?**  
-O: Zacznij od skonfigurowania środowiska zgodnie z wymaganiami wstępnymi i dodania biblioteki przez Maven.
+**O:** Skonfiguruj projekt Maven, dodaj zależność pokazaną wcześniej, załaduj plik licencji i utwórz instancję klasy `Converter`, jak pokazano w sekcji inicjalizacji.
 
 **P: Czy mogę konwertować własne typy plików przy użyciu GroupDocs.Conversion?**  
-O: Tak, dzięki opcjom dostosowywania dostępnym w API możesz rozszerzyć obsługę o dodatkowe formaty plików.
+**O:** Tak — dzięki punktom rozszerzalności API możesz zarejestrować własne konwertery lub podłączyć obsługę zewnętrznych handlerów dla formatów własnościowych.
 
-**P: Jakie są typowe problemy przy implementacji konwersji?**  
-O: Upewnij się, że wszystkie zależności są poprawnie skonfigurowane oraz że środowisko Java spełnia wymagania biblioteki.
+**P: Jakie są typowe pułapki przy implementacji konwersji?**  
+**O:** Zapomnienie o zamknięciu `Converter`, używanie starej wersji JAR lub nieuważanie na zużycie pamięci przy bardzo dużych plikach PDF. Postępuj zgodnie z powyższymi wskazówkami dotyczącymi zarządzania zasobami.
 
-**P: Gdzie mogę uzyskać dodatkową pomoc?**  
-O: Odwiedź forum GroupDocs lub zapoznaj się z ich obszerną [dokumentacją](https://docs.groupdocs.com/conversion/java/).
+**P: Gdzie mogę uzyskać więcej pomocy?**  
+**O:** Odwiedź oficjalną [dokumentację](https://docs.groupdocs.com/conversion/java/) lub zadawaj pytania na forum społeczności GroupDocs.
 
 ---
 
-**Ostatnia aktualizacja:** 2026-01-28  
-**Testowano z:** GroupDocs.Conversion 25.2 dla Javy  
+**Ostatnia aktualizacja:** 2026-07-29  
+**Testowano z:** GroupDocs.Conversion 25.2 for Java  
 **Autor:** GroupDocs
+
+## Powiązane samouczki
+
+- [Konwertuj Word do PDF i inne formaty plików przy użyciu GroupDocs.Conversion dla Javy](/conversion/java/)
+- [Word do PDF Java – Ukryj zmiany śledzone i opcje konwersji](/conversion/java/conversion-options/)
+- [Jak śledzić postęp konwersji w Javie z GroupDocs – Kompletny przewodnik](/conversion/java/conversion-events-logging/java-groupdocs-conversion-progress-listener/)

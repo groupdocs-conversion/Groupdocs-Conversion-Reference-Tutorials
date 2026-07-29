@@ -1,43 +1,95 @@
 ---
-date: '2026-01-28'
-description: GroupDocs.Conversion for Java ile formatları listelemeyi ve olası tüm
-  dönüşümleri elde etmeyi öğrenin, bulut depolama dosya dönüşüm senaryoları dahil.
+date: '2026-07-29'
+description: GroupDocs.Conversion for Java kullanarak formatları nasıl listeleyeceğinizi
+  ve tüm olası dönüşümleri nasıl alacağınızı keşfedin; bulut depolama dosya dönüşüm
+  iş akışları için idealdir.
 keywords:
-- GroupDocs.Conversion for Java
-- retrieve all possible conversions
+- how to list formats
+- cloud storage file conversion
+- GroupDocs.Conversion Java
+lastmod: '2026-07-29'
+og_description: GroupDocs.Conversion for Java kullanarak formatları nasıl listeleyeceğinizi
+  ve tüm olası dönüşümleri nasıl alacağınızı öğrenin. Bulut depolama dosya dönüşüm
+  hatları için idealdir.
+og_image_alt: 'Guide: List formats and get conversion matrix with GroupDocs.Conversion
+  Java'
+og_title: GroupDocs.Conversion for Java ile Formatları Nasıl Listeleyebilirsiniz
+schemas:
+- author: GroupDocs
+  dateModified: '2026-07-29'
+  description: Discover how to list formats and retrieve all possible conversions
+    using GroupDocs.Conversion for Java, ideal for cloud storage file conversion workflows.
+  headline: How to List Formats with GroupDocs.Conversion for Java
+  type: TechArticle
+- description: Discover how to list formats and retrieve all possible conversions
+    using GroupDocs.Conversion for Java, ideal for cloud storage file conversion workflows.
+  name: How to List Formats with GroupDocs.Conversion for Java
+  steps:
+  - name: '**Dynamic Format Detection:** When a file lands in cloud storage, you can
+      instantly query whether the desired target format is supported.'
+    text: '**Dynamic Format Detection:** When a file lands in cloud storage, you can
+      instantly query whether the desired target format is supported.'
+  - name: '**Batch Migration:** Move large document libraries to a unified format
+      (e.g., PDF/A) by iterating over supported source types.'
+    text: '**Batch Migration:** Move large document libraries to a unified format
+      (e.g., PDF/A) by iterating over supported source types.'
+  - name: '**User‑Driven Export:** Offer end‑users a dropdown of only the formats
+      their current document can be exported to, reducing errors and improving UX.'
+    text: '**User‑Driven Export:** Offer end‑users a dropdown of only the formats
+      their current document can be exported to, reducing errors and improving UX.'
+  type: HowTo
+- questions:
+  - answer: It is a server‑side library that supports 200+ input and 200+ output formats,
+      enabling fast, license‑free document conversion without external software.
+    question: What is GroupDocs.Conversion for Java?
+  - answer: Set up your Maven project, add the dependency shown earlier, load a license
+      file, and instantiate the `Converter` class as demonstrated in the initialization
+      section.
+    question: How do I start with GroupDocs.Conversion?
+  - answer: Yes—through the API’s extensibility points you can register custom converters
+      or plug‑in third‑party handlers for proprietary formats.
+    question: Can I convert custom file types using GroupDocs.Conversion?
+  - answer: Forgetting to close the `Converter`, using an old JAR version, or overlooking
+      memory usage for very large PDFs. Follow the resource‑management tips above.
+    question: What are common pitfalls when implementing conversions?
+  - answer: Visit the official [documentation](https://docs.groupdocs.com/conversion/java/)
+      or ask questions in the GroupDocs community forum.
+    question: Where can I get more help?
+  type: FAQPage
+tags:
+- convert formats
+- GroupDocs.Conversion
 - Java document conversion
-title: 'GroupDocs.Conversion for Java: Biçimleri Listeleme ve Tüm Olası Dönüşümleri
-  Getirme'
+- cloud storage conversion
+title: GroupDocs.Conversion for Java ile Formatları Nasıl Listeleyebilirsiniz
 type: docs
 url: /tr/java/conversion-options/groupdocs-conversion-java-retrieve-possible-conversions/
 weight: 1
 ---
 
-# Comprehensive Guide to Retrieving All Possible Conversions Using GroupDocs.Conversion for Java
+# GroupDocs.Conversion for Java ile Formatları Listeleme ve Tüm Olası Dönüşümleri Getirme
 
-Belge dönüştürme projeleri genellikle basit bir soruyla başlar: **bir kütüphanenin desteklediği formatları nasıl listeleyebilirim** ve hangi formatlara dönüştürebileceğinize karar vermeden önce. Bu öğreticide tam olarak bunu keşfedeceksiniz—GroupDocs.Conversion for Java tarafından sunulan tüm olası dönüşüm yollarını nasıl listeleyeceğinizi. Kurulum, kod çalıştırma, gerçek dünya senaryoları ve performans ipuçları üzerinden ilerleyecek ve format keşfini uygulamalarınıza güvenle entegre edebileceksiniz.
+Birçok belge‑işleme projesinde ilk adım, dönüşüm motorunun desteklediği **formatların nasıl listeleneceği** bilmektir. Bu öğreticide, adım adım, GroupDocs.Conversion for Java’yı nasıl sorgulayacağınızı, her kaynak‑hedef çiftini nasıl alacağınızı ve bu bilgiyi bulut depolama dosya dönüşüm hatlarında nasıl uygulayacağınızı gösteriyoruz. Sonunda, tam dönüşüm matrisini döndüren yeniden kullanılabilir bir yönteme ve performans ile hata yönetimi için pratik ipuçlarına sahip olacaksınız.
 
-## Quick Answers
+## Hızlı Yanıtlar
 - **“list formats” ne anlama geliyor?** Kütüphanenin işleyebileceği her kaynak‑hedef dönüşüm çiftini döndürür.  
-- **Lisans gerekiyor mu?** Test için ücretsiz deneme sürümü çalışır; üretim için ücretli lisans gereklidir.  
-- **Bu bulut depolama dosya dönüşümüne yardımcı olur mu?** Evet—desteklenen formatları bilmek, bulut depolama boru hatlarında dönüşümleri otomatikleştirmenizi sağlar.  
-- **Hangi Java sürümü gerekli?** JDK 8 veya üzeri.  
-- **Özellik çoklu iş parçacığı (thread‑safe) mi?** `Converter` örneği iş parçacıkları arasında yeniden kullanılabilir, ancak kullanım sonrası kaynakları serbest bırakın.
+- **Bir lisansa ihtiyacım var mı?** Test için ücretsiz deneme çalışır; üretim için ücretli bir lisans gereklidir.  
+- **Bu, bulut depolama dosya dönüşümüne yardımcı olabilir mi?** Evet—desteklenen formatları bilmek, bulut depolama hatlarında dönüşümleri otomatikleştirmenizi sağlar.  
+- **Hangi Java sürümü gereklidir?** JDK 8 veya daha yenisi.  
+- **Özellik çoklu iş parçacığı güvenli mi?** `Converter` örneği iş parçacıkları arasında yeniden kullanılabilir, ancak kullanım sonrası kaynakları serbest bırakın.
 
-## What is “how to list formats” in GroupDocs.Conversion?
-**list formats** işlemi, iç dönüşüm matrisini sorgular ve her kaynak formatı ile dönüştürülebileceği hedef formatları tanımlayan bir koleksiyon döndürür. Bu içgörü, dinamik belge işleme iş akışları oluşturmak için hayati öneme sahiptir.
+## GroupDocs.Conversion’da “formatların nasıl listeleneceği” nedir?
+**list formats** işlemi, her kaynak formatı ve dönüştürülebileceği hedef formatları tanımlayan bir koleksiyon döndürür. Bu matris, kütüphanenin dahili dönüşüm kurallarından üretilir ve çalışma zamanında GroupDocs.Conversion’ın gerçek yeteneklerine uyum sağlayan dinamik iş akışları oluşturmak için gereklidir.
 
-## Why Use GroupDocs.Conversion for Java?
-- **Geniş format kapsamı:** Yüzlerce kaynak ve hedef tür kutudan çıktığı gibi desteklenir.  
-- **Bulut‑hazır:** Hangi dosyaların anında dönüştürülebileceğini bilmeniz gereken bulut depolama dosya dönüşüm boru hatları için mükemmeldir.  
-- **Performans‑optimizeli:** Büyük ölçekli toplu işlemler için optimize edilmiştir.
+## Neden GroupDocs.Conversion for Java Kullanılmalı?
+GroupDocs.Conversion for Java, **200+ giriş formatı** ve **200+ çıkış formatı** destekler; DOCX ve PPTX'ten PDF/A ve görüntü türlerine kadar her şeyi kapsar. Tamamen sunucuda çalışır, bu yüzden Microsoft Office veya Adobe ürünlerine ihtiyaç yoktur. API çoklu iş parçacığı güvenlidir, tüm dosyayı belleğe yüklemeden çok sayfalı belgeleri işleyebilir ve AWS S3, Azure Blob ve Google Cloud Storage gibi bulut depolama hizmetleriyle sorunsuz entegrasyon sağlar.
 
-## Prerequisites
+## Önkoşullar
 - **Java Development Kit (JDK):** Versiyon 8 veya daha yenisi.  
-- **Maven:** IDE’nizde (IntelliJ IDEA, Eclipse, NetBeans vb.) doğru yapılandırılmış olmalı.  
-- **GroupDocs.Conversion for Java:** Maven bağımlılığı olarak eklenmiş olmalı (aşağıya bakın).  
+- **Maven:** IDE'nizde (IntelliJ IDEA, Eclipse, NetBeans vb.) doğru şekilde yapılandırılmış.  
+- **GroupDocs.Conversion for Java:** Maven bağımlılığı olarak eklenmiş (aşağıya bakın).  
 
-## Setting Up GroupDocs.Conversion for Java
+## GroupDocs.Conversion for Java Kurulumu
 
 `pom.xml` dosyanıza GroupDocs deposunu ve bağımlılığı ekleyin:
 
@@ -58,10 +110,10 @@ Belge dönüştürme projeleri genellikle basit bir soruyla başlar: **bir küt�
 </dependencies>
 ```
 
-### License Acquisition
-API’yı keşfetmek için ücretsiz deneme sürümüyle başlayın. Üretim iş yükleri için bir lisans satın alın veya geçici bir değerlendirme lisansı talep edin.
+### Lisans Alımı
+API'yi keşfetmek için ücretsiz bir deneme ile başlayın. Üretim yükleri için bir lisans satın alın veya geçici bir değerlendirme lisansı isteyin.
 
-### Basic Initialization and Setup
+### Temel Başlatma ve Kurulum
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -76,10 +128,14 @@ public class ConversionSetup {
 }
 ```
 
-## How to List Formats Using GroupDocs.Conversion for Java
-Aşağıdaki bölümler, tam dönüşüm matrisini nasıl alacağınızı gösterir. Kod parçacıkları orijinal öğreticiden değiştirilmemiştir; sadece bağlam ve açıklamalar eklenmiştir.
+## GroupDocs.Conversion for Java ile Formatları Listeleme
+`Converter`, dönüşümleri gerçekleştiren ve format bilgisi sağlayan temel sınıftır. `getAllPossibleConversions()` desteklenen tüm kaynak‑hedef dönüşüm çiftlerinin bir listesini döndürür. `ConversionInfo` bir kaynak ve hedef format arasındaki tek bir dönüşüm eşlemesini temsil eder.  
 
-### Initialize and Retrieve Conversions
+`Converter` motorunu yükleyin, `getAllPossibleConversions()` metodunu çağırın ve her izin verilen kaynak‑hedef çiftini tanımlayan `ConversionInfo` nesnelerinin bir listesini alacaksınız. Bu tek çağrı, dışa aktarma seçenekleri için bir açılır menü oluşturmak, gelen dosyaları doğrulamak veya toplu‑göç betikleri tasarlamak için yeterlidir.
+
+### Başlatma ve Dönüşümleri Getirme
+
+`Converter` sınıfı, dönüşüm yetenekleri sağlayan ve `getAllPossibleConversions()` metodunu ortaya çıkaran çekirdek motorudur.  
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -91,7 +147,7 @@ public class GetAllPossibleConversionsFeature {
         Converter converter = new Converter();
 ```
 
-### Iterate Over Possible Conversions
+### Olası Dönüşümler Üzerinde Döngü
 
 ```java
 // Retrieve all possible conversions supported by the library
@@ -100,7 +156,7 @@ for (PossibleConversions conversions : converter.getAllPossibleConversions()) {
     System.out.print(String.format("Source format: %s \n", conversions.getSource().getDescription()));
 ```
 
-### Determine Conversion Types
+### Dönüşüm Türlerini Belirleme
 
 ```java
 // Iterate through each target conversion available for the source format
@@ -112,7 +168,7 @@ for (TargetConversion conversion : conversions.getAll()) {
 }
 ```
 
-### Complete Function
+### Tam Fonksiyon
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -141,44 +197,51 @@ public class GetAllPossibleConversionsFeature {
 }
 ```
 
-## Cloud Storage File Conversion Use Cases
+## Bulut Depolama Dosya Dönüşümü Kullanım Durumları
 Tam dönüşüm matrisini bilmek, **bulut depolama dosya dönüşümü** hizmetleri oluştururken özellikle değerlidir:
 
 1. **Dinamik Format Algılama:** Bir dosya bulut depolamaya geldiğinde, istenen hedef formatın desteklenip desteklenmediğini anında sorgulayabilirsiniz.  
-2. **Toplu Göç:** Desteklenen kaynak türleri üzerinde döngü yaparak büyük belge kütüphanelerini birleşik bir formata (ör. PDF/A) taşıyın.  
-3. **Kullanıcı‑Tetikli Dışa Aktarım:** Kullanıcıların mevcut belgelerinden yalnızca dışa aktarılabilecek formatları içeren bir açılır menü sunarak hataları azaltın.
+2. **Toplu Göç:** Desteklenen kaynak türleri üzerinden döngü yaparak büyük belge kütüphanelerini tek bir formata (ör. PDF/A) taşıyın.  
+3. **Kullanıcı‑Odaklı Dışa Aktarım:** Son kullanıcılara mevcut belgelerinin dışa aktarılabileceği yalnızca formatların bir açılır menüsünü sunun, hataları azaltın ve kullanıcı deneyimini iyileştirin.
 
-## Performance Considerations
-- **Kaynak Yönetimi:** Çok sayıda kısa ömürlü dönüştürücü oluşturuyorsanız `Converter` örneğini serbest bırakın veya try‑with‑resources kullanın.  
-- **Toplu İşleme:** Birden fazla dosyayı tek bir işte gruplayarak ek yükü azaltın.  
+## Performans Düşünceleri
+- **Kaynak Yönetimi:** `Converter` örneğini serbest bırakın veya çok sayıda kısa ömürlü dönüştürücü oluşturuyorsanız try‑with‑resources kullanın.  
+- **Toplu İşleme:** Aşırı yükü azaltmak için birden fazla dosyayı tek bir işte gruplayın.  
 - **Önbellekleme:** `getAllPossibleConversions()` sonucunu sık sorguluyorsanız önbelleğe alın; dönüşüm matrisi çalışma zamanında nadiren değişir.
 
-## Common Issues and Solutions
-| Symptom | Likely Cause | Fix |
-|---------|--------------|-----|
-| No output appears | `Converter` not initialized correctly | Ensure the library JAR is on the classpath and the license is loaded. |
-| `TargetConversion` list is empty | Using an outdated library version | Upgrade to the latest GroupDocs.Conversion release. |
-| Memory spikes on large documents | Not disposing of converter resources | Call `converter.close()` or use try‑with‑resources. |
+## Yaygın Sorunlar ve Çözümler
 
-## Frequently Asked Questions
+| Belirti | Muhtemel Neden | Çözüm |
+|---------|----------------|------|
+| Çıktı görünmüyor | `Converter` doğru şekilde başlatılmamış | Kütüphane JAR'ının sınıf yolunda olduğundan ve lisansın yüklendiğinden emin olun. |
+| `TargetConversion` listesi boş | Eski bir kütüphane sürümü kullanılıyor | En son GroupDocs.Conversion sürümüne yükseltin. |
+| Büyük belgelerde bellek dalgalanmaları | Dönüştürücü kaynakları serbest bırakılmıyor | `converter.close()` çağırın veya try‑with‑resources kullanın. |
+
+## Sıkça Sorulan Sorular
 
 **S: GroupDocs.Conversion for Java nedir?**  
-C: Geniş bir format yelpazesini destekleyen güçlü bir belge dönüşüm kütüphanesidir; Java uygulamaları içinde sorunsuz entegrasyon ve otomasyon sağlar.
+C: 200+ giriş ve 200+ çıkış formatını destekleyen bir sunucu‑tarafı kütüphanedir; harici yazılım olmadan hızlı, lisans‑sız belge dönüşümü sağlar.
 
-**S: GroupDocs.Conversion’a nasıl başlarım?**  
-C: Gereksinimlerde açıklanan ortamı kurarak ve Maven aracılığıyla kütüphaneyi ekleyerek başlayın.
+**S: GroupDocs.Conversion’a nasıl başlayabilirim?**  
+C: Maven projenizi kurun, yukarıda gösterilen bağımlılığı ekleyin, bir lisans dosyası yükleyin ve başlatma bölümünde gösterildiği gibi `Converter` sınıfını örnekleyin.
 
 **S: GroupDocs.Conversion ile özel dosya türlerini dönüştürebilir miyim?**  
-C: Evet, API’da bulunan özelleştirme seçenekleri sayesinde ek dosya formatlarını destekleyecek şekilde genişletebilirsiniz.
+C: Evet—API’nın genişletilebilir noktaları aracılığıyla özel dönüştürücüler kaydedebilir veya tescilli formatlar için üçüncü‑taraf işleyicileri eklenti olarak ekleyebilirsiniz.
 
-**S: Dönüşümleri uygularken sık karşılaşılan sorunlar nelerdir?**  
-C: Tüm bağımlılıkların doğru yapılandırıldığından emin olun ve Java ortamınızın kütüphanenin gereksinimlerini karşıladığını doğrulayın.
+**S: Dönüşümleri uygularken yaygın tuzaklar nelerdir?**  
+C: `Converter`'ı kapatmayı unutmak, eski bir JAR sürümü kullanmak veya çok büyük PDF'lerde bellek kullanımını göz ardı etmek. Yukarıdaki kaynak‑yönetimi ipuçlarını izleyin.
 
-**S: Daha fazla yardıma nereden ulaşabilirim?**  
-C: GroupDocs forumunu ziyaret edin veya kapsamlı [documentation](https://docs.groupdocs.com/conversion/java/) sayfalarına göz atın.
+**S: Daha fazla yardım nereden alabilirim?**  
+C: Resmi [belgelere](https://docs.groupdocs.com/conversion/java/) göz atın veya GroupDocs topluluk forumunda soru sorun.
 
 ---
 
-**Last Updated:** 2026-01-28  
-**Tested With:** GroupDocs.Conversion 25.2 for Java  
-**Author:** GroupDocs
+**Son Güncelleme:** 2026-07-29  
+**Test Edilen Sürüm:** GroupDocs.Conversion 25.2 for Java  
+**Yazar:** GroupDocs
+
+## İlgili Öğreticiler
+
+- [Word'ü PDF ve Diğer Dosya Formatlarına Dönüştürme - GroupDocs.Conversion for Java](/conversion/java/)
+- [Word to PDF Java – İzlenen Değişiklikleri Gizle & Dönüşüm Seçenekleri](/conversion/java/conversion-options/)
+- [Java'da Dönüşüm İlerlemesini İzleme - GroupDocs ile Tam Kılavuz](/conversion/java/conversion-events-logging/java-groupdocs-conversion-progress-listener/)

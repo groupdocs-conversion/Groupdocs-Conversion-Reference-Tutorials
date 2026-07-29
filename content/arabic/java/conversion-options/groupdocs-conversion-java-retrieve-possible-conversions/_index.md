@@ -1,44 +1,95 @@
 ---
-date: '2026-01-28'
-description: تعلم كيفية سرد الصيغ واسترجاع جميع التحويلات الممكنة باستخدام GroupDocs.Conversion
-  للغة Java، بما في ذلك سيناريوهات تحويل الملفات عبر التخزين السحابي.
+date: '2026-07-29'
+description: اكتشف كيفية سرد الصيغ واسترجاع جميع التحويلات الممكنة باستخدام GroupDocs.Conversion
+  for Java، وهو مثالي لسير عمل تحويل الملفات في cloud storage.
 keywords:
-- GroupDocs.Conversion for Java
-- retrieve all possible conversions
+- how to list formats
+- cloud storage file conversion
+- GroupDocs.Conversion Java
+lastmod: '2026-07-29'
+og_description: اكتشف كيفية سرد الصيغ واسترجاع جميع التحويلات الممكنة باستخدام GroupDocs.Conversion
+  for Java، وهو مثالي لسير عمل تحويل الملفات في cloud storage.
+og_image_alt: 'Guide: List formats and get conversion matrix with GroupDocs.Conversion
+  Java'
+og_title: كيفية سرد الصيغ باستخدام GroupDocs.Conversion for Java
+schemas:
+- author: GroupDocs
+  dateModified: '2026-07-29'
+  description: Discover how to list formats and retrieve all possible conversions
+    using GroupDocs.Conversion for Java, ideal for cloud storage file conversion workflows.
+  headline: How to List Formats with GroupDocs.Conversion for Java
+  type: TechArticle
+- description: Discover how to list formats and retrieve all possible conversions
+    using GroupDocs.Conversion for Java, ideal for cloud storage file conversion workflows.
+  name: How to List Formats with GroupDocs.Conversion for Java
+  steps:
+  - name: '**Dynamic Format Detection:** When a file lands in cloud storage, you can
+      instantly query whether the desired target format is supported.'
+    text: '**Dynamic Format Detection:** When a file lands in cloud storage, you can
+      instantly query whether the desired target format is supported.'
+  - name: '**Batch Migration:** Move large document libraries to a unified format
+      (e.g., PDF/A) by iterating over supported source types.'
+    text: '**Batch Migration:** Move large document libraries to a unified format
+      (e.g., PDF/A) by iterating over supported source types.'
+  - name: '**User‑Driven Export:** Offer end‑users a dropdown of only the formats
+      their current document can be exported to, reducing errors and improving UX.'
+    text: '**User‑Driven Export:** Offer end‑users a dropdown of only the formats
+      their current document can be exported to, reducing errors and improving UX.'
+  type: HowTo
+- questions:
+  - answer: It is a server‑side library that supports 200+ input and 200+ output formats,
+      enabling fast, license‑free document conversion without external software.
+    question: What is GroupDocs.Conversion for Java?
+  - answer: Set up your Maven project, add the dependency shown earlier, load a license
+      file, and instantiate the `Converter` class as demonstrated in the initialization
+      section.
+    question: How do I start with GroupDocs.Conversion?
+  - answer: Yes—through the API’s extensibility points you can register custom converters
+      or plug‑in third‑party handlers for proprietary formats.
+    question: Can I convert custom file types using GroupDocs.Conversion?
+  - answer: Forgetting to close the `Converter`, using an old JAR version, or overlooking
+      memory usage for very large PDFs. Follow the resource‑management tips above.
+    question: What are common pitfalls when implementing conversions?
+  - answer: Visit the official [documentation](https://docs.groupdocs.com/conversion/java/)
+      or ask questions in the GroupDocs community forum.
+    question: Where can I get more help?
+  type: FAQPage
+tags:
+- convert formats
+- GroupDocs.Conversion
 - Java document conversion
-title: 'GroupDocs.Conversion للغة Java: كيفية سرد الصيغ واسترجاع جميع التحويلات الممكنة'
+- cloud storage conversion
+title: كيفية سرد الصيغ باستخدام GroupDocs.Conversion for Java
 type: docs
 url: /ar/java/conversion-options/groupdocs-conversion-java-retrieve-possible-conversions/
 weight: 1
 ---
 
-# دليل شامل لاسترجاع جميع التحويلات الممكنة باستخدام GroupDocs.Conversion للغة Java
+# كيفية سرد الصيغ واسترجاع جميع التحويلات الممكنة باستخدام GroupDocs.Conversion للغة Java
 
-غالبًا ما تبدأ مشاريع تحويل المستندات بسؤال بسيط: **كيفية سرد الصيغ** التي يدعمها المكتبة قبل اتخاذ قرار بشأن الصيغ التي سيتم تحويلها. في هذا الدرس ستكتشف ذلك بالضبط — كيفية سرد الصيغ واسترجاع كل مسار تحويل ممكن يقدمه GroupDocs.Conversion للغة Java. سنستعرض الإعداد، تنفيذ الشيفرة، السيناريوهات الواقعية، ونصائح الأداء حتى تتمكن من دمج اكتشاف الصيغ بثقة في تطبيقاتك.
+في العديد من مشاريع معالجة المستندات، الخطوة الأولى هي معرفة **كيفية سرد الصيغ** التي يدعمها محرك التحويل. يوضح لك هذا الدليل، خطوة بخطوة، كيفية الاستعلام عن GroupDocs.Conversion للغة Java، استرجاع كل زوج من المصدر إلى الهدف، وتطبيق هذه المعرفة في خطوط تحويل الملفات في التخزين السحابي. في النهاية ستحصل على طريقة قابلة لإعادة الاستخدام تُعيد مصفوفة التحويل الكاملة، بالإضافة إلى نصائح عملية للأداء ومعالجة الأخطاء.
 
-## إجابات سريعة
-- **ماذا يعني “قائمة الصيغ”?** يعيد كل زوج تحويل من المصدر إلى الهدف الذي يمكن للمكتبة التعامل معه.  
-- **هل أحتاج إلى ترخيص؟** النسخة التجريبية المجانية تعمل للاختبار؛ يلزم ترخيص مدفوع للإنتاج.  
-- **هل يمكن أن يساعد هذا في تحويل ملفات التخزين السحابي؟** نعم — معرفة الصيغ المدعومة تتيح لك أتمتة التحويلات في خطوط أنابيب التخزين السحابي.  
+## الإجابات السريعة
+- **ماذا يعني “list formats”?** إنه يُعيد كل زوج من التحويل من المصدر إلى الهدف الذي يمكن للمكتبة التعامل معه.  
+- **هل أحتاج إلى ترخيص؟** نسخة تجريبية مجانية تعمل للاختبار؛ الترخيص المدفوع مطلوب للإنتاج.  
+- **هل يمكن لهذا أن يساعد في تحويل ملفات التخزين السحابي؟** نعم—معرفة الصيغ المدعومة تتيح لك أتمتة التحويلات في خطوط التخزين السحابي.  
 - **ما نسخة Java المطلوبة؟** JDK 8 أو أحدث.  
-- **هل الميزة آمنة للاستخدام المتعدد الخيوط؟** يمكن إعادة استخدام كائن `Converter` عبر الخيوط، لكن يجب تحرير الموارد بعد الاستخدام.
+- **هل الميزة آمنة للخطوط المتعددة؟** يمكن إعادة استخدام كائن `Converter` عبر الخيوط، ولكن يجب تحرير الموارد بعد الاستخدام.
 
 ## ما هو “كيفية سرد الصيغ” في GroupDocs.Conversion؟
-تستعلم عملية **قائمة الصيغ** مصفوفة التحويل الداخلية وتعيد مجموعة تصف كل صيغة مصدر والصيغ الهدف التي يمكن تحويلها إليها. هذه الرؤية أساسية لبناء سير عمل معالجة مستندات ديناميكي.
+عملية **list formats** تُعيد مجموعة تصف كل صيغة مصدر مع صيغ الهدف التي يمكن تحويلها إليها. تُولد هذه المصفوفة من قواعد التحويل الداخلية للمكتبة وتُعد أساسية لبناء سير عمل ديناميكي يتكيف مع القدرات الفعلية لـ GroupDocs.Conversion أثناء التشغيل.
 
 ## لماذا تستخدم GroupDocs.Conversion للغة Java؟
-- **تغطية شاملة للصيغ:** مئات الأنواع المصدر والهدف مدعومة مباشرةً.  
-- **جاهز للسحابة:** مثالي لخطوط أنابيب تحويل ملفات التخزين السحابي حيث تحتاج إلى معرفة أي الملفات يمكن تحويلها فورًا.  
-- **محسن للأداء:** مُصمم لعمليات الدُفعات على نطاق واسع.
+يدعم GroupDocs.Conversion للغة Java **أكثر من 200 صيغة إدخال** و**أكثر من 200 صيغة إخراج**، ويغطي كل شيء من DOCX وPPTX إلى PDF/A وأنواع الصور. يعمل بالكامل على الخادم، لذا لا يلزم وجود Microsoft Office أو منتجات Adobe. الـ API آمن للخطوط المتعددة، يمكنه معالجة مستندات مئات الصفحات دون تحميل الملف بالكامل في الذاكرة، ويتكامل بسلاسة مع خدمات التخزين السحابي مثل AWS S3 وAzure Blob وGoogle Cloud Storage.
 
 ## المتطلبات المسبقة
-- **مجموعة تطوير Java (JDK):** الإصدار 8 أو أحدث.  
-- **Maven:** مُكوَّن بشكل صحيح في بيئة التطوير المتكاملة (IntelliJ IDEA، Eclipse، NetBeans، إلخ).  
+- **Java Development Kit (JDK):** الإصدار 8 أو أحدث.  
+- **Maven:** مُكوَّن بشكل صحيح في بيئة التطوير المتكاملة الخاصة بك (IntelliJ IDEA، Eclipse، NetBeans، إلخ).  
 - **GroupDocs.Conversion للغة Java:** مضاف كاعتماد Maven (انظر أدناه).  
 
 ## إعداد GroupDocs.Conversion للغة Java
 
-أضف مستودع GroupDocs والاعتماد إلى ملف `pom.xml` الخاص بك:
+Add the GroupDocs repository and dependency to your `pom.xml`:
 
 ```xml
 <repositories>
@@ -76,9 +127,12 @@ public class ConversionSetup {
 ```
 
 ## كيفية سرد الصيغ باستخدام GroupDocs.Conversion للغة Java
-الأقسام التالية توضح كيفية استرجاع مصفوفة التحويل الكاملة. مقتطفات الشيفرة لم تتغير عن الدرس الأصلي؛ نضيف فقط السياق والتفسيرات.
+`Converter` هو الفئة الأساسية التي تقوم بالتحويلات وتوفر معلومات الصيغ. `getAllPossibleConversions()` تُعيد قائمة بجميع أزواج التحويل من المصدر إلى الهدف المدعومة. `ConversionInfo` تمثل تعيين تحويل واحد بين صيغة مصدر وصيغة هدف.  
+
+حمّل محرك `Converter`، استدعِ `getAllPossibleConversions()`، وستتلقى قائمة من كائنات `ConversionInfo` التي تصف كل زوج مصدر‑هدف مسموح به. هذه الاستدعاءة الوحيدة هي كل ما تحتاجه لبناء قائمة منسدلة لخيارات التصدير، أو للتحقق من الملفات الواردة، أو لتصميم سكريبتات ترحيل دفعي.
 
 ### التهيئة واسترجاع التحويلات
+The `Converter` class is the core engine that provides conversion capabilities and exposes the `getAllPossibleConversions()` method.  
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -143,42 +197,47 @@ public class GetAllPossibleConversionsFeature {
 ## حالات استخدام تحويل ملفات التخزين السحابي
 معرفة مصفوفة التحويل الكاملة تكون ذات قيمة خاصة عند بناء خدمات **تحويل ملفات التخزين السحابي**:
 
-1. **اكتشاف الصيغة الديناميكي:** عندما يصل ملف إلى التخزين السحابي، يمكنك الاستعلام فورًا ما إذا كانت الصيغة الهدف المطلوبة مدعومة.  
-2. **ترحيل دفعي:** نقل مكتبات المستندات الكبيرة إلى صيغة موحدة (مثل PDF/A) عبر التكرار على الأنواع المصدر المدعومة.  
-3. **تصدير موجه من المستخدم:** قدم للمستخدمين النهائيين قائمة منسدلة تحتوي فقط على الصيغ التي يمكن تصدير مستندهم الحالي إليها، لتقليل الأخطاء.
+1. **الكشف الديناميكي عن الصيغ:** عندما يصل ملف إلى التخزين السحابي، يمكنك الاستعلام فورًا ما إذا كانت صيغة الهدف المطلوبة مدعومة.  
+2. **ترحيل دفعي:** نقل مكتبات المستندات الكبيرة إلى صيغة موحدة (مثل PDF/A) عبر التكرار على أنواع المصدر المدعومة.  
+3. **تصدير موجه من المستخدم:** قدم للمستخدمين النهائيين قائمة منسدلة فقط بالصيغ التي يمكن لمستندهم الحالي التصدير إليها، مما يقلل الأخطاء ويحسن تجربة المستخدم.
 
 ## اعتبارات الأداء
-- **إدارة الموارد:** حرّر كائن `Converter` أو استخدم try‑with‑resources إذا أنشأت العديد من المحولات قصيرة العمر.  
-- **معالجة دفعات:** اجمع ملفات متعددة في مهمة واحدة لتقليل الحمل الزائد.  
-- **التخزين المؤقت:** خزن نتيجة `getAllPossibleConversions()` إذا كنت تستعلم عنها بشكل متكرر؛ مصفوفة التحويل نادراً ما تتغير أثناء التشغيل.
+- **إدارة الموارد:** حرّر كائن `Converter` أو استخدم try‑with‑resources إذا قمت بإنشاء العديد من المحولات قصيرة العمر.  
+- **المعالجة الدفعية:** جمع ملفات متعددة في مهمة واحدة لتقليل الحمل الزائد.  
+- **التخزين المؤقت:** خزن نتيجة `getAllPossibleConversions()` في الذاكرة إذا كنت تستعلم عنها بشكل متكرر؛ مصفوفة التحويل نادراً ما تتغير أثناء التشغيل.  
 
 ## المشكلات الشائعة والحلول
-
 | العَرَض | السبب المحتمل | الحل |
 |---------|--------------|-----|
-| لا يظهر أي إخراج | `Converter` لم يتم تهيئته بشكل صحيح | تأكد من أن ملف JAR الخاص بالمكتبة موجود في مسار الـ classpath وتم تحميل الترخيص. |
+| لا يظهر أي إخراج | `Converter` لم يتم تهيئته بشكل صحيح | تأكد من أن ملف JAR الخاص بالمكتبة موجود في مسار الفئة وأن الترخيص تم تحميله. |
 | قائمة `TargetConversion` فارغة | استخدام نسخة مكتبة قديمة | قم بالترقية إلى أحدث إصدار من GroupDocs.Conversion. |
-| ارتفاع الذاكرة عند المستندات الكبيرة | عدم تحرير موارد المحول | استدعِ `converter.close()` أو استخدم try‑with‑resources. |
+| ارتفاع استهلاك الذاكرة في المستندات الكبيرة | عدم تحرير موارد المحول | استدعِ `converter.close()` أو استخدم try‑with‑resources. |
 
 ## الأسئلة المتكررة
 
 **س: ما هو GroupDocs.Conversion للغة Java؟**  
-**ج:** مكتبة تحويل مستندات قوية تدعم مجموعة واسعة من الصيغ، تمكّن من التكامل السلس والأتمتة داخل تطبيقات Java.
+ج: هو مكتبة من جانب الخادم تدعم أكثر من 200 صيغة إدخال وأكثر من 200 صيغة إخراج، تمكّن من تحويل المستندات بسرعة دون ترخيص ودون الحاجة إلى برامج خارجية.
 
 **س: كيف أبدأ باستخدام GroupDocs.Conversion؟**  
-**ج:**ابدأ بإعداد بيئتك كما هو موضح في المتطلبات المسبقة وإضافة المكتبة عبر Maven.
+ج: قم بإعداد مشروع Maven الخاص بك، أضف الاعتماد المذكور أعلاه، حمّل ملف الترخيص، وأنشئ كائن من فئة `Converter` كما هو موضح في قسم التهيئة.
 
 **س: هل يمكنني تحويل أنواع ملفات مخصصة باستخدام GroupDocs.Conversion؟**  
-**ج:** نعم، من خلال خيارات التخصيص المتاحة في الـ API، يمكنك توسيع الدعم إلى صيغ ملفات إضافية.
+ج: نعم—من خلال نقاط توسيع الـ API يمكنك تسجيل محولات مخصصة أو إضافة معالجات طرف ثالث للأنواع المملوكة.
 
-**س: ما هي بعض المشكلات الشائعة عند تنفيذ التحويلات؟**  
-**ج:** تأكد من تكوين جميع الاعتمادات بشكل صحيح وتحقق من أن بيئة Java الخاصة بك تلبي متطلبات المكتبة.
+**س: ما هي الأخطاء الشائعة عند تنفيذ التحويلات؟**  
+ج: نسيان إغلاق `Converter`، استخدام نسخة JAR قديمة، أو إغفال استهلاك الذاكرة في ملفات PDF الكبيرة جداً. اتبع نصائح إدارة الموارد المذكورة أعلاه.
 
-**س: أين يمكنني الحصول على مزيد من المساعدة إذا لزم الأمر؟**  
-**ج:** قم بزيارة منتدى GroupDocs أو راجع وثائقهم الشاملة [documentation](https://docs.groupdocs.com/conversion/java/).
+**س: أين يمكنني الحصول على مزيد من المساعدة؟**  
+ج: زر [التوثيق](https://docs.groupdocs.com/conversion/java/) الرسمي أو اطرح أسئلتك في منتدى مجتمع GroupDocs.
 
 ---
 
-**آخر تحديث:** 2026-01-28  
-**تم الاختبار مع:** GroupDocs.Conversion 25.2 للغة Java  
+**آخر تحديث:** 2026-07-29  
+**تم الاختبار باستخدام:** GroupDocs.Conversion 25.2 for Java  
 **المؤلف:** GroupDocs
+
+## دروس ذات صلة
+
+- [تحويل Word إلى PDF وصيغ ملفات أخرى باستخدام GroupDocs.Conversion للغة Java](/conversion/java/)
+- [Word إلى PDF Java – إخفاء التغييرات المتتبعة وخيارات التحويل](/conversion/java/conversion-options/)
+- [كيفية تتبع تقدم التحويل في Java باستخدام GroupDocs - دليل كامل](/conversion/java/conversion-events-logging/java-groupdocs-conversion-progress-listener/)
