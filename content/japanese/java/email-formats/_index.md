@@ -1,8 +1,8 @@
 ---
-date: 2025-12-28
+date: '2026-02-28'
 description: GroupDocs.Conversion を使用して Java で MSG を PDF に変換する方法を学びましょう。eml から PDF
-  への Java の例や、メールを PDF に変換する Java の例が含まれています。
-title: msg to pdf java – GroupDocsによるメール形式の変換
+  への変換 Java、メールを PDF に変換する Java、メール添付ファイルの抽出例が含まれています。
+title: msg to pdf java – GroupDocsによるメール形式変換
 type: docs
 url: /ja/java/email-formats/
 weight: 8
@@ -10,79 +10,100 @@ weight: 8
 
 # msg to pdf java – GroupDocs.Conversion Java のメール形式変換チュートリアル
 
-Java から直接 **MSG**、**EML**、または **EMLX** といったメールファイルを PDF ドキュメントに変換する必要がある場合、ここが最適な場所です。このガイドでは GroupDocs.Conversion を使用した **msg to pdf java** の手順を解説し、**eml to pdf java** や **email to pdf java** といった関連シナリオもカバーします。最後まで読むと、メールのメタデータを保持し、添付ファイルを抽出し、バッチ変換を効率的に処理する方法が理解できます。
+Java から直接 **MSG**、**EML**、**EMLX** といったメールファイルを PDF ドキュメントに変換する必要がある場合は、ここが適切な場所です。このガイドでは GroupDocs.Conversion を使用した **msg to pdf java** の手順を説明し、**eml to pdf java** や **email to pdf java** といった関連シナリオも取り上げます。最後まで読むと、メールのメタデータを保持し、添付ファイルを抽出し、バッチ変換を効率的に処理する方法が理解できるようになります。
 
-## Quick Answers
-- **What library handles msg to pdf java?** GroupDocs.Conversion for Java  
-- **Do I need a license?** テスト用の一時ライセンスで動作しますが、本番環境ではフルライセンスが必要です。  
-- **Can I convert multiple emails at once?** はい、バッチ変換が標準でサポートされています。  
-- **Is timezone handling covered?** 専用チュートリアルで変換時のタイムゾーンオフセット管理方法を紹介しています。  
-- **What Java versions are supported?** Java 8 以降。
+## クイック回答
+- **msg to pdf java を処理するライブラリは何ですか？** GroupDocs.Conversion for Java  
+- **ライセンスは必要ですか？** テストには一時ライセンスで動作しますが、本番環境ではフルライセンスが必要です。  
+- **複数のメールを一度に変換できますか？** はい、バッチ変換が標準でサポートされています。  
+- **タイムゾーンの取り扱いはサポートされていますか？** 専用チュートリアルで変換時のタイムゾーンオフセットの管理方法が示されています。  
+- **サポートされている Java バージョンは何ですか？** Java 8 以降。  
+- **変換時にメールの添付ファイルを抽出するにはどうすればよいですか？** `embedAttachments` オプションを設定して、添付ファイルを PDF に埋め込むか別ファイルとして保存するかを制御します。  
+- **EML ファイルも変換できますか？** もちろんです。コンバータに `.eml` ファイルを指定すれば、同じ API が処理します。
 
-## What is msg to pdf java?
-Java で MSG ファイルを PDF に変換するとは、Microsoft Outlook のメール（本文、書式、添付ファイルを含む）を取得し、元のメッセージを忠実に再現した PDF を生成することを意味します。GroupDocs.Conversion がこの作業を自動化し、複雑な MIME 構造を処理しつつ視覚的な忠実度を保持します。
+## msg to pdf java とは？
+Java で MSG ファイルを PDF に変換するとは、Microsoft Outlook のメール（本文、書式設定、添付ファイルを含む）を取得し、元のメッセージを忠実に再現した PDF を生成することです。GroupDocs.Conversion はこの作業を自動化し、複雑な MIME 構造を処理しながら視覚的な忠実性を保持します。
 
-## Why use GroupDocs.Conversion for email‑to‑PDF conversions?
-- **Full metadata retention** – ヘッダー、タイムスタンプ、送信者/受信者情報がそのまま保持されます。  
-- **Attachment extraction** – 添付ファイルを PDF に埋め込むか、別ファイルとして保存できます。  
-- **Cross‑platform reliability** – Java が動作する任意の OS で利用可能です。  
-- **Batch processing** – 単一の API 呼び出しで数十から数百のメールを変換できます。  
+## メールから PDF への変換に GroupDocs.Conversion を使用する理由
+- **完全なメタデータ保持** – ヘッダー、タイムスタンプ、送信者/受信者の詳細がそのまま保持されます。  
+- **添付ファイル抽出** – 添付ファイルを PDF に埋め込むか、別々に保存するか選択できます。  
+- **クロスプラットフォームの信頼性** – Java をサポートする任意の OS で動作します。  
+- **バッチ処理** – 1 回の API 呼び出しで数十から数百のメールを変換できます。  
+- **タイムゾーンオフセット変換** – タイムスタンプを目的のタイムゾーンに調整する組み込みサポートがあります。
 
-## Prerequisites
-- Java 8 以降がインストールされていること。  
-- プロジェクトに GroupDocs.Conversion for Java ライブラリを追加（Maven/Gradle）。  
-- 有効な GroupDocs の一時またはフルライセンスキーを取得していること。  
+## 主な使用例
+- **法的アーカイブ:** コンプライアンス監査のために、クライアント間の通信の外観とメタデータを正確に保持します。  
+- **カスタマーサポート:** サポートチケットのメールを PDF に変換し、共有や印刷を容易にします。  
+- **データ移行:** 旧式の Outlook アーカイブを添付ファイルを失わずに検索可能な PDF リポジトリへ移行します。  
 
-## Step‑by‑Step Guide
+## 前提条件
+- Java 8 以降がインストールされていること。  
+- プロジェクトに GroupDocs.Conversion for Java ライブラリを追加する（Maven/Gradle）。  
+- 有効な GroupDocs の一時またはフルライセンスキー。  
 
-### Step 1: Set up the conversion environment
+## ステップバイステップガイド
+
+### 手順 1: 変換環境の設定
 `pom.xml`（または Gradle ファイル）に GroupDocs.Conversion の依存関係を追加し、ライセンスでコンバータを初期化します。
 
-### Step 2: Load the MSG file
-`ConversionConfig` オブジェクトを使用して、PDF に変換したい元の MSG ファイルを指定します。
+### 手順 2: MSG ファイルの読み込み
+PDF に変換したいソース MSG ファイルを指す `ConversionConfig` オブジェクトを作成します。
 
-### Step 3: Configure PDF output options
-ページサイズ、添付ファイルの埋め込み、メールヘッダーの含有有無など、PDF の設定を指定します。
+### 手順 3: PDF 出力オプションの設定
+ページサイズや **embed attachments pdf**、メールヘッダーを含めるかどうかなど、PDF 設定を指定します。
 
-### Step 4: Execute the conversion
-`convert` メソッドを呼び出し、生成された PDF の保存先パスを渡します。
+### 手順 4: 変換の実行
+`convert` メソッドを呼び出し、生成された PDF の保存先パスを指定します。
 
-### Step 5: Verify the result
-生成された PDF を開き、メールの内容、書式、添付ファイルが期待通りに表示されているか確認します。
+### 手順 5: 結果の検証
+生成された PDF を開き、メール内容、書式設定、添付ファイルが期待通りに表示されていることを確認します。
 
-*(The actual Java code for these steps is demonstrated in the linked tutorial below.)*  
-*（これらの手順の実際の Java コードは、以下のリンク先チュートリアルで示されています。）*
+*(これらの手順の実際の Java コードは、以下のリンクされたチュートリアルで示されています。)*
 
-## Available Tutorials
+## トラブルシューティングのヒントと一般的な落とし穴
+- **パスワード保護された MSG ファイル:** API を呼び出す前に変換設定でパスワードを提供します。  
+- **添付ファイルが欠落している:** 添付ファイルを埋め込みたい場合は `embedAttachments` フラグを `true` に設定してください。そうでない場合は別ファイルとして保存されます。  
+- **大規模バッチ:** メモリ使用量が過剰にならないよう、メールを小さなチャンクに分割して処理するか、ストリーミングしてください。  
+- **タイムゾーンの不一致:** `timezoneOffset` オプションを使用して、メールのタイムスタンプを対象地域に合わせます。  
 
-### [How to Convert Email to PDF with Timezone Offset in Java Using GroupDocs.Conversion](./email-to-pdf-conversion-java-groupdocs/)
-GroupDocs.Conversion for Java を使用して、タイムゾーンオフセットを考慮しながらメール文書を PDF に変換する方法を学びます。アーカイブやクロスタイムゾーンでの共同作業に最適です。
+## 利用可能なチュートリアル
 
-## Additional Resources
-- [GroupDocs.Conversion for Java Documentation](https://docs.groupdocs.com/conversion/java/)  
-- [GroupDocs.Conversion for Java API Reference](https://reference.groupdocs.com/conversion/java/)  
-- [Download GroupDocs.Conversion for Java](https://releases.groupdocs.com/conversion/java/)  
-- [GroupDocs.Conversion Forum](https://forum.groupdocs.com/c/conversion)  
-- [Free Support](https://forum.groupdocs.com/)  
-- [Temporary License](https://purchase.groupdocs.com/temporary-license/)  
+### [GroupDocs.Conversion を使用した Java でのタイムゾーンオフセット付きメールの PDF 変換方法](./email-to-pdf-conversion-java-groupdocs/)
+GroupDocs.Conversion for Java を使用して、タイムゾーンオフセットを管理しながらメールドキュメントを PDF に変換する方法を学びます。アーカイブや異なるタイムゾーン間での共同作業に最適です。
 
-## Frequently Asked Questions
+## 追加リソース
+- [GroupDocs.Conversion for Java ドキュメント](https://docs.groupdocs.com/conversion/java/)
+- [GroupDocs.Conversion for Java API リファレンス](https://reference.groupdocs.com/conversion/java/)
+- [GroupDocs.Conversion for Java のダウンロード](https://releases.groupdocs.com/conversion/java/)
+- [GroupDocs.Conversion フォーラム](https://forum.groupdocs.com/c/conversion)
+- [無料サポート](https://forum.groupdocs.com/)
+- [一時ライセンス](https://purchase.groupdocs.com/temporary-license/)
 
-**Q: Can I convert password‑protected MSG files?**  
-A: はい。API を呼び出す前に変換設定にパスワードを指定してください。
+## よくある質問
 
-**Q: How are email attachments handled in the PDF?**  
-A: オプション次第で、添付ファイルを PDF に直接埋め込むか、別ファイルとして保存できます。
+**Q: パスワード保護された MSG ファイルを変換できますか？**  
+A: はい。API を呼び出す前に変換設定でパスワードを提供してください。
 
-**Q: Is it possible to convert a whole folder of emails at once?**  
-A: もちろんです。ファイルパスのコレクションをコンバータに渡すことでバッチ変換機能を利用できます。
+**Q: PDF でメールの添付ファイルはどのように扱われますか？**  
+A: 設定したオプションに応じて、添付ファイルを PDF に直接埋め込むか、別ファイルとして保存するか選択できます。
 
-**Q: Does the conversion preserve original email timestamps?**  
-A: はい。送信・受信日時などのメタデータは保持され、PDF ヘッダーに表示されます。
+**Q: フォルダー内のすべてのメールを一度に変換することは可能ですか？**  
+A: もちろんです。ファイルパスのコレクションをコンバータに渡すことでバッチ変換機能を使用します。
 
-**Q: What if I need to convert EML files instead of MSG?**  
-A: 同じ API が **eml to pdf java** 変換もサポートしていますので、`.eml` ファイルをソースとして指定するだけです。
+**Q: 変換時に元のメールのタイムスタンプは保持されますか？**  
+A: はい。送受信日時などのメタデータは保持され、PDF のヘッダーに表示されます。
 
-**Last Updated:** 2025-12-28  
-**Tested With:** GroupDocs.Conversion for Java (latest release)  
-**Author:** GroupDocs
+**Q: MSG ではなく EML ファイルを変換したい場合はどうすればよいですか？**  
+A: 同じ API が **eml to pdf java** 変換をサポートしていますので、ソースとして `.eml` ファイルを指定してください。
+
+**Q: 添付ファイルを埋め込まずに抽出するにはどうすればよいですか？**  
+A: `embedAttachments` オプションを `false` に設定します。コンバータは各添付ファイルを指定フォルダーに保存し、PDF はクリーンな状態のままになります。
+
+**Q: 1 回のバッチで処理できるメール数に制限はありますか？**  
+A: 厳密な上限はありませんが、実際の制限は利用可能なメモリと CPU に依存します。非常に大きなバッチは小さなグループに分割することを推奨します。
+
+---
+
+**最終更新日:** 2026-02-28  
+**テスト環境:** GroupDocs.Conversion for Java（最新リリース）  
+**作者:** GroupDocs
