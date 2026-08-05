@@ -1,35 +1,44 @@
 ---
-"date": "2025-04-28"
-"description": "GroupDocs.Conversion for Java를 사용하여 숨겨진 슬라이드를 포함한 PowerPoint 프레젠테이션을 PDF 형식으로 변환하는 방법을 알아보세요. 문서 처리를 간소화하려는 개발자에게 적합합니다."
-"title": "GroupDocs.Conversion을 사용하여 Java에서 숨겨진 슬라이드가 있는 PPTX를 PDF로 효율적으로 변환"
-"url": "/ko/java/presentation-formats/convert-pptx-hidden-slides-pdf-java/"
-"weight": 1
+date: '2026-03-03'
+description: GroupDocs Conversion Java가 PPTX를 PDF로 변환하고 숨겨진 슬라이드까지 포함하도록 하는 방법을 배워보세요.
+  이 가이드는 PPTX 변환, Java 힙 증가, 그리고 숨겨진 슬라이드 포함 방법을 보여줍니다.
+keywords:
+- convert PPTX to PDF
+- Java presentation conversion
+- GroupDocs.Conversion for Java
+title: 'GroupDocs Conversion Java: PPTX(숨겨진 슬라이드)를 PDF로 변환'
 type: docs
+url: /ko/java/presentation-formats/convert-pptx-hidden-slides-pdf-java/
+weight: 1
 ---
-# GroupDocs.Conversion을 사용하여 Java에서 숨겨진 슬라이드가 있는 PPTX를 PDF로 손쉽게 변환
 
-디지털 시대에 프레젠테이션 문서를 PDF와 같이 누구나 접근 가능한 형식으로 변환하는 것은 개발자에게 필수적인 요구 사항입니다. 이 튜토리얼에서는 다음을 사용하여 효율적인 솔루션을 안내합니다. **Java용 GroupDocs.Conversion** 숨겨진 슬라이드를 포함한 PowerPoint 프레젠테이션을 PDF 형식으로 변환합니다.
+# GroupDocs Conversion Java – PPTX(숨겨진 슬라이드)를 PDF로 변환
 
-## 당신이 배울 것
-- 변환에 숨겨진 슬라이드를 포함하도록 GroupDocs.Conversion을 구성합니다.
-- Java를 사용하여 PPTX 파일을 PDF로 변환하는 방법에 대한 단계별 지침입니다.
-- 프로젝트에서 GroupDocs.Conversion을 사용하기 위한 필수 설정 요구 사항입니다.
-- 전환 최적화를 위한 실제적 적용 및 성능 고려 사항.
+현대 Java 애플리케이션에서 **groupdocs conversion java**는 PowerPoint 파일을 보편적으로 볼 수 있는 PDF로 변환해야 할 때 가장 많이 사용되는 라이브러리입니다. 이 튜토리얼은 *pptx 파일을 변환하는 방법*을 단계별로 안내하며 숨겨진 슬라이드가 누락되지 않도록 하고, 대용량 프레젠테이션을 위한 **increase java heap** 팁도 다룹니다.
 
-먼저 전제 조건을 검토해 보겠습니다.
+## 빠른 답변
+- **PPTX → PDF를 처리하는 라이브러리는 무엇인가요?** GroupDocs Conversion for Java.  
+- **숨겨진 슬라이드를 포함할 수 있나요?** 예 – `showHiddenSlides`를 `true`로 설정합니다.  
+- **라이선스가 필요합니까?** 테스트용으로는 무료 체험판으로 충분하지만, 프로덕션에서는 유료 라이선스가 필요합니다.  
+- **메모리 부족 오류를 방지하려면 어떻게 해야 하나요?** Java 힙을 늘리세요(`-Xmx2g` 이상) 그리고 대용량 파일을 배치 처리합니다.  
+- **PDF 출력에 추가 설정이 필요합니까?** 특별한 여백이나 방향이 필요하지 않은 한 기본 `PdfConvertOptions`만 사용하면 됩니다.
 
-### 필수 조건
+## GroupDocs Conversion Java란?
+GroupDocs Conversion Java는 100개 이상의 파일 형식을 지원하는 고성능 API입니다. 개발자는 PowerPoint 프레젠테이션과 같은 문서를 프로그래밍 방식으로 PDF, 이미지, HTML 등으로 변환할 수 있으며 레이아웃, 폰트 및 숨겨진 콘텐츠를 보존합니다.
 
-이 튜토리얼을 따르려면 다음 사항이 필요합니다.
-- **Java Development Kit(JDK) 설치됨** 컴퓨터에서는 8 버전 이상을 권장합니다.
-- Java 프로그래밍 개념에 대한 기본적인 이해.
-- 종속성을 관리하기 위한 Maven 지원 프로젝트 환경에 액세스합니다.
+## Java 프레젠테이션 PDF 작업에 GroupDocs Conversion Java를 사용하는 이유는?
+- **전체 형식 지원** – PPTX, PPT, ODP 등 다양한 형식을 처리합니다.  
+- **숨겨진 슬라이드 처리** – 명시적인 옵션을 통해 변환 시 *숨겨진 슬라이드*를 표시할 수 있습니다.  
+- **확장 가능한 성능** – **increase java heap**하고 배치 처리를 사용할 때 대용량 파일에서도 원활히 동작합니다.  
+- **간편한 Maven 통합** – 관리해야 할 네이티브 바이너리가 없습니다.
 
-이러한 사항을 바탕으로 Java용 GroupDocs.Conversion을 설정해 보겠습니다.
+## 사전 요구 사항
+- Java Development Kit (JDK) 8 이상 설치되어 있어야 합니다.  
+- Maven을 사용한 프로젝트로 의존성 관리를 할 수 있어야 합니다.  
+- 기본적인 Java 코딩 지식이 필요합니다.  
 
-### Java용 GroupDocs.Conversion 설정
-
-다음 구성을 추가하세요. `pom.xml` 필요한 GroupDocs 라이브러리를 포함하는 파일:
+### GroupDocs Conversion for Java 설정
+다음과 같이 `pom.xml`에 저장소와 의존성을 추가합니다:
 
 ```xml
 <repositories>
@@ -48,19 +57,13 @@ type: docs
 </dependencies>
 ```
 
-#### 라이센스 취득
-GroupDocs.Conversion의 모든 기능을 체험해 보려면 무료 체험판 라이선스를 받으세요. 장기 사용 시 구독을 구매하거나 임시 라이선스를 구매하는 것을 고려해 보세요.
+#### 라이선스 획득
+GroupDocs Conversion의 전체 기능을 평가하려면 무료 체험 라이선스를 획득하세요. 프로덕션에서는 구독 또는 영구 라이선스를 구매해야 합니다.
 
-### 구현 가이드
+## 단계별 가이드
 
-구현에는 두 가지 주요 기능이 포함됩니다. 숨겨진 슬라이드가 포함된 프레젠테이션을 로드하고 이를 PDF로 변환하는 것입니다.
-
-#### 숨겨진 슬라이드가 있는 프레젠테이션 로딩
-
-이 기능을 사용하면 변환 중에 숨겨진 슬라이드를 포함하도록 애플리케이션을 구성하여 번역 과정에서 콘텐츠가 손실되지 않도록 할 수 있습니다.
-
-##### 1단계: PresentationLoadOptions 설정
-인스턴스를 생성합니다 `PresentationLoadOptions` 숨겨진 슬라이드를 포함해야 한다고 지정합니다.
+### 단계 1: 프레젠테이션 로드 및 **숨겨진 슬라이드 표시**
+`PresentationLoadOptions` 인스턴스를 생성하고 숨겨진 슬라이드를 활성화합니다:
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -71,14 +74,12 @@ PresentationLoadOptions loadOptions = new PresentationLoadOptions();
 loadOptions.setShowHiddenSlides(true);
 Converter converter = new Converter(sourceDocument, () -> loadOptions);
 ```
-**설명:**
-여기, `setShowHiddenSlides(true)` 숨겨진 슬라이드도 변환 프로세스에 포함됩니다. 이 구성은 포괄적인 문서 변환에 필수적입니다.
 
-#### 프레젠테이션을 PDF로 변환
-다음으로, 지정된 변환 옵션을 사용하여 로드된 프레젠테이션을 PDF 파일로 변환합니다.
+**설명:**  
+`setShowHiddenSlides(true)`는 변환기에게 숨겨진 슬라이드를 보이는 것으로 처리하도록 지시하여 최종 PDF에 포함되도록 합니다. 이는 *숨겨진 슬라이드 포함* 요구 사항의 핵심 설정입니다.
 
-##### 2단계: 변환 수행
-다음 코드 조각을 사용하여 PPTX 파일을 PDF로 변환하세요.
+### 단계 2: 로드된 프레젠테이션을 PDF로 변환 (**java presentation pdf**)
+출력 경로를 정의하고 `PdfConvertOptions`를 사용하여 변환을 수행합니다:
 
 ```java
 import com.groupdocs.conversion.options.convert.PdfConvertOptions;
@@ -87,40 +88,56 @@ String convertedFile = "YOUR_OUTPUT_DIRECTORY/Converted_Presentation.pdf";
 PdfConvertOptions options = new PdfConvertOptions();
 converter.convert(convertedFile, options);
 ```
-**설명:**
-그만큼 `PdfConvertOptions` 클래스는 PDF 출력에 대한 구성 설정을 제공합니다. 이 경우 추가 구성은 지정되지 않지만, 필요에 맞게 이러한 옵션을 사용자 정의할 수 있습니다.
 
-### 실제 응용 프로그램
-1. **자동 보고서 생성:** 자세한 프레젠테이션을 공유 가능한 PDF 보고서로 자동 변환합니다.
-2. **문서 보관:** PDF 보관소에 숨겨진 슬라이드를 포함하여 비즈니스 프레젠테이션의 모든 내용을 보존하세요.
-3. **콘텐츠 관리 시스템(CMS)과의 통합:** CMS 플랫폼 내에서 프레젠테이션 파일을 PDF로 원활하게 변환하고 저장합니다.
+**설명:**  
+`PdfConvertOptions`를 사용하면 PDF 출력(예: 여백, 페이지 크기)을 세밀하게 조정할 수 있습니다. 이 기본 예제에서는 기본값을 사용하지만 필요에 따라 맞춤 설정이 가능합니다.
 
-### 성능 고려 사항
-대규모 프레젠테이션을 작업할 때 다음 최적화 팁을 고려하세요.
-- **메모리 관리:** 대규모 문서 처리 작업의 메모리 요구 사항을 처리할 수 있도록 Java 환경이 구성되어 있는지 확인하세요.
-- **일괄 처리:** 효율성을 높이기 위해 여러 문서를 일괄적으로 변환합니다.
-- **리소스 모니터링:** 병목 현상을 파악하고 해결하기 위해 변환 프로세스 동안 리소스 사용량을 정기적으로 모니터링합니다.
+## 실용적인 적용 사례
+1. **자동 보고서 생성** – 슬라이드 덱을 즉시 공유 가능한 PDF 보고서로 변환합니다.  
+2. **문서 보관** – 숨겨진 슬라이드를 포함한 모든 슬라이드를 보존하여 컴플라이언스 감사를 지원합니다.  
+3. **CMS 통합** – 사용자가 업로드한 프레젠테이션을 CMS에 저장하기 전에 PDF로 변환합니다.
 
-### 결론
-이 튜토리얼을 따라 하면 GroupDocs.Conversion for Java를 활용하여 PDF 변환에 숨겨진 슬라이드를 포함하는 방법을 배우게 됩니다. 이 기능은 포괄적인 문서 관리 및 공유에 매우 중요합니다.
+## 성능 고려 사항 & **Increase Java Heap**
+대용량 프레젠테이션을 다룰 때:
 
-GroupDocs.Conversion의 추가 기능을 탐색하려면 다음을 확인하십시오. [선적 서류 비치](https://docs.groupdocs.com/conversion/java/) 또는 지원되는 다른 파일 형식을 시도해 보세요.
+- **메모리 관리:** 예를 들어 `java -Xmx4g -jar yourapp.jar`와 같이 더 큰 힙을 사용하여 JVM을 시작합니다.  
+- **배치 처리:** 모든 파일을 한 번에 로드하는 대신 루프에서 여러 파일을 변환합니다.  
+- **리소스 모니터링:** VisualVM과 같은 도구를 사용해 메모리 사용량을 확인하고 병목 현상을 파악합니다.
 
-### FAQ 섹션
-**질문: GroupDocs를 사용하여 애니메이션이 포함된 프레젠테이션을 PDF로 변환할 수 있나요?**
-답변: 네, PDF에서는 애니메이션이 적용되지 않지만 모든 슬라이드 내용은 정확하게 변환됩니다.
+## 일반적인 문제 및 해결책
+- **숨겨진 슬라이드가 표시되지 않음:** `Converter`를 생성하기 전에 `loadOptions.setShowHiddenSlides(true)`가 호출되었는지 확인합니다.  
+- **메모리 부족 오류:** Java 힙 크기(`-Xmx`)를 늘리고 프레젠테이션을 더 작은 청크로 나누는 것을 고려합니다.  
+- **폰트 누락:** PPTX에 사용된 폰트가 서버에 설치되어 있거나 소스 파일에 포함되어 있는지 확인합니다.
 
-**질문: 메모리 부족 없이 대용량 프레젠테이션 파일을 처리하려면 어떻게 해야 하나요?**
-답변: 가능하다면 Java 힙 크기를 늘리고 문서를 더 작은 세그먼트로 나누어 처리하는 것을 고려하세요.
+## 자주 묻는 질문
 
-**질문: PDF 출력 형식을 사용자 정의할 수 있는 방법이 있나요?**
-네, `PdfConvertOptions` 여백 설정, 페이지 방향 등 다양한 사용자 정의 옵션을 제공합니다.
+**Q: 애니메이션이 포함된 프레젠테이션을 GroupDocs를 사용해 PDF로 변환할 수 있나요?**  
+A: 예, 애니메이션은 PDF에서 정적 이미지로 렌더링되며 모든 시각적 콘텐츠가 보존됩니다.
 
-추가 지원이나 질문이 있으시면 다음을 방문하세요. [GroupDocs 지원 포럼](https://forum.groupdocs.com/c/conversion/10).
+**Q: 대용량 프레젠테이션 파일을 메모리 부족 없이 처리하려면 어떻게 해야 하나요?**  
+A: JVM 힙(`-Xmx`)을 늘리고 파일을 배치 처리하며 변환 중 메모리 사용량을 모니터링합니다.
 
-### 자원
-- **선적 서류 비치:** 포괄적인 가이드를 탐색하세요 [GroupDocs 문서](https://docs.groupdocs.com/conversion/java/)
-- **API 참조:** 자세한 API 정보에 액세스하려면 다음을 참조하세요. [API 참조](https://reference.groupdocs.com/conversion/java/)
-- **다운로드 및 구매 링크:** GroupDocs 공식 웹사이트에서 라이선스를 다운로드하거나 구매할 수 있는 링크를 찾아보세요.
+**Q: 출력 PDF 형식을 맞춤 설정할 수 있나요?**  
+A: 물론입니다. `PdfConvertOptions`를 통해 여백, 페이지 방향 등 다양한 설정이 가능합니다.
 
-이러한 방법을 개발 워크플로에 통합하면 Java 애플리케이션의 문서 처리 기능을 향상시킬 수 있습니다. 즐거운 코딩 되세요!
+**Q: GroupDocs Conversion이 비밀번호로 보호된 PPTX 파일을 지원하나요?**  
+A: 예. 비밀번호 매개변수를 받는 오버로드를 사용해 해당 비밀번호로 문서를 로드하면 됩니다.
+
+**Q: 자세한 API 문서는 어디에서 찾을 수 있나요?**  
+A: 공식 문서는 [documentation](https://docs.groupdocs.com/conversion/java/)에서 확인하세요.
+
+## 결론
+이 가이드를 따라 하면 **groupdocs conversion java**를 사용해 PPTX 파일(숨겨진 슬라이드 포함)을 고품질 PDF로 변환하는 방법을 알게 됩니다. 이 기능은 신뢰할 수 있는 문서 보관, 자동 보고, 원활한 CMS 통합에 필수적입니다.
+
+추가 기능을 살펴보려면 공식 GroupDocs 리소스를 확인하거나 다른 지원 형식들을 실험해 보세요.
+
+---
+
+**마지막 업데이트:** 2026-03-03  
+**테스트 환경:** GroupDocs.Conversion 25.2 for Java  
+**작성자:** GroupDocs  
+
+### 리소스
+- **Documentation:** 포괄적인 가이드를 [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/)에서 확인하세요.  
+- **API Reference:** 자세한 API 정보는 [API Reference](https://reference.groupdocs.com/conversion/java/)에서 확인할 수 있습니다.  
+- **Support:** 추가 지원이 필요하면 [GroupDocs Support Forum](https://forum.groupdocs.com/c/conversion/10)으로 방문하세요.
