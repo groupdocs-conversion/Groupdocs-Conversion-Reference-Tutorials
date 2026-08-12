@@ -1,46 +1,73 @@
 ---
-"date": "2025-04-28"
-"description": "Tìm hiểu cách chuyển đổi tài liệu Word được bảo vệ bằng mật khẩu sang HTML bằng GroupDocs.Conversion for Java với hướng dẫn toàn diện này. Nâng cao quy trình xuất bản web và cộng tác."
-"title": "Cách chuyển đổi tài liệu Word được bảo vệ bằng mật khẩu sang HTML bằng Java (Hướng dẫn từng bước)"
-"url": "/vi/java/word-processing-formats/convert-password-protected-word-to-html-java/"
-"weight": 1
+date: '2026-03-19'
+description: Tìm hiểu cách chuyển đổi các trang cụ thể trong Java bằng GroupDocs.Conversion
+  cho Java, chuyển đổi tài liệu Word được bảo mật bằng mật khẩu sang HTML. Bao gồm
+  phụ thuộc Maven và các mẹo chuyển đổi Java.
+keywords:
+- convert password-protected Word to HTML
+- Java document conversion
+- GroupDocs.Conversion for Java
+title: Chuyển đổi các trang cụ thể bằng Java – Chuyển đổi tài liệu Word sang HTML
 type: docs
+url: /vi/java/word-processing-formats/convert-password-protected-word-to-html-java/
+weight: 1
 ---
-# Cách chuyển đổi tài liệu Word được bảo vệ bằng mật khẩu sang HTML bằng Java
 
-## Giới thiệu
+# convert specific pages java – Chuyển đổi tài liệu Word sang HTML
 
-Bạn đang gặp khó khăn trong việc chuyển đổi các tài liệu Word được bảo vệ bằng mật khẩu sang định dạng HTML? Nhiều chuyên gia gặp phải thách thức này khi chia sẻ hoặc hiển thị nội dung an toàn trực tuyến. Hướng dẫn từng bước này sẽ hướng dẫn bạn cách sử dụng **GroupDocs.Conversion cho Java** để xử lý các chuyển đổi này một cách liền mạch, đảm bảo cả chức năng và khả năng truy cập.
+Nếu bạn cần **convert specific pages java** – tức là trích xuất các trang cụ thể từ một tài liệu Word được bảo mật bằng mật khẩu và hiển thị chúng dưới dạng HTML – hướng dẫn này sẽ giúp bạn. Chúng tôi sẽ hướng dẫn cách thiết lập **GroupDocs.Conversion for Java**, cấu hình các tùy chọn cấp trang, và xử lý mật khẩu một cách an toàn, đồng thời giữ cho quy trình rõ ràng và dễ bảo trì.
 
-### Những gì bạn sẽ học được
-- Thiết lập GroupDocs.Conversion trong môi trường Java của bạn.
-- Chuyển đổi các tài liệu Word được bảo vệ bằng mật khẩu sang HTML với các tùy chọn nâng cao.
+## Quick Answers
+- **GroupDocs.Conversion có thể xử lý các tệp được bảo mật bằng mật khẩu không?** Có, chỉ cần cung cấp mật khẩu qua `WordProcessingLoadOptions`.
+- **Làm sao để giới hạn việc chuyển đổi chỉ ở một số trang?** Sử dụng `setPageNumber` và `setPagesCount` trên `MarkupConvertOptions`.
+- **Có cần phụ thuộc Maven không?** Chắc chắn – thêm artifact `groupdocs-conversion` (xem đoạn mã Maven bên dưới).
+- **Cần giấy phép để sử dụng trong môi trường production không?** Giấy phép GroupDocs hợp lệ sẽ mở khóa đầy đủ tính năng; bản dùng thử có sẵn để thử nghiệm.
+- **Phiên bản Java nào được hỗ trợ?** Java 8+ được khuyến nghị để đạt khả năng tương thích tối ưu.
+
+## What is “convert specific pages java”?
+
+Cụm từ này đề cập đến việc chuyển đổi chỉ các trang được chọn của một tài liệu trong ứng dụng Java. Thay vì chuyển đổi toàn bộ tệp Word, bạn chỉ nhắm vào một phần – giúp tiết kiệm băng thông, giảm thời gian xử lý và cho phép kiểm soát chi tiết hơn đối với kết quả đầu ra.
+
+## Why use GroupDocs.Conversion for Java?
+
+- **Hỗ trợ định dạng mạnh mẽ** – Xử lý DOCX, PDF, PPTX và nhiều định dạng khác.
+- **Xử lý mật khẩu tích hợp** – Không cần các bước giải mã bên ngoài.
+- **Kiểm soát trang chi tiết** – Các tùy chọn cho phép bạn chọn trang bắt đầu, số lượng trang và giữ nguyên bố cục.
+- **Tích hợp Maven liền mạch** – Thêm một phụ thuộc duy nhất và bắt đầu chuyển đổi.
+
+## Introduction
+
+Bạn gặp khó khăn khi chuyển đổi tài liệu Word được bảo mật bằng mật khẩu sang định dạng HTML? Nhiều chuyên gia gặp phải vấn đề này khi muốn chia sẻ hoặc hiển thị nội dung bảo mật trên web. Bài hướng dẫn chi tiết này sẽ chỉ bạn cách sử dụng **GroupDocs.Conversion for Java** để xử lý các chuyển đổi này một cách liền mạch, đảm bảo cả tính năng và khả năng truy cập.
+
+### What You'll Learn
+- Cài đặt GroupDocs.Conversion trong môi trường Java của bạn.
+- Chuyển đổi tài liệu Word được bảo mật bằng mật khẩu sang HTML với các tùy chọn nâng cao.
 - Cấu hình các trang cụ thể và cài đặt bố cục trong quá trình chuyển đổi.
-- Xử lý các sự cố thường gặp có thể phát sinh trong quá trình này.
+- Khắc phục các vấn đề thường gặp có thể phát sinh trong quá trình thực hiện.
 
-Hãy cùng giải quyết một số điều kiện tiên quyết trước khi bắt đầu!
+Hãy xem qua một số yêu cầu trước khi bắt đầu!
 
-## Điều kiện tiên quyết
+## Prerequisites
 
-Trước khi bắt đầu, hãy đảm bảo bạn có:
+Trước khi bắt đầu, hãy chắc chắn rằng bạn đã có:
 
-### Thư viện bắt buộc
-- GroupDocs.Conversion dành cho Java phiên bản 25.2 trở lên.
+### Required Libraries
+- GroupDocs.Conversion for Java phiên bản 25.2 trở lên.
 
-### Thiết lập môi trường
-- Bộ công cụ phát triển Java (JDK) được cài đặt trên máy của bạn.
+### Environment Setup
+- Một Java Development Kit (JDK) đã được cài đặt trên máy tính của bạn.
 
-### Điều kiện tiên quyết về kiến thức
-- Hiểu biết cơ bản về lập trình Java.
-- Quen thuộc với Maven để quản lý sự phụ thuộc.
+### Knowledge Prerequisites
+- Kiến thức cơ bản về lập trình Java.
+- Quen thuộc với Maven để quản lý phụ thuộc.
 
-## Thiết lập GroupDocs.Conversion cho Java
+## Setting Up GroupDocs.Conversion for Java
 
-Để sử dụng GroupDocs.Conversion, hãy đưa thư viện vào dự án của bạn:
+Để sử dụng GroupDocs.Conversion, hãy thêm thư viện vào dự án của bạn:
 
-### Cài đặt qua Maven
+### Installation via Maven
 
-Thêm cấu hình này vào `pom.xml` tài liệu:
+Thêm cấu hình này vào tệp `pom.xml` của bạn:
 ```xml
 <repositories>
    <repository>
@@ -58,114 +85,115 @@ Thêm cấu hình này vào `pom.xml` tài liệu:
 </dependencies>
 ```
 
-### Mua lại giấy phép
-Bạn có thể lấy giấy phép dùng thử miễn phí, đăng ký giấy phép tạm thời hoặc mua giấy phép đầy đủ để mở khóa mọi tính năng của GroupDocs.Conversion.
+### License Acquisition
+Bạn có thể nhận giấy phép dùng thử miễn phí, đăng ký giấy phép tạm thời, hoặc mua giấy phép đầy đủ để mở khóa tất cả các tính năng của GroupDocs.Conversion.
 
-#### Khởi tạo và thiết lập cơ bản
-Sau khi bạn đã thêm phần phụ thuộc, hãy khởi tạo dự án của bạn bằng:
+#### Basic Initialization and Setup
+Sau khi đã thêm phụ thuộc, khởi tạo dự án của bạn với:
 ```java
 import com.groupdocs.conversion.Converter;
 ```
 
-## Hướng dẫn thực hiện
+## Implementation Guide
 
-### Tính năng 1: Chuyển đổi tài liệu được bảo vệ bằng mật khẩu sang HTML
+### Feature 1: Converting Password‑Protected Document to HTML
 
-Tính năng này tập trung vào việc chuyển đổi tài liệu Word được bảo vệ bằng mật khẩu thành tệp HTML đồng thời cung cấp các tùy chọn nâng cao.
+Tính năng này tập trung vào việc chuyển đổi tài liệu Word được bảo mật bằng mật khẩu sang tệp HTML đồng thời cung cấp các tùy chọn nâng cao.
 
-#### Bước 1: Tải Tài liệu được bảo vệ
-Đầu tiên, chúng ta cần tải tài liệu được bảo vệ của mình. Thực hiện như sau:
+#### Step 1: Load the Protected Document
+Đầu tiên, chúng ta cần tải tài liệu được bảo mật. Cách thực hiện như sau:
 ```java
 import com.groupdocs.conversion.options.load.WordProcessingLoadOptions;
 
 String sourceDocument = "YOUR_DOCUMENT_DIRECTORY/SAMPLE_DOCX_WITH_PASSWORD.docx";
 WordProcessingLoadOptions loadOptions = new WordProcessingLoadOptions();
-loadOptions.setPassword("12345"); // Đặt mật khẩu để truy cập tài liệu của bạn
+loadOptions.setPassword("12345"); // Set the password to access your document
 ```
 
-#### Bước 2: Khởi tạo Bộ chuyển đổi
-Tiếp theo, khởi tạo `Converter` đối tượng có các tùy chọn đã tải của chúng tôi.
+#### Step 2: Initialize Converter
+Tiếp theo, khởi tạo đối tượng `Converter` với các tùy chọn đã tải.
 ```java
 import com.groupdocs.conversion.Converter;
 import com.groupdocs.conversion.options.convert.MarkupConvertOptions;
 
-// Tạo một phiên bản chuyển đổi mới
+// Create a new converter instance
 Converter converter = new Converter(sourceDocument, () -> loadOptions);
 ```
 
-#### Bước 3: Cấu hình Tùy chọn chuyển đổi
-Bây giờ, hãy cấu hình cài đặt chuyển đổi để đảm bảo đầu ra mong muốn.
+#### Step 3: Configure Conversion Options
+Bây giờ, cấu hình các thiết lập chuyển đổi để đảm bảo đầu ra như mong muốn.
 ```java
 MarkupConvertOptions options = new MarkupConvertOptions();
-options.setPageNumber(2); // Bắt đầu từ trang 2
-options.setFixedLayout(true); // Giữ nguyên bố cục của tài liệu
-options.setPagesCount(1); // Chỉ chuyển đổi một trang
+options.setPageNumber(2); // Start from page 2
+options.setFixedLayout(true); // Preserve the document's layout
+options.setPagesCount(1); // Convert only one page
 ```
 
-#### Bước 4: Thực hiện chuyển đổi
-Cuối cùng, chuyển đổi tài liệu của bạn bằng các tùy chọn đã chỉ định.
+#### Step 4: Perform Conversion
+Cuối cùng, thực hiện chuyển đổi tài liệu bằng các tùy chọn đã chỉ định.
 ```java
 String convertedFile = "YOUR_OUTPUT_DIRECTORY/ConvertedToHtmlWithAdvancedOptions.html";
 converter.convert(convertedFile, options);
 ```
 
-### Tính năng 2: Thiết lập tùy chọn chuyển đổi cho các trang cụ thể
-Tính năng này trình bày cách thiết lập các tham số chuyển đổi để tập trung vào các trang và bố cục cụ thể.
+### Feature 2: Setting Conversion Options for Specific Pages
 
-#### Cấu hình từng bước
-1. **Đặt số trang bắt đầu**Xác định nơi bắt đầu chuyển đổi.
+Tính năng này minh họa cách thiết lập các tham số chuyển đổi để tập trung vào các trang và bố cục cụ thể.
+
+#### Step‑by‑Step Configuration
+1. **Set Starting Page Number**: Xác định vị trí bắt đầu chuyển đổi.  
    ```java
-convertOptions.setPageNumber(2); // Chuyển đổi bắt đầu từ trang 2
+convertOptions.setPageNumber(2); // Convert starting from page 2
 ```
-2. **Enable Fixed Layout**: Ensure that your document's appearance remains consistent in HTML.
+2. **Enable Fixed Layout**: Đảm bảo giao diện tài liệu của bạn giữ nguyên trong HTML.  
    ```java
 convertOptions.setFixedLayout(true);
 ```
-3. **Giới hạn số trang**: Chỉ định số trang cần chuyển đổi.
+3. **Limit Pages Count**: Chỉ định số trang cần chuyển đổi.  
    ```java
-convertOptions.setPagesCount(1); // Chỉ chuyển đổi một trang
+convertOptions.setPagesCount(1); // Convert only one page
 ```
 
 ### Troubleshooting Tips
-- Ensure the document path and password are correctly specified.
-- Verify that all dependencies are properly included in your project.
-- Check for any updates or patches for GroupDocs.Conversion to resolve unexpected behavior.
+- Đảm bảo đường dẫn tài liệu và mật khẩu được chỉ định đúng.
+- Kiểm tra rằng tất cả các phụ thuộc đã được bao gồm đầy đủ trong dự án.
+- Kiểm tra các bản cập nhật hoặc bản vá cho GroupDocs.Conversion để giải quyết các hành vi không mong muốn.
 
 ## Practical Applications
-Here are some real-world scenarios where this conversion capability can be beneficial:
-1. **Web Publishing**: Convert documents for online viewing while maintaining security through password protection.
-2. **Collaborative Workflows**: Share specific document sections in HTML format with teams without exposing the entire file.
-3. **Integration with CMS**: Integrate conversions into content management systems for dynamic document display.
+Dưới đây là một số kịch bản thực tế mà khả năng chuyển đổi này có thể hữu ích:
+1. **Web Publishing** – Chuyển đổi tài liệu để xem trực tuyến trong khi vẫn duy trì bảo mật bằng mật khẩu.
+2. **Collaborative Workflows** – Chia sẻ các phần cụ thể của tài liệu dưới dạng HTML với các nhóm mà không lộ toàn bộ tệp.
+3. **Integration with CMS** – Nhúng quá trình chuyển đổi vào hệ thống quản lý nội dung để hiển thị tài liệu động.
 
 ## Performance Considerations
 ### Optimization Tips
-- Use appropriate memory settings to handle large documents efficiently.
-- Optimize your Java environment for better resource utilization during conversion processes.
+- Sử dụng các thiết lập bộ nhớ phù hợp để xử lý các tài liệu lớn một cách hiệu quả.
+- Tối ưu môi trường Java của bạn để tận dụng tài nguyên tốt hơn trong quá trình chuyển đổi.
 
 ### Best Practices
-- Regularly update your GroupDocs library to leverage performance improvements.
-- Monitor system resources when converting multiple or large files concurrently.
+- Thường xuyên cập nhật thư viện GroupDocs để tận dụng các cải tiến về hiệu năng.
+- Giám sát tài nguyên hệ thống khi chuyển đổi nhiều tệp hoặc tệp lớn đồng thời.
 
 ## Conclusion
-You've now mastered the process of converting password-protected Word documents into HTML using **GroupDocs.Conversion for Java**. This knowledge will empower you to manage document conversions with greater flexibility and security.
+Bạn đã nắm vững quy trình chuyển đổi tài liệu Word được bảo mật bằng mật khẩu sang HTML bằng **GroupDocs.Conversion for Java**. Kiến thức này sẽ giúp bạn quản lý việc chuyển đổi tài liệu với độ linh hoạt và bảo mật cao hơn.
 
 ### Next Steps
-Explore additional features of GroupDocs.Conversion, such as batch processing or format conversions beyond HTML, to expand your capabilities further.
+Khám phá các tính năng bổ sung của GroupDocs.Conversion, chẳng hạn như xử lý hàng loạt hoặc chuyển đổi sang các định dạng khác ngoài HTML, để mở rộng khả năng của bạn hơn nữa.
 
 ### Call-to-Action
-Why not try implementing this solution in your next project? Start by downloading the necessary resources from [GroupDocs' official site](https://releases.groupdocs.com/conversion/java/).
+Tại sao không thử áp dụng giải pháp này trong dự án tiếp theo của bạn? Bắt đầu bằng cách tải các tài nguyên cần thiết từ [GroupDocs' official site](https://releases.groupdocs.com/conversion/java/).
 
 ## FAQ Section
-1. **How do I handle conversion errors with GroupDocs.Conversion?**
-   - Ensure correct paths and passwords are provided, and check for library updates.
-2. **Can I convert documents without a password using this method?**
-   - Yes, simply omit the `setPassword` call if your document is not protected.
-3. **What file formats can GroupDocs.Conversion handle besides Word to HTML?**
-   - It supports various formats including PDF, image files, and more.
-4. **Is there a limit to the size of documents I can convert?**
-   - While Java's memory management plays a role, optimizing settings can help manage larger files.
-5. **How do I apply for a temporary license?**
-   - Visit [GroupDocs’ licensing page](https://purchase.groupdocs.com/temporary-license/) for more information.
+1. **Làm sao để xử lý lỗi chuyển đổi với GroupDocs.Conversion?**  
+   Đảm bảo đường dẫn và mật khẩu được cung cấp chính xác, và kiểm tra các bản cập nhật thư viện.
+2. **Có thể chuyển đổi tài liệu không có mật khẩu bằng phương pháp này không?**  
+   Có, chỉ cần bỏ qua lời gọi `setPassword` nếu tài liệu của bạn không được bảo mật.
+3. **GroupDocs.Conversion hỗ trợ những định dạng tệp nào ngoài Word sang HTML?**  
+   Nó hỗ trợ nhiều định dạng bao gồm PDF, các tệp hình ảnh và nhiều hơn nữa.
+4. **Có giới hạn kích thước tài liệu tôi có thể chuyển đổi không?**  
+   Mặc dù quản lý bộ nhớ của Java ảnh hưởng, việc tối ưu các thiết lập có thể giúp xử lý các tệp lớn hơn.
+5. **Làm sao để đăng ký giấy phép tạm thời?**  
+   Truy cập [GroupDocs’ licensing page](https://purchase.groupdocs.com/temporary-license/) để biết thêm chi tiết.
 
 ## Resources
 - **Documentation**: [GroupDocs Conversion Documentation](https://docs.groupdocs.com/conversion/java/)
@@ -175,3 +203,9 @@ Why not try implementing this solution in your next project? Start by downloadin
 - **Free Trial**: [Try for Free](https://releases.groupdocs.com/conversion/java/)
 - **Temporary License**: [Apply Here](https://purchase.groupdocs.com/temporary-license/)
 - **Support**: [GroupDocs Forum](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**Last Updated:** 2026-03-19  
+**Tested With:** GroupDocs.Conversion 25.2 for Java  
+**Author:** GroupDocs
