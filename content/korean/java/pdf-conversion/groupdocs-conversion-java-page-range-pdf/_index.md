@@ -1,38 +1,46 @@
 ---
-"date": "2025-04-28"
-"description": "GroupDocs.Conversion Java 라이브러리를 사용하여 특정 페이지 범위를 PDF 파일로 변환하는 방법을 알아보세요. 선택적 문서 변환 및 효율적인 콘텐츠 관리에 적합합니다."
-"title": "GroupDocs.Conversion Java API를 사용하여 특정 페이지 범위를 PDF로 변환"
-"url": "/ko/java/pdf-conversion/groupdocs-conversion-java-page-range-pdf/"
-"weight": 1
+date: '2026-04-25'
+description: GroupDocs.Conversion Java를 사용하여 PDF 페이지 번호를 설정하고 특정 페이지 범위를 PDF로 변환하는
+  방법을 배우세요 – docx를 PDF로 변환하는 Java 프로젝트에 최적입니다.
+keywords:
+- set pdf page number
+- convert docx pdf java
+- convert consecutive pages pdf
+- convert specific pages pdf
+title: PDF 페이지 번호 설정 – GroupDocs로 페이지 범위를 PDF로 변환
 type: docs
+url: /ko/java/pdf-conversion/groupdocs-conversion-java-page-range-pdf/
+weight: 1
 ---
-# GroupDocs.Conversion Java API를 사용하여 특정 페이지 범위를 PDF로 변환
 
-오늘날의 디지털 시대에 효율적인 문서 관리는 기업과 개인 모두에게 매우 중요합니다. 보고서의 특정 부분을 PDF와 같은 이동 가능한 형식으로 변환하면 시간과 리소스를 절약할 수 있습니다. 이 튜토리얼에서는 **GroupDocs.Conversion Java** 모든 문서에서 지정된 범위의 페이지를 PDF 파일로 변환하는 기능입니다. 이 과정을 마치면 프로젝트에 이 강력한 기능을 구현하는 데 필요한 모든 기술을 갖추게 될 것입니다.
+# PDF 페이지 번호 설정 – GroupDocs로 페이지 범위 PDF 변환
 
-## 당신이 배울 것
+현대 문서 워크플로에서 선택적 변환을 위한 **PDF 페이지 번호 설정**은 저장 비용을 크게 줄이고 공유 속도를 높일 수 있습니다. 이 튜토리얼에서는 **PDF 페이지 번호 설정** 방법과 모든 소스 문서(예: DOCX)에서 특정 페이지 범위를 PDF로 변환하는 방법을 **GroupDocs.Conversion Java**를 사용하여 보여줍니다. 이 가이드를 마치면 선택적 페이지 변환을 통합할 준비가 되며, *convert docx pdf java* 시나리오에 완벽합니다.
 
-- Java용 GroupDocs.Conversion을 설정하는 방법
-- 특정 페이지 범위를 PDF로 변환하는 프로세스
-- 변환 옵션 구성 및 주요 매개변수 이해
-- 선택적 페이지 전환의 실제 적용
-- 효율적인 문서 처리를 위한 성능 최적화 팁
+## 빠른 답변
+- **“PDF 페이지 번호 설정”은 무엇을 의미하나요?** 시작 페이지와 생성된 PDF에 포함할 페이지 수를 정의할 수 있게 해줍니다.  
+- **어떤 형식을 변환할 수 있나요?** DOCX, PPTX, XLSX 등 GroupDocs가 지원하는 모든 형식입니다.  
+- **연속 페이지만 변환할 수 있나요?** 예 – `setPageNumber`와 `setPagesCount` 옵션을 사용하여 *convert consecutive pages pdf*를 수행합니다.  
+- **라이선스가 필요합니까?** 프로덕션 사용을 위해서는 체험판 또는 정식 라이선스가 필요합니다.  
+- **필요한 Java 버전은 무엇인가요?** JDK 8 이상.
 
-구현에 들어가기 전에 필요한 전제 조건이 무엇인지 논의해 보겠습니다.
+## “PDF 페이지 번호 설정”이란?
+PDF 페이지 번호 설정은 변환 엔진에 어느 페이지부터 시작하고 출력 PDF에 몇 페이지를 포함할지 알려주는 과정입니다. 특히 큰 문서의 일부만 필요할 때 공유 콘텐츠를 세밀하게 제어할 수 있습니다.
 
-## 필수 조건
+## 선택적 페이지 변환에 GroupDocs.Conversion을 사용하는 이유
+- **Efficiency:** 필요한 페이지만 처리하므로 CPU와 메모리를 절약합니다.  
+- **Security:** 전체 파일을 노출하지 않고 관련 섹션만 공유할 수 있습니다.  
+- **Flexibility:** 다양한 소스 형식을 지원하므로 *convert docx pdf java* 프로젝트에 이상적입니다.  
 
-이 튜토리얼을 효과적으로 따르려면 다음 사항이 있는지 확인하세요.
-
-- **자바 개발 키트(JDK)** 컴퓨터에 설치되어 있어야 합니다. 버전 8 이상을 권장합니다.
-- Java 프로그래밍에 대한 기본적인 이해와 종속성 관리를 위한 Maven에 대한 익숙함이 필요합니다.
-- IntelliJ IDEA나 Eclipse와 같은 통합 개발 환경(IDE)에 대한 액세스.
+## 전제 조건
+- **Java Development Kit (JDK)** 8 이상.  
+- 기본 Java 지식 및 Maven을 통한 의존성 관리.  
+- IntelliJ IDEA 또는 Eclipse와 같은 IDE.  
 
 ## Java용 GroupDocs.Conversion 설정
 
 ### Maven을 통한 설치
-
-필요한 저장소와 종속성을 추가하여 시작하세요. `pom.xml` 파일:
+`pom.xml` 파일에 저장소와 의존성을 추가합니다:
 
 ```xml
 <repositories>
@@ -51,110 +59,108 @@ type: docs
 </dependencies>
 ```
 
-### 라이센스 취득
+### 라이선스 획득
+GroupDocs는 여러 라이선스 옵션을 제공합니다:
 
-GroupDocs는 다양한 라이선스 옵션을 제공합니다.
+- **Free Trial:** 임시 라이선스로 라이브러리를 테스트합니다.  
+- **Temporary License:** 평가 기간을 연장합니다.  
+- **Full Purchase:** 프로덕션 준비된 라이선스입니다.
 
-- **무료 체험:** 임시 라이센스로 라이브러리의 기능을 테스트해 보세요.
-- **임시 면허:** 장기 평가 목적으로 이것을 얻으세요.
-- **구입:** 프로덕션 환경에 통합하기로 결정한 경우 전체 라이선스를 선택하세요.
-
-이 중 어떤 것이든 방문하세요. [GroupDocs 구매 페이지](https://purchase.groupdocs.com/buy) 또는 신청하세요 [임시 면허](https://purchase.groupdocs.com/temporary-license/).
+자세한 내용은 [GroupDocs 구매 페이지](https://purchase.groupdocs.com/buy)를 방문하거나 [temporary license](https://purchase.groupdocs.com/temporary-license/)를 요청하세요.
 
 ### 기본 초기화
-
-설정이 완료되면 인스턴스를 만듭니다. `Converter` 대상 문서와 함께 수업:
+소스 문서를 가리키는 `Converter` 인스턴스를 생성합니다:
 
 ```java
 import com.groupdocs.conversion.Converter;
 
-// 문서 경로로 변환기를 초기화합니다.
+// Initialize the converter with your document path.
 Converter converter = new Converter("YOUR_DOCUMENT_DIRECTORY/SAMPLE_DOCX");
 ```
 
-## 구현 가이드: 페이지 범위를 PDF로 변환
+## 페이지 범위 변환을 위한 PDF 페이지 번호 설정 방법
 
-### 개요
-
-이 기능을 사용하면 문서의 어떤 페이지를 PDF 형식으로 변환할지 지정하여 출력 콘텐츠를 제어할 수 있습니다.
-
-#### 1단계: 변환 옵션 구성
-
-특정 페이지를 변환하려면 다음을 설정하세요. `PdfConvertOptions` 원하는 페이지 범위로:
+### 단계 1: 변환 옵션 구성
+시작 페이지와 포함할 연속 페이지 수를 정의하려면 `PdfConvertOptions`를 사용합니다:
 
 ```java
 import com.groupdocs.conversion.options.convert.PdfConvertOptions;
 
-// PdfConvertOptions의 인스턴스를 생성합니다.
+// Create an instance of PdfConvertOptions.
 PdfConvertOptions options = new PdfConvertOptions();
 
-// 변환할 시작 페이지와 연속 페이지의 총 개수를 설정합니다.
+// Set the starting page and total number of consecutive pages to convert.
 options.setPageNumber(2);
 options.setPagesCount(2);
 ```
 
-#### 2단계: 변환 수행
+> **Pro tip:** `setPageNumber`를 콘텐츠가 시작되는 정확한 페이지로 조정하세요. `setPagesCount` 값은 해당 시작점 이후 포함할 페이지 수를 결정하여 *convert specific pages pdf* 워크플로를 가능하게 합니다.
 
-다음을 사용하여 변환을 실행하세요. `convert` 출력 파일 경로를 지정하는 방법:
+### 단계 2: 변환 수행
+출력 경로를 지정하고 변환을 실행합니다:
 
 ```java
-// 변환된 PDF가 저장될 위치를 정의합니다.
+// Define where the converted PDF will be saved.
 String convertedFile = "YOUR_OUTPUT_DIRECTORY/ConvertNConsecutivePages.pdf";
 
-// 지정된 옵션을 사용하여 문서를 PDF로 변환하고 저장합니다.
+// Convert and save the document as a PDF with specified options.
 converter.convert(convertedFile, options);
 ```
 
-### 주요 구성 옵션
+## 주요 구성 옵션 요약
+- **PageNumber:** PDF 출력의 시작 페이지.  
+- **PagesCount:** 포함할 연속 페이지 수.  
 
-- **페이지 번호:** 변환 시작 페이지를 결정합니다. 필요에 맞게 조정하세요.
-- **페이지 수:** 처음부터 연속된 페이지 몇 개를 변환할지 지정합니다.
+이 설정을 통해 **convert specific pages pdf**를 수행하면서 문서의 나머지 부분은 그대로 유지할 수 있습니다.
 
-#### 문제 해결 팁
+## 일반적인 문제 및 해결책
+- **Invalid file paths:** 입력 및 출력 디렉터리가 존재하고 읽을 수 있는지 다시 확인하세요.  
+- **Unsupported source format:** 문서 유형이 GroupDocs 지원 형식 목록에 포함되어 있는지 확인하세요.  
+- **Page range exceeds document length:** 변환은 마지막 사용 가능한 페이지에서 중단되며 오류가 발생하지 않습니다.
 
-- 모든 경로가 올바르게 설정되어 애플리케이션에서 접근 가능한지 확인하세요.
-- GroupDocs.Conversion이 문서 형식을 지원하는지 확인하세요.
+## 실용적인 사용 사례
+1. **Legal contracts:** 클라이언트와 관련된 조항만 내보냅니다.  
+2. **Educational handouts:** 교재의 단일 장을 공유합니다.  
+3. **Business reports:** 핵심 페이지를 추출하여 간결한 요약을 배포합니다.
 
-## 실제 응용 프로그램
-
-선택적 페이지 변환이 유익할 수 있는 실제 시나리오는 다음과 같습니다.
-
-1. **법적 문서:** 긴 계약서 중 관련 부분만 변환하여 고객이나 동료와 공유하세요.
-2. **교육 자료:** 교과서 전체를 배포하지 않고 특정 챕터만 공유하세요.
-3. **내부 보고서:** 필수 페이지만 추출하여 요약 보고서를 배포합니다.
-
-## 성능 고려 사항
-
-- Java에서 효율적인 메모리 관리 관행을 활용하여 대용량 문서를 원활하게 처리합니다.
-- 리소스 고갈을 방지하려면 동시 변환 수를 제한하세요.
-- 성능 개선 및 버그 수정을 위해 GroupDocs.Conversion 라이브러리를 정기적으로 업데이트합니다.
+## 성능 팁
+- Java의 try‑with‑resources를 사용하여 스트림을 자동으로 닫습니다.  
+- 메모리 급증을 방지하기 위해 대용량 파일을 배치 처리합니다.  
+- 최신 성능 향상을 위해 GroupDocs 라이브러리를 최신 상태로 유지합니다.
 
 ## 결론
+이제 **PDF 페이지 번호 설정** 방법과 GroupDocs.Conversion Java를 사용하여 *convert docx pdf java* 또는 기타 지원 형식을 필요한 페이지만 포함하는 PDF로 변환하는 방법을 알게 되었습니다. 이 패턴을 애플리케이션에 통합하면 효율성, 보안 및 사용자 경험을 향상시킬 수 있습니다.
 
-이제 특정 페이지 범위를 PDF 파일로 변환하는 기술을 갖추게 되었습니다. **GroupDocs.Conversion Java**이 기능을 사용하면 콘텐츠 변환을 정밀하게 제어하고 시간과 저장 공간을 절약하여 문서 관리가 향상됩니다.
+더 깊이 탐색하려면 공식 문서를 확인하세요: [GroupDocs API documentation](https://docs.groupdocs.com/conversion/java/).
 
-다음 단계로, 다양한 구성을 실험해 보거나 이 기능을 기존 프로젝트에 통합해 보세요. 방문하세요. [GroupDocs의 API 문서](https://docs.groupdocs.com/conversion/java/) 더 탐색해보세요.
+## 자주 묻는 질문
 
-## FAQ 섹션
+**Q: GroupDocs.Conversion Java를 사용하여 PDF가 아닌 문서를 변환할 수 있나요?**  
+A: 예, 라이브러리는 DOCX, PPTX, XLSX 등 다양한 형식을 지원합니다.
 
-1. **GroupDocs.Conversion Java를 사용하여 PDF가 아닌 문서를 변환할 수 있나요?**
-   - 네, 다양한 문서 형식을 지원합니다.
-2. **지정된 페이지 범위가 총 페이지 수를 초과하면 어떻게 되나요?**
-   - 변환은 마지막 사용 가능한 페이지에서 중지됩니다.
-3. **변환할 수 있는 페이지 수에 제한이 있나요?**
-   - 명확한 제한은 없지만 시스템 리소스에 따라 성능이 달라질 수 있습니다.
-4. **지원되지 않는 문서 형식은 어떻게 처리합니까?**
-   - GroupDocs에서 처리하기 전에 문서가 지원되는 형식인지 확인하거나 추가 라이브러리를 사용하여 변환하세요.
-5. **이 튜토리얼과 관련된 롱테일 키워드는 무엇입니까?**
-   - "선택적 PDF 페이지 변환" 및 "Java 문서 관리 솔루션"과 같은 용어를 사용하여 검색 가시성을 높일 수 있습니다.
+**Q: 지정된 페이지 범위가 전체 페이지 수를 초과하면 어떻게 되나요?**  
+A: 변환은 마지막 사용 가능한 페이지에서 중단되며 오류가 발생하지 않습니다.
 
-## 자원
+**Q: 한 번에 변환할 수 있는 페이지 수에 제한이 있나요?**  
+A: 명확한 제한은 없지만 매우 큰 범위는 추가 메모리가 필요할 수 있으므로 작은 배치로 처리하는 것을 고려하세요.
 
-- **선적 서류 비치:** [GroupDocs 변환 Java 문서](https://docs.groupdocs.com/conversion/java/)
-- **API 참조:** [GroupDocs API 참조](https://reference.groupdocs.com/conversion/java/)
-- **라이브러리 다운로드:** [GroupDocs 다운로드 페이지](https://releases.groupdocs.com/conversion/java/)
-- **라이센스 구매:** [GroupDocs 변환 구매](https://purchase.groupdocs.com/buy)
-- **무료 체험판 및 임시 라이센스:** [무료 체험판을 받으세요](https://releases.groupdocs.com/conversion/java/) | [임시 면허 신청](https://purchase.groupdocs.com/temporary-license/)
-- **지원 포럼:** [GroupDocs 커뮤니티 지원](https://forum.groupdocs.com/c/conversion/10)
+**Q: 지원되지 않는 문서 형식을 어떻게 처리해야 하나요?**  
+A: 먼저 파일을 지원되는 형식으로 변환하거나 GroupDocs를 호출하기 전에 전처리 라이브러리를 사용하세요.
 
-자신감을 가지고 문서 변환에 착수하고 오늘부터 워크플로우를 최적화하세요!
+**Q: 이 튜토리얼과 관련된 롱테일 키워드는 무엇인가요?**  
+A: “selective PDF page conversion”, “Java document management solutions”, “convert specific pages pdf”와 같은 문구가 검색 가시성을 높입니다.
+
+---
+
+**마지막 업데이트:** 2026-04-25  
+**테스트 환경:** GroupDocs.Conversion 25.2 for Java  
+**작성자:** GroupDocs  
+
+**리소스**
+
+- **Documentation:** [GroupDocs Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)  
+- **API Reference:** [GroupDocs API Reference](https://reference.groupdocs.com/conversion/java/)  
+- **Download Library:** [GroupDocs Download Page](https://releases.groupdocs.com/conversion/java/)  
+- **Purchase License:** [Buy GroupDocs Conversion](https://purchase.groupdocs.com/buy)  
+- **Free Trial & Temporary License:** [Get Your Free Trial](https://releases.groupdocs.com/conversion/java/) | [Request a Temporary License](https://purchase.groupdocs.com/temporary-license/)  
+- **Support Forum:** [GroupDocs Community Support](https://forum.groupdocs.com/c/conversion/10)
