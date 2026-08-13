@@ -1,44 +1,40 @@
 ---
-"date": "2025-04-28"
-"description": "學習如何使用 GroupDocs.Conversion for Java 從 PDF 中高效提取元數據，例如作者詳情、頁數和加密狀態。非常適合文件管理系統。"
-"title": "如何在 Java 中使用 GroupDocs.Conversion 提取 PDF 元數據"
-"url": "/zh-hant/java/pdf-conversion/extract-pdf-metadata-groupdocs-java/"
-"weight": 1
+date: '2026-04-14'
+description: 學習如何在 Java 中使用 GroupDocs.Conversion 獲取 PDF 頁數並提取 PDF 元數據。快速檢索作者、建立日期及加密狀態，以便文件管理。
+keywords:
+- get pdf page count
+- java read pdf metadata
+- extract pdf metadata java
+title: 使用 GroupDocs.Conversion Java 取得 PDF 頁數並提取 PDF 元資料
 type: docs
+url: /zh-hant/java/pdf-conversion/extract-pdf-metadata-groupdocs-java/
+weight: 1
 ---
-# 如何在 Java 中使用 GroupDocs.Conversion 提取 PDF 元數據
 
-## 介紹
+# 取得 PDF 頁數並擷取 PDF 中繼資料（使用 GroupDocs.Conversion Java）
 
-您是否希望使用 Java 從 PDF 文件中高效提取基本信息，例如作者詳細信息、頁數和加密狀態？隨著管理數位文件的需求日益增長，快速檢索元資料的能力至關重要。本教學將指導您使用 GroupDocs.Conversion for Java 擷取 PDF 的基本屬性。
+## 快速解答
+- **什麼是「取得 PDF 頁數」？** 它會回傳 PDF 檔案的總頁數。  
+- **哪個程式庫在 Java 中協助完成此功能？** GroupDocs.Conversion for Java 提供簡易的 API。  
+- **我需要授權嗎？** 可使用免費試用版；正式上線需購買商業授權。  
+- **我也能讀取其他中繼資料嗎？** 可以——作者、標題、建立日期、加密狀態等。  
+- **它相容於 Java 8+ 嗎？** 完全相容，該程式庫支援 JDK 8 及更新版本。
 
-**您將學到什麼：**
-- 如何使用 GroupDocs.Conversion 設定您的開發環境。
-- 從 PDF 文件中提取基本文件資訊的逐步說明。
-- 該功能在現實場景中的實際應用。
+## 什麼是「取得 PDF 頁數」？
+取得 PDF 頁數是指查詢文件結構以確定其包含的頁數。此資訊對於分頁、預覽產生以及合規性檢查皆相當有用。
 
-在開始之前，讓我們先來了解先決條件！
+## 為什麼在 Java 中擷取 PDF 中繼資料？
+擷取 PDF 中繼資料可讓您自動化文件分類、執行安全政策，並在不開啟完整檔案的情況下產生報告。相較於完整內容抽取，這是一項輕量級操作，適合大規模文件處理管線。
 
-## 先決條件
+## 前置條件
+- **Java Development Kit (JDK) 8+** 已安裝。  
+- **Maven** 用於相依管理。  
+- 如 **IntelliJ IDEA** 或 **Eclipse** 等 IDE。  
+- 基本的 Java 知識。
 
-在開始之前，請確保您已：
+## 設定 GroupDocs.Conversion for Java
 
-### 所需的庫和依賴項
-- 您的機器上安裝了 Java 開發工具包 (JDK) 8 或更高版本。
-- Maven 建置工具用於依賴管理。
-
-### 環境設定要求
-- 合適的整合開發環境 (IDE)，例如 IntelliJ IDEA 或 Eclipse。
-
-### 知識前提
-- 對 Java 程式設計和物件導向概念有基本的了解。
-
-## 為 Java 設定 GroupDocs.Conversion
-
-首先，您需要使用 Maven 在專案中設定 GroupDocs.Conversion 庫。具體操作如下：
-
-**Maven設定：**
-將以下內容新增至您的 `pom.xml` 文件內 `<repositories>` 和 `<dependencies>` 部分：
+將 GroupDocs 的儲存庫與相依項目加入您的 `pom.xml`：
 
 ```xml
 <repositories>
@@ -57,44 +53,42 @@ type: docs
 </dependencies>
 ```
 
-### 許可證獲取
+### 取得授權
+GroupDocs 提供免費試用、暫時評估授權與完整購買選項。您可先使用他們的 [free trial](https://releases.groupdocs.com/conversion/java/) 來探索功能。
 
-GroupDocs 提供多種許可選項，包括免費試用、用於評估的臨時許可證以及用於生產用途的完整購買許可證。您可以從他們的 [免費試用](https://releases.groupdocs.com/conversion/java/) 測試功能。
-
-**基本初始化：**
-設定好 Maven 專案後，您就可以在 Java 應用程式中初始化 GroupDocs.Conversion：
+### 基本初始化
+Maven 解析完套件後，使用 PDF 檔案路徑初始化 `Converter`：
 
 ```java
 import com.groupdocs.conversion.Converter;
 
 public class PDFInfoRetriever {
     public static void main(String[] args) {
-        // 使用 PDF 文件的路徑初始化轉換器。
+        // Initialize the Converter with the path to your PDF document.
         Converter converter = new Converter("YOUR_DOCUMENT_DIRECTORY/SAMPLE_PDF");
         
-        // 繼續檢索和利用文件資訊...
+        // Proceed to retrieve and utilize document information...
     }
 }
 ```
 
-## 實施指南
+## 實作指南
 
-### 檢索基本文件資訊
+以下為逐步說明，展示 **如何取得 PDF 頁數** 以及其他中繼資料。
 
-此功能可讓您從 PDF 文件中提取元資料。讓我們詳細了解如何實現它。
+### 取得基本文件資訊
 
-#### 步驟 1：初始化轉換器
-首先創建一個 `Converter` 類，指定目標 PDF 文件的路徑。
+#### 步驟 1：初始化 Converter
+建立指向 PDF 檔案的 `Converter` 實例。
 
 ```java
 Converter converter = new Converter("YOUR_DOCUMENT_DIRECTORY/SAMPLE_PDF");
 ```
 
-- **目的：** 此步驟初始化轉換過程並準備文件以供資訊檢索。
+- **目的**：為資訊抽取做文件的準備。
 
-#### 第 2 步：檢索常規文件資訊
-
-使用 `getDocumentInfo()` 方法取得 PDF 文件元資料的總體概述：
+#### 步驟 2：取得一般文件資訊
+呼叫 `getDocumentInfo()` 以取得與格式無關的資訊物件。
 
 ```java
 import com.groupdocs.conversion.contracts.documentinfo.IDocumentInfo;
@@ -102,11 +96,10 @@ import com.groupdocs.conversion.contracts.documentinfo.IDocumentInfo;
 IDocumentInfo info = converter.getDocumentInfo();
 ```
 
-- **目的：** 這提供了對不同文件格式中常見的基本文件屬性的存取。
+- **目的**：讓您取得諸如大小與格式等通用屬性。
 
-#### 步驟 3：將資訊轉換為 PdfDocumentInfo
-
-若要存取 PDF 特定的屬性，請轉換所取得的資訊：
+#### 步驟 3：將資訊轉型為 PdfDocumentInfo
+為了取得 PDF 專屬欄位，將通用資訊物件轉型。
 
 ```java
 import com.groupdocs.conversion.contracts.documentinfo.PdfDocumentInfo;
@@ -114,78 +107,74 @@ import com.groupdocs.conversion.contracts.documentinfo.PdfDocumentInfo;
 PdfDocumentInfo pdfInfo = (PdfDocumentInfo) info;
 ```
 
-- **目的：** 此步驟可讓您利用特定於 PDF 文件的方法。
+- **目的**：啟用 PDF 專屬屬性，如頁數與加密狀態。
 
-#### 步驟 4：存取和使用文件屬性
-
-最後，檢索PDF文件的各種屬性：
+#### 步驟 4：存取與使用文件屬性
+抽取您需要的中繼資料，包括 **頁數**。
 
 ```java
-String author = pdfInfo.getAuthor(); // 取得作者姓名
-String creationDate = pdfInfo.getCreationDate(); // 檢索文件的建立日期
-double width = pdfInfo.getWidth(); // 第一頁的寬度（以磅為單位）
-double height = pdfInfo.getHeight(); // 首頁的高度（以磅為單位）
-boolean isLandscape = pdfInfo.isLandscape(); // 檢查第一頁是否為橫向模式
-int pagesCount = pdfInfo.getPagesCount(); // 文件總頁數
-String title = pdfInfo.getTitle(); // 文件標題
-String version = pdfInfo.getVersion(); // PDF版本資訊
-boolean isEncrypted = pdfInfo.isPasswordProtected(); // 檢查文件是否受密碼保護
+String author = pdfInfo.getAuthor(); // Get the author's name
+String creationDate = pdfInfo.getCreationDate(); // Retrieve the document's creation date
+double width = pdfInfo.getWidth(); // Width of the first page in points
+double height = pdfInfo.getHeight(); // Height of the first page in points
+boolean isLandscape = pdfInfo.isLandscape(); // Check if the first page is in landscape mode
+int pagesCount = pdfInfo.getPagesCount(); // Total number of pages in the document
+String title = pdfInfo.getTitle(); // Document's title
+String version = pdfInfo.getVersion(); // PDF version information
+boolean isEncrypted = pdfInfo.isPasswordProtected(); // Check if the document is password protected
 
-// 根據需要使用這些屬性，例如記錄或在 UI 中顯示。
+// Use these properties as needed, such as logging or displaying in a UI.
 ```
 
-- **目的：** 這些屬性提供了對 PDF 文件各個方面的深入了解。
+- **目的**：提供 PDF 中繼資料的完整快照，讓您能在一次呼叫中 **取得 PDF 頁數** 及其他細節。
 
-### 故障排除提示
+### 疑難排解技巧
+- 驗證 PDF 路徑正確且檔案可讀取。  
+- 確保所有 Maven 相依項目已正確聲明。  
+- 對於受密碼保護的檔案，在存取其他屬性前先處理 `isPasswordProtected` 標誌。
 
-- 確保指定的 PDF 路徑正確且可存取。
-- 驗證是否已在 Maven 中包含所有必需的依賴項 `pom。xml`.
+## 實務應用
+1. **Document Management Systems**：自動為 PDF 加上作者、標題與頁數標籤，以加速搜尋。  
+2. **Compliance Audits**：確認 PDF 含有必要的中繼資料（例如建立日期）。  
+3. **Security Gateways**：在未加密的 PDF 進入安全儲存庫前拒絕或標記。  
+4. **Analytics Dashboards**：彙總文件庫中 PDF 的頁數統計。
 
-## 實際應用
-
-以下是檢索 PDF 資訊可能有用的一些實際場景：
-
-1. **文件管理系統：** 自動提取元數據，實現高效的文件分類和檢索。
-2. **內容審核：** 快速審核大量文檔，以確保符合作者或建立日期標準。
-3. **安全檢查：** 在存取內容之前驗證敏感文件是否已加密。
-4. **PDF分析：** 收集有關組織內 PDF 使用模式的見解。
-
-## 性能考慮
-
-使用 GroupDocs.Conversion 時，請考慮以下事項以獲得最佳效能：
-
-- 透過有效管理 Java 中的物件生命週期來最大限度地減少記憶體使用。
-- 優化資料檢索操作，避免不必要的處理。
-- 監控資源使用情況並根據需要調整配置以提高吞吐量。
+## 效能考量
+- 及時釋放 `Converter` 物件以釋放原生資源。  
+- 大量處理時，盡可能重複使用同一個 `Converter` 實例。  
+- 監控 JVM 堆積使用情況；大型 PDF 可能需要增加記憶體設定。
 
 ## 結論
-
-在本教學中，您學習如何為 Java 設定 GroupDocs.Conversion 並從 PDF 文件中擷取重要資訊。此功能可以透過啟用動態元資料管理來增強應用程式的功能。
+現在您已了解如何使用 GroupDocs.Conversion for Java **取得 PDF 頁數** 並抽取 PDF 檔案的豐富中繼資料。此知識讓您能構建更智慧的文件工作流程、提升可搜尋性，並落實安全政策。
 
 ### 後續步驟
-考慮探索 GroupDocs.Conversion 的其他功能，例如在格式之間轉換文件或與其他系統整合以增強工作流程。
+探索 GroupDocs.Conversion 的其他功能，例如格式轉換、水印與文件合併，以進一步豐富您的應用程式。
 
-## 常見問題部分
+## 常見問題
 
-**問題 1：我可以使用 GroupDocs.Conversion 從 PDF 提取文字內容嗎？**
-- 答：雖然本教學重點介紹元資料擷取，但 GroupDocs.Conversion 也支援提取文字內容。更多詳細信息，請參閱其文檔。
+**Q: 我也能擷取 PDF 的完整文字內容嗎？**  
+A: 可以。GroupDocs.Conversion 支援文字抽取，請參考官方文件中的相關 API。
 
-**問題 2：如果我的 PDF 受密碼保護怎麼辦？**
-- 答：您可以在嘗試擷取資訊之前檢查文件是否已加密並進行相應處理。
+**Q: 若 PDF 受密碼保護，我該怎麼辦？**  
+A: 首先檢查 `isPasswordProtected`。若為 true，於初始化 `Converter` 時提供密碼。
 
-**Q3：如何使用 GroupDocs.Conversion 轉換其他文件類型？**
-- 答：該程式庫支援多種格式之間的轉換。請查看 [API 參考](https://reference.groupdocs.com/conversion/java/) 具體方法。
+**Q: 如何使用 GroupDocs.Conversion 轉換其他文件類型？**  
+A: 該程式庫提供統一的轉換 API。請參閱 [API Reference](https://reference.groupdocs.com/conversion/java/) 了解支援的格式。
 
-**Q4：GroupDocs.Conversion 支援的最大檔案大小是多少？**
-- 答：檔案大小限制取決於您環境的記憶體容量。請確保有足夠的資源來處理大文件。
+**Q: 我能處理的 PDF 大小有上限嗎？**  
+A: 限制取決於伺服器記憶體。對於大型檔案請配置足夠的堆積空間。
 
-**Q5：有沒有辦法優雅地處理轉換錯誤？**
-- 答：圍繞轉換操作實現錯誤處理，以管理異常並有效地向使用者提供回饋。
+**Q: 我該如何優雅地處理轉換錯誤？**  
+A: 將轉換呼叫包在 try‑catch 區塊中，並記錄 `ConversionException` 的細節以通知使用者。
 
 ## 資源
 
-- **文件:** [GroupDocs.Conversion Java 文檔](https://docs.groupdocs.com/conversion/java/)
-- **API 參考：** [Java 版 GroupDocs API 參考](https://reference.groupdocs.com/conversion/java/)
-- **下載 GroupDocs.Conversion：** [Java 下載](https://releases.groupdocs.com/conversion/java/)
-- **購買許可證：** [購買 GroupDocs 商品](https://purchase.groupdocs.com/buy)
-- **免費試用：** [試用 GroupDocs 免費試用版](https://releases.groupdocs.com/conversion/java/)
+- **文件說明**： [GroupDocs.Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)
+- **API 參考**： [GroupDocs API Reference for Java](https://reference.groupdocs.com/conversion/java/)
+- **下載 GroupDocs.Conversion**： [Java Downloads](https://releases.groupdocs.com/conversion/java/)
+- **購買授權**： [Buy GroupDocs Product](https://purchase.groupdocs.com/buy)
+- **免費試用**： [Try GroupDocs Free Trial](https://releases.groupdocs.com/conversion/java/)
+
+**最後更新**： 2026-04-14  
+**測試版本**： GroupDocs.Conversion 25.2 for Java  
+**作者**： GroupDocs
