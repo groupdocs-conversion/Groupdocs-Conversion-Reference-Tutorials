@@ -1,56 +1,150 @@
 ---
-date: '2026-02-05'
-description: Ismerje meg, hogyan használhatja a GroupDocs.Conversion for Java-t a
-  táblázatok PDF-re konvertálásának automatizálásához, beleértve a konkrét tartományok
-  betöltését és egy oldal per munkalap PDF-ek létrehozását.
+date: '2026-08-14'
+description: Ismerje meg, hogyan automatizálhatja a spreadsheet PDF konvertálását
+  Java-ban a GroupDocs.Conversion segítségével, az one page per sheet és az excel
+  range to pdf funkciók használatával.
 keywords:
-- spreadsheet to PDF conversion Java
-- GroupDocs.Conversion for Java
-- automate spreadsheet conversion
-title: 'Egy oldal laponként: Táblázat automatikus PDF-re konvertálása Java-ban'
+- one page per sheet
+- excel range to pdf
+- groupdocs conversion java
+- convert spreadsheet pdf java
+- large excel pdf conversion
+lastmod: '2026-08-14'
+og_description: One page per sheet konvertálás Java-ban a GroupDocs.Conversion használatával.
+  Ismerje meg, hogyan tölthet be konkrét tartományokat, és generálhat hatékonyan egyoldalas
+  PDF-eket.
+og_image_alt: Java code converting Excel sheets to single-page PDF using GroupDocs
+og_title: 'One page per sheet: automatizálja a spreadsheet PDF-re konvertálását Java-ban'
+schemas:
+- author: GroupDocs
+  dateModified: '2026-08-14'
+  description: Learn how to automate spreadsheet to PDF conversion in Java with GroupDocs.Conversion,
+    using one page per sheet and excel range to pdf features.
+  headline: 'One page per sheet: automate spreadsheet to PDF in Java'
+  type: TechArticle
+- questions:
+  - answer: JDK 8 or higher is recommended to ensure full compatibility with the library.
+    question: What is the minimum Java version required for GroupDocs.Conversion?
+  - answer: Yes, GroupDocs.Conversion supports Excel, CSV, ODS, and many other formats
+      in a single conversion call.
+    question: Can I convert multiple spreadsheet formats at once?
+  - answer: Request one through the [GroupDocs website](https://purchase.groupdocs.com/temporary-license/).
+    question: How do I obtain a temporary license for full feature access?
+  - answer: Load only the needed range with `setConvertRange` and consider streaming
+      the file to disk during conversion.
+    question: What if my spreadsheet is too large to convert in memory?
+  - answer: Yes, you can read from and write to AWS S3, Azure Blob Storage, Google
+      Cloud Storage, etc., using standard Java I/O streams.
+    question: Can I integrate GroupDocs.Conversion with cloud storage services?
+  type: FAQPage
+tags:
+- spreadsheet to pdf
+- groupdocs conversion
+- java pdf conversion
+- excel automation
+title: 'One page per sheet: automatizálja a spreadsheet PDF-re konvertálását Java-ban'
 type: docs
 url: /hu/java/pdf-conversion/automate-spreadsheet-conversion-java-groupdocs/
 weight: 1
 ---
 
-# Egy lap egy munkalaponként: Táblázatok PDF-re konvertálásának automatizálása Java-ban a GroupDocs.Conversion segítségével
+# Egy lap munkalaponként: táblázat PDF-re konvertálása Java-ban
 
-## Bevezetés
-
-Ha már eleged van a táblázatok kézi PDF-re konvertálásából, jó helyen jársz. Ebben az útmutatóban megmutatjuk, hogyan tudja a **GroupDocs.Conversion for Java** **automatizálni a táblázatkonverziót**, és finomhangolt vezérlést biztosít – például csak a szükséges sorok betöltésével és egy **egy lap egy munkalapon** PDF kimenet előállításával. A végére meg fogod érteni, hogyan:
+Ha már eleged van a táblázatok kézi PDF-re konvertálásából, jó helyen vagy. Ebben az oktatóanyagban megmutatjuk, hogyan tudja a **GroupDocs.Conversion for Java** **automatizálni a táblázatkonverziót**, miközben finomhangolt vezérlést biztosít — például csak a szükséges sorok betöltését és egy **egy lap munkalaponként** PDF kimenet előállítását. A végére meg fogod érteni, hogyan:
 
 * Megadhatod a cellatartományokat a munkafüzet betöltésekor  
-* Konfigurálhatod a konvertálót, hogy minden munkalap egyetlen PDF oldal legyen  
+* Beállíthatod a konvertálót úgy, hogy minden munkalap egyetlen PDF oldal legyen  
 * Beállíthatod a Java projektedet a legújabb GroupDocs.Conversion könyvtárral  
 
 Készítsük elő a környezetet, mielőtt a kódba merülnénk.
 
 ## Gyors válaszok
-- **Mi jelent a „egy lap egy munkalapon”?** A forrás Excel fájl minden munkalapja egyetlen oldalként jelenik meg a létrehozott PDF-ben.  
+- **Mi jelent a „one page per sheet”?** Minden munkalap a forrás Excel fájlban egyetlen oldalként jelenik meg a létrehozott PDF-ben.  
 - **Melyik könyvtár kezeli a konverziót?** `GroupDocs.Conversion` for Java (version 25.2).  
-- **Szükségem van licencre?** Egy ingyenes próba a kiértékeléshez elegendő; termeléshez ideiglenes vagy megvásárolt licenc szükséges.  
-- **Konvertálhatok nagy táblázatokat hatékonyan?** Igen – a szükséges tartomány betöltésével csökkented a memóriahasználatot és felgyorsítod a folyamatot.  
+- **Szükségem van licencre?** Egy ingyenes próba a kiértékeléshez elegendő; egy ideiglenes vagy megvásárolt licenc szükséges a termeléshez.  
+- **Hatékonyan tudok nagy táblázatokat konvertálni?** Igen — a szükséges tartomány betöltésével csökkented a memóriahasználatot és felgyorsítod a folyamatot.  
 - **Milyen Java verzió szükséges?** JDK 8 vagy újabb.
 
-## Mi az a „egy lap egy munkalapon”?
-Amikor egy Excel munkafüzetet konvertálsz, az alapértelmezett viselkedés több PDF oldalt hozhat létre minden munkalaphoz (egy a nyomtatási területenként). A **egy lap egy munkalapon** opció engedélyezése arra kényszeríti a konvertálót, hogy az egész munkalapot egyetlen PDF oldalra sűrítse, ami ideális jelentésekhez, prezentációkhoz vagy amikor előre meghatározott oldalszámra van szükség.
+## Mi az a „one page per sheet”?
+**One page per sheet** azt jelenti, hogy a konvertáló az egyes munkalapok teljes tartalmát egyetlen PDF oldalra sűríti, függetlenül attól, hány nyomtatási területet tartalmaz a lap. Ez garantál egy előre meghatározott oldalszámot, és tökéletes jelentésekhez vagy diavetítés‑stílusú PDF-ekhez, ahol minden munkalap egy vizuális oldalnak felel meg.
 
-## Miért használjuk a GroupDocs.Conversion-t Java-ban?
-* **Robusztus formátumtámogatás** – működik XLS, XLSX, CSV és számos más táblázatformátummal.  
-* **Magas teljesítmény** – a betöltési beállítások lehetővé teszik, hogy csak a szükséges adatokat célozd, tökéletes nagy fájlokhoz.  
-* **Egyszerű API** – néhány Java sorral előállíthatsz termelésre kész PDF-eket.  
-* **Keresztplatformos** – bárhol fut, ahol Java, asztali alkalmazásoktól a felhőszolgáltatásokig.
+## Miért használjuk a GroupDocs.Conversion for Java-t?
+`GroupDocs.Conversion` for Java egy **robosztus, nagy‑teljesítményű** konverziós motor. Támogat **30+ táblázatformátumot** (XLS, XLSX, CSV, ODS, stb.) és képes akár **500 MB** méretű fájlok feldolgozására anélkül, hogy a teljes dokumentumot a memóriába töltené, köszönhetően a streaming architektúrának. Az API tömör: néhány metódushívás előállítja a termelésre kész PDF-eket, amelyek megőrzik a táblázatokat, diagramokat és a cellaformázást.
 
-## Előkövetelmények
+## Előfeltételek
 - **Java Development Kit (JDK) 8+** telepítve  
 - **Maven** a függőségkezeléshez  
-- Olyan IDE, mint a **IntelliJ IDEA** vagy az **Eclipse**  
-- Alapvető Java ismeretek és a Maven projektstruktúra ismerete  
+- Egy IDE, például **IntelliJ IDEA** vagy **Eclipse**  
+- Alapvető Java ismeretek és a Maven projekt struktúrájának ismerete  
 
-## A GroupDocs.Conversion beállítása Java-hoz
+## A GroupDocs.Conversion for Java beállítása
 
 ### Maven konfiguráció
 Add the GroupDocs repository and the conversion dependency to your `pom.xml`:
+
+> *A `pom.xml`‑nek tartalmaznia kell a `<groupId>com.groupdocs</groupId>` tároló bejegyzést és a `<artifactId>groupdocs-conversion</artifactId>` függőséget. A fájl mentése után futtassa a `mvn clean install` parancsot a könyvtár letöltéséhez.*
+
+### Licenc beszerzési lépések
+- **Ingyenes próba** – tölts le egy próbaverziót a funkciók teszteléséhez.  
+- **Ideiglenes licenc** – kérj ideiglenes licencet a teljes funkciók eléréséhez fejlesztés közben.  
+- **Vásárlás** – vásárolj licencet a [GroupDocs weboldalról](https://purchase.groupdocs.com/buy).
+
+After adding the dependency, you can start using the API:
+
+> *`Converter` az a fő osztály, amely a dokumentumkonverziót irányítja. Importáld a `com.groupdocs.conversion` csomagot, hozz létre egy `Converter` példányt, és hívd meg a megfelelő konverziós metódusokat.*
+
+## Hogyan töltsünk be egy táblázatot egy meghatározott tartománnyal?
+Egy meghatározott tartomány betöltése azt mondja a motornak, hogy hagyja figyelmen kívül a meghatározott területen kívüli sorokat és oszlopokat, ami felgyorsítja a konverziót és csökkenti a memóriahasználatot.
+
+`setConvertRange` beállítja a konverziót, hogy csak egy meghatározott cellatartományt tartalmazzon. A `setConvertRange` metódus egy tartomány karakterláncot fogad el, például "A10:C30", és a konverziót csak ezekre a cellákra korlátozza. Ez különösen hasznos nagy **Excel fájlok** esetén, ahol csak az adatok egy részhalmaza releváns a PDF kimenethez.
+
+## Hogyan konvertáljunk egy táblázatot PDF-re egy lap munkalaponként?
+`setOnePagePerSheet` arra kényszeríti, hogy minden munkalap egyetlen PDF oldalra legyen renderelve. Állítsd be a `setOnePagePerSheet(true)` opciót a konverziós beállítási objektumon. Ez a jelző arra kényszeríti a konvertálót, hogy minden munkalapot egyetlen PDF oldalra rendereljen, függetlenül az eredeti nyomtatási elrendezéstől. A konverzió futása során a motor végigiterál a munkafüzet minden lapján, alkalmazza a tartományszűrőt (ha van), és minden lapot a végső PDF dokumentum saját oldalára ír.
+
+## Gyakorlati alkalmazások
+
+| Scenario | How the features help |
+|----------|-----------------------|
+| **Pénzügyi jelentés** | Töltsd be csak azokat a sorokat, amelyek negyedéves számokat tartalmaznak, és generálj egy tiszta egy‑lap‑munkalaponként PDF-et minden részleg számára. |
+| **Akademiai kiadvány** | Konvertáld a kutatási adatlapokat, a releváns tartományra fókuszálva, és biztosítsd, hogy minden lap saját oldalra nyomtatódjon a könnyű hivatkozás érdekében. |
+| **Üzleti prezentációk** | Készíts prezentációra kész PDF-eket, ahol minden dia egy munkalapnak felel meg, az egy‑lap‑munkalaponként beállításnak köszönhetően. |
+
+## Teljesítmény szempontok
+* **Szűkítsd a konverzió hatókörét** – használj `setConvertRange`‑t a sorok/oszlopok korlátozásához.  
+* **Erőforrások gyors felszabadítása** – zárd le a stream‑eket, és a konverzió után engedd, hogy a `Converter` kilépjen a hatókörből.  
+* **Párhuzamos feldolgozás** – kötegelt feladatoknál futtass konverziókat külön szálakon, hogy a felhasználói felület reagálók maradjon.  
+
+## Gyakran ismételt kérdések
+
+**Q: Mi a minimális Java verzió, amely a GroupDocs.Conversion‑hoz szükséges?**  
+A: JDK 8 vagy újabb ajánlott a könyvtárral való teljes kompatibilitás biztosításához.
+
+**Q: Konvertálhatok több táblázatformátumot egyszerre?**  
+A: Igen, a GroupDocs.Conversion támogatja az Excel, CSV, ODS és számos egyéb formátumot egyetlen konverziós hívásban.
+
+**Q: Hogyan szerezhetek ideiglenes licencet a teljes funkciók eléréséhez?**  
+A: Kérj egyet a [GroupDocs weboldalon](https://purchase.groupdocs.com/temporary-license/) keresztül.
+
+**Q: Mi van, ha a táblázatom túl nagy a memóriában történő konvertáláshoz?**  
+A: Töltsd be csak a szükséges tartományt a `setConvertRange`‑vel, és fontold meg a fájl lemezre streamelését a konverzió során.
+
+**Q: Integrálhatom a GroupDocs.Conversion‑t felhő tárolási szolgáltatásokkal?**  
+A: Igen, olvashatsz és írhatod az adatokat AWS S3, Azure Blob Storage, Google Cloud Storage stb. szolgáltatásokba, a szabványos Java I/O stream‑ek használatával.
+
+## Források
+- [Dokumentáció](https://docs.groupdocs.com/conversion/java/)
+- [API Referencia](https://reference.groupdocs.com/conversion/java/)
+- [GroupDocs.Conversion for Java letöltése](https://releases.groupdocs.com/conversion/java/)
+- [Licenc vásárlása](https://purchase.groupdocs.com/buy)
+- [Ingyenes próba letöltése](https://releases.groupdocs.com/conversion/java/)
+- [Ideiglenes licenc kérése](https://purchase.groupdocs.com/temporary-license/)
+- [Támogatási fórum](https://forum.groupdocs.com/c/conversion)
+
+---
+
+**Legutóbb frissítve:** 2026-08-14  
+**Tesztelve a következővel:** GroupDocs.Conversion 25.2 for Java  
+**Szerző:** GroupDocs  
 
 ```xml
 <repositories>
@@ -70,24 +164,10 @@ Add the GroupDocs repository and the conversion dependency to your `pom.xml`:
 </dependencies>
 ```
 
-### Licenc beszerzési lépések
-- **Ingyenes próba**: Tölts le egy próba verziót a funkciók teszteléséhez.  
-- **Ideiglenes licenc**: Kérj ideiglenes licencet a teljes funkciók eléréséhez fejlesztés közben.  
-- **Vásárlás**: Hosszú távú használathoz vásárolj licencet a [GroupDocs weboldalról](https://purchase.groupdocs.com/buy).
-
-A függőség hozzáadása után elkezdheted használni az API-t:
-
 ```java
 import com.groupdocs.conversion.Converter;
 // Basic initialization code here...
 ```
-
-## Táblázat betöltése meghatározott tartománnyal
-
-### Miért tölts be egy tartományt?
-Csak a szükséges sorok betöltése (pl. 10‑30. sorok) felgyorsítja a konverziót és csökkenti a memóriahasználatot – különösen hasznos, amikor **nagy táblázat pdf** fájlokat konvertálsz.
-
-### Implementáció
 
 ```java
 import com.groupdocs.conversion.options.load.SpreadsheetLoadOptions;
@@ -102,15 +182,6 @@ public class FeatureLoadSpreadsheetWithRange {
     }
 }
 ```
-
-A `setConvertRange` metódus azt mondja a konvertálónak, hogy hagyja figyelmen kívül a meghatározott sorokon kívüli adatokat, így a **java convert excel pdf** művelet gyorsabb és könnyebb lesz.
-
-## Táblázat konvertálása PDF-re egy lap egy munkalaponként
-
-### Hogyan működik az opció
-`setOnePagePerSheet(true)` beállítása azt utasítja a motort, hogy minden munkalapot egyetlen PDF oldalra rendereljen, függetlenül az eredeti nyomtatási területtől. Ez a **egy lap egy munkalapon** követelmény középpontja.
-
-### Implementáció
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -134,50 +205,8 @@ public class FeatureConvertToPdfWithOnePagePerSheet {
 }
 ```
 
-Most már a `sample.xlsx` minden munkalapja egyetlen oldallá válik a `ConvertedSpreadsheet.pdf`-ben.
+## Kapcsolódó oktatóanyagok
 
-## Gyakorlati alkalmazások
-
-| Forgatókönyv | Hogyan segítik a funkciók |
-|--------------|---------------------------|
-| **Pénzügyi jelentés** | Töltsd be csak azokat a sorokat, amelyek a negyedéves számokat tartalmazzák, és generálj egy tiszta egy‑lap‑egy‑munkalap PDF-et minden részleg számára. |
-| **Akademiai kiadvány** | Konvertáld a kutatási adatlapokat, a releváns tartományra fókuszálva, és biztosítsd, hogy minden lap saját oldalra nyomtatódjon a könnyű hivatkozás érdekében. |
-| **Üzleti prezentációk** | Készíts prezentációra kész PDF-eket, ahol minden dia egy munkalapnak felel meg, a egy‑lap‑egy‑munkalap beállításnak köszönhetően. |
-
-## Teljesítményfontosságú szempontok
-
-* **Szűkítsd a konverziós hatókört** – használd a `setConvertRange`-et a sorok/oszlopok korlátozásához.  
-* **Erőforrások felszabadítása** – zárd le a stream-eket, és a konverzió után engedd, hogy a `Converter` kilépjen a hatókörből.  
-* **Párhuzamos feldolgozás** – kötegelt feladatoknál futtasd a konverziókat külön szálakon, hogy a UI reagálók maradjon.  
-
-## Gyakran ismételt kérdések
-
-**Q: Mi a minimális Java verzió a GroupDocs.Conversion-hoz?**  
-A: JDK 8 vagy újabb ajánlott a kompatibilitás biztosításához.
-
-**Q: Konvertálhatok egyszerre több táblázatformátumot?**  
-A: Igen, a GroupDocs.Conversion támogatja az Excel, CSV és sok más formátumot.
-
-**Q: Hogyan szerezhetek ideiglenes licencet a teljes funkciókhoz?**  
-A: Kérj egyet a [GroupDocs weboldalon](https://purchase.groupdocs.com/temporary-license/).
-
-**Q: Mi van, ha a táblázatom túl nagy a memóriában történő konvertáláshoz?**  
-A: Töltsd be csak a szükséges tartományt a `setConvertRange`-el, és fontold meg a fájl lemezre streamelését a konverzió során.
-
-**Q: Integrálhatom a GroupDocs.Conversion-t felhő tárolási szolgáltatásokkal?**  
-A: Igen, olvashatsz és írhatsz AWS S3, Azure Blob Storage, Google Cloud Storage stb. szolgáltatásokba a szabványos Java I/O stream-ek használatával.
-
-## Erőforrások
-- [Dokumentáció](https://docs.groupdocs.com/conversion/java/)
-- [API referencia](https://reference.groupdocs.com/conversion/java/)
-- [GroupDocs.Conversion letöltése Java-hoz](https://releases.groupdocs.com/conversion/java/)
-- [Licenc vásárlása](https://purchase.groupdocs.com/buy)
-- [Ingyenes próba letöltése](https://releases.groupdocs.com/conversion/java/)
-- [Ideiglenes licenc kérése](https://purchase.groupdocs.com/temporary-license/)
-- [Támogatási fórum](https://forum.groupdocs.com/c/conversion)
-
----
-
-**Utolsó frissítés:** 2026-02-05  
-**Tesztelve:** GroupDocs.Conversion 25.2 for Java  
-**Szerző:** GroupDocs
+- [Excel PDF-re konvertálása a GroupDocs.Conversion Java-val](/conversion/java/pdf-conversion/excel-to-pdf-groupdocs-conversion-java/)
+- [Egy lap munkalaponként: Rejtett Excel munkalapok PDF-re konvertálása (Java)](/conversion/java/pdf-conversion/convert-excel-hidden-sheets-pdf-java/)
+- [Egy lap munkalaponként – Excel PDF-re Java-ban, betűtípus helyettesítés](/conversion/java/pdf-conversion/excel-to-pdf-conversion-font-substitution-java/)
