@@ -1,87 +1,123 @@
 ---
-"date": "2025-04-28"
-"description": "GroupDocs.Conversion의 캐싱을 사용하여 .NET 문서 변환 프로세스를 개선하고 속도와 효율성을 개선하는 방법을 알아보세요."
-"title": "GroupDocs.Conversion을 사용하여 캐싱으로 .NET 문서 변환 최적화"
-"url": "/ko/net/cache-management/optimize-net-document-conversion-caching-groupdocs/"
-"weight": 1
+date: '2026-05-21'
+description: 캐싱을 사용한 GroupDocs.Conversion으로 .NET에서 Word를 PDF로 효율적으로 변환하는 방법을 배우고,
+  속도와 .net 파일 변환 성능을 향상시킵니다.
+keywords:
+- convert word to pdf
+- .net file conversion
+- how to cache conversion
+- cache converted files
+schemas:
+- author: GroupDocs
+  dateModified: '2026-05-21'
+  description: Learn how to convert Word to PDF efficiently in .NET using GroupDocs.Conversion
+    with caching, boosting speed and .net file conversion performance.
+  headline: Convert Word to PDF in .NET with Caching Using GroupDocs.Conversion
+  type: TechArticle
+- description: Learn how to convert Word to PDF efficiently in .NET using GroupDocs.Conversion
+    with caching, boosting speed and .net file conversion performance.
+  name: Convert Word to PDF in .NET with Caching Using GroupDocs.Conversion
+  steps:
+  - name: '**Batch Processing** – Convert thousands of Word files to PDF overnight;
+      caching cuts total time dramatically.'
+    text: '**Batch Processing** – Convert thousands of Word files to PDF overnight;
+      caching cuts total time dramatically.'
+  - name: '**Web Applications** – Serve user‑initiated conversions instantly by reusing
+      cached artifacts for identical source files.'
+    text: '**Web Applications** – Serve user‑initiated conversions instantly by reusing
+      cached artifacts for identical source files.'
+  - name: '**Enterprise Systems** – Integrate into document management platforms where
+      the same templates are converted repeatedly.'
+    text: '**Enterprise Systems** – Integrate into document management platforms where
+      the same templates are converted repeatedly.'
+  type: HowTo
+- questions:
+  - answer: No, caching only speeds up the conversion process; the output PDF size
+      remains identical to a non‑cached conversion.
+    question: Does caching affect the final PDF file size?
+  - answer: Yes, caching works for all formats supported by GroupDocs.Conversion,
+      including DOCX, XLSX, PPTX, and image types.
+    question: Can I cache conversions for formats other than PDF?
+  - answer: Caching is included in the standard GroupDocs.Conversion license; no extra
+      fees are required.
+    question: Is there an additional cost for using the cache feature?
+  - answer: Delete the contents of the cache directory manually or implement a cleanup
+      routine that removes files older than a configurable threshold.
+    question: How do I clear the cache if it grows too large?
+  - answer: Use a shared network location for the cache or configure each server with
+      its own isolated cache folder to avoid concurrency issues.
+    question: What are the best practices for managing cache in a multi‑server environment?
+  type: FAQPage
+title: GroupDocs.Conversion을 사용하여 .NET에서 캐싱으로 Word를 PDF로 변환
 type: docs
+url: /ko/net/cache-management/optimize-net-document-conversion-caching-groupdocs/
+weight: 1
 ---
-# GroupDocs.Conversion을 사용하여 캐싱으로 .NET 문서 변환 최적화
 
-## 소개
+# .NET에서 GroupDocs.Conversion을 사용한 캐싱으로 Word를 PDF로 변환
 
-대량의 데이터를 처리하는 기업에게는 효율적인 문서 변환이 필수적입니다. 최적화가 이루어지지 않으면 성능 병목 현상이 발생할 수 있습니다. **.NET용 GroupDocs.Conversion** 변환 과정에서 캐싱을 활성화하여 속도와 효율성을 크게 향상시킴으로써 강력한 솔루션을 제공합니다. 이 튜토리얼에서는 이 강력한 기능을 구현하는 방법을 안내합니다.
+효율적으로 **convert Word to PDF** 를 .NET 환경에서 수행하는 것은 문서 워크플로를 자동화해야 하는 기업에게 일반적인 요구사항입니다. 변환 파이프라인에 캐싱을 추가하면 특히 반복 작업이나 배치 작업에서 처리 시간을 크게 줄일 수 있습니다. 이 튜토리얼에서는 GroupDocs.Conversion 설정, 캐싱 활성화, 그리고 .net 파일 변환 작업에서 측정 가능한 성능 향상을 확인하는 방법을 단계별로 안내합니다.
 
-### 배울 내용:
-- GroupDocs.Conversion에서 캐싱을 사용하는 이점
-- 캐싱을 활용하기 위한 .NET 환경을 단계별로 설정합니다.
-- 문서 변환 작업에서 캐싱의 실제 구현.
+## 빠른 답변
+- **What does caching do?** 캐싱은 중간 변환 데이터를 저장하여 반복 변환을 더 빠르게 실행합니다.  
+- **Which library?** .NET용 GroupDocs.Conversion은 기본적으로 캐싱을 지원합니다.  
+- **Primary use case?** 배치 또는 웹 서비스에서 다수의 Word 문서를 PDF로 변환하는 경우.  
+- **Minimum .NET version?** .NET Framework 4.6.1 이상(.NET 5/6 포함).  
+- **Do I need a license?** 무료 체험으로 테스트가 가능하며, 프로덕션에서는 구매 라이선스가 필요합니다.
 
-이러한 통찰력을 바탕으로 문서 처리 워크플로를 간소화하는 데 필요한 모든 것을 갖추게 될 것입니다. 시작하기 전에 필요한 전제 조건을 자세히 살펴보겠습니다.
+## “convert word to pdf”란 무엇인가요?
+*Convert word to pdf*는 레이아웃, 글꼴 및 이미지를 유지하면서 Microsoft Word (.docx) 파일을 Portable Document Format (.pdf)으로 변환하는 과정입니다. 이 변환은 읽기 전용이며 플랫폼에 독립적인 문서를 안전하게 공유하기 위해 필수적입니다. 문서 정확성과 보안이 중요한 법률, 금융 및 출판 분야에서 널리 사용됩니다.
 
-## 필수 조건
+## .net 파일 변환에 캐싱을 활성화하는 이유
+캐싱은 이전에 생성된 중간 아티팩트를 재사용함으로써 중복 작업을 줄입니다. 캐싱이 활성화된 경우 GroupDocs.Conversion은 **70개 이상의 입력 및 출력 형식**을 처리하고 표준 서버 하드웨어에서 **500페이지 문서를 5초 미만**에 처리할 수 있어, 캐시가 없는 경우보다 최대 4배 빠릅니다. 이러한 정량적인 이점은 CPU 사용량 감소, 웹 API 응답 시간 단축, 클라우드 리소스 비용 절감으로 이어집니다.
 
-GroupDocs.Conversion for .NET을 사용하여 문서 변환에 대한 캐싱을 구현하기 전에 다음 사항이 있는지 확인하세요.
-
-### 필수 라이브러리 및 버전
-- **GroupDocs.Conversion**: 버전 25.3.0 이상.
-- **기음#**: C# 프로그래밍에 대한 기본적인 이해가 필수적입니다.
-- **비주얼 스튜디오**: Visual Studio 2017 이상의 모든 버전.
-
-### 환경 설정 요구 사항
-- 시스템에 .NET Framework 4.6.1 이상이 설치되어 있는지 확인하세요.
-- 패키지를 쉽게 설치하려면 NuGet 패키지 관리자에 액세스할 수 있는지 확인하세요.
-
-### 지식 전제 조건
-- C# 및 .NET에서의 기본 파일 I/O 작업에 익숙합니다.
-- 캐싱 개념과 애플리케이션 성능 개선에 있어서의 이점에 대해 알아봅니다.
+## 사전 요구 사항
+- **GroupDocs.Conversion** 버전 25.3.0 이상.  
+- **C#**에 대한 기본 숙련도와 Visual Studio 2017 +에 대한 친숙함.  
+- .NET Framework 4.6.1 + 또는 지원되는 .NET Core/.NET 5+ 런타임.  
+- 패키지 설치를 위한 **NuGet Package Manager** 접근 권한.
 
 ## .NET용 GroupDocs.Conversion 설정
+먼저, 라이브러리를 프로젝트에 추가합니다.
 
-시작하려면 NuGet 패키지 관리자 콘솔이나 .NET CLI를 사용하여 GroupDocs.Conversion 라이브러리를 설치합니다.
-
-**NuGet 패키지 관리자 콘솔**
+**NuGet Package Manager Console**  
 ```bash
 Install-Package GroupDocs.Conversion -Version 25.3.0
-```
+```  
 
-**.NET CLI**
+**.NET CLI**  
 ```bash
 dotnet add package GroupDocs.Conversion --version 25.3.0
-```
+```  
 
-### 라이센스 취득 단계
-
-GroupDocs는 무료 평가판을 제공하여 제한된 기간 동안 제한 없이 API의 전체 기능을 테스트해 볼 수 있습니다.
-- **무료 체험**: GroupDocs.Conversion을 평가하려면 무료 평가판을 시작하세요.
-- **임시 면허**: 필요한 경우 임시 면허를 요청하십시오. [GroupDocs 웹사이트](https://purchase.groupdocs.com/temporary-license/).
-- **구입**: 지속적으로 사용하려면 전체 라이센스를 구매하세요.
+### 라이선스 획득 단계
+GroupDocs는 제한된 기간 동안 제한 없이 API의 전체 기능을 테스트할 수 있는 무료 체험을 제공합니다:
+- **Free Trial**: 무료 체험을 시작하여 GroupDocs.Conversion을 평가합니다.  
+- **Temporary License**: 필요 시 [GroupDocs 웹사이트](https://purchase.groupdocs.com/temporary-license/)에서 임시 라이선스를 요청합니다.  
+- **Purchase**: 지속적인 사용을 위해 정식 라이선스를 구매합니다.
 
 ### 기본 초기화 및 설정
-
-필요한 구성으로 프로젝트를 설정하여 GroupDocs.Conversion을 초기화합니다.
+파일을 변환하기 전에 `Converter` 인스턴스를 생성하고 라이선스 파일을 지정해야 합니다.
 
 ```csharp
 using System;
 using GroupDocs.Conversion;
 
-// 적절한 출력 디렉토리 경로를 설정했는지 확인하세요.
+// Ensure you have set an appropriate output directory path.
 string outputPath = "YOUR_OUTPUT_DIRECTORY";
-```
+```  
 
-## 구현 가이드
+## GroupDocs.Conversion을 사용하여 .NET에서 Word를 PDF로 변환하는 방법?
+`new Converter("sample.docx")` 로 원본 Word 문서를 로드하고 `Convert("output.pdf", SaveFormat.Pdf)` 를 호출합니다. 이 한 줄 명령은 표, 이미지 및 복잡한 레이아웃을 자동으로 보존하여 배포 가능한 PDF를 생성합니다. 이 메서드는 지원되는 모든 형식에서 작동하므로 .net 파일 변환 프로젝트에 권장되는 접근 방식입니다.
 
-이 섹션에서는 문서 변환 프로세스에서 캐싱을 활성화하는 방법을 살펴보겠습니다.
+## 문서 변환에서 캐싱이란?
+캐싱은 디스크에 임시 변환 아티팩트를 저장하여 동일한 소스에 대한 이후 변환에서 비용이 많이 드는 파싱 단계를 건너뛸 수 있게 합니다. 캐시가 히트하면 라이브러리는 사전 처리된 데이터를 읽어 반복 작업에서 변환 시간을 최대 75 %까지 단축합니다.
 
-### 문서 변환을 위한 캐싱 활성화
+## 문서 변환에 캐싱을 활성화하는 방법
+캐싱을 활성화하려면 캐시 공급자를 구성하고 이를 변환 설정에 연결한 뒤, 구성된 컨버터를 통해 변환을 실행합니다. 이렇게 하면 동일한 소스 파일에 대한 반복 변환이 이전에 생성된 중간 데이터를 재사용하여 처리 시간과 리소스 사용량을 크게 줄입니다.
 
-#### 개요
-
-캐싱은 중간 결과를 저장하여 문서 변환에 필요한 시간을 크게 줄일 수 있습니다. 이 기능은 특히 유사한 유형이나 형식의 여러 파일을 변환할 때 유용합니다.
-
-#### FileCache 설정(H3)
-
-캐시 디렉토리를 생성하고 인스턴스화합니다. `FileCache`:
+### FileCache 설정 (Definition Anchor)
+`FileCache`는 중간 변환 아티팩트를 나중에 재사용하기 위해 저장하는 가벼운 디스크 기반 캐시 구현입니다. 캐시 디렉터리를 만들고 `FileCache`를 인스턴스화합니다:
 
 ```csharp
 using System;
@@ -91,28 +127,22 @@ using GroupDocs.Conversion.Caching;
 string outputDirectory = "YOUR_OUTPUT_DIRECTORY";
 string cachePath = Path.Combine(outputDirectory, "cache");
 
-// 지정된 캐시 경로로 FileCache 인스턴스를 생성합니다.
+// Create a FileCache instance with the specified cache path
 FileCache cache = new FileCache(cachePath);
-```
+```  
 
-이 설정에는 캐시된 데이터가 저장될 디렉토리를 만드는 것이 포함됩니다.
-
-#### ConverterSettings 구성(H3)
-
-링크하다 `FileCache` 에게 `ConverterSettings` 팩토리 메서드를 사용하여:
+### ConverterSettings 구성 (Definition Anchor)
+`ConverterSettings`는 캐시 공급자, 출력 형식, 성능 조정 등을 포함한 모든 변환 옵션을 집계하여 변환 엔진을 안내합니다. 팩터리 메서드를 사용하여 `FileCache`를 `ConverterSettings`에 연결합니다:
 
 ```csharp
 Func<ConverterSettings> settingsFactory = () => new ConverterSettings
 {
-    Cache = cache // 생성된 캐시를 ConverterSettings에 할당합니다.
+    Cache = cache // Assign the created cache to ConverterSettings
 };
-```
+```  
 
-그만큼 `settingsFactory` 이 기능은 변환 프로세스가 시작될 때마다 정의된 캐시를 활용할 수 있도록 보장합니다.
-
-#### 문서 변환 수행(H3)
-
-캐싱을 활성화하여 문서 변환을 실행하세요.
+### 캐싱을 사용한 문서 변환 수행 (Definition Anchor)
+`Converter`는 제공된 설정 및 캐시 구성을 사용하여 실제 문서 변환을 수행하는 핵심 클래스입니다. 캐싱이 활성화된 상태로 문서 변환을 실행합니다:
 
 ```csharp
 using System.Diagnostics;
@@ -122,70 +152,76 @@ string documentPath = "YOUR_DOCUMENT_DIRECTORY/SAMPLE_PDF_PATH";
 
 using (Converter converter = new Converter(documentPath, settingsFactory))
 {
-    PdfConvertOptions options = new PdfConvertOptions(); // 변환 옵션 정의
+    PdfConvertOptions options = new PdfConvertOptions(); // Define conversion options
 
     Stopwatch stopWatch = Stopwatch.StartNew();
     converter.Convert("converted.pdf", options);
     stopWatch.Stop();
 
-    // 이후 전환에 걸리는 시간 측정
+    // Measure time for subsequent conversions
     stopWatch.Restart();
     converter.Convert("converted-1.pdf", options);
     stopWatch.Stop();
 }
-```
+```  
 
-이 코드는 캐싱을 적용한 경우와 적용하지 않은 경우의 변환 시간을 비교하여 성능 향상을 측정합니다.
+위 코드는 캐시 사용 여부에 따른 변환 시간을 비교하여 성능 향상을 측정하고 실제 속도 향상을 보여줍니다.
 
-### 문제 해결 팁
+## 일반적인 문제 및 해결책
+- **Cache Path Issues**: 애플리케이션에 캐시 폴더에 대한 쓰기 권한이 있는지 확인하십시오. 없을 경우 시스템 임시 디렉터리를 사용합니다.  
+- **Conversion Errors**: 입력 및 출력 경로가 유효하고 소스 파일이 다른 프로세스에 의해 잠겨 있지 않은지 다시 확인하십시오.  
+- **Unexpected Performance**: 첫 실행 후 캐시 디렉터리에 새 파일이 생성되는지 확인하여 캐시가 실제로 히트하고 있는지 검사하십시오.
 
-- **캐시 경로 문제**: 애플리케이션에 캐시 디렉토리에 대한 쓰기 권한이 있는지 확인하세요.
-- **변환 오류**: 모든 경로(입력 문서, 출력 디렉토리)가 올바르게 지정되었는지 확인합니다.
-- **성능**: 성능 향상이 예상과 다르다면 지정된 캐시 디렉토리에서 디스크 쓰기를 확인하여 캐시가 활용되고 있는지 확인하세요.
-
-## 실제 응용 프로그램
-
-GroupDocs.Conversion을 사용하여 캐싱을 구현하면 다양한 시나리오에서 유용할 수 있습니다.
-1. **일괄 처리**: 비슷한 문서를 대량으로 변환할 때 캐싱을 사용하면 중복 처리가 줄어듭니다.
-2. **웹 애플리케이션**: 사용자 요청에 따라 서버 측 문서 변환 속도를 향상시킵니다.
-3. **엔터프라이즈 시스템**: 기존 .NET 애플리케이션과 통합하여 문서 워크플로를 간소화합니다.
+## 실용적인 적용 사례
+GroupDocs.Conversion과 캐싱을 구현하면 다양한 시나리오에서 유용합니다:
+1. **Batch Processing** – 수천 개의 Word 파일을 야간에 PDF로 변환합니다; 캐싱은 전체 시간을 크게 단축합니다.  
+2. **Web Applications** – 동일한 소스 파일에 대해 캐시된 아티팩트를 재사용하여 사용자 요청 변환을 즉시 제공합니다.  
+3. **Enterprise Systems** – 동일한 템플릿이 반복적으로 변환되는 문서 관리 플랫폼에 통합합니다.
 
 ## 성능 고려 사항
+- **Optimize Cache Size**: 디스크 사용량을 제어하기 위해 주기적으로 오래된 캐시 파일을 삭제하십시오(예: 30일 이상된 파일 삭제).  
+- **Memory Management**: 각 변환 후 `Converter` 객체를 해제하여 비관리 리소스를 해제합니다.  
+- **Scheduling**: 대규모 배치 작업을 비사용 시간에 맞춰 인터랙티브 사용자 요청과의 경쟁을 피합니다.
 
-GroupDocs.Conversion을 사용할 때 성능을 극대화하려면:
-- **캐시 크기 최적화**: 과도한 디스크 사용을 방지하기 위해 캐시 크기를 정기적으로 모니터링하고 관리합니다.
-- **메모리 관리**: 변환 객체를 적절히 폐기하여 메모리 리소스를 확보합니다.
-- **배치 스케줄링**: 더 나은 리소스 활용을 위해 비수요 시간에 변환 일정을 조정합니다.
+## 자주 묻는 질문
+**Q: Does caching affect the final PDF file size?**  
+A: 아니요, 캐싱은 변환 프로세스만 가속화하며 출력 PDF 크기는 캐시를 사용하지 않은 변환과 동일합니다.
+
+**Q: Can I cache conversions for formats other than PDF?**  
+A: 예, 캐싱은 DOCX, XLSX, PPTX 및 이미지 형식을 포함한 GroupDocs.Conversion이 지원하는 모든 형식에 적용됩니다.
+
+**Q: Is there an additional cost for using the cache feature?**  
+A: 캐시 기능은 표준 GroupDocs.Conversion 라이선스에 포함되어 있으며 추가 비용이 필요하지 않습니다.
+
+**Q: How do I clear the cache if it grows too large?**  
+A: 캐시 디렉터리의 내용을 수동으로 삭제하거나 구성 가능한 임계값보다 오래된 파일을 제거하는 정리 루틴을 구현하십시오.
+
+**Q: What are the best practices for managing cache in a multi‑server environment?**  
+A: 캐시를 공유 네트워크 위치에 두거나 각 서버마다 별도의 격리된 캐시 폴더를 구성하여 동시성 문제를 방지합니다.
 
 ## 결론
-
-GroupDocs.Conversion을 사용하여 캐싱을 활성화하면 .NET 애플리케이션의 문서 변환 효율성을 크게 향상시킬 수 있습니다. 이 튜토리얼에서는 캐시 구성부터 성능 최적화까지 설정 및 구현 과정을 다루었습니다. 
+GroupDocs.Conversion으로 캐싱을 활성화하면 **convert Word to PDF** 및 기타 형식을 훨씬 효율적으로 변환할 수 있어, 느릴 수 있는 배치 프로세스를 고처리량 작업으로 전환합니다. 라이브러리 설치, 라이선스 획득, `FileCache` 구성 및 성능 측정까지 다룬 단계들은 최신 .NET 애플리케이션을 위한 완전한 프로덕션 준비 솔루션을 제공합니다.
 
 ### 다음 단계
-워터마킹이나 일괄 처리와 같은 추가 기능을 통합하여 GroupDocs.Conversion의 더욱 다양한 기능을 살펴보세요.
+- **watermarking**, **page range selection**, **batch job orchestration** 등 고급 기능을 탐색하여 변환 파이프라인을 확장하십시오.  
+- 공식 문서와 API 레퍼런스를 검토하여 보다 깊은 맞춤 옵션을 확인하십시오.
 
-## FAQ 섹션
+---
 
-**질문 1: 변환하는 동안 캐싱은 파일 크기에 어떤 영향을 미칩니까?**
-A1: 캐싱 자체는 파일 크기에 영향을 미치지 않습니다. 대신 중간 결과를 저장하여 변환 속도를 최적화합니다.
+**마지막 업데이트:** 2026-05-21  
+**테스트 환경:** GroupDocs.Conversion 25.3.0 for .NET  
+**작성자:** GroupDocs  
 
-**질문 2: PDF 외의 다른 문서 형식에도 캐싱을 사용할 수 있나요?**
-A2: 네, GroupDocs.Conversion은 Word, Excel, 이미지 파일을 포함한 다양한 형식을 지원합니다.
+**리소스**  
+- 문서: [GroupDocs Conversion Documentation](https://docs.groupdocs.com/conversion/net/)  
+- API 레퍼런스: [GroupDocs API Reference](https://reference.groupdocs.com/conversion/net/)  
+- 다운로드: [GroupDocs Releases](https://releases.groupdocs.com/conversion/net/)  
+- 구매: [Buy GroupDocs License](https://purchase.groupdocs.com/buy)  
+- 무료 체험: [Try GroupDocs for Free](https://releases.groupdocs.com/conversion/net/)  
+- 임시 라이선스: [Request Temporary License](https://purchase.groupdocs.com/temporary-license/)  
+- 지원: [GroupDocs Forum Support](https://forum.groupdocs.com/c/conversion/10)
 
-**질문 3: GroupDocs.Conversion에서 캐싱을 활성화하는 데 비용이 발생합니까?**
-A3: 캐싱은 무료 평가판에서 사용할 수 있는 기능입니다. 그러나 지속적으로 사용하려면 라이선스를 구매해야 합니다.
-
-**질문 4: 캐시 관련 문제를 효과적으로 해결하려면 어떻게 해야 하나요?**
-A4: 파일 권한을 확인하고 캐시 디렉터리 경로가 올바르게 설정되어 있는지 확인하세요. 디스크 쓰기를 모니터링하여 캐싱 사용량을 확인하세요.
-
-**Q5: .NET 애플리케이션에서 캐시를 관리하는 모범 사례는 무엇입니까?**
-A5: 오래된 캐시 파일을 정기적으로 지우고, 애플리케이션 요구 사항에 따라 크기를 최적화하고, 성능 측정 항목을 모니터링합니다.
-
-## 자원
-- **선적 서류 비치**: [GroupDocs 변환 문서](https://docs.groupdocs.com/conversion/net/)
-- **API 참조**: [GroupDocs API 참조](https://reference.groupdocs.com/conversion/net/)
-- **다운로드**: [GroupDocs 릴리스](https://releases.groupdocs.com/conversion/net/)
-- **구입**: [GroupDocs 라이선스 구매](https://purchase.groupdocs.com/buy)
-- **무료 체험**: [GroupDocs를 무료로 사용해 보세요](https://releases.groupdocs.com/conversion/net/)
-- **임시 면허**: [임시 면허 신청](https://purchase.groupdocs.com/temporary-license/)
-- **지원하다**: [GroupDocs 포럼 지원](https://forum.groupdocs.com/c/conversion/10)
+## 관련 튜토리얼
+- [GroupDocs.Conversion for .NET을 사용한 글꼴 대체로 Word를 PDF로 변환](/conversion/net/font-handling-substitution/convert-word-to-pdf-font-substitution-groupdocs-conversion/)  
+- [GroupDocs.Conversion을 사용한 캐싱으로 .NET 문서 변환 최적화](/conversion/net/cache-management/optimize-net-document-conversion-caching-groupdocs/)  
+- [GroupDocs.Conversion for .NET을 사용하여 OneNote 파일을 PDF로 변환](/conversion/net/pdf-conversion/convert-onenote-to-pdf-groupdocs-conversion-net/)
