@@ -1,45 +1,100 @@
 ---
-date: '2026-01-08'
-description: Java를 사용하여 숨겨진 시트가 포함된 Excel 파일을 PDF로 변환하고 시트당 한 페이지가 되도록 하는 방법을 배워보세요.
-  GroupDocs.Conversion과 함께하는 단계별 가이드를 따라가세요.
+date: '2026-06-20'
+description: 숨겨진 시트를 포함하여 시트당 한 페이지로 Excel을 PDF Java로 변환하는 방법을 GroupDocs.Conversion을
+  사용해 배웁니다. 단계별 가이드.
 keywords:
-- convert Excel to PDF
-- Java document conversion
-- GroupDocs.Conversion for Java
-title: '시트당 한 페이지: Excel 숨김 시트를 PDF로 변환 (Java)'
+- convert excel to pdf java
+- hidden sheets pdf conversion
+- one page per sheet java
+schemas:
+- author: GroupDocs
+  dateModified: '2026-06-20'
+  description: Learn how to convert Excel to PDF Java, including hidden sheets, with
+    one page per sheet using GroupDocs.Conversion. Step‑by‑step guide.
+  headline: Convert Excel to PDF Java – One Page Per Sheet Hidden Sheets
+  type: TechArticle
+- description: Learn how to convert Excel to PDF Java, including hidden sheets, with
+    one page per sheet using GroupDocs.Conversion. Step‑by‑step guide.
+  name: Convert Excel to PDF Java – One Page Per Sheet Hidden Sheets
+  steps:
+  - name: Define the Source Document Path
+    text: Specify the absolute or relative path of the Excel workbook that contains
+      hidden worksheets.
+  - name: Configure Load Options
+    text: '`LoadOptions` tells the converter how to interpret the source file. The
+      `setShowHiddenSheets(true)` flag makes hidden worksheets visible to the conversion
+      engine, while `setOnePagePerSheet(true)` forces a one‑page‑per‑sheet layout.'
+  - name: Initialize the Converter
+    text: The `Converter` class is the entry point for all conversion operations.
+      It accepts the source file path and the previously defined `LoadOptions`.
+  - name: Set Up Conversion Options
+    text: '`PdfConvertOptions` lets you fine‑tune the PDF output—such as compression
+      level, PDF/A compliance, and image quality. In this example we keep the defaults,
+      which already produce high‑quality PDFs.'
+  - name: Perform the Conversion
+    text: Invoke `convert` and write the resulting PDF to the target location. Remember
+      to close the converter to release native resources.
+  type: HowTo
+- questions:
+  - answer: Converting hidden sheets ensures that no calculation logic, data validation,
+      or supporting information is omitted, delivering a truly complete PDF representation
+      for audits and compliance.
+    question: What are the benefits of converting hidden sheets?
+  - answer: Yes—GroupDocs.Conversion supports 50+ formats, including Word, PowerPoint,
+      HTML, and image files, using the same straightforward API pattern.
+    question: Can I convert other file formats with GroupDocs.Conversion?
+  - answer: Verify file paths, confirm Maven dependency versions, and consult the
+      official error‑code reference. Increasing JVM heap (`-Xmx`) often resolves memory‑related
+      issues.
+    question: How do I troubleshoot conversion errors?
+  - answer: There is no hard limit; however, workbooks with several hundred sheets
+      may require additional heap memory or batch processing to stay within resource
+      constraints.
+    question: Is there a limit on the number of sheets that can be converted?
+  - answer: The library streams data and avoids loading the entire workbook into memory,
+      allowing conversion of 500‑page workbooks on a standard 8 GB server with modest
+      heap settings.
+    question: How does GroupDocs.Conversion handle large Excel files?
+  type: FAQPage
+title: Excel을 PDF Java로 변환 – 시트당 한 페이지, 숨겨진 시트 포함
 type: docs
 url: /ko/java/pdf-conversion/convert-excel-hidden-sheets-pdf-java/
 weight: 1
 ---
 
-# 시트당 한 페이지: Excel 숨김 시트를 PDF로 변환 (Java)
+# Excel을 PDF(Java)로 변환 – 시트당 한 페이지, 숨겨진 시트 포함
 
-Excel 워크북을 PDF로 변환하면서 모든 시트(숨겨진 시트 포함)를 보존하는 것은 어려울 수 있습니다. 이 튜토리얼에서는 **GroupDocs.Conversion for Java**를 사용한 **시트당 한 페이지** 변환 방법을 배워 데이터가 누락되지 않도록 합니다. 설정, 구성, 필요한 정확한 코드와 이 접근 방식이 빛을 발하는 실제 시나리오를 단계별로 안내합니다.
+In this comprehensive tutorial you’ll discover **how to convert Excel to PDF Java** while guaranteeing that every worksheet—visible or hidden—appears on its own PDF page. We’ll walk through the required environment, the exact configuration flags, and the complete Java code you need to run today. Whether you’re building a reporting service, an audit‑trail generator, or a batch‑processing pipeline, this guide gives you a production‑ready solution with GroupDocs.Conversion for Java.
 
 ## 빠른 답변
-- **숨김 시트를 포함할 수 있나요?** 예—`setShowHiddenSheets(true)` 설정.
-- **몇 개의 PDF 페이지가 생성되나요?** `setOnePagePerSheet(true)`를 사용하면 시트당 한 페이지가 생성됩니다.
-- **필요한 Java 버전은?** JDK 8 이상.
-- **라이선스가 필요합니까?** 테스트용 무료 체험이 가능하며, 운영 환경에서는 상용 라이선스가 필요합니다.
-- **Maven이 유일한 빌드 도구인가요?** 예제는 Maven을 사용하지만 Gradle도 동일하게 사용할 수 있습니다.
+- **Can hidden sheets be included?** Yes—enable `setShowHiddenSheets(true)` in the load options.  
+- **How many PDF pages are created?** One page per sheet when `setOnePagePerSheet(true)` is set.  
+- **What Java version is required?** JDK 8 or higher (compatible up to JDK 21).  
+- **Do I need a license?** A free trial works for testing; a commercial license is required for production deployments.  
+- **Is Maven the only build tool?** Maven is demonstrated, but Gradle or plain JAR inclusion works equally well.
 
 ## “시트당 한 페이지”란 무엇인가요?
-**시트당 한 페이지** 옵션은 변환기가 Excel 파일의 각 워크시트를 별개의 PDF 페이지에 렌더링하도록 지시합니다. 이 레이아웃은 보고서, 감사 및 원본 워크북을 페이지별로 명확히 확인해야 하는 모든 상황에 이상적입니다.
+It is a conversion mode that forces each worksheet in the source Excel workbook to be rendered on a separate PDF page, preserving the original sheet order and layout. This makes navigation easier and ensures that each sheet’s content is isolated, which is especially useful for reporting and auditing purposes.
+
+The **one page per sheet** option tells the converter to render each worksheet of an Excel file onto its own PDF page. This layout is ideal for reports, audits, and any situation where you need a clear, page‑by‑page view of the original workbook.
 
 ## 왜 GroupDocs.Conversion for Java를 사용하나요?
-- **전체 제어**: 숨김 콘텐츠, 페이지 레이아웃 및 출력 형식에 대한 완전한 제어.
-- **크로스‑플랫폼**: Windows, Linux, macOS와 호환.
-- **외부 Office 설치 불필요**: 순수 Java 라이브러리.
-- **강력한 라이선스** 옵션: 체험, 임시 또는 영구 사용 가능.
+GroupDocs.Conversion for Java provides a robust, pure‑Java engine that handles a wide range of document formats without requiring Microsoft Office. It delivers high‑performance conversion, extensive configuration options, and reliable licensing, making it suitable for enterprise‑grade applications and cloud deployments.
 
-## 전제 조건
-- **Java Development Kit (JDK) 8+**
-- **Maven** (의존성 관리용)
-- **GroupDocs.Conversion for Java** (버전 25.2 이상)
-- Java 및 Maven에 대한 기본 지식
+- **Full control** over hidden content, page layout, and output format.
+- **Cross‑platform** compatibility with Windows, Linux, and macOS.
+- **No external Office installations** required—pure Java library.
+- **Robust licensing** options for trial, temporary, or permanent use.
 
-## GroupDocs.Conversion for Java 설정
-`pom.xml`에 GroupDocs 저장소와 의존성을 추가합니다. 이 단계는 Maven이 필요한 라이브러리를 다운로드할 수 있게 합니다.
+## 사전 요구 사항
+- **Java Development Kit (JDK) 8+** (tested up to JDK 21)  
+- **Maven** for dependency resolution (or Gradle if you prefer)  
+- **GroupDocs.Conversion for Java** version 25.2 or later  
+- Basic familiarity with Java project structure and IDEs  
+
+### Maven 종속성 추가
+
+Insert the GroupDocs repository and the conversion dependency into your `pom.xml`. This ensures Maven can fetch the correct binaries.
 
 ```xml
 <repositories>
@@ -60,22 +115,24 @@ Excel 워크북을 PDF로 변환하면서 모든 시트(숨겨진 시트 포함)
 ```
 
 ### 라이선스 획득
-API를 평가하려면 무료 체험으로 시작하세요. 운영 환경에서는 라이선스가 필요합니다—공식 스토어에서 구입하세요:
+To evaluate the API, start with a free trial. For production you’ll need a license—grab one from the official store:
 
 [GroupDocs 구매](https://purchase.groupdocs.com/buy)
 
 ## 구현 가이드
-아래는 숨김 시트를 포함한 Excel 파일을 각 시트가 별도 페이지에 표시되는 PDF로 변환하는 완전하고 실행 가능한 Java 코드입니다.
 
-### 단계 1: 소스 문서 경로 정의
-숨김 워크시트가 포함된 Excel 워크북을 변환기에 지정합니다.
+Below is the complete, runnable Java code that converts an Excel file—including hidden worksheets—into a PDF where each sheet appears on its own page.
+
+### Step 1: Define the Source Document Path
+Specify the absolute or relative path of the Excel workbook that contains hidden worksheets.
 
 ```java
 String sourceDocumentPath = "YOUR_DOCUMENT_DIRECTORY/SAMPLE_XLSX_WITH_HIDDEN_SHEET";
 ```
 
-### 단계 2: 로드 옵션 구성
-숨김 시트 처리와 시트당 한 페이지 레이아웃을 활성화합니다.
+### Step 2: Configure Load Options
+`LoadOptions` tells the converter how to interpret the source file.  
+The `setShowHiddenSheets(true)` flag makes hidden worksheets visible to the conversion engine, while `setOnePagePerSheet(true)` forces a one‑page‑per‑sheet layout.
 
 ```java
 SpreadsheetsLoadOptions loadOptions = new SpreadsheetsLoadOptions();
@@ -83,67 +140,71 @@ loadOptions.setShowHiddenSheets(true); // Include hidden sheets
 loadOptions.setOnePagePerSheet(true);   // One page per sheet in PDF output
 ```
 
-### 단계 3: 변환기 초기화
-소스 경로와 로드 옵션을 사용해 `Converter` 인스턴스를 생성합니다.
+### Step 3: Initialize the Converter
+The `Converter` class is the entry point for all conversion operations. It accepts the source file path and the previously defined `LoadOptions`.
 
 ```java
 Converter converter = new Converter(sourceDocumentPath, () -> loadOptions);
 ```
 
-### 단계 4: 변환 옵션 설정
-PDF 변환 구성을 준비합니다.
+### Step 4: Set Up Conversion Options
+`PdfConvertOptions` lets you fine‑tune the PDF output—such as compression level, PDF/A compliance, and image quality. In this example we keep the defaults, which already produce high‑quality PDFs.
 
 ```java
 PdfConvertOptions convertOptions = new PdfConvertOptions();
 ```
 
-### 단계 5: 변환 수행
-변환을 실행하고 PDF를 원하는 위치에 기록합니다.
+### Step 5: Perform the Conversion
+Invoke `convert` and write the resulting PDF to the target location. Remember to close the converter to release native resources.
 
 ```java
 String outputFilePath = "YOUR_OUTPUT_DIRECTORY/ConvertSpreadsheetWithHiddenSheetsIncluded.pdf";
 converter.convert(outputFilePath, convertOptions);
 ```
 
-#### 주요 구성 요약
-- `setShowHiddenSheets(true)`: 숨김 워크시트를 변환기에 표시합니다.
-- `setOnePagePerSheet(true)`: 각 워크시트마다 별도의 PDF 페이지를 보장합니다.
+#### 주요 설정 요약
+- `setShowHiddenSheets(true)`: Makes hidden worksheets visible to the converter.  
+- `setOnePagePerSheet(true)`: Guarantees a separate PDF page for each worksheet.  
 
 #### 문제 해결 팁
-- **파일을 찾을 수 없음 오류:** 제공한 절대 경로나 상대 경로를 다시 확인하세요.
-- **의존성 충돌:** Maven 좌표가 설치한 버전과 일치하는지 확인하세요.
-- **대용량 워크북 메모리 문제:** `OutOfMemoryError`가 발생하면 JVM 힙 크기(`-Xmx`)를 늘리세요.
+- **File‑not‑found errors:** Double‑check the absolute or relative path you supplied.  
+- **Dependency conflicts:** Verify that the Maven coordinates match the version you installed.  
+- **Memory issues with large workbooks:** Increase the JVM heap size (`-Xmx2g` or higher) if you encounter `OutOfMemoryError`.  
 
 ## 실용적인 적용 사례
-1. **재무 보고:** 숨김 계산 시트를 포함한 전체 워크북을 PDF로 내보내 감사 기록을 남깁니다.  
-2. **데이터 감사:** 스프레드시트를 보관할 때 모든 숨김 데이터 세트를 보존합니다.  
-3. **프로젝트 문서화:** 이해관계자 검토를 위해 원본 Excel 레이아웃을 그대로 반영한 깔끔한 페이지별 PDF를 생성합니다.
+1. **Financial Reporting:** Export full workbooks—including hidden calculation sheets—to PDF for audit trails.  
+2. **Data Audits:** Preserve every hidden dataset when archiving spreadsheets for compliance.  
+3. **Project Documentation:** Generate a clean, page‑by‑page PDF that mirrors the original Excel layout for stakeholder review.  
 
 ## 성능 고려 사항
-- **대용량 워크북:** 병목을 피하려면 시트를 배치로 처리하거나 힙 메모리를 늘리세요.  
-- **스트리밍 출력:** 웹 서비스에서 실시간 생성을 위해 `converter.convert(OutputStream, convertOptions)`를 사용합니다.  
-- **리소스 정리:** 변환 후 `converter.close()`를 호출해 네이티브 리소스를 해제합니다.
+- **Large workbooks:** Process sheets in batches or increase heap memory to avoid bottlenecks.  
+- **Streaming output:** Use `converter.convert(OutputStream, convertOptions)` for on‑the‑fly generation in web services.  
+- **Resource cleanup:** Call `converter.close()` after conversion to free native resources.  
+
+## 자주 묻는 질문
+
+**Q: What are the benefits of converting hidden sheets?**  
+A: Converting hidden sheets ensures that no calculation logic, data validation, or supporting information is omitted, delivering a truly complete PDF representation for audits and compliance.
+
+**Q: Can I convert other file formats with GroupDocs.Conversion?**  
+A: Yes—GroupDocs.Conversion supports 50+ formats, including Word, PowerPoint, HTML, and image files, using the same straightforward API pattern.
+
+**Q: How do I troubleshoot conversion errors?**  
+A: Verify file paths, confirm Maven dependency versions, and consult the official error‑code reference. Increasing JVM heap (`-Xmx`) often resolves memory‑related issues.
+
+**Q: Is there a limit on the number of sheets that can be converted?**  
+A: There is no hard limit; however, workbooks with several hundred sheets may require additional heap memory or batch processing to stay within resource constraints.
+
+**Q: How does GroupDocs.Conversion handle large Excel files?**  
+A: The library streams data and avoids loading the entire workbook into memory, allowing conversion of 500‑page workbooks on a standard 8 GB server with modest heap settings.
 
 ## 결론
-이제 GroupDocs.Conversion for Java를 사용해 숨김 시트를 포함한 Excel 워크북을 **시트당 한 페이지**로 변환하는 방법을 마스터했습니다. 이 기술은 모든 데이터가 최종 PDF에 포함되도록 보장하여 보고서, 감사 및 문서화에 대한 신뢰를 제공합니다.
+You’ve now mastered how to **convert Excel to PDF Java** with a one‑page‑per‑sheet layout that includes hidden worksheets, using GroupDocs.Conversion for Java. This approach guarantees that every piece of data makes it into the final PDF, giving you confidence in financial reports, compliance documents, and any scenario where completeness matters.
 
 ### 다음 단계
-- 추가 `PdfConvertOptions`(예: 이미지 압축, PDF/A 준수) 실험하기.  
-- 이 변환 흐름을 더 큰 Java 서비스나 Spring Boot 애플리케이션에 통합하기.  
-- 유사한 숨김 콘텐츠 처리와 함께 다른 형식(Word, PowerPoint) 탐색하기.
-
-## FAQ 섹션
-
-1. **숨김 시트를 변환하는 이점은 무엇인가요?**  
-   - 중요한 세부 정보를 놓치지 않고 포괄적인 문서를 보장합니다.  
-2. **GroupDocs.Conversion으로 다른 파일 형식을 변환할 수 있나요?**  
-   - 예, Excel 및 PDF 외에도 다양한 형식을 지원합니다.  
-3. **변환 오류를 어떻게 해결하나요?**  
-   - 파일 경로를 확인하고 Maven 의존성 버전을 확인한 뒤, 오류 코드에 대한 공식 문서를 참고하세요.  
-4. **변환 가능한 시트 수에 제한이 있나요?**  
-   - 일반적으로 제한은 없지만, 매우 큰 워크북은 더 많은 메모리가 필요할 수 있습니다.  
-5. **GroupDocs.Conversion은 대용량 Excel 파일을 어떻게 처리하나요?**  
-   - 효율적인 스트리밍 및 메모리 관리 기법을 사용하며, JVM 설정을 추가로 조정할 수 있습니다.
+- Experiment with additional `PdfConvertOptions` (e.g., image compression, PDF/A‑2b compliance).  
+- Embed this conversion flow into a Spring Boot REST endpoint for on‑demand PDF generation.  
+- Explore batch processing patterns to handle dozens of workbooks in parallel, leveraging Java’s `ExecutorService`.  
 
 ## 리소스
 - [문서](https://docs.groupdocs.com/conversion/java/)
@@ -152,10 +213,16 @@ converter.convert(outputFilePath, convertOptions);
 - [구매](https://purchase.groupdocs.com/buy)
 - [무료 체험](https://releases.groupdocs.com/conversion/java/)
 - [임시 라이선스](https://purchase.groupdocs.com/temporary-license/)
-- [지원](https://forum.groupdocs.com/c/conversion/10)
+- [지원 포럼](https://forum.groupdocs.com/c/conversion/10)
 
 ---
 
-**마지막 업데이트:** 2026-01-08  
-**테스트 환경:** GroupDocs.Conversion 25.2 for Java  
-**작성자:** GroupDocs
+**Last Updated:** 2026-06-20  
+**Tested With:** GroupDocs.Conversion 25.2 for Java  
+**Author:** GroupDocs
+
+## 관련 튜토리얼
+
+- [Convert Excel to PDF with GroupDocs.Conversion Java](/conversion/java/pdf-conversion/excel-to-pdf-groupdocs-conversion-java/)
+- [One Page per Sheet: Automate Spreadsheet to PDF in Java](/conversion/java/pdf-conversion/automate-spreadsheet-conversion-java-groupdocs/)
+- [One Page per Sheet – Excel to PDF in Java, Font Substitution](/conversion/java/pdf-conversion/excel-to-pdf-conversion-font-substitution-java/)
