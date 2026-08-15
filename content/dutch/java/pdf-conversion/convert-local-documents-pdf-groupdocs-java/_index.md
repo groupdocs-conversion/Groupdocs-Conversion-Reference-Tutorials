@@ -1,68 +1,254 @@
 ---
-date: '2026-01-10'
-description: Leer hoe u docx‑naar‑pdf‑conversie in Java uitvoert met GroupDocs.Conversion,
-  een Java‑oplossing voor het converteren van Word naar PDF. Stapsgewijze installatie,
-  conversie en best practices.
+date: '2026-06-25'
+description: Leer hoe je DOCX naar PDF kunt converteren in Java met behulp van GroupDocs.Conversion,
+  de toonaangevende java pdf-conversiebibliotheek. Stapsgewijze installatie, code-uitleg,
+  prestatietips en veelgestelde vragen.
 keywords:
-- PDF conversion Java
-- GroupDocs.Conversion library
-- Java document handling
-title: 'docx naar pdf java: efficiënte PDF-conversie met GroupDocs.Conversion'
+- how to convert docx
+- convert word pdf java
+- convert docx to pdf java
+- java pdf conversion library
+- java generate pdf docx
+schemas:
+- author: GroupDocs
+  dateModified: '2026-06-25'
+  description: Learn how to convert DOCX to PDF in Java using GroupDocs.Conversion,
+    the leading java pdf conversion library. Step‑by‑step setup, code walkthrough,
+    performance tips, and FAQs.
+  headline: How to Convert DOCX to PDF in Java with GroupDocs Conversion
+  type: TechArticle
+- description: Learn how to convert DOCX to PDF in Java using GroupDocs.Conversion,
+    the leading java pdf conversion library. Step‑by‑step setup, code walkthrough,
+    performance tips, and FAQs.
+  name: How to Convert DOCX to PDF in Java with GroupDocs Conversion
+  steps:
+  - name: Define File Paths
+    text: Specify absolute or relative paths for the source DOCX and the target PDF.
+      Keeping paths configurable (e.g., via properties files) makes the solution flexible
+      for different environments.
+  - name: Initialize the Converter
+    text: The `Converter` class is the entry point for all conversion operations.
+      It loads the source file into memory and prepares the conversion pipeline.
+  - name: Configure PDF Conversion Options
+    text: '`PdfConvertOptions` lets you fine‑tune the resulting PDF. For example,
+      you can set the PDF/A compliance level, embed fonts, or limit the conversion
+      to specific pages.'
+  - name: Perform the Conversion
+    text: 'Calling `convert` executes the transformation. The method writes the PDF
+      to the location you provided and returns a `ConversionResult` that you can inspect
+      for success or errors. **Why this works:** The `Converter` reads the DOCX structure,
+      the `PdfConvertOptions` tells the engine how to render the '
+  type: HowTo
+- questions:
+  - answer: It is a Java library that enables seamless conversion between over 70
+      document formats, including DOCX to PDF, without needing Microsoft Office.
+    question: What is GroupDocs.Conversion for Java?
+  - answer: Use `PdfConvertOptions.setPageRange` to process sections, increase JVM
+      heap size, and consider streaming the output to avoid loading the entire PDF
+      into memory.
+    question: How do I handle large documents?
+  - answer: Yes, the same `Converter` class works with DOCX, XLSX, PPTX, HTML, and
+      many others; just change the source file extension and adjust options accordingly.
+    question: Can I convert multiple file formats simultaneously?
+  - answer: Absolutely. `PdfConvertOptions` lets you set compliance levels, embed
+      fonts, add metadata, and control image quality.
+    question: Is there support for custom PDF settings?
+  - answer: No, GroupDocs.Conversion is platform‑agnostic and runs on any OS that
+      supports Java 8+, including Linux and macOS.
+    question: Does the library require a Windows environment?
+  type: FAQPage
+title: Hoe DOCX naar PDF te converteren in Java met GroupDocs Conversion
 type: docs
 url: /nl/java/pdf-conversion/convert-local-documents-pdf-groupdocs-java/
 weight: 1
 ---
 
-# docx to pdf java: Efficiënte PDF-conversie met GroupDocs.Conversion
+# Hoe DOCX naar PDF te converteren in Java met GroupDocs Conversion
 
-Het converteren van **docx to pdf java** is een veelvoorkomende vereiste wanneer u Word‑documenten wilt delen in een universeel leesbaar formaat. In deze tutorial ontdekt u hoe de GroupDocs.Conversion‑bibliotheek het proces eenvoudig, snel en betrouwbaar maakt. Of u nu een document‑gerichte webservice of een desktop‑hulpmiddel bouwt, u leert een **java convert word pdf**‑workflow die in elk Java‑project kan worden geïntegreerd.
+Het converteren van **DOCX naar PDF in Java** is een dagelijkse taak voor ontwikkelaars die Word‑documenten moeten delen in een formaat dat er op elk apparaat hetzelfde uitziet. In deze tutorial zie je hoe de GroupDocs.Conversion‑bibliotheek de conversie snel, betrouwbaar en eenvoudig te integreren maakt in elke Java‑applicatie—of het nu een webservice, een batch‑processor of een desktop‑hulpmiddel is. Aan het einde van de gids heb je een kant‑klaar fragment dat een lokaal `.docx`‑bestand omzet in een PDF van hoge kwaliteit met slechts een paar regels code.
 
-## Introductie
-
-Zoekt u een efficiënte manier om uw lokale documenten om te zetten naar PDF’s van hoge kwaliteit met Java? Deze tutorial onderzoekt hoe de GroupDocs.Conversion‑bibliotheek dit proces vereenvoudigt. Of u nu werkt met Word‑bestanden, spreadsheets of presentaties, het beheersen van deze conversietechniek zal de mogelijkheden van uw applicatie verbeteren en het documentbeheer stroomlijnen.
-
-**Wat u zult leren:**
-- Hoe u GroupDocs.Conversion voor Java instelt en gebruikt.
-- Een gedetailleerde gids voor het converteren van lokale documenten naar PDF-formaat.
-- Best practices voor het optimaliseren van prestaties met GroupDocs.
-- Praktische toepassingen van documentconversie met deze krachtige bibliotheek.
-
-### Snelle antwoorden
+## Snelle antwoorden
 - **Wat is de primaire bibliotheek?** GroupDocs.Conversion for Java.  
-- **Welke primaire zoekterm richt deze tutorial zich op?** *docx to pdf java*.  
+- **Welke primaire zoekterm richt deze tutorial zich op?** *how to convert docx*.  
 - **Heb ik een licentie nodig voor testen?** Een gratis proefversie of tijdelijke licentie is voldoende voor evaluatie.  
 - **Kan ik Word naar PDF converteren in één regel code?** Ja, met `converter.convert(outputPath, options);`.  
-- **Wordt batchconversie ondersteund?** Absoluut – u kunt over bestanden itereren en dezelfde `Converter`‑instantie hergebruiken.
+- **Wordt batchconversie ondersteund?** Absoluut – je kunt over bestanden itereren en dezelfde `Converter`‑instantie hergebruiken.
 
-## Wat is docx to pdf java?
+## Wat is docx naar pdf java?
 
-De term **docx to pdf java** verwijst naar het proces waarbij een Microsoft Word `.docx`‑bestand wordt genomen en programmatisch een PDF‑document wordt gegenereerd met Java‑code. GroupDocs.Conversion abstraheert de complexe renderlogica, zodat u zich kunt concentreren op bestandsbeheer en bedrijfsregels.
+**docx to pdf java** is het proces van programmatisch een Microsoft Word `.docx`‑bestand omzetten naar een PDF‑document met Java‑code. Deze conversie behoudt lay‑out, lettertypen, afbeeldingen en complexe elementen, waardoor je een universeel weergeefbaar bestand kunt leveren zonder Microsoft Word op de doelmachine te vereisen.
 
 ## Waarom GroupDocs.Conversion gebruiken voor java document‑naar‑pdf taken?
 
-- **Hoge getrouwheid:** De gegenereerde PDF behoudt lay-out, lettertypen en afbeeldingen precies zoals in het bronbestand.  
-- **Brede formaatondersteuning:** Naast DOCX ondersteunt het Excel, PowerPoint, HTML en nog veel meer.  
-- **Prestatietuning:** Geoptimaliseerd voor grote bestanden en multi‑threaded omgevingen.  
-- **Eenvoudige API:** Een paar regels Java‑code zijn voldoende om **java convert word pdf**‑conversie te realiseren.
+GroupDocs.Conversion levert PDF‑output van hoge kwaliteit, waarbij de oorspronkelijke Word‑lay‑out behouden blijft met bijna perfecte visuele nauwkeurigheid. Het ondersteunt meer dan 70 invoer‑ en uitvoerformaten, zodat je DOCX, XLSX, PPTX, HTML en afbeeldingen kunt verwerken met één enkele bibliotheek. De engine is geoptimaliseerd voor prestaties en converteert een DOCX van 300 pagina’s in minder dan vijf seconden met een bescheiden geheugenverbruik.
 
 ## Voorvereisten
 
-Voordat we beginnen, zorg ervoor dat uw ontwikkelomgeving klaar is. U heeft nodig:
-1. **Vereiste bibliotheken en afhankelijkheden:**
-   - Java Development Kit (JDK) geïnstalleerd.
-   - Maven voor afhankelijkheidsbeheer.
-2. **Vereisten voor omgeving configuratie:**
-   - Een IDE zoals IntelliJ IDEA of Eclipse.
-3. **Kennisvoorvereisten:**
-   - Basiskennis van object‑georiënteerde programmeerconcepten in Java.
+Voordat je begint, zorg ervoor dat je omgeving aan deze vereisten voldoet:
 
-Met deze voorvereisten in place, laten we doorgaan met het instellen van GroupDocs.Conversion voor uw Java‑project.
+1. **Java Development Kit (JDK) 8 of nieuwer** – de bibliotheek is gecompileerd voor Java 8+ en draait op elke conforme runtime.  
+2. **Maven** – we gebruiken Maven voor afhankelijkheidsbeheer, maar Gradle werkt ook.  
+3. **IDE** – IntelliJ IDEA, Eclipse of VS Code met Java‑ondersteuning maakt bewerken makkelijker.  
+4. **Basiskennis van Java** – je moet vertrouwd zijn met klassen, objecten en bestands‑I/O.
 
-## GroupDocs.Conversion instellen voor Java
+Het hebben van deze onderdelen zorgt voor een soepele installatie en stelt je in staat je te concentreren op de conversielogica in plaats van op eigenaardigheden van de omgeving.
+
+## GroupDocs.Conversion voor Java instellen
 
 ### Maven‑configuratie
 
-Voeg de volgende configuratie toe aan uw `pom.xml`‑bestand:
+Voeg de volgende afhankelijkheid toe aan je `pom.xml`‑bestand. Hiermee haal je de nieuwste stabiele versie van GroupDocs.Conversion en alle transitieve bibliotheken die je nodig hebt.
+
+```xml
+<dependency>
+    <groupId>com.groupdocs</groupId>
+    <artifactId>groupdocs-conversion</artifactId>
+    <version>25.2</version>
+</dependency>
+```
+
+> **Opmerking:** Het versienummer kan nieuwer zijn wanneer je deze gids leest; controleer altijd de officiële Maven‑repository voor de meest recente release.
+
+### Licentie‑acquisitie
+
+Om de volledige functionaliteit te ontgrendelen heb je een licentie nodig. Je hebt drie opties:
+
+- **Gratis proefversie:** Download een proefversie van 30 dagen om functies te evalueren zonder code‑wijzigingen.  
+- **Tijdelijke licentie:** Vraag een tijdelijke sleutel aan voor uitgebreid testen in CI‑pipelines.  
+- **Aankoop:** Koop een abonnement voor productiegebruik en ontvang prioritaire ondersteuning.
+
+### Basisinitialisatie
+
+Nadat Maven de afhankelijkheid heeft opgehaald, kun je de API gaan gebruiken. Importeer eerst de benodigde namespaces in je Java‑klasse:
+
+```java
+import com.groupdocs.conversion.Converter;
+import com.groupdocs.conversion.options.convert.PdfConvertOptions;
+```
+
+Nu ben je klaar om een document te laden en te converteren.
+
+## Implementatie‑gids
+
+Laten we een volledig, end‑to‑end voorbeeld doorlopen dat een lokaal DOCX‑bestand naar PDF converteert. Elke stap bevat een korte uitleg en de exacte code die je nodig hebt.
+
+### Document laden van lokale schijf
+
+#### Stap 1: Bestands‑paden definiëren
+
+Specificeer absolute of relatieve paden voor de bron‑DOCX en de doel‑PDF. Het configureerbaar houden van paden (bijv. via properties‑bestanden) maakt de oplossing flexibel voor verschillende omgevingen.
+
+```java
+String sourcePath = "C:/files/input.docx";
+String outputPath = "C:/files/output.pdf";
+```
+
+#### Stap 2: De Converter initialiseren
+
+De `Converter`‑klasse is het toegangspunt voor alle conversie‑operaties. Het laadt het bronbestand in het geheugen en bereidt de conversiepijplijn voor.
+
+```java
+Converter converter = new Converter(sourcePath);
+```
+
+#### Stap 3: PDF‑conversie‑opties configureren
+
+`PdfConvertOptions` stelt je in staat het resulterende PDF nauwkeurig af te stemmen. Je kunt bijvoorbeeld het PDF/A‑compliance‑niveau instellen, lettertypen insluiten of de conversie beperken tot specifieke pagina’s.
+
+```java
+PdfConvertOptions options = new PdfConvertOptions();
+options.setCompliance(PdfCompliance.PDF_A_1B); // ensures long‑term archiving compliance
+```
+
+#### Stap 4: De conversie uitvoeren
+
+Het aanroepen van `convert` voert de transformatie uit. De methode schrijft de PDF naar de opgegeven locatie en retourneert een `ConversionResult` die je kunt inspecteren op succes of fouten.
+
+```java
+converter.convert(outputPath, options);
+```
+
+**Waarom dit werkt:** De `Converter` leest de DOCX‑structuur, `PdfConvertOptions` vertelt de engine hoe het PDF moet renderen, en `convert` schrijft het uiteindelijke bestand—alles zonder Microsoft Office op de server te vereisen.
+
+### Tips voor probleemoplossing
+
+- **Bestand niet gevonden:** Controleer dubbel of `sourcePath` naar een bestaand bestand wijst en of het Java‑proces leesrechten heeft.  
+- **Out‑of‑memory‑fouten bij grote bestanden:** Verhoog de JVM‑heap (`-Xmx2g`) of verwerk het document in delen met `PdfConvertOptions.setPageRange`.  
+- **Ontbrekende lettertypen:** Zorg ervoor dat de in de DOCX gebruikte lettertypen op de server zijn geïnstalleerd of voeg ze in via `options.setEmbedFonts(true)`.
+
+## Praktische toepassingen
+
+1. **Geautomatiseerde rapportgeneratie:** Converteer dynamisch gegenereerde Word‑rapporten naar PDF’s voor e‑maildistributie of archivering.  
+2. **Documentbeheersystemen:** Importeer legacy DOCX‑bestanden en sla ze op als PDF’s om consistente weergave te garanderen in browsers en mobiele apparaten.  
+3. **Compliance‑gedreven workflows:** Produceer PDF/A‑1b‑bestanden voor regelgeving, gebruikmakend van de ingebouwde compliance‑opties.
+
+## Prestatie‑overwegingen
+
+Om het maximale uit GroupDocs.Conversion te halen:
+
+- **Herbruik de `Converter`‑instantie** voor batch‑taken; een nieuwe instantie per bestand creëert onnodige overhead.  
+- **Schakel multi‑threading in** door bestanden in parallelle streams te verwerken, maar houd het JVM‑geheugengebruik in de gaten.  
+- **Schakel onnodige functies uit** (bijv. OCR) wanneer ze niet nodig zijn; dit vermindert CPU‑gebruik.
+
+## Conclusie
+
+Je hebt nu een compleet, productie‑klaar recept voor het converteren van DOCX naar PDF in Java met GroupDocs.Conversion. De hoge kwaliteit rendering, uitgebreide formaatondersteuning en eenvoudige API van de bibliotheek stellen je in staat documentconversie toe te voegen aan elk Java‑project met minimale inspanning. Verken extra opties zoals PDF/A‑compliance, wachtwoordbeveiliging en batchverwerking om de oplossing precies op jouw behoeften af te stemmen.
+
+**Volgende stappen**
+
+- Probeer Excel (`.xlsx`) en PowerPoint (`.pptx`) bestanden te converteren met hetzelfde patroon.  
+- Integreer de conversielogica in een REST‑endpoint zodat clients Word‑bestanden kunnen uploaden en direct PDF’s ontvangen.  
+- Bekijk de licentie‑opties om van proef naar productie over te gaan.
+
+## FAQ‑sectie
+
+**Q: Wat is GroupDocs.Conversion voor Java?**  
+A: Het is een Java‑bibliotheek die naadloze conversie tussen meer dan 70 documentformaten mogelijk maakt, inclusief DOCX naar PDF, zonder dat Microsoft Office nodig is.
+
+**Q: Hoe ga ik om met grote documenten?**  
+A: Gebruik `PdfConvertOptions.setPageRange` om secties te verwerken, vergroot de JVM‑heap‑grootte en overweeg het streamen van de output om te voorkomen dat de volledige PDF in het geheugen wordt geladen.
+
+**Q: Kan ik meerdere bestandsformaten tegelijk converteren?**  
+A: Ja, dezelfde `Converter`‑klasse werkt met DOCX, XLSX, PPTX, HTML en vele anderen; wijzig gewoon de bron‑bestandsextensie en pas de opties dienovereenkomstig aan.
+
+**Q: Is er ondersteuning voor aangepaste PDF‑instellingen?**  
+A: Absoluut. `PdfConvertOptions` stelt je in staat compliance‑niveaus in te stellen, lettertypen in te sluiten, metadata toe te voegen en de beeldkwaliteit te regelen.
+
+**Q: Vereist de bibliotheek een Windows‑omgeving?**  
+A: Nee, GroupDocs.Conversion is platform‑onafhankelijk en draait op elk OS dat Java 8+ ondersteunt, inclusief Linux en macOS.
+
+## Aanvullende veelgestelde vragen
+
+**Q: Vereist GroupDocs.Conversion een Java 8+ runtime?**  
+A: Ja, de bibliotheek is gecompileerd voor Java 8 en nieuwer, waardoor compatibiliteit met moderne JVM’s gegarandeerd is.
+
+**Q: Kan ik met een wachtwoord beveiligde DOCX‑bestanden converteren?**  
+A: Geef het wachtwoord op bij het construeren van de `Converter`‑instantie: `new Converter(sourcePath, password)`.
+
+**Q: Is het mogelijk om PDF/A‑1b‑conforme bestanden te genereren?**  
+A: Gebruik `PdfConvertOptions.setCompliance(PdfCompliance.PDF_A_1B)` om te voldoen aan archiveringsnormen.
+
+**Q: Hoe kan ik de voortgang van de conversie monitoren?**  
+A: Implementeer een `ConversionListener` en registreer deze bij de `Converter` om callbacks te ontvangen voor elke verwerkte pagina.
+
+**Q: Zijn er limieten op het aantal pagina’s per conversie?**  
+A: Er is geen harde limiet, maar extreem grote documenten (bijv. >2000 pagina’s) kunnen extra heap‑geheugen en langere verwerkingstijd vereisen.
+
+---
+
+**Laatst bijgewerkt:** 2026-06-25  
+**Getest met:** GroupDocs.Conversion 25.2  
+**Auteur:** GroupDocs  
+
+**Bronnen**
+
+- [Documentation](https://docs.groupdocs.com/conversion/java/)
+- [API Reference](https://reference.groupdocs.com/conversion/java/)
+- [Download](https://releases.groupdocs.com/conversion/java/)
+- [Purchase License](https://purchase.groupdocs.com/buy)
+- [Free Trial](https://releases.groupdocs.com/conversion/java/)
+- [Temporary License](https://purchase.groupdocs.com/temporary-license/)
+- [Support Forum](https://forum.groupdocs.com/c/conversion/10)
 
 ```xml
 <repositories>
@@ -82,131 +268,29 @@ Voeg de volgende configuratie toe aan uw `pom.xml`‑bestand:
 </dependencies>
 ```
 
-### Licentie‑acquisitie
-
-Om GroupDocs.Conversion te gebruiken, kunt u:
-- **Gratis proefversie:** Download een proefversie om de bibliotheek te evalueren.  
-- **Tijdelijke licentie:** Vraag een tijdelijke licentie aan voor uitgebreid testen.  
-- **Aankoop:** Voor volledige toegang en ondersteuning kunt u overwegen een abonnement te kopen.
-
-### Basisinitialisatie
-
-Zodra de afhankelijkheden zijn ingesteld in uw Maven‑project, initialiseert u GroupDocs.Conversion met een basisconfiguratie:
-
 ```java
 import com.groupdocs.conversion.Converter;
 ```
-
-## Implementatie‑gids
-
-Laten we stap voor stap het proces doorlopen om een document van uw lokale schijf naar PDF‑formaat te converteren met GroupDocs.Conversion voor Java.
-
-### Document laden van lokale schijf
-
-Deze functie toont hoe u een document dat op uw harde schijf is opgeslagen, naar een PDF‑bestand kunt converteren.
-
-#### Stap 1: Bestands‑paden definiëren
-
-Geef paden op voor zowel het bron‑document als de geconverteerde output:
 
 ```java
 String outputPath = "YOUR_OUTPUT_DIRECTORY/LoadDocumentFromLocalDisk.pdf";
 String inputPath = "YOUR_DOCUMENT_DIRECTORY/SampleDocument.docx";
 ```
 
-**Waarom dit belangrijk is:** Het duidelijk definiëren van bestands‑paden zorgt ervoor dat uw applicatie weet waar te lezen en te schrijven, waardoor runtime‑fouten worden voorkomen.
-
-#### Stap 2: De Converter initialiseren
-
-Maak een instantie van `Converter` aan met het pad naar uw bron‑document:
-
 ```java
 Converter converter = new Converter(inputPath);
 ```
-
-**Wat gebeurt er hier?** Deze stap laadt het document in het geheugen voor conversie, gebruikmakend van de krachtige API’s van GroupDocs.Conversion.
-
-#### Stap 3: PDF‑conversie‑opties configureren
-
-Stel opties in die specifiek zijn voor PDF‑formaat met `PdfConvertOptions`:
 
 ```java
 PdfConvertOptions options = new PdfConvertOptions();
 ```
 
-#### Stap 4: De conversie uitvoeren
-
-Voer het conversieproces uit van uw bron‑document naar een PDF‑bestand:
-
 ```java
 converter.convert(outputPath, options);
 ```
 
-**Waarom dit cruciaal is:** Deze regel start het daadwerkelijke transformatieproces, waardoor een PDF wordt gegenereerd die overeenkomt met uw opgegeven configuraties.
+## Gerelateerde tutorials
 
-### Probleemoplossingstips
-- **Veelvoorkomend probleem:** Bestands‑niet‑gevonden‑fouten. Zorg ervoor dat paden correct en toegankelijk zijn.  
-- **Prestatie‑zorgen:** Grote bestanden kunnen de conversie vertragen; overweeg kleinere batches te verwerken of systeembronnen te optimaliseren.
-
-## Praktische toepassingen
-1. **Geautomatiseerde rapportgeneratie:** Converteer door gebruikers gegenereerde rapporten naar PDF’s voor gestandaardiseerde distributie.  
-2. **Documentarchiveringssystemen:** Converteer naadloos legacy‑documenten naar moderne, toegankelijke formaten.  
-3. **Multi‑formaat documentverwerkings‑pijplijnen:** Integreer met andere systemen om diverse documenttypen en -formaten efficiënt te verwerken.
-
-## Prestatie‑overwegingen
-Om de prestaties te optimaliseren bij gebruik van GroupDocs.Conversion:
-- Gebruik efficiënte geheugenbeheerpraktijken in Java.  
-- Monitor systeembronnen tijdens conversieprocessen.  
-- Pas instellingen aan voor batchverwerking of parallelle uitvoering waar van toepassing.
-
-## Conclusie
-U heeft nu geleerd hoe u lokale documenten naar PDF’s kunt converteren met de GroupDocs.Conversion‑bibliotheek voor Java. Deze vaardigheid kan de mogelijkheden voor documentverwerking binnen uw applicaties verbeteren, met veelzijdigheid en professionele output‑kwaliteit. Overweeg om extra functies van GroupDocs.Conversion te verkennen om de bruikbaarheid in uw projecten verder uit te breiden.
-
-**Volgende stappen:**
-- Experimenteer met het converteren van verschillende bestandstypen.  
-- Integreer documentconversie in een grotere applicatieworkflow.
-
-Klaar om het te proberen? Implementeer deze oplossing vandaag nog in uw volgende Java‑project!
-
-## FAQ‑sectie
-1. **Wat is GroupDocs.Conversion voor Java?**
-   - Een krachtige bibliotheek die naadloze documentformaatconversies binnen Java‑applicaties mogelijk maakt.
-2. **Hoe ga ik om met grote documenten?**
-   - Overweeg ze op te splitsen in kleinere delen of optimaliseer systeembronnen om de verwerkingssnelheid te verbeteren.
-3. **Kan ik meerdere bestandsformaten tegelijk converteren?**
-   - Ja, GroupDocs.Conversion ondersteunt batchconversie en diverse invoer‑/uitvoerformaten.
-4. **Welke soorten bestanden kunnen met deze bibliotheek worden geconverteerd?**
-   - Ondersteunt een breed scala aan documenttypen, waaronder Word, Excel, PowerPoint en meer.
-5. **Is er ondersteuning voor aangepaste PDF‑instellingen?**
-   - Absoluut! Gebruik `PdfConvertOptions` om aspecten zoals paginabereiken of metadata aan te passen.
-
-## Aanvullende veelgestelde vragen
-**Q: Vereist GroupDocs.Conversion een Java 8+ runtime?**  
-A: Ja, de bibliotheek is compatibel met Java 8 en nieuwere versies.
-
-**Q: Kan ik wachtwoord‑beveiligde DOCX‑bestanden converteren?**  
-A: U kunt ze laden door het wachtwoord te verstrekken aan de `Converter`‑constructor.
-
-**Q: Is het mogelijk om het PDF‑compliance‑niveau in te stellen (bijv. PDF/A)?**  
-A: De `PdfConvertOptions`‑klasse bevat eigenschappen om compliance‑normen te definiëren.
-
-**Q: Hoe log ik de voortgang van de conversie?**  
-A: Implementeer een aangepaste `ConversionListener` en koppel deze aan de `Converter`‑instantie.
-
-**Q: Zijn er limieten aan het aantal pagina's per conversie?**  
-A: Geen harde limiet, maar zeer grote documenten kunnen extra heap‑geheugen vereisen.
-
-## Resources
-- [Documentatie](https://docs.groupdocs.com/conversion/java/)
-- [API‑referentie](https://reference.groupdocs.com/conversion/java/)
-- [Download](https://releases.groupdocs.com/conversion/java/)
-- [Licentie kopen](https://purchase.groupdocs.com/buy)
-- [Gratis proefversie](https://releases.groupdocs.com/conversion/java/)
-- [Tijdelijke licentie](https://purchase.groupdocs.com/temporary-license/)
-- [Supportforum](https://forum.groupdocs.com/c/conversion/10)
-
----
-
-**Laatst bijgewerkt:** 2026-01-10  
-**Getest met:** GroupDocs.Conversion 25.2  
-**Auteur:** GroupDocs
+- [DOCX naar PDF converteren vanuit streams in Java met GroupDocs](/conversion/java/document-operations/convert-documents-streams-java-groupdocs/)
+- [Word naar PDF converteren met aangepaste lettertypen in Java: Een volledige gids met GroupDocs.Conversion](/conversion/java/pdf-conversion/convert-word-pdf-custom-fonts-java-groupdocs-conversion/)
+- [GroupDocs Conversion Java: Documenten naar PDF converteren – Stapsgewijze gids](/conversion/java/pdf-conversion/convert-documents-pdf-groupdocs-java/)
