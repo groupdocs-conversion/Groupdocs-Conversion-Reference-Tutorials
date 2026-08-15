@@ -1,13 +1,58 @@
 ---
-date: '2026-01-15'
-description: Узнайте, как удалять вложенные файлы из PDF и конвертировать PDF в Word
+date: '2026-07-06'
+description: Узнайте, как удалить встроенные файлы PDF и конвертировать PDF в Word
   на Java с помощью GroupDocs.Conversion. Пошаговая настройка, код и практические
   советы.
 keywords:
-- convert PDF to Word in Java
-- remove embedded files from PDFs
-- GroupDocs.Conversion for Java
-title: Удалить вложенные файлы PDF – Конвертировать PDF в Word на Java
+- groupdocs conversion java
+- pdf to docx java
+- convert pdf to word java
+schemas:
+- author: GroupDocs
+  dateModified: '2026-07-06'
+  description: Learn how to remove embedded files PDF and convert PDF to Word in Java
+    using GroupDocs.Conversion. Step‑by‑step setup, code, and real‑world tips.
+  headline: Remove Embedded Files PDF – Convert PDF to Word in Java
+  type: TechArticle
+- description: Learn how to remove embedded files PDF and convert PDF to Word in Java
+    using GroupDocs.Conversion. Step‑by‑step setup, code, and real‑world tips.
+  name: Remove Embedded Files PDF – Convert PDF to Word in Java
+  steps:
+  - name: Configure Load Options for PDF
+    text: '`PdfLoadOptions` is the class that controls how a PDF is read. Setting
+      its `removeEmbeddedFiles` flag tells the engine to discard any attached files
+      before conversion. **Why?** This ensures that every embedded file—be it another
+      PDF, an Excel sheet, or a multimedia object—is omitted from the output,'
+  - name: Initialize the Converter
+    text: '`Converter` is the core component that orchestrates loading, processing,
+      and saving. By passing a lambda that supplies the `PdfLoadOptions`, you enable
+      lazy initialization and can reuse the same `Converter` instance for multiple
+      documents. The lambda supplies the load options lazily, allowing you to'
+  - name: Set Conversion Options for Word Processing
+    text: '`WordProcessingConvertOptions` defines the target format and optional tweaks
+      such as page range or font embedding. The defaults already give excellent results
+      for most PDFs.'
+  - name: Perform the Conversion
+    text: Finally, invoke `convert`, providing the destination path and the conversion
+      options. The method returns a `ConversionResult` that you can inspect for success
+      status or errors. **Result:** A high‑quality `.docx` file that mirrors the original
+      PDF layout while **remove embedded files pdf** guarantees
+  type: HowTo
+- questions:
+  - answer: GroupDocs.Conversion for Java.
+    question: What library handles PDF‑to‑Word conversion in Java?
+  - answer: Set `PdfLoadOptions.setRemoveEmbeddedFiles(true)`.
+    question: How do I remove embedded files during conversion?
+  - answer: A free trial or temporary license works for testing; a full license is
+      required for production.
+    question: Do I need a license?
+  - answer: Yes—monitor memory usage and reuse the `Converter` instance when processing
+      batches.
+    question: Can I convert large PDFs efficiently?
+  - answer: Absolutely, the library supports JDK 8 and newer.
+    question: Is this compatible with JDK 8+?
+  type: FAQPage
+title: Удалить встроенные файлы PDF – Конвертировать PDF в Word на Java
 type: docs
 url: /ru/java/pdf-conversion/convert-pdf-to-word-java-embedded-file-removal/
 weight: 1
@@ -15,32 +60,31 @@ weight: 1
 
 # Удалить встроенные файлы PDF – Конвертировать PDF в Word на Java
 
-В современном быстро‑движущемся цифровом ландшафте **remove embedded files PDF** является важным шагом, когда необходимо преобразовать PDF в редактируемые документы Word без переноса скрытых вложений. Независимо от того, очищаете ли вы юридические контракты, академические статьи или внутренние отчёты, удаление встроенных файлов повышает безопасность, уменьшает размер файла и упрощает последующую обработку. Этот учебник проведёт вас через весь процесс **convert PDF to Word java** с использованием GroupDocs.Conversion, от настройки окружения до окончательного вызова конвертации.
+В этом руководстве вы узнаете, как **groupdocs conversion java** позволяет чисто удалять встроенные файлы из PDF при конвертации его в документ Word. Независимо от того, готовите ли вы юридические контракты, академические рукописи или внутренние отчёты, удаление скрытых вложений повышает безопасность, уменьшает размер файла и упрощает последующую обработку. Мы пройдём через настройку окружения, лицензирование и точный вызов конвертации, чтобы вы могли внедрить решение уже сегодня.
 
 ## Быстрые ответы
-- **What library handles PDF‑to‑Word conversion in Java?** GroupDocs.Conversion for Java.  
-- **How do I remove embedded files during conversion?** Set `PdfLoadOptions.setRemoveEmbeddedFiles(true)`.  
-- **Do I need a license?** A free trial or temporary license works for testing; a full license is required for production.  
-- **Can I convert large PDFs efficiently?** Yes—monitor memory usage and reuse the `Converter` instance when processing batches.  
-- **Is this compatible with JDK 8+?** Absolutely, the library supports JDK 8 and newer.
+**Примечание:** `PdfLoadOptions.setRemoveEmbeddedFiles(true)` — это метод, который активирует удаление встроенных файлов во время загрузки PDF.  
+- **Какая библиотека обрабатывает конвертацию PDF‑в‑Word на Java?** GroupDocs.Conversion for Java.  
+- **Как удалить встроенные файлы во время конвертации?** Установите `PdfLoadOptions.setRemoveEmbeddedFiles(true)`.  
+- **Нужна ли лицензия?** Бесплатная пробная версия или временная лицензия подходят для тестирования; полная лицензия требуется для продакшн.  
+- **Можно ли эффективно конвертировать большие PDF?** Да — следите за использованием памяти и переиспользуйте экземпляр `Converter` при обработке пакетов.  
+- **Совместимо ли это с JDK 8+?** Абсолютно, библиотека поддерживает JDK 8 и новее.
 
-## Что такое “remove embedded files PDF”?
-Встроенные файлы — это объекты, такие как электронные таблицы, изображения или другие PDF, которые могут быть скрыты внутри контейнера PDF. Их удаление (`remove embedded files pdf`) извлекает только видимое содержимое, защищая конфиденциальные данные и уменьшая размер получаемого файла.
+## Что такое «remove embedded files PDF»?
+**Ответ:** Удаление встроенных файлов PDF означает извлечение только видимых страниц и отбрасывание всех скрытых вложений — таких как электронные таблицы, изображения или вторичные PDF — так что результат не содержит скрытых данных. Исключив эти скрытые объекты, получаемый документ становится более безопасным и лёгким, что важно для соответствия требованиям, аудитов безопасности и уменьшения размера файлов.
 
 ## Почему использовать GroupDocs.Conversion для этой задачи?
-- **One‑stop solution** – Handles loading, conversion, and cleanup in a single API.  
-- **High fidelity** – Preserves layout, fonts, and styling when converting to .docx.  
-- **Security‑first** – Built‑in option to strip embedded files, meeting compliance requirements.  
+**Ответ:** GroupDocs.Conversion for Java предоставляет API с одним вызовом, которое загружает PDF, удаляет встроенные файлы и конвертирует очищенное содержимое в DOCX, сохраняя макет, шрифты и стили с лидирующей в отрасли точностью. Он также обрабатывает сложные элементы, такие как таблицы и графика, гарантируя, что вывод в Word отражает оригинальный вид без дополнительных данных.
 
 ## Предварительные требования
-- **Java Development Kit (JDK)** 8 or higher.  
-- **Maven** for dependency management.  
-- An IDE such as IntelliJ IDEA or Eclipse.  
-- Basic familiarity with Java file I/O.
+- **Java Development Kit (JDK)** 8 или выше.  
+- **Maven** для управления зависимостями.  
+- IDE, например IntelliJ IDEA или Eclipse.  
+- Базовое знакомство с вводом‑выводом файлов в Java.
 
 ## Настройка GroupDocs.Conversion для Java
 
-First, add the GroupDocs repository and the conversion dependency to your Maven `pom.xml`. This step ensures the required binaries are downloaded during the build.
+Сначала добавьте репозиторий GroupDocs и зависимость конвертации в ваш Maven `pom.xml`. Этот шаг гарантирует, что необходимые бинарные файлы будут загружены во время сборки.
 
 ```xml
 <repositories>
@@ -60,17 +104,16 @@ First, add the GroupDocs repository and the conversion dependency to your Maven 
 ```
 
 ### Шаги получения лицензии
-To use GroupDocs.Conversion you’ll need a license. You can:
+Для использования GroupDocs.Conversion вам понадобится лицензия. Вы можете:
+- Начать с **бесплатной пробной версии**, чтобы изучить все функции.  
+- Получить **временную лицензию** для краткосрочного полного доступа.  
+- Приобрести **постоянную лицензию** для производственных нагрузок.
 
-- Start with a **free trial** to explore all features.  
-- Obtain a **temporary license** for short‑term full access.  
-- Purchase a **permanent license** for production workloads.
-
-Visit the [GroupDocs website](https://purchase.groupdocs.com/buy) for details.
+Посетите [GroupDocs website](https://purchase.groupdocs.com/buy) для получения деталей.
 
 ## Базовая инициализация и настройка
 
-Below is a complete, runnable Java class that demonstrates loading a PDF, enabling embedded‑file removal, and converting it to a DOCX file.
+Ниже приведён полностью готовый к запуску класс Java, демонстрирующий загрузку PDF, включение удаления встроенных файлов и конвертацию его в файл DOCX.
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -99,102 +142,105 @@ public class PdfToWordConverter {
 ```
 
 ## Как удалить встроенные файлы PDF при конвертации в Word
+**Ответ:** PdfLoadOptions определяет, как загружается PDF, включая удаление встроенных файлов; Converter — это движок, который выполняет конвертацию, используя эти параметры; WordProcessingConvertOptions задаёт целевой формат Word. Используйте `PdfLoadOptions` с `setRemoveEmbeddedFiles(true)`, передайте их в `Converter` и вызовите `convert` с `WordProcessingConvertOptions`. Этот четырёхшаговый шаблон удаляет все скрытые вложения и создаёт чистый `.docx` в едином конвейере, гарантируя отсутствие скрытых данных.
 
-### Шаг 1: Настройка параметров загрузки для PDF
-Set the `PdfLoadOptions` flag that tells the library to strip out any hidden attachments.
+### Шаг 1: Настроить параметры загрузки для PDF
+`PdfLoadOptions` — класс, контролирующий, как читается PDF. Установка флага `removeEmbeddedFiles` сообщает движку отбрасывать любые вложенные файлы до конвертации.
 
 ```java
 PdfLoadOptions loadOptions = new PdfLoadOptions();
 loadOptions.setRemoveEmbeddedFiles(true);
 ```
 
-**Why?** This ensures that every embedded file—be it another PDF, an Excel sheet, or a multimedia object—is omitted from the output, keeping the Word document clean and secure.
+**Почему?** Это гарантирует, что каждый встроенный файл — будь то другой PDF, лист Excel или мультимедийный объект — будет исключён из результата, делая документ Word чистым и безопасным.
 
-### Шаг 2: Инициализация Converter
-Pass the PDF path and the customized load options to the `Converter` constructor.
+### Шаг 2: Инициализировать Converter
+`Converter` — основной компонент, который управляет загрузкой, обработкой и сохранением. Передавая лямбда‑выражение, которое предоставляет `PdfLoadOptions`, вы включаете отложенную инициализацию и можете переиспользовать один и тот же экземпляр `Converter` для нескольких документов.
 
 ```java
 Converter converter = new Converter("SamplePdf.pdf", () -> loadOptions);
 ```
 
-The lambda supplies the load options lazily, allowing you to reuse the same `Converter` instance for multiple files if needed.
+Лямбда‑выражение поставляет параметры загрузки отложенно, позволяя при необходимости переиспользовать один и тот же экземпляр `Converter` для нескольких файлов.
 
-### Шаг 3: Установка параметров конвертации для обработки Word
-Create a `WordProcessingConvertOptions` object. You can further customize page ranges, font embedding, etc., but the defaults work well for most scenarios.
+### Шаг 3: Установить параметры конвертации для Word Processing
+`WordProcessingConvertOptions` определяет целевой формат и дополнительные настройки, такие как диапазон страниц или встраивание шрифтов. Значения по умолчанию уже дают отличные результаты для большинства PDF.
 
 ```java
 WordProcessingConvertOptions options = new WordProcessingConvertOptions();
 ```
 
-### Шаг 4: Выполнение конвертации
-Finally, invoke the `convert` method, providing the target DOCX path and the conversion options.
+### Шаг 4: Выполнить конвертацию
+Наконец, вызовите `convert`, указав путь назначения и параметры конвертации. Метод возвращает `ConversionResult`, который можно проверить на статус успеха или ошибки.
 
 ```java
 converter.convert("ConvertedDocument.docx", options);
 ```
 
-**Result:** A high‑quality `.docx` file that mirrors the original PDF layout while **remove embedded files pdf** guarantees no hidden data remains.
+**Результат:** Высококачественный файл `.docx`, который отражает оригинальное расположение PDF, при этом **remove embedded files pdf** гарантирует отсутствие скрытых данных.
 
 ## Распространённые проблемы и решения
-- **File Not Found** – Double‑check absolute vs. relative paths; use `Paths.get(...)` for platform‑independent handling.  
-- **Conversion Errors** – Verify that the PDF isn’t corrupted and that the load options are correctly set.  
-- **Memory Exhaustion on Large PDFs** – Process the document in chunks or increase the JVM heap (`-Xmx2g`).  
+- **File Not Found** – Проверьте абсолютные и относительные пути; используйте `Paths.get(...)` для платформенно‑независимой обработки.  
+- **Conversion Errors** – Убедитесь, что PDF не повреждён и параметры загрузки установлены правильно.  
+- **Memory Exhaustion on Large PDFs** – Обрабатывайте документ частями или увеличьте размер кучи JVM (`-Xmx2g`).  
 
 ## Практические применения
-1. **Legal Document Management** – Convert case files to editable Word formats while stripping confidential attachments.  
-2. **Academic Research** – Remove supplementary materials embedded in PDFs, keeping only the main text for analysis.  
-3. **Automated Archiving** – Batch‑process large document repositories, ensuring each archived Word file is free of hidden payloads.
+1. **Legal Document Management** – Конвертировать судебные документы в редактируемые форматы Word, удаляя конфиденциальные вложения.  
+2. **Academic Research** – Удалять вспомогательные материалы, встроенные в PDF, оставляя только основной текст для анализа.  
+3. **Automated Archiving** – Пакетно обрабатывать большие репозитории документов, гарантируя, что каждый архивированный файл Word свободен от скрытых полезных нагрузок.
 
 ## Соображения по производительности
-- **Monitor Memory** – Large PDFs can consume significant heap; enable GC logging to spot spikes.  
-- **Reuse Converter Instances** – When converting many files, reusing the same `Converter` reduces overhead.  
-- **Profile I/O** – Use buffered streams for reading/writing to minimize disk latency.
+- **Monitor Memory** – Большие PDF могут потреблять значительный объём кучи; включите логирование GC, чтобы обнаруживать всплески.  
+- **Reuse Converter Instances** – При конвертации множества файлов переиспользование одного `Converter` снижает накладные расходы.  
+- **Profile I/O** – Используйте буферизованные потоки для чтения/записи, чтобы минимизировать задержку диска.
 
 ## Раздел FAQ
 
-1. **How do I handle password‑protected PDFs during conversion?**  
-   Use `PdfLoadOptions.setPassword("yourPassword")` before initializing the `Converter`.  
+**В:** Как обрабатывать PDF, защищённые паролем, при конвертации?  
+**Ответ:** `PdfLoadOptions.setPassword(String)` задаёт пароль, необходимый для открытия защищённого PDF. Используйте `PdfLoadOptions.setPassword("yourPassword")` перед инициализацией `Converter`.
 
-2. **Can I convert specific pages of a PDF instead of the entire document?**  
-   Yes—set the desired page range in `WordProcessingConvertOptions.setPageNumber(1, 5)`.  
+**В:** Можно ли конвертировать отдельные страницы PDF вместо всего документа?  
+**Ответ:** `WordProcessingConvertOptions.setPageNumber(int start, int end)` задаёт диапазон страниц для конвертации. Установите нужный диапазон в `WordProcessingConvertOptions.setPageNumber(1, 5)`.
 
-3. **Is it possible to batch process multiple PDF files?**  
-   Absolutely. Loop over a list of file paths and apply the same conversion logic inside the loop.  
+**В:** Можно ли пакетно обрабатывать несколько PDF‑файлов?  
+**Ответ:** Конечно. Пройдитесь по списку путей к файлам и примените ту же логику конвертации внутри цикла.
 
-4. **What should I do if my application crashes during conversion?**  
-   Check for out‑of‑memory errors, verify file integrity, and ensure you have a valid license.  
+**В:** Что делать, если приложение падает во время конвертации?  
+**Ответ:** Проверьте ошибки нехватки памяти, убедитесь в целостности файлов и наличии действующей лицензии.
 
-5. **Can embedded multimedia files be selectively removed?**  
-   The current API removes all embedded files. For selective removal, post‑process the DOCX or use a custom PDF parser.
+**В:** Можно ли избирательно удалять встроенные мультимедийные файлы?  
+**Ответ:** Текущий API удаляет все встроенные файлы. Для избирательного удаления необходимо постобрабатывать DOCX или использовать кастомный парсер PDF.
 
 ## Дополнительные часто задаваемые вопросы
 
-**Q: Does this approach work on Java 11 and newer?**  
-A: Yes, GroupDocs.Conversion is fully compatible with Java 8 through the latest LTS releases.
+**В:** Работает ли этот подход на Java 11 и новее?  
+**Ответ:** Да, GroupDocs.Conversion полностью совместим с Java 8 и более новыми LTS‑выпусками.
 
-**Q: Are there any limits on the size of PDFs I can convert?**  
-A: The library imposes no hard limit, but practical constraints depend on your JVM heap size and available RAM.
+**В:** Есть ли ограничения на размер PDF, которые можно конвертировать?  
+**Ответ:** Библиотека не накладывает жёстких ограничений, но практические ограничения зависят от размера кучи JVM и доступной ОЗУ.
 
-**Q: How can I verify that all embedded files have been removed?**  
-A: After conversion, open the resulting DOCX and inspect the package contents (`zip -l ConvertedDocument.docx`) for any unexpected files.
+**В:** Как проверить, что все встроенные файлы удалены?  
+**Ответ:** После конвертации откройте полученный DOCX и проверьте содержимое пакета (`zip -l ConvertedDocument.docx`) на наличие неожиданных файлов.
 
-**Q: Is a license required for development environments?**  
-A: A trial or temporary license is sufficient for development and testing. Production deployments require a purchased license.
+**В:** Требуется ли лицензия для сред разработки?  
+**Ответ:** Пробная или временная лицензия достаточна для разработки и тестирования. Для продакшн‑развёртываний требуется приобретённая лицензия.
 
-**Q: Where can I find more advanced conversion options?**  
-A: Refer to the official API reference for detailed property descriptions.
+**В:** Где можно найти более продвинутые параметры конвертации?  
+**Ответ:** Обратитесь к официальной справке API для подробного описания свойств.
 
 ## Ресурсы
-- [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/)
-- [API Reference](https://reference.groupdocs.com/conversion/java/)
-- [Download GroupDocs.Conversion](https://releases.groupdocs.com/conversion/java/)
-- [Purchase Licenses](https://purchase.groupdocs.com/buy)
-- [Free Trial and Temporary License Information]
+- [Документация GroupDocs](https://docs.groupdocs.com/conversion/java/)
+- [Справочник API](https://reference.groupdocs.com/conversion/java/)
+- [Скачать GroupDocs.Conversion](https://releases.groupdocs.com/conversion/java/)
+- [Купить лицензии](https://purchase.groupdocs.com/buy)
 
 ---
 
-**Last Updated:** 2026-01-15  
-**Tested With:** GroupDocs.Conversion 25.2  
-**Author:** GroupDocs  
+**Последнее обновление:** 2026-07-06  
+**Тестировано с:** GroupDocs.Conversion 25.2  
+**Автор:** GroupDocs  
 
----
+## Связанные руководства
+
+- [конвертировать pdf в jpg java с помощью GroupDocs.Conversion – Руководство](/conversion/java/document-operations/convert-pdf-to-jpg-groupdocs-java/)
+- [java конвертировать word pdf: Полное руководство по GroupDocs.Conversion](/conversion/java/document-operations/java-groupdocs-conversion-file-handling/)

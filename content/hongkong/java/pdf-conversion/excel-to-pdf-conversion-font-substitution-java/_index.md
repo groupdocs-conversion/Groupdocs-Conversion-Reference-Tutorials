@@ -1,54 +1,238 @@
 ---
-date: '2026-01-15'
-description: 學習如何在 Java 中使用 GroupDocs.Conversion 將 Excel 轉換為 PDF（每個工作表一頁），並透過字型替換確保排版一致。
+date: '2026-07-06'
+description: 了解如何在 Java 中使用 GroupDocs.Conversion 從 Excel 產生 PDF，並透過 Excel PDF One
+  Page 轉換與字型替換，確保排版一致。
 keywords:
-- Excel to PDF conversion
-- Java font substitution
-- GroupDocs.Conversion setup
-title: 每張工作表一頁 – Java 中的 Excel 轉 PDF，字型替換
+- excel pdf one page
+- generate pdf from excel
+- convert excel to pdf java
+schemas:
+- author: GroupDocs
+  dateModified: '2026-07-06'
+  description: Learn how to use GroupDocs.Conversion to generate pdf from excel in
+    Java with excel pdf one page conversion and font substitution for consistent typography.
+  headline: Excel PDF One Page – Java Conversion with Font Substitution
+  type: TechArticle
+- description: Learn how to use GroupDocs.Conversion to generate pdf from excel in
+    Java with excel pdf one page conversion and font substitution for consistent typography.
+  name: Excel PDF One Page – Java Conversion with Font Substitution
+  steps:
+  - name: Define Input and Output Paths
+    text: Set the source Excel file and the destination PDF file. Use absolute paths
+      for production environments to avoid classpath ambiguities.
+  - name: Create Load Options with Font Substitutes
+    text: The `SpreadsheetLoadOptions` class lets you specify how the source workbook
+      should be interpreted. `SpreadsheetLoadOptions` is the configuration object
+      that controls how Excel files are loaded into GroupDocs.Conversion. `FontSubstitute`
+      defines a mapping from a missing font to an available replaceme
+  - name: Enable One Page per Sheet and Set a Default Font
+    text: 'You can enforce a single‑page layout and provide a fallback font for any
+      characters that lack a direct match: > **Direct answer:** `setOnePagePerSheet(true)`
+      forces each worksheet onto its own PDF page, while `setDefaultFont` supplies
+      a universal fallback, eliminating missing‑glyph issues.'
+  - name: Initialize the Converter with Load Options
+    text: '`Converter` is the main class that performs document conversion using the
+      provided load options. Pass the load options to the `Converter` constructor.
+      This creates a ready‑to‑use conversion engine: > **Direct answer:** Instantiating
+      `Converter` with the configured `loadOptions` prepares the engine t'
+  - name: Define PDF Conversion Options and Execute
+    text: '`PdfConvertOptions` configures PDF‑specific output parameters such as page
+      size and compression. Specify the output format and any PDF‑specific settings,
+      then run the conversion: > **Direct answer:** Calling `converter.convert` with
+      `PdfConvertOptions` writes a PDF that honors the one‑page‑per‑sheet'
+  type: HowTo
+- questions:
+  - answer: It is a Java library that converts over 50 document formats—including
+      Excel to PDF—while offering advanced options like font substitution and one
+      page per sheet.
+    question: What is GroupDocs.Conversion Java used for?
+  - answer: Yes, a free trial or temporary license provides full feature access for
+      evaluation purposes.
+    question: Can I use GroupDocs.Conversion without purchasing a license?
+  - answer: Define `FontSubstitute` objects inside `SpreadsheetLoadOptions`; the engine
+      swaps unavailable fonts with the ones you specify automatically.
+    question: How do I handle missing fonts during conversion?
+  - answer: Use streaming I/O, configure appropriate JVM heap sizes, and reuse a single
+      `Converter` instance for multiple files.
+    question: What are best practices for optimizing Java performance with GroupDocs.Conversion?
+  - answer: No, charts are automatically scaled to fit the single page while preserving
+      visual fidelity.
+    question: Does the “one page per sheet” option affect chart rendering?
+  type: FAQPage
+title: Excel PDF One Page – Java 轉換與字型替換
 type: docs
 url: /zh-hant/java/pdf-conversion/excel-to-pdf-conversion-font-substitution-java/
 weight: 1
 ---
 
-# 每個工作表一頁 – Java 中的 Excel 轉 PDF，字體替換
+# Excel PDF 單頁 – Java 轉換與字型替換
 
-在將 Excel 試算表轉換為 PDF 時，要保持字體排版一致性相當具挑戰性，尤其是當您需要 **每個工作表一頁** 時。本教學說明如何在 Java 中 **將 Excel 轉 PDF**，同時強制每個工作表僅佔一頁，並使用 **GroupDocs.Conversion** 進行缺失字體的替換。完成後，您將擁有一個可靠的解決方案，確保跨平台的字體一致性，並簡化文件工作流程。
+將 Excel 活頁簿轉換為 PDF，同時保證 **每個工作表僅一頁** 並保持原始排版可能相當棘手。在本教學中，您將學習如何使用 **GroupDocs.Conversion** 在 Java 中實現可靠的 **excel pdf one page** 轉換。我們將逐步說明 Maven 設定、字型替換以及您需要的精確 API 呼叫，讓您能自信地將此解決方案嵌入任何自動化文件流程中。
 
 ## 快速解答
-- **「每個工作表一頁」是什麼意思？** 每個工作表會渲染在單一 PDF 頁面上。  
-- **哪個函式庫負責轉換？** GroupDocs.Conversion for Java。  
-- **我可以自動替換缺失的字體嗎？** 可以，使用 FontSubstitute 功能。  
-- **我需要授權嗎？** 需要臨時授權才能使用完整功能。  
-- **此方法適用於大型活頁簿嗎？** 可以，只要適當調整 JVM 記憶體設定。  
+- **「每個工作表僅一頁」是什麼意思？** 每個工作表會渲染在單一 PDF 頁面上，避免意外的分頁。  
+- **哪個函式庫負責轉換？** GroupDocs.Conversion for Java 提供完整的功能集。  
+- **我可以自動替換缺失的字型嗎？** 可以——使用 `SpreadsheetLoadOptions` 內的 FontSubstitute 功能。  
+- **我需要授權嗎？** 臨時授權可在評估期間解鎖所有轉換選項。  
+- **此方法適用於大型活頁簿嗎？** 完全適用，只要您調整 JVM 記憶體並重複使用 `Converter` 實例。
+
+## 什麼是 excel pdf one page conversion？
+**excel pdf one page conversion** 是將每個 Excel 工作表轉換為單獨的單頁 PDF 文件的過程。此方式保證可預測的分頁，對於報告、發票以及需要保持頁面布局一致的法規申報至關重要。它亦簡化了後續處理，確保每張工作表自動從新頁開始，無需手動調整。
+
+## 為什麼在 Excel 轉 PDF 時使用 GroupDocs.Conversion Java？
+GroupDocs.Conversion 支援 **超過 50 種輸入與輸出格式**，且能在不將整個檔案載入記憶體的情況下處理包含 **數百張工作表** 的活頁簿。此函式庫亦提供內建的 **字型替換** 功能，確保 PDF 在任何裝置上外觀相同，即使原始字型不可用。這些具體的能力使其成為企業級文件自動化的生產就緒選擇。
 
 ## 前置條件
 
-在實作程式碼之前，請確保您具備以下條件：
+- **Java Development Kit (JDK) 11+** 已安裝。  
+- 使用如 **IntelliJ IDEA** 或 **Eclipse** 等 IDE 來編輯與執行 Java 程式碼。  
+- **Maven** 用於相依性管理。  
+- 臨時的 GroupDocs 授權（可從官方網站取得）。
 
-### 必要的函式庫與相依性
-請確保已安裝 GroupDocs.Conversion 函式庫 25.2 版或更新版本，可透過 Maven 進行管理。
+對 Java 語法與 Maven 坐標有基本了解會有幫助，但以下步驟已足夠詳細，適用於任何經驗層級的開發者。
 
-### 環境設定需求
-- 已在機器上安裝 Java Development Kit (JDK)。  
-- 使用 IntelliJ IDEA 或 Eclipse 等 IDE 撰寫與執行 Java 程式碼。
+## 如何為 GroupDocs.Conversion 設定 Maven？
 
-### 知識前置條件
-具備 Java 程式設計、透過 Maven 管理函式庫以及檔案轉換概念的基礎了解會很有幫助，但非絕對必要。
+將 GroupDocs 儲存庫與 conversion 相依性加入您的 `pom.xml`。以下程式碼片段顯示您需要的完整 XML——若有較新版本，請將版本號替換為最新的穩定版。更新 `pom.xml` 後，執行 `mvn clean install` 以下載函式庫並確認相依性正確解析。
 
-現在條件已備妥，讓我們深入實作。
+```xml
+<repositories>
+    <repository>
+        <id>groupdocs-repo</id>
+        <url>https://repo.groupdocs.com/maven2</url>
+    </repository>
+</repositories>
 
-## 為什麼在 Excel 轉 PDF 時使用 GroupDocs.Conversion Java？
+<dependencies>
+    <dependency>
+        <groupId>com.groupdocs</groupId>
+        <artifactId>conversion</artifactId>
+        <version>25.2</version>
+    </dependency>
+</dependencies>
+```
 
-* **每個工作表一頁** 的渲染可保證分頁可預測。  
-* **字體替換** 可確保 PDF 在任何系統上外觀相同，即使原始字體缺失。  
-* 支援 **convert excel to pdf**，涵蓋 Excel 的多種功能（圖表、公式、樣式）。  
-* 完全以 Java 程式化，適合 **excel to pdf java** 自動化流程。
+> **直接回答:** 將上述儲存庫與相依性 XML 新增至 `pom.xml`，然後執行 `mvn clean install` 以下載函式庫。這將為您的專案準備好轉換 API 呼叫的環境。
 
-## 設定 GroupDocs.Conversion for Java
+## 如何取得並套用臨時的 GroupDocs 授權？
 
-### Maven 設定
-首先，將必要的倉庫與相依資訊加入 `pom.xml` 檔案：
+前往 [GroupDocs](https://purchase.groupdocs.com/temporary-license/) 臨時授權頁面，申請金鑰，並將 `GroupDocs.Conversion.lic` 檔案放置於專案的 resources 資料夾中。之後於執行時載入它。載入授權可確保所有高級功能（如字型替換與每工作表單頁渲染）皆被解鎖，且轉換過程不受評估限制。
+
+```java
+License license = new License();
+license.setLicense("path/to/GroupDocs.Conversion.lic");
+```
+
+> **直接回答:** 在任何轉換操作之前使用 `License#setLicense` 載入授權檔案；這會解鎖所有高級功能，包括字型替換與每工作表單頁渲染。
+
+## 實作指南 – 字型替換與每工作表單頁
+
+以下我們將逐步說明將 Excel 檔案轉換為 PDF 的每個必要步驟，同時替換缺失字型並強制每個工作表僅一頁。
+
+### 步驟 1：定義輸入與輸出路徑
+設定來源 Excel 檔案與目標 PDF 檔案。於正式環境請使用絕對路徑，以避免 classpath 模糊不清。
+
+```java
+String inputPath = "C:/documents/input.xlsx";
+String outputPath = "C:/documents/output.pdf";
+```
+
+### 步驟 2：建立含字型替換的載入選項
+`SpreadsheetLoadOptions` 類別讓您指定來源活頁簿的解析方式。  
+`SpreadsheetLoadOptions` 是控制 Excel 檔案如何載入至 GroupDocs.Conversion 的設定物件。  
+
+`FontSubstitute` 定義了缺失字型與可用替代字型之間的對映關係。  
+
+現在加入字型替換：
+
+```java
+SpreadsheetLoadOptions loadOptions = new SpreadsheetLoadOptions();
+loadOptions.getFontSubstitutes().add(new FontSubstitute("Calibri", "Arial"));
+loadOptions.getFontSubstitutes().add(new FontSubstitute("Times New Roman", "Liberation Serif"));
+```
+
+> **直接回答:** 透過新增 `FontSubstitute` 條目，轉換器會自動將缺失的字型替換為指定的替代字型，確保跨平台的視覺一致性。
+
+### 步驟 3：啟用每工作表單頁並設定預設字型
+您可以強制單頁布局，並為任何找不到直接匹配的字元提供備用字型：
+
+```java
+loadOptions.setOnePagePerSheet(true);
+loadOptions.setDefaultFont("Arial");
+```
+
+> **直接回答:** `setOnePagePerSheet(true)` 會將每個工作表強制放置於獨立的 PDF 頁面，而 `setDefaultFont` 提供通用備用字型，消除缺字形問題。
+
+### 步驟 4：使用載入選項初始化 Converter
+`Converter` 是使用提供的載入選項執行文件轉換的主要類別。將載入選項傳入 `Converter` 建構子，即可建立可直接使用的轉換引擎：
+
+```java
+Converter converter = new Converter(new File(inputPath), loadOptions);
+```
+
+> **直接回答:** 以配置好的 `loadOptions` 實例化 `Converter`，即可讓引擎在轉換過程中同時遵守字型替換與分頁規則。
+
+### 步驟 5：定義 PDF 轉換選項並執行
+`PdfConvertOptions` 設定 PDF 專屬的輸出參數，例如頁面大小與壓縮。指定輸出格式與任何 PDF 專屬設定，然後執行轉換：
+
+```java
+PdfConvertOptions pdfOptions = new PdfConvertOptions();
+converter.convert(outputPath, pdfOptions);
+```
+
+> **直接回答:** 使用 `PdfConvertOptions` 呼叫 `converter.convert`，即可產生符合每工作表單頁設定且納入先前定義的所有字型替換的 PDF。
+
+## 常見問題與解決方案
+
+- **缺失字型：** 確認替代字型已安裝於主機或隨您的應用程式 JAR 打包。  
+- **路徑錯誤：** 使用 `Paths.get(...)` 以實現跨平台的路徑處理，特別是在 Linux 伺服器上部署時。  
+- **大型活頁簿記憶體不足：** 增加 JVM 堆積大小 (`-Xmx4g`) 或透過對每個工作表重新實例化 `Converter` 以批次處理工作表。
+
+## excel pdf 單頁 轉換的實務應用
+
+1. **財務報告：** 確保每張工作表（資產負債表、損益表、現金流量表）從新頁開始，簡化審計檢查。  
+2. **法律合約：** 保持精確的版面與字型忠實度，對於具約束力的協議至關重要。  
+3. **學術出版：** 確保研究資料表格在以 PDF 共享時保持原有格式。  
+4. **行銷宣傳品：** 從基於 Excel 的設計模板生成可直接列印的手冊，無需手動調整。  
+5. **文件管理系統：** 為上傳的 Excel 檔案提供可靠的 PDF 預覽，提升使用者體驗。
+
+## 大型活頁簿的效能技巧
+
+- **串流 I/O：** 使用 `InputStream`/`OutputStream` 以避免將整個檔案載入記憶體。  
+- **重複使用 Converter：** 對於批次作業，保持單一 `Converter` 實例存活，只更改輸入檔案的參考。  
+- **JVM 調校：** 根據預期的活頁簿大小調整 `-Xms` 與 `-Xmx`；一個 500 頁的活頁簿通常需要 2‑3 GB 的堆積空間。
+
+## 常見問答
+
+**Q: GroupDocs.Conversion Java 用途是什麼？**  
+A: 它是一個 Java 函式庫，可轉換超過 50 種文件格式——包括 Excel 轉 PDF——同時提供字型替換與每工作表單頁等進階選項。
+
+**Q: 我可以在未購買授權的情況下使用 GroupDocs.Conversion 嗎？**  
+A: 可以，免費試用或臨時授權可在評估期間提供完整功能存取。
+
+**Q: 如何在轉換過程中處理缺失的字型？**  
+A: 在 `SpreadsheetLoadOptions` 中定義 `FontSubstitute` 物件；引擎會自動將不可用的字型替換為您指定的字型。
+
+**Q: 使用 GroupDocs.Conversion 時，最佳的 Java 效能優化實踐是什麼？**  
+A: 使用串流 I/O、設定適當的 JVM 堆積大小，並對多個檔案重複使用單一 `Converter` 實例。
+
+**Q: 「每工作表單頁」選項會影響圖表渲染嗎？**  
+A: 不會，圖表會自動縮放以適應單一頁面，同時保留視覺忠實度。
+
+## 結論
+
+您現在擁有一套完整、可投入生產的方式，使用 GroupDocs.Conversion 在 Java 中 **將 Excel 轉換為 PDF**，具備 **excel pdf 單頁** 分頁與自動 **字型替換**。此解決方案提供一致的排版、可預測的分頁，且能有效擴展至大型活頁簿——非常適合自動化報告、法律文件產生，以及任何對 PDF 忠實度有要求的情境。
+
+### 後續步驟
+- 嘗試使用 `PdfConvertOptions` 以啟用 PDF/A 相容性，滿足歸檔需求。  
+- 將此轉換流程與 **GroupDocs.Annotation** 結合，以在 PDF 生成後加入浮水印或數位簽章。  
+- 探索使用相同模式轉換其他格式（Word、PowerPoint），以建立統一的文件處理服務。
+
+---
+
+**最後更新:** 2026-07-06  
+**測試版本:** GroupDocs.Conversion 25.2  
+**作者:** GroupDocs
 
 ```xml
 <repositories>
@@ -67,12 +251,6 @@ weight: 1
    </dependency>
 </dependencies>
 ```
-
-### 取得授權
-從 [GroupDocs](https://purchase.groupdocs.com/temporary-license/) 取得臨時授權，以在評估期間完整使用所有功能。
-
-### 基本初始化與設定
-完成 Maven 設定後，在 Java 應用程式中初始化 GroupDocs.Conversion：
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -94,20 +272,10 @@ public class ConvertExcelToPDF {
 }
 ```
 
-## 實作指南 – 使用字體替換與每個工作表一頁
-
-本節說明如何在轉換 Excel 為 PDF 時同時替換字體，確保在原始字體缺失時仍能保持視覺一致性。
-
-### 步驟 1：定義輸入與輸出路徑
-決定 Excel 輸入檔案路徑與欲輸出的 PDF 路徑：
-
 ```java
 String inputDocument = "YOUR_DOCUMENT_DIRECTORY/sample.xlsx";
 String convertedFile = "YOUR_OUTPUT_DIRECTORY/ConvertSpreadsheetBySpecifyingFontsubstitution.pdf";
 ```
-
-### 步驟 2：設定載入選項與字體替換
-建立 `SpreadsheetLoadOptions` 物件以設定轉換參數，並指定字體替換：
 
 ```java
 import com.groupdocs.conversion.options.load.SpreadsheetLoadOptions;
@@ -121,80 +289,22 @@ SpreadsheetLoadOptions loadOptions = new SpreadsheetLoadOptions();
 loadOptions.setFontSubstitutes(fontSubstitutes);
 ```
 
-### 步驟 3：設定預設字體與 **每個工作表一頁**
-設定預設字體作為備用，並啟用 *每個工作表一頁* 選項，以確保每個工作表佔用單一 PDF 頁面：
-
 ```java
 loadOptions.setDefaultFont("resources/fonts/Helvetica.ttf");
 loadOptions.setOnePagePerSheet(true);
 ```
 
-> **專業提示：** 在需要為報告或發票提供可預測分頁時，啟用 `setOnePagePerSheet(true)` 是必須的。
-
-### 步驟 4：使用載入選項初始化 Converter
-將載入選項傳遞給 `Converter` 物件：
-
 ```java
 Converter converter = new Converter(inputDocument, () -> loadOptions);
 ```
-
-### 步驟 5：定義 PDF 轉換選項並執行轉換
-指定轉換格式並執行轉換程序：
 
 ```java
 PdfConvertOptions options = new PdfConvertOptions();
 converter.convert(convertedFile, options);
 ```
 
-### 疑難排解技巧
-- **缺失字體：** 確認替代字體已安裝於系統或隨應用程式一起打包。  
-- **路徑錯誤：** 檢查輸入與輸出文件的路徑；相對路徑應以專案根目錄為基準解析。  
+## 相關教學
 
-## 實務應用
-
-字體替換與每個工作表一頁的轉換在許多實務情境中都相當有價值：
-
-1. **商業報告：** 在各平台上保持一致的財務報告呈現。  
-2. **法律文件：** 在共享的合約 PDF 中保持外觀一致。  
-3. **學術出版：** 為論文與簡報稿統一字體。  
-4. **行銷素材：** 從試算表產生的手冊或電子報保持統一。  
-5. **協作工具：** 簡化依賴 PDF 預覽的文件管理系統。  
-
-## 效能考量
-
-在轉換大型活頁簿時，優化效能的做法包括：
-
-- 使用串流 I/O 以降低記憶體佔用。  
-- 依文件大小調整 JVM 堆積大小（`-Xmx`）。  
-- 盡可能重複使用單一 `Converter` 實例以進行批次轉換。  
-
-## 常見問題
-
-**Q: GroupDocs.Conversion Java 的用途是什麼？**  
-A: 它是一個用於轉換各種文件格式（包括 Excel 轉 PDF）的函式庫，提供字體替換與每個工作表一頁等可自訂設定。
-
-**Q: 我可以在不購買授權的情況下使用 GroupDocs.Conversion 嗎？**  
-A: 可以，免費試用或臨時授權讓您在決定付費前先體驗所有功能。
-
-**Q: 在轉換過程中如何處理缺失的字體？**  
-A: 在 `SpreadsheetLoadOptions` 中使用 `FontSubstitute` 物件定義替代字體；函式庫會自動替換不可用的字體。
-
-**Q: 使用 GroupDocs.Conversion 時，最佳的 Java 效能優化實踐是什麼？**  
-A: 有效的記憶體管理、適當的 JVM 設定，以及以串流方式處理檔案，有助於維持高效能。
-
-**Q: 「每個工作表一頁」選項會影響圖表的呈現嗎？**  
-A: 不會，圖表會被縮放以適應單一頁面，同時保留視覺真實度。
-
-## 結論
-您現在擁有一套完整、可投入生產的方式，使用 GroupDocs.Conversion 在 Java 中 **將 Excel 轉 PDF**，同時具備 **每個工作表一頁** 與自動 **字體替換** 功能。此方法確保字體排版一致、分頁可預測，並能順利整合至自動化文件流程中。
-
-### 後續步驟
-- 嘗試其他 `PdfConvertOptions`（例如 PDF/A 相容性）。  
-- 結合 GroupDocs.Annotation 以進行轉換後的編輯。  
-- 使用相同模式探索其他來源格式（Word、PowerPoint）。  
-
----
-
-**最後更新：** 2026-01-15  
-**測試版本：** GroupDocs.Conversion 25.2  
-**作者：** GroupDocs
+- [使用 GroupDocs.Conversion Java 轉換 Excel 為 PDF](/conversion/java/pdf-conversion/excel-to-pdf-groupdocs-conversion-java/)
+- [每工作表單頁：將 Excel 隱藏工作表轉為 PDF（Java）](/conversion/java/pdf-conversion/convert-excel-hidden-sheets-pdf-java/)
+- [使用 GroupDocs.Conversion Java API 轉換特定頁面範圍為 PDF](/conversion/java/pdf-conversion/groupdocs-conversion-java-page-range-pdf/)
