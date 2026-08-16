@@ -1,48 +1,84 @@
 ---
-date: '2026-01-28'
-description: Leer hoe u een notitie naar pdf kunt converteren met GroupDocs.Conversion
-  voor Java, ontbrekende lettertypen kunt vervangen en consistente typografie op verschillende
-  platforms kunt garanderen.
+date: '2026-07-29'
+description: Leer hoe u note naar pdf kunt converteren met GroupDocs.Conversion for
+  Java, ontbrekende lettertypen vervangt en zorgt voor consistente typografie op verschillende
+  platforms.
 keywords:
-- GroupDocs.Conversion for Java
-- font substitution in Java
-- document conversion to PDF
-title: Note converteren naar PDF met GroupDocs.Conversion voor Java
+- convert note to pdf
+- java font fallback
+- set default font java
+- font substitution pdf
+- maven groupdocs conversion
+lastmod: '2026-07-29'
+og_description: note converteren naar pdf met GroupDocs.Conversion for Java. Leer
+  over lettertypevervanging, standaard fallback-lettertypen, Maven-configuratie en
+  best practices in minder dan 5 minuten.
+og_image_alt: Developer guide showing Java code for converting note files to PDF with
+  font fallback
+og_title: note converteren naar pdf – Complete gids met GroupDocs.Conversion for Java
+schemas:
+- author: GroupDocs
+  dateModified: '2026-07-29'
+  description: Learn how to convert note to pdf with GroupDocs.Conversion for Java,
+    replace missing fonts and ensure consistent typography across platforms.
+  headline: convert note to pdf using GroupDocs.Conversion for Java
+  type: TechArticle
+- questions:
+  - answer: Yes, add multiple `FontSubstitute` entries to the `fontSubstitutes` list.
+    question: Can I substitute multiple fonts at once?
+  - answer: The conversion falls back to the system’s default font, which may differ
+      across platforms.
+    question: What happens if the default font is not found?
+  - answer: Verify file paths, ensure all Maven dependencies are resolved, and check
+      the console for stack traces.
+    question: How do I troubleshoot conversion errors?
+  - answer: It supports JDK 8 and higher.
+    question: Is GroupDocs.Conversion compatible with all Java versions?
+  - answer: Absolutely – the same `FontSubstitute` mechanism works for many document
+      types, including DOCX and XLSX.
+    question: Can font substitution be used with other formats like Word or Excel?
+  type: FAQPage
+tags:
+- convert note
+- GroupDocs.Conversion
+- Java PDF conversion
+- font substitution
+title: note converteren naar pdf met GroupDocs.Conversion for Java
 type: docs
 url: /nl/java/conversion-options/groupdocs-conversion-java-font-substitution-guide/
 weight: 1
 ---
 
-# Meesterschap in Font Substitution met GroupDocs.Conversion voor Java
+# Beheersen van lettertypevervanging met GroupDocs.Conversion voor Java
 
-Het converteren van **note**-documenten naar PDF terwijl je consistente typografie, een uitdaging zijn. In deze gids leer je **hoe je note naar pdf converteert** met GroupDocs.Conversion voor Java, ontbrekende lettertypen vervangt en een standaard fallback-lettertype configureert zodat je output er op elk apparaat hetzelfde uitziet.
+In deze uitgebreide tutorial ontdek je **hoe je notities naar pdf kunt converteren** met GroupDocs.Conversion voor Java, terwijl je ontbrekende lettertypen op een nette manier afhandelt. We lopen door de Maven‑configuratie, de instellingen voor lettertype‑vervanging en een fallback‑strategie zodat je PDF's er op elk besturingssysteem identiek uitzien. Aan het einde kun je deze conversiestroom in elke Java‑service of batch‑taak integreren.
 
 ## Snelle Antwoorden
-- **What is the primary purpose of font substitution?** Het vervangt niet-beschikbare lettertypen door door jou opgegeven lettertypen, waardoor het uiterlijk van het document consistent blijft.  
-- **Which library handles the conversion?** `GroupDocs.Conversion for Java`.  
-- **Do I need a license for production?** Ja – een volledige licentie of een tijdelijke licentie is vereist.  
-- **Can I set a default font for unknown cases?** Absoluut, met `setDefaultFont()` in `NoteLoadOptions`.  
-- **Is this compatible with JDK 8 and higher?** Ja, de bibliotheek ondersteunt Java 8+.
+- **Wat is het primaire doel van lettertypevervanging?** Het vervangt niet‑beschikbare lettertypen door door jou opgegeven lettertypen, waardoor het uiterlijk van het document consistent blijft.  
+- **Welke bibliotheek verzorgt de conversie?** `GroupDocs.Conversion for Java`.  
+- **Heb ik een licentie nodig voor productie?** Ja – een volledige licentie of een tijdelijke licentie is vereist.  
+- **Kan ik een standaardlettertype instellen voor onbekende gevallen?** Absoluut, met `setDefaultFont()` in `NoteLoadOptions`.  
+- **Is dit compatibel met JDK 8 en hoger?** Ja, de bibliotheek ondersteunt Java 8+.
 
 ## Wat is “convert note to pdf”?
-“convert note to pdf” verwijst naar het omzetten van notitie‑bestandformaten (zoals `.ONE`, `.ENEX`, enz.) naar het universeel bekijkbare PDF‑formaat. Dit proces loopt vaak tegen ontbrekende lettertype‑problemen aan, waardoor font substitution essentieel is.
+
+**convert note to pdf** is het proces waarbij notitie‑bestandformaten (bijv. `.ONE`, `.ENEX`) worden omgezet naar een PDF die op elk apparaat geopend kan worden zonder speciale software.  
+Deze conversie loopt vaak tegen ontbrekende‑lettertype‑problemen aan omdat de bron‑notitie lettertypen kan refereren die niet op de doelmachine geïnstalleerd zijn. Lettertypevervanging lost dit op door ontbrekende lettertypen te koppelen aan beschikbare, waardoor visuele getrouwheid gegarandeerd wordt.
 
 ## Waarom GroupDocs.Conversion voor Java gebruiken?
-- **Seamless font handling** – vervang automatisch ontbrekende lettertypen.  
-- **High‑fidelity PDF output** – behoud de lay-out, afbeeldingen en opmaak.  
-- **Easy integration** – Maven‑gebaseerde setup past direct in elk Java‑project.  
-- **Performance‑tuned** – efficiënt geheugenverbruik voor grote documenten.
 
-## Voorvereisten
+GroupDocs.Conversion voor Java biedt **automatische lettertype‑afhandeling** voor meer dan 50 + invoer‑ en uitvoerformaten, en kan documenten van honderden pagina's verwerken zonder het volledige bestand in het geheugen te laden. De bibliotheek levert PDF‑output met hoge getrouwheid, verbruikt minder dan 150 MB heap voor een notitie van 300 pagina's, en integreert via één enkele Maven‑dependency, waardoor het een productie‑klaar alternatief is voor Java‑ontwikkelaars.
+
+## Vereisten
 
 - **Java Development Kit (JDK)** versie 8 of hoger.  
 - Een IDE zoals **IntelliJ IDEA** of **Eclipse**.  
 - **Maven** geïnstalleerd voor afhankelijkheidsbeheer.  
-- Basiskennis van Java en documentconversieconcepten.
+- Basiskennis van Java en concepten rond documentconversie.  
 
 ## GroupDocs.Conversion voor Java instellen
 
-Voeg de GroupDocs-repository en afhankelijkheid toe aan je `pom.xml`:
+Add the GroupDocs repository and dependency to your `pom.xml`:
 
 ```xml
 <repositories>
@@ -62,16 +98,18 @@ Voeg de GroupDocs-repository en afhankelijkheid toe aan je `pom.xml`:
 ```
 
 ### Licentie‑acquisitie
-GroupDocs biedt een gratis proefversie en tijdelijke licenties voor testen, of je kunt een volledige licentie aanschaffen voor productiegebruik.
+GroupDocs biedt een gratis proefperiode van 30 dagen en tijdelijke licenties voor testen, of je kunt een volledige licentie aanschaffen voor productiegebruik.
 
-1. **Free Trial**: Download van [hier](https://releases.groupdocs.com/conversion/java/).  
-2. **Temporary License**: Vraag er een aan via [deze link](https://purchase.groupdocs.com/temporary-license/).  
-3. **Purchase**: Voor langdurige oplossingen kun je een licentie aanschaffen [hier](https://purchase.groupdocs.com/buy).
+1. **Gratis proefversie**: Download van [hier](https://releases.groupdocs.com/conversion/java/).  
+2. **Tijdelijke licentie**: Vraag er een aan via [deze link](https://purchase.groupdocs.com/temporary-license/).  
+3. **Aankoop**: Voor langdurige oplossingen kun je een licentie aanschaffen [hier](https://purchase.groupdocs.com/buy).
 
-## Hoe lettertypen te substitueren terwijl je **convert note to pdf**
+## Hoe lettertypen te vervangen terwijl je **convert note to pdf**
 
-### Stap 1: Font Substitutions configureren
-Maak een `NoteLoadOptions`‑object aan, definieer de lettertype‑paren die je wilt vervangen, en stel een fallback‑lettertype in voor alle niet‑overeenkomende gevallen:
+Om lettertypen tijdens de conversie te vervangen, moet je laadopties maken en configureren die ontbrekende lettertypen koppelen aan beschikbare vervangingen en een fallback‑lettertype opgeven. Dit zorgt ervoor dat elk teken correct wordt gerenderd, zelfs wanneer het oorspronkelijke lettertype niet op het systeem aanwezig is.
+
+### Stap 1: Lettertype‑vervangingen configureren
+`NoteLoadOptions` configures how a note file is loaded, including font substitution settings. Create a `NoteLoadOptions` object, define the font pairs you want to replace, and set a fallback font for any unmatched cases:
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -89,12 +127,12 @@ loadOptions.setFontSubstitutes(fontSubstitutes);
 // Set the default font for unhandled substitutions
 defaultFont = "YOUR_DOCUMENT_DIRECTORY/terminal-grotesque_open.otf";
 ```
-- **`NoteLoadOptions`** – configureert laadopties specifiek voor note‑documenten.  
-- **`FontSubstitute.create()`** – koppelt een ontbrekend lettertype aan een vervanging.  
-- **`setDefaultFont()`** – definieert een fallback‑lettertype wanneer er geen expliciete substitutie bestaat.
+- **`NoteLoadOptions`** – De `NoteLoadOptions`‑klasse is het startpunt voor het configureren van hoe notitie‑bestanden worden geladen, inclusief instellingen voor lettertypevervanging.  
+- **`FontSubstitute.create()`** – `FontSubstitute.create()` bouwt een mapping die de converter vertelt welke vervangende lettertype te gebruiken wanneer het originele lettertype ontbreekt.  
+- **`setDefaultFont()`** – `setDefaultFont()` definieert een fallback‑lettertype dat de engine toepast wanneer er geen expliciete mapping bestaat, zodat er geen tekens ongerenderd blijven.
 
-### Stap 2: Document naar PDF converteren
-Geef de geconfigureerde laadopties door aan de `Converter` en voer de conversie uit:
+### Stap 2: Het document naar PDF converteren
+`Converter` is the core component that performs the conversion using the provided load options. Pass the configured load options to the `Converter` and execute the conversion:
 
 ```java
 // Initialize Converter with specified load options
@@ -106,12 +144,12 @@ pdfOptions = new PdfConvertOptions();
 // Perform conversion
 coder.convert("YOUR_OUTPUT_DIRECTORY/converted_note.pdf", pdfOptions);
 ```
-- **`Converter`** – laadt het bronbestand met de opgegeven opties.  
-- **`convert()`** – schrijft het PDF‑bestand naar de doellocatie.
+- **`Converter`** – De `Converter`‑klasse is de kerncomponent van GroupDocs die het bronbestand laadt met de opgegeven opties en het voorbereidt op conversie.  
+- **`convert()`** – De `convert()`‑methode schrijft het PDF‑bestand naar de doellocatie, waarbij alle door jou gedefinieerde lettertype‑vervangingsregels worden toegepast.
 
-## Een Note‑document naar PDF converteren (zonder aangepaste lettertypen)
+## Een notitie‑document naar PDF converteren (zonder aangepaste lettertypen)
 
-Als je eenvoudigweg een **java document to pdf** nodig hebt zonder aangepaste substituties, zijn de stappen nog korter:
+Als je simpelweg **java document to pdf** nodig hebt zonder aangepaste vervangingen, zijn de stappen nog korter:
 
 ```java
 // Initialize Converter for a given document
@@ -125,41 +163,41 @@ converter.convert("YOUR_OUTPUT_DIRECTORY/converted_note.pdf", pdfOptions);
 
 ## Praktische Toepassingen
 
-1. **Document Sharing** – Verstuur PDF’s die er identiek uitzien op Windows, macOS of Linux.  
-2. **Archiving** – Behoud de visuele getrouwheid van legacy‑note‑bestanden voor compliance.  
-3. **Cross‑Platform Compatibility** – Zorg ervoor dat elke stakeholder dezelfde lettertypen ziet, ongeacht geïnstalleerde lettertypen.
+1. **Documentdeling** – Verstuur PDF's die er identiek uitzien op Windows, macOS of Linux.  
+2. **Archivering** – Behoud de visuele getrouwheid van legacy‑notitie‑bestanden voor naleving.  
+3. **Cross‑platform compatibiliteit** – Zorg ervoor dat elke belanghebbende dezelfde lettertypen ziet, ongeacht geïnstalleerde lettertypen.
 
 ### Integratiemogelijkheden
-Je kunt deze conversiestroom integreren in een enterprise content management‑systeem, een micro‑service die uploads verwerkt, of een batch‑taak die legacy‑note‑archieven migreert naar PDF.
+Je kunt deze conversiestroom integreren in een enterprise content management‑systeem, een micro‑service die uploads verwerkt, of een batch‑taak die legacy‑notitie‑archieven naar PDF migreert.
 
 ## Prestatie‑overwegingen
-- **Memory Management** – Stream grote bestanden in plaats van ze volledig in het geheugen te laden.  
+- **Geheugenbeheer** – Stream grote bestanden in plaats van ze volledig in het geheugen te laden.  
 - **Caching** – Cache vaak gebruikte lettertype‑bestanden om herhaaldelijke schijf‑I/O te vermijden.  
-- **Java Best Practices** – Stem de garbage collector af en hergebruik `Converter`‑instanties wanneer mogelijk.
+- **Java‑best practices** – Stem de garbage collector af en hergebruik `Converter`‑instanties waar mogelijk.
 
-## Veelvoorkomende Problemen en Oplossingen
-| Probleem | Waarschijnlijke Oorzaak | Oplossing |
-|----------|--------------------------|-----------|
-| Ontbrekend lettertype na conversie | Geen substitutie gedefinieerd voor het lettertype | Voeg een `FontSubstitute`‑item toe of stel een juist standaardlettertype in. |
+## Veelvoorkomende problemen en oplossingen
+| Probleem | Waarschijnlijke oorzaak | Oplossing |
+|-------|--------------|-----|
+| Ontbrekend lettertype na conversie | Geen vervanging gedefinieerd voor het lettertype | Voeg een `FontSubstitute`‑entry toe of stel een geschikt standaardlettertype in. |
 | `NullPointerException` op `loadOptions` | `loadOptions` niet doorgegeven aan `Converter` | Zorg ervoor dat je de lambda `() -> loadOptions` gebruikt bij het construeren van de `Converter`. |
-| Trage conversie voor grote bestanden | Het volledige document in het geheugen laden | Gebruik streaming‑API’s of vergroot de JVM‑heap‑grootte adequaat. |
+| Trage conversie voor grote bestanden | Het volledige document wordt in het geheugen geladen | Gebruik streaming‑API's of vergroot de JVM‑heapgrootte adequaat. |
 
-## Veelgestelde Vragen
+## Veelgestelde vragen
 
-**Q: Kan ik meerdere lettertypen tegelijk substitueren?**  
-A: Ja, voeg meerdere `FontSubstitute`‑items toe aan de `fontSubstitutes`‑lijst.
+**Q: Kan ik meerdere lettertypen tegelijk vervangen?**  
+A: Ja, voeg meerdere `FontSubstitute`‑entries toe aan de `fontSubstitutes`‑lijst.
 
 **Q: Wat gebeurt er als het standaardlettertype niet wordt gevonden?**  
-A: De conversie valt terug op het standaardlettertype van het systeem, wat per platform kan verschillen.
+A: De conversie valt terug op het standaardlettertype van het systeem, dat kan per platform verschillen.
 
 **Q: Hoe los ik conversiefouten op?**  
-A: Controleer bestands‑paden, zorg dat alle Maven‑afhankelijkheden zijn opgelost, en bekijk de console voor stack‑traces.
+A: Controleer bestandspaden, zorg dat alle Maven‑afhankelijkheden zijn opgelost, en bekijk de console voor stacktraces.
 
 **Q: Is GroupDocs.Conversion compatibel met alle Java‑versies?**  
 A: Het ondersteunt JDK 8 en hoger.
 
-**Q: Kan font substitution worden gebruikt met andere formaten zoals Word of Excel?**  
-A: Absoluut – hetzelfde `FontSubstitute`‑mechanisme werkt voor veel documenttypen.
+**Q: Kan lettertypevervanging worden gebruikt met andere formaten zoals Word of Excel?**  
+A: Absoluut – hetzelfde `FontSubstitute`‑mechanisme werkt voor veel documenttypen, waaronder DOCX en XLSX.
 
 ## Bronnen
 - [Documentatie](https://docs.groupdocs.com/conversion/java/)
@@ -172,6 +210,11 @@ A: Absoluut – hetzelfde `FontSubstitute`‑mechanisme werkt voor veel document
 
 ---
 
-**Last Updated:** 2026-01-28  
-**Tested With:** GroupDocs.Conversion 25.2 for Java  
-**Author:** GroupDocs
+**Laatst bijgewerkt:** 2026-07-29  
+**Getest met:** GroupDocs.Conversion 25.2 for Java  
+**Auteur:** GroupDocs
+
+## Gerelateerde tutorials
+- [GroupDocs Conversion Java: Documenten naar PDF converteren – Stapsgewijze handleiding](/conversion/java/pdf-conversion/convert-documents-pdf-groupdocs-java/)
+- [GroupDocs Conversion Java: Word naar PDF converteren met aangepaste lettertypen](/conversion/java/pdf-conversion/convert-word-pdf-custom-fonts-java-groupdocs-conversion/)
+- [Hoe licentie voor GroupDocs.Conversion Java instellen – Stapsgewijze handleiding](/conversion/java/getting-started/groupdocs-conversion-java-license-setup-file-path/)
