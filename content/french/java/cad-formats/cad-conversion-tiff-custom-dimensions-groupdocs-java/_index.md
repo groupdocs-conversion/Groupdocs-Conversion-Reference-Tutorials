@@ -1,41 +1,96 @@
 ---
-"date": "2025-04-28"
-"description": "Apprenez à convertir des fichiers CAO en images TIFF de haute qualité avec des dimensions personnalisées grâce à GroupDocs.Conversion pour Java. Maîtrisez le processus étape par étape."
-"title": "Convertir des fichiers CAO en TIFF avec des dimensions personnalisées à l'aide de GroupDocs.Conversion Java - Un guide complet"
-"url": "/fr/java/cad-formats/cad-conversion-tiff-custom-dimensions-groupdocs-java/"
-"weight": 1
+date: '2026-07-24'
+description: 'Conversion d''images Java simplifiée : apprenez comment convertir des
+  fichiers CAD en TIFF avec des dimensions personnalisées en utilisant GroupDocs Conversion
+  Java. Guide étape par étape pour les développeurs.'
+keywords:
+- java image conversion
+- custom width height
+- set image dimensions java
+lastmod: '2026-07-24'
+og_description: Conversion d'images Java simplifiée. Convertissez des fichiers CAD
+  en images TIFF de haute qualité avec une largeur et une hauteur personnalisées en
+  utilisant GroupDocs Conversion Java. Suivez notre guide détaillé.
+og_image_alt: 'Guide: Convert CAD to TIFF with custom dimensions using GroupDocs Conversion
+  Java'
+og_title: 'Conversion d''images Java : CAD vers TIFF avec dimensions personnalisées'
+schemas:
+- author: GroupDocs
+  dateModified: '2026-07-24'
+  description: 'Java image conversion made easy: learn how to convert CAD files to
+    TIFF with custom dimensions using GroupDocs Conversion Java. Step‑by‑step guide
+    for developers.'
+  headline: 'Java Image Conversion: CAD to TIFF with Custom Dimensions'
+  type: TechArticle
+- questions:
+  - answer: GroupDocs Conversion Java, a robust Java image conversion library.
+    question: What library should I use for Java image conversion?
+  - answer: Use `CadLoadOptions` and specify `setWidth()` and `setHeight()`.
+    question: How do I set custom dimensions for a CAD file?
+  - answer: Yes—load the CAD, set dimensions, then convert with `ImageConvertOptions`.
+    question: Can I convert DWG to TIFF in one step?
+  - answer: A free trial works for evaluation; a full license unlocks all features.
+    question: Do I need a license?
+  - answer: Any Java 8+ runtime is supported.
+    question: What Java version is required?
+  type: FAQPage
+tags:
+- convert CAD
+- GroupDocs Conversion
+- Java image conversion
+- TIFF
+- CAD processing
+title: 'Conversion d''images Java : CAD vers TIFF avec dimensions personnalisées'
 type: docs
+url: /fr/java/cad-formats/cad-conversion-tiff-custom-dimensions-groupdocs-java/
+weight: 1
 ---
-# Conversion de fichiers CAO en TIFF avec dimensions personnalisées à l'aide de GroupDocs.Conversion Java : guide complet
 
-## Introduction
+# Conversion d'images Java : CAD en TIFF avec dimensions personnalisées
 
-Convertir des fichiers CAO en images TIFF de haute qualité peut s'avérer complexe, notamment lorsque vous avez besoin de dimensions spécifiques adaptées à vos applications. **GroupDocs.Conversion pour Java**ce processus devient fluide et efficace. Qu'il s'agisse de conceptions architecturales ou de plans d'ingénierie, la transformation de ces documents au format TIFF avec des dimensions précises est précieuse.
+Si vous devez transformer des dessins CAD en images TIFF haute résolution tout en contrôlant la largeur et la hauteur exactes en pixels, **java image conversion** est la solution. En utilisant GroupDocs Conversion Java, vous pouvez rasteriser n'importe quel format CAD pris en charge (DWG, DGN, DXF, etc.) en un fichier TIFF qui s'intègre parfaitement aux rapports, aux portails web ou aux mises en page imprimées. Ce guide vous accompagne à chaque étape — de la configuration du projet à la conversion finale — afin que vous puissiez intégrer le processus dans n'importe quel flux de travail basé sur Java.
 
-Dans ce tutoriel, nous vous guiderons pas à pas pour charger des fichiers CAO, définir des dimensions personnalisées et les convertir en images TIFF de haute qualité avec GroupDocs.Conversion pour Java. À la fin de cet article, vous maîtriserez vos tâches de conversion CAO comme un pro !
+## Réponses rapides
+- **Quelle bibliothèque devrais-je utiliser pour la conversion d'images Java ?** GroupDocs Conversion Java, une bibliothèque robuste de conversion d'images Java.  
+- **Comment définir des dimensions personnalisées pour un fichier CAD ?** Utilisez `CadLoadOptions` et spécifiez `setWidth()` et `setHeight()`.  
+- **Puis-je convertir DWG en TIFF en une seule étape ?** Oui — chargez le CAD, définissez les dimensions, puis convertissez avec `ImageConvertOptions`.  
+- **Ai-je besoin d'une licence ?** Un essai gratuit suffit pour l'évaluation ; une licence complète débloque toutes les fonctionnalités.  
+- **Quelle version de Java est requise ?** Toute version Java 8+ est prise en charge.
 
-**Ce que vous apprendrez :**
-- Configuration de GroupDocs.Conversion pour Java
-- Chargement de documents CAO avec des dimensions spécifiées
-- Conversion de fichiers CAO au format TIFF
-- Optimisation des performances et résolution des problèmes courants
+## Qu'est-ce que GroupDocs Conversion Java ?
+La bibliothèque `GroupDocs Conversion Java` est une solution de **java image conversion** qui prend en charge plus de 110 formats d'entrée et de sortie, y compris tous les principaux types CAD et images raster.  
+La classe `Converter` est le composant central qui initie les opérations de conversion de fichiers.  
+Elle offre le rendu côté serveur, le redimensionnement et des options spécifiques aux formats, permettant aux développeurs de convertir des fichiers sans installer de visionneuses tierces.
 
-Commençons par passer en revue les prérequis.
+## Pourquoi convertir CAD en TIFF avec des dimensions personnalisées ?
+Définir une largeur et une hauteur explicites garantit que le TIFF résultant respecte exactement les contraintes de mise en page des systèmes en aval. En définissant les dimensions en pixels avant la rasterisation, vous évitez les artefacts de mise à l'échelle en aval, maintenez la cohérence des épaisseurs de ligne et assurez que l'image s'intègre parfaitement aux PDF, aux pages web ou aux supports imprimés sans traitement supplémentaire. Cette approche simplifie également les pipelines automatisés où chaque image doit se conformer à une spécification de taille prédéfinie.
+
+- **Préserve la fidélité visuelle :** Rasteriser à 1920 × 1080 px (ou toute taille de votre choix) conserve la netteté des traits et des hachures.  
+- **Assure des mises en page cohérentes :** Les images s'intègrent proprement dans les PDF, les pages HTML ou les modèles d'impression sans redimensionnement supplémentaire.  
+- **Améliore la compatibilité :** Le format TIFF est universellement accepté sur Windows, macOS, Linux et la plupart des outils de conception, réduisant les problèmes de conversion de format.
 
 ## Prérequis
-
 Avant de commencer, assurez-vous d'avoir :
-1. **Bibliothèques requises**: GroupDocs.Conversion pour Java version 25.2 ou ultérieure.
-2. **Configuration de l'environnement**:
-   - Un environnement de développement Java fonctionnel (par exemple, IntelliJ IDEA, Eclipse).
-   - Maven installé sur votre système pour gérer les dépendances.
-3. **Prérequis en matière de connaissances**:Compréhension de base de la programmation Java et familiarité avec l'utilisation d'outils de construction comme Maven.
 
-Une fois les prérequis vérifiés, configurons GroupDocs.Conversion pour Java.
+1. **GroupDocs Conversion Java** version 25.2 ou ultérieure (la dernière version est recommandée).  
+2. Un IDE Java tel qu'IntelliJ IDEA ou Eclipse.  
+3. Maven installé pour la gestion des dépendances.  
+4. Connaissances de base en programmation Java et familiarité avec le `pom.xml` de Maven.  
 
-## Configuration de GroupDocs.Conversion pour Java
+## Configuration de GroupDocs Conversion Java
+Ajoutez la dépendance Maven de GroupDocs à votre `pom.xml` :
 
-Pour commencer, configurez Maven pour inclure la bibliothèque GroupDocs nécessaire en ajoutant ce qui suit à votre `pom.xml` déposer:
+```xml
+<dependency>
+    <groupId>com.groupdocs</groupId>
+    <artifactId>groupdocs-conversion</artifactId>
+    <version>25.2</version>
+</dependency>
+```
+
+**Acquisition de licence :** Vous pouvez obtenir un essai gratuit, demander une licence temporaire pour la pleine fonctionnalité, ou acheter une licence permanente pour débloquer entièrement les fonctionnalités de GroupDocs Conversion.
+
+Une fois votre projet Java correctement lié à ces dépendances, vous êtes prêt à commencer à convertir des fichiers CAD !
 
 ```xml
 <repositories>
@@ -54,17 +109,21 @@ Pour commencer, configurez Maven pour inclure la bibliothèque GroupDocs nécess
 </dependencies>
 ```
 
-**Acquisition de licence**:Vous pouvez obtenir un essai gratuit, demander une licence temporaire pour toutes les fonctionnalités ou acheter une licence permanente pour déverrouiller entièrement les fonctionnalités de GroupDocs.Conversion.
+## Comment convertir CAD en TIFF avec des dimensions personnalisées ?
+Convertir des fichiers CAD en TIFF avec des dimensions précises implique de charger le dessin source, de configurer les options de rendu et d'appeler l'API de conversion. En suivant une séquence linéaire — définir la largeur et la hauteur, choisir TIFF comme format de sortie et exécuter la conversion — vous vous assurez que l'image générée correspond exactement aux exigences de taille de vos applications en aval, tout en préservant les détails et la qualité du dessin original.  
 
-Une fois que votre projet Java est correctement lié à ces dépendances, vous êtes prêt à commencer à convertir des fichiers CAO !
+1. **Importer les classes requises** (voir étape par étape ci‑dessous).  
+2. **Créer une instance de `CadLoadOptions`** et définir `width` et `height` à vos dimensions cibles.  
+3. **Instancier `ImageConvertOptions`**, en spécifiant `ImageFileType.Tiff`.  
+4. **Appeler la méthode `convert`** sur un objet `Converter`, en passant le chemin source, les options de chargement et les options de conversion.
 
-## Guide de mise en œuvre
+### Chargement de documents CAD avec dimensions personnalisées (Comment définir les dimensions)
 
-### Chargement de documents CAO avec des dimensions personnalisées
+La classe `CadLoadOptions` indique à GroupDocs comment rasteriser le dessin avant la conversion.
 
-**Aperçu**Cette fonctionnalité permet de charger un document CAO tout en spécifiant ses dimensions avant la conversion. Elle est utile pour préparer les fichiers à des exigences d'affichage spécifiques.
+`CadLoadOptions` est l'objet de configuration qui définit les paramètres de rendu tels que la largeur, la hauteur et le DPI pour les fichiers CAD.
 
-#### Étape 1 : Importer les bibliothèques nécessaires
+#### Étape 1 : Importer les bibliothèques nécessaires
 ```java
 import com.groupdocs.conversion.Converter;
 import com.groupdocs.conversion.filetypes.ImageFileType;
@@ -72,79 +131,87 @@ import com.groupdocs.conversion.options.convert.ImageConvertOptions;
 import com.groupdocs.conversion.options.load.CadLoadOptions;
 ```
 
-#### Étape 2 : Configurer les options de chargement avec des dimensions personnalisées
+#### Étape 2 : Configurer les options de chargement avec des dimensions personnalisées
 ```java
 String sourceDocumentPath = "YOUR_DOCUMENT_DIRECTORY/SAMPLE_DWG_WITH_LAYOUTS_AND_LAYERS";
 CadLoadOptions loadOptions = new CadLoadOptions();
-loadOptions.setWidth(1920); // Spécifiez la largeur souhaitée en pixels
-loadOptions.setHeight(1080); // Spécifiez la hauteur souhaitée en pixels
+loadOptions.setWidth(1920); // Specify the desired width in pixels
+loadOptions.setHeight(1080); // Specify the desired height in pixels
 Converter converter = new Converter(sourceDocumentPath, () -> loadOptions);
 ```
-**Explication**:Nous avons mis en place `CadLoadOptions` pour définir les dimensions de sortie, en veillant à ce que lorsque le document CAO est chargé, il soit conforme à ces mesures spécifiées.
+*Explication :* En configurant `CadLoadOptions`, vous indiquez à **GroupDocs Conversion Java** de rasteriser le dessin CAD à 1920 × 1080 pixels avant tout traitement ultérieur.
 
-### Conversion d'une image CAO en image TIFF
+### Conversion d'une image CAD en TIFF (Convertir CAD en TIFF)
 
-**Aperçu**:Après avoir chargé votre fichier CAO avec des dimensions personnalisées, convertissez-le en un format d'image TIFF, idéal pour des sorties de haute qualité.
+`ImageConvertOptions` indique à la bibliothèque de produire un fichier TIFF avec les paramètres que vous spécifiez.
 
-#### Étape 3 : Configurer les options de conversion
+`ImageConvertOptions` encapsule tous les paramètres de conversion spécifiques aux images, y compris le format de sortie, la résolution et le niveau de compression.
+
+#### Étape 3 : Configurer les options de conversion
 ```java
 String convertedFilePath = "YOUR_OUTPUT_DIRECTORY/ConvertCadAndSpecifyWidthAndHeight.tiff";
 ImageConvertOptions options = new ImageConvertOptions();
-options.setFormat(ImageFileType.Tiff); // Définir la cible de conversion au format TIFF
+options.setFormat(ImageFileType.Tiff); // Set the conversion target to TIFF format
 ```
 
-#### Étape 4 : Effectuer la conversion
+#### Étape 4 : Effectuer la conversion
 ```java
 converter.convert(convertedFilePath, options);
 ```
-**Explication**: En précisant `ImageFileType.Tiff`, vous demandez à GroupDocs.Conversion de générer une image TIFF. Le processus exploite ces paramètres pour produire un fichier optimisé.
+*Explication :* Définir `ImageFileType.Tiff` indique à **GroupDocs Conversion Java** de produire un fichier TIFF de haute qualité qui respecte la largeur et la hauteur que vous avez définies précédemment.
 
-### Conseils de dépannage
-- **Problèmes de chemin de fichier**: Assurez-vous que le chemin du document source est correct et accessible.
-- **Erreurs de format de sortie**:Vérifiez vos spécifications de format pour éviter les conversions non prises en charge.
-- **Allocation de mémoire**: Pour les problèmes de mémoire, augmentez la taille du tas Java ou optimisez l'utilisation des ressources.
+## Conseils de dépannage et pièges courants
+- **Problèmes de chemin de fichier :** Vérifiez que les chemins source et destination sont corrects et que l'application dispose des permissions de lecture/écriture.  
+- **Formats non pris en charge :** Assurez-vous que le fichier CAD est l'un des formats supportés (DWG, DGN, DXF, etc.).  
+- **Contraintes de mémoire :** Les grands dessins peuvent nécessiter d'augmenter la taille du tas JVM (`-Xmx2g` ou plus).  
+- **Problèmes de qualité :** Ajustez les paramètres de résolution de `ImageConvertOptions` si le DPI par défaut ne répond pas à vos exigences de qualité.  
 
 ## Applications pratiques
+1. **Visualisation architecturale :** Exporter les plans d'étage en TIFF pour des présentations haute résolution.  
+2. **Documentation d'ingénierie :** Générer des images standardisées pour inclusion dans les manuels techniques.  
+3. **Rapports automatisés :** Intégrer des TIFF dérivés de CAD dans des rapports PDF ou HTML via un pipeline CI.  
 
-1. **Visualisation architecturale**:Convertissez les dessins CAO en TIFF pour des présentations haute résolution.
-2. **Documentation technique**:Utilisez des dimensions précises pour les plans techniques affichés sur toutes les plateformes.
-3. **Génération automatisée de rapports**: Intégrez la fonctionnalité de conversion dans les systèmes générant des rapports à partir de conceptions CAO.
+## Considérations de performance
+- **Optimiser l'utilisation de la mémoire :** Libérez l'instance `Converter` après la conversion (`converter.close()` si applicable).  
+- **Traitement par lots :** Parcourez une liste de fichiers CAD et réutilisez une seule configuration `Converter` pour réduire la surcharge.  
+- **Restez à jour :** Mettez régulièrement à jour vers la dernière version de GroupDocs Conversion Java pour bénéficier des améliorations de performance et des corrections de bugs.  
 
-Ces exemples illustrent la polyvalence des conversions CAO en TIFF avec des paramètres personnalisés.
+## Questions fréquemment posées
 
-## Considérations relatives aux performances
+**Q :** Quels formats de fichiers GroupDocs Conversion prend‑il en charge ?  
+**R :** Il prend en charge plus de 110 formats, y compris les fichiers CAD tels que DWG, DGN, DXF, ainsi que les types d'images, de documents et d'archives courants.  
 
-Pour garantir des performances optimales lors de l'utilisation de GroupDocs.Conversion :
-- **Optimiser l'utilisation de la mémoire**: Gérez les tailles de tas Java de manière appropriée, en particulier pour les documents volumineux.
-- **Gestion des ressources**:Fermez les ressources ouvertes après la conversion pour libérer de la mémoire.
-- **Meilleures pratiques**: Mettez régulièrement à jour les bibliothèques pour bénéficier des améliorations et des corrections de bugs.
+**Q :** Puis‑je convertir plusieurs fichiers CAD en même temps ?  
+**R :** Oui — implémentez une boucle simple qui crée un nouveau `Converter` pour chaque fichier ou réutilisez la même instance avec différents chemins source.  
 
-## Conclusion
+**Q :** Comment gérer les gros fichiers lors de la conversion ?  
+**R :** Augmentez la taille du tas JVM, traitez les fichiers par lots plus petits, ou utilisez les options de streaming fournies par la bibliothèque.  
 
-En suivant ce guide, vous avez appris à charger des fichiers CAO avec des dimensions personnalisées et à les convertir en images TIFF avec GroupDocs.Conversion pour Java. Cette fonctionnalité améliore les flux de travail en fournissant des images personnalisées de haute qualité.
+**Q :** Que faire si la qualité de l'image de sortie n'est pas satisfaisante ?  
+**R :** Ajustez le DPI ou les paramètres de mise à l'échelle dans `ImageConvertOptions` pour augmenter la résolution.  
 
-Les prochaines étapes incluent l'exploration d'autres options de conversion disponibles dans GroupDocs.Conversion ou l'intégration de ces fonctionnalités dans des systèmes plus vastes. Expérimentez et adaptez le processus à vos besoins spécifiques.
-
-## Section FAQ
-
-1. **Quels formats de fichiers GroupDocs.Conversion prend-il en charge ?**
-   - Il prend en charge une large gamme, y compris les fichiers CAO tels que DWG, DGN, etc.
-2. **Puis-je convertir plusieurs fichiers CAO à la fois ?**
-   - Oui, les conversions par lots sont efficaces pour parcourir les fichiers.
-3. **Comment gérer les fichiers volumineux lors de la conversion ?**
-   - Traitez par morceaux ou optimisez les paramètres de mémoire système pour une meilleure gestion.
-4. **Que faire si la qualité de l’image de sortie n’est pas satisfaisante ?**
-   - Ajustez les paramètres de résolution dans `ImageConvertOptions` pour améliorer la qualité.
-5. **Existe-t-il une assistance disponible si je rencontre des problèmes ?**
-   - Oui, GroupDocs propose des forums et de la documentation pour l'assistance au dépannage.
+**Q :** Le support est‑il disponible en cas de problème ?  
+**R :** GroupDocs propose une documentation exhaustive, des forums communautaires et un support direct pour les clients sous licence.  
 
 ## Ressources
 - [Documentation GroupDocs](https://docs.groupdocs.com/conversion/java/)
-- [Référence de l'API](https://reference.groupdocs.com/conversion/java/)
+- [Référence API](https://reference.groupdocs.com/conversion/java/)
 - [Télécharger la dernière version](https://releases.groupdocs.com/conversion/java/)
 - [Acheter des licences](https://purchase.groupdocs.com/buy)
-- [Accès d'essai gratuit](https://releases.groupdocs.com/conversion/java/)
+- [Accès à l'essai gratuit](https://releases.groupdocs.com/conversion/java/)
 - [Demande de licence temporaire](https://purchase.groupdocs.com/temporary-license/)
-- [Forum d'assistance](https://forum.groupdocs.com/c/conversion/10)
+- [Forum de support](https://forum.groupdocs.com/c/conversion/10)
 
-En vous dotant de ces outils et connaissances, vous serez prêt à aborder vos tâches de conversion CAO en toute confiance. Bonne conversion !
+---
+
+**Dernière mise à jour :** 2026-07-24  
+**Testé avec :** GroupDocs Conversion Java 25.2  
+**Auteur :** GroupDocs  
+
+---
+
+## Tutoriels associés
+
+- [convert cad pdf java – Tutoriels de conversion de formats CAD pour GroupDocs.Conversion Java](/conversion/java/cad-formats/)
+- [convert pdf to jpg java using GroupDocs.Conversion – Guide](/conversion/java/document-operations/convert-pdf-to-jpg-groupdocs-java/)
+- [Comment configurer la licence pour GroupDocs.Conversion Java - Guide étape par étape](/conversion/java/getting-started/groupdocs-conversion-java-license-setup-file-path/)

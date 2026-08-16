@@ -1,48 +1,97 @@
 ---
-date: '2026-01-26'
-description: GroupDocs Conversion Java, lider Java görüntü dönüştürme kütüphanesini
-  kullanarak özel boyutlarla CAD dosyalarını TIFF'e nasıl dönüştüreceğinizi öğrenin.
-  Adım adım rehber.
+date: '2026-07-24'
+description: 'Java görüntü dönüştürme artık kolay: CAD dosyalarını GroupDocs Conversion
+  Java kullanarak custom dimensions ile TIFF''e nasıl dönüştüreceğinizi öğrenin. Geliştiriciler
+  için adım adım kılavuz.'
 keywords:
-- CAD Conversion
-- TIFF Image
-- Custom Dimensions
-- GroupDocs.Conversion Java
-title: 'GroupDocs Conversion Java Kullanarak Özel Boyutlarla CAD''den TIFF''e Dönüştürme:
-  Kapsamlı Bir Rehber'
+- java image conversion
+- custom width height
+- set image dimensions java
+lastmod: '2026-07-24'
+og_description: Java görüntü dönüştürme artık kolay. CAD dosyalarını GroupDocs Conversion
+  Java kullanarak custom width and height ile yüksek kaliteli TIFF görüntülerine dönüştürün.
+  Detaylı kılavuzumuzu izleyin.
+og_image_alt: 'Guide: Convert CAD to TIFF with custom dimensions using GroupDocs Conversion
+  Java'
+og_title: 'Java Görüntü Dönüştürme: CAD''den TIFF''e Custom Dimensions'
+schemas:
+- author: GroupDocs
+  dateModified: '2026-07-24'
+  description: 'Java image conversion made easy: learn how to convert CAD files to
+    TIFF with custom dimensions using GroupDocs Conversion Java. Step‑by‑step guide
+    for developers.'
+  headline: 'Java Image Conversion: CAD to TIFF with Custom Dimensions'
+  type: TechArticle
+- questions:
+  - answer: GroupDocs Conversion Java, a robust Java image conversion library.
+    question: What library should I use for Java image conversion?
+  - answer: Use `CadLoadOptions` and specify `setWidth()` and `setHeight()`.
+    question: How do I set custom dimensions for a CAD file?
+  - answer: Yes—load the CAD, set dimensions, then convert with `ImageConvertOptions`.
+    question: Can I convert DWG to TIFF in one step?
+  - answer: A free trial works for evaluation; a full license unlocks all features.
+    question: Do I need a license?
+  - answer: Any Java 8+ runtime is supported.
+    question: What Java version is required?
+  type: FAQPage
+tags:
+- convert CAD
+- GroupDocs Conversion
+- Java image conversion
+- TIFF
+- CAD processing
+title: 'Java Görüntü Dönüştürme: CAD''den TIFF''e Custom Dimensions'
 type: docs
 url: /tr/java/cad-formats/cad-conversion-tiff-custom-dimensions-groupdocs-java/
 weight: 1
 ---
 
- özel boyutlar gerektiğinde bu süreç sorunsuz ve verimli hâle ve yükseklik ayarlarıyla TIFF formatına dönüştürmek son derece değerlidir.
+# Java Görüntü Dönüştürme: CAD'den TIFF'e Özel Boyutlarla
+
+CAD çizimlerini yüksek çözünürlüklü TIFF görüntülerine dönüştürmeniz ve piksel genişliği ile yüksekliğini tam olarak kontrol etmeniz gerekiyorsa, **java image conversion** anahtarınızdır. GroupDocs Conversion Java kullanarak, desteklenen herhangi bir CAD formatını (DWG, DGN, DXF, vb.) raporlar, web portalları veya baskı düzenlerine mükemmel şekilde uyan bir TIFF dosyasına rasterleştirebilirsiniz. Bu kılavuz, proje kurulumundan son dönüşüme kadar her adımı size gösterir—böylece süreci herhangi bir Java tabanlı iş akışına entegre edebilirsiniz.
 
 ## Hızlı Yanıtlar
-- **Java görüntü dönüşümü için hangi kütüphane kullanılmalı?** GroupDocs Conversion Java, sağlam bir java görüntü dönüşüm kütüphanesidir.  
-- **Bir CAD dosyası için özel boyutlar nasıl ayarlanır?** `CadLoadOptions` kullanın ve `setWidth()` ile `setHeight()` metodlarını belirtin.  
+- **Java image conversion için hangi kütüphaneyi kullanmalıyım?** GroupDocs Conversion Java, sağlam bir Java image conversion kütüphanesidir.  
+- **Bir CAD dosyası için özel boyutları nasıl ayarlarım?** `CadLoadOptions` kullanın ve `setWidth()` ve `setHeight()` belirleyin.  
 - **DWG'yi tek adımda TIFF'e dönüştürebilir miyim?** Evet—CAD'i yükleyin, boyutları ayarlayın, ardından `ImageConvertOptions` ile dönüştürün.  
-- **Lisans gerekli mi?** Değerlendirme için ücretsiz deneme sürümü yeterlidir; tam lisans tüm özelliklerin kilidini açar.  
+- **Bir lisansa ihtiyacım var mı?** Değerlendirme için ücretsiz deneme çalışır; tam lisans tüm özelliklerin kilidini açar.  
 - **Hangi Java sürümü gereklidir?** Java 8+ çalışma zamanı desteklenir.
 
 ## GroupDocs Conversion Java Nedir?
-GroupDocs Conversion Java, CAD çizimleri (DWG, DGN) ve TIFF gibi raster görüntüler dahil olmak üzere 100'den fazla dosya formatını destekleyen güçlü bir **java image conversion library**'dir. Render, ölçeklendirme ve format‑özel seçenekleri yönetir, böylece “how to convert CAD” görevlerinde çıktı boyutları üzerinde ince ayar yapmanıza olanak tanır.
+`GroupDocs Conversion Java` kütüphanesi, **java image conversion** çözümüdür ve tüm büyük CAD ve raster görüntü tipleri dahil olmak üzere 110'dan fazla giriş ve çıkış formatını destekler.  
+`Converter` sınıfı, dosya dönüşüm işlemlerini başlatan temel bileşendir.  
+Sunucu tarafı renderlama, ölçekleme ve format‑özel seçenekler sunar, böylece geliştiriciler üçüncü taraf görüntüleyicileri kurmadan dosyaları dönüştürebilir.
 
-## Neden CAD'yi Özel Boyutlarla TIFF'e Dönüştürmeliyiz?
-- **Detayı Koruma:** TIFF, rasterleştirildiğinde ihtiyaç duyduğunuz boyutta yüksek çözünürlükte vektör bilgisini korur.  
-- **Tutarlı Düzenler:** Genişlik ve yükseklik belirlemek, görüntünün raporlar, portallar veya baskı düzenlerine mükemmel oturmasını sağlar.  
-- **Çapraz Platform Uyumluluğu:** TIFF dosyaları işletim sistemleri ve tasarım araçları arasında yaygın olarak desteklenir.  
+## Neden CAD'i Özel Boyutlarla TIFF'e Dönüştürmeliyiz?
+Belirli genişlik ve yüksekliği ayarlamak, ortaya çıkan TIFF'in sonraki sistemlerin tam düzen kısıtlamalarına uymasını garanti eder. Piksel boyutlarını rasterleştirmeden önce tanımlayarak, sonraki ölçekleme artefaktlarından kaçınılır, çizgi kalınlığı tutarlılığı korunur ve görüntünün PDF'lere, web sayfalarına veya basılı materyallere ek işleme gerek kalmadan sorunsuz entegrasyonu sağlanır. Bu yaklaşım, her görüntünün önceden tanımlanmış bir boyut spesifikasyonuna uyması gereken otomatikleştirilmiş boru hatlarını da basitleştirir.  
 
-## Ön Koşullar
-Başlamadan önce aşağıdakilere sahip olduğunuzdan emin olun:
+- **Görsel Doğruluğu Korur:** 1920 × 1080 px (veya seçtiğiniz herhangi bir boyut) rasterleştirmek, hat ve tarama işlerini net tutar.  
+- **Tutarlı Düzenleri Sağlar:** Görüntüler, ek yeniden boyutlandırma olmadan PDF'lere, HTML sayfalara veya baskı şablonlarına temiz bir şekilde gömülür.  
+- **Uyumluluğu Artırır:** TIFF, Windows, macOS, Linux ve çoğu tasarım aracında evrensel olarak kabul edilir, format‑dönüştürme sorunlarını azaltır.
 
-1. **GroupDocs Conversion Java** sürüm 25.2 veya üzeri (en yeni sürüm önerilir).  
+## Önkoşullar
+Başlamadan önce şunların olduğundan emin olun:
+
+1. **GroupDocs Conversion Java** sürüm 25.2 veya üzeri (en son sürüm önerilir).  
 2. IntelliJ IDEA veya Eclipse gibi bir Java IDE'si.  
-3. Bağımlılıkları yönetmek için Maven kurulmuş olmalı.  
-4. Temel Java programlama bilgisi ve Maven’in `pom.xml` dosyasına aşinalık.  
+3. Bağımlılık yönetimi için Maven kurulu.  
+4. Temel Java programlama bilgisi ve Maven'in `pom.xml` dosyasına aşinalık.
 
-## GroupDocs Conversion Java’yı Kurma
+## GroupDocs Conversion Java'ı Kurma
 
-Maven yapılandırmasını, gerekli GroupDocs kütüphanesini projenize ekleyecek şekilde `pom.xml` dosyanıza aşağıdakileri ekleyerek başlatın:
+GroupDocs Maven bağımlılığını `pom.xml` dosyanıza ekleyin:
+
+```xml
+<dependency>
+    <groupId>com.groupdocs</groupId>
+    <artifactId>groupdocs-conversion</artifactId>
+    <version>25.2</version>
+</dependency>
+```
+
+**Lisans Edinme:** Ücretsiz bir deneme alabilir, tam işlevsellik için geçici bir lisans talep edebilir veya GroupDocs Conversion özelliklerinin tamamının kilidini açmak için kalıcı bir lisans satın alabilirsiniz.
+
+Java projeniz bu bağımlılıklarla doğru şekilde bağlandıktan sonra, CAD dosyalarını dönüştürmeye hazırsınız!
 
 ```xml
 <repositories>
@@ -61,15 +110,20 @@ Maven yapılandırmasını, gerekli GroupDocs kütüphanesini projenize ekleyece
 </dependencies>
 ```
 
-**Lisans Edinme:** Ücretsiz deneme alabilir, tam işlevsellik için geçici bir lisans talep edebilir veya GroupDocs Conversion özelliklerinin tamamının kilidini açmak üzere kalıcı bir lisans satın alabilirsiniz.
+## CAD'i Özel Boyutlarla TIFF'e Nasıl Dönüştürürsünüz?
 
-Java projeniz bu bağımlılıklarla doğru şekilde bağlandıktan sonra CAD dosyalarını dönüştürmeye hazırsınız!
+CAD dosyalarını kesin boyutlarla TIFF'e dönüştürmek, kaynak çizimi yüklemeyi, render seçeneklerini yapılandırmayı ve dönüşüm API'sini çağırmayı içerir. Genişlik ve yüksekliği ayarlama, TIFF'i çıktı formatı olarak seçme ve dönüşümü yürütme adımlarını izleyerek, oluşturulan görüntünün sonraki uygulamalarınızın tam boyut gereksinimlerini karşıladığından ve orijinal çizimin detay ve kalitesini koruduğundan emin olursunuz.  
 
-## Adım‑Adım Kılavuz
+1. **Gerekli sınıfları içe aktarın** (aşağıdaki adım‑adım bakınız).  
+2. **Bir `CadLoadOptions` örneği oluşturun** ve `width` ve `height` değerlerini hedef boyutlarınıza ayarlayın.  
+3. **`ImageConvertOptions`'ı örnekleyin**, `ImageFileType.Tiff` belirterek.  
+4. **`Converter` nesnesi üzerinde `convert` metodunu çağırın**, kaynak yolu, yükleme seçenekleri ve dönüşüm seçeneklerini geçerek.
 
-### Özel Boyutlarla CAD Belgelerini Yükleme (Boyutları Nasıl Ayarlamalıyız)
+### Özel Boyutlarla CAD Belgelerini Yükleme (Boyutları Nasıl Ayarlarsınız)
 
-**Genel Bakış:** Bu adım, *CAD'i nasıl dönüştüreceğinizi* gösterirken tam olarak ihtiyacınız olan genişlik ve yüksekliği belirlemenizi sağlar.
+`CadLoadOptions` sınıfı, GroupDocs'a çizimi dönüşümden önce nasıl rasterleştireceğini söyler.
+
+`CadLoadOptions`, CAD dosyaları için genişlik, yükseklik ve DPI gibi render parametrelerini tanımlayan yapılandırma nesnesidir.
 
 #### Adım 1: Gerekli Kütüphaneleri İçe Aktarın
 ```java
@@ -87,73 +141,79 @@ loadOptions.setWidth(1920); // Specify the desired width in pixels
 loadOptions.setHeight(1080); // Specify the desired height in pixels
 Converter converter = new Converter(sourceDocumentPath, () -> loadOptions);
 ```
-*Açıklama:* `CadLoadOptions` yapılandırmasıyla **groupdocs conversion java**’ya CAD çizimini 1920 × 1080 pikselde rasterleştirmesini söylersiniz; bundan sonraki işlemler bu boyutta gerçekleşir.
+*Açıklama:* `CadLoadOptions` yapılandırarak, **GroupDocs Conversion Java**'ya CAD çizimini daha sonraki işleme geçmeden önce 1920 × 1080 pikselde rasterleştirmesini söylersiniz.
 
-### CAD'yi TIFF Görüntüsüne Dönüştürme (CAD'yi TIFF'e Dönüştür)
+### CAD'i TIFF Görüntüsüne Dönüştürme (CAD'i TIFF'e Dönüştürme)
 
-**Genel Bakış:** CAD dosyanızı özel boyutlarla yükledikten sonra doğrudan bir TIFF görüntüsüne dönüştürebilirsiniz.
+`ImageConvertOptions`, kütüphaneyi belirttiğiniz ayarlarla bir TIFF dosyası üretmeye yönlendirir.
 
-#### Adım 3: Dönüştürme Seçeneklerini Yapılandırın
+`ImageConvertOptions`, çıktı formatı, çözünürlük ve sıkıştırma seviyesi dahil olmak üzere tüm görüntü‑özel dönüşüm parametrelerini kapsar.
+
+#### Adım 3: Dönüşüm Seçeneklerini Yapılandırın
 ```java
 String convertedFilePath = "YOUR_OUTPUT_DIRECTORY/ConvertCadAndSpecifyWidthAndHeight.tiff";
 ImageConvertOptions options = new ImageConvertOptions();
 options.setFormat(ImageFileType.Tiff); // Set the conversion target to TIFF format
 ```
 
-#### Adım 4: Dönüştürmeyi Gerçekleştirin
+#### Adım 4: Dönüşümü Gerçekleştirin
 ```java
 converter.convert(convertedFilePath, options);
 ```
-*Açıklama:* `ImageFileType.Tiff` ayarı, **groupdocs conversion java**’nın daha önce tanımladığınız genişlik ve yüksekliği koruyan yüksek kaliteli bir TIFF dosyası üretmesini sağlar.
+*Açıklama:* `ImageFileType.Tiff` ayarlamak, **GroupDocs Conversion Java**'ya daha önce tanımladığınız genişlik ve yüksekliği koruyan yüksek kalite bir TIFF dosyası üretmesini sağlar.
 
-## Sorun Giderme İpuçları & Yaygın Tuzaklar
-- **Dosya Yolu Sorunları:** Hem kaynak hem de hedef yollarının doğru olduğundan ve uygulamanın okuma/yazma izinlerine sahip olduğundan emin olun.  
-- **Desteklenmeyen Formatlar:** CAD dosyasının desteklenen formatlardan (DWG, DGN, DXF vb.) biri olduğundan emin olun.  
-- **Bellek Kısıtlamaları:** Büyük çizimler JVM yığın boyutunun artırılmasını gerektirebilir (`-Xmx2g` veya daha yüksek).  
-- **Kalite Endişeleri:** Varsayılan DPI yeterli gelmezse `ImageConvertOptions` çözünürlük ayarlarını değiştirin.  
+## Sorun Giderme İpuçları ve Yaygın Tuzaklar
+- **Dosya Yolu Sorunları:** Kaynak ve hedef yollarının doğru olduğundan ve uygulamanın okuma/yazma izinlerine sahip olduğundan emin olun.  
+- **Desteklenmeyen Formatlar:** CAD dosyasının desteklenen formatlardan (DWG, DGN, DXF, vb.) biri olduğundan emin olun.  
+- **Bellek Kısıtlamaları:** Büyük çizimler, JVM yığın boyutunu (`-Xmx2g` veya daha yüksek) artırmayı gerektirebilir.  
+- **Kalite Endişeleri:** Varsayılan DPI kalite standartlarınızı karşılamıyorsa, `ImageConvertOptions` çözünürlük ayarlarını değiştirin.
 
 ## Pratik Uygulamalar
 1. **Mimari Görselleştirme:** Kat planlarını yüksek çözünürlüklü sunumlar için TIFF olarak dışa aktarın.  
-2. **Mühendislik Dokümantasyonu:** Teknik kılavuzlarda kullanılmak üzere standartlaştırılmış görüntüler üretin.  
-3. **Otomatik Raporlama:** CI hattı üzerinden PDF veya HTML raporlarına CAD‑türevi TIFF'leri gömün.  
+2. **Mühendislik Dokümantasyonu:** Teknik kılavuzlara eklemek için standartlaştırılmış görüntüler oluşturun.  
+3. **Otomatik Raporlama:** CI boru hattı aracılığıyla CAD türetilmiş TIFF'leri PDF veya HTML raporlarına gömün.
 
 ## Performans Düşünceleri
-- **Bellek Kullanımını Optimize Edin:** Dönüştürmeden sonra `Converter` örneğini serbest bırakın (`converter.close()` gerekiyorsa).  
-- **Toplu İşleme:** Bir dizi CAD dosyası üzerinde döngü kurun ve tek bir `Converter` yapılandırmasını yeniden kullanarak ek yükü azaltın.  
-- **Güncel Kalın:** Performans iyileştirmeleri ve hata düzeltmelerinden yararlanmak için GroupDocs Conversion Java’nın en yeni sürümüne düzenli olarak yükseltin.  
-
-## Sonuç
-Bu kılavuzu izleyerek **CAD dosyalarını** özel boyutlarla **TIFF**'e **groupdocs conversion java** kullanarak nasıl dönüştüreceğinizi öğrendiniz. Bu yetenek, sunumlar, dokümantasyon veya otomatik hatlar gibi kesin görüntü boyutlaması gerektiren iş akışlarını kolaylaştırır.  
-
-**Sonraki adımlar:** PDF, PNG veya SVG gibi ek dönüşüm seçeneklerini keşfedin ve dönüşüm mantığını mevcut Java servislerinize entegre ederek uçtan‑uca otomasyonu sağlayın.
+- **Bellek Kullanımını Optimize Et:** Dönüşüm sonrası `Converter` örneğini serbest bırakın (`converter.close()` uygulanabilir ise).  
+- **Toplu İşleme:** CAD dosyaları listesini döngüye alıp tek bir `Converter` yapılandırmasını yeniden kullanarak ek yükü azaltın.  
+- **Güncel Kalın:** Performans iyileştirmeleri ve hata düzeltmelerinden yararlanmak için düzenli olarak en son GroupDocs Conversion Java sürümüne yükseltin.
 
 ## Sıkça Sorulan Sorular
 
 **S:** GroupDocs Conversion hangi dosya formatlarını destekliyor?  
-**C:** 100'den fazla formatı, DXF gibi CAD dosyalarının yanı sıra yaygın görüntü, belge ve arşiv türleri de**C:** Evet—her dosya için yeni bir `Converter` oluşturabilir veya farklı kaynak yolları ile aynı örneği yeniden kullanabilirsiniz.
+**C:** 110'dan fazla formatı destekler, DWG, DGN, DXF gibi CAD dosyaları ve yaygın görüntü, belge ve arşiv türlerini içerir.
+
+**S:** Aynı anda birden fazla CAD dosyasını dönüştürebilir miyim?  
+**C:** Evet—her dosya için yeni bir `Converter` oluşturan basit bir döngü uygulayın veya farklı kaynak yolları ile aynı örneği yeniden kullanın.
 
 **S:** Dönüşüm sırasında büyük dosya boyutlarıyla nasıl başa çıkılır?  
-**C:** JVM yığın boyutunu artırın, dosyaları daha küçük partüphanenin sunduğu akış (streaming) seçeneklerini kullanın.
+**C:** JVM yığın boyutunu artırın, dosyaları daha küçük partilerde işleyin veya kütüphanenin sağladığı akış seçeneklerini kullanın.
 
 **S:** Çıktı görüntü kalitesi tatmin edici değilse ne yapmalıyım?  
-**C:** `ImageConvertOptions` içinde DPI veya ölçekleme ayarlarını değiştirerek çözünürlüğü artırın.
+**C:** Çözünürlüğü artırmak için `ImageConvertOptions` içinde DPI veya ölçekleme ayarlarını değiştirin.
 
-**S:** Sorun yaşarsam destek alabilir miyim?  
-**C:** GroupDocs kapsamlı dokümantasyon, topluluk forumları ve lisanslı müşteriler için doğrudan destek sunar.
+**S:** Sorunlarla karşılaşırsam destek mevcut mu?  
+**C:** GroupDocs, kapsamlı belgeler, topluluk forumları ve lisanslı müşteriler için doğrudan destek sunar.
 
 ## Kaynaklar
-- [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/)
-- [API Reference](https://reference.groupdocs.com/conversion/java/)
-- [Download Latest Release](https://releases.groupdocs.com/conversion/java/)
-- [Purchase Licenses](https://purchase.groupdocs.com/buy)
-- [Free Trial Access](https://releases.groupdocs.com/conversion/java/)
-- [Temporary License Request](https://purchase.groupdocs.com/temporary-license/)
-- [Support Forum](https://forum.groupdocs.com/c/conversion/10)
+- [GroupDocs Belgeleri](https://docs.groupdocs.com/conversion/java/)
+- [API Referansı](https://reference.groupdocs.com/conversion/java/)
+- [En Son Sürümü İndir](https://releases.groupdocs.com/conversion/java/)
+- [Lisans Satın Al](https://purchase.groupdocs.com/buy)
+- [Ücretsiz Deneme Erişimi](https://releases.groupdocs.com/conversion/java/)
+- [Geçici Lisans Talebi](https://purchase.groupdocs.com/temporary-license/)
+- [Destek Forumu](https://forum.groupdocs.com/c/conversion/10)
 
 ---
 
-**Son Güncelleme:** 2026-01-26  
-**Test Edilen Sürüm:** GroupDocs Conversion Java 25.2  
+**Son Güncelleme:** 2026-07-24  
+**Test Edilen:** GroupDocs Conversion Java 25.2  
 **Yazar:** GroupDocs  
 
 ---
+
+## İlgili Eğitimler
+
+- [convert cad pdf java – CAD Formatları Dönüştürme Eğitimleri için GroupDocs.Conversion Java](/conversion/java/cad-formats/)
+- [convert pdf to jpg java using GroupDocs.Conversion – Kılavuz](/conversion/java/document-operations/convert-pdf-to-jpg-groupdocs-java/)
+- [GroupDocs.Conversion Java için Lisans Nasıl Ayarlanır - Adım‑Adım Kılavuz](/conversion/java/getting-started/groupdocs-conversion-java-license-setup-file-path/)

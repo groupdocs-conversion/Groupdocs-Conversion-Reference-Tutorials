@@ -1,47 +1,96 @@
 ---
-date: '2026-01-26'
-description: تعلم كيفية تحويل ملفات CAD إلى TIFF بأبعاد مخصصة باستخدام GroupDocs Conversion Java،
-  مكتبة تحويل الصور الرائدة في Java. دليل خطوة بخطوة.
+date: '2026-07-24'
+description: 'تحويل الصور باستخدام Java أصبح سهلًا: تعلم كيفية تحويل ملفات CAD إلى
+  TIFF بأبعاد مخصصة باستخدام GroupDocs Conversion Java. دليل Step‑by‑step للمطورين.'
 keywords:
-- CAD Conversion
-- TIFF Image
-- Custom Dimensions
-- GroupDocs.Conversion Java
-title: 'تحويل CAD إلى TIFF بأبعاد مخصصة باستخدام GroupDocs Conversion Java: دليل شامل'
+- java image conversion
+- custom width height
+- set image dimensions java
+lastmod: '2026-07-24'
+og_description: تحويل الصور باستخدام Java أصبح سهلًا. قم بتحويل ملفات CAD إلى صور
+  TIFF high‑quality بأبعاد custom width و custom height باستخدام GroupDocs Conversion
+  Java. تابع دليلنا التفصيلي.
+og_image_alt: 'Guide: Convert CAD to TIFF with custom dimensions using GroupDocs Conversion
+  Java'
+og_title: 'تحويل الصور باستخدام Java: CAD إلى TIFF مع Custom Dimensions'
+schemas:
+- author: GroupDocs
+  dateModified: '2026-07-24'
+  description: 'Java image conversion made easy: learn how to convert CAD files to
+    TIFF with custom dimensions using GroupDocs Conversion Java. Step‑by‑step guide
+    for developers.'
+  headline: 'Java Image Conversion: CAD to TIFF with Custom Dimensions'
+  type: TechArticle
+- questions:
+  - answer: GroupDocs Conversion Java, a robust Java image conversion library.
+    question: What library should I use for Java image conversion?
+  - answer: Use `CadLoadOptions` and specify `setWidth()` and `setHeight()`.
+    question: How do I set custom dimensions for a CAD file?
+  - answer: Yes—load the CAD, set dimensions, then convert with `ImageConvertOptions`.
+    question: Can I convert DWG to TIFF in one step?
+  - answer: A free trial works for evaluation; a full license unlocks all features.
+    question: Do I need a license?
+  - answer: Any Java 8+ runtime is supported.
+    question: What Java version is required?
+  type: FAQPage
+tags:
+- convert CAD
+- GroupDocs Conversion
+- Java image conversion
+- TIFF
+- CAD processing
+title: 'تحويل الصور باستخدام Java: CAD إلى TIFF مع Custom Dimensions'
 type: docs
 url: /ar/java/cad-formats/cad-conversion-tiff-custom-dimensions-groupdocs-java/
 weight: 1
 ---
 
-# تحويل CAD إلى TIFF بأبعاد مخصصة باستخدام GroupDocs Conversion Java: دليل شامل
+# تحويل الصور بجافا: CAD إلى TIFF بأبعاد مخصصة
 
-تحويل ملفات CAD إلى صور TIFF عالية الجودة يمكن أن يكون تحديًا، خاصة عندما تحتاج إلى أبعاد محددة مخصصة لتطبيقاتك. باستخدام **groupdocs conversion java**، يصبح هذا العملية سلسة وفعّالة. سواء كنت تعمل على تصاميم معمارية أو مخططات هندسية، فإن تحويل هذه المستندات إلى صيغة TIFF مع إعدادات دقيقة للعرض والارتفاع لا يقدر بثمن.
+إذا كنت بحاجة إلى تحويل رسومات CAD إلى صور TIFF عالية الدقة مع التحكم في العرض والارتفاع بالبكسل بدقة، فإن **java image conversion** هو المفتاح. باستخدام GroupDocs Conversion Java، يمكنك تحويل أي تنسيق CAD مدعوم (DWG، DGN، DXF، إلخ) إلى ملف TIFF يتناسب تمامًا مع التقارير أو البوابات الإلكترونية أو تخطيطات الطباعة. يوضح هذا الدليل كل خطوة — من إعداد المشروع إلى التحويل النهائي — بحيث يمكنك دمج العملية في أي سير عمل مبني على جافا.
 
 ## إجابات سريعة
-- **ما المكتبة التي يجب استخدامها لتحويل الصور في Java؟** GroupDocs Conversion Java، مكتبة تحويل صور جافا قوية.  
-- **كيف يمكنني تعيين أبعاد مخصصة لملف CAD؟** استخدم `CadLoadOptions` وحدد `setWidth()` و `setHeight()`.  
-- **هل يمكنني تحويل DWG إلى TIFF في خطوة واحدة؟** نعم—قم بتحميل ملف CAD، عيّن الأبعاد، ثم حوّل باستخدام `ImageConvertOptions`.  
+- **ما المكتبة التي يجب استخدامها لتحويل الصور بجافا؟** GroupDocs Conversion Java، مكتبة تحويل صور جافا قوية.  
+- **كيف يمكن ضبط أبعاد مخصصة لملف CAD؟** استخدم `CadLoadOptions` وحدد `setWidth()` و `setHeight()`.  
+- **هل يمكن تحويل DWG إلى TIFF في خطوة واحدة؟** نعم — حمّل ملف CAD، اضبط الأبعاد، ثم حوّل باستخدام `ImageConvertOptions`.  
 - **هل أحتاج إلى ترخيص؟** الإصدار التجريبي المجاني يكفي للتقييم؛ الترخيص الكامل يفتح جميع الميزات.  
-- **ما نسخة Java المطلوبة؟** أي بيئة تشغيل Java 8+ مدعومة.
+- **ما نسخة جافا المطلوبة؟** أي بيئة تشغيل Java 8+ مدعومة.
 
 ## ما هو GroupDocs Conversion Java؟
-GroupDocs Conversion Java هي مكتبة **java image conversion library** قوية تدعم أكثر من 100 تنسيق ملف، بما في ذلك رسومات CAD (DWG، DGN) والصور النقطية مثل TIFF. تتعامل مع عملية العرض، التحجيم، وإعدادات خاصة بالصيغة، مما يجعلها مثالية لمهام “كيفية تحويل CAD” مع تحكم دقيق في أبعاد النتيجة.
+مكتبة `GroupDocs Conversion Java` هي حل **java image conversion** يدعم أكثر من 110 صيغة إدخال وإخراج، بما في ذلك جميع أنواع CAD والصور النقطية الرئيسية.  
+فئة `Converter` هي المكوّن الأساسي الذي يطلق عمليات تحويل الملفات.  
+توفر هذه الفئة عرضًا من جانب الخادم، وتكبيرًا، وخيارات خاصة بالصيغة، مما يتيح للمطورين تحويل الملفات دون الحاجة إلى تثبيت عارضات طرف ثالث.
 
 ## لماذا تحويل CAD إلى TIFF بأبعاد مخصصة؟
-- **الحفاظ على التفاصيل:** يحتفظ TIFF بمعلومات المتجه عالية الدقة عند تحويلها إلى نقطية بالحجم الذي تحتاجه.  
-- **تخطيطات متسقة:** تحديد العرض والارتفاع يضمن أن الصورة تتناسب تمامًا مع التقارير أو البوابات أو تخطيطات الطباعة.  
-- **التوافق عبر الأنظمة:** ملفات TIFF مدعومة على نطاق واسع عبر أنظمة التشغيل وأدوات التصميم.
+ضبط العرض والارتفاع بدقة يضمن أن ملف TIFF الناتج يتناسب مع قيود التخطيط المحددة للأنظمة اللاحقة. من خلال تعريف أبعاد البكسل قبل التحويل النقطي، تتجنب تشوهات التكبير اللاحقة، وتحافظ على تناسق وزن الخطوط، وتضمن دمج الصورة بسلاسة في ملفات PDF أو صفحات الويب أو المواد المطبوعة دون معالجة إضافية. يسهّل هذا النهج أيضًا خطوط الأنابيب الآلية حيث يجب أن تتطابق كل صورة مع مواصفات حجم محددة مسبقًا.
+
+- **يحافظ على الدقة البصرية:** التحويل النقطي بدقة 1920 × 1080 px (أو أي حجم تختاره) يحافظ على وضوح الخطوط والتظليل.  
+- **يضمن تخطيطات متسقة:** تُدمج الصور بسهولة في ملفات PDF، صفحات HTML، أو قوالب الطباعة دون الحاجة إلى تعديل حجم إضافي.  
+- **يعزز التوافق:** يُقبل تنسيق TIFF عالميًا عبر Windows و macOS و Linux ومعظم أدوات التصميم، مما يقلل من مشاكل تحويل الصيغ.
 
 ## المتطلبات المسبقة
-قبل أن تبدأ، تأكد من وجود ما يلي:
+قبل البدء، تأكد من وجود ما يلي:
 
-1. **GroupDocs Conversion Java** الإصدار 25.2 أو أحدث (يوصى بأحدث إصدار).  
-2. بيئة تطوير Java مثل IntelliJ IDEA أو Eclipse.  
-3. تثبيت Maven لإدارة التبعيات.  
-4. معرفة أساسية ببرمجة Java وإلمام بملف `pom.xml` الخاص بـ Maven.
+1. **GroupDocs Conversion Java** الإصدار 25.2 أو أحدث (يفضل أحدث إصدار).  
+2. بيئة تطوير جافا مثل IntelliJ IDEA أو Eclipse.  
+3. Maven مثبت لإدارة الاعتمادات.  
+4. معرفة أساسية ببرمجة جافا وإلمام بملف `pom.xml` الخاص بـ Maven.  
 
 ## إعداد GroupDocs Conversion Java
-لبدء العمل، قم بتكوين Maven لتضمين مكتبة GroupDocs اللازمة بإضافة ما يلي إلى ملف `pom.xml` الخاص بك:
+
+أضف اعتماد Maven الخاص بـ GroupDocs إلى ملف `pom.xml` الخاص بك:
+
+```xml
+<dependency>
+    <groupId>com.groupdocs</groupId>
+    <artifactId>groupdocs-conversion</artifactId>
+    <version>25.2</version>
+</dependency>
+```
+
+**اكتساب الترخيص:** يمكنك الحصول على نسخة تجريبية مجانية، أو طلب ترخيص مؤقت للوظائف الكاملة، أو شراء ترخيص دائم لفتح جميع ميزات GroupDocs Conversion.
+
+بمجرد ربط مشروع جافا الخاص بك بهذه الاعتمادات بشكل صحيح، تكون جاهزًا لبدء تحويل ملفات CAD!
 
 ```xml
 <repositories>
@@ -60,14 +109,20 @@ GroupDocs Conversion Java هي مكتبة **java image conversion library** قو
 </dependencies>
 ```
 
-**الحصول على الترخيص:** يمكنك الحصول على نسخة تجريبية مجانية، طلب ترخيص مؤقت للوظائف الكاملة، أو شراء ترخيص دائم لفتح جميع ميزات GroupDocs Conversion.
+## كيفية تحويل CAD إلى TIFF بأبعاد مخصصة؟
 
-بمجرد ربط مشروع Java الخاص بك بهذه التبعيات بشكل صحيح، ستكون جاهزًا لبدء تحويل ملفات CAD!
+يتضمن تحويل ملفات CAD إلى TIFF بأبعاد دقيقة تحميل الرسم المصدر، تكوين خيارات العرض، ثم استدعاء واجهة برمجة التحويل. باتباع تسلسل خطي — ضبط العرض والارتفاع، اختيار TIFF كصيغة إخراج، وتنفيذ التحويل — تضمن أن الصورة المولدة تتطابق مع المتطلبات الدقيقة لتطبيقاتك اللاحقة، مع الحفاظ على تفاصيل وجودة الرسم الأصلي.
 
-## دليل خطوة بخطوة
+1. **استيراد الفئات المطلوبة** (انظر الخطوات التفصيلية أدناه).  
+2. **إنشاء كائن `CadLoadOptions`** وضبط `width` و `height` إلى الأبعاد المستهدفة.  
+3. **إنشاء كائن `ImageConvertOptions`**، مع تحديد `ImageFileType.Tiff`.  
+4. **استدعاء طريقة `convert`** على كائن `Converter`، مع تمرير مسار المصدر، خيارات التحميل، وخيارات التحويل.
 
-### تحميل مستندات CAD بأبعاد مخصصة (كيفية تعيين الأبعاد)
-**نظرة عامة:** تُظهر هذه الخطوة *كيفية تحويل CAD* مع تحديد العرض والارتفاع الدقيقين الذين تحتاجهما.
+### تحميل مستندات CAD بأبعاد مخصصة (كيفية ضبط الأبعاد)
+
+تخبر فئة `CadLoadOptions` GroupDocs كيفية تحويل الرسم إلى نقط قبل التحويل.
+
+`CadLoadOptions` هو كائن التكوين الذي يحدد معلمات العرض مثل العرض، الارتفاع، و DPI لملفات CAD.
 
 #### الخطوة 1: استيراد المكتبات الضرورية
 ```java
@@ -85,10 +140,13 @@ loadOptions.setWidth(1920); // Specify the desired width in pixels
 loadOptions.setHeight(1080); // Specify the desired height in pixels
 Converter converter = new Converter(sourceDocumentPath, () -> loadOptions);
 ```
-*شرح:* من خلال تكوين `CadLoadOptions`، تخبر **groupdocs conversion java** ب rasterize (تحويل إلى نقطية) رسم CAD بحجم 1920 × 1080 بكسل قبل أي معالجة أخرى.
+*شرح:* من خلال تكوين `CadLoadOptions`، تخبر **GroupDocs Conversion Java** ب rasterize رسم CAD بدقة 1920 × 1080 بكسل قبل أي معالجة إضافية.
 
 ### تحويل CAD إلى صورة TIFF (Convert CAD to TIFF)
-**نظرة عامة:** بعد تحميل ملف CAD بالأبعاد المخصصة، يمكنك تحويله مباشرةً إلى صورة TIFF.
+
+`ImageConvertOptions` يوجه المكتبة لإنتاج ملف TIFF بالإعدادات التي تحددها.
+
+`ImageConvertOptions` يجمع جميع معلمات التحويل الخاصة بالصورة، بما في ذلك صيغة الإخراج، الدقة، ومستوى الضغط.
 
 #### الخطوة 3: تكوين خيارات التحويل
 ```java
@@ -101,41 +159,37 @@ options.setFormat(ImageFileType.Tiff); // Set the conversion target to TIFF form
 ```java
 converter.convert(convertedFilePath, options);
 ```
-*شرح:* تعيين `ImageFileType.Tiff` يوجه **groupdocs conversion java** لإنتاج ملف TIFF عالي الجودة يحترم العرض والارتفاع المحددين مسبقًا.
+*شرح:* ضبط `ImageFileType.Tiff` يوجه **GroupDocs Conversion Java** لإنتاج ملف TIFF عالي الجودة يحترم العرض والارتفاع المحددين مسبقًا.
 
 ## نصائح استكشاف الأخطاء الشائعة ومواطن الأخطاء المتكررة
-- **مشكلات مسار الملف:** تحقق من صحة مسارات المصدر والوجهة وأن التطبيق يمتلك صلاحيات القراءة/الكتابة.  
+- **مشكلات مسار الملف:** تأكد من صحة مسارات المصدر والوجهة وأن التطبيق يمتلك صلاحيات القراءة/الكتابة.  
 - **الصيغ غير المدعومة:** تأكد من أن ملف CAD هو أحد الصيغ المدعومة (DWG، DGN، DXF، إلخ).  
-- **قيود الذاكرة:** قد تتطلب الرسومات الكبيرة زيادة حجم heap في JVM (`-Xmx2g` أو أعلى).  
-- **مشكلات الجودة:** عدّل إعدادات الدقة في `ImageConvertOptions` إذا لم يلبي DPI الافتراضي معايير الجودة المطلوبة.
+- **قيود الذاكرة:** قد تتطلب الرسومات الكبيرة زيادة حجم heap الخاص بـ JVM (`-Xmx2g` أو أعلى).  
+- **مشكلات الجودة:** عدّل إعدادات الدقة في `ImageConvertOptions` إذا لم يلبِ DPI الافتراضي معايير الجودة المطلوبة.  
 
 ## تطبيقات عملية
 1. **تصور معماري:** تصدير مخططات الطوابق كملفات TIFF لعروض تقديمية عالية الدقة.  
-2. **توثيق هندسي:** إنشاء صور موحدة لإدراجها في الأدلة التقنية.  
-3. **تقارير آلية:** تضمين ملفات TIFF المستخرجة من CAD في تقارير PDF أو HTML عبر خط أنابيب CI.
+2. **توثيق هندسي:** إنشاء صور موحدة لإدراجها في الكتيبات التقنية.  
+3. **تقارير آلية:** دمج ملفات TIFF المستخرجة من CAD في تقارير PDF أو HTML عبر خط أنابيب CI.  
 
 ## اعتبارات الأداء
-- **تحسين استخدام الذاكرة:** حرّر كائن `Converter` بعد الانتهاء من التحويل (`converter.close()` إذا كان ذلك ممكنًا).  
-- **المعالجة الدفعية:** كرّر عبر قائمة ملفات CAD وأعد استخدام تكوين `Converter` واحد لتقليل الحمل.  
-- **البقاء محدثًا:** قم بترقية إلى أحدث إصدار من GroupDocs Conversion Java بانتظام للاستفادة من تحسينات الأداء وإصلاحات الأخطاء.
-
-## الخلاصة
-باتباعك لهذا الدليل، تعلمت **كيفية تحويل CAD** إلى TIFF بأبعاد مخصصة باستخدام **groupdocs conversion java**. هذه القدرة تُسهل سير العمل الذي يتطلب تحجيمًا دقيقًا للصور، سواءً للعروض التقديمية أو الوثائق أو خطوط الأنابيب الآلية.
-
-**الخطوات التالية:** استكشف خيارات تحويل إضافية مثل PDF، PNG، أو SVG، ودمج منطق التحويل في خدمات Java الحالية لتحقيق أتمتة شاملة من الطرف إلى الطرف.
+- **تحسين استخدام الذاكرة:** حرّر كائن `Converter` بعد الانتهاء من التحويل (`converter.close()` إذا كان ذلك مناسبًا).  
+- **معالجة دفعات:** كرّر عبر قائمة ملفات CAD وأعد استخدام تكوين `Converter` واحد لتقليل الحمل.  
+- **البقاء محدثًا:** قم بترقية GroupDocs Conversion Java إلى أحدث إصدار بانتظام للاستفادة من تحسينات الأداء وإصلاحات الأخطاء.  
 
 ## الأسئلة المتكررة
+
 **س:** ما صيغ الملفات التي يدعمها GroupDocs Conversion؟  
-**ج:** يدعم أكثر من 100 صيغة، بما في ذلك ملفات CAD مثل DWG، DGN، DXF، بالإضافة إلى صيغ الصور، المستندات، والأرشيف الشائعة.
+**ج:** يدعم أكثر من 110 صيغة، بما في ذلك ملفات CAD مثل DWG، DGN، DXF، بالإضافة إلى صيغ الصور، المستندات، والأرشيف الشائعة.
 
-**س:** هل يمكنني تحويل عدة ملفات CAD في آن واحد؟  
-**ج:** نعم—يمكنك تنفيذ حلقة بسيطة تنشئ كائن `Converter` جديد لكل ملف أو إعادة استخدام نفس الكائن مع مسارات مصدر مختلفة.
+**س:** هل يمكنني تحويل عدة ملفات CAD مرة واحدة؟  
+**ج:** نعم — نفّذ حلقة بسيطة تنشئ كائن `Converter` جديد لكل ملف أو أعد استخدام نفس الكائن مع مسارات مصدر مختلفة.
 
-**س:** كيف أتعامل مع أحجام الملفات الكبيرة أثناء التحويل؟  
-**ج:** زد حجم heap في JVM، عالج الملفات على دفعات أصغر، أو استخدم خيارات البث التي توفرها المكتبة.
+**س:** كيف أتعامل مع أحجام ملفات كبيرة أثناء التحويل؟  
+**ج:** زد حجم heap الخاص بـ JVM، عالج الملفات على دفعات أصغر، أو استخدم خيارات البث التي توفرها المكتبة.
 
 **س:** ماذا أفعل إذا لم تكن جودة الصورة الناتجة مرضية؟  
-**ج:** عدّل إعدادات DPI أو التحجيم في `ImageConvertOptions` لزيادة الدقة.
+**ج:** عدّل إعدادات DPI أو التكبير في `ImageConvertOptions` لزيادة الدقة.
 
 **س:** هل يتوفر دعم إذا واجهت مشاكل؟  
 **ج:** تقدم GroupDocs وثائق شاملة، منتديات مجتمع، ودعم مباشر للعملاء المرخصين.
@@ -151,8 +205,14 @@ converter.convert(convertedFilePath, options);
 
 ---
 
-**آخر تحديث:** 2026-01-26  
+**آخر تحديث:** 2026-07-24  
 **تم الاختبار مع:** GroupDocs Conversion Java 25.2  
 **المؤلف:** GroupDocs  
 
 ---
+
+## دروس ذات صلة
+
+- [convert cad pdf java – دروس تحويل صيغ CAD لـ GroupDocs.Conversion Java](/conversion/java/cad-formats/)
+- [convert pdf to jpg java باستخدام GroupDocs.Conversion – دليل](/conversion/java/document-operations/convert-pdf-to-jpg-groupdocs-java/)
+- [كيفية إعداد الترخيص لـ GroupDocs.Conversion Java - دليل خطوة بخطوة](/conversion/java/getting-started/groupdocs-conversion-java-license-setup-file-path/)
