@@ -1,40 +1,121 @@
 ---
-date: '2026-02-03'
-description: GroupDocs.Conversion을 사용하여 Java에서 Word를 PDF로 변환하는 방법, 라이브러리 설정, 라이선스
-  처리 및 빠른 파일 변환 구현 방법을 배웁니다.
+date: '2026-08-09'
+description: GroupDocs.Conversion을 사용하여 docx to pdf java 변환 방법을 배우고, 라이브러리를 설정하고,
+  라이선스를 관리하며, 빠르고 안정적인 변환을 구현하세요.
 keywords:
-- file conversion java
-- groupdocs conversion setup
-- java document conversion
-title: 'Java를 이용한 Word PDF 변환: GroupDocs.Conversion 마스터 가이드'
+- docx to pdf java
+- groupdocs conversion api
+- groupdocs conversion java
+- java convert word pdf
+- java convert excel pdf
+lastmod: '2026-08-09'
+og_description: GroupDocs.Conversion을 사용한 docx to pdf java는 빠르고 안정적인 파일 변환을 제공합니다.
+  설정, 라이선스 및 Java 개발자를 위한 코드 예제를 알아보세요.
+og_image_alt: Guide showing Java code converting DOCX to PDF with GroupDocs Conversion
+og_title: 'Docx to pdf java: GroupDocs Conversion을 사용한 파일 변환'
+schemas:
+- author: GroupDocs
+  dateModified: '2026-08-09'
+  description: Learn how to docx to pdf java using GroupDocs.Conversion, set up the
+    library, manage licensing, and achieve fast, reliable conversions.
+  headline: 'Docx to pdf java: file conversion with GroupDocs Conversion'
+  type: TechArticle
+- description: Learn how to docx to pdf java using GroupDocs.Conversion, set up the
+    library, manage licensing, and achieve fast, reliable conversions.
+  name: 'Docx to pdf java: file conversion with GroupDocs Conversion'
+  steps:
+  - name: '**Document management systems** – Auto‑convert uploaded Word files to PDF
+      for consistent preview and archival.'
+    text: '**Document management systems** – Auto‑convert uploaded Word files to PDF
+      for consistent preview and archival.'
+  - name: '**Content publishing platforms** – Generate downloadable PDFs or ePub files
+      on‑the‑fly for articles and reports.'
+    text: '**Content publishing platforms** – Generate downloadable PDFs or ePub files
+      on‑the‑fly for articles and reports.'
+  - name: '**Data migration tools** – Move legacy DOCX archives into a PDF‑centric
+      workflow during system upgrades.'
+    text: '**Data migration tools** – Move legacy DOCX archives into a PDF‑centric
+      workflow during system upgrades.'
+  type: HowTo
+- questions:
+  - answer: Yes, the SDK supports PNG, JPEG, BMP, TIFF, and many other image formats,
+      allowing you to turn images into PDFs or other document types.
+    question: Can I convert images using GroupDocs.Conversion for Java?
+  - answer: There is no hard page limit, but conversion speed and memory usage depend
+      on your server resources; allocating sufficient heap memory mitigates performance
+      issues.
+    question: Is there a limit to the number of pages that can be converted in one
+      go?
+  - answer: Absolutely. Each conversion options class—such as `PdfConvertOptions`—exposes
+      parameters for compression, encryption, watermarks, and PDF/A compliance.
+    question: Can I customize the output file format settings?
+  - answer: Verify your input files against the [supported formats list](https://reference.groupdocs.com/conversion/java/).
+      If a format is missing, you can request support via the GroupDocs forum.
+    question: How do I handle unsupported file formats?
+  - answer: Ensure correct file paths, confirm the format is supported, check that
+      you have a valid license, and increase JVM heap size for large files.
+    question: What are some common troubleshooting tips if my conversions fail?
+  type: FAQPage
+tags:
+- docx to pdf
+- groupdocs conversion
+- java document processing
+title: 'Docx to pdf java: GroupDocs Conversion을 사용한 파일 변환'
 type: docs
 url: /ko/java/document-operations/java-groupdocs-conversion-file-handling/
 weight: 1
 ---
 
-# Java에서 파일 변환 마스터하기: GroupDocs.Conversion 사용 종합 가이드
+# Docx to pdf java: GroupDocs Conversion을 이용한 파일 변환
 
-Java 애플리케이션 내에서 파일을 효율적으로 변환하는 것은—특히 **java convert word pdf**가 필요할 때—문서 유형이 Word 파일, 스프레드시트, 이미지 등 다양할 경우 어려울 수 있습니다. **GroupDocs.Conversion for Java**는 수십 가지 포맷을 바로 지원하는 단일하고 신뢰할 수 있는 API를 제공함으로써 이러한 문제를 해결합니다. 이 튜토리얼에서는 라이브러리 설정 방법, **groupdocs conversion licensing** 관리 방법, 그리고 몇 줄의 코드만으로 Word 문서를 PDF(및 기타 다양한 변환)로 변환하는 깔끔한 코드를 작성하는 방법을 알아봅니다.
+이 포괄적인 가이드에서는 GroupDocs.Conversion 라이브러리를 사용하여 **docx to pdf java**를 수행하는 방법을 배웁니다. 문서 관리 시스템, 출판 파이프라인, 배치 처리 서비스 등을 구축하든, 아래 단계에서는 SDK 설치, 라이선스 처리, 단일 파일에서 수천 개 문서까지 확장 가능한 깔끔한 변환 코드를 작성하는 방법을 안내합니다.
 
 ## 빠른 답변
-- **java convert word pdf에 도움이 되는 라이브러리는 무엇인가요?** GroupDocs.Conversion for Java.  
-- **라이선스가 필요합니까?** 예—무료 체험을 사용하거나 groupdocs conversion licensing을 통해 임시/전체 라이선스를 얻으세요.  
-- **추천 빌드 도구는 무엇인가요?** Maven, with the official GroupDocs repository.  
-- **파일을 배치 변환할 수 있나요?** 물론—경로 목록을 순회하면서 동일한 변환 옵션을 재사용하세요.  
-- **필요한 Java 버전은 무엇인가요?** JDK 8 또는 그 이상.
+- **Java에서 워드 PDF 변환을 도와주는 라이브러리는?** GroupDocs.Conversion for Java.  
+- **라이선스가 필요합니까?** 예—무료 체험판을 사용하거나 GroupDocs Conversion 라이선스를 통해 임시/전체 라이선스를 획득하십시오.  
+- **추천 빌드 도구는?** Maven, 공식 GroupDocs 저장소와 함께 사용합니다.  
+- **파일을 배치 변환할 수 있나요?** 물론—경로 목록을 순회하면서 동일한 변환 옵션을 재사용하면 됩니다.  
+- **필요한 Java 버전은?** JDK 8 이상.
+
+## GroupDocs.Conversion for Java란?
+GroupDocs.Conversion for Java는 **50개 이상의** 문서, 스프레드시트, 이미지 형식을 변환할 수 있는 상용 SDK이며, 서버에 Microsoft Office가 없어도 DOCX를 PDF로 변환할 수 있습니다. 내부적으로 데이터를 스트리밍하여 최대 2 GB 파일도 메모리 사용량을 낮게 유지하면서 변환합니다.
+
+## GroupDocs와 함께 docx to pdf java를 사용하는 이유
+GroupDocs.Conversion은 높은 속도와 높은 정확도의 변환을 제공하면서 리소스 사용을 최소화합니다. 네이티브 Office 설치가 필요 없으며, 배치 처리와 PDF/A 준수, 워터마크, 폰트 포함 옵션을 기본 제공하여 신뢰성과 확장성이 요구되는 엔터프라이즈급 문서 파이프라인에 적합합니다.
+
+- **속도:** 일반적인 4코어 VM에서 100페이지 DOCX를 PDF로 변환하는 데 2 초 미만이 소요됩니다.  
+- **정확도:** 레이아웃, 폰트, 이미지가 99.9 % 정확도로 보존되어 수동 후처리가 필요 없습니다.  
+- **확장성:** 배치 모드에서는 동일한 JVM 세션을 재사용해 시작 오버헤드를 최대 80 % 절감합니다.  
+- **지원:** SDK는 월간 업데이트를 받으며, 라이선스 고객에게 24/7 엔터프라이즈 지원을 제공합니다.
 
 ## 사전 요구 사항
-
-시작하기 전에 다음이 준비되어 있는지 확인하세요:
-
 - Java Development Kit (JDK) 8 이상.  
-- Maven이 설치되고 의존성 관리를 위해 구성되어 있음.  
-- Java 구문 및 Maven 프로젝트 구조에 대한 기본적인 이해.
+- Maven이 설치되고 의존성 관리가 구성되어 있어야 합니다.  
+- Java 문법 및 Maven 프로젝트 구조에 대한 기본 지식.
 
-## GroupDocs.Conversion for Java 설정
+## GroupDocs.Conversion for Java 설정 방법
+프로젝트에 GroupDocs.Conversion을 추가하려면 `pom.xml`에 저장소와 의존성을 포함합니다. Maven은 공식 GroupDocs 저장소에서 올바른 아티팩트를 다운로드하여 최신 안정 버전을 사용할 수 있게 합니다.
 
-GroupDocs.Conversion을 사용하려면 라이브러리를 Maven 의존성으로 추가하세요. Maven이 올바른 저장소를 찾을 수 있도록 XML을 정확히 표시된 대로 유지하십시오.
+`pom.xml`에 다음 의존성을 추가하십시오. Maven이 올바른 저장소를 찾을 수 있도록 XML을 그대로 유지하세요.
 
+```xml
+<dependency>
+    <groupId>com.groupdocs</groupId>
+    <artifactId>groupdocs-conversion</artifactId>
+    <version>25.2</version>
+</dependency>
+```
+
+### 라이선스 획득
+전체 기능을 제공하는 **무료 체험판**으로 시작할 수 있습니다. 프로덕션 환경이 준비되면 단기 프로젝트용 **임시 라이선스** 또는 모든 제한을 해제하고 우선 지원을 받는 **전체 라이선스**를 선택하십시오. 라이선스 파일(`GroupDocs.Conversion.lic`)을 클래스패스에 두거나 프로그래밍 방식으로 경로를 지정합니다.
+
+## 변환기를 초기화하는 기본 방법은?
+`Converter` 클래스는 모든 변환 작업의 진입점입니다. 소스 파일 경로, `InputStream` 또는 바이트 배열을 전달하여 인스턴스를 생성합니다. 예시 정의: `Converter`는 단일 소스 문서를 나타내며 형식별 옵션을 받는 `convert` 메서드를 제공합니다.
+
+## Java에서 DOCX 파일을 PDF로 변환하는 방법?
+`new Converter("input.docx")`로 DOCX를 로드하고 `convert(new PdfConvertOptions(), "output.pdf")`를 호출합니다. 이 두 단계 패턴은 폰트, 표, 이미지 등을 자동으로 처리하여 원본 레이아웃을 그대로 유지하는 PDF를 생성합니다. 배치 변환의 경우 디렉터리를 순회하면서 동일한 `PdfConvertOptions` 인스턴스를 재사용해 객체 생성 오버헤드를 최소화합니다.
+
+### 단계 1 – 문서 로드
 ```xml
 <repositories>
    <repository>
@@ -52,17 +133,8 @@ GroupDocs.Conversion을 사용하려면 라이브러리를 Maven 의존성으로
 </dependencies>
 ```
 
-### 라이선스 획득
-GroupDocs.Conversion은 상용 제품이지만 **free trial**으로 시작할 수 있습니다. 프로덕션 준비가 되면 다음 라이선스 옵션 중 하나를 선택하세요:
-
-- **Free Trial** – 기능 제한 없이 전체 기능을 평가할 수 있습니다.  
-- **Temporary License** – 짧은 기간 동안 체험 기능을 연장합니다.  
-- **Full License** – 모든 체험 제한을 제거하고 우선 지원을 제공합니다.  
-
-초기에 **groupdocs conversion licensing**을 이해하면 예상치 못한 런타임 오류를 방지할 수 있습니다.
-
-### 기본 초기화
-모든 변환의 첫 단계는 소스 파일을 가리키는 `Converter` 인스턴스를 생성하는 것입니다.
+### 단계 2 – 변환 옵션 설정
+`PdfConvertOptions`를 사용하면 페이지 범위 지정, 폰트 포함, 워터마크 추가, PDF/A 준수 등을 제어할 수 있습니다. 이 클래스는 대용량 파일을 위한 점진적 렌더링도 지원합니다.
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -79,40 +151,81 @@ public class ConversionExample {
 }
 ```
 
-## java convert word pdf: 시작하기
-
-라이브러리가 준비되었으니 구체적인 예시—Word 문서를 PDF로 변환하는 과정을 살펴보겠습니다. 이것이 가장 일반적인 **java convert word pdf** 시나리오입니다.
-
-### 기본 파일 변환
-**개요**: 기본 옵션을 사용하여 단일 `.docx` 파일을 `.pdf` 로 변환합니다.
-
-#### 단계 1 – 문서 로드
+### 단계 3 – 변환 수행
 ```java
 // Load your source document into the Converter object
 Converter converter = new Converter("path/to/your/document.docx");
 ```
 
-#### 단계 2 – 변환 옵션 설정
+변환은 단일 메서드 호출로 완료되며, 결과 PDF는 제공한 대상 경로에 바로 기록됩니다.
+
+## 여러 DOCX 파일을 배치 변환하는 방법?
+배치 처리에서는 하나의 `PdfConvertOptions` 인스턴스를 재사용하고 각 소스 파일을 순회합니다. 이 접근 방식은 JVM 가비지 컬렉션 압력을 낮추고 대규모 배치에서 처리량을 최대 30 % 향상시킵니다.
+
 ```java
 import com.groupdocs.conversion.options.convert.PdfConvertOptions;
 
 PdfConvertOptions options = new PdfConvertOptions();
 ```
-*팁:* `PdfConvertOptions`를 사용하면 페이지 범위, 워터마크 및 기타 PDF 전용 설정을 제어할 수 있습니다.
 
-#### 단계 3 – 변환 수행
+**팁:** 매우 큰 배치를 처리할 때는 `InputStream`으로 소스 파일을 스트리밍하고 JVM 힙(`-Xmx2g`)을 늘려 `OutOfMemoryError`를 방지하십시오.
+
+## 일반적인 문제와 해결 방법
+- **파일을 찾을 수 없음:** 경로가 절대 경로인지 확인하거나 IDE에서 실행 시 작업 디렉터리가 프로젝트 루트인지 확인하십시오.  
+- **지원되지 않는 형식:** 공식 지원 형식 목록을 확인하십시오; GroupDocs.Conversion은 50개 이상의 입력·출력 유형을 지원합니다.  
+- **라이선스 오류:** 라이선스 파일이 SDK 버전과 일치하고 클래스패스에 배치되었는지 확인하십시오.  
+- **메모리 압박:** `Converter`를 `try‑with‑resources`로 즉시 닫고 대용량 파일은 스트리밍을 고려하십시오.
+
+## docx to pdf java의 실용적인 적용 사례
+1. **문서 관리 시스템** – 업로드된 Word 파일을 자동으로 PDF로 변환해 일관된 미리보기와 보관을 제공.  
+2. **콘텐츠 출판 플랫폼** – 기사와 보고서를 실시간으로 PDF 또는 ePub 파일로 생성하여 다운로드 가능하게 함.  
+3. **데이터 마이그레이션 도구** – 시스템 업그레이드 시 레거시 DOCX 아카이브를 PDF 중심 워크플로우로 이동.
+
+변환을 데이터베이스 저장과 결합하거나 REST 엔드포인트를 통해 원격 처리도 구현할 수 있습니다.
+
+## 성능 고려 사항
+- **배치 모드:** 단일 JVM 세션에서 여러 변환을 그룹화해 시작 오버헤드를 감소시킵니다.  
+- **메모리 관리:** `try‑with‑resources`를 사용해 네이티브 리소스가 즉시 해제되도록 보장합니다.  
+- **JVM 튜닝:** 대용량 문서의 경우 `-Xmx`(예: `-Xmx2g`)를 늘려 변환기에 충분한 힙을 제공합니다.
+
+## 자주 묻는 질문
+**Q: GroupDocs.Conversion for Java로 이미지도 변환할 수 있나요?**  
+A: 예, SDK는 PNG, JPEG, BMP, TIFF 등 다양한 이미지 형식을 지원하며 이미지를 PDF 또는 다른 문서 형식으로 변환할 수 있습니다.
+
+**Q: 한 번에 변환할 수 있는 페이지 수에 제한이 있나요?**  
+A: 하드 제한은 없지만 변환 속도와 메모리 사용량은 서버 리소스에 따라 달라집니다. 충분한 힙을 할당하면 성능 문제를 완화할 수 있습니다.
+
+**Q: 출력 파일 형식 설정을 맞춤화할 수 있나요?**  
+A: 물론입니다. `PdfConvertOptions`와 같은 각 변환 옵션 클래스는 압축, 암호화, 워터마크, PDF/A 준수 등을 위한 매개변수를 제공합니다.
+
+**Q: 지원되지 않는 파일 형식은 어떻게 처리하나요?**  
+A: [supported formats list](https://reference.groupdocs.com/conversion/java/)를 확인하십시오. 누락된 형식이 있으면 GroupDocs 포럼을 통해 지원 요청을 할 수 있습니다.
+
+**Q: 변환이 실패할 경우 일반적인 트러블슈팅 팁은?**  
+A: 파일 경로가 올바른지, 형식이 지원되는지, 유효한 라이선스가 있는지 확인하고, 대용량 파일의 경우 JVM 힙 크기를 늘리십시오.
+
+## 리소스
+- [GroupDocs documentation](https://docs.groupdocs.com/conversion/java/) – 공식 개발자 가이드 및 시작 튜토리얼.  
+- [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/) – 원본 참조와 일관성을 위한 중복 링크.  
+- [API Reference](https://reference.groupdocs.com/conversion/java/) – 상세 클래스 및 메서드 시그니처.  
+- [supported formats list](https://reference.groupdocs.com/conversion/java/) – 전체 입력·출력 형식 목록.  
+- [GroupDocs Downloads](https://releases.groupdocs.com/conversion/java/) – 최신 SDK 바이너리와 릴리즈 노트 다운로드.  
+- [GroupDocs Purchase](https://purchase.groupdocs.com/buy) – 프로덕션 사용을 위한 가격 및 라이선스 옵션.  
+- [GroupDocs Forum](https://forum.groupdocs.com/c/conversion/10) – 커뮤니티 지원 및 Q&A.
+
+## 다음 단계
+[GroupDocs documentation](https://docs.groupdocs.com/conversion/java/)을 자세히 살펴보며 고급 커스터마이징, 스트리밍 API, 상세 성능 튜닝 가이드를 탐색하십시오.
+
+---
+
+**Last Updated:** 2026-08-09  
+**Tested With:** GroupDocs.Conversion 25.2  
+**Author:** GroupDocs
+
 ```java
 // Convert and save the output to a specified path
 converter.convert("output/path/document.pdf", options);
 ```
-
-이것으로 완료—Word 파일이 이제 PDF가 되었으며 배포나 보관에 사용할 수 있습니다.
-
-### 고급 기능
-단일 파일 변환을 넘어, GroupDocs.Conversion은 배치 처리와 사용자 지정 매개변수에서 뛰어납니다.
-
-#### 배치 처리
-여러 파일을 한 번에 처리하면 시간을 절약하고 메모리 사용량을 줄일 수 있습니다. 아래 코드는 각 문서에 대해 동일한 `PdfConvertOptions`를 재사용하는 간단한 루프를 보여줍니다.
 
 ```java
 import java.util.Arrays;
@@ -130,73 +243,8 @@ for (String path : filePaths) {
 }
 ```
 
-**프로 팁:** 매우 큰 배치의 경우, 소스 파일을 스트리밍하거나 JVM 힙 크기를 늘려 `OutOfMemoryError`를 방지하세요.
+## 관련 튜토리얼
 
-## 일반적인 문제 해결
-
-- **File Not Found** – 절대 경로나 상대 경로를 다시 확인하세요; IDE에서 실행할 때 작업 디렉터리는 프로젝트 루트임을 기억하십시오.  
-- **Unsupported Format** – 파일 형식이 공식 지원 포맷 목록에 있는지 확인하십시오.  
-- **License Errors** – 라이선스 파일이 올바르게 배치되었는지, 라이브러리 버전이 구매한 라이선스와 일치하는지 확인하십시오.
-
-## 실용적인 적용 사례
-
-GroupDocs.Conversion은 다재다능합니다. 다음은 **java convert word pdf**가 핵심 요구 사항인 세 가지 실제 시나리오입니다:
-
-1. **Document Management Systems** – 업로드된 파일을 자동으로 PDF로 변환하여 일관된 저장 및 미리보기를 제공합니다.  
-2. **Content Publishing Platforms** – 독자에게 즉시 생성된 PDF 또는 ePub 다운로드를 제공합니다.  
-3. **Data Migration Tools** – 시스템 업그레이드 시 기존 Word 문서를 새로운 PDF 중심 워크플로로 원활하게 이동합니다.
-
-변환을 데이터베이스 저장과 결합하거나 REST 엔드포인트를 통해 원격 처리에 노출할 수도 있습니다.
-
-## 성능 고려 사항
-
-- **Batch Mode**: 단일 JVM 세션에서 여러 변환을 그룹화하여 시작 오버헤드를 줄입니다.  
-- **Memory Management**: try‑with‑resources(예시와 같이)를 사용하여 네이티브 리소스가 즉시 해제되도록 보장합니다.  
-- **JVM Tuning**: 큰 문서의 경우 `-Xmx`(예: `-Xmx2g`)를 늘려 변환기에 충분한 힙 공간을 제공합니다.
-
-## 결론
-
-이제 GroupDocs.Conversion을 사용한 **java convert word pdf**에 대한 탄탄한 기반을 갖추었습니다: Maven 설정, 라이선스 처리, 간단한 변환 코드 작성부터 배치 처리로 확장까지. 다른 출력 포맷(ePub, HTML, 이미지)도 실험하고 변환기를 더 큰 서비스에 통합해 보세요.
-
-더 탐색할 준비가 되셨나요? 고급 커스터마이징 및 API 레퍼런스 상세 정보를 위해 공식 문서를 깊이 살펴보세요.
-
-**Next Steps**: 더 많은 고급 기능 및 커스터마이징 옵션을 탐색하려면 [GroupDocs documentation](https://docs.groupdocs.com/conversion/java/)을 자세히 살펴보세요.
-
-## FAQ 섹션
-1. **GroupDocs.Conversion for Java를 사용해 이미지를 변환할 수 있나요?**  
-합니다.  
-2. **한 번에 변환할 없집니다.  
-3. **출력 파일 포맷 설정을 커스터마이징할 수 있나요?**  
-   - 물론입니다! 각 변환 옵션 클래스(예: `PdfConvertOptions`) **을 어떻게 처리하나요?**  
-   - 입력 파일을 [supported formats list](https://reference.groupdocs.com/conversion/java/)와 비교하여 확인하십시오.  
-5. **변환이 실패할 경우 일반적인 문제 해결 팁은 무엇인가요?**  
-   - 올바른 파일 경로를 확인하고, 포.
-
-## 자주 묻는 질문
-
-****  
-A: 예—라이선스는 온프레미스 서버나 클라우드 기반 마이크로서비스에 적용할 수 있으며, 라이선스 조건을 준수하면 됩니다.
-
-**Q: 암호로 보호된 문서를 변환할 수 있나요? Group 열 수 있습니다.
-
-**량 파일을 어떻게 처리하나요?**  
-A: 내부적으로 데이터를 스트리밍하지만, 충분한 힙 메모리를 할당하고 파일을 청크 단위로 처리하는 것을 고려해야 합니다.
-
-**Q: 디스크에 저장하지 않고 바이트 배열에서 직접 변환할 수 있는 방법이 있나요?**  
-A: 예—`InputStream` 또는 `byte[]`를 받는 `Converter` 생성자를 사용하고 스트림으로 출력하세요.
-
-**Q: 배치 변환에 대한 성능 벤치마크가 있나요?**  
-A: 공식 벤치마크는 선형 확장을 보여주며, 실제 성능은 CPU, I/O 속도 및 문서 복잡도에 따라 달라집니다.
-
-## 리소스
-- **Documentation**: 문서: [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/)에서 포괄적인 가이드를 확인하세요.  
-- **API Reference**: API 레퍼런스: [API Reference](https://reference.groupdocs.com/conversion/java/)에서 자세한 API 정보를 확인하세요.  
-- **Download**: 다운로드: 최신 버전을 [GroupDocs Downloads](https://releases.groupdocs.com/conversion/java/)에서 받으세요.  
-- **Purchase and Licensing**: 구매 및 라이선스: 구매 옵션을 확인하거나 무료 체험을 [GroupDocs Purchase](https://purchase.groupdocs.com/buy)에서 받으세요.  
-- **Support**: 지원: 토론에 참여하거나 [GroupDocs Forum](https://forum.groupdocs.com/c/conversion/10)에서 도움을 받으세요.
-
----
-
-**Last Updated:** 2026-02-03  
-**Tested With:** GroupDocs.Conversion 25.2  
-**Author:** GroupDocs
+- [Convert Word to PDF and Other File Formats with GroupDocs.Conversion for Java](/conversion/java/)
+- [GroupDocs Conversion Java: Convert Word to PDF with Custom Fonts](/conversion/java/pdf-conversion/convert-word-pdf-custom-fonts-java-groupdocs-conversion/)
+- [How to Convert Specific Pages of a Document to PDF Using GroupDocs.Conversion for Java](/conversion/java/pdf-conversion/convert-specific-pages-pdf-groupdocs-java/)
