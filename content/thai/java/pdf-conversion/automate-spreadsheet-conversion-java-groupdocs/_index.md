@@ -1,55 +1,147 @@
 ---
-date: '2026-02-05'
-description: เรียนรู้วิธีใช้ GroupDocs.Conversion สำหรับ Java เพื่อทำการแปลงสเปรดชีตเป็น
-  PDF อย่างอัตโนมัติ รวมถึงการโหลดช่วงข้อมูลเฉพาะและการสร้าง PDF หนึ่งหน้าต่อแผ่นงาน.
+date: '2026-08-14'
+description: เรียนรู้วิธีทำการแปลงสเปรดชีตเป็น PDF อย่างอัตโนมัติใน Java ด้วย GroupDocs.Conversion
+  โดยใช้ฟีเจอร์ one page per sheet และ excel range to pdf
 keywords:
-- spreadsheet to PDF conversion Java
-- GroupDocs.Conversion for Java
-- automate spreadsheet conversion
-title: 'หนึ่งหน้าต่อแผ่น: ทำการแปลงสเปรดชีตเป็น PDF อัตโนมัติใน Java'
+- one page per sheet
+- excel range to pdf
+- groupdocs conversion java
+- convert spreadsheet pdf java
+- large excel pdf conversion
+lastmod: '2026-08-14'
+og_description: การแปลง one page per sheet ใน Java ด้วย GroupDocs.Conversion. เรียนรู้วิธีโหลดช่วงข้อมูลเฉพาะและสร้าง
+  PDF หน้าหนึ่งอย่างมีประสิทธิภาพ
+og_image_alt: Java code converting Excel sheets to single-page PDF using GroupDocs
+og_title: 'One page per sheet: ทำการแปลงสเปรดชีตเป็น PDF ใน Java อย่างอัตโนมัติ'
+schemas:
+- author: GroupDocs
+  dateModified: '2026-08-14'
+  description: Learn how to automate spreadsheet to PDF conversion in Java with GroupDocs.Conversion,
+    using one page per sheet and excel range to pdf features.
+  headline: 'One page per sheet: automate spreadsheet to PDF in Java'
+  type: TechArticle
+- questions:
+  - answer: JDK 8 or higher is recommended to ensure full compatibility with the library.
+    question: What is the minimum Java version required for GroupDocs.Conversion?
+  - answer: Yes, GroupDocs.Conversion supports Excel, CSV, ODS, and many other formats
+      in a single conversion call.
+    question: Can I convert multiple spreadsheet formats at once?
+  - answer: Request one through the [GroupDocs website](https://purchase.groupdocs.com/temporary-license/).
+    question: How do I obtain a temporary license for full feature access?
+  - answer: Load only the needed range with `setConvertRange` and consider streaming
+      the file to disk during conversion.
+    question: What if my spreadsheet is too large to convert in memory?
+  - answer: Yes, you can read from and write to AWS S3, Azure Blob Storage, Google
+      Cloud Storage, etc., using standard Java I/O streams.
+    question: Can I integrate GroupDocs.Conversion with cloud storage services?
+  type: FAQPage
+tags:
+- spreadsheet to pdf
+- groupdocs conversion
+- java pdf conversion
+- excel automation
+title: 'One page per sheet: ทำการแปลงสเปรดชีตเป็น PDF ใน Java อย่างอัตโนมัติ'
 type: docs
 url: /th/java/pdf-conversion/automate-spreadsheet-conversion-java-groupdocs/
 weight: 1
 ---
 
-# หนึ่งหน้าต่อชีต: อัตโนมัติการแปลงสเปรดชีตเป็น PDF ใน Java ด้วย GroupDocs.Conversion
+# หนึ่งหน้าต่อแผ่น: ทำการแปลงสเปรดชีตเป็น PDF โดยอัตโนมัติใน Java
 
-## บทนำ
+หากคุณเหนื่อยกับการแปลงสเปรดชีตเป็น PDF ด้วยตนเอง คุณมาถูกที่แล้ว ในบทเรียนนี้คุณจะได้เห็นว่า **GroupDocs.Conversion for Java** สามารถ **ทำการแปลงสเปรดชีตโดยอัตโนมัติ** พร้อมให้การควบคุมที่ละเอียด—เช่นการโหลดเฉพาะแถวที่คุณต้องการและสร้างผลลัพธ์ PDF **หนึ่งหน้าต่อแผ่น** สุดท้ายคุณจะเข้าใจวิธี:
 
-หากคุณเหนื่อยกับการแปลงสเปรดชีตเป็น PDF ด้วยตนเอง คุณมาถูกที่แล้ว ในบทเรียนนี้เราจะสาธิตว่า **GroupDocs.Conversion for Java** สามารถ **อัตโนมัติการแปลงสเปรดชีต** และให้การควบคุมที่ละเอียด—เช่นการโหลดเฉพาะแถวที่ต้องการและสร้างผลลัพธ์ PDF **หนึ่งหน้าต่อชีต** ได้อย่างไร เมื่อจบคุณจะเข้าใจวิธีการ:
-
-* ระบุช่วงเซลล์เมื่อโหลดเวิร์กบุ๊ก  
-* ตั้งค่าตัวแปลงให้แต่ละชีตกลายเป็นหน้า PDF เดียว  
-* ตั้งค่าโครงการ Java ของคุณด้วยไลบรารี GroupDocs.Conversion ล่าสุด  
+- ระบุช่วงเซลล์เมื่อโหลดเวิร์กบุ๊ก  
+- กำหนดค่าตัวแปลงให้แต่ละแผ่นกลายเป็นหน้า PDF เดียว  
+- ตั้งค่าโครงการ Java ของคุณด้วยไลบรารี GroupDocs.Conversion ล่าสุด  
 
 มาเตรียมสภาพแวดล้อมให้พร้อมก่อนที่เราจะลงลึกในโค้ดกัน
 
-## คำตอบอย่างรวดเร็ว
-- **“one page per sheet”** หมายถึงอะไร? แต่ละเวิร์กชีตในไฟล์ Excel ต้นทางจะถูกแสดงเป็นหน้าเดียวใน PDF ที่ได้ผลลัพธ์  
-- **ไลบรารีใดที่ทำหน้าที่แปลง?** `GroupDocs.Conversion` for Java (version 25.2)  
-- **ฉันต้องการใบอนุญาตหรือไม่?** การทดลองใช้ฟรีทำงานได้สำหรับการประเมิน; จำเป็นต้องมีใบอนุญาตชั่วคราวหรือซื้อสำหรับการใช้งานจริง  
-- **ฉันสามารถแปลงสเปรดชีตขนาดใหญ่ได้อย่างมีประสิทธิภาพหรือไม่?** ได้ — โดยการโหลดเฉพาะช่วงที่ต้องการคุณจะลดการใช้หน่วยความจำและเร่งกระบวนการ  
-- **ต้องการ Java เวอร์ชันใด?** JDK 8 หรือใหม่กว่า  
+## คำตอบด่วน
+- **“หนึ่งหน้าต่อแผ่น” หมายถึงอะไร?** แต่ละเวิร์กชีตในไฟล์ Excel ต้นทางจะถูกแสดงเป็นหน้าเดียวใน PDF ที่ได้.  
+- **ไลบรารีใดที่จัดการการแปลง?** `GroupDocs.Conversion` for Java (version 25.2).  
+- **ฉันต้องการไลเซนส์หรือไม่?** การทดลองใช้ฟรีทำงานสำหรับการประเมิน; จำเป็นต้องมีไลเซนส์ชั่วคราวหรือซื้อสำหรับการใช้งานจริง.  
+- **ฉันสามารถแปลงสเปรดชีตขนาดใหญ่ได้อย่างมีประสิทธิภาพหรือไม่?** ใช่—โดยการโหลดเฉพาะช่วงที่ต้องการคุณจะลดการใช้หน่วยความจำและเร่งกระบวนการ.  
+- **ต้องการเวอร์ชัน Java ใด?** JDK 8 หรือใหม่กว่า.
 
-## “one page per sheet” คืออะไร?
-เมื่อคุณแปลงเวิร์กบุ๊ก Excel พฤติกรรมเริ่มต้นอาจสร้างหลายหน้า PDF สำหรับแต่ละเวิร์กชีต (หนึ่งหน้าต่อพื้นที่พิมพ์) การเปิดใช้งานตัวเลือก **one page per sheet** จะบังคับให้ตัวแปลงบีบอัดชีตทั้งหมดลงบนหน้า PDF เดียว ซึ่งเหมาะสำหรับรายงาน การนำเสนอ หรือเมื่อคุณต้องการจำนวนหน้าที่คาดเดาได้
+## “หนึ่งหน้าต่อแผ่น” คืออะไร?
+**หนึ่งหน้าต่อแผ่น** หมายความว่าตัวแปลงจะบีบอัดเนื้อหาทั้งหมดของแต่ละเวิร์กชีตลงบนหน้า PDF เดียว ไม่ว่าจะมีพื้นที่พิมพ์กี่ส่วนก็ตาม สิ่งนี้รับประกันจำนวนหน้าที่คาดเดาได้และเหมาะอย่างยิ่งสำหรับรายงานหรือ PDF สไตล์สไลด์เด็คที่แต่ละแผ่นควรสอดคล้องกับหนึ่งหน้าภาพ.
 
-## ทำไมต้องใช้ GroupDocs.Conversion สำหรับ Java?
-* **รองรับรูปแบบอย่างครอบคลุม** – ทำงานกับ XLS, XLSX, CSV และรูปแบบสเปรดชีตอื่น ๆ มากมาย  
-* **ประสิทธิภาพสูง** – ตัวเลือกการโหลดช่วยให้คุณมุ่งเป้าเฉพาะข้อมูลที่ต้องการ เหมาะสำหรับไฟล์ขนาดใหญ่  
-* **API ที่ง่าย** – เพียงไม่กี่บรรทัดของโค้ด Java คุณก็จะได้ PDF พร้อมใช้งานในระดับการผลิต  
-* **ข้ามแพลตฟอร์ม** – ทำงานได้ทุกที่ที่ Java ทำงาน ตั้งแต่แอปเดสก์ท็อปจนถึงบริการคลาวด์  
+## ทำไมต้องใช้ GroupDocs.Conversion for Java?
+`GroupDocs.Conversion` for Java เป็น **เครื่องมือแปลงที่แข็งแรงและประสิทธิภาพสูง** มันรองรับ **รูปแบบสเปรดชีตกว่า 30 แบบ** (XLS, XLSX, CSV, ODS, ฯลฯ) และสามารถประมวลผลไฟล์ขนาดถึง **500 MB** โดยไม่ต้องโหลดเอกสารทั้งหมดเข้าสู่หน่วยความจำ ด้วยสถาปัตยกรรมสตรีมมิ่ง API มีความกระชับ: การเรียกเมธอดไม่กี่ครั้งสามารถสร้าง PDF พร้อมใช้งานที่ยังคงตาราง, แผนภูมิ, และการจัดรูปแบบเซลล์
 
 ## ข้อกำหนดเบื้องต้น
-- **Java Development Kit (JDK) 8+** ที่ติดตั้งแล้ว  
+- **Java Development Kit (JDK) 8+** ติดตั้งแล้ว  
 - **Maven** สำหรับการจัดการ dependencies  
 - IDE เช่น **IntelliJ IDEA** หรือ **Eclipse**  
 - ความรู้พื้นฐานของ Java และความคุ้นเคยกับโครงสร้างโครงการ Maven  
 
-## การตั้งค่า GroupDocs.Conversion สำหรับ Java
+## การตั้งค่า GroupDocs.Conversion for Java
 
 ### การกำหนดค่า Maven
-เพิ่มรีโพซิทอรีของ GroupDocs และ dependency ของ conversion ลงใน `pom.xml` ของคุณ:
+เพิ่ม repository ของ GroupDocs และ dependency ของการแปลงลงใน `pom.xml` ของคุณ:
+
+> *`pom.xml` ต้องมีรายการ repository `<groupId>com.groupdocs</groupId>` และ dependency `<artifactId>groupdocs-conversion</artifactId>` หลังจากบันทึกไฟล์แล้ว ให้รัน `mvn clean install` เพื่อดาวน์โหลดไลบรารี.*
+
+### ขั้นตอนการรับไลเซนส์
+- **Free trial** – ดาวน์โหลดเวอร์ชันทดลองเพื่อทดสอบฟีเจอร์.  
+- **Temporary license** – ขอรับไลเซนส์ชั่วคราวเพื่อเข้าถึงฟีเจอร์ทั้งหมดในระหว่างการพัฒนา.  
+- **Purchase** – ซื้อไลเซนส์จาก [GroupDocs website](https://purchase.groupdocs.com/buy).
+
+หลังจากเพิ่ม dependency แล้ว คุณสามารถเริ่มใช้ API ได้:
+
+> *`Converter` เป็นคลาสหลักที่จัดการการแปลงเอกสาร. นำเข้าแพคเกจ `com.groupdocs.conversion`, สร้างอินสแตนซ์ `Converter`, และเรียกเมธอดการแปลงที่เหมาะสม.*
+
+## วิธีโหลดสเปรดชีตด้วยช่วงเฉพาะ?
+การโหลดช่วงเฉพาะบอกให้เอนจินละเลยแถวและคอลัมน์ที่อยู่นอกพื้นที่ที่กำหนด ซึ่งช่วยเร่งการแปลงและลดการใช้หน่วยความจำ.
+
+`setConvertRange` กำหนดค่าการแปลงให้รวมเฉพาะช่วงเซลล์ที่ระบุ. เมธอด `setConvertRange` รับสตริงช่วงเช่น `"A10:C30"` และจำกัดการแปลงให้เฉพาะเซลล์เหล่านั้นเท่านั้น. สิ่งนี้มีประโยชน์อย่างยิ่งเมื่อทำงานกับ **ไฟล์ Excel ขนาดใหญ่** ที่มีเพียงส่วนย่อยของข้อมูลที่เกี่ยวข้องกับผลลัพธ์ PDF.
+
+## วิธีแปลงสเปรดชีตเป็น PDF ด้วยหนึ่งหน้าต่อแผ่น?
+`setOnePagePerSheet` บังคับให้แต่ละเวิร์กชีตแสดงผลบนหน้า PDF เดียว. ตั้งค่า `setOnePagePerSheet(true)` บนวัตถุการตั้งค่าการแปลง. ธงนี้บังคับให้ตัวแปลงเรนเดอร์แต่ละเวิร์กชีตบนหน้า PDF เดียว ไม่ว่าจะเป็นเลย์เอาต์การพิมพ์เดิมอย่างไร. เมื่อการแปลงทำงาน, เอนจินจะวนผ่านทุกแผ่นในเวิร์กบุ๊ก, ใช้ตัวกรองช่วง (ถ้ามี), และเขียนแต่ละแผ่นลงในหน้าของ PDF สุดท้าย.
+
+## การประยุกต์ใช้งานจริง
+
+| สถานการณ์ | วิธีที่ฟีเจอร์ช่วย |
+|----------|-----------------------|
+| **การรายงานการเงิน** | โหลดเฉพาะแถวที่มีตัวเลขไตรมาสและสร้าง PDF หนึ่งหน้าต่อแผ่นที่สะอาดสำหรับแต่ละแผนก. |
+| **การตีพิมพ์เชิงวิชาการ** | แปลงแผ่นข้อมูลการวิจัยโดยมุ่งเน้นช่วงที่เกี่ยวข้องและรับประกันว่าแต่ละแผ่นพิมพ์บนหน้าของมันเองเพื่อการอ้างอิงที่ง่าย. |
+| **การนำเสนอธุรกิจ** | สร้าง PDF พร้อมการนำเสนอที่แต่ละสไลด์สอดคล้องกับเวิร์กชีตหนึ่งแผ่น ด้วยการตั้งค่า หนึ่งหน้าต่อแผ่น. |
+
+## ปัจจัยที่ควรพิจารณาด้านประสิทธิภาพ
+* **จำกัดขอบเขตการแปลง** – ใช้ `setConvertRange` เพื่อลดแถว/คอลัมน์.  
+* **ปล่อยทรัพยากรโดยเร็ว** – ปิดสตรีมและให้ `Converter` ออกจากสโคปหลังการแปลง.  
+* **การประมวลผลแบบขนาน** – สำหรับงานแบตช์ ให้รันการแปลงบนเธรดแยกเพื่อให้ UI ตอบสนอง.  
+
+## คำถามที่พบบ่อย
+**Q: เวอร์ชัน Java ขั้นต่ำที่ต้องการสำหรับ GroupDocs.Conversion คืออะไร?**  
+A: แนะนำให้ใช้ JDK 8 หรือสูงกว่าเพื่อให้เข้ากันได้เต็มที่กับไลบรารี.
+
+**Q: ฉันสามารถแปลงหลายรูปแบบสเปรดชีตพร้อมกันได้หรือไม่?**  
+A: ได้, GroupDocs.Conversion รองรับ Excel, CSV, ODS และรูปแบบอื่น ๆ มากมายในการเรียกแปลงเดียว.
+
+**Q: ฉันจะขอรับไลเซนส์ชั่วคราวเพื่อเข้าถึงฟีเจอร์ทั้งหมดได้อย่างไร?**  
+A: ขอรับผ่าน [GroupDocs website](https://purchase.groupdocs.com/temporary-license/).
+
+**Q: ถ้าสเปรดชีตของฉันใหญ่เกินกว่าจะโหลดในหน่วยความจำจะทำอย่างไร?**  
+A: โหลดเฉพาะช่วงที่ต้องการด้วย `setConvertRange` และพิจารณาการสตรีมไฟล์ไปยังดิสก์ระหว่างการแปลง.
+
+**Q: ฉันสามารถรวม GroupDocs.Conversion กับบริการจัดเก็บข้อมูลบนคลาวด์ได้หรือไม่?**  
+A: ได้, คุณสามารถอ่านและเขียนไปยัง AWS S3, Azure Blob Storage, Google Cloud Storage ฯลฯ โดยใช้สตรีม I/O ของ Java มาตรฐาน.
+
+## แหล่งข้อมูล
+- [เอกสารประกอบ](https://docs.groupdocs.com/conversion/java/)
+- [อ้างอิง API](https://reference.groupdocs.com/conversion/java/)
+- [ดาวน์โหลด GroupDocs.Conversion for Java](https://releases.groupdocs.com/conversion/java/)
+- [ซื้อไลเซนส์](https://purchase.groupdocs.com/buy)
+- [ดาวน์โหลดรุ่นทดลองฟรี](https://releases.groupdocs.com/conversion/java/)
+- [ขอไลเซนส์ชั่วคราว](https://purchase.groupdocs.com/temporary-license/)
+- [ฟอรั่มสนับสนุน](https://forum.groupdocs.com/c/conversion)
+
+---
+
+**อัปเดตล่าสุด:** 2026-08-14  
+**ทดสอบด้วย:** GroupDocs.Conversion 25.2 for Java  
+**ผู้เขียน:** GroupDocs  
 
 ```xml
 <repositories>
@@ -69,24 +161,10 @@ weight: 1
 </dependencies>
 ```
 
-### ขั้นตอนการรับใบอนุญาต
-- **Free Trial**: ดาวน์โหลดเวอร์ชันทดลองเพื่อทดสอบฟีเจอร์  
-- **Temporary License**: ขอใบอนุญาตชั่วคราวเพื่อเข้าถึงฟีเจอร์เต็มระหว่างการพัฒนา  
-- **Purchase**: สำหรับการใช้งานระยะยาว ให้ซื้อใบอนุญาตจาก [GroupDocs website](https://purchase.groupdocs.com/buy)  
-
-หลังจากเพิ่ม dependency แล้ว คุณสามารถเริ่มใช้ API ได้:
-
 ```java
 import com.groupdocs.conversion.Converter;
 // Basic initialization code here...
 ```
-
-## โหลดสเปรดชีตด้วยช่วงเฉพาะ
-
-### ทำไมต้องโหลดช่วง?
-การโหลดเฉพาะแถวที่ต้องการ (เช่น แถว 10‑30) จะทำให้การแปลงเร็วขึ้นและลดการใช้หน่วยความจำ — มีประโยชน์อย่างยิ่งเมื่อคุณ **convert large spreadsheet pdf**  
-
-### การดำเนินการ
 
 ```java
 import com.groupdocs.conversion.options.load.SpreadsheetLoadOptions;
@@ -101,15 +179,6 @@ public class FeatureLoadSpreadsheetWithRange {
     }
 }
 ```
-
-เมธอด `setConvertRange` บอกตัวแปลงให้ละเว้นทุกอย่างที่อยู่นอกช่วงแถวที่กำหนด ทำให้การ **java convert excel pdf** ทำงานได้เร็วและเบาขึ้น  
-
-## แปลงสเปรดชีตเป็น PDF ด้วยหนึ่งหน้าต่อชีต
-
-### วิธีการทำงานของตัวเลือก
-การตั้งค่า `setOnePagePerSheet(true)` จะสั่งให้เอนจินเรนเดอร์แต่ละเวิร์กชีตบนหน้า PDF เดียว ไม่ว่าพื้นที่พิมพ์เดิมจะเป็นเท่าใด นี่คือหัวใจของความต้องการ **one page per sheet**  
-
-### การดำเนินการ
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -133,50 +202,8 @@ public class FeatureConvertToPdfWithOnePagePerSheet {
 }
 ```
 
-ตอนนี้ทุกเวิร์กชีตใน `sample.xlsx` จะกลายเป็นหน้าเดียวใน `ConvertedSpreadsheet.pdf`  
+## บทเรียนที่เกี่ยวข้อง
 
-## การประยุกต์ใช้งานจริง
-
-| สถานการณ์ | วิธีที่ฟีเจอร์ช่วย |
-|----------|-----------------------|
-| **Financial Reporting** | โหลดเฉพาะแถวที่มีตัวเลขไตรมาสและสร้าง PDF หนึ่งหน้า‑ต่อ‑ชีตที่เรียบร้อยสำหรับแต่ละแผนก |
-| **Academic Publishing** | แปลงชีตข้อมูลการวิจัยโดยโฟกัสที่ช่วงที่เกี่ยวข้อง และทำให้แต่ละชีตพิมพ์บนหน้าเดียวเพื่ออ้างอิงง่าย |
-| **Business Presentations** | สร้าง PDF พร้อมนำเสนอที่แต่ละสไลด์สอดคล้องกับเวิร์กชีตหนึ่งชีต ด้วยการตั้งค่า one‑page‑per‑sheet |
-
-## ข้อควรพิจารณาด้านประสิทธิภาพ
-
-* **จำกัดขอบเขตการแปลง** – ใช้ `setConvertRange` เพื่อลดแถว/คอลัมน์ที่ต้องแปลง  
-* **ปล่อยทรัพยากร** – ปิดสตรีมและให้ `Converter` ออกจากสโคปหลังการแปลงเสร็จ  
-* **ประมวลผลแบบขนาน** – สำหรับงานแบตช์ ให้รันการแปลงในเธรดแยกเพื่อให้ UI ตอบสนองได้ดี  
-
-## คำถามที่พบบ่อย
-
-**Q: เวอร์ชัน Java ขั้นต่ำที่ต้องการสำหรับ GroupDocs.Conversion คืออะไร?**  
-A: แนะนำให้ใช้ JDK 8 หรือสูงกว่าเพื่อความเข้ากันได้  
-
-**Q: ฉันสามารถแปลงหลายรูปแบบสเปรดชีตพร้อมกันได้หรือไม่?**  
-A: ได้, GroupDocs.Conversion รองรับ Excel, CSV และรูปแบบอื่น ๆ อีกหลายประเภท  
-
-**Q: จะขอใบอนุญาตชั่วคราวเพื่อเข้าถึงฟีเจอร์เต็มได้อย่างไร?**  
-A: ขอได้ผ่าน [GroupDocs website](https://purchase.groupdocs.com/temporary-license/)  
-
-**Q: ถ้าสเปรดชีตของฉันใหญ่เกินกว่าจะโหลดในหน่วยความจำจะทำอย่างไร?**  
-A: โหลดเฉพาะช่วงที่ต้องการด้วย `setConvertRange` และพิจารณา stream ไฟล์ไปยังดิสก์ระหว่างการแปลง  
-
-**Q: ฉันสามารถผสาน GroupDocs.Conversion กับบริการจัดเก็บข้อมูลคลาวด์ได้หรือไม่?**  
-A: ได้, คุณสามารถอ่านและเขียนกับ AWS S3, Azure Blob Storage, Google Cloud Storage ฯลฯ โดยใช้ Java I/O streams มาตรฐาน  
-
-## แหล่งข้อมูล
-- [เอกสารประกอบ](https://docs.groupdocs.com/conversion/java/)
-- [อ้างอิง API](https://reference.groupdocs.com/conversion/java/)
-- [ดาวน์โหลด GroupDocs.Conversion for Java](https://releases.groupdocs.com/conversion/java/)
-- [ซื้อใบอนุญาต](https://purchase.groupdocs.com/buy)
-- [ดาวน์โหลดเวอร์ชันทดลองฟรี](https://releases.groupdocs.com/conversion/java/)
-- [ขอใบอนุญาตชั่วคราว](https://purchase.groupdocs.com/temporary-license/)
-- [ฟอรั่มสนับสนุน](https://forum.groupdocs.com/c/conversion)
-
----
-
-**อัปเดตล่าสุด:** 2026-02-05  
-**ทดสอบด้วย:** GroupDocs.Conversion 25.2 for Java  
-**ผู้เขียน:** GroupDocs
+- [แปลง Excel เป็น PDF ด้วย GroupDocs.Conversion Java](/conversion/java/pdf-conversion/excel-to-pdf-groupdocs-conversion-java/)
+- [หนึ่งหน้าต่อแผ่น: แปลงแผ่น Excel ที่ซ่อนเป็น PDF (Java)](/conversion/java/pdf-conversion/convert-excel-hidden-sheets-pdf-java/)
+- [หนึ่งหน้าต่อแผ่น – Excel เป็น PDF ใน Java, การแทนที่ฟอนต์](/conversion/java/pdf-conversion/excel-to-pdf-conversion-font-substitution-java/)

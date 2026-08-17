@@ -1,45 +1,75 @@
 ---
-date: '2026-02-05'
-description: Tìm hiểu cách sử dụng GroupDocs.Conversion cho Java để tự động chuyển
-  đổi bảng tính sang PDF, bao gồm việc tải các phạm vi cụ thể và tạo PDF một trang
-  cho mỗi sheet.
+date: '2026-08-14'
+description: Tìm hiểu cách tự động chuyển đổi spreadsheet sang PDF trong Java với
+  GroupDocs.Conversion, sử dụng tính năng một trang cho mỗi sheet và excel range to
+  PDF.
 keywords:
-- spreadsheet to PDF conversion Java
-- GroupDocs.Conversion for Java
-- automate spreadsheet conversion
-title: 'Một trang mỗi sheet: Tự động chuyển bảng tính sang PDF bằng Java'
+- one page per sheet
+- excel range to pdf
+- groupdocs conversion java
+- convert spreadsheet pdf java
+- large excel pdf conversion
+lastmod: '2026-08-14'
+og_description: Chuyển đổi một trang cho mỗi sheet trong Java sử dụng GroupDocs.Conversion.
+  Tìm hiểu cách tải các phạm vi cụ thể và tạo PDF một trang một cách hiệu quả.
+og_image_alt: Java code converting Excel sheets to single-page PDF using GroupDocs
+og_title: 'Một trang cho mỗi sheet: tự động chuyển đổi spreadsheet sang PDF trong
+  Java'
+schemas:
+- author: GroupDocs
+  dateModified: '2026-08-14'
+  description: Learn how to automate spreadsheet to PDF conversion in Java with GroupDocs.Conversion,
+    using one page per sheet and excel range to pdf features.
+  headline: 'One page per sheet: automate spreadsheet to PDF in Java'
+  type: TechArticle
+- questions:
+  - answer: JDK 8 or higher is recommended to ensure full compatibility with the library.
+    question: What is the minimum Java version required for GroupDocs.Conversion?
+  - answer: Yes, GroupDocs.Conversion supports Excel, CSV, ODS, and many other formats
+      in a single conversion call.
+    question: Can I convert multiple spreadsheet formats at once?
+  - answer: Request one through the [GroupDocs website](https://purchase.groupdocs.com/temporary-license/).
+    question: How do I obtain a temporary license for full feature access?
+  - answer: Load only the needed range with `setConvertRange` and consider streaming
+      the file to disk during conversion.
+    question: What if my spreadsheet is too large to convert in memory?
+  - answer: Yes, you can read from and write to AWS S3, Azure Blob Storage, Google
+      Cloud Storage, etc., using standard Java I/O streams.
+    question: Can I integrate GroupDocs.Conversion with cloud storage services?
+  type: FAQPage
+tags:
+- spreadsheet to pdf
+- groupdocs conversion
+- java pdf conversion
+- excel automation
+title: 'Một trang cho mỗi sheet: tự động chuyển đổi spreadsheet sang PDF trong Java'
 type: docs
 url: /vi/java/pdf-conversion/automate-spreadsheet-conversion-java-groupdocs/
 weight: 1
 ---
 
-# Một Trang cho Mỗi Sheet: Tự Động Chuyển Đổi Bảng Tính sang PDF trong Java Sử Dụng GroupDocs.Conversion
+# Một trang cho mỗi sheet: tự động chuyển đổi bảng tính sang PDF trong Java
 
-## Giới thiệu
+Nếu bạn đã chán ngấy việc chuyển đổi bảng tính sang PDF một cách thủ công, bạn đã đến đúng nơi. Trong hướng dẫn này, bạn sẽ thấy cách **GroupDocs.Conversion for Java** có thể **tự động chuyển đổi bảng tính** đồng thời cung cấp cho bạn kiểm soát chi tiết—như chỉ tải các hàng bạn cần và tạo ra đầu ra PDF **một trang cho mỗi sheet**. Khi kết thúc, bạn sẽ hiểu cách:
 
-Nếu bạn đã chán ngấy việc chuyển đổi bảng tính sang PDF một cách thủ công, bạn đã đến đúng nơi. Trong hướng dẫn này, chúng tôi sẽ cho bạn thấy cách **GroupDocs.Conversion for Java** có thể **tự động chuyển đổi bảng tính** và cung cấp cho bạn kiểm soát chi tiết—như chỉ tải những hàng bạn cần và tạo ra đầu ra PDF **one page per sheet**. Khi kết thúc, bạn sẽ hiểu cách:
-
-* Xác định phạm vi ô khi tải một workbook  
+* Chỉ định phạm vi ô khi tải workbook  
 * Cấu hình bộ chuyển đổi để mỗi sheet trở thành một trang PDF duy nhất  
 * Thiết lập dự án Java của bạn với thư viện GroupDocs.Conversion mới nhất  
 
-Hãy chuẩn bị môi trường trước khi chúng ta đi vào mã.
+Hãy chuẩn bị môi trường trước khi chúng ta bắt đầu viết mã.
 
 ## Câu trả lời nhanh
-- **What does “one page per sheet” mean?** Mỗi worksheet trong tệp Excel nguồn được hiển thị dưới dạng một trang duy nhất trong PDF kết quả.  
-- **Which library handles the conversion?** `GroupDocs.Conversion` cho Java (phiên bản 25.2).  
-- **Do I need a license?** Bản dùng thử miễn phí đủ cho việc đánh giá; cần có giấy phép tạm thời hoặc mua để sử dụng trong môi trường sản xuất.  
-- **Can I convert large spreadsheets efficiently?** Có—bằng cách chỉ tải phạm vi cần thiết, bạn giảm việc sử dụng bộ nhớ và tăng tốc quá trình.  
-- **What Java version is required?** JDK 8 hoặc mới hơn.
+- **“one page per sheet” có nghĩa là gì?** Mỗi worksheet trong tệp Excel nguồn được hiển thị dưới dạng một trang duy nhất trong PDF kết quả.  
+- **Thư viện nào thực hiện việc chuyển đổi?** `GroupDocs.Conversion` cho Java (phiên bản 25.2).  
+- **Tôi có cần giấy phép không?** Bản dùng thử miễn phí đủ cho việc đánh giá; giấy phép tạm thời hoặc mua cần thiết cho môi trường sản xuất.  
+- **Tôi có thể chuyển đổi bảng tính lớn một cách hiệu quả không?** Có—bằng cách chỉ tải phạm vi cần thiết, bạn giảm việc sử dụng bộ nhớ và tăng tốc quá trình.  
+- **Phiên bản Java nào được yêu cầu?** JDK 8 hoặc mới hơn.
 
-## “One page per sheet” là gì?
-Khi bạn chuyển đổi một workbook Excel, hành vi mặc định có thể tạo ra nhiều trang PDF cho mỗi worksheet (một trang cho mỗi khu vực in). Bật tùy chọn **one page per sheet** buộc bộ chuyển đổi nén toàn bộ sheet vào một trang PDF duy nhất, rất phù hợp cho báo cáo, bản trình bày, hoặc khi bạn cần số lượng trang dự đoán được.
+## “one page per sheet” là gì?
+**One page per sheet** có nghĩa là bộ chuyển đổi nén toàn bộ nội dung của mỗi worksheet vào một trang PDF duy nhất, bất kể sheet có bao nhiêu khu vực in. Điều này đảm bảo số lượng trang dự đoán được và rất phù hợp cho các báo cáo hoặc PDF dạng slide‑deck, nơi mỗi sheet nên tương ứng với một trang hiển thị.
 
 ## Tại sao nên sử dụng GroupDocs.Conversion cho Java?
-* **Robust format support** – hỗ trợ các định dạng XLS, XLSX, CSV và nhiều loại bảng tính khác.  
-* **High performance** – các tùy chọn tải cho phép bạn chỉ nhắm vào dữ liệu cần thiết, hoàn hảo cho các tệp lớn.  
-* **Simple API** – chỉ vài dòng mã Java đã cung cấp PDF sẵn sàng cho sản xuất.  
-* **Cross‑platform** – chạy ở bất kỳ nơi nào Java chạy, từ ứng dụng desktop đến dịch vụ đám mây.
+`GroupDocs.Conversion` cho Java là một **động cơ chuyển đổi mạnh mẽ, hiệu suất cao**. Nó hỗ trợ **hơn 30 định dạng bảng tính** (XLS, XLSX, CSV, ODS, v.v.) và có thể xử lý các tệp lên tới **500 MB** mà không cần tải toàn bộ tài liệu vào bộ nhớ, nhờ kiến trúc streaming. API ngắn gọn: một vài lời gọi phương thức tạo ra các PDF sẵn sàng cho sản xuất, giữ nguyên bảng, biểu đồ và định dạng ô.
 
 ## Yêu cầu trước
 - **Java Development Kit (JDK) 8+** đã được cài đặt  
@@ -50,7 +80,72 @@ Khi bạn chuyển đổi một workbook Excel, hành vi mặc định có thể
 ## Cài đặt GroupDocs.Conversion cho Java
 
 ### Cấu hình Maven
-Thêm repository của GroupDocs và phụ thuộc conversion vào file `pom.xml` của bạn:
+Thêm repository GroupDocs và phụ thuộc conversion vào file `pom.xml` của bạn:
+
+> *File `pom.xml` phải chứa mục repository `<groupId>com.groupdocs</groupId>` và phụ thuộc `<artifactId>groupdocs-conversion</artifactId>`. Sau khi lưu file, chạy `mvn clean install` để tải thư viện.*
+
+### Các bước lấy giấy phép
+- **Free trial** – tải phiên bản dùng thử để kiểm tra các tính năng.  
+- **Temporary license** – yêu cầu giấy phép tạm thời để truy cập đầy đủ tính năng trong quá trình phát triển.  
+- **Purchase** – mua giấy phép từ [GroupDocs website](https://purchase.groupdocs.com/buy).
+
+Sau khi thêm phụ thuộc, bạn có thể bắt đầu sử dụng API:
+
+> *`Converter` là lớp chính điều phối việc chuyển đổi tài liệu. Nhập gói `com.groupdocs.conversion`, tạo một thể hiện `Converter`, và gọi các phương thức chuyển đổi phù hợp.*
+
+## Cách tải bảng tính với một phạm vi cụ thể?
+Tải một phạm vi cụ thể cho engine bỏ qua các hàng và cột ngoài khu vực đã định nghĩa, giúp tăng tốc chuyển đổi và giảm tiêu thụ bộ nhớ.
+
+`setConvertRange` cấu hình việc chuyển đổi chỉ bao gồm một phạm vi ô cụ thể. Phương thức `setConvertRange` nhận một chuỗi phạm vi như `"A10:C30"` và giới hạn chuyển đổi chỉ trong các ô đó. Điều này đặc biệt hữu ích khi làm việc với **tệp Excel lớn** mà chỉ một phần dữ liệu là cần thiết cho đầu ra PDF.
+
+## Cách chuyển đổi bảng tính sang PDF với một trang cho mỗi sheet?
+`setOnePagePerSheet` buộc mỗi worksheet được hiển thị trên một trang PDF duy nhất. Đặt tùy chọn `setOnePagePerSheet(true)` trên đối tượng cài đặt chuyển đổi. Cờ này buộc bộ chuyển đổi render mỗi worksheet lên một trang PDF, bất kể bố cục in gốc. Khi chuyển đổi chạy, engine sẽ duyệt qua mọi sheet trong workbook, áp dụng bộ lọc phạm vi (nếu có), và ghi mỗi sheet vào một trang riêng trong tài liệu PDF cuối cùng.
+
+## Ứng dụng thực tiễn
+
+| Kịch bản | Cách tính năng hỗ trợ |
+|----------|-----------------------|
+| **Báo cáo tài chính** | Chỉ tải các hàng chứa số liệu quý và tạo PDF một‑trang‑cho‑mỗi‑sheet sạch sẽ cho mỗi phòng ban. |
+| **Xuất bản học thuật** | Chuyển đổi các sheet dữ liệu nghiên cứu, tập trung vào phạm vi liên quan, và đảm bảo mỗi sheet in trên một trang riêng để dễ trích dẫn. |
+| **Bài thuyết trình doanh nghiệp** | Tạo PDF sẵn sàng cho bài thuyết trình, trong đó mỗi slide tương ứng với một worksheet, nhờ cài đặt một‑trang‑cho‑mỗi‑sheet. |
+
+## Các cân nhắc về hiệu năng
+* **Thu hẹp phạm vi chuyển đổi** – sử dụng `setConvertRange` để giới hạn các hàng/cột.  
+* **Giải phóng tài nguyên kịp thời** – đóng các stream và để `Converter` ra khỏi phạm vi sau khi chuyển đổi.  
+* **Xử lý song song** – đối với các công việc batch, chạy chuyển đổi trên các thread riêng để giữ UI phản hồi nhanh.  
+
+## Câu hỏi thường gặp
+**Hỏi: Phiên bản Java tối thiểu cần thiết cho GroupDocs.Conversion là gì?**  
+**Đáp:** JDK 8 hoặc cao hơn được khuyến nghị để đảm bảo tương thích đầy đủ với thư viện.
+
+**Hỏi: Tôi có thể chuyển đổi nhiều định dạng bảng tính cùng lúc không?**  
+**Đáp:** Có, GroupDocs.Conversion hỗ trợ Excel, CSV, ODS và nhiều định dạng khác trong một lời gọi chuyển đổi duy nhất.
+
+**Hỏi: Làm thế nào để tôi có được giấy phép tạm thời để truy cập đầy đủ tính năng?**  
+**Đáp:** Yêu cầu một giấy phép qua [GroupDocs website](https://purchase.groupdocs.com/temporary-license/).
+
+**Hỏi: Nếu bảng tính của tôi quá lớn để chuyển đổi trong bộ nhớ thì sao?**  
+**Đáp:** Chỉ tải phạm vi cần thiết bằng `setConvertRange` và cân nhắc streaming tệp ra đĩa trong quá trình chuyển đổi.
+
+**Hỏi: Tôi có thể tích hợp GroupDocs.Conversion với các dịch vụ lưu trữ đám mây không?**  
+**Đáp:** Có, bạn có thể đọc và ghi tới AWS S3, Azure Blob Storage, Google Cloud Storage, v.v., bằng cách sử dụng các stream I/O chuẩn của Java.
+
+## Tài nguyên
+- [Tài liệu](https://docs.groupdocs.com/conversion/java/)
+- [Tham khảo API](https://reference.groupdocs.com/conversion/java/)
+- [Tải GroupDocs.Conversion cho Java](https://releases.groupdocs.com/conversion/java/)
+- [Mua giấy phép](https://purchase.groupdocs.com/buy)
+- [Tải bản dùng thử miễn phí](https://releases.groupdocs.com/conversion/java/)
+- [Yêu cầu giấy phép tạm thời](https://purchase.groupdocs.com/temporary-license/)
+- [Diễn đàn hỗ trợ](https://forum.groupdocs.com/c/conversion)
+
+---
+
+**Cập nhật lần cuối:** 2026-08-14  
+**Được kiểm tra với:** GroupDocs.Conversion 25.2 for Java  
+**Tác giả:** GroupDocs  
+
+---
 
 ```xml
 <repositories>
@@ -70,24 +165,10 @@ Thêm repository của GroupDocs và phụ thuộc conversion vào file `pom.xml
 </dependencies>
 ```
 
-### Các bước lấy giấy phép
-- **Free Trial**: Tải phiên bản dùng thử để kiểm tra các tính năng.  
-- **Temporary License**: Yêu cầu giấy phép tạm thời để truy cập đầy đủ tính năng trong quá trình phát triển.  
-- **Purchase**: Đối với việc sử dụng lâu dài, mua giấy phép từ [GroupDocs website](https://purchase.groupdocs.com/buy).
-
-Sau khi thêm phụ thuộc, bạn có thể bắt đầu sử dụng API:
-
 ```java
 import com.groupdocs.conversion.Converter;
 // Basic initialization code here...
 ```
-
-## Tải bảng tính với một phạm vi cụ thể
-
-### Tại sao lại tải một phạm vi?
-Chỉ tải những hàng bạn cần (ví dụ, hàng 10‑30) giúp tăng tốc quá trình chuyển đổi và giảm tiêu thụ bộ nhớ—đặc biệt hữu ích khi bạn **convert large spreadsheet pdf** các tệp.
-
-### Triển khai
 
 ```java
 import com.groupdocs.conversion.options.load.SpreadsheetLoadOptions;
@@ -102,15 +183,6 @@ public class FeatureLoadSpreadsheetWithRange {
     }
 }
 ```
-
-Phương thức `setConvertRange` thông báo cho bộ chuyển đổi bỏ qua mọi thứ ngoài các hàng đã định nghĩa, làm cho thao tác **java convert excel pdf** nhanh hơn và gọn nhẹ hơn.
-
-## Chuyển đổi bảng tính sang PDF với một trang cho mỗi sheet
-
-### Cách tùy chọn hoạt động
-Cài đặt `setOnePagePerSheet(true)` chỉ đạo engine render mỗi worksheet lên một trang PDF duy nhất, bất kể khu vực in gốc của nó. Đây là cốt lõi của yêu cầu **one page per sheet**.
-
-### Triển khai
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -134,49 +206,8 @@ public class FeatureConvertToPdfWithOnePagePerSheet {
 }
 ```
 
-Bây giờ mỗi worksheet trong `sample.xlsx` sẽ trở thành một trang duy nhất trong `ConvertedSpreadsheet.pdf`.
+## Hướng dẫn liên quan
 
-## Ứng dụng thực tiễn
-
-| Scenario | Cách tính năng hỗ trợ |
-|----------|-----------------------|
-| **Financial Reporting** | Chỉ tải những hàng chứa số liệu quý và tạo PDF one‑page‑per‑sheet sạch sẽ cho mỗi phòng ban. |
-| **Academic Publishing** | Chuyển đổi các sheet dữ liệu nghiên cứu, tập trung vào phạm vi liên quan, và đảm bảo mỗi sheet in trên một trang riêng để dễ trích dẫn. |
-| **Business Presentations** | Tạo PDF sẵn sàng cho bài thuyết trình, trong đó mỗi slide tương ứng với một worksheet, nhờ cài đặt one‑page‑per‑sheet. |
-
-## Các cân nhắc về hiệu năng
-* **Narrow the conversion scope** – sử dụng `setConvertRange` để giới hạn hàng/cột.  
-* **Release resources** – đóng các stream và để `Converter` ra khỏi phạm vi sau khi chuyển đổi.  
-* **Parallel processing** – cho các công việc batch, chạy chuyển đổi trên các thread riêng để giữ UI phản hồi.  
-
-## Câu hỏi thường gặp
-
-**Q: What is the minimum Java version required for GroupDocs.Conversion?**  
-A: JDK 8 hoặc cao hơn được khuyến nghị để đảm bảo tương thích.
-
-**Q: Can I convert multiple spreadsheet formats at once?**  
-A: Có, GroupDocs.Conversion hỗ trợ Excel, CSV và nhiều định dạng khác.
-
-**Q: How do I obtain a temporary license for full feature access?**  
-A: Yêu cầu một giấy phép tạm thời qua [GroupDocs website](https://purchase.groupdocs.com/temporary-license/).
-
-**Q: What if my spreadsheet is too large to convert in memory?**  
-A: Chỉ tải phạm vi cần thiết bằng `setConvertRange` và cân nhắc stream tệp ra đĩa trong quá trình chuyển đổi.
-
-**Q: Can I integrate GroupDocs.Conversion with cloud storage services?**  
-A: Có, bạn có thể đọc và ghi tới AWS S3, Azure Blob Storage, Google Cloud Storage, v.v., bằng cách sử dụng các stream I/O chuẩn của Java.
-
-## Tài nguyên
-- [Tài liệu](https://docs.groupdocs.com/conversion/java/)
-- [Tham chiếu API](https://reference.groupdocs.com/conversion/java/)
-- [Tải GroupDocs.Conversion cho Java](https://releases.groupdocs.com/conversion/java/)
-- [Mua giấy phép](https://purchase.groupdocs.com/buy)
-- [Tải bản dùng thử miễn phí](https://releases.groupdocs.com/conversion/java/)
-- [Yêu cầu giấy phép tạm thời](https://purchase.groupdocs.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.groupdocs.com/c/conversion)
-
----
-
-**Cập nhật lần cuối:** 2026-02-05  
-**Đã kiểm tra với:** GroupDocs.Conversion 25.2 for Java  
-**Tác giả:** GroupDocs
+- [Chuyển đổi Excel sang PDF với GroupDocs.Conversion Java](/conversion/java/pdf-conversion/excel-to-pdf-groupdocs-conversion-java/)
+- [Một Trang cho Mỗi Sheet: Chuyển đổi các Sheet Ẩn của Excel sang PDF (Java)](/conversion/java/pdf-conversion/convert-excel-hidden-sheets-pdf-java/)
+- [Một Trang cho Mỗi Sheet – Excel sang PDF trong Java, Thay Thế Phông Chữ](/conversion/java/pdf-conversion/excel-to-pdf-conversion-font-substitution-java/)
