@@ -268,11 +268,6 @@ using (var converter = new Converter(sourceFilePath))
 - [ترخيص مؤقت](https://purchase.groupdocs.com/temporary-license/)  
 - [منتدى الدعم](https://forum.groupdocs.com/c/conversion/10)  
 
-{< blocks/products/products-backtop-button >}
-{< /blocks/products/pf/main-wrap-class >}
-{< /blocks/products/pf/main-container >}
-{< /blocks/products/pf/tutorial-page-section >}
-
 ## دروس ذات صلة
 
 - [كيفية تحويل ملفات DWF إلى TXT باستخدام GroupDocs.Conversion لـ .NET (دليل خطوة بخطوة)](/conversion/net/cad-technical-drawing-formats/convert-dwf-to-txt-using-groupdocs-conversion-net/)

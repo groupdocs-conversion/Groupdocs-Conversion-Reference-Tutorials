@@ -276,11 +276,6 @@ Du har nu en komplett, produktionsklar guide för att **konvertera CAD till CSV*
 - [Tillfällig licens](https://purchase.groupdocs.com/temporary-license/)  
 - [Supportforum](https://forum.groupdocs.com/c/conversion/10)  
 
-{< blocks/products/products-backtop-button >}
-{< /blocks/products/pf/main-wrap-class >}
-{< /blocks/products/pf/main-container >}
-{< /blocks/products/pf/tutorial-page-section >}
-
 ## Relaterade handledningar
 
 - [Hur man konverterar DWF‑filer till TXT med GroupDocs.Conversion för .NET (Steg‑för‑steg‑guide)](/conversion/net/cad-technical-drawing-formats/convert-dwf-to-txt-using-groupdocs-conversion-net/)

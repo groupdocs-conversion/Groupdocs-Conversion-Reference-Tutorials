@@ -181,10 +181,6 @@ groupdocsConversion = new Converter("path/to/your/file.dgn");
 // Convert to PDF settings
 PdfConvertOptions options = new PdfConvertOptions();
 ```
-{< /blocks/products/pf/tutorial-page-section >}
-{< /blocks/products/pf/main-container >}
-{< /blocks/products/pf/main-wrap-class >}
-{< blocks/products/products-backtop-button >}
 
 ## Hướng dẫn liên quan
 

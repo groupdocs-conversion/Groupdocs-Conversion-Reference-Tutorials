@@ -277,11 +277,6 @@ A: Ενεργοποιήστε το streaming (`ConversionConfig.EnableStreaming 
 - [Temporary License](https://purchase.groupdocs.com/temporary-license/)  
 - [Support Forum](https://forum.groupdocs.com/c/conversion/10)  
 
-{< blocks/products/products-backtop-button >}
-{< /blocks/products/pf/main-wrap-class >}
-{< /blocks/products/pf/main-container >}
-{< /blocks/products/pf/tutorial-page-section >}
-
 ## Σχετικά Μαθήματα
 
 - [Πώς να Μετατρέψετε Αρχεία DWF σε TXT Χρησιμοποιώντας το GroupDocs.Conversion για .NET (Οδηγός Βήμα-Βήμα)](/conversion/net/cad-technical-drawing-formats/convert-dwf-to-txt-using-groupdocs-conversion-net/)

@@ -277,11 +277,6 @@ Artık GroupDocs.Conversion for .NET kullanarak **CAD'yi CSV'ye dönüştürmek*
 - [Geçici Lisans](https://purchase.groupdocs.com/temporary-license/)  
 - [Destek Forumu](https://forum.groupdocs.com/c/conversion/10)  
 
-{< blocks/products/products-backtop-button >}
-{< /blocks/products/pf/main-wrap-class >}
-{< /blocks/products/pf/main-container >}
-{< /blocks/products/pf/tutorial-page-section >}
-
 ## İlgili Öğreticiler
 
 - [GroupDocs.Conversion for .NET kullanarak DWF Dosyalarını TXT'ye Nasıl Dönüştürülür (Adım Adım Kılavuz)](/conversion/net/cad-technical-drawing-formats/convert-dwf-to-txt-using-groupdocs-conversion-net/)

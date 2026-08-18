@@ -272,11 +272,6 @@ Vous disposez maintenant d’un guide complet, prêt pour la production, pour **
 - [Temporary License](https://purchase.groupdocs.com/temporary-license/)  
 - [Support Forum](https://forum.groupdocs.com/c/conversion/10)  
 
-{< blocks/products/products-backtop-button >}
-{< /blocks/products/pf/main-wrap-class >}
-{< /blocks/products/pf/main-container >}
-{< /blocks/products/pf/tutorial-page-section >}
-
 ## Tutoriels associés
 
 - [Comment convertir des fichiers DWF en TXT avec GroupDocs.Conversion pour .NET (Guide étape par étape)](/conversion/net/cad-technical-drawing-formats/convert-dwf-to-txt-using-groupdocs-conversion-net/)

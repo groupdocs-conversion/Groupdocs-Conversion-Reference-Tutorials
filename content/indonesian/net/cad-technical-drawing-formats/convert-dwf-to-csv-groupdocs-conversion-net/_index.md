@@ -276,11 +276,6 @@ Anda kini memiliki panduan lengkap yang siap produksi untuk **mengonversi CAD ke
 - [Lisensi Sementara](https://purchase.groupdocs.com/temporary-license/)  
 - [Forum Dukungan](https://forum.groupdocs.com/c/conversion/10)  
 
-{< blocks/products/products-backtop-button >}
-{< /blocks/products/pf/main-wrap-class >}
-{< /blocks/products/pf/main-container >}
-{< /blocks/products/pf/tutorial-page-section >}
-
 ## Tutorial Terkait
 
 - [Cara Mengonversi File DWF ke TXT Menggunakan GroupDocs.Conversion untuk .NET (Panduan Langkah demi Langkah)](/conversion/net/cad-technical-drawing-formats/convert-dwf-to-txt-using-groupdocs-conversion-net/)

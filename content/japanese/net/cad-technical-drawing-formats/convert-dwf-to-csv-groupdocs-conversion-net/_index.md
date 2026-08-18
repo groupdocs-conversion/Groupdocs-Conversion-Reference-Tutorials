@@ -275,11 +275,6 @@ A: ストリーミングを有効にし（`ConversionConfig.EnableStreaming = tr
 - [一時ライセンス](https://purchase.groupdocs.com/temporary-license/)  
 - [サポートフォーラム](https://forum.groupdocs.com/c/conversion/10)  
 
-{< blocks/products/products-backtop-button >}
-{< /blocks/products/pf/main-wrap-class >}
-{< /blocks/products/pf/main-container >}
-{< /blocks/products/pf/tutorial-page-section >}
-
 ## 関連チュートリアル
 
 - [GroupDocs.Conversion for .NET を使用して DWF ファイルを TXT に変換する方法（ステップバイステップガイド）](/conversion/net/cad-technical-drawing-formats/convert-dwf-to-txt-using-groupdocs-conversion-net/)

@@ -278,11 +278,6 @@ A: Включите потоковую передачу (`ConversionConfig.Enabl
 - [Временная лицензия](https://purchase.groupdocs.com/temporary-license/)  
 - [Форум поддержки](https://forum.groupdocs.com/c/conversion/10)  
 
-{< blocks/products/products-backtop-button >}
-{< /blocks/products/pf/main-wrap-class >}
-{< /blocks/products/pf/main-container >}
-{< /blocks/products/pf/tutorial-page-section >}
-
 ## Связанные руководства
 
 - [Как конвертировать файлы DWF в TXT с помощью GroupDocs.Conversion для .NET (Пошаговое руководство)](/conversion/net/cad-technical-drawing-formats/convert-dwf-to-txt-using-groupdocs-conversion-net/)

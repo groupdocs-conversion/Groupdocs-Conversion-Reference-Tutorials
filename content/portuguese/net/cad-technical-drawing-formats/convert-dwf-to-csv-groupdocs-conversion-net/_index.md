@@ -277,11 +277,6 @@ Agora você tem um guia completo e pronto para produção para **converter CAD p
 - [Licença Temporária](https://purchase.groupdocs.com/temporary-license/)  
 - [Fórum de Suporte](https://forum.groupdocs.com/c/conversion/10)  
 
-{< blocks/products/products-backtop-button >}
-{< /blocks/products/pf/main-wrap-class >}
-{< /blocks/products/pf/main-container >}
-{< /blocks/products/pf/tutorial-page-section >}
-
 ## Tutoriais Relacionados
 
 - [Como Converter Arquivos DWF para TXT Usando GroupDocs.Conversion para .NET (Guia Passo a Passo)](/conversion/net/cad-technical-drawing-formats/convert-dwf-to-txt-using-groupdocs-conversion-net/)

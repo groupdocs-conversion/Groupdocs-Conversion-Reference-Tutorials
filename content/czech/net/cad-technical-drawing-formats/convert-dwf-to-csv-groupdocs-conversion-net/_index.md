@@ -272,11 +272,6 @@ Nyní máte kompletní, připravený průvodce pro **convert CAD to CSV** pomoc�
 - [Dočasná licence](https://purchase.groupdocs.com/temporary-license/)  
 - [Fórum podpory](https://forum.groupdocs.com/c/conversion/10)  
 
-{< blocks/products/products-backtop-button >}
-{< /blocks/products/pf/main-wrap-class >}
-{< /blocks/products/pf/main-container >}
-{< /blocks/products/pf/tutorial-page-section >}
-
 ## Související tutoriály
 
 - [Jak převést soubory DWF do TXT pomocí GroupDocs.Conversion pro .NET (průvodce krok za krokem)](/conversion/net/cad-technical-drawing-formats/convert-dwf-to-txt-using-groupdocs-conversion-net/)

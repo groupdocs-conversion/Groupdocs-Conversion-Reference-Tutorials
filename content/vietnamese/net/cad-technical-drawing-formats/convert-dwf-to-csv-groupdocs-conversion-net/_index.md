@@ -278,11 +278,6 @@ Bạn giờ đã có một hướng dẫn đầy đủ, sẵn sàng cho sản xu
 - [Temporary License](https://purchase.groupdocs.com/temporary-license/)  
 - [Support Forum](https://forum.groupdocs.com/c/conversion/10)  
 
-{< blocks/products/products-backtop-button >}
-{< /blocks/products/pf/main-wrap-class >}
-{< /blocks/products/pf/main-container >}
-{< /blocks/products/pf/tutorial-page-section >}
-
 ## Hướng dẫn liên quan
 
 - [Cách chuyển đổi tệp DWF sang TXT bằng GroupDocs.Conversion cho .NET (Hướng dẫn từng bước)](/conversion/net/cad-technical-drawing-formats/convert-dwf-to-txt-using-groupdocs-conversion-net/)

@@ -273,11 +273,6 @@ Sie haben nun eine vollständige, produktionsbereite Anleitung zum **Konvertiere
 - [Temporäre Lizenz](https://purchase.groupdocs.com/temporary-license/)  
 - [Support‑Forum](https://forum.groupdocs.com/c/conversion/10)  
 
-{< blocks/products/products-backtop-button >}
-{< /blocks/products/pf/main-wrap-class >}
-{< /blocks/products/pf/main-container >}
-{< /blocks/products/pf/tutorial-page-section >}
-
 ## Verwandte Tutorials
 
 - [Wie man DWF‑Dateien in TXT mit GroupDocs.Conversion für .NET konvertiert (Schritt‑für‑Schritt‑Anleitung)](/conversion/net/cad-technical-drawing-formats/convert-dwf-to-txt-using-groupdocs-conversion-net/)

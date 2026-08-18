@@ -276,11 +276,6 @@ A: 開啟串流 (`ConversionConfig.EnableStreaming = true`) 並在具 SSD 儲存
 - [臨時授權](https://purchase.groupdocs.com/temporary-license/)  
 - [支援論壇](https://forum.groupdocs.com/c/conversion/10)  
 
-{< blocks/products/products-backtop-button >}
-{< /blocks/products/pf/main-wrap-class >}
-{< /blocks/products/pf/main-container >}
-{< /blocks/products/pf/tutorial-page-section >}
-
 ## 相關教學
 
 - [如何使用 GroupDocs.Conversion for .NET 將 DWF 檔案轉換為 TXT（步驟指南）](/conversion/net/cad-technical-drawing-formats/convert-dwf-to-txt-using-groupdocs-conversion-net/)

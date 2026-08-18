@@ -278,11 +278,6 @@ You now have a complete, production‑ready guide to **convert CAD to CSV** usin
 - [Temporary License](https://purchase.groupdocs.com/temporary-license/)  
 - [Support Forum](https://forum.groupdocs.com/c/conversion/10)  
 
-{< blocks/products/products-backtop-button >}
-{< /blocks/products/pf/main-wrap-class >}
-{< /blocks/products/pf/main-container >}
-{< /blocks/products/pf/tutorial-page-section >}
-
 ## Related Tutorials
 
 - [How to Convert DWF Files to TXT Using GroupDocs.Conversion for .NET (Step-by-Step Guide)](/conversion/net/cad-technical-drawing-formats/convert-dwf-to-txt-using-groupdocs-conversion-net/)

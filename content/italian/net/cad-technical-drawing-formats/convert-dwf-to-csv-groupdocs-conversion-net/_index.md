@@ -272,11 +272,6 @@ Ora hai una guida completa, pronta per la produzione, per **convertire CAD in CS
 - [Licenza Temporanea](https://purchase.groupdocs.com/temporary-license/)  
 - [Forum di Supporto](https://forum.groupdocs.com/c/conversion/10)  
 
-{< blocks/products/products-backtop-button >}
-{< /blocks/products/pf/main-wrap-class >}
-{< /blocks/products/pf/main-container >}
-{< /blocks/products/pf/tutorial-page-section >}
-
 ## Tutorial Correlati
 
 - [Come Convertire File DWF in TXT Usando GroupDocs.Conversion per .NET (Guida Passo‑Passo)](/conversion/net/cad-technical-drawing-formats/convert-dwf-to-txt-using-groupdocs-conversion-net/)

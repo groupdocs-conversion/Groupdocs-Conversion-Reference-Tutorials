@@ -267,11 +267,6 @@ A: เปิดใช้งานสตรีมมิ่ง (`ConversionConfig.
 - [ไลเซนส์ชั่วคราว](https://purchase.groupdocs.com/temporary-license/)  
 - [ฟอรั่มสนับสนุน](https://forum.groupdocs.com/c/conversion/10)  
 
-{< blocks/products/products-backtop-button >}
-{< /blocks/products/pf/main-wrap-class >}
-{< /blocks/products/pf/main-container >}
-{< /blocks/products/pf/tutorial-page-section >}
-
 ## บทแนะนำที่เกี่ยวข้อง
 
 - [วิธีแปลงไฟล์ DWF เป็น TXT ด้วย GroupDocs.Conversion สำหรับ .NET (คู่มือขั้นตอนต่อขั้นตอน)](/conversion/net/cad-technical-drawing-formats/convert-dwf-to-txt-using-groupdocs-conversion-net/)

@@ -275,11 +275,6 @@ Most már rendelkezik egy teljes, termelésre kész útmutatóval a **CAD CSV-re
 - [Ideiglenes licenc](https://purchase.groupdocs.com/temporary-license/)  
 - [Támogatási fórum](https://forum.groupdocs.com/c/conversion/10)  
 
-{< blocks/products/products-backtop-button >}
-{< /blocks/products/pf/main-wrap-class >}
-{< /blocks/products/pf/main-container >}
-{< /blocks/products/pf/tutorial-page-section >}
-
 ## Kapcsolódó útmutatók
 
 - [Hogyan konvertáljunk DWF fájlokat TXT-re a GroupDocs.Conversion for .NET használatával (Lépésről lépésre útmutató)](/conversion/net/cad-technical-drawing-formats/convert-dwf-to-txt-using-groupdocs-conversion-net/)
