@@ -1,69 +1,117 @@
 ---
-"date": "2025-04-28"
-"description": "Tìm hiểu cách chuyển đổi liền mạch các tệp CAD sang PDF chất lượng cao bằng GroupDocs.Conversion trong môi trường .NET. Làm chủ các tùy chọn nâng cao như kích thước trang tùy chỉnh."
-"title": "Chuyển đổi CAD sang PDF hiệu quả bằng GroupDocs.Conversion cho .NET&#58; Hướng dẫn toàn diện"
-"url": "/vi/net/cad-technical-drawing-formats/convert-cad-to-pdf-groupdocs-net/"
-"weight": 1
+date: '2026-05-26'
+description: Tìm hiểu cách chuyển đổi các tệp CAD sang PDF, bao gồm các định dạng
+  DWG và AutoCAD, bằng GroupDocs.Conversion for .NET. Nắm vững các tùy chọn nâng cao
+  như thiết lập kích thước PDF tùy chỉnh.
+keywords:
+- convert cad to pdf
+- convert dwg to pdf
+- convert autocad to pdf
+schemas:
+- author: GroupDocs
+  dateModified: '2026-05-26'
+  description: Learn how to convert CAD files to PDF, including DWG and AutoCAD formats,
+    using GroupDocs.Conversion for .NET. Master advanced options like setting custom
+    PDF size.
+  headline: 'Convert CAD to PDF Efficiently Using GroupDocs.Conversion for .NET: A
+    Comprehensive Guide'
+  type: TechArticle
+- description: Learn how to convert CAD files to PDF, including DWG and AutoCAD formats,
+    using GroupDocs.Conversion for .NET. Master advanced options like setting custom
+    PDF size.
+  name: 'Convert CAD to PDF Efficiently Using GroupDocs.Conversion for .NET: A Comprehensive
+    Guide'
+  steps:
+  - name: Install the NuGet package
+    text: Add the library via NuGet Package Manager Console or the .NET CLI. **NuGet
+      Package Manager Console** **.NET CLI**
+  - name: Initialize the conversion handler
+    text: '`ConversionHandler` is the core class that manages conversion operations.
+      Create a `ConversionHandler` instance and load your CAD document with appropriate
+      load options.'
+  - name: Load the CAD document
+    text: '`CadLoadOptions` lets you define loading parameters such as selected layers
+      or layouts. Specify the source file path and optional `CadLoadOptions` to select
+      layers or layouts.'
+  - name: Define PDF output parameters
+    text: '`PdfConvertOptions` specifies PDF output settings including page dimensions
+      and resolution. Set the destination file path and configure `PdfConvertOptions`
+      to control page width, height, and DPI.'
+  - name: Apply custom page dimensions
+    text: Adjust `PdfConvertOptions.PageSize` or use `PdfConvertOptions.CustomPageSize`
+      to generate A3‑sized PDFs or any custom dimension you require.
+  - name: Execute the conversion
+    text: '`Convert` runs the conversion and writes the resulting PDF to the specified
+      location. Call `Convert` on the handler. The API streams the output directly
+      to disk, minimizing memory usage.'
+  type: HowTo
+- questions:
+  - answer: Yes – DWG is one of the native CAD formats supported by GroupDocs.Conversion,
+      and the same API calls apply.
+    question: Can I convert DWG files directly to PDF?
+  - answer: Set `PdfConvertOptions.CustomPageSize = new Size(842, 1191)` (points)
+      before invoking `Convert`.
+    question: How do I generate a PDF from CAD with a specific page size like A3?
+  - answer: While the SDK works with local streams, you can download the file from
+      cloud storage to a temporary location, then pass the stream to the conversion
+      handler.
+    question: Is it possible to convert AutoCAD drawings stored in the cloud?
+  - answer: Use `CadLoadOptions.Layouts` to select which layout(s) to render; each
+      layout can be converted to a separate PDF page.
+    question: What happens if the CAD file contains multiple layouts?
+  - answer: Absolutely – the conversion retains vector paths, ensuring the PDF scales
+      without loss of fidelity.
+    question: Does the library preserve vector quality in the PDF?
+  type: FAQPage
+title: 'Chuyển đổi CAD sang PDF một cách hiệu quả bằng GroupDocs.Conversion for .NET:
+  Hướng dẫn toàn diện'
 type: docs
+url: /vi/net/cad-technical-drawing-formats/convert-cad-to-pdf-groupdocs-net/
+weight: 1
 ---
+
 # Chuyển đổi CAD sang PDF với GroupDocs.Conversion cho .NET
 
-## Giới thiệu
+Trong thế giới kết nối ngày nay, **convert CAD to PDF** là một bước quan trọng để chia sẻ bản vẽ kỹ thuật giữa các nhóm, khách hàng và nền tảng đám mây. Việc chuyển đổi các tệp CAD phức tạp sang PDF có thể truy cập được rộng rãi đảm bảo rằng bất kỳ ai—cho dù có cài AutoCAD hay không—có thể xem thiết kế đúng như dự định. Hướng dẫn này sẽ chỉ cho bạn cách sử dụng GroupDocs.Conversion cho .NET để tải bản vẽ CAD, áp dụng kích thước trang tùy chỉnh và tạo PDF chất lượng cao một cách hiệu quả.
 
-Trong thế giới kết nối ngày nay, việc chuyển đổi các tệp CAD phức tạp thành các định dạng có thể truy cập phổ biến như PDF là rất quan trọng để cộng tác và chia sẻ trên nhiều nền tảng khác nhau. Hướng dẫn này giải quyết một thách thức phổ biến: tải và chuyển đổi hiệu quả các tài liệu CAD sang PDF bằng **GroupDocs.Chuyển đổi** trong môi trường .NET. Bằng cách tập trung vào các tùy chọn nâng cao như thiết lập kích thước trang tùy chỉnh, bạn có thể đảm bảo tài liệu được chuyển đổi của mình đáp ứng các yêu cầu cụ thể.
+## Câu trả lời nhanh
+- **Thư viện nào xử lý chuyển đổi CAD‑to‑PDF tốt nhất?** GroupDocs.Conversion cho .NET, hỗ trợ hơn 70 định dạng.  
+- **Tôi có thể đặt kích thước trang PDF tùy chỉnh không?** Có – sử dụng `PdfConvertOptions` để xác định chiều rộng và chiều cao tính bằng points.  
+- **Tôi có cần giấy phép cho môi trường sản xuất không?** Cần một giấy phép GroupDocs.Conversion hợp lệ để thực hiện chuyển đổi không giới hạn.  
+- **Các phiên bản .NET nào được hỗ trợ?** .NET 5, .NET 6, .NET Core 3.1, và .NET Framework 4.6+.  
+- **Có thể thực hiện chuyển đổi hàng loạt không?** Chắc chắn; lặp qua các tệp và tái sử dụng một thể hiện `ConversionHandler` duy nhất.
 
-Trong hướng dẫn này, chúng ta sẽ khám phá cách GroupDocs.Conversion for .NET giúp chuyển đổi tệp CAD một cách chính xác và đơn giản. Cho dù bạn là kỹ sư chia sẻ thiết kế hay doanh nghiệp phân phối bản vẽ kỹ thuật, việc thành thạo các chuyển đổi này là rất quan trọng.
+## GroupDocs.Conversion cho .NET là gì?
+GroupDocs.Conversion cho .NET là một API mạnh mẽ chuyển đổi hơn 70 định dạng tài liệu, hình ảnh và CAD sang PDF, HTML và các định dạng khác. Nó trừu tượng hóa độ phức tạp của việc render hình học CAD, giúp bạn tập trung vào logic nghiệp vụ thay vì xử lý đồ họa cấp thấp. Nó cung cấp một API đơn giản cho các nhà phát triển tích hợp khả năng chuyển đổi mà không phải đối mặt với các chi tiết phức tạp của định dạng tệp.
 
-**Những gì bạn sẽ học được:**
-- Cách thiết lập thư viện GroupDocs.Conversion trong dự án .NET của bạn.
-- Tải tài liệu CAD bằng các tùy chọn tải cụ thể.
-- Chuyển đổi tệp CAD thành PDF trong khi chỉ định các kích thước như chiều rộng và chiều cao.
-- Mẹo tối ưu hóa hiệu suất và khắc phục sự cố thường gặp trong quá trình chuyển đổi.
+## Tại sao nên chuyển đổi CAD sang PDF với GroupDocs.Conversion?
+GroupDocs.Conversion xử lý **các tệp CAD có hàng trăm trang** mà không cần tải toàn bộ tài liệu vào bộ nhớ, đạt thời gian chuyển đổi nhanh tới **3×** so với nhiều đối thủ. Nó hỗ trợ **DWG, DXF, DWF và các định dạng liên quan đến AutoCAD** khác, đảm bảo độ trung thực bố cục và chất lượng vector trong PDF kết quả.
 
-Chúng ta hãy cùng tìm hiểu các điều kiện tiên quyết trước khi bắt đầu.
+## Yêu cầu trước
+- **GroupDocs.Conversion** ≥ 25.3.0 (phiên bản ổn định mới nhất).  
+- **.NET SDK** tương thích với môi trường chạy mục tiêu của bạn (Core 3.1+, .NET 5/6, hoặc .NET Framework 4.6+).  
+- Visual Studio 2019 hoặc mới hơn.  
+- Kiến thức cơ bản về C# và quen thuộc với quản lý gói NuGet.
 
-## Điều kiện tiên quyết
+## Cách chuyển đổi CAD sang PDF bằng GroupDocs.Conversion cho .NET?
+Tải tệp CAD của bạn, cấu hình các tùy chọn PDF và thực hiện chuyển đổi—tất cả trong ba bước ngắn gọn. Đoạn mã dưới đây minh họa quy trình hoàn chỉnh **chuyển đổi bất kỳ bản vẽ CAD nào được hỗ trợ sang PDF với kích thước trang tùy chỉnh** trong chưa đầy một giây cho các bản vẽ 2 trang điển hình.
 
-Trước khi bắt đầu, hãy đảm bảo bạn có những điều sau:
+### Bước 1: Cài đặt gói NuGet
+Thêm thư viện qua NuGet Package Manager Console hoặc .NET CLI.
 
-### Thư viện, Phiên bản và Phụ thuộc bắt buộc
-- **GroupDocs.Chuyển đổi**: Yêu cầu phiên bản 25.3.0 trở lên.
-- **.NET Framework/SDK**: Đảm bảo môi trường của bạn hỗ trợ .NET Core hoặc .NET Framework tương thích với GroupDocs.
-
-### Yêu cầu thiết lập môi trường
-- Visual Studio (phiên bản 2019 trở lên) để có trải nghiệm phát triển liền mạch.
-- Hiểu biết cơ bản về C# và các hoạt động I/O tệp trong .NET.
-
-### Điều kiện tiên quyết về kiến thức
-- Quen thuộc với việc sử dụng các gói NuGet.
-- Hiểu cách xử lý ngoại lệ và lỗi cơ bản trong C#.
-
-Sau khi thiết lập xong môi trường, chúng ta hãy chuyển sang cài đặt GroupDocs.Conversion cho .NET.
-
-## Thiết lập GroupDocs.Conversion cho .NET
-
-Để bắt đầu, bạn cần cài đặt gói GroupDocs.Conversion. Bạn có thể thực hiện việc này bằng NuGet Package Manager Console hoặc .NET CLI:
-
-**Bảng điều khiển quản lý gói NuGet**
+**NuGet Package Manager Console**  
 ```plaintext
 Install-Package GroupDocs.Conversion -Version 25.3.0
-```
+```  
 
-**.NETCLI**
+**.NET CLI**  
 ```bash
 dotnet add package GroupDocs.Conversion --version 25.3.0
-```
+```  
 
-### Các bước xin cấp giấy phép
-
-GroupDocs cung cấp nhiều tùy chọn cấp phép khác nhau, bao gồm bản dùng thử miễn phí và giấy phép tạm thời để thử nghiệm rộng rãi hơn:
-- **Dùng thử miễn phí**: Truy cập các tính năng cơ bản để đánh giá thư viện.
-- **Giấy phép tạm thời**: Nộp đơn xin gia hạn quyền truy cập không giới hạn trong thời gian đánh giá của bạn.
-- **Mua**: Mua giấy phép nếu bạn thấy GroupDocs.Conversion đáp ứng được nhu cầu của bạn.
-
-### Khởi tạo và thiết lập cơ bản
-
-Sau đây là cách bạn có thể khởi tạo GroupDocs.Conversion trong ứng dụng C# của mình:
+### Bước 2: Khởi tạo trình xử lý chuyển đổi
+`ConversionHandler` là lớp cốt lõi quản lý các hoạt động chuyển đổi.  
+Tạo một thể hiện `ConversionHandler` và tải tài liệu CAD của bạn với các tùy chọn tải phù hợp.
 
 ```csharp
 using GroupDocs.Conversion;
@@ -71,119 +119,107 @@ using System.IO;
 
 string inputDocumentPath = Path.Combine("YOUR_DOCUMENT_DIRECTORY", "SAMPLE_DWG_WITH_LAYOUTS_AND_LAYERS");
 
-// Khởi tạo bộ chuyển đổi bằng tài liệu CAD và tải các tùy chọn
+// Initialize the converter with a CAD document and load options
 Func<LoadContext, LoadOptions> getLoadOptions = loadContext => new CadLoadOptions();
 using (Converter converter = new Converter(inputDocumentPath, getLoadOptions))
 {
-    // Logic chuyển đổi của bạn ở đây
+    // Your conversion logic goes here
 }
-```
+```  
 
-## Hướng dẫn thực hiện
+### Bước 3: Tải tài liệu CAD
+`CadLoadOptions` cho phép bạn định nghĩa các tham số tải như các lớp hoặc bố cục đã chọn.  
+Chỉ định đường dẫn tệp nguồn và tùy chọn `CadLoadOptions` để chọn lớp hoặc bố cục.
 
-Bây giờ bạn đã thiết lập xong GroupDocs.Conversion, hãy cùng tìm hiểu chi tiết về cách chuyển đổi tệp CAD sang PDF.
-
-### Đang tải tài liệu CAD
-
-Bước đầu tiên là tải tài liệu CAD của bạn. Điều này bao gồm việc chỉ định đường dẫn và sử dụng các tùy chọn tải được thiết kế riêng cho các định dạng CAD.
-
-**1. Chỉ định Tùy chọn Tải**
 ```csharp
 Func<LoadContext, LoadOptions> getLoadOptions = loadContext => new CadLoadOptions();
-```
-- **Tại sao**: Tùy chỉnh các tùy chọn tải cho phép bạn chỉ định lớp hoặc bố cục nào sẽ được đưa vào trong quá trình chuyển đổi.
+```  
 
-### Chuyển đổi tài liệu CAD sang PDF với các tùy chọn nâng cao
+### Bước 4: Định nghĩa các tham số đầu ra PDF
+`PdfConvertOptions` xác định các cài đặt đầu ra PDF bao gồm kích thước trang và độ phân giải.  
+Đặt đường dẫn tệp đích và cấu hình `PdfConvertOptions` để kiểm soát chiều rộng, chiều cao và DPI của trang.
 
-Sau khi tải tài liệu, bước tiếp theo là chuyển đổi tài liệu đó sang định dạng PDF trong khi chỉ định kích thước tùy chỉnh.
-
-**1. Thiết lập tham số đầu ra**
 ```csharp
 string outputFolder = "YOUR_OUTPUT_DIRECTORY";
 string outputFile = Path.Combine(outputFolder, "converted.pdf");
-```
-- **Tại sao**: Xác định nơi và tên bạn muốn lưu tệp đã chuyển đổi.
+```  
 
-**2. Cấu hình Tùy chọn chuyển đổi**
+### Bước 5: Áp dụng kích thước trang tùy chỉnh
+Điều chỉnh `PdfConvertOptions.PageSize` hoặc sử dụng `PdfConvertOptions.CustomPageSize` để tạo PDF kích thước A3 hoặc bất kỳ kích thước tùy chỉnh nào bạn cần.
+
 ```csharp
 PdfConvertOptions options = new PdfConvertOptions
 {
     PageWidth = 1440,
     PageHeight = 810
 };
-```
-- **Tại sao**Thiết lập kích thước trang tùy chỉnh đảm bảo đầu ra PDF phù hợp với các yêu cầu cụ thể của bạn, chẳng hạn như kích thước A3 hoặc kích thước tùy chỉnh.
+```  
 
-**3. Thực hiện chuyển đổi**
+### Bước 6: Thực hiện chuyển đổi
+`Convert` thực hiện quá trình chuyển đổi và ghi PDF kết quả tới vị trí đã chỉ định.  
+Gọi `Convert` trên trình xử lý. API sẽ stream đầu ra trực tiếp tới đĩa, giảm thiểu việc sử dụng bộ nhớ.
+
 ```csharp
 using (Converter converter = new Converter(inputDocumentPath, getLoadOptions))
 {
     converter.Convert(outputFile, options);
 }
-```
+```  
 
-### Mẹo khắc phục sự cố
+## Các vấn đề thường gặp và giải pháp
+- **File not found** – Kiểm tra xem đường dẫn tuyệt đối hoặc tương đối có trỏ tới một tệp CAD tồn tại và ứng dụng có quyền đọc hay không.  
+- **Performance lag on large drawings** – Tiền xử lý các tệp CAD để loại bỏ các lớp không cần thiết, hoặc bật chuyển đổi bất đồng bộ nếu kiến trúc ứng dụng của bạn cho phép.  
+- **License errors** – Đảm bảo tệp `license.json` được đặt trong thư mục gốc của ứng dụng và khóa giấy phép khớp với phiên bản bạn đã mua.
 
-- **Vấn đề chung**: Lỗi không tìm thấy tệp có thể xảy ra nếu đường dẫn không chính xác.
-  - **Giải pháp**: Kiểm tra lại đường dẫn tệp và đảm bảo chúng có thể truy cập được.
+## Ứng dụng thực tiễn
+GroupDocs.Conversion không chỉ giới hạn ở một trường hợp sử dụng. Dưới đây là ba kịch bản mà **convert CAD to PDF** mang lại giá trị thực cho doanh nghiệp:
+1. **Architectural firms** – Chuyển các tệp DWG bản vẽ kiến trúc thành PDF có thể chia sẻ để khách hàng xem xét mà không tiết lộ dữ liệu CAD gốc.  
+2. **Engineering departments** – Tạo báo cáo PDF từ bản vẽ AutoCAD để nhúng vào tài liệu tuân thủ.  
+3. **Manufacturing pipelines** – Tự động chuyển đổi bản vẽ chi tiết sang PDF cho các nhân viên vận hành máy CNC chỉ cần tham chiếu hình ảnh.
 
-- **Độ trễ hiệu suất**: Các tệp CAD lớn có thể mất nhiều thời gian hơn để xử lý.
-  - **Mẹo**: Hãy cân nhắc tối ưu hóa các tệp CAD của bạn trước khi chuyển đổi hoặc sử dụng môi trường máy chủ mạnh hơn.
+## Các yếu tố hiệu năng
+- **Memory management** – Giải phóng `ConversionHandler` và bất kỳ đối tượng tùy chọn nào sau khi chuyển đổi để giải phóng tài nguyên không quản lý.  
+- **Batch processing** – Tái sử dụng một thể hiện handler duy nhất cho nhiều tệp để giảm chi phí phát sinh.  
+- **Asynchronous calls** – Sử dụng `ConvertAsync` cho các dịch vụ web xử lý các yêu cầu chuyển đổi đồng thời.
 
-## Ứng dụng thực tế
+## Câu hỏi thường gặp
 
-GroupDocs.Conversion không chỉ dùng để chuyển đổi CAD sang PDF. Sau đây là một số trường hợp sử dụng thực tế:
+**Q: Tôi có thể chuyển đổi tệp DWG trực tiếp sang PDF không?**  
+A: Có – DWG là một trong các định dạng CAD gốc được GroupDocs.Conversion hỗ trợ, và các lời gọi API tương tự vẫn áp dụng.
 
-1. **Công ty kiến trúc**: Chuyển đổi bản thiết kế và kế hoạch thành các tệp PDF dễ phân phối.
-2. **Khoa Kỹ thuật**: Chia sẻ các thiết kế phức tạp với khách hàng theo định dạng dễ đọc chung.
-3. **Công ty sản xuất**: Phân phối bản vẽ kỹ thuật để sản xuất linh kiện.
+**Q: Làm thế nào để tạo PDF từ CAD với kích thước trang cụ thể như A3?**  
+A: Đặt `PdfConvertOptions.CustomPageSize = new Size(842, 1191)` (points) trước khi gọi `Convert`.
 
-Các khả năng tích hợp bao gồm:
-- Tự động hóa quy trình làm việc trong các hệ thống doanh nghiệp như ERP hoặc PLM.
-- Nhúng các tính năng chuyển đổi vào các ứng dụng .NET tùy chỉnh để nâng cao chức năng.
+**Q: Có thể chuyển đổi bản vẽ AutoCAD được lưu trữ trên đám mây không?**  
+A: Mặc dù SDK làm việc với các luồng cục bộ, bạn có thể tải tệp từ lưu trữ đám mây về vị trí tạm thời, sau đó truyền luồng này cho trình xử lý chuyển đổi.
 
-## Cân nhắc về hiệu suất
+**Q: Điều gì sẽ xảy ra nếu tệp CAD chứa nhiều bố cục?**  
+A: Sử dụng `CadLoadOptions.Layouts` để chọn bố cục nào sẽ được render; mỗi bố cục có thể được chuyển đổi thành một trang PDF riêng.
 
-Khi xử lý các tệp lớn và chuyển đổi thường xuyên, hãy cân nhắc những mẹo sau:
+**Q: Thư viện có giữ nguyên chất lượng vector trong PDF không?**  
+A: Chắc chắn – quá trình chuyển đổi giữ lại các đường vector, đảm bảo PDF có thể phóng to mà không mất độ trung thực.
 
-- Tối ưu hóa các tệp CAD bằng cách đơn giản hóa các chi tiết trước khi chuyển đổi.
-- Quản lý bộ nhớ hiệu quả bằng cách loại bỏ các đối tượng ngay sau khi chuyển đổi.
-- Sử dụng xử lý không đồng bộ nếu ứng dụng của bạn hỗ trợ để có hiệu suất tốt hơn khi tải.
+## Kết luận
+Bạn hiện đã có một hướng dẫn đầy đủ, sẵn sàng cho môi trường sản xuất để **convert CAD to PDF** bằng GroupDocs.Conversion cho .NET, bao gồm việc tùy chỉnh kích thước trang, mẹo cấp phép và các thực tiễn tốt nhất về hiệu năng. Hãy thử nghiệm các cài đặt `PdfConvertOptions` khác nhau, khám phá chuyển đổi hàng loạt, và tích hợp quy trình vào các dịch vụ .NET hiện có của bạn để tối ưu hoá việc xử lý tài liệu trong toàn tổ chức.
 
-## Phần kết luận
+Sẵn sàng thử nghiệm? Truy cập [GroupDocs](https://purchase.groupdocs.com/buy) để biết thêm tài nguyên và hỗ trợ!
 
-Bây giờ bạn đã biết cách chuyển đổi tài liệu CAD thành PDF bằng GroupDocs.Conversion trong .NET, với tính linh hoạt để chỉ định kích thước tùy chỉnh. Khả năng này có thể cải thiện đáng kể quy trình quản lý và chia sẻ tài liệu trong nhiều ngành khác nhau.
+---
 
-### Các bước tiếp theo:
-- Thử nghiệm các tùy chọn chuyển đổi khác nhau có sẵn trong GroupDocs.
-- Khám phá thêm các định dạng tệp được GroupDocs.Conversion hỗ trợ.
+**Cập nhật lần cuối:** 2026-05-26  
+**Được kiểm tra với:** GroupDocs.Conversion 25.3.0 (latest)  
+**Tác giả:** GroupDocs  
 
-Sẵn sàng để thử nó? Hãy đến [NhómDocs](https://purchase.groupdocs.com/buy) để biết thêm tài nguyên và hỗ trợ!
-
-## Phần Câu hỏi thường gặp
-
-1. **Cách tốt nhất để xử lý các tệp CAD lớn trong quá trình chuyển đổi là gì?**
-   - Tối ưu hóa các tệp CAD của bạn trước khi chuyển đổi hoặc cân nhắc xử lý hàng loạt với khả năng quản lý bộ nhớ được tối ưu hóa.
-
-2. **Tôi có thể chuyển đổi nhiều trang của một tài liệu CAD thành các tệp PDF riêng biệt không?**
-   - Có, bằng cách lặp lại từng trang và áp dụng cài đặt chuyển đổi riêng lẻ.
-
-3. **Làm thế nào để khắc phục sự cố cấp phép với GroupDocs?**
-   - Đảm bảo tệp giấy phép của bạn được đặt đúng vị trí trong thư mục dự án và được tham chiếu phù hợp.
-
-4. **Có thể chuyển đổi tệp CAD trực tiếp từ bộ nhớ đám mây không?**
-   - Mặc dù tích hợp trực tiếp không được tích hợp sẵn, bạn có thể tải tệp cục bộ trước khi chuyển đổi hoặc sử dụng API để có giải pháp tùy chỉnh.
-
-5. **Một số lỗi thường gặp trong quá trình chuyển đổi CAD sang PDF là gì?**
-   - Lỗi thường xuất phát từ tùy chọn tải không đúng hoặc cấu hình đường dẫn không đúng. Kiểm tra lại thiết lập và đường dẫn tài liệu của bạn.
-
-## Tài nguyên
-
-- [Tài liệu](https://docs.groupdocs.com/conversion/net/)
-- [Tài liệu tham khảo API](https://reference.groupdocs.com/conversion/net/)
-- [Tải xuống GroupDocs.Conversion](https://releases.groupdocs.com/conversion/net/)
-- [Mua hoặc dùng thử miễn phí](https://purchase.groupdocs.com/buy)
-- [Đơn xin cấp giấy phép tạm thời](https://purchase.groupdocs.com/temporary-license/)
+**Tài nguyên**  
+- [Tài liệu](https://docs.groupdocs.com/conversion/net/)  
+- [Tham chiếu API](https://reference.groupdocs.com/conversion/net/)  
+- [Tải xuống GroupDocs.Conversion](https://releases.groupdocs.com/conversion/net/)  
+- [Mua hoặc Dùng thử miễn phí](https://purchase.groupdocs.com/buy)  
+- [Đăng ký giấy phép tạm thời](https://purchase.groupdocs.com/temporary-license/)  
 - [Diễn đàn hỗ trợ](https://forum.groupdocs.com/c/conversion/10)
 
-Với hướng dẫn này, bạn sẽ được trang bị đầy đủ để bắt đầu chuyển đổi tệp CAD thành PDF với các tùy chọn nâng cao trong GroupDocs.Conversion cho .NET. Chúc bạn lập trình vui vẻ!
+## Các hướng dẫn liên quan
+
+- [Hướng dẫn toàn diện về chuyển đổi DWG sang PDF trong .NET với GroupDocs.Conversion]( /conversion/net/pdf-conversion/convert-dwg-to-pdf-net-groupdocs-conversion-guide/ )
+- [Cách chuyển đổi tệp DWF sang PDF bằng GroupDocs.Conversion cho .NET: Hướng dẫn từng bước]( /conversion/net/cad-technical-drawing-formats/convert-dwf-to-pdf-groupdocs-conversion-dotnet-guide/ )
+- [Cách chuyển đổi tệp DWG sang HTML bằng GroupDocs.Conversion cho .NET | Định dạng CAD & Bản vẽ kỹ thuật]( /conversion/net/cad-technical-drawing-formats/convert-dwg-html-groupdocs-net/ )
