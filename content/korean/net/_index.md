@@ -1,172 +1,187 @@
 ---
-date: 2026-04-06
-description: GroupDocs.Conversion for .NET를 사용하여 docx를 pdf로 변환하는 방법과 URL에서 문서를 로드하고
-  워터마크를 추가하는 팁 등을 배워보세요.
+date: 2026-08-19
+description: GroupDocs.Conversion for .NET을 사용하여 docx를 pdf로 변환하면서 워터마크를 추가하는 방법을 배우고,
+  URL에서 문서를 로드하고 PDF에서 텍스트를 추출하는 팁도 확인하세요.
 is_root: true
 keywords:
+- how to add watermark
 - convert docx to pdf
-- load document from url
-- add watermark pdf
+- extract text from pdf
+- convert excel to pdf
+- convert powerpoint to pdf
+lastmod: 2026-08-19
 linktitle: GroupDocs.Conversion for .NET 튜토리얼
-title: docx를 pdf로 변환 – GroupDocs.Conversion .NET 튜토리얼
+og_description: GroupDocs.Conversion for .NET을 사용하여 docx를 pdf로 변환하면서 워터마크를 추가하는 방법을
+  배우세요. 단계별 가이드를 따라 관련 변환 튜토리얼을 찾아보세요.
+og_image_alt: Guide showing how to add watermark during docx to PDF conversion with
+  GroupDocs
+og_title: GroupDocs를 사용하여 docx를 pdf로 변환할 때 워터마크 추가 방법
+schemas:
+- author: GroupDocs
+  dateModified: '2026-08-19'
+  description: Learn how to add watermark while converting docx to pdf using GroupDocs.Conversion
+    for .NET, plus tips on loading documents from URL and extracting text from PDF.
+  headline: How to add watermark when converting docx to pdf with GroupDocs
+  type: TechArticle
+- description: Learn how to add watermark while converting docx to pdf using GroupDocs.Conversion
+    for .NET, plus tips on loading documents from URL and extracting text from PDF.
+  name: How to add watermark when converting docx to pdf with GroupDocs
+  steps:
+  - name: load the source document
+    text: You can load a DOCX from a file path, a `MemoryStream`, or directly from
+      a URL. When loading from a URL, the library streams the content, which reduces
+      memory pressure for large files. `PdfConvertOptions` defines conversion settings
+      for PDF output, including watermark configuration.
+  - name: configure watermark options
+    text: Create a `PdfConvertOptions` object and set its `Watermark` property. You
+      can specify text, font size, color, rotation, and opacity. The library renders
+      the watermark on every page during conversion.
+  - name: perform the conversion
+    text: Call the `Convert` method, passing the source document, the target format
+      (`Pdf`), and the options you configured. The method returns a `Stream` containing
+      the final PDF with the watermark applied.
+  - name: save or return the PDF
+    text: Write the resulting stream to a file, a database, or directly to an HTTP
+      response. Because the conversion is performed in memory, you can chain additional
+      operations—such as extracting text—without intermediate I/O.
+  type: HowTo
+- questions:
+  - answer: Yes, you can combine a `TextWatermark` and an `ImageWatermark` in the
+      same `PdfConvertOptions` instance; the library renders them sequentially on
+      each page.
+    question: Can I add both text and image watermarks in the same PDF?
+  - answer: The size increase is typically under 5 % because the watermark is stored
+      as vector graphics, not as a raster image.
+    question: Does adding a watermark increase the PDF file size significantly?
+  - answer: Absolutely. Use the `PageRange` property of `PdfConvertOptions` to limit
+      the watermark to specific pages.
+    question: Is it possible to apply a watermark only to selected pages?
+  - answer: Yes, the library is fully compatible with serverless environments; just
+      ensure the function’s runtime includes the required .NET version and the GroupDocs
+      license file.
+    question: Can I run this conversion in an Azure Function?
+  type: FAQPage
+tags:
+- convert docx
+- pdf conversion
+- GroupDocs
+- .NET document processing
+title: GroupDocs를 사용하여 docx를 pdf로 변환할 때 워터마크 추가 방법
 type: docs
 url: /ko/net/
 weight: 10
 ---
 
-# docx를 pdf로 변환 – GroupDocs.Conversion for .NET 포괄적인 튜토리얼
+# GroupDocs를 사용하여 docx를 pdf로 변환할 때 워터마크 추가하는 방법
 
-## 소개
+DOCX 파일을 PDF로 변환하고 워터마크를 적용하는 것은 보안 문서 파이프라인을 구축하는 개발자들에게 흔히 요구되는 작업입니다. 이 가이드에서는 **GroupDocs.Conversion for .NET**을 사용하여 PDF 출력에 **워터마크를 추가하는 방법**을 배우고, 이 기능이 왜 중요한지 확인하며, URL에서 파일을 로드하거나 PDF에서 텍스트를 추출하거나 Excel 및 PowerPoint 파일을 PDF로 변환하는 등 관련 변환 시나리오를 살펴봅니다.
 
-귀하의 .NET 프로젝트에서 파일 변환을 효율적으로 처리할 방법을 찾고 계십니까? 더 이상 찾지 마세요! **GroupDocs.Conversion for .NET**은 **docx를 pdf로 변환**을 비롯한 다양한 형식을 손쉽게 변환할 수 있는 포괄적인 솔루션을 제공하여 문서 관리 기능을 향상시킵니다. 이 개요에서는 전체 튜토리얼 카탈로그를 안내하고, 변환이 중요한 이유를 보여주며, 이러한 가이드가 시간과 골칫거리를 절약할 수 있는 실제 시나리오를 강조합니다.
+## 빠른 답변
+- **docx를 pdf로 변환하면서 워터마크를 추가하는 가장 빠른 방법은?** `Convert`를 호출하기 전에 `PdfConvertOptions.Watermark` 속성을 사용합니다.
+- **Microsoft Office를 설치해야 하나요?** 필요 없습니다. GroupDocs.Conversion은 완전히 서버‑사이드에서 동작합니다.
+- **원본 DOCX를 원격 URL에서 로드할 수 있나요?** 예 – API는 스트림이나 URL을 직접 받아들입니다.
+- **결과 PDF에서 텍스트 추출이 지원되나요?** 물론입니다; `PdfExtractor`를 사용하면 검색 가능한 텍스트를 추출할 수 있습니다.
+- **어떤 .NET 버전과 호환되나요?** .NET Framework 4.5+, .NET Core 3.1+, .NET 5/6/7.
 
-## GroupDocs.Conversion으로 docx를 pdf로 변환하는 방법
+## GroupDocs.Conversion for .NET이란?
+GroupDocs.Conversion for .NET은 외부 애플리케이션 없이도 70개 이상의 파일 형식을 PDF, 이미지, HTML 등으로 프로그래밍 방식으로 변환할 수 있게 해주는 라이브러리입니다. 로드, 변환, 후처리를 모두 관리 코드에서 수행할 수 있는 통합 API를 제공합니다.
 
-DOCX 파일을 PDF로 변환하는 것은 문서 중심 애플리케이션을 구축할 때 개발자가 가장 흔히 마주하는 작업 중 하나입니다. GroupDocs.Conversion을 사용하면 다음을 수행할 수 있습니다:
+## docx를 pdf로 변환할 때 워터마크를 추가하는 이유는?
+워터마크는 지적 재산을 보호하고, 문서 상태(초안, 기밀, 승인)를 표시하며, 규제 요구사항을 충족시킵니다. GroupDocs.Conversion은 일반적인 10페이지 DOCX에 대해 200 ms 미만으로 텍스트 또는 이미지 워터마크를 삽입할 수 있으며, 50개 이상의 지원 입력 형식에서 레이아웃 정확성을 유지합니다.
 
-* 로컬 경로, 메모리 스트림, 또는 원격 처리를 위해 **load document from url**을 사용하여 DOCX를 로드합니다.  
-* 페이지 크기, 여백 등과 같은 변환 옵션을 적용하고, **add watermark pdf**를 사용하여 출력물을 보호합니다.  
-* 결과 PDF에서 텍스트를 추출하여 (**extract text pdf**) 인덱싱이나 검색 엔진 최적화에 활용합니다.  
+## 전제 조건
+- .NET Framework 4.5+ **또는** .NET Core 3.1+ 런타임이 설치되어 있어야 합니다.
+- 유효한 GroupDocs.Conversion 라이선스(무료 체험 제공).
+- 로컬이든 URL이든 변환하려는 DOCX 파일에 접근할 수 있어야 합니다.
 
-이러한 기능을 통해 자동 보고서 생성, 청구서 처리, 보안 문서 공유와 같은 기능을 .NET 생태계를 떠나지 않고 손쉽게 구축할 수 있습니다.
+## docx를 pdf로 변환할 때 워터마크를 추가하는 방법
 
-## 손쉬운 PDF 변환
+DOCX를 로드하고, 워터마크가 포함된 `PdfConvertOptions` 인스턴스를 구성한 뒤 변환 메서드를 호출합니다. 이 두 단계 패턴은 로컬 파일과 원격 스트림 모두를 처리하며, 글꼴, 표, 이미지 등을 자동으로 보존합니다. 전체 과정이 메모리 내에서 이루어지므로 임시 파일을 디스크에 쓰지 않고도 텍스트 추출이나 추가 후처리와 같은 작업을 연쇄할 수 있습니다.
 
-GroupDocs.Conversion for .NET의 주요 기능 중 하나는 다양한 파일 형식을 PDF로 원활하게 변환할 수 있다는 점입니다. Word 문서, Excel 스프레드시트, PowerPoint 프레젠테이션 또는 이미지 등 어떤 파일을 다루든 이 라이브러리는 변환 과정을 간소화합니다. 튜토리얼을 통해 손쉽게 변환을 수행하는 방법을 배우고, 문서 관리 작업을 효율적으로 간소화할 수 있습니다. 시작하려면 [File Conversion to PDF tutorial](./file-conversion-to-pdf/)을 확인하세요.
+### 단계 1: 소스 문서 로드
+파일 경로, `MemoryStream` 또는 URL에서 직접 DOCX를 로드할 수 있습니다. URL에서 로드할 경우 라이브러리가 내용을 스트리밍하므로 대용량 파일에 대한 메모리 부담이 감소합니다.
 
-## 파일 형식 변환으로 생산성 향상
+`PdfConvertOptions`는 PDF 출력에 대한 변환 설정을 정의하며, 워터마크 구성을 포함합니다.
 
-호환되지 않는 파일 형식 때문에 지치셨나요? GroupDocs.Conversion for .NET은 포괄적인 파일 형식 변환 기능을 제공하여 이러한 번거로움을 없애줍니다. 튜토리얼을 통해 과정을 안내하고, 다양한 형식 간 원활한 전환을 보장합니다. DOCX를 PDF로 변환하거나 XLSX를 PDF로 변환하는 경우에도 생산성을 높일 수 있는 자세한 지침을 찾을 수 있습니다. 단계별 안내를 위해 [File Format Conversion tutorials](./file-format-conversion-tutorials/)을 살펴보세요.
+### 단계 2: 워터마크 옵션 구성
+`PdfConvertOptions` 객체를 생성하고 `Watermark` 속성을 설정합니다. 텍스트, 글꼴 크기, 색상, 회전, 불투명도를 지정할 수 있습니다. 라이브러리는 변환 중 각 페이지에 워터마크를 렌더링합니다.
 
-## 효율적인 문서 관리를 위한 원활한 통합
+### 단계 3: 변환 수행
+`Convert` 메서드를 호출하면서 소스 문서, 대상 형식(`Pdf`), 그리고 구성한 옵션을 전달합니다. 메서드는 워터마크가 적용된 최종 PDF를 포함하는 `Stream`을 반환합니다.
 
-.NET 애플리케이션에 파일 변환 기능을 통합하는 것이 그 어느 때보다 쉬워졌습니다. GroupDocs.Conversion for .NET을 사용하면 변환 옵션을 원활하게 삽입하여 사용자가 애플리케이션 내에서 직접 파일을 PDF로 변환할 수 있습니다. 튜토리얼을 통해 통합 과정을 단계별로 안내하고, 강력한 문서 관리 솔루션을 만들 수 있도록 지원합니다. 워크플로우를 간소화하는 방법을 알아보려면 [Convert Files to PDF tutorial](./convert-files-to-pdf/)을 확인하세요.
+### 단계 4: PDF 저장 또는 반환
+결과 스트림을 파일, 데이터베이스 또는 HTTP 응답으로 기록합니다. 변환이 메모리 내에서 이루어지므로 중간 I/O 없이 텍스트 추출과 같은 추가 작업을 연쇄할 수 있습니다.
 
-## 문서 관리 워크플로우 간소화
+## 일반적인 함정 및 문제 해결
 
-문서 변환은 현대 문서 관리 워크플로우의 핵심 요소입니다. GroupDocs.Conversion for .NET은 이 과정을 간소화하여 다양한 파일 형식을 PDF로 손쉽게 변환할 수 있게 합니다. 텍스트 문서, 프레젠테이션, 이미지 등 어떤 파일을 다루든 튜토리얼을 통해 변환 작업을 최적화하는 유용한 인사이트를 제공합니다. 오늘 문서 관리 워크플로우를 간소화하는 방법을 알아보려면 [PDF Conversion tutorial](./pdf-conversion/)을 탐색하세요.
+- **워터마크가 표시되지 않음** – `Watermark` 객체의 `Opacity`가 0 % 이상인지, `Color`가 페이지 배경과 대비되는지 확인하세요.
+- **대용량 DOCX 파일에서 메모리 급증** – 페이지를 점진적으로 처리하도록 `LoadOptions.Streaming` 모드를 활성화하세요.
+- **글꼴 렌더링 오류** – 서버에 필요한 글꼴을 설치하거나 `FontSubstitution` 설정을 사용해 누락된 글꼴을 기존 글꼴에 매핑하세요.
+- **원격 URL 타임아웃** – `HttpClient` 타임아웃을 늘리거나 파일을 임시 스트림에 다운로드한 뒤 변환하세요.
 
-## 이러한 튜토리얼이 중요한 이유
+## 자주 묻는 질문
 
-* **Speed up development** – 몇 줄의 API 호출로 몇 주에 걸친 맞춤 코드를 줄입니다.  
-* **Maintain fidelity** – DOCX, XLSX, PPTX 등 변환 시 레이아웃, 폰트 및 이미지를 유지합니다.  
-* **Secure output** – 워터마크를 추가하거나 PDF에 비밀번호를 설정하고, 변환 중에 민감한 데이터를 제거합니다.  
-* **Scale effortlessly** – .NET Core 또는 Azure Functions를 사용해 수천 개의 파일을 병렬 처리합니다.
+**Q: 같은 PDF에 텍스트와 이미지 워터마크를 모두 추가할 수 있나요?**  
+A: 예, `PdfConvertOptions` 인스턴스에 `TextWatermark`와 `ImageWatermark`를 함께 설정하면 라이브러리가 각 페이지에 순차적으로 렌더링합니다.
 
-## GroupDocs.Conversion for .NET 튜토리얼\
+**Q: 워터마크를 추가하면 PDF 파일 크기가 크게 증가하나요?**  
+A: 워터마크는 벡터 그래픽으로 저장되므로 일반적으로 파일 크기가 5 % 미만만 증가합니다.
 
-### [시작하기 및 라이선스](./getting-started-licensing/)
-GroupDocs.Conversion for .NET을 설정하고, 라이선스를 구성하며, 첫 번째 문서 변환 작업을 구현하는 방법을 배우세요. 라이브러리를 처음 사용하는 개발자에게 적합합니다!
+**Q: 선택한 페이지에만 워터마크를 적용할 수 있나요?**  
+A: 물론입니다. `PdfConvertOptions`의 `PageRange` 속성을 사용해 워터마크 적용 페이지를 제한하세요.
 
-### [PDF로 파일 변환](./file-conversion-to-pdf/)
-GroupDocs.Conversion for .NET을 사용하여 다양한 파일 형식을 PDF로 손쉽게 변환하는 방법을 배우세요. 맞춤형 옵션으로 문서 관리를 향상시킬 수 있습니다.
+**Q: 워터마크가 적용된 PDF에서 검색 가능한 텍스트를 추출하려면?**  
+`PdfExtractor`는 GroupDocs.Conversion을 사용해 PDF 파일에서 텍스트와 기타 콘텐츠를 추출합니다. 변환 후 `PdfExtractor`를 인스턴스화하고 `ExtractText()`를 호출한 뒤 제공된 스트림에서 추출된 텍스트를 읽으세요.
 
-### [파일 형식 변환](./file-format-conversion-tutorials/)
-GroupDocs.Conversion for .NET을 사용하여 다양한 파일 형식을 PDF로 손쉽게 변환하세요. 단계별 가이드와 원활한 통합으로 생산성을 높일 수 있습니다.
+**Q: 이 변환을 Azure Function에서 실행할 수 있나요?**  
+A: 예, 라이브러리는 서버리스 환경과 완전히 호환됩니다. 함수 런타임에 필요한 .NET 버전과 GroupDocs 라이선스 파일이 포함되어 있는지 확인하면 됩니다.
 
-### [파일을 PDF로 변환](./convert-files-to-pdf/)
-GroupDocs.Conversion for .NET으로 다양한 파일 형식을 PDF로 손쉽게 변환하세요. 효율적인 문서 관리를 위해 변환 옵션을 원활하게 통합할 수 있습니다.
+## 관련 변환 튜토리얼
 
-### [문서 변환](./document-conversion/)
-GroupDocs.Conversion for .NET 튜토리얼을 통해 다양한 파일 형식을 PDF로 손쉽게 변환하세요. 문서 관리를 원활하게 향상시킬 수 있습니다.
+- [시작하기 및 라이선스](./getting-started-licensing/)
+- [파일을 PDF로 변환 튜토리얼](./file-conversion-to-pdf/)
+- [파일 형식 변환 튜토리얼](./file-format-conversion-tutorials/)
+- [파일을 PDF로 변환 튜토리얼](./convert-files-to-pdf/)
+- [PDF 변환 튜토리얼](./pdf-conversion/)
+- [파일을 PDF로 변환](./file-conversion-to-pdf/)
+- [파일 형식 변환](./file-format-conversion-tutorials/)
+- [파일을 PDF로 변환](./convert-files-to-pdf/)
+- [문서 변환](./document-conversion/)
+- [파일 유형을 PDF로 변환](./converting-file-types-to-pdf/)
+- [로컬 소스에서 로드](./loading-from-local-sources/)
+- [원격 소스에서 로드](./loading-from-remote-sources/)
+- [클라우드 스토리지에서 로드](./loading-from-cloud-storage/)
+- [보안 문서 작업](./working-with-secure-documents/)
+- [문서 출력 및 저장](./document-output-saving/)
+- [페이지 관리 및 콘텐츠 조작](./page-management-content-manipulation/)
+- [변환 옵션 및 설정](./conversion-options-settings/)
+- [PDF 변환 및 기능](./pdf-conversion-features/)
+- [워드 프로세싱 형식 및 기능](./word-processing-formats-features/)
+- [스프레드시트 형식 및 기능](./spreadsheet-formats-features/)
+- [프레젠테이션 형식 및 기능](./presentation-formats-features/)
+- [이미지 형식 및 기능](./image-formats-features/)
+- [이메일 형식 및 기능](./email-formats-features/)
+- [CSV 및 구조화 데이터 처리](./csv-structured-data-processing/)
+- [XML 및 JSON 처리](./xml-json-processing/)
+- [텍스트 파일 처리](./text-file-processing/)
+- [CAD 및 기술 도면 형식](./cad-technical-drawing-formats/)
+- [웹 및 마크업 형식](./web-markup-formats/)
+- [압축 및 아카이브 처리](./compression-archive-handling/)
+- [스토리지 파일 및 PST 처리](./storage-files-pst-processing/)
+- [글꼴 처리 및 대체](./font-handling-substitution/)
+- [캐시 관리](./cache-management/)
+- [변환 이벤트 및 로깅](./conversion-events-logging/)
+- [변환 유틸리티 및 정보](./conversion-utilities-information/)
+- [HTML 변환](./html-conversion/)
+- [PDF 변환](./pdf-conversion/)
+- [이미지 변환](./image-conversion/)
+- [워드 프로세싱 변환](./word-processing-conversion/)
+- [스프레드시트 변환](./spreadsheet-conversion/)
+- [프레젠테이션 변환](./presentation-conversion/)
+- [텍스트 및 마크업 변환](./text-markup-conversion/)
 
-### [파일 유형을 PDF로 변환](./converting-file-types-to-pdf/)
-GroupDocs.Conversion for .NET을 사용하여 다양한 파일 유형을 PDF로 손쉽게 변환하세요. 문서 관리 프로세스를 간소화합니다. 자세히 알아보세요!
+---
 
-### [로컬 소스에서 로드](./loading-from-local-sources/)
-GroupDocs.Conversion을 사용하여 .NET 애플리케이션에서 파일 시스템 경로와 메모리 스트림으로부터 문서를 로드하는 기술을 마스터하세요.
-
-### [원격 소스에서 로드](./loading-from-remote-sources/)
-GroupDocs.Conversion for .NET을 사용하여 웹 URL 및 FTP 서버에서 문서를 가져오고 처리하는 방법을 알아보세요.
-
-### [클라우드 스토리지에서 로드](./loading-from-cloud-storage/)
-.NET 애플리케이션에서 Amazon S3, Azure Blob Storage 및 기타 클라우드 제공업체와 GroupDocs.Conversion을 통합하는 방법을 배우세요.
-
-### [보안 문서 작업](./working-with-secure-documents/)
-GroupDocs.Conversion for .NET을 사용하여 문서 변환 워크플로우에서 비밀번호로 보호된 파일 및 암호화 요구 사항을 효과적으로 처리하세요.
-
-### [문서 출력 및 저장](./document-output-saving/)
-변환된 문서를 다양한 위치에 저장하고, 명명 규칙을 구현하며, 출력 파일을 효율적으로 관리하는 옵션을 살펴보세요.
-
-### [페이지 관리 및 콘텐츠 조작](./page-management-content-manipulation/)
-변환 과정에서 선택적 페이지 변환, 워터마크 삽입 및 콘텐츠 수정 기술을 마스터하세요.
-
-### [변환 옵션 및 설정](./conversion-options-settings/)
-GroupDocs.Conversion을 사용하여 다양한 문서 형식에 최적의 결과를 얻기 위해 포괄적인 변환 매개변수를 구성하세요.
-
-### [PDF 변환 및 기능](./pdf-conversion-features/)
-문서 워크플로우에서 GroupDocs.Conversion for .NET을 사용하여 고급 PDF 전용 기능 및 변환 옵션을 구현하세요.
-
-### [워드 프로세싱 형식 및 기능](./word-processing-formats-features/)
-문서 스타일, 구조 및 특수 기능을 유지하면서 DOC, DOCX, RTF 및 ODT 간에 변환하세요.
-
-### [스프레드시트 형식 및 기능](./spreadsheet-formats-features/)
-GroupDocs.Conversion for .NET을 사용하여 Excel 형식을 다루고, 변환 중에 수식, 서식 및 데이터 무결성을 유지하세요.
-
-### [프레젠테이션 형식 및 기능](./presentation-formats-features/)
-GroupDocs.Conversion for .NET을 사용하여 PowerPoint 파일을 변환하면서 슬라이드, 애니메이션 및 시각 요소를 유지하세요.
-
-### [이미지 형식 및 기능](./image-formats-features/)
-해상도, 품질 및 OCR 기능을 정밀하게 제어하면서 다양한 이미지 형식 간에 변환하는 방법을 배우세요.
-
-### [이메일 형식 및 기능](./email-formats-features/)
-GroupDocs.Conversion을 사용하여 MSG, EML 및 기타 이메일 형식을 처리하면서 첨부 파일 및 메시지 구성 요소를 유지하세요.
-
-### [CSV 및 구조화 데이터 처리](./csv-structured-data-processing/)
-GroupDocs.Conversion for .NET을 사용하여 CSV 파일을 다른 형식으로 변환하고 구조화 데이터를 효과적으로 처리하세요.
-
-### [XML 및 JSON 처리](./xml-json-processing/)
-계층 관계와 복합 객체를 유지하면서 구조화 데이터 형식을 사람이 읽을 수 있는 문서로 변환하세요.
-
-### [텍스트 파일 처리](./text-file-processing/)
-GroupDocs.Conversion for .NET을 사용한 변환 작업 중에 일반 텍스트 파일을 다루는 기술을 마스터하세요.
-
-### [CAD 및 기술 도면 형식](./cad-technical-drawing-formats/)
-AutoCAD 도면 및 기타 기술 형식을 보기 가능한 문서로 변환하면서 중요한 엔지니어링 세부 정보를 유지하세요.
-
-### [웹 및 마크업 형식](./web-markup-formats/)
-HTML, MHTML 및 기타 웹 형식을 변환하면서 스타일링, 임베디드 리소스 및 문서 구조를 완벽히 지원합니다.
-
-### [압축 및 아카이브 처리](./compression-archive-handling/)
-GroupDocs.Conversion for .NET을 사용하여 압축된 아카이브를 다루고, 콘텐츠를 추출하며, 아카이브 내부 파일을 처리하세요.
-
-### [스토리지 파일 및 PST 처리](./storage-files-pst-processing/)
-GroupDocs.Conversion을 사용하여 Outlook 스토리지 파일을 처리하고, 메시지를 추출하며, 이메일 컨테이너의 콘텐츠를 변환하세요.
-
-### [폰트 처리 및 대체](./font-handling-substitution/)
-변환 중에 다양한 플랫폼에서 일관된 텍스트 표시를 보장하기 위해 폰트 대체 정책을 구현하세요.
-
-### [캐시 관리](./cache-management/)
-애플리케이션에서 효과적인 캐시 전략 및 맞춤형 캐시 제공자를 사용하여 변환 성능을 최적화하세요.
-
-### [변환 이벤트 및 로깅](./conversion-events-logging/)
-변환 진행 상황을 추적하고 포괄적인 감사 로그를 생성하기 위해 이벤트 처리 및 로깅 메커니즘을 구현하세요.
-
-### [변환 유틸리티 및 정보](./conversion-utilities-information/)
-GroupDocs.Conversion for .NET을 사용하여 문서를 검사하고 변환 기능을 분석하는 유틸리티 기능을 활용하세요.
-
-### [HTML 변환](./html-conversion/)
-다양한 문서 형식을 웹용 HTML로 변환하면서 스타일, 구조 및 임베디드 리소스를 유지하세요.
-
-### [PDF 변환](./pdf-conversion/)
-GroupDocs.Conversion for .NET을 사용하여 다양한 파일 형식을 PDF로 손쉽게 변환하는 방법을 배우세요. 오늘 문서 관리 워크플로우를 간소화하세요!
-
-### [이미지 변환](./image-conversion/)
-시각 품질 및 해상도를 정밀하게 제어하면서 문서를 JPG, PNG, TIFF 등 이미지 형식으로 변환하세요.
-
-### [워드 프로세싱 변환](./word-processing-conversion/)
-구조, 서식 및 임베디드 객체를 유지하면서 문서를 편집 가능한 워드 프로세싱 형식으로 변환하세요.
-
-### [스프레드시트 변환](./spreadsheet-conversion/)
-수식, 데이터 유형 및 다중 시트 워크북을 지원하면서 다양한 문서를 Excel 형식으로 변환하세요.
-
-### [프레젠테이션 변환](./presentation-conversion/)
-시각 요소와 슬라이드 레이아웃을 유지하면서 다양한 문서 형식에서 전문적인 PowerPoint 프레젠테이션을 만들세요.
-
-### [텍스트 및 마크업 변환](./text-markup-conversion/)
-유연한 인코딩 및 서식 옵션을 사용하여 콘텐츠를 일반 텍스트, XML, Markdown 및 기타 텍스트 기반 형식으로 추출하세요.
-
----  
-**Last Updated:** 2026-04-06  
-**Tested With:** GroupDocs.Conversion 23.12 for .NET  
-**Author:** GroupDocs
+**마지막 업데이트:** 2026-08-19  
+**테스트 환경:** GroupDocs.Conversion 23.12 for .NET  
+**작성자:** GroupDocs

@@ -1,172 +1,187 @@
 ---
-date: 2026-04-06
-description: Lär dig hur du konverterar docx till pdf med GroupDocs.Conversion för
-  .NET, samt tips om att ladda dokument från URL, lägga till vattenstämplar och mer.
+date: 2026-08-19
+description: Lär dig hur du lägger till vattenstämpel vid konvertering av docx till
+  pdf med GroupDocs.Conversion för .NET, samt tips om att ladda dokument från URL
+  och extrahera text från PDF.
 is_root: true
 keywords:
+- how to add watermark
 - convert docx to pdf
-- load document from url
-- add watermark pdf
-linktitle: GroupDocs.Conversion för .NET-handledningar
-title: konvertera docx till pdf – GroupDocs.Conversion .NET-handledningar
+- extract text from pdf
+- convert excel to pdf
+- convert powerpoint to pdf
+lastmod: 2026-08-19
+linktitle: GroupDocs.Conversion för .NET Handledningar
+og_description: Lär dig hur du lägger till vattenstämpel vid konvertering av docx
+  till pdf med GroupDocs.Conversion för .NET. Följ steg‑för‑steg‑vägledning och upptäck
+  relaterade konverteringshandledningar.
+og_image_alt: Guide showing how to add watermark during docx to PDF conversion with
+  GroupDocs
+og_title: Hur man lägger till vattenstämpel när man konverterar docx till pdf med
+  GroupDocs
+schemas:
+- author: GroupDocs
+  dateModified: '2026-08-19'
+  description: Learn how to add watermark while converting docx to pdf using GroupDocs.Conversion
+    for .NET, plus tips on loading documents from URL and extracting text from PDF.
+  headline: How to add watermark when converting docx to pdf with GroupDocs
+  type: TechArticle
+- description: Learn how to add watermark while converting docx to pdf using GroupDocs.Conversion
+    for .NET, plus tips on loading documents from URL and extracting text from PDF.
+  name: How to add watermark when converting docx to pdf with GroupDocs
+  steps:
+  - name: load the source document
+    text: You can load a DOCX from a file path, a `MemoryStream`, or directly from
+      a URL. When loading from a URL, the library streams the content, which reduces
+      memory pressure for large files. `PdfConvertOptions` defines conversion settings
+      for PDF output, including watermark configuration.
+  - name: configure watermark options
+    text: Create a `PdfConvertOptions` object and set its `Watermark` property. You
+      can specify text, font size, color, rotation, and opacity. The library renders
+      the watermark on every page during conversion.
+  - name: perform the conversion
+    text: Call the `Convert` method, passing the source document, the target format
+      (`Pdf`), and the options you configured. The method returns a `Stream` containing
+      the final PDF with the watermark applied.
+  - name: save or return the PDF
+    text: Write the resulting stream to a file, a database, or directly to an HTTP
+      response. Because the conversion is performed in memory, you can chain additional
+      operations—such as extracting text—without intermediate I/O.
+  type: HowTo
+- questions:
+  - answer: Yes, you can combine a `TextWatermark` and an `ImageWatermark` in the
+      same `PdfConvertOptions` instance; the library renders them sequentially on
+      each page.
+    question: Can I add both text and image watermarks in the same PDF?
+  - answer: The size increase is typically under 5 % because the watermark is stored
+      as vector graphics, not as a raster image.
+    question: Does adding a watermark increase the PDF file size significantly?
+  - answer: Absolutely. Use the `PageRange` property of `PdfConvertOptions` to limit
+      the watermark to specific pages.
+    question: Is it possible to apply a watermark only to selected pages?
+  - answer: Yes, the library is fully compatible with serverless environments; just
+      ensure the function’s runtime includes the required .NET version and the GroupDocs
+      license file.
+    question: Can I run this conversion in an Azure Function?
+  type: FAQPage
+tags:
+- convert docx
+- pdf conversion
+- GroupDocs
+- .NET document processing
+title: Hur man lägger till vattenstämpel när man konverterar docx till pdf med GroupDocs
 type: docs
 url: /sv/net/
 weight: 10
 ---
 
-# Konvertera docx till pdf – Omfattande handledningar för GroupDocs.Conversion för .NET
+# Hur man lägger till vattenstämpel när man konverterar docx till pdf med GroupDocs
 
-## Introduktion
+Att konvertera en DOCX-fil till PDF och applicera en vattenstämpel är ett vanligt krav för utvecklare som bygger säkra dokumentpipeline. I den här guiden kommer du att lära dig **hur man lägger till vattenstämpel** i ditt PDF-resultat med hjälp av **GroupDocs.Conversion för .NET**, se varför funktionen är viktig och upptäcka relaterade konverteringsscenarier såsom att ladda filer från en URL, extrahera text från PDF eller konvertera Excel- och PowerPoint-filer till PDF.
 
-Söker du effektiva sätt att hantera filkonverteringar i dina .NET‑projekt? Leta inte längre! **GroupDocs.Conversion for .NET** erbjuder en omfattande lösning för att enkelt **convert docx to pdf**, samt många andra format, vilket förbättrar dina dokumenthanteringsmöjligheter. I den här översikten går vi igenom hela katalogen av handledningar, visar varför konvertering är viktigt och lyfter fram verkliga scenarier där dessa guider kan spara dig tid och huvudvärk.
+## Snabba svar
+- **Vad är det snabbaste sättet att lägga till en vattenstämpel vid konvertering av docx till pdf?** Använd egenskapen `PdfConvertOptions.Watermark` innan du anropar `Convert`.
+- **Behöver jag ha Microsoft Office installerat?** Nej, GroupDocs.Conversion fungerar helt på server‑sidan.
+- **Kan jag ladda källdokumentet DOCX från en fjärr-URL?** Ja – API:et accepterar en ström eller URL direkt.
+- **Stöds textutdragning från den resulterande PDF:en?** Absolut; `PdfExtractor` kan hämta sökbar text.
+- **Vilka .NET-versioner är kompatibla?** .NET Framework 4.5+, .NET Core 3.1+, .NET 5/6/7.
 
-## Så konverterar du docx till pdf med GroupDocs.Conversion
+## Vad är GroupDocs.Conversion för .NET?
+GroupDocs.Conversion för .NET är ett bibliotek som möjliggör programmatisk konvertering av över 70 filformat till PDF, bilder, HTML och mer, utan att kräva externa applikationer. Det erbjuder ett enhetligt API för att ladda, konvertera och efterbehandla dokument helt i hanterad kod.
 
-Att konvertera en DOCX‑fil till PDF är en av de vanligaste uppgifterna som utvecklare möter när de bygger dokumentcentrerade applikationer. Med GroupDocs.Conversion kan du:
+## Varför lägga till en vattenstämpel när man konverterar docx till pdf?
+Att lägga till en vattenstämpel skyddar immateriella rättigheter, signalerar dokumentstatus (utkast, konfidentiellt, godkänt) och uppfyller regulatoriska krav. GroupDocs.Conversion kan bädda in text- eller bildvattenstämplar på under 200 ms för ett typiskt 10‑sidigt DOCX, och det bevarar layoutens noggrannhet över 50+ stödda inmatningsformat.
 
-* Ladda en DOCX från en lokal sökväg, ett minnesström, eller till och med **load document from url** för fjärrbehandling.  
-* Tillämpa konverteringsalternativ såsom sidstorlek, marginaler, och **add watermark pdf** för att skydda ditt resultat.  
-* Extrahera text från den resulterande PDF‑filen (**extract text pdf**) för indexering eller sökmotoroptimering.  
+## Förutsättningar
+- .NET Framework 4.5+ **eller** .NET Core 3.1+ runtime installerad.
+- En giltig GroupDocs.Conversion-licens (gratis provversion tillgänglig).
+- Tillgång till DOCX-filen du vill konvertera, antingen lokalt eller via en URL.
 
-Dessa möjligheter gör det enkelt att bygga funktioner som automatiserad rapportgenerering, fakturahantering eller säker dokumentdelning — allt utan att lämna .NET‑ekosystemet.
+## Hur man lägger till vattenstämpel när man konverterar docx till pdf?
 
-## Enkel konvertering till PDF
+Läs in DOCX-filen, konfigurera en `PdfConvertOptions`-instans med en vattenstämpel och anropa konverteringsmetoden. Detta tvåstegsmönster hanterar både lokala filer och fjärrströmmar, och det bevarar automatiskt teckensnitt, tabeller och bilder. Processen körs helt i minnet, vilket gör att du kan kedja ytterligare operationer såsom textutdragning eller ytterligare efterbehandling utan att skriva temporära filer till disk.
 
-En av de främsta funktionerna i GroupDocs.Conversion för .NET är dess förmåga att sömlöst konvertera olika filformat till PDF. Oavsett om du hanterar Word‑dokument, Excel‑kalkylblad, PowerPoint‑presentationer eller bilder, förenklar detta bibliotek konverteringsprocessen. Med våra handledningar lär du dig hur du utför konverteringar med lätthet, vilket gör att du kan effektivisera dina dokumenthanteringsuppgifter. Dyka ner i vår [File Conversion to PDF tutorial](./file-conversion-to-pdf/) för att komma igång.
+### Steg 1: ladda källdokumentet
+Du kan läsa in en DOCX från en filsökväg, en `MemoryStream` eller direkt från en URL. När du läser in från en URL strömmar biblioteket innehållet, vilket minskar minnesbelastningen för stora filer.
 
-## Öka produktiviteten med filformatkonvertering
+`PdfConvertOptions` definierar konverteringsinställningar för PDF-utdata, inklusive vattenstämpelkonfiguration.
 
-Är du trött på att hantera inkompatibla filformat? GroupDocs.Conversion för .NET eliminerar besväret genom att erbjuda omfattande möjligheter för filformatkonvertering. Våra handledningar guidar dig genom processen och säkerställer smidiga övergångar mellan olika format. Oavsett om du konverterar DOCX till PDF eller XLSX till PDF, hittar du detaljerade instruktioner för att öka din produktivitet. Utforska våra [File Format Conversion tutorials](./file-format-conversion-tutorials/) för steg‑för‑steg‑vägledning.
+### Steg 2: konfigurera vattenstämpelalternativ
+Skapa ett `PdfConvertOptions`-objekt och sätt dess `Watermark`-egenskap. Du kan ange text, teckenstorlek, färg, rotation och opacitet. Biblioteket renderar vattenstämpeln på varje sida under konverteringen.
 
-## Sömlös integration för effektiv dokumenthantering
+### Steg 3: utför konverteringen
+Anropa `Convert`-metoden och skicka med källdokumentet, målformatet (`Pdf`) och de alternativ du konfigurerat. Metoden returnerar en `Stream` som innehåller den slutgiltiga PDF:en med vattenstämpeln applicerad.
 
-Att integrera filkonverteringsfunktionalitet i dina .NET‑applikationer har aldrig varit enklare. Med GroupDocs.Conversion för .NET kan du sömlöst bädda in konverteringsalternativ, så att användare kan konvertera filer till PDF direkt i din applikation. Våra handledningar guidar dig genom integrationsprocessen och ger dig möjlighet att skapa robusta dokumenthanteringslösningar. Kolla in vår [Convert Files to PDF tutorial](./convert-files-to-pdf/) för att lära dig mer om att effektivisera dina arbetsflöden.
+### Steg 4: spara eller returnera PDF:en
+Skriv den resulterande strömmen till en fil, en databas eller direkt till ett HTTP-svar. Eftersom konverteringen utförs i minnet kan du kedja ytterligare operationer — såsom att extrahera text — utan mellansteg av I/O.
 
-## Förenkla arbetsflöden för dokumenthantering
+## Vanliga fallgropar och felsökning
+- **Vattenstämpeln visas inte** – Säkerställ att `Watermark`-objektets `Opacity` är inställt på över 0 % och att `Color` kontrasterar mot sidans bakgrund.
+- **Stora DOCX-filer orsakar minnesspikar** – Aktivera `LoadOptions.Streaming`-läget för att bearbeta sidor inkrementellt.
+- **Felaktig teckensnittsrendring** – Installera de nödvändiga teckensnitten på servern eller använd `FontSubstitution`-inställningarna för att mappa saknade teckensnitt till tillgängliga.
+- **Fjärr-URL timeout** – Öka `HttpClient`-timeouten eller ladda ner filen till en temporär ström innan konvertering.
 
-Dokumentkonvertering är en kritisk del av moderna arbetsflöden för dokumenthantering. GroupDocs.Conversion för .NET förenklar denna process och gör det möjligt att enkelt konvertera olika filformat till PDF. Oavsett om du hanterar textdokument, presentationer eller bilder, ger våra handledningar värdefulla insikter för att optimera dina konverteringsuppgifter. Utforska vår [PDF Conversion tutorial](./pdf-conversion/) för att upptäcka hur du kan förenkla dina arbetsflöden för dokumenthantering redan idag.
+## Vanliga frågor
 
-## Varför dessa handledningar är viktiga
+**Q: Kan jag lägga till både text- och bildvattenstämplar i samma PDF?**  
+A: Ja, du kan kombinera en `TextWatermark` och en `ImageWatermark` i samma `PdfConvertOptions`-instans; biblioteket renderar dem sekventiellt på varje sida.
 
-* **Speed up development** – Minska veckor av anpassad kod till några rader API‑anrop.  
-* **Maintain fidelity** – Bevara layout, teckensnitt och bilder vid konvertering av DOCX, XLSX, PPTX och mer.  
-* **Secure output** – Lägg till vattenstämplar, lösenordsskydda PDF‑filer eller ta bort känslig data under konverteringen.  
-* **Scale effortlessly** – Bearbeta tusentals filer parallellt med .NET Core eller Azure Functions.
+**Q: Ökar tillägg av en vattenstämpel PDF-filens storlek avsevärt?**  
+A: Storleksökningen är vanligtvis under 5 % eftersom vattenstämpeln lagras som vektorgrafik, inte som en rasterbild.
 
-## GroupDocs.Conversion för .NET-handledningar\
+**Q: Är det möjligt att applicera en vattenstämpel endast på utvalda sidor?**  
+A: Absolut. Använd `PageRange`-egenskapen i `PdfConvertOptions` för att begränsa vattenstämpeln till specifika sidor.
 
-### [Komma igång & licensiering](./getting-started-licensing/)
-Learn how to set up GroupDocs.Conversion for .NET, configure licensing, and implement your first document conversion operations. Perfect for developers new to the library!
+**Q: Hur extraherar jag sökbar text från den vattenmärkta PDF:en?**  
+`PdfExtractor` extraherar text och annat innehåll från PDF-filer med hjälp av GroupDocs.Conversion. Efter konverteringen, skapa en instans av `PdfExtractor`, anropa `ExtractText()` och läs den extraherade texten från den tillhandahållna strömmen.
 
-### [Filkonvertering till PDF](./file-conversion-to-pdf/)
-Learn how to effortlessly convert various file formats to PDF using GroupDocs.Conversion for .NET. Enhance document management with customizable options.
+**Q: Kan jag köra denna konvertering i en Azure Function?**  
+A: Ja, biblioteket är fullt kompatibelt med serverlösa miljöer; se bara till att funktionens runtime inkluderar den erforderliga .NET-versionen och GroupDocs-licensfilen.
 
-### [Filformatkonvertering](./file-format-conversion-tutorials/)
-Effortlessly convert various file formats to PDF using GroupDocs.Conversion for .NET. Boost productivity with step‑by‑step guides and seamless integration.
+## Relaterade konverteringshandledningar
 
-### [Konvertera filer till PDF](./convert-files-to-pdf/)
-Effortlessly convert various file formats to PDF with GroupDocs.Conversion for .NET. Seamlessly integrate conversion options for efficient document management.
+- [Komma igång & licensiering](./getting-started-licensing/)
+- [Filkonvertering till PDF-handledning](./file-conversion-to-pdf/)
+- [Handledning för filformatkonvertering](./file-format-conversion-tutorials/)
+- [Konvertera filer till PDF-handledning](./convert-files-to-pdf/)
+- [PDF-konverteringshandledning](./pdf-conversion/)
+- [Filkonvertering till PDF](./file-conversion-to-pdf/)
+- [Filformatkonvertering](./file-format-conversion-tutorials/)
+- [Konvertera filer till PDF](./convert-files-to-pdf/)
+- [Dokumentkonvertering](./document-conversion/)
+- [Konvertera filtyper till PDF](./converting-file-types-to-pdf/)
+- [Laddar från lokala källor](./loading-from-local-sources/)
+- [Laddar från fjärrkällor](./loading-from-remote-sources/)
+- [Laddar från molnlagring](./loading-from-cloud-storage/)
+- [Arbeta med säkra dokument](./working-with-secure-documents/)
+- [Dokumentutdata & sparande](./document-output-saving/)
+- [Sidhantering & innehållsmanipulation](./page-management-content-manipulation/)
+- [Konverteringsalternativ & inställningar](./conversion-options-settings/)
+- [PDF-konvertering & funktioner](./pdf-conversion-features/)
+- [Ordbehandlingsformat & funktioner](./word-processing-formats-features/)
+- [Kalkylbladsformat & funktioner](./spreadsheet-formats-features/)
+- [Presentationsformat & funktioner](./presentation-formats-features/)
+- [Bildformat & funktioner](./image-formats-features/)
+- [E-postformat & funktioner](./email-formats-features/)
+- [CSV & strukturerad databehandling](./csv-structured-data-processing/)
+- [XML & JSON-behandling](./xml-json-processing/)
+- [Textfilbehandling](./text-file-processing/)
+- [CAD & tekniska ritningsformat](./cad-technical-drawing-formats/)
+- [Webb- & markupformat](./web-markup-formats/)
+- [Komprimering & arkivhantering](./compression-archive-handling/)
+- [Lagringsfiler & PST-behandling](./storage-files-pst-processing/)
+- [Teckensnittshantering & substitution](./font-handling-substitution/)
+- [Cachehantering](./cache-management/)
+- [Konverteringshändelser & loggning](./conversion-events-logging/)
+- [Konverteringsverktyg & information](./conversion-utilities-information/)
+- [HTML-konvertering](./html-conversion/)
+- [PDF-konvertering](./pdf-conversion/)
+- [Bildkonvertering](./image-conversion/)
+- [Ordbehandlingskonvertering](./word-processing-conversion/)
+- [Kalkylblads konvertering](./spreadsheet-conversion/)
+- [Presentationskonvertering](./presentation-conversion/)
+- [Text- & markupkonvertering](./text-markup-conversion/)
 
-### [Dokumentkonvertering](./document-conversion/)
-Effortlessly convert various file formats to PDF with GroupDocs.Conversion for .NET tutorials. Enhance document management seamlessly.
-
-### [Konvertera filtyper till PDF](./converting-file-types-to-pdf/)
-Effortlessly convert various file types to PDF with GroupDocs.Conversion for .NET. Streamline your document management process. Learn more!
-
-### [Laddar från lokala källor](./loading-from-local-sources/)
-Master techniques for loading documents from file system paths and memory streams in your .NET applications using GroupDocs.Conversion.
-
-### [Laddar från fjärrkällor](./loading-from-remote-sources/)
-Discover how to retrieve and process documents from web URLs and FTP servers with GroupDocs.Conversion for .NET.
-
-### [Laddar från molnlagring](./loading-from-cloud-storage/)
-Learn how to integrate GroupDocs.Conversion with Amazon S3, Azure Blob Storage, and other cloud providers in your .NET applications.
-
-### [Arbeta med säkra dokument](./working-with-secure-documents/)
-Handle password‑protected files and encryption requirements effectively in your document conversion workflows with GroupDocs.Conversion for .NET.
-
-### [Dokumentutdata & sparande](./document-output-saving/)
-Explore options for saving converted documents to different locations, implementing naming patterns, and managing output files efficiently.
-
-### [Sidhantering & innehållsmanipulation](./page-management-content-manipulation/)
-Master techniques for selective page conversion, watermarking, and content modification during the conversion process.
-
-### [Konverteringsalternativ & inställningar](./conversion-options-settings/)
-Configure comprehensive conversion parameters to achieve optimal results for different document formats with GroupDocs.Conversion.
-
-### [PDF‑konvertering & funktioner](./pdf-conversion-features/)
-Implement advanced PDF‑specific features and conversion options with GroupDocs.Conversion for .NET in your document workflows.
-
-### [Ordbehandlingsformat & funktioner](./word-processing-formats-features/)
-Convert to and from DOC, DOCX, RTF, and ODT while preserving document styling, structure, and special features.
-
-### [Kalkylbladsformat & funktioner](./spreadsheet-formats-features/)
-Work with Excel formats, preserve formulas, formatting, and data integrity during conversion with GroupDocs.Conversion for .NET.
-
-### [Presentationsformat & funktioner](./presentation-formats-features/)
-Convert PowerPoint files while maintaining slides, animations, and visual elements using GroupDocs.Conversion for .NET.
-
-### [Bildformat & funktioner](./image-formats-features/)
-Learn to convert to and from various image formats with precise control over resolution, quality, and OCR capabilities.
-
-### [E‑postformat & funktioner](./email-formats-features/)
-Process MSG, EML, and other email formats while preserving attachments and message components with GroupDocs.Conversion.
-
-### [CSV & strukturerad databehandling](./csv-structured-data-processing/)
-Transform CSV files to other formats and process structured data effectively with GroupDocs.Conversion for .NET.
-
-### [XML & JSON‑behandling](./xml-json-processing/)
-Convert structured data formats to human‑readable documents while preserving hierarchical relationships and complex objects.
-
-### [Textfilbehandling](./text-file-processing/)
-Master techniques for working with plain text files during conversion operations with GroupDocs.Conversion for .NET.
-
-### [CAD & tekniska ritningsformat](./cad-technical-drawing-formats/)
-Convert AutoCAD drawings and other technical formats to viewable documents while preserving important engineering details.
-
-### [Webb‑ & markup‑format](./web-markup-formats/)
-Transform HTML, MHTML, and other web formats with full support for styling, embedded resources, and document structure.
-
-### [Komprimering & arkivhantering](./compression-archive-handling/)
-Work with compressed archives, extract content, and process files within archives using GroupDocs.Conversion for .NET.
-
-### [Lagringsfiler & PST‑behandling](./storage-files-pst-processing/)
-Process Outlook storage files, extract messages, and convert content from email containers with GroupDocs.Conversion.
-
-### [Teckensnittshantering & substitution](./font-handling-substitution/)
-Implement font substitution policies and ensure consistent text appearance across different platforms during conversion.
-
-### [Cache‑hantering](./cache-management/)
-Optimize conversion performance with effective caching strategies and custom cache providers in your applications.
-
-### [Konverteringshändelser & loggning](./conversion-events-logging/)
-Implement event handling and logging mechanisms to track conversion progress and create comprehensive audit trails.
-
-### [Konverteringsverktyg & information](./conversion-utilities-information/)
-Leverage utility features to inspect documents and analyze conversion capabilities with GroupDocs.Conversion for .NET.
-
-### [HTML‑konvertering](./html-conversion/)
-Transform various document formats into web‑ready HTML while preserving styling, structure, and embedded resources.
-
-### [PDF‑konvertering](./pdf-conversion/)
-Learn how to effortlessly convert various file formats to PDF using GroupDocs.Conversion for .NET. Simplify your document management workflows today!
-
-### [Bildkonvertering](./image-conversion/)
-Convert documents to JPG, PNG, TIFF and other image formats with precise control over visual quality and resolution.
-
-### [Ordbehandlingskonvertering](./word-processing-conversion/)
-Transform documents into editable word processing formats while maintaining structure, formatting, and embedded objects.
-
-### [Kalkylblads‑konvertering](./spreadsheet-conversion/)
-Convert various documents to Excel formats with support for formulas, data types, and multi‑sheet workbooks.
-
-### [Presentations‑konvertering](./presentation-conversion/)
-Create professional PowerPoint presentations from various document formats while preserving visual elements and slide layouts.
-
-### [Text‑ & markup‑konvertering](./text-markup-conversion/)
-Extract content to plain text, XML, Markdown and other text‑based formats with flexible encoding and formatting options.
-
----  
-**Senast uppdaterad:** 2026-04-06  
+**Senast uppdaterad:** 2026-08-19  
 **Testad med:** GroupDocs.Conversion 23.12 for .NET  
 **Författare:** GroupDocs

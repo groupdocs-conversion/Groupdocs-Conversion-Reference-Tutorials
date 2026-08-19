@@ -1,172 +1,185 @@
 ---
-date: 2026-04-06
-description: Ismerje meg, hogyan konvertálhatja a docx-et pdf-re a GroupDocs.Conversion
-  for .NET segítségével, valamint tippeket a dokumentumok URL-ről betöltéséhez, vízjelek
-  hozzáadásához és egyebekhez.
+date: 2026-08-19
+description: Ismerje meg, hogyan adhat hozzá vízjelet a docx PDF-re konvertálásakor
+  a GroupDocs.Conversion for .NET használatával, valamint tippeket a dokumentumok
+  URL‑ről történő betöltéséhez és a PDF‑ből történő szövegkivonáshoz.
 is_root: true
 keywords:
+- how to add watermark
 - convert docx to pdf
-- load document from url
-- add watermark pdf
-linktitle: GroupDocs.Conversion .NET-hez oktatóanyagok
-title: docx konvertálása pdf-re – GroupDocs.Conversion .NET oktatóanyagok
+- extract text from pdf
+- convert excel to pdf
+- convert powerpoint to pdf
+lastmod: 2026-08-19
+linktitle: GroupDocs.Conversion for .NET oktatóanyagok
+og_description: Ismerje meg, hogyan adhat hozzá vízjelet a docx PDF-re konvertálásakor
+  a GroupDocs.Conversion for .NET használatával. Kövesse a lépésről‑lépésre útmutatót,
+  és fedezze fel a kapcsolódó konverziós oktatóanyagokat.
+og_image_alt: Guide showing how to add watermark during docx to PDF conversion with
+  GroupDocs
+og_title: Hogyan adjon hozzá vízjelet a docx PDF-re konvertálásakor a GroupDocs használatával
+schemas:
+- author: GroupDocs
+  dateModified: '2026-08-19'
+  description: Learn how to add watermark while converting docx to pdf using GroupDocs.Conversion
+    for .NET, plus tips on loading documents from URL and extracting text from PDF.
+  headline: How to add watermark when converting docx to pdf with GroupDocs
+  type: TechArticle
+- description: Learn how to add watermark while converting docx to pdf using GroupDocs.Conversion
+    for .NET, plus tips on loading documents from URL and extracting text from PDF.
+  name: How to add watermark when converting docx to pdf with GroupDocs
+  steps:
+  - name: load the source document
+    text: You can load a DOCX from a file path, a `MemoryStream`, or directly from
+      a URL. When loading from a URL, the library streams the content, which reduces
+      memory pressure for large files. `PdfConvertOptions` defines conversion settings
+      for PDF output, including watermark configuration.
+  - name: configure watermark options
+    text: Create a `PdfConvertOptions` object and set its `Watermark` property. You
+      can specify text, font size, color, rotation, and opacity. The library renders
+      the watermark on every page during conversion.
+  - name: perform the conversion
+    text: Call the `Convert` method, passing the source document, the target format
+      (`Pdf`), and the options you configured. The method returns a `Stream` containing
+      the final PDF with the watermark applied.
+  - name: save or return the PDF
+    text: Write the resulting stream to a file, a database, or directly to an HTTP
+      response. Because the conversion is performed in memory, you can chain additional
+      operations—such as extracting text—without intermediate I/O.
+  type: HowTo
+- questions:
+  - answer: Yes, you can combine a `TextWatermark` and an `ImageWatermark` in the
+      same `PdfConvertOptions` instance; the library renders them sequentially on
+      each page.
+    question: Can I add both text and image watermarks in the same PDF?
+  - answer: The size increase is typically under 5 % because the watermark is stored
+      as vector graphics, not as a raster image.
+    question: Does adding a watermark increase the PDF file size significantly?
+  - answer: Absolutely. Use the `PageRange` property of `PdfConvertOptions` to limit
+      the watermark to specific pages.
+    question: Is it possible to apply a watermark only to selected pages?
+  - answer: Yes, the library is fully compatible with serverless environments; just
+      ensure the function’s runtime includes the required .NET version and the GroupDocs
+      license file.
+    question: Can I run this conversion in an Azure Function?
+  type: FAQPage
+tags:
+- convert docx
+- pdf conversion
+- GroupDocs
+- .NET document processing
+title: Hogyan adjon hozzá vízjelet a docx PDF-re konvertálásakor a GroupDocs használatával
 type: docs
 url: /hu/net/
 weight: 10
 ---
 
-# docx PDF-re konvertálása – A GroupDocs.Conversion for .NET átfogó útmutatói
+# Hogyan adjon hozzá vízjelet a docx PDF-re konvertálásakor a GroupDocs-szal
 
-## Bevezetés
+A DOCX fájl PDF-re konvertálása és vízjel alkalmazása gyakori követelmény a biztonságos dokumentumcsővezetékeket építő fejlesztők számára. Ebben az útmutatóban megtanulja, **hogyan adjon hozzá vízjelet** a PDF kimenetéhez a **GroupDocs.Conversion for .NET** használatával, megismeri, miért fontos ez a funkció, és felfedez kapcsolódó konverziós forgatókönyveket, például fájlok betöltését URL-ről, szöveg kinyerését PDF-ből, vagy Excel és PowerPoint fájlok PDF-re konvertálását.
 
-Hatékony megoldásokat keres a fájlkonverziók kezelésére .NET projektjeiben? Ne keressen tovább! **GroupDocs.Conversion for .NET** átfogó megoldást kínál a **docx PDF-re konvertálásához**, valamint számos más formátumhoz, javítva a dokumentumkezelési képességeit. Ebben az áttekintésben végigvezetjük a teljes oktatóanyag katalóguson, bemutatjuk, miért fontos a konverzió, és kiemeljük a valós példákat, ahol ezek az útmutatók időt és fejfájást takaríthatnak meg.
+## Gyors válaszok
+- **Mi a leggyorsabb mód a vízjel hozzáadására a docx PDF-re konvertálása közben?** Használja a `PdfConvertOptions.Watermark` tulajdonságot a `Convert` hívása előtt.
+- **Szükségem van a Microsoft Office telepítésére?** Nem, a GroupDocs.Conversion teljesen szerveroldalon működik.
+- **Betölthetem a forrás DOCX-et egy távoli URL-ről?** Igen – az API közvetlenül elfogad egy streamet vagy URL-t.
+- **Támogatott a szöveg kinyerése a keletkezett PDF-ből?** Teljesen; a `PdfExtractor` kereshető szöveget tud kinyerni.
+- **Mely .NET verziók kompatibilisek?** .NET Framework 4.5+, .NET Core 3.1+, .NET 5/6/7.
 
-## Hogyan konvertáljunk docx-et PDF-re a GroupDocs.Conversion segítségével
+## Mi az a GroupDocs.Conversion for .NET?
+A GroupDocs.Conversion for .NET egy könyvtár, amely lehetővé teszi több mint 70 fájlformátum programozott konvertálását PDF-re, képekre, HTML-re és egyebekre, külső alkalmazások nélkül. Egységes API-t biztosít a dokumentumok betöltéséhez, konvertálásához és utófeldolgozásához teljesen a kezelt kódban.
 
-A DOCX fájl PDF-re konvertálása a leggyakoribb feladatok egyike, amellyel a fejlesztők szembesülnek dokumentum‑központú alkalmazások építésekor. A GroupDocs.Conversion segítségével a következőket teheti:
+## Miért adjunk hozzá vízjelet a docx PDF-re konvertálásakor?
+A vízjel hozzáadása védi a szellemi tulajdont, jelzi a dokumentum állapotát (tervezet, bizalmas, jóváhagyott), és megfelel a szabályozási követelményeknek. A GroupDocs.Conversion szöveges vagy képes vízjeleket képes beágyazni 200 ms alatt egy tipikus 10 oldalas DOCX esetén, és megőrzi a elrendezés pontosságát több mint 50 támogatott bemeneti formátum között.
 
-* Töltsön be egy DOCX-et helyi útvonalról, memóriafolyamból, vagy akár **load document from url**-t a távoli feldolgozáshoz.  
-* Alkalmazzon konverziós beállításokat, mint például az oldalméret, margók, és **add watermark pdf** a kimenet védelméhez.  
-* Vonjon ki szöveget a keletkezett PDF‑ből (**extract text pdf**) indexeléshez vagy keresőoptimalizáláshoz.  
+## Előfeltételek
+- .NET Framework 4.5+ **vagy** .NET Core 3.1+ runtime telepítve.
+- Érvényes GroupDocs.Conversion licenc (ingyenes próba elérhető).
+- Hozzáférés a konvertálni kívánt DOCX fájlhoz, akár helyileg, akár URL-en keresztül.
 
-Ezek a képességek megkönnyítik olyan funkciók létrehozását, mint az automatikus jelentéskészítés, számlafeldolgozás vagy biztonságos dokumentummegosztás – mindezt anélkül, hogy elhagyná a .NET ökoszisztémát.
+## Hogyan adjon hozzá vízjelet a docx PDF-re konvertálásakor?
+Töltse be a DOCX-et, konfiguráljon egy `PdfConvertOptions` példányt vízjellel, és hívja meg a konvertálási metódust. Ez a kétlépéses minta kezeli a helyi fájlokat és a távoli stream-eket is, és automatikusan megőrzi a betűtípusokat, táblázatokat és képeket. A folyamat teljesen memóriában fut, lehetővé téve további műveletek láncolását, például szöveg kinyerését vagy további utófeldolgozást anélkül, hogy ideiglenes fájlokat írna a lemezre.
 
-## Problémamentes konverzió PDF-re
+### 1. lépés: a forrásdokumentum betöltése
+Betölthet egy DOCX-et fájlútról, egy `MemoryStream`-ből vagy közvetlenül egy URL-ről. URL-ről történő betöltéskor a könyvtár streameli a tartalmat, ami csökkenti a memória terhelését nagy fájlok esetén.
 
-A GroupDocs.Conversion for .NET egyik fő funkciója a különféle fájlformátumok PDF-re történő zökkenőmentes konvertálása. Akár Word dokumentumokkal, Excel táblázatokkal, PowerPoint prezentációkkal vagy képekkel dolgozik, ez a könyvtár leegyszerűsíti a konverziós folyamatot. Oktatóanyagainkkal megtanulja, hogyan hajtson végre konverziókat könnyedén, így hatékonyan optimalizálhatja a dokumentumkezelési feladatait. Merüljön el a [File Conversion to PDF tutorial](./file-conversion-to-pdf/) útmutatóban a kezdéshez.
+`PdfConvertOptions` határozza meg a PDF kimenet konverziós beállításait, beleértve a vízjel konfigurációt.
 
-## Növelje a termelékenységet fájlformátum-konverzióval
+### 2. lépés: a vízjel beállításainak konfigurálása
+Hozzon létre egy `PdfConvertOptions` objektumot, és állítsa be a `Watermark` tulajdonságát. Megadhatja a szöveget, betűméretet, színt, forgatást és átlátszóságot. A könyvtár a konvertálás során minden oldalra megjeleníti a vízjelet.
 
-Unja már a nem kompatibilis fájlformátumokkal való munkát? A GroupDocs.Conversion for .NET megszünteti a kellemetlenséget, átfogó fájlformátum‑konverziós képességeket biztosítva. Oktatóanyagaink végigvezetik a folyamaton, biztosítva a zökkenőmentes átmenetet a különböző formátumok között. Akár DOCX-et PDF‑re, akár XLSX-et PDF‑re konvertál, részletes útmutatót talál a termelékenység növeléséhez. Fedezze fel a [File Format Conversion tutorials](./file-format-conversion-tutorials/) lépésről‑lépésre útmutatót.
+### 3. lépés: a konvertálás végrehajtása
+Hívja meg a `Convert` metódust, átadva a forrásdokumentumot, a célformátumot (`Pdf`) és a konfigurált beállításokat. A metódus egy `Stream`-et ad vissza, amely a végleges, vízjelezett PDF-et tartalmazza.
 
-## Zökkenőmentes integráció a hatékony dokumentumkezeléshez
+### 4. lépés: a PDF mentése vagy visszaadása
+Írja a kapott stream-et fájlba, adatbázisba vagy közvetlenül egy HTTP válaszba. Mivel a konvertálás memóriában történik, láncolhat további műveleteket – például szöveg kinyerését – köztes I/O nélkül.
 
-A fájlkonverziós funkció integrálása .NET alkalmazásaiba még soha nem volt ilyen egyszerű. A GroupDocs.Conversion for .NET segítségével zökkenőmentesen beágyazhatja a konverziós beállításokat, lehetővé téve a felhasználók számára, hogy közvetlenül az alkalmazásban konvertáljanak fájlokat PDF‑re. Oktatóanyagaink végigvezetik az integrációs folyamaton, felhatalmazva Önt robusztus dokumentumkezelő megoldások létrehozására. Tekintse meg a [Convert Files to PDF tutorial](./convert-files-to-pdf/) útmutatót a munkafolyamatok optimalizálásáról.
+## Gyakori buktatók és hibaelhárítás
+- **A vízjel nem jelenik meg** – Győződjön meg róla, hogy a `Watermark` objektum `Opacity` értéke 0 % felett van, és a `Color` kontrasztos a lap háttérével.
+- **Nagy DOCX fájlok memóriacsúcsot okoznak** – Engedélyezze a `LoadOptions.Streaming` módot az oldalak fokozatos feldolgozásához.
+- **Helytelen betűtípus megjelenítés** – Telepítse a szükséges betűtípusokat a szerveren, vagy használja a `FontSubstitution` beállításokat a hiányzó betűtípusok elérhetőekhez való leképezéshez.
+- **Távoli URL időtúllépés** – Növelje a `HttpClient` időkorlátot, vagy töltse le a fájlt egy ideiglenes stream-be a konvertálás előtt.
 
-## Egyszerűsítse a dokumentumkezelési munkafolyamatokat
+## Gyakran ismételt kérdések
+**K: Hozzáadhatok szöveges és képes vízjeleket is ugyanabban a PDF-ben?**  
+V: Igen, kombinálhat egy `TextWatermark`-ot és egy `ImageWatermark`-ot ugyanabban a `PdfConvertOptions` példányban; a könyvtár sorban megjeleníti őket minden oldalon.
 
-A dokumentumkonverzió a modern dokumentumkezelési munkafolyamatok kritikus eleme. A GroupDocs.Conversion for .NET leegyszerűsíti ezt a folyamatot, lehetővé téve a különféle fájlformátumok PDF‑re való könnyed konvertálását. Akár szöveges dokumentumokkal, prezentációkkal vagy képekkel dolgozik, oktatóanyagaink értékes betekintést nyújtanak a konverziós feladatok optimalizálásához. Fedezze fel a [PDF Conversion tutorial](./pdf-conversion/) útmutatót, hogy megtudja, hogyan egyszerűsítheti a dokumentumkezelési munkafolyamatait még ma.
+**K: A vízjel hozzáadása jelentősen növeli a PDF fájlméretet?**  
+V: A méretnövekedés általában 5 % alatt van, mivel a vízjel vektorgrafikaként van tárolva, nem raszteres képként.
 
-## Miért fontosak ezek az útmutatók
+**K: Lehetséges csak a kiválasztott oldalakra alkalmazni a vízjelet?**  
+V: Teljesen. Használja a `PdfConvertOptions` `PageRange` tulajdonságát a vízjel korlátozásához meghatározott oldalakra.
 
-* **Fejlesztés felgyorsítása** – Csökkentse a saját kód hetekben írását néhány API‑hívásra.  
-* **Maintain fidelity** – Megőrizze az elrendezést, betűtípusokat és képeket a DOCX, XLSX, PPTX és egyebek konvertálásakor.  
-* **Secure output** – Adjon vízjelet, jelszóval védje a PDF‑eket, vagy távolítson el érzékeny adatokat a konverzió során.  
-* **Scale effortlessly** – Több ezer fájlt dolgozzon fel párhuzamosan .NET Core vagy Azure Functions használatával.
+**K: Hogyan nyerhetek ki kereshető szöveget a vízjelezett PDF-ből?**  
+`PdfExtractor` a GroupDocs.Conversion segítségével szöveget és egyéb tartalmat nyer ki PDF fájlokból. A konvertálás után hozza létre a `PdfExtractor` példányt, hívja meg az `ExtractText()` metódust, és olvassa ki a kinyert szöveget a biztosított stream-ből.
 
-## GroupDocs.Conversion for .NET útmutatók\
-### [Első lépések és licencelés](./getting-started-licensing/)
-Ismerje meg, hogyan állítsa be a GroupDocs.Conversion for .NET‑et, konfigurálja a licencelést, és valósítsa meg első dokumentumkonverziós műveletét. Tökéletes a könyvtárat újonc fejlesztők számára!
+**K: Futtathatom ezt a konvertálást egy Azure Function-ben?**  
+V: Igen, a könyvtár teljesen kompatibilis a serverless környezetekkel; csak győződjön meg róla, hogy a funkció futtatókörnyezete tartalmazza a szükséges .NET verziót és a GroupDocs licencfájlt.
 
-### [Fájl konvertálása PDF-re](./file-conversion-to-pdf/)
-Tanulja meg, hogyan konvertáljon könnyedén különféle fájlformátumokat PDF‑re a GroupDocs.Conversion for .NET segítségével. Javítsa a dokumentumkezelést testreszabható beállításokkal.
+## Kapcsolódó konverziós útmutatók
+- [Első lépések és licencelés](./getting-started-licensing/)
+- [Fájl konvertálás PDF-re útmutató](./file-conversion-to-pdf/)
+- [Fájlformátum konvertálás útmutatók](./file-format-conversion-tutorials/)
+- [Fájlok PDF-re konvertálása útmutató](./convert-files-to-pdf/)
+- [PDF konvertálás útmutató](./pdf-conversion/)
+- [Fájl konvertálás PDF-re](./file-conversion-to-pdf/)
+- [Fájlformátum konvertálás](./file-format-conversion-tutorials/)
+- [Fájlok PDF-re konvertálása](./convert-files-to-pdf/)
+- [Dokumentum konvertálás](./document-conversion/)
+- [Fájltípusok PDF-re konvertálása](./converting-file-types-to-pdf/)
+- [Betöltés helyi forrásokból](./loading-from-local-sources/)
+- [Betöltés távoli forrásokból](./loading-from-remote-sources/)
+- [Betöltés felhő tárolóból](./loading-from-cloud-storage/)
+- [Biztonságos dokumentumok kezelése](./working-with-secure-documents/)
+- [Dokumentum kimenet és mentés](./document-output-saving/)
+- [Oldalkezelés és tartalommanipuláció](./page-management-content-manipulation/)
+- [Konvertálási beállítások és opciók](./conversion-options-settings/)
+- [PDF konvertálás és funkciók](./pdf-conversion-features/)
+- [Szövegszerkesztő formátumok és funkciók](./word-processing-formats-features/)
+- [Táblázatkezelő formátumok és funkciók](./spreadsheet-formats-features/)
+- [Prezentáció formátumok és funkciók](./presentation-formats-features/)
+- [Képformátumok és funkciók](./image-formats-features/)
+- [E‑mail formátumok és funkciók](./email-formats-features/)
+- [CSV és strukturált adatfeldolgozás](./csv-structured-data-processing/)
+- [XML és JSON feldolgozás](./xml-json-processing/)
+- [Szövegfájl feldolgozás](./text-file-processing/)
+- [CAD és műszaki rajz formátumok](./cad-technical-drawing-formats/)
+- [Web és jelölőnyelv formátumok](./web-markup-formats/)
+- [Tömörítés és archívum kezelés](./compression-archive-handling/)
+- [Tárolófájlok és PST feldolgozás](./storage-files-pst-processing/)
+- [Betűtípus kezelés és helyettesítés](./font-handling-substitution/)
+- [Gyorsítótár kezelés](./cache-management/)
+- [Konvertálási események és naplózás](./conversion-events-logging/)
+- [Konvertálási segédprogramok és információk](./conversion-utilities-information/)
+- [HTML konvertálás](./html-conversion/)
+- [PDF konvertálás](./pdf-conversion/)
+- [Kép konvertálás](./image-conversion/)
+- [Szövegszerkesztő konvertálás](./word-processing-conversion/)
+- [Táblázatkezelő konvertálás](./spreadsheet-conversion/)
+- [Prezentáció konvertálás](./presentation-conversion/)
+- [Szöveg és jelölőnyelv konvertálás](./text-markup-conversion/)
 
-### [Fájlformátum konvertálás](./file-format-conversion-tutorials/)
-Könnyedén konvertáljon különféle fájlformátumokat PDF‑re a GroupDocs.Conversion for .NET‑el. Növelje a termelékenységet lépésről‑lépésre útmutatókkal és zökkenőmentes integrációval.
+---
 
-### [Fájlok konvertálása PDF-re](./convert-files-to-pdf/)
-Könnyedén konvertáljon különféle fájlformátumokat PDF‑re a GroupDocs.Conversion for .NET‑el. Zökkenőmentesen integrálja a konverziós beállításokat a hatékony dokumentumkezeléshez.
-
-### [Dokumentum konvertálás](./document-conversion/)
-Könnyedén konvertáljon különféle fájlformátumokat PDF‑re a GroupDocs.Conversion for .NET útmutatóival. Javítsa a dokumentumkezelést zökkenőmentesen.
-
-### [Fájltípusok konvertálása PDF-re](./converting-file-types-to-pdf/)
-Könnyedén konvertáljon különféle fájltípusokat PDF‑re a GroupDocs.Conversion for .NET‑el. Egyszerűsítse a dokumentumkezelési folyamatot. Tudjon meg többet!
-
-### [Betöltés helyi forrásokból](./loading-from-local-sources/)
-Mesteri technikák a dokumentumok betöltéséhez fájlrendszer‑útvonalakról és memóriafolyamokból .NET alkalmazásaiban a GroupDocs.Conversion használatával.
-
-### [Betöltés távoli forrásokból](./loading-from-remote-sources/)
-Fedezze fel, hogyan lehet webes URL‑ekről és FTP‑szerverekről dokumentumokat lekérni és feldolgozni a GroupDocs.Conversion for .NET‑el.
-
-### [Betöltés felhőtárolóból](./loading-from-cloud-storage/)
-Ismerje meg, hogyan integrálja a GroupDocs.Conversion‑t az Amazon S3‑mal, Azure Blob Storage‑szal és más felhőszolgáltatókkal .NET alkalmazásaiban.
-
-### [Biztonságos dokumentumok kezelése](./working-with-secure-documents/)
-Hatékonyan kezelje a jelszóval védett fájlokat és a titkosítási követelményeket dokumentumkonverziós munkafolyamataiban a GroupDocs.Conversion for .NET‑el.
-
-### [Dokumentum kimenet és mentés](./document-output-saving/)
-Fedezze fel a konvertált dokumentumok különböző helyekre mentésének lehetőségeit, névformák alkalmazását és a kimeneti fájlok hatékony kezelését.
-
-### [Oldalkezelés és tartalommanipuláció](./page-management-content-manipulation/)
-Mesteri technikák a szelektív oldalkonverzióhoz, vízjelhez és a tartalom módosításához a konverziós folyamat során.
-
-### [Konverziós beállítások és opciók](./conversion-options-settings/)
-Állítson be átfogó konverziós paramétereket a különböző dokumentumformátumok optimális eredményei érdekében a GroupDocs.Conversion‑nal.
-
-### [PDF konvertálás és funkciók](./pdf-conversion-features/)
-Valósítsa meg a fejlett PDF‑specifikus funkciókat és konverziós opciókat a GroupDocs.Conversion for .NET‑el dokumentumfolyamataiban.
-
-### [Szövegszerkesztő formátumok és funkciók](./word-processing-formats-features/)
-Konvertáljon DOC, DOCX, RTF és ODT formátumok között, miközben megőrzi a dokumentum stílusát, szerkezetét és speciális funkcióit.
-
-### [Táblázat formátumok és funkciók](./spreadsheet-formats-features/)
-Dolgozzon Excel formátumokkal, őrizze meg a képleteket, formázást és az adatintegritást a konverzió során a GroupDocs.Conversion for .NET‑el.
-
-### [Prezentáció formátumok és funkciók](./presentation-formats-features/)
-Konvertáljon PowerPoint fájlokat, miközben megőrzi a diák, animációk és vizuális elemeket a GroupDocs.Conversion for .NET használatával.
-
-### [Kép formátumok és funkciók](./image-formats-features/)
-Tanulja meg, hogyan konvertáljon különféle képformátumok között, pontos felbontás‑, minőség‑ és OCR‑vezérléssel.
-
-### [E‑mail formátumok és funkciók](./email-formats-features/)
-Dolgozzon MSG, EML és egyéb e‑mail formátumokkal, miközben megőrzi a mellékleteket és az üzenet komponenseket a GroupDocs.Conversion‑nal.
-
-### [CSV és strukturált adatfeldolgozás](./csv-structured-data-processing/)
-Alakítsa át a CSV fájlokat más formátumokra, és dolgozza fel hatékonyan a strukturált adatokat a GroupDocs.Conversion for .NET‑el.
-
-### [XML és JSON feldolgozás](./xml-json-processing/)
-Konvertáljon strukturált adatformátumokat ember‑olvasó dokumentumokká, miközben megőrzi a hierarchikus kapcsolatokat és összetett objektumokat.
-
-### [Szövegfájl feldolgozás](./text-file-processing/)
-Mesteri technikák a sima szövegfájlok kezeléséhez konverziós műveletek során a GroupDocs.Conversion for .NET‑el.
-
-### [CAD és műszaki rajz formátumok](./cad-technical-drawing-formats/)
-Konvertálja az AutoCAD rajzokat és egyéb műszaki formátumokat megtekinthető dokumentumokká, miközben megőrzi a fontos mérnöki részleteket.
-
-### [Web és jelölőnyelv formátumok](./web-markup-formats/)
-Alakítsa át a HTML, MHTML és egyéb webformátumokat teljes stílus‑, beágyazott erőforrás‑ és dokumentumszerkezet‑támogatással.
-
-### [Tömörítés és archívumkezelés](./compression-archive-handling/)
-Dolgozzon tömörített archívumokkal, bontsa ki a tartalmat, és dolgozza fel az archívumokban lévő fájlokat a GroupDocs.Conversion for .NET‑el.
-
-### [Tárolófájlok és PST feldolgozás](./storage-files-pst-processing/)
-Dolgozzon Outlook tárolófájlokkal, bontsa ki az üzeneteket, és konvertálja a tartalmat e‑mail konténerekből a GroupDocs.Conversion‑nal.
-
-### [Betűtípus kezelés és helyettesítés](./font-handling-substitution/)
-Valósítsa meg a betűtípus helyettesítési szabályokat, és biztosítsa a szöveg egységes megjelenését különböző platformokon a konverzió során.
-
-### [Gyorsítótár kezelés](./cache-management/)
-Optimalizálja a konverziós teljesítményt hatékony gyorsítótárazási stratégiákkal és egyedi gyorsítótár‑szolgáltatókkal alkalmazásaiban.
-
-### [Konverziós események és naplózás](./conversion-events-logging/)
-Valósítsa meg az eseménykezelést és naplózási mechanizmusokat a konverziós folyamat nyomon követéséhez és átfogó audit napló létrehozásához.
-
-### [Konverziós segédprogramok és információk](./conversion-utilities-information/)
-Használja ki a segédprogram funkciókat a dokumentumok ellenőrzéséhez és a konverziós képességek elemzéséhez a GroupDocs.Conversion for .NET‑el.
-
-### [HTML konvertálás](./html-conversion/)
-Alakítsa át a különféle dokumentumformátumokat web‑kész HTML‑re, miközben megőrzi a stílusokat, szerkezetet és beágyazott erőforrásokat.
-
-### [PDF konvertálás](./pdf-conversion/)
-Tanulja meg, hogyan konvertáljon könnyedén különféle fájlformátumokat PDF‑re a GroupDocs.Conversion for .NET‑el. Egyszerűsítse még ma a dokumentumkezelési munkafolyamatait!
-
-### [Kép konvertálás](./image-conversion/)
-Konvertáljon dokumentumokat JPG, PNG, TIFF és egyéb képformátumokra pontos vizuális minőség‑ és felbontás‑vezérléssel.
-
-### [Szövegszerkesztő konvertálás](./word-processing-conversion/)
-Alakítsa át a dokumentumokat szerkeszthető szövegszerkesztő formátumokra, miközben megőrzi a szerkezetet, formázást és beágyazott objektumokat.
-
-### [Táblázat konvertálás](./spreadsheet-conversion/)
-Konvertáljon különféle dokumentumokat Excel formátumokra képletek, adattípusok és több lapos munkafüzetek támogatásával.
-
-### [Prezentáció konvertálás](./presentation-conversion/)
-Készítsen professzionális PowerPoint prezentációkat különféle dokumentumformátumokból, miközben megőrzi a vizuális elemeket és diaelrendezéseket.
-
-### [Szöveg és jelölőnyelv konvertálás](./text-markup-conversion/)
-Vonjon ki tartalmat egyszerű szöveg, XML, Markdown és egyéb szöveges formátumokba rugalmas kódolási és formázási opciókkal.
-
----  
-**Legutóbb frissítve:** 2026-04-06  
-**Tesztelve a következővel:** GroupDocs.Conversion 23.12 for .NET  
+**Utolsó frissítés:** 2026-08-19  
+**Tesztelt verzió:** GroupDocs.Conversion 23.12 for .NET  
 **Szerző:** GroupDocs
