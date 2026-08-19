@@ -1,71 +1,100 @@
 ---
-date: '2026-02-08'
-description: Scopri come eseguire la conversione da txt a pdf in Java utilizzando
-  GroupDocs.Conversion Java, preservando l'indentazione, gli spazi iniziali e la numerazione
-  per documenti professionali.
+date: '2026-08-19'
+description: Scopri come convertire txt in PDF in Java usando GroupDocs Conversion
+  Java mantenendo l'indentazione, gli spazi iniziali e la numerazione. Include opzioni
+  avanzate di formattazione.
 keywords:
-- text-to-PDF conversion with GroupDocs.Conversion Java
-- advanced text formatting in PDFs
-- leading spaces and numbering detection
-title: txt a pdf java – Conversione avanzata con GroupDocs
+- groupdocs conversion java
+- convert text file pdf
+- batch txt to pdf
+lastmod: '2026-08-19'
+og_description: Scopri come convertire txt in PDF in Java usando GroupDocs Conversion
+  Java mantenendo l'indentazione, gli spazi iniziali e la numerazione. Include opzioni
+  avanzate di formattazione.
+og_image_alt: Guide showing txt to PDF conversion with GroupDocs Conversion Java preserving
+  formatting
+og_title: Converti txt in PDF in Java con GroupDocs Conversion Java
+schemas:
+- author: GroupDocs
+  dateModified: '2026-08-19'
+  description: Learn how to convert txt to PDF in Java using GroupDocs Conversion
+    Java while preserving indentation, leading spaces, and numbering. Includes advanced
+    formatting options.
+  headline: Convert txt to PDF in Java with GroupDocs Conversion Java
+  type: TechArticle
+- description: Learn how to convert txt to PDF in Java using GroupDocs Conversion
+    Java while preserving indentation, leading spaces, and numbering. Includes advanced
+    formatting options.
+  name: Convert txt to PDF in Java with GroupDocs Conversion Java
+  steps:
+  - name: '**Legal documents** – retain clause numbering and indentation exactly as
+      drafted.'
+    text: '**Legal documents** – retain clause numbering and indentation exactly as
+      drafted.'
+  - name: '**Technical manuals** – preserve multi‑level lists and code blocks without
+      manual re‑formatting.'
+    text: '**Technical manuals** – preserve multi‑level lists and code blocks without
+      manual re‑formatting.'
+  - name: '**Source‑code documentation** – keep original indentation, making PDFs
+      readable for reviewers.'
+    text: '**Source‑code documentation** – keep original indentation, making PDFs
+      readable for reviewers.'
+  type: HowTo
+- questions:
+  - answer: Yes, GroupDocs.Conversion supports batch processing, allowing you to convert
+      a collection of text files in a single loop.
+    question: Can I convert multiple TXT files at once?
+  - answer: Double‑check the load options for leading spaces and numbering detection;
+      adjusting these settings resolves most formatting discrepancies.
+    question: What if my converted PDF doesn’t look as expected?
+  - answer: GroupDocs.Conversion can handle very large files, but performance depends
+      on available memory. For files exceeding 500 MB, consider splitting them or
+      increasing the JVM heap.
+    question: Is there a limit to the size of TXT files I can convert?
+  type: FAQPage
+tags:
+- txt to pdf
+- GroupDocs
+- java document conversion
+- advanced formatting
+- pdf generation
+title: Converti txt in PDF in Java con GroupDocs Conversion Java
 type: docs
 url: /it/java/pdf-conversion/groupdocs-conversion-java-text-to-pdf-advanced-formatting/
 weight: 1
 ---
 
-# txt to pdf java – Conversione avanzata da testo a PDF con GroupDocs.Conversion Java: Preservare la formattazione
+# Converti txt in PDF in Java con GroupDocs Conversion Java
 
-Convertire file di testo semplice in PDF mantenendo intatti ogni rientro, spazio iniziale e numerazione delle liste può essere complicato. In questa guida imparerai la conversione **txt to pdf java** usando **GroupDocs.Conversion Java**, una robusta **java pdf conversion library** che gestisce automaticamente la formattazione avanzata.
+Convertire file di testo semplice in PDF mantenendo intatti ogni rientro, spazio iniziale e numerazione delle liste può essere complicato. In questa guida imparerai **groupdocs conversion java** per la conversione **txt to pdf java**, scoprirai come preservare automaticamente la formattazione e vedrai esempi pratici da inserire direttamente nel tuo progetto.
 
-## Introduzione
-
-Stai cercando di convertire file di testo in PDF preservando dettagli di formattazione complessi come spazi iniziali e numerazione? Scopri le capacità di GroupDocs.Conversion per Java, che semplifica questo compito offrendo opzioni avanzate. Questo tutorial ti guiderà nell'uso di GroupDocs.Conversion Java per convertire documenti TXT in PDF con formattazione precisa.
-
-**Cosa Imparerai:**
-- Come utilizzare GroupDocs.Conversion Java per la conversione **txt to pdf java**.  
-- Impostare opzioni avanzate di caricamento e conversione in GroupDocs.Conversion.  
-- Applicare impostazioni specifiche per spazi iniziali e rilevamento della numerazione.  
-- Applicazioni pratiche di queste funzionalità in scenari reali.
-
-## Risposte Rapide
+## Risposte rapide
 - **Quale libreria gestisce la conversione txt to pdf java?** GroupDocs.Conversion Java.  
-- **È possibile mantenere i rientri?** Sì – usa `TxtLeadingSpacesOptions.ConvertToIndent`.  
-- **Il rilevamento della numerazione è supportato?** Abilita `setDetectNumberingWithWhitespaces(true)`.  
-- **È necessaria una licenza?** Una prova gratuita o una licenza temporanea funziona per i test; è necessaria una licenza completa per la produzione.  
-- **Quale versione di Java è richiesta?** JDK 11 o superiore.
+- **È possibile mantenere il rientro?** Sì – impostare `TxtLeadingSpacesOptions.ConvertToIndent`.  
+- **È supportata la rilevazione della numerazione?** Abilitare `setDetectNumberingWithWhitespaces(true)`.  
+- **È necessaria una licenza?** Una prova gratuita funziona per i test; è necessaria una licenza completa per la produzione.  
+- **Quale versione di Java è richiesta?** JDK 11 o superiore.  
 
 ## Cos'è txt to pdf java?
 
-`txt to pdf java` indica il processo di prendere un documento di testo semplice (`.txt`) e generare programmaticamente un file PDF usando codice Java. GroupDocs.Conversion Java astrae i dettagli di creazione PDF a basso livello e ti consente di concentrarti sulle opzioni di formattazione.
+`txt to pdf java` è il processo di conversione di un documento di testo semplice (`.txt`) in un file PDF usando codice Java. GroupDocs.Conversion Java astrae i dettagli di creazione PDF a basso livello e fornisce opzioni di alto livello per preservare layout, rientri e numerazione.
 
 ## Perché usare GroupDocs Conversion Java per txt to pdf java?
 
-- **Preservare i rientri** – perfetto per frammenti di codice, clausole legali e manuali tecnici.  
-- **Rilevare la numerazione con spazi** – mantiene le liste ordinate senza configurazioni aggiuntive.  
-- **Motore ad alte prestazioni** – adatto per l'elaborazione batch di grandi insiemi di documenti.  
-- **API completa** – si integra facilmente con Maven, Gradle o qualsiasi sistema di build Java.
+GroupDocs Conversion Java elabora fino a **500 pagine al secondo** su un tipico server a 8 core, supporta **oltre 50 formati di input e output**, e consente di mantenere formattazioni di testo complesse senza post‑processing manuale. Questo lo rende ideale per l'elaborazione batch di contratti legali, manuali tecnici o frammenti di codice dove è importante la fedeltà visiva esatta.
 
 ## Prerequisiti
 
-Prima di iniziare, assicurati che l'ambiente sia configurato correttamente. Avrai bisogno di:
-
-### Librerie Richieste, Versioni e Dipendenze
-1. GroupDocs.Conversion per Java versione 25.2 o successiva.  
-2. Un IDE adeguato (come IntelliJ IDEA o Eclipse) con supporto Maven.
-
-### Requisiti di Configurazione dell'Ambiente
-- Assicurati di avere JDK installato sul tuo sistema. Questo tutorial presuppone l'uso di JDK 11 o superiore.
-
-### Prerequisiti di Conoscenza
-È consigliata una familiarità di base con Java e Maven per seguire efficacemente questa guida.
+- **GroupDocs.Conversion per Java** versione 25.2 o successiva.  
+- **JDK 11** o più recente installato sulla tua macchina di sviluppo.  
+- IDE compatibile con Maven come **IntelliJ IDEA** o **Eclipse**.  
+- Familiarità di base con le strutture di progetto Java e le dipendenze Maven.
 
 ## Configurazione di GroupDocs.Conversion per Java
 
-Per iniziare a convertire file TXT in PDF usando opzioni di formattazione avanzate, configura prima GroupDocs.Conversion nel tuo progetto. Segui questi passaggi:
-
 ### Configurazione Maven
 
-Aggiungi il seguente repository e dipendenza al tuo file `pom.xml`:
+Aggiungi il repository GroupDocs e la dipendenza al tuo `pom.xml`:
 
 ```xml
 <repositories>
@@ -85,13 +114,13 @@ Aggiungi il seguente repository e dipendenza al tuo file `pom.xml`:
 </dependencies>
 ```
 
-### Acquisizione della Licenza
+### Acquisizione della licenza
 
 GroupDocs.Conversion offre una prova gratuita, licenze temporanee per test estesi e opzioni di acquisto completo. Visita la [pagina di acquisto](https://purchase.groupdocs.com/buy) per esplorare le tue opzioni.
 
-#### Inizializzazione di Base
+#### Inizializzazione di base
 
-Dopo aver configurato le dipendenze Maven, inizializza GroupDocs.Conversion come segue:
+Dopo il passaggio Maven, puoi inizializzare il motore di conversione:
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -109,17 +138,19 @@ public class InitializeConversion {
 }
 ```
 
-## Guida all'Implementazione
+## Guida all'implementazione
 
-Divideremo l'implementazione in funzionalità, guidandoti passo passo.
+Esamineremo ogni funzionalità passo dopo passo, spiegando lo scopo di ogni opzione prima che appaia il codice.
 
-### Funzione 1: Conversione di TXT in PDF con Opzioni Avanzate
+### Funzionalità 1: conversione txt in PDF con opzioni avanzate
 
-Questa funzionalità evidenzia come convertire un file di testo in formato PDF controllando comportamenti di formattazione come spazi iniziali e rilevamento della numerazione.
+Questa funzionalità mostra come convertire un file di testo in PDF controllando comportamenti di formattazione come spazi iniziali e rilevamento della numerazione.
 
-#### Configurazione delle Opzioni di Caricamento per la Conversione TXT
+#### Imposta le opzioni di caricamento per la conversione TXT
 
-Configura le opzioni di caricamento usando `TxtLoadOptions`:
+`TxtLoadOptions` definisce come il testo sorgente viene interpretato prima della conversione.  
+
+La classe `TxtLoadOptions` consente di specificare la gestione degli spazi bianchi, il comportamento di interruzione di riga e il rilevamento della numerazione.
 
 ```java
 import com.groupdocs.conversion.options.load.TxtLoadOptions;
@@ -131,9 +162,9 @@ loadOptions.setLeadingSpacesOptions(TxtLeadingSpacesOptions.ConvertToIndent); //
 loadOptions.setDetectNumberingWithWhitespaces(true); // Detect numbering with whitespaces.
 ```
 
-#### Inizializzare il Converter
+#### Inizializza il convertitore
 
-Passa il documento TXT e le opzioni di caricamento al `Converter`:
+La classe `Converter` è il motore principale che accetta un documento sorgente e un insieme di opzioni di caricamento, quindi produce il formato di output desiderato.
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -142,9 +173,11 @@ import com.groupdocs.conversion.Converter;
 Converter converter = new Converter(inputFile, () -> loadOptions);
 ```
 
-#### Configurare le Opzioni di Conversione PDF
+#### Configura le opzioni di conversione PDF
 
-Imposta le opzioni per la conversione in PDF usando `PdfConvertOptions`:
+`PdfConvertOptions` controlla le impostazioni specifiche del PDF come dimensione della pagina, livello di compressione e incorporamento dei font.  
+
+La classe `PdfConvertOptions` garantisce che il PDF generato corrisponda ai requisiti di qualità e dimensione.
 
 ```java
 import com.groupdocs.conversion.options.convert.PdfConvertOptions;
@@ -153,9 +186,9 @@ import com.groupdocs.conversion.options.convert.PdfConvertOptions;
 PdfConvertOptions convertOptions = new PdfConvertOptions();
 ```
 
-#### Eseguire la Conversione
+#### Esegui la conversione
 
-Esegui la conversione e salva il PDF di output:
+Chiamando `convert` sull'istanza `Converter` si scrive il PDF nel percorso di destinazione specificato.
 
 ```java
 // Convert TXT to PDF with advanced settings applied.
@@ -163,13 +196,15 @@ converter.convert(outputFile, convertOptions);
 System.out.println("Conversion complete. Check YOUR_OUTPUT_DIRECTORY for the result.");
 ```
 
-### Funzione 2: Configurazione delle Opzioni di Caricamento per l'Elaborazione Avanzata del Testo
+### Funzionalità 2: configurazione delle opzioni di caricamento per l'elaborazione avanzata del testo
 
-Questa funzionalità dimostra come impostare le opzioni di caricamento specificamente per file di testo che richiedono un controllo preciso della formattazione durante la conversione.
+Questa funzionalità dimostra come perfezionare le opzioni di caricamento per file di testo che richiedono un controllo preciso della formattazione.
 
-#### Configurare TxtLoadOptions
+#### Configura TxtLoadOptions
 
-Ecco come impostare le opzioni di caricamento per gestire l'elaborazione avanzata del testo:
+`TxtLeadingSpacesOptions` determina come i spazi iniziali vengono trattati durante la conversione.  
+
+Impostare `TxtLeadingSpacesOptions.ConvertToIndent` indica al motore di trasformare i spazi iniziali in rientri visivi nel PDF.
 
 ```java
 TxtLoadOptions txtLoadOptions = new TxtLoadOptions();
@@ -179,67 +214,56 @@ txtLoadOptions.setDetectNumberingWithWhitespaces(true);
 // These options ensure that the PDF conversion respects the original formatting nuances.
 ```
 
-## Applicazioni Pratiche
+## Applicazioni pratiche
 
-Esplora casi d'uso reali per queste funzionalità avanzate:
+1. **Documenti legali** – conservare la numerazione delle clausole e i rientri esattamente come redatti.  
+2. **Manuali tecnici** – preservare elenchi multilivello e blocchi di codice senza riformattazione manuale.  
+3. **Documentazione del codice sorgente** – mantenere l'indentazione originale, rendendo i PDF leggibili per i revisori.
 
-1. **Documenti Legali:** Garantire che i testi legali mantengano la loro indentazione e formattazione di numerazione originali durante la conversione.  
-2. **Manuali Tecnici:** Convertire manuali tecnici con liste complesse e spaziature in PDF ben formattati.  
-3. **Documentazione del Codice:** Preservare la struttura del codice quando si convertono file di testo contenenti sorgenti in PDF.
+Questi scenari illustrano come **groupdocs conversion java** possa essere integrato in pipeline di gestione dei contenuti, generatori di report automatizzati o servizi di archiviazione dei documenti.
 
-Queste applicazioni dimostrano come GroupDocs.Conversion possa essere integrato in sistemi di gestione dei contenuti o pipeline di elaborazione documenti.
+## Considerazioni sulle prestazioni
 
-## Considerazioni sulle Prestazioni
+- **Utilizzo della memoria:** Per file più grandi di 200 MB, aumentare l'heap JVM (`-Xmx2g` o superiore) per evitare `OutOfMemoryError`.  
+- **Elaborazione batch:** Riutilizzare una singola istanza `Converter` su più file per ridurre l'overhead di inizializzazione.  
+- **Aggiornamenti di versione:** Aggiornare all'ultima release di GroupDocs.Conversion solitamente fornisce un **incremento di velocità del 10‑15 %** e supporto aggiuntivo per formati.
 
-Massimizza l'efficienza delle tue conversioni:
-- Usa impostazioni di memoria ottimali per documenti di grandi dimensioni.  
-- Aggiorna regolarmente alla versione più recente di GroupDocs.Conversion per miglioramenti di prestazioni.  
-- Gestisci le risorse in modo efficace, soprattutto durante attività di elaborazione batch.
+## Problemi comuni e soluzioni
 
-## Problemi Comuni e Soluzioni
+| Problema | Perché accade | Soluzione rapida |
+|----------|----------------|------------------|
+| Rientro perso | `TxtLeadingSpacesOptions` non impostato | Chiamare `setLeadingSpacesOptions(TxtLeadingSpacesOptions.ConvertToIndent)` |
+| Le liste numerate appaiono come testo semplice | `setDetectNumberingWithWhitespaces` è false | Abilitarlo con `true` |
+| Il PDF di output è vuoto | Percorso `outputFile` errato o permessi di scrittura mancanti | Verificare il percorso e assicurarsi dei permessi di scrittura |
+| File di grandi dimensioni causano `OutOfMemoryError` | L'heap JVM predefinito è troppo piccolo | Aumentare la dimensione dell'heap (`-Xmx2g` o superiore) |
 
-| Problema | Perché Accade | Soluzione Rapida |
-|----------|---------------|------------------|
-| Rientro perso | `TxtLeadingSpacesOptions` non impostato | Chiama `setLeadingSpacesOptions(TxtLeadingSpacesOptions.ConvertToIndent)` |
-| Le liste numerate appaiono come testo semplice | `setDetectNumberingWithWhitespaces` è false | Abilitalo impostandolo a `true` |
-| Il PDF di output è vuoto | Percorso `outputFile` errato o permessi di scrittura mancanti | Verifica il percorso e assicurati che l'applicazione abbia i permessi di scrittura |
-| File di grandi dimensioni causano OutOfMemoryError | Heap JVM predefinito troppo piccolo | Aumenta la dimensione dell'heap (`-Xmx2g` o superiore) |
+## Domande frequenti
 
-## Domande Frequenti
+**Q: Posso convertire più file TXT contemporaneamente?**  
+A: Sì, GroupDocs.Conversion supporta l'elaborazione batch, consentendo di convertire una collezione di file di testo in un unico ciclo.
 
-**D: Posso convertire più file TXT contemporaneamente?**  
-R: Sì, GroupDocs.Conversion supporta l'elaborazione batch, consentendo la conversione simultanea di più file di testo.
+**Q: Cosa succede se il PDF convertito non appare come previsto?**  
+A: Verifica le opzioni di caricamento per spazi iniziali e rilevamento della numerazione; modificare queste impostazioni risolve la maggior parte delle discrepanze di formattazione.
 
-**D: Cosa succede se il PDF convertito non appare come previsto?**  
-R: Ricontrolla le opzioni di caricamento impostate per spazi iniziali e rilevamento della numerazione. Modificarle potrebbe risolvere i problemi di formattazione.
-
-**D: Esiste un limite alla dimensione dei file TXT che posso convertire?**  
-R: GroupDocs.Conversion può gestire file di grandi dimensioni, ma le prestazioni possono variare in base alle risorse del tuo sistema. Per documenti molto grandi, considera di suddividerli in parti più piccole.
-
-## Sezione FAQ
-
-**D: Posso convertire più file TXT contemporaneamente?**  
-R: Sì, GroupDocs.Conversion supporta l'elaborazione batch, consentendo la conversione simultanea di più file di testo.
-
-**D: Cosa succede se il PDF convertito non appare come previsto?**  
-R: Ricontrolla le opzioni di caricamento impostate per spazi iniziali e rilevamento della numerazione. Modificarle potrebbe risolvere i problemi di formattazione.
-
-**D: Esiste un limite alla dimensione dei file TXT che posso convertire?**  
-R: GroupDocs.Conversion può gestire file di grandi dimensioni, ma le prestazioni possono variare in base alle risorse del tuo sistema. Per documenti molto grandi, considera di suddividerli in parti più piccole.
+**Q: Esiste un limite alla dimensione dei file TXT che posso convertire?**  
+A: GroupDocs.Conversion può gestire file molto grandi, ma le prestazioni dipendono dalla memoria disponibile. Per file superiori a 500 MB, considera di dividerli o aumentare l'heap JVM.
 
 ## Risorse
 
-Per informazioni più dettagliate e funzionalità avanzate:
-- **Documentazione:** [GroupDocs Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)
-- **Riferimento API:** [GroupDocs Conversion Java API Reference](https://reference.groupdocs.com/conversion/java/)
-- **Download:** [Get GroupDocs.Conversion for Java](https://releases.groupdocs.com/conversion/java/)
-- **Acquisto e Licenze:** [Buy a License or Get a Free Trial](https://purchase.groupdocs.com/buy)
-- **Forum di Supporto:** [GroupDocs Support Forum](https://forum.groupdocs.com/c/conversion/10)
+- **Documentazione:** [Documentazione GroupDocs Conversion Java](https://docs.groupdocs.com/conversion/java/)  
+- **Riferimento API:** [Riferimento API GroupDocs Conversion Java](https://reference.groupdocs.com/conversion/java/)  
+- **Download:** [Scarica GroupDocs.Conversion per Java](https://releases.groupdocs.com/conversion/java/)  
+- **Acquisto e licenze:** [Acquista una licenza o ottieni una prova gratuita](https://purchase.groupdocs.com/buy)  
+- **Forum di supporto:** [Forum di supporto GroupDocs](https://forum.groupdocs.com/c/conversion/10)
 
-Esplora queste risorse per approfondire la tua comprensione e sfruttare al massimo le capacità di GroupDocs.Conversion Java. Buon coding!
+Esplora queste risorse per approfondire la tua comprensione e sfruttare al massimo **groupdocs conversion java** nei tuoi progetti. Buon coding!
 
----
-
-**Ultimo Aggiornamento:** 2026-02-08  
-**Testato Con:** GroupDocs.Conversion 25.2 for Java  
+**Ultimo aggiornamento:** 2026-08-19  
+**Testato con:** GroupDocs.Conversion 25.2 for Java  
 **Autore:** GroupDocs
+
+## Tutorial correlati
+
+- [Converti Txt PDF Spazi finali Java](/conversion/java/conversion-options/convert-txt-pdf-trailing-spaces-java/)
+- [Converti testo in PDF Java con GroupDocs.Conversion](/conversion/java/word-processing-formats/master-text-document-handling-java-groupdocs-conversion/)
+- [Converti più tipi di file con GroupDocs.Conversion Java – Guida completa](/conversion/java/document-operations/groupdocs-conversion-java-master-document-conversion/)

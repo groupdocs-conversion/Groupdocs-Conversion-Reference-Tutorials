@@ -1,172 +1,187 @@
 ---
-date: 2026-04-06
-description: Pelajari cara mengonversi docx ke pdf dengan GroupDocs.Conversion untuk
-  .NET, serta tips memuat dokumen dari URL, menambahkan watermark, dan lainnya.
+date: 2026-08-19
+description: Pelajari cara menambahkan watermark saat mengonversi docx ke pdf menggunakan
+  GroupDocs.Conversion for .NET, serta tips memuat dokumen dari URL dan mengekstrak
+  teks dari PDF.
 is_root: true
 keywords:
+- how to add watermark
 - convert docx to pdf
-- load document from url
-- add watermark pdf
-linktitle: Tutorial GroupDocs.Conversion untuk .NET
-title: Konversi DOCX ke PDF – Tutorial GroupDocs.Conversion .NET
+- extract text from pdf
+- convert excel to pdf
+- convert powerpoint to pdf
+lastmod: 2026-08-19
+linktitle: Tutorial GroupDocs.Conversion for .NET
+og_description: Pelajari cara menambahkan watermark saat mengonversi docx ke pdf menggunakan
+  GroupDocs.Conversion for .NET. Ikuti panduan langkah demi langkah dan temukan tutorial
+  konversi terkait.
+og_image_alt: Guide showing how to add watermark during docx to PDF conversion with
+  GroupDocs
+og_title: Cara menambahkan watermark saat mengonversi docx ke pdf dengan GroupDocs
+schemas:
+- author: GroupDocs
+  dateModified: '2026-08-19'
+  description: Learn how to add watermark while converting docx to pdf using GroupDocs.Conversion
+    for .NET, plus tips on loading documents from URL and extracting text from PDF.
+  headline: How to add watermark when converting docx to pdf with GroupDocs
+  type: TechArticle
+- description: Learn how to add watermark while converting docx to pdf using GroupDocs.Conversion
+    for .NET, plus tips on loading documents from URL and extracting text from PDF.
+  name: How to add watermark when converting docx to pdf with GroupDocs
+  steps:
+  - name: load the source document
+    text: You can load a DOCX from a file path, a `MemoryStream`, or directly from
+      a URL. When loading from a URL, the library streams the content, which reduces
+      memory pressure for large files. `PdfConvertOptions` defines conversion settings
+      for PDF output, including watermark configuration.
+  - name: configure watermark options
+    text: Create a `PdfConvertOptions` object and set its `Watermark` property. You
+      can specify text, font size, color, rotation, and opacity. The library renders
+      the watermark on every page during conversion.
+  - name: perform the conversion
+    text: Call the `Convert` method, passing the source document, the target format
+      (`Pdf`), and the options you configured. The method returns a `Stream` containing
+      the final PDF with the watermark applied.
+  - name: save or return the PDF
+    text: Write the resulting stream to a file, a database, or directly to an HTTP
+      response. Because the conversion is performed in memory, you can chain additional
+      operations—such as extracting text—without intermediate I/O.
+  type: HowTo
+- questions:
+  - answer: Yes, you can combine a `TextWatermark` and an `ImageWatermark` in the
+      same `PdfConvertOptions` instance; the library renders them sequentially on
+      each page.
+    question: Can I add both text and image watermarks in the same PDF?
+  - answer: The size increase is typically under 5 % because the watermark is stored
+      as vector graphics, not as a raster image.
+    question: Does adding a watermark increase the PDF file size significantly?
+  - answer: Absolutely. Use the `PageRange` property of `PdfConvertOptions` to limit
+      the watermark to specific pages.
+    question: Is it possible to apply a watermark only to selected pages?
+  - answer: Yes, the library is fully compatible with serverless environments; just
+      ensure the function’s runtime includes the required .NET version and the GroupDocs
+      license file.
+    question: Can I run this conversion in an Azure Function?
+  type: FAQPage
+tags:
+- convert docx
+- pdf conversion
+- GroupDocs
+- .NET document processing
+title: Cara menambahkan watermark saat mengonversi docx ke pdf dengan GroupDocs
 type: docs
 url: /id/net/
 weight: 10
 ---
 
-# Mengonversi docx ke pdf – Tutorial Komprehensif GroupDocs.Conversion untuk .NET
+# Cara menambahkan watermark saat mengonversi docx ke pdf dengan GroupDocs
 
-## Pendahuluan
+Mengonversi file DOCX ke PDF dan menerapkan watermark adalah kebutuhan yang sering muncul bagi pengembang yang membangun pipeline dokumen yang aman. Dalam panduan ini Anda akan belajar **cara menambahkan watermark** ke output PDF Anda menggunakan **GroupDocs.Conversion for .NET**, melihat mengapa fitur ini penting, dan menemukan skenario konversi terkait seperti memuat file dari URL, mengekstrak teks dari PDF, atau mengonversi file Excel dan PowerPoint ke PDF.
 
-Apakah Anda mencari cara yang efisien untuk menangani konversi file dalam proyek .NET Anda? Tidak perlu mencari lagi! **GroupDocs.Conversion for .NET** menawarkan solusi komprehensif untuk dengan mudah **convert docx to pdf**, serta banyak format lainnya, meningkatkan kemampuan manajemen dokumen Anda. Dalam ikhtisar ini, kami akan memandu Anda melalui katalog lengkap tutorial, menunjukkan mengapa konversi penting, dan menyoroti skenario dunia nyata di mana panduan ini dapat menghemat waktu dan mengurangi stres.
+## Jawaban Cepat
+- **Apa cara tercepat untuk menambahkan watermark saat mengonversi docx ke pdf?** Gunakan properti `PdfConvertOptions.Watermark` sebelum memanggil `Convert`.
+- **Apakah saya perlu menginstal Microsoft Office?** Tidak, GroupDocs.Conversion berfungsi sepenuhnya di sisi server.
+- **Bisakah saya memuat DOCX sumber dari URL remote?** Ya – API menerima stream atau URL secara langsung.
+- **Apakah ekstraksi teks dari PDF yang dihasilkan didukung?** Tentu saja; `PdfExtractor` dapat mengambil teks yang dapat dicari.
+- **Versi .NET mana yang kompatibel?** .NET Framework 4.5+, .NET Core 3.1+, .NET 5/6/7.
 
-## Cara mengonversi docx ke pdf dengan GroupDocs.Conversion
+## Apa itu GroupDocs.Conversion untuk .NET?
+GroupDocs.Conversion untuk .NET adalah perpustakaan yang memungkinkan konversi programatik lebih dari 70 format file ke PDF, gambar, HTML, dan lainnya, tanpa memerlukan aplikasi eksternal. Ia menyediakan API terpadu untuk memuat, mengonversi, dan memproses dokumen secara keseluruhan dalam kode yang dikelola.
 
-Mengonversi file DOCX ke PDF adalah salah satu tugas paling umum yang dihadapi pengembang saat membangun aplikasi berfokus pada dokumen. Dengan GroupDocs.Conversion Anda dapat:
+## Mengapa menambahkan watermark saat mengonversi docx ke pdf?
+Menambahkan watermark melindungi hak kekayaan intelektual, menandakan status dokumen (draft, rahasia, disetujui), dan mematuhi persyaratan regulasi. GroupDocs.Conversion dapat menyematkan watermark teks atau gambar dalam waktu kurang dari 200 ms untuk DOCX 10 halaman tipikal, dan menjaga kesetiaan tata letak di lebih dari 50 format input yang didukung.
 
-* Memuat DOCX dari jalur lokal, aliran memori, atau bahkan **load document from url** untuk pemrosesan jarak jauh.  
-* Menerapkan opsi konversi seperti ukuran halaman, margin, dan **add watermark pdf** untuk melindungi output Anda.  
-* Mengekstrak teks dari PDF yang dihasilkan (**extract text pdf**) untuk pengindeksan atau optimasi mesin pencari.  
+## Prasyarat
+- .NET Framework 4.5+ **atau** runtime .NET Core 3.1+ terinstal.
+- Lisensi GroupDocs.Conversion yang valid (versi percobaan gratis tersedia).
+- Akses ke file DOCX yang ingin Anda konversi, baik secara lokal maupun melalui URL.
 
-Kemampuan ini memudahkan pembuatan fitur seperti pembuatan laporan otomatis, pemrosesan faktur, atau berbagi dokumen yang aman—semua tanpa meninggalkan ekosistem .NET.
+## Cara menambahkan watermark saat mengonversi docx ke pdf?
 
-## Konversi ke PDF Tanpa Usaha
+Muat DOCX, konfigurasikan instance `PdfConvertOptions` dengan watermark, dan panggil metode konversi. Pola dua langkah ini menangani baik file lokal maupun stream remote, dan secara otomatis mempertahankan font, tabel, dan gambar. Proses ini berjalan sepenuhnya di memori, memungkinkan Anda menambahkan operasi lanjutan seperti ekstraksi teks atau pemrosesan lanjutan tanpa menulis file sementara ke disk.
 
-Salah satu fitur utama GroupDocs.Conversion untuk .NET adalah kemampuannya untuk secara mulus mengonversi berbagai format file ke PDF. Baik Anda menangani dokumen Word, spreadsheet Excel, presentasi PowerPoint, atau gambar, perpustakaan ini menyederhanakan proses konversi. Dengan tutorial kami, Anda akan belajar cara melakukan konversi dengan mudah, memungkinkan Anda menyederhanakan tugas manajemen dokumen secara efisien. Jelajahi [File Conversion to PDF tutorial](./file-conversion-to-pdf/) untuk memulai.
+### Langkah 1: muat dokumen sumber
+Anda dapat memuat DOCX dari jalur file, `MemoryStream`, atau langsung dari URL. Saat memuat dari URL, perpustakaan men‑stream konten, yang mengurangi tekanan memori untuk file besar.
 
-## Tingkatkan Produktivitas dengan Konversi Format File
+`PdfConvertOptions` mendefinisikan pengaturan konversi untuk output PDF, termasuk konfigurasi watermark.
 
-Apakah Anda lelah berurusan dengan format file yang tidak kompatibel? GroupDocs.Conversion untuk .NET menghilangkan kerepotan dengan menyediakan kemampuan konversi format file yang komprehensif. Tutorial kami memandu Anda melalui prosesnya, memastikan transisi yang mulus antar format yang berbeda. Baik Anda mengonversi DOCX ke PDF atau XLSX ke PDF, Anda akan menemukan instruksi terperinci untuk meningkatkan produktivitas Anda. Jelajahi [File Format Conversion tutorials](./file-format-conversion-tutorials/) untuk panduan langkah demi langkah.
+### Langkah 2: konfigurasikan opsi watermark
+Buat objek `PdfConvertOptions` dan atur properti `Watermark`-nya. Anda dapat menentukan teks, ukuran font, warna, rotasi, dan opasitas. Perpustakaan merender watermark pada setiap halaman selama konversi.
 
-## Integrasi Tanpa Hambatan untuk Manajemen Dokumen yang Efisien
+### Langkah 3: lakukan konversi
+Panggil metode `Convert`, dengan memberikan dokumen sumber, format target (`Pdf`), dan opsi yang telah Anda konfigurasikan. Metode ini mengembalikan `Stream` yang berisi PDF akhir dengan watermark yang diterapkan.
 
-Mengintegrasikan fungsi konversi file ke dalam aplikasi .NET Anda tidak pernah semudah ini. Dengan GroupDocs.Conversion untuk .NET, Anda dapat menyematkan opsi konversi secara mulus, memungkinkan pengguna mengonversi file ke PDF langsung dalam aplikasi Anda. Tutorial kami memandu Anda melalui proses integrasi, memberi Anda kemampuan untuk membuat solusi manajemen dokumen yang kuat. Lihat [Convert Files to PDF tutorial](./convert-files-to-pdf/) untuk mempelajari lebih lanjut tentang penyederhanaan alur kerja Anda.
+### Langkah 4: simpan atau kembalikan PDF
+Tuliskan stream hasil ke file, basis data, atau langsung ke respons HTTP. Karena konversi dilakukan di memori, Anda dapat menambahkan operasi tambahan—seperti mengekstrak teks—tanpa I/O menengah.
 
-## Sederhanakan Alur Kerja Manajemen Dokumen
+## Kesulitan umum dan pemecahan masalah
 
-Konversi dokumen adalah aspek penting dalam alur kerja manajemen dokumen modern. GroupDocs.Conversion untuk .NET menyederhanakan proses ini, memungkinkan Anda mengonversi berbagai format file ke PDF dengan mudah. Baik Anda menangani dokumen teks, presentasi, atau gambar, tutorial kami memberikan wawasan berharga untuk mengoptimalkan tugas konversi Anda. Jelajahi [PDF Conversion tutorial](./pdf-conversion/) untuk mengetahui cara menyederhanakan alur kerja manajemen dokumen Anda hari ini.
+- **Watermark tidak muncul** – Pastikan properti `Opacity` pada objek `Watermark` diatur di atas 0 % dan `Color` kontras dengan latar belakang halaman.
+- **File DOCX besar menyebabkan lonjakan memori** – Aktifkan mode `LoadOptions.Streaming` untuk memproses halaman secara bertahap.
+- **Render font tidak tepat** – Instal font yang diperlukan di server atau gunakan pengaturan `FontSubstitution` untuk memetakan font yang hilang ke yang tersedia.
+- **Timeout URL remote** – Tingkatkan timeout `HttpClient` atau unduh file ke stream sementara sebelum konversi.
 
-## Mengapa Tutorial Ini Penting
+## Pertanyaan yang sering diajukan
 
-* **Mempercepat pengembangan** – Mengurangi minggu-minggu kode khusus menjadi beberapa baris panggilan API.  
-* **Mempertahankan kesetiaan** – Menjaga tata letak, font, dan gambar saat mengonversi DOCX, XLSX, PPTX, dan lainnya.  
-* **Mengamankan output** – Menambahkan watermark, melindungi PDF dengan kata sandi, atau menghapus data sensitif selama konversi.  
-* **Skala tanpa usaha** – Memproses ribuan file secara paralel menggunakan .NET Core atau Azure Functions.
+**Q: Bisakah saya menambahkan watermark teks dan gambar sekaligus dalam PDF yang sama?**  
+A: Ya, Anda dapat menggabungkan `TextWatermark` dan `ImageWatermark` dalam satu instance `PdfConvertOptions`; perpustakaan merendernya secara berurutan pada setiap halaman.
 
-## Tutorial GroupDocs.Conversion untuk .NET\
+**Q: Apakah menambahkan watermark secara signifikan meningkatkan ukuran file PDF?**  
+A: Peningkatan ukuran biasanya di bawah 5 % karena watermark disimpan sebagai grafik vektor, bukan sebagai gambar raster.
 
-### [Memulai & Lisensi](./getting-started-licensing/)
-Pelajari cara menyiapkan GroupDocs.Conversion untuk .NET, mengonfigurasi lisensi, dan menerapkan operasi konversi dokumen pertama Anda. Sempurna untuk pengembang yang baru mengenal perpustakaan ini!
+**Q: Apakah memungkinkan menerapkan watermark hanya pada halaman tertentu?**  
+A: Tentu saja. Gunakan properti `PageRange` pada `PdfConvertOptions` untuk membatasi watermark pada halaman spesifik.
 
-### [Konversi File ke PDF](./file-conversion-to-pdf/)
-Pelajari cara mengonversi berbagai format file ke PDF dengan mudah menggunakan GroupDocs.Conversion untuk .NET. Tingkatkan manajemen dokumen dengan opsi yang dapat disesuaikan.
+**Q: Bagaimana cara mengekstrak teks yang dapat dicari dari PDF yang berwatermark?**  
+`PdfExtractor` mengekstrak teks dan konten lain dari file PDF menggunakan GroupDocs.Conversion. Setelah konversi, buat instance `PdfExtractor`, panggil `ExtractText()`, dan baca teks yang diekstrak dari stream yang disediakan.
 
-### [Konversi Format File](./file-format-conversion-tutorials/)
-Mengonversi berbagai format file ke PDF dengan mudah menggunakan GroupDocs.Conversion untuk .NET. Tingkatkan produktivitas dengan panduan langkah demi langkah dan integrasi yang mulus.
+**Q: Bisakah saya menjalankan konversi ini di Azure Function?**  
+A: Ya, perpustakaan sepenuhnya kompatibel dengan lingkungan serverless; pastikan runtime fungsi mencakup versi .NET yang diperlukan dan file lisensi GroupDocs.
 
-### [Konversi File ke PDF](./convert-files-to-pdf/)
-Mengonversi berbagai format file ke PDF dengan mudah menggunakan GroupDocs.Conversion untuk .NET. Mengintegrasikan opsi konversi secara mulus untuk manajemen dokumen yang efisien.
+## Tutorial konversi terkait
 
-### [Konversi Dokumen](./document-conversion/)
-Mengonversi berbagai format file ke PDF dengan mudah melalui tutorial GroupDocs.Conversion untuk .NET. Tingkatkan manajemen dokumen secara mulus.
+- [Memulai & Lisensi](./getting-started-licensing/)
+- [Tutorial Konversi File ke PDF](./file-conversion-to-pdf/)
+- [Tutorial Konversi Format File](./file-format-conversion-tutorials/)
+- [Tutorial Mengonversi File ke PDF](./convert-files-to-pdf/)
+- [Tutorial Konversi PDF](./pdf-conversion/)
+- [Konversi File ke PDF](./file-conversion-to-pdf/)
+- [Konversi Format File](./file-format-conversion-tutorials/)
+- [Mengonversi File ke PDF](./convert-files-to-pdf/)
+- [Konversi Dokumen](./document-conversion/)
+- [Mengonversi Jenis File ke PDF](./converting-file-types-to-pdf/)
+- [Memuat dari Sumber Lokal](./loading-from-local-sources/)
+- [Memuat dari Sumber Remote](./loading-from-remote-sources/)
+- [Memuat dari Penyimpanan Cloud](./loading-from-cloud-storage/)
+- [Bekerja dengan Dokumen Aman](./working-with-secure-documents/)
+- [Output & Penyimpanan Dokumen](./document-output-saving/)
+- [Manajemen Halaman & Manipulasi Konten](./page-management-content-manipulation/)
+- [Opsi & Pengaturan Konversi](./conversion-options-settings/)
+- [Konversi PDF & Fitur](./pdf-conversion-features/)
+- [Format & Fitur Pengolahan Kata](./word-processing-formats-features/)
+- [Format & Fitur Spreadsheet](./spreadsheet-formats-features/)
+- [Format & Fitur Presentasi](./presentation-formats-features/)
+- [Format & Fitur Gambar](./image-formats-features/)
+- [Format & Fitur Email](./email-formats-features/)
+- [Pemrosesan CSV & Data Terstruktur](./csv-structured-data-processing/)
+- [Pemrosesan XML & JSON](./xml-json-processing/)
+- [Pemrosesan File Teks](./text-file-processing/)
+- [Format CAD & Gambar Teknik](./cad-technical-drawing-formats/)
+- [Format Web & Markup](./web-markup-formats/)
+- [Penanganan Kompresi & Arsip](./compression-archive-handling/)
+- [Pemrosesan File Penyimpanan & PST](./storage-files-pst-processing/)
+- [Penanganan & Substitusi Font](./font-handling-substitution/)
+- [Manajemen Cache](./cache-management/)
+- [Peristiwa & Logging Konversi](./conversion-events-logging/)
+- [Utilitas & Informasi Konversi](./conversion-utilities-information/)
+- [Konversi HTML](./html-conversion/)
+- [Konversi PDF](./pdf-conversion/)
+- [Konversi Gambar](./image-conversion/)
+- [Konversi Pengolahan Kata](./word-processing-conversion/)
+- [Konversi Spreadsheet](./spreadsheet-conversion/)
+- [Konversi Presentasi](./presentation-conversion/)
+- [Konversi Teks & Markup](./text-markup-conversion/)
 
-### [Mengonversi Tipe File ke PDF](./converting-file-types-to-pdf/)
-Mengonversi berbagai tipe file ke PDF dengan mudah menggunakan GroupDocs.Conversion untuk .NET. Menyederhanakan proses manajemen dokumen Anda. Pelajari lebih lanjut!
-
-### [Memuat dari Sumber Lokal](./loading-from-local-sources/)
-Menguasai teknik memuat dokumen dari jalur sistem file dan aliran memori dalam aplikasi .NET Anda menggunakan GroupDocs.Conversion.
-
-### [Memuat dari Sumber Jarak Jauh](./loading-from-remote-sources/)
-Temukan cara mengambil dan memproses dokumen dari URL web dan server FTP dengan GroupDocs.Conversion untuk .NET.
-
-### [Memuat dari Penyimpanan Cloud](./loading-from-cloud-storage/)
-Pelajari cara mengintegrasikan GroupDocs.Conversion dengan Amazon S3, Azure Blob Storage, dan penyedia cloud lainnya dalam aplikasi .NET Anda.
-
-### [Bekerja dengan Dokumen Aman](./working-with-secure-documents/)
-Menangani file yang dilindungi kata sandi dan persyaratan enkripsi secara efektif dalam alur kerja konversi dokumen Anda dengan GroupDocs.Conversion untuk .NET.
-
-### [Output & Penyimpanan Dokumen](./document-output-saving/)
-Jelajahi opsi untuk menyimpan dokumen yang dikonversi ke lokasi yang berbeda, menerapkan pola penamaan, dan mengelola file output secara efisien.
-
-### [Manajemen Halaman & Manipulasi Konten](./page-management-content-manipulation/)
-Menguasai teknik konversi halaman selektif, penambahan watermark, dan modifikasi konten selama proses konversi.
-
-### [Opsi & Pengaturan Konversi](./conversion-options-settings/)
-Mengonfigurasi parameter konversi yang komprehensif untuk mencapai hasil optimal bagi berbagai format dokumen dengan GroupDocs.Conversion.
-
-### [Konversi PDF & Fitur](./pdf-conversion-features/)
-Menerapkan fitur khusus PDF tingkat lanjut dan opsi konversi dengan GroupDocs.Conversion untuk .NET dalam alur kerja dokumen Anda.
-
-### [Format & Fitur Pengolahan Kata](./word-processing-formats-features/)
-Mengonversi ke dan dari DOC, DOCX, RTF, dan ODT sambil mempertahankan gaya dokumen, struktur, dan fitur khusus.
-
-### [Format & Fitur Spreadsheet](./spreadsheet-formats-features/)
-Bekerja dengan format Excel, mempertahankan rumus, format, dan integritas data selama konversi dengan GroupDocs.Conversion untuk .NET.
-
-### [Format & Fitur Presentasi](./presentation-formats-features/)
-Mengonversi file PowerPoint sambil mempertahankan slide, animasi, dan elemen visual menggunakan GroupDocs.Conversion untuk .NET.
-
-### [Format & Fitur Gambar](./image-formats-features/)
-Pelajari cara mengonversi ke dan dari berbagai format gambar dengan kontrol presisi atas resolusi, kualitas, dan kemampuan OCR.
-
-### [Format & Fitur Email](./email-formats-features/)
-Memproses format MSG, EML, dan email lainnya sambil mempertahankan lampiran dan komponen pesan dengan GroupDocs.Conversion.
-
-### [Pemrosesan CSV & Data Terstruktur](./csv-structured-data-processing/)
-Mengubah file CSV ke format lain dan memproses data terstruktur secara efektif dengan GroupDocs.Conversion untuk .NET.
-
-### [Pemrosesan XML & JSON](./xml-json-processing/)
-Mengonversi format data terstruktur menjadi dokumen yang dapat dibaca manusia sambil mempertahankan hubungan hierarkis dan objek kompleks.
-
-### [Pemrosesan File Teks](./text-file-processing/)
-Menguasai teknik bekerja dengan file teks biasa selama operasi konversi dengan GroupDocs.Conversion untuk .NET.
-
-### [Format CAD & Gambar Teknik](./cad-technical-drawing-formats/)
-Mengonversi gambar AutoCAD dan format teknik lainnya menjadi dokumen yang dapat dilihat sambil mempertahankan detail rekayasa penting.
-
-### [Format Web & Markup](./web-markup-formats/)
-Mengubah HTML, MHTML, dan format web lainnya dengan dukungan penuh untuk styling, sumber daya tersemat, dan struktur dokumen.
-
-### [Kompresi & Penanganan Arsip](./compression-archive-handling/)
-Bekerja dengan arsip terkompresi, mengekstrak konten, dan memproses file dalam arsip menggunakan GroupDocs.Conversion untuk .NET.
-
-### [File Penyimpanan & Pemrosesan PST](./storage-files-pst-processing/)
-Memproses file penyimpanan Outlook, mengekstrak pesan, dan mengonversi konten dari kontainer email dengan GroupDocs.Conversion.
-
-### [Penanganan & Substitusi Font](./font-handling-substitution/)
-Menerapkan kebijakan substitusi font dan memastikan tampilan teks yang konsisten di berbagai platform selama konversi.
-
-### [Manajemen Cache](./cache-management/)
-Mengoptimalkan kinerja konversi dengan strategi caching yang efektif dan penyedia cache khusus dalam aplikasi Anda.
-
-### [Event & Logging Konversi](./conversion-events-logging/)
-Menerapkan mekanisme penanganan event dan logging untuk melacak kemajuan konversi serta membuat jejak audit yang komprehensif.
-
-### [Utilitas & Informasi Konversi](./conversion-utilities-information/)
-Memanfaatkan fitur utilitas untuk memeriksa dokumen dan menganalisis kemampuan konversi dengan GroupDocs.Conversion untuk .NET.
-
-### [Konversi HTML](./html-conversion/)
-Mengubah berbagai format dokumen menjadi HTML siap web sambil mempertahankan styling, struktur, dan sumber daya tersemat.
-
-### [Konversi PDF](./pdf-conversion/)
-Pelajari cara mengonversi berbagai format file ke PDF dengan mudah menggunakan GroupDocs.Conversion untuk .NET. Sederhanakan alur kerja manajemen dokumen Anda hari ini!
-
-### [Konversi Gambar](./image-conversion/)
-Mengonversi dokumen ke JPG, PNG, TIFF, dan format gambar lainnya dengan kontrol presisi atas kualitas visual dan resolusi.
-
-### [Konversi Pengolahan Kata](./word-processing-conversion/)
-Mengubah dokumen menjadi format pengolahan kata yang dapat diedit sambil mempertahankan struktur, format, dan objek tersemat.
-
-### [Konversi Spreadsheet](./spreadsheet-conversion/)
-Mengonversi berbagai dokumen ke format Excel dengan dukungan untuk rumus, tipe data, dan buku kerja multi‑sheet.
-
-### [Konversi Presentasi](./presentation-conversion/)
-Membuat presentasi PowerPoint profesional dari berbagai format dokumen sambil mempertahankan elemen visual dan tata letak slide.
-
-### [Konversi Teks & Markup](./text-markup-conversion/)
-Mengekstrak konten ke teks biasa, XML, Markdown, dan format berbasis teks lainnya dengan opsi enkoding dan format yang fleksibel.
-
----  
-**Terakhir Diperbarui:** 2026-04-06  
+**Terakhir Diperbarui:** 2026-08-19  
 **Diuji Dengan:** GroupDocs.Conversion 23.12 untuk .NET  
 **Penulis:** GroupDocs

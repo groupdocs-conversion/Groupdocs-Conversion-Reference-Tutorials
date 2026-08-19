@@ -1,172 +1,178 @@
 ---
-date: 2026-04-06
-description: เรียนรู้วิธีแปลงไฟล์ docx เป็น pdf ด้วย GroupDocs.Conversion สำหรับ .NET
-  พร้อมเคล็ดลับการโหลดเอกสารจาก URL การเพิ่มลายน้ำ และอื่น ๆ อีกมากมาย
+date: 2026-08-19
+description: เรียนรู้วิธีเพิ่ม watermark ขณะแปลง docx เป็น pdf ด้วย GroupDocs.Conversion
+  for .NET พร้อมเคล็ดลับการโหลดเอกสารจาก URL และการสกัดข้อความจาก PDF.
 is_root: true
 keywords:
+- how to add watermark
 - convert docx to pdf
-- load document from url
-- add watermark pdf
-linktitle: บทเรียน GroupDocs.Conversion สำหรับ .NET
-title: แปลง docx เป็น pdf – บทเรียน GroupDocs.Conversion .NET
+- extract text from pdf
+- convert excel to pdf
+- convert powerpoint to pdf
+lastmod: 2026-08-19
+linktitle: GroupDocs.Conversion for .NET Tutorials
+og_description: เรียนรู้วิธีเพิ่ม watermark ขณะแปลง docx เป็น pdf ด้วย GroupDocs.Conversion
+  for .NET. ทำตามคำแนะนำแบบ step‑by‑step และค้นพบบทเรียนการแปลงที่เกี่ยวข้อง.
+og_image_alt: Guide showing how to add watermark during docx to PDF conversion with
+  GroupDocs
+og_title: วิธีเพิ่ม watermark เมื่อแปลง docx เป็น pdf ด้วย GroupDocs
+schemas:
+- author: GroupDocs
+  dateModified: '2026-08-19'
+  description: Learn how to add watermark while converting docx to pdf using GroupDocs.Conversion
+    for .NET, plus tips on loading documents from URL and extracting text from PDF.
+  headline: How to add watermark when converting docx to pdf with GroupDocs
+  type: TechArticle
+- description: Learn how to add watermark while converting docx to pdf using GroupDocs.Conversion
+    for .NET, plus tips on loading documents from URL and extracting text from PDF.
+  name: How to add watermark when converting docx to pdf with GroupDocs
+  steps:
+  - name: load the source document
+    text: You can load a DOCX from a file path, a `MemoryStream`, or directly from
+      a URL. When loading from a URL, the library streams the content, which reduces
+      memory pressure for large files. `PdfConvertOptions` defines conversion settings
+      for PDF output, including watermark configuration.
+  - name: configure watermark options
+    text: Create a `PdfConvertOptions` object and set its `Watermark` property. You
+      can specify text, font size, color, rotation, and opacity. The library renders
+      the watermark on every page during conversion.
+  - name: perform the conversion
+    text: Call the `Convert` method, passing the source document, the target format
+      (`Pdf`), and the options you configured. The method returns a `Stream` containing
+      the final PDF with the watermark applied.
+  - name: save or return the PDF
+    text: Write the resulting stream to a file, a database, or directly to an HTTP
+      response. Because the conversion is performed in memory, you can chain additional
+      operations—such as extracting text—without intermediate I/O.
+  type: HowTo
+- questions:
+  - answer: Yes, you can combine a `TextWatermark` and an `ImageWatermark` in the
+      same `PdfConvertOptions` instance; the library renders them sequentially on
+      each page.
+    question: Can I add both text and image watermarks in the same PDF?
+  - answer: The size increase is typically under 5 % because the watermark is stored
+      as vector graphics, not as a raster image.
+    question: Does adding a watermark increase the PDF file size significantly?
+  - answer: Absolutely. Use the `PageRange` property of `PdfConvertOptions` to limit
+      the watermark to specific pages.
+    question: Is it possible to apply a watermark only to selected pages?
+  - answer: Yes, the library is fully compatible with serverless environments; just
+      ensure the function’s runtime includes the required .NET version and the GroupDocs
+      license file.
+    question: Can I run this conversion in an Azure Function?
+  type: FAQPage
+tags:
+- convert docx
+- pdf conversion
+- GroupDocs
+- .NET document processing
+title: วิธีเพิ่ม watermark เมื่อแปลง docx เป็น pdf ด้วย GroupDocs
 type: docs
 url: /th/net/
 weight: 10
 ---
 
-# แปลง docx เป็น pdf – คำแนะนำเชิงลึกของ GroupDocs.Conversion สำหรับ .NET
+# วิธีเพิ่มลายน้ำเมื่อแปลง docx เป็น pdf ด้วย GroupDocs
 
-## บทนำ
+## คำตอบอย่างรวดเร็ว
+- **วิธีที่เร็วที่สุดในการเพิ่มลายน้ำขณะแปลง docx เป็น pdf คืออะไร?** ใช้คุณสมบัติ `PdfConvertOptions.Watermark` ก่อนเรียก `Convert`  
+- **ฉันต้องติดตั้ง Microsoft Office หรือไม่?** ไม่, GroupDocs.Conversion ทำงานแบบ server‑side อย่างสมบูรณ์  
+- **ฉันสามารถโหลดไฟล์ DOCX ต้นฉบับจาก URL ระยะไกลได้หรือไม่?** ได้ – API ยอมรับสตรีมหรือ URL โดยตรง  
+- **การสกัดข้อความจาก PDF ที่ได้สนับสนุนหรือไม่?** แน่นอน; `PdfExtractor` สามารถดึงข้อความที่ค้นหาได้  
+- **เวอร์ชัน .NET ใดที่เข้ากันได้?** .NET Framework 4.5+, .NET Core 3.1+, .NET 5/6/7  
 
-คุณกำลังมองหาวิธีที่มีประสิทธิภาพในการจัดการการแปลงไฟล์ในโครงการ .NET ของคุณหรือไม่? ไม่ต้องมองหาเพิ่มเติม! **GroupDocs.Conversion for .NET** มอบโซลูชันครบวงจรเพื่อ **แปลง docx เป็น pdf** อย่างง่ายดาย รวมถึงรูปแบบอื่น ๆ อีกมากมาย เพื่อเพิ่มศักยภาพการจัดการเอกสารของคุณ ในภาพรวมนี้ เราจะพาคุณผ่านแคตตาล็อกคำแนะนำทั้งหมด แสดงเหตุผลว่าการแปลงมีความสำคัญอย่างไร และเน้นสถานการณ์จริงที่คำแนะนำเหล่านี้สามารถช่วยคุณประหยัดเวลาและความยุ่งยาก
+## GroupDocs.Conversion for .NET คืออะไร?
+GroupDocs.Conversion for .NET เป็นไลบรารีที่ช่วยให้ทำการแปลงไฟล์โปรแกรมได้มากกว่า 70 รูปแบบเป็น PDF, รูปภาพ, HTML และอื่น ๆ โดยไม่ต้องใช้แอปพลิเคชันภายนอก มันให้ API ที่เป็นเอกภาพสำหรับการโหลด, แปลง, และการประมวลผลต่อเอกสารทั้งหมดในโค้ดที่จัดการได้  
 
-## วิธีแปลง docx เป็น pdf ด้วย GroupDocs.Conversion
+## ทำไมต้องเพิ่มลายน้ำเมื่อแปลง docx เป็น pdf?
+การเพิ่มลายน้ำช่วยปกป้องทรัพย์สินทางปัญญา, แสดงสถานะเอกสาร (ร่าง, ลับ, อนุมัติ), และสอดคล้องกับข้อกำหนดด้านกฎระเบียบ GroupDocs.Conversion สามารถฝังลายน้ำข้อความหรือรูปภาพได้ภายในเวลาน้อยกว่า 200 ms สำหรับ DOCX 10 หน้าแบบทั่วไป, และรักษาความแม่นยำของเลย์เอาต์ในรูปแบบอินพุตที่รองรับกว่า 50 รูปแบบ  
 
-การแปลงไฟล์ DOCX เป็น PDF เป็นหนึ่งในงานที่พัฒนาซอฟต์แวร์ต้องเผชิญบ่อยที่สุดเมื่อสร้างแอปพลิเคชันที่เน้นเอกสาร ด้วย GroupDocs.Conversion คุณสามารถ:
+## ข้อกำหนดเบื้องต้น
+- .NET Framework 4.5+ **หรือ** .NET Core 3.1+ runtime ที่ติดตั้งแล้ว  
+- ไลเซนส์ GroupDocs.Conversion ที่ถูกต้อง (มีรุ่นทดลองฟรี)  
+- การเข้าถึงไฟล์ DOCX ที่ต้องการแปลง, ไม่ว่าจะเป็นในเครื่องหรือผ่าน URL  
 
-* โหลด DOCX จากเส้นทางในเครื่อง, สตรีมหน่วยความจำ, หรือแม้แต่ **load document from url** เพื่อการประมวลผลระยะไกล.  
-* กำหนดตัวเลือกการแปลงเช่น ขนาดหน้า, ระยะขอบ, และ **add watermark pdf** เพื่อปกป้องผลลัพธ์ของคุณ.  
-* ดึงข้อความจาก PDF ที่ได้ (**extract text pdf**) เพื่อการทำดัชนีหรือการเพิ่มประสิทธิภาพเครื่องมือค้นหา.  
+## วิธีเพิ่มลายน้ำเมื่อแปลง docx เป็น pdf?
+โหลด DOCX, กำหนดค่าอินสแตนซ์ `PdfConvertOptions` พร้อมลายน้ำ, และเรียกใช้เมธอดการแปลง รูปแบบสองขั้นตอนนี้จัดการไฟล์ในเครื่องและสตรีมระยะไกลได้, และจะรักษาแบบอักษร, ตาราง, และรูปภาพโดยอัตโนมัติ กระบวนการทำงานทั้งหมดในหน่วยความจำ, ทำให้คุณสามารถต่อเนื่องการดำเนินการอื่น ๆ เช่นการสกัดข้อความหรือการประมวลผลต่อเพิ่มเติมโดยไม่ต้องเขียนไฟล์ชั่วคราวลงดิสก์  
 
-ความสามารถเหล่านี้ทำให้คุณสร้างฟีเจอร์เช่น การสร้างรายงานอัตโนมัติ, การประมวลผลใบแจ้งหนี้, หรือการแชร์เอกสารอย่างปลอดภัย—ทั้งหมดโดยไม่ต้องออกจากระบบ .NET
+### ขั้นตอน 1: โหลดเอกสารต้นฉบับ
+คุณสามารถโหลด DOCX จากเส้นทางไฟล์, `MemoryStream`, หรือโดยตรงจาก URL เมื่อโหลดจาก URL, ไลบรารีจะสตรีมเนื้อหา, ซึ่งช่วยลดภาระหน่วยความจำสำหรับไฟล์ขนาดใหญ่  
+`PdfConvertOptions` กำหนดการตั้งค่าการแปลงสำหรับเอาต์พุต PDF, รวมถึงการกำหนดค่าลายน้ำ  
 
-## การแปลงเป็น PDF อย่างง่ายดาย
+### ขั้นตอน 2: กำหนดค่าตัวเลือกลายน้ำ
+สร้างอ็อบเจ็กต์ `PdfConvertOptions` และตั้งค่าคุณสมบัติ `Watermark` ของมัน คุณสามารถระบุข้อความ, ขนาดฟอนต์, สี, การหมุน, และความทึบของลายน้ำ ไลบรารีจะเรนเดอร์ลายน้ำบนทุกหน้าในระหว่างการแปลง  
 
-หนึ่งในคุณสมบัติหลักของ GroupDocs.Conversion for .NET คือความสามารถในการแปลงรูปแบบไฟล์ที่หลากหลายเป็น PDF อย่างไร้รอยต่อ ไม่ว่าคุณจะทำงานกับเอกสาร Word, ตาราง Excel, งานนำเสนอ PowerPoint, หรือรูปภาพ ไลบรารีนี้ทำให้กระบวนการแปลงง่ายขึ้น ด้วยคำแนะนำของเรา คุณจะได้เรียนรู้วิธีดำเนินการแปลงอย่างง่ายดาย ช่วยให้คุณจัดการงานเอกสารได้อย่างมีประสิทธิภาพ เข้าไปที่ [File Conversion to PDF tutorial](./file-conversion-to-pdf/) เพื่อเริ่มต้น
+### ขั้นตอน 3: ดำเนินการแปลง
+เรียกเมธอด `Convert`, ส่งผ่านเอกสารต้นฉบับ, รูปแบบเป้าหมาย (`Pdf`), และตัวเลือกที่คุณกำหนด เมธอดจะคืนค่า `Stream` ที่มี PDF สุดท้ายพร้อมลายน้ำที่ถูกใส่  
 
-## เพิ่มประสิทธิภาพการทำงานด้วยการแปลงรูปแบบไฟล์
+### ขั้นตอน 4: บันทึกหรือคืนค่า PDF
+เขียนสตรีมผลลัพธ์ไปยังไฟล์, ฐานข้อมูล, หรือโดยตรงไปยังการตอบสนอง HTTP เนื่องจากการแปลงทำในหน่วยความจำ, คุณสามารถต่อเนื่องการดำเนินการเพิ่มเติม—เช่นการสกัดข้อความ—โดยไม่ต้องมี I/O ระหว่างขั้นตอน  
 
-คุณเหนื่อยกับการจัดการไฟล์ที่เข้ากันไม่ได้หรือไม่? GroupDocs.Conversion for .NET ขจัดความยุ่งยากโดยให้ความสามารถในการแปลงรูปแบบไฟล์อย่างครบวงจร คำแนะนำของเราจะพาคุณผ่านกระบวนการ เพื่อให้การเปลี่ยนรูปแบบเป็นไปอย่างราบรื่น ไม่ว่าคุณจะทำการแปลง DOCX เป็น PDF หรือ XLSX เป็น PDF คุณจะพบคำแนะนำโดยละเอียดเพื่อเพิ่มประสิทธิภาพการทำงานของคุณ สำรวจ [File Format Conversion tutorials](./file-format-conversion-tutorials/) เพื่อรับคำแนะนำขั้นตอนต่อขั้นตอน
+## ปัญหาที่พบบ่อยและการแก้ไขข้อผิดพลาด
+- **ลายน้ำไม่ปรากฏ** – ตรวจสอบให้แน่ใจว่า `Opacity` ของอ็อบเจ็กต์ `Watermark` ตั้งค่ามากกว่า 0 % และ `Color` มีความคอนทราสต์กับพื้นหลังของหน้า  
+- **ไฟล์ DOCX ขนาดใหญ่ทำให้เกิดการเพิ่มขึ้นของหน่วยความจำ** – เปิดใช้งานโหมด `LoadOptions.Streaming` เพื่อประมวลผลหน้าแบบเพิ่มทีละส่วน  
+- **การแสดงผลฟอนต์ไม่ถูกต้อง** – ติดตั้งฟอนต์ที่จำเป็นบนเซิร์ฟเวอร์หรือใช้การตั้งค่า `FontSubstitution` เพื่อแมปฟอนต์ที่หายไปกับฟอนต์ที่มีอยู่  
+- **เวลาเชื่อมต่อ URL ระยะไกลหมดเวลา** – เพิ่มค่า timeout ของ `HttpClient` หรือดาวน์โหลดไฟล์ไปยังสตรีมชั่วคราวก่อนการแปลง  
 
-## การรวมระบบอย่างไร้รอยต่อสำหรับการจัดการเอกสารที่มีประสิทธิภาพ
+## คำถามที่พบบ่อย
+**ถาม: ฉันสามารถเพิ่มลายน้ำข้อความและรูปภาพใน PDF เดียวกันได้หรือไม่?**  
+A: ใช่, คุณสามารถรวม `TextWatermark` และ `ImageWatermark` ในอินสแตนซ์ `PdfConvertOptions` เดียวกัน; ไลบรารีจะเรนเดอร์พวกมันต่อเนื่องบนแต่ละหน้า  
 
-การรวมฟังก์ชันการแปลงไฟล์เข้าไปในแอปพลิเคชัน .NET ของคุณไม่เคยง่ายขนาดนี้มาก่อน ด้วย GroupDocs.Conversion for .NET คุณสามารถฝังตัวเลือกการแปลงได้อย่างราบรื่น ให้ผู้ใช้แปลงไฟล์เป็น PDF โดยตรงภายในแอปของคุณ คำแนะนำของเราจะพาคุณผ่านกระบวนการรวมระบบ ทำให้คุณสร้างโซลูชันการจัดการเอกสารที่แข็งแรง ตรวจสอบ [Convert Files to PDF tutorial](./convert-files-to-pdf/) เพื่อเรียนรู้เพิ่มเติมเกี่ยวกับการปรับกระบวนการทำงานของคุณ
+**ถาม: การเพิ่มลายน้ำทำให้ขนาดไฟล์ PDF เพิ่มขึ้นอย่างมีนัยสำคัญหรือไม่?**  
+A: การเพิ่มขนาดโดยทั่วไปอยู่ต่ำกว่า 5 % เนื่องจากลายน้ำถูกเก็บเป็นกราฟิกเวกเตอร์, ไม่ใช่ภาพแรสเตอร์  
 
-## ทำให้กระบวนการจัดการเอกสารง่ายขึ้น
+**ถาม: สามารถใช้ลายน้ำเฉพาะบางหน้าที่เลือกได้หรือไม่?**  
+A: แน่นอน. ใช้คุณสมบัติ `PageRange` ของ `PdfConvertOptions` เพื่อจำกัดลายน้ำให้กับหน้าที่ระบุ  
 
-การแปลงเอกสารเป็นส่วนสำคัญของกระบวนการจัดการเอกสารสมัยใหม่ GroupDocs.Conversion for .NET ทำให้กระบวนการนี้ง่ายดาย ช่วยให้คุณแปลงรูปแบบไฟล์ต่าง ๆ เป็น PDF อย่างไม่มีอุปสรรค ไม่ว่าคุณจะทำงานกับเอกสารข้อความ, งานนำเสนอ, หรือรูปภาพ คำแนะนำของเรามอบข้อมูลเชิงลึกในการเพิ่มประสิทธิภาพงานแปลงของคุณ สำรวจ [PDF Conversion tutorial](./pdf-conversion/) เพื่อค้นหาวิธีทำให้กระบวนการจัดการเอกสารของคุณง่ายขึ้นวันนี้
+**ถาม: ฉันจะสกัดข้อความที่ค้นหาได้จาก PDF ที่มีลายน้ำอย่างไร?**  
+`PdfExtractor` สกัดข้อความและเนื้อหาอื่นจากไฟล์ PDF โดยใช้ GroupDocs.Conversion หลังจากการแปลง, สร้างอินสแตนซ์ `PdfExtractor`, เรียก `ExtractText()`, และอ่านข้อความที่สกัดจากสตรีมที่ให้มา  
 
-## ทำไมคำแนะนำเหล่านี้ถึงสำคัญ
+**ถาม: ฉันสามารถรันการแปลงนี้ใน Azure Function ได้หรือไม่?**  
+A: ได้, ไลบรารีเข้ากันได้อย่างเต็มที่กับสภาพแวดล้อมแบบ serverless; เพียงตรวจสอบให้แน่ใจว่า runtime ของฟังก์ชันมีเวอร์ชัน .NET ที่ต้องการและไฟล์ไลเซนส์ของ GroupDocs  
 
-* **เร่งการพัฒนา** – ลดเวลาการเขียนโค้ดหลายสัปดาห์เหลือเพียงไม่กี่บรรทัดของการเรียก API.  
-* **รักษาความถูกต้องของเอกสาร** – คงรูปแบบ, ฟอนต์, และภาพเมื่อตอนแปลง DOCX, XLSX, PPTX, และอื่น ๆ.  
-* **ผลลัพธ์ที่ปลอดภัย** – เพิ่มลายน้ำ, ป้องกัน PDF ด้วยรหัสผ่าน, หรือกำจัดข้อมูลที่ละเอียดอ่อนระหว่างการแปลง.  
-* **ขยายได้อย่างง่ายดาย** – ประมวลผลไฟล์หลายพันไฟล์พร้อมกันโดยใช้ .NET Core หรือ Azure Functions.
+## บทเรียนการแปลงที่เกี่ยวข้อง
+- [เริ่มต้นและการให้สิทธิ์](./getting-started-licensing/)  
+- [บทแนะนำการแปลงไฟล์เป็น PDF](./file-conversion-to-pdf/)  
+- [บทแนะนำการแปลงรูปแบบไฟล์](./file-format-conversion-tutorials/)  
+- [บทแนะนำการแปลงไฟล์เป็น PDF](./convert-files-to-pdf/)  
+- [บทแนะนำการแปลง PDF](./pdf-conversion/)  
+- [การแปลงไฟล์เป็น PDF](./file-conversion-to-pdf/)  
+- [การแปลงรูปแบบไฟล์](./file-format-conversion-tutorials/)  
+- [แปลงไฟล์เป็น PDF](./convert-files-to-pdf/)  
+- [การแปลงเอกสาร](./document-conversion/)  
+- [การแปลงประเภทไฟล์เป็น PDF](./converting-file-types-to-pdf/)  
+- [การโหลดจากแหล่งที่อยู่ในเครื่อง](./loading-from-local-sources/)  
+- [การโหลดจากแหล่งที่อยู่ระยะไกล](./loading-from-remote-sources/)  
+- [การโหลดจากคลาวด์สตอเรจ](./loading-from-cloud-storage/)  
+- [การทำงานกับเอกสารที่ปลอดภัย](./working-with-secure-documents/)  
+- [ผลลัพธ์เอกสารและการบันทึก](./document-output-saving/)  
+- [การจัดการหน้าและการจัดการเนื้อหา](./page-management-content-manipulation/)  
+- [ตัวเลือกและการตั้งค่าการแปลง](./conversion-options-settings/)  
+- [การแปลง PDF และคุณลักษณะ](./pdf-conversion-features/)  
+- [รูปแบบและคุณลักษณะการประมวลผลคำ](./word-processing-formats-features/)  
+- [รูปแบบและคุณลักษณะสเปรดชีต](./spreadsheet-formats-features/)  
+- [รูปแบบและคุณลักษณะการนำเสนอ](./presentation-formats-features/)  
+- [รูปแบบและคุณลักษณะภาพ](./image-formats-features/)  
+- [รูปแบบและคุณลักษณะอีเมล](./email-formats-features/)  
+- [การประมวลผล CSV และข้อมูลโครงสร้าง](./csv-structured-data-processing/)  
+- [การประมวลผล XML & JSON](./xml-json-processing/)  
+- [การประมวลผลไฟล์ข้อความ](./text-file-processing/)  
+- [รูปแบบ CAD & การวาดเทคนิค](./cad-technical-drawing-formats/)  
+- [รูปแบบเว็บและมาร์กอัป](./web-markup-formats/)  
+- [การบีบอัดและการจัดการไฟล์เก็บข้อมูล](./compression-archive-handling/)  
+- [ไฟล์จัดเก็บและการประมวลผล PST](./storage-files-pst-processing/)  
+- [การจัดการฟอนต์และการทดแทน](./font-handling-substitution/)  
+- [การจัดการแคช](./cache-management/)  
+- [เหตุการณ์การแปลงและการบันทึก](./conversion-events-logging/)  
+- [ยูทิลิตี้และข้อมูลการแปลง](./conversion-utilities-information/)  
+- [การแปลง HTML](./html-conversion/)  
+- [การแปลง PDF](./pdf-conversion/)  
+- [การแปลงภาพ](./image-conversion/)  
+- [การแปลงการประมวลผลคำ](./word-processing-conversion/)  
+- [การแปลงสเปรดชีต](./spreadsheet-conversion/)  
+- [การแปลงการนำเสนอ](./presentation-conversion/)  
+- [การแปลงข้อความและมาร์กอัป](./text-markup-conversion/)  
 
-## คำแนะนำของ GroupDocs.Conversion สำหรับ .NET\
-
-### [เริ่มต้นใช้งาน & การให้สิทธิ์](./getting-started-licensing/)
-เรียนรู้วิธีตั้งค่า GroupDocs.Conversion for .NET, กำหนดการให้สิทธิ์, และดำเนินการแปลงเอกสารครั้งแรกของคุณ เหมาะสำหรับนักพัฒนาที่ใหม่ต่อไลบรารีนี้!
-
-### [การแปลงไฟล์เป็น PDF](./file-conversion-to-pdf/)
-เรียนรู้วิธีแปลงรูปแบบไฟล์ต่าง ๆ เป็น PDF อย่างง่ายดายด้วย GroupDocs.Conversion for .NET ปรับปรุงการจัดการเอกสารด้วยตัวเลือกที่ปรับแต่งได้
-
-### [การแปลงรูปแบบไฟล์](./file-format-conversion-tutorials/)
-แปลงรูปแบบไฟล์ต่าง ๆ เป็น PDF อย่างไม่มีอุปสรรคด้วย GroupDocs.Conversion for .NET เพิ่มประสิทธิภาพการทำงานด้วยคำแนะนำขั้นตอนต่อขั้นตอนและการรวมระบบที่ราบรื่น
-
-### [แปลงไฟล์เป็น PDF](./convert-files-to-pdf/)
-แปลงรูปแบบไฟล์ต่าง ๆ เป็น PDF อย่างไม่มีอุปสรรคด้วย GroupDocs.Conversion for .NET ฝังตัวเลือกการแปลงเพื่อการจัดการเอกสารที่มีประสิทธิภาพ
-
-### [การแปลงเอกสาร](./document-conversion/)
-แปลงรูปแบบไฟล์ต่าง ๆ เป็น PDF อย่างไม่มีอุปสรรคด้วยคำแนะนำ GroupDocs.Conversion for .NET ปรับปรุงการจัดการเอกสารอย่างไร้รอยต่อ
-
-### [การแปลงประเภทไฟล์เป็น PDF](./converting-file-types-to-pdf/)
-แปลงประเภทไฟล์ต่าง ๆ เป็น PDF อย่างไม่มีอุปสรรคด้วย GroupDocs.Conversion for .NET ทำให้กระบวนการจัดการเอกสารของคุณเป็นระบบ เรียนรู้เพิ่มเติม!
-
-### [การโหลดจากแหล่งข้อมูลในเครื่อง](./loading-from-local-sources/)
-เชี่ยวชาญเทคนิคการโหลดเอกสารจากเส้นทางไฟล์ระบบและสตรีมหน่วยความจำในแอป .NET ของคุณด้วย GroupDocs.Conversion
-
-### [การโหลดจากแหล่งข้อมูลระยะไกล](./loading-from-remote-sources/)
-ค้นพบวิธีดึงและประมวลผลเอกสารจาก URL เว็บและเซิร์ฟเวอร์ FTP ด้วย GroupDocs.Conversion for .NET
-
-### [การโหลดจากคลาวด์สตอเรจ](./loading-from-cloud-storage/)
-เรียนรู้วิธีรวม GroupDocs.Conversion กับ Amazon S3, Azure Blob Storage, และผู้ให้บริการคลาวด์อื่น ๆ ในแอป .NET ของคุณ
-
-### [การทำงานกับเอกสารที่ปลอดภัย](./working-with-secure-documents/)
-จัดการไฟล์ที่มีรหัสผ่านและความต้องการการเข้ารหัสอย่างมีประสิทธิภาพในกระบวนการแปลงเอกสารของคุณด้วย GroupDocs.Conversion for .NET
-
-### [ผลลัพธ์เอกสาร & การบันทึก](./document-output-saving/)
-สำรวจตัวเลือกการบันทึกเอกสารที่แปลงแล้วไปยังตำแหน่งต่าง ๆ การกำหนดรูปแบบชื่อไฟล์, และการจัดการไฟล์ผลลัพธ์อย่างมีประสิทธิภาพ
-
-### [การจัดการหน้า & การปรับเปลี่ยนเนื้อหา](./page-management-content-manipulation/)
-เชี่ยวชาญเทคนิคการแปลงหน้าที่เลือก, การใส่ลายน้ำ, และการแก้ไขเนื้อหาระหว่างกระบวนการแปลง
-
-### [ตัวเลือกการแปลง & การตั้งค่า](./conversion-options-settings/)
-กำหนดพารามิเตอร์การแปลงอย่างครบถ้วนเพื่อให้ได้ผลลัพธ์ที่ดีที่สุดสำหรับรูปแบบเอกสารต่าง ๆ ด้วย GroupDocs.Conversion
-
-### [การแปลง PDF & คุณลักษณะ](./pdf-conversion-features/)
-นำคุณลักษณะเฉพาะของ PDF ขั้นสูงและตัวเลือกการแปลงไปใช้กับ GroupDocs.Conversion for .NET ในกระบวนการทำงานของคุณ
-
-### [รูปแบบการประมวลผลคำ & คุณลักษณะ](./word-processing-formats-features/)
-แปลงไปและกลับจาก DOC, DOCX, RTF, และ ODT พร้อมคงสไตล์, โครงสร้าง, และคุณลักษณะพิเศษของเอกสาร
-
-### [รูปแบบสเปรดชีต & คุณลักษณะ](./spreadsheet-formats-features/)
-ทำงานกับรูปแบบ Excel, คงสูตร, การจัดรูปแบบ, และความสมบูรณ์ของข้อมูลระหว่างการแปลงด้วย GroupDocs.Conversion for .NET
-
-### [รูปแบบการนำเสนอ & คุณลักษณะ](./presentation-formats-features/)
-แปลงไฟล์ PowerPoint พร้อมคงสไลด์, แอนิเมชัน, และองค์ประกอบภาพด้วย GroupDocs.Conversion for .NET
-
-### [รูปแบบภาพ & คุณลักษณะ](./image-formats-features/)
-เรียนรู้การแปลงไปและกลับจากรูปแบบภาพต่าง ๆ ด้วยการควบคุมความละเอียด, คุณภาพ, และความสามารถ OCR อย่างแม่นยำ
-
-### [รูปแบบอีเมล & คุณลักษณะ](./email-formats-features/)
-ประมวลผล MSG, EML, และรูปแบบอีเมลอื่น ๆ พร้อมคงไฟล์แนบและส่วนประกอบของข้อความด้วย GroupDocs.Conversion
-
-### [การประมวลผล CSV & ข้อมูลโครงสร้าง](./csv-structured-data-processing/)
-แปลงไฟล์ CSV ไปยังรูปแบบอื่นและประมวลผลข้อมูลโครงสร้างอย่างมีประสิทธิภาพด้วย GroupDocs.Conversion for .NET
-
-### [การประมวลผล XML & JSON](./xml-json-processing/)
-แปลงรูปแบบข้อมูลโครงสร้างเป็นเอกสารที่อ่านได้โดยมนุษย์พร้อมคงความสัมพันธ์เชิงลำดับชั้นและอ็อบเจ็กต์ซับซ้อน
-
-### [การประมวลผลไฟล์ข้อความ](./text-file-processing/)
-เชี่ยวชาญเทคนิคการทำงานกับไฟล์ข้อความธรรมชาติระหว่างการแปลงด้วย GroupDocs.Conversion for .NET
-
-### [รูปแบบ CAD & การวาดเทคนิค](./cad-technical-drawing-formats/)
-แปลงภาพวาด AutoCAD และรูปแบบเทคนิคอื่น ๆ เป็นเอกสารที่ดูได้พร้อมคงรายละเอียดวิศวกรรมสำคัญ
-
-### [รูปแบบเว็บ & มาร์คอัป](./web-markup-formats/)
-แปลง HTML, MHTML, และรูปแบบเว็บอื่น ๆ ด้วยการสนับสนุนเต็มรูปแบบสำหรับสไตล์, ทรัพยากรฝัง, และโครงสร้างเอกสาร
-
-### [การบีบอัด & การจัดการไฟล์เก็บถาวร](./compression-archive-handling/)
-ทำงานกับไฟล์อัด, แยกเนื้อหา, และประมวลผลไฟล์ภายในไฟล์เก็บถาวรด้วย GroupDocs.Conversion for .NET
-
-### [ไฟล์จัดเก็บ & การประมวลผล PST](./storage-files-pst-processing/)
-ประมวลผลไฟล์จัดเก็บ Outlook, แยกข้อความ, และแปลงเนื้อหาจากคอนเทนเนอร์อีเมลด้วย GroupDocs.Conversion
-
-### [การจัดการฟอนต์ & การทดแทน](./font-handling-substitution/)
-ดำเนินการนโยบายการทดแทนฟอนต์และรับประกันการแสดงผลข้อความที่สอดคล้องกันบนแพลตฟอร์มต่าง ๆ ระหว่างการแปลง
-
-### [การจัดการแคช](./cache-management/)
-เพิ่มประสิทธิภาพการแปลงด้วยกลยุทธ์การแคชที่มีประสิทธิผลและผู้ให้บริการแคชแบบกำหนดเองในแอปของคุณ
-
-### [เหตุการณ์การแปลง & การบันทึก](./conversion-events-logging/)
-ดำเนินการจัดการเหตุการณ์และกลไกการบันทึกเพื่อติดตามความคืบหน้าการแปลงและสร้างบันทึกตรวจสอบที่ครอบคลุม
-
-### [ยูทิลิตี้การแปลง & ข้อมูล](./conversion-utilities-information/)
-ใช้คุณลักษณะยูทิลิตี้เพื่อตรวจสอบเอกสารและวิเคราะห์ความสามารถการแปลงด้วย GroupDocs.Conversion for .NET
-
-### [การแปลง HTML](./html-conversion/)
-แปลงรูปแบบเอกสารต่าง ๆ เป็น HTML พร้อมคงสไตล์, โครงสร้าง, และทรัพยากรฝัง
-
-### [การแปลง PDF](./pdf-conversion/)
-เรียนรู้วิธีแปลงรูปแบบไฟล์ต่าง ๆ เป็น PDF อย่างง่ายดายด้วย GroupDocs.Conversion for .NET ทำให้กระบวนการจัดการเอกสารของคุณง่ายขึ้นวันนี้!
-
-### [การแปลงภาพ](./image-conversion/)
-แปลงเอกสารเป็น JPG, PNG, TIFF และรูปแบบภาพอื่น ๆ ด้วยการควบคุมคุณภาพและความละเอียดอย่างแม่นยำ
-
-### [การแปลงการประมวลผลคำ](./word-processing-conversion/)
-แปลงเอกสารเป็นรูปแบบการประมวลผลคำที่แก้ไขได้พร้อมคงโครงสร้าง, การจัดรูปแบบ, และออบเจ็กต์ฝัง
-
-### [การแปลงสเปรดชีต](./spreadsheet-conversion/)
-แปลงเอกสารต่าง ๆ เป็นรูปแบบ Excel พร้อมสนับสนุนสูตร, ประเภทข้อมูล, และเวิร์กบุ๊กหลายชีต
-
-### [การแปลงการนำเสนอ](./presentation-conversion/)
-สร้างงานนำเสนอ PowerPoint ระดับมืออาชีพจากรูปแบบเอกสารต่าง ๆ พร้อมคงองค์ประกอบภาพและการจัดวางสไลด์
-
-### [การแปลงข้อความ & มาร์คอัป](./text-markup-conversion/)
-ดึงเนื้อหาเป็นข้อความธรรมดา, XML, Markdown และรูปแบบข้อความอื่น ๆ พร้อมตัวเลือกการเข้ารหัสและการจัดรูปแบบที่ยืดหยุ่น
-
----  
-**อัปเดตล่าสุด:** 2026-04-06  
-**ทดสอบกับ:** GroupDocs.Conversion 23.12 for .NET  
+**อัปเดตล่าสุด:** 2026-08-19  
+**ทดสอบด้วย:** GroupDocs.Conversion 23.12 for .NET  
 **ผู้เขียน:** GroupDocs

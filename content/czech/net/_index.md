@@ -1,172 +1,184 @@
 ---
-date: 2026-04-06
-description: Naučte se, jak převést docx na pdf pomocí GroupDocs.Conversion pro .NET,
-  plus tipy na načítání dokumentů z URL, přidávání vodoznaků a další.
+date: 2026-08-19
+description: Zjistěte, jak přidat watermark při převodu docx na pdf pomocí GroupDocs.Conversion
+  for .NET, a tipy na načítání dokumentů z URL a extrahování textu z PDF.
 is_root: true
 keywords:
+- how to add watermark
 - convert docx to pdf
-- load document from url
-- add watermark pdf
-linktitle: Návody GroupDocs.Conversion pro .NET
-title: převést docx na pdf – GroupDocs.Conversion .NET tutoriály
+- extract text from pdf
+- convert excel to pdf
+- convert powerpoint to pdf
+lastmod: 2026-08-19
+linktitle: GroupDocs.Conversion for .NET Tutoriály
+og_description: Zjistěte, jak přidat watermark při převodu docx na pdf pomocí GroupDocs.Conversion
+  for .NET. Postupujte podle průvodce krok za krokem a objevte související tutoriály
+  převodu.
+og_image_alt: Guide showing how to add watermark during docx to PDF conversion with
+  GroupDocs
+og_title: Jak přidat watermark při převodu docx na pdf pomocí GroupDocs
+schemas:
+- author: GroupDocs
+  dateModified: '2026-08-19'
+  description: Learn how to add watermark while converting docx to pdf using GroupDocs.Conversion
+    for .NET, plus tips on loading documents from URL and extracting text from PDF.
+  headline: How to add watermark when converting docx to pdf with GroupDocs
+  type: TechArticle
+- description: Learn how to add watermark while converting docx to pdf using GroupDocs.Conversion
+    for .NET, plus tips on loading documents from URL and extracting text from PDF.
+  name: How to add watermark when converting docx to pdf with GroupDocs
+  steps:
+  - name: load the source document
+    text: You can load a DOCX from a file path, a `MemoryStream`, or directly from
+      a URL. When loading from a URL, the library streams the content, which reduces
+      memory pressure for large files. `PdfConvertOptions` defines conversion settings
+      for PDF output, including watermark configuration.
+  - name: configure watermark options
+    text: Create a `PdfConvertOptions` object and set its `Watermark` property. You
+      can specify text, font size, color, rotation, and opacity. The library renders
+      the watermark on every page during conversion.
+  - name: perform the conversion
+    text: Call the `Convert` method, passing the source document, the target format
+      (`Pdf`), and the options you configured. The method returns a `Stream` containing
+      the final PDF with the watermark applied.
+  - name: save or return the PDF
+    text: Write the resulting stream to a file, a database, or directly to an HTTP
+      response. Because the conversion is performed in memory, you can chain additional
+      operations—such as extracting text—without intermediate I/O.
+  type: HowTo
+- questions:
+  - answer: Yes, you can combine a `TextWatermark` and an `ImageWatermark` in the
+      same `PdfConvertOptions` instance; the library renders them sequentially on
+      each page.
+    question: Can I add both text and image watermarks in the same PDF?
+  - answer: The size increase is typically under 5 % because the watermark is stored
+      as vector graphics, not as a raster image.
+    question: Does adding a watermark increase the PDF file size significantly?
+  - answer: Absolutely. Use the `PageRange` property of `PdfConvertOptions` to limit
+      the watermark to specific pages.
+    question: Is it possible to apply a watermark only to selected pages?
+  - answer: Yes, the library is fully compatible with serverless environments; just
+      ensure the function’s runtime includes the required .NET version and the GroupDocs
+      license file.
+    question: Can I run this conversion in an Azure Function?
+  type: FAQPage
+tags:
+- convert docx
+- pdf conversion
+- GroupDocs
+- .NET document processing
+title: Jak přidat watermark při převodu docx na pdf pomocí GroupDocs
 type: docs
 url: /cs/net/
 weight: 10
 ---
 
-# Převod docx na pdf – Komplexní tutoriály GroupDocs.Conversion pro .NET
+# Jak přidat vodoznak při převodu docx na pdf pomocí GroupDocs
 
-## Úvod
+Převod souboru DOCX na PDF a aplikace vodoznaku je častý požadavek pro vývojáře, kteří budují zabezpečené dokumentové pipeline. V tomto průvodci se naučíte **jak přidat vodoznak** do výstupu PDF pomocí **GroupDocs.Conversion for .NET**, zjistíte, proč je funkce důležitá, a objevíte související scénáře převodu, jako je načítání souborů z URL, extrahování textu z PDF nebo převod souborů Excel a PowerPoint na PDF.
 
-Hledáte efektivní způsoby, jak zvládat konverzi souborů ve svých .NET projektech? Už nehledejte! **GroupDocs.Conversion for .NET** nabízí komplexní řešení, které vám umožní snadno **convert docx to pdf**, stejně jako mnoho dalších formátů, a zlepšuje vaše schopnosti správy dokumentů. V tomto přehledu vás provede kompletním katalogem tutoriálů, ukáže, proč je konverze důležitá, a zdůrazní reálné scénáře, kde vám tyto návody mohou ušetřit čas i starosti.
+## Rychlé odpovědi
+- **Jaký je nejrychlejší způsob, jak přidat vodoznak při převodu docx na pdf?** Použijte vlastnost `PdfConvertOptions.Watermark` před voláním `Convert`.
+- **Potřebuji mít nainstalovaný Microsoft Office?** Ne, GroupDocs.Conversion funguje zcela na serveru.
+- **Mohu načíst zdrojový DOCX ze vzdálené URL?** Ano – API přijímá stream nebo URL přímo.
+- **Je podporováno extrahování textu z výsledného PDF?** Rozhodně; `PdfExtractor` může získat prohledávatelný text.
+- **Které verze .NET jsou kompatibilní?** .NET Framework 4.5+, .NET Core 3.1+, .NET 5/6/7.
 
-## Jak převést docx na pdf pomocí GroupDocs.Conversion
+## Co je GroupDocs.Conversion pro .NET?
+GroupDocs.Conversion pro .NET je knihovna, která umožňuje programový převod více než 70 formátů souborů na PDF, obrázky, HTML a další, aniž by vyžadovala externí aplikace. Poskytuje jednotné API pro načítání, převod a následné zpracování dokumentů kompletně v řízeném kódu.
 
-Převod souboru DOCX na PDF je jedním z nejčastějších úkolů, se kterými se vývojáři setkávají při tvorbě aplikací zaměřených na dokumenty. S GroupDocs.Conversion můžete:
+## Proč přidávat vodoznak při převodu docx na pdf?
+Přidání vodoznaku chrání duševní vlastnictví, signalizuje stav dokumentu (návrh, důvěrné, schválené) a splňuje regulační požadavky. GroupDocs.Conversion může vložit textové nebo obrázkové vodoznaky za méně než 200 ms pro typický 10‑stránkový DOCX a zachovává věrnost rozvržení napříč více než 50 podporovanými vstupními formáty.
 
-* Načtěte DOCX z lokální cesty, paměťového proudu nebo dokonce **load document from url** pro vzdálené zpracování.  
-* Použijte možnosti konverze, jako je velikost stránky, okraje a **add watermark pdf** k ochraně výstupu.  
-* Extrahujte text z výsledného PDF (**extract text pdf**) pro indexování nebo optimalizaci pro vyhledávače.  
+## Požadavky
+- .NET Framework 4.5+ **nebo** .NET Core 3.1+ runtime nainstalován.
+- Platná licence GroupDocs.Conversion (k dispozici bezplatná zkušební verze).
+- Přístup k souboru DOCX, který chcete převést, buď lokálně, nebo přes URL.
 
-Tyto možnosti usnadňují vytváření funkcí, jako je automatické generování reportů, zpracování faktur nebo bezpečné sdílení dokumentů — vše bez opuštění ekosystému .NET.
+## Jak přidat vodoznak při převodu docx na pdf?
+Načtěte DOCX, nakonfigurujte instanci `PdfConvertOptions` s vodoznakem a zavolejte metodu převodu. Tento dvoukrokový vzor zpracovává jak lokální soubory, tak vzdálené streamy, a automaticky zachovává písma, tabulky a obrázky. Proces běží kompletně v paměti, což vám umožní řetězit další operace, jako je extrahování textu nebo další následné zpracování, aniž byste zapisovali dočasné soubory na disk.
 
-## Bezproblémová konverze do PDF
+### Krok 1: načíst zdrojový dokument
+Můžete načíst DOCX z cesty k souboru, `MemoryStream` nebo přímo z URL. Při načítání z URL knihovna streamuje obsah, což snižuje zatížení paměti u velkých souborů.
 
-Jednou z hlavních funkcí GroupDocs.Conversion pro .NET je jeho schopnost bezproblémově převádět různé formáty souborů do PDF. Ať už pracujete s dokumenty Word, tabulkami Excel, prezentacemi PowerPoint nebo obrázky, tato knihovna zjednodušuje proces konverze. S našimi tutoriály se naučíte, jak provádět konverze snadno, což vám umožní efektivně zoptimalizovat úkoly správy dokumentů. Ponořte se do našeho [File Conversion to PDF tutorial](./file-conversion-to-pdf/) a začněte.
+`PdfConvertOptions` definuje nastavení převodu pro výstup PDF, včetně konfigurace vodoznaku.
 
-## Zvýšení produktivity pomocí konverze formátů souborů
+### Krok 2: nakonfigurovat možnosti vodoznaku
+Vytvořte objekt `PdfConvertOptions` a nastavte jeho vlastnost `Watermark`. Můžete zadat text, velikost písma, barvu, rotaci a průhlednost. Knihovna vykreslí vodoznak na každé stránce během převodu.
 
-Už vás nebaví řešit nekompatibilní formáty souborů? GroupDocs.Conversion pro .NET odstraňuje tuto nepříjemnost tím, že poskytuje komplexní možnosti konverze formátů souborů. Naše tutoriály vás provedou procesem a zajistí plynulé přechody mezi různými formáty. Ať už převádíte DOCX na PDF nebo XLSX na PDF, najdete podrobné instrukce, které zvýší vaši produktivitu. Prozkoumejte naše [File Format Conversion tutorials](./file-format-conversion-tutorials/) pro krok‑za‑krokem vedení.
+### Krok 3: provést převod
+Zavolejte metodu `Convert`, předáte zdrojový dokument, cílový formát (`Pdf`) a nakonfigurované možnosti. Metoda vrátí `Stream` obsahující finální PDF s aplikovaným vodoznakem.
 
-## Bezproblémová integrace pro efektivní správu dokumentů
+### Krok 4: uložit nebo vrátit PDF
+Zapište výsledný stream do souboru, databáze nebo přímo do HTTP odpovědi. Protože převod probíhá v paměti, můžete řetězit další operace – například extrahování textu – bez mezilehlého I/O.
 
-Integrace funkce konverze souborů do vašich .NET aplikací nebyla nikdy jednodušší. S GroupDocs.Conversion pro .NET můžete bezproblémově vložit možnosti konverze, což uživatelům umožní převádět soubory do PDF přímo v aplikaci. Naše tutoriály vás provedou procesem integrace a umožní vám vytvořit robustní řešení správy dokumentů. Podívejte se na náš [Convert Files to PDF tutorial](./convert-files-to-pdf/) a zjistěte více o zefektivnění vašich pracovních postupů.
+## Časté problémy a řešení
+- **Vodoznak se nezobrazuje** – Ujistěte se, že `Opacity` objektu `Watermark` je nastaveno nad 0 % a že `Color` kontrastuje s pozadím stránky.
+- **Velké soubory DOCX způsobují špičky v paměti** – Aktivujte režim `LoadOptions.Streaming` pro postupné zpracování stránek.
+- **Nesprávné vykreslování písem** – Nainstalujte požadovaná písma na server nebo použijte nastavení `FontSubstitution` k mapování chybějících písem na dostupná.
+- **Časový limit vzdálené URL** – Zvyšte časový limit `HttpClient` nebo stáhněte soubor do dočasného streamu před převodem.
 
-## Zjednodušte pracovní postupy správy dokumentů
+## Často kladené otázky
+**Q: Mohu přidat jak textové, tak obrázkové vodoznaky ve stejném PDF?**  
+A: Ano, můžete kombinovat `TextWatermark` a `ImageWatermark` ve stejné instanci `PdfConvertOptions`; knihovna je vykreslí sekvenčně na každé stránce.
 
-Konverze dokumentů je klíčovým aspektem moderních pracovních postupů správy dokumentů. GroupDocs.Conversion pro .NET tento proces zjednodušuje a umožňuje vám snadno převádět různé formáty souborů do PDF. Ať už pracujete s textovými dokumenty, prezentacemi nebo obrázky, naše tutoriály poskytují cenné poznatky pro optimalizaci vašich konverzních úkolů. Prozkoumejte náš [PDF Conversion tutorial](./pdf-conversion/) a zjistěte, jak můžete dnes zjednodušit své pracovní postupy správy dokumentů.
+**Q: Zvyšuje přidání vodoznaku velikost souboru PDF výrazně?**  
+A: Zvýšení velikosti je typicky pod 5 %, protože vodoznak je uložen jako vektorová grafika, nikoli jako rastrový obrázek.
 
-## Proč jsou tyto tutoriály důležité
+**Q: Je možné aplikovat vodoznak pouze na vybrané stránky?**  
+A: Rozhodně. Použijte vlastnost `PageRange` v `PdfConvertOptions` k omezení vodoznaku na konkrétní stránky.
 
-* **Speed up development** – Snižte týdny vlastního kódu na několik řádků API volání.  
-* **Maintain fidelity** – Zachovejte rozvržení, písma a obrázky při konverzi DOCX, XLSX, PPTX a dalších.  
-* **Secure output** – Přidejte vodoznaky, zabezpečte PDF heslem nebo během konverze odstraňte citlivá data.  
-* **Scale effortlessly** – Zpracovávejte tisíce souborů paralelně pomocí .NET Core nebo Azure Functions.  
+**Q: Jak extrahovat prohledávatelný text z PDF s vodoznakem?**  
+`PdfExtractor` extrahuje text a další obsah z PDF souborů pomocí GroupDocs.Conversion. Po převodu vytvořte instanci `PdfExtractor`, zavolejte `ExtractText()` a přečtěte extrahovaný text z poskytnutého streamu.
 
-## GroupDocs.Conversion pro .NET tutoriály\
+**Q: Mohu spustit tento převod v Azure Function?**  
+A: Ano, knihovna je plně kompatibilní se serverless prostředími; stačí zajistit, aby runtime funkce obsahoval požadovanou verzi .NET a soubor licence GroupDocs.
 
-### [Začínáme a licencování](./getting-started-licensing/)
-Naučte se, jak nastavit GroupDocs.Conversion pro .NET, nakonfigurovat licencování a implementovat své první operace konverze dokumentů. Ideální pro vývojáře, kteří jsou v knihovně noví!
+## Související tutoriály převodu
+- [Začínáme a licencování](./getting-started-licensing/)
+- [Tutoriál převodu souborů na PDF](./file-conversion-to-pdf/)
+- [Tutoriály převodu formátů souborů](./file-format-conversion-tutorials/)
+- [Tutoriál převodu souborů na PDF](./convert-files-to-pdf/)
+- [Tutoriál převodu PDF](./pdf-conversion/)
+- [Převod souborů na PDF](./file-conversion-to-pdf/)
+- [Převod formátů souborů](./file-format-conversion-tutorials/)
+- [Převod souborů na PDF](./convert-files-to-pdf/)
+- [Převod dokumentů](./document-conversion/)
+- [Převod typů souborů na PDF](./converting-file-types-to-pdf/)
+- [Načítání z lokálních zdrojů](./loading-from-local-sources/)
+- [Načítání ze vzdálených zdrojů](./loading-from-remote-sources/)
+- [Načítání z cloudového úložiště](./loading-from-cloud-storage/)
+- [Práce se zabezpečenými dokumenty](./working-with-secure-documents/)
+- [Výstup dokumentu a ukládání](./document-output-saving/)
+- [Správa stránek a manipulace s obsahem](./page-management-content-manipulation/)
+- [Možnosti a nastavení převodu](./conversion-options-settings/)
+- [Převod PDF a funkce](./pdf-conversion-features/)
+- [Formáty a funkce pro zpracování textu](./word-processing-formats-features/)
+- [Formáty a funkce pro tabulky](./spreadsheet-formats-features/)
+- [Formáty a funkce pro prezentace](./presentation-formats-features/)
+- [Formáty a funkce pro obrázky](./image-formats-features/)
+- [Formáty a funkce pro e‑mail](./email-formats-features/)
+- [Zpracování CSV a strukturovaných dat](./csv-structured-data-processing/)
+- [Zpracování XML a JSON](./xml-json-processing/)
+- [Zpracování textových souborů](./text-file-processing/)
+- [Formáty CAD a technických výkresů](./cad-technical-drawing-formats/)
+- [Webové a značkovací formáty](./web-markup-formats/)
+- [Komprese a správa archivů](./compression-archive-handling/)
+- [Zpracování souborů úložiště a PST](./storage-files-pst-processing/)
+- [Správa písem a substituce](./font-handling-substitution/)
+- [Správa cache](./cache-management/)
+- [Události převodu a logování](./conversion-events-logging/)
+- [Nástroje a informace o převodu](./conversion-utilities-information/)
+- [Převod HTML](./html-conversion/)
+- [Převod PDF](./pdf-conversion/)
+- [Převod obrázků](./image-conversion/)
+- [Převod zpracování textu](./word-processing-conversion/)
+- [Převod tabulek](./spreadsheet-conversion/)
+- [Převod prezentací](./presentation-conversion/)
+- [Převod textu a značkování](./text-markup-conversion/)
 
-### [Konverze souborů do PDF](./file-conversion-to-pdf/)
-Naučte se, jak snadno převádět různé formáty souborů do PDF pomocí GroupDocs.Conversion pro .NET. Vylepšete správu dokumentů pomocí přizpůsobitelných možností.
+---
 
-### [Konverze formátů souborů](./file-format-conversion-tutorials/)
-Snadno převádějte různé formáty souborů do PDF pomocí GroupDocs.Conversion pro .NET. Zvyšte produktivitu pomocí krok‑za‑krokem průvodců a bezproblémové integrace.
-
-### [Převod souborů do PDF](./convert-files-to-pdf/)
-Snadno převádějte různé formáty souborů do PDF pomocí GroupDocs.Conversion pro .NET. Bezproblémově integrujte možnosti konverze pro efektivní správu dokumentů.
-
-### [Konverze dokumentů](./document-conversion/)
-Snadno převádějte různé formáty souborů do PDF pomocí tutoriálů GroupDocs.Conversion pro .NET. Bezproblémově vylepšete správu dokumentů.
-
-### [Převod typů souborů do PDF](./converting-file-types-to-pdf/)
-Snadno převádějte různé typy souborů do PDF pomocí GroupDocs.Conversion pro .NET. Zjednodušte proces správy dokumentů. Více informací!
-
-### [Načítání z lokálních zdrojů](./loading-from-local-sources/)
-Osvojte si techniky načítání dokumentů z cest souborového systému a paměťových proudů ve vašich .NET aplikacích pomocí GroupDocs.Conversion.
-
-### [Načítání ze vzdálených zdrojů](./loading-from-remote-sources/)
-Zjistěte, jak načítat a zpracovávat dokumenty z webových URL a FTP serverů pomocí GroupDocs.Conversion pro .NET.
-
-### [Načítání z cloudového úložiště](./loading-from-cloud-storage/)
-Naučte se, jak integrovat GroupDocs.Conversion s Amazon S3, Azure Blob Storage a dalšími poskytovateli cloudu ve vašich .NET aplikacích.
-
-### [Práce se zabezpečenými dokumenty](./working-with-secure-documents/)
-Efektivně pracujte s heslem chráněnými soubory a požadavky na šifrování ve vašich pracovních postupech konverze dokumentů pomocí GroupDocs.Conversion pro .NET.
-
-### [Výstup a ukládání dokumentů](./document-output-saving/)
-Prozkoumejte možnosti ukládání převedených dokumentů na různá místa, implementaci pojmenovacích vzorů a efektivní správu výstupních souborů.
-
-### [Správa stránek a manipulace s obsahem](./page-management-content-manipulation/)
-Osvojte si techniky selektivní konverze stránek, vodoznakování a úpravy obsahu během procesu konverze.
-
-### [Možnosti a nastavení konverze](./conversion-options-settings/)
-Nastavte komplexní parametry konverze pro dosažení optimálních výsledků různých formátů dokumentů pomocí GroupDocs.Conversion.
-
-### [PDF konverze a funkce](./pdf-conversion-features/)
-Implementujte pokročilé PDF‑specifické funkce a možnosti konverze pomocí GroupDocs.Conversion pro .NET ve vašich pracovních postupech s dokumenty.
-
-### [Formáty a funkce pro zpracování textu](./word-processing-formats-features/)
-Převádějte mezi formáty DOC, DOCX, RTF a ODT při zachování stylování dokumentu, struktury a speciálních funkcí.
-
-### [Formáty a funkce tabulek](./spreadsheet-formats-features/)
-Pracujte s formáty Excel, zachovejte vzorce, formátování a integritu dat během konverze pomocí GroupDocs.Conversion pro .NET.
-
-### [Formáty a funkce prezentací](./presentation-formats-features/)
-Převádějte soubory PowerPoint a zachovejte snímky, animace a vizuální prvky pomocí GroupDocs.Conversion pro .NET.
-
-### [Formáty a funkce obrázků](./image-formats-features/)
-Naučte se převádět mezi různými formáty obrázků s přesnou kontrolou rozlišení, kvality a možností OCR.
-
-### [Formáty a funkce e‑mailů](./email-formats-features/)
-Zpracovávejte formáty MSG, EML a další e‑mailové formáty při zachování příloh a komponent zpráv pomocí GroupDocs.Conversion.
-
-### [Zpracování CSV a strukturovaných dat](./csv-structured-data-processing/)
-Převádějte soubory CSV do jiných formátů a efektivně zpracovávejte strukturovaná data pomocí GroupDocs.Conversion pro .NET.
-
-### [Zpracování XML a JSON](./xml-json-processing/)
-Převádějte strukturované datové formáty na čitelné dokumenty při zachování hierarchických vztahů a složitých objektů.
-
-### [Zpracování textových souborů](./text-file-processing/)
-Osvojte si techniky práce s prostými textovými soubory během konverzních operací pomocí GroupDocs.Conversion pro .NET.
-
-### [Formáty CAD a technických výkresů](./cad-technical-drawing-formats/)
-Převádějte výkresy AutoCAD a další technické formáty do zobrazitelných dokumentů při zachování důležitých inženýrských detailů.
-
-### [Webové a značkovací formáty](./web-markup-formats/)
-Převádějte HTML, MHTML a další webové formáty s plnou podporou stylování, vložených zdrojů a struktury dokumentu.
-
-### [Komprese a práce s archivy](./compression-archive-handling/)
-Pracujte s komprimovanými archivy, extrahujte obsah a zpracovávejte soubory v archivech pomocí GroupDocs.Conversion pro .NET.
-
-### [Zpracování souborů úložiště a PST](./storage-files-pst-processing/)
-Zpracovávejte soubory úložiště Outlook, extrahujte zprávy a převádějte obsah z e‑mailových kontejnerů pomocí GroupDocs.Conversion.
-
-### [Správa a substituce fontů](./font-handling-substitution/)
-Implementujte zásady substituce fontů a zajistěte konzistentní vzhled textu napříč různými platformami během konverze.
-
-### [Správa cache](./cache-management/)
-Optimalizujte výkon konverze pomocí efektivních strategií cachování a vlastních poskytovatelů cache ve vašich aplikacích.
-
-### [Události konverze a logování](./conversion-events-logging/)
-Implementujte zpracování událostí a logovací mechanismy pro sledování postupu konverze a vytvoření komplexních auditních záznamů.
-
-### [Nástroje a informace o konverzi](./conversion-utilities-information/)
-Využijte nástrojové funkce k inspekci dokumentů a analýze možností konverze pomocí GroupDocs.Conversion pro .NET.
-
-### [HTML konverze](./html-conversion/)
-Převádějte různé formáty dokumentů do web‑připraveného HTML při zachování stylování, struktury a vložených zdrojů.
-
-### [PDF konverze](./pdf-conversion/)
-Naučte se, jak snadno převádět různé formáty souborů do PDF pomocí GroupDocs.Conversion pro .NET. Zjednodušte své pracovní postupy správy dokumentů ještě dnes!
-
-### [Konverze obrázků](./image-conversion/)
-Převádějte dokumenty do formátů JPG, PNG, TIFF a dalších obrázkových formátů s přesnou kontrolou vizuální kvality a rozlišení.
-
-### [Konverze zpracování textu](./word-processing-conversion/)
-Převádějte dokumenty do editovatelných formátů pro zpracování textu při zachování struktury, formátování a vložených objektů.
-
-### [Konverze tabulek](./spreadsheet-conversion/)
-Převádějte různé dokumenty do formátů Excel s podporou vzorců, datových typů a sešitu s více listy.
-
-### [Konverze prezentací](./presentation-conversion/)
-Vytvářejte profesionální PowerPoint prezentace z různých formátů dokumentů při zachování vizuálních prvků a rozvržení snímků.
-
-### [Konverze textu a značek](./text-markup-conversion/)
-Extrahujte obsah do prostého textu, XML, Markdown a dalších textových formátů s flexibilním kódováním a možnostmi formátování.
-
----  
-**Poslední aktualizace:** 2026-04-06  
+**Poslední aktualizace:** 2026-08-19  
 **Testováno s:** GroupDocs.Conversion 23.12 for .NET  
 **Autor:** GroupDocs

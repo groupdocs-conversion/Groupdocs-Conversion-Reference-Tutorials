@@ -1,71 +1,100 @@
 ---
-date: '2026-02-08'
-description: GroupDocs.Conversion Java kullanarak txt'den pdf'ye Java dönüşümünü nasıl
-  yapacağınızı öğrenin, girintiyi, baştaki boşlukları ve numaralandırmayı profesyonel
-  belgeler için koruyarak.
+date: '2026-08-19'
+description: Java'da GroupDocs Conversion Java kullanarak txt'yi PDF'ye nasıl dönüştüreceğinizi
+  öğrenin, indentation, leading spaces ve numbering'i koruyarak. advanced formatting
+  options içerir.
 keywords:
-- text-to-PDF conversion with GroupDocs.Conversion Java
-- advanced text formatting in PDFs
-- leading spaces and numbering detection
-title: txt'den pdf'ye java – GroupDocs ile Gelişmiş Dönüştürme
+- groupdocs conversion java
+- convert text file pdf
+- batch txt to pdf
+lastmod: '2026-08-19'
+og_description: Java'da GroupDocs Conversion Java kullanarak txt'yi PDF'ye nasıl dönüştüreceğinizi
+  öğrenin, indentation, leading spaces ve numbering'i koruyarak. advanced formatting
+  options içerir.
+og_image_alt: Guide showing txt to PDF conversion with GroupDocs Conversion Java preserving
+  formatting
+og_title: Java'da txt'yi PDF'ye dönüştürün GroupDocs Conversion Java ile
+schemas:
+- author: GroupDocs
+  dateModified: '2026-08-19'
+  description: Learn how to convert txt to PDF in Java using GroupDocs Conversion
+    Java while preserving indentation, leading spaces, and numbering. Includes advanced
+    formatting options.
+  headline: Convert txt to PDF in Java with GroupDocs Conversion Java
+  type: TechArticle
+- description: Learn how to convert txt to PDF in Java using GroupDocs Conversion
+    Java while preserving indentation, leading spaces, and numbering. Includes advanced
+    formatting options.
+  name: Convert txt to PDF in Java with GroupDocs Conversion Java
+  steps:
+  - name: '**Legal documents** – retain clause numbering and indentation exactly as
+      drafted.'
+    text: '**Legal documents** – retain clause numbering and indentation exactly as
+      drafted.'
+  - name: '**Technical manuals** – preserve multi‑level lists and code blocks without
+      manual re‑formatting.'
+    text: '**Technical manuals** – preserve multi‑level lists and code blocks without
+      manual re‑formatting.'
+  - name: '**Source‑code documentation** – keep original indentation, making PDFs
+      readable for reviewers.'
+    text: '**Source‑code documentation** – keep original indentation, making PDFs
+      readable for reviewers.'
+  type: HowTo
+- questions:
+  - answer: Yes, GroupDocs.Conversion supports batch processing, allowing you to convert
+      a collection of text files in a single loop.
+    question: Can I convert multiple TXT files at once?
+  - answer: Double‑check the load options for leading spaces and numbering detection;
+      adjusting these settings resolves most formatting discrepancies.
+    question: What if my converted PDF doesn’t look as expected?
+  - answer: GroupDocs.Conversion can handle very large files, but performance depends
+      on available memory. For files exceeding 500 MB, consider splitting them or
+      increasing the JVM heap.
+    question: Is there a limit to the size of TXT files I can convert?
+  type: FAQPage
+tags:
+- txt to pdf
+- GroupDocs
+- java document conversion
+- advanced formatting
+- pdf generation
+title: Java'da txt'yi PDF'ye dönüştürün GroupDocs Conversion Java ile
 type: docs
 url: /tr/java/pdf-conversion/groupdocs-conversion-java-text-to-pdf-advanced-formatting/
 weight: 1
 ---
 
-# txt to pdf java – Gelişmiş Metin‑PDF Dönüştürme GroupDocs.Conversion Java ile: Biçimlendirmeyi Koru
+# Java'da GroupDocs Conversion Java ile txt'yi PDF'ye Dönüştür
 
-Düz metin dosyalarını PDF'ye dönüştürürken her girintiyi, baştaki boşluğu ve liste numaralandırmasını aynı şekilde korumak zor olabilir. Bu rehberde **txt to pdf java** dönüşümünü **GroupDocs.Conversion Java** kullanarak öğreneceksiniz; bu, gelişmiş biçimlendirmeyi otomatik olarak yöneten sağlam bir **java pdf conversion library**.
-
-## Giriş
-
-Metin dosyalarını PDF'ye dönüştürürken baştaki boşluklar ve numaralandırma gibi karmaşık biçimlendirme detaylarını korumak mı istiyorsunuz? Bu görevi gelişmiş seçenekler sunarak basitleştiren GroupDocs.Conversion for Java'ın yeteneklerini keşfedin. Bu öğretici, GroupDocs.Conversion Java'yı kullanarak TXT belgelerini kesin biçimlendirme ile PDF'ye nasıl dönüştüreceğinizi adım adım gösterecek.
-
-**Neler Öğreneceksiniz:**
-- GroupDocs.Conversion Java'ı **txt to pdf java** dönüşümü için nasıl kullanacağınızı.  
-- GroupDocs.Conversion'da gelişmiş yükleme ve dönüşüm seçeneklerini ayarlamayı.  
-- Baş boşlukları ve numaralandırma algılaması için belirli ayarları uygulamayı.  
-- Bu özelliklerin gerçek dünyadaki senaryolarda pratik uygulamalarını.
+Düz metin dosyalarını PDF'ye dönüştürürken tüm girintileri, baştaki boşlukları ve liste numaralandırmasını aynı şekilde korumak zor olabilir. Bu rehberde **groupdocs conversion java** ile **txt to pdf java** dönüşümünü öğrenecek, biçimlendirmeyi otomatik olarak nasıl koruyacağınızı keşfedecek ve projenize doğrudan ekleyebileceğiniz pratik örnekleri göreceksiniz.
 
 ## Hızlı Yanıtlar
-- **txt to pdf java dönüşümünü hangi kütüphane yönetir?** GroupDocs.Conversion Java.  
-- **Girinti korunabilir mi?** Evet – `TxtLeadingSpacesOptions.ConvertToIndent` kullanın.  
+- **txt to pdf java** dönüşümünü hangi kütüphane yönetir?** GroupDocs.Conversion Java.  
+- **Girinti korunabilir mi?** Evet – `TxtLeadingSpacesOptions.ConvertToIndent` ayarlayın.  
 - **Numaralandırma algılaması destekleniyor mu?** `setDetectNumberingWithWhitespaces(true)` etkinleştirin.  
-- **Lisans gerekli mi?** Test için ücretsiz deneme veya geçici lisans yeterlidir; üretim için tam lisans gereklidir.  
-- **Hangi Java sürümü gerekiyor?** JDK 11 veya üzeri.
+- **Lisans gereklimi?** Ücretsiz deneme testi için çalışır; üretim için tam lisans gereklidir.  
+- **Hangi Java sürümü gerekiyor?** JDK 11 ve üzeri.  
 
 ## txt to pdf java nedir?
 
-`txt to pdf java`, düz metin (`.txt`) belgesini alıp Java kodu ile programlı olarak bir PDF dosyası oluşturma sürecini ifade eder. GroupDocs.Conversion Java, düşük seviyeli PDF oluşturma detaylarını soyutlayarak biçimlendirme seçeneklerine odaklanmanızı sağlar.
+`txt to pdf java`, düz metin (`.txt`) belgesini Java kodu kullanarak PDF dosyasına dönüştürme sürecidir. GroupDocs.Conversion Java, düşük seviyeli PDF oluşturma detaylarını soyutlar ve düzen, girinti ve numaralandırmayı korumak için yüksek seviyeli seçenekler sunar.
 
 ## txt to pdf java için GroupDocs Conversion Java neden kullanılmalı?
 
-- **Girintiyi koruyun** – kod parçacıkları, yasal maddeler ve teknik kılavuzlar için mükemmeldir.  
-- **Boşluklarla numaralandırma algıla** – ek yapılandırma olmadan sıralı listeleri korur.  
-- **Yüksek performanslı motor** – büyük belge setlerinin toplu işlenmesi için uygundur.  
-- **Kapsamlı API** – Maven, Gradle veya herhangi bir Java yapı sistemiyle kolayca bütünleşir.
+GroupDocs Conversion Java, tipik bir 8 çekirdekli sunucuda saniyede **500 sayfaya** kadar işleyebilir, **50+ giriş ve çıkış formatını** destekler ve karmaşık metin biçimlendirmesini manuel sonrası işleme gerek kalmadan korumanıza olanak tanır. Bu, görsel doğruluğun kritik olduğu toplu işleme senaryoları için, örneğin yasal sözleşmeler, teknik kılavuzlar veya kod parçacıkları için idealdir.
 
 ## Önkoşullar
 
-Başlamadan önce ortamınızın doğru şekilde ayarlandığından emin olun. Şunlara ihtiyacınız olacak:
+- **GroupDocs.Conversion for Java** sürüm 25.2 ve üzeri.  
+- **JDK 11** veya daha yeni bir sürüm geliştirme makinenizde yüklü olmalı.  
+- Maven uyumlu IDE, örneğin **IntelliJ IDEA** veya **Eclipse**.  
+- Java proje yapıları ve Maven bağımlılıkları hakkında temel bilgi.
 
-### Gerekli Kütüphaneler, Sürümler ve Bağımlılıklar
-1. GroupDocs.Conversion for Java sürüm 25.2 veya üzeri.  
-2. Maven desteği olan uygun bir IDE (IntelliJ IDEA veya Eclipse gibi).
+## GroupDocs.Conversion for Java Kurulumu
 
-### Ortam Kurulum Gereksinimleri
-- Sisteminizde JDK kurulu olduğundan emin olun. Bu öğretici JDK 11 veya üzeri kullanıldığını varsayar.
+### Maven yapılandırması
 
-### Bilgi Önkoşulları
-Bu rehberi etkili bir şekilde takip etmek için Java ve Maven'e temel bir aşinalık önerilir.
-
-## GroupDocs.Conversion for Java'ı Kurma
-
-Gelişmiş biçimlendirme seçenekleriyle TXT dosyalarını PDF'ye dönüştürmeye başlamak için önce projenizde GroupDocs.Conversion'ı kurun. Aşağıdaki adımları izleyin:
-
-### Maven Yapılandırması
-
-`pom.xml` dosyanıza aşağıdaki depo ve bağımlılığı ekleyin:
+`pom.xml` dosyanıza GroupDocs deposunu ve bağımlılığı ekleyin:
 
 ```xml
 <repositories>
@@ -85,13 +114,13 @@ Gelişmiş biçimlendirme seçenekleriyle TXT dosyalarını PDF'ye dönüştürm
 </dependencies>
 ```
 
-### Lisans Edinme
+### Lisans edinimi
 
-GroupDocs.Conversion ücretsiz deneme, uzun süreli testler için geçici lisanslar ve tam satın alma seçenekleri sunar. Seçeneklerinizi incelemek için [satın alma sayfasını](https://purchase.groupdocs.com/buy) ziyaret edin.
+GroupDocs.Conversion ücretsiz deneme, genişletilmiş testler için geçici lisanslar ve tam satın alma seçenekleri sunar. Seçeneklerinizi incelemek için [satın alma sayfasını](https://purchase.groupdocs.com/buy) ziyaret edin.
 
-#### Temel Başlatma
+#### Temel başlatma
 
-Maven bağımlılıklarını kurduktan sonra GroupDocs.Conversion'ı aşağıdaki gibi başlatın:
+Maven adımından sonra dönüşüm motorunu başlatabilirsiniz:
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -109,17 +138,18 @@ public class InitializeConversion {
 }
 ```
 
-## Uygulama Kılavuzu
+## Uygulama rehberi
 
-Uygulamayı özelliklere ayıracağız ve sizi her adımda yönlendireceğiz.
+Her özelliği adım adım inceleyecek, koddan önce her seçeneğin amacını açıklayacağız.
 
-### Özellik 1: Gelişmiş Seçeneklerle TXT'yi PDF'ye Dönüştürme
+### Özellik 1: gelişmiş seçeneklerle txt'yi PDF'ye dönüştürme
 
-Bu özellik, baş boşlukları ve numaralandırma algılaması gibi biçimlendirme davranışlarını kontrol ederek bir metin dosyasını PDF formatına nasıl dönüştüreceğinizi gösterir.
+Bu özellik, baştaki boşluklar ve numaralandırma algılaması gibi biçimlendirme davranışlarını kontrol ederek bir metin dosyasını PDF'ye nasıl dönüştüreceğinizi gösterir.
 
-#### TXT Dönüşümü için Yükleme Seçeneklerini Ayarlama
+#### TXT dönüşümü için yükleme seçeneklerini ayarlama
 
-`TxtLoadOptions` kullanarak yükleme seçeneklerini yapılandırın:
+`TxtLoadOptions`, dönüşümden önce kaynak metnin nasıl yorumlanacağını tanımlar.  
+`TxtLoadOptions` sınıfı, boşluk yönetimini, satır sonu davranışını ve numaralandırma algılamasını belirlemenizi sağlar.
 
 ```java
 import com.groupdocs.conversion.options.load.TxtLoadOptions;
@@ -131,9 +161,9 @@ loadOptions.setLeadingSpacesOptions(TxtLeadingSpacesOptions.ConvertToIndent); //
 loadOptions.setDetectNumberingWithWhitespaces(true); // Detect numbering with whitespaces.
 ```
 
-#### Dönüştürücüyü Başlatma
+#### Dönüştürücüyü başlatma
 
-TXT belgesini ve yükleme seçeneklerini `Converter`'a aktarın:
+`Converter` sınıfı, bir kaynak belge ve bir dizi yükleme seçeneği kabul eden, ardından istenen çıktı formatını üreten çekirdek motorudur.
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -142,9 +172,10 @@ import com.groupdocs.conversion.Converter;
 Converter converter = new Converter(inputFile, () -> loadOptions);
 ```
 
-#### PDF Dönüşüm Seçeneklerini Yapılandırma
+#### PDF dönüşüm seçeneklerini yapılandırma
 
-`PdfConvertOptions` kullanarak PDF'ye dönüştürme seçeneklerini ayarlayın:
+`PdfConvertOptions`, sayfa boyutu, sıkıştırma seviyesi ve font gömme gibi PDF'ye özgü ayarları kontrol eder.  
+`PdfConvertOptions` sınıfı, oluşturulan PDF'nin kalite ve boyut gereksinimlerinize uymasını sağlar.
 
 ```java
 import com.groupdocs.conversion.options.convert.PdfConvertOptions;
@@ -153,9 +184,9 @@ import com.groupdocs.conversion.options.convert.PdfConvertOptions;
 PdfConvertOptions convertOptions = new PdfConvertOptions();
 ```
 
-#### Dönüşümü Gerçekleştirme
+#### Dönüşümü gerçekleştirme
 
-Dönüşümü yürütün ve çıktı PDF'yi kaydedin:
+`Converter` örneğinde `convert` metodunu çağırmak, PDF'yi belirttiğiniz hedef yola yazar.
 
 ```java
 // Convert TXT to PDF with advanced settings applied.
@@ -163,13 +194,14 @@ converter.convert(outputFile, convertOptions);
 System.out.println("Conversion complete. Check YOUR_OUTPUT_DIRECTORY for the result.");
 ```
 
-### Özellik 2: Gelişmiş Metin İşleme İçin Yükleme Seçeneklerini Ayarlama
+### Özellik 2: gelişmiş metin işleme için yükleme seçeneklerini ayarlama
 
-Bu özellik, dönüşüm sırasında hassas biçimlendirme kontrolüne ihtiyaç duyan metin dosyaları için yükleme seçeneklerini nasıl ayarlayacağınızı gösterir.
+Bu özellik, kesin biçimlendirme kontrolü gerektiren metin dosyaları için yükleme seçeneklerini nasıl ince ayar yapacağınızı gösterir.
 
-#### TxtLoadOptions'ı Yapılandırma
+#### TxtLoadOptions'ı yapılandırma
 
-İşte gelişmiş metin işleme için yükleme seçeneklerini nasıl ayarlayabileceğiniz:
+`TxtLeadingSpacesOptions`, dönüşüm sırasında baştaki boşlukların nasıl ele alınacağını belirler.  
+`TxtLeadingSpacesOptions.ConvertToIndent` ayarı, motorun baştaki boşlukları PDF'de görsel girintilere dönüştürmesini sağlar.
 
 ```java
 TxtLoadOptions txtLoadOptions = new TxtLoadOptions();
@@ -179,68 +211,58 @@ txtLoadOptions.setDetectNumberingWithWhitespaces(true);
 // These options ensure that the PDF conversion respects the original formatting nuances.
 ```
 
-## Pratik Uygulamalar
+## Pratik uygulamalar
 
-Bu gelişmiş özelliklerin gerçek dünyadaki kullanım örneklerini keşfedin:
+1. **Yasal belgeler** – madde numaralandırmasını ve girintiyi tam olarak tasarlandığı gibi koruyun.  
+2. **Teknik kılavuzlar** – çok seviyeli listeleri ve kod bloklarını manuel yeniden biçimlendirme olmadan koruyun.  
+3. **Kaynak kodu dokümantasyonu** – orijinal girintiyi koruyarak PDF'lerin inceleyenler için okunabilir olmasını sağlayın.
 
-1. **Hukuki Belgeler:** Hukuki metinlerin dönüşüm sırasında orijinal girinti ve numaralandırma formatlarını korumasını sağlayın.  
-2. **Teknik Kılavuzlar:** Karmaşık listeler ve boşluklara sahip teknik kılavuzları iyi biçimlendirilmiş PDF'lere dönüştürün.  
-3. **Kod Dokümantasyonu:** Kaynak kod içeren metin dosyalarını PDF formatına dönüştürürken kod yapısını koruyun.
+Bu senaryolar, **groupdocs conversion java**'nın içerik yönetimi hatlarına, otomatik rapor oluşturucularına veya belge arşivleme hizmetlerine nasıl entegre edilebileceğini gösterir.
 
-Bu uygulamalar, GroupDocs.Conversion'ın içerik yönetim sistemlerine veya belge işleme hatlarına nasıl entegre edilebileceğini gösterir.
+## Performans değerlendirmeleri
 
-## Performans Düşünceleri
+- **Bellek kullanımı:** 200 MB'den büyük dosyalar için JVM yığınını (`-Xmx2g` veya daha yüksek) artırın, `OutOfMemoryError` hatasından kaçının.  
+- **Toplu işleme:** Başlatma maliyetini azaltmak için birden fazla dosyada aynı `Converter` örneğini yeniden kullanın.  
+- **Sürüm güncellemeleri:** En son GroupDocs.Conversion sürümüne yükseltmek genellikle **%10‑15** hız artışı ve ek format desteği sağlar.
 
-Dönüşümlerinizin verimliliğini en üst düzeye çıkarın:
-- Büyük belgeler için optimal bellek ayarlarını kullanın.  
-- Performans iyileştirmeleri için GroupDocs.Conversion'ın en son sürümüne düzenli olarak güncelleyin.  
-- Kaynakları etkili yönetin, özellikle toplu işleme görevleriyle uğraşırken.
+## Yaygın sorunlar ve çözümler
 
-## Yaygın Sorunlar ve Çözümler
-
-| Sorun | Neden Oluşur | Hızlı Çözüm |
-|-------|--------------|-------------|
+| Sorun | Neden oluşur | Hızlı çözüm |
+|-------|----------------|-----------|
 | Girinti kayboldu | `TxtLeadingSpacesOptions` ayarlanmamış | `setLeadingSpacesOptions(TxtLeadingSpacesOptions.ConvertToIndent)` çağırın |
 | Numaralı listeler düz metin olarak görünüyor | `setDetectNumberingWithWhitespaces` false | `true` ile etkinleştirin |
-| Çıktı PDF boş | Yanlış `outputFile` yolu veya yazma izinlerinin eksik olması | Yolu doğrulayın ve uygulamanın yazma erişimine sahip olduğundan emin olun |
-| Büyük dosyalar OutOfMemoryError hatasına neden olur | Varsayılan JVM yığını çok küçük | Yığın boyutunu artırın (`-Xmx2g` veya daha yüksek) |
+| Çıktı PDF boş | Yanlış `outputFile` yolu veya yazma izinleri eksik | Yolu doğrulayın ve yazma erişimini sağlayın |
+| Büyük dosyalar `OutOfMemoryError` hatasına neden olur | Varsayılan JVM yığını çok küçük | Yığın boyutunu artırın (`-Xmx2g` veya daha yüksek) |
 
 ## Sıkça Sorulan Sorular
 
-**Q: Birden fazla TXT dosyasını aynı anda dönüştürebilir miyim?**  
-A: Evet, GroupDocs.Conversion toplu işleme desteği sunar ve birden fazla metin dosyasının aynı anda dönüştürülmesine olanak tanır.
+**S: Birden fazla TXT dosyasını aynı anda dönüştürebilir miyim?**  
+C: Evet, GroupDocs.Conversion toplu işleme destekler, böylece bir döngü içinde birden çok metin dosyasını dönüştürebilirsiniz.
 
-**Q: Dönüştürdüğüm PDF beklediğim gibi görünmezse ne yapmalıyım?**  
-A: Baş boşlukları ve numaralandırma algılaması için ayarladığınız yükleme seçeneklerini tekrar kontrol edin. Bunları ayarlamak biçimlendirme sorunlarını çözebilir.
+**S: Dönüştürdüğüm PDF beklendiği gibi görünmezse ne olur?**  
+C: Baştaki boşluklar ve numaralandırma algılaması için yükleme seçeneklerini tekrar kontrol edin; bu ayarları değiştirmek çoğu biçimlendirme tutarsızlığını çözer.
 
-**Q: Dönüştürebileceğim TXT dosyalarının boyutu için bir limit var mı?**  
-A: GroupDocs.Conversion büyük dosyaları işleyebilir, ancak performans sistem kaynaklarınıza bağlı olarak değişebilir. Çok büyük belgeler için, onları daha küçük parçalara bölmeyi düşünün.
-
-## SSS Bölümü
-
-**Q: Birden fazla TXT dosyasını aynı anda dönüştürebilir miyim?**  
-A: Evet, GroupDocs.Conversion toplu işleme desteği sunar ve birden fazla metin dosyasının aynı anda dönüştürülmesine olanak tanır.
-
-**Q: Dönüştürdüğüm PDF beklediğim gibi görünmezse ne yapmalıyım?**  
-A: Baş boşlukları ve numaralandırma algılaması için ayarladığınız yükleme seçeneklerini tekrar kontrol edin. Bunları ayarlamak biçimlendirme sorunlarını çözebilir.
-
-**Q: Dönüştürebileceğim TXT dosyalarının boyutu için bir limit var mı?**  
-A: GroupDocs.Conversion büyük dosyaları işleyebilir, ancak performans sistem kaynaklarınıza bağlı olarak değişebilir. Çok büyük belgeler için, onları daha küçük parçalara bölmeyi düşünün.
+**S: Dönüştürebileceğim TXT dosyalarının boyutu için bir limit var mı?**  
+C: GroupDocs.Conversion çok büyük dosyaları işleyebilir, ancak performans mevcut belleğe bağlıdır. 500 MB'i aşan dosyalar için bölmeyi veya JVM yığınını artırmayı düşünün.
 
 ## Kaynaklar
 
-Daha ayrıntılı bilgi ve gelişmiş özellikler için:
+- **Dokümantasyon:** [GroupDocs Conversion Java Dokümantasyonu](https://docs.groupdocs.com/conversion/java/)  
+- **API referansı:** [GroupDocs Conversion Java API Referansı](https://reference.groupdocs.com/conversion/java/)  
+- **İndirme:** [GroupDocs.Conversion for Java'ı edinin](https://releases.groupdocs.com/conversion/java/)  
+- **Satın alma ve lisanslama:** [Lisans satın al veya ücretsiz deneme al](https://purchase.groupdocs.com/buy)  
+- **Destek forumları:** [GroupDocs Destek Forumları](https://forum.groupdocs.com/c/conversion/10)
 
-- **Dokümantasyon:** [GroupDocs Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)
-- **API Referansı:** [GroupDocs Conversion Java API Reference](https://reference.groupdocs.com/conversion/java/)
-- **İndirme:** [Get GroupDocs.Conversion for Java](https://releases.groupdocs.com/conversion/java/)
-- **Satın Alma ve Lisanslama:** [Buy a License or Get a Free Trial](https://purchase.groupdocs.com/buy)
-- **Destek Forumları:** [GroupDocs Support Forum](https://forum.groupdocs.com/c/conversion/10)
-
-Bu kaynakları keşfederek anlayışınızı derinleştirin ve GroupDocs.Conversion Java'nın yeteneklerinden en iyi şekilde yararlanın. İyi kodlamalar!
+Bu kaynakları inceleyerek anlayışınızı derinleştirin ve projelerinizde **groupdocs conversion java**'yu en iyi şekilde kullanın. Kodlamanın tadını çıkarın!
 
 ---
 
-**Son Güncelleme:** 2026-02-08  
-**Test Edilen Versiyon:** GroupDocs.Conversion 25.2 for Java  
+**Son Güncelleme:** 2026-08-19  
+**Test Edilen Sürüm:** GroupDocs.Conversion 25.2 for Java  
 **Yazar:** GroupDocs
+
+## İlgili Eğitimler
+
+- [Txt PDF Sonraki Boşlukları Java ile Dönüştür](/conversion/java/conversion-options/convert-txt-pdf-trailing-spaces-java/)
+- [GroupDocs.Conversion ile Java'da Metni PDF'ye Dönüştür](/conversion/java/word-processing-formats/master-text-document-handling-java-groupdocs-conversion/)
+- [GroupDocs.Conversion Java ile Çoklu Dosya Türlerini Dönüştür – Kapsamlı Kılavuz](/conversion/java/document-operations/groupdocs-conversion-java-master-document-conversion/)

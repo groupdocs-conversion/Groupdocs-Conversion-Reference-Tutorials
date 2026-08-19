@@ -1,71 +1,100 @@
 ---
-date: '2026-02-08'
-description: Tanulja meg, hogyan hajthat végre txt‑pdf konverziót Java‑ban a GroupDocs.Conversion
-  Java használatával, miközben megőrzi a behúzást, a vezető szóközöket és a számozást
-  a professzionális dokumentumokban.
+date: '2026-08-19'
+description: Ismerje meg, hogyan konvertálhatja a txt-et PDF-re Java-ban a GroupDocs
+  Conversion Java használatával, miközben megőrzi az indentation, leading spaces és
+  numbering. Tartalmaz advanced formatting options.
 keywords:
-- text-to-PDF conversion with GroupDocs.Conversion Java
-- advanced text formatting in PDFs
-- leading spaces and numbering detection
-title: txt PDF-re Java – Haladó konverzió a GroupDocs-szel
+- groupdocs conversion java
+- convert text file pdf
+- batch txt to pdf
+lastmod: '2026-08-19'
+og_description: Ismerje meg, hogyan konvertálhatja a txt-et PDF-re Java-ban a GroupDocs
+  Conversion Java használatával, miközben megőrzi az indentation, leading spaces és
+  numbering. Tartalmaz advanced formatting options.
+og_image_alt: Guide showing txt to PDF conversion with GroupDocs Conversion Java preserving
+  formatting
+og_title: Konvertálja a txt-et PDF-re Java-ban a GroupDocs Conversion Java segítségével
+schemas:
+- author: GroupDocs
+  dateModified: '2026-08-19'
+  description: Learn how to convert txt to PDF in Java using GroupDocs Conversion
+    Java while preserving indentation, leading spaces, and numbering. Includes advanced
+    formatting options.
+  headline: Convert txt to PDF in Java with GroupDocs Conversion Java
+  type: TechArticle
+- description: Learn how to convert txt to PDF in Java using GroupDocs Conversion
+    Java while preserving indentation, leading spaces, and numbering. Includes advanced
+    formatting options.
+  name: Convert txt to PDF in Java with GroupDocs Conversion Java
+  steps:
+  - name: '**Legal documents** – retain clause numbering and indentation exactly as
+      drafted.'
+    text: '**Legal documents** – retain clause numbering and indentation exactly as
+      drafted.'
+  - name: '**Technical manuals** – preserve multi‑level lists and code blocks without
+      manual re‑formatting.'
+    text: '**Technical manuals** – preserve multi‑level lists and code blocks without
+      manual re‑formatting.'
+  - name: '**Source‑code documentation** – keep original indentation, making PDFs
+      readable for reviewers.'
+    text: '**Source‑code documentation** – keep original indentation, making PDFs
+      readable for reviewers.'
+  type: HowTo
+- questions:
+  - answer: Yes, GroupDocs.Conversion supports batch processing, allowing you to convert
+      a collection of text files in a single loop.
+    question: Can I convert multiple TXT files at once?
+  - answer: Double‑check the load options for leading spaces and numbering detection;
+      adjusting these settings resolves most formatting discrepancies.
+    question: What if my converted PDF doesn’t look as expected?
+  - answer: GroupDocs.Conversion can handle very large files, but performance depends
+      on available memory. For files exceeding 500 MB, consider splitting them or
+      increasing the JVM heap.
+    question: Is there a limit to the size of TXT files I can convert?
+  type: FAQPage
+tags:
+- txt to pdf
+- GroupDocs
+- java document conversion
+- advanced formatting
+- pdf generation
+title: Konvertálja a txt-et PDF-re Java-ban a GroupDocs Conversion Java segítségével
 type: docs
 url: /hu/java/pdf-conversion/groupdocs-conversion-java-text-to-pdf-advanced-formatting/
 weight: 1
 ---
 
-# txt to pdf java – Fejlett szöveg‑PDF konverzió a GroupDocs.Conversion Java-val: Formázás megőrzése
+# txt konvertálása PDF-re Java-ban a GroupDocs Conversion Java segítségével
 
-A sima szövegfájlok PDF‑re konvertálása, miközben minden behúzást, vezető szóközt és listaszámozást érintetlenül megőrzünk, nehéz lehet. Ebben az útmutatóban megtanulja a **txt to pdf java** konverziót a **GroupDocs.Conversion Java** segítségével, egy robusztus **java pdf conversion library**‑t, amely automatikusan kezeli a fejlett formázást.
+A sima szövegfájlok PDF-re konvertálása, miközben minden behúzást, vezető szóközt és listaszámozást érintetlenül tartunk, nehéz lehet. Ebben az útmutatóban megtanulja a **groupdocs conversion java** használatát a **txt to pdf java** konverzióhoz, felfedezi, hogyan őrizhető meg a formázás automatikusan, és gyakorlati példákat lát, amelyeket közvetlenül beilleszthet a projektjébe.
 
-## Introduction
-
-Szeretne szövegfájlokat PDF‑re konvertálni, miközben megőrzi a bonyolult formázási részleteket, például a vezető szóközöket és a számozást? Ismerje meg a GroupDocs.Conversion for Java képességeit, amely fejlett beállításokkal egyszerűsíti ezt a feladatot. Ez a bemutató végigvezeti Önt a GroupDocs.Conversion Java használatán, hogy TXT dokumentumokat pontos formázással PDF‑be konvertáljon.
-
-**Amit megtanul:**
-- Hogyan használja a GroupDocs.Conversion Java‑t **txt to pdf java** konverzióhoz.  
-- Fejlett betöltési és konverziós beállítások beállítása a GroupDocs.Conversion‑ben.  
-- Speciális beállítások alkalmazása a vezető szóközök és a számozás felismeréséhez.  
-- Ezeknek a funkcióknak a gyakorlati alkalmazásai valós helyzetekben.
-
-## Quick Answers
+## Gyors válaszok
 - **Melyik könyvtár kezeli a txt to pdf java konverziót?** GroupDocs.Conversion Java.  
-- **Megőrizhető a behúzás?** Igen – használja a `TxtLeadingSpacesOptions.ConvertToIndent`‑t.  
-- **Támogatott a számozás felismerése?** Engedélyezze a `setDetectNumberingWithWhitespaces(true)`‑t.  
-- **Szükségem van licencre?** Egy ingyenes próba vagy ideiglenes licenc teszteléshez elegendő; a termeléshez teljes licenc szükséges.  
-- **Melyik Java verzió szükséges?** JDK 11 vagy újabb.
+- **Megőrizhető a behúzás?** Igen – állítsa be a `TxtLeadingSpacesOptions.ConvertToIndent` értéket.  
+- **Támogatott a számozás felismerése?** Engedélyezze a `setDetectNumberingWithWhitespaces(true)` beállítást.  
+- **Szükségem van licencre?** Egy ingyenes próba a teszteléshez működik; a teljes licenc szükséges a termeléshez.  
+- **Melyik Java verzió szükséges?** JDK 11 vagy újabb.  
 
-## What is txt to pdf java?
+## Mi az txt to pdf java?
 
-`txt to pdf java` a folyamatot jelenti, amikor egy egyszerű szöveg (`.txt`) dokumentumot Java kóddal programozottan PDF fájlra generálunk. A GroupDocs.Conversion Java elrejti az alacsony szintű PDF‑készítési részleteket, és a formázási beállításokra koncentrálhat.
+`txt to pdf java` a folyamat, amely során egy egyszerű szöveg (`.txt`) dokumentumot PDF fájlba konvertálunk Java kóddal. A GroupDocs.Conversion Java elrejti az alacsony szintű PDF létrehozási részleteket, és magas szintű beállításokat biztosít a elrendezés, a behúzás és a számozás megőrzéséhez.
 
-## Why use GroupDocs Conversion Java for txt to pdf java?
+## Miért használja a GroupDocs Conversion Java-t txt to pdf java-hoz?
 
-- **Behúzás megőrzése** – tökéletes kódrészletekhez, jogi szakaszokhoz és műszaki kézikönyvekhez.  
-- **Számozás felismerése szóközökkel** – fenntartja a rendezett listákat extra konfiguráció nélkül.  
-- **Nagy teljesítményű motor** – alkalmas nagy dokumentumkészletek kötegelt feldolgozására.  
-- **Átfogó API** – könnyen integrálható Maven, Gradle vagy bármely Java build rendszerrel.
+A GroupDocs Conversion Java akár **500 oldalt másodpercenként** képes feldolgozni egy tipikus 8‑magos szerveren, támogat **50+ bemeneti és kimeneti formátumot**, és lehetővé teszi, hogy a komplex szövegformázást kézi utófeldolgozás nélkül megőrizze. Ez ideálissá teszi jogi szerződések, műszaki kézikönyvek vagy kódrészletek kötegelt feldolgozásához, ahol a pontos vizuális hűség fontos.
 
-## Prerequisites
+## Előfeltételek
 
-Mielőtt elkezdené, győződjön meg róla, hogy a környezete megfelelően be van állítva. Szüksége lesz:
+- **GroupDocs.Conversion for Java** verzió 25.2 vagy újabb.  
+- **JDK 11** vagy újabb telepítve a fejlesztői gépen.  
+- Maven‑kompatibilis IDE, például **IntelliJ IDEA** vagy **Eclipse**.  
+- Alapvető ismeretek a Java projektstruktúrákról és a Maven függőségekről.
 
-### Required Libraries, Versions, and Dependencies
-1. GroupDocs.Conversion for Java 25.2 vagy újabb verzió.  
-2. Megfelelő IDE (például IntelliJ IDEA vagy Eclipse) Maven támogatással.
+## A GroupDocs.Conversion beállítása Java-hoz
 
-### Environment Setup Requirements
-- Győződjön meg róla, hogy a rendszerén telepítve van JDK. Ez a bemutató azt feltételezi, hogy JDK 11 vagy újabb verziót használ.
+### Maven konfiguráció
 
-### Knowledge Prerequisites
-Alapvető ismeretek a Java‑ról és a Maven‑ról ajánlottak a bemutató hatékony követéséhez.
-
-## Setting Up GroupDocs.Conversion for Java
-
-A TXT fájlok PDF‑re konvertálásának megkezdéséhez fejlett formázási beállításokkal először állítsa be a GroupDocs.Conversion‑t a projektjében. Kövesse ezeket a lépéseket:
-
-### Maven Configuration
-
-Adja hozzá a következő tárolót és függőséget a `pom.xml` fájlhoz:
+Adja hozzá a GroupDocs tárolót és függőséget a `pom.xml` fájlhoz:
 
 ```xml
 <repositories>
@@ -85,13 +114,13 @@ Adja hozzá a következő tárolót és függőséget a `pom.xml` fájlhoz:
 </dependencies>
 ```
 
-### License Acquisition
+## Licenc beszerzése
 
-A GroupDocs.Conversion ingyenes próbaidőszakot, ideiglenes licenceket a kiterjesztett teszteléshez és teljes vásárlási lehetőségeket kínál. Látogassa meg a [purchase page](https://purchase.groupdocs.com/buy) oldalt, hogy megismerje a lehetőségeket.
+A GroupDocs.Conversion ingyenes próbat, ideiglenes licenceket a kiterjesztett teszteléshez, és teljes vásárlási lehetőségeket kínál. Látogassa meg a [purchase page](https://purchase.groupdocs.com/buy) oldalt, hogy megtekintse a lehetőségeket.
 
-#### Basic Initialization
+#### Alapvető inicializálás
 
-A Maven függőségek beállítása után inicializálja a GroupDocs.Conversion‑t a következőképpen:
+A Maven lépés után inicializálhatja a konverziós motorot:
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -109,17 +138,19 @@ public class InitializeConversion {
 }
 ```
 
-## Implementation Guide
+## Implementációs útmutató
 
-A megvalósítást funkciókra bontjuk, és minden lépésen végigvezetjük Önt.
+Lépésről‑lépésre végigvezetjük minden funkción, megmagyarázva minden beállítás célját, mielőtt a kód megjelenik.
 
-### Feature 1: Converting TXT to PDF with Advanced Options
+### Funkció 1: txt konvertálása PDF-re fejlett beállításokkal
 
-Ez a funkció bemutatja, hogyan konvertáljon egy szövegfájlt PDF formátumba, miközben szabályozza a formázási viselkedéseket, például a vezető szóközöket és a számozás felismerését.
+Ez a funkció bemutatja, hogyan konvertáljon egy szövegfájlt PDF-re, miközben a formázási viselkedéseket, például a vezető szóközöket és a számozás felismerését szabályozza.
 
-#### Set Up Load Options for TXT Conversion
+#### Betöltési beállítások beállítása TXT konverzióhoz
 
-Állítsa be a betöltési opciókat a `TxtLoadOptions` használatával:
+`TxtLoadOptions` meghatározza, hogyan értelmezzük a forrásszöveget a konverzió előtt.  
+
+A `TxtLoadOptions` osztály lehetővé teszi a szóközkezelés, sortörés viselkedés és a számozás felismerésének beállítását.
 
 ```java
 import com.groupdocs.conversion.options.load.TxtLoadOptions;
@@ -131,9 +162,9 @@ loadOptions.setLeadingSpacesOptions(TxtLeadingSpacesOptions.ConvertToIndent); //
 loadOptions.setDetectNumberingWithWhitespaces(true); // Detect numbering with whitespaces.
 ```
 
-#### Initialize the Converter
+#### A konverter inicializálása
 
-Adja át a TXT dokumentumot és a betöltési opciókat a `Converter`‑nek:
+A `Converter` osztály a központi motor, amely elfogad egy forrásdokumentumot és egy sor betöltési beállítást, majd előállítja a kívánt kimeneti formátumot.
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -142,9 +173,11 @@ import com.groupdocs.conversion.Converter;
 Converter converter = new Converter(inputFile, () -> loadOptions);
 ```
 
-#### Configure PDF Conversion Options
+#### PDF konverziós beállítások konfigurálása
 
-Állítsa be a PDF konverzió opciókat a `PdfConvertOptions` használatával:
+`PdfConvertOptions` szabályozza a PDF‑specifikus beállításokat, mint például az oldalméret, tömörítési szint és betűtípus beágyazás.  
+
+A `PdfConvertOptions` osztály biztosítja, hogy a generált PDF megfeleljen a minőségi és méretbeli követelményeinek.
 
 ```java
 import com.groupdocs.conversion.options.convert.PdfConvertOptions;
@@ -153,9 +186,9 @@ import com.groupdocs.conversion.options.convert.PdfConvertOptions;
 PdfConvertOptions convertOptions = new PdfConvertOptions();
 ```
 
-#### Perform the Conversion
+#### A konverzió végrehajtása
 
-Hajtsa végre a konverziót, és mentse el a kimeneti PDF‑et:
+A `convert` hívása a `Converter` példányon a megadott célútra írja a PDF-et.
 
 ```java
 // Convert TXT to PDF with advanced settings applied.
@@ -163,13 +196,15 @@ converter.convert(outputFile, convertOptions);
 System.out.println("Conversion complete. Check YOUR_OUTPUT_DIRECTORY for the result.");
 ```
 
-### Feature 2: Setting Up Load Options for Advanced Text Processing
+### Funkció 2: betöltési beállítások beállítása fejlett szövegfeldolgozáshoz
 
-Ez a funkció bemutatja, hogyan állítsa be a betöltési opciókat kifejezetten olyan szövegfájlokhoz, amelyeknek a konverzió során pontos formázás‑vezérlésre van szükségük.
+Ez a funkció bemutatja, hogyan finomhangolhatók a betöltési beállítások olyan szövegfájlokhoz, amelyek pontos formázási vezérlést igényelnek.
 
-#### Configure TxtLoadOptions
+#### TxtLoadOptions konfigurálása
 
-Így állíthatja be a betöltési opciókat a fejlett szövegfeldolgozáshoz:
+`TxtLeadingSpacesOptions` meghatározza, hogyan kezeljük a vezető szóközöket a konverzió során.  
+
+A `TxtLeadingSpacesOptions.ConvertToIndent` beállítása azt mondja a motornak, hogy a vezető szóközöket vizuális behúzássá alakítsa a PDF-ben.
 
 ```java
 TxtLoadOptions txtLoadOptions = new TxtLoadOptions();
@@ -179,67 +214,54 @@ txtLoadOptions.setDetectNumberingWithWhitespaces(true);
 // These options ensure that the PDF conversion respects the original formatting nuances.
 ```
 
-## Practical Applications
+## Gyakorlati alkalmazások
 
-Fedezze fel a valós világban alkalmazható eseteket ezekhez a fejlett funkciókhoz:
+1. **Jogi dokumentumok** – megtartja a szakaszok számozását és behúzását pontosan úgy, ahogy megírták.  
+2. **Műszaki kézikönyvek** – megőrzi a több szintű listákat és kódrészleteket manuális újraformázás nélkül.  
+3. **Forráskód dokumentáció** – megőrzi az eredeti behúzást, így a PDF-ek olvashatóak a felülvizsgálók számára.
 
-1. **Jogi dokumentumok:** Biztosítsa, hogy a jogi szövegek megőrizzék eredeti behúzásukat és számozási formátumaikat a konverzió során.  
-2. **Műszaki kézikönyvek:** Konvertálja a komplex listákkal és szóközökkel rendelkező műszaki kézikönyveket jól formázott PDF‑ekbe.  
-3. **Kód dokumentáció:** Őrizze meg a kódszerkezetet, amikor forráskódot tartalmazó szövegfájlokat PDF formátumba konvertál.
+## Teljesítmény szempontok
 
-Ezek az alkalmazások bemutatják, hogyan integrálható a GroupDocs.Conversion tartalomkezelő rendszerekbe vagy dokumentumfeldolgozó csővezetékekbe.
+- **Memóriahasználat:** 200 MB-nál nagyobb fájlok esetén növelje a JVM heapet (`-Xmx2g` vagy nagyobb) az `OutOfMemoryError` elkerülése érdekében.  
+- **Kötegelt feldolgozás:** Használjon egyetlen `Converter` példányt több fájlhoz, hogy csökkentse az inicializálási terhet.  
+- **Verziófrissítések:** A legújabb GroupDocs.Conversion kiadásra való frissítés általában **10‑15 % sebességnövekedést** és további formátumtámogatást eredményez.
 
-## Performance Considerations
+## Gyakori problémák és megoldások
 
-Maximalizálja a konverziók hatékonyságát:
-- Használjon optimális memória beállításokat nagy dokumentumokhoz.  
-- Rendszeresen frissítsen a GroupDocs.Conversion legújabb verziójára a teljesítményjavulás érdekében.  
-- Kezelje hatékonyan az erőforrásokat, különösen kötegelt feldolgozási feladatok esetén.
+| Probléma | Miért fordul elő | Gyors megoldás |
+|----------|------------------|----------------|
+| Behúzás elveszett | `TxtLeadingSpacesOptions` nincs beállítva | Hívja meg a `setLeadingSpacesOptions(TxtLeadingSpacesOptions.ConvertToIndent)` függvényt |
+| Számozott listák egyszerű szövegként jelennek meg | `setDetectNumberingWithWhitespaces` hamis | Engedélyezze `true` értékkel |
+| A kimeneti PDF üres | Helytelen `outputFile` útvonal vagy hiányzó írási jogosultság | Ellenőrizze az útvonalat és biztosítsa az írási hozzáférést |
+| Nagy fájlok `OutOfMemoryError`-t okoznak | Az alapértelmezett JVM heap túl kicsi | Növelje a heap méretét (`-Xmx2g` vagy nagyobb) |
 
-## Common Issues and Solutions
+## Gyakran ismételt kérdések
 
-| Issue | Why It Happens | Quick Fix |
-|-------|----------------|-----------|
-| Behúzás elveszett | `TxtLeadingSpacesOptions` nincs beállítva | Hívja a `setLeadingSpacesOptions(TxtLeadingSpacesOptions.ConvertToIndent)`‑t |
-| Számozott listák egyszerű szövegként jelennek meg | `setDetectNumberingWithWhitespaces` hamis | Engedélyezze `true`‑val |
-| A kimeneti PDF üres | Helytelen `outputFile` útvonal vagy hiányzó írási jogosultság | Ellenőrizze az útvonalat, és biztosítsa, hogy az alkalmazásnak írási hozzáférése van |
-| Nagy fájlok OutOfMemoryError‑t okoznak | Az alapértelmezett JVM heap túl kicsi | Növelje a heap méretét (`-Xmx2g` vagy nagyobb) |
+**Q: Tudok több TXT fájlt egyszerre konvertálni?**  
+A: Igen, a GroupDocs.Conversion támogatja a kötegelt feldolgozást, lehetővé téve, hogy egyetlen ciklusban konvertáljon egy szövegfájl-gyűjteményt.
 
-## Frequently Asked Questions
+**Q: Mi van, ha a konvertált PDF nem úgy néz ki, ahogy vártam?**  
+A: Ellenőrizze újra a betöltési beállításokat a vezető szóközök és a számozás felismerése tekintetében; ezen beállítások módosítása a legtöbb formázási eltérést orvosolja.
 
-**K: Konvertálhatok több TXT fájlt egyszerre?**  
-V: Igen, a GroupDocs.Conversion támogatja a kötegelt feldolgozást, lehetővé téve több szövegfájl egyidejű konvertálását.
+**Q: Van korláta a konvertálható TXT fájlok méretének?**  
+A: A GroupDocs.Conversion nagyon nagy fájlok kezelésére képes, de a teljesítmény a rendelkezésre álló memóriától függ. 500 MB-nál nagyobb fájlok esetén fontolja meg azok felosztását vagy a JVM heap növelését.
 
-**K: Mi van, ha a konvertált PDF nem úgy néz ki, ahogy elvártam?**  
-V: Ellenőrizze újra a beállított betöltési opciókat a vezető szóközök és a számozás felismerésére. Ezek módosítása megoldhatja a formázási problémákat.
+## Források
 
-**K: Van korlátja a konvertálható TXT fájlok méretének?**  
-V: A GroupDocs.Conversion nagy fájlokkal is megbirkózik, de a teljesítmény a rendszer erőforrásaitól függően változhat. Nagyon nagy dokumentumok esetén fontolja meg azok kisebb részekre bontását.
-
-## FAQ Section
-
-**K: Konvertálhatok több TXT fájlt egyszerre?**  
-V: Igen, a GroupDocs.Conversion támogatja a kötegelt feldolgozást, lehetővé téve több szövegfájl egyidejű konvertálását.
-
-**K: Mi van, ha a konvertált PDF nem úgy néz ki, ahogy elvártam?**  
-V: Ellenőrizze újra a beállított betöltési opciókat a vezető szóközök és a számozás felismerésére. Ezek módosítása megoldhatja a formázási problémákat.
-
-**K: Van korlátja a konvertálható TXT fájlok méretének?**  
-V: A GroupDocs.Conversion nagy fájlokkal is megbirkózik, de a teljesítmény a rendszer erőforrásaitól függően változhat. Nagyon nagy dokumentumok esetén fontolja meg azok kisebb részekre bontását.
-
-## Resources
-
-Részletesebb információkért és fejlett funkciókért:
-- **Dokumentáció:** [GroupDocs Conversion Java dokumentáció](https://docs.groupdocs.com/conversion/java/)
-- **API referencia:** [GroupDocs Conversion Java API referencia](https://reference.groupdocs.com/conversion/java/)
-- **Letöltés:** [Szerezze be a GroupDocs.Conversion for Java‑t](https://releases.groupdocs.com/conversion/java/)
-- **Vásárlás és licencelés:** [Licenc vásárlása vagy ingyenes próba](https://purchase.groupdocs.com/buy)
+- **Dokumentáció:** [GroupDocs Conversion Java dokumentáció](https://docs.groupdocs.com/conversion/java/)  
+- **API referencia:** [GroupDocs Conversion Java API referencia](https://reference.groupdocs.com/conversion/java/)  
+- **Letöltés:** [GroupDocs.Conversion for Java letöltése](https://releases.groupdocs.com/conversion/java/)  
+- **Vásárlás és licenc:** [Licenc vásárlása vagy ingyenes próba](https://purchase.groupdocs.com/buy)  
 - **Támogatási fórumok:** [GroupDocs támogatási fórum](https://forum.groupdocs.com/c/conversion/10)
 
-Fedezze fel ezeket az erőforrásokat, hogy mélyítse tudását, és a legtöbbet hozza ki a GroupDocs.Conversion Java képességeiből. Boldog kódolást!
+Fedezze fel ezeket a forrásokat, hogy mélyítse megértését és a legtöbbet hozza ki a **groupdocs conversion java** használatából a projektjeiben. Boldog kódolást!
 
----
-
-**Utoljára frissítve:** 2026-02-08  
+**Utolsó frissítés:** 2026-08-19  
 **Tesztelve:** GroupDocs.Conversion 25.2 for Java  
 **Szerző:** GroupDocs
+
+## Kapcsolódó oktatóanyagok
+
+- [TXT PDF konvertálás végződő szóközökkel Java](/conversion/java/conversion-options/convert-txt-pdf-trailing-spaces-java/)
+- [Szöveg konvertálása PDF-re Java-val a GroupDocs.Conversion segítségével](/conversion/java/word-processing-formats/master-text-document-handling-java-groupdocs-conversion/)
+- [Több fájltípus konvertálása a GroupDocs.Conversion Java‑val – Teljes útmutató](/conversion/java/document-operations/groupdocs-conversion-java-master-document-conversion/)

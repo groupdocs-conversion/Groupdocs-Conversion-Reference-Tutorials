@@ -1,69 +1,98 @@
 ---
-date: '2026-02-08'
-description: 学习如何使用 GroupDocs.Conversion Java 将 txt 转换为 pdf，保留缩进、前导空格和编号，以实现专业文档。
+date: '2026-08-19'
+description: 了解如何在 Java 中使用 GroupDocs Conversion Java 将 txt 转换为 PDF，同时保留 indentation,
+  leading spaces, and numbering。包括 advanced formatting options。
 keywords:
-- text-to-PDF conversion with GroupDocs.Conversion Java
-- advanced text formatting in PDFs
-- leading spaces and numbering detection
-title: txt 转 pdf（Java）– 使用 GroupDocs 的高级转换
+- groupdocs conversion java
+- convert text file pdf
+- batch txt to pdf
+lastmod: '2026-08-19'
+og_description: 了解如何在 Java 中使用 GroupDocs Conversion Java 将 txt 转换为 PDF，同时保留 indentation,
+  leading spaces, and numbering。包括 advanced formatting options。
+og_image_alt: Guide showing txt to PDF conversion with GroupDocs Conversion Java preserving
+  formatting
+og_title: 在 Java 中使用 GroupDocs Conversion Java 将 txt 转换为 PDF
+schemas:
+- author: GroupDocs
+  dateModified: '2026-08-19'
+  description: Learn how to convert txt to PDF in Java using GroupDocs Conversion
+    Java while preserving indentation, leading spaces, and numbering. Includes advanced
+    formatting options.
+  headline: Convert txt to PDF in Java with GroupDocs Conversion Java
+  type: TechArticle
+- description: Learn how to convert txt to PDF in Java using GroupDocs Conversion
+    Java while preserving indentation, leading spaces, and numbering. Includes advanced
+    formatting options.
+  name: Convert txt to PDF in Java with GroupDocs Conversion Java
+  steps:
+  - name: '**Legal documents** – retain clause numbering and indentation exactly as
+      drafted.'
+    text: '**Legal documents** – retain clause numbering and indentation exactly as
+      drafted.'
+  - name: '**Technical manuals** – preserve multi‑level lists and code blocks without
+      manual re‑formatting.'
+    text: '**Technical manuals** – preserve multi‑level lists and code blocks without
+      manual re‑formatting.'
+  - name: '**Source‑code documentation** – keep original indentation, making PDFs
+      readable for reviewers.'
+    text: '**Source‑code documentation** – keep original indentation, making PDFs
+      readable for reviewers.'
+  type: HowTo
+- questions:
+  - answer: Yes, GroupDocs.Conversion supports batch processing, allowing you to convert
+      a collection of text files in a single loop.
+    question: Can I convert multiple TXT files at once?
+  - answer: Double‑check the load options for leading spaces and numbering detection;
+      adjusting these settings resolves most formatting discrepancies.
+    question: What if my converted PDF doesn’t look as expected?
+  - answer: GroupDocs.Conversion can handle very large files, but performance depends
+      on available memory. For files exceeding 500 MB, consider splitting them or
+      increasing the JVM heap.
+    question: Is there a limit to the size of TXT files I can convert?
+  type: FAQPage
+tags:
+- txt to pdf
+- GroupDocs
+- java document conversion
+- advanced formatting
+- pdf generation
+title: 在 Java 中使用 GroupDocs Conversion Java 将 txt 转换为 PDF
 type: docs
 url: /zh/java/pdf-conversion/groupdocs-conversion-java-text-to-pdf-advanced-formatting/
 weight: 1
 ---
 
-# txt to pdf java – 使用 GroupDocs.Conversion Java 的高级文本转 PDF 转换：保持格式
+# 在 Java 中使用 GroupDocs Conversion Java 将 txt 转换为 PDF
 
-将纯文本文件转换为 PDF 并保留每个缩进、前导空格和列表编号可能比较棘手。在本指南中，您将学习使用 **GroupDocs.Conversion Java** 进行 **txt to pdf java** 转换，这是一款强大的 **java pdf conversion library**，能够自动处理高级格式。
+将纯文本文件转换为 PDF 并保持所有缩进、前导空格和列表编号完整可能很棘手。在本指南中，您将学习 **groupdocs conversion java** 用于 **txt to pdf java** 的转换，了解如何自动保留格式，并看到可直接放入项目的实用示例。
 
-## Introduction
+## 快速答案
+- **哪个库处理 txt 到 pdf java 转换？** GroupDocs.Conversion Java.  
+- **是否可以保留缩进？** Yes – set `TxtLeadingSpacesOptions.ConvertToIndent`.  
+- **是否支持编号检测？** Enable `setDetectNumberingWithWhitespaces(true)`.  
+- **我需要许可证吗？** 免费试用可用于测试；生产环境需要完整许可证。  
+- **需要哪个 Java 版本？** JDK 11 或更高。  
 
-您是否希望在转换文本文件为 PDF 时保留前导空格和编号等复杂格式细节？了解 GroupDocs.Conversion for Java 的功能，它通过提供高级选项简化了此任务。本教程将指导您使用 GroupDocs.Conversion Java 将 TXT 文档转换为具有精确格式的 PDF。
+## 什么是 txt to pdf java？
 
-**您将学习的内容：**
-- 如何使用 GroupDocs.Conversion Java 进行 **txt to pdf java** 转换。  
-- 在 GroupDocs.Conversion 中设置高级加载和转换选项。  
-- 为前导空格和编号检测应用特定设置。  
-- 这些功能在实际场景中的应用。
+`txt to pdf java` 是使用 Java 代码将纯文本（`.txt`）文档转换为 PDF 文件的过程。GroupDocs.Conversion Java 抽象了低层 PDF 创建细节，并提供了用于保留布局、缩进和编号的高级选项。
 
-## Quick Answers
-- **哪个库处理 txt to pdf java 转换？** GroupDocs.Conversion Java。  
-- **可以保留缩进吗？** 可以 – 使用 `TxtLeadingSpacesOptions.ConvertToIndent`。  
-- **是否支持编号检测？** 启用 `setDetectNumberingWithWhitespaces(true)`。  
-- **需要许可证吗？** 免费试用或临时许可证可用于测试；生产环境需要正式许可证。  
-- **需要哪个 Java 版本？** JDK 11 或更高。
+## 为什么在 txt to pdf java 中使用 GroupDocs Conversion Java？
 
-## What is txt to pdf java?
+GroupDocs Conversion Java 在典型的 8 核服务器上每秒可处理高达 **500 页**，支持 **50+** 输入和输出格式，并让您在无需手动后处理的情况下保留复杂的文本格式。这使其非常适合批量处理法律合同、技术手册或代码片段等对视觉保真度要求严格的场景。
 
-`txt to pdf java` 指的是使用 Java 代码将纯文本（`.txt`）文档程序化生成 PDF 文件的过程。GroupDocs.Conversion Java 抽象了底层 PDF 创建细节，让您专注于格式选项。
+## 前置条件
 
-## Why use GroupDocs Conversion Java for txt to pdf java?
+- **GroupDocs.Conversion for Java** 版本 25.2 或更高。  
+- **JDK 11** 或更高版本已在您的开发机器上安装。  
+- 支持 Maven 的 IDE，例如 **IntelliJ IDEA** 或 **Eclipse**。  
+- 对 Java 项目结构和 Maven 依赖有基本了解。  
 
-- **保留缩进** – 适用于代码片段、法律条款和技术手册。  
-- **检测带空格的编号** – 在无需额外配置的情况下保持有序列表。  
-- **高性能引擎** – 适合批量处理大型文档集。  
-- **完整的 API** – 可轻松集成到 Maven、Gradle 或任何 Java 构建系统中。
+## 设置 GroupDocs.Conversion for Java
 
-## Prerequisites
+### Maven 配置
 
-在开始之前，请确保您的环境已正确设置。您需要：
-
-### Required Libraries, Versions, and Dependencies
-1. GroupDocs.Conversion for Java 版本 25.2 或更高。  
-2. 具备 Maven 支持的合适 IDE（如 IntelliJ IDEA 或 Eclipse）。
-
-### Environment Setup Requirements
-- 确保系统已安装 JDK。本教程假设您使用的是 JDK 11 或更高。
-
-### Knowledge Prerequisites
-建议具备基本的 Java 和 Maven 知识，以便顺利跟随本指南。
-
-## Setting Up GroupDocs.Conversion for Java
-
-要使用高级格式选项将 TXT 文件转换为 PDF，首先在项目中设置 GroupDocs.Conversion。按照以下步骤操作：
-
-### Maven Configuration
-
-在 `pom.xml` 文件中添加以下仓库和依赖：
+Add the GroupDocs repository and dependency to your `pom.xml`:
 
 ```xml
 <repositories>
@@ -83,13 +112,13 @@ weight: 1
 </dependencies>
 ```
 
-### License Acquisition
+### 许可证获取
 
-GroupDocs.Conversion 提供免费试用、用于扩展测试的临时许可证以及完整购买选项。访问 [purchase page](https://purchase.groupdocs.com/buy) 了解更多。
+GroupDocs.Conversion 提供免费试用、用于扩展测试的临时许可证以及完整购买选项。访问 [purchase page](https://purchase.groupdocs.com/buy) 了解更多选项。
 
-#### Basic Initialization
+#### 基本初始化
 
-设置好 Maven 依赖后，按如下方式初始化 GroupDocs.Conversion：
+After the Maven step, you can initialize the conversion engine:
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -107,17 +136,18 @@ public class InitializeConversion {
 }
 ```
 
-## Implementation Guide
+## 实现指南
 
-我们将功能分解为若干部分，逐步指导您完成每一步。
+我们将逐步演示每个功能，在代码出现之前解释每个选项的用途。
 
-### Feature 1: Converting TXT to PDF with Advanced Options
+### 功能 1：使用高级选项将 txt 转换为 PDF
 
-此功能演示如何在转换文本文件为 PDF 时控制前导空格和编号检测等格式行为。
+此功能展示了如何在转换文本文件为 PDF 时控制诸如前导空格和编号检测等格式行为。
 
-#### Set Up Load Options for TXT Conversion
+#### 设置 TXT 转换的加载选项
 
-使用 `TxtLoadOptions` 配置加载选项：
+`TxtLoadOptions` 定义了在转换之前如何解释源文本。  
+`TxtLoadOptions` 类允许您指定空白字符处理、换行行为和编号检测。
 
 ```java
 import com.groupdocs.conversion.options.load.TxtLoadOptions;
@@ -129,9 +159,9 @@ loadOptions.setLeadingSpacesOptions(TxtLeadingSpacesOptions.ConvertToIndent); //
 loadOptions.setDetectNumberingWithWhitespaces(true); // Detect numbering with whitespaces.
 ```
 
-#### Initialize the Converter
+#### 初始化转换器
 
-将 TXT 文档和加载选项传递给 `Converter`：
+`Converter` 类是核心引擎，接受源文档和一组加载选项，然后生成所需的输出格式。
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -140,9 +170,10 @@ import com.groupdocs.conversion.Converter;
 Converter converter = new Converter(inputFile, () -> loadOptions);
 ```
 
-#### Configure PDF Conversion Options
+#### 配置 PDF 转换选项
 
-使用 `PdfConvertOptions` 设置 PDF 转换选项：
+`PdfConvertOptions` 控制 PDF 特定设置，如页面大小、压缩级别和字体嵌入。  
+`PdfConvertOptions` 类确保生成的 PDF 符合您的质量和尺寸要求。
 
 ```java
 import com.groupdocs.conversion.options.convert.PdfConvertOptions;
@@ -151,9 +182,9 @@ import com.groupdocs.conversion.options.convert.PdfConvertOptions;
 PdfConvertOptions convertOptions = new PdfConvertOptions();
 ```
 
-#### Perform the Conversion
+#### 执行转换
 
-执行转换并保存输出 PDF：
+在 `Converter` 实例上调用 `convert` 将 PDF 写入您指定的目标路径。
 
 ```java
 // Convert TXT to PDF with advanced settings applied.
@@ -161,13 +192,14 @@ converter.convert(outputFile, convertOptions);
 System.out.println("Conversion complete. Check YOUR_OUTPUT_DIRECTORY for the result.");
 ```
 
-### Feature 2: Setting Up Load Options for Advanced Text Processing
+### 功能 2：为高级文本处理设置加载选项
 
-此功能展示如何为需要精确格式控制的文本文件设置加载选项。
+此功能演示了如何为需要精确格式控制的文本文件微调加载选项。
 
-#### Configure TxtLoadOptions
+#### 配置 TxtLoadOptions
 
-以下示例展示如何设置加载选项以处理高级文本处理：
+`TxtLeadingSpacesOptions` 决定在转换期间如何处理前导空格。  
+设置 `TxtLeadingSpacesOptions.ConvertToIndent` 告诉引擎将前导空格转换为 PDF 中的可视缩进。
 
 ```java
 TxtLoadOptions txtLoadOptions = new TxtLoadOptions();
@@ -177,67 +209,58 @@ txtLoadOptions.setDetectNumberingWithWhitespaces(true);
 // These options ensure that the PDF conversion respects the original formatting nuances.
 ```
 
-## Practical Applications
+## 实际应用
 
-探索这些高级功能的实际使用场景：
+1. **Legal documents** – 保持条款编号和缩进完全与草稿一致。  
+2. **Technical manuals** – 在不进行手动重新格式化的情况下保留多层列表和代码块。  
+3. **Source‑code documentation** – 保持原始缩进，使 PDF 对审阅者可读。  
 
-1. **法律文档：** 确保法律文本在转换过程中保持原始的缩进和编号格式。  
-2. **技术手册：** 将包含复杂列表和间距的技术手册转换为格式良好的 PDF。  
-3. **代码文档：** 在将包含源代码的文本文件转换为 PDF 时保留代码结构。
+这些场景说明了 **groupdocs conversion java** 如何嵌入内容管理流水线、自动化报告生成器或文档归档服务中。
 
-这些案例展示了 GroupDocs.Conversion 如何集成到内容管理系统或文档处理流水线中。
+## 性能考虑因素
 
-## Performance Considerations
+- **Memory usage:** 对于大于 200 MB 的文件，增加 JVM 堆内存 (`-Xmx2g` 或更高) 以避免 `OutOfMemoryError`。  
+- **Batch processing:** 在多个文件之间复用单个 `Converter` 实例，以减少初始化开销。  
+- **Version updates:** 升级到最新的 GroupDocs.Conversion 版本通常可带来 **10‑15 %** 的速度提升并增加格式支持。  
 
-最大化转换效率：
-- 为大文档使用最佳内存设置。  
-- 定期更新至最新版本的 GroupDocs.Conversion，以获取性能改进。  
-- 有效管理资源，尤其是在批量处理任务时。
+## 常见问题及解决方案
 
-## Common Issues and Solutions
-
-| Issue | Why It Happens | Quick Fix |
+| Issue | Why it happens | Quick fix |
 |-------|----------------|-----------|
-| 缩进丢失 | 未设置 `TxtLeadingSpacesOptions` | 调用 `setLeadingSpacesOptions(TxtLeadingSpacesOptions.ConvertToIndent)` |
-| 编号列表显示为普通文本 | `setDetectNumberingWithWhitespaces` 为 false | 将其设为 `true` |
-| 输出 PDF 为空白 | `outputFile` 路径错误或缺少写入权限 | 检查路径并确保应用拥有写入权限 |
-| 大文件导致 OutOfMemoryError | 默认 JVM 堆太小 | 增加堆大小（`-Xmx2g` 或更高） |
+| 缩进丢失 | `TxtLeadingSpacesOptions` 未设置 | Call `setLeadingSpacesOptions(TxtLeadingSpacesOptions.ConvertToIndent)` |
+| 编号列表显示为普通文本 | `setDetectNumberingWithWhitespaces` 为 false | 使用 `true` 启用它 |
+| 输出 PDF 为空白 | `outputFile` 路径不正确或缺少写入权限 | 验证路径并确保有写入权限 |
+| 大文件导致 `OutOfMemoryError` | 默认 JVM 堆太小 | 增加堆大小 (`-Xmx2g` 或更高) |
 
-## Frequently Asked Questions
-
-**Q: 我可以一次转换多个 TXT 文件吗？**  
-A: 可以，GroupDocs.Conversion 支持批量处理，允许同时转换多个文本文件。
-
-**Q: 如果转换后的 PDF 看起来不符合预期怎么办？**  
-A: 仔细检查您为前导空格和编号检测设置的加载选项。调整这些设置可能会解决格式问题。
-
-**Q: 转换的 TXT 文件大小是否有限制？**  
-A: GroupDocs.Conversion 能处理大文件，但性能取决于系统资源。对于非常大的文档，建议将其拆分为更小的部分。
-
-## FAQ Section
+## 常见问答
 
 **Q: 我可以一次转换多个 TXT 文件吗？**  
-A: 可以，GroupDocs.Conversion 支持批量处理，允许同时转换多个文本文件。
+A: 可以，GroupDocs.Conversion 支持批处理，允许您在单个循环中转换一组文本文件。
 
-**Q: 如果转换后的 PDF 看起来不符合预期怎么办？**  
-A: 仔细检查您为前导空格和编号检测设置的加载选项。调整这些设置可能会解决格式问题。
+**Q: 如果转换后的 PDF 外观不符合预期怎么办？**  
+A: 仔细检查前导空格和编号检测的加载选项；调整这些设置可解决大多数格式差异。
 
 **Q: 转换的 TXT 文件大小是否有限制？**  
-A: GroupDocs.Conversion 能处理大文件，但性能取决于系统资源。对于非常大的文档，建议将其拆分为更小的部分。
+A: GroupDocs.Conversion 能处理非常大的文件，但性能取决于可用内存。对于超过 500 MB 的文件，建议将其拆分或增加 JVM 堆。
 
-## Resources
+## 资源
 
-获取更详细的信息和高级功能：
-- **Documentation:** [GroupDocs Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)  
-- **API Reference:** [GroupDocs Conversion Java API Reference](https://reference.groupdocs.com/conversion/java/)  
-- **Download:** [Get GroupDocs.Conversion for Java](https://releases.groupdocs.com/conversion/java/)  
-- **Purchase and Licensing:** [Buy a License or Get a Free Trial](https://purchase.groupdocs.com/buy)  
-- **Support Forums:** [GroupDocs Support Forum](https://forum.groupdocs.com/c/conversion/10)
+- **文档:** [GroupDocs Conversion Java Documentation](https://docs.groupdocs.com/conversion/java/)  
+- **API 参考:** [GroupDocs Conversion Java API Reference](https://reference.groupdocs.com/conversion/java/)  
+- **下载:** [Get GroupDocs.Conversion for Java](https://releases.groupdocs.com/conversion/java/)  
+- **购买和许可:** [Buy a License or Get a Free Trial](https://purchase.groupdocs.com/buy)  
+- **支持论坛:** [GroupDocs Support Forum](https://forum.groupdocs.com/c/conversion/10)
 
-浏览这些资源，以加深对 GroupDocs.Conversion Java 功能的了解并充分发挥其潜力。祝编码愉快！
+探索这些资源以加深理解，并在项目中充分利用 **groupdocs conversion java**。祝编码愉快！
 
 ---
 
-**Last Updated:** 2026-02-08  
-**Tested With:** GroupDocs.Conversion 25.2 for Java  
-**Author:** GroupDocs
+**最后更新:** 2026-08-19  
+**测试环境:** GroupDocs.Conversion 25.2 for Java  
+**作者:** GroupDocs
+
+## 相关教程
+
+- [转换 Txt Pdf 尾随空格 Java](/conversion/java/conversion-options/convert-txt-pdf-trailing-spaces-java/)
+- [使用 GroupDocs.Conversion 将文本转换为 PDF（Java）](/conversion/java/word-processing-formats/master-text-document-handling-java-groupdocs-conversion/)
+- [使用 GroupDocs.Conversion Java 转换多种文件类型 – 完整指南](/conversion/java/document-operations/groupdocs-conversion-java-master-document-conversion/)

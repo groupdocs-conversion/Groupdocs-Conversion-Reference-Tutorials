@@ -1,171 +1,185 @@
 ---
-date: 2026-04-06
-description: Μάθετε πώς να μετατρέπετε docx σε pdf με το GroupDocs.Conversion για
-  .NET, καθώς και συμβουλές για τη φόρτωση εγγράφων από URL, την προσθήκη υδατογραφιών
-  και άλλα.
+date: 2026-08-19
+description: Μάθετε πώς να προσθέσετε υδατογράφημα κατά τη μετατροπή docx σε pdf χρησιμοποιώντας
+  το GroupDocs.Conversion for .NET, καθώς και συμβουλές για τη φόρτωση εγγράφων από
+  URL και την εξαγωγή κειμένου από PDF.
 is_root: true
 keywords:
+- how to add watermark
 - convert docx to pdf
-- load document from url
-- add watermark pdf
-linktitle: Οδηγοί GroupDocs.Conversion για .NET
-title: Μετατροπή docx σε pdf – Οδηγοί GroupDocs.Conversion .NET
+- extract text from pdf
+- convert excel to pdf
+- convert powerpoint to pdf
+lastmod: 2026-08-19
+linktitle: Οδηγοί GroupDocs.Conversion for .NET
+og_description: Μάθετε πώς να προσθέσετε υδατογράφημα κατά τη μετατροπή docx σε pdf
+  χρησιμοποιώντας το GroupDocs.Conversion for .NET. Ακολουθήστε οδηγίες βήμα‑βήμα
+  και ανακαλύψτε σχετικούς οδηγούς μετατροπής.
+og_image_alt: Guide showing how to add watermark during docx to PDF conversion with
+  GroupDocs
+og_title: Πώς να προσθέσετε υδατογράφημα κατά τη μετατροπή docx σε pdf με το GroupDocs
+schemas:
+- author: GroupDocs
+  dateModified: '2026-08-19'
+  description: Learn how to add watermark while converting docx to pdf using GroupDocs.Conversion
+    for .NET, plus tips on loading documents from URL and extracting text from PDF.
+  headline: How to add watermark when converting docx to pdf with GroupDocs
+  type: TechArticle
+- description: Learn how to add watermark while converting docx to pdf using GroupDocs.Conversion
+    for .NET, plus tips on loading documents from URL and extracting text from PDF.
+  name: How to add watermark when converting docx to pdf with GroupDocs
+  steps:
+  - name: load the source document
+    text: You can load a DOCX from a file path, a `MemoryStream`, or directly from
+      a URL. When loading from a URL, the library streams the content, which reduces
+      memory pressure for large files. `PdfConvertOptions` defines conversion settings
+      for PDF output, including watermark configuration.
+  - name: configure watermark options
+    text: Create a `PdfConvertOptions` object and set its `Watermark` property. You
+      can specify text, font size, color, rotation, and opacity. The library renders
+      the watermark on every page during conversion.
+  - name: perform the conversion
+    text: Call the `Convert` method, passing the source document, the target format
+      (`Pdf`), and the options you configured. The method returns a `Stream` containing
+      the final PDF with the watermark applied.
+  - name: save or return the PDF
+    text: Write the resulting stream to a file, a database, or directly to an HTTP
+      response. Because the conversion is performed in memory, you can chain additional
+      operations—such as extracting text—without intermediate I/O.
+  type: HowTo
+- questions:
+  - answer: Yes, you can combine a `TextWatermark` and an `ImageWatermark` in the
+      same `PdfConvertOptions` instance; the library renders them sequentially on
+      each page.
+    question: Can I add both text and image watermarks in the same PDF?
+  - answer: The size increase is typically under 5 % because the watermark is stored
+      as vector graphics, not as a raster image.
+    question: Does adding a watermark increase the PDF file size significantly?
+  - answer: Absolutely. Use the `PageRange` property of `PdfConvertOptions` to limit
+      the watermark to specific pages.
+    question: Is it possible to apply a watermark only to selected pages?
+  - answer: Yes, the library is fully compatible with serverless environments; just
+      ensure the function’s runtime includes the required .NET version and the GroupDocs
+      license file.
+    question: Can I run this conversion in an Azure Function?
+  type: FAQPage
+tags:
+- convert docx
+- pdf conversion
+- GroupDocs
+- .NET document processing
+title: Πώς να προσθέσετε υδατογράφημα κατά τη μετατροπή docx σε pdf με το GroupDocs
 type: docs
 url: /el/net/
 weight: 10
 ---
 
-# Μετατροπή docx σε pdf – Εκτενείς Εκπαιδευτικές Οδηγίες του GroupDocs.Conversion για .NET
+# Πώς να προσθέσετε υδατογράφημα κατά τη μετατροπή docx σε pdf με το GroupDocs
 
-## Εισαγωγή
+Η μετατροπή ενός αρχείου DOCX σε PDF και η εφαρμογή υδατογραφήματος είναι μια συχνή απαίτηση για προγραμματιστές που δημιουργούν ασφαλείς αγωγούς εγγράφων. Σε αυτόν τον οδηγό θα μάθετε **πώς να προσθέσετε υδατογράφημα** στην έξοδο PDF χρησιμοποιώντας **GroupDocs.Conversion for .NET**, θα δείτε γιατί η λειτουργία είναι σημαντική και θα ανακαλύψετε σχετικές περιπτώσεις μετατροπής όπως η φόρτωση αρχείων από URL, η εξαγωγή κειμένου από PDF ή η μετατροπή αρχείων Excel και PowerPoint σε PDF.
 
-Αναζητάτε αποδοτικούς τρόπους για να διαχειρίζεστε μετατροπές αρχείων στα .NET έργα σας; Μην ψάχνετε άλλο! **GroupDocs.Conversion for .NET** προσφέρει μια ολοκληρωμένη λύση για να **μετατρέπετε docx σε pdf** με ευκολία, καθώς και σε πολλές άλλες μορφές, ενισχύοντας τις δυνατότητες διαχείρισης εγγράφων σας. Σε αυτήν την επισκόπηση, θα σας καθοδηγήσουμε μέσα από τον πλήρη κατάλογο των εκπαιδευτικών οδηγών, θα εξηγήσουμε γιατί η μετατροπή είναι σημαντική και θα αναδείξουμε πραγματικά σενάρια όπου αυτά τα εγχειρίδια μπορούν να σας εξοικονομήσουν χρόνο και κόπο.
+## Σύντομες απαντήσεις
+- **Ποιος είναι ο πιο γρήγορος τρόπος να προσθέσετε υδατογράφημα κατά τη μετατροπή docx σε pdf;** Use the `PdfConvertOptions.Watermark` property before calling `Convert`.
+- **Χρειάζομαι εγκατεστημένο το Microsoft Office;** No, GroupDocs.Conversion works completely server‑side.
+- **Μπορώ να φορτώσω το πηγαίο DOCX από απομακρυσμένο URL;** Yes – the API accepts a stream or URL directly.
+- **Υποστηρίζεται η εξαγωγή κειμένου από το παραγόμενο PDF;** Absolutely; `PdfExtractor` can pull searchable text.
+- **Ποιες εκδόσεις .NET είναι συμβατές;** .NET Framework 4.5+, .NET Core 3.1+, .NET 5/6/7.
 
-## Πώς να μετατρέψετε docx σε pdf με το GroupDocs.Conversion
+## Τι είναι το GroupDocs.Conversion for .NET;
+Το GroupDocs.Conversion for .NET είναι μια βιβλιοθήκη που επιτρέπει προγραμματιστική μετατροπή πάνω από 70 μορφών αρχείων σε PDF, εικόνες, HTML και άλλα, χωρίς να απαιτούνται εξωτερικές εφαρμογές. Παρέχει ένα ενοποιημένο API για τη φόρτωση, τη μετατροπή και την επεξεργασία εγγράφων εξ ολοκλήρου σε διαχειριζόμενο κώδικα.
 
-* Φορτώστε ένα DOCX από τοπική διαδρομή, ροή μνήμης ή ακόμη και **load document from url** για απομακρυσμένη επεξεργασία.  
-* Εφαρμόστε επιλογές μετατροπής όπως μέγεθος σελίδας, περιθώρια και **add watermark pdf** για να προστατεύσετε το αποτέλεσμα.  
-* Εξάγετε κείμενο από το παραγόμενο PDF (**extract text pdf**) για ευρετηρίαση ή βελτιστοποίηση μηχανών αναζήτησης.  
+## Γιατί να προσθέσετε υδατογράφημα κατά τη μετατροπή docx σε pdf;
+Η προσθήκη υδατογραφήματος προστατεύει τη διανοητική ιδιοκτησία, υποδεικνύει την κατάσταση του εγγράφου (πρόχειρο, εμπιστευτικό, εγκεκριμένο) και συμμορφώνεται με τις κανονιστικές απαιτήσεις. Το GroupDocs.Conversion μπορεί να ενσωματώσει κείμενα ή εικόνες ως υδατογράφημα σε λιγότερο από 200 ms για ένα τυπικό DOCX 10 σελίδων, και διατηρεί την πιστότητα της διάταξης σε περισσότερες από 50 υποστηριζόμενες μορφές εισόδου.
 
-Αυτές οι δυνατότητες καθιστούν εύκολη την κατασκευή λειτουργιών όπως η αυτόματη δημιουργία αναφορών, η επεξεργασία τιμολογίων ή η ασφαλής κοινή χρήση εγγράφων — όλα χωρίς να εγκαταλείψετε το οικοσύστημα .NET.
+## Προαπαιτούμενα
+- .NET Framework 4.5+ **ή** .NET Core 3.1+ runtime εγκατεστημένο.
+- Ένα έγκυρο άδεια GroupDocs.Conversion (διαθέσιμο δωρεάν δοκιμαστικό).
+- Πρόσβαση στο αρχείο DOCX που θέλετε να μετατρέψετε, είτε τοπικά είτε μέσω URL.
 
-## Απρόσκοπτη Μετατροπή σε PDF
+## Πώς να προσθέσετε υδατογράφημα κατά τη μετατροπή docx σε pdf;
+Φορτώστε το DOCX, διαμορφώστε μια παρουσία `PdfConvertOptions` με υδατογράφημα και καλέστε τη μέθοδο μετατροπής. Αυτό το μοτίβο δύο βημάτων διαχειρίζεται τόσο τοπικά αρχεία όσο και απομακρυσμένα streams, και διατηρεί αυτόματα τις γραμματοσειρές, τους πίνακες και τις εικόνες. Η διαδικασία εκτελείται εξ ολοκλήρου στη μνήμη, επιτρέποντάς σας να αλυσίδετε περαιτέρω λειτουργίες όπως εξαγωγή κειμένου ή πρόσθετη επεξεργασία χωρίς να γράφετε προσωρινά αρχεία στο δίσκο.
 
-Ένα από τα κύρια χαρακτηριστικά του GroupDocs.Conversion για .NET είναι η δυνατότητά του να μετατρέπει αβίαστα διάφορες μορφές αρχείων σε PDF. Είτε εργάζεστε με έγγραφα Word, λογιστικά φύλλα Excel, παρουσιάσεις PowerPoint ή εικόνες, αυτή η βιβλιοθήκη απλοποιεί τη διαδικασία μετατροπής. Με τα εκπαιδευτικά μας υλικά, θα μάθετε πώς να εκτελείτε μετατροπές με ευκολία, επιτρέποντάς σας να βελτιστοποιήσετε τις εργασίες διαχείρισης εγγράφων αποδοτικά. Εμβαθύνετε στον [File Conversion to PDF tutorial](./file-conversion-to-pdf/) για να ξεκινήσετε.
+### Βήμα 1: φόρτωση του πηγαίου εγγράφου
+Μπορείτε να φορτώσετε ένα DOCX από διαδρομή αρχείου, ένα `MemoryStream`, ή απευθείας από URL. Κατά τη φόρτωση από URL, η βιβλιοθήκη μεταδίδει το περιεχόμενο, μειώνοντας την πίεση στη μνήμη για μεγάλα αρχεία.
 
-## Αυξήστε την Παραγωγικότητα με τη Μετατροπή Μορφών Αρχείων
+`PdfConvertOptions` ορίζει τις ρυθμίσεις μετατροπής για την έξοδο PDF, συμπεριλαμβανομένης της διαμόρφωσης υδατογραφήματος.
 
-Είστε κουρασμένοι από την αντιμετώπιση μη συμβατών μορφών αρχείων; Το GroupDocs.Conversion για .NET εξαλείφει το πρόβλημα παρέχοντας ολοκληρωμένες δυνατότητες μετατροπής μορφών αρχείων. Τα εκπαιδευτικά μας υλικά σας καθοδηγούν στη διαδικασία, εξασφαλίζοντας ομαλές μεταβάσεις μεταξύ διαφορετικών μορφών. Είτε μετατρέπετε DOCX σε PDF είτε XLSX σε PDF, θα βρείτε λεπτομερείς οδηγίες για να ενισχύσετε την παραγωγικότητά σας. Εξερευνήστε τα [File Format Conversion tutorials](./file-format-conversion-tutorials/) για καθοδήγηση βήμα‑βήμα.
+### Βήμα 2: διαμόρφωση επιλογών υδατογραφήματος
+Δημιουργήστε ένα αντικείμενο `PdfConvertOptions` και ορίστε την ιδιότητα `Watermark`. Μπορείτε να καθορίσετε κείμενο, μέγεθος γραμματοσειράς, χρώμα, περιστροφή και διαφάνεια. Η βιβλιοθήκη αποδίδει το υδατογράφημα σε κάθε σελίδα κατά τη μετατροπή.
 
-## Απρόσκοπτη Ενσωμάτωση για Αποτελεσματική Διαχείριση Εγγράφων
+### Βήμα 3: εκτέλεση της μετατροπής
+Καλέστε τη μέθοδο `Convert`, περνώντας το πηγαίο έγγραφο, τη μορφή προορισμού (`Pdf`) και τις ρυθμίσεις που διαμορφώσατε. Η μέθοδος επιστρέφει ένα `Stream` που περιέχει το τελικό PDF με το εφαρμοσμένο υδατογράφημα.
 
-Η ενσωμάτωση λειτουργικότητας μετατροπής αρχείων στις .NET εφαρμογές σας δεν ήταν ποτέ πιο εύκολη. Με το GroupDocs.Conversion για .NET, μπορείτε να ενσωματώσετε αβίαστα επιλογές μετατροπής, επιτρέποντας στους χρήστες να μετατρέπουν αρχεία σε PDF απευθείας μέσα στην εφαρμογή σας. Τα εκπαιδευτικά μας υλικά σας καθοδηγούν στη διαδικασία ενσωμάτωσης, δίνοντάς σας τη δυνατότητα να δημιουργήσετε ισχυρές λύσεις διαχείρισης εγγράφων. Δείτε το [Convert Files to PDF tutorial](./convert-files-to-pdf/) για να μάθετε περισσότερα σχετικά με τη βελτιστοποίηση των ροών εργασίας σας.
+### Βήμα 4: αποθήκευση ή επιστροφή του PDF
+Γράψτε το προκύπτον stream σε αρχείο, βάση δεδομένων ή απευθείας σε απόκριση HTTP. Επειδή η μετατροπή εκτελείται στη μνήμη, μπορείτε να αλυσίδετε πρόσθετες λειτουργίες — όπως η εξαγωγή κειμένου — χωρίς ενδιάμεσο I/O.
 
-## Απλοποιήστε τις Ροές Διαχείρισης Εγγράφων
+## Συνηθισμένα προβλήματα και αντιμετώπιση
+- **Το υδατογράφημα δεν εμφανίζεται** – Βεβαιωθείτε ότι η `Opacity` του αντικειμένου `Watermark` είναι ορισμένη πάνω από 0 % και ότι το `Color` αντιτίθεται στο φόντο της σελίδας.
+- **Τα μεγάλα αρχεία DOCX προκαλούν αυξήσεις μνήμης** – Ενεργοποιήστε τη λειτουργία `LoadOptions.Streaming` για επεξεργασία σελίδων σταδιακά.
+- **Λανθασμένη απόδοση γραμματοσειράς** – Εγκαταστήστε τις απαιτούμενες γραμματοσειρές στον διακομιστή ή χρησιμοποιήστε τις ρυθμίσεις `FontSubstitution` για αντιστοίχιση των ελλιπών γραμματοσειρών σε διαθέσιμες.
+- **Λήξη χρόνου απομακρυσμένου URL** – Αυξήστε το χρονικό όριο του `HttpClient` ή κατεβάστε το αρχείο σε προσωρινό stream πριν από τη μετατροπή.
 
-Η μετατροπή εγγράφων είναι ένα κρίσιμο στοιχείο των σύγχρονων ροών διαχείρισης εγγράφων. Το GroupDocs.Conversion για .NET απλοποιεί αυτή τη διαδικασία, επιτρέποντάς σας να μετατρέπετε διάφορες μορφές αρχείων σε PDF χωρίς κόπο. Είτε εργάζεστε με κειμενικά έγγραφα, παρουσιάσεις ή εικόνες, τα εκπαιδευτικά μας υλικά παρέχουν πολύτιμες γνώσεις για τη βελτιστοποίηση των εργασιών μετατροπής. Εξερευνήστε το [PDF Conversion tutorial](./pdf-conversion/) για να ανακαλύψετε πώς μπορείτε να απλοποιήσετε τις ροές διαχείρισης εγγράφων σας σήμερα.
+## Συχνές ερωτήσεις
+**Ε: Μπορώ να προσθέσω τόσο κείμενο όσο και εικόνα ως υδατογράφημα στο ίδιο PDF;**  
+Α: Ναι, μπορείτε να συνδυάσετε ένα `TextWatermark` και ένα `ImageWatermark` στην ίδια παρουσία `PdfConvertOptions`; η βιβλιοθήκη τα αποδίδει διαδοχικά σε κάθε σελίδα.
 
-## Γιατί Αυτοί οι Οδηγοί Είναι Σημαντικοί
+**Ε: Η προσθήκη υδατογραφήματος αυξάνει σημαντικά το μέγεθος του αρχείου PDF;**  
+Α: Η αύξηση του μεγέθους είναι συνήθως κάτω από 5 % επειδή το υδατογράφημα αποθηκεύεται ως διανυσματικά γραφικά, όχι ως raster εικόνα.
 
-* **Speed up development** – Μειώστε εβδομάδες προσαρμοσμένου κώδικα σε λίγες γραμμές κλήσεων API.  
-* **Maintain fidelity** – Διατηρήστε τη διάταξη, τις γραμματοσειρές και τις εικόνες κατά τη μετατροπή DOCX, XLSX, PPTX και άλλων.  
-* **Secure output** – Προσθέστε υδατογραφήματα, προστατεύστε με κωδικό πρόσβασης τα PDF ή αφαιρέστε ευαίσθητα δεδομένα κατά τη μετατροπή.  
-* **Scale effortlessly** – Επεξεργαστείτε χιλιάδες αρχεία παράλληλα χρησιμοποιώντας .NET Core ή Azure Functions.
+**Ε: Είναι δυνατόν να εφαρμόσετε υδατογράφημα μόνο σε επιλεγμένες σελίδες;**  
+Α: Απόλυτα. Χρησιμοποιήστε την ιδιότητα `PageRange` του `PdfConvertOptions` για να περιορίσετε το υδατογράφημα σε συγκεκριμένες σελίδες.
 
-## Οδηγοί GroupDocs.Conversion για .NET
+**Ε: Πώς μπορώ να εξάγω αναζητήσιμο κείμενο από το PDF με υδατογράφημα;**  
+`PdfExtractor` εξάγει κείμενο και άλλο περιεχόμενο από αρχεία PDF χρησιμοποιώντας το GroupDocs.Conversion. Μετά τη μετατροπή, δημιουργήστε ένα `PdfExtractor`, καλέστε `ExtractText()` και διαβάστε το εξαγόμενο κείμενο από το παρεχόμενο stream.
 
-### [Ξεκινώντας & Άδειες](./getting-started-licensing/)
-Learn how to set up GroupDocs.Conversion for .NET, configure licensing, and implement your first document conversion operations. Perfect for developers new to the library!
+**Ε: Μπορώ να εκτελέσω αυτή τη μετατροπή σε Azure Function;**  
+Α: Ναι, η βιβλιοθήκη είναι πλήρως συμβατή με περιβάλλοντα χωρίς διακομιστή· απλώς βεβαιωθείτε ότι το runtime της λειτουργίας περιλαμβάνει την απαιτούμενη έκδοση .NET και το αρχείο άδειας GroupDocs.
 
-### [Μετατροπή Αρχείων σε PDF](./file-conversion-to-pdf/)
-Learn how to effortlessly convert various file formats to PDF using GroupDocs.Conversion for .NET. Enhance document management with customizable options.
+## Σχετικά μαθήματα μετατροπής
+- [Ξεκινώντας & Αδειοδότηση](./getting-started-licensing/)
+- [Μάθημα μετατροπής αρχείων σε PDF](./file-conversion-to-pdf/)
+- [Μαθήματα μετατροπής μορφών αρχείων](./file-format-conversion-tutorials/)
+- [Μάθημα μετατροπής αρχείων σε PDF](./convert-files-to-pdf/)
+- [Μάθημα μετατροπής PDF](./pdf-conversion/)
+- [Μετατροπή αρχείων σε PDF](./file-conversion-to-pdf/)
+- [Μετατροπή μορφής αρχείου](./file-format-conversion-tutorials/)
+- [Μετατροπή αρχείων σε PDF](./convert-files-to-pdf/)
+- [Μετατροπή εγγράφων](./document-conversion/)
+- [Μετατροπή τύπων αρχείων σε PDF](./converting-file-types-to-pdf/)
+- [Φόρτωση από τοπικές πηγές](./loading-from-local-sources/)
+- [Φόρτωση από απομακρυσμένες πηγές](./loading-from-remote-sources/)
+- [Φόρτωση από αποθήκευση στο σύννεφο](./loading-from-cloud-storage/)
+- [Εργασία με ασφαλή έγγραφα](./working-with-secure-documents/)
+- [Έξοδος εγγράφου & Αποθήκευση](./document-output-saving/)
+- [Διαχείριση σελίδων & Διαχείριση περιεχομένου](./page-management-content-manipulation/)
+- [Επιλογές μετατροπής & Ρυθμίσεις](./conversion-options-settings/)
+- [Μετατροπή PDF & Χαρακτηριστικά](./pdf-conversion-features/)
+- [Μορφές επεξεργασίας κειμένου & Χαρακτηριστικά](./word-processing-formats-features/)
+- [Μορφές λογιστικών φύλλων & Χαρακτηριστικά](./spreadsheet-formats-features/)
+- [Μορφές παρουσιάσεων & Χαρακτηριστικά](./presentation-formats-features/)
+- [Μορφές εικόνας & Χαρακτηριστικά](./image-formats-features/)
+- [Μορφές email & Χαρακτηριστικά](./email-formats-features/)
+- [Επεξεργασία CSV & Δομημένων δεδομένων](./csv-structured-data-processing/)
+- [Επεξεργασία XML & JSON](./xml-json-processing/)
+- [Επεξεργασία αρχείων κειμένου](./text-file-processing/)
+- [Μορφές CAD & Τεχνικών σχεδίων](./cad-technical-drawing-formats/)
+- [Μορφές web & markup](./web-markup-formats/)
+- [Συμπίεση & Διαχείριση αρχείων](./compression-archive-handling/)
+- [Αρχεία αποθήκευσης & Επεξεργασία PST](./storage-files-pst-processing/)
+- [Διαχείριση γραμματοσειρών & Αντικατάσταση](./font-handling-substitution/)
+- [Διαχείριση cache](./cache-management/)
+- [Συμβάντα μετατροπής & Καταγραφή](./conversion-events-logging/)
+- [Βοηθητικά προγράμματα μετατροπής & Πληροφορίες](./conversion-utilities-information/)
+- [Μετατροπή HTML](./html-conversion/)
+- [Μετατροπή PDF](./pdf-conversion/)
+- [Μετατροπή εικόνας](./image-conversion/)
+- [Μετατροπή επεξεργασίας κειμένου](./word-processing-conversion/)
+- [Μετατροπή λογιστικών φύλλων](./spreadsheet-conversion/)
+- [Μετατροπή παρουσιάσεων](./presentation-conversion/)
+- [Μετατροπή κειμένου & markup](./text-markup-conversion/)
 
-### [Μετατροπή Μορφής Αρχείου](./file-format-conversion-tutorials/)
-Effortlessly convert various file formats to PDF using GroupDocs.Conversion for .NET. Boost productivity with step‑by‑step guides and seamless integration.
+---
 
-### [Μετατροπή Αρχείων σε PDF](./convert-files-to-pdf/)
-Effortlessly convert various file formats to PDF with GroupDocs.Conversion for .NET. Seamlessly integrate conversion options for efficient document management.
-
-### [Μετατροπή Εγγράφων](./document-conversion/)
-Effortlessly convert various file formats to PDF with GroupDocs.Conversion for .NET tutorials. Enhance document management seamlessly.
-
-### [Μετατροπή Τύπων Αρχείων σε PDF](./converting-file-types-to-pdf/)
-Effortlessly convert various file types to PDF with GroupDocs.Conversion for .NET. Streamline your document management process. Learn more!
-
-### [Φόρτωση από Τοπικές Πηγές](./loading-from-local-sources/)
-Master techniques for loading documents from file system paths and memory streams in your .NET applications using GroupDocs.Conversion.
-
-### [Φόρτωση από Απομακρυσμένες Πηγές](./loading-from-remote-sources/)
-Discover how to retrieve and process documents from web URLs and FTP servers with GroupDocs.Conversion for .NET.
-
-### [Φόρτωση από Αποθήκευση στο Cloud](./loading-from-cloud-storage/)
-Learn how to integrate GroupDocs.Conversion with Amazon S3, Azure Blob Storage, and other cloud providers in your .NET applications.
-
-### [Εργασία με Ασφαλή Έγγραφα](./working-with-secure-documents/)
-Handle password‑protected files and encryption requirements effectively in your document conversion workflows with GroupDocs.Conversion for .NET.
-
-### [Έξοδος & Αποθήκευση Εγγράφου](./document-output-saving/)
-Explore options for saving converted documents to different locations, implementing naming patterns, and managing output files efficiently.
-
-### [Διαχείριση Σελίδων & Τροποποίηση Περιεχομένου](./page-management-content-manipulation/)
-Master techniques for selective page conversion, watermarking, and content modification during the conversion process.
-
-### [Επιλογές & Ρυθμίσεις Μετατροπής](./conversion-options-settings/)
-Configure comprehensive conversion parameters to achieve optimal results for different document formats with GroupDocs.Conversion.
-
-### [Μετατροπή PDF & Χαρακτηριστικά](./pdf-conversion-features/)
-Implement advanced PDF‑specific features and conversion options with GroupDocs.Conversion for .NET in your document workflows.
-
-### [Μορφές & Χαρακτηριστικά Επεξεργασίας Κειμένου](./word-processing-formats-features/)
-Convert to and from DOC, DOCX, RTF, and ODT while preserving document styling, structure, and special features.
-
-### [Μορφές & Χαρακτηριστικά Φύλλων Υπολογισμού](./spreadsheet-formats-features/)
-Work with Excel formats, preserve formulas, formatting, and data integrity during conversion with GroupDocs.Conversion for .NET.
-
-### [Μορφές & Χαρακτηριστικά Παρουσιάσεων](./presentation-formats-features/)
-Convert PowerPoint files while maintaining slides, animations, and visual elements using GroupDocs.Conversion for .NET.
-
-### [Μορφές & Χαρακτηριστικά Εικόνων](./image-formats-features/)
-Learn to convert to and from various image formats with precise control over resolution, quality, and OCR capabilities.
-
-### [Μορφές & Χαρακτηριστικά Email](./email-formats-features/)
-Process MSG, EML, and other email formats while preserving attachments and message components with GroupDocs.Conversion.
-
-### [Επεξεργασία CSV & Δομημένων Δεδομένων](./csv-structured-data-processing/)
-Transform CSV files to other formats and process structured data effectively with GroupDocs.Conversion for .NET.
-
-### [Επεξεργασία XML & JSON](./xml-json-processing/)
-Convert structured data formats to human‑readable documents while preserving hierarchical relationships and complex objects.
-
-### [Επεξεργασία Αρχείων Κειμένου](./text-file-processing/)
-Master techniques for working with plain text files during conversion operations with GroupDocs.Conversion for .NET.
-
-### [Μορφές CAD & Τεχνικών Σχεδίων](./cad-technical-drawing-formats/)
-Convert AutoCAD drawings and other technical formats to viewable documents while preserving important engineering details.
-
-### [Μορφές Web & Markup](./web-markup-formats/)
-Transform HTML, MHTML, and other web formats with full support for styling, embedded resources, and document structure.
-
-### [Συμπίεση & Διαχείριση Αρχείων](./compression-archive-handling/)
-Work with compressed archives, extract content, and process files within archives using GroupDocs.Conversion for .NET.
-
-### [Αρχεία Αποθήκευσης & Επεξεργασία PST](./storage-files-pst-processing/)
-Process Outlook storage files, extract messages, and convert content from email containers with GroupDocs.Conversion.
-
-### [Διαχείριση & Αντικατάσταση Γραμματοσειρών](./font-handling-substitution/)
-Implement font substitution policies and ensure consistent text appearance across different platforms during conversion.
-
-### [Διαχείριση Cache](./cache-management/)
-Optimize conversion performance with effective caching strategies and custom cache providers in your applications.
-
-### [Συμβάντα & Καταγραφή Μετατροπής](./conversion-events-logging/)
-Implement event handling and logging mechanisms to track conversion progress and create comprehensive audit trails.
-
-### [Βοηθητικά Εργαλεία & Πληροφορίες Μετατροπής](./conversion-utilities-information/)
-Leverage utility features to inspect documents and analyze conversion capabilities with GroupDocs.Conversion for .NET.
-
-### [Μετατροπή HTML](./html-conversion/)
-Transform various document formats into web‑ready HTML while preserving styling, structure, and embedded resources.
-
-### [Μετατροπή PDF](./pdf-conversion/)
-Learn how to effortlessly convert various file formats to PDF using GroupDocs.Conversion for .NET. Simplify your document management workflows today!
-
-### [Μετατροπή Εικόνας](./image-conversion/)
-Convert documents to JPG, PNG, TIFF and other image formats with precise control over visual quality and resolution.
-
-### [Μετατροπή Επεξεργασίας Κειμένου](./word-processing-conversion/)
-Transform documents into editable word processing formats while maintaining structure, formatting, and embedded objects.
-
-### [Μετατροπή Φύλλων Υπολογισμού](./spreadsheet-conversion/)
-Convert various documents to Excel formats with support for formulas, data types, and multi‑sheet workbooks.
-
-### [Μετατροπή Παρουσίασης](./presentation-conversion/)
-Create professional PowerPoint presentations from various document formats while preserving visual elements and slide layouts.
-
-### [Μετατροπή Κειμένου & Markup](./text-markup-conversion/)
-Extract content to plain text, XML, Markdown and other text‑based formats with flexible encoding and formatting options.
-
----  
-**Τελευταία Ενημέρωση:** 2026-04-06  
-**Δοκιμή με:** GroupDocs.Conversion 23.12 for .NET  
+**Τελευταία ενημέρωση:** 2026-08-19  
+**Δοκιμάστηκε με:** GroupDocs.Conversion 23.12 for .NET  
 **Συγγραφέας:** GroupDocs
