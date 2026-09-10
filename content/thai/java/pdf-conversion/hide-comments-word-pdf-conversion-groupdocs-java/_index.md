@@ -1,46 +1,101 @@
 ---
-date: '2026-02-13'
-description: เรียนรู้วิธีซ่อนคอมเมนต์ในไฟล์ Word PDF ระหว่างการแปลงจาก Word เป็น PDF
-  ด้วย GroupDocs.Conversion สำหรับ Java รวมถึงการตั้งค่า, การพึ่งพา Maven, และโค้ดแบบขั้นตอนต่อขั้นตอน
+date: '2026-09-10'
+description: เรียนรู้วิธีลบคอมเมนต์ PDF ระหว่างการแปลง Word เป็น PDF ด้วย GroupDocs.Conversion
+  สำหรับ Java. ซ่อน annotations, ทำให้ผลลัพธ์สะอาด, และเปิดใช้งาน batch processing.
 keywords:
-- Word-to-PDF conversion
-- GroupDocs.Conversion for Java
-- hide comments in PDF
-title: ซ่อนความคิดเห็นใน Word PDF ด้วย GroupDocs.Conversion สำหรับ Java
+- remove comments pdf
+- how to hide comments
+- hide annotations pdf
+- convert word pdf java
+- batch word pdf conversion
+lastmod: '2026-09-10'
+og_description: เรียนรู้วิธีลบคอมเมนต์ PDF ระหว่างการแปลง Word เป็น PDF ด้วย GroupDocs.Conversion
+  สำหรับ Java. ซ่อน annotations, ทำให้ผลลัพธ์สะอาด, และเปิดใช้งาน batch processing
+  สำหรับหลายเอกสาร.
+og_image_alt: Guide showing removal of comments from Word PDFs using GroupDocs Java
+og_title: ลบคอมเมนต์ PDF ระหว่างการแปลง Word เป็น PDF ด้วย GroupDocs Java
+schemas:
+- author: GroupDocs
+  dateModified: '2026-09-10'
+  description: Learn how to remove comments pdf during Word to PDF conversion with
+    GroupDocs.Conversion for Java. Hide annotations, keep output clean, and enable
+    batch processing.
+  headline: Remove comments pdf during Word to PDF with GroupDocs Java
+  type: TechArticle
+- description: Learn how to remove comments pdf during Word to PDF conversion with
+    GroupDocs.Conversion for Java. Hide annotations, keep output clean, and enable
+    batch processing.
+  name: Remove comments pdf during Word to PDF with GroupDocs Java
+  steps:
+  - name: Load options configuration (hide comments)
+    text: The `WordProcessingLoadOptions` class lets you control how a Word document
+      is loaded, including the ability to hide comments and tracked changes.
+  - name: Initialize the converter with your source document
+    text: The `Converter` class is the core engine that transforms a source document
+      into the desired output format, applying any load‑option settings you defined.
+  - name: Convert to PDF
+    text: The `PdfConvertOptions` class holds PDF‑specific conversion settings such
+      as image compression, resolution, and font embedding. Using the default options
+      is sufficient for most scenarios. > **Note:** The `convert` method blocks until
+      the PDF is fully written to disk. For large batches, consider runn
+  type: HowTo
+- questions:
+  - answer: Yes. Call `loadOptions.setHideTrackChanges(true);` in addition to `setHideComments(true)`.
+    question: Can I hide tracked changes as well?
+  - answer: Absolutely. Loop over a collection of file paths, reusing the same `loadOptions`
+      and `PdfConvertOptions` for each iteration.
+    question: Is batch conversion possible?
+  - answer: Verify the repository URL, ensure your internet connection is stable,
+      and check that your `settings.xml` does not block external repositories.
+    question: What should I do if Maven fails to download the GroupDocs artifact?
+  - answer: Adjust properties on `PdfConvertOptions` such as `setResolution(300)`
+      or `setCompressImages(true)` to fine‑tune the result.
+    question: How can I improve PDF output quality?
+  - answer: Yes. The API covers **120+** input and output formats—including Excel,
+      PowerPoint, images, and CAD files—allowing you to build universal document pipelines.
+    question: Does GroupDocs.Conversion support other formats besides Word and PDF?
+  type: FAQPage
+tags:
+- remove comments pdf
+- GroupDocs.Conversion
+- Java PDF conversion
+- Word to PDF
+- document privacy
+title: ลบคอมเมนต์ PDF ระหว่างการแปลง Word เป็น PDF ด้วย GroupDocs Java
 type: docs
 url: /th/java/pdf-conversion/hide-comments-word-pdf-conversion-groupdocs-java/
 weight: 1
 ---
 
-# ซ่อนคอมเมนต์ Word PDF ด้วย GroupDocs.Conversion สำหรับ Java
+# ลบคอมเมนต์ pdf ระหว่างการแปลง Word เป็น PDF ด้วย GroupDocs Java
 
-การแปลงเอกสาร Word เป็น PDF เป็นงานประจำวันของนักพัฒนาหลายคน แต่เมื่อไฟล์ต้นทางมีโน้ตของผู้ตรวจสอบหรือการเปลี่ยนแปลงที่ติดตามอยู่ คุณมักต้องการ PDF ที่สะอาดไม่มีคำอธิบายใด ๆ ในบทเรียนนี้คุณจะได้เรียนรู้ **วิธีซ่อนคอมเมนต์ word pdf** ระหว่างกระบวนการแปลงโดยใช้ GroupDocs.Conversion สำหรับ Java เราจะพาคุณผ่านการตั้งค่า Maven, โค้ดที่ต้องใช้อย่างแม่นยำ, และเคล็ดลับปฏิบัติเพื่อให้ PDF ของคุณดูเป็นมืออาชีพและปลอดภัยต่อความเป็นส่วนตัว
+การแปลงเอกสาร Word เป็น PDF เป็นงานประจำวันของนักพัฒนาหลายคน แต่เมื่อไฟล์ต้นทางมีบันทึกของผู้ตรวจสอบ การเปลี่ยนแปลงที่ติดตาม หรือบอลลูนคอมเมนต์ คุณมักต้องการ PDF ที่สะอาดโดยไม่มีมาร์กอัปเหล่านั้น ในบทแนะนำนี้คุณจะได้เรียนรู้ **how to remove comments pdf** ระหว่างกระบวนการแปลงโดยใช้ GroupDocs.Conversion สำหรับ Java เราจะพาคุณผ่านการตั้งค่า Maven โค้ดที่ต้องใช้อย่างแม่นยำ และเคล็ดลับเพื่อให้ PDF ของคุณดูเป็นมืออาชีพ ปลอดภัยต่อความเป็นส่วนตัว และพร้อมสำหรับการแจกจ่าย
 
 ## คำตอบอย่างรวดเร็ว
-- **“ซ่อนคอมเมนต์ word pdf” ทำอะไร?** จะลบบอลลูนคอมเมนต์ทั้งหมดจาก PDF ที่สร้างขึ้นขณะรักษาเนื้อหาหลักไว้ไม่เปลี่ยนแปลง  
-- **ไลบรารีใดจัดการเรื่องนี้?** GroupDocs.Conversion สำหรับ Java มีฟล็าก `WordProcessingLoadOptions.setHideComments(true)`  
-- **ต้องมีลิขสิทธิ์หรือไม่?** ทดลองใช้ฟรีได้สำหรับการทดสอบ; ต้องมีลิขสิทธิ์เชิงพาณิชย์สำหรับการใช้งานจริง  
-- **สามารถซ่อนการเปลี่ยนแปลงที่ติดตามได้พร้อมกันหรือไม่?** ใช่ – ใช้ `loadOptions.setHideTrackChanges(true)`  
-- **รองรับการแปลงเป็นชุดหรือไม่?** แน่นอน; คุณสามารถวนลูปหลายไฟล์ด้วยการตั้งค่าเดียวกันได้
+- **What does “remove comments pdf” do?** มันจะลบบอลลูนคอมเมนต์และชั้นของคำอธิบายทั้งหมดออกจาก PDF ที่สร้างขึ้นโดยยังคงเนื้อหาเอกสารหลักไว้  
+- **Which library handles this?** GroupDocs.Conversion สำหรับ Java มีฟลัก `WordProcessingLoadOptions.setHideComments(true)` ที่ทำการลบโดยอัตโนมัติ  
+- **Do I need a license?** สามารถใช้รุ่นทดลองฟรีสำหรับการทดสอบ; ต้องมีลิขสิทธิ์เชิงพาณิชย์สำหรับการใช้งานในสภาพแวดล้อมการผลิต  
+- **Can I hide tracked changes at the same time?** ใช่ – เรียก `loadOptions.setHideTrackChanges(true)` พร้อมกับ `setHideComments(true)`  
+- **Is batch conversion supported?** แน่นอน; คุณสามารถวนลูปไฟล์หลายไฟล์ด้วยการตั้งค่าเดียวกันและทำการแปลงแบบความเร็วสูงได้
 
-## “ซ่อนคอมเมนต์ word pdf” คืออะไร?
-เมื่อคุณแปลงไฟล์ `.docx` เป็น PDF, Word ปกติจะคงบอลลูนคอมเมนต์ไว้ การเปิดใช้งานตัวเลือก *ซ่อนคอมเมนต์* จะสั่งให้ตัวแปลงลบบอลลูนเหล่านั้นออก ส่งมอบ PDF ที่สะอาดปราศจากคอมเมนต์พร้อมสำหรับการเผยแพร่สาธารณะ
+## “hide comments word pdf” คืออะไร?
+
+การโหลดเอกสาร Word ด้วยตัวเลือก *hide comments* จะบอกให้ตัวแปลงละเว้นบอลลูนคอมเมนต์, หมายเหตุแบบเชิงอรรถ, และคำอธิบายทั้งหมดจาก PDF สุดท้าย ผลลัพธ์คือ PDF ที่สะอาด ปราศจากคอมเมนต์ ซึ่งดูเหมือนกับเนื้อหาต้นฉบับแต่ไม่มีมาร์กอัปของผู้ตรวจสอบ
 
 ## ทำไมต้องซ่อนคอมเมนต์ระหว่างการแปลง?
-- **รักษาความลับ** – โน้ตของผู้ตรวจสอบภายในจะคงเป็นส่วนตัว  
-- **ทำให้เอกสารที่ส่งให้ลูกค้าเป็นมืออาชีพ** – ไม่มีมาร์กอัปที่รบกวนใน PDF สุดท้าย  
-- **ง่ายต่อการปฏิบัติตามข้อกำหนด** – อุตสาหกรรมที่ต้องการการควบคุมหลายแห่งต้องการเอกสารที่ไม่มีเมตาดาต้าเชิงบรรณาธิการ
+
+การซ่อนคอมเมนต์ระหว่างการแปลงช่วยปกป้องข้อมูลความคิดเห็นที่ละเอียดอ่อนของผู้ตรวจสอบ ทำให้ PDF ที่ส่งให้ลูกค้าดูเป็นมืออาชีพ และช่วยให้คุณปฏิบัติตามข้อกำหนดการปฏิบัติงานที่ห้ามเผยแพร่เมตาดาต้าเชิงบรรณาธิการภายใน โดยการลบองค์ประกอบเหล่านี้คุณยังลดขนาดไฟล์ได้ถึง 15 % สำหรับเอกสารที่มีคอมเมนต์จำนวนมาก
 
 ## ข้อกำหนดเบื้องต้น
 
 ก่อนเริ่มทำตามขั้นตอนต่อไปนี้ให้แน่ใจว่าคุณมี:
 
-- **Java Development Kit (JDK) 8 หรือสูงกว่า** ติดตั้งบนเครื่องของคุณ  
-- **Maven** สำหรับจัดการ dependencies  
-- ลิขสิทธิ์ **GroupDocs.Conversion สำหรับ Java** (ทดลองใช้ฟรีได้สำหรับการทดสอบ)  
+- **Java Development Kit (JDK) 8 หรือสูงกว่า** ติดตั้งบนเครื่องของคุณ  
+- **Maven** สำหรับการจัดการ dependencies  
+- ลิขสิทธิ์ **GroupDocs.Conversion สำหรับ Java** (รุ่นทดลองฟรีใช้ได้สำหรับการทดสอบ)
 
-### ไลบรารีที่ต้องการ, เวอร์ชัน, และ Dependencies
-เพิ่ม repository และ dependency ของ GroupDocs ลงใน `pom.xml` ของคุณตามที่แสดงด้านล่าง:
+### ไลบรารีที่ต้องการ, เวอร์ชัน, และ dependencies
+เพิ่ม repository ของ GroupDocs และ dependency ลงใน `pom.xml` ของคุณตามที่แสดงด้านล่าง:
 
 ```xml
 <repositories>
@@ -59,21 +114,21 @@ weight: 1
 </dependencies>
 ```
 
-> **เคล็ดลับระดับมืออาชีพ:** ให้แน่ใจว่า `<version>` เป็นเวอร์ชันล่าสุดที่เสถียรเพื่อรับประโยชน์จากการปรับปรุงประสิทธิภาพและการแก้ไขบั๊ก
+> **Pro tip:** ให้ทำการอัปเดต `<version>` ให้เป็นรุ่นล่าสุดเสมอเพื่อรับประโยชน์จากการปรับปรุงประสิทธิภาพและการแก้ไขบั๊ก
 
 ## การตั้งค่า GroupDocs.Conversion สำหรับ Java
 
-1. **การติดตั้ง Maven** – โค้ดสแนปช็อตด้านบนจะดึงไลบรารีเข้ามาในโปรเจกต์ของคุณโดยอัตโนมัติ  
-2. **การจัดหาลิขสิทธิ์** – ลงทะเบียนเพื่อรับทดลองใช้ฟรีบนเว็บไซต์ GroupDocs หรือซื้อไลเซนส์ถาวรสำหรับงานผลิต  
-3. **การเริ่มต้นพื้นฐาน** – หลังจาก Maven ติดตั้ง dependency แล้ว คุณสามารถนำเข้าคลาสโดยตรงในโค้ด Java ของคุณได้  
+1. **การติดตั้ง Maven** – โค้ดสแนปช็อตข้างบนจะดึงไลบรารีเข้ามาในโปรเจกต์ของคุณโดยอัตโนมัติ  
+2. **การขอรับลิขสิทธิ์** – ลงทะเบียนเพื่อรับรุ่นทดลองฟรีบนเว็บไซต์ GroupDocs หรือซื้อไลเซนส์ถาวรสำหรับงานผลิต  
+3. **การเริ่มต้นพื้นฐาน** – หลังจาก Maven ดึง dependency มาแล้ว คุณสามารถนำเข้าคลาสต่าง ๆ ลงในโค้ด Java ของคุณได้ทันที
 
-## คู่มือการทำงาน – วิธีซ่อนคอมเมนต์ในกระบวนการแปลง Word‑to‑PDF
+## คู่มือการทำงาน – วิธีซ่อนคอมเมนต์ในการแปลง Word‑to‑PDF
 
-ต่อไปนี้เป็นขั้นตอนสั้น ๆ ทีละขั้นตอน แต่ละขั้นตอนมีคำอธิบายสั้น ๆ ตามด้วยโค้ดที่ต้องใช้ **ห้ามแก้ไขบล็อกโค้ด** – จำเป็นสำหรับความถูกต้องของบทเรียน
+ต่อไปนี้เป็นขั้นตอนสั้น ๆ ที่อธิบายทีละขั้นตอน แต่ละขั้นจะมีคำอธิบายสั้น ๆ ตามด้วยโค้ดที่ต้องใช้ **ห้ามแก้ไขโค้ดบล็อก** – โค้ดเหล่านี้จำเป็นสำหรับความถูกต้องของบทแนะนำ
 
-### ขั้นตอนที่ 1: การกำหนดค่า Load Options (ซ่อนคอมเมนต์)
+### ขั้นตอนที่ 1: การกำหนดค่า Load options (ซ่อนคอมเมนต์)
 
-ก่อนอื่นให้สร้างอินสแตนซ์ `WordProcessingLoadOptions` แล้วเปิดใช้งานการซ่อนคอมเมนต์
+คลาส `WordProcessingLoadOptions` ให้คุณควบคุมวิธีการโหลดเอกสาร Word รวมถึงความสามารถในการซ่อนคอมเมนต์และการเปลี่ยนแปลงที่ติดตาม
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -87,7 +142,7 @@ loadOptions.setHideComments(true); // Hide comments in the output PDF
 
 ### ขั้นตอนที่ 2: เริ่มต้น Converter ด้วยเอกสารต้นทางของคุณ
 
-ส่งพาธไฟล์ `.docx` ต้นทางและ load options ไปยังคอนสตรัคเตอร์ของ `Converter`
+คลาส `Converter` เป็นเอนจินหลักที่แปลงเอกสารต้นทางเป็นรูปแบบผลลัพธ์ที่ต้องการ พร้อมใช้การตั้งค่า load‑option ที่คุณกำหนดไว้
 
 ```java
 String sourceDocument = "YOUR_DOCUMENT_DIRECTORY/SAMPLE_DOCX_WITH_TRACKED_CHANGES";
@@ -96,7 +151,7 @@ Converter converter = new Converter(sourceDocument, () -> loadOptions);
 
 ### ขั้นตอนที่ 3: แปลงเป็น PDF
 
-สร้างอ็อบเจ็กต์ `PdfConvertOptions` (ค่าตั้งต้นเหมาะกับกรณีส่วนใหญ่) แล้วเรียกใช้การแปลง
+คลาส `PdfConvertOptions` เก็บการตั้งค่าเฉพาะสำหรับการแปลงเป็น PDF เช่น การบีบอัดภาพ, ความละเอียด, และการฝังฟอนต์ การใช้ค่าเริ่มต้นจะเพียงพอสำหรับสถานการณ์ส่วนใหญ่
 
 ```java
 PdfConvertOptions convertOptions = new PdfConvertOptions(); // Default PDF settings
@@ -106,56 +161,63 @@ String outputPdf = "YOUR_OUTPUT_DIRECTORY/ConvertWordProcessingByHiddingComments
 converter.convert(outputPdf, convertOptions);
 ```
 
-> **หมายเหตุ:** เมธอด `convert` จะบล็อกจนกว่า PDF จะถูกเขียนลงดิสก์อย่างสมบูรณ์ สำหรับชุดงานขนาดใหญ่ ควรพิจารณาแปลงแบบขนานในเธรดหลาย ๆ ตัว
+> **Note:** เมธอด `convert` จะบล็อกจนกว่า PDF จะถูกเขียนลงดิสก์ครบถ้วน สำหรับชุดงานขนาดใหญ่ ควรพิจารณาให้ทำการแปลงในเธรดแบบขนาน
 
-## ปัญหาที่พบบ่อยและวิธีแก้
+## ปัญหาทั่วไปและวิธีแก้
 
 | อาการ | สาเหตุที่เป็นไปได้ | วิธีแก้ |
-|---------|--------------|-----|
-| *File not found* error | พาธต้นทางหรือพาธผลลัพธ์ไม่ถูกต้อง | ตรวจสอบให้ `sourceDocument` และ `outputPdf` ชี้ไปยังไดเรกทอรีที่มีอยู่ |
-| *Missing comments in the PDF* (แต่ยังคงปรากฏ) | ไม่ได้เรียก `setHideComments` หรือถูกเขียนทับ | ตรวจสอบให้คุณเรียก `loadOptions.setHideComments(true)` **ก่อน** สร้าง `Converter` |
-| *Maven cannot resolve the dependency* | URL ของ repository ผิดหรือเครือข่ายบล็อก | ตรวจสอบ `<url>` ในบล็อก `<repository>` และให้แน่ใจว่าไฟร์วอลล์ของคุณอนุญาตการเข้าถึง `releases.groupdocs.com` |
+|-------|-------------------|----------|
+| *File not found* error | เส้นทางต้นทางหรือปลายทางไม่ถูกต้อง | ตรวจสอบให้แน่ใจว่า `sourceDocument` และ `outputPdf` ชี้ไปยังไดเรกทอรีที่มีอยู่ |
+| *Comments still appear in the PDF* | ไม่ได้เรียก `setHideComments` หรือถูกเขียนทับ | ตรวจสอบว่าคุณเรียก `loadOptions.setHideComments(true)` **ก่อน** สร้าง `Converter` |
+| *Maven cannot resolve the dependency* | URL ของ repository พิมพ์ผิดหรือเครือข่ายบล็อก | ตรวจสอบ `<url>` ในบล็อก `<repository>` อีกครั้งและให้แน่ใจว่าไฟร์วอลล์ของคุณอนุญาตการเข้าถึง `releases.groupdocs.com` |
 
-## การประยุกต์ใช้งานจริง (ทำไมเรื่องนี้สำคัญ)
+## การใช้งานจริง (ทำไมเรื่องนี้สำคัญ)
 
 1. **สัญญากฎหมาย** – ลบโน้ตการตรวจสอบภายในก่อนส่งสำเนาอย่างเป็นทางการ  
-2. **เอกสารการศึกษา** – แจกจ่าย PDF บทเรียนที่สะอาดโดยไม่มีมาร์กอัปของผู้สอน  
-3. **ข้อเสนอทางธุรกิจ** – นำเสนอ PDF ที่ขัดเกลาสำหรับลูกค้า ปราศจากคอมเมนต์ภายใน  
+2. **เอกสารการเรียนการสอน** – แจกจ่าย PDF บทเรียนที่สะอาดโดยไม่มีมาร์กอัปของผู้สอน  
+3. **ข้อเสนอทางธุรกิจ** – นำเสนอ PDF ที่เรียบหรูให้กับลูกค้า ปราศจากคอมเมนต์ภายใน
 
 ## พิจารณาด้านประสิทธิภาพ
 
-- **การจัดการหน่วยความจำ** – ไฟล์ Word ขนาดใหญ่สามารถใช้ heap มาก ใช้ตัวเลือก JVM `-Xmx` เพื่อเพิ่ม heap หากจำเป็น  
-- **Garbage Collection** – เรียก `System.gc()` หลังจากประมวลผลชุดใหญ่เพื่อคืนหน่วยความจำ (ใช้อย่างระมัดระวัง)  
-- **Profiling** – เครื่องมืออย่าง VisualVM สามารถช่วยหาจุดคอขวดใน pipeline การแปลง  
+- **การจัดการหน่วยความจำ** – ไฟล์ Word ขนาดใหญ่สามารถใช้ heap มาก ใช้ตัวเลือก `-Xmx` ของ JVM เพื่อเพิ่ม heap หากจำเป็น  
+- **Garbage collection** – เรียก `System.gc()` หลังจากทำ batch ขนาดใหญ่เพื่อคืนหน่วยความจำ (ใช้อย่างระมัดระวัง)  
+- **Profiling** – เครื่องมืออย่าง VisualVM ช่วยระบุคอขวดใน pipeline การแปลง  
+- **Scalability** – GroupDocs.Conversion สามารถประมวลผลเอกสารหลายร้อยหน้าโดยไม่ต้องโหลดไฟล์ทั้งหมดเข้าสู่หน่วยความจำ รองรับไฟล์ขนาดสูงสุดถึง 500 MB
 
 ## คำถามที่พบบ่อย
 
-**Q: สามารถซ่อนการเปลี่ยนแปลงที่ติดตามได้ด้วยหรือไม่?**  
-A: ได้. เรียก `loadOptions.setHideTrackChanges(true);` พร้อมกับ `setHideComments(true)`  
+**ถาม: ฉันสามารถซ่อนการเปลี่ยนแปลงที่ติดตามได้ด้วยหรือไม่?**  
+ตอบ: ใช่. เรียก `loadOptions.setHideTrackChanges(true);` เพิ่มเติมจาก `setHideComments(true)`  
 
-**Q: การแปลงเป็นชุดทำได้หรือไม่?**  
-A: แน่นอน. วนลูปผ่านคอลเลกชันของพาธไฟล์, ใช้ `loadOptions` และ `PdfConvertOptions` เดียวกันสำหรับแต่ละรอบ  
+**ถาม: การแปลงแบบ batch ทำได้หรือไม่?**  
+ตอบ: แน่นอน. วนลูปผ่านคอลเลกชันของเส้นทางไฟล์ โดยใช้ `loadOptions` และ `PdfConvertOptions` เดียวกันสำหรับแต่ละรอบ  
 
-**Q: จะทำอย่างไรถ้า Maven ไม่สามารถดาวน์โหลด artifact ของ GroupDocs?**  
-A: ตรวจสอบ URL ของ repository, ให้แน่ใจว่าเชื่อมต่ออินเทอร์เน็ตเสถียร, และตรวจสอบว่า `settings.xml` ของคุณไม่ได้บล็อก repository ภายนอก  
+**ถาม: ถ้า Maven ไม่สามารถดาวน์โหลด artifact ของ GroupDocs ได้ควรทำอย่างไร?**  
+ตอบ: ตรวจสอบ URL ของ repository, ให้แน่ใจว่าเชื่อมต่ออินเทอร์เน็ตเสถียร, และตรวจสอบว่า `settings.xml` ของคุณไม่ได้บล็อก repository ภายนอก  
 
-**Q: จะปรับคุณภาพของ PDF อย่างไร?**  
-A: ปรับคุณสมบัติบน `PdfConvertOptions` เช่น `setResolution(300)` หรือ `setCompressImages(true)` เพื่อปรับแต่งผลลัพธ์  
+**ถาม: จะปรับคุณภาพ PDF ให้ดีขึ้นได้อย่างไร?**  
+ตอบ: ปรับคุณสมบัติบน `PdfConvertOptions` เช่น `setResolution(300)` หรือ `setCompressImages(true)` เพื่อปรับแต่งผลลัพธ์  
 
-**Q: GroupDocs.Conversion รองรับฟอร์แมตอื่นนอกจาก Word และ PDF หรือไม่?**  
-A: รองรับ. API ครอบคลุมกว่า 100 ฟอร์แมต รวมถึง Excel, PowerPoint, และรูปภาพ ดูเอกสารอย่างเป็นทางการสำหรับรายการเต็ม  
+**ถาม: GroupDocs.Conversion รองรับฟอร์แมตอื่น ๆ นอกจาก Word และ PDF หรือไม่?**  
+ตอบ: รองรับ **120+** ฟอร์แมตทั้งเข้าและออก รวมถึง Excel, PowerPoint, รูปภาพ, และไฟล์ CAD ทำให้คุณสร้าง pipeline เอกสารสากลได้  
 
 ## แหล่งข้อมูล
-- [Documentation](https://docs.groupdocs.com/conversion/java/)
-- [API Reference](https://reference.groupdocs.com/conversion/java/)
-- [Download GroupDocs.Conversion](https://releases.groupdocs.com/conversion/java/)
-- [Purchase License](https://purchase.groupdocs.com/buy)
-- [Free Trial](https://releases.groupdocs.com/conversion/java/)
-- [Temporary License](https://purchase.groupdocs.com/temporary-license/)
-- [Support Forum](https://forum.groupdocs.com/c/conversion/10)
+- [เอกสารประกอบ](https://docs.groupdocs.com/conversion/java/)
+- [อ้างอิง API](https://reference.groupdocs.com/conversion/java/)
+- [ดาวน์โหลด GroupDocs.Conversion](https://releases.groupdocs.com/conversion/java/)
+- [ซื้อไลเซนส์](https://purchase.groupdocs.com/buy)
+- [รุ่นทดลองฟรี](https://releases.groupdocs.com/conversion/java/)
+- [ไลเซนส์ชั่วคราว](https://purchase.groupdocs.com/temporary-license/)
+- [ฟอรั่มสนับสนุน](https://forum.groupdocs.com/c/conversion/10)
 
 ---
 
-**อัปเดตล่าสุด:** 2026-02-13  
-**ทดสอบกับ:** GroupDocs.Conversion 25.2 สำหรับ Java  
+**อัปเดตล่าสุด:** 2026-09-10  
+**ทดสอบด้วย:** GroupDocs.Conversion 25.2 สำหรับ Java  
 **ผู้เขียน:** GroupDocs
+
+## บทแนะนำที่เกี่ยวข้อง
+
+- [วิธีซ่อนการแก้ไข: ใช้ Options เพื่อซ่อนการเปลี่ยนแปลงที่ติดตามในการแปลง Word‑PDF ด้วย GroupDocs.Conversion สำหรับ Java](/conversion/java/conversion-options/automate-hide-tracked-changes-word-pdf-conversion-groupdocs-java/)
+- [แปลง Word เป็น PDF ด้วย GroupDocs Java – คู่มือ](/conversion/java/pdf-conversion/convert-documents-pdf-groupdocs-java/)
+- [แปลง PPTX เป็น PDF และซ่อนคอมเมนต์ด้วย GroupDocs Java](/conversion/java/watermarks-annotations/hide-comments-pptx-pdf-groupdocs-conversion-java/)

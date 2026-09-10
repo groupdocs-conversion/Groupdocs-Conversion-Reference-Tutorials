@@ -1,112 +1,160 @@
 ---
-date: 2026-02-18
-description: Tanulja meg, hogyan végezhet Word‑PDF Java konverziót, miközben elrejti
-  a nyomon követett módosításokat, kezeli a képminőséget, az oldaltartományokat, a
-  metaadatokat és a betűtípus‑helyettesítést a GroupDocs.Conversion használatával.
-title: Word PDF-re Java – Követett módosítások elrejtése és konvertálási beállítások
+date: '2026-09-10'
+description: Tanulja meg a Word to pdf konvertálást Java-ban a GroupDocs.Conversion
+  segítségével, a tracked changes elrejtését, az image quality szabályozását, a page
+  ranges beállítását és a metadata kezelését – mindezt egy útmutatóban.
+keywords:
+- word to pdf conversion
+- convert txt to pdf
+- control pdf file size
+- java document to pdf
+- convert word to pdf java
+lastmod: '2026-09-10'
+og_description: Tanulja meg a Word to pdf konvertálást Java-ban a GroupDocs.Conversion
+  segítségével, a tracked changes elrejtését, az image quality szabályozását, a page
+  ranges beállítását és a metadata kezelését – mindezt egy útmutatóban.
+og_image_alt: Guide showing word to pdf conversion in Java with hidden tracked changes
+  using GroupDocs.Conversion
+og_title: Word to pdf konvertálás Java-ban – a tracked changes elrejtése
+schemas:
+- author: GroupDocs
+  dateModified: '2026-09-10'
+  description: Learn word to pdf conversion in Java with GroupDocs.Conversion, hide
+    tracked changes, control image quality, set page ranges, and manage metadata—all
+    in one guide.
+  headline: Word to pdf conversion in Java – hide tracked changes
+  type: TechArticle
+- questions:
+  - answer: Use the `ConversionOptions` object and call `setHideTrackedChanges(true)`
+      before starting the conversion.
+    question: How do I hide tracked changes when converting a Word document to PDF
+      in Java?
+  - answer: Yes, the “txt to pdf java” tutorial shows how to control trailing spaces
+      and line breaks for a clean layout.
+    question: Can I convert plain text files to PDF while preserving spacing?
+  - answer: Enable font substitution by providing fallback fonts in the conversion
+      options; this ensures consistent PDF rendering.
+    question: What if the source document uses fonts that aren’t installed on the
+      server?
+  - answer: Absolutely—set `setStartPage` and `setEndPage` in the options to limit
+      the conversion range.
+    question: Is it possible to convert only a subset of pages?
+  - answer: No. The setting only influences the generated PDF; the source document
+      remains unchanged.
+    question: Does hiding tracked changes affect the original Word file?
+  type: FAQPage
+tags:
+- word to pdf
+- GroupDocs.Conversion
+- Java document processing
+title: Word to pdf konvertálás Java-ban – a tracked changes elrejtése
 type: docs
 url: /hu/java/conversion-options/
 weight: 3
 ---
 
-# Kijelölt változások elrejtése – Dokumentumkonverzió beállítások oktatóanyagok a GroupDocs.Conversion Java-hoz
+# Word to pdf konvertálás Java-ban – a nyomon követett módosítások elrejtése
 
-Ebben a központban mindent megtalálsz, amire szükséged van a **kijelölt változások elrejtéséhez** a dokumentumok GroupDocs.Conversion for Java segítségével történő konvertálása során. Ha Word dokumentumokat kell PDF‑re konvertálni Java‑ban, ez az útmutató megmutatja, hogyan rejtsd el a kijelölt változásokat, szabályozd a képminőséget, állíts be oldaltartományokat, kezeld a metaadatokat, és alkalmazz betűtípus-helyettesítést – mindezt egyetlen, könnyen követhető munkafolyamatban.
+In this tutorial you’ll discover how to perform **word to pdf conversion** in Java while automatically hiding tracked changes, tweaking image quality, selecting page ranges, editing metadata, and applying font substitution. These capabilities let you generate clean, professional PDFs that meet compliance and branding requirements without extra post‑processing steps.
 
 ## Gyors válaszok
-- **Mit jelent a „word to pdf java”?** A Microsoft Word fájlok (.doc/.docx) PDF formátumba konvertálását jelenti Java kóddal.  
-- **Elrejthetem a kijelölt változásokat a konverzió során?** Igen, az API egy beállítást biztosít, amely automatikusan eltávolítja a változási jelöléseket a kimeneti PDF‑ből.  
-- **Szükségem van speciális licencre?** Ideiglenes vagy teljes GroupDocs.Conversion licenc szükséges a termelési használathoz.  
-- **Lehetséges TXT‑t PDF‑re konvertálni Java‑ban?** Természetesen – a GroupDocs.Conversion támogatja a txt to pdf java konverziót teljes elrendezés‑vezérléssel.  
-- **Hogyan szabályozhatom a képminőséget a PDF‑ben?** Használd a `setImageQuality` opciót a fájlméret és a vizuális hűség egyensúlyozásához.
+- **Mi jelent a “word to pdf java”?** A Microsoft Word fájlok (.doc/.docx) PDF formátumba konvertálását jelenti Java kóddal.  
+- **Elrejthetem a nyomon követett módosításokat a konverzió során?** Igen, az API egy beállítást biztosít, amely automatikusan eltávolítja az összes módosítási jelölést a kimeneti PDF-ből.  
+- **Szükségem van speciális licencre?** Ideiglenes vagy teljes GroupDocs.Conversion licenc szükséges a termeléshez.  
+- **Lehetséges TXT-t PDF-re konvertálni Java-ban?** Teljesen – a GroupDocs.Conversion támogatja a txt to pdf java konverziót teljes elrendezés‑vezérléssel.  
+- **Hogyan szabályozhatom a képek minőségét a PDF-ben?** Használja a `setImageQuality` opciót a fájlméret és a vizuális hűség egyensúlyozásához.
 
-## Mi a „word to pdf java”?
-A „Word to PDF Java” a Word dokumentumok programozott átalakításának folyamata PDF fájlokká a GroupDocs.Conversion könyvtár segítségével Java környezetben. Ez a konverzió ideális olvasható, nyomtatásra kész dokumentumok előállításához, miközben megőrzi a formázást.
+## Mi az a “word to pdf java”?
 
-## Miért kell elrejteni a kijelölt változásokat a konverzió során?
-A kijelölt változások gyakran tartalmaznak a recenzenszerzők megjegyzéseit, beszúrásait és törléseit, amelyek nem szántak a végső közönségnek. Ezek elrejtése tiszta, professzionális PDF‑t biztosít, amely megfelel a jogi vagy vállalati szabványoknak.
+**Direct answer:** “Word to pdf java” a programozott folyamat, amely a Word dokumentumokat PDF fájlokká alakítja a GroupDocs.Conversion könyvtár használatával egy Java alkalmazásban. Ez a megközelítés lehetővé teszi, hogy csak‑olvasásra, nyomtatásra kész PDF-eket generáljon, miközben megőrzi az elrendezést, betűtípusokat és grafikákat.
+
+## Miért kell elrejteni a nyomon követett módosításokat a konverzió során?
+
+**Direct answer:** A nyomon követett módosítások elrejtése eltávolítja a lektorálási jelöléseket – beszúrásokat, törléseket és megjegyzéseket – a végső PDF-ből, így tiszta dokumentumot biztosít, amely megfelel a jogi, megfelelőségi vagy márka‑szabványoknak. A konverziós motor eltávolítja a revíziós adatokat, miközben az eredeti Word fájlt érintetlenül hagyja.
 
 ## Előfeltételek
 - Java 17 vagy újabb telepítve.  
-- GroupDocs.Conversion for Java hozzáadva a projektedhez (Maven/Gradle).  
+- GroupDocs.Conversion for Java hozzáadva a projektjéhez (Maven/Gradle).  
 - Érvényes GroupDocs ideiglenes vagy teljes licenckulcs.  
 
 ## Gyors áttekintés a fő képességekről
 
-- **Kijelölt változások elrejtése** a Word‑to‑PDF konverzió során, hogy tiszta, recenzenszerzők‑től mentes PDF‑eket kapj.  
-- **txt‑t pdf‑re konvertálás** a sorvégi szóközök kezelésével a kifinomult elrendezés érdekében.  
-- **Képminőség beállítása** a fájlméret és a vizuális hűség egyensúlyozásához.  
-- **Oldaltartomány beállítása**, hogy csak a szükséges oldalakat konvertáld.  
-- **Dokumentum metaadatok kezelése**, például szerző, cím és kulcsszavak.  
-- **Betűtípus-helyettesítés PDF‑ben** biztosítja a konzisztens tipográfiát a platformok között.
+- **Hide tracked changes** a Word‑to‑PDF konverzió során, hogy tiszta, lektor‑mentes PDF-eket biztosítson.  
+- **Convert txt to pdf** a befejező szóközök kezelése mellett a kifinomult elrendezésért.  
+- **Configure image quality** a fájlméret és a vizuális hűség egyensúlyozásához.  
+- **Set page range** csak a szükséges oldalakat konvertálja.  
+- **Control document metadata** például szerző, cím és kulcsszavak.  
+- **Font substitution pdf** biztosítja a konzisztens tipográfiát a platformok között.
 
 ## Elérhető oktatóanyagok
 
-### [Automatizáld a kijelölt változások elrejtését a Word‑to‑PDF konverzióban a GroupDocs.Conversion for Java segítségével](./automate-hide-tracked-changes-word-pdf-conversion-groupdocs-java/)
-Ismerd meg, hogyan automatizálhatod a kijelölt változások elrejtését a Word‑to‑PDF konverzió során a GroupDocs.Conversion for Java segítségével. Hatékonyan egyszerűsítsd a dokumentum előkészítést.
+### [Automatizálja a nyomon követett módosítások elrejtését a Word‑to‑PDF konverzióban a GroupDocs.Conversion for Java segítségével](./automate-hide-tracked-changes-word-pdf-conversion-groupdocs-java/)
+Learn how to automate hiding tracked changes during Word-to-PDF conversion with GroupDocs.Conversion for Java. Streamline document preparation efficiently.
 
-### [Betűtípus-helyettesítés Java‑ban: A GroupDocs.Conversion mesterfogásai a konzisztens PDF‑kimenethez](./groupdocs-conversion-java-font-substitution-guide/)
-Tanuld meg, hogyan használhatod a GroupDocs.Conversion for Java‑t a zökkenőmentes betűtípus-helyettesítéshez és dokumentumkonverzióhoz, biztosítva a konzisztens tipográfiát a platformok között.
+### [Betűtípus helyettesítés Java‑ban: A GroupDocs.Conversion mesteri használata a konzisztens PDF kimenethez](./groupdocs-conversion-java-font-substitution-guide/)
+Learn how to use GroupDocs.Conversion for Java to achieve seamless font substitution and document conversion, ensuring consistent typography across platforms.
 
-### [GroupDocs.Conversion for Java: Hogyan szerezhetők be az összes lehetséges konverzió](./groupdocs-conversion-java-retrieve-possible-conversions/)
-Ismerd meg, hogyan használhatod a GroupDocs.Conversion for Java‑t az összes lehetséges dokumentumkonverzió lekéréséhez. Ez az útmutató a beállítást, a kódmegvalósítást és a gyakorlati alkalmazásokat tárgyalja.
+### [GroupDocs.Conversion for Java: Hogyan lehet lekérni az összes lehetséges konverziót](./groupdocs-conversion-java-retrieve-possible-conversions/)
+Learn how to use GroupDocs.Conversion for Java to retrieve all possible document conversions. This guide covers setup, code implementation, and practical applications.
 
-### [Hogyan konvertálj TXT‑t PDF‑re sorvégi szóközök szabályozásával Java és GroupDocs.Conversion segítségével](./convert-txt-pdf-trailing-spaces-java/)
-Tanuld meg, hogyan konvertálj hatékonyan szöveges dokumentumokat PDF‑re Java‑val, a sorvégi szóközök szabályozásával a tiszta elrendezés érdekében. Kövesd ezt a lépésről‑lépésre útmutatót a GroupDocs.Conversion segítségével.
+### [Hogyan konvertáljunk TXT‑t PDF‑re a befejező szóközök vezérlésével Java és GroupDocs.Conversion használatával](./convert-txt-pdf-trailing-spaces-java/)
+Learn how to efficiently convert text documents to PDFs using Java, controlling trailing spaces for a clean layout. Follow this step‑by‑step guide with GroupDocs.Conversion.
 
-### [Java dokumentumkonverzió egyedi betűtípusokkal a GroupDocs.Conversion segítségével](./java-conversion-custom-fonts-groupdocs/)
-Ismerd meg, hogyan konvertálj Java dokumentumokat egyedi betűtípusok megőrzésével a GroupDocs.Conversion segítségével. Biztosítsd a dokumentum megjelenésének konzisztenciáját a platformok között.
+### [Java dokumentum konverzió egyedi betűtípusokkal a GroupDocs.Conversion használatával](./java-conversion-custom-fonts-groupdocs/)
+Learn how to convert Java documents while preserving custom fonts using GroupDocs.Conversion. Ensure consistent document appearance across platforms.
 
-### [A konstansok kezelésének mesterfogásai a GroupDocs.Conversion Java-ban fájlkonverziós projektekhez](./mastering-constants-groupdocs-conversion-java/)
-Tanuld meg, hogyan kezeld hatékonyan a konstansokat a Java projektjeidben a GroupDocs.Conversion segítségével. Fedezd fel a legjobb gyakorlatokat a fájlútvonalak szervezéséhez és a kód karbantarthatóságához.
+### [A konstansok kezelésének mesteri elsajátítása a GroupDocs.Conversion Java‑ban fájlkonverziós projektekhez](./mastering-constants-groupdocs-conversion-java/)
+Learn how to effectively manage constants in your Java projects using GroupDocs.Conversion. Discover best practices for file path organization and code maintainability.
 
-## Mélyreható témák, amelyeket elsajátítasz
+## Mélyreható témák, amelyeket elsajátít
 
-### Hogyan rejtsd el hatékonyan a kijelölt változásokat
-Megérteni, miért fontosak a rejtett kijelölt változások a megfelelés és a bemutatás szempontjából, valamint az API beállításokat, amelyek automatikusan elnyomják őket.
+### Hogyan rejtsük el hatékonyan a nyomon követett módosításokat
+Megértése, hogy miért fontosak a rejtett nyomon követett módosítások a megfelelőség és a bemutatás szempontjából, valamint az API beállítások, amelyek lehetővé teszik azok automatikus elnyomását.
 
-### Képminőség beállítása az optimális PDF‑ekhez
+### Képméret beállítása az optimális PDF-ekhez
 Tippek a felbontás és a fájlméret egyensúlyozásához, valamint a Java‑ban alkalmazható konkrét `setImageQuality` beállítások.
 
-### Oldaltartomány beállítása, hogy csak a szükséges részeket konvertáld
-Tanuld meg, hogyan definiáld a `setStartPage` és `setEndPage` beállításokat, hogy a nagy dokumentumok gyorsabban legyenek feldolgozva és kisebb PDF‑ek jöjjenek létre.
+### Oldaltartomány beállítása, hogy csak a szükséges oldalakat konvertálja
+Tanulja meg a `setStartPage` és `setEndPage` meghatározását, hogy a nagy dokumentumok gyorsabban feldolgozódjanak és kisebb PDF-ek jöjjenek létre.
 
-### Dokumentum metaadatok programozott kezelése
-Adj hozzá vagy módosíts szerzőt, címet, tárgyat és egyedi tulajdonságokat a konverzió során, hogy a fájljaid kereshetőek és rendezettek legyenek.
+### Dokumentum metaadatok programozott vezérlése
+Adjon hozzá vagy módosítson szerzőt, címet, tárgyat és egyedi tulajdonságokat a konverzió során, hogy fájljai kereshetők és rendezettek legyenek.
 
-### Betűtípus-helyettesítés PDF‑ben a konzisztens tipográfiáért
-Cseréld le a hiányzó betűtípusokat helyettesítőkkel, biztosítva, hogy a végső PDF minden eszközön azonos legyen.
+### Betűtípus helyettesítés PDF-ben a konzisztens tipográfiáért
+Cserélje ki a hiányzó betűtípusokat helyettesítőkkel, biztosítva, hogy a végső PDF minden eszközön azonos legyen.
 
-### TXT‑t PDF‑re konvertálás precíz elrendezés‑vezérléssel
-Kezeld a sorvégi szóközöket, sortöréseket és betűtípusválasztásokat, hogy a egyszerű szöveget professzionális megjelenésű PDF‑vé alakítsd.
+### TXT konvertálása PDF-re pontos elrendezés‑vezérléssel
+Kezelje a befejező szóközöket, sortöréseket és betűtípusválasztásokat, hogy a sima szöveget professzionális megjelenésű PDF‑ekké alakítsa.
 
 ## Gyakori buktatók és tippek
 
-- **Buktató:** Ha elfelejted engedélyezni a hide‑changes (változások elrejtése) jelzőt, a PDF‑ek továbbra is a revízió jelöléseket mutatják.  
-  **Tipp:** Ellenőrizd kétszer a `setHideTrackedChanges(true)` hívást a konverzió indítása előtt.  
+- **Pitfall:** A hide‑changes flag engedélyezésének elfelejtése olyan PDF-eket eredményez, amelyek még mindig mutatják a revíziós jelöléseket.  
+  **Tip:** Ellenőrizze kétszer a `setHideTrackedChanges(true)` hívást a konverzió indítása előtt.  
 
-- **Buktató:** Az alapértelmezett képminőség használata túl nagy PDF‑eket eredményezhet.  
-  **Tipp:** Kezdd 80 % minőségi értékkel, majd állítsd be a vizuális tesztelés alapján.  
+- **Pitfall:** Az alapértelmezett képminőség használata szükségtelenül nagy PDF-eket eredményezhet.  
+  **Tip:** Kezdje 80 %-os minőségi értékkel, majd a vizuális tesztelés alapján állítsa be.  
 
-- **Buktató:** A metaadatok figyelmen kívül hagyása kereshetetlen PDF‑ekhez vezethet.  
-  **Tipp:** Töltsd ki a szerzőt, címet és kulcsszavakat a `setMetadata` API‑val a dokumentumkezelés javítása érdekében.  
+- **Pitfall:** A metaadatok figyelmen kívül hagyása kereshetetlen PDF-ekhez vezethet.  
+  **Tip:** Töltse ki a szerző, cím és kulcsszavak mezőket a `setMetadata` API használatával a dokumentumkezelés javítása érdekében.  
 
 ## Gyakran ismételt kérdések
 
-**K:** Hogyan rejthetem el a kijelölt változásokat, amikor Word dokumentumot PDF‑re konvertálok Java‑ban?  
-**V:** Használd a `ConversionOptions` objektumot, és hívd meg a `setHideTrackedChanges(true)` metódust a konverzió indítása előtt.
+In GroupDocs.Conversion for Java, conversion settings are configured via the `ConversionOptions` class. Methods such as `setHideTrackedChanges(boolean)` and `setImageQuality(int)` allow you to control revision visibility and image compression respectively.
 
-**K:** Konvertálhatok egyszerű szövegfájlokat PDF‑re, miközben megőrzöm a szóközöket?  
-**V:** Igen, a „txt to pdf java” oktatóanyag bemutatja, hogyan szabályozhatod a sorvégi szóközöket és sortöréseket a tiszta elrendezés érdekében.
+**Q: Hogyan rejthetem el a nyomon követett módosításokat, amikor Word dokumentumot PDF‑re konvertálok Java‑ban?**  
+A: Használja a `ConversionOptions` objektumot, és hívja meg a `setHideTrackedChanges(true)` metódust a konverzió indítása előtt.
 
-**K:** Mi van, ha a forrásdokumentum olyan betűtípusokat használ, amelyek nincsenek telepítve a szerveren?  
-**V:** Engedélyezd a betűtípus-helyettesítést a konverziós beállításokban megadott helyettesítő betűtípusokkal; ez biztosítja a konzisztens PDF‑renderelést.
+**Q: Konvertálhatok egyszerű szövegfájlokat PDF‑re a szóközök megőrzésével?**  
+A: Igen, a “txt to pdf java” oktatóanyag bemutatja, hogyan szabályozhatja a befejező szóközöket és sortöréseket a tiszta elrendezés érdekében.
 
-**K:** Lehetséges csak egy oldalcsoportot konvertálni?  
-**V:** Természetesen – állítsd be a `setStartPage` és `setEndPage` értékeket a beállításokban a konverziós tartomány korlátozásához.
+**Q: Mi van, ha a forrásdokumentum olyan betűtípusokat használ, amelyek nincsenek telepítve a szerveren?**  
+A: Engedélyezze a betűtípus helyettesítést a konverziós beállításokban fallback betűtípusok megadásával; ez biztosítja a konzisztens PDF megjelenítést.
 
-**K:** Befolyásolja a kijelölt változások elrejtése az eredeti Word fájlt?  
-**V:** Nem. A beállítás csak a generált PDF‑et érinti; a forrásdokumentum változatlan marad.
+**Q: Lehetséges csak egy részhalmazt konvertálni az oldalakról?**  
+A: Teljesen – állítsa be a `setStartPage` és `setEndPage` értékeket a beállításokban a konverziós tartomány korlátozásához.
+
+**Q: Befolyásolja a nyomon követett módosítások elrejtése az eredeti Word fájlt?**  
+A: Nem. A beállítás csak a generált PDF‑et érinti; a forrásdokumentum változatlan marad.
 
 ## További források
 
@@ -119,6 +167,12 @@ Kezeld a sorvégi szóközöket, sortöréseket és betűtípusválasztásokat, 
 
 ---
 
-**Legutóbb frissítve:** 2026-02-18  
-**Tesztelve a következővel:** GroupDocs.Conversion 5.2 for Java  
-**Szerző:** GroupDocs
+**Last Updated:** 2026-09-10  
+**Tested With:** GroupDocs.Conversion 5.2 for Java  
+**Author:** GroupDocs
+
+## Kapcsolódó oktatóanyagok
+
+- [Hogyan konvertáljunk DOCX-et PDF-re Java‑ban – GroupDocs.Conversion útmutató](/conversion/java/pdf-conversion/convert-docx-pdf-java-groupdocs-conversion/)
+- [Word PDF egyedi betűtípusokkal Java‑ban – GroupDocs Conversion](/conversion/java/pdf-conversion/convert-word-pdf-custom-fonts-java-groupdocs-conversion/)
+- [Megjegyzések elrejtése Word PDF-ben a GroupDocs.Conversion for Java segítségével](/conversion/java/pdf-conversion/hide-comments-word-pdf-conversion-groupdocs-java/)

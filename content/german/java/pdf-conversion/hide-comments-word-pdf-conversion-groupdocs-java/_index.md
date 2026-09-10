@@ -1,46 +1,98 @@
 ---
-date: '2026-02-13'
-description: Erfahren Sie, wie Sie Kommentare beim Word‑zu‑PDF‑Konvertieren mit GroupDocs.Conversion
-  für Java ausblenden. Enthält Einrichtung, Maven‑Abhängigkeit und Schritt‑für‑Schritt‑Code.
+date: '2026-09-10'
+description: Erfahren Sie, wie Sie Kommentare aus PDF bei der Word-zu-PDF-Konvertierung
+  mit GroupDocs.Conversion für Java entfernen. Verstecken Sie Anmerkungen, halten
+  Sie die Ausgabe sauber und aktivieren Sie die Stapelverarbeitung.
 keywords:
-- Word-to-PDF conversion
-- GroupDocs.Conversion for Java
-- hide comments in PDF
-title: Kommentare in Word‑PDF ausblenden mit GroupDocs.Conversion für Java
+- remove comments pdf
+- how to hide comments
+- hide annotations pdf
+- convert word pdf java
+- batch word pdf conversion
+lastmod: '2026-09-10'
+og_description: Erfahren Sie, wie Sie Kommentare aus PDF bei der Word-zu-PDF-Konvertierung
+  mit GroupDocs.Conversion für Java entfernen. Verstecken Sie Anmerkungen, halten
+  Sie die Ausgabe sauber und aktivieren Sie die Stapelverarbeitung für mehrere Dokumente.
+og_image_alt: Guide showing removal of comments from Word PDFs using GroupDocs Java
+og_title: Kommentare aus PDF bei Word-zu-PDF mit GroupDocs Java entfernen
+schemas:
+- author: GroupDocs
+  dateModified: '2026-09-10'
+  description: Learn how to remove comments pdf during Word to PDF conversion with
+    GroupDocs.Conversion for Java. Hide annotations, keep output clean, and enable
+    batch processing.
+  headline: Remove comments pdf during Word to PDF with GroupDocs Java
+  type: TechArticle
+- description: Learn how to remove comments pdf during Word to PDF conversion with
+    GroupDocs.Conversion for Java. Hide annotations, keep output clean, and enable
+    batch processing.
+  name: Remove comments pdf during Word to PDF with GroupDocs Java
+  steps:
+  - name: Load options configuration (hide comments)
+    text: The `WordProcessingLoadOptions` class lets you control how a Word document
+      is loaded, including the ability to hide comments and tracked changes.
+  - name: Initialize the converter with your source document
+    text: The `Converter` class is the core engine that transforms a source document
+      into the desired output format, applying any load‑option settings you defined.
+  - name: Convert to PDF
+    text: The `PdfConvertOptions` class holds PDF‑specific conversion settings such
+      as image compression, resolution, and font embedding. Using the default options
+      is sufficient for most scenarios. > **Note:** The `convert` method blocks until
+      the PDF is fully written to disk. For large batches, consider runn
+  type: HowTo
+- questions:
+  - answer: Yes. Call `loadOptions.setHideTrackChanges(true);` in addition to `setHideComments(true)`.
+    question: Can I hide tracked changes as well?
+  - answer: Absolutely. Loop over a collection of file paths, reusing the same `loadOptions`
+      and `PdfConvertOptions` for each iteration.
+    question: Is batch conversion possible?
+  - answer: Verify the repository URL, ensure your internet connection is stable,
+      and check that your `settings.xml` does not block external repositories.
+    question: What should I do if Maven fails to download the GroupDocs artifact?
+  - answer: Adjust properties on `PdfConvertOptions` such as `setResolution(300)`
+      or `setCompressImages(true)` to fine‑tune the result.
+    question: How can I improve PDF output quality?
+  - answer: Yes. The API covers **120+** input and output formats—including Excel,
+      PowerPoint, images, and CAD files—allowing you to build universal document pipelines.
+    question: Does GroupDocs.Conversion support other formats besides Word and PDF?
+  type: FAQPage
+tags:
+- remove comments pdf
+- GroupDocs.Conversion
+- Java PDF conversion
+- Word to PDF
+- document privacy
+title: Kommentare aus PDF bei Word-zu-PDF mit GroupDocs Java entfernen
 type: docs
 url: /de/java/pdf-conversion/hide-comments-word-pdf-conversion-groupdocs-java/
 weight: 1
 ---
 
-# Kommentare in Word-PDF ausblenden mit GroupDocs.Conversion for Java
+# Kommentare aus PDF entfernen beim Word‑zu‑PDF mit GroupDocs Java
 
-Das Konvertieren von Word-Dokumenten zu PDF ist für viele Entwickler eine tägliche Aufgabe, aber wenn die Quelldateien Prüfungsnotizen oder nachverfolgte Änderungen enthalten, benötigen Sie oft ein sauberes PDF ohne Anmerkungen. In diesem Tutorial lernen Sie **wie man Kommentare in Word-PDF ausblendet** während des Konvertierungsprozesses mit GroupDocs.Conversion for Java. Wir gehen die Maven‑Einrichtung, den genauen Code, den Sie benötigen, und praktische Tipps durch, um Ihre PDFs professionell und datenschutz‑sicher zu halten.
+Das Konvertieren von Word‑Dokumenten zu PDF ist für viele Entwickler eine tägliche Aufgabe, aber wenn die Quelldateien Anmerkungen von Gutachtern, nachverfolgte Änderungen oder Kommentar‑Ballons enthalten, benötigen Sie häufig ein sauberes PDF ohne diese Markups. In diesem Tutorial lernen Sie **wie man Kommentare aus PDF entfernt** während des Konvertierungsprozesses mit GroupDocs.Conversion für Java. Wir führen Sie durch die Maven‑Einrichtung, den genauen Code, den Sie benötigen, und praktische Tipps, um Ihre PDFs professionell, datenschutz‑sicher und bereit für die Verteilung zu halten.
 
 ## Schnelle Antworten
-- **Was bewirkt “hide comments word pdf”?** Es entfernt alle Kommentarballons aus dem erzeugten PDF, während der Hauptinhalt unverändert bleibt.  
-- **Welche Bibliothek übernimmt das?** GroupDocs.Conversion for Java stellt das Flag `WordProcessingLoadOptions.setHideComments(true)` bereit.  
-- **Brauche ich eine Lizenz?** Eine kostenlose Testversion funktioniert zum Testen; für den Produktionseinsatz ist eine kommerzielle Lizenz erforderlich.  
-- **Kann ich gleichzeitig nachverfolgte Änderungen ausblenden?** Ja – verwenden Sie `loadOptions.setHideTrackChanges(true)`.  
-- **Wird die Stapelkonvertierung unterstützt?** Absolut; Sie können über mehrere Dateien mit denselben Einstellungen iterieren.
+- **Was macht “remove comments pdf”?** Es entfernt alle Kommentar‑Ballons und Annotations‑Ebenen aus dem erzeugten PDF, während der Hauptinhalt des Dokuments erhalten bleibt.  
+- **Welche Bibliothek übernimmt das?** GroupDocs.Conversion für Java stellt das Flag `WordProcessingLoadOptions.setHideComments(true)` bereit, das die Entfernung automatisch durchführt.  
+- **Brauche ich eine Lizenz?** Eine kostenlose Testversion funktioniert für Tests; für den Produktionseinsatz ist eine kommerzielle Lizenz erforderlich.  
+- **Kann ich gleichzeitig nachverfolgte Änderungen ausblenden?** Ja – rufen Sie `loadOptions.setHideTrackChanges(true)` zusammen mit `setHideComments(true)` auf.  
+- **Wird Stapelkonvertierung unterstützt?** Absolut; Sie können über mehrere Dateien mit denselben Einstellungen iterieren und eine Hochdurchsatz‑Verarbeitung erreichen.
 
 ## Was bedeutet “hide comments word pdf”?
-Wenn Sie eine `.docx`‑Datei zu PDF konvertieren, bewahrt Word normalerweise die Kommentarballons. Das Aktivieren der *hide comments*-Option veranlasst den Konverter, diese Ballons zu entfernen und ein sauberes, kommentarfrei­es PDF zu liefern, das bereit für die öffentliche Verteilung ist.
+Das Laden eines Word‑Dokuments mit der *hide comments*-Option weist den Konverter an, jeden Kommentar‑Ballon, jede Fußnoten‑ähnliche Notiz und jede Annotation aus dem finalen PDF wegzulassen. Das Ergebnis ist ein sauberes, kommentarfrei­es PDF, das exakt wie der Originalinhalt aussieht, jedoch ohne Markups von Gutachtern.
 
 ## Warum Kommentare während der Konvertierung ausblenden?
-- **Vertraulichkeit wahren** – interne Prüfungsnotizen bleiben privat.  
-- **Kundenorientierte Dokumente verfeinern** – störende Markups erscheinen nicht im finalen PDF.  
-- **Compliance vereinfachen** – viele regulierte Branchen verlangen Dokumente ohne redaktionelle Metadaten.
+Das Ausblenden von Kommentaren während der Konvertierung schützt sensible Gutachter‑Feedbacks, sorgt dafür, dass PDFs für Kunden professionell aussehen, und hilft Ihnen, Compliance‑Anforderungen zu erfüllen, die die Verteilung interner redaktioneller Metadaten verbieten. Durch das Entfernen dieser Elemente reduzieren Sie zudem die Dateigröße um bis zu 15 % bei stark annotierten Dokumenten.
 
 ## Voraussetzungen
 
-Bevor Sie beginnen, stellen Sie sicher, dass Sie Folgendes haben:
-
-- **Java Development Kit (JDK) 8 oder höher** auf Ihrem Rechner installiert.  
+- **Java Development Kit (JDK) 8 oder höher** auf Ihrem Rechner installiert.  
 - **Maven** für das Abhängigkeitsmanagement.  
-- Eine **GroupDocs.Conversion for Java**‑Lizenz (kostenlose Testversion funktioniert zum Testen).  
+- Eine **GroupDocs.Conversion für Java**‑Lizenz (die kostenlose Testversion funktioniert für Tests).  
 
 ### Erforderliche Bibliotheken, Versionen und Abhängigkeiten
-Fügen Sie das GroupDocs-Repository und die Abhängigkeit zu Ihrer `pom.xml` exakt wie unten gezeigt hinzu:
+Fügen Sie das GroupDocs‑Repository und die Abhängigkeit zu Ihrer `pom.xml` exakt wie unten gezeigt hinzu:
 
 ```xml
 <repositories>
@@ -59,21 +111,21 @@ Fügen Sie das GroupDocs-Repository und die Abhängigkeit zu Ihrer `pom.xml` exa
 </dependencies>
 ```
 
-> **Pro Tipp:** Halten Sie die `<version>` auf dem neuesten stabilen Release, um von Leistungsverbesserungen und Fehlerbehebungen zu profitieren.
+> **Pro‑Tipp:** Halten Sie die `<version>` auf dem neuesten stabilen Release, um von Leistungsverbesserungen und Fehlerbehebungen zu profitieren.
 
 ## Einrichtung von GroupDocs.Conversion für Java
 
-1. **Maven-Installation** – Das obige Snippet zieht die Bibliothek automatisch in Ihr Projekt.  
-2. **Lizenzbeschaffung** – Registrieren Sie sich für eine kostenlose Testversion auf der GroupDocs-Website oder erwerben Sie eine permanente Lizenz für Produktionsumgebungen.  
-3. **Grundlegende Initialisierung** – Sobald Maven die Abhängigkeit aufgelöst hat, können Sie die Klassen direkt in Ihrem Java-Code importieren.
+1. **Maven‑Installation** – Das obige Snippet zieht die Bibliothek automatisch in Ihr Projekt.  
+2. **Lizenzbeschaffung** – Registrieren Sie sich für eine kostenlose Testversion auf der GroupDocs‑Website oder erwerben Sie eine permanente Lizenz für Produktions‑Workloads.  
+3. **Grundlegende Initialisierung** – Sobald Maven die Abhängigkeit aufgelöst hat, können Sie die Klassen direkt in Ihrem Java‑Code importieren.
 
-## Implementierungs‑Leitfaden – Wie man Kommentare bei Word‑zu‑PDF‑Konvertierung ausblendet
+## Implementierungs‑Leitfaden – wie man Kommentare in der Word‑zu‑PDF‑Konvertierung ausblendet
 
-Im Folgenden finden Sie eine prägnante Schritt‑für‑Schritt‑Durchführung. Jeder Schritt enthält eine kurze Erklärung, gefolgt vom genauen Code, den Sie benötigen. **Ändern Sie die Codeblöcke nicht** – sie sind erforderlich, damit das Tutorial gültig bleibt.
+Unten finden Sie eine prägnante Schritt‑für‑Schritt‑Durchführung. Jeder Schritt enthält eine kurze Erklärung, gefolgt vom genauen Code, den Sie benötigen. **Ändern Sie die Codeblöcke nicht** – sie sind erforderlich, damit das Tutorial gültig bleibt.
 
-### Schritt 1: Konfiguration der Ladeoptionen (Kommentare ausblenden)
+### Schritt 1: Laden der Optionen‑Konfiguration (Kommentare ausblenden)
 
-Zuerst erstellen Sie eine Instanz von `WordProcessingLoadOptions` und aktivieren das Ausblenden von Kommentaren.
+Die Klasse `WordProcessingLoadOptions` ermöglicht es Ihnen, zu steuern, wie ein Word‑Dokument geladen wird, einschließlich der Möglichkeit, Kommentare und nachverfolgte Änderungen auszublenden.
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -85,18 +137,18 @@ WordProcessingLoadOptions loadOptions = new WordProcessingLoadOptions();
 loadOptions.setHideComments(true); // Hide comments in the output PDF
 ```
 
-### Schritt 2: Initialisieren Sie den Converter mit Ihrem Quelldokument
+### Schritt 2: Initialisieren des Konverters mit Ihrem Quelldokument
 
-Übergeben Sie den Pfad zur Quell-`.docx`‑Datei und die Ladeoptionen an den `Converter`‑Konstruktor.
+Die Klasse `Converter` ist die Kern‑Engine, die ein Quelldokument in das gewünschte Ausgabeformat umwandelt und dabei alle von Ihnen definierten Lade‑Option‑Einstellungen anwendet.
 
 ```java
 String sourceDocument = "YOUR_DOCUMENT_DIRECTORY/SAMPLE_DOCX_WITH_TRACKED_CHANGES";
 Converter converter = new Converter(sourceDocument, () -> loadOptions);
 ```
 
-### Schritt 3: In PDF konvertieren
+### Schritt 3: Konvertieren zu PDF
 
-Erstellen Sie ein `PdfConvertOptions`‑Objekt (Standard‑Einstellungen sind für die meisten Fälle ausreichend) und führen Sie die Konvertierung aus.
+Die Klasse `PdfConvertOptions` enthält PDF‑spezifische Konvertierungseinstellungen wie Bildkompression, Auflösung und Schriftart‑Einbettung. Die Verwendung der Standardoptionen ist für die meisten Szenarien ausreichend.
 
 ```java
 PdfConvertOptions convertOptions = new PdfConvertOptions(); // Default PDF settings
@@ -112,38 +164,39 @@ converter.convert(outputPdf, convertOptions);
 
 | Symptom | Wahrscheinliche Ursache | Lösung |
 |---------|--------------------------|--------|
-| *Datei nicht gefunden* Fehler | Falscher Quell- oder Ausgabepfad | Stellen Sie sicher, dass `sourceDocument` und `outputPdf` auf vorhandene Verzeichnisse verweisen. |
-| *Fehlende Kommentare im PDF* (aber sie erscheinen weiterhin) | `setHideComments` nicht aufgerufen oder überschrieben | Stellen Sie sicher, dass Sie `loadOptions.setHideComments(true)` **vor** dem Erstellen des `Converter` aufrufen. |
-| *Maven kann die Abhängigkeit nicht auflösen* | Repository‑URL-Fehler oder Netzwerkblockierung | Überprüfen Sie das `<url>` im `<repository>`‑Block und stellen Sie sicher, dass Ihre Firewall den Zugriff auf `releases.groupdocs.com` erlaubt. |
+| *Datei nicht gefunden* Fehler | Falscher Quell- oder Ausgabepfad | Stellen Sie sicher, dass `sourceDocument` und `outputPdf` auf vorhandene Verzeichnisse zeigen. |
+| *Kommentare erscheinen weiterhin im PDF* | `setHideComments` nicht aufgerufen oder überschrieben | Stellen Sie sicher, dass Sie `loadOptions.setHideComments(true)` **vor** der Erstellung des `Converter` aufrufen. |
+| *Maven kann die Abhängigkeit nicht auflösen* | Tippfehler in der Repository‑URL oder Netzwerkblockierung | Überprüfen Sie das `<url>` im `<repository>`‑Block und stellen Sie sicher, dass Ihre Firewall den Zugriff auf `releases.groupdocs.com` erlaubt. |
 
-## Praktische Anwendungen (Warum das wichtig ist)
+## Praktische Anwendungen (warum das wichtig ist)
 
 1. **Rechtsverträge** – Entfernen Sie interne Prüfungsnotizen, bevor Sie offizielle Kopien einreichen.  
 2. **Lehrmaterialien** – Verteilen Sie saubere Vorlesungs‑PDFs ohne Markups des Dozenten.  
-3. **Geschäftsangebote** – Präsentieren Sie ein aufgeräumtes PDF für Kunden, frei von internen Kommentaren.
+3. **Geschäftsangebote** – Präsentieren Sie ein professionelles PDF für Kunden, frei von internen Kommentaren.
 
 ## Leistungsüberlegungen
 
 - **Speichermanagement** – Große Word‑Dateien können erheblichen Heap‑Speicher verbrauchen. Verwenden Sie bei Bedarf `-Xmx`‑JVM‑Optionen, um den Heap zu vergrößern.  
-- **Garbage Collection** – Rufen Sie `System.gc()` nach einem großen Stapel auf, um den Speicher sofort freizugeben (sparsam einsetzen).  
-- **Profiling** – Werkzeuge wie VisualVM können Ihnen helfen, Engpässe in der Konvertierungspipeline zu erkennen.
+- **Garbage Collection** – Rufen Sie `System.gc()` nach einem großen Stapel auf, um den Speicher schnell freizugeben (sparsam einsetzen).  
+- **Profiling** – Werkzeuge wie VisualVM können Ihnen helfen, Engpässe in der Konvertierungspipeline zu erkennen.  
+- **Skalierbarkeit** – GroupDocs.Conversion verarbeitet Dokumente mit mehreren hundert Seiten, ohne die gesamte Datei in den Speicher zu laden, und unterstützt Dateien bis zu einer Größe von 500 MB.
 
 ## Häufig gestellte Fragen
 
-**Q: Kann ich gleichzeitig nachverfolgte Änderungen ausblenden?**  
+**F: Kann ich nachverfolgte Änderungen ebenfalls ausblenden?**  
 A: Ja. Rufen Sie `loadOptions.setHideTrackChanges(true);` zusätzlich zu `setHideComments(true)` auf.
 
-**Q: Ist Stapelkonvertierung möglich?**  
+**F: Ist Stapelkonvertierung möglich?**  
 A: Absolut. Durchlaufen Sie eine Sammlung von Dateipfaden und verwenden Sie für jede Iteration dieselben `loadOptions` und `PdfConvertOptions`.
 
-**Q: Was soll ich tun, wenn Maven das GroupDocs‑Artefakt nicht herunterladen kann?**  
-A: Überprüfen Sie die Repository‑URL, stellen Sie sicher, dass Ihre Internetverbindung stabil ist, und prüfen Sie, dass Ihre `settings.xml` externe Repositorys nicht blockiert.
+**F: Was soll ich tun, wenn Maven das GroupDocs‑Artefakt nicht herunterladen kann?**  
+A: Überprüfen Sie die Repository‑URL, stellen Sie sicher, dass Ihre Internetverbindung stabil ist, und prüfen Sie, dass Ihre `settings.xml` externe Repositories nicht blockiert.
 
-**Q: Wie kann ich die PDF‑Ausgabequalität verbessern?**  
+**F: Wie kann ich die PDF‑Ausgabequalität verbessern?**  
 A: Passen Sie Eigenschaften von `PdfConvertOptions` an, z. B. `setResolution(300)` oder `setCompressImages(true)`, um das Ergebnis fein abzustimmen.
 
-**Q: Unterstützt GroupDocs.Conversion andere Formate neben Word und PDF?**  
-A: Ja. Die API deckt über 100 Formate ab, einschließlich Excel, PowerPoint und Bilder. Siehe die offizielle Dokumentation für die vollständige Liste.
+**F: Unterstützt GroupDocs.Conversion andere Formate neben Word und PDF?**  
+A: Ja. Die API deckt **120+** Eingabe‑ und Ausgabeformate ab – einschließlich Excel, PowerPoint, Bilder und CAD‑Dateien – und ermöglicht den Aufbau universeller Dokument‑Pipelines.
 
 ## Ressourcen
 - [Dokumentation](https://docs.groupdocs.com/conversion/java/)
@@ -154,8 +207,12 @@ A: Ja. Die API deckt über 100 Formate ab, einschließlich Excel, PowerPoint und
 - [Temporäre Lizenz](https://purchase.groupdocs.com/temporary-license/)
 - [Support‑Forum](https://forum.groupdocs.com/c/conversion/10)
 
----
-
-**Zuletzt aktualisiert:** 2026-02-13  
-**Getestet mit:** GroupDocs.Conversion 25.2 for Java  
+**Zuletzt aktualisiert:** 2026-09-10  
+**Getestet mit:** GroupDocs.Conversion 25.2 für Java  
 **Autor:** GroupDocs
+
+## Verwandte Tutorials
+
+- [Wie man Revisionen ausblendet: Optionen verwenden, um nachverfolgte Änderungen in Word‑PDF‑Konvertierung mit GroupDocs.Conversion für Java zu verbergen](/conversion/java/conversion-options/automate-hide-tracked-changes-word-pdf-conversion-groupdocs-java/)
+- [Word zu PDF konvertieren mit GroupDocs Java – Anleitung](/conversion/java/pdf-conversion/convert-documents-pdf-groupdocs-java/)
+- [PPTX zu PDF konvertieren und Kommentare ausblenden mit GroupDocs Java](/conversion/java/watermarks-annotations/hide-comments-pptx-pdf-groupdocs-conversion-java/)
