@@ -1,115 +1,165 @@
 ---
-date: 2026-02-21
-description: Εξερευνήστε ολοκληρωμένους οδηγούς για τη μετατροπή PDF σε JPG σε Java
-  (pdf to jpg java) και άλλες μορφές όπως Word σε PDF, Excel σε PDF, χρησιμοποιώντας
-  το GroupDocs.Conversion για Java.
-title: pdf σε jpg java – Μαθήματα Μετατροπής Εγγράφων με το GroupDocs
+date: 2026-09-15
+description: Μάθετε πώς να χρησιμοποιήσετε το GroupDocs.Conversion java για μετατροπή
+  PDF σε JPG και άλλες μορφές όπως Word σε PDF, Excel σε PDF. Γρήγορη, υψηλής ποιότητας
+  μετατροπή για προγραμματιστές Java.
+keywords:
+- groupdocs conversion java
+- word to pdf java
+- excel to pdf java
+- pdf to png java
+- convert pdf to jpg java
+lastmod: 2026-09-15
+og_description: Μάθετε πώς να χρησιμοποιήσετε το GroupDocs.Conversion java για μετατροπή
+  PDF σε JPG και άλλες μορφές όπως Word σε PDF, Excel σε PDF. Γρήγορη, υψηλής ποιότητας
+  μετατροπή για προγραμματιστές Java.
+og_image_alt: 'Guide: Convert PDF to JPG in Java using GroupDocs.Conversion'
+og_title: Πώς να χρησιμοποιήσετε το GroupDocs.Conversion java για pdf σε jpg και άλλα
+schemas:
+- author: GroupDocs
+  dateModified: '2026-09-15'
+  description: Learn how to use GroupDocs.Conversion java to convert PDF to JPG and
+    other formats like Word to PDF, Excel to PDF. Fast, high‑quality conversion for
+    Java developers.
+  headline: How to use GroupDocs.Conversion java for pdf to jpg and more
+  type: TechArticle
+- description: Learn how to use GroupDocs.Conversion java to convert PDF to JPG and
+    other formats like Word to PDF, Excel to PDF. Fast, high‑quality conversion for
+    Java developers.
+  name: How to use GroupDocs.Conversion java for pdf to jpg and more
+  steps:
+  - name: '**Create a conversion configuration** – pass an `InputStream` that contains
+      your PDF data.'
+    text: '**Create a conversion configuration** – pass an `InputStream` that contains
+      your PDF data.'
+  - name: '**Configure JPEG options** – set `jpegQuality` (0‑100) and `dpi` to control
+      image size and clarity.'
+    text: '**Configure JPEG options** – set `jpegQuality` (0‑100) and `dpi` to control
+      image size and clarity.'
+  - name: '**Execute the conversion** – the API returns a list of `OutputStream` objects,
+      one per page, which you can write to disk or send over HTTP.'
+    text: '**Execute the conversion** – the API returns a list of `OutputStream` objects,
+      one per page, which you can write to disk or send over HTTP.'
+  type: HowTo
+- questions:
+  - answer: Yes. The conversion API lets you specify a page range or an explicit array
+      of page indices, so you can extract just the pages you need.
+    question: Can I convert only selected pages of a PDF to JPG?
+  - answer: Adjust the `jpegQuality` property (0‑100) in the `JpgConvertOptions` object.
+      A value of 80 offers a good balance between visual fidelity and file size for
+      web delivery.
+    question: How do I control the image quality of the JPG output?
+  - answer: Absolutely. Supply the password when creating the `ConversionConfig` instance,
+      and the SDK will decrypt the document automatically before rendering.
+    question: Is it possible to convert password‑protected PDFs?
+  - answer: 72–96 DPI provides a lightweight image that loads quickly while still
+      looking clear on most screens.
+    question: What is the best DPI for web‑ready thumbnails?
+  - answer: The library automatically disposes of streams after conversion completes,
+      but wrapping custom streams in a `try‑with‑resources` block is a good practice
+      to guarantee release of resources.
+    question: Do I need to close streams manually?
+  type: FAQPage
+tags:
+- groupdocs conversion
+- java document conversion
+- pdf to jpg
+- file format conversion
+title: Πώς να χρησιμοποιήσετε το GroupDocs.Conversion java για pdf σε jpg και άλλα
 type: docs
 url: /el/java/document-operations/
 weight: 2
 ---
 
-I'll produce final content.
+# Groupdocs conversion java: pdf σε jpg και άλλες λειτουργίες εγγράφων
 
-# pdf to jpg java: Λειτουργίες Μετατροπής Εγγράφων με GroupDocs.Conversion
+Αν χρειάζεστε **μετατροπή αρχείων PDF σε εικόνες JPG σε Java**, βρίσκεστε στο σωστό μέρος. Αυτό το κέντρο συγκεντρώνει οδηγούς βήμα‑βήμα που δείχνουν πώς να εκτελέσετε τη **pdf to jpg java** μετατροπή και πολλές άλλες κοινές μετατροπές—όπως **word to pdf java**, **excel to pdf java**, **html to pdf java**, **pptx to pdf java**, και **pdf to png java**—χρησιμοποιώντας τη δυνατή βιβλιοθήκη GroupDocs.Conversion. Είτε δημιουργείτε μια υπηρεσία web, ένα εργαλείο επιφάνειας εργασίας ή έναν αυτοματοποιημένο επεξεργαστή παρτίδας, αυτά τα εγχειρίδια σας παρέχουν τον κώδικα, τις βέλτιστες πρακτικές και πρακτικές συμβουλές για να ολοκληρώσετε τη δουλειά γρήγορα και αξιόπιστα.
 
-Αν χρειάζεστε **να μετατρέψετε αρχεία PDF σε εικόνες JPG σε Java**, βρίσκεστε στο σωστό μέρος. Αυτό το κέντρο συγκεντρώνει tutorials βήμα‑βήμα που δείχνουν πώς να εκτελέσετε τη **pdf to jpg java** μετατροπή και πολλές άλλες κοινές μετατροπές—όπως **word to pdf java**, **excel to pdf java**, **html to pdf java**, **pptx to pdf java**, και **pdf to png java**—χρησιμοποιώντας τη δυναμική βιβλιοθήκη GroupDocs.Conversion. Είτε δημιουργείτε μια web υπηρεσία, ένα desktop εργαλείο, ή έναν αυτοματοποιημένο batch επεξεργαστή, αυτά τα guides σας παρέχουν τον κώδικα, τις βέλτιστες πρακτικές και συμβουλές από την πραγματική ζωή για να ολοκληρώσετε τη δουλειά γρήγορα και αξιόπιστα.
+## Γρήγορες απαντήσεις
+- **Ποια βιβλιοθήκη διαχειρίζεται τη μετατροπή PDF‑σε‑JPG σε Java;** GroupDocs.Conversion for Java.  
+- **Χρειάζομαι άδεια για παραγωγική χρήση;** Ναι, απαιτείται εμπορική άδεια για παραγωγικές εγκαταστάσεις.  
+- **Μπορώ να μετατρέψω ροές χωρίς να γράψω προσωρινά αρχεία;** Απόλυτα—πολλοί οδηγοί δείχνουν μετατροπές βασισμένες σε ροές.  
+- **Είναι η μετατροπή χωρίς απώλειες;** Οι εικόνες αποδίδονται στην ανάλυση που καθορίζετε· υψηλότερο DPI προσφέρει υψηλότερη ποιότητα.  
+- **Ποιες εκδόσεις της Java υποστηρίζονται;** Java 8 και νεότερες υποστηρίζονται πλήρως.
 
-## Quick Answers
-- **What library handles PDF‑to‑JPG conversion in Java?** GroupDocs.Conversion for Java.  
-- **Do I need a license for production use?** Yes, a commercial license is required for production deployments.  
-- **Can I convert streams without writing temporary files?** Absolutely—several tutorials demonstrate stream‑based conversions.  
-- **Is the conversion lossless?** Images are rendered at the resolution you specify; higher DPI yields higher quality.  
-- **Which Java versions are supported?** Java 8 and newer are fully supported.
+## Τι είναι το GroupDocs.Conversion java;
+GroupDocs.Conversion java είναι ένα Java SDK που μετατρέπει έγγραφα από μια μορφή σε άλλη χωρίς να απαιτούνται εξωτερικές εφαρμογές. Αποσπά τη σύνθετη λογική απόδοσης, επιτρέποντάς σας να εστιάσετε στους επιχειρηματικούς κανόνες ενώ διαχειρίζεται πάνω από 70 μορφές εισόδου και εξόδου, συμπεριλαμβανομένων PDF, DOCX, XLSX, PPTX, HTML και αρχείων εικόνας.
 
-## What is pdf to jpg java Conversion?
-Η μετατροπή ενός PDF εγγράφου σε σειρά εικόνων JPG σε Java σημαίνει την εξαγωγή κάθε σελίδας (ή επιλεγμένων σελίδων) και την rasterization τους σε bitmap εικόνες. Αυτό είναι χρήσιμο για τη δημιουργία thumbnails, εικόνων προεπισκόπησης για web viewers, ή την προετοιμασία περιεχομένου για πλατφόρμες που δέχονται μόνο μορφές εικόνας.
+## Γιατί να επιλέξετε το GroupDocs.Conversion java για μετατροπή εγγράφων;
+Το GroupDocs.Conversion java επεξεργάζεται PDF πολλαπλών εκατοντάδων σελίδων σε λιγότερο από ένα λεπτό σε τυπικό εξοπλισμό διακομιστή, και μπορεί να αποδώσει εικόνες έως 300 DPI χωρίς να φορτώνει ολόκληρο το έγγραφο στη μνήμη. Η βιβλιοθήκη υποστηρίζει API βασισμένα σε ροές, λειτουργίες παρτίδας και αρχεία με προστασία κωδικού, παρέχοντας συνεπή αποτελέσματα σε JVMs των Windows, Linux και macOS.
 
-## Why Use GroupDocs.Conversion for Java?
-GroupDocs.Conversion αφαιρεί τη χαμηλού επιπέδου λογική rendering, επιτρέποντάς σας να εστιάσετε στη ροή της εφαρμογής σας. Υποστηρίζει:
+## Προαπαιτούμενα
+- Εγκατεστημένη Java 8 ή νεότερη.  
+- Maven ή Gradle για διαχείριση εξαρτήσεων.  
+- Έγκυρη άδεια GroupDocs.Conversion for Java (προσωρινές άδειες διατίθενται για δοκιμές).  
 
-* **Multiple source formats** – PDFs, DOCX, XLSX, PPTX, HTML, and more.  
-* **High‑quality output** – Adjustable DPI, color depth, and compression settings.  
-* **Stream‑friendly APIs** – Work directly with `InputStream`/`OutputStream` to avoid disk I/O.  
-* **Cross‑platform reliability** – Runs on any JVM‑compatible environment.
+## Διαθέσιμοι οδηγοί
+- [Αυτοματοποιήστε τη λήψη και μετατροπή εγγράφων S3 σε Java χρησιμοποιώντας το GroupDocs.Conversion](./automate-s3-download-convert-java-groupdocs/)
+- [Μετατροπή εγγράφων από ροές σε Java χρησιμοποιώντας το GroupDocs.Conversion](./convert-documents-streams-java-groupdocs/)
+- [Μετατροπή PDF σε JPG σε Java χρησιμοποιώντας το GroupDocs.Conversion: Οδηγός βήμα‑βήμα](./convert-pdf-to-jpg-groupdocs-java/)
+- [Μετατροπή PDF σε ODT χρησιμοποιώντας το GroupDocs.Conversion for Java: Αναλυτικός οδηγός](./convert-pdf-pages-to-odt-groupdocs-java/)
+- [Πώς να μετατρέψετε PDF σε PNG χρησιμοποιώντας το GroupDocs.Conversion σε Java: Αναλυτικός οδηγός](./convert-pdf-to-png-groupdocs-java/)
+- [Απόλυτη μετατροπή αρχείων σε Java: Αναλυτικός οδηγός χρήσης του GroupDocs.Conversion](./java-groupdocs-conversion-file-handling/)
+- [Απόλυτο GroupDocs.Conversion Java: Αναλυτικός οδηγός μετατροπής εγγράφων σε εφαρμογές Java](./groupdocs-conversion-java-master-document-conversion/)
+- [Τεκμηρίωση GroupDocs.Conversion for Java](https://docs.groupdocs.com/conversion/java/)
+- [Αναφορά API GroupDocs.Conversion for Java](https://reference.groupdocs.com/conversion/java/)
+- [Λήψη GroupDocs.Conversion for Java](https://releases.groupdocs.com/conversion/java/)
+- [Φόρουμ GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion)
+- [Δωρεάν υποστήριξη](https://forum.groupdocs.com/)
+- [Προσωρινή άδεια](https://purchase.groupdocs.com/temporary-license/)
 
-## Prerequisites
-- Java 8 or later installed.  
-- Maven or Gradle for dependency management.  
-- A valid GroupDocs.Conversion for Java license (temporary licenses are available for testing).  
+## Πώς να χρησιμοποιήσετε το GroupDocs.Conversion java για pdf σε jpg;
+ConversionConfig είναι μια κλάση που κρατά το ρεύμα εισόδου και προαιρετικές ρυθμίσεις μετατροπής.  
+JpgConvertOptions είναι μια κλάση επιλογών που ορίζει παραμέτρους ειδικές για JPEG όπως η ποιότητα και το DPI.  
 
-## Available Tutorials
+Φορτώστε το PDF σας με `new ConversionConfig(inputStream)` και καλέστε `convert(new JpgConvertOptions())`. Το SDK αποδίδει κάθε σελίδα ως εικόνα JPG χρησιμοποιώντας το καθορισμένο DPI και την ποιότητα. Μπορείτε να μεταδώσετε το αποτέλεσμα απευθείας σε μια απόκριση ή να το γράψετε στο δίσκο, αποφεύγοντας προσωρινά αρχεία και υποστηρίζοντας τόσο PDF μονής σελίδας όσο και πολλαπλών σελίδων.
 
-### [Automate S3 Document Download and Conversion in Java using GroupDocs.Conversion](./automate-s3-download-convert-java-groupdocs/)
-Μάθετε πώς να αυτοματοποιήσετε τη λήψη εγγράφων από Amazon S3 και τη μετατροπή τους με GroupDocs.Conversion for Java. Βελτιστοποιήστε τις εργασίες διαχείρισης εγγράφων σας αποδοτικά.
+### Επισκόπηση βήμα‑βήμα
+1. **Δημιουργήστε μια διαμόρφωση μετατροπής** – περάστε ένα `InputStream` που περιέχει τα δεδομένα του PDF σας.  
+2. **Διαμορφώστε τις επιλογές JPEG** – ορίστε `jpegQuality` (0‑100) και `dpi` για να ελέγξετε το μέγεθος και την καθαρότητα της εικόνας.  
+3. **Εκτελέστε τη μετατροπή** – το API επιστρέφει μια λίστα αντικειμένων `OutputStream`, ένα ανά σελίδα, που μπορείτε να γράψετε στο δίσκο ή να στείλετε μέσω HTTP.  
 
-### [Convert Documents from Streams in Java Using GroupDocs.Conversion](./convert-documents-streams-java-groupdocs/)
-Μάθετε πώς να μετατρέπετε έγγραφα απευθείας από streams χρησιμοποιώντας GroupDocs.Conversion for Java, ιδανικό για web εφαρμογές και επεξεργασία δικτυακών δεδομένων.
+**Αγκύρωση ορισμού:** `JpgConvertOptions` είναι η κλάση επιλογών που ελέγχει παραμέτρους ειδικές για JPEG όπως η ποιότητα συμπίεσης, DPI και βάθος χρώματος κατά τη μετατροπή.
 
-### [Convert PDF to JPG in Java Using GroupDocs.Conversion&#58; A Step-by-Step Guide](./convert-pdf-to-jpg-groupdocs-java/)
-Μάθετε πώς να μετατρέψετε αρχεία PDF σε εικόνες JPG χωρίς κόπο χρησιμοποιώντας GroupDocs.Conversion for Java. Αυτό το guide καλύπτει εγκατάσταση, ρύθμιση και βέλτιστες πρακτικές.
+## Κοινές περιπτώσεις χρήσης & συμβουλές
 
-### [Convert PDF to ODT Using GroupDocs.Conversion for Java&#58; A Comprehensive Guide](./convert-pdf-pages-to-odt-groupdocs-java/)
-Μάθετε πώς να μετατρέψετε συγκεκριμένες σελίδες από PDF σε μορφή OpenDocument Text (ODT) χρησιμοποιώντας GroupDocs.Conversion for Java. Απλοποιήστε τη διαδικασία μετατροπής εγγράφων σας σήμερα.
+| Περίπτωση χρήσης | Γιατί είναι σημαντικό | Γρήγορη συμβουλή |
+|------------------|-----------------------|-------------------|
+| **Δημιουργία μικρογραφιών για αναφορές PDF** | Βελτιώνει την ανταπόκριση του UI σε διαδικτυακές πύλες | Ορίστε DPI στα 72 για γρήγορες εικόνες προεπισκόπησης |
+| **Μαζική μετατροπή τιμολογίων (PDF → JPG) για αγωγούς OCR** | Επιτρέπει την εξαγωγή κειμένου σε επόμενα στάδια | Χρησιμοποιήστε μετατροπή βασισμένη σε ροές για χαμηλή χρήση μνήμης |
+| **Μεταφορά παλαιών PDF σε αρχεία εικόνας** | Διατηρεί την οπτική πιστότητα ενώ απλοποιεί την αποθήκευση | Επιλέξτε lossless PNG κατά την αρχειοθέτηση, έπειτα μετατρέψτε σε JPG για διανομή |
+| **Ενσωμάτωση με AWS Lambda** | Αντιμετώπιση ανεξάρτητης επεξεργασίας των ανεβασμένων PDF | Συνδυάστε τον οδηγό αυτοματοποίησης S3 με τον οδηγό PDF‑σε‑JPG |
 
-### [How to Convert PDF to PNG Using GroupDocs.Conversion in Java&#58; A Comprehensive Guide](./convert-pdf-to-png-groupdocs-java/)
-Μάθετε πώς να μετατρέψετε αρχεία PDF σε εικόνες PNG χρησιμοποιώντας τη βιβλιοθήκη GroupDocs.Conversion σε Java. Ακολουθήστε αυτό το ολοκληρωμένο guide με βήμα‑βήμα οδηγίες και βέλτιστες πρακτικές.
+## Κοινές παγίδες & αντιμετώπιση προβλημάτων
+- **Σφάλματα έλλειψης μνήμης σε μεγάλα PDF** – Επεξεργαστείτε τις σελίδες σε παρτίδες ή χρησιμοποιήστε μετατροπή βασισμένη σε ροές για να αποφύγετε τη φόρτωση ολόκληρου του εγγράφου στη μνήμη.  
+- **Λανθασμένα χρώματα ή ελλιπείς γραμματοσειρές** – Βεβαιωθείτε ότι η JVM μπορεί να εντοπίσει τα απαιτούμενα αρχεία γραμματοσειρών· ενσωματώστε τις γραμματοσειρές στο PDF πριν τη μετατροπή εάν χρειάζεται.  
+- **Απρόσμενο μέγεθος αρχείου** – Μειώστε το DPI ή μειώστε το `jpegQuality` εάν τα JPG είναι πολύ μεγάλα για τους περιορισμούς του εύρους ζώνης σας.  
+- **PDF με προστασία κωδικού** – Παρέχετε τον κωδικό κατά τη δημιουργία της στιγμής `ConversionConfig`; διαφορετικά η μετατροπή θα αποτύχει με σφάλμα αυθεντικοποίησης.  
 
-### [Master File Conversion in Java&#58; A Comprehensive Guide to Using GroupDocs.Conversion](./java-groupdocs-conversion-file-handling/)
-Μάθετε πώς να μετατρέπετε απρόσκοπτα διάφορες μορφές αρχείων σε Java εφαρμογές με GroupDocs.Conversion. Αυτό το guide καλύπτει εγκατάσταση, υλοποίηση και πρακτικές περιπτώσεις χρήσης.
+## Συχνές ερωτήσεις
 
-### [Master GroupDocs.Conversion Java&#58; Comprehensive Guide to Document Conversion in Java Applications](./groupdocs-conversion-java-master-document-conversion/)
-Μάθετε πώς να μετατρέπετε έγγραφα αποδοτικά χρησιμοποιώντας GroupDocs.Conversion for Java. Ακολουθήστε αυτό το βήμα‑βήμα guide και βελτιστοποιήστε τη διαχείριση εγγράφων στις εφαρμογές σας.
+**Q: Μπορώ να μετατρέψω μόνο επιλεγμένες σελίδες ενός PDF σε JPG;**  
+A: Ναι. Το API μετατροπής σας επιτρέπει να καθορίσετε ένα εύρος σελίδων ή έναν explicit πίνακα δεικτών σελίδων, ώστε να εξάγετε μόνο τις σελίδες που χρειάζεστε.
 
-## Additional Resources
+**Q: Πώς ελέγχω την ποιότητα εικόνας του αποτελέσματος JPG;**  
+A: Ρυθμίστε την ιδιότητα `jpegQuality` (0‑100) στο αντικείμενο `JpgConvertOptions`. Μια τιμή 80 προσφέρει καλή ισορροπία μεταξύ οπτικής πιστότητας και μεγέθους αρχείου για διανομή στο web.
 
-- [GroupDocs.Conversion for Java Documentation](https://docs.groupdocs.com/conversion/java/)
-- [GroupDocs.Conversion for Java API Reference](https://reference.groupdocs.com/conversion/java/)
-- [Download GroupDocs.Conversion for Java](https://releases.groupdocs.com/conversion/java/)
-- [GroupDocs.Conversion Forum](https://forum.groupdocs.com/c/conversion)
-- [Free Support](https://forum.groupdocs.com/)
-- [Temporary License](https://purchase.groupdocs.com/temporary-license/)
+**Q: Μπορεί να μετατραπούν PDF με προστασία κωδικού;**  
+A: Απόλυτα. Παρέχετε τον κωδικό κατά τη δημιουργία της στιγμής `ConversionConfig`, και το SDK θα αποκρυπτογραφήσει το έγγραφο αυτόματα πριν την απόδοση.
 
-## Common Use Cases & Tips
+**Q: Ποιο είναι το βέλτιστο DPI για μικρογραφίες έτοιμες για web;**  
+A: 72–96 DPI παρέχει μια ελαφριά εικόνα που φορτώνει γρήγορα ενώ παραμένει καθαρή στις περισσότερες οθόνες.
 
-| Use Case | Why It Matters | Quick Tip |
-|----------|----------------|-----------|
-| **Generating thumbnails for PDF reports** | Improves UI responsiveness in web portals | Set DPI to 72 for fast preview images |
-| **Batch converting invoices (PDF → JPG) for OCR pipelines** | Enables downstream text extraction | Use stream‑based conversion to keep memory usage low |
-| **Migrating legacy PDFs to image archives** | Preserves visual fidelity while simplifying storage | Choose lossless PNG when archiving, then convert to JPG for distribution |
-| **Integrating with AWS Lambda** | Serverless processing of uploaded PDFs | Combine the S3 automation tutorial with the PDF‑to‑JPG guide |
-
-## Why Generate PDF Thumbnails Java?
-Η δημιουργία εικόνων thumbnail από PDFs είναι συχνή απαίτηση όταν χτίζετε document browsers ή panels προεπισκόπησης. Με τη **pdf to jpg java**, μπορείτε να παράγετε ελαφριές JPG προεπισκοπήσεις που φορτώνουν άμεσα στην πλευρά του πελάτη. Ρυθμίστε το DPI για να ισορροπήσετε την ποιότητα και το μέγεθος αρχείου—72 DPI για γρήγορες προεπισκοπήσεις, 150 DPI για ανάγκες υψηλότερης ανάλυσης.
-
-## How to Set JPEG Quality Java
-GroupDocs.Conversion σας επιτρέπει να ελέγχετε τη συμπίεση JPEG μέσω του αντικειμένου `JpgConvertOptions`. Ορίστε την ιδιότητα `jpegQuality` (0‑100) για να ρυθμίσετε το μέγεθος εξόδου σε σχέση με την οπτική πιστότητα. Μια τυπική ρύθμιση για web delivery είναι 80, που προσφέρει καλή ισορροπία μεταξύ καθαρότητας και bandwidth.
-
-## Common Pitfalls & Troubleshooting
-- **Out‑of‑memory errors on large PDFs** – Process pages in batches or use stream‑based conversion to avoid loading the entire document into memory.  
-- **Incorrect colors or missing fonts** – Ensure the JVM has access to the required font files; you can embed fonts in the PDF before conversion.  
-- **Unexpected file size** – Lower the DPI or reduce `jpegQuality` if the resulting JPGs are too large for your use case.  
-- **Password‑protected PDFs** – Provide the password when constructing the `ConversionConfig`; otherwise the conversion will fail with an authentication error.
-
-## Frequently Asked Questions
-
-**Q: Can I convert only selected pages of a PDF to JPG?**  
-A: Yes. The conversion API lets you specify a page range or an array of page indices.
-
-**Q: How do I control the image quality of the JPG output?**  
-A: Adjust the `jpegQuality` setting (0‑100) in the `JpgConvertOptions` object.
-
-**Q: Is it possible to convert password‑protected PDFs?**  
-A: Absolutely. Provide the password when loading the `ConversionConfig`.
-
-**Q: What is the best DPI for web‑ready thumbnails?**  
-A: 72–96 DPI provides a good balance between quality and file size.
-
-**Q: Do I need to close streams manually?**  
-A: The library automatically disposes of streams when the conversion completes, but it’s good practice to close custom streams in a `try‑with‑resources` block.
+**Q: Πρέπει να κλείσω τις ροές χειροκίνητα;**  
+A: Η βιβλιοθήκη απελευθερώνει αυτόματα τις ροές μετά την ολοκλήρωση της μετατροπής, αλλά η περιτύλιξη προσαρμοσμένων ροών σε μπλοκ `try‑with‑resources` είναι καλή πρακτική για να εξασφαλιστεί η απελευθέρωση των πόρων.
 
 ---
 
-**Last Updated:** 2026-02-21  
-**Tested With:** GroupDocs.Conversion for Java 23.10  
-**Author:** GroupDocs
+**Τελευταία ενημέρωση:** 2026-09-15  
+**Δοκιμάστηκε με:** GroupDocs.Conversion for Java 23.10  
+**Συγγραφέας:** GroupDocs  
+
+## Σχετικοί οδηγοί
+
+- [Μετατροπή Pdf σε Png Groupdocs Java](/conversion/java/document-operations/convert-pdf-to-png-groupdocs-java/)
+- [Μετατροπή Word σε PDF με GroupDocs Java – Οδηγός](/conversion/java/pdf-conversion/convert-documents-pdf-groupdocs-java/)
