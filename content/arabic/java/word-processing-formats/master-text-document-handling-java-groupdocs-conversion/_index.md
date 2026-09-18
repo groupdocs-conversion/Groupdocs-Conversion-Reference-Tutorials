@@ -150,9 +150,6 @@ url: /ar/java/word-processing-formats/master-text-document-handling-java-groupdo
 weight: 1
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/tutorial-page-section >}}
 
 # كيفية إنشاء pdf من txt في Java باستخدام GroupDocs.Conversion
 
@@ -232,11 +229,12 @@ Converter converter = new Converter();
 1. **استيراد الفئات الضرورية**  
    `TxtLoadOptions` يتيح لك تحديد ترميز ملف المصدر.
 
-   ```java
-   // Definition anchor: TxtLoadOptions configures how a text file is read before conversion.
-   TxtLoadOptions loadOptions = new TxtLoadOptions();
-   ```
-   ```java
+```java
+ // Definition anchor: TxtLoadOptions configures how a text file is read before conversion.
+ TxtLoadOptions loadOptions = new TxtLoadOptions();
+ ```
+   
+```java
 import com.groupdocs.conversion.License;
 
 License license = new License();
@@ -246,23 +244,25 @@ license.setLicense("path/to/your/license.lic");
 2. **حدد مسار ملف الإدخال**  
    استبدل `YOUR_DOCUMENT_DIRECTORY` بالمسار المطلق لملف `.txt` الخاص بك.
 
-   ```java
-   String inputPath = "YOUR_DOCUMENT_DIRECTORY/sample.txt";
-   ```
-   ```java
-    import com.groupdocs.conversion.options.load.TxtLoadOptions;
-    import java.nio.charset.Charset;
-    ```
+ ```java
+ String inputPath = "YOUR_DOCUMENT_DIRECTORY/sample.txt";
+ ```
+ 
+ ```java
+  import com.groupdocs.conversion.options.load.TxtLoadOptions;
+  import java.nio.charset.Charset;
+  ```
 
 3. **إنشاء وتكوين TxtLoadOptions**  
    اضبط الترميز المطلوب، على سبيل المثال Shift_JIS للملفات اليابانية القديمة.
 
-   ```java
-   loadOptions.setEncoding("Shift_JIS"); // Change to "UTF-8" or other charset as needed
-   ```
-   ```java
-    String txtFilePath = "YOUR_DOCUMENT_DIRECTORY/yourfile.txt"; // Input file path
-    ```
+ ```java
+ loadOptions.setEncoding("Shift_JIS"); // Change to "UTF-8" or other charset as needed
+ ```
+ 
+ ```java
+  String txtFilePath = "YOUR_DOCUMENT_DIRECTORY/yourfile.txt"; // Input file path
+  ```
 
 ### تحويل مستند Txt
 مع تحميل ملف النص بشكل صحيح، يصبح التحويل إلى PDF استدعاءً لطريقة واحدة.
@@ -274,36 +274,39 @@ license.setLicense("path/to/your/license.lic");
 1. **استيراد فئات التحويل**  
    `PdfConvertOptions` يتيح لك ضبط مخرجات PDF بدقة (مثل حجم الصفحة، الهوامش).
 
-   ```java
-   // Definition anchor: PdfConvertOptions holds optional settings for PDF generation.
-   PdfConvertOptions pdfOptions = new PdfConvertOptions();
-   ```
-   ```java
-    TxtLoadOptions loadOptions = new TxtLoadOptions();
-    loadOptions.setEncoding(Charset.forName("shift_jis"));
-    ```
+ ```java
+ // Definition anchor: PdfConvertOptions holds optional settings for PDF generation.
+ PdfConvertOptions pdfOptions = new PdfConvertOptions();
+ ```
+
+ ```java
+  TxtLoadOptions loadOptions = new TxtLoadOptions();
+  loadOptions.setEncoding(Charset.forName("shift_jis"));
+  ```
 
 2. **حدد مسار ملف الإخراج**  
    عدل `YOUR_OUTPUT_DIRECTORY` لتشير إلى المكان الذي تريد حفظ PDF فيه.
 
-   ```java
-   String outputPath = "YOUR_OUTPUT_DIRECTORY/sample.pdf";
-   ```
-   ```java
-    import com.groupdocs.conversion.Converter;
-    import com.groupdocs.conversion.options.convert.PdfConvertOptions;
-    ```
+ ```java
+ String outputPath = "YOUR_OUTPUT_DIRECTORY/sample.pdf";
+ ```
+
+ ```java
+  import com.groupdocs.conversion.Converter;
+  import com.groupdocs.conversion.options.convert.PdfConvertOptions;
+  ```
 
 3. **تهيئة المحول وإجراء التحويل**  
    مرّر `TxtLoadOptions` لضمان تطبيق الترميز الصحيح أثناء التحويل.
 
-   ```java
-   // Direct answer: Call converter.convert(inputPath, loadOptions, outputPath, pdfOptions) to produce the PDF.
-   converter.convert(inputPath, loadOptions, outputPath, pdfOptions);
-   ```
-   ```java
-    String convertedFile = "YOUR_OUTPUT_DIRECTORY/ConvertedFile.pdf"; // Output file path
-    ```
+ ```java
+ // Direct answer: Call converter.convert(inputPath, loadOptions, outputPath, pdfOptions) to produce the PDF.
+ converter.convert(inputPath, loadOptions, outputPath, pdfOptions);
+ ```
+
+ ```java
+  String convertedFile = "YOUR_OUTPUT_DIRECTORY/ConvertedFile.pdf"; // Output file path
+  ```
 
 #### نصائح استكشاف الأخطاء وإصلاحها
 - **عدم تطابق الترميز** – تحقق من أن سلسلة الترميز تطابق الترميز الفعلي للملف؛ وإلا ستظهر الأحرف كـ � أو نص مشوش.  
@@ -340,22 +343,8 @@ license.setLicense("path/to/your/license.lic");
 **س: أين يمكنني العثور على أمثلة أكثر تفصيلاً ووثائق API؟**  
 ج: زر الوثائق الرسمية على [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/) ودليل التحويل المخصص على [GroupDocs Conversion Java Docs](https://docs.groupdocs.com/conversion/java/). استكشف مرجع API الكامل على [GroupDocs API Reference](https://reference.groupdocs.com/conversion/java/).
 
-```java
-    Converter converter = new Converter(txtFilePath, () -> loadOptions);
-    
-    PdfConvertOptions options = new PdfConvertOptions();
-    converter.convert(convertedFile, options);
-    ```
-
 ## دروس ذات صلة
 
 - [كيفية تحويل صفحات محددة من مستند إلى PDF باستخدام GroupDocs.Conversion لـ Java](/conversion/java/pdf-conversion/convert-specific-pages-pdf-groupdocs-java/)
 - [إخفاء التغييرات المتتبعة – دروس خيارات تحويل المستندات لـ GroupDocs.Conversion Java](/conversion/java/conversion-options/)
 - [إعداد GroupDocs Conversion Maven - تحويل CSV إلى PDF في Java – دليل خطوة بخطوة](/conversion/java/pdf-conversion/convert-csv-to-pdf-java-groupdocs-conversion-guide/)
-
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}
