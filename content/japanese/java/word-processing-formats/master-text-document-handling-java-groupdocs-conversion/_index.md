@@ -149,10 +149,6 @@ url: /ja/java/word-processing-formats/master-text-document-handling-java-groupdo
 weight: 1
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/tutorial-page-section >}}
-
 # JavaでGroupDocs.Conversionを使用してtxtからpdfを作成する方法
 
 プレーンテキストファイルを洗練されたPDFに変換することは、デバイス間で同じ見た目の情報を共有したいときに日常的に必要とされます。このチュートリアルでは、堅牢なGroupDocs.Conversionライブラリを使用してJavaで**txtからpdfを作成**する方法、カスタム文字エンコーディングの扱い方、そしてパフォーマンス最適化設定の適用方法を学びます。最後には、UTF‑8、Shift_JIS、ISO‑8859‑1 のいずれであっても `.txt` を信頼できる変換パイプラインに投入し、共有可能なPDFを出力できるようになります。
@@ -231,11 +227,12 @@ Converter converter = new Converter();
 1. **必要なクラスをインポート**  
    `TxtLoadOptions` はソースファイルの文字セットを指定できるようにします。
 
-   ```java
-   // Definition anchor: TxtLoadOptions configures how a text file is read before conversion.
-   TxtLoadOptions loadOptions = new TxtLoadOptions();
-   ```
-   ```java
+```java
+// Definition anchor: TxtLoadOptions configures how a text file is read before conversion.
+TxtLoadOptions loadOptions = new TxtLoadOptions();
+```
+
+```java
 import com.groupdocs.conversion.License;
 
 License license = new License();
@@ -245,23 +242,25 @@ license.setLicense("path/to/your/license.lic");
 2. **入力ファイルへのパスを指定**  
    `YOUR_DOCUMENT_DIRECTORY` を `.txt` ファイルへの絶対パスに置き換えてください。
 
-   ```java
-   String inputPath = "YOUR_DOCUMENT_DIRECTORY/sample.txt";
-   ```
-   ```java
-    import com.groupdocs.conversion.options.load.TxtLoadOptions;
-    import java.nio.charset.Charset;
-    ```
+```java
+String inputPath = "YOUR_DOCUMENT_DIRECTORY/sample.txt";
+```
+
+```java
+import com.groupdocs.conversion.options.load.TxtLoadOptions;
+import java.nio.charset.Charset;
+```
 
 3. **TxtLoadOptions を作成し設定**  
    目的のエンコーディングを設定します。例として日本語レガシーファイルの場合は Shift_JIS を使用します。
 
-   ```java
-   loadOptions.setEncoding("Shift_JIS"); // Change to "UTF-8" or other charset as needed
-   ```
-   ```java
-    String txtFilePath = "YOUR_DOCUMENT_DIRECTORY/yourfile.txt"; // Input file path
-    ```
+```java
+loadOptions.setEncoding("Shift_JIS"); // Change to "UTF-8" or other charset as needed
+```
+
+```java
+String txtFilePath = "YOUR_DOCUMENT_DIRECTORY/yourfile.txt"; // Input file path
+```
 
 ### Txt ドキュメントの変換
 テキストファイルが正しく読み込まれたら、PDFへの変換は単一のメソッド呼び出しで完了します。
@@ -273,36 +272,39 @@ PDFへの変換はデバイスに依存しない表現を生成し、アーカ�
 1. **変換クラスをインポート**  
    `PdfConvertOptions` を使用すると、PDF出力（例：ページサイズ、余白）を細かく調整できます。
 
-   ```java
-   // Definition anchor: PdfConvertOptions holds optional settings for PDF generation.
-   PdfConvertOptions pdfOptions = new PdfConvertOptions();
-   ```
-   ```java
-    TxtLoadOptions loadOptions = new TxtLoadOptions();
-    loadOptions.setEncoding(Charset.forName("shift_jis"));
-    ```
+```java
+// Definition anchor: PdfConvertOptions holds optional settings for PDF generation.
+PdfConvertOptions pdfOptions = new PdfConvertOptions();
+```
+
+```java
+TxtLoadOptions loadOptions = new TxtLoadOptions();
+loadOptions.setEncoding(Charset.forName("shift_jis"));
+```
 
 2. **出力ファイルのパスを指定**  
    `YOUR_OUTPUT_DIRECTORY` をPDFを保存したい場所のパスに変更してください。
 
-   ```java
-   String outputPath = "YOUR_OUTPUT_DIRECTORY/sample.pdf";
-   ```
-   ```java
-    import com.groupdocs.conversion.Converter;
-    import com.groupdocs.conversion.options.convert.PdfConvertOptions;
-    ```
+```java
+String outputPath = "YOUR_OUTPUT_DIRECTORY/sample.pdf";
+```
+
+```java
+import com.groupdocs.conversion.Converter;
+import com.groupdocs.conversion.options.convert.PdfConvertOptions;
+```
 
 3. **コンバータを初期化し変換を実行**  
    変換時に正しいエンコーディングが適用されるよう、`TxtLoadOptions` を渡します。
 
-   ```java
-   // Direct answer: Call converter.convert(inputPath, loadOptions, outputPath, pdfOptions) to produce the PDF.
-   converter.convert(inputPath, loadOptions, outputPath, pdfOptions);
-   ```
-   ```java
-    String convertedFile = "YOUR_OUTPUT_DIRECTORY/ConvertedFile.pdf"; // Output file path
-    ```
+```java
+// Direct answer: Call converter.convert(inputPath, loadOptions, outputPath, pdfOptions) to produce the PDF.
+converter.convert(inputPath, loadOptions, outputPath, pdfOptions);
+```
+
+```java
+String convertedFile = "YOUR_OUTPUT_DIRECTORY/ConvertedFile.pdf"; // Output file path
+```
 
 #### トラブルシューティングのヒント
 - **エンコーディングの不一致** – 文字セット文字列がファイルの実際のエンコーディングと一致しているか確認してください。そうでない場合、文字が � や文字化けとして表示されます。  
@@ -341,22 +343,9 @@ A: はい、`PdfConvertOptions` を設定することで、フォントファミ
 **Q: 詳細なサンプルや API ドキュメントはどこで見つけられますか？**  
 A: 公式ドキュメントは [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/) を、専用の変換ガイドは [GroupDocs Conversion Java Docs](https://docs.groupdocs.com/conversion/java/) をご覧ください。完全な API リファレンスは [GroupDocs API Reference](https://reference.groupdocs.com/conversion/java/) で確認できます。
 
-```java
-    Converter converter = new Converter(txtFilePath, () -> loadOptions);
-    
-    PdfConvertOptions options = new PdfConvertOptions();
-    converter.convert(convertedFile, options);
-    ```
 
 ## 関連チュートリアル
 
 - [GroupDocs.Conversion for Java を使用してドキュメントの特定ページをPDFに変換する方法](/conversion/java/pdf-conversion/convert-specific-pages-pdf-groupdocs-java/)
 - [変更履歴の非表示 – GroupDocs.Conversion Java 用ドキュメント変換オプションチュートリアル](/conversion/java/conversion-options/)
 - [GroupDocs Conversion Maven のセットアップ - JavaでCSVをPDFに変換するステップバイステップガイド](/conversion/java/pdf-conversion/convert-csv-to-pdf-java-groupdocs-conversion-guide/)
-
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}

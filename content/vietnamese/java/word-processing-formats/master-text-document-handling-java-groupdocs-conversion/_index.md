@@ -151,10 +151,6 @@ url: /vi/java/word-processing-formats/master-text-document-handling-java-groupdo
 weight: 1
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/tutorial-page-section >}}
-
 # Cách tạo pdf từ txt trong Java bằng GroupDocs.Conversion
 
 Chuyển đổi một tệp văn bản thuần thành PDF chuyên nghiệp là nhu cầu thường gặp khi bạn muốn chia sẻ thông tin có cùng giao diện trên mọi thiết bị. Trong hướng dẫn này, bạn sẽ học cách **tạo pdf từ txt** trong Java với thư viện mạnh mẽ GroupDocs.Conversion, xử lý các bộ mã ký tự tùy chỉnh, và áp dụng các cài đặt tối ưu hiệu năng. Khi hoàn thành, bạn sẽ có thể đưa bất kỳ tệp `.txt` nào—cho dù là UTF‑8, Shift_JIS, hay ISO‑8859‑1—vào quy trình chuyển đổi đáng tin cậy, xuất ra PDF sẵn sàng chia sẻ.
@@ -233,11 +229,12 @@ Charset chính xác đảm bảo mọi ký tự—từ bảng chữ Latin đến
 1. **Nhập các lớp cần thiết**  
    `TxtLoadOptions` cho phép bạn chỉ định charset của tệp nguồn.
 
-   ```java
-   // Definition anchor: TxtLoadOptions configures how a text file is read before conversion.
-   TxtLoadOptions loadOptions = new TxtLoadOptions();
-   ```
-   ```java
+```java
+// Definition anchor: TxtLoadOptions configures how a text file is read before conversion.
+TxtLoadOptions loadOptions = new TxtLoadOptions();
+```
+
+```java
 import com.groupdocs.conversion.License;
 
 License license = new License();
@@ -247,23 +244,25 @@ license.setLicense("path/to/your/license.lic");
 2. **Xác định đường dẫn tới tệp đầu vào**  
    Thay `YOUR_DOCUMENT_DIRECTORY` bằng đường dẫn tuyệt đối tới tệp `.txt` của bạn.
 
-   ```java
-   String inputPath = "YOUR_DOCUMENT_DIRECTORY/sample.txt";
-   ```
-   ```java
-    import com.groupdocs.conversion.options.load.TxtLoadOptions;
-    import java.nio.charset.Charset;
-    ```
+```java
+String inputPath = "YOUR_DOCUMENT_DIRECTORY/sample.txt";
+```
+
+```java
+import com.groupdocs.conversion.options.load.TxtLoadOptions;
+import java.nio.charset.Charset;
+```
 
 3. **Tạo và cấu hình TxtLoadOptions**  
    Đặt charset mong muốn, ví dụ Shift_JIS cho các tệp Nhật Bản cũ.
 
-   ```java
-   loadOptions.setEncoding("Shift_JIS"); // Change to "UTF-8" or other charset as needed
-   ```
-   ```java
-    String txtFilePath = "YOUR_DOCUMENT_DIRECTORY/yourfile.txt"; // Input file path
-    ```
+```java
+loadOptions.setEncoding("Shift_JIS"); // Change to "UTF-8" or other charset as needed
+```
+
+```java
+String txtFilePath = "YOUR_DOCUMENT_DIRECTORY/yourfile.txt"; // Input file path
+```
 
 ### Chuyển đổi tài liệu Txt
 Khi tệp văn bản đã được tải đúng, việc chuyển đổi sang PDF chỉ cần một lời gọi phương thức duy nhất.
@@ -275,36 +274,39 @@ Chuyển đổi sang PDF tạo ra một định dạng độc lập với thiế
 1. **Nhập các lớp chuyển đổi**  
    `PdfConvertOptions` cho phép bạn tinh chỉnh đầu ra PDF (ví dụ: kích thước trang, lề).
 
-   ```java
-   // Definition anchor: PdfConvertOptions holds optional settings for PDF generation.
-   PdfConvertOptions pdfOptions = new PdfConvertOptions();
-   ```
-   ```java
-    TxtLoadOptions loadOptions = new TxtLoadOptions();
-    loadOptions.setEncoding(Charset.forName("shift_jis"));
-    ```
+```java
+// Definition anchor: PdfConvertOptions holds optional settings for PDF generation.
+PdfConvertOptions pdfOptions = new PdfConvertOptions();
+```
+
+```java
+TxtLoadOptions loadOptions = new TxtLoadOptions();
+loadOptions.setEncoding(Charset.forName("shift_jis"));
+```
 
 2. **Xác định đường dẫn tệp đầu ra**  
    Điều chỉnh `YOUR_OUTPUT_DIRECTORY` để chỉ nơi bạn muốn lưu PDF.
 
-   ```java
-   String outputPath = "YOUR_OUTPUT_DIRECTORY/sample.pdf";
-   ```
-   ```java
-    import com.groupdocs.conversion.Converter;
-    import com.groupdocs.conversion.options.convert.PdfConvertOptions;
-    ```
+```java
+String outputPath = "YOUR_OUTPUT_DIRECTORY/sample.pdf";
+```
+
+```java
+import com.groupdocs.conversion.Converter;
+import com.groupdocs.conversion.options.convert.PdfConvertOptions;
+```
 
 3. **Khởi tạo converter và thực hiện chuyển đổi**  
    Truyền `TxtLoadOptions` để đảm bảo charset đúng được áp dụng trong quá trình chuyển đổi.
 
-   ```java
-   // Direct answer: Call converter.convert(inputPath, loadOptions, outputPath, pdfOptions) to produce the PDF.
-   converter.convert(inputPath, loadOptions, outputPath, pdfOptions);
-   ```
-   ```java
-    String convertedFile = "YOUR_OUTPUT_DIRECTORY/ConvertedFile.pdf"; // Output file path
-    ```
+```java
+// Direct answer: Call converter.convert(inputPath, loadOptions, outputPath, pdfOptions) to produce the PDF.
+converter.convert(inputPath, loadOptions, outputPath, pdfOptions);
+```
+
+```java
+String convertedFile = "YOUR_OUTPUT_DIRECTORY/ConvertedFile.pdf"; // Output file path
+```
 
 #### Mẹo khắc phục sự cố
 - **Không khớp charset** – Kiểm tra chuỗi charset có khớp với mã thực tế của tệp; nếu không, ký tự sẽ hiển thị thành � hoặc bị lỗi.  
@@ -343,22 +345,8 @@ A: Có, cấu hình `PdfConvertOptions`—bạn có thể đặt họ phông, k�
 **Q: Tôi có thể tìm thấy các ví dụ chi tiết và tài liệu API ở đâu?**  
 A: Tham khảo tài liệu chính thức tại [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/) và hướng dẫn chuyển đổi chuyên sâu tại [GroupDocs Conversion Java Docs](https://docs.groupdocs.com/conversion/java/). Khám phá toàn bộ tham chiếu API tại [GroupDocs API Reference](https://reference.groupdocs.com/conversion/java/).
 
-```java
-    Converter converter = new Converter(txtFilePath, () -> loadOptions);
-    
-    PdfConvertOptions options = new PdfConvertOptions();
-    converter.convert(convertedFile, options);
-    ```
-
 ## Các hướng dẫn liên quan
 
 - [How to Convert Specific Pages of a Document to PDF Using GroupDocs.Conversion for Java](/conversion/java/pdf-conversion/convert-specific-pages-pdf-groupdocs-java/)
 - [Hide Tracked Changes – Document Conversion Options Tutorials for GroupDocs.Conversion Java](/conversion/java/conversion-options/)
 - [Setup GroupDocs Conversion Maven - Convert CSV to PDF in Java – Step‑by‑Step Guide](/conversion/java/pdf-conversion/convert-csv-to-pdf-java-groupdocs-conversion-guide/)
-
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}

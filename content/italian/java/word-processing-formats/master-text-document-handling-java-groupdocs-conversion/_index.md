@@ -152,10 +152,6 @@ url: /it/java/word-processing-formats/master-text-document-handling-java-groupdo
 weight: 1
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/tutorial-page-section >}}
-
 # Come creare pdf da txt in Java usando GroupDocs.Conversion
 
 La conversione di un file di testo semplice in un PDF curato è una necessità comune quando si desidera condividere informazioni che appaiono identiche su ogni dispositivo. In questo tutorial imparerai a **creare pdf da txt** in Java con la robusta libreria GroupDocs.Conversion, gestire codifiche di caratteri personalizzate e applicare impostazioni ottimizzate per le prestazioni. Alla fine sarai in grado di fornire qualsiasi `.txt` — sia UTF‑8, Shift_JIS o ISO‑8859‑1 — a una pipeline di conversione affidabile che genera un PDF pronto per la condivisione.
@@ -234,11 +230,12 @@ La codifica corretta garantisce che ogni carattere — dagli alfabeti latini ai 
 1. **Importa le classi necessarie**  
    `TxtLoadOptions` ti consente di specificare il charset del file di origine.
 
-   ```java
-   // Definition anchor: TxtLoadOptions configures how a text file is read before conversion.
-   TxtLoadOptions loadOptions = new TxtLoadOptions();
-   ```
-   ```java
+```java
+// Definition anchor: TxtLoadOptions configures how a text file is read before conversion.
+TxtLoadOptions loadOptions = new TxtLoadOptions();
+```
+
+```java
 import com.groupdocs.conversion.License;
 
 License license = new License();
@@ -248,23 +245,25 @@ license.setLicense("path/to/your/license.lic");
 2. **Specifica il percorso al tuo file di input**  
    Sostituisci `YOUR_DOCUMENT_DIRECTORY` con il percorso assoluto al tuo file `.txt`.
 
-   ```java
-   String inputPath = "YOUR_DOCUMENT_DIRECTORY/sample.txt";
-   ```
-   ```java
-    import com.groupdocs.conversion.options.load.TxtLoadOptions;
-    import java.nio.charset.Charset;
-    ```
+```java
+String inputPath = "YOUR_DOCUMENT_DIRECTORY/sample.txt";
+```
+
+```java
+import com.groupdocs.conversion.options.load.TxtLoadOptions;
+import java.nio.charset.Charset;
+```
 
 3. **Crea e configura TxtLoadOptions**  
    Imposta la codifica desiderata, ad esempio Shift_JIS per file legacy giapponesi.
 
-   ```java
-   loadOptions.setEncoding("Shift_JIS"); // Change to "UTF-8" or other charset as needed
-   ```
-   ```java
-    String txtFilePath = "YOUR_DOCUMENT_DIRECTORY/yourfile.txt"; // Input file path
-    ```
+```java
+loadOptions.setEncoding("Shift_JIS"); // Change to "UTF-8" or other charset as needed
+```
+
+```java
+String txtFilePath = "YOUR_DOCUMENT_DIRECTORY/yourfile.txt"; // Input file path
+```
 
 ### Conversione del documento Txt
 Con il file di testo correttamente caricato, la conversione in PDF diventa una singola chiamata di metodo.
@@ -276,36 +275,39 @@ La conversione in PDF crea una rappresentazione indipendente dal dispositivo, id
 1. **Importa le classi di conversione**  
    `PdfConvertOptions` ti permette di perfezionare l'output PDF (es., dimensione pagina, margini).
 
-   ```java
-   // Definition anchor: PdfConvertOptions holds optional settings for PDF generation.
-   PdfConvertOptions pdfOptions = new PdfConvertOptions();
-   ```
-   ```java
-    TxtLoadOptions loadOptions = new TxtLoadOptions();
-    loadOptions.setEncoding(Charset.forName("shift_jis"));
-    ```
+```java
+// Definition anchor: PdfConvertOptions holds optional settings for PDF generation.
+PdfConvertOptions pdfOptions = new PdfConvertOptions();
+```
+
+```java
+TxtLoadOptions loadOptions = new TxtLoadOptions();
+loadOptions.setEncoding(Charset.forName("shift_jis"));
+```
 
 2. **Specifica il percorso del file di output**  
    Regola `YOUR_OUTPUT_DIRECTORY` per indicare dove salvare il PDF.
 
-   ```java
-   String outputPath = "YOUR_OUTPUT_DIRECTORY/sample.pdf";
-   ```
-   ```java
-    import com.groupdocs.conversion.Converter;
-    import com.groupdocs.conversion.options.convert.PdfConvertOptions;
-    ```
+```java
+String outputPath = "YOUR_OUTPUT_DIRECTORY/sample.pdf";
+```
+
+```java
+import com.groupdocs.conversion.Converter;
+import com.groupdocs.conversion.options.convert.PdfConvertOptions;
+```
 
 3. **Inizializza il convertitore ed esegui la conversione**  
    Passa `TxtLoadOptions` per garantire che la codifica corretta venga applicata durante la conversione.
 
-   ```java
-   // Direct answer: Call converter.convert(inputPath, loadOptions, outputPath, pdfOptions) to produce the PDF.
-   converter.convert(inputPath, loadOptions, outputPath, pdfOptions);
-   ```
-   ```java
-    String convertedFile = "YOUR_OUTPUT_DIRECTORY/ConvertedFile.pdf"; // Output file path
-    ```
+```java
+// Direct answer: Call converter.convert(inputPath, loadOptions, outputPath, pdfOptions) to produce the PDF.
+converter.convert(inputPath, loadOptions, outputPath, pdfOptions);
+```
+
+```java
+String convertedFile = "YOUR_OUTPUT_DIRECTORY/ConvertedFile.pdf"; // Output file path
+```
 
 #### Suggerimenti per la risoluzione dei problemi
 - **Mancata corrispondenza della codifica** – Verifica che la stringa del charset corrisponda alla codifica reale del file; altrimenti i caratteri appariranno come � o testo illeggibile.  
@@ -344,22 +346,8 @@ A: Sì, configura `PdfConvertOptions` — puoi impostare famiglie di font, dimen
 **Q: Dove posso trovare esempi più dettagliati e la documentazione API?**  
 A: Visita la documentazione ufficiale su [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/) e la guida dedicata alla conversione su [GroupDocs Conversion Java Docs](https://docs.groupdocs.com/conversion/java/). Esplora il riferimento completo dell'API su [GroupDocs API Reference](https://reference.groupdocs.com/conversion/java/).
 
-```java
-    Converter converter = new Converter(txtFilePath, () -> loadOptions);
-    
-    PdfConvertOptions options = new PdfConvertOptions();
-    converter.convert(convertedFile, options);
-    ```
-
 ## Tutorial correlati
 
 - [Come convertire pagine specifiche di un documento in PDF usando GroupDocs.Conversion per Java](/conversion/java/pdf-conversion/convert-specific-pages-pdf-groupdocs-java/)
 - [Nascondi modifiche tracciate – Tutorial sulle opzioni di conversione documenti per GroupDocs.Conversion Java](/conversion/java/conversion-options/)
 - [Configurazione GroupDocs Conversion Maven - Converti CSV in PDF in Java – Guida passo‑passo](/conversion/java/pdf-conversion/convert-csv-to-pdf-java-groupdocs-conversion-guide/)
-
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}

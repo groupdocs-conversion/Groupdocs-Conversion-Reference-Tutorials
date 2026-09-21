@@ -150,10 +150,6 @@ url: /th/java/word-processing-formats/master-text-document-handling-java-groupdo
 weight: 1
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/tutorial-page-section >}}
-
 # วิธีสร้าง pdf จาก txt ใน Java ด้วย GroupDocs.Conversion
 
 การแปลงไฟล์ plain‑text ให้เป็น PDF ที่ดูเรียบร้อยเป็นความต้องการทั่วไปเมื่อคุณต้องการแชร์ข้อมูลที่แสดงผลเดียวกันบนทุกอุปกรณ์ ในบทเรียนนี้คุณจะได้เรียนรู้วิธี **create pdf from txt** ใน Java ด้วยไลบรารี GroupDocs.Conversion ที่แข็งแกร่ง การจัดการการเข้ารหัสอักขระแบบกำหนดเอง และการใช้การตั้งค่าที่เพิ่มประสิทธิภาพ เมื่อเสร็จสิ้นคุณจะสามารถป้อนไฟล์ `.txt` ใดก็ได้—ไม่ว่าจะเป็น UTF‑8, Shift_JIS หรือ ISO‑8859‑1—เข้าสู่กระบวนการแปลงที่เชื่อถือได้ซึ่งจะสร้าง PDF พร้อมแชร์
@@ -232,11 +228,12 @@ Converter converter = new Converter();
 1. **นำเข้าคลาสที่จำเป็น**  
    `TxtLoadOptions` lets you specify the source file’s charset.
 
-   ```java
-   // Definition anchor: TxtLoadOptions configures how a text file is read before conversion.
-   TxtLoadOptions loadOptions = new TxtLoadOptions();
-   ```
-   ```java
+```java
+// Definition anchor: TxtLoadOptions configures how a text file is read before conversion.
+TxtLoadOptions loadOptions = new TxtLoadOptions();
+```
+
+```java
 import com.groupdocs.conversion.License;
 
 License license = new License();
@@ -246,23 +243,25 @@ license.setLicense("path/to/your/license.lic");
 2. **ระบุเส้นทางไปยังไฟล์อินพุตของคุณ**  
    Replace `YOUR_DOCUMENT_DIRECTORY` with the absolute path to your `.txt` file.
 
-   ```java
-   String inputPath = "YOUR_DOCUMENT_DIRECTORY/sample.txt";
-   ```
-   ```java
-    import com.groupdocs.conversion.options.load.TxtLoadOptions;
-    import java.nio.charset.Charset;
-    ```
+```java
+String inputPath = "YOUR_DOCUMENT_DIRECTORY/sample.txt";
+```
+
+```java
+import com.groupdocs.conversion.options.load.TxtLoadOptions;
+import java.nio.charset.Charset;
+```
 
 3. **สร้างและกำหนดค่า TxtLoadOptions**  
    Set the desired encoding, for example Shift_JIS for Japanese legacy files.
 
-   ```java
-   loadOptions.setEncoding("Shift_JIS"); // Change to "UTF-8" or other charset as needed
-   ```
-   ```java
-    String txtFilePath = "YOUR_DOCUMENT_DIRECTORY/yourfile.txt"; // Input file path
-    ```
+```java
+loadOptions.setEncoding("Shift_JIS"); // Change to "UTF-8" or other charset as needed
+```
+
+```java
+String txtFilePath = "YOUR_DOCUMENT_DIRECTORY/yourfile.txt"; // Input file path
+```
 
 ### การแปลงเอกสาร Txt
 เมื่อไฟล์ข้อความถูกโหลดอย่างถูกต้อง การแปลงเป็น PDF จะกลายเป็นการเรียกเมธอดเดียว
@@ -274,36 +273,39 @@ license.setLicense("path/to/your/license.lic");
 1. **นำเข้าคลาสการแปลง**  
    `PdfConvertOptions` allows you to fine‑tune the PDF output (e.g., page size, margins).
 
-   ```java
-   // Definition anchor: PdfConvertOptions holds optional settings for PDF generation.
-   PdfConvertOptions pdfOptions = new PdfConvertOptions();
-   ```
-   ```java
-    TxtLoadOptions loadOptions = new TxtLoadOptions();
-    loadOptions.setEncoding(Charset.forName("shift_jis"));
-    ```
+```java
+// Definition anchor: PdfConvertOptions holds optional settings for PDF generation.
+PdfConvertOptions pdfOptions = new PdfConvertOptions();
+```
+
+```java
+TxtLoadOptions loadOptions = new TxtLoadOptions();
+loadOptions.setEncoding(Charset.forName("shift_jis"));
+```
 
 2. **ระบุเส้นทางไฟล์ผลลัพธ์**  
    Adjust `YOUR_OUTPUT_DIRECTORY` to point where you want the PDF saved.
 
-   ```java
-   String outputPath = "YOUR_OUTPUT_DIRECTORY/sample.pdf";
-   ```
-   ```java
-    import com.groupdocs.conversion.Converter;
-    import com.groupdocs.conversion.options.convert.PdfConvertOptions;
-    ```
+```java
+String outputPath = "YOUR_OUTPUT_DIRECTORY/sample.pdf";
+```
+
+```java
+import com.groupdocs.conversion.Converter;
+import com.groupdocs.conversion.options.convert.PdfConvertOptions;
+```
 
 3. **เริ่มต้นตัวแปลงและดำเนินการแปลง**  
    Pass the `TxtLoadOptions` to ensure the correct encoding is applied during the conversion.
 
-   ```java
-   // Direct answer: Call converter.convert(inputPath, loadOptions, outputPath, pdfOptions) to produce the PDF.
-   converter.convert(inputPath, loadOptions, outputPath, pdfOptions);
-   ```
-   ```java
-    String convertedFile = "YOUR_OUTPUT_DIRECTORY/ConvertedFile.pdf"; // Output file path
-    ```
+```java
+// Direct answer: Call converter.convert(inputPath, loadOptions, outputPath, pdfOptions) to produce the PDF.
+converter.convert(inputPath, loadOptions, outputPath, pdfOptions);
+```
+
+```java
+String convertedFile = "YOUR_OUTPUT_DIRECTORY/ConvertedFile.pdf"; // Output file path
+```
 
 #### เคล็ดลับการแก้ไขปัญหา
 - **Encoding mismatch** – ตรวจสอบว่า string ของ charset ตรงกับการเข้ารหัสจริงของไฟล์; หากไม่เช่นนั้นอักขระจะปรากฏเป็น � หรือข้อความเสียรูป.  
@@ -340,21 +342,7 @@ A: ได้, ตั้งค่า `PdfConvertOptions`—คุณสามา�
 **Q: ฉันจะหา ตัวอย่างและเอกสาร API รายละเอียดเพิ่มเติมได้ที่ไหน?**  
 A: เยี่ยมชมเอกสารอย่างเป็นทางการที่ [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/) และคู่มือการแปลงเฉพาะที่ [GroupDocs Conversion Java Docs](https://docs.groupdocs.com/conversion/java/). สำรวจอ้างอิง API ทั้งหมดที่ [GroupDocs API Reference](https://reference.groupdocs.com/conversion/java/).
 
-```java
-    Converter converter = new Converter(txtFilePath, () -> loadOptions);
-    
-    PdfConvertOptions options = new PdfConvertOptions();
-    converter.convert(convertedFile, options);
-    ```
-
 ## บทแนะนำที่เกี่ยวข้อง
 - [วิธีแปลงหน้าที่เฉพาะของเอกสารเป็น PDF ด้วย GroupDocs.Conversion สำหรับ Java](/conversion/java/pdf-conversion/convert-specific-pages-pdf-groupdocs-java/)
 - [ซ่อนการเปลี่ยนแปลงที่ติดตาม – บทแนะนำตัวเลือกการแปลงเอกสารสำหรับ GroupDocs.Conversion Java](/conversion/java/conversion-options/)
 - [ตั้งค่า GroupDocs Conversion Maven - แปลง CSV เป็น PDF ใน Java – คู่มือขั้นตอนต่อขั้นตอน](/conversion/java/pdf-conversion/convert-csv-to-pdf-java-groupdocs-conversion-guide/)
-
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}

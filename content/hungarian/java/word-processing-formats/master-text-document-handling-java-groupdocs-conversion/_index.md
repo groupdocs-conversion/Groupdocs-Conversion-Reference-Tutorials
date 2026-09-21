@@ -153,10 +153,6 @@ url: /hu/java/word-processing-formats/master-text-document-handling-java-groupdo
 weight: 1
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/tutorial-page-section >}}
-
 # Hogyan hozzunk létre PDF-et txt-ből Java-ban a GroupDocs.Conversion segítségével
 
 Egy egyszerű szövegfájl átalakítása egy kifinomult PDF‑é egy mindennapi feladat, amikor azt szeretnéd, hogy az információ minden eszközön ugyanúgy jelenjen meg. Ebben az oktatóanyagban megtanulod, hogyan **hozz létre PDF-et txt‑ből** Java‑ban a robusztus GroupDocs.Conversion könyvtárral, hogyan kezeld az egyedi karakterkódolásokat, és hogyan alkalmazz teljesítmény‑optimalizált beállításokat. A végére képes leszel bármilyen `.txt` fájlt – legyen az UTF‑8, Shift_JIS vagy ISO‑8859‑1 – egy megbízható konverziós csővezetékbe táplálni, amely kész, megosztható PDF‑et ad vissza.
@@ -235,11 +231,12 @@ A megfelelő kódolás biztosítja, hogy minden karakter – a latin ábécétő
 1. **Importáld a szükséges osztályokat**  
    A `TxtLoadOptions` lehetővé teszi a forrásfájl karakterkészletének megadását.
 
-   ```java
-   // Definition anchor: TxtLoadOptions configures how a text file is read before conversion.
-   TxtLoadOptions loadOptions = new TxtLoadOptions();
-   ```
-   ```java
+```java
+// Definition anchor: TxtLoadOptions configures how a text file is read before conversion.
+TxtLoadOptions loadOptions = new TxtLoadOptions();
+```
+
+```java
 import com.groupdocs.conversion.License;
 
 License license = new License();
@@ -249,23 +246,25 @@ license.setLicense("path/to/your/license.lic");
 2. **Add meg a bemeneti fájl elérési útját**  
    Cseréld le a `YOUR_DOCUMENT_DIRECTORY`‑t a `.txt` fájlod abszolút útjára.
 
-   ```java
-   String inputPath = "YOUR_DOCUMENT_DIRECTORY/sample.txt";
-   ```
-   ```java
-    import com.groupdocs.conversion.options.load.TxtLoadOptions;
-    import java.nio.charset.Charset;
-    ```
+```java
+String inputPath = "YOUR_DOCUMENT_DIRECTORY/sample.txt";
+```
+
+```java
+import com.groupdocs.conversion.options.load.TxtLoadOptions;
+import java.nio.charset.Charset;
+```
 
 3. **Hozd létre és konfiguráld a TxtLoadOptions‑t**  
    Állítsd be a kívánt kódolást, például Shift_JIS a japán örökölt fájlokhoz.
 
-   ```java
-   loadOptions.setEncoding("Shift_JIS"); // Change to "UTF-8" or other charset as needed
-   ```
-   ```java
-    String txtFilePath = "YOUR_DOCUMENT_DIRECTORY/yourfile.txt"; // Input file path
-    ```
+```java
+loadOptions.setEncoding("Shift_JIS"); // Change to "UTF-8" or other charset as needed
+```
+
+```java
+String txtFilePath = "YOUR_DOCUMENT_DIRECTORY/yourfile.txt"; // Input file path
+```
 
 ### Txt dokumentum konverzió
 A szövegfájl helyes betöltése után a PDF‑re konvertálás egyetlen metódushívássá válik.
@@ -277,36 +276,39 @@ A PDF‑re konvertálás egy eszköz‑független reprezentációt hoz létre, a
 1. **Importáld a konverziós osztályokat**  
    A `PdfConvertOptions` lehetővé teszi a PDF kimenet finomhangolását (pl. oldalméret, margók).
 
-   ```java
-   // Definition anchor: PdfConvertOptions holds optional settings for PDF generation.
-   PdfConvertOptions pdfOptions = new PdfConvertOptions();
-   ```
-   ```java
-    TxtLoadOptions loadOptions = new TxtLoadOptions();
-    loadOptions.setEncoding(Charset.forName("shift_jis"));
-    ```
+```java
+// Definition anchor: PdfConvertOptions holds optional settings for PDF generation.
+PdfConvertOptions pdfOptions = new PdfConvertOptions();
+```
+
+```java
+TxtLoadOptions loadOptions = new TxtLoadOptions();
+loadOptions.setEncoding(Charset.forName("shift_jis"));
+```
 
 2. **Add meg a kimeneti fájl elérési útját**  
    Állítsd be a `YOUR_OUTPUT_DIRECTORY`‑t arra a helyre, ahová a PDF‑et menteni szeretnéd.
 
-   ```java
-   String outputPath = "YOUR_OUTPUT_DIRECTORY/sample.pdf";
-   ```
-   ```java
-    import com.groupdocs.conversion.Converter;
-    import com.groupdocs.conversion.options.convert.PdfConvertOptions;
-    ```
+```java
+String outputPath = "YOUR_OUTPUT_DIRECTORY/sample.pdf";
+```
+
+```java
+import com.groupdocs.conversion.Converter;
+import com.groupdocs.conversion.options.convert.PdfConvertOptions;
+```
 
 3. **Inicializáld a konvertálót és hajtsd végre a konverziót**  
    Add át a `TxtLoadOptions`‑t, hogy a megfelelő kódolás a konverzió során alkalmazásra kerüljön.
 
-   ```java
-   // Direct answer: Call converter.convert(inputPath, loadOptions, outputPath, pdfOptions) to produce the PDF.
-   converter.convert(inputPath, loadOptions, outputPath, pdfOptions);
-   ```
-   ```java
-    String convertedFile = "YOUR_OUTPUT_DIRECTORY/ConvertedFile.pdf"; // Output file path
-    ```
+```java
+// Direct answer: Call converter.convert(inputPath, loadOptions, outputPath, pdfOptions) to produce the PDF.
+converter.convert(inputPath, loadOptions, outputPath, pdfOptions);
+```
+
+```java
+String convertedFile = "YOUR_OUTPUT_DIRECTORY/ConvertedFile.pdf"; // Output file path
+```
 
 #### Hibaelhárítási tippek
 - **Kódolási eltérés** – Ellenőrizd, hogy a karakterkészlet‑string megegyezik-e a fájl tényleges kódolásával; ellenkező esetben a karakterek �‑ként vagy torz szövegként fognak megjelenni.  
@@ -345,22 +347,8 @@ A: Igen, konfiguráld a `PdfConvertOptions`‑t – beállíthatsz betűcsaládo
 **Q: Hol találok részletesebb példákat és API dokumentációt?**  
 A: Látogasd meg a hivatalos dokumentációt a [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/) oldalon, valamint a dedikált konverziós útmutatót a [GroupDocs Conversion Java Docs](https://docs.groupdocs.com/conversion/java/). A teljes API referencia megtalálható a [GroupDocs API Reference](https://reference.groupdocs.com/conversion/java/) oldalon.
 
-```java
-    Converter converter = new Converter(txtFilePath, () -> loadOptions);
-    
-    PdfConvertOptions options = new PdfConvertOptions();
-    converter.convert(convertedFile, options);
-    ```
-
 ## Kapcsolódó oktatóanyagok
 
 - [Hogyan konvertáljunk egy dokumentum specifikus oldalait PDF-be a GroupDocs.Conversion for Java használatával](/conversion/java/pdf-conversion/convert-specific-pages-pdf-groupdocs-java/)
 - [Változtatások elrejtése – Dokumentum konverziós opciók oktatóanyagok a GroupDocs.Conversion Java‑hoz](/conversion/java/conversion-options/)
 - [GroupDocs Conversion Maven beállítása – CSV konvertálása PDF-be Java‑ban – Lépésről‑lépésre útmutató](/conversion/java/pdf-conversion/convert-csv-to-pdf-java-groupdocs-conversion-guide/)
-
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}

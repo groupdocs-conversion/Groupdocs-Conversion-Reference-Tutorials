@@ -149,10 +149,6 @@ url: /zh/java/word-processing-formats/master-text-document-handling-java-groupdo
 weight: 1
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/tutorial-page-section >}}
-
 # 如何在 Java 中使用 GroupDocs.Conversion 将 txt 转换为 pdf
 
 将纯文本文件转换为精美的 PDF 是在希望在所有设备上保持信息外观一致时的常见需求。在本教程中，您将学习如何在 Java 中使用强大的 GroupDocs.Conversion 库 **create pdf from txt**，处理自定义字符编码，并应用性能优化设置。完成后，您将能够将任何 `.txt`（无论是 UTF‑8、Shift_JIS 还是 ISO‑8859‑1）输入可靠的转换管道，输出可直接分享的 PDF。
@@ -231,11 +227,12 @@ Converter converter = new Converter();
 1. **导入必要的类**  
    `TxtLoadOptions` 让您指定源文件的字符集。
 
-   ```java
-   // Definition anchor: TxtLoadOptions configures how a text file is read before conversion.
-   TxtLoadOptions loadOptions = new TxtLoadOptions();
-   ```
-   ```java
+```java
+// Definition anchor: TxtLoadOptions configures how a text file is read before conversion.
+TxtLoadOptions loadOptions = new TxtLoadOptions();
+```
+
+```java
 import com.groupdocs.conversion.License;
 
 License license = new License();
@@ -245,23 +242,25 @@ license.setLicense("path/to/your/license.lic");
 2. **指定输入文件的路径**  
    将 `YOUR_DOCUMENT_DIRECTORY` 替换为 `.txt` 文件的绝对路径。
 
-   ```java
-   String inputPath = "YOUR_DOCUMENT_DIRECTORY/sample.txt";
-   ```
-   ```java
-    import com.groupdocs.conversion.options.load.TxtLoadOptions;
-    import java.nio.charset.Charset;
-    ```
+```java
+String inputPath = "YOUR_DOCUMENT_DIRECTORY/sample.txt";
+```
+
+```java
+import com.groupdocs.conversion.options.load.TxtLoadOptions;
+import java.nio.charset.Charset;
+```
 
 3. **创建并配置 TxtLoadOptions**  
    设置所需的编码，例如针对日本旧版文件的 Shift_JIS。
 
-   ```java
-   loadOptions.setEncoding("Shift_JIS"); // Change to "UTF-8" or other charset as needed
-   ```
-   ```java
-    String txtFilePath = "YOUR_DOCUMENT_DIRECTORY/yourfile.txt"; // Input file path
-    ```
+```java
+loadOptions.setEncoding("Shift_JIS"); // Change to "UTF-8" or other charset as needed
+```
+
+```java
+String txtFilePath = "YOUR_DOCUMENT_DIRECTORY/yourfile.txt"; // Input file path
+```
 
 ### Txt 文档转换
 文本文件正确加载后，转换为 PDF 只需一次方法调用。
@@ -273,36 +272,39 @@ license.setLicense("path/to/your/license.lic");
 1. **导入转换类**  
    `PdfConvertOptions` 允许您微调 PDF 输出（例如页面大小、边距）。
 
-   ```java
-   // Definition anchor: PdfConvertOptions holds optional settings for PDF generation.
-   PdfConvertOptions pdfOptions = new PdfConvertOptions();
-   ```
-   ```java
-    TxtLoadOptions loadOptions = new TxtLoadOptions();
-    loadOptions.setEncoding(Charset.forName("shift_jis"));
-    ```
+```java
+// Definition anchor: PdfConvertOptions holds optional settings for PDF generation.
+PdfConvertOptions pdfOptions = new PdfConvertOptions();
+```
+
+```java
+TxtLoadOptions loadOptions = new TxtLoadOptions();
+loadOptions.setEncoding(Charset.forName("shift_jis"));
+```
 
 2. **指定输出文件路径**  
    调整 `YOUR_OUTPUT_DIRECTORY` 为您希望保存 PDF 的位置。
 
-   ```java
-   String outputPath = "YOUR_OUTPUT_DIRECTORY/sample.pdf";
-   ```
-   ```java
-    import com.groupdocs.conversion.Converter;
-    import com.groupdocs.conversion.options.convert.PdfConvertOptions;
-    ```
+```java
+String outputPath = "YOUR_OUTPUT_DIRECTORY/sample.pdf";
+```
+
+```java
+import com.groupdocs.conversion.Converter;
+import com.groupdocs.conversion.options.convert.PdfConvertOptions;
+```
 
 3. **初始化转换器并执行转换**  
    传入 `TxtLoadOptions` 以确保在转换过程中应用正确的编码。
 
-   ```java
-   // Direct answer: Call converter.convert(inputPath, loadOptions, outputPath, pdfOptions) to produce the PDF.
-   converter.convert(inputPath, loadOptions, outputPath, pdfOptions);
-   ```
-   ```java
-    String convertedFile = "YOUR_OUTPUT_DIRECTORY/ConvertedFile.pdf"; // Output file path
-    ```
+```java
+// Direct answer: Call converter.convert(inputPath, loadOptions, outputPath, pdfOptions) to produce the PDF.
+converter.convert(inputPath, loadOptions, outputPath, pdfOptions);
+```
+
+```java
+String convertedFile = "YOUR_OUTPUT_DIRECTORY/ConvertedFile.pdf"; // Output file path
+```
 
 #### 故障排除提示
 - **Encoding mismatch** – 验证字符集字符串与文件实际编码匹配，否则字符会显示为 � 或乱码。  
@@ -341,22 +343,8 @@ A: 可以，配置 `PdfConvertOptions`——您可以设置字体族、页面尺
 **Q: 在哪里可以找到更详细的示例和 API 文档？**  
 A: 访问官方文档 [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/) 和专门的转换指南 [GroupDocs Conversion Java Docs](https://docs.groupdocs.com/conversion/java/)。完整的 API 参考请查看 [GroupDocs API Reference](https://reference.groupdocs.com/conversion/java/)。
 
-```java
-    Converter converter = new Converter(txtFilePath, () -> loadOptions);
-    
-    PdfConvertOptions options = new PdfConvertOptions();
-    converter.convert(convertedFile, options);
-    ```
-
 ## 相关教程
 
 - [如何使用 GroupDocs.Conversion for Java 将文档的特定页面转换为 PDF](/conversion/java/pdf-conversion/convert-specific-pages-pdf-groupdocs-java/)
 - [隐藏修订痕迹 – GroupDocs.Conversion Java 文档转换选项教程](/conversion/java/conversion-options/)
 - [设置 GroupDocs Conversion Maven - 在 Java 中将 CSV 转换为 PDF – 步骤指南](/conversion/java/pdf-conversion/convert-csv-to-pdf-java-groupdocs-conversion-guide/)
-
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}
