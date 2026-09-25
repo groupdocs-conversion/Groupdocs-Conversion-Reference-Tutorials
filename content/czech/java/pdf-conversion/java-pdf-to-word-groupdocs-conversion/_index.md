@@ -1,46 +1,99 @@
 ---
-date: '2026-02-23'
-description: Naučte se, jak provést konverzi PDF do Word v Javě pomocí GroupDocs.Conversion.
-  Postupujte podle tohoto průvodce krok za krokem a zefektivněte svůj pracovní tok
-  s dokumenty.
+date: '2026-09-25'
+description: Zjistěte, jak skrýt anotace PDF při převodu PDF do Wordu v Javě pomocí
+  GroupDocs.Conversion. Tento průvodce pokrývá nastavení, kód a tipy na výkon.
 keywords:
-- convert PDF to Word in Java
-- GroupDocs.Conversion setup
-- PDF conversion with annotations hidden
-title: 'PDF do Wordu v Javě: Převod PDF do Wordu pomocí GroupDocs – Kompletní průvodce'
+- how to hide pdf
+- pdf to word java
+- groupdocs conversion java
+- java pdf conversion library
+lastmod: '2026-09-25'
+og_description: Zjistěte, jak skrýt anotace PDF při převodu PDF do Wordu v Javě pomocí
+  GroupDocs.Conversion. Tento průvodce pokrývá nastavení, kód a tipy na výkon.
+og_image_alt: Guide showing how to hide PDF annotations during Java conversion to
+  Word using GroupDocs
+og_title: Jak skrýt anotace PDF při převodu do Wordu v Javě
+schemas:
+- author: GroupDocs
+  dateModified: '2026-09-25'
+  description: Learn how to hide PDF annotations while converting PDFs to Word in
+    Java using GroupDocs.Conversion. This guide covers setup, code, and performance
+    tips.
+  headline: How to hide PDF annotations when converting to Word in Java
+  type: TechArticle
+- description: Learn how to hide PDF annotations while converting PDFs to Word in
+    Java using GroupDocs.Conversion. This guide covers setup, code, and performance
+    tips.
+  name: How to hide PDF annotations when converting to Word in Java
+  steps:
+  - name: '**Document management systems:** Convert incoming PDFs into editable Word
+      files while discarding reviewer comments.'
+    text: '**Document management systems:** Convert incoming PDFs into editable Word
+      files while discarding reviewer comments.'
+  - name: '**Legal workflows:** Produce clean client‑ready Word documents from annotated
+      contracts.'
+    text: '**Legal workflows:** Produce clean client‑ready Word documents from annotated
+      contracts.'
+  - name: '**Educational platforms:** Turn lecture PDFs with teacher notes into plain
+      Word handouts for students.'
+    text: '**Educational platforms:** Turn lecture PDFs with teacher notes into plain
+      Word handouts for students.'
+  type: HowTo
+- questions:
+  - answer: Split the PDF into smaller chunks or increase the JVM heap size (`-Xmx`)
+      to give the converter more memory.
+    question: How do I handle large PDF files during conversion?
+  - answer: Yes, it supports over 50 output formats, including Excel, PowerPoint,
+      HTML, and plain text. Check the API reference for the full list.
+    question: Can GroupDocs.Conversion export to formats other than Word?
+  - answer: Verify that `setHidePdfAnnotations(true)` is called before creating the
+      `Converter` and that you are using GroupDocs.Conversion 25.2 or later.
+    question: What if my annotations are not hiding correctly?
+  - answer: The API is thread‑safe when each thread creates its own `Converter` instance.
+      Share only immutable configuration objects.
+    question: Is the conversion thread‑safe for multi‑user environments?
+  - answer: Yes—provide the password via `PdfLoadOptions.setPassword("yourPassword")`
+      before conversion.
+    question: Can I convert password‑protected PDFs?
+  type: FAQPage
+tags:
+- pdf to word
+- groupdocs
+- java document conversion
+- hide pdf annotations
+title: Jak skrýt anotace PDF při převodu do Wordu v Javě
 type: docs
 url: /cs/java/pdf-conversion/java-pdf-to-word-groupdocs-conversion/
 weight: 1
 ---
 
-# PDF do Word Java: Převod PDF do Wordu pomocí GroupDocs
+# Jak skrýt anotace PDF při převodu do Wordu v Javě
 
-Pokud hledáte spolehlivé **pdf to word java** řešení, jste na správném místě. Převod PDF do editovatelných dokumentů Word může být obtížný, zejména když anotace znečistí výstup. V tomto průvodci si ukážeme, jak použít GroupDocs.Conversion pro Java k načtení PDF, skrytí jeho anotací a vytvoření čistého souboru Word – vše s jasnými, konverzačními vysvětleními.
+Pokud potřebujete převést PDF soubory do editovatelných dokumentů Word **a** zachovat výstup bez nepořádku v anotacích, jste na správném místě. Tento tutoriál vás provede používáním GroupDocs.Conversion pro Java k načtení PDF, skrytí jeho anotací a vytvoření čistého souboru `.docx` — vše vysvětleno konverzačním, krok‑za‑krokem stylem.
 
 ## Rychlé odpovědi
-- **Která knihovna provádí převod pdf to word java?** GroupDocs.Conversion for Java.  
+- **Jaká knihovna zpracovává převod pdf na word v Javě?** GroupDocs.Conversion for Java.  
 - **Potřebuji licenci?** Zkušební verze funguje pro hodnocení; placená licence je vyžadována pro produkci.  
-- **Lze anotace skrýt?** Ano, nastavte `setHidePdfAnnotations(true)` v `PdfLoadOptions`.  
-- **Která verze Javy je podporována?** Java 8 nebo novější, s Maven pro správu závislostí.  
-- **Je převod rychlý pro velké soubory?** Je efektivní, ale zvažte nastavení paměti pro velmi velké PDF.
+- **Lze anotace skrýt?** Ano — nastavte `setHidePdfAnnotations(true)` v `PdfLoadOptions`.  
+- **Která verze Javy je podporována?** Java 8 nebo novější, s Mavenem pro správu závislostí.  
+- **Je převod rychlý pro velké soubory?** Je efektivní, ale zvažte nastavení paměti pro velmi velké PDF soubory.
 
-## Co je převod pdf to word java?
-**pdf to word java** převod je proces transformace PDF dokumentu do formátu Microsoft Word (`.docx`) pomocí Java kódu. To umožňuje následné úpravy, extrakci obsahu a integraci s dalšími Office pracovními postupy.
+## Co je převod pdf na word v Javě?
+**Pdf to word java conversion** je proces převodu PDF dokumentu do formátu Microsoft Word (`.docx`) pomocí Java kódu. To umožňuje následné úpravy, extrakci obsahu a integraci s dalšími Office pracovními postupy. Také zachovává písma, obrázky a základní rozvržení, což umožňuje otevřít a upravit vzniklý dokument v Microsoft Word bez významného přeformátování.
 
 ## Proč použít GroupDocs pro tento úkol?
-GroupDocs.Conversion poskytuje vysoceúrovňové API, které abstrahuje nízkoúrovňové detaily parsování PDF. Podporuje skrytí anotací, zachování rozvržení a funguje konzistentně napříč platformami – což z něj činí ideální řešení pro podnikové dokumentové pipeline.
+GroupDocs.Conversion poskytuje vysokou úroveň API, která abstrahuje nízkoúrovňové parsování PDF, podporuje skrytí anotací, zachovává rozvržení a funguje konzistentně napříč platformami — což z něj činí ideální řešení pro podnikové dokumentové pipeline.
 
-## Předpoklady
-
-- **Required Libraries:** GroupDocs.Conversion library version 25.2 or later.  
-- **Environment Setup:** Java Development Kit (JDK) installed and configured on your system.  
-- **Knowledge Prerequisites:** Basic understanding of Java programming and familiarity with Maven for dependency management.
+## Požadavky
+- **Požadované knihovny:** GroupDocs.Conversion knihovna verze 25.2 nebo novější.  
+- **Prostředí:** Java Development Kit (JDK) 8 nebo novější, Maven pro správu závislostí.  
+- **Znalosti:** Základní programování v Javě a znalost Maven.
 
 ## Nastavení GroupDocs.Conversion pro Java
 
-Pro použití GroupDocs.Conversion pro Java budete potřebovat správně nastavit prostředí projektu. Pokud používáte Maven, přidejte následující konfiguraci do souboru `pom.xml`:
+Přidejte závislost GroupDocs.Conversion do vašeho `pom.xml`. Níže uvedený úryvek je přesně to, co potřebujete; nechte jej beze změny.
 
-**Maven Configuration:**  
+**Maven konfigurace:**  
 ```xml
 <repositories>
    <repository>
@@ -60,25 +113,26 @@ Pro použití GroupDocs.Conversion pro Java budete potřebovat správně nastavi
 ```
 
 ### Kroky získání licence
-- **Free Trial:** Download a trial version from the [GroupDocs website](https://releases.groupdocs.com/conversion/java/).  
-- **Temporary License:** Apply for a temporary license to test full features at [GroupDocs Temporary License](https://purchase.groupdocs.com/temporary-license/).  
-- **Purchase:** For production use, purchase a license through [GroupDocs Purchase Page](https://purchase.groupdocs.com/buy).
+- **Bezplatná zkušební verze:** Stáhněte si zkušební verzi z [webových stránek GroupDocs](https://releases.groupdocs.com/conversion/java/).  
+- **Dočasná licence:** Požádejte o dočasnou licenci pro vyzkoušení všech funkcí na [Dočasná licence GroupDocs](https://purchase.groupdocs.com/temporary-license/).  
+- **Nákup:** Pro produkční použití zakupte licenci prostřednictvím [Stránka nákupu GroupDocs](https://purchase.groupdocs.com/buy).
 
 ### Základní inicializace a nastavení
-
-Po nastavení Maven konfigurace zajistěte, aby byl váš projekt správně inicializován pro použití GroupDocs.Conversion. Můžete začít importováním potřebných balíčků ve vašem Java kódu.
+Importujte požadované balíčky ve vaší Java třídě před tím, než začnete pracovat s API.
 
 ## Průvodce implementací
 
-Nyní rozdělíme implementaci na zvládnutelné sekce zaměřené na každou funkci.
+Níže rozdělíme implementaci do přehledných, snadno spravovatelných sekcí.
 
 ### Načtení PDF s pokročilými možnostmi
 
-**Overview:**  
-Tato funkce vám umožní načíst PDF soubor a nakonfigurovat jej tak, aby před převodem skryl anotace, čímž zajistí čistší výstup dokumentu.
+**Přímá odpověď:**  
+Vytvořte instanci `PdfLoadOptions`, povolte skrytí anotací pomocí `setHidePdfAnnotations(true)` a předávejte ji konstruktoru `Converter`. Toto dvoukrokové nastavení zajišťuje, že veškeré komentáře, zvýraznění nebo razítka ve zdrojovém PDF budou vynechány v výsledném Word dokumentu.
 
-#### Krok 1: Konfigurace PdfLoadOptions
-Vytvořte instanci `PdfLoadOptions` a nastavte možnost skrýt anotace:  
+**Definiční kotva:**  
+`PdfLoadOptions` je konfigurační objekt, který vám umožňuje řídit, jak je PDF interpretováno před převodem.
+
+**Krok 1: nakonfigurujte možnosti načtení**  
 ```java
 // Create and configure load options for the PDF document
 double createPdfLoadOptionsWithHiddenAnnotations() {
@@ -90,30 +144,34 @@ double createPdfLoadOptionsWithHiddenAnnotations() {
     
     return 0; // Placeholder return value
 }
-```
-**Explanation:**  
-- `setHidePdfAnnotations(true)`: Hides any annotations present in your PDF, so they won’t appear in the converted Word file.
+```  
+**Vysvětlení:**  
+- `setHidePdfAnnotations(true)`: Skryje všechny anotace přítomné ve vašem PDF, takže se neobjeví v převedeném Word souboru.
 
-### Převod PDF do formátu Word Processing
+### Převod PDF do formátu Word
 
-**Overview:**  
-Jakmile načtete a nakonfigurujete svůj PDF soubor, můžete jej převést do formátu Word processing pomocí specifických možností pro optimální výsledek.
+**Přímá odpověď:**  
+Vytvořte instanci `Converter` s cestou k PDF a nakonfigurovanými `PdfLoadOptions`, poté zavolejte `convert` s předáním objektu `WordProcessingConvertOptions` a požadované výstupní cesty. Tento jediný volání provede celý převodní řetězec.
 
-#### Krok 2: Definice vstupních a výstupních cest
-Nastavte zástupné hodnoty pro vstupní a výstupní cesty:  
+**Definiční kotva:**  
+`Converter` je hlavní třída, která orchestruje transformaci dokumentu ze zdrojového formátu do cílového formátu.  
+
+**Definiční kotva:**  
+`WordProcessingConvertOptions` definuje nastavení specifické pro výstup Word, jako je zachování věrnosti rozvržení.
+
+**Krok 2: definujte vstupní a výstupní cesty**  
 ```java
 // Define the path for input and output documents using placeholders
 void definePaths() {
     String pdfInputPath = "YOUR_DOCUMENT_DIRECTORY/SAMPLE_PDF.pdf"; // Placeholder PDF file path
     String wordOutputPath = "YOUR_OUTPUT_DIRECTORY/ConvertedToWord.docx"; // Placeholder output DOCX path
 }
-```
-**Explanation:**  
+```  
+**Vysvětlení:**  
 - `pdfInputPath`: Umístění vašeho zdrojového PDF dokumentu.  
-- `wordOutputPath`: Požadované umístění pro převedený Word soubor.
+- `wordOutputPath`: Cíl pro převedený Word soubor.
 
-#### Krok 3: Provedení převodu
-Použijte třídu `Converter` k provedení převodu:  
+**Krok 3: provést převod**  
 ```java
 // Perform the conversion from PDF to Word Processing format
 double convertPdfToWordProcessing(PdfLoadOptions loadOptions) {
@@ -132,62 +190,79 @@ double convertPdfToWordProcessing(PdfLoadOptions loadOptions) {
     
     return 0; // Placeholder return value
 }
-```
-**Explanation:**  
-- `Converter`: Initializes with the path and load options.  
-- `WordProcessingConvertOptions`: Configures settings for the target Word document.
+```  
+**Vysvětlení:**  
+- `Converter`: Inicializuje se s cestou a možnostmi načtení.  
+- `WordProcessingConvertOptions`: Konfiguruje nastavení pro cílový Word dokument.
 
-## Tipy pro řešení problémů
-- Ensure your file paths are correctly specified to avoid `FileNotFoundException`.  
-- Verify that the GroupDocs.Conversion version is compatible with your Java setup.  
-- Check that your license key is valid and properly configured for full‑feature access.
+## Jak skrýt anotace PDF během převodu?
+
+**Přímá odpověď:**  
+Nastavte `setHidePdfAnnotations(true)` na objekt `PdfLoadOptions` před vytvořením `Converter`. Toto řekne GroupDocs.Conversion, aby odstranil všechny vrstvy anotací z PDF, což vede k čistému Word souboru bez poznámek pod čarou, komentářů nebo značek.
+
+**Vysvětlení:**  
+Tato možnost funguje pro jakýkoli PDF, bez ohledu na počet stránek nebo typy anotací. Aplikuje se jednou na převod, takže můžete stejný `PdfLoadOptions` znovu použít pro dávkové zpracování.
+
+## Časté problémy a řešení
+
+- **Chyby soubor‑nenalezen:** Zkontrolujte, že `pdfInputPath` ukazuje na existující soubor a že má vaše aplikace oprávnění ke čtení.  
+- **Neshoda verzí:** Ujistěte se, že JAR GroupDocs.Conversion odpovídá vaší Java runtime (Java 8 nebo novější).  
+- **Problémy s licencí:** Zkušební licence zakazuje některé prémiové funkce; ověřte, že váš licenční klíč je správně načten pro plnou funkčnost.
 
 ## Praktické aplikace
 
-Zde jsou některé reálné scénáře, kde může být tato **pdf to word java** funkčnost užitečná:
-1. **Document Management Systems:** Automate the conversion of incoming PDFs into editable Word documents.  
-2. **Legal Firms:** Convert annotated legal PDFs to clean Word files for client sharing.  
-3. **Educational Institutions:** Prepare lecture notes by converting annotated PDFs into editable formats.
+Reálné scénáře, kde je skrytí anotací PDF užitečné:
+
+1. **Systémy správy dokumentů:** Převádějte příchozí PDF do editovatelných Word souborů a zároveň odstraňujte komentáře recenzentů.  
+2. **Právní pracovní postupy:** Vytvářejte čisté Word dokumenty připravené pro klienty z anotovaných smluv.  
+3. **Vzdělávací platformy:** Převádějte přednáškové PDF s poznámkami učitele na čisté Word podklady pro studenty.
 
 ## Úvahy o výkonu
 
-Pro optimalizaci výkonu při používání GroupDocs.Conversion:
-- Limit the size of input files where possible.  
-- Manage Java memory settings effectively, especially with large documents.  
-- Regularly update to the latest version for improved efficiency and bug fixes.
+- **Velikost souboru:** Pro PDF větší než 100 MB zvyšte haldu JVM (`-Xmx2g` nebo vyšší), aby se předešlo chybám nedostatku paměti.  
+- **Dávkové zpracování:** Znovu použijte jedinou instanci `PdfLoadOptions` napříč více převody, aby se snížilo zatížení vytvářením objektů.  
+- **Aktualizace knihovny:** Vydání GroupDocs.Conversion přidávají optimalizace výkonu; zůstaňte na nejnovější stabilní verzi, abyste získali rychlejší parsování a nižší paměťovou stopu.
 
 ## Závěr
 
-V tomto tutoriálu jste se naučili, jak načíst PDF soubory s pokročilými možnostmi a převést je do formátů Word pomocí GroupDocs.Conversion pro Java. S těmito dovednostmi můžete zefektivnit své procesy správy dokumentů a poskytovat uživatelům čisté, editovatelné Word soubory. Prozkoumejte další funkce v [GroupDocs documentation](https://docs.groupdocs.com/conversion/java/) a dále vylepšujte své aplikace.
+Nyní víte, jak skrýt anotace PDF při převodu PDF do Wordu v Javě pomocí GroupDocs.Conversion. Konfigurací `PdfLoadOptions` a využitím třídy `Converter` můžete vytvářet čisté, editovatelné dokumenty vhodné pro následné úpravy, právní revize nebo vzdělávací distribuci. Prozkoumejte další formáty a pokročilá nastavení v oficiální dokumentaci, abyste dále rozšířili své řešení.
 
-## Sekce FAQ
+## Často kladené otázky
 
-**Q: How do I handle large PDF files during conversion?**  
-A: Consider splitting large documents into smaller parts for processing or increasing Java memory allocation settings.
+**Q: Jak zacházet s velkými PDF soubory během převodu?**  
+A: Rozdělte PDF na menší části nebo zvýšte velikost haldy JVM (`-Xmx`), aby konvertor měl více paměti.
 
-**Q: Can GroupDocs.Conversion export to formats other than Word?**  
-A: Yes, it supports various document formats. Check the [API reference](https://reference.groupdocs.com/conversion/java/) for more details.
+**Q: Může GroupDocs.Conversion exportovat do formátů jiných než Word?**  
+A: Ano, podporuje více než 50 výstupních formátů, včetně Excel, PowerPoint, HTML a prostého textu. Pro úplný seznam zkontrolujte API reference.
 
-**Q: What if my annotations are not hiding correctly?**  
-A: Ensure `setHidePdfAnnotations(true)` is called before conversion and verify your GroupDocs.Conversion version.
+**Q: Co když se mé anotace neukrývají správně?**  
+A: Ověřte, že `setHidePdfAnnotations(true)` je zavoláno před vytvořením `Converter` a že používáte GroupDocs.Conversion 25.2 nebo novější.
 
-**Q: Is the conversion thread‑safe for multi‑user environments?**  
-A: Yes, the API is designed to be used concurrently, but instantiate separate `Converter` objects per thread for best results.
+**Q: Je převod thread‑safe pro víceuživatelské prostředí?**  
+A: API je thread‑safe, pokud každý vláken vytvoří vlastní instanci `Converter`. Sdílejte pouze neměnitelné konfigurační objekty.
 
-**Q: Can I convert password‑protected PDFs?**  
-A: Absolutely—pass the password when creating `PdfLoadOptions` to unlock the document before conversion.
+**Q: Mohu převádět PDF chráněné heslem?**  
+A: Ano — zadejte heslo pomocí `PdfLoadOptions.setPassword("yourPassword")` před převodem.
 
 ## Zdroje
-- **Documentation:** [GroupDocs Conversion Documentation](https://docs.groupdocs.com/conversion/java/)  
-- **API Reference:** [GroupDocs API Reference](https://reference.groupdocs.com/conversion/java/)  
-- **Download:** [GroupDocs Downloads](https://releases.groupdocs.com/conversion/java/)  
-- **Purchase:** [Buy GroupDocs License](https://purchase.groupdocs.com/buy)  
-- **Free Trial:** [GroupDocs Free Trial](https://releases.groupdocs.com/conversion/java/)  
-- **Temporary License:** [Request Temporary License](https://purchase.groupdocs.com/temporary-license/)  
-- **Support:** [GroupDocs Support Forum](https://forum.groupdocs.com/c/conversion/10)
+- **Dokumentace:** [Dokumentace GroupDocs Conversion](https://docs.groupdocs.com/conversion/java/)  
+- **Reference API:** [Reference API GroupDocs](https://reference.groupdocs.com/conversion/java/)  
+- **Dokumentace:** [Dokumentace GroupDocs](https://docs.groupdocs.com/conversion/java/)  
+- **Reference API:** [Reference API](https://reference.groupdocs.com/conversion/java/)  
+- **Stáhnout:** [Stahování GroupDocs](https://releases.groupdocs.com/conversion/java/)  
+- **Nákup:** [Koupit licenci GroupDocs](https://purchase.groupdocs.com/buy)  
+- **Bezplatná zkušební verze:** [Bezplatná zkušební verze GroupDocs](https://releases.groupdocs.com/conversion/java/)  
+- **Dočasná licence:** [Požádat o dočasnou licenci](https://purchase.groupdocs.com/temporary-license/)  
+- **Podpora:** [Fórum podpory GroupDocs](https://forum.groupdocs.com/c/conversion/10)
 
 ---
 
-**Poslední aktualizace:** 2026-02-23  
-**Testováno s:** GroupDocs.Conversion 25.2  
-**Autor:** GroupDocs
+**Poslední aktualizace:** 2026-09-25  
+**Testováno s:** GroupDocs.Conversion 25.2  
+**Autor:** GroupDocs  
+
+## Související tutoriály
+
+- [PDF do Word Java: Převod PDF do Word pomocí GroupDocs – Kompletní průvodce](/conversion/java/pdf-conversion/java-pdf-to-word-groupdocs-conversion/)
+- [Skrýt komentáře Word PDF převod GroupDocs Java](/conversion/java/pdf-conversion/hide-comments-word-pdf-conversion-groupdocs-java/)
+- [Jak skrýt revize: Použít možnosti ke skrytí sledovaných změn v převodu Word‑PDF s GroupDocs.Conversion pro Java](/conversion/java/conversion-options/automate-hide-tracked-changes-word-pdf-conversion-groupdocs-java/)

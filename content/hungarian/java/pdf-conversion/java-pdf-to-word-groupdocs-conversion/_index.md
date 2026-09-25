@@ -1,49 +1,101 @@
 ---
-date: '2026-02-23'
-description: Tanulja meg, hogyan hajtható végre a PDF‑ról Word‑re Java konverzió a
-  GroupDocs.Conversion segítségével. Kövesse ezt a lépésről‑lépésre útmutatót, hogy
-  hatékonyabbá tegye dokumentumfolyamát.
+date: '2026-09-25'
+description: Ismerje meg, hogyan rejtheti el a PDF megjegyzéseket a PDF-ek Java-ban
+  történő Word-re konvertálása során a GroupDocs.Conversion használatával. Ez az útmutató
+  a beállításról, a kódról és a teljesítmény tippekről szól.
 keywords:
-- convert PDF to Word in Java
-- GroupDocs.Conversion setup
-- PDF conversion with annotations hidden
-title: 'PDF → Word Java: PDF-ek konvertálása Word-be a GroupDocs segítségével – Átfogó
-  útmutató'
+- how to hide pdf
+- pdf to word java
+- groupdocs conversion java
+- java pdf conversion library
+lastmod: '2026-09-25'
+og_description: Ismerje meg, hogyan rejtheti el a PDF megjegyzéseket a PDF-ek Java-ban
+  történő Word-re konvertálása során a GroupDocs.Conversion használatával. Kövesse
+  a lépésről-lépésre útmutatót és a teljesítmény tippeket.
+og_image_alt: Guide showing how to hide PDF annotations during Java conversion to
+  Word using GroupDocs
+og_title: Hogyan rejtsük el a PDF megjegyzéseket Java-ban Word-re konvertáláskor
+schemas:
+- author: GroupDocs
+  dateModified: '2026-09-25'
+  description: Learn how to hide PDF annotations while converting PDFs to Word in
+    Java using GroupDocs.Conversion. This guide covers setup, code, and performance
+    tips.
+  headline: How to hide PDF annotations when converting to Word in Java
+  type: TechArticle
+- description: Learn how to hide PDF annotations while converting PDFs to Word in
+    Java using GroupDocs.Conversion. This guide covers setup, code, and performance
+    tips.
+  name: How to hide PDF annotations when converting to Word in Java
+  steps:
+  - name: '**Document management systems:** Convert incoming PDFs into editable Word
+      files while discarding reviewer comments.'
+    text: '**Document management systems:** Convert incoming PDFs into editable Word
+      files while discarding reviewer comments.'
+  - name: '**Legal workflows:** Produce clean client‑ready Word documents from annotated
+      contracts.'
+    text: '**Legal workflows:** Produce clean client‑ready Word documents from annotated
+      contracts.'
+  - name: '**Educational platforms:** Turn lecture PDFs with teacher notes into plain
+      Word handouts for students.'
+    text: '**Educational platforms:** Turn lecture PDFs with teacher notes into plain
+      Word handouts for students.'
+  type: HowTo
+- questions:
+  - answer: Split the PDF into smaller chunks or increase the JVM heap size (`-Xmx`)
+      to give the converter more memory.
+    question: How do I handle large PDF files during conversion?
+  - answer: Yes, it supports over 50 output formats, including Excel, PowerPoint,
+      HTML, and plain text. Check the API reference for the full list.
+    question: Can GroupDocs.Conversion export to formats other than Word?
+  - answer: Verify that `setHidePdfAnnotations(true)` is called before creating the
+      `Converter` and that you are using GroupDocs.Conversion 25.2 or later.
+    question: What if my annotations are not hiding correctly?
+  - answer: The API is thread‑safe when each thread creates its own `Converter` instance.
+      Share only immutable configuration objects.
+    question: Is the conversion thread‑safe for multi‑user environments?
+  - answer: Yes—provide the password via `PdfLoadOptions.setPassword("yourPassword")`
+      before conversion.
+    question: Can I convert password‑protected PDFs?
+  type: FAQPage
+tags:
+- pdf to word
+- groupdocs
+- java document conversion
+- hide pdf annotations
+title: Hogyan rejtsük el a PDF megjegyzéseket Java-ban Word-re konvertáláskor
 type: docs
 url: /hu/java/pdf-conversion/java-pdf-to-word-groupdocs-conversion/
 weight: 1
 ---
 
- placeholders remain unchanged.
+# Hogyan rejtsük el a PDF megjegyzéseket a Word formátumba Java-val történő konvertálás során
 
-Now produce final answer.# PDF to Word Java: PDF-ek konvertálása Word-re a GroupDocs segítségével
-
-Ha megbízható **pdf to word java** megoldást keres, jó helyen jár. A PDF-ek szerkeszthető Word-dokumentumokká konvertálása nehézkes lehet, különösen ha a megjegyzések elrontják a kimenetet. Ebben az útmutatóban bemutatjuk, hogyan használja a GroupDocs.Conversion for Java-t egy PDF betöltéséhez, a megjegyzések elrejtéséhez, és egy tiszta Word-fájl előállításához – mindezt világos, közvetlen magyarázatokkal.
+Ha PDF‑eket szeretnél szerkeszthető Word dokumentumokká **és** a kimenetet megjegyzés‑zaj nélkül szeretnéd megkapni, jó helyen jársz. Ez az útmutató lépésről‑lépésre bemutatja, hogyan használhatod a GroupDocs.Conversion for Java‑t PDF betöltésére, a megjegyzések elrejtésére, és egy tiszta `.docx` fájl előállítására – mindezt beszélgetős, könnyen követhető stílusban.
 
 ## Gyors válaszok
-- **Melyik könyvtár kezeli a pdf to word java konverziót?** GroupDocs.Conversion for Java.  
-- **Szükségem van licencre?** A próbaverzió értékelésre használható; a termeléshez fizetett licenc szükséges.  
-- **Elrejthetők a megjegyzések?** Igen, állítsa be a `setHidePdfAnnotations(true)` értéket a `PdfLoadOptions`-ban.  
-- **Melyik Java verzió támogatott?** Java 8 vagy újabb, Maven-nel a függőségkezeléshez.  
-- **Gyors a konverzió nagy fájlok esetén?** Hatékony, de nagy PDF-ek esetén vegye figyelembe a memória beállításokat.
+- **Melyik könyvtár kezeli a pdf‑ről word‑re java konvertálást?** GroupDocs.Conversion for Java.  
+- **Szükség van licencre?** A próbaverzió elegendő a kiértékeléshez; a termeléshez fizetett licenc szükséges.  
+- **Elrejthetők a megjegyzések?** Igen – állítsd be a `setHidePdfAnnotations(true)`‑t a `PdfLoadOptions`‑ban.  
+- **Melyik Java verzió támogatott?** Java 8 vagy újabb, Maven a függőségkezeléshez.  
+- **Gyors a konvertálás nagy fájlok esetén?** Hatékony, de nagyon nagy PDF‑eknél érdemes a memória beállításokat átgondolni.
 
-## Mi a pdf to word java konverzió?
-**pdf to word java** konverzió a PDF-dokumentum Microsoft Word formátummá (`.docx`) alakításának folyamata Java kóddal. Ez lehetővé teszi a későbbi szerkesztést, a tartalom kinyerését és az integrációt más Office munkafolyamatokkal.
+## Mi az a PDF‑ről Word‑re Java konvertálás?
+**Pdf to word java conversion** a folyamat, amely során egy PDF dokumentumot Microsoft Word formátumba (`.docx`) alakítunk Java kóddal. Ez lehetővé teszi a későbbi szerkesztést, a tartalom kinyerését és az Office‑munkaáramlásokba való integrációt. Emellett megőrzi a betűtípusokat, képeket és az alapvető elrendezést, így a létrejött dokumentum Microsoft Word‑ben nyitható és szerkeszthető jelentős újraformázás nélkül.
 
-## Miért használja a GroupDocs-ot ehhez a feladathoz?
-A GroupDocs.Conversion egy magas szintű API-t biztosít, amely elrejti az alacsony szintű PDF-feldolgozási részleteket. Támogatja a megjegyzések elrejtését, a layout megőrzését, és platformok között konzisztensen működik – így ideális vállalati dokumentumcsővezetékekhez.
+## Miért használjuk a GroupDocs‑t ehhez a feladathoz?
+A GroupDocs.Conversion egy magas szintű API‑t biztosít, amely elrejti a PDF‑megjelöléseket, megőrzi az elrendezést, és platformfüggetlenül működik – így ideális vállalati dokumentum‑csővezetékekhez.
 
-## Előkövetelmények
-Mielőtt elkezdenénk, győződjön meg róla, hogy a következőkkel rendelkezik:
-- **Szükséges könyvtárak:** GroupDocs.Conversion könyvtár 25.2 vagy újabb verziója.  
-- **Környezet beállítása:** Java Development Kit (JDK) telepítve és konfigurálva a rendszerén.  
-- **Tudás előkövetelmények:** Alapvető Java programozási ismeretek és Maven ismerete a függőségkezeléshez.
+## Előfeltételek
+- **Szükséges könyvtárak:** GroupDocs.Conversion könyvtár verzió 25.2 vagy újabb.  
+- **Környezet:** Java Development Kit (JDK) 8 vagy újabb, Maven a függőségkezeléshez.  
+- **Ismeretek:** Alapvető Java programozás és Maven ismerete.
 
 ## A GroupDocs.Conversion beállítása Java-hoz
 
-A GroupDocs.Conversion for Java használatához megfelelően kell beállítania a projekt környezetét. Ha Maven-t használ, adja hozzá a következő konfigurációt a `pom.xml` fájlhoz:
+Add hozzá a GroupDocs.Conversion függőséget a `pom.xml`‑hez. Az alábbi kódrészlet pontosan azt tartalmazza, amire szükséged van; változatlanul hagyd.
 
-**Maven konfiguráció:**  
+**Maven configuration:**  
 ```xml
 <repositories>
    <repository>
@@ -63,25 +115,26 @@ A GroupDocs.Conversion for Java használatához megfelelően kell beállítania 
 ```
 
 ### Licenc beszerzési lépések
-- **Ingyenes próbaverzió:** Töltse le a próbaverziót a [GroupDocs website](https://releases.groupdocs.com/conversion/java/) oldalról.  
-- **Ideiglenes licenc:** Kérjen ideiglenes licencet a teljes funkciók teszteléséhez a [GroupDocs Temporary License](https://purchase.groupdocs.com/temporary-license/) oldalon.  
-- **Vásárlás:** Termelési használathoz vásároljon licencet a [GroupDocs Purchase Page](https://purchase.groupdocs.com/buy) oldalon.
+- **Ingyenes próba:** Tölts le egy próbaverziót a [GroupDocs weboldaláról](https://releases.groupdocs.com/conversion/java/).  
+- **Ideiglenes licenc:** Kérj ideiglenes licencet a teljes funkciók teszteléséhez a [GroupDocs Temporary License](https://purchase.groupdocs.com/temporary-license/) oldalon.  
+- **Vásárlás:** Termeléshez vásárolj licencet a [GroupDocs Purchase Page](https://purchase.groupdocs.com/buy) oldalon.
 
 ### Alap inicializálás és beállítás
-
-A Maven konfiguráció beállítása után győződjön meg róla, hogy a projekt helyesen van inicializálva a GroupDocs.Conversion használatához. Kezdje a szükséges csomagok importálásával a Java kódban.
+Importáld a szükséges csomagokat a Java osztályodba, mielőtt elkezdenél dolgozni az API‑val.
 
 ## Implementációs útmutató
 
-Most bontsuk le a megvalósítást kezelhető szakaszokra, minden funkcióra fókuszálva.
+Az alábbiakban a megvalósítást világos, kezelhető szakaszokra bontjuk.
 
 ### PDF betöltése fejlett beállításokkal
 
-**Áttekintés:**  
-Ez a funkció lehetővé teszi egy PDF-fájl betöltését és a megjegyzések elrejtésének beállítását a konverzió előtt, így tisztább dokumentumkimenetet biztosít.
+**Direct answer:**  
+Hozz létre egy `PdfLoadOptions` példányt, engedélyezd a megjegyzések elrejtését a `setHidePdfAnnotations(true)`‑val, majd add át a `Converter` konstruktorának. Ez a kétszintű beállítás biztosítja, hogy a forrás‑PDF‑ben lévő megjegyzések, kiemelések vagy pecsétek ne jelenjenek meg a kimeneti Word dokumentumban.
 
-#### 1. lépés: PdfLoadOptions konfigurálása
-Hozzon létre egy `PdfLoadOptions` példányt, és állítsa be a megjegyzések elrejtésének opciót:
+**Definition anchor:**  
+A `PdfLoadOptions` egy konfigurációs objektum, amely lehetővé teszi, hogy a PDF konvertálás előtt szabályozd, hogyan legyen értelmezve.
+
+**Step 1: configure load options**  
 ```java
 // Create and configure load options for the PDF document
 double createPdfLoadOptionsWithHiddenAnnotations() {
@@ -93,30 +146,34 @@ double createPdfLoadOptionsWithHiddenAnnotations() {
     
     return 0; // Placeholder return value
 }
-```
-**Magyarázat:**  
-- `setHidePdfAnnotations(true)`: Elrejti a PDF-ben lévő megjegyzéseket, így azok nem jelennek meg a konvertált Word-fájlban.
+```  
+**Explanation:**  
+- `setHidePdfAnnotations(true)`: Elrejti a PDF‑ben lévő bármilyen megjegyzést, így azok nem jelennek meg a konvertált Word fájlban.
 
-### PDF konvertálása Word feldolgozó formátumba
+### PDF konvertálása Word feldolgozási formátumba
 
-**Áttekintés:**  
-Miután betöltötte és beállította a PDF-fájlt, konvertálhatja azt Word feldolgozó formátumba a legjobb eredmény érdekében speciális opciók használatával.
+**Direct answer:**  
+Hozz létre egy `Converter`‑t a PDF útvonallal és a konfigurált `PdfLoadOptions`‑sal, majd hívd meg a `convert`‑ot egy `WordProcessingConvertOptions` objektummal és a kívánt kimeneti úttal. Ez az egyetlen hívás végrehajtja a teljes konvertálási folyamatot.
 
-#### 2. lépés: Bemeneti és kimeneti útvonalak meghatározása
-Állítson be helyőrzőket a bemeneti és kimeneti útvonalakhoz:
+**Definition anchor:**  
+A `Converter` a központi osztály, amely a forrásformátum és a célformátum közötti dokumentum‑átalakítást irányítja.
+
+**Definition anchor:**  
+A `WordProcessingConvertOptions` a Word kimenetre vonatkozó beállításokat definiálja, például a layout hűség megőrzését.
+
+**Step 2: define input and output paths**  
 ```java
 // Define the path for input and output documents using placeholders
 void definePaths() {
     String pdfInputPath = "YOUR_DOCUMENT_DIRECTORY/SAMPLE_PDF.pdf"; // Placeholder PDF file path
     String wordOutputPath = "YOUR_OUTPUT_DIRECTORY/ConvertedToWord.docx"; // Placeholder output DOCX path
 }
-```
-**Magyarázat:**  
-- `pdfInputPath`: A forrás PDF-dokumentum helye.  
-- `wordOutputPath`: A konvertált Word-fájl kívánt célhelye.
+```  
+**Explanation:**  
+- `pdfInputPath`: A forrás‑PDF dokumentum helye.  
+- `wordOutputPath`: A konvertált Word fájl célhelye.
 
-#### 3. lépés: Konverzió végrehajtása
-Használja a `Converter` osztályt a konverziós folyamat kezeléséhez:
+**Step 3: perform conversion**  
 ```java
 // Perform the conversion from PDF to Word Processing format
 double convertPdfToWordProcessing(PdfLoadOptions loadOptions) {
@@ -135,59 +192,77 @@ double convertPdfToWordProcessing(PdfLoadOptions loadOptions) {
     
     return 0; // Placeholder return value
 }
-```
-**Magyarázat:**  
-- `Converter`: Inicializálja az útvonallal és a betöltési beállításokkal.  
-- `WordProcessingConvertOptions`: Beállítja a cél Word-dokumentum opcióit.
+```  
+**Explanation:**  
+- `Converter`: Inicializálja az útvonalat és a betöltési beállításokat.  
+- `WordProcessingConvertOptions`: A cél Word dokumentum beállításait konfigurálja.
 
-## Hibaelhárítási tippek
-- Győződjön meg róla, hogy a fájl útvonalak helyesen vannak megadva a `FileNotFoundException` elkerülése érdekében.  
-- Ellenőrizze, hogy a GroupDocs.Conversion verzió kompatibilis a Java környezetével.  
-- Ellenőrizze, hogy a licenckulcs érvényes és megfelelően konfigurált a teljes funkciók eléréséhez.
+## Hogyan rejtsük el a PDF megjegyzéseket a konvertálás során?
+
+**Direct answer:**  
+Állítsd be a `setHidePdfAnnotations(true)`‑t egy `PdfLoadOptions` objektumon, mielőtt létrehoznád a `Converter`‑t. Ez azt mondja a GroupDocs.Conversion‑nek, hogy távolítsa el az összes megjegyzés‑réteget a PDF‑ből, így egy tiszta Word fájl keletkezik lábjegyzetek, kommentek vagy jelölések nélkül.
+
+**Explanation:**  
+Az opció minden PDF‑re működik, függetlenül az oldalak számától vagy a megjegyzés típusától. Egyszer kell beállítani konvertálásonként, így ugyanazt a `PdfLoadOptions`‑t tömeges feldolgozáshoz is újra felhasználhatod.
+
+## Gyakori problémák és megoldások
+
+- **File‑not‑found hibák:** Ellenőrizd, hogy a `pdfInputPath` egy létező fájlra mutat, és hogy az alkalmazásnak van‑e olvasási joga.  
+- **Verzióeltérés:** Győződj meg róla, hogy a GroupDocs.Conversion JAR egyezik a Java futtatókörnyezeteddel (Java 8 vagy újabb).  
+- **Licenc problémák:** A próbaverzió letilt bizonyos prémium funkciókat; ellenőrizd, hogy a licenckulcs helyesen van‑e betöltve a teljes funkcionalitáshoz.
 
 ## Gyakorlati alkalmazások
-Íme néhány valós életbeli forgatókönyv, ahol ez a **pdf to word java** funkció hasznos lehet:
-1. **Dokumentumkezelő rendszerek:** Automatizálja a bejövő PDF-ek konvertálását szerkeszthető Word-dokumentumokká.  
-2. **Jogász irodák:** Konvertálja a megjegyzésekkel ellátott jogi PDF-eket tiszta Word-fájlokká az ügyfelekkel való megosztáshoz.  
-3. **Oktatási intézmények:** Készítsen előadás jegyzeteket a megjegyzésekkel ellátott PDF-ek szerkeszthető formátumba konvertálásával.
+
+Valós példák, ahol a PDF megjegyzések elrejtése hasznos:
+
+1. **Dokumentumkezelő rendszerek:** A beérkező PDF‑eket szerkeszthető Word fájlokká konvertálja, miközben eldobja a lektorálói kommentárokat.  
+2. **Jogi munkafolyamatok:** Tiszta, ügyfél‑kész Word dokumentumot állít elő a megjegyzésekkel ellátott szerződésekből.  
+3. **Oktatási platformok:** Az oktató jegyzetekkel ellátott előadási PDF‑eket egyszerű Word anyagokká alakítja a hallgatók számára.
 
 ## Teljesítmény szempontok
-A GroupDocs.Conversion használata közben a teljesítmény optimalizálásához:
-- Korlátozza a bemeneti fájlok méretét, ahol lehetséges.  
-- Kezelje hatékonyan a Java memória beállításokat, különösen nagy dokumentumok esetén.  
-- Rendszeresen frissítsen a legújabb verzióra a hatékonyság és a hibajavítások javítása érdekében.
+
+- **Fájlméret:** 100 MB‑nál nagyobb PDF‑eknél növeld a JVM heap‑et (`-Xmx2g` vagy nagyobb), hogy elkerüld a memória‑hiányt.  
+- **Tömeges feldolgozás:** Egyetlen `PdfLoadOptions` példány újrahasználata több konvertálásnál csökkenti az objektum‑létrehozási terhelést.  
+- **Könyvtár‑frissítések:** A GroupDocs.Conversion kiadások teljesítmény‑optimalizációkat tartalmaznak; maradj a legújabb stabil verzión, hogy gyorsabb feldolgozást és alacsonyabb memóriaigényt érj el.
 
 ## Következtetés
-Ebben az útmutatóban megtanulta, hogyan töltsön be PDF-eket fejlett beállításokkal, és konvertálja őket Word formátumokra a GroupDocs.Conversion for Java segítségével. Ezekkel a készségekkel egyszerűsítheti a dokumentumkezelési folyamatokat, és tiszta, szerkeszthető Word-fájlokat biztosíthat a felhasználóknak. Fedezze fel a további funkciókat a [GroupDocs dokumentációban](https://docs.groupdocs.com/conversion/java/), hogy tovább fejlessze alkalmazásait.
 
-## GyIK szekció
+Most már tudod, hogyan rejtsd el a PDF megjegyzéseket a PDF‑ről Word‑re Java‑val történő konvertálás során a GroupDocs.Conversion segítségével. A `PdfLoadOptions` megfelelő beállításával és a `Converter` osztály használatával tiszta, szerkeszthető dokumentumokat hozhatsz létre, amelyek alkalmasak további szerkesztésre, jogi felülvizsgálatra vagy oktatási terjesztésre. Fedezd fel a további formátumokat és fejlett beállításokat a hivatalos dokumentációban, hogy még szélesebb körű megoldásokat építhess.
 
-**Q: Hogyan kezeljem a nagy PDF-fájlokat a konverzió során?**  
-A: Fontolja meg a nagy dokumentumok kisebb részekre bontását a feldolgozáshoz, vagy növelje a Java memória kiosztási beállításait.
+## Gyakran ismételt kérdések
 
-**Q: Exportálhat a GroupDocs.Conversion más formátumokra is, mint a Word?**  
-A: Igen, számos dokumentumformátumot támogat. Tekintse meg az [API referenciát](https://reference.groupdocs.com/conversion/java/) további részletekért.
+**Q: Hogyan kezeljem a nagy PDF fájlokat a konvertálás során?**  
+A: Oszd fel a PDF‑et kisebb darabokra, vagy növeld a JVM heap méretét (`-Xmx`), hogy a konvertáló több memóriát kapjon.
 
-**Q: Mi van, ha a megjegyzéseim nem rejtődnek el megfelelően?**  
-A: Győződjön meg róla, hogy a `setHidePdfAnnotations(true)` a konverzió előtt van meghívva, és ellenőrizze a GroupDocs.Conversion verzióját.
+**Q: A GroupDocs.Conversion exportálhat más formátumokba is, mint a Word?**  
+A: Igen, több mint 50 kimeneti formátumot támogat, többek között Excel, PowerPoint, HTML és egyszerű szöveg. Tekintsd meg az API‑referenciát a teljes listáért.
 
-**Q: A konverzió szálbiztos a többfelhasználós környezetben?**  
-A: Igen, az API úgy van tervezve, hogy párhuzamosan használható, de a legjobb eredmény érdekében minden szálnál külön `Converter` objektumot hozzon létre.
+**Q: Mi van, ha a megjegyzéseim nem tűnnek el megfelelően?**  
+A: Ellenőrizd, hogy a `setHidePdfAnnotations(true)` a `Converter` létrehozása előtt lett‑e meghívva, és hogy a GroupDocs.Conversion 25.2 vagy újabb verziót használod.
 
-**Q: Konvertálhatok jelszóval védett PDF-eket?**  
-A: Természetesen—adja meg a jelszót a `PdfLoadOptions` létrehozásakor a dokumentum feloldásához a konverzió előtt.
+**Q: A konvertálás szál‑biztonságos több felhasználós környezetben?**  
+A: Az API szál‑biztonságos, ha minden szál saját `Converter` példányt hoz létre. Csak immutábilis konfigurációs objektumokat ossz meg.
 
-## Erőforrások
-- **Dokumentáció:** [GroupDocs Conversion Documentation](https://docs.groupdocs.com/conversion/java/)  
-- **API referencia:** [GroupDocs API Reference](https://reference.groupdocs.com/conversion/java/)  
-- **Letöltés:** [GroupDocs Downloads](https://releases.groupdocs.com/conversion/java/)  
-- **Vásárlás:** [Buy GroupDocs License](https://purchase.groupdocs.com/buy)  
-- **Ingyenes próbaverzió:** [GroupDocs Free Trial](https://releases.groupdocs.com/conversion/java/)  
-- **Ideiglenes licenc:** [Request Temporary License](https://purchase.groupdocs.com/temporary-license/)  
-- **Támogatás:** [GroupDocs Support Forum](https://forum.groupdocs.com/c/conversion/10)
+**Q: Konvertálhatok jelszóval védett PDF‑eket?**  
+A: Igen – add meg a jelszót a `PdfLoadOptions.setPassword("yourPassword")`‑nal a konvertálás előtt.
 
----
+## Források
+- **Dokumentáció:** [GroupDocs Conversion dokumentáció](https://docs.groupdocs.com/conversion/java/)  
+- **API reference:** [GroupDocs API Reference](https://reference.groupdocs.com/conversion/java/)  
+- **Dokumentáció:** [GroupDocs dokumentáció](https://docs.groupdocs.com/conversion/java/)  
+- **API reference:** [API reference](https://reference.groupdocs.com/conversion/java/)  
+- **Download:** [GroupDocs Downloads](https://releases.groupdocs.com/conversion/java/)  
+- **Purchase:** [Buy GroupDocs License](https://purchase.groupdocs.com/buy)  
+- **Free trial:** [GroupDocs Free Trial](https://releases.groupdocs.com/conversion/java/)  
+- **Temporary license:** [Request Temporary License](https://purchase.groupdocs.com/temporary-license/)  
+- **Support:** [GroupDocs Support Forum](https://forum.groupdocs.com/c/conversion/10)
 
-**Legutóbb frissítve:** 2026-02-23  
-**Tesztelve:** GroupDocs.Conversion 25.2  
-**Szerző:** GroupDocs
+**Last Updated:** 2026-09-25  
+**Tested With:** GroupDocs.Conversion 25.2  
+**Author:** GroupDocs  
+
+## Kapcsolódó oktatóanyagok
+
+- [PDF to Word Java: Convert PDFs to Word Using GroupDocs – A Comprehensive Guide](/conversion/java/pdf-conversion/java-pdf-to-word-groupdocs-conversion/)  
+- [Hide Comments Word Pdf Conversion Groupdocs Java](/conversion/java/pdf-conversion/hide-comments-word-pdf-conversion-groupdocs-java/)  
+- [How to Hide Revisions: Use Options to Hide Tracked Changes in Word‑PDF Conversion with GroupDocs.Conversion for Java](/conversion/java/conversion-options/automate-hide-tracked-changes-word-pdf-conversion-groupdocs-java/)

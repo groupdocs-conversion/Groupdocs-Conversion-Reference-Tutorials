@@ -1,47 +1,101 @@
 ---
-date: '2026-02-23'
-description: GroupDocs.Conversion ile pdf'den word'e java dönüşümünü nasıl yapacağınızı
-  öğrenin. Belge iş akışınızı kolaylaştırmak için bu adım adım rehberi izleyin.
+date: '2026-09-25'
+description: GroupDocs.Conversion kullanarak Java'da PDF'leri Word'e dönüştürürken
+  PDF açıklamalarını nasıl gizleyeceğinizi öğrenin. Bu rehber kurulum, kod ve performans
+  ipuçlarını kapsar.
 keywords:
-- convert PDF to Word in Java
-- GroupDocs.Conversion setup
-- PDF conversion with annotations hidden
-title: 'PDF''den Word''e Java: GroupDocs Kullanarak PDF''leri Word''e Dönüştürme –
-  Kapsamlı Rehber'
+- how to hide pdf
+- pdf to word java
+- groupdocs conversion java
+- java pdf conversion library
+lastmod: '2026-09-25'
+og_description: GroupDocs.Conversion kullanarak Java'da PDF'leri Word'e dönüştürürken
+  PDF açıklamalarını nasıl gizleyeceğinizi öğrenin. Adım adım talimatları ve performans
+  ipuçlarını izleyin.
+og_image_alt: Guide showing how to hide PDF annotations during Java conversion to
+  Word using GroupDocs
+og_title: Java'da PDF'yi Word'e dönüştürürken PDF açıklamalarını nasıl gizlersiniz
+schemas:
+- author: GroupDocs
+  dateModified: '2026-09-25'
+  description: Learn how to hide PDF annotations while converting PDFs to Word in
+    Java using GroupDocs.Conversion. This guide covers setup, code, and performance
+    tips.
+  headline: How to hide PDF annotations when converting to Word in Java
+  type: TechArticle
+- description: Learn how to hide PDF annotations while converting PDFs to Word in
+    Java using GroupDocs.Conversion. This guide covers setup, code, and performance
+    tips.
+  name: How to hide PDF annotations when converting to Word in Java
+  steps:
+  - name: '**Document management systems:** Convert incoming PDFs into editable Word
+      files while discarding reviewer comments.'
+    text: '**Document management systems:** Convert incoming PDFs into editable Word
+      files while discarding reviewer comments.'
+  - name: '**Legal workflows:** Produce clean client‑ready Word documents from annotated
+      contracts.'
+    text: '**Legal workflows:** Produce clean client‑ready Word documents from annotated
+      contracts.'
+  - name: '**Educational platforms:** Turn lecture PDFs with teacher notes into plain
+      Word handouts for students.'
+    text: '**Educational platforms:** Turn lecture PDFs with teacher notes into plain
+      Word handouts for students.'
+  type: HowTo
+- questions:
+  - answer: Split the PDF into smaller chunks or increase the JVM heap size (`-Xmx`)
+      to give the converter more memory.
+    question: How do I handle large PDF files during conversion?
+  - answer: Yes, it supports over 50 output formats, including Excel, PowerPoint,
+      HTML, and plain text. Check the API reference for the full list.
+    question: Can GroupDocs.Conversion export to formats other than Word?
+  - answer: Verify that `setHidePdfAnnotations(true)` is called before creating the
+      `Converter` and that you are using GroupDocs.Conversion 25.2 or later.
+    question: What if my annotations are not hiding correctly?
+  - answer: The API is thread‑safe when each thread creates its own `Converter` instance.
+      Share only immutable configuration objects.
+    question: Is the conversion thread‑safe for multi‑user environments?
+  - answer: Yes—provide the password via `PdfLoadOptions.setPassword("yourPassword")`
+      before conversion.
+    question: Can I convert password‑protected PDFs?
+  type: FAQPage
+tags:
+- pdf to word
+- groupdocs
+- java document conversion
+- hide pdf annotations
+title: Java'da PDF'yi Word'e dönüştürürken PDF açıklamalarını nasıl gizlersiniz
 type: docs
 url: /tr/java/pdf-conversion/java-pdf-to-word-groupdocs-conversion/
 weight: 1
 ---
 
-# PDF to Word Java: PDF'leri GroupDocs Kullanarak Word'e Dönüştürme
+# Java'da PDF'yi Word'e dönüştürürken PDF açıklamalarını nasıl gizlersiniz
 
-Eğer güvenilir bir **pdf to word java** çözümü arıyorsanız, doğru yerdesiniz. PDF'leri düzenlenebilir Word belgelerine dönüştürmek, özellikle ek açıklamalar çıktıyı kirlettiğinde zorlayıcı olabilir. Bu rehberde, GroupDocs.Conversion for Java kullanarak bir PDF'yi nasıl yükleyeceğinizi, ek açıklamaları nasıl gizleyeceğinizi ve temiz bir Word dosyası üreteceğinizi adım adım, anlaşılır bir dille açıklayacağız.
+PDF'leri düzenlenebilir Word belgelerine **ve** çıktıdaki açıklama kalabalığından arındırmak istiyorsanız, doğru yerdesiniz. Bu öğreticide, GroupDocs.Conversion for Java kullanarak bir PDF'yi yüklemeyi, açıklamalarını gizlemeyi ve temiz bir `.docx` dosyası üretmeyi adım adım, sohbet tarzında anlatıyoruz.
 
-## Hızlı Yanıtlar
-- **pdf to word java** dönüşümünü hangi kütüphane yönetiyor? GroupDocs.Conversion for Java.  
-- **Lisans gerekli mi?** Değerlendirme için bir deneme sürümü yeterli; üretim için ücretli lisans gerekir.  
-- **Ek açıklamalar gizlenebilir mi?** Evet, `PdfLoadOptions` içinde `setHidePdfAnnotations(true)` ayarlayın.  
-- **Hangi Java sürümü destekleniyor?** Java 8 ve üzeri, bağımlılık yönetimi için Maven.  
-- **Büyük dosyalar için dönüşüm hızlı mı?** Verimli, ancak çok büyük PDF'ler için bellek ayarlarını göz önünde bulundurun.
+## Hızlı cevaplar
+- **pdf to word java dönüşümünü hangi kütüphane yönetir?** GroupDocs.Conversion for Java.  
+- **Bir lisansa ihtiyacım var mı?** Değerlendirme için bir deneme sürümü yeterlidir; üretim için ücretli bir lisans gereklidir.  
+- **Açıklamalar gizlenebilir mi?** Evet—`PdfLoadOptions` içinde `setHidePdfAnnotations(true)` ayarlayın.  
+- **Hangi Java sürümü destekleniyor?** Java 8 veya daha yeni, bağımlılık yönetimi için Maven ile.  
+- **Büyük dosyalar için dönüşüm hızlı mı?** Etkilidir, ancak çok büyük PDF'ler için bellek ayarlarını göz önünde bulundurun.
 
 ## pdf to word java dönüşümü nedir?
-**pdf to word java** dönüşümü, bir PDF belgesini Java kodu kullanarak Microsoft Word formatına (`.docx`) dönüştürme sürecidir. Bu sayede belge düzenleme, içerik çıkarma ve diğer Office iş akışlarıyla entegrasyon mümkün olur.
+**Pdf to word java conversion**, bir PDF belgesini Java kodu kullanarak Microsoft Word formatına (`.docx`) dönüştürme sürecidir. Bu, sonraki düzenlemeleri, içerik çıkarımını ve diğer Office iş akışlarıyla entegrasyonu mümkün kılar. Ayrıca yazı tiplerini, görüntüleri ve temel düzeni korur, böylece ortaya çıkan belge Microsoft Word'de önemli bir yeniden biçimlendirme olmadan açılıp düzenlenebilir.
 
-## Bu görev için neden GroupDocs kullanılmalı?
-GroupDocs.Conversion, düşük seviyeli PDF ayrıştırma detaylarını soyutlayan yüksek seviyeli bir API sunar. Ek açıklamaları gizleme, düzeni koruma ve platformlar arasında tutarlı çalışma özellikleri sayesinde kurumsal belge akışları için idealdir.
+## Bu görev için neden GroupDocs kullanmalı?
+GroupDocs.Conversion, düşük seviyeli PDF ayrıştırmayı soyutlayan, açıklama gizlemeyi destekleyen, düzeni koruyan ve platformlar arasında tutarlı çalışan yüksek seviyeli bir API sunar—bu da onu kurumsal belge akışları için ideal kılar.
 
 ## Önkoşullar
+- **Gerekli kütüphaneler:** GroupDocs.Conversion kütüphanesi sürüm 25.2 veya üzeri.  
+- **Ortam:** Java Development Kit (JDK) 8 veya üzeri, bağımlılık yönetimi için Maven.  
+- **Bilgi:** Temel Java programlama ve Maven'e aşinalık.
 
-Başlamadan önce aşağıdakilerin kurulu olduğundan emin olun:
-- **Gerekli Kütüphaneler:** GroupDocs.Conversion kütüphanesi sürüm 25.2 veya üzeri.  
-- **Ortam Kurulumu:** Sisteminizde Java Development Kit (JDK) yüklü ve yapılandırılmış olmalı.  
-- **Bilgi Gereksinimleri:** Java programlamaya temel aşinalık ve Maven ile bağımlılık yönetimi bilgisi.
+## GroupDocs.Conversion for Java'ı kurma
 
-## GroupDocs.Conversion for Java Kurulumu
+`pom.xml` dosyanıza GroupDocs.Conversion bağımlılığını ekleyin. Aşağıdaki kod parçacığı tam olarak ihtiyacınız olan şeydir; değiştirmeyin.
 
-GroupDocs.Conversion for Java'yı kullanmak için proje ortamınızı doğru şekilde ayarlamanız gerekir. Maven kullanıyorsanız, `pom.xml` dosyanıza aşağıdaki yapılandırmayı ekleyin:
-
-**Maven Yapılandırması:**
+**Maven yapılandırması:**  
 ```xml
 <repositories>
    <repository>
@@ -60,26 +114,27 @@ GroupDocs.Conversion for Java'yı kullanmak için proje ortamınızı doğru şe
 </dependencies>
 ```
 
-### Lisans Edinme Adımları
-- **Ücretsiz Deneme:** [GroupDocs web sitesinden](https://releases.groupdocs.com/conversion/java/) bir deneme sürümü indirin.  
-- **Geçici Lisans:** Tam özellikleri test etmek için [GroupDocs Geçici Lisans](https://purchase.groupdocs.com/temporary-license/) sayfasından geçici lisans başvurusu yapın.  
-- **Satın Alma:** Üretim kullanımı için lisansı [GroupDocs Satın Alma Sayfası](https://purchase.groupdocs.com/buy) üzerinden alın.
+### Lisans edinme adımları
+- **Ücretsiz deneme:** [GroupDocs web sitesi](https://releases.groupdocs.com/conversion/java/) üzerinden bir deneme sürümü indirin.  
+- **Geçici lisans:** Tam özellikleri test etmek için [GroupDocs Geçici Lisans](https://purchase.groupdocs.com/temporary-license/) adresine başvurun.  
+- **Satın alma:** Üretim kullanımı için [GroupDocs Satın Alma Sayfası](https://purchase.groupdocs.com/buy) üzerinden bir lisans satın alın.
 
-### Temel Başlatma ve Kurulum
+### Temel başlatma ve kurulum
+API ile çalışmaya başlamadan önce Java sınıfınıza gerekli paketleri içe aktarın.
 
-Maven yapılandırmasını ekledikten sonra, projenizin GroupDocs.Conversion'ı kullanacak şekilde doğru şekilde başlatıldığından emin olun. Java kodunuzda gerekli paketleri içe aktararak başlayabilirsiniz.
+## Uygulama rehberi
 
-## Uygulama Kılavuzu
+Aşağıda uygulamayı net ve yönetilebilir bölümlere ayırıyoruz.
 
-Şimdi uygulamayı, her özelliğe odaklanan yönetilebilir bölümlere ayıralım.
+### Gelişmiş seçeneklerle PDF yükleme
 
-### Gelişmiş Seçeneklerle PDF Yükleme
+**Doğrudan cevap:**  
+`PdfLoadOptions` bir örneği oluşturun, `setHidePdfAnnotations(true)` ile açıklama gizlemeyi etkinleştirin ve `Converter` yapıcısına geçirin. Bu iki adımlı kurulum, kaynak PDF'deki yorum, vurgulama veya damgaların sonuç Word belgesinden çıkarılmasını sağlar.
 
-**Genel Bakış:**  
-Bu özellik, PDF dosyasını yüklemenize ve dönüşümden önce ek açıklamaları gizlemenize olanak tanır; böylece daha temiz bir belge çıktısı elde edilir.
+**Tanım referansı:**  
+`PdfLoadOptions`, bir PDF'nin dönüşümden önce nasıl yorumlanacağını kontrol etmenizi sağlayan bir yapılandırma nesnesidir.
 
-#### Adım 1: PdfLoadOptions Yapılandırma
-`PdfLoadOptions` örneği oluşturun ve ek açıklamaları gizleme seçeneğini ayarlayın:
+**Adım 1: yükleme seçeneklerini yapılandırın**  
 ```java
 // Create and configure load options for the PDF document
 double createPdfLoadOptionsWithHiddenAnnotations() {
@@ -91,30 +146,34 @@ double createPdfLoadOptionsWithHiddenAnnotations() {
     
     return 0; // Placeholder return value
 }
-```
+```  
 **Açıklama:**  
-- `setHidePdfAnnotations(true)`: PDF'nizde bulunan ek açıklamaları gizler, böylece dönüştürülen Word dosyasında görünmezler.
+- `setHidePdfAnnotations(true)`: PDF'nizde bulunan tüm açıklamaları gizler, böylece dönüştürülen Word dosyasında görünmez.
 
-### PDF'yi Word İşleme Formatına Dönüştürme
+### PDF'yi Word işleme formatına dönüştürme
 
-**Genel Bakış:**  
-PDF dosyanızı yükleyip yapılandırdıktan sonra, optimum sonuçlar için belirli seçeneklerle Word işleme formatına dönüştürebilirsiniz.
+**Doğrudan cevap:**  
+PDF yolunu ve yapılandırılmış `PdfLoadOptions` nesnesini kullanarak bir `Converter` örneği oluşturun, ardından `convert` metodunu çağırarak bir `WordProcessingConvertOptions` nesnesi ve istenen çıktı yolunu geçin. Bu tek çağrı tüm dönüşüm sürecini gerçekleştirir.
 
-#### Adım 2: Giriş ve Çıkış Yollarını Tanımlama
-Giriş ve çıkış yolları için yer tutucular oluşturun:
+**Tanım referansı:**  
+`Converter`, bir kaynak formatından hedef formata belge dönüşümünü yöneten temel sınıftır.
+
+**Tanım referansı:**  
+`WordProcessingConvertOptions`, düzen bütünlüğünü koruma gibi Word çıktısına özgü ayarları tanımlar.
+
+**Adım 2: giriş ve çıkış yollarını tanımlayın**  
 ```java
 // Define the path for input and output documents using placeholders
 void definePaths() {
     String pdfInputPath = "YOUR_DOCUMENT_DIRECTORY/SAMPLE_PDF.pdf"; // Placeholder PDF file path
     String wordOutputPath = "YOUR_OUTPUT_DIRECTORY/ConvertedToWord.docx"; // Placeholder output DOCX path
 }
-```
+```  
 **Açıklama:**  
 - `pdfInputPath`: Kaynak PDF belgenizin konumu.  
-- `wordOutputPath`: Dönüştürülen Word dosyasının hedef konumu.
+- `wordOutputPath`: Dönüştürülen Word dosyasının hedefi.
 
-#### Adım 3: Dönüşümü Gerçekleştirme
-Dönüşüm sürecini yönetmek için `Converter` sınıfını kullanın:
+**Adım 3: dönüşümü gerçekleştirin**  
 ```java
 // Perform the conversion from PDF to Word Processing format
 double convertPdfToWordProcessing(PdfLoadOptions loadOptions) {
@@ -133,63 +192,81 @@ double convertPdfToWordProcessing(PdfLoadOptions loadOptions) {
     
     return 0; // Placeholder return value
 }
-```
+```  
 **Açıklama:**  
 - `Converter`: Yol ve yükleme seçenekleriyle başlatılır.  
 - `WordProcessingConvertOptions`: Hedef Word belgesi için ayarları yapılandırır.
 
-## Sorun Giderme İpuçları
+## Dönüşüm sırasında PDF açıklamalarını nasıl gizlersiniz?
 
-- `FileNotFoundException` almamak için dosya yollarının doğru belirtildiğinden emin olun.  
-- GroupDocs.Conversion sürümünün Java kurulumunuzla uyumlu olup olmadığını kontrol edin.  
-- Lisans anahtarınızın geçerli ve tam özellik erişimi sağlayacak şekilde yapılandırıldığını doğrulayın.
+**Doğrudan cevap:**  
+`Converter` oluşturulmadan önce bir `PdfLoadOptions` nesnesinde `setHidePdfAnnotations(true)` ayarlayın. Bu, GroupDocs.Conversion'a PDF'deki tüm açıklama katmanlarını kaldırmasını söyler ve dipnot, yorum veya işaretleme içermeyen temiz bir Word dosyası üretir.
 
-## Pratik Kullanım Alanları
+**Açıklama:**  
+Bu seçenek, sayfa sayısı veya açıklama türlerinden bağımsız olarak herhangi bir PDF'de çalışır. Her dönüşümde bir kez uygulanır, bu yüzden toplu işleme için aynı `PdfLoadOptions` nesnesini yeniden kullanabilirsiniz.
 
-**pdf to word java** işlevselliğinin faydalı olabileceği gerçek dünya senaryoları:
-1. **Belge Yönetim Sistemleri:** Gelen PDF'leri otomatik olarak düzenlenebilir Word belgelerine dönüştürün.  
-2. **Hukuk Firmaları:** Notlu yasal PDF'leri temiz Word dosyalarına çevirerek müşterilerle paylaşın.  
-3. **Eğitim Kurumları:** Notlu PDF'leri düzenlenebilir formatlara dönüştürerek ders notlarını hazırlayın.
+## Yaygın sorunlar ve çözümler
 
-## Performans Düşünceleri
+- **Dosya‑bulunamadı hataları:** `pdfInputPath`'in mevcut bir dosyaya işaret ettiğini ve uygulamanızın okuma izinlerine sahip olduğunu iki kez kontrol edin.  
+- **Sürüm uyumsuzluğu:** GroupDocs.Conversion JAR'ının Java çalışma ortamınızla (Java 8 veya üzeri) eşleştiğinden emin olun.  
+- **Lisans sorunları:** Deneme lisansı bazı premium özellikleri devre dışı bırakır; tam işlevsellik için lisans anahtarınızın doğru yüklendiğini doğrulayın.
 
-GroupDocs.Conversion kullanırken performansı artırmak için:
-- Giriş dosyalarının boyutunu mümkün olduğunca sınırlayın.  
-- Büyük belgelerle çalışırken Java bellek ayarlarını etkili bir şekilde yönetin.  
-- Verimlilik ve hata düzeltmeleri için en yeni sürüme düzenli olarak güncelleyin.
+## Pratik uygulamalar
+
+PDF açıklamalarını gizlemenin değerli olduğu gerçek dünya senaryoları:
+
+1. **Belge yönetim sistemleri:** Gelen PDF'leri düzenlenebilir Word dosyalarına dönüştürürken inceleme yorumlarını atın.  
+2. **Hukuki iş akışları:** Açıklamalı sözleşmelerden temiz, müşteri hazır Word belgeleri üretin.  
+3. **Eğitim platformları:** Öğretmen notları içeren ders PDF'lerini öğrencilere yönelik sade Word el kitaplarına dönüştürün.
+
+## Performans değerlendirmeleri
+
+- **Dosya boyutu:** 100 MB'den büyük PDF'ler için, bellek hatalarını önlemek amacıyla JVM yığınını (`-Xmx2g` veya daha yüksek) artırın.  
+- **Toplu işleme:** Nesne oluşturma yükünü azaltmak için birden fazla dönüşümde aynı `PdfLoadOptions` örneğini yeniden kullanın.  
+- **Kütüphane güncellemeleri:** GroupDocs.Conversion sürümleri performans iyileştirmeleri ekler; daha hızlı ayrıştırma ve daha düşük bellek tüketiminden faydalanmak için en son kararlı sürümde kalın.
 
 ## Sonuç
 
-Bu öğreticide, gelişmiş seçeneklerle PDF'leri nasıl yükleyeceğinizi ve GroupDocs.Conversion for Java kullanarak Word formatına nasıl dönüştüreceğinizi öğrendiniz. Bu becerilerle belge yönetim süreçlerinizi hızlandırabilir ve kullanıcılara temiz, düzenlenebilir Word dosyaları sunabilirsiniz. Daha fazla özelliği keşfetmek için [GroupDocs belgelerine](https://docs.groupdocs.com/conversion/java/) göz atın.
+Artık GroupDocs.Conversion kullanarak Java'da PDF'leri Word'e dönüştürürken PDF açıklamalarını nasıl gizleyeceğinizi biliyorsunuz. `PdfLoadOptions` yapılandırarak ve `Converter` sınıfını kullanarak, sonraki düzenlemeler, hukuki inceleme veya eğitim dağıtımı için uygun temiz, düzenlenebilir belgeler üretebilirsiniz. Çözümünüzü daha da genişletmek için resmi belgelerde ek formatları ve gelişmiş ayarları keşfedin.
 
-## SSS Bölümü
+## Sıkça sorulan sorular
 
-**S: Büyük PDF dosyalarını dönüşüm sırasında nasıl yönetebilirim?**  
-C: Belgeleri daha küçük parçalara bölerek işleyebilir veya Java bellek tahsis ayarlarını artırabilirsiniz.
+**S: Dönüşüm sırasında büyük PDF dosyalarını nasıl yönetirim?**  
+C: PDF'yi daha küçük parçalara bölün veya dönüştürücüye daha fazla bellek sağlamak için JVM yığın boyutunu (`-Xmx`) artırın.
 
-**S: GroupDocs.Conversion Word dışındaki formatlara da dışa aktarım yapabilir mi?**  
-C: Evet, çeşitli belge formatlarını destekler. Daha fazla bilgi için [API referansına](https://reference.groupdocs.com/conversion/java/) bakın.
+**S: GroupDocs.Conversion, Word dışındaki formatlara dışa aktarabilir mi?**  
+C: Evet, Excel, PowerPoint, HTML ve düz metin dahil olmak üzere 50'den fazla çıktı formatını destekler. Tam liste için API referansına bakın.
 
-**S: Ek açıklamalarım gizlenmiyorsa ne yapmalıyım?**  
-C: `setHidePdfAnnotations(true)` metodunun dönüşümden önce çağrıldığından ve GroupDocs.Conversion sürümünüzün güncel olduğundan emin olun.
+**S: Açıklamalarım doğru şekilde gizlenmiyorsa ne yapmalıyım?**  
+C: `setHidePdfAnnotations(true)`'ın `Converter` oluşturulmadan önce çağrıldığını ve GroupDocs.Conversion 25.2 veya daha yeni bir sürüm kullandığınızı doğrulayın.
 
-**S: Dönüşüm çoklu kullanıcı ortamları için thread‑safe mi?**  
-C: Evet, API aynı anda kullanılmak üzere tasarlanmıştır; en iyi sonuç için her thread için ayrı `Converter` nesneleri oluşturun.
+**S: Dönüşüm çok‑kullanıcı ortamları için thread‑safe mi?**  
+C: API, her iş parçacığının kendi `Converter` örneğini oluşturduğu durumda thread‑safe'dir. Yalnızca değişmez yapılandırma nesnelerini paylaşın.
 
 **S: Şifre korumalı PDF'leri dönüştürebilir miyim?**  
-C: Kesinlikle—`PdfLoadOptions` oluştururken şifreyi sağlayarak belgeyi dönüştürmeden önce açabilirsiniz.
+C: Evet—dönüşümden önce `PdfLoadOptions.setPassword("yourPassword")` ile şifreyi sağlayın.
 
 ## Kaynaklar
-- **Dokümantasyon:** [GroupDocs Conversion Documentation](https://docs.groupdocs.com/conversion/java/)  
-- **API Referansı:** [GroupDocs API Reference](https://reference.groupdocs.com/conversion/java/)  
-- **İndirme:** [GroupDocs Downloads](https://releases.groupdocs.com/conversion/java/)  
-- **Satın Alma:** [Buy GroupDocs License](https://purchase.groupdocs.com/buy)  
-- **Ücretsiz Deneme:** [GroupDocs Free Trial](https://releases.groupdocs.com/conversion/java/)  
-- **Geçici Lisans:** [Request Temporary License](https://purchase.groupdocs.com/temporary-license/)  
-- **Destek:** [GroupDocs Support Forum](https://forum.groupdocs.com/c/conversion/10)
+- **Dokümantasyon:** [GroupDocs Dönüşüm Belgeleri](https://docs.groupdocs.com/conversion/java/)  
+- **API referansı:** [GroupDocs API Referansı](https://reference.groupdocs.com/conversion/java/)  
+- **Dokümantasyon:** [GroupDocs belgeleri](https://docs.groupdocs.com/conversion/java/)  
+- **API referansı:** [API referansı](https://reference.groupdocs.com/conversion/java/)  
+- **İndirme:** [GroupDocs İndirmeleri](https://releases.groupdocs.com/conversion/java/)  
+- **Satın alma:** [GroupDocs Lisansı Satın Al](https://purchase.groupdocs.com/buy)  
+- **Ücretsiz deneme:** [GroupDocs Ücretsiz Deneme](https://releases.groupdocs.com/conversion/java/)  
+- **Geçici lisans:** [Geçici Lisans Talep Et](https://purchase.groupdocs.com/temporary-license/)  
+- **Destek:** [GroupDocs Destek Forumu](https://forum.groupdocs.com/c/conversion/10)
 
 ---
 
-**Son Güncelleme:** 2026-02-23  
-**Test Edilen Sürüm:** GroupDocs.Conversion 25.2  
-**Yazar:** GroupDocs
+**Son Güncelleme:** 2026-09-25  
+**Test Edilen:** GroupDocs.Conversion 25.2  
+**Yazar:** GroupDocs  
+
+---
+
+## İlgili Eğitimler
+
+- [PDF'den Word'e Java: GroupDocs Kullanarak PDF'leri Word'e Dönüştürme – Kapsamlı Rehber](/conversion/java/pdf-conversion/java-pdf-to-word-groupdocs-conversion/)
+- [Yorumları Gizle Word Pdf Dönüşümü Groupdocs Java](/conversion/java/pdf-conversion/hide-comments-word-pdf-conversion-groupdocs-java/)
+- [Revizyonları Nasıl Gizlersiniz: GroupDocs.Conversion for Java ile Word‑PDF Dönüşümünde İzlenen Değişiklikleri Gizlemek İçin Seçenekleri Kullanma](/conversion/java/conversion-options/automate-hide-tracked-changes-word-pdf-conversion-groupdocs-java/)
