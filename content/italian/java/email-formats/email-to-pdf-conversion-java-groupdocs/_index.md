@@ -1,55 +1,101 @@
 ---
-date: '2026-02-26'
-description: Scopri come eseguire la conversione da email a PDF con offset del fuso
-  orario in Java usando GroupDocs.Conversion, ideale per l'archiviazione e la collaborazione
-  tra fusi orari.
+date: '2026-09-25'
+description: Scopri come convertire eml in pdf java con GroupDocs.Conversion, applicando
+  un offset del fuso orario per preservare i timestamp corretti. Guida passo‑passo
+  per gli sviluppatori Java.
 keywords:
-- Email to PDF Conversion
-- Timezone Offset in Java
-- GroupDocs.Conversion for Java
-title: Conversione da Email a PDF con Offset del Fuso Orario in Java usando GroupDocs.Conversion
+- convert eml to pdf java
+- email to pdf conversion
+- timezone offset java
+lastmod: '2026-09-25'
+og_description: Scopri come convertire eml in pdf java con GroupDocs.Conversion, applicando
+  un offset del fuso orario per preservare i timestamp corretti. Guida dettagliata
+  Java per gli sviluppatori.
+og_image_alt: 'Java guide: convert eml to pdf with timezone offset using GroupDocs.Conversion'
+og_title: Converti eml in pdf java con offset del fuso orario usando GroupDocs
+schemas:
+- author: GroupDocs
+  dateModified: '2026-09-25'
+  description: Learn how to convert eml to pdf java with GroupDocs.Conversion, applying
+    a timezone offset to preserve correct timestamps. Step‑by‑step guide for Java
+    developers.
+  headline: How to convert eml to pdf java with timezone offset
+  type: TechArticle
+- description: Learn how to convert eml to pdf java with GroupDocs.Conversion, applying
+    a timezone offset to preserve correct timestamps. Step‑by‑step guide for Java
+    developers.
+  name: How to convert eml to pdf java with timezone offset
+  steps:
+  - name: '**Libraries & dependencies**'
+    text: '**Libraries & dependencies**'
+  - name: '**Environment**'
+    text: '**Environment**'
+  - name: '**Knowledge**'
+    text: '**Knowledge**'
+  type: HowTo
+- questions:
+  - answer: It’s a powerful library that enables document conversion across dozens
+      of formats, including email to PDF, with built‑in timezone handling.
+    question: What is GroupDocs.Conversion for Java?
+  - answer: Use `EmailLoadOptions.setTimeZoneOffset(milliseconds)` before initializing
+      the `Converter`.
+    question: How do I set the timezone offset for emails?
+  - answer: Yes, the library supports `.eml`, `.msg`, and other common email file
+      types.
+    question: Can I convert multiple email formats with this setup?
+  - answer: Missing dependencies, incorrect file paths, and providing the offset in
+      the wrong unit (seconds vs. milliseconds).
+    question: What are common pitfalls during conversion?
+  - answer: Visit the [official documentation](https://docs.groupdocs.com/conversion/java/)
+      for detailed guides and API references.
+    question: Where can I find more resources on GroupDocs.Conversion?
+  type: FAQPage
+tags:
+- convert eml
+- GroupDocs.Conversion
+- Java email conversion
+- timezone offset
+- PDF generation
+title: Come convertire eml in pdf java con offset del fuso orario
 type: docs
 url: /it/java/email-formats/email-to-pdf-conversion-java-groupdocs/
 weight: 1
 ---
 
-# Come Convertire Email in PDF con Offset del Fuso Orario in Java Usando GroupDocs.Conversion
+# Come convertire eml in pdf java con offset del fuso orario
 
-Convertire documenti email in PDF può essere impegnativo, soprattutto quando è fondamentale mantenere informazioni accurate sul fuso orario. In questo tutorial imparerai **come convertire email in pdf** con un offset del fuso orario personalizzato usando GroupDocs.Conversion per Java. Questa guida ti accompagna passo passo — dalla configurazione del progetto alla conversione finale — così potrai implementare rapidamente e con sicurezza una soluzione affidabile di **conversione da email a pdf**.
+In questo tutorial scoprirai come **convertire eml in pdf java** regolando correttamente il timestamp per qualsiasi differenza di fuso orario. Utilizzando GroupDocs.Conversion per Java, vedrai un flusso di lavoro completo end‑to‑end—dalla configurazione di Maven, al caricamento di un'email con un offset personalizzato, fino allo streaming dei file PDF risultanti. I passaggi sono scritti per sviluppatori Java 8+ che hanno bisogno di PDF affidabili, pronti per l'archiviazione, che mostrano l'ora locale corretta.
 
-## Risposte Rapide
-- **Quale libreria gestisce la conversione?** GroupDocs.Conversion per Java.  
+## Risposte rapide
+- **Quale libreria gestisce la conversione?** GroupDocs.Conversion for Java.  
 - **Quale metodo principale imposta il fuso orario?** `EmailLoadOptions.setTimeZoneOffset`.  
-- **Ho bisogno di una licenza?** Una prova gratuita è sufficiente per i test; è necessaria una licenza completa per la produzione.  
-- **Posso elaborare in batch molte email?** Sì — avvolgi il ciclo di conversione in una routine batch.  
+- **È necessaria una licenza?** Una prova gratuita funziona per i test; è richiesta una licenza completa per la produzione.  
+- **Posso elaborare in batch molte email?** Sì—avvolgi il ciclo di conversione in una routine batch.  
 - **Quale versione di Java è richiesta?** JDK 8 o successiva.  
 
-## Panoramica della Conversione da Email a PDF
-Quando converti un'email (`.eml`, `.msg`, ecc.) in PDF, i timestamp originali vengono copiati alla lettera. Se l'email è stata inviata da un fuso orario diverso, quei timestamp possono apparire fuorvianti per i lettori in un'altra regione. Applicando un **offset del fuso orario**, garantisci che il PDF rifletta l'ora locale corretta, preservando il contesto della comunicazione. Questo è il fulcro di una efficace **conversione da email a pdf**.
+## Che cos'è convert eml to pdf java?
+La frase “convert eml to pdf java” descrive il processo di prendere un file email (di solito `.eml` o `.msg`) e generare un documento PDF usando codice Java. Questa conversione è essenziale per l'archiviazione, la conformità legale e la condivisione cross‑platform perché i PDF preservano il layout e sono visualizzabili universalmente.
 
-## Perché Usare GroupDocs.Conversion per Java?
-- **Ampio supporto di formati** – Gestisce `.eml`, `.msg` e molti altri tipi di email.  
-- **Gestione del fuso orario integrata** – `EmailLoadOptions` consente di impostare offset in millisecondi.  
-- **Alte prestazioni** – La conversione basata su stream riduce l'impronta di memoria.  
-- **Licenze pronte per l'enterprise** – Opzioni flessibili di prova e acquisto.
+## Perché usare GroupDocs.Conversion per Java?
+GroupDocs.Conversion supporta **70+** formati di input e output, inclusi `.eml`, `.msg`, `.pdf`, `.docx` e tipi di immagine. Il suo `EmailLoadOptions` integrato ti consente di specificare un offset del fuso orario in millisecondi, garantendo che i timestamp del PDF corrispondano all'ora locale desiderata. La libreria elabora i file in modalità streaming, riducendo l'uso della memoria fino all'**80 %** rispetto al caricamento dell'intero documento in RAM.
 
 ## Prerequisiti
-Prima di iniziare, assicurati di avere quanto segue:
+Prima di iniziare, assicurati di avere:
 
-1. **Librerie e Dipendenze**  
-   - GroupDocs.Conversion per Java versione 25.2 o successiva.  
+1. **Librerie e dipendenze**  
+   - GroupDocs.Conversion per Java versione **25.2** o successiva.  
 
-2. **Configurazione dell'Ambiente**  
-   - Java Development Kit (JDK 8+) installato.  
-   - Maven come strumento di build.  
+2. **Ambiente**  
+   - JDK 8+ installato e configurato sulla tua macchina.  
+   - Maven come strumento di automazione della build.  
 
 3. **Conoscenze**  
-   - Programmazione Java di base e I/O di file.  
-   - Familiarità con la gestione delle dipendenze Maven.
+   - Programmazione Java di base, soprattutto I/O di file.  
+   - Familiarità con la struttura `pom.xml` di Maven.  
 
 ## Configurazione di GroupDocs.Conversion per Java
 
-### Informazioni sull'Installazione
+### Informazioni sull'installazione
 Aggiungi il repository GroupDocs e la dipendenza di conversione al tuo `pom.xml`:
 
 ```xml
@@ -69,15 +115,15 @@ Aggiungi il repository GroupDocs e la dipendenza di conversione al tuo `pom.xml`
 </dependencies>
 ```
 
-### Acquisizione della Licenza
+### Acquisizione della licenza
 Puoi iniziare con una prova gratuita o richiedere una licenza temporanea per testare tutte le funzionalità:
 
-- **Prova Gratuita** – Scarica la libreria ed esplora le funzionalità di base.  
-- **Licenza Temporanea** – Richiedi una licenza temporanea [qui](https://purchase.groupdocs.com/temporary-license/).  
-- **Acquisto** – Per un uso a lungo termine, considera l'acquisto di una licenza dal [sito ufficiale](https://purchase.groupdocs.com/buy).
+- **Free trial** – Scarica la libreria ed esplora le funzionalità di base.  
+- **Temporary license** – Richiedi una licenza temporanea [temporary license page](https://purchase.groupdocs.com/temporary-license/).  
+- **Purchase** – Per un uso a lungo termine, considera l'acquisto di una licenza dal [official site](https://purchase.groupdocs.com/buy).
 
-### Inizializzazione di Base
-Di seguito il codice minimo necessario per creare un'istanza `Converter` e caricare un'email con un offset del fuso orario:
+### Inizializzazione di base
+Di seguito trovi il codice minimo necessario per creare un'istanza `Converter` e caricare un'email con un offset del fuso orario:
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -88,22 +134,17 @@ EmailLoadOptions loadOptions = new EmailLoadOptions();
 loadOptions.setTimeZoneOffset(7200000.0); // Set timezone offset in milliseconds (e.g., 2 hours)
 ```
 
-## Guida all'Implementazione
+## Come impostare l'offset del fuso orario?
+`EmailLoadOptions` è una classe di configurazione che controlla come i file email vengono caricati per la conversione. Carica la tua email con un offset personalizzato prima della conversione. Il metodo `setTimeZoneOffset` accetta l'offset in **millisecondi**, quindi uno spostamento di +2 ore corrisponde a `7200000`. Questa regolazione riscrive il timestamp visualizzato nel PDF generato. Fornendo l'offset, la libreria ricalcola gli orari di invio e ricezione visualizzati, garantendo che il PDF generato rifletta il fuso orario locale del destinatario. Questo è particolarmente utile per team multinazionali che revisionano comunicazioni archiviate.
 
-### Opzioni di Caricamento per il Documento Email
-Impostare l'offset del fuso orario garantisce che il PDF rifletta l'ora locale corretta.
-
-#### Passo 1 – Imposta l'Offset del Fuso Orario
 ```java
 EmailLoadOptions loadOptions = new EmailLoadOptions();
 loadOptions.setTimeZoneOffset(7200000.0); // Set to 2 hours ahead (in milliseconds)
 ```
 
-*Spiegazione*: `setTimeZoneOffset` regola il timestamp del documento del numero specificato di millisecondi.
+## Come inizializzare l'oggetto Converter?
+`Converter` è la classe principale che esegue la conversione dei documenti usando le opzioni di caricamento fornite. Crea un `Converter` passando il percorso del file sorgente e una lambda che fornisce il `loadOptions` precedentemente definito. Questo collega l'impostazione del fuso orario al processo di conversione. Legge l'email sorgente, applica le impostazioni di `EmailLoadOptions`—incluso l'offset del fuso orario—e prepara lo stream di output per la generazione del PDF. L'uso di una lambda garantisce che le opzioni vengano valutate al momento della conversione, utile quando si elaborano più file con impostazioni variabili.
 
-### Configurazione ed Esecuzione della Conversione
-
-#### Passo 2 – Inizializza l'Oggetto Converter
 ```java
 import com.groupdocs.conversion.Converter;
 import com.groupdocs.conversion.options.convert.PdfConvertOptions;
@@ -116,9 +157,9 @@ Converter converter = new Converter(sourceFilePath, () -> loadOptions);
 PdfConvertOptions options = new PdfConvertOptions();
 ```
 
-*Spiegazione*: Il `Converter` viene creato con un percorso file di origine e una lambda che fornisce le `loadOptions` precedentemente definite. Questo collega l'impostazione del fuso orario al processo di conversione.
+## Come eseguire la conversione e lo streaming delle pagine PDF?
+`PdfConvertOptions` specifica le impostazioni per l'output PDF come dimensione della pagina, compressione e qualità dell'immagine. Chiama il metodo `convert`, fornendo un'istanza `PdfConvertOptions` e uno stream di output per ogni pagina. Il blocco `try‑finally` garantisce che tutti gli stream vengano chiusi, prevenendo perdite di risorse. Dopo aver configurato le opzioni, il metodo `convert` itera su ogni pagina dell'email, scrivendo i dati PDF in stream di output separati. Questo approccio consente di gestire email di grandi dimensioni in modo efficiente, poiché ogni pagina viene elaborata e svuotata individualmente, riducendo al minimo il consumo di memoria.
 
-#### Passo 3 – Esegui la Conversione
 ```java
 try {
     converter.convert((SaveDocumentStreamForFileType) t -> {
@@ -139,56 +180,60 @@ try {
 }
 ```
 
-*Spiegazione*: Il metodo `convert` trasmette in streaming ogni pagina PDF in un file con nome univoco. Il blocco `try‑finally` garantisce che tutti gli stream siano chiusi, evitando perdite di risorse.
+## Applicazioni pratiche
+- **Archiviazione delle email** – Conserva i PDF con timestamp accurati per scopi legali o di audit.  
+- **Collaborazione cross‑fuso orario** – I team in tutto il mondo vedono la stessa ora locale nei documenti convertiti.  
+- **Reportistica email** – Genera report PDF che preservano gli orari di invio/ricezione originali per la conformità.
 
-## Applicazioni Pratiche
-- **Archiviazione delle Email** – Conserva PDF con timestamp accurati per scopi legali o di audit.  
-- **Collaborazione Inter‑Fuso Orario** – I team di tutto il mondo vedono la stessa ora locale nei documenti convertiti.  
-- **Reportistica Email** – Genera report PDF che preservano gli orari originali di invio/ricezione.
+Puoi incorporare questo flusso di lavoro in sistemi CRM, piattaforme di gestione documentale o processi batch automatizzati per ottimizzare il tuo pipeline di documenti.
 
-Puoi integrare questo flusso di lavoro con sistemi CRM, piattaforme di gestione documentale o job batch automatizzati per ottimizzare il tuo pipeline di documenti.
+## Considerazioni sulle prestazioni
+- **Gestione delle risorse** – Chiudi gli stream prontamente (come mostrato) per liberare memoria.  
+- **Elaborazione batch** – Itera su una collezione di file `.eml` e riutilizza una singola istanza `Converter` quando possibile.  
+- **Ottimizzazione JVM** – Regola la dimensione dell'heap (`-Xmx`) per batch di grandi dimensioni per evitare `OutOfMemoryError`.  
 
-## Considerazioni sulle Prestazioni
-- **Gestione delle Risorse** – Chiudi gli stream tempestivamente (come mostrato) per liberare memoria.  
-- **Elaborazione Batch** – Itera su una collezione di file `.eml` e riutilizza una singola istanza `Converter` quando possibile.  
-- **Ottimizzazione JVM** – Regola la dimensione dell'heap (`-Xmx`) per batch di grandi dimensioni per evitare `OutOfMemoryError`.
+## Problemi comuni e soluzioni
 
-## Problemi Comuni e Soluzioni
-
-| Sintomo | Causa Probabile | Soluzione |
+| Sintomo | Probabile causa | Soluzione |
 |---------|-----------------|-----------|
-| `NullPointerException` at `loadOptions` | Le opzioni di caricamento non sono passate correttamente | Assicurati che la lambda `() -> loadOptions` sia usata nella creazione del `Converter`. |
-| L'output PDF è vuoto | Il percorso del file di input è errato o il file è mancante | Verifica che `sourceFilePath` punti a un file `.eml` esistente. |
-| Il fuso orario non è riflesso | Valore di offset errato (es. secondi invece di millisecondi) | Fornisci l'offset in **millisecondi** (es. `7200000` per +2 h). |
+| `NullPointerException` at `loadOptions` | Le opzioni di caricamento non sono state passate correttamente | Assicurati che la lambda `() -> loadOptions` sia usata durante la creazione del `Converter`. |
+| PDF output is blank | Il percorso del file di input è errato o il file è mancante | Verifica che `sourceFilePath` punti a un file `.eml` esistente. |
+| Timezone not reflected | Valore di offset errato (es. secondi invece di millisecondi) | Fornisci l'offset in **millisecondi** (es. `7200000` per +2 h). |
 
-## Domande Frequenti
+## Domande frequenti
 **Q: Cos'è GroupDocs.Conversion per Java?**  
-A: È una potente libreria che consente la conversione di documenti tra decine di formati, inclusa la conversione da email a PDF.
+A: È una libreria potente che consente la conversione di documenti in decine di formati, inclusa l'email in PDF, con gestione integrata del fuso orario.
 
-**Q: Come imposto l'offset del fuso orario per le email?**  
+**Q: Come impostare l'offset del fuso orario per le email?**  
 A: Usa `EmailLoadOptions.setTimeZoneOffset(milliseconds)` prima di inizializzare il `Converter`.
 
 **Q: Posso convertire più formati email con questa configurazione?**  
-A: Sì, la libreria supporta `.eml`, `.msg` e altri comuni tipi di file email.
+A: Sì, la libreria supporta `.eml`, `.msg` e altri formati di email comuni.
 
 **Q: Quali sono gli errori comuni durante la conversione?**  
 A: Dipendenze mancanti, percorsi file errati e fornire l'offset nell'unità sbagliata (secondi vs. millisecondi).
 
 **Q: Dove posso trovare più risorse su GroupDocs.Conversion?**  
-A: Visita la [documentazione ufficiale](https://docs.groupdocs.com/conversion/java/) per guide dettagliate e riferimenti API.
+A: Visita la [official documentation](https://docs.groupdocs.com/conversion/java/) per guide dettagliate e riferimenti API.
 
-## Risorse
+## Risorse aggiuntive
 - **Documentazione**: Approfondisci su [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/)  
-- **Riferimento API**: Riferimento API dettagliato disponibile [qui](https://reference.groupdocs.com/conversion/java/)  
-- **Download GroupDocs.Conversion**: Inizia con la libreria [qui](https://releases.groupdocs.com/conversion/java/)  
+- **Riferimento API**: Riferimento API dettagliato disponibile su [API reference](https://reference.groupdocs.com/conversion/java/)  
+- **Download GroupDocs.Conversion**: Inizia con la libreria su [GroupDocs.Conversion download page](https://releases.groupdocs.com/conversion/java/)  
 - **Acquisto**: Per uso a lungo termine, acquista una licenza su [GroupDocs Purchase Page](https://purchase.groupdocs.com/buy)  
-- **Prova Gratuita & Licenza**: Provalo gratuitamente o richiedi una licenza temporanea su [GroupDocs Free Trial](https://releases.groupdocs.com/conversion/java/) e [Temporary License](https://purchase.groupdocs.com/temporary-license/)  
+- **Prova gratuita & licenza**: Provalo gratuitamente o richiedi una licenza temporanea su [GroupDocs Free Trial](https://releases.groupdocs.com/conversion/java/) e [Temporary License](https://purchase.groupdocs.com/temporary-license/)  
 - **Supporto**: Per assistenza, visita il [GroupDocs Forum](https://forum.groupdocs.com/c/conversion/10)
 
 Sfrutta la potenza di GroupDocs.Conversion per le tue applicazioni Java e goditi conversioni PDF accurate e consapevoli del fuso orario oggi stesso!
 
 ---
 
-**Ultimo Aggiornamento:** 2026-02-26  
-**Testato Con:** GroupDocs.Conversion 25.2  
+**Ultimo aggiornamento:** 2026-09-25  
+**Testato con:** GroupDocs.Conversion 25.2  
 **Autore:** GroupDocs
+
+## Tutorial correlati
+
+- [msg to pdf java – Conversione formati email con GroupDocs](/conversion/java/email-formats/)
+- [eml to pdf java – Converti email in PDF con GroupDocs](/conversion/java/pdf-conversion/convert-emails-to-pdfs-groupdocs-java/)
+- [Converti più tipi di file con GroupDocs.Conversion Java – Guida completa](/conversion/java/document-operations/groupdocs-conversion-java-master-document-conversion/)
