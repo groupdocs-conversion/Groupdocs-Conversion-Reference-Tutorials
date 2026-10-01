@@ -1,49 +1,103 @@
 ---
-date: '2026-02-28'
-description: Μάθετε πώς να ρυθμίσετε την άδεια GroupDocs Java στην εφαρμογή σας Java
-  χρησιμοποιώντας ένα InputStream και την εξάρτηση Maven GroupDocs Conversion για
-  απρόσκοπτη ενσωμάτωση.
+date: '2026-09-30'
+description: Μάθετε πώς να ορίσετε την άδεια GroupDocs σε μια εφαρμογή Java χρησιμοποιώντας
+  InputStream και την εξάρτηση groupdocs conversion maven για απρόσκοπτη ενσωμάτωση.
 keywords:
-- GroupDocs.Conversion license Java
-- Java input stream license setup
-- Set GroupDocs license in Java
-title: Πώς να ορίσετε την άδεια GroupDocs Java με InputStream
+- groupdocs conversion maven
+- java input stream license
+- groupdocs license java
+lastmod: '2026-09-30'
+og_description: Μάθετε πώς να ορίσετε την άδεια GroupDocs σε μια εφαρμογή Java χρησιμοποιώντας
+  InputStream και την εξάρτηση groupdocs conversion maven για απρόσκοπτη ενσωμάτωση.
+og_image_alt: Guide showing how to set GroupDocs license in Java using InputStream
+og_title: Ορισμός άδειας μέσω InputStream χρησιμοποιώντας groupdocs conversion maven
+schemas:
+- author: GroupDocs
+  dateModified: '2026-09-30'
+  description: Learn how to set the GroupDocs license in a Java application using
+    an InputStream and the groupdocs conversion maven dependency for seamless integration.
+  headline: Set license via InputStream using groupdocs conversion maven
+  type: TechArticle
+- description: Learn how to set the GroupDocs license in a Java application using
+    an InputStream and the groupdocs conversion maven dependency for seamless integration.
+  name: Set license via InputStream using groupdocs conversion maven
+  steps:
+  - name: '**Free trial:** Sign up for a free trial to explore the SDK.'
+    text: '**Free trial:** Sign up for a free trial to explore the SDK.'
+  - name: '**Temporary license:** Obtain a temporary key for extended testing.'
+    text: '**Temporary license:** Obtain a temporary key for extended testing.'
+  - name: '**Purchase:** Upgrade to a full license when you’re ready for production.'
+    text: '**Purchase:** Upgrade to a full license when you’re ready for production.'
+  - name: '**Cloud‑based license management:** Pull the `.lic` file from an encrypted
+      blob storage at startup.'
+    text: '**Cloud‑based license management:** Pull the `.lic` file from an encrypted
+      blob storage at startup.'
+  - name: '**Bundled applications:** Include the license inside your JAR and read
+      it via `getResourceAsStream`.'
+    text: '**Bundled applications:** Include the license inside your JAR and read
+      it via `getResourceAsStream`.'
+  - name: '**Automated deployments:** Have your CI pipeline fetch the license from
+      a secure vault and apply it programmatically.'
+    text: '**Automated deployments:** Have your CI pipeline fetch the license from
+      a secure vault and apply it programmatically.'
+  type: HowTo
+- questions:
+  - answer: An input stream allows reading data from various sources such as files,
+      network connections, or memory buffers.
+    question: What is an input stream in Java?
+  - answer: Sign up for a [free trial](https://releases.groupdocs.com/conversion/java/)
+      to start using the software.
+    question: How do I obtain a GroupDocs license for testing?
+  - answer: Typically each application should have its own license unless GroupDocs
+      explicitly permits sharing.
+    question: Can I use the same license file in multiple applications?
+  - answer: Verify the file path, ensure the `.lic` file isn’t corrupted, and confirm
+      that Maven dependencies are up‑to‑date.
+    question: What if my license setup fails?
+  - answer: Close streams promptly, reuse the `License` instance, and follow Java
+      memory‑management best practices.
+    question: How can I optimize performance when using GroupDocs.Conversion?
+  type: FAQPage
+tags:
+- groupdocs
+- java licensing
+- maven integration
+- inputstream
+- conversion
+title: Ορισμός άδειας μέσω InputStream χρησιμοποιώντας groupdocs conversion maven
 type: docs
 url: /el/java/getting-started/groupdocs-conversion-license-java-input-stream/
 weight: 1
 ---
 
-# Πώς να ορίσετε την άδεια groupdocs java με InputStream
+# Ορισμός άδειας μέσω InputStream χρησιμοποιώντας το GroupDocs conversion Maven
 
-Αν δημιουργείτε μια λύση Java που βασίζεται στο **GroupDocs.Conversion**, το πρώτο βήμα είναι να *set groupdocs license java* ώστε η βιβλιοθήκη να λειτουργεί χωρίς περιορισμούς αξιολόγησης. Σε αυτό το tutorial θα σας καθοδηγήσουμε στη διαμόρφωση της άδειας χρησιμοποιώντας ένα `InputStream`, μια μέθοδο που λειτουργεί τέλεια για εφαρμογές σε cloud, pipelines CI/CD ή οποιοδήποτε σενάριο όπου το αρχείο άδειας είναι ενσωματωμένο στο πακέτο ανάπτυξης.
+Αν δημιουργείτε μια λύση Java που βασίζεται στο **GroupDocs.Conversion**, το πρώτο βήμα είναι να *set groupdocs license java* ώστε η βιβλιοθήκη να λειτουργεί χωρίς περιορισμούς αξιολόγησης. Σε αυτό το tutorial θα σας καθοδηγήσουμε στη ρύθμιση της άδειας χρησιμοποιώντας ένα `InputStream`, μια μέθοδο που λειτουργεί τέλεια για εφαρμογές που φιλοξενούνται στο cloud, pipelines CI/CD ή οποιοδήποτε σενάριο όπου το αρχείο άδειας ενσωματώνεται στο πακέτο ανάπτυξης.
 
-**Τι θα μάθετε**
-- Πώς να προσθέσετε το GroupDocs.Conversion σε ένα έργο Maven.  
-- Τα ακριβή βήματα για τη φόρτωση ενός αρχείου `.lic` από ένα `InputStream`.  
-- Συμβουλές για την αντιμετώπιση κοινών προβλημάτων αδειοδότησης.
-
-## Γρήγορες Απαντήσεις
-- **Ποιος είναι ο κύριος τρόπος εφαρμογής της άδειας;** Καλώντας `License#setLicense(InputStream)`.  
-- **Χρειάζομαι φυσική διαδρομή αρχείου;** Όχι, η άδεια μπορεί να διαβαστεί από οποιοδήποτε stream (αρχείο, classpath, δίκτυο).  
+## Γρήγορες απαντήσεις
+- **Ποιος είναι ο κύριος τρόπος εφαρμογής της άδειας;** By calling `License#setLicense(InputStream)`.  
+- **Χρειάζομαι φυσική διαδρομή αρχείου;** No, the license can be read from any stream (file, classpath, network).  
 - **Ποιο Maven artifact απαιτείται;** `com.groupdocs:groupdocs-conversion`.  
-- **Μπορώ να το χρησιμοποιήσω σε περιβάλλον cloud;** Απολύτως – η προσέγγιση με stream είναι ιδανική για Docker, AWS, Azure κ.λπ.  
-- **Ποια έκδοση Java υποστηρίζεται;** JDK 8 ή νεότερη.
+- **Μπορώ να το χρησιμοποιήσω σε περιβάλλον cloud;** Absolutely – the stream approach is ideal for Docker, AWS, Azure, etc.  
+- **Ποια έκδοση Java υποστηρίζεται;** JDK 8 or higher.
 
-## Τι είναι το “set groupdocs license java”;
-Η ρύθμιση της άδειας GroupDocs σε Java ενημερώνει το SDK ότι διαθέτετε έγκυρη εμπορική άδεια, αφαιρώντας τα υδατογραφήματα αξιολόγησης και ξεκλειδώνοντας πλήρη λειτουργικότητα. Η χρήση ενός `InputStream` κάνει τη διαδικασία ευέλικτη, επιτρέποντάς σας να φορτώσετε την άδεια από αρχεία, πόρους ή απομακρυσμένες τοποθεσίες.
+## Τι είναι το “set GroupDocs license Java”;
+Η ρύθμιση της άδειας GroupDocs σε Java ενημερώνει το SDK ότι έχετε έγκυρη εμπορική άδεια, αφαιρώντας τα υδατογραφήματα αξιολόγησης και ξεκλειδώνοντας πλήρη λειτουργικότητα. Η χρήση ενός `InputStream` κάνει τη διαδικασία ευέλικτη, επιτρέποντας τη φόρτωση της άδειας από αρχεία, πόρους ή απομακρυσμένες τοποθεσίες.
 
-## Γιατί να χρησιμοποιήσετε InputStream για την άδεια;
-- **Φορητότητα:** Λειτουργεί με τον ίδιο τρόπο είτε η άδεια βρίσκεται σε δίσκο, μέσα σε JAR, είτε λαμβάνεται μέσω HTTP.  
-- **Ασφάλεια:** Μπορείτε να κρατήσετε το αρχείο άδειας εκτός του δέντρου πηγαίου κώδικα και να το φορτώσετε από ασφαλή θέση κατά το runtime.  
-- **Αυτοματοποίηση:** Ιδανικό για pipelines CI/CD όπου η χειροκίνητη τοποθέτηση αρχείου δεν είναι εφικτή.
+## Γιατί να χρησιμοποιήσετε ένα InputStream για την άδεια;
+Η φόρτωση της άδειας από ένα `InputStream` σας προσφέρει ευελιξία σε χρόνο εκτέλεσης και διατηρεί το αρχείο εκτός ελέγχου πηγαίου κώδικα. Λειτουργεί με τον ίδιο τρόπο είτε η άδεια βρίσκεται στο δίσκο, μέσα σε JAR, είτε λαμβάνεται μέσω HTTP, και σας επιτρέπει να αποθηκεύσετε το αρχείο σε ασφαλή θησαυροφυλάκιο αντί για φάκελο απλού κειμένου.
+
+- **Φορητότητα:** Λειτουργεί με τον ίδιο τρόπο είτε η άδεια βρίσκεται στο δίσκο, μέσα σε JAR, είτε λαμβάνεται μέσω HTTP.  
+- **Ασφάλεια:** Μπορείτε να κρατήσετε το αρχείο άδειας εκτός του δέντρου πηγαίου κώδικα και να το φορτώσετε από ασφαλή θέση σε χρόνο εκτέλεσης.  
+- **Αυτοματοποίηση:** Ιδανικό για pipelines CI/CD όπου η χειροκίνητη τοποθέτηση αρχείων δεν είναι εφικτή.
 
 ## Προαπαιτούμενα
-- **Java Development Kit (JDK) 8+** – βεβαιωθείτε ότι η εντολή `java -version` εμφανίζει 1.8 ή νεότερη.  
-- **Maven** – για διαχείριση εξαρτήσεων.  
-- **Ένα ενεργό αρχείο άδειας GroupDocs.Conversion** (`.lic`).  
+- **Java Development Kit (JDK) 8+** – ensure `java -version` reports 1.8 or later.  
+- **Maven** – for dependency management.  
+- **An active GroupDocs.Conversion license file** (`.lic`).  
 
-## groupdocs conversion maven dependency
-Για να χρησιμοποιήσετε το GroupDocs.Conversion πρέπει να προσθέσετε το επίσημο αποθετήριο και το Maven artifact στο έργο σας. Αυτή η εξάρτηση αποτελεί τη ραχοκοκαλιά που σας επιτρέπει να εργάζεστε με μια ευρεία γκάμα μορφών εγγράφων.
+## Εξάρτηση Maven για GroupDocs conversion
+Για να χρησιμοποιήσετε το GroupDocs.Conversion πρέπει να προσθέσετε το επίσημο αποθετήριο και το Maven artifact στο πρότζεκτ σας. Αυτή η εξάρτηση είναι η ραχοκοκαλιά που σας επιτρέπει να δουλεύετε με μια ευρεία γκάμα μορφών εγγράφων και υποστηρίζει **120+ input and output formats**, including DOCX, PPTX, HTML, and image types.
 
 ```xml
 <repositories>
@@ -63,13 +117,13 @@ weight: 1
 </dependencies>
 ```
 
-## Βήματα Απόκτησης Άδειας
-1. **Δωρεάν Δοκιμή:** Εγγραφείτε για μια δωρεάν δοκιμή ώστε να εξερευνήσετε το SDK.  
-2. **Προσωρινή Άδεια:** Αποκτήστε ένα προσωρινό κλειδί για εκτεταμένη δοκιμή.  
-3. **Αγορά:** Αναβαθμίστε σε πλήρη άδεια όταν είστε έτοιμοι για παραγωγή.
+## Βήματα απόκτησης άδειας
+1. **Free trial:** Sign up for a free trial to explore the SDK.  
+2. **Temporary license:** Obtain a temporary key for extended testing.  
+3. **Purchase:** Upgrade to a full license when you’re ready for production.
 
-## Βασική Αρχικοποίηση (χωρίς stream ακόμη)
-Ακολουθεί ο ελάχιστος κώδικας για τη δημιουργία ενός αντικειμένου `License`:
+## Βασική αρχικοποίηση (χωρίς stream ακόμη)
+`License` is the core class that registers your GroupDocs license with the SDK. Here’s the minimal code to create a `License` object:
 
 ```java
 import com.groupdocs.conversion.licensing.License;
@@ -84,18 +138,18 @@ public class LicenseSetup {
 }
 ```
 
-## Πώς να ορίσετε την άδεια groupdocs java χρησιμοποιώντας InputStream
-### Οδηγός Βήμα‑Βήμα
+## Πώς να ορίσετε την άδεια GroupDocs Java χρησιμοποιώντας InputStream
+### Οδηγός βήμα‑βήμα
 
-#### 1. Προετοιμάστε τη Διαδρομή του Αρχείου Άδειας
-Αντικαταστήστε το `'YOUR_DOCUMENT_DIRECTORY'` με το φάκελο που περιέχει το αρχείο `.lic` σας:
+#### 1. Προετοιμάστε τη διαδρομή του αρχείου άδειας
+`File` represents a file system entity and is used to locate the `.lic` file. Replace `'YOUR_DOCUMENT_DIRECTORY'` with the folder that contains your `.lic` file:
 
 ```java
 String licensePath = "YOUR_DOCUMENT_DIRECTORY" + "/your_license.lic";
 ```
 
-#### 2. Επαληθεύστε ότι το Αρχείο Άδειας Υπάρχει
-Ελέγξτε ότι το αρχείο είναι παρόν πριν προσπαθήσετε να το διαβάσετε:
+#### 2. Επαληθεύστε ότι το αρχείο άδειας υπάρχει
+`File#exists()` checks that the file is present before trying to read it, preventing a `FileNotFoundException`.
 
 ```java
 import java.io.File;
@@ -106,8 +160,8 @@ if (file.exists()) {
 }
 ```
 
-#### 3. Φορτώστε την Άδεια μέσω InputStream
-Χρησιμοποιήστε ένα `FileInputStream` μέσα σε ένα μπλοκ *try‑with‑resources* ώστε το stream να κλείνει αυτόματα:
+#### 3. Φορτώστε την άδεια μέσω InputStream
+`FileInputStream` opens a byte‑stream to the license file. Using a *try‑with‑resources* block guarantees the stream closes automatically, avoiding memory leaks.
 
 ```java
 import java.io.FileInputStream;
@@ -121,52 +175,53 @@ try (InputStream stream = new FileInputStream(file)) {
 }
 ```
 
-### Επεξήγηση Κύριων Κλάσεων
-- **`File` & `FileInputStream`** – Εντοπίζουν και διαβάζουν το αρχείο άδειας από το σύστημα αρχείων.  
-- **`try‑with‑resources`** – Εγγυάται ότι το stream κλείνει, αποτρέποντας διαρροές μνήμης.  
-- **`License#setLicense(InputStream)`** – Η μέθοδος που καταχωρεί την άδειά σας στο SDK.
+## Εξήγηση βασικών κλάσεων
+`License#setLicense(InputStream)` registers the license from the given stream with the GroupDocs SDK.
+- **`File` & `FileInputStream`** – Locate and read the license file from the filesystem.  
+- **`try‑with‑resources`** – Guarantees the stream is closed, preventing memory leaks.  
+- **`License#setLicense(InputStream)`** – The method that registers your license with the SDK.
 
-## Πρακτικές Εφαρμογές
-1. **Διαχείριση Άδειας σε Cloud:** Ανάκτηση του αρχείου `.lic` από κρυπτογραφημένο αποθηκευτικό χώρο blob κατά την εκκίνηση.  
-2. **Ενσωματωμένες Εφαρμογές:** Συμπερίληψη της άδειας μέσα στο JAR και ανάγνωση μέσω `getResourceAsStream`.  
-3. **Αυτοματοποιημένες Αναπτύξεις:** Το CI pipeline σας μπορεί να κατεβάσει την άδεια από ασφαλή θησαυροφυλάκιο και να την εφαρμόσει προγραμματιστικά.
+## Πρακτικές εφαρμογές
+1. **Cloud‑based license management:** Pull the `.lic` file from an encrypted blob storage at startup.  
+2. **Bundled applications:** Include the license inside your JAR and read it via `getResourceAsStream`.  
+3. **Automated deployments:** Have your CI pipeline fetch the license from a secure vault and apply it programmatically.
 
-## Σκέψεις για Απόδοση
-- **Καθαρισμός Πόρων:** Χρησιμοποιείτε πάντα *try‑with‑resources* ή κλείστε ρητά τα streams.  
-- **Αποτύπωση Μνήμης:** Το αρχείο άδειας είναι μικρό, αλλά αποφύγετε τη συνεχή φόρτωση· αποθηκεύστε σε cache το αντικείμενο `License` εάν χρειάζεται να το χρησιμοποιήσετε ξανά σε πολλαπλές μετατροπές.  
+## Παράγοντες απόδοσης
+- **Resource cleanup:** Always use *try‑with‑resources* or explicitly close streams.  
+- **Memory footprint:** The license file is typically under 10 KB; avoid loading it repeatedly—cache the `License` instance if you need to reuse it across multiple conversions.  
 
-## Συχνά Προβλήματα και Λύσεις
-| Συμπτωμα | Πιθανή Αιτία | Διόρθωση |
+## Κοινά προβλήματα και λύσεις
+| Σύμπτωμα | Πιθανή αιτία | Διόρθωση |
 |---|---|---|
-| **Η άδεια δεν εφαρμόζεται** | Λάθος διαδρομή ή ελλιπές αρχείο | Επαληθεύστε το `licensePath` και βεβαιωθείτε ότι το αρχείο είναι πακεταρισμένο ή προσβάσιμο. |
-| **`License#setLicense` ρίχνει εξαίρεση** | Κατεστραμμένο αρχείο `.lic` | Κατεβάστε ξανά την άδεια από τον λογαριασμό σας στο GroupDocs. |
-| **Το υδατογράφημα αξιολόγησης παραμένει** | Η άδεια φορτώθηκε μετά την κλήση μετατροπής | Αρχικοποιήστε την άδεια **πριν** εκτελεστεί οποιοσδήποτε κώδικας μετατροπής. |
+| **Η άδεια δεν εφαρμόστηκε** | Λάθος διαδρομή ή λείπει το αρχείο | Επαληθεύστε το `licensePath` και βεβαιωθείτε ότι το αρχείο είναι πακεταρισμένο ή προσβάσιμο. |
+| **`License#setLicense` throws an exception** | Κατεστραμμένο αρχείο `.lic` | Κατεβάστε ξανά την άδεια από τον λογαριασμό σας στο GroupDocs. |
+| **Το υδατογράφημα αξιολόγησης εξακολουθεί να εμφανίζεται** | Η άδεια φορτώθηκε μετά την κλήση μετατροπής | Αρχικοποιήστε την άδεια **πριν** εκτελεστεί οποιαδήποτε λογική μετατροπής. |
 
-## Συχνές Ερωτήσεις
+## Συχνές ερωτήσεις
 
-**Ε: Τι είναι ένα input stream στη Java;**  
-Α: Ένα input stream επιτρέπει την ανάγνωση δεδομένων από διάφορες πηγές όπως αρχεία, συνδέσεις δικτύου ή buffers μνήμης.
+**Q: What is an input stream in Java?**  
+A: An input stream allows reading data from various sources such as files, network connections, or memory buffers.
 
-**Ε: Πώς αποκτώ άδεια GroupDocs για δοκιμή;**  
-Α: Εγγραφείτε για μια [δωρεάν δοκιμή](https://releases.groupdocs.com/conversion/java/) για να ξεκινήσετε τη χρήση του λογισμικού.
+**Q: How do I obtain a GroupDocs license for testing?**  
+A: Sign up for a [free trial](https://releases.groupdocs.com/conversion/java/) to start using the software.
 
-**Ε: Μπορώ να χρησιμοποιήσω το ίδιο αρχείο άδειας σε πολλαπλές εφαρμογές;**  
-Α: Συνήθως κάθε εφαρμογή πρέπει να διαθέτει τη δική της άδεια, εκτός εάν το GroupDocs επιτρέπει ρητά την κοινή χρήση.
+**Q: Can I use the same license file in multiple applications?**  
+A: Typically each application should have its own license unless GroupDocs explicitly permits sharing.
 
-**Ε: Τι κάνω αν η ρύθμιση της άδειας αποτύχει;**  
-Α: Επαληθεύστε τη διαδρομή του αρχείου, βεβαιωθείτε ότι το αρχείο `.lic` δεν είναι κατεστραμμένο και ελέγξτε ότι οι εξαρτήσεις Maven είναι ενημερωμένες.
+**Q: What if my license setup fails?**  
+A: Verify the file path, ensure the `.lic` file isn’t corrupted, and confirm that Maven dependencies are up‑to‑date.
 
-**Ε: Πώς μπορώ να βελτιστοποιήσω την απόδοση όταν χρησιμοποιώ το GroupDocs.Conversion;**  
-Α: Κλείστε γρήγορα τα streams, επαναχρησιμοποιήστε το αντικείμενο `License` και ακολουθήστε τις βέλτιστες πρακτικές διαχείρισης μνήμης της Java.
+**Q: How can I optimize performance when using GroupDocs.Conversion?**  
+A: Close streams promptly, reuse the `License` instance, and follow Java memory‑management best practices.
 
 ## Συμπέρασμα
-Τώρα έχετε μια πλήρη, έτοιμη για παραγωγή προσέγγιση για **set groupdocs license java** χρησιμοποιώντας ένα `InputStream`. Αυτή η μέθοδος σας δίνει την ευελιξία να διαχειρίζεστε άδειες σε οποιοδήποτε μοντέλο ανάπτυξης—on‑prem, cloud ή περιβάλλοντα κοντέινερ.
+You now have a complete, production‑ready approach to **set groupdocs license java** using an `InputStream`. This method gives you the flexibility to manage licenses in any deployment model—on‑prem, cloud, or containerized environments.
 
-Για πιο βαθιά εξερεύνηση, ελέγξτε την επίσημη [τεκμηρίωση](https://docs.groupdocs.com/conversion/java/) ή ενταχθείτε στην κοινότητα στα [φόρουμ υποστήριξης](https://forum.groupdocs.com/c/conversion/10).
+For deeper exploration, check the official [documentation](https://docs.groupdocs.com/conversion/java/) or join the community on the [support forums](https://forum.groupdocs.com/c/conversion/10). For additional resources see the [documentation] and join the [support forums] for community help.
 
 ## Πόροι
 - [Τεκμηρίωση](https://docs.groupdocs.com/conversion/java/)
-- [API Reference](https://reference.groupdocs.com/conversion/java/)
+- [Αναφορά API](https://reference.groupdocs.com/conversion/java/)
 - [Λήψη](https://releases.groupdocs.com/conversion/java/)
 - [Αγορά](https://purchase.groupdocs.com/buy)
 - [Δωρεάν Δοκιμή](https://releases.groupdocs.com/conversion/java/)
@@ -175,8 +230,12 @@ try (InputStream stream = new FileInputStream(file)) {
 
 ---
 
-**Τελευταία Ενημέρωση:** 2026-02-28  
-**Δοκιμή Με:** GroupDocs.Conversion 25.2  
+**Τελευταία ενημέρωση:** 2026-09-30  
+**Δοκιμή με:** GroupDocs.Conversion 25.2  
 **Συγγραφέας:** GroupDocs  
 
----
+## Σχετικά Μαθήματα
+
+- [Πώς να ορίσετε την άδεια GroupDocs Java – Οδηγός βήμα‑βήμα](/conversion/java/getting-started/groupdocs-conversion-java-license-setup-file-path/)
+- [Εφαρμογή Μετρημένης Άδειας Groupdocs Conversion Java](/conversion/java/getting-started/implement-metered-license-groupdocs-conversion-java/)
+- [Μετατροπή Java Stream – DOCX σε PDF με GroupDocs](/conversion/java/document-operations/convert-documents-streams-java-groupdocs/)
