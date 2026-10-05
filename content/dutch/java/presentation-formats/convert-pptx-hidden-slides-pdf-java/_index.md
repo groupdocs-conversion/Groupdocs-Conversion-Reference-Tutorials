@@ -1,45 +1,77 @@
 ---
-date: '2026-03-03'
-description: Leer hoe GroupDocs Conversion Java je in staat stelt om PPTX naar PDF
-  te converteren, inclusief verborgen dia's. Deze gids laat zien hoe je pptx kunt
-  converteren, de Java-heap kunt vergroten en verborgen dia's kunt opnemen.
+date: '2026-10-05'
+description: Leer hoe je pptx naar pdf kunt converteren met GroupDocs Conversion voor
+  Java, verborgen dia's kunt opnemen, de Java-heap kunt vergroten en geheugenfouten
+  kunt voorkomen.
 keywords:
-- convert PPTX to PDF
-- Java presentation conversion
-- GroupDocs.Conversion for Java
-title: 'GroupDocs Conversion Java: Converteer PPTX (verborgen dia’s) naar PDF'
+- convert pptx to pdf
+- increase java heap
+- show hidden slides
+- java out of memory
+- powerpoint to pdf java
+lastmod: '2026-10-05'
+og_description: Converteer pptx naar pdf met GroupDocs Conversion voor Java, neem
+  verborgen dia's op en verbeter de prestaties door de Java-heap te vergroten.
+og_image_alt: Guide showing Java code to convert PPTX to PDF with hidden slides using
+  GroupDocs
+og_title: Converteer pptx naar pdf met GroupDocs Conversion Java
+schemas:
+- author: GroupDocs
+  dateModified: '2026-10-05'
+  description: Learn how to convert pptx to pdf using GroupDocs Conversion for Java,
+    include hidden slides, increase java heap, and avoid out of memory errors.
+  headline: Convert pptx to pdf with GroupDocs Conversion Java
+  type: TechArticle
+- questions:
+  - answer: Yes, animations are rendered as static images in the PDF; all visual content
+      is preserved.
+    question: Can I convert presentations with animations to PDF using GroupDocs?
+  - answer: Increase the JVM heap (`-Xmx`), process files in batches, and monitor
+      memory usage during conversion.
+    question: How do I handle large presentation files without running out of memory?
+  - answer: Absolutely. `PdfConvertOptions` provides settings for margins, page orientation,
+      and image quality.
+    question: Is there a way to customize the output PDF format?
+  - answer: Yes. Load the document with the appropriate password using the overload
+      that accepts a password parameter.
+    question: Does GroupDocs Conversion support password‑protected PPTX files?
+  - answer: See the official documentation at [documentation](https://docs.groupdocs.com/conversion/java/).
+    question: Where can I find more detailed API documentation?
+  type: FAQPage
+tags:
+- convert pptx
+- GroupDocs Conversion
+- Java PDF conversion
+title: Converteer pptx naar pdf met GroupDocs Conversion Java
 type: docs
 url: /nl/java/presentation-formats/convert-pptx-hidden-slides-pdf-java/
 weight: 1
 ---
 
-# GroupDocs Conversion Java – PPTX (Verborgen Dia's) naar PDF converteren
+# Convert pptx naar pdf met GroupDocs Conversion Java
 
-In moderne Java‑toepassingen is **groupdocs conversion java** de favoriete bibliotheek wanneer je PowerPoint‑bestanden wilt omzetten naar universeel leesbare PDF‑bestanden. Deze tutorial leidt je stap voor stap door *hoe pptx*‑bestanden te converteren terwijl je ervoor zorgt dat verborgen dia's niet worden weggelaten, en behandelt ook **increase java heap**‑tips voor grote presentaties.
+In moderne Java‑applicaties is **GroupDocs Conversion for Java** de go‑to bibliotheek wanneer je PowerPoint‑presentaties moet omzetten naar universeel bekijkbare PDF‑bestanden. Deze tutorial laat je stap‑voor‑stap zien hoe je **pptx naar pdf converteert**, ervoor zorgt dat verborgen dia's niet worden weggelaten, en out‑of‑memory crashes voorkomt door de Java‑heap te vergroten.
 
-## Quick Answers
+## Snelle antwoorden
 - **Welke bibliotheek verwerkt PPTX → PDF?** GroupDocs Conversion for Java.  
 - **Kunnen verborgen dia's worden opgenomen?** Ja – stel `showHiddenSlides` in op `true`.  
 - **Heb ik een licentie nodig?** Een gratis proefversie werkt voor testen; een betaalde licentie is vereist voor productie.  
-- **Hoe voorkom ik out‑of‑memory‑fouten?** Verhoog de Java‑heap (`-Xmx2g` of hoger) en verwerk grote bestanden in batches.  
-- **Is extra configuratie nodig voor PDF‑output?** Alleen de basis `PdfConvertOptions` tenzij je aangepaste marges of oriëntatie nodig hebt.
+- **Hoe voorkom je out‑of‑memory fouten?** Verhoog de Java‑heap (`-Xmx2g` of hoger) en verwerk grote bestanden in batches.  
+- **Is er extra configuratie nodig voor PDF‑output?** Alleen de basis `PdfConvertOptions` tenzij je aangepaste marges of oriëntatie nodig hebt.
 
-## What is GroupDocs Conversion Java?
-GroupDocs Conversion Java is een high‑performance API die meer dan 100 bestandsformaten ondersteunt. Het stelt ontwikkelaars in staat om programmatically documenten—zoals PowerPoint‑presentaties—om te zetten naar PDF’s, afbeeldingen, HTML en meer, terwijl lay‑out, lettertypen en verborgen inhoud behouden blijven.
+## Wat is GroupDocs Conversion Java?
+GroupDocs Conversion Java is een high‑performance API die **meer dan 100 bestandsformaten** ondersteunt, waardoor ontwikkelaars programmatisch documenten zoals PowerPoint‑presentaties kunnen omzetten naar PDF’s, afbeeldingen, HTML en meer. Het behoudt lay-out, lettertypen en verborgen inhoud, en levert betrouwbare conversieresultaten op verschillende platforms en omgevingen.
 
-## Why use GroupDocs Conversion Java for Java presentation PDF tasks?
-- **Full format support** – Ondersteunt PPTX, PPT, ODP en meer.  
-- **Hidden slide handling** – Expliciete opties laten je *show hidden* dia's tijdens de conversie.  
-- **Scalable performance** – Werkt met grote bestanden wanneer je **increase java heap** en batch‑verwerking gebruikt.  
-- **Simple Maven integration** – Geen native binaries om te beheren.
+## Waarom GroupDocs Conversion Java gebruiken voor Java‑presentatie‑PDF‑taken?
+GroupDocs Conversion Java biedt **volledige formatondersteuning voor 100+ formaten**, expliciete verwerking van verborgen dia's, en schaalbare prestaties die multi‑honderd‑pagina‑presentaties kunnen verwerken zonder het volledige bestand in het geheugen te laden. Het integreert ook met Maven in één enkele afhankelijkheid, waardoor native binaries overbodig zijn.
 
-## Prerequisites
+## Vereisten
 - Java Development Kit (JDK) 8 of nieuwer geïnstalleerd.  
-- Maven‑enabled project voor dependency‑beheer.  
+- Maven‑enabled project voor afhankelijkheidsbeheer.  
 - Basiskennis van Java‑programmeren.  
 
-### Setting Up GroupDocs Conversion for Java
-Voeg de repository en dependency toe aan je `pom.xml`:
+### GroupDocs Conversion voor Java instellen
+Add the repository and dependency to your `pom.xml`:
 
 ```xml
 <repositories>
@@ -58,13 +90,14 @@ Voeg de repository en dependency toe aan je `pom.xml`:
 </dependencies>
 ```
 
-#### License Acquisition
-Verkrijg een gratis proeflicentie om de volledige mogelijkheden van GroupDocs Conversion te evalueren. Voor productie‑gebruik koop je een abonnement of een permanente licentie.
+#### Licentie verkrijgen
+Verkrijg een gratis proeflicentie om de volledige mogelijkheden van GroupDocs Conversion te evalueren. Voor productiegebruik, koop een abonnement of een permanente licentie.
 
-## Step‑by‑Step Guide
+## Hoe pptx naar pdf converteren met verborgen dia's in Java?
+Laad de presentatie met ondersteuning voor verborgen dia's, en roep vervolgens de PDF‑converter aan. Deze twee‑stappen‑stroom—eerst een `PresentationLoadOptions`‑object maken met `setShowHiddenSlides(true)`, en daarna `PdfConvertOptions` gebruiken om PDF‑instellingen te definiëren—dekt de volledige vereiste in één methode‑aanroep, waardoor alle dia's, inclusief verborgen dia's, in de output verschijnen.
 
-### Step 1: Load the Presentation and **Show Hidden Slides**
-Maak een `PresentationLoadOptions`‑instantie en schakel verborgen dia's in:
+### Stap 1: laad de presentatie en **toon verborgen dia's**
+Create a `PresentationLoadOptions` instance and enable hidden slides:
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -76,11 +109,10 @@ loadOptions.setShowHiddenSlides(true);
 Converter converter = new Converter(sourceDocument, () -> loadOptions);
 ```
 
-**Explanation:**  
-`setShowHiddenSlides(true)` vertelt de converter om verborgen dia's als zichtbaar te behandelen, zodat ze in de uiteindelijke PDF verschijnen. Dit is de sleutelinstelling voor de *include hidden slides*‑vereiste.
+**Definitie‑anker:** `PresentationLoadOptions` configureert hoe een PowerPoint‑bestand wordt geopend, inclusief of verborgen dia's als zichtbaar worden behandeld. Het instellen van `setShowHiddenSlides(true)` zorgt ervoor dat verborgen dia's in de output‑PDF verschijnen.
 
-### Step 2: Convert the Loaded Presentation to a PDF (**java presentation pdf**)
-Definieer het uitvoerpad en gebruik `PdfConvertOptions` om de conversie uit te voeren:
+### Stap 2: converteer de geladen presentatie naar een PDF (**java presentation pdf**)
+Define the output path and use `PdfConvertOptions` to perform the conversion:
 
 ```java
 import com.groupdocs.conversion.options.convert.PdfConvertOptions;
@@ -90,55 +122,59 @@ PdfConvertOptions options = new PdfConvertOptions();
 converter.convert(convertedFile, options);
 ```
 
-**Explanation:**  
-`PdfConvertOptions` stelt je in staat de PDF‑output fijn af te stemmen (bijv. marges, paginagrootte). In dit eenvoudige voorbeeld gebruiken we de standaardinstellingen, maar je kunt ze naar behoefte aanpassen.
+**Definitie‑anker:** `PdfConvertOptions` regelt PDF‑specifieke instellingen zoals paginagrootte, marges en beeldkwaliteit. In dit voorbeeld zijn de standaardinstellingen voldoende voor de meeste scenario's.
 
-## Practical Applications
-1. **Automated Report Generation** – Zet slide‑decks om in deelbare PDF‑rapporten on‑the‑fly.  
-2. **Document Archiving** – Bewaar elke dia, inclusief verborgen dia's, voor compliance‑audits.  
-3. **CMS Integration** – Converteer door gebruikers geüploade presentaties naar PDF’s voordat ze in een content‑management‑systeem worden opgeslagen.
+## Praktische toepassingen
+1. **Automatische rapportgeneratie** – Zet slide‑decks om in deelbare PDF‑rapporten on‑the‑fly.  
+2. **Documentarchivering** – Bewaar elke dia, inclusief verborgen dia's, voor compliance‑audits.  
+3. **CMS‑integratie** – Converteer door gebruikers geüploade presentaties naar PDF’s voordat ze worden opgeslagen in een content‑management‑systeem.
 
-## Performance Considerations & **Increase Java Heap**
+## Prestatie‑overwegingen & Java‑heap vergroten
 Bij het verwerken van grote presentaties:
 
-- **Memory Management:** Start je JVM met een grotere heap, bv. `java -Xmx4g -jar yourapp.jar`.  
-- **Batch Processing:** Converteer meerdere bestanden in een lus in plaats van ze allemaal tegelijk te laden.  
-- **Resource Monitoring:** Gebruik tools zoals VisualVM om geheugengebruik te bewaken en knelpunten te identificeren.
+- **Geheugenbeheer:** Start je JVM met een grotere heap, bijv. `java -Xmx4g -jar yourapp.jar`.  
+- **Batchverwerking:** Converteer meerdere bestanden in een lus in plaats van ze allemaal tegelijk te laden.  
+- **Resource‑monitoring:** Gebruik tools zoals VisualVM om geheugengebruik te bekijken en knelpunten te identificeren.
 
-## Common Issues and Solutions
-- **Hidden slides not appearing:** Controleer of `loadOptions.setShowHiddenSlides(true)` wordt aangeroepen vóór het aanmaken van de `Converter`.  
-- **Out‑of‑memory errors:** Verhoog de Java‑heap‑grootte (`-Xmx`) en overweeg de presentatie op te splitsen in kleinere delen.  
-- **Missing fonts:** Zorg ervoor dat de lettertypen die in de PPTX worden gebruikt op de server zijn geïnstalleerd of embed ze in het bronbestand.
+## Veelvoorkomende problemen en oplossingen
+- **Verborgen dia's verschijnen niet:** Controleer of `loadOptions.setShowHiddenSlides(true)` wordt aangeroepen vóór het maken van de `Converter`.  
+- **Out‑of‑memory fouten:** Verhoog de Java‑heap‑grootte (`-Xmx`) en overweeg de presentatie op te splitsen in kleinere delen.  
+- **Ontbrekende lettertypen:** Zorg ervoor dat de in de PPTX gebruikte lettertypen op de server zijn geïnstalleerd of embed ze in het bronbestand.
 
-## Frequently Asked Questions
+## Veelgestelde vragen
 
 **Q: Kan ik presentaties met animaties naar PDF converteren met GroupDocs?**  
-A: Ja, animaties worden gerenderd als statische afbeeldingen in de PDF; alle visuele inhoud blijft behouden.
+A: Ja, animaties worden gerenderd als statische afbeeldingen in de PDF; alle visuele inhoud wordt behouden.
 
-**Q: Hoe ga ik om met grote presentaties zonder geheugenproblemen?**  
-A: Verhoog de JVM‑heap (`-Xmx`), verwerk bestanden in batches en monitor het geheugengebruik tijdens de conversie.
+**Q: Hoe ga ik om met grote presentaties zonder geheugen op te raken?**  
+A: Verhoog de JVM‑heap (`-Xmx`), verwerk bestanden in batches, en monitor het geheugengebruik tijdens de conversie.
 
-**Q: Is er een manier om het PDF‑outputformaat aan te passen?**  
-A: Absoluut. `PdfConvertOptions` biedt instellingen voor marges, paginoriëntatie en meer.
+**Q: Is er een manier om het output‑PDF‑formaat aan te passen?**  
+A: Zeker. `PdfConvertOptions` biedt instellingen voor marges, paginaporiëntatie en beeldkwaliteit.
 
 **Q: Ondersteunt GroupDocs Conversion wachtwoord‑beveiligde PPTX‑bestanden?**  
 A: Ja. Laad het document met het juiste wachtwoord via de overload die een wachtwoordparameter accepteert.
 
-**Q: Waar vind ik meer gedetailleerde API‑documentatie?**  
+**Q: Waar kan ik meer gedetailleerde API‑documentatie vinden?**  
 A: Zie de officiële documentatie op [documentation](https://docs.groupdocs.com/conversion/java/).
 
-## Conclusion
-Door deze gids te volgen weet je nu hoe je **groupdocs conversion java** kunt gebruiken om PPTX‑bestanden—incl. verborgen dia's—om te zetten naar hoogwaardige PDF’s. Deze mogelijkheid is essentieel voor betrouwbare documentarchivering, geautomatiseerde rapportage en naadloze CMS‑integratie.
+## Conclusie
+Door deze gids te volgen weet je nu hoe je **GroupDocs Conversion Java** kunt gebruiken om **pptx naar pdf te converteren**, inclusief verborgen dia's, terwijl je het geheugengebruik onder controle houdt. Deze mogelijkheid is essentieel voor betrouwbare documentarchivering, geautomatiseerde rapportage en naadloze CMS‑integratie.
 
-Om extra functies te ontdekken, bekijk de officiële GroupDocs‑bronnen of experimenteer met andere ondersteunde formaten.
+Om extra functies te verkennen, bekijk de officiële GroupDocs‑bronnen of experimenteer met andere ondersteunde formaten.
 
 ---
 
-**Last Updated:** 2026-03-03  
-**Tested With:** GroupDocs.Conversion 25.2 for Java  
-**Author:** GroupDocs  
+**Laatst bijgewerkt:** 2026-10-05  
+**Getest met:** GroupDocs.Conversion 25.2 for Java  
+**Auteur:** GroupDocs  
 
-### Resources
-- **Documentation:** Verken uitgebreide handleidingen op [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/)  
-- **API Reference:** Toegang tot gedetailleerde API‑informatie via [API Reference](https://reference.groupdocs.com/conversion/java/)  
-- **Support:** Voor verdere hulp, bezoek het [GroupDocs Support Forum](https://forum.groupdocs.com/c/conversion/10).
+### Bronnen
+- **Documentatie:** Verken uitgebreide handleidingen op [GroupDocs Documentatie](https://docs.groupdocs.com/conversion/java/)  
+- **API‑referentie:** Toegang tot gedetailleerde API‑informatie via [API Reference](https://reference.groupdocs.com/conversion/java/)  
+- **Ondersteuning:** Voor verdere hulp, bezoek het [GroupDocs Support Forum](https://forum.groupdocs.com/c/conversion/10).
+
+## Gerelateerde tutorials
+- [PPTX naar PDF converteren en opmerkingen verbergen met GroupDocs Java](/conversion/java/watermarks-annotations/hide-comments-pptx-pdf-groupdocs-conversion-java/)
+- [Hoe DOCX naar PDF te converteren in Java – GroupDocs.Conversion gids](/conversion/java/pdf-conversion/convert-docx-pdf-java-groupdocs-conversion/)
+- [PDF naar JPG converteren Groupdocs Java](/conversion/java/document-operations/convert-pdf-to-jpg-groupdocs-java/)
