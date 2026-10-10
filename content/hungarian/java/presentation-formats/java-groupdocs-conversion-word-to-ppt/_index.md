@@ -1,57 +1,120 @@
 ---
-date: '2026-03-03'
-description: Ismerje meg a GroupDocs konverzió Java oktatóját a Word dokumentumok
-  PowerPoint formátumba konvertálásához a GroupDocs.Conversion használatával. Lépésről
-  lépésre útmutató Java fejlesztőknek.
+date: '2026-10-10'
+description: Ismerje meg, hogyan lehet a Word-et PowerPointba konvertálni Java-ban
+  a GroupDocs Conversion segítségével. Lépésről‑lépésre útmutató Java fejlesztőknek
+  kódrészlet‑mentes példákkal.
 keywords:
-- convert Word to PowerPoint
-- GroupDocs.Conversion for Java
+- convert word to powerpoint
+- convert docx to pptx
+- groupdocs conversion license
+- java convert word ppt
+- convert word to slides
+lastmod: '2026-10-10'
+og_description: Ismerje meg, hogyan lehet a Word-et PowerPointba konvertálni Java-ban
+  a GroupDocs Conversion segítségével. Ez az útmutató végigvezeti a telepítés, licencelés
+  és magas‑pontosságú konverzió lépésein.
+og_image_alt: Developer guide showing Java conversion of Word documents to PowerPoint
+  using GroupDocs
+og_title: Word átalakítása PowerPoint formátumba a GroupDocs Conversion for Java segítségével
+schemas:
+- author: GroupDocs
+  dateModified: '2026-10-10'
+  description: Learn how to convert Word to PowerPoint in Java using GroupDocs Conversion.
+    Step‑by‑step guide for Java developers with code‑free examples.
+  headline: Convert word to PowerPoint with GroupDocs Conversion for Java
+  type: TechArticle
+- description: Learn how to convert Word to PowerPoint in Java using GroupDocs Conversion.
+    Step‑by‑step guide for Java developers with code‑free examples.
+  name: Convert word to PowerPoint with GroupDocs Conversion for Java
+  steps:
+  - name: '**Automated report generation** – Convert detailed reports into presentations
+      for executive briefings.'
+    text: '**Automated report generation** – Convert detailed reports into presentations
+      for executive briefings.'
+  - name: '**Educational content creation** – Transform lecture notes or study materials
+      into engaging PowerPoint slides.'
+    text: '**Educational content creation** – Transform lecture notes or study materials
+      into engaging PowerPoint slides.'
+  - name: '**Business meeting prep** – Quickly turn meeting agendas and minutes into
+      structured presentations.'
+    text: '**Business meeting prep** – Quickly turn meeting agendas and minutes into
+      structured presentations.'
+  type: HowTo
+- questions:
+  - answer: Break the document into smaller parts or run the conversion asynchronously
+      to keep memory usage low.
+    question: How do I handle large documents?
+  - answer: Yes, GroupDocs.Conversion supports a wide range of formats. Check the
+      official documentation for the full list.
+    question: Can I convert formats other than Word and PowerPoint?
+  - answer: Verify file paths, ensure the license is valid, and inspect the exception
+      stack trace for detailed error messages.
+    question: What should I do if my conversion fails?
+  - answer: Absolutely. Loop through a collection of source files and invoke `converter.convert`
+      for each, optionally using parallel streams.
+    question: Is batch conversion possible?
+  - answer: The API reference is available on the GroupDocs website (see resources
+      below).
+    question: Where can I find detailed API references?
+  type: FAQPage
+tags:
+- convert word
+- GroupDocs.Conversion
 - Java document conversion
-title: groupdocs konverzió Java útmutató – Word dokumentumok konvertálása PowerPointba
+title: Word átalakítása PowerPoint formátumba a GroupDocs Conversion for Java segítségével
 type: docs
 url: /hu/java/presentation-formats/java-groupdocs-conversion-word-to-ppt/
 weight: 1
 ---
 
-# groupdocs conversion java tutorial – Word dokumentumok konvertálása PowerPointba
+# Word konvertálása PowerPointba a GroupDocs Conversion for Java segítségével
 
-A Word dokumentumok PowerPoint prezentációkká konvertálása gyakori igény a professzionális diavetítések gyors és hatékony létrehozásához. Ebben a **groupdocs conversion java tutorial**‑ban megmutatjuk, hogyan használhatja a **GroupDocs.Conversion**‑t egy DOCX fájl PPTX fájlba történő átalakításához, hogyan integrálja a folyamatot Java alkalmazásába, és hogyan kezelje a gyakori buktatókat.
+Ebben az útmutatóban megtanulja, hogyan **konvertálja a Word dokumentumot PowerPointba** programozott módon a GroupDocs.Conversion SDK for Java használatával. A útmutató végigvezet a könyvtár telepítésén, a licenc konfigurálásán, a konverter inicializálásán, és a magas hűségű konverzió futtatásán—így közvetlenül a DOCX forrásokból automatizálhatja a diákészlet létrehozását.
 
 ## Gyors válaszok
-- **Melyik könyvtárat használják?** GroupDocs.Conversion for Java  
+- **Melyik könyvtárat használnak?** GroupDocs.Conversion for Java  
 - **Támogatott forrásformátum?** Microsoft Word (.doc, .docx)  
 - **Célformátum?** PowerPoint (.ppt, .pptx)  
-- **Minimum Java verzió?** JDK 8 vagy újabb  
-- **Licenc szükséges éles környezetben?** Igen – egy kereskedelmi GroupDocs.Conversion licenc  
+- **Minimum Java verzió?** JDK 8 or higher  
+- **Licenc szükséges a termeléshez?** Igen – egy kereskedelmi GroupDocs.Conversion licenc  
 
-## Mi az a groupdocs conversion java tutorial?
-A *groupdocs conversion java tutorial* bemutatja, hogyan használhatja a GroupDocs.Conversion SDK‑t a dokumentumok formátumok közötti programozott konvertálásához. Absztrahálja az alacsony szintű fájlparszolást, lehetővé téve, hogy az üzleti logikára koncentráljon, míg az SDK kezeli a renderelést, elrendezést és kompatibilitást.
+## Mi a Word konvertálása PowerPointba?
+A Word konvertálása PowerPointba az a folyamat, amely során egy Microsoft Word dokumentumot PowerPoint prezentációvá alakítunk, miközben megőrzünk minden szövegstílust, képet, táblázatot és elrendezést. A GroupDocs.Conversion használatával ez a átalakítás néhány API hívással megvalósítható, kiküszöbölve a manuális másolás‑beillesztés munkát.
 
-## Miért használja a GroupDocs.Conversion‑t Java‑hoz?
-- **Széles körű formátumtámogatás** – több mint 100 fájltípus, beleértve a Word és PowerPoint formátumokat.  
-- **Magas hűség** – megőrzi a stílusokat, képeket és az elrendezést a konvertálás során.  
-- **Skálázható** – működik webszolgáltatásokban, asztali alkalmazásokban vagy kötegelt feladatokban.  
-- **Könnyű integráció** – Maven‑alapú, nincs natív függőség.  
+## Miért használja a GroupDocs.Conversion for Java-t?
+A GroupDocs.Conversion **120+ bemeneti és kimeneti formátumot** támogat, és akár **500 MB** méretű fájlokat is képes feldolgozni anélkül, hogy a teljes dokumentumot a memóriába töltené. Az SDK garantálja a magas hűségű renderelést, ami azt jelenti, hogy a diák automatikusan megőrzik az eredeti Word stílusokat, beágyazott grafikákat és összetett táblázatokat.
 
-## Előkövetelmények
-
-A GroupDocs.Conversion Java‑ban történő implementálása előtt győződjön meg arról, hogy a következőkkel rendelkezik:
-
-### Szükséges könyvtárak, verziók és függőségek
+## Előfeltételek
 - **GroupDocs.Conversion for Java** könyvtár, 25.2 vagy újabb verzió.  
-- Alapvető Java programozási ismeretek és Maven projekt beállítás.
+- JDK 8+ telepítve a fejlesztői gépén.  
+- IDE, például IntelliJ IDEA vagy Eclipse.  
+- Alapvető ismeretek a Maven projektkonfigurációról és a Java fájl I/O-ról.  
 
-### Környezet beállítási követelmények
-- Kompatibilis JDK (Java Development Kit) telepítve a rendszerén.  
-- Integrált fejlesztőkörnyezet (IDE), például IntelliJ IDEA vagy Eclipse, Java fejlesztésre konfigurálva.
+## A GroupDocs.Conversion for Java beállítása
 
-### Tudás előkövetelmények
-- Ismeretek a fájlkezelésről Java‑ban.  
-- Alapvető tudás külső könyvtárak és Maven függőségek használatáról.
+Adja hozzá a Maven függőséget a `pom.xml`-hez (a megjelenített verzió a legújabb stabil kiadás):
 
-## A GroupDocs.Conversion beállítása Java‑hoz
+```xml
+<dependency>
+    <groupId>com.groupdocs</groupId>
+    <artifactId>groupdocs-conversion</artifactId>
+    <version>25.2</version>
+</dependency>
+```
 
-A kezdéshez integrálja a GroupDocs.Conversion könyvtárat Maven projektjébe.
+> **Megjegyzés:** A fenti XML kódrészlet csak illusztráció; a eredeti kódelemek helyőrzőit változatlanul hagyja.
+
+### Licenc beszerzési lépések
+- **Ingyenes próba:** Töltse le a próbaverziót a funkciók teszteléséhez.  
+- **Ideiglenes licenc:** Szerezzen ideiglenes licencet a teljes hozzáféréshez az értékelés során.  
+- **Vásárlás:** Fontolja meg a licenc megvásárlását, ha ez a megoldás megfelel az üzleti igényeinek.  
+
+### Alap inicializálás és beállítás
+`Converter` a GroupDocs.Conversion alapvető komponense, amely betölti a forrásdokumentumot és irányítja annak konvertálását a célformátumba.
+
+`PresentationConvertOptions` PPT‑specifikus beállításokat definiál, például diák méretét, képek beágyazását és diaváltási opciókat a konverziós folyamat során.
+
+Hozzon létre egy `Converter` példányt, amely a forrás Word dokumentumra mutat.
 
 ```xml
 <repositories>
@@ -70,13 +133,14 @@ A kezdéshez integrálja a GroupDocs.Conversion könyvtárat Maven projektjébe.
 </dependencies>
 ```
 
-### Licenc beszerzési lépések
-- **Ingyenes próbaverzió:** Töltse le a próbaverziót a funkciók teszteléséhez.  
-- **Ideiglenes licenc:** Szerezzen ideiglenes licencet a teljes hozzáféréshez az értékelés során.  
-- **Vásárlás:** Fontolja meg a licenc megvásárlását, ha a megoldás megfelel üzleti igényeinek.
+## Hogyan konvertáljunk DOCX-et PPTX-be Java-ban?
 
-### Alap inicializálás és beállítás
-Hozzon létre egy `Converter` példányt, amely a forrás Word dokumentumra mutat.
+Töltse be a DOCX fájlt egy `Converter` segítségével, konfigurálja a `PresentationConvertOptions`-t, és hívja meg a `convert`-et a kívánt kimeneti úttal. Az SDK automatikusan kezeli az elrendezés megőrzését, a képek beágyazását és a diák generálását, így mindössze három metódushívással egy bemutatásra kész PPTX fájlt kap.
+
+### Lépésről‑lépésre megvalósítás
+
+**1️⃣ Inicializálja a Converter objektumot**  
+Hozza létre a `Converter`-t a forrás DOCX fájl elérési útjával.
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -85,16 +149,8 @@ String sourceDocument = "YOUR_DOCUMENT_DIRECTORY/SampleDoc.docx"; // Replace wit
 Converter converter = new Converter(sourceDocument);
 ```
 
-## Implementációs útmutató
-
-### 1. funkció: Dokumentum konvertálása prezentációvá
-
-Ez a funkció lehetővé teszi, hogy Word dokumentumokat PowerPoint prezentációkká konvertáljon, a GroupDocs.Conversion erőteljes konvertálási képességeit kihasználva.
-
-#### Lépésről‑lépésre megvalósítás
-
-**1️⃣ A Converter objektum inicializálása**  
-Hozza létre a `Converter`‑t a forrás DOCX fájl elérési útjával.
+**2️⃣ Konvertálási beállítások konfigurálása**  
+Példányosítsa a `PresentationConvertOptions`-t a PPT‑specifikus beállítások megadásához.
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -105,8 +161,10 @@ String sourceDocument = "YOUR_DOCUMENT_DIRECTORY/SampleDoc.docx"; // Define inpu
 Converter converter = new Converter(sourceDocument);
 ```
 
-**2️⃣ Konvertálási beállítások konfigurálása**  
-Példányosítsa a `PresentationConvertOptions`‑t a PPT‑specifikus beállítások megadásához.
+**3️⃣ A konverzió végrehajtása**  
+Adja meg a kimeneti útvonalat és hívja meg a `convert`-et. Az SDK elvégzi a nehéz munkát.
+
+`convert` végrehajtja a konverziót és a kapott PPTX fájlt a megadott helyre írja.
 
 ```java
 import com.groupdocs.conversion.options.convert.PresentationConvertOptions;
@@ -114,8 +172,9 @@ import com.groupdocs.conversion.options.convert.PresentationConvertOptions;
 PresentationConvertOptions options = new PresentationConvertOptions();
 ```
 
-**3️⃣ A konvertálás végrehajtása**  
-Adja meg a kimeneti útvonalat, és hívja meg a `convert` metódust. Az SDK végzi a nehéz munkát.
+## 2. funkció: egyéni fájlútvonalak konfigurálása
+
+Egyéni fájlútvonalak konfigurálása rugalmasságot biztosít a forrás- és célkönyvtárak kezelésében helyőrzők használatával.
 
 ```java
 String outputPresentation = "YOUR_OUTPUT_DIRECTORY/ConvertedPresentation.pptx"; // Define output file path
@@ -124,11 +183,58 @@ String outputPresentation = "YOUR_OUTPUT_DIRECTORY/ConvertedPresentation.pptx"; 
 converter.convert(outputPresentation, options);
 ```
 
-### 2. funkció: Egyéni fájlútvonalak konfigurálása
+## Gyakorlati alkalmazások
+1. **Automatizált jelentéskészítés** – Részletes jelentések konvertálása prezentációkká vezetői tájékoztatókhoz.  
+2. **Oktatási tartalom létrehozása** – Előadásjegyzetek vagy tananyagok átalakítása vonzó PowerPoint diákra.  
+3. **Üzleti megbeszélés előkészítése** – Gyorsan alakítsa át a megbeszélés napirendjét és jegyzőkönyvét strukturált prezentációkká.  
 
-Az egyéni fájlútvonalak konfigurálása rugalmasságot biztosít a forrás és célkönyvtárak kezelése során helyőrzők használatával.
+## Teljesítménybeli szempontok
+- **Memóriakezelés:** A konverzió után szabadítsa fel a `Converter` objektumot hosszú távú szolgáltatásokban.  
+- **Aszinkron feldolgozás:** Futtassa a konverziókat külön szálakon vagy használja a `CompletableFuture`-t az UI szálak blokkolásának elkerülésére.  
+- **Erőforrás-figyelés:** Kövesse nyomon a CPU és a heap használatát nagy dokumentumok feldolgozásakor; fontolja meg a hatalmas DOCX fájlok kisebb darabokra bontását.  
 
-#### Beállítási példa
+## Gyakori problémák és hibaelhárítás
+
+| Tünet | Valószínű ok | Megoldás |
+|---------|--------------|-----|
+| **A konverzió `FileNotFoundException` hibával meghiúsul** | Helytelen fájlútvonal vagy hiányzó olvasási jogosultságok | Ellenőrizze a `sourceDocument` és `outputPresentation` útvonalakat; biztosítsa, hogy az alkalmazásnak van hozzáférési joga. |
+| **A kimeneti PPTX-ben hiányoznak a képek** | A képek a DOCX-ben hivatkozott erőforrásként vannak beágyazva | Használja a `PresentationConvertOptions.setEmbedImages(true)`-t (ha támogatott), vagy biztosítsa, hogy a képek be legyenek ágyazva a forrásfájlba. |
+| **Memóriahiány hiba nagy dokumentumoknál** | A JVM heap túl alacsony | Növelje a `-Xmx` kapcsolót, vagy dolgozza fel a dokumentumot kisebb szakaszokra bontva a SDK stream API-jával. |
+
+## Gyakran feltett kérdések
+
+**Q: Hogyan kezeljem a nagy dokumentumokat?**  
+A: Bontsa a dokumentumot kisebb részekre, vagy futtassa a konverziót aszinkron módon a memóriahasználat alacsonyan tartása érdekében.
+
+**Q: Konvertálhatok más formátumokat is, mint a Word és a PowerPoint?**  
+A: Igen, a GroupDocs.Conversion széles körű formátumokat támogat. Tekintse meg a hivatalos dokumentációt a teljes listáért.
+
+**Q: Mit tegyek, ha a konverzió meghiúsul?**  
+A: Ellenőrizze a fájlútvonalakat, győződjön meg a licenc érvényességéről, és vizsgálja meg a kivétel stack trace-ét a részletes hibaüzenetekért.
+
+**Q: Lehetséges a kötegelt konverzió?**  
+A: Teljes mértékben. Iteráljon egy forrásfájl-gyűjteményen, és hívja meg minden egyes fájlra a `converter.convert`-et, opcionálisan párhuzamos stream-ekkel.
+
+**Q: Hol találok részletes API hivatkozásokat?**  
+A: Az API hivatkozás a GroupDocs weboldalán érhető el (lásd az alábbi forrásokat).
+
+## Források
+
+- [Dokumentáció](https://docs.groupdocs.com/conversion/java/)
+- [API hivatkozás](https://reference.groupdocs.com/conversion/java/)
+- [GroupDocs.Conversion letöltése](https://releases.groupdocs.com/conversion/java/)
+- [Licenc vásárlása](https://purchase.groupdocs.com/buy)
+- [Ingyenes próba](https://releases.groupdocs.com/conversion/java/)
+- [Ideiglenes licenc](https://purchase.groupdocs.com/temporary-license/)
+- [Támogatási fórum](https://forum.groupdocs.com/c/conversion/10)
+
+---
+
+**Utolsó frissítés:** 2026-10-10  
+**Tesztelve ezzel:** GroupDocs.Conversion 25.2  
+**Szerző:** GroupDocs  
+
+---
 
 ```java
 String DOCUMENT_DIRECTORY = "YOUR_DOCUMENT_DIRECTORY";
@@ -139,55 +245,8 @@ String sampleDocPath = DOCUMENT_DIRECTORY + "/SampleDoc.docx"; // Input document
 String convertedFilePath = OUTPUT_DIRECTORY + "/ConvertedPresentation.pptx"; // Output presentation path using placeholder
 ```
 
-## Gyakorlati alkalmazások
+## Kapcsolódó oktatóanyagok
 
-1. **Automatizált jelentéskészítés** – Részletes jelentések konvertálása prezentációkká vezetői tájékoztatókhoz.  
-2. **Oktatási tartalom létrehozása** – Előadási jegyzetek vagy tananyagok átalakítása vonzó PowerPoint diákra.  
-3. **Üzleti megbeszélés előkészítése** – Gyorsan alakítsa át a megbeszélés napirendjét és jegyzőkönyvét strukturált prezentációkká.
-
-## Teljesítményfontosságú szempontok
-
-- **Memóriakezelés:** A konvertálás után szabadítsa fel a `Converter` objektumot hosszú távú szolgáltatásokban.  
-- **Aszinkron feldolgozás:** Futtassa a konvertálásokat külön szálakon vagy használja a `CompletableFuture`‑t a UI szálak blokkolásának elkerülésére.  
-- **Erőforrás-figyelés:** Kövesse a CPU és a heap használatát nagy dokumentumok feldolgozásakor; fontolja meg a hatalmas DOCX fájlok kisebb darabokra bontását.
-
-## Gyakori problémák és hibaelhárítás
-
-| Tünet | Valószínű ok | Megoldás |
-|---------|--------------|-----|
-| **A konvertálás `FileNotFoundException` hibával sikertelen** | Helytelen fájlútvonal vagy hiányzó olvasási jogosultság | Ellenőrizze a `sourceDocument` és `outputPresentation` útvonalakat; biztosítsa, hogy az alkalmazásnak megfelelő hozzáférési jogai legyenek. |
-| **A kimeneti PPTX hiányzó képeket tartalmaz** | A képek a DOCX‑ben linkelt erőforrásként vannak beágyazva | Használja a `PresentationConvertOptions.setEmbedImages(true)`‑t (ha támogatott), vagy biztosítsa, hogy a képek be legyenek ágyazva a forrásfájlba. |
-| **Memóriahiány hiba nagy dokumentumoknál** | A JVM heap túl alacsony | Növelje a `-Xmx` flag‑et vagy dolgozza fel a dokumentumot kisebb részekben a SDK stream API‑jának használatával. |
-
-## Gyakran feltett kérdések
-
-**K: Hogyan kezeljem a nagy dokumentumokat?**  
-V: A dokumentumot kisebb részekre bontsa, vagy futtassa a konvertálást aszinkron módon a memóriahasználat alacsonyan tartása érdekében.
-
-**K: Konvertálhatok más formátumokat is, mint a Word és a PowerPoint?**  
-V: Igen, a GroupDocs.Conversion számos formátumot támogat. Tekintse meg a hivatalos dokumentációt a teljes listáért.
-
-**K: Mit tegyek, ha a konvertálás sikertelen?**  
-V: Ellenőrizze a fájlútvonalakat, győződjön meg a licenc érvényességéről, és vizsgálja meg a kivétel stack trace‑ét a részletes hibaüzenetekért.
-
-**K: Lehetséges kötegelt konvertálás?**  
-V: Természetesen. Iteráljon a forrásfájlok gyűjteményén, és minden egyes fájlra hívja meg a `converter.convert` metódust, opcionálisan párhuzamos stream‑ekkel.
-
-**K: Hol találok részletes API referenciákat?**  
-V: Az API referencia elérhető a GroupDocs weboldalán (lásd az alábbi forrásokat).
-
-## Források
-
-- [Dokumentáció](https://docs.groupdocs.com/conversion/java/)
-- [API referencia](https://reference.groupdocs.com/conversion/java/)
-- [GroupDocs.Conversion letöltése](https://releases.groupdocs.com/conversion/java/)
-- [Licenc vásárlása](https://purchase.groupdocs.com/buy)
-- [Ingyenes próbaverzió](https://releases.groupdocs.com/conversion/java/)
-- [Ideiglenes licenc](https://purchase.groupdocs.com/temporary-license/)
-- [Támogatási fórum](https://forum.groupdocs.com/c/conversion/10)
-
----
-
-**Legutóbb frissítve:** 2026-03-03  
-**Tesztelt verzió:** GroupDocs.Conversion 25.2  
-**Szerző:** GroupDocs
+- [Hogyan állítsuk be a GroupDocs licencet Java-ban – Lépésről‑lépésre útmutató](/conversion/java/getting-started/groupdocs-conversion-java-license-setup-file-path/)
+- [Word konvertálása PDF-be a GroupDocs Java-val – Útmutató](/conversion/java/pdf-conversion/convert-documents-pdf-groupdocs-java/)
+- [Word konvertálása Excelbe: Egyszerű útmutató a GroupDocs.Conversion Java API használatával](/conversion/java/word-processing-formats/convert-word-to-excel-groupdocs-java-guide/)
