@@ -1,44 +1,48 @@
 ---
-date: '2026-07-19'
-description: Dowiedz się, jak buforować pliki w Javie przy użyciu GroupDocs.Conversion,
-  efektywnie konwertować docx pdf w Javie oraz konwertować wiele plików w Javie przy
-  użyciu konfigurowalnego cache directory.
+date: '2026-10-15'
+description: Jak buforować pliki Java przy użyciu GroupDocs.Conversion, aby przyspieszyć
+  convert docx pdf java oraz java convert multiple files, z instrukcją krok po kroku
+  i najlepszymi praktykami.
+images:
+- /java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/og-image.png
 keywords:
-- cache files java
+- how to cache java
 - convert docx pdf java
 - java convert multiple files
-lastmod: '2026-07-19'
-og_description: Buforuj pliki w Javie za pomocą GroupDocs.Conversion, aby przyspieszyć
-  konwersję docx pdf w Javie i konwersję wielu plików w Javie. Poznaj setup, configuration
-  i best practices.
-og_image_alt: Guide showing Java code and cache folder for GroupDocs.Conversion file
-  caching
-og_title: Pliki pamięci podręcznej Java – Szybka konwersja dokumentów z GroupDocs
+- java file caching
+lastmod: '2026-10-15'
+og_description: Jak buforować pliki Java przy użyciu GroupDocs.Conversion, co dramatycznie
+  przyspiesza convert docx pdf java i java convert multiple files. Skorzystaj z tego
+  przewodnika, aby poznać konfigurację, strategię buforowania i wskazówki dotyczące
+  wydajności.
+og_image_alt: Diagram showing Java cache folder structure for GroupDocs.Conversion
+  file caching
+og_title: Jak buforować pliki Java przy użyciu GroupDocs.Conversion dla zwiększenia
+  wydajności
 schemas:
 - author: GroupDocs
-  dateModified: '2026-07-19'
-  description: Learn how to cache files java using GroupDocs.Conversion, convert docx
-    pdf java efficiently, and java convert multiple files with a configurable cache
-    directory.
-  headline: Cache Files Java with GroupDocs.Conversion – Boost Document Conversion
-    Performance
+  dateModified: '2026-10-15'
+  description: How to cache Java files with GroupDocs.Conversion to accelerate convert
+    docx pdf java and java convert multiple files, with step‑by‑step setup and best
+    practices.
+  headline: How to cache Java files with GroupDocs.Conversion – Boost conversion performance
   type: TechArticle
-- description: Learn how to cache files java using GroupDocs.Conversion, convert docx
-    pdf java efficiently, and java convert multiple files with a configurable cache
-    directory.
-  name: Cache Files Java with GroupDocs.Conversion – Boost Document Conversion Performance
+- description: How to cache Java files with GroupDocs.Conversion to accelerate convert
+    docx pdf java and java convert multiple files, with step‑by‑step setup and best
+    practices.
+  name: How to cache Java files with GroupDocs.Conversion – Boost conversion performance
   steps:
-  - name: '**Batch Processing Systems** – Reuse cached PDFs when converting thousands
+  - name: '**Batch processing systems** – Reuse cached PDFs when converting thousands
       of DOCX files nightly.'
-    text: '**Batch Processing Systems** – Reuse cached PDFs when converting thousands
+    text: '**Batch processing systems** – Reuse cached PDFs when converting thousands
       of DOCX files nightly.'
-  - name: '**Web Services** – Speed up API responses for repeated conversion requests
+  - name: '**Web services** – Speed up API responses for repeated conversion requests
       by serving cached results instantly.'
-    text: '**Web Services** – Speed up API responses for repeated conversion requests
+    text: '**Web services** – Speed up API responses for repeated conversion requests
       by serving cached results instantly.'
-  - name: '**Enterprise Document Management** – Integrate caching with existing file
+  - name: '**Enterprise document management** – Integrate caching with existing file
       stores to lower server load and storage costs.'
-    text: '**Enterprise Document Management** – Integrate caching with existing file
+    text: '**Enterprise document management** – Integrate caching with existing file
       stores to lower server load and storage costs.'
   type: HowTo
 - questions:
@@ -65,40 +69,45 @@ tags:
 - Java document processing
 - batch conversion
 - performance optimization
-title: Pliki pamięci podręcznej Java z GroupDocs.Conversion – Zwiększ wydajność konwersji
-  dokumentów
+title: Jak buforować pliki Java przy użyciu GroupDocs.Conversion dla zwiększenia wydajności
 type: docs
 url: /pl/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/
 weight: 1
 ---
 
-# Pliki pamięci podręcznej Java z GroupDocs.Conversion – Zwiększ wydajność konwersji dokumentów
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
 
-W tym przewodniku dowiesz się, jak **cache files java** używać API GroupDocs.Conversion, dramatycznie przyspieszając operacje **convert docx pdf java** i umożliwiając efektywne zadania wsadowe **java convert multiple files**. Po zakończeniu tutorialu będziesz mieć gotowe do produkcji rozwiązanie, które przechowuje pośrednie pliki PDF na dysku, ponownie wykorzystuje je przy kolejnych żądaniach i płynnie skalowuje się przy dużym obciążeniu.
+{{< blocks/products/pf/main >}}
+
+# Jak buforować pliki Java przy użyciu GroupDocs.Conversion dla zwiększenia wydajności
+
+W tym przewodniku dowiesz się **jak buforować Java** przy użyciu API GroupDocs.Conversion, co dramatycznie przyspiesza operacje **convert docx pdf java** i sprawia, że zadania wsadowe **java convert multiple files** są znacznie bardziej wydajne. Po zakończeniu samouczka będziesz mieć gotowe do produkcji rozwiązanie, które przechowuje pośrednie pliki PDF na dysku, ponownie wykorzystuje je przy kolejnych żądaniach i płynnie skalowuje się przy dużym obciążeniu.
 
 ## Szybkie odpowiedzi
-- **Jaka jest główna zaleta buforowania plików?** Usuwa potrzebę ponownej konwersji tego samego źródła, skracając czas przetwarzania nawet o 70 % i znacznie obniżając zużycie CPU.  
-- **Która biblioteka zapewnia wbudowane buforowanie dla Javy?** GroupDocs.Conversion zawiera natywny interfejs cache API, więc nie jest wymagana zewnętrzna platforma buforująca.  
-- **Czy mogę buforować konwersje DOCX → PDF?** Tak — przechowuj wygenerowany PDF raz i serwuj go wielokrotnie dla identycznych wejść DOCX.  
+- **Jaka jest główna zaleta buforowania plików?** Eliminuje konieczność ponownego konwertowania tego samego źródła, skracając czas przetwarzania nawet o 70 % i zmniejszając zużycie CPU.  
+- **Która biblioteka zapewnia wbudowane buforowanie dla Java?** GroupDocs.Conversion zawiera natywny interfejs API pamięci podręcznej, więc nie jest wymagany zewnętrzny framework cache.  
+- **Czy mogę buforować konwersje DOCX → PDF?** Tak — przechowaj wygenerowany PDF raz i serwuj go wielokrotnie dla identycznych wejść DOCX.  
 - **Czy potrzebuję licencji do użytku produkcyjnego?** Ważna licencja GroupDocs.Conversion jest wymagana przy wdrożeniach komercyjnych.  
 - **Czy konwersja wsadowa jest obsługiwana?** Zdecydowanie; buforowanie błyszczy, gdy **java convert multiple files** w jednym uruchomieniu.
 
-## Co to jest „cache files java” w kontekście konwersji dokumentów?
-**Cache files java** odnosi się do utrwalania wyniku kosztownej konwersji (np. DOCX → PDF) w lokalnym systemie plików lub pamięci, tak aby późniejsze żądania mogły natychmiast pobrać rezultat zamiast ponownie uruchamiać silnik konwersji. Przechowując te pliki, aplikacje unikają zbędnego przetwarzania, redukują obciążenie CPU i poprawiają czasy odpowiedzi przy powtarzających się żądaniach konwersji.
+## Co oznacza „cache files java” w kontekście konwersji dokumentów?
+Buforowanie plików Java oznacza przechowywanie wyniku kosztownej konwersji — takiej jak DOCX → PDF — w lokalnym systemie plików lub w pamięci, aby późniejsze żądania mogły natychmiast pobrać plik zamiast ponownie uruchamiać silnik konwersji. Takie podejście usuwa zbędne przetwarzanie, zmniejsza obciążenie CPU i zapewnia szybsze czasy odpowiedzi przy powtarzających się żądaniach konwersji.
 
-## Dlaczego używać GroupDocs.Conversion do buforowania plików w Javie?
-Natywny mechanizm buforowania GroupDocs.Conversion eliminuje potrzebę rozwiązań zewnętrznych, integruje się bezpośrednio z potokiem konwersji, obsługuje ponad 70 formatów wejściowych i wyjściowych oraz jest w pełni wątkowo‑bezpieczny dla usług o wysokiej współbieżności. Zapewnia także prostą konfigurację lokalizacji bufora i automatyczne czyszczenie, co czyni go odpowiednim zarówno dla małych narzędzi, jak i dużych usług korporacyjnych.
+## Dlaczego używać GroupDocs.Conversion do buforowania plików Java?
+Natywny mechanizm pamięci podręcznej GroupDocs.Conversion eliminuje potrzebę rozwiązań zewnętrznych, integruje się bezpośrednio z potokiem konwersji, obsługuje **ponad 70 formatów wejściowych i wyjściowych**, i jest w pełni bezpieczny wątkowo dla usług internetowych o wysokiej współbieżności. Zapewnia także łatwą konfigurację lokalizacji pamięci podręcznej oraz automatyczne czyszczenie, co czyni go odpowiednim zarówno dla małych narzędzi, jak i dużych usług korporacyjnych.
 
 ## Wymagania wstępne
 - **Java Development Kit** 11 lub nowszy.  
 - **Maven** do zarządzania zależnościami.  
-- **GroupDocs.Conversion for Java ≥ 25.2** (najnowsze stabilne wydanie).  
+- **GroupDocs.Conversion for Java ≥ 25.2** (najbardziej stabilna wersja).  
 - Podstawowa znajomość Java I/O oraz struktury projektu Maven.  
 
-## Konfiguracja GroupDocs.Conversion dla Javy
+## Konfiguracja GroupDocs.Conversion dla Java
 
 ### Konfiguracja Maven
-Add the GroupDocs repository and the Conversion dependency to your `pom.xml`:
+Dodaj repozytorium GroupDocs oraz zależność Conversion do swojego `pom.xml`. Ten krok zapewnia, że Maven może pobrać wymagane biblioteki podczas procesu budowania.
 
 ```xml
 <repositories>
@@ -118,10 +127,10 @@ Add the GroupDocs repository and the Conversion dependency to your `pom.xml`:
 ```
 
 ### Uzyskanie licencji
-Rozpocznij od bezpłatnej wersji próbnej, aby poznać funkcje GroupDocs.Conversion, odwiedzając stronę [Bezpłatna wersja próbna](https://releases.groupdocs.com/conversion/java/). Dla dalszego użytkowania rozważ zakup licencji lub uzyskanie tymczasowej licencji poprzez portal [Licencja tymczasowa](https://purchase.groupdocs.com/temporary-license/).
+Rozpocznij od bezpłatnej wersji próbnej, aby poznać funkcje GroupDocs.Conversion, odwiedzając ich stronę [Free Trial](https://releases.groupdocs.com/conversion/java/). W celu dalszego użytkowania rozważ zakup licencji lub uzyskanie tymczasowej licencji poprzez portal [Temporary License](https://purchase.groupdocs.com/temporary-license/).
 
 ### Podstawowa inicjalizacja
-The `Converter` class is the main entry point that orchestrates document conversion operations. After importing the required classes, you can run a simple DOCX → PDF conversion:
+Klasa `Converter` jest głównym punktem wejścia, który koordynuje operacje konwersji dokumentów. Po zaimportowaniu wymaganych klas możesz uruchomić prostą konwersję DOCX → PDF.
 
 ```java
 import com.groupdocs.conversion.Converter;
@@ -132,16 +141,16 @@ PdfConvertOptions options = new PdfConvertOptions();
 converter.convert("sample.pdf", options);
 ```
 
-## Jak buforować pliki w Javie przy użyciu GroupDocs.Conversion
-**Load the source document once, configure a cache directory, and let the Converter reuse the cached PDF for any subsequent identical requests.** This approach reduces I/O, saves CPU cycles, and ensures that large batch jobs finish faster. By checking the cache before each conversion, the system minimizes disk reads and avoids unnecessary processing, leading to consistent performance gains across multiple runs.
+## Jak buforować pliki w Java przy użyciu GroupDocs.Conversion
+Wczytaj dokument źródłowy raz, skonfiguruj katalog pamięci podręcznej i pozwól `Converter` ponownie wykorzystać buforowany PDF przy kolejnych identycznych żądaniach. To podejście zmniejsza I/O, oszczędza cykle CPU i zapewnia szybsze zakończenie dużych zadań wsadowych. Sprawdzając pamięć podręczną przed każdą konwersją, system minimalizuje odczyty dysku i unika niepotrzebnego przetwarzania, co prowadzi do stałych przyrostów wydajności w wielu uruchomieniach.
 
 ### Przegląd buforowania plików
-Caching stores intermediate conversion results, dramatically reducing the time spent on repeated **convert docx pdf java** operations. This is especially valuable when you need to **java convert multiple files** in a batch job.
+Buforowanie przechowuje pośrednie wyniki konwersji, dramatycznie skracając czas poświęcany na powtarzające się operacje **convert docx pdf java**. Jest to szczególnie cenne, gdy musisz **java convert multiple files** w zadaniu wsadowym.
 
 ### Implementacja krok po kroku
 
-#### 1. Skonfiguruj katalog bufora
-Define a dedicated folder where cached files will live. This aligns with the secondary keyword **configure cache directory**.
+#### 1. Skonfiguruj katalog pamięci podręcznej
+Zdefiniuj dedykowany folder, w którym będą przechowywane buforowane pliki. To odpowiada drugiemu słowu kluczowemu **configure cache directory**.
 
 ```java
 String cachePath = "C:/conversion-cache";
@@ -151,8 +160,8 @@ if (!cacheFolder.exists()) {
 }
 ```
 
-#### 2. Skonfiguruj ustawienia konwertera, aby używać bufora
-`CacheSettings` defines where and how cached files are stored for reuse. Tell the `Converter` to leverage the cache you just created. The `CacheSettings` class controls where and how cached files are stored.
+#### 2. Skonfiguruj ustawienia konwertera, aby używać pamięci podręcznej
+`CacheSettings` określa, gdzie i jak przechowywane są buforowane pliki do ponownego użycia. Powiedz `Converter`, aby wykorzystał pamięć podręczną, którą właśnie utworzyłeś. Klasa `CacheSettings` kontroluje, gdzie i w jaki sposób przechowywane są buforowane pliki.
 
 ```java
 CacheSettings cacheSettings = new CacheSettings();
@@ -161,7 +170,7 @@ cacheSettings.setEnabled(true);
 ```
 
 #### 3. Zainicjalizuj konwerter z włączonym buforowaniem
-Combine the document path with the settings factory so that every conversion checks the cache first.
+Połącz ścieżkę dokumentu z fabryką ustawień, aby każda konwersja najpierw sprawdzała pamięć podręczną.
 
 ```java
 ConverterSettings settings = new ConverterSettings();
@@ -169,66 +178,72 @@ settings.setCacheSettings(cacheSettings);
 Converter converter = new Converter("input.docx", settings);
 ```
 
-#### 4. Zdefiniuj opcje konwersji (Convert DOCX → PDF)
-`PdfConvertOptions` specifies settings for converting documents to PDF format. You can swap `PdfConvertOptions` for any other format you need, such as `HtmlConvertOptions` or `PngConvertOptions`.
+#### 4. Zdefiniuj opcje konwersji (convert DOCX → PDF)
+`PdfConvertOptions` określa ustawienia konwersji dokumentów do formatu PDF. Możesz zamienić `PdfConvertOptions` na dowolny inny potrzebny format, np. `HtmlConvertOptions` lub `PngConvertOptions`.
 
 ```java
 PdfConvertOptions options = new PdfConvertOptions();
 ```
 
-#### 5. Wykonaj konwersję – bufor w działaniu
-The first call creates a cached PDF; subsequent calls reuse it, showcasing **batch document conversion** efficiency.
+#### 5. Wykonaj konwersję — buforowanie w działaniu
+Pierwsze wywołanie tworzy buforowany PDF; kolejne wywołania go ponownie używają, demonstrując wydajność **batch document conversion**.
 
 ```java
 converter.convert("output.pdf", options); // First run creates cache
 converter.convert("output.pdf", options); // Second run reads from cache
 ```
 
-### Wskazówki rozwiązywania problemów
-- **Cache Directory Issues** – Zweryfikuj, czy ścieżka istnieje i aplikacja ma uprawnienia do zapisu.  
-- **Dependency Errors** – Sprawdź ponownie współrzędne Maven oraz URL repozytorium.  
-- **Performance Bottlenecks** – Monitoruj pamięć JVM; zwiększ `-Xmx`, jeśli przetwarzasz bardzo duże pliki.  
+## Typowe problemy i rozwiązania
+- **Problemy z katalogiem pamięci podręcznej** – Sprawdź, czy ścieżka istnieje i aplikacja ma uprawnienia do zapisu.  
+- **Błędy zależności** – Sprawdź ponownie współrzędne Maven i URL repozytorium.  
+- **Wąskie gardła wydajności** – Monitoruj pamięć JVM; zwiększ `-Xmx`, jeśli przetwarzasz bardzo duże pliki.  
 
 ## Praktyczne zastosowania
-1. **Batch Processing Systems** – Ponownie używaj buforowanych PDFów przy konwersji tysięcy plików DOCX w nocy.  
-2. **Web Services** – Przyspiesz odpowiedzi API dla powtarzających się żądań konwersji, serwując buforowane wyniki natychmiast.  
-3. **Enterprise Document Management** – Zintegruj buforowanie z istniejącymi magazynami plików, aby zmniejszyć obciążenie serwera i koszty przechowywania.  
+1. **Systemy przetwarzania wsadowego** – Ponownie używaj buforowanych PDF przy konwersji tysięcy plików DOCX nocą.  
+2. **Usługi internetowe** – Przyspiesz odpowiedzi API dla powtarzających się żądań konwersji, serwując buforowane wyniki natychmiast.  
+3. **Enterprise document management** – Zintegruj buforowanie z istniejącymi magazynami plików, aby obniżyć obciążenie serwera i koszty przechowywania.  
 
 ## Rozważania dotyczące wydajności
-- **Regular Cache Cleanup** – Wdroż zaplanowane zadanie usuwające pliki starsze niż określony próg (np. 30 dni).  
-- **Memory Management** – Przydziel wystarczający stos (np. `-Xmx2g`) dla konwersji na dużą skalę.  
-- **Best Practices** – Buforuj tylko często żądane pliki; unikaj buforowania jednorazowych konwersji, aby zapobiec niepotrzebnemu wzrostowi przechowywania.  
-
-## Podsumowanie
-You now have a complete, production‑ready guide on **cache files java** using GroupDocs.Conversion. By configuring a cache directory, enabling cache settings, and reusing conversion results, you can dramatically improve the speed and scalability of your **convert docx pdf java** and **java convert multiple files** workflows.
-
-### Kolejne kroki
-- Eksperymentuj z innymi formatami wyjściowymi (HTML, PNG), zachowując ten sam bufor.  
-- Połącz buforowanie z rozwiązaniem przechowywania rozproszonego (np. Redis) dla wdrożeń wielowęzłowych.  
-- Zbadaj zaawansowane polityki buforowania, takie jak wygaśnięcie, limity rozmiaru i wersjonowanie, aby uzyskać większą kontrolę.  
+- **Regularne czyszczenie pamięci podręcznej** – Zaimplementuj zadanie cykliczne usuwające pliki starsze niż konfigurowalny próg (np. 30 dni).  
+- **Zarządzanie pamięcią** – Przydziel wystarczający stos (np. `-Xmx2g`) dla konwersji na dużą skalę.  
+- **Najlepsze praktyki** – Buforuj tylko często żądane pliki; unikaj buforowania jednorazowych konwersji, aby zapobiec niepotrzebnemu wzrostowi przechowywania.  
 
 ## Najczęściej zadawane pytania
 
 **Q: Co dokładnie oznacza „cache files java” w kontekście konwersji dokumentów?**  
-A: Oznacza przechowywanie wyniku konwersji (np. PDF), aby późniejsze żądania mogły pobrać plik bezpośrednio z bufora zamiast ponownie uruchamiać silnik konwersji.
+A: Oznacza to przechowywanie wyniku konwersji (np. PDF), aby późniejsze żądania mogły pobrać plik bezpośrednio z pamięci podręcznej zamiast ponownie uruchamiać silnik konwersji.
 
-**Q: Czy mogę używać tego samego bufora dla różnych formatów wyjściowych?**  
-A: Tak, ale zaleca się utrzymywanie oddzielnych folderów bufora dla każdego formatu, aby uniknąć kolizji nazw i uprościć czyszczenie.
+**Q: Czy mogę używać tej samej pamięci podręcznej dla różnych formatów wyjściowych?**  
+A: Tak, ale zaleca się utrzymywanie osobnych folderów pamięci podręcznej dla każdego formatu, aby uniknąć kolizji nazw i uprościć czyszczenie.
 
-**Q: Jak automatycznie usuwać stare pliki bufora?**  
-A: Wdroż zaplanowane zadanie (np. przy użyciu `java.util.Timer` lub crona), które skanuje folder bufora i usuwa pliki starsze niż skonfigurowany czas.
+**Q: Jak automatycznie usuwać stare pliki z pamięci podręcznej?**  
+A: Zaimplementuj zadanie cykliczne (np. przy użyciu `java.util.Timer` lub zadania cron), które skanuje folder pamięci podręcznej i usuwa pliki starsze niż określony czas.
 
-**Q: Czy bufor GroupDocs.Conversion jest wątkowo‑bezpieczny?**  
-A: Zdecydowanie. Wbudowana implementacja bufora obsługuje jednoczesne odczyty i zapisy, co czyni go bezpiecznym dla usług o dużym natężeniu ruchu.
+**Q: Czy pamięć podręczna GroupDocs.Conversion jest bezpieczna wątkowo?**  
+A: Absolutnie. Wbudowana implementacja pamięci podręcznej obsługuje jednoczesne odczyty i zapisy, co czyni ją bezpieczną dla usług o dużym natężeniu ruchu.
 
 **Q: Gdzie mogę znaleźć pełną dokumentację API?**  
 A: Oficjalna dokumentacja jest dostępna na stronie [GroupDocs Documentation](https://docs.groupdocs.com/conversion/java/).
 
+## Podsumowanie
+Masz teraz kompletny, gotowy do produkcji przewodnik, jak **buforować Java** przy użyciu GroupDocs.Conversion. Konfigurując katalog pamięci podręcznej, włączając ustawienia cache i ponownie wykorzystując wyniki konwersji, możesz dramatycznie zwiększyć szybkość i skalowalność swoich przepływów **convert docx pdf java** oraz **java convert multiple files**.
+
+### Kolejne kroki
+- Eksperymentuj z innymi formatami wyjściowymi (HTML, PNG), zachowując tę samą pamięć podręczną.  
+- Połącz buforowanie z rozwiązaniem przechowywania rozproszonego (np. Redis) dla wdrożeń wielowęzłowych.  
+- Zbadaj zaawansowane polityki pamięci podręcznej, takie jak wygaśnięcie, limity rozmiaru i wersjonowanie, aby uzyskać precyzyjniejszą kontrolę.  
+
+## Powiązane samouczki
+
+- [Implementacja własnej pamięci podręcznej Java – GroupDocs Conversion Cache](/conversion/java/cache-management/)
+- [java convert word pdf: Przewodnik mistrza po GroupDocs.Conversion](/conversion/java/document-operations/java-groupdocs-conversion-file-handling/)
+- [docx to pdf java: Konwersja DOCX do PDF w Java przy użyciu GroupDocs.Conversion – Przewodnik krok po kroku](/conversion/java/pdf-conversion/convert-docx-pdf-java-groupdocs-conversion/)
+
 ---
 
-**Ostatnia aktualizacja:** 2026-07-19  
+**Ostatnia aktualizacja:** 2026-10-15  
 **Testowano z:** GroupDocs.Conversion 25.2  
-**Autor:** GroupDocs
+**Autor:** GroupDocs  
 
 ```xml
 <repositories>
@@ -315,8 +330,9 @@ void convertDocuments() {
 }
 ```
 
-## Powiązane samouczki
+{{< /blocks/products/pf/tutorial-page-section >}}
 
-- [Implementacja własnego bufora Java – Cache GroupDocs Conversion](/conversion/java/cache-management/)
-- [java convert word pdf: Kompletny przewodnik po GroupDocs.Conversion](/conversion/java/document-operations/java-groupdocs-conversion-file-handling/)
-- [docx to pdf java: Konwertuj DOCX do PDF w Javie przy użyciu GroupDocs.Conversion – Przewodnik krok po kroku](/conversion/java/pdf-conversion/convert-docx-pdf-java-groupdocs-conversion/)
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}
