@@ -1,31 +1,30 @@
 ---
-date: '2026-07-19'
-description: اكتشف دليلًا خطوة بخطوة حول java redis caching يدمج Redis مع GroupDocs.Conversion
-  لتعزيز rendering performance، وتقليل conversion time، وتبسيط cache management.
+date: '2026-10-21'
+description: تعلم كيفية إنشاء مفتاح التخزين المؤقت Java وتكامل Redis مع GroupDocs.Conversion
+  لتعزيز أداء العرض، وتقليل زمن التحويل، وتكوين TTLs في مشروع Java بسيط.
+images:
+- /java/cache-management/custom-cache-redis-groupdocs-java/og-image.png
 keywords:
+- create cache key java
 - java redis caching
-- boost rendering performance
-- configure redis ttl
-- reduce conversion time
-- cache documents java
-lastmod: '2026-07-19'
-og_description: تعلم java redis caching مع GroupDocs.Conversion. يوضح هذا الدليل كيفية
-  تعزيز rendering performance، وتقليل conversion time، وتكوين Redis TTL في مشروع Java
-  بسيط.
-og_image_alt: 'Guide: java redis caching with GroupDocs and Redis'
-og_title: java redis caching – Cache Docs في Java باستخدام Redis
+- groupdocs conversion cache
+- redis ttl java
+lastmod: '2026-10-21'
+og_description: إنشاء مفتاح التخزين المؤقت Java في هذا الدليل خطوة بخطوة الذي يوضح
+  كيفية دمج Redis مع GroupDocs.Conversion لتخزين بايتات المستند، وتعزيز أداء العرض،
+  وتقليل زمن التحويل. قم بتكوين TTLs وقياس تحسين السرعة.
+og_image_alt: 'Developer guide: create cache key Java using Redis and GroupDocs'
+og_title: إنشاء مفتاح التخزين المؤقت Java – تخزين المستندات باستخدام Redis وGroupDocs
 schemas:
 - author: GroupDocs
-  dateModified: '2026-07-19'
-  description: Discover a step‑by‑step java redis caching tutorial that integrates
-    Redis with GroupDocs.Conversion to boost rendering performance, reduce conversion
-    time, and simplify cache management.
-  headline: 'java redis caching: Cache Docs in Java with Redis'
+  dateModified: '2026-10-21'
+  description: Learn how to create cache key Java and integrate Redis with GroupDocs.Conversion
+    to boost rendering performance, reduce conversion time, and configure TTLs.
+  headline: Create cache key Java – cache docs with Redis and GroupDocs
   type: TechArticle
-- description: Discover a step‑by‑step java redis caching tutorial that integrates
-    Redis with GroupDocs.Conversion to boost rendering performance, reduce conversion
-    time, and simplify cache management.
-  name: 'java redis caching: Cache Docs in Java with Redis'
+- description: Learn how to create cache key Java and integrate Redis with GroupDocs.Conversion
+    to boost rendering performance, reduce conversion time, and configure TTLs.
+  name: Create cache key Java – cache docs with Redis and GroupDocs
   steps:
   - name: '**High‑traffic portals** – Serve frequently requested PDFs (catalogs, whitepapers)
       instantly.'
@@ -66,45 +65,49 @@ schemas:
     question: Does this increase memory usage on the application server?
   type: FAQPage
 tags:
+- create cache key java
 - java redis cache
-- GroupDocs.Conversion
+- groupdocs conversion
 - document rendering
-- performance optimization
-title: 'java redis caching: Cache Docs في Java باستخدام Redis'
+title: إنشاء مفتاح التخزين المؤقت Java – تخزين المستندات في Java باستخدام Redis
 type: docs
 url: /ar/java/cache-management/custom-cache-redis-groupdocs-java/
 weight: 1
 ---
 
-# java redis caching: تخزين المستندات في Java باستخدام Redis
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
 
-في تطبيقات الويب الحديثة، تقديم نفس المستند المحول بشكل متكرر يمكن أن يضيع دورات المعالج ويزيد من أوقات الاستجابة. **java redis caching** يحل هذه المشكلة عن طريق تخزين ناتج التحويل في مخزن بيانات سريع في الذاكرة، بحيث تُخدم الطلبات اللاحقة على الفور. في هذا الدرس ستتعلم كيفية ربط Redis بسير عمل GroupDocs.Conversion، وتكوين TTLs، وقياس تحسينات الأداء التي يمكنك توقعها.
+# إنشاء مفتاح ذاكرة التخزين المؤقت Java – تخزين مستندات الكاش في Java باستخدام Redis
+
+في تطبيقات الويب الحديثة، قد يؤدي تقديم نفس المستند المحوَّل بشكل متكرر إلى إهدار دورات المعالج وزيادة أوقات الاستجابة. **إنشاء مفتاح ذاكرة تخزين مؤقت في Java** يتيح لك تخزين ناتج التحويل مرة واحدة واسترجاعه فورًا في الطلبات اللاحقة. يوضح هذا الدرس كيفية ربط Redis بسير عمل GroupDocs.Conversion، وإنشاء مفاتيح تخزين مؤقت موثوقة، وتكوين TTLs، وقياس تحسينات الأداء المتوقعة.
 
 ## إجابات سريعة
-- **ما الذي يغطيه هذا الدرس؟** دليل java redis caching كامل يدمج Redis مع GroupDocs.Conversion.  
-- **لماذا نستخدم Redis؟** يقدم زمن استجابة أقل من الملي ثانية، يدعم انتهاء TTL، ويتوسع أفقياً عبر عدة مثيلات للتطبيق.  
-- **هل أحتاج إلى ترخيص GroupDocs؟** ترخيص تجريبي أو مؤقت يكفي للاختبار؛ الترخيص الكامل مطلوب لنشر الإنتاج.  
-- **ما هي الخطوات الرئيسية؟** إضافة تبعيات Maven، تكوين `JedisPool`، بناء طرق مساعدة للذاكرة المؤقتة، وربط الذاكرة المؤقتة مع خط أنابيب التحويل.  
-- **ما نسخة Java المدعومة؟** Java 8+ (متوافق مع أحدث إصدارات GroupDocs.Conversion).
+- **ماذا يغطي هذا الدرس؟** دليل كامل لتخزين Redis المؤقت في Java يدمج Redis مع GroupDocs.Conversion.  
+- **لماذا نستخدم Redis؟** يوفر زمن استجابة أقل من الملي ثانية، يدعم انتهاء TTL، ويتوسع أفقياً عبر عدة نسخ من التطبيق.  
+- **هل أحتاج إلى ترخيص GroupDocs؟** تجربة أو ترخيص مؤقت يكفي للاختبار؛ الترخيص الكامل مطلوب للنشر في بيئة الإنتاج.  
+- **ما هي الخطوات الرئيسية؟** إضافة تبعيات Maven، تكوين `JedisPool`، بناء طرق مساعدة للتخزين المؤقت، وربط التخزين المؤقت بخط أنابيب التحويل.  
+- **ما نسخة Java المدعومة؟** Java 8+ (متوافقة مع أحدث إصدارات GroupDocs.Conversion).
 
 ## ما هو تخزين المستندات في الذاكرة المؤقتة باستخدام Redis؟
-تخزين المستندات في الذاكرة المؤقتة باستخدام Redis يعني حفظ الناتج الثنائي للتحويل (مثل مصفوفة بايت PDF) في Redis بحيث يمكن للطلبات المستقبلية المتطابقة استرجاع البايتات المخزنة بدلاً من إعادة تشغيل محرك التحويل. هذا يلغي العمل المتكرر للمعالج، يقلل من عرض النطاق الترددي للشبكة، ويوفر تجربة مستخدم نهائية أكثر سلاسة.
+يعني تخزين المستندات في الذاكرة المؤقتة باستخدام Redis حفظ الناتج الثنائي للتحويل (مثل مصفوفة بايتات PDF) في Redis بحيث يمكن للطلبات المستقبلية المتطابقة استرجاع البايتات المخزنة بدلاً من إعادة تشغيل محرك التحويل. هذا يلغي العمل المتكرر للمعالج، يقلل من استهلاك عرض النطاق الترددي، ويوفر تجربة مستخدم نهائية أكثر سلاسة.
 
-## لماذا تنفيذ ذاكرة Redis المؤقتة في Java؟
-حمّل مستندك مرة واحدة، احفظ النتيجة، وقدّمها على الفور عند الطلبات المتكررة. التخزين المؤقت المدعوم بـ Redis يمكنه **تقليل وقت التحويل حتى 90 %** للملفات التي تُستَخدم بشكل متكرر، **خفض تكاليف البنية التحتية** عن طريق تقليل استهلاك المعالج، و**توفير مصدر واحد للحقائق** لجميع عقد التطبيق في بيئة عنقودية.
+## لماذا تنفيذ ذاكرة تخزين مؤقت Redis في Java؟
+تحميل المستند مرة واحدة، تخزين النتيجة، وتقديمها فورًا عند الطلبات المتكررة يمكن أن **يقلل زمن التحويل بنسبة تصل إلى 90 %** للملفات التي يتم الوصول إليها بشكل متكرر، **يخفض تكاليف البنية التحتية** عبر تقليل استهلاك المعالج، و**يوفر مصدرًا موحدًا للبيانات** لجميع عقد التطبيق في بيئة عنقودية. يمكن لـ Redis معالجة أكثر من 200 ألف عملية في الثانية على عقدة واحدة، مما يضمن عمليات بحث بأقل من الملي ثانية.
 
 ## المتطلبات المسبقة
-- **GroupDocs.Conversion** – الإصدار 25.2 أو أحدث (يدعم **120+** صيغ إدخال وإخراج).  
-- **Jedis** (العميل الرسمي لـ Redis للغة Java).  
-- مثInstance Redis قيد التشغيل (يمكن للتطوير المحلي استخدام الإعداد الافتراضي `localhost:6379`).  
+- **GroupDocs.Conversion** – الإصدار 25.2 أو أحدث (يدعم **120+** صيغة إدخال وإخراج).  
+- **Jedis** (عميل Redis الرسمي لـ Java).  
+- مثيل Redis يعمل (يمكن للتطوير المحلي استخدام الإعداد الافتراضي `localhost:6379`).  
 - Maven لإدارة التبعيات.  
 - إلمام أساسي بمعالجة الاستثناءات في Java وتدفقات الإدخال/الإخراج.
 
-## إعداد GroupDocs.Conversion للغة Java
+## إعداد GroupDocs.Conversion لـ Java
 
-`GroupDocs.Conversion` هي مكتبة Java تقوم بتحويل وعرض المستندات إلى مجموعة واسعة من الصيغ، مع الحفاظ على تخطيط الصفحة، تضمين الخطوط، واستخراج الصور تلقائيًا.
+`GroupDocs.Conversion` هي مكتبة Java تقوم بتحويل وعرض المستندات إلى مجموعة واسعة من الصيغ، مع الحفاظ على التخطيط، تضمين الخطوط، واستخراج الصور تلقائيًا.
 
-Add the GroupDocs repository and dependency to your `pom.xml`:
+أضف مستودع GroupDocs والاعتماد إلى ملف `pom.xml` الخاص بك:
 
 ```xml
 <repositories>
@@ -129,9 +132,9 @@ Add the GroupDocs repository and dependency to your `pom.xml`:
 ```
 
 ### الحصول على الترخيص
-يمكنك البدء بـ **Free Trial**، طلب **Temporary License** للتقييم، أو شراء **License** كاملة للاستخدام في الإنتاج.
+يمكنك البدء بـ **تجربة مجانية**، طلب **ترخيص مؤقت** للتقييم، أو شراء **ترخيص** كامل للاستخدام في بيئة الإنتاج.
 
-Initialize GroupDocs.Conversion in your Java code:
+ابدأ تهيئة GroupDocs.Conversion في كود Java الخاص بك:
 
 ```java
 import com.groupdocs.conversion.*;
@@ -143,13 +146,13 @@ ConversionApi conversionApi = new ConversionApi(config);
 
 ## دليل التنفيذ
 
-### إنشاء ذاكرة مؤقتة مخصصة باستخدام Redis
+### إنشاء ذاكرة تخزين مؤقت مخصصة باستخدام Redis
 
 #### نظرة عامة
-ذاكرة Redis المخصصة تحتفظ ببايتات المستند المُعَرض، مما يسمح بالاسترجاع الفوري عند الطلبات المتكررة.
+تخزين مؤقت مخصص باستخدام Redis يحتفظ ببايتات المستند المعروض، مما يتيح استرجاعًا فوريًا عند الطلبات المتكررة.
 
 #### إعداد JedisPool
-`JedisPool` هو مجموعة آمنة للخطوط (thread‑safe) من اتصالات Redis القابلة لإعادة الاستخدام التي تقلل من عبء المقابس وتحسن معدل النقل.
+`JedisPool` هو مجموعة آمنة للخطوط (thread‑safe) من اتصالات Redis القابلة لإعادة الاستخدام، يقلل من عبء المقابس ويحسن معدل النقل.
 
 ```java
 import redis.clients.jedis.JedisPool;
@@ -162,8 +165,8 @@ poolConfig.setMinIdle(2);                 // minimum idle connections
 JedisPool jedisPool = new JedisPool(poolConfig, "localhost", 6379);
 ```
 
-#### تخزين واسترجاع البيانات المؤقتة
-طرق المساعدة أدناه تقوم بتسلسل مصفوفة البايت إلى سلسلة Base64 للتخزين الآمن وتسترجعها مرة أخرى إلى مصفوفة بايت.
+#### تخزين واسترجاع البيانات المخزنة مؤقتًا
+طرق المساعدة أدناه تقوم بتسلسل مصفوفة البايتات إلى سلسلة Base64 لتخزين آمن وتسترجعها مرة أخرى إلى مصفوفة بايتات.
 
 ```java
 import java.util.Base64;
@@ -196,7 +199,7 @@ public class RedisCacheHelper {
 ```
 
 #### التكامل مع GroupDocs.Conversion
-الآن اربط الذاكرة المؤقتة مع سير عمل التحويل. تتحقق الطريقة من الذاكرة أولاً؛ إذا لم توجد، تقوم بإجراء التحويل، تخزن النتيجة، وتعيد البايتات.
+الآن اربط التخزين المؤقت بسير عمل التحويل. تتحقق الطريقة من التخزين المؤقت أولاً؛ إذا لم توجد قيمة، تقوم بتنفيذ التحويل، تخزين النتيجة، وإرجاع البايتات.
 
 ```java
 import com.groupdocs.conversion.options.convertoptions.PdfConvertOptions;
@@ -232,58 +235,59 @@ public class DocumentService {
 }
 ```
 
-## كيف تنفذ java redis caching؟
-`ConversionApi` هو الفئة الأساسية في GroupDocs.Conversion التي تنفذ عمليات تحويل المستندات.
+## كيف تنشئ مفتاح ذاكرة التخزين المؤقت Java لتخزين Redis المؤقت؟
+أنشئ مفتاحًا حتميًا عن طريق دمج مسار ملف المصدر، قيم `ConvertOptions` المختارة، وعلامة نسخة اختيارية، ثم احسب تجزئة السلسلة باستخدام SHA‑256. يحدد هذا المفتاح كل تكوين تحويل بشكل فريد، مما يضمن أن الطلبات المتطابقة تصل إلى التخزين المؤقت بينما تولد الخيارات المختلفة مدخلات منفصلة.
 
-حمّل المستند المصدر، أنشئ مفتاح ذاكرة مؤقتة حتمي، ابحث عنه في Redis، واستدعِ `ConversionApi` فقط عندما يكون المفتاح غير موجود. يضمن هذا النمط أن كل تحويل فريد يتم مرة واحدة فقط، ثم يُقدم من الذاكرة المؤقتة طوال مدة TTL المكوَّنة.
+فئة `ConversionApi` هي المكون الأساسي في GroupDocs.Conversion الذي ينفذ تحويلات المستندات. يمكنك إنشاء مفتاح تخزين مؤقت، البحث عنه في Redis، واستدعاء `ConversionApi.convert` فقط عندما يكون المفتاح غير موجود، مما يقلل بشكل كبير من زمن التحويل وحمل الخادم.
+
+## كيف تنفذ تخزين Redis المؤقت في Java؟
+`ConversionApi` هي الفئة الأساسية في GroupDocs.Conversion التي تنفذ عمليات تحويل المستندات. حمّل مستند المصدر، أنشئ مفتاح تخزين مؤقت حتمي، ابحث عنه في Redis، واستدعِ `ConversionApi` فقط عندما يكون المفتاح غير موجود. يضمن هذا النمط أن كل تحويل فريد يتم مرة واحدة فقط، ثم يُقدَّم من التخزين المؤقت طوال مدة TTL المكوَّنة.
 
 ## نصائح استكشاف الأخطاء وإصلاحها
-- تحقق من أن خادم Redis قابل للوصول (`redis-cli ping` يجب أن يُعيد `PONG`).  
-- تأكد من أن مضيف `JedisPool` والمنفذ يتطابقان مع نشر Redis الخاص بك.  
-- غلف استدعاءات الذاكرة المؤقتة بكتل try‑catch للتعامل مع انقطاعات الاتصال دون كسر تدفق التحويل.  
-- راقب ذاكرة Redis (`INFO memory`) واضبط سياسات `maxmemory` (مثل `volatile-lru`) لإزالة الإدخالات القديمة بشكل سلس.  
-- إذا واجهت `OutOfMemoryError` على JVM، قم بزيادة حجم الذاكرة المؤقتة (heap) أو فعّل `-XX:+UseCompressedOops`.
+- تحقق من أن خادم Redis يمكن الوصول إليه (`redis-cli ping` يجب أن يُعيد `PONG`).  
+- تأكد من أن مضيف ومنفذ `JedisPool` يتطابقان مع نشر Redis الخاص بك.  
+- غلف استدعاءات التخزين المؤقت بكتل try‑catch للتعامل مع انقطاعات الاتصال دون إيقاف سير التحويل.  
+- راقب ذاكرة Redis (`INFO memory`) واضبط سياسات `maxmemory` (مثل `volatile-lru`) لإزالة المدخلات القديمة بلطف.  
+- إذا واجهت `OutOfMemoryError` على JVM، قم بزيادة حجم الـ heap أو فعّل `-XX:+UseCompressedOops`.
 
 ## تطبيقات عملية
 
-1. **بوابات ذات حركة مرور عالية** – تقديم ملفات PDF المطلوبة بشكل متكرر (كتالوجات، الأوراق البيضاء) على الفور.  
-2. **نظام إدارة المستندات المؤسسي** – تقليل الحمل عندما يقوم المستخدمون بعرض نفس العقود أو وثائق السياسات مرارًا.  
-3. **التجارة الإلكترونية** – تخزين الفواتير أو كتالوجات المنتجات المولدة في الذاكرة المؤقتة لتسريع عملية الشراء.  
-4. **منصات التعلم** – تقديم ملاحظات المحاضرات والكتب الإلكترونية دون إعادة العرض لكل طلب من الطلاب.  
+1. **بوابات ذات حركة مرور عالية** – تقديم ملفات PDF المطلوبة بشكل متكرر (كتالوجات، الأوراق البيضاء) فورًا.  
+2. **نظام إدارة المستندات المؤسسي** – تقليل الحمل عندما يعرض المستخدمون العقود أو وثائق السياسات نفسها بشكل متكرر.  
+3. **التجارة الإلكترونية** – تخزين الفواتير أو كتالوجات المنتجات المولدة مؤقتًا لتسريع عملية الدفع.  
+4. **منصات التعلم** – تقديم ملاحظات المحاضرات والكتب الإلكترونية دون إعادة العرض في كل طلب من الطلاب.  
 5. **الخدمات القانونية** – تسريع توزيع ملفات القضايا مع الحفاظ على انخفاض تكاليف التخزين.
 
 ## اعتبارات الأداء
 
-- **ضبط Redis** – تعديل `maxmemory`، اختيار سياسة إخلاء مثل `allkeys-lru`، وتعيين قيم `timeout` المناسبة بناءً على نمط الحركة.  
-- **متابعة نسب الضربات/الفشل للذاكرة المؤقتة** – استخدم `INFO stats` أو عدادات `keyspace_hits` / `keyspace_misses` في Redis لضبط TTLs بدقة.  
-- **حجم كومة JVM** – تأكد من أن الكومة يمكنها استيعاب مخازن GroupDocs؛ القاعدة العامة هي 1 GB كومة لكل 100 MB من حمولة التحويل المتزامنة.  
-- **تحويلات دفعة** – عند تحويل العديد من الملفات، أعد استخدام نسخة واحدة من `Jedis` لكل خيط لتقليل استهلاك المقابس.
+- **ضبط Redis** – تعديل `maxmemory`، اختيار سياسة إخلاء مثل `allkeys-lru`، وتعيين قيم `timeout` المناسبة بناءً على نمط حركة المرور.  
+- **متابعة نسب الضربات/الفشل في التخزين المؤقت** – استخدم `INFO stats` أو عدادات `keyspace_hits` / `keyspace_misses` في Redis لضبط TTLs بدقة.  
+- **حجم heap في JVM** – تأكد من أن الـ heap يمكنه استيعاب مخازن GroupDocs؛ القاعدة العامة هي 1 GB heap لكل 100 MB من حمولة التحويل المتزامنة.  
+- **تحويلات دفعية** – عند تحويل العديد من الملفات، أعد استخدام مثيل `Jedis` واحد لكل خيط لتقليل استهلاك المقابس.
 
 ## الأسئلة المتكررة
 
-**س: هل يمكنني استخدام هذا النهج مع صيغ إخراج GroupDocs الأخرى؟**  
+**س: هل يمكنني استخدام هذا النهج مع صيغ إخراج GroupDocs أخرى؟**  
 ج: بالتأكيد. نمط التخزين المؤقت نفسه يعمل مع DOCX، HTML، الصور، وأكثر – فقط غيّر نوع `ConvertOptions`.
 
-**س: كيف أختار مفتاح ذاكرة مؤقتة جيد؟**  
-ج: اجمع بين مسار الملف المصدر، خيارات التحويل، وأي معرفات إصدارات. هذا يضمن التفرد لكل تكوين.
+**س: كيف أختار مفتاح تخزين مؤقت جيد؟**  
+ج: دمج مسار ملف المصدر، خيارات التحويل، وأي معرفات نسخة. هذا يضمن التفرد لكل تكوين.
 
-**س: ماذا لو تغير المستند بعد تخزينه في الذاكرة المؤقتة؟**  
-ج: قم بإبطال الذاكرة المؤقتة يدويًا (مثلاً، حذف المفتاح) أو استخدم TTL أقصر حتى تنتهي صلاحية البيانات القديمة بسرعة.
+**س: ماذا لو تغير المستند بعد تخزينه مؤقتًا؟**  
+ج: إبطال التخزين المؤقت يدويًا (مثلاً حذف المفتاح) أو استخدم TTL أقصر حتى تنتهي صلاحية البيانات القديمة بسرعة.
 
 **س: هل Redis هو الخيار الوحيد للتخزين المؤقت؟**  
 ج: لا، لكن Redis يوفر زمن استجابة منخفض، TTL مدمج، ودعم واسع لعملاء Java، مما يجعله خيارًا شائعًا لهذا السيناريو.
 
 **س: هل يزيد هذا من استهلاك الذاكرة على خادم التطبيق؟**  
-ج: قليل. العمل الثقيل يتم بواسطة Redis؛ التطبيق يحتفظ فقط باتصالات قصيرة العمر عبر Jedis.
+ج: الحد الأدنى. العملية الثقيلة تتم على Redis؛ التطبيق يحتفظ باتصالات قصيرة العمر عبر Jedis فقط.
 
 ## الخلاصة
-أصبح لديك الآن دليل **java redis caching** كامل يوضح كيفية تخزين المستندات في الذاكرة المؤقتة باستخدام Redis وGroupDocs.Conversion. من خلال حفظ الناتج المعروض في Redis، سـتـقـدـم **تحسين أداء العرض**، **تقليل وقت التحويل**، وتوفير تجربة أكثر سلاسة للمستخدمين النهائيين. جرّب قيم TTL مختلفة، راقب مقاييس الذاكرة المؤقتة، ووسّع النمط إلى صيغ مستندات أخرى مع نمو تطبيقك.
+أنت الآن تمتلك دليلًا كاملاً حول **java redis caching** يوضح كيفية تخزين المستندات مؤقتًا باستخدام Redis وGroupDocs.Conversion. من خلال حفظ الناتج المعروض في Redis، سـ **تحسن أداء العرض**، **تقلل زمن التحويل**، وتوفر تجربة أكثر سلاسة للمستخدمين النهائيين. جرب قيم TTL مختلفة، راقب مقاييس التخزين المؤقت، ووسع النمط إلى صيغ مستندات أخرى مع نمو تطبيقك.
 
----
-
-**Last Updated:** 2026-07-19  
-**Tested With:** GroupDocs.Conversion 25.2, Jedis 4.2.3  
-**Author:** GroupDocs
+**آخر تحديث:** 2026-10-21  
+**تم الاختبار مع:** GroupDocs.Conversion 25.2، Jedis 4.2.3  
+**المؤلف:** GroupDocs
 
 ```xml
 <repositories>
@@ -386,6 +390,13 @@ public class DocumentConversion {
 
 ## دروس ذات صلة
 
-- [تنفيذ ذاكرة مؤقتة مخصصة Java – ذاكرة GroupDocs Conversion](/conversion/java/cache-management/)
-- [كيفية استخدام ذاكرة Redis المؤقتة في Java مع GroupDocs.Conversion](/conversion/java/cache-management/redis-cache-java-groupdocs-conversion-guide/)
-- [كيفية تخزين الملفات في الذاكرة المؤقتة في Java مع GroupDocs.Conversion – دليل شامل لتحويل المستندات بكفاءة](/conversion/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/)
+- [Implement Custom Cache Java – GroupDocs Conversion Cache](/conversion/java/cache-management/)
+- [How to Use Redis Cache in Java with GroupDocs.Conversion](/conversion/java/cache-management/redis-cache-java-groupdocs-conversion-guide/)
+- [How to Cache Files in Java with GroupDocs.Conversion – A Comprehensive Guide for Efficient Document Conversion](/conversion/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/)
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

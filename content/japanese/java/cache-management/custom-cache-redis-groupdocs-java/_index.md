@@ -1,30 +1,28 @@
 ---
-date: '2026-07-19'
-description: ステップバイステップのjava redis cachingチュートリアルをご紹介します。このチュートリアルでは、RedisとGroupDocs.Conversionを統合し、rendering
-  performanceを向上させ、conversion timeを短縮し、cache managementを簡素化します。
+date: '2026-10-21'
+description: シンプルなJavaプロジェクトで、cache key Javaの作成方法とRedisをGroupDocs.Conversionと統合して、レンダリング性能を向上させ、変換時間を短縮し、TTLを設定する方法を学びます。
+images:
+- /java/cache-management/custom-cache-redis-groupdocs-java/og-image.png
 keywords:
+- create cache key java
 - java redis caching
-- boost rendering performance
-- configure redis ttl
-- reduce conversion time
-- cache documents java
-lastmod: '2026-07-19'
-og_description: GroupDocs.Conversionを使用したjava redis cachingを学びましょう。このチュートリアルでは、rendering
-  performanceを向上させ、conversion timeを短縮し、シンプルなJavaプロジェクトでRedis TTLを設定する方法を示します。
-og_image_alt: 'Guide: java redis caching with GroupDocs and Redis'
-og_title: java redis caching – JavaでRedisを使用したドキュメントキャッシュ
+- groupdocs conversion cache
+- redis ttl java
+lastmod: '2026-10-21'
+og_description: このステップバイステップガイドでは、cache key Javaの作成方法とRedisをGroupDocs.Conversionと統合してdocument
+  bytesをキャッシュし、レンダリング性能を向上させ、変換時間を短縮する方法を示します。TTLを設定し、速度向上を測定します。
+og_image_alt: 'Developer guide: create cache key Java using Redis and GroupDocs'
+og_title: Javaでキャッシュキーを作成 – RedisとGroupDocsでドキュメントをキャッシュ
 schemas:
 - author: GroupDocs
-  dateModified: '2026-07-19'
-  description: Discover a step‑by‑step java redis caching tutorial that integrates
-    Redis with GroupDocs.Conversion to boost rendering performance, reduce conversion
-    time, and simplify cache management.
-  headline: 'java redis caching: Cache Docs in Java with Redis'
+  dateModified: '2026-10-21'
+  description: Learn how to create cache key Java and integrate Redis with GroupDocs.Conversion
+    to boost rendering performance, reduce conversion time, and configure TTLs.
+  headline: Create cache key Java – cache docs with Redis and GroupDocs
   type: TechArticle
-- description: Discover a step‑by‑step java redis caching tutorial that integrates
-    Redis with GroupDocs.Conversion to boost rendering performance, reduce conversion
-    time, and simplify cache management.
-  name: 'java redis caching: Cache Docs in Java with Redis'
+- description: Learn how to create cache key Java and integrate Redis with GroupDocs.Conversion
+    to boost rendering performance, reduce conversion time, and configure TTLs.
+  name: Create cache key Java – cache docs with Redis and GroupDocs
   steps:
   - name: '**High‑traffic portals** – Serve frequently requested PDFs (catalogs, whitepapers)
       instantly.'
@@ -65,45 +63,49 @@ schemas:
     question: Does this increase memory usage on the application server?
   type: FAQPage
 tags:
+- create cache key java
 - java redis cache
-- GroupDocs.Conversion
+- groupdocs conversion
 - document rendering
-- performance optimization
-title: 'java redis caching: JavaでRedisを使用したドキュメントキャッシュ'
+title: Javaでキャッシュキーを作成 – RedisでJavaのドキュメントをキャッシュ
 type: docs
 url: /ja/java/cache-management/custom-cache-redis-groupdocs-java/
 weight: 1
 ---
 
-# java redis caching: JavaでRedisを使用したドキュメントキャッシュ
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
 
-モダンなウェブアプリケーションでは、同じ変換済みドキュメントを繰り返し提供することで CPU サイクルが無駄になり、応答時間が伸びてしまいます。**java redis caching** は、変換結果を高速なインメモリデータストアに保存することでこの問題を解決し、以降のリクエストを瞬時に返せるようにします。このチュートリアルでは、Redis を GroupDocs.Conversion のワークフローに組み込み、TTL を設定し、期待できるパフォーマンス向上を測定する方法を学びます。
+# Javaでキャッシュキーを作成 – RedisでJavaのドキュメントをキャッシュ
+
+モダンなウェブアプリケーションでは、同じ変換済みドキュメントを繰り返し提供することは CPU サイクルの無駄遣いとなり、応答時間を伸ばす原因となります。**Javaでキャッシュキーを作成**することで、変換結果を一度保存し、以降のリクエストで瞬時に取得できるようになります。このチュートリアルでは、Redis を GroupDocs.Conversion のワークフローに組み込み、信頼性の高いキャッシュキーを生成し、TTL を設定し、期待できるパフォーマンス向上を測定する方法を示します。
 
 ## クイック回答
-- **このチュートリアルで扱う内容は？** Redis と GroupDocs.Conversion を統合する完全な java redis caching チュートリアルです。  
-- **なぜ Redis を使うのか？** ミリ秒未満のレイテンシを提供し、TTL の有効期限をサポートし、複数のアプリインスタンスにまたがって水平スケーリングできます。  
-- **GroupDocs のライセンスは必要か？** テスト用にはトライアルまたは一時ライセンスで問題ありません。本番環境ではフルライセンスが必要です。  
-- **主な手順は？** Maven 依存関係を追加し、`JedisPool` を設定し、キャッシュヘルパーメソッドを作成し、変換パイプラインにキャッシュを組み込みます。  
-- **対応している Java バージョンは？** Java 8+（最新の GroupDocs.Conversion リリースと互換性あり）。
+- **このチュートリアルでカバーする内容は？** Redis と GroupDocs.Conversion を統合した完全な Java Redis キャッシュチュートリアルです。  
+- **Redis を使用する理由は？** ミリ秒未満のレイテンシを提供し、TTL の有効期限をサポートし、複数のアプリインスタンスにまたがって水平スケーリングできます。  
+- **GroupDocs のライセンスは必要ですか？** テストにはトライアルまたは一時ライセンスで問題ありませんが、本番環境ではフルライセンスが必要です。  
+- **主な手順は何ですか？** Maven 依存関係を追加し、`JedisPool` を設定し、キャッシュヘルパーメソッドを作成し、キャッシュを変換パイプラインに組み込みます。  
+- **サポートされている Java バージョンは？** Java 8 以上（最新の GroupDocs.Conversion リリースと互換性あり）。
 
-## Redisでドキュメントをキャッシュするとは？
-Redis でドキュメントをキャッシュするとは、変換後のバイナリ出力（例: PDF バイト配列）を Redis に永続化し、同一の将来リクエストがキャッシュされたバイト列を取得できるようにすることです。これにより冗長な CPU 作業が排除され、ネットワーク帯域が削減され、エンドユーザー体験が向上します。
+## Redis を使用したドキュメントのキャッシュとは？
+Redis を使用したドキュメントのキャッシュとは、変換のバイナリ出力（例: PDF バイト配列）を Redis に永続化し、同一の将来のリクエストがキャッシュされたバイトを取得できるようにすることです。これにより、冗長な CPU 作業が排除され、ネットワーク帯域が削減され、エンドユーザー体験がスムーズになります。
 
-## JavaでRedisキャッシュを実装する理由は？
-ドキュメントを一度だけロードし、結果を保存して、再リクエスト時に即座に提供できます。Redis バックのキャッシュは、頻繁にアクセスされるファイルの **変換時間を最大 90 % 短縮** し、**CPU 使用率を削減** してインフラコストを下げ、クラスタ環境のすべてのアプリケーションノードで **単一の真実の情報源** を提供します。
+## なぜ Java で Redis キャッシュを実装するのか？
+ドキュメントを一度読み込み、結果を保存し、再リクエスト時に瞬時に提供することで、頻繁にアクセスされるファイルの変換時間を最大 **90 %** 短縮し、CPU 使用率を削減してインフラコストを低減し、クラスタ環境のすべてのアプリケーションノードで **単一の真実の情報源** を提供できます。Redis は単一ノードで 1 秒あたり 200 k 超の操作を処理でき、ミリ秒未満の検索を保証します。
 
 ## 前提条件
-- **GroupDocs.Conversion** – バージョン 25.2 以上（**120+** の入力・出力フォーマットに対応）。  
+- **GroupDocs.Conversion** – バージョン 25.2 以上（**120+** の入力・出力フォーマットをサポート）。  
 - **Jedis**（Java 用公式 Redis クライアント）。  
 - 稼働中の Redis インスタンス（ローカル開発ではデフォルトの `localhost:6379` を使用可能）。  
 - 依存関係管理のための Maven。  
 - Java の例外処理と I/O ストリームに関する基本的な知識。
 
-## Java向けGroupDocs.Conversionの設定
+## Java 用 GroupDocs.Conversion の設定
 
-`GroupDocs.Conversion` は、レイアウト保持、フォント埋め込み、画像抽出を自動的に処理しながら、幅広いフォーマットへドキュメントを変換・レンダリングする Java ライブラリです。
+`GroupDocs.Conversion` は、レイアウト保持、フォント埋め込み、画像抽出を自動的に処理しながら、ドキュメントを幅広いフォーマットに変換・レンダリングする Java ライブラリです。
 
-`pom.xml` に GroupDocs リポジトリと依存関係を追加します：
+Add the GroupDocs repository and dependency to your `pom.xml`:
 
 ```xml
 <repositories>
@@ -128,9 +130,9 @@ Redis でドキュメントをキャッシュするとは、変換後のバイ�
 ```
 
 ### ライセンス取得
-**Free Trial**、**Temporary License**（評価用）を開始するか、または本番利用向けにフル **License** を購入できます。
+**Free Trial** で開始し、評価用に **Temporary License** をリクエストするか、本番利用のためにフル **License** を購入できます。
 
-Java コードで GroupDocs.Conversion を初期化します：
+Initialize GroupDocs.Conversion in your Java code:
 
 ```java
 import com.groupdocs.conversion.*;
@@ -142,13 +144,13 @@ ConversionApi conversionApi = new ConversionApi(config);
 
 ## 実装ガイド
 
-### Redisを使用したカスタムキャッシュの作成
+### Redis を使用したカスタムキャッシュの作成
 
 #### 概要
-カスタム Redis キャッシュは、レンダリングされたドキュメントバイト列を保持し、再リクエスト時に即座に取得できるようにします。
+カスタム Redis キャッシュは、レンダリングされたドキュメントバイトを保持し、再リクエスト時に瞬時に取得できるようにします。
 
-#### JedisPoolの設定
-`JedisPool` は再利用可能な Redis 接続のスレッドセーフプールで、ソケットオーバーヘッドを最小化しスループットを向上させます。
+#### JedisPool の設定
+`JedisPool` は、再利用可能な Redis 接続のスレッドセーフプールで、ソケットオーバーヘッドを最小化し、スループットを向上させます。
 
 ```java
 import redis.clients.jedis.JedisPool;
@@ -194,8 +196,8 @@ public class RedisCacheHelper {
 }
 ```
 
-#### GroupDocs.Conversionとの統合
-キャッシュを変換ワークフローに組み込みます。メソッドはまずキャッシュを確認し、ヒットしなければ変換を実行して結果を保存し、バイト列を返します。
+#### GroupDocs.Conversion との統合
+これでキャッシュを変換ワークフローに組み込みます。メソッドはまずキャッシュを確認し、ヒットしなければ変換を実行し、結果を保存してバイトを返します。
 
 ```java
 import com.groupdocs.conversion.options.convertoptions.PdfConvertOptions;
@@ -231,58 +233,61 @@ public class DocumentService {
 }
 ```
 
-## java redis cachingの実装方法は？
-`ConversionApi` は GroupDocs.Conversion の主要クラスで、ドキュメント変換操作を実行します。
+## Redis キャッシュ用の Java キャッシュキーの作成方法は？
+ソースファイルパス、選択した `ConvertOptions` の値、任意のバージョンタグを連結し、SHA‑256 でハッシュすることで決定的なキーを生成します。このキーは各変換設定を一意に識別し、同一リクエストはキャッシュにヒットし、異なるオプションは別エントリとして生成されます。
 
-ソースドキュメントをロードし、決定的なキャッシュキーを生成して Redis で検索し、キーが存在しない場合にのみ `ConversionApi` を呼び出します。このパターンにより、各ユニーク変換は一度だけ実行され、設定した TTL の間キャッシュから提供されます。
+`ConversionApi` クラスは GroupDocs.Conversion の中心コンポーネントで、ドキュメント変換を実行します。キャッシュキーを作成し Redis で検索し、キーが存在しない場合にのみ `ConversionApi.convert` を呼び出すことで、変換時間とサーバー負荷を大幅に削減できます。
+
+## Java で Redis キャッシュを実装する方法は？
+`ConversionApi` は GroupDocs.Conversion の主要クラスで、ドキュメント変換操作を実行します。ソースドキュメントをロードし、決定的なキャッシュキーを生成し、Redis で検索し、キーが存在しない場合にのみ `ConversionApi` を呼び出します。このパターンにより、各ユニークな変換は一度だけ実行され、設定された TTL の間キャッシュから提供されます。
 
 ## トラブルシューティングのヒント
-- Redis サーバーへの接続が可能か確認（`redis-cli ping` が `PONG` を返すはず）。  
-- `JedisPool` のホストとポートが Redis デプロイと一致していることを確認。  
-- キャッシュ呼び出しを try‑catch でラップし、接続障害が変換フローを破壊しないようにする。  
-- Redis のメモリ使用状況を監視（`INFO memory`）し、`maxmemory` ポリシー（例: `volatile-lru`）を設定して古いエントリを適切に削除。  
-- JVM で `OutOfMemoryError` が発生した場合はヒープサイズを増やすか、`-XX:+UseCompressedOops` を有効化。
+- Redis サーバーに接続できることを確認します（`redis-cli ping` が `PONG` を返すはずです）。  
+- `JedisPool` のホストとポートが Redis デプロイと一致していることを確認してください。  
+- キャッシュ呼び出しを try‑catch ブロックでラップし、接続障害が発生しても変換フローが中断しないようにします。  
+- Redis のメモリを監視（`INFO memory`）し、`maxmemory` ポリシー（例: `volatile-lru`）を設定して古いエントリを適切に削除します。  
+- JVM で `OutOfMemoryError` が発生した場合は、ヒープサイズを増やすか `-XX:+UseCompressedOops` を有効にしてください。
 
-## 実用的な応用例
+## 実用的な適用例
 
-1. **高トラフィックポータル** – カタログやホワイトペーパーなど頻繁に要求される PDF を即座に提供。  
-2. **エンタープライズ DMS** – 同一の契約書やポリシードキュメントを繰り返し閲覧するユーザーの負荷を軽減。  
-3. **E‑コマース** – 請求書や商品カタログをキャッシュしてチェックアウト速度を向上。  
-4. **学習プラットフォーム** – 講義ノートや電子書籍を再レンダリングせずに配信。  
+1. **高トラフィックポータル** – 頻繁にリクエストされる PDF（カタログ、ホワイトペーパー）を瞬時に提供。  
+2. **エンタープライズ DMS** – ユーザーが同じ契約書やポリシードキュメントを繰り返し閲覧する際の負荷を軽減。  
+3. **Eコマース** – 生成された請求書や商品カタログをキャッシュし、チェックアウトを高速化。  
+4. **学習プラットフォーム** – 講義ノートや電子書籍を、学生ごとのリクエストごとに再レンダリングせずに提供。  
 5. **法務サービス** – ケースファイルの配布を高速化し、ストレージコストを低減。
 
 ## パフォーマンス上の考慮点
 
-- **Redis のチューニング** – `maxmemory` を調整し、`allkeys-lru` などの除外ポリシーを選択し、トラフィックパターンに合わせて `timeout` を設定。  
-- **キャッシュヒット/ミス率の追跡** – `INFO stats` や `keyspace_hits` / `keyspace_misses` カウンタを使用して TTL を微調整。  
-- **JVM ヒープサイズ** – GroupDocs のバッファを収容できるようにする。目安は同時変換ペイロード 100 MB あたり 1 GB ヒープ。  
-- **バッチ変換** – 多数のファイルを変換する際は、スレッドごとに単一の `Jedis` インスタンスを再利用してソケットの churn を最小化。
+- **Redis のチューニング** – `maxmemory` を調整し、`allkeys-lru` などのエビクションポリシーを選択し、トラフィックパターンに応じて適切な `timeout` 値を設定します。  
+- **キャッシュヒット/ミス率の追跡** – `INFO stats` または Redis の `keyspace_hits` / `keyspace_misses` カウンタを使用して TTL を微調整します。  
+- **JVM ヒープサイズ** – ヒープが GroupDocs のバッファを収容できるようにします。目安として、同時変換ペイロード 100 MB あたり 1 GB のヒープが推奨されます。  
+- **バッチ変換** – 多数のファイルを変換する際は、スレッドごとに単一の `Jedis` インスタンスを再利用してソケットの負荷を最小化します。
 
 ## よくある質問
 
-**Q: このアプローチは他の GroupDocs 出力フォーマットでも使用できますか？**  
-A: もちろんです。同じキャッシュパターンは DOCX、HTML、画像などでも機能します – `ConvertOptions` の型を変更するだけです。
+**Q: このアプローチを他の GroupDocs 出力フォーマットでも使用できますか？**  
+A: もちろんです。同じキャッシュパターンは DOCX、HTML、画像などにも適用でき、`ConvertOptions` の型を変更するだけです。
 
 **Q: 良いキャッシュキーの選び方は？**  
-A: ソースファイルパス、変換オプション、バージョン識別子を組み合わせます。これにより設定ごとの一意性が保証されます。
+A: ソースファイルパス、変換オプション、バージョン識別子を組み合わせます。これにより構成ごとの一意性が保証されます。
 
-**Q: ドキュメントがキャッシュ後に変更された場合は？**  
-A: キーを手動で削除してキャッシュを無効化するか、短めの TTL を設定して古いデータがすぐに期限切れになるようにします。
+**Q: キャッシュ後にドキュメントが変更された場合は？**  
+A: キーを手動で削除する（例: キーを削除）か、短い TTL を設定して古いデータがすぐに期限切れになるようにします。
 
-**Q: Redis 以外のキャッシュ手段はありますか？**  
-A: ありますが、Redis は低レイテンシ、組み込み TTL、豊富な Java クライアントサポートを提供するため、このシナリオで人気があります。
+**Q: キャッシュに Redis だけが唯一の選択肢ですか？**  
+A: いいえ、他のオプションもありますが、Redis は低レイテンシ、組み込み TTL、豊富な Java クライアントサポートを提供するため、このシナリオで人気があります。
 
-**Q: アプリケーションサーバーのメモリ使用量は増えますか？**  
-A: 最小限です。重い処理は Redis が担当し、アプリ側は Jedis 経由の短命接続だけを保持します。
+**Q: これによりアプリケーションサーバーのメモリ使用量は増えますか？**  
+A: 最小限です。重い処理は Redis が担当し、アプリは Jedis 経由の短命接続だけを保持します。
 
 ## 結論
-これで **java redis caching** の完全なチュートリアルが完成しました。Redis と GroupDocs.Conversion を使ってドキュメントをキャッシュする方法を示しました。レンダリング結果を Redis に永続化することで、**描画パフォーマンスが向上**し、**変換時間が短縮**され、エンドユーザーによりスムーズな体験を提供できます。さまざまな TTL 値を試し、キャッシュ指標を監視し、アプリケーションが成長するにつれて他のドキュメント形式にもパターンを拡張してください。
+これで、Redis と GroupDocs.Conversion を使用してドキュメントをキャッシュする完全な **java redis caching** チュートリアルが完成しました。レンダリング結果を Redis に永続化することで、**レンダリング性能が向上**し、**変換時間が短縮**され、エンドユーザーによりスムーズな体験を提供できます。さまざまな TTL 値を試し、キャッシュ指標を監視し、アプリケーションの成長に合わせて他のドキュメント形式にもパターンを拡張してください。
 
 ---
 
-**Last Updated:** 2026-07-19  
-**Tested With:** GroupDocs.Conversion 25.2, Jedis 4.2.3  
-**Author:** GroupDocs
+**最終更新日:** 2026-10-21  
+**テスト環境:** GroupDocs.Conversion 25.2, Jedis 4.2.3  
+**作者:** GroupDocs
 
 ```xml
 <repositories>
@@ -385,6 +390,13 @@ public class DocumentConversion {
 
 ## 関連チュートリアル
 
-- [Javaでカスタムキャッシュを実装 – GroupDocs Conversion Cache](/conversion/java/cache-management/)
-- [GroupDocs.Conversionと共にJavaでRedisキャッシュを使用する方法](/conversion/java/cache-management/redis-cache-java-groupdocs-conversion-guide/)
-- [GroupDocs.ConversionでJavaのファイルをキャッシュする方法 – 効率的なドキュメント変換のための包括的ガイド](/conversion/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/)
+- [カスタムキャッシュ Java の実装 – GroupDocs Conversion キャッシュ](/conversion/java/cache-management/)
+- [Java と GroupDocs.Conversion で Redis キャッシュを使用する方法](/conversion/java/cache-management/redis-cache-java-groupdocs-conversion-guide/)
+- [Java と GroupDocs.Conversion でファイルをキャッシュする方法 – 効率的なドキュメント変換のための包括的ガイド](/conversion/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/)
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}
