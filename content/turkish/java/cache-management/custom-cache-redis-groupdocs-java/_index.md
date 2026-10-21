@@ -1,32 +1,31 @@
 ---
-date: '2026-07-19'
-description: Adım adım java redis caching öğreticisini keşfedin; bu öğretici, Redis'i
-  GroupDocs.Conversion ile entegre ederek render performansını artırır, dönüşüm süresini
-  azaltır ve önbellek yönetimini basitleştirir.
+date: '2026-10-21'
+description: Java'da cache key oluşturmayı öğrenin ve Redis'i GroupDocs.Conversion
+  ile entegre ederek render performansını artırın, dönüşüm süresini azaltın ve basit
+  bir Java projesinde TTL'leri yapılandırın.
+images:
+- /java/cache-management/custom-cache-redis-groupdocs-java/og-image.png
 keywords:
+- create cache key java
 - java redis caching
-- boost rendering performance
-- configure redis ttl
-- reduce conversion time
-- cache documents java
-lastmod: '2026-07-19'
-og_description: GroupDocs.Conversion ile java redis caching öğrenin. Bu öğretici,
-  render performansını artırmayı, dönüşüm süresini azaltmayı ve basit bir Java projesinde
-  Redis TTL yapılandırmayı gösterir.
-og_image_alt: 'Guide: java redis caching with GroupDocs and Redis'
-og_title: java redis caching – Java ile Redis'te Cache Docs
+- groupdocs conversion cache
+- redis ttl java
+lastmod: '2026-10-21'
+og_description: Bu adım adım rehberde Java'da cache key oluşturmayı öğrenin; Redis'i
+  GroupDocs.Conversion ile entegre ederek belge baytlarını cache'leyin, render performansını
+  artırın ve dönüşüm süresini azaltın. TTL'leri yapılandırın ve hız artışını ölçün.
+og_image_alt: 'Developer guide: create cache key Java using Redis and GroupDocs'
+og_title: Java'da cache key oluşturma – Redis ve GroupDocs ile belgeleri cache'leyin
 schemas:
 - author: GroupDocs
-  dateModified: '2026-07-19'
-  description: Discover a step‑by‑step java redis caching tutorial that integrates
-    Redis with GroupDocs.Conversion to boost rendering performance, reduce conversion
-    time, and simplify cache management.
-  headline: 'java redis caching: Cache Docs in Java with Redis'
+  dateModified: '2026-10-21'
+  description: Learn how to create cache key Java and integrate Redis with GroupDocs.Conversion
+    to boost rendering performance, reduce conversion time, and configure TTLs.
+  headline: Create cache key Java – cache docs with Redis and GroupDocs
   type: TechArticle
-- description: Discover a step‑by‑step java redis caching tutorial that integrates
-    Redis with GroupDocs.Conversion to boost rendering performance, reduce conversion
-    time, and simplify cache management.
-  name: 'java redis caching: Cache Docs in Java with Redis'
+- description: Learn how to create cache key Java and integrate Redis with GroupDocs.Conversion
+    to boost rendering performance, reduce conversion time, and configure TTLs.
+  name: Create cache key Java – cache docs with Redis and GroupDocs
   steps:
   - name: '**High‑traffic portals** – Serve frequently requested PDFs (catalogs, whitepapers)
       instantly.'
@@ -67,45 +66,49 @@ schemas:
     question: Does this increase memory usage on the application server?
   type: FAQPage
 tags:
+- create cache key java
 - java redis cache
-- GroupDocs.Conversion
+- groupdocs conversion
 - document rendering
-- performance optimization
-title: 'java redis caching: Java ile Redis''te Cache Docs'
+title: Java'da cache key oluşturma – Java'da Redis ile belgeleri cache'leyin
 type: docs
 url: /tr/java/cache-management/custom-cache-redis-groupdocs-java/
 weight: 1
 ---
 
-# java redis caching: Java ile Redis'te Belgeleri Önbellekleme
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
 
-Modern web uygulamalarında aynı dönüştürülmüş belgeyi tekrar tekrar sunmak CPU döngülerini boşa harcayabilir ve yanıt sürelerini artırabilir. **java redis caching** bu sorunu, dönüşüm çıktısını hızlı bir bellek içi veri deposunda saklayarak çözer, böylece sonraki istekler anında hizmet verir. Bu öğreticide Redis'i GroupDocs.Conversion iş akışına nasıl entegre edeceğinizi, TTL'leri nasıl yapılandıracağınızı ve bekleyebileceğiniz performans artışlarını nasıl ölçeceğinizi öğreneceksiniz.
+# Java’da Önbellek Anahtarı Oluşturma – Redis ile Java’da Belgeleri Önbellekle
+
+Modern web uygulamalarında aynı dönüştürülmüş belgeyi tekrar tekrar sunmak CPU döngülerini boşa harcayabilir ve yanıt sürelerini uzatabilir. **Java’da bir önbellek anahtarı oluşturmak**, dönüşüm çıktısını bir kez depolamanızı ve sonraki isteklerde anında almanızı sağlar. Bu öğretici, Redis’i GroupDocs.Conversion iş akışına nasıl entegre edeceğinizi, güvenilir önbellek anahtarları oluşturmayı, TTL’leri yapılandırmayı ve bekleyebileceğiniz performans artışlarını ölçmeyi gösterir.
 
 ## Hızlı Yanıtlar
-- **Bu öğretici neyi kapsıyor?** Redis'i GroupDocs.Conversion ile bütünleştiren eksiksiz bir java redis caching öğreticisi.  
-- **Neden Redis kullanmalı?** Milisaniyenin altındaki gecikme sağlar, TTL süresi sonlandırmayı destekler ve birden çok uygulama örneği arasında yatay olarak ölçeklenir.  
+- **Bu öğretici neyi kapsıyor?** Redis'i GroupDocs.Conversion ile entegre eden eksiksiz bir java redis önbellekleme öğreticisi.  
+- **Neden Redis kullanmalı?** Milisaniyenin altında gecikme sağlar, TTL süresi sonlandırmayı destekler ve birden çok uygulama örneği arasında yatay olarak ölçeklenir.  
 - **GroupDocs lisansına ihtiyacım var mı?** Test için bir deneme veya geçici lisans yeterlidir; üretim dağıtımları için tam lisans gereklidir.  
-- **Ana adımlar nelerdir?** Maven bağımlılıklarını ekleyin, bir `JedisPool` yapılandırın, önbellek yardımcı metodlarını oluşturun ve önbelleği dönüşüm hattına bağlayın.  
-- **Hangi Java sürümü destekleniyor?** Java 8+ (en son GroupDocs.Conversion sürümleriyle uyumlu).
+- **Ana adımlar nelerdir?** Maven bağımlılıklarını ekleyin, bir `JedisPool` yapılandırın, önbellek yardımcı yöntemleri oluşturun ve önbelleği dönüşüm hattına bağlayın.  
+- **Hangi Java sürümü destekleniyor?** Java 8+ (en son GroupDocs.Conversion sürümleriyle uyumludur).
 
-## Redis ile belge önbellekleme nedir?
-Redis ile belge önbellekleme, bir dönüşümün ikili çıktısını (ör. bir PDF bayt dizisi) Redis'te saklamak anlamına gelir; böylece aynı gelecekteki istekler, dönüşüm motorunu yeniden çalıştırmak yerine önbellekteki baytları alabilir. Bu, gereksiz CPU çalışmasını ortadan kaldırır, ağ bant genişliğini azaltır ve daha sorunsuz bir son‑kullanıcı deneyimi sunar.
+## Redis ile Belgeleri Önbellekleme Nedir?
+Redis ile belgeleri önbellekleme, bir dönüşümün ikili çıktısını (ör. bir PDF bayt dizisi) Redis'te saklamak anlamına gelir, böylece aynı gelecekteki istekler önbellekteki baytları yeniden dönüşüm motorunu çalıştırmadan alabilir. Bu, gereksiz CPU çalışmasını ortadan kaldırır, ağ bant genişliğini azaltır ve daha sorunsuz bir son‑kullanıcı deneyimi sunar.
 
-## Java'da Redis önbelleği neden uygulanmalı?
-Belgenizi bir kez yükleyin, sonucu saklayın ve tekrar isteklerde anında sunun. Redis‑destekli önbellekleme, sık erişilen dosyalar için **dönüşüm süresini %90’a kadar** azaltabilir, **CPU kullanımını azaltarak altyapı maliyetlerini düşürebilir** ve küme ortamındaki tüm uygulama düğümleri için **tek bir doğruluk kaynağı** sağlar.
+## Java’da Redis Önbelleği Neden Uygulanmalı?
+Bir belgeyi bir kez yükleyip sonucu saklamak ve tekrar gelen isteklerde anında sunmak, sık erişilen dosyalar için **dönüşüm süresini %90’a kadar** azaltabilir, **CPU kullanımını azaltarak altyapı maliyetlerini düşürebilir** ve **küme ortamındaki tüm uygulama düğümleri için tek bir gerçek kaynak** sağlar. Redis, tek bir düğümde saniyede 200 k'den fazla işlem gerçekleştirebilir ve milisaniyenin altında arama garantiler.
 
 ## Önkoşullar
 - **GroupDocs.Conversion** – sürüm 25.2 ve üzeri (**120+** giriş ve çıkış formatını destekler).  
 - **Jedis** (Java için resmi Redis istemcisi).  
 - Çalışan bir Redis örneği (yerel geliştirme için varsayılan `localhost:6379` kullanılabilir).  
 - Bağımlılık yönetimi için Maven.  
-- Java istisna yönetimi ve I/O akışlarıyla temel aşinalık.
+- Java istisna yönetimi ve I/O akışları hakkında temel bilgi.
 
 ## Java için GroupDocs.Conversion Kurulumu
 
-`GroupDocs.Conversion` geniş bir format yelpazesine belge dönüştürme ve render etme işlevi sunan, düzen koruma, font gömme ve görüntü çıkarma gibi işlemleri otomatik yapan bir Java kütüphanesidir.
+`GroupDocs.Conversion` Java kütüphanesi, belgeleri geniş bir format yelpazesine dönüştürür ve render eder, düzen koruması, font gömme ve görüntü çıkarımı gibi işlemleri otomatik olarak yapar.
 
-Add the GroupDocs repository and dependency to your `pom.xml`:
+GroupDocs deposunu ve bağımlılığını `pom.xml` dosyanıza ekleyin:
 
 ```xml
 <repositories>
@@ -129,10 +132,10 @@ Add the GroupDocs repository and dependency to your `pom.xml`:
 </dependencies>
 ```
 
-### Lisans edinme
+### Lisans Edinme
 **Free Trial** ile başlayabilir, değerlendirme için **Temporary License** isteyebilir veya üretim kullanımı için tam **License** satın alabilirsiniz.
 
-Initialize GroupDocs.Conversion in your Java code:
+Java kodunuzda GroupDocs.Conversion'ı başlatın:
 
 ```java
 import com.groupdocs.conversion.*;
@@ -147,10 +150,10 @@ ConversionApi conversionApi = new ConversionApi(config);
 ### Redis Kullanarak Özel Önbellek Oluşturma
 
 #### Genel Bakış
-Özel bir Redis önbelleği, render edilmiş belge baytlarını tutar ve tekrar isteklerde anlık geri getirme sağlar.
+Özel bir Redis önbelleği, render edilmiş belge baytlarını tutar ve tekrar isteklerde anında alınmasını sağlar.
 
 #### JedisPool Kurulumu
-`JedisPool` yeniden kullanılabilir Redis bağlantılarının iş parçacığı‑güvenli havuzudur; soket yükünü azaltır ve işlem hacmini artırır.
+`JedisPool`, yeniden kullanılabilir Redis bağlantılarının iş parçacığı‑güvenli havuzudur; soket yükünü azaltır ve verimliliği artırır.
 
 ```java
 import redis.clients.jedis.JedisPool;
@@ -163,8 +166,8 @@ poolConfig.setMinIdle(2);                 // minimum idle connections
 JedisPool jedisPool = new JedisPool(poolConfig, "localhost", 6379);
 ```
 
-#### Önbellek Verilerini Saklama ve Geri Getirme
-Aşağıdaki yardımcı metodlar, bir bayt dizisini güvenli depolama için Base64 stringine serileştirir ve tekrar bayt dizisine dönüştürür.
+#### Önbellek Verilerini Saklama ve Getirme
+Aşağıdaki yardımcı yöntemler, bir bayt dizisini güvenli depolama için Base64 stringine serileştirir ve geri bir bayt dizisine dönüştürür.
 
 ```java
 import java.util.Base64;
@@ -197,7 +200,7 @@ public class RedisCacheHelper {
 ```
 
 #### GroupDocs.Conversion ile Entegrasyon
-Şimdi önbelleği dönüşüm iş akışına bağlayın. Metod önce önbelleği kontrol eder; bir eksik durumunda dönüşümü gerçekleştirir, sonucu saklar ve baytları döndürür.
+Şimdi önbelleği dönüşüm iş akışına bağlayın. Metot önce önbelleği kontrol eder; eğer bulunamazsa dönüşümü gerçekleştirir, sonucu saklar ve baytları döndürür.
 
 ```java
 import com.groupdocs.conversion.options.convertoptions.PdfConvertOptions;
@@ -233,54 +236,59 @@ public class DocumentService {
 }
 ```
 
-## java redis caching nasıl uygulanır?
-`ConversionApi`, GroupDocs.Conversion içinde belge dönüşüm işlemlerini yürüten ana sınıftır.
+## Redis Önbellekleme için Java’da Önbellek Anahtarı Nasıl Oluşturulur?
+Kaynak dosya yolunu, seçilen `ConvertOptions` değerlerini ve isteğe bağlı bir sürüm etiketini birleştirerek deterministik bir anahtar oluşturun, ardından bu stringi SHA‑256 ile hashleyin. Bu anahtar, her dönüşüm konfigürasyonunu benzersiz şekilde tanımlar; aynı istekler önbelleğe yönlendirilirken farklı seçenekler ayrı girişler oluşturur.
 
-Kaynak belgenizi yükleyin, deterministik bir önbellek anahtarı oluşturun, Redis'te anahtarı arayın ve anahtar yoksa `ConversionApi`'yi çağırın. Bu desen, her benzersiz dönüşümün yalnızca bir kez yapılmasını ve yapılandırılmış TTL süresi boyunca önbellekten sunulmasını garanti eder.
+`ConversionApi` sınıfı, GroupDocs.Conversion içinde belge dönüşümlerini yürüten çekirdek bileşendir. Bir önbellek anahtarı oluşturabilir, Redis'te arayabilir ve anahtar eksikse `ConversionApi.convert` metodunu çağırarak dönüşüm süresini ve sunucu yükünü büyük ölçüde azaltabilirsiniz.
+
+## Java Redis Önbellekleme Nasıl Uygulanır?
+`ConversionApi`, GroupDocs.Conversion içinde belge dönüşüm işlemlerini yürüten birincil sınıftır. Kaynak belgenizi yükleyin, deterministik bir önbellek anahtarı oluşturun, Redis'te arayın ve anahtar yoksa `ConversionApi`'yi çağırın. Bu desen, her benzersiz dönüşümün yalnızca bir kez yapılmasını ve TTL süresi boyunca önbellekten sunulmasını garanti eder.
 
 ## Sorun Giderme İpuçları
-- Redis sunucusunun erişilebilir olduğunu doğrulayın (`redis-cli ping` `PONG` döndürmelidir).  
-- `JedisPool` ana bilgisayar ve bağlantı noktasının Redis dağıtımınızla eşleştiğinden emin olun.  
-- Bağlantı sorunlarını ele almak için önbellek çağrılarını try‑catch bloklarıyla sarın, dönüşüm akışını kesintiye uğratmadan.  
-- Redis belleğini (`INFO memory`) izleyin ve eski girişleri nazikçe atmak için `maxmemory` politikalarını (ör. `volatile-lru`) ayarlayın.  
-- JVM'de `OutOfMemoryError` alırsanız, yığın boyutunu artırın veya `-XX:+UseCompressedOops` etkinleştirin.
+- Redis sunucusunun erişilebilir olduğunu doğrulayın (`redis-cli ping` komutu `PONG` döndürmelidir).  
+- `JedisPool` ana bilgisayar ve portunun Redis dağıtımınızla eşleştiğinden emin olun.  
+- Bağlantı sorunlarını yönetmek için önbellek çağrılarını try‑catch bloklarıyla sarın, böylece dönüşüm akışı kesilmez.  
+- Redis belleğini (`INFO memory`) izleyin ve eski girişleri nazikçe silmek için `maxmemory` politikalarını (ör. `volatile-lru`) ayarlayın.  
+- JVM'de `OutOfMemoryError` alırsanız, yığını (heap) artırın veya `-XX:+UseCompressedOops` etkinleştirin.
 
 ## Pratik Uygulamalar
 
 1. **Yüksek trafikli portallar** – Sık istenen PDF'leri (kataloglar, teknik belgeler) anında sunun.  
 2. **Kurumsal DMS** – Kullanıcılar aynı sözleşme veya politika belgelerini tekrar tekrar görüntülediğinde yükü azaltın.  
 3. **E‑ticaret** – Oluşturulan faturaları veya ürün kataloglarını önbelleğe alarak ödeme sürecini hızlandırın.  
-4. **Eğitim platformları** – Ders notlarını ve e‑kitapları her öğrenci talebinde yeniden işleme yapmadan sunun.  
-5. **Hukuki hizmetler** – Dava dosyalarının dağıtımını hızlandırın, depolama maliyetlerini düşük tutun.
+4. **Eğitim platformları** – Her öğrenci talebinde yeniden render etmeden ders notları ve e‑kitapları sunun.  
+5. **Hukuki hizmetler** – Dava dosyalarının dağıtımını hızlandırın ve depolama maliyetlerini düşük tutun.
 
 ## Performans Düşünceleri
 
-- **Redis'i ayarlayın** – `maxmemory` değerini düzenleyin, `allkeys-lru` gibi bir atma politikası seçin ve trafik modelinize göre uygun `timeout` değerlerini ayarlayın.  
-- **Önbellek isabet/başarısızlık oranlarını izleyin** – TTL'leri ince ayar yapmak için `INFO stats` veya Redis'in `keyspace_hits` / `keyspace_misses` sayaçlarını kullanın.  
-- **JVM yığın boyutu** – Yığının GroupDocs tamponlarını kaldırabildiğinden emin olun; genel kural, eşzamanlı dönüşüm yükü başına 100 MB için 1 GB yığın.  
+- **Redis'i ayarlayın** – `maxmemory` değerini düzenleyin, `allkeys-lru` gibi bir boşaltma politikası seçin ve trafik modelinize göre uygun `timeout` değerlerini ayarlayın.  
+- **Önbellek isabet/başarısızlık oranlarını izleyin** – `INFO stats` veya Redis'in `keyspace_hits` / `keyspace_misses` sayaçlarını kullanarak TTL'leri ince ayar yapın.  
+- **JVM yığın boyutu** – Yığının GroupDocs tamponlarını barındırabildiğinden emin olun; genel bir kural, aynı anda 100 MB dönüşüm yükü için 1 GB yığın ayrılmasıdır.  
 - **Toplu dönüşümler** – Çok sayıda dosya dönüştürürken, soket kullanımını azaltmak için her iş parçacığı başına tek bir `Jedis` örneği yeniden kullanın.
 
-## Sıkça Sorulan Sorular
+## Sık Sorulan Sorular
 
 **S: Bu yaklaşımı diğer GroupDocs çıktı formatlarıyla kullanabilir miyim?**  
-C: Kesinlikle. Aynı önbellek deseni DOCX, HTML, görüntüler ve daha fazlası için çalışır – sadece `ConvertOptions` tipini değiştirin.
+C: Kesinlikle. Aynı önbellekleme deseni DOCX, HTML, görüntüler ve daha fazlası için çalışır – sadece `ConvertOptions` tipini değiştirin.
 
 **S: İyi bir önbellek anahtarı nasıl seçilir?**  
-C: Kaynak dosya yolu, dönüşüm seçenekleri ve varsa sürüm tanımlayıcılarını birleştirin. Bu, yapılandırma başına benzersizliği garanti eder.
+C: Kaynak dosya yolunu, dönüşüm seçeneklerini ve varsa sürüm tanımlayıcılarını birleştirin. Bu, her konfigürasyon için benzersizliği garantiler.
 
 **S: Bir belge önbelleğe alındıktan sonra değişirse ne olur?**  
 C: Önbelleği manuel olarak geçersiz kılın (ör. anahtarı silin) veya eski verilerin hızlıca süresi dolması için daha kısa bir TTL kullanın.
 
-**S: Önbellekleme için tek seçenek Redis mi?**  
-C: Hayır, ancak Redis düşük gecikme, yerleşik TTL ve geniş Java istemci desteği sunar, bu da onu bu senaryo için popüler bir seçim yapar.
+**S: Redis tek önbellek seçeneği mi?**  
+C: Hayır, ancak Redis düşük gecikme, yerleşik TTL ve geniş Java istemci desteği sunar; bu da onu bu senaryo için popüler bir seçim yapar.
 
-**S: Bu, uygulama sunucusundaki bellek kullanımını artırır mı?**  
-C: Minimum. Ağır iş Redis tarafından yapılır; uygulama yalnızca Jedis aracılığıyla kısa ömürlü bağlantılar tutar.
+**S: Bu, uygulama sunucusunun bellek kullanımını artırır mı?**  
+C: Minimum. Ağır iş Redis tarafından yapılır; uygulama sadece Jedis üzerinden kısa ömürlü bağlantılar tutar.
 
 ## Sonuç
-Artık Redis ve GroupDocs.Conversion kullanarak belgeleri önbelleğe almayı gösteren eksiksiz bir **java redis caching** öğreticiniz var. Render edilmiş çıktıyı Redis'te saklayarak **render performansını artıracak**, **dönüşüm süresini azaltacak** ve son kullanıcılar için daha akıcı bir deneyim sağlayacaksınız. Farklı TTL değerleriyle deney yapın, önbellek metriklerini izleyin ve uygulamanız büyüdükçe diğer belge formatlarına da bu deseni genişletin.
+Artık Redis ve GroupDocs.Conversion kullanarak belgeleri önbelleğe almayı gösteren eksiksiz bir **java redis caching** öğreticiniz var. Render edilmiş çıktıyı Redis'te saklayarak **render performansını artıracak**, **dönüşüm süresini azaltacak** ve son kullanıcıya daha sorunsuz bir deneyim sunacaksınız. Farklı TTL değerleriyle deney yapın, önbellek metriklerini izleyin ve uygulamanız büyüdükçe diğer belge formatlarına da bu deseni genişletin.
 
-**Son Güncelleme:** 2026-07-19  
+---
+
+**Son Güncelleme:** 2026-10-21  
 **Test Edilen:** GroupDocs.Conversion 25.2, Jedis 4.2.3  
 **Yazar:** GroupDocs
 
@@ -385,6 +393,13 @@ public class DocumentConversion {
 
 ## İlgili Öğreticiler
 
-- [Java Özel Önbellek Uygulaması – GroupDocs Conversion Cache](/conversion/java/cache-management/)
-- [Java'da Redis Önbelleği Kullanımı – GroupDocs.Conversion](/conversion/java/cache-management/redis-cache-java-groupdocs-conversion-guide/)
-- [Java'da Dosyaları Önbelleğe Alma – GroupDocs.Conversion – Verimli Belge Dönüşümü İçin Kapsamlı Rehber](/conversion/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/)
+- [Java’da Özel Önbellek Uygulama – GroupDocs Conversion Cache](/conversion/java/cache-management/)
+- [Java’da Redis Önbelleği Kullanımı – GroupDocs.Conversion ile](/conversion/java/cache-management/redis-cache-java-groupdocs-conversion-guide/)
+- [Java’da Dosyaları GroupDocs.Conversion ile Önbellekleme – Verimli Belge Dönüşümü İçin Kapsamlı Rehber](/conversion/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/)
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}
