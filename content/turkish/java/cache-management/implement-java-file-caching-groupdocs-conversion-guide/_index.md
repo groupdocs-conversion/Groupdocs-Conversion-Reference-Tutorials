@@ -73,12 +73,6 @@ url: /tr/java/cache-management/implement-java-file-caching-groupdocs-conversion-
 weight: 1
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/tutorial-page-section >}}
-
-{{< blocks/products/pf/main >}}
-
 # GroupDocs.Conversion ile Java dosyalarını önbelleğe alarak hızı artırma
 
 Bu rehberde GroupDocs.Conversion API'sını kullanarak **how to cache Java** öğrenecek, **convert docx pdf java** işlemlerini büyük ölçüde hızlandıracak ve **java convert multiple files** toplu işlerini çok daha verimli hale getireceksiniz. Eğitim sonunda, ara PDF'leri diske kaydeden, sonraki isteklerde yeniden kullanan ve yoğun yük altında sorunsuz ölçeklenen üretim‑hazır bir çözümünüz olacak.
@@ -327,10 +321,3 @@ void convertDocuments() {
     converter.convert(YOUR_OUTPUT_DIRECTORY + "/converted-1.pdf", options);
 }
 ```
-
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}

@@ -75,12 +75,6 @@ url: /pl/java/cache-management/implement-java-file-caching-groupdocs-conversion-
 weight: 1
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/tutorial-page-section >}}
-
-{{< blocks/products/pf/main >}}
-
 # Jak buforować pliki Java przy użyciu GroupDocs.Conversion dla zwiększenia wydajności
 
 W tym przewodniku dowiesz się **jak buforować Java** przy użyciu API GroupDocs.Conversion, co dramatycznie przyspiesza operacje **convert docx pdf java** i sprawia, że zadania wsadowe **java convert multiple files** są znacznie bardziej wydajne. Po zakończeniu samouczka będziesz mieć gotowe do produkcji rozwiązanie, które przechowuje pośrednie pliki PDF na dysku, ponownie wykorzystuje je przy kolejnych żądaniach i płynnie skalowuje się przy dużym obciążeniu.
@@ -329,10 +323,3 @@ void convertDocuments() {
     converter.convert(YOUR_OUTPUT_DIRECTORY + "/converted-1.pdf", options);
 }
 ```
-
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}

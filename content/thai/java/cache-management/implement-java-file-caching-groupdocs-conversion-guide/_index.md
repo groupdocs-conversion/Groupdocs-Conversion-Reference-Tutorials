@@ -72,12 +72,6 @@ url: /th/java/cache-management/implement-java-file-caching-groupdocs-conversion-
 weight: 1
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/tutorial-page-section >}}
-
-{{< blocks/products/pf/main >}}
-
 # วิธีแคชไฟล์ Java ด้วย GroupDocs.Conversion เพื่อความเร็ว
 
 ในคู่มือนี้คุณจะได้เรียนรู้ **วิธีแคช Java** ด้วย GroupDocs.Conversion API ซึ่งจะเร่งความเร็วการทำงาน **convert docx pdf java** อย่างมากและทำให้การทำงานแบบแบตช์ **java convert multiple files** มีประสิทธิภาพมากขึ้น เมื่อจบบทเรียนคุณจะมีโซลูชันพร้อมใช้งานในระดับผลิตที่เก็บไฟล์ PDF ชั่วคราวบนดิสก์ ใช้ซ้ำในคำขอถัดไป และขยายตัวได้อย่างราบรื่นภายใต้โหลดสูง
@@ -326,10 +320,3 @@ void convertDocuments() {
     converter.convert(YOUR_OUTPUT_DIRECTORY + "/converted-1.pdf", options);
 }
 ```
-
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}

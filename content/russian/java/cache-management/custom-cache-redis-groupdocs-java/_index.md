@@ -77,10 +77,6 @@ url: /ru/java/cache-management/custom-cache-redis-groupdocs-java/
 weight: 1
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/tutorial-page-section >}}
-
 # Создать ключ кэша Java – кэшировать документы в Java с Redis
 
 В современных веб‑приложениях повторная выдача одного и того же преобразованного документа может тратить ресурсы процессора и увеличивать время отклика. **Создание ключа кэша в Java** позволяет сохранить результат конвертации один раз и мгновенно получать его при последующих запросах. В этом руководстве показано, как интегрировать Redis в рабочий процесс GroupDocs.Conversion, генерировать надёжные ключи кэша, настраивать TTL и измерять ожидаемые улучшения производительности.
@@ -397,10 +393,3 @@ public class DocumentConversion {
 - [Реализация пользовательского кэша Java – кэш GroupDocs Conversion](/conversion/java/cache-management/)
 - [Как использовать кэш Redis в Java с GroupDocs.Conversion](/conversion/java/cache-management/redis-cache-java-groupdocs-conversion-guide/)
 - [Как кэшировать файлы в Java с GroupDocs.Conversion – Полное руководство по эффективной конвертации документов](/conversion/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/)
-
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}

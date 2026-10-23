@@ -73,10 +73,6 @@ url: /ja/java/cache-management/custom-cache-redis-groupdocs-java/
 weight: 1
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/tutorial-page-section >}}
-
 # Javaでキャッシュキーを作成 – RedisでJavaのドキュメントをキャッシュ
 
 モダンなウェブアプリケーションでは、同じ変換済みドキュメントを繰り返し提供することは CPU サイクルの無駄遣いとなり、応答時間を伸ばす原因となります。**Javaでキャッシュキーを作成**することで、変換結果を一度保存し、以降のリクエストで瞬時に取得できるようになります。このチュートリアルでは、Redis を GroupDocs.Conversion のワークフローに組み込み、信頼性の高いキャッシュキーを生成し、TTL を設定し、期待できるパフォーマンス向上を測定する方法を示します。
@@ -393,10 +389,3 @@ public class DocumentConversion {
 - [カスタムキャッシュ Java の実装 – GroupDocs Conversion キャッシュ](/conversion/java/cache-management/)
 - [Java と GroupDocs.Conversion で Redis キャッシュを使用する方法](/conversion/java/cache-management/redis-cache-java-groupdocs-conversion-guide/)
 - [Java と GroupDocs.Conversion でファイルをキャッシュする方法 – 効率的なドキュメント変換のための包括的ガイド](/conversion/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/)
-
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}

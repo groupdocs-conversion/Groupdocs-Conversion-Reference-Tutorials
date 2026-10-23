@@ -76,10 +76,6 @@ url: /cs/java/cache-management/custom-cache-redis-groupdocs-java/
 weight: 1
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/tutorial-page-section >}}
-
 # Vytvoření cache klíče v Javě – ukládání dokumentů v Javě s Redis
 
 V moderních webových aplikacích může opakované poskytování stejného převedeného dokumentu plýtvat cykly CPU a prodlužovat dobu odezvy. **Vytvoření cache klíče v Javě** vám umožní uložit výstup konverze jednou a okamžitě jej načíst při dalších požadavcích. Tento tutoriál vám ukáže, jak propojit Redis s workflow GroupDocs.Conversion, generovat spolehlivé cache klíče, konfigurovat TTL a změřit očekávané výkonnostní zisky.
@@ -396,10 +392,3 @@ public class DocumentConversion {
 - [Implementace vlastního cache v Javě – GroupDocs Conversion Cache](/conversion/java/cache-management/)
 - [Jak použít Redis cache v Javě s GroupDocs.Conversion](/conversion/java/cache-management/redis-cache-java-groupdocs-conversion-guide/)
 - [Jak cachovat soubory v Javě s GroupDocs.Conversion – Kompletní průvodce pro efektivní konverzi dokumentů](/conversion/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/)
-
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}

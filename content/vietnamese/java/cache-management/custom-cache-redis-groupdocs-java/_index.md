@@ -76,10 +76,6 @@ url: /vi/java/cache-management/custom-cache-redis-groupdocs-java/
 weight: 1
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/tutorial-page-section >}}
-
 # Tạo khóa cache Java – lưu trữ tài liệu trong Java với Redis
 
 Trong các ứng dụng web hiện đại, việc phục vụ cùng một tài liệu đã chuyển đổi liên tục có thể lãng phí vòng CPU và làm tăng thời gian phản hồi. **Tạo khóa cache trong Java** cho phép bạn lưu trữ kết quả chuyển đổi một lần và truy xuất ngay lập tức trong các yêu cầu tiếp theo. Hướng dẫn này cho bạn cách tích hợp Redis vào quy trình làm việc của GroupDocs.Conversion, tạo ra các khóa cache đáng tin cậy, cấu hình TTL và đo lường những cải thiện hiệu năng mà bạn có thể mong đợi.
@@ -396,10 +392,3 @@ public class DocumentConversion {
 - [Triển khai Cache Tùy chỉnh Java – Cache GroupDocs Conversion](/conversion/java/cache-management/)
 - [Cách Sử dụng Cache Redis trong Java với GroupDocs.Conversion](/conversion/java/cache-management/redis-cache-java-groupdocs-conversion-guide/)
 - [Cách Cache Tập tin trong Java với GroupDocs.Conversion – Hướng dẫn toàn diện cho chuyển đổi tài liệu hiệu quả](/conversion/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/)
-
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}

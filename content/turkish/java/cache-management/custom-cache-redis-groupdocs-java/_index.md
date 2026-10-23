@@ -76,10 +76,6 @@ url: /tr/java/cache-management/custom-cache-redis-groupdocs-java/
 weight: 1
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/tutorial-page-section >}}
-
 # Java’da Önbellek Anahtarı Oluşturma – Redis ile Java’da Belgeleri Önbellekle
 
 Modern web uygulamalarında aynı dönüştürülmüş belgeyi tekrar tekrar sunmak CPU döngülerini boşa harcayabilir ve yanıt sürelerini uzatabilir. **Java’da bir önbellek anahtarı oluşturmak**, dönüşüm çıktısını bir kez depolamanızı ve sonraki isteklerde anında almanızı sağlar. Bu öğretici, Redis’i GroupDocs.Conversion iş akışına nasıl entegre edeceğinizi, güvenilir önbellek anahtarları oluşturmayı, TTL’leri yapılandırmayı ve bekleyebileceğiniz performans artışlarını ölçmeyi gösterir.
@@ -396,10 +392,3 @@ public class DocumentConversion {
 - [Java’da Özel Önbellek Uygulama – GroupDocs Conversion Cache](/conversion/java/cache-management/)
 - [Java’da Redis Önbelleği Kullanımı – GroupDocs.Conversion ile](/conversion/java/cache-management/redis-cache-java-groupdocs-conversion-guide/)
 - [Java’da Dosyaları GroupDocs.Conversion ile Önbellekleme – Verimli Belge Dönüşümü İçin Kapsamlı Rehber](/conversion/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/)
-
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}

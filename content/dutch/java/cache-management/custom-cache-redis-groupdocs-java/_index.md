@@ -77,10 +77,6 @@ url: /nl/java/cache-management/custom-cache-redis-groupdocs-java/
 weight: 1
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/tutorial-page-section >}}
-
 # Maak cache‑sleutel Java – cache documenten in Java met Redis
 
 In moderne webapplicaties kan het steeds opnieuw serveren van hetzelfde geconverteerde document CPU-cycli verspillen en de responstijden verhogen. **Een cache‑sleutel maken in Java** stelt je in staat de conversie‑output één keer op te slaan en deze direct op volgende verzoeken op te halen. Deze tutorial laat zien hoe je Redis in een GroupDocs.Conversion‑workflow integreert, betrouwbare cache‑sleutels genereert, TTL’s configureert en de prestatieverbeteringen meet die je kunt verwachten.
@@ -397,10 +393,3 @@ public class DocumentConversion {
 - [Aangepaste cache implementeren Java – GroupDocs Conversion Cache](/conversion/java/cache-management/)
 - [Hoe Redis‑cache te gebruiken in Java met GroupDocs.Conversion](/conversion/java/cache-management/redis-cache-java-groupdocs-conversion-guide/)
 - [Hoe bestanden te cachen in Java met GroupDocs.Conversion – Een uitgebreide gids voor efficiënte documentconversie](/conversion/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/)
-
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}

@@ -75,10 +75,6 @@ url: /ar/java/cache-management/custom-cache-redis-groupdocs-java/
 weight: 1
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/tutorial-page-section >}}
-
 # إنشاء مفتاح ذاكرة التخزين المؤقت Java – تخزين مستندات الكاش في Java باستخدام Redis
 
 في تطبيقات الويب الحديثة، قد يؤدي تقديم نفس المستند المحوَّل بشكل متكرر إلى إهدار دورات المعالج وزيادة أوقات الاستجابة. **إنشاء مفتاح ذاكرة تخزين مؤقت في Java** يتيح لك تخزين ناتج التحويل مرة واحدة واسترجاعه فورًا في الطلبات اللاحقة. يوضح هذا الدرس كيفية ربط Redis بسير عمل GroupDocs.Conversion، وإنشاء مفاتيح تخزين مؤقت موثوقة، وتكوين TTLs، وقياس تحسينات الأداء المتوقعة.
@@ -393,10 +389,3 @@ public class DocumentConversion {
 - [Implement Custom Cache Java – GroupDocs Conversion Cache](/conversion/java/cache-management/)
 - [How to Use Redis Cache in Java with GroupDocs.Conversion](/conversion/java/cache-management/redis-cache-java-groupdocs-conversion-guide/)
 - [How to Cache Files in Java with GroupDocs.Conversion – A Comprehensive Guide for Efficient Document Conversion](/conversion/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/)
-
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}

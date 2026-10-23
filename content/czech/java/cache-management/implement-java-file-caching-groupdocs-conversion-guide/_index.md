@@ -73,12 +73,6 @@ url: /cs/java/cache-management/implement-java-file-caching-groupdocs-conversion-
 weight: 1
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/tutorial-page-section >}}
-
-{{< blocks/products/pf/main >}}
-
 # Jak ukládat soubory Java do mezipaměti pomocí GroupDocs.Conversion pro rychlost
 
 V tomto průvodci se naučíte **jak ukládat Java** pomocí API GroupDocs.Conversion, což dramaticky urychlí operace **convert docx pdf java** a učiní dávkové úlohy **java convert multiple files** mnohem efektivnějšími. Na konci tutoriálu budete mít připravené řešení pro produkci, které ukládá mezilehlé PDF na disk, znovu je používá při následných požadavcích a plynule škáluje při vysokém zatížení.
@@ -327,10 +321,3 @@ void convertDocuments() {
     converter.convert(YOUR_OUTPUT_DIRECTORY + "/converted-1.pdf", options);
 }
 ```
-
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}

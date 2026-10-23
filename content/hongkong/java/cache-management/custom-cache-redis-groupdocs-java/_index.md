@@ -74,10 +74,6 @@ url: /zh-hant/java/cache-management/custom-cache-redis-groupdocs-java/
 weight: 1
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/tutorial-page-section >}}
-
 # 在 Java 中建立快取金鑰 – 使用 Redis 快取文件
 
 在現代的網頁應用程式中，重複提供相同的已轉換文件會浪費 CPU 資源並延長回應時間。**在 Java 中建立快取金鑰** 可讓您將轉換輸出儲存一次，並在後續請求中即時取回。本教學將示範如何將 Redis 整合至 GroupDocs.Conversion 工作流程、產生可靠的快取金鑰、設定 TTL，並衡量您可預期的效能提升。
@@ -394,10 +390,3 @@ public class DocumentConversion {
 - [實作自訂快取 Java – GroupDocs Conversion 快取](/conversion/java/cache-management/)
 - [如何在 Java 中使用 Redis 快取與 GroupDocs.Conversion](/conversion/java/cache-management/redis-cache-java-groupdocs-conversion-guide/)
 - [如何在 Java 中快取檔案與 GroupDocs.Conversion – 高效文件轉換的完整指南](/conversion/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/)
-
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}

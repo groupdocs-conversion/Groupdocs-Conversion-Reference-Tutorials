@@ -69,12 +69,6 @@ url: /zh-hant/java/cache-management/implement-java-file-caching-groupdocs-conver
 weight: 1
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/tutorial-page-section >}}
-
-{{< blocks/products/pf/main >}}
-
 # 如何使用 GroupDocs.Conversion 快速快取 Java 檔案
 
 在本指南中，您將學習 **如何快取 Java**，使用 GroupDocs.Conversion API，顯著加速 **convert docx pdf java** 操作，並使 **java convert multiple files** 批次工作更加高效。完成本教學後，您將擁有一個可投入生產的解決方案，將中間產生的 PDF 儲存於磁碟，於後續請求中重複使用，並在高負載下平穩擴展。
@@ -323,10 +317,3 @@ void convertDocuments() {
     converter.convert(YOUR_OUTPUT_DIRECTORY + "/converted-1.pdf", options);
 }
 ```
-
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}

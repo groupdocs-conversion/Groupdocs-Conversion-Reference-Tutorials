@@ -74,10 +74,6 @@ url: /ko/java/cache-management/custom-cache-redis-groupdocs-java/
 weight: 1
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/tutorial-page-section >}}
-
 # Java에서 캐시 키 생성 – Redis를 사용한 Java 문서 캐시
 
 현대 웹 애플리케이션에서는 동일한 변환 문서를 반복해서 제공하면 CPU 사이클을 낭비하고 응답 시간이 늘어날 수 있습니다. **Java에서 캐시 키 생성**을 통해 변환 결과를 한 번 저장하고 이후 요청에서 즉시 가져올 수 있습니다. 이 튜토리얼에서는 Redis를 GroupDocs.Conversion 워크플로에 연결하고, 신뢰할 수 있는 캐시 키를 생성하며, TTL을 구성하고, 기대할 수 있는 성능 향상을 측정하는 방법을 보여줍니다.
@@ -394,10 +390,3 @@ public class DocumentConversion {
 - [Java 맞춤 캐시 구현 – GroupDocs Conversion 캐시](/conversion/java/cache-management/)
 - [Java와 GroupDocs.Conversion을 사용한 Redis 캐시 활용 방법](/conversion/java/cache-management/redis-cache-java-groupdocs-conversion-guide/)
 - [Java와 GroupDocs.Conversion을 사용한 파일 캐시 – 효율적인 문서 변환을 위한 종합 가이드](/conversion/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/)
-
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}

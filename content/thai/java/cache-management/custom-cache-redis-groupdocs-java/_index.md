@@ -76,10 +76,6 @@ url: /th/java/cache-management/custom-cache-redis-groupdocs-java/
 weight: 1
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/tutorial-page-section >}}
-
 # สร้างคีย์แคชใน Java – แคชเอกสารใน Java ด้วย Redis
 
 ในแอปพลิเคชันเว็บสมัยใหม่ การให้บริการเอกสารที่แปลงแล้วซ้ำ ๆ สามารถทำให้ใช้ CPU อย่างไม่มีประสิทธิภาพและทำให้เวลาในการตอบสนองเพิ่มขึ้น. **การสร้างคีย์แคชใน Java** ช่วยให้คุณเก็บผลลัพธ์การแปลงไว้ครั้งเดียวและดึงคืนได้ทันทีในคำขอถัดไป. บทแนะนำนี้จะแสดงวิธีเชื่อม Redis เข้ากับกระบวนการทำงานของ GroupDocs.Conversion, สร้างคีย์แคชที่เชื่อถือได้, กำหนดค่า TTLs, และวัดผลการปรับปรุงประสิทธิภาพที่คุณคาดหวัง.
@@ -396,10 +392,3 @@ public class DocumentConversion {
 - [การสร้างแคชแบบกำหนดเองใน Java – แคช GroupDocs Conversion](/conversion/java/cache-management/)
 - [วิธีใช้แคช Redis ใน Java กับ GroupDocs.Conversion](/conversion/java/cache-management/redis-cache-java-groupdocs-conversion-guide/)
 - [วิธีแคชไฟล์ใน Java กับ GroupDocs.Conversion – คู่มือครบวงจรสำหรับการแปลงเอกสารอย่างมีประสิทธิภาพ](/conversion/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/)
-
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}

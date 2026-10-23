@@ -77,10 +77,6 @@ url: /fr/java/cache-management/custom-cache-redis-groupdocs-java/
 weight: 1
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/tutorial-page-section >}}
-
 # Créer une clé de cache Java – mettre en cache les documents Java avec Redis
 
 Dans les applications web modernes, servir le même document converti de manière répétée peut gaspiller des cycles CPU et augmenter les temps de réponse. **Créer une clé de cache en Java** vous permet de stocker le résultat de la conversion une fois et de le récupérer instantanément lors des requêtes suivantes. Ce tutoriel vous montre comment intégrer Redis dans un flux de travail GroupDocs.Conversion, générer des clés de cache fiables, configurer les TTL et mesurer les gains de performance que vous pouvez attendre.
@@ -397,10 +393,3 @@ public class DocumentConversion {
 - [Implémenter un cache personnalisé Java – Cache de conversion GroupDocs](/conversion/java/cache-management/)
 - [Comment utiliser le cache Redis en Java avec GroupDocs.Conversion](/conversion/java/cache-management/redis-cache-java-groupdocs-conversion-guide/)
 - [Comment mettre en cache des fichiers en Java avec GroupDocs.Conversion – Guide complet pour une conversion de documents efficace](/conversion/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/)
-
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}

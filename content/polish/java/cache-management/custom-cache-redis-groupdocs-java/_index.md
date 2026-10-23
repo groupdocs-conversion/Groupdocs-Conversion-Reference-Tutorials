@@ -77,10 +77,6 @@ url: /pl/java/cache-management/custom-cache-redis-groupdocs-java/
 weight: 1
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/tutorial-page-section >}}
-
 # Utwórz klucz pamięci podręcznej Java – buforuj dokumenty w Javie przy użyciu Redis
 
 W nowoczesnych aplikacjach internetowych serwowanie tego samego przetworzonego dokumentu wielokrotnie może marnować cykle CPU i wydłużać czasy odpowiedzi. **Tworzenie klucza pamięci podręcznej w Javie** pozwala przechowywać wynik konwersji raz i natychmiast go pobierać przy kolejnych żądaniach. Ten tutorial pokazuje, jak podłączyć Redis do przepływu pracy GroupDocs.Conversion, generować niezawodne klucze pamięci podręcznej, konfigurować TTL oraz mierzyć oczekiwane zyski wydajnościowe.
@@ -397,10 +393,3 @@ public class DocumentConversion {
 - [Implementacja własnej pamięci podręcznej Java – pamięć podręczna GroupDocs Conversion](/conversion/java/cache-management/)
 - [Jak używać pamięci podręcznej Redis w Javie z GroupDocs.Conversion](/conversion/java/cache-management/redis-cache-java-groupdocs-conversion-guide/)
 - [Jak buforować pliki w Javie z GroupDocs.Conversion – Kompletny przewodnik po efektywnej konwersji dokumentów](/conversion/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/)
-
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}

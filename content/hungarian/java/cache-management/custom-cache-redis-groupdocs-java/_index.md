@@ -79,10 +79,6 @@ url: /hu/java/cache-management/custom-cache-redis-groupdocs-java/
 weight: 1
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/tutorial-page-section >}}
-
 # Cache kulcs létrehozása Java-ban – dokumentumok gyorsítótárazása Java-ban Redis-szel
 
 A modern webalkalmazásokban ugyanazon átalakított dokumentum ismételt kiszolgálása CPU-ciklusokat pazarolhat és megnövelheti a válaszidőket. **Cache kulcs létrehozása Java-ban** lehetővé teszi, hogy a konverziós kimenetet egyszer tároljuk, és a későbbi kérések során azonnal lekérjük. Ez a bemutató megmutatja, hogyan lehet a Redis-t beilleszteni egy GroupDocs.Conversion munkafolyamatba, megbízható cache kulcsokat generálni, TTL-eket konfigurálni, és mérni a várható teljesítményjavulást.
@@ -399,10 +395,3 @@ public class DocumentConversion {
 - [Egyedi gyorsítótár implementálása Java-ban – GroupDocs Conversion Cache](/conversion/java/cache-management/)
 - [Hogyan használjunk Redis gyorsítótárat Java-ban a GroupDocs.Conversion-nel](/conversion/java/cache-management/redis-cache-java-groupdocs-conversion-guide/)
 - [Fájlok gyorsítótárazása Java-ban a GroupDocs.Conversion-nel – Átfogó útmutató a hatékony dokumentumkonverzióhoz](/conversion/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/)
-
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}

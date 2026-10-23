@@ -72,12 +72,6 @@ url: /vi/java/cache-management/implement-java-file-caching-groupdocs-conversion-
 weight: 1
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/tutorial-page-section >}}
-
-{{< blocks/products/pf/main >}}
-
 # Cách lưu trữ tạm thời các tệp Java với GroupDocs.Conversion để tăng tốc
 
 Trong hướng dẫn này bạn sẽ học **cách lưu trữ tạm thời Java** bằng cách sử dụng GroupDocs.Conversion API, giúp tăng tốc đáng kể các thao tác **convert docx pdf java** và làm cho các công việc **java convert multiple files** theo lô hiệu quả hơn nhiều. Khi kết thúc tutorial, bạn sẽ có một giải pháp sẵn sàng cho môi trường production, lưu trữ các PDF trung gian trên đĩa, tái sử dụng chúng trong các yêu cầu tiếp theo và mở rộng mượt mà dưới tải nặng.
@@ -326,10 +320,3 @@ void convertDocuments() {
     converter.convert(YOUR_OUTPUT_DIRECTORY + "/converted-1.pdf", options);
 }
 ```
-
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}

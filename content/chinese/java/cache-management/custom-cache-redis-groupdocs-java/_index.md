@@ -74,10 +74,6 @@ url: /zh/java/cache-management/custom-cache-redis-groupdocs-java/
 weight: 1
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/tutorial-page-section >}}
-
 # 创建缓存键 Java – 使用 Redis 缓存 Java 文档
 
 在现代 Web 应用程序中，重复提供相同的已转换文档会浪费 CPU 周期并延长响应时间。**在 Java 中创建缓存键** 可以让您一次性存储转换输出，并在后续请求中即时检索。本文教程展示了如何将 Redis 接入 GroupDocs.Conversion 工作流、生成可靠的缓存键、配置 TTL，并衡量您可以预期的性能提升。
@@ -393,10 +389,3 @@ public class DocumentConversion {
 - [实现自定义缓存 Java – GroupDocs 转换缓存](/conversion/java/cache-management/)
 - [如何在 Java 中使用 Redis 缓存与 GroupDocs.Conversion](/conversion/java/cache-management/redis-cache-java-groupdocs-conversion-guide/)
 - [如何在 Java 中使用 GroupDocs.Conversion 缓存文件 – 高效文档转换的综合指南](/conversion/java/cache-management/implement-java-file-caching-groupdocs-conversion-guide/)
-
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}
