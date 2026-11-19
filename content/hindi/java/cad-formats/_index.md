@@ -1,31 +1,32 @@
 ---
-date: 2026-07-24
-description: जानें कि groupdocs conversion java कैसे Java में CAD को PDF में कुशलतापूर्वक
-  बदलता है। CAD ड्रॉइंग्स (DWG, DXF, DGN) को PDF में बदलने के लिए step‑by‑step ट्यूटोरियल,
-  GroupDocs.Conversion for Java का उपयोग करके।
+date: 2026-11-19
+description: Java PDF conversion library का उपयोग करके CAD फ़ाइलें (DWG, DXF, DGN)
+  को PDF में तेज़ी से बदलना सीखें GroupDocs.Conversion के साथ। डेवलपर्स के लिए चरण‑दर‑चरण
+  मार्गदर्शिका।
+images:
+- /java/cad-formats/og-image.png
 keywords:
-- groupdocs conversion java
-- java convert cad pdf
-- java cad to pdf
 - java pdf conversion library
-lastmod: 2026-07-24
-og_description: जानें कि groupdocs conversion java आपको Java में CAD फ़ाइलों को जल्दी
-  से PDF में बदलने की सुविधा कैसे देता है। अग्रणी java pdf conversion लाइब्रेरी का
-  उपयोग करके हमारे step‑by‑step गाइड का पालन करें।
+- java convert cad files pdf
+- groupdocs conversion java
+- cad to pdf java
+- java pdf conversion tutorial
+lastmod: 2026-11-19
+og_description: Java PDF conversion library का उपयोग करके CAD ड्रॉइंग्स (DWG, DXF,
+  DGN) को PDF में कुशलता से बदलें। GroupDocs.Conversion उच्च‑गुणवत्ता आउटपुट और बड़े
+  फ़ाइलों के लिए स्ट्रीमिंग प्रदान करता है।
 og_image_alt: 'Guide: Convert CAD drawings to PDF using GroupDocs.Conversion for Java'
-og_title: groupdocs conversion java – Java में CAD को PDF में बदलें
+og_title: Java PDF conversion library – CAD को PDF में तेज़ी से बदलें
 schemas:
 - author: GroupDocs
-  dateModified: '2026-07-24'
-  description: Learn how groupdocs conversion java enables java convert cad pdf efficiently.
-    Step‑by‑step tutorial for converting CAD drawings (DWG, DXF, DGN) to PDF using
-    GroupDocs.Conversion for Java.
-  headline: groupdocs conversion java – Convert CAD to PDF in Java
+  dateModified: '2026-11-19'
+  description: Learn how to use a Java PDF conversion library to quickly convert CAD
+    files to PDF with GroupDocs.Conversion. Step‑by‑step guide for developers.
+  headline: Java PDF conversion library – quickly convert CAD to PDF
   type: TechArticle
-- description: Learn how groupdocs conversion java enables java convert cad pdf efficiently.
-    Step‑by‑step tutorial for converting CAD drawings (DWG, DXF, DGN) to PDF using
-    GroupDocs.Conversion for Java.
-  name: groupdocs conversion java – Convert CAD to PDF in Java
+- description: Learn how to use a Java PDF conversion library to quickly convert CAD
+    files to PDF with GroupDocs.Conversion. Step‑by‑step guide for developers.
+  name: Java PDF conversion library – quickly convert CAD to PDF
   steps:
   - name: '**Initialize the Converter** – Create a `ConversionConfig` object (holds
       license and global settings) and supply your license key.'
@@ -72,60 +73,62 @@ tags:
 - groupdocs conversion
 - java pdf
 - cad to pdf
-title: groupdocs conversion java – Java में CAD को PDF में बदलें
+title: CAD को PDF में बदलने के लिए Java PDF conversion library का उपयोग कैसे करें
 type: docs
 url: /hi/java/cad-formats/
 weight: 10
 ---
 
-# groupdocs conversion java – Java में CAD को PDF में परिवर्तित करें
+# CAD से PDF के लिए Java PDF रूपांतरण लाइब्रेरी का उपयोग कैसे करें
 
-यदि आप एक Java डेवलपर हैं जो **CAD ड्रॉइंग्स को PDF फ़ाइलों में जल्दी और भरोसेमंद तरीके से परिवर्तित** करना चाहते हैं, तो आप सही ट्यूटोरियल पर आए हैं। इस गाइड में हम **groupdocs conversion java** परिदृश्यों को देखेंगे, समझाएंगे कि GroupDocs.Conversion लाइब्रेरी क्यों एक ठोस विकल्प है, और आपको तैयार‑से‑चलाने वाले उदाहरणों की ओर इशारा करेंगे। अंत तक आप लेयर्स, माप, और लेआउट को संरक्षित रखते हुए साफ़ PDFs बना सकेंगे जिन्हें कोई भी खोल सके—CAD सॉफ़्टवेयर की आवश्यकता नहीं।
+यदि आप एक Java डेवलपर हैं जो **CAD ड्रॉइंग को PDF फ़ाइलों में जल्दी और विश्वसनीय रूप से बदलना** चाहते हैं, तो आप सही ट्यूटोरियल पर आए हैं। इस गाइड में हम **GroupDocs.Conversion for Java** पर चर्चा करेंगे, यह बताएँगे कि यह एक शीर्ष‑स्तरीय **java pdf conversion library** क्यों है, और आपको तैयार‑से‑चलाने वाले उदाहरणों की ओर निर्देशित करेंगे। अंत तक आप लेयर्स, माप और लेआउट को संरक्षित रखते हुए साफ़ PDF बना पाएँगे जिसे कोई भी खोल सके—CAD सॉफ़्टवेयर की आवश्यकता नहीं।
 
 ## त्वरित उत्तर
-- **“convert cad pdf java” क्या करता है?** यह AutoCAD, DWG, DXF, DGN और अन्य CAD फ़ॉर्मेट्स को Java कोड का उपयोग करके PDF दस्तावेज़ों में बदलता है।  
-- **कौन सी लाइब्रेरी परिवर्तन को संभालती है?** GroupDocs.Conversion for Java एक उच्च‑स्तरीय API प्रदान करती है जो CAD रेंडरिंग की जटिलता को सारांशित करती है।  
-- **क्या मुझे लाइसेंस की आवश्यकता है?** एक अस्थायी लाइसेंस मूल्यांकन के लिए काम करता है; उत्पादन उपयोग के लिए पूर्ण लाइसेंस आवश्यक है।  
-- **क्या मैं विशिष्ट लेआउट चुन सकता हूँ?** हाँ – आप परिवर्तन के दौरान व्यक्तिगत CAD लेआउट या व्यूपोर्ट को लक्षित कर सकते हैं।  
-- **क्या बड़े‑ड्रॉइंग समर्थन अंतर्निहित है?** लाइब्रेरी डेटा को स्ट्रीम करती है, जिससे मल्टी‑मेगाबाइट ड्रॉइंग्स को मेमोरी समाप्त किए बिना परिवर्तित किया जा सकता है।
+- **convert cad pdf java** क्या करता है? यह AutoCAD, DWG, DXF, DGN, और अन्य CAD स्वरूपों को Java कोड का उपयोग करके PDF दस्तावेज़ों में बदलता है।  
+- **कौन सी लाइब्रेरी रूपांतरण संभालती है?** GroupDocs.Conversion for Java एक उच्च‑स्तरीय API प्रदान करती है जो CAD रेंडरिंग की जटिलता को सारांशित करती है।  
+- **क्या मुझे लाइसेंस चाहिए?** एक अस्थायी लाइसेंस मूल्यांकन के लिए काम करता है; उत्पादन उपयोग के लिए पूर्ण लाइसेंस आवश्यक है।  
+- **क्या मैं विशिष्ट लेआउट चुन सकता हूँ?** हाँ – आप रूपांतरण के दौरान व्यक्तिगत CAD लेआउट या व्यूपोर्ट को लक्षित कर सकते हैं।  
+- **क्या बड़े‑ड्रॉइंग समर्थन अंतर्निहित है?** लाइब्रेरी डेटा को स्ट्रीम करती है, जिससे मल्टी‑मेगाबाइट ड्रॉइंग को मेमोरी समाप्त हुए बिना रूपांतरित किया जा सकता है।
 
-## **convert cad pdf java** क्या है?
-**convert cad pdf java** वह प्रक्रिया है जिसमें Java कोड का उपयोग करके मूल CAD फ़ाइलें (DWG, DXF, DGN, आदि) को PDF फ़ॉर्मेट में बदला जाता है। यह परिवर्तन दृश्य सटीकता, स्केल, और एनोटेशन डेटा को संरक्षित रखता है जिससे उत्पन्न PDFs समीक्षा, प्रिंटिंग, या अभिलेखीय उद्देश्यों के लिए आदर्श होते हैं।
+## convert CAD PDF Java क्या है?
+Convert CAD PDF Java वह प्रक्रिया है जिसमें Java कोड का उपयोग करके मूल CAD फ़ाइलें (DWG, DXF, DGN, आदि) को PDF स्वरूप में बदला जाता है। यह रूपांतरण दृश्य सटीकता, स्केल और एनोटेशन डेटा को संरक्षित रखता है ताकि उत्पन्न PDF समीक्षा, प्रिंटिंग या अभिलेखीय उद्देश्यों के लिए आदर्श हों।
 
 ## GroupDocs.Conversion for Java का उपयोग क्यों करें?
-GroupDocs.Conversion for Java वह **java pdf conversion library** है जो **100 से अधिक स्रोत फ़ॉर्मेट्स** को संभालती है, जिसमें जटिल CAD ड्रॉइंग्स भी शामिल हैं, जबकि इंजीनियरिंग विवरण को अपरिवर्तित रखती है। यह सामान्य सर्वर पर 2 सेकंड से कम समय में सैकड़ों‑पृष्ठ वाली फ़ाइलों को प्रोसेस करती है, डेटा को स्ट्रीम करती है ताकि उच्च मेमोरी खपत से बचा जा सके, और एक सरल Maven/Gradle निर्भरता प्रदान करती है—कोई मूल CAD सॉफ़्टवेयर आवश्यक नहीं।
+GroupDocs.Conversion for Java वह **java pdf conversion library** है जो **100 से अधिक स्रोत स्वरूपों** का समर्थन करता है, जिसमें जटिल CAD ड्रॉइंग शामिल हैं, जबकि इंजीनियरिंग विवरण को अपरिवर्तित रखता है। यह सामान्य सर्वर पर 2 सेकंड से कम समय में सैकड़ों‑पृष्ठ वाली फ़ाइलों को प्रोसेस करता है, डेटा को स्ट्रीम करता है ताकि उच्च मेमोरी खपत से बचा जा सके, और एक सरल Maven/Gradle निर्भरता प्रदान करता है—कोई मूल CAD सॉफ़्टवेयर आवश्यक नहीं।
 
 ## पूर्वापेक्षाएँ
-- Java 8 या नया स्थापित हो।  
-- GroupDocs.Conversion for Java लाइब्रेरी आपके प्रोजेक्ट में जोड़ी गई हो (Maven/Gradle)।  
-- एक वैध GroupDocs अस्थायी या पूर्ण लाइसेंस कुंजी।  
+- Java 8 या उससे नया स्थापित हो।  
+- GroupDocs.Conversion for Java लाइब्रेरी को अपने प्रोजेक्ट में जोड़ा गया हो (Maven/Gradle)।  
+- एक वैध GroupDocs अस्थायी या पूर्ण लाइसेंस कुंजी।
 
-## **convert cad pdf java** कैसे करें – चरण‑दर‑चरण गाइड
-यह गाइड आपको संपूर्ण परिवर्तन कार्यप्रवाह के माध्यम से ले जाता है, लाइब्रेरी को इनिशियलाइज़ करने से लेकर उत्पन्न PDF को वैलिडेट करने तक, यह सुनिश्चित करता है कि आपके पास किसी भी CAD स्रोत के लिए स्पष्ट, दोहराने योग्य प्रक्रिया हो। परिवर्तन कार्यप्रवाह में लाइसेंस के साथ लाइब्रेरी को इनिशियलाइज़ करना, CAD स्रोत को लोड करना, पेज साइज और DPI जैसे PDF आउटपुट विकल्पों को कॉन्फ़िगर करना, परिवर्तन को निष्पादित करना, और अंत में परिणामी PDF को सत्यापित करना शामिल है। इन चरणों का पालन करने से सुसंगत परिणाम, इष्टतम प्रदर्शन, और आपके Java एप्लिकेशन में आसान एकीकरण सुनिश्चित होता है।
+## CAD PDF Java को कैसे रूपांतरित करें – चरण‑दर‑चरण गाइड
+रूपांतरण को पाँच संक्षिप्त चरणों में लोड, कॉन्फ़िगर और निष्पादित करें। यह कार्यप्रवाह निरंतर परिणाम, इष्टतम प्रदर्शन, और किसी भी Java एप्लिकेशन में आसान एकीकरण सुनिश्चित करता है।
 
-1. **कनवर्टर को इनिशियलाइज़ करें** – `ConversionConfig` ऑब्जेक्ट बनाएं (लाइसेंस और ग्लोबल सेटिंग्स रखता है) और अपना लाइसेंस कुंजी प्रदान करें।  
-2. **CAD दस्तावेज़ लोड करें** – `Converter` क्लास का उपयोग करें (जो CAD फ़ाइलों को पढ़ने वाला केंद्रीय इंजन है) स्रोत फ़ाइल खोलने के लिए।  
-3. **आउटपुट विकल्प चुनें** – `PdfConversionOptions` ऑब्जेक्ट को कॉन्फ़िगर करें ताकि पेज साइज, DPI, और लेआउट चयन सेट किया जा सके।  
-   `PdfConversionOptions` PDF आउटपुट पैरामीटर जैसे पेज आयाम और रेंडरिंग क्वालिटी को निर्दिष्ट करता है।  
-4. **परिवर्तन निष्पादित करें** – `converter.convert(options, outputStream)` को कॉल करें और परिणाम को `FileOutputStream` में लिखें।  
-5. **PDF को वैलिडेट करें** – उत्पन्न PDF को खोलें ताकि यह पुष्टि की जा सके कि लेयर्स, डायमेंशन्स, और व्यूपोर्ट सही ढंग से रेंडर हुए हैं।
+`ConversionConfig` क्लास लाइब्रेरी के लिए वैश्विक सेटिंग्स और लाइसेंस कुंजी रखती है।  
+`Converter` क्लास वह मुख्य इंजन है जो CAD फ़ाइलें पढ़ता है और रूपांतरण पाइपलाइन को चलाता है।  
+`PdfConversionOptions` PDF आउटपुट पैरामीटर जैसे पृष्ठ आयाम, DPI, और लेआउट चयन को परिभाषित करता है।
 
-### GroupDocs.Conversion Java का उपयोग करके **convert 3d cad 2d** कैसे करें
-अपना 3‑D मॉडल लोड करें, एक व्यू चुनें, और उसे 2‑D PDF में फ्लैटन करें।
+1. **Converter को प्रारंभ करें** – एक `ConversionConfig` ऑब्जेक्ट बनाएं (लाइसेंस और वैश्विक सेटिंग्स रखता है) और अपनी लाइसेंस कुंजी प्रदान करें।  
+2. **CAD दस्तावेज़ लोड करें** – `Converter` क्लास (जो CAD फ़ाइलें पढ़ने वाला केंद्रीय इंजन है) का उपयोग करके स्रोत फ़ाइल खोलें।  
+3. **आउटपुट विकल्प चुनें** – पृष्ठ आकार, DPI, और लेआउट चयन सेट करने के लिए एक `PdfConversionOptions` ऑब्जेक्ट कॉन्फ़िगर करें। `PdfConversionOptions` PDF आउटपुट पैरामीटर जैसे पृष्ठ आयाम और रेंडरिंग गुणवत्ता को निर्दिष्ट करता है।  
+4. **रूपांतरण निष्पादित करें** – `converter.convert(options, outputStream)` को कॉल करें और परिणाम को एक `FileOutputStream` में लिखें।  
+5. **PDF को सत्यापित करें** – उत्पन्न PDF खोलें यह पुष्टि करने के लिए कि लेयर्स, आयाम, और व्यूपोर्ट सही ढंग से रेंडर हुए हैं।
 
-`CadViewOptions` वह विकल्प क्लास है जो व्यू दिशा (टॉप, फ्रंट, इसोमेट्रिक) और हिडन‑लाइन रिमूवल सेटिंग्स को परिभाषित करता है। व्यू सेट करने के बाद, आप 2‑D वर्कफ़्लो से वही `Converter` और `PdfConversionOptions` पुन: उपयोग करते हैं, फिर `convert` को कॉल करते हैं। यह 3‑D जियोमेट्री का साफ़ 2‑D प्रतिनिधित्व उत्पन्न करता है।
+## GroupDocs.Conversion Java का उपयोग करके 3D CAD को 2D में कैसे रूपांतरित करें
+अपना 3‑D मॉडल लोड करें, एक दृश्य चुनें, और उसे 2‑D PDF में फ्लैट करें। `CadViewOptions` दृश्य दिशा (ऊपर, सामने, इसोमेट्रिक) और छिपी‑लाइन हटाने की सेटिंग्स को परिभाषित करता है। दृश्य सेट करने के बाद, आप 2‑D कार्यप्रवाह से वही `Converter` और `PdfConversionOptions` पुनः उपयोग करते हैं, फिर `convert` को कॉल करते हैं। यह 3‑D ज्यामिति का एक साफ़ 2‑D प्रतिनिधित्व उत्पन्न करता है।
 
-## उपलब्ध ट्यूटोरियल्स
+## उपलब्ध ट्यूटोरियल
 
-### [Java में GroupDocs का उपयोग करके CAD लेआउट्स को PDF में बदलें&#58; चयनात्मक लेआउट रूपांतरण गाइड](./groupdocs-java-cad-to-pdf-selective-layouts/)
-GroupDocs.Conversion for Java का उपयोग करके विशिष्ट CAD लेआउट्स को PDF में कैसे बदलें, यह सीखें। यह गाइड सेटअप, चयनात्मक रूपांतरण, और प्रदर्शन टिप्स को कवर करता है।
+### [Java में GroupDocs&#58; चयनात्मक लेआउट रूपांतरण गाइड के साथ CAD लेआउट को PDF में बदलें](./groupdocs-java-cad-to-pdf-selective-layouts/)
+GroupDocs.Conversion for Java का उपयोग करके विशिष्ट CAD लेआउट को PDF में कैसे बदलें सीखें। यह गाइड सेटअप, चयनात्मक रूपांतरण, और प्रदर्शन टिप्स को कवर करता है।
 
-### [GroupDocs.Conversion Java का उपयोग करके कस्टम डाइमेंशन्स के साथ CAD को TIFF में बदलें&#58; एक व्यापक गाइड](./cad-conversion-tiff-custom-dimensions-groupdocs-java/)
-GroupDocs.Conversion for Java का उपयोग करके कस्टम डाइमेंशन्स के साथ CAD फ़ाइलों को उच्च‑गुणवत्ता वाले TIFF इमेज में कैसे बदलें, यह सीखें। प्रक्रिया को चरण‑दर‑चरण में महारत हासिल करें।
+### [GroupDocs.Conversion Java&#58; कस्टम आयामों के साथ CAD को TIFF में बदलें: एक व्यापक गाइड](./cad-conversion-tiff-custom-dimensions-groupdocs-java/)
+GroupDocs.Conversion for Java का उपयोग करके कस्टम आयामों के साथ CAD फ़ाइलों को उच्च‑गुणवत्ता वाले TIFF इमेज में कैसे बदलें सीखें। प्रक्रिया को चरण‑दर‑चरण में महारत हासिल करें।
 
 ## अतिरिक्त संसाधन
+
 - [GroupDocs.Conversion for Java दस्तावेज़ीकरण](https://docs.groupdocs.com/conversion/java/)
-- [GroupDocs.Conversion for Java API रेफ़रेंस](https://reference.groupdocs.com/conversion/java/)
+- [GroupDocs.Conversion for Java API संदर्भ](https://reference.groupdocs.com/conversion/java/)
 - [GroupDocs.Conversion for Java डाउनलोड करें](https://releases.groupdocs.com/conversion/java/)
 - [GroupDocs.Conversion फ़ोरम](https://forum.groupdocs.com/c/conversion)
 - [नि:शुल्क समर्थन](https://forum.groupdocs.com/)
@@ -134,27 +137,28 @@ GroupDocs.Conversion for Java का उपयोग करके कस्ट�
 ## अक्सर पूछे जाने वाले प्रश्न
 
 **Q: क्या मैं एक ही प्रोजेक्ट में 2‑D और 3‑D दोनों CAD फ़ाइलों को PDF में बदल सकता हूँ?**  
-A: हाँ। वही `Converter` क्लास दोनों को संभालती है; आपको केवल 3‑D मॉडल के लिए एक `CadViewOptions` व्यू निर्दिष्ट करना होगा।
+A: हाँ। वही `Converter` क्लास दोनों को संभालती है; आपको केवल 3‑D मॉडलों के लिए `CadViewOptions` दृश्य निर्दिष्ट करने की आवश्यकता है।
 
-**Q: परिवर्तन के दौरान लेयर विज़िबिलिटी कैसे संरक्षित रखूँ?**  
-A: लेयर फ़िल्टर करने के लिए `CadConversionOptions` का उपयोग करें, जिससे केवल चयनित लेयर्स आउटपुट PDF में दिखाई दें।  
-`CadConversionOptions` आपको यह नियंत्रित करने की अनुमति देता है कि परिवर्तन के दौरान कौन सी CAD लेयर्स शामिल हों।
+**Q: रूपांतरण के दौरान लेयर दृश्यता को कैसे संरक्षित रखूँ?**  
+A: लेयर को फ़िल्टर करने के लिए `CadConversionOptions` का उपयोग करें, जिससे केवल चयनित लेयर आउटपुट PDF में दिखाई दें। `CadConversionOptions` आपको रूपांतरण के दौरान कौन सी CAD लेयर शामिल हों, इसे नियंत्रित करने की अनुमति देता है।
 
-**Q: क्या एक साथ कई CAD फ़ाइलों को बैच‑कन्वर्ट करना संभव है?**  
-A: बिल्कुल। फ़ाइल पाथ्स के संग्रह पर इटररेट करें और प्रत्येक फ़ाइल के लिए परिवर्तन लॉजिक को कॉल करें।
+**Q: क्या कई CAD फ़ाइलों को एक साथ बैच‑कन्वर्ट करना संभव है?**  
+A: बिल्कुल। फ़ाइल पथों के संग्रह पर इटररेट करें और प्रत्येक फ़ाइल के लिए रूपांतरण लॉजिक को कॉल करें।
 
-**Q: मुझे किन फ़ाइल आकार सीमाओं का ध्यान रखना चाहिए?**  
-A: GroupDocs.Conversion डेटा को स्ट्रीम करता है, इसलिए कोई कठोर सीमा नहीं है, लेकिन अत्यधिक बड़े ड्रॉइंग्स के लिए JVM हीप साइज बढ़ाना लाभदायक होता है।
+**Q: मुझे किन फ़ाइल आकार सीमाओं के बारे में पता होना चाहिए?**  
+A: GroupDocs.Conversion डेटा को स्ट्रीम करता है, इसलिए कोई कठोर सीमा नहीं है, लेकिन अत्यधिक बड़े ड्रॉइंग के लिए JVM हीप आकार बढ़ाना लाभदायक होता है।
 
 **Q: क्या लाइब्रेरी पासवर्ड‑सुरक्षित CAD फ़ाइलों का समर्थन करती है?**  
-A: हाँ। स्रोत दस्तावेज़ लोड करते समय `LoadOptions` पैरामीटर के माध्यम से पासवर्ड प्रदान करें।  
-`LoadOptions` में दस्तावेज़ लोड करने की सेटिंग्स शामिल हैं, जिसमें पासवर्ड सुरक्षा भी है।
+A: हाँ। स्रोत दस्तावेज़ लोड करते समय `LoadOptions` पैरामीटर के माध्यम से पासवर्ड प्रदान करें। `LoadOptions` में दस्तावेज़ लोड करने की सेटिंग्स शामिल हैं, जिसमें पासवर्ड सुरक्षा भी है।
 
-**अंतिम अपडेट:** 2026-07-24  
+---
+
+**अंतिम अपडेट:** 2026-11-19  
 **परीक्षण किया गया:** GroupDocs.Conversion for Java 23.10  
 **लेखक:** GroupDocs  
 
-## संबंधित ट्यूटोरियल्स
+## संबंधित ट्यूटोरियल
+
 - [dwg को pdf में बदलें: Java में GroupDocs के साथ चयनात्मक लेआउट रूपांतरण](/conversion/java/cad-formats/groupdocs-java-cad-to-pdf-selective-layouts/)
-- [GroupDocs Conversion Java का उपयोग करके कस्टम डाइमेंशन्स के साथ CAD को TIFF में बदलें: एक व्यापक गाइड](/conversion/java/cad-formats/cad-conversion-tiff-custom-dimensions-groupdocs-java/)
-- [GroupDocs.Conversion for Java के साथ Word को PDF और अन्य फ़ाइल फ़ॉर्मेट्स में बदलें](/conversion/java/)
+- [GroupDocs Conversion Java का उपयोग करके कस्टम आयामों के साथ CAD को TIFF में बदलें: एक व्यापक गाइड](/conversion/java/cad-formats/cad-conversion-tiff-custom-dimensions-groupdocs-java/)
+- [GroupDocs.Conversion for Java के साथ Word को PDF और अन्य फ़ाइल स्वरूपों में बदलें](/conversion/java/)
