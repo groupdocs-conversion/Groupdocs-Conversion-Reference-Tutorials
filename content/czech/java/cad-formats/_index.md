@@ -1,31 +1,32 @@
 ---
-date: 2026-07-24
-description: Zjistěte, jak groupdocs conversion java umožňuje v Javě efektivně převádět
-  CAD do PDF. Praktický návod krok za krokem pro převod výkresů CAD (DWG, DXF, DGN)
-  do PDF pomocí GroupDocs.Conversion pro Javu.
+date: 2026-11-19
+description: Zjistěte, jak používat knihovnu Java PDF konverze k rychlému převodu
+  CAD souborů (DWG, DXF, DGN) do PDF pomocí GroupDocs.Conversion. Průvodce krok za
+  krokem pro vývojáře.
+images:
+- /java/cad-formats/og-image.png
 keywords:
-- groupdocs conversion java
-- java convert cad pdf
-- java cad to pdf
 - java pdf conversion library
-lastmod: 2026-07-24
-og_description: Objevte, jak groupdocs conversion java vám umožní rychle převést soubory
-  CAD do PDF v Javě. Postupujte podle našeho návodu krok za krokem s využitím přední
-  knihovny pro převod PDF v Javě.
+- java convert cad files pdf
+- groupdocs conversion java
+- cad to pdf java
+- java pdf conversion tutorial
+lastmod: 2026-11-19
+og_description: Použijte knihovnu Java PDF konverze k efektivnímu převodu CAD výkresů
+  (DWG, DXF, DGN) do PDF. GroupDocs.Conversion poskytuje výstup s vysokou věrností
+  a streamování pro velké soubory.
 og_image_alt: 'Guide: Convert CAD drawings to PDF using GroupDocs.Conversion for Java'
-og_title: groupdocs conversion java – Převod CAD do PDF v Javě
+og_title: Knihovna Java PDF konverze – rychlý převod CAD do PDF
 schemas:
 - author: GroupDocs
-  dateModified: '2026-07-24'
-  description: Learn how groupdocs conversion java enables java convert cad pdf efficiently.
-    Step‑by‑step tutorial for converting CAD drawings (DWG, DXF, DGN) to PDF using
-    GroupDocs.Conversion for Java.
-  headline: groupdocs conversion java – Convert CAD to PDF in Java
+  dateModified: '2026-11-19'
+  description: Learn how to use a Java PDF conversion library to quickly convert CAD
+    files to PDF with GroupDocs.Conversion. Step‑by‑step guide for developers.
+  headline: Java PDF conversion library – quickly convert CAD to PDF
   type: TechArticle
-- description: Learn how groupdocs conversion java enables java convert cad pdf efficiently.
-    Step‑by‑step tutorial for converting CAD drawings (DWG, DXF, DGN) to PDF using
-    GroupDocs.Conversion for Java.
-  name: groupdocs conversion java – Convert CAD to PDF in Java
+- description: Learn how to use a Java PDF conversion library to quickly convert CAD
+    files to PDF with GroupDocs.Conversion. Step‑by‑step guide for developers.
+  name: Java PDF conversion library – quickly convert CAD to PDF
   steps:
   - name: '**Initialize the Converter** – Create a `ConversionConfig` object (holds
       license and global settings) and supply your license key.'
@@ -72,93 +73,92 @@ tags:
 - groupdocs conversion
 - java pdf
 - cad to pdf
-title: groupdocs conversion java – Převod CAD do PDF v Javě
+title: Jak používat knihovnu Java PDF konverze pro převod CAD do PDF
 type: docs
 url: /cs/java/cad-formats/
 weight: 10
 ---
 
-# groupdocs conversion java – Převod CAD do PDF v Javě
+# Jak použít Java PDF konverzní knihovnu pro CAD do PDF
 
-Pokud jste vývojář Java a chcete **rychle a spolehlivě převádět výkresy CAD do PDF souborů**, narazili jste na správný tutoriál. V tomto průvodci projdeme scénáře **groupdocs conversion java**, vysvětlíme, proč je knihovna GroupDocs.Conversion solidní volbou, a nasměrujeme vás na připravené ukázky. Na konci budete schopni zachovat vrstvy, měření a rozvržení a zároveň vytvořit čisté PDF, které může otevřít kdokoli – bez nutnosti CAD softwaru.
+Pokud jste Java vývojář, který hledá **převést CAD výkresy do PDF souborů rychle a spolehlivě**, narazili jste na správný tutoriál. V tomto průvodci projdeme **GroupDocs.Conversion for Java**, vysvětlíme, proč je to špičková **java pdf conversion library**, a nasměrujeme vás na připravené příklady. Na konci budete schopni zachovat vrstvy, rozměry a rozvržení při tvorbě čistých PDF, které může otevřít kdokoli — není potřeba CAD software.
 
 ## Rychlé odpovědi
 - **Co dělá “convert cad pdf java”?** Převádí AutoCAD, DWG, DXF, DGN a další CAD formáty do PDF dokumentů pomocí Java kódu.  
-- **Která knihovna provádí převod?** GroupDocs.Conversion pro Java poskytuje high‑level API, které abstrahuje složitost renderování CAD.  
+- **Která knihovna provádí konverzi?** GroupDocs.Conversion for Java poskytuje high‑level API, které abstrahuje složitost CAD renderování.  
 - **Potřebuji licenci?** Dočasná licence funguje pro hodnocení; plná licence je vyžadována pro produkční použití.  
-- **Mohu vybrat konkrétní rozvržení?** Ano – můžete během převodu cílit na jednotlivé CAD rozvržení nebo pohledy.  
-- **Je podpora pro velké výkresy vestavěná?** Knihovna streamuje data, což umožňuje převod vícero megabajtových výkresů bez vyčerpání paměti.
+- **Mohu vybrat konkrétní rozvržení?** Ano – můžete cílit na jednotlivé CAD rozvržení nebo viewports během konverze.  
+- **Je podpora velkých výkresů vestavěná?** Knihovna streamuje data, což umožňuje konverzi multi‑megabajtových výkresů bez vyčerpání paměti.
 
-## Co je **convert cad pdf java**?
-**convert cad pdf java** je proces používání Java kódu k převodu nativních CAD souborů (DWG, DXF, DGN atd.) do PDF formátu. Tento převod zachovává vizuální věrnost, měřítko a data anotací, takže výsledná PDF jsou ideální pro revizi, tisk nebo archivaci.
+## Co je convert CAD PDF Java?
+Convert CAD PDF Java je proces používání Java kódu k převodu nativních CAD souborů (DWG, DXF, DGN, atd.) do PDF formátu. Tato konverze zachovává vizuální věrnost, měřítko a data anotací, takže výsledné PDF jsou ideální pro revizi, tisk nebo archivaci.
 
-## Proč používat GroupDocs.Conversion pro Java?
-GroupDocs.Conversion pro Java je **java pdf conversion library**, která zpracovává **více než 100 zdrojových formátů**, včetně složitých CAD výkresů, a zachovává technické detaily nedotčeny. Zpracovává soubory o stovkách stránek za méně než 2 sekundy na typickém serveru, streamuje data, aby se předešlo vysoké spotřebě paměti, a poskytuje jednoduchou Maven/Gradle závislost – není potřeba nativní CAD software.
+## Proč použít GroupDocs.Conversion for Java?
+GroupDocs.Conversion for Java je **java pdf conversion library**, která podporuje **více než 100 zdrojových formátů**, včetně složitých CAD výkresů, a přitom zachovává technické detaily. Zpracovává soubory s více stovkami stránek za méně než 2 sekundy na typickém serveru, streamuje data, aby se předešlo vysoké spotřebě paměti, a poskytuje jednoduchou Maven/Gradle závislost — není potřeba nativní CAD software.
 
 ## Požadavky
 - Java 8 nebo novější nainstalovaný.  
-- Knihovna GroupDocs.Conversion pro Java přidána do vašeho projektu (Maven/Gradle).  
+- Knihovna GroupDocs.Conversion for Java přidána do vašeho projektu (Maven/Gradle).  
 - Platný dočasný nebo plný licenční klíč GroupDocs.  
 
-## Jak **convert cad pdf java** – Průvodce krok za krokem
-Tento průvodce vás provede kompletním pracovním postupem převodu, od inicializace knihovny po ověření vygenerovaného PDF, a zajistí, že máte jasný, opakovatelný proces pro jakýkoli CAD zdroj. Pracovní postup převodu zahrnuje inicializaci knihovny s vaší licencí, načtení CAD zdroje, nastavení možností výstupu PDF, jako je velikost stránky a DPI, provedení převodu a nakonec ověření výsledného PDF. Dodržení těchto kroků zaručuje konzistentní výsledky, optimální výkon a snadnou integraci do vašich Java aplikací.
+## Jak převést CAD PDF Java – krok za krokem průvodce
+Načtěte, nakonfigurujte a spusťte konverzi v pěti stručných krocích. Tento pracovní postup zaručuje konzistentní výsledky, optimální výkon a snadnou integraci do jakékoli Java aplikace.
 
-1. **Inicializujte převodník** – Vytvořte objekt `ConversionConfig` (obsahuje licenci a globální nastavení) a zadejte svůj licenční klíč.  
+Třída `ConversionConfig` obsahuje globální nastavení a licenční klíč pro knihovnu.  
+Třída `Converter` je jádrový engine, který čte CAD soubory a řídí konverzní pipeline.  
+`PdfConversionOptions` definuje parametry výstupu PDF, jako jsou rozměry stránky, DPI a výběr rozvržení.
+
+1. **Inicializujte Converter** – Vytvořte objekt `ConversionConfig` (obsahuje licenci a globální nastavení) a zadejte svůj licenční klíč.  
 2. **Načtěte CAD dokument** – Použijte třídu `Converter` (centrální engine, který čte CAD soubory) k otevření zdrojového souboru.  
-3. **Vyberte možnosti výstupu** – Nakonfigurujte objekt `PdfConversionOptions` pro nastavení velikosti stránky, DPI a výběru rozvržení.  
-   `PdfConversionOptions` určuje parametry výstupu PDF, jako jsou rozměry stránky a kvalita renderování.  
-4. **Spusťte převod** – Zavolejte `converter.convert(options, outputStream)` a výsledek zapište do `FileOutputStream`.  
-5. **Ověřte PDF** – Otevřete vygenerované PDF a potvrďte, že vrstvy, rozměry a pohledy jsou správně vykresleny.
+3. **Vyberte výstupní možnosti** – Nakonfigurujte objekt `PdfConversionOptions` pro nastavení velikosti stránky, DPI a výběru rozvržení. `PdfConversionOptions` specifikuje parametry výstupu PDF, jako jsou rozměry stránky a kvalita renderování.  
+4. **Spusťte konverzi** – Zavolejte `converter.convert(options, outputStream)` a výsledek zapište do `FileOutputStream`.  
+5. **Ověřte PDF** – Otevřete vygenerované PDF a potvrďte, že vrstvy, rozměry a viewports jsou správně vykresleny.
 
-### Jak **convert 3d cad 2d** pomocí GroupDocs.Conversion Java
-Načtěte svůj 3‑D model, vyberte pohled a zploštěte jej do 2‑D PDF.
-
-`CadViewOptions` je třída možností, která definuje směr pohledu (nahoře, zepředu, izometrický) a nastavení odstranění skrytých čar. Po nastavení pohledu znovu použijete stejný `Converter` a `PdfConversionOptions` z 2‑D pracovního postupu a poté zavoláte `convert`. Tím vznikne čistá 2‑D reprezentace 3‑D geometrie.
+## Jak převést 3D CAD na 2D pomocí GroupDocs.Conversion Java
+Načtěte svůj 3‑D model, vyberte pohled a zploštěte jej do 2‑D PDF. `CadViewOptions` definuje směr pohledu (nahoře, zepředu, izometrický) a nastavení odstranění skrytých čar. Po nastavení pohledu znovu použijete stejný `Converter` a `PdfConversionOptions` z 2‑D workflow a zavoláte `convert`. To vytvoří čistou 2‑D reprezentaci 3‑D geometrie.
 
 ## Dostupné tutoriály
 
-### [Převod CAD rozvržení do PDF v Javě pomocí GroupDocs: Průvodce selektivním převodem rozvržení](./groupdocs-java-cad-to-pdf-selective-layouts/)
-Naučte se, jak převádět konkrétní CAD rozvržení do PDF pomocí GroupDocs.Conversion pro Java. Tento průvodce zahrnuje nastavení, selektivní převod a tipy na výkon.
+### [Převést CAD rozvržení do PDF v Javě pomocí GroupDocs: Průvodce selektivní konverzí rozvržení](./groupdocs-java-cad-to-pdf-selective-layouts/)
+Naučte se, jak převést konkrétní CAD rozvržení do PDF pomocí GroupDocs.Conversion for Java. Tento průvodce pokrývá nastavení, selektivní konverzi a tipy na výkon.
 
-### [Převod CAD do TIFF s vlastními rozměry pomocí GroupDocs.Conversion Java: Komplexní průvodce](./cad-conversion-tiff-custom-dimensions-groupdocs-java/)
-Naučte se, jak převádět CAD soubory na vysoce kvalitní TIFF obrázky s vlastními rozměry pomocí GroupDocs.Conversion pro Java. Ovládněte proces krok za krokem.
+### [Převést CAD do TIFF s vlastními rozměry pomocí GroupDocs.Conversion Java: Komplexní průvodce](./cad-conversion-tiff-custom-dimensions-groupdocs-java/)
+Naučte se, jak převést CAD soubory do vysoce kvalitních TIFF obrázků s vlastními rozměry pomocí GroupDocs.Conversion for Java. Ovládněte proces krok za krokem.
 
 ## Další zdroje
 
-- [Dokumentace GroupDocs.Conversion pro Java](https://docs.groupdocs.com/conversion/java/)
-- [Reference API GroupDocs.Conversion pro Java](https://reference.groupdocs.com/conversion/java/)
-- [Stáhnout GroupDocs.Conversion pro Java](https://releases.groupdocs.com/conversion/java/)
+- [Dokumentace GroupDocs.Conversion for Java](https://docs.groupdocs.com/conversion/java/)
+- [Reference API GroupDocs.Conversion for Java](https://reference.groupdocs.com/conversion/java/)
+- [Stáhnout GroupDocs.Conversion for Java](https://releases.groupdocs.com/conversion/java/)
 - [Fórum GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion)
 - [Bezplatná podpora](https://forum.groupdocs.com/)
 - [Dočasná licence](https://purchase.groupdocs.com/temporary-license/)
 
 ## Často kladené otázky
 
-**Q: Mohu převádět jak 2‑D, tak 3‑D CAD soubory do PDF ve stejném projektu?**  
-A: Ano. Stejná třída `Converter` zvládá oba typy; stačí specifikovat pohled `CadViewOptions` pro 3‑D modely.
+**Q: Mohu převést jak 2‑D, tak 3‑D CAD soubory do PDF ve stejném projektu?**  
+A: Ano. Stejná třída `Converter` obě zvládne; stačí specifikovat pohled `CadViewOptions` pro 3‑D modely.
 
-**Q: Jak zachovat viditelnost vrstev při převodu?**  
-A: Použijte `CadConversionOptions` k filtrování vrstev, aby se v výstupním PDF objevily pouze vybrané vrstvy.  
-`CadConversionOptions` vám umožňuje řídit, které CAD vrstvy jsou zahrnuty během převodu.
+**Q: Jak zachovat viditelnost vrstev při konverzi?**  
+A: Použijte `CadConversionOptions` k filtrování vrstev, aby se do výstupního PDF objevily jen vybrané vrstvy. `CadConversionOptions` vám umožňuje řídit, které CAD vrstvy jsou zahrnuty během konverze.
 
-**Q: Je možné hromadně převádět více CAD souborů najednou?**  
-A: Ano. Procházejte kolekci cest k souborům a pro každý soubor zavolejte logiku převodu.
+**Q: Je možné najednou hromadně převést více CAD souborů?**  
+A: Rozhodně. Procházejte kolekci cest k souborům a pro každý soubor zavolejte konverzní logiku.
 
 **Q: Jaká omezení velikosti souboru bych měl znát?**  
 A: GroupDocs.Conversion streamuje data, takže neexistuje pevný limit, ale extrémně velké výkresy těží ze zvýšení velikosti haldy JVM.
 
 **Q: Podporuje knihovna CAD soubory chráněné heslem?**  
-A: Ano. Heslo poskytněte pomocí parametru `LoadOptions` při načítání zdrojového dokumentu.  
-`LoadOptions` obsahuje nastavení pro načítání dokumentů, včetně ochrany heslem.
+A: Ano. Heslo zadejte pomocí parametru `LoadOptions` při načítání zdrojového dokumentu. `LoadOptions` obsahuje nastavení pro načítání dokumentů, včetně ochrany heslem.
 
 ---
 
-**Poslední aktualizace:** 2026-07-24  
-**Testováno s:** GroupDocs.Conversion pro Java 23.10  
+**Poslední aktualizace:** 2026-11-19  
+**Testováno s:** GroupDocs.Conversion for Java 23.10  
 **Autor:** GroupDocs  
 
 ## Související tutoriály
 
-- [převod dwg na pdf: Selektivní převod rozvržení v Javě s GroupDocs](/conversion/java/cad-formats/groupdocs-java-cad-to-pdf-selective-layouts/)
-- [Převod CAD do TIFF s vlastními rozměry pomocí GroupDocs Conversion Java: Komplexní průvodce](/conversion/java/cad-formats/cad-conversion-tiff-custom-dimensions-groupdocs-java/)
-- [Převod Wordu do PDF a dalších formátů souborů pomocí GroupDocs.Conversion pro Java](/conversion/java/)
+- [převést dwg na pdf: Selektivní konverze rozvržení v Javě s GroupDocs](/conversion/java/cad-formats/groupdocs-java-cad-to-pdf-selective-layouts/)
+- [Převést CAD do TIFF s vlastními rozměry pomocí GroupDocs Conversion Java: Komplexní průvodce](/conversion/java/cad-formats/cad-conversion-tiff-custom-dimensions-groupdocs-java/)
+- [Převést Word do PDF a dalších formátů souborů s GroupDocs.Conversion for Java](/conversion/java/)
